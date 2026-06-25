@@ -4348,6 +4348,243 @@ That\'s the Tomas Haake way: complexity in service of groove, technique in servi
     }
   },
 
+  // Tomas Haake - Nothing (2002)
+  'nothing-drum-setup': {
+    slug: 'nothing-drum-setup',
+    albumTitle: 'Nothing',
+    artist: 'Meshuggah',
+    drummer: 'Tomas Haake',
+    drummerId: 5,
+    relatedDrummerSlug: 'tomas-haake',
+    year: 2002,
+    genre: 'Extreme Progressive Metal / Djent',
+    label: 'Nuclear Blast',
+    studio: 'Nacksving Studio, Stockholm',
+    producer: 'Meshuggah',
+    isAlbumArticle: true,
+    datePublished: '2026-06-25',
+    dateModified: '2026-06-25',
+    author: 'MetalForge Editorial',
+    title: "Nothing Drum Setup: Tomas Haake's Polyrhythmic Blueprint (Meshuggah, 2002)",
+    description: "Complete breakdown of Tomas Haake's drum setup on Meshuggah's Nothing (2002). Discover the Sonor kit behind the album that defined polyrhythmic metal — the snare displacement technique, djent's origin, and the gear behind Rational Gaze.",
+    seoKeywords: ['nothing meshuggah drums', 'tomas haake 2002 kit', 'meshuggah nothing drum setup', 'tomas haake sonor designer', 'djent origin drums', 'tomas haake nothing drums', 'meshuggah nothing gear', 'rational gaze drum pattern'],
+    ogImage: '/images/albums/nothing-drums.webp',
+    intro: {
+      title: 'The Album That Defined Djent Before the Word Existed',
+      content: `Released on January 22, 2002, Meshuggah\'s *Nothing* stands as one of the most seismically disruptive metal records of its era. At its center: a drum performance by Tomas Haake that established the polyrhythmic snare displacement technique that would define an entire genre before that genre had a name.
+
+*Nothing* marked Meshuggah\'s decisive move into sonic extremes that would define their legacy. The album featured the band\'s first recordings with 8-string guitars tuned to F# standard — an almost absurdly low tuning that created a sonic mass requiring drums of equal weight and precision. Haake answered with patterns of extraordinary polyrhythmic density, layering kick cycles that span multiple bars over a maintained 4/4 hi-hat pulse, while displacing the snare accent from conventional backbeat positions to create the illusion of continuously shifting meter.
+
+This snare displacement technique — anchoring the listener to the music\'s "true" pulse while simultaneously suggesting that time is rotating around itself — became the defining characteristic of what djent would later name and codify. Every band that cited Meshuggah as a formative influence, from Periphery to Animals as Leaders to Tesseract, was drawing from the vocabulary *Nothing* established in 2002.
+
+This article breaks down the gear Tomas Haake used to record *Nothing*, explores the technical innovations that defined the album, and examines why it remains one of the most studied drum performances in progressive metal more than two decades later.`,
+      keyPoints: [
+        'Meshuggah\'s 4th studio album — first with 8-string guitars in F# standard tuning',
+        'Haake used Sonor Designer Series — same kit platform as Catch 33 live performances and obZen (2008)',
+        'Polyrhythmic snare displacement technique established as Meshuggah\'s signature approach',
+        'Sabian AAX / AA cymbals consistent with the obZen-era setup that followed',
+        'Two independent single pedals — the foot independence approach Haake maintains throughout his career',
+        'Foundational album for the djent genre, years before the term was coined'
+      ]
+    },
+    drumKit: {
+      title: "The Polyrhythmic Engine: Sonor Designer Series",
+      brand: 'Sonor',
+      model: 'Sonor Designer Series',
+      finish: 'Ebony Piano Black',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Maple shells with beech reinforcement rings'
+      },
+      description: `For *Nothing*, Tomas Haake used the Sonor Designer Series kit — the same platform he maintained through the Catch 33 era (live performances, 2005) and *obZen* (2008). The Designer Series was Sonor\'s flagship offering at the time, combining maple shells with beech reinforcement rings for tight, articulate attack and controlled sustain.
+
+In Meshuggah\'s sonic environment — guitars downtuned to F# competing for low-frequency space with bass drums and bass guitar — the Sonor Designer Series\' ability to cut through with definition was essential. The maple-beech combination delivers precise transients that separate cleanly from the guitar mass, making every kick drum note audible within the polyrhythmic patterns regardless of the surrounding density.
+
+Haake\'s configuration follows the same minimalist philosophy he maintains throughout his career: two 22-inch bass drums, a compact four-tom setup, and nothing extraneous. *Nothing*\'s music doesn\'t require extended tom runs — it demands perfect kick-snare-hi-hat relationships executed at extreme polyrhythmic complexity. The kit was configured entirely in service of that demand.
+
+The two 22x18 inch bass drums, driven by two fully independent single pedals, are central to the album\'s sound. Haake\'s dual-single-pedal approach means each foot operates with complete independence — no connecting linkage, no shared cam geometry. For *Nothing*\'s layered foot patterns, this independence is not optional.`,
+      notes: [
+        'Same Sonor Designer Series platform as Catch 33 live kit and obZen (2008)',
+        'Maple/beech shells for articulate attack and controlled sustain',
+        'Two 22x18 bass drums — driven by two fully independent single pedals',
+        'Compact four-tom configuration matches Meshuggah\'s groove-focused approach',
+        'Bass drums tuned tight for definition in the F#-tuned guitar environment'
+      ],
+      estimatedValue: '$4,500-6,500 (2002)'
+    },
+    snare: {
+      title: 'The Displaced Anchor: Snare Technique on Nothing',
+      brand: 'Sonor',
+      model: 'Sonor Designer Series Steel',
+      size: '14" x 6"',
+      shell: 'Steel',
+      description: `The snare drum on *Nothing* performs a role that defines Meshuggah\'s entire rhythmic language. Rather than simply reinforcing beats 2 and 4 as a conventional metal backbeat would, Haake displaces the snare accent to create reference points that interact with — and sometimes contradict — the guitar\'s rhythmic cycle.
+
+This displacement technique is the technical heart of *Nothing*\'s drumming. Haake maintains an internal awareness of the "true" 4/4 pulse while placing snare accents at positions that cycle through the bar in extended patterns. The listener perceives this as constantly shifting meter — the music seems to rotate around itself — while Haake is actually maintaining strict metronomic precision throughout. The complexity is an illusion; the discipline required to execute it is not.
+
+The Sonor Designer Series steel snare suited this role perfectly. Steel shells provide bright, consistent attack across a wide dynamic range — from barely-audible ghost notes to full rimshots — with fast response and minimal sustained ring. In *Nothing*\'s dense mix, each snare hit had to be precisely placed and immediately audible: the steel shell\'s character cut through the downtuned guitar mass without needing heavy EQ assistance.
+
+Tuned medium-high with tight snare wires, the snare prioritizes attack and definition over warmth. This same basic setup carried through to *obZen* (2008), where it underpins "Bleed" with the same displaced-accent logic taken to new extremes.`,
+      tuningSetting: 'Medium-high tension for attack; snare wires tightened for clarity in dense mix',
+      heads: 'Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)',
+      estimatedValue: '$350-450 (2002)'
+    },
+    cymbals: {
+      title: 'Sabian Precision: Cutting Through the Low-End Wall',
+      brand: 'Sabian',
+      series: 'AAX / AA',
+      setup: [
+        { type: 'Hi-Hats', model: 'Sabian AA 14" Regular Hi-Hats', position: 'Left side', notes: 'Pulse reference in polyrhythmic patterns; precise open/closed articulation' },
+        { type: 'Crash', model: 'Sabian AAX 18" X-Plosion Crash', position: 'Left of hi-hats', notes: 'Fast attack, quick decay — structural accent crashes' },
+        { type: 'Crash', model: 'Sabian AAX 19" X-Plosion Crash', position: 'Right of toms', notes: 'Larger for fuller section-transition accents' },
+        { type: 'Ride', model: 'Sabian AA 21" Rock Ride', position: 'Far right', notes: 'Authority for groove sections; defined bell for accent work' },
+        { type: 'China', model: 'Sabian AAX 19" Chinese', position: 'Above floor tom', notes: 'Trashy section punctuation and transition accents' }
+      ],
+      description: `Tomas Haake\'s cymbal setup for *Nothing* was built around Sabian\'s AAX and AA series — the same brand and series family he maintained through *obZen* (2008). In Meshuggah\'s extreme sonic environment, where 8-string guitars tuned to F# dominate the low-frequency spectrum, cymbal selection must prioritize projection and definition over warmth.
+
+The 14" AA Regular hi-hats serve as the pulse reference throughout *Nothing*. In Haake\'s polyrhythmic architecture, the hi-hat often maintains the "true" subdivision while kick and snare patterns cycle through extended arcs that only resolve back to beat one after several bars. The Regular hi-hats provide the precise open/closed articulation this role demands.
+
+The AAX X-Plosion crashes deliver fast attack and quick decay — essential in Meshuggah\'s context, where cymbal accents serve structural functions within the rhythmic cycle rather than purely expressive ones. The defined attack of the X-Plosion series makes these structural accent points audible in the dense mix.
+
+The heavy 21" ride and AAX China provide the authority and character needed for *Nothing*\'s more intense passages, with the China\'s trashy explosions punctuating the most rhythmically dramatic section transitions.`,
+      estimatedValue: '$1,200-1,800 (2002)'
+    },
+    hardware: {
+      title: 'Hardware: The Foundation of Foot Independence',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Sonor',
+          model: 'Sonor Perfect Balance Pedal (x2 single pedals)',
+          notes: 'Two completely independent single pedals — no double pedal linkage',
+          description: 'Haake\'s signature approach throughout his career: two independent single bass drum pedals rather than a connected double pedal. For Nothing\'s polyrhythmic foot patterns, each foot must operate with complete independence. A double pedal\'s mechanical linkage compromises the independence that Haake\'s patterns require. Two single pedals solve this and are non-negotiable for his technique.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Sonor',
+          model: 'Sonor 600 Series Hi-Hat Stand',
+          notes: 'Standard professional stand matching the Sonor kit configuration'
+        },
+        {
+          type: 'Throne',
+          brand: 'Porter & Davies',
+          model: 'Porter & Davies BC2 Vibrating Throne',
+          notes: 'Tactile bass drum monitoring for precision at extreme volumes',
+          description: 'The Porter & Davies vibrating throne transduces bass drum signal into physical vibration felt through the seat, allowing Haake to "feel" kick drum notes when monitor wedges cannot deliver adequate low-frequency information at concert volumes. For maintaining polyrhythmic kick precision in the extreme sound pressure levels of a metal performance, tactile feedback supplements acoustic monitoring.'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A American Classic',
+          notes: 'Standard 5A sticks — same as the obZen era, before his signature model'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke P3 Clear (batter), Remo Powerstroke P3 Ebony (resonant)',
+        toms: 'Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)'
+      }
+    },
+    recordingTechniques: {
+      title: 'Recording Nothing: Precision in the Dense Mix',
+      content: `*Nothing* was recorded with the obsessive rhythmic precision that defines Meshuggah\'s entire approach. Unlike the programmed experiment of *Catch 33* (2005), every drum note is a live performance — making the album\'s complexity a direct testament to Haake\'s technique.
+
+**The Click Track and Polyrhythmic Clarity:**
+Recording to a click track while playing patterns that deliberately create the perception of shifting meter demands a specific cognitive framework. Haake simultaneously internalizes the "true" pulse (4/4, what the click is counting) and the "apparent" pulse (what his patterns suggest to a listener). These two pulses coexist in his awareness throughout the performance — the click is never confused with the groove, and the groove never drifts from the click. This dual-awareness is a hallmark of elite polyrhythmic drumming.
+
+**Tuning for Extreme Density:**
+With guitars tuned to F# — occupying the extreme low end of 8-string territory — the bass drums had to be tuned carefully to avoid muddying into the guitar frequencies. Haake\'s approach was to tune for punch and definition with minimal sustain, keeping the kick notes articulate within the dense low-frequency mass. The Sonor Designer Series bass drums\' controlled sustain characteristics aided this.
+
+**The Mix Philosophy:**
+*Nothing*\'s drum sound is relatively dry and close-miked — minimal room ambience, clinical precision. This approach amplifies the almost mechanically precise quality of the polyrhythms while keeping every rhythmic subtlety audible. In patterns where every note\'s position within the metric cycle matters, a blurry or roomy drum sound would undermine the rhythmic information.`,
+      keyTechniques: [
+        'Live performance throughout — no programmed elements (contrast with Catch 33)',
+        'Click track recording with polyrhythmic patterns cycling over multiple bars',
+        'Bass drums tuned for punch and definition in extreme low-frequency environment',
+        'Dry, close-miked drum sound for rhythmic clarity and precision',
+        'Snare displacement: accent position cycles through the bar for multi-meter illusion',
+        'Hi-hat maintains "true" 4/4 pulse while kick and snare explore polyrhythmic territory'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Rational Gaze',
+        bpm: '~100',
+        signature: 'Polymetric — 4/4 with extended kick/snare cycles',
+        highlights: [
+          'Hi-hat maintains the true 4/4 pulse throughout',
+          'Kick pattern cycles over multiple bars before resolving to beat one',
+          'Standard reference for studying Meshuggah\'s polyrhythmic approach',
+          'Demonstrates groove-first philosophy even at extreme rhythmic complexity'
+        ],
+        gearNotes: 'The Sonor Designer Series bass drums\' punch is audible on Rational Gaze — every kick note articulates cleanly within the polyrhythmic pattern despite the guitar density.'
+      },
+      {
+        track: 'Nothing',
+        bpm: '~90',
+        signature: '4/4 with heavy syncopation and snare displacement',
+        highlights: [
+          'Title track features some of the album\'s most dramatic snare displacement',
+          'Slower tempo amplifies the hypnotic, vertiginous quality of the polyrhythms',
+          'Crash accents placed at specific structural positions within the rhythmic cycle',
+          'Bass drum pattern creates a counter-pulse against the guitar riff cycle'
+        ],
+        gearNotes: 'The Sabian AAX crashes\' fast attack is critical on the title track — each crash functions as a rhythmic marker rather than pure feel expression.'
+      },
+      {
+        track: 'Straws Pulled at Random',
+        bpm: '~115',
+        signature: 'Polymetric — snare displacement over 4/4 foundation',
+        highlights: [
+          'Frequently cited for studying Haake\'s snare displacement technique',
+          'Demonstrates how snare positioning creates the time-signature-shifting illusion',
+          'Haake maintains metronomic precision while patterns cycle through long arcs',
+          'Hi-hat pulse vs. snare position relationship is key to understanding the pattern'
+        ],
+        gearNotes: 'Two independent single pedals are essential for Straws Pulled at Random — the kick patterns require complete foot independence that double pedal linkage would compromise.'
+      }
+    ],
+    faq: [
+      {
+        question: "What drum kit did Tomas Haake use on Meshuggah's Nothing?",
+        answer: "Tomas Haake recorded Meshuggah's Nothing (2002) on a Sonor Designer Series kit — the same platform he maintained through live Catch 33 performances (2005) and the obZen recording sessions (2008). The configuration featured maple shells with beech reinforcement rings, two 22x18 inch bass drums driven by two independent single Sonor Perfect Balance pedals, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. Cymbals were Sabian AAX and AA series. The Sonor Designer Series' articulate attack and controlled sustain were essential for maintaining definition in the extreme low-frequency environment created by Meshuggah's 8-string guitars tuned to F# standard.",
+      },
+      {
+        question: "What is the snare displacement technique on Nothing?",
+        answer: "The snare displacement technique on Meshuggah's Nothing refers to Tomas Haake placing snare accents at non-standard positions within the bar — moving the accent away from conventional beats 2 and 4 to create the illusion of continuously shifting time signatures. Haake maintains the true 4/4 pulse internally while his snare patterns cycle through extended metric arcs. The listener perceives what sounds like constantly rotating meter, but the underlying pulse is strict 4/4 throughout. This technique — snare displacement over a maintained pulse — became the defining characteristic of djent, the genre that grew from Meshuggah's influence in the years after Nothing was recorded.",
+      },
+      {
+        question: "Why is Meshuggah's Nothing historically important for drummers?",
+        answer: "Meshuggah's Nothing (2002) is historically important because it established the polyrhythmic snare displacement blueprint that defined the djent genre. Tomas Haake's drumming on the album — kick patterns cycling through multi-bar arcs, snare accents displaced for metric illusion, hi-hat maintaining the true pulse — provided the rhythmic vocabulary that djent would name and codify years later. The album also documented Haake's first recordings with 8-string guitars in extreme downtuning, demonstrating that drum performance could anchor music in a sonic environment of unprecedented density. Nothing sits between the Chaosphere era and the entirely programmed Catch 33, making it a critical reference for understanding Haake's development.",
+      },
+      {
+        question: "How does Nothing's drum setup compare to obZen?",
+        answer: "The drum setup on Nothing (2002) and obZen (2008) is built on the same foundation: Sonor Designer Series kit, Sabian AAX/AA cymbals, two Sonor Perfect Balance single pedals, and Vic Firth 5A sticks. The gear platform was consistent across this six-year period, making the differences between the two albums a matter of technique and musical ambition rather than equipment. obZen pushed further with the 'Bleed' pattern's continuous 32nd-note bass drum pattern — a six-month practice project that Nothing's patterns didn't demand. Both albums are essential for understanding how Haake developed the polyrhythmic vocabulary that defines Meshuggah.",
+      },
+      {
+        question: "Was Nothing the first Meshuggah album with 8-string guitars?",
+        answer: "Yes, Nothing (2002) was the first Meshuggah album recorded with 8-string guitars — Fredrik Thordendal and Mårten Hagström used custom 8-string instruments tuned to F# standard, which at the time was an almost unprecedented choice in metal production. The extreme downtuning created a sonic density that demanded a corresponding recalibration of the drum approach. Tomas Haake's polyrhythmic patterns on Nothing function partly as a response to the guitar sonic mass — the drums needed to cut through, anchor, and interact with frequencies far lower than conventional metal had previously explored. This sonic territory set the stage for the djent movement's subsequent use of extended-range guitars.",
+      },
+    ],
+    conclusion: {
+      title: 'The Blueprint That Built a Genre',
+      content: `*Nothing* is where the djent blueprint was drawn, years before the genre had a name or a community. When Periphery, Animals as Leaders, and a generation of progressive metal bands began citing Meshuggah as their foundational influence, they were citing the vocabulary that *Nothing* codified in January 2002.
+
+For Tomas Haake, the album represents the full crystallization of a technique that had been developing across *Chaosphere* (1998) — the polyrhythmic approach now executed with a precision and musical confidence that would carry forward through *Catch 33* (2005), *obZen* (2008), *Koloss* (2012), and beyond. The Sonor Designer Series kit that anchored these recordings was the same one he maintained through the decade — not because he lacked options, but because the equipment served the vision perfectly.
+
+The practical lesson for drummers studying *Nothing* is the same one that runs through Haake\'s entire catalog: extreme complexity and powerful groove are not in opposition. The patterns on *Nothing* are intellectually staggering in their rhythmic architecture, yet the album *grooves* — it moves the body even as it stuns the mind. That combination, more than the technical achievements themselves, is what made *Nothing* the foundational document of a genre.
+
+Two decades after its release, *Nothing* remains essential listening for anyone who wants to understand where the djent template came from — and essential study for any drummer who wants to understand what polyrhythmic displacement actually sounds like when played by a master. 🤘`
+    },
+    videos: [],
+    relatedAlbums: ['catch-33-drum-setup', 'obzen-drum-setup', 'violent-sleep-of-reason-drum-setup'],
+    relatedDrummers: [14, 9, 16], // Danny Carey, Mario Duplantier, Travis Orbin
+    relatedArticles: ['whats-in-tomas-haakes-kit', 'djent-drumming-guide', 'polyrhythm-exercises-metal'],
+    relatedLicks: [],
+  },
+
   'catch-33-drum-setup': {
     slug: 'catch-33-drum-setup',
     albumTitle: 'Catch 33',
@@ -4937,6 +5174,241 @@ Fifteen years after its release, obZen remains the benchmark for polyrhythmic me
 
 Tomas Haake didn't just record an album — he changed what drummers believed was possible. And that's why obZen will be studied, attempted, and celebrated for generations to come. 🤘`
     }
+  },
+
+  // Tomas Haake - Koloss (2012)
+  'koloss-drum-setup': {
+    slug: 'koloss-drum-setup',
+    albumTitle: 'Koloss',
+    artist: 'Meshuggah',
+    drummer: 'Tomas Haake',
+    drummerId: 5,
+    relatedDrummerSlug: 'tomas-haake',
+    year: 2012,
+    genre: 'Extreme Progressive Metal / Djent',
+    label: 'Nuclear Blast',
+    studio: 'Fear and Loathing Studios, Stockholm',
+    producer: 'Meshuggah',
+    isAlbumArticle: true,
+    datePublished: '2026-06-25',
+    dateModified: '2026-06-25',
+    author: 'MetalForge Editorial',
+    title: "Koloss Drum Setup: Tomas Haake's Most Groove-Focused Meshuggah Performance (2012)",
+    description: "Complete breakdown of Tomas Haake's drum setup on Meshuggah's Koloss (2012). Discover the gear behind 'Do Not Look Down' — Haake's most-cited single groove — and how Koloss balanced extreme heaviness with refined polyrhythmic accessibility.",
+    seoKeywords: ['koloss meshuggah drums', 'tomas haake 2012 kit', 'meshuggah koloss drum setup', 'do not look down drum groove', 'tomas haake sonor sq2', 'djent drum setup 2012', 'koloss drum breakdown', 'tomas haake koloss gear'],
+    ogImage: '/images/albums/koloss-drums.webp',
+    intro: {
+      title: 'Heavy, Groovy, Refined: The Koloss Era',
+      content: `Released on March 26, 2012, Meshuggah\'s *Koloss* arrived four years after the landmark *obZen* and four years before *The Violent Sleep of Reason* — sitting at the midpoint of the band\'s most celebrated period and representing Tomas Haake at the peak of his technical and musical maturity.
+
+Where *obZen* (2008) pushed polyrhythmic complexity to its extreme — "Bleed" is perhaps the most technically demanding pattern ever recorded live — *Koloss* marked a deliberate recalibration toward groove and heaviness. The album is slower, heavier, and more riff-focused than its predecessor, with polyrhythms that serve massive, lurching grooves rather than technical showcases. The effect is paradoxically more crushing despite the reduced tempo: *Koloss* hits harder precisely because it\'s less frantic.
+
+For Haake, *Koloss* represented a gear transition point. By 2012, he had begun moving from the Sonor Designer Series kit that anchored the *obZen* era toward the Sonor SQ2 — a professional custom-order line that allowed enhanced shell specification and configuration. The SQ2\'s customization options allowed Haake to dial in the specific parameters his playing demanded.
+
+"Do Not Look Down" — perhaps the most-cited single Haake groove in the *Koloss* catalog — exemplifies this era\'s philosophy: a pattern of genuine polyrhythmic complexity that feels like a bulldozer rather than a mechanism. The groove serves the song. That, ultimately, is the lesson of *Koloss*.`,
+      keyPoints: [
+        'Released March 26, 2012 — midpoint between obZen (2008) and The Violent Sleep of Reason (2016)',
+        'More groove-focused and riff-heavy than obZen — deliberate shift in compositional philosophy',
+        'Haake transitioning from Sonor Designer Series to Sonor SQ2 during this period',
+        '"Do Not Look Down" — most-cited single Haake groove from the Koloss sessions',
+        'Sabian AAX / AA cymbals maintained from the obZen era',
+        'Grammy nomination for Best Metal Performance — continued relevance a decade after Nothing'
+      ]
+    },
+    drumKit: {
+      title: "The Groove Engine: Sonor SQ2",
+      brand: 'Sonor',
+      model: 'Sonor SQ2',
+      finish: 'Custom Piano Black',
+      config: {
+        bassdrums: ['22" x 18" Bass Drum (x2)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'North American Maple (custom SQ2 shell specification)'
+      },
+      description: `By the *Koloss* sessions in 2012, Tomas Haake had begun transitioning from the Sonor Designer Series (used on *obZen* in 2008) to the Sonor SQ2 — a professional custom-order platform that allowed more precise specification of shell dimensions, ply count, and hardware configuration.
+
+The SQ2\'s North American maple shells produce a warm, full-bodied fundamental with focused attack — a character that suited *Koloss*\'s heavier, groove-focused approach. Where the *obZen*-era Designer Series had a tight, somewhat dry character optimized for the studio\'s controlled environment, the SQ2\'s rounder tone complemented the album\'s more massive, slower-burning compositions.
+
+The configuration remained consistent with Haake\'s established philosophy: two 22-inch bass drums, compact four-tom arrangement, no extraneous elements. *Koloss*\'s music demands the same fundamental approach as the earlier Meshuggah catalog — precision kick patterns, displaced snare accents, hi-hat pulse reference — and the kit configuration continued to serve exactly those demands.
+
+The move to SQ2 was as much about the platform\'s customization flexibility as any tonal difference from the Designer Series. As Haake\'s profile within Sonor\'s artist roster grew, access to custom-specified shells and hardware allowed him to optimize every parameter for his specific technical demands.`,
+      notes: [
+        'Transitioning from Sonor Designer Series (obZen era) to Sonor SQ2 by this period',
+        'SQ2 offers professional custom-order shell specification — enhanced customization over Designer',
+        'Same 22x18 bass drum configuration maintained from obZen era',
+        'Compact four-tom layout consistent with Meshuggah\'s groove-focused approach',
+        'Two independent single pedals — no double pedal throughout career'
+      ],
+      estimatedValue: '$7,000-10,000 (2012)'
+    },
+    snare: {
+      title: 'The Groove Anchor: Snare on Koloss',
+      brand: 'Sonor',
+      model: 'Sonor SQ2 Steel Snare',
+      size: '14" x 6"',
+      shell: 'Steel',
+      description: `The snare on *Koloss* performs the same displaced-accent role that defines Haake\'s approach across the Meshuggah catalog, but in the context of *Koloss*\'s slower, heavier grooves, each snare hit carries more weight. At the album\'s more moderate tempos, the space between snare accents is wider — the groove has more room to breathe, and the snare\'s placement within that space becomes even more significant.
+
+The Sonor SQ2 steel snare continued the legacy of the Designer Series steel snare that anchored *obZen*. Steel shells deliver consistent attack across the dynamic range, from whisper-quiet ghost notes that add texture to *Koloss*\'s groove sections to the full-volume rimshots that punctuate the heaviest passages. This consistency of character at all velocities makes the steel shell ideal for Haake\'s approach, where subtle ghost-note placement is as important as the primary accent.
+
+*Koloss*\'s snare sound sits slightly warmer than *obZen* — contributing to the album\'s heavier overall feel. The snare\'s job is still precision and reference, but on *Koloss* it serves a groove that prioritizes weight over velocity.`,
+      tuningSetting: 'Medium tension; slightly warmer than obZen era to complement the heavier groove character',
+      heads: 'Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)',
+      estimatedValue: '$450-600 (2012)'
+    },
+    cymbals: {
+      title: 'Sabian AAX: Continued from the obZen Era',
+      brand: 'Sabian',
+      series: 'AAX / AA',
+      setup: [
+        { type: 'Hi-Hats', model: 'Sabian AA 14" Regular Hi-Hats', position: 'Left side', notes: 'Consistent pulse reference; same configuration as obZen era' },
+        { type: 'Crash', model: 'Sabian AAX 18" X-Plosion Crash', position: 'Left of hi-hats', notes: 'Fast attack for groove-section accents' },
+        { type: 'Crash', model: 'Sabian AAX 19" X-Plosion Crash', position: 'Right of toms', notes: 'Larger for heavier section-transition accents' },
+        { type: 'Ride', model: 'Sabian AA 21" Rock Ride', position: 'Far right', notes: 'Heavy ride for slower groove sections; defined bell' },
+        { type: 'China', model: 'Sabian AAX 19" Chinese', position: 'Above floor tom', notes: 'Trashy accent for the album\'s most aggressive section transitions' }
+      ],
+      description: `For *Koloss*, Haake maintained the Sabian AAX and AA cymbal series that had defined his setup through *obZen* (2008) and the preceding Nothing/Catch 33 era. This consistency reflects a philosophy that serves Meshuggah\'s music: cymbal selection remains stable while the musical approach evolves, allowing the same tools to demonstrate how the drummer\'s vision — not the gear — drives the music\'s character.
+
+The Sabian AAX and AA series remained well suited to *Koloss*\'s sonic demands. At the album\'s heavier, slower tempos, the 14" AA Regular hi-hats provide the precise open/closed articulation needed to establish pulse reference within slower-cycling polyrhythmic patterns. The AAX X-Plosion crashes deliver the fast attack that marks accent positions within the rhythmic cycle, even as those positions now occur with more space between them.
+
+The heavy 21" ride becomes particularly valuable on *Koloss*: at slower tempos, extended ride patterns carry more of the song\'s momentum, and the Rock Ride\'s authority and defined bell character serve this role effectively. The same cymbal philosophy that worked on *Nothing* in 2002 continued to work here in 2012 — unchanged for a decade, and still exactly right for the music.`,
+      estimatedValue: '$1,400-2,000 (2012)'
+    },
+    hardware: {
+      title: 'Hardware: Consistency as Foundation',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Sonor',
+          model: 'Sonor Perfect Balance Pedal (x2 single pedals)',
+          notes: 'Two independent single pedals — the cornerstone of Haake\'s technique throughout his career',
+          description: 'Haake\'s two independent single pedals have been constant throughout his career, and Koloss is no exception. For Meshuggah\'s foot patterns — which require each foot to execute rhythmically independent roles simultaneously — the absence of any mechanical linkage between pedals is foundational. The Sonor Perfect Balance offers outstanding feel with adjustable cam geometry that allows each pedal to be independently optimized.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Sonor',
+          model: 'Sonor 600 Series Hi-Hat Stand',
+          notes: 'Consistent with established Haake hardware configuration'
+        },
+        {
+          type: 'Throne',
+          brand: 'Porter & Davies',
+          model: 'Porter & Davies BC2 Vibrating Throne',
+          notes: 'Tactile bass drum monitoring',
+          description: 'The Porter & Davies vibrating throne continues to be essential at this point in Haake\'s career. As Koloss\'s live performances required maintaining complex kick patterns at extreme volumes, tactile monitoring of the bass drum signal became even more important for accuracy in the lower-frequency polyrhythmic framework.'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Vic Firth',
+          model: 'Vic Firth 5A American Classic',
+          notes: 'Standard 5A maintained through this era'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke P3 Clear (batter), Remo Powerstroke P3 Ebony (resonant)',
+        toms: 'Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)',
+        snare: 'Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)'
+      }
+    },
+    recordingTechniques: {
+      title: 'Recording Koloss: Heaviness as a Production Value',
+      content: `*Koloss* was recorded with an explicit intention to be heavier and more direct than *obZen* — a shift that required production choices that served density and mass as much as technical precision.
+
+**Tempo and Space:**
+The most striking production characteristic of *Koloss* is its tempo range. Where *obZen* pushed the upper limits of what Haake could physically play, *Koloss* operates at slower, more deliberate paces. This is a deliberate compositional choice: at lower tempos, the weight of each note is more palpable, and the polyrhythmic cycles — though still complex — have more room to breathe and make their full gravitational impact. The drum sound on *Koloss* reflects this: slightly warmer, more spacious than *obZen*\'s clinical precision.
+
+**The Groove-First Philosophy:**
+"Do Not Look Down" — the most frequently cited track from *Koloss* — exemplifies the album\'s approach. The drum pattern is genuinely complex in its polyrhythmic structure, but the overriding sensation is of an enormous, irresistible groove. Every element of the pattern serves the groove rather than demonstrating technical achievement. This represents Haake\'s mature compositional voice: the technique is invisible, the music is everything.
+
+**Self-Produced Control:**
+*Koloss* was self-produced by Meshuggah — the band took complete control of the recording process. This autonomy allowed them to optimize for the specific sonic qualities they were pursuing: extreme low-frequency heaviness, precise rhythmic definition, and a production character that amplified the weight of every note without clinical sterility.
+
+**Transitional Gear Period:**
+*Koloss* sits between the *obZen* era\'s Sonor Designer Series and *The Violent Sleep of Reason*\'s DW Collector\'s Series. For Haake, it represents a period of gear evolution — the SQ2 transition — that ultimately led to a complete equipment change for the 2016 album.`,
+      keyTechniques: [
+        'Lower tempo range than obZen — heaviness through deliberate pacing rather than velocity',
+        'Groove-first approach: technical complexity serves musical weight, not demonstration',
+        'Self-produced album — complete band control over sound and direction',
+        'Transitional gear period: Sonor Designer to SQ2 progression',
+        'Sabian AAX/AA cymbals maintained for tonal consistency across the entire Nothing-to-Koloss era'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Do Not Look Down',
+        bpm: '~85',
+        signature: 'Polymetric groove — most-cited single Haake pattern from Koloss',
+        highlights: [
+          'The definitive Koloss drum groove — heavy, deliberate, irresistible',
+          'Polyrhythmic structure at service of massive groove rather than technical display',
+          'Snare displacement creates metric illusion at a tempo that amplifies its physical impact',
+          'Became a reference track for demonstrating Haake\'s groove-first philosophy'
+        ],
+        gearNotes: 'The Sonor SQ2\'s fuller, warmer tone is particularly effective on Do Not Look Down — the bass drums need authority at this slower tempo, and the SQ2 delivers it without the Designer Series\' tighter character.'
+      },
+      {
+        track: 'Behind The Sun',
+        bpm: '~90',
+        signature: '4/4 with extended polyrhythmic kick cycles',
+        highlights: [
+          'Opening track establishes Koloss\'s heavier, more riff-focused character',
+          'Kick drum pattern cycles through extended arcs over steady hi-hat pulse',
+          'Snare placement creates the multi-meter illusion at a more deliberate tempo',
+          'One of Meshuggah\'s more accessible entry points into the Haake polyrhythmic vocabulary'
+        ],
+        gearNotes: 'The Sabian AAX crash accents on Behind The Sun land with particular authority — fast attack, controlled decay, cutting through the extreme low-frequency guitar environment.'
+      },
+      {
+        track: 'Break Those Bones Whose Sinews Gave It Motion',
+        bpm: '~100',
+        signature: 'Polymetric — complex kick cycle over 4/4',
+        highlights: [
+          'One of the more technically demanding tracks in the Koloss drum performance',
+          'Hi-hat work provides rhythmic anchoring in a particularly dense arrangement',
+          'Kick pattern requires the full independent foot control Haake\'s dual-single-pedal approach enables',
+          'Demonstrates that Koloss\'s groove focus does not mean technical simplification'
+        ],
+        gearNotes: 'Two independent Sonor Perfect Balance single pedals essential for the kick independence this track demands — the foot patterns require the mechanical freedom of unlinked pedals.'
+      }
+    ],
+    faq: [
+      {
+        question: "What drum kit did Tomas Haake use on Meshuggah's Koloss?",
+        answer: "Tomas Haake recorded Meshuggah's Koloss (2012) during his transition from the Sonor Designer Series (used on obZen in 2008) to the Sonor SQ2 — a professional custom-order platform with enhanced shell specification options. The configuration maintained the same fundamental setup: two 22x18 inch bass drums driven by two independent Sonor Perfect Balance single pedals, 10x8 and 12x9 rack toms, 14x14 and 16x16 floor toms, and a Sonor SQ2 steel snare. Cymbals were Sabian AAX and AA series, consistent with the obZen era. By 2016 for The Violent Sleep of Reason, Haake had moved to DW Collector's Series drums.",
+      },
+      {
+        question: "What is the drum groove on 'Do Not Look Down' by Meshuggah?",
+        answer: "The drum groove on Meshuggah's 'Do Not Look Down' (Koloss, 2012) is one of Tomas Haake's most celebrated single patterns — a polyrhythmic kick-and-snare combination that creates a massive, lurching groove while maintaining the metric displacement illusion that defines Meshuggah's rhythmic language. The hi-hat establishes the true 4/4 pulse while the kick drum pattern cycles through an extended arc over multiple bars. The snare is displaced from conventional backbeat positions to reinforce the rotating-meter sensation. The pattern's power comes from its tempo: at approximately 85 BPM, each note has maximum weight, and the polyrhythmic complexity serves an overwhelming groove rather than technical demonstration.",
+      },
+      {
+        question: "How does Koloss compare to obZen in terms of drums?",
+        answer: "Koloss (2012) is deliberately less technically extreme than obZen (2008), with a focus on heaviness and groove over the velocity and complexity peaks that obZen represented. The most famous example: obZen's 'Bleed' features continuous 32nd-note bass drum at approximately 240 BPM and took Haake six months to master; Koloss's tempos are more moderate, prioritizing the gravitational weight of each note. The gear platform was in transition from Sonor Designer Series (obZen) to Sonor SQ2 (Koloss era), with Sabian AAX/AA cymbals maintained throughout. Both albums use two independent single pedals. The drums on Koloss are still exceptionally complex — they're simply focused on serving the song's weight rather than technical extremes.",
+      },
+      {
+        question: "Is Koloss a good starting point for studying Tomas Haake's drumming?",
+        answer: "Koloss (2012) is an excellent starting point for studying Tomas Haake, particularly for drummers who find obZen's 'Bleed' pattern overwhelming as a first encounter. The album's grooves are complex but operate at tempos that allow the polyrhythmic structure to be more clearly perceived and analyzed. 'Do Not Look Down' is widely used as a teaching example because the pattern is simultaneously recognizable as a groove and instructive as a polyrhythmic study. After understanding Koloss's approach, working backward to Nothing (2002) and forward to obZen (2008) reveals the full arc of Haake's development. The three albums together form the core of the Meshuggah drum curriculum.",
+      },
+      {
+        question: "Where does Koloss fit in Meshuggah's discography?",
+        answer: "Koloss (2012) is Meshuggah's seventh studio album, sitting between obZen (2008) and The Violent Sleep of Reason (2016). It followed the experimental arc of the obZen/Catch 33 period with a deliberate return to riff-based, groove-heavy structures — a recalibration that made Meshuggah's polyrhythmic approach more immediately crushing. The album received a Grammy nomination for Best Metal Performance, confirming the band's continued relevance more than a decade after Nothing established the djent blueprint. For Tomas Haake, Koloss represents the groove-focused midpoint between obZen's technical peak and VSÖR's live-in-studio challenge.",
+      },
+    ],
+    conclusion: {
+      title: 'Groove as Philosophy: The Koloss Achievement',
+      content: `*Koloss* proves something that even devoted Meshuggah listeners sometimes need to be reminded: technical complexity and raw groove are not opposing values. The album is simultaneously complexly structured and immediately visceral — a paradox that makes sense only when you understand that Haake\'s polyrhythmic patterns are always, ultimately, in service of the song\'s physical impact.
+
+The gear evolution captured by *Koloss* — the transition from Sonor Designer Series to SQ2 — is instructive. The new platform offered enhanced customization, but Haake\'s approach remained constant: two single pedals, compact kit, Sabian cymbals, precise tuning. Equipment changes are about optimizing tools for the music, not about changing musical identity.
+
+"Do Not Look Down" has become the most cited single groove in Haake\'s *Koloss* catalog for a reason: it demonstrates, in concentrated form, the philosophy that runs through all of his work. A pattern of real polyrhythmic sophistication, executed with metronomic precision, in service of a groove that makes you feel the music before your brain processes what\'s happening. Technical foundation, precise execution, emotional delivery — the Tomas Haake method.
+
+For drummers working through the Meshuggah catalog in chronological order, *Koloss* is the indispensable bridge: it consolidates the vocabulary of *Nothing* (2002) and *obZen* (2008) into forms that are simultaneously grooveable and learnable. Study *Koloss*. Play *Koloss*. Then go back to *obZen* — you\'ll hear "Bleed" differently. 🤘`
+    },
+    videos: [],
+    relatedAlbums: ['catch-33-drum-setup', 'obzen-drum-setup', 'violent-sleep-of-reason-drum-setup'],
+    relatedDrummers: [14, 9, 16], // Danny Carey, Mario Duplantier, Travis Orbin
+    relatedArticles: ['whats-in-tomas-haakes-kit', 'djent-drumming-guide', 'polyrhythm-exercises-metal'],
+    relatedLicks: [],
   },
 
   // Tomas Haake - The Violent Sleep of Reason (2016)

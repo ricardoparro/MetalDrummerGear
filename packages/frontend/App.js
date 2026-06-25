@@ -4586,6 +4586,27 @@ const GEAR_API_URL = typeof window !== 'undefined' && window.location.hostname !
   ? '/api/gear'
   : 'http://localhost:3001/api/gear';
 
+// Issue #2544: per-drummer title/description overrides for high-volume GSC clusters
+// with near-zero CTR. Keyed by drummer slug (name → lowercase-hyphenated).
+const DRUMMER_PAGE_META_OVERRIDES = {
+  'joey-jordison': {
+    title: 'Joey Jordison Drum Kit & Setup — Pearl Signature Series | MetalForge',
+    description: "What drum kit did Joey Jordison use? Complete Pearl Signature snare, Tama Starclassic shells, and full Slipknot touring rig breakdown.",
+  },
+  'eloy-casagrande': {
+    title: 'Eloy Casagrande Drum Kit & Setup — Tama Starclassic | MetalForge',
+    description: "What drum kit does Eloy Casagrande use? The Slipknot drummer's Tama Starclassic Bubinga shells, Bell Brass snare, and full Paiste cymbal breakdown.",
+  },
+  'inferno': {
+    title: 'Inferno Drum Kit & Setup — Behemoth Gear Breakdown | MetalForge',
+    description: "What drum kit does Inferno use? The Behemoth drummer's Pearl Masterworks kit, Paiste RUDE cymbals, and Czarcie Kopyto double pedal — complete setup.",
+  },
+  'shannon-larkin': {
+    title: 'Shannon Larkin Drum Kit & Setup — Godsmack Gear | MetalForge',
+    description: "What drum kit does Shannon Larkin use? The Godsmack drummer's ddrum Dios Series kit, Sabian AAX/HHX cymbals, and DW 9000 double pedal breakdown.",
+  },
+};
+
 function updateDocumentMeta(drummer, drummers = [], filters = {}) {
   if (Platform.OS !== 'web' || typeof document === 'undefined') return;
 
@@ -4614,14 +4635,18 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
     filterDescription = `Discover ${filterParts.join(' ').toLowerCase()} drummers and their professional drum gear setups. Browse complete gear lists, kit costs, and equipment details.`;
   }
 
+  // Issue #2544: use per-drummer overrides when available (high-volume GSC clusters)
+  const drummerSlug = drummer ? drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '') : null;
+  const drummerOverride = drummerSlug ? DRUMMER_PAGE_META_OVERRIDES[drummerSlug] : null;
+
   const title = drummer
-    ? `${drummer.name} Drum Kit & Gear | Metal Drummer Gear`
+    ? (drummerOverride?.title || `${drummer.name} Drum Kit & Gear | Metal Drummer Gear`)
     : hasFilters
       ? filterTitle
       : 'Metal Drummer Gear - Discover What Pro Drummers Play';
 
   const description = drummer
-    ? `${drummer.name}'s complete drum setup costs approximately ${formatPrice(kitCost?.totalEur || 0, 'EUR')}. Full gear breakdown for the ${drummer.band} drummer including drums, cymbals, and hardware.`
+    ? (drummerOverride?.description || `${drummer.name}'s complete drum setup costs approximately ${formatPrice(kitCost?.totalEur || 0, 'EUR')}. Full gear breakdown for the ${drummer.band} drummer including drums, cymbals, and hardware.`)
     : hasFilters
       ? filterDescription
       : 'Explore the drum kits, cymbals, and gear used by legendary metal drummers including Lars Ulrich, Joey Jordison, Dave Lombardo and more.';

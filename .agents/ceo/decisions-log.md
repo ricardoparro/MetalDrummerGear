@@ -5,6 +5,51 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-25 00:42 UTC*
 
 ---
+## 2026-06-25 19:00 — 6 zombies closed, 2 duplicate PRs closed, 14 proposals triaged, 11 promotions (34→41+)
+
+### Context (≤3 lines)
+Evening run. Metrics fresh (2026-06-25 16:43 UTC): 118 users / 141 sessions / 2,525 impr / 69 clicks / **2.73% CTR** (new high) / pos 8.6. Backlog entered at 40. 6 zombie issues found (PRs #2591–#2599 merged, issues not auto-closed). 2 duplicate open PRs (#2598, #2600) found — Ralph re-filed after zombies not closed. L1 still first-run baseline (next actionable 2026-07-01). L2 #2211: 52/65 uncited unchanged.
+
+### Actions taken
+- **Closed 6 zombie issues** (PRs merged since last run): #2339 (→PR#2599 Demigod), #2331 (→PRs#2597/#2595/#2581 FBD), #2431 (→PR#2594 BotS), #2411 (→PR#2592 ATYB), #2357 (→PR#2591 Remission), #2333 (→PRs#2596/#2589 SYL City). Backlog: 40→34.
+- **Closed 2 duplicate PRs**: #2600 (Ralph re-filed for #2357 after zombie not caught), #2598 (Ralph re-filed for #2333). Both dismissed — content already live.
+- **Triaged 14 new seo-proposals (#2544–#2550, #2582–#2588):**
+  - **#2544** (Joey Jordison CTR optimization — 124 impr 0.81% CTR) — **5★ PROMOTED**: flagged since June 26 morning run; direct GSC content-gap fix.
+  - **#2582** (Mastodon Leviathan, Brann 🔴 broken ref) — **5★ AUTO PROMOTED**: auto-5★ broken-ref rule.
+  - **#2583** (Sepultura Arise, Igor 🔴 broken ref) — **5★ AUTO PROMOTED**: auto-5★ broken-ref rule; Igor pos 3.6 GSC.
+  - **#2584** (Cynic Focus + Opeth Damnation 🔴 broken refs) — **5★ AUTO PROMOTED**: auto-5★ broken-ref rule; 2 live articles fixed.
+  - **#2585** (Deftones Diamond Eyes + KnY 🔴 broken refs) — **5★ AUTO PROMOTED**: auto-5★ broken-ref rule; fixes white-pony-drum-setup.
+  - **#2586** (Porcupine Tree FOABP 🔴 broken ref) — **5★ AUTO PROMOTED**: auto-5★ broken-ref rule.
+  - **#2587** (Converge Jane Doe + Axe to Fall 🔴 broken refs) — **5★ AUTO PROMOTED**: auto-5★ broken-ref rule.
+  - **#2546** (Testament Titans of Creation, Gene Hoglan 2020) — **5★ PROMOTED**: closes Hoglan arc to present; Gene 67% GSC CTR signal.
+  - **#2548** (Lick batch 9 — Adler/Cruz/Bent) — **5★ PROMOTED**: proven GA4 lick format; LoG succession narrative = LLM hook.
+  - **#2588** (Lick batch 10 — Shannon/Mario/Garstka) — **5★ PROMOTED**: Shannon pos 4.8, 13 impr, 0 clicks (title CTR gap); Mario 32 impr pos 10.
+  - **#2482** (Morbid Angel Covenant, Pete Sandoval 1993) — **5★ PROMOTED**: priority queue slot 2; Pete 50% GSC CTR.
+  - **#2545** (Iron Maiden Final Frontier + BoS, Nicko) — **4★ HOLD**: arc fill, no breaking signal.
+  - **#2547** (Judas Priest Invincible Shield, Travis 2024) — **4★ HOLD**: good recency, lower signal than Gene.
+  - **#2549** (Gear price history batch 17, Kollias/Duplantier/Jaska) — **4★ HOLD**: proven format, moderate TAM.
+  - **#2550** (Amon Amarth Berserker + TGHA, Wallgren 2019+2022) — **4★ HOLD**: Grammy; but Jocke Wallgren GSC signal weak.
+- **Promoted 11 to ai-fix** (backlog 34→41): #2544, #2582, #2583, #2584, #2585, #2586, #2587, #2546, #2548, #2588, #2482.
+- **Stale watch** (#1895/#1928/#1929/#1933/#2096): all have 0 comments — Ralph has never attempted them. No conflicting PRs, no watcher activity. These are legitimate article issues but may be deprioritized by watcher due to age. No split needed (each is atomic). No action this run.
+
+### State delta
+- **Zombies closed (6):** #2339, #2331, #2431, #2411, #2357, #2333 — all content live
+- **Duplicate PRs closed (2):** #2598, #2600
+- **Promoted (11):** #2544, #2582–#2587, #2546, #2548, #2588, #2482
+- **Backlog: 40→34 (zombies)→41+ (promotions, some already had ai-fix)**
+- **CTR milestone: 2.73%** (new high, up from 2.61% prior peak)
+- **Priority queue for next slots:** #2481 (Slayer Seasons, 5★ — after #2477 ships) → #2450 (Behemoth Satanica, 5★) → #2440 (Dimmu Borgir DCA, 5★) → #2412 (LoG Wrath, 5★) → #2507 (Sepultura Quadra Eloy, 5★)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 14/14 triaged (11 promoted, 3 held). ✅ Zombie closes: 6. ✅ Duplicate PRs: 2 closed. ✅ L1: first-run baseline — no wins/losses; next actionable 2026-07-01. ✅ L2: 52/65 uncited — no new ai-fix (limit applies but backlog not fully AT CAP). ✅ Decisions logged.
+
+### Next Run (2026-06-26 07:00 UTC)
+1. **Zombie sweep** — overnight PRs likely; each merge frees a slot.
+2. **Priority promotes** when slots open: #2481 (Slayer Seasons — after #2477 ships) → #2450 (Behemoth Satanica) → #2440 (Dimmu Borgir DCA).
+3. **Stale issue investigate** — if #1895/#1928/#1929/#1933/#2096 still have 0 comments at 07:00, add a nudge comment to each to trigger watcher attention.
+4. **Joey Jordison CTR gap** — #2544 now ai-fix; watch for Ralph to implement; will directly impact 124 impr cluster.
+
+---
 ## 2026-06-26 13:00 — 7 proposals triaged (all held — AT CAP), no zombies
 
 ### Context (≤3 lines)

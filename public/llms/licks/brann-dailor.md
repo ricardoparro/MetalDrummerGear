@@ -6,7 +6,7 @@
 
 ## Overview
 
-Brann Dailor is one of Progressive / Sludge Metal's most influential drummers, best known for their work with Mastodon. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Brann Dailor" or "Brann Dailor signature drum patterns". Their style spans progressive-metal.
+Brann Dailor is one of Progressive / Sludge Metal's most influential drummers, best known for their work with Mastodon. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Brann Dailor" or "Brann Dailor signature drum patterns". Their style spans progressive-metal.
 
 ## Blood and Thunder Lead Groove
 
@@ -76,8 +76,6 @@ Brann Dailor is one of Progressive / Sludge Metal's most influential drummers, b
 - Listen to the full song repeatedly so you internalise where the lifts belong
 
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
-
-## Teaching Points
 
 ## Blood and Thunder Swung Quasi-Blast
 

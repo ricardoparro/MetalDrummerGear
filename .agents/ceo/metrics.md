@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-24 23:26 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-25 00:42 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,18 +8,18 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 111 |
-| Sessions | 136 |
-| Page views | 325 |
-| Engagement rate | 58.09% |
-| Avg session (s) | 597 |
+| Active users | 108 |
+| Sessions | 130 |
+| Page views | 313 |
+| Engagement rate | 57.69% |
+| Avg session (s) | 610 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 59 | 19 |
+| / | 54 | 18 |
 | /drummer/joey-jordison | 28 | 12 |
-| /drummers | 28 | 4 |
+| /drummers | 27 | 4 |
 | /tools | 18 | 2 |
 | /drummer/shannon-larkin | 9 | 5 |
 | /drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass | 9 | 1 |
@@ -31,29 +31,29 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 78 | 71 |
-| Direct | 51 | 33 |
+| Organic Search | 76 | 69 |
+| Direct | 47 | 32 |
 | Unassigned | 20 | 19 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 2,298 |
-| Clicks | 60 |
-| CTR | 2.61% |
-| Avg position | 8.8 |
+| Impressions | 2,083 |
+| Clicks | 56 |
+| CTR | 2.69% |
+| Avg position | 8.7 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| matt greiner drum setup | 12 | 4 | 33.33% | 6.2 |
+| matt greiner drum setup | 10 | 4 | 40.00% | 5.9 |
 | gene hoglan drum kit | 3 | 2 | 66.67% | 8.0 |
-| joey jordison drum kit | 85 | 2 | 2.35% | 8.5 |
+| joey jordison drum kit | 78 | 2 | 2.56% | 8.3 |
 | eloy casagrande drum kit | 19 | 1 | 5.26% | 8.6 |
 | flo mounier drum kit | 2 | 1 | 50.00% | 5.0 |
 | igor cavalera drum kit | 7 | 1 | 14.29% | 3.6 |
 | igor cavalera drum setup | 2 | 1 | 50.00% | 6.0 |
-| inferno drum kit | 12 | 1 | 8.33% | 7.4 |
+| inferno drum kit | 9 | 1 | 11.11% | 7.1 |
 | jaska raatikainen drum set | 1 | 1 | 100.00% | 2.0 |
 | joey jordison iowa drum kit | 5 | 1 | 20.00% | 6.6 |
 

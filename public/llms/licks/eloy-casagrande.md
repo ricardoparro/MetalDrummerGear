@@ -90,4 +90,4 @@ Eloy Casagrande's style is defined by precision, timing, and genre-defining groo
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*

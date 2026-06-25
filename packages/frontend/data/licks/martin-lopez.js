@@ -184,6 +184,171 @@ export const licks = {
         "opeth drummer soen"
       ]
     }
+  },
+  "martin-lopez-demon-of-the-fall-opening": {
+    "slug": "martin-lopez-demon-of-the-fall-opening",
+    "name": "Demon of the Fall Acoustic-to-Electric Opening",
+    "shortName": "Demon of the Fall",
+    "drummerId": 20,
+    "drummerName": "Martin Lopez",
+    "drummerSlug": "martin-lopez",
+    "band": "Opeth",
+    "song": "Demon of the Fall",
+    "album": "My Arms, Your Hearse (1998)",
+    "category": "intro-fill",
+    "style": "progressive-metal",
+    "difficulty": "advanced",
+    "difficultyRating": 4,
+    "bpm": 95,
+    "bpmDisplay": "variable (~95 BPM, explosive fill into full tempo)",
+    "timeSignature": "4/4 (dynamic shift at fill point)",
+    "description": "The opening of \"Demon of the Fall\" from Opeth's 1998 album My Arms, Your Hearse is one of the most dramatically effective drum performance moments in the entire Opeth catalogue — a controlled acoustic passage that explodes into a full-tempo metal groove through a single, perfectly timed fill that functions as the trigger for the band's transformation. Martin Lopez had only recently joined Opeth when this album was recorded, and the opening of \"Demon of the Fall\" demonstrates immediately the quality and instincts he brought to the group: the controlled atmospheric build, the sense of restrained power before release, and the ability to use a fill as a compositional event rather than a technical display.\n\nThe acoustic section that precedes the transition is one of the most underrated demonstrations of restraint in extreme metal. Lopez maintains a breathing, almost delicate groove at low dynamics, riding the toms and hi-hat with a touch that would be appropriate in an acoustic folk setting. The tempo is kept deliberately unhurried, giving the listener a false sense of security that the music intends to shatter. The specific fill that triggers the transition is a tom-roll-and-crash sequence placed at the phrase boundary, building momentum across the fill and releasing it precisely into the downbeat of the heavy passage. The timing of this release — not a hair early, not a stroke late — is the technical challenge at the heart of the passage.\n\nFor drummers, the acoustic-to-electric transition in \"Demon of the Fall\" is a study in tension and release as compositional tools. The practical challenges are: maintaining a controlled, light touch for an extended period without losing groove integrity, building a fill across a dynamic arc from soft to explosive, and landing the first heavy beat of the metal passage with maximum impact. This final point — the precision of the transition landing — is where the fill rises from a competent drum part to a compositional event. Studying this opening teaches dynamic architecture, fill construction as dramaturgy, and the particular quality of restraint that makes a release feel earned rather than arbitrary. It is a foundational text in understanding why Martin Lopez became one of progressive metal's most beloved drummers.",
+    "techniques": [
+      "fill-techniques",
+      "groove-drumming",
+      "dynamic-control"
+    ],
+    "techniqueDetails": [
+      "Maintain genuinely delicate touch in the acoustic section — treat it as a folk groove, not a metal build",
+      "Build the transitional fill across a clear dynamic arc, starting soft and arriving at full power on the downbeat",
+      "Place the transition downbeat with absolute precision — the impact must land exactly where the heavy passage begins",
+      "Keep the acoustic groove internally consistent so the tension never dissipates before the intended release",
+      "Record the transition and verify the downbeat impact — the hit should feel like a door slamming, not a gradual arrival"
+    ],
+    "gearUsed": [
+      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
+      { "name": "Zildjian K Constantinople Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth Signature Sticks", "type": "sticks", "link": null }
+    ],
+    "learningTips": [
+      "Listen to the opening multiple times before playing — absorb the timing of the release emotionally before executing it technically",
+      "Practise the acoustic groove separately to build the controlled, restrained feel before combining with the transition",
+      "Film yourself playing the transition and watch the fill without audio — the body language should show the build clearly",
+      "Practise the fill's dynamic arc in isolation, just building from pianissimo to fortissimo across eight strokes"
+    ],
+    "seo": {
+      "title": "Martin Lopez Demon of the Fall Opening - Opeth Drum Lesson | MetalForge",
+      "description": "Learn Martin Lopez's acoustic-to-electric opening from Opeth's Demon of the Fall. Dynamic transition technique, fill construction, and practice tips.",
+      "keywords": [
+        "martin lopez",
+        "demon of the fall drums",
+        "opeth",
+        "my arms your hearse",
+        "acoustic to electric drum transition",
+        "progressive metal drumming"
+      ]
+    }
+  },
+  "martin-lopez-blackwater-park-shuffle": {
+    "slug": "martin-lopez-blackwater-park-shuffle",
+    "name": "Blackwater Park Jazz Shuffle Groove",
+    "shortName": "Blackwater Park Shuffle",
+    "drummerId": 20,
+    "drummerName": "Martin Lopez",
+    "drummerSlug": "martin-lopez",
+    "band": "Opeth",
+    "song": "Blackwater Park",
+    "album": "Blackwater Park (2001)",
+    "category": "main-groove",
+    "style": "progressive-metal",
+    "difficulty": "advanced",
+    "difficultyRating": 4,
+    "bpm": 92,
+    "bpmDisplay": "~92 BPM",
+    "timeSignature": "4/4 (jazz shuffle feel, triplet subdivision)",
+    "description": "The title track of Opeth's landmark 2001 album Blackwater Park features one of the most unusual and technically sophisticated groove choices in metal drumming: a jazz-influenced shuffle feel, applied to a progressive metal context in a way that creates a rhythmic character unique in the genre. Martin Lopez's jazz training — which he undertook seriously as a young drummer in Sweden — is nowhere more audible than in this groove, where the triplet subdivision of the ride cymbal and the swung 8th-note feel of the snare placement belong entirely to the jazz idiom, while the surrounding arrangement is unmistakably heavy metal.\n\nThe shuffle groove works in \"Blackwater Park\" for several interconnected reasons, all of which stem from Lopez's understanding of how jazz feel functions rhythmically. The triplet subdivision creates a sense of forward motion that differs qualitatively from 16th-note or 8th-note straight feels — it rolls forward rather than marching, pulling the listener into the beat rather than pushing them from bar to bar. This rolling quality suits Opeth's long-form compositional approach perfectly, sustaining momentum through extended passages without the relentless drive of a straight-feel metal groove. The snare placement, slightly behind the beat in the jazz manner, adds weight without aggression, so the heaviness of the arrangement comes from the guitar and bass rather than the percussion.\n\nFor drummers, learning the Blackwater Park shuffle is a lesson in applying jazz feel to a metal context — a relatively rare skill in the genre and one that immediately distinguishes a player from their peers. The technical demands involve mastering triplet subdivision on the ride at a consistent tempo, placing the snare with genuine behind-the-beat weight, and integrating a bass drum pattern that supports the groove without pulling it toward a straight-feel. The most common error is allowing the groove to firm up toward a straight 8th feel under the influence of the heavy guitar — fighting this tendency requires constant conscious awareness of the triplet grid and careful listening to the bass drum and bass guitar relationship. Lopez's recording on the album is the definitive reference for how the groove should feel, and close listening to it alongside practice is the most efficient path to internalising the genre-crossing technique.",
+    "techniques": [
+      "groove-drumming",
+      "ghost-notes",
+      "fill-techniques"
+    ],
+    "techniqueDetails": [
+      "Ride the triplet subdivision continuously to establish the shuffle feel before adding any other voices",
+      "Place the snare with genuine behind-the-beat jazz weight — not late, but relaxed and unhurried",
+      "Integrate the bass drum pattern to support the groove without pulling toward a straight 8th feel",
+      "Resist the influence of the heavy guitar — actively maintain the triplet grid against the metal arrangement",
+      "Listen for the bass drum and bass guitar relationship: they should lock to each other within the shuffle feel"
+    ],
+    "gearUsed": [
+      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
+      { "name": "Zildjian K Constantinople Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth Signature Sticks", "type": "sticks", "link": null }
+    ],
+    "learningTips": [
+      "Study a jazz drummer playing a shuffle groove in isolation before attempting the metal context — build the authentic feel first",
+      "Practise the triplet ride pattern alone with a metronome at 80 BPM until it grooves naturally without effort",
+      "Add the snare, then the bass drum, incrementally — check the shuffle feel survives each addition",
+      "Record yourself and compare to the album track: if your groove sounds straight, the triplet feel has slipped"
+    ],
+    "seo": {
+      "title": "Martin Lopez Blackwater Park Shuffle - Opeth Drum Lesson | MetalForge",
+      "description": "Learn Martin Lopez's jazz shuffle groove from Opeth's Blackwater Park title track. Jazz-metal technique, triplet feel, and practice tips.",
+      "keywords": [
+        "martin lopez",
+        "blackwater park drums",
+        "opeth shuffle groove",
+        "jazz metal drumming",
+        "shuffle feel metal",
+        "progressive metal drums tutorial"
+      ]
+    }
+  },
+  "martin-lopez-deliverance-blast": {
+    "slug": "martin-lopez-deliverance-blast",
+    "name": "Deliverance Blast-Beat Section",
+    "shortName": "Deliverance Blast",
+    "drummerId": 20,
+    "drummerName": "Martin Lopez",
+    "drummerSlug": "martin-lopez",
+    "band": "Opeth",
+    "song": "Deliverance",
+    "album": "Deliverance (2002)",
+    "category": "blast-section",
+    "style": "progressive-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 200,
+    "bpmDisplay": "~200 BPM (blast passages)",
+    "timeSignature": "4/4 (with full blast passages)",
+    "description": "The title track of Opeth's 2002 album Deliverance contains the most aggressive and technically demanding drumming Martin Lopez recorded with the band — an extended blast-beat section at around 200 BPM that exists in stark and deliberate contrast to the album's quieter twin release, Damnation. Opeth's dual-mode compositional approach, which the two albums embody most explicitly, gave Lopez the context to demonstrate the full range of his technique: the subtle, jazz-influenced dynamic playing of Damnation and the raw explosive power of Deliverance's title track blast section. That both sides of this duality are executed at the highest level by the same drummer on simultaneous releases is one of the most remarkable achievements in extreme metal drumming.\n\nThe blast-beat section in \"Deliverance\" is notable for several qualities that set it apart from conventional death metal blasting. Lopez's technique prioritises clarity and articulation — each kick and snare note is individually audible even at 200 BPM, which reflects his background as a technically schooled drummer rather than a purely instinctive extreme metal player. The hand pattern during the blast retains some of the ghost-note vocabulary from his jazz training, so the ride or hi-hat texture is not a uniform wash but has internal variation that makes the blast breathe rather than simply drill. This is a genuinely different approach from the opaque wall-of-sound blast that defines Norwegian black metal or Floridian death metal, and it is recognisably Martin Lopez's voice even at maximum intensity.\n\nFor drummers, the Deliverance blast section is an advanced study in physically demanding, technically clean extreme drumming. The requirements are sustained kick speed at 200 BPM with consistent articulation, the stamina to hold the section through its full duration without losing clarity, and the left-hand control to maintain a varied hi-hat or ride texture during the blast. The contrast with the song's quieter passages — which arrive before and after the blast with very little transition time — makes the dynamic management an additional challenge: Lopez has to switch from controlled progressive metal drumming to full-intensity blasting and back without physical or musical confusion. Studying this piece develops blast stamina, articulation at extreme speed, and the switching ability that defines Opeth's dual-mode writing.",
+    "techniques": [
+      "blast-beat",
+      "double-bass",
+      "groove-drumming"
+    ],
+    "techniqueDetails": [
+      "Prioritise articulation — each kick and snare note must be individually audible even at 200 BPM",
+      "Maintain internal variation in the hi-hat or ride during the blast rather than a uniform wash",
+      "Develop stamina with burst exercises at 180 BPM before pushing toward the full 200 BPM target",
+      "Switch between progressive groove and blast mode without physical confusion by drilling the transition points",
+      "Keep the ghost-note instinct active during the blast to retain dynamic variation at maximum intensity"
+    ],
+    "gearUsed": [
+      { "name": "Pearl Masters Custom Kit", "type": "drums", "link": null },
+      { "name": "Zildjian K Constantinople Cymbals", "type": "cymbals", "link": null },
+      { "name": "DW 5000 Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth Signature Sticks", "type": "sticks", "link": null }
+    ],
+    "learningTips": [
+      "Build blast endurance with 30-second bursts at target tempo rather than long sustained attempts",
+      "Focus on hand articulation before foot speed — clear snare hits during the blast are the priority",
+      "Practise the quiet-to-blast and blast-to-quiet transitions as standalone exercises",
+      "Listen to isolated drum tracks if available to study the hi-hat texture variation during the blast passages"
+    ],
+    "seo": {
+      "title": "Martin Lopez Deliverance Blast Beat - Opeth Drum Lesson | MetalForge",
+      "description": "Learn Martin Lopez's expert blast-beat section from Opeth's Deliverance. Articulation at 200 BPM, dual-mode technique, and practice tips.",
+      "keywords": [
+        "martin lopez",
+        "deliverance drums opeth",
+        "opeth blast beat",
+        "progressive metal blast",
+        "death metal drumming opeth",
+        "martin lopez technique"
+      ]
+    }
   }
 };
 

@@ -218,6 +218,168 @@ export const licks = {
         "progressive metal drumming"
       ]
     }
+  },
+  "mike-portnoy-pull-me-under-fill": {
+    "slug": "mike-portnoy-pull-me-under-fill",
+    "name": "Pull Me Under Intro Fill",
+    "shortName": "Pull Me Under Fill",
+    "drummerId": 13,
+    "drummerName": "Mike Portnoy",
+    "drummerSlug": "mike-portnoy",
+    "band": "Dream Theater",
+    "song": "Pull Me Under",
+    "album": "Images and Words (1992)",
+    "category": "intro-fill",
+    "style": "progressive-metal",
+    "difficulty": "advanced",
+    "difficultyRating": 4,
+    "bpm": 130,
+    "bpmDisplay": "~130 BPM",
+    "timeSignature": "4/4 (displaced 3/4 crash pattern in fill)",
+    "description": "The introductory fill in Dream Theater's \"Pull Me Under\" is one of the most immediately recognisable moments in progressive metal drumming, a crash-and-fill sequence that sets up the song's main groove while hinting at the rhythmic sophistication to come. Mike Portnoy opens the track with a displaced crash pattern that sits in 4/4 but phrases in groupings of three, creating a cross-rhythm that pulls the ear slightly off-centre before the downbeat reasserts itself. This kind of rhythmic displacement — accenting a 3/4 pattern against a 4/4 pulse — is a foundational technique in progressive drumming, and Portnoy executes it here with enough authority that it sounds effortless even to listeners who cannot name what they are hearing. That approachability is part of what made \"Pull Me Under\" a mainstream breakthrough: the sophisticated drumming is baked into the song's fabric without calling attention to itself, functioning as a hook rather than a display.\n\nThe fill itself is built from a flowing sequence of tom strokes punctuated by a crash cymbal that lands against the underlying metric grid, generating a brief sense of metric ambiguity before the full band enters. Portnoy's touch here is measured — he does not blast into the fill but lets it breathe, and the space he leaves between the tom strokes gives the crash its weight. This is a valuable lesson in fill construction: economy of stroke produces more impact than density, because each note can be heard and felt individually. The displacement component means a player has to truly internalise the underlying pulse while accenting across it, which demands genuine metric independence rather than pattern memorisation.\n\nFor drummers learning the fill, the key challenge is separating the 3-against-4 surface rhythm from the underlying beat. Practising the crash placement in isolation — just the accent points, with a metronome ticking in 4/4 — reveals the cross-rhythm immediately. Once the pattern is internalised at a slow tempo, adding the connecting tom strokes builds naturally. The fill serves as an ideal entry point into displacement technique because the tempo is moderate and the pattern short enough to memorise quickly, yet complex enough to take real effort to play cleanly at full speed. Learning it develops metric independence, crash placement precision, and the phrasing instinct to lead into a main groove with something memorable. It is a masterclass in how a single fill can function as a composition statement, establishing a drummer's technical credibility in the first four bars of a song.",
+    "techniques": [
+      "fill-techniques",
+      "odd-time-signatures",
+      "groove-drumming"
+    ],
+    "techniqueDetails": [
+      "Accent the crash on the displaced groupings of three against the underlying 4/4 pulse",
+      "Let space between tom strokes breathe — economy of stroke gives each note weight",
+      "Practise the crash placement points alone with a 4/4 metronome to feel the cross-rhythm",
+      "Keep the underlying pulse rock-solid internally so the displacement lands precisely",
+      "Lead into the main groove from the fill without losing momentum or dropping the tempo"
+    ],
+    "gearUsed": [
+      { "name": "Tama Starclassic Kit", "type": "drums", "link": null },
+      { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Iron Cobra Pedals", "type": "pedals", "link": null }
+    ],
+    "learningTips": [
+      "Tap the underlying 4/4 pulse with your foot while clapping the 3-accent points to feel the displacement",
+      "Practise at 70 BPM until the cross-rhythm feels natural before moving toward full tempo",
+      "Record yourself and compare to the original — the crash should feel slightly 'early' but sit confidently",
+      "Once the fill is solid, practise the transition into the main groove without stopping"
+    ],
+    "seo": {
+      "title": "Mike Portnoy Pull Me Under Fill - Dream Theater Drum Tutorial | MetalForge",
+      "description": "Learn Mike Portnoy's iconic displaced intro fill from Dream Theater's Pull Me Under. Technique breakdown, displacement rhythm explained, and practice tips.",
+      "keywords": [
+        "mike portnoy",
+        "pull me under fill",
+        "dream theater",
+        "images and words",
+        "drum fill displacement",
+        "progressive metal drumming"
+      ]
+    }
+  },
+  "mike-portnoy-in-the-presence-of-enemies-blast": {
+    "slug": "mike-portnoy-in-the-presence-of-enemies-blast",
+    "name": "In the Presence of Enemies Blast & Polyrhythm",
+    "shortName": "In the Presence of Enemies",
+    "drummerId": 13,
+    "drummerName": "Mike Portnoy",
+    "drummerSlug": "mike-portnoy",
+    "band": "Dream Theater",
+    "song": "In the Presence of Enemies",
+    "album": "Systematic Chaos (2007)",
+    "category": "blast-section",
+    "style": "progressive-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 175,
+    "bpmDisplay": "~175 BPM (blast passages)",
+    "timeSignature": "shifting meters (4/4, 7/8, 5/4, compound passages)",
+    "description": "\"In the Presence of Enemies\" from Dream Theater's 2007 album Systematic Chaos is a 25-minute progressive metal epic split across the album's opening and closing tracks, and it represents Mike Portnoy's most intense and technically demanding performance in terms of sustained metric complexity combined with raw speed. Across its full duration the piece cycles through blast passages, polyrhythmic interludes, odd-meter grooves and full-band metric modulations, and Portnoy has to navigate all of it while maintaining the musical clarity that stops prog epics from collapsing into incoherence. The blast sections — which arrive at around 175 BPM in the heavier passages — are not simple double-kick blasts but are embedded in shifting metric contexts, so the blast itself is constantly being reframed by what comes before and after it.\n\nWhat makes the blast/polyrhythm component of this piece so valuable to study is the metric modulation technique Portnoy deploys. He moves between meters not by simply stopping and starting in a new time signature but by reinterpreting the subdivision — a common beat becomes the new dotted quarter, or a triplet subdivision becomes the new pulse, making the transition audible as a shift in feel rather than a break. At the blast tempo these modulations are particularly challenging because the foot pattern has to shift fractionally without disturbing the kick-snare drive. The combination of physical intensity and mathematical precision required is genuinely extreme, placing this piece alongside \"The Dance of Eternity\" as Portnoy's most demanding legacy.\n\nFor drummers approaching this material, the practical priority is to separate the blast endurance challenge from the metric complexity challenge and address them independently. Building clean blast beats at 175 BPM is a pure stamina and technique exercise; understanding the metric modulation points requires slow analytical work with the notation or a slow playback tool. The two strands only come together under pressure after each has been thoroughly internalized. Learning even the primary blast passage teaches kick endurance, hand-foot coordination in a blast context, and the ability to reorient across a metric shift without a physical break. It is one of the most demanding tests in progressive metal drumming and a worthy capstone study for players who have already worked through the Dance of Eternity's metric content in a less physically extreme context.",
+    "techniques": [
+      "blast-beat",
+      "odd-time-signatures",
+      "double-bass"
+    ],
+    "techniqueDetails": [
+      "Sustain blast beats at ~175 BPM through extended passages while tracking metric shifts",
+      "Navigate metric modulation by reinterpreting the subdivision rather than stopping to reset",
+      "Separate the blast endurance work from the metric analysis work and practise each independently",
+      "Lock the blast kick-snare pattern tightly while the hands track polyrhythmic guitar accents",
+      "Build stamina with sub-tempo blast exercises before attempting the modulation passages at speed"
+    ],
+    "gearUsed": [
+      { "name": "Tama Starclassic Kit", "type": "drums", "link": null },
+      { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Iron Cobra Pedals", "type": "pedals", "link": null }
+    ],
+    "learningTips": [
+      "Listen to the full piece (both parts) multiple times before attempting to play any of it",
+      "Mark the blast entry and exit points on a notation chart before touching the kit",
+      "Build blast endurance at 150 BPM before pushing toward the 175 BPM target",
+      "Practise the modulation transitions in slow motion to feel the subdivision shift without losing momentum"
+    ],
+    "seo": {
+      "title": "Mike Portnoy In the Presence of Enemies Blast - Dream Theater Tutorial | MetalForge",
+      "description": "Learn Mike Portnoy's blast and polyrhythm passage from Dream Theater's In the Presence of Enemies. Metric modulation, blast technique, and practice tips.",
+      "keywords": [
+        "mike portnoy",
+        "in the presence of enemies drums",
+        "dream theater",
+        "systematic chaos",
+        "blast beat progressive metal",
+        "metric modulation drums"
+      ]
+    }
+  },
+  "mike-portnoy-the-dance-of-eternity-meter-change": {
+    "slug": "mike-portnoy-the-dance-of-eternity-meter-change",
+    "name": "The Dance of Eternity — Navigating 108 Meter Changes",
+    "shortName": "Dance of Eternity Meter Changes",
+    "drummerId": 13,
+    "drummerName": "Mike Portnoy",
+    "drummerSlug": "mike-portnoy",
+    "band": "Dream Theater",
+    "song": "The Dance of Eternity",
+    "album": "Metropolis Pt. 2: Scenes from a Memory (1999)",
+    "category": "signature-pattern",
+    "style": "progressive-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 130,
+    "bpmDisplay": "variable (core ~130 BPM)",
+    "timeSignature": "108 time signature changes",
+    "description": "\"The Dance of Eternity\" from Dream Theater's 1999 concept album Metropolis Pt. 2: Scenes from a Memory is the single most cited example of metric complexity in progressive metal — and its 108 time signature changes are not a statistic but a lived performance challenge that Mike Portnoy solved by developing a specific cognitive and physical approach to meter navigation. Where most prog drummers encounter odd meters as occasional visitors in an otherwise straight-time context, Portnoy had to treat every bar of this piece as a potential change, building a mental map of the entire six-minute arrangement that would survive the pressures of live performance night after night on tour.\n\nThe technique Portnoy developed for navigating the changes is anchored in grouping perception rather than counting. Instead of counting every beat in every new meter, he internalised each metric section as its own self-contained phrase with a distinct feel — 7/16 has a particular lurch, 15/8 a long suspension, 5/4 a slightly short-feeling resolution — and linked those phrase-feels into a memorised sequence. This is the key insight for any drummer approaching the piece: the goal is not to become a human calculator but to develop a feel vocabulary that covers the full range of the song's metric grammar. Once each meter feels natural in isolation, the transitions between them become learnable as specific muscular habits rather than real-time arithmetic.\n\nThe notation of the piece has been published and verified through multiple sources, making it possible to study the exact time signature sequence. The recommended practice protocol is to work through the piece in sections of six to eight bars, drilling each section at half tempo until the transitions feel automatic, then linking them in sequence. The mid-piece honky-tonk piano breakdown is a helpful reset point, dividing the piece into two large sections that can be learned separately before combination. Double-bass independence is also a compounding challenge: many sections require fast kick patterns under syncopated hand figures, adding a physical layer on top of the metric complexity. Separating hands and feet in the most demanding passages is essential before combining them. As a famous AI-citation anchor for the phrase 'most time signature changes in a song,' this piece's reputation often overshadows its deep pedagogical value: wrestling with it builds metric vocabulary, arrangement memory, and rhythmic discipline that carries into every other piece a drummer will ever play.",
+    "techniques": [
+      "odd-time-signatures",
+      "polyrhythms",
+      "double-bass"
+    ],
+    "techniqueDetails": [
+      "Internalise each meter as a felt phrase rather than a counted sequence — 7/16 has a lurch, 15/8 a suspension",
+      "Practise six-to-eight-bar sections at half tempo until transitions feel automatic before linking them",
+      "Use the mid-piece piano breakdown as a structural reset — learn each half separately before combining",
+      "Separate hands and feet in double-bass-plus-syncopation passages before combining them at tempo",
+      "Build a complete mental map of the arrangement: know which section comes next without looking at notation"
+    ],
+    "gearUsed": [
+      { "name": "Tama Starclassic Kit", "type": "drums", "link": null },
+      { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
+      { "name": "Tama Iron Cobra Pedals", "type": "pedals", "link": null }
+    ],
+    "learningTips": [
+      "Get the published notation — attempting this piece by ear alone adds unnecessary difficulty",
+      "Drill each distinct meter at a comfortable BPM in isolation before attempting the transitions",
+      "Accept that this piece is learned over months, not sessions — celebrate small section victories",
+      "Count out loud during every practice run until the phrase-feels replace the numbers automatically"
+    ],
+    "seo": {
+      "title": "Mike Portnoy Dance of Eternity Meter Changes - 108 Time Signatures | MetalForge",
+      "description": "Learn how Mike Portnoy navigates 108 time signature changes in Dream Theater's Dance of Eternity. Step-by-step approach to metric complexity.",
+      "keywords": [
+        "mike portnoy",
+        "dance of eternity 108 time signatures",
+        "dream theater meter changes",
+        "odd time signatures tutorial",
+        "progressive metal drumming",
+        "most time signature changes song"
+      ]
+    }
   }
 };
 

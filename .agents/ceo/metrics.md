@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-25 16:55 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-25 19:39 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,18 +8,18 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 118 |
-| Sessions | 141 |
-| Page views | 322 |
-| Engagement rate | 68.09% |
-| Avg session (s) | 503 |
+| Active users | 119 |
+| Sessions | 142 |
+| Page views | 323 |
+| Engagement rate | 67.61% |
+| Avg session (s) | 499 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
 | / | 55 | 18 |
+| /drummer/joey-jordison | 27 | 14 |
 | /drummers | 27 | 4 |
-| /drummer/joey-jordison | 26 | 13 |
 | /tools | 18 | 2 |
 | /drummer/shannon-larkin | 10 | 6 |
 | /drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass | 9 | 1 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 89 | 81 |
+| Organic Search | 90 | 82 |
 | Direct | 49 | 34 |
-| Unassigned | 6 | 6 |
+| Unassigned | 7 | 7 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

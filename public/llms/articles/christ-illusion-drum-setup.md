@@ -1,6 +1,6 @@
-# Christ Illusion Drum Setup: Dave Lombardo's Gear on Slayer's Grammy-Winning 2006 Album
+# Dave Lombardo's Drum Setup on Slayer's Christ Illusion (2006)
 
-> Discover the exact drum kit, cymbals, and gear Dave Lombardo used on Slayer's Christ Illusion (2006) — his Grammy-winning comeback album after a 14-year absence. Complete breakdown of the Pearl Masters MCX kit, Free-Floating brass snare, Zildjian A Custom cymbals, and the Pearl Demon Drive pedals that powered Lombardo's return.
+> Dave Lombardo returned to Slayer after a 14-year absence for Christ Illusion (2006), the Grammy-winning thrash album. Complete gear breakdown of the Pearl Masters MCX kit, Free-Floating brass snare, and Zildjian A Custom cymbals that powered Lombardo's comeback recording.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Dave Lombardo](/llms/drummers/dave-lombardo.md)
@@ -9,88 +9,64 @@
 
 ## Overview
 
-Christ Illusion (2006) marked Dave Lombardo's definitive return to Slayer after a 14-year absence since *Seasons in the Abyss* (1990). The album was produced by Josh Abraham at Track Studios in Chicago and The Mansion in Los Angeles. Its track "Eyes of the Insane" won the Grammy Award for Best Metal Performance at the 2007 Grammy Awards — Slayer's first Grammy and the highest-profile recognition of Lombardo's drumming career.
+In 2006, Dave Lombardo returned to Slayer after a 14-year absence — his longest gap since leaving the band following Seasons in the Abyss in 1990. Christ Illusion was the album that marked his return, and it arrived with immediate critical and commercial impact: the track "Eyes of the Insane" won the Grammy Award for Best Metal Performance at the 2007 Grammy Awards, making Christ Illusion the highest-profile Lombardo-era Slayer record since Reign in Blood.
 
-For the sessions, Lombardo moved to Pearl's Masters MCX series, a mahogany-and-birch hybrid shell kit that delivered a warmer, deeper tone than the Tama Artstar II he had used on *Reign in Blood* twenty years earlier. Combined with a Pearl Free-Floating brass snare and Zildjian A Custom cymbals, the Christ Illusion setup documented an evolved Lombardo — capable of Reign in Blood blast beat speeds while also bringing dynamic range and textural control that the 1986 recording rarely called for.
+The reunion was not cosmetic. Lombardo's presence transformed Christ Illusion into something the intervening records — Diabolus in Musica, God Hates Us All, and the Paul Bostaph-era output — had lacked: the particular combination of controlled aggression and rhythmic authority that only Lombardo brought to Slayer's music. Producer Josh Abraham captured that energy at Track Studios in Chicago and The Mansion in Los Angeles, with a modern drum sound that updated the Lombardo signature without abandoning it.
 
-The album fills the 16-year arc gap in the Lombardo/Slayer discography: Show No Mercy (1983) → Reign in Blood (1986) → Seasons in the Abyss (1990) → **Christ Illusion (2006)**.
+For the sessions, Lombardo moved to Pearl's Masters MCX series — a mahogany-and-birch shell system that delivered a warmer, deeper tone than the Tama Artstar II he had used on Reign in Blood twenty years earlier. The darker tuning he chose for Christ Illusion reflected both the album's more atmospheric compositions and his own evolution as a player. The blast beats were still there, but so was a more textured approach to dynamics and color.
+
+This article examines the complete gear setup Dave Lombardo used to record Christ Illusion, the Grammy context that makes the album historically significant, and the sonic differences between his 1986 and 2006 Slayer work.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Masters MCX (Black Ice finish)
-- **Bass Drums:** 22" x 18" (x2) — double bass configuration
-- **Toms:** 10" x 8" and 12" x 9" rack toms; 14" x 14" and 16" x 16" floor toms
-- **Snare:** Pearl Free-Floating 14" x 6.5" (Brass shell)
-- **Cymbals:** Zildjian A Custom 14" Hi-Hats; A Custom 16" Crash; A Custom 18" Crash; A Custom 20" Ride; A Custom 18" China
-- **Pedals:** Pearl Demon Drive (x2, direct-drive)
-- **Sticks:** Zildjian Dennis Chambers Signature (approximate)
-- **Heads:** Remo Emperor Clear (toms), Remo Emperor Coated (snare), Remo Powerstroke 3 (kick batter)
+- **Drums:** Pearl Pearl Masters MCX (Black Ice finish)
+- **Snare:** Pearl Pearl Free-Floating, 14" x 6.5"
+- **Cymbals:** Zildjian — Zildjian A Custom
+- **Hardware / Pedals:** Pearl Demon Drive (x2); Pearl H-2050 Eliminator Hi-Hat Stand; Pearl D-2500 Roadster Throne; Zildjian Dennis Chambers Signature (approximate)
+- **Heads:** Remo Emperor Coated (batter)
+- **Snare tuning:** Medium-high tension for cutting attack with brass warmth
 
-## Gear Details
+### Lombardo's Comeback Kit: Pearl Masters MCX
 
-### Pearl Masters MCX: The Comeback Kit
+For Christ Illusion, Dave Lombardo played a Pearl Masters MCX kit in Black Ice finish — a significant departure from the Tama Artstar II that defined his sound on Reign in Blood two decades earlier. The MCX's mahogany-and-birch hybrid shell formula delivered a warmer, rounder low-end than pure birch, giving Christ Illusion's drum sound a depth that distinguishes it from the drier, more aggressive Reign in Blood aesthetic.
 
-The Pearl Masters MCX was Pearl's flagship professional series in the mid-2000s, using mahogany-and-birch hybrid shells. Lombardo chose a 22x18" double bass configuration — slightly deeper than the 22x16" setup he had used on *Reign in Blood*. The MCX's mahogany content added warmth and low-mid resonance that the pure birch Tama Artstar II lacked, contributing to Christ Illusion's darker, heavier drum sound. Josh Abraham's production at The Mansion in Los Angeles captured the MCX's full-body resonance with room ambience that the dry Rubin approach on *Reign in Blood* had deliberately avoided.
+The double bass configuration remained constant — Lombardo's trademark since the Show No Mercy era. Two 22-inch bass drums drove the rhythmic foundation of every track. The slightly deeper shell depth (18 inches versus the 16 inches of the Reign in Blood era) contributed to a fuller, more resonant kick sound that sat differently in Josh Abraham's modern production.
 
-The double bass configuration was unchanged from every Lombardo-era Slayer album: two separate bass drums, not a double pedal on a single drum. This had been constant since *Show No Mercy* in 1983.
+Pearl's Masters MCX series was their flagship professional line in the mid-2000s, used by major touring artists across genres. The Reference hardware system provided stability for aggressive playing, while the bearing edge cutting gave the toms a focused attack without sacrificing warmth. For Christ Illusion's blend of traditional Slayer aggression and more atmospheric passages, this balanced response was appropriate.
 
-### Pearl Free-Floating Brass Snare: Sensitivity at Speed
+The Black Ice finish was purely aesthetic — but it continued the dark visual aesthetic that Lombardo had maintained since his Piano Black Tama days.
 
-The Pearl Free-Floating system positions the snare wires independently of the shell, eliminating the dampening effect of fixed snare beds. The result is maximum sensitivity across the full head, from the center to the edge. The 14x6.5 brass shell added a cutting metallic character that cut through Kerry King and Jeff Hanneman's down-tuned guitars without the dryness of the steel Tama snare of the *Reign in Blood* era. On "Eyes of the Insane," the Grammy-winning track, the snare crack is particularly prominent — immediate and punishing at the track's deliberate 170 BPM tempo.
+### The Grammy-Era Crack: Pearl Free-Floating Brass
 
-### Zildjian A Custom Cymbals: A New Era
+The snare on Christ Illusion is one of the defining elements of Lombardo's 2006 sound. He used a Pearl Free-Floating 14x6.5 brass snare — a drum built around Pearl's floating snare bed system, where the snare wires contact the resonant head independently of the shell, eliminating the dampening effect of fixed snare beds and maximizing sensitivity and response.
 
-Lombardo's cymbal vocabulary shifted from Paiste 2002/RUDE (the *Reign in Blood* era) to Zildjian A Custom by the time of Christ Illusion. The A Custom's bright, cutting character — different from both the warm Zildjian A of the *Show No Mercy* era and the aggressive Paiste RUDE — suited Josh Abraham's layered modern production. The China cymbal remained above the floor tom in its traditional position: that trashy, explosive accent had been part of Lombardo's setup from the very first Slayer recording.
+The brass shell gave the Free-Floating a cutting, metallic quality distinct from the steel Tama snare of the Reign in Blood era. Josh Abraham's production placed the snare prominently in the mix — dryer than the 1980s Rubin approach but with more presence in the low-mids than typical modern metal production. On "Eyes of the Insane," the Grammy-winning track, the snare crack is immediate and punishing, cutting through Kerry King and Jeff Hanneman's down-tuned riffing.
 
-### Pearl Demon Drive Pedals: Direct-Drive Precision
+The 6.5-inch depth gave Lombardo the body and fundamental response needed for the album's range of tempos. Christ Illusion included both blast beat passages (where the snare needed crack and articulation) and more mid-paced sections (where body and punch mattered more). The Free-Floating's sensitivity accommodated both extremes.
 
-By 2006, Lombardo had moved from Tama Iron Cobra pedals to Pearl's Demon Drive — a direct-drive design that eliminated chain lag for instantaneous response at extreme tempos. On Christ Illusion's fastest tracks ("Flesh Storm" at 220+ BPM), the Demon Drive's precision enabled the blast beat consistency that distinguished Lombardo's playing from the more mechanical double bass of the Bostaph-era Slayer records.
+### Zildjian A Custom: A New Era
 
-## Recording Context
+By 2006, Lombardo had moved away from the Paiste RUDE and 2002 setup that defined his Reign in Blood sound, settling on Zildjian A Custom series cymbals for Christ Illusion. The A Custom series represents a departure from both the warm Zildjian A of his Show No Mercy era and the aggressive Paiste 2002/RUDE combination of his 1986 peak.
 
-Christ Illusion was produced by Josh Abraham at Track Studios in Chicago and The Mansion in Los Angeles in 2006. Abraham's approach differed fundamentally from Rick Rubin's *Reign in Blood* aesthetic: where Rubin wanted raw, minimal drum capture, Abraham used a more layered production with room mic blending and more low-mid presence in the kit. The Pearl MCX kit was tuned darker than Lombardo's classic approach — more tom sustain, deeper kick, less high-frequency attack in the snare. This suited Christ Illusion's compositions, which ranged from full-speed blast attacks ("Flesh Storm," "Cult") to more deliberate mid-paced tracks ("Eyes of the Insane," "Jihad").
+The A Custom's bright, cutting character — achieved through a combination of lathing pattern and bell design — gave Lombardo the articulation he needed in Josh Abraham's dense, layered production. The cymbals project clearly through the down-tuned guitars without the raw aggression of the Paiste RUDE series.
 
-The Grammy Award for Best Metal Performance — won by "Eyes of the Insane" at the 2007 ceremony — validated the Christ Illusion sessions as a significant achievement. It was the first Grammy for Slayer and the highest institutional recognition of Lombardo's drumming in his career.
+The China cymbal remained a constant across all Lombardo-era Slayer records. From the Zildjian A 18" China Boy High of Show No Mercy to the Paiste RUDE China of Reign in Blood to the A Custom China of Christ Illusion, the trashy accent above the floor tom has been a fixture of his vocabulary since day one.
 
-## Track Highlights
+The transition from Paiste to Zildjian A Custom reflected both evolving sound preferences and the different production aesthetic of 2006 versus 1986. Where Rick Rubin wanted raw, aggressive sonics, Josh Abraham's approach favored controlled brightness — and the A Custom series suited that context.
 
-### Eyes of the Insane (Grammy Winner)
-At approximately 170 BPM, "Eyes of the Insane" is one of the slower tracks on the album, which may have contributed to its Grammy accessibility. The Pearl Free-Floating brass snare is prominently placed in the mix. Lombardo's control at this deliberate tempo — maintaining the signature Slayer intensity without blast-beat speed — demonstrated the musical maturity he had developed across the 16-year gap.
+## Key Facts
 
-### Cult
-The album opener at approximately 195 BPM. The double bass Pearl Demon Drive pedals are immediately audible — precise, full-bodied kicks that announce the comeback at full force. The MCX kit's darker tuning distinguishes this from the tighter, drier sound of the *Reign in Blood* opener "Angel of Death."
-
-### Flesh Storm
-The fastest track on Christ Illusion at approximately 220 BPM — approaching *Reign in Blood* tempos. Lombardo's ability to sustain blast beat intensity at 220+ BPM after a 14-year absence from Slayer was a defining moment of the comeback. The Demon Drive pedals and MCX kick drums combined to produce a deep, precise bass drum sound at extreme speed.
-
-## FAQs
-
-**What drums did Dave Lombardo use on Christ Illusion?**
-Dave Lombardo recorded *Christ Illusion* (2006) on a Pearl Masters MCX kit in Black Ice finish — two 22x18-inch bass drums in a double bass configuration, with 10" and 12" rack toms and 14" and 16" floor toms. The MCX's mahogany-birch hybrid shells produced a warmer, darker tone than the Tama Artstar II birch setup he had used on *Reign in Blood* in 1986.
-
-**Is Christ Illusion Lombardo's first Slayer album after his return?**
-*Christ Illusion* (2006) was the album that most fully marked Lombardo's comeback — he had left after *Seasons in the Abyss* in 1990, a 14-year absence from Slayer's studio work. (He had briefly returned for *Diabolus in Musica* in 1998, but *Christ Illusion* was the album that captured critical attention and won the Grammy.) For the purposes of the Lombardo career arc, *Christ Illusion* closes the 16-year gap between *Seasons in the Abyss* and his return.
-
-**Did Christ Illusion win a Grammy?**
-Yes. The track "Eyes of the Insane" from *Christ Illusion* won the Grammy Award for Best Metal Performance at the 2007 Grammy Awards — Slayer's first Grammy. The recognition was the highest-profile institutional acknowledgment of Lombardo's drumming in his career. The Grammy angle also makes *Christ Illusion* particularly searchable for the 'Grammy-winning metal drums' category.
-
-**What snare did Dave Lombardo use on Christ Illusion?**
-Dave Lombardo used a Pearl Free-Floating 14x6.5 brass snare for *Christ Illusion*. The Free-Floating system's independent snare wire contact maximizes sensitivity and response. The brass shell delivered a cutting, metallic character distinct from the steel Tama snare of the *Reign in Blood* era. It is prominently featured on "Eyes of the Insane."
-
-**What cymbals did Dave Lombardo use on Christ Illusion?**
-Dave Lombardo used Zildjian A Custom series cymbals on *Christ Illusion*, having moved from the Paiste 2002/RUDE setup of the *Reign in Blood* era. His configuration included A Custom 14" Hi-Hats, 16" and 18" Crashes, a 20" Ride, and an 18" China. The China cymbal maintained its position above the floor tom — a constant in Lombardo's setup from *Show No Mercy* (1983) through the Christ Illusion sessions.
-
-**How does Dave Lombardo's Christ Illusion kit compare to Reign in Blood?**
-The contrast reveals 20 years of evolution. *Reign in Blood* (1986): Tama Artstar II (birch), Tama Superstar Steel snare, Paiste 2002/RUDE cymbals, Tama Iron Cobra pedals, Rick Rubin dry production. *Christ Illusion* (2006): Pearl Masters MCX (mahogany-birch), Pearl Free-Floating Brass snare, Zildjian A Custom cymbals, Pearl Demon Drive pedals, Josh Abraham modern room production. Playing style also evolved: *Reign in Blood* is pure attack; *Christ Illusion* shows dynamic range and textural control alongside sustained blast-beat capability.
-
-## Related Content
-
-- [Dave Lombardo drummer profile](/drummer/dave-lombardo)
-- [Reign in Blood Drum Setup](/articles/reign-in-blood-drum-setup)
-- [Show No Mercy Drum Setup](/articles/show-no-mercy-drum-setup)
-- [Slayer band page](/band/slayer)
-- [What's in Dave Lombardo's Kit](/articles/whats-in-dave-lombardos-kit)
-- [Thrash metal drumming history](/techniques/thrash-metal-drummers)
+- First Lombardo Slayer album since Seasons in the Abyss (1990) — a 16-year arc gap
+- "Eyes of the Insane" won Grammy for Best Metal Performance at the 2007 Grammy Awards
+- Pearl Masters MCX kit replaced the Tama Artstar II of the Reign in Blood era
+- Darker, deeper tuning than classic 1986 Lombardo sound
+- Produced by Josh Abraham — modern drum sound with preserved Lombardo signature
+- Pearl Masters MCX replaced the Tama Artstar II of the 1986 era
+- Mahogany-birch shells deliver warmer, rounder tone than pure birch
+- Deeper 22x18" kick drums versus the 22x16" configuration of Reign in Blood
+- Double bass configuration maintained from Show No Mercy through the comeback
+- Estimated kit value: $3,500-5,000 (2006)
+- Estimated snare value: $400-600 (2006)
 
 **Source:** https://metalforge.io/articles/christ-illusion-drum-setup
 

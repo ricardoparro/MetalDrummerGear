@@ -9,85 +9,76 @@
 
 ## Overview
 
-Brann Dailor (born March 19, 1975, in Rochester, New York) co-founded Mastodon in Atlanta in 2000 alongside guitarists Bill Kelliher and Brent Hinds, and bassist Troy Sanders. Since the band's formation, he has been the rhythmic and increasingly vocal engine behind one of metal's most critically acclaimed acts.
+Brann Dailor's drum kit is the axis around which Mastodon's progressive sludge sound revolves. Born March 19, 1975, in Rochester, New York, Dailor co-founded Mastodon in Atlanta in 2000 alongside guitarist Bill Kelliher, guitarist and vocalist Brent Hinds, and bassist and vocalist Troy Sanders. Since the band's inception, he has been the rhythmic and increasingly vocal engine that separates Mastodon from every other heavy band of their generation.
 
-What distinguishes Dailor from every other metal drummer is his melodic approach: toms tuned in musical intervals and integrated as counter-melodies throughout grooves, not just fills; jazz-influenced ghost notes woven through every pattern; and a single-bass-drum philosophy focused on groove placement over double-kick speed. His playing treats the kit as a compositional instrument equal to the guitars.
+What makes Dailor's drumming so distinctive is the constant forward motion — fills that never stop, tom patterns that sing like melodies, ghost notes woven through every groove. Where most metal drummers play in service of the riff, Dailor treats the kit as a melodic instrument equal to the guitars. His jazz-influenced sensibility — legible in the flowing tom runs on "Hearts Alive" from *Leviathan* (2004) or the cascading passages on "Crack the Skye" (2009) — brings a musicality to sludge and prog metal that few have attempted and fewer have achieved.
 
-He also sings — complex harmonies and co-lead vocals throughout Mastodon's catalog, simultaneously with technically demanding drum parts. This dual role places him among the most technically accomplished musician-drummers in heavy music.
+He also sings. Extensively. Throughout Mastodon's catalog, Dailor handles harmonies, co-lead vocals, and in some sections nearly all the vocal work while simultaneously executing some of the most technically demanding drum patterns in metal. On *Emperor of Sand* (2017), he anchors "Show Yourself" and "Ancient Kingdom" with both voice and drums — a combination of skills that places him among a handful of musician-drummers who operate at the highest level across two disciplines simultaneously.
 
-## Drum Kit
+This article breaks down the complete Brann Dailor drum setup across Mastodon's career, from his long-time Tama Starclassic Maple foundation through his cymbal choices, sticks, and the playing philosophy that redefined heavy drumming's expressive range.
 
-- **Drums:** Tama Starclassic Maple
-- **Bass Drums:** 22" x 18" (single kick)
-- **Toms:** 10", 12", 13" rack toms; 16" floor tom
-- **Shells:** 100% maple — warm, resonant, melodically focused
-- **Snare:** Tama Starphonic or Artstar, 14" x 6.5", steel or brass shell
-- **Estimated Kit Value:** $3,000–5,500 (Starclassic Maple shell pack)
+## Gear Breakdown
 
-## Cymbals
+- **Drums:** Tama Tama Starclassic Maple (Various custom finishes across Mastodon eras finish)
+- **Snare:** Tama Tama Starphonic or Artstar Snare, 14" x 6.5"
+- **Cymbals:** Istanbul Agop — Istanbul Agop Traditional / Xist Series
+- **Hardware / Pedals:** Tama Iron Cobra or Speed Cobra Single Pedal; Vater American Hickory (various models); Remo Emperor Coated; Remo Powerstroke 3; Roc-N-Soc Nitro Throne
+- **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
+- **Snare tuning:** Medium tension — tuned for tone and sensitivity, not maximum attack
 
-- **Brand:** Istanbul Agop (primary) / Zildjian (secondary)
-- **Hi-Hats:** Istanbul Agop 14" Traditional Hi-Hats
-- **Crashes:** Istanbul Agop 18" Traditional Crash, 20" Traditional Crash
-- **Ride:** Istanbul Agop 22" Traditional Ride
-- **China:** Zildjian 18" China or Istanbul Agop China
-- **Estimated Cymbal Value:** $2,000–3,500
+### The Tama Starclassic Maple: Brann's Long-Time Foundation
+
+The Tama Starclassic Maple has been Brann Dailor's foundational kit across Mastodon's most significant albums, providing the warm, resonant platform his melodic drumming style demands. Tama's Starclassic series uses 100% maple shells — a choice that prioritises warmth, sustain, and a full fundamental tone over the brightness and attack of birch or the focused punch of mahogany-heavy hybrids.
+
+For Dailor's playing philosophy, maple is the only logical choice. His approach — where toms function as melodic instruments tuned in musical intervals and ghost notes weave through every groove — requires shells that sing. A maple Starclassic tuned carefully resonates with warmth and body even at lower velocities, which means every ghost note registers with tone rather than disappearing into noise. When Dailor cascades through tom patterns on songs like "The Czar" or "Oblivion" from *Crack the Skye*, those patterns work as melodies because the shells are capable of producing melodically usable pitches.
+
+Notably, Dailor typically runs a single 22" bass drum — a restrained choice by metal standards where double bass or massive single kicks dominate. This decision reflects his creative priorities: Mastodon's rhythmic foundation relies on groove, placement, and feel rather than double-kick velocity. A single kick, driven by precise single-pedal patterns, gives his foot work a musical quality that double kick speed often sacrifices.
+
+The three-rack-tom configuration (10", 12", 13") provides dense melodic resolution — three adjacent pitches close enough to form melodic shapes without large intervallic jumps between strokes. Combined with the 16" floor tom, Dailor has a four-drum melodic palette that spans a useful musical range. Listening to the tom work throughout *Blood Mountain* (2006) demonstrates the payoff: the fills aren't isolated from the songs, they're embedded in the melodic fabric, responding to the guitar harmonics around them.
+
+### The Snare: Crack and Sensitivity for Melodic Sludge
+
+Brann Dailor's snare selection across Mastodon's recording career has centred on Tama models that balance the crack and projection needed to cut through Mastodon's dense wall of guitars with the sensitivity his ghost note-heavy style demands. A 14" x 6.5" snare at medium tuning serves both sides of that requirement: authoritative enough for the heavy backbeats of *Leviathan* and *Blood Mountain*, responsive enough for the melodic, dynamic passages of *Crack the Skye* and *Emperor of Sand*.
+
+The deeper shell — 6.5" vs the standard 5.5" — gives Dailor more body and projection without sacrificing sensitivity. In Mastodon's studio and live mix, where Brent Hinds and Bill Kelliher's guitars create an enormous sonic wall, the snare needs genuine presence to register as a rhythmic anchor. The depth provides that presence, while Dailor's tuning philosophy — aimed at tone and musicality rather than maximum attack — keeps the drum from sounding harsh in the mix.
+
+Ghost notes are central to Dailor's playing, and the snare must register them clearly. A steel or brass shell at medium tension gives the resonance for ghost notes to speak without disappearing into white noise, while die-cast hoops provide consistent tension and excellent rimshot definition for the hard accents that punctuate Mastodon's heavier passages.
+
+On recordings like *Crack the Skye*, the snare is mixed to feel full and present — not brutally loud, but musically essential. It's the difference between a drum that dominates the mix and a drum that breathes within it.
+
+### Istanbul Agop: The Warm Turkish Voice of Mastodon
+
+Brann Dailor's use of Istanbul Agop cymbals is one of the most musically logical gear choices in metal drumming. Istanbul Agop, the Istanbul-based company founded by Agop Tomurcuk and continuing the Turkish hand-hammering tradition, produces cymbals with a warmth, complexity, and dark musicality that sets them apart from the brighter, more aggressive options common in metal.
+
+For a drummer whose playing is explicitly melodic and compositional, cymbals that sing rather than shout are essential. Istanbul Agop's Traditional series — hand-hammered, unlacquered, with complex overtone development — produces sounds that develop over time. A crash doesn't simply attack and decay; it blooms, revealing overtones as it opens and subsiding with musical character. This tonal complexity suits Dailor's approach perfectly: his cymbal work is as much about colour and atmosphere as about rhythmic punctuation.
+
+The 14" Traditional hi-hats provide the foundation for Dailor's intricate patterns. Mastodon's rhythmic complexity — particularly on *Crack the Skye* and *The Hunter* — requires hi-hats that register both subtle open-close variations and fully-open washing passages with equal musical character. Istanbul Agop's warmth means even the fastest, most articulate hi-hat patterns retain musical quality rather than becoming machine-gun noise.
+
+The crash selection across 18" and 20" covers Mastodon's dynamic range. The 18" speaks quickly for the abrupt accents that punctuate heavy riffs; the 20" provides the fuller crash for structural section endings. Both share the dark, complex character consistent with Istanbul Agop's house sound.
+
+The ride cymbal's washy, atmospheric quality serves *Crack the Skye* especially well — the album's more progressive, ambient passages benefit from a ride that adds textural colour rather than simply marking time. Dailor uses the ride as a second atmosphere layer rather than merely a surface for stick patterns.
+
+Zildjian cymbals have also appeared in Dailor's setup across various periods, particularly for specific accent or effect needs where Istanbul Agop's darker voice might not serve.
 
 ## Key Facts
 
 - Co-founder of Mastodon (2000) — one of metal's most critically acclaimed bands
-- Tama Starclassic Maple — primary kit across Leviathan, Blood Mountain, Crack the Skye, The Hunter, Emperor of Sand
-- Istanbul Agop Traditional cymbals — warm, complex, hand-hammered Turkish tone
-- Vater drumsticks (American hickory)
-- Tama Iron Cobra or Speed Cobra single pedal
-- Remo Ambassador Coated (toms batter), Remo Powerstroke 3 (bass batter)
-- Single bass drum — creative single-pedal groove patterns over double-kick speed
-- Sings complex vocal parts simultaneously with demanding drum arrangements
-- Four Grammy nominations with Mastodon
-- Jazz-influenced ghost note vocabulary applied to sludge/prog metal context
-- Toms tuned in musical intervals — used as melodic instruments throughout songs
-- Known for constant flowing fills woven into grooves, not isolated
-
-## Career Eras
-
-**Leviathan (2004):** Mastodon's critical breakthrough — Dailor's melodic tom language introduced on "Hearts Alive" and "Blood and Thunder." Tama Starclassic Maple established as primary kit.
-
-**Blood Mountain (2006):** Aggressive complexity with melodic integration. Global charting debut. Istanbul Agop cymbals central to the record's texture.
-
-**Crack the Skye (2009):** Career peak — Grammy-nominated, universally acclaimed. "The Czar," "Oblivion," "Pendulous Skin" feature the most melodically sophisticated drum performances in metal. Istanbul Agop's atmospheric warmth complements the album's progressive character.
-
-**The Hunter (2011):** Billboard 200 Top 10. Dailor's dual drummer-vocalist role becomes central. "Show Yourself"-era accessibility built on melodic drumming foundation.
-
-**Emperor of Sand (2017):** Grammy-nominated for Best Metal Performance. Emotionally resonant, with "Show Yourself" demonstrating how melodic single-kick drumming anchors a radio-accessible metal song.
-
-## FAQ
-
-**Q: What drums does Brann Dailor use?**
-A: Brann Dailor's long-time kit is the Tama Starclassic Maple series. The 100% maple shells provide the warm, resonant tone his melodic drumming demands — tuned to sing, not just to punch. His configuration includes a single 22" bass drum, three rack toms (10", 12", 13"), and a 16" floor tom. This Tama setup was used across Mastodon's defining albums from Leviathan (2004) through Emperor of Sand (2017).
-
-**Q: What cymbals does Brann Dailor use?**
-A: Brann Dailor plays Istanbul Agop cymbals, primarily the Traditional series — hand-hammered Turkish cymbals with warm, complex, dark character. His setup includes 14" Traditional hi-hats, 18" and 20" Traditional crashes, and a 22" Traditional Ride. Istanbul Agop's tonal warmth suits his compositional approach: cymbals that develop atmospherically rather than simply attacking and decaying. Zildjian cymbals have also appeared across various Mastodon eras for specific accent needs.
-
-**Q: What sticks does Brann Dailor use?**
-A: Brann Dailor uses Vater drumsticks in American hickory models. Vater's hickory construction balances the power needed for Mastodon's heavier passages with the sensitivity his ghost note work and nuanced cymbal playing require.
-
-**Q: Does Brann Dailor use double bass?**
-A: No — Brann Dailor plays a single bass drum with a single pedal. This is one of his most distinctive choices in a metal genre saturated with double-bass players. His single-kick approach focuses on precise groove placement and feel rather than velocity, giving Mastodon's rhythmic foundation a musical quality that double-kick saturation would compromise. The foot is a groove instrument in his philosophy, not a speed demonstration.
-
-**Q: What makes Brann Dailor's drumming style unique?**
-A: Dailor applies a jazz-influenced melodic vocabulary to heavy metal: toms used as melodic instruments tuned in musical intervals; extensive ghost notes derived from jazz's constant-hand-motion technique; single-bass-drum groove philosophy; and Istanbul Agop cymbal warmth used for atmospheric colour. He performs all this while singing complex vocal harmonies and leads — a combination that makes him one of the most technically accomplished musician-drummers in heavy music. His playing produces drum parts that function as counter-melodies to the guitar work, not merely rhythmic support.
-
-**Q: What Mastodon albums best showcase Brann Dailor's drumming?**
-A: Start with *Crack the Skye* (2009) — the career peak. "The Czar," "Oblivion," and "Pendulous Skin" are among the most melodically sophisticated drum performances ever recorded on a metal album. Then *Leviathan* (2004) for the initial statement — "Hearts Alive" introduces his melodic tom language definitively. *Emperor of Sand* (2017) shows how the approach translates to more accessible material without sacrificing depth.
-
-## Related
-
-- [Drummer profile](https://metalforge.io/drummer/brann-dailor)
-- [Kit overview](https://metalforge.io/articles/whats-in-brann-dailors-kit)
-- [Signature lick breakdowns](https://metalforge.io/drummers/brann-dailor/licks)
+- Long-time Tama Starclassic Maple kit user throughout Mastodon's formative albums
+- Istanbul Agop cymbals for complex, warm, musical tones
+- Vater drumsticks across touring and studio work
+- Vocalist as well as drummer — rare dual role at the highest level
+- Four Grammy nominations with Mastodon; jazz-influenced melodic approach in a sludge/prog metal context
+- Known for constant flowing fills, ghost notes, and treating toms as melodic instruments
+- Tama Starclassic Maple — 100% maple shells for warmth and melodic resonance
+- Single 22" bass drum — creative single-pedal patterns over double-bass speed
+- Three rack toms (10", 12", 13") for dense melodic resolution
+- Shells tuned in musical intervals, not arbitrary pitches
+- Used across Leviathan, Blood Mountain, Crack the Skye, The Hunter, Emperor of Sand eras
+- Estimated kit value: $3,000–5,500 (Starclassic Maple shell pack)
+- Estimated snare value: $400–700 (Tama snare)
 
 **Source:** https://metalforge.io/articles/brann-dailor-mastodon-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-20 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*

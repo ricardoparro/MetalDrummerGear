@@ -52,20 +52,6 @@ The hi-hats are the most technically demanding element in a gravity blast setup.
 
 His crash setup covers the two primary accent demands in Hate Eternal's arrangements. The 16" responds immediately for riff-change accents and fill-endings at high tempos; the 18" provides the larger, fuller sound for section boundaries and climactic moments in songs like "Behold Judas" and "Nailed to Obscurity." The 18" china provides the most aggressive accent character in the setup — the trashy, upward-cutting tone that punctuates Hate Eternal's most intense passages with appropriate sonic violence.
 
-## FAQ
-
-**Q: What drum kit does Derek Roddy use?**  
-A: Derek Roddy plays a Tama Starclassic Maple kit with a double bass drum configuration (two 22"x18" kicks), 10" and 12" rack toms, and 16" and 18" floor toms. He uses Paiste cymbals from the 2002/Rude series, Tama Speed Cobra double pedals, and Vater drumsticks.
-
-**Q: What is the gravity blast technique?**  
-A: The gravity blast is a one-handed rolling motion derived from rudimental drumming that produces blast beat patterns without alternating hands. Derek Roddy is its foremost practitioner in death metal — the technique uses rotational wrist mechanics to generate blast-speed patterns at 220–280 BPM with greater physical economy than bilateral-hand approaches.
-
-**Q: What cymbals does Derek Roddy use?**  
-A: Roddy endorses Paiste, primarily using the 2002 and Rude series. His setup includes hi-hats chosen for fast attack and short decay (critical at extreme blast tempos), a 16" crash for fast accents, an 18" crash for section boundaries, and an 18" China for aggressive punctuation in Hate Eternal's most intense passages.
-
-**Q: How much is Derek Roddy's drum kit worth?**  
-A: The Tama Starclassic Maple shell pack runs approximately $3,000–$5,500. Add hardware, Paiste cymbals ($1,500–$3,000 for a professional setup), pedals, and heads, and the full rig totals roughly $6,000–$10,000.
-
 ## Key Facts
 
 - Hate Eternal drummer on King of All Kings (2002) — one of the most extreme death metal recordings
@@ -85,4 +71,4 @@ A: The Tama Starclassic Maple shell pack runs approximately $3,000–$5,500. Add
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-20 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*

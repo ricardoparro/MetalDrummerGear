@@ -1,12 +1,58 @@
 # Tomas Haake — Signature Drum Licks & Patterns
 
-**Band:** Meshuggah | **Genre:** Progressive Metal / Djent | **Lick Count:** 3
+**Band:** Meshuggah | **Genre:** Progressive Metal / Djent | **Lick Count:** 5
 
 ---
 
 ## Overview
 
-Tomas Haake is one of Progressive Metal / Djent's most influential drummers, best known for their work with Meshuggah. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Tomas Haake" or "Tomas Haake signature drum patterns". Their style spans djent.
+Tomas Haake is one of Progressive Metal / Djent's most influential drummers, best known for their work with Meshuggah. This file covers 5 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Tomas Haake" or "Tomas Haake signature drum patterns". Their style spans djent and polyrhythmic metal, covering the Chaosphere era through obZen and Koloss.
+
+## obZen Polyrhythm Ostinato
+
+**Song:** Bleed | **Album:** obZen (2008) | **BPM:** 116 BPM | **Technique:** polyrhythm | **Difficulty:** expert
+
+The polyrhythmic grid underlying Bleed from Meshuggah's 2008 album obZen is one of the most analytically rich drum patterns in contemporary metal, and it is distinct from the double-bass endurance story that defines how the song is usually taught. The central concept is a 4/4 metric structure over which the guitars and drums project an accent pattern that follows a grid built on non-aligned groupings, creating the sensation that the time signature is constantly shifting even though the pulse never wavers. Tomas Haake's hands are the key to understanding this: while the feet deliver the relentless sixteenth-note ostinato, it is the snare and cymbal accents that articulate the polyrhythmic displacement — hits that land on specific offbeats of the 4/4 grid, grouped in patterns whose length does not divide evenly into the bar. The effect is hypnotic and deeply mathematical, yet Haake executes it with such evenness and control that the complexity is almost hidden beneath the physicality of the performance. The most-watched Meshuggah drum performance video — Haake playing Bleed — has accumulated over eight million views and is widely described as a revelatory moment for drummers who first encounter it. For drummers, the polyrhythmic analysis of Bleed is a separate study from its endurance demands. Approach it by writing out the 4/4 bar and mapping where each snare and cymbal accent falls against the sixteenth-note grid; count how many bars it takes before the accent pattern resolves back to beat one. Layer the accents one limb at a time and focus on hearing the two layers simultaneously rather than feeling them as a coordination challenge. Mastering this analysis unlocks not just Bleed but the entire Meshuggah compositional method.
+
+### How to Play
+
+- Map where each snare and cymbal accent falls against the 4/4 sixteenth-note grid before playing
+- Count the full resolution cycle — how many bars before the accent pattern returns to beat one
+- Layer the ostinato one limb at a time: feet first, then hi-hat pulse, then snare displacement
+- Listen to the two layers simultaneously rather than treating them as a coordination obstacle
+- Practice at a fraction of recorded tempo until the polyrhythmic logic is fully internalised
+
+### Key Elements
+
+- Write out the accent pattern on paper before touching the kit — intellectual understanding is 50% of the work
+- Count aloud to identify the resolution cycle length; this proves you have truly mapped the polyrhythm
+- Keep the feet completely relaxed and even while focusing mental attention on the hand pattern
+- Study this polyrhythmic aspect alongside the endurance aspect — they are complementary, not the same skill
+
+**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Ostinato](https://metalforge.io/technique/ostinato), [Limb Independence](https://metalforge.io/technique/limb-independence)
+
+## Koloss I Am Colossus Groove
+
+**Song:** I Am Colossus | **Album:** Koloss (2012) | **BPM:** ~100 BPM | **Technique:** polyrhythm groove | **Difficulty:** advanced
+
+I Am Colossus, the opening track from Meshuggah's 2012 album Koloss, presents what is arguably Tomas Haake's most accessible polyrhythmic performance — deceptively simple on the surface but built on deep subdivisions that reveal their logic only on close listening. The song's main groove sits at a slower tempo than Bleed or New Millennium Cyanide Christ, which gives the polyrhythmic displacement more space to breathe and makes the structural logic easier to identify. The surface rhythm is a heavy, lurching groove driven by a powerful kick pattern that accents specific eighth notes against a slow hi-hat pulse, while the snare lands in places that feel almost wrong in a conventional groove context — until you identify the riff grouping length and hear how the displaced hits lock perfectly to the guitar accents. This is the Meshuggah paradox at its most accessible: the drumming feels off-kilter yet inevitable, strange yet deeply grooved. The Koloss album production — heavier and more stripped-back than obZen — gives the drums a density and power that makes this groove feel physical rather than academic. Haake described the Koloss sessions as an attempt to find something heavier through simplicity, and I Am Colossus delivers exactly that: fewer notes than Bleed, but each one landing with heightened intentionality. For drummers, this lick is the ideal entry point into Meshuggah-style ostinato playing before tackling Bleed or Clockworks. Identify the riff grouping, establish a steady hi-hat pulse, and add the displaced kick and snare, focusing on locking the accents to the guitar figures. Build the polyrhythmic independence at slow tempo before chasing any recorded speed.
+
+### How to Play
+
+- Count the guitar riff grouping cycle length and track how many bars before the pattern resets
+- Establish a steady hi-hat pulse as your anchor before adding the displaced kick and snare
+- Lock the displaced snare hits to the guitar accent figures rather than to the metronome grid
+- Practice at a tempo slow enough that the groove feels natural before building speed
+- Use this lick as your Meshuggah entry point before tackling faster tracks like Bleed
+
+### Key Elements
+
+- This is the most approachable Meshuggah lick — slower tempo gives the polyrhythm room to click
+- Count the riff cycle length until you can predict the resolution without consciously tracking it
+- Learn I Am Colossus before New Millennium Cyanide Christ and before Bleed — build the vocabulary in order
+- Play along with the album recording to feel how the groove locks against the guitars in full context
+
+**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures)
 
 ## Bleed Double Bass Groove
 
@@ -79,7 +125,7 @@ New Millennium Cyanide Christ, from Meshuggah's ferocious Chaosphere album, is o
 
 ## Teaching Points
 
-Tomas Haake's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Build the double-bass ostinato gradually over weeks, never rushing; Keep the legs completely relaxed to sustain the constant sixteenths; Lock the hand accents to the feet at slow tempo first. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
+Tomas Haake's style is defined by precision, polyrhythmic intelligence, and relentless double-bass endurance. Key practice principles across all their licks: Build the double-bass ostinato gradually over weeks, never rushing; Keep the legs completely relaxed to sustain the constant sixteenths; Map the polyrhythmic cycle intellectually before playing it; Start with I Am Colossus before tackling Bleed or Clockworks. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary, from the Chaosphere displacement era through the obZen endurance benchmark and the Koloss groove accessibility.
 
 ## More Resources
 

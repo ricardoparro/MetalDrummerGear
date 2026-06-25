@@ -147,6 +147,140 @@ export const licks = {
       ]
     }
   },
+  "gene-hoglan-dark-angel-220bpm-blast-beat": {
+    "slug": "gene-hoglan-dark-angel-220bpm-blast-beat",
+    "name": "Dark Angel 220 BPM Blast Beat",
+    "shortName": "Dark Angel Blast",
+    "drummerId": 3,
+    "drummerName": "Gene Hoglan",
+    "drummerSlug": "gene-hoglan",
+    "band": "Dark Angel",
+    "song": "Darkness Descends",
+    "album": "Darkness Descends (1986)",
+    "category": "blast-beat",
+    "style": "thrash-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 220,
+    "bpmDisplay": "~220 BPM",
+    "timeSignature": "4/4",
+    "description": "Gene Hoglan's work on Dark Angel's Darkness Descends, released in 1986, is one of the most historically significant drumming performances in the history of extreme metal. At a time when no one had heard drumming at these speeds in a fully produced studio metal context, Hoglan delivered blast beats approaching 220 BPM with a clarity, power, and consistency that was simply unprecedented. The album is widely cited as a direct precursor to death metal and remains a benchmark for extreme thrash, and Hoglan's drumming is central to why it still sounds ferocious four decades later. What makes the blast beats on Darkness Descends particularly instructive for modern drummers is Hoglan's technique: unlike the heel-up, double-bass-driven blasts that became standard in death and grindcore, Hoglan at this stage played with a heavy reliance on wrist power and, crucially, a single bass drum pedal. The right hand drives the ride or crash at the blast speed, the left hand locks to the snare with a near-simultaneous backbeat, and the single kick drives underneath with a pumping pattern. This wrist-driven approach gives the blasts a slightly different quality from later double-bass blast styles: there is a human urgency and physicality to them, a feeling of barely-controlled intensity that the more metronomic double-bass approach sometimes lacks. The title track Darkness Descends showcases this perfectly — the blasts arrive with force and clarity while retaining the raw, aggressive feel that makes the record a genre landmark. For drummers, studying this lick teaches the historical roots of extreme metal blasting, the mechanics of single-bass blast technique, and how wrist power rather than foot speed alone can drive a blast at extreme tempos. Building this technique requires working on wrist endurance at the ride or crash, developing the ability to alternate between wrist strokes rapidly over sustained periods, and synchronising that hand speed with precise single-bass kick strokes. The approach differs meaningfully from double-bass blast practice: the hands carry more of the velocity burden, and power comes from the shoulders and wrists rather than two feet dividing the work. Hoglan refined this vocabulary further in his later Death recordings, but the raw force of the Dark Angel period remains distinct and worth studying as a foundational chapter in extreme metal drumming history.",
+    "techniques": [
+      "blast-beat",
+      "wrist-technique",
+      "single-bass"
+    ],
+    "techniqueDetails": [
+      "Drive the blast with wrist power at the ride or crash — hands carry the velocity burden",
+      "Lock the snare with a near-simultaneous backbeat on the left hand",
+      "Use a single bass drum pedal, pumping a consistent eighth or sixteenth-note pattern underneath",
+      "Build wrist endurance through short blast bursts before extending duration",
+      "Focus on clarity and evenness of each stroke rather than raw maximum speed"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "Tama Drum Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Paiste Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Single Bass Drum Pedal",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Practice short blast bursts at moderate speed before pushing the BPM — evenness beats raw velocity",
+      "Focus on wrist relaxation and rebound; tension at these speeds causes injury and kills endurance",
+      "Use a single kick pedal to develop this specific technique before switching to double bass",
+      "Record yourself to monitor stroke evenness — the right and left hands should be identical in volume"
+    ],
+    "seo": {
+      "title": "Gene Hoglan Dark Angel Blast Beat - Darkness Descends Drum Tutorial | MetalForge",
+      "description": "Learn Gene Hoglan's record-breaking 220 BPM blast beat from Dark Angel's Darkness Descends (1986). Wrist technique, single-bass approach, and practice guide.",
+      "keywords": [
+        "gene hoglan",
+        "dark angel drums",
+        "darkness descends blast beat",
+        "220 bpm blast",
+        "thrash metal blast beat",
+        "wrist blast technique"
+      ]
+    }
+  },
+  "gene-hoglan-death-symbolic-groove-blast-combo": {
+    "slug": "gene-hoglan-death-symbolic-groove-blast-combo",
+    "name": "Symbolic Groove-to-Blast Switch",
+    "shortName": "Symbolic Groove-Blast",
+    "drummerId": 3,
+    "drummerName": "Gene Hoglan",
+    "drummerSlug": "gene-hoglan",
+    "band": "Death",
+    "song": "Symbolic",
+    "album": "Symbolic (1995)",
+    "category": "groove-to-blast",
+    "style": "death-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 195,
+    "bpmDisplay": "~195 BPM",
+    "timeSignature": "4/4",
+    "description": "The Symbolic album (1995) represents the apex of Gene Hoglan's collaboration with Chuck Schuldiner, and the defining drum technique of that record is Hoglan's seamless shifting between deep, groove-locked patterns and devastating blast sections within a single song. While Crystal Mountain showcases his double-ride invention and Zero Tolerance his syncopated bridge work, it is the album's groove-to-blast transitions — most fully realised in the title track Symbolic — that reveal the full scope of Hoglan's musicianship. The title track moves from a mid-paced, heavily riff-locked groove into searing blast passages and back again, and each transition is executed with surgical precision, using fills that bridge the two worlds without a moment of hesitation or loss of momentum. This is a genuinely difficult skill: many drummers can play a blast and many can play a groove, but Hoglan makes the switch feel inevitable rather than laboured, because his internal pulse is so locked that the tempo feels unified even as the playing density changes dramatically. The groove sections on Symbolic demonstrate Hoglan's refined half-time feel — a wide, breathing snare placement over a driving kick figure — that gives the riff maximum space to breathe, while the blast sections are tight, wrist-led, and ferociously precise, leaving no ambiguity about the intensity shift. The transition fills are typically compact and musical, a few quick strokes across the toms that arrive exactly on the barline and release cleanly into either the groove or the blast as required. For drummers, this lick teaches one of the most valuable skills in extreme metal: gear-change fluency. The practice method is to isolate the groove section, then the blast section, and then work through each transition individually, building the fill from slow speed up to tempo with the goal of making the arrival in each new section feel natural and unforced. It is also a study in dynamic contrast: the groove and the blast must have genuinely different feels, not just different note densities, so the listener hears the switch as a musical event. Mastering the Symbolic-era groove-to-blast vocabulary unlocks the language of late-period Death and transfers directly to any extreme metal context where stylistic breadth is required.",
+    "techniques": [
+      "groove-drumming",
+      "blast-beat",
+      "fill-techniques"
+    ],
+    "techniqueDetails": [
+      "Isolate the groove section and the blast section separately before practising the transitions",
+      "Use compact, barline-landing fills to bridge between groove and blast without disruption",
+      "Maintain a unified internal pulse so the feel shifts but the tempo lock never wavers",
+      "Execute the half-time snare with authority in groove sections — wide and breathing, not rushed",
+      "Build each fill from slow speed to tempo before inserting it into the full passage"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "Pearl Drum Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Sabian Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Double Bass Pedals",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Practice the groove and blast sections as separate modules before combining them",
+      "Work on the fill bridging each transition in isolation at half speed first",
+      "Record the full passage to check that each section feels genuinely different in density and feel",
+      "Keep fills short and decisive — the transition should happen in two to four strokes maximum"
+    ],
+    "seo": {
+      "title": "Gene Hoglan Symbolic Groove-to-Blast - Death Drum Tutorial | MetalForge",
+      "description": "Learn Gene Hoglan's groove-into-blast switch from Death's Symbolic (1995). Transition fills, dynamic contrast, and technique breakdown.",
+      "keywords": [
+        "gene hoglan",
+        "death symbolic drums",
+        "groove to blast",
+        "death metal transitions",
+        "symbolic album",
+        "extreme metal drumming"
+      ]
+    }
+  },
   "gene-hoglan-zero-tolerance-groove": {
     "slug": "gene-hoglan-zero-tolerance-groove",
     "name": "Zero Tolerance Groove",

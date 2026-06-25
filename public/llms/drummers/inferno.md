@@ -68,6 +68,13 @@ A: Inferno uses Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Cras
 
 A: Inferno drums for Behemoth, a black/death metal band.
 
+## Album Drum Setup Breakdowns
+
+- [Demigod Drum Setup (2004) — Pearl Masters BRX, Paiste Signature Dark Energy, 240+ BPM blast beats](https://metalforge.io/articles/demigod-drum-setup)
+- [Evangelion Drum Setup (2009) — Tama Starclassic Maple, Meinl Byzance Dark, Axis Longboard pedal](https://metalforge.io/articles/evangelion-drum-setup)
+- [The Satanist Drum Setup (2014) — Behemoth's AOTY gear breakdown](https://metalforge.io/articles/the-satanist-drum-setup)
+- [What's In Inferno's Behemoth Arsenal — Complete current gear breakdown](https://metalforge.io/articles/whats-in-infernos-kit)
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Inferno:

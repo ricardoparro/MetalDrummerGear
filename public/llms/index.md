@@ -258,6 +258,7 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | What's In Derek Roddy's Kit: The Extreme Metal Educator's Speed Arsenal | Derek Roddy | [Markdown](https://metalforge.io/llms/articles/whats-in-derek-roddys-kit.md) |
 | What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown | Inferno | [Markdown](https://metalforge.io/llms/articles/whats-in-infernos-kit.md) |
 | The Satanist Drum Setup: Inferno's Studio Arsenal for Behemoth's AOTY 2014 | Inferno | [Markdown](https://metalforge.io/llms/articles/the-satanist-drum-setup.md) |
+| Demigod Drum Setup: Inferno's Pearl Masters BRX — Behemoth's International Breakthrough (2004) | Inferno | [Markdown](https://metalforge.io/llms/articles/demigod-drum-setup.md) |
 | Human Drum Setup: Sean Reinert's Jazz-Death Masterpiece | Sean Reinert | [Markdown](https://metalforge.io/llms/articles/human-drum-setup.md) |
 | What's In Alex Bent's Trivium Arsenal: Complete Gear Breakdown | Alex Bent | [Markdown](https://metalforge.io/llms/articles/whats-in-alex-bents-kit.md) |
 | Blackwater Park Drum Setup: Martin Lopez's Opeth Masterpiece | Martin Lopez | [Markdown](https://metalforge.io/llms/articles/blackwater-park-drum-setup.md) |

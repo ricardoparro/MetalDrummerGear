@@ -77,16 +77,30 @@ for (const m of CURATED_MATCHUPS) {
 // cluster surfaced by GSC. Keyed by drummer slug. The drummer-page branch below
 // uses an override when present, else falls back to the generic template.
 //
-// Joey Jordison is the single dominant organic intent on the site (~10% of weekly
-// impressions: "joey jordison drum set/kit", stuck pos 6–9). Lead the title with
-// the exact head terms ("Drum Set & Kit") + Slipknot, and surface the signature
-// gear (Pearl signature snare, Promark TX515W) in the description to match the
-// high-CTR "kit for sale" commercial intent.
+// Issue #2544: Joey Jordison "drum kit/setup" cluster = 282+ impressions at pos
+// 7–11 with near-zero CTR. Front-load "Drum Kit & Setup" + brand name in title;
+// lead description with the exact "What drum kit did Joey Jordison use?" head
+// query. Eloy Casagrande, Inferno, and Shannon Larkin added for same CTR gap.
 const DRUMMER_META_OVERRIDES = {
   'joey-jordison': {
-    title: `Joey Jordison Drum Set & Kit: Slipknot Gear Breakdown | ${SITE_NAME}`,
+    title: `Joey Jordison Drum Kit & Setup — Pearl Signature Series | ${SITE_NAME}`,
     description:
-      "What drum set does Joey Jordison play? The Slipknot legend's Pearl Reference kit — signature snare, Promark TX515W sticks — with full specs and prices.",
+      "What drum kit did Joey Jordison use? Complete Pearl Signature snare, Tama Starclassic shells, and full Slipknot touring rig breakdown.",
+  },
+  'eloy-casagrande': {
+    title: `Eloy Casagrande Drum Kit & Setup — Tama Starclassic | ${SITE_NAME}`,
+    description:
+      "What drum kit does Eloy Casagrande use? The Slipknot drummer's Tama Starclassic Bubinga shells, Bell Brass snare, and full Paiste cymbal breakdown.",
+  },
+  'inferno': {
+    title: `Inferno Drum Kit & Setup — Behemoth Gear Breakdown | ${SITE_NAME}`,
+    description:
+      "What drum kit does Inferno use? The Behemoth drummer's Pearl Masterworks kit, Paiste RUDE cymbals, and Czarcie Kopyto double pedal — complete setup.",
+  },
+  'shannon-larkin': {
+    title: `Shannon Larkin Drum Kit & Setup — Godsmack Gear | ${SITE_NAME}`,
+    description:
+      "What drum kit does Shannon Larkin use? The Godsmack drummer's ddrum Dios Series kit, Sabian AAX/HHX cymbals, and DW 9000 double pedal breakdown.",
   },
 };
 

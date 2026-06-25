@@ -629,6 +629,14 @@ export default function handler(req, res) {
     { loc: '/llms/gear-comparison/drummers-using-gretsch-usa-custom.md', priority: '0.5', changefreq: 'monthly' },
     { loc: '/llms/gear-comparison/drummers-using-sonor-sq2.md', priority: '0.5', changefreq: 'monthly' },
     { loc: '/llms/gear-comparison/drummers-using-mapex-armory.md', priority: '0.5', changefreq: 'monthly' },
+    // Issue #2406: drummers-using LLM files for final 6 kit pages (Ludwig Classic Maple, Yamaha Recording Custom,
+    // Tama Superstar Classic, DW Performance Maple, Pearl Masters Maple, Sonor Vintage).
+    { loc: '/llms/gear-comparison/drummers-using-ludwig-classic-maple.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/gear-comparison/drummers-using-yamaha-recording-custom.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/gear-comparison/drummers-using-tama-superstar-classic.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/gear-comparison/drummers-using-dw-performance-maple.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/gear-comparison/drummers-using-pearl-masters-maple.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/gear-comparison/drummers-using-sonor-vintage.md', priority: '0.5', changefreq: 'monthly' },
     { loc: '/llms/tools/tier-list.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1351: name-generator LLM citation surface — metal drummer alias generator.
     { loc: '/llms/tools/name-generator.md', priority: '0.6', changefreq: 'monthly' },

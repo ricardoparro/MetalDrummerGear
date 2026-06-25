@@ -679,6 +679,29 @@ function getGearSeriesFromURL() {
   return { brandSlug: match[1].toLowerCase(), seriesSlug: match[2].toLowerCase() };
 }
 
+// DrummersUsingKitPage (Issue #2403, split 1/4 of #2215) - /gear/:brand/:series/drummers-using
+// Purchase-intent scaffold; data/drummersByKit.js is the source of truth.
+// Takes priority over LazyGearSeriesPage when the kit key exists in DRUMMERS_BY_KIT.
+// Kit keys are hardcoded here so routing is synchronous; the component loads the full data lazily.
+const LazyDrummersUsingKitPage = lazy(() => import('./pages/DrummersUsingKitPage').then(m => ({ default: m.DrummersUsingKitPage })));
+const DRUMMERS_BY_KIT_KEYS = new Set([
+  'tama/star-classic-maple',
+  'tama/star-classic-bubinga',
+  'tama/speed-cobra-910',
+  'pearl/reference-maple',
+  'pearl/reference-pure',
+  'pearl/demon-drive',
+  'sonor/sq2-heavy-beech',
+  'sonor/sq2',
+  'meinl/byzance',
+  'paiste/rude-2002',
+  'sabian/aax',
+  'dw/9000-series',
+]);
+function isDrummersUsingKitPage(brandSlug, seriesSlug) {
+  return DRUMMERS_BY_KIT_KEYS.has(`${brandSlug}/${seriesSlug}`);
+}
+
 // Extended bios for drummer detail pages (Issue #305)
 // Loaded dynamically for code splitting (~9KB of text data) - TBT optimization #460
 // Fix for #541: Added Promise caching and listeners for reliable async loading
@@ -27287,8 +27310,37 @@ setShowList(false);
     // Gear Series Page (Issue #996, split 2/4 of #871) - /gear/<brand>/<series>/drummers-using
     // SEO landing pages listing the pro drummers who use a brand+series. Routed off the
     // live URL (the regex is unambiguous vs the single-segment /gear/:brand brand pages).
+    // Issue #2403 (split 1/4 of #2215): if the kit key exists in DRUMMERS_BY_KIT, render
+    // DrummersUsingKitPage instead (purchase-intent scaffold with richer data shape).
     if (isGearSeriesPage()) {
       const seriesInfo = getGearSeriesFromURL();
+      const isKitPage = seriesInfo ? isDrummersUsingKitPage(seriesInfo.brandSlug, seriesInfo.seriesSlug) : false;
+      if (isKitPage) {
+        return (
+          <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+            <LazyDrummersUsingKitPage
+              theme={theme}
+              brandSlug={seriesInfo.brandSlug}
+              seriesSlug={seriesInfo.seriesSlug}
+              onBack={() => {
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.history.pushState({}, '', '/gear');
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              onNavigateToDrummer={(slug) => {
+                const drummer = drummers.find(d => toSlug(d.name) === slug);
+                if (drummer) {
+                  handleSelectDrummer(drummer);
+                }
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/drummer/${slug}`);
+                }
+              }}
+            />
+          </Suspense>
+        );
+      }
       return (
         <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
           <LazyGearSeriesPage

@@ -21,6 +21,8 @@ import SIGNATURE_LICKS from '../../packages/frontend/data/licks/index.js';
 import { TOP_10_LISTS } from '../../packages/frontend/data/top10Lists.js';
 // Issue #1379: /gear/<brand>/<series>/drummers-using SSR meta (~40 pages).
 import { GEAR_INDEX } from '../../packages/frontend/data/gearIndex.js';
+// Issue #2403 (split 1/4 of #2215): purchase-intent kit pages with richer drummer data.
+import { DRUMMERS_BY_KIT } from '../../packages/frontend/data/drummersByKit.js';
 // Issue #1387: gear item drummer links — authoritative drummerIds live in the gear API.
 import { gearItems } from '../gear/[slug].js';
 // Issue #1451: HowTo JSON-LD + Article schema for /guides/how-to-sound-like-<slug> pages.
@@ -2808,13 +2810,15 @@ function getMetaForPath(pathname) {
     }
   }
 
-  // Issue #1379: /gear/<brand>/<series>/drummers-using (~40 pages)
+  // Issue #1379 / #2403: /gear/<brand>/<series>/drummers-using
+  // #2403 (split 1/4 of #2215): kits in DRUMMERS_BY_KIT get purchase-intent title + ItemList + FAQPage JSON-LD.
   const gearSeriesDrummersMatch = path.match(/^\/gear\/([a-z0-9-]+)\/([a-z0-9-]+)\/drummers-using$/);
   if (gearSeriesDrummersMatch) {
     const [, brandSlug, seriesSlug] = gearSeriesDrummersMatch;
     const slugify = (str) => String(str).toLowerCase().replace(/['"]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-    let brandName = brandSlug;
-    let seriesName = seriesSlug;
+    const toDisplay = (slug) => slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+    let brandName = toDisplay(brandSlug);
+    let seriesName = toDisplay(seriesSlug);
     outer: for (const [brand, seriesObj] of Object.entries(GEAR_INDEX)) {
       if (slugify(brand) !== brandSlug) continue;
       for (const series of Object.keys(seriesObj)) {
@@ -2825,18 +2829,97 @@ function getMetaForPath(pathname) {
         }
       }
     }
+
+    const pageUrl = `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`;
+    const kitKey = `${brandSlug}/${seriesSlug}`;
+    const kitDrummers = DRUMMERS_BY_KIT[kitKey] || null;
+
+    if (kitDrummers !== null) {
+      // Issue #2403: purchase-intent title format + ItemList + FAQPage JSON-LD.
+      const firstDrummer = kitDrummers[0];
+      const drummerNames = kitDrummers.map(d => d.name);
+      const description = firstDrummer
+        ? `See which pro metal drummers use the ${brandName} ${seriesName} — including ${firstDrummer.name} (${firstDrummer.band}). Full gear configs, endorsement info, and years used.`
+        : `Discover which professional metal drummers use the ${brandName} ${seriesName}. Full list of artists, complete gear setups, and equipment endorsements.`;
+
+      const itemList = {
+        '@context': 'https://schema.org',
+        '@type': 'ItemList',
+        name: `Metal Drummers Who Use ${brandName} ${seriesName}`,
+        description,
+        url: pageUrl,
+        numberOfItems: kitDrummers.length,
+        itemListElement: kitDrummers.map((d, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          url: `${BASE_URL}/drummer/${d.slug}`,
+          name: d.name,
+        })),
+      };
+
+      const faqPage = {
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        mainEntity: [
+          {
+            '@type': 'Question',
+            name: `Which metal drummers use the ${brandName} ${seriesName}?`,
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: drummerNames.length > 0
+                ? `Notable metal drummers who use the ${brandName} ${seriesName} include ${drummerNames.join(', ')}.`
+                : `The ${brandName} ${seriesName} is trusted by professional metal drummers for its tone and durability.`,
+            },
+          },
+          {
+            '@type': 'Question',
+            name: `Is the ${brandName} ${seriesName} good for metal drumming?`,
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: `Yes — the ${brandName} ${seriesName} is used by top professional metal drummers for its durability, projection, and performance at extreme tempos.`,
+            },
+          },
+          {
+            '@type': 'Question',
+            name: `Do ${brandName} ${seriesName} drummers have official endorsements?`,
+            acceptedAnswer: {
+              '@type': 'Answer',
+              text: kitDrummers.some(d => d.endorsee)
+                ? `Yes. ${kitDrummers.filter(d => d.endorsee).map(d => d.name).join(' and ')} are official ${brandName} endorsees.`
+                : `Several drummers using the ${brandName} ${seriesName} are professional-level artists who rely on this kit on stage and in the studio.`,
+            },
+          },
+        ],
+      };
+
+      return {
+        title: `${seriesName} Drummers — Which Metal Drummers Use ${brandName} ${seriesName}? | ${SITE_NAME}`,
+        description,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: pageUrl,
+        articleSchema: JSON.stringify([itemList, faqPage]),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Gear', url: `${BASE_URL}/gear` },
+          { name: brandName, url: `${BASE_URL}/gear/${brandSlug}` },
+          { name: `${seriesName} Drummers`, url: pageUrl },
+        ],
+      };
+    }
+
     return {
       title: `${brandName} ${seriesName} — Metal Drummers Who Use This Gear | ${SITE_NAME}`,
       description: `Discover which professional metal drummers use ${brandName} ${seriesName}. Full list of artists, complete gear setups, and equipment endorsements.`,
       image: DEFAULT_IMAGE,
       type: 'website',
-      url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+      url: pageUrl,
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
         name: `Metal Drummers Who Use ${brandName} ${seriesName}`,
         description: `Professional metal drummers who use ${brandName} ${seriesName}`,
-        url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+        url: pageUrl,
         breadcrumb: {
           '@type': 'BreadcrumbList',
           itemListElement: [

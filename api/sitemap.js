@@ -559,6 +559,19 @@ export default function handler(req, res) {
     ...Object.keys(DRUMMER_EVOLUTION).map(slug => ({ loc: `/llms/evolution/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Issue #871/#997: gear/series "drummers-using" SEO pages (≥2 drummers each)
     ...getGearSeriesUrls().map(loc => ({ loc, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #2403 (split 1/4 of #2215): 12 purchase-intent kit pages powered by drummersByKit.js
+    { loc: '/gear/tama/star-classic-maple/drummers-using', priority: '0.85', changefreq: 'monthly' },
+    { loc: '/gear/tama/star-classic-bubinga/drummers-using', priority: '0.85', changefreq: 'monthly' },
+    { loc: '/gear/tama/speed-cobra-910/drummers-using', priority: '0.85', changefreq: 'monthly' },
+    { loc: '/gear/pearl/reference-maple/drummers-using', priority: '0.85', changefreq: 'monthly' },
+    { loc: '/gear/pearl/reference-pure/drummers-using', priority: '0.85', changefreq: 'monthly' },
+    { loc: '/gear/pearl/demon-drive/drummers-using', priority: '0.85', changefreq: 'monthly' },
+    { loc: '/gear/sonor/sq2-heavy-beech/drummers-using', priority: '0.85', changefreq: 'monthly' },
+    { loc: '/gear/sonor/sq2/drummers-using', priority: '0.85', changefreq: 'monthly' },
+    { loc: '/gear/meinl/byzance/drummers-using', priority: '0.85', changefreq: 'monthly' },
+    { loc: '/gear/paiste/rude-2002/drummers-using', priority: '0.85', changefreq: 'monthly' },
+    { loc: '/gear/sabian/aax/drummers-using', priority: '0.85', changefreq: 'monthly' },
+    { loc: '/gear/dw/9000-series/drummers-using', priority: '0.85', changefreq: 'monthly' },
     // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).
     { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },

@@ -224,6 +224,10 @@ const soundLikeGuides = [
   { slug: 'how-to-sound-like-mike-portnoy', name: 'How to Sound Like Mike Portnoy' },
   { slug: 'how-to-sound-like-shannon-larkin', name: 'How to Sound Like Shannon Larkin' },
   { slug: 'how-to-sound-like-scott-travis', name: 'How to Sound Like Scott Travis' },
+  // Issue #2409: SEO batch 18 — Aquiles Priester, Eloy Casagrande, Charlie Benante
+  { slug: 'how-to-sound-like-aquiles-priester', name: 'How to Sound Like Aquiles Priester' },
+  { slug: 'how-to-sound-like-eloy-casagrande', name: 'How to Sound Like Eloy Casagrande' },
+  { slug: 'how-to-sound-like-charlie-benante', name: 'How to Sound Like Charlie Benante' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

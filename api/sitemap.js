@@ -625,6 +625,10 @@ export default function handler(req, res) {
     { loc: '/llms/tools/gear-comparison.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1780: per-comparison brand LLM files — 7 files shipped in #1514, absent from sitemap.
     ...gearComparisons.map(c => ({ loc: `/llms/gear-comparison/${c.slug}.md`, priority: '0.5', changefreq: 'monthly' })),
+    // Issue #2404: drummers-using LLM files for top-3 flagship kit pages (Tama Star Classic Maple, DW Collector's Maple, Pearl Reference Pure).
+    { loc: '/llms/gear-comparison/drummers-using-tama-star-classic-maple.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/gear-comparison/drummers-using-dw-collectors-maple.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/gear-comparison/drummers-using-pearl-reference-pure.md', priority: '0.5', changefreq: 'monthly' },
     // Issue #2405: drummers-using LLM files for mid-tier kit pages (Gretsch USA Custom, Sonor SQ2, Mapex Armory).
     { loc: '/llms/gear-comparison/drummers-using-gretsch-usa-custom.md', priority: '0.5', changefreq: 'monthly' },
     { loc: '/llms/gear-comparison/drummers-using-sonor-sq2.md', priority: '0.5', changefreq: 'monthly' },

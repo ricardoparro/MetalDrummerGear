@@ -41951,6 +41951,100 @@ The Grammy nomination for "Silvera" was the official recognition. But the real p
 The [L'Enfant Sauvage drum setup](/articles/lenfant-sauvage-drum-setup) introduced the DW era. Magma refined it into something more essential. For drummers who want to understand how Mario Duplantier became the most influential progressive metal drummer of his generation, both records are required listening — and Magma is where the argument becomes undeniable.
 
 *Grammy-nominated. #1 in France. The world's introduction to Gojira.*`
+    },
+    schema: {
+      '@context': 'https://schema.org',
+      '@graph': [
+        {
+          '@type': 'Article',
+          headline: "Magma Drum Setup: Mario Duplantier's Pearl Reference Pure Breakthrough",
+          description: "Discover Mario Duplantier's complete drum kit on Gojira's Grammy-nominated Magma (2016). Full breakdown of his Pearl Reference Pure kit, Paiste Signature cymbals, Pearl Eliminator pedals, and the gear behind 'Silvera' and 'Stranded'.",
+          author: {
+            '@type': 'Organization',
+            name: 'MetalForge Editorial'
+          },
+          datePublished: '2026-06-25',
+          dateModified: '2026-06-25'
+        },
+        {
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://metalforge.io' },
+            { '@type': 'ListItem', position: 2, name: 'Articles', item: 'https://metalforge.io/articles' },
+            { '@type': 'ListItem', position: 3, name: 'Magma Drum Setup', item: 'https://metalforge.io/articles/magma-drum-setup' }
+          ]
+        },
+        {
+          '@type': 'MusicAlbum',
+          name: 'Magma',
+          byArtist: {
+            '@type': 'MusicGroup',
+            name: 'Gojira'
+          },
+          datePublished: '2016-06-17',
+          genre: 'Progressive Death Metal',
+          recordLabel: {
+            '@type': 'Organization',
+            name: 'Roadrunner Records'
+          },
+          track: [
+            { '@type': 'MusicRecording', name: 'Silvera' },
+            { '@type': 'MusicRecording', name: 'Stranded' },
+            { '@type': 'MusicRecording', name: 'Yellow Stone' },
+            { '@type': 'MusicRecording', name: 'Pray' },
+            { '@type': 'MusicRecording', name: 'Fly' },
+            { '@type': 'MusicRecording', name: 'Enable The Light' },
+            { '@type': 'MusicRecording', name: 'The Shooting Star' },
+            { '@type': 'MusicRecording', name: 'Bloody Roots' }
+          ]
+        },
+        {
+          '@type': 'Person',
+          name: 'Mario Duplantier',
+          memberOf: {
+            '@type': 'MusicGroup',
+            name: 'Gojira'
+          },
+          instrument: 'Drums'
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: 'What drums did Mario Duplantier use on Magma?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "On Magma (2016), Mario Duplantier played a Pearl Reference Pure kit. The Reference Pure uses a three-ply maple/mahogany/maple shell construction that delivers a warm yet focused tone — warmer than DW's pure maple shells used on L'Enfant Sauvage, but more defined than the bubinga Tama Starclassic of the earlier albums. His configuration included dual 22\" x 18\" bass drums (two independent instruments, not a double pedal), 10\" and 12\" rack toms, and 14\" and 16\" floor toms. He paired the Pearl kit with Pearl Eliminator single pedals — one for each bass drum."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'Was Magma Grammy nominated?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Yes. Gojira received their first-ever Grammy nomination for Best Metal Performance at the 2017 Grammy Awards (59th Grammy Awards) for \"Silvera\" from Magma. This was a landmark achievement — Gojira became the first French metal band to receive a Grammy nomination in any category. The nomination reflected Magma's commercial and critical breakthrough: the album debuted at #11 on the US Billboard 200 and reached #1 in France, making it the highest-charting Gojira release to date. Gojira was nominated alongside Baroness, Disturbed, Periphery, and Trivium, ultimately losing to Disturbed."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: "How does Magma's production differ from L'Enfant Sauvage?",
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "Magma is significantly leaner and more direct than L'Enfant Sauvage. Where L'Enfant Sauvage featured dense arrangements, complex guitar layering, and a produced clarity from the DW maple/Meinl Byzance setup, Magma strips Gojira's sound to its essential elements. Songs are shorter, arrangements are sparser, and the production foregrounds the core guitar-bass-drums interaction. Mario's switch from DW Collector's Series to Pearl Reference Pure drums contributed to this: the maple/mahogany hybrid shells add warmth and body that suits the album's more minimal production. The Paiste Signature cymbals also shifted the upper-frequency character — from the Byzance Brilliant's brightness to a fuller, more musical tone that fits the album's direct approach."
+              }
+            },
+            {
+              '@type': 'Question',
+              name: 'What cymbals did Mario Duplantier use on Magma?',
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: "For Magma, Mario Duplantier switched from Meinl Byzance Brilliant to Paiste Signature cymbals. His setup included 14\" Signature Medium hi-hats, crashes at 17\", 19\", and 20\", a 21\" Signature Heavy Ride, and an 18\" Signature China. The Paiste Signature series is made from Paiste's proprietary 2002 Bronze alloy (copper, tin, and silver) and is hand-hammered to deliver a full, musical tone with controlled warmth. Compared to the Meinl Byzance Brilliant's mirror-polished brightness, the Signature cymbals sit warmer in the mix — a tonal complement to the Pearl Reference Pure drums' maple/mahogany character."
+              }
+            }
+          ]
+        }
+      ]
     }
   },
 

@@ -69,6 +69,29 @@ The 20" Z Custom China is one of the most distinctive sounds on the record. Thos
 - Estimated kit value: $5,000-7,000 (1994) / $9,000-14,000 (Reference Pure today)
 - Estimated snare value: $500-700 (1994) / $600-900 (comparable today)
 
+## FAQ
+
+**What drums did Vinnie Paul use on Far Beyond Driven?**
+Vinnie Paul recorded Far Beyond Driven in 1994 on a Pearl Reference Pure kit. The configuration included dual 24x18 inch bass drums, four rack toms spanning 8 to 13 inches, and floor toms at 16 and 18 inches. The maple/mahogany hybrid shells produced a warmer, darker tone than his previous ddrum setup on Vulgar Display of Power, while maintaining the massive attack and low-end presence that defined Pantera's sound. All drums were triggered for consistency, blending acoustic shell character with electronic attack reinforcement.
+
+**What pedals did Vinnie Paul use on Far Beyond Driven in 1994?**
+Far Beyond Driven (1994) was a transitional era for Vinnie Paul's pedal setup. He used DW 9000 series pedals alongside the Tama Steel Cobra — one per bass drum in his dual-kick configuration. This hybrid approach let him work with both the DW 9000's direct-drive mechanism and the Steel Cobra's spring-loaded feel simultaneously. The DW 9000 became his dominant system in the years that followed, but the 1994 sessions captured this transitional combination at its peak creative output.
+
+**What cymbals did Vinnie Paul use on Far Beyond Driven?**
+Vinnie Paul switched from Sabian to Zildjian Z Custom cymbals for Far Beyond Driven in 1994. His setup included Zildjian Z Custom 14 inch hi-hats, 16 and 18 inch crashes, a 19 inch crash, a 22 inch ride, and a 20 inch China cymbal. The Z Custom series, known for its brilliant finish and aggressive attack, was significantly louder and brighter than the Sabian AA/AAX setup of Cowboys from Hell and Vulgar Display of Power — a deliberate choice to match the increased heaviness of Far Beyond Driven's production.
+
+## Related Albums
+
+- [Cowboys from Hell drum setup](/articles/cowboys-from-hell-drum-setup) — 1990, Vinnie Paul on Pearl Export; Pantera's mainstream breakthrough and the trilogy's opening chapter
+- [Vulgar Display of Power drum setup](/articles/vulgar-display-of-power-drum-setup) — 1992, Vinnie Paul's ddrum Custom era; the groove metal genre-defining record
+- [Vinnie Paul kit profile](/articles/whats-in-vinnie-pauls-kit) — complete career gear overview from Cowboys from Hell through Hellyeah
+
+## Structured Data (LLM Reference)
+
+**Person:** Vinnie Paul Abbott — drummer, Pantera, Hellyeah, Damageplan; born March 11, 1964, Arlington, Texas; died June 22, 2018; primary instrument drums; genre groove metal / heavy metal / hard rock; co-produced all Pantera studio albums
+**MusicAlbum:** Far Beyond Driven — Pantera (EastWest Records / Elektra, March 22, 1994); genre groove metal; debuted #1 on Billboard 200 (only metal album to do so in 1994); notable tracks: 5 Minutes Alone, I'm Broken, Becoming, 25 Years, Strength Beyond Strength
+**MusicGroup:** Pantera — American groove metal band; formed Arlington, Texas, 1981; members Vinnie Paul Abbott (drums), Dimebag Darrell Abbott (guitar), Philip Anselmo (vocals), Rex Brown (bass); active 1981–2003
+
 **Source:** https://metalforge.io/articles/far-beyond-driven-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)

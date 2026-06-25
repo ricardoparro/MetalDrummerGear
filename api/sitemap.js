@@ -101,6 +101,9 @@ const top10Lists = [
   { slug: 'black-metal-drummers', name: 'Top 10 Black Metal Drummers' },
   { slug: 'progressive-metal-drummers', name: 'Top 10 Progressive Metal Drummers' },
   { slug: 'nu-metal-drummers', name: 'Top 10 Nu-Metal Drummers' },
+  // Issue #2423: Best-of-all-time and most-underrated anchor list pages
+  { slug: 'best-metal-drummers-of-all-time', name: 'Top 10 Best Metal Drummers of All Time' },
+  { slug: 'most-underrated-metal-drummers', name: 'Top 10 Most Underrated Metal Drummers' },
 ];
 
 // Issue #642, #658: Article pages (SEO-optimized with /articles/:slug route)

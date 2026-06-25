@@ -41,7 +41,42 @@ export const DRUMMERS_BY_KIT = {
   'tama/star-classic-walnut-birch': [],
   'pearl/masters-custom-maple': [],
   'pearl/reference-masters-maple': [],
-  'dw/collectors-maple': [],
+  'dw/collectors-maple': [
+    {
+      slug: 'mike-portnoy',
+      name: 'Mike Portnoy',
+      band: 'Dream Theater',
+      yearsUsed: '1994–2010',
+      config: 'DW Collector\'s Maple (22"×18" Bass Drums ×2, 10"×7", 12"×8", 14"×12", 16"×14" Toms)',
+      endorsee: true,
+    },
+    {
+      slug: 'matt-greiner',
+      name: 'Matt Greiner',
+      band: 'August Burns Red',
+      yearsUsed: '2010–present',
+      config: 'DW Collector\'s Maple (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
+      endorsee: true,
+    },
+  ],
+  'pearl/reference-pure': [
+    {
+      slug: 'nick-augusto',
+      name: 'Nick Augusto',
+      band: 'Trivium',
+      yearsUsed: '2010–2014',
+      config: 'Pearl Reference Pure (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
+      endorsee: true,
+    },
+    {
+      slug: 'igor-cavalera',
+      name: 'Igor Cavalera',
+      band: 'Sepultura / Cavalera Conspiracy',
+      yearsUsed: '2006–2016',
+      config: 'Pearl Reference Pure (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
+      endorsee: false,
+    },
+  ],
   'sonor/sq2-heavy-maple': [],
   // Issue #2405 (split 3/4 of #2215): Sonor SQ2 general page (/gear/sonor/sq2/)
   'sonor/sq2': [

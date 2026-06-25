@@ -847,6 +847,280 @@ The Ludwig kit got replaced by Tama. The Zildjian A cymbals gave way to Paiste R
     }
   },
 
+  'south-of-heaven-drum-setup': {
+    slug: 'south-of-heaven-drum-setup',
+    albumTitle: 'South of Heaven',
+    artist: 'Slayer',
+    drummer: 'Dave Lombardo',
+    drummerId: 4,
+    relatedDrummerSlug: 'dave-lombardo',
+    year: 1988,
+    genre: 'Thrash Metal',
+    label: 'Def Jam Recordings / Columbia',
+    studio: 'Record One Studios, Sherman Oaks, California',
+    producer: 'Rick Rubin',
+    isAlbumArticle: true,
+    datePublished: '2026-06-25',
+    dateModified: '2026-06-25',
+    author: 'MetalForge Editorial',
+    title: "Dave Lombardo's Drum Setup on Slayer's South of Heaven (1988)",
+    description: "Dave Lombardo traded blast beats for groove on Slayer's controversial 1988 record. Complete gear breakdown of the Tama Artstar II kit and Paiste RUDE cymbals behind 'Mandatory Suicide' and 'Spill the Blood.'",
+    seoKeywords: ['south of heaven drums', 'dave lombardo 1988 kit', 'slayer south of heaven drum setup', 'dave lombardo tama artstar 1988', 'mandatory suicide drum gear', 'slayer slower album drums', 'dave lombardo groove drumming'],
+    ogImage: '/images/albums/south-of-heaven-drums.webp',
+    intro: {
+      title: 'The Album That Proved Lombardo Could Groove',
+      content: `Released on July 5, 1988, South of Heaven was Slayer's most controversial creative decision since their formation. Two years after Reign in Blood — arguably the fastest, most extreme metal album ever recorded — Kerry King, Jeff Hanneman, Tom Araya, and Dave Lombardo deliberately slowed down. Critics cried sellout. Fans were divided. But the drumming on South of Heaven revealed a dimension of Lombardo's playing that Reign in Blood's relentless blast beats had left unexplored: pure groove.
+
+Where Reign in Blood demanded stamina and precision at extreme tempos, South of Heaven demanded something harder for many thrash drummers to deliver — restraint and feel. "Mandatory Suicide" and the title track "South of Heaven" open the album at mid-paced tempos that would be unremarkable in any other context, but from Slayer, felt audacious. Lombardo's playing on these tracks demonstrated that the drummer behind "Angel of Death" could swing when the song called for it.
+
+Rick Rubin returned to produce, again working at Record One Studios in Sherman Oaks, California. The drum sound on South of Heaven is dry and direct — the same Rubin aesthetic from Reign in Blood, but applied to slower tempos that gave individual strokes more space and weight. Where Reign in Blood's speed made everything blur together in the best possible way, South of Heaven's pacing made every snare crack deliberate.
+
+This article examines Dave Lombardo's complete gear setup for South of Heaven — the same Tama Artstar II and Paiste RUDE combination from Reign in Blood, deployed in a completely different musical context — and the recording approach that made the album sound like Slayer even at half the speed.`,
+      keyPoints: [
+        'Deliberately slower tempos than Reign in Blood — a conscious creative choice',
+        'Rick Rubin returned to produce for the second consecutive Slayer album',
+        'Debuted at #57 on the Billboard 200 — highest Slayer chart position to that date',
+        '"Mandatory Suicide" and "Spill the Blood" showcase Lombardo\'s groove mastery',
+        'Same Tama Artstar II and Paiste RUDE setup as Reign in Blood, different musical context'
+      ]
+    },
+    drumKit: {
+      title: "Lombardo's Groove Machine: Tama Artstar II",
+      brand: 'Tama',
+      model: 'Tama Artstar II',
+      finish: 'Piano Black',
+      config: {
+        bassdrums: ['22" x 16" Bass Drum (x2)'],
+        toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+        floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom'],
+        shells: 'Birch shells with die-cast hoops'
+      },
+      description: `Dave Lombardo continued with the Tama Artstar II for South of Heaven — the same professional birch kit he had used on Reign in Blood in 1986. With Rick Rubin producing again at Record One in Sherman Oaks, the setup that had created the most intense thrash album ever recorded was now applied to Slayer's most tempo-varied record.
+
+The Artstar II's birch shells retained the punchy, focused attack that defined the Reign in Blood sound, but at the slower tempos of South of Heaven, the individual qualities of the drums became more audible. The double bass configuration — two separate 22x16-inch drums rather than a double pedal — still drove the rhythmic foundation, but now with more space between patterns to breathe.
+
+The consistency of using the same kit across both albums was partially practical: Lombardo had the setup dialed in, and the gear was performing reliably on what was now Slayer's second major-label record. The Tama endorsement had been established, and the Artstar II was delivering the sounds the band needed.
+
+Where the Artstar II's birch shells had been captured at their most extreme on Reign in Blood, South of Heaven allowed them to demonstrate a more complete range. The toms in particular — tuned to project clearly at slower tempos — have more character and body on South of Heaven than on the speed-dominated 1986 recordings.`,
+      notes: [
+        'Same Tama Artstar II used on Reign in Blood — consistent setup across both Rick Rubin productions',
+        'Birch shells allow individual drum character to emerge at mid-paced tempos',
+        'Double bass configuration: two separate 22x16" drums, not a double pedal',
+        'Slower tempos gave each stroke more space and weight in the mix'
+      ],
+      estimatedValue: '$2,500-3,500 (1988)'
+    },
+    snare: {
+      title: 'The Deliberate Crack: Tama Superstar Steel',
+      brand: 'Tama',
+      model: 'Tama Superstar Steel',
+      size: '14" x 6.5"',
+      shell: 'Rolled steel',
+      description: `The steel Tama Superstar snare that had cut through blast beats on Reign in Blood became the defining sound of South of Heaven's mid-paced rhythmic vocabulary. At slower tempos, the drum's character is more exposed — every nuance of Lombardo's strike is audible in ways that the speed of Reign in Blood sometimes obscured.
+
+On "Mandatory Suicide," the snare sits at the center of a groove-driven arrangement that contrasts sharply with the relentless attack of 1986. Lombardo's backbeat is deliberate and heavy, the snare's steel character providing presence without the spray that a wood or brass shell might have introduced. On the balladic closer "Spill the Blood," the snare becomes a punctuation mark rather than a weapon — Lombardo using it sparingly but with maximum impact.
+
+Rick Rubin's production approach was unchanged: minimal processing, close-mic, capture the performance with honesty. On a slower record, that honesty worked differently than on Reign in Blood's sprint. The drum sounds bigger at slower tempos, which suited South of Heaven's more deliberate aesthetic.
+
+The steel Superstar's tuning was kept in the same high-tension range as Reign in Blood — Lombardo's preference for maximum attack and minimal ring. The result was a snare that could both anchor grooves and punctuate the occasional faster passages without requiring re-tuning between contexts.`,
+      tuningSetting: 'High tension, tight snare wires — same approach as Reign in Blood',
+      heads: 'Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)',
+      estimatedValue: '$250-350 (1988)'
+    },
+    cymbals: {
+      title: 'Paiste RUDE at Mid-Pace',
+      brand: 'Paiste',
+      series: 'Paiste RUDE / 2002',
+      setup: [
+        { type: 'Hi-Hats', model: 'Paiste 2002 14" Sound Edge Hi-Hats', position: 'Left side', notes: 'The same hi-hats from Reign in Blood — but now driving grooves instead of blast patterns' },
+        { type: 'Crash', model: 'Paiste RUDE 18" Wild Crash', position: 'Left of hi-hats', notes: 'Aggressive crash for accent work and section transitions' },
+        { type: 'Crash', model: 'Paiste RUDE 19" Wild Crash', position: 'Right of toms', notes: 'Larger crash — more air on South of Heaven\'s slower passages' },
+        { type: 'Ride', model: 'Paiste 2002 20" Medium Ride', position: 'Far right', notes: 'More ride usage than Reign in Blood — mid-paced grooves use the bow' },
+        { type: 'China', model: 'Paiste 2002 18" China', position: 'Above floor tom', notes: 'Trashy China accents on "Ghosts of War" and "Cleanse the Soul"' },
+        { type: 'China', model: 'Paiste RUDE 20" Wild China', position: 'Far right, high', notes: 'Large China for section-ending accents' }
+      ],
+      description: `The Paiste RUDE and 2002 cymbal setup that defined Reign in Blood's aggressive sound carried forward intact to South of Heaven. At slower tempos, these cymbals reveal qualities that the 1986 album's speed sometimes buried: the spread and decay of the Wild Crash, the full bow characteristics of the 2002 Ride, the sustained wash of the China after a transition.
+
+The RUDE series cymbals were built for aggressive playing, but their qualities extend beyond blast beats and double bass onslaughts. On South of Heaven's more groove-oriented tracks, the Wild Crashes become textural tools — their trashy, unlathed character adding color to slower riff transitions that would sound antiseptic with brighter, more refined cymbals.
+
+The 2002 Sound Edge Hi-Hats — identical to the Reign in Blood setup — take on a different role at mid-pace. Rather than creating hi-hat patterns at extreme speed, Lombardo uses them to anchor grooves and create the rhythmic pulse that the slower tempos expose. The Sound Edge ripple bottom gives articulation at any tempo.
+
+Notably, the ride cymbal plays a more prominent role on South of Heaven than on Reign in Blood. Slower passages on "Ghosts of War" and "Behind the Crooked Cross" give the 2002 Medium Ride more opportunity to be heard — its complex bow response and clear bell becoming part of the album's textural vocabulary in ways that 29 minutes of blast beats simply didn't allow.`,
+      estimatedValue: '$900-1,200 (1988)'
+    },
+    hardware: {
+      title: 'Tama Iron Cobra: Power for Any Tempo',
+      items: [
+        {
+          type: 'Bass Drum Pedals',
+          brand: 'Tama',
+          model: 'Tama Iron Cobra (prototype/early production)',
+          notes: 'Same pedals from the Reign in Blood sessions — proved equally effective at slower tempos',
+          description: 'The Tama Iron Cobra pedals that drove Reign in Blood\'s blast beats adapted naturally to South of Heaven\'s slower tempo demands. The cam-driven action that enabled extreme speed also provided control and consistency at mid-paced BPMs, where feel and groove matter more than maximum velocity.'
+        },
+        {
+          type: 'Hi-Hat Stand',
+          brand: 'Tama',
+          model: 'Tama Titan Hi-Hat Stand',
+          notes: 'Tama\'s professional hi-hat stand, consistent with the 1986 setup'
+        },
+        {
+          type: 'Sticks',
+          brand: 'Pro-Mark',
+          model: 'Pro-Mark 2B Wood Tip',
+          notes: 'Heavy sticks matching Reign in Blood sessions — more body apparent at slower tempos'
+        }
+      ],
+      heads: {
+        bassKick: 'Remo Powerstroke 3 (batter)',
+        toms: 'Remo Emperor Clear (batter)',
+        snare: 'Remo Emperor Coated (batter)'
+      }
+    },
+    recordingTechniques: {
+      title: 'Rick Rubin at Record One: The Groove Era',
+      content: `Rick Rubin's production approach for South of Heaven was consistent with Reign in Blood: minimal processing, dry sound, close-mic placement, capture the performance. The difference was the performance itself — and at slower tempos, the same production aesthetic produced a dramatically different listening experience.
+
+**Studio Context:**
+Record One Studios in Sherman Oaks, California provided the same professional environment that the Reign in Blood sessions demanded. Rubin's relationship with the band was established, the technical workflow was familiar, and the focus remained on capturing Slayer as a live unit rather than layering studio artifice.
+
+**The Mid-Pace Challenge:**
+Engineering a drum sound for groove-oriented Slayer presented different challenges than engineering for blast beats. At slower tempos, the toms' individual tuning becomes audible; the bass drum's attack and sustain characteristics are exposed; the relationship between the kick and snare in the groove requires more attention than in blast-beat contexts where everything blurs together at maximum velocity.
+
+**Snare in a Groove Context:**
+The same Tama Superstar Steel that pierced through "Angel of Death" became a different instrument on "Mandatory Suicide." The close-mic approach gave the drum's attack a quality that anchored the slower groove without the track-level compression that might have been required in a more processed production environment.
+
+**The Paiste at Space:**
+At the tempos of "South of Heaven" and "Mandatory Suicide," the RUDE cymbals have room to decay — their complex overtones sustaining between hits rather than immediately being crushed by the next stroke. Rubin's minimal production captured this natural cymbal character, making South of Heaven's cymbal sound noticeably different from Reign in Blood despite using identical equipment.`,
+      keyTechniques: [
+        'Same Rick Rubin minimal production approach as Reign in Blood — different tempos, same philosophy',
+        'Dry, close-mic drum sound lets individual drum character emerge at mid-pace',
+        'Record One Studios environment: same professional setting, new musical context',
+        'Cymbal decay audible in ways that Reign in Blood\'s speed compressed',
+        'Groove-oriented mix balance: kick and snare relationship more exposed at slower tempos'
+      ]
+    },
+    trackAnalysis: [
+      {
+        track: 'Mandatory Suicide',
+        bpm: '155',
+        signature: '4/4',
+        highlights: [
+          'The track that most divided fans — Slayer playing a recognizable groove',
+          'Lombardo\'s backbeat is measured and deliberate, the opposite of blast beat mode',
+          'Snare crack defines the mid-pace riff structure',
+          'Double bass used for texture and color rather than sustained patterns',
+          'Demonstrates the full range of Lombardo\'s groove vocabulary'
+        ],
+        gearNotes: 'Tama Superstar Steel snare anchors the groove. Paiste 2002 Sound Edge hi-hats provide the rhythmic pulse at controlled tempo.'
+      },
+      {
+        track: 'South of Heaven',
+        bpm: '148',
+        signature: '4/4',
+        highlights: [
+          'Title track — the slowest Slayer opener since Show No Mercy',
+          'Tom fills demonstrate the Artstar II\'s character at mid-pace',
+          'Paiste 2002 Ride audible in the verses — unusual for this era of Slayer',
+          'Lombardo\'s restraint is itself a performance choice'
+        ],
+        gearNotes: 'Full Artstar II tom configuration showcases birch shell character. Wild Crash transitions between sections carry audible decay.'
+      },
+      {
+        track: 'Ghosts of War',
+        bpm: '195',
+        signature: '4/4',
+        highlights: [
+          'The fastest track on the album — approaches Reign in Blood territory',
+          'Lombardo proves the slower album wasn\'t a limitations issue',
+          'China cymbal accents recall the Reign in Blood vocabulary',
+          'Double bass at sustained speed: same Iron Cobra precision as 1986'
+        ],
+        gearNotes: 'Iron Cobra pedals prove equally effective at Reign in Blood tempos. Paiste RUDE China dominant in fast section accents.'
+      },
+      {
+        track: 'Spill the Blood',
+        bpm: '120',
+        signature: '4/4',
+        highlights: [
+          'Album closer — Slayer\'s most balladic track to that point',
+          'Acoustic intro followed by Lombardo\'s most restrained electric performance',
+          'Snare used as a punctuation mark, not a foundation',
+          'Demonstrates dynamic range that Reign in Blood\'s format didn\'t require'
+        ],
+        gearNotes: 'Tama Artstar II toms carry unusual warmth at this tempo. RUDE crashes used sparingly for maximum impact per strike.'
+      }
+    ],
+    evolution: {
+      title: "1986 to 1988: Two Years, One Band, Different Music",
+      content: `South of Heaven sits between Reign in Blood and Seasons in the Abyss in the Lombardo-era Slayer arc — the point at which the band tested whether their audience would follow them away from pure extremity. For drummers studying this period, it documents something rarely seen: a drummer who built their reputation on speed proving that groove is the harder skill.
+
+**The Same Gear, A Different Assignment:**
+Lombardo used identical equipment across Reign in Blood and South of Heaven: Tama Artstar II, Tama Superstar Steel snare, Paiste RUDE and 2002 cymbals, Iron Cobra pedals, Remo heads. The gear wasn't the variable. The variable was tempo, arrangement, and the musical demands of a band exploring what it meant to be Slayer without the defining characteristic of maximum speed.
+
+**What Groove Reveals:**
+At 220+ BPM, technical flaws disappear into the blur. At 148 BPM — the tempo of the South of Heaven title track — every element of a drummer's technique is exposed. Feel, time, dynamics, the quality of each individual stroke. Lombardo's ability to deliver a compelling performance at the album's slower tempos confirmed that the speed of Reign in Blood was a choice, not a ceiling.
+
+**The Fan Reaction:**
+South of Heaven divided Slayer's audience. Some heard artistic growth; others heard compromise. Lombardo's playing was rarely criticized — even fans who resented the tempo reduction acknowledged that the drumming was deliberate and controlled. The controversy was about the band's direction, not the execution.
+
+**The Arc:**
+Show No Mercy (1983): 19-year-old, Ludwig kit, pure aggression. Reign in Blood (1986): Tama Artstar II, blast beat perfection. South of Heaven (1988): Same Tama setup, groove mastery. The progression from one Slayer album to the next documents one of metal drumming's most complete developmental arcs — from raw teenager to groove-capable professional without losing the speed that defined him.`,
+      thenVsNow: [
+        { category: 'Kit', then: 'Tama Artstar II (birch) — Reign in Blood', now: 'Tama Artstar II (birch) — South of Heaven' },
+        { category: 'Snare', then: 'Tama Superstar Steel 14x6.5"', now: 'Tama Superstar Steel 14x6.5" (same drum)' },
+        { category: 'Cymbals', then: 'Paiste 2002 / RUDE series', now: 'Paiste 2002 / RUDE series (same setup)' },
+        { category: 'Pedals', then: 'Tama Iron Cobra prototype', now: 'Tama Iron Cobra (same pedals)' },
+        { category: 'Tempos', then: '220-250+ BPM (Reign in Blood)', now: '120-195 BPM (South of Heaven)' }
+      ]
+    },
+    videos: [
+      { youtubeId: 'wGFCDgkHVGE', title: 'Mandatory Suicide - Live', description: 'South of Heaven era live performance showcasing Lombardo\'s groove' },
+      { youtubeId: 'K6_zsJ8KPP0', title: 'Angel of Death - Live 1988', description: 'Proof Lombardo hadn\'t lost the speed' }
+    ],
+    relatedAlbums: ['reign-in-blood-drum-setup', 'show-no-mercy-drum-setup', 'seasons-in-the-abyss-drum-setup'],
+    relatedDrummers: [1, 12, 21],
+    relatedArticles: ['thrash-metal-drummers', 'fastest-double-bass-drummers'],
+    relatedLicks: [
+      { drummerSlug: 'dave-lombardo', lickSlug: 'dave-lombardo-angel-of-death-chaos', label: "Watch Dave Lombardo's 'Angel of Death' chaos breakdown" },
+      { drummerSlug: 'dave-lombardo', lickSlug: 'dave-lombardo-raining-blood-double-bass', label: "Watch Dave Lombardo's 'Raining Blood' double bass breakdown" },
+    ],
+    faq: [
+      {
+        question: 'What drum kit did Dave Lombardo use on South of Heaven?',
+        answer: 'Dave Lombardo used the same Tama Artstar II kit for South of Heaven (1988) that he had used on Reign in Blood (1986) — birch shells with die-cast hoops, two 22x16-inch bass drums, 10-inch and 12-inch rack toms, and 14-inch and 16-inch floor toms. Rick Rubin produced both albums, and the setup remained consistent across the two sessions. The difference between the albums is entirely in the tempo and musical approach, not the equipment.',
+      },
+      {
+        question: 'Why did Slayer slow down on South of Heaven?',
+        answer: 'Slayer deliberately slowed the tempos on South of Heaven as a creative statement — they had taken Reign in Blood\'s speed as far as it could go, and they wanted to prove they could make a compelling record at mid-paced tempos. Kerry King and Jeff Hanneman designed the album around groove-driven riffs rather than blast-beat structures. For Dave Lombardo, this meant demonstrating a different dimension of his playing: the restraint and feel that Reign in Blood\'s relentless pace hadn\'t required. The decision divided fans but demonstrated the band\'s range.',
+      },
+      {
+        question: 'What cymbals did Dave Lombardo use on South of Heaven?',
+        answer: 'Dave Lombardo used the same Paiste RUDE and 2002 Series cymbal combination on South of Heaven that he had used on Reign in Blood. The setup included Paiste 2002 14-inch Sound Edge Hi-Hats, Paiste RUDE 18-inch and 19-inch Wild Crashes, a Paiste 2002 20-inch Medium Ride, Paiste 2002 18-inch China, and Paiste RUDE 20-inch Wild China. At the slower tempos of South of Heaven, the cymbals\' decay characteristics are more audible than on Reign in Blood — the Wild Crashes sustain between hits, and the Ride is used more prominently in groove contexts.',
+      },
+      {
+        question: 'Is South of Heaven harder to drum than Reign in Blood?',
+        answer: 'South of Heaven requires a different kind of difficulty than Reign in Blood. Reign in Blood demands sustained stamina at extreme tempos — physical endurance, precise double bass execution at 220-250+ BPM, and blast beat consistency over 29 intense minutes. South of Heaven demands groove and feel — the ability to deliver a compelling performance at slower tempos where every technical element is exposed. Many drummers find the latter harder: playing slowly well is a skill separate from playing fast, and Lombardo\'s performance on tracks like "Mandatory Suicide" demonstrates a groove vocabulary that Reign in Blood\'s format simply didn\'t require.',
+      },
+      {
+        question: 'How does South of Heaven fit in the Lombardo-era Slayer discography?',
+        answer: 'South of Heaven (1988) sits between Reign in Blood (1986) and Seasons in the Abyss (1990) in the Lombardo-era Slayer arc. It represents the midpoint of a deliberate tempo evolution: Show No Mercy (1983) was raw and fast; Reign in Blood (1986) was the extreme speed peak; South of Heaven (1988) introduced groove and mid-pace dynamics; Seasons in the Abyss (1990) consolidated that range. After South of Heaven, Lombardo left Slayer for the first time, not returning until Diabolus in Musica (1998) and then the Grammy-winning Christ Illusion (2006). Understanding South of Heaven\'s place in the arc explains why Lombardo\'s playing on that album represents a pivot point in his documented development.',
+      },
+    ],
+    conclusion: {
+      title: 'The Pivot Point',
+      content: `South of Heaven is where Dave Lombardo proved that the drummer behind Reign in Blood was not a one-dimensional speed machine. The same Tama Artstar II and Paiste RUDE setup that powered the most extreme thrash album ever recorded was deployed here in service of groove, restraint, and mid-paced heaviness — and it worked.
+
+The album's controversy had nothing to do with the drumming. Lombardo's performance on South of Heaven is precise, musical, and confident. The tracks that divide opinion — "Mandatory Suicide," the title track, "Spill the Blood" — divide opinion because of tempo and arrangement, not execution. The execution is exemplary.
+
+For drummers studying the Slayer catalog, South of Heaven is essential precisely because it diverges from Reign in Blood's approach. Learning to play [Reign in Blood](/articles/reign-in-blood-drum-setup) teaches speed and endurance. Learning to play South of Heaven teaches something rarer: how to make metal feel heavy at lower tempos, how to make restraint a weapon, how to play fewer notes more powerfully.
+
+The gear didn't change between 1986 and 1988. The assignment did. And Lombardo delivered.
+
+For the complete Lombardo Slayer arc, see the [Reign in Blood drum setup](/articles/reign-in-blood-drum-setup) for the 1986 speed peak and the [Show No Mercy drum setup](/articles/show-no-mercy-drum-setup) for the 1983 origin story. The [Dave Lombardo drummer profile](/drummers/dave-lombardo) covers his complete career across both Slayer eras and beyond.`
+    }
+  },
+
   'christ-illusion-drum-setup': {
     slug: 'christ-illusion-drum-setup',
     albumTitle: 'Christ Illusion',

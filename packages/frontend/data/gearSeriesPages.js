@@ -6,6 +6,7 @@
 // lives in data/gearIndex.js; this module turns it into page-ready content.
 
 import { GEAR_INDEX } from './gearIndex';
+import { DRUMMERS_BY_KIT } from './drummersByKit';
 import { GEAR_PRICES, EUR_TO_USD, formatPrice } from '../gearPrices';
 import { getThomannLink, getSweetwaterLink } from '../affiliateLinks';
 
@@ -27,6 +28,8 @@ let _slugMap = null;
 function getSlugMap() {
   if (_slugMap) return _slugMap;
   const map = {};
+
+  // Generated index from api/drummers/index.js (single source of truth).
   for (const [brand, seriesObj] of Object.entries(GEAR_INDEX)) {
     const brandSlug = slugifySeries(brand);
     if (!map[brandSlug]) map[brandSlug] = {};
@@ -36,11 +39,35 @@ function getSlugMap() {
       if (!Array.isArray(drummers) || drummers.length < 2) continue;
       const seriesSlug = slugifySeries(series);
       // First series wins a given slug to keep URLs stable/unique.
+      // Copy the array so the merge step below can safely append to it.
       if (!map[brandSlug][seriesSlug]) {
-        map[brandSlug][seriesSlug] = { brand, series, drummers };
+        map[brandSlug][seriesSlug] = { brand, series, drummers: [...drummers] };
       }
     }
   }
+
+  // Hand-curated supplement (drummersByKit.js).
+  // New series are added when they have ≥2 entries; existing series get
+  // any missing drummers appended (deduped by id).
+  for (const [brand, seriesObj] of Object.entries(DRUMMERS_BY_KIT)) {
+    const brandSlug = slugifySeries(brand);
+    if (!map[brandSlug]) map[brandSlug] = {};
+    for (const [series, addDrummers] of Object.entries(seriesObj)) {
+      if (!Array.isArray(addDrummers) || addDrummers.length === 0) continue;
+      const seriesSlug = slugifySeries(series);
+      if (map[brandSlug][seriesSlug]) {
+        const existingIds = new Set(map[brandSlug][seriesSlug].drummers.map((d) => d.id));
+        for (const d of addDrummers) {
+          if (!existingIds.has(d.id)) {
+            map[brandSlug][seriesSlug].drummers.push(d);
+          }
+        }
+      } else if (addDrummers.length >= 2) {
+        map[brandSlug][seriesSlug] = { brand, series, drummers: [...addDrummers] };
+      }
+    }
+  }
+
   _slugMap = map;
   return map;
 }

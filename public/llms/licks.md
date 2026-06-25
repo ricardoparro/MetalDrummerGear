@@ -126,6 +126,63 @@ Profile: [https://metalforge.io/drummers/matt-greiner](https://metalforge.io/dru
 **Tutorial:** https://www.youtube.com/watch?v=J1fxihr8qxo
 **Page:** https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-sonic-salvation-groove
 
+### Messengers Blast-to-Groove Transition — "Meddler", Messengers (2007)
+- **BPM:** ~180 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **Techniques:** blast-beat, double-bass, groove-drumming
+
+**How to play it:**
+1. Execute clean alternating blast strokes with the kick driving below the snare and hi-hat
+2. Know the riff so well that you anticipate the blast-to-groove gear-change rather than reacting to it
+3. Shift the feet instantly from the continuous blast pattern to the stop-start groove figures
+4. Land in the groove pocket exactly as the guitars hit the chugging riff for maximum impact
+5. Practise the transition phrase in isolation before placing it back into the full song context
+
+**Practice tips:**
+- Practise blast-to-groove transitions in isolation first — start the blast, then switch to the groove at a set point
+- Slow the full passage to 60% tempo so you can hear and feel exactly where the transition lands
+- Record the riff on a loop and practise transitioning on every repeat to build pattern recognition
+- Focus the transition on the feet first — the hands can follow once the kick pattern change is automatic
+
+**Page:** https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-messengers-blast-groove
+
+### Constellations Polyrhythmic Pattern — "Crusades", Constellations (2009)
+- **BPM:** ~160 BPM | **Time:** 4/4 with polyrhythmic layers | **Difficulty:** Expert (5/5)
+- **Techniques:** odd-time-signatures, double-bass, groove-drumming
+
+**How to play it:**
+1. Anchor the hi-hat to the click as a fixed reference while the feet create the cross-rhythm
+2. Break the polyrhythmic pattern into individual rhythmic layers and practise each one separately
+3. Combine the layers slowly, feeling how they intersect before building to full tempo
+4. Keep the metalcore groove weight intact — polyrhythm should add tension, not sacrifice the pocket
+5. Record and check that each rhythmic layer is clear and deliberate rather than blurred
+
+**Practice tips:**
+- Clap the cross-rhythm pattern away from the kit until it feels natural before moving to the drums
+- Use a polyrhythm app or two-metronome setup to hear both rhythmic layers simultaneously
+- Build up from one bar of the polyrhythm at a time — two bars, then four — until the full passage is secure
+- Practise the return to the main pulse at the end of each polyrhythmic phrase until re-entry feels automatic
+
+**Page:** https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-constellations-polyrhythm
+
+### Leveler Double-Bass Run — "Empire", Leveler (2011)
+- **BPM:** ~175 BPM | **Time:** 4/4 (with odd time shifts) | **Difficulty:** Expert (5/5)
+- **Techniques:** double-bass, groove-drumming, fill-techniques
+
+**How to play it:**
+1. Prioritise evenness of each foot stroke over raw speed — both feet must hit with identical force
+2. Work single-foot endurance first, then combine the feet only once each is stable independently
+3. Lock the kick density deliberately to the arrangement — more drive in climactic sections, space in melodic parts
+4. Practise at the Leveler's tempos with a metronome until evenness holds through the full song duration
+5. Record and listen for each individual kick stroke — inconsistency between feet is immediately audible
+
+**Practice tips:**
+- Develop double-bass evenness with a relaxed ankle technique — let the pedal rebound do the work
+- Practise single-foot 16th notes at the full song tempo before combining both feet
+- Use a click track and record your playing — the waveform will reveal unevenness between feet
+- Build endurance in 30-second blocks, then 60-second blocks, working toward the full song duration
+
+**Page:** https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-leveler-double-bass
+
 ## Ben Koller (Converge)
 
 Profile: [https://metalforge.io/drummers/ben-koller](https://metalforge.io/drummers/ben-koller) · All licks: [https://metalforge.io/drummers/ben-koller/licks](https://metalforge.io/drummers/ben-koller/licks)
@@ -514,6 +571,63 @@ Profile: [https://metalforge.io/drummers/joey-jordison](https://metalforge.io/dr
 - Focus on the transitions between tom groups
 - Work on dynamics - Joey uses contrast for impact
 **Page:** https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-disasterpiece-chaos
+
+### Iowa Title-Track Double-Bass Pedal Work — "Iowa", Iowa (2001)
+- **BPM:** ~130 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **Techniques:** double-bass, groove-drumming, dynamics
+
+**How to play it:**
+1. Strike each bass drum with equal, deliberate force — weight matters more than speed at this mid-tempo
+2. Lock the kick to the heavy guitar riff so the drums and guitars move as a single crushing unit
+3. Build foot stamina by sustaining the double-bass pattern for gradually increasing durations
+4. Keep the mechanical directness of each pedal stroke consistent — no roll or delay between the two feet
+5. Maintain even dynamics throughout, resisting any tendency to accelerate or soften under fatigue
+
+**Practice tips:**
+- Start at half tempo (65 BPM) and build up slowly, focusing on identical strike weight from both feet
+- Use a metronome and resist locking to the guitar riff rather than the click
+- Practise the double-bass pattern for gradually increasing durations — 2 minutes, then 5, building toward the full track
+- Monitor your dynamics as fatigue sets in — if the kick softens, stop, rest, and restart at full intensity
+
+**Page:** https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-iowa-double-bass
+
+### (sic) Displaced Snare Pattern — "(sic)", Slipknot (1999)
+- **BPM:** ~135 BPM | **Time:** 4/4 | **Difficulty:** Advanced (4/5)
+- **Techniques:** snare-displacement, double-bass, groove-drumming
+
+**How to play it:**
+1. Lock the hi-hat and kick to the pulse while placing snare accents in the displaced off-beat position
+2. Internalise the displacement until the off-beat snare accent feels natural rather than forced
+3. Count the snare position explicitly relative to the groove before attempting it at full tempo
+4. Keep the surrounding kit playing metrically grounded while the snare creates rhythmic tension
+5. Practise at slow tempo first until the hand independence needed for the displaced accent is secure
+
+**Practice tips:**
+- Tap the displaced snare accent on your leg while keeping the main pulse with your foot until the position feels intuitive
+- Play the groove with just kick and hi-hat first, then add the displaced snare accent last
+- Slow the passage to 80 BPM and count the snare displacement explicitly before building back up
+- Record and listen to confirm the displaced accent lands consistently in the intended rhythmic position
+
+**Page:** https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-people-snare-pattern
+
+### The Heretic Anthem Blast-Beat Run — "The Heretic Anthem", Iowa (2001)
+- **BPM:** 165 BPM | **Time:** 4/4 | **Difficulty:** Expert (5/5)
+- **Techniques:** blast-beat, double-bass, single-stroke-roll
+
+**How to play it:**
+1. Attack each snare stroke with maximum force while keeping both hands identical in power and placement
+2. Drive the kick pattern hard below the blast to add a second pulse that amplifies the song's impact
+3. Build stamina with short blast bursts at full intensity, extending duration as consistency holds
+4. Record and listen back to catch any degradation in stroke quality as the blast continues
+5. Keep the tempo absolutely consistent — acceleration under fatigue is the most common blast-beat error
+
+**Practice tips:**
+- Practise 30-second blast bursts at full tempo before attempting to sustain the pattern for longer periods
+- Focus on hand rebound — let the stick bounce back off the head, using the rebound for the return stroke
+- Keep the wrists relaxed even under maximum intensity — tension is the enemy of blast-beat stamina
+- Take regular rest breaks to prevent injury — this blast is among the most physically demanding in metal
+
+**Page:** https://metalforge.io/drummers/joey-jordison/licks/joey-jordison-three-hundred-blast
 
 ## Lars Ulrich (Metallica)
 

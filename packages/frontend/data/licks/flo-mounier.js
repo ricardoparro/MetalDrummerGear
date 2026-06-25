@@ -124,6 +124,174 @@ export const licks = {
       ]
     }
   },
+  "flo-mounier-none-so-vile-gravity-blast": {
+    "slug": "flo-mounier-none-so-vile-gravity-blast",
+    "name": "None So Vile Gravity Blast — Crown of Horns",
+    "shortName": "Crown of Horns",
+    "drummerId": 35,
+    "drummerName": "Flo Mounier",
+    "drummerSlug": "flo-mounier",
+    "band": "Cryptopsy",
+    "song": "Crown of Horns",
+    "album": "None So Vile (1996)",
+    "category": "signature-pattern",
+    "style": "technical-death-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 240,
+    "bpmDisplay": "~240 BPM",
+    "timeSignature": "4/4 (shifting)",
+    "description": "\"Crown of Horns\" is the ferocious opener of Cryptopsy's landmark None So Vile (1996), and Flo Mounier uses it to immediately announce the gravity-blast technique that would come to define an era of extreme drumming. The gravity blast — where one hand pivots in a see-saw motion between the snare head and rim to produce two articulate strokes per arm movement — allows Mounier to achieve staggering blast-beat velocities that single-hand alternation cannot match. On \"Crown of Horns\" the technique appears at its most raw and concentrated: the song erupts from its first bar with gravity blasts running beneath Lord Worm's atonal vocals and the band's chaotic, chromatic riffing, creating a wall of controlled extremity that remains one of the most intense opening statements in death metal. What makes Mounier's gravity blast on this track so instructive is how consistently clean it remains even at tempos that push above 240 BPM. Many players achieve occasional gravity-blast speed in short bursts; Mounier sustains it across entire song sections, never collapsing into a smear of strokes. The key is in the setup: the snare is typically angled slightly to allow the hand's natural pivot arc to produce equally spaced rebounds, and the grip remains light — a stranglehold on the stick defeats the rebound that makes the technique work. For drummers approaching this track as a study, the correct method is to first practise the gravity blast pivot in complete isolation at a tempo where each stroke sounds clean and separated, then gradually increase speed only when the rebound pattern is consistent and both strokes are dynamically even. Mounier has explained in clinic settings that the mistake most players make is trying to force speed before the motion is comfortable, which locks up the wrist and destroys the rebound. None So Vile as an album is the defining document of the gravity blast in an extreme metal context, and \"Crown of Horns\" is the moment listeners first encounter it in full force. Working through this track develops the gravity-blast motion, gravity-to-conventional blast transitions, and the stamina to sustain hyper-fast blasting across complete song sections. It is an essential study for any drummer serious about technical death metal.",
+    "techniques": [
+      "gravity-blast",
+      "blast-beat",
+      "double-bass"
+    ],
+    "techniqueDetails": [
+      "Angle the snare slightly to allow the natural pivot arc of the hand to produce even strokes",
+      "Keep the grip light — a tight grip kills the rebound that makes gravity blast work",
+      "Practise the pivot in isolation at slow tempo before adding any speed",
+      "Ensure both strokes in each pivot are dynamically even before raising the tempo",
+      "Transition cleanly between gravity blasts and conventional blasts mid-section"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      { "name": "Pearl Masters Maple Kit", "type": "drums", "link": null },
+      { "name": "Sabian AAX & HHX Cymbals", "type": "cymbals", "link": null },
+      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
+    ],
+    "learningTips": [
+      "Isolate the pivot motion before touching the kit — the wrist mechanics matter most",
+      "Start at 80 BPM and raise speed only once each stroke is clean and separated",
+      "Record yourself and listen for volume discrepancy between the two strokes",
+      "Keep practice bursts short at first to avoid wrist tension building up"
+    ],
+    "seo": {
+      "title": "Flo Mounier None So Vile Gravity Blast - Crown of Horns Drum Lesson | MetalForge",
+      "description": "Learn Flo Mounier's gravity blast technique from Cryptopsy's None So Vile opener Crown of Horns. Technique steps and practice tips for extreme blast-beat drumming.",
+      "keywords": [
+        "flo mounier",
+        "crown of horns drums",
+        "cryptopsy none so vile",
+        "gravity blast technique",
+        "technical death metal drumming",
+        "blast beat tutorial"
+      ]
+    }
+  },
+  "flo-mounier-blasphemy-made-flesh-double-kick": {
+    "slug": "flo-mounier-blasphemy-made-flesh-double-kick",
+    "name": "Blasphemy Made Flesh Double Kick — Open Face Surgery",
+    "shortName": "Open Face Surgery",
+    "drummerId": 35,
+    "drummerName": "Flo Mounier",
+    "drummerSlug": "flo-mounier",
+    "band": "Cryptopsy",
+    "song": "Open Face Surgery",
+    "album": "Blasphemy Made Flesh (1994)",
+    "category": "blast-technique",
+    "style": "technical-death-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 200,
+    "bpmDisplay": "~200 BPM",
+    "timeSignature": "4/4",
+    "description": "Cryptopsy's debut album Blasphemy Made Flesh (1994) introduced Flo Mounier to the extreme metal world and immediately established him as a drummer of startling maturity and speed. \"Open Face Surgery\" is one of the debut's most demanding tracks and showcases the early form of the double-kick technique that would fully blossom on later albums: relentless, driving kick patterns beneath explosive blast beats, all executed at tempos that few drummers of the era could match. At this stage of Mounier's career the gravity blast had not yet become his signature move — the gravity-blast technique crystallised fully on None So Vile two years later — but the underlying velocity and coordination are already fully in place on this debut. The double-kick work on \"Open Face Surgery\" is remarkably even for a nineteen-year-old drummer: the bass drum strokes maintain consistent density and volume across the full length of the blasting sections, which requires not only speed but excellent lower-body coordination and endurance. This consistency is the core lesson of studying this track. Many developing extreme drummers can play fast double bass in short bursts but find the strokes become uneven and the tempo fluctuates once they try to sustain those patterns across a full-length song section. Mounier does not let that happen: every kick lands where it should, and the relationship between the kick patterns and the snare-and-hand blasting above them stays tight throughout. For drummers, this track is a formative study in double-bass evenness and endurance — the foundation that all of Mounier's more technically spectacular later work is built on. The best practice approach is to isolate the kick patterns with a metronome, ensuring both feet are producing equal strokes in terms of timing and volume before adding the blast work above. Blasphemy Made Flesh is a raw, punishing record, and \"Open Face Surgery\" captures Mounier at the very beginning of a journey that would redefine extreme metal drumming. Studying the early form of his kick technique reveals just how thoroughly the fundamentals were already in place before the gravity blast and other innovations arrived.",
+    "techniques": [
+      "double-bass",
+      "blast-beat",
+      "foot-endurance"
+    ],
+    "techniqueDetails": [
+      "Drive even, consistent kick strokes across the full length of each blasting section",
+      "Keep both feet equal in timing and volume — practise each foot alone first",
+      "Lock the kick pattern tightly to the snare above without letting either part rush",
+      "Build endurance through extended slow-tempo exercises before adding blast hands",
+      "Listen for the relationship between kick density and snare placement in each bar"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      { "name": "Pearl Masters Maple Kit", "type": "drums", "link": null },
+      { "name": "Sabian AAX & HHX Cymbals", "type": "cymbals", "link": null },
+      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
+    ],
+    "learningTips": [
+      "Practise each foot independently with a click until the stroke is consistent",
+      "Loop the main double-bass pattern for two minutes without stopping to build endurance",
+      "Add the hand blast only once the feet are perfectly even and can sustain tempo",
+      "Raise the metronome by 5 BPM increments and consolidate at each step"
+    ],
+    "seo": {
+      "title": "Flo Mounier Blasphemy Made Flesh Double Kick - Open Face Surgery Drum Lesson | MetalForge",
+      "description": "Learn Flo Mounier's formative double-kick technique from Cryptopsy's debut Blasphemy Made Flesh on Open Face Surgery. Technique steps and practice tips.",
+      "keywords": [
+        "flo mounier",
+        "open face surgery drums",
+        "cryptopsy blasphemy made flesh",
+        "double kick technique",
+        "technical death metal drumming",
+        "extreme metal double bass"
+      ]
+    }
+  },
+  "flo-mounier-whisper-supremacy-tom-fill": {
+    "slug": "flo-mounier-whisper-supremacy-tom-fill",
+    "name": "Whisper Supremacy Extreme Tom Fill — Emaciate",
+    "shortName": "Emaciate",
+    "drummerId": 35,
+    "drummerName": "Flo Mounier",
+    "drummerSlug": "flo-mounier",
+    "band": "Cryptopsy",
+    "song": "Emaciate",
+    "album": "Whisper Supremacy (1998)",
+    "category": "fill",
+    "style": "technical-death-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 220,
+    "bpmDisplay": "~220 BPM",
+    "timeSignature": "4/4 (odd accents)",
+    "description": "Whisper Supremacy (1998) is often cited as the most jazz-influenced of Cryptopsy's early albums, and Flo Mounier's drumming on it reflects this — there is a compositional sophistication to the tom work and fills that goes beyond raw speed. \"Emaciate,\" the album's opening track, exemplifies this approach: Mounier uses extreme tom fills not simply as dramatic flourishes between sections but as compositional events that advance the song's rhythmic narrative. The fills on this track move through the toms with a logic borrowed from jazz vocabulary — the accent patterns are asymmetrical, the fills wrap around bar lines rather than completing neatly within them, and the transition back into the blast sections is treated as a rhythmic event in itself rather than simply a return to speed. This is the element of Mounier's technique that separates him from purely physical extreme drummers: the jazz phrasing gives his fills melodic direction, so even when he is thrashing across the kit at extreme speed, the motion has a shape and a destination. At ~220 BPM, the toms are hit with power but also with control — the stick rebound is used efficiently, the stroke depth stays consistent across each drum, and the dynamic level builds as the fill approaches its resolution, giving the listener a sense of arrival. For drummers, this track develops the ability to execute fast, multi-tom fills with rhythmic intention rather than just physical coverage of the kit. The practice approach is to first transcribe where each tom stroke lands relative to the bar, then practise the fill at a very slow tempo with a metronome, focusing on the accent placement and dynamics before adding speed. Understanding the jazz logic of Mounier's fill phrasing transforms what appears to be chaotic technique into intelligible, learnable vocabulary. Whisper Supremacy is essential listening for anyone who wants to understand the full range of Mounier's musicianship, and \"Emaciate\" is where that range is most immediately apparent from the first seconds of the album.",
+    "techniques": [
+      "fill-techniques",
+      "jazz-phrasing",
+      "blast-beat"
+    ],
+    "techniqueDetails": [
+      "Use accent patterns that are asymmetrical and wrap around bar lines for jazz phrasing",
+      "Control stick rebound consistently across each tom for even dynamic output",
+      "Build the dynamic level through the fill so it has a clear destination and resolution",
+      "Treat the transition back into the blast as a rhythmic event, not just a switch",
+      "Transcribe the fill before playing it — understanding the accent map is the first step"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      { "name": "Pearl Masters Maple Kit", "type": "drums", "link": null },
+      { "name": "Sabian AAX & HHX Cymbals", "type": "cymbals", "link": null },
+      { "name": "Pearl Demon Drive Double Pedal", "type": "hardware", "link": null },
+      { "name": "Vic Firth American Classic 5A", "type": "sticks", "link": null }
+    ],
+    "learningTips": [
+      "Transcribe the fill onto paper before touching the kit — map every accent",
+      "Practise slowly so the jazz-derived accent placement is intentional, not accidental",
+      "Record yourself and listen for whether the fill builds dynamically toward its end",
+      "Study Mounier's jazz influences alongside his extreme metal work to understand the phrasing"
+    ],
+    "seo": {
+      "title": "Flo Mounier Whisper Supremacy Tom Fill - Emaciate Drum Lesson | MetalForge",
+      "description": "Learn Flo Mounier's jazz-influenced extreme tom fill from Cryptopsy's Whisper Supremacy on Emaciate. Technique steps and practice tips.",
+      "keywords": [
+        "flo mounier",
+        "emaciate drums",
+        "cryptopsy whisper supremacy",
+        "extreme tom fill",
+        "technical death metal drumming",
+        "jazz metal drumming"
+      ]
+    }
+  },
   "flo-mounier-slit-your-guts-blast": {
     "slug": "flo-mounier-slit-your-guts-blast",
     "name": "Slit Your Guts Blast & Double-Bass Barrage",

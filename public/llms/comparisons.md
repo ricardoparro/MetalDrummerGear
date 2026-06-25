@@ -3,7 +3,7 @@
 > Side-by-side gear, technique, and influence comparisons between legendary metal drummers.
 > Optimised for AI crawlers answering "X vs Y drummer" and "who has heavier gear" queries.
 >
-> Last updated: 2026-06-25 · 27 curated comparisons
+> Last updated: 2026-06-25 · 28 curated comparisons
 
 ---
 ## Brann Dailor vs Gavin Harrison
@@ -423,6 +423,27 @@ Gojira's Mario Duplantier vs Meshuggah's Tomas Haake. Polyrhythms, stamina, and 
 
 [mario-duplantier profile](https://metalforge.io/drummer/mario-duplantier)
 [tomas-haake profile](https://metalforge.io/drummer/tomas-haake)
+
+---
+
+## Matt Greiner vs Matt Halpern
+
+**Category:** Progressive Metal · **URL:** https://metalforge.io/vs/matt-greiner-vs-matt-halpern
+
+August Burns Red's Matt Greiner vs Periphery's Matt Halpern. Metalcore vs djent: Grammy-nominated ABR technique versus polyrhythmic djent groove. Two Pearl endorsers with contrasting cymbal philosophies.
+
+**Playing style:** Matt Greiner brings jazz-influenced dynamics and technical precision to Grammy-nominated metalcore with August Burns Red. Matt Halpern defines modern djent drumming with Periphery's polyrhythmic approach and deep groove.
+
+**Technique:** Greiner incorporates jazz dynamics, creative cymbal work, and rapid-fire double bass into metalcore with seamless odd-time integration. Halpern masters groove-focused polyrhythms and ghost notes that anchor Periphery's dense, layered sound.
+
+**Gear:** Greiner plays Pearl Masters Maple Reserve with Sabian AAX/HHX cymbals and a Pearl Demon Drive double pedal. Halpern uses Pearl Reference Series with Meinl Byzance cymbals and a Pearl Demon Drive double pedal — both Pearl endorsers with contrasting cymbal philosophies.
+
+**Influence:** Greiner redefined technical metalcore and influenced countless ABR-inspired drummers worldwide, earning a Grammy nomination for Best Metal Performance. Halpern shaped modern djent drumming and built one of the most engaged drum education communities on YouTube.
+
+**Verdict:** Matt Greiner and Matt Halpern represent two defining faces of modern heavy music drumming — Greiner's jazz-infused metalcore and Halpern's polyrhythmic djent. Both are Pearl endorsers who transcend their genres, and both inspire a generation of technically ambitious heavy drummers.
+
+[matt-greiner profile](https://metalforge.io/drummer/matt-greiner)
+[matt-halpern profile](https://metalforge.io/drummer/matt-halpern)
 
 ---
 

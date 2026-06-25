@@ -6,99 +6,80 @@
 **Drummer(s):** [Mike Portnoy](/llms/drummers/mike-portnoy.md)
 **Band / Album:** Dream Theater — *Metropolis Pt. 2: Scenes from a Memory* (1999)
 **Genre:** Progressive Metal
-**MusicAlbum entity:** Metropolis Pt. 2: Scenes from a Memory by Dream Theater (1999, Elektra Records)
 
 ## Overview
 
 Released on October 26, 1999, "Metropolis Pt. 2: Scenes from a Memory" is universally regarded as Dream Theater's greatest achievement and the album that cemented Mike Portnoy's legacy as the genre's defining drummer. A full-length concept album continuing the story seeded in "Metropolis—Part I: The Miracle and the Sleeper" from 1992's *Images and Words*, SFaM follows Nicholas through past-life regression into the tragedy of Victoria, Henry, and Julian — a narrative arc Portnoy helped craft and serves beat for beat across 77 minutes of music.
 
-The album was recorded at BearTracks Studios in Suffern, New York — the same facility where Dream Theater created *Images and Words* seven years earlier — with engineer Neil Kernon behind the console. The sessions took place in early 1999, following intensive touring and songwriting that pushed the band to new creative heights.
+The album was recorded at BearTracks Studios in Suffern, New York — the same facility where Dream Theater had created *Images and Words* seven years earlier — with engineer Neil Kernon behind the console. The sessions took place in early 1999, following a period of intensive touring and songwriting that pushed the band to new creative heights. The combination of the familiar room, Kernon's meticulous engineering, and a band operating at peak creative unity produced the most cohesive and emotionally powerful recording of the Portnoy era.
 
-What separates *Scenes from a Memory* from Dream Theater's earlier work is how completely the music serves the story. Every rhythmic choice Portnoy makes is filtered through the album's narrative. The double-bass patterns that power "Fatal Tragedy" are relentless because the story is careening toward revelation. The tabla percussion on "Beyond This Life" grounds the sequence in Nicholas's meditative regression. The explosive fills in "Home" mirror the emotional violence of the central love triangle.
+What separates *Scenes from a Memory* from Dream Theater's earlier work is how completely the music serves the story. Every rhythmic choice Portnoy makes is filtered through the album's narrative. The double-bass patterns that power "Fatal Tragedy" are relentless because the story is careening toward revelation. The tabla percussion on "Beyond This Life" grounds the sequence in Nicholas's meditative regression. The explosive fills that erupt in "Home" mirror the emotional violence of the central love triangle.
 
-This was also the last album of Portnoy's Tama Starclassic Maple era, making this specific kit configuration a distinct and unrepeatable chapter in his gear history.
+This was also the last album of Portnoy's Tama Starclassic Maple era — after SFaM he would relocate his endorsement and recording setup — making the kit configuration documented here a distinct and unrepeatable chapter in his gear history. This article breaks down every piece of equipment Mike Portnoy used to create this landmark recording.
 
 ## Gear Breakdown
 
-- **Drums:** Tama Starclassic Maple (Cherry Fade finish), double 22"x18" bass drums, toms 8"/10"/12"/13" rack, 14"/16" floor
-- **Snare:** Tama Starclassic Maple Snare, 14" x 6.5"
-- **Cymbals:** Sabian Artisan Series — 14" hi-hats, 16"/17"/18"/19" crashes, 20" ride; Sabian HH 18" Chinese
-- **Pedals:** DW 5000 Double Pedal (chain-drive)
-- **Hardware:** DW 5000 Hi-Hat Stand, Tama Power Tower rack
-- **Sticks:** Vic Firth Horacio Hernandez SD2 Bolero
-- **Heads:** Remo Ambassador Coated (snare batter), Remo Powerstroke 3 Clear (kick batter), Remo Ambassador Coated (toms)
+- **Drums:** Tama Tama Starclassic Maple (Cherry Fade finish)
+- **Snare:** Tama Tama Starclassic Maple Snare, 14" x 6.5"
+- **Cymbals:** Sabian — Sabian Artisan / HH Series
+- **Hardware / Pedals:** DW 5000 Double Pedal; DW 5000 Hi-Hat Stand; Tama Power Tower Rack; Tama 1st Chair; Vic Firth Horacio Hernandez SD2 Bolero
+- **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium tension for warm crack with ghost note sensitivity
 
-### The Tama Starclassic Maple Kit
+### Mike's 1999 Studio Kit: The Tama Starclassic Maple Configuration
 
-By 1999, Mike Portnoy had transitioned from the Tama Artstar II birch shells he used on Images and Words to the Starclassic Maple series — Tama's flagship maple shell kit offering a warmer, more resonant tone profile. The cherry fade finish was visually striking and immediately identifiable in live footage from the Metropolis Pt. 2 tour.
+By 1999, Mike Portnoy had transitioned from the Tama Artstar II birch shells he used on Images and Words to the Starclassic Maple series — Tama's flagship maple shell kit that offered a warmer, more resonant tone profile. The cherry fade finish was visually striking, immediately identifiable in live footage and promotional photos from the Metropolis Pt. 2 tour cycle.
 
-Maple shells produce a fundamentally different sound from birch. Where birch emphasizes attack and high frequencies, maple provides a fuller, rounder tone with longer sustain. For a concept album demanding emotional dynamics — from the whispering meditation of "Through My Words" to the explosive climax of "Finally Free" — the warmth of maple gave Portnoy's drumming the tonal depth the narrative required.
+Maple shells produce a fundamentally different sound from birch. Where birch emphasizes attack and high frequencies, maple provides a fuller, rounder tone with a longer sustain. For a concept album demanding emotional dynamics — from the whispering meditation of "Through My Words" to the explosive climax of "Finally Free" — the warmth of maple gave Portnoy's drumming the tonal depth the narrative required.
 
-The double 22"x18" bass drums (deeper than the 22"x16" of his earlier setup) provided more air movement and low-end presence — the bass drum sound on SFaM is noticeably fuller than on *Images and Words*. The six-tom layout extended nearly two octaves from 8" rack to 16" floor, essential for the melodic fill vocabulary that Portnoy had developed into one of his signature compositional tools.
+The double 22" bass drum configuration remained central to Mike's setup, but the deeper 18" depth (compared to the 16" on the Artstar II) provided more air movement and low-end presence. The bass drum sound on SFaM is noticeably fuller than on the earlier album — a direct result of this shell change.
 
-### The Sabian Artisan Cymbal Setup
+The six-tom layout extended across nearly two octaves of pitch, from the 8" rack tom to the 16" floor tom. This wide range was essential for the melodic fill vocabulary Portnoy had developed — fills that function as melodic phrases within the compositions rather than simple connecting passages. Songs like "Fatal Tragedy" and "Home" feature tom work that is compositional, not just transitional.
 
-The shift to Sabian Artisan cymbals for SFaM represented a significant tonal departure from the Zildjian A Custom setup used on *Images and Words*. Where the A Customs were bright and cutting, the Artisan series offered a darker, warmer character with complex overtones — a sonic palette aligned with the album's contemplative, story-driven atmosphere.
+The Starclassic's Star-Cast mounting system suspended each tom without impeding shell resonance — critical for the expressive sustain that maple shells offer. Combined with high-quality maple ply construction, this gave each drum maximum voice.
 
-The Artisan line was Sabian's premium hand-hammered series, with each cymbal individually voiced. The 14" Artisan hi-hats provided warm articulation without the high-frequency harshness that would cut against introspective passages. Crashes from 16" to 19" gave dynamic variety across the album's emotional arc. The 20" Artisan Ride's warm bell is central to the quieter passages — "Through My Words" and reflective sections of "Home" — providing a shimmering quality that brighter cymbals would not have delivered.
+### The Snare Behind the Story
 
-### DW 5000 Pedals and Hardware
+For the SFaM sessions, Mike Portnoy played a maple snare from the Starclassic series, matching the tonal character of the kit. The maple shell provided a warmer, more musical crack than the brass snare used on *Images and Words* — exactly what a concept album built around emotional narrative demanded.
 
-For Scenes from a Memory, Mike Portnoy played DW 5000 double pedals — a change from the Tama Iron Cobra used on *Images and Words*. The DW 5000's chain-drive mechanism, longer footboard, and progressive spring tension rewarded a heel-up playing style and provided the smooth, consistent action that complex two-foot patterns across a 77-minute concept album required.
+At 6.5" depth, the drum retained enough body to cut through Dream Theater's dense keyboard and guitar arrangements while remaining sensitive enough for the ghost-note work that underpins the album's quieter passages. The ghost notes in "The Dance of Eternity" — a track with an astonishing 108 time signature changes across its five minutes — require a snare that speaks at every dynamic level.
 
-### Tabla Percussion on "Beyond This Life"
+Engineer Neil Kernon captured the snare with a top microphone for attack and a bottom mic for snare wire sensitivity, blending these sources to create the drum's dimensional presence in the SFaM mix. The result is a snare that sits firmly in the midfield — present without dominating — serving the album's narrative arc rather than drawing attention to itself.
 
-One of the album's most distinctive moments is Mike's tabla performance during the meditative regression sequence in "Beyond This Life." Tabla — the paired Indian hand drums foundational to Hindustani classical music — were overdubbed separately from the main drum kit tracks. Portnoy studied the instrument specifically for this recording, adding an organic, world-music texture that no kit percussion could replicate.
+Portnoy tuned the snare in the medium range for this recording, slightly lower than his earlier work, giving the drum more body for the album's more measured emotional pacing. Concept albums require a different kind of snare presence than showcase instrumental records, and Mike calibrated accordingly.
 
-## Recording: The BearTracks Sessions
+### The Sabian Artisan Setup
 
-Engineer Neil Kernon brought a room-aware engineering philosophy to BearTracks. The ambient quality of the drum sound on SFaM is more pronounced than on *Images and Words* — the room contributes to the album's atmospheric character. Kernon's microphone setup included AKG D112 and Neumann U47 FET on each kick drum, Shure SM57 and Sennheiser e604 on the snare, Sennheiser MD421 on each tom, AKG C451 on hi-hat, Neumann U87 overheads in spaced pair, and large-diaphragm condensers for room capture.
+The shift to Sabian Artisan cymbals for the SFaM sessions represented a significant tonal change from the Zildjian A Custom setup Mike used on *Images and Words*. Where the A Customs were bright and cutting, the Artisan series offered a darker, warmer character with complex overtones — a sonic palette more aligned with the album's contemplative, story-driven atmosphere.
 
-Despite the album's staggering complexity — including 108 time signature changes in "The Dance of Eternity" — Portnoy prioritized complete performance takes wherever possible, preserving the narrative momentum that section-by-section assembly would have fragmented.
+The Sabian Artisan line was positioned as Sabian's premium hand-hammered series, produced in limited quantities with individually voiced characteristics. Each cymbal was unique, a quality that suited progressive music where individual tonal complexity enhances the musical landscape.
+
+The 14" Artisan hi-hats provided warm articulation for Portnoy's fast patterns without the high-frequency harshness that would cut against the album's more introspective passages. The "chick" sound of these hi-hats is notably different from the Zildjians of the previous era — rounder, less aggressive, more musical.
+
+For crashes, Mike deployed a range of Artisan crashes from 16" to 19", supplemented by Sabian HH pieces where additional variety was needed. This multi-crash approach — which Mike had employed since at least the *Images and Words* era — allowed dynamic variation between sections, different crashes marking different emotional territories in the narrative.
+
+The 20" Artisan Ride was central to the album's quieter passages. The warm bell, used extensively in tracks like "Through My Words" and sections of "Home," provided a gentle, shimmering quality that supported the meditation sequences without the aggressive ping of brighter cymbals.
+
+The HH Chinese cymbal added the aggressive, unexpected accent that punctuates the album's more violent emotional turns — the revelation moments in the concept where Nicholas's past-life story reaches its most disturbing territory.
 
 ## Key Facts
 
-- Sequel to "Metropolis—Part I" (Images and Words, 1992) — seven-year narrative payoff
-- Recorded at BearTracks Studios, Suffern NY with engineer Neil Kernon
-- Tama Starclassic Maple cherry finish — distinct era from the Artstar II (birch) period
-- Sabian Artisan cymbals replace the Zildjian A Custom of the Images and Words era
-- DW 5000 double pedals replace Tama Iron Cobra
-- Tabla overdubs on "Beyond This Life" — Portnoy studied the instrument for the session
-- "The Dance of Eternity" contains 108 time signature changes
-- Album runtime: 77 minutes — one of the longest studio concept albums in prog metal
-- Widely voted the greatest progressive metal album of all time
+- Sequel to "Metropolis—Part I" from Images and Words (1992) — seven-year narrative payoff
+- Recorded at BearTracks Studios, Suffern NY, with engineer Neil Kernon
+- Tama Starclassic Maple cherry finish — a distinct era from the Artstar II period
+- Features tabla percussion on "Beyond This Life" — Portnoy's most unusual studio performance
 - Portnoy's last album with this specific Starclassic Maple configuration
-
-## Frequently Asked Questions
-
-**Q: What drum kit did Mike Portnoy use on Metropolis Pt. 2: Scenes from a Memory?**
-A: Mike Portnoy recorded SFaM on a Tama Starclassic Maple kit in cherry fade finish, with double 22"x18" bass drums and six toms (8"/10"/12"/13" rack, 14"/16" floor). This was distinct from the Tama Artstar II birch shells used on Images and Words (1992). For more on his profile, see the [Mike Portnoy drummer page](/drummer/mike-portnoy).
-
-**Q: What cymbals did Mike Portnoy use on Scenes from a Memory?**
-A: Portnoy used Sabian Artisan cymbals for SFaM — a premium hand-hammered series with a darker, warmer character than the Zildjian A Custom cymbals of the Images and Words era. His setup included Artisan 14" hi-hats, crashes (16", 17", 18"), HH 19" crash, Artisan 20" ride, and HH 18" Chinese cymbal. The Zildjian-to-Sabian shift is one of the key gear differentiators between the 1992 and 1999 Dream Theater sessions.
-
-**Q: Did Mike Portnoy really play tabla on Scenes from a Memory?**
-A: Yes. Mike Portnoy performed tabla on "Beyond This Life," during the meditative regression sequence. He studied the instrument specifically for this recording, and the tabla tracks were overdubbed separately from the main drum kit performances.
-
-**Q: How does the SFaM drum setup differ from the Images and Words setup?**
-A: Key differences: (1) Kit — Starclassic Maple (SFaM) vs. Artstar II birch (Images and Words); maple is warmer, birch is punchier. (2) Cymbals — Sabian Artisan dark/warm (SFaM) vs. Zildjian A Custom bright/cutting (Images and Words). (3) Pedals — DW 5000 (SFaM) vs. Tama Iron Cobra (Images and Words). (4) Bass drum depth — 22"x18" (SFaM) vs. 22"x16" (Images and Words). See the [Images and Words drum setup article](/articles/images-and-words-drum-setup) for the full comparison.
-
-**Q: What pedals did Mike Portnoy use on Metropolis Pt. 2?**
-A: DW 5000 double pedals — chain-drive with longer footboard and progressive spring tension. This was a change from the Tama Iron Cobra used on Images and Words, and it's one reason the double bass work on SFaM has a slightly different character than on earlier Dream Theater recordings.
-
-## Internal Links
-
-- [Mike Portnoy drummer profile](/drummer/mike-portnoy)
-- [Images and Words drum setup (1992)](/articles/images-and-words-drum-setup)
-- [A Dramatic Turn of Events drum setup — Mike Mangini era](/articles/a-dramatic-turn-of-events-drum-setup)
-
----
-
-<time datetime="2026-06-20">Last updated: 2026-06-20</time>
+- Widely voted the greatest progressive metal album of all time
+- Maple shells provided warmer, rounder tone than previous birch Artstar II
+- Cherry fade finish became iconic in the SFaM era
+- Deeper 22"x18" bass drums for increased low-end presence
+- Star-Cast mounting preserved shell resonance
+- Last album with this Starclassic Maple configuration before gear change
+- Estimated kit value: $4,000-6,500 (1999) / $5,000-9,000 (vintage today)
+- Estimated snare value: $400-550 (1999) / $500-750 (vintage today)
 
 **Source:** https://metalforge.io/articles/scenes-from-a-memory-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-20 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*

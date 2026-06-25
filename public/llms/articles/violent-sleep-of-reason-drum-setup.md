@@ -11,87 +11,62 @@
 
 Released on October 7, 2016, Meshuggah's eighth studio album *The Violent Sleep of Reason* arrived with a production story unlike anything in the band's catalog. After years of meticulously engineered studio recordings — and one entirely programmed album in *Catch 33* — Meshuggah made a radical decision: record the entire album live in the studio with all five members playing simultaneously.
 
-No click tracks on basic tracks. No overdubs on rhythm parts. Every take captured the band performing together in real time. The result is the most viscerally immediate-sounding Meshuggah record in years — and one of the most demanding tests of Tomas Haake's abilities.
+No click tracks. No overdubs on rhythm tracks. No piecemeal recording. Every take captured the band performing together in real time, feeding off each other's energy the way a live performance demands. The result is the most viscerally immediate-sounding Meshuggah record since their early recordings — and the most demanding test of Tomas Haake's abilities to date.
 
-For the drum setup, this meant Haake chose a stripped-back, road-tested configuration rather than the heavily engineered studio rigs of previous albums. He transitioned from Sonor to DW (Drum Workshop) Collector's Series shells and adopted Meinl's Classics Custom Dark cymbals — a combination delivering the raw, focused attack needed to lock in with four other musicians simultaneously in a live room.
+For the drum setup, this meant Haake chose a stripped-back, road-tested configuration rather than the heavily engineered studio rigs of previous albums. He switched from Sonor to DW (Drum Workshop) Collector's Series shells and adopted Meinl's Classics Custom Dark cymbals — a combination that delivered the raw, focused attack needed to lock in with four other musicians playing simultaneously in the same room.
+
+This breakdown covers every piece of gear Tomas used on *The Violent Sleep of Reason*, explores the production decisions that shaped the album's sound, and examines how the live-in-studio approach changed what was possible — and impossible — for the Atomic Clock.
 
 ## Gear Breakdown
 
-- **Drums:** DW Collector's Series (North American Maple, Black Sparkle finish)
-- **Snare:** DW Collector's Series Steel, 14" x 6.5"
-- **Cymbals:** Meinl Classics Custom Dark — 14" Hi-Hats, 18" + 19" Crashes, 21" Ride, 18" China
-- **Hardware / Pedals:** DW 9000 Series (x2 independent single pedals); DW 9000 Series Hi-Hat Stand; Porter & Davies BC2 Throne
-- **Sticks:** Vic Firth Tomas Haake Signature
-- **Heads:** Remo Powerstroke P3 Clear (kick batter), Remo Ambassador Coated (snare batter)
-- **Recording:** Live-to-tape at Soundtrade Studios, Stockholm; producer Tue Madsen
+- **Drums:** DW (Drum Workshop) DW Collector's Series (Black Sparkle finish)
+- **Snare:** DW DW Collector's Series Steel, 14" x 6.5"
+- **Cymbals:** Meinl — Classics Custom Dark
+- **Hardware / Pedals:** DW 9000 Series (x2 single pedals); Vic Firth Tomas Haake Signature; Porter & Davies BC2 Throne; DW 9000 Series Hi-Hat Stand
+- **Heads:** Remo Ambassador Coated (batter), Remo Diplomat Snare Side (resonant)
+- **Snare tuning:** Medium tension for balance of attack and body; snare wires tightened for clarity in live room
 
 ### The Live Rig: DW Collector's Series
 
-For *The Violent Sleep of Reason*, Tomas Haake transitioned to DW's Collector's Series — a move that marked his departure from his long-standing Sonor relationship. The Collector's Series uses North American maple shells, known for their warm, full-bodied tone with a focused attack. The switch coincided with Meshuggah's shift to live-in-studio recording: the Collector's Series shells are built for consistency under pressure, holding tuning through temperature changes and projecting with authority in a live room.
+For *The Violent Sleep of Reason*, Tomas Haake transitioned to DW's Collector's Series — a move that marked his departure from his long-standing Sonor relationship. The Collector's Series uses North American maple shells, known for their warm, full-bodied tone with a focused attack that cuts through dense guitar frequencies.
 
-Haake maintained his signature configuration: two bass drums rather than a double pedal, a compact tom arrangement, and 22-inch kick drums. The 22x18 bass drums provide the same punchy, controlled low-end foundation established on obZen, but with the DW maple shell producing a slightly warmer fundamental that suits the more natural, room-recorded sound.
+The switch to DW coincided with Meshuggah's shift to live-in-studio recording. The Collector's Series shells are built for consistency under pressure — they respond predictably at high volume, hold tuning through temperature changes, and project with authority in a live room environment without the benefit of isolation and punch-in editing.
 
-### Meinl Classics Custom Dark: A New Cymbal Palette
+Haake maintained his signature configuration: two bass drums rather than a double pedal, a compact tom arrangement, and 22-inch kick drums. The 22x18 bass drums provide the same punchy, controlled low-end foundation he established on obZen, but with the DW maple shell producing a slightly warmer fundamental frequency that suits the more natural, room-recorded sound.
 
-The shift from Sabian AAX/AA to Meinl Classics Custom Dark cymbals is the most audible gear change between obZen and VSÖR. The Classics Custom Dark series uses a special hammering process producing a darker, more controlled sound profile. In a live room with natural bleed, this controlled character provides better separation than brighter alternatives — each cymbal retains attack and decay without splashing into guitar and bass frequencies.
+The decision to use a stripped-back, touring-tested rig for the studio recording was deliberate. With five musicians recording simultaneously in a live room, reliability matters more than exotic studio configurations. Every piece of gear needed to perform without fail, take after take, for days on end.
 
-The 14" hi-hats provide precise open/closed articulation central to Haake's playing. Much of Meshuggah's groove comes from the relationship between hi-hat patterns and polyrhythmic kick/snare interplay — the hi-hats serve as a consistent reference pulse that makes the surrounding complexity perceivable rather than chaotic.
+### The Anchor: Snare in a Live Room
 
-### DW 9000 Pedals: Independent Foot Control
+Recording live-to-tape places unique demands on the snare drum. In a standard multi-tracked session, the snare can be isolated, tuned specifically for a recording, and processed independently. In a live room with five musicians playing simultaneously, the snare must cut through natural bleed while retaining the punch and clarity essential to Meshuggah's rhythmic precision.
 
-Haake's switch from Sonor Perfect Balance to DW 9000 Series single pedals accompanied his broader transition to the DW family. The DW 9000's adjustable cam geometry and spring tension allow fine-tuning of feel under each foot independently — essential for the complete foot independence his polyrhythmic patterns require. Two independent single pedals (not a double pedal) remain non-negotiable for Haake's technique.
+Haake's DW steel snare at 14x6.5 inches delivered exactly that: a crack that projected through cymbal wash, guitar amplifiers, and room reverb without requiring excessive processing. The slightly deeper shell compared to his obZen-era Sonor snare (14x6) provided additional body — useful in a live room where the natural ambience adds depth.
 
-## VSÖR vs obZen: How the Setup Changed
+The snare serves a specific function in Meshuggah's architecture: it marks reference points within the polyrhythmic landscape, anchoring the listener's perception of the beat even as kick patterns and guitar riffs cycle through extended odd-meter phrases. In a live recording environment, this anchoring role becomes even more critical — every musician is listening to the snare as a shared rhythmic reference.
 
-| Category | obZen (2008) | VSÖR (2016) |
-|---|---|---|
-| Kit | Sonor Designer Series (maple/beech) | DW Collector's Series (North American maple) |
-| Snare | Sonor Designer Steel 14x6" | DW Collector's Steel 14x6.5" |
-| Cymbals | Sabian AAX / AA | Meinl Classics Custom Dark |
-| Pedals | Sonor Perfect Balance single x2 | DW 9000 single x2 |
-| Sticks | Vic Firth 5A | Vic Firth Tomas Haake Signature |
-| Recording | Isolated, overdubbed, click track | Live-to-tape, no click on rhythm tracks |
+### Meinl Classics Custom Dark: A New Palette
 
-## Live-to-Tape at Soundtrade Studios
+The shift from Sabian AAX/AA to Meinl Classics Custom Dark cymbals represents one of the most significant gear changes in Haake's career. The Classics Custom Dark series uses a special hammering process that produces a darker, more controlled sound profile compared to the bright, aggressive character of his previous Sabian setup.
 
-The decision to record live-to-tape was both a creative statement and a logistical challenge. Producer Tue Madsen helped engineer a session setup capturing five musicians playing simultaneously while maintaining separation for mixing. All five members set up in the live room at Soundtrade Studios; guitar amplifiers were isolated with baffles, but the drums captured natural room sound — a significant departure from obZen's heavily close-miked, room-free approach.
+For *The Violent Sleep of Reason*'s live-in-studio approach, the darker cymbal character was a deliberate choice. Brighter cymbals can overwhelm a live room, creating cymbal bleed that makes separation difficult in the mix. The Meinl Classics Custom Dark series offers definition without excessive brightness — each crash, ride, and china retains its attack and decay characteristics without splashing into the frequency ranges occupied by guitars and bass.
 
-The absence of a click track on basic tracks was the most demanding aspect for Haake. Without a click, he had to maintain Meshuggah's metronomic polyrhythmic precision purely through internal pulse and bandmate interaction.
+The 14" hi-hats provide the precise open/closed articulation central to Haake's hi-hat work. Much of Meshuggah's groove comes from the relationship between hi-hat patterns and the polyrhythmic kick/snare interplay — the hi-hats serve as a consistent reference pulse that makes the surrounding complexity perceivable rather than chaotic.
 
 ## Key Facts
 
-- Recorded live-to-tape at Soundtrade Studios, Stockholm (2016)
-- All five members recorded simultaneously — no isolated overdub sessions for rhythm tracks
-- No click track on basic tracks — pure internal pulse and band interaction
-- Tomas transitioned from Sonor to DW Collector's Series for this album
-- Meinl Classics Custom Dark cymbals replaced Sabian AAX/AA
-- DW 9000 Series single pedals (x2) maintain independent-foot configuration
-- Vic Firth Tomas Haake Signature sticks by this point in his career
-- Producer Tue Madsen; label Nuclear Blast
-- The live recording approach produced a more visceral, energetic drum sound than obZen's engineered precision
-
-## Frequently Asked Questions
-
-**Q: What drums did Tomas Haake use on The Violent Sleep of Reason?**
-A: Tomas Haake used a DW Collector's Series kit in Black Sparkle finish. Configuration: two 22x18" bass drums, 10x8" and 12x9" rack toms, 14x14" and 16x16" floor toms. North American maple shells provided a warmer fundamental than his previous Sonor maple/beech setup, suited to the live-room recording environment.
-
-**Q: Why was The Violent Sleep of Reason recorded live in the studio?**
-A: Meshuggah chose live-to-tape recording to capture the raw energy of five musicians interacting in real time — an energy impossible to recreate through conventional overdubbed recording. After precisely engineered albums and the fully programmed Catch 33, the band wanted to reconnect with organic performance. Tomas Haake had to maintain Meshuggah's metronomic polyrhythmic precision through internal pulse alone, with no click track safety net.
-
-**Q: How does Haake's VSÖR setup differ from obZen?**
-A: Three key changes: kit (Sonor Designer Series → DW Collector's Series), cymbals (Sabian AAX/AA → Meinl Classics Custom Dark), and pedals (Sonor Perfect Balance → DW 9000 Series). The Meinl Classics Custom Dark cymbals produce a darker, more controlled sound — essential for live-room recording where cymbal bleed must be managed carefully. The recording method also changed fundamentally: obZen was precisely engineered with click tracks and isolation; VSÖR was live-to-tape with all members simultaneously.
-
-**Q: What cymbals did Tomas Haake use on The Violent Sleep of Reason?**
-A: Meinl Classics Custom Dark series: 14" hi-hats, 18" and 19" crash cymbals, 21" ride, and 18" china. The Classics Custom Dark's special hammering process produces a darker, more focused tone with controlled sustain — well suited to live-room environments where excessive cymbal brightness causes problematic bleed.
-
-**Q: What pedals did Tomas Haake use on The Violent Sleep of Reason?**
-A: DW 9000 Series single pedals — two independent single pedals, never a connected double pedal. The DW 9000's adjustable cam geometry and spring tension allow fine-tuning under each foot. Complete foot independence is non-negotiable for Haake's polyrhythmic patterns, which require each foot to operate on entirely separate rhythmic cycles.
-
-## Related Articles
-
-- [obZen Drum Setup (2008)](/articles/obzen-drum-setup) — the predecessor album and Haake's Sonor/Sabian era
-- [Catch 33 Drum Setup (2005)](/articles/catch-33-drum-setup) — the fully programmed Meshuggah album
-- [What's In Tomas Haake's Kit](/articles/whats-in-tomas-haakes-kit) — complete current gear overview
+- Entire album recorded live-to-tape — all five members simultaneously
+- No click track on rhythm tracks — pure human locking-in
+- Tomas switched from Sonor to DW Collector's Series for this album
+- Meinl Classics Custom Dark cymbals replaced Sabian for 2016 touring and recording
+- Stripped-back touring rig rather than elaborate studio configuration
+- Recorded at Soundtrade Studios, Stockholm with producer Tue Madsen
+- Transition from Sonor to DW Collector's Series for 2016 album
+- North American maple shells — warmer fundamental than Sonor maple/beech
+- Same 22" bass drum configuration as obZen era
+- Touring rig used for studio recording — reliability over exotic studio setup
+- Two SINGLE bass drum pedals maintained — no double pedal
+- Estimated kit value: $6,000-9,000 (2016)
+- Estimated snare value: $450-600 (2016)
 
 **Source:** https://metalforge.io/articles/violent-sleep-of-reason-drum-setup
 

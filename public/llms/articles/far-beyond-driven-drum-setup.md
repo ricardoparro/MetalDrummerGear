@@ -15,14 +15,14 @@ At the center of that power was Vinnie Paul Abbott, who brought his most evolved
 
 Recorded once again at the family's Pantego Sound Studio in Arlington, Texas, Far Beyond Driven featured Vinnie co-producing alongside Terry Date. The drum sound achieved on this record — heavier than Vulgar Display of Power, more refined than Cowboys from Hell — represented the definitive Vinnie Paul tone that drummers have chased ever since.
 
-Tracks like "5 Minutes Alone," "I'm Broken," and "Becoming" each demanded something different from Vinnie's kit, and the Pearl Reference Pure shell setup delivered across every dynamic.
+Tracks like "5 Minutes Alone," "I'm Broken," and "Becoming" each demanded something different from Vinnie's kit, and the Pearl Reference Pure shell setup delivered across every dynamic. This article breaks down the gear, recording approach, and production techniques behind Pantera's greatest commercial achievement.
 
 ## Gear Breakdown
 
-- **Drums:** Pearl Reference Pure (Custom Black Chrome Wrap finish)
-- **Snare:** Pearl Free-Floating Steel Snare, 14" x 8"
-- **Cymbals:** Zildjian Z Custom series
-- **Hardware / Pedals:** DW 9000 Series / Tama Steel Cobra (transitional dual-kick setup); DW 9000 Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vic Firth American Classic 2B (played backwards)
+- **Drums:** Pearl Pearl Reference Pure (Custom Black Chrome Wrap finish)
+- **Snare:** Pearl Pearl Free-Floating Steel Snare, 14" x 8"
+- **Cymbals:** Zildjian — Zildjian Z Custom
+- **Hardware / Pedals:** DW 9000 Series / Tama Steel Cobra; DW 9000 Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vic Firth American Classic 2B (played backwards)
 - **Heads:** Remo Powerstroke 77 Coated (batter), Remo Ambassador Snare Side
 - **Snare tuning:** Medium-low tension for maximum body, controlled snare wire tension
 
@@ -34,56 +34,40 @@ The dual 24" x 18" bass drums remained the cornerstone of his sound — even lar
 
 The four-tom rack configuration spanning 8" to 13", paired with 16" and 18" floor toms, gave Vinnie the full palette for his signature tom fills. The Pearl Reference Pure shells produced a warmer, slightly darker tone than the ddrum shells of Vulgar Display — not softer, but with more body in the low-mids that added weight to every fill.
 
+At studio volume, the Reference Pure shells had a focus and projection that allowed Terry Date to capture enormous drum sounds without excessive room treatment. The kit's build quality also meant tuning held steady across marathon tracking sessions.
+
 ### The Heaviest Crack
 
-The Pearl Free-Floating steel snare at 14" x 8" gave Vinnie Paul a drum that was simultaneously massive and precise. The free-floating strainer system — where the snare wires are tensioned independently of the shell — allowed Vinnie to tune the drum and the wires with more precision than conventional snare designs.
+If the Vulgar Display of Power snare was already one of the most iconic sounds in metal, the Far Beyond Driven snare pushed it even further into sonic extremity. The Pearl Free-Floating steel snare at 14" x 8" gave Vinnie Paul a drum that was simultaneously massive and precise.
 
-Combined with his technique of playing stick-reversed, the snare produced the gunshot attack that locks with "I'm Broken" and "5 Minutes Alone." Vinnie blended the natural snare sound with triggered samples in the studio, ensuring that even in complex fill passages, the snare punch was identical from hit to hit.
+The free-floating strainer system — where the snare wires are tensioned independently of the shell — allowed Vinnie to tune the drum and the wires with more precision than conventional snare designs. The result was a controlled, consistent response that held up perfectly under Vinnie's aggressive, backwards-stick attack.
+
+At 14" x 8", the drum had the same depth as the Vulgar Display snare, but the free-floating system and steel shell construction gave it a slightly different character — perhaps slightly tighter in the midrange while maintaining the famous Vinnie Paul low-end crack. Combined with his technique of playing stick-reversed, the snare produced the gunshot attack that locks with "I'm Broken" and "5 Minutes Alone."
+
+Vinnie blended the natural snare sound with triggered samples in the studio, a technique he had perfected over Cowboys from Hell and Vulgar Display. The trigger added consistency to every hit's attack, ensuring that even in complex fill passages, the snare punch was identical from hit to hit.
 
 ### Zildjian Z Custom: A New Arsenal
 
-Far Beyond Driven saw Vinnie Paul make a significant cymbal change, moving from the Sabian AA/AAX setup of previous Pantera records to the Zildjian Z Custom series. The Z Custom cymbals have a louder, more aggressive character that matched the increased heaviness of Far Beyond Driven's production.
+Far Beyond Driven saw Vinnie Paul make a significant cymbal change, moving from the Sabian AA/AAX setup of previous Pantera records to the Zildjian Z Custom series. This shift was not subtle — the Z Custom cymbals have a louder, more aggressive character that matched the increased heaviness of Far Beyond Driven's production.
 
-The 20" Z Custom China is one of the most distinctive sounds on the record. Those trashy, violent accents that punctuate "I'm Broken" and "Becoming" carry the specific character of Zildjian Z Custom bronze — brighter and more abrasive than the Sabian China work of previous albums.
+The 14" Z Custom hi-hats cut through the dense studio mix with their brilliant finish and aggressive attack. Their brighter tone provided a clear contrast to the deep, dark body of the Pearl shells, keeping the groove elements clearly defined in the recording.
 
-### The Double Bass Engine
+The three crash cymbals — 16", 18", and 19" — gave Vinnie a cascading set of explosions for accents. The Z Custom crashes were known for being particularly loud and cutting, which suited Pantera's live approach and the studio requirement to compete with two full-stack guitar rigs.
 
-Far Beyond Driven represents a transitional period for Vinnie's pedal setup. He used DW 9000 series pedals alongside the Tama Steel Cobra — one per bass drum in his dual-kick configuration. This hybrid approach let him work with both the DW 9000's direct-drive mechanism and the Steel Cobra's spring-loaded feel simultaneously.
+The 20" Z Custom China is one of the most distinctive sounds on the record. Those trashy, violent accents that punctuate "I'm Broken" and "Becoming" carry the specific character of Zildjian Z Custom bronze — brighter and more abrasive than the Sabian China work of previous albums, matching the album's overall heavier aesthetic.
 
 ## Key Facts
 
 - Debuted at #1 on the Billboard 200 — the only metal album to do so in 1994
 - Vinnie Paul's most evolved drum setup to this point in his career
-- Pearl Reference Pure shells replaced the ddrum setup of Vulgar Display of Power
-- Steel Cobra and DW 9000 pedals drove the dual-kick attack
-- Dual 24" x 18" bass drums triggered for consistency at high tempos
+- Pearl Reference Pure shells replaced the ddrum setup of previous records
+- Steel Cobra and DW 9000 pedals drove the double kick attack
+- Pearl Reference Pure offered warmer tone than previous ddrum setup
+- Dual 24" x 18" bass drums remained for maximum low-end presence
+- Triggered for attack consistency at high tempos
 - Maple/mahogany construction added body to heavy groove patterns
 - Estimated kit value: $5,000-7,000 (1994) / $9,000-14,000 (Reference Pure today)
 - Estimated snare value: $500-700 (1994) / $600-900 (comparable today)
-
-## Track Highlights
-
-- **5 Minutes Alone** (112 BPM) — iconic syncopated kick groove, Z Custom China central to the feel
-- **I'm Broken** (116 BPM) — half-time groove, definitive snare crack in breakdowns
-- **Becoming** (138 BPM) — fastest track, thrash-influenced double bass barrage
-- **25 Years** (variable 75–120 BPM) — full dynamic range from delicate to crushing
-
-## FAQ
-
-**What drums did Vinnie Paul use on Far Beyond Driven?**
-Vinnie Paul recorded Far Beyond Driven in 1994 on a Pearl Reference Pure kit. The configuration included dual 24x18 inch bass drums, four rack toms spanning 8 to 13 inches, and floor toms at 16 and 18 inches. The maple/mahogany hybrid shells produced a warmer, darker tone than his previous ddrum setup on Vulgar Display of Power, while maintaining the massive attack and low-end presence that defined Pantera's sound.
-
-**What pedals did Vinnie Paul use on Far Beyond Driven in 1994?**
-Far Beyond Driven (1994) was a transitional era for Vinnie Paul's pedal setup. He used DW 9000 series pedals alongside the Tama Steel Cobra — one per bass drum in his dual-kick configuration. This hybrid approach let him work with both the DW 9000's direct-drive mechanism and the Steel Cobra's spring-loaded feel simultaneously.
-
-**What cymbals did Vinnie Paul use on Far Beyond Driven?**
-Vinnie Paul switched from Sabian to Zildjian Z Custom cymbals for Far Beyond Driven in 1994. His setup included Zildjian Z Custom 14 inch hi-hats, 16 and 18 inch crashes, a 19 inch crash, a 22 inch ride, and a 20 inch China cymbal. The Z Custom series was significantly louder and brighter than the Sabian AA/AAX setup of Cowboys from Hell and Vulgar Display of Power.
-
-## Related Articles
-
-- [Vulgar Display of Power Drum Setup](/articles/vulgar-display-of-power-drum-setup) — Vinnie Paul's 1992 ddrum setup
-- [Cowboys from Hell Drum Setup](/articles/cowboys-from-hell-drum-setup) — Vinnie Paul's 1990 Tama setup
-- [What's in Vinnie Paul's Kit](/articles/whats-in-vinnie-pauls-kit) — complete career gear overview
 
 **Source:** https://metalforge.io/articles/far-beyond-driven-drum-setup
 

@@ -357,4 +357,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <!-- Issue #2357: Mastodon Remission drum setup (Brann Dailor, 2002, Relapse Records) -->
+  <url>
+    <loc>https://metalforge.io/articles/remission-drum-setup</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

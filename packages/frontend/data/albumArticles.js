@@ -44663,7 +44663,7 @@ The 18" China cymbal on this setup deserves particular note. Behemoth's composit
       }
     ],
     videos: [],
-    relatedAlbums: ['evangelion-drum-setup', 'the-satanist-drum-setup', 'whats-in-infernos-kit'],
+    relatedAlbums: ['thelema-6-drum-setup', 'evangelion-drum-setup', 'whats-in-infernos-kit'],
     relatedDrummers: [6, 21, 3],
     relatedArticles: ['blast-beat-techniques', 'blackened-death-metal-drumming', 'extreme-metal-drum-setup'],
     relatedLicks: [],

@@ -70,6 +70,7 @@ Zos Kia Cultus (2002) is significant in Inferno's gear history primarily because
 ## Related
 
 - [Inferno drummer profile](/drummer/inferno)
+- [Thelema.6 drum setup — Inferno's Pearl Masters era (2000)](/articles/thelema-6-drum-setup)
 - [What's In Inferno's Kit](/articles/whats-in-infernos-kit)
 - [Evangelion drum setup](/articles/evangelion-drum-setup)
 - [The Satanist drum setup](/articles/the-satanist-drum-setup)

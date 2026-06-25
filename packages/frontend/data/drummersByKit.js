@@ -43,9 +43,57 @@ export const DRUMMERS_BY_KIT = {
   'pearl/reference-masters-maple': [],
   'dw/collectors-maple': [],
   'sonor/sq2-heavy-maple': [],
+  // Issue #2405 (split 3/4 of #2215): Sonor SQ2 general page (/gear/sonor/sq2/)
+  'sonor/sq2': [
+    {
+      slug: 'tomas-haake',
+      name: 'Tomas Haake',
+      band: 'Meshuggah',
+      yearsUsed: '2002–present',
+      config: 'Sonor SQ2 Heavy Beech (24"×18" Bass ×2, 10"×8", 12"×9", 14"×12", 16"×16", 18"×16" Toms)',
+      endorsee: true,
+    },
+    {
+      slug: 'gene-hoglan',
+      name: 'Gene Hoglan',
+      band: 'Testament / Dethklok',
+      yearsUsed: '2007–2014',
+      config: 'Sonor SQ2 Heavy Maple (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
+      endorsee: false,
+    },
+  ],
   'mapex/orion': [],
+  // Issue #2405 (split 3/4 of #2215): Mapex Armory page (/gear/mapex/armory/)
+  'mapex/armory': [
+    {
+      slug: 'jason-bittner',
+      name: 'Jason Bittner',
+      band: 'Overkill / Shadows Fall',
+      yearsUsed: '2015–present',
+      config: 'Mapex Armory (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×16" Toms)',
+      endorsee: true,
+    },
+    {
+      slug: 'matt-halpern',
+      name: 'Matt Halpern',
+      band: 'Periphery',
+      yearsUsed: '2015–present',
+      config: 'Mapex Armory (22"×18" Bass, 10"×8", 12"×9", 14"×12" Toms)',
+      endorsee: true,
+    },
+  ],
   'ludwig/classic-maple': [],
-  'gretsch/usa-custom': [],
+  // Issue #2405 (split 3/4 of #2215): Gretsch USA Custom page (/gear/gretsch/usa-custom/)
+  'gretsch/usa-custom': [
+    {
+      slug: 'matt-garstka',
+      name: 'Matt Garstka',
+      band: 'Animals as Leaders',
+      yearsUsed: '2012–present',
+      config: 'Gretsch USA Custom (22"×18" Bass, 10"×7", 12"×8", 14"×12" Toms)',
+      endorsee: true,
+    },
+  ],
   'yamaha/recording-custom': [],
   'pdp/concept-maple': [],
 };

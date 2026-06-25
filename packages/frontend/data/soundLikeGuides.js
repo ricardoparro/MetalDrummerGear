@@ -2808,7 +2808,7 @@ His 2017 Pearl Signature Snare cemented his status among the gear community, but
     licksUrl: '/drummers/matt-greiner/licks',
     relatedArticles: [
       { slug: 'matt-greiner-drum-setup', label: 'Matt Greiner Drum Setup' },
-      { slug: 'whats-in-matt-greiners-kit', label: "What's In Matt Greiner's Kit?" },
+      { slug: 'matt-greiner-complete-drum-setup', label: "What's In Matt Greiner's Kit?" },
       { slug: 'constellations-drum-setup', label: 'Constellations — August Burns Red Drum Setup' }
     ]
   },
@@ -3069,8 +3069,8 @@ This guide breaks down Kollias's technique, the endurance training behind his st
     licksUrl: '/drummers/george-kollias/licks',
     relatedArticles: [
       { slug: 'george-kollias-drum-setup', label: 'George Kollias Drum Setup' },
-      { slug: 'whats-in-george-kolliass-kit', label: "What's In George Kollias's Kit?" },
-      { slug: 'annihilation-of-the-wicked-drum-setup', label: 'Annihilation of the Wicked — Nile Drum Setup' }
+      { slug: 'whats-in-george-kollias-kit', label: "What's In George Kollias's Kit?" },
+      { slug: 'george-kollias-nile-annihilation-drum-setup', label: 'Annihilation of the Wicked — Nile Drum Setup' }
     ]
   },
 
@@ -3329,7 +3329,7 @@ Orbin left Periphery in 2012, replaced by Matt Halpern, but his recorded work re
     licksUrl: '/drummers/travis-orbin/licks',
     relatedArticles: [
       { slug: 'travis-orbin-drum-setup', label: 'Travis Orbin Drum Setup' },
-      { slug: 'whats-in-travis-orbins-kit', label: "What's In Travis Orbin's Kit?" },
+      { slug: 'travis-orbin-drum-setup', label: "What's In Travis Orbin's Kit?" },
       { slug: 'periphery-self-titled-drum-setup', label: 'Periphery (Self-Titled) Drum Setup' }
     ]
   },
@@ -3853,7 +3853,7 @@ This guide breaks down Jay's core techniques, his Pearl Reference Pure setup, an
     },
     licksUrl: '/drummers/jay-weinberg/licks',
     relatedArticles: [
-      { slug: 'whats-in-jay-weinbergs-kit', label: "What's In Jay Weinberg's Kit?" },
+      { slug: 'jay-weinberg-complete-drum-setup', label: "What's In Jay Weinberg's Kit?" },
       { slug: 'iowa-drum-setup', label: 'Iowa — Slipknot Drum Setup' }
     ]
   },
@@ -5986,7 +5986,7 @@ His signature open hi-hat thrash pattern — where the hi-hat opens on the eight
     licksUrl: '/drummers/charlie-benante/licks',
     relatedArticles: [
       { slug: 'whats-in-charlie-benantes-kit', label: "What's In Charlie Benante's Kit" },
-      { slug: 'among-the-living-drum-setup', label: 'Among the Living — Anthrax Drum Setup' },
+      { slug: 'charlie-benante-among-the-living-drum-setup', label: 'Among the Living — Anthrax Drum Setup' },
       { slug: 'big-4-drummers-compared', label: 'Big 4 Drummers Compared — Benante vs Lombardo vs Ulrich vs Menza' }
     ]
   },
@@ -6783,7 +6783,7 @@ Focus (1993), with Cynic, pushed even further into jazz-fusion territory. Reiner
     licksUrl: '/drummers/sean-reinert/licks',
     relatedArticles: [
       { slug: 'sean-reinert-drum-setup', label: 'Sean Reinert Drum Setup' },
-      { slug: 'death-human-drum-setup', label: 'Human — Death Drum Setup' },
+      { slug: 'human-drum-setup', label: 'Human — Death Drum Setup' },
       { slug: 'cynic-focus-drum-setup', label: 'Focus — Cynic Drum Setup' }
     ]
   },

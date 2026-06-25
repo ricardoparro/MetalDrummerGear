@@ -720,6 +720,1749 @@ export const DRUMMER_EVOLUTION = {
   },
   
   // ==========================================
+  // Mike Portnoy - Dream Theater / Winery Dogs (1985–Present)
+  // ==========================================
+  'mike-portnoy': {
+    slug: 'mike-portnoy',
+    name: 'Mike Portnoy',
+    band: 'Dream Theater',
+    totalYearsActive: '1985-Present',
+    profileImage: '/images/drummers/mike-portnoy.webp',
+    summary: 'From a teenager inspired by Neil Peart to the progressive metal drumming standard-bearer, Mike Portnoy\'s gear evolution mirrors his ascent from New York clubs to global arenas — always chasing the biggest, most expressive kit possible.',
+
+    eras: [
+      {
+        id: 'portnoy-1992-images-words',
+        era: 'Images & Words Era',
+        years: '1988–1993',
+        startYear: 1988,
+        endYear: 1993,
+        description: 'Dream Theater\'s commercial breakthrough. Portnoy built his reputation on a Tama foundation, channelling Rush and Queensrÿche into progressive metal drumming.',
+        albums: ['When Dream and Day Unite (1989)', 'Images & Words (1992)'],
+        tours: ['Images & Words World Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Artstar II',
+            details: 'Birch shells: 22" kick, 10"/12"/13"/14"/16" toms',
+            notes: 'Neil Peart-inspired large kit; Tama was the natural endorsement choice for prog drummers of the era.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Artstar II 14"×6.5"',
+            details: 'Birch shell with die-cast hoops',
+            notes: 'Powerful, punchy snare that cut through dense prog arrangements.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" New Beat hi-hats, 17"/18" crashes, 20" ride, 18" China',
+            notes: 'Standard Zildjian A setup inherited from classic rock influences.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra Single Pedal',
+            details: 'Single-pedal setup for early touring',
+            notes: 'Double bass was added progressively as the music demanded it.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Off-the-shelf sticks early in career.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Standard configuration.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 6000,
+          inflationAdjusted: 13000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'First Tama endorsement deal',
+          'Developed signature prog metal chops',
+          'Large multi-tom setup inspired by Neil Peart',
+        ],
+
+        quote: {
+          text: "Neil Peart was my god. I wanted a kit that looked and felt like his. Tama was the obvious choice.",
+          source: 'Modern Drummer Interview, 1993',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'portnoy-1994-awake',
+        era: 'Awake Era',
+        years: '1994–1996',
+        startYear: 1994,
+        endYear: 1996,
+        description: 'Dream Theater\'s heaviest, darkest record. Portnoy\'s kit grew in size and complexity to match the album\'s crushing tone.',
+        albums: ['Awake (1994)'],
+        tours: ['Awake World Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Artstar II (expanded)',
+            details: 'Birch shells: 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms',
+            notes: 'Kit expanded significantly — two kick drums and more toms for wider tonal range.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Tama Bell Brass 14"×6.5"',
+            details: 'Seamless bell brass shell',
+            notes: 'Switched to Bell Brass for more crack and projection on heavier material.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: '14" hi-hats, 16"/17"/18"/19" crashes, 22" ride, 18"/20" Chinas',
+            notes: 'Expanded cymbal setup for wider articulation.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Twin kick configuration',
+            notes: 'Full double-bass rig now standard.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Pro-Mark Mike Portnoy Signature',
+            details: 'Hickory, custom taper',
+            notes: 'First signature drumstick deal.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply for heavier playing',
+            notes: 'Heavier heads to handle more aggressive playing.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 12000,
+          inflationAdjusted: 25000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Expanded to double kick configuration',
+          'Pro-Mark signature stick launched',
+          'Larger multi-tom layout becomes standard',
+        ],
+
+        quote: {
+          text: "Awake was heavy, dark. The kit had to expand with it. More toms, two kicks — everything got bigger.",
+          source: 'Drum! Magazine, 1995',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'portnoy-1997-falling-infinity',
+        era: 'Yamaha Era',
+        years: '1997–1998',
+        startYear: 1997,
+        endYear: 1998,
+        description: 'Portnoy switched to Yamaha during a turbulent creative period. The Yamaha Recording Custom gave him a warmer, more studio-focused tone.',
+        albums: ['Falling into Infinity (1997)'],
+        tours: ['Falling into Infinity Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Yamaha Recording Custom',
+            details: 'Birch/Beech shells: 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms',
+            notes: 'Switched to Yamaha for warmer recording tone; large kit maintained.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Yamaha Recording Custom 14"×6.5"',
+            details: 'Birch shell',
+            notes: 'Warm, musical snare tone for the more melodic album.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: '14" hi-hats, 17"/18"/19" crashes, 22" ride, China cymbals',
+            notes: 'Continued Zildjian relationship through brand switch.',
+            change: null,
+          },
+          hardware: {
+            item: 'Yamaha HH / DW 5000 Pedals',
+            details: 'Mix of Yamaha stands and DW double pedal',
+            notes: 'Yamaha hardware for stands, DW for pedals.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Pro-Mark Mike Portnoy Signature',
+            details: 'Continued hickory signature',
+            notes: 'Maintained Pro-Mark partnership.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Pinstripe',
+            details: 'Controlled, focused tone',
+            notes: 'Pinstripe for the studio sessions.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 14000,
+          inflationAdjusted: 27000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Brand switch to Yamaha Recording Custom',
+          'More melodic, studio-oriented sound',
+          'DW double pedal introduced',
+        ],
+
+        quote: {
+          text: "Yamaha gave me a warmth I hadn't found with Tama. For the studio, it was exactly what Falling into Infinity needed.",
+          source: 'Yamaha Artist Profile, 1997',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'portnoy-1999-metropolis',
+        era: 'Metropolis Pt. 2 Era',
+        years: '1999–2001',
+        startYear: 1999,
+        endYear: 2001,
+        description: 'Dream Theater\'s magnum opus demanded Portnoy\'s most complex setup yet. The Scenes from a Memory kit was one of the most elaborate prog metal rigs of its era.',
+        albums: ['Metropolis Pt. 2: Scenes from a Memory (1999)'],
+        tours: ['Metropolis 2000 Tour', 'Live Scenes from New York'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple',
+            details: 'Maple shells: 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms',
+            notes: 'Return to Tama with the Starclassic Maple — warmer and more resonant than the Artstar.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Tama Starclassic Maple 14"×6.5"',
+            details: 'Maple shell',
+            notes: 'Warm, rich snare sound for the concept album.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: '14" hi-hats, multiple crashes 16"–20", 22" ride, 18"/20" Chinas, splash cymbals',
+            notes: 'Expanded cymbal array to cover all dynamic ranges in the concept album.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Speed Cobra setup',
+            notes: 'Back to Tama hardware with return to Tama drums.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Pro-Mark Mike Portnoy Signature',
+            details: 'Refined hickory model',
+            notes: 'Continued Pro-Mark partnership.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / Ambassador',
+            details: 'Emperor on toms, Ambassador on snare',
+            notes: 'Classic combination for punch and clarity.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          electronics: {
+            item: 'Roland Octapad',
+            details: 'Electronic pads for samples',
+            notes: 'First major electronic integration for triggering samples during live shows.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 18000,
+          inflationAdjusted: 32000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Return to Tama with Starclassic Maple',
+          'Roland Octapad added for live samples',
+          'Largest kit configuration to date',
+          'Metropolis 2000 tour featured elaborate drum riser',
+        ],
+
+        quote: {
+          text: "Scenes from a Memory was a 77-minute opera. The kit had to be able to cover everything — from delicate passages to all-out assault.",
+          source: 'Modern Drummer, 2000',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'portnoy-2003-train-of-thought',
+        era: 'Train of Thought / Octavarium Era',
+        years: '2002–2006',
+        startYear: 2002,
+        endYear: 2006,
+        description: 'Dream Theater\'s heaviest period. Train of Thought\'s all-out metal assault required Portnoy\'s biggest and most powerful kit to date.',
+        albums: ['Six Degrees of Inner Turbulence (2002)', 'Train of Thought (2003)', 'Octavarium (2005)'],
+        tours: ['Six Degrees Tour', 'Train of Thought Tour', 'Octavarium Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple (expanded)',
+            details: 'Maple shells: 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18"/20" toms',
+            notes: 'Now including a 20" floor tom — the largest kit of his career.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Tama Mike Portnoy Signature Snare',
+            details: '14"×6.5" Maple',
+            notes: 'First Mike Portnoy signature snare drum with Tama.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Zildjian Mike Portnoy Signature',
+            details: '14" hi-hats, signature crashes and ride, Chinas',
+            notes: 'Zildjian signature series — cymbals tailored to his exact requirements.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Power Glide cam',
+            notes: 'Consistent Iron Cobra preference.',
+            change: null,
+          },
+          sticks: {
+            item: 'Pro-Mark Mike Portnoy Signature',
+            details: 'Hickory with nylon tip',
+            notes: 'Refined signature model with nylon tip option.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD',
+            details: 'G2 on toms, EMAD on kicks',
+            notes: 'Switched to Evans heads for better durability on heavy material.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          electronics: {
+            item: 'Roland SPD-S / Octapad',
+            details: 'Sampling pads for live samples and click',
+            notes: 'Expanded electronic integration.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 25000,
+          inflationAdjusted: 40000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Tama Mike Portnoy signature snare released',
+          'Zildjian signature cymbal line launched',
+          'Switched to Evans heads',
+          'Kit reached maximum size with 20" floor tom',
+        ],
+
+        quote: {
+          text: "Train of Thought was us going full Pantera/Metallica. The kit had to match that aggression — it was the biggest setup I'd ever played.",
+          source: 'Drum! Magazine, 2003',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'portnoy-2007-systematic-chaos',
+        era: 'Systematic Chaos Era',
+        years: '2007–2010',
+        startYear: 2007,
+        endYear: 2010,
+        description: 'Portnoy\'s final era with Dream Theater before his departure in 2010. The Systematic Chaos rig was one of the most visually iconic setups in progressive metal.',
+        albums: ['Systematic Chaos (2007)', 'Black Clouds & Silver Linings (2009)'],
+        tours: ['Chaos in Motion Tour', 'A Dramatic Turn of Events pre-dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple (full configuration)',
+            details: 'Custom finish: 22"/24" kicks, full tom array 8"–20"',
+            notes: 'Ultimate Portnoy/DT-era kit configuration.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Mike Portnoy Signature 14"×6.5"',
+            details: 'Maple, refined model',
+            notes: 'Ongoing signature snare with Tama.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian Mike Portnoy Signature Suite',
+            details: 'Full signature setup — hi-hats, crashes, rides, Chinas',
+            notes: 'Complete Zildjian signature suite at peak development.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900',
+            details: 'Double pedal with Speed Cobra beaters',
+            notes: 'Two decades of Iron Cobra loyalty.',
+            change: null,
+          },
+          sticks: {
+            item: 'Pro-Mark Mike Portnoy Signature',
+            details: 'Hickory / nylon',
+            notes: 'Continued signature partnership.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD',
+            details: 'G2 on toms, EMAD2 on kicks',
+            notes: 'EMAD2 for more focused kick attack.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'Roland SPD-S and TD module',
+            details: 'Full hybrid setup with triggers on kick and snare',
+            notes: 'Triggers for arena-level consistency.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 30000,
+          inflationAdjusted: 44000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Peak Dream Theater-era kit configuration',
+          'Full hybrid acoustic/electronic rig',
+          'Chaos in Motion drum cam became viral content',
+          'Portnoy left Dream Theater in September 2010',
+        ],
+
+        quote: {
+          text: "That kit was the culmination of 25 years of collecting and refining. Every piece was exactly where I wanted it.",
+          source: 'Modern Drummer, 2008',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'portnoy-2011-winery-dogs',
+        era: 'Winery Dogs / Post-DT Era',
+        years: '2011–Present',
+        startYear: 2011,
+        endYear: 2026,
+        description: 'Post-Dream Theater renaissance. Portnoy has played with Adrenaline Mob, The Winery Dogs, Sons of Apollo, and eventually rejoined Dream Theater in 2023 — adapting his kit for each project.',
+        albums: ['The Winery Dogs (2013)', 'Hot Streak (2015)', 'A View from the Top of the World (Dream Theater, 2021)', 'Parasomnia (Dream Theater, 2025)'],
+        tours: ['Winery Dogs World Tour', 'Sons of Apollo Tour', 'Dream Theater 2024 Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series',
+            details: 'Maple shells: 22" kick, 8"/10"/12"/14"/16" toms (streamlined)',
+            notes: 'Moved to DW for more tonal flexibility; smaller kit for Winery Dogs power-trio context.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'DW Edge Maple 14"×6.5"',
+            details: 'Maple with VLT shell',
+            notes: 'Warm, punchy DW snare suited to the Winery Dogs groove-oriented style.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom / Mike Portnoy Signature',
+            details: '14" hi-hats, 17"/18"/19" crashes, 21" ride, China',
+            notes: 'Maintained Zildjian relationship across all projects.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Twin-chain drive',
+            notes: 'Switched pedals to match DW kit.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Mike Portnoy Signature',
+            details: 'Hickory with nylon tip',
+            notes: 'Moved signature stick deal from Pro-Mark to Vic Firth.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD2',
+            details: 'Consistent Evans setup',
+            notes: 'Evans throughout all post-DT projects.',
+            change: null,
+          },
+          electronics: {
+            item: 'Roland SPD-SX Sampling Pad',
+            details: 'Samples and click track',
+            notes: 'Simplified electronics for smaller-venue touring.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 28000,
+          inflationAdjusted: 28000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switched to DW Collector\'s Series',
+          'Vic Firth signature stick deal',
+          'Streamlined kit for power-trio context',
+          'Rejoined Dream Theater in 2023',
+        ],
+
+        quote: {
+          text: "With the Winery Dogs I didn't need a 12-tom monster. The music called for feel and groove. DW gave me that without sacrificing power.",
+          source: 'Drum! Magazine, 2013',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Mike Portnoy Gear Evolution Timeline | Dream Theater Drum Kit History',
+    metaDescription: 'Explore Mike Portnoy\'s complete drum gear evolution from Images & Words to the Winery Dogs era. Tama to DW — every kit, every era documented.',
+  },
+
+  // ==========================================
+  // Tomas Haake - Meshuggah (1989–Present)
+  // ==========================================
+  'tomas-haake': {
+    slug: 'tomas-haake',
+    name: 'Tomas Haake',
+    band: 'Meshuggah',
+    totalYearsActive: '1989-Present',
+    profileImage: '/images/drummers/tomas-haake.webp',
+    summary: 'Tomas Haake\'s gear evolution tracks the development of djent and extreme precision drumming — from a budget kit in Umeå basements to the DW/ddrum hybrid rig that has defined modern metal drumming for two decades.',
+
+    eras: [
+      {
+        id: 'haake-1991-contradictions',
+        era: 'Contradictions Collapse Era',
+        years: '1989–1993',
+        startYear: 1989,
+        endYear: 1993,
+        description: 'Meshuggah\'s debut records. Haake was still developing his signature polyrhythmic approach on whatever gear the band could source in Umeå, Sweden.',
+        albums: ['Contradictions Collapse (1991)', 'None (1994 EP)'],
+        tours: ['Early Swedish club dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor Force 2001',
+            details: 'Basic 5-piece: 22" kick, 12"/13"/16" toms',
+            notes: 'Budget Swedish-sourced kit; available and affordable in early 1990s Scandinavia.',
+            change: null,
+          },
+          snare: {
+            item: 'Sonor Steel 14"×5.5"',
+            details: 'Standard steel snare',
+            notes: 'Basic steel snare — the polyrhythmic patterns were more important than gear quality at this stage.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Paiste was the dominant Swedish cymbal brand of choice.',
+            change: null,
+          },
+          hardware: {
+            item: 'Sonor hardware with budget double pedal',
+            details: 'Single pedal moving to double bass during this period',
+            notes: 'Double kick emerging as Haake developed his extreme metal approach.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Standard sticks — technique mattered more than equipment.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms',
+            notes: 'Standard configuration.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2500,
+          inflationAdjusted: 5500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Developed polyrhythmic drumming vocabulary',
+          'Transition from single to double bass',
+          'Founding of the Meshuggah rhythmic identity',
+        ],
+
+        quote: {
+          text: "We had absolutely nothing. Whatever we could get hold of in Umeå. The gear was secondary — the patterns were everything.",
+          source: 'Modern Drummer, 2005',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'haake-1995-destroy-erase',
+        era: 'Destroy Erase Improve Era',
+        years: '1994–1997',
+        startYear: 1994,
+        endYear: 1997,
+        description: 'The album that put Meshuggah on the extreme metal map. Haake\'s technical precision demanded better gear, and first endorsement conversations began.',
+        albums: ['Destroy Erase Improve (1995)'],
+        tours: ['DEI European Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Export Series',
+            details: '22" kick, 10"/12"/13"/16" toms',
+            notes: 'Upgraded to Pearl for better projection and reliability on tour.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×5"',
+            details: 'Steel shell, thin hoops',
+            notes: 'Tight, explosive snare crack needed for the complex syncopated patterns.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Paiste 2002 / Alpha',
+            details: '14" hi-hats, 17"/18" crashes, 20" ride, 18" China',
+            notes: 'Mix of Paiste lines — volume and cut for the dense guitar wall.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl P-2002C Eliminator Double Pedal',
+            details: 'Cam-driven double pedal',
+            notes: 'Pearl Eliminator for fast, consistent double bass work.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'No signature deal yet.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply on toms',
+            notes: 'Durability for the aggressive approach.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 4500,
+          inflationAdjusted: 9000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switch to Pearl for better reliability',
+          'Double bass fully integrated into style',
+          'Destroy Erase Improve — Haake becomes a household name in extreme metal',
+        ],
+
+        quote: {
+          text: "DEI was the record where the rhythmic concept clicked. The drummer has to be almost machine-like, yet organic. That paradox defines what I do.",
+          source: 'Terrorizer Magazine, 1996',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'haake-1998-chaosphere',
+        era: 'Chaosphere Era',
+        years: '1998–2001',
+        startYear: 1998,
+        endYear: 2001,
+        description: 'Meshuggah\'s most extreme album. Haake secured his first major Pearl endorsement and the Chaosphere kit became his first truly professional rig.',
+        albums: ['Chaosphere (1998)'],
+        tours: ['Chaosphere World Tour', 'Ozzfest 1999'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Premium',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'First major endorsement kit — Pearl Masters Premium maple shells for warm, focused tone.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Deeper shell for more crack',
+            notes: 'Increased depth for more projection through the dense Chaosphere mix.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Paiste Signature / RUDE',
+            details: '14" Heavy hi-hats, 18"/19" crashes, 22" ride, 20" China',
+            notes: 'Moved up to Paiste Signature and RUDE for volume and durability.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Eliminator / Demon Drive',
+            details: 'Fast double pedal for extreme tempos',
+            notes: 'Pearl\'s fastest pedal for Chaosphere\'s relentless tempos.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth 5B Nylon',
+            details: 'Nylon tip for bright attack',
+            notes: 'Nylon tip helps cut through in dense mix.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Emperor on toms, Powerstroke 3 on kick',
+            notes: 'Powerstroke 3 on kick for punchy, focused attack.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          electronics: {
+            item: 'ddrum Triggers',
+            details: 'Kick drum triggers for live consistency',
+            notes: 'Triggers introduced to ensure kick cuts through at live volumes.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 10000,
+          inflationAdjusted: 18500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Pearl Masters Premium endorsement begins',
+          'ddrum triggers introduced for live kick consistency',
+          'Paiste Signature cymbal upgrade',
+          'Ozzfest 1999 brought Meshuggah to US audiences',
+        ],
+
+        quote: {
+          text: "Pearl gave me gear that could actually survive the tour. Chaosphere was 180+ BPM every night. The equipment had to be bulletproof.",
+          source: 'Modern Drummer, 1999',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'haake-2002-nothing',
+        era: 'Nothing Era',
+        years: '2002–2004',
+        startYear: 2002,
+        endYear: 2004,
+        description: 'Meshuggah\'s most experimental record, featuring an 8-string guitar tuned to F#. Haake\'s kit adapted to the lower, drone-like sonic palette.',
+        albums: ['Nothing (2002)'],
+        tours: ['Nothing World Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Premium Custom',
+            details: 'Maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Added smaller 8" tom for higher melodic range against the very low guitars.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating 14"×6.5"',
+            details: 'Steel — continued',
+            notes: 'Consistent snare sound through multiple album cycles.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste Signature Dark Energy',
+            details: '14" hi-hats, 18"/20" crashes, 22" ride, 20" China',
+            notes: 'Switched to darker Paiste sound to complement low-tuned 8-string guitars.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct drive for maximum control',
+            notes: 'Direct drive gives more precision for Nothing\'s complex rhythmic patterns.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Continued hickory',
+            notes: 'No major stick change.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Consistent heads setup',
+            notes: 'Reliable configuration maintained.',
+            change: null,
+          },
+          electronics: {
+            item: 'ddrum Acoustic Pro Triggers',
+            details: 'Kick and snare triggering',
+            notes: 'More sophisticated trigger setup for studio and live use.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 12000,
+          inflationAdjusted: 21000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Added 8" tom for textural range',
+          'Darker Paiste cymbal palette for low-tuned context',
+          'Direct drive double pedal for maximum control',
+        ],
+
+        quote: {
+          text: "Nothing was about space and drone as much as aggression. The rhythmic displacement was more extreme than ever.",
+          source: 'Revolver, 2002',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'haake-2005-catch-33',
+        era: 'Catch Thirtythree Era',
+        years: '2005–2007',
+        startYear: 2005,
+        endYear: 2007,
+        description: 'A single 47-minute piece of music. The Catch 33 album was an exercise in sustained rhythmic complexity and Haake\'s approach became even more metronomic.',
+        albums: ['Catch Thirtythree (2005)'],
+        tours: ['Catch 33 Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Upgraded to Pearl Reference for the hybrid maple/birch tone.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Continued Free-Floating preference',
+            notes: 'Consistent snare across multiple albums.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste Signature Dark Energy',
+            details: 'Full dark energy setup — 14" hi-hats, crashes, 22" ride, China',
+            notes: 'Continued dark cymbal palette.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive',
+            details: 'Continued direct drive',
+            notes: 'Maintained pedal preference.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Continued hickory 5B',
+            notes: 'No signature deal yet — consistent tool across the decade.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply throughout',
+            notes: 'Durability on extended touring.',
+            change: null,
+          },
+          electronics: {
+            item: 'ddrum Acoustic Pro Triggers + click track system',
+            details: 'Full in-ear monitor system integrated',
+            notes: 'Click track via IEMs essential for Meshuggah\'s precision live approach.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 14000,
+          inflationAdjusted: 22000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Pearl Reference upgrade',
+          'Full IEM click track system integrated',
+          'Catch 33 demonstrated Haake\'s machine-like precision',
+        ],
+
+        quote: {
+          text: "Catch 33 was one piece of music. Forty-seven minutes. Every bar was plotted. I had to be absolutely locked in the entire time.",
+          source: 'Metal Hammer, 2005',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'haake-2008-obzen',
+        era: 'obZen Era',
+        years: '2008–2011',
+        startYear: 2008,
+        endYear: 2011,
+        description: 'The album that introduced Meshuggah to a new generation. obZen features some of Haake\'s most celebrated performances and his switch to DW — the beginning of his most iconic setup.',
+        albums: ['obZen (2008)'],
+        tours: ['obZen World Tour', 'Alive (DVD)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series',
+            details: 'Maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Major brand switch to DW — warmer, more resonant maple tone compared to Pearl.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'DW Edge Tomas Haake Signature',
+            details: '14"×6.5" Steel',
+            notes: 'First Tomas Haake signature snare with DW.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Paiste Signature Dark Energy',
+            details: '14" hi-hats, 18"/19" crashes, 22" ride, 20" China',
+            notes: 'Maintained Paiste partnership through brand switch.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Twin-chain drive double pedal',
+            notes: 'DW 9000 to match DW kit endorsement.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Tomas Haake Signature',
+            details: 'Hickory, medium taper, nylon tip',
+            notes: 'First Tomas Haake signature drumstick — long-awaited.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD',
+            details: 'G2 on toms, EMAD on kicks',
+            notes: 'Switched to Evans for better durability.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          electronics: {
+            item: 'ddrum Acoustic Pro Triggers',
+            details: 'Trigger on kick and snare',
+            notes: 'ddrum triggers maintained even after drum brand switch.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 20000,
+          inflationAdjusted: 29000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Brand switch to DW Collector\'s Series',
+          'First DW Tomas Haake signature snare',
+          'First Vic Firth Tomas Haake signature sticks',
+          'obZen became Meshuggah\'s breakthrough to mainstream metal',
+        ],
+
+        quote: {
+          text: "DW gave me the warmth I couldn't get from Pearl for this kind of music. The maple breathes more. obZen needed that.",
+          source: 'DW Drums Artist Profile, 2008',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'haake-2012-koloss',
+        era: 'Koloss / Violent Sleep Era',
+        years: '2012–2018',
+        startYear: 2012,
+        endYear: 2018,
+        description: 'Meshuggah\'s most groove-oriented albums. Haake\'s setup was refined and stabilized — a system that would serve him for the next decade.',
+        albums: ['Koloss (2012)', 'The Violent Sleep of Reason (2016)'],
+        tours: ['Koloss World Tour', 'Violent Sleep of Reason Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series (refined)',
+            details: 'Custom finish maple: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Refined configuration — stable, proven setup.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Tomas Haake Signature (updated)',
+            details: '14"×6.5" Steel, updated finish',
+            notes: 'Updated signature snare model with DW.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Paiste Signature Tomas Haake Dark Energy',
+            details: 'Dark Energy series curated for Haake',
+            notes: 'Paiste developed dedicated Dark Energy configuration for Haake\'s needs.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Continued 9000 series',
+            notes: 'Consistent DW pedal preference.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Tomas Haake Signature',
+            details: 'Refined model with longer shoulder',
+            notes: 'Updated stick spec for better rimshot response.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD2',
+            details: 'EMAD2 on kick for more focused attack',
+            notes: 'EMAD2 gives tighter low-end response for The Violent Sleep\'s live-tracked drums.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'ddrum Acoustic Pro + Roland SPD-SX',
+            details: 'Trigger system plus sampling pad',
+            notes: 'Added Roland SPD-SX for expanded sample triggering.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 22000,
+          inflationAdjusted: 28000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Paiste signature Dark Energy cymbal configuration',
+          'Violent Sleep of Reason fully live-tracked — most demanding recording',
+          'Roland SPD-SX added for sample triggering',
+          'Setup reached its definitive stable configuration',
+        ],
+
+        quote: {
+          text: "The Violent Sleep of Reason was recorded completely live as a band. No click track, no fixes. The kit had to sound perfect from the first note.",
+          source: 'Drum! Magazine, 2016',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'haake-2022-immutable',
+        era: 'Immutable Era',
+        years: '2022–Present',
+        startYear: 2022,
+        endYear: 2026,
+        description: 'Meshuggah\'s most recent album. Haake\'s setup remains the most refined of his career — DW, Paiste, ddrum, and Vic Firth all continuing long-term partnerships.',
+        albums: ['Immutable (2022)'],
+        tours: ['Immutable World Tour 2022–2023'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Custom',
+            details: 'Custom lacquer finish maple: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Current primary kit — DW maple in custom finish.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Tomas Haake Signature 14"×6.5"',
+            details: 'Steel shell, current production model',
+            notes: 'Definitive signature snare — widely regarded as one of metal\'s best snare sounds.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste Signature Dark Energy Suite',
+            details: '14" Dark Energy hi-hats, 18"/19" crashes, 22" ride, 20" China',
+            notes: 'Complete Dark Energy configuration purpose-built for Meshuggah\'s sonic needs.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000XF Double Pedal',
+            details: 'Extended footboard for toe-up technique',
+            notes: 'XF extended footboard accommodates Haake\'s heel-up technique.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth Tomas Haake Signature',
+            details: 'Hickory, nylon tip, medium taper',
+            notes: 'Current production model.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD2',
+            details: 'Consistent Evans configuration',
+            notes: 'Decade-plus with Evans.',
+            change: null,
+          },
+          electronics: {
+            item: 'ddrum Acoustic Pro + Roland SPD-SX',
+            details: 'Kick and snare triggers, SPD-SX for samples',
+            notes: 'Refined hybrid system — the current standard Haake live rig.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 28000,
+          inflationAdjusted: 28000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'DW 9000XF extended footboard for technique refinement',
+          'Most stable and refined setup of career',
+          'Immutable world tour confirmed DW/Paiste/ddrum as long-term partnerships',
+        ],
+
+        quote: {
+          text: "Everything in the setup has been field-tested over hundreds of shows. Nothing is accidental. Every piece is there for a reason.",
+          source: 'Vic Firth Artist Profile, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Tomas Haake Gear Evolution Timeline | Meshuggah Drum Kit History',
+    metaDescription: 'Explore Tomas Haake\'s complete drum gear evolution from Meshuggah\'s debut to Immutable. Sonor to Pearl to DW — every kit and era documented.',
+  },
+
+  // ==========================================
+  // Brann Dailor - Mastodon (1999–Present)
+  // ==========================================
+  'brann-dailor': {
+    slug: 'brann-dailor',
+    name: 'Brann Dailor',
+    band: 'Mastodon',
+    totalYearsActive: '1999-Present',
+    profileImage: '/images/drummers/brann-dailor.webp',
+    summary: 'Brann Dailor\'s gear evolution mirrors Mastodon\'s rise from Atlanta\'s underground to progressive metal headliners — moving from budget Mapex kits through an era-defining Gretsch relationship that shaped one of modern metal\'s most distinctive drum sounds.',
+
+    eras: [
+      {
+        id: 'dailor-2002-remission',
+        era: 'Remission Era',
+        years: '1999–2003',
+        startYear: 1999,
+        endYear: 2003,
+        description: 'Mastodon\'s ferocious debut. Dailor\'s jazz-informed, melodic drumming over sludge metal foundations was immediately distinctive — even on a budget Mapex kit.',
+        albums: ['Lifesblood EP (2001)', 'Remission (2002)'],
+        tours: ['Early US club touring', 'Remission US Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex V Series',
+            details: 'Poplar shells: 22" kick, 10"/12"/16" toms',
+            notes: 'Entry-level Mapex kit — affordable and available for a band just getting started in Atlanta.',
+            change: null,
+          },
+          snare: {
+            item: 'Mapex Black Panther 14"×5"',
+            details: 'Steel shell, thin hoops',
+            notes: 'The Black Panther was Mapex\'s budget snare line — punchy and loud for the raw sludge sound.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Standard Zildjian A setup — affordable, reliable.',
+            change: null,
+          },
+          hardware: {
+            item: 'Mapex Hardware + DW 5000 Double Pedal',
+            details: 'Budget stands, professional pedal',
+            notes: 'The DW 5000 double pedal was a priority investment for double bass work.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Standard sticks — no signature deal yet.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Standard configuration.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2800,
+          inflationAdjusted: 4800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'First Mastodon recording setup',
+          'Jazz-influenced approach applied to sludge metal',
+          'DW 5000 double pedal — priority investment despite budget kit',
+        ],
+
+        quote: {
+          text: "We were just a band from Atlanta with whatever gear we could afford. But the drumming concept was there from day one.",
+          source: 'Drum! Magazine, 2002',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'dailor-2004-leviathan',
+        era: 'Leviathan Era',
+        years: '2004–2005',
+        startYear: 2004,
+        endYear: 2005,
+        description: 'The album that made Mastodon\'s name worldwide. Leviathan\'s complex arrangements pushed Dailor to the limits and motivated an equipment upgrade.',
+        albums: ['Leviathan (2004)'],
+        tours: ['Leviathan World Tour', 'Ozzfest 2004'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex Pro M Series',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Significant upgrade to Mapex Pro M maple shells for Leviathan and Ozzfest touring.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Mapex Black Panther 14"×5.5"',
+            details: 'Steel shell, deeper version',
+            notes: 'Deeper Black Panther for more punch in larger venues.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: '14" hi-hats, 17"/18" crashes, 21" ride, 18" China',
+            notes: 'Upgraded to A Custom for brighter, cutting tone.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 5000 Double Pedal (continued)',
+            details: 'Turbo cam version',
+            notes: 'Continued DW 5000 loyalty.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Lighter stick for faster playing',
+            notes: 'Lighter sticks to accommodate the fast, melodic patterns on Leviathan.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply for durability on Ozzfest',
+            notes: 'Heavier heads for outdoor festival touring.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 5500,
+          inflationAdjusted: 9000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Upgrade to Mapex Pro M maple shells',
+          'Lighter sticks for faster melodic patterns',
+          'Ozzfest 2004 brought Mastodon to mainstream metal audience',
+        ],
+
+        quote: {
+          text: "Leviathan was our first major label record. We had to up our game in every department — including the drums.",
+          source: 'Modern Drummer, 2004',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'dailor-2006-blood-mountain',
+        era: 'Blood Mountain Era',
+        years: '2006–2008',
+        startYear: 2006,
+        endYear: 2008,
+        description: 'Mastodon signs to Reprise/Warner and makes their most accessible album yet. Dailor switches to Gretsch, beginning the defining endorsement of his career.',
+        albums: ['Blood Mountain (2006)'],
+        tours: ['Blood Mountain World Tour', 'Sounds of the Underground'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Gretsch USA Custom',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Brand switch to Gretsch USA Custom — the partnership that would define Dailor\'s sound for the next 15+ years.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Gretsch USA 14"×5" Maple',
+            details: 'Maple shell, die-cast hoops',
+            notes: 'First Gretsch snare — warm, round sound distinct from the steel snares of the Mapex era.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: '14" A Custom hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
+            notes: 'Continued Zildjian A Custom partnership.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Upgraded from DW 5000',
+            notes: 'Stepped up to DW 9000 for more control at higher tempos.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Continued lightweight preference',
+            notes: 'Consistent stick choice.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Coated Ambassador',
+            details: 'Coated for warmer tone with Gretsch',
+            notes: 'Coated heads pair well with Gretsch maple shells\' natural warmth.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 9000,
+          inflationAdjusted: 14000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Brand switch to Gretsch USA Custom — career-defining move',
+          'DW 9000 double pedal upgrade',
+          'Gretsch warm maple tone becomes part of Mastodon\'s signature sound',
+        ],
+
+        quote: {
+          text: "Gretsch changed everything for me. The warmth of those maple shells under all that distortion — it was exactly the balance I was looking for.",
+          source: 'Gretsch Artist Profile, 2006',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'dailor-2009-crack-the-skye',
+        era: 'Crack the Skye Era',
+        years: '2009–2010',
+        startYear: 2009,
+        endYear: 2010,
+        description: 'Mastodon\'s most progressive and personal album. Dailor\'s drumming on Crack the Skye is widely considered the finest of his career — and the kit matched the ambition.',
+        albums: ['Crack the Skye (2009)'],
+        tours: ['Crack the Skye World Tour', 'Bonnaroo 2009'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Gretsch USA Custom (expanded)',
+            details: 'Maple: 22" kick, 8"/10"/12"/14"/16"/18" toms',
+            notes: 'Expanded kit with additional toms for the complex progressive arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Gretsch USA Custom 14"×6.5"',
+            details: 'Maple shell, deeper for more body',
+            notes: 'Deeper snare for the fuller, more cinematic drum sound on Crack the Skye.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom / K Series',
+            details: '14" A Custom hi-hats, K Dark crashes, 22" K Constantinople ride, China',
+            notes: 'Added K and K Constantinople cymbals for more complex tonal variety.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Continued 9000 series',
+            notes: 'Consistent pedal choice.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Brann Dailor Signature',
+            details: 'Hickory, medium taper',
+            notes: 'First Brann Dailor signature drumstick with Vic Firth.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Coated Ambassador / Fiberskyn',
+            details: 'Mix for different tonal qualities',
+            notes: 'Fiberskyn on select toms for warmer, more vintage-inspired tones.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 14000,
+          inflationAdjusted: 20000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Vic Firth Brann Dailor signature drumstick launched',
+          'Expanded tom configuration for progressive arrangements',
+          'K Constantinople ride adds complexity to cymbal palette',
+          'Crack the Skye nominated for Grammy, considered prog metal landmark',
+        ],
+
+        quote: {
+          text: "Crack the Skye was about Bill (Kelliher\'s sister) and transcendence. Every fill was emotional. The Gretsch kit had to sing.",
+          source: 'Revolver Magazine, 2009',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'dailor-2011-the-hunter',
+        era: 'The Hunter Era',
+        years: '2011–2013',
+        startYear: 2011,
+        endYear: 2013,
+        description: 'Mastodon\'s most rock-oriented album. Dailor\'s setup was refined and streamlined to serve the more accessible songwriting approach.',
+        albums: ['The Hunter (2011)'],
+        tours: ['The Hunter World Tour', 'Rockstar Energy Mayhem Festival 2011'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Gretsch USA Custom',
+            details: 'Maple: 22" kick, 10"/12"/14"/16" toms (streamlined from Crack the Skye)',
+            notes: 'Pulled back to tighter 4-tom configuration for the more concise song structures.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Gretsch USA Custom 14"×5"',
+            details: 'Shallower maple snare for sharper attack',
+            notes: 'Shallower snare for the brighter, more punchy rock sound of The Hunter.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
+            notes: 'Streamlined back to A Custom for the more direct rock sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Continued DW 9000',
+            notes: 'Consistent hardware choice.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Brann Dailor Signature',
+            details: 'Continued signature',
+            notes: 'Maintained Vic Firth signature partnership.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Coated Ambassador',
+            details: 'Consistent coated Ambassador preference',
+            notes: 'Warmer coated heads suit the Gretsch maple character.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 12000,
+          inflationAdjusted: 16000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Streamlined kit for more concise rock arrangements',
+          'Shallower snare for punchier attack',
+          'Mastodon won Grammy for "Blood and Thunder" (performed at Grammys 2011)',
+        ],
+
+        quote: {
+          text: "The Hunter was us being a rock band. Stripped back. The kit reflected that — fewer toms, less complexity, more punch.",
+          source: 'Drum! Magazine, 2011',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'dailor-2014-once-more',
+        era: 'Once More Round the Sun Era',
+        years: '2014–2016',
+        startYear: 2014,
+        endYear: 2016,
+        description: 'Mastodon returns to a heavier, more progressive approach. Dailor\'s kit re-expanded and his Gretsch partnership produced its first signature model.',
+        albums: ['Once More \'Round the Sun (2014)'],
+        tours: ['Once More \'Round the Sun World Tour', 'Download Festival 2014'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Gretsch Brann Dailor Signature Kit',
+            details: 'Maple: 22" kick, 10"/12"/14"/16" toms in custom finish',
+            notes: 'First Brann Dailor signature drum kit from Gretsch — collaboration with the band\'s aesthetic.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          snare: {
+            item: 'Gretsch Brann Dailor Signature Snare',
+            details: '14"×6" Maple in custom wrap',
+            notes: 'Signature snare drum with Gretsch — warm maple tone with distinctive wrap finish.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom / K Dark',
+            details: '14" A Custom hi-hats, K Dark crashes, 22" ride, 18" China',
+            notes: 'Mix of A Custom and K Dark for tonal range.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Continued DW 9000',
+            notes: 'Consistent hardware preference.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Brann Dailor Signature',
+            details: 'Refined model — hickory, medium taper',
+            notes: 'Updated signature stick spec.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          heads: {
+            item: 'Remo Coated Ambassador',
+            details: 'Consistent coated Ambassador',
+            notes: 'Warm tone maintained.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 16000,
+          inflationAdjusted: 20000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'First Gretsch Brann Dailor signature drum kit',
+          'Gretsch signature snare released',
+          'K Dark crashes add complexity to cymbal selection',
+        ],
+
+        quote: {
+          text: "Having a signature kit with Gretsch was surreal. Those drums are a part of my identity at this point.",
+          source: 'Gretsch Artist Profile, 2014',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'dailor-2017-emperor-of-sand',
+        era: 'Emperor of Sand Era',
+        years: '2017–2019',
+        startYear: 2017,
+        endYear: 2019,
+        description: 'Mastodon\'s most personal album — written during members\' family battles with cancer. Dailor\'s drumming is emotionally raw and his kit reached new sophistication.',
+        albums: ['Emperor of Sand (2017)'],
+        tours: ['Emperor of Sand World Tour', 'Ozzfest Meets Knotfest 2017'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Gretsch Brann Dailor Signature (updated)',
+            details: 'Custom maple: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Updated signature kit with 8" tom re-added for Emperor of Sand\'s dynamic range.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Gretsch Brann Dailor Signature Snare 14"×6.5"',
+            details: 'Updated deeper model',
+            notes: 'Deeper signature snare for fuller body in Emperor\'s dramatic dynamics.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian K Series',
+            details: '14" K hi-hats, K Dark crashes 16"/17"/18"/19", 22" K Constantinople ride, China',
+            notes: 'Fully transitioned to K Series for darker, more complex sound to match album\'s emotional depth.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 9000XF Double Pedal',
+            details: 'Extended footboard version',
+            notes: 'Extended footboard for more heel-toe technique options.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth Brann Dailor Signature',
+            details: 'Current production model',
+            notes: 'Continued Vic Firth partnership.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Coated Ambassador / Fiberskyn',
+            details: 'Fiberskyn on floor toms for warmth',
+            notes: 'Fiberskyn returns on floor toms for the album\'s more soulful passages.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'Roland SPD-SX',
+            details: 'Electronic pad for samples',
+            notes: 'Electronic integration for studio effects live.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 20000,
+          inflationAdjusted: 24000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Full transition to Zildjian K Series for darker tone',
+          'Roland SPD-SX added for live electronics',
+          'DW 9000XF extended footboard upgrade',
+          'Emperor of Sand won Grammy for Best Metal Performance',
+        ],
+
+        quote: {
+          text: "Emperor of Sand was about death and survival. I needed the drums to sound like a beating heart — warm, alive, but with the threat of stopping.",
+          source: 'Modern Drummer, 2017',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'dailor-2021-hushed-grim',
+        era: 'Hushed and Grim Era',
+        years: '2021–Present',
+        startYear: 2021,
+        endYear: 2026,
+        description: 'Mastodon\'s most ambitious album — a double LP tribute to their late manager Nick John. Dailor\'s most complete setup, refined over 20+ years with Mastodon.',
+        albums: ['Hushed and Grim (2021)'],
+        tours: ['Hushed and Grim World Tour 2022', 'Download Festival 2022'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Gretsch Brann Dailor Signature (current)',
+            details: 'Maple shells, custom graphic wrap: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Current signature kit — custom graphic wrap referencing Hushed and Grim artwork.',
+            change: null,
+          },
+          snare: {
+            item: 'Gretsch Brann Dailor Signature 14"×6.5"',
+            details: 'Current production model',
+            notes: 'Definitive snare sound — warm, musical, and unmistakably Dailor.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian K Series / K Constantinople',
+            details: '14" K hi-hats, K Dark crashes, 22" K Constantinople ride, 20" China',
+            notes: 'K Constantinople ride brings orchestral complexity to the dark, layered album.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9000XF Double Pedal',
+            details: 'Extended footboard, current model',
+            notes: 'Consistent DW 9000XF throughout recent years.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Brann Dailor Signature',
+            details: 'Current production model',
+            notes: 'Over a decade of Vic Firth signature partnership.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Coated Ambassador / Fiberskyn',
+            details: 'Consistent warm head combination',
+            notes: 'The Gretsch/Remo combination that has defined Dailor\'s tone for 15+ years.',
+            change: null,
+          },
+          electronics: {
+            item: 'Roland SPD-SX + in-ear monitors',
+            details: 'Samples and click track via IEMs',
+            notes: 'IEM system for consistent click and expanded sample library.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 24000,
+          inflationAdjusted: 24000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'K Constantinople ride for orchestral depth on double album',
+          'IEM click track system fully integrated',
+          'Custom graphic wrap signature kit — album tie-in',
+          'Most sonically rich and refined setup of Dailor\'s career',
+        ],
+
+        quote: {
+          text: "Hushed and Grim was for Nick. Every note was for him. The kit had to carry that weight — and Gretsch always delivers that warmth.",
+          source: 'Revolver Magazine, 2021',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Brann Dailor Gear Evolution Timeline | Mastodon Drum Kit History',
+    metaDescription: 'Explore Brann Dailor\'s complete drum gear evolution from Remission to Hushed and Grim. Mapex to Gretsch — every kit, every era documented.',
+  },
+
+  // ==========================================
   // Dave Lombardo - Slayer (Multiple stints)
   // ==========================================
   'dave-lombardo': {

@@ -117,7 +117,25 @@ export const DRUMMERS_BY_KIT = {
       endorsee: true,
     },
   ],
-  'ludwig/classic-maple': [],
+  // Issue #2406 (split 4/4 of #2215): Ludwig Classic Maple page (/gear/ludwig/classic-maple/)
+  'ludwig/classic-maple': [
+    {
+      slug: 'bill-ward',
+      name: 'Bill Ward',
+      band: 'Black Sabbath',
+      yearsUsed: '1968–2006',
+      config: 'Ludwig Classic Maple (24"×16" Bass, 13"×9", 16"×16" Floor Tom)',
+      endorsee: true,
+    },
+    {
+      slug: 'art-cruz',
+      name: 'Art Cruz',
+      band: 'Lamb of God',
+      yearsUsed: '2019–present',
+      config: 'Ludwig Classic Maple (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
+      endorsee: true,
+    },
+  ],
   // Issue #2405 (split 3/4 of #2215): Gretsch USA Custom page (/gear/gretsch/usa-custom/)
   'gretsch/usa-custom': [
     {
@@ -129,7 +147,101 @@ export const DRUMMERS_BY_KIT = {
       endorsee: true,
     },
   ],
-  'yamaha/recording-custom': [],
+  // Issue #2406 (split 4/4 of #2215): Yamaha Recording Custom page (/gear/yamaha/recording-custom/)
+  'yamaha/recording-custom': [
+    {
+      slug: 'mikkey-dee',
+      name: 'Mikkey Dee',
+      band: 'Scorpions / Motörhead',
+      yearsUsed: '1992–present',
+      config: 'Yamaha Recording Custom (22"×18" Bass, 10"×8", 12"×9", 13"×11", 16"×14" Toms)',
+      endorsee: true,
+    },
+    {
+      slug: 'nicko-mcbrain',
+      name: 'Nicko McBrain',
+      band: 'Iron Maiden',
+      yearsUsed: '1985–2010',
+      config: 'Yamaha Recording Custom (22"×16" Bass, 10"×8", 12"×9", 13"×10", 16"×14" Toms)',
+      endorsee: true,
+    },
+  ],
+  // Issue #2406 (split 4/4 of #2215): Tama Superstar Classic page (/gear/tama/superstar-classic/)
+  'tama/superstar-classic': [
+    {
+      slug: 'charlie-benante',
+      name: 'Charlie Benante',
+      band: 'Anthrax',
+      yearsUsed: '1981–1990',
+      config: 'Tama Superstar Classic (22"×16" Bass, 10"×8", 12"×9", 13"×10", 16"×16" Floor Tom)',
+      endorsee: true,
+    },
+    {
+      slug: 'gene-hoglan',
+      name: 'Gene Hoglan',
+      band: 'Dark Angel / Death',
+      yearsUsed: '1983–1993',
+      config: 'Tama Superstar Classic (22"×16" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Floor Tom)',
+      endorsee: false,
+    },
+  ],
+  // Issue #2406 (split 4/4 of #2215): DW Performance Maple page (/gear/dw/performance-maple/)
+  'dw/performance-maple': [
+    {
+      slug: 'navene-koperweis',
+      name: 'Navene Koperweis',
+      band: 'Entheos',
+      yearsUsed: '2012–present',
+      config: 'DW Performance Maple (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
+      endorsee: true,
+    },
+    {
+      slug: 'matt-greiner',
+      name: 'Matt Greiner',
+      band: 'August Burns Red',
+      yearsUsed: '2010–2022',
+      config: 'DW Performance Maple (22"×18" Bass, 10"×8", 12"×9", 13"×11", 16"×14" Toms)',
+      endorsee: true,
+    },
+  ],
+  // Issue #2406 (split 4/4 of #2215): Pearl Masters Maple page (/gear/pearl/masters-maple/)
+  'pearl/masters-maple': [
+    {
+      slug: 'flo-mounier',
+      name: 'Flo Mounier',
+      band: 'Cryptopsy',
+      yearsUsed: '2000–present',
+      config: 'Pearl Masters Maple (22"×18" Bass, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
+      endorsee: true,
+    },
+    {
+      slug: 'paul-mazurkiewicz',
+      name: 'Paul Mazurkiewicz',
+      band: 'Cannibal Corpse',
+      yearsUsed: '2005–present',
+      config: 'Pearl Masters Maple (20"×14" Bass ×2, 10"×8", 12"×9", 14"×12", 16"×14" Toms)',
+      endorsee: true,
+    },
+  ],
+  // Issue #2406 (split 4/4 of #2215): Sonor Vintage page (/gear/sonor/vintage/)
+  'sonor/vintage': [
+    {
+      slug: 'gavin-harrison',
+      name: 'Gavin Harrison',
+      band: 'Porcupine Tree / King Crimson',
+      yearsUsed: '2020–present',
+      config: 'Sonor Vintage Series (22"×14" Bass, 10"×7", 12"×8", 14"×12", 16"×14" Toms)',
+      endorsee: true,
+    },
+    {
+      slug: 'danny-carey',
+      name: 'Danny Carey',
+      band: 'Tool',
+      yearsUsed: '2020–present',
+      config: 'Sonor Vintage Series (26"×22" Bass, 16"×14", 18"×16" Floor Toms)',
+      endorsee: false,
+    },
+  ],
   'pdp/concept-maple': [],
 };
 

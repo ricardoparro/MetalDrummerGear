@@ -29,6 +29,7 @@
 - [Metal Bands](/llms/bands.md): 19 curated bands with drummer lineups and gear
 - [Comparisons Overview](/llms/comparisons.md): Side-by-side drummer gear comparisons
 - [Per-Comparison Pages](/llms/vs/): 61 individual drummer-vs-drummer comparisons
+- [Comparison Q&A Pages](/llms/comparisons/): Structured Q&A drummer comparison pages
 
 ## Content Articles
 

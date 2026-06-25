@@ -30,6 +30,8 @@
 - [Comparisons Overview](/llms/comparisons.md): Side-by-side drummer gear comparisons
 - [Per-Comparison Pages](/llms/vs/): 61 individual drummer-vs-drummer comparisons
 - [Comparison Q&A Pages](/llms/comparisons/): Structured Q&A drummer comparison pages
+- [Gene Hoglan vs Tomas Haake — Q&A](/llms/comparisons/gene-hoglan-vs-tomas-haake.md): Death metal precision vs djent polyrhythm — gear, technique, and influence compared
+- [Matt Greiner vs Matt Halpern — Q&A](/llms/comparisons/matt-greiner-vs-matt-halpern.md): Progressive metal drumming showdown — August Burns Red vs Periphery
 
 ## Content Articles
 

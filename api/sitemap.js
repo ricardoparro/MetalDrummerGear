@@ -604,6 +604,9 @@ export default function handler(req, res) {
     { loc: '/llms/birthdays.md', priority: '0.5', changefreq: 'monthly' },
     // Issue #1190: drummer comparison pages as ingestible markdown.
     { loc: '/llms/comparisons.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #2297, #2298: individual drummer comparison Q&A LLM files.
+    { loc: '/llms/comparisons/gene-hoglan-vs-tomas-haake.md', priority: '0.6', changefreq: 'monthly' },
+    { loc: '/llms/comparisons/matt-greiner-vs-matt-halpern.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1222: top-10 ranked lists as ingestible markdown for AI citation.
     { loc: '/llms/lists.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1223: quick facts page as ingestible markdown for AI citation.

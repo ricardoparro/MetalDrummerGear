@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/inferno"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-06-25"
 ---
 
 # Inferno — Drum Kit & Gear Setup
@@ -68,6 +68,13 @@ A: Inferno uses Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Cras
 
 A: Inferno drums for Behemoth, a black/death metal band.
 
+## Album Drum Setup Breakdowns
+
+- [Demigod Drum Setup (2004)](/articles/demigod-drum-setup) — Pearl Masters BRX, Paiste Signature Dark Energy, 240+ BPM blast beats on Behemoth's international breakthrough
+- [Evangelion Drum Setup (2009)](/articles/evangelion-drum-setup) — Full Pearl/Paiste configuration on Behemoth's landmark blackened death metal album
+- [Zos Kia Cultus Drum Setup (2002)](/articles/zos-kia-cultus-drum-setup) — Transitional era kit documenting Inferno's pre-Demigod Pearl setup
+- [Thelema.6 Drum Setup (2000)](/articles/thelema-6-drum-setup) — Early Behemoth black metal era Pearl Masters Premium configuration
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Inferno:
@@ -84,4 +91,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*

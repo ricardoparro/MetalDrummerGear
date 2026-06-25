@@ -1,12 +1,12 @@
 # Inferno — Signature Drum Licks & Patterns
 
-**Band:** Behemoth | **Genre:** Black / Death Metal | **Lick Count:** 3
+**Band:** Behemoth | **Genre:** Black / Death Metal | **Lick Count:** 6
 
 ---
 
 ## Overview
 
-Inferno is one of Black / Death Metal's most influential drummers, best known for their work with Behemoth. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Inferno" or "Inferno signature drum patterns". Their style spans blackened-death-metal.
+Inferno is one of Black / Death Metal's most influential drummers, best known for their work with Behemoth. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Inferno" or "Inferno signature drum patterns". Their style spans blackened-death-metal.
 
 ## Conquer All Blast Beat Mastery
 
@@ -77,6 +77,75 @@ The title track of Behemoth's most celebrated album The Satanist (2014) is a sev
 
 **Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Compositional Drumming](https://metalforge.io/technique/compositional-drumming)
 
+## Evangelion Blast Beat Sequence — Ov Fire and the Void
+
+**Song:** Ov Fire and the Void | **Album:** Evangelion (2009) | **BPM:** ~210 BPM | **Technique:** blast technique | **Difficulty:** expert
+
+Behemoth's Evangelion (2009) arrived as the follow-up to the already monumental Demigod and cemented the band's position as one of extreme metal's premier live and studio acts. "Ov Fire and the Void" is the album's most anthemic track — a blackened death metal colossus built around a massive, driving groove that switches into full-force blast sections with devastating effect. Inferno's drumming on it is a model study in blast-beat sequencing: how to chain separate blast sections together with groove-based passages in a way that gives each blast maximum impact and prevents listener fatigue. The blast sequences in "Ov Fire and the Void" are precisely placed to coincide with the song's most extreme melodic events, and the transitions between blasting and the groove sections are executed with a snap and finality that marks them as compositional decisions rather than random switches. Each blast sequence has a distinct character — the opening blast is more exploratory, the mid-song sequences more relentless — and Inferno varies his snare accent placement and cymbal work across them to keep the listener's ear engaged even at sustained extreme tempos. The production on Evangelion, handled by Colin Richardson, gives the drums exceptional clarity: the kick attack is tight and punchy, the snare has a dry, cutting crack, and the overall drum sound allows the nuances of Inferno's sequencing to be heard and analysed. For drummers, "Ov Fire and the Void" teaches blast-beat sequencing as a compositional tool — not just how to execute a fast blast, but how to place blasts within a song architecture for maximum emotional effect. Practise by mapping the song section by section, identifying exactly where each blast begins and ends, and then learning the groove passages between them so the transitions become sharp and intentional.
+
+### How to Play
+
+- Place blast sequences at precise song moments to coincide with melodic extremity
+- Vary snare accent placement across different blast sections to maintain listener interest
+- Execute transitions between blast and groove with sharp, intentional finality
+- Keep kick attack tight and punchy throughout the blast sequences
+- Study the song architecture section by section before practising full-speed
+
+### Key Elements
+
+- Map each blast sequence and its surrounding groove passages before playing anything
+- Identify how the snare accent placement differs between the opening and mid-song blasts
+- Drill the blast-to-groove transitions until each one snaps into place without hesitation
+- Listen at half-speed to hear the subtle dynamic variations Inferno uses between sequences
+
+**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Dynamic Contrast](https://metalforge.io/technique/dynamic-contrast)
+
+## The Satanist Groove-Blast Hybrid — Ora Pro Nobis Lucifer
+
+**Song:** Ora Pro Nobis Lucifer | **Album:** The Satanist (2014) | **BPM:** ~190 BPM | **Technique:** signature pattern | **Difficulty:** expert
+
+"Ora Pro Nobis Lucifer" from The Satanist (2014) is perhaps the most groove-oriented track on Behemoth's most celebrated album, and it gives Inferno an opportunity to demonstrate a facet of his playing that often goes underappreciated in favour of his blast-beat velocity: the ability to blend groove-based drumming with explosive blast sections in a way that makes both feel more powerful. The track opens with a hefty mid-tempo groove — a thick, authoritative pattern that anchors the song's most accessible riff — before the arrangement opens up into the blasting sections that define the album's extremity. This groove-to-blast movement is the core technical lesson of the track: Inferno makes the transition feel inevitable rather than abrupt, using the density of the groove to create tension that the blast releases. The groove sections themselves are instructive: even at a slower tempo relative to Behemoth's most extreme material, Inferno drives them with authority, keeping the snare back-beat powerful and the kick drum presence weighty without the passages feeling pedestrian or like a simple rest from blasting. The hi-hat work during the groove sections is particularly noteworthy — the pattern is tight and serves the riff without cluttering the mid-frequency space. When the blasts arrive they have enormous impact precisely because of what preceded them. This dynamic design is a lesson in compositional drumming: restraint and power deployed in sequence create more emotional force than either element alone. For drummers, studying it develops the groove-to-blast transition as a deliberate, rehearsed move; the ability to play a powerful mid-tempo groove without defaulting to blast-beats; and the sensitivity to understand when restraint serves the music better than velocity.
+
+### How to Play
+
+- Drive groove sections with full authority even at slower tempos — do not coast
+- Keep hi-hat pattern tight and riff-serving without cluttering the mid-frequency space
+- Make groove-to-blast transitions feel inevitable by building density through the groove
+- Give blasts maximum impact by letting the groove before them create tension first
+- Practise groove sections and blast sections separately before joining them
+
+### Key Elements
+
+- Master the groove section first — make it powerful and authoritative before adding the blast
+- Identify the exact bar where each groove transitions into blast and mark it clearly
+- Practise just the four bars surrounding each transition until it is seamless
+- Listen for how the hi-hat serves the groove riff and try to replicate that relationship
+
+**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamic Contrast](https://metalforge.io/technique/dynamic-contrast)
+
+## Demigod Double-Kick Pattern — Sculpting the Throne ov Seth
+
+**Song:** Sculpting the Throne ov Seth | **Album:** Demigod (2004) | **BPM:** ~215 BPM | **Technique:** blast technique | **Difficulty:** expert
+
+Demigod (2004) is the album on which Behemoth completed their transformation from black metal act to fully realised blackened death metal force, and "Sculpting the Throne ov Seth" — the album's opening track — announces that transformation with one of Inferno's most punishing double-kick performances on record. Where Behemoth's earlier black metal albums featured a rawer, more chaotic drum style, Demigod's production gave Inferno's kick work unprecedented clarity and definition: every double-bass stroke is audible and distinct, creating a relentless, machine-precision pattern beneath the album's colossal riffing. "Sculpting the Throne ov Seth" exploits this sonic clarity to maximum effect, with sustained double-kick patterns that drive the verses forward with a physicality that is almost mechanical in its evenness, then explode into full blast-beat sections at the song's most extreme moments. The relationship between the double-kick work and the blast beats above it is what makes this track a masterclass: the kick density doesn't simply double when a blast arrives — Inferno varies the bass drum pattern to serve each section, using shorter, punchier kick figures in the blast sections and more sustained, galloping patterns in the groove passages. This kind of lower-body independence requires significant practice: the feet must be fast enough to drive blast-beat sections, even enough to sustain galloping grooves, and responsive enough to shift between the two without losing the pulse. For drummers, "Sculpting the Throne ov Seth" develops advanced double-bass independence, the ability to vary kick patterns across different song sections, and the endurance to sustain precise lower-body work across an intense full-length track.
+
+### How to Play
+
+- Vary the bass drum pattern between groove and blast sections — do not default to one pattern
+- Keep double-kick strokes individually distinct and audible even at extreme tempo
+- Drive galloping groove patterns with even, sustained lower-body work
+- Use shorter, punchier kick figures beneath blast sections for maximum attack
+- Isolate each section's kick pattern and master it separately before combining
+
+### Key Elements
+
+- Transcribe the kick pattern for each section — the variations are subtler than they first appear
+- Practise the galloping groove pattern until it is completely even before adding speed
+- Drill the transition between gallop and blast-section kick patterns in isolation
+- Use a recording app to check that every double-bass stroke is audible and equally timed
+
+**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Foot Independence](https://metalforge.io/technique/foot-independence)
+
 ## Teaching Points
 
 Inferno's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Slow the blast to 120 BPM and make every stroke equal before raising speed; Drill the half-time groove transitions in isolation until they are instant; Practice double bass runs with a click before adding blast strokes above. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
@@ -85,9 +154,10 @@ Inferno's style is defined by precision, timing, and genre-defining grooves. Key
 
 - [Inferno Profile on MetalForge](https://metalforge.io/drummer/inferno)
 - [Inferno All Licks](https://metalforge.io/drummers/inferno/licks)
+- [Evangelion Drum Setup](https://metalforge.io/evangelion-drum-setup)
 - [Signature Licks Database](https://metalforge.io/licks)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*

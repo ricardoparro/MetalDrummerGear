@@ -1,12 +1,12 @@
 # Jaska Raatikainen — Signature Drum Licks & Patterns
 
-**Band:** Children of Bodom | **Genre:** Melodic Death Metal | **Lick Count:** 3
+**Band:** Children of Bodom | **Genre:** Melodic Death Metal | **Lick Count:** 6
 
 ---
 
 ## Overview
 
-Jaska Raatikainen is one of Melodic Death Metal's most influential drummers, best known for their work with Children of Bodom. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Jaska Raatikainen" or "Jaska Raatikainen signature drum patterns". Their style spans melodic-death-metal.
+Jaska Raatikainen is one of Melodic Death Metal's most influential drummers, best known for their work with Children of Bodom. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Jaska Raatikainen" or "Jaska Raatikainen signature drum patterns". Their style spans melodic-death-metal.
 
 ## Sixpounder Double Bass Drive
 
@@ -77,6 +77,75 @@ The title track of Children of Bodom's 2003 album Hate Crew Deathroll is one of 
 
 **Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Blast Beat](https://metalforge.io/technique/blast-beat), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures)
 
+## Hate Crew Deathroll Signature Fill — Needled 24/7
+
+**Song:** Needled 24/7 | **Album:** Hate Crew Deathroll (2003) | **BPM:** ~200 BPM | **Technique:** fill | **Difficulty:** advanced
+
+"Needled 24/7" opens Hate Crew Deathroll (2003) and immediately presents Jaska Raatikainen's signature fill vocabulary in concentrated form — the fast, sweeping tom-and-snare combinations that punctuate Children of Bodom's melodic death metal arrangements with dramatic precision. As the album opener, the track is engineered for maximum immediate impact: the fills appear early and often, serving as exclamation marks at the end of each riff cycle and as launchpads into the song's chorus sections. What distinguishes Raatikainen's fill technique here from generic fast drumming is the clarity of intent behind each movement around the kit. He does not fill for the sake of filling — each tom run or snare-and-crash combination has a specific rhythmic destination, and the fills are calibrated to the length of the musical phrase they close off. Short fills signal brief transitions; longer sweeping fills signal the major section changes. This phrase-matching is the core of his fill vocabulary and the reason his playing sounds musical rather than showy. At ~200 BPM, the physical demands are significant: the fills require accurate single strokes moving across toms at speed, with the snare back-beat continuing underneath where appropriate, and the transition back into the verse groove must be seamless. The most common mistake students make with Raatikainen's fills is conflating speed with clarity — playing them fast but losing the accent definition that gives each tom stroke its presence. The correct practice approach is to isolate each fill and play it slowly until every stroke sounds clear and intentional, then raise the tempo methodically. Hate Crew Deathroll was the album where Raatikainen's fill language reached its most confident expression, and "Needled 24/7" is the best entry point because it presents the fills in their most aggressive, maximalist form while the song structure remains clear and accessible. Mastering this track's fill vocabulary directly prepares you for the rest of the album's demands and, more broadly, for the style of fast, phrase-marking fills that defines melodic death metal drumming.
+
+### How to Play
+
+- Match fill length to the length of the musical phrase being closed — short for brief transitions, long for major changes
+- Keep every tom stroke clear and accented at speed — clarity before velocity
+- Land fills precisely on beat one of the following section, never rushing or dragging
+- Continue the snare back-beat within fills where the groove underneath needs to be felt
+- Use crash accents at fill ends to mark the arrival of each new section
+
+### Key Elements
+
+- Isolate each fill and practise it slowly until every stroke is clear before raising speed
+- Map the song and note every fill's length relative to the phrase it closes
+- Record the fills and listen back — accents that feel strong often sound weak on playback
+- Practise landing the fill's final stroke exactly on beat one with a metronome
+
+**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+
+## Follow the Reaper Main Groove
+
+**Song:** Follow the Reaper | **Album:** Follow the Reaper (2000) | **BPM:** ~185 BPM | **Technique:** main groove | **Difficulty:** advanced
+
+The title track of Children of Bodom's third album Follow the Reaper (2000) is one of the band's most enduringly popular songs, and Jaska Raatikainen's drumming on it distils the melodic death metal main-groove approach to its purest expression. The track's central groove is built on a fast, even double-bass foundation with a powerful, clear snare backbeat — a pattern that locks directly to Alexi Laiho's riff and provides the rhythmic anchor for the song's flowing neoclassical keyboard melody above. What makes this groove function so effectively is its economy: Raatikainen provides exactly what the song needs and nothing more. The double bass drives without dominating, the snare sits solidly on beats two and four without theatrical accents, and the hi-hat pattern is tight and mechanical, holding the pulse without drawing attention to itself. This restraint is deliberately in service of the song's melodic content — Laiho's guitar leads and Wirman's keyboard runs need rhythmic support, not rhythmic competition. Follow the Reaper was produced by Mikko Karmila at Finnvox Studios, who gave the drums a clear, cutting sound particularly suited to Raatikainen's clean, even playing style. Every kick stroke sounds separated, every snare hit sits precisely in the pocket, and the result is a drum track that sounds effortless while being technically demanding. For drummers, the main groove of "Follow the Reaper" is an excellent exercise in maintaining a powerful, even double-bass pattern under a consistent snare and hi-hat feel across a song that runs through multiple key changes and tempo variations. The practice priority is the relationship between the feet: both bass drum strokes must be perfectly even in timing and volume, because any unevenness shows up immediately against the locked snare and hi-hat. Spend time with each foot individually, then combine them and loop the groove for extended periods to build endurance. Mastering this groove develops the clean, driving, supportive drumming style that defined Children of Bodom's sound and carries across all of the band's most loved recordings.
+
+### How to Play
+
+- Keep double-bass strokes perfectly even — any imbalance is immediately audible against the locked snare
+- Hold the snare backbeat on beats two and four without theatrical accenting
+- Keep the hi-hat pattern tight and mechanical to serve the groove without drawing attention
+- Practise each foot independently before combining them, focusing on timing and volume evenness
+- Provide rhythmic support for the melodic content rather than competing with it
+
+### Key Elements
+
+- Practise each foot independently with a click until the stroke is perfectly even
+- Loop the main groove for five minutes without stopping to build real endurance
+- Keep the hi-hat as even and mechanical as possible — it is the clock of the groove
+- Listen to the guitar and keyboard melody while playing — your groove should support it, not fight it
+
+**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass), [Hi-Hat Control](https://metalforge.io/technique/hi-hat-control)
+
+## Hatebreeder Double-Bass Run — Warheart
+
+**Song:** Warheart | **Album:** Hatebreeder (1999) | **BPM:** ~200 BPM | **Technique:** blast technique | **Difficulty:** advanced
+
+"Warheart" opens Hatebreeder (1999), Children of Bodom's second album and the record on which Jaska Raatikainen's double-bass technique fully announced itself as a defining element of the band's sound. Where Something Wild (1997) showcased Raatikainen's fill vocabulary and overall energy, Hatebreeder pushed the double-kick work to the centre of the arrangement, and "Warheart" immediately establishes that priority. The track opens with a dense, driving double-bass run beneath Alexi Laiho's characteristically neoclassical riffing — the kick pattern is fast, tight, and relentlessly even, establishing a rhythmic foundation of unusual solidity for a seventeen-year-old drummer. The Hatebreeder recording has a drier, more aggressive sound than Something Wild, which places Raatikainen's kick work in sharp relief: each bass drum stroke is distinct and punchy, and the speed is clearly audible in a way that rewards attentive listening. The double-bass runs in "Warheart" are characterised by their consistency across the verse sections — Raatikainen does not vary the kick pattern significantly to compensate for the hand activity above, which means the groove is held together entirely by the evenness of the feet. This is the key technical lesson of the track: the ability to maintain fast, even double-bass while simultaneously executing demanding snare, hi-hat, and cymbal patterns in the upper body. It requires genuine independence — the feet must operate on their own internal clock while the hands respond to the riff's accent demands. For drummers, studying "Warheart" develops the most important form of coordination in melodic death metal drumming: lower-body endurance and independence. The practice approach is foot-first — build the double-bass pattern to full tempo with a metronome, achieving perfect evenness and endurance, and only then add the hand work above. Adding the hands too soon collapses the feet into the hands' rhythmic gravity, which is the most common fault in learning this type of drumming. Master the feet, then add the hands. Hatebreeder is a pivotal record in Children of Bodom's catalogue, and "Warheart" announces it from its opening seconds with one of Raatikainen's most formative double-bass performances.
+
+### How to Play
+
+- Maintain fast, even double-bass patterns while executing demanding upper-body parts simultaneously
+- Build the kick pattern to full tempo separately from the hand work — add hands only once feet are solid
+- Keep each bass drum stroke distinct and punchy, not blurred at high speed
+- Develop lower-body endurance through extended slow-tempo exercises before increasing speed
+- Train each foot independently before combining them to identify any evenness issues
+
+### Key Elements
+
+- Practise the double-bass run with no hands first — get the feet solid and even
+- Loop the foot pattern for three minutes at a slow tempo to build genuine endurance
+- Add the snare back-beat before adding cymbal work — layer the complexity gradually
+- Record your kick pattern and zoom in on the waveform to check for timing irregularities
+
+**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Foot Independence](https://metalforge.io/technique/foot-independence), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+
 ## Teaching Points
 
 Jaska Raatikainen's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Practise the double-bass pattern slowly with a metronome until both feet are perfectly even; Build endurance by looping the verse groove for several minutes without stopping; Keep your ankles relaxed — tension is what makes fast double bass fall apart. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
@@ -85,9 +154,10 @@ Jaska Raatikainen's style is defined by precision, timing, and genre-defining gr
 
 - [Jaska Raatikainen Profile on MetalForge](https://metalforge.io/drummer/jaska-raatikainen)
 - [Jaska Raatikainen All Licks](https://metalforge.io/drummers/jaska-raatikainen/licks)
+- [Hate Crew Deathroll Drum Setup](https://metalforge.io/hate-crew-deathroll-drum-setup)
 - [Signature Licks Database](https://metalforge.io/licks)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*

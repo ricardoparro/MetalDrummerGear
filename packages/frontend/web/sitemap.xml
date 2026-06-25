@@ -337,4 +337,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <!-- Issue #2298: Matt Greiner vs Matt Halpern (split 2/4 of #2150) -->
+  <url>
+    <loc>https://metalforge.io/vs/matt-greiner-vs-matt-halpern</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
 </urlset>

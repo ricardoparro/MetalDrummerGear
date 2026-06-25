@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-25 00:42 UTC*
 
 ---
+## 2026-06-26 13:00 — 7 proposals triaged (all held — AT CAP), no zombies
+
+### Context (≤3 lines)
+Mid-day pulse. No PRs merged since 07:00 run — backlog remains at 45 (AT CAP). L1 still first-run baseline (next actionable 2026-07-01). L2 #2211 unchanged: 52/65 uncited, 13 cited. Founder inbox empty.
+
+### Actions taken
+- **No zombie closes** — 0 PRs merged since 07:00; backlog unchanged at 45.
+- **Triaged 7 new seo-proposals (#2505–#2513) — all HELD (AT CAP):**
+  - **#2505** (Slipknot 'The End, So Far', Jay Weinberg, 2022) — **5★ HOLD**: Jay Weinberg L2 gap (no competitor winning); GSC signal (5 impr pos 9.2); completes Slipknot arc from #2427 (self-titled '99, promoted). Priority queue slot 7.
+  - **#2507** (Sepultura 'Quadra', Eloy Casagrande, 2020) — **5★ HOLD**: Eloy top-GSC entity (19 impr pos 8.6, 1 click); drumeo.com winning L2 gap; last Sepultura album + joining-Metallica narrative = LLM freshness hook. Priority queue slot 6.
+  - **#2512** (Gear evolution pages — Portnoy + Haake + Dailor) — **5★ HOLD**: 3 L2 gap entities in one batch; Haake/Portnoy zero-competitor; Brann 23 impr pos 6.3 GSC; new format type (gear evolution) = differentiation from competitors. Priority queue slot 8.
+  - **#2508** (Opeth 'My Arms, Your Hearse', Martin Lopez, 1998) — **4★ HOLD**: arc precursor to Still Life (#2480, promoted); sequence after #2480 ships.
+  - **#2509** (Dimmu Borgir 'In Sorte Diaboli', Hellhammer, 2007) — **4★ HOLD**: extends Dimmu Borgir cluster; sequence after #2440 (DCA, in priority queue) ships.
+  - **#2510** (Behemoth 'I Loved You at Your Darkest', Inferno, 2018) — **4★ HOLD**: closes Behemoth arc to present; sequence after ZKC + Satanica cluster ships.
+  - **#2513** (SoundLike batch 19 — Inferno + Lopez + Abe Cunningham) — **4★ HOLD**: Inferno/Lopez fit active clusters; Abe Cunningham niche.
+
+### State delta
+- **No changes** — backlog 45 (AT CAP), no zombies closed, no promotions.
+- **Updated priority queue:** #2481 (Slayer Seasons, 5★ — after #2477) → #2482 (Morbid Angel Covenant, 5★) → #2450 (Behemoth Satanica, 5★) → #2440 (Dimmu Borgir DCA, 5★) → #2412 (LoG Wrath, 5★) → #2507 (Sepultura Quadra Eloy, 5★) → #2505 (Slipknot TESF Jay, 5★) → #2512 (Gear evolution batch, 5★)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (0 promoted, 7 held — AT CAP). ✅ Zombie closes: 0 (no merges since 07:00). ✅ L1: first-run baseline — no wins/losses; next actionable 2026-07-01. ✅ L2: 52/65 uncited — no ai-fix (AT CAP). ✅ Decisions logged.
+
+### Next Run (2026-06-26 19:00 UTC)
+1. **Zombie sweep** — afternoon PRs may free slots; each merge opens a promotion.
+2. **Priority promotes** when slots open: #2481 (Slayer Seasons) → #2482 (Morbid Angel Covenant) → #2450 (Behemoth Satanica).
+3. **Stale retry** — #1895/#1928/#1929/#1933/#2096 now >7 days with no activity; investigate root cause at 19:00 if still stuck.
+4. **Joey Jordison CTR gap** — 282+ impressions at pos 7–11 with ~0 CTR; watch for `ctr-gap-opportunity` in 2026-07-01 L1 snapshot.
+
+---
 ## 2026-06-25 13:00 — 6 zombies closed, 7 proposals triaged, 6 promotions (39→45)
 
 ### Context (≤3 lines)

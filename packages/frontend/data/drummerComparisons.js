@@ -650,6 +650,57 @@ export const drummerComparisons = {
     },
     verdict: 'Matt Greiner and Matt Halpern represent two defining faces of modern heavy music drumming — Greiner\'s jazz-infused metalcore and Halpern\'s polyrhythmic djent. Both are Pearl endorsers who transcend their genres, and both inspire a generation of technically ambitious heavy drummers.',
   },
+
+  // Issue #2483: SEO batch 16 — DT Succession narrative
+  'mike-portnoy-vs-mike-mangini': {
+    slug: 'mike-portnoy-vs-mike-mangini',
+    title: 'Mike Portnoy vs Mike Mangini',
+    metaTitle: 'Mike Portnoy vs Mike Mangini — Dream Theater Drummer Comparison | MetalForge',
+    metaDescription: 'Mike Portnoy founded Dream Theater; Mike Mangini won the 2010 audition. Gear, technique, and the DT succession debate compared.',
+    category: 'progressive',
+    drummers: ['mike-portnoy', 'mike-mangini'],
+    comparison: {
+      style: 'Mike Portnoy built Dream Theater\'s sound over 20 years with theatrical prog metal flair and massive multi-bass kit setups. Mike Mangini approaches the instrument as a scientist — world-record speed, technical precision, and optimized mechanics replacing Portnoy\'s showmanship.',
+      technique: 'Portnoy excels at rapid-fire transitions, dramatic fills, and endurance across marathon prog compositions. Mangini holds Guinness World Records for drumming speed and applies biomechanical analysis to maximize performance efficiency.',
+      gear: 'Portnoy plays Tama Starclassic Maple/Birch drums with Sabian HHX cymbals and Tama Iron Cobra double pedals. Mangini uses Yamaha Absolute Maple Hybrid drums with Zildjian K Custom and A Custom cymbals and Yamaha chain drive double pedals.',
+      influence: 'Portnoy shaped 1990s progressive metal through Dream Theater\'s landmark albums and extensive instructional work. Mangini\'s technical records and scientific approach influenced the speed drumming and educational communities.',
+    },
+    verdict: 'One of progressive metal\'s great debates. Portnoy built Dream Theater\'s identity through 20 years of landmark recordings — then returned in 2023 to reclaim the throne. Mangini brought world-record speed and scientific discipline to the role. Both are legends; what you value most determines your answer.',
+  },
+
+  // Issue #2483: SEO batch 16 — Slayer vs Morbid Angel founding drummers
+  'dave-lombardo-vs-pete-sandoval': {
+    slug: 'dave-lombardo-vs-pete-sandoval',
+    title: 'Dave Lombardo vs Pete Sandoval',
+    metaTitle: 'Dave Lombardo vs Pete Sandoval — Thrash vs Death Metal Drumming | MetalForge',
+    metaDescription: 'Slayer\'s Dave Lombardo vs Morbid Angel\'s Pete Sandoval. Groove-based double kick vs gravity blast machine. Two founding fathers of extreme metal drumming compared.',
+    category: 'extreme',
+    drummers: ['dave-lombardo', 'pete-sandoval'],
+    comparison: {
+      style: 'Dave Lombardo pioneered thrash metal drumming with Slayer — groove-oriented double kick, punishing snare cracks, and relentless forward drive that defined the genre. Pete Sandoval defined Florida death metal with Morbid Angel — single-footed hyperblasts and gravity blasts that pushed extreme speed beyond what was thought humanly possible.',
+      technique: 'Lombardo\'s double bass approach is groove-based: he locks in with the guitar riffs and drives the band with powerful alternating kicks and authoritative snare work. Sandoval invented the gravity blast — using gravity and rebound to generate blast beat speeds physically impossible with conventional technique.',
+      gear: 'Lombardo plays Tama Starclassic Maple drums with Paiste RUDE cymbals and Tama Iron Cobra double pedals. Sandoval used Tama Artstar II drums with Zildjian A Series cymbals and Tama Iron Cobra pedals during his classic Morbid Angel years.',
+      influence: 'Lombardo defined the Slayer sound that influenced virtually every extreme metal band that followed and helped invent thrash metal drumming. Sandoval\'s gravity blast invention spread through all of death and black metal — it is the foundational technique of extreme speed drumming.',
+    },
+    verdict: 'Dave Lombardo is the godfather of thrash metal drumming — his groove-powered double kick defined Slayer\'s sonic identity and inspired every extreme metal band that followed. Pete Sandoval invented a technique that changed what was physically possible in extreme drumming. Two different approaches to extreme speed — groove vs pure velocity — both irreplaceable.',
+  },
+
+  // Issue #2483: SEO batch 16 — Speed specialists from different subgenres
+  'george-kollias-vs-tomas-haake': {
+    slug: 'george-kollias-vs-tomas-haake',
+    title: 'George Kollias vs Tomas Haake',
+    metaTitle: 'George Kollias vs Tomas Haake — Death Metal Speed vs Djent Precision | MetalForge',
+    metaDescription: 'Nile\'s George Kollias (280 BPM blast beats) vs Meshuggah\'s Tomas Haake (polyrhythmic maestro). Two elite extreme metal drummers — raw speed vs mathematical complexity compared.',
+    category: 'extreme',
+    drummers: ['george-kollias', 'tomas-haake'],
+    comparison: {
+      style: 'George Kollias represents the apex of death metal speed — blast beats at 280+ BPM with heel-toe double bass, delivering ancient Egyptian brutality with Nile. Tomas Haake invented djent drumming with Meshuggah — robotic polyrhythmic precision and machine-like consistency that created an entirely new sub-genre.',
+      technique: 'Kollias uses heel-toe technique for sustained blast beats at extreme tempos and co-designed the Pearl Demon XR pedal for maximum speed performance. Haake uniquely employs two single pedals rather than a double pedal, achieving precise polyrhythmic control through self-imposed physical constraints.',
+      gear: 'Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian K and A Custom cymbals and the Pearl Demon XR double pedal. Haake uses Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and two Tama Speed Cobra single pedals.',
+      influence: 'Kollias raised the ceiling for death metal speed drumming and spread advanced blast beat technique globally through instructional content. Haake pioneered the djent movement — his polyrhythmic templates inspired Periphery, Animals as Leaders, and an entire generation of modern metal drummers.',
+    },
+    verdict: 'George Kollias and Tomas Haake pursue technical mastery from opposite directions — Kollias through pure kinetic speed, Haake through polyrhythmic complexity. Both operate at the limits of human drumming capability. The debate is really between two philosophies: raw velocity vs mathematical precision.',
+  },
 };
 
 /**

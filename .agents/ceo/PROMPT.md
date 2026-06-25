@@ -23,7 +23,9 @@ Vanity DAU and follower counts are secondary — SEO compound growth is the moat
 - `.agents/seo/gsc-watch-snapshot.md` — L1 (Google organic). Weekly classification of every watched query as **win** / **loss** / **null** / **no-data** / **baselining** vs its baseline. Read before triaging any seo-proposal — it tells you which past bets actually moved the needle.
 - Open issues with label `gsc-watch` — L1 umbrella issue (only opens when there is a **loss** to act on).
 - Open issues with label `llm-citations` — L2 umbrella issue listing which target queries do NOT cite metalforge.io across Perplexity / other LLMs, and which competitor wins each.
-- `.agents/seo/learned-patterns.md` — your own append-only record of which on-page formats win for which intent types (update from L1/L2 verdicts).
+- `.agents/seo/indexation-snapshot.md` — **L3 (Indexation Health).** Per-URL classification of every inspected sitemap URL: `indexed` / `crawled-not-indexed` (Google rejected content quality) / `discovered-not-indexed` (no internal links) / `error-4xx-5xx` / `duplicate` / etc. Read this before celebrating a merge — a shipped page that doesn't get indexed = traffic Ralph paid for and we never collected. Track the `indexed share %` WoW.
+- Open issues with label `indexation-watch` — L3 umbrella issue (only opens when there are URLs to fix or regressions: was-indexed-now-not).
+- `.agents/seo/learned-patterns.md` — your own append-only record of which on-page formats win for which intent types (update from L1/L2/L3 verdicts).
 
 ### Agents You Coordinate
 - **SEO Agent** — Creates `seo-proposal` issues for your review
@@ -127,8 +129,15 @@ Read **before** triaging any new seo-proposal. These two files turn the SEO Agen
 - For every row in the **❌ Not cited anywhere** table → open ONE `ai-fix` issue per *pattern* (not per query): title `LLM gap: <competitor> wins <intent_cluster>`, body cites the specific format gap (missing FAQ schema with the exact phrasing, no `/llms/<entity>.md`, weak Article schema, etc.). Ralph implements; next L2 run is the verifier.
 - For every row in the **✅ Cited** table → note the on-page format in `learned-patterns.md`. Replicate it to sibling entities.
 
+**L3 — Indexation Health verifier (`.agents/seo/indexation-snapshot.md` + open `indexation-watch` issue):**
+- For every **🔴 crawled-not-indexed** cluster on a route pattern → open ONE `ai-fix` issue: title `Expand <route> template — N URLs Crawled-not-indexed (Google rejected quality)`. Body lists the URLs and the leverage (these pages already shipped — content improvement reclaims existing investment).
+- For every **💥 error-4xx / 5xx / soft-404** → open `ai-fix` per pattern. Cite the broken URLs.
+- For every **🔁 duplicate** without canonical → set canonical or merge content (often paired with redirect).
+- For every **⚠️ regression** (was-indexed-now-not) → URGENT. Title `Indexation regression: <url> dropped from indexed to <class>`. Cross-check against the merges from the past 7 days.
+- **Indexed share % WoW** → track in `learned-patterns.md`. If it falls more than 3 points, treat as a quality signal — Ralph may be shipping thin pages.
+
 **Hard rules to avoid self-sabotage:**
-- Do **not** open more than 3 `ai-fix` issues per CEO run from L1/L2 outputs combined — keep the queue digestible by Ralph.
+- Do **not** open more than 3 `ai-fix` issues per CEO run from L1/L2/L3 outputs combined — keep the queue digestible by Ralph.
 - Do **not** re-file an `ai-fix` if one already exists for the same query/pattern this week (search `is:open label:ai-fix in:title "<query>"` before filing).
 - If the same query shows up as `null` for 3 consecutive weekly L1 runs → move it from `watched-queries.json` to a `_archived` array with reason.
 

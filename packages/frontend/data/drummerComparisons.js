@@ -601,6 +601,23 @@ export const drummerComparisons = {
     verdict: 'Brann Dailor is jazz chaos personified — his fills are the melody and his kit is a second lead instrument. Gavin Harrison is refined polyrhythmic mastery — subtle, sophisticated, and deeply musical. The contrast between Mastodon\'s dense oddity and Porcupine Tree\'s intellectual complexity makes this the ultimate Prog-vs-Prog drumming debate.',
   },
 
+  // Issue #2298: Matt Greiner vs Matt Halpern (split 2/4 of #2150)
+  'matt-greiner-vs-matt-halpern': {
+    slug: 'matt-greiner-vs-matt-halpern',
+    title: 'Matt Greiner vs Matt Halpern',
+    metaTitle: 'Matt Greiner vs Matt Halpern - Metalcore vs Djent Drumming Compared | MetalForge',
+    metaDescription: 'August Burns Red\'s Matt Greiner vs Periphery\'s Matt Halpern. Metalcore vs djent: technical double bass aggression vs groove-focused polyrhythms. Two of modern metal\'s most influential drummers compared.',
+    category: 'progressive',
+    drummers: ['matt-greiner', 'matt-halpern'],
+    comparison: {
+      style: 'Matt Greiner drives August Burns Red\'s metalcore with blazing double bass, explosive fills, and dynamic control that bridges technical precision with melodic songwriting. Matt Halpern anchors Periphery\'s djent sound with groove-focused polyrhythms, ghost notes, and musical communication that helped define modern progressive metal.',
+      technique: 'Greiner combines high-speed double bass with intricate cymbal patterns and creative dynamics that make metalcore feel compositional rather than just aggressive. Halpern pioneered the groove-first approach to djent — navigating complex time signatures while maintaining feel and pocket that lesser drummers sacrifice for pure technique.',
+      gear: 'Greiner plays Meinl Drum Festival kit with Greiner & Kilmer Custom snare and Meinl Byzance cymbals, using DW 9000 double pedals. Halpern plays Pearl Reference Series with Pearl Demon Drive pedals and Meinl Byzance cymbals — both sharing a Meinl cymbal foundation with different drum configurations.',
+      influence: 'Greiner established the metalcore drumming standard through August Burns Red albums like "Messengers" and "Constellations," earning Grammy nominations. Halpern shaped the global djent movement through Periphery and built one of metal\'s most engaged drum education communities online.',
+    },
+    verdict: 'Matt Greiner is the architect of modern metalcore drumming — technical, powerful, and dynamic in equal measure. Matt Halpern is the groove-grounded djent pioneer whose Berklee-trained musicality made polyrhythmic complexity feel approachable. Both Matts represent the modern era of metal drumming excellence, each dominating their genre through technical mastery and musical intelligence.',
+  },
+
   'mario-duplantier-vs-george-kollias': {
     slug: 'mario-duplantier-vs-george-kollias',
     title: 'Mario Duplantier vs George Kollias',

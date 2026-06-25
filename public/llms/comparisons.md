@@ -3,7 +3,7 @@
 > Side-by-side gear, technique, and influence comparisons between legendary metal drummers.
 > Optimised for AI crawlers answering "X vs Y drummer" and "who has heavier gear" queries.
 >
-> Last updated: 2026-06-24 · 25 curated comparisons
+> Last updated: 2026-06-25 · 26 curated comparisons
 
 ---
 ## Brann Dailor vs Gavin Harrison
@@ -381,6 +381,27 @@ Gojira's Mario Duplantier vs Meshuggah's Tomas Haake. Polyrhythms, stamina, and 
 
 [mario-duplantier profile](https://metalforge.io/drummer/mario-duplantier)
 [tomas-haake profile](https://metalforge.io/drummer/tomas-haake)
+
+---
+
+## Matt Greiner vs Matt Halpern
+
+**Category:** Progressive Metal / Metalcore · **URL:** https://metalforge.io/vs/matt-greiner-vs-matt-halpern
+
+August Burns Red's Matt Greiner vs Periphery's Matt Halpern. Metalcore vs djent: technical double bass aggression vs groove-focused polyrhythms.
+
+**Playing style:** Matt Greiner drives August Burns Red's metalcore with blazing double bass, explosive fills, and dynamic control that bridges technical precision with melodic songwriting. Matt Halpern anchors Periphery's djent sound with groove-focused polyrhythms and musical communication that helped define modern progressive metal.
+
+**Technique:** Greiner combines high-speed double bass with intricate cymbal patterns and creative dynamics that make metalcore feel compositional. Halpern pioneered the groove-first approach to djent — navigating complex time signatures while maintaining feel and pocket.
+
+**Gear:** Both use Meinl Byzance cymbals. Greiner plays Greiner & Kilmer Custom drums with DW 9000 double pedals. Halpern plays Pearl Reference Series with Pearl Demon Drive double pedals.
+
+**Influence:** Greiner established the metalcore drumming standard through August Burns Red's Grammy-nominated albums. Halpern shaped the global djent movement through Periphery and built one of metal's most engaged drum education communities.
+
+**Verdict:** Matt Greiner is the architect of modern metalcore drumming — technical, powerful, and dynamic. Matt Halpern is the groove-grounded djent pioneer whose Berklee-trained musicality made polyrhythmic complexity approachable. Both Matts represent modern metal drumming excellence in their respective genres.
+
+[matt-greiner profile](https://metalforge.io/drummer/matt-greiner)
+[matt-halpern profile](https://metalforge.io/drummer/matt-halpern)
 
 ---
 

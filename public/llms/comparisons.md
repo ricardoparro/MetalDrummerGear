@@ -3,7 +3,7 @@
 > Side-by-side gear, technique, and influence comparisons between legendary metal drummers.
 > Optimised for AI crawlers answering "X vs Y drummer" and "who has heavier gear" queries.
 >
-> Last updated: 2026-06-24 · 26 curated comparisons
+> Last updated: 2026-06-25 · 27 curated comparisons
 
 ---
 ## Brann Dailor vs Gavin Harrison
@@ -171,6 +171,27 @@ Gene "The Atomic Clock" Hoglan vs Nile's George Kollias. Death metal speed, prec
 
 [gene-hoglan profile](https://metalforge.io/drummer/gene-hoglan)
 [george-kollias profile](https://metalforge.io/drummer/george-kollias)
+
+---
+
+## Gene Hoglan vs Tomas Haake
+
+**Category:** Extreme / Death Metal · **URL:** https://metalforge.io/vs/gene-hoglan-vs-tomas-haake
+
+Gene "The Atomic Clock" Hoglan vs Meshuggah's Tomas Haake. Death metal precision vs djent polyrhythm. Two of technical metal's most distinctive drummers compared.
+
+**Playing style:** Gene brings inhuman timing and scientific precision to death and thrash metal. Tomas invented djent drumming with robotic polyrhythmic complexity for Meshuggah.
+
+**Technique:** Gene pioneered the gravity blast with impossibly tight double bass and timing. Tomas employs machine-like precision with complex time signatures and a signature dual single-pedal approach.
+
+**Gear:** Gene plays Pearl Reference Pure drums with Sabian AAX cymbals. Tomas plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals.
+
+**Influence:** Gene defined death and thrash metal drumming across Death, Dark Angel, and Testament. Tomas pioneered the djent movement and polyrhythmic metal with Meshuggah.
+
+**Verdict:** Gene Hoglan is "The Atomic Clock" — 40+ years of precision that built the foundation of extreme metal. Tomas Haake is the architect of djent — his polyrhythmic machine-drumming created an entirely new sub-genre. Two different flavours of inhuman timing.
+
+[gene-hoglan profile](https://metalforge.io/drummer/gene-hoglan)
+[tomas-haake profile](https://metalforge.io/drummer/tomas-haake)
 
 ---
 

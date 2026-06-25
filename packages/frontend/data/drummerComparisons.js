@@ -262,6 +262,23 @@ export const drummerComparisons = {
     verdict: 'Danny Carey is the philosopher-drummer whose mathematical approach created Tool\'s sonic universe. Mario Duplantier is the primal force whose organic power drives Gojira\'s environmental message. Both represent the pinnacle of thinking drummers.',
   },
 
+  // Issue #2297: Gene Hoglan vs Tomas Haake - Atomic Clock vs Djent Architect
+  'gene-hoglan-vs-tomas-haake': {
+    slug: 'gene-hoglan-vs-tomas-haake',
+    title: 'Gene Hoglan vs Tomas Haake',
+    metaTitle: 'Gene Hoglan vs Tomas Haake - Death Metal Precision vs Djent Polyrhythm | MetalForge',
+    metaDescription: 'Gene "The Atomic Clock" Hoglan vs Meshuggah\'s Tomas Haake. Death metal precision vs djent polyrhythm. Gear, technique, and legacy compared.',
+    category: 'extreme',
+    drummers: ['gene-hoglan', 'tomas-haake'],
+    comparison: {
+      style: 'Gene brings inhuman timing and scientific precision to death and thrash metal. Tomas invented djent drumming with robotic polyrhythmic complexity for Meshuggah.',
+      technique: 'Gene pioneered the gravity blast with impossibly tight double bass and timing. Tomas employs machine-like precision with complex time signatures and signature single-pedal approach.',
+      gear: 'Gene endorses Pearl Reference Pure drums with Sabian AAX cymbals. Tomas plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals.',
+      influence: 'Gene defined death and thrash metal drumming across Death, Dark Angel, and Testament. Tomas pioneered the djent movement and polyrhythmic metal with Meshuggah.',
+    },
+    verdict: 'Gene Hoglan is "The Atomic Clock" — legendary precision earned across 40+ years of extreme metal. Tomas Haake is the architect of djent, whose polyrhythmic machine-drumming created an entirely new sub-genre. Two different flavours of inhuman timing.',
+  },
+
   // Issue #598: Gene Hoglan vs George Kollias - Speed Demons
   'gene-hoglan-vs-george-kollias': {
     slug: 'gene-hoglan-vs-george-kollias',

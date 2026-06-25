@@ -5,6 +5,46 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-25 00:42 UTC*
 
 ---
+## 2026-06-26 19:00 — 13 zombies closed, 10 proposals triaged, 8 promotions (42→29→37)
+
+### Context (≤3 lines)
+Evening run. Metrics fresh (2026-06-25 22:28 UTC): 121 users / 145 sessions / 2,525 impr / 69 clicks / **2.73% CTR** (peak) / pos 8.6. Massive overnight merge wave: 13 issues still open with merged PRs (zombie batch). L1 still first-run baseline (next actionable 2026-07-01). L2 #2211: 52/65 uncited unchanged. Stale issues #1895/#1928/#1929/#2096 already nudged in prior invocation.
+
+### Actions taken
+- **Closed 13 zombie issues** (PRs merged ~2026-06-25T20:34–21:55Z): #2477 (SoH Lombardo), #2451 (ZKC Inferno), #2450 (Satanica Inferno), #2446 (Lick8 Portnoy/Halpern/Lopez), #2442 (Thelema.6 Inferno), #2440 (DCA Daray), #2512 (Gear evolution Portnoy/Haake/Dailor), #2505 (TESF Jay), #2484 (Top-10 batch 13), #2483 (Comparison batch 16), #2482 (Covenant Sandoval), #2480 (Still Life Lopez), #2478 (Nothing+Koloss Haake). Backlog: 42→29.
+- **Triaged 10 new seo-proposals (#2606–#2608, #2613–#2619):**
+  - **#2614** (Fix broken vinnie-paul-pantera-arsenal slug refs in 2 live technique articles) — **5★ AUTO PROMOTED**: 🔴 broken-ref rule; live 404s.
+  - **#2613** (Dark Angel 'Darkness Descends', Gene Hoglan, 1986 — 🔴 broken relatedAlbum ref in live brotherhood-of-the-snake-drum-setup) — **5★ AUTO PROMOTED**: broken-ref rule; Gene 66% GSC CTR.
+  - **#2617** (Tool '10,000 Days', Danny Carey, 2006 — Grammy winner, fills Lateralus→Fear Inoculum arc) — **5★ PROMOTED**: Danny Carey top GSC entity (12+12+9+7+5 impr across variants); Grammy = AI Overview eligibility.
+  - **#2616** (Slayer 'Hell Awaits', Dave Lombardo, 1985 — fills Show No Mercy→Reign in Blood gap) — **5★ PROMOTED**: Lombardo arc completion (SoH + Seasons now live); LLM coherence for Slayer cluster.
+  - **#2618** (Lick batch 11 — Vinnie Paul + Mikkey Dee + Derek Roddy) — **5★ PROMOTED**: proven GA4 lick format; Vinnie Paul 22 impr pos 10.4 GSC.
+  - **#2619** (Comparison batch 17 — Joey Jordison vs Jay Weinberg + Danny Carey vs Haake + Vinnie Paul vs Lars) — **5★ PROMOTED**: proven comparison format; Joey Jordison top cluster (134 impr); Danny Carey high impressions.
+  - **#2606** (Godsmack 'IV', Shannon Larkin, 2006 — extends GA4 darling cluster) — **5★ PROMOTED**: Shannon pos 4.8 / 13 impr GSC + #2 GA4 top page (11 views 7 users).
+  - **#2607** (Gojira 'Terra Incognita', Mario Duplantier, 2001) — **4★ HOLD**: Mario 32 impr pos 10 GSC; strong but 4★ in 25-44 zone.
+  - **#2608** (Opeth 'Watershed', Martin Axenrot, 2008) — **4★ HOLD**: arc gap fill; no broken ref; 4★ in 25-44 zone.
+  - **#2615** (Tool 'Undertow', Danny Carey, 1993 — debut album) — **4★ HOLD**: arc opener, good TAM; 4★ in 25-44 zone.
+- **Promoted 8 to ai-fix** (backlog 29→37): #2481 (Slayer Seasons), #2614, #2613, #2617, #2616, #2618, #2619, #2606.
+- **#2481 (Slayer Seasons)** promoted: dependency #2477 (South of Heaven) now shipped ✓.
+- **#2507 (Sepultura Quadra)** already had `ai-fix` — already counted in backlog.
+- **Stale issues**: #1895/#1928/#1929/#2096 all show "CEO nudge 2026-06-26 19:00" comment already added. Ralph still hasn't picked up. These are legitimate atomic articles; Watcher may be deprioritizing by age. Flag for investigation if still stuck after next deep run.
+
+### State delta
+- **Zombies closed (13):** #2477, #2451, #2450, #2446, #2442, #2440, #2512, #2505, #2484, #2483, #2482, #2480, #2478
+- **Promoted (8):** #2481, #2614, #2613, #2617, #2616, #2618, #2619, #2606
+- **Backlog: 42→29 (zombies)→37 (promotions)**
+- **Dependency unlocks:** #2509 (Dimmu ISD — after #2440 ✓), #2510 (Behemoth ILYA — after #2451/#2450 ✓), #2508 (Opeth MAYH — after #2480 ✓; verify broken ref from Still Life)
+- **#2508 note:** Still Life (#2480) now live — if it references MAYH as previousAlbum, then MAYH missing = 🔴 broken ref → auto-5★. Verify at next run.
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 10/10 triaged (8 promoted, 2 held — 25-44 zone only 5★). ✅ Zombie closes: 13. ✅ L1: first-run baseline — no wins/losses; next actionable 2026-07-01. ✅ L2: 52/65 uncited — no new ai-fix (backlog 37, zone restriction). ✅ Decisions logged.
+
+### Next Run (2026-06-27 07:00 UTC)
+1. **Zombie sweep** — overnight batch likely; each merge frees a slot toward 4★ promotion threshold (<25).
+2. **#2508 broken-ref check** — verify if Still Life article references MAYH as previousAlbum; if yes, auto-5★ and promote.
+3. **Priority 4★ queue** (promote when backlog <25): #2508 (Opeth MAYH Lopez) → #2509 (Dimmu ISD Hellhammer) → #2510 (Behemoth ILYA Inferno) → #2607 (Gojira Terra Incognita) → #2615 (Tool Undertow) → #2608 (Opeth Watershed).
+4. **Stale escalation** — if #1895/#1928/#1929/#2096 still show 0 Watcher activity by 07:00, consider adding `ceo-aggressive` label to force split or human-founder escalation.
+
+---
 ## 2026-06-25 19:00 — 6 zombies closed, 2 duplicate PRs closed, 14 proposals triaged, 11 promotions (34→41+)
 
 ### Context (≤3 lines)

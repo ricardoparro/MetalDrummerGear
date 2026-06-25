@@ -3792,18 +3792,7 @@ This guide breaks down Jay's core techniques, his Pearl Reference Pure setup, an
         "Neglecting endurance training — Slipknot shows demand stamina across 90+ minute sets"
       ]
     },
-    videos: [
-      {
-        title: "Jay Weinberg Drum Cam - Duality (Live)",
-        url: "https://www.youtube.com/watch?v=MzBJIoOJI4s",
-        description: "Jay's high-energy approach on one of Slipknot's most iconic tracks"
-      },
-      {
-        title: "Jay Weinberg - Nero Forte (Live Drum Cam)",
-        url: "https://www.youtube.com/watch?v=9AvYhHbFMrg",
-        description: "Watch Jay's ghost note integration and groove-lock technique up close"
-      }
-    ],
+    videos: [],
     budgetSetups: {
       budget: {
         price: "$1,000",
@@ -4066,18 +4055,7 @@ What sets Mike apart from other technical drummers is his orchestral dynamic ran
         "Skipping basic rudiment development — all his complex patterns derive from fundamental sticking patterns"
       ]
     },
-    videos: [
-      {
-        title: "Mike Mangini - On the Backs of Angels (Drum Cam, 2011)",
-        url: "https://www.youtube.com/watch?v=Gx7rj5_kD9o",
-        description: "Mike's Dream Theater debut performance — technical complexity in service of the song"
-      },
-      {
-        title: "Mike Mangini Drum Solo (Drumeo)",
-        url: "https://www.youtube.com/watch?v=CUc93T9y_W8",
-        description: "Full demonstration of his subdivision vocabulary and independence technique"
-      }
-    ],
+    videos: [],
     budgetSetups: {
       budget: {
         price: "$1,200",
@@ -4340,18 +4318,7 @@ His dynamic contrast ranges from near-inaudible snare brush textures to enormous
         "Playing fills with simultaneous hits — linear technique requires true isolation"
       ]
     },
-    videos: [
-      {
-        title: "Gavin Harrison - Drum Clinic Polyrhythm Demonstration",
-        url: "https://www.youtube.com/watch?v=PbBrPfvCJ0U",
-        description: "Gavin demonstrates his grid-based polyrhythm approach with clear explanation"
-      },
-      {
-        title: "Porcupine Tree - Arriving Somewhere But Not Here (Live)",
-        url: "https://www.youtube.com/watch?v=Rz4qRRy8q1g",
-        description: "Gavin's dynamic range and polyrhythmic approach in full-band context"
-      }
-    ],
+    videos: [],
     budgetSetups: {
       budget: {
         price: "$1,000",

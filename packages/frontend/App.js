@@ -2624,8 +2624,8 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         howToScript.textContent = JSON.stringify(howToSchema);
       }
 
-      // Add FAQPage schema for album articles with faq data (Issue #1449)
-      if (list.isAlbumArticle && Array.isArray(list.faq) && list.faq.length > 0) {
+      // Add FAQPage schema for list pages with faq data (Issue #1449 album articles; Issue #2344 genre lists)
+      if (Array.isArray(list.faq) && list.faq.length > 0) {
         const faqPageSchema = {
           "@context": "https://schema.org",
           "@type": "FAQPage",

@@ -1,0 +1,186 @@
+name: Check indexation health
+
+# L3 — Indexation Health verifier. For each URL in metalforge.io/sitemap.xml,
+# calls the Search Console URL Inspection API and classifies the index status.
+# Outputs:
+#   - .agents/seo/indexation-snapshot.md (every inspected URL, by class)
+#   - Umbrella issue `indexation-watch` (actionable rows only)
+#   - .agents/seo/indexation-history/YYYY-MM-DD.json (next run's baseline)
+#
+# Quota: URL Inspection API is 2000/day per property. Default cap is 500/run
+# (top-priority URLs from the sitemap). Configurable via --max-urls.
+#
+# Secrets reused: GA_SERVICE_ACCOUNT_JSON + GSC_SITE.
+
+on:
+  workflow_dispatch:
+    inputs:
+      max-urls:
+        description: 'Max URLs to inspect this run (cap)'
+        required: false
+        default: '500'
+  schedule:
+    # Mondays 09:00 UTC, after L1 (08:00), L2 (07:30), broken-images (06:30).
+    - cron: '0 9 * * 1'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: check-indexation
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install project deps (for googleapis)
+        run: npm ci --no-audit --no-fund
+
+      - name: Configure git author
+        run: |
+          git config user.name "Ricardo Parro"
+          git config user.email "ricardo.parro@gmail.com"
+
+      - name: Write GSC service-account credentials
+        env:
+          GA_JSON: ${{ secrets.GA_SERVICE_ACCOUNT_JSON }}
+        run: |
+          mkdir -p "$RUNNER_TEMP/gcp"
+          printf '%s' "$GA_JSON" > "$RUNNER_TEMP/gcp/metrics.json"
+          chmod 600 "$RUNNER_TEMP/gcp/metrics.json"
+
+      - name: Run indexation crawler
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/gcp/metrics.json
+          GSC_SITE: ${{ secrets.GSC_SITE }}
+          MAX_URLS: ${{ inputs.max-urls || '500' }}
+        run: |
+          node .agents/scripts/check-indexation.cjs \
+            --history-dir .agents/seo/indexation-history \
+            --max-urls "$MAX_URLS" \
+            --out indexation.json
+
+      - name: Render issue body + snapshot
+        run: |
+          node .agents/scripts/render-indexation-issue.cjs \
+            --report indexation.json \
+            --issue issue-body.md \
+            --snapshot .agents/seo/indexation-snapshot.md
+
+      - name: Ensure umbrella label exists
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create indexation-watch \
+            --repo "${{ github.repository }}" \
+            --color FBCA04 \
+            --description "Auto-managed by check-indexation.yml — single umbrella issue per repo" \
+            2>/dev/null || true
+
+      - name: Summarize
+        id: summary
+        run: |
+          ACTIONABLE=$(cat /tmp/indexation-actionable-count.txt 2>/dev/null || echo 0)
+          echo "actionable=${ACTIONABLE}" >> "$GITHUB_OUTPUT"
+          node -e '
+            const r = require("./indexation.json");
+            const fs = require("fs");
+            const indexedCount = (r.counts.indexed||0) + (r.counts["indexed-with-issues"]||0) + (r.counts["indexed-not-in-sitemap"]||0);
+            fs.appendFileSync(process.env.GITHUB_OUTPUT,
+              `indexed=${indexedCount}\ninspected=${r.inspectedCount}\nsitemap_total=${r.sitemapUrlCount}\n`);
+          '
+
+      - name: Find existing umbrella issue
+        id: existing
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          n=$(gh issue list \
+                --repo "${{ github.repository }}" \
+                --state open \
+                --label indexation-watch \
+                --json number,title \
+                --jq '[.[] | select(.title | startswith("Indexation"))][0].number // ""')
+          echo "number=$n" >> "$GITHUB_OUTPUT"
+
+      - name: Open / update / close umbrella issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACTIONABLE: ${{ steps.summary.outputs.actionable }}
+          INDEXED: ${{ steps.summary.outputs.indexed }}
+          INSPECTED: ${{ steps.summary.outputs.inspected }}
+          SITEMAP_TOTAL: ${{ steps.summary.outputs.sitemap_total }}
+          EXISTING: ${{ steps.existing.outputs.number }}
+        run: |
+          set -euo pipefail
+          if [ "$ACTIONABLE" = "0" ]; then
+            if [ -n "$EXISTING" ]; then
+              echo "No actionable rows — closing issue #$EXISTING."
+              gh issue close "$EXISTING" \
+                --repo "${{ github.repository }}" \
+                --comment "🤖 Weekly indexation check on $(date -u +%Y-%m-%d): 0 actionable rows. Indexed: ${INDEXED}/${INSPECTED} of ${SITEMAP_TOTAL} total. Closing."
+            else
+              echo "All clear, no existing issue."
+            fi
+          else
+            TITLE="Indexation watch — ${ACTIONABLE} actionable, ${INDEXED}/${INSPECTED} indexed"
+            if [ -n "$EXISTING" ]; then
+              echo "Updating #$EXISTING."
+              gh issue edit "$EXISTING" \
+                --repo "${{ github.repository }}" \
+                --title "$TITLE" \
+                --body-file issue-body.md
+              gh issue comment "$EXISTING" \
+                --repo "${{ github.repository }}" \
+                --body "🤖 Weekly indexation check refreshed $(date -u +%Y-%m-%dT%H:%MZ): ${ACTIONABLE} actionable, ${INDEXED}/${INSPECTED} indexed."
+            else
+              echo "Opening new umbrella issue."
+              gh issue create \
+                --repo "${{ github.repository }}" \
+                --title "$TITLE" \
+                --body-file issue-body.md \
+                --label indexation-watch \
+                --label seo-proposal
+            fi
+          fi
+
+      - name: Commit snapshot + history
+        run: |
+          git add .agents/seo/indexation-snapshot.md .agents/seo/indexation-history/
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git commit -m "seo: refresh indexation snapshot [skip ci]"
+          for attempt in 1 2 3 4; do
+            if git push origin HEAD:${{ github.ref_name }}; then
+              echo "Pushed on attempt $attempt"; break
+            fi
+            echo "Push attempt $attempt failed; sleeping $((attempt * 2))s"
+            sleep $((attempt * 2))
+            git pull --rebase origin ${{ github.ref_name }} || true
+          done
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: indexation-${{ github.run_id }}
+          path: |
+            indexation.json
+            issue-body.md
+            .agents/seo/indexation-snapshot.md
+          retention-days: 90
+          if-no-files-found: ignore

@@ -311,6 +311,13 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <!-- Issue #2431: Brotherhood of the Snake drum setup (Gene Hoglan, Testament 2016) -->
+  <url>
+    <loc>https://metalforge.io/articles/brotherhood-of-the-snake-drum-setup</loc>
+    <lastmod>2026-06-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
   <url>
     <loc>https://metalforge.io/articles/far-beyond-driven-drum-setup</loc>
     <lastmod>2026-06-25</lastmod>

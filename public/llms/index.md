@@ -276,6 +276,7 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/whats-in-matt-halperns-kit.md) |
 | Matt Greiner — Signature Drum Licks & Technique Guide (6 lick pages: blast-to-groove, polyrhythm, double bass) | Matt Greiner | [Markdown](https://metalforge.io/llms/articles/matt-greiner-licks.md) |
 | Joey Jordison — Signature Drum Licks & Technique Guide (6 lick pages: Iowa double bass, snare displacement, blast beat) | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/joey-jordison-licks.md) |
+| Brotherhood of the Snake Drum Setup: Gene Hoglan Returns to Testament (2016) | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/brotherhood-of-the-snake-drum-setup.md) |
 
 ---
 

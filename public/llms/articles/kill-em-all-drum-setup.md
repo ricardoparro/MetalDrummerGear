@@ -74,6 +74,12 @@ This mixed approach would change on subsequent albums. By Master of Puppets, Lar
 - Estimated kit value: $300-500 (1983) / $800-1,500 (vintage today if in good condition)
 - Estimated snare value: $100-200 (1983) / $300-500 (vintage today)
 
+## Internal Links
+
+- [Lars Ulrich — Drummer Profile](/llms/drummers/lars-ulrich.md)
+- [Master of Puppets Drum Setup — 1986 (Camco Oaklawn Badge era)](/llms/articles/master-of-puppets-drum-setup.md)
+- [...And Justice for All Drum Setup — 1988 (Tama Artstar II era)](/llms/articles/and-justice-for-all-drum-setup.md)
+
 **Source:** https://metalforge.io/articles/kill-em-all-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)

@@ -73,6 +73,12 @@ The 18" China cymbal is essential for Behemoth's sound. Those trashy, explosive 
 - Estimated kit value: $5,000-8,000 (Reference Pure custom configuration)
 - Estimated snare value: $500-700 (Pearl Reference snare)
 
+## Inferno Album Drum Setup Articles
+
+- [Demigod drum setup (2004)](/articles/demigod-drum-setup) — Pearl Masters BRX, Paiste Signature Dark Energy, Pearl Eliminator, 240+ BPM
+- [Evangelion drum setup (2009)](/articles/evangelion-drum-setup) — Tama Starclassic Maple, Meinl Byzance Dark, Axis A Longboard
+- [The Satanist drum setup (2014)](/articles/the-satanist-drum-setup) — Tama Starclassic Maple, Pearl Masterworks snare, Meinl Classics Custom Dark
+
 **Source:** https://metalforge.io/articles/whats-in-infernos-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)

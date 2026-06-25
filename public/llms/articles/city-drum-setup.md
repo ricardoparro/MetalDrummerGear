@@ -72,6 +72,29 @@ The 20" A Custom Ride provided the articulate bell work that appears in "City"'s
 - Estimated kit value: $2,800-3,800 (1997)
 - Estimated snare value: $400-550 (1997)
 
+## FAQ
+
+**What drums did Gene Hoglan use on Strapping Young Lad City?**
+Gene Hoglan recorded Strapping Young Lad's City (1997) using a Tama Artstar II kit — the same birch-shell series he used on Death's Symbolic (1995). His configuration included two 22" x 16" bass drums for his independent double-kick setup, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. Cymbals were Zildjian A Custom series. His snare was a Pearl Free-Floating Steel at 14" x 6.5", tuned medium-high. The acoustic kit was augmented with a Roland SPD-20 Total Percussion Pad mounted on his rack for industrial electronic percussion integration.
+
+**Did Gene Hoglan use electronic drums on City?**
+Yes — City is notable for integrating a Roland SPD-20 Total Percussion Pad with Gene Hoglan's acoustic kit in a way no previous extreme metal album had attempted. The SPD-20, mounted on Hoglan's rack, triggered industrial percussion samples and electronic hits that Devin Townsend and co-producer Dave Ogilvie programmed for the recording. Rather than running as a separate machine, the SPD-20 was an instrument Hoglan played during the sessions — triggering samples at specific compositional moments while maintaining the organic acoustic foundation of the Tama Artstar II.
+
+**How did Strapping Young Lad get that drum sound on City?**
+The drum sound on City was produced by Devin Townsend and industrial music pioneer Dave Ogilvie, recorded at The Greenhouse in Vancouver. Ogilvie's industrial production background (Skinny Puppy, Front Line Assembly) shaped the approach: more aggressive drum processing than typical extreme metal, a mechanical character that treated the acoustic kit as a precision percussion tool rather than a warm acoustic instrument. The Pearl Free-Floating snare's natural brightness provided the human element within the compressed industrial mix. The Roland SPD-20 line output was routed directly to the console and mixed alongside the acoustic drum capture.
+
+## Related Albums
+
+- [Individual Thought Patterns drum setup](/articles/individual-thought-patterns-drum-setup) — 1993, Gene Hoglan's Death debut; DW Collector's Series kit, Morrisound production
+- [Symbolic drum setup](/articles/symbolic-drum-setup) — 1995, Death's progressive peak; Tama Artstar II (same shells as City), Paiste 2002/RUDE cymbals
+- [Gene Hoglan kit profile](/articles/whats-in-gene-hoglans-kit) — complete career gear overview, modern Pearl Reference Pure setup
+
+## Structured Data (LLM Reference)
+
+**Person:** Gene Hoglan — drummer, Strapping Young Lad, Death, Dark Angel, Testament; nickname "The Atomic Clock"; primary instrument drums; genre extreme metal / industrial metal / thrash metal
+**MusicAlbum:** City — Strapping Young Lad (Century Media Records, April 22, 1997); genre industrial metal / extreme metal; notable tracks: All Hail the New Flesh, Oh My Fucking God, Detox, Room 429, Home Nucleonics
+**MusicGroup:** Strapping Young Lad — Canadian industrial/extreme metal band; formed 1994; leader Devin Townsend; members Gene Hoglan (drums), Jed Simon (guitar), Byron Stroud (bass)
+
 **Source:** https://metalforge.io/articles/city-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)

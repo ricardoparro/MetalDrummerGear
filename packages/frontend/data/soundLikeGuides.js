@@ -6922,15 +6922,16 @@ export function generateGuideSchema(guide) {
     });
   }
 
+  // model/series fields already include the brand name, so use them directly
   const supply = guide.gear?.drumKit ? [
-    { "@type": "HowToSupply", "name": `${guide.gear.drumKit.brand} ${guide.gear.drumKit.model}` }
-  ].filter(s => s.name !== 'undefined undefined') : [];
+    { "@type": "HowToSupply", "name": guide.gear.drumKit.model }
+  ].filter(s => s.name && s.name !== 'undefined') : [];
 
   const tools = guide.gear ? [
-    guide.gear.sticks ? { "@type": "HowToTool", "name": `${guide.gear.sticks.brand} ${guide.gear.sticks.model}` } : null,
-    guide.gear.cymbals ? { "@type": "HowToTool", "name": `${guide.gear.cymbals.brand} ${guide.gear.cymbals.series}` } : null,
-    guide.gear.pedals ? { "@type": "HowToTool", "name": `${guide.gear.pedals.brand} ${guide.gear.pedals.model}` } : null,
-  ].filter(t => t && t.name !== 'undefined undefined') : [];
+    guide.gear.sticks ? { "@type": "HowToTool", "name": guide.gear.sticks.model } : null,
+    guide.gear.cymbals ? { "@type": "HowToTool", "name": guide.gear.cymbals.series } : null,
+    guide.gear.pedals ? { "@type": "HowToTool", "name": guide.gear.pedals.model } : null,
+  ].filter(t => t && t.name && t.name !== 'undefined') : [];
 
   return {
     "@context": "https://schema.org",

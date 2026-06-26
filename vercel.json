@@ -339,7 +339,6 @@
   ],
   "rewrites": [
     { "source": "/robots.txt", "destination": "/api/robots" },
-    { "source": "/sitemap.xml", "destination": "/api/sitemap" },
     { "source": "/video-sitemap.xml", "destination": "/api/video-sitemap" },
     { "source": "/.well-known/api-catalog", "destination": "/api/api-catalog" },
     { "source": "/facts", "destination": "/api/facts" },

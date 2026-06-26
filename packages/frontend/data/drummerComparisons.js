@@ -735,6 +735,70 @@ export const drummerComparisons = {
     },
     verdict: 'George Kollias and Tomas Haake pursue technical mastery from opposite directions — Kollias through pure kinetic speed, Haake through polyrhythmic complexity. Both operate at the limits of human drumming capability. The debate is really between two philosophies: raw velocity vs mathematical precision.',
   },
+
+  // Issue #2673: SEO batch 19 — prog, extreme, and modern-tech subgenre pairs
+  'gavin-harrison-vs-danny-carey': {
+    slug: 'gavin-harrison-vs-danny-carey',
+    title: 'Gavin Harrison vs Danny Carey',
+    metaTitle: 'Gavin Harrison vs Danny Carey — Progressive Metal Drumming Compared | MetalForge',
+    metaDescription: 'Gavin Harrison (Porcupine Tree / King Crimson) vs Danny Carey (Tool) — two of progressive metal\'s most cerebral drummers. Polyrhythms, gear, and technique compared.',
+    category: 'progressive',
+    drummers: ['gavin-harrison', 'danny-carey'],
+    comparison: {
+      style: 'Gavin Harrison constructs intricate progressive rock grooves with masterful ghost notes and polyrhythmic layers drawn from deep musical instinct — his work with Porcupine Tree and King Crimson is defined by elegant restraint within complex time. Danny Carey builds hypnotic, spiritually charged progressive metal with polyrhythmic patterns grounded in Fibonacci sequences, sacred geometry, and occult numerology that shape every Tool composition.',
+      technique: 'Harrison specializes in linear drumming, polyrhythmic layering, and ghost-note weaving through odd time signatures — his ability to make technically impossible grooves feel natural is his defining gift. Carey integrates custom Mandala electronic pads with acoustic drumming and uses mathematical frameworks (Tool\'s Lateralus famously follows the Fibonacci sequence) to construct epic, slow-building compositions.',
+      gear: 'Harrison plays Pearl Reference drums with Paiste Signature cymbals and a Vic Firth Gavin Harrison Signature stick — a refined setup built for clarity and articulation. Carey plays Sonor SQ2 Heavy Beech drums with Paiste Signature cymbals and custom Mandala electronic pads, plus a 14x8" deep bronze snare that gives Tool its cavernous low-end.',
+      influence: 'Harrison elevated Porcupine Tree, King Crimson, and The Pineapple Thief with multiple Modern Drummer Reader Poll wins and a reputation as the prog drummer\'s drummer — his polyrhythmic teaching content has spread complex rhythmic ideas to a generation of students. Carey defined Tool\'s sonic universe across six studio albums and influenced an entire generation of prog drummers toward mathematical, spiritual approaches to composition.',
+    },
+    verdict: 'Gavin Harrison and Danny Carey represent two philosophical poles of progressive drumming excellence. Harrison is the craftsman-musician who makes impossible polyrhythms feel like natural conversation — his drumming serves the music so transparently the technical difficulty is invisible until you try to copy it. Carey is the shaman-mathematician who turned Tool\'s albums into percussive spiritual experiences built on sacred numerical laws. Both are irreplaceable.',
+    faqs: [
+      { q: 'Who is more technical: Gavin Harrison or Danny Carey?', a: 'Both are elite technicians. Harrison excels in polyrhythmic layering and linear drumming; Carey dominates in polyrhythmic groove and improvisation at extreme tempos.' },
+      { q: 'What kits do Gavin Harrison and Danny Carey play?', a: 'Harrison plays a Pearl Reference kit with Paiste cymbals; Carey is known for his massive Sonor SQ2 Heavy Beech kit with Paiste cymbals and custom Mandala electronic pads.' },
+      { q: 'Which drummer has a more complex style?', a: 'Carey\'s odd-time compositions (Tool\'s Lateralus follows the Fibonacci sequence) are considered among the most mathematically complex ever recorded; Harrison\'s polyrhythmic precision in Porcupine Tree and King Crimson has equally staggered musicologists.' },
+    ],
+  },
+
+  'inferno-vs-flo-mounier': {
+    slug: 'inferno-vs-flo-mounier',
+    title: 'Inferno vs Flo Mounier',
+    metaTitle: 'Inferno vs Flo Mounier — Extreme Metal Blast Beat Masters | MetalForge',
+    metaDescription: 'Inferno (Behemoth) vs Flo Mounier (Cryptopsy) — the two most technically demanding extreme metal drummers of their generation. Blast speed, endurance, and gear compared.',
+    category: 'extreme',
+    drummers: ['inferno', 'flo-mounier'],
+    comparison: {
+      style: 'Inferno (Zbigniew Robert Promiński) delivers controlled, enduring brutality as Behemoth\'s drummer — his black/death metal playing is defined by relentless blast beats, precise double bass, and a machine-like consistency that holds up across marathon live sets. Flo Mounier defined the technical death metal blast beat with Cryptopsy — his playing on *None So Vile* set a benchmark for sheer velocity and complexity that still stands as one of the most demanding recorded drum performances in extreme metal.',
+      technique: 'Inferno uses a Moeller-influenced technique with single-stroke blast beats optimized for endurance rather than maximum tempo — his genius is sustaining ferocious speeds across full live sets night after night. Flo Mounier employs a gravity blast technique that enabled the record-setting blast tempos on *None So Vile* and combines jazz-influenced timing with death metal brutality, giving his playing a swing and fluidity that sets him apart from pure speed merchants.',
+      gear: 'Inferno plays Pearl Reference Pure drums with Paiste Signature/2002 cymbals — a powerful, high-endurance setup that translates Behemoth\'s massive live sound. Flo Mounier uses a Tama Starclassic kit with Sabian cymbals, a combination built for the precise, cutting response his technical death metal demands.',
+      influence: 'Inferno has been Behemoth\'s rhythmic backbone across 20+ years and their rise from underground black metal to one of metal\'s biggest live draws — his playing is the engine of one of extreme metal\'s most important bands. Flo Mounier\'s *None So Vile* performance is regularly cited as one of the greatest extreme metal drum recordings of all time, and his technical death metal vocabulary influenced an entire generation of death metal drummers worldwide.',
+    },
+    verdict: 'Inferno and Flo Mounier are the blast-beat kings of their respective corners of extreme metal. Flo Mounier holds the edge in peak velocity and technical death metal complexity — *None So Vile* remains a benchmark 30 years later. Inferno holds the edge in controlled endurance and live consistency — Behemoth\'s touring schedule is punishing, and Inferno delivers every night. The debate is speed peak vs sustained power.',
+    faqs: [
+      { q: 'Who is faster: Inferno or Flo Mounier?', a: 'Both push the limits of human drumming. Flo set records with None So Vile blast tempos; Inferno\'s endurance across brutal live sets is legendary.' },
+      { q: 'What kits do Inferno and Flo Mounier use?', a: 'Inferno plays a Pearl Reference Pure kit with Paiste cymbals; Flo uses a Tama Starclassic kit with Sabian cymbals.' },
+      { q: 'Which drummer has more technical diversity?', a: 'Flo Mounier has more jazz and groove crossover; Inferno excels in controlled brutality and live consistency across extreme tempos.' },
+    ],
+  },
+
+  'mike-mangini-vs-matt-garstka': {
+    slug: 'mike-mangini-vs-matt-garstka',
+    title: 'Mike Mangini vs Matt Garstka',
+    metaTitle: 'Mike Mangini vs Matt Garstka — Modern Technical Prog Drumming | MetalForge',
+    metaDescription: 'Dream Theater\'s Mike Mangini vs Animals as Leaders\' Matt Garstka — the two most technically acclaimed progressive metal drummers of the 2010s compared.',
+    category: 'progressive',
+    drummers: ['mike-mangini', 'matt-garstka'],
+    comparison: {
+      style: 'Mike Mangini brings a record-breaking speed specialist\'s discipline to Dream Theater\'s progressive metal — his playing combines Guinness World Record tempos with complex metric modulation and the compositional demands of one of prog metal\'s most technically rigorous bands. Matt Garstka brings extended technique and ghost-note density to Animals as Leaders\' djent-influenced progressive metal — his groove-centric framework integrates hand technique complexity into a modern, effects-driven sound.',
+      technique: 'Mangini specializes in speed records and complex metric modulation within a band context, developing proprietary techniques for speed development that he teaches through his Speed and Dexterity instructional series. Garstka focuses on extended hand technique, ghost-note density, and creative integration of electronics and effects within Animals as Leaders\' intricate compositional framework.',
+      gear: 'Mangini plays Pearl Masters MCX drums with Zildjian cymbal series — a powerful, projection-focused setup suited to Dream Theater\'s arena-scale progressive metal. Garstka plays Pearl Reference drums with Sabian cymbals and electronic pads, a combination that balances acoustic power with the electronic integration Animals as Leaders\' modern sound requires.',
+      influence: 'Mangini holds multiple Guinness World Records for drumming speed and stepped into one of the most scrutinized drum chairs in metal history — replacing Mike Portnoy in Dream Theater — and delivered across multiple albums and world tours. Garstka has become one of the most-watched young drummers in progressive metal through his YouTube content and Animals as Leaders\' global reach, representing the new generation of technically sophisticated modern-tech drummers.',
+    },
+    verdict: 'Mike Mangini and Matt Garstka define two different expressions of modern progressive metal drumming excellence. Mangini brings historical speed records and compositional mastery to Dream Theater\'s demanding catalog. Garstka brings creative technique innovation and ghost-note sophistication to Animals as Leaders\' groove-centric framework. Both operate at the technical frontier of what\'s possible behind a drum kit.',
+    faqs: [
+      { q: 'What is the difference between Mike Mangini and Matt Garstka\'s styles?', a: 'Mangini specializes in speed records and complex metric modulation within a band context; Garstka focuses on extended technique and ghost-note density in a groove-centric framework.' },
+      { q: 'What drum kits do Mangini and Garstka use?', a: 'Mangini uses a Pearl Masters MCX kit with Zildjian cymbals; Garstka plays a Pearl Reference kit with Sabian cymbals and electronic pads.' },
+      { q: 'Who has won more speed drumming records?', a: 'Mike Mangini holds several Guinness World Records for drumming speed; Garstka\'s records are in the creative application of technique rather than raw speed.' },
+    ],
+  },
 };
 
 /**

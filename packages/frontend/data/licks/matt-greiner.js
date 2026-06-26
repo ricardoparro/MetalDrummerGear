@@ -419,6 +419,207 @@ export const licks = {
         "foot speed"
       ]
     }
+  },
+  "matt-greiner-constellations-blast-groove": {
+    "slug": "matt-greiner-constellations-blast-groove",
+    "name": "Constellations Blast Groove",
+    "shortName": "Constellations Blast",
+    "drummerId": 32,
+    "drummerName": "Matt Greiner",
+    "drummerSlug": "matt-greiner",
+    "band": "August Burns Red",
+    "song": "White Washed",
+    "album": "Constellations (2009)",
+    "category": "signature-pattern",
+    "style": "metalcore",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 185,
+    "bpmDisplay": "~185 BPM",
+    "timeSignature": "4/4",
+    "description": "Constellations (2009) is August Burns Red's most acclaimed album, and while tracks like \"Composure\" and \"Meridian\" attract the most attention for their groove and syncopation, the album's most intense passages — centred on tracks like \"White Washed\" — are equally demanding and frequently overlooked by drummers focused on the syncopation-heavy material. \"White Washed\" contains some of Matt Greiner's most focused blast-groove work on the record: fast, driving blast passages that transition seamlessly into the riff-locked grooves that define the band's signature sound. Greiner's blast approach on Constellations is more refined than raw metalcore urgency — he executes clean, alternating strokes at high velocity while maintaining awareness of the riff's trajectory, so the blast always feels like an intensification of the groove rather than a departure from it. The song sits at approximately 185 BPM in its most intense sections, demanding a blast execution that is both technically clean and musically purposeful: every stroke serves the wall of sound the band is building rather than racing ahead or trailing behind. What makes this an important study separate from the polyrhythmic or syncopated aspects of Constellations is that it isolates Greiner's ability to sustain maximum intensity while staying locked to the band. The Constellations production — punchy, precise, and dynamically detailed — means every kick stroke is clearly audible in the mix, raising the technical bar: there is no hiding behind a blurring sound in this recording. For drummers, this lick develops the high-speed blast stamina and musical awareness that metalcore demands at its most intense: the ability to generate maximum energy while remaining connected to what the guitars and bass are doing. It is essential study for anyone who wants to understand how Greiner approaches the most demanding moments on his most celebrated record.",
+    "techniques": [
+      "blast-beat",
+      "groove-drumming",
+      "double-bass"
+    ],
+    "techniqueDetails": [
+      "Execute clean, alternating blast strokes at high velocity without losing awareness of the riff's direction",
+      "Keep the blast locked to the band — use the guitars and bass as a reference even at speed",
+      "Sustain the blast intensity for full song sections rather than losing control before the transition",
+      "Move cleanly from blast to groove when the riff drops — the transition is as important as the blast itself",
+      "Study the Constellations mix to understand how clearly every stroke registers — aim for that level of precision"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "Tama Star Series Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Meinl Byzance Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Tama Speed Cobra Pedals",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Build blast stamina with timed bursts: 15 seconds, then 30, then 60 seconds at the full song tempo",
+      "Practise the blast-to-groove transition separately — isolate the gear-change moment until it is automatic",
+      "Use a loop of the guitar riff as your click so the blast stays locked to the band",
+      "Focus on consistency of each stroke rather than raw speed — evenness at 90% tempo beats ragged playing at full speed"
+    ],
+    "seo": {
+      "title": "Matt Greiner Constellations Blast Groove - August Burns Red Drum Tutorial | MetalForge",
+      "description": "Learn Matt Greiner's blast groove from August Burns Red's Constellations. Blast technique, stamina tips, and metalcore drumming breakdown.",
+      "keywords": [
+        "matt greiner",
+        "constellations blast",
+        "august burns red",
+        "blast beat metalcore",
+        "white washed drums",
+        "metalcore drumming"
+      ]
+    }
+  },
+  "matt-greiner-leveler-polyrhythm": {
+    "slug": "matt-greiner-leveler-polyrhythm",
+    "name": "Leveler 5-Over-4 Polyrhythm",
+    "shortName": "Leveler Polyrhythm",
+    "drummerId": 32,
+    "drummerName": "Matt Greiner",
+    "drummerSlug": "matt-greiner",
+    "band": "August Burns Red",
+    "song": "Pangaea",
+    "album": "Leveler (2011)",
+    "category": "signature-pattern",
+    "style": "metalcore",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 165,
+    "bpmDisplay": "~165 BPM",
+    "timeSignature": "4/4 with 5-over-4 polyrhythm",
+    "description": "August Burns Red's 2011 album Leveler pushed Matt Greiner's rhythmic vocabulary into new territory, incorporating metric complexity and polyrhythmic passages that went well beyond the syncopated riff-locking of the Constellations era. \"Pangaea,\" one of the album's most technically demanding tracks, features the kind of 5-over-4 polyrhythmic writing that separates elite metalcore drumming from its competent but less adventurous peers. The 5-over-4 polyrhythm — where a five-note rhythmic pattern is layered over a foundation of four beats — creates a shifting, hypnotic momentum that feels unstable in the best possible way: the two layers pull against each other before snapping back to alignment, producing a moment of resolution with enormous rhythmic impact when it arrives. Greiner's approach to this material is characteristically musical: he does not play polyrhythms as abstract exercises but as expressions of the band's compositional intent, so the rhythmic complexity always serves the song's emotional arc rather than calling attention to itself. On Leveler, the band worked closely with Greiner to develop parts that challenged his polyrhythmic capabilities, and \"Pangaea\" represents some of the most detailed results — a track where the 5-over-4 pattern interacts with double-bass figures and snare accents in a way that rewards careful listening even after multiple plays. The technical challenge is substantial: simultaneously maintaining the five-note pattern in one rhythmic layer while the other limbs hold the four-beat reference demands the kind of limb independence that only dedicated, isolated practice can develop. Greiner's clinic discussions of this approach consistently emphasise feeling the composite rhythm as a whole rather than managing each layer separately — once the pattern is internalised at slow tempo, the body learns to navigate the cycle naturally. For drummers, this lick builds limb independence, subdivisions, and the patience to work through one of the most transferable and musically rewarding techniques in advanced drumming.",
+    "techniques": [
+      "odd-time-signatures",
+      "double-bass",
+      "groove-drumming"
+    ],
+    "techniqueDetails": [
+      "Anchor one rhythmic layer — typically the hi-hat — to the pulse as a fixed reference point",
+      "Build the 5-note cross-pattern independently in the feet before combining with the hands",
+      "Feel the composite rhythm as a whole rather than managing each layer as a separate mechanical exercise",
+      "Start at 50% tempo and work through the 5-over-4 cycle until the resolution point feels natural",
+      "Lock the return to the main pulse at the end of each polyrhythmic phrase until re-entry is automatic"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "Ludwig Classic Maple Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Paiste 2002 Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "DW 9000 Double Pedal",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Clap the 5-over-4 pattern slowly with a metronome until both layers are internalised separately",
+      "Use two metronomes or a polyrhythm app to hear both rhythmic layers simultaneously",
+      "Build from one bar of the polyrhythm at a time — two bars, then four — before attempting the full passage",
+      "Practise returning to the main pulse at the end of each cycle until re-entry feels completely automatic"
+    ],
+    "seo": {
+      "title": "Matt Greiner Leveler Polyrhythm - August Burns Red Drum Tutorial | MetalForge",
+      "description": "Learn Matt Greiner's 5-over-4 polyrhythm from August Burns Red's Leveler. Cross-rhythm breakdown and advanced metalcore drumming technique tips.",
+      "keywords": [
+        "matt greiner polyrhythm",
+        "leveler drums",
+        "august burns red",
+        "5 over 4 polyrhythm",
+        "metalcore drumming",
+        "odd time signatures"
+      ]
+    }
+  },
+  "matt-greiner-messengers-intro-groove": {
+    "slug": "matt-greiner-messengers-intro-groove",
+    "name": "Messengers Debut Intro Groove",
+    "shortName": "Messengers Intro",
+    "drummerId": 32,
+    "drummerName": "Matt Greiner",
+    "drummerSlug": "matt-greiner",
+    "band": "August Burns Red",
+    "song": "Existence",
+    "album": "Messengers (2007)",
+    "category": "main-groove",
+    "style": "metalcore",
+    "difficulty": "advanced",
+    "difficultyRating": 4,
+    "bpm": 165,
+    "bpmDisplay": "~165 BPM",
+    "timeSignature": "4/4",
+    "description": "\"Existence\" opens August Burns Red's 2007 album Messengers and is the groove that introduced Matt Greiner to the wider metalcore world. Messengers was the record that established August Burns Red as one of the genre's essential bands, and Greiner's drumming throughout was immediately recognised as exceptional — not just technically precise but musically sophisticated in a way that metalcore rarely achieved at that point in its development. The intro groove of \"Existence\" captures exactly what made Greiner's playing so compelling from the start: a confident, driving metalcore groove that uses double-bass figures to propel the riff without overwhelming the melody, tight hi-hat work that keeps the feel moving rather than merely pummelling, and clean, articulate fill placement that announces a drummer who understands arrangement as much as technique. The pattern itself is not as technically demanding as the blast-to-groove transitions or the polyrhythmic passages Greiner would develop in later albums, but that is precisely what makes it such a valuable study: it reveals the foundational approach — the groove intelligence, the riff-locking instinct, and the musical restraint — that underpins all the more complex material to come. Learning the intro groove of \"Existence\" means understanding how Greiner builds a metalcore part from the ground up: he establishes a clear, purposeful relationship between the kick and the riff, adds a strong and consistent snare backbeat, then decorates with hi-hat and ride choices that mark the sections without cluttering them. Fills arrive exactly where the arrangement needs them and land precisely on the downbeat, a habit that remains consistent across his entire recorded output. For drummers, this lick is the ideal entry point into Greiner's style: accessible enough to begin without months of preparation, yet deep enough to teach the groove intelligence and musical discipline that define his best playing.",
+    "techniques": [
+      "groove-drumming",
+      "double-bass",
+      "fill-techniques"
+    ],
+    "techniqueDetails": [
+      "Build the riff-kick relationship first — know where the riff accents fall before adding the backbeat",
+      "Hold a strong, consistent snare on beats 2 and 4 while the kick carries the rhythmic complexity",
+      "Mark section changes with hi-hat and ride variations rather than relying on fills alone",
+      "Place fills exactly where the arrangement calls for them — landing cleanly on the downbeat is non-negotiable",
+      "Listen for the relationship between the bass guitar and the kick — Greiner locks both to the riff simultaneously"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "Tama Star Series Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Meinl Byzance Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Tama Speed Cobra Pedals",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Play along with Messengers from the first bar — the intro groove sets up every pattern that follows on the album",
+      "Map each section's kick pattern before playing at full speed so you know what is coming",
+      "Practise the fills in isolation, then place them back into the groove at tempo",
+      "Record yourself and check that the kick consistently lines up with the guitar riff throughout"
+    ],
+    "seo": {
+      "title": "Matt Greiner Messengers Intro Groove - August Burns Red Drum Tutorial | MetalForge",
+      "description": "Learn Matt Greiner's debut signature groove from August Burns Red's Messengers. Riff-locked metalcore technique and foundation-building drumming tips.",
+      "keywords": [
+        "matt greiner",
+        "messengers drums",
+        "august burns red",
+        "metalcore groove",
+        "existence drums",
+        "metalcore drumming tutorial"
+      ]
+    }
   }
 };
 

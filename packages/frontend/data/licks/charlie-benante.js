@@ -218,6 +218,207 @@ export const licks = {
         "among the living"
       ]
     }
+  },
+  "charlie-benante-among-the-living-thrash-groove": {
+    "slug": "charlie-benante-among-the-living-thrash-groove",
+    "name": "Among the Living Thrash Groove",
+    "shortName": "I Am the Law",
+    "drummerId": 12,
+    "drummerName": "Charlie Benante",
+    "drummerSlug": "charlie-benante",
+    "band": "Anthrax",
+    "song": "I Am the Law",
+    "album": "Among the Living (1987)",
+    "category": "main-groove",
+    "style": "thrash-metal",
+    "difficulty": "advanced",
+    "difficultyRating": 4,
+    "bpm": 190,
+    "bpmDisplay": "~190 BPM",
+    "timeSignature": "4/4",
+    "description": "\"I Am the Law\" from Anthrax's 1987 album Among the Living is one of the great drum performances in the thrash metal canon, overshadowed only by the album's more widely covered tracks but no less accomplished or instructive. Inspired by the Judge Dredd comic and built around one of Scott Ian's most relentless riffs, the song is a seven-minute epic that demands sustained excellence from the drummer across multiple sections and tempos. Benante drives it across every passage with a mastery of pacing and groove that keeps the listener locked in despite the extended running time — the mark of a drummer who thinks architecturally about a song's structure rather than just executing one pattern after another. The main thrash groove is quintessential Benante: a driving, riff-locked kick pattern at approximately 190 BPM, a snapping backbeat that gives the track its urgency, and tight hi-hat work that binds the kit into a single, relentless rhythmic machine pushing the song forward without pause. What distinguishes this groove from the more syncopated or breakdown-driven patterns elsewhere on Among the Living is its pure forward-driving momentum: Benante plays it straight and powerfully, leaning into the riff's galloping quality with a kick pattern that mirrors the guitar's picking without being enslaved to it. Fills arrive sparingly but with devastating placement, announcing the song's numerous section changes and each time lifting the energy rather than disrupting the flow. The song also showcases Benante's efficient double-bass technique from this era: short, purposeful bursts that add velocity to the riff rather than a sustained carpet of kick. For drummers, \"I Am the Law\" is a complete lesson in sustained thrash groove across a long arrangement: it develops foot control, kick-riff locking, the ability to sustain a demanding groove through multiple sections without losing intensity, and the fill vocabulary and placement judgement that comes from deep study of how great thrash drummers serve their songs.",
+    "techniques": [
+      "groove-drumming",
+      "double-bass",
+      "fill-techniques"
+    ],
+    "techniqueDetails": [
+      "Drive the galloping riff with a forward-momentum kick pattern that mirrors the guitar without copying it exactly",
+      "Hold a snapping backbeat that gives the groove its urgency and keeps the band locked in",
+      "Use tight hi-hat work to bind the kit into a single relentless rhythmic machine",
+      "Deploy double-bass bursts purposefully — short, accented figures that add velocity rather than a constant carpet",
+      "Place fills sparingly and with devastating precision to mark the song's section changes"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "Tama Starclassic Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Paiste Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Tama Iron Cobra Double Pedal",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Map the song's seven-minute structure before playing at full speed — know every section change in advance",
+      "Practise the main groove at 70% tempo and lock the kick to the riff before adding any fills",
+      "Work on sustaining the groove across multiple minutes without losing the pocket or the power",
+      "Practise the fills in isolation, then re-insert them at the exact section changes where they belong"
+    ],
+    "seo": {
+      "title": "Charlie Benante I Am the Law - Anthrax Drum Tutorial | MetalForge",
+      "description": "Learn Charlie Benante's quintessential thrash groove from Anthrax's I Am the Law on Among the Living. Sustained groove technique and thrash drumming tips.",
+      "keywords": [
+        "charlie benante",
+        "i am the law drums",
+        "anthrax",
+        "thrash metal groove",
+        "among the living",
+        "thrash drumming tutorial"
+      ]
+    }
+  },
+  "charlie-benante-persistence-of-time-blast": {
+    "slug": "charlie-benante-persistence-of-time-blast",
+    "name": "Persistence of Time Blast Beat",
+    "shortName": "Persistence Blast",
+    "drummerId": 12,
+    "drummerName": "Charlie Benante",
+    "drummerSlug": "charlie-benante",
+    "band": "Anthrax",
+    "song": "Blood",
+    "album": "Persistence of Time (1990)",
+    "category": "signature-pattern",
+    "style": "thrash-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 195,
+    "bpmDisplay": "~195 BPM",
+    "timeSignature": "4/4 (with blast passages)",
+    "description": "Persistence of Time (1990) marks the point where Charlie Benante pushed Anthrax's drumming into genuinely extreme territory, matching the band's darkest and most aggressive writing with a drumming approach that left behind much of the groove-focused accessibility of the earlier records. \"Blood\" is among the most intense performances on the album, showcasing Benante executing blast beats with the kind of controlled power that distinguishes technically mature extreme drumming from raw, barely-held-together urgency. The blast passages in \"Blood\" are fast, even, and precisely deployed — Benante does not lean on the blast as a blunt tool but as a precisely timed dramatic element, arriving in the arrangement exactly when the song needs maximum intensity and then transitioning back to thrash grooves and riff-locked figures with seamless command. By 1990, Benante had been playing at the top of the thrash scene for five years, and the confidence of his blast execution on Persistence of Time reflects that depth of experience: nothing is rushed, nothing is uncertain, everything arrives exactly where it is supposed to with exactly the right dynamic weight. The double-bass figures that underpin the blast sections are equally impressive — rather than a uniform carpet of kick, Benante drives with accented bursts that lock to the guitars and reinforce the rhythmic hits, giving the blasts a physicality that goes beyond tempo alone. In the wider context of 1990's metal landscape, Persistence of Time pushed Anthrax into darker and more extreme territory than the band's fanbase expected, and Benante's drumming was the instrumental engine of that evolution. For drummers, \"Blood\" is an important study in mature blast execution from a seasoned thrash perspective: it builds blast endurance and control, develops the ability to transition cleanly between blast and groove, and teaches how deploying the blast dynamically — arriving with maximum impact, sustaining through the peak, releasing into the groove — serves an arrangement's emotional arc.",
+    "techniques": [
+      "blast-beat",
+      "double-bass",
+      "fill-techniques"
+    ],
+    "techniqueDetails": [
+      "Deploy the blast as a precisely timed dramatic element rather than a continuous technique",
+      "Execute even, controlled blast strokes at high velocity — Benante's precision comes from years of thrash playing",
+      "Drive accented double-bass bursts below the blast to reinforce the riff's rhythmic hits",
+      "Transition cleanly from blast back to riff-locked groove — the gear change must be seamless and confident",
+      "Vary the blast length dynamically — shorter bursts for intensity spikes, sustained blasts for peak passages"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "Tama Starclassic Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Paiste Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Tama Iron Cobra Double Pedal",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Build blast stamina in isolated bursts before attempting full-song sections",
+      "Practise the blast-to-groove transition at 70% tempo until the gear-change is completely clean",
+      "Record and listen critically — Benante's blast is even and controlled, not ragged at the edges",
+      "Study the song's arrangement to know exactly when the blast arrives and what it should accomplish each time"
+    ],
+    "seo": {
+      "title": "Charlie Benante Persistence of Time Blast - Anthrax Drum Tutorial | MetalForge",
+      "description": "Learn Charlie Benante's blast beat approach from Anthrax's Persistence of Time. Controlled blast technique and extreme thrash drumming tips.",
+      "keywords": [
+        "charlie benante",
+        "persistence of time drums",
+        "anthrax",
+        "thrash blast beat",
+        "blood anthrax drums",
+        "extreme thrash drumming"
+      ]
+    }
+  },
+  "charlie-benante-euphoria-groove": {
+    "slug": "charlie-benante-euphoria-groove",
+    "name": "State of Euphoria Mid-Tempo Groove",
+    "shortName": "Be All, End All",
+    "drummerId": 12,
+    "drummerName": "Charlie Benante",
+    "drummerSlug": "charlie-benante",
+    "band": "Anthrax",
+    "song": "Be All, End All",
+    "album": "State of Euphoria (1988)",
+    "category": "main-groove",
+    "style": "thrash-metal",
+    "difficulty": "intermediate",
+    "difficultyRating": 3,
+    "bpm": 156,
+    "bpmDisplay": "~156 BPM",
+    "timeSignature": "4/4",
+    "description": "\"Be All, End All\" opens Anthrax's 1988 album State of Euphoria with a swaggering, mid-tempo groove that is among Charlie Benante's most accessible and instructive drum performances on record. Recorded in the year between the frantic intensity of Among the Living and the darkness of Persistence of Time, State of Euphoria captures the band in a more confident, groove-focused state, and Benante's drumming reflects that assurance: he plays with a relaxed authority that is more difficult to achieve than flat-out thrash assaults. The main groove of \"Be All, End All\" sits at approximately 156 BPM — fast for most drumming contexts but mid-tempo by thrash standards — and it is built on a propulsive, chugging kick pattern that locks to the song's meaty riff. Benante holds a wide, authoritative backbeat, uses the hi-hat to keep the groove swinging forward, and decorates the transitions with tom fills that are confidently placed but never excessive. What makes this groove such a valuable study is its combination of technical demand with musical accessibility: the pattern is achievable for developing drummers but requires real command of groove, fill placement, and dynamic control to play convincingly at the song's original energy level. The State of Euphoria era was a defining period for Benante's rhythmic identity: he was refining the techniques developed on Among the Living and shaping them into a more mature, groove-conscious approach that would inform his playing for the rest of his career. The album was recorded at a pivotal moment for thrash, when bands were beginning to explore more varied tempos and arrangements, and \"Be All, End All\" is a perfect example of how Benante's feel and groove authority could generate excitement at a mid-pace that no amount of pure speed could replicate. For drummers, it is the ideal entry point into the Benante rhythmic vocabulary and into the art of making a mid-tempo groove feel as powerful as a full-speed thrash assault.",
+    "techniques": [
+      "groove-drumming",
+      "double-bass",
+      "fill-techniques"
+    ],
+    "techniqueDetails": [
+      "Lock a propulsive, chugging kick pattern to the mid-paced riff with relaxed authority",
+      "Hold a wide, confident backbeat on 2 and 4 that gives the song its swagger and drive",
+      "Keep the hi-hat tight and consistent so the groove swings forward without losing the metal weight",
+      "Deploy tom fills at the transitions with confidence and precision — each fill should lift the section",
+      "Aim for a relaxed, authoritative feel rather than forced intensity — the groove's power comes from control"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "Tama Starclassic Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Paiste Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Tama Iron Cobra Double Pedal",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Start at 100 BPM and build the groove from the kick-riff relationship up before adding the full kit",
+      "Focus on the relaxed authority of the feel — this groove should swing, not strain",
+      "Keep the hi-hat consistent: any rushing in the hi-hat will undermine the groove's swagger",
+      "Practise the tom fills separately and listen to how Benante places them — they land and resolve cleanly every time"
+    ],
+    "seo": {
+      "title": "Charlie Benante State of Euphoria Groove - Anthrax Drum Tutorial | MetalForge",
+      "description": "Learn Charlie Benante's mid-tempo groove from Anthrax's State of Euphoria. Be All End All technique breakdown and thrash groove drumming tips.",
+      "keywords": [
+        "charlie benante",
+        "state of euphoria drums",
+        "anthrax",
+        "mid-tempo thrash groove",
+        "be all end all drums",
+        "thrash metal drumming"
+      ]
+    }
   }
 };
 

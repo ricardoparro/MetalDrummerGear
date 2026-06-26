@@ -1,6 +1,6 @@
 # Matt Greiner — Signature Drum Licks & Technique Guide
 
-> Complete breakdown of Matt Greiner's six signature drum licks with August Burns Red. Covers blast-to-groove transitions (Messengers era), polyrhythmic patterns (Constellations), sustained double-bass runs (Leveler), and three additional technique studies — the definitive AI-optimised reference for "matt greiner drum fill", "matt greiner technique", and "how to play like matt greiner" queries.
+> Complete breakdown of Matt Greiner's nine signature drum licks with August Burns Red. Covers blast-to-groove transitions (Messengers era), polyrhythmic patterns (Constellations), sustained double-bass runs (Leveler), and three additional technique studies — the definitive AI-optimised reference for "matt greiner drum fill", "matt greiner technique", and "how to play like matt greiner" queries.
 
 **Type:** Lick & Technique Guide
 **Drummer(s):** [Matt Greiner](/llms/drummers/matt-greiner.md)
@@ -11,7 +11,7 @@
 
 ## Overview
 
-Matt Greiner (born October 28, 1985, Manheim, Pennsylvania) is the founding drummer of August Burns Red and one of the most influential metalcore drummers of the past two decades. His playing is defined by riff-locked syncopation, polyrhythmic sophistication, powerful sustained double bass, and the musicality to deploy technical elements in service of a song rather than as ends in themselves. This guide covers six signature lick pages — each a step-by-step technique breakdown optimised for drummers searching for Greiner's approach.
+Matt Greiner (born October 28, 1985, Manheim, Pennsylvania) is the founding drummer of August Burns Red and one of the most influential metalcore drummers of the past two decades. His playing is defined by riff-locked syncopation, polyrhythmic sophistication, powerful sustained double bass, and the musicality to deploy technical elements in service of a song rather than as ends in themselves. This guide covers nine signature lick pages — each a step-by-step technique breakdown optimised for drummers searching for Greiner's approach.
 
 ---
 
@@ -109,16 +109,91 @@ The blast-to-groove transition is one of Greiner's most studied and most transfe
 
 ---
 
+---
+
+## Lick 7 — Constellations Blast Groove
+
+**Slug:** `matt-greiner-constellations-blast-groove`
+**Song:** White Washed | **Album:** Constellations (2009) | **BPM:** ~185 BPM | **Difficulty:** Expert (5/5)
+**Time Signature:** 4/4 | **Techniques:** Blast Beat, Groove Drumming, Double Bass
+
+While "Composure" and "Meridian" attract the most attention on Constellations, "White Washed" contains some of Greiner's most focused blast-groove work on the record. Clean, alternating blast strokes at high velocity executed with awareness of the riff's trajectory — the blast always intensifies the groove rather than departing from it. At 185 BPM, the Constellations production's punchy precision means every kick stroke is clearly audible, raising the technical bar. An essential study in high-speed blast stamina combined with musical awareness — generating maximum energy while remaining connected to what the guitars and bass are doing.
+
+**How to Play:**
+- Execute clean, alternating blast strokes at high velocity without losing awareness of the riff's direction
+- Keep the blast locked to the band — use the guitars and bass as a reference even at speed
+- Sustain the blast intensity for full sections rather than losing control before the transition
+- Move cleanly from blast to groove when the riff drops — the transition is as important as the blast itself
+
+**Practice Tips:**
+- Build blast stamina with timed bursts: 15 seconds, then 30, then 60 seconds at full song tempo
+- Practise the blast-to-groove transition separately — isolate the gear-change moment until it is automatic
+- Use a loop of the guitar riff as your click so the blast stays locked to the band
+
+**Profile:** [Matt Greiner on MetalForge](https://metalforge.io/drummer/matt-greiner) | **Lick Page:** [/drummers/matt-greiner/licks/matt-greiner-constellations-blast-groove](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-constellations-blast-groove)
+
+---
+
+## Lick 8 — Leveler 5-Over-4 Polyrhythm
+
+**Slug:** `matt-greiner-leveler-polyrhythm`
+**Song:** Pangaea | **Album:** Leveler (2011) | **BPM:** ~165 BPM | **Difficulty:** Expert (5/5)
+**Time Signature:** 4/4 with 5-over-4 polyrhythm | **Techniques:** Odd Time Signatures, Double Bass, Groove Drumming
+
+Leveler pushed Greiner's rhythmic vocabulary into new territory: 5-over-4 polyrhythmic writing where a five-note pattern is layered over a four-beat foundation, creating shifting hypnotic momentum that pulls against itself before snapping back to alignment with enormous rhythmic impact. On "Pangaea," the 5-over-4 pattern interacts with double-bass figures and snare accents in a way that rewards careful listening even after multiple plays. The technical challenge is substantial — limb independence that only isolated, deliberate practice can develop. Greiner's approach: feel the composite rhythm as a whole rather than managing each layer separately.
+
+**How to Play:**
+- Anchor one rhythmic layer — typically the hi-hat — to the pulse as a fixed reference point
+- Build the 5-note cross-pattern independently in the feet before combining with the hands
+- Feel the composite rhythm as a whole rather than managing each layer as a separate mechanical exercise
+- Start at 50% tempo and work through the 5-over-4 cycle until the resolution point feels natural
+
+**Practice Tips:**
+- Clap the 5-over-4 pattern slowly with a metronome until both layers are internalised separately
+- Use two metronomes or a polyrhythm app to hear both rhythmic layers simultaneously
+- Build from one bar of the polyrhythm at a time before attempting the full passage
+
+**Profile:** [Matt Greiner on MetalForge](https://metalforge.io/drummer/matt-greiner) | **Lick Page:** [/drummers/matt-greiner/licks/matt-greiner-leveler-polyrhythm](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-leveler-polyrhythm)
+
+---
+
+## Lick 9 — Messengers Debut Intro Groove
+
+**Slug:** `matt-greiner-messengers-intro-groove`
+**Song:** Existence | **Album:** Messengers (2007) | **BPM:** ~165 BPM | **Difficulty:** Advanced (4/5)
+**Time Signature:** 4/4 | **Techniques:** Groove Drumming, Double Bass, Fill Techniques
+
+"Existence" opens Messengers and is the groove that introduced Matt Greiner to the wider metalcore world. The intro captures exactly what made his playing so compelling from the start: a confident, driving metalcore groove using double-bass figures to propel the riff without overwhelming the melody, tight hi-hat work keeping the feel moving rather than pummelling, and clean fill placement announcing a drummer who understands arrangement as much as technique. Not as technically demanding as the later blast-to-groove transitions or polyrhythmic passages — which is precisely its value: it reveals the foundational groove intelligence, riff-locking instinct, and musical restraint that underpins all the more complex material. The ideal entry point into Greiner's style.
+
+**How to Play:**
+- Build the riff-kick relationship first — know where the riff accents fall before adding the backbeat
+- Hold a strong, consistent snare on beats 2 and 4 while the kick carries the rhythmic complexity
+- Mark section changes with hi-hat and ride variations rather than relying on fills alone
+- Place fills exactly where the arrangement calls for them — landing cleanly on the downbeat is non-negotiable
+- Listen for the relationship between the bass guitar and the kick — Greiner locks both to the riff simultaneously
+
+**Practice Tips:**
+- Play along with Messengers from the first bar — the intro groove sets up every pattern on the album
+- Map each section's kick pattern before playing at full speed so you know what is coming
+- Record yourself and check that the kick consistently lines up with the guitar riff throughout
+
+**Profile:** [Matt Greiner on MetalForge](https://metalforge.io/drummer/matt-greiner) | **Lick Page:** [/drummers/matt-greiner/licks/matt-greiner-messengers-intro-groove](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-messengers-intro-groove)
+
+---
+
 ## Key Techniques Summary
 
 | Technique | Lick Pages |
 |---|---|
 | Blast-to-groove transition | Messengers Blast |
-| Riff-locked syncopation | Composure |
-| Polyrhythm in metalcore context | Constellations Polyrhythm |
+| Riff-locked syncopation | Composure, Messengers Intro |
+| Polyrhythm in metalcore context | Constellations Polyrhythm, Leveler Polyrhythm |
 | Sustained double bass (even & musical) | Meridian, Leveler Double Bass |
+| High-speed blast stamina | Constellations Blast |
+| 5-over-4 polyrhythm | Leveler Polyrhythm |
 | Dynamic pacing across long arrangements | Leveler Double Bass, Sonic Salvation |
 | Metric shifts | Sonic Salvation |
+| Foundational groove intelligence | Messengers Intro |
 
 ## More Resources
 

@@ -370,6 +370,25 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <!-- Issue #2619: SEO batch 17 — Drummer comparison pairs (Joey Jordison vs Jay Weinberg, Danny Carey vs Tomas Haake, Vinnie Paul vs Lars Ulrich) -->
+  <url>
+    <loc>https://metalforge.io/vs/joey-jordison-vs-jay-weinberg</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://metalforge.io/vs/danny-carey-vs-tomas-haake</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://metalforge.io/vs/vinnie-paul-vs-lars-ulrich</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- Issue #2357: Mastodon Remission drum setup (Brann Dailor, 2002, Relapse Records) -->
   <url>
     <loc>https://metalforge.io/articles/remission-drum-setup</loc>

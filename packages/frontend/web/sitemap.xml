@@ -389,6 +389,25 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <!-- Issue #2673: SEO batch 19 — Drummer comparison pairs (Gavin Harrison vs Danny Carey, Inferno vs Flo Mounier, Mike Mangini vs Matt Garstka) -->
+  <url>
+    <loc>https://metalforge.io/vs/gavin-harrison-vs-danny-carey</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://metalforge.io/vs/inferno-vs-flo-mounier</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://metalforge.io/vs/mike-mangini-vs-matt-garstka</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- Issue #2357: Mastodon Remission drum setup (Brann Dailor, 2002, Relapse Records) -->
   <url>
     <loc>https://metalforge.io/articles/remission-drum-setup</loc>

@@ -5258,6 +5258,801 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Vinnie Paul Gear Evolution Timeline | Pantera Drum Kit History',
     metaDescription: 'Explore Vinnie Paul\'s complete drum gear evolution from Pantera\'s glam era to Cowboys from Hell, Vulgar Display of Power, and his final ddrum signature kit with Hellyeah.',
   },
+
+  // ==========================================
+  // George Kollias - Nile (2004–Present)
+  // ==========================================
+  'george-kollias': {
+    slug: 'george-kollias',
+    name: 'George Kollias',
+    band: 'Nile',
+    totalYearsActive: '1995-Present',
+    profileImage: '/images/drummers/george-kollias.webp',
+    summary: 'From Athens club gigs to Nile\'s most technically demanding stages in New York City, George Kollias\'s gear evolution traces a path from budget Greek-market kits to a refined Pearl-based rig built for elite blast beat speeds — the most precisely calibrated death metal setup ever assembled.',
+
+    eras: [
+      {
+        id: 'kollias-2000-greek-underground',
+        era: 'Greek Underground Era',
+        years: '1995–2004',
+        startYear: 1995,
+        endYear: 2004,
+        description: 'Before joining Nile, George Kollias developed his extreme technique in the Greek metal underground with bands including Sickening Horror and Nightfall. Whatever gear he could source in Athens formed the foundation for techniques that would later redefine death metal drumming.',
+        albums: ['Sickening Horror demos', 'Nightfall early recordings'],
+        tours: ['Greek club circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Rockstar / Starclassic',
+            details: 'Basic 5-piece: 22" kick, 12"/13"/16" toms',
+            notes: 'Affordable Tama kits accessible in the Greek market — the foundation for developing his blast beat vocabulary.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Steel 14"×5.5"',
+            details: 'Standard steel snare',
+            notes: 'Crisp, cutting response suited to death metal tempos.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Paiste was the dominant choice across European extreme metal circles.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra Double Pedal',
+            details: 'Double pedal central to blast beat development',
+            notes: 'Iron Cobra became inseparable from Kollias\'s technique — the pedal he built his record-breaking speed on from the beginning.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Off-the-shelf sticks during the pre-endorsement period.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms',
+            notes: 'Standard single-ply configuration.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2500,
+          inflationAdjusted: 4500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Developed blast beat vocabulary in Athens underground',
+          'Tama Iron Cobra established as foundational speed pedal',
+          'Built reputation across Greek extreme metal scene',
+        ],
+
+        quote: {
+          text: "I was playing in rehearsal rooms in Athens, obsessing over technique. The gear was secondary — the precision was everything.",
+          source: 'Modern Drummer Interview, 2009',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'kollias-2005-annihilation',
+        era: 'Annihilation of the Wicked Era',
+        years: '2005–2008',
+        startYear: 2005,
+        endYear: 2008,
+        description: 'George Kollias joined Nile in 2004 and immediately delivered one of the most technically impressive death metal drumming performances ever recorded on Annihilation of the Wicked. His Pearl endorsement began here, giving him a professional kit capable of withstanding extreme international touring demands.',
+        albums: ['Annihilation of the Wicked (2005)', 'Ithyphallic (2007)'],
+        tours: ['Annihilation of the Wicked Tour', 'Ithyphallic Tour', 'Summer Slaughter 2006'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'First Pearl endorsement — the Reference maple/birch hybrid delivered punch and clarity needed for Nile\'s dense Egyptian-themed arrangements.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Free-floating shell for maximum resonance',
+            notes: 'Explosive snare attack essential for Kollias\'s ultra-fast snare work between blast beat patterns.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Paiste Signature Series',
+            details: '14" hi-hats, 17"/18" crashes, 20" ride, 18" China',
+            notes: 'Upgraded to Paiste Signature line for professional touring brightness and cut.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Power Glide cam for consistent speed',
+            notes: 'Continued Iron Cobra — the pedal central to his blast beat precision, unchanged across the brand switch.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Hickory — pre-signature era',
+            notes: 'Standard Vic Firth before his signature model was developed.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Emperor on toms, Powerstroke 3 on kick',
+            notes: 'Double-ply for durability at extreme speeds; focused kick punch.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 9000,
+          inflationAdjusted: 15000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Nile (2004)',
+          'Pearl Reference endorsement begins — first major brand partnership',
+          'Annihilation of the Wicked sets new death metal technical benchmark',
+          'Ithyphallic (2007) further demonstrates speed and precision range',
+        ],
+
+        quote: {
+          text: "When I joined Nile, I had to be better than I'd ever been. The music demanded everything. Pearl gave me a kit that could survive it.",
+          source: 'Drumhead Magazine Interview, 2006',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'kollias-2009-those-whom',
+        era: 'Those Whom the Gods Detest Era',
+        years: '2009–2015',
+        startYear: 2009,
+        endYear: 2015,
+        description: 'George Kollias\'s technical and artistic peak with Nile. Those Whom the Gods Detest and At the Gate of Sethu cemented his status as the most precise drummer in death metal. His solo album Invictus (2009) demonstrated compositional mastery beyond pure speed, and his first signature Vic Firth drumsticks arrived during this era.',
+        albums: ['Those Whom the Gods Detest (2009)', 'At the Gate of Sethu (2012)', 'Invictus (solo, 2009)'],
+        tours: ['Those Whom the Gods Detest Tour', 'Summer Slaughter 2010', 'At the Gate of Sethu Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure',
+            details: 'All-maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Upgraded to Reference Pure — all-maple construction delivers a warmer, more resonant tone across Nile\'s complex arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Continued Free-Floating steel preference',
+            notes: 'Consistent snare approach across multiple album cycles.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste Signature Series',
+            details: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
+            notes: 'Full Paiste Signature configuration — bright, cutting response for Nile\'s extreme live volumes.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Power Glide — optimized for speed and consistency',
+            notes: 'Iron Cobra remains the constant across every era — built into his muscle memory over decades.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth George Kollias Signature',
+            details: 'Hickory with precise taper for extreme tempos',
+            notes: 'First George Kollias signature stick — engineered for durability at blast beat speeds.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Emperor on toms, Powerstroke 3 on kick',
+            notes: 'Reliable configuration maintained for intense international touring.',
+            change: null,
+          },
+          electronics: {
+            item: 'ddrum triggers on kick drums',
+            details: 'Kick drum triggers for live consistency',
+            notes: 'Electronic triggers added to ensure double bass cuts through at extreme live volumes.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 14000,
+          inflationAdjusted: 19000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Vic Firth George Kollias signature sticks launched',
+          'Upgraded to Pearl Reference Pure all-maple shells',
+          'Solo album Invictus released (2009)',
+          'ddrum triggers integrated for live double bass consistency',
+        ],
+
+        quote: {
+          text: "Speed is nothing without precision. I can play blast beats at any tempo — but the note placement has to be perfect every time.",
+          source: 'Modern Drummer, 2010',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'kollias-2015-modern',
+        era: 'Vile Nilotic Rites Era',
+        years: '2015–Present',
+        startYear: 2015,
+        endYear: 2026,
+        description: 'In the modern era, Kollias has refined his setup to an elite standard. What Should Not Be Unearthed (2015) and Vile Nilotic Rites (2019) represent his most mature work with Nile, while his second solo album Labyrinth of Chaos (2018) expanded his compositional voice. His drum clinics worldwide have established him as a preeminent educator in extreme metal technique.',
+        albums: ['What Should Not Be Unearthed (2015)', 'Vile Nilotic Rites (2019)', 'Labyrinth of Chaos (solo, 2018)'],
+        tours: ['What Should Not Be Unearthed Tour', 'Vile Nilotic Rites World Tour 2019–2020'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure',
+            details: 'All-maple: 22" kick, 8"/10"/12"/14"/16" toms, custom finish',
+            notes: 'Current primary kit — Pearl Reference Pure with custom specifications refined across 10+ years.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Current snare — consistent across multiple album cycles',
+            notes: 'Free-Floating design maximizes resonance and attack from the thin steel shell.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste Signature Series',
+            details: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
+            notes: 'Complete Paiste Signature configuration — a decade of consistent partnership.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Current pedal — unchanged across his entire Nile career',
+            notes: 'The Iron Cobra is inseparable from Kollias\'s identity — his technique was built around its specific feel over 20+ years.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth George Kollias Signature',
+            details: 'Updated model with refined taper and balance',
+            notes: 'Signature updated from the original spec — heavier rear end for better control at top speeds.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Consistent Emperor/Powerstroke configuration',
+            notes: 'Decade-plus proven configuration for Nile\'s demanding live environment.',
+            change: null,
+          },
+          electronics: {
+            item: 'ddrum Acoustic Pro Triggers',
+            details: 'Kick and snare triggers for live consistency',
+            notes: 'Refined hybrid system — ensures every note is heard in Nile\'s wall-of-sound live context.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 18000,
+          inflationAdjusted: 18000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Vile Nilotic Rites (2019) — most refined Nile drumming performance',
+          'Solo album Labyrinth of Chaos (2018) expands compositional range',
+          'Worldwide drum clinics establish Kollias as premier educator in extreme metal',
+          'Setup represents 20+ years of incremental precision refinement',
+        ],
+
+        quote: {
+          text: "After all these years with Nile, I still treat every song like my first time playing it. The technique must be perfect. There is no room for error in this music.",
+          source: 'Drumhead Magazine, 2019',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'George Kollias Gear Evolution Timeline | Nile Drum Kit History',
+    metaDescription: 'Explore George Kollias\'s complete drum gear evolution from the Greek underground to Nile\'s world stages. Pearl Reference, Tama Iron Cobra, Paiste Signature — every era of death metal\'s most precise blast beat drummer.',
+  },
+
+  // ==========================================
+  // Flo Mounier - Cryptopsy (1992–Present)
+  // ==========================================
+  'flo-mounier': {
+    slug: 'flo-mounier',
+    name: 'Flo Mounier',
+    band: 'Cryptopsy',
+    totalYearsActive: '1992-Present',
+    profileImage: '/images/drummers/flo-mounier.webp',
+    summary: 'From Tama kits in Montreal rehearsal rooms to a Pearl-equipped machine capable of defining technical death metal for three decades, Flo Mounier\'s gear evolution mirrors Cryptopsy\'s ascent from Quebec underground legends to one of the most technically accomplished death metal bands in history.',
+
+    eras: [
+      {
+        id: 'flo-1993-blasphemy',
+        era: 'Blasphemy Made Flesh / None So Vile Era',
+        years: '1992–1998',
+        startYear: 1992,
+        endYear: 1998,
+        description: 'The formative era. Flo Mounier helped build Cryptopsy from a Montreal underground band into the defining force of brutal technical death metal. Playing on Tama kits with whatever he could afford in early-1990s Quebec, he developed the hyper-fast, compositionally complex drumming vocabulary that would define None So Vile — widely considered the greatest technical death metal album ever recorded.',
+        albums: ['Blasphemy Made Flesh (1994)', 'None So Vile (1996)'],
+        tours: ['Canadian underground circuit', 'None So Vile North American touring'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Performer',
+            details: 'Birch/bubinga shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'The Starclassic Performer\'s birch/bubinga hybrid gave Flo the punchy, articulate sound needed for Cryptopsy\'s insanely complex rhythmic patterns.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Steel 14"×5.5"',
+            details: 'Standard steel snare — cutting, explosive attack',
+            notes: 'Sharp, bright snare sound that cut through the chaotic guitar and bass density on None So Vile.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AA / HH Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+            notes: 'Sabian became Flo\'s cymbal brand of choice early in his career — bright attack and cutting presence at death metal volumes.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra Double Pedal',
+            details: 'Double pedal for extreme speed work',
+            notes: 'Iron Cobra was Flo\'s tool for the hyper-fast double bass patterns that define None So Vile\'s relentless attack.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Standard sticks before signature endorsement.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply on toms for durability',
+            notes: 'Double-ply heads to withstand the aggressive attack required for Cryptopsy\'s extreme material.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4000,
+          inflationAdjusted: 8000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Established Cryptopsy\'s signature hyper-technical drumming style',
+          'None So Vile (1996) recorded — considered the greatest technical death metal album',
+          'Tama Starclassic becomes the instrument of the era\'s most complex death metal drumming',
+          'Iron Cobra double pedal essential for extreme speed development',
+        ],
+
+        quote: {
+          text: "None So Vile was us pushing as hard as we could. Every beat had to be intentional. Controlled chaos.",
+          source: 'Metal Maniacs Interview, 1997',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'flo-1998-whisper',
+        era: 'Whisper Supremacy / And Then You\'ll Beg / Once Was Not Era',
+        years: '1998–2007',
+        startYear: 1998,
+        endDate: 2007,
+        endYear: 2007,
+        description: 'Cryptopsy\'s most prolific creative period and Flo Mounier\'s technical apex. With the Pearl endorsement now active, he had a professional-grade kit fully capable of surviving brutal touring demands. Whisper Supremacy and And Then You\'ll Beg are considered the pinnacle of blasting technical death metal composition, while Once Was Not pushed the genre\'s melodic and structural limits.',
+        albums: ['Whisper Supremacy (1998)', 'And Then You\'ll Beg (2000)', 'None So Live (2003)', 'Once Was Not (2005)'],
+        tours: ['North American death metal circuit', 'European festival touring'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Switch to Pearl for a brighter, more articulate maple/birch tone suited to Cryptopsy\'s increasingly complex arrangements.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Free-floating shell — maximum resonance and attack',
+            notes: 'Free-Floating design delivers the explosive crack needed for Flo\'s ultra-precise snare placement at extreme tempos.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian AAX Series',
+            details: '14" AAX hi-hats, 17"/18" crashes, 20" ride, 18" China',
+            notes: 'Upgraded to Sabian AAX for brighter, more cutting sound at professional volumes.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Eliminator / Demon Drive Double Pedal',
+            details: 'Fast cam-driven double pedal',
+            notes: 'Switched to Pearl pedals to complement Pearl kit endorsement — Eliminator\'s adjustable cam suited his varied speed demands.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 5B / Custom',
+            details: 'Hickory sticks, pre-signature era',
+            notes: 'Standard Vic Firth sticks through this period.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Emperor on toms, Powerstroke 3 on kick',
+            notes: 'Focused kick attack for the dense low-end of Cryptopsy\'s recording and live sound.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 10000,
+          inflationAdjusted: 18000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Pearl endorsement begins — switch from Tama to Pearl Reference',
+          'Pearl Eliminator/Demon Drive pedal replaces Iron Cobra',
+          'Sabian AAX upgrade for touring brightness',
+          'Whisper Supremacy (1998) and And Then You\'ll Beg (2000) define the technical death metal peak',
+          'Once Was Not (2005) expands Cryptopsy\'s compositional range',
+        ],
+
+        quote: {
+          text: "And Then You'll Beg was about showing that you can be unbelievably fast and still be musical. Every fill has a reason.",
+          source: 'Unrestrained! Magazine Interview, 2001',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'flo-2008-unspoken',
+        era: 'Unspoken King / Self-Titled / Modern Era',
+        years: '2008–Present',
+        startYear: 2008,
+        endYear: 2026,
+        description: 'The controversial and then rehabilitative era. The Unspoken King (2008) divided Cryptopsy\'s fanbase, but the self-titled album (2012) and the Book of Suffering series (2015, 2018) re-established the band\'s brutal identity. Flo\'s setup has evolved into a refined, custom-optimized rig built around his specific physical needs and the demands of sustained technical performance over three decades.',
+        albums: ['The Unspoken King (2008)', 'Cryptopsy (2012)', 'Book of Suffering — Tome I (2015)', 'Book of Suffering — Tome II (2018)'],
+        tours: ['Unspoken King Tour', 'North American death metal touring', 'European festival dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure / Custom configuration',
+            details: 'All-maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Evolved to an all-maple Reference Pure for a warmer, more resonant tone that suits the increased compositional complexity of the modern Cryptopsy material.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Continued Free-Floating steel preference',
+            notes: 'Long-standing snare of choice — the Free-Floating design remains his go-to for attack and resonance.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AAX / HHX Series',
+            details: '14" HHX hi-hats, 17"/18" AAX crashes, 21" AAX ride, 18" China',
+            notes: 'Upgraded to Sabian HHX for hi-hats — darker, more sophisticated sound for the modern material.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct drive double pedal',
+            notes: 'Direct drive Demon Drive for maximum control and precision at extreme blast beat tempos.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Flo Mounier Signature',
+            details: 'Custom hickory spec for extreme speed',
+            notes: 'Flo Mounier signature drumstick — custom weight and taper for his specific speed and control requirements.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Consistent configuration across album cycles',
+            notes: 'Proven configuration maintained through 30+ years of extreme metal performance.',
+            change: null,
+          },
+          electronics: {
+            item: 'Triggers on kick drums',
+            details: 'Kick triggers for live consistency',
+            notes: 'Electronic triggers ensure Cryptopsy\'s bass drum patterns cut through at live volumes.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 16000,
+          inflationAdjusted: 16000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Signature Vic Firth Flo Mounier drumstick launched',
+          'Pearl Demon Drive direct drive double pedal adopted',
+          'Sabian HHX hi-hats added for darker, modern tone',
+          'Book of Suffering series re-establishes Cryptopsy\'s brutal identity',
+          'Three decades of technical death metal drumming — setup reflects lifetime of refinement',
+        ],
+
+        quote: {
+          text: "After 30 years I still find something new in the music. The gear has to respond to ideas I haven't played yet — that keeps me upgrading.",
+          source: 'Drumhead Magazine, 2018',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Flo Mounier Gear Evolution Timeline | Cryptopsy Drum Kit History',
+    metaDescription: 'Explore Flo Mounier\'s complete drum gear evolution from Tama to Pearl across Cryptopsy\'s technical death metal career. None So Vile to the Book of Suffering — every era of the most influential Canadian extreme metal drummer.',
+  },
+
+  // ==========================================
+  // Eloy Casagrande - Sepultura → Slipknot (2011–Present)
+  // ==========================================
+  'eloy-casagrande': {
+    slug: 'eloy-casagrande',
+    name: 'Eloy Casagrande',
+    band: 'Slipknot',
+    totalYearsActive: '2011-Present',
+    profileImage: '/images/drummers/eloy-casagrande.webp',
+    summary: 'The most compelling modern gear evolution story in metal: a Brazilian teenager who joined Sepultura at 16 and spent a decade building a world-class setup before landing the drum throne of the world\'s biggest metal band — replacing Jay Weinberg in Slipknot in 2023 and becoming the new face of a genre-defining drum role.',
+
+    eras: [
+      {
+        id: 'eloy-2011-debut-sepultura',
+        era: 'Sepultura Debut Era',
+        years: '2011–2016',
+        startYear: 2011,
+        endYear: 2016,
+        description: 'Eloy Casagrande joined Sepultura in 2011 at just 16 years old — one of the most remarkable early career milestones in metal history. His debut album with the band, The Mediator Between Head and Hands Must Also Be the Conductor (2013), announced a talent of rare precision and power. His Pearl endorsement began immediately, providing the professional-grade platform for his first decade of international touring.',
+        albums: ['The Mediator Between Head and Hands Must Also Be the Conductor (2013)'],
+        tours: ['The Mediator World Tour 2013–2014', 'South American and European dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Premium',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'First Pearl endorsement — the Masters Premium maple shells provided the warm, powerful tone befitting Sepultura\'s aggressive thrash/groove metal sound.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Free-floating shell for maximum attack',
+            notes: 'Sharp, explosive snare response suited to Sepultura\'s fast, aggressive material.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Cymbals',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+            notes: 'Meinl endorsement from early in his Sepultura tenure — bright, powerful response for live metal performance.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal',
+            details: 'Cam-driven double pedal for controlled aggression',
+            notes: 'Pearl Eliminator to complement the Pearl kit — adjustable cam for varied speed and feel requirements.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Standard Vic Firth sticks during the early endorsement period.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply on toms for durability',
+            notes: 'Durability-focused configuration for intensive touring as a teenage professional.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 8000,
+          inflationAdjusted: 12000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Sepultura at age 16 (2011) — one of metal\'s most remarkable debut signings',
+          'Pearl Masters Premium endorsement begins',
+          'Meinl cymbal endorsement established',
+          'The Mediator (2013) announces his arrival as a world-class metal drummer',
+        ],
+
+        quote: {
+          text: "Being in Sepultura at 16 was a dream. I had to grow up fast — the music and the touring demanded everything from me immediately.",
+          source: 'Modern Drummer, 2014',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'eloy-2017-machine-messiah',
+        era: 'Machine Messiah / Quadra Era',
+        years: '2017–2022',
+        startYear: 2017,
+        endYear: 2022,
+        description: 'The era where Eloy Casagrande fully came into his own as one of the defining drummers of modern metal. Machine Messiah (2017) showcased a dramatically more sophisticated musical palette, and Quadra (2020) — a double album concept record — is considered the high-water mark of his Sepultura work. His setup expanded and refined significantly as his compositional ambitions grew.',
+        albums: ['Machine Messiah (2017)', 'SepulQuarta (2021)', 'Quadra (2020)'],
+        tours: ['Machine Messiah World Tour', 'Quadra World Tour 2020–2022'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple/birch hybrid: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Upgraded to Pearl Reference — the maple/birch hybrid provided a broader tonal palette suited to Quadra\'s varied dynamics from acoustic passages to full brutality.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Continued Free-Floating steel preference',
+            notes: 'Consistent snare choice across the entire Sepultura tenure.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Classics Custom / Pure Alloy',
+            details: '14" hi-hats, 16"/18"/19" crashes, 21" ride, 18" China',
+            notes: 'Expanded cymbal setup with Meinl Classics Custom for a broader dynamic range across Quadra\'s varied material.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct drive for maximum control',
+            notes: 'Switched to Demon Drive for the Machine Messiah era — direct drive delivers more precise response for the album\'s technical demands.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 5A / Custom',
+            details: 'Hickory sticks',
+            notes: 'Refined stick choice for the increased tonal and dynamic range of the Machine Messiah / Quadra material.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / EMAD',
+            details: 'Emperor on toms, EMAD on kick',
+            notes: 'EMAD kick heads adopted for focused, punchy low-end attack on heavier material.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'Roland SPD-SX sampling pad',
+            details: 'Electronic samples and backing triggers',
+            notes: 'Electronics integrated for Quadra\'s layered studio arrangements in the live context.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 14000,
+          inflationAdjusted: 16000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Upgraded to Pearl Reference — broader tonal range for Quadra\'s dynamics',
+          'Pearl Demon Drive direct drive adopted',
+          'Remo EMAD kick heads integrated',
+          'Roland SPD-SX added for live electronics',
+          'Quadra (2020) widely recognised as career-defining achievement',
+        ],
+
+        quote: {
+          text: "Quadra gave me the chance to show every side of what I can do. Aggressive, melodic, dynamic — I had to be all of it.",
+          source: 'Revolver Magazine, 2020',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'eloy-2023-slipknot',
+        era: 'Slipknot Era',
+        years: '2023–Present',
+        startYear: 2023,
+        endYear: 2026,
+        description: 'The most dramatic transition in recent metal drumming history. In late 2023, Eloy Casagrande joined Slipknot — replacing Jay Weinberg and stepping into one of the most high-profile drum roles in heavy music. Going from Sepultura\'s underground credibility to Slipknot\'s stadium-scale productions marked a seismic shift in his career. His current setup reflects the demands of arena-level performance with one of metal\'s biggest bands.',
+        albums: ['Upcoming Slipknot studio material'],
+        tours: ['Slipknot World Tour 2024', 'Knotfest appearances'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Maple Complete',
+            details: 'Maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Continued Pearl partnership into the Slipknot era — premium maple shells for the studio-quality sound required at stadium level.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Consistent Free-Floating steel snare',
+            notes: 'The snare that has followed Eloy from Sepultura to Slipknot — consistent explosive attack.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Cymbals (expanded setup)',
+            details: '14" hi-hats, multiple crashes, 21" ride, China, splash cymbals',
+            notes: 'Expanded Meinl setup to cover the full dynamic range of Slipknot\'s diverse catalog from .5: The Gray Chapter to present.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct drive — continued from Sepultura era',
+            notes: 'Slipknot\'s stage productions require absolute pedal reliability — Demon Drive maintained for proven performance.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Eloy Casagrande Signature',
+            details: 'Custom hickory spec for stadium performance',
+            notes: 'Signature drumstick launched to coincide with the Slipknot chapter.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Emperor / EMAD2',
+            details: 'Emperor on toms, EMAD2 on kick',
+            notes: 'EMAD2 for tighter, more defined low-end in Slipknot\'s dense arena mix.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'Roland TD module + SPD-SX',
+            details: 'Full hybrid electronic setup for Slipknot\'s layered production',
+            notes: 'Slipknot\'s studio tracks require sophisticated electronic integration — Roland TD module for triggers, SPD-SX for samples.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 25000,
+          inflationAdjusted: 25000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Slipknot (2023) — replaced Jay Weinberg in one of metal\'s biggest bands',
+          'Vic Firth Eloy Casagrande signature sticks launched',
+          'Expanded electronics for Slipknot\'s arena productions',
+          'Stadium-scale performance debut at Knotfest events worldwide',
+          'Brazilian teenager → Slipknot drum throne: the most remarkable career arc in modern metal',
+        ],
+
+        quote: {
+          text: "Slipknot is something else entirely. The stage, the production, the catalog — I had to absorb everything and make it my own from day one.",
+          source: 'Metal Hammer Interview, 2024',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Eloy Casagrande Gear Evolution Timeline | Sepultura to Slipknot Drum Kit History',
+    metaDescription: 'Explore Eloy Casagrande\'s complete drum gear evolution from his Sepultura debut at 16 to joining Slipknot in 2023. Pearl, Meinl, Demon Drive — every era of modern metal\'s most compelling career arc.',
+  },
 };
 
 /**

@@ -898,6 +898,72 @@ export const drummerComparisons = {
     ],
   },
 
+  // Issue #2830: SEO batch 25 — extreme technical death vs prog polyrhythmic
+  'flo-mounier-vs-tomas-haake': {
+    slug: 'flo-mounier-vs-tomas-haake',
+    title: 'Flo Mounier vs Tomas Haake',
+    metaTitle: 'Flo Mounier vs Tomas Haake — Extreme Technical Death vs Djent Polyrhythm | MetalForge',
+    metaDescription: 'Cryptopsy\'s Flo Mounier vs Meshuggah\'s Tomas Haake. Extreme technical death metal speed vs polyrhythmic djent precision. Two of metal\'s most technical drummers compared.',
+    category: 'extreme',
+    drummers: ['flo-mounier', 'tomas-haake'],
+    comparison: {
+      style: 'Flo Mounier defined technical death metal drumming with Cryptopsy — his *None So Vile* performance remains one of the most demanding recorded drum performances in extreme metal history, combining gravity blast speeds with jazz-influenced ghost notes and compositional complexity. Tomas Haake invented djent drumming with Meshuggah — robotic polyrhythmic precision and machine-like consistency across extended odd time signatures that created an entirely new sub-genre of metal.',
+      technique: 'Mounier employs a gravity blast technique refined for sustained technical speed, combining wrist tension control with jazz-influenced timing that produces swing and fluidity beneath brutal velocity. Haake uniquely runs two Tama Speed Cobra single pedals rather than a double pedal, locking his kicks into polyrhythmic grids that run independent of the guitar riff cycles — a self-imposed constraint that generates Meshuggah\'s hypnotic rhythmic tension.',
+      gear: 'Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and Tama Iron Cobra 900 double pedals — a precision setup built for the cutting response technical death metal demands. Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and two Tama Speed Cobra single pedals — a focused, projection-oriented setup purpose-built for Meshuggah\'s dense, heavily detuned sound.',
+      influence: 'Flo Mounier\'s *None So Vile* is regularly cited as one of the greatest extreme metal drum recordings of all time, directly influencing technical death metal drummers across two generations. Tomas Haake pioneered the djent movement that spawned Periphery, Animals as Leaders, and an entire wave of polyrhythmic modern metal — his influence on the 2010s metal drumming landscape is unmatched.',
+    },
+    verdict: 'Flo Mounier and Tomas Haake represent two philosophical extremes of ultra-technical drumming. Mounier pursues the outer limits of speed and technical death metal complexity — *None So Vile* is his monument. Haake pursues mathematical perfection through polyrhythmic architecture — Meshuggah\'s discography is his monument. Both operate at the technical frontier of human drumming capability, but in entirely different directions: Mounier toward extreme velocity, Haake toward extreme rhythmic complexity.',
+    faqs: [
+      { q: 'Is Flo Mounier faster than Tomas Haake?', a: 'Flo Mounier specializes in extreme blast beat velocity — his gravity blast tempos on *None So Vile* represent some of the fastest recorded death metal drumming. Tomas Haake is not primarily a speed player; his genius lies in polyrhythmic complexity and machine-like consistency across extended odd time signatures. Mounier is faster in the traditional blast beat sense; Haake is more rhythmically complex.' },
+      { q: 'What drums do Flo Mounier and Tomas Haake use?', a: 'Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and Tama Iron Cobra 900 double pedals. Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and uniquely uses two Tama Speed Cobra single pedals rather than a traditional double pedal.' },
+      { q: 'Which drummer is more technical: Flo Mounier or Tomas Haake?', a: 'Both are among the most technically demanding drummers in metal history, but in different dimensions. Mounier\'s technicality lies in speed, ghost-note density, and jazz-influenced complexity within brutal death metal. Haake\'s technicality lies in polyrhythmic independence and mathematical precision — maintaining interlocking kick, snare, and cymbal patterns across time signatures most drummers cannot navigate. They represent different technical universes rather than a single scale.' },
+    ],
+  },
+
+  // Issue #2830: SEO batch 25 — prog-sludge veteran vs modern thrash successor
+  'brann-dailor-vs-eloy-casagrande': {
+    slug: 'brann-dailor-vs-eloy-casagrande',
+    title: 'Brann Dailor vs Eloy Casagrande',
+    metaTitle: 'Brann Dailor vs Eloy Casagrande — Mastodon vs Metallica Drumming | MetalForge',
+    metaDescription: 'Mastodon\'s Brann Dailor vs Metallica\'s Eloy Casagrande (ex-Sepultura). Progressive sludge jazz-chaos vs modern thrash powerhouse. A generational comparison of two elite metal drummers.',
+    category: 'progressive',
+    drummers: ['brann-dailor', 'eloy-casagrande'],
+    comparison: {
+      style: 'Brann Dailor drives Mastodon\'s progressive sludge metal with jazz-informed constant motion — his fills are the melody, his toms sing over the riffs, and his kit acts as a second lead instrument. Eloy Casagrande combines Brazilian rhythmic roots with thrash metal authority, delivering the locked-in groove and thunderous double bass that powered Sepultura\'s modern era and now powers Metallica\'s global touring machine.',
+      technique: 'Dailor\'s constant motion style treats fills as melodic lines — his snare and toms carry melody through flowing, jazz-vocabulary fills that blur the line between drumming and composition. Casagrande\'s technique is defined by groove-first double bass work and the ability to adapt across Metallica\'s 40-year catalog, from the raw speed of *Kill \'Em All* to the complex dynamics of *Blackened* — a range requiring extraordinary musical versatility.',
+      gear: 'Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance cymbals and Vater 5B sticks — a warm, musical setup suited to Mastodon\'s progressive sludge sound. Eloy Casagrande plays Tama Starclassic Maple drums with Zildjian A Custom and K cymbals and Tama Iron Cobra double pedals — a powerhouse arena-scale setup suited to Metallica\'s global touring demands.',
+      influence: 'Brann Dailor helped define progressive sludge metal and influenced a generation of drummers who treat fills as melodic statements — his Mastodon work from *Remission* through *Emperor of Sand* represents one of the most compositionally distinctive drumming catalogs in modern metal. Eloy Casagrande became the most-watched metal drummer globally when his Metallica appointment was announced in 2024, carrying the technical precision built at Sepultura into the biggest drum chair in metal history.',
+    },
+    verdict: 'Brann Dailor and Eloy Casagrande represent two generations and two philosophies of metal drumming excellence. Dailor is jazz chaos incarnate — his drumming is inseparable from Mastodon\'s identity and impossible to separate from the compositions. Casagrande is thrash authority incarnate — technically elite, groove-defined, and now accountable to one of metal\'s most demanding catalogs. The veteran vs rising force narrative makes this one of the most compelling generational comparisons in modern metal.',
+    faqs: [
+      { q: 'What is the main difference between Brann Dailor and Eloy Casagrande\'s playing styles?', a: 'Brann Dailor plays with constant motion and jazz-influenced melodic fills — his drumming is compositionally complex and integral to Mastodon\'s identity. Eloy Casagrande plays with groove-first thrash authority and powerful double bass — his drumming is defined by locked-in precision and the versatility to adapt across styles and tempos.' },
+      { q: 'What gear does Brann Dailor use vs Eloy Casagrande?', a: 'Brann Dailor plays Tama Starclassic Performer B/B drums with Meinl Byzance cymbals and Vater 5B sticks. Eloy Casagrande plays Tama Starclassic Maple drums with Zildjian A Custom and K cymbals and Tama Iron Cobra double pedals.' },
+      { q: 'Why did Eloy Casagrande join Metallica?', a: 'Eloy Casagrande joined Metallica in 2024 after departing Sepultura. His thrash metal roots, technical precision, and ability to handle a vast and demanding catalog made him the natural choice for one of the most scrutinized drum chairs in metal history.' },
+    ],
+  },
+
+  // Issue #2830: SEO batch 25 — Slipknot succession vs Dream Theater succession
+  'jay-weinberg-vs-mike-mangini': {
+    slug: 'jay-weinberg-vs-mike-mangini',
+    title: 'Jay Weinberg vs Mike Mangini',
+    metaTitle: 'Jay Weinberg vs Mike Mangini — Slipknot vs Dream Theater Drumming | MetalForge',
+    metaDescription: 'Jay Weinberg (ex-Slipknot) vs Mike Mangini (ex-Dream Theater). Two drummers who replaced legends — style, gear, and the weight of iconic drum chairs compared.',
+    category: 'progressive',
+    drummers: ['jay-weinberg', 'mike-mangini'],
+    comparison: {
+      style: 'Jay Weinberg redefined Slipknot\'s percussive identity across four studio albums — channeling the ferocity of predecessor Joey Jordison while stamping his own precision-based approach onto the band\'s massive live and studio work. Mike Mangini brought a speed scientist\'s discipline to Dream Theater after winning the most-watched drum audition in metal history — combining Guinness World Record tempos with complex metric modulation and the compositional demands of one of prog metal\'s most technical bands.',
+      technique: 'Weinberg\'s technique is precision-meets-chaos — navigating Slipknot\'s multi-drummer live setup required exceptional timing, independence, and endurance night after night while delivering the chaotic energy the band demands. Mangini specializes in speed and complex metric modulation, developing proprietary techniques he documents in his *Speed and Dexterity* instructional series and applying biomechanical analysis to maximize performance efficiency within Dream Theater\'s demanding material.',
+      gear: 'Jay Weinberg played Tama Starclassic Maple/Birch drums with Meinl Byzance cymbals and Tama Iron Cobra pedals during his Slipknot tenure — a setup built for visual impact and live endurance. Mike Mangini plays Yamaha Absolute Maple Hybrid drums with Zildjian K Custom and A Custom cymbals and Yamaha chain drive double pedals — a technically focused setup supporting Dream Theater\'s precision-first progressive metal.',
+      influence: 'Jay Weinberg built a massive following through Slipknot\'s live circuit and independent content, inspiring a generation of metal drummers who watched him carry one of the genre\'s most scrutinized chairs for nearly a decade. Mike Mangini holds multiple Guinness World Records for drumming speed and has influenced the speed drumming and educational communities through extensive instructional work across his Dream Theater tenure.',
+    },
+    verdict: 'Jay Weinberg and Mike Mangini share the uncommon experience of replacing iconic drummers and building distinct legacies in those chairs. Weinberg brought precision and endurance to Slipknot\'s chaotic live identity; Mangini brought scientific discipline and world-record speed to Dream Theater\'s technical demands. Both succeeded in their succession stories — and both have since moved on, their legacies defined by what they delivered while they were there.',
+    faqs: [
+      { q: 'Who did Jay Weinberg and Mike Mangini replace?', a: 'Jay Weinberg replaced Joey Jordison as Slipknot\'s drummer, joining the band for studio and live work from 2013 onward. Mike Mangini won the Dream Theater drum audition in 2010 after Mike Portnoy departed — beating six world-class candidates — and served until Portnoy\'s return in 2023.' },
+      { q: 'What drums does Jay Weinberg use vs Mike Mangini?', a: 'Jay Weinberg played Tama Starclassic Maple/Birch drums with Meinl Byzance cymbals and Tama Iron Cobra pedals during his Slipknot tenure. Mike Mangini plays Yamaha Absolute Maple Hybrid drums with Zildjian K Custom and A Custom cymbals and Yamaha chain drive double pedals.' },
+      { q: 'Who is the more technically skilled drummer: Jay Weinberg or Mike Mangini?', a: 'Mike Mangini holds Guinness World Records for drumming speed and is considered one of the most technically precise drummers in the world. Jay Weinberg is technically elite in a different way: maintaining precision under the physical and theatrical demands of Slipknot\'s live performance is its own extraordinary achievement. The comparison depends on which dimension of technical skill you value most.' },
+    ],
+  },
+
   // Issue #2816: SEO batch 24 — Brazil vs Finland regional metal icons
   'igor-cavalera-vs-jaska-raatikainen': {
     slug: 'igor-cavalera-vs-jaska-raatikainen',

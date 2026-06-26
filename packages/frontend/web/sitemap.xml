@@ -427,6 +427,25 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <!-- Issue #2830: SEO batch 25 — Drummer comparison pairs (Flo Mounier vs Tomas Haake, Brann Dailor vs Eloy Casagrande, Jay Weinberg vs Mike Mangini) -->
+  <url>
+    <loc>https://metalforge.io/vs/flo-mounier-vs-tomas-haake</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://metalforge.io/vs/brann-dailor-vs-eloy-casagrande</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://metalforge.io/vs/jay-weinberg-vs-mike-mangini</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- Issue #2357: Mastodon Remission drum setup (Brann Dailor, 2002, Relapse Records) -->
   <url>
     <loc>https://metalforge.io/articles/remission-drum-setup</loc>

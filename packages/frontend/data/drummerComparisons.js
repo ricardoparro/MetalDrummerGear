@@ -851,6 +851,75 @@ export const drummerComparisons = {
       { q: 'Who has won more speed drumming records?', a: 'Mike Mangini holds several Guinness World Records for drumming speed; Garstka\'s records are in the creative application of technique rather than raw speed.' },
     ],
   },
+
+  // Issue #2816: SEO batch 24 — cross-era precision vs new-school brutality
+  'gene-hoglan-vs-eloy-casagrande': {
+    slug: 'gene-hoglan-vs-eloy-casagrande',
+    title: 'Gene Hoglan vs Eloy Casagrande',
+    metaTitle: 'Gene Hoglan vs Eloy Casagrande — The Atomic Clock vs The Nuclear Successor | MetalForge',
+    metaDescription: 'Gene Hoglan (Dark Angel/Death/Testament) vs Eloy Casagrande (Metallica/Sepultura). Old-school thrash precision vs new-school technical brutality. Cross-era comparison.',
+    category: 'thrash',
+    drummers: ['gene-hoglan', 'eloy-casagrande'],
+    comparison: {
+      style: 'Gene Hoglan earned "The Atomic Clock" nickname playing on some of extreme metal\'s most important records — Dark Angel\'s *Darkness Descends*, Death\'s *Individual Thought Patterns*, and Testament\'s *Practice What You Preach*. His style fuses metronomic precision with devastating power, setting technical benchmarks that still stand 40 years later. Eloy Casagrande emerged through Sepultura\'s modern era before joining Metallica in 2024, bringing razor-sharp groove, thunderous double bass, and a thrash-meets-modern-metal authority that positions him as the most high-profile young thrash drummer of his generation.',
+      technique: 'Gene Hoglan is credited with pioneering the gravity blast — a technique that uses stick rebound momentum to achieve superhuman blast beat speeds without muscular fatigue. His double bass work at extreme tempos remains a benchmark for death metal. Eloy Casagrande combines Brazilian rhythmic roots with thrash metal power — his double bass is defined by locked-in groove rather than sheer speed, and his ability to adapt to Metallica\'s catalog spanning 40 years demonstrates extraordinary musical versatility and technical range.',
+      gear: 'Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX Series cymbals and Pearl Demon Drive double pedals — a powerful, projection-focused setup built for extreme metal clarity. Eloy Casagrande plays Tama Starclassic Maple drums with Zildjian A Custom and K cymbals and Tama Iron Cobra double pedals — a powerhouse arena-scale setup suited to Metallica\'s global touring demands.',
+      influence: 'Gene Hoglan\'s influence on extreme metal drumming is immeasurable — his work defined technical benchmarks for thrash, death metal, and beyond across Dark Angel, Death, Testament, SYL, and Dethklok. His gravity blast spread throughout the extreme metal community and remains one of the most studied innovations. Eloy Casagrande became the most-watched metal drummer globally when his Metallica appointment was announced in 2024, sparking immediate search traffic and representing the torch-passing to a new generation.',
+    },
+    verdict: 'Gene Hoglan and Eloy Casagrande represent 40 years of thrash and death metal drumming separated by a generation. Hoglan built the technical foundations of extreme metal drumming — the gravity blast, inhuman double bass, and metronomic precision that defined the genre. Casagrande inherited that tradition and carries it into the biggest arenas on earth. The Atomic Clock set the standard; the Nuclear Successor is now playing by it.',
+    faqs: [
+      { q: 'Who is the better technical drummer: Gene Hoglan or Eloy Casagrande?', a: 'Gene Hoglan earned "The Atomic Clock" nickname for metronomic precision at extreme metal speeds — he pioneered the gravity blast and set death metal drumming benchmarks across Dark Angel, Death, and Testament. Eloy Casagrande is the elite next-generation drummer now playing Metallica\'s demanding catalog. Both are technically exceptional by different generational standards.' },
+      { q: 'What gear does Gene Hoglan use vs Eloy Casagrande?', a: 'Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX cymbals and Pearl Demon Drive double pedals. Eloy Casagrande plays Tama Starclassic Maple drums with Zildjian A Custom and K cymbals and Tama Iron Cobra double pedals.' },
+      { q: 'What is Gene Hoglan\'s legacy in metal drumming?', a: 'Gene Hoglan is credited with pioneering the gravity blast technique and played on landmark records with Dark Angel, Death, Testament, Strapping Young Lad, and Dethklok. His metronomic precision earned him "The Atomic Clock" nickname and shaped the technical vocabulary of death and thrash metal drumming for decades.' },
+      { q: 'Why did Eloy Casagrande join Metallica?', a: 'Eloy Casagrande joined Metallica in 2024 after departing Sepultura. His combination of technical precision, thrash metal roots, and ability to handle Metallica\'s vast catalog made him the ideal choice for the biggest drum chair in metal history.' },
+    ],
+  },
+
+  // Issue #2816: SEO batch 24 — Canada vs USA death metal blast beat gods
+  'flo-mounier-vs-pete-sandoval': {
+    slug: 'flo-mounier-vs-pete-sandoval',
+    title: 'Flo Mounier vs Pete Sandoval',
+    metaTitle: 'Flo Mounier vs Pete Sandoval — Death Metal Blast Beat Pioneers | MetalForge',
+    metaDescription: 'Flo Mounier (Cryptopsy) vs Pete Sandoval (Morbid Angel). Canada vs USA, technical death metal vs Florida death metal. Blast beat speed and technique compared.',
+    category: 'extreme',
+    drummers: ['flo-mounier', 'pete-sandoval'],
+    comparison: {
+      style: 'Flo Mounier brought technical death metal blast beats to new heights of complexity with Cryptopsy — his playing on *None So Vile* combines extreme speed with jazz-influenced ghost notes and complex fills in a display of technical brutality that remains one of the most demanding recorded drum performances in metal history. Pete Sandoval is a founding father of the gravity blast and Florida death metal drumming — his work on Morbid Angel\'s *Altars of Madness* and *Blessed Are the Sick* defined the raw, relentless power that extreme metal drummers still study and imitate.',
+      technique: 'Flo Mounier employs a gravity blast technique refined to enable sustained technical speed across full compositions, combining wrist tension control with jazz-influenced timing that gives his playing a swing and fluidity setting him apart from pure speed merchants. Pete Sandoval pioneered the ankle-driven technique for extreme double bass, using the natural momentum of the pedal spring mechanism to achieve foot speeds that outpace what muscular effort alone allows — a contribution that influenced every extreme metal drummer who came after.',
+      gear: 'Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX Series cymbals and Tama Iron Cobra 900 double pedals — a precision setup built for the cutting response technical death metal demands. Pete Sandoval played ddrum Dios Series drums with Sabian AAX cymbals and ddrum Mercury double pedals — a stripped-back, function-first setup optimised for maximum speed and power.',
+      influence: 'Flo Mounier\'s *None So Vile* performance is regularly cited as one of the greatest extreme metal drum recordings ever made, and his online presence and teaching work pass advanced techniques to the next generation of death metal drummers. Pete Sandoval\'s influence extends across all of extreme metal — his gravity blast and ankle-driven technique became standard vocabulary for death and grindcore drummers globally, cementing him as one of the key inventors of modern extreme metal drumming.',
+    },
+    verdict: 'Flo Mounier and Pete Sandoval are the two great blast beat originators of death metal — Canada\'s technical death metal king and the USA\'s Florida death metal pioneer. Sandoval invented much of the language; Mounier pushed that language to its outer technical limits. Together they define the poles of extreme metal drumming: raw primal power and surgical technical precision at maximum velocity.',
+    faqs: [
+      { q: 'Who is the faster drummer: Flo Mounier or Pete Sandoval?', a: 'Both are among the fastest drummers in metal history. Pete Sandoval pioneered the gravity blast that enables extreme speeds; Flo Mounier is renowned for sustained technical speed across entire death metal compositions. Both represent different dimensions of extreme velocity.' },
+      { q: 'What gear does Flo Mounier use vs Pete Sandoval?', a: 'Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and Tama Iron Cobra 900 double pedals. Pete Sandoval played ddrum Dios Series drums with Sabian AAX cymbals and ddrum Mercury double pedals.' },
+      { q: 'What is the difference between wrist tension and ankle-driven blast beat technique?', a: 'Flo Mounier\'s wrist tension approach controls the stick rebound through wrist tension variation, enabling sustained speeds with tonal nuance. Pete Sandoval\'s ankle-driven technique maximizes the natural spring rebound of the pedal mechanism, letting momentum generate speed beyond what muscular effort produces alone.' },
+      { q: 'Who has stronger influence on death metal drumming?', a: 'Both are foundational. Pete Sandoval is credited as one of the key inventors of modern extreme metal drumming alongside Dave Lombardo and Gene Hoglan — his Florida death metal work predates Mounier. Flo Mounier\'s *None So Vile* raised the technical ceiling and his teaching has directly influenced thousands of drummers worldwide.' },
+    ],
+  },
+
+  // Issue #2816: SEO batch 24 — Brazil vs Finland regional metal icons
+  'igor-cavalera-vs-jaska-raatikainen': {
+    slug: 'igor-cavalera-vs-jaska-raatikainen',
+    title: 'Igor Cavalera vs Jaska Raatikainen',
+    metaTitle: 'Igor Cavalera vs Jaska Raatikainen — Roots vs Precision | MetalForge',
+    metaDescription: 'Igor Cavalera (Sepultura) vs Jaska Raatikainen (Children of Bodom). Brazil vs Finland — primitive thrash power vs surgical melodic death precision. Two regional metal icons compared.',
+    category: 'thrash',
+    drummers: ['igor-cavalera', 'jaska-raatikainen'],
+    comparison: {
+      style: 'Igor Cavalera co-founded Sepultura and drove Brazilian metal into global consciousness — his drumming on *Chaos A.D.* and *Roots* fuses tribal percussion, thrash aggression, and groove-metal authority in a style that sounds like no one else. His power is raw, physical, and rooted in the rhythmic traditions of his homeland. Jaska Raatikainen was the engine behind Children of Bodom\'s rise from Finnish underground to melodic death metal giants — his precision-focused playing provided the technical backbone for Alexi Laiho\'s neoclassical guitar assault across defining albums like *Follow the Reaper* and *Hatebreeder*.',
+      technique: 'Igor Cavalera built his style around tribal-metal fusion — incorporating Brazilian folk rhythms, marching percussion, and tribal beats into a thrash framework that gave Sepultura\'s music its unmistakable global identity. His groove-oriented approach prioritizes feel and power over maximum speed. Jaska Raatikainen developed a melodic death metal technique defined by clean, locked-in double bass, precise timing across complex arrangements, and the ability to anchor Bodom\'s layered keyboards and guitars with surgical consistency across demanding live sets.',
+      gear: 'Igor Cavalera played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals throughout his Sepultura tenure — a setup chosen for raw power and cutting attack suited to thrash and groove metal recording. Jaska Raatikainen played Pearl Masters Premium drums with Sabian cymbals and Pearl Eliminator double pedals — a precision setup suited to the exacting demands of melodic death metal recording and touring.',
+      influence: 'Igor Cavalera defined Brazilian metal and influenced global thrash — Sepultura\'s tribal-metal fusion on *Roots* (1996) was a genre-defining moment that introduced Afro-Brazilian rhythms to the international metal mainstream and spawned an entire sub-genre of world-influenced metal. Jaska Raatikainen gave Finnish melodic death metal its rhythmic identity — Children of Bodom\'s global success built on his consistent, technically precise playing, influencing a generation of Scandinavian metal drummers.',
+    },
+    verdict: 'Igor Cavalera and Jaska Raatikainen are the defining drummers of their respective national metal scenes — Brazil and Finland, two countries that built globally influential metal identities from the ground up. Cavalera\'s tribal-thrash power is raw and elemental; Raatikainen\'s melodic death precision is clean and surgical. Both are irreplaceable architects of regional metal traditions that shaped the global genre.',
+    faqs: [
+      { q: 'Who is the better drummer: Igor Cavalera or Jaska Raatikainen?', a: 'Igor Cavalera pioneered Brazilian tribal-thrash drumming with Sepultura, defining a global genre on albums like Chaos A.D. and Roots. Jaska Raatikainen provided the technical backbone for Children of Bodom\'s melodic death metal across Hatebreeder and Follow the Reaper. Both are definitive drummers in their styles — the debate is raw tribal power vs melodic death precision.' },
+      { q: 'What gear does Igor Cavalera use?', a: 'Igor Cavalera played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals during his Sepultura tenure — a raw, powerful setup suited to thrash and groove metal.' },
+      { q: 'What gear does Jaska Raatikainen use?', a: 'Jaska Raatikainen played Pearl Masters Premium drums with Sabian cymbals and Pearl Eliminator double pedals — a precision-focused setup suited to Children of Bodom\'s melodic death metal demands.' },
+      { q: 'What is Igor Cavalera\'s legacy in metal drumming?', a: 'Igor Cavalera co-founded Sepultura and drove Brazilian metal into global consciousness. His tribal-thrash fusion on Chaos A.D. and Roots introduced Afro-Brazilian rhythms to international metal and defined the roots-metal sub-genre. He remains one of the most influential rhythm architects in metal history.' },
+    ],
+  },
 };
 
 /**

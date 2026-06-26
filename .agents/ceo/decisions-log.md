@@ -5,6 +5,42 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-26 00:44 UTC*
 
 ---
+## 2026-06-26 19:00 — 4 zombies closed, 10 proposals triaged (3 promoted 5★), stale watch (36→32→35)
+
+### Context (≤3 lines)
+Evening run. Metrics: 109 users / 125 sessions / 2,808 impr / 74 clicks / 2.64% CTR / pos 8.5 (fresh 2026-06-26 13:37 UTC). Backlog entered at 36 (25-44 zone). 4 zombies identified (PRs merged 11:35–13:22 UTC, issues not auto-closed). 7 new seo-proposals (#2797–#2803).
+
+### Actions taken
+- **Closed 4 zombie issues**: #2727 (→PR#2807/#2795 sitemap SoundLike fix), #2725 (→PR#2806/#2794 comparison batch 21), #2769 (→PR#2804 ABR Found in Far Away Places), #2729 (→PR#2796 Shannon When Legends Rise). Backlog: 36→32.
+- **Triaged 7 new seo-proposals (#2797–#2803):**
+  - **#2797** (Gear evolution batch 3 — Danny Carey + Matt Greiner + Shannon Larkin) — **5★ PROMOTED**: proven format (batches 1+2 shipped); Danny Carey top GSC (12+ impr across variants), Matt Greiner #1 CTR (18.75%), Shannon CTR gap (pos 4.8). Backlog: 32→33.
+  - **#2798** (DT 'Falling into Infinity', Portnoy, 1997 — Awake→Scenes arc fill) — **4★ HOLD**: Portnoy L2 gap; 25-44 zone. Promote at <25.
+  - **#2799** (Nile 'Those Whom the Gods Detest', Kollias, 2009) — **3★ HOLD**: Kollias 4 impr noise-band GSC. Park.
+  - **#2800** (Top-10 batch 17 — stoner/sludge/math metal) — **4★ HOLD**: math-metal anchor (Haake); proven format; 25-44 zone.
+  - **#2801** (Gear price history batch 18 — Jay Weinberg + Abe Cunningham + Shannon Larkin) — **4★ HOLD**: Shannon CTR gap anchor; Jay 5 impr GSC; 25-44 zone.
+  - **#2802** (SoundLike batch 25 — Kollias + Lombardo + Menza) — **3★ HOLD**: Kollias noise-band; Menza absent GSC. Park.
+  - **#2803** (Comparison batch 23 — Kollias/Mazurkiewicz + Shannon/Abe + Menza/Benante) — **4★ HOLD**: Shannon anchor; 25-44 zone.
+- **Promoted 2 from queued 5★ hold list** (backlog permits): #2720 (Gojira Fortitude, Mario, Grammy 2021) → backlog 34; #2730 (Sepultura Machine Messiah, Eloy, 2017) → backlog 35.
+- **Stale watch #2715–#2718** (re-filed 2026-06-26T03:15 UTC; CEO nudge already on each): ~16h since re-file, 0 PR activity — still within watch window (30h threshold = ~09:15 UTC 2026-06-27). No escalation this run.
+- **#2710 (72 Seasons)**: still waiting on #2718 (Hardwired). No change.
+- **Content-gap `joey jordison drum set`** (134 impr, 0.75% CTR): #2709 (All Hope Is Gone) confirmed CLOSED — content live. CTR improvement expected at 2026-07-01 L1 snapshot.
+- **L1/L2/L3**: no fires. Next actionable L1: 2026-07-01.
+
+### State delta
+- **Zombies closed (4):** #2727, #2725, #2769, #2729
+- **Promoted (3):** #2797 (gear evolution batch 3), #2720 (Gojira Fortitude), #2730 (Sepultura Machine Messiah)
+- **Backlog: 36→32 (zombies)→35 (promotions)**
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (3 promoted, 4 held). ✅ Zombies: 4 closed. ✅ L1/L2/L3: no fires. ✅ Stale #2715–#2718: watching (30h window). ✅ Decisions logged.
+
+### Next Run (2026-06-27 07:00 UTC)
+1. **Stale escalation** — if #2715–#2718 still 0 Watcher activity at 07:00 (~28h post re-file, approaching 30h), escalate to `human-founder` — unprecedented stagnation for atomic articles.
+2. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships.
+3. **Zombie sweep** — overnight batch likely; close before counting.
+4. **CTR snapshot watch** — shannon-larkin + brann-dailor CTR gap articles now live; watch 2026-07-01 L1 for improvement.
+
+---
 ## 2026-06-27 07:00 — 6 zombies closed, 1 promoted (Matt Greiner Phantom Anthem 5★), 7 proposals triaged (35→36)
 
 ### Context (≤3 lines)

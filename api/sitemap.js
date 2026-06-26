@@ -46,6 +46,9 @@ import { GENRE_GEAR_GUIDES } from '../packages/frontend/data/genreGearGuides.js'
 import { getAllGenreSlugs } from '../packages/frontend/data/genres.js';
 // Issue #2403: kit-level /gear/:brand/:series/drummers-using pages (12 scaffold slugs).
 import { DRUMMERS_BY_KIT } from '../packages/frontend/data/drummersByKit.js';
+// Issue #2727: source sound-like guide slugs from the canonical data module so
+// the sitemap stays in sync when new guides are added to soundLikeGuides.js.
+import { SOUND_LIKE_GUIDES } from '../packages/frontend/data/soundLikeGuides.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -195,43 +198,9 @@ function generateAllDrummerComparisons(drummerList) {
 const drummerComparisons = generateAllDrummerComparisons(drummers);
 
 // Issue #685: "How to Sound Like" guides - SEO content hub
-const soundLikeGuides = [
-  { slug: 'how-to-sound-like-joey-jordison', name: 'How to Sound Like Joey Jordison' },
-  { slug: 'how-to-sound-like-danny-carey', name: 'How to Sound Like Danny Carey' },
-  { slug: 'how-to-sound-like-lars-ulrich', name: 'How to Sound Like Lars Ulrich' },
-  { slug: 'how-to-sound-like-dave-lombardo', name: 'How to Sound Like Dave Lombardo' },
-  { slug: 'how-to-sound-like-mario-duplantier', name: 'How to Sound Like Mario Duplantier' },
-  { slug: 'how-to-sound-like-tomas-haake', name: 'How to Sound Like Tomas Haake' },
-  { slug: 'how-to-sound-like-gene-hoglan', name: 'How to Sound Like Gene Hoglan' },
-  { slug: 'how-to-sound-like-brann-dailor', name: 'How to Sound Like Brann Dailor' },
-  { slug: 'how-to-sound-like-matt-halpern', name: 'How to Sound Like Matt Halpern' },
-  { slug: 'how-to-sound-like-chris-adler', name: 'How to Sound Like Chris Adler' },
-  // Issue #1803: SEO batch — 4 new sound-like guides
-  { slug: 'how-to-sound-like-matt-greiner', name: 'How to Sound Like Matt Greiner' },
-  { slug: 'how-to-sound-like-george-kollias', name: 'How to Sound Like George Kollias' },
-  { slug: 'how-to-sound-like-travis-orbin', name: 'How to Sound Like Travis Orbin' },
-  { slug: 'how-to-sound-like-flo-mounier', name: 'How to Sound Like Flo Mounier' },
-  // Issue #1932: SEO batch — Jay Weinberg, Mike Mangini, Gavin Harrison
-  { slug: 'how-to-sound-like-jay-weinberg', name: 'How to Sound Like Jay Weinberg' },
-  { slug: 'how-to-sound-like-mike-mangini', name: 'How to Sound Like Mike Mangini' },
-  { slug: 'how-to-sound-like-gavin-harrison', name: 'How to Sound Like Gavin Harrison' },
-  // Issue #2015: SEO batch — Nick Menza, Nicko McBrain, Igor Cavalera
-  { slug: 'how-to-sound-like-nick-menza', name: 'How to Sound Like Nick Menza' },
-  { slug: 'how-to-sound-like-nicko-mcbrain', name: 'How to Sound Like Nicko McBrain' },
-  { slug: 'how-to-sound-like-igor-cavalera', name: 'How to Sound Like Igor Cavalera' },
-  // Issue #2271: SEO batch — Matt Garstka, Mikkey Dee, Sean Reinert
-  { slug: 'how-to-sound-like-matt-garstka', name: 'How to Sound Like Matt Garstka' },
-  { slug: 'how-to-sound-like-mikkey-dee', name: 'How to Sound Like Mikkey Dee' },
-  { slug: 'how-to-sound-like-sean-reinert', name: 'How to Sound Like Sean Reinert' },
-  // Issue #2432: SEO batch 17 — Mike Portnoy, Shannon Larkin, Scott Travis
-  { slug: 'how-to-sound-like-mike-portnoy', name: 'How to Sound Like Mike Portnoy' },
-  { slug: 'how-to-sound-like-shannon-larkin', name: 'How to Sound Like Shannon Larkin' },
-  { slug: 'how-to-sound-like-scott-travis', name: 'How to Sound Like Scott Travis' },
-  // Issue #2409: SEO batch 18 — Aquiles Priester, Eloy Casagrande, Charlie Benante
-  { slug: 'how-to-sound-like-aquiles-priester', name: 'How to Sound Like Aquiles Priester' },
-  { slug: 'how-to-sound-like-eloy-casagrande', name: 'How to Sound Like Eloy Casagrande' },
-  { slug: 'how-to-sound-like-charlie-benante', name: 'How to Sound Like Charlie Benante' },
-];
+// Issue #2727: derived from SOUND_LIKE_GUIDES data module so the sitemap stays
+// in sync automatically when new guide entries are added.
+const soundLikeGuides = Object.values(SOUND_LIKE_GUIDES).map(g => ({ slug: g.slug, name: g.title }));
 
 // Issue #702: Beginner gear guides - SEO content hub
 const beginnerGuides = [

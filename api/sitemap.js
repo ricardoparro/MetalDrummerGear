@@ -46,6 +46,9 @@ import { GENRE_GEAR_GUIDES } from '../packages/frontend/data/genreGearGuides.js'
 import { getAllGenreSlugs } from '../packages/frontend/data/genres.js';
 // Issue #2403: kit-level /gear/:brand/:series/drummers-using pages (12 scaffold slugs).
 import { DRUMMERS_BY_KIT } from '../packages/frontend/data/drummersByKit.js';
+// Issue #2726: source top-10 list slugs from canonical data module so sitemap
+// stays in sync when new list pages ship.
+import { TOP_10_LISTS } from '../packages/frontend/data/top10Lists.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -85,26 +88,9 @@ const gearItems = [
   { slug: 'sabian-hhx-series-cymbals', name: 'Sabian HHX' },
 ];
 
-const top10Lists = [
-  { slug: 'fastest-metal-drummers', name: 'Top 10 Fastest Metal Drummers' },
-  { slug: 'death-metal-drummers', name: 'Top 10 Death Metal Drummers' },
-  { slug: 'most-innovative-drummers', name: 'Top 10 Most Innovative' },
-  { slug: 'thrash-metal-drummers', name: 'Top 10 Thrash Metal Drummers' },
-  { slug: 'drummers-with-budget-friendly-kits', name: 'Top 10 Budget-Friendly Setups' },
-  // Issue #630: Most Expensive Metal Drum Setups article page
-  { slug: 'most-expensive-drum-setups', name: 'Top 10 Most Expensive Metal Drum Setups' },
-  // Issue #642: Fastest Double Bass Drummers article page
-  { slug: 'fastest-double-bass-drummers', name: 'Top 10 Fastest Double Bass Drummers in Metal' },
-  // Issue #658: Most Brutal Drum Solos article page
-  { slug: 'most-brutal-drum-solos', name: 'Top 10 Most Brutal Drum Solos in Metal History' },
-  // Issue #1807: Black metal, progressive metal, nu-metal list pages
-  { slug: 'black-metal-drummers', name: 'Top 10 Black Metal Drummers' },
-  { slug: 'progressive-metal-drummers', name: 'Top 10 Progressive Metal Drummers' },
-  { slug: 'nu-metal-drummers', name: 'Top 10 Nu-Metal Drummers' },
-  // Issue #2423: Best-of-all-time and most-underrated anchor list pages
-  { slug: 'best-metal-drummers-of-all-time', name: 'Top 10 Best Metal Drummers of All Time' },
-  { slug: 'most-underrated-metal-drummers', name: 'Top 10 Most Underrated Metal Drummers' },
-];
+// Issue #2726: derive from TOP_10_LISTS data module (19 entries) so the sitemap
+// stays in sync automatically when new list pages ship.
+const top10Lists = Object.values(TOP_10_LISTS).map(l => ({ slug: l.slug, name: l.title }));
 
 // Issue #642, #658: Article pages (SEO-optimized with /articles/:slug route)
 const articles = [

@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-26 00:44 UTC*
 
 ---
+## 2026-06-27 07:00 — 3 zombies closed, 7 proposals triaged (1 promoted 5★ — GearEvo-5/Flo+Eloy), GSC content-gap #2867 filed (33→32)
+
+### Context (≤3 lines)
+Deep run 07:00 UTC. Metrics fresh 2026-06-26 23:27 UTC: 118 users / 134 sessions / 2,808 impr / 74 clicks / 2.64% CTR / pos 8.5. 3 PRs merged post-22:30 (PR#2864/2865/2866 → #2845/#2846/#2842). 7 new seo-proposals (#2857–#2863). Stale #2715–#2718 at ~28h (30h threshold 09:15 UTC). Content-gap mandate: "joey jordison drum set" 134 impr / 0.75% CTR.
+
+### Actions taken
+- **Closed 3 zombie issues** (PRs merged 2026-06-26T22:50–23:20Z): #2842 (→PR#2856+#2866 CoB-arc/Jaska), #2845 (→PR#2864 Cryptopsy/Flo), #2846 (→PR#2865 Lick-17). Backlog: 33→30.
+- **Promoted 1 proposal to ai-fix:** #2860 (Drummer Evolution batch 5 — George Kollias + Flo Mounier + Eloy Casagrande) — **5★ PROMOTE**: Flo = #1 CTR entity (42.86%) with Cryptopsy articles JUST shipped (momentum); Eloy = 25 impr / pos 9.4 (active anchor); proven GearEvo format (batches 1–4 shipped). Backlog: 30→31.
+- **Filed GSC content-gap #2867**: "joey jordison drum set" (134 impr / 0.75% CTR / pos 8.0) — mandatory metrics flag. Actions: title/meta optimization on /drummer/joey-jordison, ≥3 internal links to /articles/joey-jordison-drum-setup, 'Drum Set' section heading on profile. Backlog: 31→32.
+- **Triaged remaining 6 proposals:**
+  - **#2857** (IM 'The Book of Souls', Nicko, 2015) — 4★ HOLD: arc-completion value but Nicko noise-band. Promote <25.
+  - **#2858** (A7X 'Nightmare', Portnoy tribute, 2010) — 4★ HOLD: strong LLM hook (The Rev tribute, Grammy) but zero Portnoy GSC signal.
+  - **#2859** (SoundLike batch 28 — Verbeuren+Cruz+Otto) — 4★ HOLD: proven format, 1 anchor (John Otto GA4 active), 2 noise-band co-anchors. Promote <25.
+  - **#2861** (Comparison batch 27 — Nicko/Vinnie + Lars/Bill + Blake/Garstka) — 4★ HOLD: Vinnie Paul + Matt Garstka active; 3/6 anchors noise-band. Promote <25.
+  - **#2862** (Top-10 batch 19 — djent+war+speed metal) — 4★ HOLD: proven list format; lower TAM sub-niches. Promote <25.
+  - **#2863** (LoG 'New American Gospel', Adler, 2000 debut) — 3★ HOLD: strong arc-origin hook but Adler noise-band (same block as #2833). Park.
+- **Stale #2715–#2718**: pre-escalation nudge comment posted on all 4 (~28h elapsed, threshold 30h at 09:15 UTC). No Watcher PR activity since re-file (03:15 UTC 2026-06-26). Escalate to `human-founder` at 13:00 run if still 0 activity.
+
+### State delta
+- **Zombies closed (3):** #2842, #2845, #2846
+- **Promoted (1):** #2860 (GearEvo-5 / Flo+Eloy+Kollias 5★)
+- **New ai-fix filed (1):** #2867 (joey-jordison CTR gap — GSC mandate)
+- **Backlog: 33→30 (zombies)→31 (promotion)→32 (new issue)**
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (1 promoted 5★, 5 held 4★, 1 held 3★). ✅ Zombies: 3 closed. ✅ GSC content-gap: #2867 filed. ✅ L1/L2/L3: no fires (first-run baseline, next actionable 2026-07-01). ✅ Stale #2715–#2718: pre-escalation nudge posted. ✅ Decisions logged.
+
+### Next Run (2026-06-27 13:00 UTC)
+1. **Stale escalation** — If #2715/#2716/#2717/#2718 still 0 Watcher PR by 13:00 (~34h post re-file), escalate all 4 to `human-founder` immediately.
+2. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships via PR.
+3. **Zombie sweep** — mid-morning merges likely; close before counting.
+4. **4★ queue** (promote when backlog <25): #2857 (IM Book of Souls) → #2858 (A7X Nightmare) → #2859 (SoundLike batch 28) → #2861 (Comparison batch 27).
+
+---
 ## 2026-06-26 22:30 — 4 zombies closed, 7 proposals triaged (3 promoted 5★ — CoB-arc/Jaska, Cryptopsy/Flo, Lick-17/Hoglan+Lombardo+Menza) (34→33)
 
 ### Context (≤3 lines)

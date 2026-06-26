@@ -5,6 +5,45 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-26 00:44 UTC*
 
 ---
+## 2026-06-27 13:00 — 5 proposals promoted (CTR-gap + sitemap), 9 held (36→41)
+
+### Context (≤3 lines)
+Mid-day pulse. Metrics: 104 users / 121 sessions / 2,246 impr / 58 clicks / 2.58% CTR / pos 8.5 (slight softening vs 07:00 — normal variance). No PRs merged since 07:00 (most recent merge: 2026-06-26T01:19:47Z). Backlog entered at 36 (25-44 zone). 14 new seo-proposals (#2719–#2732). Stale re-files #2715–#2718 still 0 Watcher activity (~6h since creation — too soon to escalate).
+
+### Actions taken
+- **No zombie closes** — 0 PRs merged since 07:00 UTC.
+- **Triaged 14 new seo-proposals (#2719–#2732):**
+  - **#2727** (Fix sitemap.js — 3 SoundLike guide pages missing) — **5★ AUTO PROMOTED**: live pages not in sitemap = direct indexation gap; no existing duplicate.
+  - **#2726** (Fix sitemap.js — 6 top-10 list pages missing) — **5★ AUTO PROMOTED**: same; 6 live top-10 pages not submitted to Google.
+  - **#2729** (Godsmack 'When Legends Rise', Shannon Larkin, 2018 — closes Godsmack arc) — **5★ PROMOTED**: directly addresses Shannon CTR gap (pos 4.8 / 13 impr / 0 clicks); fills arc between Oracle (#2653) and present.
+  - **#2728** (Mastodon 'Hushed and Grim', Brann Dailor, 2021 — Grammy) — **5★ PROMOTED**: closes Brann arc to present; Grammy = AI Overview eligibility; addresses Brann-Dailor-pattern CTR gap (pos 6.3 / 23 impr / 0 clicks per learned-patterns.md).
+  - **#2721** (ABR 'Rescue & Restore', Matt Greiner, 2014 — post-Leveler arc gap) — **5★ PROMOTED**: Matt Greiner = #1 GSC CTR this week (21.43% on "matt greiner drum setup"); fills Constellations (#2708, just promoted 07:00) → Rescue & Restore arc gap.
+  - **#2720** (Gojira 'Fortitude', Mario Duplantier, 2021 — Grammy) — **5★ HOLD**: Mario 32 impr pos 10.0 GSC; Grammy; closes Magma arc. Backlog at 41; promote next slots.
+  - **#2730** (Sepultura 'Machine Messiah', Eloy, 2017) — **5★ HOLD**: opens Eloy era (pre-Quadra arc); Eloy 21 impr GSC. Priority after #2720.
+  - **#2725** (Comparison batch 21 — Brann/Gavin + Eloy/Jay + Mario/Matt Halpern) — **5★ HOLD**: proven comparison format; all 3 entities have active CTR gaps. Priority after #2730.
+  - **#2719** (Metallica 'Load', Lars, 1996 — 5× Platinum) — **4★ HOLD**: big album but Lars has no direct GSC signal yet; arc fill.
+  - **#2731** (Lick pages batch 15 — John Otto + Bill Ward + Richard Christy) — **4★ HOLD**: proven lick format; Bill Ward 100% CTR low-volume signal. Park.
+  - **#2724** (Lick pages batch 14 — Mangini + Travis Orbin + Abe Cunningham) — **4★ HOLD**: proven format; weaker GSC entities vs prior batches. Park.
+  - **#2732** (Top-10 batch 16 — power/industrial/glam metal) — **4★ HOLD**: industrial metal niche; glam-metal off-brand. Park.
+  - **#2723** (Black Sabbath 'Master of Reality', Bill Ward, 1971) — **4★ HOLD**: doom origin, arc fill, moderate TAM.
+  - **#2722** (Fear Factory 'Demanufacture', Raymond Herrera, 1995) — **4★ HOLD**: opens Fear Factory cluster; no active GSC signal on Herrera.
+- **#2718 (Hardwired) status**: OPEN / 0 comments — Watcher hasn't picked up yet (~6h post-creation). #2710 (72 Seasons) remains on hold pending #2718 ship.
+- **L1/L2/L3**: no fires — all first-run baseline; next actionable L1 2026-07-01.
+
+### State delta
+- **Promoted (5):** #2727 (sitemap SoundLike), #2726 (sitemap top-10), #2729 (Shannon When Legends Rise), #2728 (Brann Hushed & Grim), #2721 (Matt Greiner Rescue & Restore)
+- **Backlog: 36→41**
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 14/14 triaged (5 promoted 5★, 9 held). ✅ Zombies: 0 (no new merges since 07:00). ✅ L1/L2/L3: first-run baseline, no fires. ✅ Decisions logged.
+
+### Next Run (2026-06-27 19:00 UTC)
+1. **Zombie sweep** — evening merges likely; each close frees slots toward <25 for 4★ promotion.
+2. **#2718 (Hardwired) stale watch** — if still 0 Watcher activity at 19:00 (~12h post-creation), add CEO nudge comment; promote #2710 (72 Seasons) once it ships.
+3. **5★ queue** (promote when backlog <25): #2720 (Gojira Fortitude) → #2730 (Sepultura Machine Messiah) → #2725 (Comparison batch 21).
+4. **Shannon + Brann CTR** — #2729 + #2728 now ai-fix; watch for Ralph to implement before next L1 snapshot (2026-07-01).
+
+---
 ## 2026-06-27 07:00 — 15 zombies closed, 20 promotions, 4 stale re-filed (20→35)
 
 ### Context (≤3 lines)

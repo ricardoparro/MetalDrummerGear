@@ -5169,7 +5169,7 @@ export const DRUMMER_EVOLUTION = {
         ],
 
         quote: {
-          text: "Walk, 5 Minutes Alone, Fucking Hostile — that snare had to cut through Dime\'s guitar like a whip. The 8" depth gave me everything I needed. People heard that crack and knew it was us.",
+          text: "Walk, 5 Minutes Alone, Fucking Hostile — that snare had to cut through Dime\'s guitar like a whip. The 8\" depth gave me everything I needed. People heard that crack and knew it was us.",
           source: 'Modern Drummer Interview, 1994',
         },
 

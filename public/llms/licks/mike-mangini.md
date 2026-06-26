@@ -1,6 +1,6 @@
 # Mike Mangini — Signature Drum Licks & Patterns
 
-**Band:** Dream Theater | **Genre:** Progressive Metal | **Lick Count:** 3
+**Band:** Dream Theater | **Genre:** Progressive Metal | **Lick Count:** 6
 
 ---
 
@@ -77,6 +77,75 @@ The twelve-minute epic "Breaking All Illusions" is the most ambitious track on A
 
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass), [Polyrhythms](https://metalforge.io/technique/polyrhythms)
 
+## Constant Motion 7/8 Paradiddle Engine
+
+**Song:** Constant Motion | **Album:** Systematic Chaos (2007) | **BPM:** ~175 BPM | **Technique:** signature pattern | **Difficulty:** expert
+
+"Constant Motion" from Dream Theater's Systematic Chaos (2007) is one of the most demanding paradiddle showcases in progressive metal, and since Mike Mangini joined Dream Theater in 2010 he has made the song his own in the band's live sets — bringing his uniquely systematic, ambidextrous approach to material that perfectly showcases his pedagogical philosophy. The track is built around a relentless paradiddle engine that operates in shifting metric groupings, with sections moving between 4/4 and 7/8 while maintaining a ferocious forward drive. Mangini's ability to execute paradiddles with equal facility from either hand means the 7/8 groupings flow with the same inevitability as the 4/4 sections, unified by mechanical precision that reflects years of symmetrical training. A paradiddle at approximately 175 BPM while coordinating feet across odd-time groupings requires four-limb independence that takes years to develop. Mangini's key insight is that the paradiddle is not merely a hand exercise but a complete coordination system: properly internalised, it allows the drummer to subdivide any meter by deploying the hand pattern against different kick and hi-hat ostinatos. The result at performance speed is a paradiddle engine that sounds machine-like while feeling musical — the defining quality of his systematic approach.
+
+### How to Play
+
+- Build the paradiddle from single strokes — both hands must reach identical rebound height and velocity before adding the double
+- Deploy the paradiddle stream as a coordination vehicle against changing kick and hi-hat ostinatos
+- Feel the 7/8 groupings as a natural subdivision of the paradiddle cycle, not as a separate meter to count
+- Lead from either hand with equal facility — ambidexterity is the mechanism that makes odd-time paradiddles flow
+- Practise the 7/8 pattern slowly with a metronome locked to the dotted-quarter pulse before building tempo
+
+### Key Elements
+
+- Practise the paradiddle at 60 BPM with a metronome, both leading right and left hand, until strokes are identical
+- Build the 7/8 kick pattern separately against a click before overlaying the paradiddle hands
+- Use a mirror to watch both wrists — any asymmetry at slow tempo amplifies at speed
+- Increase tempo in 5 BPM increments and return to the previous level if evenness breaks down
+
+**Core Techniques:** [Paradiddles](https://metalforge.io/technique/paradiddles), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass)
+
+## Bridges in the Sky 5-over-4 Polyrhythm
+
+**Song:** Bridges in the Sky | **Album:** A Dramatic Turn of Events (2011) | **BPM:** ~146 BPM | **Technique:** polyrhythm | **Difficulty:** expert
+
+"Bridges in the Sky" is one of the spiritual centrepieces of A Dramatic Turn of Events, Dream Theater's first album with Mike Mangini, and its instrumental passages contain some of the most clearly articulated 5-over-4 polyrhythmic phrasing in the progressive metal canon. The song's structural sections are built around five-note rhythmic groupings that play against the underlying 4/4 pulse, creating a characteristic metric tension where the natural beat appears to shift position every five strokes before resolving back to the downbeat. Mangini does not approximate the feel of five against four but constructs it precisely, placing each stroke at its geometrically correct position within the combined twenty-beat cycle. The 5-over-4 polyrhythm serves many compositional functions — as a fill that implies a different meter for one bar, as a recurring ostinato, or as the defining character of an entire section that creates a floating, unresolved quality before the downbeat re-anchors. Mangini's clinic materials teach the cycle by having students count "1-2-3-4-5" over a 4/4 pulse, building limb independence before adding any sticking — the same systematic approach across all his technique demonstrations.
+
+### How to Play
+
+- Count the 5-over-4 cycle as three groups of five against five groups of four before adding any sticking
+- Accent the first stroke of each five-note group deliberately and trail the remaining four at a slightly lower dynamic
+- Keep the underlying 4/4 pulse locked in the hi-hat foot while the hands run the five-note groupings
+- Build the twenty-beat cycle by feeling it as a complete phrase — build an internal sense of where the downbeat resolves
+- Practise leading the five-note groups with either hand to build symmetrical polyrhythmic independence
+
+### Key Elements
+
+- Learn the 5-over-4 cycle by speaking it first over a quarter-note pulse until the landing feels natural
+- Tap each hand independently — right hand on five-note groups, left foot on the underlying four — before combining all limbs
+- Record yourself and listen for whether the accent on beat one of each five-note group is consistently audible
+- Practise the pattern in a musical context at half tempo before approaching the song's BPM
+
+**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass)
+
+## Paralyzed 32nd-Note Fill Cascade
+
+**Song:** Paralyzed | **Album:** Distance Over Time (2019) | **BPM:** ~136 BPM | **Technique:** fills | **Difficulty:** expert
+
+"Paralyzed" from Dream Theater's Distance Over Time (2019) is one of the most compact showcases of Mike Mangini's fill vocabulary in his studio catalogue — a mid-tempo progressive metal track where the instrumental sections open space for his most controlled, dense passages of 32nd-note activity. Distance Over Time marked a deliberate return to a leaner, more direct sound, and Mangini's drumming reflects that directness: the fills are purposeful, deployed for maximum impact. A 32nd-note fill at 136 BPM puts 544 strokes per minute through his wrists — approaching his World's Fastest Drummer record territory. What distinguishes his fill from chops demonstration is the control: every stroke is intentional, every accent placed to mark the fill's shape. The fill moves across the kit with a clear logic — snare to toms to kick accent — with a beginning, middle, and end that is audible even at performance speed. This narrative quality inside extreme technical passages is Mangini's most distinctive musical gift. The prescription is standard: start at fifty percent speed, build evenness before building tempo, never rush the subdivision. 32nd-note fills become flammy under pressure when wrists tighten; slow deliberate repetition at a relaxed grip is the only cure.
+
+### How to Play
+
+- Begin the 32nd-note cascade on the snare with a clean accent to establish the fill's starting point
+- Move across the toms with consistent stroke velocity — resist the urge to accelerate through the fill
+- Land on the kick accent at the fill's resolution with full authority to mark the phrase ending
+- Keep the wrists relaxed and open throughout — tension at high stroke density produces flams, not clarity
+- Practise the fill in reverse (from landing back to start) to internalise the arc before playing forward
+
+### Key Elements
+
+- Isolate the fill at 70 BPM and play it perfectly ten times before advancing to 80 BPM
+- Record at full speed and listen back for any flamming — the ear catches imprecision the hands miss in the moment
+- Practise single-stroke rolls daily at various tempos to build the wrist endurance this fill demands
+- Learn the fill as a musical phrase — feel where it comes from and where it resolves
+
+**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass), [Speed Technique](https://metalforge.io/technique/speed-technique)
+
 ## Teaching Points
 
 Mike Mangini's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Practise weak-side leads so both hands and feet are equally capable; Break the coordination into single-limb components before combining; Use a metronome and build double bass evenly, not just quickly. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
@@ -90,4 +159,4 @@ Mike Mangini's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-26 · Source: [MetalForge.io](https://metalforge.io)*

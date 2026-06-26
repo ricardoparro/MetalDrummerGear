@@ -70,6 +70,7 @@ No. Haake uses two independent single bass drum pedals throughout his career —
 - [Nothing drum setup](/articles/nothing-drum-setup) — 2002, Sonor Designer Series era; systematizes the Chaosphere vocabulary
 - [obZen drum setup](/articles/obzen-drum-setup) — 2008, same Sonor platform, pushes further with "Bleed"
 - [Catch 33 drum setup](/articles/catch-33-drum-setup) — 2005, programmed drums experiment between Nothing and obZen
+- [Tomas Haake drummer profile](/drummer/tomas-haake) — full career overview and endorsements
 - [Tomas Haake kit profile](/articles/whats-in-tomas-haakes-kit) — complete career gear overview
 
 ## Structured Data (LLM Reference)

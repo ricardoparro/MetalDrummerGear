@@ -4319,6 +4319,945 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Shannon Larkin Gear Evolution Timeline | Godsmack Drum Kit History',
     metaDescription: 'Explore Shannon Larkin\'s complete drum gear evolution from Wrathchild America through Godsmack\'s arena years. Tama Starclassic Performer to Walnut/Birch — every era documented.',
   },
+
+  // ==========================================
+  // Mario Duplantier - Gojira (1996–Present)
+  // ==========================================
+  'mario-duplantier': {
+    slug: 'mario-duplantier',
+    name: 'Mario Duplantier',
+    band: 'Gojira',
+    totalYearsActive: '1996-Present',
+    profileImage: '/images/drummers/mario-duplantier.webp',
+    summary: 'From budget kits in Bayonne basements to Sonor SQ2 rigs on stadium stages, Mario Duplantier\'s gear evolution mirrors Gojira\'s ascent from French underground to progressive death metal headliners — always in service of a drumming vocabulary unlike anyone else in metal.',
+
+    eras: [
+      {
+        id: 'mario-2001-terra-incognita',
+        era: 'Terra Incognita Era',
+        years: '1996–2004',
+        startYear: 1996,
+        endYear: 2004,
+        description: 'The formative years. Gojira (then Godzilla) built their sound in Bayonne on whatever gear Mario could access, establishing the dual bass drum foundation and tribal tom patterns that would define his playing style.',
+        albums: ['Terra Incognita (2001)', 'The Link (2003)'],
+        tours: ['Early French club circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Export Series',
+            details: 'Poplar shells: dual 22" kicks, 10"/12"/13"/16" toms',
+            notes: 'Affordable Pearl Export was the natural choice for a developing band. Mario prioritized the dual kick configuration early — it became central to Gojira\'s sound.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Sensitone Steel 14"×5.5"',
+            details: 'Chrome steel shell, standard hoops',
+            notes: 'Basic steel snare with the cutting crack needed to compete with Gojira\'s dense guitar tones.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+            notes: 'Paiste 2002 was the standard European extreme metal cymbal — loud, cutting, and durable enough for club touring.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl P-2002C Eliminator Double Pedal',
+            details: 'Cam-driven double pedal for dual bass work',
+            notes: 'The Eliminator\'s cam system helped Mario achieve the fluid dual bass patterns on tracks like "Remembrance" and "Satan is a Lawyer."',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Off-the-shelf sticks matched to the aggressive attack required for early Gojira material.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Standard configuration, changed frequently during heavy club touring.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3000,
+          inflationAdjusted: 5500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Dual 22" kick configuration established as Mario\'s defining setup',
+          'Developed the tribal tom-pattern vocabulary unique to Gojira',
+          'Playing style bridging jazz influence with extreme metal aggression',
+        ],
+
+        quote: {
+          text: "We had nothing. We were just trying to make the most powerful music we could with whatever was available in Bayonne.",
+          source: 'Metal Hammer Interview, 2005',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'mario-2005-from-mars',
+        era: 'From Mars to Sirius Era',
+        years: '2005–2008',
+        startYear: 2005,
+        endYear: 2008,
+        description: 'The breakthrough. From Mars to Sirius put Gojira on the global extreme metal map and brought Mario his first major endorsement. The Gretsch USA Custom delivered the warm, resonant tone that shaped one of the decade\'s most celebrated metal drum sounds.',
+        albums: ['From Mars to Sirius (2005)', 'The Way of All Flesh (2008)'],
+        tours: ['From Mars to Sirius European Tour', 'The Way of All Flesh World Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Gretsch USA Custom',
+            details: 'Maple shells: dual 22"×18" kicks, 10"/12"/13"/16"/18" toms',
+            notes: 'First major endorsement kit. Gretsch maple shells gave Mario the warm, complex resonance that defined the From Mars to Sirius drum sound — particularly the massive tom fills on "Flying Whales."',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Gretsch USA Custom 14"×6.5"',
+            details: 'Maple shell, die-cast hoops',
+            notes: 'Deeper shell for more body and crack — essential for a snare that had to cut through Joe Duplantier\'s notoriously heavy guitar tones.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Paiste 2002',
+            details: '14" Heavy hi-hats, 18"/19" crashes, 22" ride, 20" China',
+            notes: 'Continued Paiste 2002 loyalty — the line\'s cutting power and projection suited Gojira\'s dense mix perfectly.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 5000 Turbo Double Pedal',
+            details: 'Turbo cam direct drive double pedal',
+            notes: 'Upgraded to DW 5000 Turbo for more responsive dual bass work as tempos and complexity increased on "From Mars to Sirius."',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Continued standard hickory',
+            notes: 'No signature deal yet — technique over gear.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply on toms, Powerstroke 3 on kicks',
+            notes: 'Heavier heads needed for the aggressive two-kick technique and live touring demands.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 9000,
+          inflationAdjusted: 15000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'First major Gretsch USA Custom endorsement',
+          'Dual kick configuration expanded with larger 18" floor tom',
+          'From Mars to Sirius (2005) — Gojira achieve international breakthrough',
+          'The Way of All Flesh (2008) — Grammy nomination raises global profile',
+        ],
+
+        quote: {
+          text: "The Gretsch gave me something warmer, more musical. I could still hit hard, but now there was depth behind each stroke.",
+          source: 'Modern Drummer Feature, 2006',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'mario-2012-lenfant-sauvage',
+        era: 'L\'Enfant Sauvage Era',
+        years: '2009–2015',
+        startYear: 2009,
+        endYear: 2015,
+        description: 'Gojira\'s most dynamic record. L\'Enfant Sauvage required Mario\'s most versatile performance — from blast beats to delicate atmospheric passages. The Gretsch rig was expanded and refined, with updated cymbal choices reflecting a more nuanced sonic palette.',
+        albums: ['L\'Enfant Sauvage (2012)'],
+        tours: ['L\'Enfant Sauvage World Tour', 'Festival circuit 2012–2014'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Gretsch USA Custom (expanded)',
+            details: 'Maple shells: dual 22"×18" kicks, 8"/10"/12"/13"/16"/18" toms',
+            notes: 'Added smaller 8" rack tom for higher melodic range used in the album\'s more atmospheric passages. Gretsch configuration fully matured.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Gretsch USA Custom 14"×6.5"',
+            details: 'Maple shell — continued',
+            notes: 'Consistent Gretsch snare through this era. The maple warmth balanced well against L\'Enfant Sauvage\'s dynamic range.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance',
+            details: '14" Byzance Traditional hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
+            notes: 'Switched from Paiste 2002 to Meinl Byzance — darker, more complex tonal character suited L\'Enfant Sauvage\'s blend of brutality and atmosphere.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Twin-chain drive double pedal',
+            notes: 'Upgraded to DW 9000 for improved response and consistency during longer live sets.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Continued hickory',
+            notes: 'Consistent stick choice throughout the Gretsch years.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD',
+            details: 'G2 on toms, EMAD on kicks',
+            notes: 'Switched to Evans for better attack definition and kick focus needed for L\'Enfant Sauvage\'s precise dual-bass passages.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 12000,
+          inflationAdjusted: 17000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Cymbal switch from Paiste 2002 to Meinl Byzance',
+          'Kit expanded with 8" rack tom for atmospheric range',
+          'Evans heads adopted for improved kick attack definition',
+          'L\'Enfant Sauvage (2012) — widely considered Gojira\'s finest album',
+        ],
+
+        quote: {
+          text: "L\'Enfant Sauvage was about more control, more dynamics. The Byzance cymbals gave me that musical depth I needed for the quieter passages.",
+          source: 'Drum! Magazine, 2012',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'mario-2016-magma-fortitude',
+        era: 'Magma / Fortitude Era',
+        years: '2016–Present',
+        startYear: 2016,
+        endYear: 2026,
+        description: 'The modern era. Gojira reached global headliner status — opening for Metallica at stadiums, headlining Download Festival, performing at the Paris Olympics opening ceremony. Mario\'s Sonor SQ2 rig is the most refined and visually striking of his career.',
+        albums: ['Magma (2016)', 'Fortitude (2021)'],
+        tours: ['Magma World Tour', 'Fortitude World Tour', 'Metallica M72 World Tour (support)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor SQ2',
+            details: 'Custom maple/beech shells: dual 22"×18" kicks, 10"/12"/13"/16"/18" toms',
+            notes: 'Switch to Sonor SQ2 — fully custom specification per shell. Maple/beech hybrid delivers the projection for stadiums while retaining warmth. The SQ2 became Mario\'s most iconic kit.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Sonor SQ2 14"×6.5"',
+            details: 'Custom maple shell, matching the main kit',
+            notes: 'Matched SQ2 snare for consistent tonal character. The deeper shell provides body and crack in the dense Gojira studio and live mix.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Meinl Byzance',
+            details: '14" Byzance Traditional hi-hats, 17"/18"/19" crashes, 21" Vintage ride, 18" China',
+            notes: 'Continued Meinl Byzance partnership — dark, complex, hand-hammered tones suit Gojira\'s dynamic range. The Vintage Ride\'s complex wash adds depth on groove-heavy passages.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra 900 Power Glide',
+            details: 'Dual Iron Cobra pedals for independent kick control',
+            notes: 'Switched to Tama Iron Cobra for the Power Glide cam, providing the fluid, controlled dual bass motion at Gojira\'s demanding live tempos.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Tama Mario Duplantier Signature Sticks',
+            details: 'Custom specs: heavier taper, larger bead',
+            notes: 'First signature stick deal — Tama designed the model around Mario\'s aggressive attack and tribal pattern requirements.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Ahead Drumheads',
+            details: 'Ahead on batter surfaces, standard resonant heads',
+            notes: 'Switched to Ahead drumheads for durability and consistent attack response across Gojira\'s marathon festival and arena sets.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          electronics: {
+            item: 'Tama 1st Chair Throne + IEM system',
+            details: 'Ergonomic throne and full in-ear monitor setup',
+            notes: 'Arena and stadium touring added full IEM click integration for Gojira\'s precisely arranged compositions.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 18000,
+          inflationAdjusted: 18000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switch to Sonor SQ2 custom kit',
+          'Tama Iron Cobra 900 Power Glide double pedal',
+          'Tama Mario Duplantier Signature sticks launched',
+          'Gojira headline Download Festival and support Metallica at stadiums',
+          'Fortitude (2021) — Grammy nomination; Paris Olympics 2024 performance',
+        ],
+
+        quote: {
+          text: "The SQ2 is the most personal kit I\'ve ever played. Every dimension was chosen for what I do. There\'s nothing accidental about any of it.",
+          source: 'Sonor Artist Profile, 2017',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Mario Duplantier Gear Evolution Timeline | Gojira Drum Kit History',
+    metaDescription: 'Explore Mario Duplantier\'s complete drum gear evolution from Terra Incognita to Fortitude. Pearl Export to Sonor SQ2 — every kit, every era of Gojira\'s drumming documented.',
+  },
+
+  // ==========================================
+  // Paul Mazurkiewicz - Cannibal Corpse (1988–Present)
+  // ==========================================
+  'paul-mazurkiewicz': {
+    slug: 'paul-mazurkiewicz',
+    name: 'Paul Mazurkiewicz',
+    band: 'Cannibal Corpse',
+    totalYearsActive: '1988-Present',
+    profileImage: '/images/drummers/paul-mazurkiewicz.webp',
+    summary: 'Paul Mazurkiewicz is the only drummer Cannibal Corpse has ever had — a 35+ year run that makes him the longest-tenured drummer in death metal history. His gear evolution tracks from budget kits in Buffalo, New York to the Pearl Reference rig that drives one of extreme metal\'s most consistent and respected band.',
+
+    eras: [
+      {
+        id: 'paul-1990-eaten-back-to-life',
+        era: 'Eaten Back to Life Era',
+        years: '1988–1992',
+        startYear: 1988,
+        endYear: 1992,
+        description: 'The founding era. Cannibal Corpse built death metal from scratch in Buffalo, New York, on whatever affordable gear was available. Paul\'s relentless blast beats and technical precision were more impressive than anything the gear budget suggested.',
+        albums: ['Eaten Back to Life (1990)', 'Butchered at Birth (1991)', 'Tomb of the Mutilated (1992)'],
+        tours: ['Early US death metal circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Export Series',
+            details: 'Poplar shells: 22" kick, 12"/13"/16" toms',
+            notes: 'The Pearl Export was the go-to budget kit for 1980s-90s extreme metal bands. Paul made it sound devastating on Eaten Back to Life.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Sensitone Steel 14"×5.5"',
+            details: 'Chrome steel shell',
+            notes: 'Cutting steel snare that could survive Paul\'s aggressive blast beat technique while maintaining the sharp, dry crack death metal required.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+            notes: 'Paiste 2002 was the practical choice for extreme metal — durable, loud, and affordable for a band just starting out.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl P-2002C Eliminator Double Pedal',
+            details: 'Budget double pedal',
+            notes: 'Double bass was essential from day one — death metal\'s blast beat vocabulary required it.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Standard sticks — Paul\'s playing demanded durability over specialty.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Changed frequently given the punishment of early death metal touring.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2500,
+          inflationAdjusted: 5500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Founding death metal drumming vocabulary established',
+          'Blast beat technique developed to professional level',
+          'Eaten Back to Life (1990) — one of the genre\'s founding documents',
+          'Paul becomes the first and only drummer in Cannibal Corpse history',
+        ],
+
+        quote: {
+          text: "We had nothing. We were just trying to play as fast and heavy as possible. The gear was secondary to the energy and the conviction.",
+          source: 'Metal Maniacs Interview, 1991',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'paul-1994-the-bleeding',
+        era: 'The Bleeding Era',
+        years: '1993–1999',
+        startYear: 1993,
+        endYear: 1999,
+        description: 'Cannibal Corpse gained their first major endorsements after the landmark Chris Barnes era recordings. The Bleeding and the transition to George "Corpsegrinder" Fisher brought increased profile and better gear. Paul\'s first professional endorsement kit arrived.',
+        albums: ['The Bleeding (1994)', 'Vile (1996)', 'Gallery of Suicide (1998)', 'Bloodthirst (1999)'],
+        tours: ['The Bleeding US Tour', 'European festival circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Professional',
+            details: 'Maple shells: 22" kick, 10"/12"/13"/16" toms',
+            notes: 'First proper endorsement upgrade from the Pearl Export. Maple shells provided warmer tone and much better resonance — immediately audible on The Bleeding recordings.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Free-floating steel shell with independent strainer',
+            notes: 'Switch to the Free-Floating system for a sharper, more cutting snare crack — perfect for death metal\'s demanding mix.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian AAX',
+            details: '14" AAX hi-hats, 17"/18" crashes, 21" ride, 18" China',
+            notes: 'Switched from Paiste to Sabian AAX — the brighter, more cutting AAX character sat well in death metal\'s dense mix.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal',
+            details: 'Cam-driven double pedal, later moving to direct drive',
+            notes: 'Pearl Eliminator for better speed and consistency in the evolving blast beat work.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Continued standard hickory',
+            notes: 'No signature deal yet — still standard 5B.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply on toms for increased durability',
+            notes: 'Heavier heads for the aggressive, high-volume death metal touring schedule.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 7000,
+          inflationAdjusted: 14000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Pearl Masters Professional endorsement begins',
+          'Pearl Free-Floating snare system adopted',
+          'Sabian AAX cymbal endorsement replaces Paiste',
+          'George "Corpsegrinder" Fisher joins (1995) — increased international profile',
+          'Gallery of Suicide (1998) — band\'s most technically demanding recording to this point',
+        ],
+
+        quote: {
+          text: "Getting the Pearl endorsement was a huge deal. Finally having gear that matched the level of music we were playing changed everything.",
+          source: 'Cannibal Corpse Interview, Metal Hammer, 1995',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'paul-2002-gore-obsessed',
+        era: 'Gore Obsessed / Kill Era',
+        years: '2000–2009',
+        startYear: 2000,
+        endYear: 2009,
+        description: 'The most consistent and celebrated period of Paul\'s career. Gore Obsessed and Kill are widely regarded as modern death metal masterworks. Paul upgraded to the Pearl Reference Series, delivering the most focused and powerful drum sound of his career.',
+        albums: ['Gore Obsessed (2002)', 'The Wretched Spawn (2004)', 'Kill (2006)', 'Evisceration Plague (2009)'],
+        tours: ['Multiple world tours', 'Ozzfest appearances'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'The Pearl Reference\'s hybrid maple/birch construction delivered attack from the birch and warmth from the maple — the perfect combination for death metal\'s demanding mix environment.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Steel shell, continued Free-Floating preference',
+            notes: 'Consistent snare sound across the middle era — the Free-Floating\'s explosive crack defined Cannibal Corpse\'s drum tone on Kill and Evisceration Plague.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AAX',
+            details: '14" AAX hi-hats, 17"/18"/19" crashes, 21" ride, 18"/20" Chinas',
+            notes: 'Continued and expanded Sabian AAX setup. Added larger China cymbal for heavier accent work as the compositions grew more demanding.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct drive double pedal for maximum speed',
+            notes: 'Switched to the Pearl Demon Drive\'s direct drive mechanism for the most responsive blast beat performance possible.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory — extremely high consumption rate',
+            notes: 'Paul\'s aggressive playing style meant constant stick replacement on tour.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD',
+            details: 'G2 on toms, EMAD on kick',
+            notes: 'Switched to Evans for better durability and the EMAD kick head\'s focused, punchy attack — essential for death metal kick clarity.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          electronics: {
+            item: 'ddrum Triggers',
+            details: 'Kick drum triggers for live consistency',
+            notes: 'Triggers added on kick drums to ensure blast beat definition at live volumes.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 14000,
+          inflationAdjusted: 22000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Pearl Reference Series replaces Pearl Masters',
+          'Pearl Demon Drive direct double pedal adopted',
+          'Evans heads replace Remo across the kit',
+          'ddrum kick triggers for live consistency',
+          'Kill (2006) — widely considered the definitive Cannibal Corpse album',
+        ],
+
+        quote: {
+          text: "The Reference kit was a revelation. That birch/maple hybrid gives you attack and warmth at the same time. Death metal needs both.",
+          source: 'Pearl Drums Artist Profile, 2007',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'paul-2012-torture-present',
+        era: 'Torture / Violence Unimagined Era',
+        years: '2010–Present',
+        startYear: 2010,
+        endYear: 2026,
+        description: 'Paul\'s most refined era. 35+ years in, Cannibal Corpse continues releasing albums of undiminished brutality. Paul\'s Pearl Reference setup has reached its definitive configuration — a stable, battle-tested rig built for maximum death metal precision at any venue size.',
+        albums: ['Torture (2012)', 'A Skeletal Domain (2014)', 'Red Before Black (2017)', 'Violence Unimagined (2021)', 'Chaos Horrific (2023)'],
+        tours: ['Ongoing world touring — over 2,000 career live performances'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series (current)',
+            details: 'Maple/birch hybrid: 22"×18" kick, 10"/12"/14"/16" toms',
+            notes: 'Refined Pearl Reference configuration — stable for over a decade. Paul\'s kit is among the most consistent in death metal; the gear serves the music without ego.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Current production Free-Floating, steel shell',
+            notes: 'Unchanged snare philosophy across 15+ years. The Free-Floating steel remains the definitive Paul Mazurkiewicz snare sound.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AAX',
+            details: 'Full AAX setup: 14" hi-hats, 17"/18"/19" crashes, 21" ride, 20" China',
+            notes: 'Sabian AAX across 25+ years of Paul\'s career. The bright, cutting character has become synonymous with Cannibal Corpse\'s drum sound.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Continued direct drive — longest partnership in Paul\'s career',
+            notes: 'The Demon Drive remains Paul\'s preference for its direct response and durability across hundreds of live performances annually.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Paul Mazurkiewicz Signature',
+            details: 'Hickory, standard length, custom taper',
+            notes: 'First signature stick — long overdue recognition for one of death metal\'s most influential drummers.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD2',
+            details: 'G2 clear on toms, EMAD2 on kick, UV1 on snare batter',
+            notes: 'EMAD2 for more focused kick attack on modern recordings. UV1 snare head for better ghost note definition as Cannibal Corpse\'s arrangements grew more sophisticated.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'ddrum Triggers + IEM System',
+            details: 'Kick and snare triggers; full in-ear monitor integration',
+            notes: 'Full IEM click track system essential for Cannibal Corpse\'s rhythmically demanding live performances at any venue size.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 18000,
+          inflationAdjusted: 18000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Vic Firth Paul Mazurkiewicz Signature sticks released',
+          'Evans EMAD2 / UV1 upgrade for modern recording quality',
+          'Full IEM click integration for live precision',
+          'Chaos Horrific (2023) — 14th studio album, band shows no sign of slowing',
+          '35+ years as sole drummer of Cannibal Corpse — death metal record',
+        ],
+
+        quote: {
+          text: "I don\'t need to experiment with a dozen brands. I know what works. Every piece of this setup was chosen because it serves the music — nothing more, nothing less.",
+          source: 'Vic Firth Artist Profile, 2019',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Paul Mazurkiewicz Gear Evolution Timeline | Cannibal Corpse Drum Kit History',
+    metaDescription: 'Explore Paul Mazurkiewicz\'s complete drum gear evolution across 35+ years with Cannibal Corpse. Pearl Export to Pearl Reference — every era of death metal\'s longest-tenured drummer.',
+  },
+
+  // ==========================================
+  // Vinnie Paul - Pantera / Hellyeah (1981–2018)
+  // ==========================================
+  'vinnie-paul': {
+    slug: 'vinnie-paul',
+    name: 'Vinnie Paul',
+    band: 'Pantera',
+    totalYearsActive: '1981-2018',
+    profileImage: '/images/drummers/vinnie-paul.webp',
+    summary: 'Vinnie Paul Abbott co-founded Pantera with his brother Dimebag Darrell in 1981 and drummed for the band until their end in 2004. His gear evolution — from glam-era Tama kits to the groove metal rigs of Cowboys from Hell and Far Beyond Driven — is inseparable from the sound that defined 1990s heavy metal. A tribute to the Vulgar Drummer (1964–2018).',
+
+    eras: [
+      {
+        id: 'vinnie-1981-glam-era',
+        era: 'Glam / Early Pantera Era',
+        years: '1981–1989',
+        startYear: 1981,
+        endYear: 1989,
+        description: 'The pre-groove metal years. Young Vinnie and Dimebag played hard rock and glam metal in Arlington, Texas, building the technical foundation that would later power Pantera\'s reinvention. The gear was stage-ready but not yet legendary.',
+        albums: ['Metal Magic (1983)', 'Projects in the Jungle (1984)', 'I Am the Night (1985)', 'Power Metal (1988)'],
+        tours: ['Texas regional touring — clubs and theatres'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Imperialstar',
+            details: 'Standard 5-piece: 22" kick, 12"/13"/16" toms',
+            notes: 'Standard Tama setup for the early hard rock years — stage-presentable gear for the Arlington circuit. Vinnie\'s father Jerry Abbott helped fund the early equipment.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Steel 14"×5.5"',
+            details: 'Standard steel shell',
+            notes: 'Cutting steel snare suited to the hard rock and glam material of the early Pantera records.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Standard Zildjian A setup — reliable and stage-proven for the club circuit.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra Double Pedal',
+            details: 'Standard double bass configuration',
+            notes: 'Two-kick setup from early in Vinnie\'s career — the large, powerful double bass sound was always central to his playing style.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 2B',
+            details: 'Heavy hickory — playing backwards',
+            notes: 'Vinnie played sticks held backwards (tapered end), his signature technique for extra power and a unique feel.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Standard configuration for the early years.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4000,
+          inflationAdjusted: 9000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Formed Pantera with Dimebag (1981)',
+          'Established signature backward stick technique for maximum power',
+          'Four independent label albums released before major label signing',
+          'Transitioned from glam/hard rock toward thrash influences late in the decade',
+        ],
+
+        quote: {
+          text: "Dad always supported us. He bought us our first real gear and believed in what we were doing. That foundation made everything possible.",
+          source: 'VH1 Behind the Music — Pantera, 2000',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'vinnie-1990-cowboys-from-hell',
+        era: 'Cowboys from Hell Era',
+        years: '1990–1992',
+        startYear: 1990,
+        endYear: 1992,
+        description: 'The reinvention. Cowboys from Hell (1990) discarded the glam image and launched groove metal as a genre. Vinnie\'s Tama kit powered the groove metal blueprint — and his pocket drumming on tracks like "Cemetery Gates" and "Domination" became the template for an entire decade of heavy music.',
+        albums: ['Cowboys from Hell (1990)'],
+        tours: ['Cowboys from Hell World Tour', 'Support for Judas Priest, Skid Row'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Artstar II',
+            details: 'Birch shells: dual 24" kicks, 10"/12"/13"/14"/16"/18" toms',
+            notes: 'Tama Artstar II birch shells provided the punchy, focused tone that became Cowboys from Hell\'s drum signature. Dual 24" kicks gave Vinnie the massive visual and sonic presence the reinvented Pantera demanded.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Tama Artstar II 14"×6.5"',
+            details: 'Birch shell, die-cast hoops',
+            notes: 'The deeper shell gave more body to the groove metal snare — crucial for the half-time patterns that defined Pantera\'s new sound.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Sabian AAX',
+            details: '14" AAX hi-hats, 18"/19"/20" crashes, 22" ride, 20" China',
+            notes: 'Switched to Sabian — the bright, cutting AAX character cut through Dimebag\'s heavily saturated guitar tone and became Vinnie\'s lifelong cymbal partner.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra Double Pedal',
+            details: 'Dual 24" kick with Iron Cobra pedals',
+            notes: 'Two physical kick drums — not a double pedal — for maximum visual impact and independent resonance. Each kick was mic\'d separately for the massive bass drum sound.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 2B (held backwards)',
+            details: 'Thick hickory, tapered end used as grip',
+            notes: 'Vinnie\'s famous backward stick grip — holding the thick end, striking with the taper — for raw power. Immediately identifiable technique.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Pinstripe',
+            details: 'Controlled, focused tone for the recording',
+            notes: 'Pinstripe on toms for Terry Date\'s focused studio sound on Cowboys from Hell.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 12000,
+          inflationAdjusted: 27000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Genre-defining groove metal sound established',
+          'Sabian AAX cymbal endorsement begins — lifelong partnership',
+          'Dual 24" kick drums become Vinnie\'s visual signature',
+          'Cowboys from Hell (1990) — groove metal\'s founding document',
+          'Backward stick technique brought to national/international audience',
+        ],
+
+        quote: {
+          text: "We knew Cowboys from Hell was going to change everything. We threw out everything from before and started fresh. The drums had to sound like a machine — but with feel.",
+          source: 'Guitar World Interview (Dimebag tribute feature), 2005',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'vinnie-1992-vulgar-far-beyond',
+        era: 'Vulgar Display / Far Beyond Driven Era',
+        years: '1992–1996',
+        startYear: 1992,
+        endYear: 1996,
+        description: 'Pantera\'s commercial and artistic peak. Vulgar Display of Power (1992) and Far Beyond Driven (1994) achieved mainstream sales without compromising heaviness — Far Beyond Driven debuted at #1 on Billboard, unprecedented for music this aggressive. Vinnie\'s drumming on these records remains the definitive template for groove metal drumming.',
+        albums: ['Vulgar Display of Power (1992)', 'Far Beyond Driven (1994)'],
+        tours: ['Vulgar Display World Tour', 'Far Beyond Driven World Tour', 'Headlining arenas worldwide'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Custom',
+            details: 'Maple shells: dual 24" kicks, 10"/12"/14"/16"/18" toms',
+            notes: 'Switched to Pearl for the Vulgar Display era — maple shells provided the warmer, fuller tone that producer Terry Date used to create one of the era\'s most iconic drum sounds. The massive kick drum tone on "Fucking Hostile" and "Walk" was born from this setup.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Free-Floating 14"×8"',
+            details: 'Deep steel shell — 8" depth for maximum body',
+            notes: 'The unusually deep 8" snare — significantly deeper than standard — gave Vinnie the massive, chest-thumping snare crack that sat perfectly in Dimebag\'s massive guitar wall. No snare in groove metal sounded like it.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian AAX / HHX',
+            details: '14" AAX Metal hi-hats, 18"/19"/20" crashes, 22" HHX ride, 20" China',
+            notes: 'Expanded Sabian setup adding HHX models — the HHX ride\'s drier, more defined bell gave clear articulation over the dense arena-volume guitar tones.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal + dual kick',
+            details: 'Both physical kicks AND double pedal option available',
+            notes: 'Maintained dual physical kick drums for live shows. The visual and sonic impact of two 24" bass drums was non-negotiable for Pantera\'s arena productions.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth 2B (backwards)',
+            details: 'Continued backward-held thick hickory',
+            notes: 'Far Beyond Driven\'s demand for raw power made the backward stick technique more essential than ever.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor',
+            details: 'Powerstroke 3 on kicks, Emperor on toms',
+            notes: 'Powerstroke 3 on the 24" kicks gave the controlled, punchy bass drum sound that became synonymous with groove metal production.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          electronics: {
+            item: 'ddrum Triggers',
+            details: 'Kick drum triggers for live reinforcement',
+            notes: 'Triggers on kicks added for arena-scale consistency — Pantera\'s guitar volumes demanded it.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 18000,
+          inflationAdjusted: 37000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Brand switch to Pearl Masters Custom maple',
+          'Signature 14"×8" deep steel snare — no snare sounded like it',
+          'Far Beyond Driven (1994) debuts at #1 on Billboard',
+          'ddrum triggers added for arena-scale live sound',
+          'Groove metal drum vocabulary fully established — copied by thousands',
+        ],
+
+        quote: {
+          text: "Walk, 5 Minutes Alone, Fucking Hostile — that snare had to cut through Dime\'s guitar like a whip. The 8" depth gave me everything I needed. People heard that crack and knew it was us.",
+          source: 'Modern Drummer Interview, 1994',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'vinnie-1996-hellyeah-era',
+        era: 'Later Pantera / Hellyeah Era',
+        years: '1996–2018',
+        startYear: 1996,
+        endYear: 2018,
+        description: 'The final chapters. The Great Southern Trendkill and Reinventing the Steel completed the Pantera catalog. After Dimebag\'s murder in 2004 — witnessed by Vinnie on stage — he eventually returned to music with Hellyeah, his final band. The ddrum Vinnie Paul Signature Series was his definitive setup until his passing in June 2018.',
+        albums: ['The Great Southern Trendkill (1996)', 'Reinventing the Steel (2000)', 'Hellyeah albums (2008–2016)'],
+        tours: ['Great Southern Trendkill Tour', 'Reinventing the Steel Tour', 'Hellyeah multiple world tours'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'ddrum Vinnie Paul Signature Series',
+            details: 'Custom Black Lacquer: dual 24" kicks, 10"/12"/14"/16"/18" toms',
+            notes: 'ddrum built Vinnie\'s definitive signature kit — large shells, deep hardware, and a visual presentation matching his larger-than-life personality. The Signature Series became his most iconic setup.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          snare: {
+            item: 'ddrum Vinnie Paul Signature Snare 14"×8"',
+            details: 'Deep maple shell, reinforcement rings for projection',
+            notes: 'Matching signature snare maintaining the deep 8" dimension that defined his sound since the Vulgar Display era. ddrum built it with reinforcement rings for maximum projection.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Sabian AAX / HHX',
+            details: '14" AAX Metal hi-hats, 18"/19"/20" crashes, 22" HHX Raw Bell Dry Ride, 20" China',
+            notes: 'Long-term Sabian partnership continued through Hellyeah. The HHX Raw Bell Dry Ride provided drier articulation for the groove-focused Hellyeah material.',
+            change: null,
+          },
+          hardware: {
+            item: 'ddrum Heavy-Duty Hardware + ddrum Signature Throne',
+            details: 'Full ddrum hardware package',
+            notes: 'Matched ddrum hardware for consistency and endorsement requirements. The Vinnie Paul Signature Throne was ergonomically designed for long sets.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 2B (held backwards)',
+            details: 'Continued backward technique throughout career',
+            notes: 'The backward stick technique never changed — a defining characteristic maintained for the entirety of Vinnie\'s career. Immediately identified him on sight.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans EC Reverse Dot / Hazy 300',
+            details: 'EC Reverse Dot on snare batter, Hazy 300 snare side',
+            notes: 'Evans heads for the Hellyeah era — EC Reverse Dot on snare provided controlled attack while maintaining the deep crack characteristic of all Vinnie\'s snare work.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          electronics: {
+            item: 'ddrum Trigger System',
+            details: 'Full trigger setup on kicks and snare for live and recording use',
+            notes: 'ddrum\'s trigger system integrated naturally with the signature kit — kicks and snare both triggered for maximum live consistency at Hellyeah\'s headlining shows.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 20000,
+          inflationAdjusted: 25000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'ddrum Vinnie Paul Signature Series — definitive kit of final era',
+          'Dimebag Darrell murdered on stage, December 8, 2004 — Vinnie witnessed it',
+          'Hellyeah formed 2006 — Vinnie returns to performing',
+          'Full ddrum hardware and trigger integration',
+          'Vinnie Paul passes away June 22, 2018 — an irreplaceable loss to metal',
+        ],
+
+        quote: {
+          text: "Every night I play, I play for Dime. That\'s never going to change. The music goes on because that\'s what he would have wanted.",
+          source: 'Hellyeah Interview, Metal Hammer, 2008',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Vinnie Paul Gear Evolution Timeline | Pantera Drum Kit History',
+    metaDescription: 'Explore Vinnie Paul\'s complete drum gear evolution from Pantera\'s glam era to Cowboys from Hell, Vulgar Display of Power, and his final ddrum signature kit with Hellyeah.',
+  },
 };
 
 /**

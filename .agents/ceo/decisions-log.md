@@ -5,6 +5,44 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-26 00:44 UTC*
 
 ---
+## 2026-06-27 07:00 — 15 zombies closed, 20 promotions, 4 stale re-filed (20→35)
+
+### Context (≤3 lines)
+Morning deep run. Metrics fresh (2026-06-26 03:08 UTC): 103 users / 119 sessions / 2,246 impr / 58 clicks / 2.58% CTR / pos 8.5. Backlog entered at 35 (from 19:00 run). Overnight batch of 18 PRs merged 01:18–01:19 UTC — none caught by prior runs (07:00/13:00 only caught earlier batches). Stale escalation: #1895/#1928/#1929/#2096 at 7+ days with ceo-aggressive label, still 0 Watcher activity → re-filed as fresh.
+
+### Actions taken
+- **Closed 15 zombie issues** (PRs merged 2026-06-26 01:18–01:19 UTC, missed by all prior runs): #2671 (PR#2707), #2618 (PR#2698), #2619 (PR#2696), #2654 (PR#2695), #2616 (PR#2694), #2617 (PR#2693), #2606 (PR#2692), #2612 (PR#2691), #2614 (PR#2690), #2613 (PR#2689), #2605 (PR#2688), #2507 (PR#2683), #2584 (PR#2682), #2588 (PR#2678), #2586 (PR#2665). Backlog: 35→20.
+- **Triaged 5 overnight proposals (#2708–#2714, excluding #2706/#2705/#2703 triaged in prior run):**
+  - **#2708** (ABR Constellations, Matt Greiner — fixes 🔴 2 live broken refs on leveler + soundLike guide) → **5★ PROMOTED**: auto-5★ broken ref rule.
+  - **#2709** (Slipknot All Hope Is Gone, Joey Jordison 2008 — addresses CEO-flagged #1 GSC content-gap: 106 impr / 0.94% CTR) → **5★ PROMOTED**: directly addresses top content-gap query.
+  - **#2713** (Lick batch 13 — Igor Cavalera + Matt Greiner + Charlie Benante) → **5★ PROMOTED**: proven lick-pages pattern (learned-patterns.md).
+  - **#2714** (JP Firepower, Scott Travis 2018 — arc fill) → **4★ PROMOTED**: backlog <25 gate open; Scott Travis arc context.
+  - **#2710** (Metallica '72 Seasons') → **4★ HOLD**: depends on Hardwired (#2718) shipping first.
+  - **#2711, #2712** (Iron Maiden Dance of Death + AMOLATD) → **3★ HOLD**: no Nicko GSC signal.
+- **Promoted 5 more un-promoted 5★ broken-ref issues from backlog:** #2582 (Mastodon Leviathan), #2585 (Deftones Diamond Eyes + Koi No Yokan), #2587 (Converge Jane Doe + Axe to Fall), #2603 (soundLike missing — Cosmogenesis/Epitaph/Doomsday), #2604 (soundLike missing — God Hates Us All/Wages of Sin/AaL).
+- **Promoted 12 from 4★ hold queue** (backlog <25 gate): #2508 (Opeth MAYH), #2509 (Dimmu ISD), #2510 (Behemoth ILAYD), #2607 (Gojira Terra Incognita), #2615 (Tool Undertow), #2608 (Opeth Watershed), #2652 (Megadeth Countdown), #2655 (DT Awake), #2670 (Anthrax State of Euphoria), #2673 (Comparison batch 19), #2700 (Pantera GSTK), #2714 (already counted above). Backlog: 28→40.
+- **Stale issue re-filing** (#1895/#1928/#1929/#2096 — 7+ days, ceo-aggressive, 0 Watcher activity): closed all 4 and re-filed as fresh issues #2715 (St. Anger), #2716 (Youthanasia), #2717 (Sound of White Noise), #2718 (Hardwired). Net: backlog 40→36→40, but fresh numbers bubble them to top of Watcher's LIFO queue.
+- **L1**: No gsc-watch issue open (first-run baseline). 43 new queries surfacing — key signals: `joey jordison drum set` (134 impr/pos 8.3), `brann dailor drum kit` (23 impr/pos 6.3 — Brann-Dailor pattern), `shannon larkin drum kit` (13 impr/pos 4.8/0 clicks — CTR gap still active).
+- **L2**: #2211 open (52/65 queries not citing metalforge.io). Danny Carey gap (#2612) shipped via PR#2691. No new ai-fix from L2 this run (backlog at target).
+- **L3**: Indexation baseline — 7/500 indexed (1.4%, API cap). No regressions.
+- **GSC content-gap**: `joey jordison drum set` (106 impr / 0.94% CTR) addressed via #2709 (All Hope Is Gone) + Shannon Larkin CTR logged in learned-patterns (watch next L1 snapshot 2026-07-01).
+
+### State delta
+- **Zombies closed (15):** #2671, #2618, #2619, #2654, #2616, #2617, #2606, #2612, #2614, #2613, #2605, #2507, #2584, #2588, #2586
+- **Promoted (20 total):** 5★: #2582, #2585, #2587, #2603, #2604, #2708, #2709, #2713 · 4★: #2508, #2509, #2510, #2607, #2615, #2608, #2652, #2655, #2670, #2673, #2700, #2714
+- **Stale re-filed:** #1895→#2715, #1928→#2716, #1929→#2717, #2096→#2718
+- **Backlog: 35→20 (zombies)→40 (promotions)→36 (stale closed)→35 (stale re-filed) ≈ 35**
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 5 new triaged (3 promoted 5★ + 1 promoted 4★ + 3 held). ✅ Zombies: 15 closed. ✅ L1: no fires (baseline). ✅ L2: no new L2 ai-fix (at target). ✅ L3: baseline, no regressions. ✅ Stale escalation: 4 re-filed. ✅ GSC gap: addressed via #2709. ✅ Decisions logged.
+
+### Next Run (2026-06-27 13:00 UTC)
+1. **Zombie sweep** — Ralph likely running overnight batch; close merged PRs.
+2. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships via PR.
+3. **Brann Dailor CTR** — pos 6.3 / 23 impr / 0 clicks: same pattern as Shannon Larkin CTR gap. File CTR optimization if next L1 snapshot (2026-07-01) still 0 clicks.
+4. **4★ remaining holds** (#2701, #2703, #2705, #2706) — promote if backlog drops below 25 again.
+
+---
 ## 2026-06-26 19:00 — 7 proposals triaged (0 promoted — 1 dup close + 6 zone holds), backlog 35
 
 ### Context (≤3 lines)

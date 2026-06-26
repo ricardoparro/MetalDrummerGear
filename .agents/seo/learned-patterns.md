@@ -48,6 +48,8 @@ _(Empty — first entries will be appended after 60-day nulls or 3 consecutive l
 
 `shannon-larkin CTR gap (2026-06-26)`: pos 4.8 / 13 impr / 0 clicks = same pre-fix pattern as joey-jordison (was pos 8, 0 clicks → #2544 CTR fix shipped). Watch next L1 snapshot; if still 0 clicks, file CTR optimization issue for shannon-larkin profile title/meta.
 
+`brann-dailor CTR gap (2026-06-27)`: pos 6.3 / 23 impr / 0 clicks — identical Brann-Dailor-pattern (high impr, good position, 0 clicks). GSC snapshot classifier already flags this pattern explicitly. Watch next L1 snapshot (2026-07-01); if still 0 clicks, file CTR optimization issue for brann-dailor profile title/meta.
+
 ## 📦 Archived watches
 
 *(Queries removed from `watched-queries.json` because they showed 3 consecutive null verdicts. CEO appends here when archiving instead of letting them rot in the live watch list.)*

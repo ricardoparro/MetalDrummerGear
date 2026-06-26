@@ -143,10 +143,10 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
       { slug: 'murderdolls', period: '2002-2011', role: 'Guitar' },
       { slug: 'sinsaenum', period: '2016-2021', role: 'Drums' }
     ],
-    metaTitle: 'Joey Jordison Drum Kit & Gear Setup — Slipknot Drummer | MetalForge',
-    metaDescription: 'Complete biography of Joey Jordison, legendary Slipknot drummer. Explore his incredible career, revolutionary drumming style, rotating drum kit, and lasting influence on metal.',
+    metaTitle: 'Joey Jordison Drum Set & Kit — Slipknot Drummer Gear | MetalForge',
+    metaDescription: 'Joey Jordison drum set breakdown: Pearl Masterworks kit, Sabian AAX cymbals, DW double pedals. Complete Slipknot drummer gear guide and career biography.',
     ogImage: '/images/drummers/joey-jordison.webp',
-    keywords: ['slipknot', 'nu metal', 'pearl drums', 'iowa', 'blast beats', 'masked drummer', 'extreme metal'],
+    keywords: ['slipknot', 'nu metal', 'pearl drums', 'iowa', 'blast beats', 'masked drummer', 'extreme metal', 'drum set', 'drum kit'],
     relatedDrummers: ['lars-ulrich', 'dave-lombardo', 'gene-hoglan', 'eloy-casagrande'],
     summary: 'Joey Jordison (1975-2021), Slipknot founding drummer, legendary for speed, rotating drum platform & iconic masked performances.',
     lastUpdated: '2026-02-15',
@@ -210,10 +210,10 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
         ]
       },
       gearHighlights: {
-        title: 'Gear Highlights',
-        content: `Joey Jordison was a Pearl Drums endorser for most of his career, developing signature products that remain popular with metal drummers. His setup was designed for speed, power, and durability during intense performances.
+        title: "Joey Jordison's Drum Set",
+        content: `Joey Jordison was a Pearl Drums endorser for most of his career, developing signature products that remain popular with metal drummers. His drum set was designed for speed, power, and durability during intense performances.
 
-**Signature Setup (Peak Slipknot Era):**
+**Signature Drum Set (Peak Slipknot Era):**
 - **Drums**: Pearl Reference Series in custom purple/black finishes
 - **Snare**: Pearl Joey Jordison Signature 13"x6.5" (smaller diameter for faster response)
 - **Cymbals**: Paiste RUDE and 2002 series (known for durability and cut)
@@ -225,7 +225,9 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
 - Pioneered the rotating/inverted drum platform for theatrical performances
 - Used a 13" snare (smaller than standard 14") for faster response
 - Custom drum rack system to support the rotating rig
-- Later switched to SJC Drums for post-Slipknot projects`
+- Later switched to SJC Drums for post-Slipknot projects
+
+For a complete era-by-era component breakdown, see the [Joey Jordison drum setup guide](/articles/joey-jordison-drum-setup).`
       },
       trivia: {
         title: 'Trivia & Notes',

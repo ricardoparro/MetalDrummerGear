@@ -1,12 +1,12 @@
 # Derek Roddy — Signature Drum Licks & Patterns
 
-**Band:** Hate Eternal / Nile | **Genre:** Death Metal / Technical Death Metal | **Lick Count:** 3
+**Band:** Hate Eternal / Nile | **Genre:** Death Metal / Technical Death Metal | **Lick Count:** 6
 
 ---
 
 ## Overview
 
-Derek Roddy is one of Death Metal / Technical Death Metal's most influential drummers, best known for their work with Hate Eternal. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Derek Roddy" or "Derek Roddy signature drum patterns". Their style spans death-metal.
+Derek Roddy is one of Death Metal / Technical Death Metal's most influential drummers, best known for their work with Hate Eternal. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Derek Roddy" or "Derek Roddy signature drum patterns". Their style spans death-metal.
 
 ## King of All Kings Single-Stroke Blast
 
@@ -76,6 +76,75 @@ More than almost any drummer of his era, Derek Roddy is associated with the idea
 - Build stamina with longer reps at a comfortable tempo before pushing the ceiling
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Gravity Blast](https://metalforge.io/technique/gravity-blast)
+
+## Gravity Blast Technique
+
+**Song:** For Raping the Useful Idiot | **Album:** I, Monarch (2005) | **BPM:** ~250 BPM | **Technique:** blast beat | **Difficulty:** expert
+
+The gravity blast is a technique where the stick is raised and dropped so gravity provides the downstroke — with finger control redirecting the rebound upward without muscular propulsion. Derek Roddy is one of the technique's most thorough teachers, having documented it across multiple Drumeo masterclasses. The approach is theoretically highly sustainable because muscles are used for control and redirection rather than force — dramatically delaying fatigue compared to driven strokes. The challenge is integration: the gravity blast feels natural in isolation but becomes unstable when other limbs are working around it. Roddy recommends integrating slowly — gravity blast over a metronome pulse, then add kick, then hi-hat.
+
+### How to Play
+
+- Hold the stick loosely in a fulcrum grip and drop it so gravity provides the downstroke
+- Capture the rebound energy with the fingers and redirect the stick upward without muscular force
+- Keep the shoulder and forearm completely relaxed — tension kills the rebound and breaks the technique
+- Integrate the gravity blast slowly: over a metronome pulse, then add kick, then hi-hat
+- Build speed gradually — the gravity blast is sustainable only when the motion is fully automatic
+
+### Key Elements
+
+- Practise the gravity blast in isolation on a practice pad before the kit
+- Film yourself from the side to check that the shoulder stays still and the forearm is relaxed
+- Add the kick only once the gravity blast runs effortlessly for 30+ seconds alone
+- Build tempo in very small increments — the technique must be automatic before adding speed
+
+**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Gravity Blast](https://metalforge.io/technique/gravity-blast), [Double Bass](https://metalforge.io/technique/double-bass)
+
+## Evilution Polyrhythmic Fill
+
+**Song:** Slaves and Masters | **Album:** Evilution (1996) — Monstrosity | **BPM:** ~185 BPM | **Technique:** polyrhythmic | **Difficulty:** expert
+
+Before Hate Eternal, Derek Roddy drummed on Monstrosity's Evilution (1996), one of the most technically demanding Florida death-metal records of the decade. Evilution first revealed Roddy's polyrhythmic vocabulary beyond the blast — the ability to construct fills that move across multiple rhythmic layers simultaneously, placing accents against the pulse without losing forward momentum. The fill pattern works by dividing the bar into overlapping stroke groups that do not share a common downbeat, implying independent meters within a single flow. The difficulty is maintaining the internal pulse while the surface moves against it — the hands count something different from what kick and hi-hat are doing, and transitions into and out of the fill must be seamless.
+
+### How to Play
+
+- Divide the bar into overlapping stroke groups that imply independent meters
+- Maintain the internal pulse count while the fill moves against it on the surface
+- Place accents across the polyrhythm so the tension resolves cleanly at the bar line
+- Count the stroke groupings aloud before touching the kit — internalise before executing
+- Practise the transition into and out of the fill so the groove resumes without stumbling
+
+### Key Elements
+
+- Clap and count the stroke groupings before touching the kit — feel the polyrhythm first
+- Add the kick on bar downbeats only once the hand pattern is completely natural
+- Record yourself to hear if the accents land cleanly and the fill resolves at the bar line
+- Practise transitions into and out of the fill with the blast beat around it
+
+**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Blast Beat](https://metalforge.io/technique/blast-beat), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+
+## Hate Eternal Descending Tom Fill
+
+**Song:** Behold His Wrath | **Album:** King of All Kings (2002) | **BPM:** ~230 BPM | **Technique:** fill techniques | **Difficulty:** expert
+
+The descending tom fill is one of Roddy's most distinctive orchestral tools, appearing at section transitions throughout the King of All Kings record. Each tom must be struck cleanly and at consistent velocity so the descending motion reads as a musical phrase rather than a sequence of isolated hits. The stroke sequence must be memorised completely before adding foot coordination — the hands need to execute automatically while the feet maintain kick and snare rhythm underneath. Velocity control is the distinguishing element: each stroke calibrated to the same dynamic so the descent feels like a continuous phrase. Roddy's technique — low stick heights, relaxed grip, efficient cross-kit movement — keeps the hands fast and even between toms.
+
+### How to Play
+
+- Strike each tom cleanly and at a consistent velocity so the descent reads as a musical phrase
+- Memorise the stroke sequence completely before adding foot coordination
+- Keep stick heights low and grip relaxed so the hands travel quickly between toms
+- Add the kick pattern underneath only once the hands execute the sequence automatically
+- Listen critically for velocity consistency — every tom hit should sit at the same dynamic
+
+### Key Elements
+
+- Practise the hand sequence in isolation at very slow tempo for tone and consistency
+- Add one foot at a time — kick first, then snare — so coordination builds incrementally
+- Record yourself to check that each tom hit has the same volume through the descent
+- Raise tempo only once the fill sounds musical and even, not just technically completed
+
+**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass)
 
 ## Teaching Points
 

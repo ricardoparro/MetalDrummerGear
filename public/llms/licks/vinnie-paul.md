@@ -1,12 +1,12 @@
 # Vinnie Paul — Signature Drum Licks & Patterns
 
-**Band:** Pantera | **Genre:** Groove Metal / Thrash Metal | **Lick Count:** 3
+**Band:** Pantera | **Genre:** Groove Metal / Thrash Metal | **Lick Count:** 6
 
 ---
 
 ## Overview
 
-Vinnie Paul is one of Groove Metal / Thrash Metal's most influential drummers, best known for their work with Pantera. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Vinnie Paul" or "Vinnie Paul signature drum patterns". Their style spans groove-metal.
+Vinnie Paul is one of Groove Metal / Thrash Metal's most influential drummers, best known for their work with Pantera. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Vinnie Paul" or "Vinnie Paul signature drum patterns". Their style spans groove-metal.
 
 ## Walk Half-Time Groove
 
@@ -76,6 +76,75 @@ Vinnie Paul is one of Groove Metal / Thrash Metal's most influential drummers, b
 - Study a charted version to map the foot patterns through the breakdown
 
 **Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+
+## VDoP Syncopated Groove Pocket
+
+**Song:** Mouth for War | **Album:** Vulgar Display of Power (1992) | **BPM:** ~140 BPM | **Technique:** signature pattern | **Difficulty:** advanced
+
+"Mouth for War" opens Vulgar Display of Power with one of the most ferocious syncopated grooves in groove-metal history. Paul's kick patterns shift and stutter in deliberate, precise tension against the pulse while his backbeat anchors the rhythm like a stake in the ground. That combination — a locked, powerful backbeat over an unpredictable, syncopated kick — is the defining characteristic of the VDoP pocket. What makes Paul's syncopated approach so educational is that it is rhythmically sophisticated without feeling academic: every displaced kick still feels inevitable, the syncopation builds tension, the snare resolves it, and the groove breathes in a way that pure on-the-beat drumming cannot. The album's stripped-down production means every drum stroke is exposed, teaching articulation and clarity alongside rhythmic complexity.
+
+### How to Play
+
+- Place kick strokes off the beat in precise syncopated displacement against the pulse
+- Anchor a powerful, consistent backbeat on two and four while the kick shifts
+- Keep hi-hat work tight and even so the syncopated kick never destabilises the groove
+- Use dynamic control to make displaced kick strokes punchy and cutting, not muddy
+- Resolve the syncopated tension into the groove feel so the pattern swings rather than stumbles
+
+### Key Elements
+
+- Count the kick syncopations aloud without the snare first to internalise the displacement
+- Add the backbeat only once the kick pattern feels completely natural
+- Use a metronome and work up slowly — the groove has to swing, not just be technically correct
+- Listen to the isolated drum track to hear how the syncopation resolves into the pocket
+
+**Core Techniques:** [Syncopation](https://metalforge.io/technique/syncopation), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+
+## Far Beyond Driven 16th-Note Double Bass
+
+**Song:** 5 Minutes Alone | **Album:** Far Beyond Driven (1994) | **BPM:** ~162 BPM | **Technique:** double bass | **Difficulty:** expert
+
+Far Beyond Driven is the heaviest Pantera album, and Paul's 16th-note double-bass passages are defining moments of heavy-metal foot technique. He drives continuous kick rolls at aggressive tempos while maintaining a commanding backbeat — and the evenness never breaks down. Paul's double bass always serves the song: the kick rolls build tension when the riffs are densest, punctuate breakdowns with sudden stops, and push sections forward like a freight train. The technique demands heel-up ankle drive, relaxed bilateral strokes, and extreme click-to-click consistency so both feet produce identical, articulate hits.
+
+### How to Play
+
+- Drive continuous 16th-note kick rolls while maintaining a commanding backbeat
+- Keep both feet producing identical, articulate strokes — avoid letting the weaker foot blur
+- Use heel-up technique with a relaxed ankle to sustain the roll without fatigue
+- Lock the double-bass subdivisions precisely to the guitar riff so kick and chug feel unified
+- Practise the kick pattern in isolation first before reintroducing hands
+
+### Key Elements
+
+- Isolate the double-bass pattern without hands first — build stamina and evenness
+- Listen critically for the weaker foot and work to match it to the stronger
+- Use a metronome and build in 5 BPM increments from a comfortable starting point
+- Add the backbeat only once the kick pattern is clean and sustainable at tempo
+
+**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+
+## Walk Signature Drum Groove
+
+**Song:** Walk | **Album:** Vulgar Display of Power (1992) | **BPM:** ~115 BPM | **Technique:** main groove | **Difficulty:** intermediate
+
+The core "Walk" drum pattern — slightly swung hi-hat, enormous backbeat on two and four, and a kick that anchors the guitar riff rather than competing with it — is one of the most studied grooves in groove-metal. Paul's snare technique (full-arm stroke with controlled wrist snap) creates the explosive, room-filling sound that defines the song. The kick placement beneath the guitar chug is equally critical: both instruments create a unified rhythmic statement that only works when the spacing is precise. The pattern is deceptively minimal, which means every nuance of timing, tone, and dynamics is fully exposed and critical.
+
+### How to Play
+
+- Set a slightly swung hi-hat pulse that drives the groove without rushing
+- Place the backbeat on two and four with full-arm stroke and controlled wrist snap for maximum impact
+- Position the kick to sit beneath the guitar riff and reinforce it rather than duplicate it
+- Use space and silence as rhythmic tools — resist filling every gap
+- Build the groove slowly until the pocket feels inevitable before pushing the tempo
+
+### Key Elements
+
+- Slow down to 70 BPM and listen to the kick-guitar relationship before adding any fills
+- Focus on snare stroke quality — every backbeat should feel like a physical punch
+- Swing the hi-hat feel very subtly — too straight loses the swagger, too much loses the power
+- Play along with the track and match the weight and attitude before worrying about precision
+
+**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
 
 ## Teaching Points
 

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-26 08:18 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-26 09:15 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,16 +8,16 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 104 |
+| Active users | 105 |
 | Sessions | 121 |
-| Page views | 262 |
-| Engagement rate | 64.46% |
-| Avg session (s) | 572 |
+| Page views | 264 |
+| Engagement rate | 70.25% |
+| Avg session (s) | 571 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 36 | 14 |
+| / | 37 | 15 |
 | /drummer/joey-jordison | 28 | 15 |
 | /drummers | 16 | 4 |
 | /tools | 10 | 2 |
@@ -31,37 +31,36 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 82 | 75 |
-| Direct | 31 | 24 |
-| Unassigned | 12 | 10 |
-| Cross-network | 1 | 1 |
+| Organic Search | 84 | 77 |
+| Direct | 32 | 25 |
+| Unassigned | 6 | 5 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 2,246 |
-| Clicks | 58 |
-| CTR | 2.58% |
+| Impressions | 2,808 |
+| Clicks | 74 |
+| CTR | 2.64% |
 | Avg position | 8.5 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| matt greiner drum setup | 14 | 3 | 21.43% | 7.1 |
+| flo mounier drum kit | 7 | 3 | 42.86% | 4.1 |
+| matt greiner drum setup | 16 | 3 | 18.75% | 7.0 |
 | gene hoglan drum kit | 3 | 2 | 66.67% | 8.0 |
-| joey jordison drum kit | 67 | 2 | 2.99% | 8.1 |
-| bill ward drum set | 1 | 1 | 100.00% | 5.0 |
-| eloy casagrande drum kit | 21 | 1 | 4.76% | 8.2 |
-| flo mounier drum kit | 2 | 1 | 50.00% | 5.0 |
+| jaska raatikainen drum set | 5 | 2 | 40.00% | 4.8 |
+| joey jordison drum kit | 85 | 2 | 2.35% | 8.2 |
+| bill ward drum set | 2 | 1 | 50.00% | 5.5 |
+| eloy casagrande drum kit | 25 | 1 | 4.00% | 9.4 |
 | frost satyricon height | 1 | 1 | 100.00% | 1.0 |
 | igor cavalera drum kit | 7 | 1 | 14.29% | 3.6 |
 | igor cavalera drum setup | 2 | 1 | 50.00% | 6.0 |
-| inferno drum kit | 7 | 1 | 14.29% | 8.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum set | 106 | 0.94% | 8.0 | open issue to answer better |
+| joey jordison drum set | 134 | 0.75% | 8.0 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

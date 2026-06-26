@@ -8118,7 +8118,8 @@ This guide covers Larkin's groove-focused technique, his physical approach to ha
     licksUrl: '/drummers/shannon-larkin/licks',
     relatedArticles: [
       { slug: 'shannon-larkin-drum-setup', label: 'Shannon Larkin Drum Setup' },
-      { slug: 'faceless-drum-setup', label: 'Faceless — Godsmack Drum Setup' }
+      { slug: 'faceless-drum-setup', label: 'Faceless — Godsmack Drum Setup' },
+      { slug: 'the-oracle-drum-setup', label: 'The Oracle — Godsmack Drum Setup' }
     ]
   },
 

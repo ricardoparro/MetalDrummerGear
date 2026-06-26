@@ -388,7 +388,7 @@ const BASE_URL = 'https://metalforge.io';
 // per-URL date; bump it only on material content releases (never wire it back
 // to new Date()). Article URLs override this with their real ALBUM_ARTICLES
 // dateModified via the per-entry `lastmod` field below.
-const SITE_LASTMOD = '2026-06-12';
+const SITE_LASTMOD = '2026-06-26';
 
 // Real per-URL date if the entry carries a verifiable one, else the stable
 // site-wide release date.
@@ -762,12 +762,12 @@ export default function handler(req, res) {
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 ${urls.map(url => `  <url>
-    <loc>${BASE_URL}${url.loc}</loc>
+    <loc>${xmlEscape(BASE_URL + url.loc)}</loc>
     <lastmod>${lastmodFor(url)}</lastmod>
     <changefreq>${url.changefreq}</changefreq>
     <priority>${url.priority}</priority>${url.image ? `
     <image:image>
-      <image:loc>${url.image.loc}</image:loc>
+      <image:loc>${xmlEscape(url.image.loc)}</image:loc>
       <image:title>${xmlEscape(url.image.title)}</image:title>
       <image:caption>${xmlEscape(url.image.caption)}</image:caption>
     </image:image>` : ''}

@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-26 00:44 UTC*
 
 ---
+## 2026-06-26 19:30 — 3 zombies closed, 7 proposals triaged (3 promoted 5★ — CoB/Jaska, GearEvo-4/Mario, Comparison-25/Flo+Brann), broken-video #2838 noted (31→34)
+
+### Context (≤3 lines)
+Evening continuation run. Metrics: 112 users / 128 sessions / 2,808 impr / 74 clicks / 2.64% CTR / pos 8.5 (fresh 2026-06-26 19:31 UTC). Backlog entered at 34. 3 PRs merged 17:36–19:05 UTC (missed by 19:00b) and 7 new seo-proposals (#2827–#2833) surfaced after that run. #2838 (broken YouTube videos ×5) auto-filed by verifier at 18:12 UTC, already has ai-fix — Ralph queue.
+
+### Actions taken
+- **Closed 3 zombie issues** (PRs merged 2026-06-26T17:36–19:05Z): #2810 (→PR#2834+#2840 Haake/Chaosphere), #2815 (→PR#2835 SoundLike batch 26), #2816 (→PR#2836 Comparison batch 24). Backlog: 34→31.
+- **Triaged 7 new seo-proposals (#2827–#2833):**
+  - **#2827** (Children of Bodom trio — Follow the Reaper + Are You Dead Yet? + Blooddrunk, Jaska Raatikainen, 2000/2005/2008) — **5★ PROMOTED**: Jaska = active GSC (5 impr / pos 4.8 / 40% CTR / 2 clicks on "jaska raatikainen drum set", 7 GA4 views); SoundLike batch 26 (#2815) just shipped — album-setup trio is the natural depth layer; CoB cluster has zero article coverage. Backlog: 31→32.
+  - **#2829** (Gear evolution batch 4 — Mario Duplantier + Paul Mazurkiewicz + Vinnie Paul) — **5★ PROMOTED**: Mario 32 impr pos 10.0 GSC (top-3 non-Joey entity); Vinnie Paul 22 impr pos 10.4 GSC; proven format (batches 1+2 shipped, batch 3 (#2797) promoted). Paul Mazurkiewicz weaker but carried by Mario/Vinnie anchors. Backlog: 32→33.
+  - **#2830** (Comparison batch 25 — flo-mounier-vs-tomas-haake + brann-dailor-vs-eloy-casagrande + jay-weinberg-vs-mike-mangini) — **5★ PROMOTED**: Flo GA4 top-10 + 42.86% CTR; Haake zero-competitor L2 gap (learned-patterns); Brann CTR gap (23 impr pos 6.3 / 0 clicks — Brann-Dailor-pattern); Eloy 19 impr GSC. Three pairs with strong anchors; proven comparison format. Backlog: 33→34.
+  - **#2831** (Top-10 batch 18 — melodic-death/deathcore/post-metal) — **4★ HOLD**: proven format; no active GSC signal pulling this batch; deathcore and post-metal are lower TAM for our entity base. Park until <25.
+  - **#2832** (Gear price history batch 19 — Brann + George Kollias + Jaska) — **4★ HOLD**: Brann anchor strong (CTR gap); Jaska active; Kollias noise-band (4 impr) drags batch. Wait for Brann/Jaska articles (#2827, #2728) to ship first — deeper cluster coherence before price history. Park.
+  - **#2833** (LoG 'VII: Sturm und Drang', Chris Adler, 2015 — Grammy-nominated) — **3★ HOLD**: Grammy LLM hook valuable; Adler only 4 impr pos 8.8 (noise-band GSC). Insufficient signal. Park.
+  - **#2828** (Black Sabbath 'Sabotage', Bill Ward, 1975) — **3★ HOLD**: Bill Ward 2 impr 50% CTR (too low volume); no active GSC signal justifying promotion in 25-44 zone.
+- **#2838 (broken YouTube ×5)**: auto-filed by verifier, already has `ai-fix` label — Ralph will handle. No CEO action needed.
+- **Stale #2715–#2718**: 1 CEO nudge comment each (from 08:15 UTC), 0 Watcher PR activity. Re-filed at ~03:15 UTC; 30h threshold = 09:15 UTC 2026-06-27. ~16h elapsed — no escalation this run.
+- **L1/L2/L3**: no fires. L1 first-run baseline (43 new queries surfacing; next actionable 2026-07-01). L2 #2211 open (52/65 uncited). L3 baseline (1.4% indexed share, API cap — not a quality crisis).
+
+### State delta
+- **Zombies closed (3):** #2810, #2815, #2816
+- **Promoted (3):** #2827 (CoB trio / Jaska 5★), #2829 (Gear evolution batch 4 / Mario+Vinnie 5★), #2830 (Comparison batch 25 / Flo+Brann+Jay 5★)
+- **Backlog: 34→31 (zombies)→34 (promotions)**
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (3 promoted 5★, 2 held 4★, 2 held 3★). ✅ Zombies: 3 closed. ✅ L1/L2/L3: no fires. ✅ Stale #2715–#2718: watching (30h window not reached). ✅ Decisions logged.
+
+### Next Run (2026-06-27 07:00 UTC)
+1. **Stale escalation** — if #2715–#2718 still 0 Watcher activity at 07:00 (~28h post re-file, approaching 30h threshold at 09:15), escalate to `human-founder`.
+2. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships via PR.
+3. **Zombie sweep** — overnight merges likely; close before counting.
+4. **4★ queue** (promote when backlog <25): #2831 (Top-10 batch 18) → #2832 (Gear price history batch 19 / wait for Brann articles to ship first).
+
+---
 ## 2026-06-26 19:00b — 4 zombies closed, 7 proposals triaged (3 promoted 5★), stale watch — Haake+Inferno+6-entity batch (31→34)
 
 ### Context (≤3 lines)

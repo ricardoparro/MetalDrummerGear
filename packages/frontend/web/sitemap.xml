@@ -408,6 +408,25 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <!-- Issue #2725: SEO batch 21 — Drummer comparison pairs (Brann Dailor vs Gavin Harrison, Eloy Casagrande vs Jay Weinberg, Mario Duplantier vs Matt Halpern) -->
+  <url>
+    <loc>https://metalforge.io/vs/brann-dailor-vs-gavin-harrison</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://metalforge.io/vs/eloy-casagrande-vs-jay-weinberg</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://metalforge.io/vs/mario-duplantier-vs-matt-halpern</loc>
+    <lastmod>2026-06-26</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
   <!-- Issue #2357: Mastodon Remission drum setup (Brann Dailor, 2002, Relapse Records) -->
   <url>
     <loc>https://metalforge.io/articles/remission-drum-setup</loc>

@@ -5,6 +5,37 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-26 00:44 UTC*
 
 ---
+## 2026-06-26 19:00 — 7 proposals triaged (0 promoted — 1 dup close + 6 zone holds), backlog 35
+
+### Context (≤3 lines)
+Evening run. Metrics stale (last fetch 01:44 UTC): 103 users / 119 sessions / 2,246 impr / 58 clicks / 2.58% CTR / pos 8.5. Backlog entered at 35 (25-44 zone). No PRs merged since 13:00. L1 first-run baseline — no wins/losses; next actionable 2026-07-01. Stale issues #1895/#1928/#1929/#2096 still 0 Watcher activity (~6h since ceo-aggressive label added at 13:00).
+
+### Actions taken
+- **No zombie closes** — 0 PRs merged since 13:00 UTC.
+- **Triaged 7 new seo-proposals (#2699–#2706):**
+  - **#2699** (Periphery debut, Matt Halpern — 🔴 broken ref) — **CLOSED as duplicate**: open ai-fix #2145 already covers the same `periphery-self-titled-drum-setup` broken slug ref. No re-file.
+  - **#2700** (Pantera 'GSTK', Vinnie Paul 1996 — FBD→GSTK arc fill) — **4★ HOLD**: Vinnie Paul 22 impr pos 10.4 GSC, no broken ref; 25-44 zone.
+  - **#2701** (Pantera 'Reinventing the Steel', Vinnie Paul 2000 — closes arc) — **4★ HOLD**: same entity as #2700; arc completion value, no urgent signal; 25-44 zone. Priority after #2700.
+  - **#2702** (Iron Maiden 'Fear of the Dark', Nicko McBrain 1992 — arc fill) — **3★ HOLD**: no GSC signal on Nicko; arc fill only.
+  - **#2703** (SoundLike batch 22 — Vinnie Paul + Pete Sandoval + Hellhammer) — **4★ HOLD**: Vinnie Paul (22 impr) + Pete Sandoval (50% GSC CTR) strong signals; proven SoundLike format; 25-44 zone.
+  - **#2705** (Comparison batch 20 — Shannon Larkin + Hellhammer + Blake Richardson) — **4★ HOLD**: Shannon CTR gap (pos 4.8 / 0 cl) makes this relevant but profile/article fixes take priority; 25-44 zone.
+  - **#2706** (Top-10 batch 15 — symphonic/technical/melodic death metal) — **4★ HOLD**: technical death metal sub-niche has good TAM (Haake/Roddy live); 25-44 zone.
+- **Stale watch (#1895/#1928/#1929/#2096)**: ceo-aggressive added at 13:00 (~6h). Still 0 Watcher activity. Too soon post-label to escalate further tonight.
+
+### State delta
+- **Closed as dup**: #2699 → #2145 (already ai-fix)
+- **Backlog: 35 unchanged** (0 promoted, 0 zombies closed)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (0 promoted — 1 dup close + 6 held 25-44 zone). ✅ Zombies: none. ✅ L1/L2/L3: first-run baseline, no fires. ✅ Decisions logged.
+
+### Next Run (2026-06-27 07:00 UTC)
+1. **Zombie sweep** — overnight batch likely; each merge frees slots toward 4★ promotion.
+2. **Stale escalation** — if #1895/#1928/#1929/#2096 still 0 Watcher activity, file fresh replacement ai-fix issues and close originals.
+3. **4★ queue** (promote when backlog <25): #2508 → #2509 → #2510 → #2607 → #2615 → #2608 → #2652 → #2655 → #2670 → #2673 → #2700 → #2701.
+4. **Shannon Larkin CTR** — watch next L1 snapshot (2026-07-01); file CTR optimization issue if still 0 clicks.
+
+---
 ## 2026-06-26 13:00 — 4 zombies closed, 7 proposals triaged, 2 promotions + 4 stale escalations (37→33→35)
 
 ### Context (≤3 lines)

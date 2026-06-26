@@ -779,6 +779,52 @@ export const drummerComparisons = {
     ],
   },
 
+  // Issue #2725: SEO batch 21 — young-gun-who-replaced-a-legend narrative
+  'eloy-casagrande-vs-jay-weinberg': {
+    slug: 'eloy-casagrande-vs-jay-weinberg',
+    title: 'Eloy Casagrande vs Jay Weinberg',
+    metaTitle: 'Eloy Casagrande vs Jay Weinberg — Next-Generation Metal Drumming | MetalForge',
+    metaDescription: 'Eloy Casagrande (Metallica) vs Jay Weinberg (ex-Slipknot). Both replaced legends — Eloy stepping into Metallica, Jay departing Slipknot after 9 years. Gear, technique, and legacy compared.',
+    category: 'extreme',
+    drummers: ['eloy-casagrande', 'jay-weinberg'],
+    comparison: {
+      style: 'Eloy Casagrande rose through Sepultura before joining Metallica in 2024, bringing razor-sharp groove, thunderous double bass, and a thrash-meets-modern-metal authority to the biggest stage in the genre. Jay Weinberg redefined Slipknot\'s percussive identity across four albums, channeling predecessor Joey Jordison\'s ferocity while stamping his own precision-based identity on the band\'s live and studio work.',
+      technique: 'Eloy combines Brazilian rhythmic roots with thrash metal power — his double bass work is defined by locked-in groove rather than sheer speed, and his ability to adapt to Metallica\'s catalog (spanning 40 years of tempos and styles) is his defining challenge. Jay brings a technically rigorous, precise approach to Slipknot\'s chaos — his live playing with the percussive assault of Slipknot\'s multi-drummer setup demanded exceptional timing, independence, and endurance night after night.',
+      gear: 'Eloy plays Tama Starclassic Maple drums with Zildjian A Custom and K cymbals, and Tama Iron Cobra double pedals — a powerhouse setup suited to Metallica\'s arena-scale sound. Jay played Tama Starclassic Maple/Birch drums with Meinl Byzance cymbals and Tama Iron Cobra pedals during his Slipknot tenure, with a masked performer\'s setup built for visual impact and live endurance.',
+      influence: 'Eloy Casagrande became the most-watched drummer in the world overnight when his Metallica appointment was announced in 2024, sparking immediate global interest and "eloy casagrande drum kit" search traffic. Jay Weinberg built a massive social following through Slipknot\'s live circuit and independent content, inspiring a generation of metal drummers who grew up watching him replace an icon.',
+    },
+    verdict: 'Eloy Casagrande and Jay Weinberg share the rare experience of carrying one of metal\'s most iconic drum chairs. Eloy joined the biggest band in metal history; Jay carried Slipknot\'s percussive identity for nearly a decade. Both are technically elite, both carry the weight of expectation, and both delivered. The debate is power-and-groove vs precision-and-chaos.',
+    faqs: [
+      { q: 'Why did Eloy Casagrande join Metallica?', a: 'Eloy Casagrande was announced as Metallica\'s touring and recording drummer in 2024 after leaving Sepultura. His combination of technical precision, thrash metal roots, and ability to handle Metallica\'s vast catalog made him the natural choice.' },
+      { q: 'Why did Jay Weinberg leave Slipknot?', a: 'Jay Weinberg departed Slipknot in late 2023. No official detailed reason was given; the band announced his exit while continuing touring commitments with a replacement drummer.' },
+      { q: 'What gear does Eloy Casagrande use?', a: 'Eloy Casagrande plays Tama Starclassic Maple drums with Zildjian cymbals and Tama Iron Cobra double pedals.' },
+      { q: 'Who is the better drummer: Eloy Casagrande or Jay Weinberg?', a: 'Both are exceptional. Eloy\'s groove-driven thrash power suits Metallica\'s catalog; Jay\'s precision-based chaos suited Slipknot\'s percussive assault. Style preference determines the winner.' },
+    ],
+  },
+
+  // Issue #2725: SEO batch 21 — French groove-djent vs American prog-tech
+  'mario-duplantier-vs-matt-halpern': {
+    slug: 'mario-duplantier-vs-matt-halpern',
+    title: 'Mario Duplantier vs Matt Halpern',
+    metaTitle: 'Mario Duplantier vs Matt Halpern — Modern Heavy Metal Drumming Compared | MetalForge',
+    metaDescription: 'Gojira\'s Mario Duplantier vs Periphery\'s Matt Halpern. French eco-metal groove vs American djent polyrhythms — two faces of modern heavy drumming compared.',
+    category: 'progressive',
+    drummers: ['mario-duplantier', 'matt-halpern'],
+    comparison: {
+      style: 'Mario Duplantier drives Gojira\'s "environmental metal" with tribal power, explosive accents, and atmospheric endurance — his drumming breathes with massive, slow-building compositions and earns its complexity through raw, physical authority. Matt Halpern anchors Periphery\'s djent sound with deep groove, intricate ghost-note work, and polyrhythmic independence — making technically demanding patterns feel locked-in and organic.',
+      technique: 'Mario uses tribal stamina and explosive accent placement to power Gojira\'s massive riff cycles, with a style built on controlled ferocity and dynamics rather than pure speed. Halpern masters the djent paradox — making syncopated polyrhythms feel completely natural through ghost-note density, precise subdivision, and a groove-first philosophy supported by extensive music theory knowledge and YouTube educational content.',
+      gear: 'Mario endorses Tama Starclassic Bubinga drums with Zildjian A Custom and K Sweet cymbals and Tama signature sticks — a warm, powerful setup built for Gojira\'s atmospheric heaviness. Matt plays Pearl Reference Series drums with Meinl Byzance cymbals and a Pearl Demon Drive double pedal — a precision-tuned setup suited to Periphery\'s studio-quality live performance standards.',
+      influence: 'Mario Duplantier is one of the most-searched metal drummers globally — 32 GSC impressions across "mario duplantier drum kit" queries — and has defined what modern progressive death metal drumming looks and sounds like. Matt Halpern built one of the most engaged online drumming education communities, with his Periphery work and YouTube content inspiring a generation of djent and progressive metal drummers.',
+    },
+    verdict: 'Mario Duplantier and Matt Halpern represent two faces of modern heavy drumming — tribal power vs polyrhythmic precision, eco-metal ferocity vs djent groove. Mario\'s playing is physical, atmospheric, and earned through endurance. Halpern\'s is technical, mathematically precise, and groove-driven. Both are among the most technically accomplished drummers in modern metal.',
+    faqs: [
+      { q: 'What drums does Mario Duplantier play?', a: 'Mario Duplantier plays Tama Starclassic Bubinga drums with Zildjian A Custom and K Sweet cymbals and Tama signature sticks.' },
+      { q: 'What drums does Matt Halpern play?', a: 'Matt Halpern plays Pearl Reference Series drums with Meinl Byzance cymbals and a Pearl Demon Drive double pedal.' },
+      { q: 'Who is more technical: Mario Duplantier or Matt Halpern?', a: 'Both are highly technical in different ways. Halpern\'s polyrhythmic ghost-note complexity and djent subdivision are a different kind of technical demand than Mario\'s tribal power and explosive accent placement. Neither is "more technical" — they\'re technically elite in different dimensions.' },
+      { q: 'What band is Mario Duplantier in?', a: 'Mario Duplantier is the drummer and co-founder of Gojira, the French progressive death metal band known for their environmental advocacy and albums like The Way of All Flesh, Magma, and Fortitude.' },
+    ],
+  },
+
   'mike-mangini-vs-matt-garstka': {
     slug: 'mike-mangini-vs-matt-garstka',
     title: 'Mike Mangini vs Matt Garstka',

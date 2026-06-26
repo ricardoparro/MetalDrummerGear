@@ -182,6 +182,172 @@ export const licks = {
       ]
     }
   }
+,
+  "derek-roddy-blast-beat-gravity": {
+    "slug": "derek-roddy-blast-beat-gravity",
+    "name": "Gravity Blast Technique",
+    "shortName": "Gravity Blast",
+    "drummerId": 44,
+    "drummerName": "Derek Roddy",
+    "drummerSlug": "derek-roddy",
+    "band": "Hate Eternal",
+    "song": "For Raping the Useful Idiot",
+    "album": "I, Monarch (2005)",
+    "category": "blast-beat",
+    "style": "death-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 250,
+    "bpmDisplay": "~250 BPM",
+    "timeSignature": "4/4 (extreme tempo)",
+    "description": "The gravity blast is one of the most specialised and widely studied techniques in extreme metal drumming — a method of generating extremely fast single-hand snare strokes by using the weight of the stick and the rebound of the drum head rather than muscular force alone. While the technique has been demonstrated and taught by several elite drummers, Derek Roddy is one of the clearest and most thorough teachers of its mechanics, having documented it across multiple Drumeo masterclasses and drum clinics where he breaks down the hand position, finger control, and body mechanics that make it work. His application of the gravity blast in the context of Hate Eternal's extreme-tempo compositions shows the technique at its most demanding: sustained, fast, and applied within musical passages rather than as an isolated showcase. The mechanics of the gravity blast begin with the stick held loosely in a fulcrum grip, raised to a set height and then dropped so gravity does the downstroke work. At the impact point with the drum head, the rebound energy is captured by the fingers, which redirect the stick upward to the original height before the process repeats. The key is that the muscles provide almost no downward force — they are used entirely for control and redirection, not propulsion. This means the technique is theoretically highly sustainable, because it does not tax the muscles in the same way that driven strokes do. In practice, the wrist and forearm still tire with extended playing, but the onset of fatigue is dramatically delayed compared to conventionally-driven single strokes. Applying the gravity blast within Hate Eternal's compositions requires not just mastering the isolated technique but integrating it into full kit playing — maintaining kick consistency and hi-hat control while the snare hand operates independently in this specialised motion. This integration is where most drummers struggle: the gravity blast feels natural in isolation but becomes unstable when the other limbs are working around it. Roddy's practice recommendation is to integrate slowly: gravity blast over a simple metronome pulse, then add the kick, then the hi-hat, building coordination before adding tempo. For drummers, the gravity blast is a genuinely transformative technique once it clicks — it opens up speeds that driven strokes cannot sustain, and it teaches economy of motion that improves every other aspect of your playing.",
+    "techniques": [
+      "blast-beat",
+      "gravity-blast",
+      "double-bass"
+    ],
+    "techniqueDetails": [
+      "Hold the stick loosely in a fulcrum grip and drop it so gravity provides the downstroke",
+      "Capture the rebound energy with the fingers and redirect the stick upward without muscular force",
+      "Keep the shoulder and forearm completely relaxed — tension kills the rebound and breaks the technique",
+      "Integrate the gravity blast slowly: over a metronome pulse, then add kick, then hi-hat",
+      "Build speed gradually — the gravity blast is sustainable only when the motion is fully automatic"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
+      { "name": "Meinl Byzance & Mb20 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Vic Firth Derek Roddy Signature Sticks", "type": "sticks", "link": null }
+    ],
+    "learningTips": [
+      "Practise the gravity blast in isolation on a practice pad before the kit",
+      "Film yourself from the side to check that the shoulder stays still and the forearm is relaxed",
+      "Add the kick only once the gravity blast runs effortlessly for 30+ seconds alone",
+      "Build tempo in very small increments — the technique must be automatic before adding speed"
+    ],
+    "seo": {
+      "title": "Derek Roddy Gravity Blast - Hate Eternal Drum Technique | MetalForge",
+      "description": "Learn Derek Roddy's gravity blast technique for extreme-metal drumming. Mechanics, fulcrum grip, and step-by-step integration with Hate Eternal context.",
+      "keywords": [
+        "derek roddy",
+        "gravity blast technique",
+        "hate eternal drums",
+        "extreme metal blast beat",
+        "death metal drumming",
+        "blast beat tutorial"
+      ]
+    }
+  },
+  "derek-roddy-evilution-polyrhythm": {
+    "slug": "derek-roddy-evilution-polyrhythm",
+    "name": "Evilution Polyrhythmic Fill",
+    "shortName": "Evilution Poly Fill",
+    "drummerId": 44,
+    "drummerName": "Derek Roddy",
+    "drummerSlug": "derek-roddy",
+    "band": "Monstrosity",
+    "song": "Slaves and Masters",
+    "album": "Evilution (1996)",
+    "category": "polyrhythmic",
+    "style": "death-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 185,
+    "bpmDisplay": "~185 BPM",
+    "timeSignature": "4/4",
+    "description": "Before joining Hate Eternal, Derek Roddy was the drummer on Monstrosity's seminal Evilution (1996), an album that stands as one of the most technically demanding Florida death-metal recordings of the decade. It was on Evilution that Roddy first demonstrated the full range of his polyrhythmic vocabulary to a wider audience: not just the blast beats and double bass that defined the genre, but the ability to construct fills and transitions that moved across multiple rhythmic layers simultaneously, placing accents against the pulse in ways that felt complex without losing the forward momentum of the groove. The Evilution-era polyrhythmic fill is a demonstration of how Roddy thinks rhythmically — not in terms of simple on-beat or off-beat placement, but in terms of grouped strokes that imply independent meters within a single flow. The fill pattern works by dividing a bar into two or more overlapping groups that do not share a common downbeat: for example, a group of five and a group of seven strokes laid across a bar of four, so that the accents fall in places the listener does not expect while the underlying beat continues to resolve on schedule. What makes this difficult is maintaining the pulse internally while the surface of the playing moves against it — the hands have to be counting something different from what the kick and hi-hat are doing, and the transition in and out of the fill has to be smooth enough that the groove does not stumble when the polyrhythm resolves. Roddy's fills on Evilution are technically extraordinary, but they are also musical: the polyrhythms serve the song's energy by building tension and releasing it at the right structural moments. For drummers studying polyrhythmic technique, the Evilution-era fill is an ideal case study because it bridges the gap between academic polyrhythm theory and practical death-metal application. Begin by learning the stroke groupings in isolation, counting out loud and clapping the pattern before touching a kit. Add the kick on the downbeat of every bar while you practise the fill pattern, so the polyrhythm lands in context. Work slowly and deliberately — polyrhythmic fills are one of the few places in drumming where slow practice is non-negotiable, because the internal subdivision must be completely internalised before it can be executed cleanly at speed.",
+    "techniques": [
+      "polyrhythms",
+      "blast-beat",
+      "fill-techniques"
+    ],
+    "techniqueDetails": [
+      "Divide the bar into overlapping stroke groups that imply independent meters",
+      "Maintain the internal pulse count while the fill moves against it on the surface",
+      "Place accents across the polyrhythm so the tension resolves cleanly at the bar line",
+      "Count the stroke groupings aloud before touching the kit — internalise before executing",
+      "Practise the transition into and out of the fill so the groove resumes without stumbling"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
+      { "name": "Meinl Byzance & Mb20 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Vic Firth Derek Roddy Signature Sticks", "type": "sticks", "link": null }
+    ],
+    "learningTips": [
+      "Clap and count the stroke groupings before touching the kit — feel the polyrhythm first",
+      "Add the kick on bar downbeats only once the hand pattern is completely natural",
+      "Record yourself to hear if the accents land cleanly and the fill resolves at the bar line",
+      "Practise transitions into and out of the fill with the blast beat around it"
+    ],
+    "seo": {
+      "title": "Derek Roddy Evilution Polyrhythm - Monstrosity Drum Lesson | MetalForge",
+      "description": "Learn Derek Roddy's polyrhythmic fill technique from Monstrosity's Evilution. Stroke groupings, internal pulse maintenance, and death-metal application.",
+      "keywords": [
+        "derek roddy",
+        "evilution polyrhythm",
+        "monstrosity drums",
+        "polyrhythmic fill death metal",
+        "death metal drumming",
+        "florida death metal"
+      ]
+    }
+  },
+  "derek-roddy-technical-fill": {
+    "slug": "derek-roddy-technical-fill",
+    "name": "Hate Eternal Descending Tom Fill",
+    "shortName": "Descending Tom Fill",
+    "drummerId": 44,
+    "drummerName": "Derek Roddy",
+    "drummerSlug": "derek-roddy",
+    "band": "Hate Eternal",
+    "song": "Behold His Wrath",
+    "album": "King of All Kings (2002)",
+    "category": "fill-techniques",
+    "style": "death-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 230,
+    "bpmDisplay": "~230 BPM",
+    "timeSignature": "4/4 (extreme tempo)",
+    "description": "Hate Eternal's compositions are constructed around relentless rhythmic density, and Derek Roddy's role in that density extends well beyond the blast beat and double bass that dominate the surface of the music. The descending tom fill — a pattern that traces a descent across the toms while the kick and snare drive a rhythmic scaffold beneath — is one of Roddy's most distinctive orchestral tools, appearing at section transitions and climactic moments throughout the King of All Kings record. These fills are not decorative: they restructure the energy of the music at key points, signalling shifts in intensity and providing brief moments of melodic motion within an otherwise tonally dense environment. The technical demand of a descending tom fill at death-metal tempo is considerable. Each tom needs to be struck cleanly and evenly, with consistent volume so the descending motion is audible rather than swallowed by the surrounding blast. The stroke sequence has to be memorised completely so the hands execute it automatically while the feet maintain kick and snare rhythm underneath — a coordination task that requires the left and right hands to follow a rehearsed roadmap while the lower limbs function independently. Roddy's approach to these fills is built on the same principle that governs all of his technique: economy of motion, low stick heights, and relaxed grip so that the hands can move quickly between toms without tension building in the forearms. What distinguishes Roddy's descending tom fills from those of less nuanced players is the velocity control: each stroke is calibrated to sit at a consistent dynamic relative to the others, so the descent feels like a continuous musical phrase rather than a sequence of isolated hits. This requires the kind of slow, deliberate practice where you listen critically to the volume of each stroke rather than focusing on speed. For drummers, learning this fill pattern develops hand independence, cross-kit coordination, and the velocity consistency that makes complex fills sound musical rather than chaotic. Build it slowly, hand by hand, and then integrate the kick pattern so the feet stay steady while the hands work. Once the fill is clean and even, push the tempo carefully — Roddy's version is at speeds that take months to replicate cleanly, and each incremental improvement is worth the patience.",
+    "techniques": [
+      "fill-techniques",
+      "blast-beat",
+      "double-bass"
+    ],
+    "techniqueDetails": [
+      "Strike each tom cleanly and at a consistent velocity so the descent reads as a musical phrase",
+      "Memorise the stroke sequence completely before adding foot coordination",
+      "Keep stick heights low and grip relaxed so the hands travel quickly between toms",
+      "Add the kick pattern underneath only once the hands execute the sequence automatically",
+      "Listen critically for velocity consistency — every tom hit should sit at the same dynamic"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      { "name": "Tama Starclassic Bubinga Kit", "type": "drums", "link": null },
+      { "name": "Meinl Byzance & Mb20 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Vic Firth Derek Roddy Signature Sticks", "type": "sticks", "link": null }
+    ],
+    "learningTips": [
+      "Practise the hand sequence in isolation at very slow tempo for tone and consistency",
+      "Add one foot at a time — kick first, then snare — so coordination builds incrementally",
+      "Record yourself to check that each tom hit has the same volume through the descent",
+      "Raise tempo only once the fill sounds musical and even, not just technically completed"
+    ],
+    "seo": {
+      "title": "Derek Roddy Descending Tom Fill - Hate Eternal Drum Lesson | MetalForge",
+      "description": "Learn Derek Roddy's descending tom fill from Hate Eternal's King of All Kings. Velocity control, cross-kit coordination, and death-metal fill technique.",
+      "keywords": [
+        "derek roddy",
+        "descending tom fill",
+        "hate eternal drums",
+        "death metal fills",
+        "extreme metal drumming",
+        "king of all kings drums"
+      ]
+    }
+  }
 };
 
 export default licks;

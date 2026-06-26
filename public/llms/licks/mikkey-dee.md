@@ -1,12 +1,12 @@
 # Mikkey Dee — Signature Drum Licks & Patterns
 
-**Band:** Motörhead | **Genre:** Heavy Metal / Speed Metal | **Lick Count:** 3
+**Band:** Motörhead | **Genre:** Heavy Metal / Speed Metal | **Lick Count:** 6
 
 ---
 
 ## Overview
 
-Mikkey Dee is one of Heavy Metal / Speed Metal's most influential drummers, best known for their work with Motörhead. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Mikkey Dee" or "Mikkey Dee signature drum patterns". Their style spans heavy-metal.
+Mikkey Dee is one of Heavy Metal / Speed Metal's most influential drummers, best known for their work with Motörhead. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Mikkey Dee" or "Mikkey Dee signature drum patterns". Their style spans heavy-metal.
 
 ## Ace of Spades Driving Power
 
@@ -76,6 +76,75 @@ Mikkey Dee is one of Heavy Metal / Speed Metal's most influential drummers, best
 - Build stamina to hold the driving groove for the whole song
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Double Bass](https://metalforge.io/technique/double-bass)
+
+## Bastards Motorik Drive
+
+**Song:** Death or Glory | **Album:** Bastards (1993) | **BPM:** ~138 BPM | **Technique:** main groove | **Difficulty:** advanced
+
+Bastards (1993) was Mikkey Dee's first full studio album with Motörhead, recorded at the Abyss Studio in Sweden with a Sonor kit that gives the record its dense, powerful drum sound. The motorik 8th-note groove — the locomotive drive that is Motörhead's rhythmic signature — is executed here with the power and precision of a player at the top of his craft. The 8th-note hi-hat runs as an unwavering engine beneath the arrangement, the snare hits hard on two and four, and the kick anchors the downbeat without overreaching. What makes this kind of playing difficult is physical consistency: holding that locked, driving feel at tempo for entire songs requires that the swing be constant and the backbeat authoritative without becoming mechanical. Dee always makes the groove feel alive — there is weight and personality in every stroke even as it locks metronomically.
+
+### How to Play
+
+- Drive the motorik 8th-note hi-hat as an unwavering locomotive engine throughout
+- Anchor a powerful, consistent backbeat on two and four without rushing
+- Lock the kick to the downbeat and keep syncopations deliberate and in-the-pocket
+- Maintain personality and weight in every stroke even as the groove locks metronomically
+- Build hi-hat endurance at tempo before adding kick and snare
+
+### Key Elements
+
+- Practice the 8th-note hi-hat alone with a metronome at a range of tempos until it feels natural
+- Add the backbeat next — keep it heavy and consistent before introducing the kick
+- Stay relaxed in the grip; tension at speed kills the locomotive feel
+- Listen to Bastards closely and copy the weight and attitude of each stroke
+
+**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass)
+
+## Bomber Triplet Gallop
+
+**Song:** Bomber | **Album:** Bomber (1979, live with Mikkey Dee) | **BPM:** ~150 BPM | **Technique:** signature pattern | **Difficulty:** advanced
+
+"Bomber" is one of Motörhead's most beloved stage anthems, featuring a triplet gallop pattern that gives the song its driving, slightly lopsided momentum. The gallop is built on triplet subdivisions — a three-against-two pulse where the kick and hi-hat play a loping, even pattern at speed. Mikkey Dee played this groove live for over two decades, giving it heavier, more controlled execution than the original while preserving the menace. The challenge is maintaining even triplet subdivisions at speed without the gallop rushing or dragging — which requires internalising the feel so thoroughly it runs on autopilot while hands and feet work independently. The "Bomber" gallop appears in countless heavy rock and metal songs, making it a foundational pattern for any heavy drummer.
+
+### How to Play
+
+- Build the triplet gallop feel by counting three-against-two subdivisions aloud first
+- Keep the kick articulate and even within the triplet grouping — avoid smearing the pulse
+- Anchor a heavy, decisive backbeat on two and four over the gallop subdivision
+- Maintain even triplet subdivision at speed through relaxed grip and efficient stick return
+- Practise the gallop at slow tempo before adding the Motörhead power and intensity
+
+### Key Elements
+
+- Count the triplet gallop aloud before touching the kit — feel the three-against-two first
+- Slow the tempo dramatically and build evenness before adding any speed
+- Apply the Motörhead intensity only once the subdivisions are completely natural
+- Listen to live recordings of Dee playing Bomber to absorb the weight and feel
+
+**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+
+## Overkill 8th-Note Double Bass
+
+**Song:** Overkill | **Album:** Overkill (1979, performed by Mikkey Dee) | **BPM:** ~195 BPM | **Technique:** double bass | **Difficulty:** advanced
+
+The Overkill double-bass pattern is one of the most influential drum parts in heavy metal — a relentless roll of even 8th-note kick strokes that rumbles beneath the song like an engine with no governor. Mikkey Dee's execution focuses entirely on the specific mechanics: both feet alternating in perfect even subdivision, every stroke identical in volume, attack, and decay, so the pattern sounds like a single foot playing at speed rather than one dominant and one weaker partner. At 195 BPM, each foot plays at approximately 97.5 BPM individually — demanding but sustainable with proper heel-up ankle drive. The dramatic false endings that make Overkill thrilling live depend on this foot precision: the double bass must restart at full intensity immediately when the band drops back in.
+
+### How to Play
+
+- Alternate feet in even 8th-note strokes — every stroke identical in volume, attack, and decay
+- Use heel-up technique with ankle drive rather than leg force to sustain the roll
+- Keep both feet perfectly matched so the pattern sounds like a single foot at speed
+- Practise the false-ending restarts so the double bass fires immediately at full intensity
+- Build duration at a comfortable tempo before increasing speed
+
+### Key Elements
+
+- Practise the 8th-note roll at 80 BPM in 4-bar loops until both feet are identical
+- Extend the duration of each rep before increasing tempo
+- Listen critically for the weaker foot and work to match it to the stronger
+- Build 5 BPM at a time — only advance when the current tempo holds for a full minute
+
+**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
 
 ## Teaching Points
 

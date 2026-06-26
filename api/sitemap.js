@@ -449,9 +449,11 @@ function getGearSeriesUrls() {
   return urls;
 }
 
-export default function handler(req, res) {
-  res.setHeader('Content-Type', 'application/xml');
-  res.setHeader('Cache-Control', 'public, max-age=86400');
+// Issue: pre-render at build time. The full URL list + XML serialization is
+// extracted here so scripts/generate-sitemap.mjs can emit a static
+// dist/sitemap.xml at build time (no Vercel cold-start on every Googlebot
+// fetch), while the serverless handler below stays a thin fallback.
+export function buildSitemapXml() {
   const urls = [
     { loc: '/', priority: '1.0', changefreq: 'weekly' },
     // Issue #1053: #2 organic page (GA4) — drummer database hub, links to all 62 profiles
@@ -777,5 +779,11 @@ ${urls.map(url => `  <url>
     </image:image>` : ''}
   </url>`).join('\n')}
 </urlset>`;
-  res.status(200).send(sitemap);
+  return sitemap;
+}
+
+export default function handler(req, res) {
+  res.setHeader('Content-Type', 'application/xml');
+  res.setHeader('Cache-Control', 'public, max-age=86400');
+  res.status(200).send(buildSitemapXml());
 }

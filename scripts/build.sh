@@ -10,3 +10,6 @@ node scripts/inject-ga.cjs
 # LCP Optimization (#752): Inject modulepreload for main bundle
 node scripts/inject-bundle-preload.cjs
 cp -r ../../public/* dist/
+# Pre-render sitemap.xml as a static file (no serverless cold-start on crawl).
+# Runs after the public/* copy so it overrides any stale committed sitemap.
+node ../../scripts/generate-sitemap.mjs

@@ -221,6 +221,10 @@ const soundLikeGuides = [
   { slug: 'how-to-sound-like-daniel-erlandsson', name: 'How to Sound Like Daniel Erlandsson' },
   { slug: 'how-to-sound-like-paul-bostaph', name: 'How to Sound Like Paul Bostaph' },
   { slug: 'how-to-sound-like-hannes-grossmann', name: 'How to Sound Like Hannes Grossmann' },
+  // Issue #2815: SEO batch 26 — Inferno, Pete Sandoval, Jaska Raatikainen
+  { slug: 'how-to-sound-like-inferno', name: 'How to Sound Like Inferno' },
+  { slug: 'how-to-sound-like-pete-sandoval', name: 'How to Sound Like Pete Sandoval' },
+  { slug: 'how-to-sound-like-jaska-raatikainen', name: 'How to Sound Like Jaska Raatikainen' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

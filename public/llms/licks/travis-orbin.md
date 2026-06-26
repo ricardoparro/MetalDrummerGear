@@ -1,6 +1,6 @@
 # Travis Orbin — Signature Drum Licks & Patterns
 
-**Band:** Periphery | **Genre:** Progressive Metal / Djent | **Lick Count:** 3
+**Band:** Periphery | **Genre:** Progressive Metal / Djent | **Lick Count:** 6
 
 ---
 
@@ -77,6 +77,75 @@ Travis Orbin is one of Progressive Metal / Djent's most influential drummers, be
 
 **Core Techniques:** [Fills](https://metalforge.io/technique/fills), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Double Bass](https://metalforge.io/technique/double-bass)
 
+## Racecar Metric Modulation Engine
+
+**Song:** Racecar | **Album:** Periphery (2010) | **BPM:** ~148 BPM | **Technique:** polyrhythm | **Difficulty:** expert
+
+"Racecar" closes Periphery's 2010 debut with a thirteen-minute epic that stands as the most ambitious single drum performance of Travis Orbin's recording career. Over its runtime the time signature shifts between 4/4, 7/8, 9/8, and compound groupings, with Orbin navigating the full djent-era vocabulary — riff-locked kick patterns, polymetric accents, blast sections, and dynamic restraint — all within a long-form composition demanding sustained metric intelligence. At its structural core, "Racecar" is a masterclass in 7/8-plus-9/8 metric modulation: pairing these two odd meters creates a sixteen-beat macro-cycle that repeats before resolving, generating a characteristically flowing-yet-unsettled quality that defined Periphery's debut sound. Rather than simply changing meter at each section boundary, Orbin treats the shift between 7/8 and 9/8 as a continuous groove — the hi-hat flowing through the change while kick and snare reorient beneath it, so the listener hears modulation as evolution rather than interruption. This is advanced metric modulation: carrying the groove across the change so forward momentum never pauses.
+
+### How to Play
+
+- Feel 7/8 as a groove with a natural pulse — practise it as a loop until it stops feeling like counting
+- Carry the hi-hat pattern through the meter shift so the groove flows across the change without resetting
+- Lock every off-beat kick to the guitar's staccato accent at its exact position within the changing metric frame
+- Build the sixteen-beat 7/8+9/8 cycle by chaining the two meters slowly and counting the combined resolution point
+- Sustain metric intelligence across the full performance by internalising section shapes, not memorising counts
+
+### Key Elements
+
+- Practise 7/8 grooves daily as loops before touching the metric modulation — the feel must be automatic
+- Map the full sixteen-beat cycle on paper showing where each meter starts and ends before playing
+- Record the metric shift and listen back for whether the groove carries across or resets
+- Approach the full song in sections rather than a single thirteen-minute run until each section is independently solid
+
+**Core Techniques:** [Polyrhythm](https://metalforge.io/technique/polyrhythm), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+
+## Follow the Signs Controlled Blast Beat
+
+**Song:** Follow the Signs | **Album:** The Discovery (2011) | **BPM:** ~190 BPM | **Technique:** blast beat | **Difficulty:** expert
+
+The controlled blast beat is one of the most technically demanding techniques in extreme metal, and Travis Orbin's approach — developed and documented in his YouTube and instructional content — turns what can become an undifferentiated wall of sound into a precisely calibrated rhythmic statement. "Follow the Signs" from Born of Osiris provides the stylistic template, combining brutal blast sections with technical progressive shifts that demand speed, dynamic awareness, and metric intelligence simultaneously. The controlled blast beat differs from the raw approach in that it maintains a measurable dynamic gradient across the stroke cluster: accents are clearly defined at the top of the range, subdivisions between them provide density without muddying the accent layer, and the kick pattern beneath supports rather than competes with the hand work. Orbin's anatomical approach — isolating wrist mechanics of each stroke type before combining at speed — produces a blast that retains clarity at extreme velocity. At approximately 190 BPM, sustaining dynamic differentiation requires deep wrist independence and considerable stamina.
+
+### How to Play
+
+- Differentiate accent strokes from subdivision strokes by velocity and wrist angle — the blast must have an audible dynamic layer, not just speed
+- Build the kick pattern in isolation against a click before adding hand components
+- Keep the snare accent consistent and loud against the ride or hi-hat subdivisions so the blast retains rhythmic definition
+- Practise wrist endurance drills — the blast beat is a stamina exercise as much as a speed exercise
+- Build tempo incrementally from 130 BPM, maintaining dynamic clarity at each stage before advancing
+
+### Key Elements
+
+- Isolate each blast-beat component — kick alone, hi-hat alone, snare alone — and build them independently before combining
+- Practise at 130 BPM with maximum dynamic contrast, then increase tempo while preserving the accent-to-subdivision ratio
+- Record the blast and listen for flam-like inconsistencies — any timing drift is immediately audible in playback
+- Build wrist stamina with five-minute single-stroke roll sessions at moderate tempo before attempting extended blast passages
+
+**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Dynamic Control](https://metalforge.io/technique/dynamic-control)
+
+## Singles and Doubles Hybrid Rudiment
+
+**Song:** Jetpacks Was Yes! | **Album:** Periphery (2010) | **BPM:** ~155 BPM | **Technique:** rudiments | **Difficulty:** advanced
+
+Travis Orbin's YouTube channel is one of the most pedagogically valuable resources in modern drumming, and his demonstrations of hybrid rudiments — combinations of single strokes and double strokes creating rhythmic textures unavailable from either technique alone — are a cornerstone of his online teaching. The singles-and-doubles hybrid pattern he documents is not derived from a single song but represents a distillation of the sticking vocabulary underlying virtually all of his most recognisable playing, heard most clearly in the expressive sticking work of Periphery's "Jetpacks Was Yes!" The pattern operates on a principle Orbin explains with characteristic clarity: the single stroke provides the accent and defines the rhythmic pulse, while the double follows to fill the subdivision and create density without interrupting the accent pattern. Chaining singles-into-doubles creates phrases that sound more complex than either technique alone — the rhythmic profile shifts with each group as the accent falls on a different stroke in the double — producing the "cascade" quality characterising Orbin's most explosive fills. The practical application requires fine motor control to switch between single and double strokes without changing wrist angle, rebound height, or grip pressure.
+
+### How to Play
+
+- Execute the single stroke with a deliberate accent; let the double that follows trail at a slightly lower dynamic to project the rhythmic pulse
+- Keep the wrist angle and rebound height identical between single and double strokes — the transition must be seamless
+- Practise the pattern slowly enough to feel each stroke individually before building to the speed at which it sounds like a cascade
+- Apply the hybrid pattern as a fill in a groove context — entry and exit points are as important as the rudiment itself
+- Practise weak-side leading as rigorously as strong-side to maintain the hybrid's shape regardless of sticking direction
+
+### Key Elements
+
+- Begin at 60 BPM on a practice pad, alternating single-single-double slowly until the transition feels effortless
+- Record the pattern at practice tempo and listen for any change in stick height between the single and double
+- Once clean at slow tempo, increase by 5 BPM increments and repeat the recording check at each level
+- Apply the pattern inside a groove before using it as a fill — the musical context reveals timing issues isolated practice misses
+
+**Core Techniques:** [Rudiments](https://metalforge.io/technique/rudiments), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+
 ## Teaching Points
 
 Travis Orbin's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Slow the polyrhythmic passages to 60 BPM and tap through the accents without the kit until the pattern is memorised; Practise each hand independently against a steady kick before combining all four limbs; Use a metronome locked to the underlying pulse and treat the polymetric accents as ornaments rather than the primary beat. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
@@ -90,4 +159,4 @@ Travis Orbin's style is defined by precision, timing, and genre-defining grooves
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-26 · Source: [MetalForge.io](https://metalforge.io)*

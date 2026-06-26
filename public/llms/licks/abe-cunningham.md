@@ -1,6 +1,6 @@
 # Abe Cunningham — Signature Drum Licks & Patterns
 
-**Band:** Deftones | **Genre:** Alternative Metal | **Lick Count:** 3
+**Band:** Deftones | **Genre:** Alternative Metal | **Lick Count:** 6
 
 ---
 
@@ -77,6 +77,75 @@ Abe Cunningham is one of Alternative Metal's most influential drummers, best kno
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Linear Drumming](https://metalforge.io/technique/linear-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
 
+## Passenger Atmospheric Ghost-Note Groove
+
+**Song:** Passenger | **Album:** White Pony (2000) | **BPM:** ~65 BPM | **Technique:** signature pattern | **Difficulty:** intermediate
+
+"Passenger," the ninth track on Deftones' landmark White Pony (2000), occupies a unique position in Abe Cunningham's catalogue — it is the album's most intimate drum performance, a piece of rhythmic atmosphere so restrained that Cunningham barely touches the kit for entire verses, allowing the duet between Chino Moreno and guest vocalist Maynard James Keenan to breathe in near-silence. The groove that does emerge — a barely-there hi-hat thread, a snare that marks time rather than drives it, a kick placed with the care of a single brushstroke — is one of the most studied examples of what it truly means to serve a song's emotional purpose rather than demonstrate rhythmic confidence. What Cunningham demonstrates throughout "Passenger" is the discipline of weight without volume: each stroke carries its full emotional mass but is delivered at a dynamic level that would be almost inaudible in a louder context. The hi-hat pattern is played at near-zero stick velocity; the snare functions as punctuation, not a driving accent; ghost notes between the marked beats provide rhythmic continuity without adding rhythmic content — they are felt more than heard. For drummers, "Passenger" is a transformative study in atmospheric ghost-note groove: it teaches that presence without assertion is the hardest drumming skill, that ghost notes are a compositional tool rather than technical filler, and that serving a moment of genuine musical vulnerability demands more discipline than playing fast.
+
+### How to Play
+
+- Reduce stick velocity to near zero in the verse — the hi-hat must whisper, not tick
+- Place each kick stroke as a compositional choice, not a pattern — mark emotional cue points in the vocal line
+- Keep ghost notes on the snare consistent in volume and below the threshold of conscious hearing
+- Allow the snare's occasional marked hit to carry full weight against the silence that precedes it
+- Resist every impulse to fill space — the discipline of not playing is the entire performance
+
+### Key Elements
+
+- Practise the verse groove on a practice pad at pianissimo volume — if you can hear the stick rebound, you are playing too loudly
+- Record yourself and listen back at full volume; ghost notes that seem audible during practice often disappear completely in playback
+- Map every kick placement to a vocal or guitar event in the song — each one should have a reason, not a pattern
+- Sit with the song as a listener before playing it — understand the emotional arc so you know when the single heavy hit needs to land
+
+**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamic Control](https://metalforge.io/technique/dynamic-control), [Ghost Notes](https://metalforge.io/technique/ghost-notes)
+
+## Diamond Eyes Rolling Tom Fill
+
+**Song:** Diamond Eyes | **Album:** Diamond Eyes (2010) | **BPM:** ~140 BPM | **Technique:** fills | **Difficulty:** advanced
+
+"Diamond Eyes," the title track of Deftones' 2010 album, was recorded under enormous emotional pressure following the illness of bassist Chi Cheng, and the album's directness and urgency reflect those circumstances. Abe Cunningham's drumming on the title track is some of his most exhilarating on record: at approximately 140 BPM, the song drives with controlled energy that balances alt-metal aggression with melodic sensitivity, and the fill passages are among the most fluid and satisfying of his career. Where his White Pony performances are defined above all by restraint, "Diamond Eyes" shows Cunningham's ability to let the music breathe at pace — finding the pocket in an urgent groove and decorating it with fills that feel like natural extensions of the song rather than technical insertions. The fill vocabulary is characteristically economical: two- or three-beat tom patterns that move with a rolling momentum from high tom to floor tom, resolving on the snare with a crack that feels like the sentence completing itself. Cunningham does not fill for length or density; he fills for shape, and every fill in "Diamond Eyes" has a clear beginning, motion, and resolution. For drummers, "Diamond Eyes" is a master class in how a fill can serve a song: economical, shaped, and always landing exactly where the arrangement needs it.
+
+### How to Play
+
+- Begin each tom fill from the highest pitch and cascade down to the floor tom in a smooth, even rolling motion
+- Resolve the fill on the snare with a deliberate accent that matches the chorus entry point
+- Contrast the closed hi-hat verse groove with open hi-hat in the chorus to modulate the song's emotional register
+- Keep fill length to two or three beats maximum — Cunningham's fills serve structure, not display
+- Pull back dynamically just before the fill enters so the cascade has room to build into its landing
+
+### Key Elements
+
+- Practise the tom cascade slowly, ensuring each stroke has the same volume and rebound height before building tempo
+- Map the fill entry points to the song structure — know exactly which bar each fill begins in before playing
+- Practise the transition from closed verse hi-hat to open chorus hi-hat in isolation until it is automatic
+- Record the full song and listen for whether fills feel premature or hesitant — those are the slow-tempo drilling points
+
+**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamic Control](https://metalforge.io/technique/dynamic-control)
+
+## Hole in the Earth Syncopated Hi-Hat Pattern
+
+**Song:** Hole in the Earth | **Album:** Saturday Night Wrist (2006) | **BPM:** ~120 BPM | **Technique:** signature pattern | **Difficulty:** intermediate
+
+Saturday Night Wrist (2006) is one of Deftones' most underappreciated records, and "Hole in the Earth" — its lead single — showcases Abe Cunningham's ability to construct a syncopated alt-metal groove that simultaneously drives a song and leaves room for the band to breathe. At approximately 120 BPM, the groove departs from standard eighth-note template playing: Cunningham emphasises certain subdivisions between the main beats with a wrist accent displacement that gives the groove its characteristic off-kilter pull — a slight syncopation that makes the pattern feel looser and more personal than a metronomic hi-hat sequence. Rather than even eighth notes with identical velocity, he places louder wrist accents on certain off-beat subdivisions (the "and" of two and the "and" of four), creating ghost strokes on the primary beats and accented strokes between them. This technique, familiar from funk and R&B, is rarer in alt-metal but gives "Hole in the Earth" a looseness and groove quality that distinguishes it from more aggressive Deftones material or their atmospheric restraint on White Pony. The groove has personality because it departs from template hi-hat patterns. For drummers, this pattern is one of the most transferable in Cunningham's catalogue — adaptable to many mid-paced alt-metal contexts, developing wrist sensitivity and the ability to build groove personality from subdivision rather than fills.
+
+### How to Play
+
+- Accent the off-beat subdivisions (the 'and' of 2 and 4) with a full wrist stroke while letting on-beat strokes ghost at rebound level
+- Keep the snare backbeats on 2 and 4 with full authority regardless of the hi-hat syncopation above them
+- Maintain consistent tempo through the syncopated hi-hat — the displacement is a velocity change, not a timing change
+- Practise the hi-hat pattern alone until the syncopated accents feel natural before adding snare and kick
+- Vary the degree of accent displacement to find the level that gives the groove personality without obscuring the pulse
+
+### Key Elements
+
+- Practise the hi-hat pattern in isolation at 90 BPM with a metronome, focusing on consistent accent placement
+- Record the groove and check that the syncopated hi-hat accents do not cause the tempo to waver
+- Compare your recording with the original to check accent placement — the syncopation is subtle and small differences change the feel significantly
+- Once the hi-hat pattern is solid, practise transitions to open hi-hat for chorus sections to integrate the full groove
+
+**Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Syncopation](https://metalforge.io/technique/syncopation), [Dynamic Control](https://metalforge.io/technique/dynamic-control)
+
 ## Teaching Points
 
 Abe Cunningham's style is defined by precision, timing, and genre-defining grooves. Key practice principles across all their licks: Practise holding a perfectly steady, quiet hi-hat pulse with a metronome before adding any other elements; Record the ghost notes and check they are consistent in volume — any spike destroys the ambient feel; Learn the cymbal swell by practising crescendo rolls from pianissimo to fortissimo in isolation. Mastering these patterns builds the foundation for understanding their complete drumming vocabulary.
@@ -90,4 +159,4 @@ Abe Cunningham's style is defined by precision, timing, and genre-defining groov
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-26 · Source: [MetalForge.io](https://metalforge.io)*

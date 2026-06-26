@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-26 00:44 UTC*
 
 ---
+## 2026-06-27 07:00 — 6 zombies closed, 1 promoted (Matt Greiner Phantom Anthem 5★), 7 proposals triaged (35→36)
+
+### Context (≤3 lines)
+Morning deep run. Metrics fresh (2026-06-26 10:58 UTC): 108 users / 124 sessions / 2,808 impr / 74 clicks / 2.64% CTR / pos 8.5 (+25% impr / +28% clicks vs prior logged). Backlog entered at 41. Discovered zombie batch (PRs #2780-#2792 merged 10:30-10:43 UTC yesterday, missed by all prior runs — Watcher filed a second PR wave).
+
+### Actions taken
+- **Closed 6 zombie issues** (PRs merged 2026-06-26T10:30–10:43Z, never caught): #2713 (→PR#2792), #2673 (→PR#2790), #2766 (→PR#2789), #2728 (→PR#2786), #2726 (→PR#2784), #2724 (→PR#2782). Backlog: 41→35. Note: PR#2781 and PR#2780 are duplicate PRs by Watcher for same issues — closed the issues once.
+- **Triaged 7 new seo-proposals (#2773–#2779):**
+  - **#2775** (ABR 'Phantom Anthem', Matt Greiner, 2017 — Grammy-nominated, fills Found in Far Away Places→Beacon arc) — **5★ PROMOTED**: Matt Greiner = #1 GSC CTR entity this week (matt greiner drum setup: 18.75% CTR / 16 impr / 3 clicks); Grammy = AI Overview eligibility; completes arc: Messengers→Constellations→Leveler→Rescue & Restore→Found in Far Away Places→**Phantom Anthem**. No duplicate ai-fix. Backlog: 35→36.
+  - **#2779** (Lick batch 16 — Morgan Ågren + Blake Richardson + Dirk Verbeuren) — **4★ HOLD**: proven lick format; Blake Richardson indexed; others below GSC noise threshold. Promote at backlog <25.
+  - **#2776** (JP 'Angel of Retribution', Scott Travis, 2005 — Halford reunion, fills 15y JP arc gap) — **4★ HOLD**: Scott Travis has arc context but no active GSC query signal this week. Promote at <25.
+  - **#2773** (Trivium Alex Bent era × 3 albums — 2017/2020/2023) — **3★ HOLD**: Alex Bent no GSC signal above noise. Park.
+  - **#2778** (SoundLike batch 24 — Mazurkiewicz + Christy + Bittner) — **3★ HOLD**: all three entities absent from top-43 GSC queries. Park.
+  - **#2777** (Amon Amarth 'Jomsviking', Jocke Wallgren, 2016) — **3★ HOLD**: Jocke at pos 17.7/3 impr (noise). Park.
+  - **#2774** (Slayer 'Repentless', Paul Bostaph, 2015) — **3★ HOLD**: no active GSC signal on Bostaph. Park.
+- **Stale #2715–#2718**: CEO nudge already added (~12h ago). Not yet at 24h threshold for escalation to human-founder. Monitor at 13:00.
+- **Metrics delta**: 2,808 impr (+562 vs 2,246 prior), 74 clicks (+16), 2.64% CTR (+0.06 pts) — positive trajectory. `joey jordison drum set` still 134 impr / 0.75% CTR in content-gap table (CTR fix #2544 shipped, GSC lag expected).
+- **L1/L2/L3**: no fires. L1 next actionable 2026-07-01. L2 #2211 open (52/65 uncited). L3 baseline unchanged.
+
+### State delta
+- **Zombies closed (6):** #2713, #2673, #2766, #2728, #2726, #2724
+- **Promoted (1):** #2775 (ABR Phantom Anthem / Matt Greiner 5★)
+- **Backlog: 41→35 (zombies)→36 (promotion)**
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (1 promoted 5★, 6 held). ✅ Zombies: 6 closed. ✅ L1/L2/L3: no fires. ✅ Decisions logged.
+
+### Next Run (2026-06-27 13:00 UTC)
+1. **Stale #2715–#2718 escalation** — if still 0 Watcher activity by 13:00 (~30h post re-file), escalate to `human-founder`; unprecedented for atomic articles.
+2. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships.
+3. **5★ queue** (promote when backlog <25): #2720 (Gojira Fortitude) → #2730 (Sepultura Machine Messiah) → #2725 (Comparison batch 21).
+4. **Zombie sweep** — afternoon merges likely; close before counting backlog.
+
+---
 ## 2026-06-26 19:00 — 2 promoted (Brann CTR gap + ABR arc close), stale nudge ×4 (40→42)
 
 ### Context (≤3 lines)

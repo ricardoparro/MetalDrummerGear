@@ -616,6 +616,12 @@ export const drummerComparisons = {
       influence: 'Brann helped define progressive sludge metal with Mastodon, influencing a generation to treat drum fills as melodic statements. Gavin elevated Porcupine Tree, King Crimson, and The Pineapple Thief — earning multiple Modern Drummer awards and a reputation as the prog drummer\'s drummer.',
     },
     verdict: 'Brann Dailor is jazz chaos personified — his fills are the melody and his kit is a second lead instrument. Gavin Harrison is refined polyrhythmic mastery — subtle, sophisticated, and deeply musical. The contrast between Mastodon\'s dense oddity and Porcupine Tree\'s intellectual complexity makes this the ultimate Prog-vs-Prog drumming debate.',
+    faqs: [
+      { q: 'What are the main differences between Brann Dailor\'s and Gavin Harrison\'s drum kits?', a: 'Brann Dailor plays Tama Starclassic Performer B/B with Meinl Byzance cymbals, while Gavin Harrison uses Sonor SQ2 Series drums with Zildjian K Custom Special Dry cymbals. Brann favors a warm, musical tone for melodic fills; Gavin prefers a dry, controlled sound for polyrhythmic precision.' },
+      { q: 'Who is the better progressive metal drummer, Brann Dailor or Gavin Harrison?', a: 'Both are legends in their own right. Brann Dailor is jazz chaos incarnate in progressive sludge metal; Gavin Harrison is polyrhythmic sophistication personified in progressive rock. The answer depends on whether you value constant motion and melodic chaos or restrained, mathematical groove.' },
+      { q: 'What cymbals do Brann Dailor and Gavin Harrison use?', a: 'Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China). Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).' },
+      { q: 'What bands are Brann Dailor and Gavin Harrison known for?', a: 'Brann Dailor is the drummer and vocalist for Mastodon. Gavin Harrison is best known for Porcupine Tree and King Crimson, and also plays with The Pineapple Thief.' },
+    ],
   },
 
   'mario-duplantier-vs-george-kollias': {

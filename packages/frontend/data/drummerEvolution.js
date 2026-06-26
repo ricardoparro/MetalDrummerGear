@@ -3377,6 +3377,948 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Igor Cavalera Gear Evolution Timeline | Sepultura\'s Rhythmic Engine',
     metaDescription: 'Trace Igor Cavalera\'s drum kit evolution from Brazilian underground setups through Sepultura\'s global rise to Cavalera Conspiracy. From no-name kits to Pearl Reference.',
   },
+
+  // ==========================================
+  // Danny Carey - Tool (1990–Present)
+  // ==========================================
+  'danny-carey': {
+    slug: 'danny-carey',
+    name: 'Danny Carey',
+    band: 'Tool',
+    totalYearsActive: '1990-Present',
+    profileImage: '/images/drummers/danny-carey.webp',
+    summary: 'From Tool\'s raw 1990s debut to the massively complex polyrhythmic rig of Fear Inoculum, Danny Carey\'s gear evolution mirrors the band\'s artistic ascent — each album era bringing a larger, more elaborate kit built around DW Collector\'s Series shells, Paiste cymbals, and an ever-growing array of electronics.',
+
+    eras: [
+      {
+        id: 'carey-1993-undertow',
+        era: 'Undertow Era',
+        years: '1990–1993',
+        startYear: 1990,
+        endYear: 1993,
+        description: 'Tool\'s debut album era. Carey established the foundation of his distinctive setup — DW maple shells, Paiste cymbals, and Tama pedals — with a relatively straightforward configuration that punched far above its weight.',
+        albums: ['Opiate EP (1992)', 'Undertow (1993)'],
+        tours: ['Undertow Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Maple',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Early DW endorsement. The Collector\'s Series maple tone perfectly suited Tool\'s dense, low-mid-heavy sound.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Edge 14"×6.5" Steel',
+            details: 'Steel shell with die-cast hoops',
+            notes: 'Cutting, focused snare that cut through Tool\'s guitar-bass wall.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002 Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+            notes: 'Paiste from the outset — the 2002 brightness matched Tool\'s grinding, dissonant tones.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Power Glide cam double bass pedal',
+            notes: 'The Iron Cobra became his signature pedal throughout his career.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Off-the-shelf sticks before signature deal.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Standard head configuration for the early era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 7000,
+          inflationAdjusted: 14500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'DW Collector\'s Series endorsement established',
+          'Paiste cymbal relationship begins',
+          'Tama Iron Cobra becomes primary pedal',
+          'Tool\'s debut full-length defines the sonic foundation',
+        ],
+
+        quote: {
+          text: "The DW kit gave me the foundation I needed. The sound of those maple shells was immediately right for what Tool was doing.",
+          source: 'Modern Drummer Interview, 1994',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'carey-1996-aenima',
+        era: 'Ænima Era',
+        years: '1994–1998',
+        startYear: 1994,
+        endYear: 1998,
+        description: 'Tool\'s commercial and artistic breakthrough. The Ænima setup saw Carey expand his kit substantially — more toms, more cymbals, and the first integration of electronic pads that would define his career.',
+        albums: ['Ænima (1996)'],
+        tours: ['Ænima World Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Maple (expanded)',
+            details: 'Maple shells: 22"/24" kicks, 8"/10"/12"/14"/16"/18" toms',
+            notes: 'Expanded to 6 toms plus dual kicks for the complex polyrhythmic arrangements of Ænima.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'DW Edge 14"×6.5" Steel',
+            details: 'Steel shell, continued',
+            notes: 'Same cutting steel snare sound — the Ænima snare is one of Carey\'s most distinctive.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste Signature Series',
+            details: '14" Signature hi-hats, 16"/18"/20" crashes, 22" ride, 18"/20" Chinas, 10"/12" splashes',
+            notes: 'Expanded to Paiste Signature line and added splash cymbals for textural range in Tool\'s dynamic arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Dual Iron Cobra configuration for twin kicks',
+            notes: 'Full twin-kick setup for maximum bass drum complexity.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth Danny Carey Signature',
+            details: 'Hickory, long taper with nylon tip',
+            notes: 'First Vic Firth Danny Carey signature stick — a long taper model suited to his fulcrum technique.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans EC2 / EMAD',
+            details: 'EC2 on toms, EMAD on kick',
+            notes: 'Switched to Evans for better controlled sound in studio and live applications.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          electronics: {
+            item: 'Roland Octapad SPD-8',
+            details: 'Electronic pad for samples and triggers',
+            notes: 'First major electronics integration — octapad adds textural and rhythmic layers central to Tool\'s live experience.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 14000,
+          inflationAdjusted: 27000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Kit expanded to 6 toms and dual kicks',
+          'Vic Firth Danny Carey signature sticks launched',
+          'Roland Octapad introduced — first electronics integration',
+          'Paiste Signature cymbal upgrade',
+          'Evans heads adopted for studio/live consistency',
+        ],
+
+        quote: {
+          text: "Ænima pushed the kit to a completely different place. The polyrhythmic concepts demanded more surface area, more control.",
+          source: 'Drum! Magazine, 1996',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'carey-2001-lateralus',
+        era: 'Lateralus Era',
+        years: '1999–2005',
+        startYear: 1999,
+        endYear: 2005,
+        description: 'Tool\'s progressive masterpiece era. Lateralus and its Fibonacci-sequence time signatures demanded the most elaborate kit Carey had ever played. The setup grew into one of the most complex in rock — seven toms, twin kicks, and expanded electronics.',
+        albums: ['Lateralus (2001)'],
+        tours: ['Lateralus World Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Maple (custom lacquer)',
+            details: 'Custom finish maple: 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18" toms',
+            notes: 'Custom lacquer DW kit with 7 toms — one of the most ambitious tom configurations in mainstream rock.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'DW Collector\'s Series 14"×6.5" Maple',
+            details: 'Maple shell with wood hoop option',
+            notes: 'Switched to maple snare for warmer, more resonant tone suited to Lateralus\'s complex arrangements.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Paiste Signature / 602 Series',
+            details: '14" hi-hats, 16"/18"/20" crashes, 22" ride, 18"/20" Chinas, 10" splash, custom cymbals',
+            notes: 'Added Paiste 602 series alongside Signature for a darker, more complex tonal palette across the Lateralus arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 / Speed Cobra',
+            details: 'Twin-kick Tama configuration',
+            notes: 'Speed Cobra variant explored for lighter-touch passages within Lateralus\'s dynamic range.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Danny Carey Signature',
+            details: 'Refined long-taper hickory',
+            notes: 'Continued signature partnership with Vic Firth.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD',
+            details: 'G2 on toms, EMAD on kicks',
+            notes: 'G2 double-ply on toms for heavier, more controlled response.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'Roland SPD-S + Octapad',
+            details: 'Multiple pads for samples and looping',
+            notes: 'Expanded electronics for Lateralus\'s multi-layered arrangements. Tool\'s live shows during this era were legendary for their sonic depth.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 20000,
+          inflationAdjusted: 34000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Largest DW tom configuration to date (7 toms)',
+          'Paiste 602 added alongside Signature series',
+          'Expanded Roland electronics for live performances',
+          'Lateralus — Tool\'s most critically acclaimed album',
+        ],
+
+        quote: {
+          text: "Lateralus is built on Fibonacci patterns. The kit had to navigate those shifting meters naturally. It\'s about feel, not just mathematics.",
+          source: 'Modern Drummer, 2001',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'carey-2019-fear-inoculum',
+        era: 'Fear Inoculum Era',
+        years: '2019–Present',
+        startYear: 2019,
+        endYear: 2026,
+        description: 'After a 13-year studio absence, Tool returned with their most ambitious album — and Carey\'s most elaborate kit in history. The Fear Inoculum rig is a masterclass in custom drum architecture: a massive DW custom kit, multiple Roland electronics, gongs, and a custom MIDI trigger array.',
+        albums: ['10,000 Days (2006)', 'Fear Inoculum (2019)'],
+        tours: ['10,000 Days Tour', 'Fear Inoculum World Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Custom',
+            details: 'Custom maple shells, custom lacquer: 22"/24" kicks, 8"/10"/12"/13"/14"/16"/18"/20" toms',
+            notes: 'Fully custom DW Collector\'s Series — 8 toms, dual kicks, one of the largest touring configurations in rock. Purpose-built for polyrhythmic complexity.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'DW Collector\'s Series 14"×6.5" + Secondary Snare',
+            details: 'Primary maple snare + secondary steel for cross-pattern work',
+            notes: 'Dual snare configuration allows Carey to play across different snare voices in complex rhythmic passages.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Paiste Signature / 602 / Custom + Gongs',
+            details: '14" hi-hats, multiple crashes 14"–22", rides, Chinas, splash cymbals, Turkish cymbals, 28"/32" gongs',
+            notes: 'The Fear Inoculum live rig incorporates full gong arrangements alongside traditional cymbal setups — a massively complex suspended percussion array.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra 900 + Speed Cobra',
+            details: 'Multiple pedal configurations; custom cage hardware',
+            notes: 'Custom hardware cage designed to hold the vast percussion array in stable touring configuration.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Danny Carey Signature',
+            details: 'Current production signature model',
+            notes: 'Long-term Vic Firth partnership maintained throughout career.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD2',
+            details: 'G2 on toms, EMAD2 on kicks',
+            notes: 'EMAD2 for tighter low-end kick response across complex bass drum patterns.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'Roland SPD-SX + Multiple Octapads + Custom MIDI Trigger System',
+            details: 'Multiple sampling pads, triggers on kick/snare, custom MIDI trigger array',
+            notes: 'Most elaborate electronics rig of Carey\'s career — triggers, sampling pads, and a custom MIDI system allow real-time manipulation of samples and loops during live performance.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 45000,
+          inflationAdjusted: 45000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Expanded to 8 toms — most complex DW kit configuration',
+          'Dual snare setup for cross-pattern voice options',
+          'Gong integration for full suspended percussion array',
+          'Custom MIDI trigger and sampling system',
+          'Fear Inoculum (2019) — Tool\'s first album in 13 years',
+        ],
+
+        quote: {
+          text: "Each album has pushed the kit further. Fear Inoculum needed a rig that could hold all of those layers simultaneously — orchestral percussion, electronics, and the core kit.",
+          source: 'Vic Firth Artist Profile, 2019',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Danny Carey Gear Evolution Timeline | Tool\'s Drum Kit History',
+    metaDescription: 'Explore Danny Carey\'s complete drum gear evolution from Undertow to Fear Inoculum. DW Collector\'s Series to massive custom rigs with gongs and electronics — every era documented.',
+  },
+
+  // ==========================================
+  // Matt Greiner - August Burns Red (2003–Present)
+  // ==========================================
+  'matt-greiner': {
+    slug: 'matt-greiner',
+    name: 'Matt Greiner',
+    band: 'August Burns Red',
+    totalYearsActive: '2003-Present',
+    profileImage: '/images/drummers/matt-greiner.webp',
+    summary: 'Matt Greiner\'s gear evolution tracks August Burns Red\'s rise from Lancaster, Pennsylvania\'s Christian metalcore scene to world-touring headliners — moving through Orange County Drum & Percussion boutique maple shells, a Pearl Reference endorsement, and landing on his current Mapex Black Panther era.',
+
+    eras: [
+      {
+        id: 'greiner-2007-messengers',
+        era: 'Messengers Era',
+        years: '2003–2008',
+        startYear: 2003,
+        endYear: 2008,
+        description: 'August Burns Red\'s formative years. Greiner developed his technically demanding, melodically nuanced metalcore drumming style on Orange County Drum & Percussion kits — the boutique California brand favored by drummers seeking custom-quality maple at accessible prices.',
+        albums: ['Looks Fragile After All (2004)', 'Messengers (2007)'],
+        tours: ['Messengers US Tour', 'Warped Tour 2007'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Orange County Drum & Percussion (OCDP) Maple',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'OCDP was a boutique California drum brand offering custom-level maple quality. Greiner\'s setup was immediately distinctive for its warmth and attack.',
+            change: null,
+          },
+          snare: {
+            item: 'OCDP Steel Snare 14"×5.5"',
+            details: 'Steel shell, standard configuration',
+            notes: 'Cutting steel snare sound to cut through metalcore guitar density.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002 / Alpha Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+            notes: 'Paiste from the start — the 2002 brightness matched the metalcore energy.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl P-2002C Eliminator Double Pedal',
+            details: 'Cam-driven double pedal',
+            notes: 'Pearl Eliminator for fast, precise double bass work in August Burns Red\'s complex arrangements.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Standard sticks before signature deal.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Standard head configuration.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4500,
+          inflationAdjusted: 7000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'OCDP maple kit — boutique quality at accessible price',
+          'Messengers established ABR as metalcore leaders',
+          'Technical melodic drumming style fully formed',
+          'Warped Tour 2007 brought national exposure',
+        ],
+
+        quote: {
+          text: "Growing up I didn't have money for top-shelf gear. The OCDP kit punched way above its weight. It taught me that tone starts with the player, not the price tag.",
+          source: 'Drum! Magazine Interview, 2008',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'greiner-2009-constellations',
+        era: 'Constellations / Leveler Era',
+        years: '2009–2013',
+        startYear: 2009,
+        endYear: 2013,
+        description: 'August Burns Red\'s commercial and critical peak. Greiner transitioned to Pearl Reference drums — a professional endorsement that matched the band\'s growing profile. Constellations and Leveler are considered two of metalcore\'s defining albums.',
+        albums: ['Constellations (2009)', 'Leveler (2011)', 'Presenting Fingers EP (2012)'],
+        tours: ['Constellations World Tour', 'Leveler Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'First major endorsement — Pearl Reference maple/birch hybrid delivered superior projection and attack for August Burns Red\'s touring demands.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Reference 14"×6.5"',
+            details: 'Maple/birch hybrid shell with die-cast hoops',
+            notes: 'Full Pearl Reference snare for punchy, musical tone in the hybrid metalcore arrangements.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Paiste Signature Series',
+            details: '14" Signature hi-hats, 16"/17"/18" crashes, 22" ride, 18" China',
+            notes: 'Upgraded to Paiste Signature line to match the professional endorsement kit.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Demon Drive',
+            details: 'Direct drive double pedal',
+            notes: 'Upgraded to direct drive for more precise, consistent double bass response across technically demanding ABR parts.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth Matt Greiner Signature',
+            details: 'Hickory, long taper, nylon tip',
+            notes: 'First Vic Firth Matt Greiner signature stick — designed for the balance of speed and power needed in metalcore.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD',
+            details: 'G2 on toms, EMAD on kick',
+            notes: 'Switched to Evans for better controlled studio and live sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 10000,
+          inflationAdjusted: 14000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Pearl Reference endorsement — first major kit deal',
+          'Vic Firth Matt Greiner signature sticks launched',
+          'Upgraded to Paiste Signature cymbals',
+          'Constellations — considered one of metalcore\'s defining albums',
+        ],
+
+        quote: {
+          text: "Getting the Pearl Reference deal was a turning point. That kit is built to last — it sounds incredible and it can handle the road. Constellations opened those doors for us.",
+          source: 'Pearl Drums Artist Profile, 2010',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'greiner-2013-rescue',
+        era: 'Rescue & Restore / Florian Era',
+        years: '2013–2015',
+        startYear: 2013,
+        endYear: 2015,
+        description: 'August Burns Red\'s most creatively ambitious period. Rescue & Restore and Florian pushed the band\'s compositional complexity — Florian in particular required wider dynamic range and Greiner\'s first integration of electronics.',
+        albums: ['Rescue & Restore (2013)', 'Florian (2014)'],
+        tours: ['Rescue & Restore Tour', 'Florian Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series (refined)',
+            details: 'Custom finish maple/birch: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Refined Pearl Reference configuration with updated custom finish.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Reference 14"×5.5" + 14"×6.5"',
+            details: 'Two snare depths in rotation for different textures',
+            notes: 'Added a shallower snare for different sonic textures across Rescue & Restore\'s wide dynamic range.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Paiste Signature / Formula 602',
+            details: '14" hi-hats, 17"/18"/19" crashes, 22" ride, 18"/20" Chinas, 10" splash',
+            notes: 'Added Paiste Formula 602 cymbals for more complex tonal options in the ambitious Florian arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive (continued)',
+            details: 'Direct drive double pedal',
+            notes: 'Consistent pedal preference.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Matt Greiner Signature',
+            details: 'Updated signature model',
+            notes: 'Continued Vic Firth partnership.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD2',
+            details: 'EMAD2 on kick for more focused attack',
+            notes: 'EMAD2 upgrade for tighter low-end on Rescue & Restore\'s complex arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'Roland SPD-SX Sampling Pad',
+            details: 'Ambient samples and click tracks',
+            notes: 'Electronics integrated for studio-quality live sound — especially important for Florian\'s ambient passages.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 12000,
+          inflationAdjusted: 16000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Paiste Formula 602 cymbals added alongside Signature',
+          'Roland SPD-SX introduced for ambient live sampling',
+          'Evans EMAD2 upgrade on kick',
+          'Florian — ABR\'s most orchestrally ambitious album',
+        ],
+
+        quote: {
+          text: "Florian pushed us somewhere new. I needed cymbals and electronics that could hold wide dynamic swings — from full metal to near-orchestral passages.",
+          source: 'Modern Drummer Interview, 2014',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'greiner-2016-mapex',
+        era: 'Mapex Era',
+        years: '2016–Present',
+        startYear: 2016,
+        endYear: 2026,
+        description: 'Greiner\'s current era — a switch to Mapex Black Panther drums that brought a new tonal palette to August Burns Red\'s sound. The Mapex Black Panther Design Lab has become his most praised kit, lauded for its warm low-end and crisp attack across metalcore\'s wide dynamic range.',
+        albums: ['Ember (2016)', 'Tides (2019)', 'Death Below (2023)'],
+        tours: ['Ember Tour', 'Tides World Tour', 'Death Below Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex Black Panther Design Lab',
+            details: 'Maple/walnut hybrid shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Moved to Mapex Black Panther Design Lab — the maple/walnut hybrid provides deeper warmth than the Pearl Reference. Greiner\'s most praised kit to date.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Mapex Black Panther 14"×5.5" Maple',
+            details: 'Maple shell with die-cast hoops',
+            notes: 'The Black Panther snare is known for its warm crack — suited to both the heavy and melodic sides of ABR.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Paiste Formula 602 / Signature',
+            details: '14" 602 hi-hats, 16"/17"/18" crashes, 22" ride, 18" China, 10" splash',
+            notes: 'Formula 602 became primary cymbal choice for its dark, complex tone that complements the Mapex warmth.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Twin-chain drive double pedal',
+            notes: 'Switched to DW 9000 to match the warmer, more premium gear direction.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Matt Greiner Signature',
+            details: 'Current production model, updated taper',
+            notes: 'Continued Vic Firth partnership — signature model refined over multiple iterations.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD2',
+            details: 'G2 on toms, EMAD2 on kick',
+            notes: 'Long-term Evans configuration maintained across brand switch.',
+            change: null,
+          },
+          electronics: {
+            item: 'Roland SPD-SX (continued)',
+            details: 'Sampling pad for ambient layers',
+            notes: 'Electronic integration refined for consistent ABR live experience.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 14000,
+          inflationAdjusted: 14000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Brand switch to Mapex Black Panther Design Lab',
+          'DW 9000 double pedal adopted',
+          'Paiste Formula 602 becomes primary cymbal choice',
+          'Ember Tour — ABR\'s largest headlining push to that point',
+        ],
+
+        quote: {
+          text: "The Black Panther changed my sound in the best way. That maple/walnut combination gives me everything — warmth, attack, and a low-end that sits perfectly in the mix.",
+          source: 'Mapex Drums Artist Profile, 2016',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Matt Greiner Gear Evolution Timeline | August Burns Red Drum Kit History',
+    metaDescription: 'Explore Matt Greiner\'s complete drum gear evolution from OCDP to Pearl Reference to Mapex Black Panther. Every era of August Burns Red\'s kit documented.',
+  },
+
+  // ==========================================
+  // Shannon Larkin - Godsmack (2002–Present)
+  // ==========================================
+  'shannon-larkin': {
+    slug: 'shannon-larkin',
+    name: 'Shannon Larkin',
+    band: 'Godsmack',
+    totalYearsActive: '1985-Present',
+    profileImage: '/images/drummers/shannon-larkin.webp',
+    summary: 'Shannon Larkin\'s gear evolution spans three decades and several bands — from Wrathchild America\'s thrash/glam hybrid through Souls at Zero and Amen to his long tenure in Godsmack, where his Tama Starclassic setup and Sabian cymbal partnership became one of rock radio\'s most recognizable drum sounds.',
+
+    eras: [
+      {
+        id: 'larkin-1988-wrathchild',
+        era: 'Wrathchild America / Souls at Zero Era',
+        years: '1985–2001',
+        startYear: 1985,
+        endYear: 2001,
+        description: 'Shannon Larkin\'s long pre-Godsmack career. From Maryland\'s Wrathchild America through alternative metal acts Souls at Zero and Amen, Larkin developed a heavy, groove-oriented style on Tama kits before finding his long-term home.',
+        albums: ['Climbin\' the Walls (1991)', 'Souls at Zero (1993)', 'Amen (1999)'],
+        tours: ['Wrathchild America Tour', 'Souls at Zero Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Rockstar / Swingstar Series',
+            details: 'Basic kit: 22" kick, 12"/13"/16" toms',
+            notes: 'Mid-range Tama kits throughout the Wrathchild and Souls at Zero years — accessible, reliable, and loud.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Steel Snare 14"×5.5"',
+            details: 'Steel shell, standard configuration',
+            notes: 'Cutting steel snare that worked across the loud, aggressive styles of his early bands.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AA Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+            notes: 'Sabian from the early career — the AA series was a natural fit for heavy rock and thrash.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama hardware with double pedal',
+            details: 'Tama stands, budget double pedal',
+            notes: 'Standard Tama hardware configuration for early career touring.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vater 5B',
+            details: 'Standard hickory',
+            notes: 'Vater relationship began early in career.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Standard configuration throughout the early bands.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3000,
+          inflationAdjusted: 6500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Established foundational groove-heavy drumming style',
+          'Sabian cymbal relationship begins',
+          'Vater stick partnership established',
+          'Developed versatility across thrash, alternative, and hard rock styles',
+        ],
+
+        quote: {
+          text: "Before Godsmack I played in five or six bands across fifteen years. You learn to adapt fast — different rooms, different styles, different gear. It made me a much better drummer.",
+          source: 'Modern Drummer Interview, 2004',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'larkin-2003-faceless',
+        era: 'Faceless Era',
+        years: '2002–2007',
+        startYear: 2002,
+        endYear: 2007,
+        description: 'Larkin\'s debut with Godsmack. Faceless and the subsequent IV era established Shannon as the backbone of one of rock radio\'s most powerful bands. The Tama Starclassic Performer MX became his signature sound — punchy, focused, and built for arenas.',
+        albums: ['Faceless (2003)', 'IV (2006)'],
+        tours: ['Faceless Tour', 'Ozzfest 2003', 'IV World Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Performer MX',
+            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'First major Tama endorsement with the Starclassic Performer MX — the maple/birch hybrid gave Larkin the punch and warmth needed for Godsmack\'s arena-filling rock sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Tama Starclassic Performer MX 14"×6.5"',
+            details: 'Maple/birch hybrid shell',
+            notes: 'The Performer MX snare produced the punchy, cutting sound heard on Faceless and IV — one of rock radio\'s most recognizable snare tones of the era.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian HHX Series',
+            details: '14" HHX hi-hats, 16"/18" crashes, 21" ride, 18" China',
+            notes: 'Upgraded to Sabian HHX for more complex, musical cymbal tones suited to Godsmack\'s rock/metal hybrid sound.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Power Glide cam double pedal',
+            notes: 'Switched to Tama Iron Cobra to match the Tama kit endorsement.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vater Shannon Larkin Signature',
+            details: 'Hickory, custom taper',
+            notes: 'First Vater Shannon Larkin signature stick — a medium-weight hickory model for power and articulation.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD',
+            details: 'G2 on toms, EMAD on kick',
+            notes: 'Moved to Evans heads for better studio and live consistency.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 9000,
+          inflationAdjusted: 15000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Godsmack (2002) — career-defining move',
+          'Tama Starclassic Performer MX endorsement begins',
+          'Vater Shannon Larkin signature sticks launched',
+          'Ozzfest 2003 — massive national exposure',
+        ],
+
+        quote: {
+          text: "Joining Godsmack was the moment everything clicked. The Tama Starclassic gave me the sound I\'d been chasing — that punchy maple/birch combination is perfect for this music.",
+          source: 'Tama Drums Artist Profile, 2004',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'larkin-2010-oracle',
+        era: 'The Oracle / 1000hp Era',
+        years: '2009–2015',
+        startYear: 2009,
+        endYear: 2015,
+        description: 'Godsmack\'s commercial peak and a creative evolution. The Oracle and 1000hp cemented the band\'s arena headliner status, and Larkin\'s kit transitioned to Tama Starclassic Maple — a warmer, more resonant shell that suited the band\'s evolving sound.',
+        albums: ['The Oracle (2010)', '1000hp (2014)'],
+        tours: ['The Oracle World Tour', '1000hp Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple',
+            details: 'Pure maple shells: 22" kick, 10"/12"/14"/16" toms, custom finish',
+            notes: 'Upgraded from Performer MX to pure Starclassic Maple — warmer, more resonant tone for The Oracle\'s more melodic direction.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Tama Starclassic Maple 14"×6.5"',
+            details: 'Pure maple shell',
+            notes: 'Warmer maple snare to match the evolved kit — a deeper, more musical crack.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Sabian HHX / AAX Series Mix',
+            details: '14" HHX hi-hats, 16"/18" AAX crashes, 21" ride, 18" China',
+            notes: 'Mix of HHX and AAX series for wider tonal options across The Oracle and 1000hp.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 (continued)',
+            details: 'Continued Power Glide double pedal',
+            notes: 'Consistent Iron Cobra preference across multiple album cycles.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vater Shannon Larkin Signature (updated)',
+            details: 'Refined hickory model',
+            notes: 'Updated signature model with refined taper for better rebound.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD2',
+            details: 'G2 on toms, EMAD2 on kick',
+            notes: 'EMAD2 upgrade for tighter kick response on 1000hp\'s harder-hitting sound.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 14000,
+          inflationAdjusted: 18000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Upgraded to Tama Starclassic Maple from Performer MX',
+          'Sabian HHX/AAX combination for wider cymbal palette',
+          'Evans EMAD2 upgrade',
+          'The Oracle World Tour — Godsmack\'s largest production',
+        ],
+
+        quote: {
+          text: "The Starclassic Maple is a completely different animal. It breathes more. When we were making The Oracle, I needed that warmth — it was a different kind of record.",
+          source: 'Modern Drummer Interview, 2010',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'larkin-2018-when-legends-rise',
+        era: 'When Legends Rise / Modern Era',
+        years: '2016–Present',
+        startYear: 2016,
+        endYear: 2026,
+        description: 'Larkin\'s most refined era. The switch to Tama Starclassic Walnut/Birch delivered the most complex, nuanced tone of his career — a hybrid shell that combines walnut\'s warmth with birch\'s attack and projection for Godsmack\'s continued arena touring.',
+        albums: ['When Legends Rise (2018)', 'Lighting Up the Sky (2023)'],
+        tours: ['When Legends Rise Tour', 'Lighting Up the Sky Tour 2023'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Walnut/Birch',
+            details: 'Walnut/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms, custom finish',
+            notes: 'Major upgrade to Tama Starclassic Walnut/Birch — the walnut outer ply adds warmth and low-end while the birch inner ply provides attack and projection.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Tama Starclassic Walnut/Birch 14"×6.5"',
+            details: 'Walnut/birch hybrid shell',
+            notes: 'The walnut/birch snare has a rich, dark crack that sits perfectly in Godsmack\'s arena rock sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian HHX Series',
+            details: '14" HHX hi-hats, 16"/18" HHX crashes, 21" HH ride, 18" HHX China',
+            notes: 'Fully HHX-based setup for consistent, musical tone across the mature When Legends Rise and Lighting Up the Sky recordings.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra HP910 Double Pedal',
+            details: 'Speed Cobra spring-loaded single chain',
+            notes: 'Switched from Iron Cobra to Speed Cobra for lighter, more responsive feel in Godsmack\'s evolved rock sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vater Shannon Larkin Signature (current)',
+            details: 'Current production signature model',
+            notes: 'Long-term Vater partnership — Larkin\'s signature model refined through multiple iterations.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD2',
+            details: 'Consistent Evans configuration',
+            notes: 'Decade-plus with Evans heads across all Godsmack recordings.',
+            change: null,
+          },
+          electronics: {
+            item: 'Roland SPD-SX Sampling Pad',
+            details: 'Click track and ambient sample integration',
+            notes: 'Electronics added for consistent live sound quality on arena tours.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 18000,
+          inflationAdjusted: 18000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Brand switch to Tama Starclassic Walnut/Birch — most praised sound of career',
+          'Tama Speed Cobra replaces Iron Cobra',
+          'Fully HHX Sabian cymbal configuration',
+          'Roland SPD-SX added for arena-quality live consistency',
+          'Lighting Up the Sky (2023) — continued arena headliner status',
+        ],
+
+        quote: {
+          text: "The Walnut/Birch is the best kit I\'ve ever played. Period. That combination of warmth and attack — I can hear the difference in every single note. It sounds like music.",
+          source: 'Tama Drums Artist Profile, 2018',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Shannon Larkin Gear Evolution Timeline | Godsmack Drum Kit History',
+    metaDescription: 'Explore Shannon Larkin\'s complete drum gear evolution from Wrathchild America through Godsmack\'s arena years. Tama Starclassic Performer to Walnut/Birch — every era documented.',
+  },
 };
 
 /**

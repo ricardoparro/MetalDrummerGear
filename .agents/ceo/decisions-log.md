@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-26 00:44 UTC*
 
 ---
+## 2026-06-26 22:30 — 4 zombies closed, 7 proposals triaged (3 promoted 5★ — CoB-arc/Jaska, Cryptopsy/Flo, Lick-17/Hoglan+Lombardo+Menza) (34→33)
+
+### Context (≤3 lines)
+Late-evening run. Metrics fresh (2026-06-26 22:23 UTC): 117 users / 133 sessions / 2,808 impr / 74 clicks / 2.64% CTR / pos 8.5. 4 zombie issues (#2827/#2829/#2830/#2838) identified from PRs merged 20:25–21:10Z (post-19:30 entry). 7 new seo-proposals (#2842–#2848). Backlog entered at 34.
+
+### Actions taken
+- **Closed 4 zombie issues** (PRs merged 2026-06-26T20:25–21:10Z, post-19:30 entry): #2827 (→PR#2849+#2853 CoB trio Jaska), #2829 (→PR#2850+#2854 GearEvo-4 Mario+Vinnie+Paul), #2830 (→PR#2851+#2855 Comparison-25 Flo+Brann+Jay), #2838 (→PR#2852 broken YouTube ×5). Backlog: 34→30.
+- **Triaged 7 new seo-proposals (#2842–#2848):**
+  - **#2842** (CoB Relentless Reckless Forever + I Worship Chaos, Jaska, 2011+2015) — **5★ PROMOTED**: Jaska active GSC (pos 4.8 / 5 impr / 40% CTR / 2 clicks); CoB trio (#2827) just shipped — these 2 albums complete the full CoB arc; final two CoB albums = strong LLM coherence. No duplicate. Backlog: 30→31.
+  - **#2845** (Cryptopsy Once Was Not + The Unspoken King, Flo Mounier, 2005+2008) — **5★ PROMOTED**: Flo #1 CTR entity this week (42.86% on "flo mounier drum kit"); Comparison-25 Flo vs Haake just shipped — deeper Cryptopsy cluster naturally follows; None So Vile already live = arc context. No duplicate. Backlog: 31→32.
+  - **#2846** (Lick pages batch 17 — Nick Menza + Gene Hoglan + Dave Lombardo) — **5★ PROMOTED**: Gene Hoglan 66% CTR / 2 clicks (top CTR efficiency entity); Lombardo active arc (multiple Slayer articles shipped); Menza = builds signal ahead of #2716 (Youthanasia stale). Proven lick format (Igor licks = 2 of top-10 GA4 pages). No duplicate. Backlog: 32→33.
+  - **#2847** (Comparison batch 26 — Hoglan/Lombardo + Inferno/Flo + Martin Lopez/Gavin Harrison) — **4★ HOLD**: Hoglan+Lombardo+Inferno+Flo = strong anchors; Martin Lopez and Gavin Harrison have no individual GSC signal yet. 25-44 zone; promote when backlog <25.
+  - **#2843** (Behemoth Opvs Contra Natvram, Inferno, 2022) — **4★ HOLD**: closes Behemoth arc to present; Inferno building signal; no active Behemoth album-query GSC data. 25-44 zone.
+  - **#2844** (CC Bloodthirst + The Wretched Spawn, Mazurkiewicz, 1999+2004) — **3★ HOLD**: Mazurkiewicz GSC noise-band (3 impr). Park.
+  - **#2848** (SoundLike batch 27 — Bill Ward + Martin Lopez + Derek Roddy) — **3★ HOLD**: all 3 entities below GSC signal threshold. Park.
+- **Stale #2715–#2718**: now ~19h post re-file (03:15 UTC), 0 Watcher activity. 30h threshold = 09:15 UTC 2026-06-27. No escalation this run — threshold not reached.
+- **#2710 (72 Seasons)**: still blocked on #2718 (Hardwired). No change.
+- **L1/L2/L3**: no fires. L1 first-run baseline (next actionable 2026-07-01). L2 #2211 open (52/65 uncited). L3 baseline (1.4% indexed share, API cap — no quality crisis).
+
+### State delta
+- **Zombies closed (4):** #2827, #2829, #2830, #2838
+- **Promoted (3):** #2842 (CoB arc / Jaska 5★), #2845 (Cryptopsy / Flo 5★), #2846 (Lick batch 17 / Hoglan+Lombardo+Menza 5★)
+- **Backlog: 34→30 (zombies)→33 (promotions)**
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (3 promoted 5★, 2 held 4★, 2 held 3★). ✅ Zombies: 4 closed. ✅ L1/L2/L3: no fires. ✅ Stale #2715–#2718: watching (30h threshold at 09:15 UTC 2026-06-27). ✅ Decisions logged.
+
+### Next Run (2026-06-27 07:00 UTC)
+1. **Stale escalation** — #2715–#2718 at 28h post re-file (~09:15 threshold); if still 0 Watcher activity, escalate all 4 to `human-founder` immediately.
+2. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships via PR.
+3. **Zombie sweep** — overnight merges likely; close before counting.
+4. **4★ queue** (promote when backlog <25): #2847 (Comparison batch 26) → #2843 (Behemoth OCN/Inferno) → then remaining 4★ holds.
+
+---
 ## 2026-06-26 19:30 — 3 zombies closed, 7 proposals triaged (3 promoted 5★ — CoB/Jaska, GearEvo-4/Mario, Comparison-25/Flo+Brann), broken-video #2838 noted (31→34)
 
 ### Context (≤3 lines)

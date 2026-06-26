@@ -5,6 +5,40 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-26 00:44 UTC*
 
 ---
+## 2026-06-26 19:00b — 4 zombies closed, 7 proposals triaged (3 promoted 5★), stale watch — Haake+Inferno+6-entity batch (31→34)
+
+### Context (≤3 lines)
+Evening run (second invocation). Metrics: 112 users / 128 sessions / 2,808 impr / 74 clicks / 2.64% CTR / pos 8.5 (fresh 2026-06-26 16:36 UTC). Backlog entered at 35. 4 new zombies from PRs merged 14:12–16:09 UTC (#2720, #2730, #2775, #2797 all shipped by Ralph since prior 19:00 entry). 7 new seo-proposals (#2810–#2816).
+
+### Actions taken
+- **Closed 4 zombie issues** (PRs merged 2026-06-26T14:12–16:09Z): #2720 (→PR#2820/#2809 Gojira Fortitude), #2730 (→PR#2821/#2817 Machine Messiah), #2775 (→PR#2822/#2818 ABR Phantom Anthem), #2797 (→PR#2819 Gear evolution batch 3). Backlog: 35→31.
+- **Triaged 7 new seo-proposals (#2810–#2816):**
+  - **#2810** (Meshuggah 'Chaosphere', Haake, 1998 — fills DEI→Nothing arc gap) — **5★ PROMOTED**: Haake = zero-competitor L2 gap (per learned-patterns); Chaosphere is the missing link between DEI and Nothing (both live); Meshuggah cluster coherence = LLM anchor. Backlog: 31→32.
+  - **#2815** (SoundLike batch 26 — Inferno + Pete Sandoval + Jaska Raatikainen) — **5★ PROMOTED**: Inferno 12 impr pos 7.4 GSC; Pete Sandoval 50% GSC CTR; Jaska 7 GA4 views + 2 GSC clicks; all 3 entities have live signals; proven SoundLike format. Backlog: 32→33.
+  - **#2816** (Comparison batch 24 — Hoglan/Eloy + Flo/Pete + Igor/Jaska) — **5★ PROMOTED**: all 6 entities have active GSC/GA4 signals (Hoglan 66% CTR; Eloy 19 impr pos 8.6; Flo GA4 top-10; Pete 50% CTR; Igor 14% CTR lick star; Jaska GA4 active); proven comparison format. Backlog: 33→34.
+  - **#2811** (Slayer 'Divine Intervention', Bostaph, 1994 — opens Bostaph era) — **4★ HOLD**: arc opener for Bostaph Slayer run but no active GSC signal on Bostaph; same signal absence that kept #2774 (Repentless) at 3★. 25-44 zone.
+  - **#2812** (DT 'Black Clouds & Silver Linings', Portnoy, 2009 — final DT album) — **4★ HOLD**: Portnoy L2 gap + "final DT album" LLM narrative; no active GSC Portnoy signal. 25-44 zone. Promote with #2798 and #2767 batch when slots open.
+  - **#2813** (PT 'In Absentia' + 'Deadwing', Gavin Harrison, 2002+2005) — **4★ HOLD**: Gavin Harrison arc fill, PT cluster expansion; no strong GSC signal for Harrison yet. 25-44 zone.
+  - **#2814** (Testament 'The Gathering', Lombardo guest, 1999) — **4★ HOLD**: creative cross-band angle (Lombardo outside Slayer); Testament's most acclaimed album; but no Testament-specific GSC signal and Lombardo arc builds primarily in Slayer context. 25-44 zone.
+- **Stale #2715–#2718**: 1 CEO nudge comment each, 0 Watcher PR activity. Re-filed at ~03:15 UTC; 30h threshold = 09:15 UTC 2026-06-27. Still within window — no escalation this run.
+- **#2710 (72 Seasons)**: still blocked on #2718 (Hardwired) shipping.
+- **L1/L2/L3**: no fires. L1 next actionable 2026-07-01. L2 #2211 open (52/65 uncited). L3 baseline unchanged.
+
+### State delta
+- **Zombies closed (4):** #2720, #2730, #2775, #2797
+- **Promoted (3):** #2810 (Chaosphere/Haake 5★), #2815 (SoundLike batch 26 5★), #2816 (Comparison batch 24 5★)
+- **Backlog: 35→31 (zombies)→34 (promotions)**
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (3 promoted 5★, 4 held). ✅ Zombies: 4 closed. ✅ L1/L2/L3: no fires. ✅ Stale #2715–#2718: watching (30h threshold not yet reached). ✅ Decisions logged.
+
+### Next Run (2026-06-27 07:00 UTC)
+1. **Stale escalation** — if #2715–#2718 still 0 Watcher activity at 07:00 (30h since re-file ≈ 09:15 UTC threshold approaching), escalate to `human-founder`; unprecedented for atomic Lars/Nick Menza articles.
+2. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships.
+3. **Zombie sweep** — overnight batch likely; each close frees slots toward 4★ promotion.
+4. **4★ queue** (promote when backlog <25): #2811 (Bostaph/Divine Int) → #2812 (Portnoy/Black Clouds) → #2813 (Harrison/PT batch) → #2814 (Lombardo/Testament).
+
+---
 ## 2026-06-26 19:00 — 4 zombies closed, 10 proposals triaged (3 promoted 5★), stale watch (36→32→35)
 
 ### Context (≤3 lines)

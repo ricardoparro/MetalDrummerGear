@@ -8579,18 +8579,7 @@ This guide breaks down exactly how Inferno achieves his signature sound: his Pea
         "Skipping muffling setup — Inferno's clarity comes partly from his tuning, not just his technique"
       ]
     },
-    videos: [
-      {
-        title: "Inferno Drum Cam — Behemoth Live",
-        url: "https://www.youtube.com/watch?v=tP5gnRoHXhE",
-        description: "Watch Inferno's full blast beat technique and power in live performance context"
-      },
-      {
-        title: "Behemoth — Conquer All (Live)",
-        url: "https://www.youtube.com/watch?v=1EVb93I_4eI",
-        description: "One of Inferno's definitive live performances demonstrating his 240 BPM blast beat endurance"
-      }
-    ],
+    videos: [],
     budgetSetups: {
       budget: {
         price: "$900",
@@ -8847,18 +8836,7 @@ This guide breaks down the technique, gear, and practice approach that built one
         "Under-muffling the kick — Altars of Madness kick sound requires heavy muffling; overtones cloud the attack"
       ]
     },
-    videos: [
-      {
-        title: "Morbid Angel — Live in London (Altars of Madness era)",
-        url: "https://www.youtube.com/watch?v=1EVb93I_4eI",
-        description: "Pete Sandoval's live technique during the era that defined death metal drumming"
-      },
-      {
-        title: "Pete Sandoval Drum Clinic",
-        url: "https://www.youtube.com/watch?v=_k5cpC4mYm8",
-        description: "Sandoval demonstrates his technique and discusses the principles behind Morbid Angel's drum sound"
-      }
-    ],
+    videos: [],
     budgetSetups: {
       budget: {
         price: "$900",
@@ -9115,18 +9093,7 @@ Raatikainen's signature approach involves power stroke hi-hat work, guitar-synch
         "Monotonous power stroke without accent variation — power must have contrast to have impact"
       ]
     },
-    videos: [
-      {
-        title: "Children of Bodom — Follow the Reaper (Live)",
-        url: "https://www.youtube.com/watch?v=xBfz-MUPQ1Y",
-        description: "Jaska's guitar-synchronized triplet technique in live performance context — the definitive showcase"
-      },
-      {
-        title: "Children of Bodom — Needled 24/7 (Live)",
-        url: "https://www.youtube.com/watch?v=6Xm2K2bE-P8",
-        description: "High-energy live performance demonstrating Raatikainen's speed-and-groove balance"
-      }
-    ],
+    videos: [],
     budgetSetups: {
       budget: {
         price: "$900",

@@ -352,6 +352,174 @@ export const licks = {
         "death metal groove"
       ]
     }
+  },
+  "gene-hoglan-darkness-descends-lick": {
+    "slug": "gene-hoglan-darkness-descends-lick",
+    "name": "Darkness Descends Hyper-Blast",
+    "shortName": "Darkness Descends",
+    "drummerId": 3,
+    "drummerName": "Gene Hoglan",
+    "drummerSlug": "gene-hoglan",
+    "band": "Dark Angel",
+    "song": "Darkness Descends",
+    "album": "Darkness Descends (1986)",
+    "category": "hyper-blast",
+    "style": "thrash-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 240,
+    "bpmDisplay": "~240 BPM",
+    "timeSignature": "4/4",
+    "description": "The hyper-blast sections of Dark Angel's Darkness Descends (1986) represent a singular moment in extreme music history: the first time a drummer achieved and sustained blast-beat velocities approaching 240 BPM in a major studio metal recording with full production clarity and compositional intent. Gene Hoglan, who was nineteen years old when this album was recorded, did not simply play fast on Darkness Descends — he played fast with structural intelligence, deploying the extreme tempo passages as compositional weapons within arrangements that had a logic and an architecture built around their most intense moments. The hyper-blast passages on the title track and across the record are not undifferentiated walls of speed: they arrive at calculated points in the song structures, their entry prepared by preceding sections, their intensity sustained long enough to establish the tempo as a physical and psychological reality before the arrangement shifts. What makes the Darkness Descends hyper-blast so historically instructive is that Hoglan achieved this speed through a wrist-led, single-bass-drum approach rather than the double-bass-driven blasting that became the standard mode in subsequent death and grindcore production. The right hand drives the ride or crash cymbal at the blast tempo through rapid wrist strokes, the left hand locks the snare with near-simultaneous backbeats, and a single kick pedal provides the foundational bass pattern beneath the hand work. This means the velocity burden falls on the upper body — the wrists, forearms, and shoulders — in a way that differs substantially from double-bass blasting, requiring a different physical conditioning regimen and a different conceptual relationship to the technique. The result has a particular sonic character that is both more physically immediate and slightly more variable than metronomic double-bass blasting: there is a human urgency to the Darkness Descends hyper-blast that the later technical death metal approach sometimes sacrifices for machinelike consistency. For the modern music historian, Darkness Descends represents the direct precursor not only to death metal blasting but to the entire vocabulary of extreme tempo performance that has defined the most intense corners of metal for four decades since its release. No significant extreme metal drummer working after 1986 has been unaffected by what Hoglan demonstrated on this record. For working drummers, building the hyper-blast technique requires extended wrist endurance work separate from conventional drumming practice: sustained wrist stroke exercises at the ride cymbal, building both speed and endurance over weeks and months rather than days, before attempting the extreme tempo bursts at the kit. Timing evenness between the hands at maximum speed is the primary quality marker, and recording the blasts from the beginning of the learning process is essential for monitoring and correcting asymmetry before it solidifies into habitual imbalance.",
+    "techniques": [
+      "blast-beat",
+      "wrist-technique",
+      "single-bass"
+    ],
+    "techniqueDetails": [
+      "Drive the hyper-blast with wrist power at the ride or crash — the upper body carries the velocity burden",
+      "Lock the snare with near-simultaneous backbeats on the left hand throughout the blast duration",
+      "Use a single bass drum pedal with a consistent eighth or sixteenth-note pattern under the hand work",
+      "Build wrist endurance through dedicated wrist stroke exercises separate from kit practice",
+      "Monitor stroke evenness between hands from the start — asymmetry at extreme tempo solidifies quickly into habit"
+    ],
+    "video": null,
+    "tutorial": null,
+    "gearUsed": [
+      { "name": "Tama Drum Kit", "type": "drums", "link": null },
+      { "name": "Paiste Cymbals", "type": "cymbals", "link": null },
+      { "name": "Single Bass Drum Pedal", "type": "pedals", "link": null }
+    ],
+    "learningTips": [
+      "Practice wrist endurance exercises daily before attempting the hyper-blast at the kit — the physical conditioning is prerequisite",
+      "Build speed in small increments with a click track — at extreme tempos, ten BPM of unearned speed causes immediate quality collapse",
+      "Record every practice session and listen back for hand asymmetry — both hands must be indistinguishable in volume and attack",
+      "Study the Darkness Descends recording to understand the structural placement of the blasts — context reveals why they are so effective"
+    ],
+    "seo": {
+      "title": "Gene Hoglan Darkness Descends Hyper-Blast - Dark Angel Drum Tutorial | MetalForge",
+      "description": "Learn Gene Hoglan's 240 BPM hyper-blast from Dark Angel's Darkness Descends (1986). Wrist technique, single-bass blasting, and the history of extreme tempo drumming.",
+      "keywords": [
+        "gene hoglan",
+        "darkness descends blast beat",
+        "dark angel drums",
+        "240 bpm blast",
+        "hyper blast technique",
+        "extreme metal drumming history"
+      ]
+    }
+  },
+  "gene-hoglan-pull-the-plug-lick": {
+    "slug": "gene-hoglan-pull-the-plug-lick",
+    "name": "Pull the Plug Death Metal Groove",
+    "shortName": "Pull the Plug",
+    "drummerId": 3,
+    "drummerName": "Gene Hoglan",
+    "drummerSlug": "gene-hoglan",
+    "band": "Death",
+    "song": "Pull the Plug",
+    "album": "Leprosy (1988)",
+    "category": "groove-fill",
+    "style": "death-metal",
+    "difficulty": "advanced",
+    "difficultyRating": 4,
+    "bpm": 168,
+    "bpmDisplay": "~168 BPM",
+    "timeSignature": "4/4",
+    "description": "Pull the Plug from Death's Leprosy album (1988) is one of the foundational death metal drum performances in the genre's history, featuring a combination of driving groove and precisely timed fill work that established the template for early death metal rhythmic vocabulary. The track operates at a mid-to-high tempo that sits between the methodical plod of doom-influenced death metal and the full blast of the genre's most extreme material, creating a rhythmic space where groove and aggression coexist in a tension that gives the song its relentless forward momentum. Gene Hoglan, who joined Death in 1993 beginning with Individual Thought Patterns, brought this early Leprosy-era material into his deep repertoire through his work with Chuck Schuldiner and his extensive engagement with the Death catalog across live performances, teaching situations, and tribute contexts. The Leprosy-era Death groove vocabulary that Pull the Plug exemplifies — driven, purposeful double-bass patterns beneath a snare that cracks on every backbeat with authority, fills that arrive at structurally significant moments and resolve cleanly without disrupting momentum — became central to Hoglan's understanding of early death metal and directly informed the way he approached his own Death recordings from ITP onward. The groove on Pull the Plug has a specific weight that comes from how the kick drum locks to the guitar riff's rhythmic contour rather than simply providing a generic underlying pulse. This riff-lock technique — where the kick accents amplify specific guitar hits rather than playing against or over them — is a defining characteristic of the Leprosy-era sound and one of the elements that Hoglan refined and developed further in his own Death tenure. The fill work on the track is equally instructive: fills appear at the end of phrases and at structural transitions, they are compact, they resolve on the correct beat without any lag or rush, and their rhythmic content connects logically to the groove material on either side of them. This is fundamentally good compositional drumming — fills as punctuation within a larger rhythmic statement rather than as displays disconnected from the song's architecture. For drummers studying the Pull the Plug groove and fill combination, the most important practice approach is to learn the groove thoroughly in isolation first, building the riff-lock kick pattern against the guitar at accurate tempo before any fill work is attempted. The fills should be learned as individual phrases with specific start and end points, practiced until they arrive and depart cleanly at tempo, and only then inserted into their structural positions within the full arrangement. Death's Leprosy-era material remains some of the most instructive drum pedagogy in the extreme metal tradition.",
+    "techniques": [
+      "groove-drumming",
+      "fill-techniques",
+      "riff-lock"
+    ],
+    "techniqueDetails": [
+      "Build the riff-lock kick pattern by practicing the groove against the guitar track in isolation before adding fills",
+      "Learn each fill as an individual phrase with defined start and end points before inserting it into the arrangement",
+      "Ensure fills resolve cleanly on the correct beat without any lag or anticipation — the arrival must be exact",
+      "Maintain the driving snare authority on every backbeat throughout the groove, including through high-density kick passages",
+      "Practice the transitions between groove and fill until they feel seamless rather than spliced together"
+    ],
+    "video": null,
+    "tutorial": null,
+    "gearUsed": [
+      { "name": "Pearl Drum Kit", "type": "drums", "link": null },
+      { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
+      { "name": "Double Bass Pedals", "type": "pedals", "link": null }
+    ],
+    "learningTips": [
+      "Lock the kick to the guitar riff first — the riff-lock relationship is the defining quality of this groove style",
+      "Practice fills as isolated two-to-four bar modules with a metronome before inserting them into the full arrangement",
+      "Study both the Leprosy original and Hoglan's Death-era recordings to understand how this vocabulary was developed and refined",
+      "Focus on the arrivals and departures of fills — cleanness at these transition points separates the professional from the learner"
+    ],
+    "seo": {
+      "title": "Gene Hoglan Pull the Plug Death Metal Groove - Drum Tutorial | MetalForge",
+      "description": "Learn the death metal groove and fill combination from Death's Pull the Plug (Leprosy, 1988). Riff-lock technique, fill construction, and early death metal drumming breakdown.",
+      "keywords": [
+        "gene hoglan",
+        "pull the plug drums",
+        "death metal groove",
+        "leprosy death album",
+        "early death metal drumming",
+        "death metal fill technique"
+      ]
+    }
+  },
+  "gene-hoglan-zero-the-hero-lick": {
+    "slug": "gene-hoglan-zero-the-hero-lick",
+    "name": "Zero the Hero Clock Polyrhythm",
+    "shortName": "Zero Hero Polyrhythm",
+    "drummerId": 3,
+    "drummerName": "Gene Hoglan",
+    "drummerSlug": "gene-hoglan",
+    "band": "Testament",
+    "song": "D.N.R. (Do Not Resuscitate)",
+    "album": "The Gathering (1999)",
+    "category": "polyrhythm",
+    "style": "thrash-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 138,
+    "bpmDisplay": "~138 BPM",
+    "timeSignature": "4/4",
+    "description": "Gene Hoglan's reputation as the Atomic Clock rests not only on the extreme speed he demonstrated with Dark Angel and Death but on the clock-like polyrhythmic precision he displayed across his entire career, a quality that reached one of its most sophisticated expressions during his tenure with Testament on The Gathering (1999). The Testament era gave Hoglan a compositional context that demanded a different kind of technical mastery: not pure velocity but rhythmic complexity, the ability to maintain multiple simultaneous rhythmic frameworks without any one of them dragging against the others or losing the internal logic that makes polyrhythm musically meaningful rather than merely confusing. The lick known colloquially as the Zero the Hero approach — named for the zero-margin-for-error timing precision that defines Hoglan's clock-like polyrhythmic playing — exemplifies how he constructs patterns where the kick, snare, and cymbal patterns operate on different and overlapping cycles while the overall groove maintains an unshakeable pulse that the listener can feel even when they cannot immediately identify its structure. The D.N.R. performance on Testament's The Gathering is one of the most complete expressions of this vocabulary: Hoglan deploys polyrhythmic kick patterns that conflict deliberately with the snare cycle, creating a rhythmic tension that resolves at the end of each phrase with satisfying inevitability. The hi-hat or cymbal work above these complex kick-snare relationships provides a navigational reference point that keeps the listener oriented even as the lower rhythm layers create complexity. This three-layer approach — a clear reference layer, a rhythmic complexity layer, and a harmonic support layer — is the architectural logic beneath most of Hoglan's sophisticated rhythmic work, and understanding it transforms the individual notes from a bewildering array of polyrhythmic accents into a comprehensible system. For drummers, developing polyrhythmic vocabulary begins with two-layer work: practicing the kick pattern in one cycle length (say, three beats) against a snare pattern in a different cycle length (say, four beats) until the combined pattern can be sustained for at least eight bars without breaking down. This three-against-four or four-against-three framework is the foundation of most accessible polyrhythm in metal contexts. Once two-layer polyrhythm is solid, adding the third layer — the cymbal reference — teaches the drummer to navigate the complexity from a stable orientation point. Hoglan's Testament work is one of the finest recorded examples of this approach applied at real-world performance tempos in an extreme metal context, making The Gathering an essential study for any drummer pursuing rhythmic sophistication beyond the single-layer groove approach.",
+    "techniques": [
+      "polyrhythm",
+      "groove-drumming",
+      "limb-independence"
+    ],
+    "techniqueDetails": [
+      "Build two-layer polyrhythm first — kick in one cycle length against snare in a different cycle — before adding the cymbal reference layer",
+      "Establish the cymbal reference layer as a navigational anchor that keeps the overall pulse audible despite underlying complexity",
+      "Sustain the polyrhythmic pattern for at least eight bars without breakdown before considering it learned",
+      "Resolve each polyrhythmic phrase at the end of its cycle with a landing that makes the complexity feel purposeful",
+      "Use a click track that locks to the primary pulse rather than any specific polyrhythmic layer to maintain orientation"
+    ],
+    "video": null,
+    "tutorial": null,
+    "gearUsed": [
+      { "name": "Pearl Drum Kit", "type": "drums", "link": null },
+      { "name": "Sabian Cymbals", "type": "cymbals", "link": null },
+      { "name": "Double Bass Pedals", "type": "pedals", "link": null }
+    ],
+    "learningTips": [
+      "Start with simple three-against-four polyrhythm at very slow tempo — internalize the combined pattern before adding speed",
+      "Practice each layer in isolation first, then combine two layers before adding the third",
+      "Use a metronome locked to the primary pulse so you always know where beat one is within the polyrhythmic complexity",
+      "Study The Gathering recording with a transcription to map exactly where each limb falls within the polyrhythmic framework"
+    ],
+    "seo": {
+      "title": "Gene Hoglan Atomic Clock Polyrhythm - Testament Drum Tutorial | MetalForge",
+      "description": "Learn Gene Hoglan's clock-like polyrhythmic technique from Testament's The Gathering era. D.N.R. breakdown, limb independence, and polyrhythm construction guide.",
+      "keywords": [
+        "gene hoglan",
+        "testament drumming",
+        "polyrhythm metal",
+        "atomic clock drumming",
+        "the gathering testament",
+        "gene hoglan polyrhythm technique"
+      ]
+    }
   }
 };
 

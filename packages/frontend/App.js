@@ -20273,6 +20273,29 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
       ]
     };
     breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
+
+    // FAQPage schema for comparison pages that have structured FAQs (Issue #2725)
+    if (comparison.faqs && comparison.faqs.length > 0) {
+      let faqScript = document.querySelector('script[data-schema="drummer-comparison-faq"]');
+      if (!faqScript) {
+        faqScript = document.createElement('script');
+        faqScript.type = 'application/ld+json';
+        faqScript.setAttribute('data-schema', 'drummer-comparison-faq');
+        document.head.appendChild(faqScript);
+      }
+      faqScript.textContent = JSON.stringify({
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": comparison.faqs.map(faq => ({
+          "@type": "Question",
+          "name": faq.q,
+          "acceptedAnswer": { "@type": "Answer", "text": faq.a }
+        }))
+      });
+    } else {
+      const stale = document.querySelector('script[data-schema="drummer-comparison-faq"]');
+      if (stale) stale.remove();
+    }
   } else {
     const title = 'Drummer vs Drummer Comparisons - Metal Legends Head to Head | MetalForge';
     const description = 'Compare metal drumming legends side by side. Lars Ulrich vs Dave Lombardo, Mario Duplantier vs Tomas Haake, and more.';

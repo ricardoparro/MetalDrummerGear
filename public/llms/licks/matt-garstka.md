@@ -1,12 +1,12 @@
 # Matt Garstka — Signature Drum Licks & Patterns
 
-**Band:** Animals as Leaders | **Genre:** Progressive Metal / Djent | **Lick Count:** 3
+**Band:** Animals as Leaders | **Genre:** Progressive Metal / Djent | **Lick Count:** 5
 
 ---
 
 ## Overview
 
-Matt Garstka is one of Progressive Metal / Djent's most influential drummers, best known for their work with Animals as Leaders. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Matt Garstka" or "Matt Garstka signature drum patterns". Their style spans progressive-metal.
+Matt Garstka is one of Progressive Metal / Djent's most influential drummers, best known for their work with Animals as Leaders. This file covers 5 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Matt Garstka" or "Matt Garstka signature drum patterns". Their style spans progressive-metal.
 
 ## Monomyth Polyrhythmic Groove
 
@@ -76,6 +76,52 @@ Matt Garstka is one of Progressive Metal / Djent's most influential drummers, be
 - Use a metronome that can subdivide so you never lose beat one in the odd bars
 
 **Core Techniques:** [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+
+## Lippincott 7/8 Polyrhythm
+
+**Song:** Lippincott | **Album:** The Joy of Motion (2014) | **BPM:** ~115 BPM | **Technique:** polyrhythmic | **Difficulty:** expert
+
+"Lippincott" is the closing track on Animals as Leaders' 2014 album The Joy of Motion, and Matt Garstka's drum performance on it is one of the most sophisticated examples of applied polyrhythm in the progressive metal canon. The track represents a high-water mark for the band's rhythmic complexity on that record — a piece where the metre is not fixed but shifts through several feel-centres, and Garstka's job is to make those shifts feel intentional and musical rather than arbitrary or disorienting. The centrepiece of the piece is a passage built around a 7/8 polyrhythmic groove: a pattern where the kick and snare articulate a repeating seven-beat figure against the guitar's implied pulse, so the downbeat of the pattern spirals against the underlying feel and resolves only after several complete rotations. This kind of polyrhythm requires you to maintain two simultaneous metric references in your internal clock, following the seven-beat figure in your hands and feet while tracking where the underlying pulse sits. Garstka executes this with precision and ease that belies the difficulty of the concept, and the groove feels completely natural and musical even as the time signatures slip and resolve around it. For drummers, "Lippincott" is the ideal study in 7-against-4 polyrhythm: it demands that you internalise both the seven-beat figure and the four-beat pulse independently, develop the foot-hand independence to sustain them simultaneously, and learn to hear the polyrhythm resolving naturally rather than counting bars of seven against bars of four.
+
+### How to Play
+
+- Internalise the seven-beat pattern independently before combining it with any underlying pulse reference
+- Count the seven-beat figure in one part of your mind while tracking the four-beat pulse in another
+- Play the pattern until the resolution point feels natural — a moment of arrival, not a calculation
+- Keep ghost notes between the polyrhythmic accents to maintain the groove's flow and human feel
+- Practise the transition between the 7/8 polyrhythm and surrounding sections until it is seamless
+
+### Key Elements
+
+- Clap the seven-beat pattern against a steady quarter-note metronome before playing it on the kit
+- Identify the resolution point where the seven-beat and four-beat pulses align and feel it as a moment of arrival
+- Work the hi-hat foot and snare independently on the seven-beat figure at very slow tempo
+- Do not rush to full song tempo — conceptual accuracy matters more than speed early on
+
+**Core Techniques:** [Polyrhythms](https://metalforge.io/technique/polyrhythms), [Odd Time Signatures](https://metalforge.io/technique/odd-time-signatures), [Linear Drumming](https://metalforge.io/technique/linear-drumming)
+
+## Physical Education Snare Density Exercise
+
+**Song:** Physical Education | **Album:** The Joy of Motion (2014) | **BPM:** ~130 BPM | **Technique:** fill techniques | **Difficulty:** expert
+
+"Physical Education" is one of the most rhythmically demanding tracks on Animals as Leaders' 2014 album The Joy of Motion, and Matt Garstka's snare density and fill vocabulary on the track represent a concentrated study in how to maintain physical intensity across a piece that never settles into a comfortable predictable pattern. The key feature of his performance is the snare density exercise approach to fills: rather than playing conventional tom-snare sweeps between sections, he constructs fills from dense, rapidly subdivided snare patterns that function like an independent rhythmic argument overlaid on the beat. These fills move through sixteenth-note and thirty-second-note subdivisions with a fluidity that sounds improvised but is built on a precise internal logic, and the snare becomes a melodic instrument during the fill passages — different accents, different dynamics, and different rhythmic positions create a textured, speech-like quality in the drumming. The physical demands are considerable: Garstka sustains high-density snare patterns across multiple bars, which requires both the wrist control to execute clean individual strokes and the endurance to maintain even dynamics across extended sixteenth-note runs. For drummers, "Physical Education" is one of the most effective pieces in modern progressive metal for developing snare technique: it challenges your ability to maintain consistent dynamics across rapid subdivisions, execute clean thirty-second-note bursts, and keep a musical, reactive relationship with the band even while playing at extreme snare density.
+
+### How to Play
+
+- Construct fills from dense, subdivided snare patterns that function as independent rhythmic arguments
+- Move through sixteenth and thirty-second note subdivisions with even dynamics and consistent stroke weight
+- Use accent variation within the snare pattern to create a melodic, speech-like quality in the fills
+- Navigate the band's odd-time shifts with snare-density patterns that make each transition purposeful
+- Sustain high-density snare patterns across multiple bars by prioritising wrist efficiency over arm movement
+
+### Key Elements
+
+- Practise individual thirty-second-note bursts in isolation before stringing bars of snare density together
+- Record the fills and listen back for dynamic consistency — uneven strokes will be clearly audible
+- Work on wrist endurance exercises such as paradiddles and rolls before the extended dense passages
+- Slow the snare density pattern to 60 BPM and work up gradually — never sacrifice even dynamics for tempo
+
+**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Linear Drumming](https://metalforge.io/technique/linear-drumming), [Dynamic Control](https://metalforge.io/technique/dynamic-control)
 
 ## Teaching Points
 

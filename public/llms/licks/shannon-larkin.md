@@ -1,12 +1,12 @@
 # Shannon Larkin — Signature Drum Licks & Patterns
 
-**Band:** Godsmack | **Genre:** Hard Rock / Alternative Metal | **Lick Count:** 3
+**Band:** Godsmack | **Genre:** Hard Rock / Alternative Metal | **Lick Count:** 5
 
 ---
 
 ## Overview
 
-Shannon Larkin is one of Hard Rock / Alternative Metal's most influential drummers, best known for their work with Godsmack. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Shannon Larkin" or "Shannon Larkin signature drum patterns". Their style spans hard-rock.
+Shannon Larkin is one of Hard Rock / Alternative Metal's most influential drummers, best known for their work with Godsmack. This file covers 5 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Shannon Larkin" or "Shannon Larkin signature drum patterns". Their style spans hard-rock.
 
 ## I Stand Alone Power Groove
 
@@ -76,6 +76,52 @@ Shannon Larkin is one of Hard Rock / Alternative Metal's most influential drumme
 - Practise the verse-to-chorus fill slowly, then gradually close the gap to full tempo
 
 **Core Techniques:** [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Polyrhythms](https://metalforge.io/technique/polyrhythms)
+
+## Voodoo Thunderous Fill
+
+**Song:** Voodoo | **Album:** Godsmack (1998) | **BPM:** ~68 BPM | **Technique:** signature pattern | **Difficulty:** intermediate
+
+"Voodoo" is one of Godsmack's signature songs from their 1998 self-titled debut album, and while the original studio recording featured the band's founding drummer, Shannon Larkin has been performing it live since joining Godsmack in 2002. His interpretation has evolved into something more powerful and physically imposing than the original, and the thunderous fill pattern that peaks before the song's climactic moments has become a defining statement of his approach to dynamics and weight in a hard rock context. The groove at the heart of "Voodoo" is deceptively minimal: a slow, hypnotic pulse at approximately 68 BPM with a half-time feel that gives the song its meditative, ceremonial quality. Larkin leans into that quality with a playing style that emphasises weight over speed — every stroke sounds like it has been dropped from height, and the space between the hits becomes as musical as the hits themselves. The fill pattern that marks the song's climactic moments is an extended tom cascade: a descending roll across rack and floor toms that builds from measured triplets into a flowing, thunderous sweep arriving with the force of an avalanche. What makes it instructive is the control involved — Larkin never rushes the roll even as it escalates, because the impact depends entirely on the sense of inevitability and weight, not on speed. For drummers, "Voodoo" is a study in restraint and power: how to make a slow, minimal groove feel enormous, and how to deploy a fill with the timing and weight of a held breath finally released.
+
+### How to Play
+
+- Settle into the slow, half-time groove with maximum weight and authority on every stroke
+- Build the tom cascade from measured triplets into a full thunderous sweep without rushing
+- Let the spaces between strokes breathe — at 68 BPM, space is as musical as sound
+- Drive each tom stroke from the shoulder to generate the physical weight the fill requires
+- Resolve the fill back into the pocket with the same control used to initiate it
+
+### Key Elements
+
+- Practise the tom cascade at extremely slow tempo to build even stroke weight before bringing it up
+- Record the fill and listen back — if it rushes at any point, slow down and isolate that section
+- Work on the transition from fill back into groove so the return feels inevitable, not abrupt
+- Use a metronome at 68 BPM and practise sitting in the pocket until the slow tempo feels comfortable
+
+**Core Techniques:** [Fill Techniques](https://metalforge.io/technique/fill-techniques), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamic Control](https://metalforge.io/technique/dynamic-control)
+
+## 1000hp Double-Bass Gallop
+
+**Song:** 1000hp | **Album:** 1000hp (2014) | **BPM:** ~135 BPM | **Technique:** main groove | **Difficulty:** advanced
+
+"1000hp" is the title track from Godsmack's 2014 album and one of the clearest showcases of Shannon Larkin's double-bass technique in the modern era of the band's catalogue. The song is a hard-driving, energetic hard rock track built around a relentless double-bass gallop that propels the riff forward with the momentum of a racing engine. Larkin's double-bass technique on this track is not the extreme-metal style of pure speed execution — it is a hard rock gallop with a distinctly heavy rock feel: slightly more relaxed than thrash, but with enough power and drive to lock the arrangement into a forward motion that never lets up. The main groove runs at approximately 135 BPM with a straight-eighth double-bass pattern that alternates cleanly between the feet, giving the song's main riff a locomotive quality. What makes Larkin's execution distinctive is his ability to maintain an even, powerful kick sound across both feet — many hard rock drummers have a dominant-foot bias that creates unevenness, but Larkin's double-bass playing is balanced and clean, each stroke speaking with equal weight. For drummers, "1000hp" is an ideal study in hard rock double-bass playing: it develops foot evenness and stamina at a tempo challenging enough without requiring the extreme-metal speed of thrash or death metal.
+
+### How to Play
+
+- Drive the double-bass gallop with even pressure and weight from both feet
+- Keep the kick pattern locked to the guitar riff's rhythmic pulse for maximum riff-lock
+- Maintain a balanced, equal sound between both feet — avoid dominant-foot bias
+- Deploy fills at section changes that are short and decisive, re-entering the gallop cleanly
+- Build stamina at 135 BPM before attempting extended run-throughs of the full arrangement
+
+### Key Elements
+
+- Practise single-foot exercises on each foot separately to even out any imbalances before combining
+- Start at 90 BPM and increase in 5 BPM increments until the gallop feels controlled at 135
+- Record both feet and listen back to identify any unevenness between them
+- Work the transition from the gallop into fills and back — the re-entry is where most players stumble
+
+**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Riff Lock](https://metalforge.io/technique/riff-lock)
 
 ## Teaching Points
 

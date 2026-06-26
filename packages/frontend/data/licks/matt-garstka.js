@@ -147,6 +147,140 @@ export const licks = {
       ]
     }
   },
+  "matt-garstka-lippincott-polyrhythm": {
+    "slug": "matt-garstka-lippincott-polyrhythm",
+    "name": "Lippincott 7/8 Polyrhythm",
+    "shortName": "Lippincott",
+    "drummerId": 53,
+    "drummerName": "Matt Garstka",
+    "drummerSlug": "matt-garstka",
+    "band": "Animals as Leaders",
+    "song": "Lippincott",
+    "album": "The Joy of Motion (2014)",
+    "category": "polyrhythmic",
+    "style": "progressive-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 115,
+    "bpmDisplay": "~115 BPM",
+    "timeSignature": "shifting (7/8 polyrhythm passages)",
+    "description": "\"Lippincott\" is the closing track on Animals as Leaders' 2014 album The Joy of Motion, and Matt Garstka's drum performance on it is one of the most sophisticated examples of applied polyrhythm in the progressive metal canon. Named in honour of a mentor figure, the track represents a high-water mark for the band's rhythmic complexity on that record — a piece where the metre is not fixed but shifts through several feel-centres, and Garstka's job is to make those shifts feel intentional and musical rather than arbitrary or disorienting. The centrepiece of the piece is a passage built around a 7/8 polyrhythmic groove: a pattern where the kick and snare articulate a repeating seven-beat figure against the guitar's implied pulse, so the downbeat of the pattern spirals against the underlying feel and resolves only after several complete rotations. This kind of polyrhythm is fundamentally different from playing in a fixed odd time signature — it requires you to maintain two simultaneous metric references in your internal clock, following the seven-beat figure in your hands and feet while tracking where the underlying pulse sits. Garstka executes this with precision and ease that belies the difficulty of the concept, and the groove feels completely natural and musical even as the time signatures slip and resolve around it. What makes the Lippincott passage valuable as a teaching piece is that Garstka plays the polyrhythm without treating it as a mathematical puzzle: the feel remains human and flowing, and the resolution point at the end of the pattern lands like a downbeat you have been expecting rather than a calculation you have been counting toward. For drummers, \"Lippincott\" is the ideal study in 7-against-4 polyrhythm: it demands that you internalise both the seven-beat figure and the four-beat pulse independently, develop the foot-hand independence to sustain them simultaneously, and learn to hear the polyrhythm resolving naturally rather than counting bars of seven against bars of four. Approaching the piece patiently — clapping the figures away from the kit before playing them, identifying the resolution point, and building the pattern limb by limb — will unlock one of the most transferable advanced drumming skills: the ability to superimpose independent metric layers within a single groove.",
+    "techniques": [
+      "polyrhythms",
+      "odd-time-signatures",
+      "linear-drumming"
+    ],
+    "techniqueDetails": [
+      "Internalise the seven-beat pattern independently before combining it with any underlying pulse reference",
+      "Count the seven-beat figure in one part of your mind while tracking the four-beat pulse in another",
+      "Play the pattern until the resolution point feels natural — a moment of arrival, not a calculation",
+      "Keep ghost notes between the polyrhythmic accents to maintain the groove's flow and human feel",
+      "Practise the transition between the 7/8 polyrhythm and surrounding sections until it is seamless"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "Tama Star Series Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Meinl Byzance Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Tama Speed Cobra Pedals",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Clap the seven-beat pattern against a steady quarter-note metronome before playing it on the kit",
+      "Identify the resolution point where the seven-beat and four-beat pulses align and feel it as a moment of arrival",
+      "Work the hi-hat foot and snare independently on the seven-beat figure at very slow tempo",
+      "Do not rush to full song tempo — conceptual accuracy matters more than speed early on"
+    ],
+    "seo": {
+      "title": "Matt Garstka Lippincott Polyrhythm - Animals as Leaders Drum Tutorial | MetalForge",
+      "description": "Learn Matt Garstka's 7/8 polyrhythm from Animals as Leaders' Lippincott. Technique breakdown, independence tips, and practice guide.",
+      "keywords": [
+        "matt garstka",
+        "lippincott drums animals as leaders",
+        "7/8 polyrhythm tutorial",
+        "animals as leaders drumming",
+        "progressive metal polyrhythm",
+        "the joy of motion drums"
+      ]
+    }
+  },
+  "matt-garstka-physical-education-fill": {
+    "slug": "matt-garstka-physical-education-fill",
+    "name": "Physical Education Snare Density Exercise",
+    "shortName": "Physical Education",
+    "drummerId": 53,
+    "drummerName": "Matt Garstka",
+    "drummerSlug": "matt-garstka",
+    "band": "Animals as Leaders",
+    "song": "Physical Education",
+    "album": "The Joy of Motion (2014)",
+    "category": "fill-techniques",
+    "style": "progressive-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 130,
+    "bpmDisplay": "~130 BPM",
+    "timeSignature": "4/4 (with shifting rhythmic density)",
+    "description": "\"Physical Education\" is one of the most rhythmically demanding tracks on Animals as Leaders' 2014 album The Joy of Motion, and Matt Garstka's snare density and fill vocabulary on the track represent a concentrated study in how to maintain physical intensity across a piece that never settles into a comfortable predictable pattern. The key feature of his performance is the snare density exercise approach to fills: rather than playing conventional tom-snare sweeps between sections, he constructs fills from dense, rapidly subdivided snare patterns that function like an independent rhythmic argument overlaid on the beat. These fills move through sixteenth-note and thirty-second-note subdivisions with a fluidity that sounds improvised but is built on a precise internal logic, and the snare becomes a melodic instrument during the fill passages — different accents, different dynamics, and different rhythmic positions create a textured, speech-like quality in the drumming. The physical demands of the piece are considerable: Garstka sustains high-density snare patterns across multiple bars, which requires both the wrist control to execute clean individual strokes and the endurance to maintain even dynamics across extended sixteenth-note runs. The arrangement of the piece keeps moving around him, with guitars shifting through odd-time figures and metric modulations, and his snare density technique is what allows him to navigate these shifts while always making the transition feel purposeful. For drummers, \"Physical Education\" is one of the most effective pieces in the modern progressive-metal canon for developing snare technique: it challenges your ability to maintain consistent dynamics across rapid subdivisions, execute clean thirty-second-note bursts, and keep a musical, reactive relationship with the band even while playing at extreme snare density. The piece rewards extensive slow-tempo practice: the patterns are complex enough that clean execution at even moderate tempo requires many hours of careful repetition, and the reward is a level of snare control that carries over into every other drumming context. Few pieces expose and then resolve weaknesses in wrist endurance and dynamic consistency as thoroughly as this one does.",
+    "techniques": [
+      "fill-techniques",
+      "linear-drumming",
+      "dynamic-control"
+    ],
+    "techniqueDetails": [
+      "Construct fills from dense, subdivided snare patterns that function as independent rhythmic arguments",
+      "Move through sixteenth and thirty-second note subdivisions with even dynamics and consistent stroke weight",
+      "Use accent variation within the snare pattern to create a melodic, speech-like quality in the fills",
+      "Navigate the band's odd-time shifts with snare-density patterns that make each transition purposeful",
+      "Sustain high-density snare patterns across multiple bars by prioritising wrist efficiency over arm movement"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "Tama Star Series Kit",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Meinl Byzance Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "Tama Speed Cobra Pedals",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Practise individual thirty-second-note bursts in isolation before stringing bars of snare density together",
+      "Record the fills and listen back for dynamic consistency — uneven strokes will be clearly audible",
+      "Work on wrist endurance exercises such as paradiddles and rolls before the extended dense passages",
+      "Slow the snare density pattern to 60 BPM and work up gradually — never sacrifice even dynamics for tempo"
+    ],
+    "seo": {
+      "title": "Matt Garstka Physical Education Fill - Animals as Leaders Drum Tutorial | MetalForge",
+      "description": "Learn Matt Garstka's snare density technique from Animals as Leaders' Physical Education. Wrist control, fill patterns, and practice tips.",
+      "keywords": [
+        "matt garstka",
+        "physical education drums animals as leaders",
+        "snare density technique",
+        "progressive metal fills",
+        "the joy of motion drums",
+        "wrist control drumming"
+      ]
+    }
+  },
   "matt-garstka-tempting-time-groove": {
     "slug": "matt-garstka-tempting-time-groove",
     "name": "Tempting Time Odd-Meter Groove",

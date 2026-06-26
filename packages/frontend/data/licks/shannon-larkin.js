@@ -149,6 +149,142 @@ export const licks = {
       ]
     }
   },
+  "shannon-larkin-voodoo-fill": {
+    "slug": "shannon-larkin-voodoo-fill",
+    "name": "Voodoo Thunderous Fill",
+    "shortName": "Voodoo",
+    "drummerId": 26,
+    "drummerName": "Shannon Larkin",
+    "drummerSlug": "shannon-larkin",
+    "band": "Godsmack",
+    "song": "Voodoo",
+    "album": "Godsmack (1998)",
+    "category": "signature-pattern",
+    "style": "hard-rock",
+    "difficulty": "intermediate",
+    "difficultyRating": 3,
+    "bpm": 68,
+    "bpmDisplay": "~68 BPM",
+    "timeSignature": "4/4",
+    "description": "\"Voodoo\" is one of Godsmack's signature songs from their 1998 self-titled debut album, and while the original studio recording featured the band's founding drummer, Shannon Larkin has been performing it live since joining Godsmack in 2002. His interpretation has evolved into something more powerful and physically imposing than the original, and the thunderous fill pattern that peaks before the song's climactic moments has become a defining statement of his approach to dynamics and weight in a hard rock context. The groove at the heart of \"Voodoo\" is deceptively minimal: a slow, hypnotic pulse at approximately 68 BPM with a half-time feel that gives the song its meditative, ceremonial quality. Larkin leans into that quality with a playing style that emphasises weight over speed — every stroke sounds like it has been dropped from height, and the space between the hits becomes as musical as the hits themselves. The fill pattern that marks the song's climactic moments is an extended tom cascade: a descending roll across rack and floor toms that builds from measured triplets into a flowing, thunderous sweep arriving with the force of an avalanche. What makes it instructive is the control involved — Larkin never rushes the roll even as it escalates, because the impact depends entirely on the sense of inevitability and weight, not on speed. For drummers, \"Voodoo\" is a study in restraint and power: how to make a slow, minimal groove feel enormous, and how to deploy a fill with the timing and weight of a held breath finally released. The ability to sit in a slow tempo with authority and let the fill arrive at the right moment is one of the hardest and most valuable skills in hard rock drumming, and Larkin's \"Voodoo\" is one of the best teaching examples of it in the genre. Learning the fill pattern develops your tom-stroke evenness and your ability to maintain control as a roll escalates from measured to thunderous.",
+    "techniques": [
+      "fill-techniques",
+      "groove-drumming",
+      "dynamic-control"
+    ],
+    "techniqueDetails": [
+      "Settle into the slow, half-time groove with maximum weight and authority on every stroke",
+      "Build the tom cascade from measured triplets into a full thunderous sweep without rushing",
+      "Let the spaces between strokes breathe — at 68 BPM, space is as musical as sound",
+      "Drive each tom stroke from the shoulder to generate the physical weight the fill requires",
+      "Resolve the fill back into the pocket with the same control used to initiate it"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "ddrum Dios Series",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Sabian AAX & HHX Series Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "DW 9000 Series Double Pedal",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Practise the tom cascade at extremely slow tempo to build even stroke weight before bringing it up",
+      "Record the fill and listen back — if it rushes at any point, slow down and isolate that section",
+      "Work on the transition from fill back into groove so the return feels inevitable, not abrupt",
+      "Use a metronome at 68 BPM and practise sitting in the pocket until the slow tempo feels comfortable"
+    ],
+    "seo": {
+      "title": "Shannon Larkin Voodoo Fill - Godsmack Drum Tutorial | MetalForge",
+      "description": "Learn Shannon Larkin's thunderous tom fill pattern from Godsmack's Voodoo. Technique breakdown, and practice tips.",
+      "keywords": [
+        "shannon larkin",
+        "voodoo drums godsmack",
+        "godsmack drummer",
+        "thunderous tom fill",
+        "hard rock drumming",
+        "godsmack drum tutorial",
+        "slow groove drumming"
+      ]
+    }
+  },
+  "shannon-larkin-1000hp-double-bass": {
+    "slug": "shannon-larkin-1000hp-double-bass",
+    "name": "1000hp Double-Bass Gallop",
+    "shortName": "1000hp",
+    "drummerId": 26,
+    "drummerName": "Shannon Larkin",
+    "drummerSlug": "shannon-larkin",
+    "band": "Godsmack",
+    "song": "1000hp",
+    "album": "1000hp (2014)",
+    "category": "main-groove",
+    "style": "hard-rock",
+    "difficulty": "advanced",
+    "difficultyRating": 4,
+    "bpm": 135,
+    "bpmDisplay": "~135 BPM",
+    "timeSignature": "4/4",
+    "description": "\"1000hp\" is the title track from Godsmack's 2014 album and one of the clearest showcases of Shannon Larkin's double-bass technique in the modern era of the band's catalogue. The song is a hard-driving, energetic hard rock track built around a relentless double-bass gallop that propels the riff forward with the momentum of a racing engine. Larkin's double-bass technique on this track is not the extreme-metal style of pure speed execution — it is a hard rock gallop with a distinctly heavy rock feel: slightly more relaxed than thrash, but with enough power and drive to lock the arrangement into a forward motion that never lets up. The main groove runs at approximately 135 BPM with a straight-eighth double-bass pattern that alternates cleanly between the feet, giving the song's main riff a locomotive quality that drives the verse and chorus with equal authority. What makes Larkin's execution distinctive is his ability to maintain an even, powerful kick sound across both feet — many hard rock drummers have a dominant-foot bias that creates unevenness in the pattern, but Larkin's double-bass playing is balanced and clean, each stroke speaking with equal weight. The fills that interrupt the gallop pattern are decisive and short, designed to signal section changes without breaking the forward momentum of the kick groove, and Larkin deploys them with the confidence of a drummer who knows exactly how each fill will land in the arrangement. For drummers, \"1000hp\" is an ideal study in hard rock double-bass playing: it develops foot evenness and stamina at a tempo demanding enough to be challenging without requiring the extreme-metal speed of thrash or death metal. The groove is accessible to intermediate players with some double-bass experience while offering experienced players a chance to work on the feel and weight of their kick patterns in a straight-ahead hard rock context. Learning it builds the even, powerful double-bass technique that is directly transferable to any heavy rock or metal context where sustained kick-pattern playing is required.",
+    "techniques": [
+      "double-bass",
+      "groove-drumming",
+      "riff-lock"
+    ],
+    "techniqueDetails": [
+      "Drive the double-bass gallop with even pressure and weight from both feet",
+      "Keep the kick pattern locked to the guitar riff's rhythmic pulse for maximum riff-lock",
+      "Maintain a balanced, equal sound between both feet — avoid dominant-foot bias",
+      "Deploy fills at section changes that are short and decisive, re-entering the gallop cleanly",
+      "Build stamina at 135 BPM before attempting extended run-throughs of the full arrangement"
+    ],
+    "tutorial": null,
+    "gearUsed": [
+      {
+        "name": "ddrum Dios Series",
+        "type": "drums",
+        "link": null
+      },
+      {
+        "name": "Sabian AAX & HHX Series Cymbals",
+        "type": "cymbals",
+        "link": null
+      },
+      {
+        "name": "DW 9000 Series Double Pedal",
+        "type": "pedals",
+        "link": null
+      }
+    ],
+    "learningTips": [
+      "Practise single-foot exercises on each foot separately to even out any imbalances before combining",
+      "Start at 90 BPM and increase in 5 BPM increments until the gallop feels controlled at 135",
+      "Record both feet and listen back to identify any unevenness between them",
+      "Work the transition from the gallop into fills and back — the re-entry is where most players stumble"
+    ],
+    "seo": {
+      "title": "Shannon Larkin 1000hp Double Bass - Godsmack Drum Tutorial | MetalForge",
+      "description": "Learn Shannon Larkin's double-bass gallop from Godsmack's 1000hp. Technique breakdown, foot evenness tips, and practice guide.",
+      "keywords": [
+        "shannon larkin",
+        "1000hp drums godsmack",
+        "godsmack drummer",
+        "double bass gallop",
+        "hard rock double bass",
+        "godsmack drum tutorial",
+        "foot evenness drumming"
+      ]
+    }
+  },
   "shannon-larkin-awake-tribal-groove": {
     "slug": "shannon-larkin-awake-tribal-groove",
     "name": "Awake Tribal Tom Pattern",

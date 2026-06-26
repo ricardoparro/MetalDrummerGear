@@ -5,6 +5,39 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-26 00:44 UTC*
 
 ---
+## 2026-06-26 19:00 — 2 promoted (Brann CTR gap + ABR arc close), stale nudge ×4 (40→42)
+
+### Context (≤3 lines)
+Evening run. Metrics: 104 users / 121 sessions / 2,246 impr / 58 clicks / 2.58% CTR / pos 8.5 (fresh 2026-06-26 08:11 UTC). Backlog entered at 40 (25-44 zone). 0 PRs merged since 13:00. 7 new seo-proposals (#2765–#2771). Stale re-files #2715–#2718 still 0 Watcher activity (~12h post-creation — nudge threshold reached).
+
+### Actions taken
+- **No zombie closes** — 0 PRs merged since 13:00 UTC.
+- **Triaged 7 new seo-proposals (#2765–#2771):**
+  - **#2766** (Mastodon 'The Hunter', Brann Dailor, 2011 — fills Crack the Skye→OMROTS arc) — **5★ PROMOTED**: directly addresses Brann CTR gap (pos 6.3 / 23 impr / 0 clicks per learned-patterns.md); complements #2728 (Hushed & Grim 2021) with mid-arc coverage; confirmed no duplicate ai-fix.
+  - **#2769** (ABR 'Found in Far Away Places', Matt Greiner, 2015 — closes ABR arc) — **5★ PROMOTED**: Matt Greiner = #1 GSC CTR this week (21.43% on "matt greiner drum setup"); closes arc: Constellations (#2708 shipped) → Rescue & Restore (#2721 ai-fix) → Found in Far Away Places; confirmed no duplicate ai-fix.
+  - **#2768** (Black Sabbath 'Sabbath Bloody Sabbath', Bill Ward, 1973) — **4★ HOLD**: Bill Ward 100% CTR (low-volume) signal; arc fill; 25-44 zone.
+  - **#2767** (DT 'Six Degrees of Inner Turbulence', Portnoy, 2002 — Grammy-nominated) — **4★ HOLD**: Portnoy L2 gap; double album LLM anchor; 25-44 zone.
+  - **#2765** (Metallica 'Reload', Lars, 1997 — 5× Platinum) — **4★ HOLD**: fills Load→St. Anger arc; 25-44 zone.
+  - **#2771** (Comparison batch 22 — Lombardo/Adler + Haake/Mangini + Reinert/Grossmann) — **4★ HOLD**: proven format; Haake zero-competitor L2 gap; 25-44 zone.
+  - **#2770** (SoundLike batch 23 — Alex Bent + Nick Augusto + Ben Koller) — **3★ HOLD**: weaker entity GSC signals. Park.
+- **Stale nudge** (#2715–#2718, ~12h post re-file, 0 Watcher activity): added CEO nudge comment to all 4. Dependency note added to #2718 (blocking #2710/72 Seasons).
+- **L1/L2/L3**: no fires — first-run baseline; next actionable L1 2026-07-01. L2 #2211 (52/65 uncited) open — no new ai-fix (backlog at target). L3 baseline clean.
+
+### State delta
+- **Promoted (2):** #2766 (Mastodon The Hunter / Brann arc + CTR), #2769 (ABR Found in Far Away Places / Matt Greiner arc close)
+- **Stale nudged:** #2715, #2716, #2717, #2718 — CEO nudge comment added
+- **Backlog: 40→42**
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (2 promoted 5★, 5 held). ✅ Zombies: 0 (no merges since 13:00). ✅ L1/L2/L3: first-run baseline, no fires. ✅ Stale nudge: #2715–#2718 nudged. ✅ Decisions logged.
+
+### Next Run (2026-06-27 07:00 UTC)
+1. **Zombie sweep** — overnight merges likely; each close frees slots toward <25 for 4★ promotion.
+2. **#2715–#2718 stale watch** — if still 0 Watcher activity (>24h post re-file), escalate to `human-founder` for root-cause investigation; this is unprecedented stagnation.
+3. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships.
+4. **5★ next queue** (promote when backlog drops): #2720 (Gojira Fortitude) → #2730 (Sepultura Machine Messiah) → #2725 (Comparison batch 21).
+
+---
 ## 2026-06-27 13:00 — 5 proposals promoted (CTR-gap + sitemap), 9 held (36→41)
 
 ### Context (≤3 lines)

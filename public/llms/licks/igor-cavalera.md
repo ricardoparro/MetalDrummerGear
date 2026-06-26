@@ -1,12 +1,12 @@
 # Igor Cavalera — Signature Drum Licks & Patterns
 
-**Band:** Sepultura | **Genre:** Groove Metal / Thrash Metal | **Lick Count:** 3
+**Band:** Sepultura | **Genre:** Groove Metal / Thrash Metal | **Lick Count:** 6
 
 ---
 
 ## Overview
 
-Igor Cavalera is one of Groove Metal / Thrash Metal's most influential drummers, best known for their work with Sepultura. This file covers 3 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Igor Cavalera" or "Igor Cavalera signature drum patterns". Their style spans groove-metal, thrash-metal.
+Igor Cavalera is one of Groove Metal / Thrash Metal's most influential drummers, best known for their work with Sepultura. This file covers 6 signature licks — step-by-step breakdowns optimised for AI retrieval on queries like "how to play like Igor Cavalera" or "Igor Cavalera signature drum patterns". Their style spans groove-metal, thrash-metal.
 
 ## Roots Bloody Roots Tribal Groove
 
@@ -74,6 +74,75 @@ Igor Cavalera is one of Groove Metal / Thrash Metal's most influential drummers,
 - Develop blast-beat control with short bursts before extending into full-song passages
 - Work on dynamic contrast — practise going from full intensity to a controlled groove
 - Map the song's riff sections and practise fills at each transition point
+
+**Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
+
+## Beneath the Remains Stampede Double Bass
+
+**Song:** Beneath the Remains | **Album:** Beneath the Remains (1989) | **BPM:** ~195 BPM | **Technique:** signature pattern | **Difficulty:** expert
+
+Beneath the Remains (1989) contains two distinct drumming challenges: blast passages and the sustained double-bass stampede pattern that drives the main verse and riff sections. Igor Cavalera powers these passages with rapid, alternating kick-drum figures locked to the thrash riff at approximately 195 BPM. What distinguishes this from generic double-bass speed is the groove rootedness: every kick serves the riff, dynamics vary across sections, and even at extreme tempo the feel retains Igor's organic Brazilian rhythmic sensibility. Sustaining the pattern evenly while keeping the hands grooving simultaneously is the real challenge. In the late-1980s South American metal context, this double-bass control set a standard that has never been surpassed.
+
+### How to Play
+
+- Drive the main verse sections with alternating 16th-note double bass at extreme tempo
+- Keep each kick stroke even in volume and timing — no dominant foot, no inconsistency between feet
+- Lock the kick pattern to the thrash riff accents rather than running independently of the guitar
+- Keep the hands working above the kick — snare and hi-hat must not deteriorate as the feet accelerate
+- Vary the double-bass density across sections to mirror the arrangement dynamics
+
+### Key Elements
+
+- Build single-foot 16th notes to the full tempo before combining both feet
+- Slow the song to 60-70% and lock the kick to the riff accents one section at a time
+- Use ankle technique and pedal rebound — driving from the thigh alone causes early fatigue
+- Record 30-second bursts and check for evenness — any unevenness between feet is immediately audible
+
+**Core Techniques:** [Double Bass](https://metalforge.io/technique/double-bass), [Riff Lock](https://metalforge.io/technique/riff-lock), [Groove Drumming](https://metalforge.io/technique/groove-drumming)
+
+## Chaos A.D. Tribal Syncopated Groove
+
+**Song:** Territory | **Album:** Chaos A.D. (1993) | **BPM:** ~130 BPM | **Technique:** main groove | **Difficulty:** intermediate
+
+"Territory" from Chaos A.D. is Igor Cavalera's most fully-realised synthesis of Brazilian rhythmic sensibility and extreme metal power. The main groove is built on a syncopated, tribal foundation: Igor plays with a deliberate, slightly off-centre weight that recalls the mixed-meter traditions of Brazilian popular music — samba, baião, maracatu — without losing the aggressive forward momentum that metal demands. The pattern sits in 4/4 but phrases across the barline in ways that create hypnotic, churning momentum. At this point in Chaos A.D., the metal and the Brazilian rhythmic DNA are in their tightest balance, making "Territory" a masterclass in feel-driven groove playing with genuine cultural depth.
+
+### How to Play
+
+- Sit in a slightly displaced, syncopated pocket that phrases across the barline with natural authority
+- Draw on the cultural weight of the pattern — feel the Brazilian rhythmic sensibility behind the groove
+- Let the kick-snare relationship breathe and fill the spaces between the guitar accents
+- Sustain a hypnotic, churning momentum without rushing the natural forward swing
+- Use dynamic variation within the groove to build intensity across each phrase cycle
+
+### Key Elements
+
+- Listen to baião and samba recordings to understand the rhythmic sensibility underlying the groove
+- Play at half the original tempo and focus on feel before building speed
+- Isolate the kick pattern and feel how it phrases against the snare before combining the two
+- Record yourself playing along with the track and listen for any rushing in the syncopated figures
+
+**Core Techniques:** [Tribal Influence](https://metalforge.io/technique/tribal-influence), [Groove Drumming](https://metalforge.io/technique/groove-drumming), [Dynamic Control](https://metalforge.io/technique/dynamic-control)
+
+## Schizophrenia Raw Blast Groove
+
+**Song:** Schizophrenia | **Album:** Schizophrenia (1987) | **BPM:** ~185 BPM | **Technique:** signature pattern | **Difficulty:** advanced
+
+Schizophrenia (1987) was Sepultura's third album and the recording where Igor Cavalera, at just 17, first announced himself as a drummer operating at the extreme edge of the global metal scene. The title track opens with a rapid, raw blast groove that fuses early thrash and proto-death approaches — shaped as much by the urgency of the Brazilian metal underground as by North American or European influences. Igor's blast here is not the controlled metronomic precision of later technical death metal: it is an eruption of adolescent intensity, played with commitment and fury. The kick drives below the snare in rapidly alternating strokes, and the hands push with a relentless aggression that creates the sound of something barely contained but immensely powerful. In 1987, this was genuinely extreme.
+
+### How to Play
+
+- Execute the blast with raw, aggressive intensity — urgency and commitment over metronomic precision
+- Drive the kick below the snare in rapidly alternating strokes at the song's extreme tempo
+- Let the hands push with power and purpose rather than controlled refinement
+- Use the blast as an expressive tool — vary the intensity to serve the song's energy arc
+- Approach this blast feel as a distinct style from the more controlled blasts of later technical extreme metal
+
+### Key Elements
+
+- Approach this blast from a feel and intensity perspective rather than a technical precision one
+- Build the pattern at 60% tempo and focus on clean alternating strokes before raising the BPM
+- Record yourself and check that urgency is present — a bland, measured blast misses the point
+- Study the Schizophrenia album to understand the musical context that informs how the blast serves the song
 
 **Core Techniques:** [Blast Beat](https://metalforge.io/technique/blast-beat), [Double Bass](https://metalforge.io/technique/double-bass), [Fill Techniques](https://metalforge.io/technique/fill-techniques)
 

@@ -685,6 +685,40 @@ export const drummerComparisons = {
     verdict: 'Dave Lombardo is the godfather of thrash metal drumming — his groove-powered double kick defined Slayer\'s sonic identity and inspired every extreme metal band that followed. Pete Sandoval invented a technique that changed what was physically possible in extreme drumming. Two different approaches to extreme speed — groove vs pure velocity — both irreplaceable.',
   },
 
+  // Issue #2619: SEO batch 17 — Odd-time masters, Tool vs Meshuggah
+  'danny-carey-vs-tomas-haake': {
+    slug: 'danny-carey-vs-tomas-haake',
+    title: 'Danny Carey vs Tomas Haake',
+    metaTitle: 'Danny Carey vs Tomas Haake — Tool vs Meshuggah Drumming Compared | MetalForge',
+    metaDescription: 'Tool\'s Danny Carey vs Meshuggah\'s Tomas Haake. Two polyrhythmic metal masters compared — odd-time signatures, djent precision, and progressive technique analyzed.',
+    category: 'progressive',
+    drummers: ['danny-carey', 'tomas-haake'],
+    comparison: {
+      style: 'Danny Carey blends tribal, spiritual polyrhythms with occult-influenced progressive rock — his patterns breathe and expand across Tool\'s slow-building arrangements. Tomas Haake invented djent drumming with Meshuggah — robotic polyrhythmic precision and machine-like consistency where his kick patterns run independent of the guitar riff cycles.',
+      technique: 'Carey integrates electronic Mandala pads, polyrhythmic hand patterns, and Fibonacci-sequence time signatures into Tool\'s epic compositions. Haake uniquely runs two Tama Speed Cobra single pedals rather than a double pedal, locking his kicks into independent polyrhythmic grids that sit against — not with — the band\'s riff cycles.',
+      gear: 'Danny plays Sonor SQ2 Heavy Beech drums with Paiste Signature Series cymbals, a custom Sonor 14x8" Bronze snare, and Sonor Giant Step double pedals plus Mandala electronic pads. Tomas plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals — both legends share the same drum shell yet arrive at entirely opposite musical destinations.',
+      influence: 'Carey defined the spiritual, art-rock approach to progressive drumming and directed a generation of listeners toward rhythmic and compositional complexity. Haake\'s djent template inspired Periphery, Animals as Leaders, and an entire wave of modern metal drummers who now treat polyrhythmic independence as a prerequisite.',
+    },
+    verdict: 'Danny Carey and Tomas Haake are the two great polyrhythmic masters of modern metal. Carey pursues transcendence through rhythm; Haake pursues mathematical perfection. Both play Sonor SQ2 drums yet use the same shells to create entirely different music. The debate is a study in two philosophies of rhythmic complexity: spiritual vs mechanical, expansive vs locked-in.',
+  },
+
+  // Issue #2619: SEO batch 17 — Big-4 era groove vs thrash
+  'vinnie-paul-vs-lars-ulrich': {
+    slug: 'vinnie-paul-vs-lars-ulrich',
+    title: 'Vinnie Paul vs Lars Ulrich',
+    metaTitle: 'Vinnie Paul vs Lars Ulrich — Pantera vs Metallica Drumming Compared | MetalForge',
+    metaDescription: 'Pantera\'s Vinnie Paul vs Metallica\'s Lars Ulrich. Big 4 era rivalry — groove metal power vs thrash metal backbone. Two of metal\'s most iconic drummers compared.',
+    category: 'thrash',
+    drummers: ['vinnie-paul', 'lars-ulrich'],
+    comparison: {
+      style: 'Vinnie Paul defined American groove metal with Pantera — massive pocket, syncopated power, and an unshakeable groove that gave the Abbott brothers\' riffs their swagger. Lars Ulrich built Metallica\'s thrash foundation — mid-tempo groove on the classics, double bass intensity on the speed tracks, and enough personality to make technically measured parts feel iconic.',
+      technique: 'Vinnie pioneered the heavy power-groove: deep, wide snare hits with his signature 14x8" ddrum, locked-in double bass, and fills that emphasize power over flash. Lars is a feel-driven player whose drumming serves Metallica\'s songs above all else — his patterns lock in with James Hetfield\'s rhythm guitar to create one of metal\'s tightest rhythm section bonds.',
+      gear: 'Vinnie played ddrum Vinnie Paul Signature Series drums with Sabian AA & AAX cymbals and ddrum double pedals. His 14x8" signature snare produced the thunderous crack defining Pantera\'s groove. Lars plays Tama Starclassic Maple and Birch drums with Zildjian A Custom cymbals and Tama Iron Cobra double pedals.',
+      influence: 'Vinnie\'s groove metal template influenced all of American metal after Pantera — his partnership with brother Dimebag Darrell remains one of the tightest rhythm sections in metal history. Lars co-founded Metallica, the best-selling metal band of all time, and his drumming on Master of Puppets and Ride the Lightning defined thrash\'s mainstream sound for three decades.',
+    },
+    verdict: 'Vinnie Paul and Lars Ulrich represent two pillars of American heavy metal. Vinnie delivered the groove that made Pantera untouchable in the 90s; Lars delivered the thrash backbone that took Metallica to stadium level. Neither is defined primarily by technical wizardry — both are defined by feel, power, and the ability to make their bands sound bigger than anyone else.',
+  },
+
   // Issue #2483: SEO batch 16 — Speed specialists from different subgenres
   'george-kollias-vs-tomas-haake': {
     slug: 'george-kollias-vs-tomas-haake',

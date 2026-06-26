@@ -7588,7 +7588,7 @@ This guide covers Grossmann's technique in depth — classical influences, open-
     relatedArticles: [
       { slug: 'hannes-grossmann-drum-setup', label: 'Hannes Grossmann Drum Setup' },
       { slug: 'cosmogenesis-drum-setup', label: 'Cosmogenesis — Obscura Drum Setup' },
-      { slug: 'epitaph-necrophagist-drum-setup', label: 'Epitaph — Necrophagist Drum Setup' }
+      { slug: 'epitaph-drum-setup', label: 'Epitaph — Necrophagist Drum Setup' }
     ]
   },
 

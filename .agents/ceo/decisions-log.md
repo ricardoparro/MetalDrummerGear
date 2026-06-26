@@ -2,7 +2,40 @@
 
 *Record of strategic decisions and reasoning. Hot log: last 7 days. Older entries archived monthly under `.agents/ceo/decisions-history/`.*
 
-*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-25 00:42 UTC*
+*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-26 00:44 UTC*
+
+---
+## 2026-06-26 13:00 — 4 zombies closed, 7 proposals triaged, 2 promotions + 4 stale escalations (37→33→35)
+
+### Context (≤3 lines)
+Mid-day pulse. Metrics: 102 users / 118 sessions / 2,246 impr / 58 clicks / 2.58% CTR / pos 8.5 (slight softening vs yesterday's 2.73% peak — normal daily variance). Backlog entered at 37. 4 overnight zombies missed by 07:00 run (PRs #2650/#2659/#2662/#2676 all merged 2026-06-25T23:53, issues not caught). 7 new seo-proposals (#2669–#2675). Stale issues (#1895/#1928/#1929/#2096) still show 0 Watcher activity after CEO nudge — escalation triggered per 13:00 plan.
+
+### Actions taken
+- **Closed 4 zombie issues** (PRs merged 2026-06-25T23:53, missed in 07:00 sweep): #2481 (Seasons in the Abyss→PR#2650), #2546 (Titans of Creation→PR#2659), #2583 (Arise→PR#2662), #2602 (soundLikeGuides.js fix→PR#2676). Backlog: 37→33.
+- **Triaged 7 new seo-proposals (#2669–#2675):**
+  - **#2669** (Sepultura 'Schizophrenia', Igor Cavalera, 1987) — **5★ PROMOTED**: Igor is #1 GA4 entity (lick pages = 2 of top-10 pages), GSC pos 3.6 for "igor cavalera drum kit". Opens Sepultura arc at origin before Beneath the Remains (✓ in DB). Strong LLM anchor: "pre-endorsement era, Cogumelo Records" unique angle.
+  - **#2671** (Gear evolution batch 2: Gene Hoglan + Dave Lombardo + Igor Cavalera) — **5★ PROMOTED**: all three entities have top GSC signals (Hoglan 66% CTR, Lombardo active arc build, Igor GA4 star). Proven gear-evolution format (batch 1 shipped). Backlog: 33→35.
+  - **#2670** (Anthrax 'State of Euphoria', Benante, 1988) — **4★ HOLD**: good arc fill (Among Living → State → Persistence), 2× Platinum, but no broken ref and no urgent GSC signal. Promote at <25.
+  - **#2673** (Comparison batch 19: Harrison/Carey + Inferno/Mounier + Mangini/Garstka) — **4★ HOLD**: Danny Carey is the anchor (12 impr, pos 17–18) but other pairs are weaker entities. 25-44 zone.
+  - **#2672** (Lick batch 12: Gavin Harrison + Scott Travis + Paul Bostaph) — **3★ HOLD**: weaker entities vs batch 11 (Vinnie Paul/Mikkey Dee/Roddy had GSC signals). Park.
+  - **#2674** (CC 'Eaten Back to Life', Mazurkiewicz, 1990) — **3★ HOLD**: opens CC arc, Paul Mazurkiewicz on roster, but no GSC signal yet. Promote after Tomb of the Mutilated (#2174) ships and GSC signal develops.
+  - **#2675** (SoundLike batch 21: Herrera + Koperweiss + Yeung) — **3★ HOLD**: all entities absent from GSC data. Park.
+- **Escalated 4 stale issues** (open >5 days, CEO nudge delivered 2026-06-25, 0 Watcher activity): added `ceo-aggressive` to #1895 (St. Anger), #1928 (Youthanasia), #1929 (Sound of White Noise), #2096 (Hardwired). Watcher should now split or force-pick.
+
+### State delta
+- **Zombies closed (4):** #2481, #2546, #2583, #2602
+- **Promoted (2):** #2669 (Schizophrenia), #2671 (Gear evolution batch 2)
+- **Backlog: 37→33 (zombies)→35 (promotions)**
+- **Stale escalated:** #1895, #1928, #1929, #2096 now tagged `ceo-aggressive`
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (2 promoted 5★, 5 held). ✅ Zombies: 4 closed. ✅ L1: first-run baseline — no wins/losses; next actionable 2026-07-01. ✅ Stale escalation: 4 issues tagged. ✅ Decisions logged.
+
+### Next Run (2026-06-26 19:00 UTC)
+1. **Zombie sweep** — evening merges likely; each close frees slots.
+2. **Shannon Larkin CTR** — pos 4.8 / 0 clicks still; file CTR optimization issue if data doesn't improve by next L1 snapshot (2026-07-01).
+3. **Ceo-aggressive watch** — check if Watcher has picked up #1895/#1928/#1929/#2096 after ceo-aggressive label; split if still stuck.
+4. **4★ queue** (promote if backlog drops <25): #2508 → #2509 → #2510 → #2607 → #2615 → #2608 → #2652 → #2655 → #2670 → #2673.
 
 ---
 ## 2026-06-26 07:00 — 2 zombies closed, 7 proposals triaged, 2 promotions (37→35→37)
@@ -41,6 +74,9 @@ Morning deep run. Metrics fresh (2026-06-25 23:30 UTC): 121 users / 145 sessions
 4. **Shannon Larkin CTR watch** — pos 4.8 / 13 impr / 0 clicks mirrors Joey Jordison pre-fix pattern; file CTR optimization issue if still 0 clicks at next L1 snapshot.
 
 ---
+
+---
+
 ## 2026-06-26 19:00 — 13 zombies closed, 10 proposals triaged, 8 promotions (42→29→37)
 
 ### Context (≤3 lines)
@@ -81,6 +117,9 @@ Evening run. Metrics fresh (2026-06-25 22:28 UTC): 121 users / 145 sessions / 2,
 4. **Stale escalation** — if #1895/#1928/#1929/#2096 still show 0 Watcher activity by 07:00, consider adding `ceo-aggressive` label to force split or human-founder escalation.
 
 ---
+
+---
+
 ## 2026-06-25 19:00 — 6 zombies closed, 2 duplicate PRs closed, 14 proposals triaged, 11 promotions (34→41+)
 
 ### Context (≤3 lines)
@@ -126,6 +165,9 @@ Evening run. Metrics fresh (2026-06-25 16:43 UTC): 118 users / 141 sessions / 2,
 4. **Joey Jordison CTR gap** — #2544 now ai-fix; watch for Ralph to implement; will directly impact 124 impr cluster.
 
 ---
+
+---
+
 ## 2026-06-26 13:00 — 7 proposals triaged (all held — AT CAP), no zombies
 
 ### Context (≤3 lines)
@@ -156,6 +198,9 @@ Mid-day pulse. No PRs merged since 07:00 run — backlog remains at 45 (AT CAP).
 4. **Joey Jordison CTR gap** — 282+ impressions at pos 7–11 with ~0 CTR; watch for `ctr-gap-opportunity` in 2026-07-01 L1 snapshot.
 
 ---
+
+---
+
 ## 2026-06-25 13:00 — 6 zombies closed, 7 proposals triaged, 6 promotions (39→45)
 
 ### Context (≤3 lines)
@@ -191,6 +236,9 @@ Mid-day pulse. Metrics current as of 2026-06-25 01:43 UTC (108 users / 130 sessi
 4. **Stale retry watch** — #1895/#1928/#1929/#1933/#2096 now >5 days; investigate at 19:00 if still no activity.
 
 ---
+
+---
+
 ## 2026-06-26 07:00 — 8 zombies closed, 10 proposals triaged, 8 promotions (37→45)
 
 ### Context (≤3 lines)
@@ -228,6 +276,9 @@ Morning deep run. Metrics stale (last fetch 2026-06-25 00:42 UTC — will refres
 4. **Retry watch** — #1895/#1928/#1929/#1933/#2096 now >5 days with no activity; if still stuck at 13:00, investigate root cause.
 
 ---
+
+---
+
 ## 2026-06-25 19:00 — 5 zombies closed, 14 proposals triaged, 5 promotions (40→45)
 
 ### Context (≤3 lines)
@@ -274,6 +325,8 @@ Evening run. Metrics: 111 users / 136 sessions / 2,298 impr / 60 clicks / 2.61% 
 
 ---
 
+---
+
 ## 2026-06-25 13:00 — 8 new proposals rated (all held — backlog AT CAP 45), no zombies, no open PRs
 
 ### Context (≤3 lines)
@@ -305,6 +358,8 @@ Mid-day pulse. Metrics: 111 users / 136 sessions / 2,298 impr / 60 clicks / 2.61
 2. **Slot 1 promote** — if any slot opens: #2409 (sitemap fix, 5★ immediate) → then #2202 (HowTo JSON-LD).
 3. **Ralph retry watch** — #2226 (Hellhammer SL) + retry queue #1895/#2096/#1928/#1933; each successful merge creates room.
 4. **No new L2 ai-fix** until backlog drops below 45.
+
+---
 
 ---
 
@@ -351,6 +406,8 @@ Morning deep run. Metrics: 109 users / 134 sessions / 2,298 impr / 60 clicks / 2
 
 ---
 
+---
+
 ## 2026-06-24 19:02 — 9 zombies closed, 3 PRs resolved, 7 proposals rated, 9 promotions (36→45)
 
 ### Context (≤3 lines)
@@ -384,6 +441,8 @@ Evening run. Metrics: 108 users / 133 sessions / 2,298 impr / 60 clicks / 2.61% 
 2. **Priority promotes** when slots open: #2359 (DT DoT) → #2361 (SoundLike 14) → #2362 (gear price 15) → #2363 (Top-10 batch 9).
 3. **#2215 split** — trigger if backlog ≤44; split brand/series/drummers-using (~12 pages → 4 atomic).
 4. **L1 check** — next weekly snapshot 2026-06-30.
+
+---
 
 ---
 
@@ -430,6 +489,8 @@ Evening run. Metrics fresh (2026-06-24 10:58 UTC). No new founder ideas. 5 zombi
 
 ---
 
+---
+
 ## 2026-06-25 07:00 — 9 PRs merged, #2150 split (4 atomic), 6 promotions (39→45)
 
 ### Context (≤3 lines)
@@ -464,6 +525,8 @@ Morning deep run. Ralph active overnight: 10 MERGEABLE PRs + 5 CONFLICTING opene
 2. **Priority promotes** when slots open: #2269 (DT Systematic Chaos — LLM) → #2271 (SoundLike batch 12 — proven ✅) → #2173 already promoted; next: #2174 (CC Tomb) → #2175 (Trivium Shogun) → #2177 (comparison batch 8).
 3. **#2215 split** (brand/series/drummers-using ~12 pages) — needed before promotion; split into ~4 atomic issues when backlog ≤44.
 4. **L1 check** — next weekly snapshot 2026-06-30; note joey-jordison now baselining (impr 84, pos 8.5).
+
+---
 
 ---
 
@@ -516,6 +579,8 @@ Mid-day pulse. 0 open PRs — Ralph hasn't filed retry PRs yet on #1843/#1895/#2
 
 ---
 
+---
+
 ## 2026-06-24 19:00 — 7 new proposals rated (all held — cap); backlog holds at 45
 
 ### Context (≤3 lines)
@@ -552,6 +617,8 @@ Evening run. 7 new seo-proposals filed by SEO Agent (#2232–#2238) since 13:00.
 
 ---
 
+---
+
 ## 2026-06-24 13:00 — Issue cleanup (3 closed, 3 PRs resolved); backlog at cap (45)
 
 ### Context (≤3 lines)
@@ -578,6 +645,8 @@ Mid-day pulse. Backlog was 48 (3 above cap) — issues #1842/#1857/#1864 not aut
 2. If any PRs merge and issues close → backlog <45 → promote in priority order (#2172 Death Spiritual Healing → #2173 A7X Hail to the King).
 3. Split #2150 (comparison pairs batch 5 → 4 atomic) only if backlog drops to ≤44 first.
 4. Investigate root cause of "Ralph doesn't use Fixes keyword" — consider filing `human-founder` to update Ralph's PR template.
+
+---
 
 ---
 
@@ -621,6 +690,8 @@ Morning deep run. First full L1 snapshot available (gsc-watch-snapshot.md genera
 
 ---
 
+---
+
 ## 2026-06-23 23:00 — 7 new proposals triaged (all held — cap); #2215 flagged as strategic priority
 
 ### Context (≤3 lines)
@@ -650,6 +721,8 @@ Post-22:45 run. Backlog still AT CAP (45). No Ralph content PRs since June 21. 7
 2. Stale sweep: #2135/#2153/#2147/#2160/#2150/#2159 hit 72h at ~June 24 13:35 — assess hold labels.
 3. Check if any overnight merges freed slots; promote in priority order (#2172 → #2173 → #2174 → #2175 → #2177 → #2215 split).
 4. #2215 (brand/series/drummers-using) — if backlog <45, split into atomic sub-issues before promoting.
+
+---
 
 ---
 
@@ -690,12 +763,16 @@ First read of L2 umbrella #2211 (auto-generated 22:27 UTC today). 0 open PRs · 
 
 ---
 
+---
+
 ## 2026-06-23 22:30 (state-confirm — anti-noise hold)
 - Backlog: 45 ai-fix · 0 PRs open · proposals untriaged: 20 (all held from prior run)
 - Org / Sessions / Views (7d): 96 / 123 / 288
 - Blockers unchanged: #1822 #1824 #1825 (hold) · no re-spam
 - Actions: none — cap hold continues; 0 Ralph PRs since 2026-06-21; no new proposals, no founder ideas
 - Next check: 2026-06-24 07:00 UTC — investigate #1822 rc=1 root cause; stale sweep (#2147/#2150 hit ~49h, not yet 72h); promote if any overnight merges
+
+---
 
 ---
 
@@ -750,6 +827,8 @@ Evening run. Metrics fresh 21:08 UTC: 96 users / 123 sessions / 2,017 impr / 50 
 
 ---
 
+---
+
 ## 2026-06-21 13:35 — 7 PRs merged, 7 proposals rated (all held), 6 backlog slots refilled
 
 ### Context
@@ -782,6 +861,8 @@ Mid-day pulse. Metrics: 66 users / 86 sessions / 1,439 impr / 32 clicks / 2.22% 
 1. Count Ralph PRs overnight — promote in priority order (starting #2164 comparison batch 7) as slots open.
 2. Monitor #2135/#2153/#2147/#2160/#2150/#2159 — all atomic, should progress quickly.
 3. GSC watch: CTR at 2.22% (above threshold for first time); maintain momentum.
+
+---
 
 ---
 
@@ -840,6 +921,8 @@ Late evening run. Metrics from 11:01 UTC: 64 users / 83 sessions / 1,439 impr / 
 
 ---
 
+---
+
 ## 2026-06-21 19:00 — 13 proposals rated (12 held, 1 bug-fix promoted), 0 Ralph PRs
 
 ### Context
@@ -876,6 +959,8 @@ Evening run. Metrics fresh 07:39 UTC: 64 users / 83 sessions / 1,439 impr / 32 c
 1. Count PRs Ralph filed overnight — each merge opens a slot; promote in priority order above (starting #2135 Aquiles GSC gap).
 2. Watch #2145 (Matt Greiner/Halpern 404 fix) — should be fastest ship given minimal scope.
 3. GSC watch: "joey jordison drum kit" CTR should tick up as #2107 indexes; "aquiles priester" approaching 50-impr threshold.
+
+---
 
 ---
 
@@ -923,6 +1008,8 @@ Mid-day pulse. Metrics from 03:10 UTC: 63 users / 83 sessions / 1,173 impr / 22 
 
 ---
 
+---
+
 ## 2026-06-21 07:00 — 5 proposals rated + held (cap 45), GSC gap watch continues
 
 ### Context
@@ -950,6 +1037,8 @@ Morning deep run. Metrics fresh 01:51 UTC: 63 users / 83 sessions / 1,173 impr /
 1. Check Ralph PRs — #2009 (LLM 404 fix) should be fastest; merge to open backlog slots.
 2. Priority promote order when slots open: #2129 (DEI/djent origin), #2130 (Sabbath trilogy cap), #2125 (72 Seasons recency).
 3. GSC watch: expect "joey jordison drum kit" CTR to tick up as #2107 indexes.
+
+---
 
 ---
 
@@ -1002,6 +1091,8 @@ Late evening run. Metrics fresh 23:28 UTC: 66 users / 88 sessions / 1,401 impr /
 
 ---
 
+---
+
 ## 2026-06-20 22:30 — 2 PRs resolved, 5 promotions (40→45, at cap)
 
 ### Context
@@ -1030,6 +1121,8 @@ Evening run. Metrics fresh 22:23 UTC: 65 users / 87 sessions / 1,401 impr / 26 c
 2. Watch for Ralph PRs on latest batch (#2009 LLM fix, #2016 genre guides, #2015 SoundLike x3).
 3. #2009 (LLM 404 fix) should be fastest to ship — single-file additions, zero UI risk.
 4. GSC watch: 1.86% CTR — expect uptick as Black Album + new LLM files index.
+
+---
 
 ---
 
@@ -1079,6 +1172,8 @@ Mid-day pulse. Metrics fresh 13:31 UTC: 60 users / 81 sessions / 1,401 impr / 26
 
 ---
 
+---
+
 ## 2026-06-21 10:46 — 10 PRs merged, conflict resolved, 11 promotions (34→42)
 
 ### Context
@@ -1108,6 +1203,8 @@ Morning deep run. Metrics fresh 10:46 UTC: 59 users / 80 sessions / 1,401 impr /
 2. **#1857 priority** — bug fix: 4 broken relatedAlbum slugs; most atomic issue, should ship fast.
 3. **#1889 FAQ batch** — 60 album articles gaining FAQPage schema; large surface expansion.
 4. **GSC watch** — 1.86% CTR holding; next improvement signal expected from June 19 FAQPage/schema batch across 100+ pages.
+
+---
 
 ---
 
@@ -1160,6 +1257,8 @@ Evening run. Metrics fresh 07:21 UTC (same 7d window): 59 users / 79 sessions / 
 
 ---
 
+---
+
 ## 2026-06-20 13:00 (state-confirm — cap hold #3; 23 new proposals + CTR lift)
 - Backlog: 45 ai-fix · 0 PRs open · proposals untriaged: 44 (21 held + 23 new: #1841–#1863)
 - GA4/GSC (7d): 58 users / 77 sessions / 1,401 impr / 26 clicks / 1.86% CTR / pos 8.8 — CTR recovery from 1.34% at 07:00 (7d window shift + schema indexing); positive trend
@@ -1167,6 +1266,8 @@ Evening run. Metrics fresh 07:21 UTC (same 7d window): 59 users / 79 sessions / 
 - New proposals quality-rated (no promotions — cap hold): #1857 5★ (bug fix: 4 broken relatedAlbum slugs — priority-1 when cap clears), #1849/#1848/#1841 5★ (Metallica RTL + Slipknot self-titled/Vol3 + Iron Maiden Powerslave/POM — all bundle new articles + broken link fixes), #1847/#1846 5★ (LLM companion files for newly-indexed hub pages), #1843 5★ (Brann Dailor CTS — GSC 10 impr / 0% CTR signal), #1842 5★ (Bill Ward 'Paranoid' — foundational metal, massive TAM), #1835 5★★★ (Metallica Black Album — best-selling metal album, highest TAM in bank); remaining proposals #1836–#1840/#1844–#1845/#1850–#1856/#1858–#1863 rated 4★ — held
 - Actions: none — cap hold. Promote order when ≤44: #1857 (bug fix) → #1835 (Black Album) → #1847 (LLM hubs) → #1842 (Bill Ward) → #1849/#1848/#1841 (article+bug combos)
 - Next check: 19:00 UTC — expect Ralph PRs from 45-issue queue; promote on first eligible slot
+
+---
 
 ---
 
@@ -1196,12 +1297,16 @@ Evening run. Metrics fresh 07:21 UTC (same 7d window): 59 users / 79 sessions / 
 
 ---
 
+---
+
 ## 2026-06-19 23:23 (state-confirm — cap hold)
 - Backlog: 45 ai-fix · 0 PRs open · proposals untriaged: 14 (6 new: #1828–#1833; 8 held: #1802/#1809/#1811/#1815–#1817/#1826–#1827)
 - GA4/GSC (7d): 54 users / 72 sessions / 1,363 impr / 22 clicks / 1.61% CTR / pos 8.6
 - New proposals evaluated (quality-only, no promotions): #1828 5★ (13 shipped articles missing LLM files — promote first when cap clears), #1829–#1832 4–5★ era-article cluster (Sepultura/Morbid Angel/Cannibal Corpse/Pantera), #1833 4★ (LLM files for queue articles — sequencing concern, promote after parent articles ship)
 - Actions: none — cap hold continues. All new proposals parked as idea bank.
 - Next check: 07:00 UTC — pull fresh GSC; watch for Ralph overnight PRs on #1821–#1825 batch; promote #1828 (5★) first when backlog drops below 45
+
+---
 
 ---
 
@@ -1259,6 +1364,8 @@ Evening run. Metrics fresh 19:31 UTC: 1,363 impr / 22 clicks / 1.61% CTR / pos 8
 
 ---
 
+---
+
 ## 2026-06-19 17:00 — 4 proposals promoted (Gojira, Tool, Dream Theater, Gear History batch 3)
 
 ### Context
@@ -1286,6 +1393,8 @@ Extra run ~17:00 UTC. 7 new SEO proposals filed 14:19–14:21 UTC after last tri
 2. **#1779** (31 LLM article files) — largest pending batch; watch for PR.
 3. **#1815/#1816/#1817** — reassess if backlog drops below 35.
 4. **GSC watch** — "mario duplantier gear" 25% CTR pos 6.5; if #1812 ships, watch for position improvement next cycle.
+
+---
 
 ---
 
@@ -1340,6 +1449,8 @@ Extra run at 14:05 UTC. Metrics fresh 14:01 UTC: 1,363 impr / 22 clicks / 1.61% 
 
 ---
 
+---
+
 ## 2026-06-19 11:32 — 6 proposals promoted, batch covers genre + LLM + sitemap + SoundLike
 
 ### Context
@@ -1380,6 +1491,8 @@ Extra run at 11:32 UTC (between scheduled mid-day and evening slots). Metrics 11
 
 ---
 
+---
+
 ## 2026-06-19 19:00 (state-confirm — evening review)
 - Backlog: 25 ai-fix · 0 PRs open · proposals untriaged: 1 (#1660 — held, 3★)
 - GA4/GSC (7d): 45 users / 61 sessions / 1,363 impr / 22 clicks / 1.61% CTR / pos 8.6
@@ -1387,6 +1500,8 @@ Extra run at 11:32 UTC (between scheduled mid-day and evening slots). Metrics 11
 - Actions: #1660 (SearchAction) held as seo-proposal — 3★ in promote-sparingly mode; Joey Jordison articles already exist (Iowa + kit guide); no new ai-fix filed
 - Shipped today: FAQPage + CollectionPage on /brands, /lists, /compare (~23 pages), Person+FAQPage+MusicGroup on 62 drummer profiles, George Kollias article, /llms/licks/ (8 files), /stats FAQPage — largest schema batch to date
 - Next check: 07:00 tomorrow — expect overnight Ralph queue movement; watch for CTR lift from today's FAQPage batch across 100+ pages; priority: #1779 (31 LLM article files) + articles (#1783 Gavin Harrison, #1784 Charlie Benante, #1786 Brann Dailor, #1792 Mike Mangini, #1793 Dirk Verbeuren, #1798 Aquiles Priester)
+
+---
 
 ---
 
@@ -1443,6 +1558,8 @@ Mid-day pulse. Metrics fresh 07:53 UTC: 1,363 impr / 22 clicks / 1.61% CTR / pos
 
 ---
 
+---
+
 ## 2026-06-19 07:00 — 4 PRs resolved, 6 proposals promoted, 1 CEO issue filed (Brann Dailor)
 
 ### Context
@@ -1475,6 +1592,8 @@ Morning deep run. Metrics fresh 05:45 UTC: 1,148 impr / 18 clicks / 1.57% CTR / 
 2. **#1779 (/llms/articles/ 31 files)** — largest batch in current queue; verify Ralph picks it up; expect 1-2 day runtime.
 3. **Article velocity** — Charlie Benante (#1784) + Gavin Harrison (#1783) + Brann Dailor (#1786) now in queue; at Ralph's current throughput expect 1-2 articles by afternoon.
 4. **Backlog watch** — at 17; below 25 refill target; morning run SEO Agent may drop new proposals.
+
+---
 
 ---
 
@@ -1547,6 +1666,8 @@ Evening run. Metrics unchanged (1,148 impr / 18 clicks / 1.57% CTR). 30 open PRs
 
 ---
 
+---
+
 ## 2026-06-19 13:00 — 9 PRs resolved, 6 proposals triaged (1 promoted), backlog 48→41
 
 ### Context
@@ -1580,6 +1701,8 @@ Mid-day pulse. Metrics unchanged from 01:58 UTC run (1,148 impr / 18 clicks / 1.
 2. **Backlog check** — Ralph active on 3 issues (#1452/#1450/#1455); expect ~38 backlog by evening → promote 4★ proposals (#1661, #1663, #1664) to top up.
 3. **Merge any new PRs** — Ralph's PRs #1698/#1699/#1700 likely ready to merge by evening.
 4. **CTR watch** — 1.57% this morning; drummer profile SSR (#1659) + battles SSR (#1693) both need indexing cycle to impact.
+
+---
 
 ---
 
@@ -1644,361 +1767,6 @@ Morning deep run. Metrics fresh 00:52 UTC: 1,148 impr / 18 clicks / 1.57% CTR / 
 4. **CTR watch** — 1.57% this morning (down from 1.74%); batch SSR fixes + article merges from today need 1 indexing cycle (~5 days) to reflect.
 
 ---
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-18 19:50 — 12 proposals triaged (all approved), 7 duplicate PRs merged
-
-### Context
-Evening run. Metrics fresh 19:42 UTC: 1,322 impr / 23 clicks / 1.74% CTR / pos 8.5. Founder inbox empty. 12 untriaged seo-proposals (#1473–#1484). 7 open PRs (#1503–#1509) — all for issues #1347-#1354 already implemented by earlier PRs (#1460-#1468 merged at 17:01Z).
-
-### Actions taken
-- **Investigated 7 duplicate PRs:** Ralph re-ran on issues #1347-#1354 which stayed OPEN after prior PRs merged (no "closes #" keyword auto-close triggered). New PRs #1503-#1509 were log-only updates confirming fixes already live (#1508/#1509 overwrote compact "already-shipped" logs with raw issue body — minor quality regression). Decision: merge all 7 to close the issues.
-- **Merged 7 PRs:** #1503–#1509. All log-only; actual code changes were in earlier PRs #1419-#1425 merged 17:01Z. Issues #1347–#1354 now closed.
-- **Triaged 12 seo-proposals → all APPROVED → `ai-fix`:**
-  - **#1473** (/battles/<slug> individual pages — sitemap + SSR + FAQPage, ~8 pages) → APPROVE. FAQPage = AI Overview eligibility for drummer matchup queries.
-  - **#1474** (/drummers/<slug>/signature/<gearSlug> — SSR meta + Product + BreadcrumbList, ~2 pages) → APPROVE. Product schema on signature gear = high purchase-intent signal.
-  - **#1475** (/drummers/<slug>/evolution gear history — sitemap + SSR + Article schema, ~3 pages) → APPROVE. Compounds gear-history BreadcrumbList work already in queue.
-  - **#1476** (/llms/battles/<slug>.md — 8 per-matchup LLM markdown files) → APPROVE. Fills battles axis in LLM citation surface; mirrors per-drummer pattern.
-  - **#1477** (/battles hub — CollectionPage + FAQPage JSON-LD) → APPROVE. Hub AI Overview eligibility; atomic.
-  - **#1478** (Arin Ilejay article — Avenged Sevenfold) → APPROVE. A7X has massive mainstream+metal TAM; high search volume.
-  - **#1479** (Jocke Wallgren article — Amon Amarth, viking metal) → APPROVE. Dedicated fanbase; no editorial content yet.
-  - **#1480** (Raymond Herrera article — Fear Factory, industrial metal) → APPROVE. Double bass specialist; Fear Factory fanbase strong.
-  - **#1481** (Daniel Erlandsson article — At The Gates/Arch Enemy, melodic death) → APPROVE. Two major bands; high-value compound.
-  - **#1482** (Daray article — Marilyn Manson, mainstream crossover) → APPROVE. Huge name recognition; crossover TAM.
-  - **#1483** (Nick Augusto article — Sepultura post-Igor era) → APPROVE. Compounds existing Sepultura cluster.
-  - **#1484** (John Otto article — Limp Bizkit, nu-metal) → APPROVE. Nu-metal revival TAM; adds to genre completeness.
-
-### State delta
-- **ai-fix queue: 65 → 77** (closed 7 by merges, approved 12 new — net +12 adjusting for the 7 closures, but issue count went from 65 to 77 because the closed issues lowered the base further; Ralph also shipped other items between runs).
-- **Open PRs: 7 → 0.**
-- **No stale issues** — all ai-fix <24h old.
-
-### Quota check
-✅ SEO proposals: 12/12 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1380 (Joey Jordison 128 impr/0.78% CTR) confirmed in ai-fix queue. ✅ Atomic-split: no issues >3 days old. ✅ Decisions logged.
-
-### Next Run (2026-06-19 07:00 morning)
-1. **Article velocity** — Arin Ilejay, Daray, Jocke Wallgren, Raymond Herrera, Daniel Erlandsson, Nick Augusto, John Otto all approved today; monitor Ralph progress alongside earlier batch (Menza, Hellhammer, Orbin, Richardson, Yeung, Mazurkiewicz, Larkin).
-2. **Battles schema batch** (#1473-#1477) — /battles section getting full SSR + schema + LLM treatment; high priority for AI Overview coverage on drummer matchup queries.
-3. **CTR trajectory** — 1.74% soft; #1347 (157 lick pages HowTo+VideoObject) merged 17:01Z and needs indexing time.
-4. **DefinedTerm + MusicAlbum entities** (#1453, #1454) — highest LLM moat in queue; confirm Ralph picks these up.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-18 17:10 — 12 proposals triaged (all approved), 7 PRs merged
-
-### Context
-Evening run. Metrics fresh 16:59 UTC: 1,322 impr / 23 clicks / 1.74% CTR / pos 8.5. Founder inbox empty. 12 untriaged seo-proposals (#1446–#1457). 7 open PRs from Ralph all MERGEABLE.
-
-### Actions taken
-- **Merged 7 PRs:** #1460 (#1348 /vs hub SSR), #1461 (#1347 lick pages HowTo+VideoObject+MusicRecording — 157 pages), #1462 (#1349 /guides hub SSR), #1464 (#1350 /tools/<slug> SSR), #1465 (#1351 /llms/tools/name-generator.md), #1467 (#1353 /drummers hub FAQPage), #1468 (#1354 gear-history BreadcrumbList). All issues auto-closed.
-- **Triaged 12 seo-proposals → all APPROVED → `ai-fix`:**
-  - **#1446** (Nick Menza article — Megadeth, thrash legend) → APPROVE. Megadeth = massive TAM; no editorial content.
-  - **#1447** (Hellhammer article — Mayhem/Dimmu Borgir, black metal icon) → APPROVE. Black metal completeness; dedicated fanbase.
-  - **#1448** (Travis Orbin article — Periphery/djent) → APPROVE. Djent scene's most technical drummer; high search intent.
-  - **#1449** (Blake Richardson article — Between the Buried and Me) → APPROVE. Prog-metal completeness; dedicated BTBAM fanbase.
-  - **#1450** (/llms/guides/<slug>.md — 10 soundLike guide pages, zero LLM surface) → APPROVE. Mirrors per-drummer LLM pattern; AI citation coverage gap.
-  - **#1451** (/guides/<slug> soundLike — HowTo JSON-LD + Article schema, ~10 pages) → APPROVE. HowTo = AI Overview eligibility; complements #1450 LLM surface.
-  - **#1452** (/drummer/<slug>/endorsements FAQPage JSON-LD, ~15 pages) → APPROVE. AI Overview eligibility on high-intent endorsement queries.
-  - **#1453** (Technique pages DefinedTerm JSON-LD, ~10 techniques) → APPROVE. DefinedTerm = definitional authority for AI technique queries. High long-term LLM moat.
-  - **#1454** (Album articles MusicAlbum + MusicGroup entity in 'about', ~30 articles) → APPROVE. Entity enrichment for AI disambiguation; long-term training signal.
-  - **#1455** (SoundLike guide pages bidirectional cross-links to lick pages + album articles) → APPROVE. PageRank flow; discovery improvement.
-  - **#1456** (Tim Yeung article — Morbid Angel, death metal) → APPROVE. No editorial content; death metal TAM.
-  - **#1457** (/llms/ index.md refresh — add guides/, brands/, endorsements/, vs/) → APPROVE. Atomic maintenance; LLM surface accuracy after multiple content types shipped.
-
-### State delta
-- **ai-fix queue: 43 → 65** (approved 12 new proposals; 7 closed by merged PRs; prior batches #1427–#1445 added 11 since 11:30 run).
-- **PRs merged: 7** → 0 open PRs.
-- **No stale issues** — all ai-fix issues opened today.
-
-### Quota check
-✅ SEO proposals: 12/12 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1380 (Joey Jordison — 128 impr, 0.78% CTR) in ai-fix queue. ✅ Atomic-split: all issues <24h old. ✅ Decisions logged.
-
-### Next Run (2026-06-19 07:00 morning)
-1. **CTR trajectory** — 1.74% soft; #1346 extendedBios bug + #1347 lick JSON-LD (157 pages, merged this run) need indexing time. Check if pos improves.
-2. **Lick + schema batch impact** — PRs merged today: /vs hub, /guides hub, /tools SSR, /drummers hub FAQPage, gear-history BreadcrumbList, lick 157-page HowTo+VideoObject. Vercel should deploy within minutes; monitor.
-3. **Technique DefinedTerm + Album MusicAlbum entities** (#1453, #1454) — highest long-term LLM moat issues in queue; confirm Ralph picks them up early.
-4. **Article velocity** — 8 new articles in queue (Nick Menza, Hellhammer, Travis Orbin, Blake Richardson, Tim Yeung + earlier batch). At current throughput Ralph ships 3-4/day; queue should clear mid-week.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-18 11:30 — 10 proposals triaged (all approved), 1 stale closed
-
-### Context
-Mid-day pulse (early, metrics fresh 11:20 UTC). 1,322 impr / 23 clicks / 1.74% CTR / pos 8.5. 0 open PRs. PR#1406 merged since morning run (closes #1324). 10 new seo-proposals (#1407–#1416) untriaged.
-
-### Actions taken
-- **Closed 1 stale issue:** #1324 (/articles CollectionPage+ItemList) — fixed by PR#1406 (merged 08:33 UTC); PR#1360 was an earlier duplicate fix (05:49 UTC).
-- **Triaged 10 seo-proposals → all APPROVED → `ai-fix`:**
-  - **#1407** (/battles + /quotes + /endorsement-news + /facts SSR meta, 4 hub pages) → APPROVE. Same bug class; remaining hub pages with generic fallback. Atomic.
-  - **#1408** (/brands hub + /brands/<slug> SSR meta, 9 pages) → APPROVE. Brand pages have commercial intent; affiliate funnel entry point.
-  - **#1409** (/compare/<slug> gear comparison SSR meta + BreadcrumbList, ~6 pages) → APPROVE. Comparison pages = high purchase intent. Atomic.
-  - **#1410** (/tools/compare hub + top-20 drummer compare pages SSR meta, ~21 pages, priority 0.95/0.9) → APPROVE. Highest-priority pages in batch serving generic meta.
-  - **#1411** (/drummers/<slug>/endorsements SSR meta, ~15 pages, priority 0.85) → APPROVE. Endorsement pages with celebrity drummer names = high search intent.
-  - **#1412** (/guides/<slug> generic title bug, priority 0.95) → APPROVE. Budget/beginner guide queries have commercial intent; same bug class as guides hub already fixed.
-  - **#1413** (Navene Koperweis article) → APPROVE. Navene is a consistent GA4 organic winner (/drummer/navene-koperweis repeatedly in top pages); article compounds existing profile authority.
-  - **#1414** (Ray Luzier drum setup article) → APPROVE. Korn = massive TAM. Consistent with article strategy (Matt Greiner 15.79% CTR, Joey Jordison 128 impr in queue).
-  - **#1415** (per-brand LLM markdown, ~8 brands, /llms/brands/<slug>.md) → APPROVE. Fills per-brand gap in LLM surface; mirrors per-drummer/per-technique pattern.
-  - **#1416** (/llms/endorsements.md cross-brand endorsement index) → APPROVE. Atomic single file; fills endorsement axis in LLM citation surface.
-
-### State delta
-- **ai-fix queue: 33 → 43** (closed 1 stale, approved 10 new proposals).
-- **Open PRs: 0** — no change.
-- **#1324 stale:** closed (PR#1406 merged 08:33 UTC; was duplicate of PR#1360 at 05:49 UTC — both fixed same issue).
-
-### Quota check
-✅ SEO proposals: 10/10 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: "joey jordison drum set" (128 impr, 0.78% CTR) → #1380 article in ai-fix queue (morning run). ✅ Atomic-split: all 43 issues <3 days old. ✅ Decisions logged.
-
-### Next Run (2026-06-18 19:00 evening)
-1. **#1346 extendedBios.js title bug** — highest CTR impact pending; ~40 drummer pages showing "Biography" in SERP instead of "Drum Kit & Gear Setup". Watch for Ralph's PR.
-2. **#1347 lick JSON-LD SSR** — 157 pages × VideoObject + HowTo; verify PR ships and schema validates.
-3. **SSR batch progress** — 10 new proposals approved today; monitor Ralph picks up the SSR-heavy items (#1407–#1412) first.
-4. **CTR trajectory** — 1.74% is soft; extendedBios fix + article batch need ~5 days indexing. Monitor impr growth.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-18 07:41 — 10 proposals triaged (9 approved, 1 rejected), 1 PR merged, 3 stale issues closed, 2 dupe PRs closed
-
-### Context
-Morning deep run. Metrics fresh (07:41 UTC): 1,322 impr / 23 clicks / 1.74% CTR / pos 8.5. Slight CTR dip vs prior week (1.94%) — expected indexing lag from yesterday's article + SSR batch. 10 new seo-proposals (#1379–#1388). 3 open PRs when run started; 28 ai-fix issues after triage.
-
-### Actions taken
-- **Merged 1 PR:** #1395 (gear-history SSR meta, 3 pages, closes #1308) — MERGEABLE, squash merged.
-- **Closed 2 duplicate PRs:** #1394 (for already-fixed #1303 — only had ralph-runs JSON, no real fix), #1393 (third PR for already-fixed #1300 — issue had merged twice without auto-closing).
-- **Closed 3 stale issues:** #1300 (fixed by PR#1390 + PR#1392), #1303 (fixed by PR#1343), #1308 (fixed by PR#1395 this run).
-- **Triaged 10 seo-proposals → 9 APPROVED, 1 REJECTED:**
-  - **#1379** (/gear/<brand>/<series>/drummers-using SSR meta + CollectionPage, ~40 pages) → APPROVE. Purchase-intent pages; large SSR gap batch.
-  - **#1380** (Joey Jordison complete drum setup article) → APPROVE. **GSC's #1 gap**: 128 impr, 0.78% CTR, pos 9.0. Creates second ranking URL at /articles/joey-jordison-drum-setup. Same strategy as Matt Greiner article which hit 15.79% CTR.
-  - **#1381** (Gear item pages SSR meta, ~10 pages) → APPROVE. Same bug class. Purchase-intent.
-  - **#1382** (/quiz FAQPage JSON-LD) → APPROVE. Quiz is a high-traffic page; FAQPage = AI Overview eligibility.
-  - **#1383** (Gear brand pages SSR meta, ~8 pages) → APPROVE. Same bug class.
-  - **#1384** (Tomas Haake article) → **REJECT — DUPLICATE.** /articles/whats-in-tomas-haakes-kit already live in albumArticles.js (confirmed in GA4 top pages). Creating a second article = cannibalization.
-  - **#1385** (Gene Hoglan drum setup article) → APPROVE. Legend across Death, Dark Angel, Strapping Young Lad, Testament. High TAM. No existing article.
-  - **#1386** (/llms/drummers/<slug>.md Signature Licks section, 63 files) → APPROVE. 100% lick coverage now complete; enriching LLM per-drummer files with lick data is the natural next step for AI citation surface.
-  - **#1387** (Gear item pages 'Drummers Who Use This Gear' section) → APPROVE. Internal linking gear→drummer = PageRank flow + discovery + conversion.
-  - **#1388** (/drummers/<slug>/licks hub FAQPage JSON-LD, ~63 pages) → APPROVE. FAQPage on lick hubs = AI Overview eligibility. Compounds with #1347 (lick JSON-LD SSR, already in queue).
-
-### State delta
-- **Stale issues closed:** 3 (#1300, #1303, #1308). Duplicate PRs closed: 2 (#1393, #1394).
-- **ai-fix queue: 22 → 28** (closed 3 stale from queue; 9 proposals approved).
-- **PR queue: 3 → 0** (merged #1395, closed #1393 + #1394).
-- **No CEO-original issues filed** — queue at 28 is healthy; no gaps beyond what proposals cover.
-
-### Quota check
-✅ SEO proposals: 10/10 triaged (9 approved, 1 rejected as duplicate). ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1380 approved (Joey Jordison article — 128 impr, 0.78% CTR, #1 gap). ✅ Atomic-split: all issues <1 day old. ✅ Decisions logged.
-
-### Next Run (2026-06-18 13:00 mid-day pulse)
-1. **#1346 extendedBios.js bug** — highest-priority fix in queue; watch for Ralph's PR (unblocks CTR for ~40 pages).
-2. **#1347 lick JSON-LD SSR** — 157 pages × VideoObject + HowTo; verify PR ships.
-3. **CTR trajectory** — 1.74% soft; extendedBios fix + article batch need ~5 days indexing to reflect.
-4. **Duplicate PR pattern** — #1377 (PR template auto-close fix) is in queue; once shipped, the "#NNN stale cleanup" pattern should stop.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-18 19:00 — 100% lick milestone confirmed, 13 stale closed, 8 dupe PRs closed, 9 proposals approved
-
-### Context
-Evening run. 27 PRs merged since midnight UTC (Ralph shipped entire 13:00 + new batch at 03:58 UTC). Metrics: 1,115 impr / 1.70% CTR / pos 8.4 (fresh 05:37 UTC). 10 new seo-proposals untriaged (#1346–#1357). Founder inbox empty.
-
-### Actions taken
-- **100% lick milestone confirmed:** PR#1335 (Chris Turner + Isaac Lamb) merged 03:12 UTC → all 63 featured drummers now have signature lick pages. /llms.txt refresh (#1306 → PR#1345) also shipped.
-- **Closed 13 stale-open issues** (PRs merged in 03:58 batch, no auto-close): #1330 (→#1366), #1329 (→#1365), #1328 (→#1364), #1327 (→#1363), #1326 (→#1362), #1325 (→#1361), #1310 (→#1359), #1309 (→#1358), #1307 (→#1352), #1306 (→#1345), #1304 (→#1344), #1301 (→#1340), #1299 (→#1338).
-- **Closed 8 duplicate PRs:** Ralph created PRs #1369–#1376 for issues that the 03:58 batch had already fixed. Root cause: issues weren't auto-closed, so Ralph's watcher saw them as open. Closed all 8 with explanatory comments.
-- **Triaged 10 seo-proposals → 9 APPROVED, 1 REJECTED:**
-  - **#1346** (extendedBios.js metaTitle override — ~40 'Biography' titles) → APPROVE. **Highest-priority bug this run.** Client-side JS overrides correct SSR "Drum Kit & Gear Setup" title with "Biography" for ~40 drummers. Ben Koller is pos 3.3 / 0% CTR — this title mismatch is the root cause. Fix = remove or gate the `document.title` override in App.js.
-  - **#1347** (Lick pages HowTo + VideoObject + MusicRecording JSON-LD — 157 pages) → APPROVE. Largest impact: 157 lick pages currently serve zero JSON-LD to crawlers. VideoObject schema = Google Video Pack eligibility. HowTo = AI Overview eligibility. Same bug class as #1189 (vs pages schema SSR fix).
-  - **#1353** (/drummers hub FAQPage — #2 organic page) → APPROVE. #2 organic page (10 views/7d), already has CollectionPage+ItemList. FAQPage addition = AI Overview eligibility. Atomic add to SSR handler.
-  - **#1348** (/vs hub SSR meta + CollectionPage) → APPROVE. Hub index missing SSR; 57 pages underneath already fixed. Atomic.
-  - **#1349** (/guides hub SSR meta + CollectionPage) → APPROVE. Same bug class; 11 guide pages underneath already fixed.
-  - **#1350** (/tools/\<slug\> SSR meta — 4 of 6 tool pages) → APPROVE. Tool pages at sitemap priority 0.95 serving generic fallback. Atomic.
-  - **#1351** (/llms/tools/name-generator.md missing) → APPROVE. Single file; all other 5 tools have llms/ coverage.
-  - **#1354** (Gear-history BreadcrumbList — 3 pages) → APPROVE. Atomic follow-on to #1308 (SSR meta).
-  - **#1357** (Drummer profile → related articles links — reverse of #1332) → APPROVE. Bidirectional internal links: #1332 adds article→profile, this adds profile→article. High-traffic pages linking to articles = PageRank flow. Compounds with #1332 (in-flight PR#1368).
-  - **#1356** (Ben Koller article) → **REJECT** — duplicate of #1341 (CEO-filed, already in ai-fix). Closed with reference to #1341.
-
-### State delta
-- **Stale issues closed:** 13. Duplicate PRs closed: 8.
-- **ai-fix queue: 25 → 21** (13 stale closed, 8 dupe-PR issues stayed open, 9 new approved, 1 rejected). 6 legitimate PRs open in-flight.
-- **100% lick milestone:** all 63 drummers have lick pages + LLM markdown. /llms.txt advertising this is live.
-- **27 PRs merged today total** (01:30 + 03:12 + 03:58 batches).
-- **Key bug approved:** #1346 extendedBios.js title override — once fixed, ~40 drummer pages will show "Drum Kit & Gear Setup" in SERP instead of "Biography".
-
-### Quota check
-✅ SEO proposals: 10/10 triaged (9 approved, 1 rejected as dupe). ✅ Founder ideas: inbox empty. ✅ GSC-gap: "joey jordison drum set" → #1261 shipped (PR#1311). ✅ Atomic-split: all issues <1 day old. ✅ Decisions logged.
-
-### Next Run (2026-06-19 07:00 deep run)
-1. **#1346 extendedBios bug** — watch for Ralph's PR; this unblocks CTR for ~40 pages including ben koller (pos 3.3).
-2. **#1347 lick JSON-LD SSR** — 157 pages × VideoObject; verify PR ships and schema validates via Google Rich Results Test on a sample lick.
-3. **CTR trajectory** — 1.70% is soft vs 1.94% prior week; the SSR + article + schema batch needs ~1 indexing cycle (~5 days) to reflect. Monitor impr growth as pages re-index.
-4. **Duplicate PR pattern** — Ralph opened 8 duplicate PRs because issues weren't auto-closed. Root fix: add "closes #NNN" keyword to PR body template so GitHub auto-closes on merge.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-18 13:00 — 11 stale issues closed, 10 proposals approved, queue 17 active
-
-### Context
-Mid-day pulse. 0 open PRs — Ralph shipped the entire 07:10 batch at 01:30 UTC (before the 07:10 log was even written); issues didn't auto-close. 10 new seo-proposals untriaged (#1299–#1310). Metrics: 1,115 impr / 1.70% CTR / pos 8.4 (fresh 01:52 UTC). Founder inbox empty.
-
-### Actions taken
-- **Closed 11 stale-open issues** (PRs merged at 01:30 UTC, didn't auto-close): #1272 (→#1320), #1270 (→#1319), #1274 (→#1318), #1273 (→#1316), #1271 (→#1314), #1267 (→#1313), #1261 (→#1311), #1223 (→#1305), #1266 (→#1302), #1265 (→#1298), #1219 (→#1296).
-- **Triaged 10 seo-proposals → all APPROVED → `ai-fix`:**
-  - **#1299** (/history SSR meta, 1 page) — same bug class as all shipped SSR fixes. Atomic. APPROVE.
-  - **#1300** (/gear hub SSR meta, 1 page) — gear hub = gateway for purchase-intent queries + affiliate funnel. APPROVE.
-  - **#1301** (/gear/\<category-slug\> SSR meta, ~6 pages) — gear category pages have purchase intent; keyword-matched snippets needed. APPROVE.
-  - **#1303** (/stats/gear-insights SSR meta, 1 page) — data-driven page can rank for stats queries. Atomic. APPROVE.
-  - **#1304** (/llms/index.md stale) — all new content types (licks, techniques, bands, tools, gear-series, vs/) are unlisted; direct AI citation surface fix. APPROVE.
-  - **#1306** (/llms.txt refresh — 100% lick + new surfaces) — sequencing note: ideal after #1248 ships; Ralph can handle self-sequencing. APPROVE.
-  - **#1307** (FAQPage JSON-LD on band pages, ~19 pages) — band SSR meta live; FAQ schema → rich snippet eligibility. APPROVE.
-  - **#1308** (/drummers/\<slug\>/gear-history SSR meta, 3 pages) — atomic, same bug class. APPROVE.
-  - **#1309** (/llms/gear-history.md) — gear timeline data is unique; fills brand/price-history citation gap in LLM surface. APPROVE.
-  - **#1310** (FAQPage JSON-LD on technique pages, ~10 pages) — technique SSR meta live (#1216); FAQ schema is the next layer. APPROVE.
-
-### State delta
-- **Stale-open issues closed:** 11. Ralph shipped everything from 07:10 run in one burst at 01:30 UTC.
-- **ai-fix queue: 19 → 7 (after stale closes) → 17 (after 10 approvals)** (#1239/#1240/#1241 on hold; 14 active).
-- **Shipped this cycle:** Matt Greiner article (#1267→#1313), Joey Jordison FAQ (#1261→#1311), gear-category SSR 90 pages (#1266→#1302), guides SSR 11 pages (#1265→#1298), lick→technique cross-links 157 pages (#1272→#1320), /llms/tools/ (#1273→#1316), /llms/gear-series/ (#1271→#1314), image sitemap (#1274→#1318), BreadcrumbList /vs/ (#1270→#1319), /llms/facts.md (#1223→#1305), Frost+Daray licks (#1219→#1296).
-- **#1248 (100% lick coverage)** still open, no PR yet. 63/63 milestone pending.
-
-### Quota check
-✅ SEO proposals: 10/10 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1261 shipped (PR #1311). ✅ Atomic-split: all <1 day old. ✅ Decisions logged.
-
-### Next Run (2026-06-18 19:00 evening)
-1. **#1248 milestone** — when Chris Turner + Isaac Lamb ships → 63/63 licks complete; #1306 (/llms.txt) is the follow-up.
-2. **#1276 (/llms/vs/ 57 files)** — largest pending item; verify Ralph picks it up.
-3. **#1237 (Homepage P2 restructure)** — structural UX change; verify it ships.
-4. **CTR watch** — 1.70% is soft; Matt Greiner article + Joey Jordison FAQ + SSR batch compound on next indexing cycle.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-18 07:10 — 11 PRs merged, 10 proposals approved, 14 issues closed
-
-### Context
-07:00 deep run. Metrics fresh (00:48 UTC): 1,115 impr / 19 clicks / 1.70% CTR / pos 8.4. Slight week-over-week dip (was 1,289 impr / 1.94% CTR) — expected indexing lag from the lick/UX batch. 10 new seo-proposals queued (#1265–#1276, 10 without ai-fix). 9 open PRs (1 CLEAN, 5 UNSTABLE/MERGEABLE, 3 CONFLICTING). Founder inbox empty.
-
-### Actions taken
-- **Closed 4 stale-open issues** (PRs already merged, didn't auto-close): #1246 (quiz LLM via #1287), #1242 (Tim Yeung/Nick Augusto via #1285), #1236 (Popular Brands via #1280), #1232 (action-wall styles via #1277).
-- **Merged 11 PRs:**
-  - #1281 ✅ (CLEAN — /llms/lists.md content; closes #1222)
-  - #1288 ✅ (UNSTABLE — /llms/licks/ expanded to 51 drummers; closes #1244)
-  - #1291 ✅ (UNSTABLE — John Otto + Jocke Wallgren licks; closes #1220)
-  - #1286 ✅ (CONFLICTING on index.js — CEO rebased onto main, added Jon Dette + Van Poederooyen after Tim Yeung/Nick Augusto/Jon Wallgren; closes #1245)
-  - #1289 ✅ (CONFLICTING on index.js — CEO rebased, added Kevin Talley + Morgan Ågren; closes #1247)
-  - #1290 ✅ (UNSTABLE — search box restore; closes #1231)
-  - #1284 ✅ (UNSTABLE — sticky condensed header; closes #1238)
-  - #1292 ✅ (UNSTABLE — engagement metrics; closes #1234)
-  - #1278 ✅ (CONFLICTING on App.js — CEO rebased; conflict was HEAD having PopularBrands + duplicate FilterBar vs branch having correct FilterBar-after-header placement. Resolution: keep PopularBrands from HEAD, take branch's FilterBar-after-header order with backgroundColor; closes #1233)
-  - #1293 ✅ (Ralph new — Browse by Gear Category; closes #1235)
-  - #1294 ✅ (Ralph new — action wall compact strip; #1232 already closed but improvement shipped)
-- **Triaged 10 seo-proposals → all APPROVED → `ai-fix`:**
-  - **#1266** (/drummer/\<slug>/\<category> gear SSR meta, ~90 pages) — largest untriaged SSR gap; mirrors the lick/list/technique SSR fixes that shipped. APPROVE.
-  - **#1267** (Matt Greiner article) — GSC's #1 CTR query (20% CTR, pos 7.0); article + FAQ will push toward page 1. APPROVE.
-  - **#1269** (Aquiles Priester article) — pos 5.1, 0% CTR; page 1 but invisible CTR = bad meta, article fixes it. APPROVE.
-  - **#1265** (/guides/ SSR meta, 11 pages) — same bug class as lick/list/technique SSR fixes. APPROVE.
-  - **#1270** (BreadcrumbList on /vs/ pages, 57 pages) — Article schema shipped (#1189), Breadcrumb missing; atomic. APPROVE.
-  - **#1271** (/llms/gear-series/ markdown, ~20 files) — new axis: per-series LLM markdown for brand+gear queries. APPROVE.
-  - **#1272** (lick→technique cross-links, 157 pages) — PageRank flow between content types; compound. APPROVE.
-  - **#1273** (/llms/tools/ markdown, 5 files) — last tool-section gap in LLM surface. APPROVE.
-  - **#1274** (image sitemap, 61 images) — image pack eligibility after ImageObject upgrade (#1173). APPROVE.
-  - **#1276** (/llms/vs/ markdown, 57 files) — per-comparison LLM markdown; mirrors per-drummer/per-technique pattern. APPROVE.
-- **GSC-gap quota:** "joey jordison drum set" (118 impr, 0.85% CTR, pos 9.0) — #1261 already filed. Quota met.
-
-### State delta
-- **ai-fix queue: 22 → 19** (14 issues closed via merges; 10 approved via proposals).
-- **Lick coverage: 57 → 63 drummers this run** (John Otto, Jocke Wallgren, Jon Dette, Ryan Van Poederooyen, Kevin Talley, Morgan Ågren). After #1248 ships → 100% coverage milestone.
-- **LLM lick surface: 51/63** after #1288; 20 more files covering full roster.
-- **UX shipped:** search hero, sticky header, FilterBar-after-header, metrics, Browse by Category, action wall compact, Popular Brands (prior run).
-- **0 open PRs** after 11 merges.
-
-### Quota check
-✅ SEO proposals: 10/10 triaged (all approved). ✅ Founder ideas: inbox empty. ✅ GSC-gap: #1261 in queue. ✅ Atomic-split: all open issues <1 day old. ✅ Decisions logged.
-
-### Next Run (2026-06-18 13:00 mid-day pulse)
-1. **100% lick milestone watch** — #1248 (Chris Turner + Isaac Lamb) closes 63/63; when shipped, update /llms.txt to advertise complete coverage.
-2. **SSR gap #1266** — 90 gear-category pages is the largest SSR fix in the queue; monitor Ralph picks it up.
-3. **Matt Greiner article #1267** — highest direct CTR impact; verify it ships quickly.
-4. **Metrics watch** — CTR 1.70% is slightly soft; the SSR + article batch should lift it over the next indexing cycle.
 
 ---
 

@@ -181,6 +181,174 @@ export const licks = {
         "hangar 18 drum tutorial"
       ]
     }
+  },
+  "nick-menza-tornado-of-souls-lick": {
+    "slug": "nick-menza-tornado-of-souls-lick",
+    "name": "Tornado of Souls Double-Bass Roll",
+    "shortName": "Tornado of Souls DB Roll",
+    "drummerId": 62,
+    "drummerName": "Nick Menza",
+    "drummerSlug": "nick-menza",
+    "band": "Megadeth",
+    "song": "Tornado of Souls",
+    "album": "Rust in Peace (1990)",
+    "category": "double-bass",
+    "style": "thrash-metal",
+    "difficulty": "expert",
+    "difficultyRating": 5,
+    "bpm": 210,
+    "bpmDisplay": "~210 BPM",
+    "timeSignature": "4/4",
+    "description": "The double-bass roll that launches each verse section of Tornado of Souls is one of the most technically refined momentum devices in Nick Menza's recorded output with Megadeth, and it represents a distinct analytical target from the song's celebrated melodic groove. Where the sustained melodic groove demonstrates precision and musical intelligence across extended passages, the double-bass roll into verse captures a more precise compositional gesture: the use of a carefully shaped kick drum burst to accelerate the song from one structural section to the next, creating the sensation of gears shifting while already at high speed. The technique appears at each structural hinge across the song, at the entry points into verse sections, where Menza builds a rapid, even double-bass figure over two to four bars before snapping cleanly into the locked groove that drives each verse forward. The execution demands absolute evenness between left and right kick: at the recorded tempo, any asymmetry between the two feet immediately registers as a stumble rather than a controlled roll, undermining the propulsive forward momentum the technique is designed to deliver. What distinguishes Menza's rolls from comparable figures in other thrash recordings is the dynamic shaping he applies throughout the approach. The rolls are not simply switched on at full speed; they build in intensity from their beginning to their peak before the clean transition into verse groove territory, so that the arrival feels earned and musically inevitable rather than abruptly inserted. This kind of crescendo shaping within a double-bass roll requires foot control and musical awareness that goes well beyond the ability to play kick patterns at high tempo — it requires the drummer to treat the bass drums as expressive instruments with genuine dynamic range, not merely as a speed-delivery mechanism. The Rust in Peace production brought the kick sound forward in the mix with unusual clarity for 1990, meaning every aspect of Menza's double-bass execution is fully audible and available as a detailed study for working drummers. Nick Menza's father Don Menza is a celebrated jazz saxophonist, and this musical background almost certainly informed Nick's understanding of dynamic shaping and melodic phrasing — qualities that set his thrash drumming apart from contemporaries who matched his speed without his musicality. For drummers building this technique, the approach begins with isolated endurance work at moderate tempos, focusing on absolute evenness before attempting any dynamic crescendo shaping. Once evenness between the feet is established and consistent, add the intentional dynamic build — starting at a defined lower intensity and swelling to full force over the designated bar count. Inserting the completed roll into the full-song transition context is the final step, undertaken only once the clean arrival into the verse groove can be executed consistently at recording tempo without rushing the transition or losing the pulse.",
+    "techniques": [
+      "double-bass",
+      "dynamic-shaping",
+      "riff-lock"
+    ],
+    "techniqueDetails": [
+      "Build the double-bass roll with an intentional crescendo — begin at lower dynamic and swell to full force",
+      "Maintain absolute evenness between left and right kick throughout the roll's full duration",
+      "Snap cleanly from the roll into the verse groove on the exact downbeat — no drift or hesitation",
+      "Practice the roll in isolation before inserting it into the full-song transition context",
+      "Use the kick sound's presence in the mix as feedback — the Rust in Peace recording reveals any asymmetry immediately"
+    ],
+    "video": null,
+    "tutorial": null,
+    "gearUsed": [
+      { "name": "Sonor Performer Kit", "type": "drums", "link": null },
+      { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Yamaha Double Bass Pedal", "type": "hardware", "link": null }
+    ],
+    "learningTips": [
+      "Build foot evenness at slow tempo first — record yourself and verify both kicks sound identical in weight and volume",
+      "Practice the crescendo shape deliberately at three dynamic levels before adding any speed increase",
+      "Target the exact transition point where the roll ends and the groove begins — that arrival must land cleanly on the barline",
+      "Listen to Rust in Peace with headphones and focus exclusively on the kick drum to study Menza's dynamic approach to each roll"
+    ],
+    "seo": {
+      "title": "Nick Menza Tornado of Souls Double Bass Roll - Megadeth Tutorial | MetalForge",
+      "description": "Learn Nick Menza's double-bass roll into verse from Megadeth's Tornado of Souls. Dynamic shaping, foot evenness, and transition technique breakdown.",
+      "keywords": [
+        "nick menza",
+        "tornado of souls double bass",
+        "megadeth drum tutorial",
+        "rust in peace drums",
+        "thrash double bass roll",
+        "nick menza double bass technique"
+      ]
+    }
+  },
+  "nick-menza-holy-wars-lick": {
+    "slug": "nick-menza-holy-wars-lick",
+    "name": "Holy Wars Gallop Groove",
+    "shortName": "Holy Wars Gallop",
+    "drummerId": 62,
+    "drummerName": "Nick Menza",
+    "drummerSlug": "nick-menza",
+    "band": "Megadeth",
+    "song": "Holy Wars...The Punishment Due",
+    "album": "Rust in Peace (1990)",
+    "category": "gallop-groove",
+    "style": "thrash-metal",
+    "difficulty": "advanced",
+    "difficultyRating": 4,
+    "bpm": 200,
+    "bpmDisplay": "~200 BPM",
+    "timeSignature": "4/4",
+    "description": "The gallop groove that drives the verse sections of Holy Wars...The Punishment Due is one of Nick Menza's most technically demanding and musically satisfying contributions to the Rust in Peace record, and it represents a distinct skill set from the song's opening blast material. Where the intro tests raw speed and blast clarity, the gallop groove demands that a drummer lock into a triplet-based rhythmic feel at high velocity while maintaining snare authority and dynamic consistency that keeps thrash drumming from collapsing into undifferentiated aggression. The gallop pattern — built on a triplet subdivision where the first and third notes of each group are emphasized to create a forward-leaning, rolling momentum — is one of thrash metal's foundational rhythmic devices, and Holy Wars presents it in one of the genre's most demanding performance contexts. Menza executes the gallop at sustained speed across extended verse passages without allowing the triplet feel to compress into a straight rhythm or the groove to lose its aggressive forward lean. The right foot's relationship to the guitar riff's galloping figure is particularly instructive: Menza locks the kick to the riff's accent structure in a way that amplifies the riff's energy rather than simply doubling every note, demonstrating a rhythmic orchestration awareness that distinguishes elite thrash drumming from technically competent but musically flat execution. The snare placement within the gallop groove maintains consistent authority despite the speed and density of the surrounding rhythmic texture — each backbeat cracks with a presence that cuts through the arrangement and reinforces the underlying pulse even when the gallop is creating maximum rhythmic density. The Hi-hat pattern that tops the groove is equally thoughtful: Menza avoids the common trap of robotically straight hi-hat work over a triplet feel, instead shaping the hi-hat pattern to complement and highlight the gallop rather than contradict it. Holy Wars runs for nearly seven minutes, making stamina and consistency across the song's full duration a genuine requirement alongside technical execution. Menza sustains the gallop feel with authority from the first bar to the last, and the evenness of his energy management across the full length is as instructive as the specific technique. For drummers, building this groove requires understanding the triplet subdivision at the fundamental level before attempting it at thrash tempo. Begin by establishing the gallop feel at a slow tempo with a click track, concentrating on the forward lean and triplet accent structure before raising the tempo incrementally. The challenge at speed is to avoid flattening the triplet feel into a straight rhythm — record yourself frequently and compare against the original to catch compression early. Connecting the kick to the guitar riff's movement, rather than playing a generic pattern, is the refinement that transforms a technically correct gallop into a musically integrated one. Holy Wars is one of the great drummer education texts in thrash metal, and this gallop groove is its most transferable lesson.",
+    "techniques": [
+      "gallop-groove",
+      "riff-lock",
+      "thrash-groove"
+    ],
+    "techniqueDetails": [
+      "Build the triplet-based gallop feel at slow tempo before attempting high-velocity execution",
+      "Maintain the forward lean and triplet accent structure — avoid flattening into a straight feel at speed",
+      "Lock the kick pattern to the guitar riff's gallop figure to amplify the riff's momentum rather than doubling every note",
+      "Keep snare backbeats authoritative and consistent at full gallop speed across the song's full seven-minute duration",
+      "Record frequently and compare to the original — compression of the triplet feel is the most common technical error"
+    ],
+    "video": null,
+    "tutorial": null,
+    "gearUsed": [
+      { "name": "Sonor Performer Kit", "type": "drums", "link": null },
+      { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Yamaha Double Bass Pedal", "type": "hardware", "link": null }
+    ],
+    "learningTips": [
+      "Start the gallop pattern at 100 BPM with a click — internalize the triplet feel fully before raising tempo",
+      "Practice the kick-riff lock by playing along with the isolated guitar track before adding the full band arrangement",
+      "Record at each tempo increment to catch triplet compression early before it solidifies into a habit",
+      "Build the full seven-minute stamina in practice — the gallop must maintain character at the end of the song as at the start"
+    ],
+    "seo": {
+      "title": "Nick Menza Holy Wars Gallop Groove - Megadeth Drum Tutorial | MetalForge",
+      "description": "Learn Nick Menza's thrash gallop groove from Megadeth's Holy Wars. Triplet subdivision, riff-lock, and high-velocity technique breakdown.",
+      "keywords": [
+        "nick menza",
+        "holy wars gallop groove",
+        "megadeth thrash groove",
+        "rust in peace drumming",
+        "thrash metal gallop pattern",
+        "nick menza verse groove"
+      ]
+    }
+  },
+  "nick-menza-sweating-bullets-lick": {
+    "slug": "nick-menza-sweating-bullets-lick",
+    "name": "Sweating Bullets Tick-Tock Swing",
+    "shortName": "Sweating Bullets Swing",
+    "drummerId": 62,
+    "drummerName": "Nick Menza",
+    "drummerSlug": "nick-menza",
+    "band": "Megadeth",
+    "song": "Sweating Bullets",
+    "album": "Countdown to Extinction (1992)",
+    "category": "swing-groove",
+    "style": "groove-metal",
+    "difficulty": "intermediate",
+    "difficultyRating": 3,
+    "bpm": 112,
+    "bpmDisplay": "112 BPM",
+    "timeSignature": "4/4",
+    "description": "Sweating Bullets from Megadeth's Countdown to Extinction (1992) contains the most rhythmically distinctive drumming in Nick Menza's entire Megadeth catalog — a tick-tock swing groove that is fundamentally unlike the straight thrash drumming that defines the bulk of his work with the band. The pattern has often been described as having a clock-like, almost mechanical pendulum quality: the hi-hat work alternates between an accented slightly open stroke and a tighter closed stroke in a deliberate swing rhythm, creating a sensation of back-and-forth motion that mirrors the song's disquieting psychological lyrical content about split personality and obsessive thought. This swing influence is one of the very few moments in Megadeth's commercial 1990s period where the jazz drumming tradition Menza grew up immersed in — his father Don Menza is a celebrated jazz saxophonist who performed with Stan Kenton and various major jazz ensembles — surfaces clearly in a rock metal context, giving the song a rhythmic character that no other Megadeth track shares. The song and groove were a calculated left-turn for the band, released as a single from the Countdown to Extinction album and demonstrating Mustaine's willingness to incorporate unusual rhythmic feels into commercial songwriting. The groove is not technically demanding in the manner that the Rust in Peace material is, but it presents its own specific challenges that are genuinely different in kind from thrash technique: the swing feel must be relaxed and authentic, not stiff or forced, and the tick-tock quality emerges from a precise relationship between the hi-hat accents and the snare and kick placements that collectively create the pendulum sensation rather than a generic rock beat. Many drummers learning this lick attempt to impose a straight feel onto the swing pattern, which immediately destroys the song's distinctive character and collapses it into generic mid-tempo rock. The medium tempo of approximately 112 BPM gives the limbs considerably more time than thrash material, but that extra time is a responsibility rather than a relief — each stroke must be placed deliberately with the correct amount of swing in the timing, and the relaxed feel must be intentional rather than incidental. For drummers, this lick is a rare opportunity to develop genuine swing feel within a metal context, cross-training the rhythmic vocabulary beyond straight subdivisions into territory that most metal drummers rarely visit. Begin by listening extensively to the original recording to internalize the swing ratio before touching the kit. Practice the hi-hat tick-tock pattern alone until it feels completely natural, then add the snare, and only introduce the kick drum once the two-limb swing feel is relaxed and consistent. The lesson transfers directly to any future situation calling for a groove that lives in the space between fully straight and fully swung — a rhythmic territory with enormous expressive potential for any metal drummer willing to develop it.",
+    "techniques": [
+      "swing-groove",
+      "hi-hat-control",
+      "groove-drumming"
+    ],
+    "techniqueDetails": [
+      "Establish the hi-hat tick-tock alternation — accented slightly open stroke followed by tighter closed stroke",
+      "Internalize the swing ratio through listening before attempting to combine all four limbs",
+      "Avoid imposing a straight feel on the swing pattern — the pendulum quality lives in relaxed timing relationships",
+      "Place the snare on beats 2 and 4 with consistent authority without disrupting the hi-hat swing feel",
+      "Keep the kick sparse and purposeful, anchoring to the quarter-note foundation rather than filling all available space"
+    ],
+    "video": null,
+    "tutorial": null,
+    "gearUsed": [
+      { "name": "Sonor Performer Kit", "type": "drums", "link": null },
+      { "name": "Paiste 2002 Cymbals", "type": "cymbals", "link": null },
+      { "name": "Yamaha Double Bass Pedal", "type": "hardware", "link": null }
+    ],
+    "learningTips": [
+      "Listen to the original recording repeatedly before touching the kit — the swing ratio must live in your ear first",
+      "Practice the hi-hat tick-tock pattern alone at 80 BPM until the pendulum feel is completely natural and unforced",
+      "Record yourself and compare directly to the recording — any stiffness in the swing timing is immediately audible in comparison",
+      "Explore jazz swing drumming briefly to understand the feel Menza draws on — the pattern makes more sense in that broader rhythmic context"
+    ],
+    "seo": {
+      "title": "Nick Menza Sweating Bullets Swing Groove - Megadeth Drum Tutorial | MetalForge",
+      "description": "Learn Nick Menza's unique tick-tock swing groove from Megadeth's Sweating Bullets. Countdown to Extinction swing feel, hi-hat control, and technique breakdown.",
+      "keywords": [
+        "nick menza",
+        "sweating bullets drums",
+        "megadeth swing groove",
+        "countdown to extinction drumming",
+        "tick-tock drum groove",
+        "nick menza swing feel"
+      ]
+    }
   }
 };
 

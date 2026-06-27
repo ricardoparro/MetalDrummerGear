@@ -34,7 +34,7 @@ the queue is empty or a cap is hit.**
 
 - **Cluster homogeneous issues.** Issues that are the same class of mechanical fix —
   same label (e.g. `broken-video`) AND/OR pointing at the same file/subsystem — are ONE
-  batch. Example: 30 `broken-video` issues all editing `data/albumArticles.js` = a single
+  batch. Example: 30 `broken-video` issues all editing files under `data/albumArticles/` = a single
   PR that closes all 30. Grinding these one-per-run is wrong: it's 30 reviews for what is
   really one cleanup, and it lets the backlog outpace the watcher.
 - **A standalone feature/bug issue is its own batch** (e.g. a content guide like #833).

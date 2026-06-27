@@ -14,11 +14,15 @@ on:
   # fired a full drain run, which was a large, mostly-redundant Actions cost.
   issues:
     types: [opened, reopened]
-  # Daytime safety-net poll only (every 2h, 08–22 UTC). Nights are covered by
-  # roadie-night-fleet.yml — running this single worker then just competed with
-  # the fleet for the Claude subscription rate limit and burned Actions minutes.
+  # Daytime safety-net poll only. Nights (20:00–08:00 Lisbon) are covered by
+  # roadie-night-fleet.yml; this single worker must not overlap it or they'd
+  # compete for the Claude subscription rate limit. So launches run only
+  # 07:00–17:00 UTC (= 08:00–18:00 Lisbon summer) and WALL_CAP_MIN below bounds
+  # each run to 2h, so the last 17:00 launch ends by 19:00 UTC (20:00 Lisbon),
+  # exactly when the fleet's first shift starts — a clean day/night handoff.
+  # Winter (Lisbon UTC+0): shift to '13 8-18/2 * * *'.
   schedule:
-    - cron: '13 8-22/2 * * *'
+    - cron: '13 7-17/2 * * *'
   workflow_dispatch:
 
 permissions:
@@ -67,6 +71,9 @@ jobs:
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
           REPO: ${{ github.repository }}
           GITHUB_RUN_ID: ${{ github.run_id }}
+          # Bound each day run to 2h so the last 17:00 UTC launch finishes by
+          # 19:00 UTC, before the night fleet starts (no overlap / rate-limit clash).
+          WALL_CAP_MIN: '120'
         run: |
           chmod +x .roadie/drain.sh
           .roadie/drain.sh

@@ -32,6 +32,7 @@ const drummers = [
       hardware: 'Tama Iron Cobra 900 Power Glide Double Pedal, Tama 1st Chair Throne',
       sticks: 'Ahead Lars Ulrich Signature Drumsticks'
     },
+    kitOverview: 'Lars Ulrich plays a Tama Star Classic Maple drum kit, the foundation of Metallica\'s thunderous live sound. The Star Classic Maple series delivers the punchy, cutting attack that drives Metallica\'s riffs, paired with Lars\'s signature Tama LU1465 snare drum — a 14x6.5" powerhouse known for its sharp crack and exceptional projection in arena and stadium settings.\n\nThe Lars Ulrich drum kit features Zildjian A Custom Series cymbals throughout: 14" hi-hats for crisp articulation, 18" and 19" crashes for explosive accents, a 20" China for aggressive color, and a 22" ride for rhythmic clarity. His foot control comes from Tama Iron Cobra 900 Power Glide double bass pedals, delivering the fast, consistent double kick patterns that define Metallica\'s classic thrash rhythms. Lars Ulrich\'s drum set is completed with Ahead Lars Ulrich Signature aluminum drumsticks, which he was among the first professional drummers to adopt for their durability during marathon world tours.',
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/7/79/Lars_Ulrich_by_Gage_Skidmore_%28cropped%29.jpg'
     ],
@@ -267,6 +268,7 @@ const drummers = [
       hardware: 'Tama Speed Cobra 910 Double Pedal, Tama 1st Chair Round Rider Throne',
       sticks: 'Vater 5B Wood Tip'
     },
+    kitOverview: 'Gene Hoglan plays a Tama Starclassic Walnut/Birch drum kit, a setup befitting the drummer nicknamed "The Atomic Clock" for his metronomic precision. The Starclassic Walnut/Birch combines warmth and attack — essential for navigating the extreme dynamics of death metal, thrash, and progressive metal that Hoglan commands across his work with Death, Testament, Dark Angel, and Dethklok.\n\nThe centerpiece of the Gene Hoglan drum kit is his signature Tama Gene Hoglan Signature snare drum — an exceptionally deep 14x8" model designed for thunderous power and cutting attack. The Gene Hoglan drum set features Zildjian A Custom Series cymbals: 15" hi-hats, 18" and 20" crashes, a 22" ride, and a 20" China. His double bass work is driven by Tama Speed Cobra 910 pedals, enabling the rapid precision that underpins his blast-beat passages across multiple metal subgenres. He plays Vater 5B Wood Tip sticks, favoring their balance and consistent feel across marathon clinic and touring schedules.',
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/6/60/Gene_Hoglan_-_Testament_%28cropped%29.jpg'
     ],
@@ -379,6 +381,7 @@ const drummers = [
       hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000BR Throne',
       sticks: 'Vic Firth American Classic 5B'
     },
+    kitOverview: 'Dave Lombardo plays a Pearl Masters Maple Complete drum kit, the setup that carries forward the legacy of one of thrash metal\'s most influential rhythm sections. As the original drummer of Slayer and architect of the double bass techniques that reshaped extreme metal, Lombardo\'s current drum set reflects both power and versatility — built for his diverse work with Slayer, Fantômas, Suicidal Tendencies, and Dead Cross.\n\nThe Dave Lombardo drum kit is anchored by his signature Pearl Dave Lombardo Signature snare drum — a 14x5.5" model built for cutting through Slayer\'s wall of sound. His cymbal selection comes from Paiste\'s RUDE and 2002 Series: 14" hi-hats, 18" and 19" crashes, a 20" Power Ride, and an 18" China, delivering the aggressive, cutting tones associated with classic albums like Reign in Blood. Pearl Demon Drive double bass pedals power the relentless kick patterns that defined thrash metal drumming. The Dave Lombardo drum set is completed with Vic Firth American Classic 5B sticks.',
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg'
     ],
@@ -695,6 +698,7 @@ const drummers = [
       hardware: 'Tama Iron Cobra Power Glide Double Pedal, Tama 1st Chair Ergo-Rider Throne',
       sticks: 'Promark Mike Portnoy Signature TX420N'
     },
+    kitOverview: 'Mike Portnoy plays a Tama Starclassic Maple/Birch drum kit, a versatile setup that matches his reputation as one of progressive metal\'s most decorated drummers — a 30-time recipient of Modern Drummer\'s Drummer of the Year award. The Starclassic Maple/Birch hybrid delivers the blend of warmth and projection needed to cover Dream Theater\'s intricate arrangements and the diverse catalog Portnoy brings to The Winery Dogs, Sons of Apollo, and Liquid Tension Experiment.\n\nThe centerpiece of the Mike Portnoy drum kit is his signature Tama Mike Portnoy Signature Melody Master snare — a 14x5.5" model tuned for articulate presence across complex time signatures. The Mike Portnoy drum set draws from Sabian\'s HHX Series: 14" Evolution hi-hats, 18" and 19" Evolution crashes, a 21" Raw Bell Dry Ride, 10" and 12" Evolution splashes, and a 19" O-Zone crash — giving him an enormous tonal palette. Tama Iron Cobra Power Glide double bass pedals handle his demanding double kick work, while Roland electronic pads expand the kit\'s sonic range into electronic territory. He plays Promark Mike Portnoy Signature TX420N sticks.',
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/2/28/Mike_Portnoy_2025_Tons_of_Rock-2.jpg'
     ],
@@ -734,6 +738,7 @@ const drummers = [
       hardware: 'Sonor Giant Step Twin Effect Double Pedal, Sonor Drummer Throne, Mandala Drum electronic pads',
       sticks: 'Vic Firth Danny Carey Signature'
     },
+    kitOverview: 'Danny Carey plays a Sonor SQ2 Heavy Beech drum kit, a massive setup that mirrors his reputation as one of the most technically advanced drummers in rock and metal. As Tool\'s drummer since the band\'s formation in 1990, Carey has built one of the most distinctive drum sets in modern music — a sprawling configuration designed to accommodate the complex polyrhythmic structures and unconventional time signatures that define Tool\'s sound.\n\nThe Danny Carey drum kit centers on his Sonor Danny Carey Signature snare drum — a deep 14x8" Bronze model chosen for its powerful, focused attack. His Paiste Signature Series cymbal array includes 15" Sound Edge hi-hats, 18" and 19" Power Crashes, a 22" Dry Heavy Ride, and 20" and 22" China cymbals, producing the dark, complex tones that color Tool\'s compositions. Sonor Giant Step Twin Effect double pedals drive his intricate foot patterns. The Danny Carey drum set also incorporates Mandala electronic drum pads that expand the kit\'s textural range, completed with Vic Firth Danny Carey Signature sticks.',
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/c/c1/Danny_Carey_Hellfest_2019.jpg'
     ],

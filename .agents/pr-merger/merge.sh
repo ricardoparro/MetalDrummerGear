@@ -8,13 +8,14 @@
 # when all *required* checks pass and a *non-required* check is red/pending
 # (a failing required check would be BLOCKED instead).
 #
-# Reaps DIRTY (content-conflicting) Ralph PRs instead of leaving them in limbo:
+# Reaps DIRTY (content-conflicting) Roadie PRs instead of leaving them in limbo:
 # closes the PR, deletes the branch, and clears the linked issue's
-# pr-opened/in-progress labels so Ralph re-implements cleanly from the latest
+# pr-opened/in-progress labels so Roadie re-implements cleanly from the latest
 # main on the next run. Without this, the first PR touching a shared file merges
-# and every later PR goes DIRTY forever (Ralph won't retry an issue that still
+# and every later PR goes DIRTY forever (Roadie won't retry an issue that still
 # has an open PR), so those issues stay open indefinitely. Human PRs are never
-# auto-closed — only branches matching `ralph/*`.
+# auto-closed — only bot branches matching `roadie/*` (or legacy `ralph/*`
+# during the rename transition).
 set -uo pipefail
 
 REPO="${REPO:-ricardoparro/MetalDrummerGear}"
@@ -61,18 +62,18 @@ merge_pr() {
   return 1
 }
 
-# Reap a Ralph PR that conflicts with main: close it, delete the branch, and
-# clear the linked issue's in-flight labels so Ralph re-implements it from a
-# fresh main next run. Closing a PR (vs merging) does NOT auto-close the linked
-# issue, so the issue correctly returns to the queue.
-reap_dirty_ralph_pr() {
+# Reap a bot PR (roadie/* or legacy ralph/*) that conflicts with main: close it,
+# delete the branch, and clear the linked issue's in-flight labels so Roadie
+# re-implements it from a fresh main next run. Closing a PR (vs merging) does NOT
+# auto-close the linked issue, so the issue correctly returns to the queue.
+reap_dirty_bot_pr() {
   local n="$1"
   local issue
   # First "#<number>" found in the body ("Closes #N") or title ("fix: #N ...").
   issue=$(gh pr view "$n" --repo "$REPO" --json body,title \
     --jq '((.body // "") + " " + (.title // "")) | capture("#(?<i>[0-9]+)").i // ""' 2>/dev/null)
   gh pr close "$n" --repo "$REPO" --delete-branch \
-    --comment $'<!-- pr-merger -->\n🤖 Auto-closed: this branch conflicts with `main` and cannot be auto-merged. Reaped so Ralph can re-implement the issue cleanly from the latest main on the next run.' >/dev/null 2>&1 || true
+    --comment $'<!-- pr-merger -->\n🤖 Auto-closed: this branch conflicts with `main` and cannot be auto-merged. Reaped so Roadie can re-implement the issue cleanly from the latest main on the next run.' >/dev/null 2>&1 || true
   if [[ -n "$issue" ]]; then
     gh issue edit "$issue" --repo "$REPO" \
       --remove-label pr-opened --remove-label in-progress >/dev/null 2>&1 || true
@@ -125,9 +126,9 @@ while :; do
     SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND held (blocking label)"); continue
   fi
   if [[ "$MERGEABLE" == "CONFLICTING" || "$MSS" == "DIRTY" ]]; then
-    if [[ "$HEAD_REF" == ralph/* ]]; then
-      reap_dirty_ralph_pr "$CAND"
-      SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND conflicts → reaped (Ralph re-implements)")
+    if [[ "$HEAD_REF" == roadie/* || "$HEAD_REF" == ralph/* ]]; then
+      reap_dirty_bot_pr "$CAND"
+      SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND conflicts → reaped (Roadie re-implements)")
     else
       comment_conflict_once "$CAND"
       SKIP[$CAND]=1; SKIPPED_LINES+=("#$CAND conflicts (human PR — left for rebase)")

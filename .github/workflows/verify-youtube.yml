@@ -9,6 +9,8 @@ on:
     branches:
       - main
       - 'claude/**'
+      - 'roadie/**'
+      - 'ralph/**'
     paths:
       - '.github/workflows/verify-youtube.yml'
       - 'scripts/verify-youtube-ids.cjs'

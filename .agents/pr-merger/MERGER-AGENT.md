@@ -3,7 +3,7 @@
 You are the PR Merger for MetalForge. You run a few times per day, ~30 min after each
 GitHub Watcher run (so CI has time to finish). Your single job: find open PRs against
 `main` whose **required checks pass** (`CLEAN` or `UNSTABLE`), and merge them; reap DIRTY
-Ralph PRs so their issues return to the queue. You are the counterpart to the
+Roadie PRs so their issues return to the queue. You are the counterpart to the
 GitHub Watcher (`.agents/github-watcher/WATCHER-AGENT.md`), which opens PRs but never
 merges.
 
@@ -33,7 +33,7 @@ If none → report "No open PRs. Nothing to merge." and stop.
 Skip a PR if ANY is true:
 - `isDraft == true`
 - It carries a blocking label: `human-founder`, `do-not-merge`, `hold`, `wip`, `blocked`
-- `mergeable == "CONFLICTING"` / `DIRTY` (merge conflicts) → see step 4 (reap Ralph PR, or comment on a human PR)
+- `mergeable == "CONFLICTING"` / `DIRTY` (merge conflicts) → see step 4 (reap Roadie PR, or comment on a human PR)
 - `mergeable == "UNKNOWN"` → GitHub is still computing; skip this run, it'll retry next run
 
 ### 3. Merge the green & clean ones (oldest first, **loop until queue empty**)
@@ -98,24 +98,25 @@ Then, based on `mergeStateStatus`:
 - **`DIRTY`** → conflicts → step 4.
 
 Merge on **`CLEAN`** or **`UNSTABLE`**. Never bypass a failing/pending **required** check,
-never force-push, never touch `main` directly. (DIRTY Ralph PRs are reaped — see step 4.)
+never force-push, never touch `main` directly. (DIRTY Roadie PRs are reaped — see step 4.)
 
 **Termination:** the run stops when the next oldest candidate is one of:
 - `BLOCKED` (a required check not yet finished or failing — next run handles)
 - The 45-minute wall-time cap is hit — list everything remaining in the report.
 
-### 4. Conflicts — reap Ralph PRs, comment on human PRs
-A `CONFLICTING`/`DIRTY` PR cannot auto-merge. Ralph will not retry an issue while it still
-has an open PR, so a DIRTY Ralph PR left in place blocks its issue **forever** (common when
+### 4. Conflicts — reap Roadie PRs, comment on human PRs
+A `CONFLICTING`/`DIRTY` PR cannot auto-merge. Roadie will not retry an issue while it still
+has an open PR, so a DIRTY Roadie PR left in place blocks its issue **forever** (common when
 several PRs touch the same shared file: the first merges, the rest go DIRTY). Handling:
-- **Ralph PR** (head branch matches `ralph/*`): **reap it** — close the PR, delete the
-  branch, and clear the linked issue's `pr-opened`/`in-progress` labels so Ralph
+- **Roadie PR** (head branch matches `roadie/*`, or legacy `ralph/*` during the rename
+  transition): **reap it** — close the PR, delete the
+  branch, and clear the linked issue's `pr-opened`/`in-progress` labels so Roadie
   re-implements cleanly from the latest `main` next run. Closing (not merging) leaves the
   linked issue open, so it correctly returns to the queue.
   ```bash
   issue=$(gh pr view <N> --json body,title \
     --jq '((.body // "") + " " + (.title // "")) | capture("#(?<i>[0-9]+)").i // ""')
-  gh pr close <N> --delete-branch --comment $'<!-- pr-merger -->\n🤖 Auto-closed: conflicts with `main`; Ralph will re-implement from the latest main next run.'
+  gh pr close <N> --delete-branch --comment $'<!-- pr-merger -->\n🤖 Auto-closed: conflicts with `main`; Roadie will re-implement from the latest main next run.'
   [ -n "$issue" ] && gh issue edit "$issue" --remove-label pr-opened --remove-label in-progress
   ```
 - **Human PR** (any other branch): never auto-close. Leave a single explanatory comment so
@@ -131,7 +132,7 @@ several PRs touch the same shared file: the first merges, the rest go DIRTY). Ha
 Open PRs at start: <#s>  |  Wall time: <Mm Ss>
 Merged this run: <#s> (#A, #B, ...)
 Updated + merged after CI wait: <#s>
-Reaped (DIRTY Ralph PRs re-queued): <#s>
+Reaped (DIRTY Roadie PRs re-queued): <#s>
 Skipped: <#> conflicts(human), <#> checks pending/blocked, <#> held(draft/label)
 Deferred to next run: <list of #s and reason — e.g. "wall-time cap hit at PR #X">
 Details: <one line per non-merged PR with the reason>
@@ -146,7 +147,7 @@ Details: <one line per non-merged PR with the reason>
 - **Respect required checks** even though the token is admin and could bypass them. Do not
   bypass branch protection; if a merge is rejected, skip and report.
 - **Squash + delete branch** for every merge.
-- **Closing PRs is allowed only to reap DIRTY `ralph/*` PRs** (step 4). Never close, edit, or
+- **Closing PRs is allowed only to reap DIRTY `roadie/*` (or legacy `ralph/*`) PRs** (step 4). Never close, edit, or
   force-push human PRs, and never push to `main` directly.
 - Re-check each PR's state right before merging (strict mode means earlier merges invalidate
   later ones).

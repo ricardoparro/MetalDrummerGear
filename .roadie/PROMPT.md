@@ -4,8 +4,8 @@
 
 ## Context
 
-Read `.ralph/AGENT.md` for project context and coding standards.
-Read `.ralph/fix_plan.md` if it exists for the current fix plan.
+Read `.roadie/AGENT.md` for project context and coding standards.
+Read `.roadie/fix_plan.md` if it exists for the current fix plan.
 
 ## Instructions
 
@@ -17,7 +17,7 @@ Read `.ralph/fix_plan.md` if it exists for the current fix plan.
 6. Commit with: `fix: #NNN <one-line summary>` (replace NNN with the issue number)
 7. If opening a PR, the PR body MUST include `Closes #NNN` on its own line so GitHub
    auto-closes the issue when the PR merges. Without this keyword the issue stays open
-   and Ralph will re-pick it on the next run, creating a duplicate PR.
+   and Roadie will re-pick it on the next run, creating a duplicate PR.
 
 ## Output Format
 

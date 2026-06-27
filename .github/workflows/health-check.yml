@@ -2,7 +2,7 @@ name: Health Check
 
 # Runs on a fixed 3-hour cadence (not per-deployment). Triggering on
 # `deployment_status` fired this once per Vercel deploy — 55+ times/day with the
-# Ralph fleet shipping that many PRs — which added load to an already-congested
+# Roadie fleet shipping that many PRs — which added load to an already-congested
 # Actions queue. A periodic check of the live site is enough for monitoring.
 on:
   workflow_dispatch:

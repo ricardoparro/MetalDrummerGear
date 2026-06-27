@@ -1,12 +1,12 @@
-name: Ralph (Watcher + Implementer)
+name: Roadie (Watcher + Implementer)
 
 # Drains the ENTIRE open issue queue (ANY label, or none — not just `ai-fix`):
 # implements every eligible issue, one branch + PR each, finishing only when no
 # issues remain (or the wall-clock guard trips — GitHub kills jobs at 6h, so we
 # stop cleanly at ~5h20m and the next run resumes). Eligibility (incl. the
-# human-flagged / non-actionable / hold exclusions) is decided in .ralph/drain.sh.
-# Replaces the local Ralph + the one-issue-per-run implementer.yml.
-# Specs: .ralph/AGENT.md, .agents/github-watcher/WATCHER-AGENT.md
+# human-flagged / non-actionable / hold exclusions) is decided in .roadie/drain.sh.
+# Replaces the local Roadie + the one-issue-per-run implementer.yml.
+# Specs: .roadie/AGENT.md, .agents/github-watcher/WATCHER-AGENT.md
 
 on:
   # React when an issue is opened or reopened. NOT on `labeled` — we churn
@@ -15,7 +15,7 @@ on:
   issues:
     types: [opened, reopened]
   # Daytime safety-net poll only (every 2h, 08–22 UTC). Nights are covered by
-  # ralph-night-fleet.yml — running this single worker then just competed with
+  # roadie-night-fleet.yml — running this single worker then just competed with
   # the fleet for the Claude subscription rate limit and burned Actions minutes.
   schedule:
     - cron: '13 8-22/2 * * *'
@@ -28,7 +28,7 @@ permissions:
 
 # Never run two drains at once — they'd race on branches/labels.
 concurrency:
-  group: ralph-implementer
+  group: roadie-implementer
   cancel-in-progress: false
 
 jobs:
@@ -68,14 +68,14 @@ jobs:
           REPO: ${{ github.repository }}
           GITHUB_RUN_ID: ${{ github.run_id }}
         run: |
-          chmod +x .ralph/drain.sh
-          .ralph/drain.sh
+          chmod +x .roadie/drain.sh
+          .roadie/drain.sh
 
       - name: Upload run logs
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: ralph-run-${{ github.run_id }}
-          path: .agents/ralph-runs/
+          name: roadie-run-${{ github.run_id }}
+          path: .agents/roadie-runs/
           retention-days: 14
           if-no-files-found: ignore

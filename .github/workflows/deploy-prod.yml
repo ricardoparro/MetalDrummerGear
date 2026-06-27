@@ -3,7 +3,7 @@ name: Deploy to Production (batched)
 # Production deploys are now BATCHED, not per-merge. `vercel.json` sets
 # git.deploymentEnabled.main = false, so pushing to `main` no longer triggers a
 # Vercel production build. Instead this workflow fires ONE prod deploy of the
-# current main HEAD — once after the overnight Ralph fleet has drained the
+# current main HEAD — once after the overnight Roadie fleet has drained the
 # queue, plus on-demand via workflow_dispatch (e.g. to ship a hotfix now).
 #
 # This removes the 55+ builds/day storm that was saturating Vercel's build queue

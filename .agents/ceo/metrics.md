@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-26 23:27 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-27 00:41 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,60 +8,60 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 118 |
-| Sessions | 134 |
-| Page views | 278 |
-| Engagement rate | 63.43% |
-| Avg session (s) | 525 |
+| Active users | 106 |
+| Sessions | 115 |
+| Page views | 193 |
+| Engagement rate | 63.48% |
+| Avg session (s) | 289 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 37 | 15 |
 | /drummer/joey-jordison | 29 | 16 |
-| /drummers | 16 | 4 |
-| /tools | 10 | 2 |
-| /drummer/hellhammer | 9 | 4 |
+| / | 26 | 13 |
+| /drummer/hellhammer | 10 | 4 |
 | /drummer/mario-duplantier | 9 | 8 |
-| /drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass | 9 | 1 |
 | /drummer/ben-koller | 7 | 6 |
-| /drummer/jaska-raatikainen | 7 | 6 |
-| /drummer/john-otto | 7 | 4 |
+| /drummer/inferno | 6 | 5 |
+| /drummer/john-otto | 6 | 3 |
+| /drummer/shannon-larkin | 6 | 5 |
+| /drummer/jaska-raatikainen | 5 | 5 |
+| /drummer/matt-greiner | 5 | 3 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 92 | 85 |
-| Direct | 33 | 26 |
+| Organic Search | 82 | 78 |
+| Direct | 24 | 21 |
 | Unassigned | 16 | 14 |
 | Cross-network | 1 | 1 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 2,808 |
-| Clicks | 74 |
-| CTR | 2.64% |
-| Avg position | 8.5 |
+| Impressions | 2,542 |
+| Clicks | 64 |
+| CTR | 2.52% |
+| Avg position | 8.6 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | flo mounier drum kit | 7 | 3 | 42.86% | 4.1 |
-| matt greiner drum setup | 16 | 3 | 18.75% | 7.0 |
 | gene hoglan drum kit | 3 | 2 | 66.67% | 8.0 |
 | jaska raatikainen drum set | 5 | 2 | 40.00% | 4.8 |
-| joey jordison drum kit | 85 | 2 | 2.35% | 8.2 |
+| joey jordison drum kit | 76 | 2 | 2.63% | 8.3 |
+| matt greiner drum setup | 14 | 2 | 14.29% | 6.9 |
 | bill ward drum set | 2 | 1 | 50.00% | 5.5 |
-| eloy casagrande drum kit | 25 | 1 | 4.00% | 9.4 |
+| eloy casagrande drum kit | 22 | 1 | 4.55% | 9.6 |
 | frost satyricon height | 1 | 1 | 100.00% | 1.0 |
-| igor cavalera drum kit | 7 | 1 | 14.29% | 3.6 |
+| igor cavalera drum kit | 6 | 1 | 16.67% | 3.5 |
 | igor cavalera drum setup | 2 | 1 | 50.00% | 6.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum set | 134 | 0.75% | 8.0 | open issue to answer better |
+| joey jordison drum set | 117 | 0.85% | 8.0 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

@@ -1010,6 +1010,75 @@ export const drummerComparisons = {
     ],
   },
 
+  // Issue #2897: SEO batch 31 — Rhythm architects, polymetric grid vs progressive chaos
+  'tomas-haake-vs-blake-richardson': {
+    slug: 'tomas-haake-vs-blake-richardson',
+    title: 'Tomas Haake vs Blake Richardson',
+    metaTitle: 'Tomas Haake vs Blake Richardson — Polymetric Grid vs Progressive Chaos | MetalForge',
+    metaDescription: 'Meshuggah\'s Tomas Haake vs Between the Buried and Me\'s Blake Richardson. The two most complex rhythm architects in modern metal compared. Polyrhythm, technique, and gear analyzed.',
+    category: 'progressive',
+    drummers: ['tomas-haake', 'blake-richardson'],
+    comparison: {
+      style: 'Tomas Haake invented djent drumming with Meshuggah — robotic polyrhythmic precision and machine-like consistency across extended odd time signatures that created an entirely new sub-genre. Blake Richardson drives Between the Buried and Me\'s progressive chaos — genre-defying compositions that fuse death metal blast beats, jazz sophistication, and experimental textures within single songs.',
+      technique: 'Haake uniquely runs two Tama Speed Cobra single pedals rather than a double pedal, locking his kicks into polyrhythmic grids that run independent of the guitar riff cycles. Richardson navigates BTBAM\'s rapid genre changes with jazz-influenced ghost notes, seamless blast beat transitions, and complex odd time signatures that feel natural rather than forced.',
+      gear: 'Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals and two Tama Speed Cobra single pedals for polyrhythmic independence. Blake Richardson plays Tama Starclassic Bubinga drums with Meinl Byzance cymbals and a Pearl Demon Drive double pedal — a musical setup suited to BTBAM\'s diverse sonic demands.',
+      influence: 'Haake pioneered the djent movement and polyrhythmic metal with Meshuggah, inspiring Periphery, Animals as Leaders, and an entire wave of modern metal drummers. Richardson influenced a generation of progressive metal drummers who treat odd time signatures as a natural language rather than a technical showcase.',
+    },
+    verdict: 'Tomas Haake and Blake Richardson are the two great rhythm architects of technical modern metal. Haake builds mathematical polyrhythmic machines with Meshuggah — locked-in, predictable, and hypnotically complex. Richardson builds progressive chaos engines with BTBAM — fluid, unpredictable, and genre-defying. Both operate at the extreme limits of rhythmic sophistication, but from opposite philosophical poles: mathematical precision vs organic complexity.',
+    faqs: [
+      { q: 'Who is more complex: Tomas Haake or Blake Richardson?', a: 'Both represent the outer limits of rhythmic complexity in different ways. Haake\'s complexity lies in sustained polyrhythmic precision across Meshuggah\'s extended time signatures. Richardson\'s complexity lies in navigating BTBAM\'s rapid genre changes and intricate compositions. They are complex in entirely different dimensions.' },
+      { q: 'What drums do Tomas Haake and Blake Richardson play?', a: 'Tomas Haake plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals. Blake Richardson plays Tama Starclassic Bubinga drums with Meinl Byzance cymbals.' },
+      { q: 'Why does Tomas Haake use two single pedals instead of a double pedal?', a: 'Tomas Haake prefers the independent mechanical response of two separate Tama Speed Cobra single pedals over a shared beam, giving each foot distinct feel and allowing him to achieve the polyrhythmic independence that defines Meshuggah\'s drumming.' },
+      { q: 'What bands are Tomas Haake and Blake Richardson known for?', a: 'Tomas Haake is the drummer for Meshuggah, widely credited as the architect of djent drumming. Blake Richardson is the drummer for Between the Buried and Me (BTBAM), known for progressive metal albums like Colors and The Great Misdirect.' },
+    ],
+  },
+
+  // Issue #2897: SEO batch 31 — Arena metal succession narrative (Godsmack vs Slipknot)
+  'shannon-larkin-vs-jay-weinberg': {
+    slug: 'shannon-larkin-vs-jay-weinberg',
+    title: 'Shannon Larkin vs Jay Weinberg',
+    metaTitle: 'Shannon Larkin vs Jay Weinberg — Godsmack vs Slipknot Drumming Compared | MetalForge',
+    metaDescription: 'Godsmack\'s Shannon Larkin vs ex-Slipknot\'s Jay Weinberg. Two faces of modern arena metal drumming — hard rock groove authority vs extreme metal precision. Gear, technique, and legacy compared.',
+    category: 'other',
+    drummers: ['shannon-larkin', 'jay-weinberg'],
+    comparison: {
+      style: 'Shannon Larkin drives Godsmack\'s hard rock machine with thunderous groove power and veteran authority — a seasoned performer who brought deep rhythmic instinct and dynamic control to one of modern hard rock\'s biggest bands. Jay Weinberg redefined Slipknot\'s percussive identity across four studio albums, channeling his predecessor Joey Jordison\'s ferocity while stamping precision-based explosive energy onto the band\'s massive live and studio work.',
+      technique: 'Larkin brings deep rock roots and heavy groove instincts to Godsmack, locking in with Tony Rombola\'s guitars with muscular, hook-driven rhythms and dynamic control that made Godsmack\'s sound commercially unstoppable across the 2000s. Weinberg\'s technique is precision-meets-chaos — navigating Slipknot\'s multi-drummer live setup required exceptional timing, independence, and endurance night after night while delivering the chaotic energy the band demands.',
+      gear: 'Shannon Larkin plays ddrum Dios Series drums with Sabian AAX & HHX Series cymbals and a ddrum Dios 14×6.5" Maple snare — a groove-oriented setup delivering the hard-hitting pocket Godsmack\'s arena rock demands. Jay Weinberg played Tama Starclassic Maple/Birch drums with Meinl Byzance cymbals and Tama Iron Cobra pedals during his Slipknot tenure — a setup built for the theatrical demands of Slipknot\'s live production.',
+      influence: 'Larkin joined Godsmack in 2002 and helped maintain their commercial momentum through multiple platinum records, becoming one of the most recognizable faces in modern hard rock drumming. Weinberg built a massive following through Slipknot\'s global live circuit, inspiring a generation of metal drummers who watched him carry one of the genre\'s most scrutinized chairs from 2014 to 2023.',
+    },
+    verdict: 'Shannon Larkin and Jay Weinberg are two of modern arena metal\'s most prominent faces — both the visible, unmasked heartbeat of their respective bands\' live shows. Larkin\'s veteran groove authority gives Godsmack an unshakeable rhythmic foundation built over two decades. Weinberg\'s precision and explosive energy gave Slipknot a worthy successor to one of metal\'s most iconic drum chairs. The comparison is experience vs explosive youth — deep groove vs extreme intensity.',
+    faqs: [
+      { q: 'Who drums for Slipknot vs Godsmack now?', a: 'Shannon Larkin has been Godsmack\'s drummer since 2002. Jay Weinberg was Slipknot\'s drummer from 2014 until November 2023; Slipknot has since continued with a different drummer.' },
+      { q: 'What gear does Shannon Larkin use?', a: 'Shannon Larkin plays ddrum Dios Series drums with Sabian AAX & HHX Series cymbals (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride) and a ddrum Dios 14×6.5" Maple snare.' },
+      { q: 'What gear did Jay Weinberg use with Slipknot?', a: 'Jay Weinberg played Tama Starclassic Maple/Birch drums with Meinl Byzance cymbals, Tama Iron Cobra pedals, and SJC Custom snares during his Slipknot tenure.' },
+      { q: 'What is Shannon Larkin\'s background before Godsmack?', a: 'Shannon Larkin played with Wrathchild America (1989–1991), Ugly Kid Joe (1991–1997, including the hit "Everything About You"), and Amen before joining Godsmack in 2002.' },
+    ],
+  },
+
+  // Issue #2897: SEO batch 31 — Ultimate tech-death speed battle (Cryptopsy vs Nile)
+  'flo-mounier-vs-george-kollias': {
+    slug: 'flo-mounier-vs-george-kollias',
+    title: 'Flo Mounier vs George Kollias',
+    metaTitle: 'Flo Mounier vs George Kollias — Tech-Death Speed Battle | MetalForge',
+    metaDescription: 'Cryptopsy\'s Flo Mounier vs Nile\'s George Kollias. The ultimate technical death metal speed debate. Blast beat velocity, heel-toe technique, and extreme drumming mastery compared.',
+    category: 'extreme',
+    drummers: ['flo-mounier', 'george-kollias'],
+    comparison: {
+      style: 'Flo Mounier defined technical death metal blast beats with Cryptopsy — his *None So Vile* performance combines extreme gravity blast velocity with jazz-influenced ghost notes and compositional complexity that remains one of the most demanding drum recordings in extreme metal history. George Kollias delivers ancient-Egyptian-themed technical brutality with Nile — sustained blast beats at 280+ BPM with heel-toe double bass technique, combining mechanical precision with death metal complexity across some of the genre\'s most demanding compositions.',
+      technique: 'Mounier employs a gravity blast technique refined for sustained technical speed, combining wrist tension control with jazz-influenced timing that produces swing and fluidity beneath brutal velocity — making his playing feel musical even at extreme tempos. Kollias co-designed the Pearl Demon XR pedal for maximum double bass speed and uses heel-toe technique to sustain blast beats at 280+ BPM across marathon Nile compositions that demand extraordinary physical endurance.',
+      gear: 'Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride) and Tama Iron Cobra 900 double pedals. George Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian K and A Custom cymbals and the Pearl Demon XR double pedal — co-designed for the extreme-tempo double bass demands of Nile\'s compositions.',
+      influence: 'Flo Mounier\'s *None So Vile* is regularly cited as one of the greatest extreme metal drum recordings of all time, and his teaching work directly influences thousands of death metal drummers worldwide. Kollias raised the ceiling for technical death metal speed and endurance — his instructional content and world-class live performances have spread advanced blast beat technique to a global audience.',
+    },
+    verdict: 'Flo Mounier and George Kollias are the two great speed kings of technical death metal drumming. Mounier holds the edge in peak velocity and technical death metal complexity — *None So Vile* remains a benchmark 30 years later with gravity blast tempos that still shock listeners. Kollias holds the edge in sustained double bass endurance and heel-toe technique refinement — his ability to maintain 280+ BPM blast beats across full Nile sets is extraordinary. The debate is gravity blast peak speed vs heel-toe endurance: two different approaches to achieving inhuman extreme metal tempos.',
+    faqs: [
+      { q: 'Who is faster: Flo Mounier or George Kollias?', a: 'Both are among the fastest drummers in metal history. Flo Mounier\'s gravity blast technique on None So Vile set records for extreme blast beat velocity. George Kollias sustains 280+ BPM heel-toe blast beats across full-length Nile compositions. Mounier is considered faster at peak velocity; Kollias is renowned for sustaining extreme tempos longer.' },
+      { q: 'What is the difference between gravity blast and heel-toe technique?', a: 'A gravity blast uses stick momentum and rebound to achieve extreme speed without muscular force — Flo Mounier\'s speciality. Heel-toe technique applies to the bass drum pedal, using the heel and toe of the foot in sequence to double the number of strokes per pedal motion — George Kollias\'s speciality for extreme double bass speed.' },
+      { q: 'What gear do Flo Mounier and George Kollias use?', a: 'Flo Mounier plays Tama Starclassic Maple drums with Sabian AAX & HHX cymbals and Tama Iron Cobra 900 double pedals. George Kollias plays Pearl Masterworks Stadium Exotic drums with Zildjian K and A Custom cymbals and the Pearl Demon XR double pedal, which he co-designed for extreme speed.' },
+      { q: 'Which album best represents Flo Mounier\'s drumming?', a: 'Cryptopsy\'s None So Vile (1996) is universally considered Flo Mounier\'s definitive performance — one of the most technically demanding drum recordings in extreme metal history, combining gravity blast velocity with jazz-influenced ghost notes and complex fills.' },
+    ],
+  },
+
   // Issue #2882: SEO batch 29 — Nu-metal/groove peers (Limp Bizkit vs Godsmack)
   'john-otto-vs-shannon-larkin': {
     slug: 'john-otto-vs-shannon-larkin',

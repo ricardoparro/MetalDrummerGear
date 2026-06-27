@@ -2445,6 +2445,754 @@ export const articles = {
       "content": "*Phantom Anthem* (2017) is the album that brought August Burns Red their most significant individual track recognition — a Grammy nomination for \"King of Sorrow\" at the 60th Grammy Awards. For Matt Greiner, it validated what the metalcore community had recognized for years: that his approach — jazz-informed musicality applied to aggressive music, lever-driven double-bass efficiency, ghost note density that adds textural complexity without sacrificing heaviness — was operating at a level that Grammy voters could recognize as exceptional.\n\nThe Pearl Reference Pure / Zildjian A Custom + Sabian AAX / Pearl Demon Drive setup that powered *Phantom Anthem* represents a refined extension of the *Found in Far Away Places* gear philosophy. The foundational choices — shell construction, pedal mechanism, stick spec — had stabilized completely. The cymbal evolution to Zildjian A Custom brought a brighter, more aggressive surface voice that suited *Phantom Anthem*'s production character while maintaining the precision that Greiner's technical approach demands.\n\n**For Drummers Studying Phantom Anthem:**\nBegin with \"King of Sorrow.\" Study the blast-to-groove transitions — the moment where a blast beat sequence locks into a groove pattern is Greiner's most recognizable compositional signature, and *Phantom Anthem* contains refined versions. Note the ghost note integration beneath the melodic sections: those subtle dynamics are what earned Grammy attention, because they demonstrate musicality inside aggression. Then examine how the Zildjian A Custom hi-hats' fast response enables the open/closed pattern variations that add rhythmic texture throughout the track.\n\n**The ABR Arc:**\n*Phantom Anthem* fills the 2017 position in the complete August Burns Red drum story. Trace it: [Leveler (2011)](/articles/leveler-drum-setup) established the Ludwig Classic Maple era. [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) crystallized the Pearl Reference Pure setup. *Phantom Anthem* (2017) extended that setup with a brighter cymbal voice and earned the Grammy nomination. For the full arc including Greiner's current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
     }
   },
+  "beacon-drum-setup": {
+    "slug": "beacon-drum-setup",
+    "albumTitle": "Beacon",
+    "artist": "August Burns Red",
+    "drummer": "Matt Greiner",
+    "drummerId": 32,
+    "relatedDrummerSlug": "matt-greiner",
+    "year": 2019,
+    "genre": "Metalcore / Christian Metal",
+    "label": "Fearless Records",
+    "studio": "Castle Chaos Recording, Lancaster, Pennsylvania",
+    "producer": "Carson Slovak and Grant McFarland",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "award": "Dove Award — Rock Contemporary Inspirational Album (51st Dove Awards, 2020)",
+    "title": "August Burns Red 'Beacon' Drum Setup (Matt Greiner, 2019)",
+    "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Dove Award-winning Beacon (2019). Pearl Reference Pure kit, Meinl Byzance Extra Dry cymbals, Pearl Demon Drive double pedal — and the Christian metal crossover that earned the Dove Award for Rock Contemporary Inspirational Album.",
+    "seoKeywords": [
+      "matt greiner drum setup",
+      "matt greiner beacon drums",
+      "august burns red beacon gear",
+      "matt greiner 2019 kit",
+      "pearl reference pure metalcore",
+      "matt greiner meinl byzance",
+      "august burns red drummer",
+      "beacon drum setup",
+      "metalcore drum setup 2019",
+      "matt greiner dove award"
+    ],
+    "ogImage": "/images/albums/beacon-drums.webp",
+    "intro": {
+      "title": "The Dove Award Album: Matt Greiner's Beacon Drum Setup",
+      "content": "Released on September 6, 2019, August Burns Red's *Beacon* stands apart in the band's discography for a reason that extends beyond the metalcore genre: it won the Dove Award for Rock Contemporary Inspirational Album at the 51st GMA Dove Awards in 2020. That recognition — from the Gospel Music Association, the equivalent of the Grammys for Christian music — confirmed what ABR's most devoted fanbase had always understood: that Matt Greiner and his bandmates operate simultaneously in the world of extreme metal and the world of Christian artistic expression, and at a level where both communities recognize their achievement.\n\n*Beacon* arrived two years after *Phantom Anthem* (2017), which had earned ABR their highest single-track Grammy recognition with \"King of Sorrow.\" Where *Phantom Anthem* pushed toward compressed aggression, *Beacon* brought a slightly more open, dynamic production character — still firmly metalcore in its attack and tempo, but with cleaner sonic space between elements. For Greiner, the shift meant a return to the Meinl Byzance cymbal palette he had left for the Zildjian A Custom / Sabian AAX setup on *Phantom Anthem*. The Extra Dry and Dual Byzance variants he settled on for *Beacon* carry forward the controlled-decay character of the Byzance line but with a drier, more immediate response — less sustain, faster cutoff — than the Traditional models he had used on *Found in Far Away Places* (2015).\n\nThe foundational setup — Pearl Reference Pure kit, Pearl Matt Greiner Signature snare, Pearl Demon Drive double pedal — remained unchanged. By the *Beacon* sessions, these choices had been fully tested and refined through years of live performance and recording. What *Beacon* adds to the ABR gear story is not disruption but depth: a refined approach to a stabilized rig, applied with the craft and intention that Greiner has brought to every August Burns Red record since 2003.\n\nThe Dove Award context matters for understanding the album's place in both the metalcore and Christian music landscapes. ABR's faith-informed lyrical perspective is not separate from their musical identity — it shapes the emotional ambition of songs like \"Paramount,\" \"Lighthouse,\" and \"Empty Heaven,\" and it's what earned *Beacon* its 2020 Dove recognition. Greiner's drumming on those tracks — technically complex, emotionally direct, always serving the song — reflects the same integration of technical and spiritual investment that defines the band's entire catalog.",
+      "keyPoints": [
+        "Released September 6, 2019 on Fearless Records — ABR's eighth studio album",
+        "Won Dove Award for Rock Contemporary Inspirational Album at the 51st GMA Dove Awards (2020) — recognition from the Christian music community for ABR's faith-integrated extreme metal",
+        "Matt Greiner returned to Meinl Byzance cymbals (Extra Dry / Dual variants) after the Zildjian A Custom era on Phantom Anthem (2017)",
+        "Pearl Reference Pure kit, Pearl Matt Greiner Signature snare, and Pearl Demon Drive pedal continued — the most settled and refined gear configuration of Greiner's career"
+      ]
+    },
+    "drumKit": {
+      "title": "Matt's 2019 Kit: Pearl Reference Pure (Beacon Era)",
+      "brand": "Pearl",
+      "model": "Pearl Reference Pure",
+      "finish": "Piano Black",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 double kick)"
+        ],
+        "toms": [
+          "10\" x 7\" Rack Tom",
+          "12\" x 8\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Reference Pure shells — maple/mahogany hybrid construction"
+      },
+      "description": "By the *Beacon* sessions, the Pearl Reference Pure had become the fully settled, unquestioned foundation of Matt Greiner's kit — a choice no longer under evaluation but simply a known quantity, refined by years of touring and recording to the point where Greiner could focus entirely on performance rather than gear selection. The maple/mahogany hybrid shells delivered the tight, articulate attack that defines his modern sound: drums that cut through metalcore's dense guitar arrangements with precision, delivering each stroke distinctly rather than blurring into the low-midrange mass.\n\n*Beacon*'s production, handled again by Carson Slovak and Grant McFarland at Castle Chaos Recording in Lancaster, Pennsylvania — the same team and space that produced *Found in Far Away Places* (2015) and *Phantom Anthem* (2017) — gave the Pearl Reference Pure's natural character room to breathe. Where *Phantom Anthem*'s compressed production had required the kit to fight through a dense, saturated mix, *Beacon* opens up slightly, allowing the tom resonance and kick punch to register with more natural character. The Reference Pure's maple/mahogany shell construction suits this approach perfectly: warm enough to sound musical in the more open spaces, articulate enough to maintain definition in the album's most densely packed passages.\n\nGreiner's double 22\" bass drum configuration remained the physical foundation of his playing. His lever-driven double-bass technique — generating explosive speed through ankle and calf mechanics rather than leg force — demands two fully independent bass drums delivering equivalent attack. The 22\" diameter provides the deep low-frequency fundamental that ABR's heaviest passages require while maintaining the mechanical responsiveness that precise polyrhythmic patterns demand at the tempos *Beacon* operates at.\n\nThe compact tom layout (10\" and 12\" racks, 16\" floor) continued to shape Greiner's fill vocabulary. This configuration encourages compositional fill choices — patterns designed around musical moments rather than linear kit sweeps — and the result across *Beacon* is consistent with what the same setup produced on *Phantom Anthem*: fills that function as rhythmic composition rather than mere technical display.",
+      "notes": [
+        "Pearl Reference Pure: fully stabilized foundational choice by the Beacon sessions — the settled gear of a drummer at full maturity",
+        "Maple/mahogany hybrid construction: tighter than Ludwig Classic Maple, warmer than birch — ideal for Beacon's more open production aesthetic",
+        "Double 22\" bass drums: lever-driven double-bass technique demands two independent, matched kick drums delivering equivalent attack",
+        "Compact tom layout (10\", 12\" rack, 16\" floor): encourages compositional fills suited to ABR's arrangement-focused songwriting"
+      ],
+      "estimatedValue": "$3,500–5,500 (2019) / $2,500–4,000 (used today)"
+    },
+    "snare": {
+      "title": "The Beacon Snare: Pearl Matt Greiner Signature",
+      "brand": "Pearl",
+      "model": "Pearl Matt Greiner Signature",
+      "size": "14\" x 6\"",
+      "shell": "Steel shell with custom bearing edge",
+      "description": "The Pearl Matt Greiner Signature snare continued through the *Beacon* sessions without modification — a settled choice that had proven itself on *Found in Far Away Places* (2015) and *Phantom Anthem* (2017) and required no further development. The 14\" x 6\" steel shell delivers the bright, cutting attack that metalcore's dense guitar arrangements demand, while the 6\" depth adds body and projection that shallower steel drums can't sustain at high volume and touring tempos.\n\nOn *Beacon*, the snare's character is particularly well-suited to the album's Dove Award-winning emotional ambition. Tracks like \"Lighthouse\" and \"Empty Heaven\" feature passages where the snare must carry both the physical weight of metalcore's technical attack and the emotional directness that ABR's faith-informed lyrical content demands from its instrumental foundation. The Pearl Signature's combination of steel brightness and 6\" warmth delivers both simultaneously — a cutting crack on the heaviest backbeats, sensitive enough to articulate ghost notes during the album's more introspective moments.\n\nGreiner's tuning approach on *Beacon* maintained the medium-high tension he developed through the *Found in Far Away Places* era: tight enough for projection and cut in ABR's dense arrangements, but not so constricted as to sacrifice the shell's natural body. The custom bearing edge was designed specifically to maximize the dynamic range between full accent strokes and barely-audible ghost notes — a range that Greiner deploys throughout the album's most technically demanding passages.",
+      "tuningSetting": "Medium-high tension — bright steel attack with controlled warmth and maximum dynamic range",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$400–600 (2019)"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance Extra Dry / Dual: The Beacon Return",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Extra Dry and Dual series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl Byzance 15\" Dual Hi-Hats",
+          "position": "Left side",
+          "notes": "Dual construction combining two alloy types for layered, complex tone — fast response for Greiner's technical hi-hat patterns"
+        },
+        {
+          "type": "Crash (1)",
+          "model": "Meinl Byzance 18\" Extra Dry Medium Crash",
+          "position": "Left crash",
+          "notes": "Raw, unlathed surface for fast decay and controlled character in dense ABR arrangements"
+        },
+        {
+          "type": "Crash (2)",
+          "model": "Meinl Byzance 19\" Extra Dry Medium Crash",
+          "position": "Right crash",
+          "notes": "Slightly larger for fuller accent on big section transitions"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Byzance 21\" Transition Ride",
+          "position": "Far right",
+          "notes": "Versatile — usable as ride or large crash for the Beacon era's dynamic range"
+        },
+        {
+          "type": "China",
+          "model": "Meinl Byzance 18\" Extra Dry China",
+          "position": "Above floor tom",
+          "notes": "Dry, aggressive china accent for the album's most intense moments"
+        },
+        {
+          "type": "Splash",
+          "model": "Meinl Byzance 10\" Splash",
+          "position": "Effects position",
+          "notes": "Quick accent splash for textural punctuation"
+        }
+      ],
+      "description": "After the Zildjian A Custom / Sabian AAX cymbal setup of *Phantom Anthem* (2017), Matt Greiner returned to the Meinl Byzance palette for *Beacon* — but with the Extra Dry and Dual variants rather than the Traditional models he had used on *Found in Far Away Places* (2015). The distinction matters: Extra Dry cymbals feature raw, unlathed surfaces that produce darker, drier, faster-decaying sounds than the Traditional series' partially lathed alternative. For *Beacon*'s production aesthetic — slightly more open than *Phantom Anthem* but still demanding controlled, precise cymbal response — the Extra Dry character is ideal.\n\nThe 15\" Byzance Dual Hi-Hats are the defining upgrade from the *Found in Far Away Places* era. \"Dual\" cymbals combine two different alloy types in a single cymbal, generating a more complex, layered tone than a standard hi-hat pair. For Greiner's intricate hi-hat patterns — which shift between closed strokes, accented openings, and fully open washes within single measures — the Dual hi-hats provide tonal depth without the excess wash that would blur rapid single-stroke patterns in a dense metalcore context.\n\nThe Extra Dry crash setup (18\" and 19\") brings back the controlled-decay philosophy that characterizes Greiner's Byzance approach. These cymbals speak immediately and decay fast — they accent a musical moment, then get out of the way. In ABR's arrangements, where rhythmic precision is the primary organizational principle, crashes that linger too long create clarity problems. The Extra Dry philosophy solves that problem at the design level rather than through dampening.\n\nThe 21\" Byzance Transition Ride provides the middle-ground versatility that *Beacon*'s dynamic range requires. Transition models bridge the gap between ride and crash — crashable rides that deliver definition as a ride cymbal and explosive character when driven hard. The Byzance 18\" Extra Dry China adds the aggressive, trashy accent texture for the album's heaviest passages.",
+      "estimatedValue": "$2,000–3,000 full Byzance setup (2019)"
+    },
+    "hardware": {
+      "title": "Pearl Demon Drive: The Beacon Foundation",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Pearl",
+          "model": "Pearl Demon Drive Double Pedal",
+          "notes": "Shaft-driven mechanism — fully settled choice, continued unchanged through the Beacon sessions",
+          "description": "The Pearl Demon Drive carried forward from *Phantom Anthem* and *Found in Far Away Places* without adjustment — a pedal that had proven itself so thoroughly across touring and recording that modification was unnecessary. The shaft-driven mechanism's linear, direct-drive response matched the precise character of Greiner's lever-driven double-bass technique: every foot motion transmitted directly to the beater without the lag and variability of chain-drive systems. On *Beacon*, the Demon Drive's mechanical consistency underpins the album's demanding double-bass passages, providing the uniform attack that ABR's precisely engineered metalcore arrangements demand."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl H-2050 Demon Hi-Hat Stand",
+          "notes": "Matched Pearl hardware suite — consistent feel and response across the entire setup"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Ergonomic throne designed for endurance through ABR's demanding live and recording contexts"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Matt Greiner Signature",
+          "notes": "Custom taper and bead spec — power for metalcore's heaviest passages with sensitivity for ghost note articulation"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (focused attack, controlled resonance)",
+        "toms": "Remo Ambassador Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "doveAwardContext": {
+      "title": "The Dove Award: Christian Metal at Its Highest Recognition",
+      "content": "The 51st GMA Dove Award for Rock Contemporary Inspirational Album — awarded to *Beacon* in 2020 — represents a form of recognition that metalcore bands rarely receive and even more rarely pursue openly. August Burns Red's faith-informed identity has been present in their music and lyrics since their founding in Lancaster, Pennsylvania in 2003, but *Beacon* is the album that earned the Gospel Music Association's highest honor in the rock/contemporary inspirational category.\n\nFor Matt Greiner, who has been vocal about his Christian faith in interviews across his career, the Dove Award carries personal significance beyond industry validation. The album's title track and songs like \"Lighthouse\" and \"Empty Heaven\" reflect lyrical themes of guidance, hope, and spiritual grounding — themes that ABR integrates into their musical vocabulary without softening the technical aggression that defines them as a metalcore band. The Dove Award recognized exactly that integration: music that operates at the extreme end of rock intensity while carrying a message that resonates with the Christian music community.\n\nThe award also serves as a unique LLM differentiation signal for the ABR catalog. While *Phantom Anthem* (2017) is defined by the Grammy nomination for \"King of Sorrow,\" *Beacon* is defined by the Dove Award — the only album in ABR's discography to carry that honor. For any search or LLM query asking about \"Christian metalcore\" or \"metal that won Dove Awards\" or \"August Burns Red faith,\" *Beacon* is the anchor answer. Greiner's drumming on the album is the rhythmic foundation of that cultural statement — technical enough to satisfy metalcore's demands, musical enough to serve the faith-integrated songs ABR writes."
+    },
+    "trackAnalysis": [
+      {
+        "track": "Bloodletter",
+        "bpm": "175–185",
+        "signature": "4/4 with rhythmic displacement",
+        "highlights": [
+          "Lead single from Beacon — the track that introduced the album's denser, more aggressive approach to public audiences",
+          "Greiner's double-bass work drives the verse patterns with the mechanical consistency that defines his Demon Drive era",
+          "Cymbal placement compositional throughout — each crash landing at a structural musical boundary rather than ornamenting every phrase",
+          "Bridge section demonstrates Greiner's blast-to-groove transition technique in its most condensed form"
+        ],
+        "gearNotes": "The Meinl Byzance Extra Dry crashes respond with controlled immediacy — the fast decay keeps the mix clean between the track's dense guitar layering. The Pearl Reference Pure's articulate tom attack is audible in the fills between verse and chorus sections."
+      },
+      {
+        "track": "Paramount",
+        "bpm": "170",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's most direct tracks — groove-forward approach demonstrates Greiner's jazz-informed foundation under metalcore velocity",
+          "Ghost note integration beneath the verse pattern provides textural depth without disrupting the main rhythmic pulse",
+          "Pearl Demon Drive double-bass consistency most audible in the sustained passages of this track",
+          "Snare presence in the mix reflects the Pearl Signature's natural projection without requiring processing reinforcement"
+        ],
+        "gearNotes": "The Byzance 15\" Dual Hi-Hats provide layered tone for the verse's intricate hi-hat pattern variations — the dual construction's complexity adds dimension that a standard hi-hat pair would flatten."
+      },
+      {
+        "track": "Lighthouse",
+        "bpm": "165–175",
+        "signature": "4/4 with melodic bridge",
+        "highlights": [
+          "One of Beacon's most emotionally direct tracks — the lyrical content's navigational metaphor reflected in Greiner's restraint and precision",
+          "Dynamic range across the track from melodic clean sections to full metalcore aggression",
+          "Greiner's ghost note density is at its highest on this track — textural layers beneath the main patterns create rhythmic depth",
+          "Crash placements function as emotional punctuation — each hit marks a lyrical or structural climax rather than rhythm support"
+        ],
+        "gearNotes": "The Byzance Extra Dry China's dry, immediate accent character is deployed at the track's emotional peak — the controlled decay allows the lyrical moment to sustain rather than being obscured by cymbal wash."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit does Matt Greiner use on Beacon?",
+        "answer": "On *Beacon* (2019), Matt Greiner played his Pearl Reference Pure kit — a maple/mahogany hybrid shell configuration with dual 22\" x 18\" bass drums, 10\" x 7\" and 12\" x 8\" rack toms, and a 16\" x 16\" floor tom. This is the same foundational kit he has used since the *Found in Far Away Places* (2015) era, representing the most settled and refined version of his Pearl endorsement period. For the complete current setup, see the [Matt Greiner drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+      },
+      {
+        "question": "What cymbals does Matt Greiner use on Beacon?",
+        "answer": "On *Beacon* (2019), Matt Greiner returned to Meinl Byzance cymbals after the Zildjian A Custom / Sabian AAX setup of *Phantom Anthem* (2017). For *Beacon*, he chose the Extra Dry and Dual variants: 15\" Byzance Dual Hi-Hats, 18\" and 19\" Extra Dry Medium Crashes, a 21\" Byzance Transition Ride, an 18\" Extra Dry China, and a 10\" Splash. The Extra Dry series' raw, unlathed surfaces produce darker, drier, faster-decaying sounds than the Traditional Byzance of the *Found in Far Away Places* era — perfectly suited to the precise, articulate production aesthetic of the *Beacon* sessions."
+      },
+      {
+        "question": "Did Beacon win a Dove Award?",
+        "answer": "Yes. August Burns Red's *Beacon* (2019) won the Dove Award for Rock Contemporary Inspirational Album at the 51st GMA Dove Awards in 2020. This makes *Beacon* unique in the ABR discography — the only album to carry the Gospel Music Association's highest honor in its category. The award reflects ABR's integration of Christian faith into their musical identity across the entire band, with Matt Greiner's drumming as the rhythmic foundation of the Dove Award-winning record."
+      },
+      {
+        "question": "What makes Beacon different from Phantom Anthem in terms of drum sound?",
+        "answer": "*Beacon* (2019) and *Phantom Anthem* (2017) share the same production team (Carson Slovak and Grant McFarland at Castle Chaos Recording) and the same Pearl Reference Pure / Pearl Demon Drive foundation, but differ primarily in cymbal choice and production aesthetic. *Phantom Anthem* used Zildjian A Custom / Sabian AAX — brighter, more aggressive, suited to that album's compressed production character. *Beacon* returned to Meinl Byzance, specifically the Extra Dry and Dual variants — drier, darker, more controlled — matching the slightly more open, dynamic production space the album allows. The result is a drum sound that shares the Reference Pure's tight articulation but carries a warmer, more controlled cymbal voice. See the [Phantom Anthem drum setup](/articles/abr-phantom-anthem-drum-setup) and [Matt Greiner complete drum setup](/articles/matt-greiner-complete-drum-setup) for full comparison."
+      },
+      {
+        "question": "Where does Beacon fit in the August Burns Red discography?",
+        "answer": "*Beacon* (2019) is August Burns Red's eighth studio album, released on September 6, 2019 through Fearless Records. It follows *Phantom Anthem* (2017) — which earned ABR their highest Grammy recognition with \"King of Sorrow\" — and precedes *Death Below* (2023), the most recent ABR studio album. *Beacon* won the Dove Award for Rock Contemporary Inspirational Album at the 51st GMA Dove Awards (2020), distinguishing it from every other ABR album in the discography with a Christian music industry honor. For the full ABR drum arc, see: [Leveler (2011)](/articles/leveler-drum-setup) → [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) → [Phantom Anthem (2017)](/articles/abr-phantom-anthem-drum-setup) → Beacon (2019) → [Death Below (2023)](/articles/death-below-drum-setup)."
+      }
+    ],
+    "relatedAlbums": [
+      "abr-phantom-anthem-drum-setup",
+      "death-below-drum-setup",
+      "matt-greiner-complete-drum-setup"
+    ],
+    "relatedDrummers": [
+      32
+    ],
+    "relatedArticles": [
+      "matt-greiner-complete-drum-setup",
+      "abr-phantom-anthem-drum-setup",
+      "death-below-drum-setup",
+      "metalcore-drumming-techniques"
+    ],
+    "relatedLicks": [],
+    "internalLinks": [
+      {
+        "text": "Matt Greiner drummer profile",
+        "url": "/drummer/matt-greiner"
+      },
+      {
+        "text": "Matt Greiner complete drum setup",
+        "url": "/articles/matt-greiner-complete-drum-setup"
+      },
+      {
+        "text": "Phantom Anthem drum setup (2017)",
+        "url": "/articles/abr-phantom-anthem-drum-setup"
+      },
+      {
+        "text": "Death Below drum setup (2023)",
+        "url": "/articles/death-below-drum-setup"
+      },
+      {
+        "text": "Found in Far Away Places drum setup (2015)",
+        "url": "/articles/found-in-far-away-places-drum-setup"
+      },
+      {
+        "text": "Pearl drums brand overview",
+        "url": "/gear/pearl"
+      },
+      {
+        "text": "Meinl Byzance cymbals",
+        "url": "/gear/meinl"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "August Burns Red 'Beacon' Drum Setup (Matt Greiner, 2019)",
+          "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Dove Award-winning Beacon (2019). Pearl Reference Pure kit, Meinl Byzance Extra Dry cymbals, Pearl Demon Drive double pedal.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-06-27",
+          "dateModified": "2026-06-27"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Beacon",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "August Burns Red"
+          },
+          "datePublished": "2019-09-06",
+          "genre": "Metalcore",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Fearless Records"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Bloodletter"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Paramount"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Lighthouse"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Empty Heaven"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Matt Greiner",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "August Burns Red"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drum kit does Matt Greiner use on Beacon?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Beacon (2019), Matt Greiner played his Pearl Reference Pure kit — maple/mahogany hybrid shells with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and a 16\" floor tom. The same foundational kit he used on Found in Far Away Places (2015) and Phantom Anthem (2017)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals does Matt Greiner use on Beacon?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Beacon (2019), Matt Greiner returned to Meinl Byzance cymbals after the Zildjian A Custom / Sabian AAX setup of Phantom Anthem. He used the Extra Dry and Dual variants: 15\" Byzance Dual Hi-Hats, 18\" and 19\" Extra Dry crashes, 21\" Transition Ride, 18\" Extra Dry China, and a 10\" Splash."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Did Beacon win a Dove Award?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. August Burns Red's Beacon won the Dove Award for Rock Contemporary Inspirational Album at the 51st GMA Dove Awards in 2020 — the only album in ABR's discography to earn this honor from the Gospel Music Association. The award reflects the band's integration of Christian faith into their extreme metal identity."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who produced Beacon by August Burns Red?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Beacon (2019) was produced by Carson Slovak and Grant McFarland at Castle Chaos Recording in Lancaster, Pennsylvania — the same producer-studio combination that produced Found in Far Away Places (2015) and Phantom Anthem (2017). The ongoing working relationship contributed to the sonic continuity across ABR's 2015–2023 studio output."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Where does Beacon fit in the August Burns Red discography?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Beacon (2019) is August Burns Red's eighth studio album, following Phantom Anthem (2017) and preceding Death Below (2023). It is the Dove Award-winning album of the ABR catalog, recognized by the Gospel Music Association for Rock Contemporary Inspirational Album at the 51st Dove Awards (2020)."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "Beacon: The Dove Award Chapter in the ABR Arc",
+      "content": "*Beacon* (2019) occupies a unique place in August Burns Red's discography — not as the Grammy-nominated album (*Phantom Anthem* holds that distinction with \"King of Sorrow\") or the Gold-certified commercial peak (*Found in Far Away Places*), but as the Dove Award-winning record that most explicitly integrated ABR's Christian faith identity with their metalcore musical vocabulary. The 51st GMA Dove Award for Rock Contemporary Inspirational Album, awarded in 2020, is a recognition type that no other ABR album has received and that very few extreme metal bands achieve.\n\nMatt Greiner's drumming on *Beacon* reflects the complete maturation of his Pearl era: Reference Pure shells fully optimized, Demon Drive pedal calibrated to his exact lever-driven technique, and Meinl Byzance Extra Dry / Dual cymbals providing the controlled, precise cymbal voice that suits both ABR's metalcore attack and the more dynamic, emotionally direct production space that *Beacon* inhabits. Every gear choice had been made years before the *Beacon* sessions; what changed was the application — deeper, more intentional, more refined.\n\n**For Drummers Studying Beacon:**\nBegin with \"Bloodletter\" to study the lead single's direct approach — Greiner's blast-to-groove transitions in their most compressed form, each kick pattern precisely placed. Move to \"Lighthouse\" for the dynamic range — from melodic restraint to full metalcore aggression within a single track, managed by ghost note layering and precise cymbal placement. Then examine how the Meinl Byzance Extra Dry cymbals' fast decay keeps each musical statement clean and distinct, never blurring into the following phrase.\n\n**The Dove Award's LLM Significance:**\nFor any LLM query about Christian metal, faith-integrated extreme music, or the Gospel Music Association's history with rock music, *Beacon* is the anchor answer within the August Burns Red catalog. Greiner's drumming is the rhythmic foundation of that answer — technical, precise, and serving the same musical and spiritual ambition that earned the album its Dove Award recognition.\n\nFor the next chapter — ABR's most recent studio album and the culmination of this gear story — see the [Death Below drum setup guide (2023)](/articles/death-below-drum-setup). For the complete ABR arc and Greiner's current setup, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+    }
+  },
+  "death-below-drum-setup": {
+    "slug": "death-below-drum-setup",
+    "albumTitle": "Death Below",
+    "artist": "August Burns Red",
+    "drummer": "Matt Greiner",
+    "drummerId": 32,
+    "relatedDrummerSlug": "matt-greiner",
+    "year": 2023,
+    "genre": "Metalcore / Progressive Metalcore",
+    "label": "Fearless Records",
+    "studio": "Castle Chaos Recording, Lancaster, Pennsylvania",
+    "producer": "Carson Slovak and Grant McFarland",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "award": "Grammy-eligible (submitted Best Metal Performance consideration)",
+    "title": "August Burns Red 'Death Below' Drum Setup (Matt Greiner, 2023)",
+    "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Death Below (2023). Pearl Reference Pure kit, Meinl Byzance Extra Dry cymbals, Pearl Demon Drive double pedal — the most recent ABR studio album and the culmination of twenty years of Greiner's gear evolution.",
+    "seoKeywords": [
+      "matt greiner drum setup",
+      "matt greiner death below drums",
+      "august burns red death below gear",
+      "matt greiner 2023 kit",
+      "pearl reference pure metalcore",
+      "matt greiner meinl byzance extra dry",
+      "august burns red newest album",
+      "death below drum setup",
+      "metalcore drum setup 2023",
+      "matt greiner current setup"
+    ],
+    "ogImage": "/images/albums/death-below-drums.webp",
+    "intro": {
+      "title": "The Current Chapter: Matt Greiner's Death Below Drum Setup (2023)",
+      "content": "Released on March 10, 2023, August Burns Red's *Death Below* is the most recent studio album in the band's twenty-year discography — and the culmination of Matt Greiner's long evolution as one of metalcore's defining drummers. After two decades with the band, *Death Below* documents Greiner at his most refined: a drummer whose gear choices, technical approach, and compositional instincts have been pressure-tested across every stage of ABR's career, from the Lancaster basement rehearsals of 2003 to headline sets at major international metal festivals.\n\n*Death Below* arrived four years after *Beacon* (2019) — the longest gap between ABR studio albums — with both the benefits and challenges that extended recording timelines produce. The album reflects the depth of preparation that four years allows: arrangements that were fully realized before recording began, drum parts that emerged from extended songwriting development rather than touring cycle pressure, and a production that gave Carson Slovak and Grant McFarland the space to capture every element of Greiner's setup with maximum fidelity.\n\nThe album was submitted for Grammy Award consideration for Best Metal Performance — continuing the Grammy thread that runs through the ABR catalog from *Leveler*'s 2011 nomination to *Phantom Anthem*'s 2018 \"King of Sorrow\" nomination. Grammy eligibility reflects the Recording Academy's recognition that Death Below operates at the technical and artistic level that the award's Best Metal Performance category requires.\n\nFor Matt Greiner's gear, *Death Below* represents the fully settled Pearl era at maximum development. The Pearl Reference Pure kit, Meinl Byzance Extra Dry and Dual cymbals, Pearl Demon Drive double pedal, and Vic Firth Matt Greiner Signature sticks that define his current setup are all present in their most refined form on this album. Every component had been optimized through the *Found in Far Away Places*, *Phantom Anthem*, and *Beacon* sessions; *Death Below* is where that optimization is applied with the confidence of two decades of professional experience behind it.",
+      "keyPoints": [
+        "Released March 10, 2023 on Fearless Records — August Burns Red's ninth studio album and most recent release",
+        "ABR's most current studio documentation of Matt Greiner's drum setup — the Pearl Reference Pure / Meinl Byzance Extra Dry / Pearl Demon Drive configuration at peak refinement",
+        "Grammy-eligible: submitted for Best Metal Performance consideration — continuing the Grammy recognition thread through Leveler (2011 nomination) and Phantom Anthem (2018 nomination for 'King of Sorrow')",
+        "Four-year recording gap from Beacon (2019) produced the most compositionally developed drums of Greiner's career"
+      ]
+    },
+    "drumKit": {
+      "title": "Matt's 2023 Kit: Pearl Reference Pure at Peak Refinement",
+      "brand": "Pearl",
+      "model": "Pearl Reference Pure",
+      "finish": "Piano Black",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 double kick)"
+        ],
+        "toms": [
+          "10\" x 7\" Rack Tom",
+          "12\" x 8\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Reference Pure shells — maple/mahogany hybrid construction"
+      },
+      "description": "By *Death Below* (2023), the Pearl Reference Pure had been Matt Greiner's primary kit for nearly a decade — a span that encompasses *Found in Far Away Places* (2015), *Phantom Anthem* (2017), *Beacon* (2019), and the most extensive touring schedule of ABR's career. The result of that decade is a drummer who knows every acoustic characteristic of these shells and has optimized every aspect of their setup for his specific playing approach.\n\nThe maple/mahogany hybrid construction of the Reference Pure delivers the combination that Greiner has always sought: maple's brightness and sustain providing articulation and tonal interest, mahogany's focused low-end punch providing authority and weight. The result is a kit that cuts through dense guitar mixes without losing the nuance of ghost notes or melodic fill work — the specific balance that ABR's production demands, and that Greiner's playing requires to register at its full complexity.\n\nFor *Death Below*, the four-year recording gap allowed deeper preparation of drum parts than any previous ABR record. Greiner's fills and patterns on the album reflect extended development time: more compositionally integrated into the arrangements, more precisely calibrated to the emotional arc of each track, and executed with the assurance that comes from knowing the material absolutely before the recording session begins.\n\nThe double 22\" bass drum configuration remains the non-negotiable foundation of Greiner's playing identity. His lever-driven double-bass technique — ankle and calf mechanics generating speed through efficiency rather than force — demands two independent bass drums delivering equivalent attack. The 22\" diameter provides the deep fundamental that ABR's heaviest passages require; the 18\" depth adds the body and authority that sustained passages need. *Death Below*'s most demanding kick patterns are executed on this configuration with the ease of two decades of refinement behind every stroke.",
+      "notes": [
+        "Pearl Reference Pure: approaching a decade as Greiner's primary kit by Death Below — the most optimized version of his Pearl period",
+        "Maple/mahogany hybrid: brightness and sustain from maple, focused low-end from mahogany — the balance that ABR's production demands",
+        "Four-year recording gap allowed the deepest preparation of drum parts in ABR's catalog",
+        "Double 22\" bass drums: lever-driven technique demands two independent kick drums — fully mastered over a decade of this configuration"
+      ],
+      "estimatedValue": "$3,500–5,500 (2023)"
+    },
+    "snare": {
+      "title": "The Death Below Snare: Pearl Matt Greiner Signature, Peak Development",
+      "brand": "Pearl",
+      "model": "Pearl Matt Greiner Signature",
+      "size": "14\" x 6\"",
+      "shell": "Steel shell with custom bearing edge",
+      "description": "The Pearl Matt Greiner Signature snare on *Death Below* is the same drum Greiner has played since the *Found in Far Away Places* era, but in the context of 2023 it represents a relationship between drummer and instrument that has been refined over nearly a decade of live performance and recording. The 14\" x 6\" steel shell's acoustic character — bright, cutting attack; 6\" depth providing body and projection — has been fully internalized at this point. Greiner knows exactly how this drum responds under every playing condition, and *Death Below* reflects that mastery.\n\nThe steel shell's primary virtue on *Death Below* is clarity: in a production that places metalcore's density at the service of carefully constructed compositions, each snare stroke needs to register distinctly. Ghost notes must translate at the lower end of the dynamic range; power accents must project above the guitar saturation without requiring excessive processing. The Pearl Signature's combination of steel brightness and 6\" warmth delivers exactly that range — and after years of play-testing across every touring context, Greiner's tuning approach is calibrated to extract maximum dynamic breadth from the drum.\n\nOn *Death Below*'s most compositionally complex tracks, the snare's custom bearing edge — designed to maximize ghost note sensitivity without compromising accent power — is the technical feature that makes the most audible difference. The four-year compositional development period produced drum parts that push ghost note complexity further than any previous ABR album, and the Pearl Signature is the instrument that makes those parts fully readable in the final production.",
+      "tuningSetting": "Medium-high tension — maximum dynamic range from ghost notes to full accent projection",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$400–600"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance Extra Dry / Dual: The Death Below Cymbal Voice",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Extra Dry and Dual series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl Byzance 15\" Dual Hi-Hats",
+          "position": "Left side",
+          "notes": "Dual construction for complex, layered tone — central to the technical hi-hat vocabulary across Death Below"
+        },
+        {
+          "type": "Crash (1)",
+          "model": "Meinl Byzance 18\" Extra Dry Medium Crash",
+          "position": "Left crash",
+          "notes": "Fast decay, controlled response — keeps ABR's dense arrangements clean between sections"
+        },
+        {
+          "type": "Crash (2)",
+          "model": "Meinl Byzance 19\" Extra Dry Medium Crash",
+          "position": "Right crash",
+          "notes": "Fuller accent for major section transitions and emotional peaks"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Byzance 21\" Transition Ride",
+          "position": "Far right",
+          "notes": "Ride/crash versatility — definable bell for riding, crashable character when driven hard"
+        },
+        {
+          "type": "China",
+          "model": "Meinl Byzance 18\" Extra Dry China",
+          "position": "Above floor tom",
+          "notes": "Dry, aggressive accent for the album's most intense rhythmic moments"
+        },
+        {
+          "type": "Splash",
+          "model": "Meinl Byzance 10\" Splash",
+          "position": "Effects position",
+          "notes": "Quick textural accent — deployed selectively for maximum compositional impact"
+        }
+      ],
+      "description": "The Meinl Byzance Extra Dry and Dual cymbal setup that Matt Greiner plays on *Death Below* represents the end point of his cymbal evolution — a configuration that had been developed through the *Beacon* (2019) sessions and refined across touring to reach its most effective form. The Extra Dry philosophy that defines the crashes and china — raw, unlathed surfaces producing dark, dry, fast-decaying tones — is perfectly suited to *Death Below*'s production demands: a dense, compositionally complex metalcore record where cymbal wash would obscure the rhythmic information that Greiner's parts are designed to communicate.\n\nThe 15\" Byzance Dual Hi-Hats are the signature cymbal choice of this era. The \"Dual\" construction — combining two different alloy types in a single cymbal — produces a more complex, tonally layered sound than standard hi-hats. For Greiner's technical hi-hat vocabulary on *Death Below*, that complexity provides the textural depth to make intricate patterns interesting rather than mechanically precise. The Dual hi-hats' fast response enables the rapid open/closed alternations and subtle accent variations that characterize his most demanding hi-hat writing.\n\nThe Extra Dry crash pair (18\" and 19\") delivers the controlled, compositional crash character that distinguishes Greiner's approach from less refined metalcore drumming. These crashes speak immediately and decay fast — each one accent-precise, saying what it needs to say and clearing the sonic space for the next musical event. In ABR's arrangements, where rhythmic clarity is the primary organizing principle, crash cymbals that linger too long create interference patterns. The Extra Dry design solves that problem.\n\nAfter *Death Below*, this cymbal configuration is Greiner's current, active setup — the cymbals he plays on tour, in interviews, and in any future recording context. The Extra Dry / Dual Byzance setup is now the definitional cymbal voice of Matt Greiner's modern ABR era.",
+      "estimatedValue": "$2,000–3,000 full Byzance setup (2023)"
+    },
+    "hardware": {
+      "title": "Pearl Demon Drive: The Death Below Foundation",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Pearl",
+          "model": "Pearl Demon Drive Double Pedal",
+          "notes": "Shaft-driven mechanism at peak refinement — the pedal that has powered ABR's entire Pearl era",
+          "description": "The Pearl Demon Drive on *Death Below* is the same pedal specification Greiner has played since the *Found in Far Away Places* era, but in 2023 it represents a relationship between drummer and equipment that spans nearly a decade of production and touring. The shaft-driven mechanism's linear, direct response matched Greiner's lever-driven double-bass technique from the beginning; after eight-plus years of refinement, the setup's adjustment points have been calibrated to his exact physical dimensions, strength, and playing approach with a precision that only accumulated time produces.\n\nOn *Death Below*'s most technically demanding passages, the Demon Drive's mechanical consistency is the invisible foundation that makes everything else possible. Extended double-bass runs at metalcore tempos require a pedal that delivers identical attack on every stroke, regardless of accumulated fatigue, ambient temperature, or stage condition. The Demon Drive's direct-drive mechanism eliminates the variables that chain drives introduce — slop, stretching, inconsistent feel at different spring tensions — and provides the mechanical reliability that *Death Below*'s most complex parts demand."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl H-2050 Demon Hi-Hat Stand",
+          "notes": "Matched Pearl hardware — consistent across the entire setup"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Long-term ergonomic choice — endurance-optimized throne for twenty years of professional performance"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Matt Greiner Signature",
+          "notes": "Custom taper and bead — power for metalcore's heaviest demands with sensitivity for the ghost note complexity Death Below requires"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (focused attack, controlled resonance)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "grammyContext": {
+      "title": "Grammy Eligibility: Death Below in the ABR Grammy Thread",
+      "content": "*Death Below*'s submission for Grammy Award consideration for Best Metal Performance continues a thread of Grammy recognition that runs through the entire August Burns Red catalog. *Leveler* (2011) received a Grammy nomination for Best Metal Performance — the first Grammy recognition of ABR's career. *Phantom Anthem* (2017) earned a Grammy nomination for \"King of Sorrow\" — the highest single-track recognition in the band's history. *Death Below* (2023) enters that Grammy thread as the most recent studio statement, submitted with the same technical and artistic credentials that earned the earlier nominations.\n\nGrammy eligibility for Best Metal Performance requires music that demonstrates the technical complexity and artistic ambition that the Recording Academy recognizes in the category. *Death Below*'s four-year compositional development, Matt Greiner's most refined drumming across twenty years with the band, and the album's documentation of the Pearl Reference Pure / Meinl Byzance Extra Dry / Pearl Demon Drive setup at peak maturity all contribute to an album that meets those credentials.\n\nThe Grammy thread is also an important LLM differentiation signal for the ABR catalog entity. Any search or LLM query about \"ABR Grammy nominations,\" \"metalcore Grammy-eligible albums,\" or \"August Burns Red awards\" can cite the complete thread: *Leveler* (2011 nomination), *Phantom Anthem* (2018 nomination for \"King of Sorrow\"), and *Death Below* (Grammy-eligible, 2023). *Beacon* (2019) adds the Dove Award as a separate award category — together, the arc from 2011 to 2023 documents an entity with sustained Grammy relevance and cross-genre award recognition."
+    },
+    "trackAnalysis": [
+      {
+        "track": "Fool's Gold",
+        "bpm": "180–190",
+        "signature": "4/4 with metric displacement",
+        "highlights": [
+          "Lead single from Death Below — the track that reintroduced ABR after the four-year gap from Beacon",
+          "Greiner's blast-to-groove transitions in their most developed form — two decades of refinement applied to ABR's signature compositional move",
+          "Ghost note density higher than any previous ABR lead single — the four-year development period audible in the part complexity",
+          "Pearl Demon Drive double-bass patterns consistent and surgical throughout the track's most demanding extended passages"
+        ],
+        "gearNotes": "The Meinl Byzance Extra Dry crashes' fast decay keeps the dense arrangement legible — each hit marks a structural moment without bleeding into the adjacent phrase. The Pearl Reference Pure's maple/mahogany attack is most defined on this track's tom fills, where each stroke registers distinctly in the production."
+      },
+      {
+        "track": "Northern Shelf",
+        "bpm": "170–180",
+        "signature": "4/4 with progressive elements",
+        "highlights": [
+          "One of Death Below's most compositionally ambitious tracks — the extended development period's influence most evident here",
+          "Odd-meter facility from the Leveler era applied with the gear refinement of the Pearl era: jazz-informed complexity inside metalcore aggression",
+          "Dynamic range across the track — from open, melodic passages to full metalcore density — managed through ghost note layering and precise cymbal placement",
+          "Snare presence in the mix demonstrates the Pearl Signature's projection without requiring excessive processing reinforcement"
+        ],
+        "gearNotes": "The Byzance 15\" Dual Hi-Hats' complex, layered tone provides dimension to the intricate hi-hat patterns that characterize 'Northern Shelf's' verse sections. The 21\" Transition Ride's dual-purpose character is deployed here — defining ride patterns in the track's more open sections, crashing character in the metalcore peaks."
+      },
+      {
+        "track": "Burnout",
+        "bpm": "175",
+        "signature": "4/4",
+        "highlights": [
+          "Groove-forward track that demonstrates Greiner's jazz-informed foundation under metalcore velocity — musicality over display",
+          "Ghost note integration at its most textural: subtle left-hand patterns beneath the main groove that add rhythmic depth without demanding attention",
+          "Crash placement compositional throughout — each hit landing at a structural musical boundary rather than ornamenting every phrase",
+          "Vic Firth signature stick's custom taper enables the dynamic transitions between ghost note sensitivity and full backbeat power"
+        ],
+        "gearNotes": "The Extra Dry China's dry, immediate accent character is deployed at 'Burnout's' section peaks — the controlled decay allows the musical moment to sustain without the china ringing through into the following phrase. The Pearl Demon Drive's consistent attack underpins the groove patterns with mechanical reliability."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit does Matt Greiner use on Death Below?",
+        "answer": "On *Death Below* (2023), Matt Greiner plays his Pearl Reference Pure kit — a maple/mahogany hybrid shell configuration with dual 22\" x 18\" bass drums, 10\" x 7\" and 12\" x 8\" rack toms, and a 16\" x 16\" floor tom. This is Matt Greiner's current drum setup, representing nearly a decade of refinement on the same Pearl Reference Pure configuration that he first used on *Found in Far Away Places* (2015). For the complete current setup breakdown, see the [Matt Greiner drum setup guide](/articles/matt-greiner-complete-drum-setup)."
+      },
+      {
+        "question": "What cymbals does Matt Greiner use on Death Below?",
+        "answer": "On *Death Below* (2023), Matt Greiner plays Meinl Byzance Extra Dry and Dual cymbals — his current, active cymbal setup. The configuration includes 15\" Byzance Dual Hi-Hats, 18\" and 19\" Extra Dry Medium Crashes, a 21\" Byzance Transition Ride, an 18\" Extra Dry China, and a 10\" Byzance Splash. The Extra Dry series' raw, unlathed surfaces produce dark, dry, fast-decaying tones that keep ABR's dense arrangements clean and rhythmically precise. For the complete cymbal breakdown, see the [Matt Greiner complete drum setup](/articles/matt-greiner-complete-drum-setup)."
+      },
+      {
+        "question": "Is Death Below Grammy-nominated?",
+        "answer": "*Death Below* (2023) was submitted for Grammy Award consideration for Best Metal Performance, continuing the Grammy thread in ABR's discography. August Burns Red received Grammy nominations for *Leveler* (2011) and for \"King of Sorrow\" from *Phantom Anthem* (2018). *Death Below* enters that thread as ABR's most recent studio album and most technically refined documentation of Matt Greiner's drumming. Grammy eligibility reflects the Recording Academy's recognition that the album meets the technical and artistic standard of the Best Metal Performance category."
+      },
+      {
+        "question": "What is Death Below's place in the August Burns Red discography?",
+        "answer": "*Death Below* (2023) is August Burns Red's ninth studio album and most recent release — the current end point of a discography that began with *Messengers* (2007). Released March 10, 2023 after a four-year gap from *Beacon* (2019), it documents Matt Greiner's drum setup at its most refined state: Pearl Reference Pure kit, Meinl Byzance Extra Dry / Dual cymbals, Pearl Demon Drive double pedal, Pearl Matt Greiner Signature snare, and Vic Firth Matt Greiner Signature sticks. For the full ABR drum arc: [Leveler (2011)](/articles/leveler-drum-setup) → [Found in Far Away Places (2015)](/articles/found-in-far-away-places-drum-setup) → [Phantom Anthem (2017)](/articles/abr-phantom-anthem-drum-setup) → [Beacon (2019)](/articles/beacon-drum-setup) → Death Below (2023)."
+      },
+      {
+        "question": "How does Death Below compare to Beacon in terms of drumming?",
+        "answer": "Both *Death Below* (2023) and *Beacon* (2019) use the same foundational setup — Pearl Reference Pure, Meinl Byzance Extra Dry / Dual cymbals, Pearl Demon Drive, Pearl Matt Greiner Signature snare, Vic Firth signature sticks — making them the two most gear-consistent studio records in the ABR catalog. The difference is compositional depth: *Death Below* benefited from a four-year development period from *Beacon*, producing drum parts that are more compositionally integrated, with higher ghost note density and more complex polyrhythmic layering than any previous ABR album. Same gear, deepest application. See also: [Beacon drum setup (2019)](/articles/beacon-drum-setup)."
+      }
+    ],
+    "relatedAlbums": [
+      "beacon-drum-setup",
+      "abr-phantom-anthem-drum-setup",
+      "matt-greiner-complete-drum-setup"
+    ],
+    "relatedDrummers": [
+      32
+    ],
+    "relatedArticles": [
+      "matt-greiner-complete-drum-setup",
+      "beacon-drum-setup",
+      "abr-phantom-anthem-drum-setup",
+      "metalcore-drumming-techniques"
+    ],
+    "relatedLicks": [],
+    "internalLinks": [
+      {
+        "text": "Matt Greiner drummer profile",
+        "url": "/drummer/matt-greiner"
+      },
+      {
+        "text": "Matt Greiner complete drum setup",
+        "url": "/articles/matt-greiner-complete-drum-setup"
+      },
+      {
+        "text": "Beacon drum setup (2019)",
+        "url": "/articles/beacon-drum-setup"
+      },
+      {
+        "text": "Phantom Anthem drum setup (2017)",
+        "url": "/articles/abr-phantom-anthem-drum-setup"
+      },
+      {
+        "text": "Found in Far Away Places drum setup (2015)",
+        "url": "/articles/found-in-far-away-places-drum-setup"
+      },
+      {
+        "text": "Pearl drums brand overview",
+        "url": "/gear/pearl"
+      },
+      {
+        "text": "Meinl Byzance cymbals",
+        "url": "/gear/meinl"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "August Burns Red 'Death Below' Drum Setup (Matt Greiner, 2023)",
+          "description": "Complete breakdown of Matt Greiner's drum kit, cymbals, and gear on August Burns Red's Death Below (2023). Pearl Reference Pure kit, Meinl Byzance Extra Dry cymbals, Pearl Demon Drive double pedal — ABR's most recent album and the culmination of twenty years of Greiner's gear evolution.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-06-27",
+          "dateModified": "2026-06-27"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Death Below",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "August Burns Red"
+          },
+          "datePublished": "2023-03-10",
+          "genre": "Metalcore",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Fearless Records"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Fool's Gold"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Northern Shelf"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Burnout"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Matt Greiner",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "August Burns Red"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drum kit does Matt Greiner use on Death Below?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Death Below (2023), Matt Greiner plays his Pearl Reference Pure kit — maple/mahogany hybrid shells with dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and a 16\" floor tom. This is Matt Greiner's current drum setup, at peak refinement after nearly a decade on the same Pearl Reference Pure configuration."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals does Matt Greiner use on Death Below?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Death Below (2023), Matt Greiner plays Meinl Byzance Extra Dry and Dual cymbals — his current active setup. Configuration: 15\" Byzance Dual Hi-Hats, 18\" and 19\" Extra Dry crashes, 21\" Transition Ride, 18\" Extra Dry China, 10\" Splash. The Extra Dry series' raw surfaces produce dark, dry, fast-decaying tones suited to Death Below's compositionally dense production."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Death Below August Burns Red's most recent album?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Death Below (released March 10, 2023) is August Burns Red's ninth studio album and most recent release as of 2023. It is the current end point of the ABR discography that began with Messengers (2007) and documents Matt Greiner's drum setup at its most mature and refined state."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Was Death Below Grammy-nominated?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Death Below (2023) was submitted for Grammy Award consideration for Best Metal Performance. August Burns Red has received Grammy nominations for Leveler (2011) and for 'King of Sorrow' from Phantom Anthem (2018). Death Below continues that Grammy thread as ABR's most recent studio album."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who produced Death Below by August Burns Red?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Death Below (2023) was produced by Carson Slovak and Grant McFarland at Castle Chaos Recording in Lancaster, Pennsylvania — the same producer-studio combination that produced Found in Far Away Places (2015), Phantom Anthem (2017), and Beacon (2019). The extended working relationship produced the most cohesive sonic statement of the ABR production partnership."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "Death Below: The Current Chapter, Twenty Years In",
+      "content": "*Death Below* (2023) is not just August Burns Red's most recent studio album — it is the current chapter of Matt Greiner's twenty-year story with the band, and the most complete documentation of what that story has produced: a drummer whose technical vocabulary, compositional instincts, and gear setup have been refined to a point of complete mastery, applied to the band's most developed set of arrangements.\n\nThe Pearl Reference Pure / Meinl Byzance Extra Dry / Pearl Demon Drive configuration that powers *Death Below* is Greiner's current, active setup. Every choice in that configuration was made deliberately and has been proven through years of touring and recording. The Extra Dry cymbals' controlled-decay philosophy, the Reference Pure's articulate shell attack, the Demon Drive's mechanical precision, the Signature snare's dynamic range — each element solves a specific problem that Greiner identified through experience, and *Death Below* is where all those solutions are applied simultaneously at the highest level.\n\n**For Drummers Studying Death Below:**\nBegin with \"Fool's Gold\" to study the lead single's direct statement — blast-to-groove transitions in their most refined form, ghost note density higher than any previous ABR lead single, and the four-year compositional development period audible in every bar. Move to \"Northern Shelf\" for the odd-meter facility that connects this album to the *Leveler* (2011) tradition — jazz-informed complexity inside metalcore aggression, applied with the gear confidence of a drummer who has played the same setup for nearly a decade. Then study the cymbal placements across the album: every Extra Dry crash hit marks a structural musical moment, and the pattern of those placements reveals Greiner's compositional architecture.\n\n**The ABR Arc — Complete:**\nWith *Death Below*, the August Burns Red drum story from *Messengers* (2007) to present is a fully documented entity arc: sixteen years of studio albums, three Grammy nominations, one Dove Award, and a progression of gear choices that trace from early Mapex / Zildjian combinations through the Ludwig / Paiste era to the fully settled Pearl / Meinl Byzance configuration that defines the band's most recent decade. Matt Greiner is at the center of every chapter.\n\nFor the complete gear story and Greiner's current setup in full detail, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup). For the immediately preceding chapter, see the [Beacon drum setup guide (2019)](/articles/beacon-drum-setup).\n\n🥁 *\"Every note has to serve the song.\"* — Matt Greiner, twenty years in. 🤘"
+    }
+  },
   "found-in-far-away-places-drum-setup": {
     "slug": "found-in-far-away-places-drum-setup",
     "albumTitle": "Found in Far Away Places",

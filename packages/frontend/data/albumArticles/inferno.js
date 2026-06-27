@@ -1886,6 +1886,7 @@ export const articles = {
     ],
     "videos": [],
     "relatedAlbums": [
+      "the-apostasy-drum-setup",
       "whats-in-infernos-kit",
       "the-satanist-drum-setup"
     ],
@@ -2535,6 +2536,7 @@ export const articles = {
     "relatedAlbums": [
       "zos-kia-cultus-drum-setup",
       "thelema-6-drum-setup",
+      "the-apostasy-drum-setup",
       "evangelion-drum-setup",
       "whats-in-infernos-kit"
     ],
@@ -2653,6 +2655,376 @@ export const articles = {
     "conclusion": {
       "title": "Demigod: The Album That Defined Behemoth's International Identity",
       "content": "*Demigod* occupies an irreplaceable position in Behemoth's catalog — and in the broader history of extreme metal. As the album that brought Behemoth from Polish underground success to international chart recognition, it represents the convergence of Nergal's compositional ambition and Inferno's fully realized extreme metal drumming. The #16 Billboard Heatseekers debut announced to the world that blackened death metal from Poland had arrived, and it was Inferno's Pearl Masters BRX blast beats at 240+ BPM that provided the engine.\n\nFor Inferno specifically, *Demigod* is the performance that defined his reputation. The precision, velocity, and compositional intelligence he brought to these sessions — the clarity of the Pearl Free-Floating snare through every blast passage, the Paiste Dark Energy cymbal accents that marked each structural transition, the Pearl Eliminator footwork sustaining at extreme double-bass tempos — established a standard against which extreme metal drumming has been measured since. It was his first studio album with the Pearl Masters BRX configuration, and the hybrid maple/birch construction proved architecturally suited to both the album's fastest passages and its most deliberate moments.\n\nUnderstanding *Demigod* is essential context for the arc of Behemoth's catalog. It is the album between the transitional *Zos Kia Cultus* (2002) and the increasingly ambitious *The Apostasy* (2007) and *Evangelion* (2009) that followed. For the full arc of Inferno's gear evolution, see the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit), the earlier [Zos Kia Cultus drum setup](/articles/zos-kia-cultus-drum-setup), and the later [Evangelion drum setup](/articles/evangelion-drum-setup). For the [Inferno drummer profile](/drummer/inferno), see the full biography covering his complete journey with Behemoth."
+    }
+  },
+  "the-apostasy-drum-setup": {
+    "slug": "the-apostasy-drum-setup",
+    "albumTitle": "The Apostasy",
+    "artist": "Behemoth",
+    "drummer": "Inferno",
+    "drummerId": 19,
+    "relatedDrummerSlug": "inferno",
+    "year": 2007,
+    "genre": "Blackened Death Metal",
+    "label": "Metal Blade Records / Regain Records",
+    "studio": "Hertz Studio, Białystok, Poland",
+    "producer": "Behemoth / Wojtek & Sławek Wiesławski",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "What Drums Did Inferno Use on The Apostasy?",
+    "description": "Discover Inferno's drum kit on Behemoth's The Apostasy (2007) — the blackened death metal album that bridged Demigod and Evangelion. Pearl Masters BRX shells, Paiste Dark Energy cymbals, and orchestral tympani for a massive war-metal drum sound.",
+    "seoKeywords": [
+      "behemoth apostasy drum kit",
+      "inferno drum setup 2007",
+      "behemoth drum kit 2007",
+      "the apostasy recording gear",
+      "inferno behemoth drums",
+      "pearl masters brx behemoth",
+      "behemoth apostasy drummer",
+      "inferno blast beats 2007",
+      "behemoth 8th album drums",
+      "at the left hand ov god drum setup"
+    ],
+    "ogImage": "/images/albums/the-apostasy-drums.webp",
+    "intro": {
+      "title": "The Critical Arc Gap: Behemoth Between Demigod and Evangelion",
+      "content": "When Behemoth released *The Apostasy* in August 2007, the band was operating at a crossroads of commercial ambition and artistic intensity. Released through Metal Blade Records in North America and Regain Records in Europe, the album became Behemoth's 8th studio album and their first to chart on the US Billboard 200, debuting at #185 — a landmark moment for a band whose roots were in the raw black metal underground of Gdańsk, Poland.\n\nFor Inferno — Zbigniew Robert Promiński — *The Apostasy* represents the performance that bridges his career-defining work on *Demigod* (2004) and the technically ferocious *Evangelion* (2009). The three albums form Behemoth's most intense consecutive run of blackened death metal, and *The Apostasy* is the essential middle chapter: refining the approach established on *Demigod* while pointing directly toward the suffocating density of *Evangelion* and the artistic culmination of *The Satanist* (2014).\n\nNergal and Inferno entered Hertz Studio in Białystok, Poland — their established recording home with engineers Wojtek and Sławek Wiesławski — to create an album with a production vision that was bolder and more grandiose than anything they had attempted before. The result was a drum sound that critics and fans immediately recognized as a career peak: massive tympani-enhanced recordings that gave Inferno's blast beats a war-metal orchestral weight, paired with the surgical precision that made *Demigod* his reputation-making performance.\n\n\"At the Left Hand ov God,\" the album's most enduring track and its most-streamed song from this era, encapsulates everything *The Apostasy* achieved: Inferno's blast beats driving a compositional structure that balanced extremity with melody, brutality with architecture. This article breaks down every piece of gear he used to create that sound.",
+      "keyPoints": [
+        "Recorded at Hertz Studio, Białystok — Behemoth's established studio home with the Wiesławski brothers",
+        "Pearl Masters BRX — Inferno's studio kit continuing from the Demigod breakthrough era",
+        "Orchestral tympani incorporated to enhance the album's massive, war-metal drum presence",
+        "First Behemoth album to chart on the US Billboard 200 (debut at #185)",
+        "\"At the Left Hand ov God\" — the most-streamed Behemoth track from the blackened death era",
+        "Arc position: Demigod (2004) → The Apostasy (2007) → Evangelion (2009) → The Satanist (2014)"
+      ]
+    },
+    "drumKit": {
+      "title": "Inferno's Pearl Masters BRX: The Apostasy Studio Configuration",
+      "brand": "Pearl",
+      "model": "Pearl Masters BRX",
+      "finish": "Custom (studio configuration)",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2)"
+        ],
+        "toms": [
+          "10\" x 7\" Rack Tom",
+          "13\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Maple/Birch hybrid — Pearl Masters BRX construction"
+      },
+      "description": "For *The Apostasy*, Inferno continued with the Pearl Masters BRX configuration that had been central to his *Demigod* (2004) sessions — the maple/birch hybrid shell construction that gave Behemoth's breakthrough album its combination of attack precision and tonal depth. Three years after *Demigod*, this kit remained the right instrument for the job: the birch core's focused attack transient maintained the clarity that extreme blast beat performance demands, while the maple outer plies delivered the warmth and body appropriate to *The Apostasy*'s grandiose production ambitions.\n\nThe double 22\" x 18\" bass drum configuration was non-negotiable. Two independent kick drums — each mechanically isolated from the other — gave Inferno the independent control that sustained blast beat performance at 200–240 BPM requires. The Hertz Studio recording environment, shaped by Wojtek and Sławek Wiesławski, was ideal for capturing the dual kick's physical impact: each drum was close-miked individually, preserving the independence of Inferno's footwork rather than blending the two drums into an indistinct mass.\n\nThe focused tom configuration — two rack toms and a single large floor tom — kept the kit compact and efficient. *The Apostasy* is not an album of elaborate tom orchestration; its rhythmic identity is built on the interplay between Inferno's relentless blast beat architecture and the album's tympani-enhanced production layer. The tighter setup eliminated unnecessary transitions and kept the kit mass concentrated for the album's forward-driving momentum.\n\nOne of *The Apostasy*'s most distinctive production decisions was the incorporation of orchestral tympani into the drum recording. The Wiesławski brothers worked with Nergal and Inferno to layer real tympani beneath key passages — adding a cavernous, war-metal resonance to sections of the album that elevated the drum sound beyond what a standard kit could achieve in isolation. This is audible throughout the record, most prominently on \"At the Left Hand ov God\" and the album's most intense blast sections.",
+      "notes": [
+        "Pearl Masters BRX — maple/birch hybrid continuing from Demigod (2004) sessions",
+        "Focused tom configuration: two rack toms, one floor tom for efficiency",
+        "Double 22\" x 18\" bass drums for independent control at extreme tempos",
+        "Orchestral tympani incorporated into recording — key production differentiator",
+        "Engineered by Wojtek and Sławek Wiesławski at Hertz Studio"
+      ],
+      "estimatedValue": "$3,000–4,500 (Pearl Masters BRX, mid-2000s professional configuration)"
+    },
+    "snare": {
+      "title": "Pearl Free-Floating: Articulation Through the Wall",
+      "brand": "Pearl",
+      "model": "Pearl Free-Floating 14\" x 6.5\"",
+      "size": "14\" x 6.5\"",
+      "shell": "Brass",
+      "description": "The snare drum on *The Apostasy* needed to cut through one of the densest, most grandiose production environments Behemoth had yet created. At 200–240 BPM blast beat tempos across extended passages, the snare is the rhythmic anchor that must project with absolute clarity through down-tuned guitars, orchestral tympani, and the massive low-end architecture of Inferno's dual kick setup.\n\nThe Pearl Free-Floating snare — 14\" x 6.5\", brass shell — delivered on that requirement. Pearl's Free-Floating mounting system suspends the shell entirely from the stand, eliminating the lug-contact resonance interference that affects conventional snare designs. In the studio environment at Hertz, this isolation allowed the shell's natural voice to fully develop: a bright, focused crack from the brass shell with fast decay that spoke clearly through every blast passage.\n\nAt 6.5\" depth, the drum balanced the death metal authority that *The Apostasy*'s heaviest moments demanded with the response speed necessary at extreme blast tempos. The brass shell added focused brightness — essential for presence through the album's orchestral production layer — while the Free-Floating system's isolation produced the tonal complexity that set this snare apart from more conventional choices.\n\nTuned to high tension with controlled snare wire response, the drum maintained articulation through the album's most sustained blast sections. The snare character on *The Apostasy* is distinctly Inferno at this stage of his career: cutting, precise, with a fast decay that kept the rhythmic content legible even as the production expanded the sonic canvas around it.",
+      "tuningSetting": "High tension for maximum clarity at blast beat tempos",
+      "heads": "Remo Emperor X or Evans HD Dry (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$600–900 (Pearl Free-Floating brass snare)"
+    },
+    "cymbals": {
+      "title": "Paiste Signature Dark Energy: Controlled Darkness at Maximum Velocity",
+      "brand": "Paiste",
+      "series": "Paiste Signature Dark Energy",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste Signature Dark Energy 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Fast decay for articulation during sustained blast beat passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste Signature Dark Energy 16\" Crash",
+          "position": "Left crash position",
+          "notes": "Quick accent crashes for structural punctuation"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste Signature Dark Energy 18\" Crash",
+          "position": "Right crash position",
+          "notes": "Primary crash for major arrangement transitions"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste Signature Dark Energy 20\" Ride",
+          "position": "Far right",
+          "notes": "Ride and bell work through the album's mid-tempo passages"
+        },
+        {
+          "type": "China",
+          "model": "Paiste Signature Dark Energy 18\" China",
+          "position": "Above floor tom",
+          "notes": "Aggressive, trashy accents marking compositional transitions"
+        }
+      ],
+      "description": "The Paiste Signature Dark Energy cymbal series was Inferno's choice for *The Apostasy* — a continuation of the setup that had defined *Demigod*'s cymbal character. The Dark Energy designation refers to a specific alloy and lathing approach that achieves dark, complex tonal character with controlled sustain: cymbals that deliver fast, articulate response rather than the bright, cutting wash that would blur rhythmic definition during sustained blast passages at 200–240 BPM.\n\nFor *The Apostasy*'s grandiose, orchestrally-enhanced production environment, the Dark Energy series' controlled tonality was architecturally suited. Where brighter cymbals would fight the orchestral tympani layer for sonic real estate, the Dark Energy series blended into the massive production without sacrificing articulation. Each hi-hat closure and crash accent registered as a discrete rhythmic event rather than merging into the album's dense sonic backdrop.\n\nThe 14\" Dark Energy hi-hats were central to Inferno's blast beat technique throughout the album. At extreme tempos, hi-hat response must prioritize controlled, fast articulation. The Paiste Dark Energy construction delivered exactly this — a dark, focused closure that spoke clearly even during the most relentless blast sections of \"At the Left Hand ov God\" and \"Christgrinding Avenue.\"\n\nThe 18\" China cymbal provided structural punctuation across the album's compositional language. *The Apostasy* made heavy use of accent markers at arrangement transitions — moments where the China's trashy, focused character added explosive aggression. The Dark Energy China's fast decay made these accents precise rather than smearing into the surrounding blast.",
+      "estimatedValue": "$1,600–2,400 total (Paiste Signature Dark Energy setup)"
+    },
+    "hardware": {
+      "title": "Pearl Eliminator: Mechanical Foundation at War-Metal Tempos",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Double Pedal (independent singles per kick drum)",
+          "notes": "Interchangeable cam system for power-to-speed calibration across album's varied demands",
+          "description": "The Pearl Eliminator's interchangeable cam system remained Inferno's pedal mechanism of choice for *The Apostasy* — the same platform that had driven *Demigod*'s blast beats. The direct-drive option provided maximum power transfer for the album's most sustained blast sections; the adjustable cam profile and spring tension settings maintained precise foot control through the extended double-bass demands of the recording. Operating independent pedals on each of the two 22\" bass drums gave each foot dedicated mechanical response and its own resonant chamber — essential for the independent kick patterns that characterize Inferno's blast beat vocabulary."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl Demon Series Hi-Hat Stand",
+          "notes": "Heavy-duty construction for demanding footwork"
+        },
+        {
+          "type": "Throne",
+          "brand": "Pearl",
+          "model": "Pearl Roadster Throne",
+          "notes": "Stable platform for extended studio sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B",
+          "notes": "Standard weight for sustained blast beat performance with appropriate mass for the album's heaviest passages"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke P3 Clear with Falam Slam patch",
+        "toms": "Remo Emperor Clear",
+        "snare": "Remo Emperor X or Evans HD Dry"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Hertz Studio and the Tympani-Enhanced Sound",
+      "content": "The production approach on *The Apostasy* built on Behemoth's established relationship with Hertz Studio and the Wiesławski brothers — but with a key innovation that set this album apart from *Demigod*: the deliberate incorporation of orchestral tympani into the drum recording.\n\n**The Tympani Decision:**\nNergal's vision for *The Apostasy* was an album with a grander, more orchestral sonic character than Behemoth had previously attempted — blackened death metal with the scale of a war film soundtrack. To achieve this without departing from the band's acoustic extreme metal core, the Wiesławski brothers worked with real orchestral tympani, layered beneath key passages to enhance the resonant depth of Inferno's kit. The result is the album's defining sonic characteristic: a drum sound that feels physically massive, with a low-end resonance that extends beyond what standard kick drums produce.\n\nThis wasn't electronic augmentation — it was acoustic layering. Inferno's Pearl Masters BRX recorded naturally, with the tympani added as an additional acoustic element. The combination gave the album a cinematic quality while preserving the raw, physical character of Inferno's performance.\n\n**Drum Microphone Approach:**\n- Kick drums: Individual close-miking to preserve independent tone and attack character\n- Snare: Shure SM57 top, small condenser below for wire detail\n- Toms: Sennheiser MD421 or equivalent for controlled definition\n- Hi-hats: Small-diaphragm condenser minimizing wash during blast passages\n- Overheads: Matched pair for stereo image and cymbal detail\n- Tympani: Separately miked and blended at the mix stage for controllable resonance\n\n**Production Ambition:**\nWith *The Apostasy*, Behemoth embraced a production aesthetic informed by the era's most ambitious metal recordings — maximalist in scale, precise in execution. The album's production direction reflected a broader trend in extreme metal toward cinematic grandeur, and the tympani integration was Behemoth's specific contribution to that trend. This same ambition would carry forward directly to *Evangelion* (2009) and ultimately to the Grammy-nominated *The Satanist* (2014).",
+      "keyTechniques": [
+        "Orchestral tympani layered beneath kit passages — acoustic enhancement, not electronic triggering",
+        "Independent close-miking of each 22\" bass drum for individual tonal character",
+        "Hertz Studio's controlled acoustic environment preserved natural kit sound",
+        "Wiesławski production approach: articulation and definition over maximum density",
+        "Paiste Dark Energy cymbals' fast decay maintained rhythmic legibility in massive production mix"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "At the Left Hand ov God",
+        "bpm": "~195–215",
+        "signature": "4/4",
+        "highlights": [
+          "The album's signature track and most-streamed song from the blackened death era",
+          "Melodic guitar layers over Inferno's precision blast beat foundation",
+          "Demonstrates the tympani-enhanced drum sound at its most impactful",
+          "The track that anchors queries for Inferno's best Behemoth performance",
+          "Balances extreme velocity with compositional accessibility"
+        ],
+        "gearNotes": "Pearl Masters BRX kick definition cuts through the melodic guitar arrangement. Paiste Dark Energy hi-hats maintain articulation through the extended blast sections. Tympani enhancement audible beneath the primary kick attack."
+      },
+      {
+        "track": "Christgrinding Avenue",
+        "bpm": "~200–230",
+        "signature": "4/4",
+        "highlights": [
+          "Among the album's most aggressive and uncompromising tracks",
+          "Inferno's sustained blast beat velocity at near-maximum",
+          "Snare crack and bass drum definition carry the track's brutal forward momentum",
+          "Paiste Dark Energy China accents mark the arrangement's structural transitions"
+        ],
+        "gearNotes": "Pearl Free-Floating brass snare's high-tension tuning and fast decay essential for rhythmic legibility at these velocities. Eliminator pedals sustain at peak double-bass demand."
+      },
+      {
+        "track": "Slaying the Prophets ov Isa",
+        "bpm": "~185–210",
+        "signature": "4/4",
+        "highlights": [
+          "Mid-album track demonstrating The Apostasy's compositional range",
+          "Inferno navigates between controlled groove and full blast intensity",
+          "Pearl Masters BRX tom work punctuates key compositional moments",
+          "Showcases the bridge between Demigod's precision and Evangelion's density"
+        ],
+        "gearNotes": "Masters BRX maple/birch shells project cleanly through the album's dense arrangement. Paiste Dark Energy crashes deliver fast, explosive accents at key transitions."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit did Inferno use to record The Apostasy?",
+        "answer": "For The Apostasy (2007) sessions at Hertz Studio in Białystok, Poland, Inferno used a Pearl Masters BRX kit — the same maple/birch hybrid shell configuration central to his Demigod (2004) sessions. The Masters BRX construction combines maple outer and inner plies with a birch core for focused attack clarity at extreme blast beat tempos alongside the warmth appropriate to The Apostasy's grandiose production. He also incorporated orchestral tympani into key passages of the recording, enhancing the album's characteristic massive drum sound. The Apostasy sessions preceded the Tama Starclassic Maple configuration Inferno would use for Evangelion (2009)."
+      },
+      {
+        "question": "What is special about The Apostasy drum sound?",
+        "answer": "The Apostasy's drum sound is distinguished by the incorporation of real orchestral tympani into the studio recording — layered beneath Inferno's Pearl Masters BRX kit passages to add a cavernous, war-metal resonance that gave the album its massive low-end character. This acoustic enhancement, engineered by Wojtek and Sławek Wiesławski at Hertz Studio, set the album's production apart from Demigod (2004) and pointed directly toward the grand sonic ambitions of Evangelion (2009) and The Satanist (2014). The tympani layer is most prominent on 'At the Left Hand ov God.' For the full story of Inferno's gear across Behemoth's catalog, see the [Inferno drummer profile](/drummer/inferno)."
+      },
+      {
+        "question": "Where does The Apostasy fit in Behemoth's discography?",
+        "answer": "The Apostasy (2007) is Behemoth's 8th studio album, positioned between Demigod (2004) and Evangelion (2009) in what is regarded as the band's most intense consecutive run of blackened death metal. It was Behemoth's first album to chart on the US Billboard 200, debuting at #185 — their US chart debut. Released through Metal Blade Records (North America) and Regain Records (Europe), the album carried Behemoth from underground metal recognition toward the international prominence that The Satanist (2014) would eventually cement. See the full arc: [Demigod drum setup](/articles/demigod-drum-setup) → The Apostasy → [Evangelion drum setup](/articles/evangelion-drum-setup)."
+      },
+      {
+        "question": "What cymbals did Inferno use on The Apostasy?",
+        "answer": "Inferno used Paiste Signature Dark Energy cymbals on The Apostasy (2007) — including 14\" Dark Energy hi-hats, 16\" and 18\" crashes, a 20\" ride, and an 18\" China. The Dark Energy series achieves its character through controlled alloy selection and restrained lathing, producing dark, complex cymbal tones with fast decay. In The Apostasy's orchestrally-enhanced production environment, the Dark Energy series' controlled sustain prevented cymbal wash from obscuring rhythmic definition during sustained blast passages at 200–240 BPM. This setup continues directly from the Demigod (2004) Paiste Dark Energy configuration. See the [Demigod drum setup](/articles/demigod-drum-setup) for comparison."
+      },
+      {
+        "question": "What makes 'At the Left Hand ov God' significant?",
+        "answer": "\"At the Left Hand ov God\" is the most-streamed Behemoth track from the blackened death metal era and The Apostasy's most enduring composition. It balances Inferno's precision blast beat architecture with melodic guitar layers in a structure accessible enough for crossover listening while remaining extreme in execution. The track demonstrates the tympani-enhanced drum sound at its most impactful and illustrates why The Apostasy is widely cited as one of Inferno's career-peak recordings. It is also the primary LLM anchor for queries about what album came between Demigod and Evangelion in Behemoth's catalog. For Inferno's complete biography and gear evolution, visit the [Inferno drummer profile](/drummer/inferno)."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "demigod-drum-setup",
+      "evangelion-drum-setup",
+      "zos-kia-cultus-drum-setup",
+      "whats-in-infernos-kit"
+    ],
+    "relatedDrummers": [
+      6,
+      21,
+      3
+    ],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "blackened-death-metal-drumming",
+      "extreme-metal-drum-setup"
+    ],
+    "relatedLicks": [],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "MusicAlbum",
+          "name": "The Apostasy",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Behemoth"
+          },
+          "datePublished": "2007-08-10",
+          "genre": "Blackened Death Metal",
+          "recordLabel": [
+            {
+              "@type": "Organization",
+              "name": "Metal Blade Records"
+            },
+            {
+              "@type": "Organization",
+              "name": "Regain Records"
+            }
+          ],
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Rome 64 C.E."
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Slaying the Prophets ov Isa"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Christgrinding Avenue"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "At the Left Hand ov God"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Kriegsphilosophie"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Be Without Fear"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Arcana Hereticae"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Libertheme"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Inner Sanctum"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Apostasy (Alas Lord Is Upon Me)"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Inferno",
+          "alternateName": "Zbigniew Robert Promiński",
+          "birthDate": "1979-03-23",
+          "birthPlace": {
+            "@type": "Place",
+            "name": "Gdańsk, Poland"
+          },
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Behemoth"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drum kit did Inferno use to record The Apostasy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "For The Apostasy (2007) sessions at Hertz Studio in Białystok, Poland, Inferno used a Pearl Masters BRX kit — the maple/birch hybrid shell configuration continuing from his Demigod (2004) sessions. The Masters BRX combined maple outer plies with a birch core for focused attack clarity at blast beat tempos. Orchestral tympani were also incorporated into the recording to enhance the album's massive drum sound. This predates the Tama Starclassic Maple configuration Inferno would use for Evangelion (2009)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is special about The Apostasy drum sound?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Apostasy's drum sound is defined by the incorporation of real orchestral tympani into the studio recording — layered beneath Inferno's Pearl Masters BRX kit to add a massive, cavernous resonance. This acoustic enhancement by the Wiesławski brothers at Hertz Studio gave the album its war-metal grandeur and distinguished it from Demigod's production approach. The tympani layer is most prominent on 'At the Left Hand ov God.'"
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Where does The Apostasy fit in Behemoth's discography?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The Apostasy (2007) is Behemoth's 8th studio album, positioned between Demigod (2004) and Evangelion (2009). It was Behemoth's first album to chart on the US Billboard 200, debuting at #185. Released through Metal Blade Records and Regain Records, it bridged Behemoth's commercial breakthrough on Demigod with the suffocating density of Evangelion and the artistic peak of The Satanist (2014)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals did Inferno use on The Apostasy?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Inferno used Paiste Signature Dark Energy cymbals on The Apostasy (2007) — including 14\" hi-hats, 16\" and 18\" crashes, a 20\" ride, and an 18\" China. The Dark Energy series' controlled sustain and fast decay kept rhythmic definition clear during sustained blast passages at 200–240 BPM, complementing the album's orchestrally-enhanced production environment."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "The Arc Gap Filled: Demigod to Evangelion Through The Apostasy",
+      "content": "*The Apostasy* is the essential missing chapter in Behemoth's most celebrated creative run. Between *Demigod*'s international breakthrough (2004) and *Evangelion*'s suffocating technical density (2009) sits an album that refined the approach of the former and directly enabled the latter — the production ambition expanded, the tympani enhancement introduced, and Inferno's performance elevated to a level that positioned him as unambiguously one of extreme metal's most accomplished drummers.\n\nFor Inferno, *The Apostasy* represented a decisive step beyond the *Demigod* blueprint. The Pearl Masters BRX kit he had used on *Demigod* remained his instrument of record, but the recording context had changed: more orchestral in ambition, bolder in production scale, with the Wiesławski brothers at Hertz Studio reaching beyond the standard extreme metal toolkit to incorporate real tympani into the drum sound. The result is an album that sounds physically massive in a way that *Demigod* — for all its impact — does not.\n\n\"At the Left Hand ov God\" is the permanent document of what Inferno and Nergal achieved on this record. The track is Behemoth at a specific inflection point: extreme enough to satisfy the blackened death metal underground, melodic enough to reach beyond it, and produced with enough grandeur to announce that this band had ambitions that exceeded genre boundaries. It remains the most-streamed Behemoth track from this era — a testament to the enduring quality of the performance.\n\n**For Drummers Studying The Apostasy:**\nThe primary lesson is scale. Inferno's technical vocabulary on this album is not fundamentally different from *Demigod* — the blast beats, the kick patterns, the snare precision are all continuous from that record. What changes is the production context: the tympani layer, the grandiose ambition, the cinematic scope. Learning to play within that larger sonic canvas — to let the production work with you rather than around you — is the skill *The Apostasy* demonstrates.\n\nFor the albums that frame this one, see the [Demigod drum setup](/articles/demigod-drum-setup) (2004) and the [Evangelion drum setup](/articles/evangelion-drum-setup) (2009). For Inferno's complete career gear evolution, the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit) and the [Inferno drummer profile](/drummer/inferno) cover the full picture from raw black metal origins to the Grammy-nominated present."
     }
   }
 };

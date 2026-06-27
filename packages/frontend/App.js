@@ -4607,7 +4607,7 @@ const DRUMMER_PAGE_META_OVERRIDES = {
   },
   'brann-dailor': {
     title: 'Brann Dailor Drum Kit & Drum Set — Mastodon Drummer | MetalForge',
-    description: "See exactly what drums, cymbals, and hardware Brann Dailor (Mastodon) uses — complete kit specs and signature gear.",
+    description: "See exactly what drums, cymbals, and hardware Brann Dailor (Mastodon) uses — DW Collector's Series Maple drum kit, Sabian AAX cymbals, and Vater Brann Dailor Signature sticks.",
   },
 };
 

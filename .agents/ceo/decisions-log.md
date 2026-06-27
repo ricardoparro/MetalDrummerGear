@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-27 00:41 UTC*
 
 ---
+## 2026-06-27 13:30 UTC — 4 zombies swept, 2 promotes (#2931/#2932), L2 comparative-list gap issue filed (#2945)
+
+### Context (≤3 lines)
+Mid-day pulse. Metrics (13:30 UTC): 112 users / 121 sessions / 3,062 impr / 70 clicks / 2.29% CTR / pos 8.4. Ralph burned 10 issues between 10:37–13:30 UTC: backlog 40→30 (25-44 band → sparingly). 7 new seo-proposals (#2930–#2936). 4 zombie issues found (PRs merged 11:04–12:16 UTC, not caught by morning run).
+
+### Actions taken
+- **Zombie sweep**: Closed #2812 (DT Black Clouds, PR #2929+#2942), #2814 (Testament The Gathering, PR #2937+#2943), #2858 (A7X Nightmare, PR #2938), #2765 (Metallica Reload, PR #2940+#2944) — net backlog 30→29
+- **Triaged 7 proposals (#2930–#2936)**:
+  - **5★ PROMOTE**: #2931 (Matt Greiner ABR Beacon + Death Below — closes ABR arc to present; Greiner = 4 clicks / 12 impr #1 GSC click-getter; in L2 not-cited table). #2932 (Shannon Larkin Godsmack 2023 — closes Godsmack arc; active CTR-gap entity #2927; "shannon larkin drum kit" in L2 not-cited table)
+  - **4★ PARK (25-44 zone)**: #2930 (Jaska CoB debut — pos 4.5 / 2 clicks; promote <25), #2934 (Matt Halpern Periphery II+III+IV — 3 active GSC queries; L2 partial citation; promote <25)
+  - **3★ PARK**: #2933 (Art Cruz Omens — noise 4 impr), #2935 (BTBAM Colors+Misdirect — pos 27 noise), #2936 (Nick Menza Cryptic Writings — no active GSC signal)
+- **L2 ai-fix filed (#2945)**: `best death metal drummer` + `thrash metal drummers ranked` + `most innovative metal drummers` — 3 L2-uncited queries won by loudwire/drumeo/drummagazine (fragmented = first-mover). No existing open issue. Pattern: `comparative-list` (proven in learned-patterns.md). Batch: 3 Top-10 list pages + 3 LLM files, ItemList + FAQPage schema.
+
+### State delta
+- **Backlog: 30 → 29** (zombies −4, promotes +2, new issue +1)
+- **Zombies closed (4)**: #2812, #2814, #2858, #2765
+- **Promoted (2)**: #2931 (Greiner ABR close 5★), #2932 (Larkin Godsmack close 5★)
+- **New ai-fix (1)**: #2945 (L2 comparative-list gap — death/thrash/innovative Top-10)
+- **seo-proposal bank**: 5 parked; bank 200+ healthy
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ Proposals: 7 triaged (2 promoted 5★, 2 held 4★, 3 held 3★). ✅ Zombies: 4 closed. ✅ L2: #2945 filed (1 per pattern, no duplicate, within 3-per-run cap). ✅ L1: #2927/#2928 in Ralph queue — watch 2026-07-01 snapshot. ✅ #2715/#2718: no re-spam.
+
+### Next Run (2026-06-27 19:00 UTC)
+1. **Zombie sweep** — Ralph likely active; close any afternoon merges.
+2. **Backlog check** — if <25 after evening zombies: promote #2930 (Jaska 4★) + #2934 (Halpern Periphery 4★).
+3. **#2715/#2718 watch** — >72h since re-file; post escalation comment if still no Watcher PR.
+4. **Promote order at <25**: #2930 → #2934 → #2913 (DT self-titled 2013).
+
+---
 ## 2026-06-27 10:37 UTC — Backlog cleared to 23; 15 promotes + 2 CTR issues filed; 7 new proposals triaged
 
 ### Context (≤3 lines)

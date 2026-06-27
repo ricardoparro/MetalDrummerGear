@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-27 00:41 UTC*
 
 ---
+## 2026-06-27 10:37 UTC — Backlog cleared to 23; 15 promotes + 2 CTR issues filed; 7 new proposals triaged
+
+### Context (≤3 lines)
+Morning run (metrics: 109 users / 118 sessions / 3,062 impr / 70 clicks / 2.29% CTR / pos 8.4). Ralph burned through queue overnight: eligible backlog fell from 45 → 26 before this run, then 3 zombie closes brought it to 23 (< 25 threshold → promote liberally). L1 snapshot (2026-06-24) is first run ever — 43 new queries, no wins/losses yet. Key CTR-gap signals: Shannon Larkin pos 4.8 / 13 impr / 0 cl; Brann Dailor pos 6.3 / 23 impr / 0 cl.
+
+### Actions taken
+- **Zombie sweep**: Closed #2798 (DT FII, PR #2925), #2767 (DT SDOIT, PR #2922), #2719 (Metallica Load, PR #2920) — backlog 26→23
+- **Duplicate close**: #2899 (Gojira L'Enfant Sauvage) — `/articles/lenfant-sauvage-drum-setup` already in sitemap per indexation-snapshot 2026-06-25
+- **5★ promotes (pre-queued)**: #2892 (Cryptopsy Whisper Supremacy, auto-5★ broken-ref), #2893 (Mastodon OMROTS, Brann CTR gap), #2897 (Comparison-31, 2 CTR-gap + 2 L2 gap entities), #2900 (Meshuggah CC+DEI, L2 zero-competitor), #2906 (Meshuggah CatchThirtythree, L2 zero-competitor) → backlog 23→28
+- **4★ promotes (pre-queued + 1 new)**: #2887 (Arch Enemy arc), #2888 (GearEvo-8), #2894 (A7X self-titled, The Rev), #2895 (Behemoth Apostasy), #2896 (Godsmack 1000hp, Larkin), #2904 (Comparison-32: Hoglan/Haake/Kollias/Sandoval/Casagrande/Cavalera), #2908 (Fear Factory arc), #2909 (LoG Resolution), #2910 (DT Mangini era close), #2914 (Genre Gear Guides: best-cymbals-death-metal etc. — 4★ new) → backlog 28→38
+- **L1 CTR-gap issues filed (2/3 slots)**: #2927 (Shannon Larkin title/meta fix, pos 4.8/13 impr/0 cl), #2928 (Brann Dailor title/meta fix, pos 6.3/23 impr/0 cl) → backlog 38→40
+- **New proposals triaged (#2913–#2919)**: 1 promoted (#2914, 4★), 6 parked as 3★:
+  - 3★ PARK: #2913 (DT self-titled 2013 Mangini — minor arc gap, no active GSC), #2915 (IM No Prayer McBrain 1990 — peripheral), #2916 (Comparison-33: Portnoy/Mangini + Mazurkiewicz/Sandoval + Menza/Verbeuren — no active CTR signal), #2917 (SoundLike-32: Axenrot/Dee/Priester — peripheral entities), #2918 (GearPrice-23 batch), #2919 (Evo batch 11)
+- **learned-patterns.md**: Updated Shannon Larkin + Brann Dailor CTR gap entries with issue numbers; added L1 first-snapshot summary
+
+### State delta
+- **Backlog: 45 → 40** (zombies -3, promotes +15, new issues +2)
+- **seo-proposal bank**: 6 more parked (3★); bank remains 200+
+- **Issues closed**: #2798, #2767, #2719 (zombie), #2899 (duplicate)
+
+### Quota check
+✅ Proposals: 7 triaged (1 promoted 4★, 6 parked 3★). ✅ Pre-queued backlog: 15 promotes executed on cap relief. ✅ CTR-gap: 2 L1 issues filed (#2927, #2928). ✅ Zombies: 3 closed. ✅ Duplicate: #2899 closed. ✅ Founder ideas: inbox empty. ✅ Decisions logged.
+
+### Next Run (2026-07-01 07:00 UTC)
+1. **Zombie sweep** — PRs merged since this run; close parent ai-fix issues.
+2. **#2715 + #2718** — St. Anger + Hardwired still open >60h; post escalation comment if Ralph hasn't started.
+3. **L1 snapshot** — new gsc-watch-snapshot.md; check Shannon Larkin + Brann Dailor CTR (#2927/#2928 shipped?); if still 0 clicks post-fix, flag as structural issue.
+4. **Promote order** (when backlog < 45 again): #2882 (Comparison-29, 5★-candidate CTR entities) → #2901 (IM Brave New World batch) → #2902 (Opeth Heritage/Pale/Sorceress batch).
+
+---
 ## 2026-06-27 (re-trigger-2) — 14 new proposals triaged, all held at cap; #2899 flagged duplicate
 
 ### Context (≤3 lines)

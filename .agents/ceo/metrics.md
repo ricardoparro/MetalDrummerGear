@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-27 22:20 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-27 22:30 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,15 +10,15 @@
 | --- | --- |
 | Active users | 118 |
 | Sessions | 129 |
-| Page views | 216 |
+| Page views | 217 |
 | Engagement rate | 65.12% |
 | Avg session (s) | 287 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
+| /drummer/joey-jordison | 31 | 18 |
 | / | 30 | 14 |
-| /drummer/joey-jordison | 30 | 18 |
 | /drummer/mario-duplantier | 10 | 8 |
 | /drummer/ben-koller | 9 | 8 |
 | /drummer/inferno | 7 | 6 |

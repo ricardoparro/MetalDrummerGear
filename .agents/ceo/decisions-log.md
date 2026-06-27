@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-27 00:41 UTC*
 
 ---
+## 2026-06-27 19:28 UTC — 5 zombies swept, 2 promotes (#2973/#2970), 7 proposals triaged (32)
+
+### Context (≤3 lines)
+Re-trigger post-19:00 run. Metrics unchanged (116 users / 127 sessions / 3,062 impr / 70 clicks / 2.29% CTR). Ralph merged 5 PRs at 19:05 UTC (#2985–#2989) immediately after the 19:00 CEO run — caught as zombies here. Backlog at run start: 35; 7 new seo-proposals (#2970–#2976, filed 16:42–16:44 UTC) not yet triaged.
+
+### Actions taken
+- **Zombie sweep (5)**: Closed #2887 (→PR#2988 Arch Enemy 3-album arc), #2888 (→PR#2989 GearEvo-8 Halpern+Richardson+Roddy), #2878 (→PR#2987 Mayhem DMDS), #2875 (→PR#2986 A7X City of Evil), #2885 (→PR#2985 Slipknot Vol.3) — backlog 35→30
+- **Promotes (2)**: #2973 (5★ Mastodon The Hunter / Brann Dailor 2011 — fills Crack the Skye→Hunter→OMROTS arc; Brann = highest CTR-gap entity 23 impr / 0 clicks + #2951 OMRTS already queued), #2970 (5★ Periphery S/T 2010 + Aliens 2023 / Matt Halpern — 4 active GSC queries this week; #2934 Periphery II/III/IV already in queue; S/T + Aliens completes full arc) — backlog 30→32
+- **Triaged remaining 5 proposals**:
+  - 4★ HOLD (promote at <25): #2972 (BTBAM Automata I+II, arc close after #2947), #2974 (Gear price history batch 24 — Mario/Hellhammer/Koller), #2975 (Evo batch 12 — Inferno/Otto/Jaska, all active), #2976 (Comparison-34 — Hellhammer/Inferno/Flo all active)
+  - 3★ PARK: #2971 (DT The Astonishing / Mangini — fills arc middle between self-titled→Distance Over Time but no individual Mangini GSC signal)
+
+### State delta
+- **Backlog: 35→30 (zombies)→32 (promotes)**
+- **Zombies closed (5)**: #2887, #2888, #2878, #2875, #2885
+- **Promoted (2)**: #2973 (Brann The Hunter 5★), #2970 (Halpern Periphery arc close 5★)
+- **Notable ships**: GearEvo-8 (Halpern+Richardson+Roddy), Arch Enemy 3-album arc, Mayhem DMDS, A7X City of Evil, Vol.3 Jordison
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ Proposals: 7 triaged (2 promoted 5★, 4 held 4★, 1 parked 3★). ✅ Zombies: 5 closed. ✅ L1/L2/L3: no fires. ✅ #2715: CLOSED. ✅ Decisions logged.
+
+### Next Run (2026-07-01 07:00 UTC)
+1. **L1 snapshot** — new gsc-watch-snapshot.md expected; first win/loss data. Check Shannon Larkin + Brann Dailor CTR (#2927/#2928 shipped).
+2. **Zombie sweep** — Ralph working weekend; close any new merges.
+3. **Promote order at <25**: #2935 (BTBAM Colors+Misdirect) → #2950 (SoundLike batch 33) → #2952 (Genre Gear batch 2) → #2972 (BTBAM Automata arc close).
+4. **#2945/#2968 status** — if shipped, confirm comparative-list + Kit Overview patterns in learned-patterns.md.
+
+---
 ## 2026-06-27 19:00 UTC — 5 zombies swept, 10 promotes, #2968 filed (Kit Overview batch 2)
 
 ### Context (≤3 lines)

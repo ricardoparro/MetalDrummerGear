@@ -4602,8 +4602,8 @@ const DRUMMER_PAGE_META_OVERRIDES = {
     description: "What drum kit does Inferno use? The Behemoth drummer's Pearl Masterworks kit, Paiste RUDE cymbals, and Czarcie Kopyto double pedal — complete setup.",
   },
   'shannon-larkin': {
-    title: 'Shannon Larkin Drum Kit & Setup — Godsmack Gear | MetalForge',
-    description: "What drum kit does Shannon Larkin use? The Godsmack drummer's ddrum Dios Series kit, Sabian AAX/HHX cymbals, and DW 9000 double pedal breakdown.",
+    title: 'Shannon Larkin Drum Set & Kit — Godsmack Gear | MetalForge',
+    description: "See exactly what drums, cymbals, and hardware Shannon Larkin (Godsmack) plays — ddrum Dios Series drum set, Sabian AAX/HHX cymbals, DW 9000 double pedal.",
   },
 };
 

@@ -30,6 +30,20 @@ Lars Ulrich's drum kit and gear setup. Lars Ulrich is a professional metal drumm
 
 Lars Ulrich plays a Tama Starclassic Maple kit with his signature LU1465 snare (14x6.5"), topped with Zildjian A Custom cymbals — including 14" Dyno Beat Hi-Hats, 16"/17"/18" Rock Crashes, 20" Z Custom China, and a 22" Ride. His Tama Iron Cobra 900 Power Glide double pedal drives the thunderous low-end that has powered Metallica albums from the Black Album through 72 Seasons.
 
+## Gear Evolution by Album Era
+
+| Era | Kit | Snare | Cymbals |
+|---|---|---|---|
+| Kill 'Em All / Ride the Lightning (1983–84) | Ludwig / Camco | Ludwig Supraphonic | Zildjian A |
+| Master of Puppets (1986) | Camco Oaklawn Badge Maple | Ludwig Supraphonic | Zildjian A |
+| …And Justice for All (1988) | Tama Artstar II (birch) | Tama Artstar II Steel | Zildjian A / Z series |
+| Black Album (1991) | Tama Artist Maple | Tama LU1465 prototype | Zildjian A series |
+| **Load / Reload (1996–97)** | **Tama Star Classic Maple** | **Tama LU1465 (production)** | **Zildjian A Custom (debut)** |
+| Death Magnetic (2008) | Tama Starclassic Maple | Tama LU1465 | Zildjian A Custom |
+| Hardwired / 72 Seasons (2016–23) | Tama Starclassic Maple | Tama LU1465 | Zildjian A Custom |
+
+**Load era significance:** The 1996 Load sessions marked two defining transitions in Lars's setup that persist today: (1) the debut of Zildjian A Custom cymbals, which replaced the A series used on the Black Album and remain his primary cymbal choice; (2) the upgrade from Tama Artist Maple to Star Classic Maple. Recorded at The Plant Studios, Sausalito with producer Bob Rock, Load is also Lars's most blues-influenced studio performance. See the full [Load drum setup article](https://metalforge.io/articles/load-drum-setup) for complete gear details.
+
 ## Biography
 
 Lars Ulrich is a Danish musician and co-founder of Metallica, one of the most influential thrash metal bands in history. Born in 1963, he moved to Los Angeles to pursue his drumming career and formed Metallica with James Hetfield in 1981. Known for his aggressive style and iconic drum fills, Lars has been instrumental in shaping the sound of heavy metal.

@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-27 00:41 UTC*
 
 ---
+## 2026-06-27 (re-trigger) — 7 new proposals triaged, all held at cap
+
+### Context (≤3 lines)
+Re-trigger run post-21:00 sweep. Metrics 2026-06-27 05:19 UTC: 108 users / 117 sessions / 2,542 impr / 64 clicks / 2.52% CTR / pos 8.6. No PRs merged since 21:00 (last merge 2026-06-26T23:47Z). Backlog confirmed at 45 — hard cap active.
+
+### Actions taken
+- **Triaged 7 seo-proposals (#2892–#2898)** — all held (backlog ≥45 gate; even 5★ park as seo-proposal until cap clears):
+  - 5★ HOLD: #2892 (Cryptopsy 'Whisper Supremacy' — auto-5★ broken-relatedAlbum ref fix in and-then-youll-beg), #2893 (Mastodon 'OMROTS' — Brann Dailor CTR gap, pos 6.3/23 impr/0 cl), #2897 (Comparison-31: shannon-larkin-vs-jay-weinberg + flo-vs-kollias — 2 active CTR-gap entities + 2 L2 citation-gap entities)
+  - 4★ HOLD: #2894 (A7X self-titled, The Rev 2007 — LLM tribute anchor; arc partially covered by #2858/#2875), #2895 (Behemoth 'The Apostasy', Inferno 2007 — arc filler, active entity), #2896 (Godsmack '1000hp', Shannon Larkin 2014 — CTR-gap drummer, arc filler)
+  - 3★ PARK: #2898 (Evo batch 9: Scott Travis/Gavin Harrison/Nicko McBrain — peripheral entities, no active GSC signal)
+- **No zombies** — no PRs merged today
+- **#2715–#2718**: deferred per 21:00 run rule (next check 2026-07-01 07:00) — no re-spam
+- **L1/L2/L3**: no new fires
+
+### State delta
+- **Backlog: 45 → 45** (unchanged; no promotes, no zombie closes)
+- **seo-proposal bank: 200+ held** (7 more quality-assessed and banked)
+
+### Quota check
+✅ Proposals: 7 triaged (3 held 5★, 3 held 4★, 1 parked 3★). ✅ Founder ideas: inbox empty. ✅ Zombies: none. ✅ L1/L2/L3: no fires. ✅ #2715–#2718: no re-spam. ✅ Decisions logged.
+
+### Next Run (2026-07-01 07:00 UTC)
+1. **Zombie sweep** — check PRs merged since this run.
+2. **#2715–#2718** — if still open: post "60h+ open" comment; escalate to `human-founder` if Ralph merged unrelated issues since last check.
+3. **L1 snapshot** — gsc-watch-snapshot.md refreshes ~2026-07-01; verify brann-dailor + shannon-larkin CTR; file title+meta ai-fix if still 0 clicks AND backlog <45.
+4. **First promotes on cap relief** (when backlog <45): #2892 (broken-ref auto-5★) → #2893 (Brann CTR gap) → #2897 (Comparison-31).
+
+---
 ## 2026-06-27 21:00 — 7 new proposals triaged, #2885 Jordison Vol.3 promoted (44→45 cap)
 
 ### Context (≤3 lines)

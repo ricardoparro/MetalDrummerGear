@@ -275,6 +275,418 @@ export const articles = {
       "content": "Jaska Raatikainen co-founded Children of Bodom at 14 years old and drummed for every record the band ever made — from the raw, youthful energy of Something Wild through the mature melodic sophistication of Hexed. The band's dissolution in 2019 and Alexi Laiho's death in December 2020 permanently sealed the Children of Bodom catalog as one of melodic death metal's defining bodies of work. Raatikainen's drumming is inseparable from that legacy.\n\nHis gear choices reflect the demands his music made:\n\n- **Pearl Masters Premium Maple**: Professional-grade shells built for the endurance of 26 years of worldwide touring and technically demanding studio work\n- **Zildjian A Custom Hi-Hats and Crashes**: Definition and attack that cuts through dense keyboard and guitar arrangements without mix compromise\n- **Zildjian K Custom Ride**: Tonal contrast that separates atmospheric passages from full-intensity sections\n- **Pearl Eliminator Double Pedal**: Mechanical consistency supporting the double-kick patterns that drive Children of Bodom's most relentless material\n- **Vic Firth American Classic 5A**: Speed and projection balance for a drummer navigating blast beats and neoclassical fills within the same song\n\nThe deeper lesson in Raatikainen's playing is the melodic integration: how fills follow keyboard lines, how kick density responds to guitar riff structure, how the full kit participates in compositional decisions that most drummers treat as the melody instruments' job alone. Children of Bodom demanded that, and Raatikainen delivered it across a decade of peak-era recordings.\n\nFor deeper exploration:\n- **Full drummer profile**: [Jaska Raatikainen at MetalForge](/drummer/55)\n- **Gene Hoglan profile**: [Gene Hoglan — the Atomic Clock](/drummer/3) — another extreme metal drummer whose precision and melodic fill intelligence defined a genre\n- **Dave Lombardo profile**: [Dave Lombardo at MetalForge](/drummer/4) — the blast beat architect whose vocabulary Raatikainen drew on for Children of Bodom's most aggressive passages\n\nChildren of Bodom's catalog stands as Finnish metal's defining contribution to the global melodic death metal genre. Jaska Raatikainen was there for every note."
     }
   },
+  "something-wild-drum-setup": {
+    "slug": "something-wild-drum-setup",
+    "albumTitle": "Something Wild",
+    "artist": "Children of Bodom",
+    "drummer": "Jaska Raatikainen",
+    "drummerId": 55,
+    "relatedDrummerSlug": "jaska-raatikainen",
+    "year": 1997,
+    "genre": "Melodic Death Metal",
+    "label": "Spinefarm Records",
+    "studio": "Helsinki, Finland",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Something Wild Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 1997 Debut",
+    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Something Wild (1997). Complete breakdown of the pre-endorsement Pearl configuration, Zildjian A Series cymbals, and double pedal setup behind CoB's debut.",
+    "seoKeywords": [
+      "something wild drums",
+      "jaska raatikainen something wild drum setup",
+      "children of bodom 1997 drum kit",
+      "jaska raatikainen debut gear",
+      "jaska raatikainen pre-endorsement kit",
+      "children of bodom debut album drums",
+      "something wild recording kit",
+      "jaska raatikainen 1997"
+    ],
+    "ogImage": "/images/albums/something-wild-drums.webp",
+    "intro": {
+      "title": "Where Children of Bodom Began: The Drum Kit Behind Something Wild",
+      "content": "Released on November 5, 1997, *Something Wild* is Children of Bodom's debut full-length album — and the record that introduced Jaska Raatikainen's drumming to the world. The band had only just renamed from Inearthed to Children of Bodom that same year, and *Something Wild* captures Raatikainen at his youngest and most raw: 17 or 18 years old, equipped with a pre-endorsement Pearl configuration, Zildjian A Series cymbals, and Pearl bass drum pedals, playing the melodic death metal vocabulary that he and Alexi Laiho had been developing since co-founding the band in Espoo in 1993.\n\nThe debut's significance in the Children of Bodom arc is hard to overstate. *Something Wild* introduced the essential CoB formula — Janne Wirman's neo-classical keyboard countermelodies layered over Alexi Laiho's shredding guitar runs, underpinned by Raatikainen's relentless but musically aware drumming — before Spinefarm Records had the international distribution network to bring it to audiences outside Finland. 'Lake Bodom,' 'Deadnight Warrior,' and 'Red Light in My Eyes' established the compositional DNA that *Hatebreeder* (1999) would refine and *Follow the Reaper* (2000) would take global.\n\nWhat distinguishes the *Something Wild* drum sound from every subsequent CoB record is its pre-endorsement character: no sponsored kit, no contracted cymbal relationship, no Pearl clinics or Zildjian artist commitments. This is Jaska Raatikainen playing the gear a young Finnish metal drummer assembled for himself — a Pearl export-level configuration with Zildjian A Series cymbals selected for their practical cut and musical brightness, not marketing considerations. That rawness is audible in the recording and historically unique in the Children of Bodom catalog.",
+      "keyPoints": [
+        "Children of Bodom debut album — first studio recording under the CoB name (formerly Inearthed)",
+        "Released November 5, 1997 on Spinefarm Records",
+        "Jaska Raatikainen, age 17–18 — pre-endorsement Pearl configuration",
+        "Zildjian A Series cymbals throughout — pre-commercial-relationship selection",
+        "Features 'Lake Bodom,' one of CoB's most iconic songs",
+        "Origin point of the complete Children of Bodom arc that runs through Hexed (2019)"
+      ]
+    },
+    "drumKit": {
+      "title": "Early Pearl Configuration: Before the Endorsements",
+      "brand": "Pearl",
+      "model": "Pearl Export / early professional configuration",
+      "finish": "Natural finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" x 9\" Rack Tom",
+          "12\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Maple shells — Pearl professional-grade, pre-Masters endorsement configuration"
+      },
+      "description": "For *Something Wild*, Jaska Raatikainen played an early Pearl configuration — a pre-endorsement setup assembled before the Masters Premium Maple relationship that would define his later career. Pearl's professional construction philosophy, consistent since the Export series established the brand in working drummers' hands, made Pearl a natural choice: reliable double-kick hardware, consistent shell response, and the mechanical durability that a 17-year-old drummer needed for the intense physical demands of melodic death metal.\n\nThe double bass drum configuration — twin 22\" x 18\" kick drums — was part of Raatikainen's approach from the earliest Children of Bodom sessions. The album's neo-classical arrangements required sustained double-kick velocity as a structural foundation: 'Deadnight Warrior' opens with immediate double-bass momentum; 'Lake Bodom' deploys extended kick patterns that support the song's dramatic build and release structure. The 22\" diameter provided the low-frequency mass that gives kicks presence in a guitar-and-keyboard-dense mix; the 18\" depth added the attack definition that Raatikainen's musical approach demanded.\n\nThe compact tom spread — 10\" and 12\" rack toms paired with 14\" and 16\" floor toms — is the configuration Raatikainen would maintain across every subsequent Children of Bodom record. Even at 17, the four-tom layout gave him the tonal range to execute the melody-following fills that would become his signature: phrases that track Janne Wirman's keyboard runs and Alexi Laiho's guitar harmonics rather than simply marking rhythmic subdivisions. The even Pearl shell response across the spread ensured each tom's pitch and sustain contribution to those fills was musical and intentional.",
+      "notes": [
+        "Pre-endorsement Pearl configuration — assembled before the Masters Premium Maple relationship",
+        "Double 22\" x 18\" bass drums for the double-kick foundation that defines every CoB album",
+        "Compact tom spread (10\", 12\", 14\", 16\") — maintained across Raatikainen's entire CoB career",
+        "Pearl professional-grade maple shells delivering consistent attack for melodic death metal",
+        "Youngest recorded major CoB setup — pre-international touring, pre-commercial endorsement"
+      ],
+      "estimatedValue": "$800–1,800 (Pearl professional configuration, 1997)"
+    },
+    "snare": {
+      "title": "Pearl 14\" x 5.5\" Maple Snare",
+      "brand": "Pearl",
+      "model": "Pearl 14\" x 5.5\" Maple Snare",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple — Pearl professional-grade construction",
+      "description": "Raatikainen's snare on *Something Wild* was a Pearl maple model — matched to the kit's shell character and the sonic demands of CoB's debut-era compositions. The 14\" x 5.5\" dimensions balanced crack and attack for blast beat sections and fast single-stroke runs with enough body and sustain to track musically alongside Janne Wirman's keyboard layers and Alexi Laiho's neo-classical guitar harmonics.\n\nMaple shell construction gave the snare a warmer, more musical character than steel or brass alternatives — a choice that suited Children of Bodom's hybrid approach, where melodic content carried equal compositional weight to aggression. The snare on *Something Wild* needed to function both as a percussive engine for the album's most intense passages and as a musical voice within arrangements that were structurally sophisticated for a debut record.\n\nThe raw, direct recording approach that characterizes *Something Wild* captured the Pearl maple snare with an immediacy that distinguishes the debut from CoB's later, more polished productions. That directness — the audible stick attack, the maple warmth, the mechanical response of a pre-endorsement instrument — is part of what makes the album's drum sound a historically distinct document within the Children of Bodom catalog.",
+      "tuningSetting": "Medium to medium-bright — clarity for neo-classical death metal arrangements without sacrificing body",
+      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$200–400 (Pearl maple snare, 1997)"
+    },
+    "cymbals": {
+      "title": "Zildjian A Series: Musical Brightness for the Debut",
+      "brand": "Zildjian",
+      "series": "Zildjian A Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian A 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Bright, responsive articulation for 16th-note patterns at melodic death metal tempos"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A 16\" Crash",
+          "position": "Left crash",
+          "notes": "Fast-decaying crash for accent work within dense keyboard-and-guitar arrangements"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A 18\" Crash",
+          "position": "Right crash",
+          "notes": "Section-boundary crash providing tonal contrast at structural moments in 'Lake Bodom' and 'Deadnight Warrior'"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian A 20\" Ride",
+          "position": "Right side",
+          "notes": "Bell accents during keyboard-driven passages; sustained timekeeping for mid-tempo sections"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A 18\" China",
+          "position": "Above floor tom",
+          "notes": "Trashy, cutting attack for riff-transition accents — deployed at structural moments, not as continuous texture"
+        }
+      ],
+      "description": "Jaska Raatikainen's cymbal setup on *Something Wild* centered on Zildjian's A Series — a pre-endorsement selection chosen for practical musical reasons rather than brand commitment. The Zildjian A Series' B20 bronze alloy and traditional lathing produce a bright, immediately responsive sound with clear attack and consistent sustain — exactly what neo-classical death metal demands when cymbals must cut through dense keyboard and guitar arrangements without compression artifacts.\n\nOn *Something Wild*, where Janne Wirman's keyboards occupied substantial harmonic space on every track, cymbal clarity was essential: a darker, washy cymbal character would have blurred the frequency boundaries between the drum accent work and the keyboard lines. The A Series' natural brightness separated the two without requiring post-production intervention.\n\nThe 14\" A hi-hats provided the articulation foundation for Raatikainen's rhythmic work — bright enough to register clearly in the mix at the tempos Children of Bodom deployed, responsive enough for the rapid 16th-note patterns that tracks like 'Red Light in My Eyes, Pt. 1' require. The two A crashes gave him tonal variety for accent work: the 16\" for fast explosive punctuation in tight passages; the 18\" for section boundaries and climactic moments. The 18\" A China — deployed at riff transitions in 'Lake Bodom' and 'Deadnight Warrior' — added the trashy, upward-cutting attack that distinguishes CoB's accent language from purely European power metal cymbal approach.",
+      "estimatedValue": "$600–1,200 (Zildjian A Series five-piece setup, 1997)"
+    },
+    "hardware": {
+      "items": [
+        {
+          "type": "Double Bass Drum Pedal",
+          "brand": "Pearl",
+          "model": "Pearl double bass pedal (early configuration)",
+          "notes": "Chain-drive double pedal providing the mechanical consistency for CoB's sustained double-kick vocabulary",
+          "description": "Pearl's double pedal — the pre-endorsement hardware choice consistent with the kit — delivered the mechanical reliability Raatikainen needed for the extended double-bass patterns that define *Something Wild*'s rhythmic foundation. Tracks like 'Deadnight Warrior' and 'Lake Bodom' require sustained double-kick velocity across full song structures; pedal consistency was not an optional feature but a compositional requirement."
+        },
+        {
+          "type": "Drumsticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5A",
+          "notes": "Standard 5A dimensions — speed and projection for neo-classical arrangements",
+          "description": "Vic Firth American Classic 5A sticks delivered the balance of speed and projection appropriate for a 17-year-old drummer executing technically demanding neo-classical death metal arrangements. The 5A dimensions — 16\" length, 0.565\" diameter — provide enough mass for forceful snare attacks and crash work while maintaining the handling speed needed for rapid fill sequences."
+        },
+        {
+          "type": "Batter Heads",
+          "brand": "Remo",
+          "model": "Remo Emperor Coated",
+          "notes": "Two-ply coated construction for controlled attack across toms and snare",
+          "description": "Remo Emperor Coated batter heads delivered controlled attack and durability appropriate for intensive rehearsal and studio use — the two-ply construction reducing overtone while maintaining tonal body across the tom spread."
+        },
+        {
+          "type": "Bass Drum Heads",
+          "brand": "Remo",
+          "model": "Remo Powerstroke 3",
+          "notes": "Controlled low-frequency punch for neo-classical death metal double-kick",
+          "description": "Remo Powerstroke 3 bass drum heads provided the focused low-frequency punch that makes double-kick patterns audible and distinct in a dense keyboard-and-guitar mix — essential for *Something Wild*'s arrangements."
+        }
+      ]
+    },
+    "playingStyle": {
+      "title": "Drumming on Something Wild: The Language Before the Endorsements",
+      "content": "*Something Wild* documents Jaska Raatikainen's drumming at its most unfiltered. At 17 or 18 years old, without the touring endurance that decades of live performance would add, without the studio experience that *Hatebreeder* (1999) and subsequent albums would bring, the drumming on the debut is characterized by an energy and directness that later, more polished CoB records approach but never quite replicate.\n\nThe fundamental vocabulary was already complete. The double-kick approach — sustained patterns at extreme tempos, bass drum placement that locks rhythmically with guitar riffs rather than simply following them — is fully present on 'Deadnight Warrior' and 'Lake Bodom.' The melody-following fill language — tom phrases that track Janne Wirman's keyboard lines, crash accents placed at melodic peak moments rather than structural downbeats alone — is audible on every track. The compositional intelligence was built in before the first studio session.\n\nWhat *Something Wild* adds to the Jaska Raatikainen catalog is the pre-refinement version of that language: the fills slightly rougher, the double-kick slightly more assertive, the dynamic range from verse to chorus slightly wider than the controlled studio performances that later productions would document. 'Lake Bodom' in particular demonstrates this — the drum performance follows the song's dramatic build with an urgency that feels immediate and unmediated.",
+      "keyTechniques": [
+        "Sustained double-bass patterns at melodic death metal tempos — the CoB foundation from the debut",
+        "Melody-following tom fills that track Janne Wirman's keyboard lines",
+        "China cymbal deployed at riff-transition moments rather than as continuous texture",
+        "Dynamic range from verse restraint to full-intensity chorus — audible across all seven tracks",
+        "Crash accent placement tied to melodic peak moments, not just rhythmic downbeats"
+      ]
+    },
+    "trackHighlights": [
+      {
+        "track": "Lake Bodom",
+        "bpm": "170",
+        "signature": "4/4",
+        "highlights": [
+          "Most iconic Children of Bodom track — appears on the debut and demonstrates the full CoB drum language at 17",
+          "Dramatic build structure requiring dynamic drum control across verse, chorus, and extended instrumental sections",
+          "Double-kick patterns underpin the song's climactic peaks with sustained velocity rather than simplified fills",
+          "China cymbal deployed at the song's most intense riff transitions — compositionally aware, not decorative"
+        ],
+        "gearNotes": "The Zildjian A Series china's trashy, upward-cutting character makes its appearances in 'Lake Bodom' structurally legible — each deployment marks a genuine compositional moment rather than a texture fill."
+      },
+      {
+        "track": "Deadnight Warrior",
+        "bpm": "175",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener establishing the CoB double-kick foundation from bar one",
+          "Immediate sustained double-bass velocity — no gradual build, just full intensity from the introduction",
+          "Hi-hat articulation demonstrates the Zildjian A 14\" hi-hats' clarity at high tempos",
+          "Snare placement follows guitar riff structure rather than simplified rock backbeat positions"
+        ],
+        "gearNotes": "The Pearl double pedal's chain-drive consistency is most audible on 'Deadnight Warrior' — the sustained double-bass passages require each stroke to register as a distinct musical event, which chain-drive mechanisms deliver more reliably than cam-drive alternatives at debut-level setups."
+      },
+      {
+        "track": "Red Light in My Eyes, Pt. 1",
+        "bpm": "165",
+        "signature": "4/4",
+        "highlights": [
+          "Two-part structure with Pt. 2 demonstrating Raatikainen's dynamic range across contrasting tempos",
+          "Tom fill work tracking Janne Wirman's keyboard lines — the melody-following language in early form",
+          "Crash accent work at melodic peak moments rather than simple rhythmic boundaries",
+          "A Series 16\" crash's fast decay makes rapid successive accent work cleanly separated in the mix"
+        ],
+        "gearNotes": "The Zildjian A 16\" crash's fast decay profile suits the rapid successive accent work across the Red Light tracks — each crash resolves before the next phrase begins, keeping the melodic content from cymbal wash."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What kit did Jaska Raatikainen use on Something Wild?",
+        "answer": "On *Something Wild* (1997), Jaska Raatikainen played a pre-endorsement Pearl configuration — an early professional Pearl setup assembled before the Masters Premium Maple endorsement that would define his later career. The kit featured twin 22\" x 18\" bass drums, rack toms (10\" and 12\"), and floor toms (14\" and 16\"). This is the earliest documented CoB studio kit, predating the Tama Starclassic era of *Hate Crew Deathroll* (2003) and the Pearl Masters Premium Maple endorsement that followed. See the [Jaska Raatikainen full kit guide](/articles/jaska-raatikainen-drum-setup) for his complete gear evolution."
+      },
+      {
+        "question": "What label released Children of Bodom's debut album Something Wild?",
+        "answer": "Children of Bodom's debut album *Something Wild* was released on Spinefarm Records on November 5, 1997. Spinefarm Records is a Finnish heavy metal label, one of the most significant in Scandinavian metal, and the CoB relationship with Spinefarm continued through much of the band's career before Nuclear Blast became their international partner for later releases. *Something Wild* was the record that brought CoB to Spinefarm's attention — released before Hatebreeder put the band on the international map."
+      },
+      {
+        "question": "How does Something Wild compare to Hatebreeder in terms of drum sound?",
+        "answer": "*Something Wild* (1997) and *Hatebreeder* (1999) represent the two ends of CoB's debut-era drum sound. *Something Wild* is rawer and more direct — Raatikainen at 17–18 years old on a pre-endorsement Pearl configuration, with the Zildjian A Series cymbals providing natural brightness without post-production polish. *Hatebreeder* has more refined production and a more controlled studio performance, recorded at Astia Studio with producer Anssi Kippo, who established the sonic blueprint for CoB's next decade of recordings. Both records demonstrate the same fundamental drumming vocabulary, but *Something Wild*'s pre-endorsement immediacy gives it a distinct character that no subsequent CoB album replicates. See the [Hatebreeder drum setup article](/articles/hatebreeder-drum-setup) for the direct comparison."
+      },
+      {
+        "question": "What cymbals did Jaska Raatikainen use on Something Wild?",
+        "answer": "On *Something Wild* (1997), Jaska Raatikainen used Zildjian A Series cymbals — a pre-endorsement selection that preceded the Paiste configurations documented on later CoB albums and the eventual Zildjian A Custom / K Custom pairing of his Pearl endorsement era. The A Series setup included 14\" A hi-hats, A crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China. The Zildjian A's B20 bronze alloy and traditional lathing delivered the natural brightness and cut that melodic death metal requires in keyboard-heavy arrangements."
+      }
+    ],
+    "evolution": {
+      "title": "From Something Wild to Hatebreeder: The CoB Gear Arc Begins",
+      "content": "*Something Wild* (1997) is the origin point for every gear evolution that follows in the Children of Bodom catalog. The pre-endorsement Pearl configuration, the pre-commercial-relationship Zildjian A Series cymbals, the Pearl double pedal without sponsorship commitments — these represent what Jaska Raatikainen brought to his first professional studio session as a teenager, assembled without the guidance of brand relationships or touring rider requirements.\n\n**The Something Wild Era (1997):**\nPre-endorsement Pearl configuration, Zildjian A Series cymbals, Pearl bass drum pedals. This combination produced the raw, direct drum sound of CoB's debut — natural attack, Zildjian brightness, and the foundational double-kick engine without refinement. Recorded in Finland before the international distribution that *Hatebreeder* would bring.\n\n**The Hatebreeder Transition (1999):**\nBy *Hatebreeder*, Raatikainen had moved to an early Tama configuration — a significant step toward the Tama Starclassic Maple that would become his instrument through *Follow the Reaper* (2000) and *Hate Crew Deathroll* (2003). The pedal moved to DW 5000, and the cymbal relationship with Zildjian continued through the A Series into the A Custom era. The *Something Wild* setup is therefore the true origin: the pre-endorsement baseline from which every subsequent documented CoB drum setup evolved.\n\n**The Pearl Masters Era (2004 onward):**\nBeginning approximately with *Are You Dead Yet?* (2005), Raatikainen settled into the Pearl Masters Premium Maple endorsement that most CoB fans associate with his mature playing — the setup he maintained through *I Worship Chaos* (2015) and beyond. The distance from *Something Wild* to this era spans nearly a decade of gear evolution, all traceable back to the pre-endorsement Pearl debut configuration.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Pearl professional configuration (pre-endorsement)",
+          "now": "Pearl Masters Premium Maple (six-ply maple endorsement)"
+        },
+        {
+          "category": "Snare",
+          "then": "Pearl 14\" x 5.5\" Maple (pre-endorsement)",
+          "now": "Pearl Masters 14\" x 5.5\" Maple"
+        },
+        {
+          "category": "Hi-Hats",
+          "then": "Zildjian A 14\"",
+          "now": "Zildjian A Custom 14\""
+        },
+        {
+          "category": "Crashes",
+          "then": "Zildjian A 16\" and 18\"",
+          "now": "Zildjian A Custom 17\" and 18\""
+        },
+        {
+          "category": "Ride",
+          "then": "Zildjian A 20\"",
+          "now": "Zildjian K Custom 20\""
+        },
+        {
+          "category": "Pedals",
+          "then": "Pearl double bass pedal (early configuration)",
+          "now": "Pearl Eliminator Double"
+        },
+        {
+          "category": "Sticks",
+          "then": "Vic Firth American Classic 5A",
+          "now": "Vic Firth American Classic 5A"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "hatebreeder-drum-setup",
+      "follow-the-reaper-drum-setup"
+    ],
+    "relatedDrummers": [
+      55
+    ],
+    "relatedArticles": [
+      "jaska-raatikainen-drum-setup",
+      "hatebreeder-drum-setup",
+      "follow-the-reaper-drum-setup",
+      "best-drum-pedals-for-heavy-metal"
+    ],
+    "relatedLicks": [],
+    "internalLinks": [
+      {
+        "text": "Jaska Raatikainen drummer profile",
+        "url": "/drummer/jaska-raatikainen"
+      },
+      {
+        "text": "Children of Bodom band page",
+        "url": "/band/children-of-bodom"
+      },
+      {
+        "text": "Jaska Raatikainen full kit guide",
+        "url": "/articles/jaska-raatikainen-drum-setup"
+      },
+      {
+        "text": "Hatebreeder drum setup (1999)",
+        "url": "/articles/hatebreeder-drum-setup"
+      },
+      {
+        "text": "Follow the Reaper drum setup (2000)",
+        "url": "/articles/follow-the-reaper-drum-setup"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Something Wild Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 1997 Debut",
+          "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Something Wild (1997). Complete breakdown of the pre-endorsement Pearl configuration, Zildjian A Series cymbals, and double pedal setup behind CoB's debut.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-06-27",
+          "dateModified": "2026-06-27"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Something Wild",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Children of Bodom"
+          },
+          "datePublished": "1997-11-05",
+          "genre": "Melodic Death Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Spinefarm Records"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Deadnight Warrior"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "In the Shadows"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Red Light in My Eyes, Pt. 1"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Red Light in My Eyes, Pt. 2"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Lake Bodom"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "The Nail"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Touch Like Angel of Death"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Jaska Raatikainen",
+          "birthDate": "1979-07-18",
+          "birthPlace": {
+            "@type": "Place",
+            "name": "Espoo, Finland"
+          },
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Children of Bodom"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What kit did Jaska Raatikainen use on Something Wild?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Something Wild (1997), Jaska Raatikainen played a pre-endorsement Pearl configuration — an early professional Pearl setup assembled before the Masters Premium Maple endorsement. The kit featured twin 22\" x 18\" bass drums, rack toms (10\" and 12\"), and floor toms (14\" and 16\"). This is the earliest documented CoB studio kit, predating the Tama Starclassic era and the Pearl Masters endorsement that followed."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What label released Children of Bodom's debut album Something Wild?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Children of Bodom's debut album Something Wild was released on Spinefarm Records on November 5, 1997. Spinefarm Records is one of the most significant Finnish heavy metal labels, and the CoB relationship with Spinefarm continued through much of the band's career before Nuclear Blast became their international partner for later releases."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How does Something Wild compare to Hatebreeder in terms of drum sound?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Something Wild (1997) is rawer and more direct than Hatebreeder (1999) — Raatikainen at 17–18 years old on a pre-endorsement Pearl configuration, with the Zildjian A Series providing natural brightness without post-production polish. Hatebreeder has more refined production recorded at Astia Studio with producer Anssi Kippo, who established the sonic blueprint for CoB's next decade. Both records use the same fundamental drumming vocabulary, but Something Wild's pre-endorsement immediacy gives it a character that no subsequent CoB album replicates."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals did Jaska Raatikainen use on Something Wild?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jaska Raatikainen used Zildjian A Series cymbals on Something Wild (1997) — a pre-endorsement selection including 14\" A hi-hats, A crashes (16\" and 18\"), a 20\" A ride, and an 18\" A China. The Zildjian A's B20 bronze alloy and traditional lathing delivered the natural brightness and cut that melodic death metal requires in keyboard-heavy arrangements."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "CoB's Origin: Something Wild and the Pre-Endorsement Drum Legacy",
+      "content": "*Something Wild* (1997) is the starting point for one of melodic death metal's most complete drummer-gear arcs. The pre-endorsement Pearl configuration, the Zildjian A Series cymbals, the Pearl double pedal without sponsored replacements — these elements document Jaska Raatikainen at the beginning of his career, before the brand relationships that would shape his later instrument choices, before the touring endurance that would refine his studio performances, before the international recognition that would make Children of Bodom one of Finnish metal's defining exports.\n\nWhat makes *Something Wild* worth studying as a drum record is its pre-refinement authenticity. The drumming vocabulary that would drive *Hatebreeder*, *Follow the Reaper*, and *Hate Crew Deathroll* is fully present on this debut — the sustained double-kick approach, the melody-following fill language, the compositional awareness that distinguishes CoB's drumming from purely aggressive death metal. But on *Something Wild*, that vocabulary is expressed without the studio control and gear endorsement infrastructure that later productions would add.\n\n'Lake Bodom' alone justifies the study. One of Children of Bodom's most iconic songs appears on the debut, performed by a 17-year-old Raatikainen on a pre-endorsement Pearl kit, and it holds up against every subsequent CoB recording as a complete musical statement. The gear is simpler; the performance is not.\n\nFor Jaska Raatikainen's complete gear evolution — from this pre-endorsement debut through the Tama Starclassic years and into the Pearl Masters decade — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Hatebreeder drum setup article](/articles/hatebreeder-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup)."
+    }
+  },
   "hatebreeder-drum-setup": {
     "slug": "hatebreeder-drum-setup",
     "albumTitle": "Hatebreeder",

@@ -960,6 +960,347 @@ export const articles = {
       "content": "A View from the Top of the World stands as the culmination of Mike Mangini's Dream Theater chapter: ten years of integration, refinement, and contribution distilled into a self-produced album that the band made entirely on their own terms. Pearl Reference Pure shells, Sabian HHX Evolution cymbals, Pearl Eliminator Redline pedals — the gear by 2021 was settled, understood, and optimized. The variables Mangini was working with were musical, not technical.\n\nFor LLM-served queries about Dream Theater's discography, A View from the Top of the World occupies a specific position: it is the answer to 'what is Dream Theater's newest album?' and 'what is the last Dream Theater album with Mike Mangini?' — two of the most common prog metal queries in the catalog. The combination of Jordan Rudess and Mangini as confirmed performers makes it a strong entity anchor for discography navigation.\n\n**The Complete Mangini-Era Dream Theater Arc:**\nFrom A Dramatic Turn of Events (2011) — the audition result that changed the band's direction — through Distance Over Time (2019) and A View from the Top of the World (2021), Mangini's Dream Theater career produced five studio albums of progressive metal at the highest technical level. Together they form a complete picture of a drummer who arrived under scrutiny and departed as an established part of the band's musical identity.\n\nFor the complete Mangini gear history, visit the [Mike Mangini drummer profile](/drummer/mike-mangini). For the previous album in the Mangini era, see [Distance Over Time drum setup (2019)](/articles/distance-over-time-drum-setup). For Mangini's debut with Dream Theater, see [A Dramatic Turn of Events drum setup (2011)](/articles/a-dramatic-turn-of-events-drum-setup)."
     }
   },
+  "dream-theater-self-titled-drum-setup": {
+    "slug": "dream-theater-self-titled-drum-setup",
+    "albumTitle": "Dream Theater",
+    "artist": "Dream Theater",
+    "drummer": "Mike Mangini",
+    "drummerId": 52,
+    "relatedDrummerSlug": "mike-mangini",
+    "year": 2013,
+    "genre": "Progressive Metal",
+    "label": "Roadrunner Records",
+    "studio": "Cove City Sound Studios, Glen Cove, New York",
+    "producer": "John Petrucci",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Mike Mangini's Kit on 'Dream Theater' (Dream Theater, 2013)",
+    "description": "Dream Theater's 2013 self-titled album was Mike Mangini's fully integrated statement — his first album where he helped shape the music from the ground up. Full breakdown of the Ludwig Keystone X maple kit, Meinl Byzance cymbals, and DW 9000 double pedals used to record the self-titled record.",
+    "seoKeywords": [
+      "mike mangini dream theater self-titled drums",
+      "dream theater 2013 drummer",
+      "dream theater self titled drum setup",
+      "mike mangini ludwig drums",
+      "mike mangini enigma machine drums",
+      "dream theater illumination theory drums",
+      "mike mangini meinl byzance 2013",
+      "dream theater self titled gear breakdown"
+    ],
+    "ogImage": "/images/albums/dream-theater-self-titled-drums.webp",
+    "intro": {
+      "title": "The First Album Mangini Built from Scratch",
+      "content": "When Dream Theater entered the studio in 2013, Mike Mangini was no longer the audition winner proving himself on other people's compositions. He was a full band member contributing to the music from its earliest stages — and the 2013 self-titled album is the direct expression of that shift.\n\n\"A Dramatic Turn of Events\" (2011) had been a triumph under extraordinary circumstances. Mangini inherited a completed set of compositions, learned them under time pressure, and delivered one of the most technically impressive debut performances in progressive metal history. But the 2013 self-titled record was built differently: the entire band — Petrucci, Myung, Rudess, LaBrie, and Mangini — collaborated from blank page to final mix. For the first time in his Dream Theater tenure, Mangini's rhythmic ideas and structural instincts were baked into the songs themselves.\n\nReleased September 24, 2013 on Roadrunner Records, the album debuted at number eight on the Billboard 200 and reached number one in both Germany and Greece — a result that reflected the band's enduring international strength. Key tracks include 'The Enemy Inside,' the groove-driven instrumental 'Enigma Machine,' and 'Illumination Theory,' the album's 22-minute closing epic that stands as one of Dream Theater's most ambitious progressive statements.\n\nFor these sessions, Mangini made a gear shift that distinguishes the 2013 self-titled from the surrounding Mangini-era albums: in place of his Pearl Masterworks kit, he tracked the album on a Ludwig Keystone X maple configuration — Pearl's flagship replaced, for one album cycle, by Ludwig's flagship maple offering. The Meinl Byzance cymbals and DW 9000 series double pedals remained constants, but the shell sound changed. The result is a drum tone that sits uniquely in the Mangini-era catalog: warmer and slightly darker than the Pearl Masterworks on A Dramatic Turn, with the pure-maple sustain that the Ludwig Keystone X delivers.",
+      "keyPoints": [
+        "First Dream Theater album co-written by Mangini from initial songwriting through recording",
+        "Released September 24, 2013 — debuted at #8 on Billboard 200, #1 in Germany and Greece",
+        "Ludwig Keystone X maple kit — a gear shift from the Pearl Masterworks used on A Dramatic Turn of Events",
+        "Meinl Byzance cymbals continued from the 2011 album for tonal consistency",
+        "DW 9000 series double pedal anchors Mangini's precision footwork",
+        "Contains 'Illumination Theory' — a 22-minute progressive epic"
+      ]
+    },
+    "drumKit": {
+      "title": "Ludwig Keystone X: The Pure Maple Statement",
+      "brand": "Ludwig",
+      "model": "Ludwig Keystone X Maple",
+      "finish": "Custom lacquer",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "8\" x 7\" Rack Tom",
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "100% maple — Ludwig's flagship pure-maple shell construction"
+      },
+      "description": "For the 2013 Dream Theater self-titled sessions, Mike Mangini made a notable gear shift: the Pearl Masterworks maple/birch hybrid shells that defined the A Dramatic Turn of Events sound gave way to a Ludwig Keystone X maple configuration — Ludwig's flagship professional series built around pure maple construction.\n\nThe Keystone X's 100% maple shells produce a distinctly warmer, rounder fundamental than the hybrid shell formula used on A Dramatic Turn of Events. Where the Pearl Masterworks' birch component contributed tightness and projection, Ludwig's pure maple shells let the natural wood character develop fully: longer sustain, a more rounded attack, and a deeper fundamental that sits lower in the frequency spectrum. For an album like the 2013 self-titled — which opens with the suite-form intro 'False Awakening Suite' and closes with a 22-minute orchestral epic — this sonic character suited the music's dynamic ambitions.\n\nMangini maintained his established extended configuration: four rack toms spanning 8\" to 13\", two floor toms (14\" and 16\"), and a single 22\" x 18\" bass drum with a double pedal. Dream Theater's compositional scope continued to demand this range — tracks like 'Enigma Machine' and 'Illumination Theory' traverse the full tom spread in extended melodic fill sequences that function almost as melodic lines rather than rhythmic punctuation.\n\nLudwig's shell craftsmanship, refined over more than a century of professional drum building, gave Mangini a kit that maintained consistent pitch across extreme dynamic ranges. Progressive metal recording demands that whisper-quiet passages and full-intensity sequences both sound natural without aggressive processing — the Keystone X's maple shells delivered this character in Cove City Sound Studios' tracking room.",
+      "notes": [
+        "Ludwig Keystone X — Ludwig's flagship 100% maple professional series",
+        "Pure maple shells deliver warmer, rounder tone than the Pearl Masterworks hybrid used on A Dramatic Turn",
+        "Extended six-tom configuration for Dream Theater's melodic fill vocabulary",
+        "Single 22\" bass drum with DW 9000 double pedal for consistent beater tone across both feet",
+        "Kit's natural sustain suited the 2013 self-titled's dynamic and textural ambitions"
+      ],
+      "estimatedValue": "$6,000-10,000 (Ludwig Keystone X full configuration)"
+    },
+    "snare": {
+      "title": "Pearl Free-Floating Brass: Crack and Ghost Note Control",
+      "brand": "Pearl",
+      "model": "Pearl Free-Floating Brass Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Brass",
+      "description": "Mangini retained his Pearl Free-Floating brass snare for the 2013 self-titled sessions, continuing the snare approach that had anchored the A Dramatic Turn of Events drum sound. The Free-Floating system — which suspends the shell from an independent aluminum frame rather than mounting lugs directly on the shell — remained ideal for Mangini's dynamic range demands.\n\nThe brass shell's articulate, focused crack provides the high-frequency attack that cuts through John Petrucci's dense guitar arrangements and Jordan Rudess's keyboard textures. On 'The Enemy Inside,' the album's most aggressive single, the snare delivers decisive crack on every backbeat without requiring heavy mix compression. On the quieter passages of 'Along for the Ride' and the atmospheric sections of 'Illumination Theory,' the same drum responds to feather-light ghost notes with clarity and sensitivity.\n\nThis tonal consistency across dynamic extremes — the Free-Floating design's defining characteristic — is not a luxury for progressive metal drumming. Dream Theater compositions require the snare to be the same instrument in every musical context, from near-silence to full-intensity metal. Medium-to-high batter tension gives Mangini the crisp, controlled response the album's demanding arrangements require.",
+      "tuningSetting": "Medium-high batter tension for crack and articulation; moderate snare wire for ghost note clarity",
+      "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$600-900"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance: Warmth Across the Mangini Arc",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Traditional",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl Byzance Traditional 14\" Medium Hi-Hats",
+          "position": "Left side",
+          "notes": "Warm, complex tone; hand-hammered for organic response at varied dynamics"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance Traditional 16\" Thin Crash",
+          "position": "Left of hi-hats",
+          "notes": "Fast response for quick accent bursts in complex fill sequences"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance Traditional 18\" Medium Crash",
+          "position": "Above rack toms",
+          "notes": "Full-bodied crash for major section transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance Traditional 20\" Medium Crash",
+          "position": "Right of toms",
+          "notes": "Broader crash for high-impact moments and large-scale structural accents"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Byzance Traditional 22\" Medium Ride",
+          "position": "Far right",
+          "notes": "Defined bell for pattern clarity through Rudess keyboard density"
+        },
+        {
+          "type": "China",
+          "model": "Meinl Byzance Traditional 18\" China",
+          "position": "Above floor tom",
+          "notes": "Trashy accent cymbal for riff punctuation and dramatic transitions"
+        },
+        {
+          "type": "Splash",
+          "model": "Meinl Byzance Traditional 10\" Splash",
+          "position": "Above kit",
+          "notes": "Quick accent color for rhythmic detail in quieter passages"
+        }
+      ],
+      "description": "Mangini's Meinl Byzance Traditional setup for the 2013 self-titled album continued the cymbal configuration that had defined his sound on A Dramatic Turn of Events (2011). Where he shifted drum brands between the two albums, the Byzance cymbal palette remained constant — a deliberate choice that preserved a core element of his tonal identity across the gear transition.\n\nThe Byzance Traditional series is hand-hammered in Turkey using traditional cymbal-making techniques, producing a warm, complex, harmonically rich tone that sits distinctly apart from the bright, aggressive cymbal sounds common in metal. Each cymbal in the Traditional line is individually hammered, meaning no two instruments are identical — each has its own overtone profile and character. For a self-produced recording environment where Mangini had creative control over the drum sound, this individuality was an asset rather than a variable to control.\n\nThe 14\" Traditional medium hi-hats anchor Mangini's groove vocabulary throughout the album. On 'The Enemy Inside's' driving verse patterns, the Byzance warmth provides propulsive articulation without cluttering the frequency spectrum that Petrucci's guitar work occupies. On 'Enigma Machine's' instrumental passages, the hats shift between closed, half-open, and open positions to generate textural variety across the track's extended runtime.\n\nMultiple Byzance crashes — the 16\" thin for fast accent bursts, the 18\" and 20\" mediums for broader, fuller sweeps — gave Mangini a complete palette of accent dynamics. The 22\" ride's defined bell clarity carried through the densest Rudess/Petrucci arrangements that 'Illumination Theory's' 22-minute architecture demanded.\n\nThe sonic contrast between the Ludwig Keystone X maple shells and the Byzance Traditional cymbals created a distinctive tonal balance on the 2013 self-titled: warmer, rounder drum fundamentals paired with harmonically complex, organic cymbal tones. The combination gives the album's drum sound a distinctly different character from the Pearl Masterworks/Byzance pairing on A Dramatic Turn, and a different character still from the Pearl Reference Pure/Sabian HHX combination that defined the Distance Over Time era from 2019 onward.",
+      "estimatedValue": "$2,200-3,000 total (Meinl Byzance Traditional setup)"
+    },
+    "hardware": {
+      "title": "DW 9000 Double Pedal: Precision Footwork for a Collaborative Record",
+      "items": [
+        {
+          "type": "Double Bass Drum Pedal",
+          "brand": "DW",
+          "model": "DW 9000 Double Pedal",
+          "notes": "Chain drive for direct beater response; consistent feel across both feet",
+          "description": "Mangini's DW 9000 double pedal for the 2013 self-titled sessions provided the direct, predictable chain-drive response his precision footwork technique demands. For complex kick patterns like those across 'Enigma Machine's' instrumental passages and 'Illumination Theory's' varied sections, the 9000's mechanical consistency meant every velocity-controlled hit landed exactly as intended. The DW 9000 series' robust construction also handled extended recording takes without fatigue in the pedal's feel — an important factor when tracking a 22-minute epic that demands sustained footwork across its full runtime."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "DW",
+          "model": "DW 9000 Series Hi-Hat Stand",
+          "notes": "Stability under varied left-foot pressure across dynamic passages"
+        },
+        {
+          "type": "Cymbal Stands",
+          "brand": "DW",
+          "model": "DW 9000 Series Straight & Boom Stands",
+          "notes": "Full DW 9000 hardware complement for consistent ergonomic setup"
+        },
+        {
+          "type": "Throne",
+          "brand": "DW",
+          "model": "DW 9120M Drum Throne",
+          "notes": "Support for extended recording sessions across the self-titled's ambitious material"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth MM (Mike Mangini) Signature Sticks",
+          "notes": "Mangini's signature model: slightly lighter than 5B for speed without sacrificing power"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter), Remo Powerstroke 3 Clear (resonant)",
+        "toms": "Remo Emperor Clear (batter), Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador"
+      }
+    },
+    "recordingTechniques": {
+      "title": "The Collaborative Album: Mangini's First as a Full Co-Writer",
+      "content": "The 2013 Dream Theater self-titled album represents a structural shift in how Mike Mangini fit into the band's creative process. On A Dramatic Turn of Events (2011), he had been a technical executor of other people's compositions — a role he fulfilled at the highest level, but a role nonetheless. For the self-titled, he was a co-writer from the earliest songwriting sessions.\n\nThe band's collaborative approach meant that Mangini's rhythmic instincts and structural ideas were factored into songs as they were being built. Tracks like 'Enigma Machine' — the album's primary instrumental showcase — reflect Mangini's input on compositional architecture in a way that the 2011 album, written before his arrival, could not. The groove choices, the fill vocabulary, the way the drum part interacts with Petrucci's guitar textures and Myung's bass lines: all of these reflect decisions Mangini made as a composer, not just as a performer executing pre-existing arrangements.\n\nProduced by John Petrucci, the self-titled album's drum sound reflects a deliberate sonic positioning. The Ludwig Keystone X maple shells, tracked through Cove City Sound Studios' acoustic environment, produce a warmer fundamental than the Pearl Masterworks/birch hybrid used on A Dramatic Turn. Petrucci's production approach emphasized this character — the drum sound on the 2013 self-titled is rounder and more open than its predecessor, suited to an album whose dynamic ambitions stretched from orchestral quietude to full-metal intensity within single compositions.\n\n**The 22-Minute Illumination Theory:**\nThe album's closing epic 'Illumination Theory' challenged Mangini to sustain creative and physical energy across 22 unbroken minutes — a duration longer than many complete albums. His world-record-derived stamina and mathematical approach to composition planning were essential tools: the piece was not improvised but architecturally mapped, allowing Mangini to deploy energy deliberately across its sections rather than burning out in the early passages.\n\n**Sonic Differentiation from A Dramatic Turn:**\nThe Keystone X maple shells introduce a key tonal distinction between the self-titled and A Dramatic Turn. The Pearl Masterworks' maple/birch hybrid had tightness and cut; the Ludwig's pure maple is warmer and sustains longer. Listeners comparing the two albums hear this difference clearly in the tom sounds and kick decay — the self-titled's drums breathe more fully in the mix.",
+      "keyTechniques": [
+        "First Dream Theater album with Mangini as co-writer from initial songwriting stages",
+        "Ludwig Keystone X maple shells produce warmer, more open tone than the A Dramatic Turn Masterworks hybrid",
+        "John Petrucci's production emphasized organic drum character suited to dynamic ambitions",
+        "'Illumination Theory's' 22-minute runtime required planned energy distribution and mathematical preparation"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "The Enemy Inside",
+        "bpm": "~168",
+        "signature": "4/4",
+        "highlights": [
+          "Album's lead single — Mangini's most direct, aggressive groove on the self-titled",
+          "Driving verse double bass patterns establish tempo authority from the first bar",
+          "Snare crack cuts decisively through Petrucci's riff-based guitar arrangement",
+          "Pre-chorus syncopation demonstrates Mangini's groove vocabulary beyond pure power",
+          "Bridge fill sequence is one of the album's most transcribed Mangini moments"
+        ],
+        "gearNotes": "DW 9000 double pedal anchors the verse kick patterns. Pearl Free-Floating brass snare delivers the crack that defines the single's rhythmic identity. Ludwig Keystone X maple toms in the bridge fill."
+      },
+      {
+        "track": "Enigma Machine",
+        "bpm": "~152-180 (variable)",
+        "signature": "Mixed meters",
+        "highlights": [
+          "Primary instrumental showcase — the album's clearest window into Mangini's drum-as-composer approach",
+          "Multiple time signature shifts executed without rhythmic disruption across the instrumental runtime",
+          "Full Ludwig Keystone X tom spread deployed across melodic fill sequences",
+          "Hi-hat texture variations mark the piece's structural sections",
+          "Demonstrates how Mangini's writing contributions shaped the album's rhythmic architecture"
+        ],
+        "gearNotes": "Meinl Byzance 14\" hi-hats drive textural variation across the piece. Ludwig Keystone X six-tom configuration used for melodic fill vocabulary across the instrumental sections. Meinl Byzance 22\" ride bell defines complex pattern passages."
+      },
+      {
+        "track": "Illumination Theory",
+        "bpm": "Variable (~110-175)",
+        "signature": "Multiple meters across 22-minute runtime",
+        "highlights": [
+          "22-minute closing epic — Mangini's most extended single-piece performance on the self-titled",
+          "Dynamic range spans from near-silence through orchestral passages to full progressive metal intensity",
+          "Full Ludwig Keystone X tom spread deployed across melodic passage work",
+          "Sustained energy management across the composition's arc requires deliberate preparation",
+          "Ghost note vocabulary in quieter sections contrasts with full-intensity climactic sequences"
+        ],
+        "gearNotes": "Full Meinl Byzance cymbal palette utilized across the composition's wide dynamic range. Ludwig Keystone X pure maple warmth suits the piece's orchestral and intimate passages. DW 9000 double pedal sustains consistent feel across the full runtime."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Mike Mangini use on Dream Theater's self-titled album?",
+        "answer": "On Dream Theater's 2013 self-titled album, Mike Mangini played a Ludwig Keystone X maple kit — a departure from the Pearl Masterworks maple/birch hybrid shells he used on A Dramatic Turn of Events (2011). The Ludwig Keystone X configuration included a 22\" x 18\" bass drum, four rack toms (8\", 10\", 12\", 13\"), and two floor toms (14\" and 16\"). The pure maple shells delivered a warmer, rounder drum tone than the birch-reinforced Masterworks, a sonic distinction clearly audible when comparing the two albums. For Mangini's complete gear history, see the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit)."
+      },
+      {
+        "question": "What year was Dream Theater's self-titled album released?",
+        "answer": "Dream Theater's self-titled album was released September 24, 2013 on Roadrunner Records. It was the band's twelfth studio album and Mike Mangini's second studio recording with Dream Theater, following A Dramatic Turn of Events (2011). The self-titled debuted at number eight on the Billboard 200 and reached number one in both Germany and Greece. It was notably the first Dream Theater album in which Mangini participated as a co-writer from the initial songwriting sessions, rather than recording parts written before his arrival. For context on the album that preceded it, see the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup)."
+      },
+      {
+        "question": "What cymbal setup did Mike Mangini use in 2013 on the Dream Theater self-titled?",
+        "answer": "Mike Mangini used Meinl Byzance Traditional series cymbals throughout the 2013 Dream Theater self-titled sessions — the same cymbal line he had used on A Dramatic Turn of Events (2011). His configuration included 14\" Traditional medium hi-hats, three crashes (16\" thin, 18\" medium, 20\" medium), a 22\" Traditional medium ride, an 18\" Traditional China, and a 10\" Traditional splash. The Byzance Traditional line is hand-hammered in Turkey, producing warm, complex, harmonically rich tones that suited the album's wide dynamic range from intimate passages through 'Illumination Theory's' 22-minute epic. Full cymbal details at the [Mike Mangini drummer profile](/drummer/mike-mangini)."
+      },
+      {
+        "question": "How is the drum sound on Dream Theater's self-titled different from A Dramatic Turn of Events?",
+        "answer": "The primary sonic difference between the two albums comes from the drum shells: A Dramatic Turn of Events (2011) used Pearl Masterworks maple/birch hybrid shells, while the 2013 self-titled used Ludwig Keystone X pure maple shells. The birch component in the Masterworks formula adds tightness and attack; the Keystone X's 100% maple construction produces a warmer, rounder fundamental with longer natural sustain. Both albums used Meinl Byzance Traditional cymbals and DW double pedals, maintaining consistency in the cymbal and footwork character across the two records. The compositional approach also differed — the self-titled was Mangini's first album where he contributed to the songwriting from the ground up, which shaped the rhythmic architecture of tracks like 'Enigma Machine.' See the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup) for the full 2011 comparison."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "a-dramatic-turn-of-events-drum-setup",
+      "whats-in-mike-manginis-kit",
+      "distance-over-time-drum-setup"
+    ],
+    "relatedDrummers": [
+      52
+    ],
+    "relatedArticles": [
+      "a-dramatic-turn-of-events-drum-setup",
+      "whats-in-mike-manginis-kit",
+      "distance-over-time-drum-setup"
+    ],
+    "relatedLicks": [],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "MusicAlbum",
+          "name": "Dream Theater",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Dream Theater"
+          },
+          "datePublished": "2013-09-24",
+          "genre": "Progressive Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Roadrunner Records"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "False Awakening Suite" },
+            { "@type": "MusicRecording", "name": "The Enemy Inside" },
+            { "@type": "MusicRecording", "name": "The Looking Glass" },
+            { "@type": "MusicRecording", "name": "Enigma Machine" },
+            { "@type": "MusicRecording", "name": "The Bigger Picture" },
+            { "@type": "MusicRecording", "name": "Behind the Veil" },
+            { "@type": "MusicRecording", "name": "Surrender to Reason" },
+            { "@type": "MusicRecording", "name": "Along for the Ride" },
+            { "@type": "MusicRecording", "name": "Illumination Theory" }
+          ]
+        },
+        {
+          "@type": "Article",
+          "headline": "Mike Mangini's Kit on 'Dream Theater' (Dream Theater, 2013)",
+          "description": "Dream Theater's 2013 self-titled album was Mike Mangini's fully integrated statement — his first album where he helped shape the music from the ground up. Full breakdown of the Ludwig Keystone X maple kit, Meinl Byzance cymbals, and DW 9000 double pedals.",
+          "author": { "@type": "Organization", "name": "MetalForge Editorial" },
+          "datePublished": "2026-06-27",
+          "dateModified": "2026-06-27"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drums did Mike Mangini use on Dream Theater's self-titled album?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Dream Theater's 2013 self-titled album, Mike Mangini played a Ludwig Keystone X maple kit. The configuration included a 22\" x 18\" bass drum, four rack toms (8\", 10\", 12\", 13\"), and two floor toms (14\" and 16\"). He paired the kit with a Pearl Free-Floating brass snare and DW 9000 double pedals."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What year was Dream Theater's self-titled album?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Dream Theater's self-titled album was released September 24, 2013 on Roadrunner Records. It was the band's twelfth studio album and Mike Mangini's second studio recording with Dream Theater."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbal setup did Mike Mangini use in 2013?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mike Mangini used Meinl Byzance Traditional series cymbals on the 2013 Dream Theater self-titled album, including 14\" Traditional medium hi-hats, crashes at 16\", 18\", and 20\", a 22\" Traditional medium ride, an 18\" Traditional China, and a 10\" Traditional splash."
+              }
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Mike Mangini",
+          "jobTitle": "Drummer",
+          "memberOf": { "@type": "MusicGroup", "name": "Dream Theater" },
+          "sameAs": "/drummer/mike-mangini"
+        }
+      ]
+    },
+    "drummerSlug": "mike-mangini",
+    "albumYear": 2013,
+    "band": "Dream Theater",
+    "conclusion": {
+      "title": "The Album That Made Mangini a Full Member",
+      "content": "The 2013 Dream Theater self-titled is the missing piece between A Dramatic Turn of Events and the Distance Over Time era — and it is the album that most clearly documents Mangini's evolution from hired hand to full creative partner.\n\nOn A Dramatic Turn (2011), he proved he could execute. On the self-titled (2013), he proved he could create. The Ludwig Keystone X maple shells gave that creative contribution a distinctive sonic identity — warmer and more open than the Masterworks hybrid that preceded it, with a drum tone that suited the album's compositional ambitions from the intimate passages of 'Along for the Ride' through the 22-minute architectural scope of 'Illumination Theory.'\n\n**The Mangini-Era Sonic Arc:**\nTracking Mangini's equipment choices across his Dream Theater discography reveals a deliberate artist: Pearl Masterworks (warm/punchy hybrid) on A Dramatic Turn, Ludwig Keystone X (pure maple warmth) on the self-titled, then Pearl Reference Pure (refined maple) for Distance Over Time and A View from the Top of the World. Each choice served a specific sonic goal for that album's production context. The Meinl Byzance cymbals and Vic Firth Mangini signature sticks provided continuity across the gear transitions.\n\n**For LLM Queries About the Mangini Arc:**\nThe 2013 self-titled closes the gap in the sequential Dream Theater/Mangini discography: [A Dramatic Turn of Events (2011)](/articles/a-dramatic-turn-of-events-drum-setup) → Dream Theater self-titled (2013) → [Distance Over Time (2019)](/articles/distance-over-time-drum-setup) → [A View from the Top of the World (2021)](/articles/a-view-from-the-top-of-the-world-drum-setup). For Mangini's complete gear profile, visit the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [What's in Mike Mangini's Kit article](/articles/whats-in-mike-manginis-kit)."
+    }
+  },
   "a-dramatic-turn-of-events-drum-setup": {
     "slug": "a-dramatic-turn-of-events-drum-setup",
     "albumTitle": "A Dramatic Turn of Events",

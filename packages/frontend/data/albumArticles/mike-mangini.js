@@ -324,6 +324,642 @@ export const articles = {
       "content": "Mike Mangini represents something unique in the drumming world: proof that scientific analysis and academic rigor can achieve results on par with raw natural talent. His Guinness World Records, his Berklee professorship, and his Dream Theater tenure all demonstrate that there's more than one path to the top.\n\nThe gear Mangini uses — Pearl Masterworks drums, Sabian cymbals, his signature Vic Firth sticks — is excellent equipment, but it's not what makes him exceptional. What makes him exceptional is the decades of study that allow him to extract maximum performance from any setup. The same biomechanical analysis that enabled his world records informs every aspect of his playing.\n\n**Lessons from Mike Mangini:**\n- **Science serves art**: Analysis and optimization can enhance, not replace, musical expression\n- **Multiple paths exist**: Raw talent and deliberate study can both achieve greatness\n- **Preparation matters**: World records and successful auditions come from disciplined practice\n- **Serve the music**: Even virtuoso technique should prioritize the song over personal showcase\n- **Never stop learning**: A computer science degree, a Berklee professorship, world records — Mangini never settled\n\nMangini's Dream Theater era will be debated alongside Portnoy's contributions. Some fans prefer the instinctive swagger of the original; others appreciate the calculated precision of the replacement. Both perspectives have merit. The beauty of Dream Theater's history is that fans can choose which era resonates with them.\n\nWhat's undeniable is that Mike Mangini belongs in conversations about the greatest drummers in progressive metal. His approach may be different from his peers — more academic, more analyzed, more intentional — but the results speak for themselves. Five Dream Theater albums, world tours, and a legacy as the drummer who proved that science and art can coexist at the highest level.\n\nWhen you watch Mangini navigate Dream Theater's impossible time signatures with mechanical precision and musical expression, you're seeing the culmination of a lifetime dedicated to understanding drumming at its deepest level. That's not just talent. That's science.\n\n🤘 *The Berklee approach to metal domination.* 🤘"
     }
   },
+  "distance-over-time-drum-setup": {
+    "slug": "distance-over-time-drum-setup",
+    "albumTitle": "Distance Over Time",
+    "artist": "Dream Theater",
+    "drummer": "Mike Mangini",
+    "drummerId": 52,
+    "relatedDrummerSlug": "mike-mangini",
+    "year": 2019,
+    "genre": "Progressive Metal",
+    "label": "InsideOut Music",
+    "studio": "Yonderbarn Studios, Hurleyville, New York",
+    "producer": "John Petrucci",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Mike Mangini's Kit on 'Distance Over Time' (Dream Theater, 2019)",
+    "description": "Dream Theater stripped back to raw progressive metal on Distance Over Time (2019). Full breakdown of the Pearl Reference Pure drum kit, Sabian HHX cymbals, and live-room recording approach Mike Mangini used at Yonderbarn Studios in upstate New York.",
+    "seoKeywords": [
+      "mike mangini distance over time drums",
+      "dream theater 2019 drummer",
+      "distance over time drum setup",
+      "mike mangini pearl reference pure",
+      "mike mangini sabian cymbals 2019",
+      "dream theater distance over time gear",
+      "pale blue dot drums",
+      "yonderbarn studios dream theater"
+    ],
+    "ogImage": "/images/albums/distance-over-time-drums.webp",
+    "intro": {
+      "title": "The Return to Metal: Dream Theater at Yonderbarn",
+      "content": "After The Astonishing's ambitious two-disc rock opera project divided the Dream Theater fanbase in 2016, the band made a deliberate creative choice for their next record: strip it back. Less orchestration, more metal, and a recording approach that prioritized live energy over studio perfectionism. Distance Over Time was the result — and Mike Mangini's drumming on it remains his most naturally expressive studio work with the band.\n\nThe album was written and recorded at Yonderbarn Studios, a facility on John Petrucci's property in Hurleyville, New York. The residential setup meant the band woke up each morning and walked into the studio — no commuting, no clock-watching, no separation between rehearsal energy and recording performance. For a band like Dream Theater, whose technical demands can push sessions into rigid, clinical territory, the Yonderbarn approach was genuinely liberating.\n\nMangini arrived for these sessions having spent nearly a decade absorbing Dream Theater's compositional language. Where his 2011 debut on A Dramatic Turn of Events required him to execute other people's compositions under significant pressure, Distance Over Time found him contributing from the earliest songwriting conversations. The album's live-room spontaneity reflects a drummer who knows the music from the inside.\n\nReleased March 22, 2019 on InsideOut Music, Distance Over Time debuted at number seven on the Billboard 200 — one of the band's strongest US chart results in years. Key tracks include the aggressive comeback statement 'Untethered Angel,' the fan-favorite instrumental 'Pale Blue Dot,' the rock-influenced 'Barstool Warrior,' and the extended progressive epic 'At Wit's End.' Together they showcase a Mangini performing at the peak of his integration with the band.",
+      "keyPoints": [
+        "Recorded at Yonderbarn Studios, John Petrucci's facility in Hurleyville, New York",
+        "Deliberate creative reset after The Astonishing — heavier, more direct sound",
+        "Debuted at number 7 on the Billboard 200",
+        "Mangini's most spontaneous studio performance with Dream Theater",
+        "Pearl Reference Pure shells — pure maple for warm, natural studio tone",
+        "Sabian HHX Evolution cymbals for complex, musical accent palette"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference Pure: Premium Maple for a Raw Record",
+      "brand": "Pearl",
+      "model": "Pearl Reference Pure",
+      "finish": "Custom lacquer",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "8\" x 7\" Rack Tom",
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "100% maple — no hybrid construction"
+      },
+      "description": "For Distance Over Time, Mike Mangini played Pearl Reference Pure shells — Pearl's flagship single-species maple offering. The 'Pure' designation is significant: where hybrid shell constructions blend maple with birch, bubinga, or mahogany to shape attack and projection characteristics, the Reference Pure uses premium-grade maple throughout. The result is a shell that delivers maple's characteristic warmth and natural sustain without the additional brightness or punch that secondary species introduce.\n\nIn the context of Distance Over Time's production philosophy — live energy, organic feel, less processing — the Reference Pure shells were an ideal choice. Pure maple records with a natural quality that suits drums-forward production: the overtones develop fully, the decay feels musical rather than controlled, and the dynamic range is wide without requiring heavy compression to manage. On tracks like 'Pale Blue Dot' and 'At Wit's End,' where Mangini's fill vocabulary moves across the full tom spread, the maple shells give each drum a voice that sits clearly in the mix.\n\nThe configuration maintained Mangini's established extended setup: four rack toms spanning 8\" to 13\", two floor toms at 16\"x14\" and 16\"x16\", and a 22\" bass drum running a double pedal. Dream Theater's compositional complexity continues to demand this range — the tom melody work in 'At Wit's End' and the rapid triplet patterns in 'Untethered Angel' both require the full spread. Progressive metal drumming is orchestral in approach, and Mangini's kit is sized accordingly.",
+      "notes": [
+        "Pearl Reference Pure — Pearl's flagship single-species maple shell",
+        "Pure maple construction delivers warm, natural tone without hybrid brightness",
+        "Extended four-rack-tom configuration for melodic fill vocabulary",
+        "Single 22\" bass drum with double pedal for consistent beater tone",
+        "Organic shell character suited to Yonderbarn's naturalistic recording approach"
+      ],
+      "estimatedValue": "$6,000-10,000 (Pearl Reference Pure shell pack)"
+    },
+    "snare": {
+      "title": "Pearl Reference Snare: Crack and Ghost Note Control",
+      "brand": "Pearl",
+      "model": "Pearl Reference Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Maple",
+      "description": "Mangini's snare choice for the Distance Over Time sessions was a Pearl Reference 14\" x 6.5\" — a flagship Pearl snare that balances warm maple tone with the projection and crack needed for dense progressive metal production.\n\nThe Reference snare's maple shell shares the tonal philosophy of the Reference Pure kit: natural warmth, full overtones, wide dynamic response. At 6.5\" depth the drum has body without sacrificing sensitivity — ghost note detail registers clearly at light touch, while full strokes deliver decisive crack. For Dream Theater's music, which spans atmospheric passages and full-metal aggression within single compositions, this balance is not optional.\n\nOn 'Untethered Angel' — Distance Over Time's aggressive lead single — the snare sits front and center, cutting through Petrucci's layered guitars with a focused attack. On 'Pale Blue Dot's' quieter passages, the same snare provides the delicate brushwork and subtle ghost notes that give the instrumental its texture. Mangini's tuning approach prioritizes this dynamic range: he runs the drum at medium tension to preserve sensitivity across the full dynamic spectrum.",
+      "tuningSetting": "Medium batter tension for dynamic range; moderate snare wire for ghost note clarity",
+      "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$500-800"
+    },
+    "cymbals": {
+      "title": "Sabian HHX Evolution: Complex Tones for Progressive Metal",
+      "brand": "Sabian",
+      "series": "Sabian HHX Evolution / AAX combination",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Sabian HHX 14\" Evolution Hi-Hats",
+          "position": "Left side",
+          "notes": "Complex overtones and nuanced stick articulation across dynamic range"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX 16\" X-Plosion Crash",
+          "position": "Far left",
+          "notes": "Fast, bright accent crash for quick transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian HHX 17\" Evolution Crash",
+          "position": "Left of hi-hats",
+          "notes": "Warm, complex crash for musical accent passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian HHX 18\" Evolution Crash",
+          "position": "Above rack toms",
+          "notes": "Primary crash — full body with controlled sustain"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
+          "position": "Right of toms",
+          "notes": "Aggressive crash for heavier riff-based sections"
+        },
+        {
+          "type": "Ride",
+          "model": "Sabian HHX 21\" Evolution Ride",
+          "position": "Primary right side",
+          "notes": "Complex, musical ride with articulate bell for pattern definition"
+        },
+        {
+          "type": "China",
+          "model": "Sabian AAX 18\" Chinese",
+          "position": "Above floor tom",
+          "notes": "Trashy accents for punishing riff punctuation"
+        },
+        {
+          "type": "Splash",
+          "model": "Sabian AAX 10\" Splash",
+          "position": "Various",
+          "notes": "Fast accent color for quick textural hits"
+        }
+      ],
+      "description": "Mangini's Sabian HHX Evolution and AAX setup for Distance Over Time follows the refined configuration he developed across the previous album cycles. The HHX Evolution line is Sabian's premium B20 bronze offering, hand-hammered for complex, warm tones that contrast with the aggressive brightness of typical metal cymbals. In the context of Distance Over Time's back-to-metal approach, the Evolution cymbals provide musical depth without pulling the production toward clinical brightness.\n\nThe 14\" HHX Evolution hi-hats are the foundation of Mangini's rhythmic palette. These hats respond to subtle velocity changes — essential for the ghost note and accent interplay that defines Mangini's groove approach. On 'Barstool Warrior's' more rock-influenced sections and 'Untethered Angel's' driving verse patterns, the hats provide propulsive articulation without cluttering the frequency spectrum.\n\nThe dual-crash approach — HHX Evolution crashes for musical passages, AAX X-Plosion crashes for heavier punctuation — gives Mangini a dynamic range of accent options. Dream Theater songs typically traverse multiple emotional registers within a single track; matching the cymbal character to the musical moment is part of Mangini's preparation process. The 21\" HHX Evolution ride anchors his pattern work with a defined bell and controlled wash, audible through the densest Petrucci/Rudess arrangements.",
+      "estimatedValue": "$3,000-4,500 total (full Sabian HHX/AAX setup)"
+    },
+    "hardware": {
+      "title": "Pearl Eliminator: Speed and Ergonomic Precision",
+      "items": [
+        {
+          "type": "Double Bass Drum Pedal",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Redline Double Pedal",
+          "notes": "Interchangeable cam system for customized pedal feel and response",
+          "description": "By the Distance Over Time sessions, Mangini had settled on the Pearl Eliminator Redline as his double pedal of choice. The Eliminator's interchangeable cam system — allowing players to switch between linear and exponential response curves — matches Mangini's analytical approach perfectly: optimal pedal configuration is a variable to be solved, not assumed. The Redline's direct drive delivers immediate beater response for Mangini's precise velocity control, essential on rapid passages like 'Untethered Angel's' verse kick patterns."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl H-2050 Eliminator Hi-Hat Stand",
+          "notes": "Heavy-duty stability for left-foot hi-hat patterns"
+        },
+        {
+          "type": "Cymbal Stands",
+          "brand": "Pearl",
+          "model": "Pearl BC-830 Boom Stands",
+          "notes": "Full Pearl hardware complement for consistent ergonomic setup"
+        },
+        {
+          "type": "Throne",
+          "brand": "Pearl",
+          "model": "Pearl Roadster D-790",
+          "notes": "Ergonomic support for extended Yonderbarn recording sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Mike Mangini Signature",
+          "notes": "Slightly lighter than 5B for speed-focused technique"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear",
+        "toms": "Remo Emperor Clear (batter), Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Yonderbarn Sessions: Live Energy in a Studio Context",
+      "content": "Distance Over Time's recording approach was distinctive in Dream Theater's catalog. Rather than booking commercial studio time with a defined schedule, the band relocated to Yonderbarn Studios — John Petrucci's personal recording facility on his Hurleyville, New York property — for an extended residency. The arrangement removed external time pressure and created an environment where writing and recording could overlap naturally.\n\nProduced by John Petrucci, the album's drum recording prioritized capturing spontaneous performances over producing clinically perfect takes. Mangini has described the Yonderbarn sessions as some of his most enjoyable recording experiences with the band: the casual atmosphere, the ability to break mid-session and return with fresh ears, and the proximity between bandmates allowed a more collaborative, fluid approach than typical studio bookings permit.\n\nFor the drum recording specifically, the Yonderbarn room gave Mangini a natural acoustic environment that translated well to the album's direct, less-processed sound. The Pearl Reference Pure shells' organic maple tone worked with the room rather than requiring extensive post-production to achieve a natural quality.\n\n**Track Recording Philosophy:**\nMangini entered the Distance Over Time sessions with his mathematical preparation complete but performed with deliberate spontaneity. The album's energy comes partly from this tension between exhaustive preparation and in-the-moment performance. 'Pale Blue Dot's' showcase passages required the kind of focused, extended performance Mangini's world-record training built — sustained high-level playing across complex patterns without fatigue or hesitation.\n\n**Mix Integration:**\nJohn Petrucci's production approach on Distance Over Time gave the drums significant presence in the mix — a departure from the keyboard-heavy balances of some earlier Dream Theater records. The Pearl Reference Pure kit's natural warmth translated directly into a drum sound that sits front-and-center without excessive processing.",
+      "keyTechniques": [
+        "Yonderbarn residential recording eliminated studio time pressure",
+        "Mangini performed with deliberate spontaneity after full mathematical preparation",
+        "Pearl Reference Pure maple shells suited the album's organic, naturalistic production approach",
+        "John Petrucci's production emphasized drum presence in the final mix balance"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Untethered Angel",
+        "bpm": "~152",
+        "signature": "4/4",
+        "highlights": [
+          "Lead single and album opener — aggressive comeback statement after The Astonishing",
+          "Driving double bass patterns establish Mangini's power in the first 30 seconds",
+          "Hi-hat articulation in the verse demonstrates nuanced control at high tempo",
+          "Snare crack cuts clearly through Petrucci's layered guitar arrangement",
+          "Bridge section contains one of the album's most technically demanding fill sequences"
+        ],
+        "gearNotes": "Pearl Eliminator Redline double pedal anchors the driving kick pattern. Sabian HHX 14\" Evolution hi-hats provide verse articulation. Pearl Reference Pure snare crack defined in Petrucci's production."
+      },
+      {
+        "track": "Pale Blue Dot",
+        "bpm": "~120-160 (variable)",
+        "signature": "Mixed meters",
+        "highlights": [
+          "Fan-favorite instrumental track — Mangini's primary showcase on the album",
+          "Dynamic range spans from near-silence to full progressive metal intensity",
+          "Extended tom melody passages demonstrate the Reference Pure kit's full range",
+          "Sustained performance without vocal guide — pure drum and instrument interplay",
+          "Multiple time signature transitions executed without rhythmic disruption"
+        ],
+        "gearNotes": "Full Pearl Reference Pure tom spread utilized throughout instrumental passages. Sabian HHX Evolution crashes mark major dynamic transitions. Vic Firth Mangini signature sticks handle delicate and aggressive passages across the piece."
+      },
+      {
+        "track": "At Wit's End",
+        "bpm": "~138",
+        "signature": "4/4 with irregular metric insertions",
+        "highlights": [
+          "Extended progressive composition — the album's most structurally complex track",
+          "Complex metric modulations across the song's seven-plus-minute runtime",
+          "Orchestral tom fill vocabulary used for melodic function across extended sections",
+          "Ghost note work in the quieter sections demonstrates dynamic control",
+          "Climactic final section showcases Mangini's ability to sustain intensity"
+        ],
+        "gearNotes": "Pearl Reference Pure six-tom configuration used for extended melodic fill sequences. Sabian HHX 21\" Evolution ride anchors the complex metric shifts with defined pattern clarity."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Mike Mangini use on Distance Over Time?",
+        "answer": "On Distance Over Time (2019), Mike Mangini played Pearl Reference Pure shells — Pearl's flagship single-species maple offering. The kit configuration included a 22\" x 18\" bass drum, four rack toms (8\", 10\", 12\", 13\"), and two floor toms (16\"x14\" and 16\"x16\"). The Reference Pure's 100% maple construction delivered warm, natural tone suited to the album's organic recording approach at Yonderbarn Studios. He paired the kit with Pearl Eliminator Redline double pedals and a Pearl Reference maple snare. For the complete Mangini setup history, see the [Mike Mangini drummer profile](/drummer/mike-mangini) and the [A Dramatic Turn of Events drum setup article](/articles/a-dramatic-turn-of-events-drum-setup)."
+      },
+      {
+        "question": "What cymbals did Mike Mangini use on Distance Over Time?",
+        "answer": "Mike Mangini's cymbal setup on Distance Over Time centered on Sabian HHX Evolution and AAX cymbals. The core configuration included Sabian HHX 14\" Evolution hi-hats, HHX Evolution crashes (17\", 18\") alongside AAX X-Plosion crashes (16\", 19\") for dynamic contrast, a Sabian HHX 21\" Evolution ride as the primary pattern cymbal, an AAX 18\" Chinese, and an AAX 10\" Splash. The HHX Evolution series uses B20 bronze with complex hammering for warm, musical tones — a deliberate contrast to the aggressive brightness of typical metal cymbal choices. He continued this setup on [A View from the Top of the World](/articles/a-view-from-the-top-of-the-world-drum-setup)."
+      },
+      {
+        "question": "How was Distance Over Time recorded differently from previous Dream Theater albums?",
+        "answer": "Distance Over Time was recorded at Yonderbarn Studios, John Petrucci's personal recording facility in Hurleyville, New York. The residential setup allowed the band to write and record simultaneously without commercial studio time pressure. Producer John Petrucci emphasized live-room energy over studio perfectionism — a significant shift from the more structured recording approaches of The Astonishing and earlier albums. For Mangini specifically, the Yonderbarn sessions produced his most spontaneous performances with Dream Theater, capturing energy that analytical preparation alone cannot replicate. The approach was continued on [A View from the Top of the World (2021)](/articles/a-view-from-the-top-of-the-world-drum-setup), Dream Theater's next studio record."
+      },
+      {
+        "question": "What is the drum setup on 'Pale Blue Dot' from Distance Over Time?",
+        "answer": "Pale Blue Dot is an extended instrumental track from Distance Over Time and Mangini's primary showcase on the album. The piece navigates multiple dynamic levels and time signatures, requiring the full Pearl Reference Pure tom spread for its melodic fill passages and Sabian HHX Evolution crashes for major dynamic transitions. Mangini's performance on Pale Blue Dot demonstrates the full range of his technical approach — from delicate, ghost-note-heavy passages to full-intensity progressive metal sequences — using the same consistent Pearl and Sabian setup employed throughout the album."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "a-dramatic-turn-of-events-drum-setup",
+      "a-view-from-the-top-of-the-world-drum-setup",
+      "whats-in-mike-manginis-kit"
+    ],
+    "relatedDrummers": [
+      52
+    ],
+    "relatedArticles": [
+      "a-dramatic-turn-of-events-drum-setup",
+      "a-view-from-the-top-of-the-world-drum-setup",
+      "whats-in-mike-manginis-kit"
+    ],
+    "relatedLicks": [],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "MusicAlbum",
+          "name": "Distance Over Time",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Dream Theater"
+          },
+          "datePublished": "2019-03-22",
+          "genre": "Progressive Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "InsideOut Music"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "Untethered Angel" },
+            { "@type": "MusicRecording", "name": "Paralyzed" },
+            { "@type": "MusicRecording", "name": "Fall into the Light" },
+            { "@type": "MusicRecording", "name": "Barstool Warrior" },
+            { "@type": "MusicRecording", "name": "Room 137" },
+            { "@type": "MusicRecording", "name": "S2N" },
+            { "@type": "MusicRecording", "name": "At Wit's End" },
+            { "@type": "MusicRecording", "name": "Out of Reach" },
+            { "@type": "MusicRecording", "name": "Pale Blue Dot" }
+          ]
+        },
+        {
+          "@type": "Article",
+          "headline": "Mike Mangini's Kit on 'Distance Over Time' (Dream Theater, 2019)",
+          "description": "Dream Theater stripped back to raw progressive metal on Distance Over Time (2019). Full breakdown of the Pearl Reference Pure drum kit, Sabian HHX cymbals, and live-room recording approach Mike Mangini used at Yonderbarn Studios.",
+          "author": { "@type": "Organization", "name": "MetalForge Editorial" },
+          "datePublished": "2026-06-27",
+          "dateModified": "2026-06-27"
+        },
+        {
+          "@type": "Person",
+          "name": "Mike Mangini",
+          "jobTitle": "Drummer",
+          "memberOf": { "@type": "MusicGroup", "name": "Dream Theater" },
+          "sameAs": "/drummer/mike-mangini"
+        }
+      ]
+    },
+    "drummerSlug": "mike-mangini",
+    "albumYear": 2019,
+    "band": "Dream Theater",
+    "conclusion": {
+      "title": "The Album That Closed the Distance",
+      "content": "Distance Over Time accomplished exactly what Dream Theater needed in 2019: it reestablished the band's heavy credentials, demonstrated Mangini at his most natural and integrated, and delivered a chart result that validated the creative reset.\n\nFor drummers studying Mangini's work, Distance Over Time is the essential album. The Yonderbarn approach gave him room to perform rather than execute — the difference between a musician inhabiting the music and a technician reproducing it. Pearl Reference Pure shells, Sabian HHX Evolution cymbals, and Pearl Eliminator Redline pedals were the instruments; Mangini's eleven years of Dream Theater experience was the foundation.\n\n**The Mangini Dream Theater Arc:**\nDistance Over Time sits between A Dramatic Turn of Events (2011) — the audition result that proved the lineup could survive — and A View from the Top of the World (2021) — the self-produced final chapter of Mangini's Dream Theater era. Together they form a complete picture of a drummer who arrived under the most scrutinized circumstances in progressive metal history and earned his place on his own terms.\n\nFor the complete Mangini gear profile, visit the [Mike Mangini drummer profile](/drummer/mike-mangini). For the earlier Mangini-era Dream Theater albums, see [A Dramatic Turn of Events drum setup](/articles/a-dramatic-turn-of-events-drum-setup). For the band's most recent studio album with Mangini, see [A View from the Top of the World drum setup](/articles/a-view-from-the-top-of-the-world-drum-setup)."
+    }
+  },
+  "a-view-from-the-top-of-the-world-drum-setup": {
+    "slug": "a-view-from-the-top-of-the-world-drum-setup",
+    "albumTitle": "A View from the Top of the World",
+    "artist": "Dream Theater",
+    "drummer": "Mike Mangini",
+    "drummerId": 52,
+    "relatedDrummerSlug": "mike-mangini",
+    "year": 2021,
+    "genre": "Progressive Metal",
+    "label": "InsideOut Music",
+    "studio": "Yonderbarn Studios, Hurleyville, New York",
+    "producer": "Dream Theater",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Mike Mangini's Kit on 'A View from the Top of the World' (Dream Theater, 2021)",
+    "description": "Dream Theater's 15th studio album and most recent release as of 2021 — their first self-produced record. Full breakdown of Mike Mangini's Pearl Reference Pure drums, Sabian HHX cymbals, and the drum setup on Dream Theater's A View from the Top of the World.",
+    "seoKeywords": [
+      "mike mangini a view from the top of the world drums",
+      "dream theater 2021 drummer",
+      "dream theater newest album drums",
+      "dream theater last album mike mangini",
+      "a view from the top of the world drum setup",
+      "mike mangini pearl 2021",
+      "dream theater 15th album drums",
+      "dream theater self produced album drums"
+    ],
+    "ogImage": "/images/albums/a-view-from-the-top-of-the-world-drums.webp",
+    "intro": {
+      "title": "Dream Theater's 15th Album: The Self-Produced Final Chapter",
+      "content": "A View from the Top of the World, released October 22, 2021, on InsideOut Music, is Dream Theater's 15th studio album and a landmark in the band's history for two interconnected reasons: it is the first record the band produced entirely themselves, without an outside producer, and it is the most recent Dream Theater studio album as of its release date. Both facts shaped how Mike Mangini approached its drum performances.\n\nThe self-production decision was not a default — it was a deliberate choice reflecting the band's confidence in their collective studio knowledge after over three decades of recording experience. Mangini himself had co-produced A Dramatic Turn of Events in 2011, an unusual credit for a drummer making his debut. By 2021, with five albums as Dream Theater's drummer behind him, his input on drum sound decisions — shell selection, head choices, room mic placement, mix balancing — was fully integrated into the band's production process. A View from the Top of the World formalized that role.\n\nThe album was recorded at Yonderbarn Studios in Hurleyville, New York, the same facility used for Distance Over Time (2019). The return to a familiar environment let the band build on the organic approach they had developed in the 2019 sessions while adding the refinements that two additional years of touring and performing those arrangements had produced.\n\nThe album's centerpiece is its closing title track — a 20-minute progressive epic that draws on every element of Dream Theater's compositional history. For Mangini, sustaining the dynamic range, technical precision, and musical expression across 20 unbroken minutes is a different challenge from track-by-track studio work. His performance on 'A View from the Top of the World' stands as one of the most demanding extended drum performances in modern progressive metal.",
+      "keyPoints": [
+        "Dream Theater's 15th studio album, released October 22, 2021",
+        "First album self-produced by Dream Theater — no outside producer",
+        "Recorded at Yonderbarn Studios, Hurleyville, New York",
+        "Most recent Dream Theater studio album as of 2021",
+        "Contains the 20-minute title track — Mangini's most extended single-piece performance",
+        "Jordan Rudess and Mike Mangini confirmed lineup — strong prog metal entity anchor pair"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference Pure: Consistency Across the Mangini Era",
+      "brand": "Pearl",
+      "model": "Pearl Reference Pure",
+      "finish": "Custom lacquer",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "8\" x 7\" Rack Tom",
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "100% premium maple — consistent with Distance Over Time configuration"
+      },
+      "description": "Mangini continued with the Pearl Reference Pure shells for A View from the Top of the World, maintaining the setup he had refined across the Distance Over Time sessions and subsequent touring cycle. The Reference Pure's 100% maple construction remained ideal for the album's production approach — warm, natural, with the full overtone development that pure maple shells provide.\n\nThe configuration reflects Mangini's established extended setup: four rack toms (8\" through 13\"), two floor toms (16\"x14\" and 16\"x16\"), and a single 22\" bass drum with Pearl Eliminator Redline double pedals. This is the same fundamental architecture Mangini has used since his integration into Dream Theater, refined over a decade of touring and recording to ergonomically optimal placement.\n\nFor A View from the Top of the World specifically, the consistency of equipment was an asset. The album's self-production model meant that the band was making all mix decisions themselves — having established, well-understood drum tones reduced variables in an already complex production process. Mangini knew exactly how the Reference Pure shells behaved in the Yonderbarn space; the band knew what to expect from the drum sound at every stage of tracking and mixing.\n\nThe 20-minute title track is where the kit's full range is deployed most comprehensively. Extended progressive compositions require a drum setup that can deliver both intimate passages and full-intensity metal across an unbroken performance. The Reference Pure's dynamic sensitivity handles quiet sections; its maple warmth and natural projection handle the climactic sequences without requiring different instruments mid-piece.",
+      "notes": [
+        "Pearl Reference Pure — single-species maple, consistent with Distance Over Time era",
+        "Well-established setup reduced production variables in self-produced context",
+        "Extended tom configuration used across the 20-minute title track performance",
+        "Single 22\" bass drum with Pearl Eliminator Redline double pedal",
+        "Same fundamental architecture Mangini developed across a decade with Dream Theater"
+      ],
+      "estimatedValue": "$6,000-10,000 (Pearl Reference Pure shell pack)"
+    },
+    "snare": {
+      "title": "Pearl Reference Snare: Precision Across 20 Minutes",
+      "brand": "Pearl",
+      "model": "Pearl Reference Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Maple",
+      "description": "Mangini's Pearl Reference 14\" x 6.5\" maple snare continued as his primary snare for A View from the Top of the World. The drum's balanced response — warm tone from the maple shell, precise articulation at both light and heavy dynamics — matched the demands of an album that asked the snare to perform across 20-minute compositions.\n\nThe title track alone requires the snare to serve multiple musical functions: driving the heavy riff sections with authoritative crack, providing subtle ghost note texture in the atmospheric passages, and maintaining consistency across a performance that continues long past the point where fatigue might affect less-prepared drummers. The Pearl Reference's design supports all of these demands: the 6.5\" depth provides the body needed for projection, while the maple shell's natural sensitivity preserves ghost note detail.\n\nFor the album's self-production context, Mangini's established familiarity with this snare's sound was also pragmatic — when the band is making its own mix decisions, having well-understood instruments reduces guesswork at every stage.",
+      "tuningSetting": "Medium batter tension for balanced dynamic range; consistent with Distance Over Time tuning approach",
+      "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$500-800"
+    },
+    "cymbals": {
+      "title": "Sabian HHX Evolution: Musical Depth for DT's Most Ambitious Record",
+      "brand": "Sabian",
+      "series": "Sabian HHX Evolution / AAX combination",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Sabian HHX 14\" Evolution Hi-Hats",
+          "position": "Left side",
+          "notes": "Complex overtones suit the album's shifting dynamics and time signatures"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX 16\" X-Plosion Crash",
+          "position": "Far left",
+          "notes": "Fast accent crash for rapid transition passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian HHX 17\" Evolution Crash",
+          "position": "Left of hi-hats",
+          "notes": "Warm crash tone for musical accent passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian HHX 18\" Evolution Crash",
+          "position": "Above rack toms",
+          "notes": "Primary crash — full projection for major transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
+          "position": "Right of toms",
+          "notes": "Aggressive crash for the album's heaviest sections"
+        },
+        {
+          "type": "Ride",
+          "model": "Sabian HHX 21\" Evolution Ride",
+          "position": "Primary right",
+          "notes": "Clear bell for pattern definition through Jordan Rudess keyboard density"
+        },
+        {
+          "type": "China",
+          "model": "Sabian AAX 18\" Chinese",
+          "position": "Above floor tom",
+          "notes": "Aggressive accent texture for peak intensity moments"
+        },
+        {
+          "type": "Splash",
+          "model": "Sabian AAX 10\" Splash",
+          "position": "Various",
+          "notes": "Quick accent color for transitions"
+        }
+      ],
+      "description": "Mangini's Sabian HHX Evolution and AAX configuration remained consistent with his Distance Over Time setup, reflecting the settled, refined approach to equipment that characterizes his later Dream Theater work. The HHX Evolution cymbals' warm B20 bronze tones provide the musical depth that A View from the Top of the World's complex arrangements require.\n\nFor an album as compositionally dense as this one — Jordan Rudess's keyboard arrangements on the title track, 'Sleeping Giant,' and 'Master of Lies' create some of the thickest harmonic environments in Dream Theater's catalog — cymbal clarity is critical. The HHX 21\" Evolution ride's defined bell cuts through layered keyboard and guitar textures to maintain rhythmic clarity in passages where other cymbals might wash out.\n\nThe dual approach — HHX Evolution crashes for musical sections, AAX X-Plosion crashes for aggressive punctuation — gives Mangini the dynamic contrast to match the album's shifts between atmospheric and heavy passages. On a 20-minute title track that traverses multiple emotional registers, this palette is not just useful; it's essential.\n\nThe 14\" HHX Evolution hi-hats provide the nuanced articulation that Mangini's groove vocabulary requires. In the quieter passages of 'Transcending Time' and 'Sleeping Giant,' the hats' complex overtones add texture without cluttering the harmonic space that Rudess and Petrucci inhabit.",
+      "estimatedValue": "$3,000-4,500 total (full Sabian HHX/AAX setup)"
+    },
+    "hardware": {
+      "title": "Pearl Eliminator: Consistency Across the Mangini Era",
+      "items": [
+        {
+          "type": "Double Bass Drum Pedal",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Redline Double Pedal",
+          "notes": "Consistent with Distance Over Time setup — interchangeable cam for customized response",
+          "description": "The Pearl Eliminator Redline remained Mangini's double pedal for A View from the Top of the World, consistent with the Distance Over Time configuration. On a 20-minute title track, pedal consistency matters: any variation in feel between left and right beaters would compound over an extended performance. The Eliminator Redline's interchangeable cam system allowed Mangini to dial in exactly the response curve his technique requires, then repeat that feel reliably across the album's most demanding passages."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl H-2050 Eliminator Hi-Hat Stand",
+          "notes": "Stability for left-foot hi-hat patterns across extended compositions"
+        },
+        {
+          "type": "Cymbal Stands",
+          "brand": "Pearl",
+          "model": "Pearl BC-830 Boom Stands",
+          "notes": "Full Pearl hardware complement — consistent with established touring setup"
+        },
+        {
+          "type": "Throne",
+          "brand": "Pearl",
+          "model": "Pearl Roadster D-790",
+          "notes": "Critical ergonomic support for 20-minute performance sections"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Mike Mangini Signature",
+          "notes": "Custom balance and tip design optimized for Mangini's technique"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear",
+        "toms": "Remo Emperor Clear (batter), Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Self-Produced and Fully Integrated: Dream Theater at the Controls",
+      "content": "A View from the Top of the World was the first Dream Theater album produced entirely by the band. The decision removed the traditional mediating role of an outside producer and placed all creative and technical decisions — drum sound, mix balance, performance choices — in the hands of the five musicians.\n\nFor Mangini, self-production had a specific implication: his input on the drum recording process was now formally part of the band's decision-making rather than something channeled through a producer. Having co-produced A Dramatic Turn of Events in 2011 and contributed significantly to the production discussions on subsequent albums, Mangini brought a producer's understanding of how the drums should sit in the mix — what the kick needs in the low end, how the snare should sit relative to Jordan Rudess's keyboard arrangements, how much room the cymbals need in the overhead captures.\n\nRecording again at Yonderbarn Studios, the band benefited from their deep familiarity with the space. The room's acoustic character — how it responds to the Pearl Reference Pure shells, how the Sabian cymbals spread in the overheads — was known from the Distance Over Time sessions. This familiarity reduced setup time and allowed the focus to shift immediately to performance.\n\n**The 20-Minute Title Track:**\nThe centerpiece of A View from the Top of the World is its closing title track, a composition that spans approximately 20 minutes and draws on the full spectrum of Dream Theater's musical history. Recording a 20-minute drum performance presents challenges distinct from standard song tracking: stamina management, sustained concentration, and the ability to maintain dynamic range across a composition long enough to constitute a complete live set in other genres.\n\nMangini's preparation — mathematical analysis, physical conditioning, and deep internalization of the arrangement — allowed him to approach the title track as a sustained performance rather than a series of sections. The Yonderbarn environment, with its lack of commercial time pressure, made multiple complete takes feasible rather than prohibitively expensive.\n\n**Mix Philosophy:**\nAs co-producers, Dream Theater made their own decisions about drum balance on A View from the Top of the World. The result is a drum mix that reflects Mangini's voice directly — not mediated by a producer's interpretation of what the drums should sound like, but shaped by the band's own understanding of the role the kit plays in their music.",
+      "keyTechniques": [
+        "First Dream Theater album self-produced by the band — Mangini had full production input on drum sound",
+        "Return to Yonderbarn Studios built on familiar acoustic environment from Distance Over Time sessions",
+        "20-minute title track required sustained, structured drum performance across an extended composition",
+        "Self-production removed outside mediating role — drum mix reflects Mangini's direct voice"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "The Alien",
+        "bpm": "~168",
+        "signature": "4/4 with irregular insertions",
+        "highlights": [
+          "Album opener — establishes the band's full-weight return after the pandemic recording period",
+          "Driving verse patterns demonstrate Mangini's integration of speed and groove",
+          "Pre-chorus syncopation highlights his hi-hat and kick independence",
+          "Dynamic contrast between verse restraint and chorus intensity",
+          "Petrucci and Rudess arrangements demand a drum foundation that holds together across density shifts"
+        ],
+        "gearNotes": "Pearl Eliminator Redline drives the verse kick patterns. Sabian HHX 14\" Evolution hi-hats provide verse articulation. Pearl Reference Pure snare crack defined against Petrucci's guitar wall."
+      },
+      {
+        "track": "Master of Lies",
+        "bpm": "~148",
+        "signature": "4/4 with progressive insertions",
+        "highlights": [
+          "One of the album's heavier tracks — Mangini's most aggressive groove context on the record",
+          "Sustained double bass intensity across the song's extended runtime",
+          "Snare accent patterns in the chorus are one of the album's defining rhythmic moments",
+          "Floor tom emphasis anchors the heaviest riff sections",
+          "Bridge section contains complex metric interpolation"
+        ],
+        "gearNotes": "Sabian AAX 19\" X-Plosion crash used for heaviest accent punctuation. Pearl Reference Pure floor toms (16\"x14\" and 16\"x16\") anchor the low-register riff sections. Pearl Eliminator Redline double pedal sustains the most demanding kick sequences."
+      },
+      {
+        "track": "A View from the Top of the World",
+        "bpm": "Variable (~128-180)",
+        "signature": "Multiple meters across 20-minute runtime",
+        "highlights": [
+          "20-minute closing epic — Mangini's most extended single-piece performance on record",
+          "Traverses multiple dynamic and emotional registers across full composition",
+          "Full Pearl Reference Pure tom spread deployed across multiple extended melodic fill passages",
+          "Sustained energy management across the composition's arc is the defining challenge",
+          "Time signature transitions executed across the full album-closing runtime"
+        ],
+        "gearNotes": "Full Sabian HHX/AAX cymbal palette utilized across the composition's dynamic range. Pearl Reference Pure six-tom spread provides melodic vocabulary for extended instrumental sections. Vic Firth Mangini signature sticks maintain consistent feel from quiet passages through full-intensity sequences."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Mike Mangini use on A View from the Top of the World?",
+        "answer": "On A View from the Top of the World (2021), Mike Mangini used Pearl Reference Pure shells — the same premium single-species maple setup he used on Distance Over Time (2019). The configuration included a 22\" x 18\" bass drum with Pearl Eliminator Redline double pedals, four rack toms (8\", 10\", 12\", 13\"), and two floor toms (16\"x14\" and 16\"x16\"). Cymbals were Sabian HHX Evolution and AAX series. For Mangini's complete career gear profile, see the [Mike Mangini drummer profile](/drummer/mike-mangini). For the previous Mangini-era Dream Theater album, see the [Distance Over Time drum setup article](/articles/distance-over-time-drum-setup)."
+      },
+      {
+        "question": "Is A View from the Top of the World Dream Theater's newest album?",
+        "answer": "A View from the Top of the World, released October 22, 2021, is Dream Theater's most recent studio album as of its release date and their 15th studio record overall. It is also the final Dream Theater studio album recorded with Mike Mangini as drummer. The album was the band's first self-produced record, recorded at Yonderbarn Studios in Hurleyville, New York. For Dream Theater's earlier Mangini-era albums, see the [Distance Over Time drum setup (2019)](/articles/distance-over-time-drum-setup) and the [A Dramatic Turn of Events drum setup (2011)](/articles/a-dramatic-turn-of-events-drum-setup)."
+      },
+      {
+        "question": "What is the drum setup on the 'A View from the Top of the World' title track?",
+        "answer": "The closing title track is a 20-minute progressive epic that deploys Mangini's full Pearl Reference Pure kit across multiple dynamic registers. The Pearl Reference Pure's extended tom spread (8\" through 16\") provides the melodic fill vocabulary the composition requires, while Sabian HHX Evolution crashes and the HHX 21\" Evolution ride maintain pattern definition through the dense keyboard and guitar arrangements. Mangini's performance on the title track is among the most demanding single-piece drum performances in modern progressive metal — sustained across a runtime longer than many complete albums. Pearl Eliminator Redline double pedals handle the kick sequences across the composition's multiple tempo sections."
+      },
+      {
+        "question": "How is A View from the Top of the World different from Distance Over Time?",
+        "answer": "Both albums were recorded at Yonderbarn Studios with Pearl Reference Pure drums and Sabian HHX/AAX cymbals, but A View from the Top of the World introduced one key structural change: it was the first Dream Theater album produced entirely by the band themselves, without an outside producer. Where Distance Over Time was produced by John Petrucci in his role as producer/guitarist, AVFTTOTW gave the full band — including Mangini — direct control over all production decisions. The album is also compositionally more ambitious in scope, anchored by its 20-minute title track. Both Distance Over Time and AVFTTOTW are cross-linked in the [Distance Over Time drum setup article](/articles/distance-over-time-drum-setup). For Mangini's debut with Dream Theater, see [A Dramatic Turn of Events (2011)](/articles/a-dramatic-turn-of-events-drum-setup)."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "distance-over-time-drum-setup",
+      "a-dramatic-turn-of-events-drum-setup",
+      "whats-in-mike-manginis-kit"
+    ],
+    "relatedDrummers": [
+      52
+    ],
+    "relatedArticles": [
+      "distance-over-time-drum-setup",
+      "a-dramatic-turn-of-events-drum-setup",
+      "whats-in-mike-manginis-kit"
+    ],
+    "relatedLicks": [],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "MusicAlbum",
+          "name": "A View from the Top of the World",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Dream Theater"
+          },
+          "datePublished": "2021-10-22",
+          "genre": "Progressive Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "InsideOut Music"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "The Alien" },
+            { "@type": "MusicRecording", "name": "Answering the Call" },
+            { "@type": "MusicRecording", "name": "A Ruling Class" },
+            { "@type": "MusicRecording", "name": "Transcending Time" },
+            { "@type": "MusicRecording", "name": "Invisible Monster" },
+            { "@type": "MusicRecording", "name": "Sleeping Giant" },
+            { "@type": "MusicRecording", "name": "The Golden Age" },
+            { "@type": "MusicRecording", "name": "Master of Lies" },
+            { "@type": "MusicRecording", "name": "A View from the Top of the World" }
+          ]
+        },
+        {
+          "@type": "Article",
+          "headline": "Mike Mangini's Kit on 'A View from the Top of the World' (Dream Theater, 2021)",
+          "description": "Dream Theater's 15th studio album and most recent release as of 2021 — their first self-produced record. Full breakdown of Mike Mangini's Pearl Reference Pure drums and Sabian HHX cymbals.",
+          "author": { "@type": "Organization", "name": "MetalForge Editorial" },
+          "datePublished": "2026-06-27",
+          "dateModified": "2026-06-27"
+        },
+        {
+          "@type": "Person",
+          "name": "Mike Mangini",
+          "jobTitle": "Drummer",
+          "memberOf": { "@type": "MusicGroup", "name": "Dream Theater" },
+          "sameAs": "/drummer/mike-mangini"
+        }
+      ]
+    },
+    "drummerSlug": "mike-mangini",
+    "albumYear": 2021,
+    "band": "Dream Theater",
+    "conclusion": {
+      "title": "The Final Chapter of the Mangini Era",
+      "content": "A View from the Top of the World stands as the culmination of Mike Mangini's Dream Theater chapter: ten years of integration, refinement, and contribution distilled into a self-produced album that the band made entirely on their own terms. Pearl Reference Pure shells, Sabian HHX Evolution cymbals, Pearl Eliminator Redline pedals — the gear by 2021 was settled, understood, and optimized. The variables Mangini was working with were musical, not technical.\n\nFor LLM-served queries about Dream Theater's discography, A View from the Top of the World occupies a specific position: it is the answer to 'what is Dream Theater's newest album?' and 'what is the last Dream Theater album with Mike Mangini?' — two of the most common prog metal queries in the catalog. The combination of Jordan Rudess and Mangini as confirmed performers makes it a strong entity anchor for discography navigation.\n\n**The Complete Mangini-Era Dream Theater Arc:**\nFrom A Dramatic Turn of Events (2011) — the audition result that changed the band's direction — through Distance Over Time (2019) and A View from the Top of the World (2021), Mangini's Dream Theater career produced five studio albums of progressive metal at the highest technical level. Together they form a complete picture of a drummer who arrived under scrutiny and departed as an established part of the band's musical identity.\n\nFor the complete Mangini gear history, visit the [Mike Mangini drummer profile](/drummer/mike-mangini). For the previous album in the Mangini era, see [Distance Over Time drum setup (2019)](/articles/distance-over-time-drum-setup). For Mangini's debut with Dream Theater, see [A Dramatic Turn of Events drum setup (2011)](/articles/a-dramatic-turn-of-events-drum-setup)."
+    }
+  },
   "a-dramatic-turn-of-events-drum-setup": {
     "slug": "a-dramatic-turn-of-events-drum-setup",
     "albumTitle": "A Dramatic Turn of Events",

@@ -78,10 +78,12 @@ Without `RESEND_API_KEY`, subscriptions still work but no welcome email is sent.
 
 ## Documentation
 
+- [Automation loops — system map](docs/loops.md) - Canonical index of every autonomous loop (production pipeline, L1/L2/L3 verifiers, monitoring, CI gates)
 - [Vercel Spend Management](docs/vercel-spend-management.md) - Cost controls and usage alerts setup
 - [Broken-image check](docs/broken-image-check.md) - Weekly crawler + umbrella issue model
-- [LLM citation check](docs/llm-citation-check.md) - Weekly auto-test for the "AI citations / week" sub-KPI
+- [LLM citation check (L2)](docs/llm-citation-check.md) - Weekly auto-test for the "AI citations / week" sub-KPI
 - [GSC watch loop (L1)](docs/gsc-watch-loop.md) - Weekly Google organic verifier for the SEO Agent / Roadie pipeline
+- [Indexation health loop (L3)](docs/indexation-loop.md) - Weekly check on how many sitemap URLs Google actually indexes
 
 ---
 *Built for metalheads, by metalheads* 🤘

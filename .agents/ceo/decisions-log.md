@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-27 00:41 UTC*
 
 ---
+## 2026-06-27 22:28 UTC — 2 promotes (#2997/#2998), 1 L1 ai-fix (#3059), 6 new proposals triaged (35)
+
+### Context (≤3 lines)
+Late re-trigger (22:20 UTC). Metrics: 118 users / 129 sessions / 3,062 impr / 70 clicks / 2.29% CTR. 8 new seo-proposals filed since 19:28 run (#2993–#3000); GSC content-gap flag (`joey jordison drum set` 149 impr / 0.67% CTR) confirmed in metrics.md — CEO MUST address.
+
+### Actions taken
+- **Promotes (2)**: #2997 (5★ Kit Overview prose batch 3 — Flo Mounier + Hellhammer + John Otto; direct L2 LLM gap fix, auto-5★ from learned pattern; Flo Mounier already 42.86% CTR winner), #2998 (5★ Genre Gear Guide batch 3 — best-hi-hats + best-bass-drum-pedals + best-drum-heads for metal; high-intent transactional, affiliate leverage) — backlog 32→34
+- **L1 ai-fix filed (#3059)**: Optimize joey-jordison profile title+meta for 'drum set'/'drum kit' cluster (234 combined impr, 0.67% CTR — CEO MUST address from metrics.md). Same CTR-gap pattern as #2927 (Shannon Larkin) + #2928 (Brann Dailor). Target: ≥2% CTR on combined cluster at next L1 snapshot (2026-07-01). — backlog 34→35
+- **6 new proposals triaged (HOLD)**:
+  - 4★ HOLD: #3000 (Evo-13: Ben Koller/Pete Sandoval/Mikkey Dee — no strong GSC pull)
+  - 4★ HOLD: #2999 (Comparison-35: Koller/Dee/Roddy — Vinnie Paul 22 impr but Dee/Koller noise)
+  - 4★ HOLD: #2996 (Bad Magic/Mikkey Dee — arc close, high cultural value but low GSC signal)
+  - 4★ HOLD: #2995 (Converge arc fills — Ben Koller noise-level only)
+  - 4★ HOLD: #2994 (IM Dance of Death+AMOLAD — arc fill, Nicko already has 2 issues queued)
+  - 4★ HOLD: #2993 (LoG 2020/Art Cruz — opens Cruz era, Art Cruz 4 impr noise)
+
+### State delta
+- **Backlog: 32→35** (2 promotes + 1 new L1 issue)
+- **New ai-fix (1)**: #3059 joey-jordison CTR gap
+- **Promoted (2)**: #2997 (Kit Overview batch 3), #2998 (Genre Gear Guide batch 3)
+- **6 proposals parked at 4★ HOLD** — promote when backlog <25
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ Proposals: 8 triaged (2 promoted 5★, 6 held 4★). ✅ L1: #3059 filed (joey jordison CTR gap — 1 of 3 cap). ✅ L2/L3: no new patterns (batch 2+3 queued; #2945 comparative-list already open). ✅ Decisions logged.
+
+### Next Run (2026-07-01 07:00 UTC)
+1. **L1 snapshot** — check Shannon Larkin (#2927) + Brann Dailor (#2928) + Joey Jordison (#3059) CTR movement
+2. **Zombie sweep** — close any Ralph merges over weekend
+3. **Promote order at <25**: #2935 (BTBAM Colors+Misdirect) → #2950 (SoundLike batch 33) → #2952 (Genre Gear Guide batch 2) → #2972 (BTBAM Automata)
+4. **#2968/#2945 status** — Kit Overview batch 2 + comparative-list: if shipped, confirm patterns in learned-patterns.md
+
+---
 ## 2026-06-27 19:28 UTC — 5 zombies swept, 2 promotes (#2973/#2970), 7 proposals triaged (32)
 
 ### Context (≤3 lines)

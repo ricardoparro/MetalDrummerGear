@@ -54,6 +54,8 @@ _(Empty — first entries will be appended after 60-day nulls or 3 consecutive l
 
 `brann-dailor CTR gap (2026-06-27)`: pos 6.3 / 23 impr / 0 clicks confirmed at L1 2026-06-24 snapshot (highest-volume CTR-gap entity). Title/meta CTR fix filed as **#2928**. Watch next L1 snapshot (2026-07-01); target ≥1 click.
 
+`joey-jordison CTR gap (2026-06-27)`: `joey jordison drum set` pos 7.7 / 149 impr / 0.67% CTR + `joey jordison drum kit` pos 8.5 / 85 impr = 234 combined impr with <2% CTR. Title/meta CTR fix filed as **#3059**. Watch next L1 snapshot (2026-07-01); target ≥2% CTR on combined cluster. Note: LLM citation is strong (12/13 variants cited) — this is a pure organic CTR gap, not a content depth gap.
+
 `L1 first-snapshot summary (2026-06-27)`: 43 new queries surfaced (first run — no prior week for win/loss classification). Joey Jordison cluster dominates: 134 impr "drum set" + 85 impr "drum kit" + 5-18 impr across 8+ variants. No big-wins or big-losses (baseline only). Next actionable snapshot: 2026-07-01.
 
 ## 📦 Archived watches

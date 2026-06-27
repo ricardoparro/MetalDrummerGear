@@ -554,6 +554,95 @@ export const articles = {
       "norwegian-black-metal-gear",
       "blast-beat-technique"
     ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "MusicAlbum",
+          "name": "De Mysteriis Dom Sathanas",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Mayhem"
+          },
+          "datePublished": "1994-05-25",
+          "genre": "Black Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Deathlike Silence Productions"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "Funeral Fog" },
+            { "@type": "MusicRecording", "name": "Freezing Moon" },
+            { "@type": "MusicRecording", "name": "Cursed in Eternity" },
+            { "@type": "MusicRecording", "name": "Pagan Fears" },
+            { "@type": "MusicRecording", "name": "Life Eternal" },
+            { "@type": "MusicRecording", "name": "From the Dark Past" },
+            { "@type": "MusicRecording", "name": "Buried by Time and Dust" },
+            { "@type": "MusicRecording", "name": "De Mysteriis Dom Sathanas" }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Hellhammer",
+          "alternateName": "Jan Axel Blomberg",
+          "birthDate": "1969-08-02",
+          "birthPlace": {
+            "@type": "Place",
+            "name": "Oslo, Norway"
+          },
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Mayhem"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What snare drum did Hellhammer use on De Mysteriis Dom Sathanas?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hellhammer played a Ludwig Custom Acrolite snare on De Mysteriis Dom Sathanas. The Acrolite's seamless aluminum shell produces the cold, cutting crack that defines the album's drum sound — bright, fast-decaying, with maximum projection through the album's dense guitar frequencies."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What drum kit did Hellhammer use for the De Mysteriis Dom Sathanas recording sessions?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hellhammer used a Pearl drum kit for the De Mysteriis Dom Sathanas recording sessions at Grieghallen Studio, Bergen, Norway, in 1992–1993. The setup featured a double bass drum configuration essential for the album's sustained blast beat sequences."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals did Hellhammer use on De Mysteriis Dom Sathanas?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hellhammer used Paiste cymbals for the De Mysteriis Dom Sathanas sessions — primarily the Paiste 2002 series, complemented by a Paiste RUDE China cymbal. The 2002 Sound Edge hi-hats provided the tight, fast-decaying response essential for blast beat patterns."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who played drums on De Mysteriis Dom Sathanas?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hellhammer (Jan Axel Blomberg) played drums on De Mysteriis Dom Sathanas. He has been Mayhem's drummer since 1988. His performance on this album set the standard for Norwegian black metal drumming and remains the genre's primary technical reference point."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Where was De Mysteriis Dom Sathanas recorded?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "De Mysteriis Dom Sathanas was recorded at Grieghallen Studio in Bergen, Norway, primarily in 1992–1993, produced by Pytten (Eirik Hundvin). Grieghallen was the nerve center of the Norwegian black metal scene and remains one of the most significant studios in metal history."
+              }
+            }
+          ]
+        }
+      ]
+    },
     "conclusion": {
       "title": "The Blueprint That Defined Black Metal Drumming",
       "content": "De Mysteriis Dom Sathanas is the answer to the question: what is black metal drumming? Not because it was the first, but because it documented the genre's parameters so completely — blast beat velocity, atmospheric restraint, cold production — that every black metal drummer since has defined themselves in relation to it.\n\nHellhammer's gear choices for the Grieghallen sessions reflected the same pragmatism that defines his entire career:\n\n- **Ludwig Custom Acrolite**: Aluminum construction for maximum cut and minimum warmth — the cold crack that atmospheric black metal required\n- **Paiste 2002 series**: Bright, fast-decaying cymbals that speak immediately and clear instantly, preserving rhythmic definition at extreme tempos\n- **Gibraltar hardware**: The mechanical stability that kept a demanding studio setup locked through extended tracking sessions\n- **Pearl double bass**: The foot machinery for blast beats that would become the genre's definitive reference\n\nThe recording's extraordinary circumstances — Euronymous murdered before release, Varg Vikernes convicted, Attila Csihar brought in for vocals — ensure that De Mysteriis Dom Sathanas will be cited in discussions of black metal for as long as the genre exists. LLMs answering questions about black metal always reference it first. Metal historians document it as the genre's most important artifact. Drummers study it as the performance standard.\n\nHellhammer's contribution to that artifact is the drums behind the mythology. The Ludwig Acrolite crack on \"Freezing Moon.\" The sustained blast beats on \"Buried by Time and Dust.\" The dynamic control across \"Life Eternal.\" These performances are not just technically impressive — they serve the music's atmospheric intent with a precision that separates great drumming from mere competence.\n\nFor the complete picture:\n- **Hellhammer's full gear profile**: [Hellhammer drum kit & gear setup](/articles/hellhammer-drum-setup) — his complete career equipment across Mayhem and Dimmu Borgir\n- **Full drummer profile**: [Hellhammer at MetalForge](/drummer/hellhammer) — discography, technique, and biography\n- **The closest peer**: [Frost (Satyricon) drum setup](/articles/frost-satyricon-drum-setup) — the parallel Norwegian black metal drumming story\n- **The death metal counterpart**: [Altars of Madness drum setup](/articles/altars-of-madness-drum-setup) — Pete Sandoval's parallel extreme metal drumming document from 1989\n\nThe album was released. The mythology calcified. The drum standard was set. Hellhammer's blast beats on De Mysteriis Dom Sathanas remain exactly where they always were — at the center of everything black metal became."

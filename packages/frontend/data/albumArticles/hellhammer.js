@@ -308,6 +308,8 @@ export const articles = {
       }
     ],
     "relatedAlbums": [
+      "de-mysteriis-dom-sathanas-drum-setup",
+      "in-sorte-diaboli-drum-setup",
       "gene-hoglan-drum-setup",
       "joey-jordison-drum-setup"
     ],

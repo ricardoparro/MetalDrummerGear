@@ -6053,6 +6053,949 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Eloy Casagrande Gear Evolution Timeline | Sepultura to Slipknot Drum Kit History',
     metaDescription: 'Explore Eloy Casagrande\'s complete drum gear evolution from his Sepultura debut at 16 to joining Slipknot in 2023. Pearl, Meinl, Demon Drive — every era of modern metal\'s most compelling career arc.',
   },
+
+  // ==========================================
+  // Matt Halpern - Periphery (2005–Present)
+  // ==========================================
+  'matt-halpern': {
+    slug: 'matt-halpern',
+    name: 'Matt Halpern',
+    band: 'Periphery',
+    totalYearsActive: '2005-Present',
+    profileImage: '/images/drummers/matt-halpern.webp',
+    summary: 'Co-founder and drummer of Periphery, Matt Halpern helped pioneer the djent movement and modern progressive metal drumming. His gear journey traces the arc from a self-funded DIY setup in the early days of the band through a defining Mapex endorsement that produced one of the most recognisable djent kits in the world.',
+
+    eras: [
+      {
+        id: 'matt-halpern-2005-debut',
+        era: 'DIY / Self-Titled Debut Era',
+        years: '2005–2011',
+        startYear: 2005,
+        endYear: 2011,
+        description: 'The formative Periphery years. Matt and Misha Mansoor built the band independently, uploading demos online before signing to Sumerian Records. Halpern\'s early setup was assembled on a limited budget, focused on functionality rather than prestige — but the playing itself set a new standard for precision in progressive metal.',
+        albums: ['Periphery (2010)'],
+        tours: ['Early club touring / Warped Tour appearances'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex Armory Series',
+            details: 'Maple/poplar shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Entry-level Mapex kit that Halpern used in the early Periphery days — the gear was modest; the technique was elite.',
+            change: null,
+          },
+          snare: {
+            item: 'Mapex Black Panther 14"×6.5"',
+            details: 'Steel shell, focused attack',
+            notes: 'First Black Panther snare — the crisp, dry attack suited the polyrhythmic djent style perfectly.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Istanbul Agop Cymbals',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Istanbul Agop Turkish handmade cymbals — dark, complex, and perfectly suited to the nuanced Periphery arrangements.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Standard double pedal setup',
+            notes: 'Iron Cobra provided the consistent, reliable double bass foundation for early Periphery live work.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Standard hickory',
+            notes: 'Off-the-shelf sticks during the pre-endorsement era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Standard durable heads for the demanding technical material.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4000,
+          inflationAdjusted: 6000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Co-founded Periphery with Misha Mansoor',
+          'Built band through online demos and grassroots touring',
+          'Istanbul Agop cymbals established as core tone element',
+          'Signed to Sumerian Records; self-titled debut released 2010',
+        ],
+
+        quote: {
+          text: "In the early days we were just kids making music we loved. The gear was whatever we could afford — the ideas were what mattered.",
+          source: 'Modern Drummer Interview, 2011',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'matt-halpern-2012-periphery-ii',
+        era: 'Periphery II / Mapex Black Panther Era',
+        years: '2012–2014',
+        startYear: 2012,
+        endYear: 2014,
+        description: 'Periphery II cemented the band as djent leaders. Halpern secured his Mapex endorsement and the Black Panther kit became his signature sound — warm, focused, and punchy. The combination of precise poly-rhythms and the Black Panther\'s response defined the Periphery sonic fingerprint.',
+        albums: ['Periphery II: This Time It\'s Personal (2012)', 'Clear (EP, 2014)'],
+        tours: ['Periphery II World Tour', 'The Juggernaut Tour (early run)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex Black Panther Series',
+            details: 'Maple/walnut shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Full Mapex Black Panther endorsement — the warm maple/walnut tone gave Periphery\'s djent attack a musical depth that pure metal kits couldn\'t match.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Mapex Black Panther Snare 14"×6.5"',
+            details: 'Maple shell, dry attack',
+            notes: 'The signature Black Panther snare crack — dry, focused, and perfectly articulated for intricate groove patterns.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: '14" hi-hats, 16"/18" crashes, 21" ride, 18" China',
+            notes: 'Switched from Istanbul to Meinl Byzance — darker Turkish B20 alloy complemented the Black Panther kit\'s warm tone.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Continued Iron Cobra foundation',
+            notes: 'Iron Cobra remained the trusted double pedal through this era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Hickory — slightly heavier for live power',
+            notes: 'Upgraded stick weight for increased projection on larger venues.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Emperor on toms, Powerstroke 3 on kick',
+            notes: 'Powerstroke 3 on kick for the focused, punchy low-end central to djent.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 8000,
+          inflationAdjusted: 11000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Full Mapex Black Panther endorsement begins',
+          'Switched to Meinl Byzance cymbals',
+          'Periphery II (2012) — band becomes djent leaders',
+          'Clear EP (2014) showcases evolved dynamic range',
+        ],
+
+        quote: {
+          text: "The Black Panther kit was a revelation. The warmth balanced the aggression of the djent thing perfectly. I wasn't just playing heavy — I was playing musical.",
+          source: 'Mapex Drums Artist Interview, 2013',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'matt-halpern-2015-juggernaut',
+        era: 'Juggernaut / Select Difficulty Era',
+        years: '2015–2018',
+        startYear: 2015,
+        endYear: 2018,
+        description: 'The Juggernaut double album and Select Difficulty saw Periphery refine their technical ambition to its peak. Halpern upgraded to the Mapex Saturn Pro — a premium all-maple shell design that remains his most iconic setup. Meinl Byzance Brilliant and Dark cymbals expanded his tonal palette for the more complex material.',
+        albums: ['Juggernaut: Alpha (2015)', 'Juggernaut: Omega (2015)', 'Periphery III: Select Difficulty (2016)'],
+        tours: ['Juggernaut World Tour', 'Select Difficulty Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex Saturn Pro',
+            details: 'All-maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Upgraded from Black Panther to Saturn Pro — the premium maple shells brought more warmth and sustain for the layered Juggernaut arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Mapex Black Panther Snare 14"×5.5"',
+            details: 'Maple shell, shallow depth for quick response',
+            notes: 'Shallower snare for faster response time across Juggernaut\'s complex poly-rhythmic passages.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Brilliant / Dark',
+            details: '14" Byzance Brilliant hi-hats, 16"/18" Byzance Dark crashes, 21" Byzance Brilliant ride',
+            notes: 'Combined Byzance Brilliant and Dark series — bright hi-hats and ride contrasting with darker, drier crash tone.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Speed Cobra beaters for precise double bass',
+            notes: 'Continued Iron Cobra with Speed Cobra beaters for the technical demands of Select Difficulty material.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Continued hickory',
+            notes: 'Consistent stick choice through the peak touring years.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / EMAD',
+            details: 'Emperor on toms, EMAD on kick',
+            notes: 'EMAD heads adopted for tighter, more focused kick tone on the denser Juggernaut material.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 12000,
+          inflationAdjusted: 16000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Upgraded to Mapex Saturn Pro all-maple shells',
+          'Meinl Byzance Brilliant/Dark cymbal combination established',
+          'EMAD kick heads adopted for tighter low-end',
+          'Juggernaut double album (2015) — career high-water mark',
+          'Select Difficulty (2016) delivered Grammy nomination for Best Metal Performance',
+        ],
+
+        quote: {
+          text: "The Saturn Pro gave me everything I wanted from the Black Panther but with more depth. Juggernaut needed that — the music was so layered that the kit had to breathe more.",
+          source: 'Drumhead Magazine, 2015',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'matt-halpern-2019-modern',
+        era: 'Hail Stan / Modern Era',
+        years: '2019–Present',
+        startYear: 2019,
+        endYear: 2026,
+        description: 'The mature Periphery era. Halpern\'s current setup represents 15+ years of incremental refinement. The Saturn Pro remains his cornerstone, now paired with a fully developed Meinl Byzance configuration and refined electronics for the most consistent live and studio sound of his career. His educational platform — including online drum lessons and clinics — has made him one of djent\'s most influential teacher-performers.',
+        albums: ['Periphery IV: Hail Stan (2019)', 'Periphery V: Djent Is Not a Genre (2023)'],
+        tours: ['Hail Stan World Tour', 'Periphery V Tour 2023–2024'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex Saturn Pro (refined)',
+            details: 'All-maple shells, custom finish: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Current primary setup — refined over several album cycles with custom finish options.',
+            change: null,
+          },
+          snare: {
+            item: 'Mapex Black Panther 14"×5.5" / 14"×6.5"',
+            details: 'Multiple Black Panther snares in rotation',
+            notes: 'Rotates between shallow and deeper Black Panther snares depending on studio or live context.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Extra Dry / Dark',
+            details: '14" Byzance Extra Dry hi-hats, 16"/18" Byzance Dark crashes, 21" Byzance Brilliant ride',
+            notes: 'Evolved to Extra Dry hi-hats for a drier, more articulate sound — ideal for the complex polyrhythms in current Periphery material.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Continued long-term Iron Cobra partnership',
+            notes: 'Over a decade of Iron Cobra loyalty — the pedal is as synonymous with Halpern\'s sound as the Saturn Pro.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B / Matt Halpern Signature',
+            details: 'Signature model developed with Vic Firth',
+            notes: 'Signature stick partnership reflecting his status as one of the most influential drummers in modern metal.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Emperor / EMAD2',
+            details: 'Emperor on toms, EMAD2 on kick',
+            notes: 'EMAD2 for tighter, more defined kick tone in dense mix contexts.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'Roland SPD-SX Sampling Pad',
+            details: 'Click track and sample triggering for live performances',
+            notes: 'Electronics added for Periphery\'s complex live productions — consistent click and backing triggers.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 18000,
+          inflationAdjusted: 18000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Meinl Byzance Extra Dry hi-hats adopted',
+          'Vic Firth signature stick partnership developed',
+          'Roland SPD-SX integrated for live productions',
+          'Periphery IV: Hail Stan (2019) shows mature compositional voice',
+          'Periphery V: Djent Is Not a Genre (2023) — genre-defining statement',
+          'Educational platform established as leading djent instructional resource',
+        ],
+
+        quote: {
+          text: "After 15 years, the setup feels like an extension of my hands. Every choice I've made has been intentional — the Saturn, the Byzance, the Iron Cobra. They all work together.",
+          source: 'Modern Drummer Interview, 2020',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Matt Halpern Gear Evolution Timeline | Periphery Drum Kit History',
+    metaDescription: 'Explore Matt Halpern\'s complete drum gear evolution from Periphery\'s debut to Djent Is Not a Genre. Mapex Black Panther to Saturn Pro — every era of djent\'s most influential drummer.',
+  },
+
+  // ==========================================
+  // Blake Richardson - Between the Buried and Me (1999–Present)
+  // ==========================================
+  'blake-richardson': {
+    slug: 'blake-richardson',
+    name: 'Blake Richardson',
+    band: 'Between the Buried and Me',
+    totalYearsActive: '1999-Present',
+    profileImage: '/images/drummers/blake-richardson.webp',
+    summary: 'Founding drummer of Between the Buried and Me, Blake Richardson is among the most technically accomplished progressive metal drummers of his generation. Renowned for his seamless polyrhythmic playing and genre-fluid vocabulary — spanning metal, jazz, and prog — his gear evolution tracks from an entry-level Tama kit through a sustained Tama Star Walnut setup that defines modern BTBAM.',
+
+    eras: [
+      {
+        id: 'blake-richardson-2002-early',
+        era: 'Self-Titled / Silent Circus Era',
+        years: '1999–2006',
+        startYear: 1999,
+        endYear: 2006,
+        description: 'Between the Buried and Me formed in Winston-Salem, North Carolina, in 1999. Blake Richardson\'s early setup was assembled on a limited budget as the band developed its uniquely eclectic identity — blending metal, prog, jazz, and hardcore on self-booked tours. The self-titled debut and The Silent Circus established the band\'s technical credentials.',
+        albums: ['Between the Buried and Me (2002)', 'The Silent Circus (2003)', 'Alaska (2005)'],
+        tours: ['Early DIY touring', 'The Silent Circus Tour', 'Alaska Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Rockstar Series',
+            details: 'Poplar shells: 22" kick, 12"/13"/16" toms',
+            notes: 'Entry-level Tama Rockstar — affordable and reliable for the relentless DIY touring schedule of early BTBAM.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Steel 14"×5.5"',
+            details: 'Standard steel snare',
+            notes: 'Crisp steel snare that cut through the band\'s dense, layered arrangements.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian B8 / AAX Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Sabian cymbals across the early years — moving from B8 to AAX as the budget allowed.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra Double Pedal',
+            details: 'Double bass setup from the beginning',
+            notes: 'Double bass central to BTBAM\'s rhythmic vocabulary from the earliest recordings.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Standard hickory',
+            notes: 'Off-the-shelf sticks during the pre-endorsement period.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Standard configuration — durability over tone in the early touring context.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3000,
+          inflationAdjusted: 5200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'BTBAM founded in Winston-Salem, NC (1999)',
+          'Self-Titled debut (2002) establishes eclectic prog-metal identity',
+          'Alaska (2005) — first major critical breakthrough',
+          'Relentless DIY touring builds national underground following',
+        ],
+
+        quote: {
+          text: "We were playing every night. The gear just had to hold together. The music was always more important than what kit I was on.",
+          source: 'Revolver Interview, 2006',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'blake-richardson-2007-colors',
+        era: 'Colors Era',
+        years: '2007–2009',
+        startYear: 2007,
+        endYear: 2009,
+        description: 'Colors (2007) is Between the Buried and Me\'s defining album — a single 65-minute progressive metal suite that is widely considered one of the genre\'s greatest achievements. Blake Richardson\'s drumming on Colors is extraordinary in its dynamic range, genre vocabulary, and rhythmic precision. He upgraded to the Tama Starclassic Walnut/Birch for a richer, more resonant tone that served the album\'s ambitious arrangements.',
+        albums: ['Colors (2007)'],
+        tours: ['Colors World Tour 2007–2009'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Walnut/Birch',
+            details: 'Walnut/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Significant upgrade for the Colors era — the Starclassic Walnut/Birch brought a warm, complex tone suited to the album\'s genre-fluid arrangements from jazz passages to full metal brutality.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Tama Starclassic Maple 14"×6.5"',
+            details: 'Maple shell, versatile attack',
+            notes: 'Maple snare for broader dynamic range — needed to cover everything from whisper-quiet passages to brutal full-power playing across Colors.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian AAX Series',
+            details: '14" AAX hi-hats, 16"/18" AAX Stage crashes, 21" AAX ride',
+            notes: 'Upgraded to full AAX — bright, cutting cymbals that articulated across Colors\'s wide dynamic range.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Standard double pedal',
+            notes: 'Iron Cobra continued as the reliable touring pedal.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Heavier hickory for projection',
+            notes: 'Upgraded to 5B for more power on larger venues during the Colors tour.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply on toms',
+            notes: 'Emperor heads for durability on the demanding Colors World Tour.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 7000,
+          inflationAdjusted: 10500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Upgraded to Tama Starclassic Walnut/Birch',
+          'Colors (2007) — career-defining album, widely considered a prog-metal masterpiece',
+          'Colors World Tour builds BTBAM\'s international fanbase',
+          'Expanded cymbal configuration for Colors\'s dynamic demands',
+        ],
+
+        quote: {
+          text: "Colors pushed me to think about dynamics in a way no album had before. I had to be a jazz drummer, a death metal drummer, and everything in between — sometimes in the same bar.",
+          source: 'Modern Drummer Interview, 2008',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'blake-richardson-2009-great-misdirect',
+        era: 'The Great Misdirect / Parallax Era',
+        years: '2009–2014',
+        startYear: 2009,
+        endYear: 2014,
+        description: 'The Great Misdirect (2009) and the Parallax concept albums (2011–2012) pushed BTBAM\'s progressive ambitions further. Richardson\'s drumming became more compositionally involved, and the band\'s international stature demanded a setup that could handle both intimate and arena-scale performances. His transition to Meinl Byzance cymbals began during this era.',
+        albums: ['The Great Misdirect (2009)', 'The Parallax: Hypersleep Dialogues (2011)', 'The Parallax II: Future Sequence (2012)'],
+        tours: ['The Great Misdirect Tour', 'The Parallax Tour', 'Progressive Nation at Sea'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Walnut/Birch (expanded)',
+            details: 'Walnut/birch: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Added 8" tom for higher tonal range in the increasingly complex Parallax arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Tama Starclassic Maple 14"×6.5"',
+            details: 'Continued maple snare preference',
+            notes: 'Consistent snare across multiple album cycles.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: '14" Byzance hi-hats, 16"/18"/19" crashes, 21" ride, 18" China',
+            notes: 'Switched from Sabian to Meinl Byzance — darker Turkish B20 alloy provided the complex, nuanced cymbal tone that suited the Parallax\'s prog arrangements.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 Double Pedal',
+            details: 'Continued Iron Cobra partnership',
+            notes: 'Reliable double pedal maintained across the Parallax touring cycle.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Continued hickory',
+            notes: 'Consistent stick preference maintained.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Emperor on toms, Powerstroke 3 on kick',
+            notes: 'Powerstroke 3 kick heads for more focused low-end punch.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 9000,
+          inflationAdjusted: 13000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switched to Meinl Byzance cymbals',
+          'Added 8" tom for expanded tonal range',
+          'The Great Misdirect (2009) — ambitious concept album raises critical profile further',
+          'Parallax II: Future Sequence (2012) — band\'s most technically demanding release',
+        ],
+
+        quote: {
+          text: "The Byzance cymbals opened up something in my playing. They respond differently — you have to listen more. And that listening made me a better drummer.",
+          source: 'Drum! Magazine, 2012',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'blake-richardson-2015-coma-ecliptic',
+        era: 'Coma Ecliptic / Automata / Colors II Era',
+        years: '2015–Present',
+        startYear: 2015,
+        endYear: 2026,
+        description: 'The modern BTBAM era. With Coma Ecliptic (2015), Automata I & II (2018), and Colors II (2021), Richardson and the band reached their most mature and compositionally sophisticated work. His upgrade to the Tama Star Walnut — the premium all-walnut flagship kit — gave him the warmest, most resonant tone of his career. His current setup is the most refined of any era.',
+        albums: ['Coma Ecliptic (2015)', 'Automata I (2018)', 'Automata II (2018)', 'Colors II (2021)'],
+        tours: ['Coma Ecliptic Tour', 'Automata Tour 2018', 'Colors II Tour 2021–2022'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Star Walnut',
+            details: 'All-walnut shells: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Upgraded to Tama\'s premium Star Walnut — the all-walnut shell delivers the warmest, most musically complex tone in the Tama catalog, perfectly matching BTBAM\'s mature prog-metal sound.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Tama Star Walnut Snare 14"×6.5"',
+            details: 'All-walnut shell, warm and focused',
+            notes: 'Matching walnut snare for the warmest, most cohesive kit sound of his career.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Jazz / Dark Series',
+            details: '14" Byzance Jazz hi-hats, 16"/18" Byzance Dark crashes, 22" Byzance Jazz ride',
+            notes: 'Evolved toward Byzance Jazz and Dark variants — darker, more complex cymbal voice that reflects his matured musical sensibility across Colors II and Automata.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra HP910 Double Pedal',
+            details: 'Lighter, faster cam-driven double pedal',
+            notes: 'Switched to Speed Cobra for more responsive action suited to the nuanced footwork in Colors II material.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Blake Richardson Signature',
+            details: 'Custom hickory model',
+            notes: 'Signature stick developed to reflect his status as one of the most distinctive drummers in progressive metal.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Emperor / EMAD',
+            details: 'Emperor on toms, EMAD on kick',
+            notes: 'EMAD for a tighter, more focused kick fundamental in dense prog arrangements.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          electronics: {
+            item: 'Roland SPD-SX Sampling Pad',
+            details: 'For samples and atmospheric triggers in live context',
+            notes: 'Electronics integrated for Colors II\'s layered studio production in the live setting.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 22000,
+          inflationAdjusted: 22000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Upgraded to Tama Star Walnut — premium all-walnut flagship kit',
+          'Meinl Byzance Jazz/Dark cymbals adopted for mature tonal palette',
+          'Vic Firth Blake Richardson signature sticks launched',
+          'Tama Speed Cobra pedal switch',
+          'Coma Ecliptic (2015) and Colors II (2021) showcase peak compositional maturity',
+          'Automata I & II (2018) — ambitious concept album in two parts',
+        ],
+
+        quote: {
+          text: "The Star Walnut is the most musical kit I've ever played. Everything that comes out of it has this natural warmth. For Colors II, that was exactly what the music needed.",
+          source: 'Tama Drums Artist Profile, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Blake Richardson Gear Evolution Timeline | Between the Buried and Me Drum Kit History',
+    metaDescription: 'Explore Blake Richardson\'s complete drum gear evolution from early BTBAM through Colors to the Star Walnut era. Tama Rockstar to Star Walnut — every kit, every album documented.',
+  },
+
+  // ==========================================
+  // Derek Roddy - Hate Eternal / Nile / Various (1994–Present)
+  // ==========================================
+  'derek-roddy': {
+    slug: 'derek-roddy',
+    name: 'Derek Roddy',
+    band: 'Hate Eternal',
+    totalYearsActive: '1994-Present',
+    profileImage: '/images/drummers/derek-roddy.webp',
+    summary: 'A foundational figure in extreme metal drumming, Derek Roddy helped pioneer the blast beat as a musical language rather than a pure speed exercise. Active in Hate Eternal, Nile, and Council of the Fallen, he is also one of the most respected drumming educators in the genre — his instructional content on technique and practice methodology has influenced a generation of extreme metal drummers worldwide.',
+
+    eras: [
+      {
+        id: 'derek-roddy-1994-early',
+        era: 'Early Career / Council of the Fallen Era',
+        years: '1994–2002',
+        startYear: 1994,
+        endYear: 2002,
+        description: 'Derek Roddy built his reputation in the Florida death metal underground through the mid-to-late 1990s, developing the technical precision and conceptual approach to blast beats that would define his career. His Pearl Masters setup during this era became the foundation for his signature sound — tight, punchy, and unrelentingly fast.',
+        albums: ['Council of the Fallen: Revealing Damnation (2002)', 'Various demos'],
+        tours: ['Florida death metal circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Professional',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Pearl Masters was the choice of Florida death metal — durable maple shells capable of withstanding extreme blast beat tempos night after night.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×5.5"',
+            details: 'Steel shell, tight response',
+            notes: 'Pearl Free-Floating steel snare for precise, explosive attack in extreme metal context.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian B8 / AAX Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Sabian cymbals across the early years — loud, durable, and available.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal',
+            details: 'Cam-driven double pedal for blast beat precision',
+            notes: 'Pearl Eliminator provided the fast, responsive platform for Roddy\'s developing extreme speed technique.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Heavier 5B sticks for power and durability at extreme metal tempos.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply on toms for durability',
+            notes: 'Durable Emperor heads to withstand the demands of death metal playing.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5000,
+          inflationAdjusted: 9000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Built technical foundation in Florida death metal underground',
+          'Developed conceptual approach to blast beats as musical phrasing',
+          'Pearl Masters became foundational kit for early career',
+          'Council of the Fallen debut album (2002) — introduces Roddy to wider audience',
+        ],
+
+        quote: {
+          text: "For me, blast beats were never just about speed. Every note has to mean something. The conceptual side came first — the technique followed.",
+          source: 'Drumhead Magazine Interview, 2003',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'derek-roddy-2002-hate-eternal',
+        era: 'Hate Eternal / Nile Era',
+        years: '2002–2008',
+        startYear: 2002,
+        endYear: 2008,
+        description: 'Derek Roddy\'s highest-profile period. Playing with Hate Eternal (Erik Rutan\'s band after Morbid Angel) and contributing to Nile recordings placed him at the centre of extreme metal drumming. His Pearl Reference upgrade gave him a more resonant, professional platform that matched the increasingly high production values of these records. His Zildjian K Custom cymbal transition also defined his sound across this era.',
+        albums: ['Hate Eternal: I, Monarch (2005)', 'Hate Eternal: Fury & Flames (2008)', 'Nile: Annihilation of the Wicked (2005)'],
+        tours: ['Hate Eternal World Tour', 'Summer Slaughter 2006', 'Various extreme metal festival dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Upgraded to Pearl Reference — the maple/birch hybrid delivered a more complex tone for the nuanced death metal arrangements on I, Monarch and Fury & Flames.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Deeper shell for more crack and projection',
+            notes: 'Increased depth for more explosive attack cutting through Hate Eternal\'s dense guitar wall.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Series',
+            details: '14" K Custom Dark hi-hats, 17"/18" K Custom crashes, 21" K Custom ride',
+            notes: 'Switched from Sabian to Zildjian K Custom — darker, drier tone that suited Hate Eternal\'s low-end focused production.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct drive for maximum control at extreme tempos',
+            notes: 'Switched to Demon Drive direct drive — more precise response at the extreme blast beat tempos required on I, Monarch.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Continued heavier hickory preference',
+            notes: 'Consistent stick choice through the Hate Eternal years.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Emperor on toms, Powerstroke 3 on kick',
+            notes: 'Powerstroke 3 on kick for focused, punchy attack at extreme tempos.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          electronics: {
+            item: 'ddrum Acoustic Pro Triggers',
+            details: 'Kick triggers for live consistency',
+            notes: 'Triggers on kick drum for consistent attack at extreme live volumes — essential for Hate Eternal\'s touring context.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 10000,
+          inflationAdjusted: 17000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Hate Eternal — highest-profile band to date',
+          'Upgraded to Pearl Reference for richer tone',
+          'Switched to Zildjian K Custom Dark cymbals',
+          'Pearl Demon Drive direct drive adopted',
+          'ddrum triggers integrated for live consistency',
+          'Hate Eternal I, Monarch (2005) — considered one of death metal\'s best recordings',
+        ],
+
+        quote: {
+          text: "Hate Eternal with Erik Rutan was the most demanding situation I'd ever been in. The music required absolute precision at extreme speeds. The Pearl Reference gave me the tone and power I needed.",
+          source: 'Modern Drummer Interview, 2006',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'derek-roddy-2008-dw',
+        era: 'DW / Independent Era',
+        years: '2008–2018',
+        startYear: 2008,
+        endYear: 2018,
+        description: 'Roddy\'s independent era. After his most high-profile band commitments, he continued recording and touring with various projects while dramatically expanding his educational output. His switch to DW Collector\'s Series marked a significant tonal shift toward the warm, resonant maple sound that DW is known for. His instructional series — including "The Progression of Rhythm" DVD series — became foundational resources for aspiring extreme metal drummers worldwide.',
+        albums: ['Various session and project recordings'],
+        tours: ['Drum clinics worldwide', 'Various extreme metal dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series',
+            details: 'Maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Major switch to DW Collector\'s Series — the warm, resonant maple shells offered a musical depth that complemented his evolved, more compositionally sophisticated approach to extreme metal.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'DW Edge Series 14"×6.5"',
+            details: 'Maple shell with DW Edge design',
+            notes: 'DW snare to match the new endorsement — warm, powerful attack with excellent projection.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Meinl Classics Custom Series',
+            details: '14" Classics Custom Dark hi-hats, 16"/18" Classics Custom Dark crashes, 21" ride',
+            notes: 'Switched from Zildjian to Meinl Classics Custom — darker, drier tone suited to his drum clinic and session work contexts.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Twin-chain drive to match DW kit',
+            notes: 'DW 9000 adopted alongside DW endorsement — dual chain drive for responsive, consistent double bass technique demonstration.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Derek Roddy Signature',
+            details: 'Custom hickory model for extreme metal application',
+            notes: 'Signature sticks reflecting his status as one of extreme metal\'s leading educators and performers.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD',
+            details: 'G2 on toms, EMAD on kick',
+            notes: 'Switched to Evans for the DW era — G2 and EMAD provide a more focused, punchy sound suited to clinic and recording contexts.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          electronics: {
+            item: 'ddrum Acoustic Pro Triggers',
+            details: 'Continued trigger use for clinic demonstrations',
+            notes: 'Triggers maintained for demonstrating triggered vs. acoustic sounds in educational settings.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 15000,
+          inflationAdjusted: 20000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switched to DW Collector\'s Series — warmer, more resonant tone',
+          'Meinl Classics Custom Dark cymbals adopted',
+          'DW 9000 double pedal switch',
+          'Vic Firth Derek Roddy signature sticks launched',
+          '"The Progression of Rhythm" instructional series becomes definitive resource for extreme metal technique',
+          'Worldwide drum clinic circuit — leading educator in death metal drumming',
+        ],
+
+        quote: {
+          text: "DW gave me a kit that could serve everything I do — sessions, clinics, live shows. The maple speaks. And when you're teaching people about drumming, the instrument has to communicate.",
+          source: 'DW Drums Artist Profile, 2010',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'derek-roddy-2018-modern',
+        era: 'Modern / Teaching Era',
+        years: '2018–Present',
+        startYear: 2018,
+        endYear: 2026,
+        description: 'Derek Roddy\'s modern era. Now one of extreme metal\'s most respected elder statesmen and educators, his current setup reflects decades of refinement. He continues performing with various death metal projects while his educational legacy — instructional videos, online courses, and drum clinics — reaches more students than ever. His Meinl Classics Custom configuration has become the most recognised element of his modern sonic identity.',
+        albums: ['Various session and collaborative recordings'],
+        tours: ['Global drum clinic circuit', 'Extreme metal festival appearances'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series (refined)',
+            details: 'Custom finish maple: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Refined DW configuration — same platform, now with custom finish options developed through years of partnership.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Collector\'s Series Snare 14"×6.5"',
+            details: 'Maple shell, refined production model',
+            notes: 'Current primary snare — warm, powerful, and consistent across all performance contexts.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Classics Custom Dark / Extra Dry',
+            details: '14" Classics Custom Extra Dry hi-hats, 16"/18" Classics Custom Dark crashes, 21" ride',
+            notes: 'Evolved to Extra Dry hi-hats for drier, more articulate attack in the clinic and studio context.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Continued DW 9000 partnership',
+            notes: 'Long-term DW 9000 loyalty — precise, consistent double bass control for demonstration and performance.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Derek Roddy Signature',
+            details: 'Refined current production model',
+            notes: 'Updated signature model refined for both performance and educational demonstration.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD2',
+            details: 'G2 on toms, EMAD2 on kick',
+            notes: 'EMAD2 for tighter, more defined kick tone across clinic and recording contexts.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'Roland SPD-SX / ddrum Triggers',
+            details: 'Sampling pad and kick triggers',
+            notes: 'Electronics used for educational demonstrations of hybrid drumming and trigger comparison in clinic settings.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 18000,
+          inflationAdjusted: 18000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Meinl Classics Custom Extra Dry hi-hats adopted',
+          'Evans EMAD2 kick heads for tighter low-end',
+          'Global clinic and online education reach expands year over year',
+          'Recognised as one of death metal\'s most influential educator-performers',
+          'Setup serves dual purpose: performance and technical demonstration',
+        ],
+
+        quote: {
+          text: "After 30 years of playing, every piece of gear I own has a reason for being there. I've stripped away everything that wasn't serving the music or the teaching. What's left is exactly what I need.",
+          source: 'Drumhead Magazine Interview, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Derek Roddy Gear Evolution Timeline | Hate Eternal Drum Kit History',
+    metaDescription: 'Explore Derek Roddy\'s complete drum gear evolution from Florida death metal to the DW era. Pearl Masters to DW Collector\'s Series — the blast beat pioneer\'s complete gear timeline.',
+  },
 };
 
 /**

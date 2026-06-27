@@ -20,15 +20,21 @@ name: Roadie Night Fleet
 # agentic workers can hit the rolling 5h usage limit — if PR output plateaus
 # well under target, the subscription tier (not this workflow) is the ceiling.
 #
+# Window: cover Lisbon 20:00 → 08:00 (12h) at 6-wide. A single Actions job is
+# hard-killed at 6h, so one launch can't span 12h — we stagger THREE 4h shifts
+# (WALL_CAP_MIN=240) back-to-back so coverage is continuous and never overlapping
+# (overlap would double the concurrent workers and blow the subscription limit).
+#
 # ⚠️ TZ: GitHub Actions cron is UTC only. Calibrated for Lisbon SUMMER (UTC+1):
-# launch 23:00 UTC = 00:00 Lisbon, and the 340-min cap covers ~00:00–05:40
-# Lisbon at 6-wide; the all-day roadie.yml carries the 05:40–07:00 tail. In
-# winter (Lisbon UTC+0) shift the cron to '0 0 * * *'.
+#   20:00 Lisbon = 19:00 UTC, 00:00 = 23:00 UTC, 04:00 = 03:00 UTC.
+#   Shifts: 19→23 (20–00), 23→03 (00–04), 03→07 UTC (04–08 Lisbon).
+# In winter (Lisbon UTC+0) shift the cron to '0 20,0,4 * * *'.
 
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 23 * * *'   # 00:00 Lisbon (summer) — start of the night window
+    # Three staggered 4h shifts covering Lisbon 20:00–08:00 (summer UTC+1).
+    - cron: '0 19,23,3 * * *'
 
 permissions:
   contents: write
@@ -81,7 +87,9 @@ jobs:
           REPO: ${{ github.repository }}
           GITHUB_RUN_ID: ${{ github.run_id }}
           ROADIE_WORKER_OFFSET: ${{ matrix.worker }}
-          WALL_CAP_MIN: '340'
+          # 4h per shift so three back-to-back launches tile 20:00–08:00 Lisbon
+          # without overlapping (overlap would stack workers past 6 and rate-limit).
+          WALL_CAP_MIN: '240'
         run: |
           chmod +x .roadie/drain.sh
           .roadie/drain.sh

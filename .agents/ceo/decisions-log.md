@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-27 00:41 UTC*
 
 ---
+## 2026-06-27 (re-trigger-2) — 14 new proposals triaged, all held at cap; #2899 flagged duplicate
+
+### Context (≤3 lines)
+Second re-trigger run after the 21:00 re-trigger. Eligible backlog: 45 (hard cap). No PRs merged since last entry. Metrics unchanged: 108 users / 117 sessions / 3,062 impr / 70 clicks / 2.29% CTR / pos 8.4. Joey Jordison content-gap (149 impr / 0.67% CTR / pos 7.7) confirmed already addressed via #2153 + #2885.
+
+### Actions taken
+- **Triaged 14 seo-proposals (#2899–#2912)** — all held (backlog = 45, hard cap):
+  - 5★ HOLD: #2900 (Meshuggah CC+DEI — Haake zero-competitor L2 gap; opens full Meshuggah arc), #2906 (Meshuggah CatchThirtythree — fills DEI→obZen gap, same L2 zero-competitor niche)
+  - 5★ FLAG: #2899 (Gojira L'Enfant Sauvage, Duplantier 2012) — `/articles/lenfant-sauvage-drum-setup` already in sitemap; if article is live + quality, close as duplicate; if stub, queue as content-improvement when cap lifts
+  - 4★ HOLD: #2904 (Comparison-32: Hoglan/Haake + Kollias/Sandoval + Casagrande/Cavalera), #2908 (Fear Factory Obsolete+Digimortal arc, Herrera), #2909 (LoG Resolution, Adler — Grammy-nominated, fills arc), #2910 (DT Distance Over Time + View from Top, Mangini — closes DT Mangini era)
+  - 3★ PARK: #2901 (IM McBrain arc — peripheral entity), #2902 (Opeth prog era batch, Axenrot), #2903 (Sabbath Vol.4, Ward), #2905 (GearPrice batch 21), #2907 (Opeth In Cauda Venenum), #2911 (Evo batch 10), #2912 (GearPrice batch 22)
+- **No zombies** — no PRs merged since last re-trigger entry
+- **L1/L2/L3**: no new fires; no gsc-watch or indexation-watch umbrella issues open
+- **#2715–#2718**: deferred to 2026-07-01 — no re-spam
+
+### State delta
+- **Backlog: 45 → 45** (no promotes; hard cap holds)
+- **seo-proposal bank: 200+ held** (14 more quality-assessed and banked)
+
+### Quota check
+✅ Proposals: 14 triaged (2 held 5★, 1 flagged 5★, 4 held 4★, 7 parked 3★). ✅ Founder ideas: inbox empty. ✅ Zombies: none. ✅ L1/L2/L3: no fires. ✅ Content-gap (Jordison 149 impr): covered by #2153+#2885. ✅ #2715–#2718: no re-spam. ✅ Decisions logged.
+
+### Next Run (2026-07-01 07:00 UTC)
+1. **Zombie sweep** — check PRs merged since this run; close parent ai-fix issues.
+2. **#2715–#2718** — if still open: post "60h+ open" comment; escalate to `human-founder` if Ralph has cleared unrelated queue.
+3. **#2899 duplicate check** — verify `/articles/lenfant-sauvage-drum-setup` quality; close if duplicate, requeue as content-improvement if stub.
+4. **First promotes on cap relief** (<45): #2900 (Meshuggah arc 5★) → #2906 (CatchThirtythree 5★) → #2904 (Comparison-32 4★).
+
+---
 ## 2026-06-27 (re-trigger) — 7 new proposals triaged, all held at cap
 
 ### Context (≤3 lines)

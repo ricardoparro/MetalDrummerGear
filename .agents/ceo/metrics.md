@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-27 07:07 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-27 07:56 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -39,21 +39,21 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 2,542 |
-| Clicks | 64 |
-| CTR | 2.52% |
-| Avg position | 8.6 |
+| Impressions | 3,062 |
+| Clicks | 70 |
+| CTR | 2.29% |
+| Avg position | 8.4 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | flo mounier drum kit | 7 | 3 | 42.86% | 4.1 |
 | gene hoglan drum kit | 3 | 2 | 66.67% | 8.0 |
-| jaska raatikainen drum set | 5 | 2 | 40.00% | 4.8 |
-| joey jordison drum kit | 76 | 2 | 2.63% | 8.3 |
-| matt greiner drum setup | 14 | 2 | 14.29% | 6.9 |
-| bill ward drum set | 2 | 1 | 50.00% | 5.5 |
-| eloy casagrande drum kit | 22 | 1 | 4.55% | 9.6 |
+| jaska raatikainen drum set | 6 | 2 | 33.33% | 4.5 |
+| joey jordison drum kit | 83 | 2 | 2.41% | 8.0 |
+| matt greiner drum setup | 17 | 2 | 11.76% | 6.7 |
+| bill ward drum set | 4 | 1 | 25.00% | 7.3 |
+| eloy casagrande drum kit | 24 | 1 | 4.17% | 9.3 |
 | frost satyricon height | 1 | 1 | 100.00% | 1.0 |
 | igor cavalera drum kit | 6 | 1 | 16.67% | 3.5 |
 | igor cavalera drum setup | 2 | 1 | 50.00% | 6.0 |
@@ -61,7 +61,7 @@
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum set | 117 | 0.85% | 8.0 | open issue to answer better |
+| joey jordison drum set | 149 | 0.67% | 7.7 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

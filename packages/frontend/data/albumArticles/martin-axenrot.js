@@ -569,7 +569,7 @@ export const articles = {
         }
       ]
     }
-  }
+  },
   "heritage-drum-setup": {
     "slug": "heritage-drum-setup",
     "albumTitle": "Heritage",

@@ -4605,6 +4605,10 @@ const DRUMMER_PAGE_META_OVERRIDES = {
     title: 'Shannon Larkin Drum Set & Kit — Godsmack Gear | MetalForge',
     description: "See exactly what drums, cymbals, and hardware Shannon Larkin (Godsmack) plays — ddrum Dios Series drum set, Sabian AAX/HHX cymbals, DW 9000 double pedal.",
   },
+  'brann-dailor': {
+    title: 'Brann Dailor Drum Kit & Drum Set — Mastodon Drummer | MetalForge',
+    description: "See exactly what drums, cymbals, and hardware Brann Dailor (Mastodon) uses — complete kit specs and signature gear.",
+  },
 };
 
 function updateDocumentMeta(drummer, drummers = [], filters = {}) {

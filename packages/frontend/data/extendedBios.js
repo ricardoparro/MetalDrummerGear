@@ -5564,8 +5564,8 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
       { slug: 'today-is-the-day', period: '1996-1999', role: 'Drummer' },
       { slug: 'lethargy', period: '1993-1998', role: 'Drummer' }
     ],
-    metaTitle: 'Brann Dailor Drum Kit & Gear Setup — Mastodon Drummer | MetalForge',
-    metaDescription: 'Complete biography of Brann Dailor, Mastodon\'s drummer and vocalist. Explore his revolutionary progressive metal drumming style, career from Lethargy to Grammy nominations, and signature gear.',
+    metaTitle: 'Brann Dailor Drum Kit & Drum Set — Mastodon Drummer | MetalForge',
+    metaDescription: 'See exactly what drums, cymbals, and hardware Brann Dailor (Mastodon) uses — complete kit specs and signature gear.',
     ogImage: '/images/drummers/brann-dailor.webp',
     sections: {
       overview: {
@@ -6728,8 +6728,8 @@ Beyond his drumming, Benante is Anthrax's main composer and a talented graphic a
       { slug: 'today-is-the-day', period: '1996-1999', role: 'Drummer' },
       { slug: 'lethargy', period: '1990-1999', role: 'Drummer' }
     ],
-    metaTitle: 'Brann Dailor Drum Kit & Gear Setup — Mastodon Drummer | MetalForge',
-    metaDescription: 'Complete biography of Brann Dailor, Mastodon\'s Grammy-winning drummer. Explore his revolutionary drumming style, prog-metal innovation, vocal contributions, and signature gear.',
+    metaTitle: 'Brann Dailor Drum Kit & Drum Set — Mastodon Drummer | MetalForge',
+    metaDescription: 'See exactly what drums, cymbals, and hardware Brann Dailor (Mastodon) uses — complete kit specs and signature gear.',
     ogImage: '/images/drummers/brann-dailor.webp',
     sections: {
       overview: {

@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-27 00:41 UTC*
 
 ---
+## 2026-06-27 21:00 — 7 new proposals triaged, #2885 Jordison Vol.3 promoted (44→45 cap)
+
+### Context (≤3 lines)
+Unscheduled run (19:00 entry set next check to 2026-07-01, but 7 untriaged seo-proposals surfaced post-19:00 sweep). Eligible backlog confirmed at 44 (25-44 band: promote sparingly, only 5★). No new PRs merged since 19:00. No L1/L2/L3 fires.
+
+### Actions taken
+- **Promoted 1 proposal to ai-fix**: #2885 (Slipknot 'Vol. 3: The Subliminal Verses', Jordison 2004) — 5★: directly extends the Iowa→Vol.3→AHIG arc; Joey Jordison = our #1 GSC entity (134 impr on "joey jordison drum set"); arc completion creates internal linking path from indexed Iowa article → Vol.3 → #2153 (AHIG, already ai-fix). No duplicate confirmed. Backlog: 44→45.
+- **Triaged 6 remaining proposals** — all held/parked:
+  - 4★ HOLD (promote when backlog <25): #2887 (Arch Enemy Angela Gossow arc), #2888 (GearEvo-8: Halpern+Richardson+Roddy), #2890 (Comparison-30: Cunningham/Otto/Benante/Ward/Travis/McBrain)
+  - 3★ PARK: #2886 (JP Jugulator+Demolition, Ripper Owens era — niche LLM hook but thin TAM), #2889 (Top-10-20: grindcore/viking/gothic), #2891 (SoundLike-30: Frost/Ågren/Yeung — noise-band trio)
+- **#2715–#2718**: no re-escalation — 19:00 entry rule applies (next escalation check: 2026-07-01 07:00). No re-spam.
+
+### State delta
+- **Promoted (1):** #2885 (Jordison Vol.3 5★)
+- **Backlog: 44→45**
+- **seo-proposal bank: 200+ held** (6 more added today)
+
+### Quota check
+✅ Proposals: 7 triaged (1 promoted 5★, 3 held 4★, 3 parked 3★). ✅ Founder ideas: inbox empty. ✅ Zombies: none since 19:00 sweep. ✅ L1/L2/L3: no fires. ✅ #2715–#2718: no re-spam. ✅ Decisions logged.
+
+### Next Run (2026-07-01 07:00 UTC)
+1. **L1 snapshot action** — check brann-dailor (pos 6.3/23 impr) and shannon-larkin (pos 4.8/13 impr) for CTR lift; file title+meta ai-fix if still 0 clicks.
+2. **Zombie sweep** — close any PRs merged since 21:00 today.
+3. **#2715–#2718** — if still open at 07:00, post comment "60h+ open, no Watcher pick-up" and escalate to `human-founder` if Ralph has merged unrelated issues since.
+4. **4★ queue** (promote when <25): #2887 (Arch Enemy arc) → #2888 (GearEvo-8) → #2890 (Comparison-30).
+
+---
 ## 2026-06-27 19:00 — 2 zombies closed, 3 proposals promoted (41→44) — Hellhammer/Mayhem, Comparison-29, DT-Octavarium
 
 ### Context (≤3 lines)

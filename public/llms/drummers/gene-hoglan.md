@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/gene-hoglan"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-06-27"
 ---
 
 # Gene Hoglan — Drum Kit & Gear Setup
@@ -29,7 +29,11 @@ Gene Hoglan's drum kit and gear setup. Gene Hoglan is a professional metal drumm
 
 ## Kit Overview
 
-Gene "The Atomic Clock" Hoglan plays a Pearl Reference Pure kit with a Pearl Reference Brass snare (14x6.5"), backed by Sabian AAX cymbals — 15" Hi-Hats, 18" and 20" Crashes, a 22" Ride, and a 20" China. Pearl Demon Drive double pedals fuel his metronomic precision across death and thrash metal projects including Death, Testament, and Dethklok.
+Gene Hoglan plays a Pearl Reference Pure drum kit — a premium maple/mahogany hybrid shell chosen for its tonal clarity and projection at the extreme tempos Hoglan maintains across death metal, thrash metal, and progressive metal. The cornerstone of the Gene Hoglan drum set is a Pearl Reference Brass snare (14×6.5"): a full-brass shell delivering the precise, cutting crack his metronomic playing demands, earning him the nickname "The Atomic Clock."
+
+Sabian AAX cymbals complete the Gene Hoglan drum kit: 15" AAX Hi-Hats for crisp, articulate hi-hat patterns; 18" and 20" AAX Crashes for quick-response accent work across Death's Symbolic, Testament's Formation of Damnation, and Dethklok sessions; a 22" AAX Ride; and a 20" AAX China. Pearl Demon Drive double pedals — engineered for single-chain precision — power the blazing double-bass passages that are a Hoglan trademark.
+
+The Gene Hoglan drum set has remained consistent in its Pearl/Sabian configuration across more than 20 bands over four decades. He uses Promark 5B drumsticks and Evans drumheads tuned for focused tone — a setup equally effective for Dark Angel's thrash, Death's technical death metal, and Dethklok's satirical brutality.
 
 ## Biography
 
@@ -64,6 +68,22 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
 - True American Hate - Drum Cam (Tuska 2013) (2013)
 
 ## Frequently Asked Questions
+
+**Q: What drum kit does Gene Hoglan use?**
+
+A: Gene Hoglan uses a Pearl Reference Pure drum kit with a Pearl Reference Brass snare (14x6.5"), Sabian AAX Series cymbals (15" Hi-Hats, 18" and 20" Crashes, 22" Ride, 20" China), Pearl Demon Drive double pedals, and Evans drumheads. He uses Promark 5B drumsticks, a standard model rather than a signature stick.
+
+**Q: What drum set does Gene Hoglan use?**
+
+A: Gene Hoglan's drum set is a Pearl Reference Pure configured with multiple toms suited to both death metal blasting and technical death metal precision. His consistent Pearl/Sabian drum set across Death, Testament, Dark Angel, and Dethklok reflects his preference for reliable, high-performance gear that performs equally well at extreme studio and live tempos.
+
+**Q: What cymbals does Gene Hoglan use?**
+
+A: Gene Hoglan uses Sabian AAX Series cymbals: 15" AAX Hi-Hats, 18" and 20" AAX Crashes, a 22" AAX Ride, and a 20" AAX China. The AAX series delivers a bright, cutting tone with quick decay — allowing Hoglan's complex accent patterns to remain clearly defined at extreme metal tempos.
+
+**Q: What bass drum pedal does Gene Hoglan use?**
+
+A: Gene Hoglan uses Pearl Demon Drive double bass drum pedals. The Demon Drive features a direct-drive mechanism for faster response and consistent feel — critical for Hoglan's metronomic precision at extreme tempos on Death's Individual Thought Patterns and Symbolic albums.
 
 **Q: Why is Gene Hoglan called "The Atomic Clock"?**
 

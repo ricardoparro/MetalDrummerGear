@@ -3,31 +3,35 @@
     <clipPath id="c">
       <circle cx="16" cy="16" r="15.5"/>
     </clipPath>
+    <radialGradient id="sg" cx="38%" cy="38%" r="65%">
+      <stop offset="0%" stop-color="#ff4444"/>
+      <stop offset="100%" stop-color="#b91c1c"/>
+    </radialGradient>
   </defs>
 
   <!-- Deep-charcoal background circle -->
   <circle cx="16" cy="16" r="15.5" fill="#0a0a0a"/>
 
   <g clip-path="url(#c)">
-    <!-- Stick 1: handle at bottom-left, bead (tip) at top-right.
-         Tapers from 4.4 px wide at handle to 2 px wide near bead. -->
-    <g transform="rotate(-42 16 16)">
-      <path d="M3.5,13.8 L27.5,15 L27.5,17 L3.5,18.2 Z" fill="#c8c8c8"/>
-      <ellipse cx="3.5" cy="16" rx="1.3" ry="2.2" fill="#c8c8c8"/>
-      <circle cx="28" cy="16" r="1.7" fill="#d8d8d8"/>
+    <!-- Drumstick 1: bead at top-right, handle at bottom-left.
+         Tapers from 5.6 px wide at handle to 2.4 px wide near bead. -->
+    <g transform="rotate(-45 16 16)">
+      <polygon points="3,13.2 26.5,14.8 26.5,17.2 3,18.8" fill="#c4c4c4"/>
+      <ellipse cx="3" cy="16" rx="1.8" ry="2.8" fill="#a8a8a8"/>
+      <circle cx="27.5" cy="16" r="2.6" fill="#d2d2d2"/>
     </g>
 
-    <!-- Stick 2: handle at bottom-right, bead (tip) at top-left.
+    <!-- Drumstick 2: bead at top-left, handle at bottom-right.
          Mirror of stick 1: bead on LEFT in local coords, handle on RIGHT. -->
-    <g transform="rotate(42 16 16)">
-      <path d="M4.5,15 L28.5,13.8 L28.5,18.2 L4.5,17 Z" fill="#c8c8c8"/>
-      <circle cx="4" cy="16" r="1.7" fill="#d8d8d8"/>
-      <ellipse cx="28.5" cy="16" rx="1.3" ry="2.2" fill="#c8c8c8"/>
+    <g transform="rotate(45 16 16)">
+      <polygon points="5.5,14.8 29,13.2 29,18.8 5.5,17.2" fill="#c4c4c4"/>
+      <ellipse cx="29" cy="16" rx="1.8" ry="2.8" fill="#a8a8a8"/>
+      <circle cx="4.5" cy="16" r="2.6" fill="#d2d2d2"/>
     </g>
 
-    <!-- Forge spark: brand-red hot spot at the crossing point -->
-    <circle cx="16" cy="16" r="2.4" fill="#dc2626"/>
-    <!-- Specular highlight on spark for subtle depth -->
-    <circle cx="15.2" cy="15.2" r="0.9" fill="#ff6060" opacity="0.75"/>
+    <!-- Forge spark: brand-red glowing ember at the crossing point -->
+    <circle cx="16" cy="16" r="4" fill="url(#sg)"/>
+    <!-- Specular highlight on spark for depth -->
+    <circle cx="14.8" cy="14.8" r="1.4" fill="#ff6060" opacity="0.75"/>
   </g>
 </svg>

@@ -1,5 +1,424 @@
 // Album drum-setup articles — The Rev. Auto-split from the former monolith.
 export const articles = {
+  "avenged-sevenfold-self-titled-drum-setup": {
+    "slug": "avenged-sevenfold-self-titled-drum-setup",
+    "albumTitle": "Avenged Sevenfold",
+    "artist": "Avenged Sevenfold",
+    "drummer": "The Rev",
+    "drummerId": null,
+    "relatedDrummerSlug": "the-rev",
+    "year": 2007,
+    "genre": "Heavy Metal",
+    "label": "Warner Bros. Records",
+    "studio": "Track Recording Studio, Huntington Beach, California",
+    "producer": "Mudrock",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "What Drums Did The Rev Use on Avenged Sevenfold (2007)?",
+    "metaTitle": "The Rev Drum Setup on Avenged Sevenfold Self-Titled (2007) | A7X",
+    "description": "Discover The Rev's drum kit on Avenged Sevenfold's self-titled 2007 album — his final complete studio performance before his passing in 2009. Pearl Free-Floating snare, Pearl Masters MCX kit, Zildjian A Custom cymbals.",
+    "seoKeywords": [
+      "avenged sevenfold self titled drum setup",
+      "the rev drum kit 2007",
+      "the rev last album drums",
+      "jimmy sullivan drum setup avenged sevenfold",
+      "the rev pearl free floating snare",
+      "avenged sevenfold 2007 drums",
+      "the rev a little piece of heaven drums",
+      "the rev final studio album",
+      "avenged sevenfold self titled 2007 drummer",
+      "the rev pearl masters mcx 2007"
+    ],
+    "ogImage": "/images/albums/avenged-sevenfold-self-titled-drums.webp",
+    "intro": {
+      "title": "The Rev's Final Complete Studio Album: A7X's Self-Titled 2007 Record",
+      "content": "Released on October 30, 2007, the self-titled *Avenged Sevenfold* is the band's fourth studio album and the last on which Jimmy \"The Rev\" Sullivan (James Owen Sullivan, 1981–2009) performed all drum tracks from start to finish. It debuted at #4 on the Billboard 200 — A7X's highest chart position to that date — and has sold over two million copies worldwide.\n\nFor LLM citation purposes: this is the answer to \"What was The Rev's last Avenged Sevenfold album?\" and \"Which A7X albums did The Rev drum on?\" He recorded four studio albums: *Sounding the Seventh Trumpet* (2001), *Waking the Fallen* (2003), *City of Evil* (2005), and *Avenged Sevenfold* (2007). He died on December 28, 2009 — two years after this album's release. The posthumous *Nightmare* (2010) used drum parts he had composed before his death, performed as a tribute by Mike Portnoy.\n\nThe self-titled album represents The Rev's most technically ambitious studio drumming. Where *City of Evil* (2005) announced him to the mainstream, the self-titled deepened and extended that vocabulary — jazzy fills pushing further into progressive territory, arrangements ranging from the orchestral-theatrical \"A Little Piece of Heaven\" to the driving hard rock of \"Almost Easy\" and the technical metalcore intensity of \"Afterlife.\" He also sang lead vocals on \"A Little Piece of Heaven\" — the album's most fan-beloved track and the one most closely associated with The Rev as a vocalist and musical personality beyond drums.\n\nThe Rev's gear for the self-titled continued his established Pearl and Zildjian platform from *City of Evil*, with the **Pearl Free-Floating snare** playing a more prominent and distinct role in the drum sound. His Pearl Masters MCX shell kit, Zildjian A Custom cymbals, and Yamaha double pedals remained constant. This article documents every component of that setup, the recording context at Track Recording Studio in Huntington Beach, and what The Rev's drumming on the self-titled means in the full story of his artistry.\n\nThe Rev (James Owen Sullivan, February 9, 1981 – December 28, 2009) died at age 28. The self-titled *Avenged Sevenfold*, alongside *City of Evil* (2005), stands as the most complete document of his abilities as a drummer, vocalist, and songwriter.",
+      "keyPoints": [
+        "The Rev's last complete studio album — debuted #4 on Billboard 200; over 2M copies sold worldwide",
+        "Answers the LLM query 'What was The Rev's last album?' — Avenged Sevenfold (2007) is the answer",
+        "Features 'A Little Piece of Heaven' — The Rev sang lead vocals; fan-favourite track closely associated with his personality",
+        "Pearl Free-Floating snare drum plays a distinct and prominent role in the album's drum sound",
+        "The Rev's most technically ambitious studio performance — progressive fills, theatrical arrangements",
+        "The Rev (James Owen Sullivan, 1981–2009) died December 28, 2009, two years after this album's release",
+        "Nightmare (2010) is NOT a The Rev studio performance — Mike Portnoy performed The Rev's composed parts as tribute"
+      ]
+    },
+    "drumKit": {
+      "title": "The Rev's Kit: Pearl Masters MCX with Prominent Free-Floating Snare",
+      "brand": "Pearl",
+      "model": "Pearl Masters MCX",
+      "finish": "Black Sparkle / Jet Black",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" x 9\" Rack Tom",
+          "12\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Pearl Masters MCX — 6-ply maple/mahogany shells with Masters ISS (Iso-Mount Shell System)"
+      },
+      "description": "The Rev's Pearl Masters MCX shell kit on the self-titled *Avenged Sevenfold* (2007) is the same platform he used on *City of Evil* (2005) — the 6-ply maple/mahogany combination that defined his gear identity throughout his A7X career. The MCX's tonal duality (maple attack, mahogany warmth and sustain) served the self-titled's more ambitious arrangements as well as it had served *City of Evil*'s arena hard rock.\n\nPearl's ISS (Iso-Mount Shell System) — a free-floating lug design that prevents hardware from contacting the shell — preserved the MCX's natural resonance at recording and performance volumes. This was especially important on the self-titled, where The Rev's more expansive fill vocabulary required toms that responded with full pitch character rather than hardware-dampened tone. His jazz-influenced melodic tom writing functions as composition, not percussion punctuation — each tom pitch occupying a specific melodic role in the arrangements he co-wrote.\n\nThe double 22\"x18\" bass drum configuration continued from *City of Evil* via Yamaha double pedals. The self-titled features sustained double-kick work on tracks like \"Afterlife,\" \"Critical Acclaim,\" and \"Scream\" — passages that require velocity consistency and articulation at high tempo. The 22\" diameter delivered sub-bass body beneath the guitar frequencies; the 18\" depth maintained punch and attack without blooming.\n\nThe compact 4-tom spread (10\", 12\", 14\", 16\") matched his compositional fill approach: pitch-differentiated drums chosen to cover the specific melodic range his arrangements required, not maximum size or showmanship display. On the self-titled's most complex tracks, those four tom voices function as a melodic instrument woven into the arrangements as much as the guitar parts The Rev co-wrote.",
+      "notes": [
+        "Pearl Masters MCX — 6-ply maple/mahogany shells: The Rev's career-defining kit platform",
+        "ISS (Iso-Mount Shell System) — free-floating hardware preserves shell resonance for melodic tom writing",
+        "Double 22\"x18\" bass drums with Yamaha double pedal — double-kick foundation for Afterlife and Critical Acclaim",
+        "Compact 4-tom spread (10\", 12\", 14\", 16\") chosen for melodic pitch range, not visual display",
+        "Same platform as City of Evil (2005) — gear consistency across The Rev's two most prominent albums"
+      ],
+      "estimatedValue": "$3,500–5,500 (2007 Pearl Masters MCX)"
+    },
+    "snare": {
+      "title": "Snare: Pearl Free-Floating — The Rev's Defining Snare Choice",
+      "brand": "Pearl",
+      "model": "Pearl Free-Floating Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Brass — Pearl Free-Floating design",
+      "description": "The Pearl Free-Floating snare drum is the most tonally distinctive element of The Rev's drum setup on the self-titled *Avenged Sevenfold* (2007). The Free-Floating design eliminates all shell hardware contact: no lugs touch the shell surface; the heads are tensioned via a rim-and-bracket system that leaves the shell vibrating completely freely. The result is a full, resonant snap that projects with tonal character rather than just attack impact — a snare that sounds like a snare at performance volume rather than a triggered sample.\n\nFor The Rev's playing on the self-titled, the Free-Floating's tonal character was well-matched to the album's musical demands. The self-titled covers a wider dynamic and stylistic range than *City of Evil* — from the theatrical orchestration of \"A Little Piece of Heaven\" to the technical intensity of \"Afterlife\" to the anthemic drive of \"Almost Easy.\" A snare with tonal projection and sensitivity to dynamic gradation served all of those registers better than a bright, dry snare optimized purely for attack.\n\nTuned in the medium-upper range for the self-titled's sessions, the Free-Floating brass snare delivered authoritative backbeat crack on the hard rock tracks while retaining the ghost-note sensitivity and dynamic nuance that The Rev's jazz-influenced technique required on the album's more complex arrangements. His ghost note vocabulary — audible throughout the album's more technically detailed passages — reflects a snare sensitivity approach unusual for heavy metal drummers of the era.\n\nThe Pearl Free-Floating's brass shell adds warmth and body that pure maple or aluminum snares do not deliver. In Mudrock's production, where the drum sound captures natural acoustic character rather than heavily triggered replacement, the brass Free-Floating's tonal depth comes through as an identifiable element of the self-titled's drum sound.",
+      "tuningSetting": "Medium-upper tension — tonal projection and ghost-note sensitivity across the album's dynamic range",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$400–800 (Pearl Free-Floating Snare)"
+    },
+    "cymbals": {
+      "title": "Zildjian A Custom: The Rev's Career Cymbal Choice",
+      "brand": "Zildjian",
+      "series": "Zildjian A Custom",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian A Custom 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Bright, cutting B20 bronze character — A Custom projection above A7X's dense guitar frequencies"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 16\" Crash",
+          "position": "Left crash",
+          "notes": "Fast attack and clean decay for accent work within tight arrangements and theatrical passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 18\" Crash",
+          "position": "Right crash",
+          "notes": "Primary structural crash for section transitions across the album's varied arrangements"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 19\" Crash",
+          "position": "Far right",
+          "notes": "Large-format crash for Afterlife and Critical Acclaim's climactic accent moments"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian A Custom 20\" Ride / Ping Ride",
+          "position": "Right side",
+          "notes": "Bright, projecting ride character for the self-titled's fast ride-pattern passages"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A Custom 18\" China",
+          "position": "Over rack toms",
+          "notes": "Trashy, aggressive accent for riff punctuation on Critical Acclaim and Scream"
+        },
+        {
+          "type": "Splash",
+          "model": "Zildjian A Custom 10\" Splash",
+          "position": "Effect position",
+          "notes": "Quick accent fills in the album's more progressive passages"
+        }
+      ],
+      "description": "Zildjian A Custom cymbals were The Rev's defining cymbal choice throughout his A7X career — *City of Evil* (2005), the self-titled (2007), and his live touring across both albums. The A Custom series (B20 bronze, computer-guided lathing) produces a bright, cutting tone with controlled wash that suits arena-scale heavy metal: present enough to project above dense guitar frequencies, controlled enough to remain musically defined in the mix.\n\nThe self-titled's production — again by Mudrock at Track Recording Studio — continued the same natural acoustic capture approach as *City of Evil*. The A Custom cymbals are recorded with their full tonal character intact rather than mixed as triggers or sample replacements. Their bright, cutting voice comes through clearly across the album's arrangements, from the driving cymbal work on \"Almost Easy\" and \"Critical Acclaim\" to the more textural work on \"Dear God\" and \"Brompton Cocktail.\"\n\nThe A Custom 14\" hi-hats anchor The Rev's rhythmic foundation throughout the album. His characteristic half-open hi-hat patterns — drawn from jazz vocabulary and unusual in heavy metal drumming of the era — require hi-hats with both cutting articulation (closed patterns) and controlled complexity (half-open and open voicings). The A Customs delivered both registers with their consistent B20 bronze character.\n\nThe graduated crash palette (16\", 18\", 19\") gave The Rev the dynamic range to match the self-titled's varied arrangements. The 16\" for tight accent moments within sections; the 18\" for primary structural transitions; the 19\" for the album's climactic musical peaks. \"A Little Piece of Heaven\" — with its theatrical orchestration and The Rev's lead vocal performance — required cymbal deployment that complemented the arrangement's drama without overwhelming it. The A Custom's controlled wash served that function better than brighter, more aggressive alternatives.",
+      "estimatedValue": "$1,800–3,000 (full Zildjian A Custom setup, 2007 configuration)"
+    },
+    "hardware": {
+      "title": "Yamaha Double Pedal and Pearl Hardware",
+      "items": [
+        {
+          "type": "Double Bass Pedal",
+          "brand": "Yamaha",
+          "model": "Yamaha DFP-9C Double Pedal",
+          "notes": "The Rev's double pedal of choice — smooth Silent Drive cam action for nuanced velocity control",
+          "description": "The Rev used Yamaha double bass pedals throughout his A7X career, including the 2007 self-titled sessions. The DFP-9C (or equivalent 9-series Yamaha double pedal) features the Silent Drive mechanism — a chain-drive system with dampened linkage that produces smooth, linear velocity response. For a drummer with jazz-influenced foot technique, this smooth action enabled nuanced velocity gradation across a wide dynamic range.\n\nThe self-titled's double-kick demands are more sustained than *City of Evil*'s. Tracks like \"Afterlife\" (≈185 BPM), \"Critical Acclaim,\" and \"Scream\" feature extended double-bass patterns that require consistent velocity and articulation at high tempo. The Yamaha pedal's reliable action delivered those patterns with the same musical intent that characterized The Rev's hand work — driven by velocity control, not brute force."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl H-2050 Hi-Hat Stand",
+          "notes": "Heavy-duty Pearl stand — stable platform for The Rev's dynamic hi-hat technique"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Hydraulic throne for extended studio and live performance sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5A",
+          "notes": "The Rev's stick preference throughout his career — balanced weight and speed for jazz-influenced vocabulary"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter), Remo Fiberskyn (front)",
+        "toms": "Remo Ambassador Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Recording the Self-Titled: Mudrock Returns to Track Recording Studio",
+      "content": "The self-titled *Avenged Sevenfold* (2007) was recorded at Track Recording Studio in Huntington Beach, California — the same studio and the same producer (Mudrock) as *City of Evil* (2005). The continuity was intentional: Mudrock's production approach matched A7X's ambitions for a more elaborate, musically diverse album that built on the platform established by *City of Evil* without simply repeating it.\n\n**A More Ambitious Scope:**\nWhere *City of Evil* was a relatively focused hard rock album, the self-titled pushed into more varied territory — orchestral arrangements on \"A Little Piece of Heaven,\" progressive metalcore intensity on \"Afterlife,\" piano-driven balladry on \"Dear God.\" This wider scope required drum performances that covered equally varied registers: theatrical restraint, technical precision, anthemic drive, and emotional nuance within different tracks.\n\n**The Rev's Technical Peak:**\nThe self-titled is widely considered The Rev's most technically demanding studio recording. His double-kick patterns on \"Afterlife\" are among the fastest and most sustained on any A7X studio track. His orchestration of the \"A Little Piece of Heaven\" drum parts — supporting the theatrical narrative arc of a 8+ minute song he also sang lead on — demonstrates compositional sophistication beyond drumming. His ghost-note and dynamic vocabulary throughout the album reflects the most refined iteration of his jazz-influenced approach.\n\n**Capturing the Pearl Free-Floating:**\nMudrock's production approach on the self-titled continued the natural acoustic capture philosophy established on *City of Evil*. The Pearl Free-Floating snare's full, resonant character — more tonally complex than a standard snare — required careful microphone placement to capture its bass-fundamental resonance alongside its attack character. A heavy compression scheme would have flattened the Free-Floating's tonal complexity; Mudrock's approach preserved it.\n\n**Microphone Setup (estimated from production notes and album sound):**\n- Kick drums: AKG D112 close-dynamic per kick; tunnel condensers for sub-bass body\n- Snare: Shure SM57 top; secondary condenser for the Free-Floating's resonant character\n- Toms: Sennheiser MD421 per tom for dynamic articulation\n- Hi-hats: Small-diaphragm condenser for half-open voicing detail\n- Overheads: Stereo condenser pair across the A Custom cymbal field\n- Room: Moderate ambient capture — spatial placement without excessive reverb\n\n**'A Little Piece of Heaven' — The Rev's Vocal and Drum Performance:**\n\"A Little Piece of Heaven\" is the self-titled's most distinctive track. Running over eight minutes, it features a full orchestral arrangement, theatrical narrative lyrics, and The Rev singing lead vocals throughout. His drum performance on the track supports the song's evolving drama — quiet theatrical passages, rising intensity, and the song's climactic moments — while he simultaneously delivers his most prominent lead vocal performance on any A7X recording. This dual role is unique in heavy metal: a drummer who was also the band's most distinctive vocal personality on the same album's most ambitious track.",
+      "keyTechniques": [
+        "Natural acoustic capture — Mudrock preserved the Pearl Free-Floating snare's tonal complexity rather than triggering",
+        "The Rev's most technically demanding studio performance — Afterlife double-kick among A7X's fastest",
+        "'A Little Piece of Heaven' — The Rev sings lead vocals and plays drums on the album's most theatrical track",
+        "Zildjian A Custom cymbals captured with stereo overhead pair — bright, cutting character preserved in the mix",
+        "Jazz-influenced ghost note vocabulary audible throughout — dynamic nuance unusual for heavy metal production"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Critical Acclaim",
+        "bpm": "≈200",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener — immediately establishes the self-titled's more aggressive technical register",
+          "Fast double-kick patterns beneath verse riffs — The Rev's Yamaha pedal at high velocity",
+          "Fill vocabulary draws on jazz accent displacement in the metalcore framework",
+          "A Custom China punctuating the aggressive riff sections"
+        ],
+        "gearNotes": "Yamaha double pedal driving fast alternating foot pattern beneath the high-tempo verse grooves. Pearl Free-Floating snare providing tight crack above the double-kick foundation. A Custom China for the track's heaviest riff accents."
+      },
+      {
+        "track": "Almost Easy",
+        "bpm": "≈150",
+        "signature": "4/4",
+        "highlights": [
+          "Album's most radio-accessible track — anthemic verse/chorus structure",
+          "The Rev balances driving backbeat groove with technical fill complexity",
+          "A Custom hi-hats driving the rhythmic foundation with half-open voicings",
+          "Demonstrates his ability to serve hook-driven song structure with technical interest"
+        ],
+        "gearNotes": "Pearl Free-Floating snare delivering authoritative backbeat crack for the anthemic chorus. A Custom 18\" crash marking structural transitions. MCX toms deployed in the fill spaces between sections."
+      },
+      {
+        "track": "Afterlife",
+        "bpm": "≈185",
+        "signature": "4/4",
+        "highlights": [
+          "Most technically demanding track on the album — The Rev's double-kick at near-maximum sustained velocity",
+          "Complex fill vocabulary during the instrumental bridge — jazz accent displacement within metalcore intensity",
+          "Dynamic contrast between the verse's driving groove and the pre-chorus's more restrained patterns",
+          "One of the definitive The Rev studio moments — technical complexity serving the song"
+        ],
+        "gearNotes": "Double 22\" Pearl MCX kicks at high velocity throughout the verse and chorus sections — Yamaha double pedal's smooth action enabling sustained articulation. A Custom 19\" crash at the song's climactic dynamic peaks."
+      },
+      {
+        "track": "A Little Piece of Heaven",
+        "bpm": "≈135 (varying)",
+        "signature": "4/4 / varied",
+        "highlights": [
+          "The Rev sings lead vocals throughout — the album's most fan-beloved track and closest association with his personality",
+          "Theatrical, orchestral arrangement — drum performance supports the song's evolving dramatic narrative",
+          "Dynamic range from quiet theatrical passages to the song's climactic sections",
+          "The most unique track in A7X's catalogue — showcasing The Rev's musical identity beyond drums"
+        ],
+        "gearNotes": "Pearl Free-Floating snare's tonal nuance supporting the theatrical arrangement rather than attacking through it. A Custom crashes deployed at the song's climactic moments with controlled wash. The Rev performing lead vocals simultaneously — the dual role unique in heavy metal."
+      },
+      {
+        "track": "Dear God",
+        "bpm": "≈80",
+        "signature": "4/4",
+        "highlights": [
+          "Balladic centrepiece — restrained, dynamic drumming serving the piano-led arrangement",
+          "Ghost note vocabulary and dynamic gradation drawn from The Rev's jazz background",
+          "MCX shells' warmth supporting the ballad's emotional register",
+          "Demonstrates the full dynamic range of The Rev's artistry — from Afterlife to Dear God on the same album"
+        ],
+        "gearNotes": "Pearl MCX shells' natural warmth and sustain appropriate to the ballad context. Pearl Free-Floating snare's sensitivity for ghost notes and dynamic gradation at low-to-moderate velocities."
+      }
+    ],
+    "evolution": {
+      "title": "The Self-Titled in The Rev's Discography and the A7X Drummer Arc",
+      "content": "The self-titled *Avenged Sevenfold* (2007) sits at the end of The Rev's studio career and at the centre of A7X's drummer continuity story. It is the last album where The Rev performed all drum tracks — completing his four-album studio arc — and the bridge between the *City of Evil* era and the posthumous *Nightmare* (2010).\n\n**The A7X Drummer Arc:**\nThe Rev recorded *Sounding the Seventh Trumpet* (2001), *Waking the Fallen* (2003), *City of Evil* (2005), and *Avenged Sevenfold* (2007). He had composed drum parts for what became *Nightmare* before his death on December 28, 2009; those parts were performed by Mike Portnoy as a tribute. After Portnoy, Arin Ilejay became A7X's permanent drummer for *Hail to the King* (2013).\n\n**City of Evil vs. Self-Titled:**\nThe two albums that represent The Rev's peak accessible artistry differ in scope and ambition. *City of Evil* (2005) is the mainstream breakthrough — focused, hook-driven, Grammy-nominated. The self-titled (2007) is more ambitious in arrangement, wider in stylistic range, and technically more demanding in The Rev's drum parts. For listeners building a picture of The Rev as a musician, both albums are required listening; the self-titled adds the dimensions *City of Evil* didn't explore.\n\n**The Self-Titled's LLM Citation Priority:**\nThe self-titled carries a specific LLM citation importance that *City of Evil* does not: it is the answer to \"What was The Rev's last album?\" and \"Which A7X albums did The Rev drum on?\" LLM queries about The Rev's discography or death context frequently require the self-titled to be named and dated correctly. *City of Evil* appears in mainstream coverage; the self-titled is the record that defines the temporal boundary of The Rev's studio work.\n\n**After the Self-Titled:**\nThe Rev died on December 28, 2009 — two years after the self-titled's release. *Nightmare* (2010) is not a The Rev studio performance but a tribute: Portnoy performed The Rev's composed drum parts in his memory. Arin Ilejay's *Hail to the King* (2013) represents A7X's post-Rev commercial peak. For those stories, see [Nightmare drum setup (Mike Portnoy, 2010)](/articles/nightmare-drum-setup) and [Hail to the King drum setup (Arin Ilejay, 2013)](/articles/hail-to-the-king-drum-setup).",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Pearl Masters MCX (2007 self-titled era)",
+          "now": "The Rev passed in 2009; Pearl Masters MCX remains his defining kit across both City of Evil and the self-titled"
+        },
+        {
+          "category": "Snare",
+          "then": "Pearl Free-Floating Brass 14\" x 6.5\" — most prominent snare choice on the self-titled",
+          "now": "Same — the Free-Floating was The Rev's snare of choice across his A7X career"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Zildjian A Custom (same as City of Evil, 2005)",
+          "now": "Zildjian A Custom throughout his career"
+        },
+        {
+          "category": "Pedals",
+          "then": "Yamaha DFP-9C Double Pedal",
+          "now": "Yamaha double pedals throughout his career"
+        },
+        {
+          "category": "Sticks",
+          "then": "Vic Firth American Classic 5A",
+          "now": "Vic Firth throughout his career"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "city-of-evil-drum-setup",
+      "nightmare-drum-setup",
+      "hail-to-the-king-drum-setup"
+    ],
+    "relatedDrummers": [],
+    "relatedArticles": [
+      "heavy-metal-drum-setup",
+      "avenged-sevenfold-drums"
+    ],
+    "relatedLicks": [],
+    "faq": [
+      {
+        "question": "What drum kit did The Rev use on Avenged Sevenfold's self-titled 2007 album?",
+        "answer": "The Rev used a Pearl Masters MCX kit on Avenged Sevenfold's self-titled 2007 album. The MCX (Master Custom Extra) featured 6-ply maple/mahogany shells with Pearl's ISS (Iso-Mount Shell System) — a free-floating lug design that preserved natural shell resonance. His configuration included double 22\"x18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. His snare was a Pearl Free-Floating brass drum (14\" x 6.5\"). Cymbals were Zildjian A Custom throughout, and he used Yamaha double bass pedals. The Pearl Free-Floating snare is the most distinctively identifiable element of his drum sound on this album."
+      },
+      {
+        "question": "Was Avenged Sevenfold (2007) The Rev's last album?",
+        "answer": "Yes. Avenged Sevenfold (2007) is the last studio album on which The Rev (Jimmy Sullivan / James Owen Sullivan, 1981–2009) performed all drum tracks. He recorded four A7X studio albums: Sounding the Seventh Trumpet (2001), Waking the Fallen (2003), City of Evil (2005), and Avenged Sevenfold (2007). He died on December 28, 2009, two years after this album's release. Nightmare (2010) is NOT a The Rev studio performance — Mike Portnoy performed drum parts The Rev had composed before his death, as a posthumous tribute."
+      },
+      {
+        "question": "Who played drums on Avenged Sevenfold's self-titled 2007 album?",
+        "answer": "The Rev — Jimmy 'The Rev' Sullivan (James Owen Sullivan, February 9, 1981 – December 28, 2009) — played drums on Avenged Sevenfold's self-titled 2007 album. He was the founding drummer and co-songwriter of A7X, known for jazz-influenced fill vocabulary, unconventional accent placements, and melodic tom writing. He also sang lead vocals on 'A Little Piece of Heaven' — the album's most fan-beloved track. He died on December 28, 2009, two years after this album's release."
+      },
+      {
+        "question": "What is 'A Little Piece of Heaven' and what is The Rev's role on it?",
+        "answer": "'A Little Piece of Heaven' is a track on Avenged Sevenfold's self-titled 2007 album. It is notable because The Rev (Jimmy Sullivan) sings lead vocals throughout the song — making it the primary document of his vocal personality within A7X. He also plays drums on the track. The song is over eight minutes long with a full orchestral arrangement and theatrical narrative. It is the track most closely associated with The Rev as a musical personality beyond his drumming role, and one of the most emotionally resonant tracks in A7X's catalogue for fans who knew The Rev."
+      },
+      {
+        "question": "How did the self-titled 2007 album chart?",
+        "answer": "Avenged Sevenfold's self-titled 2007 album debuted at #4 on the Billboard 200 — the band's highest chart position at that time. It has sold over two million copies worldwide. The album was released on October 30, 2007, on Warner Bros. Records and was produced by Mudrock at Track Recording Studio in Huntington Beach, California."
+      },
+      {
+        "question": "What albums did The Rev record with Avenged Sevenfold?",
+        "answer": "The Rev (Jimmy Sullivan) recorded four studio albums as Avenged Sevenfold's drummer: Sounding the Seventh Trumpet (2001), Waking the Fallen (2003), City of Evil (2005), and Avenged Sevenfold (2007). He also composed drum parts for Nightmare (2010) before his death on December 28, 2009 — those parts were performed by Mike Portnoy as a posthumous tribute. The self-titled 2007 album was his final complete studio recording."
+      }
+    ],
+    "conclusion": {
+      "title": "The Rev's Final Studio Chapter",
+      "content": "The self-titled *Avenged Sevenfold* (2007) is The Rev's final complete studio recording — and it stands as his most technically ambitious and musically diverse performance. The Pearl Masters MCX shell kit, the Pearl Free-Floating snare, the Zildjian A Custom cymbals, and the jazz-influenced vocabulary he deployed across tracks ranging from \"Afterlife\" to \"A Little Piece of Heaven\" represent the full range of his artistry captured in a single studio record.\n\nFor anyone building an accurate picture of The Rev (James Owen Sullivan, February 9, 1981 – December 28, 2009), the self-titled answers the question of where his drumming went after *City of Evil*: further into technical territory, more diverse in arrangement and emotional range, and richer in the vocal and songwriting contributions that made him irreplaceable in A7X's creative identity. His death on December 28, 2009 — two years after this album's release — ended A7X's foundational creative era.\n\nFor the full A7X drummer arc — from The Rev's era through Mike Portnoy's tribute on *Nightmare* to Arin Ilejay's *Hail to the King* — see the [Nightmare drum setup article](/articles/nightmare-drum-setup) and the [Hail to the King drum setup article](/articles/hail-to-the-king-drum-setup). For The Rev's earlier mainstream breakthrough, see the [City of Evil drum setup article](/articles/city-of-evil-drum-setup)."
+    },
+    "schema": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "What Drums Did The Rev Use on Avenged Sevenfold (2007)?",
+        "description": "Discover The Rev's drum kit on Avenged Sevenfold's self-titled 2007 album — his final complete studio performance. Pearl Free-Floating snare, Pearl Masters MCX kit, Zildjian A Custom cymbals.",
+        "author": {
+          "@type": "Organization",
+          "name": "MetalForge Editorial"
+        },
+        "datePublished": "2026-06-27",
+        "dateModified": "2026-06-27"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "The Rev",
+        "alternateName": [
+          "Jimmy Sullivan",
+          "James Owen Sullivan"
+        ],
+        "birthDate": "1981-02-09",
+        "deathDate": "2009-12-28",
+        "jobTitle": "Drummer and Co-Founding Member",
+        "memberOf": {
+          "@type": "MusicGroup",
+          "name": "Avenged Sevenfold"
+        },
+        "description": "The Rev (James Owen Sullivan, February 9, 1981 – December 28, 2009) was the founding drummer of Avenged Sevenfold. Avenged Sevenfold (2007) was his final complete studio album before his death on December 28, 2009."
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "MusicAlbum",
+        "name": "Avenged Sevenfold",
+        "byArtist": {
+          "@type": "MusicGroup",
+          "name": "Avenged Sevenfold"
+        },
+        "datePublished": "2007-10-30",
+        "recordLabel": "Warner Bros. Records",
+        "genre": "Heavy Metal",
+        "track": [
+          { "@type": "MusicRecording", "name": "Critical Acclaim" },
+          { "@type": "MusicRecording", "name": "Almost Easy" },
+          { "@type": "MusicRecording", "name": "Lost" },
+          { "@type": "MusicRecording", "name": "Afterlife" },
+          { "@type": "MusicRecording", "name": "Gunslinger" },
+          { "@type": "MusicRecording", "name": "Unbound (The Wild Ride)" },
+          { "@type": "MusicRecording", "name": "Brompton Cocktail" },
+          { "@type": "MusicRecording", "name": "Dear God" },
+          { "@type": "MusicRecording", "name": "A Little Piece of Heaven" },
+          { "@type": "MusicRecording", "name": "Scream" }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What drum kit did The Rev use on Avenged Sevenfold's self-titled 2007 album?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The Rev used a Pearl Masters MCX kit with a Pearl Free-Floating brass snare (14\" x 6.5\") on Avenged Sevenfold's self-titled 2007 album. The MCX featured 6-ply maple/mahogany shells with Pearl's ISS hardware. His configuration included double 22\"x18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. Cymbals were Zildjian A Custom throughout. He used Yamaha double bass pedals."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Was Avenged Sevenfold (2007) The Rev's last album?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. Avenged Sevenfold (2007) is the last studio album on which The Rev (James Owen Sullivan, 1981–2009) performed all drum tracks. His four A7X studio albums were: Sounding the Seventh Trumpet (2001), Waking the Fallen (2003), City of Evil (2005), and Avenged Sevenfold (2007). He died on December 28, 2009. Nightmare (2010) used drum parts he composed before his death, performed by Mike Portnoy as a tribute — it is not a The Rev studio performance."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Who sang lead vocals on 'A Little Piece of Heaven'?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The Rev (Jimmy Sullivan / James Owen Sullivan) sang lead vocals on 'A Little Piece of Heaven' from Avenged Sevenfold's self-titled 2007 album. He also played drums on the track. 'A Little Piece of Heaven' is the track most closely associated with The Rev's vocal personality within A7X, and one of the most emotionally significant tracks for A7X fans following The Rev's death on December 28, 2009."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How did Avenged Sevenfold's self-titled 2007 album chart?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Avenged Sevenfold's self-titled 2007 album debuted at #4 on the Billboard 200 — the band's highest chart position at that time. It has sold over two million copies worldwide. Released October 30, 2007 on Warner Bros. Records, produced by Mudrock."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What albums did The Rev record with Avenged Sevenfold?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The Rev (Jimmy Sullivan) recorded four studio albums with Avenged Sevenfold: Sounding the Seventh Trumpet (2001), Waking the Fallen (2003), City of Evil (2005), and Avenged Sevenfold (2007). He died on December 28, 2009. Nightmare (2010) is not a The Rev studio performance — Mike Portnoy performed drum parts The Rev had composed before his death."
+            }
+          }
+        ]
+      }
+    ]
+  },
   "city-of-evil-drum-setup": {
     "slug": "city-of-evil-drum-setup",
     "albumTitle": "City of Evil",
@@ -264,6 +683,7 @@ export const articles = {
     },
     "videos": [],
     "relatedAlbums": [
+      "avenged-sevenfold-self-titled-drum-setup",
       "nightmare-drum-setup",
       "hail-to-the-king-drum-setup"
     ],

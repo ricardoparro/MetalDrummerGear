@@ -584,6 +584,593 @@ export const articles = {
       "content": "Jane Doe stands as one of the defining heavy records of its era — a mathcore masterpiece that fused hardcore, metal, and noise into something genuinely new. Ben Koller's drum setup on the album wasn't about expensive boutique gear or elaborate configurations. It was about a small, hard-touring Tama kit, a single bass drum, a bright cutting snare, and Sabian cymbals — all played with a vocabulary of blast beats, breakdowns, and chaos that drummers have studied ever since.\n\nFor drummers building a Jane Doe-inspired rig, the lessons are about commitment, not catalog price:\n- **Tama Starclassic / Bubinga shells**: Focused attack with a deep fundamental\n- **Single 22\" bass drum**: Trust your foot — Koller does\n- **Brass-shell 14\"x6.5\" snare**: Bright, cutting, tuned medium-high\n- **Sabian HHX / AAX**: Complementary dark and bright voices\n- **Tama Iron Cobra single pedal**: Smooth, consistent feel for single-foot work\n\nTwenty-five years after Jane Doe, the album still sounds violent, articulate, and alive. The drums sit at the center of that — captured by Kurt Ballou with the immediacy his GodCity Studio is now famous for, played by a 23-year-old Ben Koller who would go on to spend the next two decades as one of heavy music's most important drummers."
     }
   },
+  "all-we-love-we-leave-behind-drum-setup": {
+    "slug": "all-we-love-we-leave-behind-drum-setup",
+    "albumTitle": "All We Love We Leave Behind",
+    "artist": "Converge",
+    "drummer": "Ben Koller",
+    "drummerId": 34,
+    "relatedDrummerSlug": "ben-koller",
+    "year": 2012,
+    "genre": "Mathcore / Hardcore",
+    "label": "Epitaph Records",
+    "studio": "GodCity Studio, Salem, Massachusetts",
+    "producer": "Kurt Ballou",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Ben Koller's Drum Setup on Converge's All We Love We Leave Behind (2012)",
+    "description": "Inside Ben Koller's drum setup for Converge's All We Love We Leave Behind (2012) — AP Magazine's Album of the Year. Tama Starclassic drums, Zildjian K Custom and A Custom cymbals, Tama Iron Cobra pedals, and the most melodically accessible Converge record tackled with Koller's signature intensity.",
+    "seoKeywords": [
+      "all we love we leave behind drum setup",
+      "ben koller all we love we leave behind",
+      "converge 2012 drums",
+      "ben koller drum kit 2012",
+      "converge drum setup",
+      "kurt ballou godcity",
+      "ben koller zildjian cymbals",
+      "converge epitaph records"
+    ],
+    "ogImage": "/images/albums/all-we-love-we-leave-behind-drums.webp",
+    "intro": {
+      "title": "AP Album of the Year, Koller at His Most Melodic",
+      "content": "Released on October 9, 2012 on Epitaph Records, Converge's All We Love We Leave Behind arrived as a surprise — not in its existence, but in its character. After the sprawling, guest-heavy ambition of Axe to Fall (2009), Converge stripped back and delivered their most melodically accessible record to date. AP Magazine named it Album of the Year. It reached audiences who had never engaged with hardcore before and reminded longtime fans that Converge's intensity had always been in service of songwriting, not the other way around.\n\nBen Koller's drum setup on All We Love We Leave Behind reflects that focus. By 2012 Koller had been Converge's drummer for thirteen years — enough time that his relationship with the kit was instinctive rather than deliberate. Tracks like \"Aimless Arrow,\" \"Trespasses,\" \"Glacial Pace,\" and \"All We Love We Leave Behind\" show a drummer fully in command of the blast-and-breakdown vocabulary he developed on Jane Doe, now deployed with more dynamic nuance than at any point in his career.\n\nThe Converge arc from Jane Doe (2001) through Axe to Fall (2009) to All We Love We Leave Behind (2012) is one of the great runs in heavy music: three landmark records from the same four-piece, each expanding on the last without abandoning the core identity. Koller's drum setup for All We Love We Leave Behind is the mid-period statement — Tama Starclassic drums, Zildjian K Custom and A Custom cymbals, Tama Iron Cobra pedal, Vater signature sticks — the rig that bridges the Sabian-era recordings and his current fully settled Zildjian configuration.",
+      "keyPoints": [
+        "Released October 9, 2012 on Epitaph Records",
+        "Produced by Kurt Ballou at GodCity Studio, Salem, Massachusetts",
+        "AP Magazine Album of the Year 2012",
+        "Most melodically accessible Converge record — wide crossover appeal",
+        "Koller's mid-period Zildjian transition era"
+      ]
+    },
+    "drumKit": {
+      "title": "Koller's 2012 Kit: Tama Starclassic Mid-Period",
+      "brand": "Tama",
+      "model": "Tama Starclassic (Bubinga / early Performer transition)",
+      "finish": "Piano Black",
+      "config": {
+        "bassdrums": [
+          "22\" Bass Drum (single kick)"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" Floor Tom",
+          "16\" Floor Tom"
+        ],
+        "shells": "Bubinga shells — punchy attack with deep fundamental"
+      },
+      "description": "Ben Koller's drum kit for All We Love We Leave Behind remained firmly in the Tama Starclassic family, continuing the bubinga shell formula that anchored his recordings from Jane Doe onward. By 2012, Tama's Starclassic line was evolving — the later Performer B/B configuration (with its birch/bubinga hybrid) was beginning to emerge as the preferred touring setup, but the All We Love We Leave Behind sessions still drew on the dense, punch-forward character of pure bubinga shells.\n\nKoller remained a single-kick player throughout this era. The 22\" bass drum drove every blast beat, gallop, and half-time figure on the record without the double-pedal articulation common in metalcore. This approach is a defining characteristic of Koller's sound — it forces rhythmic efficiency and gives Converge's groove-oriented passages a weight that double-kick patterns often undermine.\n\nThe compact four-tom layout — 10\", 12\" racks over 14\", 16\" floors — is the same configuration Koller has used since Jane Doe. All We Love We Leave Behind's songs sit in a moderate tempo range compared to earlier Converge records, allowing the toms to function melodically in fills rather than as pure transitional tools. Tracks like \"Glacial Pace\" and \"Tender Abuse\" show Koller using the floor toms for extended, rhythmically inventive breakdowns that benefit from the warm low-end punch bubinga shells deliver.\n\nThe Piano Black finish is characteristic of Koller's stage presentation — practical, consistent, and designed to absorb Converge's demanding touring workload without showing cosmetic wear.",
+      "notes": [
+        "Single 22\" bass drum — no double pedal",
+        "Bubinga shells in Piano Black finish",
+        "Compact four-tom layout — Koller's career-long preference",
+        "Transitional era between Starclassic Bubinga and Performer B/B"
+      ],
+      "estimatedValue": "$2,500–3,500 (2012)"
+    },
+    "snare": {
+      "title": "The Snare: Tama S.L.P. Taking Shape",
+      "brand": "Tama",
+      "model": "Tama S.L.P. (Studio Legendary Percussion) — mid-period configuration",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel or brass — bright cut for dense hardcore production",
+      "description": "By 2012, Ben Koller was in the process of settling on the Tama S.L.P. (Studio Legendary Percussion) snare line that defines his current setup. The S.L.P. series is Tama's vintage-inspired professional snare line — built for drummers who need projection, attack authority, and the response to execute aggressive rimshots through dense guitar mixes.\n\nAt 14\" x 6.5\", the snare Koller used on All We Love We Leave Behind is deeper than standard 5\" or 5.5\" models, which gives it extra body and projection on rimshots. Kurt Ballou's production on the album — close-miked, minimal reverb, immediate and dry — requires a snare that can establish itself clearly in the mix without processing.\n\nAll We Love We Leave Behind has a slightly warmer, more controlled drum sound compared to Jane Doe's total-chaos aesthetic. Ballou's mix gives the drums more breathing room, and Koller's snare tuning responds to that — medium to medium-high tension, enough cut to register through the guitars, but not so bright it dominates the more melodic passages that define the album's crossover character.\n\nThe snare wire tension is tight for minimum buzz during the intense sections while still providing snare character in the more open, dynamic moments.",
+      "tuningSetting": "Medium to medium-high tension — balancing cut and warmth for the album's wider dynamic range",
+      "heads": "Evans G1 Coated batter; Evans 300 snare-side resonant",
+      "estimatedValue": "$300–500 (2012)"
+    },
+    "cymbals": {
+      "title": "Zildjian K Custom and A Custom — Mid-Period Setup",
+      "brand": "Zildjian",
+      "series": "Zildjian K Custom / A Custom",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian K Custom Dark Hi-Hats 14\"",
+          "position": "Left side",
+          "notes": "Dark, controlled chick for rapid hardcore patterns"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom Crash 18\"",
+          "position": "Left crash",
+          "notes": "Bright, fast-attacking crash for accents and section transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom Crash 19\"",
+          "position": "Right crash",
+          "notes": "Slightly fuller crash for the album's heavier emphasis moments"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian K Custom Ride 21\"",
+          "position": "Right",
+          "notes": "Complex wash with defined bell for melodic ride passages"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A Custom China 18\"",
+          "position": "Over toms",
+          "notes": "Aggressive, trashy accent for Converge's most violent passages"
+        },
+        {
+          "type": "Splash",
+          "model": "Zildjian K Splash 10\"",
+          "position": "Effects",
+          "notes": "Fast accent punctuation for syncopated figures"
+        }
+      ],
+      "description": "By 2012, Ben Koller had transitioned from the Sabian HHX/AAX setup that defined his Jane Doe and Axe to Fall recordings into the Zildjian K Custom and A Custom configuration that continues to anchor his playing today. All We Love We Leave Behind is one of the first Converge records to fully feature this Zildjian era, and the impact on the cymbal character is audible — darker, more complex hi-hats and ride, with the same explosive A Custom crash brightness.\n\nThe Zildjian K Custom Dark 14\" Hi-Hats are the rhythmic foundation. Their darker, more controlled voice keeps rapid hi-hat patterns articulate without the bright wash that lighter hats would smear into the guitar frequencies. On the album's faster sections — \"Aimless Arrow,\" \"Trespasses\" — the hats lock with the kick and snare to create the propulsive drive that made Converge a live force.\n\nThe A Custom Crashes (18\" and 19\") are Zildjian's brightest, fastest-responding crash models. They provide explosive section-ending emphasis on All We Love We Leave Behind's many climactic moments — the kind of bright crash that cuts through in the outdoor festival settings Converge increasingly occupied by 2012.\n\nThe K Custom Ride 21\" anchors the more melodic, mid-tempo sections of the album. All We Love We Leave Behind contains more ride-driven passages than earlier Converge records, and the K Custom Ride's complex wash with defined bell serves both ride work and texture duties in the album's more dynamic passages.\n\nThe A Custom China 18\" and K Splash 10\" serve the same accent function as in earlier setups — trashy explosion and quick punctuation respectively — but the Zildjian character gives the overall kit a slightly more musical, less abrasive cymbal voice that suits the album's crossover appeal.",
+      "estimatedValue": "$1,500–2,000 (Zildjian K Custom / A Custom transitional setup)"
+    },
+    "hardware": {
+      "title": "Iron Cobra and Vater Sticks",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra (Power Glide or Rolling Glide)",
+          "notes": "Single pedal — Koller's single-kick approach continued on AWLWLB",
+          "description": "The Tama Iron Cobra delivered the smooth, consistent feel Koller needed for the single-kick blast beats and rhythmic figures throughout All We Love We Leave Behind. By 2012, Koller had used the Iron Cobra for over a decade of Converge tours, making it as much a reflex as a tool."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater Ben Koller Signature",
+          "notes": "Custom-spec hickory balanced for power and rebound"
+        },
+        {
+          "type": "Drumheads (Toms, Batter)",
+          "brand": "Evans",
+          "model": "Evans G2 Coated",
+          "notes": "Two-ply coated — warm attack with controlled sustain"
+        },
+        {
+          "type": "Drumheads (Toms, Resonant)",
+          "brand": "Evans",
+          "model": "Evans G1 Clear",
+          "notes": "Single-ply resonant — open tone"
+        },
+        {
+          "type": "Drumheads (Bass, Batter)",
+          "brand": "Evans",
+          "model": "Evans EMAD",
+          "notes": "Focused attack and controlled low-end for dense production"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD (batter) for focused attack, ported resonant",
+        "toms": "Evans G2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Evans G1 Coated (batter), Evans 300 Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "GodCity Studio: Kurt Ballou's Evolving Production",
+      "content": "All We Love We Leave Behind was produced by Kurt Ballou at his GodCity Studio in Salem, Massachusetts — the same studio that had captured Jane Doe and Axe to Fall, now a significantly more developed recording facility. By 2012, GodCity was one of the most sought-after recording environments in heavy music, and Ballou's production style had matured alongside it.\n\nThe All We Love We Leave Behind drum sound represents a refinement of the GodCity aesthetic: still close-miked and direct, still minimal in processing — but with a warmer, more controlled character than the raw brutality of Jane Doe. The room had better acoustics, the mic locker had grown, and Ballou's mixing approach had evolved to accommodate the wider dynamic range Converge was now exploring.\n\n**Microphone Setup (approximate):**\n- Kick drum: Shure Beta 52 inside, AKG D112 outside\n- Snare: Shure SM57 top, condenser bottom\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat: AKG C451 small-diaphragm condenser\n- Overheads: AKG C414 large-diaphragm condensers\n- Room mics: Ribbon mics for natural ambience\n\n**Sound Character:**\nThe All We Love We Leave Behind drum sound sits between Jane Doe's total-chaos immediacy and the more polished Dusk in Us recordings. The kick has more body; the snare crack is still central but has slightly more warmth; the cymbals breathe more in the mix. This sonic evolution matches the album's musical evolution — Converge wasn't softening, but they were expanding their palette.\n\n**Performance Approach:**\nKoller tracked in full takes with the band playing live — the same approach used on every Converge record. The album's dynamic control and melodic vocabulary emerge from the performances, not post-production manipulation.",
+      "keyTechniques": [
+        "Close-miked drums with refined GodCity ambience versus earlier records",
+        "Warmer, more controlled drum sound versus Jane Doe's raw brutality",
+        "Live tracking — full band takes for maximum performance energy",
+        "Snare tuned for balance between cut and warmth across the dynamic range"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Aimless Arrow",
+        "bpm": "~180–200",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener — immediate blast-and-breakdown intensity",
+          "Koller's single-kick blast beats establish the album's energy",
+          "Quick cymbal accents define the song's rhythmic punctuation"
+        ],
+        "gearNotes": "K Custom Dark hi-hats lock in the fast hi-hat patterns. Snare crack cuts through from the first hit."
+      },
+      {
+        "track": "Trespasses",
+        "bpm": "Variable",
+        "signature": "Shifting",
+        "highlights": [
+          "Constant feel and tempo shifts",
+          "Demonstrates the most progressive rhythmic vocabulary on the album",
+          "Full-kit fills between contrasting sections"
+        ],
+        "gearNotes": "The A Custom crashes punctuate the abrupt transitions. China accent drives the breakdown."
+      },
+      {
+        "track": "Glacial Pace",
+        "bpm": "~100",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's most melodic tracks",
+          "Koller's ride and hi-hat work in service of atmosphere",
+          "Demonstrates the dynamic restraint that defines the album"
+        ],
+        "gearNotes": "K Custom Ride 21\" anchors the mid-tempo groove. Subtle hi-hat work showcases Koller's dynamic control."
+      },
+      {
+        "track": "All We Love We Leave Behind",
+        "bpm": "Slow, building",
+        "signature": "4/4",
+        "highlights": [
+          "Title track — epic build from restraint to full-intensity climax",
+          "Floor tom work drives the slow, heavy sections",
+          "Full-kit climax showcases the complete kit voice"
+        ],
+        "gearNotes": "Floor toms deliver the bubinga low-end punch in the half-time sections. A Custom crashes mark the climax."
+      }
+    ],
+    "evolution": {
+      "title": "From Axe to Fall to All We Love: Koller's Mid-Period",
+      "content": "All We Love We Leave Behind sits between the sprawling ambition of Axe to Fall and the Grammy-nominated sophistication of The Dusk in Us. In gear terms, it represents Koller's Zildjian transition — leaving behind the Sabian HHX/AAX setup of the earlier records and settling into the Zildjian K Custom/A Custom configuration that defines his current sound.\n\nThe kit itself is in transition: still anchored in bubinga shell Tama Starclassic DNA, beginning to move toward the Performer B/B birch/bubinga hybrid that Koller uses today. The single-kick approach, compact tom layout, and Evans heads remain constant across all three records.\n\nThe most significant evolution is in the overall dynamic palette. All We Love We Leave Behind demands more of Koller's musical vocabulary — not just blast and breakdown, but groove, ride work, and the kind of atmospheric drum work that supports melodic songwriting without losing intensity. The Zildjian K Custom/A Custom setup's combination of tonal complexity and explosive brightness serves this expansion perfectly.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Starclassic Bubinga (transitional)",
+          "now": "Tama Starclassic Performer B/B"
+        },
+        {
+          "category": "Snare",
+          "then": "Tama S.L.P. developing — 14\"x6.5\"",
+          "now": "Tama S.L.P. 14\"x6.5\" (settled)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Zildjian K Custom / A Custom (transitioning from Sabian)",
+          "now": "Zildjian K Custom / A Custom (fully settled)"
+        },
+        {
+          "category": "Sticks",
+          "then": "Vater Ben Koller signature",
+          "now": "Vater Ben Koller signature"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama Iron Cobra (single)",
+          "now": "Tama Iron Cobra (single)"
+        }
+      ]
+    },
+    "relatedAlbums": [
+      "jane-doe-drum-setup",
+      "axe-to-fall-drum-setup",
+      "the-dusk-in-us-drum-setup"
+    ],
+    "relatedDrummers": [
+      2,
+      12,
+      4
+    ],
+    "relatedArticles": [
+      "ben-koller-drum-setup"
+    ],
+    "relatedLicks": [],
+    "faq": [
+      {
+        "question": "What drum kit does Ben Koller use on All We Love We Leave Behind?",
+        "answer": "Ben Koller recorded All We Love We Leave Behind using a Tama Starclassic kit with bubinga shells in Piano Black finish — the same core shell formula he used on Jane Doe and Axe to Fall. The configuration included a single 22\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. By 2012, Koller was transitioning toward the Tama Starclassic Performer B/B (birch/bubinga hybrid) that defines his current setup, but the AWLWLB sessions drew on pure bubinga's punchy, focused attack."
+      },
+      {
+        "question": "What snare does Ben Koller play on All We Love We Leave Behind?",
+        "answer": "Ben Koller used a Tama S.L.P. (Studio Legendary Percussion) snare in a 14\" x 6.5\" configuration on All We Love We Leave Behind. The S.L.P. series is Tama's vintage-inspired professional snare line; the 6.5\" depth gives the drum extra body and projection on rimshots, helping it cut through Converge's dense guitar arrangements in Kurt Ballou's GodCity Studio production. Koller tuned the snare at medium to medium-high tension — enough cut for the album's harder sections while retaining warmth for its more melodic passages."
+      },
+      {
+        "question": "What cymbals did Ben Koller use on All We Love We Leave Behind?",
+        "answer": "Ben Koller used Zildjian K Custom and A Custom cymbals on All We Love We Leave Behind — a transition from the Sabian HHX/AAX setup he used on earlier Converge records. His setup included Zildjian K Custom Dark 14\" Hi-Hats, Zildjian A Custom Crashes (18\" and 19\"), a Zildjian K Custom Ride 21\", a Zildjian A Custom China 18\", and a Zildjian K Splash 10\". The K Custom Dark hi-hats provided controlled, dark articulation for rapid patterns while the A Custom crashes delivered the explosive brightness the album's climactic moments require."
+      },
+      {
+        "question": "What is Ben Koller's setup on All We Love We Leave Behind?",
+        "answer": "Ben Koller's complete drum setup on All We Love We Leave Behind (2012) centers on a Tama Starclassic kit with bubinga shells and a single 22\" bass drum — no double pedal. His snare is a Tama S.L.P. 14\" x 6.5\", cymbals are Zildjian K Custom and A Custom, pedal is a Tama Iron Cobra single, and sticks are his Vater signature model. Evans drumheads complete the setup: G2 Coated on tom batters, EMAD on the bass drum. The record was produced by Kurt Ballou at GodCity Studio in Salem, Massachusetts."
+      },
+      {
+        "question": "Why is All We Love We Leave Behind considered Converge's most accessible album?",
+        "answer": "All We Love We Leave Behind (2012) is considered Converge's most melodically accessible album because it strips back the sprawling guest-heavy ambition of Axe to Fall and focuses on tighter, more direct songwriting. Tracks like \"Glacial Pace\" and the title track show the band incorporating more dynamic restraint, melodic guitar work, and accessible song structures without abandoning their hardcore intensity. AP Magazine named it Album of the Year for 2012. Ben Koller's drumming on the record reflects this shift — he plays with more musical nuance and dynamic control than on earlier Converge records while maintaining his signature blast-and-breakdown vocabulary."
+      }
+    ],
+    "conclusion": {
+      "title": "The Melodic Turning Point in the Converge Arc",
+      "content": "All We Love We Leave Behind stands as a pivotal moment in the Converge catalog — the record where their uncompromising approach to heavy music met a wider audience without compromise. AP Magazine's Album of the Year designation wasn't an accident: the album demonstrated that Converge could expand their reach without diluting what made them great, and Ben Koller's drum setup was the foundation that made that expansion possible.\n\nHis mid-period Tama Starclassic / Zildjian K Custom / A Custom / Iron Cobra setup bridges the Sabian era of Jane Doe and Axe to Fall with the fully settled Zildjian configuration of The Dusk in Us and beyond. The single-kick approach, compact four-tom layout, and Evans heads remain the constant throughout — proof that Koller's gear philosophy prioritizes reliability and efficiency over change for its own sake.\n\nFor the complete Converge drumming arc:\n- [Ben Koller — Full Drummer Profile](/drummer/ben-koller)\n- [Jane Doe Drum Setup (2001)](/articles/jane-doe-drum-setup) — the mathcore landmark\n- [Axe to Fall Drum Setup (2009)](/articles/axe-to-fall-drum-setup) — the all-star expansion\n- [The Dusk in Us Drum Setup (2017)](/articles/the-dusk-in-us-drum-setup) — the Grammy-nominated evolution\n\nAll We Love We Leave Behind is the middle chapter of a story that began with Jane Doe's controlled chaos and continues to unfold. Ben Koller's drum setup tells that story from behind the kit — the same reliable Tama, the same Vater hickory, the same relentless forward momentum."
+    }
+  },
+  "the-dusk-in-us-drum-setup": {
+    "slug": "the-dusk-in-us-drum-setup",
+    "albumTitle": "The Dusk in Us",
+    "artist": "Converge",
+    "drummer": "Ben Koller",
+    "drummerId": 34,
+    "relatedDrummerSlug": "ben-koller",
+    "year": 2017,
+    "genre": "Mathcore / Hardcore",
+    "label": "Epitaph Records",
+    "studio": "GodCity Studio, Salem, Massachusetts",
+    "producer": "Kurt Ballou",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Ben Koller's Drum Setup on Converge's The Dusk in Us (2017)",
+    "description": "Inside Ben Koller's drum setup for Converge's The Dusk in Us (2017) — the Grammy-nominated UK chart record featuring 'I Can Tell You About Pain.' Tama Starclassic Performer B/B, Zildjian K Custom and A Custom cymbals, Tama Iron Cobra, and Koller's most dynamic recorded performance.",
+    "seoKeywords": [
+      "the dusk in us drum setup",
+      "ben koller the dusk in us",
+      "converge 2017 drums",
+      "ben koller drum kit 2017",
+      "converge dusk in us drum setup",
+      "ben koller tama starclassic performer",
+      "ben koller zildjian",
+      "converge grammy"
+    ],
+    "ogImage": "/images/albums/the-dusk-in-us-drums.webp",
+    "intro": {
+      "title": "Grammy Nomination, UK Chart Entry, Koller's Peak Dynamic Range",
+      "content": "Released on November 3, 2017 on Epitaph Records, Converge's The Dusk in Us arrived five years after All We Love We Leave Behind — and proved that the band's evolution toward dynamic sophistication had continued without pause. The album entered the UK charts, earned a Grammy Award nomination for Best Metal Performance, and produced \"I Can Tell You About Pain\" as its defining single. For a band that began in the basement of hardcore, these achievements were a measure of how far Converge had carried their uncompromising approach into mainstream critical consciousness.\n\nBen Koller's drum setup on The Dusk in Us represents the fully settled form of the rig he had been developing since the early 2010s. The Tama Starclassic Performer B/B — with its birch/bubinga hybrid shells — is his established kit. The Zildjian K Custom and A Custom cymbal configuration is locked in. The Vater signature sticks, the Tama Iron Cobra, the Evans heads — all are now the standard rather than the in-progress choice.\n\nThe album is Koller's most dynamic recorded performance with Converge. Tracks like \"A Single Tear,\" \"Cannibals,\" \"I Can Tell You About Pain,\" and the 7-minute closing \"It Rides\" demand more sustained musical range than any Converge record before them — quiet to violent within a single verse, held together by drumming that can shift from near-silence to full-intensity impact without losing the thread. This article breaks down every piece of Ben Koller's Dusk in Us drum setup and examines how each choice serves the most sophisticated Converge record to date.",
+      "keyPoints": [
+        "Released November 3, 2017 on Epitaph Records",
+        "Produced by Kurt Ballou at GodCity Studio",
+        "Grammy nomination for Best Metal Performance",
+        "UK chart entry — broad critical reach",
+        "Koller's fully settled Tama Starclassic Performer B/B era",
+        "Most dynamic recorded Converge performance"
+      ]
+    },
+    "drumKit": {
+      "title": "Koller's The Dusk in Us Kit: Tama Starclassic Performer B/B",
+      "brand": "Tama",
+      "model": "Tama Starclassic Performer B/B",
+      "finish": "Various (Piano Black touring configuration)",
+      "config": {
+        "bassdrums": [
+          "22\" Bass Drum (single kick)"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" Floor Tom"
+        ],
+        "shells": "Birch/Bubinga hybrid — focused attack of birch with warmth of bubinga"
+      },
+      "description": "By 2017, Ben Koller's primary kit was the Tama Starclassic Performer B/B — Tama's birch/bubinga hybrid that combines the focused, punchy attack of birch shells with the warmer, deeper fundamental of bubinga. Compared to pure bubinga, the B/B hybrid is slightly more responsive and articulate, making it better suited to the wider dynamic range The Dusk in Us demands.\n\nThe \"B/B\" designation reflects Tama's shell construction: multiple plies of birch (inner) wrapped around bubinga (outer), producing a shell that has the low-end warmth of bubinga without sacrificing the punch and brightness birch provides. For Koller's playing style — where a single stroke might need to register from near-silence or cut through full-band wall of sound — the B/B's versatility is critical.\n\nKoller's single-kick commitment remains intact on The Dusk in Us. Every blast beat, every syncopated kick figure, every half-time stomp on the record was executed with a single 22\" bass drum and one Tama Iron Cobra pedal. This approach is one of the most striking aspects of his technique — it creates a different quality of rhythmic momentum than double-kick playing, more visceral and personally driven.\n\nThe tom configuration on Dusk in Us shows a slight streamlining — the two-floor-tom layout of earlier records gives way to a single 16\" floor tom in the primary touring configuration. This tighter setup keeps the kit physically compact for Converge's touring demands while maintaining the low-end punch the floor tom provides in the album's half-time and groove sections.",
+      "notes": [
+        "Tama Starclassic Performer B/B — birch/bubinga hybrid shells",
+        "Single 22\" bass drum — Koller's career-long single-kick commitment",
+        "Slightly streamlined tom configuration vs. earlier records",
+        "B/B hybrid provides more articulation than pure bubinga for wider dynamic range"
+      ],
+      "estimatedValue": "$1,800–2,800 (Tama Starclassic Performer B/B shell pack)"
+    },
+    "snare": {
+      "title": "The Snare: Tama S.L.P. — Settled and Refined",
+      "brand": "Tama",
+      "model": "Tama S.L.P. (Studio Legendary Percussion)",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel or wood — bright projection for GodCity close-mic tracking",
+      "description": "Ben Koller's Tama S.L.P. snare is fully settled by The Dusk in Us — no longer developing or transitioning, but the established choice that defines his sound. At 14\" x 6.5\", the S.L.P. has the depth to project authority on rimshots and the voice to register through Converge's dense arrangements without relying on aggressive mixing treatment.\n\nThe Dusk in Us has the most nuanced snare role of any Converge record. \"A Single Tear\" opens with delicate restraint before explosive arrival; \"I Can Tell You About Pain\" moves through multiple feels within a single song; \"It Rides\" builds over seven minutes to a climax that requires the snare to register at multiple volume levels without losing its fundamental character. Koller's S.L.P., tuned at medium tension for balance between warmth and cut, serves all of these demands.\n\nKurt Ballou's production on The Dusk in Us is the most polished of his GodCity work with Converge. The drum sound has more body, more room, and more dynamic gradation than Jane Doe or All We Love We Leave Behind. The S.L.P.'s 6.5\" depth — providing extra shell length and internal air volume — produces a fuller fundamental that serves this more refined production context.\n\nEvans G1 Coated batter provides the articulation and rimshot response Koller's aggressive technique requires, while the Evans 300 Snare Side resonant maintains snare-wire sensitivity across the dynamic range.",
+      "tuningSetting": "Medium tension — balancing warmth and cut for the album's widest dynamic range yet",
+      "heads": "Evans G1 Coated batter; Evans 300 Snare Side resonant",
+      "estimatedValue": "$200–400 (Tama S.L.P. series)"
+    },
+    "cymbals": {
+      "title": "Zildjian K Custom and A Custom — Fully Settled",
+      "brand": "Zildjian",
+      "series": "Zildjian K Custom / A Custom",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian K Custom Dark Hi-Hats 14\"",
+          "position": "Left side",
+          "notes": "Dark, complex chick for both rapid blast-beat patterns and dynamic restraint"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom Crash 18\"",
+          "position": "Left crash",
+          "notes": "Bright, immediate attack for section transitions and emphasis points"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom Crash 19\"",
+          "position": "Right crash",
+          "notes": "Fuller crash voice for the album's biggest climactic moments"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian K Custom Ride 21\"",
+          "position": "Right",
+          "notes": "Complex wash and defined bell — used extensively on the album's more atmospheric passages"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A Custom China 18\"",
+          "position": "Over toms",
+          "notes": "Trashy, aggressive accent for the album's most violent sections"
+        },
+        {
+          "type": "Splash",
+          "model": "Zildjian K Splash 10\"",
+          "position": "Effects",
+          "notes": "Fast accent punctuation in dynamic transitions"
+        }
+      ],
+      "description": "Ben Koller's Zildjian K Custom and A Custom setup on The Dusk in Us is the same configuration that defines his current playing — not in transition, fully established, and ideally suited to the album's wider musical palette. The combination of K Custom complexity and A Custom brightness gives Koller cymbal voices that can support everything from atmospheric restraint to full-force impact.\n\nThe K Custom Dark 14\" Hi-Hats are the rhythmic anchor. Their dark, complex chick provides the controlled articulation that fast hi-hat patterns require, while their voice at lower velocities — the quiet opening of \"A Single Tear,\" the restrained verses of \"I Can Tell You About Pain\" — has the musical character that bright, simpler hats can't match. The K Custom's tonal complexity means that even soft hi-hat playing registers with interest rather than disappearing into the arrangement.\n\nThe A Custom Crashes (18\" and 19\") deliver the explosive brightness that characterizes Converge's climactic moments. On The Dusk in Us, where the distance between quiet and loud is greater than on any earlier Converge record, crashes need to speak with maximum impact when they arrive. The A Custom's fast attack and cutting brightness ensure every crash registers as a genuine arrival rather than a texture.\n\nThe K Custom Ride 21\" has more extended use on The Dusk in Us than on earlier Converge records, reflecting the album's more melodic and atmospheric songwriting. Its complex wash with defined bell serves the album's longer, more developmental song structures — particularly \"It Rides,\" the seven-minute closer that showcases the full expressive range of Koller's riding and cymbal work.\n\nThe A Custom China 18\" and K Splash 10\" serve their established accent functions, with the China marking the most violent transitions and the Splash punctuating syncopated figures throughout.",
+      "estimatedValue": "$1,500–2,500 (full Zildjian K Custom / A Custom touring setup)"
+    },
+    "hardware": {
+      "title": "Iron Cobra, Evans Heads, Vater Sticks",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Double Pedal (Power Glide or Rolling Glide)",
+          "notes": "Single pedal use — Iron Cobra available as double but Koller uses single configuration",
+          "description": "The Tama Iron Cobra remains Koller's pedal of choice on The Dusk in Us — now decades into his relationship with the pedal, fully settled as the right tool for his single-kick approach. The Iron Cobra's smooth chain-drive feel and wide adjustability ensure consistent response across Converge's demanding touring conditions."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater Ben Koller Signature",
+          "notes": "Custom-spec hickory — power and rebound for sustained heavy playing",
+          "description": "Koller's signature Vater sticks are engineered to his specifications — hickory construction, 5B-adjacent dimensions, balanced for the combination of power and rebound that hardcore drumming demands. On The Dusk in Us, where the dynamic range demands both light touch and heavy attack, the stick's balance across velocities is critical."
+        },
+        {
+          "type": "Drumheads (Toms, Batter)",
+          "brand": "Evans",
+          "model": "Evans G2 Coated",
+          "notes": "Two-ply coated — warm attack with controlled sustain for heavy-hitting"
+        },
+        {
+          "type": "Drumheads (Toms, Resonant)",
+          "brand": "Evans",
+          "model": "Evans G1 Clear",
+          "notes": "Single-ply resonant for open tone and natural ring"
+        },
+        {
+          "type": "Drumheads (Bass, Batter)",
+          "brand": "Evans",
+          "model": "Evans EMAD",
+          "notes": "Focused attack and controlled low-end — ideal for dense hardcore production"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD (batter) for focused attack, ported resonant",
+        "toms": "Evans G2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Evans G1 Coated (batter), Evans 300 Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "GodCity 2017: Ballou's Most Refined Converge Production",
+      "content": "The Dusk in Us was produced by Kurt Ballou at GodCity Studio in Salem, Massachusetts — the same studio behind every Converge album since Jane Doe, but a significantly evolved production environment by 2017. Sixteen years of GodCity development have produced a studio with a wider mic locker, better acoustic treatment, and a production philosophy that has matured alongside the band's musical expansion.\n\nThe drum sound on The Dusk in Us is the most polished and dynamic of any Converge record. It retains the close-miked immediacy of the GodCity approach — drums are captured with attack and physicality, not smoothed over — but with significantly more body, depth, and dynamic graduation than Jane Doe or even All We Love We Leave Behind.\n\n**Microphone Setup (approximate):**\n- Kick drum: Shure Beta 52 inside, AKG D112 outside\n- Snare: Shure SM57 top, condenser bottom\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat: AKG C451 small-diaphragm condenser\n- Overheads: AKG C414 large-diaphragm condensers in spaced pair\n- Room mics: Multiple positions for natural ambience\n\n**Production Character:**\nThe Dusk in Us drum sound sits in the kit with more room than any earlier Converge record. Ballou's approach by 2017 allows the natural acoustics of GodCity's main room to contribute more to the character of the drums — the result is a sound that is immediate but not cramped, aggressive but not compressed.\n\nThe wider dynamic range of the recording means drum processing is more varied than on earlier records. Quiet passages are genuinely quiet; violent passages are genuinely violent. Koller's playing is the mechanism that makes this work — his control across the dynamic spectrum is the raw material, and Ballou's production simply captures it.\n\n**Performance Approach:**\nKoller tracked The Dusk in Us with the same live-take approach as every Converge record — band in the room, full takes, performance energy preserved. The album's more atmospheric and developmental song structures required more rehearsal precision than earlier records, but the recording approach remained the same.",
+      "keyTechniques": [
+        "GodCity's most developed acoustic environment — natural ambience contributes to drum character",
+        "Wider dynamic graduation than any prior Converge record",
+        "Live tracking with full band for performance energy",
+        "Close-miked immediacy retained despite more refined production context"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "A Single Tear",
+        "bpm": "Slow building, then full-intensity",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener — minimal to full-intensity arc within a single track",
+          "Koller's restraint in the opening is as impressive as the eventual explosion",
+          "Demonstrates his ability to support atmospheric passages without losing intensity"
+        ],
+        "gearNotes": "K Custom Ride and Dark Hi-Hats anchor the quiet opening. A Custom crashes mark the full arrival."
+      },
+      {
+        "track": "I Can Tell You About Pain",
+        "bpm": "Variable",
+        "signature": "Shifting",
+        "highlights": [
+          "Defining single — most immediate track on the album",
+          "Multiple feel shifts within the song structure",
+          "Snare and kick interplay across tempo sections"
+        ],
+        "gearNotes": "Snare tuning at medium tension allows it to register clearly across all dynamic sections. B/B shells project without pushing."
+      },
+      {
+        "track": "Cannibals",
+        "bpm": "~180–200",
+        "signature": "4/4",
+        "highlights": [
+          "Peak blast-beat intensity on the album",
+          "Single-kick blast beats sustain throughout",
+          "Demonstrates Koller's single-foot efficiency at peak speed"
+        ],
+        "gearNotes": "EMAD bass drum head focuses the kick punch. K Custom Dark hi-hats articulate rapid pattern work."
+      },
+      {
+        "track": "It Rides",
+        "bpm": "Variable — slow to mid-tempo building",
+        "signature": "4/4",
+        "highlights": [
+          "Seven-minute album closer — longest Converge track in years",
+          "Koller's most extended dynamic performance on record",
+          "K Custom Ride 21\" in extended use throughout the building sections"
+        ],
+        "gearNotes": "Full dynamic range of the B/B kit expressed across seven minutes. K Custom Ride anchors the building sections."
+      }
+    ],
+    "evolution": {
+      "title": "The Dusk in Us to Bloodmoon: I — Koller's Continuing Arc",
+      "content": "The Dusk in Us is the fullest expression of Ben Koller's Tama Starclassic Performer B/B era — the moment when his gear and his playing are fully aligned with Converge's musical direction. The Grammy nomination and UK chart entry confirmed that Converge's evolution had carried its audience with it.\n\nAfter The Dusk in Us, Koller continued his Converge work with Bloodmoon: I (2021) — the collaborative album with Chelsea Wolfe, Emma Ruth Rundle, and Steve Von Till that pushed Converge's atmospheric and dynamic range even further. His playing on Bloodmoon: I shows the same Tama Starclassic Performer B/B setup applied to the most restrained and dynamic material of his career.\n\nThe Dusk in Us represents the culmination of the arc from Jane Doe (2001) through You Fail Me, No Heroes, Axe to Fall, and All We Love We Leave Behind — sixteen years of Converge drumming that built one of the great bodies of work in heavy music, with the same drummer behind the kit from first note to last.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Starclassic Performer B/B (2017)",
+          "now": "Tama Starclassic Performer B/B (unchanged)"
+        },
+        {
+          "category": "Snare",
+          "then": "Tama S.L.P. 14\"x6.5\" (settled)",
+          "now": "Tama S.L.P. 14\"x6.5\" (unchanged)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Zildjian K Custom / A Custom (fully settled)",
+          "now": "Zildjian K Custom / A Custom (unchanged)"
+        },
+        {
+          "category": "Sticks",
+          "then": "Vater Ben Koller signature",
+          "now": "Vater Ben Koller signature"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama Iron Cobra",
+          "now": "Tama Iron Cobra"
+        }
+      ]
+    },
+    "relatedAlbums": [
+      "jane-doe-drum-setup",
+      "axe-to-fall-drum-setup",
+      "all-we-love-we-leave-behind-drum-setup"
+    ],
+    "relatedDrummers": [
+      2,
+      12,
+      4
+    ],
+    "relatedArticles": [
+      "ben-koller-drum-setup"
+    ],
+    "relatedLicks": [],
+    "faq": [
+      {
+        "question": "What drum kit does Ben Koller use on The Dusk in Us?",
+        "answer": "Ben Koller plays a Tama Starclassic Performer B/B kit on The Dusk in Us (2017). The \"B/B\" stands for birch/bubinga — a hybrid shell construction combining birch's punchy attack with bubinga's warmer, deeper fundamental. His configuration includes a single 22\" bass drum, 10\" and 12\" rack toms, and a 16\" floor tom. The Performer B/B is Koller's fully settled touring kit — the same setup that carries into Bloodmoon: I (2021) and his current Converge work."
+      },
+      {
+        "question": "What snare does Ben Koller play on The Dusk in Us?",
+        "answer": "Ben Koller plays a Tama S.L.P. (Studio Legendary Percussion) snare in a 14\" x 6.5\" configuration on The Dusk in Us. The S.L.P. is Tama's vintage-inspired professional snare line; the 6.5\" depth provides extra body and projection on rimshots, helping the snare register through Converge's dense arrangements in Kurt Ballou's GodCity Studio production. By 2017, the S.L.P. is Koller's fully settled snare choice — no longer in transition, the definitive drum for his current Converge work."
+      },
+      {
+        "question": "What cymbals does Ben Koller use on The Dusk in Us?",
+        "answer": "Ben Koller uses Zildjian K Custom and A Custom cymbals on The Dusk in Us. His full setup includes: Zildjian K Custom Dark Hi-Hats (14\"), Zildjian A Custom Crash (18\"), Zildjian A Custom Crash (19\"), Zildjian K Custom Ride (21\"), Zildjian A Custom China (18\"), and Zildjian K Splash (10\"). The K Custom's tonal complexity anchors his hi-hat and ride work, while the A Custom's explosive brightness delivers the crash and China accents that define Converge's climactic moments."
+      },
+      {
+        "question": "What is Ben Koller's setup on The Dusk in Us?",
+        "answer": "Ben Koller's complete drum setup on The Dusk in Us (2017): Tama Starclassic Performer B/B (birch/bubinga hybrid shells) with single 22\" bass drum; Tama S.L.P. 14\" x 6.5\" snare; Zildjian K Custom Dark Hi-Hats (14\"), A Custom Crashes (18\" and 19\"), K Custom Ride (21\"), A Custom China (18\"), K Splash (10\"); Tama Iron Cobra single pedal; Vater Ben Koller signature sticks; Evans heads (G2 Coated on tom batters, G1 Coated on snare batter, EMAD on bass). Produced by Kurt Ballou at GodCity Studio in Salem, Massachusetts."
+      },
+      {
+        "question": "Was The Dusk in Us Grammy nominated?",
+        "answer": "Yes. The Dusk in Us (2017) by Converge received a Grammy Award nomination for Best Metal Performance — a milestone for one of hardcore's most uncompromising bands. The album also entered the UK charts, signaling the broadest mainstream critical reception Converge had achieved to that point. Ben Koller's drumming on the record — his most dynamically sophisticated Converge performance — was central to the album's critical success."
+      }
+    ],
+    "conclusion": {
+      "title": "The Grammy-Nominated Peak of the Converge Drumming Arc",
+      "content": "The Dusk in Us is where the Ben Koller / Converge story reaches its critical apex — a Grammy-nominated, UK-charting record that demonstrated a hardcore band could achieve the highest level of mainstream recognition without compromising a single element of what made them great. For drummers studying Koller's approach, it is the most complete document of his playing: the full dynamic range, the settled gear, the mastery of the blast-and-breakdown vocabulary applied to the most sophisticated Converge songwriting yet.\n\nEvery element of the setup earns its place:\n- **Tama Starclassic Performer B/B**: Birch/bubinga versatility for the album's widest dynamic range\n- **Tama S.L.P. Snare 14\"x6.5\"**: Settled, authoritative, tuned for maximum musical range\n- **Zildjian K Custom Dark Hi-Hats**: Tonal complexity for both blast-beat articulation and atmospheric restraint\n- **Zildjian A Custom Crashes**: Explosive brightness for the album's highest-impact moments\n- **Tama Iron Cobra Single Pedal**: Two decades of trust in one pedal\n- **Vater Ben Koller Signature Sticks**: Custom-balanced hickory for power and control\n\nThe complete Converge arc that The Dusk in Us completes:\n- [Ben Koller — Full Drummer Profile](/drummer/ben-koller)\n- [Jane Doe Drum Setup (2001)](/articles/jane-doe-drum-setup) — the mathcore foundation\n- [Axe to Fall Drum Setup (2009)](/articles/axe-to-fall-drum-setup) — the all-star expansion\n- [All We Love We Leave Behind Drum Setup (2012)](/articles/all-we-love-we-leave-behind-drum-setup) — the melodic turning point\n\nTwenty years of Converge drumming culminated in this record. Same drummer, same Iron Cobra, same relentless commitment — now carrying a Grammy nomination and a place in the mainstream critical conversation. Ben Koller's drum setup on The Dusk in Us is the definitive evidence that hardcore drumming, done with this level of care and musicality, can go anywhere."
+    }
+  },
   "axe-to-fall-drum-setup": {
     "slug": "axe-to-fall-drum-setup",
     "albumTitle": "Axe to Fall",

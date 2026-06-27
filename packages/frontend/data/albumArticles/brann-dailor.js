@@ -1762,6 +1762,7 @@ export const articles = {
       "content": "*The Hunter* is the album that proved Brann Dailor's musical intelligence could operate effectively across format boundaries — from the progressive concept album complexity of *Crack the Skye* to the commercial accessibility of radio-ready heavy rock. The Grammy Award for \"Black Tongue\" was the external confirmation of what the album's musical content had already demonstrated: melodic drumming philosophy does not require conceptual complexity to succeed. It requires musical intelligence, and that transfers across contexts.\n\nThe gear choices for *The Hunter* reflect the album's character precisely. The Tama Starclassic Maple kit, with its warm maple shells and single-kick configuration, provided the groove-forward foundation that shorter, more direct songs demanded. The expanded tom configuration gave Dailor the wider melodic palette his characteristic cascading fills required. The Meinl Byzance cymbal palette carried forward from *Crack the Skye* provided musical warmth and tonal complexity within Mike Elizondo's more commercially defined production context.\n\nFor drummers building setups influenced by *The Hunter*, the lesson is the same one that runs through all of Dailor's best work: the right kit is the one that serves the music. The *Hunter* setup is defined not by what it does aggressively but by what it does musically — how the warm maple shells, dark Byzance cymbals, and controlled single kick combine to create drum sounds that groove with conviction and sing with melodic intelligence.\n\nFor the complete picture of Brann Dailor's gear across Mastodon's career, visit the [Brann Dailor drummer profile](/drummer/brann-dailor) and the related album breakdowns for [Crack the Skye](/articles/crack-the-skye-drum-setup) and [Emperor of Sand](/articles/emperor-of-sand-drum-setup). For context on The Hunter's Grammy win and Mastodon's complete discography, see the [Mastodon band page](/bands/mastodon)."
     },
     "relatedAlbums": [
+      "once-more-round-the-sun-drum-setup",
       "crack-the-skye-drum-setup",
       "emperor-of-sand-drum-setup",
       "blood-mountain-drum-setup"
@@ -1920,6 +1921,447 @@ export const articles = {
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "The Hunter (2011) transitions from Crack the Skye's double-kick polyrhythmic complexity to a single-kick groove approach. Shorter song structures demanded directness over extended polyrhythmic development. Producer Mike Elizondo's hip-hop-influenced approach also created a punchier, more defined drum sound compared to Brendan O'Brien's atmospheric work on Crack the Skye."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "once-more-round-the-sun-drum-setup": {
+    "slug": "once-more-round-the-sun-drum-setup",
+    "albumTitle": "Once More 'Round the Sun",
+    "artist": "Mastodon",
+    "drummer": "Brann Dailor",
+    "drummerId": 16,
+    "relatedDrummerSlug": "brann-dailor",
+    "year": 2014,
+    "genre": "Progressive Sludge Metal / Hard Rock",
+    "label": "Reprise Records",
+    "studio": "Doppler Studios, Atlanta, Georgia",
+    "producer": "Nick Raskulinecz",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "What Drums Did Brann Dailor Use on Once More 'Round the Sun?",
+    "description": "Explore the drum kit Brann Dailor played on Mastodon's Once More 'Round the Sun (2014) — the Billboard #6 album featuring High Road. Full breakdown of the Tama Starclassic Maple kit, Meinl Byzance cymbals, and Brann's signature half-time groove approach.",
+    "seoKeywords": [
+      "brann dailor once more round the sun drum setup",
+      "mastodon once more round the sun drums",
+      "brann dailor 2014 kit",
+      "brann dailor tama starclassic once more round the sun",
+      "mastodon 2014 drums",
+      "brann dailor meinl byzance 2014",
+      "once more round the sun drum setup",
+      "mastodon high road drums",
+      "brann dailor half-time groove",
+      "mastodon reprise records 2014 drummer"
+    ],
+    "ogImage": "/images/albums/once-more-round-the-sun-drums.webp",
+    "intro": {
+      "title": "Once More 'Round the Sun: Mastodon's Billboard #6 Album and Brann Dailor's Half-Time Groove",
+      "content": "Released on June 24, 2014, Mastodon's *Once More 'Round the Sun* was the band's sixth studio album and their highest-charting record at the time — debuting at **#6 on the Billboard 200**. Produced by Nick Raskulinecz — known for his work with Rush, Foo Fighters, and Alice in Chains — the album continued the groove-forward direction [Brann Dailor](/drummer/brann-dailor) had established on [The Hunter](/articles/hunter-drum-setup) while adding more melodic density and emotional range.\n\nFor Dailor, *Once More 'Round the Sun* was the record on which his signature half-time groove approach reached its most refined expression. The album's standout tracks — \"High Road\" (Mastodon's most-streamed song across all platforms), \"Asleep in the Deep,\" and \"Chimes at Midnight\" — showcase Dailor building massive grooves around half-time feels that create space and weight within the band's layered arrangements. The result is drumming that feels simultaneously powerful and unhurried: a half-time groove under a high-tempo guitar riff creates the kind of rhythmic tension that defines the album's distinct character.\n\nDailor also emerged as a more prominent vocalist on *Once More 'Round the Sun* than on any previous Mastodon record, layering harmonies and co-lead parts across nearly every track while executing technically demanding drum performances. The dual role — singing melodic lines while maintaining complex rhythmic patterns — required a setup that could support maximum dynamic control with minimum physical tension, shaping specific gear and tuning choices for the 2014 sessions.\n\nThis article breaks down every piece of gear Dailor used during the *Once More 'Round the Sun* sessions: the Tama Starclassic Maple kit that carried forward from [The Hunter](/articles/hunter-drum-setup) era, the Meinl Byzance cymbal palette that bridged into the [Emperor of Sand](/articles/emperor-of-sand-drum-setup) era, and the hardware choices that supported his most vocally active studio performance to date.",
+      "keyPoints": [
+        "Debuted at #6 on the Billboard 200 — Mastodon's highest-charting album at time of release",
+        "\"High Road\" is Mastodon's most-streamed track on streaming platforms",
+        "Produced by Nick Raskulinecz (Rush, Foo Fighters, Alice in Chains) at Doppler Studios, Atlanta",
+        "Brann's half-time groove approach reaches its most refined expression across the album",
+        "Tama Starclassic Maple kit continued from The Hunter era, single-kick configuration",
+        "Meinl Byzance cymbal palette carried forward, bridging to the Emperor of Sand era",
+        "Dailor's most vocally prominent studio performance — harmonies and co-leads throughout"
+      ]
+    },
+    "drumKit": {
+      "title": "The Tama Starclassic Maple: Half-Time Groove Platform",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
+      "finish": "Custom wrap finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (single kick configuration)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "100% maple shells, Star-Cast mounting system"
+      },
+      "description": "For the *Once More 'Round the Sun* sessions, [Brann Dailor](/drummer/brann-dailor) continued with his Tama Starclassic Maple kit — the warm, resonant platform he had developed across the [Hunter](/articles/hunter-drum-setup) cycle and touring. The Starclassic Maple's 100% pure maple shells, combined with Tama's Star-Cast mounting system, produce the free-resonating, pitch-capable tone that Dailor's melodic tom vocabulary demands. Each shell sings with a full fundamental rather than a dampened thud — essential for a drummer whose fill philosophy treats the toms as melodic instruments equal to the guitars.\n\nFor *Once More 'Round the Sun*'s half-time groove focus, the kit's warm fundamental was particularly important. Half-time grooves create space within the arrangement — the bass drum and snare hit less frequently, which means each hit must carry more musical weight. A maple shell tuned carefully resonates with body and sustain that fills that space; a harder, brighter wood like birch would have felt too abrupt and mechanical within the half-time feel.\n\nThe tom configuration maintained the three-rack setup Dailor had refined across the *Hunter* era. The 10\", 12\", and 13\" rack toms provide dense melodic resolution — three adjacent pitches close enough to form flowing fills without large intervallic gaps. Combined with the 14\" and 16\" floor toms, Dailor had a five-drum melodic palette spanning an effective musical range for the cascading patterns that punctuate \"High Road,\" \"Asleep in the Deep,\" and \"The Motherload.\"\n\nThe single 22\" x 18\" bass drum continued the single-kick philosophy established on [The Hunter](/articles/hunter-drum-setup). The single-kick constraint forces creative, intentional bass drum placement — every note a musical decision rather than a velocity exercise. In the context of half-time grooves, where the kick drum's placement defines the entire rhythmic character of a section, this intentionality is the difference between a groove that breathes and one that merely functions.",
+      "notes": [
+        "Tama Starclassic Maple — 100% maple shells for warm, resonant half-time groove platform",
+        "Single 22\" bass drum — intentional single-kick philosophy continued from The Hunter",
+        "Star-Cast mounting system allows free shell resonance for melodic tom pitches",
+        "Five-drum melodic palette (three rack toms + two floor toms) for cascading fill sequences",
+        "Same platform carried into the Emperor of Sand era and subsequent touring"
+      ],
+      "estimatedValue": "$3,500–5,500 (Tama Starclassic Maple shell pack)"
+    },
+    "snare": {
+      "title": "The Snare: Body and Sensitivity for Half-Time Authority",
+      "brand": "Tama",
+      "model": "Tama Starphonic or Artstar Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel or aluminium — matched to the Tama Starclassic aesthetic",
+      "description": "On *Once More 'Round the Sun*, the snare drum carries particular structural weight. In a half-time groove, backbeats land on beat 3 rather than 2 and 4 — which means each snare hit has to carry the authority of two conventional backbeats compressed into one. Dailor's Tama snare at 14\" x 6.5\", tuned to medium tension, delivers the body and projection required without sacrificing the sensitivity that his ghost-note-dense style demands.\n\nThe 6.5\" shell depth provides a full, round backbeat that registers as the emotional anchor of the half-time feel — when the snare lands on 3, it needs to feel inevitable and authoritative, not tentative. Nick Raskulinecz's production approach on the album prioritised a natural, open drum sound with clear definition rather than the maximally punchy aesthetic of Mike Elizondo's work on [The Hunter](/articles/hunter-drum-setup). The result is a snare that sits warmly in the mix rather than dominating it — which suits the album's more atmospheric production character.\n\nGhost notes remain central to Dailor's playing even in half-time contexts. The medium tension tuning — aimed at tone and sensitivity over maximum attack — allows ghost notes to register as intentional rhythmic texture rather than disappearing into the track. On \"Asleep in the Deep\" and \"Chimes at Midnight,\" ghost note patterns beneath the half-time backbeat create rhythmic complexity invisible to casual listeners but responsible for much of the groove's depth.",
+      "tuningSetting": "Medium tension — body and authority for half-time backbeats with ghost note sensitivity",
+      "heads": "Evans UV1 Coated (batter), Evans Hazy 300 (resonant)",
+      "estimatedValue": "$400–800 (Tama Starphonic or Artstar snare)"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance: Dark Palette Bridging Hunter to Emperor of Sand",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl Byzance 14\" Traditional Hi-Hats",
+          "position": "Left side",
+          "notes": "Dark, complex B20 bronze — intricate open-close patterns beneath half-time grooves"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance 18\" Traditional Thin Crash",
+          "position": "Left crash",
+          "notes": "Fast-responding dark crash — punctuates section changes within the half-time groove architecture"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance 20\" Traditional Medium Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash for the album's climactic moments; dark blooming character consistent with the Byzance palette"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Byzance 22\" Traditional Ride",
+          "position": "Right side",
+          "notes": "Washy, atmospheric body — textural depth layer for the album's more expansive passages"
+        },
+        {
+          "type": "China",
+          "model": "Meinl Byzance 18\" China",
+          "position": "Above rack toms",
+          "notes": "Dark controlled aggression for accents and section transitions"
+        },
+        {
+          "type": "Splash",
+          "model": "Meinl Byzance 10\" Splash",
+          "position": "Aux position",
+          "notes": "Quick punctuation for fills and transitions within compact arrangements"
+        }
+      ],
+      "description": "Brann Dailor's Meinl Byzance cymbal palette on *Once More 'Round the Sun* carried forward the dark, complex B20 bronze character established on [The Hunter](/articles/hunter-drum-setup) and [Crack the Skye](/articles/crack-the-skye-drum-setup). The Byzance series — hand-hammered and lathed using traditional Turkish techniques — produces cymbals with warm overtone development, complex bloom, and a dark musical character that suits Dailor's compositional approach across Mastodon's middle period.\n\nFor *Once More 'Round the Sun*'s half-time groove architecture, the Byzance palette was particularly well-matched. Half-time grooves create space — and a dark, blooming cymbal fills that space with atmospheric colour rather than imposing aggression. The 14\" Traditional hi-hats, Dailor's constant across this era, support the intricate open-close patterns that run beneath the album's most spacious grooves. Even when the hi-hat pattern is simple, the Byzance warmth means the pattern registers as musical texture rather than mechanical timekeeping.\n\nThe crashes are deployed with restraint across *Once More 'Round the Sun*. Producer Nick Raskulinecz's approach favoured space and definition — each cymbal accent earns its moment rather than saturating the arrangement. The Byzance Traditional Thin Crash's fast response and dark bloom served the album's more compact structures, while the 20\" Medium Crash provided the fuller accent for the climactic moments of \"High Road\" and \"Asleep in the Deep.\"\n\nThis Byzance setup was carried nearly unchanged into the [Emperor of Sand](/articles/emperor-of-sand-drum-setup) era (2017), where Dailor expanded into the Meinl Byzance Foundry Reserve and Brilliant sub-series for additional tonal variety. *Once More 'Round the Sun* represents the late-Traditional-era Byzance setup at its most mature.",
+      "estimatedValue": "$1,800–2,500 (Meinl Byzance setup)"
+    },
+    "hardware": {
+      "title": "Pedals, Sticks, and Hardware",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Single Pedal",
+          "notes": "Single kick configuration — deliberate bass drum placement in half-time groove architecture",
+          "description": "Brann Dailor's Tama Iron Cobra single pedal drove the 22\" bass drum throughout *Once More 'Round the Sun*. The Iron Cobra's chain drive provides consistent, smooth action with the power transfer that Dailor's half-time groove playing requires — every kick note must land with controlled authority rather than mechanical force. In a half-time groove, the bass drum's placement defines the entire rhythmic character of a section; the Iron Cobra's reliable, responsive action gives Dailor the confidence to place notes precisely."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "notes": "Matched hardware series for consistent feel"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Comfort and stability across studio sessions — important when simultaneous drumming and singing requires physical ease"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Meinl",
+          "model": "Meinl Stick & Brush",
+          "notes": "Part of Dailor's broader Meinl relationship alongside the Byzance cymbal endorsement"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD Clear (front head: Evans Resonant Bass)",
+        "toms": "Evans UV1 Coated batter heads — warm, consistent tone across the Starclassic maple shells",
+        "snare": "Evans UV1 Coated"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Recording Once More 'Round the Sun: Nick Raskulinecz and the Open Groove Sound",
+      "content": "Recording *Once More 'Round the Sun* with Nick Raskulinecz at Doppler Studios marked a return to a more natural, open drum production approach after Mike Elizondo's tightly defined sound on [The Hunter](/articles/hunter-drum-setup). Raskulinecz — whose credits include Rush's *Snakes & Arrows*, Foo Fighters' *Wasting Light*, and Alice in Chains' *Black Gives Way to Blue* — favoured a fuller, more ambient drum sound with clear definition and natural room character.\n\n**Production Philosophy:**\nRaskulinecz worked to capture the full acoustic character of Dailor's Tama Starclassic Maple kit rather than squeezing it into a maximally punchy production template. The kick drum has more natural body than on *The Hunter*; the snare's 6.5\" depth registers with warmth and room presence; the Byzance cymbals bloom with the atmospheric complexity Dailor's playing demands. The result is a drum sound that feels like a natural extension of the half-time grooves — spacious, authoritative, and musically breathing.\n\n**Half-Time Architecture:**\nDailor's half-time groove approach was the defining structural technique across *Once More 'Round the Sun*. In half-time, the kick and snare pattern occupies half the metric real estate of a conventional groove — which paradoxically creates more rhythmic presence per note, not less. \"High Road,\" \"Asleep in the Deep,\" and \"Chimes at Midnight\" all demonstrate this: the groove feels enormous because each element has room to breathe. Raskulinecz's production gave the drum sound the space that half-time architecture requires.\n\n**Vocal Integration:**\n*Once More 'Round the Sun* required Dailor to sing more extensively than any previous Mastodon album while executing technically demanding drum performances. The recording process — tracking drums and vocals, then overdubbing — allowed him to focus on the drumming for tracking. But the live performance of this material required a physical setup that minimised effort and maximised dynamic control so that vocal phrases could be delivered cleanly between drum parts.",
+      "keyTechniques": [
+        "Raskulinecz's open, natural production approach — room presence and ambient character vs Elizondo's punchy definition",
+        "Half-time groove architecture — kick and snare placement creating space and maximum groove authority",
+        "Single-kick intentionality — every bass drum note a deliberate musical placement",
+        "Ghost note density beneath half-time backbeats — rhythmic complexity beneath structural simplicity",
+        "Meinl Byzance palette providing atmospheric cymbal colour in the spaces half-time grooves create"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "High Road",
+        "bpm": "132-140",
+        "signature": "4/4",
+        "highlights": [
+          "Mastodon's most-streamed track on all major platforms",
+          "Dailor's half-time groove approach in its most immediate, accessible form",
+          "The interplay between driving guitar riff and half-time drum feel creates the song's irresistible momentum",
+          "Melodic fills between vocal phrases demonstrate the compositional role of drumming in Mastodon's arrangements"
+        ],
+        "gearNotes": "The single Iron Cobra kick places each bass drum note with deliberate authority. The Byzance crashes bloom rather than slash — each accent earns its moment within the tight arrangement."
+      },
+      {
+        "track": "The Motherload",
+        "bpm": "120-130",
+        "signature": "4/4",
+        "highlights": [
+          "Lead single from Once More 'Round the Sun — most immediately hook-driven song on the album",
+          "Groove-forward drumming in service of the song's commercial momentum",
+          "Dailor's ghost note patterns beneath the main groove add rhythmic texture invisible to casual listeners",
+          "Demonstrates that half-time philosophy extends to full-time grooves with equal musical intelligence"
+        ],
+        "gearNotes": "The Tama Starclassic Maple's warm fundamental prevents the commercial production from feeling clinical. The Iron Cobra single pedal drives a focused, round kick sound suited to the song's accessible character."
+      },
+      {
+        "track": "Asleep in the Deep",
+        "bpm": "90-105",
+        "signature": "4/4 with half-time feel",
+        "highlights": [
+          "The album's most atmospheric track — showcases the space that half-time groove architecture creates",
+          "Dailor's snare placement on beat 3 creates the track's massive, unhurried rhythmic character",
+          "Tom cascades between the half-time backbeats function as melodic commentary on the guitar harmonics",
+          "Demonstrates the full expressive range of the single-kick half-time approach"
+        ],
+        "gearNotes": "The 6.5\" snare depth provides the authority the half-time backbeat requires. The Byzance ride's washy, atmospheric body adds textural depth through the track's extended passages."
+      },
+      {
+        "track": "Chimes at Midnight",
+        "bpm": "115-125",
+        "signature": "4/4",
+        "highlights": [
+          "Brann's vocal contributions most prominent on this track — drumming and singing simultaneously in peak form",
+          "Half-time groove beneath a mid-tempo riff creates the track's characteristic forward momentum",
+          "Melodic tom fills cascade through every transition — the compositional drumming philosophy at full expression",
+          "Dynamic arc from restrained verse to full-kit intensity mirrors the track's emotional narrative"
+        ],
+        "gearNotes": "The five-drum melodic palette (three rack toms plus two floor toms) gives the cascading fills a wide pitch arc. The Byzance hi-hats deliver intricate open-close patterns between the half-time backbeats."
+      }
+    ],
+    "evolution": {
+      "title": "From The Hunter to Emperor of Sand: Once More 'Round the Sun as the Missing Link",
+      "content": "*Once More 'Round the Sun* occupies a specific and important place in Brann Dailor's creative development — the album between the commercial pivot of [The Hunter](/articles/hunter-drum-setup) (2011) and the fully-realised artistic statement of [Emperor of Sand](/articles/emperor-of-sand-drum-setup) (2017). Understanding it as a transitional record illuminates how Dailor's playing style evolved from groove-forward commercial accessibility to the emotionally sophisticated drumming that won Mastodon their second Grammy.\n\n**The Half-Time Refinement:**\nThe half-time groove approach that Dailor refined on *Once More 'Round the Sun* became the rhythmic foundation of *Emperor of Sand*. On *The Hunter*, the groove was direct and driving. On *Once More 'Round the Sun*, Dailor began exploring the space that half-time feels create — space that would become central to the emotional storytelling of *Emperor of Sand*'s grief-shaped compositions.\n\n**Vocal Development:**\nDailor's increasing vocal role on *Once More 'Round the Sun* shaped the physical and technical requirements for *Emperor of Sand*. Learning to sing and drum simultaneously across a full album — harmonies, co-leads, nearly constant vocal presence — refined the dynamic control and physical efficiency that would make *Emperor of Sand*'s performance so emotionally direct.\n\n**Gear Continuity:**\nThe Tama Starclassic Maple and Meinl Byzance setup of *Once More 'Round the Sun* carried almost unchanged into *Emperor of Sand* (where Dailor expanded into additional Byzance sub-series). This continuity reflects a mature gear philosophy: when the setup serves the music, there is no reason to change it. The *Once More 'Round the Sun* setup was not a transitional placeholder but the established platform on which the next chapter would be built.\n\nFor the full arc of Mastodon's drum evolution, see [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009), [The Hunter](/articles/hunter-drum-setup) (2011), and [Emperor of Sand](/articles/emperor-of-sand-drum-setup) (2017).",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Starclassic Maple (single kick, five-drum configuration, 2014)",
+          "now": "Tama Starclassic Maple (same platform continued on Emperor of Sand 2017)"
+        },
+        {
+          "category": "Snare",
+          "then": "Tama Starphonic/Artstar 14\" x 6.5\" (medium tension for half-time authority)",
+          "now": "Tama Starphonic series (continued through Emperor of Sand and Hushed and Grim)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Meinl Byzance Traditional series (same palette from Crack the Skye)",
+          "now": "Meinl Byzance Traditional plus Foundry Reserve and Brilliant sub-series on Emperor of Sand"
+        },
+        {
+          "category": "Sticks",
+          "then": "Meinl Stick & Brush",
+          "now": "Meinl Stick & Brush (continued endorsement)"
+        },
+        {
+          "category": "Bass Drum",
+          "then": "Tama Iron Cobra single pedal (22\" x 18\" — half-time groove foundation)",
+          "now": "Single pedal approach continued on Emperor of Sand and all subsequent records"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "question": "What drums does Brann Dailor use on Once More 'Round the Sun?",
+        "answer": "Brann Dailor recorded Mastodon's Once More 'Round the Sun (2014) using a Tama Starclassic Maple drum kit with a single 22 inch bass drum, three rack toms at 10, 12, and 13 inches, and two floor toms at 14 and 16 inches. The Tama Starclassic Maple's 100% maple shells and Star-Cast mounting system produce the warm, resonant tone that supports Dailor's melodic tom vocabulary and half-time groove approach across the album."
+      },
+      {
+        "question": "What album comes between Mastodon's The Hunter and Emperor of Sand?",
+        "answer": "Once More 'Round the Sun (2014) is the Mastodon album between The Hunter (2011) and Emperor of Sand (2017). It was Mastodon's sixth studio album, produced by Nick Raskulinecz and released on June 24, 2014 on Reprise Records. The album debuted at #6 on the Billboard 200 and features 'High Road,' Mastodon's most-streamed track."
+      },
+      {
+        "question": "What cymbals does Brann Dailor use on Once More 'Round the Sun?",
+        "answer": "On Once More 'Round the Sun (2014), Brann Dailor used Meinl Byzance cymbals — the same dark, hand-hammered B20 bronze palette he had established across the Crack the Skye and The Hunter eras. His setup included 14 inch Traditional hi-hats, an 18 inch Traditional Thin Crash, a 20 inch Traditional Medium Crash, a 22 inch Traditional Ride, an 18 inch China, and a 10 inch splash. The Byzance's dark, blooming character suited the album's half-time groove architecture, filling the space that half-time feels create with atmospheric cymbal colour."
+      },
+      {
+        "question": "Who produced Once More 'Round the Sun by Mastodon?",
+        "answer": "Once More 'Round the Sun (2014) was produced by Nick Raskulinecz, known for his work with Rush (Snakes and Arrows), Foo Fighters (Wasting Light), and Alice in Chains (Black Gives Way to Blue). Raskulinecz brought a more open, naturally ambient drum production approach compared to the tightly defined sound Mike Elizondo had created on The Hunter (2011). The sessions were recorded at Doppler Studios in Atlanta, Georgia."
+      },
+      {
+        "question": "What is Mastodon's most streamed song?",
+        "answer": "High Road from Once More 'Round the Sun (2014) is Mastodon's most-streamed song across major streaming platforms. The track showcases Brann Dailor's half-time groove approach in its most immediately accessible form — the interplay between a driving guitar riff and the half-time drum feel creates the song's characteristic forward momentum."
+      },
+      {
+        "question": "How does Once More 'Round the Sun fit into Brann Dailor's career arc?",
+        "answer": "Once More 'Round the Sun (2014) is the transitional album between The Hunter's commercial groove approach (2011) and Emperor of Sand's emotionally sophisticated storytelling (2017). On this record, Dailor refined his half-time groove technique, became a more prominent vocalist than on any previous Mastodon album, and maintained the Tama Starclassic Maple and Meinl Byzance platform that carried unchanged into the Emperor of Sand era. The album fills the only gap in Dailor's Mastodon album arc between Koloss-adjacent records and the Grammy-winning Emperor of Sand."
+      }
+    ],
+    "conclusion": {
+      "title": "Once More 'Round the Sun: The Album That Completed Brann Dailor's Groove Architecture",
+      "content": "*Once More 'Round the Sun* is the album that filled in the arc between Mastodon's commercial breakthrough on [The Hunter](/articles/hunter-drum-setup) and the emotionally mature artistic statement of [Emperor of Sand](/articles/emperor-of-sand-drum-setup). Its Billboard #6 debut and the streaming dominance of \"High Road\" confirm its commercial success; but its more lasting significance is musical — the record on which [Brann Dailor](/drummer/brann-dailor) refined the half-time groove approach that would define his playing for the rest of Mastodon's catalogue.\n\nThe gear choices for *Once More 'Round the Sun* reflect this refinement. The Tama Starclassic Maple kit, with its warm 100% maple shells and single-kick configuration, provided the resonant, breathing platform that half-time grooves demand. Each bass drum note had space to develop rather than competing for sonic real estate with the next; each snare hit on beat 3 carried the structural weight of two conventional backbeats. The Meinl Byzance Traditional palette filled the space that half-time creates with atmospheric cymbal colour — dark, complex, warm, and musical. Nick Raskulinecz's production captured this breathing, open character rather than compressing it into commercial definition.\n\nFor drummers studying Brann Dailor's development, *Once More 'Round the Sun* is essential listening. It demonstrates that half-time is not a simplification but a different kind of rhythmic complexity — one that prioritises groove weight and space over metric density. It shows how cymbal choice shapes the atmosphere around a groove, not just the accent above it. And it demonstrates that the right kit is not the heaviest or the most technically impressive but the one that makes the music feel inevitable.\n\nFor the complete Brann Dailor arc, visit the [Brann Dailor drummer profile](/drummer/brann-dailor) and the album breakdowns for [The Hunter](/articles/hunter-drum-setup) (2011) and [Emperor of Sand](/articles/emperor-of-sand-drum-setup) (2017). For the earlier chapters of Mastodon's story, see [Crack the Skye](/articles/crack-the-skye-drum-setup) (2009) and [Blood Mountain](/articles/blood-mountain-drum-setup) (2006)."
+    },
+    "relatedAlbums": [
+      "hunter-drum-setup",
+      "emperor-of-sand-drum-setup",
+      "crack-the-skye-drum-setup"
+    ],
+    "relatedDrummers": [
+      5,
+      14,
+      28
+    ],
+    "relatedArticles": [
+      "progressive-metal-drummers",
+      "polyrhythm-techniques"
+    ],
+    "relatedLicks": [],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "What Drums Did Brann Dailor Use on Once More 'Round the Sun?",
+          "description": "Explore the drum kit Brann Dailor played on Mastodon's Once More 'Round the Sun (2014) — the Billboard #6 album featuring High Road. Full breakdown of the Tama Starclassic Maple kit, Meinl Byzance cymbals, and Brann's signature half-time groove approach.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-06-27",
+          "dateModified": "2026-06-27"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://metalforge.io/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Articles",
+              "item": "https://metalforge.io/articles"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Once More 'Round the Sun Drum Setup",
+              "item": "https://metalforge.io/articles/once-more-round-the-sun-drum-setup"
+            }
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Once More 'Round the Sun",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Mastodon"
+          },
+          "datePublished": "2014-06-24",
+          "genre": "Progressive Sludge Metal / Hard Rock",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Reprise Records"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Tread Lightly"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "The Motherload"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "High Road"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Once More 'Round the Sun"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Feast Your Eyes"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Chimes at Midnight"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Asleep in the Deep"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Ember City"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Halloween"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Diamond in the Witch House"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Brann Dailor",
+          "birthDate": "1975-03-19",
+          "birthPlace": {
+            "@type": "Place",
+            "name": "Rochester, New York, USA"
+          },
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Mastodon"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drums does Brann Dailor use on Once More 'Round the Sun?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Brann Dailor recorded Once More 'Round the Sun (2014) using a Tama Starclassic Maple kit with a single 22\" bass drum, three rack toms at 10\", 12\", and 13\", plus floor toms at 14\" and 16\". The warm 100% maple shells and Star-Cast mounting system produce the resonant, pitch-capable tone that Dailor's melodic fills and half-time groove approach demand."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What album comes between Mastodon's The Hunter and Emperor of Sand?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Once More 'Round the Sun (2014) is the Mastodon album between The Hunter (2011) and Emperor of Sand (2017). It debuted at #6 on the Billboard 200 and features High Road — Mastodon's most-streamed song."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who produced Once More 'Round the Sun by Mastodon?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Once More 'Round the Sun was produced by Nick Raskulinecz, recorded at Doppler Studios in Atlanta, Georgia. Raskulinecz is known for working with Rush, Foo Fighters, and Alice in Chains, and brought a more open, naturally ambient drum sound compared to The Hunter's tightly defined production."
               }
             }
           ]
@@ -2213,6 +2655,7 @@ export const articles = {
       "content": "*Emperor of Sand* is the album that proved Brann Dailor's place among the most complete musician-drummers in modern music. The Grammy win for Best Metal Performance confirmed what the album's emotional depth had already demonstrated: this is drumming in service of something larger than technical display — music that uses the drum kit as a vehicle for storytelling, grief, and resilience.\n\nThe gear choices for this album reflect a mature musical philosophy. The Tama Starclassic Maple kit, with its warm maple shells and single-kick configuration, was chosen to serve the album's groove-forward character. The Meinl Byzance cymbal palette — expanded from the *Crack the Skye* era to include Foundry Reserve and Brilliant options — provided the atmospheric depth and emotional range that a concept album about mortality required. The Iron Cobra single pedal anchored everything in a groove that remains the album's most commercially accessible and emotionally resonant element.\n\nFor drummers building setups influenced by this album, the lesson is the same one that runs through all of Dailor's best work: gear is a tool for musical expression, and the right tools are the ones that serve the music rather than impose a generic sound. The *Emperor of Sand* setup is defined not by what it does aggressively but by what it does musically — how the warm maple shells, dark Byzance cymbals, and controlled single kick combine to create drum sounds that feel emotionally present in a way that purely technical drumming never achieves.\n\nFor the complete picture of Brann Dailor's gear across Mastodon's career, visit the [Brann Dailor drummer profile](/drummer/brann-dailor) and the related album breakdowns for [Crack the Skye](/articles/crack-the-skye-drum-setup) and [Blood Mountain](/articles/blood-mountain-drum-setup). For context on the Grammy-winning album and Mastodon's complete discography, see the [Mastodon band page](/bands/mastodon)."
     },
     "relatedAlbums": [
+      "once-more-round-the-sun-drum-setup",
       "crack-the-skye-drum-setup",
       "blood-mountain-drum-setup"
     ],

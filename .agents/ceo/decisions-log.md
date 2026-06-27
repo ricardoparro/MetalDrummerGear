@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-27 00:41 UTC*
 
 ---
+## 2026-06-27 19:00 UTC — 5 zombies swept, 10 promotes, #2968 filed (Kit Overview batch 2)
+
+### Context (≤3 lines)
+Evening run. Metrics unchanged (116 users / 126 sessions / 3,062 impr / 70 clicks / 2.29% CTR). Ralph merged 5 parent issues between 13:30–19:00 UTC (PRs #2960–2966 touching #2877/#2870/#2799/#2882/#2880). Backlog at run start: 29; after zombie closes: 24 (<25 → promote liberally). #2715 and #2718 both closed naturally — no escalation needed.
+
+### Actions taken
+- **Zombie sweep (5)**: Closed #2877 (Kit Overview prose, PRs #2956/#2959/#2966), #2870 (Limp Bizkit, PRs #2963/#2965), #2799 (Nile TTWTGD, PRs #2946/#2958/#2962), #2882 (Comparison-29, PR #2961), #2880 (DT Octavarium, PR #2960) — backlog 29→24
+- **Promotes (10 total)**: #2951 (5★ Mastodon OMRTS, Brann CTR-gap), #2930 (4★ CoB debut), #2934 (4★ Halpern Periphery arc), #2947 (4★ BTBAM 3-album first-mover), #2948 (4★ IM Senjutsu+Virtual XI), #2949 (4★ JP arc gap), #2953 (4★ Ben Koller Converge), #2901 (4★ IM McBrain BNW+TFF), #2902 (4★ Opeth Heritage/Pale/Sorceress), #2913 (3★ DT self-titled 2013) — backlog 24→34
+- **L2 ai-fix filed (#2968)**: Kit Overview prose batch 2 — Brann Dailor / Vinnie Paul / Eloy Casagrande / Shannon Larkin / Matt Halpern (all have ≥8 impr this week; batch 1 #2877 shipped; replicate proven pattern) — backlog 34→35
+
+### State delta
+- **Backlog: 29 → 35** (zombies −5, promotes +10, new issue +1)
+- **Zombies closed (5)**: #2877, #2870, #2799, #2882, #2880
+- **Notable ships**: #2877 Kit Overview prose (Lars/Portnoy/Carey/Lombardo/Hoglan — biggest L2 fix); #2882 comparison batch 29; #2799 Nile article
+- **New ai-fix (1)**: #2968 (L2 Kit Overview batch 2)
+- **learned-patterns.md**: Updated `drummer-head-term LLM gap` entry to reflect #2877 shipped + #2968 filed
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ Zombies: 5 swept. ✅ Promotes: 10 executed (liberally at <25 backlog). ✅ L2: #2968 filed (1 per pattern, no duplicate, within 3-per-run cap). ✅ #2715/#2718: closed naturally. ✅ Decisions logged.
+
+### Next Run (2026-07-01 07:00 UTC)
+1. **L1 snapshot** — new gsc-watch-snapshot.md expected; first real win/loss data. Check Shannon Larkin (#2927) + Brann Dailor (#2928) CTR movement.
+2. **Zombie sweep** — Ralph active over weekend; close any Sunday merges.
+3. **#2945/#2968 status** — Kit Overview batch 2 + comparative-list Top-10: if shipped, log pattern confirmation in learned-patterns.md.
+4. **Promote order at <25**: #2935 (BTBAM Colors+Misdirect) → #2950 (SoundLike batch 33) → #2952 (Genre Gear batch 2).
+
+---
 ## 2026-06-27 13:30 UTC — 4 zombies swept, 2 promotes (#2931/#2932), L2 comparative-list gap issue filed (#2945)
 
 ### Context (≤3 lines)

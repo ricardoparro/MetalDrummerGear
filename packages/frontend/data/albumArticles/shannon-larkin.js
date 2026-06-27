@@ -2297,6 +2297,353 @@ export const articles = {
       "title": "The Settled Era: The Oracle and the Third #1",
       "content": "*The Oracle* (2010) is Shannon Larkin's settled-era studio performance with Godsmack — an album recorded at Sully Erna's Massachusetts home studio with the kind of time and attention that commercial sessions don't always allow. The Pearl Reference kit, Pearl Free-Floating brass and Sensitone snares, Sabian HH/HHX cymbals, Pearl Demon Drive pedal, and Vater Shannon Larkin Signature sticks collectively represent a drummer who has refined his rig across two prior Godsmack studio albums and arrived at *The Oracle* with very specific ideas about the sounds he wanted to make.\n\n**For Drummers Studying The Oracle:**\nStart with \"Cryin' Like a Bitch\" — Larkin's most direct, unambiguous groove on the album, built entirely on the Pearl Reference's attack-forward character and a brighter snare voice for radio-driving authority. Then work through \"Love-Hate-Sex-Pain\" for the Pearl Free-Floating brass snare's complex backbeat and the HHX Raw Bell Dry Ride's verse-driving voice. The title track demonstrates the architectural ambition Larkin can deliver when the arrangement demands it — extended dynamic arcs across a single track without losing pocket.\n\n**The Gear Legacy:**\nBy 2010, Shannon Larkin's Pearl Reference + Sabian HH/HHX + Vater signature setup represented a settled professional rig that he carried across multiple albums and touring cycles. A player approaching *The Oracle*'s drum sound can replicate the gear philosophy — attack-forward shells, hand-hammered cymbals with body and complexity, direct-drive double pedal, signature stick weight — at multiple price points.\n\nFor the complete Shannon Larkin gear arc: begin at [Faceless (2003)](/articles/faceless-drum-setup) — the Tama Starclassic Maple starting point — continue through [IV (2006)](/articles/godsmack-iv-drum-setup) for the Pearl Reference transition, and follow with *The Oracle* (2010) for the settled era documented here. The [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) documents his current setup, including the Ddrum Reflex Series that represents the next phase after the Pearl Reference era.\n\n🥁 *#1 Billboard 200. Third consecutive #1. The settled Pearl Reference era at peak.* 🤘"
     }
+  },
+  "lighting-up-the-sky-drum-setup": {
+    "slug": "lighting-up-the-sky-drum-setup",
+    "albumTitle": "Lighting Up the Sky",
+    "artist": "Godsmack",
+    "drummer": "Shannon Larkin",
+    "drummerId": 18,
+    "relatedDrummerSlug": "shannon-larkin",
+    "year": 2023,
+    "genre": "Hard Rock",
+    "label": "BMG",
+    "studio": "Various Studios",
+    "producer": "Godsmack",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Lighting Up the Sky Drum Setup: Shannon Larkin's Ludwig Vistalite Kit on Godsmack's Final Album (2023)",
+    "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's Lighting Up the Sky (2023) — the band's announced final studio album. Ludwig Vistalite acrylic drums, Sabian HHX/AAX cymbals, DW 9000 pedals, and the gear behind Godsmack's farewell record and Shannon's most recent kit.",
+    "seoKeywords": [
+      "shannon larkin drum setup 2023",
+      "godsmack lighting up the sky drums",
+      "godsmack 2023 drum setup",
+      "shannon larkin ludwig vistalite",
+      "shannon larkin drum kit 2023",
+      "godsmack final album drums",
+      "lighting up the sky drummer",
+      "shannon larkin gear 2023",
+      "godsmack drummer 2023",
+      "shannon larkin sabian 2023"
+    ],
+    "ogImage": "/images/drummers/shannon-larkin.webp",
+    "intro": {
+      "title": "Shannon Larkin's Ludwig Vistalite Era: The Drum Setup Behind Godsmack's Final Album",
+      "content": "Released on February 24, 2023, *Lighting Up the Sky* is Godsmack's eighth and final studio album — the band announced it as their farewell record, closing a studio career that spans *Godsmack* (1998) to this conclusive statement. For Shannon Larkin, it represents the final chapter of his two-decade tenure as Godsmack's drummer, and the album arrived with a gear change as bold as the occasion demanded: the Ludwig Vistalite acrylic kit, a departure from every wood-shelled setup in Godsmack's studio catalog and a deliberate embrace of classic hard rock iconography for the band's concluding statement.\n\nThe Ludwig Vistalite is one of drumming's most recognizable instruments — the clear acrylic shell design, revived by Ludwig for the modern era, carries the DNA of the 1970s kits that John Bonham made famous. For Shannon Larkin, a drummer who has cited Bonham as a defining influence throughout his career, the Vistalite for *Lighting Up the Sky* is both a sonic choice and a statement of roots: this is where hard rock drumming was forged, and where Godsmack's final record chose to plant its flag.\n\nThe Vistalite's acrylic construction produces a bright, cutting, powerful drum sound unlike any of Larkin's previous Godsmack studio kits. Sharper in attack than the Pearl Reference Pure from *When Legends Rise* (2018), louder and more immediately projecting than the Ddrum Reflex setup of his touring years — the Vistalite announces itself. The album cycle's #1 US rock radio performance, driven by \"Surrender\" and the title track, was built on this signature sound: a kit that leads with visual and sonic authority.\n\nHis Sabian cymbal relationship, long established across the entire Godsmack studio catalog, continued for the *Lighting Up the Sky* cycle with the refined HHX/AAX configuration he developed through the *When Legends Rise* period. The DW 9000 double bass pedal — Larkin's most consistent choice across the post-2010 Godsmack period — returned as the foot hardware foundation. Vater Shannon Larkin Signature sticks completed the setup.\n\nThis article documents the Ludwig Vistalite configuration, Sabian cymbal setup, and the full gear picture of Shannon Larkin's most historically resonant Godsmack studio kit.",
+      "keyPoints": [
+        "Lighting Up the Sky (2023) — Godsmack's announced eighth and final studio album",
+        "Ludwig Vistalite acrylic drums — a historic gear choice for the farewell record cycle, distinct from all prior Godsmack studio kits",
+        "Double 22\" bass drums: Larkin's constant configuration across the entire Godsmack catalog since 2003",
+        "Sabian HHX/AAX cymbals — long-running Sabian endorsement maintained through the final album",
+        "DW 9000 Double Bass Pedal — Larkin's consistent post-2010 pedal choice",
+        "#1 US rock radio album cycle: 'Surrender' and the title track led the chart run"
+      ]
+    },
+    "drumKit": {
+      "title": "Ludwig Vistalite: The Acrylic Statement for Godsmack's Farewell Record",
+      "brand": "Ludwig",
+      "model": "Ludwig Vistalite",
+      "finish": "Clear acrylic",
+      "config": {
+        "bassdrums": [
+          "22\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" Floor Tom",
+          "16\" Floor Tom"
+        ],
+        "shells": "Acrylic (Vistalite) — clear polished construction"
+      },
+      "description": "The Ludwig Vistalite represents one of the most distinctive gear choices in Shannon Larkin's Godsmack career — and one of the most meaningful. The Vistalite's clear acrylic shells trace their lineage directly to John Bonham's iconic 1970s Led Zeppelin setup, the kit that defined what powerful, authoritative hard rock drumming could look and sound like. Ludwig revived the Vistalite line with modern manufacturing for a new generation of hard rock and rock drummers, updating the construction while preserving the visual and sonic identity that made the original famous. For Larkin, who has cited Bonham's deep-pocket groove philosophy as a foundational influence, the Vistalite for *Lighting Up the Sky* is a deliberate artistic statement: a return to the roots of hard rock power drumming for the final chapter of Godsmack's studio catalog.\n\nAcrylic shells produce a distinctly different acoustic character from the wood kits that defined Larkin's previous Godsmack studio work. Where pure maple (Pearl Reference Pure, *When Legends Rise*) offers warm sustain and full fundamental, and basswood/poplar (Ddrum Reflex, touring) provides punchy, dry attack, acrylic speaks with maximum projection and a cutting, high-frequency clarity that wood cannot replicate. The Vistalite's sound is immediate and visual — every stroke projects with an authority that suits both the album's production aesthetic and the touring cycle's arena-scale presentation. The clear shells' additional appeal is visual: on stage, the Vistalite is unmistakable.\n\nThe double 22\" kick configuration is the one constant across Larkin's entire Godsmack studio catalog, from the Tama Starclassic Maple of *Faceless* (2003) through the Ludwig Vistalite of *Lighting Up the Sky* (2023). Two 22\" kicks, four toms (10\", 12\", 14\", 16\") — this configuration is as central to the Shannon Larkin identity as his Sabian cymbal setup or DW 9000 pedal. The Vistalite gives this fundamental architecture a new, historically resonant voice for the farewell record.\n\nFor drummers drawn to the Vistalite sound, the acrylic shells require a slightly different miking approach than wood — the shells' high projection means mic placement benefits from more distance to avoid overloading preamps — but the reward is a drum sound that was literally designed to fill arenas.",
+      "notes": [
+        "Ludwig Vistalite — clear acrylic shells, revived Ludwig line inspired by the 1970s Bonham-era design",
+        "Acrylic construction: maximum projection and cutting clarity distinct from any of Larkin's prior Godsmack studio kits",
+        "Double 22\" bass drums: Larkin's unchanged configuration across the entire Godsmack catalog (2003–2023)",
+        "Four-tom spread (10\", 12\", 14\", 16\") — consistent Larkin approach across all Godsmack studio albums",
+        "Ludwig Vistalite revival era — a historically significant gear choice for Godsmack's final studio record"
+      ],
+      "estimatedValue": "$3,500–6,500 (Ludwig Vistalite shell pack)"
+    },
+    "snare": {
+      "title": "Ludwig Snare: Bright Authority for the Farewell Record",
+      "brand": "Ludwig",
+      "model": "Ludwig Black Beauty 14\" x 6.5\" Steel",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "Shannon Larkin's snare voice on *Lighting Up the Sky* reflects both the Ludwig kit choice and the album's hard rock production priorities. The Ludwig Black Beauty — one of the most respected steel snare drums in rock drumming history — delivers the crisp, cutting crack that has defined the Godsmack backbeat since Larkin joined the band in 2002. The Black Beauty's seamless steel shell produces a bright, projecting attack with a complex, singing decay: a snare that speaks with authority through even the densest hard rock mix.\n\nThe 14\" x 6.5\" format provides both the surface area for full backbeat authority and the depth for genuine body — this is not a thin, shallow snare designed for delicacy, but a drum built for the kind of power-driven hard rock Godsmack has always represented. On tracks like \"Surrender\" and \"Soul on Fire,\" the snare's presence in the production is immediate and unambiguous. Every backbeat on *Lighting Up the Sky* carries the physical weight that Larkin's playing style demands — a snare that matches the Vistalite kit's projection-forward aesthetic.\n\nThe Ludwig Black Beauty's iconic status in rock drumming makes it a natural partner for the Vistalite: both are instruments with deep roots in hard rock's foundational era, and both are experiencing a revival among professional drummers who value historical resonance alongside sonic performance. Together they define *Lighting Up the Sky*'s gear identity: power, clarity, and a deliberately classic hard rock character.",
+      "tuningSetting": "Medium-high — maximizing steel shell projection while maintaining body for Godsmack's hard rock backbeat",
+      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$350–600 (Ludwig Black Beauty steel snare)"
+    },
+    "cymbals": {
+      "title": "Sabian HHX / AAX: The Continuing Configuration for Hard Rock's Biggest Stages",
+      "brand": "Sabian",
+      "series": "Sabian HHX / AAX Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
+          "position": "Left side",
+          "notes": "Bright, machine-hammered attack for cutting chick — projects clearly through Godsmack's dense arena mix"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian HHX 17\" Evolution Crash",
+          "position": "Left crash",
+          "notes": "Fast, dark response — accent voice for Lighting Up the Sky's harder-hitting passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian HHX 19\" Evolution Crash",
+          "position": "Right crash",
+          "notes": "Full-bodied accent crash with dark sustain for the album's largest musical moments"
+        },
+        {
+          "type": "Ride",
+          "model": "Sabian HHX 21\" Raw Bell Dry Ride",
+          "position": "Far right",
+          "notes": "Dry, defined bell with complex body wash — Larkin's signature ride voice across the post-2006 Godsmack era"
+        },
+        {
+          "type": "China",
+          "model": "Sabian HHX 18\" Chinese",
+          "position": "Over rack toms",
+          "notes": "Dark, complex trash accent for the album's heaviest transitions and punctuations"
+        },
+        {
+          "type": "Splash",
+          "model": "Sabian AAX 10\" Splash",
+          "position": "Effects position",
+          "notes": "Quick accent tool for fills and transitions — bright AAX character for fast response"
+        }
+      ],
+      "description": "Shannon Larkin's Sabian cymbal setup for *Lighting Up the Sky* continues the HHX/AAX dual-series configuration he developed through the *When Legends Rise* (2018) period — a refined pairing that represents the peak of his Sabian cymbal evolution across two decades of Godsmack studio and touring work.\n\nThe Sabian AAX 14\" Stage Hi-Hats anchor the rhythmic foundation of every track on the album. The AAX series' machine-hammered construction delivers the bright, fast-responding chick that drives Godsmack's rock grooves forward — cutting through the dense arrangement of guitars, bass, and vocal to place the rhythmic pulse with maximum clarity. On *Lighting Up the Sky*, this hi-hat voice pairs effectively with the Vistalite kit's high-projection character: both elements of the setup speak with immediate, cutting authority.\n\nThe HHX Evolution Crashes — 17\" and 19\" — provide the accent voices for the album's dynamic moments. Hand-hammered and dark, the HHX Evolution series responds quickly but sustains with complex harmonic depth that a brighter cymbal cannot deliver. The 17\" provides fast, precise accents for transitional fills; the 19\" gives Larkin the full-bodied crash for Godsmack's biggest moments.\n\nThe HHX 21\" Raw Bell Dry Ride is the cymbal most closely associated with Larkin's evolved Godsmack sound since the *IV* (2006) era — its dry body wash and sharply defined bell have been his time-keeping voice across multiple albums and touring cycles. On *Lighting Up the Sky*, this cymbal's dark, complex character contrasts with the Vistalite's bright projection to create a full-range sonic picture: cutting transients from the drums, musical depth from the cymbals.\n\nThe HHX Chinese and AAX Splash complete the configuration with trash-accent and quick-effect voices that have remained consistent across the *When Legends Rise* and *Lighting Up the Sky* eras — proof that Larkin's cymbal philosophy has settled into a fully optimized setup.",
+      "estimatedValue": "$2,000–3,500 (full Sabian HHX/AAX setup)"
+    },
+    "hardware": {
+      "title": "DW 9000 and Vater: The Consistent Foundation for Godsmack's Final Chapter",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Bass Pedal",
+          "notes": "Chain-drive, adjustable cam — Larkin's consistent choice across the post-2010 Godsmack period",
+          "description": "The DW 9000 double bass pedal has been Shannon Larkin's consistent foot hardware across the most recent phase of his Godsmack career. On *Lighting Up the Sky*, the DW 9000's chain-drive mechanism provides the smooth, reliable feel that Godsmack's groove-oriented double-kick patterns demand — the driving patterns beneath \"Surrender\" and \"You and I\" that lock with the guitar riffs and propel the hard rock arrangements. The DW 9000's adjustable cam allows Larkin to maintain his established power curve and return speed, delivering performance consistency across studio sessions and the extensive touring cycle that followed the album's release."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater Shannon Larkin Signature",
+          "notes": "Long-running signature stick — hickory, balanced taper for hard rock power and cymbal articulation",
+          "description": "The Vater Shannon Larkin Signature stick has been Larkin's touring and recording choice since its development in collaboration with Vater Percussion. The signature's hickory construction and custom taper provide the mass required for Godsmack's power-forward hard rock playing while maintaining the rebound and articulation control needed for consistent performance across two-hour arena sets. On *Lighting Up the Sky*, the signature stick's balanced weight profile suits the Ludwig Vistalite's high-projection character — driving the snare and toms without over-playing the kit's inherent brightness."
+        },
+        {
+          "type": "Throne",
+          "brand": "Pork Pie",
+          "model": "Pork Pie Big Boy",
+          "notes": "Stable platform for arena-scale performance"
+        },
+        {
+          "type": "Drumheads (Toms, Batter)",
+          "brand": "Remo",
+          "model": "Remo Emperor Coated",
+          "notes": "Two-ply construction for controlled sustain and focused attack on the Vistalite shells"
+        },
+        {
+          "type": "Drumheads (Bass, Batter)",
+          "brand": "Evans",
+          "model": "Evans EMAD",
+          "notes": "External Muffle Attack Design — controlled attack and damped overtones for double-kick clarity in the Vistalite configuration"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD (batter), Evans EQ3 Resonant (ported)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "when-legends-rise-drum-setup",
+      "shannon-larkin-drum-setup",
+      "godsmack-1000hp-drum-setup"
+    ],
+    "relatedDrummers": [
+      8,
+      4,
+      1
+    ],
+    "relatedArticles": [
+      "shannon-larkin-drum-setup",
+      "hard-rock-drum-setups",
+      "best-double-bass-pedals-metal"
+    ],
+    "internalLinks": [
+      {
+        "text": "Shannon Larkin drummer profile",
+        "url": "/drummer/shannon-larkin"
+      },
+      {
+        "text": "Shannon Larkin complete gear guide",
+        "url": "/articles/shannon-larkin-drum-setup"
+      },
+      {
+        "text": "When Legends Rise drum setup (2018)",
+        "url": "/articles/when-legends-rise-drum-setup"
+      },
+      {
+        "text": "Godsmack 1000hp drum setup (2014)",
+        "url": "/articles/godsmack-1000hp-drum-setup"
+      },
+      {
+        "text": "Sabian cymbals brand overview",
+        "url": "/gear/sabian"
+      },
+      {
+        "text": "Ludwig drums brand overview",
+        "url": "/gear/ludwig"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Lighting Up the Sky Drum Setup: Shannon Larkin's Ludwig Vistalite Kit on Godsmack's Final Album (2023)",
+          "description": "Discover the exact drum kit, cymbals, and pedals Shannon Larkin used on Godsmack's Lighting Up the Sky (2023) — the band's announced final studio album. Ludwig Vistalite acrylic drums, Sabian HHX/AAX cymbals, DW 9000 pedals.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-06-27",
+          "dateModified": "2026-06-27"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Lighting Up the Sky",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Godsmack"
+          },
+          "datePublished": "2023-02-24",
+          "genre": "Hard Rock",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "BMG"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "You and I"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Surrender"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Hell's Not Dead"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Soul on Fire"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Let It Out"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Truth (I Stand Alone)"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "You've Been Decided"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Lighting Up the Sky"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Shannon Larkin",
+          "birthDate": "1967-04-24",
+          "birthPlace": "Baltimore, Maryland",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Godsmack"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What kit does Shannon Larkin use on Lighting Up the Sky?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Godsmack's Lighting Up the Sky (2023), Shannon Larkin played a Ludwig Vistalite acrylic drum kit — clear acrylic shells in his standard double 22\" bass drum configuration with 10\" and 12\" rack toms and 14\" and 16\" floor toms. The Ludwig Vistalite is a revival of the iconic 1970s acrylic design made famous by John Bonham of Led Zeppelin, producing a bright, high-projection sound distinct from the wood shells Larkin used on prior Godsmack studio albums. It represents his most recent and most historically resonant kit choice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals did Godsmack use in 2023?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shannon Larkin used Sabian HHX and AAX series cymbals on Godsmack's Lighting Up the Sky (2023). The setup includes Sabian AAX 14\" Stage Hi-Hats for bright, cutting rhythmic drive, Sabian HHX 17\" and 19\" Evolution Crashes for accent voices, the Sabian HHX 21\" Raw Bell Dry Ride for time-keeping, an HHX 18\" Chinese for trash accents, and an AAX 10\" Splash for quick effects. This HHX/AAX dual-series configuration continues the cymbal setup Larkin developed through the When Legends Rise (2018) period. Shannon Larkin has been a Sabian endorsee throughout his entire Godsmack career."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "When was Godsmack's last album released?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Godsmack's most recent and final studio album, Lighting Up the Sky, was released on February 24, 2023, through BMG. It is the band's eighth studio album and was announced as their farewell record, closing a studio career that began with their self-titled debut in 1998. The album reached #1 on US active rock radio and features Shannon Larkin on drums — his last Godsmack studio recording after joining the band in 2002 for Faceless (2003)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How does Shannon Larkin's kit on Lighting Up the Sky compare to When Legends Rise?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Shannon Larkin's most notable gear change between When Legends Rise (2018) and Lighting Up the Sky (2023) is the kit itself: Pearl Reference Pure pure maple shells on WLR versus Ludwig Vistalite clear acrylic on the 2023 album. The Vistalite's acrylic construction produces a brighter, more cutting, higher-projection sound than the Pearl maple shells' warmth. The Sabian HHX/AAX cymbal configuration, DW 9000 double bass pedal, and Vater signature sticks remain consistent between the two eras, maintaining the core sonic identity while the kit provides the new tonal character of the final record."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "faq": [
+      {
+        "question": "What kit does Shannon Larkin use on Lighting Up the Sky?",
+        "answer": "On Godsmack's Lighting Up the Sky (2023), Shannon Larkin played a Ludwig Vistalite acrylic drum kit — clear acrylic shells in his standard double 22\" bass drum configuration with 10\" and 12\" rack toms and 14\" and 16\" floor toms. The Ludwig Vistalite is a revival of the iconic 1970s acrylic design made famous by John Bonham of Led Zeppelin. See the full [Shannon Larkin drummer profile](/drummer/shannon-larkin) for his complete career and gear overview."
+      },
+      {
+        "question": "What cymbals did Shannon Larkin use on Lighting Up the Sky?",
+        "answer": "Shannon Larkin used Sabian HHX and AAX series cymbals on Godsmack's Lighting Up the Sky (2023): Sabian AAX 14\" Stage Hi-Hats, Sabian HHX 17\" and 19\" Evolution Crashes, Sabian HHX 21\" Raw Bell Dry Ride, Sabian HHX 18\" Chinese, and Sabian AAX 10\" Splash. This HHX/AAX dual-series configuration is the refined setup he developed through the When Legends Rise (2018) period. See the [Shannon Larkin complete gear guide](/articles/shannon-larkin-drum-setup) for his full Sabian setup."
+      },
+      {
+        "question": "When was Godsmack's last album released?",
+        "answer": "Godsmack's most recent and final studio album, Lighting Up the Sky, was released on February 24, 2023, through BMG. It is the band's eighth studio album and was announced as their farewell record. Shannon Larkin drums throughout — his final Godsmack studio recording after joining the band in 2002. See the [When Legends Rise drum setup article](/articles/when-legends-rise-drum-setup) for the previous (2018) album comparison."
+      },
+      {
+        "question": "What pedals does Shannon Larkin use on Godsmack's final album?",
+        "answer": "Shannon Larkin uses the DW 9000 Series Double Bass Pedal on Lighting Up the Sky (2023) and throughout the post-2010 Godsmack period. The DW 9000's chain-drive mechanism and adjustable cam deliver the smooth, consistent feel his groove-forward hard rock double-kick patterns require. It is one of the most trusted flagship double bass pedals in professional rock and metal drumming."
+      }
+    ],
+    "conclusion": {
+      "title": "The Final Arc: Lighting Up the Sky and the Close of Godsmack's Studio Legacy",
+      "content": "*Lighting Up the Sky* (2023) closes the Godsmack studio catalog with one of the most deliberate gear statements of Shannon Larkin's career. The Ludwig Vistalite kit — clear acrylic shells with the lineage of John Bonham's legendary 1970s setup — represents a return to hard rock's foundational iconography for the band's farewell record. It is simultaneously Larkin's most historically resonant kit choice and his most immediately distinctive, producing a bright, projecting, unmistakable drum sound that suits the album's active rock radio ambitions and its final-statement emotional weight.\n\n**The Complete Godsmack Drum Arc:**\nThe journey from *Faceless* (2003) to *Lighting Up the Sky* (2023) documents one of hard rock's most sustained and commercially significant drummer-band relationships. The gear tells the story album by album:\n\n- **[Faceless (2003)](/articles/faceless-drum-setup):** Tama Starclassic Maple — Larkin's first Godsmack studio album, #1 Billboard 200\n- **[IV (2006)](/articles/godsmack-iv-drum-setup):** Pearl Reference — heavier direction, #2 Billboard 200\n- **The Oracle (2010):** Pearl Reference — third consecutive top-3 Billboard 200 debut, #1\n- **1000hp (2014):** DW Collector's Series — refined touring machine\n- **[When Legends Rise (2018)](/articles/when-legends-rise-drum-setup):** Pearl Reference Pure — most polished production, #1 Mainstream Rock\n- **Lighting Up the Sky (2023):** Ludwig Vistalite — the farewell statement, #1 US rock radio\n\nEach kit marks a phase of a career built on power, pocket, and hard rock authenticity. The Vistalite is the final entry in that progression — and the one that most clearly signals where Larkin's drumming roots lie: the big, authoritative, historically grounded hard rock kit.\n\n**For Drummers Studying Lighting Up the Sky:**\nStart with \"Surrender\" — Larkin's most commercially direct groove on the album, built on the Vistalite's immediate projection and the DW 9000's reliable double-kick foundation. Then work through the title track for the mid-tempo authority that characterizes Godsmack's hard rock approach at its most confident. The Ludwig Vistalite's sound rewards players who prioritize power and presence over subtlety: drive the drums and they respond.\n\nFor the complete Shannon Larkin gear and career profile, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin) and the [full Shannon Larkin gear breakdown](/articles/shannon-larkin-drum-setup). For hard rock drumming peers in the same commercial crossover tradition, explore [Ray Luzier's gear guide](/drummer/ray-luzier).\n\n🥁 *The final album. The Vistalite era. Twenty-one years of Godsmack drumming, closed on a historically resonant note.* 🤘"
+    }
   }
 };
 export default articles;

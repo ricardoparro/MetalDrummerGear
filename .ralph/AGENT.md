@@ -42,6 +42,17 @@ packages/
 - Run app in browser: `npm run frontend` then press `w`
 - Test API: `curl http://localhost:3001/api/drummers`
 
+## Data Modules
+- **Album drum-setup articles** are split into per-drummer modules. Add a new
+  article to `packages/frontend/data/albumArticles/<drummer-slug>.js` (create the
+  file if the drummer has no module yet — slug = drummer name lowercased with
+  non-alphanumeric runs collapsed to `-`; use `various` for programmed/no-drummer
+  entries), then register the module in `packages/frontend/data/albumArticles/index.js`
+  (one `import` + one spread line). Do **NOT** append to
+  `packages/frontend/data/albumArticles.js` — it is now a thin barrel that
+  re-exports the composed `ALBUM_ARTICLES` map (and helper functions) unchanged.
+  This mirrors the `packages/frontend/data/licks/` per-drummer layout.
+
 ## When Fixing Issues
 1. Read the issue description carefully
 2. Check existing code structure

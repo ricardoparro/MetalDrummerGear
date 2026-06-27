@@ -151,8 +151,14 @@ import { gearDatabase } from './data/gear';
 
 ### Step 4: Create Article File
 ```bash
-# Add to packages/frontend/data/albumArticles.js
-# OR create new article type file
+# Album drum-setup articles live in per-drummer modules. Add the new entry to
+# packages/frontend/data/albumArticles/<drummer-slug>.js (create the file if the
+# drummer has no module yet — slug = drummer name lowercased, non-alnum -> '-';
+# use 'various' for programmed/no-drummer), then register the module in
+# packages/frontend/data/albumArticles/index.js (one import + one spread line).
+# Do NOT append to packages/frontend/data/albumArticles.js — it is now a thin
+# barrel that re-exports the composed map.
+# OR create new article type file for non-album content.
 ```
 
 ### Step 5: Update Sitemap
@@ -228,8 +234,8 @@ git push origin article/[slug]
 ## Commands
 
 ```bash
-# Check existing articles
-ls packages/frontend/data/albumArticles.js
+# Check existing articles (per-drummer modules under albumArticles/)
+ls packages/frontend/data/albumArticles/
 
 # Search for drummer data
 grep -n "drummerId" packages/frontend/data/

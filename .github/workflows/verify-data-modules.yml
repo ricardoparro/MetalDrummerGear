@@ -1,0 +1,35 @@
+name: Verify Data Modules
+
+# Pre-merge gate: ensure core data modules still load as ES modules with sane
+# entry counts. Catches the "stray `};` closes the object early" class of bug
+# that `node --check` (script-mode parse) misses but production `import()` hits.
+# See scripts/verify-data-modules.mjs for the rationale.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, 'claude/**', 'ralph/**']
+    paths:
+      - '.github/workflows/verify-data-modules.yml'
+      - 'scripts/verify-data-modules.mjs'
+      - 'packages/frontend/data/**'
+  pull_request:
+    paths:
+      - '.github/workflows/verify-data-modules.yml'
+      - 'scripts/verify-data-modules.mjs'
+      - 'packages/frontend/data/**'
+
+permissions:
+  contents: read
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    name: Verify data modules load
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Import-assert core data modules
+        run: node scripts/verify-data-modules.mjs

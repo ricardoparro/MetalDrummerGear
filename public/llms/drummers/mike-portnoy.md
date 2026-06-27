@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/mike-portnoy"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-06-27"
 ---
 
 # Mike Portnoy — Drum Kit & Gear Setup
@@ -29,7 +29,11 @@ Mike Portnoy's drum kit and gear setup. Mike Portnoy is a professional metal dru
 
 ## Kit Overview
 
-Mike Portnoy plays a Tama Starclassic Maple/Birch kit anchored by his signature Melody Master snare (14x5.5"), with Sabian HHX Evolution cymbals including 14" Evolution Hi-Hats, 18" and 19" Evolution Crashes, a 21" Raw Bell Dry Ride, and Evolution Splashes. His Tama Iron Cobra Power Glide double pedal and 1st Chair Ergo-Rider throne complete a setup refined over decades of progressive metal innovation with Dream Theater and beyond.
+Mike Portnoy plays a Tama Starclassic Maple/Birch drum kit — a hybrid shell he selected for its tonal balance between maple's warmth and birch's articulate attack, well-suited to progressive metal's dynamic range. The defining component of the Mike Portnoy drum set is his Tama Melody Master signature snare (14×5.5"): a steel shell tuned for a punchy, cutting crack that sits clearly in Dream Theater's densely layered arrangements.
+
+Sabian HHX Evolution cymbals complete the Mike Portnoy drum kit: 14" Evolution Hi-Hats provide bright, responsive feel for complex hi-hat work across odd time signatures; 18" and 19" Evolution Crashes deliver staggered attack; a 21" Raw Bell Dry Ride gives stick definition on intricate ride passages; and 10" and 12" Evolution Splashes plus a 19" O-Zone Crash add punchy accents. A Tama Iron Cobra Power Glide double pedal drives his demanding double-bass lines, and a Tama 1st Chair Ergo-Rider throne supports marathon performances exceeding three hours.
+
+The Mike Portnoy drum set configuration has served across Dream Theater (1985–2010, 2023–present), The Winery Dogs, Sons of Apollo, Transatlantic, and Liquid Tension Experiment — each demanding adaptability from the same core rig. His Promark Mike Portnoy Signature TX420N drumsticks are heavier than average, chosen for the power progressive metal's complex, high-tempo compositions require.
 
 ## Biography
 
@@ -62,6 +66,22 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
 - Score - Full Concert Drum & Vox Cam (Official) (2006)
 
 ## Frequently Asked Questions
+
+**Q: What drum kit does Mike Portnoy use?**
+
+A: Mike Portnoy uses a Tama Starclassic Maple/Birch drum kit with his signature Tama Melody Master snare (14x5.5"), Sabian HHX Evolution cymbals (14" Evolution Hi-Hats, 18" and 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" and 12" Evolution Splashes, 19" O-Zone Crash), and a Tama Iron Cobra Power Glide double pedal. His kit also features a Tama 1st Chair Ergo-Rider throne for extended performances.
+
+**Q: What drum set does Mike Portnoy use?**
+
+A: Mike Portnoy's drum set is a Tama Starclassic Maple/Birch with multiple rack toms and floor toms configured for progressive metal. His drum set includes Promark Mike Portnoy Signature TX420N drumsticks and is set up for theatrical stage presence — a configuration he has used across Dream Theater, The Winery Dogs, Sons of Apollo, and Liquid Tension Experiment.
+
+**Q: What cymbals does Mike Portnoy use?**
+
+A: Mike Portnoy uses Sabian HHX Evolution Series cymbals: 14" Evolution Hi-Hats, 18" and 19" Evolution Crashes, a 21" Raw Bell Dry Ride, 10" and 12" Evolution Splashes, and a 19" O-Zone Crash. The HHX Evolution series delivers a bright, cutting tone that projects clearly in progressive metal's dense, layered arrangements.
+
+**Q: What bass drum pedal does Mike Portnoy use?**
+
+A: Mike Portnoy uses a Tama Iron Cobra Power Glide double bass drum pedal. The Power Glide model gives him the fluid, controlled double bass action needed for Dream Theater's complex rhythmic passages, including the demanding double kick sections in tracks like "Panic Attack" and "The Dance of Eternity."
 
 **Q: What drums does Mike Portnoy play?**
 

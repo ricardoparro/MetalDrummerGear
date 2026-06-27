@@ -29,9 +29,9 @@ Danny Carey's drum kit and gear setup. Danny Carey is a professional metal drumm
 
 ## Kit Overview
 
-Danny Carey's kit is one of the most architecturally complex in metal, built on a Sonor SQ2 Heavy Beech shell pack — chosen for its warm, articulate tone at loud dynamics — and anchored by his oversized Sonor signature bronze snare (14x8") that delivers the fat, cutting crack defining Tool's rhythmic presence. Extending beyond standard tom configurations, Carey adds Octobans: eight small single-headed cylindrical drums tuned chromatically and mounted in an arc above the kit for melodic rim-shot and pitched accent hits. LP Bongo Drums complete the percussion palette, reflecting his interest in Afro-Cuban and world-music textures embedded in Tool's polyrhythmic structures.
+Danny Carey plays a Sonor SQ2 Heavy Beech drum kit — one of the most architecturally complex setups in metal, chosen for its warm, articulate tone at loud dynamics. The centerpiece of the Danny Carey drum set is his oversized Sonor signature bronze snare (14x8") that delivers the fat, cutting crack defining Tool's rhythmic presence. Extending beyond standard tom configurations, Carey adds Octobans: eight small single-headed cylindrical drums tuned chromatically and mounted in an arc above the kit for melodic rim-shot and pitched accent hits. LP Bongo Drums complete the percussion palette, reflecting his interest in Afro-Cuban and world-music textures embedded in Tool's polyrhythmic structures.
 
-Paiste Signature Series cymbals define the tonal landscape: 15" Sound Edge Hi-Hats for an open, washy wash on odd-time grooves; 18" and 19" Power Crashes that cut through dense guitar walls; a 22" Dry Heavy Ride offering dark, controlled articulation; and 20" and 22" Chinas plus Rude crashes for explosive accents. A Sonor Giant Step Twin Effect double pedal drives fluid double-bass lines, while Mandala Drum electronic pads trigger melodic samples central to Tool's sonic identity.
+Paiste Signature Series cymbals define the tonal landscape of the Danny Carey drum kit: 15" Sound Edge Hi-Hats for an open, washy feel on odd-time grooves; 18" and 19" Power Crashes that cut through dense guitar walls; a 22" Dry Heavy Ride offering dark, controlled articulation; and 20" and 22" Chinas plus Rude crashes for explosive accents. A Sonor Giant Step Twin Effect double pedal drives fluid double-bass lines, while Mandala Drum electronic pads trigger melodic samples central to Tool's sonic identity.
 
 The rig has evolved across two landmark eras: on Lateralus (2001), Carey used a Sonor SQ2 with nascent Mandala integration to build Fibonacci-sequence polyrhythms; on Fear Inoculum (2019), he expanded the configuration with additional Chinas, Rude crashes, and a deeper electronics rig, producing the cinematic, ambient sound that defines Tool's most recent release.
 
@@ -67,7 +67,11 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
 
 **Q: What drum kit does Danny Carey use?**
 
-A: Danny Carey uses a Sonor SQ2 Heavy Beech kit with a Sonor signature bronze snare (14x8"), Paiste Signature Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas), Octobans, LP Bongo Drums, and Mandala Drum electronic pads.
+A: Danny Carey uses a Sonor SQ2 Heavy Beech drum kit with a Sonor signature bronze snare (14x8"), Paiste Signature Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas), Octobans, LP Bongo Drums, and Mandala Drum electronic pads.
+
+**Q: What drum set does Danny Carey use?**
+
+A: Danny Carey's drum set is a Sonor SQ2 Heavy Beech kit configured with multiple rack toms and floor toms, a Sonor signature bronze snare (14x8"), Octobans, LP Bongo Drums, and Mandala Drum electronic pads. This expanded drum set has been the foundation of Tool's sound since the Undertow era, growing more complex with each album cycle through Fear Inoculum (2019).
 
 **Q: What cymbals does Danny Carey use?**
 

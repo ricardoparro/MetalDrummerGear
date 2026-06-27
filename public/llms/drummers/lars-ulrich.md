@@ -6,7 +6,7 @@ country: "Denmark"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/lars-ulrich"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-06-27"
 ---
 
 # Lars Ulrich — Drum Kit & Gear Setup
@@ -28,7 +28,11 @@ Lars Ulrich's drum kit and gear setup. Lars Ulrich is a professional metal drumm
 
 ## Kit Overview
 
-Lars Ulrich plays a Tama Starclassic Maple kit with his signature LU1465 snare (14x6.5"), topped with Zildjian A Custom cymbals — including 14" Dyno Beat Hi-Hats, 16"/17"/18" Rock Crashes, 20" Z Custom China, and a 22" Ride. His Tama Iron Cobra 900 Power Glide double pedal drives the thunderous low-end that has powered Metallica albums from the Black Album through 72 Seasons.
+Lars Ulrich plays a Tama Starclassic Maple drum kit — the setup he has refined over three decades as Metallica's founding drummer. The centerpiece of the Lars Ulrich drum set is the LU1465 signature snare drum: a 14×6.5" steel shell tuned to cut through Metallica's wall of guitars, paired with Remo drumheads for maximum resonance and attack. His 22" kick drum is driven by a Tama Iron Cobra 900 Power Glide double pedal — the same configuration heard on Metallica recordings from the Black Album through 72 Seasons.
+
+Zildjian A Custom cymbals have defined the Lars Ulrich drum kit since the 1996 Load sessions: 14" Dyno Beat Hi-Hats for a tight chick sound on thrash grooves; 16", 17", and 18" Rock Crashes for rapid-attack accents; a 20" Z Custom China for explosive punctuation; and a 22" Ride that cuts through Metallica's dense mix. Ahead Lars Ulrich Signature aluminum sticks complete the rig — selected for their extraordinary durability on global arena tours.
+
+The Lars Ulrich drum set has remained stable in its Tama/Zildjian configuration since Death Magnetic (2008), carrying through Hardwired…to Self-Destruct (2016) and 72 Seasons (2023). Before Tama, Ulrich played Camco and Ludwig kits in Metallica's early thrash years — making his four-decade Tama partnership one of the most consistent endorsement relationships in heavy metal history.
 
 ## Gear Evolution by Album Era
 
@@ -72,6 +76,22 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
 - Enter Sandman - S&M Lars Cam (1999)
 
 ## Frequently Asked Questions
+
+**Q: What drum kit does Lars Ulrich use?**
+
+A: Lars Ulrich uses a Tama Starclassic Maple drum kit with his signature LU1465 snare drum (14x6.5" steel), Zildjian A Custom cymbals (14" Dyno Beat Hi-Hats, 16"/17"/18" Rock Crashes, 20" Z Custom China, 22" Ride), and a Tama Iron Cobra 900 Power Glide double pedal. He has used Tama drums since the mid-1980s and Zildjian A Custom cymbals since the Load sessions in 1996.
+
+**Q: What drum set does Lars Ulrich use?**
+
+A: Lars Ulrich's drum set is a Tama Starclassic Maple configured with 10", 12", 13", and 16" toms and a 22" bass drum, anchored by his LU1465 signature snare (14x6.5" steel shell). His drum set also features Ahead Lars Ulrich Signature aluminum drumsticks and Remo drumheads — the same setup used on Metallica's Death Magnetic, Hardwired…to Self-Destruct, and 72 Seasons albums.
+
+**Q: What cymbals does Lars Ulrich use?**
+
+A: Lars Ulrich uses Zildjian A Custom Series cymbals: 14" Dyno Beat Hi-Hats, 16", 17", and 18" Rock Crashes, a 20" Z Custom China, and a 22" Ride. He switched to A Custom cymbals from standard Zildjian A during Metallica's Load sessions in 1996, and they have remained his primary cymbal choice ever since.
+
+**Q: What bass drum pedal does Lars Ulrich use?**
+
+A: Lars Ulrich uses a Tama Iron Cobra 900 Power Glide double bass drum pedal. The Power Glide cam system gives a smoother, more fluid double kick action, supporting the double bass patterns Lars plays on tracks like "Battery" and "Master of Puppets."
 
 **Q: What drums does Lars Ulrich play?**
 

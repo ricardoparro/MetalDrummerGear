@@ -1079,6 +1079,29 @@ export const drummerComparisons = {
     ],
   },
 
+  // Issue #2904: SEO batch 32 — Sepultura Then vs Now
+  'eloy-casagrande-vs-igor-cavalera': {
+    slug: 'eloy-casagrande-vs-igor-cavalera',
+    title: 'Eloy Casagrande vs Igor Cavalera',
+    metaTitle: 'Eloy Casagrande vs Igor Cavalera — Sepultura Then vs Now | MetalForge',
+    metaDescription: 'Sepultura\'s Eloy Casagrande (now Metallica) vs founding drummer Igor Cavalera. The Sepultura drumming throne across two eras — modern precision vs primal groove-thrash. Gear, technique, and legacy analyzed.',
+    category: 'thrash',
+    drummers: ['eloy-casagrande', 'igor-cavalera'],
+    comparison: {
+      style: 'Eloy Casagrande brought modern technical precision and death metal intensity to Sepultura\'s later era before joining Metallica in 2024 — his playing fuses Brazilian thrash roots with contemporary speed and locked-in groove. Igor Cavalera built Sepultura\'s iconic tribal-thrash identity from the ground up — his drumming on *Chaos A.D.* and *Roots* introduced Afro-Brazilian rhythms and groove-metal authority to a global metal audience.',
+      technique: 'Eloy combines death metal speed and double bass fluency with locked-in groove — his ability to adapt across Sepultura\'s catalog and later Metallica\'s 40-year range demonstrates extraordinary musical versatility. Igor invented the tribal-metal fusion that defines Sepultura\'s classic era, incorporating Brazilian folk percussion, marching rhythms, and thrash aggression into a single unmistakable style.',
+      gear: 'Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals, a Tama Bell Brass snare, and Tama Iron Cobra double pedals with Promark Eloy Casagrande Signature sticks. Igor Cavalera played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals and Tama Iron Cobra pedals throughout his Sepultura tenure.',
+      influence: 'Eloy modernized Sepultura\'s drumming across the 2010s and earned global visibility when his Metallica appointment was announced in 2024 — instantly the most-watched new metal drummer in the world. Igor defined Brazilian metal and influenced global thrash — Sepultura\'s tribal-metal fusion on *Roots* (1996) introduced Afro-Brazilian rhythms to the international metal mainstream and spawned an entire sub-genre.',
+    },
+    verdict: 'Igor Cavalera is the primal architect — his tribal-thrash drumming gave Sepultura their global identity and introduced Brazilian rhythmic traditions to heavy metal\'s worldwide audience. Eloy Casagrande is the technical successor — precision-first, groove-defined, and now carrying one of metal\'s heaviest catalogs at Metallica. Same throne, two completely different eras.',
+    faqs: [
+      { q: 'How different is Sepultura\'s drumming now versus the 1990s?', a: 'Igor Cavalera\'s 1990s Sepultura drumming was tribal and primal — fusing Brazilian folk percussion with thrash aggression on Chaos A.D. and Roots. Eloy Casagrande\'s modern Sepultura drumming is more technically precise and death metal-influenced. The groove DNA is shared, but Igor\'s sound is raw and earthy; Eloy\'s is clean and technically demanding.' },
+      { q: 'What gear does Eloy Casagrande use vs Igor Cavalera?', a: 'Eloy Casagrande plays Tama Starclassic Bubinga drums with Paiste cymbals, a Tama Bell Brass snare, and Tama Iron Cobra double pedals. Igor Cavalera played Tama Starclassic Maple drums with Paiste RUDE and 2002 cymbals and Tama Iron Cobra pedals during his Sepultura tenure.' },
+      { q: 'Why did Eloy Casagrande join Metallica?', a: 'Eloy Casagrande joined Metallica in 2024 after departing Sepultura. His thrash metal roots, technical precision, and ability to handle a demanding 40-year catalog made him the ideal candidate for one of metal\'s most scrutinized drum chairs.' },
+      { q: 'Who is the better Sepultura drummer: Igor Cavalera or Eloy Casagrande?', a: 'Igor Cavalera co-created Sepultura\'s iconic sound — his tribal-thrash identity is irreplaceable in the band\'s classic era. Eloy Casagrande honored that legacy while adding modern technical depth. Both are essential to understanding Sepultura\'s complete story.' },
+    ],
+  },
+
   // Issue #2882: SEO batch 29 — Nu-metal/groove peers (Limp Bizkit vs Godsmack)
   'john-otto-vs-shannon-larkin': {
     slug: 'john-otto-vs-shannon-larkin',

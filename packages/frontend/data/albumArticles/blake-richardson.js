@@ -1,5 +1,591 @@
 // Album drum-setup articles — Blake Richardson. Auto-split from the former monolith.
 export const articles = {
+  "alaska-drum-setup": {
+    "slug": "alaska-drum-setup",
+    "albumTitle": "Alaska",
+    "artist": "Between the Buried and Me",
+    "drummer": "Blake Richardson",
+    "drummerId": 29,
+    "relatedDrummerSlug": "blake-richardson",
+    "year": 2005,
+    "genre": "Progressive Metal / Technical Metal",
+    "label": "Victory Records",
+    "studio": "The Basement Studio, Winston-Salem, NC",
+    "producer": "Jamie King",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Blake Richardson's Drum Setup on Between the Buried and Me's Alaska (2005)",
+    "description": "Blake Richardson's drum kit and gear on BTBAM's breakthrough album Alaska (2005): DW Collector's Series drums, Meinl Byzance cymbals, DW 9002 double pedal, and the metric modulation approach that defined a new progressive metal voice.",
+    "seoKeywords": [
+      "alaska drum setup",
+      "between the buried and me alaska drums",
+      "blake richardson alaska",
+      "btbam alaska drummer",
+      "alaska 2005 drum kit",
+      "blake richardson dw collector's series",
+      "between the buried and me drummer gear",
+      "alaska btbam gear"
+    ],
+    "ogImage": "/images/drummers/blake-richardson.webp",
+    "intro": {
+      "title": "Alaska: The Album That Announced Blake Richardson",
+      "content": "Released in 2005 on Victory Records, Alaska is the Between the Buried and Me album that announced what this band — and this drummer — were capable of. BTBAM had released their self-titled debut in 2002 and The Silent Circus in 2003, but Alaska was the record that fused their hardcore roots with progressive metal ambition at a scale that demanded the genre's attention. Seventy-three minutes of music spanning death metal blast beats, jazz interludes, acoustic passages, and extended compositional arcs — all held together by a drummer who had joined the band in 2004 and was, on this album, staking his claim as one of progressive metal's most important practitioners.\n\nBlake Richardson was 20 years old when Alaska was recorded. His performance across the album's nine tracks reveals a drummer who had already internalized the fundamental creative principle that would define his career: the drums are a compositional instrument, not a timekeeper. Alaska is the earliest document of Richardson's odd-time integration, his metric modulation thinking, and his ability to serve arrangements that move through radically different feels within a single extended track. The technical demands are real, but the musical intelligence behind the technique is what makes Alaska a drumming study rather than merely a technical exercise.\n\nGear-wise, Richardson was operating in what would become the foundational DW configuration of his career. The DW Collector's Series kit — all-maple shells, precise tolerances, wide dynamic range — gave him the versatile foundation progressive metal requires. Meinl Byzance cymbals were already establishing the dark, hand-hammered tonal character that would remain central to his setup across two decades. The DW 9002 double bass pedal provided the compositional kick framework that drives Alaska's most intense passages.\n\nJamie King — BTBAM's longtime producer, recording at The Basement Studio in Winston-Salem — captured the kit with the clarity and room ambience that suited a 73-minute record built on compositional dynamics. King's approach on Alaska was to serve the music's emotional range: close, tight drum sound for the intense metal passages, more ambient room character for the quiet interludes that precede BTBAM's most dramatic transitions. The result is a drum recording that breathes with the arrangement rather than sitting in a single compressed texture.\n\nThis article breaks down the complete drum setup Blake Richardson used on Alaska, the recording approach Jamie King brought to The Basement Studio, and how Richardson's foundational technique on this 2005 record established the progressive metal voice he would develop across Colors (2007), The Parallax II (2012), and beyond.",
+      "keyPoints": [
+        "BTBAM's breakthrough album — 73 minutes of progressive metal spanning death metal, jazz, and ambient textures",
+        "Blake Richardson's foundational DW Collector's Series configuration — the setup that became the Colors era foundation",
+        "Meinl Byzance Extra Dry cymbals — dark, hand-hammered character established as the BTBAM cymbal voice",
+        "DW 9002 double bass pedal for compositional double-kick deployment across BTBAM's most intense passages",
+        "Produced by Jamie King at The Basement Studio, Winston-Salem — Richardson's home studio for two decades",
+        "Richardson's earliest documented metric modulation and odd-time integration at full progressive metal scale"
+      ]
+    },
+    "drumKit": {
+      "title": "DW Collector's Series: The Foundation of BTBAM's Progressive Metal Sound",
+      "brand": "DW",
+      "model": "DW Collector's Series",
+      "finish": "Custom lacquer finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (double bass configuration via DW 9002 pedal)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 14\" Floor Tom"
+        ],
+        "shells": "All-maple shells — warm, resonant, wide dynamic range suited to progressive metal's full spectrum"
+      },
+      "description": "Blake Richardson's DW Collector's Series kit on Alaska was the foundational configuration that would anchor BTBAM's sound through the Colors era (2007) and beyond. DW's Collector's Series uses all-maple shells with North American Hard Rock Maple construction — a material choice that delivers warmth, resonance, and a midrange character well-suited to progressive metal's dynamic requirements. Where harder shells (birch, maple with reinforcement rings) emphasize attack and cutting power, the Collector's Series maple produces a fuller fundamental tone that carries through both intimate acoustic passages and dense metal arrangements.\n\nThe single bass drum configuration — a 22\"x18\" kick driven by the DW 9002 double pedal rather than two separate drums — was Richardson's approach on Alaska. This allows a single-kick fundamental while maintaining full double-bass capability: the 9002's two-pedal mechanism drives the same head with independent beaters, creating the double-kick patterns that underpin Alaska's most intense passages without the setup complexity of a true two-bass configuration. This approach was consistent with Richardson's compositional philosophy: double-bass as a tool deployed contextually rather than as a constant running eighth-note foundation.\n\nThree rack toms (10\", 12\", 13\") and one floor tom (16\") give Richardson the wide tonal range his fill architecture demands. On Alaska, tom fills function compositionally: they mark section boundaries, prepare genre transitions, and carry melodic intervals that echo the guitar arrangements. The Collector's Series maple's warm fundamental makes these melodic fill sequences sound musical rather than purely rhythmic. Jamie King's production at The Basement captured the toms with enough ambient room character to let the natural shell decay function as a compositional element during quieter passages.\n\nThe all-maple Collector's Series shells also provided durability for the intensive touring cycle that followed Alaska's release. BTBAM was an active touring band through 2005-2006, and the kit needed to perform consistently across club stages and festival venues at varied humidity levels. DW's shell construction and hardware tolerances were built for exactly this kind of professional touring demand.",
+      "notes": [
+        "DW Collector's Series — all-maple shells for warm, resonant progressive metal tone across Alaska's dynamic range",
+        "Single 22\"x18\" bass drum with DW 9002 double pedal — compositional double-bass without two-drum complexity",
+        "Three rack toms (10\", 12\", 13\") for melodic fill sequences marking BTBAM's genre transitions",
+        "Jamie King's Basement Studio production captured natural shell decay as compositional element",
+        "Setup established the DW foundation that continued through Colors (2007) and Parallax eras"
+      ],
+      "estimatedValue": "$3,500–6,000 (DW Collector's Series shell pack, 2005 configuration)"
+    },
+    "snare": {
+      "title": "DW Collector's Maple: Versatility Across Alaska's Dynamic Range",
+      "brand": "DW",
+      "model": "DW Collector's Series Maple Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "North American Hard Rock Maple",
+      "description": "Richardson's primary snare on Alaska was a DW Collector's Series maple snare — the same model that would remain his studio and touring snare through the Colors and Parallax eras. The 14\"x6.5\" maple configuration delivers a warm, authoritative crack that sits well in BTBAM's dense production: not as bright and cutting as a steel snare, not as focused and dry as a brass snare, but full and warm with enough presence to drive both blast beat passages and restrained groove sections without requiring different snares for different musical contexts.\n\nAlaska demands extraordinary snare versatility. The album moves within single tracks from extreme metal passages (where the snare needs to drive hard at full velocity) to jazz-inflected interludes (where ghost notes and cross-stick techniques require sensitivity and warmth at low velocities). The DW Collector's maple provides this versatility: tuned at medium tension, it delivers both the crack needed for intense sections and the tonal warmth required for quieter passages. The 6.5\" depth gives each stroke more body than a shallower shell, ensuring the snare maintains authority even during the album's most densely arranged moments.\n\nThe maple shell's ghost note definition is critical to Richardson's technique. His hi-hat and ghost note work — which appears throughout Alaska's more progressive passages — requires a snare that speaks clearly at low velocities without disappearing into the kit. The DW Collector's maple's warm midrange allows ghost notes to read as part of the rhythmic texture rather than as random noise beneath louder strokes.\n\nJamie King's snare capture at The Basement Studio typically combined a close SM57 with room character pulled from the overhead and room mics — giving the snare the natural body of the Collector's maple shell without artificial compression that would undermine Richardson's dynamic range.",
+      "tuningSetting": "Medium tension — full body for intense sections, warm responsiveness for ghost note work across Alaska's dynamic spectrum",
+      "heads": "Remo Ambassador Coated (batter), Remo Hazy Snare Side (resonant)",
+      "estimatedValue": "$400–700 (DW Collector's Series maple snare, 2005 configuration)"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance: Dark, Hand-Hammered, Progressive",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Extra Dry Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl Byzance 14\" Extra Dry Hi-Hats",
+          "position": "Left side",
+          "notes": "Dry, controlled hi-hat voice for articulate sixteenth-note patterns in BTBAM's densest rhythmic passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance Extra Dry 17\" Thin Crash",
+          "position": "Left crash",
+          "notes": "Fast, focused crash for accent punctuation in Alaska's intense progressive metal sections"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance Extra Dry 18\" Thin Crash",
+          "position": "Right crash",
+          "notes": "Slightly fuller crash voice for larger section accents and explosive transition moments"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Byzance Extra Dry 20\" Ride",
+          "position": "Far right",
+          "notes": "Dry, controlled ride — minimal wash for clean articulation in complex odd-time passages"
+        },
+        {
+          "type": "China",
+          "model": "Meinl Byzance 18\" China",
+          "position": "Over rack toms",
+          "notes": "Aggressive, upward-projecting accent for BTBAM's most extreme metal moments on Alaska"
+        }
+      ],
+      "description": "Blake Richardson's Meinl Byzance setup on Alaska established the dark, hand-hammered cymbal voice that would define BTBAM's sound across the band's progressive metal catalog. The Byzance line — Meinl's top-tier Turkish-style hand-hammered series — produces complex, warm overtones that machine-made cymbals cannot replicate. For a 73-minute album that moves through extreme metal, jazz, ambient passages, and progressive rock within single tracks, this tonal complexity is not decoration; it is functional.\n\nThe Extra Dry sub-series was Richardson's primary Byzance choice on Alaska. The Extra Dry process — additional lathing and hammering that removes excess wash and tightens the decay — produces cymbals that speak precisely under hard strokes and respond clearly at ghost-note velocities without sustaining into the next note. For BTBAM's rhythmically dense progressive metal passages, this controlled decay is critical: a washy cymbal obscures the metric modulations Richardson is executing, while an Extra Dry voice keeps each stroke's beginning and end clearly defined.\n\nThe 14\" Extra Dry Hi-Hats anchor Richardson's rhythmic vocabulary. His hi-hat work on Alaska is already demonstrating the jazz influence that would become central to his BTBAM identity: dense sixteenth-note ghost note patterns, frequent hi-hat foot independence as a melodic voice, and transitions between open and closed positions that create rhythmic texture beyond a simple timekeeping function. The Extra Dry character gives these demanding hi-hat patterns clarity without harshness.\n\nThe dual-crash configuration (17\" and 18\" Extra Dry Thin Crashes) gives Richardson two differentiated accent voices: a faster, more focused crash for quick accents in technical passages, and a slightly fuller voice for larger structural accents at section peaks. The Extra Dry Ride provides clean articulation through complex rhythmic passages where a washy ride would blur Richardson's odd-time patterns.\n\nThe Byzance China completes the setup as an aggressive accent tool for Alaska's most intense death metal passages. Used selectively — as punctuation rather than as a constant voice — the China delivers the upward-projecting attack that marks BTBAM's most extreme metal moments with appropriate aggression. The philosophy across the entire Byzance setup is the same: every cymbal exists to serve a specific musical function in BTBAM's range-spanning arrangements.",
+      "estimatedValue": "$2,000–3,500 (Meinl Byzance Extra Dry setup, 2005 configuration)"
+    },
+    "hardware": {
+      "title": "DW 9002 and Vic Firth 5B: The Foundation of Richardson's Technique",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "DW",
+          "model": "DW 9002 Double Bass Pedal",
+          "notes": "Chain-drive double pedal driving a single 22\" bass drum — Richardson's compositional double-kick tool",
+          "description": "The DW 9002 double bass pedal drives Richardson's single-kick double-bass configuration on Alaska. The 9002's chain-drive mechanism and adjustable cam deliver precise control over the power curve and return speed that Richardson's compositional kick approach requires — the ability to vary density from sparse single-strokes through dense double-bass runs within the same track. On Alaska's most intense passages, the 9002 provides the consistent mechanical response for fast, even double-bass patterns. On quieter sections, the same pedal's adjustability allows restrained single-foot techniques without switching hardware."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Hickory 5B — mass and control balanced for BTBAM's full dynamic range on Alaska",
+          "description": "Richardson plays Vic Firth American Classic 5B sticks — a balanced hickory design that has remained his stick choice across the entire BTBAM catalog. On Alaska, where the same performance might include full-force blast beat sections and delicate ghost-note interludes, the 5B's additional mass compared to a 5A provides projection and durability for the intense passages while the hickory construction's springback maintains enough sensitivity for the restrained sections."
+        },
+        {
+          "type": "Drumheads (Toms, Batter)",
+          "brand": "Remo",
+          "model": "Remo Ambassador Coated",
+          "notes": "Single-ply coated for natural tone and dynamic sensitivity across Alaska's wide velocity range"
+        },
+        {
+          "type": "Drumheads (Bass, Batter)",
+          "brand": "Remo",
+          "model": "Remo Powerstroke 3",
+          "notes": "Controlled attack with integrated ring damping — defined kick tone for double-kick patterns"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Ebony Pinstripe (resonant, ported)",
+        "toms": "Remo Ambassador Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Hazy Snare Side (resonant)"
+      }
+    },
+    "faq": [
+      {
+        "question": "What drums did Blake Richardson use on Between the Buried and Me's Alaska?",
+        "answer": "Blake Richardson played a DW Collector's Series kit on Alaska (2005) — BTBAM's breakthrough record. The DW Collector's Series uses North American Hard Rock Maple shells, delivering the warm, resonant tone that suited BTBAM's 73-minute progressive metal record spanning death metal, jazz, and ambient textures. The configuration featured a single 22\"x18\" bass drum driven by a DW 9002 double pedal, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+      },
+      {
+        "question": "What cymbals does Blake Richardson use on Alaska?",
+        "answer": "Blake Richardson used Meinl Byzance Extra Dry cymbals on Alaska (2005). The Extra Dry series — with controlled decay, minimal wash, and dry, focused attack — suited BTBAM's compositionally dense progressive metal arrangements where clean articulation in complex rhythmic passages was essential. His Alaska setup included 14\" Extra Dry Hi-Hats, 17\" and 18\" Extra Dry Thin Crashes, 20\" Extra Dry Ride, and an 18\" Byzance China for aggressive accent accents."
+      },
+      {
+        "question": "Who produced Between the Buried and Me's Alaska, and where was it recorded?",
+        "answer": "Alaska (2005) was produced by Jamie King at The Basement Studio in Winston-Salem, North Carolina. Jamie King is BTBAM's longtime producer, having worked with the band across most of their catalog. The Basement Studio is King's production facility, located in the same North Carolina city where BTBAM formed. King's production approach on Alaska captured the kit's natural dynamic range, giving Richardson's performances the room to breathe that a 73-minute progressive metal record demands."
+      },
+      {
+        "question": "Why is Alaska important in Blake Richardson's development as a drummer?",
+        "answer": "Alaska (2005) is the first full document of Blake Richardson's progressive metal voice at scale. It established his approach to odd-time integration (embedding 7/8, 5/4, and other non-4/4 signatures so naturally they don't feel mathematical), his compositional use of double-bass (varying kick density rather than running constant eighth-note rolls), and his jazz-influenced ghost note vocabulary. The 73-minute, genre-spanning format of Alaska required a drummer who could move between death metal, jazz, and ambient textures without losing compositional coherence — a set of demands that Richardson met and that laid the technical and musical foundation for Colors (2007), The Parallax II (2012), and the rest of the BTBAM catalog. See [The Parallax II drum setup](/articles/the-parallax-ii-future-sequence-drum-setup) for how this approach evolved."
+      }
+    ],
+    "relatedAlbums": [
+      "the-parallax-ii-future-sequence-drum-setup",
+      "coma-ecliptic-drum-setup",
+      "blake-richardson-drum-setup"
+    ],
+    "relatedArticles": [
+      "progressive-metal-drumming",
+      "odd-time-signatures-metal"
+    ],
+    "conclusion": {
+      "title": "Alaska: Where the BTBAM Voice Began",
+      "content": "Alaska (2005) is the document that announces what Between the Buried and Me would become. It is the earliest full-scale evidence of Blake Richardson's progressive metal voice: the metric modulation thinking, the compositional double-bass approach, the jazz-informed ghost note vocabulary, and the technical intelligence that serves the music rather than displaying technique.\n\nHis DW Collector's Series setup, Meinl Byzance Extra Dry cymbals, and DW 9002 double pedal established the gear foundation that would carry him through Colors (2007) and into the Parallax era — the most critically celebrated period in BTBAM's catalog. Alaska is where that foundation was first documented at full progressive metal scale.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Next album**: [The Parallax II: Future Sequence drum setup](/articles/the-parallax-ii-future-sequence-drum-setup)\n- **Career overview**: [Coma Ecliptic drum setup](/articles/coma-ecliptic-drum-setup)"
+    }
+  },
+  "the-parallax-ii-future-sequence-drum-setup": {
+    "slug": "the-parallax-ii-future-sequence-drum-setup",
+    "albumTitle": "The Parallax II: Future Sequence",
+    "artist": "Between the Buried and Me",
+    "drummer": "Blake Richardson",
+    "drummerId": 29,
+    "relatedDrummerSlug": "blake-richardson",
+    "year": 2012,
+    "genre": "Progressive Metal",
+    "label": "Metal Blade Records",
+    "studio": "The Basement Studio, Winston-Salem, NC",
+    "producer": "Jamie King",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Blake Richardson's Drum Setup on The Parallax II: Future Sequence (2012)",
+    "description": "Blake Richardson's drum kit and gear on BTBAM's The Parallax II: Future Sequence (2012): DW Collector's Series drums, expanded Meinl Byzance cymbal setup, and the peak of his compositional approach. Prog Magazine's 'album of the decade.'",
+    "seoKeywords": [
+      "the parallax ii drum setup",
+      "between the buried and me parallax drums",
+      "blake richardson parallax ii",
+      "btbam parallax ii drummer",
+      "the parallax ii future sequence drum kit",
+      "blake richardson 2012 drum setup",
+      "between the buried and me 2012 drums",
+      "telos drum setup btbam"
+    ],
+    "ogImage": "/images/drummers/blake-richardson.webp",
+    "intro": {
+      "title": "The Parallax II: Richardson at the Peak of His Compositional Voice",
+      "content": "Released October 9, 2012 on Metal Blade Records, The Parallax II: Future Sequence is Between the Buried and Me at their most compositionally ambitious — a 74-minute concept album and sequel to The Parallax: Hypersleep Dialogues EP (2011), exploring a science fiction narrative across eight extended tracks that together form one of progressive metal's most celebrated recordings. Prog Magazine named it album of the decade. It was the most critically acclaimed BTBAM record to that point, and it remains the most analyzed drum performance of Blake Richardson's career.\n\nThe Parallax II exists at the intersection of everything Richardson had built since Alaska (2005) and Colors (2007). His odd-time integration is at its most natural — signatures shift without announcement, feel without calculation. His metric modulation approach is most developed here: entire sections of tracks like 'Telos' and 'Lay Your Ghosts to Rest' build and release through reinterpreted pulse values that carry the listener from one feel to another without a single moment of dislocation. His ghost note vocabulary, his jazz-influenced hi-hat independence, his compositional use of double-bass density — all of these techniques appear on The Parallax II in their most refined form.\n\nThe gear on The Parallax II reflects the evolution from Alaska (2005). Richardson was in a refined version of his DW Collector's Series configuration — same shell design, more precisely dialed in after years of touring and recording. His Meinl Byzance setup had expanded to include both the Dark and Extra Dry sub-series, giving him a wider tonal palette: Dark voicings for the jazz-inflected passages, Extra Dry for the technically demanding rhythmic sections. The DW 9002 double pedal continued as his kick foundation.\n\nJamie King's production at The Basement Studio on The Parallax II is widely considered one of the finest drum recordings in modern progressive metal. The kit has presence, room, and weight — each component audible across the album's dense arrangements without fighting for space. King's production gave Richardson's dynamics the full expression they deserved: blast beat passages hit with authority, jazz interludes breathe with appropriate space, and the transitions between them feel natural rather than jarring.\n\nThis article breaks down every element of the drum setup Blake Richardson used on The Parallax II: Future Sequence — the kit, cymbals, hardware, and playing approach that made this 2012 record the defining document of his career.",
+      "keyPoints": [
+        "74-minute concept album — Prog Magazine's album of the decade, BTBAM's most critically celebrated record",
+        "Refined DW Collector's Series configuration — the Alaska/Colors foundation developed through seven years of touring",
+        "Expanded Meinl Byzance setup: Dark series added alongside Extra Dry for wider tonal vocabulary",
+        "DW 9002 double pedal — compositional kick approach at its most developed in tracks like Telos",
+        "'Telos' and 'Lay Your Ghosts to Rest' — most studied drum performances in BTBAM's catalog",
+        "Jamie King production at The Basement Studio — finest drum recording of Richardson's career to this point"
+      ]
+    },
+    "drumKit": {
+      "title": "DW Collector's Series: Seven Years Refined",
+      "brand": "DW",
+      "model": "DW Collector's Series",
+      "finish": "Custom lacquer finish, refined touring configuration",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (double bass via DW 9002 pedal)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 14\" Floor Tom"
+        ],
+        "shells": "North American Hard Rock Maple — warm, resonant, refined through years of touring post-Alaska"
+      },
+      "description": "By 2012, Blake Richardson's DW Collector's Series kit was precisely dialed in — the same shell design he had used on Alaska (2005) and Colors (2007), refined through seven years of intensive touring and studio work into the most precisely calibrated version of his foundational setup. The DW Collector's Series North American Hard Rock Maple shells deliver the warm fundamental tone that suits The Parallax II's dynamic requirements: full enough to carry through the album's densest arrangements, resonant enough to sing during the jazz-inflected and ambient passages, controlled enough to support Richardson's ghost note vocabulary without unmanageable overtones.\n\nThe shell configuration on The Parallax II is the same as on Alaska — 22\"x18\" bass drum, three rack toms (10\", 12\", 13\"), 16\" floor tom — with refinements in head selection and tuning that reflected seven years of learning exactly what this kit needed for BTBAM's arrangements. The rack tom layout is particularly important on The Parallax II: the 74-minute concept album's extended track structures rely on tom fills that carry melodic pitch intervals between sections, marking structural boundaries and preparing genre transitions. The three-rack-tom spread gives Richardson the wide tonal range these melodic fills require.\n\nJamie King's production at The Basement Studio on The Parallax II captures the kit with more ambient room character than earlier BTBAM records — a production choice that gives the drums space to breathe during the album's more expansive passages. The natural decay of the DW Collector's maple shells is audible in the mix: not as a problem to muffle, but as a compositional element that adds warmth and continuity during the transitions between BTBAM's genre-shifting sections.\n\nThe DW Collector's Series hardware — Pearl rack components augmenting the DW kit — provides the stability Richardson's extended performance demands. At 74 minutes of continuous compositional complexity, hardware consistency is not optional: every mounting, every stand, every bracket needs to hold position across the full performance without requiring adjustment. DW's professional hardware tolerances deliver exactly this kind of reliability.",
+      "notes": [
+        "DW Collector's Series refined over seven years from Alaska (2005) — same shells, more precisely calibrated",
+        "Three rack toms (10\", 12\", 13\") — melodic fill pitch range for BTBAM's structural section markers",
+        "Jamie King's Basement Studio production captures kit ambient room character on Parallax II",
+        "Hardware consistency critical for 74-minute concept album performance demands",
+        "Configuration continues through touring cycle post-Parallax II — the peak DW era in Richardson's career"
+      ],
+      "estimatedValue": "$3,500–6,000 (DW Collector's Series shell pack, 2012 configuration)"
+    },
+    "snare": {
+      "title": "DW Collector's Maple: Articulation in BTBAM's Most Dense Production",
+      "brand": "DW",
+      "model": "DW Collector's Series Maple Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "North American Hard Rock Maple",
+      "description": "Richardson's DW Collector's Series maple snare on The Parallax II is the same model that had driven Colors (2007) — a 14\"x6.5\" maple shell that delivers warm, authoritative crack without the harshness of steel or the brittleness of aluminum. By 2012, Richardson had this snare precisely tuned and understood for BTBAM's production requirements: medium tension giving body and sensitivity, Evans G2 Coated batter providing the two-ply control his dense ghost note work demands.\n\nThe Parallax II places extraordinary demands on Richardson's snare technique. Tracks like 'Telos' — the most studied performance on the album — require the snare to drive extreme metal blast beat sections at full velocity, carry jazz-influenced ghost note patterns at low dynamics, and execute cross-stick techniques during melodic interludes, all within the same nine-minute track. The DW Collector's maple handles each of these contexts without requiring head changes or retuning: its warm midrange carries ghost notes clearly, its 6.5\" depth provides body during backbeat passages, and its maple fundamental avoids the harsh transients that would undermine the album's quieter sections.\n\nJamie King's snare capture on The Parallax II is particularly well-executed. Close-miked with natural room character from the overhead mics, the Collector's maple snare has a natural body and sustain that reads in the mix without artificial compression. Richardson's dynamic range — from whisper-quiet ghost strokes to full rimshot backbeats — is fully preserved in the recording, making The Parallax II one of the best documented examples of his technique's full velocity spectrum.",
+      "tuningSetting": "Medium tension — warm body for ghost note work and snare sensitivity, enough authority to drive blast beat and extreme metal passages",
+      "heads": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)",
+      "estimatedValue": "$400–700 (DW Collector's Series maple snare)"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance Dark and Extra Dry: Expanded Palette for a 74-Minute Canvas",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Series (Dark and Extra Dry)",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl Byzance 14\" Dark Hi-Hats",
+          "position": "Left side",
+          "notes": "Dark, complex voice — nuanced response for jazz-inflected hi-hat vocabulary throughout The Parallax II"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance Extra Dry 17\" Thin Crash",
+          "position": "Left crash",
+          "notes": "Fast, focused accent crash — articulate response for BTBAM's dense technical passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance 18\" Dark Crash",
+          "position": "Right crash",
+          "notes": "Fuller, darker sustain for large structural accents at section peaks on The Parallax II"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Byzance Extra Dry 20\" Ride",
+          "position": "Far right",
+          "notes": "Dry, controlled articulation — minimal wash for clean odd-time patterns in Telos and Lay Your Ghosts"
+        },
+        {
+          "type": "Splash",
+          "model": "Meinl Byzance 10\" Dark Splash",
+          "position": "Effects position",
+          "notes": "Quick, dark accent for fast genre transition punctuation across BTBAM's most rapid shifts"
+        },
+        {
+          "type": "China",
+          "model": "Meinl Byzance 18\" China",
+          "position": "Over rack toms",
+          "notes": "Aggressive upward-projecting accent for The Parallax II's death metal intensity peaks"
+        }
+      ],
+      "description": "By The Parallax II (2012), Richardson had expanded his Meinl Byzance setup from the primarily Extra Dry configuration of the Alaska era to a dual-series approach: Byzance Dark voicings for the jazz-inflected passages, Extra Dry voicings for the technically demanding rhythmic sections. This expanded palette reflects the greater tonal range demanded by a 74-minute concept album where the musical language shifts more dramatically and more frequently than on earlier BTBAM records.\n\nThe Byzance Dark series is characterized by warm, earthy tones with complex overtone content and a fast decay — ideal for the jazz-influenced passages throughout The Parallax II where overtone richness enriches the musical texture without creating wash that obscures melodic content. The 14\" Dark Hi-Hats are the rhythmic center of Richardson's most sophisticated hi-hat playing. His patterns on tracks like 'Lay Your Ghosts to Rest' demonstrate jazz-level independence between hi-hat foot and stick — the hi-hat functioning as an independent melodic voice rather than simply marking time — and the Dark voicing provides exactly the nuanced, responsive character this technique demands.\n\nThe Extra Dry series handles the technical rhythmic sections. The 17\" Extra Dry Thin Crash delivers fast, controlled accent punctuation in the album's most complex passages, where attack clarity matters more than sustain character. The Extra Dry Ride provides clean articulation through Richardson's most ambitious metric modulation sequences — on 'Telos' and 'Lay Your Ghosts to Rest,' where even small amounts of cymbal wash would blur the rhythmic detail.\n\nThe 18\" Dark Crash provides a third crash voice distinct from both the Extra Dry 17\" and the China: fuller sustain, warmer character, useful for large structural accents at section peaks where the album calls for emotional weight rather than technical precision. The 10\" Dark Splash allows Richardson rapid, dark accent punctuation for the quickest genre transition moments — a single splash stroke marking the boundary between feel-states without the sustain overhead of a full crash.\n\nTaken together, the dual-series Byzance approach on The Parallax II represents Richardson's most complete cymbal vocabulary to this point in his career: dark enough for jazz passages, controlled enough for extreme technical metal, and varied enough to color the tonal arc of a 74-minute concept album from first note to last.",
+      "estimatedValue": "$2,500–4,000 (Meinl Byzance Dark and Extra Dry setup, 2012 configuration)"
+    },
+    "hardware": {
+      "title": "DW 9002 and Rack System: Precision for a 74-Minute Concept",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "DW",
+          "model": "DW 9002 Double Bass Pedal",
+          "notes": "Chain-drive double pedal — compositional kick control across The Parallax II's full 74-minute arc",
+          "description": "The DW 9002 is the kick foundation of Richardson's most ambitious recorded performance. The Parallax II's compositional use of double-bass — dense kick patterns during intense sections, sparser deployment during restraint, and rapid transitions between these states within single tracks — demands exactly the consistency and adjustability the 9002 provides. 'Telos' is the most-studied example: Richardson varies kick density dramatically across the nine-minute track, and the 9002's adjustable cam gives him the control curve that makes this dynamic deployment musically natural rather than mechanical."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Hickory 5B — the Richardson stick across the entire BTBAM catalog, including The Parallax II"
+        },
+        {
+          "type": "Hardware",
+          "brand": "Pearl",
+          "model": "Pearl Rack System",
+          "notes": "Modular rack providing stability for the extended three-rack-tom configuration across 74 minutes of performance"
+        },
+        {
+          "type": "Drumheads (Toms, Batter)",
+          "brand": "Remo",
+          "model": "Remo Emperor Coated",
+          "notes": "Two-ply construction for controlled sustain in BTBAM's dense arrangements"
+        },
+        {
+          "type": "Drumheads (Bass, Batter)",
+          "brand": "Remo",
+          "model": "Remo Powerstroke 3",
+          "notes": "Integrated ring damping — controlled kick attack for Richardson's density-variable double-bass approach"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Ebony Pinstripe (resonant, ported)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)"
+      }
+    },
+    "faq": [
+      {
+        "question": "What drums did Blake Richardson use on The Parallax II: Future Sequence?",
+        "answer": "Blake Richardson used a refined DW Collector's Series kit on The Parallax II: Future Sequence (2012) — the same shell design he had established on Alaska (2005) and Colors (2007), precisely dialed in after seven years of touring. The kit features North American Hard Rock Maple shells: 22\"x18\" bass drum (driven by DW 9002 double pedal), three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+      },
+      {
+        "question": "What is Blake Richardson's drum setup on 'Telos' from The Parallax II?",
+        "answer": "'Telos' is the most studied drum performance in Richardson's BTBAM catalog — a nine-minute track on The Parallax II (2012) demonstrating his metric modulation approach and compositional double-bass technique at full development. His setup for this and the rest of the album: DW Collector's Series 22\"x18\" kick driven by a DW 9002 double pedal, three rack toms, 16\" floor tom, Meinl Byzance 14\" Dark Hi-Hats, Extra Dry Thin Crashes, Extra Dry Ride, Dark Crash, and Byzance China. The Byzance Extra Dry Ride is particularly critical on 'Telos' — its controlled, minimal wash keeps Richardson's metric modulation sequences clearly articulated through the track's most complex rhythmic passages. See the [odd-time signatures technique guide](/technique/odd-time-signatures) for a breakdown of the metric modulation concepts deployed."
+      },
+      {
+        "question": "Why is The Parallax II considered Blake Richardson's best drumming?",
+        "answer": "The Parallax II: Future Sequence (2012) is widely considered Richardson's peak recorded performance because it represents every element of his technique at its most developed: metric modulation across extended 74-minute concept album structures, jazz-influenced ghost note vocabulary and hi-hat independence, compositional double-bass density variation, and the fill architecture that connects BTBAM's genre-shifting sections. The album's demands are unique — 74 minutes of continuous compositional complexity with dramatic feel changes within single tracks — and Richardson executes every transition with musical intelligence rather than technical demonstration. Prog Magazine's designation of The Parallax II as album of the decade reflects the record's broader musical achievement; Richardson's drumming is central to why that achievement was possible."
+      },
+      {
+        "question": "What cymbals does Blake Richardson use on The Parallax II?",
+        "answer": "Blake Richardson played an expanded Meinl Byzance setup on The Parallax II (2012), combining Dark and Extra Dry sub-series for a wider tonal palette than his earlier primarily Extra Dry Alaska-era setup. Configuration: Meinl Byzance 14\" Dark Hi-Hats (jazz-inflected passages), Extra Dry 17\" Thin Crash (fast accent), Dark 18\" Crash (fuller sustain), Extra Dry 20\" Ride (controlled odd-time articulation), 10\" Dark Splash (rapid transition punctuation), and 18\" Byzance China (death metal accents). The dual Dark/Extra Dry approach reflects the 74-minute concept album's greater tonal range requirements."
+      }
+    ],
+    "relatedAlbums": [
+      "alaska-drum-setup",
+      "coma-ecliptic-drum-setup",
+      "blake-richardson-drum-setup"
+    ],
+    "relatedArticles": [
+      "progressive-metal-drumming",
+      "odd-time-signatures-metal"
+    ],
+    "conclusion": {
+      "title": "The Parallax II: Richardson's Career Peak on Record",
+      "content": "The Parallax II: Future Sequence (2012) is the definitive document of Blake Richardson's drumming — 74 minutes of progressive metal concept album where every technique he had developed since Alaska (2005) appears in its most refined form. Metric modulation, compositional double-bass, jazz-influenced ghost note vocabulary, and the fill architecture that connects BTBAM's genre-shifting sections: all of it is here, in service of one of the most ambitious progressive metal records of its era.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Previous album**: [Alaska drum setup (2005)](/articles/alaska-drum-setup)\n- **Next album**: [Coma Ecliptic drum setup (2015)](/articles/coma-ecliptic-drum-setup)\n- **Related reading**: [Odd-time signatures in metal](/technique/odd-time-signatures)"
+    }
+  },
+  "coma-ecliptic-drum-setup": {
+    "slug": "coma-ecliptic-drum-setup",
+    "albumTitle": "Coma Ecliptic",
+    "artist": "Between the Buried and Me",
+    "drummer": "Blake Richardson",
+    "drummerId": 29,
+    "relatedDrummerSlug": "blake-richardson",
+    "year": 2015,
+    "genre": "Progressive Metal / Progressive Rock",
+    "label": "Metal Blade Records",
+    "studio": "The Basement Studio, Winston-Salem, NC",
+    "producer": "Jamie King",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Blake Richardson's Drum Setup on Between the Buried and Me's Coma Ecliptic (2015)",
+    "description": "Blake Richardson's drum kit and gear on BTBAM's Coma Ecliptic (2015): DW Collector's Series drums, Meinl Byzance cymbals, and the narrative rock opera performance that charted in the UK and hit #1 on the iTunes Rock chart.",
+    "seoKeywords": [
+      "coma ecliptic drum setup",
+      "between the buried and me coma ecliptic drums",
+      "blake richardson coma ecliptic",
+      "btbam coma ecliptic drummer",
+      "coma ecliptic 2015 drum kit",
+      "blake richardson 2015 drum setup",
+      "between the buried and me 2015 drums",
+      "coma ecliptic gear"
+    ],
+    "ogImage": "/images/drummers/blake-richardson.webp",
+    "intro": {
+      "title": "Coma Ecliptic: Richardson as Storytelling Drummer",
+      "content": "Released July 17, 2015 on Metal Blade Records, Coma Ecliptic is Between the Buried and Me's most commercially visible record — a rock opera concept album that charted in the UK, hit #1 on the iTunes Rock chart, and reached the Billboard 200. The album followed The Parallax II: Future Sequence (2012) with a different creative intention: where The Parallax II was BTBAM's most extreme and technically demanding record, Coma Ecliptic leaned further into progressive rock textures, narrative storytelling, and melodic accessibility. Narrated by James LaBrie of Dream Theater, the album traces a protagonist through a series of coma-dream visions, each track a different chapter in a linear concept.\n\nBlake Richardson's drumming on Coma Ecliptic is the performance of a player who has fully internalized the technical tools he had been building since Alaska (2005) and now deploys them in service of a more overtly narrative-driven musical context. The odd-time signatures and metric modulations are still present — this is still BTBAM — but they are used more transparently as storytelling devices: time signature changes that accompany emotional state changes in the narrative, dynamic swells that mark dramatic turning points in the story, and restraint that serves the song's emotional arc rather than demonstrating range. It is Richardson's most musically mature performance, even if it is not his most technically demanding.\n\nThe gear on Coma Ecliptic represents a continuation and refinement of the DW Collector's Series configuration that Richardson had used on Alaska through The Parallax II. The core setup remained consistent — DW drums, Meinl Byzance cymbals, DW 9002 double pedal — with the tuning, head selection, and setup optimized for an album that sat more in a progressive rock production context than previous records. Jamie King's production at The Basement Studio gave the drums a warmer, more open character on Coma Ecliptic compared to The Parallax II's denser sound.\n\nThis article covers the complete drum setup Blake Richardson used on Coma Ecliptic, the storytelling role drums play in a narrative rock opera context, and how this 2015 record fits in BTBAM's arc between The Parallax II and Automata I & II (2018).",
+      "keyPoints": [
+        "Charted in the UK and hit #1 iTunes Rock chart — BTBAM's most commercially visible album",
+        "Rock opera narrated by James LaBrie (Dream Theater) — Richardson's most narrative-driven recorded performance",
+        "DW Collector's Series continuing as the kit foundation — warm, versatile setup suited to progressive rock textures",
+        "Meinl Byzance Dark and Extra Dry — full dual-series setup from The Parallax II era maintained",
+        "Jamie King production at The Basement Studio — warmer, more open character than The Parallax II's density",
+        "Rhythmic restraint as mature artistic choice — technique in service of storytelling over technical display"
+      ]
+    },
+    "drumKit": {
+      "title": "DW Collector's Series: Warmth for a Rock Opera",
+      "brand": "DW",
+      "model": "DW Collector's Series",
+      "finish": "Custom lacquer finish, mature touring configuration",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (double bass via DW 9002 pedal)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 14\" Floor Tom"
+        ],
+        "shells": "North American Hard Rock Maple — warm, resonant tone suited to Coma Ecliptic's progressive rock character"
+      },
+      "description": "The DW Collector's Series North American Hard Rock Maple kit that Richardson used on Coma Ecliptic was the most fully evolved version of the DW configuration he had established on Alaska (2005). By 2015, after a decade of touring and recording on this kit, every head choice, tuning preference, and hardware setting was precisely calibrated to serve Richardson's technique and BTBAM's musical requirements. The warm maple fundamental suited Coma Ecliptic's progressive rock-leaning production particularly well: the kit sounded full and resonant across the album's melodically rich arrangements without the aggressive attack character that would suit a more extreme metal record.\n\nJamie King's Basement Studio production on Coma Ecliptic gave the DW Collector's Series more room to breathe than it had on The Parallax II — a production choice that reflected the album's more open, accessible musical direction. The bass drum sits with less density than on the Parallax record; the toms have more natural decay; the overall drum sound is warmer and more present rather than dense and driving. For a rock opera where the drums are telling a story rather than demonstrating extremes, this production approach was precisely correct.\n\nThe three-rack-tom layout (10\", 12\", 13\") continued to serve Richardson's melodic fill approach. On Coma Ecliptic, tom fills function as emotional punctuation in the narrative: a descending fill marking a story's low point, an ascending fill building toward a climax, a held cymbal note sustaining through a dramatic pause. The Collector's Series maple's warm fundamental makes these narrative fill patterns sing as musical statements rather than technical displays. See the [Blake Richardson drummer profile](/drummer/blake-richardson) for how this storytelling approach developed across his career.\n\nComa Ecliptic also marked a period where Richardson was exploring the balance between the DW setup that had defined his sound and the Pearl Reference Pure that would become central to the Automata era (2018). The DW foundation remained primary for this album, but the broader gear evolution was underway.",
+      "notes": [
+        "DW Collector's Series at its most mature — 10+ years of refinement from Alaska (2005)",
+        "Jamie King Basement Studio production is warmer, more open than The Parallax II — suits rock opera context",
+        "Three rack toms (10\", 12\", 13\") for narrative fill patterns that punctuate Coma Ecliptic's storytelling arc",
+        "Warm maple fundamental suits Coma Ecliptic's progressive rock melodic character",
+        "Transitional period in Richardson's career — DW era mature, Pearl Reference Pure era approaching"
+      ],
+      "estimatedValue": "$3,500–6,000 (DW Collector's Series shell pack, 2015 configuration)"
+    },
+    "snare": {
+      "title": "DW Collector's Maple: Emotional Range for Narrative Drumming",
+      "brand": "DW",
+      "model": "DW Collector's Series Maple Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "North American Hard Rock Maple",
+      "description": "Richardson's DW Collector's Series maple snare on Coma Ecliptic is the same model that drove The Parallax II and Colors — by 2015 a deeply known and trusted instrument. For a rock opera where the snare must serve narrative emotional arcs rather than simply mark backbeats, the 14\"x6.5\" maple's tonal range is an asset: tuned at medium tension it provides warm, full-bodied authority for the album's most intense moments, and the same tuning allows quiet ghost note work and dynamic restraint during the story's contemplative passages.\n\nComa Ecliptic places different snare demands on Richardson than The Parallax II did. Where The Parallax II required the snare to operate across extreme metal blast beat speeds and jazz-inflected ghost note passages within single tracks, Coma Ecliptic asks the snare to serve a more linear narrative arc — building tension, marking dramatic peaks, and providing restrained texture during quieter storytelling moments. The DW Collector's maple handles all of these contexts with the same fundamental, giving the album a consistent snare voice that anchors the progressive rock production without feeling either too extreme or too passive.\n\nJamie King's Basement Studio snare capture on Coma Ecliptic emphasizes the natural maple body more than on earlier records — less close-mic density, more room character from the overheads, producing a snare sound that fits the warmer, more open production approach of the rock opera context. The Evans G2 Coated batter continues to provide the two-ply control Richardson's ghost note technique demands.",
+      "tuningSetting": "Medium tension — warm and full-bodied, serving Coma Ecliptic's narrative emotional arc from restraint to intensity",
+      "heads": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)",
+      "estimatedValue": "$400–700 (DW Collector's Series maple snare)"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance Dark and Extra Dry: Storytelling Tonal Vocabulary",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Series (Dark and Extra Dry)",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl Byzance 14\" Dark Hi-Hats",
+          "position": "Left side",
+          "notes": "Dark, complex voice — jazz-inflected hi-hat vocabulary serving Coma Ecliptic's melodic passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance Extra Dry 17\" Thin Crash",
+          "position": "Left crash",
+          "notes": "Fast, focused accent — narrative punctuation for dramatic moment marking in the rock opera structure"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance 18\" Dark Crash",
+          "position": "Right crash",
+          "notes": "Fuller, warmer sustain — emotional weight for Coma Ecliptic's peak narrative moments"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Byzance Extra Dry 20\" Ride",
+          "position": "Far right",
+          "notes": "Controlled, minimal wash — clean articulation across Coma Ecliptic's rhythmically sophisticated passages"
+        },
+        {
+          "type": "Splash",
+          "model": "Meinl Byzance 10\" Dark Splash",
+          "position": "Effects position",
+          "notes": "Quick dark accent for rapid narrative transition moments between dream sequences"
+        },
+        {
+          "type": "China",
+          "model": "Meinl Byzance 18\" China",
+          "position": "Over rack toms",
+          "notes": "Aggressive accent for Coma Ecliptic's heavier metal moments — used selectively as narrative punctuation"
+        }
+      ],
+      "description": "Richardson's Meinl Byzance cymbal setup on Coma Ecliptic maintained the dual Dark/Extra Dry approach he had used on The Parallax II, adapted to serve the rock opera's more varied narrative emotional register. The Byzance Dark cymbals — with their warm, earthy tones and complex overtone content — are particularly suited to Coma Ecliptic's melodic progressive rock passages, where cymbal character contributes to the album's emotional arc. The 14\" Dark Hi-Hats carry the album's most lyrical passages with the kind of warm shimmer that suits narrative-driven music rather than extreme technical demonstration.\n\nThe dual-series approach (Dark for warmth and complexity, Extra Dry for controlled articulation) gives Richardson two distinct cymbal voices for Coma Ecliptic's narrative structure: Dark cymbals color the album's contemplative and melodic passages, Extra Dry cymbals serve the more intense sections where rhythmic clarity is paramount. The 18\" Dark Crash provides emotional weight during the rock opera's most dramatic moments — a fuller, more sustained accent that carries story-level significance rather than just rhythmic marking.\n\nComa Ecliptic is BTBAM's most prog-rock-leaning full-length to this point in the catalog, and Richardson's Byzance setup serves that direction without modification: the dark, complex hand-hammered character of the Meinl Byzance line has always been closer to jazz and progressive rock tonally than to extreme metal, and on Coma Ecliptic that character is an advantage rather than a concession. The cymbals breathe with the arrangements, sustain appropriately during melodic passages, and respond with precision during the album's more intense sections.\n\nFor context on how this cymbal approach serves different musical demands, see [Blake Richardson's complete drummer profile](/drummer/blake-richardson), which covers the full Byzance setup evolution across the Colors, Parallax, Coma Ecliptic, and Automata eras.",
+      "estimatedValue": "$2,500–4,000 (Meinl Byzance Dark and Extra Dry setup, 2015 configuration)"
+    },
+    "hardware": {
+      "title": "DW 9002 and Rack System: Foundation for a Narrative Performance",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "DW",
+          "model": "DW 9002 Double Bass Pedal",
+          "notes": "Chain-drive double pedal — compositional kick control serving Coma Ecliptic's narrative arc",
+          "description": "The DW 9002 continues as Richardson's kick foundation on Coma Ecliptic — the same pedal used since the Alaska era, now deployed in service of a rock opera where kick density is a storytelling tool rather than a technical demonstration. Coma Ecliptic's production uses the kick drum more dynamically than The Parallax II: quieter passages feature sparse kick deployment that creates narrative tension, while the album's peak intensity sections deploy the 9002's full double-bass capability to drive dramatic climaxes."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Richardson's consistent stick choice across the entire BTBAM catalog through Coma Ecliptic and beyond"
+        },
+        {
+          "type": "Hardware",
+          "brand": "Pearl",
+          "model": "Pearl Rack System",
+          "notes": "Modular rack providing stability for extended three-rack-tom configuration across Coma Ecliptic's performances"
+        },
+        {
+          "type": "Drumheads (Toms, Batter)",
+          "brand": "Remo",
+          "model": "Remo Emperor Coated",
+          "notes": "Two-ply coated for controlled sustain and warm fundamental across Coma Ecliptic's progressive rock arrangements"
+        },
+        {
+          "type": "Drumheads (Bass, Batter)",
+          "brand": "Remo",
+          "model": "Remo Powerstroke 3",
+          "notes": "Controlled attack — defined kick tone for Richardson's narrative kick density approach on Coma Ecliptic"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Ebony Pinstripe (resonant, ported)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)"
+      }
+    },
+    "faq": [
+      {
+        "question": "What drums did Blake Richardson use on Coma Ecliptic?",
+        "answer": "Blake Richardson played a refined DW Collector's Series kit on Coma Ecliptic (2015) — the mature evolution of the DW configuration he had used since Alaska (2005). The all-maple North American Hard Rock Maple shells were well-suited to Coma Ecliptic's progressive rock production, providing warmth and resonance across the album's melodically rich arrangements. Kit configuration: 22\"x18\" bass drum driven by DW 9002 double pedal, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+      },
+      {
+        "question": "How does Coma Ecliptic differ from The Parallax II in terms of Blake Richardson's drumming?",
+        "answer": "Coma Ecliptic (2015) is Richardson's most narratively-driven performance, while The Parallax II (2012) is his most technically demanding. On Coma Ecliptic — a rock opera narrated by James LaBrie (Dream Theater) — Richardson deploys his technical vocabulary (odd-time signatures, metric modulation, compositional double-bass) in service of storytelling: time signature changes accompany emotional state changes in the narrative, dynamic swells mark dramatic turning points, and restrained passages create tension rather than demonstrate range. The gear is nearly identical (DW Collector's Series, Meinl Byzance Dark and Extra Dry, DW 9002), but Jamie King's Basement Studio production on Coma Ecliptic is warmer and more open, reflecting the album's progressive rock direction. For the full arc, see [The Parallax II drum setup](/articles/the-parallax-ii-future-sequence-drum-setup) and [Alaska drum setup](/articles/alaska-drum-setup)."
+      },
+      {
+        "question": "Why did Coma Ecliptic chart commercially when earlier BTBAM albums didn't?",
+        "answer": "Coma Ecliptic (2015) charted in the UK and reached #1 on the iTunes Rock chart largely due to its more accessible melodic approach and the high production profile of the rock opera concept narrated by James LaBrie of Dream Theater. LaBrie's involvement brought the album to a wider progressive rock audience, and the album's song structures — more linear and melodically direct than The Parallax II's dense concept-album complexity — gave casual listeners a clearer entry point. Blake Richardson's drumming on the album reflects this direction: technically sophisticated but deployed in service of songs that breathe more openly. BTBAM's Metal Blade Records backing and a more active release strategy also contributed to the album's commercial visibility."
+      },
+      {
+        "question": "What time signatures does Blake Richardson play on Coma Ecliptic?",
+        "answer": "Coma Ecliptic (2015) contains the same odd-time signatures and metric modulation approaches that define all of BTBAM's catalog — 7/8, 5/4, 6/8, and various hybrid and compound signatures — but deployed more transparently in service of the rock opera narrative. Where The Parallax II embedded time signature changes deep in the compositional structure so they feel natural rather than mathematical, Coma Ecliptic uses signature changes as explicit narrative devices: a shift from 4/4 to 7/8 accompanying a protagonist's disorientation, a metric modulation lifting the tempo during a triumphant moment. Richardson's technical execution of these passages is at the same level as his Parallax II work; the difference is that Coma Ecliptic makes the emotional intent of each signature change more transparent. See the [odd-time signatures in metal technique guide](/technique/odd-time-signatures) for a deeper breakdown of these concepts."
+      }
+    ],
+    "relatedAlbums": [
+      "alaska-drum-setup",
+      "the-parallax-ii-future-sequence-drum-setup",
+      "blake-richardson-drum-setup"
+    ],
+    "relatedArticles": [
+      "progressive-metal-drumming",
+      "odd-time-signatures-metal"
+    ],
+    "conclusion": {
+      "title": "Coma Ecliptic: Technique in Service of Story",
+      "content": "Coma Ecliptic (2015) is Blake Richardson's most mature recorded performance — not because it is his most technically demanding (that is The Parallax II), but because it demonstrates the full integration of his technical vocabulary into musical storytelling. A decade after Alaska announced his voice, Richardson plays on Coma Ecliptic as a complete musician: odd-time signatures as emotional language, metric modulation as dramatic device, kick density as narrative tool.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Previous album**: [The Parallax II drum setup (2012)](/articles/the-parallax-ii-future-sequence-drum-setup)\n- **BTBAM arc start**: [Alaska drum setup (2005)](/articles/alaska-drum-setup)\n- **Related reading**: [Odd-time signatures in metal](/technique/odd-time-signatures)"
+    }
+  },
   "blake-richardson-drum-setup": {
     "slug": "blake-richardson-drum-setup",
     "articleType": "drummer-kit",

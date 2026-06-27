@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Ralph drain-the-queue runner (Watcher + Ralph combined, GitHub Actions).
+# Roadie drain-the-queue runner (Watcher + Roadie combined, GitHub Actions).
 # Implements EVERY eligible open issue (any label, or none) — NOT just `ai-fix`.
 # Skips only human-flagged (`human`, `human-founder`), non-actionable
 # (`wontfix`/`invalid`/`duplicate`/`question`), pre-triage (`seo-proposal`),
@@ -15,8 +15,8 @@
 #
 # Env: REPO, GH_TOKEN, CLAUDE_CODE_OAUTH_TOKEN (subscription auth — set instead of
 #      ANTHROPIC_API_KEY to bill the Pro/Max plan, not the API).
-#      Optional: WALL_CAP_MIN, PER_ISSUE_TIMEOUT, RALPH_WORKER_OFFSET (distinct
-#      per worker when run as a parallel fleet — see .github/workflows/ralph-night-fleet.yml).
+#      Optional: WALL_CAP_MIN, PER_ISSUE_TIMEOUT, ROADIE_WORKER_OFFSET (distinct
+#      per worker when run as a parallel fleet — see .github/workflows/roadie-night-fleet.yml).
 # Safe to run as N concurrent workers: each claims a different issue (offset +
 # `in-progress` label + pre-PR dup guard), so the fleet parallelises the drain.
 set -uo pipefail
@@ -29,8 +29,8 @@ PER_ISSUE_TIMEOUT="${PER_ISSUE_TIMEOUT:-1500}"   # 25 min per issue
 # claim DIFFERENT issues from the same eligible list, avoiding simultaneous
 # double-picks. Workers still coordinate via the `in-progress` label + the
 # pre-PR dup guard below. Single-worker runs leave this at 0 (no behaviour change).
-RALPH_WORKER_OFFSET="${RALPH_WORKER_OFFSET:-0}"
-RUNS_DIR=".agents/ralph-runs"
+ROADIE_WORKER_OFFSET="${ROADIE_WORKER_OFFSET:-${RALPH_WORKER_OFFSET:-0}}"
+RUNS_DIR=".agents/roadie-runs"
 mkdir -p "$RUNS_DIR"
 
 declare -a DONE_PR=() DONE_HUMAN=() DONE_NOOP=() DONE_ERR=()
@@ -78,12 +78,12 @@ next_issue() {
     branch_exists_for "$n" && continue
     claimable+=("$n")
     # Collect a few past our offset, then stop — no need to probe the whole queue.
-    (( ${#claimable[@]} > RALPH_WORKER_OFFSET + 1 )) && break
+    (( ${#claimable[@]} > ROADIE_WORKER_OFFSET + 1 )) && break
   done
   (( ${#claimable[@]} == 0 )) && return 1
   # This worker takes the issue at its offset; if fewer remain than the offset
   # (tail of the queue), fall back to the oldest claimable so no worker idles.
-  local idx=$RALPH_WORKER_OFFSET
+  local idx=$ROADIE_WORKER_OFFSET
   (( idx >= ${#claimable[@]} )) && idx=0
   echo "${claimable[$idx]}"; return 0
 }
@@ -94,7 +94,7 @@ implement_issue() {
 
   git checkout -q main 2>/dev/null || git checkout -qB main origin/main
   git fetch -q origin main && git reset -q --hard origin/main
-  local br="ralph/issue-$n-$(date -u +%Y%m%d%H%M%S)"
+  local br="roadie/issue-$n-$(date -u +%Y%m%d%H%M%S)"
   git checkout -qb "$br"
 
   gh issue view "$n" --repo "$REPO" --json title,body > "$RUNS_DIR/issue-$n.json"
@@ -107,7 +107,7 @@ implement_issue() {
     echo "Fix GitHub issue #${n}: ${title}"; echo
     echo "$body"; echo
     echo "---"; echo
-    cat .ralph/AGENT.md
+    cat .roadie/AGENT.md
     echo; echo "---"; echo
     echo "## Instructions"; echo
     echo "1. Read the issue carefully. If it specifies files/templates, follow them field-for-field."
@@ -118,23 +118,23 @@ implement_issue() {
     echo "5. Commit with: \"fix: #${n} <one-line summary>\". Do NOT push or open a PR — the runner does that."
     echo "6. If blocked on a human decision or a guardrail, output one line: NEEDS_HUMAN: <reason> and stop."
     echo; echo "Output a 5-line summary when done: problem, files changed, fix, validation, follow-ups."
-  } > "/tmp/ralph-$n.md"
+  } > "/tmp/roadie-$n.md"
 
-  log "Running Ralph on #$n ($title)"
+  log "Running Roadie on #$n ($title)"
   timeout "${PER_ISSUE_TIMEOUT}s" claude --print --dangerously-skip-permissions \
-    < "/tmp/ralph-$n.md" > "$RUNS_DIR/issue-$n.log" 2>&1
+    < "/tmp/roadie-$n.md" > "$RUNS_DIR/issue-$n.log" 2>&1
   local rc=$?
   [ "$rc" = "124" ] && log "#$n timed out after ${PER_ISSUE_TIMEOUT}s"
 
   if grep -q '^NEEDS_HUMAN:' "$RUNS_DIR/issue-$n.log"; then
     local reason; reason=$(grep '^NEEDS_HUMAN:' "$RUNS_DIR/issue-$n.log" | head -1 | sed 's/^NEEDS_HUMAN: *//')
-    gh issue comment "$n" --repo "$REPO" --body "🤖 Ralph stopped: ${reason}" >/dev/null 2>&1 || true
+    gh issue comment "$n" --repo "$REPO" --body "🤖 Roadie stopped: ${reason}" >/dev/null 2>&1 || true
     gh issue edit "$n" --repo "$REPO" --remove-label in-progress --add-label needs-human >/dev/null 2>&1 || true
     DONE_HUMAN+=("$n"); return
   fi
 
   if [ -z "$(git log origin/main..HEAD --oneline 2>/dev/null)" ]; then
-    gh issue comment "$n" --repo "$REPO" --body "🤖 Ralph produced no commits this run (rc=$rc). Retrying next pass." >/dev/null 2>&1 || true
+    gh issue comment "$n" --repo "$REPO" --body "🤖 Roadie produced no commits this run (rc=$rc). Retrying next pass." >/dev/null 2>&1 || true
     gh issue edit "$n" --repo "$REPO" --remove-label in-progress >/dev/null 2>&1 || true
     DONE_NOOP+=("$n"); return
   fi
@@ -150,7 +150,7 @@ implement_issue() {
   if git push -q origin "$br" && \
      gh pr create --repo "$REPO" --base main --head "$br" \
        --title "fix: #${n} ${title}" \
-       --body "Closes #${n}"$'\n\n'"Implemented autonomously by Ralph (cloud). Run #${GITHUB_RUN_ID:-local}." >/dev/null 2>&1; then
+       --body "Closes #${n}"$'\n\n'"Implemented autonomously by Roadie (cloud). Run #${GITHUB_RUN_ID:-local}." >/dev/null 2>&1; then
     gh issue edit "$n" --repo "$REPO" --remove-label in-progress --add-label pr-opened >/dev/null 2>&1 || true
     DONE_PR+=("$n"); log "Opened PR for #$n"
   else
@@ -171,7 +171,7 @@ while :; do
 done
 
 {
-  echo "## 🤖 Ralph drain"
+  echo "## 🤖 Roadie drain"
   echo "- Wall time: $(elapsed)s"
   echo "- PRs opened (${#DONE_PR[@]}): ${DONE_PR[*]:-none}"
   echo "- Handed to human (${#DONE_HUMAN[@]}): ${DONE_HUMAN[*]:-none}"

@@ -44,12 +44,12 @@ npm run backend
 - **Tomas Haake** (Meshuggah)
 - **George Kollias** (Nile)
 
-## Ralph Integration
+## Roadie Integration
 
-This project uses Ralph for autonomous issue fixing:
+This project uses Roadie for autonomous issue fixing:
 
 1. Create a GitHub issue with the `ai-fix` label
-2. Ralph will pick it up and create a fix
+2. Roadie will pick it up and create a fix
 3. A PR will be created automatically
 
 ## Project Structure
@@ -58,7 +58,7 @@ This project uses Ralph for autonomous issue fixing:
 packages/
   frontend/     # Expo app (React Native Web)
   backend/      # Express API server
-.ralph/         # Ralph agent configuration
+.roadie/        # Roadie agent configuration
 ```
 
 ## Newsletter Email Configuration
@@ -81,7 +81,7 @@ Without `RESEND_API_KEY`, subscriptions still work but no welcome email is sent.
 - [Vercel Spend Management](docs/vercel-spend-management.md) - Cost controls and usage alerts setup
 - [Broken-image check](docs/broken-image-check.md) - Weekly crawler + umbrella issue model
 - [LLM citation check](docs/llm-citation-check.md) - Weekly auto-test for the "AI citations / week" sub-KPI
-- [GSC watch loop (L1)](docs/gsc-watch-loop.md) - Weekly Google organic verifier for the SEO Agent / Ralph pipeline
+- [GSC watch loop (L1)](docs/gsc-watch-loop.md) - Weekly Google organic verifier for the SEO Agent / Roadie pipeline
 
 ---
 *Built for metalheads, by metalheads* 🤘

@@ -8,7 +8,7 @@ name: Verify Data Modules
 on:
   workflow_dispatch:
   push:
-    branches: [main, 'claude/**', 'ralph/**']
+    branches: [main, 'claude/**', 'roadie/**', 'ralph/**']
     paths:
       - '.github/workflows/verify-data-modules.yml'
       - 'scripts/verify-data-modules.mjs'

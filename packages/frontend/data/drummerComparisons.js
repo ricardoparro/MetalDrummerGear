@@ -986,6 +986,52 @@ export const drummerComparisons = {
       { q: 'What is Igor Cavalera\'s legacy in metal drumming?', a: 'Igor Cavalera co-founded Sepultura and drove Brazilian metal into global consciousness. His tribal-thrash fusion on Chaos A.D. and Roots introduced Afro-Brazilian rhythms to international metal and defined the roots-metal sub-genre. He remains one of the most influential rhythm architects in metal history.' },
     ],
   },
+
+  // Issue #2882: SEO batch 29 — Norwegian black metal peers (Satyricon vs Mayhem)
+  'frost-vs-hellhammer': {
+    slug: 'frost-vs-hellhammer',
+    title: 'Frost vs Hellhammer',
+    metaTitle: 'Frost vs Hellhammer — Norwegian Black Metal Drumming Compared | MetalForge',
+    metaDescription: 'Satyricon\'s Frost vs Mayhem\'s Hellhammer. Two Norwegian black metal legends compared — surgical blast beat precision vs raw primitive storm. Gear, technique, and legacy analyzed.',
+    category: 'extreme',
+    drummers: ['frost', 'hellhammer'],
+    comparison: {
+      style: 'Frost (Kjetil-Vidar Haraldstad) drives Satyricon\'s black metal with extraordinary technical precision — his blast beats are surgical and controlled, perfectly underpinning the band\'s increasingly sophisticated compositions from *Dark Medieval Times* through *Deep calleth upon Deep*. Hellhammer (Jan Axel Blomberg) is the beating heart of Mayhem — one of the founding bands of Norwegian black metal — and his drumming defines the raw, primitive ferocity that gave the second wave of black metal its iconic sound on *De Mysteriis Dom Sathanas*.',
+      technique: 'Frost developed a refined single-stroke blast beat technique that prioritizes consistency and endurance across full-length compositions, maintaining metronomic precision at extreme tempos without sacrificing the dark atmosphere black metal demands. Hellhammer pioneered the classic black metal one-foot blast beat approach — a technique that became the genre\'s rhythmic foundation — emphasizing power and relentless forward drive over technical complexity, making him one of the most influential drummers in extreme metal history.',
+      gear: 'Frost endorses Pearl Reference Pure drums with Paiste Giant Beat and 2002 Series cymbals — a high-endurance setup that translates Satyricon\'s precise compositions to the live stage. Hellhammer plays Pearl Reference Series drums with Paiste Signature and 2002 cymbals — the same brand loyalty reflecting Norwegian black metal\'s preference for Pearl\'s powerful projection and Paiste\'s dark, aggressive tonal character.',
+      influence: 'Frost has been Satyricon\'s rhythmic backbone for over 30 years and is considered one of the most technically advanced black metal drummers alive — his precision influenced a generation of drummers who wanted more than raw aggression from black metal. Hellhammer is one of the most recorded drummers in metal history, having contributed to hundreds of albums across Mayhem, Winds, Arcturus, Kovenant, Dimmu Borgir, and countless others — his influence on the foundational vocabulary of black metal drumming is impossible to overstate.',
+    },
+    verdict: 'Frost and Hellhammer represent two philosophical approaches to Norwegian black metal drumming. Frost pursues technical mastery — his precision blast beats are a clinic in controlled extremity. Hellhammer pursues raw, primal power — his playing on *De Mysteriis Dom Sathanas* is one of extreme metal\'s most iconic performances. The debate is technical perfection vs foundational fury.',
+    faqs: [
+      { q: 'Who is the better Norwegian black metal drummer: Frost or Hellhammer?', a: 'Both are legends of Norwegian black metal but in different ways. Frost (Satyricon) is known for technical precision and control; Hellhammer (Mayhem) is known for raw, primitive power and is one of the most recorded drummers in metal history. Style preference determines the winner.' },
+      { q: 'What gear does Frost use vs Hellhammer?', a: 'Frost plays Pearl Reference Pure drums with Paiste Giant Beat and 2002 Series cymbals. Hellhammer plays Pearl Reference Series drums with Paiste Signature and 2002 cymbals — both share Pearl and Paiste endorsements.' },
+      { q: 'What bands are Frost and Hellhammer known for?', a: 'Frost is best known as the drummer for Satyricon. Hellhammer (Jan Axel Blomberg) is best known as the drummer for Mayhem and has contributed to hundreds of recordings including Winds, Arcturus, Kovenant, and Dimmu Borgir.' },
+      { q: 'What blast beat technique does Frost use?', a: 'Frost uses a single-stroke blast beat technique emphasizing precision and endurance — his blasts are metronomically consistent at extreme tempos, prioritizing control and atmosphere over raw speed.' },
+    ],
+  },
+
+  // Issue #2882: SEO batch 29 — Nu-metal/groove peers (Limp Bizkit vs Godsmack)
+  'john-otto-vs-shannon-larkin': {
+    slug: 'john-otto-vs-shannon-larkin',
+    title: 'John Otto vs Shannon Larkin',
+    metaTitle: 'John Otto vs Shannon Larkin — Nu-Metal Groove Drumming Compared | MetalForge',
+    metaDescription: 'Limp Bizkit\'s John Otto vs Godsmack\'s Shannon Larkin. Nu-metal groove drumming compared — jazz-educated syncopation vs hard rock power groove. Two of the era\'s most distinctive drummers.',
+    category: 'other',
+    drummers: ['john-otto', 'shannon-larkin'],
+    comparison: {
+      style: 'John Otto blends jazz sophistication with hip-hop grooves and heavy metal power in Limp Bizkit\'s rap-rock foundation — his drumming is syncopated, funky, and rhythmically inventive in ways that set him apart from most nu-metal contemporaries. Shannon Larkin drives Godsmack\'s hard rock machine with thunderous groove power, combining heavy rock authority with the dynamics and feel of a seasoned veteran who cut his teeth through Wrathchild America, Ugly Kid Joe, and Amen before joining the band in 2002.',
+      technique: 'Otto studied at the Douglas Anderson School of the Arts in Jacksonville, Florida, bringing genuine jazz vocabulary — ghost notes, syncopated snare patterns, and hip-hop-influenced rhythmic placement — to the heavy rap-rock context that made Limp Bizkit one of the best-selling bands of the late 1990s. Larkin brings deep rock roots and heavy groove instincts to Godsmack, locking in with Tony Rombola\'s guitars to create the muscular, hook-driven rhythms that defined Godsmack\'s commercial hard rock in the 2000s and beyond.',
+      gear: 'John Otto plays Pearl Masters drums with Paiste Signature Series cymbals — a groove-oriented setup that delivers the punchy, pocket-focused tones Limp Bizkit\'s hip-hop-metal crossover demands. Shannon Larkin endorses DW Performance Series drums with Sabian AAX cymbals — a powerful, projection-focused setup built for Godsmack\'s arena-scale hard rock.',
+      influence: 'John Otto defined the rhythmic identity of one of the best-selling bands of the nu-metal era — Limp Bizkit\'s unique blend of rap, rock, and funk relied heavily on Otto\'s jazz-educated approach to pocket and groove. Shannon Larkin brought credibility and veteran hard rock authority to Godsmack after replacing Tommy Stewart, helping the band maintain their commercial momentum through multiple platinum-selling records and global touring.',
+    },
+    verdict: 'John Otto and Shannon Larkin are two of nu-metal and hard rock\'s most defining groove drummers. Otto\'s jazz education gives Limp Bizkit an unlikely sophistication beneath the rap-rock chaos. Larkin\'s veteran authority gives Godsmack an unshakeable rhythmic foundation. Both were active GA4 top-10 performers this week — proof their influence still drives search traffic decades after their peaks.',
+    faqs: [
+      { q: 'What is the difference between John Otto and Shannon Larkin\'s playing styles?', a: 'John Otto (Limp Bizkit) blends jazz-educated syncopation and hip-hop ghost notes with heavy metal power. Shannon Larkin (Godsmack) plays straightforward hard rock groove with veteran authority and dynamic control. Otto is more rhythmically inventive; Larkin is more powerfully consistent.' },
+      { q: 'What gear does John Otto use vs Shannon Larkin?', a: 'John Otto plays Pearl Masters drums with Paiste Signature Series cymbals. Shannon Larkin plays DW Performance Series drums with Sabian AAX cymbals.' },
+      { q: 'Where did John Otto study drumming?', a: 'John Otto studied at the Douglas Anderson School of the Arts in Jacksonville, Florida — the same school that produced Limp Bizkit bandmates. His jazz education is evident in his sophisticated ghost note patterns and syncopated groove work.' },
+      { q: 'What bands has Shannon Larkin played in?', a: 'Shannon Larkin has played with Wrathchild America, Ugly Kid Joe, Amen, and Godsmack. He joined Godsmack in 2002 and has been their drummer since, appearing on multiple platinum-selling albums.' },
+    ],
+  },
 };
 
 /**

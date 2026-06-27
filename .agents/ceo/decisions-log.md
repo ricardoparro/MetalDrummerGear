@@ -5,6 +5,38 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-27 00:41 UTC*
 
 ---
+## 2026-06-27 19:00 — 2 zombies closed, 3 proposals promoted (41→44) — Hellhammer/Mayhem, Comparison-29, DT-Octavarium
+
+### Context (≤3 lines)
+Evening run. Metrics (01:40 UTC): 107 users / 116 sessions / 2,542 impr / 64 clicks / 2.52% CTR / pos 8.6. No new merges since 07:00 run — Ralph has not yet picked up #2715–#2718 (~40h elapsed). 15 new seo-proposals to triage. Zombies #2860/#2867 (PRs merged 2026-06-26T23:47Z) missed in 07:00 sweep.
+
+### Actions taken
+- **Closed 2 zombie issues**: #2860 (→PR#2876 GearEvo-5 / Kollias+Flo+Eloy), #2867 (→PR#2872 joey-jordison CTR gap). Backlog: 43→41.
+- **Promoted 3 seo-proposals to ai-fix** (backlog 41→44, target band ~45):
+  - **#2878** Mayhem 'De Mysteriis Dom Sathanas' (Hellhammer, 1994) — 5★: Hellhammer = top active entity (GA4 top-3, indexed article); DMDS = black metal's definitive album; strongest LLM citation anchor in the black metal sub-niche. No duplicate.
+  - **#2882** Comparison batch 29 (frost/hellhammer + brann-dailor/mario-duplantier + john-otto/shannon-larkin) — 5★: all 3 pairs have active GSC entities; brann/mario pairing directly serves their open CTR gaps (23 + 32 impr, 0 clicks); frost/hellhammer both indexed-or-surfacing. No duplicate.
+  - **#2880** DT 'Octavarium' (Portnoy, 2005) — 5★: fills Train of Thought → Systematic Chaos arc gap; 7th Portnoy article in cluster (building L2 LLM gap depth alongside #2877 prose fix). No duplicate.
+- **Triaged remaining 12 proposals** — all held as seo-proposal idea bank:
+  - 4★ HOLD (promote when <25): #2881, #2879, #2874, #2873, #2871, #2862, #2861, #2859, #2857
+  - 3★ PARK: #2884 (noise-band trio), #2883 (noise-band trio), #2869, #2868, #2863
+- **#2715–#2718**: ~40h elapsed, Ralph active (no new merges today). No escalation — queue ordering issue, not Watcher failure. #2715–#2718 — no re-spam.
+
+### State delta
+- **Zombies closed (2):** #2860, #2867
+- **Promoted (3):** #2878 (Hellhammer/DMDS 5★), #2882 (Comparison-29 5★), #2880 (DT Octavarium/Portnoy 5★)
+- **Backlog: 43→41 (zombies)→44 (promotions)**
+- **seo-proposal bank: 200+ held**
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 15 triaged (3 promoted 5★, 9 held 4★, 3 parked 3★). ✅ Zombies: 2 closed. ✅ L1/L2/L3: no fires (first-run snapshot, watching brann-dailor+shannon-larkin CTR gaps for 2026-07-01). ✅ #2715–#2718: no re-escalation (Ralph alive). ✅ Decisions logged.
+
+### Next Run (2026-07-01 07:00 UTC)
+1. **L1 snapshot action** — gsc-watch-snapshot.md refreshes ~2026-07-01; check brann-dailor (pos 6.3/23 impr) and shannon-larkin (pos 4.8/13 impr) for clicks; file CTR title+meta issues if still 0.
+2. **Zombie sweep** — check for PRs merged since 19:00 today.
+3. **#2715–#2718** — if still open at 07:00, post comment "60h+ open, no Watcher pick-up — investigate queue priority."
+4. **4★ queue** (promote when backlog <25): #2871 (Comparison-28 with Flo/Jaska/Greiner anchors) → #2859 (SoundLike-28) → #2857 (IM Book of Souls).
+
+---
 ## 2026-06-27 13:00 — L2 LLM gap #2877 filed, 11 proposals promoted (32→43), #2715–#2718 watch continued
 
 ### Context (≤3 lines)

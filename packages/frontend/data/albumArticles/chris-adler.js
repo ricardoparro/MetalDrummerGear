@@ -403,6 +403,437 @@ export const articles = {
       "content": "Chris Adler's 25-year tenure with Lamb of God didn't just establish him as one of metal's great drummers — it redefined what groove metal drumming could achieve. His combination of power, precision, and swing created a template that countless drummers have followed.\n\nThe numbers tell part of the story: five Grammy nominations with Lamb of God, a Grammy win with Megadeth, millions of albums sold, and arenas filled worldwide. But the real legacy is in how many drummers cite Adler as their primary influence, how many bands sound like they studied \"Ashes of the Wake\" as a textbook.\n\nWhat made Adler special wasn't technical extremity — plenty of drummers can play faster or more complex patterns. It was his ability to make heaviness groove, to find the swing within aggression, to create patterns that served songs rather than showcased ego. He brought musicality to brutality.\n\nThe pivot technique alone would secure his legacy. But combined with his dynamic control, his precise China accents, and his intuitive understanding of what heavy music needs, Adler created a style that was both influential and inimitable. You can learn his techniques, but his feel is his own.\n\nSince leaving Lamb of God in 2019, Adler has focused on education and new projects, sharing the knowledge he accumulated over 25 years in the trenches. The motorcycle accident in 2018 reminded him that life is fragile; he's chosen to spend his remaining years giving back to the drumming community.\n\n**What to Take Away:**\n- Groove is more important than speed\n- Self-teaching can lead to innovation\n- Serve the song above all else\n- Dynamics make heaviness hit harder\n- China cymbals deserve precision placement\n\nFrom Richmond basements to arena headlining, from Burn the Priest to Grammy gold, Chris Adler proved that American metal could groove as hard as it hit. The sound he helped create — technically impressive but viscerally moving — remains the standard for groove metal.\n\nEvery time a drummer finds the pocket in a heavy riff, every time a China cymbal accent lands with perfect precision, every time a groove makes a crowd move as one — that's Chris Adler's influence, still resonating through metal drumming.\n\n🥁 *\"The best drummers don't play drums — they play songs.\"* 🐑"
     }
   },
+  "as-the-palaces-burn-drum-setup": {
+    "slug": "as-the-palaces-burn-drum-setup",
+    "albumTitle": "As the Palaces Burn",
+    "artist": "Lamb of God",
+    "drummer": "Chris Adler",
+    "drummerId": 17,
+    "relatedDrummerSlug": "chris-adler",
+    "year": 2003,
+    "genre": "Groove Metal / New Wave of American Heavy Metal",
+    "label": "Prosthetic Records",
+    "studio": "Machine Shop Recordings",
+    "producer": "Machine (Mark Lewis)",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-28",
+    "dateModified": "2026-06-28",
+    "author": "MetalForge Editorial",
+    "title": "As the Palaces Burn Drum Setup: Chris Adler's Lamb of God Breakthrough Kit (2003)",
+    "description": "Complete breakdown of Chris Adler's drum setup on Lamb of God's As the Palaces Burn (2003). Mapex Pro M kit, Zildjian A Custom cymbals, and the groove metal technique that launched LoG internationally.",
+    "seoKeywords": [
+      "as the palaces burn drum setup",
+      "chris adler 2003 kit",
+      "lamb of god as the palaces burn drums",
+      "chris adler mapex pro m",
+      "chris adler zildjian",
+      "omerta drums",
+      "groove metal drums 2003",
+      "chris adler drum setup",
+      "lamb of god breakthrough album drums"
+    ],
+    "ogImage": "/images/albums/as-the-palaces-burn-drums.webp",
+    "intro": {
+      "title": "The Album That Launched Lamb of God Internationally",
+      "content": "Released on April 15, 2003 on Prosthetic Records, Lamb of God's \"As the Palaces Burn\" was the record that transformed the Richmond, Virginia metalheads from respected underground acts into bona fide international metal forces. Where \"New American Gospel\" (2000) had established the template, \"As the Palaces Burn\" refined and amplified it — tighter riffs, more dynamic songwriting, and Chris Adler's groove metal drumming at a level that grabbed metal audiences worldwide by the collar.\n\nThe album arrived at a pivotal moment. Nu-metal was fading, metalcore was still finding its footing, and the metal underground was hungry for something that bridged the aggression of extreme metal with the accessibility and groove that could fill venues. \"As the Palaces Burn\" was exactly that record — and \"Omerta,\" the album's iconic instrumental, gave the drumming world a showcase piece that metal drummers still study decades later.\n\nFor Chris Adler, this was the album where his Mapex Pro M setup became truly battle-tested. The dual 22\" kick drums, three rack toms, and two floor toms represented a broader configuration than he would later refine for \"Ashes of the Wake\" — a sign of a drummer still exploring the full reach of his setup. His cymbal configuration featured Zildjian A Custom cymbals, in the period immediately preceding the Meinl Byzance endorsement partnership that would define his sound from \"Ashes of the Wake\" (2004) onward.\n\nThe production, handled by Machine (Mark Lewis) — the same producer who would guide Lamb of God through \"Ashes of the Wake,\" \"Sacrament,\" and \"Wrath\" — captured Adler's drumming with the groove-first philosophy that would characterize their entire collaboration. Every pattern, fill, and China cymbal accent serves the song's momentum rather than the drummer's ego.\n\nThis article breaks down every piece of gear Chris Adler used to record \"As the Palaces Burn\" — the transitional setup that bridged the early LoG era with the Mapex/Meinl configuration that would define American groove metal.",
+      "keyPoints": [
+        "Released April 15, 2003 on Prosthetic Records",
+        "Lamb of God's international breakthrough album",
+        "\"Omerta\" became the most-cited LoG track for drumming discussions",
+        "Mapex Pro M with 3-rack-tom configuration — broader than later setups",
+        "Zildjian A Custom cymbals — last album before Meinl Byzance partnership",
+        "Produced by Machine (Mark Lewis) — first of five LoG albums together",
+        "Fills the gap between New American Gospel (2000) and Ashes of the Wake (2004)"
+      ]
+    },
+    "drumKit": {
+      "title": "The Groove Metal Foundation: Adler's Mapex Pro M Configuration",
+      "brand": "Mapex",
+      "model": "Mapex Pro M Series",
+      "finish": "Transparent Black",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum",
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "All-maple shells with SONIClear bearing edges"
+      },
+      "description": "For \"As the Palaces Burn,\" Chris Adler's Mapex Pro M Series kit represented the professional-grade foundation that would carry him through the breakthrough years. The all-maple shells provided the fundamental combination of attack and warmth that groove metal demands — punchy enough to cut through Lamb of God's guitar assault, resonant enough to groove with the undeniable rhythmic swagger that set the band apart.\n\nThe three-rack-tom configuration — 10\", 12\", and 13\" — gave Adler broader melodic reach for fills than the two-rack setup he would later standardize for \"Ashes of the Wake.\" In this earlier era, Adler was still defining which parts of his setup he truly needed, and the extra 13\" tom adds fuller descending fill patterns across several \"As the Palaces Burn\" tracks. The two floor toms (14\" and 16\") completed a kit designed for maximum dynamic range.\n\nThe dual 22\" x 18\" bass drums were already non-negotiable by 2003. Adler's approach to double bass differed fundamentally from using a double pedal — two independent kick drums meant independent tonal character per foot, visual impact that matched Lamb of God's intensity, and the ability to tune each drum independently. The 18\" depth added low-end authority that shallower shells couldn't match.\n\nMapex's SONIClear bearing edges ensured even head contact across the entire drum head surface, producing the consistent tone that Machine's recording approach demanded. Combined with Remo heads and careful tuning, the Pro M kit delivered the punchy, articulate sound that would define the pre-\"Ashes\" Lamb of God drum sound — raw enough to feel dangerous, refined enough to groove with precision.\n\nThis same Pro M Series kit would power \"Ashes of the Wake\" (2004), providing tonal continuity between the two albums even as the cymbal setup changed dramatically with the Meinl Byzance endorsement.",
+      "notes": [
+        "Three-rack-tom configuration — 10\", 12\", 13\" (later reduced to two for Ashes)",
+        "Dual 22x18\" bass drums established as non-negotiable",
+        "All-maple shells for attack and warmth balance",
+        "SONIClear bearing edges for consistent head contact",
+        "Same Pro M kit carried directly into Ashes of the Wake sessions"
+      ],
+      "estimatedValue": "$2,000-3,000 (2003 Pro M configuration)"
+    },
+    "snare": {
+      "title": "The Transitional Crack: Adler's Pre-Warbird Snare",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther Maple",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple with die-cast hoops",
+      "description": "By the time of \"As the Palaces Burn,\" Chris Adler was settling on the snare characteristics that would define his playing for the next decade. The Mapex Black Panther maple snare at 14\" x 5.5\" represented a crucial middle ground — the standard metal diameter combined with a depth that balanced crack and body without either extreme.\n\nThe maple shell provided warmth without sacrificing attack, and the die-cast hoops added focus and rimshot consistency essential for Adler's precise playing style. Ghost notes are fundamental to his groove metal approach, and a maple snare at this depth registers every subtle touch while maintaining the body needed for power rimshots on heavier passages.\n\nThe 5.5\" depth kept the snare tight and focused — qualities that Machine's production approach valued for cutting through the dense guitar arrangements. On tracks like \"Ruin\" and \"For Your Malice,\" the snare sits precisely in the mix without washing out the mid-range or competing with the guitar work.\n\nThis snare configuration carried directly into \"Ashes of the Wake\" (2004), where Machine captured the same fundamental character. The sound became a reference point — tight, cracking, with perfect balance between attack and body — eventually informing the development of Adler's signature Mapex Warbird snare, which retained the 5.5\" depth while reducing the diameter to 12\" for even faster response.",
+      "tuningSetting": "Medium-high for crack and ghost note response",
+      "heads": "Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$300-400 (2003 Black Panther maple)"
+    },
+    "cymbals": {
+      "title": "The Pre-Meinl Arsenal: Zildjian A Custom",
+      "brand": "Zildjian",
+      "series": "Zildjian A Custom",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian 14\" A Custom Hi-Hats",
+          "position": "Left side",
+          "notes": "Standard 14\" hi-hats — slightly larger than the 13\" Meinl hats that followed on Ashes"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 16\" A Custom Crash",
+          "position": "Far left",
+          "notes": "Quick, explosive accent crash"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 18\" A Custom Crash",
+          "position": "Left of rack toms",
+          "notes": "Primary crash for transitions and section endings"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian 20\" A Custom Ride",
+          "position": "Far right",
+          "notes": "Bright, cutting bell with controlled wash"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian 18\" A Custom China",
+          "position": "Above floor tom",
+          "notes": "SIGNATURE ACCENT — China cymbal precision already defining the LoG sound"
+        }
+      ],
+      "description": "\"As the Palaces Burn\" captures Chris Adler's cymbal sound in transition — the Zildjian A Custom setup that defined this era was the last configuration before the Meinl Byzance endorsement partnership that began with \"Ashes of the Wake\" (2004). Understanding what Adler was playing in 2003 illuminates exactly what changed — and what stayed the same — when the Meinl collaboration started.\n\nThe Zildjian A Custom series delivers bright, cutting, bell-forward clarity — a highly polished, lathed surface that gives each strike an immediate, defined attack. In \"As the Palaces Burn\"'s mix, the A Custom cymbals sit with presence and sparkle, cutting through the guitar density without requiring Machine to push the overhead levels too high.\n\nThe 14\" hi-hats are notably larger than the 13\" Meinl Byzance hats Adler would adopt for \"Ashes of the Wake.\" This size difference is meaningful: 14\" hats respond slightly slower than compact 13\" hats. By moving to 13\" for Ashes, Adler gained the quick response his developing \"pivot\" technique demanded — a change that reflects how much his left-foot independence work evolved between 2003 and 2004.\n\nThe China cymbal is already present and already essential. Even in the Zildjian A Custom configuration, Adler's China accent placement — those trashy, explosive punctuations against riff entrances and structural transitions — is the signature element that defines Lamb of God's rhythmic identity. The A Custom China's brighter, more explosive character compared to the darker Meinl Byzance Chinas gives \"As the Palaces Burn\" a different tonal flavor, but the musical intent is unmistakably Adler.\n\nThe crash configuration — 16\" and 18\" — provided dynamic range without overloading the setup. The 20\" A Custom ride's cutting bell served verse sections and accent work, while its controlled wash functioned as a crash alternative during climactic moments.",
+      "estimatedValue": "$1,200-1,800 total (2003 Zildjian A Custom setup)"
+    },
+    "hardware": {
+      "title": "The Foundation: Mapex Hardware",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Mapex",
+          "model": "Mapex P400 Double Pedal (used as two singles)",
+          "notes": "Chain-drive mechanism for double kick configuration",
+          "description": "Adler's pre-signature pedal era saw him using Mapex chain-drive pedals on the dual bass drum setup. The P400's reliable mechanism provided consistent response for his developing double bass patterns — straightforward, sturdy, and appropriate for the demanding touring cycle \"As the Palaces Burn\" would generate."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Mapex",
+          "model": "Mapex Hi-Hat Stand",
+          "notes": "Responsive action for pivot technique development",
+          "description": "Adler's left-foot independence work — what would later be formalized as his signature \"pivot technique\" — was already developing during the AtPB era. A responsive hi-hat stand was essential as he experimented with adding independent hi-hat dynamics beneath grooves that both hands occupied."
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Hydraulic shock absorption for long sessions",
+          "description": "Adler's Roc-N-Soc throne was part of his setup through the early 2000s. The hydraulic base provided the physical comfort needed for long rehearsal sessions as Lamb of God refined the material that became \"As the Palaces Burn.\""
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5A American Classic",
+          "notes": "Standard 5A before signature development",
+          "description": "Before developing his Promark signature model, Adler relied on Vic Firth 5A sticks — a versatile, balanced choice that provided enough mass for powerful groove metal playing while maintaining the maneuverability needed for ghost notes and precise China cymbal accents."
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke P3 Clear (batter), Remo Ambassador (resonant with port)",
+        "toms": "Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Capturing the Breakthrough Sound: Machine and the AtPB Sessions",
+      "content": "Producer Machine (Mark Lewis) brought the same groove-first recording philosophy to \"As the Palaces Burn\" that would define his entire Lamb of God collaboration. Working with the band on their Prosthetic Records debut with this lineup, Machine understood that Adler's drumming required a production approach that preserved feel over perfection — quantizing Adler's patterns would strip the very quality that made them compelling.\n\n**The Recording Approach:**\nMachine's approach with Adler centered on capturing the kit's natural character while using close-mic precision for a metal-ready mix. The Mapex Pro M's all-maple construction provided the fundamental tone, and Machine's placement decisions let the shells speak without excessive processing.\n\n**Drum Sound Philosophy:**\nThe AtPB drum sound is direct and aggressive — qualities that suit the material. Tracks like \"Ruin\" and \"For Your Malice\" hit with an immediacy that feels live and dangerous, a character that set a standard for independent metal production in its era.\n\n**Groove Preservation:**\nMachine's non-negotiable from Adler's earliest collaboration: the feel stays. The slight forward lean on uptempo sections, the natural swing in half-time grooves — these were preserved rather than corrected to a grid. \"As the Palaces Burn\" grooves because it sounds like humans playing with conviction.\n\n**Establishing the Partnership:**\nThe \"As the Palaces Burn\" sessions established the Machine-Adler working relationship that would produce some of groove metal's most celebrated recordings. The trust built here — Machine knowing when to push Adler for another take and when the feel was exactly right — translated directly into the \"Ashes of the Wake\" sessions that followed.",
+      "keyTechniques": [
+        "Groove-first philosophy — natural feel preserved over grid correction",
+        "Direct, raw drum sound suited to independent metal aesthetic",
+        "Close-mic precision for metal-ready clarity",
+        "Machine-Adler working relationship established for future LoG collaborations"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Ruin",
+        "bpm": "145",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener establishes Adler's groove metal identity immediately",
+          "Dual bass drum patterns with natural swing",
+          "China cymbal accents mark the main riff iterations",
+          "Dynamic verse-to-chorus transition showcases control",
+          "Ghost notes add texture beneath the heavy groove"
+        ],
+        "gearNotes": "The Pro M kit's punch cuts through immediately. A Custom China accents announce each riff entrance with explosive impact."
+      },
+      {
+        "track": "Omerta",
+        "bpm": "108",
+        "signature": "4/4",
+        "highlights": [
+          "The iconic Lamb of God instrumental — most-cited LoG track for drumming study",
+          "Restraint that builds into devastating groove",
+          "Slow tempo showcases Adler's groove fundamentals over speed",
+          "Dynamic range from near-silence to full-kit assault",
+          "Perfect example of serving the arrangement over ego"
+        ],
+        "gearNotes": "Slower tempo reveals the full tonal range of the Pro M kit. The A Custom ride's controlled wash adds atmosphere during verses before the main groove arrives."
+      },
+      {
+        "track": "For Your Malice",
+        "bpm": "168",
+        "signature": "4/4",
+        "highlights": [
+          "Thrash-influenced double bass assault with groove metal feel",
+          "China cymbal accents punctuate each structural section change",
+          "Three-rack-tom fills demonstrate the broader AtPB kit configuration",
+          "Relentless driving groove that showcases Adler's stamina at speed"
+        ],
+        "gearNotes": "The extra 13\" rack tom enables fuller descending fill patterns. P400 pedals sustain the double bass demands at this tempo."
+      }
+    ],
+    "gearDiff": {
+      "title": "As the Palaces Burn vs Ashes of the Wake: The Pre- and Post-Meinl Setup",
+      "content": "The year between \"As the Palaces Burn\" (2003) and \"Ashes of the Wake\" (2004) saw the most significant cymbal change in Chris Adler's career — the beginning of the Meinl Byzance endorsement partnership that would define his sound for years. Both albums were recorded on the same Mapex Pro M drumkit, making the cymbal difference all the more audible on an A/B comparison.\n\n**Drums:** Mapex Pro M → Mapex Pro M (unchanged)\nThis is the crucial connective point — the kit stayed the same. The characteristic punch of Adler's Mapex Pro M sound links the two albums at the foundational level.\n\n**Rack Tom Configuration:** 10\"/12\"/13\" (three toms) → 10\"/12\" (two toms)\nAdler simplified his tom setup between AtPB and Ashes, removing the 13\" rack tom. His increasingly refined approach to fills — precise, song-serving punctuation — made the third rack tom redundant. The streamlined two-rack setup became his standard going forward.\n\n**Cymbals:** Zildjian A Custom → Meinl Byzance\nThe defining change. A Custom's bright, cutting, lathed character gives AtPB its cymbal identity. Meinl Byzance's darker, more complex, hand-hammered palette gave Ashes of the Wake an entirely different top-end sound. This tonal shift marks the beginning of Adler's mature cymbal voice.\n\n**Hi-Hat Size:** 14\" A Custom → 13\" Byzance Traditional\nThe hi-hat size reduction reflects Adler's evolving pivot technique. Moving from 14\" to 13\" hi-hats gave him faster left-foot response for the increasingly intricate independence work that defines his playing.\n\n**Pedals:** Mapex P400 → Mapex Janus\nThe pedal upgrade between albums reflected Lamb of God's improved position after AtPB's international success. The Janus offered refined chain-drive mechanics suited to the touring demands of a breakout international metal band.",
+      "comparison": [
+        {
+          "category": "Drums",
+          "atpb": "Mapex Pro M (all-maple)",
+          "ashes": "Mapex Pro M (same kit)"
+        },
+        {
+          "category": "Rack Toms",
+          "atpb": "10\"/12\"/13\" (three toms)",
+          "ashes": "10\"/12\" (two toms)"
+        },
+        {
+          "category": "Snare",
+          "atpb": "Mapex Black Panther 14×5.5\" maple",
+          "ashes": "Mapex Black Panther 14×5.5\" maple (same)"
+        },
+        {
+          "category": "Cymbals",
+          "atpb": "Zildjian A Custom (bright/cutting)",
+          "ashes": "Meinl Byzance (dark/complex)"
+        },
+        {
+          "category": "Hi-Hats",
+          "atpb": "14\" Zildjian A Custom",
+          "ashes": "13\" Meinl Byzance Traditional"
+        },
+        {
+          "category": "Pedals",
+          "atpb": "Mapex P400 chain-drive",
+          "ashes": "Mapex Janus chain-drive"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "question": "What drum kit did Chris Adler use on As the Palaces Burn?",
+        "answer": "Chris Adler recorded Lamb of God's As the Palaces Burn in 2003 on a Mapex Pro M Series kit. The configuration included dual 22x18 inch bass drums, three rack toms at 10, 12, and 13 inches, and 14 and 16 inch floor toms, all built with all-maple shells featuring SONIClear bearing edges. This three-rack configuration was later streamlined to two rack toms for Ashes of the Wake (2004), but the same Pro M Series kit carried directly into those sessions — making the drums the one constant between the two landmark albums."
+      },
+      {
+        "question": "What cymbals did Chris Adler use on As the Palaces Burn?",
+        "answer": "Chris Adler used Zildjian A Custom cymbals on As the Palaces Burn (2003). His setup included 14 inch A Custom hi-hats, 16 and 18 inch A Custom crashes, a 20 inch A Custom ride, and an 18 inch A Custom China. This was Adler's last album with the Zildjian A Custom setup before the Meinl Byzance endorsement partnership began for Ashes of the Wake (2004). The switch from 14 inch Zildjian hi-hats to 13 inch Meinl hats reflected the evolution of his left-foot pivot technique."
+      },
+      {
+        "question": "How does As the Palaces Burn fit into Lamb of God's discography?",
+        "answer": "As the Palaces Burn (2003, Prosthetic Records) fills the critical gap between New American Gospel (2000) and Ashes of the Wake (2004) in Lamb of God's studio catalog. It was the international breakthrough album that launched the band globally and brought Chris Adler's groove metal drumming to a worldwide audience. The album's success generated the momentum that led to the Epic Records deal and Audiohammer sessions that produced Ashes of the Wake. The iconic instrumental Omerta remains one of the most-cited Lamb of God recordings in drumming discussions."
+      },
+      {
+        "question": "What makes Omerta significant for drummers studying Chris Adler?",
+        "answer": "Omerta, from As the Palaces Burn, is significant because it demonstrates Chris Adler's dynamic control and groove-first philosophy as an instrumental showcase with nowhere to hide. The track builds from near silence to full-kit assault, with Adler's drumming serving the arrangement's drama rather than filling space. The slower tempo exposes the full tonal range of his Mapex Pro M kit, the precision of his Zildjian A Custom China placements, and the foundation of his pivot technique hi-hat independence work. It became the most-studied Lamb of God track in online drumming communities for analysis of Adler's dynamic approach and song service philosophy."
+      },
+      {
+        "question": "What is the difference between As the Palaces Burn and Ashes of the Wake drum setups?",
+        "answer": "The primary difference between As the Palaces Burn (2003) and Ashes of the Wake (2004) is the cymbal setup. Both albums used the same Mapex Pro M Series drum kit, but As the Palaces Burn featured Zildjian A Custom cymbals with 14 inch hi-hats, while Ashes of the Wake introduced the Meinl Byzance partnership with darker, more complex cymbal tones and 13 inch hi-hats. Adler also simplified his rack tom configuration from three toms on AtPB to two toms on Ashes. The Meinl Byzance cymbals gave Ashes a notably darker, more complex top-end character compared to AtPB's brighter Zildjian sound."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "ashes-of-the-wake-drum-setup",
+      "whats-in-chris-adlers-kit"
+    ],
+    "relatedDrummers": [
+      11,
+      2,
+      15
+    ],
+    "relatedArticles": [
+      "groove-metal-drummers",
+      "best-drum-pedals-for-death-metal",
+      "whats-in-chris-adlers-kit"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Breakthrough Blueprint: AtPB's Place in the LoG Legacy",
+      "content": "\"As the Palaces Burn\" occupies a specific and irreplaceable position in the Lamb of God catalog: it's the album that proved the \"New American Gospel\" sound could reach a global audience without compromise. For Chris Adler, it represented the Mapex Pro M setup at its most expansive — three rack toms, Zildjian A Custom cymbals, and a developing technique that was already unmistakably his own.\n\nWhat the album captures is Adler at a creative inflection point. The groove fundamentals are all present — China cymbal precision, pivot technique hi-hat independence, ghost notes woven through heavy patterns — but the setup is broader and the approach slightly more exploratory than the laser-focused refinement of \"Ashes of the Wake.\" In retrospect, \"As the Palaces Burn\" reads as the album where Adler discovered which elements of his setup were essential and which could be simplified.\n\nThe Zildjian A Custom to Meinl Byzance transition between AtPB and Ashes is one of the most significant gear shifts in groove metal history. The brighter, more cutting A Custom sound of 2003 gave way to the darker, more complex Byzance character of 2004, and that tonal identity became the foundation of Adler's mature sound. Understanding AtPB's Zildjian setup makes the Ashes transformation audible in a way it isn't when you come to Ashes cold.\n\nFor any drummer studying the Lamb of God catalog from the beginning, \"As the Palaces Burn\" is essential listening and an essential gear reference. The [Chris Adler drummer profile](/drummer/chris-adler) provides the complete career arc; the [Ashes of the Wake setup article](/articles/ashes-of-the-wake-drum-setup) documents what came next and what changed. Together, these articles tell the complete story of how groove metal drumming found its definitive voice.\n\n🤘 *The international breakthrough. The last Zildjian album. The foundation of everything that followed.* 🤘"
+    },
+    "internalLinks": [
+      {
+        "text": "Chris Adler drummer profile",
+        "url": "/drummer/chris-adler"
+      },
+      {
+        "text": "Ashes of the Wake drum setup (2004)",
+        "url": "/articles/ashes-of-the-wake-drum-setup"
+      },
+      {
+        "text": "What's In Chris Adler's Kit",
+        "url": "/articles/whats-in-chris-adlers-kit"
+      },
+      {
+        "text": "Mapex drums brand overview",
+        "url": "/gear/mapex"
+      },
+      {
+        "text": "Zildjian cymbals brand overview",
+        "url": "/gear/zildjian"
+      }
+    ],
+    "sitemapPriority": 0.9,
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "As the Palaces Burn Drum Setup: Chris Adler's Lamb of God Breakthrough Kit (2003)",
+          "description": "Complete breakdown of Chris Adler's drum setup on Lamb of God's As the Palaces Burn (2003). Mapex Pro M kit, Zildjian A Custom cymbals, and the groove metal technique that launched LoG internationally.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-06-28",
+          "dateModified": "2026-06-28"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://metalforge.io/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Articles",
+              "item": "https://metalforge.io/articles"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "As the Palaces Burn Drum Setup",
+              "item": "https://metalforge.io/articles/as-the-palaces-burn-drum-setup"
+            }
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "As the Palaces Burn",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Lamb of God"
+          },
+          "datePublished": "2003-04-15",
+          "genre": "Groove Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Prosthetic Records"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Ruin"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "For Your Malice"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Omerta"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Blood Junkie"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "The Mark"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Vigil"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Chris Adler",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Lamb of God"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drum kit did Chris Adler use on As the Palaces Burn?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Chris Adler used a Mapex Pro M Series kit on As the Palaces Burn (2003), with dual 22x18\" bass drums, three rack toms (10\", 12\", 13\"), and 14\" and 16\" floor toms. All-maple shells with SONIClear bearing edges."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals did Chris Adler use on As the Palaces Burn?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Chris Adler used Zildjian A Custom cymbals on As the Palaces Burn (2003): 14\" hi-hats, 16\" and 18\" crashes, 20\" ride, and 18\" China. This was his last album before switching to Meinl Byzance for Ashes of the Wake (2004)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How does As the Palaces Burn fit in Lamb of God's discography?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "As the Palaces Burn (2003, Prosthetic Records) fills the gap between New American Gospel (2000) and Ashes of the Wake (2004). It was Lamb of God's international breakthrough album and the first of five records Chris Adler made with producer Machine (Mark Lewis)."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
   "ashes-of-the-wake-drum-setup": {
     "slug": "ashes-of-the-wake-drum-setup",
     "albumTitle": "Ashes of the Wake",
@@ -707,6 +1138,7 @@ export const articles = {
       }
     ],
     "relatedAlbums": [
+      "as-the-palaces-burn-drum-setup",
       "vulgar-display-of-power-drum-setup",
       "from-mars-to-sirius-drum-setup",
       "iowa-drum-setup"

@@ -525,4 +525,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <!-- Issue #3071: Lamb of God 'As the Palaces Burn' drum setup (Chris Adler, 2003) -->
+  <url>
+    <loc>https://metalforge.io/articles/as-the-palaces-burn-drum-setup</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>

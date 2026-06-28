@@ -15,6 +15,9 @@
 #
 # Env: REPO, GH_TOKEN, CLAUDE_CODE_OAUTH_TOKEN (subscription auth — set instead of
 #      ANTHROPIC_API_KEY to bill the Pro/Max plan, not the API).
+#      Optional: CLAUDE_CODE_OAUTH_TOKEN_2 — a SECOND subscription used as backup.
+#      The preferred token is always tried first; on a usage/rate limit the run
+#      fails over to the backup for the rest of the run (see run_claude below).
 #      Optional: WALL_CAP_MIN, PER_ISSUE_TIMEOUT, ROADIE_WORKER_OFFSET (distinct
 #      per worker when run as a parallel fleet — see .github/workflows/roadie-night-fleet.yml).
 # Safe to run as N concurrent workers: each claims a different issue (offset +
@@ -45,8 +48,52 @@ declare -A TRIED=()
 # of grinding the whole queue and burning the GitHub API quota.
 CONSEC_FAIL=0
 NOOP_CIRCUIT="${NOOP_CIRCUIT:-12}"
+# Dual-subscription failover. Set CLAUDE_CODE_OAUTH_TOKEN (preferred) and,
+# optionally, CLAUDE_CODE_OAUTH_TOKEN_2 (backup). Each run starts on the
+# preferred token; the FIRST time it hits a usage/rate limit we switch to the
+# backup for the rest of THIS run (PRIMARY_DEAD), so the preferred plan is always
+# used first and we only spend the backup once the preferred is exhausted. When
+# both are limited the circuit breaker above bails the run.
+ROADIE_TOKEN_PRIMARY="${CLAUDE_CODE_OAUTH_TOKEN:-}"
+ROADIE_TOKEN_BACKUP="${CLAUDE_CODE_OAUTH_TOKEN_2:-}"
+PRIMARY_DEAD=0
 elapsed() { echo $(( $(date +%s) - START )); }
 log() { echo "[$(date -u +%H:%M:%S)] $*"; }
+
+# True if the claude output log looks like a subscription usage / rate limit.
+looks_rate_limited() {
+  grep -qiE "usage limit|rate.?limit|limit reached|too many requests|\b429\b|quota|overloaded|insufficient" "$1" 2>/dev/null
+}
+
+# Run claude for one issue with preferred→backup failover.
+#   $1 = prompt file, $2 = output log. Returns claude's exit code.
+run_claude() {
+  local prompt="$1" out="$2" tok t0 dt rc
+  if (( PRIMARY_DEAD )) && [ -n "$ROADIE_TOKEN_BACKUP" ]; then
+    tok="$ROADIE_TOKEN_BACKUP"
+  else
+    tok="$ROADIE_TOKEN_PRIMARY"
+  fi
+  t0=$(date +%s)
+  CLAUDE_CODE_OAUTH_TOKEN="$tok" timeout "${PER_ISSUE_TIMEOUT}s" \
+    claude --print --dangerously-skip-permissions < "$prompt" > "$out" 2>&1
+  rc=$?
+  dt=$(( $(date +%s) - t0 ))
+  # Fail over to the backup once, retrying THIS issue, when the preferred token
+  # is limited. Signal = an explicit limit message OR a non-zero exit that
+  # returned almost instantly (a real implementation never finishes in <30s; a
+  # ~7s non-zero exit is the throttle signature we observed).
+  if (( ! PRIMARY_DEAD )) && [ -n "$ROADIE_TOKEN_BACKUP" ] && [ "$rc" -ne 0 ] \
+     && { looks_rate_limited "$out" || (( dt < 30 )); }; then
+    log "preferred Claude token looks limited (rc=$rc, ${dt}s) — failing over to backup token for the rest of this run"
+    PRIMARY_DEAD=1
+    t0=$(date +%s)
+    CLAUDE_CODE_OAUTH_TOKEN="$ROADIE_TOKEN_BACKUP" timeout "${PER_ISSUE_TIMEOUT}s" \
+      claude --print --dangerously-skip-permissions < "$prompt" > "$out" 2>&1
+    rc=$?
+  fi
+  return $rc
+}
 
 # A branch (anywhere on origin) whose name contains the issue number as a token
 branch_exists_for() {
@@ -134,8 +181,7 @@ implement_issue() {
   } > "/tmp/roadie-$n.md"
 
   log "Running Roadie on #$n ($title)"
-  timeout "${PER_ISSUE_TIMEOUT}s" claude --print --dangerously-skip-permissions \
-    < "/tmp/roadie-$n.md" > "$RUNS_DIR/issue-$n.log" 2>&1
+  run_claude "/tmp/roadie-$n.md" "$RUNS_DIR/issue-$n.log"
   local rc=$?
   [ "$rc" = "124" ] && log "#$n timed out after ${PER_ISSUE_TIMEOUT}s"
 

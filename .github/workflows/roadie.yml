@@ -69,6 +69,9 @@ jobs:
           # Subscription auth (Pro/Max) instead of pay-per-use API billing.
           # CLI uses the OAuth token when ANTHROPIC_API_KEY is absent.
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          # Optional 2nd subscription — drain.sh fails over to it when the
+          # preferred token hits its usage limit (preferred is always tried first).
+          CLAUDE_CODE_OAUTH_TOKEN_2: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}
           REPO: ${{ github.repository }}
           GITHUB_RUN_ID: ${{ github.run_id }}
           # Bound each day run to 2h so the last 17:00 UTC launch finishes by

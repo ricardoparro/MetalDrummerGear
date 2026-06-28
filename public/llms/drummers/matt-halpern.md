@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/matt-halpern"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-06-28"
 ---
 
 # Matt Halpern — Drum Kit & Gear Setup
@@ -25,6 +25,12 @@ Matt Halpern's drum kit and gear setup. Matt Halpern is a professional metal dru
 | Drum kit | Pearl Reference Series |
 | Signature snare | Pearl Reference 14x6.5" Brass |
 | Sticks | Promark Matt Halpern Signature |
+
+## Kit Overview
+
+Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range and articulate response across Periphery's complex polyrhythmic arrangements. As one of the key architects of the djent movement and a Berklee College of Music graduate, Halpern has built one of progressive metal's most studied drum sets, balancing technical precision with an organic, groove-focused feel.
+
+The centerpiece of the Matt Halpern drum kit is his Pearl Reference 14×6.5" Brass snare drum, delivering cutting, focused crack that sits precisely within Periphery's dense, downtuned guitar layers on albums like Periphery II, Juggernaut, and Hail Stan. The Matt Halpern drum set features Meinl Byzance Series cymbals throughout: 15" Dark Hi-Hats for a dry, controlled feel on odd-time grooves; 18" and 20" Extra Dry Medium Crashes for quick-decaying accents; a 22" Transition Ride for clear articulation in complex patterns; and an 18" Extra Dry China for aggressive punctuation. A Pearl Demon Drive double pedal drives the precise double bass lines beneath djent's syncopated rhythms. Promark Matt Halpern Signature sticks complete the rig.
 
 ## Biography
 

@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/eloy-casagrande"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-06-28"
 ---
 
 # Eloy Casagrande — Drum Kit & Gear Setup
@@ -26,6 +26,12 @@ Eloy Casagrande's drum kit and gear setup. Eloy Casagrande is a professional met
 | Drum kit | Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) |
 | Signature snare | Tama Bell Brass 14x5.5" (BB146) |
 | Sticks | Promark Eloy Casagrande Signature |
+
+## Kit Overview
+
+Eloy Casagrande plays a Tama Starclassic Bubinga drum kit — a massive, dual-bass-drum configuration built for the extreme dynamics of both his 13 years with Sepultura and his current role as Slipknot's drummer. Named Modern Drummer's No. 1 Metal Drummer in their 2024 Readers' Poll, Casagrande has assembled one of the most formidable drum sets in contemporary metal, balancing explosive speed with controlled musical precision.
+
+The centerpiece of the Eloy Casagrande drum kit is his Tama Bell Brass snare drum (14×5.5"), chosen for its bright, cutting attack that slices through dense metal arrangements. The Eloy Casagrande drum set features Paiste cymbals throughout: 15" Masters Dark Hi-Hats for a dark, nuanced feel; 20" 602 and Masters Dark Crashes for explosive dynamic accents; a 20" 2002 Power Ride for cutting rhythmic clarity; and a 20" 2002 Novo China for aggressive punctuation. A Tama Iron Cobra double pedal powers the explosive double bass passages that defined Sepultura's Roots and Machine Messiah eras, as well as the relentless intensity Casagrande brings to Slipknot's live performances. Promark signature sticks complete the rig.
 
 ## Biography
 

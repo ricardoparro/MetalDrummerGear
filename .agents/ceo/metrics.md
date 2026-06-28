@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-28 00:42 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-28 00:46 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 107 |
-| Sessions | 118 |
-| Page views | 205 |
-| Engagement rate | 61.02% |
-| Avg session (s) | 135 |
+| Active users | 108 |
+| Sessions | 119 |
+| Page views | 206 |
+| Engagement rate | 60.50% |
+| Avg session (s) | 134 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -22,7 +22,7 @@
 | /drummer/ben-koller | 9 | 8 |
 | /drummer/mario-duplantier | 9 | 7 |
 | /drummer/inferno | 8 | 7 |
-| /drummer/john-otto | 7 | 3 |
+| /drummer/john-otto | 8 | 4 |
 | /drummer/hellhammer | 6 | 4 |
 | /drummer/shannon-larkin | 6 | 5 |
 | /drummer/jaska-raatikainen | 5 | 5 |

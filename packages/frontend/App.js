@@ -4590,8 +4590,8 @@ const GEAR_API_URL = typeof window !== 'undefined' && window.location.hostname !
 // with near-zero CTR. Keyed by drummer slug (name → lowercase-hyphenated).
 const DRUMMER_PAGE_META_OVERRIDES = {
   'joey-jordison': {
-    title: 'Joey Jordison Drum Set & Kit — Gear, Cymbals, Bass Drums | MetalForge',
-    description: "What drum set did Joey Jordison use? Pearl Masterworks drum set, Sabian AAX cymbals, DW double pedals — complete Slipknot drummer gear breakdown.",
+    title: 'Joey Jordison Drum Set & Kit — Pearl Masters, Paiste RUDE | MetalForge',
+    description: "What drum set did Joey Jordison use? Pearl Masters Premium Maple drum kit, his signature 13\" Pearl snare, Paiste RUDE cymbals, Pearl Demon Drive double pedal — complete Slipknot drummer gear breakdown.",
   },
   'eloy-casagrande': {
     title: 'Eloy Casagrande Drum Kit & Setup — Tama Starclassic | MetalForge',

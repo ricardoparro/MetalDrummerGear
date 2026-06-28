@@ -143,8 +143,8 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
       { slug: 'murderdolls', period: '2002-2011', role: 'Guitar' },
       { slug: 'sinsaenum', period: '2016-2021', role: 'Drums' }
     ],
-    metaTitle: 'Joey Jordison Drum Set & Kit — Slipknot Drummer Gear | MetalForge',
-    metaDescription: 'Joey Jordison drum set breakdown: Pearl Masterworks kit, Sabian AAX cymbals, DW double pedals. Complete Slipknot drummer gear guide and career biography.',
+    metaTitle: 'Joey Jordison Drum Set & Kit — Pearl Masters, Paiste RUDE | MetalForge',
+    metaDescription: 'Joey Jordison drum set and drum kit breakdown: Pearl Masters Premium Maple kit, Pearl Joey Jordison Signature 13" snare, Paiste RUDE cymbals, Pearl Demon Drive double pedal. Complete Slipknot drummer gear guide and career biography.',
     ogImage: '/images/drummers/joey-jordison.webp',
     keywords: ['slipknot', 'nu metal', 'pearl drums', 'iowa', 'blast beats', 'masked drummer', 'extreme metal', 'drum set', 'drum kit'],
     relatedDrummers: ['lars-ulrich', 'dave-lombardo', 'gene-hoglan', 'eloy-casagrande'],
@@ -251,8 +251,8 @@ For a complete era-by-era component breakdown, see the [Joey Jordison drum setup
           { q: 'Why did Joey Jordison leave Slipknot?', a: 'Joey left Slipknot in 2013; he later revealed he had been battling transverse myelitis.' },
           { q: 'What was Joey Jordison famous for?', a: 'Joey was famous for his extreme speed, rotating drum platform, and co-founding Slipknot.' },
           { q: "What was Joey Jordison's mask number?", a: 'Joey wore mask #1 in Slipknot, a Kabuki-style Japanese mask.' },
-          { q: 'What drum set did Joey Jordison use?', a: 'Joey Jordison used a Tama Starclassic Performer drum set during his primary Slipknot era, configured with a 22" bass drum and 12", 13", and 16" toms. His snare was the Pearl Joey Jordison Signature 13"×6.5". He later transitioned to a Pearl Reference Pure kit for post-Slipknot projects.' },
-          { q: "What was Joey Jordison's drum kit?", a: "Joey Jordison's drum kit during his peak Slipknot era was a Tama Starclassic Performer (22\" BD, 12\"/13\"/16\" toms) with a Pearl Joey Jordison Signature 13\"×6.5\" snare. Axis A Longboard double bass pedals powered his extreme blast beats, and Remo Ambassador Coated heads were fitted on the batter side." },
+          { q: 'What drum set did Joey Jordison use?', a: 'Joey Jordison used a Pearl Masters Premium Maple drum set during his Slipknot career. The drum set was configured with his signature Pearl Joey Jordison 13"×6.5" snare — smaller than the standard 14" for faster machine-gun fills — paired with Paiste RUDE Series cymbals and Pearl Demon Drive double bass pedals. He later transitioned to a Pearl Reference Pure kit for his side projects.' },
+          { q: "What was Joey Jordison's drum kit?", a: "Joey Jordison's drum kit during his peak Slipknot era was a Pearl Masters Premium Maple configuration, centred on his signature 13\"×6.5\" Pearl Joey Jordison snare drum. Pearl Demon Drive double bass pedals powered his extreme blast beats. Paiste RUDE Series cymbals — 14\" hi-hats, 18\" & 19\" crashes, 20\" Chinas, and a 22\" Power Ride — completed the kit." },
           { q: 'What cymbals did Joey Jordison use?', a: 'Joey Jordison used Sabian HHX Evolution 14" hi-hats, Sabian AAX Stage crashes (16" and 18"), and a Sabian AAX Stage 21" ride cymbal. During the Iowa era he also employed Paiste RUDE and 2002 series cymbals known for their aggressive cut and extreme durability.' },
           { q: 'What bass drum pedals did Joey Jordison use?', a: "Joey Jordison used Axis A Longboard double bass drum pedals. The long footboard design gave him the leverage and speed required for his extreme double kick patterns and the blast beats he performed live on Slipknot's rotating drum riser." }
         ]

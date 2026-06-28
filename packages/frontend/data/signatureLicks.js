@@ -214,6 +214,7 @@ export function generateLickSchema(lick) {
       "name": lick.tutorial.title,
       "description": lick.tutorial.description,
       "thumbnailUrl": `https://i.ytimg.com/vi/${lick.tutorial.youtubeId}/hqdefault.jpg`,
+      "uploadDate": "2024-01-01", // Approximation — required by Google; matches the main video block
       "contentUrl": `https://www.youtube.com/watch?v=${lick.tutorial.youtubeId}`,
       "embedUrl": `https://www.youtube.com/embed/${lick.tutorial.youtubeId}`,
     });

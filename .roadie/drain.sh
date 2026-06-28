@@ -34,6 +34,17 @@ RUNS_DIR=".agents/roadie-runs"
 mkdir -p "$RUNS_DIR"
 
 declare -a DONE_PR=() DONE_HUMAN=() DONE_NOOP=() DONE_ERR=()
+# Issues attempted in THIS run — never re-pick one in the same run. Without this,
+# an issue that produces no commit (e.g. Claude throttled/erroring) is the oldest
+# eligible issue again on the next loop iteration, so the run busy-loops on it for
+# the whole wall-clock window (observed: 430× on one issue, 0 PRs, GitHub API
+# rate-limit exhausted by the per-iteration gh calls).
+declare -A TRIED=()
+# Circuit breaker: consecutive no-op/error iterations. A burst means something
+# global is wrong (Claude subscription rate-limit, bad token) — bail fast instead
+# of grinding the whole queue and burning the GitHub API quota.
+CONSEC_FAIL=0
+NOOP_CIRCUIT="${NOOP_CIRCUIT:-12}"
 elapsed() { echo $(( $(date +%s) - START )); }
 log() { echo "[$(date -u +%H:%M:%S)] $*"; }
 
@@ -74,6 +85,7 @@ next_issue() {
               (([.labels[].name] - ["human","human-founder","needs-human","in-progress","pr-opened","wontfix","invalid","duplicate","question","do-not-merge","hold","wip","blocked"]) == [.labels[].name])
               and (([.labels[].name] | index("seo-proposal") | not) or ([.labels[].name] | index("ai-fix")))
             )] | sort_by(.number) | .[].number' 2>/dev/null); do
+    [ -n "${TRIED[$n]:-}" ] && continue   # already attempted this run — don't loop on it
     open_pr_for "$n" && continue
     branch_exists_for "$n" && continue
     claimable+=("$n")
@@ -90,6 +102,7 @@ next_issue() {
 
 implement_issue() {
   local n="$1"
+  TRIED[$n]=1   # record the attempt up-front so no outcome can cause a re-pick this run
   gh issue edit "$n" --repo "$REPO" --add-label in-progress >/dev/null 2>&1 || true
 
   git checkout -q main 2>/dev/null || git checkout -qB main origin/main
@@ -134,9 +147,12 @@ implement_issue() {
   fi
 
   if [ -z "$(git log origin/main..HEAD --oneline 2>/dev/null)" ]; then
-    gh issue comment "$n" --repo "$REPO" --body "🤖 Roadie produced no commits this run (rc=$rc). Retrying next pass." >/dev/null 2>&1 || true
+    # No commit produced. Do NOT comment on the issue — doing it every pass spammed
+    # one issue with 2000+ comments and burned the GitHub API quota. Just log it;
+    # the TRIED set stops us re-picking it this run, and the run summary records it.
+    log "#$n produced no commits (rc=$rc) — skipping for this run"
     gh issue edit "$n" --repo "$REPO" --remove-label in-progress >/dev/null 2>&1 || true
-    DONE_NOOP+=("$n"); return
+    DONE_NOOP+=("$n"); CONSEC_FAIL=$((CONSEC_FAIL+1)); return
   fi
 
   # Parallel-fleet dup guard: another worker may have opened a PR for this issue
@@ -144,7 +160,7 @@ implement_issue() {
   if open_pr_for "$n"; then
     log "#$n already has a PR (raced by another worker) — discarding our branch"
     gh issue edit "$n" --repo "$REPO" --remove-label in-progress >/dev/null 2>&1 || true
-    DONE_NOOP+=("$n"); return
+    DONE_NOOP+=("$n"); CONSEC_FAIL=0; return   # a race means the system is working, not stuck
   fi
 
   if git push -q origin "$br" && \
@@ -152,10 +168,10 @@ implement_issue() {
        --title "fix: #${n} ${title}" \
        --body "Closes #${n}"$'\n\n'"Implemented autonomously by Roadie (cloud). Run #${GITHUB_RUN_ID:-local}." >/dev/null 2>&1; then
     gh issue edit "$n" --repo "$REPO" --remove-label in-progress --add-label pr-opened >/dev/null 2>&1 || true
-    DONE_PR+=("$n"); log "Opened PR for #$n"
+    DONE_PR+=("$n"); CONSEC_FAIL=0; log "Opened PR for #$n"
   else
     gh issue edit "$n" --repo "$REPO" --remove-label in-progress >/dev/null 2>&1 || true
-    DONE_ERR+=("$n"); log "push/PR failed for #$n"
+    DONE_ERR+=("$n"); CONSEC_FAIL=$((CONSEC_FAIL+1)); log "push/PR failed for #$n"
   fi
 }
 
@@ -168,6 +184,10 @@ while :; do
   fi
   ISSUE=$(next_issue) || { log "No eligible issues remain — queue drained."; break; }
   implement_issue "$ISSUE"
+  if (( CONSEC_FAIL >= NOOP_CIRCUIT )); then
+    log "Circuit breaker: ${CONSEC_FAIL} consecutive no-ops/errors — likely Claude rate-limit or auth; bailing so we don't grind the queue or burn the GitHub API. Next run resumes."
+    break
+  fi
 done
 
 {

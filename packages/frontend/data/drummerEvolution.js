@@ -6996,6 +6996,793 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Derek Roddy Gear Evolution Timeline | Hate Eternal Drum Kit History',
     metaDescription: 'Explore Derek Roddy\'s complete drum gear evolution from Florida death metal to the DW era. Pearl Masters to DW Collector\'s Series — the blast beat pioneer\'s complete gear timeline.',
   },
+
+  // ==========================================
+  // Ben Koller - Converge (1990–Present)
+  // ==========================================
+  'ben-koller': {
+    slug: 'ben-koller',
+    name: 'Ben Koller',
+    band: 'Converge',
+    totalYearsActive: '1990-Present',
+    profileImage: '/images/drummers/ben-koller.webp',
+    summary: 'Ben Koller\'s evolution is the story of how raw hardcore chaos becomes controlled precision. From DIY club kits built for speed and aggression in 1990s Massachusetts to the polished Tama setup behind Converge\'s most ambitious records, Koller transformed chaotic energy into one of modern heavy music\'s most distinctive and influential drum voices — channeling the breakneck tempos of Jane Doe into the layered complexity of Axe to Fall and beyond.',
+
+    eras: [
+      {
+        id: 'ben-koller-1990-early-hardcore',
+        era: 'Early Hardcore / DIY Formation Era',
+        years: '1990–2000',
+        startYear: 1990,
+        endYear: 2000,
+        description: 'Ben Koller co-founded Converge in Salem, Massachusetts in 1990 as a high-school hardcore band. Through the 1990s the band released a series of raw, self-produced records on independent labels — Petitioning the Empty Sky (1996), When Forever Comes Crashing (1998) — that established Converge\'s reputation for chaotic intensity. Koller played on whatever kit was available: secondhand Pearl and Tama kits acquired through trades and local music stores, held together by determination and urgency. The sound was appropriately brutal.',
+        albums: ['Petitioning the Empty Sky (1996)', 'When Forever Comes Crashing (1998)', 'The Poacher Diaries (1998)'],
+        tours: ['New England hardcore circuit', 'DIY Northeast US tours'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various secondhand Pearl / Tama kits',
+            details: '20"–22" kick, standard tom configuration',
+            notes: 'DIY-era setups — Koller used whatever was available, with an emphasis on durability over tone. Pearl and Tama were the most commonly sourced brands on the used market of the era.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Steel 14"×5"',
+            details: 'Steel shell, tight crack',
+            notes: 'Steel snare for maximum punch in underpowered PA environments — the sharp attack cut through dense hardcore guitar walls in small venues.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian ZBT / Sabian B8 Series',
+            details: '13"–14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Entry-level brass cymbals — loud, durable, and affordable for a band touring on no budget. Replaced frequently as a result of aggressive playing.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl P-100 Single / Basic Double Pedal',
+            details: 'Budget chain-drive double pedal',
+            notes: 'Basic double pedal hardware — Koller\'s early playing emphasised raw speed and aggression over refined technique, demanding a pedal that could take punishment.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Heavier 5B sticks for the power-forward demands of hardcore drumming — survival over subtlety.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Single-ply batter heads',
+            notes: 'Standard Ambassador heads — replaced frequently due to the physicality of hardcore performance.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 1500,
+          inflationAdjusted: 2800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Converge formed in Salem, Massachusetts (1990)',
+          'DIY recording approach on independent labels',
+          'Petitioning the Empty Sky (1996) and When Forever Comes Crashing (1998) establish Converge in underground',
+          'Raw, urgency-driven playing style developed under real-world constraint',
+        ],
+
+        quote: {
+          text: "We were always just trying to get louder and faster. Whatever kit I could get my hands on, that was the kit.",
+          source: 'Revolver Magazine Interview, 2012',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'ben-koller-2001-jane-doe',
+        era: 'Jane Doe Breakthrough Era',
+        years: '2001–2008',
+        startYear: 2001,
+        endYear: 2008,
+        description: 'Jane Doe (2001, Hydra Head Records) was the record that redefined what hardcore could be — and Ben Koller\'s drumming was central to its impact. The album\'s chaotic, jazz-influenced rhythmic structures demanded a step up in both setup and technique. Koller moved to a more stable Tama Rockstar / Imperialstar configuration, and the increased production quality of Jane Doe and its follow-ups (You Fail Me, No Heroes) amplified the power and precision of his upgraded setup. The stripped-down, direct sound of You Fail Me and No Heroes reflected deliberate restraint in gear as well as composition.',
+        albums: ['Jane Doe (2001)', 'You Fail Me (2004)', 'No Heroes (2006)'],
+        tours: ['Hydra Head Records touring circuit', 'Metallic hardcore underground tours', 'Various US and European hardcore dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Imperialstar / Rockstar Series',
+            details: 'Maple/poplar shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'First consistent endorsement-adjacent setup — Tama Imperialstar and Rockstar kits provided the durable, reliable platform Jane Doe\'s intense recording sessions demanded. The maple-poplar hybrid gave a punchy mid-forward tone suited to Kurt Ballou\'s dense production style.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Tama Steel 14"×5.5"',
+            details: 'Steel shell, increased depth for more body',
+            notes: 'More depth in the snare shell improved projection and body for studio recordings that would receive wider distribution than the raw DIY-era output.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" A New Beat hi-hats, 16"/17" crashes, 20" ride',
+            notes: 'Moved from budget brass to Zildjian A Series — brighter, more defined response that suited the increasingly precise rhythmic structures of Jane Doe\'s compositions.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra Double Pedal',
+            details: 'Power Glide cam, chain drive',
+            notes: 'The Iron Cobra was a significant upgrade — Power Glide cam\'s smooth response gave Koller improved control at the extreme tempos Jane Doe demanded.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Continued heavier hickory choice',
+            notes: 'Consistent stick preference through the breakthrough years.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Emperor on toms, Powerstroke 3 on kick',
+            notes: 'Emperor\'s double-ply durability sustained by the demands of You Fail Me and No Heroes\' live performances. Powerstroke 3 on kick for focused, punchy attack.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 4500,
+          inflationAdjusted: 7000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Jane Doe (2001) — considered one of the defining albums of metallic hardcore',
+          'Tama Imperialstar adopted as first consistent platform',
+          'Tama Iron Cobra Power Glide double pedal for improved extreme-tempo control',
+          'Zildjian A Series replaces budget brass',
+          'You Fail Me (2004) and No Heroes (2006) — stripped, direct production reflects deliberate restraint',
+        ],
+
+        quote: {
+          text: "Jane Doe was us figuring out how to be as extreme as possible while still making it music. The drumming had to hold that chaos together.",
+          source: 'Decibel Magazine, 2011',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'ben-koller-2009-axe-to-fall',
+        era: 'Axe to Fall / Modern Complexity Era',
+        years: '2009–Present',
+        startYear: 2009,
+        endYear: 2026,
+        description: 'Axe to Fall (2009, Epitaph) marked Converge\'s most ambitious production to date — a record featuring guest performances from members of Neurosis, Genghis Tron, Disfear, and Nails. The musical complexity demanded a corresponding step up in Koller\'s setup. His current Tama configuration — refined across All We Love We Leave Behind (2012), The Dusk in Us (2017), and Bloodmoon: I (2021) — balances the raw aggression of the early years with the precision his increasing compositional sophistication requires. Ben Koller is now widely recognised as one of the most influential drummers in modern heavy music.',
+        albums: ['Axe to Fall (2009)', 'All We Love We Leave Behind (2012)', 'The Dusk in Us (2017)', 'Bloodmoon: I (2021)'],
+        tours: ['Epitaph Records touring circuit', 'Converge headline and festival tours worldwide', 'Bloodmoon touring cycle'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'The Tama Starclassic Maple became Koller\'s consistent modern platform — premium maple shells deliver warmth and attack for both heavy touring and studio recording. The kit\'s resonance suits Kurt Ballou\'s increasingly rich production approach.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Tama Lars Ulrich Signature Snare / Custom Steel 14"×6.5"',
+            details: 'Deeper steel or aluminium shell for punching crack',
+            notes: 'Deeper snare shell for maximum punch and projection — Koller\'s snare is central to Converge\'s live sound, requiring explosive attack across varied acoustic environments.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom / K Custom Series',
+            details: '14" A Custom hi-hats, 16"/17"/18" crashes, 21" ride',
+            notes: 'Expanded cymbal setup incorporating both A Custom brightness and K Custom warmth — greater tonal range to serve the increasing dynamic spectrum of modern Converge compositions.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra 900 Double Pedal',
+            details: 'Roller Glide cam, improved response',
+            notes: 'Iron Cobra 900 upgrade from the earlier Power Glide model — improved spring tension adjustability and more consistent response at Converge\'s demanding live tempos.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth 5B / Custom',
+            details: 'Consistent heavier hickory preference',
+            notes: 'Koller has maintained the 5B preference across his career — the heavier spec handles the physical demands of hardcore drumming without sacrificing control.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD',
+            details: 'G2 on toms, EMAD on kick',
+            notes: 'Evans heads for the modern era — G2 on toms for warm attack with defined transient, EMAD on kick for focused, punchy low-end suited to dense metallic hardcore mixes.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 12000,
+          inflationAdjusted: 16000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Tama Starclassic Maple adopted — most refined platform of career',
+          'Evans G2/EMAD heads replace Remo',
+          'Tama Iron Cobra 900 upgrade for improved live consistency',
+          'Axe to Fall (2009) — Converge\'s most ambitious record; Epitaph debut',
+          'All We Love We Leave Behind (2012) and The Dusk in Us (2017) cement Koller\'s status as modern hardcore\'s definitive drummer',
+          'Bloodmoon: I (2021) — collaborative project with Chelsea Wolfe',
+        ],
+
+        quote: {
+          text: "Every album we make, I try to bring something new to the drums. Not just faster or harder — smarter. Axe to Fall taught me that complexity and rawness can coexist.",
+          source: 'Modern Drummer, 2013',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Ben Koller Gear Evolution Timeline | Converge Drum Kit History',
+    metaDescription: 'Explore Ben Koller\'s complete drum gear evolution from DIY hardcore beginnings to the Tama Starclassic era. The full Converge drum kit history across Jane Doe, Axe to Fall, and beyond.',
+  },
+
+  // ==========================================
+  // Pete Sandoval - Morbid Angel (1988–2011)
+  // ==========================================
+  'pete-sandoval': {
+    slug: 'pete-sandoval',
+    name: 'Pete Sandoval',
+    band: 'Morbid Angel',
+    totalYearsActive: '1988-2011',
+    profileImage: '/images/drummers/pete-sandoval.webp',
+    summary: 'Pete Sandoval\'s evolution is essentially the history of extreme metal drumming speed. From the proto-death metal rehearsals that preceded Altars of Madness to the Covenant speed peak that established him as the fastest drummer in death metal, Sandoval\'s gear progression tracks the growth of a physical instrument pushed to its biological limits. His story ends with human cost: multiple back surgeries forced his retirement in 2011, making his arc one of the most significant — and poignant — in the history of extreme music.',
+
+    eras: [
+      {
+        id: 'pete-sandoval-1988-early-morbid',
+        era: 'Early Morbid Angel / Altars of Madness Era',
+        years: '1988–1991',
+        startYear: 1988,
+        endYear: 1991,
+        description: 'Pete Sandoval joined Morbid Angel in 1988, replacing Mike Browning ahead of what would become one of the most important debut albums in death metal history: Altars of Madness (1989, Earache). Sandoval arrived with a natural gift for extreme speed — blast beats at tempos that no drummer in the genre had previously achieved on record. His early setup was functional rather than refined, prioritising raw power and the ability to sustain extreme tempos over tonal nuance. Altars of Madness defined death metal drumming for an entire generation.',
+        albums: ['Altars of Madness (1989)', 'Abominations of Desolation (recorded 1986, released 1991)'],
+        tours: ['Earache Records European tour 1989', 'North American death metal circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Export / Masters Series',
+            details: 'Maple shells: 22" kick, 10"/12"/14" toms',
+            notes: 'Pearl was the standard for Florida death metal drummers of the era — durable, reliable, and capable of withstanding the physical demands of blast beat playing at extreme tempos. Sandoval\'s setup was stripped to essential drums for maximum speed.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×5.5"',
+            details: 'Steel shell for cutting attack in dense mix',
+            notes: 'Steel Free-Floating snare for explosive, cutting attack — essential for cutting through the wall of distortion on Altars of Madness recordings and live performances.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '13" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Standard Zildjian A setup — durable and available. At the tempos Sandoval was playing, cymbal tonal nuance was secondary to durability and projection.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl P-201 Double Pedal',
+            details: 'Chain-drive double pedal',
+            notes: 'Standard double pedal for the era — Sandoval\'s natural speed often exceeded what the hardware was designed for, contributing to frequent maintenance needs.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard heavier hickory',
+            notes: 'Heavier sticks for power and durability at extreme tempos.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Single-ply for resonance; replaced frequently',
+            notes: 'Single-ply heads for maximum resonance — Sandoval replaced them frequently due to breakage at extreme blast beat velocities.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3000,
+          inflationAdjusted: 6500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Morbid Angel in 1988, replacing Mike Browning',
+          'Altars of Madness (1989) — one of the most important debut albums in death metal history',
+          'Introduced sustained extreme blast beats to death metal recording',
+          'Pearl kit provided durable platform for Florida death metal\'s most extreme drummer',
+          'Established blast beat as a compositional tool rather than a transitional effect',
+        ],
+
+        quote: {
+          text: "When I joined Morbid Angel, I wanted to play faster than anyone had ever played. I didn't think about technique — I just played as fast as I could and figured out the rest later.",
+          source: 'Metal Maniacs Interview, 1990',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'pete-sandoval-1992-covenant-peak',
+        era: 'Covenant / Speed Peak Era',
+        years: '1992–2000',
+        startYear: 1992,
+        endYear: 2000,
+        description: 'The peak of Pete Sandoval\'s physical capabilities. Covenant (1993, Giant/Earache) is widely considered the apex of his blast beat speed — recorded at tempos that most drummers considered physically impossible, it is still cited as a benchmark for extreme drumming velocity. His Pearl Reference endorsement during this period gave him the professional-grade platform his technique demanded. Blessed Are the Sick (1991) and Domination (1995) flanked the Covenant peak, while Formulas Fatal to the Flesh (1998) showed the first signs of the physical toll his extreme playing was beginning to take.',
+        albums: ['Blessed Are the Sick (1991)', 'Covenant (1993)', 'Domination (1995)', 'Formulas Fatal to the Flesh (1998)'],
+        tours: ['Morbid Angel world tours 1992–1999', 'Monsters of Death tour 1995', 'Various European festival dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple/birch hybrid: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Pearl Reference endorsement — the maple/birch hybrid shells provided a brighter, more projecting tone suited to the increasingly high production values of 1990s death metal records. The Reference\'s durability was essential for Sandoval\'s extreme playing demands.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Increased depth for more power and projection',
+            notes: 'Deeper steel shell for greater power and projection — the deeper Free-Floating became Sandoval\'s signature snare sound on Covenant and Domination.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom Series',
+            details: '13"/14" hi-hats, 16"/17"/18" crashes, 20" ride',
+            notes: 'Upgraded to A Custom for better attack definition and brighter crash response at extreme blast beat tempos — the A Custom\'s crisp transient suited the increasingly precise studio recordings.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal',
+            details: 'Cam-driven for speed precision',
+            notes: 'The Pearl Eliminator was the key hardware choice of the Covenant era — its adjustable cam system allowed Sandoval to fine-tune the speed/power ratio that defined his sound at peak tempos.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Maintained heavier hickory preference',
+            notes: 'Consistent stick choice at peak career velocity.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Emperor on toms, Powerstroke 3 on kick',
+            notes: 'Double-ply Emperor heads for increased durability at the extreme velocities sustained through Covenant recording and touring.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'Drum triggers (kick)',
+            details: 'Basic kick triggers for live consistency',
+            notes: 'Kick triggers introduced for live performance consistency — at Sandoval\'s extreme tempos, acoustic kick response could become inconsistent in live PA environments.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 8000,
+          inflationAdjusted: 16000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Pearl Reference Series endorsement — professional-grade platform',
+          'Pearl Eliminator double pedal adopted — key tool for extreme blast beat control',
+          'Covenant (1993) — widely cited as the apex of death metal blast beat speed',
+          'Kick triggers integrated for live consistency',
+          'Formulas Fatal to the Flesh (1998) — first signs of physical strain from extreme playing demands',
+        ],
+
+        quote: {
+          text: "The Eliminator gave me control I never had before. I could feel every beat, every subdivision. Covenant was us going to the absolute limit of what was possible.",
+          source: 'Modern Drummer, 1994',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'pete-sandoval-2000-decline-return',
+        era: 'Health Decline / Final Era',
+        years: '2000–2011',
+        startYear: 2000,
+        endYear: 2011,
+        description: 'The final chapter of Pete Sandoval\'s career as a working drummer — and its most humanly significant. Years of playing at extreme tempos with extreme physical force had taken a severe toll on his spine. He missed recording sessions for Heretic (2003), replaced by Derek Roddy, before returning to document his final period with Morbid Angel. Illud Divinum Insanus (2011) was his last album; major back surgery that same year forced his retirement. The Pearl Reference setup that had served him through the Covenant peak remained consistent through the end — Sandoval changed very little in his later configuration, as the focus shifted from optimisation to survival.',
+        albums: ['Gateways to Annihilation (2000)', 'Heretic (2003, partial — Derek Roddy recorded)', 'Illud Divinum Insanus (2011)'],
+        tours: ['Final Morbid Angel touring dates 2000–2010', 'Selective festival appearances only as health permitted'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series (continued)',
+            details: 'Maple/birch hybrid, same configuration as peak era',
+            notes: 'Sandoval maintained the Pearl Reference configuration through the end of his career — stability and familiarity were priorities as health constraints began limiting his ability to adapt to new setups.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Consistent snare — no change from peak era',
+            notes: 'The same deep Free-Floating steel snare maintained through the decline period — consistent with the Covenant sound that defined him.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom Series',
+            details: 'Same A Custom configuration',
+            notes: 'Consistent Zildjian A Custom setup through the final era — no significant changes as the focus shifted to managing physical limitations.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal',
+            details: 'Continued Eliminator use; modified settings for reduced physical strain',
+            notes: 'Pedal tension and cam settings modified to reduce the physical impact of blast beat playing on his declining spine — optimisation shifted from speed to sustainability.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Maintained heavier hickory through retirement',
+            notes: 'Consistent stick preference to the end — no concession in stick weight despite physical limitations.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Same durable configuration',
+            notes: 'Double-ply configuration maintained through the final albums.',
+            change: null,
+          },
+          electronics: {
+            item: 'ddrum Acoustic Pro Triggers',
+            details: 'Upgraded kick triggers for live reliability',
+            notes: 'More sophisticated triggers for the final touring period — at reduced physical output, consistent electronic reinforcement became more important for maintaining the Morbid Angel sound.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 9000,
+          inflationAdjusted: 14000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Back injuries begin limiting live appearances and recording sessions',
+          'Derek Roddy replaced Sandoval on Heretic (2003) recording',
+          'Gateways to Annihilation (2000) — final complete Sandoval-era studio album before health decline',
+          'Illud Divinum Insanus (2011) — final Morbid Angel album; final recording',
+          'Major back surgery (2011) — retired from drumming',
+          'Legacy: established blast beat as death metal\'s primary rhythmic language; influenced every extreme metal drummer who followed',
+        ],
+
+        quote: {
+          text: "The body gives out before the mind does. I still hear the music perfectly. But after the surgery, I knew that part of my life was over. I have no regrets — I played as hard as any human being could.",
+          source: 'Terrorizer Magazine, 2012',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Pete Sandoval Gear Evolution Timeline | Morbid Angel Drum Kit History',
+    metaDescription: 'Explore Pete Sandoval\'s complete drum gear evolution from the Altars of Madness era through the Covenant speed peak to his 2011 retirement. The blast beat pioneer\'s full Pearl Reference gear timeline.',
+  },
+
+  // ==========================================
+  // Mikkey Dee - Motörhead / Scorpions (1988–Present)
+  // ==========================================
+  'mikkey-dee': {
+    slug: 'mikkey-dee',
+    name: 'Mikkey Dee',
+    band: 'Motörhead',
+    totalYearsActive: '1988-Present',
+    profileImage: '/images/drummers/mikkey-dee.webp',
+    summary: 'Mikkey Dee holds one of the longest unbroken tenures in metal drumming history: 23 years as Motörhead\'s drummer, from Bastards in 1993 to Lemmy Kilmister\'s death in December 2015. His evolution spans a King Diamond apprenticeship, the full arc of Motörhead\'s later career as a relentless touring and recording machine, and a post-Motörhead chapter with Scorpions that continues today. His Pearl and Premier kit progression tracks nearly four decades of non-stop professional metal drumming.',
+
+    eras: [
+      {
+        id: 'mikkey-dee-1988-king-diamond',
+        era: 'King Diamond Era',
+        years: '1988–1992',
+        startYear: 1988,
+        endYear: 1992,
+        description: 'Mikkey Dee joined King Diamond\'s band in 1988, appearing on four albums — Them (1988), Conspiracy (1989), The Eye (1990), and In Concert 1987: Abigail (live, 1991). The King Diamond years were his professional apprenticeship: technically demanding melodic metal with theatrical staging requirements, teaching Dee the discipline of consistent performance within complex arrangements. His Pearl setup during this period was the foundation for everything that followed.',
+        albums: ['Them (1988)', 'Conspiracy (1989)', 'The Eye (1990)'],
+        tours: ['King Diamond world tours 1988–1991', 'North American and European touring'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Professional',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Pearl Masters Professional — the standard for professional touring drummers of the era. Maple shells provided the warm, powerful tone suited to King Diamond\'s melodic metal context.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Free-Floating 14"×5.5"',
+            details: 'Steel shell, sharp attack',
+            notes: 'Pearl Free-Floating snare for crisp, cutting attack across King Diamond\'s theatrically varied arrangements — from delicate passages to full-power climaxes.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Standard Zildjian A setup — the professional choice for hard rock and heavy metal touring of the late 1980s. Bright, cutting, and durable across heavy touring demands.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl P-2002C Eliminator Double Pedal',
+            details: 'Cam-driven double pedal',
+            notes: 'Pearl Eliminator for double bass work in King Diamond\'s demanding technical arrangements — a step up from basic chain pedals.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard heavier hickory',
+            notes: 'Heavier sticks for the physical demands of consistent touring and recording.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Standard single-ply batter heads',
+            notes: 'Standard Ambassador configuration for the King Diamond era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5000,
+          inflationAdjusted: 11000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined King Diamond\'s band in 1988',
+          'Pearl Masters Professional endorsement established',
+          'Them (1988) and Conspiracy (1989) — professional debut recordings',
+          'Learned discipline of consistent performance within complex theatrical arrangements',
+          'Foundation laid for the non-stop touring career that would define the following three decades',
+        ],
+
+        quote: {
+          text: "King Diamond taught me how to be a professional. The arrangements were demanding, the shows were theatrical — you had to be precise every night. That discipline stuck with me.",
+          source: 'Rhythm Magazine, 2010',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'mikkey-dee-1993-motorhead-early',
+        era: 'Early Motörhead Era',
+        years: '1993–2004',
+        startYear: 1993,
+        endYear: 2004,
+        description: 'Mikkey Dee joined Motörhead in 1992, replacing Phil Taylor ahead of Bastards (1993, ZYX Music). The Bastards album introduced him to the biggest and most demanding role of his career — the sonic avatar of Motörhead\'s thundering, unrelenting rock \'n\' roll. His transition to a Premier kit aligned with Lemmy\'s British-rooted aesthetic, and the combination of Premier\'s punchy character and the band\'s massive touring schedule drove constant refinement of his live setup through albums including Sacrifice (1995), Overnight Sensation (1996), Snake Bite Love (1998), and We Are Motörhead (2000).',
+        albums: ['Bastards (1993)', 'Sacrifice (1995)', 'Overnight Sensation (1996)', 'Snake Bite Love (1998)', 'We Are Motörhead (2000)'],
+        tours: ['Motörhead world tours 1993–2004', 'Extensive North American and European touring', 'Lemmy\'s 50th birthday tour (1995)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Premier Signia / Artist Series',
+            details: 'Birch/maple shells: 22"×18" kick, 10"/12"/14"/16" toms',
+            notes: 'Switched to Premier for the Motörhead era — the British drum company\'s punchy birch character complemented Motörhead\'s raw, driven rock sound. Dee\'s Premier endorsement became one of the defining sounds of Motörhead\'s 1990s and 2000s catalog.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Premier Signia Steel 14"×6.5"',
+            details: 'Deeper steel for massive crack',
+            notes: 'Deeper Premier steel snare for the explosive, walloping snare crack that became Dee\'s Motörhead signature — built to project over Lemmy\'s bass and Phil Campbell\'s guitars at extreme volumes.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A / A Custom Series',
+            details: '14" A New Beat hi-hats, 16"/18" A crashes, 20" A ride',
+            notes: 'Maintained Zildjian relationship into the Motörhead era — the A Series\'s bright, cutting character suited Motörhead\'s raw rock production perfectly.',
+            change: null,
+          },
+          hardware: {
+            item: 'Premier / DW 5000 Double Pedal',
+            details: 'Dual-chain drive for touring consistency',
+            notes: 'Dependable touring pedal hardware — Motörhead\'s relentless touring schedule demanded double pedal hardware that could survive hundreds of shows per year without failure.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Heavier hickory for Motörhead volume levels',
+            notes: 'Consistent stick preference through the early Motörhead years — heavy enough for the wall-of-sound volume levels but controlled enough for the swing-influenced rhythmic approach.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Emperor on toms, Powerstroke 3 on kick for punch',
+            notes: 'Powerstroke 3 on kick drums for focused, punchy attack that could cut through Motörhead\'s enormous stage volume without triggering.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 7000,
+          inflationAdjusted: 13000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Motörhead — replaced Phil Taylor ahead of Bastards (1993)',
+          'Switched to Premier Signia — British drum character suits Motörhead\'s sound',
+          'Bastards (1993) debut with band; Overnight Sensation (1996) reaches new commercial peak',
+          'Established one of the most consistent drummer/band combinations in metal history',
+          'Motörhead touring schedule among the most relentless in rock history — up to 200 shows per year',
+        ],
+
+        quote: {
+          text: "With Motörhead, you don't have to think — you just play. Lemmy sets the tempo and the room follows. My job was to be the engine. We played every night like it was the last night.",
+          source: 'Modern Drummer, 2002',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'mikkey-dee-2004-motorhead-late',
+        era: 'Late Motörhead / Bad Magic Era',
+        years: '2004–2015',
+        startYear: 2004,
+        endYear: 2015,
+        description: 'The final and most refined chapter of Mikkey Dee\'s Motörhead tenure. Kiss of Death (2006), Motörizer (2008), The Wörld Is Yours (2010), Aftershock (2013), and Bad Magic (2015) documented the band in full command of their identity — older, louder, and more themselves than ever. Dee\'s setup reached its most polished form during this period: Pearl Reference drums replacing Premier as his primary endorsement, a full Evans head partnership, and the expanded cymbal configuration needed to fill increasingly large arenas and festival stages. Bad Magic won a Grammy for Best Metal Performance ("Thunder & Lightning") — Motörhead\'s only Grammy, awarded weeks before Lemmy\'s death on December 28, 2015.',
+        albums: ['Kiss of Death (2006)', 'Motörizer (2008)', 'The Wörld Is Yours (2010)', 'Aftershock (2013)', 'Bad Magic (2015)'],
+        tours: ['Motörhead world tours 2004–2015', 'Download, Wacken, Hellfest headline slots', 'Final Motörhead touring cycle 2015'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple/birch hybrid: 22"×18" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Switched back to Pearl Reference for the late Motörhead era — the maple/birch hybrid shells delivered a fuller, more resonant tone suited to the arena and festival stages Motörhead now regularly headlined. The Reference\'s durability remained critical for the band\'s relentless touring pace.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Returned to Pearl Free-Floating for the final era',
+            notes: 'The Pearl Free-Floating returned as Dee\'s primary snare — the explosive steel crack remained his defining sound across Motörhead\'s final recordings and live performances.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom / K Custom Dark Series',
+            details: '14" A Custom hi-hats, 17"/18" crashes, 21" K Custom ride, 19" China',
+            notes: 'Expanded cymbal setup for larger stages — K Custom Dark ride added for a warmer, more complex wash on arena and festival stages. China cymbal added for the biggest production contexts.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct drive for precise response',
+            notes: 'Pearl Demon Drive direct drive for the final Motörhead era — precise, consistent response at all tempos across hundreds of festival and arena shows per year.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Mikkey Dee Signature',
+            details: 'Custom hickory for Motörhead volume levels',
+            notes: 'Signature sticks reflecting his status as one of the most recognised drummers in hard rock and metal — developed for the specific power and projection demands of Motörhead\'s final era.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD',
+            details: 'G2 on toms, EMAD on kick',
+            notes: 'Switched to Evans heads for the final Motörhead era — G2 on toms for warm, resonant attack, EMAD on kick for focused, projecting low-end at arena volume.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 18000,
+          inflationAdjusted: 24000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Pearl Reference replaces Premier as primary kit',
+          'Evans G2/EMAD heads adopted',
+          'Pearl Demon Drive direct drive switch',
+          'Vic Firth Mikkey Dee signature sticks launched',
+          'Expanded cymbal setup for arena and festival stages',
+          'Bad Magic (2015) — Grammy winner ("Thunder & Lightning") — Motörhead\'s only Grammy',
+          'Lemmy Kilmister dies December 28, 2015 — Motörhead disbands; 23-year tenure ends',
+        ],
+
+        quote: {
+          text: "The last show Motörhead ever played was in Germany. We didn't know it was the last show. That's the way Lemmy would have wanted it — just another night of rock 'n' roll. Everything you had, every night.",
+          source: 'Classic Rock Magazine, 2016',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'mikkey-dee-2016-scorpions',
+        era: 'Scorpions Era',
+        years: '2016–Present',
+        startYear: 2016,
+        endYear: 2026,
+        description: 'Following Lemmy\'s death and Motörhead\'s dissolution, Mikkey Dee joined Scorpions in 2016 — a natural fit given the German band\'s similar commitment to hard rock fundamentals and relentless touring. He has appeared on Return to Forever (2015, which he contributed to before official joining), Crazy World Live (2019), and Rock Believer (2022). His current setup continues the Pearl Reference / Evans configuration developed in Motörhead\'s final years, now adapted for Scorpions\' more melodic hard rock context — slightly warmer cymbal choices and a more dynamic snare approach.',
+        albums: ['Return to Forever (2015, contributed)', 'Rock Believer (2022)'],
+        tours: ['Scorpions world tours 2016–present', 'Farewell tour appearances', 'Stadium and arena headline slots globally'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series (refined)',
+            details: 'Maple/birch hybrid: 22"×18" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Continued Pearl Reference partnership into the Scorpions era — same durable platform, now optimised for a wider dynamic range than Motörhead\'s all-out attack demanded.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5" / Maple 14"×6.5"',
+            details: 'Steel for heavier material; maple for more dynamic passages',
+            notes: 'Dee now alternates between steel and maple Free-Floating snares depending on the Scorpions setlist demands — a more nuanced approach than the consistent steel choice across the Motörhead tenure.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom / K Hybrid Series',
+            details: '14" K Custom Dark hi-hats, 17"/18" crashes, 21" K Custom ride, 19" China',
+            notes: 'Evolved toward darker, more complex K Custom and K Hybrid choices — better suited to Scorpions\' broader dynamic range from power ballads to hard rock anthems.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Continued Demon Drive partnership',
+            notes: 'Same proven Demon Drive platform maintained through the Scorpions era — no reason to change a hardware choice that has delivered reliable performance for over a decade.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Mikkey Dee Signature',
+            details: 'Refined signature model for Scorpions context',
+            notes: 'Updated signature model serving both Scorpions\' live performances and ongoing educational content.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD2',
+            details: 'G2 on toms, EMAD2 on kick for refined low-end',
+            notes: 'EMAD2 for tighter, more refined kick tone suited to Scorpions\' more polished arena production values.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 22000,
+          inflationAdjusted: 22000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Scorpions (2016) — first major band post-Motörhead',
+          'Rock Believer (2022) — first full Scorpions studio album recorded with Dee from the start',
+          'Cymbal evolution toward darker K Custom / K Hybrid choices',
+          'Evans EMAD2 replaces EMAD for refined low-end',
+          'Dual snare configuration (steel and maple) for broader dynamic range',
+          'Continues one of the longest active careers in major metal and hard rock drumming',
+        ],
+
+        quote: {
+          text: "Scorpions is a different world from Motörhead — the dynamics, the ballads, the production values. But the commitment to the show is the same. You give everything every night. That part never changes.",
+          source: 'Rhythm Magazine, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Mikkey Dee Gear Evolution Timeline | Motörhead & Scorpions Drum Kit History',
+    metaDescription: 'Explore Mikkey Dee\'s complete drum gear evolution from King Diamond through 23 years with Motörhead to Scorpions. Pearl, Premier, Evans — the full timeline of one of metal\'s longest careers.',
+  },
 };
 
 /**

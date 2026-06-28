@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-28 05:32 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-28 07:22 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -39,30 +39,29 @@
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 2,545 |
-| Clicks | 62 |
-| CTR | 2.44% |
-| Avg position | 8.3 |
+| Impressions | 3,065 |
+| Clicks | 73 |
+| CTR | 2.38% |
+| Avg position | 8.1 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | flo mounier drum kit | 6 | 3 | 50.00% | 4.0 |
+| bill ward drum set | 8 | 2 | 25.00% | 7.9 |
 | jaska raatikainen drum set | 6 | 2 | 33.33% | 4.5 |
+| joey jordison drum kit | 86 | 2 | 2.33% | 7.6 |
 | matt greiner drum setup | 16 | 2 | 12.50% | 6.6 |
-| bill ward drum set | 4 | 1 | 25.00% | 7.3 |
+| frost drummer | 6 | 1 | 16.67% | 13.2 |
 | frost satyricon height | 1 | 1 | 100.00% | 1.0 |
 | gene hoglan drum kit | 1 | 1 | 100.00% | 8.0 |
 | igor cavalera drum kit | 5 | 1 | 20.00% | 3.2 |
 | igor cavalera drum setup | 2 | 1 | 50.00% | 6.0 |
-| inferno drum kit | 4 | 1 | 25.00% | 7.3 |
-| joey jordison drum kit | 66 | 1 | 1.52% | 8.1 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 66 | 1.52% | 8.1 | open issue to answer better |
-| joey jordison drum set | 118 | 0.85% | 7.7 | open issue to answer better |
+| joey jordison drum set | 134 | 0.75% | 7.6 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

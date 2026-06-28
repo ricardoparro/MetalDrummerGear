@@ -518,4 +518,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <!-- Issue #2973: Mastodon 'The Hunter' drum setup (Brann Dailor, 2011) -->
+  <url>
+    <loc>https://metalforge.io/articles/the-hunter-drum-setup</loc>
+    <lastmod>2026-06-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>

@@ -1,0 +1,55 @@
+name: Loop Watchdog
+
+# Detects when the automation pipeline is broken or idle and alerts via Telegram
+# (the same channel the digest uses) + an auto-maintained umbrella issue.
+#
+# Checks (see .agents/scripts/watchdog.cjs and docs/watchdog.md):
+#   1. Most recent run of each critical workflow failed/cancelled.
+#   2. Roadie shipped 0 PRs in 24h while ai-fix backlog is non-empty (the exact
+#      0-PR / 2000-comment stall this was built to catch).
+#   3. A scheduled workflow has gone quiet past 2× its expected interval.
+#   4. A verifier snapshot file is stale on disk (>8 days).
+#
+# A detected problem is SUCCESS for this job — it never fails on an alert. The
+# job is only red if the watchdog itself errors. Healthy runs are silent, except
+# a weekly "all loops healthy" heartbeat on the heartbeat day (default Mon).
+#
+# Secrets reused: GITHUB_TOKEN, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID.
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 07/13/19 UTC: post-night-fleet morning, midday, evening.
+    - cron: '0 7,13,19 * * *'
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: loop-watchdog
+  cancel-in-progress: false
+
+jobs:
+  watchdog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # Gate: the pure alert-evaluation logic must pass before we trust a run.
+      - name: Self-test (pure fixtures, no network)
+        run: node .agents/scripts/watchdog.cjs --self-test
+
+      - name: Run watchdog
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: node .agents/scripts/watchdog.cjs

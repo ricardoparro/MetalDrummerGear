@@ -63,17 +63,21 @@ After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and fol
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Vinnie Paul play?**
+**Q: What drum kit did Vinnie Paul use?**
 
-A: Vinnie Paul plays a ddrum Vinnie Paul Signature Series.
+A: Vinnie Paul used a ddrum Vinnie Paul Signature Series drum kit with a ddrum Vinnie Paul Signature 14×8" snare drum, Sabian AA and AAX Series cymbals (14" Hi-Hats, 18" and 19" Crashes, 21" Ride, 18" China), and a ddrum double pedal. He used this setup across Pantera's peak albums Cowboys from Hell, Vulgar Display of Power, and Far Beyond Driven.
 
-**Q: What cymbals does Vinnie Paul use?**
+**Q: What drum set did Vinnie Paul use?**
 
-A: Vinnie Paul uses Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China).
+A: Vinnie Paul's drum set was a ddrum Vinnie Paul Signature Series configured with Sabian AA/AAX cymbals and Vic Firth American Classic 5B sticks. His drum set was purpose-built for the thunderous groove metal he defined alongside Dimebag Darrell in Pantera, and remained his signature setup through Damageplan and Hellyeah.
 
-**Q: What band is Vinnie Paul in?**
+**Q: What cymbals did Vinnie Paul use?**
 
-A: Vinnie Paul drums for Pantera / Damageplan / Hellyeah, a groove metal / heavy metal band.
+A: Vinnie Paul used Sabian AA and AAX Series cymbals: 14" Hi-Hats, 18" and 19" Crashes, a 21" Ride, and an 18" China.
+
+**Q: What band was Vinnie Paul in?**
+
+A: Vinnie Paul co-founded Pantera with his brother Dimebag Darrell, and later formed Damageplan and Hellyeah.
 
 ## Signature Licks on MetalForge
 
@@ -91,4 +95,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-28 · Source: [MetalForge.io](https://metalforge.io)*

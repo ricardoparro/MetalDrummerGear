@@ -60,13 +60,17 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Matt Halpern play?**
+**Q: What drum kit does Matt Halpern use?**
 
-A: Matt Halpern plays a Pearl Reference Series.
+A: Matt Halpern uses a Pearl Reference Series drum kit with a Pearl Reference 14×6.5" Brass snare drum, Meinl Byzance Series cymbals (15" Dark Hi-Hats, 18" and 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China), and a Pearl Demon Drive double pedal. He has used Pearl and Meinl Byzance throughout Periphery's catalog.
+
+**Q: What drum set does Matt Halpern use?**
+
+A: Matt Halpern's drum set is a Pearl Reference Series with Meinl Byzance cymbals and Promark Matt Halpern Signature sticks. His drum set is configured for the polyrhythmic precision and dynamic control required on Periphery albums like Periphery II, Juggernaut, and Hail Stan.
 
 **Q: What cymbals does Matt Halpern use?**
 
-A: Matt Halpern uses Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China).
+A: Matt Halpern uses Meinl Byzance Series cymbals: 15" Dark Hi-Hats, 18" and 20" Extra Dry Medium Crashes, a 22" Transition Ride, and an 18" Extra Dry China.
 
 **Q: What band is Matt Halpern in?**
 
@@ -88,4 +92,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-28 · Source: [MetalForge.io](https://metalforge.io)*

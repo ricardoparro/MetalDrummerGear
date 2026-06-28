@@ -64,17 +64,21 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Shannon Larkin play?**
+**Q: What drum kit does Shannon Larkin use?**
 
-A: Shannon Larkin plays a ddrum Dios Series.
+A: Shannon Larkin uses a ddrum Dios Series drum kit with a ddrum Dios 14×6.5" Maple snare drum, Sabian AAX and HHX Series cymbals (14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese), and a DW 9000 Series double pedal. He used this setup across Godsmack's multi-platinum catalog including Faceless, IV, and When Legends Rise.
+
+**Q: What drum set does Shannon Larkin use?**
+
+A: Shannon Larkin's drum set is a ddrum Dios Series with Sabian AAX/HHX cymbals and Vic Firth American Classic 5B sticks. His drum set is configured for the powerful groove-centric hard rock approach that defined Godsmack's sound across more than two decades of touring and recording.
 
 **Q: What cymbals does Shannon Larkin use?**
 
-A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese).
+A: Shannon Larkin uses Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal.
 
 **Q: What band is Shannon Larkin in?**
 
-A: Shannon Larkin drums for Godsmack / Ugly Kid Joe / Amen, a hard rock / heavy metal / nu metal band.
+A: Shannon Larkin is known for drumming with Godsmack (2002–2024), Ugly Kid Joe, and Amen.
 
 ## Signature Licks on MetalForge
 
@@ -92,4 +96,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-28 · Source: [MetalForge.io](https://metalforge.io)*

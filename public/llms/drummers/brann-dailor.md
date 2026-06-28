@@ -62,13 +62,17 @@ Dailor's drumming is characterized by constant motion—intricate fills that wea
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Brann Dailor play?**
+**Q: What drum kit does Brann Dailor use?**
 
-A: Brann Dailor plays a Tama Starclassic Performer B/B.
+A: Brann Dailor uses a Tama Starclassic Performer B/B drum kit with a Tama S.L.P. G-Maple snare (14×6.5"), Meinl Byzance Series cymbals (14" Dark Hi-Hats, 18" and 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China), and a Tama Speed Cobra double pedal. He has used Tama drums and Meinl cymbals throughout Mastodon's career.
+
+**Q: What drum set does Brann Dailor use?**
+
+A: Brann Dailor's drum set is a Tama Starclassic Performer B/B birch/bubinga shell configuration paired with Meinl Byzance cymbals and Vater 5B sticks. His drum set is built for the complex fills and melodic tom work heard on Mastodon albums like Leviathan, Blood Mountain, Crack the Skye, and Hushed and Grim.
 
 **Q: What cymbals does Brann Dailor use?**
 
-A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China).
+A: Brann Dailor uses Meinl Byzance Series cymbals: 14" Dark Hi-Hats, 18" and 19" Brilliant Heavy Hammered Crashes, a 21" Ghost Ride, and an 18" Extra Dry China.
 
 **Q: What band is Brann Dailor in?**
 
@@ -90,4 +94,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-28 · Source: [MetalForge.io](https://metalforge.io)*

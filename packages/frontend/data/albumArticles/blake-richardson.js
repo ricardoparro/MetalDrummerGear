@@ -575,6 +575,7 @@ export const articles = {
     "relatedAlbums": [
       "alaska-drum-setup",
       "the-parallax-ii-future-sequence-drum-setup",
+      "automata-i-drum-setup",
       "blake-richardson-drum-setup"
     ],
     "relatedArticles": [
@@ -951,6 +952,404 @@ export const articles = {
     "conclusion": {
       "title": "The Great Misdirect: The Colors Arc's Final Statement",
       "content": "*The Great Misdirect* (2009) closes the most important period in Blake Richardson's recorded career. Following *Alaska* (2005) and *Colors* (2007) — the two records that established BTBAM and Richardson as progressive metal's most important new voices of the decade — *The Great Misdirect* delivered the same range of ideas with more concentrated intensity and more precise technical execution.\n\nHis DW Collector's Series setup, Meinl Byzance Extra Dry cymbals, and DW 9002 double pedal — the gear configuration of the entire Colors arc — appear here in their most refined state. 'Swim to the Moon' is the final and most demanding document of this foundational period.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Previous album**: [Colors drum setup (2007)](/articles/colors-drum-setup)\n- **Next album**: [The Parallax II drum setup (2012)](/articles/the-parallax-ii-future-sequence-drum-setup)\n- **Era overview**: [Alaska drum setup (2005)](/articles/alaska-drum-setup)"
+    }
+  },
+  "automata-i-drum-setup": {
+    "slug": "automata-i-drum-setup",
+    "albumTitle": "Automata I",
+    "artist": "Between the Buried and Me",
+    "drummer": "Blake Richardson",
+    "drummerId": 29,
+    "relatedDrummerSlug": "blake-richardson",
+    "year": 2018,
+    "genre": "Progressive Metal",
+    "label": "Sumerian Records",
+    "studio": "The Basement Studio, Winston-Salem, NC",
+    "producer": "Jamie King",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-28",
+    "dateModified": "2026-06-28",
+    "author": "MetalForge Editorial",
+    "title": "Blake Richardson's Drum Setup on Between the Buried and Me's Automata I (2018)",
+    "description": "Blake Richardson's drum kit and gear on BTBAM's Automata I (Feb 2018): Pearl Reference Pure drums, Meinl Byzance Dark/Extra Dry cymbals, DW 9002 double pedal, and the concept album that launched BTBAM's most ambitious two-part arc on Sumerian Records.",
+    "seoKeywords": [
+      "automata i drum setup",
+      "between the buried and me automata drum setup",
+      "blake richardson automata i",
+      "btbam automata drummer",
+      "automata i 2018 drum kit",
+      "blake richardson 2018 drum setup",
+      "between the buried and me 2018 drums",
+      "blake richardson pearl reference pure"
+    ],
+    "ogImage": "/images/drummers/blake-richardson.webp",
+    "intro": {
+      "title": "Automata I: BTBAM Enters the Sumerian Era",
+      "content": "Released February 9, 2018 on Sumerian Records, Automata I is the first half of Between the Buried and Me's most ambitious two-part project — a concept album released in two installments across a single year, completing their arc of large-scale conceptual works. After Coma Ecliptic (2015) charted in the UK and demonstrated BTBAM's capacity to reach a broader progressive audience, Automata I introduced the band to Sumerian Records' production infrastructure while maintaining the compositional principles that had defined their decade-long progressive metal legacy.\n\nAutomata I arrived as BTBAM's seventh studio album, more than a decade after Colors (2007) and three albums after The Parallax II: Future Sequence (2012). The record's concept explores artificial consciousness and digital identity — a science fiction narrative that draws on the same philosophical ambition as the Parallax arc while grounding the storytelling in near-future technology rather than deep space. The album's six tracks form a self-contained arc that gains full resolution only with Automata II (July 2018), the companion release completed later the same year.\n\nBlake Richardson's drumming on Automata I reflects the full maturation of a player who had been developing his progressive metal voice since Alaska (2005). His technique is fully absorbed: odd-time signatures do not announce themselves as technical feats, metric modulations feel inevitable rather than calculated, and the compositional double-bass approach — varying kick density with the music's emotional arc — is deployed with the naturalness that comes only from two decades of intensive practice in one of the genre's most demanding bands. Automata I is not Richardson's most technically complex record, but it is among his most musically complete.\n\nGear-wise, Automata I marks Richardson's documented transition to the Pearl Reference Pure kit — all-maple shells with warmer, more resonant character than the DW Collector's Series that had anchored the Colors through Coma Ecliptic eras. The Pearl Reference Pure's warmth suited Sumerian Records' more layered, produced aesthetic, giving the drums presence in a denser mix without losing the dynamic range BTBAM's music requires. Meinl Byzance cymbals — Dark, Extra Dry, and elements of the Traditional series — completed the setup with the same complex tonal vocabulary Richardson had built across the Parallax and Coma Ecliptic periods.\n\nJamie King's production at The Basement Studio on Automata I balances the band's established progressive identity with the polished modern production Sumerian Records is known for. The drum sound has more sonic sheen than earlier BTBAM records while preserving the dynamic range that keeps Richardson's performances musical rather than mechanically impressive. King had been producing BTBAM since Alaska; Automata I represents the culmination of their recording relationship in the band's most sonically ambitious studio configuration.",
+      "keyPoints": [
+        "BTBAM's first Sumerian Records album — part one of the two-part Automata concept arc (Automata II follows in July 2018)",
+        "Blake Richardson transitions to Pearl Reference Pure kit — all-maple warmth for Sumerian's more layered production",
+        "Meinl Byzance Dark, Extra Dry, and Traditional series — full three-series setup of Richardson's mature period",
+        "Concept explores artificial consciousness and digital identity — science fiction arc completed by Automata II",
+        "Jamie King production at The Basement Studio — Sumerian-era polish while preserving BTBAM's dynamic identity",
+        "Most recent BTBAM concept album until Colors II (2021) — closes the band's long-form concept arc"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference Pure: Warmth and Resonance for the Sumerian Era",
+      "brand": "Pearl",
+      "model": "Pearl Reference Pure",
+      "finish": "Custom lacquer finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "All-maple shells, 6-ply construction — warm, resonant tone suited to Automata I's layered Sumerian production"
+      },
+      "description": "Blake Richardson's Pearl Reference Pure kit marks the most significant gear transition of his recording career: the shift from the DW Collector's Series maple configuration that had defined every BTBAM studio album from Alaska (2005) through Coma Ecliptic (2015) to Pearl's flagship all-maple design. The Reference Pure uses all-maple shell construction throughout — a distinction from Pearl's hybrid Reference series — producing a fuller, warmer fundamental tone that sits naturally in Sumerian Records' more layered production aesthetic without losing the dynamic range BTBAM's progressive arrangements demand.\n\nThe Reference Pure's all-maple construction provides a warmer midrange resonance than the DW Collector's Series, with a character that carries equally well through Automata I's densest arrangements and its most restrained ambient passages. For a concept album that moves through extreme progressive metal, atmospheric sections, and melodic progressive rock within individual tracks, this tonal versatility is not incidental — it is the fundamental requirement. Where a harder-edged shell design emphasizes attack and cutting power, the Reference Pure's maple delivers warmth and fundamental pitch that suits the record's more produced sound.\n\nThe double bass drum configuration — two 22\"x18\" kicks rather than the single-kick-via-double-pedal approach Richardson had used on earlier records — reflects his evolved approach to the Automata era. Two bass drums provide a fuller low-end foundation and allow a slightly different feel in double-bass passages; Richardson's compositional double-bass philosophy remains unchanged (deploying kick density to follow the music's emotional arc rather than running constant patterns), but the two-drum configuration gives him additional tonal weight at the low end that suits Automata I's production character.\n\nThree rack toms (10\", 12\", 13\") and a 16\" floor tom continue the layout Richardson had used throughout his career, giving his fill architecture the wide pitch range BTBAM's melodic, section-marking fills require. Jamie King's production on Automata I captured the Reference Pure kit with the warmth the shells deliver, placing the drums in Sumerian's more layered mix with appropriate presence and dynamics.\n\nThe Pearl rack system provides the hardware stability the three-rack-tom configuration requires across intensive touring and extended studio sessions. Automata I was followed by an Automata world tour before Automata II was released later the same year — the kit needed to maintain consistent setup geometry across that full performance cycle.",
+      "notes": [
+        "Pearl Reference Pure — all-maple construction replacing DW Collector's Series from the Colors era",
+        "Double 22\" bass drum configuration for fuller low-end in Sumerian Records' layered production",
+        "Three rack toms (10\", 12\", 13\") — wide pitch range for BTBAM's melodic fill sequences",
+        "Jamie King Basement Studio production captures Reference Pure warmth in Sumerian-era mix",
+        "Pearl rack system provides hardware stability across touring and recording demands"
+      ],
+      "estimatedValue": "$3,000–6,000 (Pearl Reference Pure shell pack, 2018 configuration)"
+    },
+    "snare": {
+      "title": "DW Collector's Maple: Consistent Voice Through the Gear Transition",
+      "brand": "DW",
+      "model": "DW Collector's Series Maple Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "North American Hard Rock Maple",
+      "description": "Even as Richardson transitioned his kit from DW Collector's Series to Pearl Reference Pure for Automata I, his primary snare remained the DW Collector's Series maple at 14\"x6.5\" — the same model that had driven Colors (2007), The Parallax II (2012), and Coma Ecliptic (2015). The maple snare's warm, authoritative crack was so deeply embedded in BTBAM's sonic identity that changing it alongside the kit would have risked altering the fundamental character of Richardson's recorded voice more dramatically than the kit transition alone.\n\nThe 14\"x6.5\" maple configuration delivers the same full-bodied crack it had provided across the Colors and Parallax eras: warm enough for the ghost note vocabulary and jazz-inflected passages central to Automata I's more melodically developed arrangements, assertive enough to drive the album's most intense progressive metal sections. Tuned at medium tension, the maple shell provides authority at full velocity and sensitivity at low dynamics — the combination that has always been essential to Richardson's technique-to-music translation.\n\nAutomata I's Sumerian Records production placed the snare in a denser, more layered mix than earlier BTBAM records. The DW Collector's maple's warm midrange character helped the snare maintain presence in this environment without requiring aggressive compression that would undermine Richardson's dynamic range. Jamie King's Basement Studio capture of the snare on Automata I balanced close-mic clarity with room character — preserving the natural maple body that the snare had delivered across Richardson's entire career.",
+      "tuningSetting": "Medium tension — warm, authoritative crack across Automata I's dynamic range from intense progressive metal to ambient passages",
+      "heads": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)",
+      "estimatedValue": "$400–700 (DW Collector's Series maple snare, 2018 configuration)"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance: Full Three-Series Palette for BTBAM's Most Produced Record",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Series (Dark, Extra Dry, Traditional)",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl Byzance 14\" Dark Hi-Hats",
+          "position": "Left side",
+          "notes": "Dark, complex voice — jazz-inflected hi-hat vocabulary throughout Automata I's melodic progressive passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance Extra Dry 17\" Thin Crash",
+          "position": "Left crash",
+          "notes": "Fast, controlled accent — articulate response in Automata I's most technically demanding passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance 18\" Dark Crash",
+          "position": "Right crash",
+          "notes": "Fuller, warmer sustain — emotional weight for Automata I's peak narrative and structural moments"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Byzance Extra Dry 20\" Ride",
+          "position": "Far right",
+          "notes": "Controlled, minimal wash — clean articulation across Automata I's complex metric modulation sequences"
+        },
+        {
+          "type": "Splash",
+          "model": "Meinl Byzance 10\" Dark Splash",
+          "position": "Effects position",
+          "notes": "Quick, dark accent for the rapid genre transition moments throughout the Automata concept arc"
+        },
+        {
+          "type": "China",
+          "model": "Meinl Byzance 18\" China",
+          "position": "Over rack toms",
+          "notes": "Aggressive upward-projecting accent for Automata I's most intense progressive metal passages"
+        }
+      ],
+      "description": "Richardson's Meinl Byzance setup on Automata I represents the mature, fully-developed version of the cymbal configuration he had been building since the Alaska era (2005). The Byzance line — Meinl's top-tier hand-hammered Turkish-style series — produces complex, dark, warm tones with overtone richness that machine-made cymbals cannot replicate. For a drummer who performs music ranging from extreme metal to jazz-inflected progressive passages within single tracks, this tonal complexity is a functional necessity rather than an aesthetic preference.\n\nThe full three-series approach — Byzance Dark, Extra Dry, and elements of the Traditional series — gives Richardson the widest tonal palette of his recording career on Automata I. The Byzance Dark series (warm, earthy, fast decay) handles the album's more melodically developed and jazz-inflected passages, where overtone richness enriches the musical texture without creating wash that obscures harmonic content. The Extra Dry series (drier, more controlled, faster response) serves the technically demanding rhythmic sections where clean articulation of every stroke is essential to conveying Richardson's metric modulations.\n\nThe 14\" Dark Hi-Hats are the rhythmic center of Richardson's most sophisticated hi-hat playing on Automata I. His jazz-influenced hi-hat vocabulary — dense sixteenth-note patterns, frequent foot independence, transitions between open and closed positions — demands a cymbal that speaks clearly under light ghost-note strokes and responds immediately to full accent hits without harshness. The Dark voicing provides exactly this responsive, nuanced character.\n\nThe dual-crash configuration (Extra Dry 17\" and Dark 18\") gives Richardson two distinct accent voices: the 17\" Extra Dry for fast, focused punctuation in technical passages; the 18\" Dark Crash for fuller structural accents at section peaks where emotional weight matters more than attack precision. The Extra Dry Ride provides clean articulation through the metric modulation sequences that animate Automata I's most compositionally ambitious sections.\n\nFor how this Byzance setup evolved across the BTBAM catalog, see [Blake Richardson's drummer profile](/drummer/blake-richardson) — which covers the progression from the Extra Dry-primary Alaska/Colors era through the dual Dark/Extra Dry Parallax setup to the full three-series Automata configuration.",
+      "estimatedValue": "$2,500–4,000 (Meinl Byzance Dark, Extra Dry, and Traditional setup, 2018 configuration)"
+    },
+    "hardware": {
+      "title": "DW 9002, Pearl Rack, and Vic Firth 5B: The Automata Foundation",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "DW",
+          "model": "DW 9002 Double Bass Pedal",
+          "notes": "Chain-drive double pedal — compositional double-kick deployment across Automata I's concept album arc",
+          "description": "The DW 9002 double bass pedal continues as Richardson's kick hardware foundation on Automata I, operating in conjunction with the double bass drum configuration. The 9002's chain-drive mechanism and adjustable cam deliver the consistent, controllable feel Richardson's compositional double-bass approach requires: varying kick density from sparse single-strokes through dense double-bass passages within the same track, following the music's emotional arc rather than maintaining a constant density level. Automata I's concept album structure — with its dramatic narrative swings between intense sections and atmospheric passages — demands this kind of dynamic kick deployment, and the DW 9002 provides the mechanical platform that makes it possible."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Hickory 5B — Richardson's consistent stick choice across the entire BTBAM catalog through the Automata era"
+        },
+        {
+          "type": "Hardware",
+          "brand": "Pearl",
+          "model": "Pearl Rack System",
+          "notes": "Modular rack for the three-rack-tom configuration — hardware consistency across Automata I recording and touring"
+        },
+        {
+          "type": "Drumheads (Toms, Batter)",
+          "brand": "Remo",
+          "model": "Remo Emperor Coated",
+          "notes": "Two-ply coated for controlled sustain in Automata I's dense Sumerian Records production"
+        },
+        {
+          "type": "Drumheads (Bass, Batter)",
+          "brand": "Remo",
+          "model": "Remo Powerstroke 3",
+          "notes": "Controlled attack with integrated ring damping — defined kick tone for the double bass drum configuration"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Ebony Pinstripe (resonant, ported)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)"
+      }
+    },
+    "faq": [
+      {
+        "question": "What drums did Blake Richardson use on Automata I?",
+        "answer": "Blake Richardson played a Pearl Reference Pure kit on Automata I (2018) — marking his transition from the DW Collector's Series that had defined his setup from Alaska (2005) through Coma Ecliptic (2015). The Pearl Reference Pure uses all-maple shell construction, delivering a warmer, more resonant tone suited to Automata I's Sumerian Records production. Configuration: double 22\"x18\" bass drums, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+      },
+      {
+        "question": "What is BTBAM's Automata I about?",
+        "answer": "Automata I (2018) is the first half of Between the Buried and Me's two-part Automata concept arc, released on Sumerian Records on February 9, 2018. The concept explores themes of artificial consciousness, digital identity, and what it means to be human in a near-future technology-saturated world. The story arc is completed by [Automata II](/articles/automata-ii-drum-setup) (July 2018), which was recorded and planned alongside Automata I as a single conceptual statement delivered in two installments. It is BTBAM's most recent full concept album, placing it at the end of a long-form conceptual arc that includes The Parallax II: Future Sequence (2012) and Coma Ecliptic (2015). For the preceding album, see [Coma Ecliptic drum setup](/articles/coma-ecliptic-drum-setup)."
+      },
+      {
+        "question": "How does Automata I differ from earlier BTBAM albums in terms of Blake Richardson's drumming?",
+        "answer": "Automata I (2018) represents Richardson's drumming at its most mature and fully absorbed. Where earlier BTBAM records like Colors (2007) and The Parallax II (2012) showcased his developing technique in ways that remain slightly legible as technical achievement, Automata I deploys the same vocabulary — odd-time signatures, metric modulation, compositional double-bass, jazz-influenced ghost note work — as completely natural musical language. The Sumerian Records production gives Richardson's performances a more polished sonic environment than the rawer Basement Studio sound of earlier records. The gear transition to Pearl Reference Pure also contributes a warmer, more resonant drum character that suits the album's more layered production aesthetic. For context, see [Coma Ecliptic drum setup](/articles/coma-ecliptic-drum-setup) and [The Parallax II drum setup](/articles/the-parallax-ii-future-sequence-drum-setup)."
+      },
+      {
+        "question": "What label released BTBAM's Automata I and what changed from earlier albums?",
+        "answer": "Automata I (2018) was released on Sumerian Records — a significant label change from Metal Blade Records, which had released BTBAM's catalog from The Great Misdirect (2009) through Coma Ecliptic (2015). Sumerian Records brought a more contemporary progressive and djent-adjacent production infrastructure and a larger promotional platform than Metal Blade's more traditional metal focus. The production on Automata I — still by Jamie King at The Basement Studio — reflects this shift: more sonic layering and polish than earlier records while preserving the compositional identity BTBAM had built since Alaska. The label transition also signaled BTBAM's expanded audience ambitions in the Automata era."
+      }
+    ],
+    "relatedAlbums": [
+      "coma-ecliptic-drum-setup",
+      "automata-ii-drum-setup",
+      "blake-richardson-drum-setup"
+    ],
+    "relatedArticles": [
+      "progressive-metal-drumming",
+      "odd-time-signatures-metal"
+    ],
+    "conclusion": {
+      "title": "Automata I: Richardson's Technique Fully Absorbed",
+      "content": "Automata I (2018) is the first installment of BTBAM's most ambitious two-part project — a concept album that marks Blake Richardson's full transition into the Pearl Reference Pure era and demonstrates his technique at its most completely internalized. The metric modulations, odd-time signatures, and compositional double-bass approach that had been developing since Alaska (2005) are present on Automata I not as technical demonstrations but as natural musical language.\n\nHis Pearl Reference Pure kit, Meinl Byzance Dark/Extra Dry setup, and DW 9002 double pedal represent the mature configuration of a drummer who has refined his tools as carefully as his technique.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Previous album**: [Coma Ecliptic drum setup (2015)](/articles/coma-ecliptic-drum-setup)\n- **Companion release**: [Automata II drum setup (2018)](/articles/automata-ii-drum-setup)\n- **Arc overview**: [The Parallax II drum setup (2012)](/articles/the-parallax-ii-future-sequence-drum-setup)"
+    }
+  },
+  "automata-ii-drum-setup": {
+    "slug": "automata-ii-drum-setup",
+    "albumTitle": "Automata II",
+    "artist": "Between the Buried and Me",
+    "drummer": "Blake Richardson",
+    "drummerId": 29,
+    "relatedDrummerSlug": "blake-richardson",
+    "year": 2018,
+    "genre": "Progressive Metal",
+    "label": "Sumerian Records",
+    "studio": "The Basement Studio, Winston-Salem, NC",
+    "producer": "Jamie King",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-28",
+    "dateModified": "2026-06-28",
+    "author": "MetalForge Editorial",
+    "title": "Blake Richardson's Drum Setup on Between the Buried and Me's Automata II (2018)",
+    "description": "Blake Richardson's drum kit and gear on BTBAM's Automata II (Jul 2018): Pearl Reference Pure drums, Meinl Byzance Dark/Extra Dry cymbals, DW 9002 double pedal, and the companion release that completes BTBAM's Automata concept arc — their most recent concept album.",
+    "seoKeywords": [
+      "automata ii drum setup",
+      "between the buried and me automata ii drums",
+      "blake richardson automata ii",
+      "btbam automata ii drummer",
+      "automata ii 2018 drum kit",
+      "btbam most recent album drummer",
+      "between the buried and me 2018 concept album drums",
+      "blake richardson pearl reference pure automata"
+    ],
+    "ogImage": "/images/drummers/blake-richardson.webp",
+    "intro": {
+      "title": "Automata II: The Concept Arc Completed",
+      "content": "Released July 13, 2018 on Sumerian Records, Automata II is the second half of Between the Buried and Me's Automata concept arc — a companion release planned and recorded alongside Automata I (February 2018) as a single large-scale conceptual statement delivered in two installments across a single year. Together, Automata I and II form BTBAM's most recent concept album, closing the band's long arc of ambitious two-part and concept-driven projects that stretches back through Coma Ecliptic (2015), The Parallax II: Future Sequence (2012), and ultimately to Colors (2007).\n\nAutomata II resolves the narrative arc of Automata I — the artificial consciousness and digital identity concept that defined the first installment finds its conclusion across four tracks and forty minutes of music. The second release contains some of the most compositionally complex material in the two-part project: the extended tracks that anchor Automata II demand the full range of Richardson's progressive metal vocabulary, deploying his metric modulation approach, jazz-influenced hi-hat independence, and compositional double-bass technique across arrangements that are simultaneously the most accessible BTBAM has written and the most structurally sophisticated.\n\nBlake Richardson's drumming on Automata II is continuous with Automata I — same Pearl Reference Pure kit, same Meinl Byzance cymbal spread, same Jamie King production at The Basement Studio. The two records were conceived as one work, and Richardson's performances across both function as a single extended drumming document rather than two separate album sessions. The gear and technique on Automata II build on the foundation established in Automata I, with the second installment's more extended track structures giving Richardson additional room to deploy the compositional patience and dynamic range he had developed across thirteen years with BTBAM.\n\nSumerian Records' production approach on Automata II maintains the layered, polished aesthetic established on Automata I — a sonic environment that differs notably from the Basement Studio rawness of Colors or the density of The Parallax II. Jamie King's production balances Richardson's dynamic range against a more produced mix than earlier BTBAM records, ensuring the drums drive the arrangements without overwhelming the band's most melodically developed writing. Automata II and Automata I together represent the current endpoint of Blake Richardson's recorded career, as BTBAM's most recent concept album before Colors II (2021).\n\nThis article covers the complete drum setup Blake Richardson used on Automata II — the Pearl Reference Pure kit, Meinl Byzance cymbal spread, and playing approach that completed the Automata arc and closed the most prolific concept album period in BTBAM's twenty-year career.",
+      "keyPoints": [
+        "Companion to Automata I (Feb 2018) — four tracks completing the Automata concept arc on Sumerian Records",
+        "Blake Richardson's Pearl Reference Pure kit — same configuration as Automata I, two-record continuous setup",
+        "Meinl Byzance Dark, Extra Dry, and Traditional series — mature full three-series setup maintained",
+        "Most recent BTBAM concept album before Colors II (2021) — closes the band's concept arc to near-present",
+        "Jamie King Basement Studio production — Sumerian-era polish on the same Winston-Salem recording context",
+        "Automata I + II together form a single conceptual statement, the most ambitious BTBAM project of the 2018 era"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference Pure: The Automata Arc's Unified Kit Foundation",
+      "brand": "Pearl",
+      "model": "Pearl Reference Pure",
+      "finish": "Custom lacquer finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "All-maple shells, 6-ply construction — warm, resonant tone unified across the entire Automata I & II arc"
+      },
+      "description": "The Pearl Reference Pure kit Richardson used on Automata II is the identical configuration he had employed on Automata I — the same all-maple shells, same double bass drum setup, same rack tom layout — recorded and toured as a single continuous gear configuration across the two-part Automata project. This consistency is not incidental: Automata I and II were conceived as one work, recorded in the same sessions at The Basement Studio, and the drum setup reflects that unity. The Pearl Reference Pure's warm, resonant all-maple character runs through both records as a unified sonic foundation.\n\nThe Reference Pure's all-maple construction provides the warm midrange fundamental that distinguishes it from harder-edged shell designs. For Automata II's extended track structures — the album's four tracks contain more compositional space than Automata I's more concise arrangements — this warmth is particularly important. Longer tracks with more dynamic range demand a kit that sounds musical across quiet ambient passages as well as dense, intense progressive metal sections; the Pearl maple delivers this versatility from a single tuning without requiring the compromises that a harder shell would impose at the extremes of BTBAM's dynamic spectrum.\n\nThe double bass drum configuration (two 22\"x18\" kicks) continued from Automata I, providing the low-end foundation and double-bass feel that characterizes Richardson's mature performance approach. The two-drum setup delivers a slightly different physical and sonic character than the single-kick-via-double-pedal approach he had used in the Colors and Parallax eras — more weight in the low end, a fuller fundamental, and a slightly different feel between feet that suits the more expansive compositional space of Automata II's extended arrangements.\n\nJamie King's production at The Basement Studio on Automata II maintained the Sumerian-era production character established on Automata I — the Reference Pure kit captured with warmth and clarity, placed in a mix that is denser and more layered than earlier BTBAM records but that preserves the dynamic range Richardson's performances require. The unity of production approach across both Automata records reinforces their status as a single conceptual and sonic work.",
+      "notes": [
+        "Pearl Reference Pure — identical configuration to Automata I, unified kit across both concept arc records",
+        "Double 22\" bass drums — continued from Automata I for fuller low-end in extended Automata II arrangements",
+        "Three rack toms (10\", 12\", 13\") — wide pitch range for fill sequences across Automata II's longer compositional arcs",
+        "Jamie King production maintains Sumerian-era sonic consistency from Automata I through Automata II",
+        "All-maple warmth suited to Automata II's most melodically developed and atmospherically varied track structures"
+      ],
+      "estimatedValue": "$3,000–6,000 (Pearl Reference Pure shell pack, 2018 configuration)"
+    },
+    "snare": {
+      "title": "DW Collector's Maple: The Unifying Voice Across Both Automata Records",
+      "brand": "DW",
+      "model": "DW Collector's Series Maple Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "North American Hard Rock Maple",
+      "description": "Richardson's DW Collector's Series maple snare on Automata II is the same instrument he played on Automata I — and the same model that had been his studio voice since Colors (2007). The 14\"x6.5\" maple snare serves as the sonic constant across the entire Automata concept arc: even as the kit transitioned from DW Collector's to Pearl Reference Pure, even as the production context shifted from Metal Blade to Sumerian Records, Richardson's maple snare remained the consistent voice that tied the BTBAM drum sound to its identity.\n\nAutomata II's extended track structures place specific demands on the snare. The album's longer compositional arcs — with more space between the album's most intense sections — require the snare to operate with full authority during peak moments and genuine sensitivity during the quieter, more atmospheric passages that characterize some of the record's most distinctive writing. The 14\"x6.5\" maple handles both contexts without requiring head changes: medium tension gives body at full velocity and warmth for ghost note work and cross-stick techniques in the quieter sections.\n\nJamie King's snare capture on Automata II maintained the approach established on Automata I — close-mic clarity with room character from the overheads, preserving the natural maple body that had defined Richardson's snare tone across fifteen years of BTBAM recording. In Sumerian Records' more layered mix, the DW Collector's maple's warm midrange character helped the snare maintain presence and clarity without requiring the kind of aggressive compression that would compromise Richardson's dynamic range.",
+      "tuningSetting": "Medium tension — same configuration as Automata I, warm authority across Automata II's full dynamic spectrum",
+      "heads": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)",
+      "estimatedValue": "$400–700 (DW Collector's Series maple snare, 2018 configuration)"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance: Full Three-Series Setup Completing the Automata Arc",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Series (Dark, Extra Dry, Traditional)",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl Byzance 14\" Dark Hi-Hats",
+          "position": "Left side",
+          "notes": "Dark, complex voice — jazz-inflected hi-hat vocabulary across Automata II's more expansive compositional passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance Extra Dry 17\" Thin Crash",
+          "position": "Left crash",
+          "notes": "Fast, focused accent — controlled response in Automata II's most technically dense rhythmic sections"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance 18\" Dark Crash",
+          "position": "Right crash",
+          "notes": "Fuller, warmer sustain for structural accents at emotional peaks across Automata II's concept resolution"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Byzance Extra Dry 20\" Ride",
+          "position": "Far right",
+          "notes": "Controlled, minimal wash — clean articulation through Automata II's metric modulation sequences"
+        },
+        {
+          "type": "Splash",
+          "model": "Meinl Byzance 10\" Dark Splash",
+          "position": "Effects position",
+          "notes": "Quick dark accent for rapid transition moments in Automata II's narrative conclusion passages"
+        },
+        {
+          "type": "China",
+          "model": "Meinl Byzance 18\" China",
+          "position": "Over rack toms",
+          "notes": "Aggressive upward-projecting accent for Automata II's most intense progressive metal peak moments"
+        }
+      ],
+      "description": "Richardson's Meinl Byzance cymbal setup on Automata II is unified with his Automata I configuration — the same Dark, Extra Dry, and Traditional series voicings, recorded and toured as one continuous setup across the two-part project. This unified Byzance approach gives both Automata records their cymbal identity: the complex, hand-hammered Turkish-style tone that has defined Richardson's sound since the Colors era, now in its most fully developed form.\n\nThe Byzance Dark series carries Automata II's most melodically developed passages. The 14\" Dark Hi-Hats are the center of Richardson's jazz-influenced hi-hat vocabulary — the warm, nuanced Dark voicing responding to the full velocity range of his ghost note work and independent foot patterns that appear throughout the record's more progressive sections. For a record that pushes into territory that is simultaneously BTBAM's most accessible and most structurally sophisticated, the Dark series' overtone richness provides exactly the kind of musical texture the passages require.\n\nThe Extra Dry series handles Automata II's more technically demanding rhythmic sections. The controlled decay of the Extra Dry Ride is particularly critical: Richardson's metric modulation sequences — the tempo perception shifts that give BTBAM arrangements their characteristic sense of dramatic gear change — require every rhythmic event to be cleanly defined. A washy ride would blur these modulations; the Extra Dry voice keeps each stroke's timing precise.\n\nThe 18\" Dark Crash provides the fuller, sustained accent character that Automata II's concept resolution demands. The album's closing passages — the narrative arc completing after the setup established in Automata I — use larger structural accents to mark the resolution, and the Dark Crash delivers the appropriate emotional weight for these moments. The Byzance China maintains its role as the aggressive accent for the record's most intense sections, deployed selectively to maximize impact.\n\nFor the complete evolution of Richardson's Byzance setup from the Colors era through the Automata period, see [Blake Richardson's drummer profile](/drummer/blake-richardson) and the [Automata I drum setup](/articles/automata-i-drum-setup).",
+      "estimatedValue": "$2,500–4,000 (Meinl Byzance Dark, Extra Dry, and Traditional setup, 2018 configuration)"
+    },
+    "hardware": {
+      "title": "DW 9002, Pearl Rack, and Vic Firth 5B: Unified Across Both Automata Records",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "DW",
+          "model": "DW 9002 Double Bass Pedal",
+          "notes": "Chain-drive double pedal — compositional double-kick deployment unified across Automata I and II",
+          "description": "The DW 9002 double bass pedal operates in conjunction with Automata II's double bass drum configuration — the same setup Richardson had used on Automata I. The 9002's chain-drive mechanism and adjustable cam provide the consistent, controllable feel his compositional kick approach requires across Automata II's more expansive track structures. Extended arrangements with large amounts of dynamic space demand a pedal that responds reliably from sparse single-strokes through the densest double-bass passages; the DW 9002's adjustable cam allows Richardson to dial in the specific power curve and return speed for each musical context."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Hickory 5B — Richardson's consistent stick across both Automata records and the entire BTBAM catalog"
+        },
+        {
+          "type": "Hardware",
+          "brand": "Pearl",
+          "model": "Pearl Rack System",
+          "notes": "Modular rack — same hardware configuration as Automata I, unified stability across the two-part concept arc"
+        },
+        {
+          "type": "Drumheads (Toms, Batter)",
+          "brand": "Remo",
+          "model": "Remo Emperor Coated",
+          "notes": "Two-ply coated for controlled sustain in Automata II's Sumerian Records production context"
+        },
+        {
+          "type": "Drumheads (Bass, Batter)",
+          "brand": "Remo",
+          "model": "Remo Powerstroke 3",
+          "notes": "Controlled attack with integrated ring damping — consistent kick tone across both Automata records"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Ebony Pinstripe (resonant, ported)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)"
+      }
+    },
+    "faq": [
+      {
+        "question": "What drums did Blake Richardson use on Automata II?",
+        "answer": "Blake Richardson played a Pearl Reference Pure kit on Automata II (2018) — the same all-maple configuration he had used on Automata I (February 2018). The Pearl Reference Pure's all-maple construction delivers a warm, resonant tone suited to Sumerian Records' more layered production. Configuration: double 22\"x18\" bass drums, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. This represented a transition from the DW Collector's Series that had defined Richardson's setup from Alaska (2005) through Coma Ecliptic (2015). Full drummer profile at [Blake Richardson at MetalForge](/drummer/blake-richardson)."
+      },
+      {
+        "question": "What is BTBAM's most recent concept album?",
+        "answer": "Between the Buried and Me's most recent concept album is the two-part Automata arc — Automata I (February 9, 2018) and Automata II (July 13, 2018), both on Sumerian Records. The two records function as a single conceptual statement about artificial consciousness and digital identity, released in two installments across a single year. Colors II (2021) followed but is a spiritual sequel to Colors (2007) rather than a new standalone concept. The Automata arc closes BTBAM's consecutive concept album sequence: The Parallax II: Future Sequence (2012) → Coma Ecliptic (2015) → Automata I & II (2018). See [Automata I drum setup](/articles/automata-i-drum-setup) for the first half."
+      },
+      {
+        "question": "How does Automata II complete the Automata concept arc?",
+        "answer": "Automata II (July 2018) provides the narrative resolution for the artificial consciousness and digital identity story arc that began in Automata I (February 2018). Released five months after the first installment, Automata II was planned and recorded as the arc's conclusion — its four tracks extending the compositional ideas of Automata I into larger, more expansive structural territory. Blake Richardson's drumming on Automata II deploys the same Pearl Reference Pure kit and Meinl Byzance cymbal spread as Automata I, creating a unified sonic arc across both releases. The second installment's more open track structures give Richardson more compositional space than Automata I's tighter arrangements — longer dynamic passages, more atmospheric sections, and extended peaks where his technique can breathe with the music. For the preceding record, see [Coma Ecliptic drum setup](/articles/coma-ecliptic-drum-setup)."
+      },
+      {
+        "question": "What is Blake Richardson's drum setup across both Automata records?",
+        "answer": "Blake Richardson used an identical setup across both Automata I (February 2018) and Automata II (July 2018), reflecting the two records' status as a single conceptual project. Kit: Pearl Reference Pure, all-maple shells, double 22\"x18\" bass drums, three rack toms (10\", 12\", 13\"), 16\" floor tom. Snare: DW Collector's Series Maple, 14\"x6.5\". Cymbals: Meinl Byzance 14\" Dark Hi-Hats, 17\" Extra Dry Thin Crash, 18\" Dark Crash, 20\" Extra Dry Ride, 10\" Dark Splash, 18\" China. Hardware: DW 9002 double bass pedal, Pearl rack system, Vic Firth American Classic 5B sticks. The Pearl Reference Pure marked a significant transition from the DW Collector's Series that had defined Richardson's setup from Alaska (2005) through Coma Ecliptic (2015). See [Automata I drum setup](/articles/automata-i-drum-setup) for the companion article."
+      }
+    ],
+    "relatedAlbums": [
+      "automata-i-drum-setup",
+      "coma-ecliptic-drum-setup",
+      "blake-richardson-drum-setup"
+    ],
+    "relatedArticles": [
+      "progressive-metal-drumming",
+      "odd-time-signatures-metal"
+    ],
+    "conclusion": {
+      "title": "Automata II: The Concept Arc Closed",
+      "content": "Automata II (2018) completes the most ambitious project of Blake Richardson's recording career — a two-part concept album that marks the culmination of BTBAM's consecutive concept album arc and demonstrates Richardson's drumming in its most fully developed form. Together with Automata I, it stands as the current endpoint of a progressive metal journey that began with Colors (2007) and has produced some of the genre's most studied and celebrated drumming.\n\nHis Pearl Reference Pure kit, Meinl Byzance full three-series cymbal spread, and DW 9002 double pedal are the mature tools of a drummer who has spent two decades refining both his instrument and his musical intelligence in one of progressive metal's most demanding bands.\n\n- **Full drummer profile**: [Blake Richardson at MetalForge](/drummer/blake-richardson)\n- **Companion release**: [Automata I drum setup (2018)](/articles/automata-i-drum-setup)\n- **Previous album**: [Coma Ecliptic drum setup (2015)](/articles/coma-ecliptic-drum-setup)\n- **Arc foundation**: [Colors drum setup (2007)](/articles/colors-drum-setup)"
     }
   },
   "blake-richardson-drum-setup": {

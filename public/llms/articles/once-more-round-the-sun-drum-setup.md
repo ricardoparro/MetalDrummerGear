@@ -88,6 +88,14 @@ A: "High Road" from Once More 'Round the Sun (2014) is Mastodon's most-streamed 
 **Q: How does Once More 'Round the Sun fit in Brann Dailor's career arc?**
 A: Once More 'Round the Sun (2014) is the transitional album between The Hunter's commercial groove approach and Emperor of Sand's emotionally sophisticated storytelling. On this record, Dailor refined his half-time groove technique and became a more prominent vocalist than on any previous Mastodon album. The Tama Starclassic Maple and Meinl Byzance platform carried unchanged into the Emperor of Sand era.
 
+## Related Resources
+
+- **Full drummer profile**: [Brann Dailor at MetalForge](/drummer/brann-dailor)
+- **Next album**: [Hushed and Grim Drum Setup](/articles/hushed-and-grim-drum-setup)
+- **Following album**: [Emperor of Sand Drum Setup](/articles/emperor-of-sand-drum-setup)
+- **Earlier career peak**: [Crack the Skye Drum Setup](/articles/crack-the-skye-drum-setup)
+- **Kit overview**: [What's In Brann Dailor's Kit](/articles/whats-in-brann-dailors-kit)
+
 **Source:** https://metalforge.io/articles/once-more-round-the-sun-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)

@@ -83,9 +83,9 @@ for (const m of CURATED_MATCHUPS) {
 // query. Eloy Casagrande, Inferno, and Shannon Larkin added for same CTR gap.
 const DRUMMER_META_OVERRIDES = {
   'joey-jordison': {
-    title: `Joey Jordison Drum Kit & Setup — Pearl Signature Series | ${SITE_NAME}`,
+    title: `Joey Jordison Drum Set & Kit — Pearl Reference, Paiste RUDE | ${SITE_NAME}`,
     description:
-      "What drum kit did Joey Jordison use? Complete Pearl Signature snare, Tama Starclassic shells, and full Slipknot touring rig breakdown.",
+      "What drum set did Joey Jordison use? His Slipknot drum kit was the Pearl Reference Series with his signature 13×6.5\" snare, Paiste RUDE cymbals, and Pearl Demon Drive double pedal — complete era-by-era gear breakdown.",
   },
   'eloy-casagrande': {
     title: `Eloy Casagrande Drum Kit & Setup — Tama Starclassic | ${SITE_NAME}`,

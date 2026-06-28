@@ -283,6 +283,10 @@ const drummers = [
         a: "Joey Jordison's drum kit during his peak Slipknot era was a Tama Starclassic Performer (22\" BD, 12\"/13\"/16\" toms) with a Pearl Joey Jordison Signature 13\"×6.5\" snare. Axis A Longboard double bass pedals powered his extreme blast beats, and Remo Ambassador Coated heads were fitted on the batter side."
       },
       {
+        q: "What drum kit did Joey Jordison use?",
+        a: "Joey Jordison used a Pearl Reference Series drum kit during his All Hope Is Gone era (2008–2013), and Pearl MasterWorks during the Iowa era (1999–2004). His iconic setup always featured the Pearl Joey Jordison Signature 13\"×6.5\" snare, Paiste RUDE & 2002 Series cymbals, and Pearl Demon Drive double pedal on Slipknot's rotating drum riser."
+      },
+      {
         q: 'What cymbals did Joey Jordison use?',
         a: 'Joey Jordison used Sabian HHX Evolution 14" hi-hats, Sabian AAX Stage crashes (16" and 18"), and a Sabian AAX Stage 21" ride cymbal. During the Iowa era he also employed Paiste RUDE and 2002 series cymbals known for their aggressive cut and extreme durability.'
       },

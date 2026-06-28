@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/brann-dailor"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-06-28"
 ---
 
 # Brann Dailor — Drum Kit & Gear Setup
@@ -29,7 +29,9 @@ Brann Dailor's drum kit and gear setup. Brann Dailor is a professional metal dru
 
 ## Kit Overview
 
-Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare (14x6.5"), topped with Meinl Byzance Series cymbals — 14" Dark Hi-Hats, 18" and 19" Brilliant Heavy Hammered Crashes, a 21" Ghost Ride, and an 18" Extra Dry China. His Tama Speed Cobra double pedal and jazz-influenced approach to fills define Mastodon's progressive sludge metal sound across albums like Leviathan and Crack the Skye.
+Brann Dailor plays a Tama Starclassic Performer B/B drum kit — a birch/bubinga shell configuration prized for its warm, focused attack that complements Mastodon's dense, riff-driven arrangements. As both drummer and co-vocalist for Mastodon since 2000, Dailor has built one of progressive metal's most distinctive drum sets, driven by jazz-influenced fills and constant melodic motion that treats the kit as a lead instrument rather than a timekeeper.
+
+The centerpiece of the Brann Dailor drum kit is his Tama S.L.P. G-Maple snare (14×6.5"), delivering cutting crack and warm maple tone heard across defining albums like Leviathan, Blood Mountain, and Crack the Skye. The Brann Dailor drum set features Meinl Byzance Series cymbals throughout: 14" Dark Hi-Hats for a dry, focused chick; 18" and 19" Brilliant Heavy Hammered Crashes for explosive accents; a 21" Ghost Ride for shimmering rhythmic undertones; and an 18" Extra Dry China for aggressive, cutting punctuation. A Tama Speed Cobra double pedal drives the fluid double bass patterns beneath Mastodon's polyrhythmic guitar layers, while Vater 5B sticks complete the rig.
 
 ## Biography
 

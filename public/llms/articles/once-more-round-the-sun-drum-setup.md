@@ -9,9 +9,9 @@
 
 ## Overview
 
-Released on June 24, 2014, Mastodon's *Once More 'Round the Sun* was the band's sixth studio album — debuting at **#6 on the Billboard 200**, their highest-charting record at the time. Produced by Nick Raskulinecz (Rush, Foo Fighters, Alice in Chains) at Doppler Studios in Atlanta, Georgia, the album continued the groove-forward direction [Brann Dailor](/drummer/brann-dailor) had established on [The Hunter](/articles/hunter-drum-setup) while adding more melodic density and emotional range.
+Released on June 24, 2014, Mastodon's *Once More 'Round the Sun* was the band's sixth studio album — debuting at **#6 on the Billboard 200**, their highest-charting record at the time. Produced by Nick Raskulinecz (Rush, Foo Fighters, Alice in Chains) at Doppler Studios in Atlanta, Georgia, the album continued the groove-forward direction [Brann Dailor](/drummer/brann-dailor) had established on [The Hunter](/articles/the-hunter-drum-setup) while adding more melodic density and emotional range.
 
-The album fills the single most important gap in Dailor's Mastodon arc: the chapter between [The Hunter](/articles/hunter-drum-setup) (2011) and [Emperor of Sand](/articles/emperor-of-sand-drum-setup) (2017). "High Road" — the album's lead single and most melodically direct track — is Mastodon's most-streamed song across all platforms. "The Motherload," "Asleep in the Deep," and "Chimes at Midnight" showcase Dailor's half-time groove approach at its most refined: grooves that feel enormous because each element has room to breathe.
+The album fills the single most important gap in Dailor's Mastodon arc: the chapter between [The Hunter](/articles/the-hunter-drum-setup) (2011) and [Emperor of Sand](/articles/emperor-of-sand-drum-setup) (2017). "High Road" — the album's lead single and most melodically direct track — is Mastodon's most-streamed song across all platforms. "The Motherload," "Asleep in the Deep," and "Chimes at Midnight" showcase Dailor's half-time groove approach at its most refined: grooves that feel enormous because each element has room to breathe.
 
 For Dailor specifically, *Once More 'Round the Sun* is the record on which he became Mastodon's most prominent vocalist to date — layering harmonies and co-lead parts across nearly every track while executing technically demanding drum performances simultaneously.
 
@@ -26,11 +26,11 @@ For Dailor specifically, *Once More 'Round the Sun* is the record on which he be
 
 ### The Tama Starclassic Maple: Half-Time Groove Platform
 
-For the *Once More 'Round the Sun* sessions, Brann Dailor continued with his Tama Starclassic Maple kit — the warm, resonant platform he had developed across [The Hunter](/articles/hunter-drum-setup) era and touring cycle. The Starclassic Maple's 100% pure maple shells, combined with Tama's Star-Cast mounting system, produce the free-resonating, pitch-capable tone that Dailor's melodic tom vocabulary demands.
+For the *Once More 'Round the Sun* sessions, Brann Dailor continued with his Tama Starclassic Maple kit — the warm, resonant platform he had developed across [The Hunter](/articles/the-hunter-drum-setup) era and touring cycle. The Starclassic Maple's 100% pure maple shells, combined with Tama's Star-Cast mounting system, produce the free-resonating, pitch-capable tone that Dailor's melodic tom vocabulary demands.
 
 For the album's half-time groove architecture, the kit's warm fundamental was particularly important. Half-time grooves create space within an arrangement — the bass drum and snare hit less frequently, which means each hit must carry more musical weight. A maple shell tuned carefully resonates with body and sustain that fills that space with musical character.
 
-The configuration featured three rack toms (10", 12", 13") and two floor toms (14" and 16") — a five-drum melodic palette spanning a wide musical range for the cascading fills throughout "High Road," "Asleep in the Deep," and "The Motherload." The single 22" bass drum continued the single-kick philosophy from [The Hunter](/articles/hunter-drum-setup): every kick placement a deliberate musical decision rather than a velocity exercise.
+The configuration featured three rack toms (10", 12", 13") and two floor toms (14" and 16") — a five-drum melodic palette spanning a wide musical range for the cascading fills throughout "High Road," "Asleep in the Deep," and "The Motherload." The single 22" bass drum continued the single-kick philosophy from [The Hunter](/articles/the-hunter-drum-setup): every kick placement a deliberate musical decision rather than a velocity exercise.
 
 ### The Snare: Authority for Half-Time Backbeats
 
@@ -40,7 +40,7 @@ Nick Raskulinecz's production approach favoured a natural, open drum sound with 
 
 ### Meinl Byzance: Dark Palette Bridging Hunter to Emperor of Sand
 
-Brann Dailor's Meinl Byzance cymbal palette on *Once More 'Round the Sun* carried forward the dark, complex B20 bronze character from [The Hunter](/articles/hunter-drum-setup) and [Crack the Skye](/articles/crack-the-skye-drum-setup). The Byzance Traditional series — hand-hammered using Turkish techniques — produces dark, blooming cymbals that suit the space half-time grooves create.
+Brann Dailor's Meinl Byzance cymbal palette on *Once More 'Round the Sun* carried forward the dark, complex B20 bronze character from [The Hunter](/articles/the-hunter-drum-setup) and [Crack the Skye](/articles/crack-the-skye-drum-setup). The Byzance Traditional series — hand-hammered using Turkish techniques — produces dark, blooming cymbals that suit the space half-time grooves create.
 
 Setup: 14" Traditional hi-hats, 18" Traditional Thin Crash, 20" Traditional Medium Crash, 22" Traditional Ride, 18" China, 10" Splash. The crashes are deployed with restraint — each accent placed with compositional intent. This Byzance setup carried nearly unchanged into the [Emperor of Sand](/articles/emperor-of-sand-drum-setup) era (2017), where Dailor expanded into Foundry Reserve and Brilliant sub-series.
 

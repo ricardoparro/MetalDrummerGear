@@ -63,13 +63,17 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
 
 ## Frequently Asked Questions
 
+**Q: What drum kit does Eloy Casagrande use?**
+
+A: Eloy Casagrande uses a Tama Starclassic Bubinga drum kit with a dual-bass-drum configuration, a Tama Bell Brass snare drum (14×5.5"), Paiste cymbals (15" Masters Dark Hi-Hats, 20" 602 and Masters Dark Crashes, 20" 2002 Power Ride, 20" 2002 Novo China), and a Tama Iron Cobra double pedal. He has used Tama and Paiste throughout his career with Sepultura and Slipknot.
+
+**Q: What drum set does Eloy Casagrande use?**
+
+A: Eloy Casagrande's drum set is a Tama Starclassic Bubinga configured with dual 22"×16" and 24"×14" bass drums, multiple toms, and Paiste cymbals. His drum set is built for the extreme dynamics heard on Sepultura's Roots and Machine Messiah eras as well as his current role with Slipknot.
+
 **Q: When did Eloy Casagrande join Slipknot?**
 
 A: Eloy joined Slipknot as their drummer in 2024, replacing Jay Weinberg.
-
-**Q: What drums does Eloy Casagrande play?**
-
-A: Eloy plays Tama Starclassic Bubinga drums with Paiste cymbals.
 
 **Q: Was Eloy Casagrande in Sepultura?**
 
@@ -99,4 +103,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-06-28 · Source: [MetalForge.io](https://metalforge.io)*

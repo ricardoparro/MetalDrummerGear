@@ -229,6 +229,10 @@ const soundLikeGuides = [
   { slug: 'how-to-sound-like-hellhammer', name: 'How to Sound Like Hellhammer' },
   { slug: 'how-to-sound-like-paul-mazurkiewicz', name: 'How to Sound Like Paul Mazurkiewicz' },
   { slug: 'how-to-sound-like-richard-christy', name: 'How to Sound Like Richard Christy' },
+  // Issue #2950: SEO batch 33 — Ben Koller, Vinnie Paul, Blake Richardson
+  { slug: 'how-to-sound-like-ben-koller', name: 'How to Sound Like Ben Koller' },
+  { slug: 'how-to-sound-like-vinnie-paul', name: 'How to Sound Like Vinnie Paul' },
+  { slug: 'how-to-sound-like-blake-richardson', name: 'How to Sound Like Blake Richardson' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

@@ -6,7 +6,7 @@ country: "Canada"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/flo-mounier"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-06-28"
 ---
 
 # Flo Mounier — Drum Kit & Gear Setup
@@ -25,6 +25,12 @@ Flo Mounier's drum kit and gear setup. Flo Mounier is a professional metal drumm
 | Drum kit | Pearl Masters Maple Complete |
 | Signature snare | Pearl Masters 14x5.5" Maple |
 | Sticks | Vic Firth American Classic 5A |
+
+## Kit Overview
+
+Flo Mounier plays a Pearl Masters Maple Complete drum kit — the maple-shell configuration he has maintained through Cryptopsy's most demanding technical death metal recordings. The Flo Mounier drum set centers on a Pearl Masters 14×5.5" Maple snare tuned for the sharp, penetrating crack that cuts through Cryptopsy's dense arrangements on None So Vile and Whisper Supremacy. A Pearl Demon Drive double bass pedal powers his legendary speed — the direct-drive mechanism engineered for the fast rebound his gravity blast technique demands.
+
+Sabian AAX and HHX Series cymbals complete the Flo Mounier drum kit: 14" HHX Stage Hi-Hats for rapid hi-hat patterns; 17" and 18" AAX X-Plosion Crashes for fast-response accent work; a 21" HHX Raw Bell Dry Ride for dark articulation; and an 18" AAXtreme China for brutal punctuation. Evans drumheads and Vic Firth American Classic 5A sticks round out the rig. Mounier has been Cryptopsy's only constant member since 1992, anchoring the band's catalog from Ungentle Exhumation (1993) through As Gomorrah Burns (2023). His Pearl drum set endorsement reflects a long-standing partnership built for the extreme precision his technical death metal playing demands.
 
 ## Biography
 

@@ -6,7 +6,7 @@ country: "Norway"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/hellhammer"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-06-28"
 ---
 
 # Hellhammer — Drum Kit & Gear Setup
@@ -26,6 +26,12 @@ Hellhammer's drum kit and gear setup. Hellhammer is a professional metal drummer
 | Drum kit | Sonor SQ2 Heavy Beech |
 | Signature snare | Sonor SQ2 14x5.5" Maple |
 | Sticks | Vic Firth American Classic 5B |
+
+## Kit Overview
+
+Hellhammer plays a Sonor SQ2 Heavy Beech drum kit — a premium beech-shell configuration chosen for its dense, focused attack at the extreme blast beat tempos defining Mayhem's black metal sound. The Hellhammer drum set is anchored by a Sonor SQ2 14×5.5" Maple snare tuned for the sharp, cutting crack that cuts through Mayhem's raw guitar tone on De Mysteriis Dom Sathanas and the band's live catalog. An Axis double bass pedal drives the kick, providing the precision and fast rebound his relentless blast beat patterns demand.
+
+Paiste RUDE Series cymbals define the sonic character of the Hellhammer drum kit: 14" RUDE Hi-Hats for fast open and closed patterns; 18" and 19" RUDE Crashes for explosive accents; a 20" RUDE Ride for dark articulation; and an 18" RUDE China for brutal punctuation. Vic Firth American Classic 5B sticks complete the rig. Hellhammer joined Mayhem in 1988 and has remained a constant presence through the band's turbulent history — appearing on every official release from De Mysteriis Dom Sathanas (1994) through Daemon (2019). His Sonor SQ2 drum set is built for durability across Mayhem's relentless touring schedule.
 
 ## Biography
 

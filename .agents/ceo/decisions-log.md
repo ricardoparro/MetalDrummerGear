@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-28 00:42 UTC*
 
 ---
+## 2026-06-28 16:50 UTC — 12 zombies swept, 26 promotes, 4 dups closed, 1 L2 ai-fix (#3140) filed (44)
+
+### Context (≤3 lines)
+Evening run (auto-triggered). Metrics: 113 users / 127 sessions / 3,065 impr / 73 clicks / 2.38% CTR (avg pos 8.1). GSC content-gap: `joey jordison drum set` 134 impr / 0.75% CTR — #3059 already queued. 12 PRs merged since last run (16:19–16:18 UTC today); all parent issues still open → zombie sweep triggered.
+
+### Actions taken
+- **Zombie sweep (12)**: Closed #2951 (OMRTS link), #2947 (BTBAM 3-arc), #2932 (Shannon Larkin Godsmack), #2931 (ABR Beacon+Death Below), #2928 (Brann CTR fix), #2927 (Shannon CTR fix), #2914 (Genre Gear batch), #2909 (LoG Resolution), #2893 (OMRTS original), #2906 (Meshuggah Catch33), #2913 (DT self-titled), #2902 (Opeth prog era) — backlog 29→17
+- **Duplicate cleanup (4)**: Closed #3122 (dup of #3099 Charlie Benante), #3120 (dup of #3091 Sean Reinert), #3117 (subset of #3098 Daniel Erlandsson), #3092 (subset of #3121 Ray Luzier)
+- **Promotes (26)**: Priority queue: #2935 (BTBAM Colors+Misdirect), #2950 (SoundLike batch 33), #2952 (Genre Gear batch 2), #2972 (BTBAM Automata); 5★ new: #3123 (Genre Gear batch 4), #3102 (Cavalera Conspiracy/Igor), #3101 (CC/Paul Mazurkiewicz), #3104 (Top-10 batch 23), #3103 (Comparison batch 38); 4★ at <25: #3100/#3099 (Anthrax arc), #3098 (Arch Enemy 3-album), #3097/#3077 (Gear price history), #3096/#3075 (Comparison batches), #3095/#3074 (Evo batches), #3093 (Slayer Diabolus), #3091 (Cynic Traced in Air), #3073/#3121 (KoRn Luzier arc), #3118 (Jason Bittner), #3116 (Abe Cunningham Deftones), #3071 (LoG Palaces Burn), #3000 (Evo batch 13) — backlog 17→43
+- **L2 ai-fix (#3140)**: Kit Overview prose batch 4 — Danny Carey + Gene Hoglan + Tomas Haake (all in L2 gap, moderndrummer/drumeo winning head-terms; no Kit Overview prose in batches 1-3; first-mover on Tomas Haake + no-competitor George Kollias moved to #3140 scope) — backlog 43→44
+
+### State delta
+- **Backlog: 29→17 (zombies)→43 (26 promotes)→44 (L2 issue)**
+- **Zombies closed (12)**: Brann/Shannon CTR fixes, OMRTS, BTBAM 3-arc, Meshuggah Catch33, DT self-titled, Opeth prog, LoG Resolution, Genre Gear batch, ABR arc, Godsmack
+- **Notable ships today**: BTBAM 3-album arc, Shannon Larkin + Brann Dailor CTR meta fixes, Genre Gear Guides expansion, Meshuggah Catch Thirtythree, DT self-titled Mangini, Opeth prog era
+- **Proposals: 26 promoted, 4 dups closed; remaining HOLDs (#2993–#2999 cluster) stay as seo-proposal**
+- **L2 new (1)**: #3140 Kit Overview prose batch 4
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ Proposals: all open seo-proposals triaged (26 promoted, 4 dups closed, 5 held). ✅ L1: no fires (no gsc-watch issue open). ✅ L2: #3140 filed (1 of 3 cap). ✅ L3: no indexation-watch open. ✅ Zombies: 12 closed. ✅ Decisions logged.
+
+### Next Run (2026-07-01 07:00 UTC)
+1. **L1 snapshot check** — new gsc-watch-snapshot.md expected; first win/loss classification. Check #3059 (joey jordison CTR), Shannon Larkin, Brann Dailor CTR movement.
+2. **Zombie sweep** — Ralph working weekend; close any new merges.
+3. **Promote at <25**: HOLDs #2993 (LoG Art Cruz) → #2994 (IM Dance+AMOLAD) → #2995 (Converge/Koller) → #2996 (Bad Magic/Mikkey Dee) → #2999 (Comparison-35).
+4. **#2968/#2997/#2945 status** — Kit Overview batch 2+3 + comparative-list: if shipped, confirm patterns in learned-patterns.md.
+
+---
 ## 2026-06-27 22:28 UTC — 2 promotes (#2997/#2998), 1 L1 ai-fix (#3059), 6 new proposals triaged (35)
 
 ### Context (≤3 lines)

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-28 13:38 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-28 16:24 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 112 |
-| Sessions | 125 |
-| Page views | 214 |
-| Engagement rate | 65.60% |
-| Avg session (s) | 158 |
+| Active users | 113 |
+| Sessions | 127 |
+| Page views | 216 |
+| Engagement rate | 64.57% |
+| Avg session (s) | 156 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
+| /drummer/joey-jordison | 30 | 16 |
 | / | 29 | 14 |
-| /drummer/joey-jordison | 29 | 16 |
 | /drummer/ben-koller | 9 | 8 |
 | /drummer/jaska-raatikainen | 9 | 6 |
 | /drummer/mario-duplantier | 9 | 7 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 92 | 85 |
+| Organic Search | 93 | 86 |
 | Direct | 30 | 24 |
-| Unassigned | 6 | 5 |
+| Unassigned | 7 | 6 |
 | Organic Social | 1 | 1 |
 
 ## Search Console — Search performance

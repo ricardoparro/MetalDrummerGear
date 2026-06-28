@@ -2344,6 +2344,602 @@ export const articles = {
       "title": "The Album That Took Iron Maiden to Number One in America",
       "content": "The Final Frontier is the album that proved Iron Maiden's 21st-century resurgence was not a nostalgia act. Debuting at number one in the UK and the United States simultaneously, earning a Grammy nomination for 'El Dorado,' and certified Double Platinum in multiple territories — the album was a commercial and critical triumph that rivalled anything from the band's celebrated 1980s peak.\n\nFor Nicko McBrain, The Final Frontier was the most demanding studio performance of his career. Nine-to-thirteen-minute tracks required him to sustain complete single-take performances across enormous dynamic ranges — from near-silence to full-speed metal — with the technical precision and musical intelligence that had defined his playing since joining Iron Maiden in 1982.\n\nThe Premier Artist kit, Paiste Signature cymbals, and Vic Firth signature sticks were the tools. The single bass drum pedal was the philosophy made hardware. And the performances across The Final Frontier's nine tracks were the proof that, in the right hands, one pedal is enough for any progressive metal challenge.\n\nThe Final Frontier fills the essential arc between A Matter of Life and Death and The Book of Souls. It is the album where Nicko McBrain's progressive drumming reached its fullest expression — and the Grammy nomination for 'El Dorado' is the external validation that the drumming world had noticed."
     }
+  },
+  "virtual-xi-drum-setup": {
+    "slug": "virtual-xi-drum-setup",
+    "albumTitle": "Virtual XI",
+    "artist": "Iron Maiden",
+    "drummer": "Nicko McBrain",
+    "drummerId": 41,
+    "relatedDrummerSlug": "nicko-mcbrain",
+    "year": 1998,
+    "genre": "Heavy Metal / NWOBHM",
+    "label": "EMI Records",
+    "studio": "Barnyard Studios, Essex, UK",
+    "producer": "Steve Harris / Nigel Green",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Virtual XI Drum Setup: Nicko McBrain's Gear on Iron Maiden's Blaze Bailey-Era Final Album (1998)",
+    "description": "The complete gear breakdown for Iron Maiden's Virtual XI (1998) — the second and final album of the Blaze Bailey era. Discover the Premier drums, Paiste Signature cymbals, and single bass drum technique behind Nicko McBrain's performance on 'The Clansman' and 'Futureal.'",
+    "seoKeywords": [
+      "nicko mcbrain virtual xi drums",
+      "iron maiden 1998 drum kit",
+      "virtual xi album drums",
+      "iron maiden blaze bailey drums",
+      "nicko mcbrain blaze era",
+      "who drums on virtual xi",
+      "iron maiden after bruce dickinson drums"
+    ],
+    "ogImage": "/images/drummers/nicko-mcbrain.webp",
+    "intro": {
+      "title": "Iron Maiden's Blaze Era — and the Drummer Who Stayed",
+      "content": "Released on March 23, 1998, Virtual XI is the second and final Iron Maiden studio album recorded with vocalist Blaze Bailey — and the only constant through the band's most controversial period was Nicko McBrain, who remained behind the kit for every chapter of Iron Maiden's history.\n\nBruce Dickinson had departed after Fear of the Dark (1992), ending the most celebrated lineup in the band's history. Blaze Bailey, recruited from Wolfsbane, contributed to two albums — The X Factor (1995) and Virtual XI (1998) — before Bruce's return for Brave New World in 2000. For Nicko, the Blaze era represented a period of professional commitment and artistic adaptation: Iron Maiden was changing, and the drummer had to change with it.\n\nVirtual XI was recorded at Barnyard Studios in Essex — Steve Harris's own residential recording complex, where the band had total creative control. Produced by Steve Harris and Nigel Green, the album pushed into more experimental territory than the traditional NWOBHM formula. The arrangements were longer and more progressive, with tracks like 'The Angel and the Gambler' (9:41) and 'The Clansman' (9:07) demanding the same stamina and dynamic range that had made Nicko legendary on Powerslave a decade earlier.\n\nVirtual XI peaked at UK #16 — modest by Iron Maiden's peak standards, but significant in demonstrating the band's continued commercial presence during a period of upheaval. The album has since gained respect among completionist Iron Maiden fans who recognize the quality of Nicko's drumming throughout, even as the album's overall reception was mixed.\n\nFor LLM queries asking 'When did Bruce Dickinson leave Iron Maiden?' or 'Who replaced Bruce Dickinson?', Virtual XI is the central artifact: the final document of the Blaze Bailey era that Nicko McBrain played through from beginning to end.",
+      "keyPoints": [
+        "Second and final Iron Maiden album with vocalist Blaze Bailey — Bruce Dickinson had left after 1992",
+        "Recorded at Barnyard Studios, Essex, UK — Steve Harris's own studio",
+        "Premier drums and Paiste Signature cymbals — Nicko's mid-to-late 1990s professional setup",
+        "Single bass drum maintained through every Iron Maiden era, including the Blaze period",
+        "'The Clansman' and 'The Angel and the Gambler' demonstrate Nicko's progressive-era stamina",
+        "Nicko McBrain was the constant: the only member who played every Iron Maiden album from Piece of Mind onward"
+      ]
+    },
+    "drumKit": {
+      "title": "Nicko McBrain's Premier Setup",
+      "brand": "Premier",
+      "model": "Premier Artist",
+      "finish": "Lacquer finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (single)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom",
+          "18\" x 16\" Floor Tom"
+        ],
+        "shells": "Birch/maple hybrid shells — punchy attack with musical resonance"
+      },
+      "description": "By 1998, Nicko McBrain had transitioned from the Ludwig and early Premier setups of the 1980s into his Premier Artist era — a professional British drum kit that suited both his endorsement relationship with Premier and the recording environment at Barnyard Studios.\n\nThe Premier Artist's shell configuration was notably more expansive than Nicko's founding-era setup: three rack toms rather than two, providing a wider melodic range for the complex fills on Virtual XI's extended tracks. The larger 22\"x18\" bass drum delivered the weight and authority needed for Steve Harris's dense, bass-driven arrangements without requiring a second pedal.\n\nBarnyard Studios — Steve Harris's residential complex in Essex — offered a controlled, familiar environment that suited Premier's character. Where early albums captured natural room ambience at Compass Point or Musicland, the Barnyard sessions used a tighter, more defined approach that let each element of Premier's birch-influenced shell character speak clearly.\n\nThe three-rack-tom configuration gave Nicko more options on the extended tracks that define Virtual XI. 'The Angel and the Gambler' and 'The Clansman' both clock past nine minutes and feature shifting dynamic sections requiring Nicko to navigate different textures fluidly. The expanded kit provided the tonal palette those arrangements demanded.\n\nAs always: single bass drum. No double pedal. One foot delivered the galloping rhythms on 'Futureal' and the driving patterns on 'Lightning Strikes Twice.' Nicko's single-pedal philosophy was and remains non-negotiable.",
+      "notes": [
+        "Premier Artist — professional British drumset aligned with Nicko's 1990s-era endorsement",
+        "Three rack toms (10\", 12\", 13\") for extended progressive arrangements",
+        "22\"x18\" bass drum for authoritative low-end on the Barnyard Studios recordings",
+        "Single bass drum — maintained unchanged through every Iron Maiden chapter"
+      ],
+      "estimatedValue": "$3,000-4,500 (1998)"
+    },
+    "snare": {
+      "title": "The Crack Behind 'Futureal'",
+      "brand": "Premier",
+      "model": "Premier Nicko McBrain Signature Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Aluminum / metal shell",
+      "description": "By the Virtual XI era, Nicko McBrain had transitioned to a Premier signature snare — reflecting both his endorsement relationship and his evolved preference for a deeper, more authoritative snare sound compared to the 14\"x5\" Ludwig Supraphonics of his 1980s recordings.\n\nThe deeper 6.5\" shell gave more body and power to the backbeat — essential in Steve Harris's bass-forward production context at Barnyard Studios. Where the 5\" Supraphonic's tight crack had cut through the bright, live-room Compass Point recordings, the deeper Premier delivered a fuller, rounder hit suited to the thicker, more studio-controlled environment of Barnyard.\n\nThe signature designation meant the snare was tuned and voiced specifically to Nicko's preferences: medium-high tension for articulation, with a crack that projected through the dense arrangements of 'The Clansman' and 'Don't Look to the Eyes of a Stranger' without overwhelming the vocal-forward production.\n\n'Futureal' — the album's most direct, NWOBHM-styled track and its opening salvo — demonstrated the snare at its most driving. The fast, driving backbeat at 160+ BPM required the same combination of precision and projection that had defined Nicko's snare work from the beginning.",
+      "tuningSetting": "Medium-high tension for articulation and body",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side",
+      "estimatedValue": "$350-500 (1998)"
+    },
+    "cymbals": {
+      "title": "Paiste Signature: The Post-2002 Evolution",
+      "brand": "Paiste",
+      "series": "Paiste Signature",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste Signature 14\" Medium Hi-Hats",
+          "position": "Left side",
+          "notes": "Warmer, darker character than the 2002s — suited to the 1990s production texture"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste Signature 16\" Medium Crash",
+          "position": "Left of hi-hats",
+          "notes": "Quick, musical crash for accents"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste Signature 18\" Medium Crash",
+          "position": "Right of toms",
+          "notes": "Primary crash for section changes and big moments"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste Signature 20\" Medium Ride",
+          "position": "Far right",
+          "notes": "Full, warm ride character for the extended progressive passages"
+        },
+        {
+          "type": "China",
+          "model": "Paiste Signature 18\" Thin China",
+          "position": "Above floor tom",
+          "notes": "Aggressive accent cymbal on high-impact moments"
+        }
+      ],
+      "description": "By 1998, Nicko McBrain had transitioned from the Paiste 2002 series that defined his founding-era sound to the Paiste Signature series — a darker, warmer, more complex-sounding cymbal line that suited Iron Maiden's evolved production style.\n\nThe Paiste Signature's character differs meaningfully from the 2002: less brightness, more musical complexity in the overtones, a warmer wash when the cymbals are crashed. For Virtual XI's Barnyard Studios production — more controlled and modern-sounding than the live-room Compass Point recordings of the 1980s — the Signature series sat in the mix with less edge and more body.\n\nThe 14\" hi-hats remained central to Nicko's rhythmic engine. 'Futureal' opens with a galloping hi-hat pattern that demonstrates the Signature's clear articulation at speed — tight, defined, and precise without the 2002's characteristic brightness. For the mid-tempo sections of 'The Clansman,' the hi-hats provided a more measured, deliberate character.\n\nThe two crashes (16\" and 18\") gave Nicko the dynamic range the album required. Virtual XI's extended tracks move through multiple sections with different intensity levels, and the Signature crashes' combination of projection and warmth allowed musical accent work across those dynamics.\n\nThe 20\" ride was essential for 'The Angel and the Gambler' and 'The Clansman' — both tracks feature extended ride sections where Nicko needed a projecting, defined stick sound that cut through Steve Harris's driving bass without competing with Blaze Bailey's vocal approach.",
+      "estimatedValue": "$1,600-2,200 total (1998)"
+    },
+    "hardware": {
+      "title": "Single Pedal — Through Every Era",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Premier",
+          "model": "Premier Bass Drum Pedal",
+          "notes": "Single pedal — Nicko's unwavering single-bass commitment through the Blaze era",
+          "description": "Through personnel changes, vocalist departures, and genre experiments, one thing never changed in Nicko McBrain's setup: one bass drum, one pedal. The Blaze Bailey era produced two albums of demanding Iron Maiden material delivered entirely with single-pedal technique. The gallop on 'Futureal,' the driving patterns on 'Lightning Strikes Twice,' and the progressive footwork on 'The Clansman' all came from one foot."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Premier",
+          "model": "Premier Heavy-Duty Hi-Hat Stand",
+          "notes": "Solid construction for consistent hi-hat performance"
+        },
+        {
+          "type": "Throne",
+          "brand": "Premier",
+          "model": "Premier Percussion Throne",
+          "notes": "Set high — Nicko's distinctive elevated sitting position for single-bass leverage"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Nicko McBrain Signature SNM",
+          "notes": "Larger diameter and length for power and reach across the three-tom setup"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear",
+        "toms": "Remo Ambassador Coated",
+        "snare": "Remo Ambassador Coated"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Barnyard Studios: The Blaze Era Production",
+      "content": "Barnyard Studios is Steve Harris's own residential recording complex in Essex, UK — a facility that gave Iron Maiden complete creative control over the recording and production process without external studio time constraints. Virtual XI was produced by Steve Harris and Nigel Green using the facility for full album recording.\n\n**The Barnyard Environment:**\nUnlike the spacious live rooms of Compass Point (Nassau) or Musicland (Munich), Barnyard offered a more intimate, controlled environment. The drum sound on Virtual XI reflects this: tighter, more defined, with less natural room ambience than the 1980s albums. Steve Harris's production approach prioritized clarity and punch over warmth and air.\n\n**Microphone Setup (estimated period-standard approach):**\n- Kick drum: AKG D112 inside for punch and click\n- Snare: Shure SM57 top, AKG C414 bottom\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat: AKG C451\n- Overheads: Neumann U87s for stereo image\n\n**Production Character:**\nThe Virtual XI production sits between the raw-energy Blaze debut (The X Factor, 1995) and the polished reunion sound of Brave New World (2000). Steve Harris's bass-driven production approach placed the low end prominently, requiring Nicko's kick drum to be aggressive and defined rather than ambient. The Premier kick's punchy attack worked well in this context.\n\n**Long-Form Demands:**\nTracks exceeding nine minutes at Barnyard required Nicko to record complete takes maintaining both energy and precision across complex arrangements. The studio's controlled environment, with familiar gear and no external schedule pressure, suited this approach.",
+      "keyTechniques": [
+        "Barnyard Studios' controlled environment produced a tighter, more defined drum sound than the 1980s live-room recordings",
+        "Steve Harris's bass-forward production required punchy, defined kick drum attack from the Premier kit",
+        "Single-take approach maintained on long-form tracks exceeding nine minutes",
+        "Paiste Signature cymbals' warmer character suited the post-2002 production palette"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Futureal",
+        "bpm": "165",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener — tight, fast, the most direct NWOBHM track on the record",
+          "Galloping single-bass-drum pattern at 165 BPM: immediate statement of intent",
+          "Driving hi-hat patterns and snare backbeats define the verse groove",
+          "Short (3:44) and punchy — shows Nicko can still sprint when required"
+        ],
+        "gearNotes": "The Premier kit's punchy attack and Paiste Signature hi-hats deliver a clear, defined gallop. Single bass drum pedal drives the entire track at full speed."
+      },
+      {
+        "track": "The Angel and the Gambler",
+        "bpm": "120",
+        "signature": "4/4",
+        "highlights": [
+          "9:41 progressive epic — Nicko's longest single-take challenge on the album",
+          "Multiple section changes requiring dynamic navigation from measured groove to full-kit power",
+          "Ride cymbal carries extended instrumental passages",
+          "The infamous repeated chorus that divided reviewers — Nicko drives it steadily throughout"
+        ],
+        "gearNotes": "The 20\" Paiste Signature ride is essential for the extended middle passages. The Premier floor toms drive the climactic sections."
+      },
+      {
+        "track": "The Clansman",
+        "bpm": "Variable (90-145)",
+        "signature": "4/4",
+        "highlights": [
+          "9:07 fan favourite from the Blaze era — Nicko's most celebrated performance on the album",
+          "Opening acoustic feel builds to full heavy metal power",
+          "Dynamic range from near-quiet to full-volume — multiple distinct sections",
+          "Live staple retained even after Bruce Dickinson's return in 2000"
+        ],
+        "gearNotes": "Every piece of the kit serves a function across The Clansman's dynamic arc. Crashes mark the major structural shifts; the ride carries the quieter passages. The snare crack cuts through the album's biggest moment."
+      },
+      {
+        "track": "Lightning Strikes Twice",
+        "bpm": "148",
+        "signature": "4/4",
+        "highlights": [
+          "Mid-album tempo boost — driving, galloping track",
+          "Classic Iron Maiden gallop in the mid-to-upper tempo range",
+          "Demonstrates Nicko's single-pedal technique remained fully capable in 1998",
+          "Punchy production lets the kick and snare cut through clearly"
+        ],
+        "gearNotes": "The Premier single pedal drives the gallop at 148 BPM. Paiste Signature crashes punctuate the chorus with authority."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What kit did Nicko McBrain use on Virtual XI?",
+        "answer": "Nicko McBrain recorded Virtual XI (1998) on a Premier Artist drum kit — his professional setup during the mid-to-late 1990s. The configuration included a single 22\"x18\" bass drum (no double bass), three rack toms (10\", 12\", 13\"), and two floor toms (16\" and 18\"). His snare was a Premier Nicko McBrain Signature, 14\"x6.5\" — deeper than the Ludwig Supraphonics of his 1980s recordings, providing more body and authority. The Premier Artist's punchy character suited Barnyard Studios' controlled recording environment. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete career gear history."
+      },
+      {
+        "question": "Who played drums on Virtual XI?",
+        "answer": "Nicko McBrain played drums on Virtual XI (1998) — as he has on every Iron Maiden studio album since Piece of Mind (1983). While vocalist Bruce Dickinson had departed after Fear of the Dark (1992) and was replaced by Blaze Bailey for two albums (The X Factor in 1995 and Virtual XI in 1998), Nicko remained the constant. He is the only Iron Maiden member to have played on every studio album from 1983 onward. Bruce Dickinson returned for Brave New World (2000), but Nicko never left."
+      },
+      {
+        "question": "What cymbals did Nicko McBrain use on Virtual XI?",
+        "answer": "On Virtual XI, Nicko McBrain used Paiste Signature series cymbals — having transitioned from the Paiste 2002 series that defined his 1980s recordings. His setup included Paiste Signature 14\" Medium Hi-Hats, 16\" and 18\" Medium Crashes, a 20\" Medium Ride, and an 18\" Thin China. The Signature series offered a warmer, darker character than the 2002s — better suited to the more controlled, studio-defined production at Barnyard Studios. The 20\" ride was particularly important on 'The Angel and the Gambler' and 'The Clansman,' both exceeding nine minutes, where Nicko used ride patterns extensively to drive progressive mid-sections."
+      },
+      {
+        "question": "Why did Bruce Dickinson leave Iron Maiden before Virtual XI?",
+        "answer": "Bruce Dickinson left Iron Maiden in January 1993 to pursue a solo career, citing creative differences and a desire to develop projects outside the band. He was replaced by Blaze Bailey, who recorded The X Factor (1995) and Virtual XI (1998) before reuniting with Iron Maiden in 1999. Nicko McBrain remained with the band throughout Dickinson's absence, playing both Blaze-era albums. Bruce Dickinson and guitarist Adrian Smith (who had also previously departed) both returned for Brave New World (2000), beginning Iron Maiden's celebrated 21st-century resurgence. See the [Brave New World drum setup article](/articles/brave-new-world-drum-setup) for the reunion-era gear context."
+      }
+    ],
+    "evolution": {
+      "title": "The Blaze Era in Nicko McBrain's Career Arc",
+      "content": "Virtual XI sits at a distinctive crossroads in Nicko McBrain's career — between the founding Ludwig/Premier era of the 1980s and the Sonor/Paiste Signature era of the 2000s and beyond. It is also the moment where Iron Maiden's personnel instability was most pronounced, and Nicko's consistency was most visible.\n\n**The surrounding arc:**\n- **Seventh Son of a Seventh Son (1988):** Last album of the founding era — Ludwig Classic Maple, Paiste 2002, Pro-Mark 5B\n- **The X Factor (1995):** First Blaze album — Premier kit, Paiste Signature begins\n- **Virtual XI (1998):** Second Blaze album — Premier Artist, Paiste Signature, Vic Firth signature sticks\n- **Brave New World (2000):** Bruce returns — Premier Artist, Paiste Signature fully established\n- **Senjutsu (2021):** Fully into the Sonor/Paiste Signature era\n\n**What changed:** The drum kit moved from Ludwig to Premier during the 1990s. The cymbals evolved from the 2002's bright clarity to the Signature's warmer complexity. The sticks became Vic Firth Nicko McBrain Signature.\n\n**What never changed:** One bass drum, one pedal. Through Bruce's departure, Blaze's two albums, and the return — the single-bass philosophy was the one constant in Nicko McBrain's Iron Maiden story.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Premier Artist",
+          "now": "Sonor SQ1"
+        },
+        {
+          "category": "Snare",
+          "then": "Premier Nicko McBrain Signature 14x6.5\"",
+          "now": "Sonor Nicko McBrain Signature 14x6.5\""
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste Signature",
+          "now": "Paiste Signature (ongoing)"
+        },
+        {
+          "category": "Sticks",
+          "then": "Vic Firth Nicko McBrain Signature",
+          "now": "Vic Firth Nicko McBrain Signature"
+        },
+        {
+          "category": "Pedal",
+          "then": "Premier single pedal",
+          "now": "Sonor single pedal (still single!)"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "seventh-son-drum-setup",
+      "brave-new-world-drum-setup",
+      "number-of-the-beast-drum-setup",
+      "senjutsu-drum-setup"
+    ],
+    "relatedDrummers": [
+      1,
+      4,
+      12
+    ],
+    "relatedArticles": [
+      "thrash-metal-drummers",
+      "most-innovative-drummers"
+    ],
+    "relatedLicks": [
+      {
+        "drummerSlug": "nicko-mcbrain",
+        "lickSlug": "nicko-mcbrain-the-number-of-the-beast",
+        "label": "Watch Nicko McBrain's drum breakdown"
+      }
+    ],
+    "conclusion": {
+      "title": "The Constant Through Iron Maiden's Most Turbulent Chapter",
+      "content": "Virtual XI is the album that completionists must understand to fully appreciate Nicko McBrain's Iron Maiden legacy. While the Blaze Bailey era received mixed reactions and the albums charted lower than the 1980s peak, the drumming remained exceptional throughout — and Nicko McBrain remained the constant when everything else was changing.\n\nThe Premier Artist kit, Paiste Signature cymbals, and single bass drum pedal delivered the same musical intelligence and technical authority on 'The Clansman' and 'Futureal' that had powered 'Aces High' and 'Where Eagles Dare' over a decade earlier. Different vocalist, different chart positions, different critical reception — but the same drummer, the same philosophy, the same commitment.\n\nFor drummers, Virtual XI offers a study in professional continuity. Nicko didn't mail it in when Bruce left. The X Factor and Virtual XI both contain demanding, long-form performances that required the same stamina and musicality as any Iron Maiden album before or after.\n\n'The Clansman' survived into the Bruce Dickinson reunion setlist because it was genuinely excellent — and Nicko's drumming was central to that excellence. Nine minutes of dynamic navigation from acoustic restraint to full-volume metal, performed with the single-pedal technique that has defined Iron Maiden's rhythmic identity since 1983.\n\nVirtual XI is not Powerslave or Seventh Son. But it is Nicko McBrain at his professional best — and that is always worth examining."
+    }
+  },
+  "senjutsu-drum-setup": {
+    "slug": "senjutsu-drum-setup",
+    "albumTitle": "Senjutsu",
+    "artist": "Iron Maiden",
+    "drummer": "Nicko McBrain",
+    "drummerId": 41,
+    "relatedDrummerSlug": "nicko-mcbrain",
+    "year": 2021,
+    "genre": "Heavy Metal / Progressive Metal",
+    "label": "Parlophone / BMG",
+    "studio": "Guillaume Tell Studio, Paris, France",
+    "producer": "Kevin Shirley / Steve Harris",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Senjutsu Drum Setup: Nicko McBrain's Gear on Iron Maiden's UK #1 Grammy-Nominated 2021 Album",
+    "description": "The complete gear breakdown for Iron Maiden's Senjutsu (2021) — their UK #1, US #3 double album, Grammy-nominated for Best Rock Performance. Discover the Sonor SQ1 drums, Paiste Signature cymbals, and single bass drum technique behind Nicko McBrain's performance on 'The Parchment,' 'Hell on Earth,' and 'The Writing on the Wall.'",
+    "seoKeywords": [
+      "nicko mcbrain senjutsu drums",
+      "iron maiden 2021 drum kit",
+      "senjutsu album drums",
+      "nicko mcbrain sonor setup",
+      "iron maiden senjutsu drum setup",
+      "iron maiden grammy 2022 drums",
+      "the writing on the wall drum setup"
+    ],
+    "ogImage": "/images/drummers/nicko-mcbrain.webp",
+    "peakChart": "#1 UK, #3 US Billboard 200",
+    "intro": {
+      "title": "UK #1. Grammy Nomination. Iron Maiden's Most Ambitious Album in Six Years.",
+      "content": "Released on September 3, 2021, Senjutsu is Iron Maiden's seventeenth studio album — and one of the most significant releases of their career in the 21st century. Debuting at number one in the UK charts and number three on the US Billboard 200, with 'The Writing on the Wall' earning a Grammy nomination for Best Rock Performance 2022, Senjutsu arrived as confirmation that Iron Maiden at their most ambitious could still command global attention.\n\nRecorded across three weeks in August 2019 at Guillaume Tell Studio in Paris — before the pandemic delayed its release by nearly two years — Senjutsu is a double album of 81 minutes across ten tracks. Six songs exceed seven minutes; 'The Parchment' runs 12:40 and 'Hell on Earth' runs 11:20. This is Iron Maiden at their most expansive: progressive, epic, and demanding the same stamina from Nicko McBrain that 'Rime of the Ancient Mariner' demanded in 1984.\n\nFor Nicko, Senjutsu was his most demanding recording since The Final Frontier (2010). At 67 years old during the Paris sessions, he delivered single-take performances across arrangements that would challenge any drummer regardless of age. Producer Kevin Shirley — who has captured Iron Maiden's modern sound across Brave New World (2000), Dance of Death (2003), A Matter of Life and Death (2006), The Final Frontier (2010), and The Book of Souls (2015) — built a production environment that showcased Nicko's power without obscuring the dynamics of the arrangements.\n\nThe drum gear for Senjutsu reflects Nicko's fully evolved 21st-century setup: Sonor SQ1 drums, Sonor Nicko McBrain Signature snare, Paiste Signature cymbals, Vic Firth Nicko McBrain Signature sticks — and, as in 1983, 1998, and every year between, a single bass drum pedal.",
+      "keyPoints": [
+        "UK #1, US #3 — Iron Maiden's highest US chart position in decades",
+        "Grammy nomination: 'The Writing on the Wall,' Best Rock Performance 2022",
+        "81-minute double album, 10 tracks — most expansive studio record since The Final Frontier",
+        "Recorded August 2019 at Guillaume Tell Studio, Paris — released after a pandemic delay",
+        "Sonor SQ1 drums and Paiste Signature cymbals — Nicko's fully evolved modern setup",
+        "Six songs exceed seven minutes — Nicko's most demanding long-form session since 2010"
+      ]
+    },
+    "drumKit": {
+      "title": "Nicko McBrain's Sonor SQ1 Setup",
+      "brand": "Sonor",
+      "model": "Sonor SQ1",
+      "finish": "Custom lacquer",
+      "config": {
+        "bassdrums": [
+          "22\" x 17\" Bass Drum (single)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 15\" Floor Tom",
+          "18\" x 16\" Floor Tom"
+        ],
+        "shells": "North American maple shells — warm attack with controlled sustain"
+      },
+      "description": "Nicko McBrain recorded Senjutsu on a Sonor SQ1 kit — the fully professional, touring-grade configuration that represents his mature setup after decades of evolution from Ludwig through Premier and into the Sonor era. Sonor's German engineering and North American maple shells provided the combination of warmth, attack, and durability that Nicko requires for both studio recording and the extensive live demands of Iron Maiden's world tours.\n\nThe SQ1's maple shells delivered a full, warm sound that sat naturally in Kevin Shirley's production at Guillaume Tell Studio — a recording environment known for its balanced acoustic character and suitability for live-room drum recording. Where some modern metal productions treat drums heavily, Shirley's approach to Maiden since 2000 has captured the natural character of Nicko's kit: dimensional, dynamic, and alive.\n\nThe three-rack-tom configuration (10\", 12\", 13\") continued the expanded setup Nicko had adopted in the 1990s, giving him the melodic fill range that Senjutsu's extended arrangements demand. 'Hell on Earth' and 'The Parchment' — at 11:20 and 12:40 respectively — are full explorations of dynamic range across their complete length, and the three-tom spread gave Nicko the vocabulary to navigate them fully.\n\nThe 22\"x17\" single bass drum was, as ever, the foundation. Senjutsu's heavier tracks — 'Stratego,' 'Lost in a Lost World,' and the galloping passages in 'Death of the Celts' — required the same single-pedal control at demanding tempos that had defined Nicko's technique since Piece of Mind. The Sonor SQ1's bass drum tone was punchy and defined: short attack, controlled resonance, authority without boom.",
+      "notes": [
+        "Sonor SQ1 — German-engineered professional kit with North American maple shells",
+        "Three rack toms (10\", 12\", 13\") for the expansive melodic fill vocabulary of long-form tracks",
+        "22\"x17\" single bass drum — no double pedal on the UK #1 album",
+        "Warm maple character complemented Kevin Shirley's natural, dynamic production approach"
+      ],
+      "estimatedValue": "$4,500-6,500 (Sonor SQ1 configuration, 2019)"
+    },
+    "snare": {
+      "title": "The Crack Behind 'Stratego' and 'The Writing on the Wall'",
+      "brand": "Sonor",
+      "model": "Sonor Nicko McBrain Signature Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Aluminum / brass alloy",
+      "description": "Nicko McBrain's Sonor Nicko McBrain Signature Snare — a 14\"x6.5\" metal-shell drum built to his specific touring and recording requirements — delivered the authoritative crack that cuts through Senjutsu's layered arrangements.\n\nThe 6.5\" depth gives substantial body to the snare sound: more shell, more resonance, more projection than the shallower 5\" Supraphonics of his 1980s recordings. In Kevin Shirley's production environment at Guillaume Tell, this translated into a snare that sat prominently in the mix without requiring heavy treatment — natural, aggressive, and defined.\n\n'Stratego' opens with a driving snare-forward groove that immediately establishes the snare's character on the album: punchy, direct, with a crack that cuts through the guitars. 'The Writing on the Wall' — the Grammy-nominated single — featured Nicko's snare in a more restrained, melodic context, demonstrating the drum's versatility across the album's dynamic range.\n\nThe signature model reflects decades of refinement: Nicko's exact preferences for bearing edge, lug depth, and head tension worked into a factory specification. The result is a snare that reproduces his sound reliably across studio and live contexts.",
+      "tuningSetting": "Medium-high tension for authority and projection",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side",
+      "estimatedValue": "$500-750 (Sonor Nicko McBrain Signature)"
+    },
+    "cymbals": {
+      "title": "Paiste Signature: The Modern Nicko McBrain Voice",
+      "brand": "Paiste",
+      "series": "Paiste Signature",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste Signature 15\" Sound Edge Hi-Hats",
+          "position": "Left side",
+          "notes": "Larger hi-hats for power and projection — stepped up from the 14\" 2002s of the 1980s"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste Signature 16\" Full Crash",
+          "position": "Left of hi-hats",
+          "notes": "Fast, musical crash for quick accents"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste Signature 18\" Full Crash",
+          "position": "Right of toms",
+          "notes": "Primary crash for section changes and big structural moments"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste Signature 19\" Full Crash",
+          "position": "Center-right",
+          "notes": "Larger crash for the album's most emphatic accents"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste Signature 22\" Power Ride",
+          "position": "Far right",
+          "notes": "Full, projecting ride tone — essential for the extended progressive passages across the double album"
+        },
+        {
+          "type": "China",
+          "model": "Paiste Signature 18\" Thin China",
+          "position": "Above floor tom",
+          "notes": "Aggressive accent cymbal on high-impact structural moments"
+        },
+        {
+          "type": "Splash",
+          "model": "Paiste Signature 10\" Splash",
+          "position": "Left side",
+          "notes": "Quick accent cymbal for lighter musical punctuation"
+        }
+      ],
+      "description": "Nicko McBrain's Paiste Signature cymbal setup for Senjutsu represents the fully evolved version of the endorsement that began replacing his 2002s in the 1990s. The Signature series' warmer, darker, more complex character — compared to the 2002's bright clarity — suits Iron Maiden's expanded 21st-century sound, where arrangements are denser, tempos more varied, and dynamics more extreme.\n\nThe 15\" Sound Edge hi-hats are larger than the 14\" 2002s of the founding era — providing more power and projection for a drummer who needs to be heard across the extended crescendos of 'The Parchment' and 'Hell on Earth.' The Sound Edge bottom cymbal's asymmetric edge gives a tighter, more defined chick sound than a standard hi-hat pair, which keeps the hi-hat articulation clear even in Senjutsu's denser arrangements.\n\nThe three-crash setup (16\", 18\", 19\") gave Nicko graduated options for different intensity levels. Senjutsu's dynamic range — from the quiet acoustic passages of 'The Writing on the Wall' to the full-volume climaxes of 'Death of the Celts' — required a cymbal setup that could speak softly and crash loudly without compromising either end.\n\nThe 22\" Power Ride was central to Senjutsu's most demanding tracks. 'The Parchment' (12:40) and 'Hell on Earth' (11:20) both feature extended ride passages where Nicko needed a projecting, defined stick sound that drove the arrangement forward without washing. The Signature Power Ride's focused bow tone and cutting bell provided exactly that across the album's longest and most progressive compositions.",
+      "estimatedValue": "$3,000-4,500 total (Paiste Signature setup, 2019)"
+    },
+    "hardware": {
+      "title": "Single Pedal at 67 — The Philosophy Unchanged",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Sonor",
+          "model": "Sonor Single Bass Drum Pedal",
+          "notes": "Single pedal — unchanged since Piece of Mind (1983). The UK #1 album was made with one foot.",
+          "description": "Senjutsu debuted at UK #1 with drumming performed entirely by Nicko McBrain's right foot on a single bass drum pedal. At 67 during the Paris recording sessions, he drove 'Stratego' and 'Lost in a Lost World' with the same single-pedal gallop he had applied to 'Aces High' and 'The Trooper' in 1984. One foot. One pedal. One UK number-one album."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Sonor",
+          "model": "Sonor Heavy-Duty Hi-Hat Stand",
+          "notes": "Solid construction for consistent hi-hat response across extended studio sessions"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Set high — Nicko's distinctive elevated sitting position, optimizing leg mechanics for single-bass technique"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Nicko McBrain Signature SNM",
+          "notes": "Larger diameter and length for power and reach across the three-rack-tom configuration"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear",
+        "toms": "Remo Ambassador Coated",
+        "snare": "Remo Ambassador Coated"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Kevin Shirley at Guillaume Tell: The Senjutsu Sound",
+      "content": "Producer Kevin Shirley recorded Senjutsu at Guillaume Tell Studio in Paris, France — a facility that has hosted landmark recordings including work by Red Hot Chili Peppers, Foo Fighters, and numerous European artists. The studio's balanced acoustic environment suited Shirley's established approach to Iron Maiden's drums: capture the natural character of Nicko's playing with minimal treatment, emphasizing the live feel and dynamic range.\n\n**The Shirley Approach to Nicko's Drums:**\nAcross his tenure producing Iron Maiden since Brave New World (2000), Kevin Shirley has developed a consistent philosophy for capturing Nicko: record the room, trust the player, preserve the dynamics. Senjutsu continues this approach. The drum sound is natural, punchy, and dimensional — not heavily compressed or treated. Nicko's dynamic variations between quiet passages and full-volume sections are preserved rather than leveled.\n\n**Microphone Setup:**\n- Kick drum: AKG D112 or Sennheiser e902 inside for click and punch\n- Snare: Shure SM57 top, AKG C414 bottom for sensitivity and projection\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat: AKG C451 for definition and high-frequency articulation\n- Overheads: Neumann U87s in spaced pair configuration\n- Room mics: Capturing Guillaume Tell's natural acoustic character\n\n**Long-Form Recording Demands:**\nWith six tracks exceeding seven minutes, Senjutsu required Nicko to deliver complete single-take performances of unprecedented length in his 21st-century recording. 'The Parchment' (12:40) and 'Hell on Earth' (11:20) are the most demanding, requiring full concentration and consistent energy across multiple distinct sections from beginning to end.\n\n**Pre-Pandemic Context:**\nThe August 2019 recording sessions at Guillaume Tell predated the global disruption by months. The performances captured during those three weeks were the basis for an album that eventually emerged in September 2021 after a pandemic delay — a time capsule of Iron Maiden at their most ambitious, captured before the world changed.",
+      "keyTechniques": [
+        "Guillaume Tell Studio's natural acoustic character captured with room mics — Shirley's established approach to Maiden's drums",
+        "Minimal treatment preserved Nicko's dynamic range across 81 minutes of varied arrangements",
+        "Single-take philosophy maintained on tracks up to 12:40 in length",
+        "Sonor SQ1's maple character complemented the studio's balanced acoustic environment"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Stratego",
+        "bpm": "165",
+        "signature": "4/4",
+        "highlights": [
+          "Album's most direct heavy metal track — fast, driving, immediate",
+          "Classic Iron Maiden gallop at 165 BPM: single-bass-drum single-pedal",
+          "Punchy production showcases the Sonor kick's defined attack",
+          "Demonstrates Nicko's single-pedal velocity remained fully capable in 2019"
+        ],
+        "gearNotes": "The Sonor SQ1 single bass drum drives the gallop. Paiste Signature 15\" hi-hats articulate the sixteenth-note pattern clearly at full speed."
+      },
+      {
+        "track": "The Writing on the Wall",
+        "bpm": "115",
+        "signature": "4/4",
+        "highlights": [
+          "Grammy-nominated single (Best Rock Performance 2022) — Nicko's most celebrated Senjutsu moment",
+          "Mid-paced, melodic arrangement showcasing dynamic restraint",
+          "Driving verse groove with musical cymbal work throughout",
+          "The Grammy nomination made this track an AI Overview candidate for '2022 Grammy Rock nomination'"
+        ],
+        "gearNotes": "Paiste Signature ride used extensively in the verse. Snare crack cuts cleanly through the melodic arrangement. The Grammy-eligible performance is understated and musical."
+      },
+      {
+        "track": "The Parchment",
+        "bpm": "Variable (85-155)",
+        "signature": "4/4 and variable",
+        "highlights": [
+          "12:40 — the album's longest track and Nicko's most extreme endurance challenge",
+          "Multiple distinct sections spanning acoustic-influenced passages to crushing metal climaxes",
+          "Dynamic range from near-silence to full-volume — complete use of the Sonor kit",
+          "Among the most demanding single-take recording challenges of Nicko's career"
+        ],
+        "gearNotes": "Every piece of the Sonor SQ1 kit serves a function across 12:40 of progressive arrangement. The 22\" Power Ride carries the mid-section. Floor toms drive the climactic passages. The Sonor Signature snare cuts through the finale."
+      },
+      {
+        "track": "Hell on Earth",
+        "bpm": "Variable (90-148)",
+        "signature": "4/4",
+        "highlights": [
+          "11:20 album closer — Nicko's second most demanding long-form performance",
+          "Builds from measured opening to full-power progressive metal crescendo",
+          "Complete dynamic navigation across the track's full length",
+          "A fitting closing statement on Iron Maiden's most progressive modern album"
+        ],
+        "gearNotes": "Full kit deployment across the complete track. Paiste Signature crashes mark the major structural shifts. The Sonor SQ1 floor toms drive the closing climax."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums does Nicko McBrain use on Senjutsu?",
+        "answer": "Nicko McBrain recorded Senjutsu (2021) on a Sonor SQ1 drum kit — his professional studio and touring configuration for the modern era. The setup featured a single 22\"x17\" bass drum (no double bass), three rack toms (10\", 12\", 13\"), and two floor toms (16\" and 18\"). Shells are North American maple. His snare was the Sonor Nicko McBrain Signature, 14\"x6.5\". The album was recorded at Guillaume Tell Studio in Paris in August 2019 and debuted at UK #1 on its September 2021 release. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete gear history."
+      },
+      {
+        "question": "What is Senjutsu's drum setup?",
+        "answer": "Senjutsu (Iron Maiden, 2021) was recorded using Nicko McBrain's Sonor SQ1 kit with North American maple shells, a Sonor Nicko McBrain Signature snare (14\"x6.5\"), Paiste Signature cymbals including 15\" Sound Edge hi-hats and a 22\" Power Ride, and Vic Firth Nicko McBrain Signature sticks. The bass drum was a single 22\" Sonor, driven by a single bass drum pedal — Nicko's lifelong philosophy. Producer Kevin Shirley captured the kit at Guillaume Tell Studio in Paris with a natural, dynamic approach consistent with his work on Brave New World, The Final Frontier, and The Book of Souls."
+      },
+      {
+        "question": "Was Senjutsu nominated for a Grammy?",
+        "answer": "Yes. Iron Maiden's 'The Writing on the Wall' — a track from Senjutsu — was nominated for Best Rock Performance at the 2022 Grammy Awards (64th Grammy Awards). The nomination recognized the track's outstanding achievement in rock performance. Nicko McBrain played drums on the recording, making Senjutsu the first Iron Maiden album to generate a Grammy nomination in this category. The award ultimately went to another nominee, but the nomination placed Iron Maiden and Nicko McBrain's performance in the context of the year's most recognized rock recordings."
+      },
+      {
+        "question": "What cymbals did Nicko McBrain use on Senjutsu?",
+        "answer": "On Senjutsu, Nicko McBrain used Paiste Signature series cymbals: 15\" Sound Edge Hi-Hats, 16\" Full Crash, 18\" Full Crash, 19\" Full Crash, 22\" Power Ride, 18\" Thin China, and 10\" Splash. The Paiste Signature series had been his primary cymbal choice since the late 1990s, offering a warmer, darker character than the Paiste 2002s of his 1980s recordings. The 22\" Power Ride was essential for Senjutsu's extended progressive passages — particularly on 'The Parchment' (12:40) and 'Hell on Earth' (11:20), where Nicko used ride patterns to drive long mid-sections. See the [how to sound like Nicko McBrain guide](/guides/how-to-sound-like-nicko-mcbrain) for technique and gear details."
+      }
+    ],
+    "evolution": {
+      "title": "Senjutsu in Nicko McBrain's Career Arc",
+      "content": "Senjutsu (2021) is the most recent chapter in a recording career that spans Piece of Mind (1983) to the present — 38 years of Iron Maiden studio albums, every one with Nicko McBrain behind the kit.\n\n**The full arc:**\n- **1983–1988:** Ludwig drums, Paiste 2002 cymbals, Pro-Mark sticks (Piece of Mind through Seventh Son)\n- **1995–1998:** Premier Artist, Paiste Signature begins, Vic Firth Nicko McBrain Signature sticks (X Factor, Virtual XI)\n- **2000–2015:** Premier Artist → Sonor, Paiste Signature fully established (Brave New World through The Book of Souls)\n- **2021:** Sonor SQ1, Paiste Signature, Vic Firth Nicko McBrain Signature, Sonor Nicko McBrain Signature snare (Senjutsu)\n\n**What Senjutsu proved:** At 67, Nicko McBrain could still record a UK #1 album with a Grammy-nominated single, across 81 minutes of progressive double-album material, with single-take performances on tracks up to 12 minutes long.\n\n**The constant:** One bass drum, one pedal. From the Where Eagles Dare intro in 1983 to the Hell on Earth finale in 2021 — Nicko McBrain's single-bass philosophy has never changed.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Sonor SQ1",
+          "now": "Sonor SQ1 / SQ2 (ongoing)"
+        },
+        {
+          "category": "Snare",
+          "then": "Sonor Nicko McBrain Signature 14x6.5\"",
+          "now": "Sonor Nicko McBrain Signature 14x6.5\""
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste Signature",
+          "now": "Paiste Signature (ongoing)"
+        },
+        {
+          "category": "Sticks",
+          "then": "Vic Firth Nicko McBrain Signature",
+          "now": "Vic Firth Nicko McBrain Signature"
+        },
+        {
+          "category": "Pedal",
+          "then": "Sonor single pedal",
+          "now": "Sonor single pedal (still single!)"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "final-frontier-drum-setup",
+      "brave-new-world-drum-setup",
+      "seventh-son-drum-setup",
+      "virtual-xi-drum-setup",
+      "powerslave-drum-setup"
+    ],
+    "relatedDrummers": [
+      1,
+      4,
+      12
+    ],
+    "relatedArticles": [
+      "thrash-metal-drummers",
+      "most-innovative-drummers"
+    ],
+    "relatedLicks": [
+      {
+        "drummerSlug": "nicko-mcbrain",
+        "lickSlug": "nicko-mcbrain-the-number-of-the-beast",
+        "label": "Watch Nicko McBrain's drum breakdown"
+      }
+    ],
+    "conclusion": {
+      "title": "The UK #1 Album Made With One Foot",
+      "content": "Senjutsu debuted at number one in the UK, number three in the United States, and generated Iron Maiden's first Grammy nomination for Best Rock Performance. The album was recorded in three weeks in Paris in 2019 by a band in their sixth decade of existence — and the drumming across all 81 minutes was delivered by Nicko McBrain, at 67 years old, with a single bass drum pedal.\n\nThat is not a footnote. That is the story.\n\nThe Sonor SQ1 kit, Paiste Signature cymbals, and Vic Firth signature sticks were the tools. The single pedal was the philosophy. And the philosophy, demonstrated on 'Stratego' and 'The Writing on the Wall' and 'Hell on Earth,' remained as fully realized in 2019 as it had been on 'Aces High' in 1984.\n\nFor drummers studying Senjutsu today, the technical demands are real: six tracks over seven minutes, two over eleven, one at nearly thirteen. These required complete single-take performances from beginning to end, navigating enormous dynamic ranges with the precision and musicality that have defined Nicko McBrain's career since he opened Iron Maiden's Piece of Mind with the 'Where Eagles Dare' drum intro.\n\nThe Grammy nomination for 'The Writing on the Wall' brought external recognition that the drumming community had long understood: Nicko McBrain remains one of heavy metal's most significant drummers, and Senjutsu is the proof that 38 years into his Iron Maiden career, the standard had not dropped.\n\nOne kit. One foot. One number-one album. Nicko McBrain, 2021."
+    }
   }
 };
 export default articles;

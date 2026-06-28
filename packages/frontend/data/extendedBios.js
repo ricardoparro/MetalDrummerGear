@@ -2071,7 +2071,7 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
       { slug: 'another-animal', period: '2007-2008', role: 'Drummer, vocalist' }
     ],
     metaTitle: 'Shannon Larkin Drum Kit & Gear Setup — Godsmack Drummer | MetalForge',
-    metaDescription: 'Complete biography of Shannon Larkin, Godsmack\'s powerful drummer since 2002. Explore his journey from Ugly Kid Joe to becoming one of modern hard rock\'s most respected drummers.',
+    metaDescription: 'See what drum kit Shannon Larkin (Godsmack) plays — Pearl Reference Pure drum set, Pearl Reference brass snare, Sabian AAX cymbals, and Promark signature sticks. Complete gear guide.',
     ogImage: '/images/drummers/shannon-larkin.webp',
     sections: {
       overview: {

@@ -84,6 +84,7 @@ Without `RESEND_API_KEY`, subscriptions still work but no welcome email is sent.
 - [LLM citation check (L2)](docs/llm-citation-check.md) - Weekly auto-test for the "AI citations / week" sub-KPI
 - [GSC watch loop (L1)](docs/gsc-watch-loop.md) - Weekly Google organic verifier for the SEO Agent / Roadie pipeline
 - [Indexation health loop (L3)](docs/indexation-loop.md) - Weekly check on how many sitemap URLs Google actually indexes
+- [Structured-data validation loop](docs/structured-data-loop.md) - Weekly JSON-LD validator that asserts Google-required fields per `@type` (no API key)
 
 ---
 *Built for metalheads, by metalheads* 🤘

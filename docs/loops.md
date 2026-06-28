@@ -86,6 +86,7 @@ Agent reads on its next run.
 | **Health Check** | `health-check.yml` | `0 */3` | Every 3h liveness/health probe. |
 | **Verify YouTube (scan)** | `verify-youtube.yml` | daily `0 7` | Full scan for dead YouTube IDs already on `main`; files the umbrella `broken-video` issue. (Its PR-time half is a gate — see D.) |
 | **Check broken images** | `check-broken-images.yml` | Mon `30 6` | Weekly dead-image sweep. |
+| **Check structured data** | `check-structured-data.yml` | Mon `0 10` | Weekly JSON-LD validator: extracts live structured data and asserts Google-required fields per `@type` (e.g. `VideoObject.uploadDate`), catching rich-result gaps before GSC flags them. No API key. [`structured-data-loop.md`](structured-data-loop.md) |
 
 ---
 

@@ -1847,6 +1847,11 @@ function getMetaForPath(pathname) {
           name: lick.tutorial.title,
           description: lick.tutorial.description,
           thumbnailUrl: `https://i.ytimg.com/vi/${lick.tutorial.youtubeId}/hqdefault.jpg`,
+          // uploadDate is REQUIRED by Google for VideoObject; without it the page
+          // throws a critical "Missing field uploadDate" in Search Console. We
+          // don't have the tutorial's real YouTube upload date, so use the same
+          // stable placeholder as the primary performance video above.
+          uploadDate: '2024-01-01',
           contentUrl: `https://www.youtube.com/watch?v=${lick.tutorial.youtubeId}`,
           embedUrl: `https://www.youtube.com/embed/${lick.tutorial.youtubeId}`,
         }] : []),

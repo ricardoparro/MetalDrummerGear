@@ -82,6 +82,7 @@ Agent reads on its next run.
 
 | Loop | Workflow | Cadence (UTC) | Role |
 | --- | --- | --- | --- |
+| **Loop Watchdog** | `watchdog.yml` | `0 7,13,19` | External liveness check on the whole system. Alerts via **Telegram** (+ a single `ops` umbrella issue) on a failed/stale critical workflow, a Roadie 0-PR drought while `ai-fix` backlog is non-empty, or stale verifier snapshots. Quiet when healthy; weekly `✅` heartbeat on Mondays. Never fails the job on a detected problem. [`watchdog.md`](watchdog.md) |
 | **Daily Digest** | `daily-digest.yml` | `0 8,19` | Twice-daily summary (shipped PRs, CEO decisions, needs-attention) → `DIGEST.md` + history. |
 | **Health Check** | `health-check.yml` | `0 */3` | Every 3h liveness/health probe. |
 | **Verify YouTube (scan)** | `verify-youtube.yml` | daily `0 7` | Full scan for dead YouTube IDs already on `main`; files the umbrella `broken-video` issue. (Its PR-time half is a gate — see D.) |

@@ -79,6 +79,7 @@ Without `RESEND_API_KEY`, subscriptions still work but no welcome email is sent.
 ## Documentation
 
 - [Automation loops — system map](docs/loops.md) - Canonical index of every autonomous loop (production pipeline, L1/L2/L3 verifiers, monitoring, CI gates)
+- [Loop Watchdog](docs/watchdog.md) - Scheduled liveness check that alerts via Telegram (+ an `ops` umbrella issue) when a loop fails, goes stale, or Roadie stalls with 0 PRs
 - [Vercel Spend Management](docs/vercel-spend-management.md) - Cost controls and usage alerts setup
 - [Broken-image check](docs/broken-image-check.md) - Weekly crawler + umbrella issue model
 - [LLM citation check (L2)](docs/llm-citation-check.md) - Weekly auto-test for the "AI citations / week" sub-KPI

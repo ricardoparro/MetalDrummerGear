@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/igor-cavalera"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-06-29"
 ---
 
 # Igor Cavalera — Drum Kit & Gear Setup

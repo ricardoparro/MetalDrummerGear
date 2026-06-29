@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/chris-adler"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-06-29"
 ---
 
 # Chris Adler — Drum Kit & Gear Setup

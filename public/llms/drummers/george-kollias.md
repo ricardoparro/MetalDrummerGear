@@ -6,7 +6,7 @@ country: "Greece"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/george-kollias"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-06-29"
 ---
 
 # George Kollias — Drum Kit & Gear Setup

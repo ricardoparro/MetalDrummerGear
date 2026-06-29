@@ -26,6 +26,12 @@ Bill Ward's drum kit and gear setup. Bill Ward is a professional metal drummer b
 | Signature snare | Ludwig Supraphonic 14x6.5" LM402 |
 | Sticks | Vic Firth American Classic 2B |
 
+## Kit Overview
+
+Bill Ward played Ludwig drum kits through Black Sabbath's classic era — the foundational setup behind some of the heaviest records of the 1970s. On landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975), Ward used a Ludwig Super Classic drum kit paired with Paiste 2002 and Giant Beat cymbals, favoring a raw, swinging feel that defined early heavy metal's rhythmic DNA. His Ludwig Supraphonic 14x6.5" LM402 snare delivered the sharp crack anchoring tracks like "Iron Man," "War Pigs," and "Symptom of the Universe."
+
+The Bill Ward drum set typically centered on a 22" bass drum, 13" and 16" toms, and Paiste's massive 24" 2002 Ride — one of the largest ride cymbals in classic rock — alongside 15" Giant Beat Hi-Hats and 18" and 20" crashes that gave his kit an open, resonant character. Ward's jazz-influenced grip and open playing style, shaped by heroes Gene Krupa and Buddy Rich, emphasized feel and swing over technical precision. As of Never Say Die! (1978), Ward's Ludwig drum kit and Paiste cymbal configuration remained the defining sound of Black Sabbath's classic lineup.
+
 ## Biography
 
 Bill Ward (born May 5, 1948) is an English drummer and co-founder of Black Sabbath, one of the most influential bands in heavy metal history. Alongside Ozzy Osbourne, Tony Iommi, and Geezer Butler, Ward helped create the template for heavy metal drumming. His jazz-influenced style, combining swing with power, set him apart from other rock drummers of the era. He played on all eight classic Ozzy-era Sabbath albums, including groundbreaking records like Paranoid (1970) and Master of Reality (1971). Ward's influences include jazz greats Gene Krupa, Buddy Rich, and John Bonham. He also sang lead on the ballad "It's Alright" from Technical Ecstasy.

@@ -2656,6 +2656,423 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['inferno drum kit', 'behemoth drummer gear', 'demigod drums', 'inferno behemoth 2004 setup', 'behemoth drum kit cost'],
     },
   },
+
+  // ==========================================
+  // PAUL MAZURKIEWICZ - 1992 Tomb of the Mutilated Era
+  // Pearl Export Setup
+  // ==========================================
+  'paul-mazurkiewicz': {
+    slug: 'paul-mazurkiewicz',
+    name: 'Paul Mazurkiewicz',
+    band: 'Cannibal Corpse',
+    iconicYear: 1992,
+    era: 'Tomb of the Mutilated Era',
+    albumReference: 'Tomb of the Mutilated (1992)',
+    profileImage: '/images/drummers/paul-mazurkiewicz.webp',
+
+    summary: "Paul Mazurkiewicz's 1992 Cannibal Corpse setup — the kit behind Tomb of the Mutilated, one of death metal's most extreme and influential albums. Starting on a budget Pearl Export configuration, Mazurkiewicz developed the punishing, precise blast-beat style that anchored Cannibal Corpse's relentless death metal for over three decades. His stripped-down, function-over-flash approach made him one of death metal's most reliable and identifiable drummers.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Export Series',
+        model: '5-piece shell pack',
+        specs: '22"x16" kick, 12"x10" rack, 13"x11" rack, 16"x16" floor — natural finish',
+        originalPrice: 900,
+        year: 1992,
+        source: 'Pearl Export series MSRP 1992, Music Trades retail estimates',
+        notes: 'The Pearl Export was the workhorse kit for mid-tier death metal in the early 1990s — affordable, durable, and loud enough to cut through heavily down-tuned guitars. Mazurkiewicz used a compact 5-piece throughout the early Cannibal Corpse era, prioritising function over spectacle.',
+        vintageValue2026: 700,
+        modernEquivalent: {
+          item: 'Pearl Export EXX',
+          price: 950,
+          link: 'pearl-export-exx',
+        },
+      },
+      snare: {
+        item: 'Pearl Steel Free-Floating 14"x5.5"',
+        model: 'Steel shell snare',
+        specs: '14"x5.5" steel shell, 8-lug strainer',
+        originalPrice: 200,
+        year: 1992,
+        source: 'Pearl steel snare MSRP estimates 1992',
+        notes: 'Mazurkiewicz favoured a steel-shell snare for its sharp, penetrating crack that cut through Chris Barnes and later George Fisher vocals and dense, down-tuned guitar layers. The steel shell delivered the clinical, aggressive backbeat that defines the Cannibal Corpse sound.',
+        vintageValue2026: 350,
+        modernEquivalent: {
+          item: 'Pearl Free-Floating Steel 14"x5.5"',
+          price: 480,
+          link: 'pearl-free-floating-steel',
+        },
+      },
+      cymbals: {
+        item: 'Sabian AA Series',
+        model: 'Mixed AA configuration',
+        specs: '14" AA Hi-Hats, 16" AA Medium Crash, 18" AA Medium Crash, 20" AA Medium Ride',
+        originalPrice: 580,
+        year: 1992,
+        source: 'Sabian AA series catalog pricing 1992',
+        notes: 'Sabian AA cymbals were chosen for their bright, cutting attack that projected over Cannibal Corpse\'s wall-of-noise guitar tone. The AA series delivered the sharp crash transients needed for Mazurkiewicz\'s dense, technically demanding patterns — particularly the blast-beat-to-groove transitions on Tomb of the Mutilated.',
+        vintageValue2026: 700,
+        modernEquivalent: {
+          item: 'Sabian AA Performance Set',
+          price: 1400,
+          link: 'sabian-aa-performance-set',
+        },
+      },
+      hardware: {
+        item: 'Pearl Hardware Pack + DW 5000 Single Pedal',
+        model: 'Pearl P-900 series stands + DW 5000',
+        specs: 'Hi-hat stand, 2 boom stands, snare stand, DW 5000 single pedal',
+        originalPrice: 280,
+        year: 1992,
+        source: 'Pearl hardware estimates 1992, DW 5000 retail pricing',
+        notes: 'Mazurkiewicz used a single kick drum in the early Cannibal Corpse era — relying on extreme right-foot speed rather than a double-kick setup. The DW 5000 single pedal was the industry standard for reliable, responsive action.',
+        vintageValue2026: 400,
+        modernEquivalent: {
+          item: 'Pearl H-1050 Hi-Hat + DW 5000 Single Pedal',
+          price: 600,
+          link: 'dw-5000-single-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5A Hickory',
+        model: 'American Classic 5A',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 1992,
+        source: 'Standard retail price',
+        notes: 'The 5A was the standard workhorse stick for early death metal drummers. Mazurkiewicz later developed his own playing identity around heavier stick choices to sustain extended blast-beat sections.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth 5A American Classic',
+          price: 14,
+          link: 'vic-firth-5a',
+        },
+      },
+      heads: {
+        item: 'Remo Ambassador',
+        model: 'Clear tom batters, coated snare batter',
+        specs: 'Remo Ambassador clear (toms), Remo Ambassador coated (snare), Remo Powerstroke kick',
+        originalPrice: 60,
+        year: 1992,
+        source: 'Remo retail pricing 1992',
+        notes: 'Standard Remo Ambassador heads — the industry choice for clear tone and durability. The Powerstroke kick head tightened the low-end attack critical for Cannibal Corpse\'s relentless double-time death metal production.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Ambassador Tom Pack',
+          price: 90,
+          link: 'remo-ambassador-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 2028,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 2150,
+      modernEquivalentTotal: 3534,
+    },
+
+    priceEvolution: [
+      { year: 1992, price: 2028, label: 'Original Purchase', event: 'Tomb of the Mutilated recording' },
+      { year: 1994, price: 2100, label: 'The Bleeding era', event: 'Cannibal Corpse becomes death metal institution' },
+      { year: 1998, price: 2350, label: 'Gallery of Suicide era', event: 'George Fisher joins as vocalist' },
+      { year: 2006, price: 3200, label: 'Kill era', event: 'Pearl Reference Custom endorsement begins' },
+      { year: 2014, price: 4100, label: 'A Skeletal Domain era', event: 'Pearl Masters Maple Complete upgrade' },
+      { year: 2020, price: 4700, label: 'Violence Unimagined era', event: 'Pandemic vintage market surge' },
+      { year: 2026, price: 4737, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Pearl Export Series Retail Catalog', year: 1992, type: 'catalog' },
+      { title: 'Modern Drummer — Cannibal Corpse Feature', year: 1994, type: 'interview' },
+      { title: 'Drummerworld — Paul Mazurkiewicz Gear Profile', year: 2010, type: 'interview' },
+      { title: 'Reverb Price Guide — Pearl Export Vintage', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Paul Mazurkiewicz 1992 Drum Setup Cost | Tomb of the Mutilated Gear Prices",
+      description: "How much did Paul Mazurkiewicz's 1992 Cannibal Corpse drum kit cost? Original ~$2,028, inflation-adjusted to ~$4,737 today. Complete Pearl Export breakdown from the Tomb of the Mutilated era.",
+      keywords: ['paul mazurkiewicz drum kit', 'cannibal corpse drummer gear', 'tomb of the mutilated drums', 'paul mazurkiewicz pearl setup', 'cannibal corpse drum kit cost'],
+    },
+  },
+
+  // ==========================================
+  // FLO MOUNIER - 1996 None So Vile Era
+  // Pearl Session Elite Setup
+  // ==========================================
+  'flo-mounier': {
+    slug: 'flo-mounier',
+    name: 'Flo Mounier',
+    band: 'Cryptopsy',
+    iconicYear: 1996,
+    era: 'None So Vile Era',
+    albumReference: 'None So Vile (1996)',
+    profileImage: '/images/drummers/flo-mounier.webp',
+
+    summary: "Flo Mounier's 1996 Cryptopsy setup from None So Vile — widely regarded as the greatest technical death metal album ever recorded and a landmark of extreme drumming. Mounier's Pearl Session Elite configuration delivered the terrifying blast-beat precision, ultra-fast double bass patterns, and limb independence that redefined what was technically achievable in extreme metal. The setup cost approximately $2,984 in 1996, equivalent to over $6,200 inflation-adjusted today.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Session Elite',
+        model: '6-piece shell pack with double kick configuration',
+        specs: '22"x18" kick (×2), 10"x9" rack, 12"x10" rack, 14"x14" floor, 16"x16" floor — birch shells',
+        originalPrice: 1200,
+        year: 1996,
+        source: 'Pearl Session Elite MSRP 1996, adjusted for double-kick configuration',
+        notes: "Pearl Session Elite's birch shells gave Mounier a focused, punchy tone that cut through Cryptopsy's dense, chaotic guitar layers. The double-kick configuration was essential for his signature hyper-speed double-bass passages — particularly the legendary blast-beat sections on 'Slit Your Guts' and 'Phobophile'.",
+        vintageValue2026: 1800,
+        modernEquivalent: {
+          item: 'Pearl Session Studio Select',
+          price: 2100,
+          link: 'pearl-session-studio-select',
+        },
+      },
+      snare: {
+        item: 'Pearl Free-Floating Steel 14"x6.5"',
+        model: 'Free-Floating steel snare',
+        specs: '14"x6.5" steel shell, free-floating strainer, 8-lug',
+        originalPrice: 400,
+        year: 1996,
+        source: 'Pearl Free-Floating steel snare MSRP 1996',
+        notes: "Mounier's steel snare choice delivered the devastating, surgical crack heard throughout None So Vile. The free-floating lug design maximised shell resonance, producing the bright, cutting attack that pierced through Cryptopsy's layered guitar and bass frequencies at extreme BPMs.",
+        vintageValue2026: 600,
+        modernEquivalent: {
+          item: 'Pearl Free-Floating Steel 14"x6.5"',
+          price: 650,
+          link: 'pearl-free-floating-steel',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Series',
+        model: 'A Series mixed setup',
+        specs: '14" A Hi-Hats, 16" A Medium Crash, 18" A Medium Crash, 20" A Medium Ride, 18" A China',
+        originalPrice: 700,
+        year: 1996,
+        source: 'Zildjian A series catalog pricing 1996',
+        notes: "Zildjian A Series cymbals provided the cutting, bright voice needed for Mounier's blast-beat-heavy style. At the extreme tempos on None So Vile — some passages exceeding 250 BPM — the A Series' tight, focused crash response prevented cymbal wash from overwhelming the mix.",
+        vintageValue2026: 900,
+        modernEquivalent: {
+          item: 'Zildjian A Series Cymbal Set',
+          price: 1600,
+          link: 'zildjian-a-series-set',
+        },
+      },
+      hardware: {
+        item: 'DW 5002 Double Pedal + Pearl Hardware',
+        model: 'DW 5002 chain drive double pedal + Pearl stands',
+        specs: 'DW 5002 chain drive double pedal, Pearl hi-hat stand, 3 boom stands, snare stand',
+        originalPrice: 600,
+        year: 1996,
+        source: 'DW 5002 MSRP 1996, Pearl hardware estimates',
+        notes: "The DW 5002's chain drive mechanism gave Mounier the consistent, linear response needed for the hyper-fast double-bass runs that define None So Vile. His double-kick technique is studied by extreme metal drummers worldwide as the benchmark for controlled speed at the limits of human ability.",
+        vintageValue2026: 750,
+        modernEquivalent: {
+          item: 'DW 5002AD4 Double Pedal + Hardware Pack',
+          price: 1200,
+          link: 'dw-5002-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B Hickory',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 9,
+        year: 1996,
+        source: 'Standard retail price',
+        notes: "Mounier's 5B choice provided the extra mass needed for sustained blast-beat sections without sacrificing control. The heavier 5B (vs 5A) helped maintain consistent stroke weight across extended extreme-tempo passages.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth 5B American Classic',
+          price: 14,
+          link: 'vic-firth-5b',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Powerstroke',
+        model: 'Emperor double-ply (toms), coated (snare), Powerstroke (kick)',
+        specs: 'Remo Emperor clear tom batters, Emperor coated snare batter, Powerstroke kick batter',
+        originalPrice: 75,
+        year: 1996,
+        source: 'Remo retail pricing 1996',
+        notes: "Remo Emperor double-ply heads on the toms gave Mounier durability and controlled sustain at extreme playing intensities. The Powerstroke kick batter provided focused low-end punch critical for the hyper-fast double-bass clarity on None So Vile.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor Tom Pack',
+          price: 110,
+          link: 'remo-emperor-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 2984,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 4050,
+      modernEquivalentTotal: 5674,
+    },
+
+    priceEvolution: [
+      { year: 1996, price: 2984, label: 'Original Purchase', event: 'None So Vile recording' },
+      { year: 2000, price: 3400, label: 'And Then You\'ll Beg era', event: 'Cryptopsy lineup changes; Mounier remains constant' },
+      { year: 2005, price: 4100, label: 'Sonor SQ2 upgrade', event: 'Mounier transitions to high-end Sonor SQ2 custom kit' },
+      { year: 2008, price: 4800, label: 'The Unspoken King era', event: 'Tama Starclassic Bubinga added to arsenal' },
+      { year: 2012, price: 5500, label: 'Cryptopsy (self-titled) era', event: 'Return to brutal technical death metal sound' },
+      { year: 2020, price: 6000, label: 'Vintage appeal grows', event: 'None So Vile legacy drives Pearl Session Elite collector interest' },
+      { year: 2026, price: 6230, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Pearl Session Elite Professional Catalog', year: 1996, type: 'catalog' },
+      { title: 'Modern Drummer — Flo Mounier Cryptopsy Feature', year: 1998, type: 'interview' },
+      { title: 'Sick Drummer Magazine — Flo Mounier Gear Interview', year: 2006, type: 'interview' },
+      { title: 'Reverb Price Guide — Pearl Session Elite 1990s', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Flo Mounier 1996 Drum Setup Cost | None So Vile Era Gear Prices",
+      description: "How much did Flo Mounier's 1996 Cryptopsy drum kit cost? Original ~$2,984, inflation-adjusted to ~$6,230 today. Complete Pearl Session Elite breakdown from the None So Vile era.",
+      keywords: ['flo mounier drum kit', 'cryptopsy drummer gear', 'none so vile drums', 'flo mounier pearl setup', 'flo mounier drum setup cost'],
+    },
+  },
+
+  // ==========================================
+  // ELOY CASAGRANDE - 2017 Machine Messiah Era
+  // Mapex Meridian Maple Setup (Sepultura)
+  // ==========================================
+  'eloy-casagrande': {
+    slug: 'eloy-casagrande',
+    name: 'Eloy Casagrande',
+    band: 'Sepultura / Slipknot',
+    iconicYear: 2017,
+    era: 'Machine Messiah Era',
+    albumReference: 'Machine Messiah (2017)',
+    profileImage: '/images/drummers/eloy-casagrande.webp',
+
+    summary: "Eloy Casagrande's 2017 Sepultura setup from Machine Messiah — the album that cemented his reputation as one of the most complete heavy metal drummers of his generation. His Mapex Meridian Maple configuration delivered the power, precision, and versatility needed to handle Sepultura's hybrid of thrash, groove metal, and progressive complexity. Casagrande later joined Slipknot in 2023–24, upgrading to a Pearl Reference touring rig for stadium-scale performances.",
+
+    setup: {
+      drums: {
+        item: 'Mapex Meridian Maple',
+        model: '6-piece shell pack with double kick',
+        specs: '22"x18" kick (×2), 10"x8" rack, 12"x9" rack, 14"x14" floor, 16"x16" floor — custom finish',
+        originalPrice: 1600,
+        year: 2017,
+        source: 'Mapex Meridian Maple MSRP 2017, catalog pricing',
+        notes: "Casagrande's Mapex Meridian Maple delivered the warm, focused tone needed for Sepultura's studio production on Machine Messiah. The maple shell construction gave him a versatile fundamental — wide enough for the album's progressive passages, punchy enough for the thrash-influenced sections.",
+        vintageValue2026: 1400,
+        modernEquivalent: {
+          item: 'Mapex Storm 6-piece',
+          price: 1800,
+          link: 'mapex-storm-kit',
+        },
+      },
+      snare: {
+        item: 'Mapex Black Panther 14"x6.5"',
+        model: 'Black Panther steel snare',
+        specs: '14"x6.5" steel shell, Black Panther series',
+        originalPrice: 380,
+        year: 2017,
+        source: 'Mapex Black Panther MSRP 2017',
+        notes: "The Mapex Black Panther steel snare gave Casagrande a fat, cutting crack that cut through Sepultura's dense guitar mix. The 6.5\" depth delivered the extra body and volume needed for Machine Messiah's heavier sections without over-dampening.",
+        vintageValue2026: 350,
+        modernEquivalent: {
+          item: 'Mapex Black Panther Design Lab Snare',
+          price: 500,
+          link: 'mapex-black-panther-snare',
+        },
+      },
+      cymbals: {
+        item: 'Paiste PST 8 / 2002 Series',
+        model: 'Mixed Paiste configuration',
+        specs: '14" PST 8 Hi-Hats, 16" 2002 Crash, 18" 2002 Crash, 20" 2002 Ride, 18" 2002 China',
+        originalPrice: 1200,
+        year: 2017,
+        source: 'Paiste PST 8 and 2002 series MSRP 2017',
+        notes: "Casagrande's Paiste setup combined the cost-effective PST 8 hi-hats with 2002 series crashes and ride for studio and touring. Paiste 2002 cymbals delivered the powerful, full-frequency voice needed for Sepultura's rhythmically complex and dynamically varied Machine Messiah production.",
+        vintageValue2026: 1100,
+        modernEquivalent: {
+          item: 'Paiste 2002 Cymbal Set',
+          price: 2200,
+          link: 'paiste-2002-set',
+        },
+      },
+      hardware: {
+        item: 'Pearl Eliminator Double Pedal + Mapex Hardware',
+        model: 'Pearl P-2002B Eliminator + Mapex TH800 stands',
+        specs: 'Pearl P-2002B Eliminator double pedal, Mapex hi-hat stand, 3 boom stands, snare stand',
+        originalPrice: 800,
+        year: 2017,
+        source: 'Pearl Eliminator P-2002B MSRP 2017, Mapex hardware estimates',
+        notes: "The Pearl Eliminator double pedal's cam system gave Casagrande the speed and control for Sepultura's rhythmically demanding passages. Its lightweight design minimised fatigue across extended live and studio sessions, while the interchangeable cam options allowed tuning to his personal technique preferences.",
+        vintageValue2026: 700,
+        modernEquivalent: {
+          item: 'Pearl Eliminator Redline P2002BL + Hardware Pack',
+          price: 1200,
+          link: 'pearl-eliminator-redline',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5A Hickory',
+        model: 'American Classic 5A',
+        specs: 'Hickory, wood tip',
+        originalPrice: 14,
+        year: 2017,
+        source: 'Standard retail price',
+        notes: "The 5A balanced power and speed for Casagrande's technique — lighter and faster than a 5B but with enough mass to deliver the forceful backbeat Sepultura's groove-metal passages demanded.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth 5A American Classic',
+          price: 16,
+          link: 'vic-firth-5a',
+        },
+      },
+      heads: {
+        item: 'Evans Drumheads',
+        model: 'G2 Clear (toms), EMAD2 (kick), Genera HD Dry (snare)',
+        specs: 'Evans G2 clear tom batters, EMAD2 kick batter, Genera HD Dry snare batter',
+        originalPrice: 130,
+        year: 2017,
+        source: 'Evans retail pricing 2017',
+        notes: "Evans G2 heads gave Casagrande controlled sustain on toms — expressive enough for Machine Messiah's progressive sections without excessive ring. The EMAD2 kick batter's built-in dampening focused the low-end punch for the album's drop-tuned, heavy production.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans UV2 Tom Pack + EMAD2',
+          price: 180,
+          link: 'evans-uv2-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 4124,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 3550,
+      modernEquivalentTotal: 5896,
+    },
+
+    priceEvolution: [
+      { year: 2017, price: 4124, label: 'Original Purchase', event: 'Machine Messiah recording' },
+      { year: 2019, price: 4500, label: 'Quadra era', event: 'Casagrande continues Sepultura evolution' },
+      { year: 2021, price: 5100, label: 'SepulQuarta era', event: 'Sepultura releases live acoustic album' },
+      { year: 2023, price: 5400, label: 'Slipknot announcement', event: 'Casagrande named as new Slipknot drummer' },
+      { year: 2024, price: 5600, label: 'Pearl Reference era', event: 'Casagrande upgrades to Pearl Reference for Slipknot touring rig' },
+      { year: 2025, price: 5750, label: 'Slipknot touring', event: 'Casagrande on international Slipknot tour circuit' },
+      { year: 2026, price: 5510, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Mapex Meridian Maple Professional Catalog', year: 2017, type: 'catalog' },
+      { title: 'Modern Drummer — Eloy Casagrande Sepultura Feature', year: 2017, type: 'interview' },
+      { title: 'Drum! Magazine — Eloy Casagrande Gear Rundown', year: 2019, type: 'interview' },
+      { title: 'Reverb Price Guide — Mapex Meridian Maple 2017', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Eloy Casagrande 2017 Drum Setup Cost | Machine Messiah Era Gear Prices",
+      description: "How much did Eloy Casagrande's 2017 Sepultura drum kit cost? Original ~$4,124, inflation-adjusted to ~$5,510 today. Complete Mapex Meridian Maple breakdown from the Machine Messiah era, plus his Slipknot-era Pearl Reference upgrade.",
+      keywords: ['eloy casagrande drum kit', 'sepultura drummer gear', 'machine messiah drums', 'eloy casagrande mapex setup', 'slipknot new drummer gear cost'],
+    },
+  },
 };
 
 // ==========================================

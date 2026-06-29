@@ -435,6 +435,7 @@ const drummers = [
       hardware: 'Sonor Giant Step Double Pedal, Sonor Drummer Throne',
       sticks: 'Vic Firth Tomas Haake Signature'
     },
+    kitOverview: 'Tomas Haake plays a Sonor SQ2 Heavy Beech drum kit, a massive configuration purpose-built for Meshuggah\'s polyrhythmic compositions. The Sonor SQ2 Heavy Beech delivers the focused, resonant tone essential for navigating the complex rhythmic landscapes that define Haake as one of progressive metal\'s most influential drummers.\n\nThe cornerstone of the Tomas Haake drum set is his Sonor Tomas Haake Signature snare drum — a 14×6.25" model engineered for precise, cutting attack that drives through Meshuggah\'s densely layered guitar arrangements. Meinl Byzance Series cymbals complete the drum kit: 15" Dark Hi-Hats for dry, controlled articulation; 18" and 19" Dark Crashes for explosive dynamic accents; a 21" Transition Ride for rhythmic clarity; and an 18" Dark China for aggressive punctuation. A Sonor Giant Step double pedal drives the precise foot patterns central to Meshuggah\'s polyrhythmic intensity. Vic Firth Tomas Haake Signature sticks complete a drum set engineered for the rhythmic demands that spawned the entire djent subgenre.',
     photos: [
       'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg'
     ],

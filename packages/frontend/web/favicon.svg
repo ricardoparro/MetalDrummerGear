@@ -1,72 +1,80 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
   <!--
     MetalForge Favicon — Crossed Drumsticks + Snare Rim + Forge-Red Spark
+    Issue #2923 — v2 (refined proportions)
 
     5 Concepts evaluated:
 
-    A (rejected): Metal "M" lettermark with drumstick serifs
-      – Generic at any size; zero immediate drumming association at 16×16
-      – Lettermarks need brand recognition before they work — we don't have that yet
+    A (rejected): Forge Anvil + Drumstick
+      – Anvil silhouette + single diagonal stick: two unrelated shapes at 16×16
+      – Anvil collapses to an unlabelled trapezoid blob; "drumming" meaning lost
+      – Single stick reads as an arrow or pointer, not a drumming reference
 
-    B (rejected): Single vertical drumstick, angled
-      – Reads as an arrow or pointer at 16×16; loses "drumming" meaning entirely
-      – A lone stick has no visual anchor to rhythm or percussion
+    B (rejected): Top-view Snare Drum (concentric rings only)
+      – Pure circles read as vinyl / CD / bullseye at small sizes
+      – Zero kinetic energy; could represent any music genre or even a loading spinner
+      – No forge-metal brand connection whatsoever
 
-    C (rejected): Concentric snare-drum rings (top view, no sticks)
-      – Reads as CD / vinyl / bullseye at small sizes
-      – No metal energy; could belong to any music genre
+    C (rejected): Metal "M" lettermark with drumstick serifs
+      – Lettermarks only work once the brand has recognition — MetalForge isn't there yet
+      – At 16×16 the serifs disappear and leave a plain M icon indistinct from
+        any other site whose name begins with M
 
-    D (rejected): Drumstick striking a cymbal from the side
-      – Requires two distinct shapes with spatial relationship — lost at 16×16
-      – The cymbal arc and stick angle blend into noise at tiny resolutions
+    D (rejected): Single drumstick striking down with forge-spark burst
+      – One stick has no visual anchor to rhythm or the paired-sticks iconography
+      – Impact burst at tip vanishes at 16×16; the mark becomes a plain diagonal line
 
     E (CHOSEN): Snare rim ring + full-canvas crossed drumsticks X + forge-red centre spark
-      – Silver ring reads instantly as a drum bezel at 16, 32, 48, and 512px
-      – Bold X extends corner-to-corner: maximum silhouette impact at tiny sizes
-      – Sticks extend beyond the drum — classic "crossed tools" trophy motif
-      – Forge-red dot anchors the crossing and carries the MetalForge brand accent
-      – Three high-contrast colour tiers (near-black / silver / forge-red) all
-        survive at 16×16 px with zero detail loss
+      – Bold corner-to-corner X: maximum silhouette impact at 16, 32, 48 and 512 px
+      – Silver ring reads instantly as a drum bezel at every size
+      – Sticks extend beyond the drum — "crossed tools / trophy" motif instantly
+        associated with percussion and drumming culture
+      – Forge-red dot at the crossing carries the MetalForge brand accent colour
+        and suggests the spark of a strike hitting metal
+      – Only three colour tiers (near-black / silver / forge-red); all survive at
+        16×16 px with zero detail loss
       – Full-square viewport fill prevents white browser-corner bleed
+      – v2 refinements: slimmer rim (stroke-width 2.5 vs 5) for more elegant
+        proportions; sticks trimmed to stroke-width 3 for visual balance;
+        head fill lightened slightly (#111) to improve interior legibility
 
-    Palette:
-      Background:  #0a0a0a  (near-black — matches site dark theme)
-      Rim:         #c8c8c8  (bright silver — drum hardware)
-      Head:        #0f0f0f  (deep charcoal — batter-head surface)
-      Sticks:      #d4d4d4  (light silver — high contrast against dark surfaces)
-      Accent:      #dc2626  (MetalForge forge-red — single brand colour)
+    Palette
+      Background  #0a0a0a  (near-black — matches site dark theme)
+      Rim         #c0c0c0  (clean silver — drum hardware)
+      Head        #111111  (deep charcoal — batter-head surface, distinct from bg)
+      Sticks      #d8d8d8  (light silver — high contrast on both dark surfaces)
+      Accent      #dc2626  (MetalForge forge-red — single brand accent colour)
   -->
 
   <defs>
-    <clipPath id="mf-head">
-      <circle cx="16" cy="16" r="10.5"/>
+    <clipPath id="mf-clip">
+      <circle cx="16" cy="16" r="10.75"/>
     </clipPath>
   </defs>
 
-  <!-- Background: full-square fill so corners are never browser-default white -->
+  <!-- Background: full-square fill so browser corners are never white -->
   <rect width="32" height="32" fill="#0a0a0a"/>
 
-  <!-- Crossed drumsticks: full corner-to-corner X for maximum bold silhouette -->
-  <!-- These show against the dark background outside the drum rim -->
-  <line x1="2"  y1="2"  x2="30" y2="30"
-        stroke="#d4d4d4" stroke-width="3.5" stroke-linecap="round"/>
-  <line x1="30" y1="2"  x2="2"  y2="30"
-        stroke="#d4d4d4" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Drumsticks: corner-to-corner X for maximum bold silhouette at tiny sizes -->
+  <line x1="1.5" y1="1.5" x2="30.5" y2="30.5"
+        stroke="#d8d8d8" stroke-width="3" stroke-linecap="round"/>
+  <line x1="30.5" y1="1.5" x2="1.5" y2="30.5"
+        stroke="#d8d8d8" stroke-width="3" stroke-linecap="round"/>
 
-  <!-- Drum rim: bold silver ring — drawn on top to unify the composition -->
-  <circle cx="16" cy="16" r="13" fill="none" stroke="#c8c8c8" stroke-width="5"/>
+  <!-- Snare rim: slim silver ring — tight crop on the sticks below it -->
+  <circle cx="16" cy="16" r="12" fill="none" stroke="#c0c0c0" stroke-width="2.5"/>
 
-  <!-- Drum batter head: dark charcoal surface inside the rim -->
-  <circle cx="16" cy="16" r="10.5" fill="#0f0f0f"/>
+  <!-- Drum batter head: charcoal surface inside the rim -->
+  <circle cx="16" cy="16" r="10.75" fill="#111111"/>
 
-  <!-- Sticks redrawn on head — clipped to head circle for high contrast on dark -->
-  <g clip-path="url(#mf-head)">
-    <line x1="2"  y1="2"  x2="30" y2="30"
-          stroke="#d4d4d4" stroke-width="3.5" stroke-linecap="round"/>
-    <line x1="30" y1="2"  x2="2"  y2="30"
-          stroke="#d4d4d4" stroke-width="3.5" stroke-linecap="round"/>
+  <!-- Sticks redrawn over head interior — brighter silver on dark = crisp contrast -->
+  <g clip-path="url(#mf-clip)">
+    <line x1="1.5" y1="1.5" x2="30.5" y2="30.5"
+          stroke="#e4e4e4" stroke-width="3" stroke-linecap="round"/>
+    <line x1="30.5" y1="1.5" x2="1.5" y2="30.5"
+          stroke="#e4e4e4" stroke-width="3" stroke-linecap="round"/>
   </g>
 
-  <!-- Forge-red spark: brand accent at the stick-crossing point -->
+  <!-- Forge-red spark: brand accent at stick-crossing — suggests a strike on metal -->
   <circle cx="16" cy="16" r="4" fill="#dc2626"/>
 </svg>

@@ -5,6 +5,29 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-29 00:43 UTC*
 
 ---
+## 2026-06-29 13:00 UTC — 7 proposals rated, 1 promote (#3210 Kit Overview batch 7) (37)
+
+### Context (≤3 lines)
+Mid-day pulse. Backlog 36 (post-morning). 7 new seo-proposals filed since 00:57 UTC (#3207–#3213) — not triaged in morning run. No new PRs merged since 07:00 UTC; no zombie sweep needed. Backlog stays in sparingly band (25-44).
+
+### Actions taken
+- **Promoted (1)**: #3210 (5★ — Kit Overview prose batch 7: Inferno + Matt Greiner + Nicko McBrain; auto-5★ verified pattern from learned-patterns.md; Matt Greiner top GSC signal: pos 6.2 / 12 impr / 4 clicks; Inferno 12 impr / 1 click) — backlog 36→37
+- **Rated HOLD (6)**: #3207 (CC Kill+Evisceration Plague 4★), #3208 (CC Vile 4★), #3209 (KoRn Requiem 4★ — arc closed but Ray Luzier no GSC pull), #3211 (Evo batch 18 Gavin Harrison+Scott Travis+Charlie Benante 3★), #3212 (Top-10 batch 26 metalcore/nwoahm/brutal-death 4★ — good pattern but backlog 37), #3213 (Gear price history batch 28 Blake Richardson+Art Cruz+Derek Roddy 3★)
+
+### State delta
+- **Backlog: 36→37** (1 promote, no zombies)
+- **Kit Overview prose pipeline**: batch 7 (#3210) now queued — batches 4/5/6 (#3140/#3188/#3206) still in flight; pattern extending well
+- **No GSC/LLM/L3 fires**: gsc-watch, indexation-watch, llm-citations all unchanged
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ Proposals: 7/7 rated (1 promoted 5★, 6 held). ✅ L1/L2/L3: no new escalations needed (fires handled in morning run). ✅ Decisions logged.
+
+### Next Run (2026-06-29 19:00 UTC)
+1. **Zombie sweep** — check for Ralph PRs merged since 07:00 UTC.
+2. **Backlog gate** — if <25 after sweeps, promote priority holds: #3183 (Bill Ward Evo) → #3187 (Garstka/Halpern gear price) → #3212 (Top-10 batch 26).
+3. **Kit Overview batch 4+5+6 status** (#3140/#3188/#3206) — confirm merge in learned-patterns.md when shipped.
+
+---
 ## 2026-06-29 06:57 UTC — 10 zombies swept, 1 promote (#3188), 14 proposals rated, 1 L2 ai-fix (#3206) filed (36)
 
 ### Context (≤3 lines)

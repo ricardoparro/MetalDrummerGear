@@ -34,6 +34,12 @@ Abraham "Abe" Cunningham (born July 27, 1973, in Sacramento, California) is an A
 
 Cunningham's playing is characterized by creative, unconventional patterns that serve the song's emotional arc rather than technical showmanship. His ability to seamlessly transition between crushing heaviness and ethereal delicacy has made him one of the most distinctive and influential drummers in alternative metal.
 
+## Kit Overview
+
+Abe Cunningham plays an SJC Custom drum kit with Zildjian K Custom and A Custom cymbals — the bespoke drum set configuration that has anchored the Deftones' atmospheric alt-metal sound across their peak commercial era on White Pony, Diamond Eyes, and Koi No Yokan. The centerpiece of the Abe Cunningham drum kit is an SJC Custom 14×6.5" Brass snare, chosen for the warm, cutting crack that projects through Deftones' layered guitar textures without overwhelming the band's dynamic range. A DW 9000 Series Double Pedal and DW hardware anchor the drum set.
+
+Zildjian cymbals define the Abe Cunningham drum kit's sonic character: 14" K Custom Hi-Hats for a dark, nuanced chick suited to Deftones' atmospheric passages; 18" and 20" K Custom Crashes for the dynamic, full-bodied accents that shift between crushing and delicate; a 22" K Custom Ride for dark, controlled rhythmic definition; and a 19" A Custom China for aggressive punctuation on the most intense sections. Vic Firth American Classic 2B sticks and Remo drumheads complete the rig. For the full gear breakdown, see the [White Pony drum setup](/articles/white-pony-drum-setup).
+
 ## Band History
 
 - **Deftones** — 1988–present (current)

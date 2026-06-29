@@ -34,6 +34,12 @@ Paul Mazurkiewicz (born September 8, 1968, in Buffalo, New York) is an American 
 
 His drumming style combines relentless blast beats, complex double bass patterns, and groove-oriented sections that have helped define the death metal sound. With Cannibal Corpse being the best-selling death metal band of all time (over 2 million albums sold worldwide), Mazurkiewicz's contribution to the genre is immeasurable. His 35+ years of consistent touring and recording make him one of the most enduring figures in extreme metal history.
 
+## Kit Overview
+
+Paul Mazurkiewicz plays a Pearl Masters Maple Complete drum kit with Sabian AAX Series cymbals — the blast-beat-optimized drum set that has powered Cannibal Corpse's relentless death metal assault for over three decades. The centerpiece of the Paul Mazurkiewicz drum kit is a Pearl Masters 14×6.5" Maple snare, tuned bright and tight to cut through down-tuned guitars on landmark recordings from Tomb of the Mutilated through Violence Unimagined. A Pearl Demon Drive Double Pedal anchors Mazurkiewicz's locomotive double bass technique — the same configuration carried across Cannibal Corpse's entire discography.
+
+The Sabian AAX cymbal spread rounds out the Paul Mazurkiewicz drum set: 14" AAX Stage Hi-Hats deliver a punchy, controlled chick beneath extreme blast beat tempos; 18" and 19" X-Plosion Crashes provide fast-attacking accents for riff-change punctuation; a 21" AAX Raw Bell Dry Ride offers cutting rhythmic definition over dense guitar passages; and an 18" AAXtreme China adds brutal trashy impact on the most intense sections. Vic Firth American Classic 5B sticks and Evans drumheads complete the drum kit configuration. For the full breakdown, see the [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup).
+
 ## Band History
 
 - **Cannibal Corpse** — 1988–present (current)

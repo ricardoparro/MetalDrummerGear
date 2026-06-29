@@ -1023,6 +1023,464 @@ export const articles = {
       "content": "Sean Reinert left us too soon. His passing on January 24, 2020, robbed music of one of its most innovative drummers — a true pioneer who bridged worlds that seemed unbridgeable.\n\n**What Made Sean Irreplaceable:**\n\n- **Vision:** He didn't just add jazz licks to metal; he fundamentally reimagined what death metal drumming could be. \"Human\" and \"Focus\" weren't experiments — they were statements of a complete musical philosophy.\n\n- **Technique in service of music:** Sean had formidable chops, but he never showed off. Every ghost note, every polyrhythmic passage, every dynamic shift served the composition. Ego never drove his playing.\n\n- **Courage:** Playing jazz-influenced drums in 1991 death metal took courage. The scene was insular and judgmental. Sean did it anyway, trusting that real musicianship transcends genre boundaries.\n\n- **Influence:** Every progressive metal drummer working today builds on foundations Sean helped lay. When bands like Opeth, Gojira, or modern Cynic use sophisticated drum vocabulary, they're walking paths Sean helped clear.\n\n**For Drummers Studying Sean:**\n\nDon't just learn his patterns — understand his approach. Take jazz lessons. Develop real four-way independence. Practice dynamics until you can play a whisper or a thunderclap with equal control. Study music theory. Listen beyond metal.\n\nMost importantly, remember that technical ability means nothing without musical taste. Sean could play anything, but he only played what the music needed. That restraint is harder to develop than any technical skill.\n\n**The Legacy:**\n\n\"Human\" and \"Focus\" remain essential listening for any serious drummer. They prove that extreme metal can have sophistication, that power and nuance coexist, and that jazz vocabulary belongs anywhere a creative drummer wants to put it.\n\nSean Reinert played drums like no one before or since. He took jazz into the heart of death metal and emerged with something entirely new. That vision, that courage, that musicality — it changed everything.\n\nRest in power, Sean. The ghosts notes echo still.\n\n🥁 *\"How long has this gone on?\"* — the music plays forever. 🥁"
     }
   },
+  "traced-in-air-drum-setup": {
+    "slug": "traced-in-air-drum-setup",
+    "albumTitle": "Traced in Air",
+    "artist": "Cynic",
+    "drummer": "Sean Reinert",
+    "drummerId": null,
+    "relatedDrummerSlug": "sean-reinert",
+    "year": 2008,
+    "genre": "Progressive Metal / Jazz Fusion",
+    "label": "Season of Mist",
+    "studio": "Self-produced, Los Angeles, California",
+    "producer": "Sean Reinert and Paul Masvidal",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-29",
+    "dateModified": "2026-06-29",
+    "author": "MetalForge Editorial",
+    "title": "Traced in Air Drum Setup: Sean Reinert's Cynic Reunion (2008)",
+    "description": "Complete breakdown of Sean Reinert's drum gear on Cynic's Traced in Air (2008). The DW Collector's Series kit, Zildjian K Custom cymbals, and the return of progressive metal's greatest drummer after 15 years — filling the arc between Focus (1993) and Kindly Bent to Free Us (2014).",
+    "seoKeywords": [
+      "traced in air drums",
+      "cynic 2008 drum setup",
+      "sean reinert cynic reunion",
+      "traced in air drum gear",
+      "cynic traced in air kit",
+      "sean reinert dw collector",
+      "cynic reunion 2008",
+      "progressive metal drums 2008"
+    ],
+    "ogImage": "/images/albums/traced-in-air-drums.webp",
+    "intro": {
+      "title": "The Return: Sean Reinert and Cynic After 15 Years",
+      "content": "Released on November 18, 2008, Cynic's *Traced in Air* is the album that answered the question a generation of progressive metal fans had been asking since 1993: what would Sean Reinert and Paul Masvidal create if Cynic ever returned? Fifteen years after *Focus* dissolved genre boundaries and left the progressive metal world forever altered, Reinert stepped back behind the kit for the band that had defined his creative peak — and the result was something entirely unexpected.\n\n*Traced in Air* is not a sequel to *Focus*. It neither attempts to recreate the death metal aggression of that record nor abandon the jazz sophistication that made *Focus* historic. Instead, it represents a natural evolution: a mature, atmospheric record shaped by the musical journeys Reinert and Masvidal had taken in the intervening fifteen years. Where *Focus* was confrontational in its genre collision, *Traced in Air* is contemplative — an album that wears its progressive and jazz influences openly, without the death metal framework that once contained them.\n\nFor Sean Reinert, the reunion required a rethinking of his entire approach. The DW Collector's Series kit he brought to the *Traced in Air* sessions represented a significant gear evolution from the Tama Artstar II he had used on both *Human* (1991) and *Focus* (1993). DW's custom shop shells — typically maple or mahogany, built to exact specifications — offered warmer tonality and more complex resonance suited to the album's layered, atmospheric production. His cymbal setup had similarly evolved: where the Zildjian A and K Series palette of the early 1990s had provided the brightness and dryness his jazz-death work required, the *Traced in Air* sessions featured Zildjian K Custom cymbals — darker, more complex, and better suited to the record's more introspective sonic character.\n\nThe production approach reflected this maturity. Unlike the Morrisound Recording sessions with Scott Burns — clinical, punchy, focused on death metal impact — *Traced in Air* was self-produced by Reinert and Masvidal, giving both musicians complete creative control over how the drums were captured and mixed. The result is a drum sound that breathes differently than anything Reinert had recorded before: more spacious, more dynamic, with the acoustic and electronic elements blended in service of atmosphere rather than aggression.\n\nThis is the album that closes the 15-year gap between *Focus* and the modern Cynic era — and it is essential for understanding Sean Reinert's complete arc as one of progressive metal's most innovative drummers. Sean Reinert passed away on January 24, 2020. *Traced in Air* stands as the reunion chapter in his story: the proof that his musical vision had never stopped growing in the years between.",
+      "keyPoints": [
+        "Cynic's reunion album — 15-year gap between Focus (1993) and Traced in Air (2008)",
+        "Self-produced by Sean Reinert and Paul Masvidal — complete creative control over drum sound",
+        "DW Collector's Series kit replacing the Tama Artstar II of the Human/Focus era",
+        "Zildjian K Custom cymbals — darker and more complex than the A/K Series of 1991–93",
+        "Less death metal aggression than Focus, more atmospheric and jazz-fusion oriented",
+        "Released November 18, 2008 on Season of Mist"
+      ]
+    },
+    "drumKit": {
+      "title": "DW Collector's Series: The Reunion Kit",
+      "brand": "DW (Drum Workshop)",
+      "model": "DW Collector's Series",
+      "finish": "Natural wood or custom finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (single kick with double pedal)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 11\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 14\" Floor Tom"
+        ],
+        "shells": "DW Collector's Series maple shells — custom configuration"
+      },
+      "description": "Sean Reinert's *Traced in Air* sessions marked the debut of DW Collector's Series drums in his recorded output — a significant upgrade from the Tama Artstar II birch shells that had defined his sound on *Human* (1991) and *Focus* (1993). DW's Collector's Series represents the company's top custom tier: shells built to exact specifications in Oxnard, California, using DW's select maple, with hand-crafted bearing edges optimized for tone rather than mass production efficiency.\n\nThe maple construction delivered a warmer, more complex resonance than the birch Artstar II had provided. Where birch excels at attack and projection — ideal for cutting through heavy guitar in death metal contexts — maple offers fuller body, longer sustain, and a harmonic richness that suited *Traced in Air*'s more atmospheric production environment. The self-produced album allowed Reinert to let the DW shells breathe in the mix rather than punching through it.\n\nReinert maintained his characteristic single bass drum configuration with double pedal — the approach he had used on every major recording since *Human*. His double-kick philosophy had always been compositional rather than velocity-driven: the double bass appeared as a musical voice within phrases rather than as continuous texture. On *Traced in Air*, this approach suited tracks like \"Evolutionary Sleeper\" and \"The Unknown Guest,\" where double-bass passages are integrated into atmospheric passages that have more in common with progressive rock than death metal.\n\nThe three rack toms (10\", 12\", 13\") and single floor tom (16\") preserved the fill vocabulary he had developed over two decades with Cynic and Death — compact enough for articulate melodic fills, comprehensive enough for the album's more expansive moments. Self-production allowed Reinert to tune the DW shells with the musical precision he had always applied to his instrument: higher than typical metal drummers, prioritizing tone and articulation over raw volume.",
+      "notes": [
+        "DW Collector's Series maple shells — upgrade from Tama Artstar II birch of the Human/Focus era",
+        "Single 22\" bass drum with double pedal — Reinert's consistent configuration across all Cynic/Death recordings",
+        "Three rack toms providing melodic fill vocabulary across the album's varied musical contexts",
+        "Self-produced sessions gave Reinert complete control over drum tuning and sonic character",
+        "Maple shells suited to Traced in Air's atmospheric production rather than death metal impact"
+      ],
+      "estimatedValue": "$4,000–6,000 (DW Collector's Series, 2008)"
+    },
+    "snare": {
+      "title": "DW Collector's Series Snare: Warmth and Sensitivity",
+      "brand": "DW (Drum Workshop)",
+      "model": "DW Collector's Series Maple Snare",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple — DW Collector's Series custom construction",
+      "description": "The snare sound on *Traced in Air* is noticeably warmer and more open than the crisp, cutting snare Reinert had deployed on *Human* and *Focus*. The DW Collector's Series maple snare allowed the shell's natural resonance to complement his dynamic range: sensitive enough for the ghost-note vocabulary that had defined his career, full enough for the rimshot accents that punctuate the album's more assertive passages.\n\nReinert's snare tuning philosophy — consistently medium-high, prioritizing articulation and sensitivity over pure crack — translated directly to the DW platform. The Collector's Series bearing edges, hand-cut at DW's Oxnard facility, allow the head to seat more precisely against the shell, producing a fundamental note with more character than production-grade construction. This matters particularly for ghost notes: the quietest strokes in Reinert's dynamic range only translate clearly when the snare's resonance is well-defined.\n\nWith self-produced sessions, Reinert could choose exactly how to capture the snare in the mix. The *Traced in Air* snare sits differently than the Morrisound productions — less punchy, more integrated into the textural fabric of the record. This was a deliberate sonic choice reflecting the album's atmospheric rather than aggressive character.",
+      "tuningSetting": "Medium-high tension — sensitivity for ghost notes and dynamic control across Traced in Air's varied passages",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$400–600 (DW Collector's Series maple snare, 2008)"
+    },
+    "cymbals": {
+      "title": "Zildjian K Custom: Darker and More Complex",
+      "brand": "Zildjian",
+      "series": "Zildjian K Custom",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian K Custom 14\" Dark Hi-Hats",
+          "position": "Left side",
+          "notes": "Darker, more complex tone than the A New Beat hi-hats of the Human/Focus era"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian K Custom 16\" Dark Crash",
+          "position": "Left of hi-hats",
+          "notes": "Darker crash for the album's more atmospheric, less aggressive musical contexts"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian K Custom 18\" Dark Crash",
+          "position": "Right of rack toms",
+          "notes": "Fuller dark crash for section boundaries and larger musical moments"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian K Custom 20\" Dark Ride",
+          "position": "Far right",
+          "notes": "Complex, warm ride — suited to the album's jazz-fusion and atmospheric passages"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian K Custom 18\" China",
+          "position": "Above floor tom",
+          "notes": "Darker China for aggressive accents without the raw brightness of standard China cymbals"
+        },
+        {
+          "type": "Splash",
+          "model": "Zildjian K Custom 10\" Splash",
+          "position": "Effect position",
+          "notes": "Quick, dark accents for jazz-vocabulary passages"
+        }
+      ],
+      "description": "Sean Reinert's cymbal evolution from the *Focus* era to *Traced in Air* tells the story of his musical development across fifteen years. Where the Zildjian A and K Series palette of 1991–93 had provided the mix of brightness (A Series) and articulate dryness (K Custom Dry Ride) that jazz-death fusion required, the *Traced in Air* sessions feature a shift toward the Zildjian K Custom line throughout — darker, warmer, and tonally more complex across every cymbal position.\n\nThe K Custom Dark series uses Zildjian's B20 bronze with a darker hammering and lathing pattern than standard K models, producing cymbals with more complex overtone stacks and longer decay times. For *Traced in Air*'s atmospheric, layered production, these qualities served the music's contemplative character. The A Series brightness that cut through *Focus*'s death metal density would have been too aggressive for the 2008 album's sonic palette.\n\nThe K Custom Dark ride became the center of Reinert's cymbal vocabulary on *Traced in Air* — a warm, complex ride that rewarded the jazz riding technique he had pioneered on *Human* and refined on *Focus*. On tracks like \"Nunc Stans\" and \"Adam's Murmur,\" the ride cymbal carries melody and atmosphere rather than simply marking time. The K Custom's complex wash supported sustained ride patterns in ways the drier K Custom Dry Ride he had used in 1993 would not have — a deliberate choice for an album where atmospheric texture matters more than attack definition.\n\nThe hi-hat evolution from the A 14\" New Beat (1991–93) to K Custom Dark hi-hats reflects the same philosophy. The darker, more complex hi-hat tones gave Reinert's foot splashes and open-hat accents a rounder, less percussive quality that suited the album's jazz-fusion passages on tracks like \"The Unknown Guest\" and \"King of Those Who Know.\"",
+      "estimatedValue": "$1,800–2,500 (full Zildjian K Custom setup, 2008)"
+    },
+    "hardware": {
+      "title": "DW 9000 Double Pedal and Professional Foundation",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "DW (Drum Workshop)",
+          "model": "DW 9000 Double Pedal",
+          "notes": "DW's flagship double pedal — smoother and more refined than the 5000 era of Human/Focus",
+          "description": "By 2008, DW's 9000 series represented the company's top-tier pedal engineering — an evolution from the 5000 double pedal Reinert had used on *Human* and *Focus*. The 9000's direct-drive or chain-drive mechanism (in varying configurations) offered the smooth, controllable response that Reinert's compositional double-bass approach required: bass drum as musical voice, not velocity display. On *Traced in Air*, the double-bass passages are integrated into the atmospheric fabric of each track rather than deployed for aggressive impact."
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro",
+          "notes": "Consistent ergonomic support for extended technical sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5A",
+          "notes": "Medium-weight sticks for dynamic control across jazz-fusion and atmospheric passages",
+          "description": "Reinert's 5A stick preference reflected his jazz-derived approach to dynamics: lighter sticks build touch sensitivity and control, allowing the natural dynamic variation that human playing provides. On *Traced in Air*, this touch sensitivity is more critical than on earlier recordings — the album's atmospheric passages require precise dynamic shading impossible with heavier sticks."
+        },
+        {
+          "type": "Drumheads (Toms, Batter)",
+          "brand": "Remo",
+          "model": "Remo Ambassador Coated",
+          "notes": "Single-ply sensitivity suited to Reinert's ghost note technique and dynamic range"
+        },
+        {
+          "type": "Drumheads (Bass, Batter)",
+          "brand": "Remo",
+          "model": "Remo Powerstroke 3",
+          "notes": "Controlled bass drum attack — focused transient for double-kick clarity in self-produced sessions"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Powerstroke 3 (resonant)",
+        "toms": "Remo Ambassador Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Self-Produced: Reinert and Masvidal Control the Sound",
+      "content": "*Traced in Air* was self-produced by Sean Reinert and Paul Masvidal — a fundamental departure from the Morrisound Recording sessions with Scott Burns that had produced both *Human* (1991) and *Focus* (1993). Where Burns brought a specific engineering philosophy — punchy, aggressive, optimized for Florida death metal impact — the self-produced *Traced in Air* gave Reinert direct control over every aspect of how his drums were captured, mixed, and presented.\n\n**The Production Philosophy:**\nReinert's approach to self-producing the drum sound on *Traced in Air* reflected the album's musical character. Rather than the close-miked, compressed drum sound characteristic of Morrisound death metal productions, *Traced in Air* allows more room character, more dynamic space, and greater integration between the drum kit and the record's atmospheric layering. The drums serve the album's contemplative, textural sound rather than driving through it.\n\n**Room and Ambient Capture:**\nThe *Traced in Air* drum sound uses ambient microphones more prominently than the earlier Morrisound recordings. This room character gave the DW Collector's Series maple shells the space to resonate naturally — capturing the warmth and complexity that distinguish DW maple from birch or poplar construction. The result is a drum production that sounds organic and spacious rather than surgically precise.\n\n**Snare and Dynamic Treatment:**\nWith direct production control, Reinert preserved more dynamic range in the snare sound than the Morrisound sessions allowed. Ghost notes — always a critical element of his vocabulary — are more audible throughout *Traced in Air*, integrated into the mix as textural contributions rather than buried beneath guitar density. This reflects both the production philosophy and the album's more open musical arrangements.\n\n**Bass Drum Treatment:**\nThe single 22\" kick with DW 9000 double pedal received a warmer, less transient-focused capture than the tight, punchy kick sounds of the Morrisound era. On *Traced in Air*, the bass drum sits lower in the frequency spectrum and integrates more deeply into the overall sonic texture — appropriate for an album where the drums function as part of an atmospheric ensemble rather than as the aggressive rhythmic driver of death metal.",
+      "keyTechniques": [
+        "Self-produced sessions — Reinert controlled drum capture and mix integration directly",
+        "Room microphone use capturing DW maple shell warmth and natural resonance",
+        "Greater dynamic range preservation than Morrisound productions — ghost notes prominent in mix",
+        "Bass drum tuned and captured for warmth and integration, not attack transient dominance",
+        "Cymbal room sound allowed K Custom Dark tonality to contribute atmospheric texture"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Nunc Stans",
+        "bpm": "130-160",
+        "signature": "Shifting time signatures, progressive structure",
+        "highlights": [
+          "Album opener establishing the reunion sound — immediately different from Focus in tone",
+          "K Custom Dark ride cymbal central to the atmospheric opening feel",
+          "Double-bass patterns integrated into melodic, progressive rock-influenced passages",
+          "Ghost notes throughout — Reinert's jazz vocabulary immediately present"
+        ],
+        "gearNotes": "The DW Collector's Series maple warmth is immediately audible in the opening track — fuller and more complex than the Artstar II birch sound of the Focus era. K Custom Dark ride provides melodic atmospheric texture."
+      },
+      {
+        "track": "Evolutionary Sleeper",
+        "bpm": "150-180",
+        "signature": "4/4 with progressive subdivisions",
+        "highlights": [
+          "Most rhythmically complex track on the album — Reinert's four-way independence on display",
+          "Double-bass patterns used compositionally in atmospheric passages",
+          "Hi-hat technique showing the K Custom Dark's tonal complexity",
+          "Demonstrates how Reinert's style had evolved from the aggressive jazz-death of Focus"
+        ],
+        "gearNotes": "DW 9000 double pedal providing the smooth, controllable double-bass feel essential for the track's compositional approach. Ambassador Coated heads articulating the ghost note patterns clearly."
+      },
+      {
+        "track": "The Unknown Guest",
+        "bpm": "120-155",
+        "signature": "Multiple signatures, jazz-fusion influenced",
+        "highlights": [
+          "Most overtly jazz-influenced performance on the album",
+          "Ride cymbal work directly referencing jazz vocabulary — melodic riding over atmospheric chord pads",
+          "Brush technique elements in quieter passages",
+          "Dynamic range from near-ambient passages to full-kit intensity within one track"
+        ],
+        "gearNotes": "K Custom Dark ride's warm, complex character essential to the jazz riding sections. The DW maple snare's sensitivity handles the quietest dynamic passages without losing articulation."
+      }
+    ],
+    "evolution": {
+      "title": "Focus (1993) → Traced in Air (2008): 15 Years of Evolution",
+      "content": "The 15-year gap between *Focus* (1993) and *Traced in Air* (2008) represents the longest interval in Sean Reinert's major recording history — and the distance between the two albums reflects not just time, but genuine musical development. Understanding both records as chapters in a single creative arc is essential for any serious engagement with Reinert's work.\n\n**The Focus Era (1993):**\nTama Artstar II birch shells, Zildjian A and K Series cymbals, DW 5000 double pedal, electronic trigger integration. The *Focus* drum sound was optimized for the collision of jazz and death metal: birch shells cutting through distorted guitar density, A Series cymbal brightness providing definition in heavy mixes, the K Custom Dry Ride offering articulate jazz patterns above the noise floor. The Morrisound Recording environment, with Scott Burns at the board, prioritized impact and definition.\n\n**The Traced in Air Era (2008):**\nDW Collector's Series maple shells, Zildjian K Custom cymbals throughout, DW 9000 double pedal, self-produced. The *Traced in Air* drum sound reflects an artist who had evolved away from genre collision toward genre transcendence. Maple shells over birch, K Custom dark character over A Series brightness, self-produced atmospheric mixing over Morrisound death metal impact. The death metal framework had dissolved; what remained was the jazz vocabulary, the compositional thinking, and the extraordinary technique — applied now to music that made no death metal concessions.\n\n**What Didn't Change:**\nReinert's fundamental approach — single bass drum with double pedal, three rack toms, ghost notes integrated throughout, ride cymbal as a melodic voice — remained constant from 1991 through 2008. The philosophy never changed; only the gear and context evolved to match where the music had gone.\n\n**The Arc Completed:**\n*Traced in Air* closes the gap between *Focus* and Cynic's later work on *Kindly Bent to Free Us* (2014). It is the essential middle chapter of the Cynic reunion era, and the record that proves Sean Reinert's musical vision continued to develop in the years when Cynic was dormant.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Artstar II (birch) — Focus",
+          "now": "DW Collector's Series (maple) — Traced in Air"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Zildjian A / K Custom Dry Ride — Focus",
+          "now": "Zildjian K Custom Dark throughout — Traced in Air"
+        },
+        {
+          "category": "Pedals",
+          "then": "DW 5000 Double Pedal — Focus",
+          "now": "DW 9000 Double Pedal — Traced in Air"
+        },
+        {
+          "category": "Production",
+          "then": "Morrisound Recording / Scott Burns",
+          "now": "Self-produced / Reinert and Masvidal"
+        },
+        {
+          "category": "Musical approach",
+          "then": "Jazz-death collision — both genres in creative tension",
+          "now": "Jazz-progressive fusion — no death metal framework required"
+        },
+        {
+          "category": "Electronic elements",
+          "then": "Trigger pads feeding synthesizer modules",
+          "now": "Atmospheric layering, less overt electronic percussion"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "focus-drum-setup",
+      "human-drum-setup",
+      "whats-in-sean-reinerts-kit"
+    ],
+    "relatedDrummers": [
+      3,
+      6
+    ],
+    "relatedArticles": [
+      "focus-drum-setup",
+      "human-drum-setup",
+      "whats-in-sean-reinerts-kit"
+    ],
+    "relatedLicks": [],
+    "internalLinks": [
+      {
+        "text": "Sean Reinert drummer profile",
+        "url": "/drummer/sean-reinert"
+      },
+      {
+        "text": "Cynic Focus drum setup (1993)",
+        "url": "/articles/focus-drum-setup"
+      },
+      {
+        "text": "Human drum setup (Death, 1991)",
+        "url": "/articles/human-drum-setup"
+      },
+      {
+        "text": "What's in Sean Reinert's kit",
+        "url": "/articles/whats-in-sean-reinerts-kit"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Sean Reinert use on Traced in Air?",
+        "answer": "On Cynic's Traced in Air (2008), Sean Reinert used a DW Collector's Series kit — DW's custom-tier maple shell line built at their Oxnard, California facility. His configuration included a single 22\" bass drum with a DW 9000 double pedal, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. This was a significant upgrade from the Tama Artstar II birch shells he had used on Focus (1993) and Death's Human (1991). The DW Collector's Series maple construction gave the Traced in Air drums a warmer, fuller tone suited to the album's more atmospheric production style."
+      },
+      {
+        "question": "How is Traced in Air different from Focus in terms of drumming style?",
+        "answer": "Cynic's Traced in Air (2008) and Focus (1993) represent two distinct phases of Sean Reinert's drumming career separated by 15 years. On Focus, Reinert's playing operated within a creative tension between jazz and death metal — the aggression of extreme metal in constant dialogue with jazz vocabulary. On Traced in Air, the death metal framework had dissolved entirely, leaving the jazz and progressive influences to develop freely without genre constraints. The drumming is less aggressive, more atmospheric, and more integrated into the record's layered, contemplative production style. Reinert also upgraded from the Tama Artstar II birch shells and Zildjian A/K palette of Focus to DW Collector's Series maple shells and Zildjian K Custom cymbals — darker, warmer gear that suited the 2008 album's sonic character."
+      },
+      {
+        "question": "Is Traced in Air progressive death metal?",
+        "answer": "Traced in Air (2008) is more accurately described as progressive metal or jazz-fusion metal rather than progressive death metal. While Cynic's debut Focus (1993) operated within a death metal framework — complete with blast beats and aggressive guitar density — Traced in Air largely abandons death metal aggression in favor of a more melodic, atmospheric, and jazz-influenced sound. Sean Reinert's drumming reflects this shift: more compositionally restrained, less concerned with extreme tempos, and more integrated into the album's spacious, layered production. The album is best understood as the natural evolution of Cynic's sound after 15 years of musical development, bridging Focus to the even more abstract Kindly Bent to Free Us (2014)."
+      },
+      {
+        "question": "Why did Cynic reunite for Traced in Air after 15 years?",
+        "answer": "Cynic dissolved in 1994 after Focus (1993) failed to find commercial traction despite its critical reputation. Sean Reinert and Paul Masvidal pursued other projects — including Reinert's work with Gordian Knot and Æon Spoke — before reconnecting around 2006 with renewed creative energy and a new musical direction. Traced in Air (2008) reflected both musicians' development in the intervening years: more ambient, more melodic, and more confident in the jazz-progressive identity that had always underpinned Cynic's work. The reunion was partly enabled by the growing critical recognition of Focus as a landmark album, which gave the band a renewed audience who appreciated what they had accomplished in 1993."
+      }
+    ],
+    "conclusion": {
+      "title": "The Reunion Chapter: 15 Years and a New Sound",
+      "content": "*Traced in Air* is not the album fans who had spent 15 years waiting for *Focus 2* expected. It is something richer and more interesting than that: an authentic creative statement from musicians who had continued to grow while the world waited for their return.\n\n**What Traced in Air Reveals:**\nThe album fills the gap in the Sean Reinert / Cynic narrative that no other record addresses. *Focus* (1993) ended with Cynic at a creative peak — the most ambitious fusion of jazz and death metal anyone had achieved. *Traced in Air* (2008) shows where that trajectory led when the death metal framework was removed: a more contemplative, atmospheric, and musically open sound that still bears Reinert's unmistakable fingerprints.\n\n**The Gear Perspective:**\nThe shift from Tama Artstar II to DW Collector's Series, from Zildjian A/K to K Custom Dark throughout, from Morrisound with Scott Burns to self-production — every gear change on *Traced in Air* reflects a deliberate artistic decision. Reinert chose warmer, more complex tools for a warmer, more complex musical statement. The DW maple shells and K Custom Dark cymbals are the physical manifestation of where his musical thinking had arrived by 2008.\n\n**For the Sean Reinert Discovery Arc:**\nAnyone who arrives at *Focus* asking \"what came after?\" needs *Traced in Air* as the next chapter. And anyone asking \"what happened to Sean Reinert after Death?\" finds here the reunion story: the drummer who changed extreme metal in 1991 and 1993 returned in 2008 to prove that he had never stopped developing his art.\n\n**The Legacy:**\nSean Reinert passed away on January 24, 2020. The arc from *Spiritual Healing* (1990) through *Human* (1991) through *Focus* (1993) to *Traced in Air* (2008) is the complete story of one of progressive metal's most important drummers — and *Traced in Air* is the chapter that too many fans of his work have missed.\n\n🥁 *Sean Reinert (1971-2020) — He returned after 15 years and proved the music had never stopped.* 🥁"
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Traced in Air Drum Setup: Sean Reinert's Cynic Reunion (2008)",
+          "description": "Complete breakdown of Sean Reinert's drum gear on Cynic's Traced in Air (2008). The DW Collector's Series kit, Zildjian K Custom cymbals, and the return of progressive metal's greatest drummer after 15 years.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-06-29",
+          "dateModified": "2026-06-29"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://metalforge.io"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Articles",
+              "item": "https://metalforge.io/articles"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Traced in Air Drum Setup",
+              "item": "https://metalforge.io/articles/traced-in-air-drum-setup"
+            }
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Traced in Air",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Cynic"
+          },
+          "datePublished": "2008-11-18",
+          "genre": "Progressive Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Season of Mist"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Nunc Stans"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "The Space for This"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Evolutionary Sleeper"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Integral Birth"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "The Unknown Guest"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Adam's Murmur"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "King of Those Who Know"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Sean Reinert",
+          "birthDate": "1971-01-23",
+          "deathDate": "2020-01-24",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Cynic"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "MusicGroup",
+          "name": "Cynic",
+          "genre": "Progressive Metal",
+          "member": [
+            {
+              "@type": "Person",
+              "name": "Sean Reinert",
+              "roleName": "Drummer"
+            },
+            {
+              "@type": "Person",
+              "name": "Paul Masvidal",
+              "roleName": "Guitarist / Vocalist"
+            }
+          ]
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drums did Sean Reinert use on Traced in Air?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Cynic's Traced in Air (2008), Sean Reinert used a DW Collector's Series kit — DW's custom-tier maple shell line. His configuration included a single 22\" bass drum with a DW 9000 double pedal, three rack toms (10\", 12\", 13\"), and a 16\" floor tom. This was a significant upgrade from the Tama Artstar II birch shells he had used on Focus (1993) and Death's Human (1991). The DW Collector's Series maple construction gave the Traced in Air drums a warmer, fuller tone suited to the album's atmospheric production style."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How is Traced in Air different from Focus in terms of drumming style?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Focus (1993), Reinert's playing operated within a creative tension between jazz and death metal. On Traced in Air (2008), the death metal framework had dissolved, leaving jazz and progressive influences to develop freely. The drumming is less aggressive, more atmospheric, and more integrated into the album's layered production. Reinert also upgraded from Tama Artstar II birch shells and Zildjian A/K palette to DW Collector's Series maple shells and Zildjian K Custom cymbals — darker, warmer gear that suited the 2008 album's sonic character."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Traced in Air progressive death metal?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Traced in Air (2008) is more accurately described as progressive metal or jazz-fusion metal rather than progressive death metal. While Focus (1993) operated within a death metal framework, Traced in Air largely abandons death metal aggression in favor of a melodic, atmospheric, and jazz-influenced sound. It is best understood as the natural evolution of Cynic's sound after 15 years of musical development, bridging Focus to the even more abstract Kindly Bent to Free Us (2014)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why did Cynic reunite for Traced in Air after 15 years?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Cynic dissolved in 1994 after Focus failed to find commercial traction. Sean Reinert and Paul Masvidal reconnected around 2006 with renewed creative energy. Traced in Air (2008) reflected both musicians' development in the intervening years: more ambient, melodic, and confident in the jazz-progressive identity that had always underpinned Cynic's work. The reunion was partly enabled by growing critical recognition of Focus as a landmark album, which gave the band a renewed audience."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
   "focus-drum-setup": {
     "slug": "focus-drum-setup",
     "albumTitle": "Focus",
@@ -1253,7 +1711,8 @@ export const articles = {
     "videos": [],
     "relatedAlbums": [
       "human-drum-setup",
-      "sound-of-perseverance-drum-setup"
+      "sound-of-perseverance-drum-setup",
+      "traced-in-air-drum-setup"
     ],
     "relatedDrummers": [
       3,
@@ -1263,6 +1722,24 @@ export const articles = {
       "progressive-death-metal-drummers",
       "jazz-influenced-metal-drummers",
       "whats-in-sean-reinerts-kit"
+    ],
+    "internalLinks": [
+      {
+        "text": "Sean Reinert drummer profile",
+        "url": "/drummer/sean-reinert"
+      },
+      {
+        "text": "Human drum setup (Death, 1991)",
+        "url": "/articles/human-drum-setup"
+      },
+      {
+        "text": "Traced in Air drum setup (Cynic, 2008)",
+        "url": "/articles/traced-in-air-drum-setup"
+      },
+      {
+        "text": "What's in Sean Reinert's kit",
+        "url": "/articles/whats-in-sean-reinerts-kit"
+      }
     ],
     "faq": [
       {

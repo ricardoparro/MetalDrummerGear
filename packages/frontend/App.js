@@ -2425,6 +2425,16 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
     setMeta('og:type', 'article', true);
     setMeta('og:url', `https://metalforge.io/${urlBase}/${list.slug}`, true);
     setMeta('og:site_name', 'MetalForge', true);
+
+    // Issue #3280: Set self-referencing canonical so article pages are not
+    // treated as duplicates of the homepage (index.html hardcodes canonical=/).
+    let canonicalLink = document.querySelector('link[rel="canonical"]');
+    if (!canonicalLink) {
+      canonicalLink = document.createElement('link');
+      canonicalLink.setAttribute('rel', 'canonical');
+      document.head.appendChild(canonicalLink);
+    }
+    canonicalLink.setAttribute('href', `https://metalforge.io/${urlBase}/${list.slug}`);
     setMeta('og:image', list.ogImage ? `https://metalforge.io${list.ogImage}` : 'https://metalforge.io/og-image.png', true);
     setMeta('twitter:card', 'summary_large_image');
     setMeta('twitter:site', '@MetalDrumGear');
@@ -2731,6 +2741,10 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
       // Issue #1813: cleanup MusicAlbum schema node
       const musicAlbumScript = document.querySelector('script[data-schema="album-music-album"]');
       if (musicAlbumScript) musicAlbumScript.remove();
+      // Issue #3280: restore homepage canonical on unmount so navigating back
+      // to home does not leave an article canonical in place.
+      const canon = document.querySelector('link[rel="canonical"]');
+      if (canon) canon.setAttribute('href', 'https://metalforge.io/');
     };
   }, [list, isAlbumArticle, drummers]);
 

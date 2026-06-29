@@ -336,6 +336,13 @@ async function latestRun(wf) {
       process.stderr.write(`  ${wf.file}: not found (404), skipping.\n`);
       return null;
     }
+    // A 403 means the GITHUB_TOKEN lacks `actions: read` (granted in watchdog.yml).
+    // Degrade gracefully instead of a FATAL crash so one permission hiccup can't
+    // take the whole liveness check offline.
+    if (/→ 403/.test(e.message)) {
+      process.stderr.write(`  ${wf.file}: not accessible (403 — needs actions:read), skipping.\n`);
+      return null;
+    }
     throw e;
   }
 }

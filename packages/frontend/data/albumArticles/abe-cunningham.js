@@ -1980,6 +1980,146 @@ export const articles = {
     "conclusion": {
       "title": "The Album That Started Everything",
       "content": "Around the Fur is where the Deftones story really begins for most people. It's the record that introduced millions of fans to the band's unique combination of heaviness, vulnerability, and musical sophistication. And Abe Cunningham's drumming is a central reason why it worked.\n\n**What Made Abe's Performance Special:**\n\n- **Syncopated Intelligence:** Abe's kick patterns on Around the Fur are inventive without being showy. He plays against the expected downbeats, creating rhythmic interest that elevates the songs without demanding attention.\n\n- **Dynamic Awareness:** For only his second major-label record, Abe's dynamic control is remarkable. From the whispered verses of \"Be Quiet and Drive\" to the explosive choruses of \"My Own Summer,\" he navigates the album's wide range with confidence.\n\n- **Groove Over Flash:** Even on the album's heaviest moments, Abe prioritizes feel and forward motion over technical display. This was already countercultural in 1997's nu-metal scene.\n\n- **Terry Date Partnership:** The Date/Cunningham collaboration deepens here, and the result is a drum sound that's natural, punchy, and timeless. The drums on Around the Fur don't sound like a late-1990s record; they sound like a band playing in a room.\n\n**For Drummers Studying Around the Fur:**\n\nLearn the kick patterns on \"My Own Summer.\" Abe's syncopated approach on this record is the seed of everything that came later in his playing. Study how he locks those patterns with Stephen Carpenter's riffs — that rhythmic interplay is what makes the song feel inevitable.\n\nExplore [Abe Cunningham's full gear breakdown](/drummer/abe-cunningham) to trace how this era's setup evolved into the refined kit he uses today.\n\n🥁 *The record that made Deftones famous, and the groove that made Abe Cunningham's reputation.* 🤘"
+    },
+    "internalLinks": [
+      {
+        "text": "Abe Cunningham drummer profile",
+        "url": "/drummer/abe-cunningham"
+      },
+      {
+        "text": "White Pony drum setup (2000)",
+        "url": "/articles/white-pony-drum-setup"
+      },
+      {
+        "text": "Saturday Night Wrist drum setup (2006)",
+        "url": "/articles/saturday-night-wrist-drum-setup"
+      },
+      {
+        "text": "What's In Abe Cunningham's Kit",
+        "url": "/articles/whats-in-abe-cunninghams-kit"
+      }
+    ],
+    "sitemapPriority": 0.9,
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "ItemPage",
+          "name": "Around the Fur Drum Setup: Abe Cunningham's Breakthrough Record",
+          "description": "Discover the exact drums, cymbals, and gear Abe Cunningham used to record Deftones' landmark Around the Fur album. Complete breakdown of the 1997 record that made Deftones famous and defined Abe's late-90s playing style.",
+          "url": "https://metalforge.io/articles/around-the-fur-drum-setup",
+          "sameAs": [
+            "https://en.wikipedia.org/wiki/Around_the_Fur"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://metalforge.io/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Articles",
+              "item": "https://metalforge.io/articles"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Deftones 'Around the Fur' Drum Setup",
+              "item": "https://metalforge.io/articles/around-the-fur-drum-setup"
+            }
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Around the Fur",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Deftones"
+          },
+          "datePublished": "1997-10-28",
+          "genre": "Alternative Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Maverick Records"
+          },
+          "sameAs": "https://en.wikipedia.org/wiki/Around_the_Fur",
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "My Own Summer (Shove It)"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Be Quiet and Drive (Far Away)"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Headup"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Around the Fur"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Lotion"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Abe Cunningham",
+          "sameAs": "https://en.wikipedia.org/wiki/Abe_Cunningham",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Deftones"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drum kit did Abe Cunningham use on Around the Fur?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Abe Cunningham recorded Around the Fur in 1997 using a Tama Starclassic Maple kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms with all-maple shells."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What album made Deftones famous?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Around the Fur (1997) is the album that broke Deftones to a wider audience. It was their first album to chart in the UK, their first certified Platinum record, and introduced songs like 'My Own Summer (Shove It)' and 'Be Quiet and Drive (Far Away)'."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What gear did Abe Cunningham use in the late 1990s?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In the late 1990s, Abe Cunningham used a Tama Starclassic Maple kit, Zildjian A series cymbals including 14-inch New Beat hi-hats and A Custom crashes, a 14x6.5-inch Tama steel snare, and Tama Iron Cobra pedals."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who produced Around the Fur?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Around the Fur was produced by Terry Date, who also produced Deftones' debut Adrenaline and their Grammy-winning White Pony. Date's natural, dynamics-conscious approach to drum recording set Deftones apart from the heavily processed nu-metal production of the era."
+              }
+            }
+          ]
+        }
+      ]
     }
   },
   "saturday-night-wrist-drum-setup": {
@@ -2354,6 +2494,146 @@ export const articles = {
     "conclusion": {
       "title": "The Difficult, Essential Record",
       "content": "Saturday Night Wrist is the Deftones album that people come back to after they've heard everything else. It's not the most cohesive record in the catalog, not the most accessible, not the most critically celebrated. But it's the most emotionally honest — a document of a band navigating real difficulty and making real art out of it.\n\n**What Made Abe's Performance Special:**\n\n- **Adaptability:** Saturday Night Wrist asks [Abe](/drummer/abe-cunningham) to cover more stylistic ground than any previous Deftones record — from the dreamlike minimalism of \"Cherry Waves\" to the angular aggression of \"Beware\" to the urgent directness of \"Hole in the Earth.\" He navigates all of it with the same musical intelligence.\n\n- **Restraint Under Pressure:** In circumstances that might have pushed a lesser drummer toward overplaying, Abe kept doing what he always does: serving the song. \"Cherry Waves\" might be his most selfless performance on record.\n\n- **Transitional Honesty:** The cymbal palette in flux, the production varying track to track, the emotional rawness — all of it is present in the playing. Abe didn't try to paper over the record's difficult origins. He played through them.\n\n- **Chi Cheng Partnership:** For the last time in the studio, Abe and Chi locked into the low-end partnership they'd been building for almost twenty years. On every track you can hear why Chi Cheng was irreplaceable.\n\n**For Drummers Studying Saturday Night Wrist:**\n\nLearn \"Cherry Waves.\" Play almost nothing for four minutes and see what it does to the song. That kind of restraint is harder than any technical challenge.\n\nStudy \"Hole in the Earth.\" That verse kick groove is an Abe classic — syncopated, inventive, and locked in with the bass guitar in a way that makes the whole song feel urgent.\n\nThen listen to the whole album, with the knowledge of what came after. Saturday Night Wrist is the last chapter of a particular Deftones story. [Diamond Eyes](/articles/diamond-eyes-drum-setup) writes the next one.\n\n🥁 *The hardest record to make. The most necessary one to hear.* 🤘"
+    },
+    "internalLinks": [
+      {
+        "text": "Abe Cunningham drummer profile",
+        "url": "/drummer/abe-cunningham"
+      },
+      {
+        "text": "Around the Fur drum setup (1997)",
+        "url": "/articles/around-the-fur-drum-setup"
+      },
+      {
+        "text": "Diamond Eyes drum setup (2010)",
+        "url": "/articles/diamond-eyes-drum-setup"
+      },
+      {
+        "text": "White Pony drum setup (2000)",
+        "url": "/articles/white-pony-drum-setup"
+      }
+    ],
+    "sitemapPriority": 0.85,
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "ItemPage",
+          "name": "Saturday Night Wrist Drum Setup: Abe Cunningham's Experimental Era",
+          "description": "Discover the exact drums, cymbals, and gear Abe Cunningham used to record Deftones' Saturday Night Wrist album. Complete breakdown of the 2006 comeback record — the last Deftones album with Chi Cheng on bass.",
+          "url": "https://metalforge.io/articles/saturday-night-wrist-drum-setup",
+          "sameAs": [
+            "https://en.wikipedia.org/wiki/Saturday_Night_Wrist"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://metalforge.io/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Articles",
+              "item": "https://metalforge.io/articles"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Deftones 'Saturday Night Wrist' Drum Setup",
+              "item": "https://metalforge.io/articles/saturday-night-wrist-drum-setup"
+            }
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Saturday Night Wrist",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Deftones"
+          },
+          "datePublished": "2006-10-24",
+          "genre": "Alternative Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Maverick Records"
+          },
+          "sameAs": "https://en.wikipedia.org/wiki/Saturday_Night_Wrist",
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Hole in the Earth"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Beware"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Cherry Waves"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Rivière"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Kimdracula"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Abe Cunningham",
+          "sameAs": "https://en.wikipedia.org/wiki/Abe_Cunningham",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Deftones"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drum kit did Abe Cunningham use on Saturday Night Wrist?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Abe Cunningham recorded Saturday Night Wrist in 2005-2006 using a Tama Starclassic Maple/Birch hybrid kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What Deftones album followed the White Pony era?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "After White Pony (2000) came the self-titled Deftones album (2003), followed by Saturday Night Wrist (2006). Saturday Night Wrist is the fifth Deftones studio album and the last to feature Chi Cheng playing bass throughout."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who produced Saturday Night Wrist?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Saturday Night Wrist was produced by Terry Date, Bob Ezrin, and Deftones themselves, across fractured sessions that stretched over multiple years."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Is Saturday Night Wrist the last Deftones album with Chi Cheng?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — Saturday Night Wrist (2006) is the last Deftones studio album to feature Chi Cheng playing bass throughout. He was severely injured in a car accident in November 2008 and passed away in April 2013."
+              }
+            }
+          ]
+        }
+      ]
     }
   }
 };

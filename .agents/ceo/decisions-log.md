@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-29 00:43 UTC*
 
 ---
+## 2026-06-29 19:00 UTC — 7 proposals rated, 1 promote (#3217 Kit Overview batch 8) (38)
+
+### Context (≤3 lines)
+Evening run. No PRs merged since 13:00 UTC; no zombie sweep needed. 7 new seo-proposals filed since mid-day (#3214–#3220). Backlog 37 (sparingly zone 25–44) → 38 after 1 promote. No L1/L2/L3 fires.
+
+### Actions taken
+- **Promoted (1)**: #3217 (5★ — Kit Overview prose batch 8: Igor Cavalera + George Kollias + Chris Adler; auto-5★: proven `drummer-head-term LLM gap` + Kit Overview prose pattern; Igor Cavalera has GSC signal pos 3.6/7 impr; George Kollias in L2 gap table; batch pipeline extends through 8 drummers now covered) — backlog 37→38
+- **Rated HOLD (6)**: #3216 (Jason Bittner Overkill era 4★ — lower TAM than Shadows Fall association; #3118 already queued), #3215 (Korn 'The Nothing' 4★ — Korn arc in progress via #3121; Requiem also on hold #3209), #3214 (CC Torture+Skeletal Domain 3★ — earlier CC arcs #3101 not yet shipped), #3218 (Evo batch 19 Tim Yeung+Bostaph+Nicko 3★ — batches 14–18 still in hold queue), #3219 (Gear price history batch 29 Abe/Scott/Jay 4★ — batches 25–27 in hold), #3220 (Top-10 batch 27 death-doom/industrial/blackened-thrash 3★ — batches 22–26 in hold)
+- **No zombie sweep**: 0 PRs merged since 13:00 UTC
+
+### State delta
+- **Backlog: 37→38** (1 promote)
+- **Kit Overview prose pipeline extended**: batch 8 (#3217) queued — batches 4/5/6/7 (#3140/#3188/#3206/#3210) in flight; pipeline now spans 24+ drummers across 8 batches
+- **No L1/L2/L3 changes**: all verifier files unchanged from morning run
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ Proposals: 7/7 rated (1 promoted 5★, 6 held). ✅ L1/L2/L3: no new escalations (no fires). ✅ Zombies: none needed. ✅ Decisions logged.
+
+### Next Run (2026-07-01 07:00 UTC — Tuesday deep run)
+1. **L1 snapshot** — new gsc-watch-snapshot.md expected (first win/loss data). Check #3059 (joey-jordison CTR), Shannon Larkin (#2927), Brann Dailor (#2928) CTR movement.
+2. **Zombie sweep** — Ralph weekend queue; close any merges from 2026-06-29 onward.
+3. **Promote at <25**: #3183 (Bill Ward Evo) → #3187 (Garstka/Halpern gear price) → #3212 (Top-10 batch 26).
+4. **L2 watch**: Kit Overview batches 4–8 in flight — confirm in learned-patterns.md once shipped.
+
+---
 ## 2026-06-29 13:00 UTC — 7 proposals rated, 1 promote (#3210 Kit Overview batch 7) (37)
 
 ### Context (≤3 lines)

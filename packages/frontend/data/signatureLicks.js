@@ -324,20 +324,27 @@ export function getRandomLick({ drummerSlug, difficulty } = {}) {
  * Returns the same lick for everyone on the same day
  */
 export function getLickOfTheDay(date = new Date()) {
-  const licks = Object.values(SIGNATURE_LICKS);
+  // Only feature licks that actually have a playable video (primary or tutorial).
+  // The widget renders a ▶️ play button and links to the lick page; landing on a
+  // video-less lick shows a broken/empty player ("Lick of the Day video is
+  // broken"). Filtering here guarantees the daily pick always has a real video,
+  // so a newly-added video-less lick can never become the broken Lick of the Day.
+  const licks = Object.values(SIGNATURE_LICKS).filter(
+    (l) => l && (l.video?.youtubeId || l.tutorial?.youtubeId)
+  );
   if (licks.length === 0) return null;
-  
+
   // Create a deterministic "seed" from the date
   const year = date.getFullYear();
   const month = date.getMonth();
   const day = date.getDate();
-  
+
   // Simple hash: combine date parts into a single number
   const seed = year * 10000 + month * 100 + day;
-  
+
   // Use the seed to select a lick (modulo ensures we stay in bounds)
   const index = seed % licks.length;
-  
+
   return licks[index];
 }
 

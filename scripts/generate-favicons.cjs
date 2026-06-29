@@ -1,117 +1,109 @@
 #!/usr/bin/env node
 /**
- * Generates all favicon assets from the master SVG:
- *   favicon-16x16.png, favicon-32x32.png, favicon-48x48.png,
- *   favicon-180x180.png (apple-touch-icon), favicon-512x512.png,
- *   favicon.ico  (embedded 16 + 32 + 48 PNG frames)
+ * Favicon generator — Issue #2923
+ * Reads public/favicon.svg, renders PNG at each required size using sharp,
+ * writes a multi-size favicon.ico (embedded-PNG format), and copies
+ * everything to packages/frontend/web/ and packages/frontend/assets/.
  *
- * Output mirrors to both public/ and packages/frontend/web/
- *
- * Requires: sharp  (already in the project's node_modules)
- * Run:      node scripts/generate-favicons.js
+ * Usage: node scripts/generate-favicons.js
  */
 
-const path = require('path');
-const fs   = require('fs');
 const sharp = require('sharp');
+const fs = require('fs');
+const path = require('path');
 
-const ROOT   = path.resolve(__dirname, '..');
-const SVG    = path.join(ROOT, 'packages/frontend/web/favicon.svg');
-const DESTS  = [
-  path.join(ROOT, 'public'),
-  path.join(ROOT, 'packages/frontend/web'),
+const ROOT = path.resolve(__dirname, '..');
+const SVG_PATH = path.join(ROOT, 'public', 'favicon.svg');
+
+const OUTPUTS = [
+  { name: 'favicon-16x16.png',   size: 16  },
+  { name: 'favicon-32x32.png',   size: 32  },
+  { name: 'favicon-48x48.png',   size: 48  },
+  { name: 'apple-touch-icon.png',size: 180 },
+  { name: 'favicon-512x512.png', size: 512 },
 ];
-const EXPO_ASSETS = path.join(ROOT, 'packages/frontend/assets');
 
-const svgBuf = fs.readFileSync(SVG);
+const DEST_DIRS = [
+  path.join(ROOT, 'public'),
+  path.join(ROOT, 'packages', 'frontend', 'web'),
+];
 
-const SIZES = [16, 32, 48, 180, 512];
+/** Build an ICO file with embedded PNGs for the given size array. */
+function buildIco(pngBuffers, sizes) {
+  const count = pngBuffers.length;
+  const dirSize = 16 * count;
+  const headerSize = 6;
+  const dataOffset = headerSize + dirSize;
 
-async function renderPng(size) {
-  return sharp(svgBuf)
-    .resize(size, size)
-    .png({ compressionLevel: 9 })
-    .toBuffer();
-}
-
-/**
- * Builds a multi-image .ico file.
- * Modern ICO files embed PNG frames directly (works in all current browsers).
- * Format:
- *   ICONDIR  (6 bytes)
- *   ICONDIRENTRY * n  (16 bytes each)
- *   PNG data for each image
- */
-function buildIco(frames) {
-  const count  = frames.length;
-  const HEADER = 6;
-  const ENTRY  = 16;
-  const dataOffset = HEADER + count * ENTRY;
-
-  const header = Buffer.alloc(HEADER);
-  header.writeUInt16LE(0,     0); // reserved
-  header.writeUInt16LE(1,     2); // type: 1 = ICO
-  header.writeUInt16LE(count, 4);
-
-  const entries = Buffer.alloc(count * ENTRY);
+  // Compute offsets for each image block
+  const offsets = [];
   let offset = dataOffset;
-  frames.forEach(({ size, png }, i) => {
-    const base = i * ENTRY;
-    const dim  = size >= 256 ? 0 : size; // 0 encodes 256
-    entries.writeUInt8(dim,       base +  0); // width
-    entries.writeUInt8(dim,       base +  1); // height
-    entries.writeUInt8(0,         base +  2); // color count (0 = not indexed)
-    entries.writeUInt8(0,         base +  3); // reserved
-    entries.writeUInt16LE(1,      base +  4); // planes
-    entries.writeUInt16LE(32,     base +  6); // bit count
-    entries.writeUInt32LE(png.length, base + 8);
-    entries.writeUInt32LE(offset,     base + 12);
-    offset += png.length;
-  });
+  for (const buf of pngBuffers) {
+    offsets.push(offset);
+    offset += buf.length;
+  }
 
-  return Buffer.concat([header, entries, ...frames.map(f => f.png)]);
+  const header = Buffer.alloc(6);
+  header.writeUInt16LE(0,     0); // reserved
+  header.writeUInt16LE(1,     2); // type: ICO
+  header.writeUInt16LE(count, 4); // image count
+
+  const directory = Buffer.alloc(dirSize);
+  for (let i = 0; i < count; i++) {
+    const base = i * 16;
+    const sz = sizes[i];
+    directory.writeUInt8(sz >= 256 ? 0 : sz, base);     // width
+    directory.writeUInt8(sz >= 256 ? 0 : sz, base + 1); // height
+    directory.writeUInt8(0, base + 2);                   // color count
+    directory.writeUInt8(0, base + 3);                   // reserved
+    directory.writeUInt16LE(1, base + 4);                // color planes
+    directory.writeUInt16LE(32, base + 6);               // bits per pixel
+    directory.writeUInt32LE(pngBuffers[i].length, base + 8);  // image size
+    directory.writeUInt32LE(offsets[i], base + 12);           // image offset
+  }
+
+  return Buffer.concat([header, directory, ...pngBuffers]);
 }
 
 async function main() {
-  console.log('Generating favicon assets from', SVG);
+  const svgBuffer = fs.readFileSync(SVG_PATH);
 
-  const pngBySize = {};
-  for (const size of SIZES) {
-    process.stdout.write(`  Rendering ${size}×${size} …`);
-    pngBySize[size] = await renderPng(size);
-    console.log(` ${pngBySize[size].length} bytes`);
+  // Render all sizes
+  const rendered = {};
+  for (const { name, size } of OUTPUTS) {
+    console.log(`  Rendering ${size}×${size} → ${name}`);
+    rendered[name] = await sharp(svgBuffer)
+      .resize(size, size)
+      .png({ compressionLevel: 9 })
+      .toBuffer();
   }
 
-  // Write PNG files to each destination
-  for (const dest of DESTS) {
-    fs.mkdirSync(dest, { recursive: true });
-
-    for (const size of SIZES) {
-      const name = size === 180 ? 'apple-touch-icon.png' : `favicon-${size}x${size}.png`;
-      fs.writeFileSync(path.join(dest, name), pngBySize[size]);
-      console.log(`  Written ${path.relative(ROOT, path.join(dest, name))}`);
+  // Write PNGs to all destination directories
+  for (const dir of DEST_DIRS) {
+    for (const { name } of OUTPUTS) {
+      const dest = path.join(dir, name);
+      fs.writeFileSync(dest, rendered[name]);
     }
-
-    // Build and write ICO (16 + 32 + 48 frames)
-    const ico = buildIco([
-      { size: 16, png: pngBySize[16] },
-      { size: 32, png: pngBySize[32] },
-      { size: 48, png: pngBySize[48] },
-    ]);
-    fs.writeFileSync(path.join(dest, 'favicon.ico'), ico);
-    console.log(`  Written ${path.relative(ROOT, path.join(dest, 'favicon.ico'))} (${ico.length} bytes)`);
-
-    // Also copy the master SVG
-    fs.copyFileSync(SVG, path.join(dest, 'favicon.svg'));
-    console.log(`  Written ${path.relative(ROOT, path.join(dest, 'favicon.svg'))}`);
+    console.log(`  Written PNGs → ${path.relative(ROOT, dir)}/`);
   }
 
-  // Expo assets/ — 180×180 used by app.json web.favicon (as generic icon)
-  fs.mkdirSync(EXPO_ASSETS, { recursive: true });
-  fs.writeFileSync(path.join(EXPO_ASSETS, 'favicon.png'), pngBySize[180]);
-  console.log(`  Written packages/frontend/assets/favicon.png (180×180)`);
+  // Build favicon.ico from 16, 32, 48 (standard multi-size ICO)
+  const icoSizes = [16, 32, 48];
+  const icoNameMap = { 16: 'favicon-16x16.png', 32: 'favicon-32x32.png', 48: 'favicon-48x48.png' };
+  const icoPngs = icoSizes.map(s => rendered[icoNameMap[s]]);
+  const icoBuffer = buildIco(icoPngs, icoSizes);
 
-  console.log('\nDone.');
+  for (const dir of DEST_DIRS) {
+    fs.writeFileSync(path.join(dir, 'favicon.ico'), icoBuffer);
+  }
+  console.log(`  Written favicon.ico (${icoSizes.join('/')} px)`);
+
+  // Write 48×48 as Expo assets/favicon.png
+  const expoFavicon = path.join(ROOT, 'packages', 'frontend', 'assets', 'favicon.png');
+  fs.writeFileSync(expoFavicon, rendered['favicon-48x48.png']);
+  console.log(`  Written Expo asset → packages/frontend/assets/favicon.png`);
+
+  console.log('Done.');
 }
 
 main().catch(err => { console.error(err); process.exit(1); });

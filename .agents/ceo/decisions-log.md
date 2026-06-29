@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-29 00:43 UTC*
 
 ---
+## 2026-06-29 22:00 UTC — 7 proposals rated, 1 promote (#3227 Kit Overview batch 9) (39)
+
+### Context (≤3 lines)
+Extra invocation after scheduled 19:00 run. Metrics fresh (07:43 UTC). 7 new seo-proposals filed since 19:00 UTC (#3221–#3227). Backlog 38 (sparingly zone) → 39 after 1 promote. No new zombie PRs since 19:00 UTC.
+
+### Actions taken
+- **Promoted (1)**: #3227 (5★ — Kit Overview prose batch 9: Bill Ward + Frost + Martin Axenrot; auto-5★: proven `drummer-head-term LLM gap` + Kit Overview prose pipeline; Bill Ward: "bill ward drum set" 12 impr / 16.67% CTR / pos 7.9; Frost: top-10 GA4 page 5 views; Martin Axenrot: Opeth drummer LLM gap, reinforces #3225 comparison pair) — backlog 38→39
+- **Rated HOLD (6)**: #3221 (CC Red Before Black/Violence Unimagined/Chaos Horrific 3★ — earlier CC arcs not yet shipped), #3222 (Sabbath Technical Ecstasy+Never Say Die! 3★ — album arcs lower priority than prose batches), #3223 (Megadeth Dystopia+Sick/Dying 3★ — Dirk lower TAM; Grammy hook noted for future), #3224 (Evo batch 20 Mike Mangini/Axenrot/Priester 3★ — batches 14–19 still in hold), #3225 (Comparison batch 41 incl. joey-jordison-vs-jay-weinberg 4★ — compelling pair but batches 37–40 in hold), #3226 (Top-10 batch 28 slam-death/jazz-fusion/sludge 3★ — lower TAM niches)
+- **Zombie sweep**: 0 PRs merged since 19:00 UTC
+
+### State delta
+- **Backlog: 38→39** (1 promote)
+- **Kit Overview prose pipeline extended**: batch 9 (#3227) queued — batches 4/5/6/7/8 (#3140/#3188/#3206/#3210/#3217) in flight
+- **No L1/L2/L3 changes**: verifier files unchanged
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ Proposals: 7/7 rated (1 promoted 5★, 6 held). ✅ L1/L2/L3: no new fires. ✅ Zombies: none. ✅ Decisions logged.
+
+### Next Run (2026-07-01 07:00 UTC — Tuesday deep run)
+1. **L1 snapshot** — first win/loss data expected. Check #3059 (joey-jordison CTR), #2927 (Shannon Larkin), #2928 (Brann Dailor) for position movement.
+2. **Zombie sweep** — Ralph weekend + Monday queue.
+3. **Promote at <25**: #3183 (Bill Ward Evo) → #3187 (Garstka/Halpern gear price) → #3212 (Top-10 batch 26).
+4. **L2 watch**: Kit Overview batches 4–9 in flight — log citations in learned-patterns.md once shipped.
+
+---
 ## 2026-06-29 19:00 UTC — 7 proposals rated, 1 promote (#3217 Kit Overview batch 8) (38)
 
 ### Context (≤3 lines)

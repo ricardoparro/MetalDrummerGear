@@ -27,6 +27,12 @@ Chris Adler's drum kit and gear setup. Chris Adler is a professional metal drumm
 | Signature snare | Mapex Chris Adler Signature 14x5.5" Walnut/Maple |
 | Sticks | Promark TX5AXW Chris Adler Signature |
 
+## Kit Overview
+
+Chris Adler plays a Mapex Black Panther Design Lab drum kit — the precision-engineered configuration that powered [Lamb of God](https://metalforge.io/drummer/chris-adler)'s rise from underground metal to one of the most successful American metal bands of the 21st century. The Mapex Black Panther's dry, focused tone delivers the cutting attack central to Adler's groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath — albums that defined the New Wave of American Heavy Metal.
+
+The cornerstone of the Chris Adler drum set is his Mapex Chris Adler Signature 14×5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls with the precise crack essential for Lamb of God's syncopated riff-locking grooves. Meinl Byzance Series cymbals complete the drum kit: 14" Dark Hi-Hats for dry, controlled articulation; 18" and 19" Dark Crashes for explosive accent bursts; a 21" Transition Ride for clear rhythmic articulation; and an 18" Extra Dry China for raw, cutting punctuation. A Mapex Falcon double pedal and Promark TX5AXW Chris Adler Signature sticks complete this drum set defined by precision groove and Grammy-winning power. See the full [Chris Adler drum kit profile](https://metalforge.io/drummer/chris-adler) on MetalForge.
+
 ## Biography
 
 Chris Adler, born in 1972 in Richmond, Virginia, is best known as the co-founder and former drummer of Lamb of God. His precision double bass drumming and innovative groove patterns helped define the New Wave of American Heavy Metal. Adler's work on albums like "Ashes of the Wake" and "Sacrament" showcased his ability to combine technical proficiency with raw power. He briefly played with Megadeth on their 2016 album "Dystopia." His drumming style emphasizes groove, power, and precision, influencing a generation of metal drummers.

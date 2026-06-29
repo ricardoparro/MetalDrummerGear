@@ -2,11 +2,11 @@
 
 *Auto-written by `.github/workflows/check-gsc-watched-queries.yml`. Do not edit by hand. CEO Agent: read this every run when deciding which seo-proposal patterns to keep promoting. Scan-all model: every query GSC surfaced this week, classified against the prior week.*
 
-**Generated:** 2026-06-24T22:53:02.486Z
-**Site:** https://metalforge.io/ · **Window:** last 7 days · **Compared against:** _(first run — no prior week)_
-**Queries this week:** 186
+**Generated:** 2026-06-29T09:47:08.539Z
+**Site:** https://metalforge.io/ · **Window:** last 7 days · **Compared against:** 2026-06-24.json
+**Queries this week:** 239
 
-**Counts:** new=43 · noise=143
+**Counts:** big-loss=1 · ctr-gap-opportunity=3 · big-win=9 · new=10 · null=116 · noise=157
 
 ## Classification rules
 
@@ -22,126 +22,211 @@
 
 ## All queries, grouped by class
 
-### ⚠️ Big losses (0)
+### ⚠️ Big losses (1)
 
-_(none)_
+| Query | Last week | This week | Reason |
+| --- | --- | --- | --- |
+| `matt greiner drum setup` | pos 6.2 • impr 12 • cl 4 | pos 7.5 • impr 13 • cl 0 | clicks 4 → 0 (≤0.5x) |
 
 ### 🌑 Disappeared (0)
 
 _(none)_
 
-### 🔥 CTR-gap opportunities (0)
-
-_(none)_
-
-### 🏆 Big wins (0)
-
-_(none)_
-
-### 🌟 New queries surfacing (43)
+### 🔥 CTR-gap opportunities (3)
 
 | Query | Last week | This week | Reason |
 | --- | --- | --- | --- |
-| `joey jordison drum set` | _(new — no prior week)_ | pos 8.3 • impr 134 • cl 0 | first appearance — pos 8.3, 134 impr, 0 cl |
-| `joey jordison drum kit` | _(new — no prior week)_ | pos 8.5 • impr 85 • cl 2 | first appearance — pos 8.5, 85 impr, 2 cl |
-| `mario duplantier drum kit` | _(new — no prior week)_ | pos 10.0 • impr 32 • cl 1 | first appearance — pos 10.0, 32 impr, 1 cl |
-| `joey jordison instruments` | _(new — no prior week)_ | pos 9.7 • impr 28 • cl 0 | first appearance — pos 9.7, 28 impr, 0 cl |
-| `brann dailor drum kit` | _(new — no prior week)_ | pos 6.3 • impr 23 • cl 0 | first appearance — pos 6.3, 23 impr, 0 cl |
-| `vinnie paul drum kit` | _(new — no prior week)_ | pos 10.4 • impr 22 • cl 0 | first appearance — pos 10.4, 22 impr, 0 cl |
-| `eloy casagrande drum kit` | _(new — no prior week)_ | pos 8.6 • impr 19 • cl 1 | first appearance — pos 8.6, 19 impr, 1 cl |
-| `joey jordison kit` | _(new — no prior week)_ | pos 7.4 • impr 18 • cl 0 | first appearance — pos 7.4, 18 impr, 0 cl |
-| `joey jordison drum setup` | _(new — no prior week)_ | pos 8.8 • impr 17 • cl 0 | first appearance — pos 8.8, 17 impr, 0 cl |
-| `shannon larkin drum kit` | _(new — no prior week)_ | pos 4.8 • impr 13 • cl 0 | first appearance — pos 4.8, 13 impr, 0 cl |
-| `matt greiner drum setup` | _(new — no prior week)_ | pos 6.2 • impr 12 • cl 4 | first appearance — pos 6.2, 12 impr, 4 cl |
-| `inferno drum kit` | _(new — no prior week)_ | pos 7.4 • impr 12 • cl 1 | first appearance — pos 7.4, 12 impr, 1 cl |
-| `danny carey drum set` | _(new — no prior week)_ | pos 18.7 • impr 12 • cl 0 | first appearance — pos 18.7, 12 impr, 0 cl |
-| `joey jordison first drum kit age` | _(new — no prior week)_ | pos 11.0 • impr 12 • cl 0 | first appearance — pos 11.0, 12 impr, 0 cl |
-| `joey jordison instruments played` | _(new — no prior week)_ | pos 10.5 • impr 10 • cl 0 | first appearance — pos 10.5, 10 impr, 0 cl |
-| `danny carey drum kit` | _(new — no prior week)_ | pos 17.0 • impr 9 • cl 0 | first appearance — pos 17.0, 9 impr, 0 cl |
-| `joey jordison drumset` | _(new — no prior week)_ | pos 9.6 • impr 9 • cl 0 | first appearance — pos 9.6, 9 impr, 0 cl |
-| `matt halpern` | _(new — no prior week)_ | pos 36.8 • impr 9 • cl 0 | first appearance — pos 36.8, 9 impr, 0 cl |
-| `matt halpern age` | _(new — no prior week)_ | pos 8.0 • impr 9 • cl 0 | first appearance — pos 8.0, 9 impr, 0 cl |
-| `matt halpern drum kit` | _(new — no prior week)_ | pos 9.3 • impr 8 • cl 1 | first appearance — pos 9.3, 8 impr, 1 cl |
-| `aquiles priester drum kit` | _(new — no prior week)_ | pos 8.3 • impr 8 • cl 0 | first appearance — pos 8.3, 8 impr, 0 cl |
-| `joey jordison drumkit` | _(new — no prior week)_ | pos 5.3 • impr 8 • cl 0 | first appearance — pos 5.3, 8 impr, 0 cl |
-| `matt halpern drum setup` | _(new — no prior week)_ | pos 8.5 • impr 8 • cl 0 | first appearance — pos 8.5, 8 impr, 0 cl |
-| `igor cavalera drum kit` | _(new — no prior week)_ | pos 3.6 • impr 7 • cl 1 | first appearance — pos 3.6, 7 impr, 1 cl |
-| `danny carey drum setup` | _(new — no prior week)_ | pos 15.0 • impr 7 • cl 0 | first appearance — pos 15.0, 7 impr, 0 cl |
-| `mario duplantier cymbals` | _(new — no prior week)_ | pos 12.9 • impr 7 • cl 0 | first appearance — pos 12.9, 7 impr, 0 cl |
-| `nick augusto` | _(new — no prior week)_ | pos 12.4 • impr 7 • cl 0 | first appearance — pos 12.4, 7 impr, 0 cl |
-| `matt garstka drum kit` | _(new — no prior week)_ | pos 7.0 • impr 6 • cl 1 | first appearance — pos 7.0, 6 impr, 1 cl |
-| `brann dailor` | _(new — no prior week)_ | pos 13.0 • impr 6 • cl 0 | first appearance — pos 13.0, 6 impr, 0 cl |
-| `eloy casagrande drum set` | _(new — no prior week)_ | pos 9.3 • impr 6 • cl 0 | first appearance — pos 9.3, 6 impr, 0 cl |
-| `eloy casagrande drum setup` | _(new — no prior week)_ | pos 13.5 • impr 6 • cl 0 | first appearance — pos 13.5, 6 impr, 0 cl |
-| `joey jordison drum kit for sale` | _(new — no prior week)_ | pos 5.7 • impr 6 • cl 0 | first appearance — pos 5.7, 6 impr, 0 cl |
-| `joey jordison drum set up` | _(new — no prior week)_ | pos 10.5 • impr 6 • cl 0 | first appearance — pos 10.5, 6 impr, 0 cl |
-| `mastodon drummer` | _(new — no prior week)_ | pos 8.8 • impr 6 • cl 0 | first appearance — pos 8.8, 6 impr, 0 cl |
-| `joey jordison iowa drum kit` | _(new — no prior week)_ | pos 6.6 • impr 5 • cl 1 | first appearance — pos 6.6, 5 impr, 1 cl |
-| `danny carey kit` | _(new — no prior week)_ | pos 12.4 • impr 5 • cl 0 | first appearance — pos 12.4, 5 impr, 0 cl |
-| `drum set joey jordison` | _(new — no prior week)_ | pos 9.4 • impr 5 • cl 0 | first appearance — pos 9.4, 5 impr, 0 cl |
-| `hellhammer drummer` | _(new — no prior week)_ | pos 18.4 • impr 5 • cl 0 | first appearance — pos 18.4, 5 impr, 0 cl |
-| `jay weinberg drum kit` | _(new — no prior week)_ | pos 9.2 • impr 5 • cl 0 | first appearance — pos 9.2, 5 impr, 0 cl |
-| `joey jordison cymbals` | _(new — no prior week)_ | pos 12.2 • impr 5 • cl 0 | first appearance — pos 12.2, 5 impr, 0 cl |
-| `mario duplantier drum setup` | _(new — no prior week)_ | pos 7.4 • impr 5 • cl 0 | first appearance — pos 7.4, 5 impr, 0 cl |
-| `mario duplantier ride cymbal` | _(new — no prior week)_ | pos 9.8 • impr 5 • cl 0 | first appearance — pos 9.8, 5 impr, 0 cl |
-| `what drum kit did joey jordison use` | _(new — no prior week)_ | pos 7.6 • impr 5 • cl 0 | first appearance — pos 7.6, 5 impr, 0 cl |
+| `eloy casagrande drum kit` | pos 8.6 • impr 19 • cl 1 | pos 9.2 • impr 24 • cl 0 | pos 9.2 · 24 impr · CTR 0.00% (≥20 impr at top-10 with <1% CTR — title/snippet mismatch) |
+| `joey jordison instruments` | pos 9.7 • impr 28 • cl 0 | pos 9.5 • impr 24 • cl 0 | pos 9.5 · 24 impr · CTR 0.00% (≥20 impr at top-10 with <1% CTR — title/snippet mismatch) |
+| `joey jordison kit` | pos 7.4 • impr 18 • cl 0 | pos 7.8 • impr 20 • cl 0 | pos 7.8 · 20 impr · CTR 0.00% (≥20 impr at top-10 with <1% CTR — title/snippet mismatch) |
 
-### 😐 Null (within noise band) (0)
-
-_(none)_
-
-### 🌫️ Noise (sub-threshold) (143)
+### 🏆 Big wins (9)
 
 | Query | Last week | This week | Reason |
 | --- | --- | --- | --- |
-| `morgan agren` | _(new — no prior week)_ | pos 38.0 • impr 4 • cl 1 | first appearance with <5 impressions — too small to act on |
-| `art cruz drum setup` | _(new — no prior week)_ | pos 7.5 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `chris adler drum set` | _(new — no prior week)_ | pos 8.8 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `chris adler drum setup` | _(new — no prior week)_ | pos 9.8 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `drum kit joey jordison` | _(new — no prior week)_ | pos 9.3 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `drummer mastodon` | _(new — no prior week)_ | pos 9.0 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `frost drummer` | _(new — no prior week)_ | pos 17.0 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `george kollias drum kit` | _(new — no prior week)_ | pos 9.3 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `jaska raatikainen` | _(new — no prior week)_ | pos 40.0 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `joey jordison drum kit setup` | _(new — no prior week)_ | pos 9.8 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `mario duplantier cymbal setup` | _(new — no prior week)_ | pos 7.5 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `matt garstka setup` | _(new — no prior week)_ | pos 6.5 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `mikkey dee drums` | _(new — no prior week)_ | pos 8.0 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `vinnie paul drum set` | _(new — no prior week)_ | pos 11.3 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `gene hoglan drum kit` | _(new — no prior week)_ | pos 8.0 • impr 3 • cl 2 | first appearance with <5 impressions — too small to act on |
-| `aquiles priester drum set` | _(new — no prior week)_ | pos 11.3 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `behemoth drum kit` | _(new — no prior week)_ | pos 11.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `ben koller` | _(new — no prior week)_ | pos 32.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `danny carey gear` | _(new — no prior week)_ | pos 12.3 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `dirk verbeuren drum kit` | _(new — no prior week)_ | pos 6.3 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `eloy casagrande setup` | _(new — no prior week)_ | pos 9.3 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `flo mounier` | _(new — no prior week)_ | pos 23.3 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `frost drumming` | _(new — no prior week)_ | pos 19.7 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `frost satyricon` | _(new — no prior week)_ | pos 19.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `gene hoglan cymbals` | _(new — no prior week)_ | pos 9.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `george kollias` | _(new — no prior week)_ | pos 26.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `hellhammer drum kit` | _(new — no prior week)_ | pos 3.7 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `hellhammer drum set` | _(new — no prior week)_ | pos 5.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `how much does danny carey's drum set cost` | _(new — no prior week)_ | pos 7.7 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `igor cavalera soulwax` | _(new — no prior week)_ | pos 12.7 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `jay weinberg drum set` | _(new — no prior week)_ | pos 13.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `jocke wallgren` | _(new — no prior week)_ | pos 17.7 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `mario duplantier drum set` | _(new — no prior week)_ | pos 12.3 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `mario duplantier gear` | _(new — no prior week)_ | pos 4.7 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `mario duplantier kit` | _(new — no prior week)_ | pos 11.3 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `matt greiner` | _(new — no prior week)_ | pos 18.7 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `mikkey dee drum kit` | _(new — no prior week)_ | pos 5.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `vic firth mario duplantier` | _(new — no prior week)_ | pos 12.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `vinnie paul kit` | _(new — no prior week)_ | pos 10.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `what cymbals does mario duplantier use` | _(new — no prior week)_ | pos 8.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `who is the fastest drummer in metal` | _(new — no prior week)_ | pos 8.3 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `flo mounier drum kit` | _(new — no prior week)_ | pos 5.0 • impr 2 • cl 1 | first appearance with <5 impressions — too small to act on |
-| `igor cavalera drum setup` | _(new — no prior week)_ | pos 6.0 • impr 2 • cl 1 | first appearance with <5 impressions — too small to act on |
-| `matt greiner drum kit` | _(new — no prior week)_ | pos 5.0 • impr 2 • cl 1 | first appearance with <5 impressions — too small to act on |
-| `behemoth inferno drummer` | _(new — no prior week)_ | pos 11.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `ben koller drum setup` | _(new — no prior week)_ | pos 3.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `ben koller drums` | _(new — no prior week)_ | pos 11.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `blake richardson drums` | _(new — no prior week)_ | pos 27.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `brann dailor kit` | _(new — no prior week)_ | pos 5.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
-| `danny carey drum kit specs` | _(new — no prior week)_ | pos 11.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
-| _…and 93 more — see snapshot file for the full list_ | | | |
+| `joey jordison drum set` | pos 8.3 • impr 134 • cl 0 | pos 7.5 • impr 130 • cl 1 | clicks 0 → 1 (first clicks) · pos 7.5 · 130 impr |
+| `nick augusto` | pos 12.4 • impr 7 • cl 0 | pos 9.9 • impr 34 • cl 1 | impr 7 → 34 (4.9x) |
+| `danny carey drum kit` | pos 17.0 • impr 9 • cl 0 | pos 12.3 • impr 29 • cl 0 | pos 17.0 → 12.3 (↑4.7) · impr 9 → 29 |
+| `joey jordison drumset` | pos 9.6 • impr 9 • cl 0 | pos 7.7 • impr 13 • cl 1 | clicks 0 → 1 (first clicks) · pos 7.7 · 13 impr |
+| `danny carey drum setup` | pos 15.0 • impr 7 • cl 0 | pos 11.6 • impr 12 • cl 0 | pos 15.0 → 11.6 (↑3.4) · impr 7 → 12 |
+| `jocke wallgren` | pos 17.7 • impr 3 • cl 0 | pos 11.3 • impr 12 • cl 0 | pos 17.7 → 11.3 (↑6.3) · impr 3 → 12 |
+| `danny carey drum set` | pos 18.7 • impr 12 • cl 0 | pos 15.5 • impr 11 • cl 0 | pos 18.7 → 15.5 (↑3.2) · impr 12 → 11 |
+| `eloy casagrande drum setup` | pos 13.5 • impr 6 • cl 0 | pos 8.5 • impr 10 • cl 0 | pos 13.5 → 8.5 (↑5.0) · impr 6 → 10 |
+| `mario duplantier cymbals` | pos 12.9 • impr 7 • cl 0 | pos 7.8 • impr 10 • cl 0 | pos 12.9 → 7.8 (↑5.1) · impr 7 → 10 |
+
+### 🌟 New queries surfacing (10)
+
+| Query | Last week | This week | Reason |
+| --- | --- | --- | --- |
+| `blake richardson actor` | _(new — no prior week)_ | pos 2.9 • impr 15 • cl 0 | first appearance — pos 2.9, 15 impr, 0 cl |
+| `bill ward drum kit` | _(new — no prior week)_ | pos 7.0 • impr 13 • cl 0 | first appearance — pos 7.0, 13 impr, 0 cl |
+| `bill ward drum set` | _(new — no prior week)_ | pos 8.0 • impr 12 • cl 2 | first appearance — pos 8.0, 12 impr, 2 cl |
+| `bill ward drum setup` | _(new — no prior week)_ | pos 7.5 • impr 11 • cl 0 | first appearance — pos 7.5, 11 impr, 0 cl |
+| `john otto drum sticks` | _(new — no prior week)_ | pos 10.5 • impr 6 • cl 0 | first appearance — pos 10.5, 6 impr, 0 cl |
+| `blake richardson movies and tv shows` | _(new — no prior week)_ | pos 2.4 • impr 5 • cl 0 | first appearance — pos 2.4, 5 impr, 0 cl |
+| `how much does lars ulrich drum set cost` | _(new — no prior week)_ | pos 9.4 • impr 5 • cl 0 | first appearance — pos 9.4, 5 impr, 0 cl |
+| `john otto drumset` | _(new — no prior week)_ | pos 6.0 • impr 5 • cl 0 | first appearance — pos 6.0, 5 impr, 0 cl |
+| `what cymbals did joey jordison use` | _(new — no prior week)_ | pos 10.4 • impr 5 • cl 0 | first appearance — pos 10.4, 5 impr, 0 cl |
+| `what drum heads did joey jordison use` | _(new — no prior week)_ | pos 8.6 • impr 5 • cl 0 | first appearance — pos 8.6, 5 impr, 0 cl |
+
+### 😐 Null (within noise band) (116)
+
+| Query | Last week | This week | Reason |
+| --- | --- | --- | --- |
+| `joey jordison drum kit` | pos 8.5 • impr 85 • cl 2 | pos 7.3 • impr 86 • cl 2 | pos 7.3 · impr 86 (1.0x) · cl 2 |
+| `mario duplantier drum kit` | pos 10.0 • impr 32 • cl 1 | pos 11.6 • impr 42 • cl 1 | pos 11.6 · impr 42 (1.3x) · cl 1 |
+| `brann dailor drum kit` | pos 6.3 • impr 23 • cl 0 | pos 6.8 • impr 19 • cl 0 | pos 6.8 · impr 19 (0.8x) · cl 0 |
+| `jay weinberg drum kit` | pos 9.2 • impr 5 • cl 0 | pos 7.5 • impr 16 • cl 0 | pos 7.5 · impr 16 (3.2x) · cl 0 |
+| `joey jordison drum setup` | pos 8.8 • impr 17 • cl 0 | pos 6.8 • impr 16 • cl 0 | pos 6.8 · impr 16 (0.9x) · cl 0 |
+| `aquiles priester drum kit` | pos 8.3 • impr 8 • cl 0 | pos 9.9 • impr 11 • cl 0 | pos 9.9 · impr 11 (1.4x) · cl 0 |
+| `john otto drum kit` | pos 7.0 • impr 1 • cl 0 | pos 6.8 • impr 10 • cl 0 | pos 6.8 · impr 10 (10.0x) · cl 0 |
+| `jaska raatikainen drum set` | pos 2.0 • impr 1 • cl 1 | pos 3.9 • impr 9 • cl 3 | pos 3.9 · impr 9 (9.0x) · cl 3 |
+| `shannon larkin drum kit` | pos 4.8 • impr 13 • cl 0 | pos 5.1 • impr 9 • cl 1 | pos 5.1 · impr 9 (0.7x) · cl 1 |
+| `dirk verbeuren drum kit` | pos 6.3 • impr 3 • cl 0 | pos 7.8 • impr 9 • cl 0 | pos 7.8 · impr 9 (3.0x) · cl 0 |
+| `joey jordison signature drum kit` | pos 8.5 • impr 2 • cl 0 | pos 8.2 • impr 9 • cl 0 | pos 8.2 · impr 9 (4.5x) · cl 0 |
+| `aquiles priester drum set` | pos 11.3 • impr 3 • cl 0 | pos 10.0 • impr 8 • cl 0 | pos 10.0 · impr 8 (2.7x) · cl 0 |
+| `joey jordison drum set up` | pos 10.5 • impr 6 • cl 0 | pos 6.6 • impr 8 • cl 0 | pos 6.6 · impr 8 (1.3x) · cl 0 |
+| `joey jordison first drum kit age` | pos 11.0 • impr 12 • cl 0 | pos 10.1 • impr 8 • cl 0 | pos 10.1 · impr 8 (0.7x) · cl 0 |
+| `joey jordison instruments played` | pos 10.5 • impr 10 • cl 0 | pos 9.9 • impr 8 • cl 0 | pos 9.9 · impr 8 (0.8x) · cl 0 |
+| `danny carey gear` | pos 12.3 • impr 3 • cl 0 | pos 10.4 • impr 7 • cl 0 | pos 10.4 · impr 7 (2.3x) · cl 0 |
+| `jay weinberg drum set` | pos 13.0 • impr 3 • cl 0 | pos 13.4 • impr 7 • cl 0 | pos 13.4 · impr 7 (2.3x) · cl 0 |
+| `joey jordison cymbals` | pos 12.2 • impr 5 • cl 0 | pos 11.1 • impr 7 • cl 0 | pos 11.1 · impr 7 (1.4x) · cl 0 |
+| `matt garstka drum kit` | pos 7.0 • impr 6 • cl 1 | pos 7.3 • impr 7 • cl 0 | pos 7.3 · impr 7 (1.2x) · cl 0 |
+| `matt halpern` | pos 36.8 • impr 9 • cl 0 | pos 31.0 • impr 7 • cl 0 | pos 31.0 · impr 7 (0.8x) · cl 0 |
+| `flo mounier drum kit` | pos 5.0 • impr 2 • cl 1 | pos 4.0 • impr 6 • cl 3 | pos 4.0 · impr 6 (3.0x) · cl 3 |
+| `how much does danny carey's drum set cost` | pos 7.7 • impr 3 • cl 0 | pos 6.7 • impr 6 • cl 0 | pos 6.7 · impr 6 (2.0x) · cl 0 |
+| `inferno drummer` | pos 13.5 • impr 2 • cl 0 | pos 11.7 • impr 6 • cl 0 | pos 11.7 · impr 6 (3.0x) · cl 0 |
+| `joey jordison 1999 drum kit` | pos 11.0 • impr 1 • cl 0 | pos 8.8 • impr 6 • cl 0 | pos 8.8 · impr 6 (6.0x) · cl 0 |
+| `joey jordison drum kit for sale` | pos 5.7 • impr 6 • cl 0 | pos 9.0 • impr 6 • cl 0 | pos 9.0 · impr 6 (1.0x) · cl 0 |
+| `joey jordison drum kit setup` | pos 9.8 • impr 4 • cl 0 | pos 10.0 • impr 6 • cl 0 | pos 10.0 · impr 6 (1.5x) · cl 0 |
+| `joey jordison drum set 1999` | pos 12.0 • impr 1 • cl 0 | pos 8.0 • impr 6 • cl 0 | pos 8.0 · impr 6 (6.0x) · cl 0 |
+| `mario duplantier drum set` | pos 12.3 • impr 3 • cl 0 | pos 9.0 • impr 6 • cl 0 | pos 9.0 · impr 6 (2.0x) · cl 0 |
+| `mikkey dee drum kit` | pos 5.0 • impr 3 • cl 0 | pos 4.8 • impr 6 • cl 0 | pos 4.8 · impr 6 (2.0x) · cl 0 |
+| `vinnie paul drum kit` | pos 10.4 • impr 22 • cl 0 | pos 9.7 • impr 6 • cl 0 | pos 9.7 · impr 6 (0.3x) · cl 0 |
+| `what cymbals does mario duplantier use` | pos 8.0 • impr 3 • cl 0 | pos 6.5 • impr 6 • cl 0 | pos 6.5 · impr 6 (2.0x) · cl 0 |
+| `frost drummer` | pos 17.0 • impr 4 • cl 0 | pos 12.8 • impr 5 • cl 1 | pos 12.8 · impr 5 (1.3x) · cl 1 |
+| `inferno drum kit` | pos 7.4 • impr 12 • cl 1 | pos 8.4 • impr 5 • cl 1 | pos 8.4 · impr 5 (0.4x) · cl 1 |
+| `ben koller` | pos 32.0 • impr 3 • cl 0 | pos 12.8 • impr 5 • cl 0 | pos 12.8 · impr 5 (1.7x) · cl 0 |
+| `ben koller drums` | pos 11.5 • impr 2 • cl 0 | pos 11.2 • impr 5 • cl 0 | pos 11.2 · impr 5 (2.5x) · cl 0 |
+| `brann dailor drum setup` | pos 13.0 • impr 1 • cl 0 | pos 8.2 • impr 5 • cl 0 | pos 8.2 · impr 5 (5.0x) · cl 0 |
+| `joey jordison cymbal setup` | pos 11.0 • impr 1 • cl 0 | pos 7.8 • impr 5 • cl 0 | pos 7.8 · impr 5 (5.0x) · cl 0 |
+| `joey jordison iowa drum kit` | pos 6.6 • impr 5 • cl 1 | pos 7.8 • impr 5 • cl 0 | pos 7.8 · impr 5 (1.0x) · cl 0 |
+| `joey jordison ocdp drum kit` | pos 11.0 • impr 2 • cl 0 | pos 10.6 • impr 5 • cl 0 | pos 10.6 · impr 5 (2.5x) · cl 0 |
+| `eloy casagrande drum set` | pos 9.3 • impr 6 • cl 0 | pos 8.3 • impr 4 • cl 1 | pos 8.3 · impr 4 (0.7x) · cl 1 |
+| `mario duplantier cymbal setup` | pos 7.5 • impr 4 • cl 0 | pos 6.0 • impr 4 • cl 1 | pos 6.0 · impr 4 (1.0x) · cl 1 |
+| `danny carey drum set cost` | pos 7.0 • impr 2 • cl 0 | pos 8.0 • impr 4 • cl 0 | pos 8.0 · impr 4 (2.0x) · cl 0 |
+| `drum kit joey jordison` | pos 9.3 • impr 4 • cl 0 | pos 8.8 • impr 4 • cl 0 | pos 8.8 · impr 4 (1.0x) · cl 0 |
+| `drum set joey jordison` | pos 9.4 • impr 5 • cl 0 | pos 7.8 • impr 4 • cl 0 | pos 7.8 · impr 4 (0.8x) · cl 0 |
+| `flo mounier` | pos 23.3 • impr 3 • cl 0 | pos 18.0 • impr 4 • cl 0 | pos 18.0 · impr 4 (1.3x) · cl 0 |
+| `george kollias drum kit` | pos 9.3 • impr 4 • cl 0 | pos 8.3 • impr 4 • cl 0 | pos 8.3 · impr 4 (1.0x) · cl 0 |
+| `hellhammer drummer` | pos 18.4 • impr 5 • cl 0 | pos 17.8 • impr 4 • cl 0 | pos 17.8 · impr 4 (0.8x) · cl 0 |
+| `hellhammer mayhem` | pos 20.0 • impr 1 • cl 0 | pos 14.5 • impr 4 • cl 0 | pos 14.5 · impr 4 (4.0x) · cl 0 |
+| `jay weinberg drum` | pos 17.5 • impr 2 • cl 0 | pos 17.5 • impr 4 • cl 0 | pos 17.5 · impr 4 (2.0x) · cl 0 |
+| `joey jordison signature kit` | pos 10.0 • impr 2 • cl 0 | pos 11.0 • impr 4 • cl 0 | pos 11.0 · impr 4 (2.0x) · cl 0 |
+| `mario duplantier drum setup` | pos 7.4 • impr 5 • cl 0 | pos 7.8 • impr 4 • cl 0 | pos 7.8 · impr 4 (0.8x) · cl 0 |
+| `matt greiner` | pos 18.7 • impr 3 • cl 0 | pos 14.0 • impr 4 • cl 0 | pos 14.0 · impr 4 (1.3x) · cl 0 |
+| `matt halpern drum setup` | pos 8.5 • impr 8 • cl 0 | pos 9.8 • impr 4 • cl 0 | pos 9.8 · impr 4 (0.5x) · cl 0 |
+| `mikkey dee drum setup` | pos 4.0 • impr 1 • cl 0 | pos 7.0 • impr 4 • cl 0 | pos 7.0 · impr 4 (4.0x) · cl 0 |
+| `mikkey dee drums` | pos 8.0 • impr 4 • cl 0 | pos 7.5 • impr 4 • cl 0 | pos 7.5 · impr 4 (1.0x) · cl 0 |
+| `brann dailor` | pos 13.0 • impr 6 • cl 0 | pos 13.0 • impr 3 • cl 0 | pos 13.0 · impr 3 (0.5x) · cl 0 |
+| `igor cavalera drum kit` | pos 3.6 • impr 7 • cl 1 | pos 3.3 • impr 3 • cl 0 | pos 3.3 · impr 3 (0.4x) · cl 0 |
+| `joey jordison drum kit 1999` | pos 12.0 • impr 1 • cl 0 | pos 6.0 • impr 3 • cl 0 | pos 6.0 · impr 3 (3.0x) · cl 0 |
+| `joey jordison drum set for sale` | pos 8.0 • impr 1 • cl 0 | pos 10.7 • impr 3 • cl 0 | pos 10.7 · impr 3 (3.0x) · cl 0 |
+| `joey jordison setup` | pos 11.5 • impr 2 • cl 0 | pos 6.0 • impr 3 • cl 0 | pos 6.0 · impr 3 (1.5x) · cl 0 |
+| `mario duplantier ride cymbal` | pos 9.8 • impr 5 • cl 0 | pos 10.0 • impr 3 • cl 0 | pos 10.0 · impr 3 (0.6x) · cl 0 |
+| `mastodon drum kit` | pos 5.0 • impr 1 • cl 0 | pos 6.0 • impr 3 • cl 0 | pos 6.0 · impr 3 (3.0x) · cl 0 |
+| `matt garstka drum set` | pos 20.0 • impr 1 • cl 0 | pos 10.7 • impr 3 • cl 0 | pos 10.7 · impr 3 (3.0x) · cl 0 |
+| `matt halpern drum kit` | pos 9.3 • impr 8 • cl 1 | pos 8.3 • impr 3 • cl 0 | pos 8.3 · impr 3 (0.4x) · cl 0 |
+| `slipknot joey jordison drum set` | pos 10.5 • impr 2 • cl 0 | pos 10.3 • impr 3 • cl 0 | pos 10.3 · impr 3 (1.5x) · cl 0 |
+| `what drums did joey jordison use` | pos 11.0 • impr 1 • cl 0 | pos 6.7 • impr 3 • cl 0 | pos 6.7 · impr 3 (3.0x) · cl 0 |
+| `igor cavalera drum setup` | pos 6.0 • impr 2 • cl 1 | pos 6.0 • impr 2 • cl 1 | pos 6.0 · impr 2 (1.0x) · cl 1 |
+| `morgan agren` | pos 38.0 • impr 4 • cl 1 | pos 38.0 • impr 2 • cl 1 | pos 38.0 · impr 2 (0.5x) · cl 1 |
+| `shannon larkin drum set` | pos 7.0 • impr 1 • cl 0 | pos 6.5 • impr 2 • cl 1 | pos 6.5 · impr 2 (2.0x) · cl 1 |
+| `behemoth inferno drummer` | pos 11.5 • impr 2 • cl 0 | pos 11.5 • impr 2 • cl 0 | pos 11.5 · impr 2 (1.0x) · cl 0 |
+| `blake richardson drummer` | pos 25.0 • impr 1 • cl 0 | pos 19.0 • impr 2 • cl 0 | pos 19.0 · impr 2 (2.0x) · cl 0 |
+| `brann dailor kit` | pos 5.5 • impr 2 • cl 0 | pos 8.0 • impr 2 • cl 0 | pos 8.0 · impr 2 (1.0x) · cl 0 |
+| `danny carey drum kit specs` | pos 11.5 • impr 2 • cl 0 | pos 14.0 • impr 2 • cl 0 | pos 14.0 · impr 2 (1.0x) · cl 0 |
+| `danny carey kit` | pos 12.4 • impr 5 • cl 0 | pos 10.5 • impr 2 • cl 0 | pos 10.5 · impr 2 (0.4x) · cl 0 |
+| `danny carey net worth` | pos 4.0 • impr 1 • cl 0 | pos 3.0 • impr 2 • cl 0 | pos 3.0 · impr 2 (2.0x) · cl 0 |
+| `eloy casagrande slipknot kit` | pos 11.0 • impr 1 • cl 0 | pos 6.0 • impr 2 • cl 0 | pos 6.0 · impr 2 (2.0x) · cl 0 |
+| `frost drum` | pos 12.0 • impr 1 • cl 0 | pos 9.5 • impr 2 • cl 0 | pos 9.5 · impr 2 (2.0x) · cl 0 |
+| `hellhammer drum kit` | pos 3.7 • impr 3 • cl 0 | pos 4.0 • impr 2 • cl 0 | pos 4.0 · impr 2 (0.7x) · cl 0 |
+| `hellhammer drum set` | pos 5.0 • impr 3 • cl 0 | pos 5.0 • impr 2 • cl 0 | pos 5.0 · impr 2 (0.7x) · cl 0 |
+| `hellhammer drums` | pos 13.0 • impr 2 • cl 0 | pos 13.0 • impr 2 • cl 0 | pos 13.0 · impr 2 (1.0x) · cl 0 |
+| `jay weinberg drum setup` | pos 11.0 • impr 2 • cl 0 | pos 10.0 • impr 2 • cl 0 | pos 10.0 · impr 2 (1.0x) · cl 0 |
+| `jay weinberg drumset` | pos 8.0 • impr 1 • cl 0 | pos 12.5 • impr 2 • cl 0 | pos 12.5 · impr 2 (2.0x) · cl 0 |
+| `jay weinberg kit` | pos 11.0 • impr 1 • cl 0 | pos 8.5 • impr 2 • cl 0 | pos 8.5 · impr 2 (2.0x) · cl 0 |
+| `joey jordison drum sets` | pos 12.5 • impr 2 • cl 0 | pos 13.0 • impr 2 • cl 0 | pos 13.0 · impr 2 (1.0x) · cl 0 |
+| `joey jordison drumkit` | pos 5.3 • impr 8 • cl 0 | pos 8.5 • impr 2 • cl 0 | pos 8.5 · impr 2 (0.3x) · cl 0 |
+| `mario duplantier gear` | pos 4.7 • impr 3 • cl 0 | pos 3.5 • impr 2 • cl 0 | pos 3.5 · impr 2 (0.7x) · cl 0 |
+| `mario duplantier kit` | pos 11.3 • impr 3 • cl 0 | pos 11.5 • impr 2 • cl 0 | pos 11.5 · impr 2 (0.7x) · cl 0 |
+| `matt garstka setup` | pos 6.5 • impr 4 • cl 0 | pos 8.0 • impr 2 • cl 0 | pos 8.0 · impr 2 (0.5x) · cl 0 |
+| `matt greiner drum kit` | pos 5.0 • impr 2 • cl 1 | pos 4.5 • impr 2 • cl 0 | pos 4.5 · impr 2 (1.0x) · cl 0 |
+| `matt greiner drummer` | pos 23.0 • impr 1 • cl 0 | pos 16.0 • impr 2 • cl 0 | pos 16.0 · impr 2 (2.0x) · cl 0 |
+| `matt halpern age` | pos 8.0 • impr 9 • cl 0 | pos 7.5 • impr 2 • cl 0 | pos 7.5 · impr 2 (0.2x) · cl 0 |
+| `metalforge` | pos 26.0 • impr 1 • cl 0 | pos 22.0 • impr 2 • cl 0 | pos 22.0 · impr 2 (2.0x) · cl 0 |
+| `mikkey dee` | pos 27.0 • impr 1 • cl 0 | pos 28.0 • impr 2 • cl 0 | pos 28.0 · impr 2 (2.0x) · cl 0 |
+| `vic firth mario duplantier` | pos 12.0 • impr 3 • cl 0 | pos 4.0 • impr 2 • cl 0 | pos 4.0 · impr 2 (0.7x) · cl 0 |
+| `gene hoglan drum kit` | pos 8.0 • impr 3 • cl 2 | pos 8.0 • impr 1 • cl 1 | pos 8.0 · impr 1 (0.3x) · cl 1 |
+| `art cruz drum setup` | pos 7.5 • impr 4 • cl 0 | pos 11.0 • impr 1 • cl 0 | pos 11.0 · impr 1 (0.3x) · cl 0 |
+| `behemoth drum kit` | pos 11.0 • impr 3 • cl 0 | pos 11.0 • impr 1 • cl 0 | pos 11.0 · impr 1 (0.3x) · cl 0 |
+| `ben koller converge` | pos 17.0 • impr 1 • cl 0 | pos 17.0 • impr 1 • cl 0 | pos 17.0 · impr 1 (1.0x) · cl 0 |
+| `ben koller drum setup` | pos 3.0 • impr 2 • cl 0 | pos 3.0 • impr 1 • cl 0 | pos 3.0 · impr 1 (0.5x) · cl 0 |
+| `chris adler drum setup` | pos 9.8 • impr 4 • cl 0 | pos 13.0 • impr 1 • cl 0 | pos 13.0 · impr 1 (0.3x) · cl 0 |
+| _…and 16 more — see snapshot file for the full list_ | | | |
+
+### 🌫️ Noise (sub-threshold) (157)
+
+| Query | Last week | This week | Reason |
+| --- | --- | --- | --- |
+| `john otto kit` | _(new — no prior week)_ | pos 4.8 • impr 4 • cl 1 | first appearance with <5 impressions — too small to act on |
+| `blake richardson` | _(new — no prior week)_ | pos 12.8 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `joey jordison gear` | _(new — no prior week)_ | pos 6.5 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `john otto drum set` | _(new — no prior week)_ | pos 8.8 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `nick augusto band` | _(new — no prior week)_ | pos 7.5 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `what pedals did joey jordison use` | _(new — no prior week)_ | pos 6.3 • impr 4 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `bill ward cymbals` | _(new — no prior week)_ | pos 9.7 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `bill ward kit` | _(new — no prior week)_ | pos 5.3 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `blake richardson born` | _(new — no prior week)_ | pos 1.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `danny carey's drum set` | _(new — no prior week)_ | pos 13.3 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `eloy casagrande drumset` | _(new — no prior week)_ | pos 6.3 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `jay weinberg cymbals` | _(new — no prior week)_ | pos 11.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `john otto` | _(new — no prior week)_ | pos 30.7 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `john otto drum setup` | _(new — no prior week)_ | pos 3.7 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `limp bizkit drum kit` | _(new — no prior week)_ | pos 3.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `matt garstka kit` | _(new — no prior week)_ | pos 9.7 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `mikkey dee drum set` | _(new — no prior week)_ | pos 7.7 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `slipknot spinning drum set` | _(new — no prior week)_ | pos 7.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `the smily fam members name` | _(new — no prior week)_ | pos 3.3 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `trivium nick augusto` | _(new — no prior week)_ | pos 9.0 • impr 3 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `abe cunningham 2026` | _(new — no prior week)_ | pos 11.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `ben koller band` | _(new — no prior week)_ | pos 11.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `children of bodom drummer` | _(new — no prior week)_ | pos 9.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `danny carey drum kit setup` | _(new — no prior week)_ | pos 8.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `danny carey drumset` | _(new — no prior week)_ | pos 10.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `drums joey jordison` | _(new — no prior week)_ | pos 15.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `eloy casagrande slipknot drum set` | _(new — no prior week)_ | pos 7.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `frost drums` | _(new — no prior week)_ | pos 15.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `jay weinberg drums` | _(new — no prior week)_ | pos 14.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `jay weinberg slipknot drum kit` | _(new — no prior week)_ | pos 5.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `joey jordison double bass pedal` | _(new — no prior week)_ | pos 7.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `john otto setup` | _(new — no prior week)_ | pos 6.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `john otto sticks` | _(new — no prior week)_ | pos 11.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `lars ulrich cymbals setup` | _(new — no prior week)_ | pos 11.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `lars ulrich drum set up` | _(new — no prior week)_ | pos 26.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `lars ulrich equipment` | _(new — no prior week)_ | pos 15.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `lars ulrich first drum kit` | _(new — no prior week)_ | pos 11.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `mario duplantier ride` | _(new — no prior week)_ | pos 1.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `mario duplantier setup` | _(new — no prior week)_ | pos 5.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `matt greiner cymbal setup` | _(new — no prior week)_ | pos 10.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `matt greiner cymbals` | _(new — no prior week)_ | pos 27.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `matt halpern drums` | _(new — no prior week)_ | pos 17.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `otto schlagzeug` | _(new — no prior week)_ | pos 7.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `pearl joey jordison drum set` | _(new — no prior week)_ | pos 10.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `satyricon drummer` | _(new — no prior week)_ | pos 17.0 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `shannon larkin drum setup` | _(new — no prior week)_ | pos 6.5 • impr 2 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `frost satyricon height` | _(new — no prior week)_ | pos 1.0 • impr 1 • cl 1 | first appearance with <5 impressions — too small to act on |
+| `actor blake richardson` | _(new — no prior week)_ | pos 3.0 • impr 1 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `agren vs` | _(new — no prior week)_ | pos 5.0 • impr 1 • cl 0 | first appearance with <5 impressions — too small to act on |
+| `amon amarth drummer` | _(new — no prior week)_ | pos 11.0 • impr 1 • cl 0 | first appearance with <5 impressions — too small to act on |
+| _…and 107 more — see snapshot file for the full list_ | | | |

@@ -544,4 +544,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
+  <!-- Issue #3093: Slayer 'Diabolus in Musica' drum setup (Paul Bostaph, 1998) -->
+  <url>
+    <loc>https://metalforge.io/articles/diabolus-in-musica-drum-setup</loc>
+    <lastmod>2026-06-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>

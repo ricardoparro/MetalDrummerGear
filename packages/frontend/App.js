@@ -13124,12 +13124,34 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
         document.head.appendChild(ldScript);
       }
       ldScript.textContent = JSON.stringify(collectionSchema);
+
+      // FAQPage JSON-LD — inject only when the category defines faqItems
+      if (meta.faqItems && meta.faqItems.length > 0) {
+        let faqScript = document.querySelector('script[data-schema="gear-category-faq"]');
+        if (!faqScript) {
+          faqScript = document.createElement('script');
+          faqScript.type = 'application/ld+json';
+          faqScript.setAttribute('data-schema', 'gear-category-faq');
+          document.head.appendChild(faqScript);
+        }
+        faqScript.textContent = JSON.stringify({
+          '@context': 'https://schema.org',
+          '@type': 'FAQPage',
+          'mainEntity': meta.faqItems.map(faq => ({
+            '@type': 'Question',
+            'name': faq.question,
+            'acceptedAnswer': { '@type': 'Answer', 'text': faq.answer },
+          })),
+        });
+      }
     }
 
     return () => {
       if (Platform.OS === 'web' && typeof document !== 'undefined') {
         const ldScript = document.querySelector('script[data-schema="gear-category"]');
         if (ldScript) ldScript.remove();
+        const faqScript = document.querySelector('script[data-schema="gear-category-faq"]');
+        if (faqScript) faqScript.remove();
         const canonicalLink = document.querySelector('link[rel="canonical"][href*="/gear/"]');
         if (canonicalLink) canonicalLink.remove();
       }
@@ -13173,6 +13195,13 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
         <Text style={[styles.listPageIntro, { color: theme.secondaryText }]}>
           {categoryData?.meta?.longDescription || meta.description}
         </Text>
+
+        {/* Category editorial intro — improves indexation quality for hub pages */}
+        {meta.editorialIntro && (
+          <Text style={[styles.listPageIntro, { color: theme.secondaryText, marginTop: 12 }]}>
+            {meta.editorialIntro}
+          </Text>
+        )}
 
         {/* Brand filters */}
         {brands.length > 0 && (
@@ -18057,6 +18086,45 @@ function DrummersPage({
         },
       };
       ldScript.textContent = JSON.stringify(schema);
+
+      // FAQPage JSON-LD for /drummers hub — thin content signal fix
+      let faqScript = document.querySelector('script[data-schema="drummers-faq"]');
+      if (!faqScript) {
+        faqScript = document.createElement('script');
+        faqScript.type = 'application/ld+json';
+        faqScript.setAttribute('data-schema', 'drummers-faq');
+        document.head.appendChild(faqScript);
+      }
+      faqScript.textContent = JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'FAQPage',
+        'mainEntity': [
+          {
+            '@type': 'Question',
+            'name': 'Who is the most iconic metal drummer?',
+            'acceptedAnswer': {
+              '@type': 'Answer',
+              'text': 'Several drummers are widely considered iconic in metal. Lars Ulrich of Metallica helped define thrash metal drumming and is one of the genre\'s most recognizable figures. Dave Lombardo of Slayer pioneered speed and aggression in extreme metal. Gene Hoglan, known as "The Atomic Clock," is revered for his technical precision. Danny Carey of Tool is considered a master of polyrhythmic complexity. The title ultimately depends on the metal subgenre.',
+            },
+          },
+          {
+            '@type': 'Question',
+            'name': 'What gear do metal drummers use?',
+            'acceptedAnswer': {
+              '@type': 'Answer',
+              'text': 'Professional metal drummers typically use heavy-duty drum kits from brands like Tama, Pearl, DW, Sonor, and Ludwig. For cymbals, Zildjian, Paiste, Sabian, and Meinl dominate the professional market. Double bass drum pedals from Tama, Pearl, and DW are standard in most metal setups. Drum heads from Remo and Evans are widely used, often in heavier varieties to withstand aggressive playing.',
+            },
+          },
+          {
+            '@type': 'Question',
+            'name': `How many metal drummers are on MetalForge?`,
+            'acceptedAnswer': {
+              '@type': 'Answer',
+              'text': `MetalForge currently catalogs ${drummers.length} legendary metal drummers spanning thrash, death metal, black metal, progressive, groove metal, and more. Each profile includes detailed gear specifications, signature setups, brand endorsements, and video performances — covering both foundational legends and contemporary players across multiple decades of metal history.`,
+            },
+          },
+        ],
+      });
     }
   }, [drummers, drummers.length, filteredDrummers, filteredDrummers.length, filters]);
 
@@ -18207,10 +18275,13 @@ function DrummersPage({
             Discover Metal Drumming Legends
           </Text>
           <Text style={[styles.gearFinderSeoText, { color: theme.secondaryText }]}>
-            MetalForge is your definitive resource for metal drummer gear, setups, and inspiration. 
-            Browse our comprehensive database of {drummers.length} legendary drummers from thrash, death metal, 
-            black metal, progressive, and more. Each profile includes detailed gear information, 
-            signature setups, and video performances.
+            Metal drumming demands technical precision, raw power, and musicality found nowhere else in music. From the relentless blast beats of death and black metal to the intricate polyrhythmic patterns of progressive and djent, metal drummers span an extraordinary spectrum of styles and techniques that define entire subgenres.
+          </Text>
+          <Text style={[styles.gearFinderSeoText, { color: theme.secondaryText, marginTop: 8 }]}>
+            Icons like Lars Ulrich (Metallica), Dave Lombardo (Slayer), and Gene Hoglan (Death) laid the foundation for extreme drumming in the 1980s, while later visionaries — Danny Carey (Tool), Brann Dailor (Mastodon), and Tomas Haake (Meshuggah) — pushed rhythmic complexity into entirely new territory. Today, metal drummers represent more than 20 distinct subgenres, from atmospheric black metal to technical death metal, spanning dozens of countries across every continent.
+          </Text>
+          <Text style={[styles.gearFinderSeoText, { color: theme.secondaryText, marginTop: 8 }]}>
+            MetalForge catalogs the complete gear setups, signature equipment, brand endorsements, and career highlights of {drummers.length} legendary metal drummers — helping fans, students, and aspiring professionals understand the tools and technique behind some of the most demanding music ever created.
           </Text>
         </View>
       </View>

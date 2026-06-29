@@ -18,6 +18,21 @@ export const CATEGORY_META = {
     description: 'Complete cymbal setup including hi-hats, crashes, rides, and chinas',
     gearKeys: ['cymbals'],
     relatedCategories: ['drums', 'hardware'],
+    editorialIntro: 'Cymbals define the sonic character of any metal drum kit, providing the explosive attack, shimmering sustain, and dark complexity that set metal drumming apart. The interplay between tight hi-hats, explosive crash cymbals, and complex rides determines how a drummer locks in with the rhythm section and punctuates the heaviest musical moments. In professional metal drumming, four brands dominate: Zildjian, Paiste, Sabian, and Meinl. Zildjian A Custom and K Custom series are fixtures in thrash and modern metal for their cutting, articulate response. Paiste 2002 and Rude models deliver explosive projection ideal for live metal performance. Sabian AAX and HHX lines provide bright, fast response across rapid passages. Meinl Byzance and Classics Custom Dark series are favored in death and black metal for their darker, drier tone. Cymbal thickness, alloy composition, and surface treatment all shape the final sound — making cymbal selection as critical as the kit itself.',
+    faqItems: [
+      {
+        question: 'What cymbals do metal drummers use?',
+        answer: 'Metal drummers typically use a combination of hi-hats (13–14 inch), one or two crash cymbals (16–18 inch), a ride cymbal (20–22 inch), and often a china cymbal for accent hits. Top brands include Zildjian (A Custom, K Custom), Paiste (2002, Rude), Sabian (AAX, HHX), and Meinl (Byzance, Classics Custom Dark). Many players also add splash and effect cymbals for sonic variety.',
+      },
+      {
+        question: 'What are the best cymbal brands for metal drumming?',
+        answer: 'The four dominant cymbal brands in professional metal drumming are Zildjian, Paiste, Sabian, and Meinl. Zildjian is trusted by Lars Ulrich (Metallica) and many thrash metal drummers. Paiste is favored for explosive projection, Sabian is popular in progressive metal, and Meinl Byzance series is widely used in death and black metal for its dark, dry tonal character.',
+      },
+      {
+        question: 'What types of cymbals are essential for a metal drum kit?',
+        answer: 'A complete metal cymbal setup includes hi-hats (13–14 inch, often tight and fast-sounding), at least two crash cymbals (16–18 inch) for powerful accents, a ride cymbal (20–22 inch for complex patterns), and a china cymbal for aggressive accent hits. Many metal drummers add stacks or effect cymbals. The exact combination varies by subgenre — death metal setups often differ significantly from progressive or groove metal configurations.',
+      },
+    ],
   },
   drums: {
     label: 'Drums',

@@ -34,6 +34,12 @@ Jaska Raatikainen (born July 18, 1979, in Espoo, Finland) was the drummer and co
 
 Children of Bodom became one of Finland's most successful metal exports, selling over 2 million albums worldwide. Raatikainen's drumming combined blast beats, complex double bass patterns, and progressive elements that complemented Laiho's virtuosic guitar work. The band announced their dissolution in 2019 after 26 years together. Following Alexi Laiho's tragic death in December 2020, Children of Bodom's legacy became permanently sealed in metal history.
 
+## Kit Overview
+
+Jaska Raatikainen plays a Pearl Masters Premium Maple drum kit — the large-format, double-bass configuration he developed across Children of Bodom's catalog from their 1997 debut Something Wild through their 2019 farewell Hexed. As Children of Bodom's co-founder and sole drummer for 26 years, Raatikainen anchored the Finnish band's signature blend of neoclassical melodies and melodic death metal with precision double bass work and driving blast beats.
+
+The Jaska Raatikainen drum set centers on a Pearl Masters 14×5.5" Maple snare — a warm, articulate shell that projects clearly beneath Alexi Laiho's dense guitar and keyboard arrangements. A Pearl Eliminator double pedal powers Raatikainen's precise, fluid bass drum patterns — the direct-drive mechanism essential for the rapid double bass volleys Children of Bodom made a genre cornerstone. Zildjian A Custom and K Custom Series cymbals round out the rig: 14" A Custom Hi-Hats for a bright, cutting chick; 17" and 18" A Custom Crashes for fast-attack accents; and a 20" K Custom Ride for dark, controlled rhythmic work. Vic Firth American Classic 5A sticks and Remo drumheads complete Raatikainen's kit — a setup built for the precision melodic death metal demands.
+
 ## Band History
 
 - **Children of Bodom** — 1993–2019

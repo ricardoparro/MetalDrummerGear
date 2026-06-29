@@ -34,6 +34,12 @@ Mario Duplantier (born June 19, 1981, in Ondres, France) is a French drummer and
 
 Mario's drumming combines crushing power with technical precision, featuring complex double bass patterns and an almost tribal quality that defines Gojira's unique sound. Beyond his drumming, he is a talented visual artist who creates artwork for Gojira's albums, merchandise, and stage productions.
 
+## Kit Overview
+
+Mario Duplantier plays a Tama Starclassic Bubinga drum kit with dual 22"×18" bass drums — forgoing the double pedal approach for a more organic, powerful feel that has defined Gojira's progressive death metal sound since From Mars to Sirius. The centerpiece of the Mario Duplantier drum set is the Tama S.L.P. 14×6.5" G-Maple snare, tuned for the punishing crack that cuts through Gojira's layered guitar walls on Magma and Fortitude.
+
+Zildjian cymbals form a sprawling array across the Mario Duplantier drum kit: 14" K Sweet Hi-Hats and 14" A Custom Hi-Hats for flexible hi-hat textures; 18" K Custom Hybrid Crash, 19" A Custom Crash, and 20" K Sweet Crash for rapid accent layering; a 21" Z Custom Mega Bell Ride for powerful, cutting rhythmic articulation; and dual 18" and 20" Chinas for tribal, aggressive punctuation. Remo Emperor heads on toms and Remo Powerstroke 3 on bass drums deliver the full, resonant tone heard across Gojira's Grammy-nominated catalog. A Tama Iron Cobra 900 Power Glide double pedal and Tama Mario Duplantier Signature sticks complete the rig — the configuration carried from Magma (2016) through Fortitude (2021) and beyond.
+
 ## Band History
 
 - **Gojira** — 1996–present (current)

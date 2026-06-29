@@ -927,6 +927,12 @@ The black coating gives the Onyx a distinctive look that matches its personality
       { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Remo endorser with dynamic control' }
     ],
 
+    featuredDrummers: [
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Evans endorser — defining metal drum head tone across Metallica\'s career' },
+      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'The Atomic Clock — Evans double-ply for precision control' },
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Evans EC2 — ultra-controlled polyrhythmic Meshuggah tone' }
+    ],
+
     // FAQ section for SEO
     faq: [
       {
@@ -5156,6 +5162,12 @@ Joey Jordison of Slipknot used Zildjian cymbals throughout his tenure, preferrin
       { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 — classic heavy metal hi-hat power' }
     ],
 
+    featuredDrummers: [
+      { slug: 'lars-ulrich', name: 'Lars Ulrich', reason: 'Zildjian A Custom — the definitive metal hi-hat benchmark across Metallica\'s career' },
+      { slug: 'mike-mangini', name: 'Mike Mangini', reason: 'Meinl Byzance — progressive metal hi-hat precision with Dream Theater' },
+      { slug: 'mikkey-dee', name: 'Mikkey Dee', reason: 'Paiste 2002 Sound Edge — iconic classic heavy metal hi-hat power' }
+    ],
+
     // FAQ section for SEO
     faq: [
       {
@@ -5649,6 +5661,12 @@ For metal drummers whose technique relies heavily on the heel-toe method or who 
       { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW 9000 — The Atomic Clock\'s precision platform' },
       { slug: 'joey-jordison', name: 'Joey Jordison', reason: 'DW hardware for explosive nu/extreme metal kick' },
       { slug: 'chris-adler', name: 'Chris Adler', reason: 'Iron Cobra for Lamb of God groove metal authority' }
+    ],
+
+    featuredDrummers: [
+      { slug: 'tomas-haake', name: 'Tomas Haake', reason: 'Tama Iron Cobra — the world\'s most precise polyrhythmic kick technique with Meshuggah' },
+      { slug: 'george-kollias', name: 'George Kollias', reason: 'Pearl Demon Drive — sustaining 280 BPM death metal extremity with Nile' },
+      { slug: 'gene-hoglan', name: 'Gene Hoglan', reason: 'DW 9000 — The Atomic Clock\'s precision platform across Death and Testament' }
     ],
 
     // FAQ section for SEO

@@ -1,0 +1,3008 @@
+{
+  "generatedAt": "2026-06-29T10:56:44.878Z",
+  "site": "https://metalforge.io/",
+  "sitemapUrlCount": 3264,
+  "inspectedCount": 500,
+  "byUrl": {
+    "https://metalforge.io/": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T21:34:45Z"
+    },
+    "https://metalforge.io/bpm": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guess-the-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/beginner-metal-drummer-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-death-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-thrash-metal": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/budget-metal-drum-setup-1000": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/budget-metal-drum-setup-2000": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-06-28T01:47:27Z"
+    },
+    "https://metalforge.io/guides/budget-metal-drum-setup-500": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/metal-drummer-name-generator": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-06-28T01:36:26Z"
+    },
+    "https://metalforge.io/articles/a-dramatic-turn-of-events-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/aenima-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/altars-of-madness-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/and-justice-for-all-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/aquiles-priester-drum-kit-guide": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/aquiles-priester-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/arin-ilejay-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/ashes-of-the-wake-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/ben-koller-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/beneath-the-remains-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/black-album-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/blackwater-park-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/blake-richardson-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-24T01:56:42Z"
+    },
+    "https://metalforge.io/articles/brann-dailor-mastodon-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/breakdown-beat-guide": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/chaos-ad-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/charlie-benante-among-the-living-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T16:36:24Z"
+    },
+    "https://metalforge.io/articles/chris-turner-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/cowboys-from-hell-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/daniel-erlandsson-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/daray-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/derek-roddy-hate-eternal-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/double-bass-drumming-for-metal": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/dystopia-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/fastest-double-bass-drummers": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/fear-inoculum-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/from-mars-to-sirius-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/frost-satyricon-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-25T11:20:12Z"
+    },
+    "https://metalforge.io/articles/gavin-harrison-porcupine-tree-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/gene-hoglan-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/george-kollias-nile-annihilation-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/hannes-grossmann-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T12:20:01Z"
+    },
+    "https://metalforge.io/articles/hellhammer-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-06-20T10:17:22Z"
+    },
+    "https://metalforge.io/articles/how-to-play-blast-beats": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/how-to-play-polyrhythm-drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/how-to-tune-drums-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:23:09Z"
+    },
+    "https://metalforge.io/articles/human-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/images-and-words-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/iowa-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/isaac-lamb-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/jaska-raatikainen-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/jason-bittner-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:32:36Z"
+    },
+    "https://metalforge.io/articles/jay-weinberg-complete-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/jocke-wallgren-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/joey-jordison-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/joey-jordison-signature-gear-guide": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/john-otto-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/jon-dette-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:23:32Z"
+    },
+    "https://metalforge.io/articles/kevin-talley-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/lateralus-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:46:30Z"
+    },
+    "https://metalforge.io/articles/lenfant-sauvage-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/mario-duplantier-gear": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/martin-lopez-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/master-of-puppets-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/matt-greiner-complete-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/morgan-agren-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/most-brutal-drum-solos": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/most-expensive-drum-setups": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/nick-augusto-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/nick-menza-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T12:11:25Z"
+    },
+    "https://metalforge.io/articles/none-so-vile-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:34:02Z"
+    },
+    "https://metalforge.io/articles/number-of-the-beast-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/obzen-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/painkiller-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/paul-mazurkiewicz-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/piece-of-mind-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:01:28Z"
+    },
+    "https://metalforge.io/articles/powerslave-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:39:11Z"
+    },
+    "https://metalforge.io/articles/raymond-herrera-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/reign-in-blood-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:01:37Z"
+    },
+    "https://metalforge.io/articles/roots-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T03:40:22Z"
+    },
+    "https://metalforge.io/articles/rust-in-peace-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/ryan-van-poederooyen-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/scenes-from-a-memory-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/shannon-larkin-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/sound-of-perseverance-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/symbolic-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/the-satanist-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/the-way-of-all-flesh-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/tim-yeung-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/travis-orbin-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:50:54Z"
+    },
+    "https://metalforge.io/articles/vulgar-display-of-power-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-abe-cunninghams-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-alex-bents-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-art-cruzs-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-bill-wards-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-brann-dailors-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:36:19Z"
+    },
+    "https://metalforge.io/articles/whats-in-charlie-benantes-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-chris-adlers-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-danny-careys-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-dave-lombardos-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-derek-roddys-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-dirk-verbeurens-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:44:13Z"
+    },
+    "https://metalforge.io/articles/whats-in-eloy-casagrandes-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-flo-mouniers-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:16:42Z"
+    },
+    "https://metalforge.io/articles/whats-in-gavin-harrisons-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-gene-hoglans-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-george-kollias-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-igor-cavaleras-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-infernos-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-joey-jordisons-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:29:42Z"
+    },
+    "https://metalforge.io/articles/whats-in-lars-ulrichs-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-mario-duplantiers-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-matt-garstkas-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-25T11:19:32Z"
+    },
+    "https://metalforge.io/articles/whats-in-matt-halperns-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-25T12:31:09Z"
+    },
+    "https://metalforge.io/articles/whats-in-mike-manginis-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-mike-portnoys-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T12:17:48Z"
+    },
+    "https://metalforge.io/articles/whats-in-mikkey-dees-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-navene-koperweiss-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T10:23:15Z"
+    },
+    "https://metalforge.io/articles/whats-in-nicko-mcbrains-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-paul-bostaphs-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-pete-sandovals-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-ray-luziers-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-richard-christys-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:00:20Z"
+    },
+    "https://metalforge.io/articles/whats-in-scott-travis-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-sean-reinerts-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-tomas-haakes-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-vinnie-pauls-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/white-pony-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/bands": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/birthdays": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/bpm-tap": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/brands": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/compare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers": {
+      "class": "crawled-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Crawled - currently not indexed",
+      "lastCrawlTime": "2026-06-22T03:39:19Z"
+    },
+    "https://metalforge.io/drummers/abe-cunningham/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/alex-bent/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/aquiles-priester/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/arin-ilejay/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/art-cruz/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/ben-koller/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/bill-ward/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/blake-richardson/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/brann-dailor/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/charlie-benante/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:59:45Z"
+    },
+    "https://metalforge.io/drummers/chris-adler/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:03:14Z"
+    },
+    "https://metalforge.io/drummers/chris-turner/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/daniel-erlandsson/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/danny-carey/gear-history": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/danny-carey/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T03:02:20Z"
+    },
+    "https://metalforge.io/drummers/daray/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/dave-lombardo/gear-history": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/dave-lombardo/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/derek-roddy/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/dirk-verbeuren/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/eloy-casagrande/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/flo-mounier/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/frost/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-29T00:07:43Z"
+    },
+    "https://metalforge.io/drummers/gavin-harrison/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/gene-hoglan/gear-history": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T03:07:52Z"
+    },
+    "https://metalforge.io/drummers/gene-hoglan/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/george-kollias/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/hannes-grossmann/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/hellhammer/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/igor-cavalera/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/inferno/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/isaac-lamb/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/jaska-raatikainen/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T04:39:28Z"
+    },
+    "https://metalforge.io/drummers/jason-bittner/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/jay-weinberg/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/jocke-wallgren/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/joey-jordison/gear-history": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/joey-jordison/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/john-otto/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/jon-dette/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/kevin-talley/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/lars-ulrich/gear-history": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/lars-ulrich/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/mario-duplantier/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/martin-lopez/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T04:16:50Z"
+    },
+    "https://metalforge.io/drummers/matt-garstka/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T12:06:39Z"
+    },
+    "https://metalforge.io/drummers/matt-greiner/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/matt-halpern/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/mike-mangini/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/mike-portnoy/gear-history": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/mike-portnoy/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T02:52:25Z"
+    },
+    "https://metalforge.io/drummers/mikkey-dee/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/morgan-agren/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:45:45Z"
+    },
+    "https://metalforge.io/drummers/navene-koperweis/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/nick-augusto/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/nicko-mcbrain/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/paul-bostaph/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/paul-mazurkiewicz/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/pete-sandoval/gear-history": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/pete-sandoval/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T14:09:34Z"
+    },
+    "https://metalforge.io/drummers/ray-luzier/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/raymond-herrera/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/richard-christy/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/ryan-van-poederooyen/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/scott-travis/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/shannon-larkin/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/tim-yeung/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T11:45:44Z"
+    },
+    "https://metalforge.io/drummers/tomas-haake/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/tomas-haake/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T14:18:02Z"
+    },
+    "https://metalforge.io/drummers/travis-orbin/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/vinnie-paul/gear-history": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/vinnie-paul/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/endorsement-news": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/gear": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/gear-by-budget": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/gear-news": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/gear/cymbals": {
+      "class": "crawled-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Crawled - currently not indexed",
+      "lastCrawlTime": "2026-05-28T19:09:12Z"
+    },
+    "https://metalforge.io/gear/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-22T18:03:04Z"
+    },
+    "https://metalforge.io/gear/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:38:38Z"
+    },
+    "https://metalforge.io/gear/pedals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/gear/snares": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T20:22:41Z"
+    },
+    "https://metalforge.io/gear/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/genres": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-05T11:51:19Z"
+    },
+    "https://metalforge.io/guides/how-to-sound-like-brann-dailor": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-29T04:00:27Z"
+    },
+    "https://metalforge.io/guides/how-to-sound-like-chris-adler": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-danny-carey": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-dave-lombardo": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T11:45:14Z"
+    },
+    "https://metalforge.io/guides/how-to-sound-like-flo-mounier": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-gene-hoglan": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-george-kollias": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-joey-jordison": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-lars-ulrich": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:01:35Z"
+    },
+    "https://metalforge.io/guides/how-to-sound-like-mario-duplantier": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-matt-greiner": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-matt-halpern": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-tomas-haake": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/how-to-sound-like-travis-orbin": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/history": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/kit-builder": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/kit-quiz": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:55:41Z"
+    },
+    "https://metalforge.io/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/lists": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/quiz": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:26:14Z"
+    },
+    "https://metalforge.io/quotes": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/stats": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/stats/gear-insights": {
+      "class": "crawled-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Crawled - currently not indexed",
+      "lastCrawlTime": "2026-06-27T12:21:44Z"
+    },
+    "https://metalforge.io/techniques": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/brann-dailor-vs-mario-duplantier": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/charlie-benante-vs-dave-lombardo": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:46:30Z"
+    },
+    "https://metalforge.io/tools/compare/chris-adler-vs-brann-dailor": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:46:03Z"
+    },
+    "https://metalforge.io/tools/compare/danny-carey-vs-tomas-haake": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/dave-lombardo-vs-gene-hoglan": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/eloy-casagrande-vs-joey-jordison": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/gene-hoglan-vs-pete-sandoval": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/george-kollias-vs-flo-mounier": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/hellhammer-vs-inferno": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T12:40:28Z"
+    },
+    "https://metalforge.io/tools/compare/inferno-vs-george-kollias": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/joey-jordison-vs-george-kollias": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/joey-jordison-vs-lars-ulrich": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/joey-jordison-vs-vinnie-paul": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/lars-ulrich-vs-dave-lombardo": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/mario-duplantier-vs-tomas-haake": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/matt-garstka-vs-matt-halpern": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:38:28Z"
+    },
+    "https://metalforge.io/tools/compare/matt-halpern-vs-alex-bent": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/mike-portnoy-vs-danny-carey": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/mike-portnoy-vs-mike-mangini": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/compare/nicko-mcbrain-vs-vinnie-paul": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/vs": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/brann-dailor-vs-chris-adler": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T20:36:29Z"
+    },
+    "https://metalforge.io/battles/danny-carey-vs-mike-portnoy": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/gene-hoglan-vs-george-kollias": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/inferno-vs-hellhammer": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/joey-jordison-vs-eloy-casagrande": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/lars-ulrich-vs-dave-lombardo": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/battles/tomas-haake-vs-mario-duplantier": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T19:25:38Z"
+    },
+    "https://metalforge.io/battles/vinnie-paul-vs-dave-lombardo": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T09:34:11Z"
+    },
+    "https://metalforge.io/beginner-guide": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/abe-cunningham/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:29:10Z"
+    },
+    "https://metalforge.io/drummer/abe-cunningham/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/abe-cunningham/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/abe-cunningham/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:11:26Z"
+    },
+    "https://metalforge.io/drummer/abe-cunningham/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/alex-bent/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:52:28Z"
+    },
+    "https://metalforge.io/drummer/alex-bent/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:58:41Z"
+    },
+    "https://metalforge.io/drummer/alex-bent/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/alex-bent/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:40:27Z"
+    },
+    "https://metalforge.io/drummer/alex-bent/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:30:17Z"
+    },
+    "https://metalforge.io/drummer/aquiles-priester/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/aquiles-priester/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/aquiles-priester/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/aquiles-priester/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/aquiles-priester/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/arin-ilejay/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/arin-ilejay/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/arin-ilejay/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/arin-ilejay/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/arin-ilejay/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/art-cruz/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/art-cruz/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/art-cruz/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T02:51:21Z"
+    },
+    "https://metalforge.io/drummer/art-cruz/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/art-cruz/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/ben-koller/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/ben-koller/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T14:19:42Z"
+    },
+    "https://metalforge.io/drummer/ben-koller/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/ben-koller/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/ben-koller/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:46:15Z"
+    },
+    "https://metalforge.io/drummer/bill-ward/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/bill-ward/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/bill-ward/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/bill-ward/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/bill-ward/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:50:28Z"
+    },
+    "https://metalforge.io/drummer/blake-richardson/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/blake-richardson/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:54:12Z"
+    },
+    "https://metalforge.io/drummer/blake-richardson/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/blake-richardson/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/blake-richardson/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/brann-dailor/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/brann-dailor/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/brann-dailor/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/brann-dailor/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:19:36Z"
+    },
+    "https://metalforge.io/drummer/brann-dailor/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:37:05Z"
+    },
+    "https://metalforge.io/drummer/charlie-benante/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/charlie-benante/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/charlie-benante/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/charlie-benante/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/charlie-benante/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:50:05Z"
+    },
+    "https://metalforge.io/drummer/chris-adler/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T14:34:40Z"
+    },
+    "https://metalforge.io/drummer/chris-adler/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-adler/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T22:24:13Z"
+    },
+    "https://metalforge.io/drummer/chris-adler/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-adler/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-turner/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-turner/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:12:41Z"
+    },
+    "https://metalforge.io/drummer/chris-turner/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-turner/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/chris-turner/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daniel-erlandsson/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/danny-carey/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/danny-carey/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/danny-carey/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/danny-carey/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/danny-carey/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daray/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:47:16Z"
+    },
+    "https://metalforge.io/drummer/daray/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daray/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/daray/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T16:37:27Z"
+    },
+    "https://metalforge.io/drummer/daray/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dave-lombardo/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T16:55:00Z"
+    },
+    "https://metalforge.io/drummer/dave-lombardo/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dave-lombardo/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dave-lombardo/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:39:27Z"
+    },
+    "https://metalforge.io/drummer/dave-lombardo/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/derek-roddy/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:55:13Z"
+    },
+    "https://metalforge.io/drummer/derek-roddy/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:00:28Z"
+    },
+    "https://metalforge.io/drummer/derek-roddy/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/derek-roddy/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/derek-roddy/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T11:27:42Z"
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/dirk-verbeuren/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/eloy-casagrande/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/flo-mounier/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:26:34Z"
+    },
+    "https://metalforge.io/drummer/flo-mounier/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T10:35:58Z"
+    },
+    "https://metalforge.io/drummer/flo-mounier/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/flo-mounier/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/flo-mounier/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/frost/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/frost/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/frost/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T17:42:48Z"
+    },
+    "https://metalforge.io/drummer/frost/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/frost/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T00:59:48Z"
+    },
+    "https://metalforge.io/drummer/gavin-harrison/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T12:34:55Z"
+    },
+    "https://metalforge.io/drummer/gavin-harrison/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T22:04:05Z"
+    },
+    "https://metalforge.io/drummer/gavin-harrison/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T15:34:24Z"
+    },
+    "https://metalforge.io/drummer/gavin-harrison/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gavin-harrison/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gene-hoglan/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gene-hoglan/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gene-hoglan/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gene-hoglan/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/gene-hoglan/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/george-kollias/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/george-kollias/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/george-kollias/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:41:57Z"
+    },
+    "https://metalforge.io/drummer/george-kollias/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/george-kollias/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T12:24:52Z"
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hannes-grossmann/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hellhammer/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:33:06Z"
+    },
+    "https://metalforge.io/drummer/hellhammer/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hellhammer/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hellhammer/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/hellhammer/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/igor-cavalera/cymbals": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/igor-cavalera/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T03:06:06Z"
+    },
+    "https://metalforge.io/drummer/igor-cavalera/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/igor-cavalera/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/igor-cavalera/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T14:16:32Z"
+    },
+    "https://metalforge.io/drummer/inferno/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/inferno/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/inferno/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/inferno/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:28:24Z"
+    },
+    "https://metalforge.io/drummer/inferno/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:08:02Z"
+    },
+    "https://metalforge.io/drummer/isaac-lamb/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/isaac-lamb/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/isaac-lamb/hardware": {
+      "class": "crawled-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Crawled - currently not indexed",
+      "lastCrawlTime": "2026-06-28T02:47:37Z"
+    },
+    "https://metalforge.io/drummer/isaac-lamb/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/isaac-lamb/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:03:44Z"
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jaska-raatikainen/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jason-bittner/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jason-bittner/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T20:21:14Z"
+    },
+    "https://metalforge.io/drummer/jason-bittner/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jason-bittner/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jason-bittner/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jay-weinberg/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jay-weinberg/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jay-weinberg/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jay-weinberg/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jay-weinberg/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T15:37:49Z"
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/jocke-wallgren/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/joey-jordison/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/joey-jordison/drums": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/joey-jordison/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/joey-jordison/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/joey-jordison/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/john-otto/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T13:04:31Z"
+    },
+    "https://metalforge.io/drummer/john-otto/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/john-otto/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/john-otto/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T07:18:55Z"
+    },
+    "https://metalforge.io/drummer/john-otto/sticks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:00:54Z"
+    },
+    "https://metalforge.io/drummer/kevin-talley/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/kevin-talley/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:33:02Z"
+    },
+    "https://metalforge.io/drummer/kevin-talley/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/kevin-talley/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/kevin-talley/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/lars-ulrich/cymbals": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T14:29:58Z"
+    },
+    "https://metalforge.io/drummer/lars-ulrich/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/lars-ulrich/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/lars-ulrich/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:44:25Z"
+    },
+    "https://metalforge.io/drummer/lars-ulrich/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mario-duplantier/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mario-duplantier/drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T20:09:02Z"
+    },
+    "https://metalforge.io/drummer/mario-duplantier/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mario-duplantier/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T03:33:50Z"
+    },
+    "https://metalforge.io/drummer/mario-duplantier/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/martin-lopez/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/martin-lopez/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/martin-lopez/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T01:53:46Z"
+    },
+    "https://metalforge.io/drummer/martin-lopez/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/martin-lopez/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-garstka/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-garstka/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-garstka/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-garstka/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-garstka/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-greiner/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-greiner/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-greiner/hardware": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-greiner/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-greiner/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-halpern/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-halpern/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-halpern/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-halpern/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/matt-halpern/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-mangini/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-mangini/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-mangini/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-mangini/snare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:40:03Z"
+    },
+    "https://metalforge.io/drummer/mike-mangini/sticks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-portnoy/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-portnoy/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-portnoy/hardware": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-portnoy/snare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mike-portnoy/sticks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mikkey-dee/cymbals": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mikkey-dee/drums": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummer/mikkey-dee/hardware": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:33:33Z"
+    },
+    "https://metalforge.io/drummer/mikkey-dee/snare": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    }
+  }
+}

@@ -27,6 +27,12 @@ Frost's drum kit and gear setup. Frost is a professional metal drummer best know
 | Signature snare | Sonor SQ2 14x6" Maple |
 | Sticks | Vic Firth American Classic Extreme 5B |
 
+## Kit Overview
+
+Frost plays a Sonor SQ2 Series drum kit — Germany's premium custom-build platform selected for its focused, articulate attack at the extreme blast beat tempos that define Satyricon's Nordic black metal sound. As Satyricon's drummer since 1993 and a founding member of 1349 since 2001, Frost has built one of black metal's most distinctive drum sets around a Sonor SQ2 14x6" Maple snare that delivers the dry, cutting crack heard on albums like Nemesis Divina, Volcano, and Now, Diabolical.
+
+Zildjian A Custom and K Series cymbals define the tonal character of the Frost drum kit: 14" A Custom Hi-Hats for fast, controlled hi-hat articulation during relentless blast beat passages; 16", 17", and 18" A Custom Crashes for explosive accents; a 22" K Custom Dark Ride for dark rhythmic definition; and an 18" K China for brutal black metal punctuation. A Sonor Perfect Balance single pedal drives Frost's precise, powerful kick drum work. Vic Firth American Classic Extreme 5B sticks and Remo drumheads complete the Frost drum set — a configuration built for the sustained physical demands of Satyricon and 1349's uncompromising live performances.
+
 ## Biography
 
 Kjetil-Vidar Haraldstad (born 1973), known professionally as Frost, is a Norwegian drummer and a central figure in the Scandinavian black metal scene. He is the drummer for Satyricon since 1993 and 1349 since 2001. Known for his incredible speed, precision, and stamina, Frost is considered one of the greatest extreme metal drummers. His blast beats and hyperspeed drumming have set the standard for black metal percussion. Despite the raw nature of black metal, Frost brings a high level of technicality and discipline to his performances.

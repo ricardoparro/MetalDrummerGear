@@ -1878,6 +1878,7 @@ const drummers = [
     country: 'UK',
     image: '/images/drummers/bill-ward.webp',
     bio: 'Bill Ward (born May 5, 1948) is an English drummer and co-founder of Black Sabbath, one of the most influential bands in heavy metal history. Alongside Ozzy Osbourne, Tony Iommi, and Geezer Butler, Ward helped create the template for heavy metal drumming. His jazz-influenced style, combining swing with power, set him apart from other rock drummers of the era. He played on all eight classic Ozzy-era Sabbath albums, including groundbreaking records like Paranoid (1970) and Master of Reality (1971). Ward\'s influences include jazz greats Gene Krupa, Buddy Rich, and John Bonham. He also sang lead on the ballad "It\'s Alright" from Technical Ecstasy.',
+    kitOverview: 'Bill Ward played Ludwig drum kits through Black Sabbath\'s classic era — the foundational setup behind some of the heaviest records of the 1970s. On landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975), Ward used a Ludwig Super Classic drum kit paired with Paiste 2002 and Giant Beat cymbals, favoring a raw, swinging feel that defined early heavy metal\'s rhythmic DNA. His Ludwig Supraphonic 14x6.5" LM402 snare delivered the sharp crack anchoring tracks like "Iron Man," "War Pigs," and "Symptom of the Universe."\n\nThe Bill Ward drum set typically centered on a 22" bass drum, 13" and 16" toms, and Paiste\'s massive 24" 2002 Ride — one of the largest ride cymbals in classic rock — alongside 15" Giant Beat Hi-Hats and 18" and 20" crashes that gave his kit an open, resonant character. Ward\'s jazz-influenced grip and open playing style, shaped by heroes Gene Krupa and Buddy Rich, emphasized feel and swing over technical precision. As of Never Say Die! (1978), Ward\'s Ludwig drum kit and Paiste cymbal configuration remained the defining sound of Black Sabbath\'s classic lineup.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Bill_Ward_(musician)',
       'https://www.discogs.com/artist/255466-Bill-Ward',
@@ -2611,6 +2612,7 @@ const drummers = [
     country: 'Norway',
     image: '/images/drummers/frost.webp',
     bio: 'Kjetil-Vidar Haraldstad (born 1973), known professionally as Frost, is a Norwegian drummer and a central figure in the Scandinavian black metal scene. He is the drummer for Satyricon since 1993 and 1349 since 2001. Known for his incredible speed, precision, and stamina, Frost is considered one of the greatest extreme metal drummers. His blast beats and hyperspeed drumming have set the standard for black metal percussion. Despite the raw nature of black metal, Frost brings a high level of technicality and discipline to his performances.',
+    kitOverview: 'Frost plays a Sonor SQ2 Series drum kit — Germany\'s premium custom-build platform selected for its focused, articulate attack at the extreme blast beat tempos that define Satyricon\'s Nordic black metal sound. As Satyricon\'s drummer since 1993 and a founding member of 1349 since 2001, Frost has built one of black metal\'s most distinctive drum sets around a Sonor SQ2 14x6" Maple snare that delivers the dry, cutting crack heard on albums like Nemesis Divina, Volcano, and Now, Diabolical.\n\nZildjian A Custom and K Series cymbals define the tonal character of the Frost drum kit: 14" A Custom Hi-Hats for fast, controlled hi-hat articulation during relentless blast beat passages; 16", 17", and 18" A Custom Crashes for explosive accents; a 22" K Custom Dark Ride for dark rhythmic definition; and an 18" K China for brutal black metal punctuation. A Sonor Perfect Balance single pedal drives Frost\'s precise, powerful kick drum work. Vic Firth American Classic Extreme 5B sticks and Remo drumheads complete the Frost drum set — a configuration built for the sustained physical demands of Satyricon and 1349\'s uncompromising live performances.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Frost_(musician)',
       'https://www.discogs.com/artist/297893-Frost-6',
@@ -3261,6 +3263,47 @@ const drummers = [
     ],
     videos: [
       { title: 'Kublai Khan TX - Drum Cam', youtubeId: 'xBFS1A0zOq4', year: 2023 }
+    ]
+  },
+  {
+    id: 62,
+    name: 'Martin Axenrot',
+    band: 'Opeth',
+    bands: [
+      { name: 'Opeth', period: '2006–present', current: true },
+      { name: 'Bloodbath', period: '2008–present', current: true },
+      { name: 'Witchery', period: '1997–2010', current: false }
+    ],
+    genre: 'Progressive Metal / Progressive Death Metal',
+    country: 'Sweden',
+    image: '/images/drummers/martin-axenrot.webp',
+    bio: 'Martin Axenrot (born March 17, 1979, in Stockholm, Sweden) is a Swedish drummer best known as Opeth\'s drummer since 2006, when he replaced Martin Lopez mid-tour on the Ghost Reveries cycle. He made his Opeth studio debut on Watershed (2008) and has remained the band\'s drummer through Heritage (2011), Pale Communion (2014), Sorceress (2016), and In Cauda Venenum (2019). Beyond Opeth, Axenrot is a core member of death metal supergroup Bloodbath since 2008 and served in Witchery from 1997 to 2010. His extreme metal background — forged across Bloodbath, Witchery, and Nifelheim — brings a heavier, more aggressive attack to Opeth\'s drum chair than his predecessor while honoring the progressive vocabulary Martin Lopez established.',
+    kitOverview: 'Martin Axenrot plays a Sonor SQ2 drum kit — the German custom-build platform he has anchored since joining Opeth as their drummer in 2006, replacing Martin Lopez. His studio debut on Watershed (2008) established the twin-bass-drum Sonor configuration that has defined his sound across every Opeth recording since, signaling a more aggressive approach to the drum chair informed by his extreme metal background with Bloodbath, Witchery, and Nifelheim.\n\nThe Martin Axenrot drum set is defined by twin 22"×18" bass drums — a departure from Lopez\'s single-kick rig that brings additional low-end density and the firepower for extended double-bass passages. A Sonor SQ2 maple snare (14"×5.75") delivers the warm, cutting crack heard on Watershed, Heritage (2011), Pale Communion (2014), and Sorceress (2016). Meinl Byzance cymbals complete the Martin Axenrot drum kit: 14" Byzance Traditional Medium Hi-Hats for dark, complex hi-hat work; 16", 18", and 19" Byzance Crashes for dynamic accents; a 22" Byzance Traditional Ride for articulate rhythmic definition; and an 18" Byzance China for aggressive punctuation. The Axenrot drum set has remained rooted in Sonor and Meinl gear throughout his Opeth tenure.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Martin_Axenrot',
+      'https://www.discogs.com/artist/475040-Martin-Axenrot'
+    ],
+    gear: {
+      drums: 'Sonor SQ2 Series',
+      snare: 'Sonor SQ2 14x5.75" Maple',
+      cymbals: 'Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China)',
+      hardware: 'Tama Iron Cobra Double Pedal, Sonor Hardware',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Remo',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Martin_Axenrot']
+    },
+    photos: [
+      '/images/drummers/martin-axenrot.webp'
+    ],
+    endorsements: [
+      { name: 'Sonor Drums', url: 'https://www.sonor.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Opeth - Drum Performance', youtubeId: 'YJKPQ6Ld9rw', year: 2014 }
     ]
   }
 ];

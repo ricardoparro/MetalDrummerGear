@@ -37,7 +37,10 @@
 
 ## Lists & Reference
 
-- [Top-10 Lists](/llms/lists.md): Fastest drummers, best double bass, most innovative
+- [Top-10 Lists](/llms/lists.md): Best death metal, thrash metal, most innovative, fastest drummers, best double bass, and 12 more ranked lists
+- [Best Death Metal Drummers](/llms/lists/best-death-metal-drummers.md): George Kollias, Gene Hoglan, Pete Sandoval — complete ranked guide with FAQ
+- [Best Thrash Metal Drummers](/llms/lists/best-thrash-metal-drummers.md): Dave Lombardo, Lars Ulrich, Charlie Benante — definitive thrash ranking with FAQ
+- [Most Innovative Metal Drummers](/llms/lists/most-innovative-metal-drummers.md): Danny Carey, Tomas Haake, Brann Dailor — innovation history with FAQ
 - [Facts](/llms/facts.md): Metal drummer quick facts database
 - [Quiz](/llms/quiz.md): Metal drum kit quiz content
 

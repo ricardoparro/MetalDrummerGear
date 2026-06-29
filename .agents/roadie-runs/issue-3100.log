@@ -1,9 +1,14 @@
-**Problem:** Issue #3100 requested adding 2 new album drum-setup articles — worship-music-drum-setup (Anthrax, 2011) and for-all-kings-drum-setup (Anthrax, 2016) — to `packages/frontend/data/albumArticles/charlie-benante.js` plus 2 LLM markdown files.
+Issue #3100: SEO batch — Anthrax Worship Music (2011) + For All Kings (2016) drum setup articles
 
-**Files changed:** `.agents/roadie-runs/issue-3100.log` (run state recorded only — no content changes needed)
+Status: ALREADY IMPLEMENTED
 
-**Fix:** Both articles were already fully implemented in `packages/frontend/data/albumArticles/charlie-benante.js` (worship-music-drum-setup at line 1859, for-all-kings-drum-setup at line 2168). Both LLM markdown files already exist at `public/llms/articles/worship-music-drum-setup.md` (666 words) and `public/llms/articles/for-all-kings-drum-setup.md` (689 words). Each article contains 5 FAQ Q&A pairs, Grammy-nomination narrative (Worship Music: 'In the End' / 54th Grammys 2012; For All Kings: 'Evil Twin' / 59th Grammys 2017), ≥3 internal links, Tama Starclassic Maple / Speed Cobra / Paiste gear breakdown, and cross-links between the two articles and to /drummer/charlie-benante and /bands/anthrax.
-
-**Validation:** All quality gates pass — worship-music-drum-setup in charlie-benante.js ✅, for-all-kings-drum-setup in charlie-benante.js ✅, both LLM markdown files present ✅, ≥3 FAQ per article (5/5) ✅, ≥300 words per LLM file (666/689 words) ✅, ≥3 internal links each ✅, Grammy hooks included ✅, JS syntax clean (`node --check` passes) ✅.
-
-**Follow-ups:** None — issue fully implemented across all files per spec.
+Verification:
+- worship-music-drum-setup: present at line 1858 in packages/frontend/data/albumArticles/charlie-benante.js
+- for-all-kings-drum-setup: present at line 2167 in packages/frontend/data/albumArticles/charlie-benante.js
+- public/llms/articles/worship-music-drum-setup.md: present (666 words)
+- public/llms/articles/for-all-kings-drum-setup.md: present (689 words)
+- Both articles include Grammy hooks (Worship Music: 'In the End' Grammy nod 2012; For All Kings: 'Evil Twin' Grammy nod 2017)
+- Both articles include ≥5 FAQ Q&A pairs
+- Both articles include internal links to /drummer/charlie-benante, adjacent Anthrax articles, and comparison pages
+- JS syntax valid (node --check passes)
+- JS article objects contain drummerName, albumTitle, year, sections, gear, faqs per spec

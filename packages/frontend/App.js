@@ -2741,12 +2741,19 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
       // Issue #1813: cleanup MusicAlbum schema node
       const musicAlbumScript = document.querySelector('script[data-schema="album-music-album"]');
       if (musicAlbumScript) musicAlbumScript.remove();
-      // Issue #3280: restore homepage canonical on unmount so navigating back
-      // to home does not leave an article canonical in place.
+    };
+  }, [list, isAlbumArticle, drummers]);
+
+  // Issue #3280: restore homepage canonical ONLY on true component unmount.
+  // A separate empty-dep effect ensures the reset does not fire on every
+  // drummers-prop change (which would briefly set canonical → / mid-render).
+  useEffect(() => {
+    return () => {
+      if (Platform.OS !== 'web' || typeof document === 'undefined') return;
       const canon = document.querySelector('link[rel="canonical"]');
       if (canon) canon.setAttribute('href', 'https://metalforge.io/');
     };
-  }, [list, isAlbumArticle, drummers]);
+  }, []);
 
   // Toggle expanded state for drummer details with GA4 tracking (Issue #658)
   const toggleDrummerExpanded = (drummerId) => {

@@ -35,6 +35,12 @@ Ray Luzier (born Raymond Lee Luzier; June 14, 1970, in Pittsburgh, Pennsylvania)
 
 Before joining Korn, Luzier built an impressive resume playing with David Lee Roth (1997-2005), Army of Anyone (with the DeLeo brothers of Stone Temple Pilots), and Steel Panther. His combination of technical prowess, versatility across genres, and groove-heavy playing has made him a perfect fit for Korn's complex, syncopated rhythms.
 
+## Kit Overview
+
+Ray Luzier's drum kit is a Pearl Reference Series build — the professional shell line he consolidated as Korn's permanent drummer in the Paradigm Shift era and has maintained since joining the band in 2007. The Ray Luzier drum set pairs the Pearl Reference shells with a Pearl Reference 14×6.5" Brass snare, delivering the cutting, full-bodied backbeat crack that drives Korn's dense, syncopated nu-metal grooves on recordings from Korn III: Remember Who You Are through Requiem.
+
+Sabian AAX Series cymbals complete the Ray Luzier drum kit: 14" Stage Hi-Hats for tight, articulate groove patterns; 18" and 19" X-Plosion Crashes for fast, explosive accents; a 21" Stage Ride for rhythmic clarity; and an 18" AAXtreme China for aggressive punctuation on Korn's heaviest passages. A DW 9002 double bass pedal and Pearl D-2000 Roadster Throne anchor the hardware. Vic Firth Ray Luzier Signature sticks complete a drum set built around the Luzier/Fieldy rhythm section lock — the groove foundation of nu-metal's most enduring second act. For the full gear breakdown, see the [Ray Luzier complete kit guide](/articles/whats-in-ray-luziers-kit).
+
 ## Band History
 
 - **Korn** — 2007–present (current)

@@ -35,6 +35,12 @@ Charlie Benante (born Charles Lee Benante; November 27, 1962, in The Bronx, New 
 
 Beyond his drumming, Benante is Anthrax's main composer and a talented graphic artist who has created many of the band's album covers and T-shirt designs. Since 2022, he has also toured with the reunited Pantera, filling in for the late Vinnie Paul, his close friend.
 
+## Kit Overview
+
+Charlie Benante's drum kit is a Tama Starclassic Maple setup — the configuration he has refined across more than four decades as Anthrax's founding drummer and thrash metal's pioneering architect of the blast beat and sustained double bass technique. The Charlie Benante drum set is anchored by his Tama Charlie Benante Signature snare drum — a 14×6.5" model tuned for maximum cut, delivering the sharp crack that has driven Anthrax from Spreading the Disease through For All Kings and into his current Pantera reunion performances.
+
+Paiste RUDE and 2002 Series cymbals complete the Charlie Benante drum kit: 14" Hi-Hats for crisp thrash articulation; 18" and 19" Crashes for rapid-fire accents; a 20" Power Ride for rhythmic authority on Big Four stages; and an 18" China for explosive punctuation. A Tama Speed Cobra double pedal — replacing the HP35 Camco pedals he used for 26 years — drives his relentless double kick patterns. Vic Firth Charlie Benante Signature sticks and Roland electronic triggers complete a drum set that built thrash metal's rhythmic foundation. For the full gear breakdown, see the [Charlie Benante Anthrax kit](/articles/whats-in-charlie-benantes-kit).
+
 ## Band History
 
 - **Anthrax** — 1983–present (current)

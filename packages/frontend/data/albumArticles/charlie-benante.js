@@ -1015,6 +1015,617 @@ export const articles = {
       "content": "Sound of White Noise is the album where Anthrax stopped being a thrash band and started being something more flexible — a heavy band capable of operating across genres without losing identity. Charlie Benante's complete gear reinvention, from Tama to DW, from Paiste to Sabian, from Camco to 5000-series pedals, reflects the depth of that artistic evolution. This was not a cosmetic switch; it was a comprehensive rethinking of how he wanted his drums to sound and what kind of music he wanted them to support.\n\nThe album's commercial success — debuting at #7 on the Billboard 200 (Anthrax's highest chart position ever), going Gold in the US, and producing two singles in \"Only\" and \"Black Lodge\" that received significant radio and MTV rotation — validated the risk. The fan base that worried John Bush would not work showed up in larger numbers than ever before. The critical reception, mixed at the time, has only grown more positive in retrospect: Sound of White Noise is now widely regarded as Anthrax's most underrated album and arguably the band's high-water mark of the 1990s.\n\nFor Charlie Benante, Sound of White Noise documents the moment where his thrash-pioneering identity expanded into a more complete drummer's vocabulary. The double bass technique that defined Among the Living is still present, but used selectively. The groove sensibility that had always been embedded in his playing — audible even in thrash contexts like \"Caught in a Mosh\" — moves to the foreground. The musical intelligence applied to thrash metal arrangements now serves slower, weightier songs that require different forms of restraint and dynamic control.\n\nFor the thrash-era Charlie Benante story, visit the [Among the Living drum setup article](/articles/charlie-benante-among-the-living-drum-setup). For Charlie's full career and complete gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante). For Anthrax's complete drummer history and band context, see the [Anthrax band page](/bands/anthrax)."
     }
   },
+  "spreading-the-disease-drum-setup": {
+    "slug": "spreading-the-disease-drum-setup",
+    "albumTitle": "Spreading the Disease",
+    "artist": "Anthrax",
+    "drummer": "Charlie Benante",
+    "drummerId": 12,
+    "relatedDrummerSlug": "charlie-benante",
+    "year": 1985,
+    "genre": "Thrash Metal",
+    "label": "Megaforce Records",
+    "studio": "Pyramid Sound Studios, Ithaca, New York",
+    "producer": "Carl Canedy",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-29",
+    "dateModified": "2026-06-29",
+    "author": "MetalForge Editorial",
+    "title": "Spreading the Disease Drum Setup: Charlie Benante's Anthrax Debut Gear (1985)",
+    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's Spreading the Disease (1985). Tama Artstar kit, Paiste 2002/RUDE cymbals, and the blast-beat innovations that made 'Madhouse' a thrash metal landmark.",
+    "seoKeywords": [
+      "charlie benante drum setup 1985",
+      "spreading the disease drum setup",
+      "anthrax spreading the disease drums",
+      "madhouse drum setup",
+      "charlie benante first anthrax album",
+      "anthrax 1985 drums",
+      "charlie benante paiste 2002",
+      "charlie benante blast beat"
+    ],
+    "ogImage": "/images/albums/spreading-the-disease-drums.webp",
+    "intro": {
+      "title": "The Classic Lineup's Recording Debut — Thrash Metal Ignited",
+      "content": "Released on November 1, 1985, Anthrax's Spreading the Disease is where the classic lineup announced itself to the world. It was the band's first album with Joey Belladonna on vocals, and it established the sonic blueprint — relentless double bass, melodic aggression, blast-beat innovation — that would define the next five years of Anthrax history and place Charlie Benante at the forefront of thrash drumming.\n\nProduced by Carl Canedy (drummer of The Rods) at Pyramid Sound Studios in Ithaca, New York, the album gave Benante a more professional recording environment than the Fistful of Metal sessions and allowed his technical innovations to register fully on tape. Canedy understood hard-hitting drumming intimately and worked to capture the full dynamic range of Benante's kit — from the explosive snare cracks to the sustained double-bass patterns that were already unlike anything else in thrash.\n\nThe album opens with 'A.I.R.' and within eight bars it's clear this is a different beast. The double bass drives the main riff with a locked, mechanical precision that was years ahead of the competition. 'Madhouse' became Anthrax's signature song and remains one of the most-cited tracks in thrash history — its mid-tempo groove underpinned by Benante's perfect snare placement and hi-hat command. 'Lone Justice,' 'Aftershock,' and 'Medusa' showed that this wasn't a band that front-loaded albums with their best material; Spreading the Disease maintained intensity across all nine tracks.\n\nFor drummers, the album documents a key moment in Charlie Benante's development: the gear configuration was settling into its first endorsement-era shape (Tama drums, Paiste 2002 and RUDE cymbals, the HP35 Camco pedals he'd started using in 1984), and the techniques that would define his reputation — blast beats in a metal context, sustained double-bass triplet figures, compositional fills that served arrangements — were being committed to tape for the first time in their fully realised form.\n\nThis article documents every piece of equipment Charlie Benante used to record Spreading the Disease and connects the album to its place in the arc that leads to Among the Living (1987) and beyond.",
+      "keyPoints": [
+        "First Anthrax album with Joey Belladonna — debut of the classic lineup",
+        "Recorded at Pyramid Sound Studios, Ithaca, New York in 1985",
+        "Produced by Carl Canedy (drummer of The Rods)",
+        "Features 'Madhouse' — one of the most-cited thrash metal songs ever recorded",
+        "Benante's blast beats and double-bass innovations captured in their earliest full studio form",
+        "Tama Artstar kit with Paiste 2002 / RUDE cymbals and HP35 Camco pedals"
+      ]
+    },
+    "drumKit": {
+      "title": "Benante's 1985 Tama Artstar Configuration",
+      "brand": "Tama",
+      "model": "Tama Artstar",
+      "finish": "Black",
+      "config": {
+        "bassdrums": [
+          "22\" x 16\" Bass Drum (x2)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Birch shells with die-cast hoops"
+      },
+      "description": "By 1985 Charlie Benante was a Tama endorser, and for Spreading the Disease he used a Tama Artstar kit — the professional series that would serve as the foundation of his Anthrax recordings through the rest of the decade. The Artstar's birch shell construction delivered the punchy, upper-midrange-forward attack that was becoming synonymous with the New York thrash sound: tight, percussive, and cutting through even the densest guitar arrangements.\n\nTwo separate 22\" bass drums were already a non-negotiable feature of Charlie's setup. He had been an early proponent of dual kick drums in thrash — not the double pedal setup that many drummers used, but two full bass drums independently tuned and miked. This gave him the symmetric tonal weight and physical consistency needed for the sustained double-bass patterns on tracks like 'A.I.R.' and 'Aftershock.' Each drum contributed equally to the rhythmic thrust that would become one of Anthrax's defining sonic signatures.\n\nThe three-rack-tom, single-floor-tom configuration reflected Benante's compositional thinking. As Anthrax's primary songwriter, he needed a melodically flexible fill vocabulary without the setup complexity that would slow transitions. The 10/12/13 progression gave him a natural staircase for ascending and descending fills, while the 16\" floor tom anchored the low-end punctuation that complemented Joey Belladonna's rhythmic vocal phrasing.\n\nTama's birch shells were ideal for Carl Canedy's production approach at Pyramid Sound. Birch's natural frequency response emphasises the attack transient and upper midrange, which means each tom hit registered cleanly and sharply in the studio — exactly the kind of articulation that thrash drumming demands when basslines and rhythm guitars occupy so much of the low-midrange space.",
+      "notes": [
+        "Two separate 22\" bass drums — the foundation of Benante's pioneering double-bass technique",
+        "Birch shells for punchy, articulate attack suited to thrash production",
+        "Three-rack, single-floor configuration for melodic fill vocabulary",
+        "Early Tama endorsement era — the brand that would define his sound for decades",
+        "Die-cast hoops for sustain control and durability under heavy hitting"
+      ],
+      "estimatedValue": "$1,500-2,500 (1985 era)"
+    },
+    "snare": {
+      "title": "The Thrash-Ready Steel Voice",
+      "brand": "Tama",
+      "model": "Tama Artstar Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel shell",
+      "description": "The snare on Spreading the Disease is a Tama steel model — bright, aggressive, and tuned high for maximum attack and articulation. In 1985, steel snares were the weapon of choice for thrash drummers: the shell material delivered more upper-frequency content than brass or wood, producing a crack that cut through Anthrax's dense guitar assault with authority.\n\nBenante tuned the drum tight, consistent with the standard thrash snare approach of the mid-1980s. High batter-head tension eliminated unwanted ring and maximised the initial transient — the sharp, defined crack on every backbeat that became one of the most identifiable elements of the Anthrax sound. The snare wires were tensioned tight for maximum sensitivity, allowing the drum to respond cleanly to the ghost notes and rapid single-stroke figures that populate Benante's vocabulary.\n\nCarl Canedy's production at Pyramid Sound placed the snare forward in the mix, following the template that thrash production was beginning to standardise in 1985: kick drums for low-end foundation, snare as the central rhythmic voice, cymbals to define the top end. On tracks like 'Madhouse' and 'Lone Justice,' the snare crack arrives with the authority of a musical statement rather than a mere timekeeping device.\n\nThis steel snare approach would carry forward through Among the Living (1987) before Benante's evolving endorsement relationships brought in the legendary Tama Bell Brass for State of Euphoria (1988).",
+      "tuningSetting": "High tension for maximum crack and attack",
+      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$150-250 (1985 era)"
+    },
+    "cymbals": {
+      "title": "Paiste 2002 and RUDE — The Thrash Weapon Pair",
+      "brand": "Paiste",
+      "series": "Paiste 2002 / RUDE",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
+          "position": "Left side",
+          "notes": "The definitive thrash hi-hat — wavy bottom for crisp chick and fast response"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 16\" Medium Crash",
+          "position": "Far left",
+          "notes": "Fast, cutting crash for quick accent transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 18\" Medium Crash",
+          "position": "Left of toms",
+          "notes": "Primary workhorse crash with full body"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste RUDE 18\" Crash/Ride",
+          "position": "Right of toms",
+          "notes": "RUDE series durability for aggressive hitting; doubles as ride"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste 2002 22\" Heavy Ride",
+          "position": "Far right",
+          "notes": "Powerful ride with clear bell for accents in fast passages"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 18\" China",
+          "position": "Above floor tom",
+          "notes": "Explosive trashy accents through choruses and thrash passages"
+        }
+      ],
+      "description": "By 1985, Charlie Benante was already a Paiste endorser, and for Spreading the Disease his cymbal setup drew from two complementary Paiste lines: the classic 2002 series for most of the setup and the heavy-duty RUDE series for the pieces that needed to withstand the most aggressive playing.\n\nThe 14\" 2002 Sound Edge hi-hats are among the most celebrated thrash hi-hats in metal history. The wavy bottom cymbal design produces a crisp, defined 'chick' sound and fast closure response — essential for the driving 16th-note hi-hat patterns that propel tracks like 'A.I.R.' and 'Madhouse.' Even at the blistering tempos of mid-1980s Anthrax, the Sound Edge pair articulated cleanly, giving Benante's groove a rhythmic clarity that competing hi-hat designs often couldn't match.\n\nMultiple crashes gave him the dynamic range that a nine-track album of continuous thrash aggression demanded. The 16\" crash responded instantly for rapid-fire accent work; the 18\" 2002 Medium Crash served as the primary workhorse. The RUDE 18\" Crash/Ride was the heaviest-hitting piece in the array — the RUDE series was specifically designed for drummers who needed cymbal performance under the kind of punishment that touring thrash metal inflicted.\n\nThe 22\" 2002 Heavy Ride provided the bell clarity and sustain control needed at thrash tempos. A lighter ride would wash out under Benante's attack; the Heavy Ride's mass prevented that without sacrificing the bell definition he used for accents. The 18\" China delivered the explosive, trashy bursts that punctuated the album's most intense passages — a strategic accent voice rather than a constant presence.",
+      "estimatedValue": "$1,200-1,800 total (1985 era)"
+    },
+    "hardware": {
+      "title": "Tama HP35 Camco — The Legendary Pedal Begins",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Tama",
+          "model": "Tama HP35 Camco",
+          "notes": "The pedals Charlie used from 1984 to 2010 — first full album on these legendary chain-drives",
+          "description": "Spreading the Disease was the first Anthrax album recorded with the Tama HP35 Camco pedals that Charlie Benante would use for the next 26 years. The Camco chain-drive design provided a direct, responsive feel with consistent spring action — the mechanical foundation of his pioneering sustained double-bass technique. The HP35 Camco's design was simple and reliable: consistent enough that Benante never felt the need to upgrade until Tama discontinued the line in 2010."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Titan Hi-Hat Stand",
+          "notes": "Heavy-duty platform for fast hi-hat footwork at thrash tempos",
+          "description": "The Tama Titan hi-hat stand provided rock-solid stability for the precise hi-hat patterns throughout Spreading the Disease. At thrash tempos, hi-hat stand stability directly affects pattern consistency — any flex or rattle introduces inconsistency in the chick sound."
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair",
+          "notes": "Stable seating for physically demanding thrash performances"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark Hickory 2B",
+          "notes": "Heavy hickory sticks for power and projection"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter), front head ported for mic placement",
+        "toms": "Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Carl Canedy's Production Approach at Pyramid Sound",
+      "content": "Carl Canedy — drummer of The Rods and a respected producer in the hard rock and early metal world — brought both technical knowledge and genuine affinity for heavy drumming to the Spreading the Disease sessions at Pyramid Sound Studios in Ithaca, New York. Unlike producers who approached metal from a rock-recording background, Canedy understood the physical demands and sonic priorities of hard-hitting drum performance from the inside.\n\n**The Studio Environment:**\nPyramid Sound in Ithaca was a professional studio with flexible room options, and Canedy worked to capture the physical presence of Benante's kit. The approach was closer-miked than the ambient production style that Eddie Kramer would bring to Among the Living two years later — tighter, more controlled, with the drum sound serving the aggressive energy of the music rather than presenting the kit as an orchestral voice.\n\n**Microphone Approach:**\n- Kick drums: Individual close mics on each bass drum for clarity and punch\n- Snare: Top and bottom microphones for combined attack and snap\n- Toms: Close mics on each drum for articulation in fast fill passages\n- Overheads: Condensers capturing cymbal wash and upper-register detail\n- Limited room ambience compared to later Anthrax productions\n\n**The Double Bass Capture:**\nCapturing two separate bass drums cleanly in 1985 was a genuine technical challenge. Canedy ensured each drum was independently miked and tuned for consistent attack, which gave the sustained double-bass patterns on tracks like 'A.I.R.' and 'Aftershock' their mechanical precision. The kick sound is punchy and forward — a tight transient rather than a round thud.\n\n**Overall Character:**\nThe Spreading the Disease drum sound is bright, dry, and aggressive — perfectly matched to the album's energy and Anthrax's New York thrash identity. It captures Benante's innovations in their earliest fully realised form and established the sonic template that Eddie Kramer would refine on Among the Living.",
+      "keyTechniques": [
+        "Close-miked, tight approach for maximum articulation",
+        "Individual mics on each bass drum for sustained double-bass clarity",
+        "Bright, dry drum sound matched to early thrash production aesthetics",
+        "Snare positioned forward in the mix as the central rhythmic voice"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Madhouse",
+        "bpm": "190",
+        "signature": "4/4",
+        "highlights": [
+          "Anthrax's signature song and one of thrash's most-cited drum performances",
+          "Mid-tempo groove that hits harder than many faster tracks",
+          "Benante's snare placement and hi-hat control are textbook",
+          "Melodic tom fills that serve the song's compositional architecture",
+          "The song that made 'Madhouse drum setup' a search term decades later"
+        ],
+        "gearNotes": "The 2002 Sound Edge hi-hats drive the groove with crisp 16th-note articulation. The steel snare's crack defines the backbeat. HP35 Camco pedals handle the double-bass passages with controlled precision."
+      },
+      {
+        "track": "A.I.R.",
+        "bpm": "200",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener that establishes the double-bass template immediately",
+          "Sustained kick patterns demonstrate Benante's early HP35 Camco control",
+          "Hi-hat patterns maintain clarity at blistering opening tempo",
+          "One of thrash's most effective album-opening drum statements"
+        ],
+        "gearNotes": "Both 22\" bass drums working in tandem from the opening bars. The RUDE Crash/Ride handles the intensity of the main riff sections."
+      },
+      {
+        "track": "Lone Justice",
+        "bpm": "210",
+        "signature": "4/4",
+        "highlights": [
+          "Blast-beat elements appear in the verse sections — early metal blast beat on record",
+          "Demonstrates Benante's punk and hardcore cross-pollination",
+          "S.O.D. crossover influence audible in the raw, direct approach",
+          "One of the fastest tracks on the album"
+        ],
+        "gearNotes": "The Paiste China cymbal accents the chorus transitions. Double-bass patterns show the HP35 Camco at its most demanding."
+      },
+      {
+        "track": "Aftershock",
+        "bpm": "180",
+        "signature": "4/4",
+        "highlights": [
+          "Slightly more measured tempo showcases Benante's dynamic control",
+          "The floor tom figures in the main riff create melodic counterpoint",
+          "Shows his compositional approach — fills that add to the arrangement",
+          "The range of the 10/12/13 rack array is fully employed"
+        ],
+        "gearNotes": "The Paiste 22\" Heavy Ride comes into its own here for a more sustained groove feel. Tom fills use the full rack array melodically."
+      }
+    ],
+    "evolution": {
+      "title": "From Spreading the Disease to Among the Living and Beyond",
+      "content": "Spreading the Disease established the gear and technique template that Charlie Benante would refine over the next five years of peak-era Anthrax. The Tama Artstar kit, Paiste 2002/RUDE cymbals, and HP35 Camco pedals that served Spreading the Disease were the direct ancestors of the configuration documented on Among the Living (1987) — and the double-bass innovations and blast-beat vocabulary introduced here were the seeds of the entire subsequent era.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Artstar (birch) — Spreading the Disease (1985)",
+          "now": "Tama Artstar II (birch) — Among the Living (1987)"
+        },
+        {
+          "category": "Snare",
+          "then": "Tama Artstar Steel 14\" x 6.5\"",
+          "now": "Tama Artstar Steel (refined, same core approach)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste 2002 / RUDE series",
+          "now": "Paiste 2002 (Among the Living) → Sabian AA/HH (from State of Euphoria 1988)"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama HP35 Camco (first album on these legendary pedals)",
+          "now": "Tama HP35 Camco (used continuously until 2010)"
+        },
+        {
+          "category": "Producer",
+          "then": "Carl Canedy (Pyramid Sound, Ithaca NY)",
+          "now": "Eddie Kramer (Kajem/Victory Studios, PA — Among the Living)"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "question": "What drum kit did Charlie Benante use on Spreading the Disease?",
+        "answer": "Charlie Benante used a Tama Artstar kit on Spreading the Disease (1985). The setup included dual 22\" x 16\" bass drums, three rack toms (10\", 12\", 13\"), and a 16\" floor tom, all with birch shells. This was Benante's first full album as a Tama endorser, establishing the kit brand and configuration he would use throughout the classic Anthrax era. Spreading the Disease is also the first Anthrax album with the classic lineup featuring Joey Belladonna on vocals."
+      },
+      {
+        "question": "What was the first Anthrax album with Charlie Benante?",
+        "answer": "Charlie Benante has been a founding member of Anthrax since 1983 and played on every studio album. Fistful of Metal (1984) was his first recording, but Spreading the Disease (1985) is the first Anthrax album with the classic lineup featuring Joey Belladonna on vocals. It is widely considered the debut of the definitive Anthrax sound and is where Benante's technical innovations — double-bass patterns, blast beats, compositional fills — were first documented in their fully realised form."
+      },
+      {
+        "question": "What cymbals did Charlie Benante use on Spreading the Disease?",
+        "answer": "Charlie Benante used Paiste cymbals on Spreading the Disease, combining the 2002 and RUDE series. The setup included Paiste 2002 14\" Sound Edge hi-hats, 16\" and 18\" 2002 Medium Crashes, a RUDE 18\" Crash/Ride for the most aggressive playing, a 2002 22\" Heavy Ride, and a 2002 18\" China. He would continue using Paiste through Among the Living (1987) before switching to Sabian for State of Euphoria (1988)."
+      },
+      {
+        "question": "What pedals did Charlie Benante use on Spreading the Disease?",
+        "answer": "Charlie Benante used Tama HP35 Camco chain-drive pedals on Spreading the Disease — the same pedals he had started using in 1984 and would continue to use for 26 years until Tama discontinued the line in 2010. The Camco's direct, responsive chain-drive feel was the mechanical foundation of Benante's pioneering sustained double-bass technique. Spreading the Disease is likely the first full Anthrax album recorded with these legendary pedals."
+      },
+      {
+        "question": "Who produced Spreading the Disease and where was it recorded?",
+        "answer": "Spreading the Disease was produced by Carl Canedy — drummer of The Rods — and recorded at Pyramid Sound Studios in Ithaca, New York in 1985. Canedy brought a drummer's understanding of heavy music to the sessions and worked to capture the physical presence of Benante's kit in a tight, close-miked production that suited the album's aggressive energy. The result was a brighter, drier drum sound than Eddie Kramer's ambient approach on the subsequent Among the Living."
+      },
+      {
+        "question": "How does Spreading the Disease fit in Charlie Benante's drum setup arc?",
+        "answer": "Spreading the Disease is the opening chapter of Charlie Benante's classic-era gear arc. It documents his first full album on Tama Artstar drums and HP35 Camco pedals, his early Paiste 2002/RUDE cymbal setup, and the nascent form of the double-bass and blast-beat techniques that would be fully refined on Among the Living (1987) and Persistence of Time (1990). For the next chapter in his gear evolution, see the Among the Living drum setup breakdown."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "charlie-benante-among-the-living-drum-setup",
+      "state-of-euphoria-drum-setup",
+      "persistence-of-time-drum-setup"
+    ],
+    "relatedDrummers": [
+      4,
+      1,
+      3
+    ],
+    "relatedArticles": [
+      "whats-in-charlie-benantes-kit",
+      "thrash-metal-drummers",
+      "big-four-thrash"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Album That Started the Arc",
+      "content": "Spreading the Disease is where the Charlie Benante story begins in earnest — not because Fistful of Metal didn't exist, but because everything that defines the Anthrax sound arrived here simultaneously. Joey Belladonna's voice, Scott Ian and Dan Spitz's twin-guitar aggression, Frank Bello's rumbling bass, and Charlie Benante's technically advanced, compositionally intelligent drumming: this is the lineup that wrote the Anthrax chapter of thrash history, and Spreading the Disease is its opening statement.\n\nFor drummers, the album is a study in priorities. Benante was already one of thrash's most technically accomplished practitioners in 1985, but the gear choices and production approach on Spreading the Disease reflect the priorities he has maintained for four decades: gear that serves the music, technique that serves the song, and innovations that expand the vocabulary rather than merely display it. The HP35 Camco pedals he started using in 1984 appear here for the first time on a full-length Anthrax album. The Paiste 2002 Sound Edge hi-hats deliver the crisp, defined patterns that have driven Anthrax grooves ever since. The dual Tama bass drums establish the physical foundation of the most sustained double-bass technique in Big Four thrash.\n\nTracks like 'Madhouse' and 'A.I.R.' have remained in Anthrax's live set for four decades not because the band is nostalgic, but because the material is genuinely great — and at the core of that greatness is Charlie Benante's drumming. 'Madhouse' in particular has become one of the most-searched Anthrax drum topics on the internet because it represents something rare: a song where the drums are simultaneously appropriate for the song and undeniably impressive on their own terms.\n\nFor the full Charlie Benante gear story, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately followed this one, see the [Among the Living drum setup breakdown](/articles/charlie-benante-among-the-living-drum-setup). For Anthrax's complete drummer history, see the [Anthrax band page](/bands/anthrax)."
+    }
+  },
+  "persistence-of-time-drum-setup": {
+    "slug": "persistence-of-time-drum-setup",
+    "albumTitle": "Persistence of Time",
+    "artist": "Anthrax",
+    "drummer": "Charlie Benante",
+    "drummerId": 12,
+    "relatedDrummerSlug": "charlie-benante",
+    "year": 1990,
+    "genre": "Thrash Metal",
+    "label": "Island Records",
+    "studio": "Bearsville Studios, Bearsville, New York",
+    "producer": "Mark Dodson, Anthrax",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-29",
+    "dateModified": "2026-06-29",
+    "author": "MetalForge Editorial",
+    "title": "Persistence of Time Drum Setup: Charlie Benante's 1990 Anthrax Gear Breakdown",
+    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's Persistence of Time (1990). Tama Artstar Custom kit, Sabian cymbals, HP35 Camco pedals — the final Joey Belladonna-era album that went Platinum in the US.",
+    "seoKeywords": [
+      "charlie benante persistence of time drum setup",
+      "persistence of time drums 1990",
+      "anthrax 1990 drum setup",
+      "charlie benante got the time drums",
+      "anthrax final joey belladonna album drums",
+      "charlie benante tama artstar 1990",
+      "charlie benante sabian cymbals",
+      "persistence of time charlie benante"
+    ],
+    "ogImage": "/images/albums/persistence-of-time-drums.webp",
+    "intro": {
+      "title": "The Joey Belladonna Era's Final Statement — Anthrax at Their Commercial Peak",
+      "content": "Released on August 7, 1990, Persistence of Time was Anthrax's sixth studio album, the final record of their first era with Joey Belladonna, and the band's most commercially successful release to that point. It debuted at #24 on the Billboard 200 — their highest chart position yet — and became the first Anthrax album to go Platinum in the United States. At its center was Charlie Benante, now five years into the classic lineup's run and playing with the authority of a drummer who had spent those years becoming one of the most technically complete practitioners in thrash metal.\n\nProduced by Mark Dodson — who had also helmed State of Euphoria (1988) — and recorded at Bearsville Studios in upstate New York, Persistence of Time was a darker, more deliberate record than its predecessors. The breakneck tempos of Spreading the Disease and the punchy momentum of Among the Living gave way to something more intentional: longer songs, heavier riffs, and a production approach that gave the drums more weight and low-end presence. Dodson and Benante refined the approach they had begun at Compass Point in 1988, pushing the drum sound toward greater density and physical impact while maintaining the upper-midrange definition that distinguished Anthrax from their contemporaries.\n\nThe album's most celebrated moment is 'Got the Time' — a cover of Joe Jackson's 1979 song, transformed into a furious 90-second sprint. Benante's performance on the track is jaw-dropping: locked double-bass driving an impossibly fast tempo, snare cracks landing with surgical precision, hi-hat patterns that never sacrifice clarity for speed. It became one of the most covered drum performances in thrash history and introduced an entirely new audience to Benante's capabilities. 'In My World,' 'Blood,' and the epic title track showcased the album's more expansive ambitions, while 'H8 Red' and 'One Man Stands' demonstrated that Anthrax could still produce short, direct thrash statements at the highest level.\n\nFor drummers, Persistence of Time is the culmination of the Joey Belladonna era — the album where Benante's gear had fully settled into its late-80s/early-90s configuration, his technique was at its most refined, and the compositional ambitions he had been developing since Spreading the Disease reached their fullest expression in the thrash framework.",
+      "keyPoints": [
+        "Recorded at Bearsville Studios, Bearsville, New York in 1990",
+        "Produced by Mark Dodson with Anthrax — same production team as State of Euphoria",
+        "Debuted at #24 on the Billboard 200 — Anthrax's highest chart position at the time",
+        "First Anthrax album to go Platinum in the United States",
+        "Final studio album with Joey Belladonna before John Bush joined for Sound of White Noise (1993)",
+        "Includes 'Got the Time' — one of thrash metal's most celebrated drum performances"
+      ]
+    },
+    "drumKit": {
+      "title": "Benante's 1990 Tama Artstar Custom Configuration",
+      "brand": "Tama",
+      "model": "Tama Artstar Custom",
+      "finish": "Black",
+      "config": {
+        "bassdrums": [
+          "22\" x 16\" Bass Drum (x2)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Birch shells with die-cast hoops"
+      },
+      "description": "For Persistence of Time, Charlie Benante used a Tama Artstar Custom — the professional variant of the Artstar line that Tama offered as a custom-specification option for endorsers during the late 1980s and early 1990s. The Artstar Custom shared the birch shell construction that had defined Benante's recording sound since the Artstar II on Among the Living, but with specific bearing edge, hardware, and finish configurations tailored to individual artist requirements.\n\nThe dual 22\" bass drums remained Benante's foundational instrument. After five years of recording and touring with two separate kick drums, the configuration was entirely intuitive. On an album where songs like 'In My World' and 'Time' stretched to six and seven minutes, the symmetric weight and tonal consistency of two matched bass drums was essential for maintaining energy and precision across extended passages. Mark Dodson and Benante worked together to dial in a kick sound that was tighter and more focused than the roomy approach Eddie Kramer had used on Among the Living — appropriate for the album's heavier, darker aesthetic.\n\nThe three-rack, single-floor-tom layout had by 1990 become Benante's standard touring and studio configuration. He had refined his fill vocabulary around this setup across State of Euphoria and extensive touring, and by the Bearsville sessions the relationship between his compositional ideas and the physical layout of the kit was entirely seamless. The 16\" floor tom provided the low-register anchor for the album's extended, heavy sections, while the 10/12/13 rack progression enabled the fast, melodic fill transitions that characterise his playing on tracks like 'Blood' and 'Keep It in the Family.'\n\nTama's birch shells continued to deliver the punchy, upper-midrange-forward attack that distinguished Anthrax's drum recordings from the maple-heavy sounds that were becoming fashionable in early-90s production. On a Dodson record, tight birch drums sat perfectly in the mix — aggressive enough to cut through the rhythm guitars, articulate enough to register in dense passages.",
+      "notes": [
+        "Two separate 22\" bass drums — the constant across the entire classic-era arc",
+        "Birch shells for punchy, articulate attack suited to Dodson's production aesthetic",
+        "Artstar Custom — tailored endorser specification from the Artstar line",
+        "Three-rack, single-floor configuration refined over five years of touring and recording",
+        "Long-term Tama endorsee since the mid-1980s"
+      ],
+      "estimatedValue": "$2,500-3,500 (1990 era)"
+    },
+    "snare": {
+      "title": "Sabian Brass Snare — Late-Era Classic Lineup Voice",
+      "brand": "Tama",
+      "model": "Tama Artstar Custom Brass Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Brass shell",
+      "description": "For Persistence of Time, Benante moved to a brass-shell snare — a step toward the warmer, more body-forward snare sound that would define his approach in the early 1990s. Compared to the steel snares of the earlier Anthrax records, a brass shell produces a slightly warmer, rounder fundamental with more sustain, while still delivering strong attack and cut at high tunings.\n\nThe choice was appropriate for the album's production context. Where Spreading the Disease and Among the Living had demanded the bright, clinical crack of a steel shell at high tension, Persistence of Time's darker, more deliberate aesthetic benefited from a snare with more body. Dodson's drum production on this album gives the snare more mid-range presence than his State of Euphoria work — a fuller, less brittle sound that supported the album's heavier, longer-form songs.\n\nBenante tuned the brass snare at medium-high tension for a balance of crack and body. The snare wires were kept tight for sensitivity and articulation. On tracks like 'Blood' and 'In My World,' the snare sits in the mix with authority — not the piercing crack of the early thrash records, but a heavier, more substantial presence that matched the album's matured vision of thrash metal.\n\nThis snare approach bridged the steel snare of the earlier Anthrax records and the DW Edge Series hybrid construction that Benante would use on Sound of White Noise (1993) — a logical progression in tone and character.",
+      "tuningSetting": "Medium-high tension for balanced crack and body",
+      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$300-500 (1990 era)"
+    },
+    "cymbals": {
+      "title": "Sabian AA / HH — The Fully Developed Classic-Era Setup",
+      "brand": "Sabian",
+      "series": "Sabian AA / HH",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Sabian AA 14\" Rock Hi-Hats",
+          "position": "Left side",
+          "notes": "Tight, focused chick for fast thrash and mid-tempo patterns"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AA 16\" Medium Crash",
+          "position": "Far left",
+          "notes": "Fast response crash for quick accent work"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AA 17\" Medium Crash",
+          "position": "Left of toms",
+          "notes": "Primary workhorse crash with cut and body"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AA 18\" Rock Crash",
+          "position": "Right of toms",
+          "notes": "Heavier crash for the album's most intense passages"
+        },
+        {
+          "type": "Ride",
+          "model": "Sabian AA 21\" Rock Ride",
+          "position": "Far right",
+          "notes": "Defined bell and controlled wash at extended tempos"
+        },
+        {
+          "type": "China",
+          "model": "Sabian AA 18\" Chinese",
+          "position": "Above floor tom",
+          "notes": "Explosive trashy accents through choruses and breakdowns"
+        }
+      ],
+      "description": "By Persistence of Time, Charlie Benante's Sabian endorsement was fully established. He had made the switch from Paiste to Sabian before or during the State of Euphoria sessions in 1988, and by 1990 the Sabian AA and HH series were thoroughly integrated into his playing. The result was a cymbal setup that delivered the bright, cutting projection needed for thrash playing while offering the tonal variety a compositionally sophisticated drummer requires.\n\nThe 14\" AA Rock Hi-Hats were central to the album's groove vocabulary. Their tight, focused chick sound and fast closure response served the broad tempo range on Persistence of Time — from the sprint of 'Got the Time' to the measured weight of the title track. At every tempo, the AA Rock pair articulated clearly and maintained the rhythmic clarity that Benante's patterns demanded.\n\nMultiple crashes in three sizes gave him the dynamic range that extended, ambitious songs required. The 16\" AA Medium Crash responded instantly for quick, cutting accent work in fast passages; the 17\" served as the primary voice for regular accent points; the 18\" AA Rock Crash delivered the heavier, sustained splash at the album's most intense moments. This tiered crash array allowed him to calibrate the weight and sustain of accent points to the specific emotional demands of each song section.\n\nThe 21\" AA Rock Ride was substantial enough to remain controlled at the blistering tempo of 'Got the Time' while providing the bell definition needed for accent work across the album's slower, heavier tracks. The 18\" AA Chinese appeared at strategic accent points — less frequently than on earlier Anthrax records, matching the more deliberate compositional approach of 1990-era Anthrax.",
+      "estimatedValue": "$1,500-2,200 total (1990 era)"
+    },
+    "hardware": {
+      "title": "Tama HP35 Camco — The 1990 Chapter of a 26-Year Relationship",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Tama",
+          "model": "Tama HP35 Camco",
+          "notes": "Sixth year of the 26-year HP35 Camco relationship — utterly dialed in by 1990",
+          "description": "By Persistence of Time, Charlie Benante had been using Tama HP35 Camco chain-drive pedals for six years. The relationship was so deeply established that the mechanical feel of the Camco was simply part of his physical vocabulary — the spring tension, travel, and chain response were extensions of his body. On an album where 'Got the Time' demands pedal performance at the outer edge of human speed, the Camco's reliability and consistency were non-negotiable. These pedals would continue to serve him through another 20 years of Anthrax recordings and tours."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Titan Hi-Hat Stand",
+          "notes": "Stable, consistent hi-hat platform across the extended Bearsville sessions",
+          "description": "The Tama Titan stand's rock-solid stability supported the hi-hat patterns across all 12 tracks of Persistence of Time. Its consistent spring tension and leg bracing prevented any movement during the most demanding passages."
+        },
+        {
+          "type": "Cymbal & Tom Stands",
+          "brand": "Tama",
+          "model": "Tama Titan / Stage Master",
+          "notes": "Full Tama hardware suite matching the Artstar Custom kit",
+          "description": "Tama Titan and Stage Master stands completed the hardware setup, providing a stable and visually consistent platform for the cymbal array and rack toms."
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair",
+          "notes": "Consistent seating across five years of classic-lineup recording and touring"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark Hickory 2B",
+          "notes": "Heavy hickory sticks for power and projection in the Bearsville sessions"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter), front head ported for mic placement",
+        "toms": "Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Mark Dodson's Bearsville Approach — Darker, Denser, More Deliberate",
+      "content": "Mark Dodson returned to produce Persistence of Time after State of Euphoria, and the Bearsville sessions took the production philosophy he had established at Compass Point one step further toward weight and density. Where State of Euphoria's drum sound had been bright, dry, and aggressive in the upper midrange, Persistence of Time's drums are heavier, slower-feeling (even on the fast tracks), and more physically imposing — a deliberate sonic choice to match the album's darker, more ambitious material.\n\n**The Studio Environment:**\nBearsville Studios in upstate New York offered a larger, more acoustically flexible recording environment than Compass Point's more contained Nassau facility. Dodson used Bearsville's room characteristics to add low-end weight and depth to the kick drums and toms — a sense of physical presence that State of Euphoria had not quite achieved.\n\n**Microphone Approach:**\n- Kick drums: Close mics inside each bass drum with sub-kick microphones for additional low-end body\n- Snare: Top and bottom mics blended for combined attack and resonance\n- Toms: Individual close mics on each drum for articulation in fast passages\n- Overheads: Stereo condensers for cymbal definition and upper-register space\n- Room mics: Used more generously than on State of Euphoria, adding depth\n\n**The Kick Sound on 'Got the Time':**\nThe bass drum on 'Got the Time' is one of the most discussed drum sounds in Anthrax history. It's simultaneously fast and heavy — tight enough to articulate clearly at extreme tempo, but with enough low-end body to land with physical weight. Dodson achieved this by tuning the kicks slightly higher than on State of Euphoria's slower, weightier tracks, and using a tighter porting configuration on the front heads.\n\n**Overall Character:**\nPersistence of Time's drum sound sits between State of Euphoria's bright, dry aggression and the full-bodied, organic richness that Dave Jerden would bring to Sound of White Noise three years later. It is the mature endpoint of the Dodson/Benante collaboration — a drum sound perfectly calibrated for the final and most ambitious statement of the classic Anthrax lineup.",
+      "keyTechniques": [
+        "More low-end weight than State of Euphoria — room mics used more generously",
+        "Kick drums tuned for both articulation and body across multiple tempos",
+        "Snare with fuller mid-range presence than earlier Anthrax records",
+        "Overall drum sound calibrated for the album's darker, more deliberate aesthetic"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Got the Time",
+        "bpm": "230",
+        "signature": "4/4",
+        "highlights": [
+          "Joe Jackson cover transformed into a 90-second thrash sprint",
+          "One of the fastest and most precisely executed Anthrax drum performances",
+          "Hi-hat patterns maintain absolute clarity at the extreme tempo",
+          "Double-bass driving the opening riff demonstrates Camco pedal mastery",
+          "One of thrash's most studied and covered drum performances"
+        ],
+        "gearNotes": "The HP35 Camco pedals are at their limit here — speed and consistency at 230 BPM. The Sabian AA Rock Hi-Hats articulate every 16th note with absolute clarity. The brass snare crack cuts through at every tempo point."
+      },
+      {
+        "track": "In My World",
+        "bpm": "165",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's most celebrated performances — heavy, grooved, authoritative",
+          "Slower tempo allows Benante's dynamics to fully emerge",
+          "Tom fills are compositional rather than decorative",
+          "The full weight of the Artstar Custom birch shells is apparent"
+        ],
+        "gearNotes": "The 22\" bass drums produce their most authoritative tone at this tempo. The Sabian AA Chinese accents the most intense chorus passages. The 21\" Rock Ride handles extended verse sections with definition and control."
+      },
+      {
+        "track": "Time",
+        "bpm": "140",
+        "signature": "4/4 with tempo variations",
+        "highlights": [
+          "The album's epic opener at over six minutes — tests Charlie's stamina and arrangement skills",
+          "Multiple tempo and dynamic sections demanding smooth transitions",
+          "Demonstrates his ability to sustain intensity across extended compositions",
+          "The double-bass passages are used structurally rather than constantly"
+        ],
+        "gearNotes": "The full tom array supports the track's multiple compositional sections. China accents major structural transitions. Kick patterns vary between sustained passages and targeted accent points."
+      },
+      {
+        "track": "Blood",
+        "bpm": "175",
+        "signature": "4/4",
+        "highlights": [
+          "Mid-tempo thrash showing the mastery of groove within aggression",
+          "One of the album's most immediate and direct tracks",
+          "Hi-hat driving the groove with Sabian AA Rock precision",
+          "Snare accents are melodically and rhythmically placed with craft"
+        ],
+        "gearNotes": "The Sabian AA Rock Hi-Hats drive the verse groove with consistent articulation. The 16\" floor tom provides the rhythmic anchor for the pre-chorus builds."
+      }
+    ],
+    "evolution": {
+      "title": "From State of Euphoria to Persistence of Time — and Into the John Bush Era",
+      "content": "Persistence of Time is the conclusion of the first chapter of Charlie Benante's Anthrax gear arc. The Tama Artstar Custom birch kit, Sabian AA/HH cymbals, HP35 Camco pedals, Pro-Mark sticks, and Remo heads that serve the album represent a fully matured version of the configuration that had been taking shape since Spreading the Disease in 1985. Three years later, Sound of White Noise would begin a near-complete reinvention — DW drums, different cymbal series, different producer — as the John Bush era began.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Artstar Custom birch — Persistence of Time (1990)",
+          "now": "DW Collector's Series Maple — Sound of White Noise (1993)"
+        },
+        {
+          "category": "Snare",
+          "then": "Tama Artstar Custom Brass 14\" x 6.5\"",
+          "now": "DW Edge Series 14\" x 6.5\" (maple + brass hybrid)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Sabian AA / HH series",
+          "now": "Sabian AA / HH series (continued into Sound of White Noise)"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama HP35 Camco (year 6 of 26)",
+          "now": "DW 5000 Series — Sound of White Noise (1993)"
+        },
+        {
+          "category": "Producer",
+          "then": "Mark Dodson (Bearsville Studios, NY)",
+          "now": "Dave Jerden (A&M Studios, Hollywood)"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "question": "What drum kit did Charlie Benante use on Persistence of Time?",
+        "answer": "Charlie Benante used a Tama Artstar Custom kit on Persistence of Time (1990). The setup included dual 22\" x 16\" bass drums, three rack toms (10\", 12\", 13\"), and a 16\" floor tom with birch shells. This was the fully refined late-80s Tama configuration he had been using since the Among the Living era — the concluding chapter of his first-generation Anthrax kit before switching to DW Collector's Series for Sound of White Noise (1993)."
+      },
+      {
+        "question": "What is Charlie Benante's drum setup on 'Got the Time'?",
+        "answer": "On 'Got the Time,' Charlie Benante used his standard Persistence of Time setup: Tama Artstar Custom birch kit with dual 22\" bass drums, Sabian AA cymbals including 14\" Rock Hi-Hats, and Tama HP35 Camco bass drum pedals. The track runs at approximately 230 BPM, and the double-bass patterns in the opening riff — combined with the crystal-clear hi-hat articulation — represent the HP35 Camco operating at the outer limits of pedal speed. The performance remains one of the most studied drum recordings in thrash history."
+      },
+      {
+        "question": "What cymbals did Charlie Benante use on Persistence of Time?",
+        "answer": "Charlie Benante used Sabian AA and HH cymbals on Persistence of Time. The setup included Sabian AA 14\" Rock Hi-Hats, 16\", 17\", and 18\" AA crashes, a 21\" AA Rock Ride, and an 18\" AA Chinese. His Sabian endorsement had been fully established since State of Euphoria (1988), and by 1990 the AA/HH combination was thoroughly integrated into his playing vocabulary."
+      },
+      {
+        "question": "Why is Persistence of Time important in Charlie Benante's career?",
+        "answer": "Persistence of Time is the culmination of Charlie Benante's Joey Belladonna-era Anthrax career: the first Anthrax album to go Platinum in the US, the band's highest-charting album to that date (#24 on the Billboard 200), and the final studio record with the classic lineup before John Bush replaced Belladonna for Sound of White Noise (1993). For drummers, it documents Benante's most mature expression of the thrash technique he had been developing since Spreading the Disease in 1985."
+      },
+      {
+        "question": "Who produced Persistence of Time and where was it recorded?",
+        "answer": "Persistence of Time was produced by Mark Dodson with Anthrax, the same team that had produced State of Euphoria (1988). It was recorded at Bearsville Studios in Bearsville, New York in 1990. Dodson's production on this album built on the State of Euphoria approach with greater low-end weight and room depth — a natural evolution suited to the album's darker, more ambitious material."
+      },
+      {
+        "question": "How does Persistence of Time connect to Sound of White Noise drum-wise?",
+        "answer": "Persistence of Time is the direct predecessor to Sound of White Noise (1993) in Charlie Benante's gear arc, but the contrast between them is significant. Where Persistence of Time features Tama Artstar Custom birch drums, Sabian cymbals (maintained into Sound of White Noise), Tama HP35 Camco pedals, and Mark Dodson's tight production, Sound of White Noise features DW Collector's Series maple drums, DW 5000 pedals, and Dave Jerden's organic, room-rich production. The cymbals are the only constant. For the complete comparison, see the Sound of White Noise drum setup article."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "state-of-euphoria-drum-setup",
+      "charlie-benante-among-the-living-drum-setup",
+      "sound-of-white-noise-drum-setup"
+    ],
+    "relatedDrummers": [
+      4,
+      1,
+      3
+    ],
+    "relatedArticles": [
+      "whats-in-charlie-benantes-kit",
+      "thrash-metal-drummers",
+      "big-four-thrash"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Classic Era's Final Masterclass",
+      "content": "Persistence of Time closes the first and perhaps greatest chapter of Anthrax's story. It is the album where everything the classic lineup had been building since Spreading the Disease — the double-bass command, the compositional intelligence, the technical precision, the groove within aggression — achieves its most complete expression in the thrash metal format. The Platinum certification, the #24 Billboard debut, the enduring fan passion for tracks like 'In My World,' 'Got the Time,' and 'Blood': these are the marks of a band and a drummer operating at their creative and commercial peak simultaneously.\n\nFor Charlie Benante specifically, Persistence of Time represents the completion of a five-year gear arc. The Tama Artstar Custom kit, the Sabian AA/HH cymbals, the HP35 Camco pedals, the Remo heads, the Pro-Mark sticks: every piece of this configuration had been refined and field-tested across Spreading the Disease, Among the Living, and State of Euphoria before arriving at their most mature expression here. When Mark Dodson captured this kit at Bearsville in 1990, he was recording equipment and technique that had been genuinely optimised for these specific demands.\n\nThe John Bush era that followed — Sound of White Noise (1993) and beyond — would require Benante to reinvent his entire approach, and he did so successfully. But for drummers studying the craft, the Joey Belladonna era arc from Spreading the Disease through Persistence of Time is one of the most instructive in metal history: a drummer growing from technically proficient to genuinely transcendent, on record, across five years and four albums.\n\n'Got the Time' alone would be enough to secure Persistence of Time's place in thrash drumming history. But the album gives you 'In My World,' 'Blood,' 'Time,' 'H8 Red,' and more — a full album of masterclass drumming that rewards deep listening.\n\nFor the full Charlie Benante gear story beyond this album, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately preceded this one, see the [State of Euphoria drum setup breakdown](/articles/state-of-euphoria-drum-setup). For the Sound of White Noise evolution, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup). For Anthrax's complete history, see the [Anthrax band page](/bands/anthrax)."
+    }
+  },
   "state-of-euphoria-drum-setup": {
     "slug": "state-of-euphoria-drum-setup",
     "albumTitle": "State of Euphoria",

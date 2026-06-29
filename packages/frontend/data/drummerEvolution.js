@@ -8993,6 +8993,29 @@ export const DRUMMER_EVOLUTION = {
       },
     ],
 
+    faqs: [
+      {
+        q: 'What drum kit does Abe Cunningham use?',
+        a: 'Abe Cunningham plays a Pearl Reference Series kit — a maple/birch hybrid configured with a 22" kick and 10", 12", 14", and 16" toms. He returned to Pearl for the Koi No Yokan era after using a Gretsch USA Custom during the Diamond Eyes years and Pearl Custom during the White Pony era.',
+      },
+      {
+        q: 'What cymbals does Abe Cunningham use?',
+        a: 'Cunningham plays Zildjian K Custom Dark cymbals — the darkest series in the Zildjian range. His setup includes 14" K Custom Dark hi-hats, 16"/18"/19" crashes, and a 21" ride. He progressed from Zildjian A through K and K Custom to arrive at K Custom Dark over his four-decade career.',
+      },
+      {
+        q: 'What drums did Abe Cunningham use on White Pony?',
+        a: 'On White Pony (2000), Cunningham played Pearl Custom — switching from the ddrum kit he used on Adrenaline and Around the Fur. The Pearl maple shells gave him a warmer, more resonant tone suited to White Pony\'s atmospheric, dynamic arrangements. He also switched to Zildjian K cymbals during this era.',
+      },
+      {
+        q: 'When did Abe Cunningham join the Deftones?',
+        a: 'Abe Cunningham is a founding member of the Deftones — he co-founded the band in Sacramento, California in 1988 with Chino Moreno, Stephen Carpenter, and the late Chi Cheng. He has appeared on every Deftones studio album from Adrenaline (1995) through Ohms (2020).',
+      },
+      {
+        q: 'What makes Abe Cunningham\'s drumming distinctive?',
+        a: 'Cunningham is known for his dynamic intelligence and groove sophistication — his ability to serve the song with space, restraint, and precision. His cymbal evolution from A Custom through K Custom Dark reflects a consistent pursuit of darker, more complex tones suited to the Deftones\' atmospheric direction.',
+      },
+    ],
+
     metaTitle: 'Abe Cunningham Gear Evolution Timeline | Deftones Drum Kit History',
     metaDescription: 'Explore Abe Cunningham\'s complete drum gear evolution: ddrum beginnings → Pearl Custom (White Pony) → Gretsch USA Custom (Diamond Eyes) → Pearl Reference (Ohms). 35+ years of Deftones drumming documented era by era.',
   },
@@ -9366,6 +9389,29 @@ export const DRUMMER_EVOLUTION = {
         },
 
         videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit did Nick Menza use?',
+        a: 'Nick Menza played Pearl drums throughout his Megadeth career. He joined with a Tama Artstar II before upgrading to Pearl Masters for Rust in Peace (1990), progressing through Pearl Masterworks (Countdown era) to Pearl Reference Custom (Cryptic Writings). In his post-Megadeth years he played Pearl Reference, maintaining Pearl brand loyalty from 1990 until his death in 2016.',
+      },
+      {
+        q: 'What snare did Nick Menza use on Rust in Peace?',
+        a: 'On Rust in Peace, Menza played a Pearl Free-Floating Steel 14"×6.5" snare. The steel shell delivered the explosive, cutting attack heard on "Holy Wars," "Hangar 18," and "Tornado of Souls." He later switched to a Pearl Free-Floating Brass snare for the warmer tone of Countdown to Extinction\'s polished production.',
+      },
+      {
+        q: 'How did Nick Menza die?',
+        a: 'Nick Menza passed away on May 21, 2016, collapsing on stage during a performance with his band OHM at Baked Potato, a jazz club in Woodland Hills, California. He suffered a cardiac arrest while playing. He was 51 years old. His death on stage — doing what he loved — became one of metal\'s most poignant final chapters.',
+      },
+      {
+        q: 'What is Nick Menza\'s best drumming?',
+        a: 'Nick Menza is most celebrated for his work on Rust in Peace (1990), widely considered one of the greatest thrash metal albums ever made. Tracks such as "Holy Wars," "Hangar 18," and "Tornado of Souls" are consistently cited as benchmarks for thrash metal drumming — precise, powerful, and technically demanding.',
+      },
+      {
+        q: 'What cymbals did Nick Menza use?',
+        a: 'Menza used Zildjian throughout his career. He played Zildjian A Custom during the Rust in Peace and Countdown to Extinction eras, then switched to Zildjian K Custom for Cryptic Writings (1997) and maintained K Custom through his post-Megadeth years with OHM.',
       },
     ],
 
@@ -9763,6 +9809,29 @@ export const DRUMMER_EVOLUTION = {
       },
     ],
 
+    faqs: [
+      {
+        q: 'Who is Morgan Ågren?',
+        a: 'Morgan Ågren (born 1967 in Umeå, Sweden) is one of the world\'s most technically advanced and musically inventive drummers. He is best known as the founding drummer of the Mats/Morgan Band alongside keyboardist Mats Öberg. He was discovered by Frank Zappa in the early 1990s, who reportedly called him one of the greatest drummers he had ever heard.',
+      },
+      {
+        q: 'What drum kit does Morgan Ågren use?',
+        a: 'Morgan Ågren plays a customized DW Collector\'s Series kit — maple shells with a 22" kick and 8", 10", 12", 14", and 16" toms. He has used DW since approximately 1990, working with the company on shell specifications. His setup is augmented with an extensive Roland electronic trigger array, making it one of the most sophisticated hybrid acoustic/electronic configurations in progressive drumming.',
+      },
+      {
+        q: 'What cymbals does Morgan Ågren use?',
+        a: 'Ågren plays a multi-series Zildjian arrangement combining K Custom Dark, Constantinople, and A Custom pieces. His Zildjian Constantinople ride — the top-tier Turkish-style cymbal — is a centerpiece of his setup, prized for its complex, liquid overtone response suited to improvisational and avant-garde contexts.',
+      },
+      {
+        q: 'Did Morgan Ågren work with Frank Zappa?',
+        a: 'Yes — Frank Zappa discovered Morgan Ågren\'s playing in the early 1990s and was reportedly stunned by his ability, calling him one of the greatest drummers he had ever encountered. Although Zappa\'s illness limited the collaboration, the connection brought Ågren international recognition and cemented his reputation in avant-garde circles. Zappa died in December 1993.',
+      },
+      {
+        q: 'What makes Morgan Ågren\'s drumming unique?',
+        a: 'Ågren\'s playing combines extraordinary technical command with deep musical intelligence. His polyrhythmic vocabulary, metric modulation, and ghost note sensitivity operate at a level rarely encountered even among the world\'s most accomplished drummers. He plays with a light touch (5A sticks, open Ambassador/Diplomat heads) for extraordinary dynamic range, and his hybrid acoustic/electronic setup extends the kit\'s palette into orchestral territory.',
+      },
+    ],
+
     metaTitle: 'Morgan Ågren Gear Evolution Timeline | Avant-Garde Drum Kit History',
     metaDescription: 'Explore Morgan Ågren\'s complete drum gear evolution: Sonor beginnings → DW Collector\'s (Zappa connection) → hybrid acoustic/electronic setup. Sweden\'s most innovative drummer documented era by era.',
   },
@@ -9942,12 +10011,14 @@ export function updateEvolutionMeta(drummer) {
 }
 
 /**
- * Generate schema.org markup for evolution timeline
+ * Generate schema.org markup for evolution timeline.
+ * Returns an array when the entry includes a `faqs` field so that a
+ * FAQPage node is emitted alongside the Article+Person node.
  */
 export function generateEvolutionSchema(drummer) {
   if (!drummer) return null;
-  
-  return {
+
+  const articleSchema = {
     '@context': 'https://schema.org',
     '@type': 'Article',
     headline: drummer.metaTitle,
@@ -9983,4 +10054,18 @@ export function generateEvolutionSchema(drummer) {
       description: era.description,
     })),
   };
+
+  if (!drummer.faqs || !drummer.faqs.length) return articleSchema;
+
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: drummer.faqs.map(({ q, a }) => ({
+      '@type': 'Question',
+      name: q,
+      acceptedAnswer: { '@type': 'Answer', text: a },
+    })),
+  };
+
+  return [articleSchema, faqSchema];
 }

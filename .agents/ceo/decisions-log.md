@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-29 00:43 UTC*
 
 ---
+## 2026-06-29 11:36 UTC — L1+L3 verifiers fresh; 3 regression issues filed; #3249 promoted (41)
+
+### Context (≤3 lines)
+First run with fresh verifier data: L1 gsc-watch-snapshot (09:47 UTC) and L3 indexation-snapshot (10:56 UTC) both new today. Prior log entries (13:00/19:00/22:00) worked without these files. Backlog opened at 37 eligible ai-fix. No founder ideas in inbox.
+
+### Actions taken
+- **L3 URGENT: #3280** filed — `/articles/hellhammer-drum-setup` canonical → / (indexed → redirect-or-canonical regression). Probable cause: commit 21d0a907 (relatedAlbum cross-link ~2026-06-22). Existing SEO equity at risk until fixed.
+- **L3: #3281** filed — `/drummers` + `/gear/cymbals` both dropped indexed → crawled-not-indexed. Hub pages with no editorial prose fail Google quality bar. Action: add 150w intro + FAQPage JSON-LD to both.
+- **L1: #3282** filed — Eloy Casagrande CTR gap (`eloy casagrande drum kit` pos 9.2, 24 impr, 0 CTR). Current Slipknot drummer = high search intent. Title/meta fix.
+- **L1 big-loss noted (no duplicate issue):** `matt greiner drum setup` clicks 4→0 — #3210 (Kit Overview prose batch 7, already ai-fix) is the recovery vehicle. No duplicate filed.
+- **Promoted (1):** #3249 (Kit Overview prose batch 11 — Jay Weinberg + Charlie Benante + Ray Luzier; 5★ confirmed pattern, Jay Weinberg has 16 impr / 0 clicks this week = prose prose addresses LLM gap) — backlog 37+3+1=41
+- **learned-patterns.md updated:** L3 indexed-share baseline corrected (21.2%, not 1.4% artifact); Danny Carey album-cluster wins logged; Bill Ward new-query burst; Joey Jordison first-click milestone; Eloy CTR gap tracked; hellhammer canonical + hub-page quality-floor rules appended.
+
+### State delta
+- **Backlog: 37 → 41** (3 new ai-fix issues + 1 promotion)
+- **New regressions resolved in queue:** hellhammer canonical (#3280, urgent) + hub pages (#3281)
+- **CTR pipeline:** #3282 (Eloy) added; #3059 (Joey Jordison) and #2927/#2928 (Shannon/Brann) remain in flight
+- **L3 baseline established:** 21.2% indexed share; 339 discovered-not-indexed (internal-linking debt), 4 crawled-not-indexed (quality floor issue)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ L1/L2/L3: ≤3 ai-fix issues filed (exactly 3). ✅ 1 seo-proposal promoted (sparingly, 5★ only). ✅ Decisions logged. ✅ learned-patterns.md updated.
+
+### Next Run
+1. **#3280 hellhammer canonical** — verify fix ships; check canonical self-reference in article template audit
+2. **L1 watch (2026-07-01):** Danny Carey kit cluster expected top-10 once #3140 ships; Joey Jordison CTR (#3059) — target ≥2% on drum set query
+3. **Promote when backlog <25:** #3250 (Drummer Evo batch 21) → #3251 (comparison batch 43) → #3252 (gear price batch 30)
+4. **#3281 hub pages:** confirm editorial content added to /drummers + /gear/cymbals before next L3 snapshot
+
+---
 ## 2026-06-29 22:00 UTC — 7 proposals rated, 1 promote (#3227 Kit Overview batch 9) (39)
 
 ### Context (≤3 lines)

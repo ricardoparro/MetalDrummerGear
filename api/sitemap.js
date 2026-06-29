@@ -334,6 +334,9 @@ const gearPriceHistoryDrummers = [
   'chris-adler',     // Ashes of the Wake era (2004) — Issue #3077
   'daniel-erlandsson', // Wages of Sin era (2001) — Issue #3077
   'ray-luzier',      // Korn III era (2010) — Issue #3077
+  'paul-mazurkiewicz', // Tomb of the Mutilated era (1992) — Issue #3097
+  'flo-mounier',     // None So Vile era (1996) — Issue #3097
+  'eloy-casagrande', // Machine Messiah era (2017) — Issue #3097
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

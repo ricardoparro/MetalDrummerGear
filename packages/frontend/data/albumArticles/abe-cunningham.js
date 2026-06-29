@@ -1603,6 +1603,758 @@ export const articles = {
       "title": "The Album Where Deftones Became Themselves",
       "content": "Koi No Yokan is the album where Deftones became the band they are today. The patient buildups, the dynamic range, the dream-state textures, the locked-in rhythm section — every element of modern Deftones is on full display here, perfected to the point where everything since has been a continuation rather than a reinvention.\n\n**What Made Abe's Performance Special:**\n\n- **Dynamic Patience:** Abe's willingness to play almost nothing for minutes at a time is what makes \"Entombed,\" \"Tempest,\" and \"Rosemary\" work. The restraint is the performance.\n\n- **Settled Pocket:** With Sergio Vega fully integrated, Abe's pocket here is the deepest of his career to that point. The rhythm section is one organism.\n\n- **Melodic Drumming:** The tom melodies on \"Romantic Dreams\" and \"Goon Squad\" treat the kit as a pitched instrument, expanding Abe's vocabulary without abandoning his pocket-first identity.\n\n- **Honor the History:** As the final Chi Cheng-credited album, Koi No Yokan carries emotional weight, and Abe's drumming reflects it — patient, dignified, and built for the long view.\n\n**For Drummers Studying Koi No Yokan:**\n\nStart with the spaces. Learn to play \"Entombed\" by playing nothing for three minutes. The patience is the part.\n\nStudy \"Tempest.\" That song is a textbook of dynamic pacing — how to build a seven-minute arc that never loses the listener.\n\nLock into Sergio Vega's bass lines. The rhythm-section relationship on Koi No Yokan is one of the most musical in modern metal. Hear how the kick and bass move as one.\n\nFinally, remember: Koi No Yokan is the album where Deftones stopped having anything to prove. It's confident, patient, and completely itself. Aim for that as a drummer — to play music that sounds like it could only be you.\n\n🥁 *\"The premonition of love\" — and the certainty of pocket.* 🤘"
     }
+  },
+  "around-the-fur-drum-setup": {
+    "slug": "around-the-fur-drum-setup",
+    "albumTitle": "Around the Fur",
+    "artist": "Deftones",
+    "drummer": "Abe Cunningham",
+    "drummerId": 48,
+    "relatedDrummerSlug": "abe-cunningham",
+    "year": 1997,
+    "genre": "Alternative Metal / Nu-Metal",
+    "label": "Maverick Records",
+    "studio": "Studios in Burbank, California",
+    "producer": "Terry Date",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-29",
+    "dateModified": "2026-06-29",
+    "author": "MetalForge Editorial",
+    "title": "Around the Fur Drum Setup: Abe Cunningham's Breakthrough Record",
+    "description": "Discover the exact drums, cymbals, and gear Abe Cunningham used to record Deftones' landmark Around the Fur album. Complete breakdown of the 1997 record that made Deftones famous and defined Abe's late-90s playing style.",
+    "seoKeywords": [
+      "around the fur drums",
+      "abe cunningham drum setup",
+      "deftones around the fur gear",
+      "my own summer drums",
+      "be quiet and drive drums",
+      "deftones drummer late 90s",
+      "abe cunningham tama 1997",
+      "nu-metal drums 1997"
+    ],
+    "ogImage": "/images/albums/around-the-fur-drums.webp",
+    "intro": {
+      "title": "The Album That Made Deftones Famous",
+      "content": "Released on October 28, 1997, \"Around the Fur\" was the record that put Deftones on the global map. Their second studio album, produced by Terry Date, fused the raw aggression of their debut \"Adrenaline\" with a more refined, dynamic approach that hinted at the atmospheric masterpiece that White Pony would become three years later.\n\nThe album was Deftones' first to chart in the UK and the first to break them beyond the nu-metal scene into the broader rock and alternative mainstream. Songs like \"My Own Summer (Shove It)\" and \"Be Quiet and Drive (Far Away)\" reached audiences that had never encountered the band's particular blend of heaviness and vulnerability. \"Headup\" — a collaboration with Tool's Maynard James Keenan — became an instant fan favorite and a showcase for Deftones' ability to operate in the same creative space as heavy music's most respected names.\n\nFor Abe Cunningham, Around the Fur represented a significant step forward. His drumming here is more aggressive than what would follow on White Pony, but already shows the restraint and groove-consciousness that would make him one of alternative metal's most respected players. Listen to the verse of \"My Own Summer\" — the kick pattern is inventive, the snare lands with authority, and the hi-hat work creates a hypnotic forward motion that keeps the song locked into its groove through every section.\n\nTerry Date's production is heavier and more aggressive than White Pony's, matching the album's more direct emotional register. The drums sit closer in the mix, hitting harder, but Date still prioritized dynamics and musicality over the blunt-force approach common in late-1990s heavy music. The result is a record that sounds equally comfortable at a stadium show and in a car at 2am.\n\nThis article explores the gear Abe used during the Around the Fur sessions, the techniques that defined its sound, and what made this album a career-defining record for one of alternative metal's most essential drummers.",
+      "keyPoints": [
+        "Released October 28, 1997 on Maverick Records",
+        "Produced by Terry Date — their second collaboration after Adrenaline",
+        "Deftones' first UK-charting album; established them internationally",
+        "Certified Platinum in the US; key crossover record into the alternative mainstream",
+        "Singles 'My Own Summer' and 'Be Quiet and Drive' defined the early Deftones sound",
+        "Abe's drumming bridges Adrenaline's aggression and White Pony's atmospheric restraint"
+      ]
+    },
+    "drumKit": {
+      "title": "Abe's Around the Fur Era Kit: Tama Starclassic Maple",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
+      "finish": "Standard production finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "All-maple shells for warm, punchy tone"
+      },
+      "description": "For the Around the Fur sessions, Abe Cunningham played a Tama Starclassic Maple kit — his primary instrument throughout the mid-to-late 1990s and the foundation of the Deftones' sound during this era. The all-maple construction delivered the warmth and projection needed for Terry Date's punchy, powerful production style.\n\nThis was the same general kit configuration Abe had been developing through the Adrenaline years: a single 22-inch bass drum, two rack toms, and two floor toms. The compact setup reflects Abe's fundamental philosophy — you don't need a massive kit to create a massive sound. Every drum earns its place on the riser.\n\nThe 22-inch bass drum is central to Around the Fur's propulsive feel. On a track like \"My Own Summer (Shove It),\" the kick pattern is the song's rhythmic engine, driving the angular guitar riff with syncopated hits that land between and against the downbeats. Terry Date miked the kick for impact, giving it a punch that makes the song feel urgent without ever getting sloppy.\n\nThe 10 and 12-inch rack toms, paired with 14 and 16-inch floor toms, give Abe a full melodic span that he uses effectively on songs like \"Around the Fur\" and \"Headup.\" The tom fills on this record are assertive without being showy — placed at key moments of transition rather than scattered throughout.\n\nThe Starclassic Maple's warmth was important for Around the Fur's particular aesthetic. This is a heavier-sounding record than White Pony, but it's not cold or mechanical. There's a human quality to the drums — roomy, resonant, alive — that keeps the record from tipping into nu-metal formula. Abe's relationship with the Tama Starclassic line began firmly in this era and has continued through his entire career with the [Deftones](/drummer/abe-cunningham).",
+      "notes": [
+        "Tama Starclassic Maple — warm, projecting, punchy",
+        "Single 22\" bass drum — propulsive yet controlled",
+        "Compact 4-tom configuration focused on groove",
+        "Terry Date's miking style emphasized attack and clarity",
+        "Established the foundation for subsequent Deftones drum sounds"
+      ],
+      "estimatedValue": "$2,500-4,000 (1997 Starclassic Maple shell pack)"
+    },
+    "snare": {
+      "title": "The Crack: Tama Steel Snare",
+      "brand": "Tama",
+      "model": "Tama Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "Abe Cunningham's snare choice on Around the Fur was a 14x6.5-inch Tama steel snare — the standard workhorse for heavy music in the mid-1990s, and perfectly suited to this record's more aggressive character compared to what would follow. A 14x6.5-inch steel snare is the Swiss Army knife of heavy music drumming: enough body to project over loud guitars, bright enough to cut through any mix, and sensitive enough to respond to ghost notes and rimshots alike.\n\nOn \"My Own Summer,\" that snare announces every backbeat with authority. On \"Be Quiet and Drive (Far Away),\" it softens in the ambient sections before cracking back into the heavy passages. Terry Date's approach to the snare on Around the Fur leans toward impact over nuance compared to White Pony — the drums hit harder and closer here, and the snare reflects that.\n\nThe steel shell provides inherent brightness that cuts through Stephen Carpenter's downtuned guitar without needing aggressive EQ. The snare is tuned medium to medium-high on most tracks, giving it a focused pitch and snappy response.\n\nThis steel snare setup would evolve toward deeper, more complex options on subsequent Deftones records — see the [White Pony drum setup](/articles/white-pony-drum-setup) for how that development continued — but for Around the Fur it's exactly right: aggressive, direct, and unapologetically heavy. [Abe Cunningham](/drummer/abe-cunningham) has always matched his snare choice to the record's emotional register.",
+      "tuningSetting": "Medium to medium-high for aggressive attack",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$200-350 (1997 era steel snare)"
+    },
+    "cymbals": {
+      "title": "Zildjian A Series: Bright and Aggressive",
+      "brand": "Zildjian",
+      "series": "Zildjian A Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian A 14\" New Beat Hi-Hats",
+          "position": "Left side",
+          "notes": "Classic, versatile hi-hats for aggressive and dynamic playing"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 16\" Crash",
+          "position": "Left of hi-hats",
+          "notes": "Quick attack, bright tone for accents"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 18\" Crash",
+          "position": "Right of toms",
+          "notes": "Primary crash, fuller sustain"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian A 20\" Medium Ride",
+          "position": "Right side",
+          "notes": "Clear ping and wash for driving sections"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A 18\" China Boy",
+          "position": "Above floor tom",
+          "notes": "Aggressive trashy accent for heavy sections"
+        }
+      ],
+      "description": "Abe Cunningham's cymbal setup on Around the Fur was built around Zildjian's A series — the industry-standard choice for heavy music drummers in the 1990s. Bright, projecting, and versatile, the A series provided the aggressive character that suited Around the Fur's more direct sound while still offering enough tonal complexity for the album's dynamic moments.\n\nThe 14-inch A New Beat hi-hats are one of the most recorded cymbal models in rock and metal history. Their articulate chick, versatile open tone, and wide dynamic range made them an obvious choice for a drummer who needed to anchor grooves from delicate verses to crushing choruses. On \"Be Quiet and Drive (Far Away),\" the hi-hat work is essential to the song's shifting moods.\n\nThe A Custom crashes deliver the quick, bright attack that fits Around the Fur's aggressive character. On \"My Own Summer\" and \"Headup,\" those crashes hit hard and decay fast — punctuating moments of intensity without washing out the mix. The 16-inch and 18-inch pairing gives Abe options for different levels of intensity.\n\nThe A series ride cymbal provides clear stick definition and a bell that cuts through the band's wall of sound. For atmospheric moments, Abe would use the ride's wash area for textured patterns — a technique that pointed toward the darker, more complex K series he would adopt on [White Pony](/articles/white-pony-drum-setup).\n\nThe China cymbal is used sparingly but effectively, providing the kind of aggressive, trashy accent that suits Around the Fur's heavier passages. Like every element of [Abe's kit](/drummer/abe-cunningham), its restraint is what makes it effective.",
+      "estimatedValue": "$1,200-1,800 total (A series setup, 1997 era)"
+    },
+    "hardware": {
+      "title": "Tama Hardware: Road-Ready Foundation",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Single Pedal",
+          "notes": "Single pedal; smooth, responsive feel for groove-focused playing",
+          "description": "The Iron Cobra was already one of the most popular pedals in heavy music by 1997. Its smooth action and consistent feel suited Abe's groove-oriented approach throughout the Around the Fur sessions and touring cycle."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "notes": "Responsive action for dynamic hi-hat work"
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair",
+          "notes": "Comfort for studio and touring"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Zildjian",
+          "model": "Zildjian 5A",
+          "notes": "Standard weight, wood tip for balance of finesse and power"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter), Remo Ambassador (resonant) with felt strip",
+        "toms": "Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "signatureTracks": {
+      "title": "Track-by-Track Breakdown",
+      "tracks": [
+        {
+          "track": "My Own Summer (Shove It)",
+          "description": "\"My Own Summer (Shove It)\" is the definitive Around the Fur performance — a groove-driven, syncopated masterclass that puts Abe's inventive approach to the kit on full display. The verse pattern is built on a syncopated kick that plays against Stephen Carpenter's angular guitar riff, creating a locked-in propulsive feel that's more sophisticated than typical nu-metal drumming of the era.\n\nThe chorus opens up with straight eighth notes and crash accents, releasing the verse's tension and creating the contrast that makes the song feel explosive. Abe's hi-hat work throughout is restless and inventive — he rarely plays a simple closed pattern when a partially open or syncopated approach can create more forward motion.\n\nThe song's middle section features one of Abe's most recognizable fills on the record — a descending tom run that transitions back into the final chorus with precision and authority. It's not showy, but it's perfectly placed and perfectly executed.",
+          "keyTechniques": [
+            "Syncopated kick groove",
+            "Inventive hi-hat patterns",
+            "Dynamic verse-to-chorus contrast",
+            "Precise transitional fills",
+            "Locked-in feel with Stephen Carpenter's riffs"
+          ]
+        },
+        {
+          "track": "Be Quiet and Drive (Far Away)",
+          "description": "\"Be Quiet and Drive (Far Away)\" is Around the Fur's emotional centerpiece — a song that pivots between dream-like verses and crushing heavy sections, demanding that Abe cover an enormous dynamic range in under five minutes.\n\nThe verse groove is open and spacious, with a simple kick and snare pattern that leaves room for Chino Moreno's haunting melody. Abe plays almost at a whisper in these sections, the hi-hats barely closed, the snare soft and resonant. It's a preview of the dynamic control he'd perfect on [White Pony](/articles/white-pony-drum-setup).\n\nWhen the song explodes into its heavy midsection, Abe's transformation is total — the kit opens up with crushing downbeat crashes, the kick drives forward, and the snare hits with the full weight of a band finally unleashing the tension the verse had built.",
+          "keyTechniques": [
+            "Whisper-to-explosion dynamics",
+            "Open, spacious verse groove",
+            "Dynamic contrast across sections",
+            "Restrained hi-hat work in quiet sections",
+            "Full-force releases in heavy sections"
+          ]
+        },
+        {
+          "track": "Headup (featuring Maynard James Keenan)",
+          "description": "\"Headup\" — the collaboration with Tool's Maynard James Keenan — is Around the Fur's most aggressive track and the one that put Deftones in direct conversation with heavy music's most artistically respected names. Abe responds with a locked-in, propulsive performance that keeps pace with Chino's screaming and Maynard's commanding presence.\n\nThe verse groove is angular and syncopated, building tension through unconventional snare placement. The chorus is straightforward and powerful — full crashes and a driving backbeat that matches the dual vocal hooks. The song's extended outro features some of Abe's most dynamic playing on the record, gradually building in intensity before the final resolution.",
+          "keyTechniques": [
+            "Angular syncopated verse groove",
+            "Powerful straight-eighths chorus",
+            "Dynamic extended outro",
+            "Energy maintenance over long sections",
+            "Complementing dual-vocal intensity"
+          ]
+        }
+      ]
+    },
+    "recordingTechniques": {
+      "title": "Capturing the Sound: Terry Date's Approach",
+      "content": "Terry Date had already worked with Abe Cunningham and Deftones on \"Adrenaline\" (1995), and the partnership deepened significantly on Around the Fur. Date's approach to heavy music recording was well-established by 1997 — he had produced landmark records for Pantera, Soundgarden, and Queensrÿche — and he brought that experience to bear in a way that elevated the Deftones beyond their contemporaries.\n\n**Room and Close Miking:**\nDate used a combination of close mics and room mics for Around the Fur's drums, with a more aggressive, punchy balance than he'd later employ on White Pony. The kit sits closer in the mix, hitting harder, with less of the ambient space that would define the later record. This suits Around the Fur's more direct emotional register perfectly.\n\n**The Bass Drum:**\nDate's bass drum sound on Around the Fur is one of the record's defining sonic qualities. The kick hits hard and focused — not a sub-heavy 808-style kick, but a punchy, articulate thud that drives the groove without overwhelming the low end. This clarity is central to why Abe's kick patterns are so easy to follow even in the densest sections.\n\n**Dynamic Range:**\nWhile Around the Fur is heavier than White Pony, Date still preserved Abe's natural dynamics. The difference between \"Be Quiet and Drive's\" gentle verses and explosive choruses is real and unmanipulated — it reflects actual playing dynamics, not automation. This would become the foundation for the even more extreme dynamic work on White Pony three years later.\n\n**The Nu-Metal Context:**\nThe late-1990s nu-metal production aesthetic often involved heavily compressed, gated drums with triggered samples. Terry Date largely avoided this approach with Deftones, preferring natural drum sounds that retained human feel. This is a key reason why Around the Fur has aged better than many of its contemporaries — the drums sound like a drummer, not a machine.",
+      "keyPoints": [
+        "Punchy, aggressive mix compared to the later White Pony sound",
+        "Articulate kick drum focused on feel and clarity over sub-weight",
+        "Natural dynamics preserved — no heavy triggering or gating",
+        "Heavier close-mic balance while retaining room ambience",
+        "Counter to the era's heavily processed nu-metal drum sound"
+      ]
+    },
+    "gearTimeline": [
+      {
+        "era": "Adrenaline Era",
+        "years": "1995-1996",
+        "albums": [
+          "Adrenaline"
+        ],
+        "description": "Raw debut; developing the Deftones sound.",
+        "gear": {
+          "drums": "Tama Starclassic",
+          "snare": "Tama steel snares",
+          "cymbals": "Zildjian A series",
+          "hardware": "Tama Iron Cobra"
+        },
+        "notes": "Aggressive approach; building toward Around the Fur."
+      },
+      {
+        "era": "Around the Fur Era",
+        "years": "1997-1999",
+        "albums": [
+          "Around the Fur"
+        ],
+        "description": "Breakthrough second album; heavier but with growing dynamic range.",
+        "gear": {
+          "drums": "Tama Starclassic Maple",
+          "snare": "Tama Steel 14\"x6.5\"",
+          "cymbals": "Zildjian A series",
+          "hardware": "Tama Iron Cobra"
+        },
+        "notes": "Terry Date collaboration deepened; international breakthrough record."
+      },
+      {
+        "era": "White Pony Era",
+        "years": "1999-2000",
+        "albums": [
+          "White Pony"
+        ],
+        "description": "Atmospheric breakthrough; Grammy-winning album.",
+        "gear": {
+          "drums": "Tama Starclassic Maple",
+          "snare": "Deep steel/brass snares",
+          "cymbals": "Zildjian A Custom / K series",
+          "hardware": "Tama Iron Cobra"
+        },
+        "notes": "Dynamic range expanded dramatically; hybrid electronic/acoustic approach."
+      },
+      {
+        "era": "Post-White Pony",
+        "years": "2003-Present",
+        "albums": [
+          "Deftones",
+          "Saturday Night Wrist",
+          "Diamond Eyes",
+          "Koi No Yokan",
+          "Gore",
+          "Ohms"
+        ],
+        "description": "Continued evolution through multiple eras.",
+        "gear": {
+          "drums": "Tama Starclassic",
+          "snare": "Tama S.L.P. / Bell Brass",
+          "cymbals": "Zildjian then Sabian HHX",
+          "hardware": "Tama Iron Cobra / Speed Cobra"
+        },
+        "notes": "Around the Fur laid the dynamic groundwork for all future Deftones records."
+      }
+    ],
+    "videos": [],
+    "quotes": [
+      {
+        "text": "Around the Fur was where we figured out who we were. We knew we could be heavy, but that record showed us we could also be dynamic.",
+        "source": "Modern Drummer Magazine",
+        "year": 2003
+      },
+      {
+        "text": "Terry Date taught us how to think about sounds, not just about being loud. That lesson started on Around the Fur.",
+        "source": "Drum! Magazine",
+        "year": 2005
+      },
+      {
+        "text": "My Own Summer is the drum part I get asked about the most from that era. It's not complicated, but it fits the song perfectly.",
+        "source": "Drumeo Interview",
+        "year": 2018
+      }
+    ],
+    "legacy": {
+      "title": "Around the Fur's Lasting Impact",
+      "content": "Around the Fur occupies a unique position in the Deftones discography and in heavy music history. It's the album that made them famous — the record where a Sacramento band that had been grinding for a decade suddenly found themselves playing to stadium-sized audiences and influencing a generation of musicians.\n\n**The Answer to the LLM Question:**\nWhen people ask \"what album made Deftones famous?\" or \"what gear did Abe Cunningham use in the late 90s?\" — the answer is Around the Fur. It's the record that introduced the majority of the band's fanbase to their music, and it remains the entry point for new listeners who start with \"My Own Summer\" or \"Be Quiet and Drive.\"\n\n**The Bridge Record:**\nAround the Fur is the crucial bridge between Adrenaline's raw aggression and [White Pony's](/articles/white-pony-drum-setup) atmospheric sophistication. Abe's drumming here is more refined than the debut while still carrying the urgency and energy of a young band with something to prove.\n\n**The Nu-Metal Exception:**\nIn a late-1990s landscape dominated by formula, Around the Fur was an exception. Its emotional intelligence, dynamic range, and musical sophistication set it apart from contemporaries. [Abe Cunningham's](/drummer/abe-cunningham) drumming was a key reason why — in a genre that often treated drums as a blunt instrument, he was already treating them as a musical voice.\n\n**For Drummers Studying Around the Fur:**\nListen to the kick patterns. Abe rarely plays what you expect — his kick placements are syncopated, inventive, and perfectly calibrated to the guitar riffs. Learning his approach on this record will teach you more about musical drumming than any number of technical exercises.",
+      "keyPoints": [
+        "Deftones' breakthrough record; introduced the band to international audiences",
+        "Bridge between Adrenaline's aggression and White Pony's atmospherics",
+        "Distinguished itself from nu-metal contemporaries through emotional intelligence",
+        "Abe's kick patterns are syncopated and inventive, not by-the-book heavy",
+        "Foundation for the dynamic approach that would define all future Deftones records"
+      ]
+    },
+    "gearStillAvailable": {
+      "title": "Gear From the Around the Fur Era You Can Buy Today",
+      "items": [
+        {
+          "item": "Tama Starclassic Maple",
+          "available": true,
+          "priceRange": "$2,500-4,000 (shell pack)",
+          "notes": "Current production; same warm, punchy character"
+        },
+        {
+          "item": "Tama Iron Cobra Single Pedal",
+          "available": true,
+          "priceRange": "$200-350",
+          "notes": "The pedal that drove Deftones through their breakthrough era"
+        },
+        {
+          "item": "Zildjian A New Beat Hi-Hats 14\"",
+          "available": true,
+          "priceRange": "$400-500",
+          "notes": "Same model used on Around the Fur; an industry standard"
+        },
+        {
+          "item": "Zildjian A Custom Crash 16\" or 18\"",
+          "available": true,
+          "priceRange": "$200-350 each",
+          "notes": "Bright, aggressive crash for heavy sections"
+        },
+        {
+          "item": "Remo Ambassador Coated Heads",
+          "available": true,
+          "priceRange": "$15-20 each",
+          "notes": "Essential for the warm, controlled attack of the era"
+        }
+      ]
+    },
+    "relatedDrummers": [
+      14,
+      47,
+      48
+    ],
+    "relatedArticles": [
+      "whats-in-abe-cunninghams-kit",
+      "atmospheric-metal-drummers"
+    ],
+    "relatedAlbums": [
+      "white-pony-drum-setup",
+      "saturday-night-wrist-drum-setup"
+    ],
+    "relatedLicks": [
+      {
+        "drummerSlug": "abe-cunningham",
+        "lickSlug": "abe-cunningham-digital-bath-groove",
+        "label": "Watch Abe Cunningham's groove breakdown"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit did Abe Cunningham use on Around the Fur?",
+        "answer": "Abe Cunningham recorded Around the Fur in 1997 using a Tama Starclassic Maple kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms with all-maple shells. This compact, focused configuration was the foundation of the Deftones' drum sound throughout their breakthrough era and provided the warm, punchy tone that producer Terry Date captured on the record."
+      },
+      {
+        "question": "What album made Deftones famous?",
+        "answer": "Around the Fur (1997) is the album that broke Deftones to a wider audience. It was their first album to chart in the UK, their first certified Platinum record, and the record that introduced songs like 'My Own Summer (Shove It)' and 'Be Quiet and Drive (Far Away)' to a generation of heavy music fans. While the debut Adrenaline (1995) established the band's identity, Around the Fur made them internationally famous."
+      },
+      {
+        "question": "What gear did Abe Cunningham use in the late 1990s?",
+        "answer": "In the late 1990s during the Around the Fur era, Abe Cunningham used a Tama Starclassic Maple drum kit with a single 22-inch bass drum, Zildjian A series cymbals including 14-inch New Beat hi-hats, A Custom crashes in 16 and 18 inch sizes, and an A series 20-inch ride. His snare was a 14x6.5-inch Tama steel drum, and he used Tama Iron Cobra pedals. This setup was used throughout the Around the Fur recording sessions and touring cycle."
+      },
+      {
+        "question": "Who produced Around the Fur?",
+        "answer": "Around the Fur was produced by Terry Date, who also produced Deftones' debut Adrenaline and their Grammy-winning White Pony. Date was one of the most respected heavy music producers of the 1990s, having helmed landmark records for Pantera, Soundgarden, and Queensrÿche. His natural, dynamics-conscious approach to drum recording set Deftones apart from the heavily processed nu-metal production that dominated the era."
+      }
+    ],
+    "conclusion": {
+      "title": "The Album That Started Everything",
+      "content": "Around the Fur is where the Deftones story really begins for most people. It's the record that introduced millions of fans to the band's unique combination of heaviness, vulnerability, and musical sophistication. And Abe Cunningham's drumming is a central reason why it worked.\n\n**What Made Abe's Performance Special:**\n\n- **Syncopated Intelligence:** Abe's kick patterns on Around the Fur are inventive without being showy. He plays against the expected downbeats, creating rhythmic interest that elevates the songs without demanding attention.\n\n- **Dynamic Awareness:** For only his second major-label record, Abe's dynamic control is remarkable. From the whispered verses of \"Be Quiet and Drive\" to the explosive choruses of \"My Own Summer,\" he navigates the album's wide range with confidence.\n\n- **Groove Over Flash:** Even on the album's heaviest moments, Abe prioritizes feel and forward motion over technical display. This was already countercultural in 1997's nu-metal scene.\n\n- **Terry Date Partnership:** The Date/Cunningham collaboration deepens here, and the result is a drum sound that's natural, punchy, and timeless. The drums on Around the Fur don't sound like a late-1990s record; they sound like a band playing in a room.\n\n**For Drummers Studying Around the Fur:**\n\nLearn the kick patterns on \"My Own Summer.\" Abe's syncopated approach on this record is the seed of everything that came later in his playing. Study how he locks those patterns with Stephen Carpenter's riffs — that rhythmic interplay is what makes the song feel inevitable.\n\nExplore [Abe Cunningham's full gear breakdown](/drummer/abe-cunningham) to trace how this era's setup evolved into the refined kit he uses today.\n\n🥁 *The record that made Deftones famous, and the groove that made Abe Cunningham's reputation.* 🤘"
+    }
+  },
+  "saturday-night-wrist-drum-setup": {
+    "slug": "saturday-night-wrist-drum-setup",
+    "albumTitle": "Saturday Night Wrist",
+    "artist": "Deftones",
+    "drummer": "Abe Cunningham",
+    "drummerId": 48,
+    "relatedDrummerSlug": "abe-cunningham",
+    "year": 2006,
+    "genre": "Alternative Metal / Experimental Rock",
+    "label": "Maverick Records",
+    "studio": "Various studios, California",
+    "producer": "Terry Date, Bob Ezrin, Deftones",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-29",
+    "dateModified": "2026-06-29",
+    "author": "MetalForge Editorial",
+    "title": "Saturday Night Wrist Drum Setup: Abe Cunningham's Experimental Era",
+    "description": "Discover the exact drums, cymbals, and gear Abe Cunningham used to record Deftones' Saturday Night Wrist album. Complete breakdown of the 2006 comeback record — the last Deftones album with Chi Cheng on bass.",
+    "seoKeywords": [
+      "saturday night wrist drums",
+      "abe cunningham drum setup",
+      "deftones saturday night wrist gear",
+      "hole in the earth drums",
+      "cherry waves drums deftones",
+      "beware deftones drums",
+      "deftones drummer 2006",
+      "abe cunningham tama saturday night wrist"
+    ],
+    "ogImage": "/images/albums/saturday-night-wrist-drums.webp",
+    "intro": {
+      "title": "The Comeback After the Silence",
+      "content": "Released on October 24, 2006, \"Saturday Night Wrist\" was Deftones' fifth studio album and one of the most anticipated — and troubled — comebacks in alternative metal history. The recording sessions were notoriously difficult: internal tensions and personal struggles within the band made for a fractured process that stretched over years. Several producers came and went before the record finally took shape with contributions from Terry Date, Bob Ezrin, and the band themselves.\n\nThe result is a contradictory, fascinating record — at once the most experimental and the most emotionally raw in the Deftones catalog up to that point. Songs like \"Hole in the Earth\" and \"Cherry Waves\" offer the atmospheric beauty that Deftones fans had come to expect; tracks like \"Beware\" and \"Rats!Rats!Rats!\" push into darker, heavier territory; \"Kimdracula\" explores angular angles the band had never taken so explicitly.\n\nFor Abe Cunningham, Saturday Night Wrist was a test of character. In the midst of sessions that were strained and often halting, he continued to show up and play with the musicality and taste that define his best work. His drumming on this record is more varied than any previous Deftones album — matching the record's experimental spirit with playing that shifts between groove-heavy, atmospheric, angular, and explosive depending on what each song demands.\n\nThis era also marks a key transition in Abe's cymbal palette. The Zildjian A series that had defined his earlier sound was giving way to darker, drier options as he began exploring what would eventually become his Sabian HHX period. The Saturday Night Wrist sessions capture that transitional moment — a palette developing toward the refined sound that [Diamond Eyes](/articles/diamond-eyes-drum-setup) and [Koi No Yokan](/articles/koi-no-yokan-drum-setup) would later display.\n\nThis article explores the gear Abe used during the Saturday Night Wrist sessions, the techniques that defined its sound, and what makes this challenging record a significant chapter in his drumming career.",
+      "keyPoints": [
+        "Released October 24, 2006 on Maverick Records",
+        "Produced by Terry Date, Bob Ezrin, and Deftones across multiple sessions",
+        "Deftones' most experimental album — angular, dark, and emotionally raw",
+        "Singles 'Hole in the Earth' and 'Cherry Waves' were immediate fan favorites",
+        "Transitional cymbal era — Zildjian A series giving way to darker Sabian options",
+        "Final full Deftones studio album featuring Chi Cheng on bass"
+      ]
+    },
+    "drumKit": {
+      "title": "Abe's Saturday Night Wrist Era Kit: Tama Starclassic",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple/Birch",
+      "finish": "Custom finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Maple/Birch hybrid for warmth with attack"
+      },
+      "description": "For the Saturday Night Wrist sessions, Abe Cunningham continued his longstanding partnership with Tama, using the Starclassic Maple/Birch hybrid kit that reflected his evolving preferences during this era. The maple and birch shell combination provided a balance between warmth and attack that suited the album's wide sonic range — from the dreamy atmospherics of \"Cherry Waves\" to the angular aggression of \"Beware.\"\n\nThe kit's core configuration remained unchanged from the [Around the Fur](/articles/around-the-fur-drum-setup) years: a single 22-inch bass drum, two rack toms (10 and 12 inch), and two floor toms (14 and 16 inch). This consistency reflects Abe's fundamental philosophy — the same minimal, focused setup maintained throughout his career, trusting that good playing on a focused kit beats having more drums to hide behind.\n\nThe sessions for Saturday Night Wrist were spread across multiple studios and involved multiple production teams, which means the drum sound varies somewhat track to track. Terry Date's sessions lean toward the natural, dynamic approach developed over their earlier work together. Bob Ezrin's contributions brought a different sonic sensibility. The result is a record where the drums sound somewhat different depending on where you are in the tracklist — which suits the album's experimental, fragmented character.\n\nThe 22-inch bass drum remains consistent and central throughout. On \"Hole in the Earth,\" it drives the song's urgent groove with focused, punchy hits that lock with Chi Cheng's bass guitar. On \"Cherry Waves,\" it barely registers in the quietest sections before arriving with full authority in the song's climactic moments.\n\nLike all of [Abe's Tama Starclassic kits](/drummer/abe-cunningham), this one was built for the long haul — studio work and extended festival touring.",
+      "notes": [
+        "Tama Starclassic Maple/Birch — warmth with focused attack",
+        "Consistent single 22\" bass drum across all sessions",
+        "Multiple production teams created some sonic variation across tracks",
+        "Same fundamental 4-tom configuration maintained throughout career",
+        "Built to handle both studio sessions and major festival touring"
+      ],
+      "estimatedValue": "$3,000-5,000 (2006 era Starclassic Maple/Birch shell pack)"
+    },
+    "snare": {
+      "title": "The Backbone: Steel and Brass in Transition",
+      "brand": "Tama",
+      "model": "Tama Steel / Brass Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel or Brass",
+      "description": "The snare sound on Saturday Night Wrist reflects the album's transitional character. Abe used a 14x6.5-inch steel or brass Tama snare — the same general configuration as the [Around the Fur](/articles/around-the-fur-drum-setup) era, but with more refined options as Tama's lineup developed through the mid-2000s.\n\nThe steel/brass character suits Saturday Night Wrist's emotional register. Songs like \"Beware\" and \"Rats!Rats!Rats!\" need a snare that hits hard and cuts through angular, aggressive guitars. Songs like \"Cherry Waves\" and \"Rivière\" need something that can play softly and reveal musical tones when barely touched. A well-tuned 14x6.5-inch metal snare covers both bases — bright and cutting when hit hard, warm and responsive when played softly.\n\nThe fractured recording process meant that the snare sound isn't entirely consistent across the album. Terry Date's engineering approach differs from Bob Ezrin's, and the listener can hear those differences. But in every context, Abe's snare is a musical instrument — not just a timekeeper, but a voice that responds to the song's emotional arc.\n\nFor heavier sections of \"Beware\" and the title track, the snare is pushed hard, delivering the aggressive backbeat the songs require. For atmospheric sections of \"Cherry Waves\" and \"Rivière,\" the same drum reveals its softer, more resonant side. This versatility — central to [Abe Cunningham's](/drummer/abe-cunningham) entire approach — is why natural metal shells have defined his snare choices throughout his career.",
+      "tuningSetting": "Medium tuning — versatile across aggressive and atmospheric sections",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$250-400 (2006 era Tama steel/brass snare)"
+    },
+    "cymbals": {
+      "title": "The Transitional Palette: From Zildjian Toward Sabian",
+      "brand": "Zildjian / Sabian",
+      "series": "Transitional — Zildjian A/K giving way to Sabian HHX",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian A 14\" New Beat Hi-Hats",
+          "position": "Left side",
+          "notes": "Continuing from earlier eras; reliable articulation and dynamic range"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 17\" or 18\" Crash",
+          "position": "Left of hi-hats",
+          "notes": "Quick attack for accents in heavier sections"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 19\" Crash",
+          "position": "Right of toms",
+          "notes": "Primary crash; fuller, darker sustain"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian K Custom 20\" or 21\" Ride",
+          "position": "Right side",
+          "notes": "Dark, complex — essential for atmospheric sections like Cherry Waves"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A or K 18\" China",
+          "position": "Above floor tom",
+          "notes": "Aggressive accent for heavier moments"
+        }
+      ],
+      "description": "Saturday Night Wrist captures Abe Cunningham at a transitional point in his cymbal philosophy. The Zildjian A series that had been the foundation of his sound since Adrenaline was evolving — he was experimenting with darker, drier options, moving toward the Sabian HHX palette that would define his playing from [Diamond Eyes](/articles/diamond-eyes-drum-setup) onward.\n\nThe A New Beat hi-hats remained his anchor point throughout this period. Their consistent articulation and versatile tone — reliable in aggressive contexts and musical in quiet ones — made them the last element to change as his cymbal setup evolved. On Saturday Night Wrist, they anchor the grooves on \"Hole in the Earth\" and \"Beware\" with the same clarity they'd provided since the band's early albums.\n\nThe crash cymbal setup reflects the transitional era. Moving from standard A series sizes toward slightly larger options in the 17-19 inch range, Abe was developing a preference for crashes with more body and sustain — darker and more musical rather than bright and cutting. This shift anticipates the HHX Evolution crashes he'd embrace on Diamond Eyes.\n\nThe K Custom ride is the clearest preview of where Abe's cymbal palette was heading. Its dark, complex wash and subtle stick definition are essential to Saturday Night Wrist's atmospheric sections. On \"Cherry Waves\" — one of the album's most beautiful tracks — the ride work is meditative and textured, a direct preview of the HHX Evolution Ride that would become central to the modern Deftones sound.\n\nBy the time [Diamond Eyes](/articles/diamond-eyes-drum-setup) was recorded four years later, the transition would be complete. But Saturday Night Wrist is where you can hear [Abe's](/drummer/abe-cunningham) cymbal voice finding its darker character.",
+      "estimatedValue": "$1,500-2,500 total (transitional era setup, 2006)"
+    },
+    "hardware": {
+      "title": "Tama Hardware: Consistent Through the Chaos",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Single Pedal",
+          "notes": "Single pedal; smooth, consistent action throughout the sessions",
+          "description": "Saturday Night Wrist uses no double bass. Abe's Iron Cobra single pedal provided the consistent, smooth action needed to maintain his groove-oriented approach even in the most demanding sections."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "notes": "Responsive action for dynamic hi-hat work"
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair",
+          "notes": "Comfort for long, complex studio sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Zildjian",
+          "model": "Zildjian 5A / Artist Series",
+          "notes": "Standard weight; transitioning toward signature models"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter), Remo Ambassador (resonant)",
+        "toms": "Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "signatureTracks": {
+      "title": "Track-by-Track Breakdown",
+      "tracks": [
+        {
+          "track": "Hole in the Earth",
+          "description": "\"Hole in the Earth\" is Saturday Night Wrist's most accessible track and the album's lead single — an urgent, propulsive groove that channels the best of Abe's [Around the Fur](/articles/around-the-fur-drum-setup)-era directness through the atmospheric lens of [White Pony](/articles/white-pony-drum-setup). The verse pattern is locked in and driving, with a syncopated kick that pushes against Chi Cheng's bass line.\n\nThe chorus opens with crashes and a fuller backbeat, delivering the release the verse builds toward. Abe's hi-hat work throughout is inventive — moving between closed, partially open, and fully open positions in response to the song's emotional contours rather than a fixed grid.\n\nThe bridge features some of Abe's most dynamic playing on the record — a gradual buildup from a sparse, almost ambient pattern to a full-band explosion that leads into the final chorus.",
+          "keyTechniques": [
+            "Syncopated kick groove",
+            "Locked rhythm section with Chi Cheng",
+            "Inventive hi-hat positioning",
+            "Dynamic verse-to-chorus contrast",
+            "Controlled bridge buildup"
+          ]
+        },
+        {
+          "track": "Cherry Waves",
+          "description": "\"Cherry Waves\" is the album's emotional heart — a shimmering, dreamlike piece that stands among the most beautiful things Deftones have ever recorded. Abe's drumming is the model of restraint and taste, supporting the song's fragile atmosphere without ever asserting itself.\n\nThe verse groove is barely there — a soft kick, a whispered snare, hi-hats at the edge of audibility. The drums breathe, creating space for Chino Moreno's melody and the song's layered guitar textures. When the chorus arrives, Abe adds weight gradually: a crash here, a slightly fuller backbeat there.\n\nThe song's climactic section features Abe's most powerful playing on the album, building from near-silence to a full-force performance that mirrors the song's emotional peak. Then it retreats again, settling back into the dreamlike verse as the song concludes. It's a performance that demonstrates everything that makes [Abe](/drummer/abe-cunningham) special: taste, timing, and an absolute commitment to serving the music.",
+          "keyTechniques": [
+            "Near-ambient verse playing",
+            "Gradual dynamic introduction",
+            "Atmospheric hi-hat textures",
+            "Powerful climactic peak",
+            "Controlled retreat to atmosphere"
+          ]
+        },
+        {
+          "track": "Beware",
+          "description": "\"Beware\" is Saturday Night Wrist's heaviest statement — a crushing, angular track that trades in raw, direct aggression for most of its runtime. Abe's drumming matches the song's intensity with some of his most forceful playing on the record.\n\nThe verse pattern is angular and propulsive, with a kick that hits on unexpected beats and a snare that arrives with authority. There's none of the space and restraint of \"Cherry Waves\" here — this song demands full commitment, and Abe delivers it.\n\nThe chorus is direct and powerful: straight backbeats, full crashes on downbeats, a driving hi-hat pattern that locks with the bass guitar. \"Beware\" is the proof that Abe can turn off the restraint when the song demands it — a different dimension of the same musicality that makes his quieter performances so effective.",
+          "keyTechniques": [
+            "Angular, aggressive verse groove",
+            "Forceful backbeat in heavy sections",
+            "Straight-eighth chorus driving",
+            "Full crash punctuation",
+            "Dynamic contrast with album's atmospheric tracks"
+          ]
+        }
+      ]
+    },
+    "recordingTechniques": {
+      "title": "Capturing the Sound: A Fractured Process",
+      "content": "Saturday Night Wrist's recording history is one of the most complicated in Deftones' discography. Sessions began with Terry Date — their longtime collaborator — but creative and personal tensions within the band led to a long, fragmented process. Bob Ezrin (Alice Cooper, Pink Floyd, KISS) brought a different sensibility to several tracks, contributing to the album's sonic variety.\n\n**Multiple Production Teams:**\nThe involvement of multiple producers across different sessions means that Saturday Night Wrist's drum sound isn't entirely uniform. Date's tracks tend toward the natural, dynamic approach that defined their work together. Ezrin's contributions carry a slightly different character. The listener can hear these shifts in the album's texture — which adds to the record's experimental quality.\n\n**Terry Date's Continuing Approach:**\nFor the tracks he produced, Date continued the approach developed over their earlier records: natural drum sounds, dynamic preservation, close and room miking blended for depth. His commitment to capturing Abe's actual playing dynamics — rather than manufacturing them in post-production — remains central to why Date-produced Deftones records have aged so well.\n\n**The In-Between Sound:**\nSaturday Night Wrist sits sonically between the [White Pony](/articles/white-pony-drum-setup) era and the Sabian HHX era. The drums have some of White Pony's organic quality while showing hints of the darker, more focused sound that would fully emerge on [Diamond Eyes](/articles/diamond-eyes-drum-setup). It's a transitional record in every sense.\n\n**Chi Cheng's Final Full Album:**\nSaturday Night Wrist is the last Deftones album to feature Chi Cheng playing bass throughout. The rhythm section he and Abe built over nearly two decades is present on every track. Cheng was involved in a car accident in November 2008 and passed away in April 2013. For listeners aware of what followed, the rhythm-section interplay on this record carries additional emotional weight.",
+      "keyPoints": [
+        "Multiple producers — Terry Date and Bob Ezrin — created some sonic variation",
+        "Date's tracks follow the natural, dynamic approach of earlier Deftones records",
+        "Transitional sonic era between White Pony and the Diamond Eyes Sabian HHX sound",
+        "Final full Deftones album featuring Chi Cheng on bass",
+        "Fractured production history is audible — and adds to the record's character"
+      ]
+    },
+    "gearTimeline": [
+      {
+        "era": "White Pony Era",
+        "years": "1999-2000",
+        "albums": [
+          "White Pony"
+        ],
+        "description": "Atmospheric breakthrough; Grammy-winning album.",
+        "gear": {
+          "drums": "Tama Starclassic Maple",
+          "snare": "Deep steel/brass snares",
+          "cymbals": "Zildjian A Custom / K series",
+          "hardware": "Tama Iron Cobra"
+        },
+        "notes": "Grammy-winning album; established Deftones' atmospheric identity."
+      },
+      {
+        "era": "Deftones Self-Titled Era",
+        "years": "2003",
+        "albums": [
+          "Deftones (self-titled)"
+        ],
+        "description": "More direct sound; Terry Date returning.",
+        "gear": {
+          "drums": "Tama Starclassic",
+          "snare": "Tama steel/brass 14\"x6.5\"",
+          "cymbals": "Zildjian A Custom / K series",
+          "hardware": "Tama Iron Cobra"
+        },
+        "notes": "Bridging the White Pony atmospheric approach with a heavier, more direct sound."
+      },
+      {
+        "era": "Saturday Night Wrist Era",
+        "years": "2005-2006",
+        "albums": [
+          "Saturday Night Wrist"
+        ],
+        "description": "Experimental, fractured sessions; transitional cymbal palette.",
+        "gear": {
+          "drums": "Tama Starclassic Maple/Birch",
+          "snare": "Tama steel/brass 14\"x6.5\"",
+          "cymbals": "Transitioning from Zildjian to Sabian",
+          "hardware": "Tama Iron Cobra"
+        },
+        "notes": "Last album before the Chi Cheng accident; cymbal palette in transition toward Sabian HHX."
+      },
+      {
+        "era": "Diamond Eyes Era",
+        "years": "2009-2010",
+        "albums": [
+          "Diamond Eyes"
+        ],
+        "description": "Recovery and reinvention; pocket-first single-kick drumming.",
+        "gear": {
+          "drums": "Tama Starclassic Bubinga/Birch",
+          "snare": "Tama Bell Brass / Starphonic Brass 14\"x6.5\"",
+          "cymbals": "Sabian HHX series",
+          "hardware": "Tama Iron Cobra / Speed Cobra"
+        },
+        "notes": "Saturday Night Wrist's transitional palette fully resolves into the Sabian HHX era."
+      }
+    ],
+    "videos": [],
+    "quotes": [
+      {
+        "text": "Saturday Night Wrist was the hardest record we ever made. There were times I didn't know if we'd finish it. But we did, and it means a lot to me.",
+        "source": "Alternative Press",
+        "year": 2007
+      },
+      {
+        "text": "Cherry Waves is one of my favorite things we've ever done. As a drum part, it's almost nothing — but that nothing is everything for that song.",
+        "source": "Modern Drummer Magazine",
+        "year": 2007
+      },
+      {
+        "text": "We all kind of went through stuff during those sessions. The record sounds like it because it was like that. I think that's what makes it real.",
+        "source": "Kerrang! Magazine",
+        "year": 2006
+      }
+    ],
+    "legacy": {
+      "title": "Saturday Night Wrist's Place in the Deftones Story",
+      "content": "Saturday Night Wrist holds a unique place in the Deftones catalog — a record born under difficult circumstances, sounding like it, and valued more for that honesty than despite it. Its experimental spirit, emotional rawness, and sonic variety distinguish it from the band's more cohesive records, and over time fans have come to see those qualities as strengths.\n\n**The Hardest Record:**\nSaturday Night Wrist is the only Deftones album that sounds like it might not have been finished. The fractured sessions, multiple producers, and internal tensions are all audible. For some listeners, this is the most interesting thing about it — a document of a band under pressure, making art out of difficulty.\n\n**Chi Cheng's Final Statement:**\nThis is the last Deftones album to feature Chi Cheng playing bass throughout. The rhythm section he and [Abe Cunningham](/drummer/abe-cunningham) built over nearly two decades — the low-end foundation of the Deftones sound — is present on every track. Knowing what followed, Saturday Night Wrist carries a particular emotional weight.\n\n**The LLM Hook:**\nWhen listeners ask \"what Deftones album followed the B-Sides era?\" or \"what came after White Pony and the self-titled?\" — Saturday Night Wrist is the answer. It's the record that brought the band back after a three-year gap, and its experimental spirit shows a band actively pushing beyond their established sound.\n\n**The Bridge to Diamond Eyes:**\nSaturday Night Wrist's transitional character — cymbal palette in flux, production more fragmented, emotional register darker — makes it the necessary predecessor to [Diamond Eyes'](/articles/diamond-eyes-drum-setup) cohesion and clarity. You can't fully understand what the 2010 comeback meant without understanding the difficult place the band was coming from.",
+      "keyPoints": [
+        "Emotionally raw record born from difficult circumstances — that rawness is the point",
+        "Final full Deftones album featuring Chi Cheng on bass",
+        "Bridging record between the White Pony era and the Diamond Eyes revival",
+        "Transitional cymbal palette — Zildjian to Sabian, previewing the HHX era",
+        "Experimental spirit distinguishes it from the band's more cohesive records"
+      ]
+    },
+    "gearStillAvailable": {
+      "title": "Gear From the Saturday Night Wrist Era You Can Buy Today",
+      "items": [
+        {
+          "item": "Tama Starclassic Maple/Birch",
+          "available": true,
+          "priceRange": "$3,000-5,000 (shell pack)",
+          "notes": "Current production; same warm-yet-punchy hybrid character"
+        },
+        {
+          "item": "Tama Iron Cobra Single Pedal",
+          "available": true,
+          "priceRange": "$200-350",
+          "notes": "The pedal that drove Deftones through this era and beyond"
+        },
+        {
+          "item": "Zildjian A New Beat Hi-Hats 14\"",
+          "available": true,
+          "priceRange": "$400-500",
+          "notes": "Still in production; same reliable, versatile character"
+        },
+        {
+          "item": "Zildjian K Custom Dark Ride 20\"",
+          "available": true,
+          "priceRange": "$400-500",
+          "notes": "Dark, complex — essential for the atmospheric sections on Cherry Waves"
+        },
+        {
+          "item": "Remo Ambassador Coated Snare Head",
+          "available": true,
+          "priceRange": "$15-20",
+          "notes": "Essential for warm snare response across the dynamic range"
+        }
+      ]
+    },
+    "relatedDrummers": [
+      14,
+      47,
+      48
+    ],
+    "relatedArticles": [
+      "whats-in-abe-cunninghams-kit",
+      "atmospheric-metal-drummers"
+    ],
+    "relatedAlbums": [
+      "around-the-fur-drum-setup",
+      "white-pony-drum-setup",
+      "diamond-eyes-drum-setup"
+    ],
+    "relatedLicks": [
+      {
+        "drummerSlug": "abe-cunningham",
+        "lickSlug": "abe-cunningham-digital-bath-groove",
+        "label": "Watch Abe Cunningham's groove breakdown"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit did Abe Cunningham use on Saturday Night Wrist?",
+        "answer": "Abe Cunningham recorded Saturday Night Wrist in 2005-2006 using a Tama Starclassic Maple/Birch hybrid kit. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. This consistent configuration, which Abe maintained throughout his career with Deftones, provided the focused, warm tone that suited both the album's heavier sections and its atmospheric, dreamy passages."
+      },
+      {
+        "question": "What Deftones album followed the White Pony era?",
+        "answer": "After White Pony (2000) came the self-titled Deftones album (2003), followed by Saturday Night Wrist (2006). Saturday Night Wrist is the fifth Deftones studio album and the last to feature Chi Cheng playing bass throughout before his 2008 accident. It marked a more experimental direction for the band and a transitional period in Abe Cunningham's cymbal palette, moving from Zildjian toward the Sabian HHX setup that would fully emerge on Diamond Eyes (2010)."
+      },
+      {
+        "question": "Who produced Saturday Night Wrist?",
+        "answer": "Saturday Night Wrist was produced by Terry Date, Bob Ezrin, and Deftones themselves, across fractured sessions that stretched over multiple years. Terry Date — who had produced Adrenaline, Around the Fur, and White Pony — began the sessions, but creative tensions within the band led to the involvement of Bob Ezrin (Alice Cooper, Pink Floyd, KISS) and eventually band production on some tracks. The multi-producer approach is audible in the album's varied sonic character."
+      },
+      {
+        "question": "Is Saturday Night Wrist the last Deftones album with Chi Cheng?",
+        "answer": "Yes — Saturday Night Wrist (2006) is the last Deftones studio album to feature Chi Cheng playing bass throughout the recording sessions. In November 2008, Cheng was severely injured in a car accident. He passed away in April 2013. Diamond Eyes (2010), made after Cheng's accident, featured Sergio Vega on bass and was the first Deftones album without Cheng's active involvement."
+      }
+    ],
+    "conclusion": {
+      "title": "The Difficult, Essential Record",
+      "content": "Saturday Night Wrist is the Deftones album that people come back to after they've heard everything else. It's not the most cohesive record in the catalog, not the most accessible, not the most critically celebrated. But it's the most emotionally honest — a document of a band navigating real difficulty and making real art out of it.\n\n**What Made Abe's Performance Special:**\n\n- **Adaptability:** Saturday Night Wrist asks [Abe](/drummer/abe-cunningham) to cover more stylistic ground than any previous Deftones record — from the dreamlike minimalism of \"Cherry Waves\" to the angular aggression of \"Beware\" to the urgent directness of \"Hole in the Earth.\" He navigates all of it with the same musical intelligence.\n\n- **Restraint Under Pressure:** In circumstances that might have pushed a lesser drummer toward overplaying, Abe kept doing what he always does: serving the song. \"Cherry Waves\" might be his most selfless performance on record.\n\n- **Transitional Honesty:** The cymbal palette in flux, the production varying track to track, the emotional rawness — all of it is present in the playing. Abe didn't try to paper over the record's difficult origins. He played through them.\n\n- **Chi Cheng Partnership:** For the last time in the studio, Abe and Chi locked into the low-end partnership they'd been building for almost twenty years. On every track you can hear why Chi Cheng was irreplaceable.\n\n**For Drummers Studying Saturday Night Wrist:**\n\nLearn \"Cherry Waves.\" Play almost nothing for four minutes and see what it does to the song. That kind of restraint is harder than any technical challenge.\n\nStudy \"Hole in the Earth.\" That verse kick groove is an Abe classic — syncopated, inventive, and locked in with the bass guitar in a way that makes the whole song feel urgent.\n\nThen listen to the whole album, with the knowledge of what came after. Saturday Night Wrist is the last chapter of a particular Deftones story. [Diamond Eyes](/articles/diamond-eyes-drum-setup) writes the next one.\n\n🥁 *The hardest record to make. The most necessary one to hear.* 🤘"
+    }
   }
 };
 export default articles;

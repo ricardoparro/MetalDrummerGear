@@ -231,7 +231,12 @@ After writing, also:
 > - **Backlog 25–44** → promote **sparingly** — only 5★ proposals, newest/highest-impact first, enough to top up toward ~45.
 > - **Backlog < 25** → promote liberally to refill toward the ~45 target band so the night fleet never starves.
 >
-> The cap bounds *work*, not *ideas*: SEO keeps proposing freely; those proposals simply wait as `seo-proposal` until the backlog has room. A deep `seo-proposal` bank is fine; a deep `ai-fix` queue is NOT — it means creation is outrunning solving. Re-raise the cap only if the measured solve rate rises.
+> The cap bounds *work*, not *ideas*: SEO keeps proposing while the bank has room; those proposals wait as `seo-proposal` until the `ai-fix` backlog clears. Re-raise the cap only if the measured solve rate rises.
+>
+> **⚠️ The idea bank is now bounded too (changed 2026-06).** Parking a proposal as `seo-proposal` is no longer free forever: `prune-proposals.yml` runs daily and **auto-closes un-promoted proposals older than 21 days, and caps the open bank at ~60** (oldest closed first, labelled `pruned`, reversible). So:
+> - **Triage from the FRESHEST proposals.** An old `seo-proposal` cites metrics that have rolled over; promoting it spends Roadie minutes on a stale bet. When the backlog has room, promote the newest high-impact proposals, not the oldest.
+> - **Don't fight the prune.** If a pruned idea is genuinely still worth doing, the SEO Agent will re-file it against fresh metrics on its next under-cap run. Don't manually reopen `pruned` issues in bulk.
+> - A deep `ai-fix` queue is bad (creation outrunning solving); a deep `seo-proposal` bank is *also* now bad (stale, un-triageable). Keep both small.
 
 | Score Total | Decisão |
 |-------------|---------|

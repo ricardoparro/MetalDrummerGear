@@ -39,7 +39,7 @@ shipped work actually moved a KPI, and that read steers the next cycle.
 
 | Loop | Workflow | Trigger / cadence (UTC) | Role |
 | --- | --- | --- | --- |
-| **SEO Agent** | `seo-agent.yml` | night hourly `0 23,0–6`, day 3-hourly `0 7,10,13,16,19,22` | Audits GSC + the data modules, files net-new **`seo-proposal`** issues (article gaps, comparisons, guides, lick pages…). Verifies against the DB to avoid false positives. |
+| **SEO Agent** | `seo-agent.yml` | 3×/day `0 7,13,19` | Audits GSC + the data modules, files net-new **`seo-proposal`** issues (article gaps, comparisons, guides, lick pages…). **Bank-capped:** only files while the open `seo-proposal` count is under ~40, so the idea bank stays small and fresh instead of accumulating. Verifies against the DB to avoid false positives. |
 | **CEO Agent** | `ceo-agent.yml` | same cadence as SEO Agent | Triages proposals, **promotes `seo-proposal` → `ai-fix`** but only up to a **backlog cap of 45** (so work never outruns the implementer), closes zombies/duplicates, logs decisions. |
 | **Roadie** (day) | `roadie.yml` | `13 7-17/2` (08:00–18:00 Lisbon) + on `issue opened/reopened`; 1 worker, 2h cap | Drains the eligible issue queue, one branch + PR each (`roadie/issue-<n>`). Implements via `claude --print` against `.roadie/AGENT.md`. |
 | **Roadie Night Fleet** | `roadie-night-fleet.yml` | `0 19,23,3` = three 4h shifts covering **20:00–08:00 Lisbon**; 6 workers | Same drain as Roadie but parallel: each matrix worker takes a different issue (via `ROADIE_WORKER_OFFSET` + the `in-progress` label + a pre-PR dup guard). |
@@ -88,6 +88,7 @@ Agent reads on its next run.
 | **Verify YouTube (scan)** | `verify-youtube.yml` | daily `0 7` | Full scan for dead YouTube IDs already on `main`; files the umbrella `broken-video` issue. (Its PR-time half is a gate — see D.) |
 | **Check broken images** | `check-broken-images.yml` | Mon `30 6` | Weekly dead-image sweep. |
 | **Check structured data** | `check-structured-data.yml` | Mon `0 10` | Weekly JSON-LD validator: extracts live structured data and asserts Google-required fields per `@type` (e.g. `VideoObject.uploadDate`), catching rich-result gaps before GSC flags them. No API key. [`structured-data-loop.md`](structured-data-loop.md) |
+| **Prune Proposals** | `prune-proposals.yml` | daily `30 6` | Bounds the `seo-proposal` **idea bank** so open issues stop accumulating. Auto-closes un-promoted proposals older than 21 days, then caps the bank at ~60 (oldest excess closed, labelled `pruned`, reversible). Never touches `ai-fix`/`in-progress`/`pr-opened`/`hold`/`human*`/`keep`. Deterministic backstop to the SEO Agent's bank-capped self-throttle. |
 
 ---
 
@@ -116,9 +117,17 @@ Agent reads on its next run.
   human/assistant branches.
 - **Labels:** `seo-proposal` (idea bank), `ai-fix` (queued for Roadie),
   `in-progress` / `pr-opened` (in flight), `hold` / `do-not-merge` / `wip` /
-  `blocked` (skip), `human` / `needs-human` (off-limits to the bots).
+  `blocked` (skip), `human` / `needs-human` (off-limits to the bots),
+  `keep` (exempt a proposal from auto-prune), `pruned` (auto-closed from the
+  idea bank by `prune-proposals.yml`).
 - **Backlog cap:** the CEO holds the eligible `ai-fix` queue at **≤ 45** so the
   implementer is never swamped; proposals park as `seo-proposal` until it clears.
+- **Idea-bank cap:** the `seo-proposal` bank is bounded two ways so it can't
+  accumulate: the SEO Agent self-throttles (files nothing once the open bank
+  hits ~40), and **`prune-proposals.yml`** deterministically auto-closes
+  un-promoted proposals >21 days old and caps the bank at ~60 (oldest excess
+  first, labelled `pruned`, reversible). Promote from the *freshest* proposals —
+  old ones cite metrics that have rolled over.
 - **Data modules:** album articles live in **per-drummer files** under
   `packages/frontend/data/albumArticles/<drummer>.js`, composed by
   `index.js`; the old `albumArticles.js` is a thin barrel. **Add new articles as

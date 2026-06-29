@@ -1854,6 +1854,619 @@ export const articles = {
       "title": "The Bridge Album in Charlie Benante's Late-80s Arc",
       "content": "State of Euphoria sits in a critical place in Charlie Benante's recorded history. It follows the watershed Among the Living, precedes the more ambitious Persistence of Time, and captures Charlie at the precise moment his identity as a working endorser stabilised — Tama drums, Sabian cymbals, Pro-Mark sticks, Remo heads. Everything that would define his sound for the next two decades is in place on this record.\n\nFor drummers studying his evolution, State of Euphoria is the album where the Tama Granstar bridges the Artstar II of Among the Living and the kits to come; where the Tama Bell Brass snare provides one of the most prominent recorded examples of that legendary shell; where the Tama HP35 Camco pedals continue the chain-drive legacy that lasted until 2010; and where Charlie's Remo drumhead endorsement makes its first fully credited Anthrax appearance.\n\nProducer Mark Dodson's tighter, drier, more forward approach gave the album a distinctly different sonic personality from its predecessor — and the result is a record that sounds unmistakably late-80s thrash, full of the upper-midrange aggression that defined the era. It remains essential listening for anyone tracing the lineage of Big Four thrash drumming.\n\nFor the full Charlie Benante gear story, visit the [Charlie Benante drummer profile](/drummer/charlie-benante). For the album that immediately preceded this one, see the [Among the Living drum setup breakdown](/articles/charlie-benante-among-the-living-drum-setup)."
     }
+  },
+  "worship-music-drum-setup": {
+    "slug": "worship-music-drum-setup",
+    "albumTitle": "Worship Music",
+    "artist": "Anthrax",
+    "drummer": "Charlie Benante",
+    "drummerId": 12,
+    "relatedDrummerSlug": "charlie-benante",
+    "year": 2011,
+    "genre": "Thrash Metal",
+    "label": "Megaforce Records",
+    "studio": "Sphere Studios, North Hollywood, CA",
+    "producer": "Jay Ruston",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-29",
+    "dateModified": "2026-06-29",
+    "author": "MetalForge Editorial",
+    "title": "Charlie Benante's Drum Setup on Anthrax's Worship Music (2011)",
+    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's Worship Music (2011) — the Grammy-nominated Joey Belladonna reunion album that debuted at #12 on the Billboard 200. Tama Starclassic Maple, Speed Cobra pedals, and the modern thrash configuration behind 'In the End' and 'The Devil You Know.'",
+    "seoKeywords": [
+      "charlie benante worship music drum setup",
+      "worship music drums 2011",
+      "anthrax joey belladonna reunion drums",
+      "charlie benante tama starclassic 2011",
+      "anthrax worship music gear",
+      "jay ruston anthrax production",
+      "charlie benante speed cobra pedals",
+      "anthrax grammy nominated drums"
+    ],
+    "ogImage": "/images/albums/worship-music-drums.webp",
+    "intro": {
+      "title": "The Reunion Album: Anthrax and Joey Belladonna Return",
+      "content": "Released on September 13, 2011, Worship Music ended one of metal's longest and most emotionally charged reunion stories. Joey Belladonna — the high-register vocalist who had defined Anthrax's classic era before his contentious 1992 departure — was back, and the album that greeted his return was the strongest material the band had written in nearly two decades. Worship Music debuted at #12 on the US Billboard 200 and earned a Grammy nomination for Best Metal Performance with \"In the End\" — Anthrax's first Grammy nod in the 21st century and a validation of everything the reunion had promised.\n\nFor Charlie Benante, Worship Music marked the convergence of two significant gear transitions. In 2010, after 26 years of relying on legendary Tama HP35 Camco chain-drive pedals, Benante had finally switched to Tama's Speed Cobra series — faster, lighter, and optimized for the rapid double bass passages that had been his signature since Among the Living. The Speed Cobras arrived just in time for Worship Music's sessions at Sphere Studios in North Hollywood, and producer Jay Ruston — working with Anthrax for the first time — captured their mechanical precision in a production that was simultaneously modern and faithful to the band's thrash roots.\n\nThe production philosophy Jay Ruston brought to Worship Music was the opposite of Dave Jerden's mid-range-heavy 1993 approach. Where Sound of White Noise had pulled back from thrash's defining characteristics, Worship Music leaned into them. Benante's double bass patterns are prominent throughout; the snare sits forward and aggressive in the mix; the cymbals cut. This was a deliberate reconnection with the Among the Living energy that Joey Belladonna's voice had always demanded — a sonic environment where thrash's defining characteristics were assets rather than memories.\n\nThe album also closed an 18-year gap in Anthrax's studio partnership with Belladonna. Persistence of Time (1990) had been their last full album together before the split. Worship Music picks up that thread while incorporating everything Benante had learned in the intervening years — the groove sensibility of Sound of White Noise, the compositional maturity of the Bush era, and the technical refinements that decades of touring and recording had produced. The result is an album where Charlie Benante sounds fully himself: technical, powerful, musical, and in complete command of his instrument.",
+      "keyPoints": [
+        "Joey Belladonna's return — first full studio album with him since Persistence of Time (1990)",
+        "Grammy nominated: Best Metal Performance for 'In the End' (54th Grammy Awards, 2012)",
+        "Debuted at #12 US Billboard 200 — strong commercial performance",
+        "Charlie's first album with Tama Speed Cobra pedals, switched in 2010 after 26 years on HP35 Camco",
+        "Produced by Jay Ruston at Sphere Studios, North Hollywood — beginning of long Anthrax-Ruston partnership",
+        "Closes the 18-year gap: Persistence of Time (1990) → Worship Music (2011)"
+      ]
+    },
+    "drumKit": {
+      "title": "Benante's Modern Tama Starclassic Command Center",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
+      "finish": "Custom finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum",
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "All-maple shells with Star-Cast mounting system"
+      },
+      "description": "For Worship Music, Charlie Benante played his long-running Tama Starclassic Maple configuration — a kit that had been his primary setup since returning to Tama after the DW years of the John Bush era. The Starclassic Maple represented everything Benante needed for the thrash-reunion context of Worship Music: a bright, punchy attack that cut through Jay Ruston's production, the volume and projection to support Joey Belladonna's expansive vocals, and the reliability needed for a drummer who had been performing these instruments at professional touring levels for nearly three decades.\n\nThe dual 22\" x 18\" bass drums were, as ever, non-negotiable. Benante's pioneering sustained double bass technique — the technique that had defined Anthrax since Among the Living — depends on two independent kick drums, each with its own tuning, damping, and miking. The 18\" shell depth delivers a low-end body that single-kick or double-pedal setups cannot replicate. On tracks like \"Fight 'Em 'Til You Can't\" and \"The Devil You Know,\" the kick patterns land with the physical weight that Benante's double bass work demands.\n\nTama's Star-Cast mounting system — which suspends toms from the kick drums and stands without damping shell resonance — was critical to the recorded sound. Jay Ruston's production captured the natural ring and sustain of each shell, and the Star-Cast system ensured that the drums vibrated freely rather than being choked at the mounting points. The result is a tom sound on Worship Music that has body and decay, not the dry, dead thud of clamped-down mounting hardware.\n\nThe all-maple shell construction gave Benante the warm, balanced tone that Ruston's studio aesthetic favored. Maple produces a full-spectrum fundamental with rich midrange — a marked contrast to the birch shells of the Among the Living era, which had emphasized upper-midrange snap over warmth. Where the 1987 thrash production had demanded articulation above everything else, Worship Music's 2011 production context allowed the maple shells to breathe and sustain in a more musical way.",
+      "notes": [
+        "Dual 22\" x 18\" bass drums for the sustained double bass Benante pioneered",
+        "Five-tom configuration for compositional variety across Worship Music's arrangements",
+        "Star-Cast mounting preserves shell resonance — critical for Ruston's production approach",
+        "All-maple shells for balanced, full-spectrum tone in the modern production context",
+        "Long-term Tama Starclassic endorsee — brand partner since the early 1990s return after DW years"
+      ],
+      "estimatedValue": "$5,500-7,500 (Starclassic Maple touring configuration)"
+    },
+    "snare": {
+      "title": "The Benante Signature Crack",
+      "brand": "Tama",
+      "model": "Tama Charlie Benante Signature Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel shell with die-cast hoops",
+      "description": "Charlie Benante's signature Tama snare delivered the cutting, authoritative crack that Worship Music demanded. The steel shell and die-cast hoops configuration that Benante had refined over decades of touring and recording was put directly to work in Sphere Studios — a snare voice that cut through Jay Ruston's layered guitar production with the clarity and aggression that thrash metal requires.\n\nThe steel shell's bright, forward character was ideal for the production context. Ruston's mix placed the snare assertively in the sonic picture — not buried in a room sound like Dave Jerden's 1993 Sound of White Noise approach, but positioned front and center as the rhythmic anchor of each track. Benante's high-tension tuning preference maximized the initial transient: on \"In the End\" and \"I'm Alive,\" the snare crack is immediate and authoritative, landing with the kind of conviction that Grammy-nominated metal recordings demand.\n\nThe die-cast hoops contributed both tonal character and durability. Die-cast construction focuses the shell's resonance and produces a tighter, more defined sound than flanged hoops — important for a drummer who plays with Benante's force. The hoops also facilitate the aggressive rimshots that punctuate Anthrax's most intense rhythmic moments throughout the album.\n\nFor Worship Music's recording, Benante's snare tuning was pitched higher than the groove-metal era — a deliberate return to the aggressive, cutting approach that had defined the Among the Living era. The reunion with Joey Belladonna demanded a drum sound that matched Belladonna's powerful, forward vocals: bright, present, and unambiguous. The Benante signature snare delivered exactly that.",
+      "tuningSetting": "High tension for maximum attack and cut — thrash-era approach matching the Belladonna reunion context",
+      "heads": "Evans Power Center (batter), Evans Snare Side 300 (resonant)",
+      "estimatedValue": "$400-500 (Tama Charlie Benante Signature)"
+    },
+    "cymbals": {
+      "title": "Paiste: The Modern Anthrax Cymbal Arsenal",
+      "brand": "Paiste",
+      "series": "Paiste 2002 / Signature Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
+          "position": "Left side",
+          "notes": "Classic thrash hi-hats — crisp chick and fast response for tight patterns"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste Signature 16\" Fast Crash",
+          "position": "Far left",
+          "notes": "Quick, explosive accent for rapid transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 18\" Medium Crash",
+          "position": "Left of toms",
+          "notes": "Primary workhorse crash with classic Paiste full-body sound"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste RUDE 19\" Crash/Ride",
+          "position": "Right of toms",
+          "notes": "Versatile and durable for heavy hitting across the album sessions"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste 2002 22\" Heavy Ride",
+          "position": "Far right",
+          "notes": "Powerful ride bell cuts through layered guitar production"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 18\" China",
+          "position": "Above floor tom",
+          "notes": "Trashy, explosive accent voice for thrash's heaviest moments"
+        },
+        {
+          "type": "Splash",
+          "model": "Paiste 2002 10\" Splash",
+          "position": "Near hi-hats",
+          "notes": "Fast accent punctuation across the album's intense passages"
+        }
+      ],
+      "description": "Worship Music documents Charlie Benante's fully realized modern Paiste configuration — a setup that combined the classic 2002 series he had used in the Among the Living era with the more refined Signature series voices that his long Paiste relationship had added over the years. The result is a cymbal palette that honored Anthrax's thrash heritage while reflecting the tonal refinement of Benante's three decades of professional playing.\n\nThe 14\" 2002 Sound Edge hi-hats were the backbone of every groove and pattern throughout the album. The wavy bottom cymbal design that had been central to thrash metal's rhythmic vocabulary since the mid-1980s continued to deliver the crisp, defined chick sound and fast response that Benante's playing required. On \"Fight 'Em 'Til You Can't\" — arguably Worship Music's most aggressive track — the hi-hat work is relentlessly tight and perfectly articulated.\n\nThe crash configuration provided dynamic range across the album's varied emotional terrain. The 16\" Signature Fast Crash responded instantly for the quick accent work that marks transitions in faster passages. The 18\" 2002 Medium Crash served as the primary accent voice for bigger structural moments. The RUDE 19\" Crash/Ride added versatility and the durability needed for a drummer with Benante's aggressive touch — RUDE cymbals are designed specifically for heavy-handed players who would destroy conventional cymbals in a studio context.\n\nThe 22\" 2002 Heavy Ride matched the power of Benante's double kick foundation. When Benante rides rather than crashes, he needs a cymbal that can sustain its defined character at his attack level — the Heavy Ride's substantial mass keeps it from washing out even under intense playing. The 18\" China provided the signature thrash-metal trashy accent voice that has punctuated Anthrax records since the beginning — used strategically on Worship Music rather than constantly, each appearance landing with maximum impact.",
+      "estimatedValue": "$2,500-3,500 total (Paiste 2002/Signature configuration)"
+    },
+    "hardware": {
+      "title": "Tama Speed Cobra: The New Double Bass Foundation",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Tama",
+          "model": "Tama Speed Cobra HP910LN (two single pedals)",
+          "notes": "Switched from HP35 Camco in 2010 — first Anthrax album with Speed Cobra",
+          "description": "Worship Music is the first Anthrax album recorded with Tama Speed Cobra pedals — one of the most significant hardware transitions of Charlie Benante's career. For 26 years (1984-2010), Benante had relied on the legendary Tama HP35 Camco chain-drive pedals, a partnership so long that many considered him the defining Camco endorsee. When Tama discontinued the HP35 line, Benante switched to the Speed Cobra — a lighter, faster, longboard design that retained the chain-drive mechanism he preferred while adding modern engineering improvements in spring tension and beater angle adjustment. The Speed Cobra's longer board footprint accommodates Benante's heel-toe technique on the more demanding double bass passages while the lighter overall construction allows faster single-stroke velocity. On Worship Music's recording sessions at Sphere Studios, the Speed Cobras had already been in Benante's live rig for roughly a year, giving him the familiarity needed for studio-quality performance across the album's intensive tracking schedule."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "notes": "Heavy-duty stand for the aggressive hi-hat work across the album",
+          "description": "The Iron Cobra hi-hat stand provides the stability and smooth clutch action that Benante's fast hi-hat patterns require. The album's tighter, more aggressive tracks demanded precise hi-hat control, and the Iron Cobra's reliable mechanism supported both closed and half-open patterns across Worship Music's varied tempos."
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair",
+          "notes": "Long-term Tama hardware relationship extends to the throne"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Charlie Benante Signature / 2B",
+          "notes": "Power-oriented stick for the aggressive Worship Music sessions"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter), Remo Powerstroke 3 (front, ported)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Evans Power Center (batter), Evans Snare Side 300 (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Jay Ruston's Modern Thrash Production at Sphere Studios",
+      "content": "Jay Ruston brought to Worship Music a production philosophy that honored Anthrax's thrash roots while placing them in a modern sonic context. Where the band's 1990s work had moved away from the bright, forward drum production of the classic era, Ruston's approach for Worship Music deliberately reconnected with the Among the Living aesthetic — drums that were present, aggressive, and clearly defined within the mix.\n\n**Room and Placement:**\nSphere Studios in North Hollywood provided a versatile tracking environment. Ruston's drum setup balanced the dry, close-miked approach that gives thrash its precision with enough room ambience to add natural depth. The result is a drum sound that is simultaneously modern and faithful to the Big Four thrash identity.\n\n**Microphone Approach:**\n- Kick drums: Beta 52A-style close mics inside each bass drum with subkick reinforcement for low-end body\n- Snare: SM57 top mic with bottom mic for wire sensitivity — high-tension tuning captured precisely\n- Toms: Sennheiser MD421 standard on each tom for defined, focused attack\n- Overheads: Matched pair of large-diaphragm condensers for cymbal imaging\n- Room: Controlled room contribution blended carefully to add depth without washing out the transients\n\n**The Double Bass Approach:**\nRuston preserved the attack and precision of Benante's new Speed Cobra pedals while adding the low-end weight the 22\" x 18\" shells naturally produce. The kick sound on tracks like \"The Devil You Know\" and \"Fight 'Em 'Til You Can't\" is thick and physical — emphasizing the difference between Benante's two-kick setup and what a double pedal could achieve.\n\n**Production Context:**\nThe album's Grammy nomination for \"In the End\" reflected both the songwriting and the sonic presentation. Ruston's production was clean and modern enough for mainstream metal recognition while retaining the thrash aggression that Anthrax's identity demanded.",
+      "keyTechniques": [
+        "Forward, aggressive drum placement reconnects with Big Four thrash aesthetic",
+        "High-tension snare tuning captured with close miking for maximum transient definition",
+        "Speed Cobra double bass preserved in precision and attack while retaining low-end body",
+        "Controlled room contribution adds depth without compromising rhythmic clarity"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "The Devil You Know",
+        "bpm": "162",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener that announces the Belladonna reunion with maximum energy",
+          "Sustained double bass throughout the verse drives the thrash pulse",
+          "Charlie's Speed Cobra pedals appear fully broken-in on this performance",
+          "One of Worship Music's most aggressive drum tracks"
+        ],
+        "gearNotes": "The Speed Cobra pedals' longer board footprint supports the sustained verse double bass without fatigue. Paiste 2002 Sound Edge hi-hats provide the crisp articulation for the fast patterns."
+      },
+      {
+        "track": "In the End",
+        "bpm": "120",
+        "signature": "4/4",
+        "highlights": [
+          "Grammy-nominated Best Metal Performance (54th Grammy Awards, 2012)",
+          "Mid-tempo track that showcases Charlie's restraint and groove sensibility",
+          "Snare placement drives the song's emotional arc",
+          "Demonstrates the full range of Charlie's modern drumming vocabulary"
+        ],
+        "gearNotes": "The Tama Benante signature snare's cutting crack anchors the mid-tempo groove. The 22\" Heavy Ride provides the sustained ride platform for the track's extended instrumental passages."
+      },
+      {
+        "track": "Fight 'Em 'Til You Can't",
+        "bpm": "175",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's fastest and most aggressive tracks",
+          "Double bass patterns recall the Among the Living era thrash intensity",
+          "Tom fills are structural and purposeful — compositional thinking applied to thrash",
+          "Speed Cobra pedals at maximum velocity"
+        ],
+        "gearNotes": "The Starclassic Maple's five-tom configuration gives Charlie the melodic fill options this track's structure requires. RUDE Crash/Ride used for the heaviest accent moments."
+      },
+      {
+        "track": "I'm Alive",
+        "bpm": "130",
+        "signature": "4/4",
+        "highlights": [
+          "Lead single from the album",
+          "Balance of driving groove and thrash precision",
+          "China cymbal accents define the chorus transitions",
+          "Demonstrates Worship Music's range from speed to mid-tempo power"
+        ],
+        "gearNotes": "The 2002 18\" China delivers the explosive chorus accents. Paiste Signature Fast Crash for the rapid transitions between sections."
+      }
+    ],
+    "evolution": {
+      "title": "From Sound of White Noise to Worship Music: The Modern Era Arrives",
+      "content": "Worship Music closes an 18-year gap in the Benante-Belladonna studio partnership while also documenting 18 years of gear evolution. The Sound of White Noise (1993) had found Benante on DW Collector's Series drums, Sabian cymbals, and DW 5000 pedals. Worship Music (2011) documents his fully settled modern configuration: back to Tama (Starclassic Maple), back to Paiste, and now on Speed Cobra pedals that replaced the legendary HP35 Camcos just in time for these sessions. The evolution is complete — Benante arrived at Worship Music's recording sessions with a setup that represents decades of refinement distilled into a working professional's toolkit.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "DW Collector's Series Maple (Sound of White Noise, 1993)",
+          "now": "Tama Starclassic Maple (Worship Music, 2011)"
+        },
+        {
+          "category": "Snare",
+          "then": "DW Edge Series 14\" x 6.5\"",
+          "now": "Tama Charlie Benante Signature 14\" x 6.5\" (steel)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Sabian AA / HH Series",
+          "now": "Paiste 2002 / Signature Series"
+        },
+        {
+          "category": "Pedals",
+          "then": "DW 5000 Series (two single pedals)",
+          "now": "Tama Speed Cobra HP910LN (switched 2010)"
+        },
+        {
+          "category": "Producer",
+          "then": "Dave Jerden (A&M Studios, Hollywood)",
+          "now": "Jay Ruston (Sphere Studios, North Hollywood)"
+        },
+        {
+          "category": "Vocalist",
+          "then": "John Bush (debut with Anthrax)",
+          "now": "Joey Belladonna (reunion — first since Persistence of Time, 1990)"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "question": "What drum kit did Charlie Benante use on Worship Music?",
+        "answer": "Charlie Benante used a Tama Starclassic Maple kit on Worship Music (2011), configured with dual 22\" x 18\" bass drums, three rack toms (10\", 12\", 13\"), and two floor toms (14\" and 16\"). The all-maple shells with Tama's Star-Cast mounting system delivered the bright, punchy attack Jay Ruston's thrash-reunion production required. The Starclassic Maple represented Benante's return to Tama after the DW Collector's Series years of the John Bush era (1993-2001) and remained his primary touring and recording configuration through the 2010s."
+      },
+      {
+        "question": "Was Worship Music Grammy nominated?",
+        "answer": "Yes. Anthrax received a Grammy nomination for Best Metal Performance at the 54th Grammy Awards (2012) for the track 'In the End' from Worship Music. This was Anthrax's first Grammy nomination of the 21st century and came directly from the commercial and critical impact of the Joey Belladonna reunion album, which debuted at #12 on the US Billboard 200."
+      },
+      {
+        "question": "Why did Charlie Benante switch to Speed Cobra pedals for Worship Music?",
+        "answer": "Charlie Benante switched from his legendary Tama HP35 Camco chain-drive pedals to Tama Speed Cobra pedals in 2010, when Tama discontinued the HP35 line he had used since 1984. The Speed Cobra offered similar chain-drive action with modern engineering improvements: a longer board footprint for better heel-toe technique, lighter overall construction for faster single-stroke velocity, and adjustable beater angle and spring tension. Worship Music (2011) was the first Anthrax studio album recorded with the Speed Cobras — by that time Benante had already toured with them for approximately a year, giving him the familiarity needed for studio-quality double bass performance throughout the sessions."
+      },
+      {
+        "question": "What is the drum setup on 'In the End' by Anthrax?",
+        "answer": "\"In the End\" from Worship Music (2011) features Charlie Benante on his Tama Starclassic Maple kit with dual 22\" x 18\" bass drums, his signature Tama steel snare, and Paiste 2002/Signature cymbals. The track is a mid-tempo composition that demonstrates Benante's ability to serve the song rather than showcase technique — precise snare backbeat, controlled double bass used structurally rather than as a constant presence, and cymbal work that supports the emotional arc of Joey Belladonna's vocal performance. It was Grammy-nominated for Best Metal Performance at the 54th Grammy Awards in 2012."
+      },
+      {
+        "question": "How does Worship Music compare to Among the Living drum-wise?",
+        "answer": "Worship Music (2011) and Among the Living (1987) share the same fundamental configuration — Charlie Benante on dual 22\" bass drums, Tama kit, forward thrash production — but represent 24 years of gear and technique refinement. Among the Living used the Tama Artstar II birch kit and Paiste 2002 cymbals with HP35 Camco pedals and a Vic Firth 2B stick; Worship Music used the Tama Starclassic Maple, the same Paiste 2002/Signature cymbals, and the new Speed Cobra pedals. Sonically, the biggest differences are the modern production context (Jay Ruston vs. Eddie Kramer), the fuller maple shell warmth versus birch's snappier upper-midrange, and the Speed Cobra's different pedal action from the original Camco mechanism. For the full Among the Living breakdown, see the [Among the Living drum setup article](/articles/charlie-benante-among-the-living-drum-setup). For the next album in the arc, see [For All Kings drum setup](/articles/for-all-kings-drum-setup)."
+      }
+    ],
+    "relatedAlbums": [
+      "sound-of-white-noise-drum-setup",
+      "charlie-benante-among-the-living-drum-setup",
+      "for-all-kings-drum-setup"
+    ],
+    "relatedDrummers": [
+      4,
+      1,
+      3
+    ],
+    "relatedArticles": [
+      "whats-in-charlie-benantes-kit",
+      "thrash-metal-drummers",
+      "big-four-thrash"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Grammy Album: Anthrax's Modern Thrash Benchmark",
+      "content": "Worship Music is the album that proved Anthrax's classic lineup could produce material worthy of their 1980s peak — and that Charlie Benante, two and a half decades into his career, remained one of thrash metal's defining drummers. The Grammy nomination for \"In the End\" was not a lifetime achievement recognition; it was a direct acknowledgment that the music on Worship Music was among the best heavy metal of 2011. The album debuted at #12 on the US Billboard 200, closed a two-decade gap in the Belladonna-Benante partnership, and established Jay Ruston as the band's production partner for the decade to come.\n\nFor Charlie Benante, Worship Music was the first major studio document of his Speed Cobra era — the pedals that replaced the HP35 Camcos he had used since 1984 and would carry him through all future Anthrax recordings. The Starclassic Maple kit, Paiste 2002 and Signature cymbals, and the high-tension snare tuning that Ruston captured at Sphere Studios represents the fully realized modern Benante configuration.\n\nFor the album that followed and completed this modern arc, see the [For All Kings drum setup article](/articles/for-all-kings-drum-setup). For the Sound of White Noise-era gear evolution, visit the [Sound of White Noise drum setup](/articles/sound-of-white-noise-drum-setup). For Charlie's complete career and gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
+    }
+  },
+  "for-all-kings-drum-setup": {
+    "slug": "for-all-kings-drum-setup",
+    "albumTitle": "For All Kings",
+    "artist": "Anthrax",
+    "drummer": "Charlie Benante",
+    "drummerId": 12,
+    "relatedDrummerSlug": "charlie-benante",
+    "year": 2016,
+    "genre": "Thrash Metal",
+    "label": "Megaforce Records",
+    "studio": "Sphere Studios, North Hollywood, CA",
+    "producer": "Jay Ruston",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-29",
+    "dateModified": "2026-06-29",
+    "author": "MetalForge Editorial",
+    "title": "Charlie Benante's Drum Setup on Anthrax's For All Kings (2016)",
+    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's For All Kings (2016) — the Grammy-nominated album that debuted at #9 US and #7 UK, closing the modern Anthrax arc. Tama Starclassic Maple, Speed Cobra pedals, and the refined thrash configuration behind 'Evil Twin' and 'Zero Tolerance.'",
+    "seoKeywords": [
+      "charlie benante for all kings drum setup",
+      "for all kings drums 2016",
+      "anthrax 2016 drum gear",
+      "charlie benante tama starclassic 2016",
+      "anthrax evil twin grammy drums",
+      "jay ruston anthrax for all kings",
+      "charlie benante modern kit",
+      "anthrax grammy nominated 2017"
+    ],
+    "ogImage": "/images/albums/for-all-kings-drums.webp",
+    "intro": {
+      "title": "For All Kings: The Modern Anthrax Arc Complete",
+      "content": "Released on February 26, 2016, For All Kings arrived five years after Worship Music and delivered on every promise the Belladonna reunion had made. The album debuted at #9 on the US Billboard 200 and #7 on the UK Albums Chart — the band's strongest UK chart performance in decades — and earned a Grammy nomination for Best Metal Performance with \"Evil Twin\" at the 59th Grammy Awards in 2017, Anthrax's second consecutive Grammy nomination following Worship Music's \"In the End\" nod in 2012. The back-to-back Grammy nominations placed Anthrax in an elite category of contemporary thrash bands whose work was being recognized at the highest level of mainstream industry acknowledgment.\n\nFor Charlie Benante, For All Kings represented the fully mature expression of the modern configuration he had assembled across the preceding decade. The Tama Starclassic Maple kit that had served Worship Music was now a deeply familiar instrument — five years of touring and recording had given Benante total command of its characteristics, and producer Jay Ruston, returning for his second consecutive Anthrax album, had refined his approach to capturing Benante's setup at Sphere Studios. The resulting drum sound on For All Kings is arguably the sharpest and most precisely realized of any Anthrax album: every kick hit is physically present, every snare crack is authoritative, and the cymbal work sits exactly where it needs to within the dense, layered guitar arrangements of Scott Ian and Jonathan Donais.\n\nThe album's songwriting — developed over an extended period following the Worship Music tour cycle — allowed Benante to explore a wider rhythmic range than the reunion album's more unified thrash focus. Tracks like \"Evil Twin\" balance mid-tempo power and aggressive double bass in ways that recall the compositional intelligence of Persistence of Time, while \"Zero Tolerance\" and \"You Gotta Believe\" recall the direct, high-velocity thrash attack of the Big Four peak years. \"Breathing Lightning\" and \"Defend/Avenge\" pushed into darker, more atmospheric territory that challenged Benante to deploy restraint and dynamic control alongside his technical capabilities. For All Kings is, in short, the most complete modern statement of what Charlie Benante is as a drummer — and it arrived at the exact moment he was playing with more compositional authority than at any point in his career.",
+      "keyPoints": [
+        "Grammy nominated: Best Metal Performance for 'Evil Twin' (59th Grammy Awards, 2017) — second consecutive Grammy nod after Worship Music",
+        "Debuted #9 US Billboard 200 and #7 UK Albums Chart — strongest UK chart position in decades",
+        "Jay Ruston returns for second consecutive Anthrax album — most refined Sphere Studios drum sound to date",
+        "Five years of Tama Speed Cobra experience fully evident in the double bass performance",
+        "Widest compositional range of any modern Anthrax album — thrash, groove, atmospheric all present",
+        "Closes the arc: Sound of White Noise (1993) → Worship Music (2011) → For All Kings (2016)"
+      ]
+    },
+    "drumKit": {
+      "title": "The Fully Realized Starclassic Configuration",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
+      "finish": "Custom finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum",
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "All-maple shells with Star-Cast mounting system"
+      },
+      "description": "For All Kings finds Charlie Benante on the same Tama Starclassic Maple configuration that had served Worship Music, but with five additional years of intensive touring and recording familiarity behind the instrument. The kit itself represents the mature, settled endpoint of Benante's decades-long search for the perfect professional setup — a dual-kick, five-tom configuration built around Tama's Starclassic Maple shells and Star-Cast mounting that had evolved from the thrash-era Artstar II kits of the 1980s through the DW experiments of the 1990s and back to Tama for the modern era.\n\nThe dual 22\" x 18\" bass drums remain the foundation of everything Benante does rhythmically. The 18\" shell depth delivers the low-end body that two-kick setups require — a fundamental difference from the 22\" x 16\" dimensions of the Among the Living era that reflects Benante's evolved understanding of what his double bass approach needs sonically. Jay Ruston's production for For All Kings gave these drums more low-end weight than they had received on Worship Music, aligning with the album's slightly darker, more muscular sonic character.\n\nThe Starclassic Maple's all-maple construction provided the balanced, full-spectrum tone that Ruston's layered production aesthetic required. Maple shells produce a wide frequency response with a strong fundamental and warm midrange — the sonic foundation that makes Benante's tom work on For All Kings sound dimensional and musical rather than simply percussive. On tracks like \"You Gotta Believe\" and \"For All Kings,\" the tom fills carry melodic weight that simpler shell constructions cannot achieve.\n\nTama's Star-Cast mounting system — a constant across Benante's modern Starclassic configuration — ensured that shell resonance was preserved fully in Ruston's recording environment. The system's suspension mount approach prevents the shell dampening that would compromise the natural decay and warmth that For All Kings' production captured so effectively.",
+      "notes": [
+        "Same Starclassic Maple configuration as Worship Music — five years of touring familiarity behind every performance",
+        "Dual 22\" x 18\" bass drums — greater low-end body than the thrash-era 16\" depth shells",
+        "Star-Cast mounting preserves shell resonance in Ruston's recording approach",
+        "Five-tom layout gives Benante the compositional range for the album's widest melodic fill vocabulary",
+        "All-maple construction for the balanced, full-spectrum tone Ruston's production captured"
+      ],
+      "estimatedValue": "$5,500-7,500 (Starclassic Maple touring configuration)"
+    },
+    "snare": {
+      "title": "The Signature Steel Voice",
+      "brand": "Tama",
+      "model": "Tama Charlie Benante Signature Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel shell with die-cast hoops",
+      "description": "Charlie Benante's signature Tama steel snare on For All Kings delivered the most precisely captured version of his signature sound in any Anthrax recording. Jay Ruston's five years of experience working with Benante's setup translated into a snare placement in the mix that was both more forward and more detailed than on Worship Music — the steel shell's high-frequency content, the die-cast hoops' focused resonance control, and Benante's high-tension tuning preference all resolved into a drum sound that was immediately identifiable as his.\n\nThe steel shell's bright, aggressive character suited For All Kings' slightly harder, darker musical identity. Where Worship Music's production had been bright and celebratory to match the Belladonna reunion energy, For All Kings carried more weight and muscle in its arrangements — and Ruston's snare presentation matched that shift. The crack on \"Evil Twin\" and \"Zero Tolerance\" is authoritative and physical, landing with the kind of conviction that Grammy-nominated metal performances require.\n\nBenante's high-tension tuning approach on For All Kings followed the same philosophy he had used throughout the modern Tama era: maximize the initial transient, minimize ring, and produce a drum that cuts through dense guitar production without needing to be mixed forward at the expense of other elements. The die-cast hoops contributed the focused, tight rim character that Benante's aggressive rimshot technique exploits to maximum effect throughout the album.\n\nThe Evans Power Center head continued to serve the recording context well — its single-ply coated construction responded to Benante's attack with the right combination of articulation and body. On the album's more atmospheric moments, like \"Breathing Lightning,\" the snare's dynamic sensitivity was equally important: the same drum that punished the thrash tracks could respond to lighter touch with warmth and control.",
+      "tuningSetting": "High tension for thrash attack and precision — consistent with the Worship Music approach",
+      "heads": "Evans Power Center (batter), Evans Snare Side 300 (resonant)",
+      "estimatedValue": "$400-500 (Tama Charlie Benante Signature)"
+    },
+    "cymbals": {
+      "title": "Paiste: The Mature Arsenal",
+      "brand": "Paiste",
+      "series": "Paiste 2002 / Signature / RUDE Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
+          "position": "Left side",
+          "notes": "Defining thrash hi-hat voice — crisp chick, fast response"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste Signature 16\" Fast Crash",
+          "position": "Far left",
+          "notes": "Quick explosive accent for rapid transitions in faster tracks"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 18\" Medium Crash",
+          "position": "Left of toms",
+          "notes": "Primary crash with classic full-body Paiste character"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste RUDE 19\" Crash/Ride",
+          "position": "Right of toms",
+          "notes": "Durable and versatile for the album's heaviest passages"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste 2002 22\" Heavy Ride",
+          "position": "Far right",
+          "notes": "Powerful bell presence cuts through layered guitar production"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 18\" China",
+          "position": "Above floor tom",
+          "notes": "Explosive trashy accent for thrash's defining moments"
+        },
+        {
+          "type": "Splash",
+          "model": "Paiste 2002 10\" Splash",
+          "position": "Near hi-hats",
+          "notes": "Fast accent punctuation across the album's intense passages"
+        }
+      ],
+      "description": "For All Kings documents Charlie Benante's Paiste setup in its most refined form — the same 2002, Signature, and RUDE combination he had worked with across the modern era, but heard through Jay Ruston's most experienced capture of the configuration. After two full album cycles and years of continuous touring at major festival and arena levels, Benante's cymbal choices were fully settled: the instruments he brought to Sphere Studios for For All Kings were not the result of recent experimentation but of long-term professional partnership with Paiste's premier product lines.\n\nThe 14\" 2002 Sound Edge hi-hats provided the familiar, defining thrash vocabulary that Anthrax audiences had heard since Among the Living. Their wavy bottom design produced the crisp, articulate chick that Benante's fast hi-hat patterns demanded, and their fast response allowed the rapid open-close work that characterized the album's more aggressive passages. On \"Evil Twin,\" the hi-hat work is controlled and purposeful — serving the mid-tempo groove without drawing attention away from the riff.\n\nThe crash configuration — 16\" Signature Fast Crash, 18\" 2002 Medium Crash, and 19\" RUDE Crash/Ride — gave Benante three distinct accent voices with different response times and tonal characters. The fast crash for quick transitions, the medium crash for primary accent work, the RUDE for the heaviest, most sustained accent moments — this configuration allowed For All Kings' varied emotional range to be supported with matching cymbal choices rather than a single-voice approach.\n\nThe 22\" 2002 Heavy Ride sustained its clear bell character under Benante's powerful attack throughout the album's instrumental passages, while the 18\" China delivered the explosive, trashy accents that had been part of the Anthrax sonic vocabulary since the thrash era's beginning. The 10\" Splash added fast punctuation across the album's more intense passages — a small cymbal that made a significant contribution to the rhythmic texture of the recording.",
+      "estimatedValue": "$2,500-3,500 total (Paiste 2002/Signature/RUDE configuration)"
+    },
+    "hardware": {
+      "title": "Speed Cobra at Peak Familiarity",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Tama",
+          "model": "Tama Speed Cobra HP910LN (two single pedals)",
+          "notes": "Six years of Speed Cobra experience — fully broken in for For All Kings",
+          "description": "By 2015-2016 when For All Kings was recorded at Sphere Studios, Charlie Benante had six years of continuous professional experience with Tama's Speed Cobra pedals — the configuration that had replaced his legendary 26-year HP35 Camco partnership in 2010. The difference in Speed Cobra performance between Worship Music (one year of experience) and For All Kings (six years) is audible: the double bass work on For All Kings is more relaxed, more precise, and deployed with greater compositional intelligence than on the already-strong Worship Music sessions. The Speed Cobra's longboard design and lighter construction had become Benante's second nature, allowing him to execute the full vocabulary of his double bass technique — sustained tremolo patterns, accented single kicks, heel-toe phrases, and the explosive short bursts that punctuate thrash metal's most aggressive passages — with complete control."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "notes": "Reliable, heavy-duty platform for the album's precise hi-hat work",
+          "description": "The Iron Cobra stand's smooth clutch action and solid construction supported the controlled hi-hat vocabulary across For All Kings' varied tempo and style range. From the mid-tempo groove of \"Evil Twin\" to the high-velocity patterns of \"Zero Tolerance,\" the stand's stable platform contributed to the precision of Benante's hi-hat performance throughout the recording sessions."
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair",
+          "notes": "Consistent Tama hardware setup across all modern recordings"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Charlie Benante Signature / 2B",
+          "notes": "Power-oriented stick selection consistent with the Worship Music sessions"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter), Remo Powerstroke 3 (front, ported)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Evans Power Center (batter), Evans Snare Side 300 (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Jay Ruston's Refined Approach: The Second Anthrax Album",
+      "content": "Jay Ruston's second Anthrax album at Sphere Studios reflected the accumulated experience of the Worship Music sessions and the intervening years of touring. By For All Kings, Ruston had a deep familiarity with Benante's setup — the acoustic character of each drum in the studio environment, the ideal mic placement for the Speed Cobra double bass, the cymbal balance that served Benante's configuration best. The result is the most precisely captured Benante drum sound in any Anthrax recording.\n\n**Production Philosophy:**\nFor All Kings maintained the forward, aggressive drum placement of Worship Music while adding slightly more low-end weight to the kick drums and more density to the tom sound. The album's harder, darker musical identity — compared to Worship Music's celebratory reunion energy — was supported by a drum production approach that emphasised power and physicality over brightness.\n\n**Microphone Setup (refined from Worship Music):**\n- Kick drums: Subkick reinforcement increased for greater low-end body — the 22\" x 18\" shells' natural low-end potential fully exploited\n- Snare: Close miking approach preserved from Worship Music — high-tension tuning captured with maximum transient definition\n- Toms: Room contribution blended more generously than Worship Music — adds dimensional depth to the tom fills\n- Overheads: Cymbal imaging balanced carefully against the dense guitar production\n\n**The Double Bass Refinement:**\nThe Speed Cobra performance on For All Kings is noticeably more settled than on Worship Music. Six years of continuous professional experience produced a double bass sound that was simultaneously more relaxed in feel and more precise in execution — the hallmark of a drummer who has completely internalized a new piece of hardware.\n\n**Grammy Context:**\nThe \"Evil Twin\" Grammy nomination for Best Metal Performance at the 59th Grammy Awards (2017) represented the second consecutive Grammy recognition for an Anthrax/Ruston/Benante production — confirming that the Sphere Studios approach consistently produced recordings of industry-recognized quality.",
+      "keyTechniques": [
+        "Increased low-end weight in kick drum production versus Worship Music — matches the album's harder character",
+        "More generous room contribution on toms adds dimensional depth to fills",
+        "Six years of Speed Cobra familiarity produces the most relaxed, precise double bass of Benante's recorded career",
+        "Grammy-recognized production quality — second consecutive nomination for Anthrax/Ruston collaboration"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Evil Twin",
+        "bpm": "126",
+        "signature": "4/4",
+        "highlights": [
+          "Grammy-nominated Best Metal Performance (59th Grammy Awards, 2017)",
+          "Lead single and signature track of the album",
+          "Mid-tempo groove that showcases Benante's mature compositional approach",
+          "Snare backbeat placement drives the song's emotional power"
+        ],
+        "gearNotes": "The Benante signature snare's forward presence anchors the mid-tempo groove. Paiste 2002 Sound Edge hi-hats provide the controlled pulse. The 22\" Heavy Ride appears in extended instrumental passages."
+      },
+      {
+        "track": "Zero Tolerance",
+        "bpm": "172",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's fastest and most direct thrash tracks",
+          "Sustained double bass at maximum velocity — Speed Cobra fully exploited",
+          "Direct callback to the Among the Living-era thrash attack",
+          "Charlie's most aggressive performance on the album"
+        ],
+        "gearNotes": "Speed Cobra pedals deliver the sustained double bass with six years of broken-in consistency. RUDE 19\" Crash/Ride used for the heaviest accent moments. Paiste 2002 China delivers the chorus transitions."
+      },
+      {
+        "track": "Breathing Lightning",
+        "bpm": "96",
+        "signature": "4/4",
+        "highlights": [
+          "Album's most atmospheric and dynamic track",
+          "Demands restraint and dynamic sensitivity — contrast to the thrash tracks",
+          "Showcases Benante's full range beyond speed and aggression",
+          "One of the album's most compositionally complex drum performances"
+        ],
+        "gearNotes": "The Starclassic Maple's natural warmth suits the track's atmospheric character. Paiste Signature Fast Crash used sparingly for emotional accents. Snare at reduced velocity demonstrates the drum's dynamic range."
+      },
+      {
+        "track": "For All Kings",
+        "bpm": "136",
+        "signature": "4/4",
+        "highlights": [
+          "Title track and album closer — the definitive statement",
+          "Tom fills demonstrate the Starclassic Maple's five-tom compositional range",
+          "Double bass deployed as structural element rather than constant presence",
+          "Closes the album's arc with maximum conviction"
+        ],
+        "gearNotes": "The five-tom Starclassic configuration fully exploited in the tom-driven fills. China cymbal marks the structural transitions. The dual 22\" x 18\" kick drums deliver the track's closing power statement."
+      }
+    ],
+    "evolution": {
+      "title": "The Arc Complete: From Sound of White Noise to For All Kings",
+      "content": "For All Kings closes the modern chapter of Charlie Benante's recorded career with complete authority. The evolution from Sound of White Noise (1993) to Worship Music (2011) to For All Kings (2016) is the story of a drummer who left his thrash foundation, explored groove metal and alternative metal territory, and returned with everything he'd learned intact — a broader dynamic range, deeper compositional intelligence, and a fully refined toolkit built on the Tama Starclassic Maple and Speed Cobra foundation that would carry him into his work with Pantera's reunion tour from 2022 onwards.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Starclassic Maple (Worship Music, 2011)",
+          "now": "Tama Starclassic Maple (For All Kings, 2016) — same platform, five years deeper familiarity"
+        },
+        {
+          "category": "Snare",
+          "then": "Tama Charlie Benante Signature (first full cycle)",
+          "now": "Tama Charlie Benante Signature (second full cycle — refined tuning approach)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste 2002 / Signature Series",
+          "now": "Paiste 2002 / Signature / RUDE — fully settled three-line configuration"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama Speed Cobra (1 year experience at Worship Music)",
+          "now": "Tama Speed Cobra (6 years experience at For All Kings)"
+        },
+        {
+          "category": "Production",
+          "then": "Jay Ruston / Sphere Studios (first collaboration)",
+          "now": "Jay Ruston / Sphere Studios (second collaboration — refined approach)"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "question": "What drum kit did Charlie Benante use on For All Kings?",
+        "answer": "Charlie Benante used a Tama Starclassic Maple kit on For All Kings (2016), configured with dual 22\" x 18\" bass drums, three rack toms (10\", 12\", 13\"), and two floor toms (14\" and 16\") with all-maple shells and Tama's Star-Cast mounting system. This was the same fundamental configuration as Worship Music (2011), but with five additional years of touring and recording experience behind the instrument. Jay Ruston captured the setup at Sphere Studios in North Hollywood with a slightly increased low-end weight versus the Worship Music sessions."
+      },
+      {
+        "question": "Was For All Kings Grammy nominated?",
+        "answer": "Yes. Anthrax received a Grammy nomination for Best Metal Performance at the 59th Grammy Awards (2017) for the track 'Evil Twin' from For All Kings. This was Anthrax's second consecutive Grammy nomination — following Worship Music's 'In the End' nomination at the 54th Grammy Awards in 2012 — placing the band in a select group of contemporary metal acts with back-to-back Grammy recognition. The album debuted at #9 on the US Billboard 200 and #7 on the UK Albums Chart."
+      },
+      {
+        "question": "What is Charlie Benante's drum setup on 'Evil Twin'?",
+        "answer": "'Evil Twin' from For All Kings (2016) features Charlie Benante on Tama Starclassic Maple with dual 22\" x 18\" bass drums, his Tama Charlie Benante Signature steel snare, and Paiste 2002/Signature cymbals. The Grammy-nominated track is a mid-tempo composition that centers on Benante's snare backbeat and controlled hi-hat work — the Speed Cobra double bass appears as a structural accent rather than a constant presence, reflecting the mature compositional approach that distinguishes For All Kings from Anthrax's classic thrash recordings. For comparison with the classic era, see the [Among the Living drum setup article](/articles/charlie-benante-among-the-living-drum-setup)."
+      },
+      {
+        "question": "How does For All Kings compare to Worship Music drum-wise?",
+        "answer": "For All Kings (2016) and Worship Music (2011) share the same fundamental Charlie Benante configuration — Tama Starclassic Maple, Speed Cobra pedals, Tama signature snare, Paiste cymbals — but differ in execution and production. By For All Kings, Benante had six years of Speed Cobra experience versus approximately one year at Worship Music, producing a more relaxed and precise double bass performance. Jay Ruston's production for For All Kings added more low-end weight to the kick drums and more dimensional depth to the toms compared to Worship Music's brighter presentation. The album's wider compositional range also pushed Benante into more atmospheric and dynamic territory than Worship Music's more unified thrash focus. See the [Worship Music drum setup article](/articles/worship-music-drum-setup) for the direct comparison."
+      },
+      {
+        "question": "What Anthrax albums has Charlie Benante recorded with Tama Speed Cobra pedals?",
+        "answer": "Charlie Benante switched to Tama Speed Cobra pedals in 2010, replacing the legendary HP35 Camco chain-drive pedals he had used since 1984. Both modern Anthrax studio albums — Worship Music (2011) and For All Kings (2016) — were recorded with Speed Cobra pedals. Worship Music was the first Anthrax album with Speed Cobras (approximately one year of familiarity at the time of recording); For All Kings was the second (six years of experience). All subsequent Anthrax touring and session work, including his role in Pantera's reunion tour from 2022, used the Speed Cobra configuration. For the full modern kit overview, see [What's In Charlie Benante's Kit](/articles/whats-in-charlie-benantes-kit)."
+      }
+    ],
+    "relatedAlbums": [
+      "worship-music-drum-setup",
+      "sound-of-white-noise-drum-setup",
+      "charlie-benante-among-the-living-drum-setup"
+    ],
+    "relatedDrummers": [
+      4,
+      1,
+      3
+    ],
+    "relatedArticles": [
+      "whats-in-charlie-benantes-kit",
+      "thrash-metal-drummers",
+      "big-four-thrash"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Modern Arc Closed: Charlie Benante at His Peak",
+      "content": "For All Kings is the record that completed Charlie Benante's modern discography and confirmed that his creative and technical peak was not behind him but ongoing. The Grammy nomination for \"Evil Twin,\" the #9 US and #7 UK chart debuts, and the critical consensus that the album ranked among Anthrax's finest work all pointed to the same conclusion: 33 years into his professional career, Charlie Benante was playing and composing at the highest level of his life.\n\nThe drum sound on For All Kings — captured by Jay Ruston at Sphere Studios with five years of refined experience working with Benante's setup — is the definitive modern documentation of his playing: the Tama Starclassic Maple's warm, balanced tone; the signature snare's authoritative crack; the Speed Cobra double bass in its most settled and mature expression; and the Paiste 2002/Signature/RUDE cymbal configuration that served every moment of the album's widest compositional range.\n\nFor the album that preceded For All Kings and initiated the modern Grammy-era arc, see the [Worship Music drum setup article](/articles/worship-music-drum-setup). For the John Bush transition era, visit the [Sound of White Noise drum setup](/articles/sound-of-white-noise-drum-setup). For the classic thrash foundation, see [Among the Living drum setup](/articles/charlie-benante-among-the-living-drum-setup). For Charlie's complete career and current gear, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
+    }
   }
 };
 export default articles;

@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/inferno"
 source: "https://metalforge.io"
-last_updated: "2026-06-25"
+last_updated: "2026-06-29"
 ---
 
 # Inferno — Drum Kit & Gear Setup
@@ -26,6 +26,12 @@ Inferno's drum kit and gear setup. Inferno is a professional metal drummer best 
 | Drum kit | Pearl Masterworks |
 | Signature snare | Pearl Reference 14x5" Steel |
 | Sticks | Vic Firth 5B |
+
+## Kit Overview
+
+Inferno plays a Pearl Masterworks drum kit — the premium custom shell series anchoring Behemoth's apocalyptic live productions since the drummer joined in 1997. The centerpiece of the Inferno drum set is a Pearl Reference 14×5" Steel snare, tuned for maximum cutting crack to penetrate the band's dense wall of down-tuned guitars during blast beats exceeding 200 BPM. A Czarcie Kopyto (Devil's Hoof) double pedal — Polish-engineered direct-drive mechanism — drives the double kick with the speed and precision Inferno's relentless blast passages demand.
+
+Paiste RUDE Series cymbals define the sonic character of the Inferno drum kit: 14" Hi-Hats for rapid closed articulation; a 14" Blast China for immediate accent attacks; 18" and 19" Crashes for explosive dynamic punctuation; a 24" Mega Power Ride cutting through Behemoth's full stage volume; and an 18" China for riff-transition brutality. Vic Firth 5B sticks complete the rig. Inferno has been Behemoth's drummer since 1997, anchoring landmark albums including [Demigod (2004)](/articles/demigod-drum-setup), [The Satanist (2014)](/articles/the-satanist-drum-setup), and [I Loved You at Your Darkest (2018)](/articles/i-loved-you-at-your-darkest-drum-setup). His Pearl Masterworks drum set is built for the precision and endurance extreme metal's most celebrated live act demands across world tours.
 
 ## Biography
 

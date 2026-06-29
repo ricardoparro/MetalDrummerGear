@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Meinl"
 profile_url: "https://metalforge.io/drummer/matt-greiner"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-06-29"
 ---
 
 # Matt Greiner — Drum Kit & Gear Setup
@@ -25,6 +25,12 @@ Matt Greiner's drum kit and gear setup. Matt Greiner is a professional metal dru
 | Drum kit | Meinl Drum Festival Kit / Greiner & Kilmer Custom |
 | Signature snare | Greiner & Kilmer Custom 14x6.5" Maple |
 | Sticks | Vic Firth American Classic 5A |
+
+## Kit Overview
+
+Matt Greiner plays a Greiner & Kilmer Custom drum kit — the drum set he co-designed with fellow drummer Kaleb Kilmer after co-founding their drum company in 2012, engineered to the specifications August Burns Red's technically demanding metalcore shows require. As a Grammy-nominated recording artist and one of metalcore's most studied drummers, Greiner has assembled one of the genre's most recognizable drum sets, balancing blazing double bass speed with nuanced dynamics and an elaborate fill vocabulary.
+
+The cornerstone of the Matt Greiner drum kit is his Greiner & Kilmer Custom 14×6.5" Maple snare drum, delivering warm yet cutting crack that anchors August Burns Red's arrangements on albums including [Messengers](/articles/messengers-drum-setup), [Constellations](/articles/constellations-drum-setup), and [Phantom Anthem](/articles/abr-phantom-anthem-drum-setup). The Matt Greiner drum set features Meinl Byzance Series cymbals: 15" Dual Hi-Hats for controlled articulation; 18" and 19" Dual Crashes for explosive dynamic accents; a 21" Transition Ride for rhythmic clarity; an 18" Extra Dry China for aggressive punctuation; and 10" and 12" Splashes for quick accents. A DW 9000 Series double pedal drives the blazing double bass lines beneath August Burns Red's dense rhythmic layers. Vic Firth American Classic 5A sticks and Evans drumheads complete the rig.
 
 ## Biography
 

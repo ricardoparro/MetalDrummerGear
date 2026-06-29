@@ -61,20 +61,23 @@ packages/
 .roadie/        # Roadie agent configuration
 ```
 
-## Newsletter Email Configuration
+## Newsletter Subscription Notifications
 
-The newsletter subscription sends welcome emails via [Resend](https://resend.com). To enable:
+The newsletter form does not use a third-party email provider. Instead, each new
+subscription pings a **Telegram bot** with the subscriber's email so the owner
+sees who signed up in real time (the same bot the daily digest and watchdog use).
 
-1. Create a Resend account at https://resend.com
-2. Add your domain or use the free tier with `onboarding@resend.dev`
-3. Set environment variables in Vercel:
+Set both env vars in **Vercel → Settings → Environment Variables** (the
+serverless function runs on Vercel and can't read GitHub Actions secrets):
 
 ```bash
-RESEND_API_KEY=re_xxxxx          # Your Resend API key
-RESEND_FROM_EMAIL=MetalForge <noreply@metalforge.io>  # Optional, defaults shown
+TELEGRAM_BOT_TOKEN=123456789:xxxxx   # the bot token
+TELEGRAM_CHAT_ID=123456789           # the chat/owner id to notify
 ```
 
-Without `RESEND_API_KEY`, subscriptions still work but no welcome email is sent.
+Without these, subscriptions still succeed and are stored/logged, but no Telegram
+ping is sent (the API logs a warning). Subscribers are persisted in Vercel KV when
+`KV_REST_API_URL`/`KV_REST_API_TOKEN` are set, otherwise logged for manual pickup.
 
 ## Documentation
 

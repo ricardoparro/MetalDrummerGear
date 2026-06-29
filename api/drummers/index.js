@@ -3313,9 +3313,7 @@ const drummers = [
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
       { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
-    videos: [
-      { title: 'Opeth - Drum Performance', youtubeId: 'YJKPQ6Ld9rw', year: 2014 }
-    ]
+    videos: []
   }
 ];
 

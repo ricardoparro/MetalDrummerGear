@@ -1,5 +1,302 @@
 // Album drum-setup articles — Paul Bostaph. Auto-split from the former monolith.
 export const articles = {
+  "diabolus-in-musica-drum-setup": {
+    "slug": "diabolus-in-musica-drum-setup",
+    "albumTitle": "Diabolus in Musica",
+    "artist": "Slayer",
+    "drummer": "Paul Bostaph",
+    "drummerId": 16,
+    "relatedDrummerSlug": "paul-bostaph",
+    "year": 1998,
+    "genre": "Thrash Metal",
+    "label": "American Recordings",
+    "studio": "The Hook, Richmond, CA",
+    "producer": "Toby Wright",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-29",
+    "dateModified": "2026-06-29",
+    "author": "MetalForge Editorial",
+    "title": "Diabolus in Musica Drum Setup: Slayer's 1998 Drop-Tuned Album Gear Breakdown",
+    "description": "Released in 1998, Slayer's Diabolus in Musica sparked controversy with its D-flat tuning and groove metal direction. Complete gear breakdown of Paul Bostaph's DW Collector's Series kit, Zildjian A Custom cymbals, and the Toby Wright production at The Hook, Richmond, CA.",
+    "seoKeywords": [
+      "diabolus in musica drums",
+      "slayer 1998 drum setup",
+      "diabolus in musica gear",
+      "paul bostaph diabolus kit",
+      "toby wright slayer production",
+      "dw collectors series slayer 1998",
+      "slayer db tuning drums",
+      "bitter peace drums",
+      "slayer most underrated album"
+    ],
+    "ogImage": "/images/albums/diabolus-in-musica-drums.webp",
+    "intro": {
+      "title": "The Album That Split Slayer's Fanbase",
+      "content": "Released on June 9, 1998, Slayer's Diabolus in Musica arrived into a metal landscape that was actively hostile to it. Grunge had faded, nu-metal was ascendant, and the traditional thrash metal that Slayer had helped define was struggling for commercial relevance. The band's response was to do something that outraged a significant portion of their fanbase: they dropped the guitar tuning to D-flat — two and a half steps below standard — and embraced a denser, more groove-oriented production aesthetic than anything in their catalog. The reaction from long-time fans was immediate and often brutal. Many heard it as Slayer chasing Pantera and Korn's commercial success at the expense of their identity.\n\nDiabolus in Musica is Latin for 'the devil in music,' a phrase drawn from the historical characterization of the tritone interval — the augmented fourth or diminished fifth — as diabolus in musica in medieval music theory. The title was a deliberate statement: this is heavy, this is dark, and if you call it the devil's work, that's almost the point. But the name could not fully deflect the criticism. Fans and critics who had grown up on Reign in Blood and Seasons in the Abyss felt that the groove metal influence represented a capitulation to trends.\n\nFrom a drummer's perspective, Diabolus in Musica documents Paul Bostaph in a gear configuration that is distinct from both the earlier Slayer sound and the kit he would use on God Hates Us All three years later. Bostaph recorded the album using DW Collector's Series shells — the American-made all-maple premium line that DW built their reputation on — paired with Zildjian A Custom cymbals, a brighter, more controlled sound than the Paiste 2002 and RUDE cymbals associated with the classic Slayer records. The combination gave the album its crisp, clearly defined drum presence within Toby Wright's dense, layered production.\n\nToby Wright — known for his engineering and production work on Alice in Chains' Dirt (1992) and Mad Season's Above (1995) — recorded the Diabolus sessions at The Hook in Richmond, California. Wright's production aesthetic was different from Rick Rubin's classic approach: where Rubin stripped the sound to its essential elements, Wright layered the frequency spectrum and pushed the low-end forward, creating the dense, crushing weight that characterizes Diabolus in Musica's overall sound. The result was the most modern-sounding Slayer record to that point.\n\nCommercially, Diabolus in Musica reached #31 on the Billboard 200 — the highest US chart position Slayer had achieved to that point, subsequently beaten only by God Hates Us All's #28 in 2001. The album was certified Gold by the RIAA. The commercial performance validated the production direction even as critical and fan reception remained divided. More than two decades later, Diabolus in Musica is regularly cited as Slayer's most underrated album — a record that benefited from reassessment once the nu-metal era that originally triggered the controversy had itself become a historical artifact. The D-flat tuning that seemed like pandering in 1998 sounds, in retrospect, like a band following their own instincts about heaviness rather than chasing a trend.\n\nThis article documents the drum gear on Diabolus in Musica, the Toby Wright production at The Hook, and the place this record holds as the bridge between Divine Intervention (1994) and God Hates Us All (2001) in the Bostaph-era Slayer catalog.",
+      "keyPoints": [
+        "Released June 9, 1998 — dropped to D-flat tuning, sparking 'selling out' accusations",
+        "Recorded at The Hook, Richmond, CA with producer Toby Wright (Alice in Chains' Dirt engineer)",
+        "DW Collector's Series all-maple shells with Zildjian A Custom cymbals",
+        "Peaked at #31 on the Billboard 200 — Slayer's highest US chart position at the time",
+        "Bridge album between Divine Intervention (1994) and God Hates Us All (2001)",
+        "Paul Bostaph's second studio album with Slayer — distinct gear chapter from both neighboring records"
+      ]
+    },
+    "drumKit": {
+      "title": "The 1998 Slayer Kit: DW Collector's Series Maple",
+      "brand": "DW",
+      "model": "DW Collector's Series Maple",
+      "finish": "Lacquer Black",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 14\" Floor Tom",
+          "18\" x 16\" Floor Tom"
+        ],
+        "shells": "All-maple shells with DW's True Pitch tuning system"
+      },
+      "description": "The drum kit on Diabolus in Musica was built around DW's Collector's Series Maple — the American-made premium shell series that DW established as their flagship line through the 1990s. The Collector's Series used select all-maple shells with DW's proprietary construction methods, delivering a warm, resonant tone with a pronounced fundamental that translated well through Toby Wright's layered production approach.\n\nThe double bass configuration of two 22x18 kicks maintained the Slayer tradition of twin kick drums — a visual and sonic signature present throughout the band's history regardless of who was behind the kit. The 18-inch shell depth gave the bass drums a sustained, resonant low-end that suited the D-flat tuning context of the album. When guitars are tuned that low, the kick drums need to sit in the same low-frequency zone, and the deeper DW shells delivered that weight without muddying the mix.\n\nThe tom configuration followed Bostaph's standard four-piece approach: two rack toms (10 and 12 inches) and two floor toms (16 and 18 inches). The all-maple shells responded evenly across the frequency range, with clear attack and controlled sustain suited to Wright's close-mic studio approach. The Lacquer Black finish maintained Slayer's dark visual identity — a constant across every era of the band's setup.",
+      "notes": [
+        "DW Collector's Series Maple — American-made premium all-maple shell series",
+        "Double 22x18 bass drum configuration maintains the classic Slayer twin-kick visual",
+        "18-inch floor tom weight suited to the album's D-flat tuning context",
+        "True Pitch tuning system for consistent, repeatable head tension across sessions"
+      ],
+      "estimatedValue": "$3,500-5,000 (1998)"
+    },
+    "snare": {
+      "title": "The 1998 Crack: 14x6.5 Steel",
+      "brand": "DW",
+      "model": "DW Collector's Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "The snare drum on Diabolus in Musica was a 14x6.5 DW Collector's steel-shell — the industry-standard dimensions for thrash and heavy metal recordings of the era. Steel shell construction gives the snare the cutting, metallic crack that Slayer's material has always required: a sound that projects above dense guitar layers and registers clearly even in the groove-heavier, mid-paced sections that characterize Diabolus.\n\nToby Wright placed the snare front and center in the Diabolus mix. The D-flat guitar tuning occupies a lower frequency range than standard-tuned metal, creating a natural gap in the midrange where the steel snare's crack can sit without competing for space. The result is a snare presence that, despite the album's overall denser and heavier production, maintains clarity and definition throughout.\n\nThe 6.5-inch depth provided enough low-midrange body to balance the bright crack of the steel shell. Bostaph tuned it to medium-high tension — consistent with his approach throughout his Slayer tenure: maximum cut, controlled sustain, enough brightness to carry through heavy production.",
+      "tuningSetting": "Medium-high tension for cutting attack with steel brightness",
+      "heads": "Remo Emperor Coated (batter)",
+      "estimatedValue": "$350-550 (1998)"
+    },
+    "cymbals": {
+      "title": "Zildjian A Custom: A New Chapter in the Slayer Cymbal Story",
+      "brand": "Zildjian",
+      "series": "Zildjian A Custom",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian A Custom 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Bright, cutting A Custom chick — distinct from the Paiste 2002 sound of classic Slayer records"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 16\" Crash",
+          "position": "Left of hi-hats",
+          "notes": "Crisp, fast-opening crash for quick accent work"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 18\" Crash",
+          "position": "Right of toms",
+          "notes": "Larger crash for sustained riff transitions"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian A Custom 20\" Ride",
+          "position": "Far right",
+          "notes": "Defined bell, clear stick articulation suited to mid-paced groove sections"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A Custom 18\" China",
+          "position": "Above floor tom",
+          "notes": "Trashy accent — a Slayer constant across every drummer era"
+        }
+      ],
+      "description": "The Zildjian A Custom setup on Diabolus in Musica represents a departure from the Paiste-centric sound of earlier Slayer records and the Paiste 2002/Signature setup Bostaph would use on God Hates Us All in 2001. The A Custom line — introduced by Zildjian in the early 1990s — was designed for a brighter, cleaner sound than the A series, with more shimmer and definition in the upper frequencies. The result on Diabolus is a cymbal character that sits differently in Toby Wright's dense production than Paiste's more aggressive bronze character would have.\n\nThe A Custom 14-inch hi-hats delivered a cleaner, more musical chick than the Paiste Sound Edge hats of the classic records. For the slower, groove-oriented sections of Diabolus — particularly the chugging mid-paced passages in tracks like 'Stain of Mind' and 'Love to Hate' — the A Custom's cleaner attack suited the rhythmic context better than a heavier Paiste would have.\n\nThe A Custom 16 and 18-inch crashes provided quick, bright accents for the riff transitions. The lighter weight of the A Custom line compared to Paiste 2002 gives them a faster response — important for the sudden accent work in Slayer's writing, where a crash needs to land exactly on a riff hit and not blur into the next beat. The 20-inch A Custom Ride gave the album its ride bell character: defined, with a clear fundamental that cuts through heavy guitar frequencies without requiring excess force. The China above the floor tom maintained the trashy exotic accent that has been a Slayer constant since Show No Mercy.",
+      "estimatedValue": "$1,200-1,800 (1998)"
+    },
+    "hardware": {
+      "title": "DW 5000 Series: The Pedal Foundation",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "DW",
+          "model": "DW 5002 Double Bass Drum Pedal (x2)",
+          "notes": "DW's flagship double pedal of the era — smooth cam action suited to mid-tempo groove and blast sections alike",
+          "description": "The DW 5002 was the standard professional double pedal during the mid-to-late 1990s. Its smooth cam action and reliable construction made it a common choice for drummers playing both commercial rock and heavy metal during the period. For Bostaph on Diabolus, the 5002 delivered the consistent double-bass floor needed for the album's heavier groove sections without the mechanical resistance that slower cam profiles introduce at speed."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "DW",
+          "model": "DW 5500 Hi-Hat Stand",
+          "notes": "DW's mid-line hi-hat stand — stable and reliable for studio tracking"
+        },
+        {
+          "type": "Throne",
+          "brand": "DW",
+          "model": "DW 9100 Round Rider Throne",
+          "notes": "Contoured seat for extended studio session comfort"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater Power 5B",
+          "notes": "Heavier 5B profile for sustained thrash drumming power and durability"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter) with Remo Ambassador (resonant)",
+        "toms": "Remo Emperor Clear (batter)",
+        "snare": "Remo Emperor Coated (batter)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Toby Wright and The Hook, Richmond",
+      "content": "Diabolus in Musica was tracked at The Hook in Richmond, California — a Bay Area studio with strong credentials in the 1990s heavy rock and alternative scene. Toby Wright, who had built his reputation engineering and producing with Alice in Chains' Dirt (1992) and Mad Season's Above (1995), brought a production philosophy to the Diabolus sessions that was distinctly different from the Rick Rubin minimalism of the 1980s Slayer records.\n\n**Kit Tuning:**\nThe DW Collector's Series shells were tuned to medium tension — not the excessively tight drum sound of some thrash records, and not the dry, dead sound of modern metal production. Wright wanted the kit to speak naturally within the D-flat guitar context, letting the bass drums and floor toms occupy the same low-frequency zone as the guitars. The result is a drum sound that feels heavy in a physical, dense way rather than the forward-attacking character of classic Rubin-era Slayer production.\n\n**Double Bass Approach:**\nEach 22x18 bass drum was recorded with close-mic and port-mic technique. Wright's preference for bottom-end weight in the mix meant the kick drums were dialed with a slight low-end emphasis — the sustained note of the bass drums blended with the D-flat guitar fundamentals to create the album's characteristic dense low-end mass.\n\n**Cymbal Recording:**\nThe Zildjian A Custom cymbals were recorded with an overhead pair supplemented by close-mics on key pieces. The A Custom's inherent brightness allowed Wright to pull back slightly on the top-end in the mix and let the cymbals sit in the mid-frequency zone rather than competing with the guitar attack — a subtle but audible difference from the Paiste approach on earlier Slayer records.\n\n**Snare Sound:**\nThe steel DW snare was tracked with Shure SM57 top and bottom, standard for the era. Wright applied moderate compression — less than the heavily-processed snare sound of the God Hates Us All recording a few years later — giving the Diabolus snare a more natural crack with slightly longer sustain than the tightly-gated approach common on earlier Slayer records.",
+      "keyTechniques": [
+        "Tracked at The Hook, Richmond, CA — Bay Area studio with strong 1990s heavy rock credentials",
+        "Toby Wright's dense, layered production — distinct from Rick Rubin's stripped-down Slayer aesthetic",
+        "Medium kit tuning to blend with D-flat guitar fundamentals in the low end",
+        "Two-mic-per-kick: close-mic attack + port resonance for each bass drum",
+        "A Custom cymbals mixed slightly back to avoid competing with dense guitar layers"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Bitter Peace",
+        "bpm": "160",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener — Bostaph's driving thrash feel establishes the slightly lower tempo approach of the record",
+          "Double-bass patterns under the verse riffs showcase the DW kit's sustained low-end",
+          "Snare crack cuts through the dense guitar layers in the chorus",
+          "One of the two lead tracks most cited when discussing Diabolus in Musica"
+        ],
+        "gearNotes": "DW Collector's double bass drives the verse riff. Zildjian A Custom crash accents the chorus hits."
+      },
+      {
+        "track": "Stain of Mind",
+        "bpm": "115",
+        "signature": "4/4",
+        "highlights": [
+          "The most groove-heavy track on the album — the one most cited as nu-metal influence",
+          "Slow, chugging pattern required Bostaph to operate at below-thrash tempos",
+          "Hi-hat work drives the groove in the verse — A Custom's clean chick defines the rhythmic feel",
+          "More than any other track, sparked the 'selling out' debate in 1998"
+        ],
+        "gearNotes": "A Custom 14\" hi-hats drive the slow groove. Floor tom weight audible in the breakdown section."
+      },
+      {
+        "track": "Scrum",
+        "bpm": "210",
+        "signature": "4/4",
+        "highlights": [
+          "One of the fastest tracks on the album — a reminder that Slayer had not abandoned thrash entirely",
+          "Sustained double-bass at high tempo demonstrates the DW 5002's consistency under fast playing",
+          "Snare placement and blast beat approach closest to classic Slayer thrash on the album",
+          "Contrast with 'Stain of Mind' defines the album's dynamic range"
+        ],
+        "gearNotes": "DW 5002 double pedal at 210 BPM. Steel snare in classic Slayer thrash mode."
+      },
+      {
+        "track": "In the Name of God",
+        "bpm": "145",
+        "signature": "4/4",
+        "highlights": [
+          "Album closer — one of the two tracks most commonly cited when discussing Diabolus in Musica",
+          "Mid-paced thrash with the album's most pronounced china cymbal accent work",
+          "Tom work in the bridge showcases the DW Collector's maple resonance",
+          "Extended outro section demonstrates Bostaph's ability to maintain intensity at moderate tempos"
+        ],
+        "gearNotes": "Zildjian A Custom China accent prominent. A Custom 20\" Ride bell pattern drives the outro."
+      }
+    ],
+    "evolution": {
+      "title": "Between Rubin and Hyde: The 1998 Slayer Sound",
+      "content": "Diabolus in Musica occupies a specific and often under-documented position in the Slayer chronology: the album between the Rick Rubin production era and Matt Hyde's God Hates Us All approach. Both the gear and the production philosophy on Diabolus represent a distinct chapter — not the dry, stripped-down Rubin aesthetic, and not the heavier, compressed Hyde production that followed three years later.\n\n**The Production Shift:**\nRick Rubin's approach to Slayer prized minimal processing and close-to-live capture. Toby Wright's approach on Diabolus was explicitly more produced: more layering, more low-end weight, more modern in its use of studio space. The kit sounds fuller and more present than the classic Slayer records.\n\n**The Gear Chapter:**\nThe DW Collector's Series and Zildjian A Custom combination represents a specific and relatively short chapter in Bostaph's gear history. By God Hates Us All (2001), he had moved to Tama Starclassic Maple shells and back to Paiste cymbals. The Diabolus configuration is the only major Slayer studio album recorded with this DW/Zildjian combination, making it a unique gear document in the band's discography.\n\n**The Tuning Context:**\nThe D-flat tuning that defined the album's controversy also influenced the drum setup choices. Lower-tuned guitars mean the kick drums and floor toms need to compete for the same low-frequency space. The DW Collector's all-maple shells and the 22x18 kick depth were suited to this context — maple tends to have a more focused fundamental than birch, which prevented the bass drums from becoming muddy against the downtuned guitars.\n\n**The Reassessment:**\nIn the years since 1998, Diabolus in Musica has undergone significant critical reassessment. Many thrash fans who dismissed it at the time have returned to it and found genuine quality. The production — once considered overly commercial — now sounds like a logical evolution of a band refusing to repeat themselves. The drum work in particular has been cited for its variety: the contrast between groove-heavy tracks like 'Stain of Mind' and the more traditional thrash approach of 'Scrum' demonstrates a drummer comfortable across a wider tempo and dynamic range than the classic Slayer formula demanded.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Artstar II (Lombardo era, Reign in Blood)",
+          "now": "DW Collector's Series Maple (Bostaph, Diabolus 1998)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste 2002 / RUDE (classic Slayer era)",
+          "now": "Zildjian A Custom (Diabolus 1998)"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama Iron Cobra (classic Slayer era)",
+          "now": "DW 5002 Double Pedal (Diabolus 1998)"
+        },
+        {
+          "category": "Studio",
+          "then": "Hollywood Sound Recorders, Rick Rubin (Divine Intervention 1994)",
+          "now": "The Hook, Richmond CA, Toby Wright (Diabolus 1998)"
+        },
+        {
+          "category": "Tuning",
+          "then": "Standard E (all previous Slayer studio albums)",
+          "now": "D-flat — 2.5 steps below standard (Diabolus 1998)"
+        }
+      ]
+    },
+    "relatedAlbums": [
+      "god-hates-us-all-drum-setup"
+    ],
+    "relatedDrummers": [
+      16,
+      4
+    ],
+    "relatedArticles": [
+      "whats-in-paul-bostaphs-kit",
+      "thrash-metal-drummers"
+    ],
+    "relatedLicks": [
+      {
+        "drummerSlug": "dave-lombardo",
+        "lickSlug": "dave-lombardo-angel-of-death-chaos",
+        "label": "Watch Dave Lombardo's 'Angel of Death' chaos breakdown"
+      },
+      {
+        "drummerSlug": "dave-lombardo",
+        "lickSlug": "dave-lombardo-raining-blood-double-bass",
+        "label": "Watch Dave Lombardo's 'Raining Blood' double bass breakdown"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Slayer's Diabolus in Musica?",
+        "answer": "Diabolus in Musica is Slayer's seventh studio album, released on June 9, 1998 by American Recordings. The album is Slayer's most controversial record, notable for its decision to drop the guitar tuning to D-flat — two and a half steps below standard — and incorporate a more groove-oriented, mid-paced approach than the classic thrash template of Reign in Blood and Seasons in the Abyss. Produced by Toby Wright at The Hook in Richmond, California, the album was accused at the time of chasing the commercial success of nu-metal bands. Subsequent critical reassessment has recognized it as a legitimate evolution of Slayer's sound, and it is frequently cited as the band's most underrated album."
+      },
+      {
+        "question": "Who played drums on Diabolus in Musica?",
+        "answer": "Paul Bostaph played drums on Diabolus in Musica (1998). Bostaph was in his first tenure with Slayer (1992-2001), which followed Dave Lombardo's departure after Seasons in the Abyss (1990). Bostaph recorded four studio albums with Slayer during this period: Divine Intervention (1994), Undisputed Attitude (1996), Diabolus in Musica (1998), and God Hates Us All (2001). Dave Lombardo did not drum on Diabolus in Musica — Lombardo would not return to Slayer until Christ Illusion in 2006."
+      },
+      {
+        "question": "What tuning does Slayer use on Diabolus in Musica?",
+        "answer": "Slayer tuned down to D-flat (Db) on Diabolus in Musica — two and a half steps below standard E tuning. This was the most controversial production decision on the album: all previous Slayer studio albums had been recorded in standard tuning. The D-flat tuning gave the album its dense, heavy low-end character but also contributed to the perception that Slayer was following nu-metal and groove metal trends. The tuning change did not affect the drums directly, but it influenced the kick drum and floor tom frequency balance in the mix — the DW Collector's Series deeper shells were well-suited to occupying the same low-frequency range as the downtuned guitars."
+      },
+      {
+        "question": "Who produced Diabolus in Musica?",
+        "answer": "Diabolus in Musica was produced by Toby Wright, known for his engineering work on Alice in Chains' Dirt (1992) and production on Mad Season's Above (1995). The album was recorded at The Hook studio in Richmond, California. Wright's approach differed significantly from Rick Rubin's classic stripped-down Slayer aesthetic — the Diabolus production is denser, with more low-end emphasis and a more layered sound that reflected late-1990s studio trends. God Hates Us All (2001) and Repentless (2015) used different producers."
+      },
+      {
+        "question": "How did Diabolus in Musica chart commercially?",
+        "answer": "Diabolus in Musica debuted and peaked at #31 on the Billboard 200 — Slayer's highest US chart position at the time of release, surpassing all previous Slayer albums. The album was certified Gold by the RIAA. Despite the mixed critical and fan reception at release, the commercial performance demonstrated that the controversial D-flat tuning and groove metal direction did not alienate Slayer's core audience. God Hates Us All (2001) would later improve on this, reaching #28 on the Billboard 200."
+      }
+    ],
+    "conclusion": {
+      "title": "The Arc-Bridge Album",
+      "content": "Diabolus in Musica is not the most beloved album in the Slayer catalog, but it is one of the most important for understanding how the band navigated the difficult territory between their 1980s peak and their late-career comeback. The DW Collector's Series kit, the Zildjian A Custom cymbals, the Toby Wright production at The Hook — these gear and production choices represent a snapshot of Paul Bostaph at a specific moment in his first Slayer tenure, using a setup that would not reappear on subsequent Slayer records.\n\nThe controversy over the D-flat tuning and the groove metal influence has, over time, settled into a more nuanced view. The album's heaviness was never in question — even critics who disliked it acknowledged that Slayer had not gone soft. What they objected to was the pace and the influence. Both of those criticisms look different from a distance. Mid-paced thrash metal has always been part of the genre's vocabulary, and the nu-metal influence that seemed so egregious in 1998 was more superficial than it appeared at the time.\n\nFor drummers studying the Slayer catalog, Diabolus in Musica fills the arc gap between Divine Intervention (1994) and God Hates Us All (2001). It documents Bostaph at a different gear configuration from either neighboring album — DW instead of Tama, Zildjian instead of Paiste — and a different production context entirely from either Rubin's classic approach or Matt Hyde's modern early-2000s aesthetic. The drum work on the album deserves to be part of the ongoing reassessment: Bostaph's ability to hold the groove at slower tempos while still delivering thrash aggression when the song demands it demonstrates a drummer with more range than his 'precision metronome' reputation sometimes suggests."
+    }
+  },
   "god-hates-us-all-drum-setup": {
     "slug": "god-hates-us-all-drum-setup",
     "albumTitle": "God Hates Us All",

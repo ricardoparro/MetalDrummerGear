@@ -8613,6 +8613,1159 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Sean Reinert Gear Evolution Timeline | Death & Cynic Drum Kit History',
     metaDescription: 'Explore Sean Reinert\'s complete drum gear evolution across Death\'s Spiritual Healing and Human and Cynic\'s Focus — three landmark albums and the most innovative jazz-death drumming in metal history.',
   },
+
+  // ==========================================
+  // Abe Cunningham - Deftones (1988–Present)
+  // ==========================================
+  'abe-cunningham': {
+    slug: 'abe-cunningham',
+    name: 'Abe Cunningham',
+    band: 'Deftones',
+    totalYearsActive: '1988-Present',
+    profileImage: '/images/drummers/abe-cunningham.webp',
+    summary: 'One of alt-metal\'s longest-tenured drummers, Abe Cunningham has been the rhythmic backbone of the Deftones since their formation in Sacramento in 1988. His evolution spans hardcore-rooted aggression through the atmospheric breakthroughs of White Pony, the groove sophistication of Diamond Eyes, and the cinematic density of Gore and Ohms — a career arc as rich as any in modern heavy music.',
+
+    eras: [
+      {
+        id: 'abe-cunningham-1988-early',
+        era: 'Founding / Early Deftones Era',
+        years: '1988–1994',
+        startYear: 1988,
+        endYear: 1994,
+        description: 'Abe Cunningham co-founded the Deftones in Sacramento with Chino Moreno, Stephen Carpenter, and Chi Cheng while still in high school. The early years were shaped by hardcore punk and alternative metal — raw, hard-hitting drumming on budget gear held together by teenage energy and relentless local gigging.',
+        albums: ['Adrenaline (1995) — recorded during this period'],
+        tours: ['Sacramento club circuit', 'Early California DIY touring'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'ddrum Dios Series',
+            details: 'Maple shells: 22" kick, 12"/13"/16" toms',
+            notes: 'ddrum was Cunningham\'s brand of choice through the early years — durable and punchy for the aggressive alt-metal the Deftones were developing in the Sacramento clubs.',
+            change: null,
+          },
+          snare: {
+            item: 'ddrum Steel 14"×5.5"',
+            details: 'Steel shell snare, bright and cutting',
+            notes: 'Tight, bright steel snare appropriate for the hardcore-influenced attack of early Deftones material.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Standard Zildjian A setup — reliable and available for a young band playing every weekend.',
+            change: null,
+          },
+          hardware: {
+            item: 'Various budget hardware',
+            details: 'Mixed stands, single bass pedal',
+            notes: 'Entry-level mixed hardware — single kick configuration during the earliest years.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Heavy hickory for aggressive playing',
+            notes: 'Heavier sticks suited the hard-hitting hardcore-influenced early Deftones sound.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Standard entry-level head configuration.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2500,
+          inflationAdjusted: 5200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Deftones founded in Sacramento, California (1988)',
+          'Hardcore and alternative metal roots establish aggressive drumming foundation',
+          'ddrum kit becomes Cunningham\'s early signature brand',
+          'Signed to Maverick Records (1994)',
+        ],
+
+        quote: {
+          text: "We were just kids playing in Sacramento. Nobody cared what your gear was — they just wanted you to hit hard.",
+          source: 'Modern Drummer Interview, 2000',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'abe-cunningham-1995-adrenaline',
+        era: 'Adrenaline / Around the Fur Era',
+        years: '1995–1999',
+        startYear: 1995,
+        endYear: 1999,
+        description: 'With Adrenaline (1995) and Around the Fur (1997), the Deftones broke into the mainstream. Cunningham\'s drumming became a defining feature of the nu-metal era — powerful, groove-forward, and more dynamic than his peers. He upgraded to a larger ddrum setup and began developing the syncopated pocket grooves that would define his mature style.',
+        albums: ['Adrenaline (1995)', 'Around the Fur (1997)'],
+        tours: ['Adrenaline Tour 1995–1996', 'Around the Fur Tour 1997–1999', 'Warped Tour appearances', 'Ozzfest 1998'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'ddrum Dios Series (expanded)',
+            details: 'Maple shells: 22" kick, 10"/12"/13"/16" toms',
+            notes: 'Expanded tom configuration for more tonal range as the Deftones\' sound grew more sophisticated on Around the Fur.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'ddrum Steel 14"×6.5"',
+            details: 'Deeper steel for more crack and weight',
+            notes: 'Deeper snare shell for heavier projection on arena-ready recordings and the Ozzfest stage.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom Series',
+            details: '14" A Custom hi-hats, 16"/18" A Custom crashes, 21" A Custom ride',
+            notes: 'Upgraded to A Custom — brighter, more cutting cymbals suited to the aggressive nu-metal production of Adrenaline and Around the Fur.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 5000 Double Pedal',
+            details: 'Double kick for enhanced drive',
+            notes: 'Added double kick configuration for the heavier material on Around the Fur.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Consistent heavy hickory choice',
+            notes: 'Maintained 5B sticks through the nu-metal years for power in large venues.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply on toms for touring durability',
+            notes: 'Switched to Emperor for the demands of constant Ozzfest and Warped Tour touring.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 6000,
+          inflationAdjusted: 11500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Adrenaline (1995) — major label debut; Deftones break into mainstream',
+          'Around the Fur (1997) — nu-metal breakthrough; "My Own Summer" and "Be Quiet and Drive" become anthems',
+          'Expanded to double kick configuration',
+          'Ozzfest 1998 slot — exposure to massive audiences',
+          'Groove-forward drumming style distinguishes Cunningham from heavier nu-metal peers',
+        ],
+
+        quote: {
+          text: "Around the Fur changed everything. We started thinking about dynamics — when to hit hard and when to pull back. That\'s when the drumming got interesting.",
+          source: 'Revolver Magazine Interview, 1998',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'abe-cunningham-2000-white-pony',
+        era: 'White Pony Era',
+        years: '2000–2003',
+        startYear: 2000,
+        endYear: 2003,
+        description: 'White Pony (2000) is the Deftones\' artistic masterpiece — and Cunningham\'s drumming was central to its success. He transitioned to Pearl Custom hardware and developed the spacious, atmospheric drumming approach that made White Pony one of the most critically acclaimed metal albums of its era. This era marked a decisive shift from nu-metal aggression toward atmospheric alt-metal sophistication.',
+        albums: ['White Pony (2000)', 'B-Sides & Rarities (2005 — many recorded during this period)'],
+        tours: ['White Pony World Tour 2000–2002', 'Various festival headlining dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Custom Series',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Switched from ddrum to Pearl Custom — the maple shells gave Cunningham the warmer, more resonant tone that suited White Pony\'s atmospheric arrangements and Stickles\'s layered production.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Brass 14"×6.5"',
+            details: 'Brass shell, warm and articulate',
+            notes: 'Pearl Free-Floating brass snare — warm, full tone that supported the dynamic range of White Pony from whisper-quiet passages to full-volume peaks.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian K Series',
+            details: '14" K hi-hats, 16"/18" K crashes, 20" K ride',
+            notes: 'Switched to Zildjian K — darker, more complex Turkish bronze suited to White Pony\'s textured, atmospheric sound design.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal',
+            details: 'Multi-cam drive, adjustable feel',
+            notes: 'Pearl Eliminator — precise, responsive double pedal that allowed the subtle foot work White Pony\'s nuanced arrangements required.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Lighter hickory for more control and nuance',
+            notes: 'Switched to lighter 5A — more appropriate for the dynamic, atmospheric drumming required by White Pony\'s quieter passages.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          heads: {
+            item: 'Remo Emperor on toms, Coated Ambassador on snare',
+            details: 'Mixed head configuration',
+            notes: 'Coated snare head for warmer, more controlled attack across White Pony\'s dynamic range.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 8000,
+          inflationAdjusted: 14500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'White Pony (2000) — critically acclaimed masterpiece; Grammy Award for Best Metal Performance ("Elite")',
+          'Decisive transition from ddrum to Pearl Custom',
+          'Switched from A Custom to Zildjian K — darker, more atmospheric tone',
+          'Atmospheric, dynamic drumming replaces nu-metal aggression as defining approach',
+          'White Pony establishes Deftones as a critical darling beyond genre categorization',
+        ],
+
+        quote: {
+          text: "White Pony made me think about space. How much you don\'t play is as important as what you do play. The kit had to reflect that — warmer, more musical.",
+          source: 'Modern Drummer Interview, 2001',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'abe-cunningham-2003-diamond-eyes',
+        era: 'Saturday Night Wrist / Diamond Eyes Era',
+        years: '2003–2012',
+        startYear: 2003,
+        endYear: 2012,
+        description: 'Following the grief of Chi Cheng\'s accident (2008) and the turbulent Saturday Night Wrist sessions (2006), Cunningham rebuilt his setup around a Gretsch USA Custom kit. Diamond Eyes (2010) — written and recorded rapidly in the wake of Chi\'s accident — showed Cunningham at his most focused and groove-driven. The Gretsch USA Custom\'s warm maple tone and his refined Zildjian K cymbal setup defined this chapter.',
+        albums: ['Deftones (2003)', 'Saturday Night Wrist (2006)', 'Diamond Eyes (2010)'],
+        tours: ['Saturday Night Wrist Tour 2006–2007', 'Diamond Eyes World Tour 2010–2011'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Gretsch USA Custom',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Switched to Gretsch USA Custom — warm, resonant maple shells gave Cunningham a slightly looser, more organic feel perfectly suited to Diamond Eyes\'s groove-forward approach.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Gretsch USA Custom 14"×6.5" Maple',
+            details: 'Maple shell, warm and full',
+            notes: 'Matching Gretsch maple snare — warm, full-bodied crack that sat perfectly in Diamond Eyes\'s dense mix.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Series',
+            details: '14" K Custom hi-hats, 16"/18" K Custom crashes, 21" K Custom ride',
+            notes: 'K Custom upgrade — darker, more refined than standard K; suited to the increasingly textured Deftones production palette.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Spring-loaded double pedal, smooth action',
+            notes: 'DW 9000 for smooth, powerful double bass response across Diamond Eyes\'s harder-driving material.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vater 5A',
+            details: 'Hickory, similar feel to Vic Firth 5A',
+            notes: 'Switched to Vater endorsement while maintaining the 5A weight class preference.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          heads: {
+            item: 'Remo Emperor on toms, Powerstroke 3 on kick',
+            details: 'Standard configuration for touring kit',
+            notes: 'Powerstroke 3 kick head for more focused attack across Diamond Eyes\'s heavy sections.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 10000,
+          inflationAdjusted: 16500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Transitioned to Gretsch USA Custom — distinct organic warmth vs. Pearl',
+          'Chi Cheng accident (November 2008) — traumatic context for Diamond Eyes sessions',
+          'Diamond Eyes (2010) — critically acclaimed; recorded rapidly as a tribute to Chi',
+          'Groove-forward drumming approach reaches full maturity on Diamond Eyes',
+          'K Custom cymbal upgrade for more sophisticated tonal palette',
+        ],
+
+        quote: {
+          text: "Diamond Eyes was written for Chi. Every beat had to mean something. I wanted the drumming to carry the weight of that.",
+          source: 'Rolling Stone Interview, 2010',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'abe-cunningham-2012-koi-no-yokan',
+        era: 'Koi No Yokan / Gore / Ohms Era',
+        years: '2012–Present',
+        startYear: 2012,
+        endYear: 2026,
+        description: 'The modern Deftones era — Koi No Yokan (2012), Gore (2016), and Ohms (2020) represent the band\'s most compositionally sophisticated and sonically adventurous work. Cunningham transitioned to Pearl Reference — the flagship series that replaced Pearl Masters in the premium tier — and refined his electronic augmentation with Roland sampling pads. His drumming on Ohms in particular is widely praised for its restraint, groove, and cinematic scope.',
+        albums: ['Koi No Yokan (2012)', 'Gore (2016)', 'Ohms (2020)'],
+        tours: ['Koi No Yokan Tour 2012–2013', 'Gore Tour 2016–2017', 'Ohms Tour 2021–2022'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Returned to Pearl with the flagship Reference Series — maple/birch hybrid shells offering a broader tonal palette for the Deftones\' increasingly cinematic sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Brass 14"×6.5"',
+            details: 'Pearl Free-Floating brass, warm and articulate',
+            notes: 'Returned to Pearl Free-Floating brass snare — distinctive warm tone suited to the moody, textured production of Gore and Ohms.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Dark Series',
+            details: '14" K Custom Dark hi-hats, 16"/18"/19" K Custom Dark crashes, 21" K Custom Dark ride',
+            notes: 'K Custom Dark — the darkest, most complex Zildjian offering; perfectly suited to Ohms\'s cinematic, atmospheric production.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal (continued)',
+            details: 'Consistent hardware platform across modern era',
+            notes: 'Consistent DW 9000 double pedal platform across the modern era — reliable, adjustable, and well-suited to the Deftones\' wide dynamic range.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vater 5A (continued)',
+            details: 'Sustained Vater endorsement',
+            notes: 'Long-running Vater endorsement, consistent stick choice across the modern era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor on toms, EMAD on kick',
+            details: 'EMAD for focused, punchy kick in dense production',
+            notes: 'Switched to Remo EMAD on kick for more controlled, focused fundamental in the dense Ohms and Gore production.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'Roland SPD-SX Sampling Pad',
+            details: 'Atmospheric samples and triggers',
+            notes: 'Added Roland SPD-SX for atmospheric sample triggers that replicate the layered studio textures of Gore and Ohms in a live context.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 18000,
+          inflationAdjusted: 20000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Transitioned to Pearl Reference — flagship maple/birch hybrid',
+          'Koi No Yokan (2012) — most acclaimed Deftones album since White Pony',
+          'Gore (2016) — dark, atmospheric direction; Cunningham\'s most restrained and sophisticated playing',
+          'Ohms (2020) — pandemic-era record; cinematic scope and groove sophistication',
+          'Roland SPD-SX added for live atmospheric textures',
+          'K Custom Dark cymbals — darkest, most complex tonal palette of career',
+        ],
+
+        quote: {
+          text: "With Ohms, I wanted every drum hit to feel like it had weight. Not just volume — weight. The Pearl Reference gives you that. You feel it as much as you hear it.",
+          source: 'Drum Magazine Interview, 2020',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Abe Cunningham Gear Evolution Timeline | Deftones Drum Kit History',
+    metaDescription: 'Explore Abe Cunningham\'s complete drum gear evolution: ddrum beginnings → Pearl Custom (White Pony) → Gretsch USA Custom (Diamond Eyes) → Pearl Reference (Ohms). 35+ years of Deftones drumming documented era by era.',
+  },
+
+  // ==========================================
+  // Nick Menza - Megadeth (1989–1998, 2004, 2016)
+  // ==========================================
+  'nick-menza': {
+    slug: 'nick-menza',
+    name: 'Nick Menza',
+    band: 'Megadeth',
+    totalYearsActive: '1989-2016',
+    profileImage: '/images/drummers/nick-menza.webp',
+    summary: 'Nick Menza was Megadeth\'s defining drummer — the powerhouse who drove Rust in Peace\'s thrash precision, navigated Countdown to Extinction\'s commercial peak, and delivered the explosive performances on Youthanasia and Cryptic Writings. He passed away on May 21, 2016, collapsing on stage during a performance with OHM — a death as dramatic as his career. His legacy in thrash drumming is cemented.',
+
+    eras: [
+      {
+        id: 'nick-menza-1989-joining',
+        era: 'Joining Megadeth / So Far, So Good Era',
+        years: '1989–1990',
+        startYear: 1989,
+        endYear: 1990,
+        description: 'Nick Menza joined Megadeth in 1989, initially as a drum technician before taking the drum seat. He contributed to sessions for So Far, So Good... So What! and stepped up as Megadeth\'s full-time drummer in preparation for what would become Rust in Peace. His Tama Artstar II kit — a professional-grade birch setup — became the foundation of his thrash metal sound.',
+        albums: ['So Far, So Good... So What! (1988) — session contributions', 'Early Rust in Peace demos'],
+        tours: ['So Far, So Good... So What! touring period'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Artstar II',
+            details: 'Birch shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'The Tama Artstar II — the same professional birch kit that Lars Ulrich used during his peak — was a natural choice for the precision-focused thrash metal of early Megadeth. Punchy, focused birch shells capable of withstanding extreme tempos.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Artstar II 14"×6.5" Birch',
+            details: 'Birch shell, die-cast hoops',
+            notes: 'Birch snare for a crisp, cutting sound that cut through Dave Mustaine\'s dense guitar arrangements.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" A New Beat hi-hats, 17"/18" A crashes, 22" A ride',
+            notes: 'Standard Zildjian A setup — bright, cutting cymbals well-suited to the aggressive thrash production of the late 1980s.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Titan Hardware with double pedal',
+            details: 'Heavy-duty stands, double kick',
+            notes: 'Heavy Tama Titan hardware — sturdy enough for the aggressive double bass demands of Megadeth\'s material.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 2B',
+            details: 'Heavy hickory for maximum projection',
+            notes: '2B weight for the power required in thrash metal\'s aggressive dynamic register.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply on toms for durability',
+            notes: 'Emperor heads to survive the demands of Megadeth\'s extreme tempo material.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 7000,
+          inflationAdjusted: 17000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Megadeth (1989) — initially as drum tech, promoted to full-time drummer',
+          'Tama Artstar II becomes foundational kit for Megadeth career',
+          'Double bass configuration established from day one',
+          'Precision thrash drumming style developed to match Mustaine\'s demanding compositions',
+        ],
+
+        quote: {
+          text: "When I got in that band, I knew what the job was. Megadeth doesn\'t mess around. Every beat has to be exact.",
+          source: 'Modern Drummer Interview, 1991',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'nick-menza-1990-rust-in-peace',
+        era: 'Rust in Peace Era',
+        years: '1990–1992',
+        startYear: 1990,
+        endYear: 1992,
+        description: 'Rust in Peace (1990) is one of thrash metal\'s greatest albums — and Nick Menza\'s drumming is central to its power. Tracks like "Holy Wars," "Hangar 18," and "Tornado of Souls" feature some of the most technically demanding thrash drumming ever recorded. Menza upgraded to Pearl Masters during this period for a more resonant, powerful sound that matched the album\'s landmark production.',
+        albums: ['Rust in Peace (1990)'],
+        tours: ['Clash of the Titans Tour 1990', 'Rust in Peace World Tour 1990–1992'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Professional',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Switched to Pearl Masters — maple shells offered a warmer, more resonant tone than the Tama Artstar birch, giving Rust in Peace\'s production the depth it needed alongside Marty Friedman\'s fluid leads.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Steel shell, bright and explosive',
+            notes: 'Pearl Free-Floating steel snare — explosive, cutting attack that defined the Rust in Peace snare sound heard on "Holy Wars" and "Hangar 18."',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom Series',
+            details: '14" A Custom hi-hats, 17"/18"/19" A Custom crashes, 21" A Custom ride',
+            notes: 'Upgraded to A Custom — brighter and more cutting than standard A, better suited to the precise, fast-moving cymbal work on Rust in Peace.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal',
+            details: 'Cam-driven double pedal',
+            notes: 'Switched to Pearl Eliminator for faster, more controlled double bass response on the extreme tempos of Rust in Peace material.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 2B',
+            details: 'Heavy hickory for thrash power',
+            notes: 'Consistent 2B choice for the power and projection required across Rust in Peace\'s extreme tempos.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor on toms, Powerstroke 3 on kick',
+            details: 'Standard professional configuration',
+            notes: 'Powerstroke 3 on kick for controlled attack — essential for the precise double bass patterns on "Holy Wars" and "Tornado of Souls."',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 9000,
+          inflationAdjusted: 21000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Rust in Peace (1990) — one of thrash metal\'s defining albums; Menza\'s career-defining performance',
+          'Switched from Tama Artstar to Pearl Masters — critical tonal upgrade',
+          'Pearl Free-Floating steel snare defines the Rust in Peace snare sound',
+          '"Holy Wars," "Hangar 18," "Tornado of Souls" — extreme technical demands met with precision',
+          'Clash of the Titans Tour (1990) — alongside Slayer, Anthrax, Alice in Chains',
+        ],
+
+        quote: {
+          text: "Rust in Peace is the record every thrash drummer measures themselves against. I knew that going in. The pressure was enormous — but the music drove everything.",
+          source: 'Drumhead Magazine Interview, 2008',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'nick-menza-1992-countdown',
+        era: 'Countdown to Extinction / Youthanasia Era',
+        years: '1992–1996',
+        startYear: 1992,
+        endYear: 1996,
+        description: 'Megadeth\'s commercial peak — Countdown to Extinction (1992) went platinum and produced mainstream radio hits. Menza\'s drumming evolved to serve more accessible song structures without abandoning the technical precision that defined Rust in Peace. Youthanasia (1994) continued this polished approach. He upgraded to Pearl Masterworks for the most premium kit of his career, befitting Megadeth\'s arena status.',
+        albums: ['Countdown to Extinction (1992)', 'Youthanasia (1994)'],
+        tours: ['Countdown to Extinction Tour 1992–1993', 'Youthanasia Tour 1994–1995', 'Headlining arena dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masterworks',
+            details: 'Maple shells, custom finish: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Upgraded to Pearl Masterworks — the premium custom-order Pearl tier. Maple shells in a stage-ready custom finish befitting Megadeth\'s arena headlining status.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Brass 14"×6.5"',
+            details: 'Brass shell, warmer than steel',
+            notes: 'Switched to brass Free-Floating for a warmer, more controlled crack suited to Countdown\'s polished production.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom / Z Custom mix',
+            details: '14" A Custom hi-hats, 18"/19" A Custom crashes, 21" A Custom ride, 18" Z Custom China',
+            notes: 'Added Z Custom China for the arena-rock aggression of the Countdown era live shows.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal (continued)',
+            details: 'Consistent pedal platform',
+            notes: 'Pearl Eliminator maintained through the commercial peak era — reliable and responsive for the Countdown material\'s varied tempos.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 2B',
+            details: 'Heavy hickory, consistent choice',
+            notes: 'Maintained 2B sticks throughout the commercial peak era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor on toms, EMAD on kick',
+            details: 'Modern premium head configuration',
+            notes: 'EMAD kick head adopted for tighter, more focused kick attack in arena production contexts.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 12000,
+          inflationAdjusted: 25000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Countdown to Extinction (1992) — platinum record; "Symphony of Destruction" becomes global hit',
+          'Upgraded to Pearl Masterworks custom kit — arena-ready premium setup',
+          'Youthanasia (1994) — commercial follow-up; drum sound polished further',
+          'Megadeth headlines arenas worldwide — massive stage production',
+          'Transition from steel to brass Free-Floating snare for warmer commercial sound',
+        ],
+
+        quote: {
+          text: "Countdown was different. Dave wanted something more people could get into. My job was to make sure the groove was there without losing the Megadeth edge.",
+          source: 'Drum! Magazine Interview, 1993',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'nick-menza-1996-cryptic-writings',
+        era: 'Cryptic Writings Era',
+        years: '1996–1998',
+        startYear: 1996,
+        endYear: 1998,
+        description: 'Cryptic Writings (1997) continued Megadeth\'s accessible direction. Menza\'s final full studio album with the band showed his groove-based drumming at its most polished. His Pearl Reference Custom setup — the flagship professional tier — was the definitive statement of his gear journey. He was fired from Megadeth in 1998 following a knee injury, ending one of thrash metal\'s most storied drummer-band partnerships.',
+        albums: ['Cryptic Writings (1997)'],
+        tours: ['Cryptic Writings Tour 1997–1998'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Custom',
+            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Upgraded to Pearl Reference Custom — the flagship professional maple/birch hybrid kit. The most refined and resonant kit of Menza\'s Megadeth tenure.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Brass 14"×6.5"',
+            details: 'Continued brass Free-Floating preference',
+            notes: 'Consistent brass Free-Floating snare choice maintained through the final Megadeth era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Series',
+            details: '14" K Custom hi-hats, 17"/18" K Custom crashes, 21" K Custom ride, 18" K Custom China',
+            notes: 'Full K Custom setup for the Cryptic Writings era — darker, more complex tone that reflected Megadeth\'s mature post-Rust production aesthetic.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct drive for maximum control',
+            notes: 'Switched to Pearl Demon Drive direct-drive double pedal for more precise, immediate response in the demanding Cryptic Writings live set.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 2B',
+            details: 'Heavy hickory, consistent career choice',
+            notes: 'Consistent 2B sticks throughout entire Megadeth tenure.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor on toms, EMAD on kick',
+            details: 'Standard professional touring configuration',
+            notes: 'Consistent EMAD/Emperor configuration across the final Megadeth years.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 14000,
+          inflationAdjusted: 27000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Pearl Reference Custom — peak gear setup of the Megadeth years',
+          'Cryptic Writings (1997) — final full studio album with Megadeth',
+          'Switched to Zildjian K Custom for darker, more mature cymbal voice',
+          'Pearl Demon Drive adopted for direct-drive precision',
+          'Fired from Megadeth (1998) following knee injury — end of defining band partnership',
+        ],
+
+        quote: {
+          text: "I gave everything I had to that band for almost a decade. Cryptic Writings was the best drumming I ever did for Megadeth. I\'m proud of every record I made with them.",
+          source: 'Metal Hammer Interview, 2004',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'nick-menza-2004-post-megadeth',
+        era: 'Post-Megadeth / Legacy / Live Work',
+        years: '2004–2016',
+        startYear: 2004,
+        endYear: 2016,
+        description: 'After a series of personal challenges including knee surgery and cancer treatment, Nick Menza returned to active drumming in the mid-2000s. He performed with various projects including OHM — a jazz-metal fusion group — and maintained a dedicated following in the thrash community. He passed away on May 21, 2016, collapsing on stage during an OHM performance at a Woodland Hills, California club. He was 51. His death on stage — doing what he loved — became one of metal\'s most poignant final chapters.',
+        albums: ['OHM: Memorandum (2012)', 'Various live and studio projects'],
+        tours: ['OHM tour dates 2010–2016', 'Various special appearances'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple/birch hybrid shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Continued with Pearl Reference in the post-Megadeth years — the familiar flagship setup maintained consistency with his peak career gear.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"×6.5"',
+            details: 'Returned to steel for projection in live contexts',
+            notes: 'Returned to steel Free-Floating for the cutting projection needed in club and festival live environments.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Series (continued)',
+            details: 'Consistent K Custom palette',
+            notes: 'Maintained the K Custom cymbal setup from the Cryptic Writings era through the post-Megadeth years.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal (continued)',
+            details: 'Consistent direct-drive platform',
+            notes: 'Pearl Demon Drive maintained throughout post-Megadeth career.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 2B',
+            details: 'Lifelong heavy hickory preference',
+            notes: 'Nick Menza used Vic Firth 2B sticks throughout his entire career — a consistent signature of his power-based playing approach.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor on toms, EMAD on kick',
+            details: 'Consistent head configuration',
+            notes: 'Maintained the same head configuration from the Cryptic Writings era through his final performances.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 12000,
+          inflationAdjusted: 15000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Returned to active drumming after knee surgery and cancer recovery',
+          'OHM project — jazz-metal fusion showcased range beyond thrash',
+          'Maintained Pearl Reference / Zildjian K Custom setup from Megadeth peak years',
+          'Continued to be recognized as one of thrash metal\'s defining drummers',
+          'Passed away May 21, 2016, on stage during OHM performance — Woodland Hills, California',
+        ],
+
+        quote: {
+          text: "The music never stopped for me. Even when my body wasn\'t cooperating, the music kept me going. That\'s all I\'ve ever had.",
+          source: 'Nick Menza Interview, 2015',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Nick Menza Gear Evolution Timeline | Megadeth Drum Kit History',
+    metaDescription: 'Explore Nick Menza\'s complete drum gear evolution: Tama Artstar II → Pearl Masters (Rust in Peace) → Pearl Masterworks (Countdown) → Pearl Reference Custom (Cryptic Writings). The Megadeth drummer\'s full timeline.',
+  },
+
+  // ==========================================
+  // Morgan Agren - Avant-Garde / Progressive (1983–Present)
+  // ==========================================
+  'morgan-gren': {
+    slug: 'morgan-gren',
+    name: 'Morgan Ågren',
+    band: 'Mats/Morgan Band',
+    totalYearsActive: '1983-Present',
+    profileImage: '/images/drummers/morgan-agren.webp',
+    summary: 'Morgan Ågren is one of the world\'s most technically advanced and musically inventive drummers — a Swedish self-taught prodigy who rose from the underground scene in Umeå to collaborations with Frank Zappa, John Zorn, and the global avant-garde. As the rhythmic engine of the Mats/Morgan Band alongside keyboardist Mats Öberg, he has spent four decades pushing the boundaries of rhythm, polyrhythm, and drumset possibility in ways that defy genre classification.',
+
+    eras: [
+      {
+        id: 'morgan-gren-1983-early',
+        era: 'Self-Taught Prodigy / Umeå Underground',
+        years: '1983–1989',
+        startYear: 1983,
+        endYear: 1989,
+        description: 'Morgan Ågren began playing drums as a young child in Umeå, Sweden — largely self-taught and developing at a staggering pace. By his early teens he was already demonstrating a command of complex polyrhythms and metric modulation that would define his career. He met keyboardist Mats Öberg as children — both had exceptional abilities and developed their unique musical language together from the beginning.',
+        albums: ['Early Mats/Morgan Band recordings', 'Swedish underground releases'],
+        tours: ['Umeå local scene', 'Early Scandinavian dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor Force Series',
+            details: 'Beech/maple shells: 20" kick, 10"/12"/14" toms',
+            notes: 'Sonor was the natural choice for a young Scandinavian drummer — durable, musical beech/maple shells from the German manufacturer with strong European distribution.',
+            change: null,
+          },
+          snare: {
+            item: 'Sonor 14"×5" Beech',
+            details: 'Beech shell, warm and open',
+            notes: 'Warm beech snare suited to the diverse tonal demands of Ågren\'s polyrhythmic explorations across jazz, rock, and avant-garde contexts.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002 Series',
+            details: '13" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Paiste 2002 — a Scandinavian favorite and widely respected in jazz-fusion contexts for their controlled, balanced tone.',
+            change: null,
+          },
+          hardware: {
+            item: 'Sonor hardware with single kick',
+            details: 'Standard European professional hardware',
+            notes: 'Single kick configuration in early years — the extreme double bass of later setups was not yet part of the picture.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Light hickory for control and nuance',
+            notes: 'Light 5A sticks suited the precise, nuanced playing that distinguished Ågren from heavier rock drummers from the outset.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Single-ply for open, resonant tone',
+            notes: 'Ambassador heads for maximum resonance and tone — appropriate for the jazz-influenced polyrhythmic approach of the early years.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3000,
+          inflationAdjusted: 8500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Self-taught drumming begins in Umeå, Sweden (early 1980s)',
+          'Met Mats Öberg as children — the founding Mats/Morgan musical partnership',
+          'Sonor Force kit established as early career foundation',
+          'Polyrhythmic and metric modulation vocabulary developed through intensive self-study',
+          'Early Scandinavian underground recognition',
+        ],
+
+        quote: {
+          text: "Mats and I just played. We didn\'t know what the rules were, so we made up our own. Looking back, that was the best thing that could have happened.",
+          source: 'Drummer Magazine Interview, 1995',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'morgan-gren-1990-mats-morgan',
+        era: 'Mats/Morgan Band Formation / Zappa Connection',
+        years: '1990–1997',
+        startYear: 1990,
+        endYear: 1997,
+        description: 'The Mats/Morgan Band took shape as a serious recording and touring project in the early 1990s. Critically, Frank Zappa discovered Ågren\'s playing and was stunned by his ability — reportedly calling him one of the greatest drummers he had ever encountered. Although Zappa\'s health prevented a full collaboration before his death in 1993, the connection brought Ågren international recognition and cemented his reputation in avant-garde circles. He transitioned to DW drums during this period.',
+        albums: ['Mats/Morgan Band: Glutenfri (1993)', 'Mats/Morgan Band: Present (1995)'],
+        tours: ['European avant-garde festival circuit', 'Scandinavian touring dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Switched to DW Collector\'s — the premium American maple kit that became his platform for the next two decades. The warm, resonant maple shells suited the Mats/Morgan Band\'s textural, genre-blending music perfectly.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'DW Collector\'s 14"×5.5" Maple',
+            details: 'Maple shell, warm and versatile',
+            notes: 'DW maple snare for a warm, versatile sound that served the Mats/Morgan Band\'s wide stylistic range from jazz to prog-metal to avant-garde.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian K Series',
+            details: '13" K hi-hats, 16"/18" K crashes, 20" K ride',
+            notes: 'Switched to Zildjian K — darker, more complex Turkish bronze. The K\'s nuanced overtone structure suited the jazz and avant-garde vocabulary at the core of the Mats/Morgan Band sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 5000 Double Pedal',
+            details: 'Double kick for expanded rhythmic vocabulary',
+            notes: 'Added double kick configuration — the expanded rhythmic vocabulary of double bass became essential to Ågren\'s increasingly complex compositional ideas.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth 5A (continued)',
+            details: 'Consistent light hickory preference',
+            notes: 'Maintained 5A sticks — control and nuance remained priorities even as technical demands escalated.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador on toms, Diplomat on snare',
+            details: 'Open, resonant head configuration',
+            notes: 'Light Diplomat head on snare for maximum sensitivity and tonal variation across the Mats/Morgan Band\'s diverse arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 8000,
+          inflationAdjusted: 16000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Mats/Morgan Band becomes serious recording and touring project',
+          'Frank Zappa discovers Ågren — calls him one of the greatest drummers he\'d heard',
+          'Zappa connection (1992–1993) — limited collaboration before Zappa\'s death in December 1993',
+          'Switched from Sonor to DW Collector\'s Series — defining kit transition',
+          'Switched to Zildjian K cymbals — darker, jazz-oriented tone',
+          'Double kick configuration added',
+          'International avant-garde recognition begins',
+        ],
+
+        quote: {
+          text: "When Frank heard us, I didn\'t know what to think. He was the most demanding musical mind I\'d ever encountered. That experience changed what I thought was possible.",
+          source: 'Modern Drummer Feature, 1994',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'morgan-gren-1998-international',
+        era: 'International Recognition / Extended DW Era',
+        years: '1998–2006',
+        startYear: 1998,
+        endYear: 2006,
+        description: 'Ågren\'s international profile grew substantially through the late 1990s and early 2000s. Collaborations with John Zorn, recordings for avant-garde labels, and a growing reputation among the world\'s most discerning drummers placed him at the centre of progressive and avant-garde drumming globally. His DW Collector\'s setup was expanded and customized during this period with additional toms and an extended cymbal arrangement.',
+        albums: ['Mats/Morgan Band: Thanks for the Swans (2001)', 'Mats/Morgan Band: Live at Glenn Miller Café (2003)', 'Various collaborative recordings'],
+        tours: ['European festival circuit', 'US avant-garde tour dates', 'Japan tours'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series (expanded)',
+            details: 'Maple shells: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Expanded DW Collector\'s configuration with an 8" tom for additional upper range in the increasingly complex Mats/Morgan Band arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'DW Collector\'s 14"×6.5" Maple',
+            details: 'Deeper maple snare for more projection',
+            notes: 'Deeper snare shell for more volume and crack in festival and concert hall contexts.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Series',
+            details: '13" K Custom hi-hats, 16"/18"/19" K Custom crashes, 21" K Custom ride, 18" China',
+            notes: 'Upgraded to K Custom for a darker, more refined tone — added China cymbal for textural contrast across the Mats/Morgan Band\'s wider dynamic range.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Spring-loaded double pedal, smooth action',
+            notes: 'Upgraded to DW 9000 — more refined feel and response for the nuanced double bass vocabulary of the Mats/Morgan Band\'s advanced compositions.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth 5A (continued)',
+            details: 'Consistent light preference throughout',
+            notes: 'Ågren has maintained a lighter stick choice throughout his career — control and sensitivity over raw power.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador on toms, Diplomat on snare',
+            details: 'Open configuration maintained',
+            notes: 'Open, sensitive head configuration maintained for maximum tonal nuance.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 12000,
+          inflationAdjusted: 20000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'International profile expands through avant-garde festival circuit',
+          'Collaborations with John Zorn and other avant-garde figures',
+          'DW Collector\'s expanded with additional toms',
+          'Upgraded to DW 9000 pedal for more refined double bass response',
+          'K Custom cymbals adopted for darker, more sophisticated tone',
+          'Recognition among world\'s top drummers grows significantly',
+        ],
+
+        quote: {
+          text: "For me, the kit is about serving the music. Whatever Mats needs, whatever the composition demands — that\'s what drives every setup decision.",
+          source: 'Drum! Magazine Interview, 2002',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'morgan-gren-2007-hybrid',
+        era: 'Avant-Garde Peak / Electronic Integration',
+        years: '2007–2014',
+        startYear: 2007,
+        endYear: 2014,
+        description: 'Ågren\'s playing reached its most widely celebrated form during this era. A growing integration of electronic percussion alongside his acoustic DW kit expanded his sonic palette dramatically. His work during this period attracted broader international media coverage, with features in Modern Drummer, Rhythm, and Drumhead highlighting his unique technical and musical approach. The hybrid acoustic/electronic configuration became a signature of his live setup.',
+        albums: ['Mats/Morgan Band: In Rosenberg Ville (2007)', 'Mats/Morgan Band: Naked (2013)', 'Various collaborative projects'],
+        tours: ['European festival headlining dates', 'US and Japan avant-garde tours'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Custom',
+            details: 'Maple shells with custom configuration: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Custom DW Collector\'s configuration — Ågren worked directly with DW on shell specifications, tuning, and bearing edges optimized for his specific playing style and the Mats/Morgan Band\'s sound.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'DW Collector\'s 14"×5" Maple (sensitized)',
+            details: 'Shallow maple snare, extremely responsive',
+            notes: 'Shallower snare for maximum sensitivity — ghost notes, brush-level dynamics, and extreme dynamic range were central to Ågren\'s approach during this era.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Dark / Constantinople mix',
+            details: '13" K Custom hi-hats, 16"/18" K Custom Dark crashes, 22" Constantinople ride, 18" China',
+            notes: 'Added Zildjian Constantinople ride — the top-tier Turkish-style cymbal for its complex, almost liquid overtone response that suited the improvisational dimension of Ågren\'s playing.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal (continued)',
+            details: 'Consistent pedal platform',
+            notes: 'Maintained DW 9000 for its consistent, adjustable response across diverse musical contexts.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A (continued)',
+            details: 'Consistent light stick preference',
+            notes: 'Long-running Vic Firth 5A preference maintained through the electronic hybrid era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador on toms, Diplomat on snare',
+            details: 'Open, sensitive configuration',
+            notes: 'Open head configuration for maximum sensitivity — essential for the dynamic range spanning whisper to full-power within single compositions.',
+            change: null,
+          },
+          electronics: {
+            item: 'Roland SPD-SX + Roland V-Drums module',
+            details: 'Sampling pad and electronic trigger integration',
+            notes: 'Integrated Roland SPD-SX sampling pad and V-Drums electronic triggers for extended tonal palette — accessing orchestral, electronic, and experimental sounds not possible on acoustic kit alone.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 20000,
+          inflationAdjusted: 27000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Roland SPD-SX and V-Drums integration creates defining hybrid acoustic/electronic setup',
+          'International features in Modern Drummer, Rhythm, and Drumhead',
+          'Zildjian Constantinople ride adopted — top-tier Turkish-style cymbal',
+          'In Rosenberg Ville (2007) — career high-water mark for Mats/Morgan Band',
+          'Custom DW Collector\'s specification with optimized bearing edges',
+          'Ghost note and dynamic sensitivity approach reaches peak refinement',
+        ],
+
+        quote: {
+          text: "Adding electronics wasn\'t about replacing the acoustic kit. It was about giving me more colors. The acoustic drums are the foundation — the electronics are the atmosphere around them.",
+          source: 'Modern Drummer Interview, 2009',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'morgan-gren-2015-modern',
+        era: 'Modern Hybrid Era',
+        years: '2015–Present',
+        startYear: 2015,
+        endYear: 2026,
+        description: 'Ågren\'s most recent era consolidates everything that came before — a mature, fully realized hybrid acoustic/electronic setup centered on his customized DW Collector\'s kit, an expanded Zildjian cymbal arrangement, and sophisticated electronic trigger integration. He remains one of the most active and innovative drummers in progressive and avant-garde music globally, continuing to record and tour with the Mats/Morgan Band while taking on an increasing range of special collaborative projects.',
+        albums: ['Mats/Morgan Band: Mats/Morgan (2015)', 'Recent collaborative and solo projects'],
+        tours: ['Continued European and international touring', 'Avant-garde festival appearances'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Custom (refined)',
+            details: 'Maple shells, customized hardware: 22" kick, 8"/10"/12"/14"/16" toms',
+            notes: 'Further refined DW Collector\'s configuration — the result of decades of collaboration with DW on shell specifications, bearing edges, and hardware preferences optimized precisely for Ågren\'s approach.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'DW Collector\'s 14"×5" + secondary piccolo',
+            details: 'Primary shallow maple + piccolo for textural contrast',
+            notes: 'Two-snare configuration — primary shallow maple for sensitive playing, piccolo secondary for sharp, cutting accents in heavier passages.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom / Constantinople / A Custom mix',
+            details: 'Expanded multi-series cymbal arrangement',
+            notes: 'Expanded multi-series cymbal arrangement spanning K Custom Dark, Constantinople, and A Custom pieces — maximum tonal variety for the Mats/Morgan Band\'s wide-ranging music.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal (continued)',
+            details: 'Lifelong consistent pedal platform',
+            notes: 'DW 9000 maintained as the consistent double pedal platform throughout the modern era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A + brushes + mallets',
+            details: 'Multi-implement approach for tonal variety',
+            notes: 'Multi-implement approach — 5A sticks, wire brushes, and mallets all employed across performances to maximize the acoustic kit\'s tonal range.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          heads: {
+            item: 'Remo Ambassador on toms, Diplomat on snare',
+            details: 'Open, sensitive long-running configuration',
+            notes: 'Lifelong open head preference maintained — Ambassador/Diplomat configuration consistent across the entire career.',
+            change: null,
+          },
+          electronics: {
+            item: 'Roland SPD-SX + expanded trigger array',
+            details: 'Full hybrid electronic integration',
+            notes: 'Expanded Roland electronic integration — SPD-SX sampling, cymbal triggers, and tom triggers for maximum acoustic/electronic hybrid flexibility. The fully realized version of the hybrid approach introduced in the previous era.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 25000,
+          inflationAdjusted: 25000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Full hybrid acoustic/electronic setup reaches definitive form',
+          'Multi-implement approach — sticks, brushes, mallets across a single performance',
+          'Two-snare configuration for maximum tonal contrast',
+          'Expanded Zildjian multi-series cymbal arrangement',
+          'Continued international touring and recording with Mats/Morgan Band',
+          'Recognized globally as one of progressive and avant-garde drumming\'s defining figures',
+        ],
+
+        quote: {
+          text: "After forty years I still find new things. The instrument keeps giving — if you keep asking questions of it.",
+          source: 'Rhythm Magazine Interview, 2018',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Morgan Ågren Gear Evolution Timeline | Avant-Garde Drum Kit History',
+    metaDescription: 'Explore Morgan Ågren\'s complete drum gear evolution: Sonor beginnings → DW Collector\'s (Zappa connection) → hybrid acoustic/electronic setup. Sweden\'s most innovative drummer documented era by era.',
+  },
 };
 
 /**

@@ -801,10 +801,10 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
       { slug: 'sepultura', period: '2011-2024', role: 'Drummer' },
       { slug: 'slipknot', period: '2024-present', role: 'Drummer' }
     ],
-    metaTitle: 'Eloy Casagrande Drum Kit & Gear Setup — Slipknot Drummer | MetalForge',
-    metaDescription: 'Complete biography of Eloy Casagrande, Slipknot\'s new drummer and former Sepultura member. Explore his journey from Brazilian metal prodigy to joining one of metal\'s biggest bands.',
+    metaTitle: 'Eloy Casagrande Drum Kit — Tama Starclassic Bubinga & Paiste | Slipknot Drummer Setup',
+    metaDescription: 'Full breakdown of Eloy Casagrande\'s drum kit as Slipknot\'s drummer: Tama Starclassic Bubinga shells, Paiste cymbals, Tama Bell Brass snare, and Tama Iron Cobra double pedal. #1 metal drummer in Modern Drummer\'s 2024 poll.',
     ogImage: '/images/drummers/eloy-casagrande.webp',
-    keywords: ['slipknot', 'sepultura', 'brazilian drummer', 'tama drums', 'thrash metal', 'modern drummer poll'],
+    keywords: ['eloy casagrande drum kit', 'slipknot drummer gear', 'sepultura', 'brazilian drummer', 'tama drums', 'thrash metal', 'modern drummer poll'],
     relatedDrummers: ['joey-jordison', 'dave-lombardo', 'lars-ulrich', 'mario-duplantier'],
     summary: 'Eloy Casagrande, Slipknot drummer (2024) & former Sepultura member, #1 in Modern Drummer 2024 poll, Brazilian metal prodigy.',
     lastUpdated: '2026-02-15',
@@ -813,7 +813,7 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
     sections: {
       overview: {
         title: 'Overview',
-        content: `Eloy Casagrande (born August 25, 1991, in São Paulo, Brazil) is a Brazilian drummer who joined Slipknot as their new drummer in 2024, following his 13-year tenure with legendary thrash metal band Sepultura. Named the No. 1 metal drummer in Modern Drummer magazine's 2024 Readers' Poll, Casagrande is known for his explosive speed, technical prowess, and energetic performances.
+        content: `Eloy Casagrande (born August 25, 1991, in São Paulo, Brazil) is a Brazilian drummer who joined Slipknot as their new drummer in 2024, following his 13-year tenure with legendary thrash metal band Sepultura. Named the No. 1 metal drummer in Modern Drummer magazine's 2024 Readers' Poll, Casagrande's drum kit — a Tama Starclassic Bubinga configuration with Paiste cymbals and Tama Iron Cobra double pedal — is built for the extreme demands of Slipknot's live performances.
 
 Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented the new generation of metal drumming. His combination of traditional thrash metal power with modern technical elements has made him one of the most exciting and influential drummers in contemporary metal.`
       },

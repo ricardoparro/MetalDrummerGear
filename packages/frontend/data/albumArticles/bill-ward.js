@@ -339,8 +339,8 @@ export const articles = {
       "content": "Every blast beat. Every double bass run. Every thrash groove and doom drone and death metal fill — all of it traces back to Bill Ward sitting in a Birmingham rehearsal space in 1968, bringing jazz chops to the heaviest music the world had ever heard.\n\nBlack Sabbath didn't just influence metal. They CREATED metal. And Bill Ward's drumming was essential to that creation. Without his swing, the riffs would have been stiff. Without his dynamics, the songs would have been monotonous. Without his jazz drummer's ear for space and groove, heavy metal might have been a footnote instead of a global phenomenon.\n\nThe gear Bill used was professional but not exotic: Ludwig drums, Supraphonic snare, Paiste cymbals. Nothing that thousands of other drummers weren't playing. The difference was in the hands — in the mind — in the musical understanding that came from absorbing Gene Krupa and Buddy Rich before ever playing a heavy riff.\n\nModern drummers can buy replicas of Bill's setup, but they can't buy his feel. That comes from practice, from listening deeply, from understanding that metal isn't about speed or complexity — it's about groove and power and the spaces between the notes.\n\nBill Ward may never play another show. The \"13\" album and The End tour happened without him. But every time someone plays \"Iron Man\" at a guitar store, every time a kid discovers \"Paranoid\" on Spotify, every time a metal drummer swings a groove instead of playing it straight — Bill Ward's influence continues.\n\nHe didn't just invent heavy metal drumming. He proved that jazz and metal were never as far apart as people thought.\n\n🤘 *The Godfather of Metal. Forever.* 🤘"
     }
   },
-  "black-sabbath-debut-drum-setup": {
-    "slug": "black-sabbath-debut-drum-setup",
+  "black-sabbath-drum-setup": {
+    "slug": "black-sabbath-drum-setup",
     "albumTitle": "Black Sabbath",
     "artist": "Black Sabbath",
     "drummer": "Bill Ward",
@@ -566,6 +566,10 @@ export const articles = {
       {
         "question": "Why did Bill Ward use Paiste Giant Beat cymbals on the debut album?",
         "answer": "The Paiste Giant Beat series was Bill Ward's first endorsement arrangement, and its dark, washy character suited his jazz background better than the brighter Zildjian and Sabian alternatives. Originally designed for jazz big bands, the Giant Beat cymbals produce slow-blooming crashes with long sustain and complex overtones — properties that work architecturally in slow, heavy music rather than providing the fast attack-and-cut of modern metal cymbals. Ward's 15\" hi-hats (one inch larger than standard) gave his shuffle patterns and open hi-hat work a fuller, darker sound, while the 18\", 20\", and 22\" sizes allowed crashes to swell and sustain through the long space between Iommi's riff repetitions. The Giant Beats contribute substantially to the doom atmosphere of the title track and the blues feel of \"The Wizard\" — they are not a neutral choice but an actively musical one. For a broader look at Ward's gear evolution from the debut through the classic period, see the [Bill Ward kit guide](/articles/whats-in-bill-wards-kit)."
+      },
+      {
+        "question": "What year did Black Sabbath release their first album?",
+        "answer": "Black Sabbath released their self-titled debut album on February 13, 1970 on Vertigo Records. The album was recorded in October 1969 at Regent Sound Studios, London, in approximately 12 hours on a budget of £500. It is widely recognized as the first heavy metal album, featuring Bill Ward on drums with his Ludwig Super Classic kit and Paiste Giant Beat cymbals."
       }
     ],
     "evolution": {
@@ -640,6 +644,14 @@ export const articles = {
       {
         "text": "History of metal drumming",
         "url": "/articles/history-of-metal-drumming"
+      },
+      {
+        "text": "Paiste cymbal gear guide",
+        "url": "/gear/paiste"
+      },
+      {
+        "text": "Ludwig drum kit gear guide",
+        "url": "/gear/ludwig"
       }
     ],
     "schema": {
@@ -654,7 +666,7 @@ export const articles = {
             "name": "MetalForge Editorial"
           },
           "datePublished": "2026-06-24",
-          "dateModified": "2026-06-24"
+          "dateModified": "2026-06-29"
         },
         {
           "@type": "MusicAlbum",
@@ -738,6 +750,14 @@ export const articles = {
               "acceptedAnswer": {
                 "@type": "Answer",
                 "text": "Bill Ward applied jazz ensemble vocabulary — space, dynamic shading, real-time improvisation, and rhythmic conversation — to music heavier than anything being recorded in 1969. His influences were Tony Williams, Ginger Baker, and Elvin Jones, and their approach to spontaneity and musical response is audible throughout the debut. The 12-hour recording session preserved this spontaneity with no time to sand down the jazz instincts into conventional rock drumming."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What year did Black Sabbath release their first album?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Black Sabbath released their self-titled debut album on February 13, 1970 on Vertigo Records. Recorded in October 1969 at Regent Sound Studios, London, in approximately 12 hours on a budget of £500, it is widely recognized as the first heavy metal album."
               }
             }
           ]

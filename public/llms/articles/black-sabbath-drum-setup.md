@@ -76,7 +76,7 @@ The 22" ride completed a setup oriented around size and sustain rather than defi
 - Estimated kit value: $900–1,600 (1969) / $7,000–18,000 (vintage today in original condition)
 - Estimated snare value: $80–120 (1969) / $200–400 (vintage today)
 
-**Source:** https://metalforge.io/articles/black-sabbath-debut-drum-setup
+**Source:** https://metalforge.io/articles/black-sabbath-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 

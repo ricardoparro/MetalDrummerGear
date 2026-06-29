@@ -72,6 +72,26 @@ A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" &
 
 A: Bill Ward drums for Black Sabbath, a heavy metal / hard rock / blues rock band.
 
+## Black Sabbath (1970) — Debut Album
+
+On October 16, 1969, Black Sabbath recorded their self-titled debut album at Regent Sound Studios, London, in approximately 12 hours on a budget of £500. Released February 13, 1970 on Vertigo Records, *Black Sabbath* is widely recognized as the first heavy metal album. Bill Ward was 21 years old, playing a Ludwig Super Classic kit with Paiste Giant Beat cymbals — his first endorsement relationship. The session had no click track and no overdubs: what the band played in those 12 hours is what appeared on the record.
+
+Standout tracks for drummers: **"Black Sabbath"** (doom groove, shifts between 4/4 and 6/4, Ward's use of silence is as important as his playing), **"N.I.B."** (swing feel, bass guitar and kick drum locked in tight rhythmic relationship), **"The Wizard"** (shuffle feel drawn from R&B and soul — Ward's jazz background is most audible here).
+
+**Q: What drum kit did Bill Ward use on Black Sabbath (1970)?**
+
+A: Bill Ward recorded Black Sabbath's debut on a Ludwig Super Classic — a 20" bass drum, 12" and 13" rack toms, and a 16" floor tom with three-ply maple shells. Snare: Ludwig Supra Phonic 14" x 5" aluminum. Cymbals: Paiste Giant Beat (15" hi-hats, 18" and 20" crashes, 22" ride). Pedal: Ludwig Speed King single. Sticks: Ludwig 2B Hickory.
+
+**Q: What year did Black Sabbath release their first album?**
+
+A: Black Sabbath's self-titled debut was released on February 13, 1970 on Vertigo Records. It was recorded in October 1969 at Regent Sound Studios, London.
+
+**Q: What makes the Black Sabbath debut drums unique?**
+
+A: Ward applied jazz vocabulary — space, dynamic shading, and real-time improvisation — to music heavier than anything recorded in 1969. His influences (Tony Williams, Ginger Baker, Elvin Jones) shaped a playing style that responds to the music rather than imposing on it. The 12-hour session with no click track preserved this spontaneity. Study where Ward does *not* play on the title track: the doom riff breathes because he withholds.
+
+**Full article:** [Black Sabbath (1970) Drum Setup](https://metalforge.io/articles/black-sabbath-drum-setup)
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Bill Ward:

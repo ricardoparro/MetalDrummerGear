@@ -82,12 +82,15 @@ jobs:
           # Subscription auth (Pro/Max) instead of pay-per-use API billing.
           # CLI uses the OAuth token when ANTHROPIC_API_KEY is absent.
           CLAUDE_CODE_OAUTH_TOKEN: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN }}
+          # 2nd subscription — run-claude.sh fails over to it when the primary
+          # hits its session/usage limit, so a maxed-out plan doesn't kill the run.
+          CLAUDE_CODE_OAUTH_TOKEN_2: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GOOGLE_APPLICATION_CREDENTIALS: ${{ runner.temp }}/gcp/metrics.json
           GA4_PROPERTY_ID: ${{ secrets.GA4_PROPERTY_ID }}
           GSC_SITE: ${{ secrets.GSC_SITE }}
         run: |
-          cat .agents/ceo/PROMPT.md | claude --print --dangerously-skip-permissions
+          cat .agents/ceo/PROMPT.md | bash .agents/scripts/run-claude.sh
 
       - name: Commit state changes from this run
         if: always()

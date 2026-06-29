@@ -1,0 +1,68 @@
+name: Prune Proposals
+
+# Deterministic backstop that bounds the `seo-proposal` idea bank so open issues
+# stop accumulating. The SEO Agent files proposals every run and the CEO only
+# promotes up to the ai-fix cap — the rest park as `seo-proposal` indefinitely,
+# which grew the open-issue list past 300. Prompt instructions never held it
+# back; this loop enforces the bound regardless of agent behaviour.
+#
+# Rules (see .agents/scripts/prune-proposals.cjs):
+#   - close un-promoted proposals older than PRUNE_STALE_DAYS (metrics rolled over)
+#   - then cap the survivors at PRUNE_BANK_CAP, closing the oldest excess
+#   - never touch ai-fix / in-progress / pr-opened / hold / human* / keep
+#   - PRUNE_MAX_CLOSE throttles per run; the daily cron drains a big backlog
+#     over a few runs without tripping GitHub's secondary rate limit.
+#
+# Closures are reversible: each gets an explanatory comment + a `pruned` label.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'List what would be closed without closing'
+        type: boolean
+        default: false
+  schedule:
+    # Daily at 06:30 UTC — before the morning CEO/SEO runs, so triage each day
+    # starts against an already-bounded bank.
+    - cron: '30 6 * * *'
+
+permissions:
+  contents: read
+  issues: write
+
+# Never run two prunes at once — they'd race on the same close set.
+concurrency:
+  group: prune-proposals
+  cancel-in-progress: false
+
+jobs:
+  prune:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Self-test the prune logic
+        run: node .agents/scripts/prune-proposals.cjs --self-test
+
+      - name: Prune the seo-proposal idea bank
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # Tunables — keep in sync with the SEO Agent's stop-at cap in PROMPT.md.
+          PRUNE_BANK_CAP: '60'
+          PRUNE_STALE_DAYS: '21'
+          PRUNE_MAX_CLOSE: '100'
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            node .agents/scripts/prune-proposals.cjs --dry-run
+          else
+            node .agents/scripts/prune-proposals.cjs
+          fi

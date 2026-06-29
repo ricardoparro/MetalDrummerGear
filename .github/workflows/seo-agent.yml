@@ -3,19 +3,17 @@ name: SEO Agent
 on:
   workflow_dispatch:
   schedule:
-    # ⚠️ TZ NOTE: GitHub Actions cron is UTC only. These times are calibrated
-    # for **Lisbon SUMMER (BST/WEST, UTC+1)**. In late October, when Lisbon
-    # falls back to UTC+0, shift each entry by +1 hour.
+    # ⚠️ TZ NOTE: GitHub Actions cron is UTC only. Calibrated for Lisbon SUMMER
+    # (UTC+1); in late October shift +1h.
     #
-    # Night window: Lisbon 00:00-06:59  →  hourly
-    #   summer UTC: 23,0,1,2,3,4,5,6     (8 runs)
-    #   winter UTC:    0,1,2,3,4,5,6     (7 runs — drop 23)
-    - cron: '0 23,0,1,2,3,4,5,6 * * *'
-
-    # Day window: Lisbon 08:00-23:59     →  every 3 hours
-    #   summer UTC: 7,10,13,16,19,22     (6 runs)
-    #   winter UTC: 8,11,14,17,20,23     (6 runs)
-    - cron: '0 7,10,13,16,19,22 * * *'
+    # 3×/day is deliberate. The idea bank is now BANK-CAPPED (see PROMPT.md): the
+    # SEO Agent only files proposals while the open `seo-proposal` count is below
+    # the cap, and prune-proposals.yml trims the bank daily. Running 14×/day used
+    # to fire 5–7 proposals each time → 300+ parked issues. At a capped bank,
+    # extra runs are almost all no-ops, so we run just often enough to keep the
+    # bank topped up against fresh metrics: ~morning, midday, evening.
+    #   summer UTC 7,13,19 = Lisbon 08:00 / 14:00 / 20:00.
+    - cron: '0 7,13,19 * * *'
 
 permissions:
   contents: write

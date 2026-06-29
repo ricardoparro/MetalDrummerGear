@@ -86,6 +86,7 @@ Without `RESEND_API_KEY`, subscriptions still work but no welcome email is sent.
 - [GSC watch loop (L1)](docs/gsc-watch-loop.md) - Weekly Google organic verifier for the SEO Agent / Roadie pipeline
 - [Indexation health loop (L3)](docs/indexation-loop.md) - Weekly check on how many sitemap URLs Google actually indexes
 - [Structured-data validation loop](docs/structured-data-loop.md) - Weekly JSON-LD validator that asserts Google-required fields per `@type` (no API key)
+- [Prune Proposals](docs/prune-proposals.md) - Daily backstop that bounds the `seo-proposal` idea bank (auto-closes stale/over-cap proposals) so open issues stop accumulating
 
 ---
 *Built for metalheads, by metalheads* 🤘

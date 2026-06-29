@@ -1,0 +1,9 @@
+**Problem:** Issue #3104 requested adding 3 new Top-10 list pages — funeral-doom-metal-drummers, post-black-metal-drummers, and deathgrind-drummers — to `packages/frontend/data/top10Lists.js` plus 3 LLM markdown files.
+
+**Files changed:** `.agents/roadie-runs/issue-3104.log` (run state recorded only — no content changes needed)
+
+**Fix:** All three slugs were already fully implemented in `packages/frontend/data/top10Lists.js` (lines 1251–1333) with 10 ranked drummers each, ≥4 FAQ entries, relatedLists cross-links, and drummerIds referencing the DB. All three LLM markdown files already exist at `public/llms/lists/funeral-doom-metal-drummers.md`, `public/llms/lists/post-black-metal-drummers.md`, and `public/llms/lists/deathgrind-drummers.md` with full ranked sections, FAQ Q&A, and internal links.
+
+**Validation:** All quality gates pass — 10 drummers per list ✅, ≥4 FAQ per list ✅, ≥3 DB drummer IDs per list (funeral-doom: IDs 16/38/14/15/3/20; post-black: IDs 20/16/19/15/38; deathgrind: IDs 21/28/51/3/6) ✅, ≥300 words per LLM file ✅, relatedLists cross-links present ✅, JS syntax clean (`node --check` passes) ✅.
+
+**Follow-ups:** None — issue fully implemented across all files per spec.

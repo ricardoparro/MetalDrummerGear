@@ -53,9 +53,28 @@ comment_conflict_once() {
 
 merge_pr() {
   local n="$1"
+  # Parse the linked issue BEFORE merging (same heuristic as reap): first
+  # "#<number>" in the body ("Closes #N") or title ("fix: #N ...").
+  local issue
+  issue=$(gh pr view "$n" --repo "$REPO" --json body,title \
+    --jq '((.body // "") + " " + (.title // "")) | capture("#(?<i>[0-9]+)").i // ""' 2>/dev/null)
   if gh pr merge "$n" --repo "$REPO" --squash --delete-branch; then
     MERGED+=("#$n")
     log "MERGED #$n"
+    # ⚠️ Do NOT rely on GitHub's "Closes #N" keyword auto-close — it was observed
+    # NOT firing here (merged issues stayed open + still labelled `ai-fix`, so the
+    # night fleet re-implemented the SAME issues every run, producing 2-3 duplicate
+    # PRs each and burning most of the merge throughput on already-shipped work).
+    # Close + de-queue the linked issue explicitly so a merged issue never returns
+    # to the eligible queue.
+    if [[ -n "$issue" ]]; then
+      gh issue close "$issue" --repo "$REPO" --reason completed >/dev/null 2>&1 || true
+      gh issue edit "$issue" --repo "$REPO" \
+        --remove-label ai-fix --remove-label in-progress --remove-label pr-opened >/dev/null 2>&1 || true
+      log "Closed + de-queued linked issue #$issue"
+    else
+      log "MERGED #$n (no linked issue parsed — nothing to close)"
+    fi
     return 0
   fi
   log "merge command failed for #$n"

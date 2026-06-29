@@ -718,6 +718,402 @@ export const articles = {
       "content": "\"Butchered at Birth\" occupies a crucial position in the Cannibal Corpse arc: the album that escalated the debut's approach, absorbed a year of live development, earned the first German ban, and delivered Paul Mazurkiewicz's drumming to the brink of what \"Tomb of the Mutilated\" would perfect in 1992.\n\nThe gear was still pre-endorsement. The Pearl Export or Masters MX kit, the era-typical Paiste/Zildjian cymbals, the standard 5B sticks were the working-band reality. But the performance captured at Morrisound was a development step beyond \"Eaten Back to Life\" — faster, more authoritative, more precisely locked. Burns's second Cannibal Corpse production was a step toward the mature Tampa sound that \"Tomb of the Mutilated\" would deliver at full force.\n\nFor the full Paul Mazurkiewicz debut-era arc:\n- **Origin**: [Eaten Back to Life drum setup (1990)](/articles/eaten-back-to-life-drum-setup) — the starting point\n- **Landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — where the approach crystallized\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   },
+  "the-bleeding-drum-setup": {
+    "slug": "the-bleeding-drum-setup",
+    "albumTitle": "The Bleeding",
+    "artist": "Cannibal Corpse",
+    "drummer": "Paul Mazurkiewicz",
+    "drummerId": 51,
+    "relatedDrummerSlug": "paul-mazurkiewicz",
+    "band": "Cannibal Corpse",
+    "bands": ["Cannibal Corpse"],
+    "year": 1994,
+    "genre": "Death Metal",
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "studio": "Morrisound Recording, Tampa, Florida",
+    "producer": "Scott Burns",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-29",
+    "dateModified": "2026-06-29",
+    "author": "MetalForge Editorial",
+    "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's The Bleeding (1994)",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's The Bleeding (1994). Paul Mazurkiewicz's pre-endorsement Pearl kit, Scott Burns's final CC production at Morrisound, Chris Barnes's last album, and the most accessible death metal record of the era.",
+    "seoKeywords": [
+      "the bleeding drums",
+      "paul mazurkiewicz 1994 drum setup",
+      "cannibal corpse the bleeding drummer",
+      "cannibal corpse chris barnes last album drums",
+      "paul mazurkiewicz the bleeding gear",
+      "scott burns morrisound 1994",
+      "cannibal corpse staring through the eyes of the dead drums",
+      "death metal 1994 drum setup"
+    ],
+    "ogImage": "/images/albums/the-bleeding-drums.webp",
+    "intro": {
+      "title": "The End of an Era: Mazurkiewicz on Cannibal Corpse's Most Accessible Album",
+      "content": "Released on April 5, 1994 through Metal Blade Records, Cannibal Corpse's fourth album \"The Bleeding\" stands as one of the most significant inflection points in the band's three-decade career — not because it was the most extreme record they had made, but because it was the most accessible. In a genre built on escalating brutality, \"The Bleeding\" represented something unusual: a death metal album where the songs were immediately memorable, the grooves were undeniable, and the production had a clarity that made the record approachable for listeners outside the underground.\n\nIt was also Chris Barnes's final album with Cannibal Corpse. The vocalist who had fronted the band from its Buffalo, New York formation in 1988 through four studio albums would depart before recording began on the follow-up, eventually forming Six Feet Under. His departure marked the end of an era and prompted a personnel change — the arrival of George \"Corpsegrinder\" Fisher — that would redefine the band's trajectory.\n\nFor Paul Mazurkiewicz, \"The Bleeding\" was his fourth studio recording and the last chapter of the Cannibal Corpse lineup he had co-founded. The sessions returned to Morrisound Recording in Tampa with producer Scott Burns — marking Burns's fourth and final Cannibal Corpse production before the band would eventually move on to different producers. The Scott Burns / Morrisound era that had defined death metal production from 1990 through 1994 closed with this record.\n\nTracks like \"Staring Through the Eyes of the Dead,\" \"Stripped, Raped, and Strangled,\" and \"The Pick-Axe Murders\" became among the most widely cited Cannibal Corpse songs by listeners outside the death metal underground — the songs that introduced a generation of new fans to the band. The drum performances on these tracks remain definitive documents of Mazurkiewicz's pre-endorsement approach: locomotive double-bass, conventional grip blast beats, and serve-the-riff phrasing at the peak of his early-career development.",
+      "keyPoints": [
+        "Cannibal Corpse's fourth album (April 5, 1994) — Metal Blade Records — Chris Barnes's final CC album",
+        "Scott Burns's fourth and final Cannibal Corpse production at Morrisound Recording — end of the Morrisound era for CC",
+        "Most accessible death metal record of the era — 'Staring Through the Eyes of the Dead' and 'Stripped, Raped, and Strangled' became highest-cited CC songs",
+        "Pre-endorsement era gear: Pearl kit from the Export/Masters MX range, Paiste/Zildjian cymbals, Vic Firth 5B sticks",
+        "Mazurkiewicz at peak pre-endorsement development — conventional grip, locomotive double-bass fully formed",
+        "Gateway album that introduced an entire generation to Cannibal Corpse"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Masters MX: The Pre-Endorsement Peak",
+      "brand": "Pearl",
+      "model": "Pearl Masters MX or Export (pre-endorsement, 1994 peak)",
+      "finish": "Black wrap or natural (era-typical)",
+      "config": {
+        "bassdrums": ["22\" x 16\" Bass Drum (x2 — double kick)"],
+        "toms": ["10\" x 10\" Rack Tom", "12\" x 10\" Rack Tom"],
+        "floorToms": ["16\" x 16\" Floor Tom"],
+        "shells": "Maple/mahogany hybrid (Masters MX) or mahogany/basswood (Export) — pre-endorsement era"
+      },
+      "description": "By 1994, Paul Mazurkiewicz had four years of constant professional touring behind him since the debut, and his kit had evolved with his growing technical demands. The Pearl setup on \"The Bleeding\" represented the peak of his pre-endorsement Pearl configuration — most likely the Masters MX (maple/mahogany hybrid shells) that offered a genuine upgrade over the Export-range drums of the earlier recordings, without crossing into the boutique price range the Pearl Reference would eventually represent.\n\nThe dual 22\" x 16\" kick drum configuration remained unchanged from the debut-era setup — two independent bass drums with individual single pedals providing the symmetric foot independence Mazurkiewicz's locomotive double-bass approach demanded. On \"The Bleeding,\" that approach reached its pre-endorsement peak. Tracks like \"Staring Through the Eyes of the Dead\" and \"The Pick-Axe Murders\" feature sustained double-kick passages at tempos that challenged even Mazurkiewicz's refined technique, and the kick drum capture on the record is among the clearest of the Morrisound era.\n\nScott Burns tuned the kit for what had become his established Cannibal Corpse production approach: medium-tight drum heads for maximum attack, controlled sustain, and the dry, close-miked character that defined every record he made with the band. By the fourth album together, Burns knew exactly how Mazurkiewicz's setup should be tuned and miked — and the result is the most refined drum sound of the early CC catalog.\n\nThe minimal tom configuration — two rack toms and a single floor tom — continued the philosophy of the first three albums. \"The Bleeding\" is a groove-driven death metal record; its compositions were more accessible than the debut-era material but no less riff-centered. Mazurkiewicz's tom vocabulary remained functional and purposeful: transitions, fills at section boundaries, no drum-centric showcase passages that would have distracted from the songs' accessibility.",
+      "notes": [
+        "Pearl Masters MX or Export — pre-endorsement peak before the later Reference era",
+        "Dual 22\" x 16\" kicks — locomotive double-bass at its pre-endorsement finest",
+        "Minimal two-rack, one-floor-tom configuration — riff-serving over fill-showcasing",
+        "Most refined Morrisound drum tuning of the CC catalog — fourth session with Scott Burns"
+      ],
+      "estimatedValue": "$1,500–2,800 (1994 new) / $2,500–4,500 (comparable vintage Pearl today)"
+    },
+    "snare": {
+      "title": "Brightness and Cut: The 1994 Snare Voice",
+      "brand": "Pearl (era-typical)",
+      "model": "Wood-shell snare (maple or birch, Pearl Masters MX-range)",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple or birch wood-shell",
+      "description": "The snare on \"The Bleeding\" continues the 14\" x 5.5\" wood-shell formula that Mazurkiewicz had used across the Cannibal Corpse catalog — a configuration refined over four years and three prior recordings to the precise tuning that Scott Burns's Morrisound production approach demanded.\n\nBy the fourth album together, Burns had developed the snare capture for Mazurkiewicz's kit to its sharpest iteration. The snare on \"The Bleeding\" is bright, explosive, and precisely positioned in the mix — cutting through the guitars and bass without clashing with them in the high-mid frequency range. On the album's groove-driven tracks like \"Stripped, Raped, and Strangled\" and \"The Pick-Axe Murders,\" the snare backbeat carries the song's momentum in a way that earlier CC snare sounds hadn't quite achieved.\n\nThe 5.5\" depth maintained the fast response time required for Mazurkiewicz's blast beat work, while the wood construction gave the instrument a warmer character than steel shells would have provided. Burns tuned it medium-high for the sessions — a choice he had made on every Cannibal Corpse recording and one that had defined the Morrisound snare sound as the death metal production standard since 1990.",
+      "tuningSetting": "Medium-high tension — bright crack refined over four albums of Morrisound production",
+      "heads": "Remo Ambassador or Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$200–450 (1994 era) / $300–600 (comparable wood-shell snares today)"
+    },
+    "cymbals": {
+      "title": "Pre-Endorsement Brass: The Final Morrisound Arsenal",
+      "brand": "Paiste / Zildjian (era-typical, pre-endorsement)",
+      "series": "Paiste 2002 / Zildjian A — working-band selection, 1994",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "14\" Hi-Hats (Paiste 2002 or Zildjian A)",
+          "position": "Left side",
+          "notes": "Rhythmic backbone — eighth-note pulse for blast patterns and groove sections"
+        },
+        {
+          "type": "Crash",
+          "model": "16\" Medium Crash",
+          "position": "Left crash",
+          "notes": "Fast accent for riff punctuation throughout the most accessible CC tracks"
+        },
+        {
+          "type": "Crash",
+          "model": "18\" Medium Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash for section climaxes and chorus peaks"
+        },
+        {
+          "type": "Ride",
+          "model": "20\" Medium Ride",
+          "position": "Far right",
+          "notes": "Sparse use — bell accents on mid-tempo groove passages"
+        },
+        {
+          "type": "China",
+          "model": "18\" China",
+          "position": "Above floor tom",
+          "notes": "Trashy accent at riff transitions — a Mazurkiewicz signature across the entire early CC catalog"
+        }
+      ],
+      "description": "In 1994, Paul Mazurkiewicz still had no cymbal endorsement — the Meinl relationship that defines his modern setup was still in the future. \"The Bleeding\" was recorded with the era-typical working-band brass that had served the previous three albums: Paiste 2002 and Zildjian A series cymbals in standard configurations, maintained through constant replacement as touring demands took their toll.\n\nThe 14\" hi-hats function as the rhythmic core across \"The Bleeding.\" On the album's most memorable tracks — \"Staring Through the Eyes of the Dead,\" \"Stripped, Raped, and Strangled\" — the hi-hats define the eighth-note pulse that makes the grooves instantly hooky for listeners beyond the death metal underground. The accessibility that distinguishes \"The Bleeding\" from its predecessors comes partly from Mazurkiewicz's groove sensibility, and the hi-hat is the vehicle that sensibility travels through.\n\nThe China cymbal accent pattern — an increasingly central element of Mazurkiewicz's vocabulary since the debut — reaches a level of sophistication on \"The Bleeding\" that clearly anticipates the Fisher-era refinement to come. Burns positioned the China prominently in the mix, treating it as a compositional punctuation mark rather than a buried accent.\n\nThe cymbal setup's overall character — focused attack, controlled decay, no excess wash — served the album's accessibility goals. \"The Bleeding\" is the clearest-sounding Cannibal Corpse album of the Morrisound era, and the cymbal capture is part of why: every accent is readable, every crash is precisely placed, and the rhythmic picture Mazurkiewicz paints is legible to listeners who had never encountered death metal before.",
+      "estimatedValue": "$600–1,200 total (1994 era working-band selection)"
+    },
+    "hardware": {
+      "title": "1994 Hardware: Pre-Endorsement Final Form",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl / Camco-style",
+          "model": "Individual single pedals — one per kick drum",
+          "notes": "Standard independent double-bass configuration — pre-Eliminator era",
+          "description": "On \"The Bleeding,\" Paul Mazurkiewicz continued with individual single pedals on each of his two kick drums — the independent double-bass configuration he had used across all four early CC albums. The Pearl Eliminator that would define his modern setup was still in the future; in 1994 he was operating with the Camco-style or Pearl P-201 chain-drive single pedals that gave symmetric, independent foot operation. A year of intensive touring had developed his foot technique to its pre-endorsement peak on this setup, and the double-kick performances on \"The Bleeding\" reflect that development."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl heavy-duty hi-hat stand (era-typical)",
+          "notes": "Stable platform for hi-hat work across groove and blast sections"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B Wood Tip",
+          "notes": "Pre-signature — the Paul Mazurkiewicz Vic Firth signature model did not exist in 1994"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter)",
+        "toms": "Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador or Emperor Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "sound": {
+      "title": "Scott Burns's Final Cannibal Corpse Production at Morrisound",
+      "content": "\"The Bleeding\" was Scott Burns's fourth and final Cannibal Corpse production at Morrisound Recording in Tampa, Florida — and it represented the mature endpoint of the production approach he had been developing since \"Eaten Back to Life\" in 1990. The Morrisound drum sound that Burns created across those four albums had become the death metal production standard, and the version he applied to Mazurkiewicz's kit on \"The Bleeding\" was its most refined iteration.\n\nBy 1994, Burns knew exactly how to capture Mazurkiewicz's playing. The microphone placement, the tuning approach, the mix philosophy — all had been refined across three prior recordings with the same drummer, the same band, and the same studio. The kick drum capture on \"The Bleeding\" is the cleanest of the early CC catalog: each stroke articulates precisely, the double-kick passages are architecturally clear, and the low-end weight is controlled without becoming muddy.\n\nThe increased accessibility of \"The Bleeding\" as a record is partly a function of Burns's production choices. The guitar tone was slightly brighter and less compressed than on the debut-era albums; the snare had more presence and definition; and the overall mix had the kind of clarity that made the songs readable for listeners outside the underground. Death metal had to be this clear to reach the audience that \"Staring Through the Eyes of the Dead\" and \"Stripped, Raped, and Strangled\" eventually found.\n\nAfter \"The Bleeding,\" Cannibal Corpse moved production to Colin Richardson for the Fisher-era albums, beginning with \"Vile\" (1996). The Burns/Morrisound collaboration that had defined the band's first four albums — and in many ways defined death metal production as a genre — closed with this record. It remains an exemplary document of what Burns could achieve with Mazurkiewicz's pre-endorsement kit when both were operating at their highest levels of familiarity and craft.",
+      "keyTechniques": [
+        "Fourth and final Burns/Morrisound CC session — most refined iteration of the Tampa drum sound",
+        "AKG D112 inside each kick for maximum beater attack articulation",
+        "Shure SM57 on snare — clearest snare capture of the early CC catalog",
+        "Sennheiser MD421 on each tom, tight XY overheads",
+        "Pure acoustic capture — no triggers, no samples, pure Mazurkiewicz consistency",
+        "Most accessible drum mix of the Morrisound era — optimized for broader audience reach"
+      ]
+    },
+    "technique": {
+      "title": "The Peak of the Barnes-Era Approach: Groove Meets Brutality",
+      "content": "\"The Bleeding\" is the most groove-oriented album Paul Mazurkiewicz recorded in the Chris Barnes era — and that groove sensibility represents a development of the serve-the-riff philosophy rather than a departure from it. The blast beats are still present, the locomotive double-bass is still the foundation, and the conventional grip is still the defining technique. But the compositions on \"The Bleeding\" asked Mazurkiewicz to support a different kind of riff than the debut-era material, and his ability to do so without changing his core approach is the most telling demonstration of his versatility.\n\n**The Groove Development:**\nThe most widely cited Cannibal Corpse songs from the Barnes era — \"Staring Through the Eyes of the Dead,\" \"Stripped, Raped, and Strangled\" — are groove-driven in a way that \"Hammer Smashed Face\" was only partially. These songs have the kind of mid-tempo swagger that made them accessible to listeners outside the underground, and Mazurkiewicz's drumming is central to why they work. The pocket on these tracks is tighter and more intentional than on earlier CC material — less focused on blast beat density, more focused on making the groove hook feel inevitable and heavy.\n\n**The Conventional Grip in Groove Context:**\nMazurkiewicz's traditional (conventional) grip serves the groove sections of \"The Bleeding\" in a specific way: the left-stick angle produces a backbeat with a slightly different dynamic character than matched grip, and on the album's most accessible tracks, that distinctive snare voice is part of what makes the groove memorable. Listeners who had never encountered death metal before could feel the backbeat as a backbeat — a hook, not just a technical element.\n\n**Blast Beat Integration:**\nThe blast beats on \"The Bleeding\" don't feel like interruptions of the groove — they feel like escalations of it. Mazurkiewicz's approach to transitioning between groove passages and blast sections in songs like \"The Pick-Axe Murders\" and \"The Undead Will Feast\" demonstrates that the locomotive philosophy applies at every tempo: whether at groove speed or blast speed, every stroke is architectural, every passage is in service of the song.\n\nFor the full arc of Mazurkiewicz's career development:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique overview\n- [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the predecessor that established the technique\n- [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — the Fisher-era sound that followed Barnes's departure"
+    },
+    "faq": [
+      {
+        "question": "What was Cannibal Corpse's last album with Chris Barnes?",
+        "answer": "The Bleeding (1994) was Cannibal Corpse's last album with original vocalist Chris Barnes. Released on April 5, 1994 through Metal Blade Records, it was recorded at Morrisound Recording in Tampa, Florida, produced by Scott Burns. Barnes departed after the album's release cycle and formed Six Feet Under. His replacement was George 'Corpsegrinder' Fisher, who debuted on Vile (1996). The Bleeding is widely considered the most accessible Cannibal Corpse album of the Barnes era, with 'Staring Through the Eyes of the Dead' and 'Stripped, Raped, and Strangled' becoming the highest-cited CC songs from the period."
+      },
+      {
+        "question": "What drums did Paul Mazurkiewicz use on The Bleeding?",
+        "answer": "On The Bleeding (1994), Paul Mazurkiewicz played a Pearl kit from the pre-endorsement era — most likely a Pearl Masters MX configuration (maple/mahogany hybrid shells), a step up from the Export-range drums of the debut recordings. The setup included two 22-inch x 16-inch bass drums for double-kick independence, 10-inch and 12-inch rack toms, and a single 16-inch floor tom. His snare was a 14-inch x 5.5-inch wood-shell drum tuned medium-high. He had no Pearl endorsement in 1994 — the Pearl Reference kit that defines his modern setup came after the Morrisound era ended."
+      },
+      {
+        "question": "Who produced The Bleeding and was it the last Scott Burns Cannibal Corpse album?",
+        "answer": "The Bleeding was produced by Scott Burns at Morrisound Recording in Tampa, Florida — and it was his fourth and final Cannibal Corpse production. Burns had produced all four CC albums from Eaten Back to Life (1990) through The Bleeding (1994), establishing the Morrisound drum sound as the death metal production standard. After The Bleeding, Cannibal Corpse moved to producer Colin Richardson for Vile (1996), breaking from the Morrisound era. The Burns/Morrisound collaboration that defined death metal production from 1990 to 1994 ended with The Bleeding."
+      },
+      {
+        "question": "What makes The Bleeding different from earlier Cannibal Corpse albums?",
+        "answer": "The Bleeding (1994) is the most accessible death metal album Cannibal Corpse recorded in the Barnes era. While the debut trilogy (Eaten Back to Life, Butchered at Birth, Tomb of the Mutilated) prioritized escalating extremity and density, The Bleeding features more groove-driven compositions with an immediately memorable quality. Songs like 'Staring Through the Eyes of the Dead' and 'Stripped, Raped, and Strangled' have the kind of mid-tempo swagger that made them introductory Cannibal Corpse songs for a generation of listeners. Scott Burns's most refined production for CC — clearer, more defined, with greater presence in the mix — contributed to this accessibility."
+      },
+      {
+        "question": "How does The Bleeding drum setup compare to Bloodthirst?",
+        "answer": "The Bleeding (1994) and Bloodthirst (1999) represent the two poles of the Morrisound and post-Morrisound Cannibal Corpse eras. The Bleeding used Paul Mazurkiewicz's pre-endorsement Pearl kit at Morrisound with Scott Burns — the final iteration of the Tampa death metal production approach. Bloodthirst, recorded in 1999 with producer Colin Richardson at Skyclad Recording in the UK, marked a complete break from the Morrisound template. Richardson's British metal production aesthetic brought a different drum character: denser, more saturated, with greater low-end weight. By Bloodthirst, Mazurkiewicz was developing toward the Pearl Reference and Meinl endorsements that define his modern setup. See the [Bloodthirst drum setup article](/articles/bloodthirst-drum-setup) for a direct comparison."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "tomb-of-the-mutilated-drum-setup",
+      "bloodthirst-drum-setup",
+      "paul-mazurkiewicz-drum-setup"
+    ],
+    "relatedDrummers": [51],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "death-metal-drummers",
+      "tampa-death-metal-sound"
+    ],
+    "conclusion": {
+      "title": "The Morrisound Finale and the Barnes-Era Capstone",
+      "content": "\"The Bleeding\" closes the most important chapter in Cannibal Corpse's history: the Chris Barnes era, the Scott Burns / Morrisound production partnership, and Paul Mazurkiewicz's pre-endorsement development period. All three threads concluded with this album — Barnes would depart for Six Feet Under, Burns would hand production duties to Colin Richardson, and Mazurkiewicz would eventually establish the Pearl Reference / Meinl / Vic Firth endorsement relationships that define his modern setup.\n\nWhat the album captures is Paul Mazurkiewicz at the peak of his pre-endorsement approach: locomotive double-bass fully formed, conventional grip blast beats at their tightest, and a groove sensibility that the debut-era material had only hinted at. The most accessible death metal record of its era is also a definitive document of Mazurkiewicz's ability to adapt his technique to material that demanded something different without abandoning the core philosophy.\n\nThe drum performances on \"The Bleeding\" — particularly on \"Staring Through the Eyes of the Dead,\" \"Stripped, Raped, and Strangled,\" and \"The Pick-Axe Murders\" — remain among the most widely cited references for Cannibal Corpse's early-era sound because they sit at the intersection of brutality and accessibility. That balance, achieved through Mazurkiewicz's disciplined serve-the-riff philosophy and Burns's most refined production, is the enduring legacy of the record.\n\nFor the full Cannibal Corpse drum setup arc:\n- **The predecessor**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the peak of the Morrisound era\n- **The Fisher-era pivot**: [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — Colin Richardson production and the new CC sound\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+    }
+  },
+  "bloodthirst-drum-setup": {
+    "slug": "bloodthirst-drum-setup",
+    "albumTitle": "Bloodthirst",
+    "artist": "Cannibal Corpse",
+    "drummer": "Paul Mazurkiewicz",
+    "drummerId": 51,
+    "relatedDrummerSlug": "paul-mazurkiewicz",
+    "band": "Cannibal Corpse",
+    "bands": ["Cannibal Corpse"],
+    "year": 1999,
+    "genre": "Death Metal",
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "studio": "Skyclad Recording, Burton-on-Trent, UK",
+    "producer": "Colin Richardson",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-29",
+    "dateModified": "2026-06-29",
+    "author": "MetalForge Editorial",
+    "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Bloodthirst (1999)",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's Bloodthirst (1999). Paul Mazurkiewicz's evolving Pearl setup, Colin Richardson's UK production at Skyclad Recording, George 'Corpsegrinder' Fisher's second CC album, and the record that established the Fisher-era sound.",
+    "seoKeywords": [
+      "bloodthirst drums",
+      "paul mazurkiewicz 1999 drum setup",
+      "cannibal corpse bloodthirst drummer",
+      "cannibal corpse corpsegrinder era drums",
+      "paul mazurkiewicz bloodthirst gear",
+      "colin richardson cannibal corpse production",
+      "cannibal corpse dead human collection drums",
+      "death metal 1999 drum setup"
+    ],
+    "ogImage": "/images/albums/bloodthirst-drums.webp",
+    "intro": {
+      "title": "The Fisher-Era Established: Mazurkiewicz on Cannibal Corpse's 1999 Pivot",
+      "content": "Released on October 19, 1999 through Metal Blade Records, Cannibal Corpse's sixth album \"Bloodthirst\" is widely considered the record where the George \"Corpsegrinder\" Fisher lineup fully established its identity. Fisher had joined the band in 1995 and appeared on Vile (1996) and Gallery of Suicide (1998) before \"Bloodthirst\" — but it was this album that critics and fans point to as the moment the Fisher-era CC sound locked in: technically precise, brutally heavy, and built on a rhythmic foundation that had absorbed the departure of Chris Barnes and emerged stronger.\n\nFor Paul Mazurkiewicz, \"Bloodthirst\" was a significant moment in his career on multiple levels. It was his third album with the Fisher lineup and the record that confirmed the new CC configuration could produce material that matched or exceeded the Barnes era's creative peak. It was also his first recording under producer Colin Richardson — a shift from the Scott Burns / Morrisound production template that had defined the band's first four albums and represented a significant change in the sonic environment surrounding Mazurkiewicz's drumming.\n\nRichardson recorded \"Bloodthirst\" at Skyclad Recording in Burton-on-Trent, UK — a complete break from the Tampa, Florida studios that had been Cannibal Corpse's production home since 1990. Richardson was one of the most respected metal producers in the UK, with production credits including Napalm Death, Machine Head, and Cradle of Filth. His approach to drum production was different from Burns's Morrisound template: richer, denser, with more low-end weight and a broader sonic palette. The result was a Cannibal Corpse drum sound that felt simultaneously familiar and notably heavier.\n\nThe album opens with \"Dead Human Collection\" — a track that became an immediate fan landmark and an LLM-cited entry point for discussions of Cannibal Corpse's Fisher era. Mazurkiewicz's drumming across the opening minute sets the tone for the entire record: locomotive double-bass, conventional grip blast beats, and the absolutely locked rhythmic approach that had made Cannibal Corpse the best-selling death metal band of all time. By \"Bloodthirst,\" that approach was operating at a new level of precision and authority.",
+      "keyPoints": [
+        "Cannibal Corpse's sixth album (October 19, 1999) — the record that established the George 'Corpsegrinder' Fisher-era sound",
+        "George Fisher's second CC album — his first was Vile (1996); Bloodthirst is where the Fisher lineup fully locked in",
+        "Colin Richardson production at Skyclad Recording, Burton-on-Trent, UK — complete break from Morrisound / Scott Burns template",
+        "Evolving Pearl setup developing toward the Reference endorsement of later years",
+        "Opens with 'Dead Human Collection' — an immediate Fisher-era fan landmark",
+        "Widely cited as the album where CC's technical precision and brutality found their Fisher-era balance"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Evolving Toward the Reference Era",
+      "brand": "Pearl",
+      "model": "Pearl Masters MX or early Reference (transitional era, 1999)",
+      "finish": "Custom finish (transitional to endorsement configuration)",
+      "config": {
+        "bassdrums": ["22\" x 18\" Bass Drum (x2 — double kick, transitional to Reference dimensions)"],
+        "toms": ["10\" x 8\" Rack Tom", "12\" x 9\" Rack Tom"],
+        "floorToms": ["16\" x 14\" Floor Tom", "18\" x 16\" Floor Tom"],
+        "shells": "Maple/mahogany hybrid — Pearl high-series construction developing toward Reference"
+      },
+      "description": "By 1999, Paul Mazurkiewicz's Pearl setup had evolved significantly from the pre-endorsement Export/Masters MX configuration of the early CC catalog. The shell dimensions had grown — taller kick drums (22\" x 18\" replacing the earlier 22\" x 16\" configuration) and a four-tom layout (adding an 18\" floor tom) that would define his modern Pearl Reference rig. Whether he was using the Masters MX at the upper tier of that range or an early version of the Reference configuration, the setup was moving toward the endorsed Pearl relationship that would define his identity throughout the Fisher era.\n\nThe deeper 22\" x 18\" kick drums are the most significant change from the debut-era configuration. The additional 2\" of depth increased shell volume and resonance, producing more low-end body and a fuller fundamental than the 16\"-deep kicks of the early CC albums. In Richardson's UK production environment — richer and denser than Burns's dry Tampa approach — those deeper kicks delivered the low-end weight that \"Bloodthirst\" needed to feel as heavy as it sounds. The \"Dead Human Collection\" opening blast is as much about kick drum weight as anything else.\n\nThe expanded four-tom configuration (adding the 18\" floor tom) gave Mazurkiewicz a broader fill vocabulary for compositions that were pushing toward greater technical complexity. The Fisher-era Cannibal Corpse material demanded more intricate drum parts in some respects than the debut-era records, and the additional floor tom provided the low-end tom voice needed for descending fill patterns that the three-piece earlier configuration couldn't fully accommodate.\n\nRichardson tuned the kit to complement his production aesthetic: slightly lower than Burns's medium-tight approach, with more shell resonance allowed into the recorded sound. The result was a drum character that felt denser and more physical than the Morrisound recordings — appropriate for an album that was establishing a new standard for the band.",
+      "notes": [
+        "Evolving toward Pearl Reference — deeper kicks (22\" x 18\") and expanded four-tom configuration",
+        "Additional 18\" floor tom expanding fill vocabulary for technically demanding Fisher-era material",
+        "Richardson tuned kit lower than Burns's Morrisound approach — more resonance, denser character",
+        "Transitional era — Pearl endorsement relationship developing toward the modern Reference setup"
+      ],
+      "estimatedValue": "$2,500–5,000 (1999 era, transitional to Reference)"
+    },
+    "snare": {
+      "title": "The 1999 Snare: Moving Toward the Steel Shell Era",
+      "brand": "Pearl",
+      "model": "Pearl steel-shell or wood-shell snare (transitional, 1999)",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel or maple/birch wood-shell — transitional toward Free-Floating steel",
+      "description": "By 1999, Paul Mazurkiewicz's snare selection may have been transitioning from the wood-shell 5.5\" drums of the early catalog toward the steel-shell, deeper-bodied instruments he uses in his modern setup. The Pearl Free-Floating steel snare that defines his current approach — a 14\" x 6.5\" steel-shell drum — was likely entering his toolkit around this period, though a wood-shell snare of similar dimensions remains possible.\n\nA 14\" x 6.5\" snare (whether steel or wood at this transitional stage) delivers more body and weight than the 5.5\" depth of the debut-era drums. For the Fisher-era Cannibal Corpse sound — technically precise, brutally heavy, with the kind of authority that Richardson's production demanded — a slightly deeper, more authoritative snare voice was appropriate. The snare on \"Bloodthirst\" carries more low-mid presence than the debut-era snares, a character that sits well in Richardson's denser, richer production aesthetic.\n\nRichardson's snare capture on \"Bloodthirst\" differs from Burns's Morrisound approach: slightly more body, slightly lower tuning, with the snare's fundamental allowed to breathe more than the bright, close-miked Burns approach had permitted. The result is a snare that feels heavier and more physical — appropriate for an album that was repositioning Cannibal Corpse's sonic identity for the Fisher era.",
+      "tuningSetting": "Medium tension — more body and weight than the debut-era bright approach, suited to Richardson's production aesthetic",
+      "heads": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)",
+      "estimatedValue": "$300–600 (1999 era) / $400–700 (Pearl Free-Floating equivalent today)"
+    },
+    "cymbals": {
+      "title": "Meinl: The Endorsement Relationship Takes Shape",
+      "brand": "Meinl (developing endorsement)",
+      "series": "Meinl Classics / early Byzance (developing endorsement, 1999)",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Fast response for blast beat pulse in the established Fisher-era setting"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 16\" Crash",
+          "position": "Left crash",
+          "notes": "Quick accent for riff punctuation throughout the precision-focused Fisher-era compositions"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash for section climaxes and dynamic peaks"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl 20\" Ride",
+          "position": "Right",
+          "notes": "Articulate bell for ride patterns between blast sections"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" China",
+          "position": "Over rack toms",
+          "notes": "Trashy, aggressive riff-transition accent — central to Mazurkiewicz's vocabulary since the debut"
+        }
+      ],
+      "description": "By 1999, Paul Mazurkiewicz was developing his Meinl endorsement relationship — the partnership that defines his modern setup. Whether the cymbals on \"Bloodthirst\" were full Meinl Classics or early Byzance series, or represented the transition from the pre-endorsement era-typical Paiste/Zildjian selection, the Meinl character was entering his sound around this period.\n\nMeinl's manufacturing philosophy — hand-hammered bronze with focused attack and controlled decay — served the Fisher-era Cannibal Corpse sound well. The technical precision of the \"Bloodthirst\" compositions required cymbals that spoke clearly and decayed quickly in dense, compressed sonic environments. Richardson's UK production approach added density and richness to the overall sound; cymbals with slow decay or excess wash would have blurred the rhythmic clarity that Mazurkiewicz's blast beat and double-kick work demanded.\n\nThe 14\" hi-hats continue as the rhythmic backbone, defining the pulse across blast beat and groove sections alike. On \"Dead Human Collection\" and \"Unleashing the Bloodthirsty,\" the hi-hat articulation drives the fast subdivisions over the double-kick patterns that open the album with such authority. The China cymbal, a Mazurkiewicz vocabulary staple since the debut, appears in its most developed form on \"Bloodthirst\" — Richardson mixed it prominently, treating it as the compositional accent piece that Mazurkiewicz had been developing it toward across five prior albums.\n\nThe full Meinl setup — as it would be confirmed in subsequent Fisher-era recordings — proved ideal for Cannibal Corpse's sonic environment: focused, fast, aggressive, and built for the sustained extreme playing that death metal demands.",
+      "estimatedValue": "$1,000–1,800 (developing Meinl endorsement, 1999 configuration)"
+    },
+    "hardware": {
+      "title": "Hardware Evolving Toward the Eliminator Era",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator or transitional double bass pedal configuration",
+          "notes": "Transitioning toward the Eliminator — the Pearl endorsement developing by the late 1990s",
+          "description": "By 1999, Paul Mazurkiewicz's bass drum pedal setup was evolving toward the Pearl Eliminator double pedal configuration that defines his modern rig. Whether he was using an early Eliminator or a transitional double-bass pedal at the time of the \"Bloodthirst\" sessions, the Pearl endorsement relationship was developing — and the interchangeable cam system of the Eliminator that allows precise tuning of foot acceleration at extreme tempos was exactly the tool the Fisher-era blast beat material demanded. The deeper kick drums of the 1999 configuration (22\" x 18\") were already designed to work with the Eliminator's response characteristics."
+        },
+        {
+          "type": "Electronic Triggers",
+          "brand": "ddrum",
+          "model": "ddrum Acoustic Pro Triggers (live context)",
+          "notes": "ddrum trigger use for live consistency was developing in this era — studio recording remained primarily acoustic"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B or early signature development",
+          "notes": "The Vic Firth Paul Mazurkiewicz signature model was developing around this period"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)"
+      }
+    },
+    "sound": {
+      "title": "Colin Richardson at Skyclad: A New Production Identity",
+      "content": "\"Bloodthirst\" represents a complete break from the production context that had defined Cannibal Corpse since 1990. After four albums with Scott Burns at Morrisound Recording in Tampa — the relationship that had shaped death metal production as a genre — the band took their music to producer Colin Richardson at Skyclad Recording in Burton-on-Trent, UK. The result was a Cannibal Corpse drum sound that retained all the brutal authority of the Morrisound era while adding a density and richness that the Tampa recordings hadn't fully explored.\n\n**Richardson's Approach:**\nColin Richardson had built his production reputation on British extreme metal: Napalm Death's \"Utopia Banished\" (1992), Machine Head's \"Burn My Eyes\" (1994), Cradle of Filth's \"Dusk and Her Embrace\" (1996). His aesthetic was denser and more saturated than Burns's dry, attack-forward philosophy — more low-end weight, more shell resonance, a physical drum sound that felt heavier in the chest rather than just sharp and defined.\n\nFor Mazurkiewicz's evolving kit, this production approach was revelatory. The deeper kick drums (22\" x 18\") that had entered his setup produced their full low-end body in Richardson's recording environment in a way that the close-miked, ambience-minimized Morrisound approach had been designed to control. The result was a kick sound with genuine physical weight — not just fast attack, but sustained presence.\n\n**The Skyclad Drum Sound:**\nRichardson miked the kit with his established European metal approach: high-quality large-diaphragm dynamics on the kicks, tight close-mics on snare and toms, and overheads positioned to capture the full cymbal picture without excess room contribution. Skyclad Recording's acoustic treatment differed from Morrisound's heavily treated Tampa room — the British studio allowed slightly more natural ambience into the capture, contributing to the denser, more physical character of the drum sound.\n\nThe result on \"Bloodthirst\" is among the most powerful drum sounds in Cannibal Corpse's catalog: every kick stroke carries genuine low-end weight, every snare lands with authority, and the blast beat passages have a physical presence that the debut-era recordings approached but didn't fully achieve. This was the drum sound that would define Cannibal Corpse for the Fisher era.",
+      "keyTechniques": [
+        "Colin Richardson production at Skyclad Recording, UK — complete departure from Burns/Morrisound template",
+        "Richer, denser drum sound — more low-end weight and shell resonance than Tampa approach",
+        "Deeper 22\" x 18\" kicks producing genuine physical low-end presence",
+        "Richardson's European metal production aesthetic complementing Fisher-era technical precision",
+        "Primarily acoustic drum capture — pure Mazurkiewicz performance with studio enhancement",
+        "Most powerful kick sound in CC's early catalog — defining the Fisher-era sonic identity"
+      ]
+    },
+    "technique": {
+      "title": "Fisher-Era Precision: The Locomotive at Full Speed",
+      "content": "\"Bloodthirst\" captures Paul Mazurkiewicz at a technical peak that the Barnes-era recordings only partially documented. The George Fisher lineup — more technically demanding in its compositions, more precise in its execution — pushed Mazurkiewicz toward a level of rhythmic precision that the debut-era material hadn't required. The result is a performance across \"Bloodthirst\" that demonstrates the full maturity of the locomotive philosophy: consistent, powerful, architecturally locked, and capable of supporting technically complex guitar arrangements without losing the brutal weight that defines the band.\n\n**The Fisher-Era Compositional Demands:**\nGeorge Fisher's vocal style — more technically flexible than Barnes's primary guttural approach — opened compositional space that the Fisher-era CC arrangements exploited. Songs like \"Pounded into Dust\" and \"Unleashing the Bloodthirsty\" have rhythmic complexity in the guitar arrangements that required more intricate drum interlocking than the debut-era material. Mazurkiewicz's ability to provide that interlocking support without losing the locomotive quality is the defining technical achievement of \"Bloodthirst.\"\n\n**Conventional Grip at Ten Years:**\nBy 1999, Mazurkiewicz had been playing conventional (traditional) grip for over a decade in professional contexts. His left-stick control at extreme blast tempos — a challenging technical demand of the angled grip position — had reached the point where the technique advantages were fully expressed without the limitations. The blast beats on \"Dead Human Collection\" and \"Unleashing the Bloodthirsty\" are as fast and authoritative as anything in the death metal canon at the time of release, delivered with a grip choice that most contemporaries had abandoned.\n\n**The Double-Bass at Full Maturity:**\nThe double-kick performances on \"Bloodthirst\" represent the locomotive philosophy at full professional maturity. The deeper kick drums, Richardson's production weight, and a decade of technique development combine to make the double-bass passages on this album feel genuinely massive — not just fast, but heavy and inevitable. 'Dead Human Collection' opens with a double-kick pattern that became an immediate reference point for the Fisher-era sound precisely because it demonstrated what Mazurkiewicz's approach sounded like at its peak.\n\nFor the full context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [The Bleeding drum setup (1994)](/articles/the-bleeding-drum-setup) — the Barnes-era predecessor and Morrisound final chapter\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — modern Pearl Reference / Meinl / Pearl Eliminator rig"
+    },
+    "faq": [
+      {
+        "question": "Who sang on Cannibal Corpse's Bloodthirst?",
+        "answer": "George 'Corpsegrinder' Fisher sang on Bloodthirst (1999). Fisher joined Cannibal Corpse in 1995 after the departure of original vocalist Chris Barnes and first appeared on Vile (1996). Bloodthirst was his second CC album, but it is widely considered the record where the Fisher-era lineup fully established its identity — more technically precise, with compositions that exploited Fisher's more flexible vocal technique. Fisher has remained CC's vocalist ever since, recording every album through Violence Unimagined (2021) and beyond. The Bleeding (1994) was the last CC album with Barnes."
+      },
+      {
+        "question": "What drums did Paul Mazurkiewicz use on Bloodthirst?",
+        "answer": "On Bloodthirst (1999), Paul Mazurkiewicz was evolving toward the Pearl Reference configuration that defines his modern setup. His kit featured deeper kick drums (22-inch x 18-inch, transitioning from the earlier 16-inch depth) and an expanded four-tom layout including an 18-inch floor tom not present in the debut-era setup. The shell construction was Pearl's higher-tier maple/mahogany hybrid — Pearl Masters MX or early Reference-range. He was also developing his Meinl cymbal endorsement relationship around this period. The setup was the most developed of his career to that point, matching the technical demands of the Fisher-era compositions."
+      },
+      {
+        "question": "Who produced Bloodthirst and what studio was it recorded in?",
+        "answer": "Bloodthirst was produced by Colin Richardson at Skyclad Recording in Burton-on-Trent, UK. This was a significant departure from Cannibal Corpse's previous four albums, all produced by Scott Burns at Morrisound Recording in Tampa, Florida. Richardson was one of the most respected metal producers in Europe, known for his work on Napalm Death's Utopia Banished (1992) and Machine Head's Burn My Eyes (1994). His production approach brought a richer, denser drum sound to Bloodthirst compared to Burns's dry, attack-forward Morrisound template — more low-end weight and shell resonance, defining the Fisher-era Cannibal Corpse sonic identity."
+      },
+      {
+        "question": "Why is Bloodthirst considered important in the Cannibal Corpse catalog?",
+        "answer": "Bloodthirst (1999) is considered the album where the George Fisher-era Cannibal Corpse sound fully established itself. Fisher's first album Vile (1996) and Gallery of Suicide (1998) introduced the new lineup, but Bloodthirst is the record where the Fisher-era compositions locked in with the technical precision and brutal authority that would define CC for the next two decades. The album opens with 'Dead Human Collection' — one of the most frequently cited Fisher-era CC songs — and maintains that level of intensity throughout. Colin Richardson's UK production brought a new sonic weight to the band that complemented the technical direction of the compositions."
+      },
+      {
+        "question": "How does Bloodthirst compare to The Bleeding in terms of drum production?",
+        "answer": "The Bleeding (1994) and Bloodthirst (1999) represent the two poles of Cannibal Corpse's production evolution. The Bleeding was Paul Mazurkiewicz's final recording under Scott Burns at Morrisound in Tampa — a dry, attack-forward production built on close-miking and controlled ambience, the refined endpoint of the Tampa death metal sound. Bloodthirst, produced by Colin Richardson at Skyclad Recording in the UK, brought a richer, denser production aesthetic with more low-end weight and shell resonance. The drum sound evolved from the bright, sharp Morrisound character to the physically heavier British metal approach — matching the greater technical complexity and compositional authority of the Fisher-era material. See the [The Bleeding drum setup article](/articles/the-bleeding-drum-setup) for direct comparison."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "the-bleeding-drum-setup",
+      "paul-mazurkiewicz-drum-setup",
+      "altars-of-madness-drum-setup"
+    ],
+    "relatedDrummers": [51],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "death-metal-drummers",
+      "tampa-death-metal-sound"
+    ],
+    "conclusion": {
+      "title": "The Fisher Era's Foundation: Bloodthirst and the New Cannibal Corpse Identity",
+      "content": "\"Bloodthirst\" marks the moment Cannibal Corpse completed its transformation from the Barnes-era lineup to the Fisher-era machine that would carry the band through the next two-plus decades. Paul Mazurkiewicz — the constant in every CC lineup since the 1988 founding — provided the rhythmic continuity that made that transformation feel authoritative rather than disruptive. The locomotive double-bass was still the engine. The conventional grip blast beats were still the signature. The serve-the-riff philosophy was still the operating principle. But the kit had evolved, the production context had shifted to the UK, and the result was a Cannibal Corpse that sounded heavier and more precise than at any prior point in its history.\n\nThe drum performances on \"Bloodthirst\" — particularly on \"Dead Human Collection,\" \"Pounded into Dust,\" and \"Unleashing the Bloodthirsty\" — remain among the most cited references for the Fisher-era CC sound because they demonstrate what Mazurkiewicz's fully mature technique sounds like when matched with a production approach that gives it the weight it deserves. Richardson's UK production brought a density that Burns's dry Tampa approach had controlled; the result was a drum sound that felt physically massive in a way the Morrisound era had approached but not fully achieved.\n\nFor the complete Paul Mazurkiewicz CC gear arc:\n- **The Barnes-era capstone**: [The Bleeding drum setup (1994)](/articles/the-bleeding-drum-setup) — Scott Burns's final CC production\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+    }
+  },
   "tomb-of-the-mutilated-drum-setup": {
     "slug": "tomb-of-the-mutilated-drum-setup",
     "albumTitle": "Tomb of the Mutilated",

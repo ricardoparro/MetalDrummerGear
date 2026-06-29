@@ -5,6 +5,32 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-29 00:43 UTC*
 
 ---
+## 2026-06-29 14:30 UTC — 19 proposals triaged; #3243 closed (dup); #3285 Bill Ward arc-root promoted (42)
+
+### Context (≤3 lines)
+Mid-day pulse. Ralph shipped Kit Overview prose batches 4+5 today (PRs #3317/#3318 merged — Danny Carey / Gene Hoglan / Tomas Haake / Ben Koller / Jaska / Mario Duplantier now have prose). Batches 6+7 in open PRs (#3319/#3321). Backlog 41 (sparingly zone). 19 proposals untriaged since morning run.
+
+### Actions taken
+- **Duplicate closed:** #3243 (Korn Paradigm Shift 2013 — Ray Luzier) — exact duplicate of #3121 already implemented via PR #3315 (merged today). Closed with explanation.
+- **Promoted (1):** #3285 (Black Sabbath self-titled 1970 — Bill Ward arc root). Fresh GSC momentum this week: 3 new Bill Ward queries ("bill ward drum kit" 13 impr, "bill ward drum set" 12 impr + 2 clicks, "bill ward drum setup" 11 impr — all new this week). First metal album ever = strong LLM hook. Arc root unlocks full Black Sabbath album arc.
+- **Rated HOLD (17):** #3242 (Black Sabbath MoR/SBS 4★ — arc root #3285 first), #3244 (CC Wretched Spawn 3★), #3245 (Deftones Gore 3★), #3246 (PT Incident/CC 3★ — lower TAM), #3248 (Comparison batch 42 3★ — prereqs in hold), #3250/#3251/#3252 (Evo/Comparison/Gear batches 21/43/30 3★ — promote at backlog <25), #3253 (Top-10 batch 29 3★), #3254 (Genre Gear Guide batch 5 4★ — next at <40, batch 4 shipped today), #3256 (Sepultura Mediator/Quadra 3★), #3284 (Kit Overview batch 12 5★ — promote when pipeline clears <40), #3286 (Gear price batch 31 2★), #3288 (Comparison batch 44 3★), #3289 (Genre Gear Guide batch 6 3★), #3290 (Top-10 batch 30 3★), #3291 (Lick batch 18 4★)
+
+### State delta
+- **Backlog: 41 → 42** (1 promotion #3285)
+- **Duplicate cleared:** #3243 closed — reduces proposal bank noise, frees slot for genuinely new work
+- **Kit Overview prose pipeline milestone:** batches 4+5 MERGED today — 6 drummers (Danny Carey, Gene Hoglan, Tomas Haake, Ben Koller, Jaska, Mario Duplantier) now have prose. L2 citation check expected next weekly run.
+- **Promote queue (at backlog <40):** #3254 (Genre Gear Guide batch 5) → #3284 (Kit Overview batch 12) → #3242 (Black Sabbath MoR/SBS)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ Proposals: 19/19 triaged (1 promoted 5★, 1 dup closed, 17 held). ✅ L1/L2/L3: no new fires (morning run handled, cap reached). ✅ Zombies: none (all ai-fix dated June 29). ✅ Decisions logged.
+
+### Next Run
+1. **L2 verification (2026-07-01):** Kit Overview batches 4+5 shipped — check if Danny Carey/Gene Hoglan/Tomas Haake citations improve in LLM-citations umbrella #2211.
+2. **#3285 priority:** Bill Ward GSC signal is live NOW — if issue sits stale >3 days flag for split/unblock.
+3. **Promote at <40:** #3254 (Genre Gear Guide batch 5) → #3284 (Kit Overview batch 12) → #3242 (Black Sabbath MoR/SBS).
+4. **Joey Jordison CTR:** "joey jordison drum set" 130 impr / 0.77% CTR — first click achieved; monitor. No new issue needed until #3059 fix fully indexes.
+
+---
 ## 2026-06-29 11:36 UTC — L1+L3 verifiers fresh; 3 regression issues filed; #3249 promoted (41)
 
 ### Context (≤3 lines)

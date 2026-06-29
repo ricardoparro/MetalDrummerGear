@@ -35,6 +35,12 @@ Ben Koller (born March 12, 1978) is an American drummer best known for his work 
 
 Beyond Converge, Koller maintains an impressive roster of projects including Mutoid Man (with Stephen Brodsky of Cave In), All Pigs Must Die, and Killer Be Killed. His relentless energy, creative approach, and ability to shift between genres while maintaining intensity has made him an icon in underground heavy music.
 
+## Kit Overview
+
+Ben Koller plays a Tama Starclassic Maple drum kit — the streamlined, hard-hitting configuration that powers Converge's unrelenting sonic brutality across two decades of hardcore and metalcore recordings. The Ben Koller drum set favors a raw, open approach: a Tama S.L.P. 14×6" Brass snare delivers the sharp, cutting crack that slices through Converge's dense guitar assault on Jane Doe, You Fail Me, and The Dusk in Us. A Tama Iron Cobra 900 double pedal anchors the kit — built for the sustained, blistering tempo Koller maintains through Converge's most demanding live sets.
+
+Zildjian K Dark Series cymbals define the Ben Koller drum sound: 14" K Dark Thin Hi-Hats for a dry, trashy chick that sits low in the mix; 18" and 19" K Dark Medium Thin Crashes for explosive, rapid-decay accents; a 21" K Custom Ride for controlled rhythmic definition; and an 18" K China for brutal, cutting punctuation. Vic Firth American Classic 5B sticks and Remo drumheads complete the rig. Koller's approach prioritizes power and dynamics over trigger-augmented precision — his kit is built for the organic, visceral impact that has defined Converge's sound since 1999.
+
 ## Band History
 
 - **Converge** — 1999–present (current)

@@ -1,0 +1,607 @@
+{
+  "generatedAt": "2026-06-29T11:40:34.719Z",
+  "sitemapUrlCount": 3264,
+  "sampledCount": 150,
+  "byUrl": {
+    "https://metalforge.io/articles/a-dramatic-turn-of-events-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/anthrax": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/abe-cunningham/cymbals": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/beginner-metal-drummer-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/abe-cunningham/licks/abe-cunningham-change-groove": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/lists/black-metal-drummers": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/aenima-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/behemoth": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/abe-cunningham/drums": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-death-metal": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/abe-cunningham/licks/abe-cunningham-digital-bath-groove": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/lists/death-metal-drummers": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bpm": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/altars-of-madness-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/cannibal-corpse": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/abe-cunningham/hardware": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-thrash-metal": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/abe-cunningham/licks/abe-cunningham-my-own-summer-groove": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/lists/drummers-with-budget-friendly-kits": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guess-the-kit": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/and-justice-for-all-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/death": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/abe-cunningham/snare": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/budget-metal-drum-setup-1000": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/alex-bent/licks/alex-bent-betrayer-groove": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/lists/fastest-double-bass-drummers": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/tools": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/aquiles-priester-drum-kit-guide": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/deftones": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/abe-cunningham/sticks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/budget-metal-drum-setup-2000": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/alex-bent/licks/alex-bent-beyond-oblivion-groove": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/lists/fastest-metal-drummers": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/tools/compare": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/aquiles-priester-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/dream-theater": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/alex-bent/cymbals": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/budget-metal-drum-setup-500": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/alex-bent/licks/alex-bent-sin-and-sentence-groove": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/lists/most-brutal-drum-solos": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/tools/metal-drummer-name-generator": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/arin-ilejay-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/gojira": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/alex-bent/drums": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-brann-dailor": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/aquiles-priester/licks/aquiles-priester-heroes-of-sand": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/lists/most-expensive-drum-setups": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/ashes-of-the-wake-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/korn": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/alex-bent/hardware": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-chris-adler": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/aquiles-priester/licks/aquiles-priester-rebirth": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/lists/most-innovative-drummers": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/ben-koller-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/kublai-khan-tx": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/alex-bent/snare": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-danny-carey": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/aquiles-priester/licks/aquiles-priester-spread-your-fire": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/lists/nu-metal-drummers": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/battles": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/beneath-the-remains-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/limp-bizkit": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/alex-bent/sticks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-dave-lombardo": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/arin-ilejay/licks/arin-ilejay-god-forsaken-fill-cascade": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/lists/progressive-metal-drummers": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/birthdays": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/black-album-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/meshuggah": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/aquiles-priester/cymbals": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-flo-mounier": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/arin-ilejay/licks/arin-ilejay-hail-to-the-king-halftime": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/lists/thrash-metal-drummers": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bpm-tap": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/blackwater-park-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/metallica": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/aquiles-priester/drums": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-gene-hoglan": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/arin-ilejay/licks/arin-ilejay-shepherd-of-fire-double-bass": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/brands": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/blake-richardson-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/nile": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/aquiles-priester/hardware": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-george-kollias": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/art-cruz/licks/art-cruz-gomorrah-blast-groove": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/compare": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/brann-dailor-mastodon-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/pantera": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/aquiles-priester/snare": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-joey-jordison": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/art-cruz/licks/art-cruz-memento-mori-groove": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/breakdown-beat-guide": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/sepultura": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/aquiles-priester/sticks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-lars-ulrich": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/art-cruz/licks/art-cruz-new-colossal-hate-snare-bass": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/abe-cunningham/licks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/chaos-ad-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/slayer": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/arin-ilejay/cymbals": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-mario-duplantier": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/ben-koller/licks/ben-koller-aimless-arrow-hardcore": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/alex-bent/licks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/charlie-benante-among-the-living-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/slipknot": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/arin-ilejay/drums": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-matt-greiner": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/ben-koller/licks/ben-koller-concubine-grind": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/aquiles-priester/licks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/chris-turner-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/suicidal-tendencies": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/arin-ilejay/hardware": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-matt-halpern": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/ben-koller/licks/ben-koller-dark-horse-fills": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/arin-ilejay/licks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/cowboys-from-hell-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/bands/tool": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/arin-ilejay/snare": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-tomas-haake": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/bill-ward/licks/bill-ward-iron-man-groove": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/art-cruz/licks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/daniel-erlandsson-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/arin-ilejay/sticks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/guides/how-to-sound-like-travis-orbin": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/bill-ward/licks/bill-ward-nib-shuffle": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/ben-koller/licks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/daray-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/art-cruz/cymbals": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/bill-ward/licks/bill-ward-war-pigs-groove": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/bill-ward/licks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/derek-roddy-hate-eternal-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/art-cruz/drums": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/blake-richardson/licks/blake-richardson-lay-ghosts-double-bass": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/blake-richardson/licks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/double-bass-drumming-for-metal": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/art-cruz/hardware": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/blake-richardson/licks/blake-richardson-prequel-sequel-7-8": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/brann-dailor/licks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/dystopia-drum-setup": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/art-cruz/snare": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/blake-richardson/licks/blake-richardson-telos-progressive-fills": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/charlie-benante/licks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/articles/fastest-double-bass-drummers": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummer/art-cruz/sticks": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/brann-dailor/licks/brann-dailor-blood-and-thunder-groove": {
+      "class": "no-jsonld",
+      "problems": []
+    },
+    "https://metalforge.io/drummers/chris-adler/licks": {
+      "class": "no-jsonld",
+      "problems": []
+    }
+  }
+}

@@ -51,7 +51,17 @@
     <meta name="title" content="MetalForge — Discover What Pro Metal Drummers Play" />
     <meta name="description" content="Explore the drum kits, cymbals, and gear used by 60+ legendary metal drummers. Discover what Lars Ulrich, Joey Jordison, Dave Lombardo and more play, compare setups, and find your perfect gear." />
     <link rel="canonical" href="https://metalforge.io/" />
-    
+    <!-- Issue #3280: self-canonicalize immediately so SPA routes never bleed the
+         homepage canonical onto article/list pages before React mounts. Runs
+         synchronously during HTML parsing — Googlebot sees the correct canonical
+         from the first byte, not after async data loads. -->
+    <script>
+      (function(){
+        var c=document.querySelector('link[rel="canonical"]');
+        if(c){c.setAttribute('href','https://metalforge.io'+window.location.pathname);}
+      })();
+    </script>
+
     <!-- AI/LLM Discovery -->
     <link rel="alternate" type="text/plain" href="https://metalforge.io/llms.txt" title="LLM Site Information" />
 

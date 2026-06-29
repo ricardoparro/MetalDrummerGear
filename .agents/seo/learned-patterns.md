@@ -72,6 +72,10 @@ _(Empty — first entries will be appended after 60-day nulls or 3 consecutive l
 
 `L1 first-snapshot summary (2026-06-27)`: 43 new queries surfaced (first run — no prior week for win/loss classification). Joey Jordison cluster dominates: 134 impr "drum set" + 85 impr "drum kit" + 5-18 impr across 8+ variants. No big-wins or big-losses (baseline only). Next actionable snapshot: 2026-07-01.
 
+`joey-jordison CTR fix shipped (2026-06-29 evening)`: #3059 (title/meta CTR fix) CLOSED — implemented by Ralph. `joey jordison drum set` 130 impr / 0.77% CTR fix now in production. Expect CTR lift in next L1 snapshot (2026-07-01) once re-indexed. Target ≥2% CTR.
+
+`L1 secondary wins (2026-06-29)`: `nick augusto` impr 7→34 (pos 12.4→9.9) · `jocke wallgren` pos 17.7→11.3 · `mario duplantier cymbals` pos 12.9→7.8 — all consistent with album-arc content + profile page pattern. Confirms existing ✅ Promote rules scale to moderate-TAM entities. No new pattern entry needed.
+
 ## 📦 Archived watches
 
 *(Queries removed from `watched-queries.json` because they showed 3 consecutive null verdicts. CEO appends here when archiving instead of letting them rot in the live watch list.)*

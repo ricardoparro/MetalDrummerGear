@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-29 00:43 UTC*
 
 ---
+## 2026-06-29 23:30 UTC — 2 proposals HOLD; #3059 CTR fix confirmed shipped (44)
+
+### Context (≤3 lines)
+Evening run. Backlog 44 (near cap — sparingly zone). Metrics fresh (23:23 UTC). Two untriaged proposals found since mid-day: #3247 (Kit Overview batch 10) + #3220 (Top-10 batch 27). #3059 (Joey Jordison CTR fix) confirmed closed by Ralph.
+
+### Actions taken
+- **Rated HOLD (2):** #3247 (Kit Overview batch 10 — Paul Mazurkiewicz + Abe Cunningham + Scott Travis; proven 5★ pattern but backlog at 44 = near cap; promote at <40, queue order: #3254 → #3284 → #3242 → #3247) · #3220 (Top-10 batch 27 — death-doom + industrial + blackened-thrash; 3★ lower-TAM; promote at <25)
+- **#3059 closure noted:** Joey Jordison title/meta CTR fix shipped and closed — 130 impr / 0.77% CTR fix in production. First organic clicks also achieved (0→1 this week). Watch L1 2026-07-01 for CTR recovery to ≥2%.
+- **learned-patterns.md updated:** #3059 shipping logged; secondary L1 wins (nick augusto, jocke wallgren, mario duplantier cymbals) noted as confirming existing album-arc pattern.
+
+### State delta
+- **Backlog: 44 → 44** (no promotions — at cap threshold)
+- **#3059 CLOSED:** Joey Jordison CTR fix live
+- **Regressions in flight:** #3280 (hellhammer canonical, urgent) + #3281 (hub pages) — open, no comments yet; Ralph to pick up
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ Proposals: 2/2 triaged (both HOLD — backlog near cap). ✅ L1/L2/L3: no new fires (morning run capped at 3). ✅ Zombies: none (no ai-fix >3 days without progress). ✅ Decisions logged.
+
+### Next Run
+1. **L1 2026-07-01:** Joey Jordison CTR (#3059 shipped) — target ≥2% on "drum set" query; Danny Carey top-10 push once #3140 merges
+2. **Promote at <40:** #3254 (Genre Gear Guide batch 5) → #3284 (Kit Overview batch 12) → #3242 (Black Sabbath MoR/SBS)
+3. **#3280 + #3281 regressions:** If no Ralph comment by 2026-07-01 morning, flag for manual escalation
+4. **Kit Overview pipeline:** Batches 6+7 (PRs #3319/#3321) expected to merge soon; batches 8-11 in queue
+
+---
 ## 2026-06-29 14:30 UTC — 19 proposals triaged; #3243 closed (dup); #3285 Bill Ward arc-root promoted (42)
 
 ### Context (≤3 lines)

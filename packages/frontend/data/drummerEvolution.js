@@ -7783,6 +7783,836 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Mikkey Dee Gear Evolution Timeline | Motörhead & Scorpions Drum Kit History',
     metaDescription: 'Explore Mikkey Dee\'s complete drum gear evolution from King Diamond through 23 years with Motörhead to Scorpions. Pearl, Premier, Evans — the full timeline of one of metal\'s longest careers.',
   },
+
+  // ==========================================
+  // Chris Adler - Lamb of God (NWOAHM)
+  // ==========================================
+  'chris-adler': {
+    slug: 'chris-adler',
+    name: 'Chris Adler',
+    band: 'Lamb of God',
+    totalYearsActive: '1999-2019',
+    profileImage: '/images/drummers/chris-adler.webp',
+    summary: 'Chris Adler built Lamb of God\'s groove-driven New Wave of American Heavy Metal sound through three distinct endorsement eras — Mapex, DW, and Pearl — before a series of injuries ended his run with the band in 2019.',
+
+    eras: [
+      {
+        id: 'chris-adler-2000-nwoahm',
+        era: 'New American Gospel / As the Palaces Burn Era',
+        years: '1999-2003',
+        startYear: 1999,
+        endYear: 2003,
+        description: 'The Virginia groove-metal underground. Chris Adler entered the national scene with Lamb of God\'s Mapex Pro M rig — a workhorse midrange kit that delivered the tight, punchy sound on New American Gospel and As the Palaces Burn.',
+        albums: ['New American Gospel (2000)', 'As the Palaces Burn (2003)'],
+        tours: ['Early club touring', 'Ozzfest 2003'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex Pro M Series',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Mapex Pro M was a midrange workhorse chosen for its punchy maple tone and road durability. Chris used a standard 5-piece configuration during the early club years.',
+            change: null,
+          },
+          snare: {
+            item: 'Mapex Pro M 14"x6.5"',
+            details: 'Maple shell, chrome hardware',
+            notes: 'Matching maple snare. The depth provided the fat crack that became Adler\'s signature groove sound.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Standard Zildjian A setup — the industry-default choice for aggressive rock and metal in the early 2000s.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 5000 Double Pedal',
+            details: 'Chain-drive double pedal',
+            notes: 'Double bass setup consistent from the early years. Chris\'s precise double bass technique was central to LoG\'s groove-metal identity.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Hickory sticks',
+            notes: 'Standard hickory before any signature deals.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador / Pinstripe',
+            details: 'Ambassador on toms, Pinstripe on kicks',
+            notes: 'Controlled, punchy head choice to reinforce the tight groove-metal sound.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4000,
+          inflationAdjusted: 7000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Established the tight groove-metal double bass foundation',
+          'Mapex Pro M maple shells delivered punchy, defined tone',
+          'Lamb of God debut on national tours (Ozzfest 2003)',
+        ],
+
+        quote: {
+          text: "We weren't trying to reinvent the wheel — we just wanted to play as heavy and as tight as possible.",
+          source: 'Modern Drummer Interview, 2003',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'chris-adler-2004-aotw',
+        era: 'Ashes of the Wake Era',
+        years: '2004-2005',
+        startYear: 2004,
+        endYear: 2005,
+        description: 'Lamb of God\'s major-label breakthrough. Ashes of the Wake (2004) launched the band onto the mainstream metal stage, and Chris secured his first Zildjian A Custom endorsement to pair with the upgraded Mapex setup.',
+        albums: ['Ashes of the Wake (2004)'],
+        tours: ['Ozzfest 2004', 'Headlining North American tour 2004-2005'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex Pro M Series (continued)',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Continued the Mapex Pro M through the Ashes of the Wake cycle. The kit handled the increased touring demands reliably.',
+            change: null,
+          },
+          snare: {
+            item: 'Mapex Pro M 14"x6.5"',
+            details: 'Maple shell — continued',
+            notes: 'Consistent snare sound through the AOTW touring cycle.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: '14" A Custom hi-hats, 17"/18" crashes, 21" ride',
+            notes: 'Upgraded to Zildjian A Custom with the new endorsement. Brighter, more cutting tone for larger venues.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 5000 Double Pedal',
+            details: 'Chain-drive continued',
+            notes: 'Same double pedal setup — proven reliability on the road.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Hickory, continued',
+            notes: 'No signature stick deal at this point.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Pinstripe',
+            details: 'Controlled, low-ring heads on toms and kicks',
+            notes: 'Refined head choice for better studio and live response.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5500,
+          inflationAdjusted: 9000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Zildjian A Custom endorsement secured',
+          'Ashes of the Wake (2004) — first major-label release, chart breakthrough',
+          'Lamb of God establish themselves as NWOAHM leaders',
+        ],
+
+        quote: {
+          text: "Ashes of the Wake was where everything clicked. The band, the gear, the audience — it all came together.",
+          source: 'Drum Magazine, 2004',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'chris-adler-2006-sacrament',
+        era: 'Sacrament Era',
+        years: '2006-2008',
+        startYear: 2006,
+        endYear: 2008,
+        description: 'The DW era. Chris switched to DW Collector\'s Series drums for Sacrament (2006), one of the year\'s most critically acclaimed metal releases. The DW maple shells paired with Zildjian A Custom cymbals delivered his most refined studio sound yet.',
+        albums: ['Sacrament (2006)'],
+        tours: ['Gigantour 2006', 'Headlining tour 2006-2007'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'The switch to DW Collector\'s marked a significant upgrade in shell quality. The maple shells gave the Sacrament recordings a warmer, more open tone than the Pro M.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'DW Collector\'s 14"x6.5"',
+            details: 'Maple, black chrome hardware',
+            notes: 'Matching DW snare with a warm yet cutting tone, ideal for the precision groove work on Sacrament.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: '14" hi-hats, 17"/18" crashes, 21" ride — continued',
+            notes: 'A Custom setup retained through the DW era. Warm DW shells and bright A Custom cymbals defined the Sacrament sound.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Twin-chain drive double pedal',
+            notes: 'Upgraded to DW 9000 to complement the DW Collector\'s endorsement. Improved response for demanding Sacrament drum parts.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth Chris Adler Signature',
+            details: 'Hickory with nylon tip',
+            notes: 'First signature drumstick with Vic Firth. The Adler model became a reference for tight, articulate heavy metal playing.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Pinstripe / Powerstroke 3',
+            details: 'Pinstripe on toms, Powerstroke 3 on kicks',
+            notes: 'Kick head refined for the larger venues on Gigantour 2006.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 14000,
+          inflationAdjusted: 22000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switch to DW Collector\'s Series — major brand change',
+          'Vic Firth Chris Adler Signature drumstick introduced',
+          'Sacrament (2006) — Grammy nomination, highest-charting LoG album to that point',
+          'DW 9000 double pedal upgrade for precision at speed',
+        ],
+
+        quote: {
+          text: "DW gave me a kit I could really dig into. Every drum responded exactly how I wanted.",
+          source: 'Vic Firth Artist Interview, 2006',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'chris-adler-2009-wrath',
+        era: 'Wrath Era',
+        years: '2009-2011',
+        startYear: 2009,
+        endYear: 2011,
+        description: 'The Pearl era begins. For Wrath (2009), Chris Adler switched to Pearl Reference Pure drums — an all-maple shell design from Pearl that delivered exceptional resonance and low-end projection, perfectly suited to LoG\'s heaviest album yet.',
+        albums: ['Wrath (2009)'],
+        tours: ['Mayhem Festival 2009', 'European tour 2009'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure',
+            details: 'All-maple shells: 22"x18" kick, 10"/12"/14"/16" toms',
+            notes: 'Pearl Reference Pure used a simplified, thick all-maple shell construction for maximum resonance. The warm low-end projection was ideal for the heavy, grinding sound of Wrath.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Sensitone Elite Maple 14"x6.5"',
+            details: 'Maple shell, twin-bead design',
+            notes: 'Paired with the Reference Pure kit. The twin-bead maple shell produced a fuller crack than the DW alternatives.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: '14" hi-hats, 17"/18" crashes, 21" ride',
+            notes: 'Continued A Custom setup — the one constant across multiple kit transitions.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal',
+            details: 'Cam-driven double pedal',
+            notes: 'Switched to Pearl Eliminator to match the Pearl endorsement. Its multi-cam design suited Chris\'s fluid, groove-focused double bass style.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Chris Adler Signature',
+            details: 'Continued signature model',
+            notes: 'Signature stick partnership continued through multiple kit transitions.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / Powerstroke 3',
+            details: 'Emperor on toms, Powerstroke 3 on kicks',
+            notes: 'Heavier head choice for Wrath\'s more aggressive, detuned guitar tones.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 12000,
+          inflationAdjusted: 17500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switch to Pearl Reference Pure — third major kit change in career',
+          'Pearl Eliminator double pedal replaces DW 9000',
+          'Wrath (2009) — Lamb of God\'s debut at #2 on Billboard 200',
+          'All-maple shell construction for maximum low-end resonance',
+        ],
+
+        quote: {
+          text: "The Reference Pure has this incredible resonance. You hit it once and it just opens up. Perfect for what we do.",
+          source: 'Pearl Drums Artist Interview, 2009',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'chris-adler-2012-resolution',
+        era: 'Resolution / Sturm und Drang Era',
+        years: '2012-2019',
+        startYear: 2012,
+        endYear: 2019,
+        description: 'The Mapex return and eventual retirement. For Resolution (2012), Chris switched to the Mapex Black Panther Velvetone — a return to the brand that started his career, now at signature level. A serious arm injury in 2016 and subsequent health complications ultimately led to his departure from Lamb of God in 2019.',
+        albums: ['Resolution (2012)', 'VII: Sturm und Drang (2015)'],
+        tours: ['Resolution Tour 2012', 'Mayhem Festival 2015'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex Black Panther Velvetone',
+            details: 'Maple/walnut shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'The Black Panther Velvetone used maple/walnut hybrid shells for a darker, more complex tone than the Reference Pure. Chris returned to Mapex for his final active era with LoG.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Mapex Black Panther 14"x6.5"',
+            details: 'Maple/walnut shell, black chrome hardware',
+            notes: 'Matching Black Panther snare with a warm, slightly dark crack suited to Resolution\'s groove-centric writing.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: '14" hi-hats, 17"/18" crashes, 21" ride',
+            notes: 'Unbroken A Custom loyalty — the only constant through every kit transition of his career.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Returned to DW 9000 twin-chain drive',
+            notes: 'Reverted from Pearl Eliminator back to DW 9000 for Resolution — preferred feel and response for the final LoG era.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Chris Adler Signature',
+            details: 'Continued signature model',
+            notes: 'Longest-running sponsorship of his career — Vic Firth signature from Sacrament through retirement.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Pinstripe / Powerstroke 3',
+            details: 'Pinstripe on toms, Powerstroke 3 on kicks',
+            notes: 'Returned to Pinstripe on toms for tighter, controlled sound on Resolution.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 10000,
+          inflationAdjusted: 13000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Returned to Mapex — Black Panther Velvetone maple/walnut hybrid kit',
+          'Resolution (2012) — first #1 Billboard 200 debut for Lamb of God',
+          'VII: Sturm und Drang (2015) continues commercial run',
+          'Arm injury (2016) begins chain of health issues leading to retirement',
+          'Departed Lamb of God in 2019 due to continued injury complications',
+        ],
+
+        quote: {
+          text: "The Black Panther Velvetone has a darkness to it that fits perfectly where we are as a band. It's warm, complex, and heavy.",
+          source: 'Mapex Drums Feature, 2012',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Chris Adler Gear Evolution Timeline | Lamb of God Drum Kit History',
+    metaDescription: 'Explore Chris Adler\'s complete drum gear evolution: Mapex Pro M → DW Collector\'s → Pearl Reference Pure → Mapex Black Panther Velvetone. Lamb of God\'s NWOAHM drum sound documented era by era.',
+  },
+
+  // ==========================================
+  // Daniel Erlandsson - Arch Enemy
+  // ==========================================
+  'daniel-erlandsson': {
+    slug: 'daniel-erlandsson',
+    name: 'Daniel Erlandsson',
+    band: 'Arch Enemy',
+    totalYearsActive: '1999-Present',
+    profileImage: '/images/drummers/daniel-erlandsson.webp',
+    summary: 'Daniel Erlandsson joined Arch Enemy in 1999 and has been the rhythmic backbone of Gothenburg melodic death metal ever since — evolving from budget touring kits to Pearl Reference Pure endorsement setups across a 25-year career. Brother of Adrian Erlandsson (At the Gates).',
+
+    eras: [
+      {
+        id: 'daniel-erlandsson-2001-wages',
+        era: 'Wages of Sin / Anthems Era',
+        years: '1999-2004',
+        startYear: 1999,
+        endYear: 2004,
+        description: 'Daniel joined Arch Enemy for Wages of Sin (2001) and their breakthrough into the international melodic death metal scene. Early touring kits reflected a working-band budget — functional, road-ready, and suited to the high-speed Gothenburg sound.',
+        albums: ['Wages of Sin (2001)', 'Anthems of Rebellion (2003)'],
+        tours: ['Wages of Sin European Tour 2001', 'Anthems of Rebellion World Tour 2003-2004'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Export / Session Series',
+            details: 'Poplar/maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Working-band budget kit for the early touring years. Pearl Session was a step above the Export while remaining practical for Arch Enemy\'s non-stop touring schedule.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Sensitone 14"x5.5"',
+            details: 'Steel shell, chrome hardware',
+            notes: 'A steel snare with the cutting crack needed to slice through Arch Enemy\'s twin-guitar density.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Standard Zildjian A setup — reliable and widely available on European touring circuits.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl P-2002C Eliminator Double Pedal',
+            details: 'Multi-cam double pedal',
+            notes: 'The Eliminator\'s versatile cam system suited Daniel\'s blast beat technique and groove-death hybrid playing style.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'No signature deal in the early years — reliable off-the-shelf sticks for aggressive touring.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Standard head choice. Changed frequently due to aggressive playing on long tours.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3500,
+          inflationAdjusted: 6500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Arch Enemy for Wages of Sin (2001) — first major international touring',
+          'Established the precise blast beat / groove-death hybrid style',
+          'Wages of Sin broke Arch Enemy into the international market',
+        ],
+
+        quote: {
+          text: "When I joined Arch Enemy I just needed gear that could take the punishment of constant touring. Reliability was everything.",
+          source: 'Rhythm Magazine, 2003',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'daniel-erlandsson-2005-doomsday',
+        era: 'Doomsday Machine / Rise of the Tyrant Era',
+        years: '2005-2009',
+        startYear: 2005,
+        endYear: 2009,
+        description: 'As Arch Enemy\'s commercial profile grew, Daniel upgraded his setup significantly. The switch to a professional Pearl kit marked the transition from road-survivor to endorsee — a reflection of the band\'s growing international stature through two major album campaigns.',
+        albums: ['Doomsday Machine (2005)', 'Rise of the Tyrant (2007)'],
+        tours: ['Doomsday Machine World Tour 2005-2006', 'Rise of the Tyrant Tour 2007-2008'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Session Studio Select',
+            details: 'Birch/basswood shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Stepped up to Pearl Session Studio Select. Birch/basswood shells offered a focused, punchy tone well suited to the albums\' crisp production.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Sensitone Elite 14"x6.5"',
+            details: 'Steel shell, die-cast hoops',
+            notes: 'Deeper steel shell for more body while retaining the cutting crack Arch Enemy\'s guitar mix required.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: '14" hi-hats, 17"/18" crashes, 21" ride',
+            notes: 'Upgraded from A Series to A Custom. Brighter, more cutting tone in larger venues.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl P-2002C Eliminator (continued)',
+            details: 'Multi-cam double pedal — continued',
+            notes: 'Same reliable Eliminator setup. Daniel\'s blast beat endurance relied on the Eliminator\'s consistency across long sets.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Lighter hickory for faster strokes',
+            notes: 'Switched from 5B to 5A for increased speed on faster blast beat passages.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply on toms, Powerstroke 3 on kicks',
+            notes: 'Heavier heads for the extended touring cycle across two full album campaigns.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 8000,
+          inflationAdjusted: 13000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Upgraded to Pearl Session Studio Select professional-grade kit',
+          'Zildjian A Custom endorsement begins',
+          'Rise of the Tyrant (2007) — reached Top 20 in multiple European charts',
+          '5A stick switch for increased speed on demanding blast passages',
+        ],
+
+        quote: {
+          text: "I started to think more seriously about my sound during Doomsday Machine. The upgrade to better gear made an immediate difference in the studio.",
+          source: 'Drums & Percussion Magazine, 2005',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'daniel-erlandsson-2010-khaos',
+        era: 'Khaos Legions / War Eternal Era',
+        years: '2010-Present',
+        startYear: 2010,
+        endYear: 2024,
+        description: 'The Pearl Reference Pure era. Daniel secured a full Pearl endorsement built around the Reference Pure — an all-maple shell design that became his definitive sound. The Khaos Legions and War Eternal period saw Arch Enemy operate at peak international status with both Angela Gossow and Alissa White-Gluz as vocalist.',
+        albums: ['Khaos Legions (2011)', 'War Eternal (2014)', 'Will to Power (2017)', 'Deceivers (2022)'],
+        tours: ['Khaos Legions World Tour 2011-2012', 'War Eternal Tour 2014-2015', 'Deceivers Tour 2022-2023'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure',
+            details: 'All-maple shells: 22"x18" kick, 10"/12"/14"/16" toms',
+            notes: 'Pearl Reference Pure uses thick, single-species all-maple shells for maximum resonance and warmth. A counterintuitive choice for extreme metal that adds low-end depth behind the speed.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Reference Pure 14"x6.5"',
+            details: 'All-maple shell, die-cast Power Hoops',
+            notes: 'Matching Reference Pure snare. Maple warmth combined with die-cast hoops delivers a full, resonant crack suited to both studio and arena environments.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: '14" A Custom hi-hats, 17"/18"/19" crashes, 21" ride',
+            notes: 'A Custom setup expanded to a third crash for live performance. Consistent Zildjian loyalty across the career.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Redline Double Pedal',
+            details: 'Belt-drive option, floating spring tension',
+            notes: 'Upgraded to Eliminator Redline for improved response at blast beat speeds. Belt-drive variant for a smoother, lighter feel.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Continued hickory 5A',
+            notes: 'Consistent stick choice for the Reference Pure era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Pinstripe / Powerstroke 77',
+            details: 'Pinstripe on toms, Powerstroke 77 on kicks',
+            notes: 'Powerstroke 77 on kicks for maximum low-end focus in large venues and arenas.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 14000,
+          inflationAdjusted: 18000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Full Pearl Reference Pure endorsement — definitive career setup',
+          'All-maple shell construction adds warmth and resonance behind extreme metal speed',
+          'Khaos Legions (2011) — first #1 chart position in Sweden',
+          'War Eternal (2014) — Alissa White-Gluz era begins; band continues world touring',
+          'Deceivers (2022) — one of melodic death metal\'s most enduring rhythm sections',
+        ],
+
+        quote: {
+          text: "The Reference Pure changed how I heard my own playing. There's a warmth and depth to those shells that you don't expect from a kit designed for heavy music.",
+          source: 'Pearl Drums Artist Feature, 2011',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Daniel Erlandsson Gear Evolution Timeline | Arch Enemy Drum Kit History',
+    metaDescription: 'Explore Daniel Erlandsson\'s complete drum gear evolution: early touring kits → Pearl Session → Pearl Reference Pure. Arch Enemy\'s Gothenburg melodic death metal drum sound documented era by era.',
+  },
+
+  // ==========================================
+  // Sean Reinert - Death / Cynic
+  // ==========================================
+  'sean-reinert': {
+    slug: 'sean-reinert',
+    name: 'Sean Reinert',
+    band: 'Death / Cynic',
+    totalYearsActive: '1989-2019',
+    profileImage: '/images/drummers/sean-reinert.webp',
+    summary: 'Sean Reinert was one of the most innovative drummers in extreme metal history — a jazz-trained polyrhythmic visionary who brought unprecedented subtlety and complexity to death metal on Death\'s Human and Cynic\'s Focus. He passed away in January 2020.',
+
+    eras: [
+      {
+        id: 'sean-reinert-1990-spiritual-healing',
+        era: 'Death — Spiritual Healing Era',
+        years: '1989-1990',
+        startYear: 1989,
+        endYear: 1990,
+        description: 'Sean Reinert\'s recording debut with Death on Spiritual Healing (1990) introduced his jazz-influenced approach to death metal — precise ghost notes, polyrhythmic groove, and dynamics that set him apart from every other death metal drummer of the era.',
+        albums: ['Spiritual Healing (1990)'],
+        tours: ['Spiritual Healing Tour 1990'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series',
+            details: 'Maple shells: 22" kick, 10"/12"/13"/14"/16" toms',
+            notes: 'Sean was an early DW endorsee. The DW Collector\'s maple shells gave his jazz-influenced technique a warm, resonant quality rarely heard in death metal of the period.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Collector\'s 14"x5.5"',
+            details: 'Maple shell, die-cast hoops',
+            notes: 'Shallow snare for a crisper, more jazz-influenced response — supporting the ghost note vocabulary that defined his Spiritual Healing performance.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Jazz-standard cymbal setup applied to a death metal context. The A Series ride bell was critical for Sean\'s articulate ride patterns.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 5000 Double Pedal',
+            details: 'Single-chain drive double pedal',
+            notes: 'Fluid double bass technique drawn more from fusion drumming than the brute-force approach of most death metal contemporaries.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Lighter hickory for control and finesse',
+            notes: '5A weight suited the balance of power and subtlety Sean brought to death metal drumming.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Open, resonant head choice that supported the jazz-influenced dynamic range rather than suppressing it.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 6000,
+          inflationAdjusted: 14000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'First major recording with Death — established jazz-influenced approach to death metal',
+          'DW Collector\'s endorsement — warm maple tone unprecedented in the genre',
+          'Ghost note vocabulary and dynamic control set a new standard for technical death metal',
+        ],
+
+        quote: {
+          text: "I came from jazz. Chuck understood that and let me bring that vocabulary into Death. Spiritual Healing was where I first got to show what I could do.",
+          source: 'Modern Drummer Interview, 1991',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'sean-reinert-1991-human',
+        era: 'Death — Human Era',
+        years: '1991',
+        startYear: 1991,
+        endYear: 1991,
+        description: 'The landmark album. Human (1991) is widely considered one of the greatest technical death metal recordings ever made. Sean Reinert\'s drumming — recorded at Morrisound Studios with producer Scott Burns — remains a masterclass in applying jazz technique to extreme metal. The DW Collector\'s rig was refined from Spiritual Healing.',
+        albums: ['Human (1991)'],
+        tours: ['Human Tour 1991 (limited dates)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series',
+            details: 'Maple shells: 22" kick, 10"/12"/13"/14"/16" toms — continued',
+            notes: 'Same DW Collector\'s kit as Spiritual Healing, recorded at Morrisound Studios in Tampa, FL. The warmth of the DW maple shells was a key element of Human\'s distinctive drum sound — less compressed and more open than most death metal of the period.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Collector\'s 14"x5.5"',
+            details: 'Maple shell — continued',
+            notes: 'The same shallow maple snare that defined the Spiritual Healing sound. The crack on Human is one of the most recognizable in technical death metal history.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride — continued',
+            notes: 'Continued the jazz-standard Zildjian A setup. The ride cymbal work on tracks like "Suicide Machine" and "Lack of Comprehension" demonstrated extraordinary control.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 5000 Double Pedal',
+            details: 'Single-chain drive — continued',
+            notes: 'The double bass work on Human is deliberately restrained and musical rather than a showcase of raw speed — a key philosophical difference from contemporaries.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Continued hickory 5A',
+            notes: 'Consistent stick choice. The lighter weight enabled the ghost note density captured on the recording.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Continued — open and resonant',
+            notes: 'Scott Burns\' production embraced the natural resonance of Sean\'s DW setup rather than deadening it.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 6500,
+          inflationAdjusted: 14500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Human (1991) recorded at Morrisound Studios — landmark technical death metal album',
+          'Drumming widely cited as among the most influential in extreme metal history',
+          'Jazz-influenced ghost notes and polyrhythmic vocabulary pushed death metal drumming forward',
+          'Gear continuity from Spiritual Healing — the DW Collector\'s sound was integral to Human\'s identity',
+        ],
+
+        quote: {
+          text: "Human was recorded very fast. Chuck had these incredible songs and we just played them. I tried to bring a musicality that went beyond the obvious technical approach.",
+          source: 'Decibel Magazine, 2013',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'sean-reinert-1993-focus',
+        era: 'Cynic — Focus Era',
+        years: '1992-1993',
+        startYear: 1992,
+        endYear: 1993,
+        description: 'The apex. Cynic\'s Focus (1993) is the defining jazz-fusion death metal record — and Sean Reinert\'s drumming is inseparable from that achievement. Co-written with Paul Masvidal, Focus fused death metal brutality with Weather Report-style complexity. The DW Collector\'s setup reached its fullest expression here, with a switch to darker Zildjian K cymbals.',
+        albums: ['Focus (1993)'],
+        tours: ['Focus Tour 1993 (supporting Death, limited dates)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series',
+            details: 'Maple shells: 22" kick, 10"/12"/13"/14"/16" toms',
+            notes: 'Same DW Collector\'s configuration used on Human and Spiritual Healing. The warm, open maple sound was essential to Focus\'s jazz-fusion atmosphere — a stark contrast to the compressed, triggered sound of most metal contemporaries.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Collector\'s 14"x5.5"',
+            details: 'Maple shell — tuned higher and more open for Focus sessions',
+            notes: 'Sean tuned the snare notably higher and more open for Focus than on the Death albums — reflecting the record\'s greater jazz-fusion influence and the need to sit in a more complex harmonic texture.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian K Series',
+            details: '14" K hi-hats, 16"/18" K Custom crashes, 20" K ride',
+            notes: 'Switched from A Series to the darker, more complex Zildjian K for Focus — a deliberate move toward jazz-fusion cymbal character over the bright, cutting A Series sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 5000 Double Pedal',
+            details: 'Single-chain drive — continued',
+            notes: 'The double bass role on Focus is more compositional than aggressive — used for polyrhythmic texture rather than speed showcases.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Continued 5A for touch and control',
+            notes: 'Focus demanded extreme dynamic sensitivity — from whisper-soft passages to death metal explosions. The 5A weight allowed this full range.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Open, resonant configuration — continued',
+            notes: 'Maximally resonant head setup to support Focus\'s jazz-fusion dynamics. No heavy muffling or dampening rings.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 7000,
+          inflationAdjusted: 15000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Focus (1993) — the defining jazz-death fusion record',
+          'Switched to Zildjian K Series for darker, more jazz-oriented cymbal voice',
+          'Snare tuned higher and more open than the Death recordings',
+          'Drumming cited among the greatest metal drum performances by Modern Drummer and Decibel',
+        ],
+
+        quote: {
+          text: "Focus was about going somewhere no one had been before. Paul and I wanted to prove that death metal and jazz were not as far apart as people thought.",
+          source: 'Decibel Magazine, Focus 20th Anniversary Issue, 2013',
+        },
+
+        videos: [],
+      },
+    ],
+
+    metaTitle: 'Sean Reinert Gear Evolution Timeline | Death & Cynic Drum Kit History',
+    metaDescription: 'Explore Sean Reinert\'s complete drum gear evolution across Death\'s Spiritual Healing and Human and Cynic\'s Focus — three landmark albums and the most innovative jazz-death drumming in metal history.',
+  },
 };
 
 /**

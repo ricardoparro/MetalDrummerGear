@@ -35,6 +35,12 @@ Jay Weinberg (born Jay Bradley Weinberg; September 8, 1990, in Middletown Townsh
 
 Weinberg's career spans diverse genres: from substituting for his father with Bruce Springsteen, to playing hardcore punk with Against Me! and Madball, to becoming the masked drummer #1 in one of metal's most extreme bands. His ability to honor Joey Jordison's legacy while bringing his own explosive energy made him a fan favorite during his nine years with Slipknot.
 
+## Kit Overview
+
+Jay Weinberg's drum kit is an SJC Custom Drums build — the boutique Massachusetts shell pack he developed across nine years with Slipknot (2014–2023) and carried into his role with Suicidal Tendencies from 2023. The centerpiece of the Jay Weinberg drum set is his signature SJC "The Crucible" snare drum: a 14×6.5" 48-ply brass shell delivering the explosive crack that powered Slipknot's arena productions on .5: The Gray Chapter, We Are Not Your Kind, and The End, So Far.
+
+Zildjian cymbals complete the Jay Weinberg drum kit: 14" A New Beat Hi-Hats for sharp, articulate groove patterns; 18" and 19" A Custom Crashes for explosive accents; a 21" K Custom Ride for complex, dark rhythmic definition; a 19" K China for aggressive punctuation; and a 7" FX Break Bell for textural effects. A DW 9000 Series double bass pedal and DW 9100 Throne anchor the hardware. Vater Jay Weinberg 908 Signature sticks and Evans Black Chrome drumheads complete a drum set that defined Slipknot's masked-performer era. For the full gear breakdown, see the [Jay Weinberg complete drum setup](/articles/jay-weinberg-complete-drum-setup).
+
 ## Band History
 
 - **Suicidal Tendencies** — 2023–present (current)

@@ -331,6 +331,9 @@ const gearPriceHistoryDrummers = [
   'charlie-benante', // Among the Living era (1987) — Issue #2238
   'nick-menza',      // Rust in Peace era (1990) — Issue #2238
   'inferno',         // Demigod era (2004) — Issue #2238
+  'chris-adler',     // Ashes of the Wake era (2004) — Issue #3077
+  'daniel-erlandsson', // Wages of Sin era (2001) — Issue #3077
+  'ray-luzier',      // Korn III era (2010) — Issue #3077
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

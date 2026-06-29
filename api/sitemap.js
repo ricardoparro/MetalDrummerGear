@@ -328,9 +328,12 @@ const gearPriceHistoryDrummers = [
   'igor-cavalera',   // Roots era (1996)
   'nicko-mcbrain',   // Powerslave era (1984)
   'matt-greiner',    // Leveler era (2011)
-  'charlie-benante', // Among the Living era (1987) — Issue #2238
-  'nick-menza',      // Rust in Peace era (1990) — Issue #2238
-  'inferno',         // Demigod era (2004) — Issue #2238
+  'charlie-benante',    // Among the Living era (1987) — Issue #2238
+  'nick-menza',         // Rust in Peace era (1990) — Issue #2238
+  'inferno',            // Demigod era (2004) — Issue #2238
+  'paul-mazurkiewicz',  // Tomb of the Mutilated era (1992) — Issue #3097
+  'flo-mounier',        // Sonor SQ2 era (2012) — Issue #3097
+  'eloy-casagrande',    // Sepultura The Mediator era (2014) — Issue #3097
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

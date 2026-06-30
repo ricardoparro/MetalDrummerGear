@@ -905,6 +905,7 @@ export const articles = {
     },
     "videos": [],
     "relatedAlbums": [
+      "the-mediator-between-head-and-hands-drum-setup",
       "quadra-drum-setup",
       "eloy-casagrande-m72-drum-setup"
     ],
@@ -913,6 +914,7 @@ export const articles = {
     ],
     "relatedArticles": [
       "whats-in-eloy-casagrandes-kit",
+      "the-mediator-between-head-and-hands-drum-setup",
       "quadra-drum-setup",
       "eloy-casagrande-m72-drum-setup"
     ],
@@ -1223,6 +1225,7 @@ export const articles = {
     },
     "videos": [],
     "relatedAlbums": [
+      "the-mediator-between-head-and-hands-drum-setup",
       "eloy-casagrande-m72-drum-setup",
       "arise-drum-setup",
       "beneath-the-remains-drum-setup"
@@ -1234,6 +1237,7 @@ export const articles = {
     ],
     "relatedArticles": [
       "whats-in-eloy-casagrandes-kit",
+      "the-mediator-between-head-and-hands-drum-setup",
       "eloy-casagrande-m72-drum-setup",
       "brazilian-metal-drummers"
     ],
@@ -1267,6 +1271,285 @@ export const articles = {
     "conclusion": {
       "title": "Quadra: The Origin Story of Metal's Most In-Demand Drummer",
       "content": "*Quadra* stands as the definitive document of Eloy Casagrande's Sepultura career — a record that proved his ceiling at the exact moment the metal world was paying attention. The Pearl Master Maple Reserve shells, the Meinl Byzance cymbals, the Mapex Black Panther snare: this was the setup of a world-class drummer who had earned his equipment through 9 years of relentless performance with one of metal's most demanding bands.\n\n**The Gear as Portrait:**\nEvery gear choice on *Quadra* reflects Eloy's musical identity during his Sepultura peak. The warm, resonant Pearl maple shells suited Jens Bogren's dynamic production philosophy. The Meinl Byzance series brought tonal complexity to a genre that often settles for raw impact. The Mapex Black Panther delivered the signature crack that metal fans heard from front-row and festival distance alike. Together, these instruments captured a drummer in complete mastery of his context.\n\n**The Origin Story:**\nWhen Metallica came calling in 2023, they were recruiting the drummer they had heard on *Quadra* — not just the technical facility, but the musical intelligence that made the album more than a thrash performance. The M72 World Tour brought new gear, new context, and an audience of 70,000 per night. But the player they chose was the one who had made *Quadra*. For a complete view of Eloy Casagrande's evolution, explore the [Eloy Casagrande drummer profile](/drummer/eloy-casagrande) and the [M72 World Tour drum setup breakdown](/articles/eloy-casagrande-m72-drum-setup).\n\n**The Sepultura Cluster:**\n*Quadra* connects to MetalForge's full Sepultura documentation: the Igor Cavalera era is covered in [Beneath the Remains](/articles/beneath-the-remains-drum-setup) and [Arise](/articles/arise-drum-setup). Eloy's complete Sepultura-to-Metallica arc — and his current Slipknot setup — is covered in the [What's In Eloy Casagrande's Kit](/articles/whats-in-eloy-casagrandes-kit) breakdown.\n\n*Quadra. The last Sepultura album. The origin story.* 🤘"
+    }
+  },
+  "the-mediator-between-head-and-hands-drum-setup": {
+    "slug": "the-mediator-between-head-and-hands-drum-setup",
+    "albumTitle": "The Mediator Between Head and Hands Must Be the Heart",
+    "artist": "Sepultura",
+    "drummer": "Eloy Casagrande",
+    "drummerId": 7,
+    "relatedDrummerSlug": "eloy-casagrande",
+    "year": 2013,
+    "genre": "Thrash Metal / Groove Metal / Heavy Metal",
+    "label": "Nuclear Blast",
+    "studio": "Ross Robinson's studio, Venice, California",
+    "producer": "Ross Robinson (co-produced by Steve Evetts)",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Sepultura \"The Mediator Between Head and Hands Must Be the Heart\" Drum Setup: Eloy Casagrande's 2013 Debut",
+    "description": "Eloy Casagrande's first studio album with Sepultura — The Mediator Between Head and Hands Must Be the Heart (2013) drum setup breakdown. Tama Starclassic Bubinga shells, Paiste RUDE/2002 cymbals, the raw Ross Robinson sessions that introduced a 21-year-old prodigy to thrash metal's biggest stage.",
+    "seoKeywords": [
+      "eloy casagrande drum kit",
+      "sepultura mediator drums",
+      "eloy casagrande first sepultura album",
+      "the mediator between head and hands drum setup",
+      "eloy casagrande tama bubinga",
+      "eloy casagrande paiste rude",
+      "sepultura 2013 drums",
+      "ross robinson sepultura",
+      "eloy casagrande debut album",
+      "what was eloy casagrande's first sepultura album"
+    ],
+    "ogImage": "/images/albums/the-mediator-between-head-and-hands-drums.webp",
+    "intro": {
+      "title": "The Debut Before the Debut — Eloy Casagrande's First Sepultura Record",
+      "content": "When Sepultura released *The Mediator Between Head and Hands Must Be the Heart* on October 25, 2013, via Nuclear Blast, it introduced the world to a 21-year-old drummer who would go on to anchor the band for over a decade: Eloy Casagrande. Eloy had joined Sepultura in 2011 at age 19, but *The Mediator* — the band's thirteenth studio album — was the first full-length record to capture his playing in the studio, four years before *Machine Messiah* became his definitive international statement.\n\nThe album reunited Sepultura with Ross Robinson, the producer behind their landmark 1996 record *Roots*. Robinson is known across metal and nu-metal — Korn, Slipknot, At the Drive-In — for an intensely raw, emotionally driven production philosophy: live takes, minimal overdubbing, performances captured in the moment rather than assembled afterward. For a 21-year-old drummer making his recorded debut with one of thrash metal's most important bands, this was a trial by fire rather than a controlled studio introduction.\n\nThe sessions took place over 40 days in June 2013 at Robinson's own studio in Venice, California, co-produced by Steve Evetts. The album was mixed at Omen Room Studios in Anaheim and mastered by Alan Douches at West West Side Studios in New Windsor, New York. Its title is drawn from a line in Fritz Lang's 1927 film *Metropolis* — \"The Mediator Between Head and Hands Must Be the Heart\" — reflecting the album's thematic concern with the gap between intellect and labor, and the human connection needed to bridge it.\n\nEloy's gear for the sessions: a Tama Starclassic Bubinga kit, Paiste RUDE and 2002 series cymbals, and Tama Iron Cobra pedals — his first major endorsement-level setup, awarded on the strength of the talent that had already convinced Sepultura's veterans to bring a teenager into the band. This article breaks down that gear, the raw Ross Robinson recording approach that shaped it, and how it set the foundation for everything that followed.",
+      "keyPoints": [
+        "Released October 25, 2013 (Europe) / October 29, 2013 (US) via Nuclear Blast — Sepultura's 13th studio album",
+        "Eloy Casagrande's first full-length studio recording with Sepultura, joined the band in 2011 at age 19",
+        "Produced by Ross Robinson (Roots, Korn, Slipknot), co-produced by Steve Evetts",
+        "Recorded over 40 days in June 2013 at Robinson's studio in Venice, California",
+        "Title drawn from a quote in Fritz Lang's 1927 film Metropolis",
+        "Tama Starclassic Bubinga kit — Eloy's first major endorsement-level setup",
+        "The opening chapter of the arc that runs through Machine Messiah (2017) to Quadra (2020)"
+      ]
+    },
+    "drumKit": {
+      "title": "Eloy's Sepultura Debut: Tama Starclassic Bubinga",
+      "brand": "Tama",
+      "model": "Tama Starclassic Bubinga",
+      "finish": "Natural Bubinga",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Bubinga/Birch hybrid shells — exotic African hardwood outer plies for warmth and low-end power, birch inner plies for attack and projection"
+      },
+      "description": "For *The Mediator*, Eloy Casagrande recorded with the Tama Starclassic Bubinga — the kit that became his first major endorsement-level setup, and the same series he would later expand for his Slipknot tenure a decade on. The Bubinga/Birch hybrid construction pairs the dense, exotic hardwood's powerful low frequencies with birch's focused attack, a combination built for cutting through aggressive, distortion-heavy mixes.\n\nTwin 22\" x 18\" bass drums, run independently rather than through a double pedal, gave the 21-year-old the foot independence that would define his playing throughout his career. The compact three-piece tom configuration — two rack toms and a single 16\" floor tom — reflected a leaner, more direct setup than the expanded five-tom rig he would later use with Slipknot, suited to *The Mediator*'s stripped-down, aggressive material.\n\nRoss Robinson's recording philosophy left the Bubinga's natural character largely untouched: minimal compression, performances captured as close to a live take as a studio allows. The result is a drum sound that favors raw power and immediacy over the polished, layered production Eloy's later albums with Jens Bogren would pursue.",
+      "notes": [
+        "Tama Starclassic Bubinga — Eloy's first major endorsement-level kit",
+        "Twin 22\" x 18\" bass drums for independent double-kick from the start of his career",
+        "Lean three-piece tom configuration suited to the album's direct, aggressive material",
+        "Ross Robinson's raw production approach preserved the kit's natural character with minimal processing"
+      ],
+      "estimatedValue": "$2,800-4,000 (2013)"
+    },
+    "snare": {
+      "title": "Snare: Steel Crack for a Debut Statement",
+      "brand": "Tama",
+      "model": "Tama S.L.P. Big Black Steel",
+      "size": "14\" x 6.5\"",
+      "shell": "1.2mm Steel shell",
+      "description": "Eloy's snare on *The Mediator* was the Tama S.L.P. (Sound Lab Project) Big Black Steel — a deep, dark-finished steel snare built for maximum crack and projection. At 6.5\" deep, it sits deeper than the 5.5\" snares Eloy would favor in later years, delivering a fuller body alongside the steel shell's characteristic bite.\n\nRoss Robinson's engineering captured the snare close and direct, in keeping with his philosophy of minimal studio polish: the goal was a snare that hit like a live performance, not a sample-replaced, triggered sound common to much of mid-2010s metal production. For a 21-year-old drummer stepping into one of thrash metal's most demanding rhythmic chairs, that steel crack established his presence immediately.",
+      "tuningSetting": "Medium-high, deep shell for added body alongside steel bite",
+      "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$300-450 (2013)"
+    },
+    "cymbals": {
+      "title": "Paiste RUDE and 2002: Raw Power for a Raw Record",
+      "brand": "Paiste",
+      "series": "Paiste RUDE / 2002 Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste RUDE 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Heavy, cutting hi-hats built for aggressive playing"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 17\" Crash",
+          "position": "Left of hi-hats",
+          "notes": "Bright, fast-responding crash for rapid riff accents"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste RUDE 19\" Wild Crash",
+          "position": "Above rack toms",
+          "notes": "Unlathed bell for an explosive, trashy attack"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste 2002 22\" Power Ride",
+          "position": "Far right",
+          "notes": "Heavy ride built for projection over distorted guitars"
+        },
+        {
+          "type": "China",
+          "model": "Paiste RUDE 18\" Wild China",
+          "position": "Above floor tom",
+          "notes": "Aggressive accent cymbal punctuating riff transitions"
+        }
+      ],
+      "description": "Eloy's first major cymbal endorsement on *The Mediator* paired Paiste's RUDE and 2002 series — a combination built for heavy hitters who need durability and raw projection. The RUDE line's unlathed \"Wild\" cymbals deliver bright, cutting overtones with none of the refinement of premium hand-hammered series; for a record built on Ross Robinson's philosophy of unpolished, visceral performance, that rawness was the point.\n\nThe 2002 series crash and ride added a brighter, more controlled counterpart to the RUDE cymbals' chaos — the 22\" Power Ride in particular gave Eloy a cymbal capable of cutting through the dense, downtuned guitar work that defines the album. This RUDE/2002 pairing would carry through his Sepultura tenure before later evolving into the warmer Meinl Classics Custom and Byzance series he adopted as his career and production contexts matured.",
+      "estimatedValue": "$800-1,200 total (2013)"
+    },
+    "hardware": {
+      "title": "Tama Iron Cobra: The Foundation Pedals",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Power Glide (x2)",
+          "notes": "Cam-driven pedals for independent double-kick from the start of his recording career",
+          "description": "Eloy's independent twin-pedal setup on *The Mediator* used Tama Iron Cobra Power Glide pedals — one per bass drum. The cam-driven design gave a 21-year-old drummer the mechanical reliability needed to deliver sustained double-bass passages on his first major studio record, establishing the independent-pedal approach he would maintain for the rest of his career."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "notes": "Heavy-duty stand for aggressive hi-hat work"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Original Nitro Throne",
+          "notes": "Spring-loaded seat for long tracking sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "ProMark",
+          "model": "ProMark TX5B Hickory",
+          "notes": "Standard 5B model — Eloy's signature ProMark model came later in his career"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter) / Remo Powerstroke 3 (resonant)",
+        "toms": "Remo Emperor Clear (batter) / Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador (batter) / Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Ross Robinson in Venice: Raw Takes, No Safety Net",
+      "content": "*The Mediator* was recorded over 40 days in June 2013 at Ross Robinson's own studio in Venice, California, with Steve Evetts co-producing. Robinson's reputation precedes him: he is famous for an emotionally confrontational, live-take-driven production style that strips away the safety net of modern studio technology. Bands record together, in the room, often without a click track, chasing a performance rather than assembling one from comped takes.\n\nFor Eloy Casagrande, 21 years old and recording his first full Sepultura album, this was an unusually demanding introduction to studio work. Robinson's method rewards raw conviction over technical perfection — and the performance captured on *The Mediator* reflects that: aggressive, immediate, occasionally rough at the edges, but unmistakably real.\n\n**Robinson's Approach (documented methodology):**\n- Live-room tracking with minimal isolation, capturing natural bleed and energy\n- Few takes per song, prioritizing emotional commitment over flawless execution\n- Minimal reliance on triggers or sample replacement\n- Close mic'ing on the Tama Bubinga kit and Big Black Steel snare for direct, present tone\n\nThe album was mixed at Omen Room Studios in Anaheim, California, and mastered by Alan Douches at West West Side Studios in New Windsor, New York — a process that preserved the rawness of the Venice sessions rather than smoothing it into a more polished, modern metal sound.",
+      "keyTechniques": [
+        "Live-room tracking at Ross Robinson's Venice, California studio over 40 days",
+        "Minimal overdubbing and few takes per song, prioritizing performance over precision",
+        "Close mic'ing on the Tama Starclassic Bubinga and S.L.P. Big Black Steel snare",
+        "Mixed at Omen Room Studios, Anaheim; mastered by Alan Douches at West West Side Studios"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Trauma of War",
+        "bpm": "150-175",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener and one of the clearest early showcases of Eloy's aggressive thrash attack",
+          "Independent double-bass driving the verse pattern from the first bars of his recorded Sepultura career",
+          "Paiste RUDE china punctuating riff transitions",
+          "A statement-of-intent performance from a 21-year-old facing immediate scrutiny"
+        ],
+        "gearNotes": "Tama Iron Cobra Power Glide pedals deliver the sustained, even double-kick that opens the album. Paiste 2002 Power Ride cutting clearly through the dense guitar mix."
+      },
+      {
+        "track": "The Vatican",
+        "bpm": "140-165",
+        "signature": "4/4",
+        "highlights": [
+          "Groove-driven verses contrasted with explosive chorus fills",
+          "Tama S.L.P. Big Black Steel snare crack anchoring the track's heaviest moments",
+          "Early evidence of the dynamic control Eloy would expand on later albums"
+        ],
+        "gearNotes": "The deeper 6.5\" Big Black Steel shell gives extra body to the backbeat compared to the shallower snares of his later Sepultura years."
+      },
+      {
+        "track": "Manipulation of Tragedy",
+        "bpm": "160-185",
+        "signature": "4/4",
+        "highlights": [
+          "Fast, direct thrash pattern demonstrating raw stamina across a demanding tempo",
+          "Paiste RUDE 19\" Wild Crash providing explosive accents at section changes",
+          "A live-feeling performance shaped directly by Ross Robinson's minimal-overdub approach"
+        ],
+        "gearNotes": "The Bubinga/Birch hybrid shells' low-end power is most audible here, supporting the track's relentless tempo without losing definition."
+      }
+    ],
+    "evolution": {
+      "title": "The Mediator to Machine Messiah: Four Years, A New Foundation",
+      "content": "*The Mediator Between Head and Hands Must Be the Heart* (2013) is the true opening chapter of the Eloy Casagrande story — the album that exists before the arc most fans know, which begins with *Machine Messiah* (2017). The gear Eloy used here — Tama Starclassic Bubinga, Paiste RUDE/2002, Tama Iron Cobra — was his first professional, endorsement-level setup, earned at 21 years old on the strength of raw talent rather than a decade of proven results.\n\n**The Gear Evolution:**\nBy *Machine Messiah* (2017), Eloy had moved to the Tama Starclassic Walnut/Birch series and switched cymbals from Paiste RUDE/2002 to Meinl Classics Custom — trading raw, unlathed brightness for a more controlled, B10-alloy cutting tone suited to Jens Bogren's production at Fascination Street Studios. The production environment changed just as dramatically: Ross Robinson's live-take, minimal-overdub Venice sessions gave way to Bogren's meticulous, dynamically-preserving Swedish studio process.\n\n**The Sepultura Arc:**\n*The Mediator* sits before *Machine Messiah* (2017) and *Quadra* (2020) in Sepultura's documented Eloy Casagrande era — the debut before the debut most fans remember. It is the album where a 19-year-old who joined the band in 2011 became, at 21, a recorded member of one of thrash metal's defining bands. Everything that followed — the *Machine Messiah* statement, the *Quadra* peak, the Metallica invitation, the Slipknot chapter — traces back to the raw performance captured in Venice, California in June 2013.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Starclassic Bubinga (The Mediator, 2013)",
+          "now": "Tama Starclassic Walnut/Birch (Machine Messiah, 2017) / Pearl Master Maple Reserve (Quadra, 2020)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste RUDE / 2002 (The Mediator)",
+          "now": "Meinl Classics Custom (Machine Messiah) / Meinl Byzance Traditional (Quadra)"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama Iron Cobra Power Glide x2 (The Mediator)",
+          "now": "Tama Iron Cobra 900 x2 (Machine Messiah) / Tama Speed Cobra x2 (Quadra)"
+        },
+        {
+          "category": "Career context",
+          "then": "Sepultura recording debut — 21-year-old prodigy, first endorsement deal",
+          "now": "Metallica / Slipknot — metal's biggest stages"
+        }
+      ]
+    },
+    "technicalAnalysis": {
+      "title": "Eloy's Mediator Technique: Raw Talent, No Safety Net",
+      "content": "On *The Mediator*, Eloy Casagrande's technical identity is present in rawer, less refined form than on his later Sepultura albums — a direct result of both his age and Ross Robinson's live-take production philosophy, which left little room for the layered precision later albums would pursue.\n\n**Independent Double-Bass From Day One:**\nEven at 21, Eloy's twin Iron Cobra Power Glide pedals delivered the independent double-bass foundation that would define his entire career. \"Trauma of War\" shows this clearly from the album's opening bars — even, driving, and already mechanically consistent at speed.\n\n**Performance Under Pressure:**\nRobinson's minimal-overdub approach meant Eloy's performances on *The Mediator* are close to first-take reality — there was little opportunity to comp together a flawless performance from multiple passes. The slight rawness audible across the record is not a flaw; it is the sound of a young drummer proving himself in real time, in the room, with veteran bandmates watching.\n\n**The Foundation for Everything After:**\nThe stamina, the independent-pedal foundation, the willingness to commit fully to a take — all of it is present on *The Mediator* in embryonic form. What Eloy lacked in 2013 compared to *Machine Messiah* or *Quadra* was studio polish and refined dynamic control, not raw ability. That talent is precisely what convinced Sepultura's veterans, and then Ross Robinson, to trust a 19/21-year-old with the band's rhythmic identity.",
+      "keyTechniques": [
+        "Independent twin-pedal double-bass via Iron Cobra Power Glide at thrash tempos, present from his earliest recordings",
+        "Live, minimally-overdubbed performances shaped directly by Ross Robinson's production philosophy",
+        "Raw stamina and commitment across fast, demanding tempos at age 21",
+        "The earliest recorded form of the technical vocabulary refined on Machine Messiah and Quadra"
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "machine-messiah-drum-setup",
+      "quadra-drum-setup"
+    ],
+    "relatedDrummers": [
+      7
+    ],
+    "relatedArticles": [
+      "whats-in-eloy-casagrandes-kit",
+      "machine-messiah-drum-setup",
+      "quadra-drum-setup"
+    ],
+    "relatedLicks": [],
+    "practiceGuide": {
+      "title": "Learning From Eloy's Mediator-Era Approach",
+      "content": "*The Mediator* offers a window into Eloy Casagrande's playing before studio polish smoothed its edges — useful for drummers who want to study raw execution rather than a fully produced, dynamically-refined performance.\n\n**Independent Double-Bass Foundation (30-45 minutes daily):**\n- Practice all patterns on independent pedals, not a double pedal — this is the foundation Eloy built his entire career on\n- Work the \"Trauma of War\" verse pattern starting at 100 BPM, prioritizing evenness over speed\n\n**Live-Take Discipline:**\n- Record a full song in one pass without stopping to fix mistakes — Robinson's methodology rewards commitment over perfection\n- Listen back critically: identify where energy and conviction compensate for technical roughness\n\n**Thrash Groove Fundamentals:**\n- Master a steady 16th-note double-kick pattern with independent hand coordination at 140-165 BPM\n- Study how a 21-year-old Eloy prioritizes power and consistency over ornamentation — the same fundamentals underpin his later, more technical work"
+    },
+    "faq": [
+      {
+        "question": "What was Eloy Casagrande's first studio album with Sepultura?",
+        "answer": "Eloy Casagrande's first studio album with Sepultura was The Mediator Between Head and Hands Must Be the Heart, released October 25, 2013 (Europe) / October 29, 2013 (US) via Nuclear Blast. Eloy had joined the band in 2011 at age 19, but this was the first full-length record to capture his playing in the studio. It was produced by Ross Robinson (who also produced Sepultura's 1996 album Roots), co-produced by Steve Evetts, and recorded over 40 days in June 2013 at Robinson's studio in Venice, California."
+      },
+      {
+        "question": "What drums did Eloy Casagrande use on The Mediator Between Head and Hands Must Be the Heart?",
+        "answer": "Eloy Casagrande recorded The Mediator (2013) using a Tama Starclassic Bubinga kit — his first major endorsement-level setup. His configuration included twin 22\"x18\" bass drums for independent double-kick, 10\" and 12\" rack toms, and a 16\" floor tom. His snare was a Tama S.L.P. Big Black Steel, 14\"x6.5\". His cymbals were Paiste RUDE and 2002 series. His bass drum pedals were Tama Iron Cobra Power Glide (one per kick drum)."
+      },
+      {
+        "question": "Who produced Sepultura's The Mediator Between Head and Hands Must Be the Heart?",
+        "answer": "The Mediator (2013) was produced by Ross Robinson, who also produced Sepultura's landmark 1996 album Roots, alongside Korn, Slipknot, and At the Drive-In. Steve Evetts co-produced. The album was tracked over 40 days in June 2013 at Robinson's own studio in Venice, California, mixed at Omen Room Studios in Anaheim, and mastered by Alan Douches at West West Side Studios in New York. Robinson's signature approach — live takes, minimal overdubbing — shaped the raw character of Eloy Casagrande's recorded debut."
+      },
+      {
+        "question": "How does Eloy's Mediator setup compare to his Machine Messiah setup?",
+        "answer": "Between The Mediator (2013) and Machine Messiah (2017), Eloy's setup evolved substantially. Shells: Tama Starclassic Bubinga → Tama Starclassic Walnut/Birch. Cymbals: Paiste RUDE/2002 → Meinl Classics Custom — a shift in tonal character as much as brand. Pedals: Tama Iron Cobra Power Glide → Tama Iron Cobra 900. The production context changed just as much: Ross Robinson's raw, live-take Venice sessions gave way to Jens Bogren's polished Fascination Street Studios approach. See the full Machine Messiah breakdown at [/articles/machine-messiah-drum-setup](/articles/machine-messiah-drum-setup)."
+      }
+    ],
+    "conclusion": {
+      "title": "The Mediator: Where the Eloy Casagrande Arc Truly Begins",
+      "content": "*The Mediator Between Head and Hands Must Be the Heart* is the real beginning of the Eloy Casagrande story — four years before *Machine Messiah* introduced him to a wider international audience. The Tama Starclassic Bubinga, the Paiste RUDE and 2002 cymbals, the Tama Iron Cobra pedals: this was the setup of a 21-year-old who had just been trusted with one of thrash metal's most important rhythmic chairs, recording under one of metal production's most demanding, confrontational producers.\n\n**The Debut Before the Debut:**\nEverything that followed in Eloy's career — the polish of *Machine Messiah*, the peak of *Quadra*, the Metallica invitation, the Slipknot chapter — traces back to the raw, unguarded performance captured in Ross Robinson's Venice studio in June 2013. For the complete Eloy arc, see the [Eloy Casagrande drummer profile](/drummer/eloy-casagrande), the [Machine Messiah drum setup breakdown](/articles/machine-messiah-drum-setup), and the [Quadra drum setup breakdown](/articles/quadra-drum-setup).\n\n**The Sepultura Arc:**\n*The Mediator* opens the documented Eloy Casagrande era on MetalForge — the debut that precedes [Machine Messiah (2017)](/articles/machine-messiah-drum-setup) and [Quadra (2020)](/articles/quadra-drum-setup), and the foundation for everything that carried Sepultura's drummer to Metallica's stadium stages and Slipknot's masked chaos.\n\n*The Mediator. Where the arc truly begins.* 🤘"
     }
   }
 };

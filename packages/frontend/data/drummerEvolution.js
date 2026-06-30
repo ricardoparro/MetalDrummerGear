@@ -9835,6 +9835,978 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Morgan Ågren Gear Evolution Timeline | Avant-Garde Drum Kit History',
     metaDescription: 'Explore Morgan Ågren\'s complete drum gear evolution: Sonor beginnings → DW Collector\'s (Zappa connection) → hybrid acoustic/electronic setup. Sweden\'s most innovative drummer documented era by era.',
   },
+
+  // ==========================================
+  // Frost - Satyricon / 1349 (1993-Present)
+  // ==========================================
+  'frost': {
+    slug: 'frost',
+    name: 'Frost',
+    band: 'Satyricon / 1349',
+    totalYearsActive: '1993-Present',
+    profileImage: '/images/drummers/frost.webp',
+    summary: "Frost (Kjetil-Vidar Haraldstad) has spent three decades as the rhythmic engine of Norwegian black metal — from the raw, corpse-painted blast beats of Satyricon's early albums through the industrial experimentation of Rebel Extravaganza, the sophisticated technicality of the band's commercial peak, and the textured, exploratory drumming of his recent work with both Satyricon and 1349.",
+
+    eras: [
+      {
+        id: 'frost-1993-genesis',
+        era: 'Raw Black Metal Genesis',
+        years: '1993-1996',
+        startYear: 1993,
+        endYear: 1996,
+        description: "Frost joined Satyricon in 1993, stepping into Norway's nascent black metal scene at the height of its corpse-painted, lo-fi infancy. His early playing on Dark Medieval Times and Nemesis Divina favored raw, unrelenting blast beats over technical polish — a deliberately primitive aesthetic that matched the genre's atmosphere of cold, monochrome aggression. The gear was budget and unglamorous; the drumming was already setting a new physical standard for endurance.",
+        albums: ['Dark Medieval Times (1993)', 'Nemesis Divina (1996)'],
+        tours: ['Early Norwegian black metal scene dates', 'Nemesis Divina European tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Export Series',
+            details: 'Birch/mahogany shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Budget pre-endorsement kit — typical of Norway\'s underground black metal scene in the early 1990s, where gear mattered far less than atmosphere and intent.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Export 14"x5.5" Steel',
+            details: 'Basic steel shell',
+            notes: 'A raw, unpolished crack that suited Nemesis Divina\'s deliberately cold, lo-fi production.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Standard entry-level Zildjian setup — nothing built specifically for black metal yet existed in his price range.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl standard hardware, single pedal',
+            details: 'Single bass drum pedal',
+            notes: 'Frost built his early reputation on relentless single-foot blast beats before double bass became part of his vocabulary.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Off-the-shelf sticks for a drummer with no endorsement deals yet.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Standard single-ply configuration',
+            notes: 'Basic heads, nothing tailored to extreme-tempo durability yet.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 1800,
+          inflationAdjusted: 4500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Satyricon (1993), entering Norway\'s corpse-painted black metal underground',
+          'Dark Medieval Times and Nemesis Divina established his raw blast-beat foundation',
+          'Single-foot blast beats become his early technical signature',
+          'Budget Pearl Export kit — no endorsements yet',
+        ],
+
+        quote: {
+          text: "In the beginning it wasn't about the gear at all. It was about how much darkness and speed you could put into a blast beat without breaking.",
+          source: 'Terrorizer Magazine Interview, 1997',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'frost-1996-industrial',
+        era: 'Industrial Black Metal Evolution',
+        years: '1996-2002',
+        startYear: 1996,
+        endYear: 2002,
+        description: "Satyricon's sound shifted toward industrial textures on Rebel Extravaganza, and Frost's gear evolved alongside it. He upgraded to a proper Pearl Custom kit, added Roland electronic triggers to guarantee consistent attack at extreme tempos, and adopted a double pedal that expanded his foot vocabulary beyond pure single-foot blasting. In 2001 he co-founded 1349, a project built entirely around uncompromising speed — doubling down on the very techniques Satyricon was beginning to complicate with rock and industrial elements.",
+        albums: ['Rebel Extravaganza (1999)', 'Volcano (2002)'],
+        tours: ['Rebel Extravaganza European tour', 'Volcano release touring'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Custom',
+            details: 'Maple shells: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Upgrade to a proper professional Pearl configuration as Satyricon\'s budget and ambitions grew.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Steel 14"x6.5"',
+            details: 'Free-floating shell design',
+            notes: 'Deeper, more resonant crack for Rebel Extravaganza\'s industrial-tinged production.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: '14" hi-hats, 16"/17"/18" crashes, 20" ride',
+            notes: 'Brighter, more cutting cymbals to slice through denser industrial-metal guitar layers.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal',
+            details: 'Double bass configuration',
+            notes: 'Double pedal added — expanding his blast-beat vocabulary beyond the single-foot technique of his early years.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth 2B',
+            details: 'Heavier hickory',
+            notes: 'Switched to heavier sticks as touring intensity and venue sizes increased.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          heads: {
+            item: 'Remo Emperor',
+            details: 'Double-ply heads',
+            notes: 'More durable heads to survive sustained blast-beat abuse night after night.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'Roland Trigger Module',
+            details: 'Bass drum triggering',
+            notes: 'Electronic triggers added on the bass drum — ensuring consistent attack definition at extreme tempos regardless of room acoustics, a tool that has stayed in his live rig ever since.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 4500,
+          inflationAdjusted: 9000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Pearl Custom upgrade marks a clear step up from budget Export-era gear',
+          'Roland electronic triggers introduced — a defining live-sound tool from Rebel Extravaganza onward',
+          'Double bass pedal added, expanding foot-technique vocabulary',
+          'Co-founded 1349 (2001), a project dedicated to maximum-velocity black metal',
+        ],
+
+        quote: {
+          text: "1349 let me chase pure speed without compromise. Satyricon was starting to ask different questions of me — both bands needed reliable gear that wouldn't fail at 240 BPM.",
+          source: 'Metal Maniacs Interview, 2003',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'frost-2002-sophisticated',
+        era: 'Sophisticated Progressive Black Metal',
+        years: '2002-2013',
+        startYear: 2002,
+        endYear: 2013,
+        description: "As Satyricon moved toward the leaner, more rock-structured sound of Now, Diabolical and the self-titled 2013 album, Frost's playing grew more architectural — blast beats with internal dynamics, deliberate cymbal voicing, and seamless transitions between blasting and mid-tempo grooves. His gear matured to match: a flagship Pearl Reference kit, a warmer brass snare, and a refined Zildjian cymbal mix blending bright A Customs with darker K Custom textures.",
+        albums: ['Now, Diabolical (2006)', 'The Age of Nero (2008)', 'Satyricon (2013)'],
+        tours: ['Now, Diabolical world tour', 'Wacken Open Air headline sets', 'Satyricon (2013) album tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference',
+            details: 'Maple shells, custom finish: 22" kick, 10"/12"/14"/16" toms',
+            notes: 'Flagship Pearl tier — matched Satyricon\'s growing commercial profile and arena-level production needs.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating Brass 14"x6.5"',
+            details: 'Brass shell',
+            notes: 'Warmer brass crack suited to Now, Diabolical\'s more polished, rock-inflected production.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom / K Custom Dark mix',
+            details: '14" A Custom hi-hats, 16"/17"/18" A Custom crashes, 22" K Custom Dark ride, 18" K China',
+            notes: 'A darker K Custom ride layered alongside the bright A Customs — reflecting the band\'s more sophisticated, dynamically controlled material.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal',
+            details: 'Continued double bass platform',
+            notes: 'Stuck with the Eliminator\'s proven precision through this commercially successful era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic Extreme 5B',
+            details: 'Reinforced 5B model',
+            notes: 'Switched to a stick built for extreme-tempo durability without sacrificing control.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          heads: {
+            item: 'Remo Emperor / Ambassador combo',
+            details: 'Emperor on toms, Ambassador on snare',
+            notes: 'Balanced punch and clarity configuration carried into the band\'s biggest touring years.',
+            change: null,
+          },
+          electronics: {
+            item: 'Roland Trigger Module (refined)',
+            details: 'Continued bass drum triggering',
+            notes: 'Trigger setup refined for festival-stage reliability during the Now, Diabolical and Age of Nero touring cycles.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 7000,
+          inflationAdjusted: 11000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Now, Diabolical (2006) brings Satyricon mainstream metal success',
+          'Pearl Reference becomes his flagship kit for the band\'s biggest touring era',
+          'K Custom Dark ride added for darker, more rhythmically sophisticated passages',
+          'Playing matures from pure-aggression blasting into architecturally structured drumming',
+        ],
+
+        quote: {
+          text: "I stopped thinking about blast beats as a wall of noise. Every stroke has to mean something now, even at 240 BPM.",
+          source: 'Rhythm Magazine Interview, 2008',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'frost-2013-experimental',
+        era: 'Experimental Modern Era',
+        years: '2013-Present',
+        startYear: 2013,
+        endYear: 2026,
+        description: "Frost's most recent era — spanning Satyricon's Deep calleth upon Deep and 1349's The Infernal Pathway — finds him switching to Sonor's premium SQ2 platform and pushing into more textured, exploratory territory without losing the technical foundation built across thirty years. The setup is leaner and more focused than ever, built for a drummer balancing two demanding bands simultaneously.",
+        albums: ['Deep calleth upon Deep (2017)', '1349 - The Infernal Pathway (2019)'],
+        tours: ['Deep calleth upon Deep world tour', '1349 festival circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor SQ2 Series',
+            details: 'Custom finishes: compact configuration for fast access during extreme passages',
+            notes: 'Switched from Pearl to Sonor\'s premium custom-build platform — a focused, articulate tone suited to extreme blast-beat tempos and a compact footprint for quick movement around the kit.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Sonor SQ2 14"x6" Maple',
+            details: 'Maple shell',
+            notes: 'The dry, cutting crack that defines his current sound across both Satyricon and 1349.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom & K Series',
+            details: '14" A Custom hi-hats, 16"/17"/18" A Custom crashes, 22" K Custom Dark ride, 18" K China',
+            notes: 'A Custom for fast, controlled articulation; K Custom Dark for washy, atmospheric textures suited to Deep calleth upon Deep\'s more exploratory material.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Sonor Perfect Balance Pedal',
+            details: 'Single pedal platform',
+            notes: 'Switched to Sonor\'s flagship pedal for speed and control alongside the new SQ2 kit.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic Extreme 5B',
+            details: 'Continued reinforced model',
+            notes: 'Carried over from the previous era — a durable stick for sustained extreme-tempo work.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo',
+            details: 'Standard configuration',
+            notes: 'Consistent head choice through the Sonor transition.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 9000,
+          inflationAdjusted: 9000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switched from Pearl to Sonor SQ2 — his current and most enduring kit relationship',
+          'Deep calleth upon Deep (2017) pushes Satyricon into more atmospheric, exploratory textures',
+          '1349\'s The Infernal Pathway (2019) maintains maximum-velocity extreme metal in parallel',
+          'Three decades into his career, balances two demanding bands with a single streamlined setup',
+        ],
+
+        quote: {
+          text: "Black metal drumming is about channeling darkness and aggression through precision.",
+          source: 'Decibel Magazine, 2010',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: "How has Frost's drumming style evolved across Satyricon albums?",
+        a: "Frost's playing has moved through four distinct phases: the raw, primitive blast beats of Dark Medieval Times and Nemesis Divina (1993-1996); the industrial-tinged technical expansion of Rebel Extravaganza and Volcano (1996-2002), where Roland triggers and double bass entered his vocabulary; the architecturally sophisticated, dynamically controlled drumming of Now, Diabolical and the self-titled 2013 album (2002-2013); and the leaner, more textured, experimental approach of Deep calleth upon Deep and 1349's recent work (2013-present). Across all four eras, his core identity — relentless blast beats with disciplined internal structure — has remained constant even as the surrounding production and gear evolved.",
+      },
+      {
+        q: 'What drum kit does Frost play now?',
+        a: 'Frost currently plays a Sonor SQ2 Series kit, switching from Pearl drums around the Deep calleth upon Deep era. His setup includes a Sonor SQ2 14"x6" maple snare, Zildjian A Custom and K Custom Dark cymbals, a Sonor Perfect Balance pedal, and Vic Firth American Classic Extreme 5B sticks.',
+      },
+      {
+        q: 'Why did Frost switch from Pearl to Sonor drums?',
+        a: 'After two decades on Pearl, Frost moved to Sonor\'s SQ2 custom-build platform for its focused, articulate attack at extreme blast-beat tempos and a more compact kit footprint — well suited to a drummer splitting his time between Satyricon\'s increasingly textured material and 1349\'s maximum-velocity extreme metal.',
+      },
+      {
+        q: 'Is Frost still active in both Satyricon and 1349?',
+        a: 'Yes. Frost has been Satyricon\'s drummer since 1993 and co-founded 1349 in 2001, maintaining both demanding roles simultaneously for over two decades — one of the longest dual-band tenures in black metal.',
+      },
+    ],
+
+    metaTitle: "Frost Gear Evolution Timeline | Satyricon & 1349 Drum Kit History",
+    metaDescription: "Explore Frost's complete gear evolution from raw 1990s black metal blast beats through Pearl, to his current Sonor SQ2 setup. Four eras of Satyricon and 1349's defining drummer.",
+  },
+
+  // ==========================================
+  // Bill Ward - Black Sabbath (1968-1980)
+  // ==========================================
+  'bill-ward': {
+    slug: 'bill-ward',
+    name: 'Bill Ward',
+    band: 'Black Sabbath',
+    totalYearsActive: '1968-1980',
+    profileImage: '/images/drummers/bill-ward.webp',
+    summary: "Bill Ward co-founded Black Sabbath in 1968 and, across twelve foundational years, invented the vocabulary of heavy metal drumming — applying jazz-trained swing and dynamics to riffs heavier than anything rock had produced before. His gear evolution from Earth's blues-rock beginnings through Paranoid's birth of metal, Sabotage's progressive ambition, and Never Say Die's jazz-informed heaviness traces the genre's entire first decade.",
+
+    eras: [
+      {
+        id: 'bill-ward-1968-genesis',
+        era: 'Earth to Black Sabbath: Proto-Metal Invention',
+        years: '1968-1970',
+        startYear: 1968,
+        endYear: 1970,
+        description: "Bill Ward co-founded Earth in Birmingham in 1968 alongside Tony Iommi, Geezer Butler, and Ozzy Osbourne, renaming the band Black Sabbath in 1969. A jazz-trained drummer raised on Gene Krupa and Buddy Rich, Ward brought swing and dynamic looseness to riffs heavier and slower than anything in rock at the time — an unlikely but essential combination that, by the time of the band's self-titled 1970 debut, had effectively invented heavy metal drumming from scratch.",
+        albums: ['Black Sabbath (1970)'],
+        tours: ['Early Birmingham club circuit', 'First UK tour dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Ludwig Standard / Slingerland mix',
+            details: '24" kick, 13" rack tom, 16" floor tom',
+            notes: 'A simple, compact jazz-rock configuration — no double bass, no large tom arrays, just the essentials played with jazz-influenced finesse.',
+            change: null,
+          },
+          snare: {
+            item: 'Ludwig Supraphonic 14"x6.5" LM402',
+            details: 'Seamless aluminum "Ludalloy" shell',
+            notes: 'Established early — the bright, sensitive snare that would become the defining crack of heavy metal\'s birth.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Paiste Giant Beat 18"/20"',
+            details: 'Oversized jazz-big-band cymbals',
+            notes: 'Unusually large for a rock drummer — chosen for their dark, washy bloom rather than typical rock cut.',
+            change: null,
+          },
+          hardware: {
+            item: 'Ludwig Speed King single pedal',
+            details: 'Single-chain pedal',
+            notes: 'Ward never adopted double bass — his power came from single-stroke precision and jazz-informed footwork.',
+            change: null,
+          },
+          sticks: {
+            item: '2B hickory',
+            details: 'Heavy hickory sticks',
+            notes: 'Standard heavy sticks suited to the new, slower, riff-heavy material.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Single-ply, no muffling',
+            notes: 'Open, resonant heads — Ward let the drums breathe rather than choking them with dampening.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 800,
+          inflationAdjusted: 6500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Co-founded Earth (1968), renamed Black Sabbath (1969)',
+          'Jazz training applied to heavier, slower riffs than rock had attempted before',
+          'Ludwig Supraphonic snare established as a career-defining sound',
+          'Oversized Paiste Giant Beat cymbals chosen for wash and atmosphere over cut',
+        ],
+
+        quote: {
+          text: "I wasn't trying to invent anything. I was just playing what I heard in my head over Tony's riffs, and it came out heavier than anyone expected.",
+          source: 'Modern Drummer Interview, 1992',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'bill-ward-1970-paranoid',
+        era: "Paranoid Era: Blues-Rock Foundation / Birth of Heavy Metal",
+        years: '1970-1971',
+        startYear: 1970,
+        endYear: 1971,
+        description: "Released within the same year as the debut, Paranoid (1970) and Master of Reality (1971) cemented Black Sabbath's blues-rock foundation as the template for an entirely new genre. Ward's swinging, dynamic drumming on \"War Pigs,\" \"Iron Man,\" and \"Paranoid\" gave the riffs room to breathe — a deliberately loose, musical counterpoint to Iommi's downtuned heaviness that became the rhythmic blueprint every metal drummer since has had to reckon with.",
+        albums: ['Paranoid (1970)', 'Master of Reality (1971)'],
+        tours: ['Paranoid World Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Ludwig Vistalite',
+            details: 'Clear acrylic shells: 24" kick, 13"/16" toms',
+            notes: 'The iconic clear acrylic kit — visually spectacular on stage and bright-toned, projecting well in the larger venues Sabbath was now filling.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Ludwig Supraphonic 14"x6.5" LM402',
+            details: 'Continued aluminum shell',
+            notes: 'The same Supraphonic sound, now the snare heard on "War Pigs" and "Iron Man" — among the most recorded drum tones in rock history.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste Giant Beat (expanded)',
+            details: '15" Sound Edge hi-hats, 18"/20"/24" crashes-rides',
+            notes: 'Expanded to include a massive 24" crash-ride — among the largest cymbals in rock at the time, used for huge sustained washes over the heaviest riffs.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Ludwig Speed King + Ludwig Atlas stands',
+            details: 'Upgraded touring hardware',
+            notes: 'Heavier-duty stands added to support the larger cymbal array and increased touring demands.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: '2B hickory',
+            details: 'Continued heavy hickory',
+            notes: 'No change — the same stick that carried the debut album.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Continued open configuration',
+            notes: 'Unchanged — open, resonant heads for natural decay and tone.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 1500,
+          inflationAdjusted: 11000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Ludwig Vistalite acrylic kit becomes one of rock\'s most visually iconic setups',
+          '"War Pigs," "Iron Man," and "Paranoid" define heavy metal\'s rhythmic birth',
+          'Massive 24" Paiste cymbal added for sustained, washy crash-rides',
+          'Blues-rock swing remains the foundation even as the riffs grow heavier',
+        ],
+
+        quote: {
+          text: "Paranoid wasn't a metal record to us. It was blues and jazz played as loud and heavy as we could manage. The metal label came later.",
+          source: 'Classic Rock Magazine, 2001',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'bill-ward-1972-sabotage',
+        era: 'Vol. 4 to Sabotage: Progressive Influences',
+        years: '1972-1976',
+        startYear: 1972,
+        endYear: 1976,
+        description: "Black Sabbath's ambition expanded across Vol. 4 (1972), Sabbath Bloody Sabbath (1973), and Sabotage (1975), incorporating orchestration, longer song structures, and progressive arrangements. Ward's drumming grew correspondingly more complex — more fills, more dynamic shading, more space for musical conversation with Iommi's increasingly intricate riffs — while his gear shifted toward warmer maple tones and brighter, more cutting Paiste cymbals to keep pace with denser productions.",
+        albums: ['Vol. 4 (1972)', 'Sabbath Bloody Sabbath (1973)', 'Sabotage (1975)'],
+        tours: ['Vol. 4 Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Ludwig Standard Maple',
+            details: '3-ply maple shells with reinforcement rings',
+            notes: 'Switched to maple for warmer, more musical studio tone — better suited to Sabotage\'s denser, more layered arrangements than the bright acrylic Vistalite.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Ludwig Supraphonic 14"x6.5" LM402',
+            details: 'Continued signature snare',
+            notes: 'Unchanged through this era — the Supraphonic crack remained non-negotiable.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002 Series',
+            details: '15" Sound Edge hi-hats, 18"/20" crashes, 22" ride',
+            notes: 'Switched from the washy Giant Beats to the brighter, more cutting 2002 line — needed for definition against Sabotage\'s more complex arrangements.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Ludwig Atlas',
+            details: 'Continued touring hardware',
+            notes: 'No change — proven hardware platform through the band\'s most ambitious recording period.',
+            change: null,
+          },
+          sticks: {
+            item: '2B hickory',
+            details: 'Continued',
+            notes: 'Consistent stick choice across the entire classic era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Continued open configuration',
+            notes: 'No change — resonant, open tone preserved.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2200,
+          inflationAdjusted: 12000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switched from acrylic Vistalite to warmer Ludwig Standard Maple shells',
+          'Paiste 2002 cymbals adopted for more cut and definition',
+          'Sabotage (1975) showcases his most complex, progressive-leaning fills',
+          'Drumming grows more conversational with Iommi\'s increasingly intricate riffs',
+        ],
+
+        quote: {
+          text: "Sabotage asked more of me than anything before it. I had to think like an arranger, not just a timekeeper.",
+          source: 'Sounds Magazine, 1975',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'bill-ward-1976-late',
+        era: 'Technical Ecstasy to Never Say Die: Jazz-Informed Heaviness',
+        years: '1976-1980',
+        startYear: 1976,
+        endYear: 1980,
+        description: "Black Sabbath's final original-lineup albums, Technical Ecstasy (1976) and Never Say Die! (1978), found Ward leaning further into his jazz roots — more nuanced hi-hat work, looser fills, and a drier, more controlled tone from a switch to Slingerland's Radio King. Mounting health and personal struggles shadowed this period, and Ward departed the band in 1980, closing the twelve-year arc that had defined heavy metal's rhythmic foundation from the ground up.",
+        albums: ['Technical Ecstasy (1976)', 'Never Say Die! (1978)'],
+        tours: ['Technical Ecstasy Tour', 'Never Say Die! Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Slingerland Radio King',
+            details: 'Single-ply maple shells',
+            notes: 'Switched to Slingerland for a drier, more controlled tone — a deliberate departure from the resonant Ludwig sound that had carried the previous decade.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Ludwig Supraphonic 14"x6.5" LM402',
+            details: 'Continued lifelong signature snare',
+            notes: 'Even with the kit switch, the Supraphonic remained his constant — too central to his sound to replace.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002 / Giant Beat (refined mix)',
+            details: '22" 2002 ride, 24" Giant Beat crash-ride',
+            notes: 'Refined blend of his two Paiste eras — cutting 2002 definition alongside the washy Giant Beat sustain he\'d favored from the beginning.',
+            change: null,
+          },
+          hardware: {
+            item: 'Ludwig Speed King',
+            details: 'Continued single pedal',
+            notes: 'No change — twelve years on the same pedal philosophy, precision over power.',
+            change: null,
+          },
+          sticks: {
+            item: '2B hickory',
+            details: 'Continued',
+            notes: 'Unchanged across the entire Black Sabbath tenure.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Continued open configuration',
+            notes: 'Consistent to the end of the original lineup era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2500,
+          inflationAdjusted: 11000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switched to Slingerland Radio King for a drier, more controlled tone',
+          'Jazz-informed dynamics reach their deepest expression on Technical Ecstasy',
+          'Health and personal struggles mount through the Never Say Die! era',
+          'Departed Black Sabbath in 1980, closing the foundational twelve-year arc',
+        ],
+
+        quote: {
+          text: "By Never Say Die! I was playing more like myself than ever — more jazz, more space. It just happened to also be the end of an era.",
+          source: 'Rolling Stone Interview, 1995',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'How did Bill Ward invent heavy metal drumming?',
+        a: "Bill Ward co-founded Black Sabbath in 1968 and applied jazz-trained swing, dynamics, and feel — learned from Gene Krupa and Buddy Rich — to riffs heavier and slower than rock had previously attempted. That combination of jazz looseness over proto-metal heaviness, heard on the 1970 debut and Paranoid, effectively created the vocabulary of heavy metal drumming from scratch. His Ludwig Supraphonic snare and oversized Paiste cymbals became sonic signatures that shaped how an entire genre would be recorded for decades.",
+      },
+      {
+        q: 'What drums did Bill Ward play on Paranoid?',
+        a: 'On Paranoid (1970), Ward played a Ludwig Vistalite acrylic kit — clear shells with a 24" bass drum, 13" rack tom, and 16" floor tom — paired with his career-defining Ludwig Supraphonic 14"x6.5" LM402 snare and oversized Paiste Giant Beat cymbals up to 24" in diameter.',
+      },
+      {
+        q: "Why are Bill Ward's cymbals so much larger than typical rock cymbals?",
+        a: 'Ward favored Paiste\'s Giant Beat series — originally designed for jazz big bands — in sizes up to 24", far larger than the 14"-18" cymbals typical of rock drummers at the time. He wanted sustain and atmospheric wash rather than a quick crash-and-choke attack, letting his cymbals bloom and decay naturally over Sabbath\'s crushing riffs.',
+      },
+      {
+        q: 'Why did Bill Ward leave Black Sabbath?',
+        a: 'Ward departed Black Sabbath in 1980 following years of mounting personal and health struggles, including alcoholism, that had intensified through the Never Say Die! era. He later rejoined for select reunions, including the 1997-1998 Ozzfest dates, though he did not participate in subsequent studio reunions.',
+      },
+    ],
+
+    metaTitle: 'Bill Ward Gear Evolution Timeline | Black Sabbath Drum Kit History',
+    metaDescription: "Explore Bill Ward's complete gear evolution from Earth's blues-rock beginnings through Paranoid's birth of metal, Sabotage's progressive ambition, and Never Say Die's jazz-informed heaviness. Heavy metal drumming's foundational arc, era by era.",
+  },
+
+  // ==========================================
+  // Martin Lopez - Opeth / Soen (1997-Present)
+  // ==========================================
+  'martin-lopez': {
+    slug: 'martin-lopez',
+    name: 'Martin Lopez',
+    band: 'Opeth / Soen',
+    totalYearsActive: '1997-Present',
+    profileImage: '/images/drummers/martin-lopez.webp',
+    summary: "Martin Lopez brought jazz-classical training to Opeth's progressive death metal in 1997, building a drumming voice defined by dynamic range and melodic phrasing across five albums before health struggles forced his departure in 2006 — a moment that opened the door for successor Martin Axenrot. He resurfaced in 2010 with Soen, returning to the warmer, jazz-informed textures that had always been closer to his musical instincts.",
+
+    eras: [
+      {
+        id: 'martin-lopez-1997-genesis',
+        era: 'Jazz Foundations / Opeth Debut',
+        years: '1996-1998',
+        startYear: 1996,
+        endYear: 1998,
+        description: "Martin Lopez began his professional career with Amon Amarth in 1996 before joining Opeth in 1997, replacing original drummer Anders Nordin mid-album on what would become My Arms, Your Hearse (1998). Working with budget pre-endorsement gear, Lopez delivered an uncompromising, technically precise death metal performance that established the four-tom melodic layout and architectural fill vocabulary he would carry through every subsequent Opeth record — even before his full jazz-informed dynamic range had room to emerge.",
+        albums: ['My Arms, Your Hearse (1998)'],
+        tours: ['Early Opeth club dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Forum / Sonor Force-class (mixed budget kit)',
+            details: '22" kick, 10"/12" rack toms, 14"/16" floor toms',
+            notes: 'Entry-level professional shells assembled from whatever Opeth\'s 1998 touring budget allowed — no endorsements yet, pure working-musician gear.',
+            change: null,
+          },
+          snare: {
+            item: 'Generic steel 14"x5.5"',
+            details: 'Budget steel shell',
+            notes: 'Sharp, cutting crack appropriate for Fredman Studio\'s close-mic death metal production approach.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian B8 Pro',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" china',
+            notes: 'Bright, entry-line brass — workable for death metal aggression but lacking the dark complexity he would later adopt.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 5000 Double Pedal, Pearl H-900 hi-hat stand',
+            details: 'Mid-tier touring hardware',
+            notes: 'The DW 5000 would remain his pedal of choice throughout his entire Opeth career.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A',
+            details: 'Light hickory',
+            notes: 'A lighter stick than typical death metal drummers favored — an early signal of his control-over-power priorities.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Standard configuration',
+            notes: 'Open, resonant heads, unremarkable but effective.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2000,
+          inflationAdjusted: 4000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Opeth in 1997, replacing original drummer Anders Nordin mid-album',
+          'My Arms, Your Hearse (1998) establishes the four-tom melodic layout he\'d use for his entire Opeth tenure',
+          'Pre-endorsement budget gear — technique already well ahead of equipment',
+          'Jazz-trained vocabulary still held largely in reserve by the album\'s heavier, no-clean-vocals mandate',
+        ],
+
+        quote: {
+          text: "I came from a jazz background into a death metal band mid-record. I just tried to play what the songs needed and figure the rest out later.",
+          source: 'Terrorizer Magazine Interview, 1999',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'martin-lopez-1999-stilllife',
+        era: 'Still Life to Blackwater Park: Dynamic Breakthrough',
+        years: '1999-2001',
+        startYear: 1999,
+        endYear: 2001,
+        description: "With Still Life (1999) and Blackwater Park (2001), Lopez's full dynamic vocabulary emerged. He upgraded from a budget kit to Pearl Export and then Sonor's Designer Series, switched from entry-level Sabian B8 Pro to the dark, complex Sabian HH line, and — working with producer Steven Wilson on Blackwater Park — captured the seamless transitions between extreme-metal brutality and delicate acoustic passages that would define Opeth's signature sound.",
+        albums: ['Still Life (1999)', 'Blackwater Park (2001)'],
+        tours: ['Still Life European tour', 'Blackwater Park world tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Export → Sonor Designer Series (Maple)',
+            details: '22" kick, 10"/12"/14"/16" toms',
+            notes: 'First meaningful drum upgrade with Still Life, followed by a switch to Sonor\'s Designer maple shells for Blackwater Park\'s open, warm production.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Sensitone Steel → Sonor Designer 14"x5.5"',
+            details: 'Steel, then maple shell',
+            notes: 'Sharper response than the generic 1998 snare, then a warmer Sonor maple shell to match Blackwater Park\'s dynamic range.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian HH (Hand Hammered)',
+            details: '14" hi-hats, 20" ride, 22" Raw Bell Dry Ride, 16"/18" AAX crashes',
+            notes: 'The most consequential single gear change of his career — dark, complex, washy tone replacing the bright, functional B8 Pro line, audible immediately on Still Life\'s ride passages.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 5000 Double Pedal',
+            details: 'Continued',
+            notes: 'Unchanged — the same pedal carried from his 1998 debut.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A',
+            details: 'Continued',
+            notes: 'Consistent light stick preference throughout.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Continued',
+            notes: 'No change to head configuration.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4500,
+          inflationAdjusted: 8500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Sabian HH cymbals adopted — the single most consequential gear change of his career',
+          'Sonor Designer Series brought in for Blackwater Park\'s open, dynamic production',
+          'Steven Wilson\'s production on Blackwater Park (2001) unlocks his full dynamic vocabulary',
+          'Ghost-note architecture and brush-adjacent sensitivity fully emerge for the first time',
+        ],
+
+        quote: {
+          text: "Blackwater Park is where I finally sounded like myself on record. Everything before that was getting ready for this.",
+          source: 'Drummer World Interview, 2002',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'martin-lopez-2002-deliverance',
+        era: 'Deliverance to Ghost Reveries: Progressive Death Metal Peak',
+        years: '2002-2005',
+        startYear: 2002,
+        endYear: 2005,
+        description: "Lopez's most extreme recorded performance (Deliverance, 2002) and his first all-acoustic, brush-driven work (Damnation, 2003) bookend this era, before Ghost Reveries (2005) — his final album with Opeth — closed the arc with the most polished expression of his progressive death metal vocabulary. The Sonor Designer kit remained constant, but his technique expanded dramatically: from maximum-intensity blast work to whisper-quiet brushwork within the same two-album cycle.",
+        albums: ['Deliverance (2002)', 'Damnation (2003)', 'Ghost Reveries (2005)'],
+        tours: ['Deliverance/Damnation co-headline tour', 'Ghost Reveries world tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor Designer Series (Maple, expanded)',
+            details: '22" kick, 10"/12"/14"/16" toms',
+            notes: 'Same Designer Series platform from Blackwater Park, carried through his most demanding (Deliverance) and most restrained (Damnation) recordings.',
+            change: null,
+          },
+          snare: {
+            item: 'Sonor Designer 14"x5.5" + secondary snare',
+            details: 'Primary maple plus a second snare for brush work',
+            notes: 'A secondary snare added specifically for Damnation\'s all-acoustic brush textures — a first in his setup.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Sabian HH / AAX expanded mix',
+            details: 'Hi-hats, ride, Raw Bell Dry Ride, AAX crashes',
+            notes: 'Expanded cymbal palette to cover Deliverance\'s extremity and Damnation\'s restraint within the same era.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 5000 Double Pedal',
+            details: 'Continued',
+            notes: 'No change — the same reliable pedal across his entire Opeth tenure.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A + brushes',
+            details: 'Sticks plus wire brushes',
+            notes: 'Brushes added specifically for Damnation — Opeth\'s first fully acoustic, clean-vocal album.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Continued',
+            notes: 'Open, sensitive configuration suited to both extremity and brush work.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 6000,
+          inflationAdjusted: 10500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Deliverance (2002) — his most extreme, technically demanding Opeth performance',
+          'Damnation (2003) — Opeth\'s all-acoustic album introduces brush technique and a secondary snare',
+          'Ghost Reveries (2005) — final album with Opeth, closing the progressive death metal arc',
+          'Departed Opeth in 2006 due to health issues (panic disorder)',
+        ],
+
+        quote: {
+          text: "Damnation forced me to find a completely different vocabulary. No blast beats to hide behind — just touch and dynamics.",
+          source: 'Modern Drummer Interview, 2003',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'martin-lopez-2006-departure',
+        era: 'Departure & Soen: Jazz-Classical Return',
+        years: '2006-Present',
+        startYear: 2006,
+        endYear: 2026,
+        description: "Lopez left Opeth in 2006 due to health issues including panic disorder — a departure that opened the drum seat for successor Martin Axenrot and marked a clear inflection point in Opeth's history. After several quiet years, Lopez co-founded Soen in 2010, returning to warmer, more jazz-classically informed textures with a boutique Noble & Cooley kit and darker Zildjian K cymbals, continuing to release acclaimed records through the 2020s.",
+        albums: ['Soen - Cognitive (2012)', 'Soen - Lykaia (2017)', 'Soen - Imperial (2021)', 'Soen - Memorial (2024)'],
+        tours: ['Soen world tours', 'European festival circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Noble & Cooley Walnut',
+            details: 'Boutique American walnut shells',
+            notes: 'Switched to a premium boutique brand entirely — a deliberate move toward warmer, more nuanced tonal character for Soen\'s progressive sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Noble & Cooley Solid Shell 14"x6" Maple',
+            details: 'Solid maple shell',
+            notes: 'A richer, more complex tone than any snare from his Opeth years — matching Soen\'s more melodic, less extreme material.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian K Dark Series',
+            details: '14" K Dark Thin hi-hats, 18"/20" K Dark Medium Thin crashes, 22" K Dark Light ride, 18" K China',
+            notes: 'Switched from Sabian to Zildjian K Dark for a warmer, more complex overtone structure suited to Soen\'s jazz-informed progressive metal.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Axis Percussion Double Pedal, DW 9100 Throne',
+            details: 'Premium hardware upgrade',
+            notes: 'Upgraded pedal and throne for the more demanding touring schedule of Soen\'s ongoing career.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A',
+            details: 'Continued lifelong choice',
+            notes: 'The one constant across his entire career — light hickory, control over power.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo',
+            details: 'Continued',
+            notes: 'Open, resonant configuration maintained.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 8000,
+          inflationAdjusted: 9500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Left Opeth in 2006 due to panic disorder — successor Martin Axenrot took over the drum seat',
+          'Co-founded Soen in 2010 with bassist Martin Mendez, returning to active recording',
+          'Switched to boutique Noble & Cooley kit and Zildjian K Dark cymbals — warmer, jazz-informed tone',
+          'Continued releasing acclaimed Soen albums through Lykaia (2017), Imperial (2021), and Memorial (2024)',
+        ],
+
+        quote: {
+          text: "Soen let me go back to what I actually hear in my head — more space, more warmth, less about extremity for its own sake.",
+          source: 'Sonic Perspectives Interview, 2017',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: "Was Martin Lopez Opeth's original drummer?",
+        a: 'No — Anders Nordin was Opeth\'s original drummer, playing on the band\'s first two albums. Martin Lopez joined in 1997, replacing Nordin mid-recording of My Arms, Your Hearse (1998), and went on to play on five Opeth albums through Ghost Reveries (2005), becoming the drummer most closely associated with the band\'s progressive death metal peak.',
+      },
+      {
+        q: "How did Martin Lopez influence Opeth's progressive sound?",
+        a: 'Lopez brought jazz-classical training into Opeth\'s progressive death metal framework, introducing dynamic range, melodic tom phrasing, ghost-note architecture, and — on Damnation (2003) — brush technique that no extreme metal drummer of the era was using. His four-tom layout and architectural fill approach, established on My Arms, Your Hearse, became a structural template the band built on through Blackwater Park and Ghost Reveries.',
+      },
+      {
+        q: 'Why did Martin Lopez leave Opeth?',
+        a: 'Lopez departed Opeth in 2006 due to health issues, including panic disorder, that made continued touring untenable. His departure marked a clear inflection point in Opeth\'s history, with Martin Axenrot taking over the drum seat for It Their Darkened Shapes and subsequent albums.',
+      },
+      {
+        q: 'Who replaced Martin Lopez in Opeth?',
+        a: "Martin Axenrot replaced Martin Lopez as Opeth's drummer following Lopez's 2006 departure. Axenrot, previously known for his work with Bloodbath, has remained Opeth's drummer ever since, while Lopez resurfaced in 2010 with the progressive metal band Soen.",
+      },
+    ],
+
+    metaTitle: 'Martin Lopez Gear Evolution Timeline | Opeth & Soen Drum Kit History',
+    metaDescription: "Explore Martin Lopez's complete drum gear evolution from Opeth's budget 1998 debut through Sabian HH and Sonor Designer eras, his 2006 departure, and his current Noble & Cooley setup with Soen.",
+  },
 };
 
 /**

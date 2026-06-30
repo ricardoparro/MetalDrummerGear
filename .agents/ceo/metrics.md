@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-30 05:24 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-30 07:19 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 115 |
-| Sessions | 126 |
-| Page views | 186 |
-| Engagement rate | 50.79% |
-| Avg session (s) | 146 |
+| Active users | 116 |
+| Sessions | 127 |
+| Page views | 187 |
+| Engagement rate | 50.39% |
+| Avg session (s) | 145 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -33,36 +33,36 @@
 | --- | --- | --- |
 | Organic Search | 86 | 80 |
 | Direct | 30 | 26 |
-| Unassigned | 24 | 24 |
-| Cross-network | 4 | 4 |
+| Unassigned | 25 | 25 |
+| Cross-network | 5 | 5 |
 | Organic Social | 1 | 1 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 2,582 |
-| Clicks | 58 |
-| CTR | 2.25% |
-| Avg position | 7.8 |
+| Impressions | 3,187 |
+| Clicks | 64 |
+| CTR | 2.01% |
+| Avg position | 8.0 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | jaska raatikainen drum set | 9 | 3 | 33.33% | 3.9 |
-| bill ward drum set | 12 | 2 | 16.67% | 8.0 |
-| flo mounier drum kit | 5 | 2 | 40.00% | 3.8 |
-| joey jordison drum kit | 68 | 2 | 2.94% | 7.0 |
-| eloy casagrande drum set | 3 | 1 | 33.33% | 8.7 |
+| bill ward drum set | 13 | 2 | 15.38% | 8.3 |
+| flo mounier drum kit | 7 | 2 | 28.57% | 4.0 |
+| joey jordison drum kit | 86 | 2 | 2.33% | 7.3 |
+| eloy casagrande drum set | 5 | 1 | 20.00% | 8.8 |
 | frost drummer | 5 | 1 | 20.00% | 12.8 |
 | frost satyricon height | 1 | 1 | 100.00% | 1.0 |
 | inferno drum kit | 2 | 1 | 50.00% | 8.5 |
-| joey jordison drum set | 114 | 1 | 0.88% | 7.3 |
-| joey jordison drumset | 10 | 1 | 10.00% | 7.7 |
+| joey jordison drum set | 134 | 1 | 0.75% | 7.2 |
+| joey jordison drumset | 11 | 1 | 9.09% | 8.1 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum set | 114 | 0.88% | 7.3 | open issue to answer better |
+| joey jordison drum set | 134 | 0.75% | 7.2 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

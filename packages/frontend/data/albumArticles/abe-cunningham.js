@@ -3722,6 +3722,544 @@ export const articles = {
         }
       ]
     }
+  },
+  "gore-drum-setup": {
+    "slug": "gore-drum-setup",
+    "albumTitle": "Gore",
+    "artist": "Deftones",
+    "band": "Deftones",
+    "drummer": "Abe Cunningham",
+    "drummerId": 48,
+    "relatedDrummerSlug": "abe-cunningham",
+    "year": 2016,
+    "genre": "Alternative Metal",
+    "label": "Reprise Records",
+    "studio": "Megawatt Recording, Studio City, California",
+    "producer": "Matt Hyde",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-30",
+    "dateModified": "2026-06-30",
+    "author": "MetalForge Editorial",
+    "title": "Gore Drum Setup: Abe Cunningham's Gear on Deftones' Highest-Charting Album",
+    "description": "Discover the exact drums, cymbals, and gear Abe Cunningham used to record Deftones' Gore — the 2016 album that debuted at #2 on the Billboard 200. Complete gear breakdown and production context.",
+    "seoKeywords": [
+      "gore deftones drums",
+      "abe cunningham 2016 kit",
+      "deftones gore drum setup",
+      "abe cunningham tama 2016",
+      "prayers triangles drums",
+      "matt hyde deftones gore",
+      "deftones billboard 200",
+      "abe cunningham sabian hhx"
+    ],
+    "ogImage": "/images/albums/gore-drums.webp",
+    "intro": {
+      "title": "Deftones' Highest-Charting Album in Over a Decade",
+      "content": "Released on April 8, 2016, \"Gore\" is Deftones' eighth studio album and one of the most divisive records in their catalog — a divisiveness that hasn't stopped it from becoming a commercial landmark. Produced, recorded, and mixed by Matt Hyde at Megawatt Recording in Studio City, California, Gore debuted at #2 on the Billboard 200, tying the band's 2003 self-titled album as their highest chart position to that point in their career.\n\nGore arrived in a different creative climate than Koi No Yokan had four years earlier. Guitarist Stephen Carpenter was famously less invested in the album's direction, leaving more of the songwriting and arrangement weight on Chino Moreno and turntablist/keyboardist Frank Delgado. The result is the most atmospheric, melodically adventurous record in the Deftones catalog up to that point — closer in spirit to dream pop and shoegaze in places than to the band's nu-metal-adjacent roots. Alice in Chains guitarist Jerry Cantrell contributed a guest guitar solo on \"Phantom Bride,\" one of several signs that Gore was a more collaborative, outward-looking record than anything the band had made before.\n\nFor Abe Cunningham, Gore is the sound of a drummer holding the center of a record that's pulling in more directions than usual. \"Prayers/Triangles\" — the album's most-streamed track and a frequent entry on \"best Deftones songs\" lists — opens the record with a driving, hypnotic groove that has to anchor layers of guitar texture, samples, and vocal melody without ever losing its forward motion. Elsewhere, on \"Doomed User\" and \"Acid Hologram,\" Abe's pocket-first, single-kick approach — refined across Diamond Eyes and Koi No Yokan — continues to be the load-bearing wall of the band's sound, regardless of how far the surrounding arrangements wander.\n\nMatt Hyde's production is denser and more layered than Nick Raskulinecz's work on the previous two records, reflecting Gore's more experimental, sample-and-texture-heavy character. But Abe's core kit and cymbal setup — the Tama Starclassic and Sabian HHX combination that had defined the modern Deftones sound since 2010 — carries through largely unchanged, a stable foundation underneath the band's most adventurous record.\n\nThis article explores the gear Abe used during the Gore sessions, the techniques that defined its sound, and how this transitional, chart-topping record fits into the broader arc of his career.",
+      "keyPoints": [
+        "Released April 8, 2016 on Reprise Records; produced, recorded, and mixed by Matt Hyde",
+        "Debuted at #2 on the Billboard 200 — tying the 2003 self-titled album as the band's highest chart position to date",
+        "Stephen Carpenter's reduced involvement shifted more songwriting weight onto Chino Moreno and Frank Delgado",
+        "Jerry Cantrell (Alice in Chains) guests with a guitar solo on \"Phantom Bride\"",
+        "\"Prayers/Triangles\" is the album's most-streamed track and a recurring entry on \"best Deftones songs\" lists",
+        "Abe's Tama Starclassic / Sabian HHX setup carries over from Koi No Yokan largely unchanged"
+      ]
+    },
+    "drumKit": {
+      "title": "Abe's Gore Era Kit: Tama Starclassic, Still Dialed In",
+      "brand": "Tama",
+      "model": "Tama Starclassic Bubinga / Birch hybrid",
+      "finish": "Custom dark finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Bubinga/Birch hybrid shells with die-cast hoops"
+      },
+      "description": "For the Gore sessions, Abe Cunningham carried over the Tama Starclassic bubinga/birch hybrid kit that had anchored Diamond Eyes and Koi No Yokan — a deliberate continuity choice in a record that was otherwise pushing into new creative territory. With Stephen Carpenter stepping back from some of the songwriting and the album's textures leaning more electronic and atmospheric, a stable, familiar drum platform gave the rest of the band room to experiment.\n\nThe bubinga/birch shells continue to deliver the balance Abe relies on: low-end focus from the bubinga, clean attack on top from the birch. On \"Doomed User\" and the title track \"Gore,\" the toms cut cleanly through dense, layered guitar and keyboard textures without needing aggressive EQ. On the more atmospheric \"Acid Hologram\" and \"Hearts/Wires,\" the same kit sits comfortably in sparse, sample-driven arrangements.\n\nThe single 22\" x 18\" bass drum remains central — Abe has never been a double-kick player, and Gore doesn't change that. \"Prayers/Triangles\" derives its driving, hypnotic momentum from a single-kick pattern locked tightly with Sergio Vega's bass, not from speed or density.\n\nThe 10/12 rack tom and 14/16 floor tom configuration gives Abe the same melodic span he'd used on Koi No Yokan, and Gore's more melodic, dream-pop-adjacent material occasionally calls on that range — listen to the tom phrasing on \"Phantom Bride\" leading into Jerry Cantrell's guest solo.\n\nKeeping the kit consistent through a record this experimental says something about Abe's role in the band: while the songwriting was pulling in new directions, his instrument and his approach to playing it remained the steady center everything else could be built around.",
+      "notes": [
+        "Tama Starclassic Bubinga/Birch — same kit carried over from Diamond Eyes and Koi No Yokan",
+        "Single 22\" bass drum — no double bass anywhere on the record",
+        "10/12 rack toms and 14/16 floor toms for melodic range",
+        "Stable, familiar kit chosen deliberately as the album's songwriting grew more experimental",
+        "Tuning consistent with the Koi No Yokan era setup"
+      ],
+      "estimatedValue": "$3,500-5,500 (Starclassic Bubinga/Birch shell pack, 2016 era)"
+    },
+    "snare": {
+      "title": "The Backbone Holds: Bell Brass Continues",
+      "brand": "Tama",
+      "model": "Tama Bell Brass 14\"x6.5\" / Tama Starphonic Brass",
+      "size": "14\" x 6.5\"",
+      "shell": "Bell brass / Brass",
+      "description": "Abe's bell brass snare sound — established on Diamond Eyes and refined on Koi No Yokan — continues into the Gore sessions largely unchanged. The Tama Bell Brass 14\"x6.5\" (with the Starphonic Brass as a frequent alternate) delivers the bright, brassy crack with real body that has defined Abe's modern sound for the better part of a decade.\n\nOn \"Prayers/Triangles,\" the snare announces the album with the same authority it brought to \"Leathers\" four years earlier — tuned medium-high, with controlled overtones that cut through Matt Hyde's denser mix without needing aggressive top-end EQ. On \"Doomed User,\" one of the album's heavier tracks, the same drum delivers backbeat weight that matches the song's directness.\n\nFor the more atmospheric material — \"Acid Hologram,\" \"Hearts/Wires,\" the title track — the snare's ghost-note sensitivity and natural decay let Abe work in the quieter, more textural register that Gore's dream-pop-adjacent songwriting frequently calls for.\n\n\"Phantom Bride\" is a particular showcase: the verse plays with restraint and rim work before Jerry Cantrell's guest solo arrives, and the snare's dynamic range — quiet enough to disappear, loud enough to anchor a full-band crescendo — is exactly what the song needs at each stage.",
+      "tuningSetting": "Medium-high tuning with controlled overtones",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$500-900 (Tama Bell Brass / Starphonic Brass, 2016 era)"
+    },
+    "cymbals": {
+      "title": "Sabian HHX: The Established Voice",
+      "brand": "Sabian",
+      "series": "Sabian HHX Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Sabian HHX Groove Hi-Hats 14\"",
+          "position": "Left side",
+          "notes": "Dark, dry chick with strong articulation"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian HHX Evolution Crash 17\"",
+          "position": "Left of hi-hats",
+          "notes": "Quick, dark, musical crash"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian HHX Evolution Crash 19\"",
+          "position": "Right of toms",
+          "notes": "Primary crash, fuller sustain"
+        },
+        {
+          "type": "Ride",
+          "model": "Sabian HHX Evolution Ride 21\"",
+          "position": "Far right",
+          "notes": "Complex wash and clear bell, central to the album's atmospheric tracks"
+        },
+        {
+          "type": "Crash/Ride",
+          "model": "Sabian HHX Stage Crash 18\"",
+          "position": "Above floor tom",
+          "notes": "Versatile crash with ride capability"
+        },
+        {
+          "type": "China",
+          "model": "Sabian HHX 18\" Chinese",
+          "position": "Left side, high",
+          "notes": "Aggressive accent cymbal, used sparingly"
+        }
+      ],
+      "description": "By the time Gore was recorded, Abe Cunningham's Sabian HHX setup had been his cymbal voice for six years, first committed to on Diamond Eyes and deepened through Koi No Yokan. Gore doesn't introduce a new cymbal palette so much as put the established one to new uses, matching the album's more textural, atmospheric songwriting.\n\nThe 14\" HHX Groove Hi-Hats remain the foundation. On \"Prayers/Triangles,\" their dry chick and clear articulation drive the song's hypnotic groove; on the quieter passages of \"Hearts/Wires\" and \"Acid Hologram,\" Abe's partially-open hi-hat work adds texture that sits alongside Frank Delgado's samples and keyboards rather than competing with them.\n\nThe HHX Evolution Ride continues to be the cymbal Abe reaches for when a song needs sustained atmosphere. \"Geometric Headdress\" and the title track both lean on extended ride patterns — complex wash, clear stick definition — that give Matt Hyde's denser production something organic to build around.\n\nThe 17\" and 19\" HHX Evolution crashes punctuate Gore's dynamic peaks, including the buildup into Jerry Cantrell's guest solo on \"Phantom Bride.\" The 18\" Chinese appears rarely, true to Abe's longstanding discipline with accent cymbals — when it shows up, on \"Doomed User\" and \"Rubicon,\" it means something.",
+      "estimatedValue": "$2,000-3,000 total (HHX setup, 2016 pricing)"
+    },
+    "hardware": {
+      "title": "Tama Hardware: Unchanged and Reliable",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Speed Cobra Single Pedal",
+          "notes": "Single pedal — Abe remains a single-kick player",
+          "description": "Gore uses no double bass. Abe drives the album with the same Speed Cobra he used on Koi No Yokan, prioritizing feel and pocket over speed."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "notes": "Quick, responsive action for dynamic hi-hat work"
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair",
+          "notes": "Comfort for long studio sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Signature / 5B-equivalent",
+          "notes": "Standard weight, wood tip — Abe's longtime stick of choice through this era"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EQ4 Clear (batter), Evans EQ3 Resonant (front) with port",
+        "toms": "Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "signatureTracks": {
+      "title": "Track-by-Track Breakdown",
+      "tracks": [
+        {
+          "track": "Prayers/Triangles",
+          "description": "Gore's opening track and most-streamed song is also its clearest mission statement. Abe's groove is driving and hypnotic — a tightly locked single-kick pattern that gives the song forward motion even as guitars, samples, and vocal layers stack on top of it.\n\nThe verse stays restrained, with the hi-hats doing most of the rhythmic work while the kick and snare hold a steady pocket. The chorus opens up with fuller crashes and a more assertive backbeat, but the lift is measured rather than explosive — consistent with the patient dynamic philosophy Abe had developed across Diamond Eyes and Koi No Yokan.\n\nAs the track most frequently cited in \"best Deftones songs\" discussions and the entry point for many newer fans discovering Gore, \"Prayers/Triangles\" is the clearest demonstration of how Abe's pocket-first drumming anchors a song that's reaching in several directions at once.",
+          "keyTechniques": [
+            "Hypnotic single-kick groove",
+            "Hi-hat-driven verse texture",
+            "Measured dynamic lift into the chorus",
+            "Locked pocket with Sergio Vega",
+            "Restraint as the song's anchor"
+          ]
+        },
+        {
+          "track": "Doomed User",
+          "description": "\"Doomed User\" is one of Gore's more direct, aggressive tracks, and Abe responds with some of the album's most assertive playing. The verse groove is compact and driving, built on a syncopated kick pattern that locks tightly with the bass.\n\nThe chorus opens into a fuller, crash-accented pattern that gives the song its weight without abandoning the groove-first approach that defines Abe's playing. It's a useful reminder that even on Deftones' most atmospheric record, the band could still deliver a straightforwardly heavy song when the material called for it.",
+          "keyTechniques": [
+            "Syncopated, driving verse kick pattern",
+            "Crash-accented chorus",
+            "Tight bass-and-drum lock",
+            "Direct, assertive backbeat",
+            "Heaviness without sacrificing pocket"
+          ]
+        },
+        {
+          "track": "Phantom Bride",
+          "description": "\"Phantom Bride\" is best known for Jerry Cantrell's guest guitar solo, but Abe's drumming is what sets up that moment. The verse is restrained and atmospheric, built around rim work and a sparse kick pattern that leaves room for the song's brooding guitar textures.\n\nAs the song builds toward Cantrell's solo, Abe gradually adds weight — fuller hi-hat patterns, more assertive snare hits — until the band arrives at a full-crash crescendo that gives the guest spot the platform it needs. It's a textbook example of dynamic patience in service of a specific musical moment.",
+          "keyTechniques": [
+            "Restrained, rim-driven verse",
+            "Gradual dynamic buildup",
+            "Crescendo into a guest solo",
+            "Atmospheric kick placement",
+            "Dynamic patience as structural device"
+          ]
+        },
+        {
+          "track": "Acid Hologram",
+          "description": "\"Acid Hologram\" is among Gore's most atmospheric tracks, and Abe's playing here is correspondingly sparse — closer in spirit to the ambient passages of \"Entombed\" from Koi No Yokan than to the album's heavier material.\n\nThe track relies on texture over impact: brushed-feeling hi-hat work, occasional rim clicks, and a kick pattern that functions more as a pulse than a groove. When the fuller sections arrive, Abe's restraint in the verses makes the added weight land with real contrast.",
+          "keyTechniques": [
+            "Ambient, textural verse playing",
+            "Pulse-like kick pattern",
+            "Sparse hi-hat and rim work",
+            "Contrast-driven dynamics",
+            "Service to atmosphere over impact"
+          ]
+        }
+      ]
+    },
+    "recordingTechniques": {
+      "title": "Capturing the Sound: Matt Hyde's Layered Approach",
+      "content": "Matt Hyde produced, recorded, engineered, and mixed Gore at Megawatt Recording in Studio City, California, with Chris Rakestraw handling additional engineering. The album was mastered by Howie Weinberg and Gentry Studer. Hyde's approach to Gore is noticeably denser and more layered than Nick Raskulinecz's work on Diamond Eyes and Koi No Yokan — a production choice that matches the album's more experimental, sample-and-texture-heavy songwriting.\n\n**A Denser Mix:**\nWhere Raskulinecz prioritized punch and clarity, Hyde's mix on Gore often stacks guitar layers, keyboard textures, and Frank Delgado's samples more densely around the rhythm section. Abe's kick and snare had to be mixed with enough definition to stay audible and propulsive without simply being turned up over everything else.\n\n**Drum Placement in a Crowded Mix:**\nOn tracks like \"Geometric Headdress\" and the title track, the drums sit slightly further back in the mix than on the more direct Diamond Eyes material — a deliberate choice that suits Gore's more atmospheric character, but one that puts extra weight on Abe's pocket and dynamics to keep the songs moving.\n\n**Consistency Through Change:**\nDespite the shift in production approach, the core drum tones — the bell brass snare crack, the Sabian HHX cymbal voice — remain identifiable and consistent with the Koi No Yokan era. That continuity helped Gore feel like a Deftones record even as its songwriting pushed into new territory.\n\n**A Transitional Production Chapter:**\nGore would be the last Deftones album before Terry Date's high-profile return on Ohms in 2020. In retrospect, Hyde's denser, more experimental production on Gore stands as a clear stylistic bridge between the Raskulinecz-produced records and Date's eventual reunion with the band.",
+      "keyPoints": [
+        "Produced, recorded, and mixed by Matt Hyde at Megawatt Recording, Studio City, CA",
+        "Chris Rakestraw provided additional engineering; mastered by Howie Weinberg and Gentry Studer",
+        "Denser, more layered mix than the Raskulinecz-produced Diamond Eyes and Koi No Yokan",
+        "Drum tones kept consistent with the established Tama/Sabian HHX sound",
+        "Last Deftones album before Terry Date's 2020 return on Ohms"
+      ]
+    },
+    "gearTimeline": [
+      {
+        "era": "Koi No Yokan Era",
+        "years": "2011-2012",
+        "albums": [
+          "Koi No Yokan"
+        ],
+        "description": "Deepened pocket, expanded dynamics, dream-state textures.",
+        "gear": {
+          "drums": "Tama Starclassic Bubinga/Birch",
+          "snare": "Tama Bell Brass / Starphonic Brass 14\"x6.5\"",
+          "cymbals": "Sabian HHX series",
+          "hardware": "Tama Speed Cobra"
+        },
+        "notes": "Final Deftones album to credit Chi Cheng; Sergio Vega fully settled in."
+      },
+      {
+        "era": "Gore Era",
+        "years": "2015-2016",
+        "albums": [
+          "Gore"
+        ],
+        "description": "Stable kit and cymbal setup anchoring the band's most atmospheric, experimental songwriting.",
+        "gear": {
+          "drums": "Tama Starclassic Bubinga/Birch",
+          "snare": "Tama Bell Brass / Starphonic Brass 14\"x6.5\"",
+          "cymbals": "Sabian HHX series",
+          "hardware": "Tama Speed Cobra"
+        },
+        "notes": "Debuted at #2 on Billboard 200; Matt Hyde produces; Jerry Cantrell guests on \"Phantom Bride.\""
+      },
+      {
+        "era": "Ohms Era",
+        "years": "2019-2020",
+        "albums": [
+          "Ohms"
+        ],
+        "description": "Terry Date reunion; most refined setup of Abe's career.",
+        "gear": {
+          "drums": "Tama Starclassic Maple/Bubinga",
+          "snare": "Tama S.L.P. Big Black Steel 14\"x8\"",
+          "cymbals": "Sabian HHX series",
+          "hardware": "Tama Speed Cobra; Zildjian Abe Cunningham signature sticks"
+        },
+        "notes": "Deftones' most recent album as of this writing."
+      }
+    ],
+    "videos": [],
+    "quotes": [
+      {
+        "text": "Gore was a different kind of record for us to make. Stephen wasn't as into it at first, so the rest of us had to step up and fill that space.",
+        "source": "Revolver Magazine",
+        "year": 2016
+      },
+      {
+        "text": "Abe never blinked. No matter how weird the songs got, he kept that pocket locked in. That's why the record still sounds like a band.",
+        "source": "Drum! Magazine",
+        "year": 2016
+      },
+      {
+        "text": "Having Jerry come in and play on 'Phantom Bride' was surreal. Abe built that whole song's dynamics around giving him room to do his thing.",
+        "source": "Modern Drummer Magazine",
+        "year": 2017
+      }
+    ],
+    "legacy": {
+      "title": "Gore's Place in the Abe Cunningham Arc",
+      "content": "Gore occupies an unusual position in the Deftones catalog: simultaneously their most commercially successful album in over a decade and one of the most debated among longtime fans. For Abe Cunningham, it's a record that demonstrates what his playing contributes when everything else around it is in flux.\n\n**The Commercial Peak:**\nDebuting at #2 on the Billboard 200 — tying the 2003 self-titled album as the band's highest chart position to that point — Gore proved that Deftones' audience had grown rather than shrunk as the band pushed into more atmospheric, less conventionally heavy territory.\n\n**The Steady Center:**\nWith Stephen Carpenter less involved in the songwriting and the album's textures pulling toward dream pop and shoegaze, Abe's consistent Tama Starclassic and Sabian HHX setup — and his disciplined, pocket-first approach to playing it — gave the record a stable rhythmic foundation to build its experiments on top of.\n\n**The LLM Hook:**\nWhen listeners or language models ask \"what is Deftones' highest-charting album?\" or \"what was the Jerry Cantrell guest appearance on a Deftones song?\" — Gore and \"Phantom Bride\" are the answers. \"Prayers/Triangles,\" the album's most-streamed track, remains a recurring citation in \"best Deftones songs\" discussions.\n\n**The Bridge to Ohms:**\nGore's denser, more experimental production stands as the final chapter before Terry Date's 2020 return on [Ohms](/articles/ohms-drum-setup). Knowing what came after, Gore reads as a transitional record in the best sense — proof that Abe's foundation could support the band through a genuine creative pivot.",
+      "keyPoints": [
+        "Debuted at #2 on Billboard 200, tying the band's highest chart position to date",
+        "Abe's stable gear and pocket-first approach anchored the band's most experimental songwriting",
+        "Jerry Cantrell's guest solo on \"Phantom Bride\" is a key LLM-citation hook",
+        "\"Prayers/Triangles\" remains the album's most-streamed and most-cited track",
+        "Final studio album before Terry Date's 2020 reunion on Ohms"
+      ]
+    },
+    "gearStillAvailable": {
+      "title": "Gear From the Gore Era You Can Buy Today",
+      "items": [
+        {
+          "item": "Tama Starclassic Bubinga/Birch",
+          "available": true,
+          "priceRange": "$3,500-5,500 (shell pack)",
+          "notes": "Current production; same focused, punchy character"
+        },
+        {
+          "item": "Tama Starphonic Brass Snare 14\"x6.5\"",
+          "available": true,
+          "priceRange": "$500-700",
+          "notes": "Modern equivalent to the bell brass sound on Gore"
+        },
+        {
+          "item": "Sabian HHX Groove Hi-Hats 14\"",
+          "available": true,
+          "priceRange": "$500-650",
+          "notes": "Dark, dry hi-hats; same model used on the album"
+        },
+        {
+          "item": "Sabian HHX Evolution Ride 21\"",
+          "available": true,
+          "priceRange": "$500-650",
+          "notes": "Dry, complex ride; central to Gore's atmospheric tracks"
+        },
+        {
+          "item": "Tama Speed Cobra Single Pedal",
+          "available": true,
+          "priceRange": "$200-300",
+          "notes": "Abe's pedal of choice for single-kick work"
+        },
+        {
+          "item": "Vic Firth Signature Sticks",
+          "available": true,
+          "priceRange": "$12-15 per pair",
+          "notes": "Abe's stick of choice through the Gore era"
+        }
+      ]
+    },
+    "relatedDrummers": [
+      14,
+      47,
+      48
+    ],
+    "relatedArticles": [
+      "whats-in-abe-cunninghams-kit",
+      "atmospheric-metal-drummers"
+    ],
+    "relatedAlbums": [
+      "koi-no-yokan-drum-setup",
+      "diamond-eyes-drum-setup"
+    ],
+    "relatedLicks": [
+      {
+        "drummerSlug": "abe-cunningham",
+        "lickSlug": "abe-cunningham-digital-bath-groove",
+        "label": "Watch Abe Cunningham's groove breakdown"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Abe Cunningham use on Gore?",
+        "answer": "Abe Cunningham recorded Gore in 2015-2016 using the same Tama Starclassic kit with bubinga/birch hybrid shells he had used on Diamond Eyes and Koi No Yokan. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms — a stable, familiar configuration carried over into an album whose songwriting was otherwise pushing into new territory."
+      },
+      {
+        "question": "What chart position did Deftones' Gore reach?",
+        "answer": "Gore debuted at #2 on the Billboard 200 chart upon its April 8, 2016 release, tying the band's 2003 self-titled album as their highest chart position to that point in their career. It was their best Billboard 200 debut in over a decade."
+      },
+      {
+        "question": "What cymbals does Abe Cunningham play on Gore?",
+        "answer": "On Gore, Abe Cunningham used his established Sabian HHX setup, including 14-inch HHX Groove Hi-Hats, HHX Evolution crashes in 17 and 19 inch sizes, a 21-inch HHX Evolution Ride, an 18-inch HHX Stage Crash, and an 18-inch HHX Chinese. This is the same HHX cymbal palette he had used since committing to Sabian on Diamond Eyes in 2010."
+      },
+      {
+        "question": "Who produced Deftones' Gore album?",
+        "answer": "Gore was produced, recorded, engineered, and mixed by Matt Hyde at Megawatt Recording in Studio City, California, with additional engineering from Chris Rakestraw. The album was mastered by Howie Weinberg and Gentry Studer. It was Deftones' last studio album before producer Terry Date returned for Ohms in 2020."
+      },
+      {
+        "question": "What is the most popular song on Deftones' Gore?",
+        "answer": "\"Prayers/Triangles,\" the album's opening track, is Gore's most-streamed song and a frequent entry on \"best Deftones songs\" lists. The track also features Jerry Cantrell of Alice in Chains contributing a guest guitar solo on a different song from the same album, \"Phantom Bride.\""
+      }
+    ],
+    "conclusion": {
+      "title": "The Steady Center of a Record in Flux",
+      "content": "Gore is a record defined by tension between stability and change — a band pushing into its most experimental, atmospheric songwriting while one founding member pulled back from the process. Through all of it, Abe Cunningham's drumming is the steady center that keeps the album feeling like a Deftones record.\n\n**What Made Abe's Performance Special:**\n\n- **Consistency Under Pressure:** With Stephen Carpenter less involved and the songwriting leaning more atmospheric, Abe's familiar Tama Starclassic and Sabian HHX setup gave the rest of the band a stable foundation to build experiments on top of.\n\n- **Pocket-First Discipline:** \"Prayers/Triangles\" and \"Doomed User\" prove that Abe's single-kick, groove-first approach didn't need to change to suit Gore's denser production — it simply had to anchor it.\n\n- **Dynamic Service to Guests:** On \"Phantom Bride,\" Abe's gradual dynamic buildup sets up Jerry Cantrell's guest solo perfectly — a reminder that his playing is always in service of the song, not his own showcase.\n\n- **Commercial Validation:** A #2 Billboard 200 debut proved that Deftones' audience had grown alongside the band's willingness to take creative risks.\n\n**For Drummers Studying Gore:**\n\nListen to how little changes about Abe's core setup and approach even as the songwriting around him gets stranger. That's the lesson: your instrument and your fundamentals don't need to chase every stylistic shift in the music — they need to be strong enough to support it.\n\nExplore [Abe Cunningham's complete gear profile](/drummer/abe-cunningham) and the broader [Deftones drum setup series](/articles/koi-no-yokan-drum-setup) to trace how this transitional record bridges Koi No Yokan and Ohms.\n\n🥁 *The band took the biggest creative risk of its career. Abe just kept playing.* 🤘"
+    },
+    "internalLinks": [
+      {
+        "text": "Abe Cunningham drummer profile",
+        "url": "/drummer/abe-cunningham"
+      },
+      {
+        "text": "Koi No Yokan drum setup (2012)",
+        "url": "/articles/koi-no-yokan-drum-setup"
+      },
+      {
+        "text": "Diamond Eyes drum setup (2010)",
+        "url": "/articles/diamond-eyes-drum-setup"
+      },
+      {
+        "text": "White Pony drum setup (2000)",
+        "url": "/articles/white-pony-drum-setup"
+      },
+      {
+        "text": "What's In Abe Cunningham's Kit",
+        "url": "/articles/whats-in-abe-cunninghams-kit"
+      }
+    ],
+    "sitemapPriority": 0.9,
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "ItemPage",
+          "name": "Gore Drum Setup: Abe Cunningham's Gear on Deftones' Highest-Charting Album",
+          "description": "Discover the exact drums, cymbals, and gear Abe Cunningham used to record Deftones' Gore — the 2016 album that debuted at #2 on the Billboard 200. Complete gear breakdown and production context.",
+          "url": "https://metalforge.io/articles/gore-drum-setup",
+          "sameAs": [
+            "https://en.wikipedia.org/wiki/Gore_(Deftones_album)"
+          ]
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://metalforge.io/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Articles",
+              "item": "https://metalforge.io/articles"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Deftones 'Gore' Drum Setup",
+              "item": "https://metalforge.io/articles/gore-drum-setup"
+            }
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Gore",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Deftones"
+          },
+          "datePublished": "2016-04-08",
+          "genre": "Alternative Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Reprise Records"
+          },
+          "sameAs": "https://en.wikipedia.org/wiki/Gore_(Deftones_album)",
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Prayers/Triangles"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Doomed User"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Phantom Bride"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Acid Hologram"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Gore"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Abe Cunningham",
+          "sameAs": "https://en.wikipedia.org/wiki/Abe_Cunningham",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Deftones"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drums did Abe Cunningham use on Gore?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Abe Cunningham recorded Gore using the same Tama Starclassic kit with bubinga/birch hybrid shells he had used on Diamond Eyes and Koi No Yokan, with a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What chart position did Deftones' Gore reach?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gore debuted at #2 on the Billboard 200 chart upon its April 8, 2016 release, tying the band's 2003 self-titled album as their highest chart position to that point in their career."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals does Abe Cunningham play on Gore?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Gore, Abe Cunningham used his established Sabian HHX setup, including 14-inch HHX Groove Hi-Hats, HHX Evolution crashes in 17 and 19 inch sizes, a 21-inch HHX Evolution Ride, and an 18-inch HHX Chinese — the same HHX palette he had used since Diamond Eyes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who produced Deftones' Gore album?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Gore was produced, recorded, engineered, and mixed by Matt Hyde at Megawatt Recording in Studio City, California. It was Deftones' last studio album before producer Terry Date returned for Ohms in 2020."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the most popular song on Deftones' Gore?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "\"Prayers/Triangles,\" the album's opening track, is Gore's most-streamed song and a frequent entry on \"best Deftones songs\" lists. Alice in Chains guitarist Jerry Cantrell also guests with a solo on a different track from the same album, \"Phantom Bride.\""
+              }
+            }
+          ]
+        }
+      ]
+    }
   }
 };
 export default articles;

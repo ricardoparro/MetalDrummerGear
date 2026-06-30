@@ -342,6 +342,9 @@ const gearPriceHistoryDrummers = [
   'matt-halpern',    // Select Difficulty era (2016) — Issue #3187
   'bill-ward',       // Black Sabbath debut era (1970) — Issue #3252
   'shannon-larkin',  // Faceless era (2002) — Issue #3252
+  'john-otto',       // Significant Other era (1999) — Issue #2918
+  'dirk-verbeuren',  // Dystopia era (2016) — Issue #2918
+  'martin-axenrot',  // Watershed era (2008) — Issue #2918
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

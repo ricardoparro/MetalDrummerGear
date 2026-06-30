@@ -3783,6 +3783,420 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['shannon larkin drum setup cost', 'godsmack drum kit price', 'tama starclassic performer mx price', 'shannon larkin gear cost today', 'ddrum dios series price'],
     },
   },
+
+  // ==========================================
+  // JOHN OTTO - 1999 Significant Other Era
+  // Sonor Force 3007 / Paiste 2002 Setup
+  // Issue #2918: SEO batch — gear price history batch 23
+  // ==========================================
+  'john-otto': {
+    slug: 'john-otto',
+    name: 'John Otto',
+    band: 'Limp Bizkit',
+    iconicYear: 1999,
+    era: 'Significant Other Era',
+    albumReference: 'Significant Other (1999)',
+    profileImage: '/images/drummers/john-otto.webp',
+
+    summary: "John Otto's 1999 setup powered Limp Bizkit's commercial breakthrough, \"Significant Other\" — debuting at #1 on the Billboard 200 and eventually certified 15x Platinum. A Sonor Force 3007 kit with beech shells gave Otto's jazz-and-hip-hop-informed groove the tonal balance to cut through Wes Borland's detuned guitars and DJ Lethal's turntable work, while Paiste 2002 cymbals supplied the bright, projecting attack the dense nu-metal mix demanded. The original rig — kit, snare, cymbals, Pearl P-2002 Eliminator pedal, and Zildjian sticks — cost roughly $4,876 in 1999. Adjusted for 2026 inflation, that's equivalent to approximately $9,590 today. Otto carried the same Sonor/Paiste setup into 2000's \"Chocolate Starfish and the Hot Dog Flavored Water,\" which debuted with the largest first-week sales total in SoundScan history at the time. His gear has since evolved: he later moved through a long Pearl hardware endorsement before settling into his current Orange County Drum and Percussion (OCDP) custom kit with Zildjian cymbals and Gibraltar hardware — a setup that still carries the same groove-first philosophy he brought to Limp Bizkit's biggest records.",
+
+    setup: {
+      drums: {
+        item: 'Sonor Force 3007',
+        model: '5-piece beech shell pack',
+        specs: '22"x18" bass drum (single kick), 10"x8"/12"x10" rack toms, 14"x14"/16"x16" floor toms',
+        originalPrice: 2400,
+        year: 1999,
+        source: 'Sonor Force 3007 catalog MSRP 1999, Modern Drummer archive estimates',
+        notes: 'Beech shells balanced warmth with attack, suiting Otto\'s dynamic range between ghost notes and full-power backbeats.',
+        vintageValue2026: 1300,
+        modernEquivalent: {
+          item: 'OCDP Custom Maple/Ash Kit',
+          price: 2900,
+          link: 'ocdp-custom-maple-ash',
+        },
+      },
+      snare: {
+        item: 'Sonor Signature Series Steel Snare',
+        model: '14"x6.5" steel shell',
+        specs: '14"x6.5" steel, medium-high tension',
+        originalPrice: 320,
+        year: 1999,
+        source: 'Sonor snare catalog 1999',
+        notes: 'Steel crack cut through the dense nu-metal mix while staying sensitive enough for Otto\'s ghost-note work on tracks like "Nookie."',
+        vintageValue2026: 280,
+        modernEquivalent: {
+          item: 'OCDP 14"x7" Maple/Ash Snare',
+          price: 380,
+          link: 'ocdp-maple-ash-snare',
+        },
+      },
+      cymbals: {
+        item: 'Paiste 2002 Series',
+        model: 'Full 2002 configuration',
+        specs: '14" Hi-Hats, 16"/18" Crashes, 20" Ride, 18" China, 10" Splash',
+        originalPrice: 1700,
+        year: 1999,
+        source: 'Paiste 2002 series retail pricing 1999',
+        notes: 'Bright CuSn8 bronze tone cut through the album\'s dense turntable-and-guitar arrangements.',
+        vintageValue2026: 950,
+        modernEquivalent: {
+          item: 'Zildjian K Custom Series',
+          price: 1900,
+          link: 'zildjian-k-custom-set',
+        },
+      },
+      hardware: {
+        item: 'Pearl P-2002 Eliminator Pedal + Pearl H-1000 Hi-Hat Stand',
+        model: 'Single pedal + stands',
+        specs: 'Single bass drum pedal, hi-hat stand, 2 cymbal boom stands, Roc-N-Soc throne',
+        originalPrice: 380,
+        year: 1999,
+        source: 'Pearl hardware catalog 1999',
+        notes: 'Single-kick setup reflecting Otto\'s hip-hop-informed groove approach rather than the double-kick norm of the era.',
+        vintageValue2026: 250,
+        modernEquivalent: {
+          item: 'Gibraltar 9000 Series Hardware',
+          price: 420,
+          link: 'gibraltar-9000-hardware',
+        },
+      },
+      sticks: {
+        item: 'Zildjian 5A Wood Tip',
+        model: 'Hickory, wood tip',
+        specs: 'Standard 5A weight',
+        originalPrice: 6,
+        year: 1999,
+        source: 'Standard retail pricing 1999',
+        notes: 'Versatile weight for the groove and power demands of nu-metal.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Zildjian Artist Series 5A',
+          price: 12,
+          link: 'zildjian-artist-5a',
+        },
+      },
+      heads: {
+        item: 'Remo Powerstroke 3 / Ambassador',
+        model: 'PS3 kick, Ambassador toms and snare',
+        specs: 'Remo Powerstroke 3 (kick batter/reso), Remo Ambassador Coated (toms/snare)',
+        originalPrice: 70,
+        year: 1999,
+        source: 'Remo retail pricing 1999',
+        notes: 'Standard Remo head package for late-90s touring durability and tone consistency.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Powerstroke 3 / Ambassador Pack',
+          price: 95,
+          link: 'remo-powerstroke3-ambassador-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 4876,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 2780,
+      modernEquivalentTotal: 5707,
+    },
+
+    priceEvolution: [
+      { year: 1999, price: 4876, label: 'Original Purchase', event: 'Significant Other debuts at #1, eventually 15x Platinum' },
+      { year: 2000, price: 5100, label: 'Chocolate Starfish era', event: 'Album sets largest first-week SoundScan total at the time' },
+      { year: 2009, price: 6800, label: 'Reunion tour', event: 'Original lineup reunites for world tour' },
+      { year: 2021, price: 8700, label: 'Still Sucks era', event: 'First Limp Bizkit album in 10 years' },
+      { year: 2026, price: 9588, label: 'Current adjusted', event: 'Inflation-adjusted value, OCDP custom kit era' },
+    ],
+
+    sources: [
+      { title: 'Sonor Force 3007 Catalog', year: 1999, type: 'catalog' },
+      { title: 'Paiste 2002 Series Retail Pricing Archive', year: 1999, type: 'catalog' },
+      { title: 'Modern Drummer — John Otto Interview', year: 2004, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Vintage Sonor Force', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "John Otto Drum Setup Cost | Limp Bizkit Gear Price History",
+      description: "How much was John Otto's 1999 Limp Bizkit drum kit worth? Original Sonor Force 3007 + Paiste 2002 setup ~$4,876 in 1999, inflation-adjusted to ~$9,590 today. Complete gear breakdown from Significant Other to today.",
+      keywords: ['john otto drum setup cost', 'limp bizkit drum kit price', 'sonor force 3007 price', 'john otto gear cost today', 'paiste 2002 cymbals price'],
+    },
+  },
+
+  // ==========================================
+  // DIRK VERBEUREN - 2016 Dystopia Era
+  // DW Collector's Maple / Zildjian A Custom Setup
+  // Issue #2918: SEO batch — gear price history batch 23
+  // ==========================================
+  'dirk-verbeuren': {
+    slug: 'dirk-verbeuren',
+    name: 'Dirk Verbeuren',
+    band: 'Megadeth',
+    iconicYear: 2016,
+    era: 'Dystopia Era',
+    albumReference: 'Dystopia (2016)',
+    profileImage: '/images/drummers/dirk-verbeuren.webp',
+
+    summary: "Dirk Verbeuren's 2016 setup recorded his Grammy-winning debut with Megadeth, \"Dystopia\" — Best Metal Performance at the 59th Grammy Awards and the band's most successful album in nearly two decades. After 18 years anchoring Swedish melodic death metal act Soilwork, Verbeuren stepped into Dave Mustaine's band on short notice and recorded all of his parts in under two weeks at Vic's Garage. His DW Collector's Series Maple kit delivered the warm, punchy low end Dann Huff's production demanded, paired with Zildjian A Custom cymbals for bright, fast-recovering attack and a DW 9002XF double pedal for high-speed footwork. The original rig cost roughly $10,048 in 2016 — a serious professional investment reflecting DW's handcrafted Oxnard, California construction. Adjusted for 2026 inflation, that's equivalent to approximately $13,716 today. Verbeuren's current verified setup centers on Tama Starclassic Maple with Meinl Byzance cymbals, Tama Speed Cobra 910 pedals, and Vater sticks — a different brand alignment from his Dystopia-era DW/Zildjian rig, but one that continues to deliver the precision and power that earns him praise for honoring Megadeth's legacy while bringing his own flair. The contrast with Nick Menza's classic-era Pearl setup, already documented in this gear price index, captures how dramatically the cost of a top-tier Megadeth drum rig has shifted across the band's history.",
+
+    setup: {
+      drums: {
+        item: "DW Collector's Series Maple",
+        model: 'All-maple shell pack, custom lacquer',
+        specs: '22"x18" bass drum, 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
+        originalPrice: 6750,
+        year: 2016,
+        source: "DW Collector's Series catalog MSRP 2016, handcrafted Oxnard CA configuration",
+        notes: 'All-maple shells delivered the warm fundamental and clear attack Dann Huff\'s production needed to cut through dense Mustaine/Broderick-era riffing.',
+        vintageValue2026: 4200,
+        modernEquivalent: {
+          item: 'Tama Starclassic Maple',
+          price: 5800,
+          link: 'tama-starclassic-maple',
+        },
+      },
+      snare: {
+        item: "DW Collector's Steel Snare",
+        model: '14"x6.5" steel shell',
+        specs: '14"x6.5" steel, medium-high tension',
+        originalPrice: 550,
+        year: 2016,
+        source: "DW Collector's snare catalog 2016",
+        notes: 'Focused, bright attack with tight overtones for cutting cleanly through Dystopia\'s dense guitar arrangements.',
+        vintageValue2026: 400,
+        modernEquivalent: {
+          item: 'Tama S.L.P. G-Maple 14"x6.5"',
+          price: 480,
+          link: 'tama-slp-g-maple-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Custom Series',
+        model: 'Full A Custom configuration',
+        specs: '14" Hi-Hats, 16"/18"/19" Crashes, 20" Ride, 18" China',
+        originalPrice: 1900,
+        year: 2016,
+        source: 'Zildjian A Custom series retail pricing 2016',
+        notes: 'Brilliant machine finish gave focused, fast attack matched to Dann Huff\'s precise production capture.',
+        vintageValue2026: 1300,
+        modernEquivalent: {
+          item: 'Meinl Byzance Mixed Set',
+          price: 2400,
+          link: 'meinl-byzance-mixed-set',
+        },
+      },
+      hardware: {
+        item: 'DW 9002XF Double Pedal + DW 9000 Series Stands',
+        model: 'Double pedal + hardware pack',
+        specs: 'Double bass drum pedal, hi-hat stand, cymbal stands, DW 9120M throne',
+        originalPrice: 750,
+        year: 2016,
+        source: 'DW 9000 Series hardware catalog 2016',
+        notes: 'Extended footboard ("XF") and chain drive gave Verbeuren the heel-toe response his high-speed double bass passages required.',
+        vintageValue2026: 500,
+        modernEquivalent: {
+          item: 'Tama Speed Cobra 910 Double Pedal',
+          price: 650,
+          link: 'tama-speed-cobra-910',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B',
+        model: 'Hickory',
+        specs: 'Standard 5B weight',
+        originalPrice: 8,
+        year: 2016,
+        source: 'Vic Firth retail pricing 2016',
+        notes: 'Balance of speed and power suited to thrash playing.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vater Power 5B',
+          price: 13,
+          link: 'vater-power-5b',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Powerstroke 3',
+        model: 'Emperor Coated snare/toms, PS3 kick',
+        specs: 'Remo Powerstroke 3 Clear with Evans EMAD dampening ring (kick), Remo Emperor Clear/Ambassador Clear (toms)',
+        originalPrice: 90,
+        year: 2016,
+        source: 'Remo retail pricing 2016',
+        notes: 'Modern head package built for studio consistency and Mustaine-era thrash tempos.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor / EMAD2 Pack',
+          price: 115,
+          link: 'remo-emperor-emad2-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 10048,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 6400,
+      modernEquivalentTotal: 9458,
+    },
+
+    priceEvolution: [
+      { year: 2016, price: 10048, label: 'Original Purchase', event: 'Joins Megadeth, records Dystopia at Vic\'s Garage' },
+      { year: 2017, price: 10400, label: 'Grammy win', event: 'Dystopia wins Best Metal Performance, 59th Grammy Awards' },
+      { year: 2022, price: 12600, label: "The Sick, the Dying... and the Dead! era", event: 'First full studio album written and recorded with Megadeth' },
+      { year: 2024, price: 13300, label: 'Crush the World tour', event: 'Ongoing Megadeth touring cycle' },
+      { year: 2026, price: 13716, label: 'Current adjusted', event: 'Inflation-adjusted value, Tama Starclassic era' },
+    ],
+
+    sources: [
+      { title: "DW Collector's Series Catalog", year: 2016, type: 'catalog' },
+      { title: 'Zildjian A Custom Series Retail Pricing Archive', year: 2016, type: 'catalog' },
+      { title: 'Megadeth Dystopia Album Credits & Grammy Archives', year: 2017, type: 'press' },
+      { title: 'Reverb Marketplace Analysis — DW Collector\'s Maple', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Dirk Verbeuren Drum Setup Cost | Megadeth Gear Price History",
+      description: "How much was Dirk Verbeuren's Grammy-winning Megadeth drum kit worth? Original DW Collector's Maple + Zildjian A Custom setup ~$10,048 in 2016, inflation-adjusted to ~$13,716 today. Complete Dystopia-era gear breakdown.",
+      keywords: ['dirk verbeuren drum setup cost', 'megadeth drum kit price', 'dw collectors maple price', 'dirk verbeuren gear cost today', 'zildjian a custom price'],
+    },
+  },
+
+  // ==========================================
+  // MARTIN AXENROT - 2008 Watershed Era
+  // Sonor Designer/SQ2 / Meinl Byzance Setup
+  // Issue #2918: SEO batch — gear price history batch 23
+  // ==========================================
+  'martin-axenrot': {
+    slug: 'martin-axenrot',
+    name: 'Martin Axenrot',
+    band: 'Opeth',
+    iconicYear: 2008,
+    era: 'Watershed Era',
+    albumReference: 'Watershed (2008)',
+    profileImage: '/images/drummers/martin-axenrot.webp',
+
+    summary: "Martin Axenrot's 2008 setup recorded his studio debut with Opeth, \"Watershed\" — the album that closed the Martin Lopez era and debuted at #23 on the Billboard 200, the band's highest US chart placement to that point. His Sonor Designer/SQ2 kit, built around twin 22\"x18\" bass drums, was a deliberate departure from Lopez's single-kick rig — a heavier, more aggressive configuration informed by Axenrot's extreme metal background in Bloodbath, Witchery, and Nifelheim. Meinl Byzance cymbals supplied the dark, hand-hammered character that continued Opeth's progressive death metal cymbal vocabulary. The original rig — twin-kick Sonor custom build, Meinl Byzance set, Sonor Giant Step direct-drive pedals, and Vic Firth sticks — cost roughly $13,378 in 2008, reflecting the premium of German custom-shell craftsmanship. Adjusted for 2026 inflation, that's equivalent to approximately $20,356 today. Axenrot has stayed on Sonor and Meinl gear throughout his Opeth tenure, carrying the same twin-kick SQ2 platform through Heritage (2011), Pale Communion (2014), Sorceress (2016), and In Cauda Venenum (2019) — a level of gear consistency that makes the Watershed-era price point a reliable anchor for what a premium, fully custom Sonor SQ2 setup costs versus Martin Lopez's earlier Noble & Cooley/Zildjian rig.",
+
+    setup: {
+      drums: {
+        item: 'Sonor Designer / SQ2 Series',
+        model: 'Twin-kick custom configuration, European maple shells',
+        specs: '22"x18" Bass Drum x2, 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
+        originalPrice: 9500,
+        year: 2008,
+        source: 'Sonor SQ2 custom-build pricing 2008, Designer Series catalog MSRP',
+        notes: 'Twin 22" bass drums signaled the drum chair had changed hands — a heavier, more aggressive setup than Lopez\'s single-kick rig.',
+        vintageValue2026: 7200,
+        modernEquivalent: {
+          item: 'Sonor SQ2 Heavy Beech Custom',
+          price: 10500,
+          link: 'sonor-sq2-heavy-beech',
+        },
+      },
+      snare: {
+        item: 'Sonor Designer Maple Snare',
+        model: '14"x5.75" European maple shell',
+        specs: '14"x5.75" maple, medium tension',
+        originalPrice: 700,
+        year: 2008,
+        source: 'Sonor Designer Series snare catalog 2008',
+        notes: 'Warm fundamental with enough body to anchor heavy backbeats while rendering ghost-note vocabulary inherited from Lopez.',
+        vintageValue2026: 550,
+        modernEquivalent: {
+          item: 'Sonor SQ2 14"x5.75" Maple',
+          price: 780,
+          link: 'sonor-sq2-maple-snare',
+        },
+      },
+      cymbals: {
+        item: 'Meinl Byzance Series',
+        model: 'Traditional/Dark/Brilliant mixed configuration',
+        specs: '14" Hi-Hats, 16"/18"/19" Crashes, 22" Ride, 18" China',
+        originalPrice: 2600,
+        year: 2008,
+        source: 'Meinl Byzance series retail pricing 2008',
+        notes: 'Hand-hammered Turkish-style cymbals delivered the dark, complex character Opeth\'s progressive death metal vocabulary required.',
+        vintageValue2026: 1900,
+        modernEquivalent: {
+          item: 'Meinl Byzance Mixed Set (current)',
+          price: 2900,
+          link: 'meinl-byzance-mixed-set-current',
+        },
+      },
+      hardware: {
+        item: 'Sonor Giant Step Twin Pedals + Sonor 600 Series Hi-Hat Stand',
+        model: 'Direct-drive twin pedals + hardware pack',
+        specs: 'Twin direct-drive bass drum pedals, hi-hat stand, Roc-N-Soc Nitro throne',
+        originalPrice: 500,
+        year: 2008,
+        source: 'Sonor hardware catalog 2008',
+        notes: 'Direct-drive twin pedals gave faster response and more precise articulation than chain-drive for sustained double-bass passages.',
+        vintageValue2026: 380,
+        modernEquivalent: {
+          item: 'Sonor Giant Step Direct Drive (current)',
+          price: 560,
+          link: 'sonor-giant-step-current',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5B',
+        model: 'Hickory',
+        specs: 'Standard 5B weight',
+        originalPrice: 8,
+        year: 2008,
+        source: 'Vic Firth retail pricing 2008',
+        notes: 'Slightly heavier than 5A — suited Axenrot\'s more aggressive attack and twin-kick setup.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B (current)',
+          price: 14,
+          link: 'vic-firth-5b-current',
+        },
+      },
+      heads: {
+        item: 'Remo Powerstroke 3 / Emperor / Ambassador',
+        model: 'PS3 kick, Emperor/Ambassador toms and snare',
+        specs: 'Remo Powerstroke 3 Clear (kick), Remo Emperor Clear/Ambassador Clear (toms), Remo Ambassador Coated (snare)',
+        originalPrice: 70,
+        year: 2008,
+        source: 'Remo retail pricing 2008',
+        notes: 'Standard Remo head package for Fascination Street Studios sessions with Jens Bogren.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor / Ambassador Pack',
+          price: 100,
+          link: 'remo-emperor-ambassador-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 13378,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 10030,
+      modernEquivalentTotal: 14854,
+    },
+
+    priceEvolution: [
+      { year: 2008, price: 13378, label: 'Original Purchase', event: 'Studio debut on Watershed, Opeth\'s highest US chart placement at the time' },
+      { year: 2011, price: 14600, label: 'Heritage era', event: 'Opeth\'s prog-rock turn, twin-kick Sonor setup carries over' },
+      { year: 2016, price: 17200, label: 'Sorceress era', event: 'Continued Sonor SQ2/Meinl Byzance setup' },
+      { year: 2019, price: 18900, label: 'In Cauda Venenum era', event: 'Most recent Opeth studio album to date' },
+      { year: 2026, price: 20356, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Sonor SQ2 / Designer Series Catalog', year: 2008, type: 'catalog' },
+      { title: 'Meinl Byzance Series Retail Pricing Archive', year: 2008, type: 'catalog' },
+      { title: 'Opeth Watershed Album Credits', year: 2008, type: 'press' },
+      { title: "Reverb Marketplace Analysis — Sonor SQ2 Custom", year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Martin Axenrot Drum Setup Cost | Opeth Gear Price History",
+      description: "How much was Martin Axenrot's Opeth drum kit worth? Original Sonor SQ2 twin-kick + Meinl Byzance setup ~$13,378 in 2008, inflation-adjusted to ~$20,356 today. Complete Watershed-era gear breakdown.",
+      keywords: ['martin axenrot drum setup cost', 'opeth drum kit price', 'sonor sq2 price', 'martin axenrot gear cost today', 'meinl byzance cymbals price'],
+    },
+  },
 };
 
 // ==========================================

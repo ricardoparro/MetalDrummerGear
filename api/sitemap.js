@@ -340,6 +340,8 @@ const gearPriceHistoryDrummers = [
   'alex-bent',       // The Sin and the Sentence era (2017) — Issue #3187
   'matt-garstka',    // The Joy of Motion era (2014) — Issue #3187
   'matt-halpern',    // Select Difficulty era (2016) — Issue #3187
+  'bill-ward',       // Black Sabbath debut era (1970) — Issue #3252
+  'shannon-larkin',  // Faceless era (2002) — Issue #3252
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

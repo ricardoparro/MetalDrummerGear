@@ -263,6 +263,7 @@ export const drummerComparisons = {
   },
 
   // Issue #2297: Gene Hoglan vs Tomas Haake - Atomic Clock vs Djent Architect
+  // Issue #3288: SEO batch 44 — expanded to meet quality gate (300+ words, FAQs)
   'gene-hoglan-vs-tomas-haake': {
     slug: 'gene-hoglan-vs-tomas-haake',
     title: 'Gene Hoglan vs Tomas Haake',
@@ -271,12 +272,18 @@ export const drummerComparisons = {
     category: 'extreme',
     drummers: ['gene-hoglan', 'tomas-haake'],
     comparison: {
-      style: 'Gene brings inhuman timing and scientific precision to death and thrash metal. Tomas invented djent drumming with robotic polyrhythmic complexity for Meshuggah.',
-      technique: 'Gene pioneered the gravity blast with impossibly tight double bass and timing. Tomas employs machine-like precision with complex time signatures and signature single-pedal approach.',
-      gear: 'Gene endorses Pearl Reference Pure drums with Sabian AAX cymbals. Tomas plays Sonor SQ2 Heavy Beech drums with Sabian HHX & AAX cymbals.',
-      influence: 'Gene defined death and thrash metal drumming across Death, Dark Angel, and Testament. Tomas pioneered the djent movement and polyrhythmic metal with Meshuggah.',
+      style: 'Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic timing, built his reputation across more than 20 bands over four decades — Dark Angel (1984–present), Death ("Individual Thought Patterns," 1993; "Symbolic," 1995), Testament, Strapping Young Lad, Fear Factory, and the animated band Dethklok — bringing inhuman precision to death metal, thrash metal, and progressive metal song structures. Tomas Haake has been Meshuggah\'s sole drummer since 1990, and his polyrhythmic approach on albums like "Chaosphere" (1998), "Nothing" (2002), and "obZen" (2008) effectively invented the djent sub-genre — robotic, mathematically layered patterns built around Meshuggah\'s down-tuned 8-string riffs rather than traditional verse-chorus song forms.',
+      technique: 'Gene pioneered the "gravity blast" — a blast beat technique that uses the stick\'s own momentum rather than pure muscular force, letting him sustain extreme tempos with less fatigue across full albums and tours. His double bass work and timing are so consistent that producers have called him a human click track. Tomas employs a completely different kind of machine-like precision: rather than a conventional double bass pedal, he plays two independent Tama Speed Cobra single pedals, giving each foot distinct mechanical feedback so he can layer multiple simultaneous rhythmic cycles — apparent 4/4 patterns that actually resolve over much longer, odd-numbered cycles — a defining technical signature few other metal drummers have replicated.',
+      gear: 'Gene Hoglan plays a Pearl Reference Pure kit (a maple/mahogany hybrid shell chosen for tonal clarity at extreme tempos) with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX Series cymbals (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China), a Pearl Demon Drive double pedal, Promark 5B sticks, and Evans heads. Tomas Haake plays a Sonor SQ2 Heavy Beech kit with a massive 24"x18" bass drum and an extended tom range (10", 12", 13", 16", 18") built for Meshuggah\'s low-end density, paired with Sonor Tomas Haake Signature snares, Sabian HHX & AAX cymbals, dual Tama Speed Cobra single pedals, and Wincent Tomas Haake Signature sticks.',
+      influence: 'Gene Hoglan defined technical death and thrash metal drumming across Death, Dark Angel, and Testament, and his gravity blast technique spread throughout the extreme metal community as a benchmark for sustainable extreme-speed playing. Tomas Haake\'s drumming on Meshuggah\'s catalog single-handedly spawned the djent movement, directly influencing Periphery, Animals as Leaders, Vildhjarta, and an entire generation of progressive metal bands built around polymetric riffing. Both are routinely cited by other professional drummers as among the most technically demanding players in metal.',
     },
-    verdict: 'Gene Hoglan is "The Atomic Clock" — legendary precision earned across 40+ years of extreme metal. Tomas Haake is the architect of djent, whose polyrhythmic machine-drumming created an entirely new sub-genre. Two different flavours of inhuman timing.',
+    verdict: 'Gene Hoglan is "The Atomic Clock" — legendary precision earned across 40+ years and 20+ bands of extreme metal. Tomas Haake is the architect of djent, whose two-single-pedal polyrhythmic machine-drumming created an entirely new sub-genre virtually by himself. Gene\'s machine is calibrated for sustained extreme speed within death and thrash song structures; Tomas\'s machine is calibrated for mathematical, polymetric complexity. Both represent the pinnacle of inhuman timing in metal — just aimed at very different ends.',
+    faqs: [
+      { q: 'Who is more technical, Gene Hoglan or Tomas Haake?', a: 'Both are widely regarded as among metal\'s most technical drummers, but in different ways. Gene Hoglan\'s technicality is rooted in sustained extreme-tempo precision — his gravity blast technique lets him hold metronomic speed across full albums. Tomas Haake\'s technicality is rooted in polyrhythmic layering — playing two independent rhythmic cycles simultaneously using separate single pedals for each foot, a feat very few drummers attempt, let alone master.' },
+      { q: 'What drums does Gene Hoglan play vs Tomas Haake?', a: 'Gene Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14"x6.5" Brass snare and Sabian AAX cymbals. Tomas Haake plays a Sonor SQ2 Heavy Beech kit with a 24"x18" bass drum, Sonor Tomas Haake Signature snares, and Sabian HHX & AAX cymbals.' },
+      { q: 'Why does Tomas Haake use two single pedals instead of a double pedal?', a: 'Tomas Haake prefers the independent mechanical response of two separate single pedals over a shared double-pedal beam, giving each foot distinct feel and control. This unconventional setup is essential to Meshuggah\'s polyrhythmic style, letting him hold separate rhythmic cycles with each foot.' },
+      { q: 'What is Gene Hoglan\'s "gravity blast" technique?', a: 'The gravity blast is a blast beat variation Gene Hoglan pioneered that uses the stick\'s own gravitational momentum rather than pure muscular force, allowing sustained extreme speeds with less fatigue. It became a foundational technique studied by extreme metal drummers worldwide.' },
+    ],
   },
 
   // Issue #598: Gene Hoglan vs George Kollias - Speed Demons
@@ -389,6 +396,7 @@ export const drummerComparisons = {
   },
 
   // Issue #691: Top 20 SEO Comparison Pages - British Metal
+  // Issue #3288: SEO batch 44 — expanded to meet quality gate (300+ words, FAQs)
   'scott-travis-vs-nicko-mcbrain': {
     slug: 'scott-travis-vs-nicko-mcbrain',
     title: 'Scott Travis vs Nicko McBrain',
@@ -397,12 +405,18 @@ export const drummerComparisons = {
     category: 'thrash',
     drummers: ['scott-travis', 'nicko-mcbrain'],
     comparison: {
-      style: 'Scott brought modern double bass power to Judas Priest\'s classic sound. Nicko delivers complex patterns and signature gallops for Iron Maiden.',
-      technique: 'Scott excels at powerful double bass and precision timing. Nicko masters intricate patterns with single-bass footwork and dynamic control.',
-      gear: 'Scott plays Pearl drums with Paiste cymbals for aggressive attack. Nicko uses Sonor drums with Paiste for bright, cutting tone.',
-      influence: 'Scott modernized Judas Priest\'s sound while respecting their legacy. Nicko defined Iron Maiden\'s drumming for over 40 years.',
+      style: 'Scott Travis joined Judas Priest in 1989, replacing Dave Holland for the landmark "Painkiller" album (1990) — one of the heaviest, most technically demanding records in the band\'s catalog — and has remained Priest\'s drummer for over three decades, recording "Angel of Retribution" (2005), "Nostradamus" (2008), "Redeemer of Souls" (2014), and "Firepower" (2018). Nicko McBrain has been Iron Maiden\'s drummer since 1982, defining the band\'s galloping NWOBHM sound across "Piece of Mind" (1983), "Powerslave" (1984), "Somewhere in Time" (1986), and "Seventh Son of a Seventh Son" (1988), and remains Maiden\'s drummer to this day across more than 40 years of arena touring.',
+      technique: 'Scott brought modern American double-bass power to Priest\'s classic British heavy metal sound — his footwork on "Painkiller"\'s title track is one of metal\'s most celebrated drumming performances, a machine-like display of speed and consistency. Nicko, by contrast, has never used a double bass pedal: his galloping triplet patterns, intricate hi-hat work, and the famous "Maiden gallop" are all achieved with a single bass drum pedal, relying on extraordinary foot speed and control rather than a second kick drum — a defining technical choice across his entire Iron Maiden tenure.',
+      gear: 'Scott Travis plays a ddrum Dominion Series kit with a ddrum Scott Travis Signature 14"x6.5" snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China), a DW 9000 Series double pedal, and Vic Firth American Classic 5B sticks. Nicko McBrain plays a Sonor SQ2 Series kit with a Sonor Nicko McBrain Signature 14"x6.5" snare, Paiste 2002 & Signature Series cymbals (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China), a single bass drum pedal, and Vic Firth Nicko McBrain Signature sticks.',
+      influence: 'Scott Travis modernized Judas Priest\'s drumming identity — "Painkiller" would not have been possible without his double-bass technique, and his multi-decade tenure has given Priest rhythmic consistency across their most commercial and most extreme periods. Nicko McBrain shaped British heavy metal drumming for over four decades, proving that a single bass drum pedal could deliver galloping power most metal drummers need double bass to match, and his playing on Maiden\'s 1980s classics remains a benchmark for NWOBHM drumming worldwide.',
     },
-    verdict: 'The rivalry of British metal. Scott Travis brought Priest into the modern era. Nicko McBrain is Iron Maiden\'s irreplaceable heartbeat. Both represent the best of NWOBHM evolution.',
+    verdict: 'Scott Travis and Nicko McBrain represent two pillars of classic British-rooted heavy metal drumming. Travis brought Judas Priest into the modern double-bass era with one of metal\'s most celebrated performances on "Painkiller." McBrain is Iron Maiden\'s irreplaceable heartbeat, proving a single pedal and impeccable technique can out-gallop drummers running double bass. Both are essential to understanding how 1980s British heavy metal evolved into its modern form.',
+    faqs: [
+      { q: 'Who is faster, Scott Travis or Nicko McBrain?', a: 'Scott Travis\'s double-bass footwork on Judas Priest\'s "Painkiller" is widely considered one of the fastest, most technically demanding drum performances in heavy metal history. Nicko McBrain achieves comparable galloping speed using only a single bass drum pedal, relying on foot technique rather than a second kick — making direct comparison less about raw speed and more about which technical approach you value.' },
+      { q: 'Does Nicko McBrain use a double bass pedal?', a: 'No — Nicko McBrain has never used a double bass pedal throughout his entire Iron Maiden career. He achieves Iron Maiden\'s signature galloping rhythms with a single Sonor pedal and exceptional single-foot technique, a deliberate stylistic choice that sets him apart from most metal drummers.' },
+      { q: 'What albums did Scott Travis record with Judas Priest vs Nicko McBrain with Iron Maiden?', a: 'Scott Travis recorded "Painkiller" (1990), "Jugulator" (1997), "Demolition" (2001), "Angel of Retribution" (2005), "Nostradamus" (2008), "Redeemer of Souls" (2014), and "Firepower" (2018) with Judas Priest. Nicko McBrain recorded "Piece of Mind" (1983), "Powerslave" (1984), "Somewhere in Time" (1986), "Seventh Son of a Seventh Son" (1988), and every Iron Maiden album since, spanning over 40 years.' },
+      { q: 'What gear do Scott Travis and Nicko McBrain use?', a: 'Scott Travis plays a ddrum Dominion Series kit with a ddrum Scott Travis Signature snare, Paiste RUDE & 2002 cymbals, and a DW 9000 double pedal. Nicko McBrain plays a Sonor SQ2 Series kit with a Sonor Nicko McBrain Signature snare, Paiste 2002 & Signature cymbals, and a single bass drum pedal.' },
+    ],
   },
 
   // Issue #691: Top 20 SEO Comparison Pages - Extreme Metal Icons

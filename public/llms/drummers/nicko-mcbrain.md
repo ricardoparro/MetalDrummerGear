@@ -53,6 +53,8 @@ McBrain is renowned for his powerful single bass drum technique, incredible stam
 - **Sticks:** Vic Firth Nicko McBrain Signature
 - **Heads:** Remo Emperor
 
+See the [Nicko McBrain vs Scott Travis](/vs/scott-travis-vs-nicko-mcbrain) comparison for a full breakdown of Iron Maiden's single-pedal gallop vs Judas Priest's double-bass power.
+
 ## Notable Performances
 
 - The Trooper - Drum Cam (En Vivo 2012) (2012)

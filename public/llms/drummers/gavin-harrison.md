@@ -50,6 +50,8 @@ Harrison's playing is characterized by intricate polyrhythmic patterns, masterfu
 - **Sticks:** Vic Firth Gavin Harrison Signature
 - **Heads:** Remo Ambassador
 
+See the [Gavin Harrison vs Mike Mangini](/vs/gavin-harrison-vs-mike-mangini) comparison for a full breakdown of Porcupine Tree/King Crimson's polyrhythmic feel vs Dream Theater's technical science.
+
 ## Notable Performances
 
 - White Mist - The Pineapple Thief (2021)

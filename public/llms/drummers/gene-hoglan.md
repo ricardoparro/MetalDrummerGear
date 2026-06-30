@@ -61,6 +61,8 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
 - **Sticks:** Promark 5B
 - **Heads:** Evans
 
+See the [Gene Hoglan vs Tomas Haake](/vs/gene-hoglan-vs-tomas-haake) comparison for a full breakdown of how Hoglan's death/thrash precision stacks up against Meshuggah's djent architect.
+
 ## Notable Performances
 
 - The Philosopher (Death) - Official Playthrough (2016)

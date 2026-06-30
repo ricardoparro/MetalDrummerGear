@@ -53,6 +53,8 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
 - **Sticks:** Wincent Tomas Haake Signature
 - **Heads:** Remo
 
+See the [Tomas Haake vs Gene Hoglan](/vs/gene-hoglan-vs-tomas-haake) comparison for a full breakdown of how Meshuggah's djent architect stacks up against death/thrash's "Atomic Clock."
+
 ## Notable Performances
 
 - Bleed - Wincent Drumsticks (8.1M views) (2013)

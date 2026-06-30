@@ -12,11 +12,25 @@
  */
 
 // ==========================================
-// BLS CPI-U Annual Averages (1983-2026)
+// BLS CPI-U Annual Averages (1968-2026)
 // Source: US Bureau of Labor Statistics
 // Base year: 1982-84 = 100
+// 1968-1980 added for Issue #3252 (Bill Ward 1970 Paranoid-era setup)
 // ==========================================
 export const CPI_DATA = {
+  1968: 34.8,
+  1969: 36.7,
+  1970: 38.8,
+  1971: 40.5,
+  1972: 41.8,
+  1973: 44.4,
+  1974: 49.3,
+  1975: 53.8,
+  1976: 56.9,
+  1977: 60.6,
+  1978: 65.2,
+  1979: 72.6,
+  1980: 82.4,
   1981: 90.9,
   1982: 96.5,
   1983: 99.6,
@@ -3071,6 +3085,286 @@ export const GEAR_PRICE_HISTORY = {
       title: "Eloy Casagrande 2017 Drum Setup Cost | Machine Messiah Era Gear Prices",
       description: "How much did Eloy Casagrande's 2017 Sepultura drum kit cost? Original ~$4,124, inflation-adjusted to ~$5,510 today. Complete Mapex Meridian Maple breakdown from the Machine Messiah era, plus his Slipknot-era Pearl Reference upgrade.",
       keywords: ['eloy casagrande drum kit', 'sepultura drummer gear', 'machine messiah drums', 'eloy casagrande mapex setup', 'slipknot new drummer gear cost'],
+    },
+  },
+
+  // ==========================================
+  // Issue #3252: Gear Price History batch 30
+  // BILL WARD - 1970 Paranoid Era
+  // Ludwig Standard / Avedis Zildjian Setup
+  // ==========================================
+  'bill-ward': {
+    slug: 'bill-ward',
+    name: 'Bill Ward',
+    band: 'Black Sabbath',
+    iconicYear: 1970,
+    era: 'Paranoid Era',
+    albumReference: 'Paranoid (1970)',
+    profileImage: '/images/drummers/bill-ward.webp',
+
+    summary: "Bill Ward's 1970 Black Sabbath setup — the Ludwig and Avedis Zildjian kit behind Paranoid, the album that invented heavy metal drumming. Recorded in four days at Regent Sound Studios on a budget that barely covered tape costs, Ward's compact, jazz-influenced rig cost roughly $1,628 in 1970 — equivalent to about $13,745 today. The gap between that modest configuration and its enduring influence remains one of the great stories in rock history: a working musician's gear, not a flagship endorsement deal, became the foundation every metal drummer since has built on.",
+
+    setup: {
+      drums: {
+        item: 'Ludwig Standard / Club Date Series',
+        model: '5-piece shell pack, Silver Sparkle finish',
+        specs: '20"x14" bass drum, 12"x8" and 13"x9" rack toms, 16"x16" floor tom — maple shells',
+        originalPrice: 950,
+        year: 1970,
+        source: 'Ludwig Standard/Club Date series catalog pricing 1970, Music Trades retail estimates',
+        notes: "Ward's kit was compact by later metal standards — a 20\" bass drum rather than the 22\"-24\" kicks that became common later in the decade, and just two rack toms plus a single floor tom. His jazz-trained economy of motion meant the modest Ludwig setup generated enormous musical impact, anchoring tracks like \"Iron Man\" and \"War Pigs\" without needing a larger configuration.",
+        vintageValue2026: 9500,
+        modernEquivalent: {
+          item: 'Ludwig Classic Maple',
+          price: 3200,
+          link: 'ludwig-classic-maple',
+        },
+      },
+      snare: {
+        item: 'Ludwig Acrolite 14"x5"',
+        model: 'Seamless aluminum shell snare',
+        specs: '14"x5", aluminum shell, 8-lug strainer',
+        originalPrice: 70,
+        year: 1970,
+        source: 'Ludwig Acrolite MSRP estimates 1970',
+        notes: "The Acrolite's bright, immediate crack cut through Tony Iommi's down-tuned riffs without excessive ring — a budget-tier snare that became one of the most recognizable sounds in rock history. Ward's medium-high tension delivered the snap heard on \"Paranoid\" and \"Iron Man.\"",
+        vintageValue2026: 280,
+        modernEquivalent: {
+          item: 'Ludwig Acrolite 14x5 (current production)',
+          price: 220,
+          link: 'ludwig-acrolite',
+        },
+      },
+      cymbals: {
+        item: 'Avedis Zildjian Series',
+        model: 'Mixed Avedis configuration',
+        specs: '14" Hi-Hats, 20" Ride, 16"-18" Crash',
+        originalPrice: 420,
+        year: 1970,
+        source: 'Avedis Zildjian catalog pricing 1970',
+        notes: "The warm, complex Avedis bronze suited Ward's jazz-influenced playing — swung hi-hat patterns, idiomatic ride work in the bow and bell, and restrained crashes used for genuine musical emphasis rather than every downbeat. Ward later switched to Paiste 2002 and Giant Beat cymbals by the Sabotage (1975) era.",
+        vintageValue2026: 3200,
+        modernEquivalent: {
+          item: 'Zildjian A Series Rock Set',
+          price: 1300,
+          link: 'zildjian-a-series-set',
+        },
+      },
+      hardware: {
+        item: 'Ludwig Speed King Pedal + Atlas Hardware Pack',
+        model: 'Ludwig Speed King single pedal + Atlas hi-hat stand + throne',
+        specs: 'Speed King single pedal, Atlas hi-hat stand, snare stand, standard throne',
+        originalPrice: 140,
+        year: 1970,
+        source: 'Ludwig hardware catalog pricing 1970',
+        notes: "Ward played single bass drum throughout the Paranoid sessions — the riff-locked kick pattern on \"Iron Man\" is executed with one foot via the direct-drive Ludwig Speed King, the same pedal used by Ringo Starr and John Bonham at the time.",
+        vintageValue2026: 900,
+        modernEquivalent: {
+          item: 'Ludwig Speed King + Atlas Hardware Pack',
+          price: 380,
+          link: 'ludwig-speed-king',
+        },
+      },
+      sticks: {
+        item: 'Pro-Mark Standard 5A/5B',
+        model: 'Pro-Mark hickory',
+        specs: 'Hickory, wood tip',
+        originalPrice: 3,
+        year: 1970,
+        source: 'Standard retail price 1970',
+        notes: 'Ward had no stick endorsement in 1970 — standard professional Pro-Mark hickory sticks, the workhorse choice for working drummers of the era.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Pro-Mark Classic 5A Wood Tip',
+          price: 13,
+          link: 'promark-classic-5a',
+        },
+      },
+      heads: {
+        item: 'Remo Ambassador',
+        model: 'Coated/Clear Ambassador batters',
+        specs: 'Remo Ambassador Coated (snare, toms), Remo Fiberskyn/Ambassador Clear (kick)',
+        originalPrice: 45,
+        year: 1970,
+        source: 'Remo retail pricing estimates 1970',
+        notes: "Ward's kit was tuned to ring and breathe rather than dampened — a pre-gated-drums recording philosophy that gave Paranoid's drums their open, resonant, three-dimensional character.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Ambassador Tom Pack',
+          price: 85,
+          link: 'remo-ambassador-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 1628,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 13880,
+      modernEquivalentTotal: 5198,
+    },
+
+    priceEvolution: [
+      { year: 1970, price: 1628, label: 'Original Purchase', event: 'Paranoid recording — Ludwig/Zildjian setup' },
+      { year: 1972, price: 1800, label: 'Vol. 4 era', event: 'Kit expansion for larger US tours' },
+      { year: 1975, price: 2350, label: 'Sabotage era', event: 'Switch to Paiste 2002/Giant Beat cymbals, Ludwig Supraphonic snare' },
+      { year: 1978, price: 2750, label: 'Never Say Die! era', event: 'Final classic Ozzy-era Sabbath album' },
+      { year: 1997, price: 7200, label: 'Reunion era', event: 'Original lineup reunites for Reunion tour and album' },
+      { year: 2020, price: 13200, label: 'Vintage collector surge', event: 'Early Ludwig Silver Sparkle kits become sought-after collector items' },
+      { year: 2026, price: 13746, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Ludwig Standard/Club Date Series Catalog', year: 1970, type: 'catalog' },
+      { title: 'Modern Drummer — Bill Ward Black Sabbath Feature', year: 1992, type: 'interview' },
+      { title: 'Drummerworld — Bill Ward Gear Profile', year: 2015, type: 'interview' },
+      { title: 'Reverb Price Guide — Vintage Ludwig Silver Sparkle', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Bill Ward 1970 Drum Setup Cost | Paranoid Era Gear Prices",
+      description: "How much did Bill Ward's 1970 Black Sabbath drum kit cost? Original ~$1,628, inflation-adjusted to ~$13,745 today. Complete Ludwig and Zildjian breakdown from the Paranoid era that invented heavy metal drumming.",
+      keywords: ['bill ward drum kit', 'black sabbath drummer gear', 'paranoid drums cost', 'bill ward ludwig setup', 'black sabbath drum kit value'],
+    },
+  },
+
+  // ==========================================
+  // Issue #3252: Gear Price History batch 30
+  // SHANNON LARKIN - 2003 Faceless Era
+  // Tama Starclassic Maple / Sabian AAX Setup
+  // ==========================================
+  'shannon-larkin': {
+    slug: 'shannon-larkin',
+    name: 'Shannon Larkin',
+    band: 'Godsmack',
+    iconicYear: 2003,
+    era: 'Faceless Era',
+    albumReference: 'Faceless (2003)',
+    profileImage: '/images/drummers/shannon-larkin.webp',
+
+    summary: "Shannon Larkin's 2003 Godsmack setup — the Tama Starclassic Maple kit behind Faceless, the album that debuted at #1 on the Billboard 200 and went 4x Platinum. Larkin had just joined Godsmack after stints in Wrathchild America and Ugly Kid Joe, bringing a road-tested Tama and Sabian rig worth roughly $4,988 — equivalent to about $8,882 today. He later transitioned to a Ddrum Reflex endorsement with a signature snare and Vater signature sticks, but the Faceless-era Tama setup is what powered hard rock's commercial peak.",
+
+    setup: {
+      drums: {
+        item: 'Tama Starclassic Maple',
+        model: 'Double-kick touring configuration',
+        specs: '22"x18" bass drums (x2), 10"x8" and 12"x9" rack toms, 14"x14" and 16"x16" floor toms — maple shells',
+        originalPrice: 2800,
+        year: 2003,
+        source: 'Tama Starclassic Maple MSRP 2003, Music Trades retail estimates',
+        notes: "The all-maple Starclassic delivered a warm, full-bodied tone with a focused attack — durable enough for the arena stages Godsmack was beginning to headline. The double 22\" kick configuration gave Larkin the punchy, defined low end that drove Faceless tracks like \"I Stand Alone\" and \"Straight Out of Line.\"",
+        vintageValue2026: 2200,
+        modernEquivalent: {
+          item: 'Tama Starclassic Maple (current production)',
+          price: 3600,
+          link: 'tama-starclassic-maple',
+        },
+      },
+      snare: {
+        item: 'Tama Starclassic Steel Snare',
+        model: '14"x6.5" steel shell',
+        specs: '14"x6.5", steel shell, 8-lug strainer',
+        originalPrice: 320,
+        year: 2003,
+        source: 'Tama Starclassic steel snare MSRP 2003',
+        notes: "A bright, cutting steel shell that claimed its own sonic territory against Godsmack's dense, down-tuned guitar mix — the authoritative crack heard on every backbeat of Faceless. Larkin later moved to a Ddrum Shannon Larkin Signature snare as his endorsement deal evolved.",
+        vintageValue2026: 280,
+        modernEquivalent: {
+          item: 'Ddrum Shannon Larkin Signature Snare 14x6.5',
+          price: 350,
+          link: 'ddrum-larkin-signature-snare',
+        },
+      },
+      cymbals: {
+        item: 'Sabian AAX Series',
+        model: 'Mixed AAX configuration',
+        specs: '14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, 21" Ride',
+        originalPrice: 1100,
+        year: 2003,
+        source: 'Sabian AAX series catalog pricing 2003',
+        notes: "Bright, explosive AAX cymbals projected clearly through Godsmack's dense live and studio mix. Larkin has remained a Sabian artist for over two decades, later expanding into the HHX series for darker, more focused ride tones.",
+        vintageValue2026: 850,
+        modernEquivalent: {
+          item: 'Sabian AAX/HHX Performance Set',
+          price: 1800,
+          link: 'sabian-aax-hhx-set',
+        },
+      },
+      hardware: {
+        item: 'DW 9000 Series Double Pedal + Hardware Pack',
+        model: 'DW 9000 double bass pedal + stands',
+        specs: 'DW 9000 double pedal, hi-hat stand, 3 boom stands, snare stand, throne',
+        originalPrice: 650,
+        year: 2003,
+        source: 'DW 9000 series MSRP 2003, hardware estimates',
+        notes: "Reliable touring hardware built for Godsmack's relentless road schedule — the band has never been a studio-only act, and Larkin's foot hardware reflects that road-first philosophy.",
+        vintageValue2026: 500,
+        modernEquivalent: {
+          item: 'DW 9000 Series Double Pedal + Hardware Pack',
+          price: 950,
+          link: 'dw-9000-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vater Standard 5A/5B',
+        model: 'Hickory',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 2003,
+        source: 'Standard retail price 2003',
+        notes: "Larkin played standard Vater hickory sticks during the Faceless sessions, years before his Vater Shannon Larkin Signature model was introduced.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vater Shannon Larkin Signature',
+          price: 15,
+          link: 'vater-larkin-signature',
+        },
+      },
+      heads: {
+        item: 'Remo Drumheads',
+        model: 'Emperor Coated (batter), Ambassador (snare side)',
+        specs: 'Remo Emperor Coated toms, Remo Ambassador Snare Side, Remo Powerstroke kick',
+        originalPrice: 110,
+        year: 2003,
+        source: 'Remo retail pricing 2003',
+        notes: 'Durable touring heads chosen for controlled sustain and consistent attack across Godsmack\'s demanding live schedule.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor Tom Pack + Powerstroke 3',
+          price: 160,
+          link: 'remo-emperor-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 4988,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 3830,
+      modernEquivalentTotal: 6875,
+    },
+
+    priceEvolution: [
+      { year: 2003, price: 4988, label: 'Original Purchase', event: 'Faceless recording — Tama Starclassic setup' },
+      { year: 2006, price: 5400, label: 'IV era', event: 'Godsmack IV studio sessions' },
+      { year: 2010, price: 5950, label: 'The Oracle era', event: 'Transition to Ddrum Reflex endorsement' },
+      { year: 2014, price: 6500, label: '1000HP era', event: 'Ddrum Shannon Larkin Signature snare introduced' },
+      { year: 2018, price: 6950, label: 'When Legends Rise era', event: 'DW 9000 hardware upgrade for arena touring' },
+      { year: 2023, price: 7250, label: 'Lighting Up the Sky era', event: 'Vater Shannon Larkin Signature stick line' },
+      { year: 2026, price: 8881, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Tama Starclassic Maple Professional Catalog', year: 2003, type: 'catalog' },
+      { title: 'Modern Drummer — Shannon Larkin Godsmack Feature', year: 2003, type: 'interview' },
+      { title: 'Drumhead Magazine — Shannon Larkin Gear Rundown', year: 2014, type: 'interview' },
+      { title: 'Reverb Price Guide — Tama Starclassic Maple 2003', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Shannon Larkin 2003 Drum Setup Cost | Faceless Era Gear Prices",
+      description: "How much did Shannon Larkin's 2003 Godsmack drum kit cost? Original ~$4,988, inflation-adjusted to ~$8,882 today. Complete Tama Starclassic breakdown from the Faceless era, plus his later Ddrum signature gear evolution.",
+      keywords: ['shannon larkin drum kit', 'godsmack drummer gear cost', 'faceless drums', 'shannon larkin tama setup', 'godsmack drum kit value'],
     },
   },
 };

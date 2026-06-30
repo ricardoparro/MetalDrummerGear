@@ -337,6 +337,8 @@ const gearPriceHistoryDrummers = [
   'paul-mazurkiewicz', // Tomb of the Mutilated era (1992) — Issue #3097
   'flo-mounier',     // None So Vile era (1996) — Issue #3097
   'eloy-casagrande', // Machine Messiah era (2017) — Issue #3097
+  'bill-ward',       // Paranoid era (1970) — Issue #3252
+  'shannon-larkin',  // Faceless era (2003) — Issue #3252
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

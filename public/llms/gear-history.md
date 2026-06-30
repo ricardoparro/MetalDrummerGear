@@ -3,7 +3,7 @@
 > Era-by-era breakdown of how legendary metal drummers' gear evolved. Includes original kit specs, endorsement changes, and inflation-adjusted prices.
 > Optimised for AI crawlers answering "what drums did [drummer] use in [era]" queries.
 >
-> Last updated: 2026-06-29 · 6 drummers covered
+> Last updated: 2026-06-30 · 8 drummers covered
 
 ---
 
@@ -235,6 +235,77 @@ Eloy Casagrande joined Sepultura at age 17 in 2011 and built his reputation acro
 
 ---
 
+## Bill Ward — Black Sabbath
+
+**Active:** 1968–1983, 1997–2006 | **Iconic era:** Paranoid (1970)
+
+Bill Ward co-founded Black Sabbath in 1968 and is widely credited as one of the originators of heavy metal drumming. His jazz-influenced, swing-rooted approach on a budget Ludwig and Avedis Zildjian setup produced the riff-locked groove on "Iron Man" — one of the most influential drum patterns in metal history.
+
+### Paranoid Era (1970)
+
+- **Kit:** Ludwig Standard / Club Date Series — Silver Sparkle finish; 20"×14" bass drum, 12"×8" and 13"×9" racks, 16"×16" floor
+- **Snare:** Ludwig Acrolite 14"×5" — seamless aluminum shell
+- **Cymbals:** Avedis Zildjian Series — 14" hi-hats, 20" ride, 16"-18" crash
+- **Pedal:** Ludwig Speed King single pedal (single-kick era)
+- **Sticks:** Pro-Mark Standard 5A/5B Hickory
+- **Heads:** Remo Ambassador (coated snare/toms), Remo Fiberskyn/Ambassador Clear (kick)
+- **Original setup cost (1970):** ~$1,628
+- **Inflation-adjusted to 2026:** ~$13,745
+
+### Sabotage Era (1975)
+
+- **Kit:** Ludwig Standard (expanded configuration)
+- **Snare:** Ludwig Supraphonic 14"×6.5" LM402 — upgrade from the Acrolite
+- **Cymbals:** Paiste 2002 & Giant Beat Series — switch from Zildjian; 24" 2002 Ride, 15" Giant Beat Hi-Hats
+- **Notable change:** Bigger, more resonant cymbal voice for larger touring venues
+
+### Reunion Era (1997–2006)
+
+- **Kit:** Ludwig Classic Maple touring kit
+- **Cymbals:** Paiste 2002 (consistent)
+- **Notable:** Rejoined the original Black Sabbath lineup for the Reunion tour and album; did not participate in 13 (2013) due to contract disputes
+
+**SEO targets:** Bill Ward drum kit, Black Sabbath drummer gear, Paranoid drums cost, Bill Ward Ludwig setup, Black Sabbath drum kit value
+
+[Full gear profile](https://metalforge.io/drummers/bill-ward/gear-history)
+
+---
+
+## Shannon Larkin — Godsmack / Ugly Kid Joe
+
+**Active:** 2002–present (Godsmack) | **Iconic era:** Faceless (2003)
+
+Shannon Larkin joined Godsmack in 2002 and became the band's longest-serving drummer, recording the 4x Platinum, Billboard #1 album Faceless on a Tama Starclassic Maple kit before transitioning to a long-term Ddrum Reflex signature-artist endorsement.
+
+### Faceless Era (2003)
+
+- **Kit:** Tama Starclassic Maple — double-kick; 22"×18" kicks (×2), 10"×8" and 12"×9" racks, 14"×14" and 16"×16" floors
+- **Snare:** Tama Starclassic Steel 14"×6.5"
+- **Cymbals:** Sabian AAX Series — 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, 21" ride
+- **Pedal:** DW 9000 double bass pedal
+- **Sticks:** Vater Standard 5A/5B Hickory
+- **Heads:** Remo Emperor Coated (toms), Remo Ambassador (snare side), Powerstroke kick
+- **Original setup cost (2003):** ~$4,988
+- **Inflation-adjusted to 2026:** ~$8,882
+
+### The Oracle Era (2010)
+
+- **Kit:** Transition to Ddrum Reflex Series — long-term signature-artist relationship begins
+- **Cymbals:** Sabian AAX/HHX mixed configuration
+
+### Current Setup (2020s)
+
+- **Kit:** Ddrum Reflex Series
+- **Snare:** Ddrum Shannon Larkin Signature 14"×6.5" Maple
+- **Pedal:** DW 9000 Series Double Pedal
+- **Sticks:** Vater Shannon Larkin Signature
+
+**SEO targets:** Shannon Larkin drum kit, Godsmack drummer gear cost, Faceless drums, Shannon Larkin Tama setup, Godsmack drum kit value
+
+[Full gear profile](https://metalforge.io/drummers/shannon-larkin/gear-history)
+
+---
+
 ## Price Summary Table
 
 | Drummer | Era | Original Cost | Inflation-Adjusted (2026) |
@@ -245,6 +316,8 @@ Eloy Casagrande joined Sepultura at age 17 in 2011 and built his reputation acro
 | Paul Mazurkiewicz | Tomb of the Mutilated (1992) | $2,028 | ~$4,737 |
 | Flo Mounier | None So Vile (1996) | $2,984 | ~$6,230 |
 | Eloy Casagrande | Machine Messiah (2017) | $4,124 | ~$5,510 |
+| Bill Ward | Paranoid (1970) | $1,628 | ~$13,745 |
+| Shannon Larkin | Faceless (2003) | $4,988 | ~$8,882 |
 
 *Prices sourced from vintage catalogs, Modern Drummer archives, and Reverb market data.*
 
@@ -257,3 +330,5 @@ Eloy Casagrande joined Sepultura at age 17 in 2011 and built his reputation acro
 - [/drummers/paul-mazurkiewicz/gear-history](https://metalforge.io/drummers/paul-mazurkiewicz/gear-history)
 - [/drummers/flo-mounier/gear-history](https://metalforge.io/drummers/flo-mounier/gear-history)
 - [/drummers/eloy-casagrande/gear-history](https://metalforge.io/drummers/eloy-casagrande/gear-history)
+- [/drummers/bill-ward/gear-history](https://metalforge.io/drummers/bill-ward/gear-history)
+- [/drummers/shannon-larkin/gear-history](https://metalforge.io/drummers/shannon-larkin/gear-history)

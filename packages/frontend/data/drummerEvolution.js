@@ -10875,6 +10875,345 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Martin Lopez Drumming Evolution Timeline | Opeth & Soen Career History',
     metaDescription: 'How Martin Lopez\'s drumming evolved from jazz-trained roots to Opeth\'s progressive death metal peak and beyond: Still Life → Blackwater Park → Ghost Reveries → Soen, era by era.',
   },
+
+  // ==========================================
+  // Raymond Herrera - Fear Factory (1990-2009)
+  // ==========================================
+  'raymond-herrera': {
+    slug: 'raymond-herrera',
+    name: 'Raymond Herrera',
+    band: 'Fear Factory',
+    totalYearsActive: '1989-2009',
+    profileImage: '/images/drummers/raymond-herrera.webp',
+    summary: 'Raymond Herrera co-founded Fear Factory in Los Angeles in 1990 and, across nearly two decades, built the blueprint for industrial metal drumming — fusing hardcore punk aggression with electronic trigger precision to create the "machine-like" double-bass sound that defined Demanufacture and Obsolete.',
+
+    eras: [
+      {
+        id: 'raymond-herrera-1989-roots',
+        era: 'Brujeria / Pre-Fear Factory Roots',
+        years: '1989–1990',
+        startYear: 1989,
+        endYear: 1990,
+        description: 'Before co-founding Fear Factory, Raymond Herrera cut his teeth in the Los Angeles hardcore and death metal underground, joining Brujeria as a founding member in 1989. This period established the relentless, rhythmically aggressive foundation — rooted in Discharge-style hardcore punk and the thrash precision of Dave Lombardo — that he would later channel into industrial metal.',
+        albums: ['Brujeria — early demos and formative sessions'],
+        tours: ['Los Angeles underground hardcore/death metal circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Entry-level maple kit',
+            details: '22" kick, 12"/13"/16" toms',
+            notes: 'Standard budget kit typical of the late-1980s LA underground scene — durable enough for relentless hardcore-influenced rehearsal and gigging.',
+            change: null,
+          },
+          snare: {
+            item: 'Steel shell 14"×5.5"',
+            details: 'Bright, cutting steel snare',
+            notes: 'Punchy steel snare suited to hardcore punk\'s rhythmic attack.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Standard A Series setup — reliable and affordable for an emerging underground player.',
+            change: null,
+          },
+          hardware: {
+            item: 'Single bass pedal, mixed stands',
+            details: 'Entry-level hardware',
+            notes: 'Single kick configuration — double bass and triggering were still years away.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vater Power 5B',
+            details: 'Heavy hickory for maximum impact',
+            notes: 'Heavier stick choice that would remain a constant through his entire career.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Standard entry-level configuration.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 1800,
+          inflationAdjusted: 4500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Brujeria as a founding member (1989) — Los Angeles underground roots',
+          'Hardcore punk and thrash influences (Discharge, Dave Lombardo) establish foundation',
+          'Single-kick, all-acoustic setup — no triggering yet',
+          'Co-founded Fear Factory in Los Angeles (1990)',
+        ],
+
+        quote: {
+          text: "Before Fear Factory, it was all hardcore and thrash. That relentless, no-let-up energy — that\'s what I brought into the industrial sound later.",
+          source: 'Modern Drummer Interview, 1997',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'raymond-herrera-1990-soul-of-a-new-machine',
+        era: 'Soul of a New Machine Era',
+        years: '1990–1994',
+        startYear: 1990,
+        endYear: 1994,
+        description: 'Fear Factory\'s 1992 debut Soul of a New Machine introduced Herrera\'s emerging industrial-influenced approach — acoustic drums pushed toward mechanical precision, with early experiments in triggering that hinted at the fully realized hybrid system to come. The band\'s fusion of death metal aggression with industrial electronic texture began taking shape during this formative period.',
+        albums: ['Soul of a New Machine (1992)'],
+        tours: ['Soul of a New Machine touring 1992–1994', 'Early club and festival dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Export Series',
+            details: 'Maple/poplar shells: 22" kick, 12"/13"/16" toms',
+            notes: 'Upgraded to Pearl as Fear Factory signed with Roadrunner Records — more consistent shells for studio recording.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Custom 14"×6.5"',
+            details: 'Steel shell, deeper and louder',
+            notes: 'Deeper Pearl snare for more projection in the band\'s emerging dense production.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Brighter A Custom cymbals to cut through Soul of a New Machine\'s aggressive guitar tone.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal',
+            details: 'Cam-driven double pedal',
+            notes: 'Added double kick configuration — the start of the machine-gun double-bass approach that would define his style.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vater Power 5B',
+            details: 'Continued heavy hickory choice',
+            notes: 'Maintained heavy sticks for power and durability.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Pinstripe',
+            details: 'Double-ply for durability and focused attack',
+            notes: 'Switched to Pinstripe for a tighter, more controlled tone suited to the band\'s mechanical aesthetic.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 4500,
+          inflationAdjusted: 9500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Fear Factory signed to Roadrunner Records',
+          'Soul of a New Machine (1992) — genre-defining debut',
+          'Upgraded to Pearl Export Series and added double bass pedal',
+          'Early industrial-metal hybrid drumming concept begins forming',
+        ],
+
+        quote: {
+          text: "We knew we wanted something mechanical, something that didn\'t sound human. Soul of a New Machine was the first step toward figuring out how to actually do that live.",
+          source: 'Metal Maniacs Interview, 1993',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'raymond-herrera-1995-demanufacture-obsolete',
+        era: 'Demanufacture / Obsolete Era',
+        years: '1995–2001',
+        startYear: 1995,
+        endYear: 2001,
+        description: 'Demanufacture (1995) and Obsolete (1998) are the records that defined industrial metal drumming. Herrera moved to Pearl Reference Series and built out a full ddrum/Roland trigger system across kick, snare, and toms — fusing acoustic shell resonance with electronically processed samples to create the "machine-like" precision that became Fear Factory\'s signature. Digimortal (2001) extended this hybrid approach into the band\'s commercial peak.',
+        albums: ['Demanufacture (1995)', 'Obsolete (1998)', 'Digimortal (2001)'],
+        tours: ['Demanufacture World Tour 1995–1996', 'Ozzfest 1997, 1999, 2001', 'Obsolete World Tour 1998–1999'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple shells: dual 22" kicks, 10"/12"/14"/16" toms — fully triggered',
+            notes: 'Pearl Reference maple shells provided the consistent acoustic foundation needed for reliable trigger response — essential for Demanufacture\'s machine-gun double-kick passages.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Custom 14"×6.5" (triggered)',
+            details: 'Steel shell with integral trigger',
+            notes: 'Triggered snare let producers Ross Robinson and Rhys Fulber layer a processed, mechanical sample over the acoustic crack — the defining Fear Factory snare sound.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian Z Custom Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Switched to bright, machine-hammered Z Custom for maximum cut and touring durability against Fear Factory\'s heavily processed industrial guitar wall.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal',
+            details: 'Refined cam-driven double pedal',
+            notes: 'Continued and refined Eliminator double pedal driving the machine-gun double-kick patterns at the heart of "Replica" and the Demanufacture title track.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vater Power 5B',
+            details: 'Continued heavy hickory choice',
+            notes: 'Maintained heavy sticks for the high-impact triggered playing this era demanded.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Pinstripe (batter), Remo Ambassador Coated (snare)',
+            details: 'Trigger sensors fitted to batter heads',
+            notes: 'Head configuration optimized to give the trigger sensors a clean, consistent signal across kick, snare, and toms.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          electronics: {
+            item: 'ddrum / Roland Trigger System',
+            details: 'Full kit triggering — kick, snare, and toms',
+            notes: 'Comprehensive ddrum and Roland module triggering across the entire kit — the core innovation that defined industrial metal\'s "machine-like" drum sound.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 9500,
+          inflationAdjusted: 18000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Demanufacture (1995) — landmark industrial metal album; pioneered triggered machine-gun bass drum sound',
+          'Obsolete (1998) — Fear Factory\'s commercial peak',
+          'Digimortal (2001) — featuring hit single "Linchpin"',
+          'Full ddrum/Roland trigger system built out across kick, snare, and toms',
+          'Switched to Zildjian Z Custom for durability and cutting power on extensive touring',
+          'Ozzfest appearances (1997, 1999, 2001) — major festival exposure',
+        ],
+
+        quote: {
+          text: "Every drum was triggered — kick, snare, toms. That was the only way to get that consistent, mechanical sound night after night. It wasn\'t about replacing the playing, it was about making the playing sound exactly the same every single time.",
+          source: 'Rhythm Magazine Interview, 1999',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'raymond-herrera-2002-archetype-departure',
+        era: 'Archetype / Transgression / Departure Era',
+        years: '2002–2009',
+        startYear: 2002,
+        endYear: 2009,
+        description: 'After Fear Factory\'s 2002 split and 2003 reunion, Herrera continued refining the hybrid trigger system through Archetype (2004) and Transgression (2005), while also drumming for Brujeria and co-founding Arkaea with Christian Olde Wolbers in 2008. His departure from Fear Factory in 2009 closed out a nearly two-decade run as the architect of industrial metal\'s signature drum sound.',
+        albums: ['Archetype (2004)', 'Transgression (2005)', 'Arkaea: Years in the Darkness (2009)'],
+        tours: ['Archetype reunion tour 2004–2005', 'Demanufacture Anniversary Tour 2005', 'Final Fear Factory dates 2008–2009'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series (refined)',
+            details: 'Maple shells, dual kick, fully triggered',
+            notes: 'Continued Pearl Reference platform with refined trigger module integration for the band\'s post-reunion material.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Custom 14"×6.5" (triggered)',
+            details: 'Consistent triggered steel snare',
+            notes: 'Maintained the triggered snare setup that had defined Fear Factory\'s sound since Demanufacture.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian Z Custom Series (continued)',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Continued Z Custom durability-focused setup through the final touring years.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal (continued)',
+            details: 'Reliable cam-driven double pedal',
+            notes: 'Same proven Eliminator platform that drove his signature double-kick patterns for over a decade.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vater Power 5B (continued)',
+            details: 'Long-running Vater endorsement',
+            notes: 'Consistent stick choice maintained across his entire Fear Factory tenure.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Pinstripe / Ambassador (continued)',
+            details: 'Trigger-optimized head configuration',
+            notes: 'Unchanged head setup — already optimized for clean trigger response.',
+            change: null,
+          },
+          electronics: {
+            item: 'ddrum / Roland Trigger System (refined)',
+            details: 'Refined full-kit triggering',
+            notes: 'Continued refinement of the trigger system across Archetype and Transgression, plus side work with Brujeria and the founding of Arkaea.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 11000,
+          inflationAdjusted: 16500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Fear Factory split (2002) and reunion (2003)',
+          'Archetype (2004) — acclaimed return-to-form record',
+          'Transgression (2005) — final studio album of this era',
+          'Co-founded Arkaea with Christian Olde Wolbers (2008) following another Fear Factory split',
+          'Departed Fear Factory officially in 2009, closing out his founding-member tenure',
+        ],
+
+        quote: {
+          text: "I gave that band almost twenty years. Every record, we tried to push the machine sound further without losing what made it human in the first place.",
+          source: 'Blabbermouth Interview, 2009',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit did Raymond Herrera use in Fear Factory?',
+        a: 'Raymond Herrera played a Pearl Reference Series kit — maple shells configured with dual 22" kick drums and 10"/12"/14"/16" toms, every piece fitted with ddrum and Roland triggers. He moved to Pearl Reference for the Demanufacture era after starting on a Pearl Export Series kit during Soul of a New Machine.',
+      },
+      {
+        q: 'What cymbals did Raymond Herrera play?',
+        a: 'Herrera played Zildjian Z Custom cymbals — bright, machine-hammered B20 bronze chosen for maximum cut through Fear Factory\'s heavily processed industrial guitar wall and for durability across extensive touring. He used Zildjian A and A Custom cymbals earlier in his career before switching to Z Custom around the Demanufacture era.',
+      },
+      {
+        q: 'Why did Raymond Herrera use drum triggers?',
+        a: 'Herrera built a full ddrum and Roland trigger system across his kick, snare, and toms to create the "machine-like" precision that defined Fear Factory\'s industrial metal sound. Producers Ross Robinson (Demanufacture) and Rhys Fulber (Obsolete) used the triggered signals to layer processed, electronic samples over his acoustic playing — fusing human performance with mechanical consistency.',
+      },
+      {
+        q: 'When did Raymond Herrera leave Fear Factory?',
+        a: 'Raymond Herrera officially departed Fear Factory in 2009, after co-founding the band in 1990 and recording every studio album from Soul of a New Machine (1992) through Transgression (2005). He had also co-founded the side project Arkaea with former Fear Factory guitarist Christian Olde Wolbers in 2008.',
+      },
+      {
+        q: 'What other bands did Raymond Herrera play in?',
+        a: 'Before and during his time in Fear Factory, Herrera was a founding member of Brujeria (joined 1989). After leaving Fear Factory in 2009, he had already co-founded Arkaea (2008) with Christian Olde Wolbers, releasing the album Years in the Darkness (2009).',
+      },
+    ],
+
+    metaTitle: 'Raymond Herrera Gear Evolution Timeline | Fear Factory Drum Kit History',
+    metaDescription: 'Explore Raymond Herrera\'s complete drum gear evolution: Brujeria roots → Pearl Export (Soul of a New Machine) → Pearl Reference triggered hybrid kit (Demanufacture/Obsolete) → Archetype-era refinement. The architect of industrial metal drumming, era by era.',
+  },
 };
 
 /**

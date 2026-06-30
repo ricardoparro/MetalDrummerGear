@@ -2144,6 +2144,7 @@ export const articles = {
       }
     ],
     "relatedAlbums": [
+      "weve-come-for-you-all-drum-setup",
       "sound-of-white-noise-drum-setup",
       "charlie-benante-among-the-living-drum-setup",
       "for-all-kings-drum-setup"
@@ -3040,6 +3041,7 @@ export const articles = {
     "relatedAlbums": [
       "stomp-442-drum-setup",
       "sound-of-white-noise-drum-setup",
+      "weve-come-for-you-all-drum-setup",
       "worship-music-drum-setup"
     ],
     "relatedDrummers": [
@@ -3057,6 +3059,308 @@ export const articles = {
     "conclusion": {
       "title": "The Closing Chapter of a Groove-Metal Trilogy",
       "content": "Volume 8: The Threat Is Real closes out the three-album arc that began with Sound of White Noise's groove-metal pivot in 1993 — a trilogy that took Charlie Benante from a thrash-pioneering technician adjusting to a new sound, through Stomp 442's heavier refinement, to Volume 8's fully committed, nu-metal-adjacent heaviness. Guest appearances from both Phil Anselmo and Dimebag Darrell placed the album firmly within the same heavy, groove-driven orbit as Pantera's mid-to-late-90s work, while Frank Bello's deeply personal hidden track \"Pieces\" gave the record an emotional weight beyond its commercial performance.\n\nFor Charlie Benante, Volume 8 represents the final word on his DW Collector's Series era — three albums, five years, and a complete reworking of his thrash-era gear and technique into a groove-focused vocabulary. The three-year silence that followed, and the eventual return to Tama and a more thrash-driven sound on later records, make Volume 8 a clear closing bracket on this chapter of his career.\n\nFor the album that began this groove-metal trilogy, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup). For the middle chapter, visit the [Stomp 442 drum setup](/articles/stomp-442-drum-setup). For the band's later return to a thrash-driven sound, see [Worship Music drum setup](/articles/worship-music-drum-setup). For Charlie's complete career and gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
+    }
+  },
+  "weve-come-for-you-all-drum-setup": {
+    "slug": "weve-come-for-you-all-drum-setup",
+    "albumTitle": "We've Come for You All",
+    "artist": "Anthrax",
+    "drummer": "Charlie Benante",
+    "drummerId": 12,
+    "relatedDrummerSlug": "charlie-benante",
+    "year": 2003,
+    "genre": "Groove Metal / Thrash Metal",
+    "label": "Sanctuary Records (North America) / Nuclear Blast (Europe)",
+    "studio": "BearTracks Recording Studio, Suffern, New York",
+    "producer": "Anthrax and Scrap 60 Productions (Rob Caggiano, Eddie Wohl, Steve Regina)",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-30",
+    "dateModified": "2026-06-30",
+    "author": "MetalForge Editorial",
+    "title": "Charlie Benante's Drum Setup on Anthrax's We've Come for You All (2003)",
+    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's We've Come for You All (2003) — the last John Bush-era studio album, recorded in the shadow of 9/11, featuring Roger Daltrey and Dimebag Darrell guest spots, and the return to Tama and Paiste after a decade on DW and Sabian.",
+    "seoKeywords": [
+      "charlie benante weve come for you all drum setup",
+      "weve come for you all drums 2003",
+      "anthrax weve come for you all drum setup",
+      "charlie benante 2003 kit",
+      "last john bush era anthrax album",
+      "anthrax dimebag darrell roger daltrey guests",
+      "charlie benante tama return",
+      "anthrax post 9/11 album drums"
+    ],
+    "ogImage": "/images/albums/weve-come-for-you-all-drums.webp",
+    "intro": {
+      "title": "The Last John Bush Album: Anthrax Comes Back from Silence",
+      "content": "Released May 6, 2003 through Sanctuary Records in North America and Nuclear Blast in Europe, We've Come for You All arrived after Anthrax's longest studio silence — nearly five years since Volume 8: The Threat Is Real (1998). It would turn out to be the final Anthrax studio album to feature John Bush on vocals before the band's eventual return to Joey Belladonna, making it the closing chapter of an era that had run from Sound of White Noise (1993) through three DW-era records and into this leaner, more focused comeback. Recorded across 2001 and 2002 at BearTracks Recording Studio in Suffern, New York, and produced by Anthrax alongside Scrap 60 Productions (guitarist Rob Caggiano, Eddie Wohl, and Steve Regina), the album found the band tightening its songwriting after the nu-metal-adjacent sprawl of Volume 8, while still carrying real-world weight: the band, based in New York, wrote and recorded in the direct aftermath of September 11, 2001, and the 2001 anthrax-letter attacks had briefly made the band's own name a liability the members publicly refused to abandon.\n\nThat tension between resilience and disquiet runs through the record's best-known track, \"What Doesn't Die,\" which uses zombie-apocalypse imagery as a metaphor for the band's own refusal to quit after a decade of commercial and lineup turbulence. The album also carries two of the most unexpected guest spots in Anthrax's catalog: The Who's Roger Daltrey sings on \"Taking the Music Back,\" and Pantera's Dimebag Darrell — making his third consecutive guest appearance on an Anthrax record after Stomp 442 and Volume 8 — contributes guitar to \"Strap It On\" and \"Cadillac Rock Box.\" E-Town Concrete's Anthony Martini adds vocals to \"Refuse to Be Denied.\"\n\nFor Charlie Benante, We've Come for You All marks the end of the DW Collector's Series chapter that had defined his sound since 1993 and a full return to Tama and Paiste — the brands that had carried his thrash-pioneering Among the Living and Persistence of Time performances. After three albums spent adapting his vocabulary to DW's warmer maple shells and a Sabian cymbal wash, Benante came back to the brighter, more cutting voice that had always suited Anthrax's faster material — appropriate for a record that, while still groove-conscious, pulls noticeably back toward thrash tempos and structure compared to Volume 8.\n\nCommercially, We've Come for You All debuted modestly at #122 on the Billboard 200 but performed more strongly overseas, reaching #7 on the UK Independent Albums chart and #10 on the UK Rock & Metal Albums chart, with additional chart placements in Germany (#22) and Japan (#45). The album also earned a nomination for Outstanding Hard Rock Album at the 2004 California Music Awards, losing to Blink-182's self-titled record. Critics were warmer than the chart numbers suggested — Exclaim! called it the strongest John Bush-era effort to date — and the record is now widely regarded as the album that got Anthrax's John Bush years back on track after Volume 8's more divisive reception.\n\nThis article breaks down the kit, cymbals, hardware, and recording approach behind the album that closes the five-year arc between Volume 8 and Worship Music — and the gear transition that quietly set up everything Charlie Benante would play for the next two decades.",
+      "keyPoints": [
+        "Anthrax's last new studio album with John Bush on vocals before the eventual Joey Belladonna reunion",
+        "Recorded 2001-2002 at BearTracks Recording Studio, Suffern, NY, in the direct aftermath of 9/11 and the anthrax-letter attacks",
+        "Roger Daltrey (The Who) sings on \"Taking the Music Back\"; Dimebag Darrell (Pantera) guests on \"Strap It On\" and \"Cadillac Rock Box\"",
+        "Produced by Anthrax and Scrap 60 Productions (Rob Caggiano, Eddie Wohl, Steve Regina)",
+        "\"What Doesn't Die\" is the album's signature track, using zombie-apocalypse imagery as a metaphor for resilience",
+        "Marks Charlie Benante's full return to Tama and Paiste after a decade on DW and Sabian",
+        "Nominated for Outstanding Hard Rock Album at the 2004 California Music Awards"
+      ]
+    },
+    "drumKit": {
+      "title": "Back to Tama: Closing the DW Chapter",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
+      "finish": "Custom finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "All-maple shells with Star-Cast mounting system"
+      },
+      "description": "We've Come for You All marks Charlie Benante's return to Tama after three consecutive studio albums — Sound of White Noise, Stomp 442, and Volume 8 — spent on DW's Collector's Series Maple kit. The Tama Starclassic Maple that replaced it was the same family of kit that had carried Anthrax's classic Among the Living and Persistence of Time records, now updated with Tama's Star-Cast suspension mounting system, which lets each shell ring freely instead of choking at the mounting point.\n\nThe dual 22\" x 18\" bass drums carried over from the DW years unchanged in size — Benante's sustained double bass technique has always depended on two independently tuned 22\" kicks rather than a single kick and double pedal — but the Tama shells produced a brighter, more cutting low end than the DW maple had, better suited to the album's pull back toward thrash tempos on tracks like \"Contact\" and \"Refuse to Be Denied.\" The tom configuration also trimmed down from Volume 8's heavy five-piece, two-floor-tom setup to a leaner three-rack, two-floor arrangement (14\" and 16\"), a deliberate simplification that mirrors the album's tighter, more focused songwriting after Volume 8's sprawl.\n\nThis Starclassic Maple configuration — introduced here, refined over the following decade — is the direct ancestor of the kit Benante would still be playing on Worship Music in 2011 and For All Kings in 2016. We've Come for You All is where that long-running modern setup actually begins.",
+      "notes": [
+        "First Anthrax studio album on Tama since the DW Collector's Series years began with Sound of White Noise (1993)",
+        "Dual 22\" x 18\" bass drums carried over in size from the DW kit, but with a brighter, more cutting Tama low end",
+        "Tom configuration trimmed from Volume 8's five-piece setup to a leaner three-rack, two-floor (14\"/16\") arrangement",
+        "Star-Cast suspension mounting preserves shell resonance compared to clamped DW mounting hardware",
+        "Direct ancestor of the Starclassic Maple configuration Benante still plays today"
+      ],
+      "estimatedValue": "$5,000-7,000 (2003 Starclassic Maple configuration)"
+    },
+    "snare": {
+      "title": "Tama Steel: A Brighter Voice Returns",
+      "brand": "Tama",
+      "model": "Tama Starclassic Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel shell with die-cast hoops",
+      "description": "Charlie Benante's snare on We've Come for You All returned to Tama steel after a decade spent on DW's hybrid maple-and-brass Edge Series. This predates the dedicated Tama Charlie Benante Signature snare line that would arrive later in his career, but the configuration — a 14\" x 6.5\" steel shell with die-cast hoops — already carries the bright, cutting voice that the signature model would eventually formalize.\n\nWhere the DW Edge snare had been tuned progressively lower and fatter across Sound of White Noise, Stomp 442, and Volume 8, the Tama steel shell on We've Come for You All snapped back to a higher, more aggressive tension — closer to the thrash-era crack of Among the Living than to Volume 8's groove-locked thud. That shift mirrors the album's overall pull back toward tempo and aggression after Volume 8's heaviest, slowest moments.\n\nOn \"What Doesn't Die\" and \"Refuse to Be Denied,\" the snare sits forward and bright in Scrap 60's mix, cutting through the album's still-down-tuned guitars with a clarity the DW years had deliberately moved away from. The die-cast hoops also held up to the more frequent rimshot work this faster material demanded.",
+      "tuningSetting": "Higher, brighter tension than the DW era — a return toward thrash-era crack",
+      "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$400-550 (2003 Tama Starclassic Steel)"
+    },
+    "cymbals": {
+      "title": "Paiste Returns: The DW-Era Sabian Setup Retired",
+      "brand": "Paiste",
+      "series": "Paiste 2002 / RUDE",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
+          "position": "Left side",
+          "notes": "Returned to the wavy-bottom design Benante used through the thrash-era records"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 16\" Crash",
+          "position": "Far left",
+          "notes": "Fast, bright accent crash for the album's tempo-driven tracks"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 18\" Medium Crash",
+          "position": "Left of toms",
+          "notes": "Primary workhorse crash"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste RUDE 19\" Crash/Ride",
+          "position": "Right of toms",
+          "notes": "Durable, heavy-hitting option carried into the modern Paiste configuration"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste 2002 22\" Heavy Ride",
+          "position": "Far right",
+          "notes": "Defined bell and controlled wash, replacing the Sabian 21\" AA Rock Ride of the DW years"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 18\" China",
+          "position": "Above floor tom",
+          "notes": "Trashy accent voice for the album's heaviest moments"
+        }
+      ],
+      "description": "We've Come for You All retired the Sabian AA/HH setup Benante had used since Sound of White Noise and replaced it with the Paiste 2002/RUDE configuration that had defined his thrash-era cymbal voice on Among the Living and Persistence of Time — and that would remain his cymbal brand for the rest of his career. The Paiste 2002 series' brighter, more cutting character suited the album's pull back toward thrash tempo better than Sabian's warmer AA Rock series had suited Volume 8's groove emphasis.\n\nThe 14\" 2002 Sound Edge hi-hats reintroduced the crisp, articulate chick sound that had been a signature of Benante's playing before the DW years, audible throughout \"Contact\" and \"Nobody Knows Anything.\" The crash lineup — 16\" and 18\" 2002 models alongside a 19\" RUDE Crash/Ride — gave Benante the same graduated dynamic range he'd built up on Sabian, now voiced with Paiste's brighter overall character.\n\nThe 22\" 2002 Heavy Ride and 18\" 2002 China closed out a cymbal rig that, in retrospect, is essentially the prototype of the setup Benante would still be using on Worship Music eight years later — this is where the long-running modern Paiste configuration actually starts.",
+      "estimatedValue": "$1,800-2,400 total (2003 Paiste 2002/RUDE setup)"
+    },
+    "hardware": {
+      "title": "Tama HP35 Camco: Unbroken Since 1984",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Tama",
+          "model": "Tama HP35 Camco Chain-Drive Double Pedal Configuration",
+          "notes": "Two single HP35 Camco pedals, one per bass drum — unchanged since 1984",
+          "description": "Through the entire DW Collector's Series chapter, Charlie Benante's bass drum pedals never actually left Tama — the HP35 Camco chain-drive pedals he had used since 1984 stayed in his rig even while the rest of his kit was DW and Sabian. We've Come for You All carries that same continuity forward: two single HP35 Camco pedals, one per independent 22\" bass drum, by this point nearly two decades into the longest hardware relationship of Benante's career. The Speed Cobra pedals that would eventually replace the HP35 Camco were still seven years away in 2003 — this album documents the Camco pedals in their mature, fully broken-in form, still delivering the sustained double bass attack that had defined Benante's playing since Among the Living."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "notes": "Heavy-duty stand introduced as part of the return to Tama hardware"
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair",
+          "notes": "Returned to Tama seating alongside the rest of the hardware switch"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark Hickory 2B",
+          "notes": "Carried over from the DW-era albums, predating the later Vic Firth signature partnership"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter), front head ported for mic placement",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Scrap 60 Productions at BearTracks",
+      "content": "We've Come for You All was produced by Anthrax together with Scrap 60 Productions — guitarist Rob Caggiano alongside engineers Eddie Wohl and Steve Regina — at BearTracks Recording Studio in Suffern, New York, across 2001 and 2002. Compared to Paul Crook's heavy, compressed Volume 8 sessions, the Scrap 60 approach favored a tighter, more tempo-forward production that let Benante's returning Tama and Paiste gear cut through clearly rather than sitting buried in low end.\n\n**Kick Drum Approach:**\nThe dual 22\" bass drums were captured with a brighter, punchier attack than the DW-era records, matching the Tama shells' more cutting low end and the album's pull back toward faster tempos on tracks like \"Contact\" and \"Refuse to Be Denied.\"\n\n**Snare and Mix Balance:**\nThe Tama steel snare's higher, brighter tuning was placed forward and present in the mix — a deliberate reconnection with the thrash-era snare sound after a decade of progressively lower DW Edge tunings.\n\n**Guest Vocal Integration:**\nRoger Daltrey's vocal feature on \"Taking the Music Back\" and Anthony Martini's guest spot on \"Refuse to Be Denied\" required the drum mix to leave clear space for additional vocal layers, resulting in a slightly more controlled cymbal wash on those two tracks.\n\n**Overall Aesthetic:**\nScrap 60's production favors clarity, tempo, and the bright cut of Benante's returning Tama/Paiste rig — a deliberate break from the warmer, heavier DW-era sound and a clear signpost toward the modern thrash production Jay Ruston would bring to Worship Music eight years later.",
+      "keyTechniques": [
+        "Brighter, more tempo-forward kick drum sound than the DW-era Volume 8 production",
+        "Higher, brighter snare tuning reconnects with thrash-era crack",
+        "Controlled cymbal wash to accommodate Roger Daltrey and Anthony Martini guest vocal spots",
+        "Production aesthetic foreshadows the modern thrash sound of the Worship Music era"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "What Doesn't Die",
+        "bpm": "132",
+        "signature": "4/4",
+        "highlights": [
+          "The album's signature track and best-known single",
+          "Uses zombie-apocalypse imagery as a metaphor for the band's resilience after years of turbulence",
+          "Built around a driving mid-tempo groove rather than thrash-speed riffing",
+          "Released as a single in 2004"
+        ],
+        "gearNotes": "The brighter Tama steel snare anchors the chorus with the cutting crack the DW Edge snare had moved away from, while the Paiste 2002 hi-hats drive the verse pulse."
+      },
+      {
+        "track": "Refuse to Be Denied",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "Features guest vocals from Anthony Martini of E-Town Concrete",
+          "One of the album's fastest, most aggressive tracks",
+          "Sustained double bass passages recall the Among the Living era"
+        ],
+        "gearNotes": "The HP35 Camco pedals, by now nearly two decades into Benante's rig, deliver the relentless double bass runs that anchor the track's aggression."
+      },
+      {
+        "track": "Strap It On",
+        "bpm": "140",
+        "signature": "4/4",
+        "highlights": [
+          "Features a Dimebag Darrell (Pantera) guitar contribution — his third consecutive Anthrax guest appearance",
+          "Driving, riff-forward track typical of the album's tempo-focused songwriting",
+          "Tom fills are economical and structurally placed"
+        ],
+        "gearNotes": "The leaner three-rack, two-floor-tom Tama configuration is used efficiently here, with fills landing as structural punctuation rather than constant activity."
+      },
+      {
+        "track": "Taking the Music Back",
+        "bpm": "118",
+        "signature": "4/4",
+        "highlights": [
+          "Features Roger Daltrey of The Who on guest vocals",
+          "First single from the album, released September 3, 2003",
+          "Mid-tempo track that gives Daltrey's vocal feature room to breathe"
+        ],
+        "gearNotes": "Cymbal wash is more controlled here to leave space for the guest vocal layer, with the Paiste 2002 18\" China reserved for isolated accents rather than constant wash."
+      }
+    ],
+    "evolution": {
+      "title": "From Volume 8 to We've Come for You All: Closing the DW Chapter",
+      "content": "We've Come for You All represents the most significant gear shift of Charlie Benante's John Bush era — a full return to Tama and Paiste after a decade spent on DW and Sabian across Sound of White Noise, Stomp 442, and Volume 8. The dual 22\" bass drums and HP35 Camco pedals carried through unchanged, but the shells, snare, and cymbals all switched back to the brands that had defined his thrash-pioneering Among the Living and Persistence of Time performances — setting up the modern Starclassic Maple and Paiste 2002/Signature configuration that Benante would still be playing on Worship Music and For All Kings nearly two decades later.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "DW Collector's Series Maple, five-piece toms (Volume 8, 1998)",
+          "now": "Tama Starclassic Maple, leaner three-rack/two-floor toms (We've Come for You All, 2003)"
+        },
+        {
+          "category": "Snare",
+          "then": "DW Edge Series 14\" x 6.5\", lowest/fattest tuning of the DW era",
+          "now": "Tama Starclassic Steel 14\" x 6.5\", higher/brighter tuning"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Sabian AA/HH Series",
+          "now": "Paiste 2002 / RUDE Series"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama HP35 Camco (carried through the DW years unchanged)",
+          "now": "Tama HP35 Camco (unchanged — still seven years from the Speed Cobra switch)"
+        },
+        {
+          "category": "Producer",
+          "then": "Anthrax and Paul Crook (Krusty's Fun House, Yonkers)",
+          "now": "Anthrax and Scrap 60 Productions (BearTracks Recording, Suffern)"
+        },
+        {
+          "category": "Guest Musicians",
+          "then": "Phil Anselmo backing vocals; Dimebag Darrell guitar solos",
+          "now": "Roger Daltrey (The Who) guest vocals; Dimebag Darrell guitar (third consecutive appearance); Anthony Martini (E-Town Concrete) guest vocals"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "question": "What drum kit did Charlie Benante use on We've Come for You All?",
+        "answer": "Charlie Benante used a Tama Starclassic Maple kit on We've Come for You All (2003) — dual 22\" x 18\" bass drums, three rack toms (10\", 12\", 13\"), and two floor toms (14\" and 16\") with all-maple shells and Tama's Star-Cast suspension mounting. This marked his return to Tama after three consecutive studio albums (Sound of White Noise, Stomp 442, Volume 8) on DW's Collector's Series Maple kit, and it's the direct ancestor of the Starclassic Maple configuration he still plays today."
+      },
+      {
+        "question": "How does We've Come for You All compare to Sound of White Noise drum-wise?",
+        "answer": "The two albums sit on opposite ends of Charlie Benante's DW Collector's Series chapter. Sound of White Noise (1993) marked his switch away from Tama and Sabian into DW and Sabian for a warmer, room-heavy groove-metal sound. We've Come for You All (2003) closes that chapter and returns fully to Tama (Starclassic Maple) and Paiste (2002/RUDE) — brighter, more cutting tones that pull the album's drum sound back toward the thrash-era voice of Among the Living, even as the songwriting remains groove-conscious. For the album that started the DW chapter, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup)."
+      },
+      {
+        "question": "Did Roger Daltrey and Dimebag Darrell really appear on We've Come for You All?",
+        "answer": "Yes. The Who's Roger Daltrey sings on \"Taking the Music Back,\" and Pantera's Dimebag Darrell contributes guitar to \"Strap It On\" and \"Cadillac Rock Box\" — his third consecutive Anthrax guest appearance after Stomp 442's \"King Size\"/\"Riding Shotgun\" and Volume 8's \"Inside Out\"/\"Born Again Idiot.\" E-Town Concrete's Anthony Martini also guests on vocals for \"Refuse to Be Denied.\""
+      },
+      {
+        "question": "What is the significance of 'What Doesn't Die'?",
+        "answer": "\"What Doesn't Die\" is We've Come for You All's signature track, using zombie-apocalypse imagery as a metaphor for Anthrax's own resilience after a turbulent decade — Volume 8's mixed reception, a three-year studio silence, and a record written and recorded in the direct aftermath of 9/11 and the 2001 anthrax-letter attacks that briefly threatened the band's own name. Released as a single in 2004, it remains one of the most cited tracks from the John Bush era and a clear anchor point for the album's themes of perseverance."
+      },
+      {
+        "question": "Was We've Come for You All the last Anthrax album with John Bush?",
+        "answer": "Yes. We've Come for You All (2003) was the final Anthrax studio album to feature John Bush on lead vocals before the band's eventual reunion with original singer Joey Belladonna, whose return is documented on the Worship Music drum setup. For Charlie Benante, it also closes the five-year gap between Volume 8 (1998) and Worship Music (2011) and the gear transition — DW back to Tama, Sabian back to Paiste — that defined his sound for the following two decades. For the prior chapter, see the [Volume 8 drum setup article](/articles/volume-8-drum-setup); for the band's eventual return with Joey Belladonna, see [Worship Music drum setup](/articles/worship-music-drum-setup)."
+      }
+    ],
+    "relatedAlbums": [
+      "volume-8-drum-setup",
+      "sound-of-white-noise-drum-setup",
+      "stomp-442-drum-setup",
+      "charlie-benante-among-the-living-drum-setup",
+      "worship-music-drum-setup"
+    ],
+    "relatedDrummers": [
+      4,
+      1,
+      3
+    ],
+    "relatedArticles": [
+      "whats-in-charlie-benantes-kit",
+      "thrash-metal-drummers",
+      "big-four-thrash",
+      "double-bass-technique"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Bridge Back to Thrash",
+      "content": "We've Come for You All rarely gets mentioned alongside Among the Living or Worship Music in conversations about Charlie Benante's defining records, but it occupies a critical hinge point in his career. Written and recorded in the unsettled years following 9/11 — a period that briefly made the band's own name a liability — the album found Anthrax tightening its songwriting after Volume 8's sprawl and closing out the final chapter of the John Bush era with guest spots from Roger Daltrey and a third consecutive Dimebag Darrell appearance.\n\nFor Charlie Benante, the album marks the quiet end of the DW Collector's Series years and a full return to Tama and Paiste — the brands that would carry him through Worship Music, For All Kings, and the Pantera reunion tour two decades later. The Starclassic Maple kit, the brighter steel snare, and the Paiste 2002/RUDE cymbal setup introduced here aren't a one-off; they're the prototype of the modern Benante rig.\n\nFor the prior chapter in the DW years, see the [Volume 8 drum setup article](/articles/volume-8-drum-setup). For the thrash-era foundation this album reconnects with, see [Among the Living drum setup](/articles/charlie-benante-among-the-living-drum-setup). For the next studio chapter, see the [Worship Music drum setup](/articles/worship-music-drum-setup). For Charlie's complete career and gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
     }
   }
 };

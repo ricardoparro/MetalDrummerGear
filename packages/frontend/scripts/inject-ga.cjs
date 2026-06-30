@@ -28,6 +28,16 @@ const gaScript = `
       gtag('config', '${GA_ID}');
     </script>`;
 
+// Google AdSense loader (Issue: AdSense integration). Injected post-export
+// because `expo export` regenerates dist/index.html and drops custom <head>
+// content from web/index.html — same reason GA is injected here. The publisher
+// ID is public by design (visible in page source on every AdSense site).
+const ADSENSE_CLIENT = 'ca-pub-5315819228790971';
+const adsenseScript = `
+    <!-- Google AdSense -->
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${ADSENSE_CLIENT}" crossorigin="anonymous"></script>`;
+
 // LCP Optimization (#752): Dynamic preload for weekly spotlight image
 // Minified script to reduce parsing time
 const spotlightPreload = `
@@ -108,7 +118,17 @@ try {
   } else {
     console.log('✅ GA4 already present');
   }
-  
+
+  // Check if AdSense loader is already injected
+  if (!html.includes('adsbygoogle.js')) {
+    // Inject AdSense after <head> tag
+    html = html.replace('<head>', '<head>' + adsenseScript);
+    console.log(`✅ Injected AdSense (${ADSENSE_CLIENT})`);
+    injectedSomething = true;
+  } else {
+    console.log('✅ AdSense already present');
+  }
+
   // Check if performance hints are already injected
   if (!html.includes('Performance Hints')) {
     // Inject performance hints at the very start of <head>

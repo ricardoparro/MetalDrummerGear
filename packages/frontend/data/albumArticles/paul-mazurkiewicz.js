@@ -310,6 +310,8 @@ export const articles = {
       }
     ],
     "relatedAlbums": [
+      "gallery-of-suicide-drum-setup",
+      "gore-obsessed-drum-setup",
       "none-so-vile-drum-setup",
       "gene-hoglan-drum-setup"
     ],
@@ -902,6 +904,7 @@ export const articles = {
     "videos": [],
     "relatedAlbums": [
       "tomb-of-the-mutilated-drum-setup",
+      "gallery-of-suicide-drum-setup",
       "bloodthirst-drum-setup",
       "paul-mazurkiewicz-drum-setup"
     ],
@@ -1100,6 +1103,8 @@ export const articles = {
     "videos": [],
     "relatedAlbums": [
       "the-bleeding-drum-setup",
+      "gallery-of-suicide-drum-setup",
+      "gore-obsessed-drum-setup",
       "paul-mazurkiewicz-drum-setup",
       "altars-of-madness-drum-setup"
     ],
@@ -1339,6 +1344,406 @@ export const articles = {
     "conclusion": {
       "title": "The Album Where Cannibal Corpse Became Death Metal's Standard",
       "content": "Thirty-plus years after its September 17, 1992 release, \"Tomb of the Mutilated\" remains one of the genre-defining drum performances in death metal. The album captures Paul Mazurkiewicz at the moment his approach to the kit crystallized into the style that would define Cannibal Corpse for the next three decades and counting — locomotive double-bass, conventional grip, serve-the-riff phrasing, and the disciplined restraint that made \"Hammer Smashed Face\" the most recognizable single in the genre.\n\nThe gear story is one of professional pragmatism. There was no Pearl Reference kit yet, no Meinl cymbal endorsement, no Vic Firth signature stick. The Pearl Export or Masters MX kit, the era-typical wood-shell snare, the mixed Paiste/Zildjian budget cymbal selection, and the off-the-rack 5B sticks were the working-band reality of an early-90s death metal drummer. What transformed those modest tools into a landmark recording was Scott Burns's production at Morrisound Studios and Mazurkiewicz's playing — already locked into the consistency that would define his career.\n\nThe German ban that landed on the album in 1992 only amplified its legend. Cannibal Corpse became the death metal band the mainstream world had heard of, and \"Tomb of the Mutilated\" became the album that defined what death metal sounded like for a generation of listeners. The drum sound — dry, forward, locked, brutal — became the template that countless death metal albums chased over the next decade.\n\nFor drummers studying Mazurkiewicz's approach, \"Tomb of the Mutilated\" remains the foundational text. The lessons it offers are timeless:\n\n- **Brutality lives in consistency, not in peak velocity** — every stroke at the same weight, every blast at the same tempo\n- **Serve the riff** — the songs are the product, not your technique\n- **Restraint amplifies impact** — the spaces between the snare hits matter as much as the hits themselves\n- **Pre-endorsement gear is enough** — what mattered was the playing and the recording, not the brand on the bass drum\n- **Conventional grip is a valid choice** — the angle of your left stick is a sonic identity, not just an ergonomic preference\n\nFor deeper exploration of Paul Mazurkiewicz's career and gear evolution:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — full drummer profile and technique breakdown\n- [Paul Mazurkiewicz drum setup — full gear guide](/articles/paul-mazurkiewicz-drum-setup) — modern Pearl Reference / Meinl / Pearl Eliminator rig\n- [Altars of Madness drum setup — Pete Sandoval](/articles/altars-of-madness-drum-setup) — the other foundational 1989 Morrisound death metal landmark"
+    }
+  },
+  "gallery-of-suicide-drum-setup": {
+    "slug": "gallery-of-suicide-drum-setup",
+    "albumTitle": "Gallery of Suicide",
+    "artist": "Cannibal Corpse",
+    "drummer": "Paul Mazurkiewicz",
+    "drummerId": 51,
+    "relatedDrummerSlug": "paul-mazurkiewicz",
+    "band": "Cannibal Corpse",
+    "bands": ["Cannibal Corpse"],
+    "year": 1998,
+    "genre": "Death Metal",
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "studio": "Morrisound Recording, Tampa, Florida",
+    "producer": "Jim Morris",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-30",
+    "dateModified": "2026-06-30",
+    "author": "MetalForge Editorial",
+    "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Gallery of Suicide (1998)",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's Gallery of Suicide (1998). Paul Mazurkiewicz's transitional Pearl kit, Jim Morris's final Morrisound CC production, Pat O'Brien's debut, and the last Tampa-recorded chapter of the Corpsegrinder consolidation era.",
+    "seoKeywords": [
+      "gallery of suicide drums",
+      "paul mazurkiewicz 1998 drum setup",
+      "cannibal corpse gallery of suicide drummer",
+      "cannibal corpse gallery of suicide gear",
+      "jim morris morrisound cannibal corpse",
+      "cannibal corpse pat o'brien debut album",
+      "cannibal corpse last morrisound album",
+      "death metal 1998 drum setup"
+    ],
+    "ogImage": "/images/albums/gallery-of-suicide-drums.webp",
+    "intro": {
+      "title": "The Last Morrisound Chapter: Mazurkiewicz on Cannibal Corpse's Sixth Album",
+      "content": "Released on April 21, 1998 through Metal Blade Records, Cannibal Corpse's sixth album \"Gallery of Suicide\" closed out the band's eight-year relationship with Morrisound Recording in Tampa, Florida — the studio that had captured every prior CC album since \"Eaten Back to Life\" (1990). It also marked George \"Corpsegrinder\" Fisher's second outing as vocalist, following his 1996 debut on \"Vile,\" and introduced lead guitarist Pat O'Brien (formerly of Nevermore), who would remain a fixture of the band's lineup for over two decades. Critical reception at the time was mixed — AllMusic's contemporary review landed at two-and-a-half stars — but the album's standing has grown considerably among fans in the years since, and tracks like the genre-pushing instrumental \"From Skin to Liquid\" are now cited as some of the more adventurous moments in CC's catalog.\n\nFor Paul Mazurkiewicz, \"Gallery of Suicide\" represented a notable handoff behind the boards. Scott Burns, who had produced every Cannibal Corpse album from \"Eaten Back to Life\" through \"The Bleeding\" (1994), had stepped back from extreme metal production work by the late 1990s. In his place, Morrisound co-owner Jim Morris took the producer's chair — engineering, mixing, and mastering the album himself. Morris had worked alongside Burns on countless Morrisound sessions throughout the decade, and his approach preserved the dry, attack-forward Tampa drum sound that had become death metal's production standard, while bringing his own ear to the mix.\n\nThe album arrived in a commercial landscape dominated by nu-metal, and Cannibal Corpse's response was to keep doing exactly what they did best rather than chase trends. \"Gallery of Suicide\" leaned into experimentation within the death metal idiom rather than outside it — blast beat patterns that drew on black metal's relentless pulse, and \"From Skin to Liquid,\" the band's first instrumental and, at the time, its slowest recorded piece. For Mazurkiewicz, that meant a session that demanded both his established locomotive double-bass attack and a wider dynamic and textural range than the earlier, more singularly brutal records had asked of him.\n\nBehind the kit, Mazurkiewicz's gear sat in the middle of his long transition away from the pre-endorsement Pearl setups of the early 1990s and toward the Pearl Reference and Meinl relationships that define his modern rig. This article breaks down that transitional gear, Jim Morris's final-chapter Morrisound production, and the technical approach Mazurkiewicz brought to one of the more divisive — and increasingly respected — entries in the Cannibal Corpse discography.",
+      "keyPoints": [
+        "Cannibal Corpse's sixth album (April 21, 1998) — Metal Blade Records — the last CC album recorded at Morrisound Recording, Tampa",
+        "Produced, engineered, mixed, and mastered by Jim Morris — Morrisound co-owner stepping in as Scott Burns moved away from extreme metal production",
+        "George 'Corpsegrinder' Fisher's second CC album, following his 1996 debut on Vile",
+        "First album to feature lead guitarist Pat O'Brien (ex-Nevermore), a CC mainstay for over two decades",
+        "'From Skin to Liquid' — the band's first instrumental and, at the time, its slowest recorded track",
+        "Mixed reviews at release (AllMusic gave it 2.5/5) but reassessed more favorably by fans over time",
+        "Peaked at #22 on the Billboard Heatseekers Albums chart — a developing-artist chart distinct from the Billboard 200"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl in Transition: Between Masters MX and the Reference Era",
+      "brand": "Pearl",
+      "model": "Pearl Masters MX (transitional toward Pearl Reference, 1998)",
+      "finish": "Custom finish (era-typical transitional configuration)",
+      "config": {
+        "bassdrums": ["22\" x 16\" Bass Drum (x2 — double kick)"],
+        "toms": ["10\" x 10\" Rack Tom", "12\" x 10\" Rack Tom"],
+        "floorToms": ["16\" x 16\" Floor Tom"],
+        "shells": "Maple/mahogany hybrid (Masters MX) — Pearl's mid-to-upper professional tier"
+      },
+      "description": "By 1998, Paul Mazurkiewicz's Pearl setup was continuing the gradual evolution away from the bare-bones, pre-endorsement gear of the early CC catalog. \"Gallery of Suicide\" finds him still working primarily with a Pearl Masters MX-range configuration — the same general shell family heard on \"The Bleeding\" (1994) — rather than the deeper-shelled, Reference-bound kit that would emerge over the following two albums. The Pearl relationship was solidifying steadily through this period rather than arriving fully formed in a single jump, and \"Gallery of Suicide\" sits early in that multi-year transition.\n\nThe dual 22\" x 16\" kick drum configuration carried over unchanged from the early-90s records, continuing to give Mazurkiewicz the symmetric foot independence his locomotive double-bass approach was built on. That consistency mattered: \"Gallery of Suicide\" asked more of his footwork in places than the band's earlier, more singularly blast-driven records, particularly on tracks where the black-metal-influenced blast patterns required sustained, evenly weighted kick work at high tempo.\n\nThe tom configuration — two rack toms and a single floor tom — also remained the same minimal, functional layout Mazurkiewicz had used since \"Tomb of the Mutilated.\" \"From Skin to Liquid,\" the album's experimental slow instrumental, gave him rare space to use that tom vocabulary melodically rather than purely as transitional punctuation, a textural change of pace from the rest of the record.\n\nJim Morris tuned the kit within Morrisound's established medium-tight, attack-forward template — the same general philosophy Scott Burns had used on the four prior CC records, preserved here as Morris took over the producer's chair for the studio's final Cannibal Corpse session.",
+      "notes": [
+        "Pearl Masters MX-range shells — mid-transition between pre-endorsement gear and the later Pearl Reference setup",
+        "Dual 22\" x 16\" kicks unchanged from the early-90s configuration",
+        "Minimal two-rack, one-floor-tom layout, used melodically on 'From Skin to Liquid'",
+        "Jim Morris preserved the Morrisound medium-tight, attack-forward tuning approach"
+      ],
+      "estimatedValue": "$1,800–3,200 (1998 era, mid-transition configuration)"
+    },
+    "snare": {
+      "title": "The 1998 Snare: Holding the Morrisound Crack",
+      "brand": "Pearl (era-typical wood-shell)",
+      "model": "Wood-shell snare (maple or birch, Masters MX-range)",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple or birch wood-shell construction",
+      "description": "Mazurkiewicz's snare on \"Gallery of Suicide\" continued the 14\" x 5.5\" wood-shell formula that had defined his sound across the band's Morrisound catalog. The deeper 6.5\" steel-shell snare that would later become his signature voice was still in the future; in 1998 he was still working with the brighter, faster-responding wood-shell drum that had served \"Tomb of the Mutilated\" and \"The Bleeding\" before it.\n\nJim Morris's snare capture closely followed the template Scott Burns had established across the prior four albums — close-miked, tuned bright, positioned forward in the mix to cut through Cannibal Corpse's dense, down-tuned guitar wall. On \"Gallery of Suicide,\" that snare crack remains the rhythmic anchor across both the album's blast-driven tracks and its more groove-oriented passages, articulating cleanly even as the band's compositions pushed into less conventional territory than the earlier records.\n\nThe 5.5\" depth kept the response fast enough for blast beat work at the tempos \"Gallery of Suicide\" demanded, while the wood shell's warmth kept the drum from becoming brittle in a mix that, by 1998, carried more layered guitar tracking than the earlier, leaner-sounding CC records.",
+      "tuningSetting": "Medium-high tension — bright, fast-responding crack consistent with the Morrisound catalog",
+      "heads": "Remo Ambassador or Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$250–500 (1998 era) / $350–650 (comparable wood-shell snares today)"
+    },
+    "cymbals": {
+      "title": "Late Pre-Meinl Brass: The Final Transitional Arsenal",
+      "brand": "Paiste / Zildjian (era-typical, transitioning toward Meinl)",
+      "series": "Paiste 2002 / Zildjian A — working-pro selection, 1998",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "14\" Hi-Hats (Paiste 2002 or Zildjian A)",
+          "position": "Left side",
+          "notes": "Rhythmic anchor across both blast and groove sections"
+        },
+        {
+          "type": "Crash",
+          "model": "16\" Medium Crash",
+          "position": "Left crash",
+          "notes": "Quick accent for riff punctuation"
+        },
+        {
+          "type": "Crash",
+          "model": "18\" Medium Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash for section transitions and chorus peaks"
+        },
+        {
+          "type": "Ride",
+          "model": "20\" Medium Ride",
+          "position": "Far right",
+          "notes": "Used sparingly, including on the slower passages of 'From Skin to Liquid'"
+        },
+        {
+          "type": "China",
+          "model": "18\" China",
+          "position": "Above floor tom",
+          "notes": "Trashy transition accent — a Mazurkiewicz signature element since the debut"
+        }
+      ],
+      "description": "On \"Gallery of Suicide,\" Mazurkiewicz's cymbal setup remained largely in the Paiste 2002 / Zildjian A territory that had served the band's catalog since the early 1990s. The full Meinl endorsement relationship that defines his modern rig was still developing through this period — \"Gallery of Suicide\" sits earlier in that gradual transition than \"Bloodthirst\" (1999), the album that immediately followed it and where the Meinl partnership becomes more clearly documented.\n\nThe 14\" hi-hats continued to anchor the rhythmic pulse across the record's blast and groove sections alike, while the China cymbal — by now a well-established part of Mazurkiewicz's vocabulary — punctuated the riff transitions that define Cannibal Corpse's compositional structure. \"From Skin to Liquid\" gave the ride cymbal rare prominence, a textural shift from the wash-averse, attack-focused cymbal language of the band's faster material.\n\nJim Morris mixed the cymbals with the same bleed-conscious, individually close-miked philosophy Burns had used throughout the Morrisound era, keeping cymbal definition intact even through the album's denser, more layered arrangements.",
+      "estimatedValue": "$700–1,300 total (1998 era pre-Meinl selection)"
+    },
+    "hardware": {
+      "title": "Hardware on the Cusp of the Eliminator Era",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl P-2002C or early Eliminator-family double pedal",
+          "notes": "Transitioning from individual single pedals toward the dedicated double pedal that would define his later rig",
+          "description": "By 1998, Mazurkiewicz's pedal setup was moving toward the Pearl Eliminator-family double bass pedal that would become a defining piece of his endorsed rig in the following decade. \"Gallery of Suicide\" sits in that transitional window — between the individual single pedals he used on the early-90s records and the fully established Eliminator configuration documented on later Cannibal Corpse albums."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl heavy-duty hi-hat stand (era-typical)",
+          "notes": "Stable platform for sustained blast beat footwork"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B Wood Tip",
+          "notes": "Pre-signature stick — the Vic Firth Paul Mazurkiewicz signature model arrived later"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter)",
+        "toms": "Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador or Emperor Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "sound": {
+      "title": "Jim Morris at Morrisound: Closing Out an Era",
+      "content": "\"Gallery of Suicide\" was the eighth and final Cannibal Corpse album recorded at Morrisound Recording in Tampa, Florida — closing a studio relationship that stretched back to \"Eaten Back to Life\" in 1990. With Scott Burns having stepped back from extreme metal production by the late 1990s, Morrisound co-owner Jim Morris took over engineering, mixing, and mastering duties for the session, applying the studio's established close-miked, dry, attack-forward drum philosophy to Mazurkiewicz's transitional kit.\n\n**Continuity with the Burns Template:**\nMorris had worked alongside Burns throughout the decade and understood the Morrisound drum sound from the inside. The microphone approach — tight dynamics on the kicks, close snare miking, minimal room ambience — carried over directly from the four prior CC records, preserving the sonic continuity of the catalog even as the producer's chair changed hands.\n\n**A Wider Dynamic Palette:**\nWhat distinguishes the drum capture on \"Gallery of Suicide\" from its predecessors is the album's broader dynamic range. \"From Skin to Liquid,\" the band's first instrumental and slowest song to that point, required Morris to capture Mazurkiewicz's playing in a context built around space and texture rather than constant blast-beat density — a different engineering challenge than anything the Burns-era records had asked for.\n\n**The Final Tampa Session:**\nAfter \"Gallery of Suicide,\" Cannibal Corpse would not return to Morrisound. \"Bloodthirst\" (1999) moved production to Colin Richardson in the UK, and the band's recording home shifted permanently away from Tampa. Jim Morris's work on \"Gallery of Suicide\" therefore stands as the closing chapter of the Morrisound era that had shaped death metal production throughout the 1990s — captured with the same attack-forward clarity that had defined the genre since \"Eaten Back to Life.\"",
+      "keyTechniques": [
+        "Jim Morris's final Cannibal Corpse session at Morrisound Recording — the studio's last CC album",
+        "Engineering, mixing, and mastering all handled by Morris, continuing Scott Burns's established Tampa template",
+        "Close-miked, dry, attack-forward drum capture preserved from the Burns era",
+        "Wider dynamic range required for 'From Skin to Liquid,' the band's first instrumental",
+        "Last Cannibal Corpse album recorded in Tampa before the move to UK and, later, Texas studios"
+      ]
+    },
+    "technique": {
+      "title": "Locomotive Consistency Meets Black-Metal-Influenced Blasts",
+      "content": "\"Gallery of Suicide\" asked Paul Mazurkiewicz to apply his established locomotive philosophy to material that pushed slightly outside Cannibal Corpse's established formula. The result is a performance that retains every core element of his technique — conventional grip, locomotive double-bass, serve-the-riff phrasing — while demonstrating range the earlier records hadn't required.\n\n**Black-Metal-Influenced Blast Patterns:**\nSeveral tracks on \"Gallery of Suicide\" lean into blast beat patterns with a relentless, sustained character closer to black metal's pulse than the more song-structured blasts of \"Tomb of the Mutilated\" or \"The Bleeding.\" Mazurkiewicz's standard alternating blast technique — left foot, right hand, right foot, left hand — adapts to that more continuous, less punctuated approach without sacrificing the weight and consistency that define his playing.\n\n**'From Skin to Liquid': A Different Kind of Discipline:**\nThe album's slow, largely instrumental closer-adjacent track required a different skill from Mazurkiewicz than blast beat stamina: restraint and dynamic control across an extended, atmospheric arrangement. It is the closest Cannibal Corpse had come at that point to giving its drummer space rather than density, and the track remains a notable outlier in his discography for exactly that reason.\n\n**Conventional Grip, Ten Years In:**\nBy 1998, Mazurkiewicz's traditional grip technique had a full decade of professional development behind it. The left-stick control needed to execute the album's faster blast passages cleanly — without the power loss that conventional grip can introduce at extreme tempo — was by this point a fully mature element of his playing.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [The Bleeding drum setup (1994)](/articles/the-bleeding-drum-setup) — the Barnes-era predecessor and Scott Burns's final Morrisound session\n- [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — the UK-produced album that immediately followed"
+    },
+    "faq": [
+      {
+        "question": "What kit did Paul Mazurkiewicz use on Gallery of Suicide?",
+        "answer": "On Gallery of Suicide (1998), Paul Mazurkiewicz played a Pearl kit in the Masters MX range — dual 22-inch x 16-inch kick drums, 10-inch and 12-inch rack toms, and a 16-inch floor tom, paired with a 14-inch x 5.5-inch wood-shell snare. The setup sits in the middle of his long transition from the pre-endorsement Pearl gear of the early 1990s toward the Pearl Reference kit and Meinl cymbal endorsement that define his modern rig — those relationships were still developing in 1998 rather than fully established. Cymbals were still primarily Paiste 2002 and Zildjian A series, the same general selection he had used since the early CC catalog."
+      },
+      {
+        "question": "Did Cannibal Corpse chart with Gallery of Suicide?",
+        "answer": "Gallery of Suicide (1998) peaked at #22 on the Billboard Heatseekers Albums chart, a chart specifically tracking new and developing artists rather than the main Billboard 200. It did not chart on the Billboard 200 itself. Cannibal Corpse's first Billboard 200 entry came two years earlier with Vile (1996), which debuted at #151. Gallery of Suicide's Heatseekers placement nonetheless reflected the band's continued commercial growth in an era dominated by nu-metal on mainstream metal radio and MTV."
+      },
+      {
+        "question": "Who produced Gallery of Suicide and where was it recorded?",
+        "answer": "Gallery of Suicide was produced, engineered, mixed, and mastered by Jim Morris at Morrisound Recording in Tampa, Florida. It was the eighth and final Cannibal Corpse album recorded at Morrisound, a studio relationship that had begun with Eaten Back to Life in 1990. Scott Burns, who produced the band's first four albums, had stepped back from extreme metal production by the late 1990s; Morris, a Morrisound co-owner who had worked alongside Burns throughout the decade, took over and preserved the studio's established dry, attack-forward drum sound. The band would not record at Morrisound again after this album."
+      },
+      {
+        "question": "What changed in the Cannibal Corpse lineup on Gallery of Suicide?",
+        "answer": "Gallery of Suicide (1998) was the first Cannibal Corpse album to feature lead guitarist Pat O'Brien, formerly of Nevermore, who would go on to anchor the band's guitar work for more than two decades. It was also George 'Corpsegrinder' Fisher's second album as vocalist, following his 1996 debut on Vile. Paul Mazurkiewicz, bassist Alex Webster, and rhythm guitarist Jack Owen remained the lineup's constants from the earlier records."
+      },
+      {
+        "question": "What is 'From Skin to Liquid' and why is it significant?",
+        "answer": "'From Skin to Liquid' is Cannibal Corpse's first instrumental track and, at the time of its release, the slowest song the band had recorded. It appears on Gallery of Suicide (1998) and gave Paul Mazurkiewicz space to use dynamics and tom-based texture rather than sustained blast-beat density — a notable departure from the rest of the record and from the band's catalog up to that point. The track is frequently cited as one of the more experimental moments in Cannibal Corpse's discography."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "the-bleeding-drum-setup",
+      "bloodthirst-drum-setup",
+      "tomb-of-the-mutilated-drum-setup",
+      "paul-mazurkiewicz-drum-setup",
+      "none-so-vile-drum-setup"
+    ],
+    "relatedDrummers": [51],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "death-metal-drummers",
+      "tampa-death-metal-sound"
+    ],
+    "conclusion": {
+      "title": "The Morrisound Era's Quiet Close",
+      "content": "\"Gallery of Suicide\" doesn't get discussed with the same reverence as \"Tomb of the Mutilated\" or the same Fisher-era-defining status as \"Bloodthirst,\" but it occupies an important hinge point in both Cannibal Corpse's history and Paul Mazurkiewicz's gear evolution. It closed the Morrisound chapter that had shaped the band's sound since 1990, introduced a guitarist who would remain in the lineup for decades, and captured Mazurkiewicz's transitional Pearl setup at a moment squarely between his pre-endorsement gear and the Reference-era rig still a few years away.\n\nJim Morris's production kept the Tampa drum sound intact even as Scott Burns moved on, and the album's experiments — the black-metal-tinged blast patterns, the unprecedented instrumental closer in 'From Skin to Liquid' — show a band and a drummer willing to push at the edges of their own formula rather than simply repeat it. Mazurkiewicz's locomotive double-bass and conventional grip remained the constants throughout.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [The Bleeding drum setup (1994)](/articles/the-bleeding-drum-setup) — Scott Burns's final Morrisound session\n- **The successor**: [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — the move to Colin Richardson and the UK\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+    }
+  },
+  "gore-obsessed-drum-setup": {
+    "slug": "gore-obsessed-drum-setup",
+    "albumTitle": "Gore Obsessed",
+    "artist": "Cannibal Corpse",
+    "drummer": "Paul Mazurkiewicz",
+    "drummerId": 51,
+    "relatedDrummerSlug": "paul-mazurkiewicz",
+    "band": "Cannibal Corpse",
+    "bands": ["Cannibal Corpse"],
+    "year": 2002,
+    "genre": "Death Metal",
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "studio": "Sonic Ranch, Tornillo, Texas",
+    "producer": "Neil Kernon",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-30",
+    "dateModified": "2026-06-30",
+    "author": "MetalForge Editorial",
+    "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Gore Obsessed (2002)",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's Gore Obsessed (2002). Paul Mazurkiewicz's solidifying Pearl Reference and Meinl rig, Neil Kernon's Sonic Ranch production, and the bridge album connecting Bloodthirst to The Wretched Spawn and Kill.",
+    "seoKeywords": [
+      "gore obsessed drums",
+      "paul mazurkiewicz 2002 drum setup",
+      "cannibal corpse gore obsessed drummer",
+      "cannibal corpse gore obsessed gear",
+      "neil kernon cannibal corpse production",
+      "cannibal corpse sonic ranch studio",
+      "cannibal corpse albums between bloodthirst and kill",
+      "death metal 2002 drum setup"
+    ],
+    "ogImage": "/images/albums/gore-obsessed-drums.webp",
+    "intro": {
+      "title": "Solidifying the Rig: Mazurkiewicz on Cannibal Corpse's Eighth Album",
+      "content": "Released on February 26, 2002 through Metal Blade Records, \"Gore Obsessed\" is Cannibal Corpse's eighth studio album and the record that sits between two of the most discussed entries in the Fisher-era catalog: \"Bloodthirst\" (1999) and \"The Wretched Spawn\" (2004), with \"Kill\" (2006) following two albums later. Where Bloodthirst announced the Fisher-era sound and Kill is frequently cited as a commercial and critical peak, Gore Obsessed occupies the connective tissue between them — a record that consolidated the band's identity rather than reinventing it, and one that gets comparatively little attention despite containing some of Paul Mazurkiewicz's most refined pre-Kill playing.\n\nThe album marked another production relocation. After four albums at Morrisound in Tampa and one at Skyclad Recording in the UK, Cannibal Corpse tracked Gore Obsessed at Sonic Ranch in Tornillo, Texas — a large, remote studio complex far removed from both prior recording environments. Producer Neil Kernon, working alongside the band and engineer Justin Leeah, captured a drum sound that reviewers at the time described as alternating between rapid-fire, machine-gun blast passages and heavier, chugging mid-tempo sections — a dynamic range that mirrors the dual demands the songwriting placed on Mazurkiewicz's playing.\n\nGore Obsessed charted modestly but measurably: #11 on the US Independent Albums chart, #28 on the Billboard Heatseekers Albums chart, and #71 on the German Albums chart, continuing the gradual commercial trajectory the band had built since Vile's 1996 Billboard 200 debut. The same five-piece lineup that had recorded Gallery of Suicide and Bloodthirst — Fisher, Pat O'Brien, Jack Owen, Alex Webster, and Mazurkiewicz — remained intact, giving the album a stability in personnel that let the band focus on tightening its compositional and technical approach rather than absorbing a lineup change.\n\nBehind the kit, Mazurkiewicz's gear had moved further along the path it had been tracing since Gallery of Suicide: the Pearl Reference configuration and Meinl cymbal endorsement that define his modern rig were now considerably more solidified than the transitional setups of 1998 and 1999, and the Pearl Eliminator double bass pedal — a defining piece of his later-career rig — was now an established part of his setup. This article breaks down that more mature configuration, Neil Kernon's Sonic Ranch production, and the technical refinement Gore Obsessed represents in Mazurkiewicz's pre-Kill development.",
+      "keyPoints": [
+        "Cannibal Corpse's eighth album (February 26, 2002) — Metal Blade Records — the bridge between Bloodthirst (1999) and The Wretched Spawn (2004) en route to Kill (2006)",
+        "Produced by Neil Kernon with engineer Justin Leeah at Sonic Ranch, Tornillo, Texas — a third distinct studio environment after Morrisound and Skyclad",
+        "Charted at #11 US Independent Albums, #28 Billboard Heatseekers Albums, and #71 German Albums",
+        "Same five-piece Fisher-era lineup as Gallery of Suicide and Bloodthirst — Fisher, O'Brien, Owen, Webster, Mazurkiewicz",
+        "Pearl Reference and Meinl endorsement relationships considerably more solidified than the 1998–1999 transitional setups",
+        "Pearl Eliminator double bass pedal now an established part of the rig",
+        "Limited edition included a Metallica cover, 'No Remorse,' as a bonus track"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference Solidifies: The Mature Pre-Kill Configuration",
+      "brand": "Pearl",
+      "model": "Pearl Reference (solidifying endorsement configuration, 2002)",
+      "finish": "Custom finish (Pearl endorsement era)",
+      "config": {
+        "bassdrums": ["22\" x 18\" Bass Drum (x2 — double kick)"],
+        "toms": ["10\" x 9\" Rack Tom", "12\" x 10\" Rack Tom"],
+        "floorToms": ["16\" x 14\" Floor Tom", "18\" x 16\" Floor Tom"],
+        "shells": "Maple/African mahogany hybrid — Pearl Reference-tier construction"
+      },
+      "description": "By 2002, Paul Mazurkiewicz's Pearl setup had moved well past the Masters MX-range gear of Gallery of Suicide (1998) and into a configuration much closer to the Pearl Reference kit that defines his current rig. The deeper 22\" x 18\" kick drums first documented on Bloodthirst (1999) were now a settled part of his setup, and the four-tom layout — two rack toms plus two floor toms — gave him the broader fill vocabulary that the Fisher-era material's increasing compositional complexity demanded.\n\nThe Pearl endorsement relationship, which had been gradually solidifying since the mid-to-late 1990s, was clearly established by Gore Obsessed. The maple/African mahogany hybrid shell construction associated with the Reference line produced the focused attack and warm low-end body that would become a signature element of Mazurkiewicz's recorded sound for the next two decades. In Neil Kernon's Sonic Ranch sessions, that low-end weight came through with particular authority on the album's heavier, mid-tempo passages — the \"chugging mosh sections\" that reviewers highlighted alongside the record's faster blast work.\n\nKernon and engineer Justin Leeah tuned the kit for a dynamic range that could move between extreme-tempo blast sections and groove-driven breakdowns without losing definition in either mode — a tuning challenge distinct from the more singularly attack-focused approach of the Morrisound era.",
+      "notes": [
+        "Pearl Reference-tier maple/African mahogany hybrid shells — endorsement relationship now clearly solidified",
+        "Deeper 22\" x 18\" kicks carried over and settled from the Bloodthirst-era transition",
+        "Expanded four-tom configuration (two rack, two floor) for broader fill vocabulary",
+        "Tuned for dynamic range across both blast and mid-tempo groove sections"
+      ],
+      "estimatedValue": "$3,000–5,500 (2002 era, near-modern Reference configuration)"
+    },
+    "snare": {
+      "title": "Toward the Free-Floating Steel Voice",
+      "brand": "Pearl",
+      "model": "Pearl steel-shell snare (developing toward Free-Floating)",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel shell construction",
+      "description": "Mazurkiewicz's snare on Gore Obsessed reflects the continued move toward the 14\" x 6.5\" Pearl Free-Floating steel-shell drum that defines his modern sound. The shallower 5.5\" wood-shell snare heard on Gallery of Suicide and the earlier Morrisound catalog had given way to a deeper, steel-shell configuration capable of more body and authority — a better match for Neil Kernon's heavier, more low-end-forward production approach at Sonic Ranch.\n\nThe steel shell's brighter, more cutting overtone profile gave the snare extra presence in a mix built around alternating extreme-tempo blasts and weighty mid-tempo sections. On the album's faster passages, the increased depth didn't come at the cost of articulation — the drum still responded quickly enough for sustained blast beat work, while delivering noticeably more low-mid body on the record's groove-oriented sections than the earlier wood-shell snares had offered.\n\nKernon's snare capture favored a forward, present mix position, consistent with the priority every Cannibal Corpse producer placed on keeping Mazurkiewicz's backbeat legible through the band's dense, multi-guitar arrangements.",
+      "tuningSetting": "Medium tension — more body and authority than the earlier wood-shell snares, tuned for both blast and groove contexts",
+      "heads": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)",
+      "estimatedValue": "$350–650 (2002 era) / $400–700 (Pearl Free-Floating equivalent today)"
+    },
+    "cymbals": {
+      "title": "Meinl Established: The Full Endorsement Arsenal",
+      "brand": "Meinl",
+      "series": "Meinl Classics / Byzance (established endorsement, 2002)",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Fast, focused response for the album's alternating blast and groove sections"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 16\" Crash",
+          "position": "Left crash",
+          "notes": "Quick accent for riff punctuation"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash for the album's heavier mid-tempo mosh sections"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl 20\" Ride",
+          "position": "Right",
+          "notes": "Bell accents between blast passages"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" China",
+          "position": "Over rack toms",
+          "notes": "Trashy riff-transition accent, fully integrated into the Meinl setup by this point"
+        }
+      ],
+      "description": "By Gore Obsessed, the Meinl cymbal endorsement that had been developing since Bloodthirst (1999) was firmly established as Mazurkiewicz's primary cymbal setup, in the Classics or early Byzance series range. Meinl's hand-hammered bronze construction — fast attack, controlled decay — suited the album's dual character well: focused enough to stay readable through the record's rapid-fire blast sections, with enough body to carry weight through the heavier, chugging mid-tempo passages that AllMusic's contemporary review singled out.\n\nThe 14\" hi-hats continued to anchor the rhythmic pulse across both modes, while the China cymbal remained a central accent in Mazurkiewicz's vocabulary for marking riff transitions — a role it had played consistently since the band's earliest records, now voiced through a fully mature Meinl setup rather than the budget Paiste/Zildjian cymbals of the pre-endorsement era.\n\nNeil Kernon's Sonic Ranch mix gave the cymbals a present, well-defined position, supporting the album's alternating tempo character without letting cymbal wash blur the more extreme blast passages.",
+      "estimatedValue": "$1,400–2,400 total (established Meinl endorsement configuration, 2002)"
+    },
+    "hardware": {
+      "title": "The Eliminator Era, Established",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Double Bass Pedal",
+          "notes": "Fully established as part of Mazurkiewicz's rig by 2002",
+          "description": "By Gore Obsessed, the Pearl Eliminator double bass pedal — first developing around the Bloodthirst sessions — was a settled, established piece of Mazurkiewicz's setup. The Eliminator's interchangeable cam system allowed him to dial in the foot acceleration curve for the album's alternating blast and groove demands, giving him the precision needed for both the rapid-fire passages and the more deliberate, weighted mid-tempo sections."
+        },
+        {
+          "type": "Electronic Triggers",
+          "brand": "ddrum",
+          "model": "ddrum Acoustic Pro Triggers (live context)",
+          "notes": "Live-context trigger use continued developing through this period; studio tracking remained primarily acoustic"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B or developing signature specification",
+          "notes": "The Vic Firth Paul Mazurkiewicz signature model was in active development around this era"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)"
+      }
+    },
+    "sound": {
+      "title": "Neil Kernon at Sonic Ranch: A Third Studio, A New Weight",
+      "content": "\"Gore Obsessed\" took Cannibal Corpse to a third distinct recording environment in three albums. After four records at Morrisound in Tampa and one at Skyclad Recording in the UK, the band tracked Gore Obsessed at Sonic Ranch — a large, remote studio complex in Tornillo, Texas, well outside the band's usual East Coast and Florida circuit. Producer Neil Kernon, working with engineer Justin Leeah, brought yet another production sensibility to Mazurkiewicz's drumming, distinct from both Scott Burns's dry Tampa attack and Colin Richardson's denser UK aesthetic.\n\n**Kernon's Approach:**\nNeil Kernon had an extensive metal production résumé by 2002, and his work on Gore Obsessed favored a mix that could swing between extreme clarity on the album's faster blast passages and genuine physical weight on its heavier, mid-tempo sections. Contemporary reviews highlighted exactly this dynamic — tempos alternating between rapid-fire machine-gun blasts and chugging mosh-section grooves — and that range required a drum capture flexible enough to serve both modes without compromise.\n\n**The Sonic Ranch Environment:**\nSonic Ranch's scale and isolation gave the sessions a different character from the more compact studio environments of the band's earlier records. The result was a drum sound with more low-end authority than the Morrisound catalog while retaining the close-miked definition needed for Mazurkiewicz's blast beat work to stay articulate at extreme tempo.\n\n**Mastering and Final Polish:**\nRamon Breton handled mastering at Oceanview Digital Mastering, putting a final layer of polish on Kernon's mix. The result is a drum sound that splits the difference between the dry Tampa attack of the band's first four albums and the denser British weight of Bloodthirst — a synthesis appropriate for an album that itself sits at the midpoint of the Fisher-era catalog.",
+      "keyTechniques": [
+        "Neil Kernon production with engineer Justin Leeah at Sonic Ranch, Tornillo, Texas — the band's third studio environment in three albums",
+        "Mix built to serve both rapid-fire blast passages and heavier, chugging mid-tempo sections",
+        "More low-end authority than the Morrisound catalog while retaining blast-tempo articulation",
+        "Mastered by Ramon Breton at Oceanview Digital Mastering",
+        "A sonic midpoint between the dry Tampa attack era and the denser UK-influenced weight of Bloodthirst"
+      ]
+    },
+    "technique": {
+      "title": "Refinement Before the Peak: Mazurkiewicz's Most Mature Pre-Kill Playing",
+      "content": "\"Gore Obsessed\" is frequently described by longtime fans as containing some of Paul Mazurkiewicz's most technically refined work before \"Kill\" (2006) is generally cited as his commercial and critical peak. The album's compositions demanded the dual fluency that defines the Fisher-era CC catalog at its most developed: machine-gun blast sections requiring sustained extreme-tempo consistency, and heavier mosh-oriented passages requiring a completely different kind of weighted, deliberate groove.\n\n**Dual-Mode Mastery:**\nWhere earlier albums leaned more heavily toward one mode or the other — the debut-era records toward blast density, The Bleeding toward groove accessibility — Gore Obsessed asks Mazurkiewicz to move fluidly between both within the same songs. His ability to shift from rapid-fire double-bass blasting to a locked, heavy mid-tempo pocket without losing rhythmic authority in either mode is the technical achievement that distinguishes this record.\n\n**Conventional Grip at Full Maturity:**\nBy 2002, Mazurkiewicz's traditional grip technique had over a decade of professional refinement behind it. The left-stick control that conventional grip demands at extreme tempo — a persistent technical challenge for the technique — is fully resolved by this point in his career, audible in the clean articulation of the album's fastest blast passages.\n\n**Setting Up the Wretched Spawn / Kill Run:**\nThe technical and gear consolidation documented on Gore Obsessed directly set up the two albums that followed: The Wretched Spawn (2004) and Kill (2006), the record most frequently cited as the high point of this stretch of Mazurkiewicz's career. Gore Obsessed is the quieter, less-discussed album in that run, but the playing on it is a direct technical precursor to what Kill would later showcase at a higher profile.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — the Fisher-era establishment record that preceded it\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig this album helped consolidate"
+    },
+    "faq": [
+      {
+        "question": "What kit did Paul Mazurkiewicz use on Gore Obsessed?",
+        "answer": "On Gore Obsessed (2002), Paul Mazurkiewicz played a Pearl Reference-tier kit with dual 22-inch x 18-inch kick drums, a four-tom layout (two rack toms, two floor toms), and a 14-inch x 6.5-inch steel-shell snare moving toward his signature Free-Floating model. His Meinl cymbal endorsement, first developing around Bloodthirst (1999), was firmly established by this point, and the Pearl Eliminator double bass pedal was a settled part of his hardware setup. This configuration is considerably closer to his modern rig than the transitional gear documented on Gallery of Suicide (1998)."
+      },
+      {
+        "question": "What Cannibal Corpse albums came out between Bloodthirst and Kill?",
+        "answer": "Two Cannibal Corpse studio albums were released between Bloodthirst (1999) and Kill (2006): Gore Obsessed (2002) and The Wretched Spawn (2004). Gore Obsessed was produced by Neil Kernon at Sonic Ranch in Tornillo, Texas, and represents the technical and gear consolidation that directly preceded the more widely celebrated Wretched Spawn and Kill recordings. It is often overlooked relative to those two later albums despite containing some of Paul Mazurkiewicz's most refined pre-Kill drumming."
+      },
+      {
+        "question": "Who produced Gore Obsessed and where was it recorded?",
+        "answer": "Gore Obsessed was produced by Neil Kernon, working with the band and engineer Justin Leeah, at Sonic Ranch in Tornillo, Texas. Mastering was handled by Ramon Breton at Oceanview Digital Mastering. This marked a third distinct studio environment for Cannibal Corpse in as many albums, following four records at Morrisound Recording in Tampa, Florida, and one (Bloodthirst, 1999) at Skyclad Recording in Burton-on-Trent, UK."
+      },
+      {
+        "question": "Did Gore Obsessed chart?",
+        "answer": "Gore Obsessed (2002) charted at #11 on the US Independent Albums chart, #28 on the Billboard Heatseekers Albums chart, and #71 on the German Albums chart. It did not reach the Billboard 200. The album continued the gradual commercial trajectory Cannibal Corpse had built since Vile became their first Billboard 200 entry in 1996, debuting at #151."
+      },
+      {
+        "question": "What bonus material was included with Gore Obsessed?",
+        "answer": "The limited edition of Gore Obsessed (2002) included a cover of Metallica's 'No Remorse' as a bonus track, while the Japanese edition included a live recording of 'Compelled to Lacerate' as its bonus material. The standard album lineup remained the same five-piece configuration as Gallery of Suicide (1998) and Bloodthirst (1999): George 'Corpsegrinder' Fisher, Pat O'Brien, Jack Owen, Alex Webster, and Paul Mazurkiewicz."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "bloodthirst-drum-setup",
+      "gallery-of-suicide-drum-setup",
+      "paul-mazurkiewicz-drum-setup",
+      "tomb-of-the-mutilated-drum-setup",
+      "none-so-vile-drum-setup"
+    ],
+    "relatedDrummers": [51],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "death-metal-drummers",
+      "best-metal-double-kick-technique"
+    ],
+    "conclusion": {
+      "title": "The Quiet Bridge to Kill",
+      "content": "\"Gore Obsessed\" rarely tops lists of Cannibal Corpse's essential albums, overshadowed by the Fisher-era arrival of \"Bloodthirst\" on one side and the widely celebrated \"Kill\" two albums later. But as a document of Paul Mazurkiewicz's gear and technique at a pivotal consolidation point, it deserves more attention than it typically receives. The Pearl Reference and Meinl relationships that define his modern setup were, by 2002, no longer developing — they were established. The Pearl Eliminator pedal that powers his blast beat work today was a settled part of his rig. And the dual fluency between extreme-tempo blasting and heavy mid-tempo groove that the album's compositions demanded gave him a technical workout that directly informed the more celebrated playing on Kill four years later.\n\nNeil Kernon's Sonic Ranch production gave the record a sound distinct from both the dry Tampa attack of the Morrisound era and the denser British weight of Bloodthirst — a third sonic identity in as many albums, reflecting a band still actively searching for its definitive studio environment even as its lineup and gear had stabilized.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — the Fisher-era establishment record\n- **The earlier transitional chapter**: [Gallery of Suicide drum setup (1998)](/articles/gallery-of-suicide-drum-setup) — the last Morrisound session\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   }
 };

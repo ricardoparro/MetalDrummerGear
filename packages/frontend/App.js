@@ -16562,6 +16562,11 @@ function GearStatsPage({ theme, onBack, onSelectDrummer }) {
           </Text>
         </View>
 
+        {/* Editorial intro — explains what the underlying data represents (Issue #3413) */}
+        <Text style={[styles.listPageIntro, { color: theme.secondaryText }]}>
+          Every number on this page comes from MetalForge's own gear database — not a survey, but a direct aggregation of the verified drum setups documented across {stats.overallStats.totalDrummers} professional metal drummers, from thrash and death metal to djent and progressive metal. Each drummer's profile lists their actual shells, snare, cymbals, hardware, and stick choices, sourced from interviews, drum-cam footage, official brand endorsements, and manufacturer confirmations. We total those individual setups to surface the patterns: which cymbal and drum brands dominate the metal scene, what a typical professional setup actually costs by subgenre, and which snare models show up again and again across different bands and styles. The result is a picture of what working metal drummers genuinely play, not marketing copy — useful whether you're pricing out your first kit, deciding between cymbal brands, or just curious why certain manufacturers keep showing up on stage after stage. Every brand and drummer name below links back to the specific profile the data point was pulled from.
+        </Text>
+
         {/* Overview Cards */}
         <View style={[styles.statsOverview, isMobile && styles.statsOverviewMobile]}>
           <View style={[styles.statsCard, { backgroundColor: theme.card, borderColor: theme.border }]}>

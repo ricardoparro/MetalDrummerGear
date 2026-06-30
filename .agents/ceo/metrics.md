@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-29 23:23 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-30 00:41 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,61 +8,61 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 132 |
-| Sessions | 145 |
-| Page views | 217 |
-| Engagement rate | 54.48% |
-| Avg session (s) | 137 |
+| Active users | 113 |
+| Sessions | 124 |
+| Page views | 184 |
+| Engagement rate | 51.61% |
+| Avg session (s) | 146 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummer/joey-jordison | 34 | 19 |
-| / | 24 | 15 |
-| /drummer/ben-koller | 11 | 11 |
+| /drummer/joey-jordison | 29 | 15 |
+| / | 21 | 14 |
 | /drummer/john-otto | 11 | 7 |
-| /drummer/jaska-raatikainen | 8 | 6 |
+| /drummer/ben-koller | 10 | 10 |
 | /drummer/mario-duplantier | 8 | 6 |
-| /drummer/matt-greiner | 6 | 4 |
+| /drummer/jaska-raatikainen | 7 | 5 |
 | /drummer/shannon-larkin | 6 | 5 |
 | /drummer/hellhammer | 5 | 3 |
 | /drummer/inferno | 5 | 5 |
+| /bands/slipknot | 3 | 1 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 96 | 89 |
-| Direct | 37 | 32 |
-| Unassigned | 23 | 23 |
+| Organic Search | 84 | 78 |
+| Direct | 30 | 26 |
+| Unassigned | 22 | 22 |
 | Cross-network | 4 | 4 |
 | Organic Social | 1 | 1 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 3,070 |
-| Clicks | 72 |
-| CTR | 2.35% |
-| Avg position | 8.0 |
+| Impressions | 2,582 |
+| Clicks | 58 |
+| CTR | 2.25% |
+| Avg position | 7.8 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| flo mounier drum kit | 6 | 3 | 50.00% | 4.0 |
 | jaska raatikainen drum set | 9 | 3 | 33.33% | 3.9 |
 | bill ward drum set | 12 | 2 | 16.67% | 8.0 |
-| joey jordison drum kit | 86 | 2 | 2.33% | 7.3 |
-| eloy casagrande drum set | 4 | 1 | 25.00% | 8.3 |
+| flo mounier drum kit | 5 | 2 | 40.00% | 3.8 |
+| joey jordison drum kit | 68 | 2 | 2.94% | 7.0 |
+| eloy casagrande drum set | 3 | 1 | 33.33% | 8.7 |
 | frost drummer | 5 | 1 | 20.00% | 12.8 |
 | frost satyricon height | 1 | 1 | 100.00% | 1.0 |
-| gene hoglan drum kit | 1 | 1 | 100.00% | 8.0 |
-| igor cavalera drum setup | 2 | 1 | 50.00% | 6.0 |
-| inferno drum kit | 5 | 1 | 20.00% | 8.4 |
+| inferno drum kit | 2 | 1 | 50.00% | 8.5 |
+| joey jordison drum set | 114 | 1 | 0.88% | 7.3 |
+| joey jordison drumset | 10 | 1 | 10.00% | 7.7 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum set | 130 | 0.77% | 7.5 | open issue to answer better |
+| joey jordison drum set | 114 | 0.88% | 7.3 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

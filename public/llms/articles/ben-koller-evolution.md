@@ -43,7 +43,7 @@ The Iron Cobra Power Glide double pedal was the era's critical hardware upgrade.
 
 You Fail Me (2004) and No Heroes (2006) reflected a deliberate period of stripped restraint — the gear simplification matched the compositional directness of those records.
 
-*Albums:* [Jane Doe (2001) drum setup](/articles/jane-doe-drum-setup) · You Fail Me (2004) · No Heroes (2006)
+*Albums:* [Jane Doe (2001) drum setup](/articles/jane-doe-drum-setup) · [You Fail Me (2004) drum setup](/articles/you-fail-me-drum-setup) · [No Heroes (2006) drum setup](/articles/no-heroes-drum-setup)
 
 ## Era 3: Axe to Fall / Modern Complexity Era (2009–Present)
 
@@ -119,6 +119,8 @@ Ben Koller has used Tama Iron Cobra double pedals throughout most of his career.
 
 - [Ben Koller drummer profile](/drummer/ben-koller) — Career overview, technique, and complete gear breakdown
 - [Jane Doe drum setup](/articles/jane-doe-drum-setup) — The breakthrough record; Tama Iron Cobra era debut
+- [You Fail Me drum setup](/articles/you-fail-me-drum-setup) — The rawer, more abrasive follow-up to Jane Doe
+- [No Heroes drum setup](/articles/no-heroes-drum-setup) — Converge's sound fully consolidated at GodCity Studio
 - [Axe to Fall drum setup](/articles/axe-to-fall-drum-setup) — Converge's most ambitious production; Tama Starclassic era
 - [Bloodmoon: I drum setup](/articles/bloodmoon-i-drum-setup) — Collaborative project with Chelsea Wolfe; modern Converge sound
 

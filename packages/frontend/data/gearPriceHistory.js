@@ -3073,6 +3073,423 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['eloy casagrande drum kit', 'sepultura drummer gear', 'machine messiah drums', 'eloy casagrande mapex setup', 'slipknot new drummer gear cost'],
     },
   },
+
+  // ==========================================
+  // ALEX BENT - 2017 Trivium / The Sin and the Sentence Era
+  // Issue #3187: Gear Price History Batch 27
+  // Pearl Reference Series + Axis A21 Longboard Setup
+  // ==========================================
+  'alex-bent': {
+    slug: 'alex-bent',
+    name: 'Alex Bent',
+    band: 'Trivium',
+    iconicYear: 2017,
+    era: 'The Sin and the Sentence Era',
+    albumReference: 'The Sin and the Sentence (2017)',
+    profileImage: '/images/drummers/alex-bent.webp',
+
+    summary: "Alex Bent's 2017 arrival behind Trivium's kit on The Sin and the Sentence marked a pivot point for the band — and for technical death metal drummers seeking mainstream relevance. Bent spent nearly a decade in the underground with Arkaik, Brain Drill, and Battlecross, building the extreme speed and precision that made him an Axis Percussion endorser years before signing with a recognizable band name. When producer Mark Lewis recommended him to Trivium following Paul Wandtke's departure, Bent inherited a kit built for arena scale rather than club-circuit death metal: a Pearl Reference Series double-bass configuration in custom matte black, paired with Meinl Byzance Brilliant cymbals and his long-standing Axis A21 Longboard double pedal. The double 22\"x18\" kick drums gave him the acoustic power and trigger-consistency needed for festival-sized PA systems, while a deliberately minimalist tom array — just 10\" and 12\" racks plus 14\" and 16\" floors — kept his blistering fills efficient rather than cluttered. The setup cost approximately $11,310 in 2017 dollars, equivalent to roughly $15,100 in 2026 terms after CPI adjustment. Over four albums — The Sin and the Sentence, What the Dead Men Say, In the Court of the Dragon, and Struck Dead — Bent's rig barely changed in brand, but his profile within it grew enormously: a tech-death journeyman became one of modern metal's most studied double-bass technicians. His October 2025 departure from Trivium closed an eight-year chapter, but the Pearl Reference/Meinl Byzance/Axis combination he established remains the reference setup for drummers chasing his blend of extreme-metal speed and arena-ready power.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Reference Series',
+        model: 'Double-bass 6-piece configuration (Custom Matte Black)',
+        specs: '22"x18" kick (×2), 10"x8" rack, 12"x9" rack, 14"x14" floor, 16"x16" floor — maple/birch hybrid shells',
+        originalPrice: 6500,
+        year: 2017,
+        source: 'Pearl Reference Series MSRP 2017; MetalForge album-article gear breakdown ($5,000–$8,000 estimated value)',
+        notes: "Bent's double-kick Reference Series configuration was built for translating technical death metal precision to arena-scale power. The maple/birch hybrid shells delivered warmth and sustain for Trivium's melodic passages alongside the cut needed for its heavier sections.",
+        vintageValue2026: 6800,
+        modernEquivalent: {
+          item: 'Pearl Reference Series (current spec)',
+          price: 6800,
+          link: 'pearl-reference-series-drums',
+        },
+      },
+      snare: {
+        item: 'Pearl Reference Snare 14"x6.5"',
+        model: 'Maple/Birch Hybrid',
+        specs: '14"x6.5" Reference hybrid shell',
+        originalPrice: 600,
+        year: 2017,
+        source: 'Pearl Reference snare catalog 2017',
+        notes: "The hybrid maple/birch shell balanced warmth for Trivium's dynamic sections with the attack needed to punch through down-tuned guitars on faster, more aggressive tracks.",
+        vintageValue2026: 650,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure Snare 14"x6.5"',
+          price: 650,
+          link: 'pearl-reference-series-drums',
+        },
+      },
+      cymbals: {
+        item: 'Meinl Byzance Brilliant Series',
+        model: 'Full Brilliant configuration',
+        specs: '14" Brilliant Medium Hi-Hats, 16"/18"/19" Brilliant Medium Thin Crashes, 21" Brilliant Medium Ride, 18" Brilliant China, 10" Brilliant Splash',
+        originalPrice: 3000,
+        year: 2017,
+        source: 'Meinl Byzance Brilliant series retail pricing 2017',
+        notes: "The Byzance Brilliant finish gave Bent's setup extra shimmer and projection, complementing Trivium's polished production while maintaining stick articulation at high tempos inherited from his tech-death background.",
+        vintageValue2026: 2800,
+        modernEquivalent: {
+          item: 'Meinl Byzance Brilliant Box Set',
+          price: 3200,
+          link: 'meinl-byzance-brilliant-set',
+        },
+      },
+      hardware: {
+        item: 'Axis A21 Longboard Double Pedal + Pearl Hardware',
+        model: 'Axis A21 direct drive + Pearl H-2050/D-3500BR',
+        specs: 'Axis A21 Longboard double pedal, Pearl H-2050 Eliminator hi-hat stand, Pearl D-3500BR Roadster throne',
+        originalPrice: 1100,
+        year: 2017,
+        source: 'Axis Percussion MSRP 2017, Pearl hardware catalog',
+        notes: "Bent's Axis endorsement predates Trivium by years — his direct-drive A21 Longboard pedals were already central to his footwork during his Arkaik and Battlecross days, carried over unchanged into the Trivium era.",
+        vintageValue2026: 950,
+        modernEquivalent: {
+          item: 'Axis A21 Longboard + Pearl hardware pack',
+          price: 1200,
+          link: 'axis-a21-longboard-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B Hickory',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 10,
+        year: 2017,
+        source: 'Standard retail price',
+        notes: 'A classic 5B for balance of power and speed — unchanged across Bent\'s Trivium tenure.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B',
+          price: 14,
+          link: 'vic-firth-american-classic-5b',
+        },
+      },
+      heads: {
+        item: 'Evans Drumheads',
+        model: 'EMAD2 (kick), G2 Clear (toms), EC Reverse Dot (snare)',
+        specs: 'Evans EMAD2 kick batter, G2 Clear tom batters, EC Reverse Dot snare batter, Hazy 300 resonant',
+        originalPrice: 100,
+        year: 2017,
+        source: 'Evans retail pricing 2017',
+        notes: 'Evans heads throughout gave Bent the trigger-friendly consistency needed for extreme-speed passages without sacrificing acoustic character.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Pro Pack (EMAD2 + G2 + EC2)',
+          price: 130,
+          link: 'evans-pro-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 11310,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 11200,
+      modernEquivalentTotal: 11994,
+    },
+
+    priceEvolution: [
+      { year: 2017, price: 11310, label: 'Original Purchase', event: 'The Sin and the Sentence recording' },
+      { year: 2018, price: 11500, label: 'Touring expansion', event: 'Trivium tours The Sin and the Sentence worldwide' },
+      { year: 2020, price: 12000, label: 'What the Dead Men Say era', event: 'Pandemic-delayed album cycle' },
+      { year: 2021, price: 12600, label: 'In the Court of the Dragon era', event: 'Trivium expands rhythmic complexity' },
+      { year: 2025, price: 14200, label: 'Bent departs Trivium', event: 'October 2025 lineup change after four acclaimed albums' },
+      { year: 2026, price: 15100, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Pearl Reference Series Professional Catalog', year: 2017, type: 'catalog' },
+      { title: 'Modern Drummer Magazine — Alex Bent Interview', year: 2019, type: 'interview' },
+      { title: 'Meinl Byzance Artist Profile Archives', year: 2018, type: 'manufacturer' },
+      { title: 'MetalForge Album Article — Alex Bent Trivium Gear Breakdown', year: 2026, type: 'fan-compiled' },
+    ],
+
+    meta: {
+      title: "Alex Bent 2017 Trivium Drum Setup Cost | The Sin and the Sentence Gear Prices",
+      description: "How much did Alex Bent's 2017 Trivium drum kit cost? Original ~$11,310, inflation-adjusted to ~$15,100 today. Complete Pearl Reference Series breakdown from The Sin and the Sentence era.",
+      keywords: ['alex bent drum kit cost', 'trivium drummer gear history', 'alex bent pearl reference setup', 'the sin and the sentence drums', 'alex bent gear today'],
+    },
+  },
+
+  // ==========================================
+  // MATT GARSTKA - 2014 Animals as Leaders / The Joy of Motion Era
+  // Issue #3187: Gear Price History Batch 27
+  // Pearl Masterworks Maple + Meinl Byzance Setup
+  // ==========================================
+  'matt-garstka': {
+    slug: 'matt-garstka',
+    name: 'Matt Garstka',
+    band: 'Animals as Leaders',
+    iconicYear: 2014,
+    era: 'The Joy of Motion Era',
+    albumReference: 'The Joy of Motion (2014)',
+    profileImage: '/images/drummers/matt-garstka.webp',
+
+    summary: "Matt Garstka's 2014 debut with Animals as Leaders on The Joy of Motion introduced metal audiences to a drummer who approached djent with a jazz-fusion vocabulary. A Berklee College of Music graduate who replaced Navene Koperweis in 2012, Garstka built his AAL-era rig around a compact Pearl Masterworks Maple four-piece — deliberately smaller than the sprawling kits favored by many progressive metal peers, with a 20\"x16\" kick chosen for quick articulation over raw size. His Pearl Reference snare (still pre-signature at this point) and a developing Meinl Byzance cymbal array gave him the dynamic range needed for the ghost-note-heavy, traditional-grip style he brought from his jazz background. A Pearl Demon Drive double pedal anchored the footwork beneath The Joy of Motion's dense polyrhythms. The complete 2014 setup cost approximately $7,949 — equivalent to roughly $11,000 in 2026 after inflation. Within two years, Garstka's profile had grown enough to earn a Pearl Matt Garstka Signature Snare and Vic Firth signature sticks, products that remain in production today and that define his \"peak era\" setup across The Madness of Many (2016) and Parrhesia (2022). What distinguishes Garstka's gear story is how little the underlying philosophy changed even as the products became personalized: smaller drums, dark Byzance cymbals, and a traditional-grip-friendly stick taper, all built around dynamics rather than raw power. The Joy of Motion remains the foundational document of that approach — and the album that first proved jazz sophistication could anchor a progressive metal rhythm section.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Masterworks Maple',
+        model: '4-piece compact configuration',
+        specs: '20"x16" kick, 10"x7" rack, 12"x8" rack, 14"x14" floor — maple shells with MasterCast hoops',
+        originalPrice: 3800,
+        year: 2014,
+        source: 'Pearl Masterworks Maple MSRP 2014; MetalForge album-article gear breakdown ($4,000–$6,000 estimated value)',
+        notes: "Garstka's smaller-than-typical 20\" bass drum prioritized quick attack and clear articulation over the massive low end common in metal — a deliberate choice reflecting his jazz-influenced, dynamics-first approach to The Joy of Motion's intricate kick patterns.",
+        vintageValue2026: 4200,
+        modernEquivalent: {
+          item: 'Pearl Masterworks Maple (current spec)',
+          price: 5000,
+          link: 'pearl-masterworks-maple-drums',
+        },
+      },
+      snare: {
+        item: 'Pearl Reference Snare 14"x5"',
+        model: 'Maple/Birch Hybrid (pre-signature)',
+        specs: '14"x5" Reference hybrid shell',
+        originalPrice: 350,
+        year: 2014,
+        source: 'Pearl Reference snare catalog 2014',
+        notes: "Before his 2016 signature model, Garstka recorded The Joy of Motion on a standard Pearl Reference snare — already shallow and quick-responding, foreshadowing the sensitivity-first design of the signature drum that followed.",
+        vintageValue2026: 400,
+        modernEquivalent: {
+          item: 'Pearl Matt Garstka Signature Snare',
+          price: 450,
+          link: 'pearl-matt-garstka-signature-snare',
+        },
+      },
+      cymbals: {
+        item: 'Meinl Byzance Series',
+        model: 'Early Byzance configuration',
+        specs: '15" Dual Hi-Hats, 18" Extra Dry Thin Crash, 19"/20" Dual Crashes, 22" Sand Ride, 18" Vintage Trash Hat China',
+        originalPrice: 2800,
+        year: 2014,
+        source: 'Meinl Byzance series retail pricing 2014',
+        notes: "The dark, hand-hammered Byzance line suited Garstka's preference for musical warmth over the brighter, more aggressive cymbals typical of metal — the 22\" Sand Ride's dry articulation became one of his signature sounds on The Joy of Motion.",
+        vintageValue2026: 2600,
+        modernEquivalent: {
+          item: 'Meinl Byzance Full Setup (current spec)',
+          price: 4000,
+          link: 'meinl-byzance-dual-set',
+        },
+      },
+      hardware: {
+        item: 'Pearl Demon Drive Double Pedal + Hardware',
+        model: 'Pearl Demon Drive + Roadster stands',
+        specs: 'Pearl Demon Drive double pedal, Demon Drive hi-hat stand, Pearl Roadster throne',
+        originalPrice: 900,
+        year: 2014,
+        source: 'Pearl hardware catalog 2014',
+        notes: "The Demon Drive's direct-drive mechanism gave Garstka the instant response his intricate kick patterns required — even milliseconds of chain lag would have disrupted The Joy of Motion's polyrhythmic interplay.",
+        vintageValue2026: 800,
+        modernEquivalent: {
+          item: 'Pearl Demon Drive + hardware pack',
+          price: 1100,
+          link: 'pearl-demon-drive-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5A Hickory',
+        model: 'American Classic 5A (pre-signature)',
+        specs: 'Hickory, wood tip',
+        originalPrice: 9,
+        year: 2014,
+        source: 'Standard retail price',
+        notes: 'Standard Vic Firth 5A before his 2016 signature stick — already suited to traditional grip and dynamic control.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth Matt Garstka Signature',
+          price: 15,
+          link: 'vic-firth-matt-garstka-signature',
+        },
+      },
+      heads: {
+        item: 'Remo / Evans Mix',
+        model: 'Ambassador Coated (toms/snare), Evans EMAD (kick)',
+        specs: 'Remo Ambassador Coated toms, coated snare batter, Evans EMAD kick batter',
+        originalPrice: 90,
+        year: 2014,
+        source: 'Remo and Evans retail pricing 2014',
+        notes: 'Medium-weight heads balancing sensitivity for ghost notes with durability for touring.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Pro Pack (G2 + G1 + EMAD2)',
+          price: 130,
+          link: 'evans-pro-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 7949,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 8000,
+      modernEquivalentTotal: 10695,
+    },
+
+    priceEvolution: [
+      { year: 2014, price: 7949, label: 'Original Purchase', event: 'The Joy of Motion recording' },
+      { year: 2016, price: 8600, label: 'Signature products launch', event: 'Pearl Matt Garstka Signature Snare and Vic Firth signature sticks released' },
+      { year: 2019, price: 9400, label: 'Drumeo presence grows', event: 'Garstka becomes one of the most-watched drum educators online' },
+      { year: 2022, price: 10200, label: 'Parrhesia era', event: 'AAL returns with its most dynamically ambitious album' },
+      { year: 2024, price: 10800, label: 'Touring Parrhesia', event: 'Continued global clinics and touring' },
+      { year: 2026, price: 11000, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Pearl Masterworks Maple Professional Catalog', year: 2014, type: 'catalog' },
+      { title: 'Modern Drummer — Matt Garstka Interview', year: 2015, type: 'interview' },
+      { title: 'Meinl Byzance Artist Profile Archives', year: 2014, type: 'manufacturer' },
+      { title: 'MetalForge Album Article — Matt Garstka Gear Breakdown', year: 2026, type: 'fan-compiled' },
+    ],
+
+    meta: {
+      title: "Matt Garstka 2014 Animals as Leaders Drum Setup Cost | The Joy of Motion Gear Prices",
+      description: "How much did Matt Garstka's 2014 Animals as Leaders drum kit cost? Original ~$7,949, inflation-adjusted to ~$11,000 today. Complete Pearl Masterworks breakdown from The Joy of Motion era.",
+      keywords: ['matt garstka drum kit cost', 'animals as leaders drummer gear history', 'matt garstka pearl masterworks setup', 'the joy of motion drums', 'matt garstka gear today'],
+    },
+  },
+
+  // ==========================================
+  // MATT HALPERN - 2016 Periphery / Select Difficulty Era
+  // Issue #3187: Gear Price History Batch 27
+  // Mapex Saturn + Mapex Black Panther Signature Snare Setup
+  // ==========================================
+  'matt-halpern': {
+    slug: 'matt-halpern',
+    name: 'Matt Halpern',
+    band: 'Periphery',
+    iconicYear: 2016,
+    era: 'Select Difficulty Era',
+    albumReference: 'Periphery III: Select Difficulty (2016)',
+    profileImage: '/images/drummers/matt-halpern.webp',
+
+    summary: "Matt Halpern's 2016 setup behind Periphery III: Select Difficulty captures the moment djent drumming earned formal recognition from the mainstream music industry — the album's \"The Price Is Wrong\" brought Periphery a Grammy nomination for Best Metal Performance, the first for any djent-identified act. By 2016, Halpern's gear story had completed a full arc: the DW Collector's Series and Sabian HHX cymbals that recorded Periphery's 2010 self-titled debut had given way, via the transitional Periphery II (2012) sessions, to a full Mapex Saturn endorsement and a comprehensive Meinl Byzance cymbal setup. The Mapex Saturn's maple/walnut hybrid shells and SONIClear bearing edges delivered the focused attack that producer Jens Bogren's mix demanded, while a Mapex Black Panther Design Lab snare — offered in cherry, brass, maple, and steel shell options — gave Halpern a signature-tier drum that could shift from explosive backbeat authority to whisper-quiet ghost notes within a single measure. DW 9000 double pedals, chosen for their organic chain-drive feel over the more clinical direct-drive alternatives common in extreme metal, anchored hardware that also included Mapex's flagship Falcon hi-hat stand and Saddle throne. The complete 2016 rig cost approximately $10,398, equivalent to roughly $14,200 in 2026 after CPI adjustment. Halpern's gear has since evolved again — into the Mapex Saturn V MH Exotic series that powers Hail Stan (2019) and Aliens (2023) — but Select Difficulty remains the high-water mark where the Mapex/Meinl combination first proved capable of Grammy-caliber recognition, cementing Halpern's status as one of progressive metal's most influential drum-gear tastemakers.",
+
+    setup: {
+      drums: {
+        item: 'Mapex Saturn Series',
+        model: 'Maple/Walnut Hybrid shell pack',
+        specs: '22"x18" kick, 10"x7" rack, 12"x8" rack, 14"x14" floor, 16"x16" floor — SONIClear bearing edges',
+        originalPrice: 5750,
+        year: 2016,
+        source: 'Mapex Saturn Series MSRP 2016; MetalForge album-article gear breakdown ($4,500–$7,000 estimated value)',
+        notes: "The Saturn's maple-and-walnut hybrid shells gave Halpern punchy low end and focused attack — the tonal palette Jens Bogren's mix needed for Select Difficulty's most direct, compressed Periphery record to that point.",
+        vintageValue2026: 6000,
+        modernEquivalent: {
+          item: 'Mapex Saturn V MH Exotic (current spec)',
+          price: 7000,
+          link: 'mapex-saturn-v-mh-exotic-drums',
+        },
+      },
+      snare: {
+        item: 'Mapex Black Panther Design Lab',
+        model: '14"x6" Design Lab (cherry/brass/maple options)',
+        specs: '14"x6" Design Lab shell, variable wood/metal shell options',
+        originalPrice: 625,
+        year: 2016,
+        source: 'Mapex Black Panther Design Lab catalog 2016',
+        notes: "The Design Lab's variety of shell materials let Halpern match snare character to musical context across Select Difficulty's nine tracks — explosive backbeat authority on \"The Price Is Wrong,\" subtle dynamic shading elsewhere.",
+        vintageValue2026: 700,
+        modernEquivalent: {
+          item: 'Mapex Black Panther Design Lab (current spec)',
+          price: 750,
+          link: 'mapex-black-panther-design-lab-snare',
+        },
+      },
+      cymbals: {
+        item: 'Meinl Byzance Series',
+        model: 'Extra Dry / Dual / Traditional / Brilliant mix',
+        specs: '14" Byzance Dual Hi-Hats, 18" Byzance Extra Dry Thin Crash, 19" Byzance Dual Crash, 20" Byzance Traditional Medium Crash, 22" Byzance Extra Dry Medium Ride, 18" Byzance Brilliant China',
+        originalPrice: 3000,
+        year: 2016,
+        source: 'Meinl Byzance series retail pricing 2016',
+        notes: "By Select Difficulty, Halpern's Byzance setup was the fully realized system that began evolving on Periphery II — the dark, handcrafted B20 bronze voice that became as fundamental to Periphery's sound as Misha Mansoor's guitar tone.",
+        vintageValue2026: 2800,
+        modernEquivalent: {
+          item: 'Meinl Byzance Full Setup (current spec)',
+          price: 3500,
+          link: 'meinl-byzance-dual-set',
+        },
+      },
+      hardware: {
+        item: 'DW 9000 Double Pedal + Mapex Hardware',
+        model: 'DW 9000 chain drive + Mapex Falcon/Saddle',
+        specs: 'DW 9000 double pedal, Mapex Falcon hi-hat stand, Mapex Saddle throne',
+        originalPrice: 900,
+        year: 2016,
+        source: 'DW hardware retail 2016, Mapex hardware catalog',
+        notes: "Halpern valued the DW 9000's organic chain-drive feel over the more clinical direct-drive setups common in extreme metal — a quality that contributes to the groove distinguishing his playing even on the album's most aggressive tracks.",
+        vintageValue2026: 800,
+        modernEquivalent: {
+          item: 'DW 9000 + Mapex Falcon hardware pack',
+          price: 1100,
+          link: 'dw-9000-mapex-falcon-hardware',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth Matt Halpern Signature',
+        model: 'Signature taper',
+        specs: 'Hickory, established Halpern signature model',
+        originalPrice: 13,
+        year: 2016,
+        source: 'Vic Firth signature retail pricing 2016',
+        notes: "Halpern's signature stick was already an established touring and recording choice by Select Difficulty, consistent across all of his Periphery sessions.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth Matt Halpern Signature',
+          price: 15,
+          link: 'vic-firth-matt-halpern-signature',
+        },
+      },
+      heads: {
+        item: 'Evans Drumheads',
+        model: 'EMAD2 (kick), G2 Coated (toms), UV1 (snare)',
+        specs: 'Evans EMAD2 kick batter, G2 Coated tom batters, UV1 snare batter, Hazy 300 resonant',
+        originalPrice: 110,
+        year: 2016,
+        source: 'Evans retail pricing 2016',
+        notes: "UV1 batter provided focus and durability for the demanding Select Difficulty sessions, while Hazy 300 kept the snare wire sensitivity that gives Halpern's ghost notes their audibility.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Pro Pack (EMAD2 + G2 + UV1)',
+          price: 140,
+          link: 'evans-pro-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 10398,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 10300,
+      modernEquivalentTotal: 12505,
+    },
+
+    priceEvolution: [
+      { year: 2016, price: 10398, label: 'Original Purchase', event: 'Periphery III: Select Difficulty recording' },
+      { year: 2017, price: 10700, label: 'Grammy nomination', event: "'The Price Is Wrong' earns a Best Metal Performance nomination at the 59th Grammy Awards" },
+      { year: 2019, price: 11800, label: 'Hail Stan era', event: 'Halpern upgrades to Mapex Saturn V MH Exotic' },
+      { year: 2023, price: 13200, label: 'Aliens era', event: 'Mature Saturn V MH Exotic configuration on Periphery V' },
+      { year: 2025, price: 13800, label: 'Continued Mapex/Meinl endorsement', event: "Halpern remains one of djent's most influential gear tastemakers" },
+      { year: 2026, price: 14200, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Mapex Saturn Series Professional Catalog', year: 2016, type: 'catalog' },
+      { title: 'Modern Drummer — Matt Halpern Interview', year: 2017, type: 'interview' },
+      { title: 'Meinl Byzance Artist Profile Archives', year: 2016, type: 'manufacturer' },
+      { title: 'MetalForge Album Article — Periphery III: Select Difficulty Drum Setup', year: 2026, type: 'fan-compiled' },
+    ],
+
+    meta: {
+      title: "Matt Halpern 2016 Periphery Drum Setup Cost | Select Difficulty Gear Prices",
+      description: "How much did Matt Halpern's 2016 Periphery III: Select Difficulty drum kit cost? Original ~$10,398, inflation-adjusted to ~$14,200 today. Complete Mapex Saturn breakdown from the Grammy-nominated era.",
+      keywords: ['matt halpern drum kit cost', 'periphery drummer gear history', 'matt halpern mapex saturn setup', 'select difficulty drums', 'matt halpern signature snare'],
+    },
+  },
 };
 
 // ==========================================

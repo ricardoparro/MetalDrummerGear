@@ -337,6 +337,9 @@ const gearPriceHistoryDrummers = [
   'paul-mazurkiewicz', // Tomb of the Mutilated era (1992) — Issue #3097
   'flo-mounier',     // None So Vile era (1996) — Issue #3097
   'eloy-casagrande', // Machine Messiah era (2017) — Issue #3097
+  'alex-bent',       // The Sin and the Sentence era (2017) — Issue #3187
+  'matt-garstka',    // The Joy of Motion era (2014) — Issue #3187
+  'matt-halpern',    // Select Difficulty era (2016) — Issue #3187
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

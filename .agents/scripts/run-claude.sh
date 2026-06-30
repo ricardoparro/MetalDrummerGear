@@ -22,10 +22,13 @@
 set -uo pipefail
 
 # Match the subscription-exhaustion wording the CLI emits, plus generic
-# rate-limit / quota signals. Case-insensitive.
+# rate-limit / quota signals. Case-insensitive. The CLI varies the noun
+# ("session limit", "Sonnet limit", "Opus limit", "usage limit") and the reset
+# clause ("resets 11pm", "resets Jul 3"), so match "hit your … limit" broadly
+# and any "· resets" clause rather than enumerating each variant.
 looks_limited() {
   printf '%s' "${1:-}" | grep -qiE \
-    'session limit|usage limit|rate.?limit|hit your (session|usage|limit)|too many requests|\b429\b|quota|overloaded|resets [0-9]'
+    'hit your .*limit|[a-z]+ limit ·|usage limit|rate.?limit|limit reached|· resets|too many requests|\b429\b|quota|overloaded'
 }
 
 self_test() {
@@ -34,14 +37,16 @@ self_test() {
     if looks_limited "$2"; then got=0; else got=1; fi
     if [ "$got" -eq "$3" ]; then echo "PASS — $1"; else echo "FAIL — $1 (got $got want $3)"; fails=$((fails+1)); fi
   }
-  check "session limit msg"  "You've hit your session limit · resets 11pm (UTC)" 0
-  check "usage limit msg"    "Claude AI usage limit reached"                     0
-  check "rate limit"         "rate_limit_error: please slow down"                0
-  check "429"                "Error: 429 Too Many Requests"                      0
-  check "overloaded"         "overloaded_error"                                  0
-  check "quota"              "quota exceeded for this org"                       0
-  check "normal output"      "Done. Filed 3 proposals and logged decisions."    1
-  check "empty output"       ""                                                  1
+  check "session limit msg"  "You've hit your session limit · resets 11pm (UTC)"   0
+  check "Sonnet limit msg"   "You've hit your Sonnet limit · resets Jul 3, 3am (UTC)" 0
+  check "Opus limit msg"     "You've hit your Opus limit · resets tomorrow"        0
+  check "usage limit msg"    "Claude AI usage limit reached"                       0
+  check "rate limit"         "rate_limit_error: please slow down"                  0
+  check "429"                "Error: 429 Too Many Requests"                        0
+  check "overloaded"         "overloaded_error"                                    0
+  check "quota"              "quota exceeded for this org"                         0
+  check "normal output"      "Done. Filed 3 proposals and logged decisions."      1
+  check "empty output"       ""                                                    1
   if [ "$fails" -eq 0 ]; then echo "ALL PASS"; exit 0; else echo "$fails FAILED"; exit 1; fi
 }
 
@@ -57,14 +62,24 @@ if [ -z "$PRIMARY" ] && [ -z "$BACKUP" ]; then
 fi
 
 # Run claude with a given token. Prints its combined output. Returns the CLI's
-# exit code, or 10 when that exit looks like a subscription-limit hit.
+# exit code, or 10 when that exit looks like a subscription-limit hit — detected
+# either by the limit wording OR by a fast non-zero exit (a limit/auth rejection
+# returns in seconds, whereas a real agent run takes minutes), so failover still
+# fires even when the CLI changes its limit message.
+FASTFAIL_SECS="${RUN_CLAUDE_FASTFAIL_SECS:-25}"
 run_with() {
-  local token="$1" out rc
+  local token="$1" out rc start end dur
+  start=$(date +%s)
   out="$(printf '%s' "$PROMPT" | env CLAUDE_CODE_OAUTH_TOKEN="$token" ANTHROPIC_API_KEY="" \
         claude --print --dangerously-skip-permissions 2>&1)"
   rc=$?
+  end=$(date +%s)
+  dur=$((end - start))
   printf '%s\n' "$out"
-  if [ "$rc" -ne 0 ] && looks_limited "$out"; then
+  if [ "$rc" -ne 0 ] && { looks_limited "$out" || [ "$dur" -lt "$FASTFAIL_SECS" ]; }; then
+    if ! looks_limited "$out"; then
+      echo "[run-claude] non-zero exit after ${dur}s (< ${FASTFAIL_SECS}s) — treating as a limit/auth failure." >&2
+    fi
     return 10
   fi
   return "$rc"

@@ -4619,8 +4619,11 @@ const DRUMMER_PAGE_META_OVERRIDES = {
     description: "What instruments did Joey Jordison play? Slipknot's drummer (and Murderdolls guitarist) built his kit on a Pearl Reference Series shell pack, signature 13×6.5\" snare, and Paiste RUDE cymbals — complete instrument & kit breakdown.",
   },
   'eloy-casagrande': {
+    // Issue #3282: CTR-gap fix — pos 9.2, 24 impr, 0% CTR for "eloy casagrande drum kit".
+    // Title already carried the exact-match phrase; description now adds the
+    // 2024 Slipknot join year and a clearer "full breakdown" value prop.
     title: 'Eloy Casagrande Drum Kit & Setup — Tama Starclassic | MetalForge',
-    description: "What drum kit does Eloy Casagrande use? The Slipknot drummer's Tama Starclassic Bubinga shells, Bell Brass snare, and full Paiste cymbal breakdown.",
+    description: "What drum kit does Eloy Casagrande use? Slipknot drummer plays Tama Starclassic Bubinga, Bell Brass snare, Paiste cymbals — full 2024 gear breakdown.",
   },
   'inferno': {
     title: 'Inferno Drum Kit & Setup — Behemoth Gear Breakdown | MetalForge',

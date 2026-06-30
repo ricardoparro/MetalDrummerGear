@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-30 09:16 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-06-30 10:59 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,33 +8,33 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 116 |
-| Sessions | 127 |
-| Page views | 187 |
-| Engagement rate | 50.39% |
-| Avg session (s) | 145 |
+| Active users | 118 |
+| Sessions | 129 |
+| Page views | 193 |
+| Engagement rate | 68.22% |
+| Avg session (s) | 133 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummer/joey-jordison | 29 | 15 |
-| / | 21 | 14 |
-| /drummer/john-otto | 11 | 7 |
-| /drummer/ben-koller | 10 | 10 |
+| /drummer/joey-jordison | 30 | 16 |
+| / | 23 | 14 |
+| /drummer/john-otto | 12 | 8 |
+| /drummer/ben-koller | 11 | 10 |
 | /drummer/mario-duplantier | 8 | 6 |
 | /drummer/jaska-raatikainen | 7 | 5 |
 | /drummer/shannon-larkin | 6 | 5 |
 | /drummer/hellhammer | 5 | 3 |
 | /drummer/inferno | 5 | 5 |
-| /bands/slipknot | 3 | 1 |
+| /drummers/abe-cunningham/licks/abe-cunningham-digital-bath-groove | 4 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 86 | 80 |
-| Direct | 30 | 26 |
-| Unassigned | 25 | 25 |
-| Cross-network | 5 | 5 |
+| Organic Search | 93 | 87 |
+| Direct | 32 | 27 |
+| Unassigned | 4 | 4 |
+| Cross-network | 3 | 3 |
 | Organic Social | 1 | 1 |
 
 ## Search Console — Search performance

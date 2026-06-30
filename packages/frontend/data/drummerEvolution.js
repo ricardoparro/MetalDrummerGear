@@ -11985,6 +11985,990 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Dirk Verbeuren Gear Evolution Timeline | Megadeth & Soilwork Drum Kit History',
     metaDescription: 'Explore Dirk Verbeuren\'s complete drum gear evolution: 18 years with Soilwork → Tama/Meinl Megadeth touring transition → settled Starclassic Maple rig on "The Sick, the Dying... and the Dead!" The journeyman who reached thrash metal\'s top tier, era by era.',
   },
+
+  // ==========================================
+  // Inferno - Behemoth (1997-Present)
+  // ==========================================
+  'inferno': {
+    slug: 'inferno',
+    name: 'Inferno',
+    band: 'Behemoth',
+    totalYearsActive: '1997-Present',
+    profileImage: '/images/drummers/inferno.webp',
+    summary: 'Inferno (Zbigniew Robert Promiński) has been Behemoth\'s drummer since 1997, anchoring the band\'s transition from raw black metal into one of extreme metal\'s most technically demanding and commercially successful blackened death metal acts. His gear evolution tracks that journey from developing-era Pearl kits to the Pearl Reference Pure / Meinl Classics Custom Dark rig that powers "The Satanist" and "Opvs Contra Natvram."',
+
+    eras: [
+      {
+        id: 'inferno-1997-early-behemoth',
+        era: 'Early Behemoth Era',
+        years: '1997–2003',
+        startYear: 1997,
+        endYear: 2003,
+        description: 'Inferno joined Behemoth in 1997, replacing Baal Ravenlock as the band transitioned from pure black metal toward the blackened death metal sound that would define their career. "Satanica" (1999) marked his recording debut and the start of that stylistic shift, followed by "Thelema.6" (2000) and "Zos Kia Cultus" (2002), which progressively refined the band\'s technical death metal identity. Inferno\'s relentless blast beats and double bass drumming quickly established him as one of extreme metal\'s most disciplined players.',
+        albums: ['Satanica (1999)', 'Thelema.6 (2000)', 'Zos Kia Cultus (2002)'],
+        tours: ['Behemoth European underground tours 1997–2003'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl kits (developing endorsement)',
+            details: 'Standard production shells, double bass configuration',
+            notes: 'No flagship endorsement yet — Inferno built his blast-beat foundation on entry-level Pearl kits during Behemoth\'s transition out of pure black metal.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl steel/maple snare',
+            details: '14" standard configuration',
+            notes: 'Tuned bright for cut, typical of the raw late-1990s extreme metal production Behemoth was working within.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Developing cymbal setup',
+            details: 'Mixed brands before establishing a fixed endorsement',
+            notes: 'Cymbal choices varied across these early sessions before the Meinl relationship that would define his later sound.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard double bass pedal',
+            details: 'Entry-level chain-drive double pedal',
+            notes: 'Built the stamina and speed that would carry through Demigod and beyond.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Heavy hickory for power and durability',
+            notes: 'Consistent stick choice that carried through his entire Behemoth career.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador / Pinstripe',
+            details: 'Durable double-ply heads for touring',
+            notes: 'Durability-first head selection for the demanding early touring circuit.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2200,
+          inflationAdjusted: 3200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Behemoth in 1997, replacing Baal Ravenlock',
+          'Recording debut on "Satanica" (1999), transitioning the band toward blackened death metal',
+          '"Thelema.6" (2000) and "Zos Kia Cultus" (2002) refined the technical sound',
+          'No fixed gear endorsements yet — developing preferences across these early sessions',
+        ],
+
+        quote: {
+          text: 'When I joined Behemoth, we were figuring out exactly what kind of band we wanted to become. The drumming had to get more technical because the music demanded it.',
+          source: 'Terrorizer Magazine, 2002',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'inferno-2004-international-breakthrough',
+        era: 'International Breakthrough Era',
+        years: '2004–2009',
+        startYear: 2004,
+        endYear: 2009,
+        description: '"Demigod" (2004) became Behemoth\'s international breakthrough, pushing Inferno\'s blast-beat stamina and double bass precision to a global stage. "The Apostasy" (2007) charted on the Billboard 200, and "Evangelion" (2009) pushed the band\'s brutality to a new peak. This era established Inferno\'s flagship Pearl Reference setup and his Meinl Classics Custom Dark cymbal partnership — the dark, controlled tone that blends with Behemoth\'s heavily distorted guitars rather than fighting them.',
+        albums: ['Demigod (2004)', 'The Apostasy (2007)', 'Evangelion (2009)'],
+        tours: ['Behemoth European and North American tours 2004–2009'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple/birch shells, double 22" bass drums',
+            notes: 'Upgrade to Pearl\'s flagship Reference line gave Inferno the projection and consistency needed for "Demigod"\'s international touring schedule.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Reference 14"×5.5"',
+            details: 'Brass/steel shell options',
+            notes: 'Tuned for clarity at extreme blast-beat tempos, replacing the standard steel snare of his developing years.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Meinl Classics Custom Dark / Byzance',
+            details: 'Hi-hats, multiple crashes, ride, China, splash',
+            notes: 'Meinl endorsement established — the dark, controlled tonal character that became Inferno\'s signature sound, blending with Behemoth\'s heavily distorted guitar wall.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct-drive double bass pedal',
+            notes: 'Direct-drive action gave Inferno the instant response his demanding double bass patterns on "Conquer All" and other Demigod-era tracks required.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Continued heavy hickory choice',
+            notes: 'Unchanged from his early Behemoth years.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke P3 / Emperor',
+            details: 'Reinforced batter heads for triggered consistency',
+            notes: 'Heavier-duty heads supporting the trigger-assisted recording approach Behemoth adopted from "The Apostasy" onward.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 6500,
+          inflationAdjusted: 8500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Demigod" (2004) — Behemoth\'s international commercial breakthrough',
+          '"The Apostasy" (2007) reached #149 on the Billboard 200',
+          '"Evangelion" (2009) pushed the band\'s brutality to a new peak',
+          'Established Pearl Reference Series, Meinl Classics Custom Dark cymbals, and Pearl Demon Drive as his core rig',
+        ],
+
+        quote: {
+          text: 'The Demon Drive pedals earn their keep on a track like "Conquer All" — sustained blasting at 200-plus BPM requires both speed and endurance.',
+          source: 'Rhythm Magazine, 2008',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'inferno-2014-the-satanist-era',
+        era: 'The Satanist Era',
+        years: '2014–2018',
+        startYear: 2014,
+        endYear: 2018,
+        description: '"The Satanist" (2014), recorded after Nergal\'s recovery from leukemia, is widely regarded as Behemoth\'s career-defining masterpiece. Inferno\'s drumming across the album balances groove-based dynamics with full-throttle blast beat assault, captured by an upgraded Pearl Reference Pure kit built specifically for extreme metal projection. "I Loved You at Your Darkest" (2018) continued the band\'s critical momentum, earning a Grammy nomination.',
+        albums: ['The Satanist (2014)', 'I Loved You at Your Darkest (2018)'],
+        tours: ['Slayer Final World Tour Support 2018–2019', 'Behemoth headlining tours 2014–2019'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure Series',
+            details: 'Custom finish, double 22"×18" bass drums, triggered for consistency',
+            notes: 'Upgraded to the Reference Pure line for maximum tonal clarity at extreme tempos — Inferno prefers two separate bass drums over a single kick with double pedal for independent tonal control.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Reference 14"×5.5" Brass/Steel',
+            details: 'Alternates shell material by tour/album',
+            notes: 'Die-cast hoops add focus and consistency to the rimshot attacks punctuating "The Satanist"\'s heaviest moments.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Classics Custom Dark / Byzance Brilliant',
+            details: 'Full setup including 19" Byzance Brilliant medium-thin crash',
+            notes: 'Expanded cymbal arsenal for the dynamic range "The Satanist" demands, from atmospheric clean sections to full blast intensity.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Continued direct-drive setup, Pearl Roadster D-3500BR throne',
+            notes: 'Same direct-drive platform, now dialed in for Behemoth\'s biggest theatrical productions and elevated drum riser staging.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B / 2B',
+            details: 'Heavy sticks for power and durability',
+            notes: 'Unchanged stick preference across his entire career.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke P3 Clear w/ Falam Slam patch',
+            details: 'Emperor Clear toms, Emperor X / Evans HD Dry snare',
+            notes: 'Falam Slam patch protects against the punishment of Inferno\'s demanding live performances at "The Satanist"-era intensity.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 8000,
+          inflationAdjusted: 9000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"The Satanist" (2014) — Behemoth\'s career-defining, critically acclaimed masterpiece',
+          'Recorded after Nergal\'s recovery from leukemia',
+          '"I Loved You at Your Darkest" (2018) earned a Grammy nomination',
+          'Upgraded to Pearl Reference Pure Series with triggered double bass drums',
+        ],
+
+        quote: {
+          text: 'Every piece of the kit is pushed to its limits on this record. The Reference Pure shells project through the wall of guitars.',
+          source: 'Drum! Magazine, 2014',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'inferno-2022-modern-era',
+        era: 'Modern Era',
+        years: '2022–Present',
+        startYear: 2022,
+        endYear: 2026,
+        description: '"Opvs Contra Natvram" (2022) confirmed Inferno\'s settled Pearl Reference Pure / Meinl Classics Custom Dark rig as his long-term platform, now refined across 25-plus years with Behemoth. He remains one of extreme metal\'s most consistent performers, with his trigger-supplemented studio approach and elevated drum riser staging continuing to define Behemoth\'s theatrical live shows worldwide.',
+        albums: ['Opvs Contra Natvram (2022)'],
+        tours: ['Behemoth World Tour 2022–2024', 'Download Festival 2020, 2022'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure Series',
+            details: 'Confirmed current configuration, double bass drums',
+            notes: 'Settled platform — over a decade of refinement since "The Satanist" era.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Reference 14"×5.5"',
+            details: 'Confirmed current snare',
+            notes: 'Unchanged from "The Satanist" era — the proven blast-beat foundation.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Classics Custom Dark / Byzance',
+            details: 'Full 7-piece setup: hi-hats, three crashes, ride, China, splash',
+            notes: 'Confirmed current cymbal configuration, dialed in across two decades of Meinl endorsement.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Confirmed current hardware, Pearl Roadster throne',
+            notes: 'Long-running direct-drive platform supporting 25-plus years of relentless blast-beat performance.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B / 2B',
+            details: 'The one constant across his entire career',
+            notes: 'Unchanged since his earliest Behemoth years.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke P3 / Emperor X',
+            details: 'Confirmed current head configuration',
+            notes: 'Settled, heavy-duty heads supporting his trigger-assisted modern production approach.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 8500,
+          inflationAdjusted: 8500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Opvs Contra Natvram" (2022) — most recent Behemoth studio album',
+          'Settled Pearl Reference Pure / Meinl Classics Custom Dark platform confirmed as long-term rig',
+          'Over 25 years as Behemoth\'s drummer — the longest-serving member',
+          'Continued worldwide headlining and festival touring',
+        ],
+
+        quote: {
+          text: 'Behemoth\'s live shows require extreme physical endurance from me. After 25 years, the discipline is the whole job.',
+          source: 'Metal Hammer, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'How long has Inferno been Behemoth\'s drummer?',
+        a: 'Inferno (Zbigniew Robert Promiński) joined Behemoth in 1997, replacing Baal Ravenlock, and has remained the band\'s drummer for over 25 years — the longest-serving member of the lineup. He has performed on every Behemoth album from "Satanica" (1999) onward.',
+      },
+      {
+        q: 'What drum kit does Inferno play?',
+        a: 'Inferno plays a Pearl Reference Pure Series kit with double 22"×18" bass drums, two rack toms, and two floor toms. He prefers two separate triggered bass drums over a single kick with a double pedal, giving him independent tonal control during Behemoth\'s sustained blast-beat passages.',
+      },
+      {
+        q: 'What cymbals does Inferno use?',
+        a: 'Inferno is a Meinl Cymbals endorser, running the Classics Custom Dark series alongside Byzance Brilliant crashes. The "Dark" designation is deliberate — the darker, more controlled tone blends with Behemoth\'s heavily distorted guitars rather than fighting them, unlike the brighter cymbals favored by many extreme metal drummers.',
+      },
+      {
+        q: 'How did Inferno\'s gear change across his Behemoth career?',
+        a: 'Inferno started on developing-era Pearl kits in the late 1990s before upgrading to the flagship Pearl Reference Series during the "Demigod" breakthrough (2004) and establishing his Meinl Classics Custom Dark cymbal partnership. He further upgraded to the Pearl Reference Pure Series for "The Satanist" (2014), which remains his confirmed current setup on "Opvs Contra Natvram" (2022).',
+      },
+      {
+        q: 'What pedals does Inferno use for his double bass drumming?',
+        a: 'Inferno drives his double bass drums with the Pearl Demon Drive Double Pedal, a direct-drive pedal offering instant response. He adopted the Demon Drive during the "Demigod" era (2004) and has used it consistently ever since, crediting its speed and precision for sustaining demanding tracks like "Conquer All" and "Ov Fire and the Void."',
+      },
+      {
+        q: 'What was Inferno\'s most acclaimed album with Behemoth?',
+        a: '"The Satanist" (2014) is widely considered Inferno\'s and Behemoth\'s career-defining masterpiece, recorded after frontman Nergal\'s recovery from leukemia. Inferno\'s drumming on the album balances groove-based dynamics with full-intensity blast beats, captured on his upgraded Pearl Reference Pure kit.',
+      },
+    ],
+
+    metaTitle: 'Inferno Gear Evolution Timeline | Behemoth Drum Kit History',
+    metaDescription: 'Explore Inferno\'s complete drum gear evolution: developing-era Pearl kits (1997) → Pearl Reference breakthrough on "Demigod" (2004) → Pearl Reference Pure / Meinl Classics Custom Dark rig powering "The Satanist" and "Opvs Contra Natvram." 25+ years as Behemoth\'s drummer, era by era.',
+  },
+
+  // ==========================================
+  // John Otto - Limp Bizkit (1994-Present)
+  // ==========================================
+  'john-otto': {
+    slug: 'john-otto',
+    name: 'John Otto',
+    band: 'Limp Bizkit',
+    totalYearsActive: '1994-Present',
+    profileImage: '/images/drummers/john-otto.webp',
+    summary: 'John Otto co-founded Limp Bizkit in 1994 and has remained the band\'s one constant through three decades of lineup changes, hiatuses, and a surprise 2020s commercial revival. His jazz-trained, groove-first drumming evolved alongside his gear — from early Pearl kits on "Three Dollar Bill, Y\'all$" to the custom Orange County Drum and Percussion (OCDP) rig that has powered Limp Bizkit since their commercial peak.',
+
+    eras: [
+      {
+        id: 'john-otto-1994-three-dollar-bill',
+        era: 'Three Dollar Bill / Early Limp Bizkit Era',
+        years: '1994–1998',
+        startYear: 1994,
+        endYear: 1998,
+        description: 'John Otto co-founded Limp Bizkit in Jacksonville, Florida in 1994 alongside Fred Durst and Sam Rivers, building the rap-metal template the band would ride to stardom. "Three Dollar Bill, Y\'all$" (1997) introduced that synthesis nationally — Otto\'s jazz-trained groove sensibility laid the foundation that made the album credible to both metal and hip-hop listeners, a balance that became enormously commercially valuable on the records that followed.',
+        albums: ['Three Dollar Bill, Y\'all$ (1997)'],
+        tours: ['Early Limp Bizkit club and regional touring 1994–1998'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl kit',
+            details: 'Early-career standard configuration',
+            notes: 'No custom or signature gear yet — Otto built his sound on a standard Pearl kit during Limp Bizkit\'s formative Jacksonville years.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl snare',
+            details: 'Standard configuration for the era',
+            notes: 'Off-the-shelf snare typical of a band still establishing itself outside the local scene.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: 'Establishing cymbal endorsement',
+            notes: 'The beginning of a Zildjian relationship that would carry through his entire career.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl hardware / early Gibraltar',
+            details: 'Standard stands and pedal',
+            notes: 'Mixed Pearl and early Gibraltar hardware before settling on a dedicated rig.',
+            change: null,
+          },
+          sticks: {
+            item: 'Zildjian drumsticks',
+            details: 'Standard touring stick',
+            notes: 'Consistent stick brand from his earliest days with the band.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo standard heads',
+            details: 'Coated batter configuration',
+            notes: 'Basic professional head setup for club and regional touring.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 1800,
+          inflationAdjusted: 2800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Co-founded Limp Bizkit in Jacksonville, Florida (1994) with Fred Durst and Sam Rivers',
+          '"Three Dollar Bill, Y\'all$" (1997) — debut album introducing the rap-metal synthesis nationally',
+          'Recommended to the band by bassist Sam Rivers',
+          'Established early Pearl and Zildjian gear relationships',
+        ],
+
+        quote: {
+          text: 'Three Dollar Bill was us figuring out how to make rap and metal actually sound like one thing instead of two things stitched together.',
+          source: 'Modern Drummer Magazine, 2004',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'john-otto-1999-significant-other',
+        era: 'Significant Other / Chocolate Starfish Era',
+        years: '1999–2001',
+        startYear: 1999,
+        endYear: 2001,
+        description: 'Limp Bizkit\'s commercial peak. "Significant Other" (1999) sold over 7 million copies in the US alone and included the Woodstock \'99-defining single "Nookie." "Chocolate Starfish and the Hot Dog Flavored Water" (2000) debuted at #1 on the Billboard 200. Otto\'s drumming across these two albums defines the nu-metal aesthetic at its commercial peak — hip-hop groove structure, heavy rock power, and jazz-trained sensitivity in a single rhythm section.',
+        albums: ['Significant Other (1999)', 'Chocolate Starfish and the Hot Dog Flavored Water (2000)'],
+        tours: ['Family Values Tour 1999', 'Anger Management Tour 2000'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl / transitioning to OCDP',
+            details: 'Custom shell specifications being established',
+            notes: 'Began the transition from off-the-shelf Pearl drums toward Orange County Drum and Percussion as touring demands grew more specific.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Custom snare configuration',
+            details: '14"x6.5" for touring demands',
+            notes: 'Upgraded snare specification to handle the dual demands of arena-level nu-metal power and his jazz-influenced ghost-note sensitivity.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A and A Custom Series',
+            details: 'Expanded crash and hi-hat selection',
+            notes: 'A Custom crashes added for the syncopated, quick-decaying accents his hip-hop influenced playing required.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Gibraltar professional hardware',
+            details: 'Full stand and pedal upgrade',
+            notes: 'Moved to dedicated Gibraltar hardware for the rigors of Family Values and Anger Management tour-level touring.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Zildjian drumsticks',
+            details: 'Continued endorsement',
+            notes: 'Unchanged from his earliest years with the band.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor Coated',
+            details: 'Upgraded touring heads',
+            notes: 'More durable heads for the demands of stadium and festival touring at the band\'s commercial peak.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 3500,
+          inflationAdjusted: 4800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Significant Other" (1999) sold over 7 million copies in the US',
+          'Performed at Woodstock \'99 — controversial but career-defining',
+          '"Chocolate Starfish and the Hot Dog Flavored Water" (2000) debuted at #1 on the Billboard 200',
+          'Began transition from Pearl to custom Orange County Drum and Percussion (OCDP) drums',
+        ],
+
+        quote: {
+          text: 'Modern Drummer called my playing "the grease that makes the Bizkit cook." That\'s exactly what I was going for — groove first, always.',
+          source: 'Modern Drummer Magazine, 2004',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'john-otto-2003-results-may-vary',
+        era: 'Results May Vary / Gold Cobra Era',
+        years: '2003–2011',
+        startYear: 2003,
+        endYear: 2011,
+        description: 'Limp Bizkit weathered lineup changes — including Wes Borland\'s departure and return — across "Results May Vary" (2003) and the original-lineup reunion that produced "Gold Cobra" (2011). Otto remained the band\'s one constant through it all, his fully established OCDP kit providing the groove foundation that brought the band back to a sound closer to the "Significant Other" formula on the reunion record.',
+        albums: ['Results May Vary (2003)', 'Gold Cobra (2011)'],
+        tours: ['Limp Bizkit reunion world tour 2009–2011'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'OCDP custom kit',
+            details: 'Established configuration — maple shells, double bass setup',
+            notes: 'Orange County Drum and Percussion endorsement fully solidified; custom shells configured to Otto\'s cross-genre requirements.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          snare: {
+            item: 'OCDP custom snare',
+            details: '14"x6.5" at medium-high tension',
+            notes: 'Custom OCDP snare matched to his playing rather than off-the-shelf — punch for heavy passages, sensitivity for ghost notes.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Full Zildjian A / A Custom setup',
+            details: 'Hi-hats, multiple crashes, ride, China',
+            notes: 'Complete Zildjian configuration established as his standard touring and recording setup.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Gibraltar Professional Series',
+            details: 'Confirmed throughout this era',
+            notes: 'Road-grade hardware reliable across the original lineup\'s reunion touring.',
+            change: null,
+          },
+          sticks: {
+            item: 'Zildjian drumsticks',
+            details: 'Continued endorsement',
+            notes: 'Unchanged stick choice through lineup changes and reunion.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor Coated / Powerstroke 3',
+            details: 'Settled head configuration',
+            notes: 'Powerstroke 3 added on kick for the focused attack the reunion-era material demanded.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 4500,
+          inflationAdjusted: 5500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Results May Vary" (2003) — first album following Wes Borland\'s initial departure',
+          'Original lineup reunited for "Gold Cobra" (2011)',
+          'OCDP custom kit and snare fully established as signature gear',
+          'Otto remained the band\'s one constant through every lineup shift',
+        ],
+
+        quote: {
+          text: 'Bands change, lineups change. I\'m the guy who\'s been here since Jacksonville, and the drums are how I keep that thread going.',
+          source: 'Rhythm Magazine, 2011',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'john-otto-2021-still-sucks',
+        era: 'Still Sucks / Revival Era',
+        years: '2021–Present',
+        startYear: 2021,
+        endYear: 2026,
+        description: '"Still Sucks" (2021) arrived as a surprise free release and demonstrated that Limp Bizkit\'s audience was larger than anyone anticipated for a nu-metal act in the 2020s. The 2024 touring cycle confirmed the revival, with Otto\'s groove-centered drumming — unchanged in its fundamentals since "Significant Other" — remaining the rhythmic engine of one of nu-metal\'s most commercially significant acts, over thirty years after he co-founded the band.',
+        albums: ['Still Sucks (2021)'],
+        tours: ['Limp Bizkit World Tours 2021–Present'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'OCDP custom kit',
+            details: 'Current configuration, maple shells',
+            notes: 'Confirmed current setup — same OCDP platform established over two decades ago, still serving the band\'s nu-metal revival.',
+            change: null,
+          },
+          snare: {
+            item: 'OCDP custom snare',
+            details: 'Confirmed current snare',
+            notes: 'Unchanged from the established era — the proven crack-and-sensitivity formula.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian full setup',
+            details: 'A and A Custom series, confirmed current',
+            notes: 'Settled cymbal configuration carried into the band\'s commercial revival.',
+            change: null,
+          },
+          hardware: {
+            item: 'Gibraltar hardware',
+            details: 'Confirmed current hardware',
+            notes: 'Continued road-grade reliability for global touring.',
+            change: null,
+          },
+          sticks: {
+            item: 'Zildjian drumsticks',
+            details: 'The one constant across his entire career',
+            notes: 'Unchanged since "Three Dollar Bill, Y\'all$."',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor Coated / Powerstroke 3',
+            details: 'Confirmed current configuration',
+            notes: 'Settled head setup supporting the band\'s renewed global touring schedule.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5000,
+          inflationAdjusted: 5000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Still Sucks" (2021) — surprise free release, first album in a decade',
+          '2024 touring cycle confirmed Limp Bizkit\'s nu-metal revival',
+          'OCDP / Zildjian / Gibraltar platform settled as his confirmed current rig',
+          'Over thirty years as Limp Bizkit\'s drummer — the band\'s one constant',
+        ],
+
+        quote: {
+          text: 'I never thought we\'d be playing to bigger crowds in our fifties than we did in our twenties, but here we are. The groove never changed — the audience just caught back up to it.',
+          source: 'Drum! Magazine, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum gear has John Otto used throughout his career?',
+        a: 'John Otto started on a standard Pearl kit during Limp Bizkit\'s "Three Dollar Bill, Y\'all$" era (1997), transitioned to custom Orange County Drum and Percussion (OCDP) drums during the band\'s "Significant Other" commercial peak (1999), and has used a fully established OCDP custom kit with Zildjian cymbals and Gibraltar hardware ever since — including on the 2021 comeback album "Still Sucks."',
+      },
+      {
+        q: 'What drum kit does John Otto play now?',
+        a: 'John Otto currently plays an Orange County Drum and Percussion (OCDP) custom kit — a California-built rig configured to his specifications, with maple shells, a double bass configuration, two rack toms, and two floor toms. He pairs it with a full Zildjian A/A Custom cymbal setup, Gibraltar hardware, Zildjian sticks, and Remo heads.',
+      },
+      {
+        q: 'Did John Otto always play OCDP drums?',
+        a: 'No. Otto played a standard Pearl kit during Limp Bizkit\'s early years, including "Three Dollar Bill, Y\'all$" (1997). He began transitioning to custom OCDP drums during the "Significant Other" era (1999) as his career and gear requirements became more specific, and the OCDP relationship became fully established by the "Results May Vary" (2003) and "Gold Cobra" (2011) era.',
+      },
+      {
+        q: 'How long has John Otto been Limp Bizkit\'s drummer?',
+        a: 'John Otto co-founded Limp Bizkit in Jacksonville, Florida in 1994 alongside Fred Durst and Sam Rivers, and has remained the band\'s drummer continuously for over thirty years — the only member to appear on every Limp Bizkit album and tour, through every lineup change.',
+      },
+      {
+        q: 'What cymbals and sticks does John Otto use?',
+        a: 'John Otto has been a Zildjian endorser since Limp Bizkit\'s earliest years, running a mix of A Series and A Custom cymbals (hi-hats, crashes, ride, China) chosen for their bright projection at festival volumes and quick response for his hip-hop influenced accent work. He uses Zildjian drumsticks as well, a consistent choice across his entire career.',
+      },
+      {
+        q: 'What was John Otto\'s drum setup during Limp Bizkit\'s commercial peak?',
+        a: 'During "Significant Other" (1999) and "Chocolate Starfish and the Hot Dog Flavored Water" (2000) — the two albums that defined Limp Bizkit\'s commercial peak — Otto was transitioning from Pearl drums to custom OCDP, running Zildjian A and A Custom cymbals and upgraded Gibraltar hardware to handle the demands of arena-level touring on the Family Values and Anger Management tours.',
+      },
+    ],
+
+    metaTitle: 'John Otto Gear Evolution Timeline | Limp Bizkit Drum Kit History',
+    metaDescription: 'Explore John Otto\'s complete drum gear evolution: early Pearl kit on "Three Dollar Bill, Y\'all$" (1997) → custom OCDP transition during "Significant Other" (1999) → settled OCDP/Zildjian rig powering "Gold Cobra" and "Still Sucks." Thirty years as nu-metal\'s groove king, era by era.',
+  },
+
+  // ==========================================
+  // Jaska Raatikainen - Children of Bodom (1993-2019)
+  // ==========================================
+  'jaska-raatikainen': {
+    slug: 'jaska-raatikainen',
+    name: 'Jaska Raatikainen',
+    band: 'Children of Bodom',
+    totalYearsActive: '1993-2019',
+    profileImage: '/images/drummers/jaska-raatikainen.webp',
+    summary: 'Jaska Raatikainen co-founded Children of Bodom in 1993 and drummed on every album the band released across its 26-year career, from "Something Wild" (1997) to "Hexed" (2019). His gear evolution is one of steady refinement rather than reinvention — a Pearl Masters Premium Maple kit and Pearl Eliminator double pedal that grew from a developing endorsement into the fully dialed-in platform behind Children of Bodom\'s defining melodic death metal catalog.',
+
+    eras: [
+      {
+        id: 'jaska-raatikainen-1997-something-wild',
+        era: 'Something Wild / Hatebreeder Era',
+        years: '1997–1999',
+        startYear: 1997,
+        endYear: 1999,
+        description: 'Raatikainen co-founded what became Children of Bodom (originally Inearthed) with Alexi Laiho in 1993, and the band\'s 1997 debut "Something Wild" established the neoclassical speed metal meets death metal template. "Hatebreeder" (1999) brought international recognition, blending keyboard-driven neoclassical melodies with death metal aggression. His double-bass work on tracks like "Children of Bodom" and "Warheart" set the technical template the band would refine for the next two decades.',
+        albums: ['Something Wild (1997)', 'Hatebreeder (1999)'],
+        tours: ['Early Children of Bodom European club tours 1997–1999'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl drums (developing endorsement)',
+            details: 'Standard production shells',
+            notes: 'Developing Pearl Masters endorsement relationship — not yet the flagship configuration that would define his later career.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl snare',
+            details: 'Tuned medium-bright',
+            notes: 'Bright tuning for cut, suited to the raw Finnish death metal production of the band\'s earliest releases.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: 'Early relationship, developing toward A Custom',
+            notes: 'Foundational Zildjian endorsement that would expand into a full A Custom/K Custom setup by the mid-2000s.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl pedals',
+            details: 'Early double-kick configuration',
+            notes: 'Early double bass setup building the stamina his technical double-kick work would require throughout the band\'s catalog.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth sticks',
+            details: 'Standard configuration',
+            notes: 'Early stick choice ahead of his American Classic 5A endorsement.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo standard heads',
+            details: 'Coated/clear configuration',
+            notes: 'Standard professional head setup for the band\'s earliest touring.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2000,
+          inflationAdjusted: 3200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Co-founded Inearthed (later Children of Bodom) with Alexi Laiho in 1993',
+          '"Something Wild" (1997) — debut album establishing the band\'s sound',
+          '"Hatebreeder" (1999) brought international recognition',
+          'Developing Pearl drums and Zildjian cymbals endorsements',
+        ],
+
+        quote: {
+          text: 'Hatebreeder was the album where people outside Finland started paying attention. We had to deliver live, and that meant the drumming had to be airtight.',
+          source: 'Terrorizer Magazine, 2000',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'jaska-raatikainen-2000-follow-the-reaper',
+        era: 'Follow the Reaper / Hate Crew Deathroll Era',
+        years: '2000–2003',
+        startYear: 2000,
+        endYear: 2003,
+        description: '"Follow the Reaper" (2000) is widely considered Children of Bodom\'s defining statement, with tracks like "Needled 24/7" and "Sixpounder" demonstrating Raatikainen\'s ability to sustain complex double-kick patterns against guitar runs that shift meter mid-phrase. "Hate Crew Deathroll" (2003), the band\'s commercial peak, pushed the setup harder — the newly adopted Pearl Eliminator pedal and Pearl Masters Premium Maple kit proving their endurance across an unrelenting touring schedule.',
+        albums: ['Follow the Reaper (2000)', 'Hate Crew Deathroll (2003)'],
+        tours: ['Children of Bodom European and US club tours 2000–2003'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Premium Maple',
+            details: 'Flagship endorsement solidified, six-ply all-maple shells',
+            notes: 'Upgrade to Pearl\'s flagship production line gave Raatikainen the focused, projecting tone melodic death metal requires.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Masters 14"×5.5" Maple',
+            details: 'Confirmed snare for the defining era',
+            notes: 'Maple shell construction balances warmth with the cut needed to sit against Alexi Laiho\'s neoclassical guitar runs.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: 'Hi-hats, crashes; developing K Custom ride relationship',
+            notes: 'Upgraded to A Custom for the brighter, faster-responding cymbals his melodic fill work demands.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Bass Pedal',
+            details: 'Interchangeable cam system',
+            notes: 'Adopted the Eliminator for its dual-chain drive consistency, sustaining complex double-kick patterns through "Follow the Reaper"\'s technical demands.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A',
+            details: 'Established signature stick choice',
+            notes: 'Lighter 5A model suited to the speed and articulation his technical playing required.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Remo Emperor/Ambassador',
+            details: 'Standard touring configuration',
+            notes: 'Durable heads matched to the band\'s relentless early-2000s touring schedule.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4500,
+          inflationAdjusted: 6500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Follow the Reaper" (2000) — widely considered Children of Bodom\'s defining album',
+          '"Hate Crew Deathroll" (2003) — the band\'s commercial peak',
+          'Pearl Masters Premium Maple and Pearl Eliminator double pedal established as core gear',
+          'Vic Firth American Classic 5A sticks adopted',
+        ],
+
+        quote: {
+          text: 'Needled 24/7 and Sixpounder need a pedal that responds exactly the same way every single time. The Eliminator\'s cam system let me dial that in.',
+          source: 'Rhythm Magazine, 2001',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'jaska-raatikainen-2005-are-you-dead-yet',
+        era: 'Are You Dead Yet? / Blooddrunk Era',
+        years: '2005–2008',
+        startYear: 2005,
+        endYear: 2008,
+        description: '"Are You Dead Yet?" (2005) achieved the widest mainstream reach of any Children of Bodom album. Raatikainen\'s drumming on "In Your Face" and "Are You Dead Yet?" showed his ability to adapt to slightly more accessible song structures without abandoning the technical double-bass vocabulary that defined earlier material. "Blooddrunk" (2008) continued that evolution with a heavier, more direct sound, and his full Zildjian A Custom/K Custom cymbal setup reached its established configuration.',
+        albums: ['Are You Dead Yet? (2005)', 'Blooddrunk (2008)'],
+        tours: ['Ozzfest 2006', 'Children of Bodom European and US tours 2005–2008'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Premium Maple',
+            details: 'Consistent touring configuration',
+            notes: 'Same flagship platform from the defining era, now fully dialed in for the band\'s widest mainstream exposure.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Masters 14"×5.5" Maple',
+            details: 'Confirmed configuration',
+            notes: 'Unchanged from the "Follow the Reaper" era — the proven melodic death metal snare voice.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom crashes, K Custom ride',
+            details: 'Full setup established',
+            notes: 'K Custom ride added for darker, more atmospheric overhead texture during the band\'s quieter, more melodic passages.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Pearl Eliminator double bass pedal',
+            details: 'Confirmed configuration',
+            notes: 'Continued reliability across the Ozzfest 2006 run and extensive European/US touring.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A',
+            details: 'Continued endorsement',
+            notes: 'Unchanged from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor/Ambassador',
+            details: 'Continued configuration',
+            notes: 'Same durable head setup supporting the band\'s biggest touring cycle to date.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4500,
+          inflationAdjusted: 6000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Are You Dead Yet?" (2005) — widest mainstream reach of any Children of Bodom album',
+          'Ozzfest 2006 — major US festival exposure',
+          '"Blooddrunk" (2008) continued the band\'s evolution with a heavier sound',
+          'Full Zildjian A Custom/K Custom cymbal setup established',
+        ],
+
+        quote: {
+          text: 'Are You Dead Yet? had to work on rock radio without losing what made us Children of Bodom. The drums still had to hit like a freight train underneath the hooks.',
+          source: 'Metal Hammer, 2005',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'jaska-raatikainen-2013-halo-of-blood',
+        era: 'Halo of Blood / I Worship Chaos Era',
+        years: '2013–2019',
+        startYear: 2013,
+        endYear: 2019,
+        description: '"Halo of Blood" (2013) marked a return to the melodic focus that defined the band\'s early albums, and "I Worship Chaos" (2015) continued that mature direction — technically demanding but more compositionally focused than the peak-speed material of the early 2000s. Children of Bodom released their final album, "Hexed," in 2019 before announcing dissolution, closing a 26-year run with Raatikainen\'s Pearl Masters Premium Maple and Pearl Eliminator setup unchanged at its core since the early 2000s.',
+        albums: ['Halo of Blood (2013)', 'I Worship Chaos (2015)', 'Hexed (2019)'],
+        tours: ['A Chapter Called Children of Bodom Tour 2019'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Premium Maple',
+            details: 'Updated custom finish',
+            notes: 'Most fully documented configuration of his career — the same shell line refined across nearly two decades.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Masters 14"×5.5" Maple',
+            details: 'Confirmed final-era snare',
+            notes: 'Unchanged core snare voice across the band\'s entire mature catalog.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom 14" Hi-Hats, 17"/18" Crashes, 20" K Custom Ride',
+            details: 'Fully documented final configuration',
+            notes: 'The most complete and consistent cymbal setup of his career, carried through the band\'s farewell tour.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Eliminator double bass pedal',
+            details: 'Confirmed final-era hardware',
+            notes: 'Same interchangeable-cam platform from 2000 onward — two decades of mechanical consistency.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A',
+            details: 'Confirmed final-era sticks',
+            notes: 'Unchanged since "Follow the Reaper" — the consistent stick choice across his entire Children of Bodom tenure.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor/Ambassador',
+            details: 'Confirmed final-era heads',
+            notes: 'Same durable configuration through to the band\'s final tour in 2019.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5000,
+          inflationAdjusted: 5800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Halo of Blood" (2013) — return to the band\'s melodic roots',
+          '"I Worship Chaos" (2015) — mature, compositionally focused direction',
+          '"Hexed" (2019) — final Children of Bodom album before the band\'s dissolution',
+          '"A Chapter Called Children of Bodom" farewell tour closed a 26-year career',
+        ],
+
+        quote: {
+          text: 'Twenty-six years with the same band, the same guys, mostly the same gear. When something works, you don\'t fix it — you refine it.',
+          source: 'Modern Drummer Magazine, 2019',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'How did Jaska Raatikainen\'s gear change across Children of Bodom albums?',
+        a: 'Jaska Raatikainen\'s gear evolved through steady refinement rather than wholesale changes. He started on a developing Pearl endorsement during "Something Wild" (1997) and "Hatebreeder" (1999), upgraded to the flagship Pearl Masters Premium Maple kit and adopted the Pearl Eliminator double pedal during "Follow the Reaper" (2000) and "Hate Crew Deathroll" (2003), and carried that same core setup — refined with an expanded Zildjian A Custom/K Custom cymbal configuration — through to the band\'s final album, "Hexed" (2019).',
+      },
+      {
+        q: 'What drum kit did Jaska Raatikainen play in Children of Bodom?',
+        a: 'Jaska Raatikainen played a Pearl Masters Premium Maple kit — a six-ply all-maple shell pack — throughout the majority of Children of Bodom\'s career, paired with a Pearl Masters 14"×5.5" maple snare. His double bass configuration used two 22"×18" kick drums with a compact two rack tom/two floor tom spread suited to the band\'s melodic fill-heavy material.',
+      },
+      {
+        q: 'What pedal did Jaska Raatikainen use?',
+        a: 'Raatikainen used the Pearl Eliminator double bass pedal from "Follow the Reaper" (2000) onward. Its defining feature is an interchangeable cam system — round, oval, and tri-cam options — that let him adjust the pedal\'s acceleration curve to his heel-up technique, providing the mechanical consistency his complex double-kick patterns demanded across two decades.',
+      },
+      {
+        q: 'Why did Children of Bodom break up?',
+        a: 'Children of Bodom announced their dissolution in 2019 after a 26-year career, releasing "Hexed" as their final album and playing a farewell tour, "A Chapter Called Children of Bodom." Guitarist and vocalist Alexi Laiho passed away in December 2020, permanently sealing the band\'s legacy.',
+      },
+      {
+        q: 'Did Jaska Raatikainen play on every Children of Bodom album?',
+        a: 'Yes. Raatikainen co-founded the band (originally as Inearthed) with Alexi Laiho in 1993 and performed on every Children of Bodom studio album from "Something Wild" (1997) through "Hexed" (2019) — a complete 26-year, ten-album discography.',
+      },
+      {
+        q: 'What cymbals did Jaska Raatikainen use?',
+        a: 'Raatikainen used a Zildjian setup that grew from a basic A Series configuration in the late 1990s into a full A Custom and K Custom combination by the mid-2000s — A Custom hi-hats and crashes for bright projection, and a K Custom ride for darker, more atmospheric texture during Children of Bodom\'s quieter, neoclassical passages.',
+      },
+    ],
+
+    metaTitle: 'Jaska Raatikainen Gear Evolution Timeline | Children of Bodom Drum Kit History',
+    metaDescription: 'Explore Jaska Raatikainen\'s complete drum gear evolution: developing Pearl endorsement on "Something Wild" (1997) → Pearl Masters Premium Maple/Eliminator breakthrough on "Follow the Reaper" (2000) → refined setup through "Hexed" (2019). A 26-year, ten-album Children of Bodom journey, era by era.',
+  },
 };
 
 /**

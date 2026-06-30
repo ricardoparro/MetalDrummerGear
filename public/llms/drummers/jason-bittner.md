@@ -35,6 +35,12 @@ Jason Bittner (born August 19, 1970, in Waterbury, Connecticut) is an American d
 
 Bittner rose to prominence with Shadows Fall during the early 2000s metalcore explosion, contributing to Grammy-nominated albums. Following Shadows Fall's hiatus, he joined Flotsam and Jetsam before becoming Overkill's drummer in 2017, continuing the legacy of one of thrash metal's most enduring bands.
 
+## Kit Overview
+
+Jason Bittner's drum kit is a Mapex Saturn V build — the all-maple shell pack he has used since joining Overkill in 2017, after building his reputation on the same platform across more than a decade with Shadows Fall, including the band's Grammy-nominated breakthrough The War Within (2004). The Jason Bittner drum set centers on his Mapex Black Panther 14x6.5" Brass snare, delivering the steel-edged crack that cuts through both NWOAHM's layered metalcore arrangements and Overkill's dense thrash riffing on records like The Art of Balance (2002).
+
+Zildjian K & A Custom Series cymbals complete the Jason Bittner drum kit: 14" K Hi-Hats for tight, controlled articulation; 18" and 19" A Custom Crashes for fast, explosive accents; a 21" K Custom Ride for dark rhythmic clarity; and an 18" K China for aggressive punctuation. A Mapex Falcon double pedal and Mapex T865 throne anchor the hardware, powering the sustained double-kick passages that define his dual NWOAHM/thrash vocabulary. Promark Jason Bittner Signature 5BX sticks and Evans heads complete a drum set built for two of metal's most demanding rhythmic traditions. For the full breakdown, see [Bittner's complete drum setup](/articles/jason-bittner-drum-setup), [his gear on The War Within](/articles/the-war-within-drum-setup), and the [cymbal setup](/drummer/jason-bittner/cymbals).
+
 ## Band History
 
 - **Overkill** — 2017–present (current)

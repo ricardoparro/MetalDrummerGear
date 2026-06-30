@@ -34,6 +34,12 @@ Matt Garstka (born April 27, 1989, in Westfield, Massachusetts) is an American d
 
 Garstka joined Animals as Leaders after the departure of original drummer Navene Koperweis, bringing a jazz-educated sensibility to the band's technical instrumental music. His approach—combining traditional grip, linear independence, and a deep understanding of metric modulation—has made him one of the most influential drummers of his generation. Beyond Animals as Leaders, Garstka is an in-demand educator and session musician.
 
+## Kit Overview
+
+Matt Garstka's drum kit is a Tama Starclassic Walnut/Birch build — the hybrid shell pack he has used as Animals as Leaders' drummer since 2012, chosen for the warm low end and crisp attack his polyrhythmic, jazz-fusion-infused metal requires. The Matt Garstka drum set centers on his Tama S.L.P. 14x6" G-Maple signature snare, delivering the articulate crack that cuts through dense odd-meter passages on The Joy of Motion (2014) and The Madness of Many (2016).
+
+Meinl Byzance Series cymbals complete the Matt Garstka drum kit: 15" Dual Hi-Hats for nuanced, washy articulation; 18" and 20" Extra Dry Medium Crashes for quick-decaying accents; and a 22" Dual Ride for complex rhythmic definition. A Tama Speed Cobra 910 double pedal drives the intricate, ghost-note-laced double bass patterns central to Garstka's linear independence, while Vic Firth Matt Garstka Signature sticks and Evans heads complete a drum set built for the technical demands of instrumental progressive metal. For the full gear breakdown, see [what's in Matt Garstka's kit](/articles/whats-in-matt-garstkas-kit), the [Mike Mangini vs. Matt Garstka technique comparison](/vs/mike-mangini-vs-matt-garstka), and the [complete cymbal setup](/drummer/matt-garstka/cymbals).
+
 ## Band History
 
 - **Animals as Leaders** — 2012–present (current)

@@ -34,6 +34,12 @@ Blake Richardson (born February 25, 1984, in Winston-Salem, North Carolina) is a
 
 Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "The Parallax" series has earned him critical acclaim and a devoted following among drummers. His ability to navigate complex compositions while maintaining musicality and groove has made him an influential figure in modern progressive metal.
 
+## Kit Overview
+
+Blake Richardson's drum kit is a Tama Starclassic Bubinga build in a custom finish — the dense, focused-tone shell pack he has used as Between the Buried and Me's drummer since 2005, prized for the tight low end and explosive attack progressive metal's constantly shifting time signatures demand. The Blake Richardson drum set is anchored by his Tama STARPHONIC 14x6" Brass snare, delivering the cutting crack that drives BTBAM's blast beats and odd-meter grooves across landmark records like Colors (2007) and The Parallax II: Future Sequence (2012).
+
+Sabian cymbals round out the Blake Richardson drum kit: 14" HHX Evolution Hi-Hats for crisp articulation, an 18" HHX Evolution Crash for explosive accents, 17" and 21" AAX Holy Chinas for aggressive color, a 21" HH Raw Bell Dry Ride for rhythmic clarity, and a 10" HH Duo Splash plus 9" Radia Cup Chime for textural detail. Twin Tama Iron Cobra Power Glide single pedals power his independent double-kick patterns, while Vic Firth American Classic 3A sticks and Evans heads complete a drum set engineered for BTBAM's genre-spanning compositions. For the full breakdown, see Richardson's setup on [Colors](/articles/colors-drum-setup) and [The Parallax II: Future Sequence](/articles/the-parallax-ii-future-sequence-drum-setup), plus the [complete cymbal setup](/drummer/blake-richardson/cymbals).
+
 ## Band History
 
 - **Between the Buried and Me** — 2005–present (current)

@@ -695,6 +695,354 @@ export const articles = {
       "title": "The Benchmark Recording",
       "content": "*Fear of a Blank Planet* (2007) is the recording that made Gavin Harrison's approach to progressive metal drumming a benchmark rather than a curiosity. The combination of his Sonor SQ2 custom kit, Zildjian K Custom Special Dry cymbals, Sonor Gavin Harrison Signature snares, and Sonor Perfect Balance Pedal was not assembled for this album — it was a rig developed over years of exacting progressive music. But *Fear of a Blank Planet* is where every element of that rig is tested to its limit and the result is one of the most complete demonstrations of what a drum kit can do in a rock context.\n\nThe title track, \"Anesthetize,\" and the rest of the album have been studied in drum education programmes, transcribed in drumming publications, and cited by working drummers across every genre as a reference point for dynamic range, polyrhythmic integration, and the musical application of odd time signatures. Harrison achieves this not through volume or flash but through precision: the right instrument, configured correctly, played by a musician who has spent decades understanding what each element contributes.\n\nFor drummers approaching this gear:\n\n- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)\n- **Gavin Harrison kit guide**: [Gavin Harrison Porcupine Tree Drum Setup](/articles/gavin-harrison-porcupine-tree-drum-setup)\n- **Full gear profile**: [What's In Gavin Harrison's Kit](/articles/whats-in-gavin-harrisons-kit)\n- **LLM summary**: [Fear of a Blank Planet Drum Setup — LLM](/llms/articles/fear-of-a-blank-planet-drum-setup.md)\n\nThe most important thing *Fear of a Blank Planet* demonstrates is that technical complexity and emotional directness are not opposites in drumming. Harrison's rig makes both possible simultaneously, and the album is the proof."
     }
+  },
+  "the-incident-drum-setup": {
+    "slug": "the-incident-drum-setup",
+    "articleType": "drummer-kit",
+    "drummer": "Gavin Harrison",
+    "drummerId": 47,
+    "band": "Porcupine Tree",
+    "bands": [
+      "Porcupine Tree",
+      "King Crimson",
+      "The Pineapple Thief"
+    ],
+    "albumTitle": "The Incident",
+    "artist": "Porcupine Tree",
+    "relatedDrummerSlug": "gavin-harrison",
+    "year": 2009,
+    "albumYear": 2009,
+    "genre": "Progressive Rock / Progressive Metal",
+    "label": "Roadrunner Records",
+    "studio": "Air Lyndhurst Studios, London (additional sessions at No-Man's Land, Monkey Puzzle, Bourne Place and Red Room Recorders)",
+    "producer": "Porcupine Tree (self-produced); mixed by Steven Wilson",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-30",
+    "dateModified": "2026-06-30",
+    "author": "MetalForge Editorial",
+    "title": "Gavin Harrison's Drum Setup on Porcupine Tree's The Incident (2009)",
+    "description": "Gavin Harrison's kit on Porcupine Tree's double-disc concept album The Incident (2009) — Sonor SQ2 drums and Zildjian K Custom Special Dry cymbals on PT's most ambitious record.",
+    "seoKeywords": [
+      "the incident drums",
+      "gavin harrison 2009 kit",
+      "porcupine tree incident drum setup",
+      "gavin harrison sonor sq2 2009",
+      "the incident drum recording",
+      "porcupine tree grammy nomination drums"
+    ],
+    "ogImage": "/images/drummers/gavin-harrison.webp",
+    "intro": {
+      "title": "Fifty-Five Minutes, One Take of Concentration",
+      "content": "Released September 14, 2009, *The Incident* is Porcupine Tree's most structurally ambitious record and the last album the band released before a thirteen-year hiatus. Disc One is a single 55-minute song cycle — fourteen continuous movements under the umbrella title \"The Incident\" — that Gavin Harrison had to perform as one sustained dramatic arc rather than a collection of separate songs. Disc Two collects four standalone tracks (\"Flicker,\" \"Bonnie the Cat,\" \"Black Dahlia,\" and \"Remember Me Lover\") recorded outside the suite, giving Harrison a second, more conventional context within the same release.\n\nThe two-disc structure put very different demands on Harrison's drumming and, by extension, his gear. Across the title suite, movements like \"Occam's Razor,\" \"The Blind House,\" \"Great Expectations,\" and \"Drawing the Line\" flow into one another without pause, meaning tonal and dynamic transitions had to happen drum-stroke by drum-stroke rather than song to song. \"Time Flies,\" at nearly twelve minutes the suite's longest movement, compresses an entire pop-to-prog arc — chiming verses giving way to an extended polyrhythmic instrumental section — into a single piece, while the closing \"I Drive the Hearse\" needed to land as a final statement after fifty minutes of buildup.\n\nHarrison brought the same Sonor SQ2 custom kit and Zildjian K Custom Special Dry cymbal setup he had refined on *In Absentia*, *Deadwing*, and *Fear of a Blank Planet* — by 2009 a thoroughly battle-tested rig built specifically for the dynamic range and rhythmic layering Steven Wilson's writing demands. *The Incident* earned Porcupine Tree a Grammy nomination for Best Surround Sound Album, a recognition that owed as much to the clarity and separation of Harrison's drum recording in the 5.1 mix as to the album's songwriting.",
+      "keyPoints": [
+        "Disc One: a single 55-minute, 14-movement song cycle performed as one continuous dramatic arc",
+        "Disc Two: four standalone tracks — \"Flicker,\" \"Bonnie the Cat,\" \"Black Dahlia,\" \"Remember Me Lover\"",
+        "Grammy-nominated for Best Surround Sound Album (2010)",
+        "Same Sonor SQ2 / Zildjian K Custom Special Dry rig carried over from Fear of a Blank Planet",
+        "Final Porcupine Tree studio album before the band's 13-year hiatus (2010–2022)",
+        "Charted at #23 UK, #25 US Billboard 200"
+      ]
+    },
+    "drumKit": {
+      "title": "The Sonor SQ2: Built to Sustain a 55-Minute Arc",
+      "brand": "Sonor",
+      "model": "Sonor SQ2 Series",
+      "finish": "Custom maple — configured to Harrison's specifications",
+      "config": {
+        "bassdrums": [
+          "22\" x 17\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 13\" Floor Tom",
+          "16\" x 15\" Floor Tom"
+        ],
+        "shells": "Premium maple — thin shells for sensitivity and resonance"
+      },
+      "description": "By the time Porcupine Tree began writing *The Incident* in late 2008, Harrison's Sonor SQ2 configuration had been refined across two album cycles and was unchanged in its core specification: thin maple shells, a 22\" bass drum sized for articulation rather than raw power, and a four-tom spread tuned in musical intervals. What *The Incident* asked of the kit was different from *Fear of a Blank Planet*, though — not just dynamic range within a single song, but tonal consistency across fifty-five uninterrupted minutes.\n\nThe title suite moves through wildly different drumming contexts without a break between tracks: the hushed brushwork-adjacent texture of \"Great Expectations,\" the driving full-kit groove of the title track \"The Incident,\" and the extended polyrhythmic workout in the back half of \"Time Flies\" all happen within the same continuous performance. The SQ2's thin shells made that range possible from a single, unchanging setup — Harrison never needed to swap kits or drums mid-suite because the shells themselves respond accurately whether he's playing a whispered ghost note or a full accent.\n\nThe smaller 22\" bass drum again proves essential on disc two's more song-oriented tracks, particularly \"Bonnie the Cat\" and \"Black Dahlia,\" where the kick needs to articulate distinct patterns rather than simply drive a backbeat.",
+      "notes": [
+        "Same core SQ2 specification carried over from In Absentia, Deadwing and Fear of a Blank Planet",
+        "Thin maple shells provide the tonal consistency needed across an uninterrupted 55-minute suite",
+        "22\" kick chosen for articulation over disc one's shifting movements and disc two's song-based tracks",
+        "Four toms tuned in musical intervals for the suite's extended melodic fill passages"
+      ],
+      "estimatedValue": "$6,000–9,000 (custom Sonor SQ2 shell pack)"
+    },
+    "snare": {
+      "title": "Sonor Gavin Harrison Signature: Carrying the Suite",
+      "brand": "Sonor",
+      "model": "Sonor Gavin Harrison Signature Snare",
+      "size": "14\" x 5.25\" (primary) and 12\" Protean (auxiliary)",
+      "shell": "Brass (14\" primary) / varies (12\" Protean)",
+      "description": "Harrison's 14\" x 5.25\" brass Signature snare remained his primary voice on *The Incident*, and the suite format made its dynamic range more important than ever. Because the fourteen movements run together, the snare has to credibly shift register from the restrained, textural patterns of \"Kneel and Disconnect\" to the driving backbeat of \"Drawing the Line\" within the same uninterrupted performance — there's no track break to reset the listener's ear, so the drum itself has to do the dynamic storytelling.\n\nThe 12\" Protean snare gets dedicated use on disc two, where its tighter, more focused attack suits the comparatively conventional song structures of \"Flicker\" and \"Remember Me Lover\" — tracks that sit closer to straightforward rock arrangements than anything on the title suite. Both snares stay tuned medium to medium-high, the same setting Harrison has used since *In Absentia*, prioritizing responsiveness at low volume over raw projection.",
+      "tuningSetting": "Medium to medium-high — consistent across both discs for dynamic continuity",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$600–900 (Gavin Harrison Signature Snares)"
+    },
+    "cymbals": {
+      "title": "Zildjian K Custom Special Dry: Clarity Across Fourteen Movements",
+      "brand": "Zildjian",
+      "series": "K Custom Special Dry",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian 14\" K Custom Special Dry Hi-Hats",
+          "position": "Left side",
+          "notes": "Dry, quick decay — keeps fast patterns articulate across the suite's tempo changes"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 16\" K Custom Special Dry Crash",
+          "position": "Left of hi-hats",
+          "notes": "Quick-clearing accent cymbal for movement-to-movement transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 18\" K Custom Special Dry Crash",
+          "position": "Over rack toms",
+          "notes": "Primary crash marking the suite's section breaks"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian 21\" K Custom Special Dry Ride",
+          "position": "Right side",
+          "notes": "Carries the bulk of the suite's groove-based passages"
+        },
+        {
+          "type": "China/Trash",
+          "model": "Zildjian 18\" K Custom Trash China",
+          "position": "Above floor tom",
+          "notes": "Used sparingly for the suite's more aggressive accents, including the title track"
+        }
+      ],
+      "description": "The Zildjian K Custom Special Dry series — the line Harrison co-developed with Zildjian — does the same essential job on *The Incident* that it did on *Fear of a Blank Planet*: it decays fast enough that layered, polyrhythmic patterns stay individually audible instead of blurring into wash. On a 55-minute continuous suite, that quality matters even more, because there's no silence between movements for cymbal decay to clear naturally. Each crash and ride stroke needs to finish its job and get out of the way before the next movement begins.\n\nThe 21\" Special Dry Ride anchors most of the suite's groove-driven sections, including the title track and \"Drawing the Line,\" while the 14\" Special Dry Hi-Hats handle the intricate, conversational patterns in quieter movements like \"Your Unpleasant Family\" and \"The Yellow Windows of the Evening Train.\" The 18\" Trash China gets reserved for the suite's handful of genuinely aggressive moments, giving those passages a sharper contrast against an otherwise controlled, dry cymbal palette.",
+      "notes": [
+        "Same Special Dry setup developed with Harrison for Fear of a Blank Planet",
+        "Fast decay prevents cymbal wash from blurring the suite's movement-to-movement transitions",
+        "21\" Special Dry Ride carries most of the title suite's groove-based sections",
+        "18\" Trash China reserved for the suite's sharper accents"
+      ],
+      "estimatedValue": "$1,800–2,500 (full K Custom Special Dry setup)"
+    },
+    "hardware": {
+      "title": "Sonor Perfect Balance Pedal",
+      "pedals": "Sonor Perfect Balance Pedal",
+      "hihatStand": "Sonor 600 Series Hi-Hat Stand",
+      "throne": "Sonor Professional Throne",
+      "stands": "Sonor 600 Series",
+      "description": "Harrison's Sonor Perfect Balance Pedal made the same dynamic-control contribution on *The Incident* that it had on the two previous albums — even resistance through the full stroke, allowing precise bass drum dynamics rather than an on/off kick. On a continuous 55-minute performance, pedal consistency becomes a practical necessity as much as a musical one: Harrison needed the same reliable feel from the first bar of \"Occam's Razor\" to the last bar of \"I Drive the Hearse\" without the pedal's response drifting over the length of the take.",
+      "notes": [
+        "Perfect Balance Pedal for consistent dynamic control across the suite's full 55-minute length",
+        "Low throne and flat cymbal placement carried over from prior Porcupine Tree sessions",
+        "Full Sonor 600 Series hardware for stability through extended continuous performance"
+      ],
+      "estimatedValue": "$1,200–1,600 (full hardware package)"
+    },
+    "faq": [
+      {
+        "question": "What drums and cymbals does Gavin Harrison use on The Incident?",
+        "answer": "Gavin Harrison recorded The Incident (2009) on the same rig he used for Fear of a Blank Planet: a custom Sonor SQ2 Series kit with thin maple shells (22\" x 17\" bass drum, 10\" and 12\" rack toms, 14\" and 16\" floor toms), Zildjian K Custom Special Dry cymbals (21\" Ride, 14\" Hi-Hats, 16\" and 18\" crashes, 18\" Trash China), and a Sonor Gavin Harrison Signature 14\" x 5.25\" brass snare. The Sonor Perfect Balance Pedal handled bass drum dynamics. The album was recorded at Air Lyndhurst Studios in London with additional sessions at several smaller studios, and mixed by Steven Wilson."
+      },
+      {
+        "question": "Why is The Incident a double album?",
+        "answer": "Disc One is a single 55-minute song cycle — fourteen continuous movements performed under the umbrella title 'The Incident' — that Porcupine Tree conceived and recorded as one uninterrupted piece rather than a set of individual songs. Disc Two collects four standalone tracks ('Flicker,' 'Bonnie the Cat,' 'Black Dahlia,' and 'Remember Me Lover') written outside the suite. For Gavin Harrison, that meant performing the title suite as one continuous dramatic arc while also delivering four more conventionally structured songs on the second disc."
+      },
+      {
+        "question": "Did The Incident win any awards?",
+        "answer": "The Incident received a Grammy nomination for Best Surround Sound Album at the 2010 awards, recognizing the album's 5.1 surround mix. It also reached #23 on the UK Albums Chart and #25 on the US Billboard 200, both strong showings for the band at the time."
+      },
+      {
+        "question": "How does The Incident fit into Porcupine Tree's drumming history?",
+        "answer": "The Incident was the final Porcupine Tree studio album before the band's thirteen-year hiatus, which ended with 2022's Closure/Continuation. It closes out the run that began with In Absentia (2002) and Deadwing (2005) and peaked commercially with Fear of a Blank Planet (2007) — all recorded with the same core Sonor SQ2 and Zildjian K Custom Special Dry setup Harrison had developed across that decade."
+      }
+    ],
+    "relatedAlbums": [
+      "fear-of-a-blank-planet-drum-setup",
+      "gavin-harrison-porcupine-tree-drum-setup",
+      "closure-continuation-drum-setup"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Last Word Before Thirteen Years of Silence",
+      "content": "*The Incident* (2009) closes out Gavin Harrison's most productive stretch with Porcupine Tree on the band's most structurally demanding terms: a 55-minute suite performed as one continuous take of dramatic arc, paired with four standalone songs that show the same gear handling a completely different musical context. The Sonor SQ2's thin maple shells and the Zildjian K Custom Special Dry cymbals — by now a thoroughly proven combination — gave Harrison the tonal consistency to make fourteen uninterrupted movements feel like a single coherent performance rather than a medley.\n\nNo one knew at the time that *The Incident* would be Porcupine Tree's final album for thirteen years. The band wouldn't return until 2022's *Closure/Continuation*, making this record the closing statement of an era and the natural bookend to *Fear of a Blank Planet* in any study of Harrison's progressive drumming.\n\nFor drummers approaching this gear:\n\n- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)\n- **Gavin Harrison kit guide**: [Gavin Harrison Porcupine Tree Drum Setup](/articles/gavin-harrison-porcupine-tree-drum-setup)\n- **Fear of a Blank Planet gear**: [Fear of a Blank Planet Drum Setup](/articles/fear-of-a-blank-planet-drum-setup)\n- **LLM summary**: [The Incident Drum Setup — LLM](/llms/articles/the-incident-drum-setup.md)\n\n*The Incident* proves that Harrison's rig was never built for a single song or a single album — it was built to sustain a complete musical statement, however long that statement needed to run."
+    }
+  },
+  "closure-continuation-drum-setup": {
+    "slug": "closure-continuation-drum-setup",
+    "articleType": "drummer-kit",
+    "drummer": "Gavin Harrison",
+    "drummerId": 47,
+    "band": "Porcupine Tree",
+    "bands": [
+      "Porcupine Tree",
+      "King Crimson",
+      "The Pineapple Thief"
+    ],
+    "albumTitle": "Closure/Continuation",
+    "artist": "Porcupine Tree",
+    "relatedDrummerSlug": "gavin-harrison",
+    "year": 2022,
+    "albumYear": 2022,
+    "genre": "Progressive Rock / Progressive Metal",
+    "label": "Music for Nations",
+    "studio": "Home studios of each band member",
+    "producer": "Steven Wilson, Richard Barbieri, Gavin Harrison",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-30",
+    "dateModified": "2026-06-30",
+    "author": "MetalForge Editorial",
+    "title": "Gavin Harrison's Drum Setup on Porcupine Tree's Closure/Continuation (2022)",
+    "description": "Gavin Harrison's kit on Porcupine Tree's reunion album Closure/Continuation (2022) — the band's first record in 13 years, and the same Sonor and Zildjian rig that defined its predecessors.",
+    "seoKeywords": [
+      "closure continuation drums",
+      "gavin harrison 2022 kit",
+      "porcupine tree 2022 drum setup",
+      "porcupine tree reunion drums",
+      "first porcupine tree album in 13 years",
+      "gavin harrison sonor sq2 2022"
+    ],
+    "ogImage": "/images/drummers/gavin-harrison.webp",
+    "intro": {
+      "title": "Thirteen Years Later, Same Engine Room",
+      "content": "What was the first Porcupine Tree album in over a decade? *Closure/Continuation*, released June 24, 2022 — the band's eleventh studio album and its first new material since *The Incident* in 2009. The thirteen-year gap makes it one of the more unusual reunion records in progressive rock: written and recorded largely in isolation by Steven Wilson, Richard Barbieri, and Gavin Harrison at their individual home studios before being assembled together, with all three credited as producers.\n\nThe album debuted at #2 on the UK Albums Chart — the band's highest-ever UK chart position — and topped the charts in Germany, the Netherlands, and Switzerland, while reaching #90 on the US Billboard 200. Tracks like \"Harridan,\" \"Of the New Day,\" and the nine-minute closer \"Chimera's Wreck\" reintroduced Porcupine Tree's odd-meter, dynamically extreme songwriting to an audience that had waited over a decade to hear it.\n\nGavin Harrison is the only drummer in Porcupine Tree's history, and *Closure/Continuation* is the proof that his approach didn't need updating after thirteen years away. He returned with the same core setup that had defined *In Absentia*, *Deadwing*, *Fear of a Blank Planet*, and *The Incident*: a Sonor SQ2 custom kit and Zildjian K Custom Special Dry cymbals, the rig built around responsiveness and dynamic range rather than trend-following gear changes.",
+      "keyPoints": [
+        "Porcupine Tree's first album in 13 years — released June 24, 2022, after the band's 2010–2022 hiatus",
+        "Debuted at #2 UK Albums Chart (the band's highest-ever UK position), #90 US Billboard 200",
+        "Co-produced by Steven Wilson, Richard Barbieri and Gavin Harrison, recorded at individual home studios",
+        "Same Sonor SQ2 / Zildjian K Custom Special Dry rig Harrison has used since the early 2000s",
+        "Gavin Harrison remains the only drummer in Porcupine Tree's history",
+        "Standout tracks: \"Harridan,\" \"Of the New Day,\" \"Dignity,\" \"Chimera's Wreck\""
+      ]
+    },
+    "drumKit": {
+      "title": "The Sonor SQ2, Thirteen Years On",
+      "brand": "Sonor",
+      "model": "Sonor SQ2 Series",
+      "finish": "Custom maple — configuration consistent with Harrison's 2000s-era Porcupine Tree setup",
+      "config": {
+        "bassdrums": [
+          "22\" x 17\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 13\" Floor Tom",
+          "16\" x 15\" Floor Tom"
+        ],
+        "shells": "Premium maple — thin shells for sensitivity and resonance"
+      },
+      "description": "Recording *Closure/Continuation* without a shared studio session changed the working process for Porcupine Tree, but it didn't change Harrison's instrument. He tracked his parts on the same Sonor SQ2 configuration he'd used for two decades of Porcupine Tree records — thin maple shells, a 22\" bass drum sized for articulation, and a four-tom layout tuned in musical intervals. That continuity matters on an album explicitly built around the tension implied by its title: closing one era while continuing the band's musical identity into the next.\n\nTracks like \"Herd Culling\" and \"Walk the Plank\" lean on the same dynamic vocabulary Harrison established on *Fear of a Blank Planet* and *The Incident* — extreme contrasts between near-silent verses and fully driven choruses, made possible by shells that respond accurately at every volume. \"Chimera's Wreck,\" the nine-minute closer, gives Harrison the most room on the album to stretch into the kind of extended polyrhythmic playing that originally defined his Porcupine Tree tenure.",
+      "notes": [
+        "Same SQ2 specification used since In Absentia (2002) — no equipment changes after the 13-year hiatus",
+        "Recorded remotely at home studios rather than a shared session, with parts assembled afterward",
+        "22\" kick and four-tom layout unchanged from the band's 2000s-era albums",
+        "Extended dynamic range central to \"Chimera's Wreck\" and \"Herd Culling\""
+      ],
+      "estimatedValue": "$6,000–9,000 (custom Sonor SQ2 shell pack)"
+    },
+    "snare": {
+      "title": "Sonor Gavin Harrison Signature: Unchanged After the Hiatus",
+      "brand": "Sonor",
+      "model": "Sonor Gavin Harrison Signature Snare",
+      "size": "14\" x 5.25\" (primary) and 12\" Protean (auxiliary)",
+      "shell": "Brass (14\" primary) / varies (12\" Protean)",
+      "description": "Harrison's 14\" x 5.25\" brass Signature snare remains his primary voice on *Closure/Continuation*, carrying the same warmth and dynamic range that made it the defining snare sound of *Fear of a Blank Planet* and *The Incident*. On \"Of the New Day\" and \"Rats Return,\" the snare moves between restrained verse patterns and full-force chorus backbeats within the same song — the brass shell's ability to sound musical at both extremes is exactly why Harrison never needed to look for a replacement during the hiatus years.\n\nThe 12\" Protean snare gets selective use for the album's more textural passages, particularly in \"Of the New Day\"'s quieter sections, giving Harrison a tighter, more focused alternative voice without switching kits.",
+      "tuningSetting": "Medium to medium-high — the same setting Harrison has used since the early 2000s",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$600–900 (Gavin Harrison Signature Snares)"
+    },
+    "cymbals": {
+      "title": "Zildjian K Custom Special Dry: Still the Standard",
+      "brand": "Zildjian",
+      "series": "K Custom Special Dry",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian 14\" K Custom Special Dry Hi-Hats",
+          "position": "Left side",
+          "notes": "Drives the intricate hi-hat work on \"Harridan\" and \"Of the New Day\""
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 16\" K Custom Special Dry Crash",
+          "position": "Left of hi-hats",
+          "notes": "Quick-clearing accent cymbal for the album's dynamic shifts"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 18\" K Custom Special Dry Crash",
+          "position": "Over rack toms",
+          "notes": "Primary crash for chorus and section-change accents"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian 21\" K Custom Special Dry Ride",
+          "position": "Right side",
+          "notes": "Anchors the extended polyrhythmic passages in \"Chimera's Wreck\""
+        },
+        {
+          "type": "China/Trash",
+          "model": "Zildjian 18\" K Custom Trash China",
+          "position": "Above floor tom",
+          "notes": "Used for the heavier accents on \"Herd Culling\" and \"Dignity\""
+        }
+      ],
+      "description": "Harrison's Zildjian K Custom Special Dry cymbals — co-developed with Zildjian back in the *In Absentia* era — sound exactly as purpose-built on *Closure/Continuation* as they did fifteen years earlier. The dry, fast-decaying character that kept his polyrhythmic layers distinct on *Fear of a Blank Planet* does the same job on \"Chimera's Wreck,\" where the closing minutes stack multiple rhythmic ideas against each other in a way that directly echoes his earlier work.\n\nThe 21\" Special Dry Ride remains the centrepiece of his ride work, while the 14\" Special Dry Hi-Hats handle the conversational, dynamically nuanced patterns that distinguish \"Harridan\" and \"Of the New Day\" from more straightforward rock drumming. The fact that this cymbal setup required no updating after a thirteen-year gap is itself a testament to how specifically it was designed around Harrison's playing rather than around any particular era's production trends.",
+      "notes": [
+        "Same Special Dry series Harrison co-developed with Zildjian in the early 2000s",
+        "21\" Special Dry Ride anchors the extended polyrhythmic close of \"Chimera's Wreck\"",
+        "14\" Special Dry Hi-Hats drive the conversational patterns on \"Harridan\" and \"Of the New Day\"",
+        "No equipment changes needed across the band's 13-year hiatus"
+      ],
+      "estimatedValue": "$1,800–2,500 (full K Custom Special Dry setup)"
+    },
+    "hardware": {
+      "title": "Sonor Perfect Balance Pedal",
+      "pedals": "Sonor Perfect Balance Pedal",
+      "hihatStand": "Sonor 600 Series Hi-Hat Stand",
+      "throne": "Sonor Professional Throne",
+      "stands": "Sonor 600 Series",
+      "description": "The Sonor Perfect Balance Pedal remains central to Harrison's bass drum work on *Closure/Continuation*, providing the same even, dynamically nuanced response that has anchored his kick technique since the early 2000s. Recording largely alone at his home studio rather than in a shared session with the rest of the band, Harrison relied on the pedal's consistent feel to track parts with the same precision he'd have brought to a full-band studio date — there was no producer in the room to catch a dynamic inconsistency, so the gear itself had to deliver it.",
+      "notes": [
+        "Perfect Balance Pedal unchanged from Harrison's setup throughout the 2000s and into the reunion",
+        "Consistent feel essential for tracking parts remotely without a full-band studio session",
+        "Full Sonor 600 Series hardware carried over from prior Porcupine Tree albums"
+      ],
+      "estimatedValue": "$1,200–1,600 (full hardware package)"
+    },
+    "faq": [
+      {
+        "question": "What was the first Porcupine Tree album in over a decade?",
+        "answer": "Closure/Continuation, released June 24, 2022, was Porcupine Tree's first new album since The Incident in 2009 — a gap of thirteen years. It was the band's eleventh studio album and marked their official reunion after years of the members focusing on solo and side projects."
+      },
+      {
+        "question": "What drums and cymbals does Gavin Harrison use on Closure/Continuation?",
+        "answer": "Gavin Harrison used the same rig on Closure/Continuation that he'd played throughout Porcupine Tree's 2000s catalogue: a custom Sonor SQ2 Series kit with thin maple shells (22\" x 17\" bass drum, 10\" and 12\" rack toms, 14\" and 16\" floor toms), Zildjian K Custom Special Dry cymbals (21\" Ride, 14\" Hi-Hats, 16\" and 18\" crashes, 18\" Trash China), and a Sonor Gavin Harrison Signature 14\" x 5.25\" brass snare, with a Sonor Perfect Balance Pedal for bass drum control. The album was recorded at the band members' individual home studios and co-produced by Steven Wilson, Richard Barbieri and Gavin Harrison."
+      },
+      {
+        "question": "How did Closure/Continuation chart?",
+        "answer": "Closure/Continuation debuted at #2 on the UK Albums Chart — Porcupine Tree's highest-ever UK chart position — and reached #1 in Germany, the Netherlands, and Switzerland. In the US, it peaked at #90 on the Billboard 200."
+      },
+      {
+        "question": "Is Gavin Harrison still Porcupine Tree's only drummer?",
+        "answer": "Yes. Gavin Harrison has been Porcupine Tree's sole drummer since joining in 2002 for In Absentia, and he remained behind the kit for the band's full discography through Closure/Continuation. Any question about Porcupine Tree's drum gear, across any era of the band, routes back to Harrison's Sonor and Zildjian setup."
+      }
+    ],
+    "relatedAlbums": [
+      "the-incident-drum-setup",
+      "fear-of-a-blank-planet-drum-setup",
+      "gavin-harrison-porcupine-tree-drum-setup"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Reunion That Needed No Reinvention",
+      "content": "*Closure/Continuation* (2022) answers the most obvious question about Porcupine Tree's thirteen-year reunion before a single review gets written: did the time away change anything? For Gavin Harrison's drumming, the answer is a deliberate no. He returned to the same Sonor SQ2 kit, the same Zildjian K Custom Special Dry cymbals, and the same Gavin Harrison Signature snare that had carried *In Absentia*, *Fear of a Blank Planet*, and *The Incident* — proof that the setup was never tied to a particular era, only to the specific musical demands Steven Wilson's writing makes of a drummer.\n\nThe album's highest-ever UK chart position and its trio of producers working from separate home studios make *Closure/Continuation* a genuinely unusual reunion record, but the drumming itself is a direct continuation of everything Harrison built across the 2000s. \"Chimera's Wreck\" alone — with its extended polyrhythmic close — could sit comfortably alongside \"Anesthetize\" or the title suite of *The Incident*.\n\nFor drummers approaching this gear:\n\n- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)\n- **The Incident gear**: [The Incident Drum Setup](/articles/the-incident-drum-setup)\n- **Fear of a Blank Planet gear**: [Fear of a Blank Planet Drum Setup](/articles/fear-of-a-blank-planet-drum-setup)\n- **LLM summary**: [Closure/Continuation Drum Setup — LLM](/llms/articles/closure-continuation-drum-setup.md)\n\nThirteen years is a long time for a band to stay silent. Gavin Harrison's gear didn't need a single year of it to find its way back."
+    }
   }
 };
 export default articles;

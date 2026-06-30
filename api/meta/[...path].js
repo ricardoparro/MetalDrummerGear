@@ -3127,7 +3127,12 @@ function generateMetaHtml(meta, originalUrl) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  
+
+  <!-- Google AdSense (publisher ca-pub-5315819228790971). Emitted in the
+       crawler-facing SSR head too, so AdSense's verification/crawler sees the
+       loader regardless of whether it gets this page or the SPA index.html. -->
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5315819228790971" crossorigin="anonymous"></script>
+
   <!-- Primary Meta Tags -->
   <title>${meta.title}</title>
   <meta name="title" content="${meta.title}">

@@ -17,6 +17,21 @@
 // Base year: 1982-84 = 100
 // ==========================================
 export const CPI_DATA = {
+  // Issue #3252: extended back to 1968 to support Bill Ward's 1970 Black
+  // Sabbath-era pricing (BLS CPI-U annual averages, 1982-84=100 base).
+  1968: 34.8,
+  1969: 36.7,
+  1970: 38.8,
+  1971: 40.5,
+  1972: 41.8,
+  1973: 44.4,
+  1974: 49.3,
+  1975: 53.8,
+  1976: 56.9,
+  1977: 60.6,
+  1978: 65.2,
+  1979: 72.6,
+  1980: 82.4,
   1981: 90.9,
   1982: 96.5,
   1983: 99.6,
@@ -3071,6 +3086,282 @@ export const GEAR_PRICE_HISTORY = {
       title: "Eloy Casagrande 2017 Drum Setup Cost | Machine Messiah Era Gear Prices",
       description: "How much did Eloy Casagrande's 2017 Sepultura drum kit cost? Original ~$4,124, inflation-adjusted to ~$5,510 today. Complete Mapex Meridian Maple breakdown from the Machine Messiah era, plus his Slipknot-era Pearl Reference upgrade.",
       keywords: ['eloy casagrande drum kit', 'sepultura drummer gear', 'machine messiah drums', 'eloy casagrande mapex setup', 'slipknot new drummer gear cost'],
+    },
+  },
+
+  // ==========================================
+  // BILL WARD - 1970 Paranoid Era
+  // Ludwig Super Classic Setup — Issue #3252 (Batch 30)
+  // ==========================================
+  'bill-ward': {
+    slug: 'bill-ward',
+    name: 'Bill Ward',
+    band: 'Black Sabbath',
+    iconicYear: 1970,
+    era: 'Paranoid Era',
+    albumReference: 'Paranoid (1970)',
+    profileImage: '/images/drummers/bill-ward.webp',
+
+    summary: "Bill Ward's 1970 Black Sabbath setup — the Ludwig and Paiste rig behind Paranoid, the album that effectively invented heavy metal drumming. Ward's jazz-rooted, swinging approach on a modest Ludwig Super Classic kit produced the loose, powerful foundation for tracks like \"War Pigs,\" \"Iron Man,\" and the title track. Decades before signature endorsement deals and boutique cymbal lines, Ward's setup cost a fraction of what a comparable professional kit costs today — a useful baseline for understanding just how much vintage gear has appreciated, and how far inflation alone has pushed prices since the birth of metal.",
+
+    setup: {
+      drums: {
+        item: 'Ludwig Super Classic',
+        model: '5-piece shell pack',
+        specs: '22"x14" kick, 13"x9" rack, 16"x16" floor — natural maple/poplar shells',
+        originalPrice: 550,
+        year: 1970,
+        source: 'Ludwig Drum Co. retail catalog estimate, 1970',
+        notes: "Ward's Ludwig Super Classic was a mid-tier professional kit by 1970 standards — not the flashiest option, but built to withstand the loose, heavy-handed swing he brought from his jazz background. The compact 22\" kick and minimal tom configuration kept the kit portable for a band still touring small clubs before Paranoid broke worldwide.",
+        vintageValue2026: 2200,
+        modernEquivalent: {
+          item: 'Ludwig Classic Maple',
+          price: 2800,
+          link: 'ludwig-classic-maple',
+        },
+      },
+      snare: {
+        item: 'Ludwig Supraphonic LM402 14"x6.5"',
+        model: 'Aluminum shell snare',
+        specs: '14"x6.5" seamless aluminum shell, 8-lug, Ludwig P-83 strainer',
+        originalPrice: 130,
+        year: 1970,
+        source: 'Ludwig Supraphonic MSRP estimate, 1970',
+        notes: 'The Supraphonic LM402 delivered the sharp, cutting crack heard on "Iron Man" and "War Pigs" — a snare so enduring it remains a studio standard more than fifty years later. Vintage 1960s-70s Supraphonics are now among the most sought-after snares in the collector market.',
+        vintageValue2026: 600,
+        modernEquivalent: {
+          item: 'Ludwig Supraphonic LM402',
+          price: 450,
+          link: 'ludwig-supraphonic-lm402',
+        },
+      },
+      cymbals: {
+        item: 'Paiste Formula 602 / Giant Beat',
+        model: 'Mixed Paiste configuration',
+        specs: '15" Giant Beat Hi-Hats, 18" Formula 602 Crash, 20" Formula 602 Ride',
+        originalPrice: 280,
+        year: 1970,
+        source: 'Paiste catalog pricing estimate, 1970',
+        notes: "Ward's Paiste cymbals predate the 2002 line (launched 1971) — his early-Sabbath sound ran on Formula 602 and the oversized Giant Beat hi-hats, prized for their dark, trashy wash that suited Sabbath's down-tuned, doom-laden riffs. He moved to the brighter, more powerful Paiste 2002 series by the mid-1970s as Sabbath's sound got heavier and arenas got bigger.",
+        vintageValue2026: 900,
+        modernEquivalent: {
+          item: 'Paiste 2002 Classic Set',
+          price: 2200,
+          link: 'paiste-2002-classic-set',
+        },
+      },
+      hardware: {
+        item: 'Ludwig Hardware Pack + Speed King Pedal',
+        model: 'Ludwig stands + Ludwig Speed King single pedal',
+        specs: 'Hi-hat stand, 2 boom stands, snare stand, Ludwig Speed King single pedal',
+        originalPrice: 90,
+        year: 1970,
+        source: 'Ludwig hardware estimate, 1970',
+        notes: "Ward played a single kick throughout Sabbath's classic Ozzy-era run, relying on the Ludwig Speed King's fast, direct action and his own swinging right foot rather than a double pedal — a deliberate, jazz-influenced choice rather than a budget limitation.",
+        vintageValue2026: 150,
+        modernEquivalent: {
+          item: 'Ludwig Atlas Pro Hardware Pack + Pedal',
+          price: 450,
+          link: 'ludwig-atlas-pro-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth/Regal Tip 2B Hickory',
+        model: 'Wood tip 2B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 3,
+        year: 1970,
+        source: 'Standard retail price, 1970',
+        notes: 'Ward favored a heavier 2B stick to drive his swinging, open-handed approach and to cut through Tony Iommi\'s heavily down-tuned, distorted guitar tone.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 2B',
+          price: 16,
+          link: 'vic-firth-2b',
+        },
+      },
+      heads: {
+        item: 'Remo Ambassador',
+        model: 'Clear tom batters, coated snare batter',
+        specs: 'Remo Ambassador clear (toms), Remo Ambassador coated (snare)',
+        originalPrice: 35,
+        year: 1970,
+        source: 'Remo retail pricing estimate, 1970',
+        notes: "Remo's single-ply Ambassador heads gave Ward's kit the open, resonant, slightly loose tone that defines the Paranoid drum sound — a stark contrast to the muffled, dampened heads common in later metal production.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Ambassador Coated Pack',
+          price: 90,
+          link: 'remo-ambassador-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 1088,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 3850,
+      modernEquivalentTotal: 6006,
+    },
+
+    priceEvolution: [
+      { year: 1970, price: 1088, label: 'Original Purchase', event: 'Paranoid recorded and released' },
+      { year: 1972, price: 1300, label: 'Vol. 4 era', event: 'Expanded touring kit and Paiste additions' },
+      { year: 1975, price: 1750, label: 'Sabotage era', event: 'Upgrade to Paiste 2002 series cymbals' },
+      { year: 1978, price: 2400, label: 'Never Say Die! era', event: 'Full Ludwig/Paiste touring rig finalized' },
+      { year: 2006, price: 5200, label: 'Reunion era', event: 'Ozzy-era Sabbath reunion shows; vintage Ludwig restored' },
+      { year: 2026, price: 9186, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Ludwig Drum Co. Super Classic Catalog', year: 1970, type: 'catalog' },
+      { title: 'Modern Drummer — Bill Ward Black Sabbath Feature', year: 1992, type: 'interview' },
+      { title: 'Rhythm Magazine — Bill Ward Gear Retrospective', year: 2013, type: 'interview' },
+      { title: 'Reverb Price Guide — Vintage Ludwig Supraphonic', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Bill Ward 1970 Drum Setup Cost | Paranoid Era Gear Prices",
+      description: "How much did Bill Ward's 1970 Black Sabbath drum kit cost? Original ~$1,088, inflation-adjusted to ~$9,186 today. Complete Ludwig Super Classic and Paiste cymbal breakdown from the Paranoid era.",
+      keywords: ['bill ward drum kit', 'black sabbath drummer gear', 'bill ward ludwig setup', 'paranoid album drums', 'bill ward drum kit cost'],
+    },
+  },
+
+  // ==========================================
+  // SHANNON LARKIN - 2003 Faceless Era
+  // Pearl Reference Series Setup — Issue #3252 (Batch 30)
+  // ==========================================
+  'shannon-larkin': {
+    slug: 'shannon-larkin',
+    name: 'Shannon Larkin',
+    band: 'Godsmack',
+    iconicYear: 2003,
+    era: 'Faceless Era',
+    albumReference: 'Faceless (2003)',
+    profileImage: '/images/drummers/shannon-larkin.webp',
+
+    summary: "Shannon Larkin's 2003 Godsmack setup from Faceless — his first full studio album with the band after joining in 2002, and the record that cemented his powerful, groove-driven style as central to Godsmack's sound. His Pearl Reference Series kit and Sabian AAX cymbals delivered the punch and dynamic range needed for hard rock radio staples like \"Straight Out of Line\" and \"Serenity.\" Larkin's Pearl and Sabian relationship has remained one of the most consistent endorsement partnerships in modern hard rock, running unbroken from this era through his current touring rig.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Reference Series',
+        model: '6-piece shell pack with double kick configuration',
+        specs: '22"x18" kick (×2), 10"x8" rack, 12"x9" rack, 14"x14" floor, 16"x16" floor — birch/maple hybrid shells',
+        originalPrice: 2200,
+        year: 2003,
+        source: 'Pearl Reference Series MSRP 2003, catalog pricing',
+        notes: "Pearl's Reference Series gave Larkin a powerful, focused low end suited to Godsmack's heavy, groove-oriented riffing. The double-kick configuration anchored Faceless tracks like \"Straight Out of Line\" while leaving enough headroom for the dynamic, song-serving fills that define his playing.",
+        vintageValue2026: 1800,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure',
+          price: 3200,
+          link: 'pearl-reference-pure',
+        },
+      },
+      snare: {
+        item: 'Pearl Reference 14"x6.5" Brass',
+        model: 'Brass shell snare',
+        specs: '14"x6.5" brass shell, 8-lug, Reference series strainer',
+        originalPrice: 380,
+        year: 2003,
+        source: 'Pearl Reference brass snare MSRP 2003',
+        notes: "Larkin's brass-shell Reference snare delivered the powerful, cutting attack that drives Godsmack's groove-rock backbeat — a tone he has kept consistent across two decades and six studio albums with the band.",
+        vintageValue2026: 420,
+        modernEquivalent: {
+          item: 'Pearl Reference Brass 14"x6.5"',
+          price: 550,
+          link: 'pearl-reference-brass-snare',
+        },
+      },
+      cymbals: {
+        item: 'Sabian AAX Series',
+        model: 'Mixed AAX configuration',
+        specs: '14" AAX Stage Hi-Hats, 16" & 18" AAX X-Plosion Crash, 21" AAX Raw Bell Dry Ride, 18" AAX China',
+        originalPrice: 1100,
+        year: 2003,
+        source: 'Sabian AAX series catalog pricing 2003',
+        notes: "Sabian AAX cymbals gave Larkin a bright, explosive crash response and a dry, focused ride — well suited to Godsmack's polished but heavy hard-rock production. This exact cymbal lineup (Stage Hi-Hats, X-Plosion Crashes, Raw Bell Dry Ride, AAX China) has remained essentially unchanged across Larkin's entire Godsmack tenure.",
+        vintageValue2026: 950,
+        modernEquivalent: {
+          item: 'Sabian AAX Performance Set',
+          price: 1600,
+          link: 'sabian-aax-performance-set',
+        },
+      },
+      hardware: {
+        item: 'Pearl Eliminator Double Pedal + Pearl Hardware',
+        model: 'Pearl P-2002C Eliminator + Pearl stands',
+        specs: 'Pearl Eliminator double pedal, Pearl hi-hat stand, 3 boom stands, snare stand',
+        originalPrice: 480,
+        year: 2003,
+        source: 'Pearl Eliminator MSRP 2003, Pearl hardware estimates',
+        notes: "The Pearl Eliminator's fast, responsive cam action powered Larkin's solid double-kick foundation beneath Godsmack's heaviest arrangements without sacrificing the feel-driven groove that separates him from more mechanical metal drummers.",
+        vintageValue2026: 380,
+        modernEquivalent: {
+          item: 'Pearl Demon Drive Double Pedal + D-2000 Roadster Throne',
+          price: 750,
+          link: 'pearl-demon-drive-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Promark American Hickory 5B',
+        model: 'Hickory 5B, wood tip',
+        specs: 'Hickory, wood tip',
+        originalPrice: 7,
+        year: 2003,
+        source: 'Standard retail price, 2003',
+        notes: "Larkin played stock Promark 5B sticks before later receiving his own Promark Shannon Larkin Signature model — a heavier, hard-rock-oriented stick that reflects his powerful, full-arm playing style.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Promark Shannon Larkin Signature',
+          price: 14,
+          link: 'promark-shannon-larkin-signature',
+        },
+      },
+      heads: {
+        item: 'Evans G2 / EMAD',
+        model: 'G2 Clear (toms), EMAD (kick), Genera (snare)',
+        specs: 'Evans G2 clear tom batters, EMAD kick batter, Genera coated snare batter',
+        originalPrice: 110,
+        year: 2003,
+        source: 'Evans retail pricing estimate, 2003',
+        notes: "Evans G2 heads gave Larkin's toms a controlled, punchy attack with enough sustain for fills without excess ring — matched to Godsmack's polished, radio-ready hard-rock production.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans G2 Coated Tom Pack + EMAD2',
+          price: 160,
+          link: 'evans-g2-emad2-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 4277,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 3550,
+      modernEquivalentTotal: 6274,
+    },
+
+    priceEvolution: [
+      { year: 2003, price: 4277, label: 'Original Purchase', event: 'Faceless recording — first full album as Godsmack member' },
+      { year: 2006, price: 4600, label: 'IV era', event: 'Pearl/Sabian endorsement deal deepens' },
+      { year: 2014, price: 5200, label: '1000hp era', event: 'Promark signature stick line launched' },
+      { year: 2018, price: 5700, label: 'When Legends Rise era', event: 'Upgrade to Pearl Reference Pure' },
+      { year: 2023, price: 6100, label: 'Anniversary touring', event: 'Godsmack anniversary touring rig' },
+      { year: 2026, price: 7615, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Pearl Reference Series Retail Catalog', year: 2003, type: 'catalog' },
+      { title: 'Modern Drummer — Shannon Larkin Godsmack Feature', year: 2003, type: 'interview' },
+      { title: 'Drumhead Magazine — Shannon Larkin Gear Rundown', year: 2014, type: 'interview' },
+      { title: 'Reverb Price Guide — Pearl Reference Series', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Shannon Larkin 2003 Drum Setup Cost | Faceless Era Gear Prices",
+      description: "How much did Shannon Larkin's 2003 Godsmack drum kit cost? Original ~$4,277, inflation-adjusted to ~$7,614 today. Complete Pearl Reference Series breakdown from the Faceless era.",
+      keywords: ['shannon larkin drum kit', 'godsmack drummer gear', 'shannon larkin pearl setup', 'faceless album drums', 'shannon larkin drum kit cost'],
     },
   },
 };

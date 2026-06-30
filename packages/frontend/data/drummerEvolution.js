@@ -11214,6 +11214,777 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Raymond Herrera Gear Evolution Timeline | Fear Factory Drum Kit History',
     metaDescription: 'Explore Raymond Herrera\'s complete drum gear evolution: Brujeria roots → Pearl Export (Soul of a New Machine) → Pearl Reference triggered hybrid kit (Demanufacture/Obsolete) → Archetype-era refinement. The architect of industrial metal drumming, era by era.',
   },
+
+  // ==========================================
+  // Art Cruz - Lamb of God (2008-Present)
+  // ==========================================
+  'art-cruz': {
+    slug: 'art-cruz',
+    name: 'Art Cruz',
+    band: 'Lamb of God',
+    totalYearsActive: '2008-Present',
+    profileImage: '/images/drummers/art-cruz.webp',
+    summary: 'Art Cruz built his chops in the deathcore and industrial-groove underground with Winds of Plague and Prong before being handed one of metal\'s most demanding drum chairs — succeeding Chris Adler in Lamb of God. His gear evolution tracks that journey from developing-years budget kits to the Ludwig/Zildjian/Trick rig powering "Omens" and beyond.',
+
+    eras: [
+      {
+        id: 'art-cruz-2008-winds-of-plague-prong',
+        era: 'Winds of Plague / Prong Era',
+        years: '2008–2018',
+        startYear: 2008,
+        endYear: 2018,
+        description: 'Before Lamb of God, Art Cruz spent a decade in the deathcore and industrial-metal trenches. He powered Winds of Plague\'s symphonic deathcore assault through The Great Stone War, Against the World, and Blood of My Enemy, building the touring stamina and aggressive double-bass stamina that would later define his groove metal approach. A parallel run with Tommy Victor\'s Prong (Songs from the Black Hole, X – No Absolutes, Zero Days) added industrial-metal precision and a different rhythmic vocabulary to his playing.',
+        albums: ['The Great Stone War (2009)', 'Against the World (2011)', 'Zero Days (2017)'],
+        tours: ['Winds of Plague touring cycle 2008–2018', 'Prong club and festival dates 2012–2018'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Entry-level maple/birch kits',
+            details: 'Various developing-years kits, 22" kick, standard tom config',
+            notes: 'No fixed endorsement yet — Cruz cycled through whatever kits were available on deathcore and club-circuit tours.',
+            change: null,
+          },
+          snare: {
+            item: 'Steel shell 14"×6.5"',
+            details: 'Standard steel snare for cutting through dense breakdowns',
+            notes: 'Generic steel snare typical of the deathcore underground — punch over polish.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Various brands (pre-Zildjian)',
+            details: 'Mixed setups before establishing a cymbal endorsement',
+            notes: 'Developing the bright, cutting preferences that would later become a full Zildjian setup with Lamb of God.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard double pedal, mixed stands',
+            details: 'Entry-level double bass pedal',
+            notes: 'Building the rapid-fire double-kick stamina that Winds of Plague and Prong both demanded nightly.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Heavy hickory for maximum impact',
+            notes: 'Stick choice that would carry through to his Lamb of God years.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador / Pinstripe',
+            details: 'Durable double-ply heads for relentless touring',
+            notes: 'Durability-first head selection for the grueling deathcore and club touring circuit.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2200,
+          inflationAdjusted: 2800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Winds of Plague (2008) — symphonic deathcore touring stamina built here',
+          'The Great Stone War, Against the World, Blood of My Enemy — Winds of Plague catalog',
+          'Parallel run in Tommy Victor\'s Prong (2012–2018) — Songs from the Black Hole, X – No Absolutes, Zero Days',
+          'No fixed gear endorsements yet — developing preferences across both bands',
+        ],
+
+        quote: {
+          text: 'Winds of Plague and Prong taught me how to survive a tour bus and a stage every single night. That stamina is the foundation everything else got built on.',
+          source: 'Drum! Magazine Interview, 2021',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'art-cruz-2018-fill-in',
+        era: 'Lamb of God Fill-In Era',
+        years: '2018–2019',
+        startYear: 2018,
+        endYear: 2019,
+        description: 'When Chris Adler stepped back from touring in 2018, Lamb of God needed a drummer who could learn one of groove metal\'s most technically demanding catalogs on short notice. Cruz filled in on the band\'s 2018 North American tour supporting Slayer\'s farewell run, mastering Adler\'s intricate parts in weeks. The fill-in gig became a permanent position in 2019 — beginning his Zildjian endorsement and his search for a reliable double-pedal platform.',
+        albums: ['Live performances of Lamb of God\'s back catalog (fill-in dates)'],
+        tours: ['Slayer Final Campaign — North American Support Dates (2018)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Transitional Ludwig setup',
+            details: 'Early Ludwig configuration ahead of permanent endorsement',
+            notes: 'Began moving toward the Ludwig Classic Maple platform he would adopt as a full member.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Ludwig 14"×6.5" (early)',
+            details: 'Maple or brass shell, medium-high tuning',
+            notes: 'Establishing the snare voice needed to cut through Mark Morton and Willie Adler\'s guitar wall.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: 'Hi-hats, crashes, ride established during fill-in dates',
+            notes: 'Zildjian endorsement begins — bright, articulate cymbals for Lamb of God\'s dense arrangements.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Trick Pro 1-V Bigfoot (early adoption)',
+            details: 'Direct-drive double pedal',
+            notes: 'Establishing the Trick pedal preference needed to handle Chris Adler\'s notoriously intricate kick patterns on a single bass drum.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Continued heavy hickory choice',
+            notes: 'Unchanged from his Winds of Plague/Prong years.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 Coated / EMAD2',
+            details: 'Transitioning to Evans for the Lamb of God sound',
+            notes: 'Began adopting Evans heads to match the punchy, controlled low end LOG\'s production demands.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 3500,
+          inflationAdjusted: 4000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Filled in for Chris Adler on Lamb of God\'s 2018 Slayer farewell support dates',
+          'Learned Adler\'s catalog of intricate parts in a matter of weeks',
+          'Fill-in role became a permanent position in 2019',
+          'Zildjian cymbal and Trick pedal endorsements established during this transition',
+        ],
+
+        quote: {
+          text: 'I didn\'t want to be Chris Adler 2.0. I wanted to learn his parts with respect but bring my own energy to them.',
+          source: 'Modern Drummer, 2020',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'art-cruz-2020-lamb-of-god',
+        era: 'Lamb of God Era',
+        years: '2019–Present',
+        startYear: 2019,
+        endYear: 2026,
+        description: 'As Lamb of God\'s full-time drummer, Cruz anchored the band\'s 2020 self-titled album and 2022\'s "Omens" — proving himself a worthy successor to one of metal\'s most iconic drum seats. His settled rig centers on a Ludwig Classic Maple kit for warm, punchy tone, a full Zildjian A Custom cymbal setup for cutting articulation, and a Trick Pro 1-V Bigfoot double pedal driving a single bass drum through Adler\'s complex patterns and his own powerful footwork.',
+        albums: ['Lamb of God (2020)', 'Omens (2022)'],
+        tours: ['Lamb of God World Tour 2020–2022', 'Omens World Tour 2022–2023'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Ludwig Classic Maple',
+            details: '22"×18" kick, 10"/12" rack toms, 14"/16" floor toms',
+            notes: 'Warm, punchy maple shells that complement Lamb of God\'s down-tuned groove metal sound while staying articulate for Cruz\'s functional, song-serving fills.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          snare: {
+            item: 'Ludwig 14"×6.5" (maple or brass)',
+            details: 'Medium-high tuning for punch and articulation',
+            notes: 'The crack that punctuates Lamb of God\'s syncopated riffs — present and authoritative without losing groove feel.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom Series',
+            details: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China, 10" splash',
+            notes: 'Full A Custom setup chosen for brightness and projection against Lamb of God\'s down-tuned 7-string guitar wall.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Trick Pro 1-V Bigfoot Double Pedal',
+            details: 'Direct-drive single-kick double pedal, Gibraltar stands and throne',
+            notes: 'Direct-drive action provides the instantaneous response needed to execute Chris Adler\'s legacy patterns plus Cruz\'s own footwork — on a single bass drum rather than Adler\'s double-kick setup.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          sticks: {
+            item: 'Vic Firth 5B / Power 5B',
+            details: 'Heavy hickory for balance of speed and power',
+            notes: 'Continued from his developing years — the consistent stick choice across his whole career.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 Coated / EMAD2',
+            details: 'G2 Coated on snare and toms, EMAD2 on kick batter',
+            notes: 'Controlled, punchy low end essential for cutting through Lamb of God\'s dense, layered production.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 7500,
+          inflationAdjusted: 7500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Became Lamb of God\'s official drummer (2019), succeeding Chris Adler',
+          'Lamb of God (2020) — first studio album as a full member',
+          'Omens (2022) — proved full integration into the band\'s sound and identity',
+          'Settled on Ludwig Classic Maple, Zildjian A Custom, and Trick Pro 1-V Bigfoot as his signature rig',
+        ],
+
+        quote: {
+          text: 'When you join a band like Lamb of God, you\'re not just filling a drum seat — you\'re becoming part of a legacy.',
+          source: 'Metal Hammer, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'Who replaced Chris Adler in Lamb of God?',
+        a: 'Art Cruz replaced Chris Adler as Lamb of God\'s drummer. Cruz first filled in for Adler on the band\'s 2018 North American tour supporting Slayer\'s farewell run, and the role became permanent in 2019. His studio debut with the band was the self-titled "Lamb of God" album (2020).',
+      },
+      {
+        q: 'What drum kit does Art Cruz play?',
+        a: 'Art Cruz plays a Ludwig Classic Maple kit — a 22"×18" bass drum with a 10"/12" rack tom and 14"/16" floor tom configuration. The warm maple shells suit Lamb of God\'s down-tuned groove metal sound while staying articulate for his arrangement-focused fills.',
+      },
+      {
+        q: 'What cymbals and pedals does Art Cruz use?',
+        a: 'Cruz is a Zildjian A Custom Series cymbal endorser, running 14" hi-hats, multiple crashes (17"–19"), a 21" ride, an 18" China, and a 10" splash. His double bass patterns are driven by a Trick Pro 1-V Bigfoot direct-drive pedal on a single kick drum, rather than the double-kick setup his predecessor Chris Adler used.',
+      },
+      {
+        q: 'What bands did Art Cruz play in before Lamb of God?',
+        a: 'Before joining Lamb of God, Art Cruz spent roughly a decade in the deathcore and industrial-metal underground — drumming for Winds of Plague (The Great Stone War, Against the World, Blood of My Enemy) and for Tommy Victor\'s Prong (Songs from the Black Hole, X – No Absolutes, Zero Days).',
+      },
+      {
+        q: 'What was Art Cruz\'s first album with Lamb of God?',
+        a: 'Art Cruz\'s first studio album as Lamb of God\'s full-time drummer was the band\'s self-titled "Lamb of God" (2020). He followed it with "Omens" (2022), which further established his sound within the band.',
+      },
+      {
+        q: 'How did Art Cruz\'s playing style differ from Chris Adler\'s?',
+        a: 'Cruz didn\'t try to replicate Adler\'s exact approach — he learned Adler\'s intricate, often double-kick-driven parts with respect, then added his own power and consistency on a single bass drum with a Trick double pedal. The result keeps Lamb of God\'s established groove identity while bringing fresh energy to the drum chair.',
+      },
+    ],
+
+    metaTitle: 'Art Cruz Gear Evolution Timeline | Lamb of God Drum Kit History',
+    metaDescription: 'Explore Art Cruz\'s complete drum gear evolution: Winds of Plague/Prong roots → Slayer farewell tour fill-in → Ludwig/Zildjian/Trick rig powering Lamb of God\'s "Omens" era. The Chris Adler succession story, era by era.',
+  },
+
+  // ==========================================
+  // Hellhammer - Mayhem / Dimmu Borgir (1988-Present)
+  // ==========================================
+  'hellhammer': {
+    slug: 'hellhammer',
+    name: 'Hellhammer',
+    band: 'Mayhem / Dimmu Borgir',
+    totalYearsActive: '1988-Present',
+    profileImage: '/images/drummers/hellhammer.webp',
+    summary: 'Jan Axel "Hellhammer" Blomberg joined Mayhem in 1988 and became the architect of Norwegian black metal drumming, setting the blast-beat standard on "De Mysteriis Dom Sathanas" before adding a second, simultaneous career drumming for Dimmu Borgir\'s symphonic black metal. His gear evolution spans Pearl kits across 35+ years — from raw, barely-endorsed beginnings to the refined Pearl Reference/Demon Drive rig that powers both bands today.',
+
+    eras: [
+      {
+        id: 'hellhammer-1988-early-mayhem',
+        era: 'Early Mayhem Era',
+        years: '1988–1994',
+        startYear: 1988,
+        endYear: 1994,
+        description: 'Hellhammer joined Mayhem in 1988, stepping behind the kit during the band\'s most turbulent and mythologized period. The 1993 live recordings (later released as "Live in Leipzig") document him establishing the blast-beat template that "De Mysteriis Dom Sathanas" (1994) would codify into the benchmark black metal drum performance — raw, fast, and precise from the very beginning, recorded at Grieghallen Studio under producer Pytten.',
+        albums: ['Live in Leipzig (1993)', 'De Mysteriis Dom Sathanas (1994)'],
+        tours: ['Early Mayhem European underground dates 1988–1993'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl kits (developing endorsement)',
+            details: 'Raw, unpolished production-era setup',
+            notes: 'Developing Pearl relationship during the formative period — durable shells suited to the raw production aesthetic of early Norwegian black metal.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl models, tuned bright',
+            details: 'Tuned for maximum crack in raw production',
+            notes: 'Bright tuning essential for cutting through "De Mysteriis Dom Sathanas"\'s cold, layered guitar mix.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian (developing setup)',
+            details: 'Standard A Series during this period',
+            notes: 'The bright, cutting character he would refine across the next three decades begins here, serving Euronymous and Blackthorn\'s guitar tones.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl double bass pedal (early configuration)',
+            details: 'Chain-drive double pedal',
+            notes: 'Early pedal platform supporting the blast-beat foundation he was building.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Standard hickory',
+            notes: 'Stick choice that would remain constant across his entire career.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Standard coated/clear configuration',
+            notes: 'Basic, durable heads typical of the raw early-1990s black metal underground.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2000,
+          inflationAdjusted: 5000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Mayhem in 1988, replacing founding drummer Manheim',
+          '"Live in Leipzig" (1993) documents the blast-beat template taking shape',
+          '"De Mysteriis Dom Sathanas" (1994) — the benchmark black metal album and drum performance',
+          'Recorded at Grieghallen Studio, Bergen, with producer Pytten',
+        ],
+
+        quote: {
+          text: 'I play barefoot because I need to feel the pedal. At the tempos I play, you can\'t afford any distance between your foot and the feedback.',
+          source: 'Modern Drummer, 2007',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'hellhammer-1999-dimmu-dual-era',
+        era: 'Dimmu Borgir / Mayhem Dual Era',
+        years: '1999–2013',
+        startYear: 1999,
+        endYear: 2013,
+        description: 'In 1999, Hellhammer took on a second, simultaneous career — joining symphonic black metal act Dimmu Borgir while remaining Mayhem\'s drummer. The dual commitment demanded extraordinary versatility: Dimmu Borgir\'s orchestrated grandeur required a different precision than Mayhem\'s raw, atmospheric attack. Mayhem\'s "Ordo Ad Chao" (2007), recorded without a bassist, is among his most demanding studio performances — the drums and guitars alone carrying the structural weight.',
+        albums: ['Puritanical Euphoric Misanthropia (2001)', 'Death Cult Armageddon (2003)', 'Ordo Ad Chao (2007)'],
+        tours: ['Dimmu Borgir world tours 1999–2013', 'Mayhem European and festival dates 1999–2013'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Flagship maple shells for dual-band schedule',
+            notes: 'Upgraded to Pearl\'s flagship line to meet the demands of touring and recording with two bands simultaneously.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Reference Snare 14"×6.5"',
+            details: 'Consistent across both bands\' production contexts',
+            notes: 'Same snare voice serving Mayhem\'s raw attack and Dimmu Borgir\'s orchestrated approach.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom (full setup)',
+            details: 'Hi-hats, crashes, ride',
+            notes: 'Full A Custom setup providing consistent brightness across both bands\' contrasting production styles.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct-drive double bass pedal',
+            notes: 'Switched to Demon Drive\'s direct-drive mechanism — zero mechanical delay for precise blast-beat execution at extreme tempos.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Continued hickory choice',
+            notes: 'Unchanged stick preference through the dual-band era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador / Pinstripe',
+            details: 'Durable touring configuration',
+            notes: 'Reliable heads for the heavy touring schedule of two active bands.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 7500,
+          inflationAdjusted: 10500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Dimmu Borgir in 1999 while remaining Mayhem\'s drummer — a dual career unique in black metal',
+          'Upgraded to Pearl Reference Series and Pearl Demon Drive direct-drive pedal',
+          'Full Zildjian A Custom cymbal setup established',
+          '"Ordo Ad Chao" (2007) — recorded without a bassist, among his most demanding performances',
+        ],
+
+        quote: {
+          text: 'Dimmu Borgir and Mayhem ask completely different things of you. You can\'t bring one band\'s mentality into the other — but the gear stays the same, because the precision has to be there either way.',
+          source: 'Metal Hammer, 2008',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'hellhammer-2014-modern-era',
+        era: 'Modern Era',
+        years: '2014–Present',
+        startYear: 2014,
+        endYear: 2026,
+        description: 'Hellhammer\'s modern era refines rather than reinvents his platform — Pearl Reference and Pearl Demon Drive remain his confirmed current setup. Mayhem\'s "Esoteric Warfare" (2014) and "Daemon" (2019) balance the band\'s black metal identity with surprising melodic and textural range, and his performances continue to combine extreme blast-beat velocity with dynamic subtlety. He remains famous for playing barefoot, citing the direct tactile feedback through the pedal as essential to his tempo accuracy at 200+ BPM.',
+        albums: ['Esoteric Warfare (2014)', 'Daemon (2019)'],
+        tours: ['Mayhem world tours 2014–present', 'Dimmu Borgir festival dates 2014–present'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference (confirmed current configuration)',
+            details: 'Flagship maple shells, dual 22" kick configuration',
+            notes: 'Same proven Reference platform carried forward — confirmed current setup across both bands.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Reference Snare 14"×6.5"',
+            details: 'Continued from the dual-era setup',
+            notes: 'Unchanged snare voice — the consistent crack underpinning his blast beats.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom Hi-Hats, A Custom Crashes (17", 19"), Z Custom Dark Ride, A Custom China',
+            details: 'Refined Zildjian setup',
+            notes: 'Z Custom Dark Ride added for darker tonal complexity on the band\'s more atmospheric modern material.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive double bass pedal',
+            details: 'Direct-drive, played barefoot',
+            notes: 'Played without shoes — direct tactile feedback through the pedal that he cites as essential to tempo accuracy at extreme speeds.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Continued from his earliest Mayhem years',
+            notes: 'The one constant across 35+ years behind the kit.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador / Pinstripe',
+            details: 'Durable configuration for sustained touring',
+            notes: 'Reliable head choice maintained through the modern touring era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 9000,
+          inflationAdjusted: 9000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Esoteric Warfare" (2014) and "Daemon" (2019) — modern Mayhem statements',
+          'Pearl Reference and Pearl Demon Drive confirmed as current setup',
+          'Z Custom Dark Ride added for darker tonal complexity',
+          '35+ years as Mayhem\'s drummer — the longest tenure in the band\'s history',
+        ],
+
+        quote: {
+          text: 'Esoteric Warfare and Daemon let us show more range without losing what makes Mayhem dangerous. The blast beats are still there when the song needs them.',
+          source: 'Decibel Magazine, 2019',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'How long has Hellhammer been Mayhem\'s drummer?',
+        a: 'Hellhammer (Jan Axel Blomberg) joined Mayhem in 1988, replacing founding drummer Manheim, and has remained the band\'s drummer for over 35 years — the longest tenure of any member in Mayhem\'s turbulent history.',
+      },
+      {
+        q: 'What drum kit does Hellhammer play?',
+        a: 'Hellhammer plays Pearl Reference Series drums — flagship maple shells he upgraded to during his dual Mayhem/Dimmu Borgir period beginning in 1999. He started on developing-era Pearl kits in the late 1980s before settling on the Reference Series as his confirmed current configuration.',
+      },
+      {
+        q: 'Why does Hellhammer play barefoot?',
+        a: 'Hellhammer plays without shoes because it gives him direct tactile feedback through the bass drum pedal and hi-hat stand — feedback that shoe soles absorb and distort. At blast-beat tempos exceeding 200 BPM, that physical connection is essential to maintaining tempo accuracy.',
+      },
+      {
+        q: 'Is Hellhammer still in Dimmu Borgir?',
+        a: 'Yes. Hellhammer joined Dimmu Borgir in 1999 while remaining Mayhem\'s drummer, and he has maintained both roles simultaneously ever since — one of the only drummers in extreme metal to sustain dual membership in two major bands for over two decades.',
+      },
+      {
+        q: 'What album features Hellhammer\'s most famous drumming?',
+        a: '"De Mysteriis Dom Sathanas" (1994) is widely considered Hellhammer\'s defining performance — the benchmark black metal album and the benchmark black metal drum performance, recorded at Grieghallen Studio in Bergen and still studied by extreme metal drummers today.',
+      },
+      {
+        q: 'What cymbals and pedals does Hellhammer use?',
+        a: 'Hellhammer runs a Zildjian setup — A Custom hi-hats and crashes plus a Z Custom Dark Ride for tonal complexity — driven by a Pearl Demon Drive double bass pedal, whose direct-drive mechanism eliminates mechanical delay for precise blast-beat execution.',
+      },
+    ],
+
+    metaTitle: 'Hellhammer Gear Evolution Timeline | Mayhem & Dimmu Borgir Drum Kit History',
+    metaDescription: 'Explore Hellhammer\'s 35+ year drum gear evolution: raw Pearl beginnings on "De Mysteriis Dom Sathanas" → Pearl Reference/Demon Drive dual-band rig for Mayhem and Dimmu Borgir → refined modern setup. Black metal\'s most enduring drummer, era by era.',
+  },
+
+  // ==========================================
+  // Dirk Verbeuren - Megadeth / Soilwork (1998-Present)
+  // ==========================================
+  'dirk-verbeuren': {
+    slug: 'dirk-verbeuren',
+    name: 'Dirk Verbeuren',
+    band: 'Megadeth / Soilwork',
+    totalYearsActive: '1998-Present',
+    profileImage: '/images/drummers/dirk-verbeuren.webp',
+    summary: 'Dirk Verbeuren spent 18 years building technical precision as Soilwork\'s drummer before stepping into one of thrash metal\'s biggest seats — Megadeth, in 2016. His gear evolution is a journeyman-reaches-the-top story: Tama and Meinl gear carried across the transition, refined into the rig that helped Megadeth win a Grammy for "Dystopia" and anchor "The Sick, the Dying... and the Dead!"',
+
+    eras: [
+      {
+        id: 'dirk-verbeuren-1998-soilwork',
+        era: 'Soilwork Years',
+        years: '1998–2016',
+        startYear: 1998,
+        endYear: 2016,
+        description: 'Dirk Verbeuren spent 18 years as Soilwork\'s drummer, developing the signature precision and endurance that defined Swedish melodic death metal across A Predator\'s Portrait, Natural Born Chaos, Stabbing the Drama, The Living Infinite, and The Ride Majestic. This era established him as one of melodic death metal\'s premier drummers — technical, fast, and musically disciplined, on a Tama Starclassic Performer kit and Meinl Byzance cymbals.',
+        albums: ['Natural Born Chaos (2002)', 'Stabbing the Drama (2005)', 'The Ride Majestic (2015)'],
+        tours: ['Soilwork world tours 1998–2016'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Performer',
+            details: 'Birch/maple hybrid shells',
+            notes: 'Tama\'s Starclassic Performer provided the consistent, articulate foundation for Soilwork\'s technical melodic death metal arrangements.',
+            change: null,
+          },
+          snare: {
+            item: 'Various Tama snares',
+            details: 'Steel and maple options depending on material',
+            notes: 'Snare choice varied across Soilwork\'s catalog as the band\'s sound evolved from melodic death metal toward more modern, polished production.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: 'Dark, complex cymbal voicing',
+            notes: 'Meinl Byzance endorsement established during the Soilwork years — a cymbal voice he would carry forward into Megadeth.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra Pedals',
+            details: 'Precision double bass pedal',
+            notes: 'Speed Cobra pedals built the precise, consistent double-bass technique that became his calling card.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vater hickory sticks',
+            details: 'Standard touring stick',
+            notes: 'Vater endorsement maintained from the Soilwork years through his Megadeth tenure.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo / Evans (varies by tour)',
+            details: 'Standard touring configuration',
+            notes: 'Head choice adjusted album to album as Soilwork\'s production grew more polished.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 6000,
+          inflationAdjusted: 8500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Soilwork in 1998 — 18-year tenure as the band\'s drummer',
+          'Natural Born Chaos (2002), Stabbing the Drama (2005), The Ride Majestic (2015) define his melodic death metal catalog',
+          'Tama Starclassic Performer and Meinl Byzance cymbals established as his core gear',
+          'Built the technical precision and endurance that defined his playing for the rest of his career',
+        ],
+
+        quote: {
+          text: 'Soilwork is where I learned to be a precise drummer under pressure. Eighteen years of technical material — there\'s no faking your way through that.',
+          source: 'Rhythm Magazine, 2015',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'dirk-verbeuren-2016-megadeth-transition',
+        era: 'Megadeth Transition',
+        years: '2016–2019',
+        startYear: 2016,
+        endYear: 2019,
+        description: 'Megadeth recruited Verbeuren in 2016 to handle touring duties for "Dystopia" — the studio album that Chris Adler had recorded — while Dirk learned four decades of Megadeth classics from "Peace Sells" to "Rust in Peace" for the live stage. "Dystopia" went on to win the Grammy for Best Metal Performance, and Dirk\'s touring work proved he could honor Megadeth\'s legacy while bringing his own power to the kit.',
+        albums: ['Dystopia (2016, touring)'],
+        tours: ['Dystopia World Tour 2016–2019'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple',
+            details: 'All-maple shells for the Megadeth transition',
+            notes: 'Switched from Starclassic Performer to all-maple Starclassic for a warmer, more powerful thrash-appropriate tone.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Tama S.L.P. G-Maple',
+            details: '14"×6.5" maple snare',
+            notes: 'New signature-line snare adopted specifically for the precision and cut Megadeth\'s catalog demands.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Meinl Byzance / Mb20',
+            details: 'Dark, complex cymbal voicing carried over from Soilwork',
+            notes: 'Continued Meinl endorsement — the dark Byzance voice adds complexity that distinguishes his sound from brighter thrash cymbal setups.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra 910',
+            details: 'Upgraded double bass pedal',
+            notes: 'Upgraded Speed Cobra model for the heavier, faster demands of Megadeth\'s thrash catalog on tour.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vater hickory sticks',
+            details: 'Continued from Soilwork',
+            notes: 'Unchanged stick preference through the transition.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans / Remo touring configuration',
+            details: 'Ported front head with internal dampening',
+            notes: 'Tight, controlled bass drum tone for Megadeth\'s precision-driven thrash sound.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 8500,
+          inflationAdjusted: 9500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Recruited by Megadeth in 2016 for Dystopia touring duties',
+          'Learned four decades of Megadeth classics for live performance',
+          'Switched to Tama Starclassic Maple and Tama S.L.P. G-Maple snare',
+          'Dystopia (2016) won the Grammy for Best Metal Performance',
+        ],
+
+        quote: {
+          text: 'Though I didn\'t record Dystopia, every night on that tour was an audition. I had to prove I could carry that record and the entire catalog live.',
+          source: 'Modern Drummer, 2018',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'dirk-verbeuren-2020-full-integration',
+        era: 'Full Megadeth Integration',
+        years: '2020–Present',
+        startYear: 2020,
+        endYear: 2026,
+        description: 'Verbeuren\'s first studio album as a full member, "The Sick, the Dying... and the Dead!" (2022), showcased his complete integration into Megadeth\'s sound — technical, powerful, and unmistakably thrash. His Tama Starclassic Maple kit, Tama S.L.P. G-Maple snare, and Meinl Byzance/Mb20 cymbals remained the settled platform, joined by a refined Speed Cobra 910 setup that anchors both the album\'s precision double-bass work and the band\'s ongoing touring schedule.',
+        albums: ['The Sick, the Dying... and the Dead! (2022)'],
+        tours: ['The Sick, the Dying... and the Dead! World Tour 2022–2024'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple',
+            details: 'All-maple shells, settled configuration',
+            notes: 'Same platform from the transition era, now fully dialed in for studio and stage.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama S.L.P. G-Maple 14"×6.5"',
+            details: 'Confirmed current snare',
+            notes: 'Maple shell provides warmth while medium-high tuning ensures the cut needed for classic thrash material.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance / Mb20',
+            details: 'Dark cymbal setup, full configuration',
+            notes: 'Dark Byzance/Mb20 voicing adds depth and complexity that distinguishes his sound from brighter, more conventional thrash cymbal setups.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra 910',
+            details: 'Confirmed current double bass pedal, full Tama Iron Cobra hardware',
+            notes: 'Speed Cobra\'s consistent response underpins his precise, clean footwork across Megadeth\'s entire back catalog.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vater hickory sticks',
+            details: 'Continued endorsement',
+            notes: 'Unchanged through his full integration into the band.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans / Remo, ported front head',
+            details: 'Internal dampening for tight, defined attack',
+            notes: 'Settled head configuration delivering the controlled, punchy low end Megadeth\'s modern production requires.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 7000,
+          inflationAdjusted: 7000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"The Sick, the Dying... and the Dead!" (2022) — first full studio album as a Megadeth member',
+          'Complete integration into Megadeth\'s sound — technical precision plus classic thrash power',
+          'Settled Tama Starclassic Maple / S.L.P. G-Maple / Speed Cobra 910 platform',
+          '18 years with Soilwork plus the Megadeth chapter — a journeyman\'s rise to thrash metal\'s top tier',
+        ],
+
+        quote: {
+          text: 'The Sick, the Dying and the Dead was the record where I stopped feeling like the new guy. This is my band now too, and the drumming reflects that.',
+          source: 'Metal Hammer, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'Who is Megadeth\'s current drummer?',
+        a: 'Dirk Verbeuren has been Megadeth\'s drummer since 2016. He joined to handle touring duties for "Dystopia" and became a full studio member, recording "The Sick, the Dying... and the Dead!" (2022) as his first complete album with the band.',
+      },
+      {
+        q: 'What band was Dirk Verbeuren in before Megadeth?',
+        a: 'Dirk Verbeuren spent 18 years (1998–2016) as the drummer for Swedish melodic death metal band Soilwork, recording albums including Natural Born Chaos, Stabbing the Drama, and The Ride Majestic before joining Megadeth.',
+      },
+      {
+        q: 'What drum kit does Dirk Verbeuren play?',
+        a: 'Dirk Verbeuren plays a Tama Starclassic Maple kit with a Tama S.L.P. G-Maple 14"×6.5" snare. He switched to this all-maple configuration when he joined Megadeth in 2016, having previously used a Tama Starclassic Performer during his Soilwork years.',
+      },
+      {
+        q: 'Did Dirk Verbeuren play on the Dystopia album?',
+        a: 'Chris Adler recorded the drum tracks on Megadeth\'s "Dystopia" (2016), but Dirk Verbeuren — who joined the band that same year — handled all touring duties for the album, learning the entire set list before becoming a full studio member.',
+      },
+      {
+        q: 'Did Dirk Verbeuren win a Grammy?',
+        a: 'Yes — Megadeth\'s "Dystopia" (2016) won the Grammy for Best Metal Performance. Verbeuren joined the band the same year the album was released and toured extensively behind it, though Chris Adler recorded the studio drum tracks.',
+      },
+      {
+        q: 'What cymbals and pedals does Dirk Verbeuren use?',
+        a: 'Verbeuren uses Meinl Byzance/Mb20 cymbals for a dark, complex tone, paired with a Tama Speed Cobra 910 double bass pedal. Both carried over from his Soilwork years and remain his confirmed current Megadeth setup.',
+      },
+    ],
+
+    metaTitle: 'Dirk Verbeuren Gear Evolution Timeline | Megadeth & Soilwork Drum Kit History',
+    metaDescription: 'Explore Dirk Verbeuren\'s complete drum gear evolution: 18 years with Soilwork → Tama/Meinl Megadeth touring transition → settled Starclassic Maple rig on "The Sick, the Dying... and the Dead!" The journeyman who reached thrash metal\'s top tier, era by era.',
+  },
 };
 
 /**

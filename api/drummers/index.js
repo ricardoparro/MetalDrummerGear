@@ -293,6 +293,14 @@ const drummers = [
       {
         q: 'What bass drum pedals did Joey Jordison use?',
         a: 'Joey Jordison used Axis A Longboard double bass drum pedals. The long footboard design gave him the leverage and speed required for his extreme double kick patterns and the blast beats he performed live on Slipknot\'s rotating drum riser.'
+      },
+      {
+        q: 'What instruments did Joey Jordison play?',
+        a: 'Joey Jordison is best known as Slipknot\'s drummer, playing a Pearl Reference Series kit with his signature 13"×6.5" snare and Paiste RUDE cymbals. He also played guitar in Murderdolls (2002–2011) and returned to drums for Sinsaenum and Vimic — drums and guitar were his two primary instruments.'
+      },
+      {
+        q: "What kit did Joey Jordison use?",
+        a: "Joey Jordison's kit was a Tama Starclassic Performer (22\" BD, 12\"/13\"/16\" toms) early on, moving to Pearl MasterWorks during the Iowa era and a Pearl Reference Series kit for All Hope Is Gone. Every era kept his Pearl Joey Jordison Signature 13\"×6.5\" snare and Paiste RUDE cymbals."
       }
     ]
   },

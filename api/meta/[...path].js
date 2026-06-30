@@ -81,11 +81,16 @@ for (const m of CURATED_MATCHUPS) {
 // 7–11 with near-zero CTR. Front-load "Drum Kit & Setup" + brand name in title;
 // lead description with the exact "What drum kit did Joey Jordison use?" head
 // query. Eloy Casagrande, Inferno, and Shannon Larkin added for same CTR gap.
+//
+// Issue #3412: "joey jordison instruments" (24 impr, pos 9.5) and "joey jordison
+// kit" (20 impr, pos 7.8) both at 0% CTR — title already covered "drum set/kit"
+// from #3059 but never said "instruments", and the description's hook needed to
+// answer the broader "what instruments did he play" intent (drums + guitar).
 const DRUMMER_META_OVERRIDES = {
   'joey-jordison': {
-    title: `Joey Jordison Drum Set & Kit — Pearl Reference, Paiste RUDE | ${SITE_NAME}`,
+    title: `Joey Jordison Drum Set, Kit & Instruments | ${SITE_NAME}`,
     description:
-      "What drum set did Joey Jordison use? His Slipknot drum kit was the Pearl Reference Series with his signature 13×6.5\" snare, Paiste RUDE cymbals, and Pearl Demon Drive double pedal — complete era-by-era gear breakdown.",
+      "What instruments did Joey Jordison play? Slipknot's drummer (and Murderdolls guitarist) built his kit on a Pearl Reference Series shell pack, signature 13×6.5\" snare, and Paiste RUDE cymbals — complete instrument & kit breakdown.",
   },
   'eloy-casagrande': {
     title: `Eloy Casagrande Drum Kit & Setup — Tama Starclassic | ${SITE_NAME}`,

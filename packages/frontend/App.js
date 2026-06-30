@@ -4609,10 +4609,14 @@ const GEAR_API_URL = typeof window !== 'undefined' && window.location.hostname !
 
 // Issue #2544: per-drummer title/description overrides for high-volume GSC clusters
 // with near-zero CTR. Keyed by drummer slug (name → lowercase-hyphenated).
+//
+// Issue #3412: "joey jordison instruments" / "joey jordison kit" both 0% CTR at
+// pos 7-10 despite ranking top-10 — title now says "Instruments" explicitly and
+// the description leads with the instruments-played hook (drums + guitar).
 const DRUMMER_PAGE_META_OVERRIDES = {
   'joey-jordison': {
-    title: 'Joey Jordison Drum Set & Kit — Pearl Reference, Paiste RUDE | MetalForge',
-    description: "What drum set did Joey Jordison use? His Slipknot drum kit was the Pearl Reference Series with his signature 13×6.5\" Pearl snare, Paiste RUDE cymbals, Pearl Demon Drive double pedal — complete era-by-era gear breakdown.",
+    title: 'Joey Jordison Drum Set, Kit & Instruments | MetalForge',
+    description: "What instruments did Joey Jordison play? Slipknot's drummer (and Murderdolls guitarist) built his kit on a Pearl Reference Series shell pack, signature 13×6.5\" snare, and Paiste RUDE cymbals — complete instrument & kit breakdown.",
   },
   'eloy-casagrande': {
     title: 'Eloy Casagrande Drum Kit & Setup — Tama Starclassic | MetalForge',

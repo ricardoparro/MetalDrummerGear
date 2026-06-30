@@ -2467,6 +2467,305 @@ export const articles = {
       "title": "The Modern Arc Closed: Charlie Benante at His Peak",
       "content": "For All Kings is the record that completed Charlie Benante's modern discography and confirmed that his creative and technical peak was not behind him but ongoing. The Grammy nomination for \"Evil Twin,\" the #9 US and #7 UK chart debuts, and the critical consensus that the album ranked among Anthrax's finest work all pointed to the same conclusion: 33 years into his professional career, Charlie Benante was playing and composing at the highest level of his life.\n\nThe drum sound on For All Kings — captured by Jay Ruston at Sphere Studios with five years of refined experience working with Benante's setup — is the definitive modern documentation of his playing: the Tama Starclassic Maple's warm, balanced tone; the signature snare's authoritative crack; the Speed Cobra double bass in its most settled and mature expression; and the Paiste 2002/Signature/RUDE cymbal configuration that served every moment of the album's widest compositional range.\n\nFor the album that preceded For All Kings and initiated the modern Grammy-era arc, see the [Worship Music drum setup article](/articles/worship-music-drum-setup). For the John Bush transition era, visit the [Sound of White Noise drum setup](/articles/sound-of-white-noise-drum-setup). For the classic thrash foundation, see [Among the Living drum setup](/articles/charlie-benante-among-the-living-drum-setup). For Charlie's complete career and current gear, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
     }
+  },
+  "weve-come-for-you-all-drum-setup": {
+    "slug": "weve-come-for-you-all-drum-setup",
+    "albumTitle": "We've Come for You All",
+    "artist": "Anthrax",
+    "drummer": "Charlie Benante",
+    "drummerId": 12,
+    "relatedDrummerSlug": "charlie-benante",
+    "year": 2003,
+    "genre": "Thrash Metal / Groove Metal",
+    "label": "Nuclear Blast (Europe) / Sanctuary Records (North America)",
+    "studio": "BearTracks Recording Studio, Suffern, NY (drums); Red Clay Studios, Suffern, NY; Avatar Studios, New York, NY (guitars)",
+    "producer": "Rob Caggiano, Eddie Wohl & Steve Regina (Scrap 60 Productions)",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-30",
+    "dateModified": "2026-06-30",
+    "author": "MetalForge Editorial",
+    "title": "We've Come for You All Drum Setup: Charlie Benante's Anthrax Gear Breakdown",
+    "description": "Complete breakdown of Charlie Benante's drum setup on Anthrax's We've Come for You All (2003) — the final John Bush-era studio album, the post-9/11 anthem \"What Doesn't Die,\" and the Tama Starclassic/Paiste configuration that closed the DW Collector's/Sabian chapter opened on Sound of White Noise.",
+    "seoKeywords": [
+      "charlie benante weve come for you all drum setup",
+      "weve come for you all drums 2003",
+      "last john bush anthrax album drums",
+      "charlie benante 2003 kit",
+      "anthrax weve come for you all gear",
+      "charlie benante tama starclassic 2003",
+      "what doesnt die anthrax drums",
+      "john bush era anthrax drummer"
+    ],
+    "ogImage": "/images/albums/weve-come-for-you-all-drums.webp",
+    "intro": {
+      "title": "The Last John Bush Album: Closing the Five-Year Gap Since Volume 8",
+      "content": "Released on May 6, 2003 through Nuclear Blast in Europe and Sanctuary Records in North America, We've Come for You All closed out a five-year gap since Volume 8 (1998) and stands as the final Anthrax studio album to feature John Bush on vocals before Joey Belladonna's 2005 return. It was also the first Anthrax record to feature Rob Caggiano on lead guitar, a writing and production partnership that would shape the band's sound for the next decade. Where Volume 8 had struggled commercially against the nu-metal tide of the late 1990s, We've Come for You All found Anthrax sharpening its attack and reconnecting with the aggression that had defined the band's thrash years — while still carrying the groove sensibility John Bush had brought to the lineup a decade earlier.\n\nThe album was recorded under the Scrap 60 Productions banner — guitarist Rob Caggiano, engineer Eddie Wohl, and Steve Regina sharing production duties. Drums were tracked at BearTracks Recording Studio in Suffern, New York, with the rest of the album split between Red Clay Studios in Suffern and Avatar Studios in Manhattan for guitar overdubs. The arrangement gave Charlie Benante's drums a tight, modern attack distinct from both Dave Jerden's mid-range-heavy Sound of White Noise (1993) production and the Stomp 442 and Volume 8 sessions that preceded it.\n\nWe've Come for You All carries unmistakable post-9/11 weight. Recorded by a band rooted in the New York City area, the record processed the attacks directly: \"Superhero\" was written as a tribute to the city's firefighters and first responders, and \"What Doesn't Die\" became one of the era's defining metal anthems of resilience. The album's cover art, illustrated by celebrated comic artist Alex Ross, and guest contributions from Roger Daltrey of The Who and the late Dimebag Darrell of Pantera gave the record a cultural reach beyond the thrash audience. Commercially, it debuted at #122 on the Billboard 200 and reached #10 on the UK Rock & Metal Albums chart, and it earned a nomination for Outstanding Hard Rock Album at the 2004 California Music Awards.\n\nFor Charlie Benante, the album documents a quiet but important gear transition. After a decade built around the DW Collector's Series kit and Sabian cymbals he had adopted for Sound of White Noise, Benante is fully back on Tama Starclassic drums and Paiste cymbals by 2003 — completing a return that Stomp 442 and Volume 8 had begun and that would carry forward, largely unchanged, all the way through Worship Music (2011) and beyond. This article breaks down the kit, snare, cymbals, and hardware behind the last John Bush-era Anthrax record, and the setup that bridges the 1990s gear evolution to Charlie's modern Tama configuration.",
+      "keyPoints": [
+        "The final Anthrax studio album with John Bush on vocals before Joey Belladonna's 2005 return",
+        "First Anthrax album to feature Rob Caggiano on lead guitar",
+        "Produced by Scrap 60 Productions (Rob Caggiano, Eddie Wohl, Steve Regina) at BearTracks and Red Clay Studios, Suffern, NY",
+        "\"What Doesn't Die\" became a post-9/11 anthem; \"Superhero\" was written for NYC first responders",
+        "Cover art by comic artist Alex Ross; guest spots from Roger Daltrey and Dimebag Darrell",
+        "Nominated for Outstanding Hard Rock Album at the 2004 California Music Awards",
+        "Charlie Benante's gear fully returns to Tama Starclassic and Paiste, closing the DW/Sabian chapter opened on Sound of White Noise (1993)"
+      ]
+    },
+    "drumKit": {
+      "title": "Benante's 2003 Tama Starclassic Configuration",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
+      "finish": "Custom finish (tour/album-specific)",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "All-maple shells with Star-Cast mounting system"
+      },
+      "description": "By the time Anthrax tracked We've Come for You All, Charlie Benante had moved off the DW Collector's Series kit documented on Sound of White Noise (1993) and settled back into Tama's Starclassic Maple line — the configuration that Stomp 442 (1995) and Volume 8 (1998) had already begun reintroducing into his studio setup. The dual 22\" x 18\" bass drums kept the deeper, weightier shell depth of the DW era rather than reverting to the 16\"-deep Artstar II shells of the Among the Living years, giving Benante a kick tone with more low-end body than his pure-thrash 1980s sound while regaining Tama's brighter, more articulate attack.\n\nThe tom configuration expanded back to two floor toms (14\" and 16\") alongside the familiar 10\"/12\"/13\" rack tom progression — a fuller layout than the single-floor-tom Sound of White Noise setup, reflecting We've Come for You All's heavier, more thrash-adjacent arrangements compared to the groove-focused Sound of White Noise material. All-maple shells with Tama's Star-Cast mounting system preserved shell resonance while keeping the punchy upper-midrange definition that cuts through Rob Caggiano and Scott Ian's guitar tracking.\n\nThis Starclassic Maple configuration, locked in for We've Come for You All, is essentially the same core setup Benante would carry — with pedal and cymbal refinements along the way — through Worship Music (2011) and For All Kings (2016). In that sense, We've Come for You All is the record where Charlie's \"modern\" Tama identity fully crystallizes.",
+      "notes": [
+        "Returned to Tama Starclassic Maple after the DW Collector's Series era documented on Sound of White Noise (1993)",
+        "Dual 22\" x 18\" bass drums — retains the deeper DW-era shell depth rather than reverting to 1980s 16\" depth",
+        "Two floor toms (14\", 16\") restore the fuller layout used before the streamlined Sound of White Noise kit",
+        "All-maple shells with Star-Cast mounting for resonance and projection",
+        "Establishes the core configuration Benante would use through Worship Music and For All Kings"
+      ],
+      "estimatedValue": "$5,000-7,000 (2003 Tama Starclassic Maple configuration)"
+    },
+    "snare": {
+      "title": "The Early-2000s Voice: Tama Steel Snare",
+      "brand": "Tama",
+      "model": "Tama Artstar Custom Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel shell with die-cast hoops",
+      "description": "Charlie Benante's snare on We've Come for You All was a Tama steel-shell model — predating the dedicated Tama Charlie Benante Signature snare that would arrive later in his career, but built to the same 14\" x 6.5\" steel-and-die-cast-hoops formula that defines his signature voice today. The steel shell delivers the bright, cutting attack that thrash and groove-thrash both demand, with die-cast hoops adding focus and controlled overtones under his heavy rimshot-driven playing.\n\nCompared to the DW Edge Series hybrid maple-and-brass snare used on Sound of White Noise, the return to a steel Tama shell on We've Come for You All restores a harder, more aggressive crack — better suited to tracks like the title cut and \"Superhero\" than the warmer, groove-oriented voice the DW Edge had provided a decade earlier. Tuned medium-high, the snare cuts cleanly through Eddie Wohl's tight, modern drum mix without the natural room ambience that Dave Jerden had favored at A&M Studios.",
+      "tuningSetting": "Medium-high for cut and projection",
+      "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$400-600 (early-2000s Tama steel snare)"
+    },
+    "cymbals": {
+      "title": "Back to Paiste: The 2003 Cymbal Lineup",
+      "brand": "Paiste",
+      "series": "Paiste 2002 / Signature Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
+          "position": "Left side",
+          "notes": "Crisp, focused chick sound for fast groove and thrash patterns"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste Signature 16\" Fast Crash",
+          "position": "Far left",
+          "notes": "Quick-responding crash for rapid accent work"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 18\" Medium Crash",
+          "position": "Left of toms",
+          "notes": "Primary workhorse crash with classic Paiste body"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste RUDE 19\" Crash/Ride",
+          "position": "Right of toms",
+          "notes": "Durable, versatile crash for the album's heaviest hitting"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste 2002 22\" Heavy Ride",
+          "position": "Far right",
+          "notes": "Substantial mass for definition under aggressive attack"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 18\" China",
+          "position": "Above floor tom",
+          "notes": "Trashy accent voice for chorus and bridge hits"
+        }
+      ],
+      "description": "We've Come for You All documents Charlie Benante fully back on Paiste after the Sabian chapter that began with Sound of White Noise in 1993. The 2002 and Signature series mix gave him the bright, cutting cymbal voice that had defined Anthrax's thrash sound since Among the Living, now refined with the more modern Signature series voices Paiste had introduced through the 1990s.\n\nThe 14\" 2002 Sound Edge hi-hats anchor the album's groove and pulse, their wavy bottom cymbal producing the crisp, percussive chick that drives tracks like \"Taking the Music Back.\" The crash configuration — a fast 16\" Signature crash, a workhorse 18\" 2002 Medium Crash, and a heavy-duty 19\" RUDE Crash/Ride — gives Benante a dynamic range from quick accents to sustained, explosive hits. The 22\" 2002 Heavy Ride and 18\" 2002 China round out a setup built for an album that reconnects with thrash's aggression while never abandoning the groove vocabulary John Bush's tenure had added to Anthrax's sound.",
+      "estimatedValue": "$2,500-3,500 total (2003 Paiste 2002/Signature configuration)"
+    },
+    "hardware": {
+      "title": "Tama HP35 Camco: Still Seven Years from Retirement",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Tama",
+          "model": "Tama HP35 Camco Double Pedal Configuration",
+          "notes": "Roughly nineteen years into the 26-year (1984-2010) run with this pedal",
+          "description": "We've Come for You All was recorded squarely within Charlie Benante's 26-year relationship with the Tama HP35 Camco chain-drive pedal — a run that began in 1984 and wouldn't end until the Speed Cobra switch in 2010, seven years after this album. The Camco's direct, responsive chain-drive feel continued to anchor Benante's double bass work, and because he played two separate 22\" bass drums rather than a single drum with a double pedal, his setup used two single HP35 units rather than a combined double-pedal mechanism."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Titan Hi-Hat Stand",
+          "notes": "Stable platform for fast, precise hi-hat work"
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair",
+          "notes": "Standard Tama throne for studio and touring use"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark Hickory 2B",
+          "notes": "Unchanged from the switch documented on Sound of White Noise (1993)"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter), front head ported for mic placement",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Scrap 60 Productions: A Tighter, Modern Attack",
+      "content": "Scrap 60 Productions — the in-house production banner used by guitarist Rob Caggiano, engineer Eddie Wohl, and Steve Regina — gave We've Come for You All a tighter, more modern drum sound than either the room-rich Sound of White Noise or the more polished mid-90s Anthrax records. Drums were tracked at BearTracks Recording Studio in Suffern, New York, a facility distinct from both Dave Jerden's A&M Studios sessions and the late-80s Tama era's Kajem/Victory and Compass Point rooms.\n\n**Drum Tracking:**\nEddie Wohl's drum sound for We've Come for You All favors a closer, more controlled approach than Dave Jerden's mid-range-heavy Sound of White Noise production — less room bleed, more direct attack on kick, snare, and toms, suited to early-2000s metal production trends that favored clarity and impact over ambient space.\n\n**Microphone Setup:**\n- Kick drums: Close mics inside each bass drum, blended with subkick microphones for low-end weight\n- Snare: Top and bottom microphones for combined attack and snare-wire definition\n- Toms: Close mics on each drum for tight, controlled tone\n- Overheads: Stereo pair capturing cymbal detail without excessive room wash\n\n**Mix Balance:**\nThe snare and kick sit forward and aggressive in the mix, reflecting the album's reconnection with thrash-era intensity. Cymbals are present and cutting rather than blended into ambience, and the drums overall carry a tighter, more controlled low-end than the warmer, room-driven Sound of White Noise mix.",
+      "keyTechniques": [
+        "Tighter, more controlled drum sound than the room-rich Sound of White Noise production",
+        "Drums tracked separately at BearTracks Recording Studio, Suffern, NY",
+        "Forward, aggressive snare and kick placement in the mix",
+        "Early-2000s metal production approach favoring clarity and direct attack"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "We've Come for You All",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "Title track and album opener reconnects with thrash-era aggression",
+          "Driving double bass patterns throughout the verses",
+          "Tama Starclassic's brighter attack is immediately apparent after the DW era",
+          "Sets the album's heavier, more aggressive tone"
+        ],
+        "gearNotes": "The Tama HP35 Camco pedals deliver consistent, responsive double bass. Paiste 2002 hi-hats provide the crisp pulse driving the riff."
+      },
+      {
+        "track": "Superhero",
+        "bpm": "138",
+        "signature": "4/4",
+        "highlights": [
+          "Written as a tribute to New York City's firefighters and first responders",
+          "Mid-tempo groove balances weight with melodic sensibility",
+          "Showcases the song-serving restraint that defines Benante's writing-drummer approach"
+        ],
+        "gearNotes": "The steel Tama snare's cutting crack anchors the chorus. Two floor toms give Benante melodic fill options the streamlined Sound of White Noise kit lacked."
+      },
+      {
+        "track": "What Doesn't Die",
+        "bpm": "132",
+        "signature": "4/4",
+        "highlights": [
+          "Became one of the era's defining post-9/11 metal anthems",
+          "Dynamic build from restrained verses to an explosive chorus",
+          "Nominated for Outstanding Hard Rock Album consideration alongside the record as a whole at the 2004 California Music Awards"
+        ],
+        "gearNotes": "The Paiste 2002 Heavy Ride and 18\" China punctuate the chorus's biggest moments. Snare tuned medium-high for maximum cut on the hook."
+      },
+      {
+        "track": "Taking the Music Back",
+        "bpm": "144",
+        "signature": "4/4",
+        "highlights": [
+          "Lead single, released September 3, 2003",
+          "Uptempo groove showcases the album's reconnection with thrash energy",
+          "Rob Caggiano's first credited Anthrax guitar work pairs with a tightened drum attack"
+        ],
+        "gearNotes": "The 16\" Signature Fast Crash handles the song's rapid accent hits. Sustained double bass shows the Camco pedals still performing at full capacity nineteen years into their run."
+      }
+    ],
+    "evolution": {
+      "title": "From Sound of White Noise to We've Come for You All: The Return to Tama",
+      "content": "We've Come for You All represents the third major chapter of Charlie Benante's gear evolution documented on this site. Sound of White Noise (1993) had taken him off Tama and Paiste entirely — DW Collector's Series maple shells, Sabian AA/HH cymbals, DW 5000 pedals — for the groove-metal pivot of John Bush's debut. A decade later, We've Come for You All finds Benante fully back on Tama Starclassic Maple and Paiste 2002/Signature cymbals, with the Tama HP35 Camco pedals he never actually stopped using throughout the DW interlude on cymbals and shells. Only the Pro-Mark Hickory 2B sticks adopted in 1993 carried through unchanged.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "DW Collector's Series Maple (Sound of White Noise, 1993)",
+          "now": "Tama Starclassic Maple (We've Come for You All, 2003)"
+        },
+        {
+          "category": "Snare",
+          "then": "DW Edge Series 14\" x 6.5\" (maple + brass edge rings)",
+          "now": "Tama steel shell 14\" x 6.5\" with die-cast hoops"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Sabian AA / HH series",
+          "now": "Paiste 2002 / Signature series"
+        },
+        {
+          "category": "Pedals",
+          "then": "DW 5000 Series (two single pedals)",
+          "now": "Tama HP35 Camco (two single pedals)"
+        },
+        {
+          "category": "Sticks",
+          "then": "Pro-Mark Hickory 2B",
+          "now": "Pro-Mark Hickory 2B (unchanged)"
+        },
+        {
+          "category": "Producer",
+          "then": "Dave Jerden (A&M Studios)",
+          "now": "Scrap 60 Productions — Rob Caggiano, Eddie Wohl, Steve Regina (BearTracks/Red Clay Studios)"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "question": "What drum kit did Charlie Benante use on We've Come for You All?",
+        "answer": "Charlie Benante used a Tama Starclassic Maple kit on We've Come for You All (2003), marking his full return to Tama after a decade built around the DW Collector's Series kit he used on Sound of White Noise (1993). The setup included dual 22\" x 18\" bass drums, three rack toms (10\", 12\", 13\"), and two floor toms (14\" and 16\") with all-maple shells and Tama's Star-Cast mounting system. This configuration became the foundation he carried, with later pedal and cymbal refinements, through Worship Music (2011) and For All Kings (2016)."
+      },
+      {
+        "question": "What was the last John Bush-era Anthrax album?",
+        "answer": "We've Come for You All (2003) was the last Anthrax studio album to feature John Bush on vocals. Released May 6, 2003, it closed a five-year gap since Volume 8 (1998) and marked the end of Bush's roughly thirteen-year run as Anthrax's frontman before Joey Belladonna rejoined the band in 2005, leading to Worship Music (2011)."
+      },
+      {
+        "question": "What cymbals and pedals did Charlie Benante use on We've Come for You All?",
+        "answer": "Charlie Benante used Paiste 2002 and Signature series cymbals on We've Come for You All — including 14\" 2002 Sound Edge Hi-Hats, a 16\" Signature Fast Crash, an 18\" 2002 Medium Crash, a 19\" RUDE Crash/Ride, a 22\" 2002 Heavy Ride, and an 18\" 2002 China — reverting from the Sabian setup he had used on Sound of White Noise a decade earlier. His pedals were Tama HP35 Camco chain-drive units, the same pedals he used continuously from 1984 until switching to Tama Speed Cobra in 2010."
+      },
+      {
+        "question": "Was We've Come for You All nominated for any awards?",
+        "answer": "We've Come for You All was nominated for Outstanding Hard Rock Album at the 2004 California Music Awards, losing to Blink-182's self-titled album. The single \"What Doesn't Die\" became a widely cited post-9/11 metal anthem, and the album's commercial performance — debuting at #122 on the Billboard 200 and #10 on the UK Rock & Metal Albums chart — outperformed Volume 8 (1998), the band's commercial low point of the decade."
+      },
+      {
+        "question": "How is We've Come for You All different from Sound of White Noise drum-wise?",
+        "answer": "We've Come for You All (2003) reverses most of the gear choices documented on Sound of White Noise (1993). Where Sound of White Noise featured a DW Collector's Series maple kit, Sabian AA/HH cymbals, a DW Edge Series snare, and DW 5000 pedals, We've Come for You All features a Tama Starclassic Maple kit, Paiste 2002/Signature cymbals, a Tama steel snare, and Tama HP35 Camco pedals. Only the Pro-Mark Hickory 2B sticks Charlie adopted in 1993 stayed constant across both records. For the full Sound of White Noise breakdown, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup)."
+      }
+    ],
+    "relatedAlbums": [
+      "sound-of-white-noise-drum-setup",
+      "charlie-benante-among-the-living-drum-setup",
+      "worship-music-drum-setup"
+    ],
+    "relatedDrummers": [
+      4,
+      1,
+      3
+    ],
+    "relatedArticles": [
+      "whats-in-charlie-benantes-kit",
+      "thrash-metal-drummers",
+      "big-four-thrash"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "Closing the John Bush Era, Setting Up the Modern Tama Arc",
+      "content": "We've Come for You All is the record that closes Anthrax's John Bush era and, in retrospect, completes Charlie Benante's gear journey back to Tama and Paiste. The album's commercial and critical reception — outperforming Volume 8, earning a California Music Award nomination, and producing a genuine post-9/11 anthem in \"What Doesn't Die\" — proved the John Bush lineup could still make a vital, relevant record even as the band's commercial fortunes had cooled from their early-90s peak.\n\nFor Charlie Benante, the album is a quiet hinge point. The Tama Starclassic Maple kit, the Paiste 2002/Signature cymbals, and the Tama HP35 Camco pedals captured here are essentially the same setup — refined but not reinvented — that would carry him through Worship Music and For All Kings a decade later. The DW Collector's Series and Sabian chapter that began with Sound of White Noise closes here, and the modern Benante configuration that fans recognize today fully takes hold.\n\nFor the album that opened this gear chapter, see the [Sound of White Noise drum setup article](/articles/sound-of-white-noise-drum-setup). For the classic thrash foundation, see [Among the Living drum setup](/articles/charlie-benante-among-the-living-drum-setup). For the modern arc that followed, visit the [Worship Music drum setup article](/articles/worship-music-drum-setup). For Charlie's complete career and gear timeline, see the [Charlie Benante drummer profile](/drummer/charlie-benante) and the [Anthrax band page](/bands/anthrax)."
+    }
   }
 };
 export default articles;

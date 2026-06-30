@@ -17,6 +17,20 @@
 // Base year: 1982-84 = 100
 // ==========================================
 export const CPI_DATA = {
+  // Issue #3252: Pre-1981 annual averages added for Bill Ward's 1970 Black Sabbath era
+  1968: 34.8,
+  1969: 36.7,
+  1970: 38.8,
+  1971: 40.5,
+  1972: 41.8,
+  1973: 44.4,
+  1974: 49.3,
+  1975: 53.8,
+  1976: 56.9,
+  1977: 60.6,
+  1978: 65.2,
+  1979: 72.6,
+  1980: 82.4,
   1981: 90.9,
   1982: 96.5,
   1983: 99.6,
@@ -3488,6 +3502,285 @@ export const GEAR_PRICE_HISTORY = {
       title: "Matt Halpern 2016 Periphery Drum Setup Cost | Select Difficulty Gear Prices",
       description: "How much did Matt Halpern's 2016 Periphery III: Select Difficulty drum kit cost? Original ~$10,398, inflation-adjusted to ~$14,200 today. Complete Mapex Saturn breakdown from the Grammy-nominated era.",
       keywords: ['matt halpern drum kit cost', 'periphery drummer gear history', 'matt halpern mapex saturn setup', 'select difficulty drums', 'matt halpern signature snare'],
+    },
+  },
+
+  // ==========================================
+  // BILL WARD - 1970 Black Sabbath Debut Era
+  // Ludwig Super Classic + Paiste Giant Beat Setup
+  // Issue #3252
+  // ==========================================
+  'bill-ward': {
+    slug: 'bill-ward',
+    name: 'Bill Ward',
+    band: 'Black Sabbath',
+    iconicYear: 1970,
+    era: 'Black Sabbath Debut Era',
+    albumReference: 'Black Sabbath (1970)',
+    profileImage: '/images/drummers/bill-ward.webp',
+
+    summary: "Bill Ward's 1970 setup behind Black Sabbath's self-titled debut — the album widely credited with inventing heavy metal. Recorded in roughly twelve hours with no click track and no overdubs, the record relied on a modest, professional-grade Ludwig and Paiste rig rather than anything exotic. Ward's jazz-trained background (Gene Krupa, Buddy Rich) shaped how he used that gear: a 3-ply Ludwig Super Classic kit for warm, resonant tone, a bright aluminum-shell Supraphonic snare for cut, and Paiste's oversized Giant Beat cymbals for an open, washy quality that let his swing-influenced fills breathe under Tony Iommi's downtuned riffs. The whole rig cost roughly $906 in 1970 dollars — modest even for the era — and that figure now translates to over $7,600 once adjusted for nearly six decades of inflation, before accounting for the substantial collector premium vintage Ludwig and Paiste gear from this period commands today. Ward carried this foundational setup, with incremental upgrades, through Paranoid (1970) and Master of Reality (1971), the records that codified heavy metal as a genre. The Ludwig Super Classic's three-ply maple construction gave Ward's drums a controlled, articulate low end that distinguished his sound from the looser, more cavernous kits common in late-1960s blues-rock — a tonal choice that proved essential once Iommi's guitar tone got heavier and the drums needed to anchor rather than just accompany.",
+
+    setup: {
+      drums: {
+        item: 'Ludwig Super Classic',
+        model: '3-ply maple shell pack',
+        specs: '20" kick, 12"/13" rack toms, 16" floor tom',
+        originalPrice: 450,
+        year: 1970,
+        source: 'Ludwig catalog estimate 1970, vintage drum collector guides',
+        notes: 'A standard professional kit of the late 1960s/early 1970s — Ward\'s first major endorsement, chosen for its warm, resonant tone suited to his jazz-derived dynamic range.',
+        vintageValue2026: 2500,
+        modernEquivalent: {
+          item: 'Ludwig Classic Maple',
+          price: 1800,
+          link: 'ludwig-classic-maple',
+        },
+      },
+      snare: {
+        item: 'Ludwig Supraphonic 14"x5" Aluminum',
+        model: 'Aluminum shell snare',
+        specs: '14"x5" aluminum shell, 8-lug',
+        originalPrice: 120,
+        year: 1970,
+        source: 'Estimated from vintage Ludwig Supraphonic pricing',
+        notes: 'The bright, cutting Ludwig snare sound that anchors "Black Sabbath" and "N.I.B." — among the most recognizable snare tones in heavy metal\'s founding era.',
+        vintageValue2026: 600,
+        modernEquivalent: {
+          item: 'Ludwig Supraphonic 14"x6.5" LM402',
+          price: 280,
+          link: 'ludwig-supraphonic-lm402',
+        },
+      },
+      cymbals: {
+        item: 'Paiste Giant Beat',
+        model: 'Oversized professional series',
+        specs: '15" Hi-Hats, 18" Crash, 20" Crash, 22" Ride',
+        originalPrice: 220,
+        year: 1970,
+        source: '1970 Paiste catalog pricing estimate',
+        notes: 'Large-format Paiste cymbals giving Ward\'s kit an open, washy character that supported his jazz-influenced approach to heavy material.',
+        vintageValue2026: 900,
+        modernEquivalent: {
+          item: 'Paiste 2002 Series Set',
+          price: 1100,
+          link: 'paiste-2002-series-set',
+        },
+      },
+      hardware: {
+        item: 'Ludwig Speed King Single Pedal + Basic Stands',
+        model: 'Single bass drum pedal, hi-hat and cymbal stands',
+        specs: 'Single pedal, hi-hat stand, 2 cymbal stands, snare stand',
+        originalPrice: 70,
+        year: 1970,
+        source: 'Ludwig hardware catalog estimate 1970',
+        notes: 'Standard single-pedal setup of the era — Ward\'s heaviness came from feel and dynamics, not double-bass technique.',
+        vintageValue2026: 250,
+        modernEquivalent: {
+          item: 'Ludwig Atlas Pro Double Pedal',
+          price: 320,
+          link: 'ludwig-atlas-pro-pedal',
+        },
+      },
+      sticks: {
+        item: 'Ludwig 2B Hickory',
+        model: 'Heavy hickory sticks',
+        specs: 'Hickory, wood tip',
+        originalPrice: 6,
+        year: 1970,
+        source: 'Standard retail price 1970',
+        notes: 'A heavier stick model that let Ward\'s jazz-trained hands generate real power on the proto-metal material.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 2B',
+          price: 14,
+          link: 'vic-firth-2b',
+        },
+      },
+      heads: {
+        item: 'Remo Ambassador',
+        model: 'Single-ply, open and resonant',
+        specs: 'Clear toms, coated snare batter',
+        originalPrice: 40,
+        year: 1970,
+        source: 'Remo retail pricing estimate 1970',
+        notes: 'Open, resonant heads appropriate to the loose, breathing feel of the debut sessions.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Ambassador Pro Pack',
+          price: 85,
+          link: 'remo-ambassador-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 906,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 4250,
+      modernEquivalentTotal: 3599,
+    },
+
+    priceEvolution: [
+      { year: 1970, price: 906, label: 'Original Purchase', event: 'Black Sabbath debut recording' },
+      { year: 1975, price: 1500, label: 'Sabotage era', event: 'Progressive ambition, expanded Paiste 2002 cymbals' },
+      { year: 1978, price: 1800, label: 'Never Say Die! era', event: 'Final original-lineup studio album' },
+      { year: 1990, price: 2800, label: 'Doom revival interest', event: 'Sabbath legacy reassessment grows' },
+      { year: 2005, price: 4200, label: 'Vintage Ludwig boom', event: 'Collector market for early-70s Ludwig grows' },
+      { year: 2016, price: 6000, label: "Sabbath farewell tour era", event: "The End tour boosts nostalgia value" },
+      { year: 2026, price: 7649, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Ludwig Drum Company Vintage Catalog', year: 1970, type: 'catalog' },
+      { title: 'Modern Drummer — Bill Ward Interview', year: 1991, type: 'interview' },
+      { title: 'Paiste Cymbals Vintage Archive', year: 1970, type: 'manufacturer' },
+      { title: 'Reverb Price Guide — Vintage Ludwig & Paiste', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Bill Ward 1970 Black Sabbath Drum Setup Cost | Vintage Gear Prices",
+      description: "How much did Bill Ward's 1970 Black Sabbath drum kit cost? Original ~$906, inflation-adjusted to ~$7,649 today. Complete Ludwig Super Classic and Paiste Giant Beat breakdown from the genre-founding debut era.",
+      keywords: ['bill ward 1970 setup', 'black sabbath drum kit cost', 'vintage ludwig price', 'bill ward gear cost today', 'black sabbath debut drums'],
+    },
+  },
+
+  // ==========================================
+  // SHANNON LARKIN - 2002 Godsmack / Faceless Era
+  // Tama Starclassic Performer MX Setup
+  // Issue #3252
+  // ==========================================
+  'shannon-larkin': {
+    slug: 'shannon-larkin',
+    name: 'Shannon Larkin',
+    band: 'Godsmack',
+    iconicYear: 2002,
+    era: 'Faceless Era',
+    albumReference: 'Faceless (2003)',
+    profileImage: '/images/drummers/shannon-larkin.webp',
+
+    summary: "Shannon Larkin's 2002 setup marked his arrival in Godsmack after more than a decade grinding through Wrathchild America, Souls at Zero, Ugly Kid Joe, and Amen. The Tama Starclassic Performer MX — a maple/birch hybrid shell pack — gave him the punch and warmth needed to anchor one of rock radio's heaviest, most recognizable sounds on Faceless (2003) and IV (2006). Paired with a full Sabian HHX cymbal set, a Tama Iron Cobra double pedal, and his first Vater signature stick model, the original rig cost roughly $8,250 — a serious professional investment for a drummer who had spent years on budget gear in smaller bands. Adjusted for 2026 inflation, that figure is equivalent to approximately $15,000. Larkin's kit evolved steadily across Godsmack's catalog — upgrading to Tama Starclassic Maple for The Oracle (2010) and 1000hp (2014), then to Starclassic Walnut/Birch for When Legends Rise (2018) — before he exited the band in 2024 after a 22-year tenure, the longest of any Godsmack drummer. His verified current setup centers on a ddrum Dios Series kit with Sabian AAX/HHX cymbals, a DW 9000 double pedal, and Vic Firth American Classic 5B sticks — a different chapter from the Tama/Vater rig that defined his Godsmack breakthrough, but one built on the same hard-hitting, groove-first foundation that made him one of hard rock's most dependable drummers for two decades.",
+
+    setup: {
+      drums: {
+        item: 'Tama Starclassic Performer MX',
+        model: 'Maple/birch hybrid 5-piece',
+        specs: '22"x18" kick, 10"/12"/14" rack toms, 16" floor tom',
+        originalPrice: 4500,
+        year: 2002,
+        source: 'Tama Starclassic Performer MX catalog MSRP 2002, Modern Drummer archive estimates',
+        notes: 'First major Tama endorsement — the maple/birch hybrid gave Larkin the punch and warmth needed for Godsmack\'s arena-filling rock sound.',
+        vintageValue2026: 2200,
+        modernEquivalent: {
+          item: 'ddrum Dios Series',
+          price: 2800,
+          link: 'ddrum-dios-series',
+        },
+      },
+      snare: {
+        item: 'Tama Starclassic Performer MX 14"x6.5"',
+        model: 'Maple/birch hybrid shell',
+        specs: '14"x6.5" maple/birch hybrid shell',
+        originalPrice: 350,
+        year: 2002,
+        source: 'Tama snare catalog 2002',
+        notes: 'The punchy, cutting snare sound heard on Faceless and IV — one of rock radio\'s most recognizable snare tones of the mid-2000s.',
+        vintageValue2026: 300,
+        modernEquivalent: {
+          item: 'ddrum Dios 14"x6.5" Maple',
+          price: 420,
+          link: 'ddrum-dios-maple-snare',
+        },
+      },
+      cymbals: {
+        item: 'Sabian HHX Series',
+        model: 'Full HHX configuration',
+        specs: '14" HHX Hi-Hats, 16"/18" HHX Crashes, 21" HHX Ride, 18" HHX China',
+        originalPrice: 2600,
+        year: 2002,
+        source: 'Sabian HHX series retail pricing 2002',
+        notes: 'Upgraded to Sabian HHX for more complex, musical cymbal tones suited to Godsmack\'s rock/metal hybrid sound — the beginning of Larkin\'s decades-long Sabian relationship.',
+        vintageValue2026: 1800,
+        modernEquivalent: {
+          item: 'Sabian AAX/HHX Mixed Set',
+          price: 2200,
+          link: 'sabian-aax-hhx-set',
+        },
+      },
+      hardware: {
+        item: 'Tama Iron Cobra HP900 Double Pedal',
+        model: 'Power Glide cam double pedal + stands',
+        specs: 'Double pedal, hi-hat stand, 4 cymbal boom stands, snare stand',
+        originalPrice: 700,
+        year: 2002,
+        source: 'Tama hardware catalog 2002',
+        notes: 'Switched to Tama Iron Cobra to match the new kit endorsement — the standard double pedal for hard rock drummers of the era.',
+        vintageValue2026: 400,
+        modernEquivalent: {
+          item: 'DW 9000 Series Double Pedal',
+          price: 650,
+          link: 'dw-9000-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vater Shannon Larkin Signature',
+        model: 'Custom taper hickory',
+        specs: 'Hickory, medium-weight signature taper',
+        originalPrice: 10,
+        year: 2002,
+        source: 'Vater signature retail pricing 2002',
+        notes: 'Larkin\'s first signature stick deal, launched around his Godsmack arrival.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B',
+          price: 14,
+          link: 'vic-firth-5b',
+        },
+      },
+      heads: {
+        item: 'Evans G2 / EMAD',
+        model: 'G2 toms, EMAD kick',
+        specs: 'G2 coated tom batters, EMAD kick batter',
+        originalPrice: 90,
+        year: 2002,
+        source: 'Evans retail pricing 2002',
+        notes: 'Moved to Evans heads for better studio and live consistency — a relationship Larkin maintained throughout his Godsmack tenure.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans G2/EMAD2 Pack',
+          price: 110,
+          link: 'evans-g2-emad2-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 8250,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 4700,
+      modernEquivalentTotal: 6194,
+    },
+
+    priceEvolution: [
+      { year: 2002, price: 8250, label: 'Original Purchase', event: 'Joins Godsmack, Faceless recording sessions' },
+      { year: 2006, price: 9000, label: 'IV era', event: 'Godsmack IV debuts at #1 on Billboard' },
+      { year: 2010, price: 11500, label: 'The Oracle era', event: 'Upgrade to Tama Starclassic Maple' },
+      { year: 2018, price: 14000, label: 'When Legends Rise era', event: 'Switch to Tama Starclassic Walnut/Birch' },
+      { year: 2024, price: 15500, label: 'Godsmack departure', event: 'Larkin exits Godsmack after a 22-year tenure' },
+      { year: 2026, price: 15023, label: 'Current adjusted', event: 'Inflation-adjusted value, ddrum Dios era' },
+    ],
+
+    sources: [
+      { title: 'Tama Starclassic Performer MX Catalog', year: 2002, type: 'catalog' },
+      { title: 'Modern Drummer — Shannon Larkin Interview', year: 2004, type: 'interview' },
+      { title: 'Sabian Artist Profile Archives', year: 2003, type: 'manufacturer' },
+      { title: 'Reverb Marketplace Analysis — Vintage Tama Starclassic', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Shannon Larkin Drum Setup Cost | Godsmack Gear Price History",
+      description: "How much was Shannon Larkin's Godsmack-era drum kit worth? Original Tama Starclassic setup ~$8,250 in 2002, inflation-adjusted to ~$15,000+ today. Complete gear breakdown across his 22-year Godsmack tenure.",
+      keywords: ['shannon larkin drum setup cost', 'godsmack drum kit price', 'tama starclassic performer mx price', 'shannon larkin gear cost today', 'ddrum dios series price'],
     },
   },
 };

@@ -53,6 +53,8 @@ Paiste RUDE Series cymbals round out the Scott Travis drum set: 14" RUDE Hi-Hats
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Remo
 
+See the [Scott Travis vs Nicko McBrain](/vs/scott-travis-vs-nicko-mcbrain) comparison for a full breakdown of Judas Priest's double-bass power vs Iron Maiden's single-pedal gallop.
+
 ## Notable Performances
 
 - Painkiller - Live (2015 Drum Cam) (2015)

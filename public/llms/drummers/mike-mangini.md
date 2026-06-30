@@ -54,6 +54,8 @@ Before Dream Theater, Mangini built an impressive resume with Steve Vai, Extreme
 - **Sticks:** Vic Firth Mike Mangini Signature
 - **Heads:** Evans
 
+See the [Mike Mangini vs Gavin Harrison](/vs/gavin-harrison-vs-mike-mangini) comparison for a full breakdown of Dream Theater's technical science vs Porcupine Tree/King Crimson's polyrhythmic feel.
+
 ## Notable Performances
 
 - Its Noise - Live at Sweetwater Studios (2023)

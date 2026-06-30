@@ -3783,6 +3783,417 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['shannon larkin drum setup cost', 'godsmack drum kit price', 'tama starclassic performer mx price', 'shannon larkin gear cost today', 'ddrum dios series price'],
     },
   },
+
+  // ==========================================
+  // MARIO DUPLANTIER - 2001 Terra Incognita Era
+  // Pearl Export Setup — Issue #2974
+  // ==========================================
+  'mario-duplantier': {
+    slug: 'mario-duplantier',
+    name: 'Mario Duplantier',
+    band: 'Gojira',
+    iconicYear: 2001,
+    era: 'Terra Incognita Era',
+    albumReference: 'Terra Incognita (2001)',
+    profileImage: '/images/drummers/mario-duplantier.webp',
+
+    summary: "Mario Duplantier's 2001 setup was a working musician's kit, built on whatever the fledgling Gojira (then still finishing out their run as Godzilla) could afford in Bayonne, France. A Pearl Export poplar-shell kit — configured with dual 22\" kicks from the very beginning — gave him the dual-bass foundation that would become his signature, paired with budget Paiste 2002 cymbals and a Pearl Eliminator double pedal that held up to relentless club touring. The whole rig cost roughly $3,000, a serious outlay for a band with almost no resources at the time of Terra Incognita's release. Adjusted for 2026 inflation, that's equivalent to approximately $5,550 — modest by today's pro-kit standards, but it was on this gear that Duplantier developed the tribal tom patterns and odd-meter vocabulary that defines Gojira's sound. The kit evolved dramatically from there: a Gretsch USA Custom endorsement arrived for From Mars to Sirius (2005) as Gojira broke internationally, Meinl Byzance cymbals replaced Paiste for L'Enfant Sauvage's (2012) more atmospheric dynamics, and by Magma (2016) and Fortitude (2021) he had moved to a fully custom Sonor SQ2 rig — the kit behind Gojira's stadium support slots with Metallica and their 2024 Paris Olympics opening ceremony performance. The arc from a $3,000 poplar-shell Pearl Export to an $18,000+ custom Sonor SQ2 setup tracks Gojira's rise from French underground metal to one of progressive death metal's most acclaimed headlining acts.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Export Series',
+        model: 'Poplar shell 5-piece, dual kick configuration',
+        specs: 'Dual 22"x16" kicks, 10"/12"/13" rack toms, 16" floor tom',
+        originalPrice: 1500,
+        year: 2001,
+        source: 'Pearl Export Series catalog pricing 2001, Modern Drummer archive estimates',
+        notes: "Duplantier's dual-kick configuration was established from the start — the budget Pearl Export poplar shells were the only option available, but the twin-22\" layout became central to Gojira's sound.",
+        vintageValue2026: 600,
+        modernEquivalent: {
+          item: 'Pearl Export EXX Series',
+          price: 900,
+          link: 'pearl-export-exx-series',
+        },
+      },
+      snare: {
+        item: 'Pearl Sensitone Steel 14"x5.5"',
+        model: 'Chrome steel shell',
+        specs: '14"x5.5" steel shell, standard hoops',
+        originalPrice: 150,
+        year: 2001,
+        source: 'Pearl snare catalog pricing 2001',
+        notes: "Basic steel snare with the cutting crack needed to compete with Joe Duplantier's dense guitar tone.",
+        vintageValue2026: 70,
+        modernEquivalent: {
+          item: 'Pearl Export Steel Snare',
+          price: 130,
+          link: 'pearl-export-steel-snare',
+        },
+      },
+      cymbals: {
+        item: 'Paiste 2002',
+        model: 'Full 2002 configuration',
+        specs: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+        originalPrice: 1100,
+        year: 2001,
+        source: 'Paiste 2002 series retail pricing 2001',
+        notes: 'Paiste 2002 was the standard European extreme metal cymbal of the era — loud, cutting, and durable enough for relentless club touring.',
+        vintageValue2026: 500,
+        modernEquivalent: {
+          item: 'Paiste PST 5 Series',
+          price: 700,
+          link: 'paiste-pst-5-series',
+        },
+      },
+      hardware: {
+        item: 'Pearl P-2002C Eliminator Double Pedal',
+        model: 'Cam-driven double pedal',
+        specs: 'Double pedal, hi-hat stand, 3 cymbal stands, snare stand',
+        originalPrice: 140,
+        year: 2001,
+        source: 'Pearl hardware catalog pricing 2001',
+        notes: "The Eliminator's cam system helped Duplantier achieve the fluid dual-bass patterns heard on Terra Incognita's \"Satan Is a Lawyer.\"",
+        vintageValue2026: 60,
+        modernEquivalent: {
+          item: 'Tama Speed Cobra HP910 Double Pedal',
+          price: 220,
+          link: 'tama-speed-cobra-hp910',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B',
+        model: 'Standard hickory',
+        specs: 'Hickory, wood tip',
+        originalPrice: 10,
+        year: 2001,
+        source: 'Vic Firth retail pricing 2001',
+        notes: 'Off-the-shelf sticks — no signature deal yet, technique over gear in this formative period.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B',
+          price: 14,
+          link: 'vic-firth-5b',
+        },
+      },
+      heads: {
+        item: 'Remo Ambassador',
+        model: 'Clear toms, coated snare',
+        specs: 'Clear Ambassador batters on toms, coated on snare',
+        originalPrice: 100,
+        year: 2001,
+        source: 'Remo retail pricing 2001',
+        notes: 'Standard configuration, replaced frequently given the punishment of early club-circuit touring.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Ambassador Pack',
+          price: 70,
+          link: 'remo-ambassador-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 3000,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 1230,
+      modernEquivalentTotal: 2034,
+    },
+
+    priceEvolution: [
+      { year: 2001, price: 3000, label: 'Original Setup', event: "Terra Incognita (2001) recording sessions" },
+      { year: 2005, price: 9000, label: 'From Mars to Sirius era', event: 'Gretsch USA Custom endorsement — international breakthrough' },
+      { year: 2012, price: 12000, label: "L'Enfant Sauvage era", event: 'Switch to Meinl Byzance cymbals; expanded Gretsch rig' },
+      { year: 2021, price: 18000, label: 'Fortitude era', event: 'Custom Sonor SQ2 rig; Tama Mario Duplantier signature sticks' },
+      { year: 2026, price: 21762, label: 'Current adjusted', event: 'Inflation-adjusted value, Sonor SQ2/Meinl Byzance era' },
+    ],
+
+    sources: [
+      { title: 'Pearl Export Series Catalog', year: 2001, type: 'catalog' },
+      { title: 'Modern Drummer — Mario Duplantier Feature', year: 2006, type: 'interview' },
+      { title: 'Sonor Artist Profile Archives', year: 2017, type: 'manufacturer' },
+      { title: 'Reverb Marketplace Analysis — Vintage Pearl Export', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: 'Mario Duplantier Drum Setup Cost | Gojira Gear Price History',
+      description: "How much was Mario Duplantier's first Gojira drum kit worth? Original Pearl Export setup ~$3,000 in 2001, inflation-adjusted to ~$5,550 today. Complete gear breakdown from Terra Incognita to the Sonor SQ2 era.",
+      keywords: ['mario duplantier drum setup cost', 'gojira drum kit price', 'pearl export gojira price', 'mario duplantier gear cost today', 'sonor sq2 price'],
+    },
+  },
+
+  // ==========================================
+  // HELLHAMMER - 1994 De Mysteriis Dom Sathanas Era
+  // Pearl/Zildjian Setup — Issue #2974
+  // ==========================================
+  'hellhammer': {
+    slug: 'hellhammer',
+    name: 'Hellhammer',
+    band: 'Mayhem',
+    iconicYear: 1994,
+    era: 'De Mysteriis Dom Sathanas Era',
+    albumReference: 'De Mysteriis Dom Sathanas (1994)',
+    profileImage: '/images/drummers/hellhammer.webp',
+
+    summary: "Hellhammer (Jan Axel Blomberg) joined Mayhem in 1988, replacing Manheim the year after the band's raw, foundational Deathcrush (1987) EP, and quickly became the most in-demand drummer in Norwegian black metal. His early Mayhem-era setup was minimalist by necessity — a budget Pearl Export kit and entry-level Zildjian A Series cymbals, built for speed and durability rather than tone, costing roughly $2,200. By the time Mayhem recorded De Mysteriis Dom Sathanas (1994) — widely considered black metal's defining album, completed in the shadow of Euronymous's murder and recorded alongside bassist Varg Vikernes — Hellhammer had upgraded to a Pearl MLX maple kit and Zildjian A Custom cymbals worth roughly $3,800, a setup adjusted for 2026 inflation to approximately $8,400. His gear and his workload both grew through the 2000s: a Pearl Masters/Reference upgrade arrived around Ordo Ad Chao (2007), and he refined his rig further into the Daemon (2019) era with a Pearl Reference Series kit, Pearl Demon Drive double pedal, and a mixed Zildjian A Custom/Z Custom/K Custom cymbal setup worth roughly $8,200 — gear he juggles across Mayhem, Dimmu Borgir, Arcturus, and dozens of session credits, making him the most prolific and reliable session drummer in extreme metal history. Hellhammer has remained a Pearl Drums and Zildjian Cymbals endorser for over three decades, prioritizing road-tested durability over exotic customization given his demanding multi-band touring schedule.",
+
+    setup: {
+      drums: {
+        item: 'Pearl MLX Maple',
+        model: 'Maple shell 5-piece',
+        specs: '22"x16" kick, 10"/12"/14" rack toms, 16" floor tom',
+        originalPrice: 1600,
+        year: 1994,
+        source: 'Pearl MLX Series catalog pricing 1994, Modern Drummer archive estimates',
+        notes: 'Upgrade from the budget Pearl Export of his 1988 Mayhem debut — the maple shells gave the focused attack needed for De Mysteriis Dom Sathanas\' famously dense, atmospheric production.',
+        vintageValue2026: 900,
+        modernEquivalent: {
+          item: 'Pearl Reference Series',
+          price: 3200,
+          link: 'pearl-reference-series',
+        },
+      },
+      snare: {
+        item: 'Pearl Free Floating Steel 14"x6.5"',
+        model: 'Free-floating steel shell',
+        specs: '14"x6.5" steel shell, die-cast hoops',
+        originalPrice: 280,
+        year: 1994,
+        source: 'Pearl snare catalog pricing 1994',
+        notes: 'A sharper, deeper steel snare than his earlier kit — the cutting crack heard throughout De Mysteriis Dom Sathanas.',
+        vintageValue2026: 150,
+        modernEquivalent: {
+          item: 'Pearl Reference 14"x6.5"',
+          price: 450,
+          link: 'pearl-reference-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Custom',
+        model: 'Full A Custom configuration',
+        specs: '14" hi-hats, 16"/18" crashes, 20" ride',
+        originalPrice: 1500,
+        year: 1994,
+        source: 'Zildjian A Custom series retail pricing 1994',
+        notes: 'Upgraded from entry-level A Series to A Custom for brighter, more cutting projection in Mayhem\'s raw, high-gain mix — the beginning of Hellhammer\'s long-running Zildjian relationship.',
+        vintageValue2026: 800,
+        modernEquivalent: {
+          item: 'Zildjian K Custom / Z Custom Mix',
+          price: 2200,
+          link: 'zildjian-k-z-custom-mix',
+        },
+      },
+      hardware: {
+        item: 'Pearl P-2000C Eliminator Double Pedal',
+        model: 'Cam-driven double pedal',
+        specs: 'Double pedal, hi-hat stand, 3 cymbal stands, snare stand',
+        originalPrice: 320,
+        year: 1994,
+        source: 'Pearl hardware catalog pricing 1994',
+        notes: 'Reliable double-bass pedal built to withstand the extreme blast-beat tempos that define De Mysteriis Dom Sathanas.',
+        vintageValue2026: 120,
+        modernEquivalent: {
+          item: 'Pearl Demon Drive Double Pedal',
+          price: 700,
+          link: 'pearl-demon-drive-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B',
+        model: 'Standard hickory',
+        specs: 'Hickory, wood tip',
+        originalPrice: 9,
+        year: 1994,
+        source: 'Vic Firth retail pricing 1994',
+        notes: 'Standard sticks chosen for durability across Hellhammer\'s relentless multi-band touring and session schedule.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B',
+          price: 14,
+          link: 'vic-firth-5b',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Ambassador',
+        model: 'Emperor toms, Ambassador snare',
+        specs: 'Double-ply Emperor batters on toms, coated Ambassador on snare',
+        originalPrice: 91,
+        year: 1994,
+        source: 'Remo retail pricing 1994',
+        notes: 'Heavier double-ply heads for the extreme attack and blast-beat durability Mayhem\'s sound required.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor/Ambassador Pack',
+          price: 120,
+          link: 'remo-emperor-ambassador-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 3800,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 1970,
+      modernEquivalentTotal: 6684,
+    },
+
+    priceEvolution: [
+      { year: 1988, price: 2200, label: 'Joins Mayhem', event: 'Hellhammer replaces Manheim, the year after Deathcrush (1987)' },
+      { year: 1994, price: 3800, label: 'De Mysteriis Dom Sathanas era', event: 'Recording of black metal\'s defining album' },
+      { year: 2007, price: 6500, label: 'Ordo Ad Chao era', event: 'Pearl Masters/Reference upgrade' },
+      { year: 2019, price: 8200, label: 'Daemon era', event: 'Daemon (2019) — refined Pearl Reference/Zildjian rig' },
+      { year: 2026, price: 10506, label: 'Current adjusted', event: 'Inflation-adjusted value, current Pearl/Zildjian setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Drums Artist Archives', year: 1994, type: 'manufacturer' },
+      { title: 'Zildjian Artist Profile Archives', year: 1995, type: 'manufacturer' },
+      { title: 'Decibel Magazine — Mayhem Retrospective', year: 2014, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Vintage Pearl MLX', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: 'Hellhammer Drum Setup Cost | Mayhem Gear Price History',
+      description: "How much was Hellhammer's Mayhem drum kit worth? Pearl MLX/Zildjian A Custom setup ~$3,800 in 1994, inflation-adjusted to ~$8,400 today. Complete gear breakdown from his 1988 Mayhem debut to the Daemon era.",
+      keywords: ['hellhammer drum setup cost', 'mayhem drum kit price', 'pearl mlx mayhem price', 'hellhammer gear cost today', 'de mysteriis dom sathanas drums'],
+    },
+  },
+
+  // ==========================================
+  // BEN KOLLER - 2001 Jane Doe Era
+  // Tama Imperialstar Setup — Issue #2974
+  // ==========================================
+  'ben-koller': {
+    slug: 'ben-koller',
+    name: 'Ben Koller',
+    band: 'Converge',
+    iconicYear: 2001,
+    era: 'Jane Doe Era',
+    albumReference: 'Jane Doe (2001)',
+    profileImage: '/images/drummers/ben-koller.webp',
+
+    summary: "Ben Koller's gear evolution is a hardcore DIY story — secondhand kits and entry-level cymbals through the 1990s, then a deliberate, earned upgrade once Converge's Jane Doe (2001) redefined what metallic hardcore could be. For Jane Doe and its follow-ups You Fail Me (2004) and No Heroes (2006), Koller moved to a Tama Imperialstar/Rockstar configuration paired with Zildjian A Series cymbals and a Tama Iron Cobra double pedal — a setup worth roughly $4,500 that gave him the durable, mid-forward platform Kurt Ballou's dense production demanded. Adjusted for 2026 inflation, that's equivalent to approximately $8,320. The kit barely changed for You Fail Me's deliberately stripped, direct sound, but Converge's most ambitious record, Axe to Fall (2009) — their Epitaph debut featuring guest spots from members of Neurosis, Genghis Tron, and Nails — pushed Koller toward a more refined ~$12,000 rig as compositional complexity increased. By The Dusk in Us (2017), he had settled into the Tama Starclassic Maple platform that remains his modern foundation, now worth roughly $14,000, paired with an expanded Zildjian A Custom/K Custom cymbal setup and Evans heads. Across three decades, Koller's heavier 5B stick preference has never changed — the one constant in a setup that otherwise tracks Converge's transformation from Salem, Massachusetts DIY hardcore band to one of modern heavy music's most influential and acclaimed acts.",
+
+    setup: {
+      drums: {
+        item: 'Tama Imperialstar / Rockstar Series',
+        model: 'Maple/poplar hybrid shells',
+        specs: '22" kick, 10"/12"/14"/16" toms',
+        originalPrice: 2000,
+        year: 2001,
+        source: 'Tama Imperialstar/Rockstar catalog pricing 2001, Modern Drummer archive estimates',
+        notes: "Koller's first consistent endorsement-adjacent kit — a durable, reliable platform for Jane Doe's intense recording sessions and Hydra Head touring circuit.",
+        vintageValue2026: 700,
+        modernEquivalent: {
+          item: 'Tama Starclassic Maple',
+          price: 2800,
+          link: 'tama-starclassic-maple',
+        },
+      },
+      snare: {
+        item: 'Tama Steel 14"x5.5"',
+        model: 'Steel shell, increased depth',
+        specs: '14"x5.5" steel shell',
+        originalPrice: 300,
+        year: 2001,
+        source: 'Tama snare catalog pricing 2001',
+        notes: 'Deeper shell than his DIY-era snares — improved projection and body for Jane Doe\'s wider studio distribution.',
+        vintageValue2026: 120,
+        modernEquivalent: {
+          item: 'Tama Custom Steel/Aluminium 14"x6.5"',
+          price: 450,
+          link: 'tama-custom-steel-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Series',
+        model: 'A New Beat configuration',
+        specs: '14" hi-hats, 16"/17" crashes, 20" ride',
+        originalPrice: 1700,
+        year: 2001,
+        source: 'Zildjian A Series retail pricing 2001',
+        notes: 'Moved up from budget brass to Zildjian A Series — brighter, more defined response suited to Jane Doe\'s precise, jazz-influenced rhythmic structures.',
+        vintageValue2026: 600,
+        modernEquivalent: {
+          item: 'Zildjian A Custom / K Custom Mix',
+          price: 2400,
+          link: 'zildjian-a-k-custom-mix',
+        },
+      },
+      hardware: {
+        item: 'Tama Iron Cobra Double Pedal',
+        model: 'Power Glide cam, chain drive',
+        specs: 'Double pedal, hi-hat stand, 3 cymbal stands, snare stand',
+        originalPrice: 380,
+        year: 2001,
+        source: 'Tama hardware catalog pricing 2001',
+        notes: "A significant upgrade from his budget DIY-era pedal — the Power Glide cam's smooth response gave Koller improved control at Jane Doe's extreme tempos.",
+        vintageValue2026: 130,
+        modernEquivalent: {
+          item: 'Tama Iron Cobra 900 Double Pedal',
+          price: 650,
+          link: 'tama-iron-cobra-900',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B',
+        model: 'Heavier hickory taper',
+        specs: 'Hickory, wood tip',
+        originalPrice: 10,
+        year: 2001,
+        source: 'Vic Firth retail pricing 2001',
+        notes: "Koller's heavier 5B preference, maintained consistently across his entire career.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B',
+          price: 14,
+          link: 'vic-firth-5b',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Powerstroke 3',
+        model: 'Emperor toms, Powerstroke 3 kick',
+        specs: 'Double-ply Emperor batters on toms, Powerstroke 3 on kick',
+        originalPrice: 110,
+        year: 2001,
+        source: 'Remo retail pricing 2001',
+        notes: "Durable double-ply heads sustained by the demands of Jane Doe-era touring and You Fail Me's (2004) live performances.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans G2/EMAD Pack',
+          price: 110,
+          link: 'evans-g2-emad-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 4500,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 1550,
+      modernEquivalentTotal: 6424,
+    },
+
+    priceEvolution: [
+      { year: 2001, price: 4500, label: 'Jane Doe breakthrough', event: 'Jane Doe (2001) — metallic hardcore landmark' },
+      { year: 2004, price: 5200, label: 'You Fail Me era', event: 'You Fail Me (2004) — stripped, direct production' },
+      { year: 2009, price: 12000, label: 'Axe to Fall era', event: "Axe to Fall (2009) — Converge's Epitaph debut" },
+      { year: 2017, price: 14000, label: 'The Dusk in Us era', event: 'The Dusk in Us (2017) — matured Tama Starclassic Maple rig' },
+      { year: 2026, price: 18718, label: 'Current adjusted', event: 'Inflation-adjusted value, current Tama Starclassic setup' },
+    ],
+
+    sources: [
+      { title: 'Tama Imperialstar/Rockstar Series Catalog', year: 2001, type: 'catalog' },
+      { title: 'Decibel Magazine — Ben Koller Interview', year: 2011, type: 'interview' },
+      { title: 'Revolver Magazine — Converge Feature', year: 2012, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Vintage Tama Imperialstar', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: 'Ben Koller Drum Setup Cost | Converge Gear Price History',
+      description: "How much was Ben Koller's Jane Doe-era drum kit worth? Original Tama Imperialstar setup ~$4,500 in 2001, inflation-adjusted to ~$8,320 today. Complete gear breakdown from Converge's hardcore roots to the Tama Starclassic era.",
+      keywords: ['ben koller drum setup cost', 'converge drum kit price', 'tama imperialstar converge price', 'ben koller gear cost today', 'jane doe drums setup'],
+    },
+  },
 };
 
 // ==========================================

@@ -342,6 +342,9 @@ const gearPriceHistoryDrummers = [
   'matt-halpern',    // Select Difficulty era (2016) — Issue #3187
   'bill-ward',       // Black Sabbath debut era (1970) — Issue #3252
   'shannon-larkin',  // Faceless era (2002) — Issue #3252
+  'mario-duplantier', // Terra Incognita era (2001) — Issue #2974
+  'hellhammer',      // De Mysteriis Dom Sathanas era (1994) — Issue #2974
+  'ben-koller',      // Jane Doe era (2001) — Issue #2974
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

@@ -285,6 +285,12 @@ export function DrummerGearCategoryPage({ drummerSlug: propSlug, category: propC
           </View>
         )}
         
+        {gear.rationale && (
+          <Text style={[styles.gearRationale, { color: theme.text }]}>
+            {gear.rationale}
+          </Text>
+        )}
+
         {gear.sources && gear.sources.length > 0 && (
           <View style={styles.sources}>
             <Text style={[styles.sourcesTitle, { color: theme.secondaryText }]}>Sources:</Text>
@@ -466,6 +472,14 @@ const styles = StyleSheet.create({
   verifiedDate: {
     fontSize: 12,
     marginTop: 4,
+  },
+  gearRationale: {
+    fontSize: 15,
+    lineHeight: 23,
+    marginTop: 12,
+    paddingTop: 12,
+    borderTopWidth: 1,
+    borderTopColor: '#333',
   },
   sources: {
     marginTop: 12,

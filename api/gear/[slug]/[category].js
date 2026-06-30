@@ -227,6 +227,7 @@ export default function handler(req, res) {
       raw: gearData,
       brand,
       items: gearItems,
+      rationale: drummer.gear?.[`${category}Rationale`],
       verified: drummer.gear?.verified || false,
       verifiedAt: drummer.gear?.verifiedAt,
       sources: drummer.gear?.sources,

@@ -3259,6 +3259,7 @@ const drummers = [
       snare: 'SJC Custom 14x6.5"',
       cymbals: 'Meinl Classics Custom Dark Series (14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China)',
       hardware: 'DW 9000 Series Double Pedal',
+      hardwareRationale: 'Isaac Lamb builds his hardware around a single piece of gear: the DW 9000 Series Double Pedal. Beatdown hardcore lives and dies on the breakdown, and the 9000\'s direct-drive precision lets him land kick patterns with consistent, immediate response at every tempo Kublai Khan TX throws at him — from mid-paced groove sections to the double-bass surges that punctuate their heaviest material. DW\'s 9000 line is built for touring durability as much as feel, which matters for a drummer who has played every show in the band\'s history since 2009 without a substitute. The choice mirrors Lamb\'s broader gear philosophy: nothing flashy, everything built to translate foot technique faithfully and survive a relentless road schedule.',
       sticks: 'Vic Firth American Classic 2B',
       heads: 'Evans Hydraulic',
       verified: false,

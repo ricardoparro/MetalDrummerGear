@@ -821,6 +821,47 @@ export function updateGearStatsMeta() {
       document.head.appendChild(script);
     }
     script.textContent = JSON.stringify(datasetSchema);
+
+    // FAQPage schema — thin-content signal fix (Issue #3413, same pattern as #3281)
+    const faqSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'FAQPage',
+      mainEntity: [
+        {
+          '@type': 'Question',
+          name: 'Where does the gear insights data come from?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: 'The statistics on this page are aggregated from MetalForge\'s database of 60+ professional metal drummers, each profile built from verified gear setups sourced from interviews, drum-cam footage, official endorsement pages, and manufacturer confirmations. Brand percentages, average kit costs, and genre breakdowns are recalculated directly from that underlying gear data, not survey responses.',
+          },
+        },
+        {
+          '@type': 'Question',
+          name: 'How is "average kit cost" calculated?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: 'Average kit cost is derived by pricing each drummer\'s documented setup — shells, snare, cymbals, hardware, and heads — using current retail pricing for the specific models in their gear listing, then averaging across all drummers with a complete, verified setup. Costs are shown in EUR.',
+          },
+        },
+        {
+          '@type': 'Question',
+          name: 'Why do certain cymbal and drum brands dominate metal drumming?',
+          acceptedAnswer: {
+            '@type': 'Answer',
+            text: 'Brands like Zildjian, Sabian, Meinl, Paiste, Tama, Pearl, DW, and Sonor dominate the professional metal scene because they manufacture heavy-duty hardware engineered for aggressive, high-volume playing — thicker cymbal profiles that withstand constant crashing, and double-bass-ready hardware built for relentless touring schedules. The brand statistics on this page reflect those durability and tone requirements playing out across dozens of professional setups.',
+          },
+        },
+      ],
+    };
+
+    let faqScript = document.querySelector('script[data-schema="gear-stats-faq"]');
+    if (!faqScript) {
+      faqScript = document.createElement('script');
+      faqScript.type = 'application/ld+json';
+      faqScript.setAttribute('data-schema', 'gear-stats-faq');
+      document.head.appendChild(faqScript);
+    }
+    faqScript.textContent = JSON.stringify(faqSchema);
   }
 }
 

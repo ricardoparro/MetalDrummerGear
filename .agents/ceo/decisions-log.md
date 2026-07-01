@@ -1951,3 +1951,12 @@ Deep run. Founder inbox empty. Backlog was 26 (25–44 band, promote-sparingly).
 4. **Process learning:** proposals held >5 days at cap have measurable risk of becoming stale duplicates as newer batches ship. Consider whether prune-proposals.cjs's 21-day window is too long relative to how fast content ships — flag to `human-founder` only if this recurs.
 
 ---
+
+## 2026-07-01 23:40 (state-confirm — anti-noise hold)
+- Backlog: 46 ai-fix · 0 PRs open · proposals untriaged: 0 (only unpromoted seo-proposal is umbrella #2211)
+- Org/Sessions/Views (7d): 109 / 158 / 224
+- Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
+- Actions: none — hold continues. Backlog ≥45 cap active; every L1/L2/L3-actionable item from the 2026-06-29 snapshot (matt-greiner loss, eloy-casagrande + joey-jordison instruments/kit CTR gaps, hellhammer canonical regression, /drummers+/gear/cymbals+/stats/gear-insights+/isaac-lamb/hardware indexation) is already filed and closed (#3210/#3282/#3412/#3280/#3281/#3413); Roadie merged 20 PRs today clearing the queue to empty.
+- Next check: 13:00 UTC — watch backlog drop <45 to resume promoting, and for the overdue L1/L2/L3 weekly refresh (stuck at 06-29 for 2 days).
+
+---

@@ -1052,6 +1052,268 @@ export const articles = {
       "content": "*The Serenity of Suffering* is the record that best captures Ray Luzier at the height of his Korn powers. A decade after joining as a touring drummer, fully integrated into the band's identity and groove language, Luzier delivered a performance on this album that drove one of the most critically praised Korn records of the modern era.\n\nThe Grammy-nominated 'Take Me' alone would make *Serenity* a landmark in his Korn catalog. But it's the album's consistent, groove-locked heaviness — 'Rotting in Vain,' 'Black Is the Soul,' 'A Different World' — that demonstrates what Luzier brings to Korn's music when a producer like Raskulinecz gives the drums room to breathe and physical weight to project.\n\nHis Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedals represent the mature Luzier rig delivering the kind of performance these instruments were built for.\n\nFor deeper exploration:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Paradigm Shift Drum Setup (2013)](/articles/the-paradigm-shift-drum-setup)\n- **Joey Jordison — Slipknot comparison**: [Joey Jordison at MetalForge](/drummer/joey-jordison) — Corey Taylor's drummer across Slipknot's catalog\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
     }
   },
+  "requiem-drum-setup": {
+    "slug": "requiem-drum-setup",
+    "albumTitle": "Requiem",
+    "artist": "Korn",
+    "drummer": "Ray Luzier",
+    "drummerId": 8,
+    "relatedDrummerSlug": "ray-luzier",
+    "year": 2022,
+    "genre": "Nu-Metal",
+    "label": "Loma Vista Recordings",
+    "studio": "Buck Owens Studio, Bakersfield, California",
+    "producer": "Chris Collier",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Requiem Drum Setup: Ray Luzier's 2022 Korn Gear Breakdown",
+    "description": "Ray Luzier's drum setup on Korn's Requiem (2022) — the band's 14th studio album and most recent release, recorded at Buck Owens Studio in their hometown of Bakersfield. Pearl Reference Maple drums, Sabian AAX cymbals, Pearl Demon Drive pedals. Full gear breakdown including 'Start the Healing' and 'Forgotten.'",
+    "seoKeywords": [
+      "requiem drum setup",
+      "korn requiem drums",
+      "ray luzier requiem",
+      "korn newest album drums",
+      "what is korn's newest album",
+      "ray luzier 2022 drums",
+      "korn requiem drummer",
+      "start the healing korn drums",
+      "ray luzier pearl drums 2022",
+      "korn requiem release date"
+    ],
+    "ogImage": "/images/drummers/ray-luzier.webp",
+    "intro": {
+      "title": "Coming Home: Ray Luzier on Korn's Requiem",
+      "content": "Released on February 4, 2022, through Loma Vista Recordings, *Requiem* is Korn's fourteenth studio album — and, as of this writing, their most recent. The LLM anchor question writes itself: *What is Korn's newest album?* The answer is *Requiem*. Where the band's two prior records had explored accessible crossover territory (*The Paradigm Shift*, 2013) and dark, heavy focus (*The Serenity of Suffering*, 2016), *Requiem* pushed further into atmosphere and restraint — a leaner, more introspective nine-track record built during a period when the COVID-19 pandemic gave the band an unusual gift: time.\n\nRecording took place from April to July 2021 at Buck Owens Studio in Bakersfield, California — Korn's actual hometown, where Jonathan Davis, Fieldy, Munky, and Head grew up together and formed the band in 1993. Returning to Bakersfield to record wasn't incidental; it gave *Requiem* a grounded, full-circle quality that fans and critics both picked up on. Produced by Chris Collier alongside the band itself, the album trades some of the maximalist production of earlier records for a more direct, performance-forward sound.\n\nFor Ray Luzier, *Requiem* marks his fourth full studio album with Korn and closes out a drumming arc that began with *Korn III* in 2010. By 2021, Luzier had spent fourteen years locked into Korn's rhythmic identity — through Ross Robinson's raw aggression, Skrillex's dubstep experiments, Don Gilmore's radio-ready polish, and Nick Raskulinecz's natural heaviness. *Requiem* called for something different again: restraint, dynamic control, and the ability to let space do as much work as the groove itself. Lead single 'Start the Healing' (released November 11, 2021) reached #1 on the Mediabase Active Rock radio chart in February 2022, and the album debuted at #14 on the US Billboard 200 — Korn's first album since their 1994 debut not to reach the chart's Top 10, though the record was widely praised by critics as one of the band's most cohesive statements in years.\n\nLuzier's rig for the *Requiem* sessions continued the Pearl platform he'd built since *The Paradigm Shift* — Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and the Pearl Demon Drive double pedal. This article breaks down that setup and how it served one of the most atmospheric, dynamically controlled records in Korn's modern catalog.",
+      "keyPoints": [
+        "Korn's 14th studio album and most recent release — answers \"What is Korn's newest album?\"",
+        "Recorded at Buck Owens Studio in Bakersfield, California — Korn's hometown",
+        "Produced by Chris Collier and the band, April–July 2021",
+        "Released February 4, 2022 on Loma Vista Recordings — debuted at #14 US Billboard 200",
+        "Lead single 'Start the Healing' hit #1 on the Mediabase Active Rock chart",
+        "Ray Luzier's fourth full studio album with Korn — closes the Luzier-era arc through the present"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference Maple: Restraint and Atmosphere in Bakersfield",
+      "brand": "Pearl",
+      "model": "Pearl Reference Maple",
+      "finish": "Custom finish (Korn touring/studio configuration)",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "14\" x 11\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom",
+          "18\" x 16\" Floor Tom"
+        ],
+        "shells": "Pearl Reference Maple — multi-species laminate shell construction"
+      },
+      "description": "Ray Luzier carried his Pearl Reference Maple kit into the *Requiem* sessions — the same platform he'd used since *The Paradigm Shift* (2013) and *The Serenity of Suffering* (2016). But the demands of *Requiem* were different: Chris Collier's production leans into space and atmosphere rather than dense, maximal aggression, which meant Luzier's kit needed to sound full and present at lower dynamic intensities, not just at full volume.\n\nThe double 22\" bass drum configuration remained the rhythmic foundation, but *Requiem*'s tracks — 'Let the Dark Do the Rest,' 'Disconnect,' 'Hopeless and Beaten' — often call for more deliberate, spaced-out kick patterns rather than the sustained double-kick runs of earlier records. The Pearl Reference Maple's multi-species laminate shells, with their balanced brightness and resonance, gave Luzier's more restrained patterns the same authority as his busier ones — every note counts more when there are fewer of them.\n\nRecording in Bakersfield at Buck Owens Studio — a converted venue rather than a purpose-built commercial studio — gave the sessions a different acoustic character than the band's prior Los Angeles-area studio work. The five-tom spread gave Luzier the range for *Requiem*'s more sparse, texture-driven fills, which favor mood over technical display. Where *Korn III* and *Serenity of Suffering* called for busy, propulsive tom work, *Requiem*'s arrangements often ask the drums to simply mark space — a different kind of technical demand that rewards a kit with this much natural tonal depth.",
+      "notes": [
+        "Pearl Reference Maple — continued from The Paradigm Shift (2013) and Serenity of Suffering (2016)",
+        "Double 22\" bass drums — used with more restraint than earlier, denser Korn records",
+        "Recorded at Buck Owens Studio, Bakersfield — Korn's hometown, a full-circle location",
+        "Five-tom spread suited to Requiem's atmospheric, space-conscious arrangements",
+        "Multi-species laminate shells provide tonal depth at lower dynamic intensities"
+      ],
+      "estimatedValue": "$4,000–7,000 (Pearl Reference shell pack)"
+    },
+    "snare": {
+      "title": "Pearl Reference Brass: The Crack in the Quiet",
+      "brand": "Pearl",
+      "model": "Pearl Reference 14\" × 6.5\" Brass",
+      "size": "14\" × 6.5\"",
+      "shell": "Brass",
+      "description": "Luzier's Pearl Reference brass snare carried into *Requiem*, and in this more spacious production it does even more work than on Korn's denser records. With fewer competing guitar layers and a mix that leaves more room to breathe, the snare's bright, brass-shell crack becomes one of the most exposed elements in the recording — every backbeat on 'Start the Healing' and 'Forgotten' is a clearly defined event rather than one layer among many.\n\nThe 14\" × 6.5\" brass shell's natural projection meant Chris Collier's production could rely on the drum's inherent tone rather than heavy processing, keeping the backbeat feeling human and immediate. On the album's more atmospheric cuts, like 'Penance to Sorrow,' the snare's controlled sustain lets accents ring just enough to support the mood without cluttering it.",
+      "tuningSetting": "Medium tension, controlled sustain for exposed backbeats in a spacious mix",
+      "heads": "Remo Coated Emperor (batter), Remo Hazy Ambassador Snare Side (resonant)",
+      "estimatedValue": "$500–700 (Pearl Reference brass snare)"
+    },
+    "cymbals": {
+      "title": "Sabian AAX: Controlled Brightness for an Atmospheric Record",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
+          "position": "Left side",
+          "notes": "Bright, articulate groove anchor — carries more of the rhythmic weight in Requiem's sparser arrangements"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
+          "position": "Left crash",
+          "notes": "Fast, controlled accent for restrained section transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash reserved for the album's heavier peaks"
+        },
+        {
+          "type": "Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
+          "position": "Far right",
+          "notes": "Clear bell definition for the album's more atmospheric, riding-based passages"
+        },
+        {
+          "type": "China",
+          "model": "Sabian AAX 18\" AAXtreme China",
+          "position": "Above floor tom",
+          "notes": "Reserved for Requiem's most intense moments — used more sparingly than on earlier records"
+        }
+      ],
+      "description": "Luzier's Sabian AAX setup continued unchanged into *Requiem*, but the way it's deployed reflects the album's more controlled, atmospheric identity. Where *Serenity of Suffering* leaned on the AAXtreme China for constant aggressive punctuation, *Requiem* uses it sparingly — saving the raw trash tone for genuine peak moments rather than routine accents, which makes those moments hit harder.\n\nThe 14\" AAX Stage Hi-Hats carry more of the rhythmic responsibility on this record. With Chris Collier's production leaving more space in the mix, the hi-hat's fast, bright response becomes a primary driver of groove on tracks like 'Let the Dark Do the Rest,' rather than one element among a denser wall of cymbal work. The 21\" AAX Stage Ride sees more use than on prior Korn records too, its clear bell definition suited to the album's more spacious, riding-based sections — a texture *Requiem* reaches for more often than any previous Luzier-era Korn album.",
+      "estimatedValue": "$2,000–3,500 (full Sabian AAX setup)"
+    },
+    "hardware": {
+      "title": "Pearl Demon Drive: Precision Over Density",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Demon Drive Double Bass Pedal",
+          "notes": "Direct-drive double pedal — precise, controlled response for Requiem's more spaced-out kick patterns",
+          "description": "The Pearl Demon Drive's direct-drive design remained Luzier's foot weapon of choice for *Requiem*. Where earlier Korn records demanded sustained double-kick runs, *Requiem*'s more restrained arrangements ask for precise, individually placed kick hits — a different technical challenge that rewards the Demon Drive's immediate, 1:1 footboard response. Every kick drum note in a sparser arrangement is exposed, and the pedal's consistency meant Luzier could place each stroke exactly where the song needed it without the mechanical latency of a chain or belt-drive design."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Promark",
+          "model": "Promark Ray Luzier Signature TX420X",
+          "notes": "Signature model — balanced for both the album's restrained passages and its heavier peaks"
+        },
+        {
+          "type": "Throne",
+          "brand": "Pearl",
+          "model": "Pearl D-2000 Roadster Throne",
+          "notes": "Stable Pearl hardware foundation for the Buck Owens Studio sessions"
+        },
+        {
+          "type": "Drumheads (Toms)",
+          "brand": "Evans",
+          "model": "Evans EC2 Coated",
+          "notes": "Controlled sustain suited to Requiem's more exposed, spacious mix"
+        },
+        {
+          "type": "Drumheads (Bass Drum)",
+          "brand": "Evans",
+          "model": "Evans EMAD2",
+          "notes": "Controlled attack with suppressed overtones for clean, individually defined kick hits"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD2 (batter), Evans EQ3 Resonant (ported)",
+        "toms": "Evans EC2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Remo Coated Emperor (batter), Remo Hazy Ambassador (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Chris Collier at Buck Owens Studio: Recording at Home",
+      "content": "*Requiem*'s production story is inseparable from where it was made. Rather than booking a commercial studio in Los Angeles, Korn recorded at Buck Owens Studio in Bakersfield, California — the band's actual hometown, where all four core members grew up and first played together. The COVID-19 pandemic, which forced the cancellation of Korn's touring schedule through 2020 and into 2021, gave the band something they rarely had: unhurried time to write and record without a tour looming over the sessions.\n\n**Recording in Bakersfield:**\nSessions ran from April to July 2021, produced by Chris Collier alongside the band. Recording in their hometown gave *Requiem* a grounded, unforced quality — the sessions weren't built around a commercial studio's clock, and the band has spoken about the record feeling more like a natural extension of who they are rather than a product built to a deadline.\n\n**Space Over Density:**\nCollier's production approach on *Requiem* favors clarity and space over the layered density of some earlier Korn records. For Luzier, this meant a drum sound that needed to hold its own with less to hide behind — every kick, snare, and cymbal placement more exposed in the mix, demanding precision rather than raw power.\n\n**A Pandemic-Era Record:**\nThe extended timeline afforded by the pandemic let Korn work through material more deliberately than usual. That reflection shows up in *Requiem*'s more atmospheric, dynamically varied songwriting — and in Luzier's playing, which trades some of the earlier albums' constant intensity for a wider dynamic range across the record's nine tracks.",
+      "sections": [
+        {
+          "title": "Buck Owens Studio, Bakersfield",
+          "description": "Korn recorded Requiem in their hometown — a full-circle location for the band's fourteenth album."
+        },
+        {
+          "title": "Pandemic-Era Timeline",
+          "description": "Extended recording window (April–July 2021) allowed more deliberate, less rushed songwriting and performance."
+        },
+        {
+          "title": "Space-Conscious Production",
+          "description": "Chris Collier's production favors clarity and dynamic range over maximalist density."
+        }
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Start the Healing",
+        "bpm": "112",
+        "signature": "4/4",
+        "highlights": [
+          "Lead single, released November 11, 2021 — reached #1 on the Mediabase Active Rock chart",
+          "Luzier's groove-locked verse pattern anchors one of Requiem's most direct, radio-ready tracks",
+          "Demonstrates the Pearl Reference Brass snare's exposed crack in Collier's spacious mix",
+          "Set the tone for Requiem's blend of accessibility and atmosphere"
+        ],
+        "gearNotes": "Pearl Demon Drive driving a controlled, mid-tempo kick pattern. Sabian AAX hi-hats anchoring the verse groove."
+      },
+      {
+        "track": "Forgotten",
+        "bpm": "100",
+        "signature": "4/4",
+        "highlights": [
+          "Second single, released January 13, 2022",
+          "Slower, heavier groove showcasing Luzier's dynamic restraint",
+          "Tom work moves in the flowing, musical arcs that define his fill vocabulary",
+          "One of the album's darkest, most deliberate performances"
+        ],
+        "gearNotes": "Pearl Reference Maple toms carrying the track's atmospheric fills. Sabian AAXtreme China marking the heaviest accents."
+      },
+      {
+        "track": "Lost in the Grandeur",
+        "bpm": "95",
+        "signature": "4/4",
+        "highlights": [
+          "Third single, released February 2, 2022, two days ahead of the album",
+          "Among Requiem's most atmospheric tracks — drums provide texture as much as rhythm",
+          "Sabian AAX 21\" Stage Ride prominent in the track's more spacious passages",
+          "Demonstrates the space-conscious approach that defines Requiem's production"
+        ],
+        "gearNotes": "Sabian AAX Stage Ride carrying the track's atmospheric riding sections. Pearl Reference Brass snare providing controlled, exposed backbeats."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "serenity-of-suffering-drum-setup",
+      "korn-iii-drum-setup",
+      "whats-in-ray-luziers-kit"
+    ],
+    "relatedDrummers": [
+      2,
+      7,
+      1
+    ],
+    "relatedArticles": [
+      "nu-metal-drum-setups",
+      "best-double-bass-pedals-metal"
+    ],
+    "faq": [
+      {
+        "question": "What drums did Ray Luzier use on Requiem?",
+        "answer": "Ray Luzier used his Pearl Reference Maple drum kit on Korn's Requiem (2022), continuing the setup he'd used since The Paradigm Shift (2013) and The Serenity of Suffering (2016). The configuration included double 22\" bass drums with a Pearl Demon Drive pedal, a five-tom spread (10\", 12\", 14\" racks, 16\" and 18\" floor toms), and a Pearl Reference 14\" × 6.5\" Brass snare. His cymbals were Sabian AAX, including 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" AAXtreme China."
+      },
+      {
+        "question": "When was Korn's Requiem released?",
+        "answer": "Korn's Requiem was released on February 4, 2022, through Loma Vista Recordings. It is the band's fourteenth studio album. The record was preceded by three singles — 'Start the Healing' (November 11, 2021), 'Forgotten' (January 13, 2022), and 'Lost in the Grandeur' (February 2, 2022) — with 'Worst Is on Its Way' following as a fourth single on April 12, 2022. The album debuted at #14 on the US Billboard 200."
+      },
+      {
+        "question": "Is Requiem Korn's newest album?",
+        "answer": "Yes — as of this writing, Requiem (released February 4, 2022) is Korn's most recent studio album, their fourteenth overall. It followed The Nothing (2019) and closes out Ray Luzier's studio discography with the band through the present day, spanning Korn III (2010), The Path of Totality (2011), The Paradigm Shift (2013), The Serenity of Suffering (2016), The Nothing (2019), and Requiem (2022)."
+      },
+      {
+        "question": "Who produced Korn's Requiem?",
+        "answer": "Requiem (2022) was produced by Chris Collier alongside Korn themselves. Recording took place from April to July 2021 at Buck Owens Studio in Bakersfield, California — the band's hometown, where founding members Jonathan Davis, Fieldy, Munky, and drummer-predecessor David Silveria grew up and first formed Korn in 1993. The pandemic-extended timeline let the band work through the material more deliberately than their usual touring-constrained recording schedules allowed."
+      },
+      {
+        "question": "What was the first single from Korn's Requiem?",
+        "answer": "\"Start the Healing\" was the lead single from Korn's Requiem, released November 11, 2021, ahead of the album's February 4, 2022 release. The track reached #1 on the Mediabase Active Rock radio chart in February 2022, making it one of Korn's biggest rock-radio successes of the era and setting the tone for Requiem's blend of accessibility and atmospheric restraint."
+      }
+    ],
+    "conclusion": {
+      "title": "The Arc Comes Home: Requiem",
+      "content": "*Requiem* closes a fourteen-year circle for Ray Luzier — from a touring drummer proving himself on *Korn III* in 2010 to a fully integrated member delivering one of the most controlled, dynamically mature performances of his career, recorded in the band's own hometown. Debuting at #14 on the Billboard 200 with 'Start the Healing' topping the Active Rock chart, *Requiem* confirmed that Korn — and its rhythm section — still had new ground to cover after nearly three decades.\n\nLuzier's Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedal carried the same DNA as *The Paradigm Shift* and *Serenity of Suffering*, deployed here with a new degree of restraint that let *Requiem*'s atmosphere breathe. It's the sound of a drummer who no longer has anything to prove, playing exactly what the song needs.\n\nFor deeper exploration of Ray Luzier's complete Korn arc:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)\n- **Where it began**: [Korn III Drum Setup (2010)](/articles/korn-iii-drum-setup)\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
+    }
+  },
   "whats-in-ray-luziers-kit": {
     "slug": "whats-in-ray-luziers-kit",
     "albumTitle": null,

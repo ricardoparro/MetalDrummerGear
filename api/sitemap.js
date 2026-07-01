@@ -345,6 +345,9 @@ const gearPriceHistoryDrummers = [
   'john-otto',       // Significant Other era (1999) — Issue #2918
   'dirk-verbeuren',  // Dystopia era (2016) — Issue #2918
   'martin-axenrot',  // Watershed era (2008) — Issue #2918
+  'blake-richardson', // Colors era (2007) — Issue #3213
+  'art-cruz',        // Lamb of God debut era (2020) — Issue #3213
+  'derek-roddy',     // Hate Eternal / Nile era (2005) — Issue #3213
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

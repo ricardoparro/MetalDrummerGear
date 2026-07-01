@@ -2,7 +2,7 @@
 
 *Record of strategic decisions and reasoning. Hot log: last 7 days. Older entries archived monthly under `.agents/ceo/decisions-history/`.*
 
-*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-06-29 00:43 UTC*
+*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-01 05:33 UTC*
 
 ---
 ## 2026-06-29 23:30 UTC — 2 proposals HOLD; #3059 CTR fix confirmed shipped (44)
@@ -30,6 +30,9 @@ Evening run. Backlog 44 (near cap — sparingly zone). Metrics fresh (23:23 UTC)
 4. **Kit Overview pipeline:** Batches 6+7 (PRs #3319/#3321) expected to merge soon; batches 8-11 in queue
 
 ---
+
+---
+
 ## 2026-06-29 14:30 UTC — 19 proposals triaged; #3243 closed (dup); #3285 Bill Ward arc-root promoted (42)
 
 ### Context (≤3 lines)
@@ -56,6 +59,9 @@ Mid-day pulse. Ralph shipped Kit Overview prose batches 4+5 today (PRs #3317/#33
 4. **Joey Jordison CTR:** "joey jordison drum set" 130 impr / 0.77% CTR — first click achieved; monitor. No new issue needed until #3059 fix fully indexes.
 
 ---
+
+---
+
 ## 2026-06-29 11:36 UTC — L1+L3 verifiers fresh; 3 regression issues filed; #3249 promoted (41)
 
 ### Context (≤3 lines)
@@ -85,6 +91,9 @@ First run with fresh verifier data: L1 gsc-watch-snapshot (09:47 UTC) and L3 ind
 4. **#3281 hub pages:** confirm editorial content added to /drummers + /gear/cymbals before next L3 snapshot
 
 ---
+
+---
+
 ## 2026-06-29 22:00 UTC — 7 proposals rated, 1 promote (#3227 Kit Overview batch 9) (39)
 
 ### Context (≤3 lines)
@@ -110,6 +119,9 @@ Extra invocation after scheduled 19:00 run. Metrics fresh (07:43 UTC). 7 new seo
 4. **L2 watch**: Kit Overview batches 4–9 in flight — log citations in learned-patterns.md once shipped.
 
 ---
+
+---
+
 ## 2026-06-29 19:00 UTC — 7 proposals rated, 1 promote (#3217 Kit Overview batch 8) (38)
 
 ### Context (≤3 lines)
@@ -135,6 +147,9 @@ Evening run. No PRs merged since 13:00 UTC; no zombie sweep needed. 7 new seo-pr
 4. **L2 watch**: Kit Overview batches 4–8 in flight — confirm in learned-patterns.md once shipped.
 
 ---
+
+---
+
 ## 2026-06-29 13:00 UTC — 7 proposals rated, 1 promote (#3210 Kit Overview batch 7) (37)
 
 ### Context (≤3 lines)
@@ -158,6 +173,9 @@ Mid-day pulse. Backlog 36 (post-morning). 7 new seo-proposals filed since 00:57 
 3. **Kit Overview batch 4+5+6 status** (#3140/#3188/#3206) — confirm merge in learned-patterns.md when shipped.
 
 ---
+
+---
+
 ## 2026-06-29 06:57 UTC — 10 zombies swept, 1 promote (#3188), 14 proposals rated, 1 L2 ai-fix (#3206) filed (36)
 
 ### Context (≤3 lines)
@@ -186,6 +204,9 @@ Morning run. Metrics (fresh 00:43 UTC): 108 users / 119 sessions / 2,532 impr / 
 4. **L2 watch**: Kit Overview batches 4+5+6 (#3140/#3188/#3206) — confirm pattern in learned-patterns.md once shipped.
 
 ---
+
+---
+
 ## 2026-06-28 16:50 UTC — 12 zombies swept, 26 promotes, 4 dups closed, 1 L2 ai-fix (#3140) filed (44)
 
 ### Context (≤3 lines)
@@ -212,6 +233,8 @@ Evening run (auto-triggered). Metrics: 113 users / 127 sessions / 3,065 impr / 7
 2. **Zombie sweep** — Ralph working weekend; close any new merges.
 3. **Promote at <25**: HOLDs #2993 (LoG Art Cruz) → #2994 (IM Dance+AMOLAD) → #2995 (Converge/Koller) → #2996 (Bad Magic/Mikkey Dee) → #2999 (Comparison-35).
 4. **#2968/#2997/#2945 status** — Kit Overview batch 2+3 + comparative-list: if shipped, confirm patterns in learned-patterns.md.
+
+---
 
 ---
 
@@ -254,6 +277,8 @@ Late re-trigger (22:20 UTC). Metrics: 118 users / 129 sessions / 3,062 impr / 70
 
 ---
 
+---
+
 ## 2026-06-27 19:28 UTC — 5 zombies swept, 2 promotes (#2973/#2970), 7 proposals triaged (32)
 
 ### Context (≤3 lines)
@@ -287,6 +312,8 @@ Re-trigger post-19:00 run. Metrics unchanged (116 users / 127 sessions / 3,062 i
 
 ---
 
+---
+
 ## 2026-06-27 19:00 UTC — 5 zombies swept, 10 promotes, #2968 filed (Kit Overview batch 2)
 
 ### Context (≤3 lines)
@@ -312,6 +339,8 @@ Evening run. Metrics unchanged (116 users / 126 sessions / 3,062 impr / 70 click
 2. **Zombie sweep** — Ralph active over weekend; close any Sunday merges.
 3. **#2945/#2968 status** — Kit Overview batch 2 + comparative-list Top-10: if shipped, log pattern confirmation in learned-patterns.md.
 4. **Promote order at <25**: #2935 (BTBAM Colors+Misdirect) → #2950 (SoundLike batch 33) → #2952 (Genre Gear batch 2).
+
+---
 
 ---
 
@@ -354,6 +383,8 @@ Mid-day pulse. Metrics (13:30 UTC): 112 users / 121 sessions / 3,062 impr / 70 c
 
 ---
 
+---
+
 ## 2026-06-27 10:37 UTC — Backlog cleared to 23; 15 promotes + 2 CTR issues filed; 7 new proposals triaged
 
 ### Context (≤3 lines)
@@ -382,6 +413,8 @@ Morning run (metrics: 109 users / 118 sessions / 3,062 impr / 70 clicks / 2.29% 
 2. **#2715 + #2718** — St. Anger + Hardwired still open >60h; post escalation comment if Ralph hasn't started.
 3. **L1 snapshot** — new gsc-watch-snapshot.md; check Shannon Larkin + Brann Dailor CTR (#2927/#2928 shipped?); if still 0 clicks post-fix, flag as structural issue.
 4. **Promote order** (when backlog < 45 again): #2882 (Comparison-29, 5★-candidate CTR entities) → #2901 (IM Brave New World batch) → #2902 (Opeth Heritage/Pale/Sorceress batch).
+
+---
 
 ---
 
@@ -423,6 +456,8 @@ Second re-trigger run after the 21:00 re-trigger. Eligible backlog: 45 (hard cap
 
 ---
 
+---
+
 ## 2026-06-27 (re-trigger) — 7 new proposals triaged, all held at cap
 
 ### Context (≤3 lines)
@@ -456,6 +491,8 @@ Re-trigger run post-21:00 sweep. Metrics 2026-06-27 05:19 UTC: 108 users / 117 s
 
 ---
 
+---
+
 ## 2026-06-27 21:00 — 7 new proposals triaged, #2885 Jordison Vol.3 promoted (44→45 cap)
 
 ### Context (≤3 lines)
@@ -481,6 +518,8 @@ Unscheduled run (19:00 entry set next check to 2026-07-01, but 7 untriaged seo-p
 2. **Zombie sweep** — close any PRs merged since 21:00 today.
 3. **#2715–#2718** — if still open at 07:00, post comment "60h+ open, no Watcher pick-up" and escalate to `human-founder` if Ralph has merged unrelated issues since.
 4. **4★ queue** (promote when <25): #2887 (Arch Enemy arc) → #2888 (GearEvo-8) → #2890 (Comparison-30).
+
+---
 
 ---
 
@@ -525,6 +564,8 @@ Evening run. Metrics (01:40 UTC): 107 users / 116 sessions / 2,542 impr / 64 cli
 
 ---
 
+---
+
 ## 2026-06-27 13:00 — L2 LLM gap #2877 filed, 11 proposals promoted (32→43), #2715–#2718 watch continued
 
 ### Context (≤3 lines)
@@ -554,6 +595,8 @@ Mid-day run. Metrics fresh 2026-06-27 00:41 UTC: 106 users / 115 sessions / 2,54
 2. **#2715–#2718 watch** — if still 0 Watcher pick-up at 19:00 (~40h), post escalation comment; create `human-founder` at next morning run.
 3. **brann-dailor CTR** — if L1 refresh early, check pos/CTR; file title+meta issue if still 0 clicks.
 4. **Hold 4★ queue** (promote only when backlog drops to <25): #2857 (IM Book of Souls) → #2862 (Top-10 batch 19) → #2779 (Lick batch 16).
+
+---
 
 ---
 
@@ -593,6 +636,8 @@ Deep run 07:00 UTC. Metrics fresh 2026-06-26 23:27 UTC: 118 users / 134 sessions
 2. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships via PR.
 3. **Zombie sweep** — mid-morning merges likely; close before counting.
 4. **4★ queue** (promote when backlog <25): #2857 (IM Book of Souls) → #2858 (A7X Nightmare) → #2859 (SoundLike batch 28) → #2861 (Comparison batch 27).
+
+---
 
 ---
 
@@ -643,6 +688,8 @@ Late-evening run. Metrics fresh (2026-06-26 22:23 UTC): 117 users / 133 sessions
 
 ---
 
+---
+
 ## 2026-06-26 19:30 — 3 zombies closed, 7 proposals triaged (3 promoted 5★ — CoB/Jaska, GearEvo-4/Mario, Comparison-25/Flo+Brann), broken-video #2838 noted (31→34)
 
 ### Context (≤3 lines)
@@ -684,6 +731,8 @@ Evening continuation run. Metrics: 112 users / 128 sessions / 2,808 impr / 74 cl
 
 ---
 
+---
+
 ## 2026-06-26 19:00b — 4 zombies closed, 7 proposals triaged (3 promoted 5★), stale watch — Haake+Inferno+6-entity batch (31→34)
 
 ### Context (≤3 lines)
@@ -716,6 +765,8 @@ Evening run (second invocation). Metrics: 112 users / 128 sessions / 2,808 impr 
 2. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships.
 3. **Zombie sweep** — overnight batch likely; each close frees slots toward 4★ promotion.
 4. **4★ queue** (promote when backlog <25): #2811 (Bostaph/Divine Int) → #2812 (Portnoy/Black Clouds) → #2813 (Harrison/PT batch) → #2814 (Lombardo/Testament).
+
+---
 
 ---
 
@@ -768,6 +819,8 @@ Evening run. Metrics: 109 users / 125 sessions / 2,808 impr / 74 clicks / 2.64% 
 
 ---
 
+---
+
 ## 2026-06-27 07:00 — 6 zombies closed, 1 promoted (Matt Greiner Phantom Anthem 5★), 7 proposals triaged (35→36)
 
 ### Context (≤3 lines)
@@ -809,6 +862,8 @@ Morning deep run. Metrics fresh (2026-06-26 10:58 UTC): 108 users / 124 sessions
 
 ---
 
+---
+
 ## 2026-06-26 19:00 — 2 promoted (Brann CTR gap + ABR arc close), stale nudge ×4 (40→42)
 
 ### Context (≤3 lines)
@@ -840,6 +895,8 @@ Evening run. Metrics: 104 users / 121 sessions / 2,246 impr / 58 clicks / 2.58% 
 2. **#2715–#2718 stale watch** — if still 0 Watcher activity (>24h post re-file), escalate to `human-founder` for root-cause investigation; this is unprecedented stagnation.
 3. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships.
 4. **5★ next queue** (promote when backlog drops): #2720 (Gojira Fortitude) → #2730 (Sepultura Machine Messiah) → #2725 (Comparison batch 21).
+
+---
 
 ---
 
@@ -895,6 +952,8 @@ Mid-day pulse. Metrics: 104 users / 121 sessions / 2,246 impr / 58 clicks / 2.58
 
 ---
 
+---
+
 ## 2026-06-27 07:00 — 15 zombies closed, 20 promotions, 4 stale re-filed (20→35)
 
 ### Context (≤3 lines)
@@ -931,6 +990,8 @@ Morning deep run. Metrics fresh (2026-06-26 03:08 UTC): 103 users / 119 sessions
 2. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships via PR.
 3. **Brann Dailor CTR** — pos 6.3 / 23 impr / 0 clicks: same pattern as Shannon Larkin CTR gap. File CTR optimization if next L1 snapshot (2026-07-01) still 0 clicks.
 4. **4★ remaining holds** (#2701, #2703, #2705, #2706) — promote if backlog drops below 25 again.
+
+---
 
 ---
 
@@ -978,6 +1039,8 @@ Evening run. Metrics stale (last fetch 01:44 UTC): 103 users / 119 sessions / 2,
 
 ---
 
+---
+
 ## 2026-06-26 13:00 — 4 zombies closed, 7 proposals triaged, 2 promotions + 4 stale escalations (37→33→35)
 
 ### Context (≤3 lines)
@@ -1009,6 +1072,8 @@ Mid-day pulse. Metrics: 102 users / 118 sessions / 2,246 impr / 58 clicks / 2.58
 2. **Shannon Larkin CTR** — pos 4.8 / 0 clicks still; file CTR optimization issue if data doesn't improve by next L1 snapshot (2026-07-01).
 3. **Ceo-aggressive watch** — check if Watcher has picked up #1895/#1928/#1929/#2096 after ceo-aggressive label; split if still stuck.
 4. **4★ queue** (promote if backlog drops <25): #2508 → #2509 → #2510 → #2607 → #2615 → #2608 → #2652 → #2655 → #2670 → #2673.
+
+---
 
 ---
 
@@ -1063,6 +1128,8 @@ Morning deep run. Metrics fresh (2026-06-25 23:30 UTC): 121 users / 145 sessions
 
 ---
 
+---
+
 ## 2026-06-26 19:00 — 13 zombies closed, 10 proposals triaged, 8 promotions (42→29→37)
 
 ### Context (≤3 lines)
@@ -1101,6 +1168,8 @@ Evening run. Metrics fresh (2026-06-25 22:28 UTC): 121 users / 145 sessions / 2,
 2. **#2508 broken-ref check** — verify if Still Life article references MAYH as previousAlbum; if yes, auto-5★ and promote.
 3. **Priority 4★ queue** (promote when backlog <25): #2508 (Opeth MAYH Lopez) → #2509 (Dimmu ISD Hellhammer) → #2510 (Behemoth ILYA Inferno) → #2607 (Gojira Terra Incognita) → #2615 (Tool Undertow) → #2608 (Opeth Watershed).
 4. **Stale escalation** — if #1895/#1928/#1929/#2096 still show 0 Watcher activity by 07:00, consider adding `ceo-aggressive` label to force split or human-founder escalation.
+
+---
 
 ---
 
@@ -1166,6 +1235,8 @@ Evening run. Metrics fresh (2026-06-25 16:43 UTC): 118 users / 141 sessions / 2,
 
 ---
 
+---
+
 ## 2026-06-26 13:00 — 7 proposals triaged (all held — AT CAP), no zombies
 
 ### Context (≤3 lines)
@@ -1194,6 +1265,8 @@ Mid-day pulse. No PRs merged since 07:00 run — backlog remains at 45 (AT CAP).
 2. **Priority promotes** when slots open: #2481 (Slayer Seasons) → #2482 (Morbid Angel Covenant) → #2450 (Behemoth Satanica).
 3. **Stale retry** — #1895/#1928/#1929/#1933/#2096 now >7 days with no activity; investigate root cause at 19:00 if still stuck.
 4. **Joey Jordison CTR gap** — 282+ impressions at pos 7–11 with ~0 CTR; watch for `ctr-gap-opportunity` in 2026-07-01 L1 snapshot.
+
+---
 
 ---
 
@@ -1249,6 +1322,8 @@ Mid-day pulse. Metrics current as of 2026-06-25 01:43 UTC (108 users / 130 sessi
 
 ---
 
+---
+
 ## 2026-06-26 07:00 — 8 zombies closed, 10 proposals triaged, 8 promotions (37→45)
 
 ### Context (≤3 lines)
@@ -1284,6 +1359,8 @@ Morning deep run. Metrics stale (last fetch 2026-06-25 00:42 UTC — will refres
 2. **Priority promotes** when slots open: #2451 (Behemoth ZKC) → #2450 (Behemoth Satanica) → #2440 (Dimmu Borgir DCA).
 3. **Joey Jordison CTR gap** — watch for `ctr-gap-opportunity` in next L1 snapshot (2026-07-01); flag title/meta optimization for joey-jordison page when backlog <45.
 4. **Retry watch** — #1895/#1928/#1929/#1933/#2096 now >5 days with no activity; if still stuck at 13:00, investigate root cause.
+
+---
 
 ---
 
@@ -1349,6 +1426,8 @@ Evening run. Metrics: 111 users / 136 sessions / 2,298 impr / 60 clicks / 2.61% 
 
 ---
 
+---
+
 ## 2026-06-25 13:00 — 8 new proposals rated (all held — backlog AT CAP 45), no zombies, no open PRs
 
 ### Context (≤3 lines)
@@ -1380,6 +1459,8 @@ Mid-day pulse. Metrics: 111 users / 136 sessions / 2,298 impr / 60 clicks / 2.61
 2. **Slot 1 promote** — if any slot opens: #2409 (sitemap fix, 5★ immediate) → then #2202 (HowTo JSON-LD).
 3. **Ralph retry watch** — #2226 (Hellhammer SL) + retry queue #1895/#2096/#1928/#1933; each successful merge creates room.
 4. **No new L2 ai-fix** until backlog drops below 45.
+
+---
 
 ---
 
@@ -1442,6 +1523,8 @@ Morning deep run. Metrics: 109 users / 134 sessions / 2,298 impr / 60 clicks / 2
 
 ---
 
+---
+
 ## 2026-06-24 19:02 — 9 zombies closed, 3 PRs resolved, 7 proposals rated, 9 promotions (36→45)
 
 ### Context (≤3 lines)
@@ -1475,6 +1558,8 @@ Evening run. Metrics: 108 users / 133 sessions / 2,298 impr / 60 clicks / 2.61% 
 2. **Priority promotes** when slots open: #2359 (DT DoT) → #2361 (SoundLike 14) → #2362 (gear price 15) → #2363 (Top-10 batch 9).
 3. **#2215 split** — trigger if backlog ≤44; split brand/series/drummers-using (~12 pages → 4 atomic).
 4. **L1 check** — next weekly snapshot 2026-06-30.
+
+---
 
 ---
 
@@ -1537,6 +1622,8 @@ Evening run. Metrics fresh (2026-06-24 10:58 UTC). No new founder ideas. 5 zombi
 
 ---
 
+---
+
 ## 2026-06-25 07:00 — 9 PRs merged, #2150 split (4 atomic), 6 promotions (39→45)
 
 ### Context (≤3 lines)
@@ -1571,6 +1658,8 @@ Morning deep run. Ralph active overnight: 10 MERGEABLE PRs + 5 CONFLICTING opene
 2. **Priority promotes** when slots open: #2269 (DT Systematic Chaos — LLM) → #2271 (SoundLike batch 12 — proven ✅) → #2173 already promoted; next: #2174 (CC Tomb) → #2175 (Trivium Shogun) → #2177 (comparison batch 8).
 3. **#2215 split** (brand/series/drummers-using ~12 pages) — needed before promotion; split into ~4 atomic issues when backlog ≤44.
 4. **L1 check** — next weekly snapshot 2026-06-30; note joey-jordison now baselining (impr 84, pos 8.5).
+
+---
 
 ---
 
@@ -1639,6 +1728,8 @@ Mid-day pulse. 0 open PRs — Ralph hasn't filed retry PRs yet on #1843/#1895/#2
 
 ---
 
+---
+
 ## 2026-06-24 19:00 — 7 new proposals rated (all held — cap); backlog holds at 45
 
 ### Context (≤3 lines)
@@ -1670,6 +1761,8 @@ Evening run. 7 new seo-proposals filed by SEO Agent (#2232–#2238) since 13:00.
 2. **Promote priority order** when slots open: #2212 (prose kit overview — LLM head-term gap) → #2236 (Tomas Haake Catch 33 — zero-competitor L2) → #2234 (Mike Portnoy Train of Thought — L2 gap).
 3. **Ralph retry watch** — #1843/#1893/#1875/#1930/#1928 are all open/eligible; expect Ralph to re-attempt after 13:00 conflict closures today.
 4. **L1 snapshot check** — next weekly run 2026-06-30; note brann-dailor is baselining (impr 22, pos 5.8) and will be classified as win/null/loss vs new baseline next cycle.
+
+---
 
 ---
 
@@ -1724,6 +1817,8 @@ Mid-day pulse. Backlog was 48 (3 above cap) — issues #1842/#1857/#1864 not aut
 
 ---
 
+---
+
 ## 2026-06-24 07:00 — L1 patterns logged (4 wins); #2135 split (4 atomic); Ralph active with 3 PRs
 
 ### Context (≤3 lines)
@@ -1755,165 +1850,6 @@ Morning deep run. First full L1 snapshot available (gsc-watch-snapshot.md genera
 4. Triage any new seo-proposals from SEO Agent.
 
 ---
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-23 23:00 — 7 new proposals triaged (all held — cap); #2215 flagged as strategic priority
-
-### Context (≤3 lines)
-Post-22:45 run. Backlog still AT CAP (45). No Ralph content PRs since June 21. 7 new seo-proposals filed by SEO Agent (#2213–#2219): 3 article fills, 3 programmatic batches, 1 new page-type proposal.
-
-### Actions taken
-- **Rated #2219** (Nick Menza + Sean Reinert lick pages) — **5★ HOLD**: lick format proven by igor-cavalera GA4 signal; both are high-TAM legends
-- **Rated #2218** (Comparison batch 10: Benante/Lombardo, Casagrande/Cruz, Reinert/Kollias) — **5★ HOLD**: Benante vs Lombardo = thrash royalty pairing; Casagrande has GSC signal (18 impr / 5.56% CTR)
-- **Rated #2217** (Gear price history batch 10: Alex Bent, Erlandsson, Abe Cunningham) — **4★ HOLD**: Erlandsson = Arch Enemy = strong name; Abe crossover appeal
-- **Rated #2216** (SoundLike batch 10: Alex Bent, Abe Cunningham, Inferno) — **5★ HOLD**: Inferno already at 11.11% GSC CTR; proven format
-- **Rated #2215** (brand/series/drummers-using pages ~12) — **5★ HOLD ⭐ STRATEGIC**: new content TYPE with purchase-intent + affiliate conversion angle; no competitor equivalent; flag for priority promotion when a slot opens. May need splitting (12 pages = multi-PR scope).
-- **Rated #2214** (Deftones 'Around the Fur', Abe Cunningham) — **4★ HOLD**: strong crossover TAM; alt-metal cluster extension
-- **Rated #2213** (Slayer 'Hell Awaits', Dave Lombardo) — **4★ HOLD**: thrash arc fill; cross-links with #2218 Lombardo comparison pair
-- **No promotions** — backlog at 45 (AT CAP); all 7 held as seo-proposal idea bank
-
-### State delta
-- **7 new proposals rated** (#2213–#2219): 3×5★, 4×4★ — all HOLD
-- **Idea bank depth:** ~27 quality proposals parked (5★: #2219 #2218 #2216 #2215 #2202 #2201 #2196 #2197; 4★+: remainder)
-- **#2215 strategic flag:** brand/series/drummers-using = new purchase-intent content type; first-mover advantage if we ship before competitors
-- **Ralph blocker:** 0 content PRs since June 21 (#1822 rc=1 loop still unresolved)
-
-### Quota check
-✅ Proposals triaged: 7/7. ✅ Founder inbox: empty. ✅ GSC-gap: no queries ≥50 impr below 2% CTR. ✅ L1: no snapshot yet. ✅ No over-filing (0 ai-fix). ✅ Decisions logged.
-
-### Next Run (2026-06-24 07:00 UTC)
-1. Investigate #1822 rc=1 root cause — 2500 comment retry loop; understand why Ralph can't commit to /spotlights page.
-2. Stale sweep: #2135/#2153/#2147/#2160/#2150/#2159 hit 72h at ~June 24 13:35 — assess hold labels.
-3. Check if any overnight merges freed slots; promote in priority order (#2172 → #2173 → #2174 → #2175 → #2177 → #2215 split).
-4. #2215 (brand/series/drummers-using) — if backlog <45, split into atomic sub-issues before promoting.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-23 22:45 — L2 first read: 1/25 cited; ✅ pattern logged; 1 seo-proposal filed
-
-### Context
-First read of L2 umbrella #2211 (auto-generated 22:27 UTC today). 0 open PRs · 45 eligible backlog (AT CAP) · 20 seo-proposals all held. L1 gsc-watch-snapshot.md not yet generated (new verifier, first cycle pending).
-
-### Actions taken
-- **Read L2 #2211:** 24/25 queries uncited; 1 cited ("what cymbals does joey jordison use" via Perplexity gear-detail extraction). 4% citation rate — room for improvement.
-- **Logged ✅ L2 pattern to learned-patterns.md:** `long-tail gear-detail` + structured gear inventory format → Perplexity citation. Component-level specificity (brand/model per cymbal/snare) is what LLMs extract for precise gear-detail queries.
-- **Filed seo-proposal #2212** (drummer-head-term LLM gap): 8/25 uncited queries are `{drummer} drum kit` head-terms; competitors win with prose "kit overview" paragraphs our profiles lack. Gap: we have structured gear lists (wins gear-detail queries) but no prose synthesis (loses head-term queries). Filed as seo-proposal — backlog AT CAP.
-- **No L1 actions:** gsc-watch-snapshot.md does not exist yet; 0 gsc-watch umbrella issues open.
-- **No ai-fix from L2:** backlog at 45 (cap); all L2 patterns parked as seo-proposal per backlog-capped-promotion protocol.
-
-### State delta
-- **L2 citation rate:** 1/25 (4%) — new measurable baseline for AI-search citations KPI
-- **learned-patterns.md:** first ✅ entry seeded (gear-detail + inventory → citation)
-- **New seo-proposal:** #2212 (drummer head-term kit overview; 8 queries; promote when backlog <45)
-- **Backlog: 45 — unchanged (AT CAP)**
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ L2 read: #2211 fully processed (pattern logged, proposal filed). ✅ L1: no snapshot yet — first cycle in progress. ✅ No over-filing (1 seo-proposal from L2, 0 ai-fix). ✅ Decisions logged.
-
-### Next Run (2026-06-24 07:00 UTC)
-1. Investigate #1822 rc=1 root cause — 2500 retry loop; 0 Ralph PRs since June 21 (57h idle).
-2. Stale sweep: #2135/#2153/#2147/#2160/#2150/#2159 hit 72h at June 24 13:35 — assess hold labels if still no PR.
-3. Promote in priority order (#2172 → #2173 → #2174 → #2175 → #2177) for any slots Ralph opens overnight.
-4. GSC watch: CTR 2.48% new high — watch for further lift from June 23 content batch indexing.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-23 22:30 (state-confirm — anti-noise hold)
-- Backlog: 45 ai-fix · 0 PRs open · proposals untriaged: 20 (all held from prior run)
-- Org / Sessions / Views (7d): 96 / 123 / 288
-- Blockers unchanged: #1822 #1824 #1825 (hold) · no re-spam
-- Actions: none — cap hold continues; 0 Ralph PRs since 2026-06-21; no new proposals, no founder ideas
-- Next check: 2026-06-24 07:00 UTC — investigate #1822 rc=1 root cause; stale sweep (#2147/#2150 hit ~49h, not yet 72h); promote if any overnight merges
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-23 21:08 — 3 Ralph-stuck issues held, 7 proposals rated, 3 promotions (42→45)
-
-### Context
-Evening run. Metrics fresh 21:08 UTC: 96 users / 123 sessions / 2,017 impr / 50 clicks / 2.48% CTR / pos 8.7 — **CTR at 2.48%, highest recorded; impressions up to 2,017**. 0 open PRs. 7 unreviewed seo-proposals (#2196–#2202, filed 2026-06-21 13:47–13:50, missed in prior run). Eligible backlog entering run: 45.
-
-### Actions taken
-- **Held 3 stale Ralph rc=1 issues** (add "hold" label — stop wasted retry cycles):
-  - **#1822** (/spotlights sitemap+SSR+CollectionPage) — **2500 comments** of "Ralph produced no commits (rc=1)"; catastrophic retry loop. Held pending investigation.
-  - **#1824** (/history CollectionPage+FAQPage) — 98 comments, same failure pattern.
-  - **#1825** (Inferno Behemoth 'The Satanist' article) — 81 comments, same failure.
-  - Backlog after holds: 45 → 42 (sparingly zone unlocked).
-- **Rated 7 new seo-proposals — all HOLD (cap target 45):**
-  - **#2202** HowTo JSON-LD on 14 SoundLike guide pages — 5★ (schema unlock for AI Overview across proven high-CTR guides)
-  - **#2201** Meshuggah 'Chaosphere' (1998) — 5★ (fills DEI→Nothing arc; sequence after #2129 DEI ships)
-  - **#2200** Children of Bodom 'Are You Dead Yet?' (2005) — 4★ (CoB arc extension; after #2160 Hatebreeder)
-  - **#2199** Top-10 batch 6 (technical-death, grindcore, viking/folk) — 4★ (niche genres, solid catalog depth)
-  - **#2198** Comparison pairs batch 9 (Ilejay/Weinberg, Augusto/Richardson, Travis/McBrain) — 4★ (Weinberg+McBrain have TAM)
-  - **#2197** Gear price history batch 9 (Garstka, Augusto, Aquiles) — 5★ (Aquiles GSC signal + Garstka GA4)
-  - **#2196** SoundLike batch 9 (Jaska, Shannon Larkin, Luzier) — 5★ (Jaska 50% CTR + Shannon GA4)
-- **Promoted 3 to ai-fix (backlog 42→45, at cap):**
-  - **#2164** Comparison pairs batch 7 (Dailor/Portnoy, Carey/Harrison, Duplantier/Kollias) — all-signal pairs; LLM citation + GSC coverage
-  - **#2162** Morbid Angel 'Blessed Are the Sick' (Pete Sandoval, 1991) — pivotal death metal arc gap
-  - **#2154** Gojira 'The Link' (Mario Duplantier, 2003) — 20% GSC CTR; Terra Incognita→FMtS gap
-- **Strategic note:** PRs #2206 + #2207 (weekly GSC-gap verifier L1 + LLM-citation auto-test L2) merged today — automated loops now active; will generate structured proposals going forward.
-
-### State delta
-- **ai-fix eligible backlog: 45 → 42 (3 holds) → 45 (3 promotions) — AT CAP**
-- **Held idea bank:** 7 new (#2196–#2202) + all prior held ≈ 56 quality proposals queued
-- **Ralph blocker:** #1822 with 2500 retry comments is the most alarming signal — investigate root cause in next deep run
-- **CTR milestone:** 2.48% (new high; up from 2.22% prior peak)
-- **New automated loops:** GSC-gap verifier + LLM-citation test now running weekly
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 rated (all held — cap). ✅ GSC-gap: no queries ≥50 impr below 2% CTR (dashboard clean). ✅ Stale sweep: #1822/#1824/#1825 held (4 days old, rc=1 loop stopped). ✅ Promotions: 3 (backlog at 45). ✅ Decisions logged.
-
-### Next Run (2026-06-24 07:00 UTC)
-1. Count Ralph PRs overnight — promote in priority order (#2172 Death Spiritual Healing → #2173 A7X → #2174 CC Tomb → #2175 Trivium Shogun → #2177 comparison batch 8) as slots open.
-2. Investigate #1822 rc=1 root cause — 2500 retry loop is waste; look at spotlights page component to understand why Ralph can't commit.
-3. GSC watch: CTR at 2.48% (new high) — watch for further lift as recent content batch indexes.
-4. New automated loops active — expect GSC-gap verifier to generate proposals; triage immediately on next morning run.
 
 ---
 

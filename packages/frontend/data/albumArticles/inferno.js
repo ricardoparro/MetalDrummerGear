@@ -3026,6 +3026,289 @@ export const articles = {
       "title": "The Arc Gap Filled: Demigod to Evangelion Through The Apostasy",
       "content": "*The Apostasy* is the essential missing chapter in Behemoth's most celebrated creative run. Between *Demigod*'s international breakthrough (2004) and *Evangelion*'s suffocating technical density (2009) sits an album that refined the approach of the former and directly enabled the latter — the production ambition expanded, the tympani enhancement introduced, and Inferno's performance elevated to a level that positioned him as unambiguously one of extreme metal's most accomplished drummers.\n\nFor Inferno, *The Apostasy* represented a decisive step beyond the *Demigod* blueprint. The Pearl Masters BRX kit he had used on *Demigod* remained his instrument of record, but the recording context had changed: more orchestral in ambition, bolder in production scale, with the Wiesławski brothers at Hertz Studio reaching beyond the standard extreme metal toolkit to incorporate real tympani into the drum sound. The result is an album that sounds physically massive in a way that *Demigod* — for all its impact — does not.\n\n\"At the Left Hand ov God\" is the permanent document of what Inferno and Nergal achieved on this record. The track is Behemoth at a specific inflection point: extreme enough to satisfy the blackened death metal underground, melodic enough to reach beyond it, and produced with enough grandeur to announce that this band had ambitions that exceeded genre boundaries. It remains the most-streamed Behemoth track from this era — a testament to the enduring quality of the performance.\n\n**For Drummers Studying The Apostasy:**\nThe primary lesson is scale. Inferno's technical vocabulary on this album is not fundamentally different from *Demigod* — the blast beats, the kick patterns, the snare precision are all continuous from that record. What changes is the production context: the tympani layer, the grandiose ambition, the cinematic scope. Learning to play within that larger sonic canvas — to let the production work with you rather than around you — is the skill *The Apostasy* demonstrates.\n\nFor the albums that frame this one, see the [Demigod drum setup](/articles/demigod-drum-setup) (2004) and the [Evangelion drum setup](/articles/evangelion-drum-setup) (2009). For Inferno's complete career gear evolution, the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit) and the [Inferno drummer profile](/drummer/inferno) cover the full picture from raw black metal origins to the Grammy-nominated present."
     }
+  },
+  "opvs-contra-natvram-drum-setup": {
+    "slug": "opvs-contra-natvram-drum-setup",
+    "albumTitle": "Opvs Contra Natvram",
+    "artist": "Behemoth",
+    "drummer": "Inferno",
+    "drummerId": 19,
+    "relatedDrummerSlug": "inferno",
+    "year": 2022,
+    "genre": "Blackened Death Metal",
+    "label": "Nuclear Blast",
+    "studio": "Tall Fire Records Studio (drums), Sound Division Studio (guitars/vocals), Heinrich House Studio (bass)",
+    "producer": "Behemoth, engineered by Daniel Bergstrand, mixed by Joe Barresi, mastered by Bob Ludwig",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Opvs Contra Natvram Drum Setup: Inferno's Arsenal on Behemoth's 2022 Album",
+    "description": "Complete breakdown of Inferno's drum setup for Behemoth's Opvs Contra Natvram (2022), the band's most recent studio album. Discover the Pearl Masters MCX kit, Pork Pie snare, and Paiste 2002 Black cymbals behind Neo-Spartacvs and Versvs Christvs.",
+    "seoKeywords": [
+      "opvs contra natvram drum kit",
+      "behemoth opvs contra natvram drums",
+      "inferno drum setup 2022",
+      "behemoth newest album drums",
+      "behemoth latest album",
+      "pearl masters mcx behemoth",
+      "paiste 2002 black behemoth",
+      "inferno pork pie snare"
+    ],
+    "ogImage": "/images/albums/opvs-contra-natvram-drums.webp",
+    "intro": {
+      "title": "Behemoth's Most Recent Chapter",
+      "content": "Released September 16, 2022 through Nuclear Blast, *Opvs Contra Natvram* ('Work Against Nature') is Behemoth's twelfth studio album and, as of this writing, their most recent full-length — the current endpoint of an arc that stretches back to *Satanica* (1999). If a listener asks what Behemoth's latest album is, this is the answer, and Inferno's drumming across its ten tracks is the newest entry in one of extreme metal's most thoroughly documented gear evolutions.\n\nThe album arrived after a difficult stretch for the band: frontman Nergal's second cancer diagnosis and recovery shadowed the writing process, and the record was tracked across a scattered, pandemic-era set of studios rather than the band's usual Hertz Studio home base. Drums were engineered at Tall Fire Records Studio, with Daniel Bergstrand — the Swedish producer behind Meshuggah and In Flames, and Behemoth's collaborator on *I Loved You at Your Darkest* (2018) — again handling engineering duties. Joe Barresi, known for his work with Tool, Queens of the Stone Age, and Alice in Chains, mixed the album, and mastering was handled by veteran mastering engineer Bob Ludwig.\n\nInferno's playing on *Opvs Contra Natvram* covers the full range Behemoth has built over two decades: the relentless blast-beat assault of 'Malaria Vvlgata,' the mid-paced menace of 'Neo-Spartacvs,' and the sprawling, six-and-a-half-minute closer 'Versvs Christvs,' which brings the album's anti-clerical themes to their fullest musical expression. The title 'Ov My Herculean Exile' continues Behemoth's long-running convention of 'Ov'-prefixed song titles — a naming callback stretching back through 'Ov Fire and the Void' on *Evangelion* (2009) — even as the gear behind it has moved on considerably.\n\nThis article breaks down Inferno's studio setup for *Opvs Contra Natvram*: the Pearl Masters MCX kit in a custom black finish, the Pork Pie snare, and the Paiste 2002 Black series cymbals that mark a clear departure from the Meinl-centric setups documented on *The Satanist* and *I Loved You at Your Darkest*.",
+      "keyPoints": [
+        "Behemoth's most recent studio album — closes the documented gear arc through 2022",
+        "Engineered by Daniel Bergstrand (Meshuggah, In Flames), mixed by Joe Barresi, mastered by Bob Ludwig",
+        "Pearl Masters MCX custom black kit — a new shell choice distinct from prior Tama/Pearl Reference eras",
+        "Paiste 2002 Black series cymbals paired with a Pork Pie snare — a shift away from the Meinl setups of The Satanist and I Loved You at Your Darkest",
+        "Ten tracks including 'Neo-Spartacvs' and closer 'Versvs Christvs'"
+      ]
+    },
+    "drumKit": {
+      "title": "Inferno's Pearl Masters MCX: The Opvs Contra Natvram Configuration",
+      "brand": "Pearl",
+      "model": "Pearl Masters MCX",
+      "finish": "Custom Black",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Maple/gumwood hybrid shells — Pearl Masters MCX construction"
+      },
+      "description": "For *Opvs Contra Natvram*, Inferno moved to a Pearl Masters MCX kit finished in custom black — a shell choice that stands apart from the Tama Starclassic configurations documented on *The Satanist* (2014) and *I Loved You at Your Darkest* (2018). The Masters MCX line's maple/gumwood hybrid construction is built for exactly the kind of focused low end and controlled attack that blackened death metal at high tempo demands, and the all-black finish matches the album's stark, ritualistic visual identity.\n\nThe double 22\" x 18\" bass drum configuration remains Inferno's non-negotiable standard, unchanged across every album in the arc since *Satanica*. Two independent kicks rather than a linked double pedal on a single drum give each foot its own resonant chamber — a mechanical requirement at the tempos 'Malaria Vvlgata' and 'Off to War!' demand.\n\nThe tom spread again stays compact: two rack toms and two floor toms. *Opvs Contra Natvram*'s arrangements, like the records before it, prioritize rhythmic drive and structural punctuation over elaborate tom vocabulary, and the four-tom configuration Inferno has favored since the 2000s continues to serve that priority without alteration.",
+      "notes": [
+        "Pearl Masters MCX custom black — new shell choice for the 2022 album cycle",
+        "Maple/gumwood hybrid shells for focused low end at blast beat tempos",
+        "Double 22\" x 18\" bass drums for independent control, unchanged since Satanica (1999)",
+        "Four-tom configuration matching the compositional priorities of prior Behemoth records"
+      ],
+      "estimatedValue": "$3,800–5,800 (Pearl Masters MCX custom black configuration)"
+    },
+    "snare": {
+      "title": "Pork Pie: A New Snare Voice",
+      "brand": "Pork Pie",
+      "model": "Pork Pie Custom Brass Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Brass",
+      "description": "The snare drum Inferno chose for *Opvs Contra Natvram* marks a departure from the Pearl and Tama snares documented on every prior Behemoth studio album in the arc. The Pork Pie brass snare brings a brighter, more cutting crack than the maple-shell snares of *The Satanist* and *I Loved You at Your Darkest* — a tonal choice suited to a mix built by Joe Barresi, whose production work tends to favor snare drums that sit forward and cut cleanly through dense, distorted guitar layers.\n\nAt 14\" x 6.5\", the drum sits in the same depth range Inferno has favored since *I Loved You at Your Darkest*, prioritizing body alongside immediate attack response. The brass shell's natural brightness meant the tuning could stay slightly lower than on prior brass-adjacent configurations while still cutting through 'The Deathless Sun' and 'Disinheritance' at their most aggressive.\n\nThe tuning approach on *Opvs Contra Natvram* favors medium-high tension with a controlled, dry snare wire response — clarity first, at the tempos the album's blast passages require, without the extra ring a fully open brass shell can produce.",
+      "tuningSetting": "Medium-high tension, dry wire response for clarity at blast beat tempos",
+      "heads": "Remo Emperor X (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$400–650 (Pork Pie custom brass snare)"
+    },
+    "cymbals": {
+      "title": "Paiste 2002 Black: A Break From the Meinl Era",
+      "brand": "Paiste",
+      "series": "Paiste 2002 Black",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste 2002 Black 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Bright, cutting closure for blast beat articulation"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 Black 16\" Crash",
+          "position": "Left crash position",
+          "notes": "Fast, explosive accent crashes"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 Black 18\" Crash",
+          "position": "Right crash position",
+          "notes": "Primary crash for major accents"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste 2002 Black 20\" Ride",
+          "position": "Far right",
+          "notes": "Cutting ride and bell work"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 Black 18\" China",
+          "position": "Above floor tom",
+          "notes": "Aggressive accents at structural transitions"
+        }
+      ],
+      "description": "*Opvs Contra Natvram* marks the first documented album in Inferno's studio catalog to move away from Meinl cymbals since the Byzance relationship began at *Zos Kia Cultus* (2002). In their place: the Paiste 2002 Black series, an all-black finish on Paiste's classic 2002 alloy — bright, cutting, and considerably more aggressive in the upper frequencies than the darker, more controlled Meinl Byzance and Classics Custom Dark setups used on *The Satanist* and *I Loved You at Your Darkest*.\n\nWhere the Meinl-era cymbals were chosen to blend with Behemoth's dense guitar layers, the 2002 Black series cuts against them instead — a brighter, harder-edged cymbal voice that matches the more direct, aggressive production Joe Barresi brought to the mix. The 14\" 2002 Black hi-hats deliver a sharper, more percussive closure than the darker Meinl hats of prior albums, while remaining controlled enough to stay articulate through the blast passages of 'Malaria Vvlgata' and 'Off to War!'.\n\nThe 18\" China cymbal continues to serve the same structural role it has held across every album in the arc — marking transitions with an explosive, trashy accent — but the 2002 Black alloy gives it a harder, more cutting edge than the Meinl chinas of the *Satanist*-era setups. Combined with the all-black finish matching the Pearl Masters MCX kit, the cymbal setup gives *Opvs Contra Natvram* a visually and sonically unified, harder-edged identity distinct from anything documented earlier in Inferno's catalog.",
+      "estimatedValue": "$1,600–2,400 total (Paiste 2002 Black series setup)"
+    },
+    "hardware": {
+      "title": "Foundation for the 2022 Album Cycle",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Axis",
+          "model": "Axis A-Longboard Double Pedals (one per bass drum)",
+          "notes": "Continuity piece — the same Longboard pedals documented since I Loved You at Your Darkest",
+          "description": "Inferno's Axis A-Longboard pedals carry over unchanged from the I Loved You at Your Darkest (2018) sessions. Operating two independent 22\" bass drums, he uses a Longboard on each rather than a linked double pedal — the setup that has defined his extreme metal foot speed for years."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl Demon Series Hi-Hat Stand",
+          "notes": "Heavy-duty construction matching the new Pearl Masters MCX kit"
+        },
+        {
+          "type": "Throne",
+          "brand": "Pearl",
+          "model": "Pearl Roadster D-3500BR",
+          "notes": "Stable platform for extended session and touring work"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Standard professional weight across the album's varied playing demands"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear with Falam Slam patch",
+        "toms": "Remo Emperor Clear",
+        "snare": "Remo Emperor X (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "A Scattered Studio Approach: Tall Fire, Sound Division, and Heinrich House",
+      "content": "*Opvs Contra Natvram* broke from Behemoth's usual practice of tracking everything at Hertz Studio in Białystok. Drums were engineered at Tall Fire Records Studio, guitars and vocals at Sound Division Studio, and bass at Heinrich House Studio — a scattered, multi-location approach shaped by the pandemic-era conditions and Nergal's health circumstances surrounding the album's creation.\n\n**The Recording Philosophy:**\nDaniel Bergstrand's engineering carried over from *I Loved You at Your Darkest*, but the mixing chair changed hands to Joe Barresi, whose credits with Tool, Queens of the Stone Age, and Alice in Chains bring a harder-rock, more forward-sitting drum sound than the Wiesławski brothers' historically dense Hertz Studio productions. The result is a mix where Inferno's Pearl Masters MCX kit and Pork Pie snare sit more aggressively upfront than on the band's earlier, more layered records.\n\n**Drum Microphone Setup (typical for this production style):**\n- Kick drums: Close mic plus trigger reinforcement for consistent low-end attack\n- Snare: Top and bottom mics to capture the Pork Pie brass shell's brightness\n- Toms: Clip-on mics for tight definition with minimal bleed\n- Hi-hats and overheads: Condenser pair capturing the brighter Paiste 2002 Black cymbal voice\n\n**The Bob Ludwig Master:**\nMastering engineer Bob Ludwig — whose decades-long career spans releases far beyond metal — gave the finished mix its final low end and top-end balance, ensuring the brighter Paiste cymbal voice and the Pork Pie snare's cut translate consistently across playback systems.",
+      "keyTechniques": [
+        "Multi-studio recording: Tall Fire Records Studio (drums), Sound Division Studio (guitars/vocals), Heinrich House Studio (bass)",
+        "Daniel Bergstrand engineering carries over from I Loved You at Your Darkest",
+        "Joe Barresi mix brings a harder-edged, more forward drum sound than prior Hertz Studio productions",
+        "Bob Ludwig mastering for consistent translation of the brighter cymbal voice"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Malaria Vvlgata",
+        "bpm": "200+",
+        "signature": "4/4",
+        "highlights": [
+          "Relentless blast beat assault early in the tracklist",
+          "Showcases the Pearl Masters MCX kit's low-end punch at sustained tempo",
+          "Paiste 2002 Black hi-hats maintain articulation through the blast sections"
+        ],
+        "gearNotes": "The Pork Pie snare's brass crack cuts through the dense guitar layers. Axis Longboard pedals deliver the sustained double-bass speed."
+      },
+      {
+        "track": "Neo-Spartacvs",
+        "bpm": "~150–190",
+        "signature": "4/4",
+        "highlights": [
+          "Mid-paced, menacing groove alternating with aggressive blast sections",
+          "Demonstrates Inferno's dynamic range within the album's harder-edged production",
+          "One of the album's most-cited tracks in press coverage"
+        ],
+        "gearNotes": "Paiste 2002 Black crashes deliver sharper, more cutting accents than the darker Meinl crashes of prior albums."
+      },
+      {
+        "track": "Versvs Christvs",
+        "bpm": "~110–170 (variable)",
+        "signature": "4/4 with variation",
+        "highlights": [
+          "Album closer, longest track at over six minutes",
+          "Multiple tempo sections spanning restrained atmosphere to full blast intensity",
+          "Brings the album's anti-clerical thematic arc to its conclusion"
+        ],
+        "gearNotes": "Full kit vocabulary deployed across the track's extended structure. Paiste 2002 Black ride bell work features prominently in the closing passages."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Behemoth's latest album, and what drums does Inferno use on it?",
+        "answer": "Behemoth's most recent studio album is Opvs Contra Natvram, released September 16, 2022 through Nuclear Blast. Inferno's drum setup for the album is a Pearl Masters MCX kit in a custom black finish, configured with double 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. This marks a shift from the Tama Starclassic kits documented on The Satanist (2014) and I Loved You at Your Darkest (2018). For the drummer's complete career and gear history, see the [Inferno drummer profile](/drummer/inferno)."
+      },
+      {
+        "question": "How does Inferno's gear on Opvs Contra Natvram differ from The Satanist era?",
+        "answer": "The gear shifted on nearly every front. On The Satanist (2014), Inferno used a Tama Starclassic Maple kit, a Pearl Masterworks snare, and Meinl Classics Custom Dark cymbals. On Opvs Contra Natvram (2022), he moved to a Pearl Masters MCX kit in custom black, a Pork Pie brass snare, and Paiste 2002 Black cymbals — a brighter, harder-edged cymbal voice replacing the darker, more blended Meinl setup. The production also changed hands, from the Wiesławski brothers at Hertz Studio to a scattered multi-studio approach mixed by Joe Barresi. See the full comparison at the [The Satanist drum setup](/articles/the-satanist-drum-setup) article."
+      },
+      {
+        "question": "What is Inferno's tuning approach on Opvs Contra Natvram?",
+        "answer": "Inferno tunes his Pork Pie brass snare to medium-high tension with a controlled, dry snare wire response, prioritizing clarity over ring at the album's blast beat tempos. The brass shell's natural brightness allowed a slightly lower tuning than the brighter, tighter setups of prior albums while still cutting cleanly through tracks like The Deathless Sun and Disinheritance. The approach is consistent with Inferno's long-standing philosophy across the arc — from I Loved You at Your Darkest through Opvs Contra Natvram — of tuning for stroke-by-stroke legibility at extreme tempo over maximum resonance."
+      },
+      {
+        "question": "What cymbals does Inferno use on Opvs Contra Natvram?",
+        "answer": "Inferno uses the Paiste 2002 Black series on Opvs Contra Natvram — 14\" hi-hats, 16\" and 18\" crashes, a 20\" ride, and an 18\" China, all in the series' all-black finish. This is the first Behemoth album in Inferno's studio catalog to move away from Meinl cymbals since Zos Kia Cultus (2002), trading the darker, blended Meinl Byzance and Classics Custom Dark tone of The Satanist and I Loved You at Your Darkest for a brighter, more cutting cymbal voice that matches Joe Barresi's harder-edged mix."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "the-satanist-drum-setup",
+      "evangelion-drum-setup"
+    ],
+    "relatedDrummers": [
+      6,
+      21,
+      3
+    ],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "blackened-death-metal-drumming",
+      "extreme-metal-drum-setup"
+    ],
+    "relatedLicks": [],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "MusicAlbum",
+          "name": "Opvs Contra Natvram",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Behemoth"
+          },
+          "datePublished": "2022-09-16",
+          "genre": "Blackened Death Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Nuclear Blast"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "Post-God Nirvana" },
+            { "@type": "MusicRecording", "name": "Malaria Vvlgata" },
+            { "@type": "MusicRecording", "name": "The Deathless Sun" },
+            { "@type": "MusicRecording", "name": "Ov My Herculean Exile" },
+            { "@type": "MusicRecording", "name": "Neo-Spartacvs" },
+            { "@type": "MusicRecording", "name": "Disinheritance" },
+            { "@type": "MusicRecording", "name": "Off to War!" },
+            { "@type": "MusicRecording", "name": "Once Upon a Pale Horse" },
+            { "@type": "MusicRecording", "name": "Thy Becoming Eternal" },
+            { "@type": "MusicRecording", "name": "Versvs Christvs" }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Inferno",
+          "alternateName": "Zbigniew Robert Promiński",
+          "birthDate": "1979-03-23",
+          "birthPlace": {
+            "@type": "Place",
+            "name": "Gdańsk, Poland"
+          },
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Behemoth"
+          },
+          "instrument": "Drums"
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "The Arc, Current as of 2022",
+      "content": "*Opvs Contra Natvram* closes the documented Behemoth drum-gear arc at its most recent point: from the raw Tama Starclassic Maple of *Satanica* (1999), through the Pearl Masters BRX breakthrough of *Demigod* (2004), the Meinl Byzance Dark precision of *Evangelion* (2009), the Album of the Year Tama/Meinl setup of *The Satanist* (2014), the Bergstrand-produced *I Loved You at Your Darkest* (2018), and now the Pearl Masters MCX, Pork Pie, and Paiste 2002 Black configuration of *Opvs Contra Natvram* (2022). Every gear decision across those six studio albums tracks a working drummer's evolving relationship with his instrument over more than two decades.\n\nWhat makes *Opvs Contra Natvram* distinct is how much changed at once. Where prior album cycles tended to shift one element at a time — a new snare here, a new cymbal series there — this record moved the kit, the snare, and the cymbals together, while also changing the studio, the engineer's mixing partner, and the mastering engineer. The result is a drum sound that is recognizably Inferno — the same double bass configuration, the same compact four-tom spread, the same relentless technical control — but voiced with a brighter, harder-edged character than anything documented earlier in the arc.\n\n**For Drummers Studying Opvs Contra Natvram:**\nThe lesson is that gear evolution doesn't have to be gradual. When the production context changes — a new mixing engineer with a different sonic philosophy, in this case Joe Barresi's harder-rock sensibility — matching gear choices to that new context can mean overhauling a setup that had served for multiple albums. Inferno's move from Meinl to Paiste, and from Pearl Reference/Tama to Pearl Masters MCX, reflects exactly that kind of context-driven decision.\n\nFor the album that preceded this one in the documented arc, see [I Loved You at Your Darkest](/articles/i-loved-you-at-your-darkest-drum-setup) (2018). For the record most frequently compared against it, see [The Satanist drum setup](/articles/the-satanist-drum-setup) (2014). For Inferno's complete career and gear evolution, visit the [Inferno drummer profile](/drummer/inferno).\n\nAs of this writing, *Opvs Contra Natvram* is Behemoth's newest album — the current final chapter in one of extreme metal's most thoroughly documented gear arcs. 🤘"
+    }
   }
 };
 export default articles;

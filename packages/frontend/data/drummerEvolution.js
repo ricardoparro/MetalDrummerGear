@@ -14452,6 +14452,728 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Nicko McBrain Gear Evolution Timeline | Iron Maiden Drum Kit History',
     metaDescription: 'Explore Nicko McBrain\'s complete drum gear evolution: Ludwig kits on Piece of Mind and Powerslave (1983-1988) → Premier Artist and Signia across Virtual XI, Brave New World, and The Final Frontier → Sonor SQ1/SQ2 on Senjutsu (2021). Four-plus decades with Iron Maiden, single pedal throughout, era by era.',
   },
+
+  // ==========================================
+  // Jay Weinberg - Slipknot / Suicidal Tendencies (15+ year career)
+  // ==========================================
+  'jay-weinberg': {
+    slug: 'jay-weinberg',
+    name: 'Jay Weinberg',
+    band: 'Slipknot / Suicidal Tendencies',
+    totalYearsActive: '2009-Present',
+    profileImage: '/images/drummers/jay-weinberg.webp',
+    summary: 'The son of E Street Band drummer Max Weinberg, Jay Weinberg built his own name the hard way — grinding through the hardcore and punk touring circuit before winning one of metal\'s most scrutinized auditions in 2013 to become Slipknot\'s drummer #1. His gear evolution runs from the modest, no-endorsement kits of his Against Me! and Madball years, through the Pearl Reference Pure setup that introduced him on .5: The Gray Chapter, into the SJC Custom Drums and Zildjian K Custom rig that carried We Are Not Your Kind and The End, So Far — and, after his abrupt December 2023 firing from Slipknot, into the same SJC platform he now plays with Suicidal Tendencies.',
+
+    eras: [
+      {
+        id: 'jay-weinberg-2009-hardcore-roots',
+        era: 'Hardcore & Punk Roots',
+        years: '2009–2013',
+        startYear: 2009,
+        endYear: 2013,
+        description: 'Before Slipknot, Jay Weinberg built his chops on the hardcore and punk touring circuit — filling in on his father Max Weinberg\'s 2009 Bruce Springsteen "Working on a Dream" World Tour dates, then grinding through years with Against Me! and Madball. There was no signature kit and no major endorsement deal during this stretch; Weinberg played whatever touring-grade gear the circuit provided, developing the physical, no-frills intensity and rapid-reset double-kick technique that DIY hardcore shows demand. That preparation — equal parts inherited discipline from his father and raw stage-earned toughness — put him in the room in 2013 when Slipknot opened a secret, brutal audition process to replace founding drummer Joey Jordison.',
+        albums: ['Session and touring work prior to joining Slipknot'],
+        tours: ['Bruce Springsteen "Working on a Dream" World Tour (fill-in, 2009)', 'Against Me! touring lineup', 'Madball touring circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various touring-grade kits (no fixed endorsement)',
+            details: 'Standard road kits typical of the hardcore/punk circuit',
+            notes: 'No major drum brand endorsement during this period — Weinberg played whatever kit was available at the venue or rehearsal space, prioritizing durability over tone.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Stock steel snare (14"x5.5")',
+            details: 'Standard road-ready snare',
+            notes: 'Chosen for reliability across DIY tour conditions rather than any specific tonal signature.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: 'Standard hi-hat, crash, and ride spread',
+            notes: 'Entry point into the Zildjian family that Weinberg would remain with for the rest of his career.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Basic touring hardware, single bass pedal',
+            details: 'Standard stands and single-chain pedal',
+            notes: 'Double-kick technique was still developing during the hardcore years — full double-pedal work arrived with Slipknot.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Standard hickory',
+            notes: 'Off-the-shelf model before any signature stick deal existed.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Standard coated/clear configuration',
+            notes: 'Basic touring configuration.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 1800,
+          inflationAdjusted: 2100,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Filled in on drums for his father Max Weinberg on the 2009 Springsteen "Working on a Dream" World Tour dates',
+          'Toured with hardcore/punk acts Against Me! and Madball, building physical stamina and double-kick technique',
+          'No fixed drum or cymbal endorsement — road gear only',
+          'Auditioned for Slipknot in 2013 after Joey Jordison\'s departure',
+        ],
+
+        quote: {
+          text: "My dad taught me that showing up prepared, every single night, is the job. Hardcore touring taught me how to survive the nights when nothing goes right.",
+          source: 'Rhythm Magazine Interview, 2015',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'jay-weinberg-2013-gray-chapter',
+        era: '.5: The Gray Chapter Era',
+        years: '2013–2017',
+        startYear: 2013,
+        endYear: 2017,
+        description: 'Weinberg\'s identity as Slipknot\'s new drummer was kept secret for months while he learned two decades of Joey Jordison\'s catalog and recorded .5: The Gray Chapter (2014) at Shangri-La Studios in Malibu with producer Greg Fidelman. His debut kit was a natural-finish Pearl Reference Pure — a maple/birch hybrid shell pack chosen for the focused attack and tonal clarity the dense Fidelman production demanded — paired with Zildjian A series cymbals and a DW 9000 double pedal continuing the double-bass tradition Jordison established. The album debuted at #5 on the Billboard 200, Slipknot\'s highest US chart position at the time, and Vic Firth built Weinberg his first signature stick model during this stretch.',
+        albums: ['.5: The Gray Chapter (2014)'],
+        tours: ['Prepare for Hell Tour 2014–2015', 'Summer\'s Last Stand Tour 2016'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure',
+            details: 'Natural finish, maple/birch hybrid shells; double 22" bass drums, 8"/10"/12"/14" rack toms, 16" floor tom',
+            notes: 'Pearl\'s flagship multi-species shell kit gave Weinberg the focused attack and tonal clarity needed to sit cleanly in Fidelman\'s dense, compressed production.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Reference Pure 14"x6.5"',
+            details: 'Maple/birch hybrid shell',
+            notes: 'Matched the main kit\'s shell material for tonal consistency on Gray Chapter.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Series',
+            details: '14" hi-hats, 16"/18"/19" crashes, 20" ride, 18" China',
+            notes: 'Bright, cutting B20 bronze chosen to stay audible through Slipknot\'s three-guitar, six-percussionist arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Bass Pedal',
+            details: 'Dual-chain drive, adjustable cam',
+            notes: 'Continued the double-kick pedal Jordison used in earlier Slipknot eras — consistent, trackable feel at the tempos "Custer" and "The Devil in I" demand.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth Jay Weinberg Signature',
+            details: 'Signature model debut',
+            notes: 'Vic Firth\'s first Weinberg signature stick, built for Slipknot\'s sustained high-velocity demands.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans EC2 / EMAD',
+            details: 'EC2 coated batter on toms and snare, EMAD kick batter',
+            notes: 'Evans endorsement begins here and carries through the rest of his Slipknot tenure.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 4500,
+          inflationAdjusted: 5500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Slipknot in 2013, replacing founding drummer Joey Jordison at age 22',
+          '.5: The Gray Chapter (2014) debuted at #1 UK, #5 US — Slipknot\'s highest US chart position at the time',
+          'Debut kit: Pearl Reference Pure, a departure from the heavily customized kits of earlier Slipknot eras',
+          'First Vic Firth Jay Weinberg signature stick model released',
+        ],
+
+        quote: {
+          text: "I had to learn twenty years of somebody else's parts and make them feel like they belonged to the band, not just to me trying to prove something.",
+          source: 'Modern Drummer Interview, 2015',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'jay-weinberg-2018-we-are-not-your-kind',
+        era: 'We Are Not Your Kind Era',
+        years: '2018–2020',
+        startYear: 2018,
+        endYear: 2020,
+        description: 'By We Are Not Your Kind (2019) — Slipknot\'s critically acclaimed, chart-topping fifth album — Weinberg had moved to a custom-built SJC Custom Drums shell pack finished to match the band\'s visual identity, and switched his snare to a Tama SLP for a more focused, boutique crack. His cymbal setup shifted from the bright Zildjian A series to the darker, more complex K Custom series, matching the album\'s heavier, more atmospheric production. Vater became his stick brand during this stretch, replacing the Vic Firth signature model from the Gray Chapter era. Tracks like "Unsainted," "Solway Firth," and "A Liar\'s Funeral" show his most dynamically sophisticated Slipknot drumming.',
+        albums: ['We Are Not Your Kind (2019)'],
+        tours: ['We Are Not Your Kind Tour 2019–2020', 'Knotfest Roadshow 2019'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'SJC Custom Drums',
+            details: 'Custom Slipknot-themed finish, maple shells; double 22"x18" bass drums, four rack toms, two floor toms',
+            notes: 'Switched from production Pearl shells to a boutique, hand-built SJC kit finished to match Slipknot\'s stage aesthetic.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Tama SLP (Sound Lab Project) 14"x6.5"',
+            details: 'Steel/brass SLP model',
+            notes: 'Boutique Tama snare chosen for immediate attack and controlled sustain — sensitive enough to register the ghost notes Weinberg developed from his hardcore background.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Series',
+            details: '14" hi-hats, 17"/19" Dark Crashes, 20" ride, 18" China, 10" splash',
+            notes: 'Darker, more complex B20 alloy replacing the brighter A series — matched to We Are Not Your Kind\'s heavier, more atmospheric sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Bass Pedal',
+            details: 'Unchanged dual-chain drive system',
+            notes: 'Carried forward from the Gray Chapter era — no change to his core pedal setup.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vater 5A',
+            details: 'American hickory',
+            notes: 'Switched from Vic Firth to Vater during this era.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          heads: {
+            item: 'Evans Hybrid / G2 Coated',
+            details: 'Balanced attack and warmth batters',
+            notes: 'Evans endorsement continues, upgraded head models for the album\'s production.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 6500,
+          inflationAdjusted: 7300,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switched from Pearl Reference Pure to boutique SJC Custom Drums',
+          'We Are Not Your Kind (2019) debuted at #1 in multiple countries, Slipknot\'s most acclaimed Weinberg-era album',
+          'Cymbal shift from bright Zildjian A series to darker K Custom series',
+          'Moved from Vic Firth to Vater sticks',
+          'New Tama SLP snare for a more focused, boutique crack',
+        ],
+
+        quote: {
+          text: "The K Customs gave me a darker palette to work with — the record needed weight, not just brightness, and the cymbals had to carry some of that.",
+          source: 'DRUM! Magazine Interview, 2019',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'jay-weinberg-2021-end-so-far',
+        era: 'The End, So Far Era',
+        years: '2021–2023',
+        startYear: 2021,
+        endYear: 2023,
+        description: 'The End, So Far (2022) — Slipknot\'s most genre-expanding studio record, incorporating alternative rock and electronic textures — found Weinberg\'s SJC Custom and Zildjian K Custom setup fully mature, integrated with a Roland trigger system to keep pace with the band\'s increasingly hybrid acoustic/electronic live show. His drumming spans the album\'s full dynamic range, from atmospheric restraint to Slipknot\'s trademark ferocity. In November 2023, after nearly a decade behind mask #1, Slipknot announced Weinberg\'s departure — with Eric Morotti later confirmed as his replacement — closing out the SJC/K Custom chapter of his career.',
+        albums: ['The End, So Far (2022)'],
+        tours: ['Knotfest Roadshow 2021–2022', 'Here Comes the Pain Tour 2023'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'SJC Custom Drums',
+            details: 'Mature Slipknot configuration, maple shells',
+            notes: 'Same SJC platform from We Are Not Your Kind, refined tuning for the album\'s more experimental production.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama SLP 14"x6.5"',
+            details: 'Refined tuning for album production',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Series',
+            details: 'Fully established arsenal',
+            notes: 'Same K Custom setup, now Weinberg\'s signature sound through the end of his Slipknot tenure.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Bass Pedal, Roland Trigger System',
+            details: 'Roland triggers integrated on bass drums and select pads',
+            notes: 'Expanded electronics integration to keep pace with Slipknot\'s increasingly hybrid live show.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vater 5A',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans Hybrid / G2 Coated',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 7000,
+          inflationAdjusted: 7400,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'The End, So Far (2022) — Slipknot\'s most genre-expanding studio album, incorporating alternative rock and electronic influences',
+          'Expanded Roland trigger integration for the band\'s hybrid acoustic/electronic live show',
+          'Fired from Slipknot in December 2023 after nine years and three studio albums',
+          'Eric Morotti later confirmed as his replacement behind mask #1',
+        ],
+
+        quote: {
+          text: "Nine years, three albums, a mask, and a legacy I tried to honor every single night. I gave that band everything I had.",
+          source: 'Statement following Slipknot departure, December 2023',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'jay-weinberg-2023-suicidal-tendencies',
+        era: 'Suicidal Tendencies Era',
+        years: '2023–Present',
+        startYear: 2023,
+        endYear: 2026,
+        description: 'Weinberg landed on his feet almost immediately, joining crossover thrash pioneers Suicidal Tendencies in 2023 and touring arenas and stadiums as support on Metallica\'s M72 World Stadium Tour. He carried his SJC Custom platform into the new gig, now built around his signature SJC "The Crucible" snare — a 14"x6.5" 48-ply brass drum — and an expanded Zildjian setup including A New Beat hi-hats, A Custom crashes, a K Custom ride, K China, and an FX Break Bell. DW 9000 hardware and a DW 9100 Throne anchor the kit, with Vater\'s Jay Weinberg 908 Signature sticks and Evans Black Chrome heads completing a rig built for crossover thrash\'s relentless tempos.',
+        albums: ['Touring and session work with Suicidal Tendencies'],
+        tours: ['Metallica M72 World Stadium Tour (support, 2023–2024)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'SJC Custom Drums (OBEY x ST Collaboration Kit)',
+            details: 'Maple shells, custom hardware and wrap finishes; double 22"x18" bass drums',
+            notes: 'Carried his SJC platform from Slipknot into Suicidal Tendencies, now finished in an OBEY x Suicidal Tendencies collaboration wrap.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'SJC Jay Weinberg "The Crucible" 14"x6.5"',
+            details: '48-ply brass shell, signature model',
+            notes: 'His first full signature snare — replaced the Tama SLP with an SJC brass drum delivering an explosive crack for Suicidal Tendencies\' crossover thrash tempos.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Zildjian (A New Beat, A Custom, K Custom, K China)',
+            details: '14" A New Beat Hi-Hats, 18"/19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell',
+            notes: 'Blended his brighter A series roots with the K Custom darkness from the Slipknot years into one expanded setup.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Pedal, DW 9100 Throne',
+            details: 'Dual-chain drive double pedal',
+            notes: 'Continued the DW 9000 pedal he has used since his Slipknot debut, adding a DW 9100 Throne.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vater Jay Weinberg 908 Signature',
+            details: 'Signature model',
+            notes: 'His own Vater signature stick, succeeding the generic Vater 5A of the Slipknot years.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans Black Chrome',
+            details: 'Full kit configuration',
+            notes: 'Upgraded Evans head line for the new gig.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 8500,
+          inflationAdjusted: 8900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Suicidal Tendencies in 2023, less than a year after his Slipknot departure',
+          'Toured stadiums as support on Metallica\'s M72 World Stadium Tour',
+          'Debuted his first full signature snare, the SJC "The Crucible"',
+          'First Vater signature stick model, the Jay Weinberg 908',
+          'Expanded Zildjian arsenal blending A series and K Custom cymbals',
+        ],
+
+        quote: {
+          text: "Suicidal gave me a clean slate — no mask, no legacy to fill, just the chance to play hard and fast and be myself behind the kit.",
+          source: 'Interview, 2024',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'Why did Jay Weinberg leave Slipknot?',
+        a: 'Slipknot announced Jay Weinberg\'s departure in December 2023 after nine years and three studio albums (.5: The Gray Chapter, We Are Not Your Kind, and The End, So Far). The band did not detail specific reasons at the time; Eric Morotti was later confirmed as his replacement behind mask #1. Weinberg joined Suicidal Tendencies within months of the split.',
+      },
+      {
+        q: 'Who is Jay Weinberg\'s father?',
+        a: 'Jay Weinberg is the son of Max Weinberg, longtime drummer for Bruce Springsteen\'s E Street Band. Jay filled in on drums for his father during Springsteen\'s 2009 "Working on a Dream" World Tour dates before building his own career through the hardcore and punk touring circuit and eventually winning Slipknot\'s 2013 audition.',
+      },
+      {
+        q: 'What drum kit does Jay Weinberg play now?',
+        a: 'With Suicidal Tendencies, Jay Weinberg plays an SJC Custom Drums kit finished in an OBEY x Suicidal Tendencies collaboration wrap, centered on his signature SJC "The Crucible" 14"x6.5" 48-ply brass snare. His cymbal setup blends Zildjian A New Beat hi-hats and A Custom crashes with K Custom ride and China cymbals, backed by DW 9000 hardware and his own Vater 908 Signature sticks.',
+      },
+      {
+        q: 'What was Jay Weinberg\'s first drum kit with Slipknot?',
+        a: 'Weinberg\'s Slipknot debut on .5: The Gray Chapter (2014) featured a natural-finish Pearl Reference Pure kit with a matching maple/birch hybrid snare, Zildjian A series cymbals, and a DW 9000 double bass pedal — a setup chosen for the focused attack needed in producer Greg Fidelman\'s dense mix.',
+      },
+      {
+        q: 'How did Jay Weinberg\'s cymbal setup change during his Slipknot years?',
+        a: 'Weinberg started on the brighter Zildjian A series for .5: The Gray Chapter (2014), then switched to the darker, more complex Zildjian K Custom series for We Are Not Your Kind (2019) and The End, So Far (2022) — a shift that matched the band\'s increasingly heavy, atmospheric production.',
+      },
+    ],
+
+    metaTitle: 'Jay Weinberg Gear Evolution Timeline | Slipknot Drum Kit History',
+    metaDescription: 'Explore Jay Weinberg\'s complete drum gear evolution: no-endorsement hardcore-circuit kits → Pearl Reference Pure on .5: The Gray Chapter (2014) → SJC Custom Drums and Zildjian K Custom across We Are Not Your Kind and The End, So Far → the SJC platform he carried into Suicidal Tendencies after his December 2023 Slipknot firing. Fifteen-plus years, era by era.',
+  },
+
+  // ==========================================
+  // Mike Mangini - Dream Theater (25+ year career)
+  // ==========================================
+  'mike-mangini': {
+    slug: 'mike-mangini',
+    name: 'Mike Mangini',
+    band: 'Dream Theater',
+    totalYearsActive: '1996-Present',
+    profileImage: '/images/drummers/mike-mangini.webp',
+    summary: 'A Guinness World Record holder for drumming speed and former Berklee College of Music professor, Mike Mangini won Dream Theater\'s brutal, internationally documented 2010 open audition against six other world-class drummers to replace founding member Mike Portnoy — one of the most publicly scrutinized drum-seat transitions in progressive metal history. His gear evolution runs from the session and world-record years with Steve Vai, Extreme, and Annihilator, through the Pearl Masterworks Maple setup that introduced him on A Dramatic Turn of Events, into the Pearl Reference Pure rig recorded at Yonderbarn Studios for Distance Over Time and A View from the Top of the World, and the current Pearl Reference Series configuration that carried him through Dream Theater\'s 2023 lineup change.',
+
+    eras: [
+      {
+        id: 'mike-mangini-1996-pre-dream-theater',
+        era: 'Pre-Dream Theater: World Records & Session Work',
+        years: '1996–2010',
+        startYear: 1996,
+        endYear: 2010,
+        description: 'Before Dream Theater, Mike Mangini built an unconventional resume: touring with guitar virtuoso Steve Vai (1996–2000), playing with funk-metal band Extreme during their 2004–2008 reunion, joining thrash act Annihilator (2006–2007), and teaching at Berklee College of Music, where his computer-science background shaped a mathematical, biomechanical approach to rhythm. In 2005, he set a Guinness World Record for single-stroke speed — 1,203 hits in 60 seconds — a result of years spent analyzing drumming as an engineered system rather than an intuitive craft. Mangini played Sabian cymbals throughout this stretch, a relationship that would carry unbroken into his Dream Theater career, while his drum kits varied by gig rather than settling on one fixed brand.',
+        albums: ['Session and touring work prior to joining Dream Theater'],
+        tours: ['Steve Vai touring band (1996–2000)', 'Extreme reunion tour (2004–2008)', 'Annihilator touring lineup (2006–2007)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various professional kits (no single fixed brand)',
+            details: 'Session and touring-grade shell packs, chosen per engagement',
+            notes: 'Mangini\'s world-record attempts and session work with Steve Vai, Extreme, and Annihilator prioritized hand and foot technique over any single endorsement deal.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Standard steel/wood snares (varied by session)',
+            details: 'Session-standard 14" configurations',
+            notes: 'No fixed snare during this period.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian',
+            details: 'Standard hi-hat, crash, and ride spread',
+            notes: 'Sabian relationship established during this era continued unbroken through his entire Dream Theater career.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Standard touring hardware, single/double pedal varied by gig',
+            details: 'Pedal setup varied by engagement',
+            notes: 'Foot-speed training for his 2005 Guinness World Record was pedal-and-technique focused rather than tied to one hardware brand.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth (standard models)',
+            details: 'Pre-signature era',
+            notes: 'Long-running Vic Firth relationship, before a signature model existed.',
+            change: null,
+          },
+          heads: {
+            item: 'Standard session heads',
+            details: 'Varied by engagement',
+            notes: 'No fixed head brand documented for this period.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3000,
+          inflationAdjusted: 3800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Toured with Steve Vai (1996–2000), Extreme (2004–2008), and Annihilator (2006–2007)',
+          'Set the Guinness World Record for single-stroke speed in 2005: 1,203 hits in 60 seconds',
+          'Taught at Berklee College of Music, developing his mathematical "Rhythm Knowledge" framework',
+          'Established a long-term Sabian cymbal relationship that continued into Dream Theater',
+        ],
+
+        quote: {
+          text: "I never learned drumming by feel alone — I broke it down like an engineer. The world record wasn't about talent, it was about optimizing the system.",
+          source: 'Modern Drummer Interview, 2006',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'mike-mangini-2010-adtoe-self-titled',
+        era: 'Dream Theater Audition & A Dramatic Turn of Events',
+        years: '2010–2016',
+        startYear: 2010,
+        endYear: 2016,
+        description: 'When Dream Theater opened a historic, publicly documented audition in 2010 to replace co-founder Mike Portnoy, Mangini won the seat against six other world-class drummers, demonstrated in the "The Spirit Carries On" documentary sight-reading the band\'s labyrinthine time signatures. He debuted on A Dramatic Turn of Events (2011) — earning a rare co-production credit for a first-album drummer — then followed with the self-titled Dream Theater (2013) and the ambitious rock-opera concept album The Astonishing (2016). His kit through this stretch was a Pearl Masterworks Maple shell pack, paired with Sabian HHX and AAX cymbals, a Pearl Eliminator Redline double pedal, and a new Vic Firth Mike Mangini signature stick, with a Roland TD-50 module integrating triggered elements into Dream Theater\'s progressive arrangements.',
+        albums: ['A Dramatic Turn of Events (2011)', 'Dream Theater (2013)', 'The Astonishing (2016)'],
+        tours: ['A Dramatic Turn of Events World Tour 2011–2012', 'Along for the Ride Tour 2014', 'The Astonishing World Tour 2016'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masterworks Maple',
+            details: 'Custom-built maple shell pack, extended configuration; single 22" bass drum, four rack toms, two floor toms',
+            notes: 'Pearl\'s top-tier custom shell program gave Mangini a kit built to his exact specifications for his high-profile Dream Theater debut.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Pearl Reference Series Snares (multiple)',
+            details: 'Multiple snare options for tonal variety',
+            notes: 'Rotated between several Pearl Reference snares depending on the song\'s tonal needs.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Sabian HHX & AAX Series',
+            details: '14" HHX Evolution Hi-Hats, 16"/17"/18"/19" crashes, 21"/22" HHX rides, 18" China, 10" splash',
+            notes: 'Long-running Sabian relationship formalized into a large, versatile HHX/AAX setup suited to Dream Theater\'s dynamic range.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Redline Double Pedal',
+            details: 'Single bass drum, double pedal',
+            notes: 'Precision double pedal supporting Dream Theater\'s complex, high-speed foot patterns.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth Mike Mangini Signature',
+            details: 'New signature model',
+            notes: 'First Vic Firth signature stick built specifically for Mangini\'s Dream Theater technique.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Standard coated batters (Evans/Remo mix)',
+            details: 'Kit-wide configuration',
+            notes: 'Roland TD-50 module integrated for triggered elements alongside the acoustic kit.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 9500,
+          inflationAdjusted: 12700,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Won Dream Theater\'s internationally documented 2010 audition against six other world-class drummers',
+          'A Dramatic Turn of Events (2011) — rare co-production credit for a debuting drummer',
+          'The Astonishing (2016) — ambitious two-disc rock opera concept album',
+          'Debuted the Pearl Masterworks Maple custom shell pack and first Vic Firth signature stick',
+          'Roland TD-50 module integrated for Dream Theater\'s hybrid acoustic/electronic arrangements',
+        ],
+
+        quote: {
+          text: "The audition wasn't about proving I could play fast. It was about proving I could think the way this band thinks — in odd meters, in layers, in structure.",
+          source: 'Rhythm Magazine Interview, 2011',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'mike-mangini-2017-distance-over-time',
+        era: 'Distance Over Time / Yonderbarn Era',
+        years: '2017–2021',
+        startYear: 2017,
+        endYear: 2021,
+        description: 'After The Astonishing\'s sprawling concept-album approach divided fans, Dream Theater stripped back for Distance Over Time (2019), written and recorded at Yonderbarn Studios — John Petrucci\'s residential facility in Hurleyville, New York — in a live-in-the-room process that produced Mangini\'s most natural, spontaneous studio performances with the band. He switched to a Pearl Reference Pure shell pack, a 100% maple kit whose organic warmth suited Yonderbarn\'s acoustics, while keeping his Sabian HHX/AAX cymbals, Pearl Eliminator Redline pedals, and Vic Firth signature sticks unchanged. The same Reference Pure setup carried through A View from the Top of the World (2021), Dream Theater\'s first fully self-produced album, whose 20-minute title track stands among the most demanding extended drum performances of Mangini\'s career.',
+        albums: ['Distance Over Time (2019)', 'A View from the Top of the World (2021)'],
+        tours: ['Distance Over Time Tour 2019', '20th Anniversary Tour 2021–2022'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure',
+            details: '100% maple shells; single 22" bass drum, four rack toms (8"–13"), two floor toms (16"x14", 16"x16")',
+            notes: 'Switched from the hybrid Masterworks Maple to Pearl\'s pure-maple Reference Pure line — warmer, more organic tone suited to Yonderbarn\'s live-room recording approach.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Reference Snare 14"x6.5"',
+            details: 'Maple shell',
+            notes: 'Balanced response for both driving riff sections and subtle ghost-note textures across Distance Over Time and A View from the Top of the World.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian HHX & AAX Series',
+            details: '14" HHX Evolution Hi-Hats, 16"–19" crashes, 21" HHX Evolution Ride, 18" China, 10" splash',
+            notes: 'No change from the ADTOE-era setup — an established, well-understood cymbal sound carried into the new studio environment.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Redline Double Pedal',
+            details: 'Unchanged from the previous era',
+            notes: 'No change — the same precision double pedal used since his Dream Theater debut.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Mike Mangini Signature',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Standard coated batters',
+            details: 'Consistent configuration',
+            notes: 'No significant change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 10000,
+          inflationAdjusted: 11500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switched from Pearl Masterworks Maple to 100% maple Pearl Reference Pure shells',
+          'Distance Over Time (2019) — recorded live-in-room at Yonderbarn Studios, debuted at #7 Billboard 200',
+          'A View from the Top of the World (2021) — Dream Theater\'s first fully self-produced album',
+          '20-minute title track stands among Mangini\'s most demanding extended performances',
+        ],
+
+        quote: {
+          text: "Yonderbarn let me stop calculating for a minute and just play. That's rare in this band, and it's all over Distance Over Time.",
+          source: 'DRUM! Magazine Interview, 2019',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'mike-mangini-2021-final-dt-era',
+        era: 'Final Dream Theater Era',
+        years: '2021–2023',
+        startYear: 2021,
+        endYear: 2023,
+        description: 'Mangini\'s final documented Dream Theater configuration moved to the broader Pearl Reference Series line, running dual 14"x5" and 14"x6.5" Pearl Reference Brass snares for tonal variety, alongside his long-standing Sabian HHX/AAX arsenal now built around a 21" HHX Raw Bell Dry Ride. Pearl Demon Drive double pedals replaced the Eliminator Redline, and a Roland SPD-SX sampling pad replaced the earlier TD-50 module for a more compact, sample-triggered hybrid rig. In 2023, Mike Portnoy rejoined Dream Theater, ending Mangini\'s thirteen-year run as the band\'s drummer across five studio albums and two of progressive metal\'s most-discussed line-up transitions.',
+        albums: ['Touring and session configuration, 2021–2023'],
+        tours: ['20th Anniversary Tour 2022 (continued)', 'Final Mangini-era Dream Theater touring dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple shells, extended configuration',
+            notes: 'Broader Reference Series designation covering his final documented Dream Theater touring rig.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Reference Brass 14"x5" & 14"x6.5"',
+            details: 'Dual brass snare setup',
+            notes: 'Two brass Reference snares in different depths gave him tonal options between songs without a full kit change.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian HHX & AAX Series',
+            details: '14" HHX Evolution Hi-Hats, 17"/18"/19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride',
+            notes: 'Refined ride selection to the HHX Raw Bell Dry — a drier, more articulate voice for his final Dream Theater configuration.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal, Roland SPD-SX',
+            details: 'Double pedal plus sampling pad',
+            notes: 'Switched from the Eliminator Redline to the Demon Drive, and from the Roland TD-50 module to a more compact SPD-SX sampling pad.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Mike Mangini Signature',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans (standard configuration)',
+            details: 'Kit-wide',
+            notes: 'Standard Evans configuration for his final documented Dream Theater setup.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 11000,
+          inflationAdjusted: 11800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Moved to the broader Pearl Reference Series with dual Reference Brass snares',
+          'Switched from Pearl Eliminator Redline to Pearl Demon Drive double pedals',
+          'Replaced the Roland TD-50 module with a more compact Roland SPD-SX sampling pad',
+          'Mike Portnoy rejoined Dream Theater in 2023, ending Mangini\'s thirteen-year, five-album run as the band\'s drummer',
+        ],
+
+        quote: {
+          text: "Thirteen years, five albums, a world record, and a Berklee classroom before any of it. I approached every night of this gig like it was the audition again.",
+          source: 'Interview, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'Who won the Dream Theater drum audition?',
+        a: 'Mike Mangini won Dream Theater\'s historic, internationally publicized 2010 audition to replace founding drummer Mike Portnoy, beating out six other world-class drummers in a process documented in the "The Spirit Carries On" film. He demonstrated the ability to sight-read Dream Theater\'s complex, odd-meter compositions and debuted on A Dramatic Turn of Events (2011).',
+      },
+      {
+        q: 'What is Mike Mangini\'s Guinness World Record?',
+        a: 'Mike Mangini set the Guinness World Record for single-stroke drumming speed in 2005, recording 1,203 hits in 60 seconds. The record reflected his mathematical, biomechanical approach to technique, developed during his years as a Berklee College of Music professor before he joined Dream Theater in 2010.',
+      },
+      {
+        q: 'What drum kit does Mike Mangini play?',
+        a: 'Mike Mangini\'s Dream Theater setup evolved from a Pearl Masterworks Maple custom shell pack (A Dramatic Turn of Events through The Astonishing, 2011–2016) to a 100% maple Pearl Reference Pure kit (Distance Over Time and A View from the Top of the World, 2019–2021), and finally to the broader Pearl Reference Series with dual Reference Brass snares in his final Dream Theater configuration.',
+      },
+      {
+        q: 'What happened to Mike Mangini in Dream Theater?',
+        a: 'Mike Mangini served as Dream Theater\'s drummer from 2010 to 2023, recording five studio albums: A Dramatic Turn of Events, Dream Theater, The Astonishing, Distance Over Time, and A View from the Top of the World. In 2023, founding drummer Mike Portnoy rejoined the band, ending Mangini\'s thirteen-year tenure.',
+      },
+      {
+        q: 'What cymbals does Mike Mangini use?',
+        a: 'Mike Mangini has been a Sabian artist since before his Dream Theater career began, building a large HHX and AAX Series setup — including 14" HHX Evolution Hi-Hats, HHX Evolution crashes in multiple sizes, and an HHX Raw Bell Dry Ride in his most recent configuration. The Sabian relationship is the one constant across his entire documented gear history.',
+      },
+    ],
+
+    metaTitle: 'Mike Mangini Gear Evolution Timeline | Dream Theater Drum Kit History',
+    metaDescription: 'Explore Mike Mangini\'s complete drum gear evolution: pre-Dream Theater world-record and session years with Steve Vai and Extreme → Pearl Masterworks Maple on A Dramatic Turn of Events (2011) → Pearl Reference Pure at Yonderbarn Studios for Distance Over Time and A View from the Top of the World → Pearl Reference Series through his final Dream Theater era before Mike Portnoy\'s 2023 return. Thirteen years with Dream Theater, era by era.',
+  },
 };
 
 /**

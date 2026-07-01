@@ -1,5 +1,240 @@
 // Album drum-setup articles — Art Cruz. Auto-split from the former monolith.
 export const articles = {
+  "lamb-of-god-self-titled-drum-setup": {
+    "slug": "lamb-of-god-self-titled-drum-setup",
+    "albumTitle": "Lamb of God",
+    "artist": "Lamb of God",
+    "drummer": "Art Cruz",
+    "drummerId": 19,
+    "relatedDrummerSlug": "art-cruz",
+    "year": 2020,
+    "genre": "Groove Metal / American Metal",
+    "label": "Epic Records",
+    "producer": "Josh Wilbur",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-30",
+    "dateModified": "2026-06-30",
+    "author": "MetalForge Editorial",
+    "title": "Lamb of God (2020) Drum Setup: Art Cruz's Recording Debut",
+    "description": "How Art Cruz's drum gear powered Lamb of God's 2020 self-titled album — his recording debut with the band after replacing Chris Adler. Ludwig kit, Zildjian cymbals, Trick pedal breakdown.",
+    "seoKeywords": [
+      "lamb of god 2020 album drums",
+      "art cruz debut album",
+      "who replaced chris adler in lamb of god",
+      "art cruz lamb of god drum setup",
+      "lamb of god self titled drums",
+      "art cruz ludwig kit",
+      "memento mori drums"
+    ],
+    "ogImage": "/images/albums/lamb-of-god-self-titled-drums.webp",
+    "intro": {
+      "title": "The Cruz Era Opens: A Self-Titled Statement",
+      "content": "Released on June 19, 2020, Lamb of God's self-titled eighth album carried weight far beyond its track list. It was the band's first studio record since Chris Adler departed in 2019, and the first to feature his replacement, Art Cruz, on every track. For a band whose drumming identity had been so closely tied to one player for two decades, this was the real test: could Lamb of God still sound like Lamb of God?\n\nThe answer arrived loudly. \"Memento Mori\" opens the album with a blast-driven intensity that immediately signals Cruz isn't trying to impersonate his predecessor — he's bringing his own physicality to the band's established vocabulary. Tracks like \"Resurrection Man,\" \"New Colossal Hate,\" \"Gomorrah,\" and \"Routes\" run through the record's full range, from thrash-speed assaults to the groove-locked mid-tempo sections that have always been Lamb of God's signature.\n\nCruz had already proven himself live, filling in for Adler on tour dates as far back as 2018, but a studio record is a different challenge entirely. Working with longtime Lamb of God producer Josh Wilbur, Cruz had to deliver performances that honored the band's catalog while staking out his own identity behind the kit. The self-titled record became the foundation for everything that followed, including 2022's \"Omens.\"\n\nThis article breaks down the gear behind Art Cruz's first studio statement with Lamb of God — the kit, cymbals, and pedals that defined his recording debut.",
+      "keyPoints": [
+        "Released June 19, 2020 — Lamb of God's eighth studio album",
+        "Art Cruz's first full studio album with the band",
+        "First Lamb of God album without Chris Adler on drums",
+        "Produced by longtime collaborator Josh Wilbur",
+        "Key tracks: Memento Mori, Resurrection Man, New Colossal Hate, Gomorrah, Routes",
+        "Set up the gear and approach later heard on 2022's Omens"
+      ]
+    },
+    "drumKit": {
+      "title": "Cruz's Debut Setup: The Ludwig Classic Maple",
+      "brand": "Ludwig",
+      "model": "Ludwig Classic Maple",
+      "finish": "Custom finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Classic Maple shells"
+      },
+      "description": "For his recording debut, Art Cruz built his sound around a Ludwig Classic Maple kit — a single 22\" x 18\" bass drum paired with a Trick double pedal rather than the dual-kick setup Chris Adler favored. That single-kick-plus-double-pedal approach was a notable departure from Adler-era Lamb of God records, and it gave Cruz tonal consistency between feet that a two-bass-drum rig can't always match.\n\nThe four-tom configuration (10\", 12\", 14\", 16\") mirrors the band's long-standing template, which mattered for an album that needed to bridge old and new eras convincingly. Cruz's fills on tracks like \"Resurrection Man\" are economical rather than flashy, placed to punctuate the riff rather than overshadow it — a philosophy that respects the groove-first approach Lamb of God built its reputation on.\n\nThe Classic Maple shells gave Wilbur's production a warm, present low end that cuts through the band's down-tuned guitars without losing punch. It's the same core setup Cruz would carry into Omens two years later, refined but fundamentally unchanged — proof that he found his voice on this record and didn't need to chase it further.",
+      "notes": [
+        "Single 22x18\" bass drum with Trick double pedal, not dual kicks",
+        "Four-tom layout (10\", 12\", 14\", 16\") matches the band's established template",
+        "Classic Maple shells deliver warmth without sacrificing attack",
+        "Same core kit carried forward into the 2022 Omens sessions"
+      ],
+      "estimatedValue": "$4,000-6,000 (Ludwig Classic Maple configuration)"
+    },
+    "snare": {
+      "title": "The Snare on Memento Mori",
+      "brand": "Ludwig",
+      "model": "Ludwig 14\" x 6.5\" Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Maple or Brass",
+      "description": "Cruz's snare on the self-titled record needed to carry the same authority as Adler's had on Ashes of the Wake and Sacrament — a tall order on a debut. He met it with a 14\" x 6.5\" Ludwig snare tuned medium-high, giving tracks like \"Memento Mori\" and \"New Colossal Hate\" a crack with enough body to stay present under layered, down-tuned guitars.\n\nThe deeper 6.5\" shell adds low-mid weight that distinguishes Cruz's snare voice from the brighter, shallower snares some of his groove-metal peers favor. Combined with Wilbur's production, the snare sits forward in the mix without becoming harsh — punchy on the verses, full-bodied during the album's heavier breakdown sections.",
+      "tuningSetting": "Medium-high tension for punch and articulation",
+      "heads": "Evans G2 Coated or HD Dry (batter), Evans Hazy 300 (resonant)",
+      "estimatedValue": "$400-700 (Ludwig professional snare)"
+    },
+    "cymbals": {
+      "title": "Zildjian A Custom Across the Record",
+      "brand": "Zildjian",
+      "series": "A Custom",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian 14\" A Custom Hi-Hats",
+          "position": "Left side",
+          "notes": "Bright response for fast groove work"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 18\" A Custom Medium Crash",
+          "position": "Left of rack toms",
+          "notes": "Primary crash through the record"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 19\" A Custom Medium Crash",
+          "position": "Right of toms",
+          "notes": "Fuller crash for section endings"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian 21\" A Custom 20th Anniversary Ride",
+          "position": "Far right",
+          "notes": "Defined bell, used heavily on Gomorrah and Routes"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian 18\" A Custom China",
+          "position": "Above floor tom",
+          "notes": "Aggressive accents for heavy riffs"
+        }
+      ],
+      "description": "Already a Zildjian endorser by the time the self-titled album was tracked, Cruz built his cymbal voice on the A Custom line — bright and articulate enough to cut through Lamb of God's wall of down-tuned guitars without sounding harsh. The China cymbal accents on tracks like \"Gomorrah\" do the same job Adler's Meinl Chinas did on earlier records: punctuating riffs at precise moments rather than just adding noise.\n\nThe 21\" A Custom ride carries much of the album's groove-driven mid-tempo material, giving Cruz a cymbal with both a clear bell for accents and enough wash for sustained sections.",
+      "estimatedValue": "$1,800-2,500 total (Zildjian A Custom setup)"
+    },
+    "hardware": {
+      "title": "The Foundation",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Trick",
+          "model": "Trick Pro 1-V Bigfoot Double Pedal",
+          "notes": "Direct drive for instant response",
+          "description": "Cruz's Trick Pro 1-V Bigfoot double pedal handles the demanding kick patterns across the album, giving him the direct-drive responsiveness needed to match the band's established footwork standard on a single bass drum."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Gibraltar",
+          "model": "Gibraltar 9707ML-DP Hi-Hat Stand",
+          "notes": "Heavy-duty with smooth action"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Original",
+          "notes": "Stability for tracking long sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B or Power 5B",
+          "notes": "Balance of speed and power"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD2 (batter), Evans EQ3 (resonant)",
+        "toms": "Evans G2 Clear (batter), Evans G1 Clear (resonant)",
+        "snare": "Evans G2 Coated or HD Dry (batter), Evans Hazy 300 (resonant)"
+      }
+    },
+    "songsToStudy": {
+      "title": "Key Tracks to Study",
+      "songs": [
+        {
+          "name": "Memento Mori",
+          "album": "Lamb of God (2020)",
+          "year": 2020,
+          "description": "Cruz's recording debut with the band — sets the tone for the album's aggression.",
+          "difficulty": "Advanced",
+          "focus": "Blast-beat control, double bass precision"
+        },
+        {
+          "name": "Resurrection Man",
+          "album": "Lamb of God (2020)",
+          "year": 2020,
+          "description": "Showcases the economical, groove-first fill placement that defines Cruz's approach.",
+          "difficulty": "Advanced",
+          "focus": "Fill placement, riff-locked groove"
+        },
+        {
+          "name": "New Colossal Hate",
+          "album": "Lamb of God (2020)",
+          "year": 2020,
+          "description": "Mid-tempo groove track demonstrating snare and cymbal interplay.",
+          "difficulty": "Intermediate-Advanced",
+          "focus": "Dynamics, snare ghost notes"
+        },
+        {
+          "name": "Gomorrah",
+          "album": "Lamb of God (2020)",
+          "year": 2020,
+          "description": "Heavy China accents punctuate the riff in classic Lamb of God fashion.",
+          "difficulty": "Advanced",
+          "focus": "China cymbal accents, riff tracking"
+        },
+        {
+          "name": "Routes",
+          "album": "Lamb of God (2020)",
+          "year": 2020,
+          "description": "Features guest vocals from Testament's Chuck Billy; Cruz drives the track's relentless tempo.",
+          "difficulty": "Advanced",
+          "focus": "Stamina, tempo control"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "omens-drum-setup"
+    ],
+    "relatedDrummers": [
+      8,
+      4,
+      3,
+      17
+    ],
+    "relatedArticles": [
+      "whats-in-art-cruzs-kit",
+      "ashes-of-the-wake-drum-setup",
+      "whats-in-chris-adlers-kit"
+    ],
+    "faq": [
+      {
+        "question": "What drum kit does Art Cruz play on Lamb of God's 2020 self-titled album?",
+        "answer": "Art Cruz recorded Lamb of God's 2020 self-titled album on a Ludwig Classic Maple kit, featuring a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He paired the single kick with a Trick Pro 1-V Bigfoot double pedal rather than using dual bass drums, a notable shift from the two-kick setup Chris Adler used on earlier Lamb of God records. Full details are in the [Art Cruz kit breakdown](/articles/whats-in-art-cruzs-kit)."
+      },
+      {
+        "question": "Who replaced Chris Adler in Lamb of God?",
+        "answer": "Art Cruz replaced Chris Adler as Lamb of God's drummer. Adler departed the band in 2019 after two decades behind the kit, and Cruz — who had previously played in Winds of Plague and Prong, and first filled in for Adler on 2018 tour dates — became the band's official drummer. Lamb of God's 2020 self-titled album was Cruz's first studio recording with the band. See the [Art Cruz drummer profile](/drummer/art-cruz) for his full career background."
+      },
+      {
+        "question": "What gear did Art Cruz use to record Lamb of God's 2020 album?",
+        "answer": "Art Cruz's recording setup on the 2020 self-titled album centered on a Ludwig Classic Maple drum kit, a Ludwig 14x6.5 inch snare, Zildjian A Custom cymbals, and a Trick Pro 1-V Bigfoot double pedal. This is the same core gear lineup he carries into live performances and later carried into 2022's Omens sessions."
+      },
+      {
+        "question": "Was Lamb of God (2020) Art Cruz's first album with the band?",
+        "answer": "Yes. While Cruz had toured with Lamb of God as a live fill-in for Chris Adler as early as 2018, the band's 2020 self-titled album — featuring tracks like \"Memento Mori,\" \"Resurrection Man,\" and \"Gomorrah\" — was his first full studio album as an official member, recorded after he formally joined in 2019."
+      }
+    ],
+    "conclusion": {
+      "title": "A New Chapter, Built on the Old Foundation",
+      "content": "Lamb of God's 2020 self-titled album answered the question every band faces when a defining member leaves: would the music still feel like Lamb of God? Art Cruz's recording debut made the case decisively. His Ludwig Classic Maple kit and Zildjian A Custom cymbals echo the tonal character longtime fans expect, while his single-bass-drum-plus-double-pedal approach and economical fill placement mark a clear musical identity of his own.\n\nThe gear tells part of the story, but the bigger one is continuity. Cruz didn't try to replicate Chris Adler's exact dual-kick setup or note-for-note vocabulary — documented in detail on the [Ashes of the Wake drum setup](/articles/ashes-of-the-wake-drum-setup) breakdown of Adler's earlier era — he built his own version of the same groove-first philosophy. That distinction matters: it's why the album sounds like a natural continuation of Lamb of God's catalog rather than an imitation of it.\n\nFor a complete look at the gear Cruz uses on stage today, see the full [Art Cruz kit breakdown](/articles/whats-in-art-cruzs-kit) and the [Art Cruz drummer profile](/drummer/art-cruz). His next studio outing, 2022's Omens, would refine everything introduced here.\n\n🤘 *The Cruz era begins — same foundation, new hands on the kit.* 🤘"
+    }
+  },
   "whats-in-art-cruzs-kit": {
     "slug": "whats-in-art-cruzs-kit",
     "articleType": "drummer-kit",

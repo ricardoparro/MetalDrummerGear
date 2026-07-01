@@ -345,6 +345,9 @@ const gearPriceHistoryDrummers = [
   'john-otto',       // Significant Other era (1999) — Issue #2918
   'dirk-verbeuren',  // Dystopia era (2016) — Issue #2918
   'martin-axenrot',  // Watershed era (2008) — Issue #2918
+  'mario-duplantier', // Terra Incognita era (2001) — Issue #2974
+  'hellhammer',      // De Mysteriis Dom Sathanas era (1994) — Issue #2974
+  'ben-koller',      // Jane Doe era (2001) — Issue #2974
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

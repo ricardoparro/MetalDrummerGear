@@ -904,6 +904,7 @@ export const articles = {
     "videos": [],
     "relatedAlbums": [
       "tomb-of-the-mutilated-drum-setup",
+      "vile-drum-setup",
       "gallery-of-suicide-drum-setup",
       "bloodthirst-drum-setup",
       "paul-mazurkiewicz-drum-setup"
@@ -917,6 +918,204 @@ export const articles = {
     "conclusion": {
       "title": "The Morrisound Finale and the Barnes-Era Capstone",
       "content": "\"The Bleeding\" closes the most important chapter in Cannibal Corpse's history: the Chris Barnes era, the Scott Burns / Morrisound production partnership, and Paul Mazurkiewicz's pre-endorsement development period. All three threads concluded with this album — Barnes would depart for Six Feet Under, Burns would hand production duties to Colin Richardson, and Mazurkiewicz would eventually establish the Pearl Reference / Meinl / Vic Firth endorsement relationships that define his modern setup.\n\nWhat the album captures is Paul Mazurkiewicz at the peak of his pre-endorsement approach: locomotive double-bass fully formed, conventional grip blast beats at their tightest, and a groove sensibility that the debut-era material had only hinted at. The most accessible death metal record of its era is also a definitive document of Mazurkiewicz's ability to adapt his technique to material that demanded something different without abandoning the core philosophy.\n\nThe drum performances on \"The Bleeding\" — particularly on \"Staring Through the Eyes of the Dead,\" \"Stripped, Raped, and Strangled,\" and \"The Pick-Axe Murders\" — remain among the most widely cited references for Cannibal Corpse's early-era sound because they sit at the intersection of brutality and accessibility. That balance, achieved through Mazurkiewicz's disciplined serve-the-riff philosophy and Burns's most refined production, is the enduring legacy of the record.\n\nFor the full Cannibal Corpse drum setup arc:\n- **The predecessor**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the peak of the Morrisound era\n- **The Fisher-era pivot**: [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — Colin Richardson production and the new CC sound\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+    }
+  },
+  "vile-drum-setup": {
+    "slug": "vile-drum-setup",
+    "albumTitle": "Vile",
+    "artist": "Cannibal Corpse",
+    "drummer": "Paul Mazurkiewicz",
+    "drummerId": 51,
+    "relatedDrummerSlug": "paul-mazurkiewicz",
+    "band": "Cannibal Corpse",
+    "bands": ["Cannibal Corpse"],
+    "year": 1996,
+    "genre": "Death Metal",
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "studio": "Morrisound Recording, Tampa, Florida",
+    "producer": "Scott Burns",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Vile (1996)",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's Vile (1996) — the first album with George 'Corpsegrinder' Fisher on vocals. Paul Mazurkiewicz's pre-endorsement Pearl kit, Scott Burns's final Morrisound production, and the arc between The Bleeding and Gallery of Suicide.",
+    "seoKeywords": [
+      "vile drum setup",
+      "cannibal corpse vile drums",
+      "paul mazurkiewicz 1996 drum setup",
+      "first cc album with corpsegrinder",
+      "george fisher first cannibal corpse album",
+      "who sang on vile cannibal corpse",
+      "scott burns morrisound 1996",
+      "cannibal corpse corpsegrinder debut album"
+    ],
+    "ogImage": "/images/albums/vile-drums.webp",
+    "intro": {
+      "title": "The Corpsegrinder Debut: Mazurkiewicz on Cannibal Corpse's Fifth Album",
+      "content": "Released on May 21, 1996 through Metal Blade Records, \"Vile\" is Cannibal Corpse's fifth studio album and the most consequential lineup transition in the band's history: it is the first Cannibal Corpse album to feature vocalist George \"Corpsegrinder\" Fisher, formerly of Monstrosity, in place of founding vocalist Chris Barnes. The sessions began under the working title \"Created to Kill\" with Barnes still fronting the band, but Barnes was dismissed partway through recording — by most accounts over creative and business differences — and Fisher was brought in to complete the vocal tracks. The result was released as \"Vile,\" and Fisher has remained Cannibal Corpse's vocalist on every album since.\n\nFor Paul Mazurkiewicz, \"Vile\" was his fifth studio recording and the first to feature a Cannibal Corpse lineup without Barnes, the vocalist he had shared a stage with since the band's 1988 Buffalo, New York formation. The instrumental tracking — drums, guitars, and bass — was largely complete before the vocalist change, so Mazurkiewicz's performance on \"Vile\" was recorded in essentially the same working environment as \"The Bleeding\" two years earlier: same studio, same producer, same pre-endorsement Pearl kit. What changed was who would end up singing over it.\n\nScott Burns returned to produce at Morrisound Recording in Tampa, Florida — his fifth and, as it turned out, final Cannibal Corpse production. \"Vile\" also became the band's first Billboard 200 entry, debuting at #151, a modest but historic commercial milestone for a death metal band still operating well outside the mainstream. It was also guitarist Rob Barrett's final Cannibal Corpse album until his return a decade later on \"Kill\" (2006).\n\nTracks like \"Devoured by Vermin,\" \"Puncture Wound Massacre,\" and \"Absolute Hatred\" introduced Fisher's guttural, more texturally varied vocal approach to the Cannibal Corpse sound, riding over drum tracks that Mazurkiewicz had already locked in with the same locomotive double-bass and conventional-grip blast beat technique documented on \"The Bleeding.\" This article breaks down the gear behind that transitional session and its place in the arc between \"The Bleeding\" (1994) and \"Gallery of Suicide\" (1998).",
+      "keyPoints": [
+        "Cannibal Corpse's fifth album (May 21, 1996) — Metal Blade Records — George 'Corpsegrinder' Fisher's debut as vocalist",
+        "Chris Barnes was dismissed mid-session (working title 'Created to Kill'); Fisher, formerly of Monstrosity, completed the vocals",
+        "Scott Burns's fifth and final Cannibal Corpse production, recorded at Morrisound Recording, Tampa",
+        "Cannibal Corpse's first Billboard 200 entry — debuted at #151",
+        "Rob Barrett's last CC album on guitar until his 2006 return on 'Kill'",
+        "Mazurkiewicz's drum tracking used the same pre-endorsement Pearl setup documented on 'The Bleeding' (1994)"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Masters MX: Unchanged Through the Lineup Shakeup",
+      "brand": "Pearl",
+      "model": "Pearl Masters MX or Export (pre-endorsement, carried over from The Bleeding)",
+      "finish": "Black wrap or natural (era-typical)",
+      "config": {
+        "bassdrums": ["22\" x 16\" Bass Drum (x2 — double kick)"],
+        "toms": ["10\" x 10\" Rack Tom", "12\" x 10\" Rack Tom"],
+        "floorToms": ["16\" x 16\" Floor Tom"],
+        "shells": "Maple/mahogany hybrid (Masters MX) or mahogany/basswood (Export) — pre-endorsement era"
+      },
+      "description": "Because the drum, guitar, and bass tracking on \"Vile\" was largely finished before Chris Barnes's dismissal and George Fisher's arrival, Paul Mazurkiewicz's kit on this session is effectively identical to the one he used on \"The Bleeding\" two years earlier: a pre-endorsement Pearl setup in the Masters MX or Export range, with dual 22\" x 16\" kick drums providing the symmetric independence his locomotive double-bass technique relied on.\n\nThat continuity matters for understanding \"Vile\" as a recording. The album is often discussed purely as a vocalist transition, but for Mazurkiewicz it represented a continuation rather than a reset — the same kit, the same tuning philosophy, and the same producer he had worked with on four prior albums. The dual-kick configuration on tracks like \"Devoured by Vermin\" and \"Puncture Wound Massacre\" carries the same locomotive weight established on \"The Bleeding,\" with no audible change in the low-end architecture despite the upheaval surrounding the sessions.\n\nThe compact two-rack, one-floor-tom layout also continued unchanged, reflecting Mazurkiewicz's consistent philosophy across the pre-endorsement era: toms serve transitions and fills, never becoming a showcase element that would distract from the riff-driven core of the songwriting. Scott Burns tuned and miked the kit using the same medium-tight, attack-forward Morrisound approach he had refined across the previous four Cannibal Corpse albums.",
+      "notes": [
+        "Same pre-endorsement Pearl Masters MX/Export configuration as The Bleeding (1994) — tracked before the vocalist change",
+        "Dual 22\" x 16\" kicks — locomotive double-bass carried over unchanged",
+        "Compact two-rack, one-floor-tom layout — riff-serving, not fill-showcasing",
+        "Scott Burns's fifth and final Morrisound session with Mazurkiewicz"
+      ],
+      "estimatedValue": "$1,500–2,800 (1996 era) / $2,500–4,500 (comparable vintage Pearl today)"
+    },
+    "snare": {
+      "title": "The 1996 Snare: Consistency Through Turmoil",
+      "brand": "Pearl (era-typical)",
+      "model": "Wood-shell snare (maple or birch, Pearl Masters MX-range)",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple or birch wood-shell",
+      "description": "The snare on \"Vile\" continues the 14\" x 5.5\" wood-shell formula Mazurkiewicz had used across every Cannibal Corpse album to that point, tuned bright and close-miked by Scott Burns using the same approach he had refined across four prior sessions. Amid a recording process disrupted by a mid-album vocalist change, the drum and snare capture is a document of stability — Burns and Mazurkiewicz's fifth session together, executed with the same attack-forward precision as \"The Bleeding.\"\n\nOn tracks like \"Perverse Suffering\" and \"Relentless Beating,\" the snare crack cuts through the mix with the same brightness and definition that had become the Morrisound standard, giving Fisher's newly recorded vocals a rhythmic bed that was already fully formed and unaffected by the lineup change happening around it.",
+      "tuningSetting": "Medium-high tension — bright crack consistent with the Morrisound catalog",
+      "heads": "Remo Ambassador or Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$200–450 (1996 era) / $300–600 (comparable wood-shell snares today)"
+    },
+    "cymbals": {
+      "title": "Pre-Endorsement Brass: The Fisher-Era Opener",
+      "brand": "Paiste / Zildjian (era-typical, pre-endorsement)",
+      "series": "Paiste 2002 / Zildjian A — working-band selection, 1996",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "14\" Hi-Hats (Paiste 2002 or Zildjian A)",
+          "position": "Left side",
+          "notes": "Rhythmic backbone across blast and groove sections alike"
+        },
+        {
+          "type": "Crash",
+          "model": "16\" Medium Crash",
+          "position": "Left crash",
+          "notes": "Fast accent for riff punctuation"
+        },
+        {
+          "type": "Crash",
+          "model": "18\" Medium Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash for section climaxes"
+        },
+        {
+          "type": "Ride",
+          "model": "20\" Medium Ride",
+          "position": "Far right",
+          "notes": "Sparse use — bell accents on mid-tempo passages"
+        },
+        {
+          "type": "China",
+          "model": "18\" China",
+          "position": "Above floor tom",
+          "notes": "Trashy accent at riff transitions — a Mazurkiewicz signature since the debut"
+        }
+      ],
+      "description": "As with the drum kit itself, Mazurkiewicz's cymbal setup on \"Vile\" carried over directly from \"The Bleeding\": era-typical Paiste 2002 and Zildjian A cymbals in a standard working-band configuration, with no Meinl endorsement yet in place. The 14\" hi-hats anchor the rhythmic pulse across the record, while the 18\" China continues to punctuate riff transitions in the same signature pattern documented on every Cannibal Corpse album since \"Eaten Back to Life.\"\n\nBecause the cymbal, drum, and bass tracks were captured before the vocalist change, the brass on \"Vile\" reflects zero disruption from the turmoil surrounding the sessions — a continuity that underscores how much of the album's finished sound was locked in before George Fisher ever stepped into the booth.",
+      "estimatedValue": "$600–1,200 total (1996 era working-band selection)"
+    },
+    "hardware": {
+      "title": "1996 Hardware: The Pre-Eliminator Configuration",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl / Camco-style",
+          "model": "Individual single pedals — one per kick drum",
+          "notes": "Standard independent double-bass configuration — pre-Eliminator era",
+          "description": "On \"Vile,\" Mazurkiewicz continued with individual single pedals on each of his two kick drums, the same independent double-bass configuration he had used since the debut. The Pearl Eliminator double pedal that defines his modern rig was still years away."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl heavy-duty hi-hat stand (era-typical)",
+          "notes": "Stable platform for blast beat and groove-section footwork"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B Wood Tip",
+          "notes": "Pre-signature — the Vic Firth Paul Mazurkiewicz signature model arrived later"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter)",
+        "toms": "Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador or Emperor Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "sound": {
+      "title": "Scott Burns's Final Cannibal Corpse Session at Morrisound",
+      "content": "\"Vile\" was Scott Burns's fifth and final Cannibal Corpse production — closing out a producer/band relationship that had defined death metal recording at Morrisound since \"Eaten Back to Life\" (1990). Burns tracked the drums, guitars, and bass before Chris Barnes's dismissal, then completed the album after George Fisher was brought in to record vocals over the existing instrumental beds. The result is a drum sound that is, in engineering terms, a direct continuation of \"The Bleeding\": the same close-miked, dry, attack-forward Morrisound approach Burns had refined across four prior sessions with Mazurkiewicz.\n\nThat continuity is part of what makes \"Vile\" an unusual document. The most consequential lineup change in Cannibal Corpse's history happened entirely in the vocal booth — the drum kit, the amp tones, and the producer's chair were untouched by it. Mazurkiewicz's kick and snare capture on tracks like \"Devoured by Vermin\" and \"Absolute Hatred\" sound like a natural extension of \"The Bleeding\" because, in every technical sense, they are.\n\nAfter \"Vile,\" Cannibal Corpse would not record with Scott Burns again. Jim Morris took over production duties for \"Gallery of Suicide\" (1998) as Burns stepped back from extreme metal production, and Colin Richardson would bring an entirely new sonic approach on \"Bloodthirst\" (1999). \"Vile\" therefore stands as the true closing chapter of the Burns/Morrisound era for Cannibal Corpse, even though the album is more often remembered for who it introduced than for who it said goodbye to.",
+      "keyTechniques": [
+        "Fifth and final Burns/Morrisound CC session — instrumental tracks recorded before the vocalist change",
+        "AKG D112 inside each kick for maximum beater attack articulation",
+        "Shure SM57 on snare, Sennheiser MD421 on toms — consistent with the four prior sessions",
+        "Pure acoustic capture — no triggers, no samples",
+        "Drum sound functions as a direct continuation of The Bleeding's Morrisound capture"
+      ]
+    },
+    "technique": {
+      "title": "Locomotive Consistency Through a Lineup Earthquake",
+      "content": "\"Vile\" asked nothing new of Paul Mazurkiewicz technically — and that is precisely what makes his performance on the album significant. While the band's vocalist situation was in flux, Mazurkiewicz's playing continued the same locomotive double-bass and conventional-grip blast beat approach he had built across four prior albums, providing a rhythmic foundation stable enough that George Fisher could step into an essentially finished instrumental record and make it his own.\n\n**Conventional Grip, Unbroken:**\nMazurkiewicz's traditional grip technique, in near-continuous professional use since 1988, shows no interruption on \"Vile.\" The blast beats on \"Devoured by Vermin\" and \"Puncture Wound Massacre\" are executed with the same left-stick control and locked consistency documented on \"The Bleeding,\" recorded in the same room with the same producer roughly two years earlier.\n\n**The Locomotive Foundation, Pre-Fisher:**\nBecause the drum tracking predates Fisher's arrival, \"Vile\" is a rare case of a Cannibal Corpse vocalist debut where the drummer's performance was not shaped around the new singer's phrasing at all. Mazurkiewicz's parts on tracks like \"Absolute Hatred\" and \"Eaten from Inside\" were locked in against Barnes-era arrangement instincts, and Fisher adapted his vocal phrasing to fit them — the reverse of the usual writing relationship on the albums that followed.\n\n**Bridging Two Documented Eras:**\n\"Vile\" is the technical bridge between the pre-endorsement gear and playing style fully documented on \"The Bleeding\" (1994) and the transitional Pearl setup captured two years later on \"Gallery of Suicide\" (1998). The locomotive double-bass, the compact tom vocabulary, and the conventional grip all carry through unchanged — the constants that anchored Cannibal Corpse through its most turbulent lineup moment.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [The Bleeding drum setup (1994)](/articles/the-bleeding-drum-setup) — the Barnes-era predecessor, tracked in the same room with the same producer\n- [Gallery of Suicide drum setup (1998)](/articles/gallery-of-suicide-drum-setup) — the transitional Pearl setup two albums later"
+    },
+    "faq": [
+      {
+        "question": "Who sang on Vile?",
+        "answer": "George \"Corpsegrinder\" Fisher sang on Vile (1996), Cannibal Corpse's fifth studio album. Fisher, formerly of Monstrosity, was brought in mid-session after original vocalist Chris Barnes was dismissed from the band during recording (the album was initially tracked under the working title 'Created to Kill'). Vile was Fisher's debut as a Cannibal Corpse vocalist, and he has recorded every Cannibal Corpse album since, including Gallery of Suicide (1998), Bloodthirst (1999), and Violence Unimagined (2021)."
+      },
+      {
+        "question": "What was Cannibal Corpse's first album with George Fisher?",
+        "answer": "Vile (1996) was Cannibal Corpse's first album with vocalist George 'Corpsegrinder' Fisher. He replaced founding vocalist Chris Barnes, who was dismissed partway through the recording sessions. Because the drums, guitars, and bass were largely tracked before the vocalist change, Fisher recorded his vocals over instrumental beds that had already been completed by Paul Mazurkiewicz, Alex Webster, Jack Owen, and Rob Barrett. Fisher has been Cannibal Corpse's vocalist on every album since, making Vile the definitive dividing line between the Barnes era (1990–1994) and the Fisher era (1996–present)."
+      },
+      {
+        "question": "What drums did Paul Mazurkiewicz use on Vile?",
+        "answer": "On Vile (1996), Paul Mazurkiewicz played the same pre-endorsement Pearl kit documented on The Bleeding (1994) — a Masters MX or Export-range configuration with dual 22-inch x 16-inch bass drums, 10-inch and 12-inch rack toms, and a 16-inch floor tom, paired with a 14-inch x 5.5-inch wood-shell snare. Cymbals were era-typical Paiste 2002 or Zildjian A, and sticks were Vic Firth 5B Wood Tip. Because the instrumental tracks were recorded before Chris Barnes's dismissal, Mazurkiewicz's gear and performance on Vile are a direct continuation of his setup on The Bleeding rather than a new configuration."
+      },
+      {
+        "question": "Who produced Vile and where was it recorded?",
+        "answer": "Vile was produced by Scott Burns at Morrisound Recording in Tampa, Florida — his fifth and final Cannibal Corpse production. Burns had produced every Cannibal Corpse album from Eaten Back to Life (1990) through Vile (1996). After Vile, Jim Morris took over production duties for Gallery of Suicide (1998) as Burns stepped back from extreme metal production, and the band moved to producer Colin Richardson for Bloodthirst (1999)."
+      },
+      {
+        "question": "How does Vile fit between The Bleeding and Gallery of Suicide?",
+        "answer": "Vile (1996) sits directly between The Bleeding (1994) and Gallery of Suicide (1998) in both Cannibal Corpse's lineup history and Paul Mazurkiewicz's gear timeline. The Bleeding was the last album with original vocalist Chris Barnes; Vile introduced George 'Corpsegrinder' Fisher mid-session after Barnes's dismissal; and Gallery of Suicide was Fisher's second album, recorded as Mazurkiewicz's Pearl setup began its gradual transition toward the Reference-era rig. Mazurkiewicz's kit and technique on Vile are essentially unchanged from The Bleeding, making it the technical bridge between the two documented eras. See the [The Bleeding drum setup](/articles/the-bleeding-drum-setup) and [Gallery of Suicide drum setup](/articles/gallery-of-suicide-drum-setup) articles for direct comparison."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "the-bleeding-drum-setup",
+      "gallery-of-suicide-drum-setup",
+      "bloodthirst-drum-setup",
+      "paul-mazurkiewicz-drum-setup"
+    ],
+    "relatedDrummers": [51],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "death-metal-drummers",
+      "tampa-death-metal-sound"
+    ],
+    "conclusion": {
+      "title": "The Bridge Between Two Eras",
+      "content": "\"Vile\" occupies a singular place in Cannibal Corpse's history: the album where the band's most consequential lineup change happened almost entirely off-camera, in the vocal booth, after the instrumental tracking Paul Mazurkiewicz played on was already complete. His pre-endorsement Pearl kit, conventional grip, and locomotive double-bass technique carried over unchanged from The Bleeding, giving George \"Corpsegrinder\" Fisher a fully-formed rhythmic foundation to build his Cannibal Corpse debut on.\n\nScott Burns's fifth and final Cannibal Corpse production closed out the Morrisound partnership that had defined the band's first five albums, even as the record is remembered first and foremost for introducing the vocalist who would front Cannibal Corpse for the next three decades and counting. For Mazurkiewicz, Vile is the quiet technical bridge between two well-documented eras — proof that the locomotive foundation he built across the Barnes years was strong enough to survive the biggest lineup earthquake in the band's history without missing a beat.\n\nFor the full Cannibal Corpse drum setup arc:\n- **The predecessor**: [The Bleeding drum setup (1994)](/articles/the-bleeding-drum-setup) — the last Chris Barnes album, tracked in the same room with the same producer\n- **The successor**: [Gallery of Suicide drum setup (1998)](/articles/gallery-of-suicide-drum-setup) — Fisher's second album and the last Morrisound session\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   },
   "bloodthirst-drum-setup": {
@@ -1530,6 +1729,7 @@ export const articles = {
     "videos": [],
     "relatedAlbums": [
       "the-bleeding-drum-setup",
+      "vile-drum-setup",
       "bloodthirst-drum-setup",
       "tomb-of-the-mutilated-drum-setup",
       "paul-mazurkiewicz-drum-setup",

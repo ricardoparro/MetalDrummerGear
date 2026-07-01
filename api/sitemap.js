@@ -363,6 +363,9 @@ const gearPriceHistoryDrummers = [
   'mario-duplantier', // Terra Incognita era (2001) — Issue #2974
   'hellhammer',      // De Mysteriis Dom Sathanas era (1994) — Issue #2974
   'ben-koller',      // Jane Doe era (2001) — Issue #2974
+  'gavin-harrison',  // Fear of a Blank Planet era (2007) — Issue #2912
+  'mike-mangini',    // A Dramatic Turn of Events era (2011) — Issue #2912
+  'jason-bittner',   // The War Within era (2004) — Issue #2912
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

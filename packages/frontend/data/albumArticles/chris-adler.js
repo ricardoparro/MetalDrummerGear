@@ -403,6 +403,402 @@ export const articles = {
       "content": "Chris Adler's 25-year tenure with Lamb of God didn't just establish him as one of metal's great drummers — it redefined what groove metal drumming could achieve. His combination of power, precision, and swing created a template that countless drummers have followed.\n\nThe numbers tell part of the story: five Grammy nominations with Lamb of God, a Grammy win with Megadeth, millions of albums sold, and arenas filled worldwide. But the real legacy is in how many drummers cite Adler as their primary influence, how many bands sound like they studied \"Ashes of the Wake\" as a textbook.\n\nWhat made Adler special wasn't technical extremity — plenty of drummers can play faster or more complex patterns. It was his ability to make heaviness groove, to find the swing within aggression, to create patterns that served songs rather than showcased ego. He brought musicality to brutality.\n\nThe pivot technique alone would secure his legacy. But combined with his dynamic control, his precise China accents, and his intuitive understanding of what heavy music needs, Adler created a style that was both influential and inimitable. You can learn his techniques, but his feel is his own.\n\nSince leaving Lamb of God in 2019, Adler has focused on education and new projects, sharing the knowledge he accumulated over 25 years in the trenches. The motorcycle accident in 2018 reminded him that life is fragile; he's chosen to spend his remaining years giving back to the drumming community.\n\n**What to Take Away:**\n- Groove is more important than speed\n- Self-teaching can lead to innovation\n- Serve the song above all else\n- Dynamics make heaviness hit harder\n- China cymbals deserve precision placement\n\nFrom Richmond basements to arena headlining, from Burn the Priest to Grammy gold, Chris Adler proved that American metal could groove as hard as it hit. The sound he helped create — technically impressive but viscerally moving — remains the standard for groove metal.\n\nEvery time a drummer finds the pocket in a heavy riff, every time a China cymbal accent lands with perfect precision, every time a groove makes a crowd move as one — that's Chris Adler's influence, still resonating through metal drumming.\n\n🥁 *\"The best drummers don't play drums — they play songs.\"* 🐑"
     }
   },
+  "new-american-gospel-drum-setup": {
+    "slug": "new-american-gospel-drum-setup",
+    "albumTitle": "New American Gospel",
+    "artist": "Lamb of God",
+    "drummer": "Chris Adler",
+    "drummerId": 17,
+    "relatedDrummerSlug": "chris-adler",
+    "year": 2000,
+    "genre": "Groove Metal / New Wave of American Heavy Metal",
+    "label": "Prosthetic Records",
+    "studio": "Austin Enterprises, Clinton, Massachusetts",
+    "producer": "Steve Austin",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "New American Gospel Drum Setup: Chris Adler's 2000 Debut Kit",
+    "description": "Complete breakdown of Chris Adler's drum setup on Lamb of God's 2000 debut New American Gospel — the pre-endorsement Pearl kit, raw groove metal drumming, and the record that launched the New Wave of American Heavy Metal.",
+    "seoKeywords": [
+      "new american gospel drum setup",
+      "lamb of god first album drums",
+      "chris adler debut kit",
+      "new american gospel drum kit chris adler",
+      "chris adler 2000 pearl kit",
+      "lamb of god new american gospel drums",
+      "groove metal drums 2000",
+      "chris adler drum setup",
+      "black label drums"
+    ],
+    "ogImage": "/images/albums/new-american-gospel-drums.webp",
+    "intro": {
+      "title": "The Origin Point: Lamb of God's Debut Under Their Own Name",
+      "content": "Released September 26, 2000 through Prosthetic Records, \"New American Gospel\" is where Lamb of God's discography truly begins. The Richmond, Virginia band had spent the mid-90s recording as Burn the Priest, self-releasing a self-titled album in 1999 before renaming themselves Lamb of God. New American Gospel was the first record released under that name — the origin point for a catalog that would eventually run through As the Palaces Burn (2003), Ashes of the Wake (2004), Sacrament (2006), Wrath (2009), Resolution (2012), and VII: Sturm und Drang (2015).\n\nThe album was tracked fast and raw: eight days, April 15-22, 2000, at Austin Enterprises in Clinton, Massachusetts, with producer Steve Austin (of the extreme sludge/noise band Today Is the Day) at the desk, then mastered at MWorks in Cambridge. Austin's aesthetic favored capturing a band's live intensity over studio polish, and that philosophy suited a young Lamb of God perfectly — New American Gospel sounds like a band still covered in the dirt of Richmond's DIY basement scene, not one being groomed for radio.\n\nMusically, the record sits at a distinctive crossroads: groove metal's syncopated pocket, Southern sludge's weight, and even flickers of alt-country twang buried under the distortion — a crossover that would get sanded down as the band's sound tightened on later records. It's the rawest, least polished entry in the entire Lamb of God catalog, and that rawness is exactly what makes it valuable as a reference point.\n\nBehind the kit, Chris Adler was still years from any endorsement deal. He tracked New American Gospel on a workhorse Pearl kit and a mixed bag of budget cymbals — nothing like the Mapex Black Panther Velvetone and Meinl Byzance setup that would define his mature sound starting with Ashes of the Wake. But the vocabulary is already there in embryonic form: syncopated grooves that swing despite the aggression, early China cymbal accents, and a self-taught approach to independence between his hands and feet that had no formal training to constrain it.\n\nThis article documents the gear behind Lamb of God's origin record — the missing first chapter in Chris Adler's equipment story, and the foundation everything that followed was built on.",
+      "keyPoints": [
+        "Lamb of God's first album released under that name (September 26, 2000, Prosthetic Records)",
+        "Follows the band's 1999 self-titled release as Burn the Priest",
+        "Recorded in 8 days at Austin Enterprises, Clinton, MA with producer Steve Austin",
+        "Southern sludge and alt-country textures fused with groove metal aggression",
+        "Chris Adler's pre-endorsement era — Pearl kit and mixed budget cymbals",
+        "Earliest documented appearance of Adler's China cymbal accent vocabulary",
+        "Opens the arc that runs through Sacrament (2006), Wrath (2009), and beyond",
+        "Reissued by Metal Blade Records in 2006 with four bonus tracks"
+      ]
+    },
+    "drumKit": {
+      "title": "The Pearl Export: A Workhorse Kit for a DIY Band",
+      "brand": "Pearl",
+      "model": "Pearl Export Series",
+      "finish": "Stock finish, no custom graphics",
+      "config": {
+        "bassdrums": [
+          "22\" x 16\" Bass Drum (single shell, double pedal)"
+        ],
+        "toms": [
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Poplar/mahogany hybrid shells"
+      },
+      "description": "In 2000, Chris Adler had no endorsement backing him, and New American Gospel's drum sound reflects that reality directly. The Pearl Export Series — Pearl's long-running entry-to-mid-level line — was the kit of choice for countless touring bands at that budget level, and Adler's setup was no exception. A single 22\" x 16\" bass drum ran through a double pedal rather than the dual-kick configuration Adler would later make his signature starting with As the Palaces Burn (2003); the double-bass patterns on tracks like \"Terror and Hubris in the House of Frank Pollard\" were achieved entirely through pedal technique rather than a second physical drum.\n\nThe poplar/mahogany hybrid shells common to Export-era Pearl kits produce a darker, more compressed tone than the maple and walnut hybrids Adler later favored — less high-end shimmer, more midrange thud. That character actually suits New American Gospel's murkier, sludge-inflected production; the drums sit low and heavy in Steve Austin's mix rather than cutting with studio brightness.\n\nThe tom configuration was compact: 12\" and 13\" rack toms and a single 16\" floor tom, a leaner setup than the two-rack, two-floor-tom arrangement Adler would adopt once his career scaled up. Fills on this record are sparse and functional — there simply wasn't a second floor tom to fill out a bigger vocabulary, and the DIY budget didn't stretch to more shells.\n\nWhat's notable in hindsight is how much of Adler's mature approach is already audible on a budget kit. The groove-first philosophy, the restraint, the precise placement of every hit — none of that required expensive gear. The Pearl Export just needed a drummer who already knew what he wanted to say.",
+      "notes": [
+        "Pearl Export Series — budget/mid-level workhorse kit, no endorsement",
+        "Single 22\" bass drum with double pedal, not yet the dual-kick setup of later albums",
+        "Poplar/mahogany shells give a darker, more compressed tone than later Mapex kits",
+        "Leaner tom configuration — one rack pair, single floor tom",
+        "Groove-first philosophy already audible despite entry-level gear"
+      ],
+      "estimatedValue": "$600-900 (2000 Pearl Export configuration, period pricing)"
+    },
+    "snare": {
+      "title": "The Pearl Export Steel Snare",
+      "brand": "Pearl",
+      "model": "Pearl Export Steel Snare",
+      "size": "14\" x 5.5\"",
+      "shell": "Steel shell with standard triple-flange hoops",
+      "description": "The snare on New American Gospel is a stock Pearl Export steel model — a far cry from the signature Warbird that would eventually carry Adler's name. Steel shells produce a brighter, more cutting crack than the maple shells he favored later, with more overtone and less controlled focus. In Austin's raw mix, that extra ring works in the album's favor, giving tracks like \"Black Label\" and \"A Warning\" a snare crack that sounds appropriately unruly.\n\nThe triple-flange hoops were standard-issue rather than the die-cast hardware found on his later signature and pro-tier snares, meaning rimshots have slightly more give and less consistency than on subsequent albums. That inconsistency is part of the record's charm rather than a flaw — New American Gospel is not a precision-tracked studio document, it's a document of a band playing as hard as they could in eight days.\n\nAdler's ghost-note vocabulary, which would become so central to his mature groove, is present here in a rawer form. The steel shell's natural ring makes ghost notes less controlled than they'd later become on the Warbird, but the intent — filling space between accents without cluttering the groove — is unmistakably his, even at 27 years old and with budget gear in his hands.",
+      "tuningSetting": "Medium tension, more ring left in than his later, more controlled tuning",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$120-180 (2000 Pearl Export steel snare)"
+    },
+    "cymbals": {
+      "title": "Mixed Budget Cymbals: Zildjian, Sabian, and a Cheap China",
+      "brand": "Mixed (Zildjian / Sabian)",
+      "series": "Zildjian A / Sabian AA (mixed setup, no single sponsor)",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian 14\" A New Beat Hi-Hats",
+          "position": "Left side",
+          "notes": "Standard workhorse hats, no signature sizing yet"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian 16\" AA Metal-X Crash",
+          "position": "Far left",
+          "notes": "Quick accent cymbal"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian 18\" AA Metal-X Crash",
+          "position": "Right side",
+          "notes": "Fuller crash for section endings"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian 20\" A Ride",
+          "position": "Far right",
+          "notes": "Basic ride with functional bell"
+        },
+        {
+          "type": "China",
+          "model": "18\" budget China (unbranded/entry-level)",
+          "position": "Above floor tom",
+          "notes": "Earliest documented use of the China accent that became Adler's signature"
+        }
+      ],
+      "description": "Without a cymbal endorsement, Adler's New American Gospel setup was assembled from whatever budget gear got the job done — a mix of Zildjian A series and Sabian AA Metal-X, the entry points of each brand's metal-oriented lines circa 2000. There's no single sponsor's consistent voicing across the kit; the crashes and ride come from different manufacturers with noticeably different characters, giving the album's cymbal wash a slightly patchwork, unrefined quality that matches its overall production.\n\nThe most historically significant piece is the China cymbal, likely an inexpensive 18\" model with no clear brand pedigree. It's the earliest documented instance of the China-as-accent technique that Adler would spend the next two decades refining into a signature sound — first with Zildjian A Custom on As the Palaces Burn, later with dual Meinl Byzance Chinas on his mature Mapex-era kits. The technique was there before the gear; the budget China just happened to be what was on hand when Adler discovered how well it worked.\n\nThe 14\" Zildjian A New Beat hi-hats were a standard, unremarkable choice — no hint yet of the smaller 13\" hats he'd later adopt specifically to enable his \"pivot\" independent hi-hat technique. That refinement was still a few years and a few albums away; on New American Gospel, Adler's footwork is more straightforward, driven by raw energy rather than the intricate dynamics he'd develop once his gear and his technique matured together.",
+      "estimatedValue": "$500-750 total (2000 mixed budget cymbal setup)"
+    },
+    "hardware": {
+      "title": "Basic Hardware, No Signature Gear",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Pearl",
+          "model": "Pearl P-2002 Chain Drive Double Pedal",
+          "notes": "Standard chain-drive double pedal, no direct-drive speed yet",
+          "description": "The chain-drive P-2002 handled New American Gospel's double-bass patterns capably but without the immediate response of the direct-drive Mapex Falcon pedals Adler would use once his career scaled up. It's a reliable, unglamorous workhorse pedal — exactly what a DIY touring band could afford in 2000."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl Export Hi-Hat Stand",
+          "notes": "Basic stand, standard action"
+        },
+        {
+          "type": "Throne",
+          "brand": "Pearl",
+          "model": "Pearl Export Throne",
+          "notes": "Standard round-top throne, no hydraulic cushioning"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5A American Classic",
+          "notes": "Generic 5A profile, years before any signature stick model"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter), Remo Ambassador (resonant, no port)",
+        "toms": "Remo Ambassador Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Steve Austin's Raw, Fast Session at Austin Enterprises",
+      "content": "New American Gospel was tracked in just eight days — April 15 through 22, 2000 — at Austin Enterprises in Clinton, Massachusetts, with Steve Austin of the extreme sludge/noise act Today Is the Day producing. Austin's background in abrasive, unpolished extreme music shaped every decision on the record: this was never going to be a slickly produced album, and that was the point.\n\n**The Approach:**\nRather than isolating and reinforcing every drum hit with samples and heavy editing — increasingly common in metal production even by 2000 — Austin favored capturing the band's live performance energy as directly as possible. Adler's drum takes retain natural timing feel, including the slight forward-leaning urgency that gives tracks like \"Black Label\" their nervous, aggressive momentum.\n\n**Fast Turnaround:**\nEight days for a full album, including drums, guitars, bass, and vocals, meant minimal time for perfectionism. Drum tracking likely occupied only a day or two of that schedule — a stark contrast to the weeks Machine (Mark Lewis) would later spend dialing in Adler's tone on Ashes of the Wake and Sacrament.\n\n**Mastering:**\nThe album was mastered at MWorks in Cambridge, Massachusetts, a step that brought some cohesion to the raw tracking without erasing its rough edges.\n\n**The Result:**\nThe drum sound on New American Gospel is compressed, midrange-heavy, and unmistakably lo-fi compared to every Lamb of God record that followed. That rawness became historically valuable — it's the sound of a band and a drummer before any studio system had smoothed them out, capturing Adler's ideas in their rawest, most unfiltered state.",
+      "keyTechniques": [
+        "8-day tracking window — minimal time for polish or heavy editing",
+        "Natural performance timing preserved rather than corrected",
+        "Steve Austin's extreme/sludge production background shaped a deliberately raw sound",
+        "Mastered at MWorks, Cambridge, Massachusetts",
+        "Compressed, midrange-heavy drum tone distinct from every later Machine-produced LoG record"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Black Label",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "One of the most enduring Lamb of God songs from any era, still a live staple",
+          "Groove-first pocket audible even on entry-level gear",
+          "Early China cymbal accents mark riff transitions",
+          "Raw snare crack driven by the steel Export shell"
+        ],
+        "gearNotes": "The steel Export snare's extra ring suits the song's unruly energy. Budget China accents already show the placement instinct Adler would refine for the next 15 years."
+      },
+      {
+        "track": "In the Absence of the Sacred",
+        "bpm": "140",
+        "signature": "4/4",
+        "highlights": [
+          "Southern sludge weight audible in the slower, grinding sections",
+          "Double-bass patterns via chain-drive pedal rather than dual kicks",
+          "Dynamic shifts between grinding verses and explosive choruses"
+        ],
+        "gearNotes": "The single 22\" Pearl bass drum through a double pedal delivers a heavier, slightly less articulate low end than the dual-kick setups of later albums."
+      },
+      {
+        "track": "Terror and Hubris in the House of Frank Pollard",
+        "bpm": "165",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's most technically demanding tracks",
+          "Fastest sustained double-bass work on the record",
+          "Ghost notes woven into rapid-fire verse patterns"
+        ],
+        "gearNotes": "The Pearl P-2002 chain-drive pedal handles the tempo, though without the immediate snap of the direct-drive pedals Adler adopted years later."
+      },
+      {
+        "track": "The Subtle Arts of Murder and Persuasion",
+        "bpm": "155",
+        "signature": "4/4",
+        "highlights": [
+          "Riff-locked groove philosophy already fully present",
+          "Mixed Zildjian/Sabian cymbal wash gives the track a patchwork top-end texture",
+          "Fills placed economically, serving structure over showmanship"
+        ],
+        "gearNotes": "The mismatched crash cymbals are audible in the varying decay characteristics between hits — a texture unique to this pre-endorsement era."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What was Lamb of God's first album?",
+        "answer": "New American Gospel, released September 26, 2000 through Prosthetic Records, was the first album released under the name Lamb of God. The band had previously self-released a self-titled album in 1999 as Burn the Priest before renaming themselves. New American Gospel is where Chris Adler's documented Lamb of God drumming career begins, opening the arc that runs through As the Palaces Burn (2003), Ashes of the Wake (2004), Sacrament (2006), Wrath (2009), Resolution (2012), and VII: Sturm und Drang (2015)."
+      },
+      {
+        "question": "What drum kit did Chris Adler use on New American Gospel?",
+        "answer": "Chris Adler recorded New American Gospel (2000) on a Pearl Export Series kit — a budget-to-mid-level workhorse kit with no endorsement backing. The setup included a single 22x16 inch bass drum run through a chain-drive double pedal, 12 and 13 inch rack toms, and a single 16 inch floor tom, all in poplar/mahogany hybrid shells. This was years before Adler's Mapex Black Panther Velvetone signature setup, which began with As the Palaces Burn (2003) and matured through Ashes of the Wake (2004)."
+      },
+      {
+        "question": "What cymbals did Chris Adler use on New American Gospel?",
+        "answer": "Chris Adler used a mixed, unsponsored cymbal setup on New American Gospel: Zildjian 14 inch A New Beat hi-hats, Sabian AA Metal-X crashes at 16 and 18 inches, a Zildjian 20 inch A Ride, and an inexpensive, unbranded 18 inch China cymbal. That budget China marks the earliest documented use of the China-cymbal accent technique that later became one of Adler's signature sounds with Zildjian A Custom and Meinl Byzance cymbals."
+      },
+      {
+        "question": "Who produced New American Gospel?",
+        "answer": "New American Gospel was produced by Steve Austin, best known as the frontman of the extreme sludge/noise band Today Is the Day. It was recorded in eight days (April 15-22, 2000) at Austin Enterprises in Clinton, Massachusetts, and mastered at MWorks in Cambridge, Massachusetts. Austin's raw, unpolished production aesthetic gave the album a rougher, more compressed drum sound than any later Lamb of God record produced by Machine (Mark Lewis) or Josh Wilbur."
+      },
+      {
+        "question": "How does New American Gospel compare to Chris Adler's later drum setups?",
+        "answer": "New American Gospel represents Chris Adler's pre-endorsement era: a budget Pearl Export kit, mixed Zildjian/Sabian cymbals, and a single bass drum with a chain-drive double pedal. By As the Palaces Burn (2003), he had upgraded to a professional Mapex Pro M kit and Zildjian A Custom cymbals, and by Ashes of the Wake (2004) he had settled into the Mapex/Meinl Byzance combination and dual bass drum configuration that defined his mature sound through Sacrament (2006), Wrath (2009), and Resolution (2012). The groove-first philosophy and China cymbal accents, however, are already present in embryonic form on New American Gospel."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "as-the-palaces-burn-drum-setup",
+      "sacrament-drum-setup",
+      "wrath-drum-setup",
+      "whats-in-chris-adlers-kit"
+    ],
+    "relatedDrummers": [
+      11,
+      2,
+      15
+    ],
+    "relatedArticles": [
+      "groove-metal-drummers",
+      "best-drum-pedals-for-death-metal",
+      "whats-in-chris-adlers-kit"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Origin of Groove Metal's Most Influential Voice",
+      "content": "New American Gospel doesn't sound like a legendary drummer's debut — it sounds like a hungry, self-taught 27-year-old figuring out how far a budget Pearl kit and a mismatched cymbal setup could carry a band's ambitions. That's exactly what makes it essential. Every technique that would define Chris Adler's career — the riff-locked groove, the China cymbal accents, the restraint that makes explosions hit harder — is already audible here, just not yet refined by better gear or bigger studios.\n\nThe album's raw, Southern-sludge-inflected production, courtesy of Steve Austin's eight-day session at Austin Enterprises, captured a band before any label money or endorsement deal had smoothed out their edges. It's a document of pure intent: groove metal's future architect working with whatever was on hand and making it count.\n\nFor drummers and fans tracing Lamb of God's full arc, New American Gospel is the necessary starting point. Everything from As the Palaces Burn's professional Mapex upgrade to Sacrament's Grammy-nominated DW era to Wrath's arena-scale power began here, on a Pearl Export kit in a Massachusetts studio, in eight days, in the year 2000.\n\nThe [Chris Adler drummer profile](/drummer/chris-adler) covers his full career arc. The [Sacrament drum setup](/articles/sacrament-drum-setup) and [Wrath drum setup](/articles/wrath-drum-setup) articles document how far that sound traveled from these origins.\n\n🤘 *The origin point. The raw beginning. The groove that would define American metal for two decades.* 🤘"
+    },
+    "internalLinks": [
+      {
+        "text": "Chris Adler drummer profile",
+        "url": "/drummer/chris-adler"
+      },
+      {
+        "text": "Sacrament drum setup (2006)",
+        "url": "/articles/sacrament-drum-setup"
+      },
+      {
+        "text": "Wrath drum setup (2009)",
+        "url": "/articles/wrath-drum-setup"
+      },
+      {
+        "text": "As the Palaces Burn drum setup (2003)",
+        "url": "/articles/as-the-palaces-burn-drum-setup"
+      },
+      {
+        "text": "What's In Chris Adler's Kit",
+        "url": "/articles/whats-in-chris-adlers-kit"
+      }
+    ],
+    "sitemapPriority": 0.9,
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "New American Gospel Drum Setup: Chris Adler's 2000 Debut Kit",
+          "description": "Complete breakdown of Chris Adler's drum setup on Lamb of God's 2000 debut New American Gospel — the pre-endorsement Pearl kit, raw groove metal drumming, and the record that launched the New Wave of American Heavy Metal.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-01",
+          "dateModified": "2026-07-01"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://metalforge.io/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Articles",
+              "item": "https://metalforge.io/articles"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Lamb of God 'New American Gospel' Drum Setup",
+              "item": "https://metalforge.io/articles/new-american-gospel-drum-setup"
+            }
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "New American Gospel",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Lamb of God"
+          },
+          "datePublished": "2000-09-26",
+          "genre": "Groove Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Prosthetic Records"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "Black Label" },
+            { "@type": "MusicRecording", "name": "A Warning" },
+            { "@type": "MusicRecording", "name": "In the Absence of the Sacred" },
+            { "@type": "MusicRecording", "name": "Letter to the Unborn" },
+            { "@type": "MusicRecording", "name": "The Black Dahlia" },
+            { "@type": "MusicRecording", "name": "Terror and Hubris in the House of Frank Pollard" },
+            { "@type": "MusicRecording", "name": "The Subtle Arts of Murder and Persuasion" },
+            { "@type": "MusicRecording", "name": "Pariah" },
+            { "@type": "MusicRecording", "name": "Confessional" },
+            { "@type": "MusicRecording", "name": "O.D.H.G.A.B.F.E." },
+            { "@type": "MusicRecording", "name": "Nippon" }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Chris Adler",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Lamb of God"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What was Lamb of God's first album?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "New American Gospel, released September 26, 2000 through Prosthetic Records, was the first album released under the name Lamb of God, opening the arc that runs through Sacrament, Wrath, and beyond."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What drum kit did Chris Adler use on New American Gospel?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Chris Adler used a Pearl Export Series kit with a single 22x16\" bass drum on a chain-drive double pedal, 12\"/13\" rack toms, and a 16\" floor tom — years before his Mapex Black Panther Velvetone signature setup."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals did Chris Adler use on New American Gospel?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Adler used a mixed, unsponsored setup: Zildjian 14\" A New Beat hi-hats, Sabian AA Metal-X crashes (16\"/18\"), a Zildjian 20\" A Ride, and a budget 18\" China — the earliest documented instance of his signature China accent technique."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who produced New American Gospel?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "New American Gospel was produced by Steve Austin of Today Is the Day, recorded in eight days at Austin Enterprises in Clinton, Massachusetts, and mastered at MWorks in Cambridge, Massachusetts."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "llmContent": "# New American Gospel Drum Setup: Chris Adler's 2000 Debut Kit\n\n> Complete breakdown of Chris Adler's drum setup on Lamb of God's 2000 debut New American Gospel — the pre-endorsement Pearl kit, raw groove metal drumming, and the record that launched the New Wave of American Heavy Metal.\n\n**Type:** Album Drum Setup\n**Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)\n**Band / Album:** Lamb of God — *New American Gospel* (2000)\n**Genre:** Groove Metal / New Wave of American Heavy Metal\n**Label:** Prosthetic Records\n**Studio:** Austin Enterprises, Clinton, Massachusetts\n**Producer:** Steve Austin\n**Release Date:** September 26, 2000\n\n## Overview\n\nReleased September 26, 2000 through Prosthetic Records, \"New American Gospel\" is where Lamb of God's discography begins. The Richmond, Virginia band had previously recorded as Burn the Priest, self-releasing a self-titled album in 1999 before adopting the Lamb of God name. New American Gospel was tracked in eight days at Austin Enterprises in Clinton, Massachusetts with producer Steve Austin (Today Is the Day), then mastered at MWorks in Cambridge — a fast, raw session that favored live intensity over studio polish.\n\nBehind the kit, Chris Adler had no endorsement deal yet. He tracked the album on a budget Pearl Export kit and a mixed, unsponsored cymbal setup — a stark contrast to the Mapex Black Panther Velvetone and Meinl Byzance rig that would define his mature sound starting with Ashes of the Wake (2004). Even so, the groove-first philosophy and China cymbal accent technique that became his signature are already audible in embryonic form.\n\nNew American Gospel opens the arc that runs through As the Palaces Burn (2003), Ashes of the Wake (2004), Sacrament (2006), Wrath (2009), Resolution (2012), and VII: Sturm und Drang (2015) — the full documented span of Chris Adler's tenure as Lamb of God's drummer.\n\n## Gear Breakdown\n\n- **Drums:** Pearl Export Series (poplar/mahogany shells, single 22x16\" bass drum, 12\"/13\" rack toms, 16\" floor tom)\n- **Snare:** Pearl Export Steel Snare, 14\" x 5.5\"\n- **Cymbals:** Mixed setup — Zildjian 14\" A New Beat hi-hats, Sabian AA Metal-X crashes (16\"/18\"), Zildjian 20\" A Ride, unbranded 18\" budget China\n- **Pedals:** Pearl P-2002 chain-drive double pedal (single bass drum)\n- **Hardware:** Pearl Export hi-hat stand and throne (stock)\n- **Sticks:** Vic Firth 5A American Classic\n- **Heads:** Remo Powerstroke 3 Clear (kick batter), Remo Ambassador Coated (tom/snare batter)\n\n### The Pearl Export: A Workhorse Kit for a DIY Band\n\nWith no endorsement backing in 2000, Adler's kit was the Pearl Export Series — a budget-to-mid-level workhorse used by countless touring bands at the time. A single 22\" bass drum ran through a chain-drive double pedal rather than the dual-kick configuration Adler adopted starting with As the Palaces Burn (2003). The poplar/mahogany shells produce a darker, more compressed tone than the maple/walnut hybrids of his later Mapex kits — a character that suits the album's murkier, sludge-inflected production.\n\n### Mixed Budget Cymbals and the First China Accent\n\nWithout a cymbal sponsor, Adler assembled a mixed Zildjian/Sabian setup from the entry points of each brand's metal-oriented lines. The most historically significant piece is an inexpensive, unbranded 18\" China cymbal — the earliest documented use of the China-as-accent technique Adler would spend the next two decades refining with Zildjian A Custom and, later, dual Meinl Byzance Chinas.\n\n## Key Facts\n\n- Lamb of God's first album released under that name (previously Burn the Priest, self-titled, 1999)\n- Recorded in 8 days at Austin Enterprises, Clinton, MA with producer Steve Austin (Today Is the Day)\n- Mastered at MWorks, Cambridge, Massachusetts\n- Chris Adler's pre-endorsement era — Pearl Export kit, mixed Zildjian/Sabian cymbals\n- Earliest documented appearance of Adler's signature China cymbal accent technique\n- Single 22\" bass drum with chain-drive double pedal, not yet the dual-kick setup of later albums\n- Opens the arc through As the Palaces Burn (2003), Ashes of the Wake (2004), Sacrament (2006), Wrath (2009), Resolution (2012), VII: Sturm und Drang (2015)\n- Reissued by Metal Blade Records in 2006 with four bonus tracks\n- Estimated kit value: $600-900 (2000 Pearl Export configuration, period pricing)\n\n## Internal Links\n\n- [Chris Adler drummer profile](/drummer/chris-adler)\n- [Sacrament drum setup (2006)](/articles/sacrament-drum-setup)\n- [Wrath drum setup (2009)](/articles/wrath-drum-setup)\n- [As the Palaces Burn drum setup (2003)](/articles/as-the-palaces-burn-drum-setup)\n- [What's In Chris Adler's Kit](/articles/whats-in-chris-adlers-kit)\n\n**Source:** https://metalforge.io/articles/new-american-gospel-drum-setup\n\n**More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)\n\n*Last updated: 2026-07-01 · Source: [MetalForge.io](https://metalforge.io)*"
+  },
   "as-the-palaces-burn-drum-setup": {
     "slug": "as-the-palaces-burn-drum-setup",
     "albumTitle": "As the Palaces Burn",

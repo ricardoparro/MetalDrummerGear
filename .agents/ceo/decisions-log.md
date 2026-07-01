@@ -5,6 +5,35 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-01 05:33 UTC*
 
 ---
+## 2026-07-01 11:00 UTC — L1/L2 verdicts all pre-fixed; promoted 9 proposals to cap (45); closed 3 duplicates
+
+### Context (≤3 lines)
+Deep run. Metrics fresh (11:01 UTC). L1 snapshot (gsc-watch, gen 2026-06-29 09:47) and L2 snapshot (llm-citations #2211, gen 2026-06-29 09:15) both fully checked — every actionable row already has a closed fix shipped after the snapshot generated (#3059, #3282, #3412, #3210, #3280, #3281, plus L2 Kit Overview batches #3140/#3188/#3206 all merged 2026-06-29 19:10-19:34, after the L2 gen time). No new gsc-watch or llm-citations action needed; effects will show in next weekly snapshots. Backlog was 36 (sparingly zone).
+
+### Actions taken
+- **Founder ideas:** inbox empty, nothing to process.
+- **Triaged 20 freshest un-promoted seo-proposals** against `learned-patterns.md` ✅ Promote rubric (delegated read + scoring to subagent, verified duplicate claims myself against live data files).
+- **Promoted 9 to `ai-fix`** (backlog 36→45, exactly at target): #2833 (LoG *VII* — Chris Adler arc), #2813 (Porcupine Tree *In Absentia*+*Deadwing* — Gavin Harrison arc), #2859 (SoundLike batch 28), #2848 (SoundLike batch 27), #2862 (Top-10 batch 19), #2889 (Top-10 batch 20), #2861 (comparison pairs batch 27), #2871 (comparison pairs batch 28, CTR-anchored), #2831 (Top-10 batch 18).
+- **Closed 3 confirmed full duplicates:** #2874 (gear price history — all 3 slugs already live), #2779 (lick pages — all 3 already shipped), #2777 (Amon Amarth Jomsviking — duplicate of pruned #2146).
+- **Flagged 2 partial duplicates, left as `seo-proposal` (not promoted):** #2847 (drop inferno-vs-flo-mounier pair, already live), #2844 (drop Bloodthirst, already live; keep Wretched Spawn).
+- **Atomic-split sweep:** no action — the only stale (>3d, 0-comment) `ai-fix` issues are #1239/#1240/#1241, all correctly `hold`-labeled (parked pending Phase 1&2 validation), not stuck/ambiguous. All other 0-comment issues are <5 days old SEO batches awaiting normal Watcher pickup, not split candidates.
+- **GSC-gap check:** metrics.md flags joey-jordison drum-kit/drum-set cluster (impr ≥50, CTR <2%) — already covered by shipped #3059, awaiting re-index. No new escalation.
+
+### State delta
+- **ai-fix backlog: 36 → 45** (AT TARGET, top of sparingly band)
+- **seo-proposal bank: 57 → 45 pure-unpromoted** (9 promoted out, 3 closed as duplicate; well under the ~60-cap prune threshold, none near 21-day auto-prune)
+- **Open issues closed:** 3 (duplicates)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 20 freshest triaged, 9 promoted, 3 duplicates closed, 2 partial-dupes flagged. ✅ GSC-gap: covered by existing shipped fix, no new issue needed. ✅ Atomic split: swept, no genuine candidates. ✅ Decisions logged.
+
+### Next Run (13:00 UTC)
+1. Watch for the next L1 (gsc-watch) and L2 (llm-citations #2211) weekly refreshes — both are due to reflect the 2026-06-29 evening batch of merges (CTR fixes + Kit Overview batches 4-6); expect wins to log into `learned-patterns.md`.
+2. Backlog at 45 (cap) — hold further promotions until PRs merge and drain it below 45.
+3. Re-scope #2847 and #2844 (partial duplicates) if SEO Agent doesn't naturally supersede them first.
+4. No blockers open requiring re-spam.
+
+---
 ## 2026-06-29 23:30 UTC — 2 proposals HOLD; #3059 CTR fix confirmed shipped (44)
 
 ### Context (≤3 lines)

@@ -4608,6 +4608,146 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['ben koller drum kit', 'converge drummer gear', 'jane doe drums', 'ben koller 2001 setup', 'converge drum kit cost'],
     },
   },
+
+  // ==========================================
+  // SCOTT TRAVIS - 1990 Painkiller Era
+  // Issue #2905: Gear Price History (re-scoped from batch 21)
+  // Tama Artstar II Double-Bass Setup
+  // ==========================================
+  'scott-travis': {
+    slug: 'scott-travis',
+    name: 'Scott Travis',
+    band: 'Judas Priest',
+    iconicYear: 1990,
+    era: 'Painkiller Era',
+    albumReference: 'Painkiller (1990)',
+    profileImage: '/images/drummers/scott-travis.webp',
+
+    summary: "Scott Travis's 1990 Painkiller-era setup marks one of the most consequential gear configurations in metal history. When Travis joined Judas Priest in 1989 — replacing Dave Holland and becoming the first American to ever hold the drum seat in a defining British metal institution — he brought with him the neo-classical shred pedigree of Racer X, the Paul Gilbert-fronted band that had already established him as one of the genre's most technically gifted players. Within months of joining, he was in the studio tracking Painkiller, an album so relentlessly fast that it single-handedly redefined what heavy metal drumming could sound like at the dawn of the 1990s.\n\nThe Painkiller kit centered on a Tama Artstar II — a birch-shelled, double-bass-drum configuration chosen specifically for its aggressive high-frequency attack. Where maple shells favor warmth, birch cuts, and Travis needed every ounce of that cutting power to punch through Judas Priest's dual-guitar wall of K.K. Downing and Glenn Tipton at tempos that bordered on physically unreasonable. The title track's sustained double-kick intro — arguably metal's most iconic drum opening — was produced not by a linked double pedal but by two independently operated Tama Iron Cobra HP900 pedals, a foot-independence approach Travis has carried through every subsequent era of his career. Paired with Paiste Signature and 2002 series cymbals — an endorsement relationship Travis established in May 1987 during his Racer X years and that colored Priest's sound throughout the Painkiller cycle — the complete rig cost approximately $4,200 in 1990 dollars, equivalent to roughly $10,527 in 2026 after CPI adjustment.\n\nWhat makes the Painkiller setup remarkable is how directly the gear served the performance. The Tama Artstar II's die-cast hoops sharpened rim shot clarity for the album's snare-intensive patterns, while the steel 14\"x6.5\" Artstar II snare delivered the crack needed to stay audible through a mix stacked with layered guitars and Rob Halford's operatic screams. Vic Firth 5B hickory sticks — standard issue before Travis's later signature relationships — gave him the heft to drive the kit at extreme tempos without sacrificing control, and Remo Emperor and Ambassador heads rounded out a configuration built entirely around speed, articulation, and durability across a grueling world tour.\n\nTravis carried this same Tama and Paiste rig through Jugulator (1997) before beginning a gradual migration toward Pearl's Reference Series in the 2000s and eventually returning to Tama's maple-shelled Starclassic line for Firepower (2018) and Invincible Shield (2024). But it is the 1990 Artstar II configuration — the kit that produced the Painkiller title track's machine-gun assault — that remains the most searched, most cited, and most historically significant setup of his 35-plus year tenure with Judas Priest. A $4,200 investment in 1990 now represents roughly $10,527 in 2026 purchasing power, tracking the broader appreciation of vintage professional drum equipment from metal's speed-metal golden age.",
+
+    setup: {
+      drums: {
+        item: 'Tama Artstar II',
+        model: '7-piece double-bass shell pack',
+        specs: 'Birch shells, Piano Black finish; double 22"x16" bass drums, 10"x9"/12"x10"/13"x11" rack toms, 14"x14"/16"x16" floor toms',
+        originalPrice: 2300,
+        year: 1990,
+        source: 'Tama Artstar II professional catalog MSRP 1990, Modern Drummer archive estimates',
+        notes: 'Birch shells were chosen for their high-frequency attack — critical for cutting through Judas Priest\'s dual-guitar arrangements at Painkiller\'s extreme tempos. The double bass drum configuration (two independently pedaled kicks rather than a linked double pedal) became a career-long signature.',
+        vintageValue2026: 3200,
+        modernEquivalent: {
+          item: 'Tama Starclassic Maple',
+          price: 5200,
+          link: 'tama-starclassic-maple',
+        },
+      },
+      snare: {
+        item: 'Tama Artstar II Steel 14"x6.5"',
+        model: 'Steel shell snare',
+        specs: '14"x6.5" seamless steel shell, 8-lug, die-cast hoops',
+        originalPrice: 220,
+        year: 1990,
+        source: 'Tama snare catalog pricing 1990',
+        notes: 'The die-cast hoops sharpened rim shot definition for Painkiller\'s snare-intensive patterns, giving Travis the crack needed to stay present in a dense, guitar-heavy mix.',
+        vintageValue2026: 380,
+        modernEquivalent: {
+          item: 'Tama Starphonic Brass 14"x6"',
+          price: 550,
+          link: 'tama-starphonic-brass',
+        },
+      },
+      cymbals: {
+        item: 'Paiste Signature / 2002 Series',
+        model: 'Mixed Signature and 2002 configuration',
+        specs: '14" Signature Hi-Hats, 16" and 18" 2002 Crashes, 20" Signature Ride, 18" 2002 China',
+        originalPrice: 950,
+        year: 1990,
+        source: 'Paiste professional pricing 1990, Paiste artist archive',
+        notes: 'Travis established his Paiste endorsement in May 1987 during his Racer X years — a relationship he maintained throughout the Painkiller cycle. Vintage Paiste 2002 cymbals from this era are now highly sought after by collectors for their bright, cutting overtone character.',
+        vintageValue2026: 1400,
+        modernEquivalent: {
+          item: 'Paiste Signature Reflector Set',
+          price: 1800,
+          link: 'paiste-signature-reflector',
+        },
+      },
+      hardware: {
+        item: 'Tama Iron Cobra HP900 (x2) + Tama Hardware',
+        model: 'Two independent bass drum pedals, hi-hat stand, boom stands, throne',
+        specs: 'Two Tama Iron Cobra HP900 single pedals, Iron Cobra hi-hat stand, 5 boom cymbal stands, Tama 1st Chair throne',
+        originalPrice: 650,
+        year: 1990,
+        source: 'Tama hardware catalog 1990',
+        notes: 'Travis ran two independently pedaled bass drums rather than a linked double pedal — a foot-independence approach that produced Painkiller\'s machine-gun double-kick intro and that he has kept for his entire career.',
+        vintageValue2026: 450,
+        modernEquivalent: {
+          item: 'Tama Speed Cobra HP910LSW (x2)',
+          price: 900,
+          link: 'tama-speed-cobra-hp910',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B Hickory',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip, .595" diameter',
+        originalPrice: 8,
+        year: 1990,
+        source: 'Standard retail price',
+        notes: 'Standard 5B sticks established from Travis\'s first sessions with Priest, before his later Vater signature relationship.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B',
+          price: 14,
+          link: 'vic-firth-american-classic-5b',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor Coated / Ambassador',
+        model: 'Emperor Coated (toms), Ambassador Snare Side (resonant), Powerstroke P3 (kick)',
+        specs: 'Coated Emperor toms, Ambassador snare side resonant, Powerstroke P3 kick batter',
+        originalPrice: 72,
+        year: 1990,
+        source: 'Remo professional pricing 1990',
+        notes: 'Standard Remo configuration chosen for touring durability and focused attack across Painkiller\'s grueling world tour schedule.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor Pro Pack',
+          price: 95,
+          link: 'remo-emperor-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 4200,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 5430,
+      modernEquivalentTotal: 8559,
+    },
+
+    priceEvolution: [
+      { year: 1990, price: 4200, label: 'Original Purchase', event: 'Painkiller recording and world tour' },
+      { year: 1997, price: 4800, label: 'Jugulator era', event: 'Tim "Ripper" Owens era; same Tama/Paiste rig continues' },
+      { year: 2005, price: 6200, label: 'Angel of Retribution era', event: 'Rob Halford reunion drives Priest nostalgia market' },
+      { year: 2010, price: 7800, label: 'Collector interest grows', event: 'Vintage Tama Artstar II and Paiste 2002 gain collector status' },
+      { year: 2018, price: 9200, label: 'Firepower era', event: 'Travis returns to Tama, boosting vintage Artstar II demand' },
+      { year: 2022, price: 10100, label: 'Post-pandemic premium', event: 'Home studio demand for vintage speed-metal gear' },
+      { year: 2026, price: 10527, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Tama Artstar II Professional Catalog', year: 1990, type: 'catalog' },
+      { title: 'Modern Drummer — Scott Travis Interview', year: 1991, type: 'interview' },
+      { title: 'Paiste Artist Profiles — Travis Signature Era', year: 1990, type: 'manufacturer' },
+      { title: 'Reverb Price Guide — Vintage Tama Artstar II / Paiste 2002', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Scott Travis 1990 Judas Priest Drum Setup Cost | Painkiller Era Gear Prices",
+      description: "How much did Scott Travis's 1990 Painkiller-era drum kit cost? Original ~$4,200, inflation-adjusted to ~$10,527 today. Complete Tama Artstar II breakdown from Judas Priest's speed metal landmark.",
+      keywords: ['scott travis drum kit', 'judas priest drummer gear history', 'painkiller drums cost', 'scott travis 1990 setup', 'judas priest drum kit cost'],
+    },
+  },
 };
 
 // ==========================================

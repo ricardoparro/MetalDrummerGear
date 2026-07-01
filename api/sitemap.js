@@ -240,6 +240,10 @@ const soundLikeGuides = [
   { slug: 'how-to-sound-like-frost', name: 'How to Sound Like Frost' },
   { slug: 'how-to-sound-like-morgan-agren', name: 'How to Sound Like Morgan Ågren' },
   { slug: 'how-to-sound-like-tim-yeung', name: 'How to Sound Like Tim Yeung' },
+  // Issue #2848: SEO batch 27 — Bill Ward, Martin Lopez, Derek Roddy
+  { slug: 'how-to-sound-like-bill-ward', name: 'How to Sound Like Bill Ward' },
+  { slug: 'how-to-sound-like-martin-lopez', name: 'How to Sound Like Martin Lopez' },
+  { slug: 'how-to-sound-like-derek-roddy', name: 'How to Sound Like Derek Roddy' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

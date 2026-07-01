@@ -63,7 +63,8 @@ const drummers = [
   { id: 25, name: 'Alex Bent' }, { id: 26, name: 'Shannon Larkin' }, { id: 27, name: 'Raymond Herrera' },
   { id: 28, name: 'Morgan Ågren' }, { id: 29, name: 'Igor Cavalera' }, { id: 30, name: 'Bill Ward' },
   { id: 31, name: 'Nick Augusto' }, { id: 32, name: 'Matt Greiner' }, { id: 33, name: 'Blake Richardson' },
-  { id: 34, name: 'Ben Koller' }, { id: 35, name: 'Flo Mounier' }, { id: 37, name: 'Jason Bittner' },
+  { id: 34, name: 'Ben Koller' }, { id: 35, name: 'Flo Mounier' }, { id: 36, name: 'Sean Reinert' },
+  { id: 37, name: 'Jason Bittner' },
   { id: 38, name: 'Martin Lopez' }, { id: 39, name: 'Travis Orbin' }, { id: 40, name: 'Chris Turner' },
   { id: 41, name: 'Nicko McBrain' }, { id: 42, name: 'Scott Travis' }, { id: 43, name: 'Mikkey Dee' },
   { id: 44, name: 'Derek Roddy' }, { id: 45, name: 'Dirk Verbeuren' }, { id: 46, name: 'Frost' },
@@ -763,12 +764,13 @@ export function buildSitemapXml() {
     // Issue #1795: high-value drummer comparison LLM files not in drummerComparisons data.
     // Hardcoded to match the 8 files shipped in public/llms/vs/ by this issue.
     // Issue #2101: 3 additional pairs added (art-cruz-vs-chris-adler, aquiles-priester-vs-jaska-raatikainen, matt-garstka-vs-mike-mangini).
+    // Issue #2389: lars-ulrich-vs-charlie-benante removed — now sourced from drummerComparisons
+    // data above (curated entry added), avoiding a duplicate sitemap entry.
     ...([
       'tomas-haake-vs-george-kollias',
       'brann-dailor-vs-danny-carey',
       'pete-sandoval-vs-flo-mounier',
       'mike-portnoy-vs-mike-mangini',
-      'lars-ulrich-vs-charlie-benante',
       'vinnie-paul-vs-dave-lombardo',
       'travis-orbin-vs-matt-halpern',
       'pete-sandoval-vs-george-kollias',

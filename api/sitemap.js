@@ -244,6 +244,10 @@ const soundLikeGuides = [
   { slug: 'how-to-sound-like-bill-ward', name: 'How to Sound Like Bill Ward' },
   { slug: 'how-to-sound-like-martin-lopez', name: 'How to Sound Like Martin Lopez' },
   { slug: 'how-to-sound-like-derek-roddy', name: 'How to Sound Like Derek Roddy' },
+  // Issue #2859: SEO batch 28 — John Otto, Dirk Verbeuren, Art Cruz
+  { slug: 'how-to-sound-like-john-otto', name: 'How to Sound Like John Otto' },
+  { slug: 'how-to-sound-like-dirk-verbeuren', name: 'How to Sound Like Dirk Verbeuren' },
+  { slug: 'how-to-sound-like-art-cruz', name: 'How to Sound Like Art Cruz' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

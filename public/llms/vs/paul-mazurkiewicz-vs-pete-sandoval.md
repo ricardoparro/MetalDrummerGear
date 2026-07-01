@@ -86,4 +86,4 @@ A: Paul Mazurkiewicz's performances on Cannibal Corpse's "The Bleeding" (1994) a
 
 ---
 
-*Last updated: 2026-06-24 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-01 · Source: [MetalForge.io](https://metalforge.io)*

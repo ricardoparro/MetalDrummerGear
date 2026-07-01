@@ -10,19 +10,19 @@ Satyricon's Frost vs Mayhem's Hellhammer. Two pillars of Norwegian black metal d
 
 ## Frost Setup
 
-- **Drums:** Pearl Reference Pure (22" bass drum, 10", 12", 14", 16" toms)
-- **Cymbals:** Paiste Giant Beat and 2002 Series (14" hi-hats, 16" & 18" crashes, 20" ride, 18" china)
-- **Snare:** Pearl Free-Floating Steel 14x6.5"
-- **Pedals/Hardware:** Pearl Demon Drive double pedal, Pearl Gyro-Lock tom arms
-- **Sticks:** Vic Firth 5B
+- **Drums:** Sonor SQ2 Series
+- **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)
+- **Snare:** Sonor SQ2 14x6" Maple
+- **Pedals/Hardware:** Sonor Perfect Balance Pedal, Sonor Hardware
+- **Sticks:** Vic Firth American Classic Extreme 5B
 
 ## Hellhammer Setup
 
-- **Drums:** Pearl Reference Series (22" bass drum, 10", 12", 14", 16" toms)
-- **Cymbals:** Paiste Signature and 2002 Series (14" hi-hats, 16" & 18" crashes, 20" ride, 18" china)
-- **Snare:** Pearl Sensitone 14x5.5" Steel
-- **Pedals/Hardware:** Pearl Demon Drive double pedal, Pearl hardware rack
-- **Sticks:** Vic Firth 5B
+- **Drums:** Sonor SQ2 Heavy Beech
+- **Cymbals:** Paiste RUDE Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)
+- **Snare:** Sonor SQ2 14x5.5" Maple
+- **Pedals/Hardware:** Axis double pedal, Sonor Drummer Throne
+- **Sticks:** Vic Firth American Classic 5B
 
 ## Playing Style
 
@@ -40,7 +40,7 @@ Hellhammer pioneered the classic black metal one-foot blast beat approach — a 
 
 Frost is the more technically sophisticated drummer — his precision blast beats and endurance-focused technique are a clinic in controlled extremity. Hellhammer is the more historically significant — as one of the architects of Norwegian black metal's sound, his raw approach set the template every black metal drummer since has either followed or reacted against.
 
-Both share Pearl and Paiste endorsements, reflecting the Norwegian black metal scene's long-established preference for Pearl's powerful projection and Paiste's dark, cold tonal character.
+Both share a Sonor drum shell endorsement, but diverge on cymbals — Frost's Zildjian A Custom & K Series delivers controlled, articulate attack, while Hellhammer's Paiste RUDE Series delivers a rawer, more aggressive tonal character.
 
 ## Influence & Legacy
 
@@ -58,7 +58,7 @@ Frost and Hellhammer represent two philosophical approaches to Norwegian black m
 A: Both are legends of Norwegian black metal in different ways. Frost (Satyricon) is celebrated for technical precision and controlled blast beat mastery. Hellhammer (Mayhem) is celebrated for raw, primitive power and is one of the most recorded drummers in metal history. Style preference determines the winner — see the full comparison at [metalforge.io/vs/frost-vs-hellhammer](https://metalforge.io/vs/frost-vs-hellhammer).
 
 **Q: What gear does Frost use vs Hellhammer?**
-A: Frost plays Pearl Reference Pure drums with Paiste Giant Beat and 2002 Series cymbals and a Pearl Demon Drive double pedal. Hellhammer plays Pearl Reference Series drums with Paiste Signature and 2002 cymbals. Both share Pearl and Paiste endorsements, a hallmark of the Norwegian black metal scene.
+A: Frost plays a Sonor SQ2 Series kit with Zildjian A Custom & K Series cymbals and a Sonor Perfect Balance pedal. Hellhammer plays a Sonor SQ2 Heavy Beech kit with Paiste RUDE Series cymbals and an Axis double pedal. Both share a Sonor shell endorsement while using different cymbal brands.
 
 **Q: What bands are Frost and Hellhammer known for?**
 A: Frost is best known as the drummer for Satyricon, one of Norway's most celebrated and enduring black metal bands. Hellhammer (Jan Axel Blomberg) is best known as the drummer for Mayhem and has contributed to hundreds of recordings, including Winds, Arcturus, Kovenant, and Dimmu Borgir.
@@ -77,4 +77,4 @@ A: Frost uses a single-stroke blast beat technique emphasizing precision and end
 
 ---
 
-*Last updated: 2026-06-27 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-01 · Source: [MetalForge.io](https://metalforge.io)*

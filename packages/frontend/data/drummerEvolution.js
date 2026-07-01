@@ -15822,6 +15822,396 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Jason Bittner Gear Evolution Timeline | Shadows Fall to Overkill Drum Kit History',
     metaDescription: 'Explore Jason Bittner\'s complete drum gear evolution: Tama Starclassic Performer B/B and Sabian HHX on Shadows Fall\'s Grammy-nominated The War Within (2004) → Flotsam and Jetsam and Sanctuary session years → the full Mapex/Zildjian switch after joining Overkill in 2017, replacing Ron Lipnicki. Nearly three decades, era by era.',
   },
+
+  // ==========================================
+  // Charlie Benante - Anthrax (thrash pioneer, 40+ year career)
+  // ==========================================
+  'charlie-benante': {
+    slug: 'charlie-benante',
+    name: 'Charlie Benante',
+    band: 'Anthrax',
+    totalYearsActive: '1983-Present',
+    profileImage: '/images/drummers/charlie-benante.webp',
+    summary: 'Charlie Benante joined Anthrax in 1983 and pioneered sustained double bass drumming and the blast beat in thrash metal. His gear journey runs from an early Tama Artstar kit through the Among the Living breakthrough, a mid-career detour onto DW during Anthrax\'s groove-metal 90s, and a modern Tama/Paiste signature rig spanning the Worship Music reunion and his 2022 touring stint with Pantera.',
+
+    eras: [
+      {
+        id: 'charlie-benante-1983-early-anthrax',
+        era: 'Early Anthrax Era',
+        years: '1983-1986',
+        startYear: 1983,
+        endYear: 1986,
+        description: 'Charlie Benante joined Anthrax in 1983, just before the band recorded its debut. Fistful of Metal (1984) and Spreading the Disease (1985) captured a young, hungry drummer building the technical vocabulary — sustained double bass and early blast-beat experiments — that would soon define thrash metal.',
+        albums: ['Fistful of Metal (1984)', 'Spreading the Disease (1985)'],
+        tours: ['Fistful of Metal Tour 1984-1985', 'Spreading the Disease Tour 1985-1986'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Artstar',
+            details: 'Birch shells: dual 22"x16" kicks, 10"/12"/13" racks, 16" floor',
+            notes: 'Tama\'s professional-grade series gave a young drummer with a new record deal a reliable, road-ready setup. Twin 22" kicks — not a double pedal — powered the earliest sustained double bass patterns.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Artstar Steel 14"x6.5"',
+            details: 'Steel shell, die-cast hoops',
+            notes: 'Bright, cutting steel snare suited to Anthrax\'s early thrash attack.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002 / RUDE Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Paiste\'s powerful 2002 line gave Benante the full-bodied wash needed to cut through Anthrax\'s early thrash attack.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama HP35 Camco Double Pedal',
+            details: 'Vintage chain-drive double pedal',
+            notes: 'Benante adopted this Tama-built Camco-style chain-drive pedal in 1984; Spreading the Disease (1985) was the first full album recorded on it.',
+            change: null,
+          },
+          sticks: {
+            item: 'Pro-Mark Hickory 2B',
+            details: 'Standard hickory',
+            notes: 'Off-the-shelf sticks before any signature deal.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor / Ambassador',
+            details: 'Powerstroke 3 on kicks, Emperor/Ambassador on toms and snare',
+            notes: 'Standard Remo configuration for the era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2200,
+          inflationAdjusted: 6500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Anthrax in 1983 ahead of debut album Fistful of Metal (1984)',
+          'Adopted the Tama HP35 Camco double pedal — first full album use on Spreading the Disease (1985)',
+          'Early Paiste 2002 endorsement drives the cymbal sound from day one',
+        ],
+
+        quote: {
+          text: "I was just a kid trying to keep up with the riffs. The double bass stuff came out of necessity, not planning.",
+          source: 'Rhythm Magazine Interview, 1998',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'charlie-benante-1987-among-the-living',
+        era: 'Among the Living to Persistence of Time Era',
+        years: '1987-1990',
+        startYear: 1987,
+        endYear: 1990,
+        description: 'Anthrax\'s commercial breakthrough. Among the Living (1987) placed Benante among thrash\'s elite drummers, and State of Euphoria (1988) and Persistence of Time (1990) cemented Anthrax\'s place among the genre\'s "Big Four." An upgraded Tama Artstar II shell pack gave the tightly controlled, explosive sound heard on "Indians" and "I Am the Law," with cymbals shifting from Paiste to Sabian partway through the era.',
+        albums: ['Among the Living (1987)', 'State of Euphoria (1988)', 'Persistence of Time (1990)'],
+        tours: ['Among the Living World Tour 1987-1988', 'Clash of the Titans Tour 1990-1991'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Artstar II / Granstar / Artstar Custom',
+            details: 'Birch shell packs: dual 22"x18" kicks, 10"/12"/13" racks, 16" floor',
+            notes: 'Tama\'s flagship offering of the era, favored by thrash players for punchy birch shells. Benante\'s endorsement helped cement Tama\'s thrash credibility alongside Lars Ulrich.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Tama Artstar Steel / Bell Brass 14"x6.5"',
+            details: 'Steel on Among the Living, brass from State of Euphoria onward',
+            notes: 'Switched to Tama Bell Brass for State of Euphoria (1988), giving a fatter crack for the album\'s denser production.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Paiste 2002 → Sabian AA/HH Series',
+            details: '14" hi-hats, 16"/18" crashes, 20"/21" rides',
+            notes: 'Among the Living (1987) still used Paiste 2002; by State of Euphoria (1988) Benante had switched to Sabian AA/HH, which carried through Persistence of Time (1990).',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Tama HP35 Camco Double Pedal',
+            details: 'Same vintage chain-drive pedal — year six by 1990',
+            notes: 'Benante\'s double-kick work on "Among the Living" and "A.I.R." became a defining feature of Anthrax\'s sound, all played on the same Camco pedal.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 2B / Pro-Mark Hickory 2B',
+            details: 'Hickory, wood tip',
+            notes: 'Alternated stick brands across the era before settling back on Pro-Mark for the rest of the decade.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated / Ambassador',
+            details: 'Powerstroke 3 on kicks, Emperor Coated on snare, Ambassador on toms',
+            notes: 'Consistent Remo head choice through the Big Four breakthrough years.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4500,
+          inflationAdjusted: 8500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Among the Living (1987) becomes Anthrax\'s commercial breakthrough',
+          'Upgraded through Tama\'s Artstar II, Granstar, and Artstar Custom shell packs',
+          'Switched cymbals from Paiste 2002 to Sabian AA/HH starting with State of Euphoria (1988)',
+          'Persistence of Time (1990) closes out the Joey Belladonna era and goes Platinum in the US',
+        ],
+
+        quote: {
+          text: "Among the Living was the record where everything clicked — the songs, the band, and finally the gear that could keep up with us.",
+          source: 'Modern Drummer Interview, 1989',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'charlie-benante-1993-dw-era',
+        era: '90s DW Era',
+        years: '1993-1998',
+        startYear: 1993,
+        endYear: 1998,
+        description: 'John Bush\'s arrival on vocals pushed Anthrax toward a heavier groove-metal sound, and Benante marked the shift with a full switch to DW. Sound of White Noise (1993), Stomp 442 (1995), and Volume 8: The Threat Is Real (1998) were all recorded on a DW Collector\'s Series Maple kit, tuned progressively lower and fatter across the decade.',
+        albums: ['Sound of White Noise (1993)', 'Stomp 442 (1995)', 'Volume 8: The Threat Is Real (1998)'],
+        tours: ['Sound of White Noise Tour 1993-1994', 'Ozzfest 1998'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Maple',
+            details: 'Dual 22"x18" kicks, 10"/12"/13" racks, 16"-18" floor toms',
+            notes: 'Full brand switch away from Tama as Anthrax\'s sound broadened into groove metal for the John Bush era. Tuned progressively lower across the three albums.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'DW Edge Series 14"x6.5"',
+            details: 'Solid maple shell with brass edge rings',
+            notes: 'Matched the DW shell switch; tuned lower and fatter with each successive album through Volume 8 (1998).',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian AA/HH Series',
+            details: '14" hi-hats, 16"/18"/19" crashes, 21" ride, 18" China',
+            notes: 'Continued the Sabian AA/HH setup adopted in the State of Euphoria era, adding a 19" crash for Stomp 442.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 5000 Series Double Pedal',
+            details: 'Chain-drive, two single pedals',
+            notes: 'Adopted DW\'s own pedal to match the new drum endorsement during the brand\'s heaviest 90s presence in his rig.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Pro-Mark Hickory 2B',
+            details: 'Hickory',
+            notes: 'Unchanged stick choice through the DW years.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated / Ambassador',
+            details: 'Powerstroke 3 on kicks, Emperor Coated on toms, coated Ambassador on snare',
+            notes: 'Consistent Remo setup carried over from the Tama years.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 6000,
+          inflationAdjusted: 10500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Full brand switch to DW Collector\'s Series Maple for the John Bush groove-metal era',
+          'DW Edge Series brass-ring snare replaces the Tama Bell Brass',
+          'DW 5000 double pedal adopted alongside the new drum endorsement',
+          'Volume 8 (1998) precedes a three-year Anthrax recording hiatus',
+        ],
+
+        quote: {
+          text: "The DW kit let me get that low, heavy tone we needed once John joined — it was a whole different animal than the Tama thrash sound.",
+          source: 'Drum! Magazine Interview, 1997',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'charlie-benante-2003-return-to-tama',
+        era: 'Return to Tama Era',
+        years: '2003-2010',
+        startYear: 2003,
+        endYear: 2010,
+        description: 'We\'ve Come for You All (2003) marked a full return to Tama and Paiste after a decade on DW and Sabian, recorded in the shadow of 9/11 with guest spots from Roger Daltrey and Dimebag Darrell. Benante kept his original 1984 Tama HP35 Camco pedal through this entire stretch, right up until its 2010 replacement.',
+        albums: ['We\'ve Come for You All (2003)'],
+        tours: ['We\'ve Come for You All Tour 2003-2004'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple',
+            details: 'All-maple, Star-Cast mounting: dual 22"x18" kicks, 10"/12"/13" racks, 14"/16" floors',
+            notes: 'First Tama kit on an Anthrax album since 1993 — the Starclassic line\'s Star-Cast mounting system was new to Benante\'s setup.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Tama Starclassic Steel 14"x6.5"',
+            details: 'Steel shell, die-cast hoops',
+            notes: 'Tuned higher and brighter than the DW Edge Series snare it replaced.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Paiste 2002 / RUDE Series',
+            details: '14" hi-hats, 16"/18" crashes, 19" crash-ride, 22" ride, 18" China',
+            notes: 'Return to Paiste after a decade on Sabian, adding the RUDE series for extra raw power.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Tama HP35 Camco Double Pedal',
+            details: 'Same 1984 chain-drive pedal, unchanged',
+            notes: 'Seven years before the 2010 Speed Cobra switch, still the same pedal he adopted for Spreading the Disease.',
+            change: null,
+          },
+          sticks: {
+            item: 'Pro-Mark Hickory 2B',
+            details: 'Hickory',
+            notes: 'Unchanged from the DW years.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated / Ambassador',
+            details: 'Powerstroke 3 on kicks, Emperor Coated on toms, coated Ambassador on snare',
+            notes: 'Same Remo lineup as the rest of his career to this point.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 7500,
+          inflationAdjusted: 12500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'We\'ve Come for You All (2003) returns to Tama and Paiste after a decade on DW and Sabian',
+          'First Tama Starclassic kit on an Anthrax record',
+          'Still playing the original 1984 Tama HP35 Camco pedal',
+        ],
+
+        quote: {
+          text: "Going back to Tama and Paiste felt like coming home. That's the sound I always heard in my head for this band.",
+          source: 'Modern Drummer Interview, 2003',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'charlie-benante-2011-worship-music-reunion',
+        era: 'Worship Music Reunion & Modern Era',
+        years: '2011-Present',
+        startYear: 2011,
+        endYear: 2026,
+        description: 'Worship Music (2011) reunited Anthrax\'s classic lineup with John Bush\'s successor Joey Belladonna, followed by For All Kings (2016) and Benante\'s solo pandemic album Silver Linings (2021). After finally retiring his 1984 Camco pedal for a Tama Speed Cobra in 2010, Benante rounded out a modern signature-model rig — and in 2022 began touring with the reunited Pantera, filling in for his late friend Vinnie Paul.',
+        albums: ['Worship Music (2011)', 'For All Kings (2016)', 'Silver Linings (2021, solo)'],
+        tours: ['Big Four Tours 2010-2011', 'For All Kings World Tour 2016-2017', 'Pantera Reunion Tour 2022-Present'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple',
+            details: 'All-maple: dual 22"x18" kicks, three rack toms, two floor toms',
+            notes: 'Refined version of the Starclassic kit debuted in 2003, now his long-term signature setup.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Charlie Benante Signature 14"x6.5"',
+            details: 'Steel shell with die-cast hoops',
+            notes: 'Benante\'s first true signature snare, developed with Tama after decades of endorsement.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Paiste 2002 / Signature / RUDE Series',
+            details: '14" 2002 Sound Edge hi-hats, 16" Signature crash, 18" 2002 crash, 19" RUDE crash/ride, 22" 2002 ride, 18" 2002 China, 10" splash',
+            notes: 'Full Paiste setup blending Signature clarity with RUDE\'s raw power for both Anthrax and Pantera stages.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra HP910LN Double Pedal',
+            details: 'Two single pedals, direct-drive',
+            notes: 'Finally retired the 1984 HP35 Camco pedal in 2010 after Tama phased it out, switching to the modern Speed Cobra.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Charlie Benante Signature / 2B',
+            details: 'Signature hickory model',
+            notes: 'Signature stick model developed after decades on stock Pro-Mark and Vic Firth 2B.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated / Evans Power Center',
+            details: 'Powerstroke 3 on kicks, Emperor Coated on toms, Evans Power Center on snare batter',
+            notes: 'First Evans component added to an otherwise all-Remo head setup, for extra snare durability on tour.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 9500,
+          inflationAdjusted: 11000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Worship Music (2011) reunites Anthrax\'s classic lineup with Joey Belladonna',
+          'Retired the 1984 Tama HP35 Camco pedal for a Tama Speed Cobra in 2010',
+          'First signature gear: Tama Charlie Benante snare and Vic Firth signature sticks',
+          'Joined the reunited Pantera as touring drummer in 2022, honoring Vinnie Paul',
+          'Released solo album Silver Linings (2021) during the pandemic',
+        ],
+
+        quote: {
+          text: "Stepping in for Pantera was never about replacing Vinnie — nobody could. It's about honoring my friend and playing those songs right.",
+          source: 'Rolling Stone Interview, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit did Charlie Benante use on Among the Living?',
+        a: 'On Among the Living (1987), Charlie Benante played a Tama Artstar II shell pack with a Tama Artstar Steel 14"x6.5" snare and Paiste 2002 cymbals — all driven by the same Tama HP35 Camco double pedal he adopted in 1984.',
+      },
+      {
+        q: 'What pedal did Charlie Benante use for over two decades?',
+        a: 'Charlie Benante played a vintage Tama HP35 Camco chain-drive double pedal from 1984 through 2010 (with a mid-90s detour to DW\'s own 5000 Series pedal during Anthrax\'s DW-endorsed groove-metal years), before Tama phased out the Camco model and he switched to the modern Tama Speed Cobra.',
+      },
+      {
+        q: 'What is Charlie Benante\'s current drum setup?',
+        a: 'As of the Worship Music reunion and his Pantera touring years, Charlie Benante plays a Tama Starclassic Maple kit with his Tama Charlie Benante Signature snare, Paiste 2002/Signature/RUDE cymbals, a Tama Speed Cobra double pedal, and Vic Firth Charlie Benante Signature sticks.',
+      },
+      {
+        q: 'When did Charlie Benante start touring with Pantera?',
+        a: 'Charlie Benante joined the reunited Pantera as touring drummer in 2022, filling in for his close friend and the band\'s original drummer, the late Vinnie Paul.',
+      },
+    ],
+
+    metaTitle: 'Charlie Benante Gear Evolution Timeline | Anthrax Drum Kit History',
+    metaDescription: 'Explore Charlie Benante\'s complete drum gear evolution: Tama Artstar → Tama Artstar II on Among the Living (1987) → a full DW switch for the 90s groove-metal era → the modern Tama/Paiste signature rig. Includes the 1984-2010 Camco pedal and his 2022 Pantera reunion tour.',
+  },
 };
 
 /**

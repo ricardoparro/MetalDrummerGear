@@ -3753,6 +3753,241 @@ export const articles = {
       "title": "Ride the Lightning: Where Metallica Found Their Full Range",
       "content": "Ride the Lightning is the document of a band discovering what it could do beyond pure aggression. The drum setup story — Tama Artstar II birch shells, Ludwig Supraphonic snare, unified Zildjian A cymbals, single pedal driving double-bass ideas — reflects a drummer making confident choices with professional equipment for the first time.\n\n**Why This Album Matters Technically:**\n\"For Whom the Bell Tolls\" is the most instructive track for drummers: the driving kick at 100 BPM demonstrates that double-bass ideas don't require double-bass hardware — they require single-pedal mastery and musical intention. \"Fight Fire with Fire\" demonstrates 16th-note hi-hat endurance at 220 BPM with the Artstar II's birch shells cutting through the guitars with more clarity than the Kill 'Em All mahogany ever could. \"Fade to Black\" demonstrates the full dynamic range of the Zildjian A setup from near silence to full-power crash.\n\n**For Drummers Studying the Metallica Arc:**\nRide the Lightning is the essential middle chapter in the Kill 'Em All → RTL → Master of Puppets progression. The gear improved substantially from the debut, and the drumming expanded in range and technical sophistication to match. But the fundamental philosophy — compact kit, single bass drum, focused sound — remained constant. See the [Kill 'Em All drum setup](/articles/kill-em-all-drum-setup) for the before and the [Master of Puppets drum setup](/articles/master-of-puppets-drum-setup) for the immediate after.\n\nFor the continued gear evolution through the Justice era and beyond, see the [...And Justice for All drum setup](/articles/and-justice-for-all-drum-setup) and the [Black Album drum setup](/articles/black-album-drum-setup). The full career context lives at the [Lars Ulrich drummer profile](/drummer/lars-ulrich).\n\n🥁 *Tama Artstar II, Sweet Silence Studios, 1984 — where Metallica found its full range.* 🥁"
     }
+  },
+  "72-seasons-drum-setup": {
+    "slug": "72-seasons-drum-setup",
+    "albumTitle": "72 Seasons",
+    "artist": "Metallica",
+    "drummer": "Lars Ulrich",
+    "drummerId": 1,
+    "relatedDrummerSlug": "lars-ulrich",
+    "year": 2023,
+    "genre": "Heavy Metal / Thrash Metal",
+    "label": "Blackened Recordings",
+    "studio": "HQ, San Rafael, CA",
+    "producer": "Greg Fidelman with James Hetfield & Lars Ulrich",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Lars Ulrich's Drum Setup on Metallica's 72 Seasons (2023)",
+    "description": "Full gear breakdown for Metallica's 72 Seasons (2023) — Lars Ulrich's Tama Starclassic Maple kit, signature Tama snare, Zildjian A Custom cymbals, and why this is his last studio album before Eloy Casagrande joined as live drummer.",
+    "seoKeywords": [
+      "metallica 72 seasons drummer",
+      "lars ulrich 2023 drum setup",
+      "72 seasons drum setup",
+      "lars ulrich tama starclassic maple",
+      "metallica last album before eloy",
+      "lars ulrich last studio album",
+      "72 seasons drum sound",
+      "lars ulrich signature snare"
+    ],
+    "ogImage": "/images/albums/72-seasons-drums.webp",
+    "intro": {
+      "title": "Closing the Loop: Metallica's Return to Thrash Roots",
+      "content": "Released on April 14, 2023, \"72 Seasons\" is Metallica's eleventh studio album and, to date, the band's most recent full-length recording. The title refers to the first 18 years of a person's life — \"72 seasons\" — and the formative experiences that shape an adult's entire outlook. Musically, the album leaned back into the sustained aggression and extended song structures of the band's thrash-era catalog, with tracks like the title cut and \"Room of Mirrors\" built around galloping, high-tempo patterns that recall the \"...And Justice for All\" era more than anything Metallica had released since.\n\n72 Seasons debuted at number one in more than 30 countries and reached number two on the Billboard 200 in the United States, underscoring Metallica's continued standing as the most commercially dominant band in metal decades into its career. Produced by longtime collaborator Greg Fidelman at Metallica's own HQ studio in San Rafael, California, the album was tracked between March 2021 and November 2022 — sessions that took place almost entirely during and immediately after the band's pandemic-era hiatus from touring.\n\nFor Lars Ulrich, 72 Seasons carries a significance that only became clear after the fact: it is his most recent studio recording with Metallica. In October 2023, months after the album's release, Brazilian drummer Eloy Casagrande — formerly of Sepultura — joined Metallica's M72 World Tour as a live co-drummer for the band's largest stadium shows. That arrangement makes 72 Seasons the last Metallica studio album recorded entirely by Lars alone before the Eloy era of Metallica's live show began, a detail that has become a common reference point for fans and search queries alike: \"who plays drums for Metallica now?\" almost always resolves back to Lars Ulrich as the band's sole studio drummer, with Eloy's role confined to select live dates.\n\nThis article covers the gear Lars used to record 72 Seasons, how it compares to the M72 touring rig, and why this album marks a meaningful endpoint in the Lars Ulrich story.",
+      "keyPoints": [
+        "Metallica's most recent studio album — released April 14, 2023",
+        "Debuted #1 in more than 30 countries, #2 on the Billboard 200",
+        "Recorded at Metallica's own HQ studio in San Rafael, CA with producer Greg Fidelman",
+        "Return to thrash-influenced songwriting and tempos after Hardwired's more varied approach",
+        "Lars Ulrich's last studio album before Eloy Casagrande joined as M72 live co-drummer in October 2023",
+        "Gear setup essentially unchanged from the Hardwired era: Tama Starclassic Maple, signature snare, Zildjian A Custom"
+      ]
+    },
+    "drumKit": {
+      "title": "Lars's Studio Kit: Tama Starclassic Maple",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
+      "finish": "Black finish with chrome hardware",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "All-maple shells with StarCast Mounting System"
+      },
+      "description": "For 72 Seasons, Lars Ulrich recorded on the Tama Starclassic Maple kit that has been his primary studio setup since the Hardwired... to Self-Destruct sessions — a warmer, more resonant alternative to the Starclassic Birch he used on Death Magnetic. The all-maple shells favor low-end depth and sustain over the birch kit's forward attack, giving 72 Seasons a fuller, rounder low end even on the album's fastest, most thrash-influenced tracks.\n\nThe configuration is Lars's long-standing compact setup: a single 22\" bass drum run with a double pedal, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. This is essentially the same core kit Lars has used across every album since Death Magnetic, reflecting a drummer who long ago settled on a configuration that serves the whole Metallica catalog rather than chasing a different setup per record.\n\nGreg Fidelman's production on 72 Seasons emphasizes a big, present low end — the kick drum on the title track and \"You Must Burn!\" sits noticeably deep in the mix, supporting galloping patterns played at tempos that rival the band's 1980s output. The maple shell's natural warmth gave Fidelman a foundation that needed less EQ sculpting to sit well against Hetfield's heavily downtuned rhythm guitars.\n\nNotably, this is the same core drum kit configuration Lars used on the M72 World Tour that followed the album's release, and it closely mirrors the Pearl-based rig documented for Eloy Casagrande's [M72 live setup](/articles/eloy-casagrande-m72-drum-setup) — both drummers converged on similar maple-forward tonal choices for the tour, even while running different manufacturers.",
+      "notes": [
+        "All-maple Starclassic shells for depth and sustain vs. the brighter Death Magnetic birch kit",
+        "Same compact configuration Lars has used since Death Magnetic — single kick, two rack toms, two floor toms",
+        "StarCast mounting system for full, unmuffled shell resonance",
+        "Recorded and mixed at Metallica's own HQ facility in San Rafael, CA",
+        "Configuration carried directly into the M72 World Tour that followed"
+      ],
+      "estimatedValue": "$4,000-5,500 (Starclassic Maple, current pro configuration)"
+    },
+    "snare": {
+      "title": "The LU1465: Still Lars's Go-To",
+      "brand": "Tama",
+      "model": "Tama LU1465 Lars Ulrich Signature Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel with die-cast hoops",
+      "description": "Lars's snare choice on 72 Seasons is the same Tama LU1465 Lars Ulrich Signature snare he has used since re-adopting it for Death Magnetic in 2008. The 14\"x6.5\" steel shell with die-cast hoops delivers the bright, cutting crack that has defined his sound for nearly two decades of Metallica recordings.\n\nGreg Fidelman mic'd the snare for maximum crack and definition, a production choice that supports 72 Seasons' thrash-leaning songwriting. On the title track and \"Screaming Suicide,\" the snare sits high and forward in the mix, driving the galloping tempo the way it did on Death Magnetic's \"That Was Just Your Life.\"\n\nThe consistency of the LU1465 across Lars's last three studio albums — Death Magnetic, Hardwired... to Self-Destruct, and now 72 Seasons — makes it one of the most stable elements of his entire gear setup. Where the kit shells and cymbal series have shifted over the decades, the signature snare has remained a constant anchor of his sound since the mid-2000s.",
+      "tuningSetting": "Medium-high tension for attack and cut through downtuned guitars",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$300-450"
+    },
+    "cymbals": {
+      "title": "Zildjian A Custom: A Decade-and-a-Half Constant",
+      "brand": "Zildjian",
+      "series": "Zildjian A Custom",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian A Custom 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Bright, cutting response for 72 Seasons' fast 16th-note patterns"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 16\" Crash",
+          "position": "Left of hi-hats",
+          "notes": "Fast crash for quick accents"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 18\" Crash",
+          "position": "Right of toms",
+          "notes": "Primary crash for section transitions"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian A Custom 20\" Ride",
+          "position": "Far right",
+          "notes": "Clear bell definition on riding passages"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A Custom 18\" China",
+          "position": "Above floor tom",
+          "notes": "Aggressive accents punctuating riff transitions"
+        }
+      ],
+      "description": "Lars's cymbal setup on 72 Seasons is the same Zildjian A Custom configuration he has used since Death Magnetic — 14\" hi-hats, 16\" and 18\" crashes, a 20\" ride, and an 18\" China. This is a producer's and drummer's choice for continuity: the A Custom's brilliant finish and bright, cutting overtones have consistently cut through Metallica's dense guitar mixes across three studio albums and countless live shows.\n\nOn the faster, thrash-influenced tracks like the title track and \"Room of Mirrors,\" the A Custom hi-hats provide the tight, defined response Lars needs at galloping tempos. The China cymbal, a Metallica signature since Master of Puppets, punctuates riff transitions throughout the album's more aggressive passages.\n\nThe long-term stability of this cymbal setup — unchanged since 2008 — mirrors the stability of the LU1465 snare. By 72 Seasons, Lars's studio rig had become less about experimentation and more about a trusted, dialed-in sound that Fidelman could mix consistently across an entire album cycle.",
+      "estimatedValue": "$1,800-2,200 total"
+    },
+    "hardware": {
+      "title": "Iron Cobra and the Familiar Setup",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra 900 Power Glide Double Pedal",
+          "notes": "Lars's standard pedal since the early 2000s — smooth cam action for sustained double-bass passages",
+          "description": "The Iron Cobra Power Glide's cam-driven mechanism gives Lars a consistent, predictable stroke across 72 Seasons' extended double-bass sections, including the galloping verses of the title track and the sustained patterns in \"Inamorata,\" the longest song Metallica has ever released."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Roadpro Hi-Hat Stand",
+          "notes": "Heavy-duty stand for consistent footwork on fast patterns"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Original",
+          "notes": "Lars's long-time throne choice for extended tracking sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Ahead",
+          "model": "Ahead Lars Ulrich Signature Sticks",
+          "notes": "Aluminum-core sticks with urethane coating — unchanged since the late 1990s"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear with internal muffling",
+        "toms": "Remo Ambassador Clear (batter), Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated"
+      }
+    },
+    "evolution": {
+      "title": "72 Seasons and the End of the Solo-Studio Era",
+      "content": "72 Seasons sits at a quiet but historically significant point in Lars Ulrich's gear and career timeline — it is the last Metallica studio album recorded before Eloy Casagrande joined the band's live show as a second drummer on the M72 World Tour.\n\n**The gear itself barely changed.** Lars's setup on 72 Seasons — Tama Starclassic Maple, the LU1465 signature snare, Zildjian A Custom cymbals, Iron Cobra pedals, Ahead signature sticks — is nearly identical to what he used on Hardwired... to Self-Destruct in 2016 and carries forward the choices established on Death Magnetic in 2008. What changed instead was the context surrounding the album's release.\n\n**The Eloy Casagrande arrangement.** In October 2023, Metallica confirmed that Sepultura's Eloy Casagrande would join the M72 World Tour as a co-drummer for the tour's largest stadium dates, playing alongside Lars rather than replacing him. This was an unprecedented arrangement for a band built so closely around its four core members. It did not signal a lineup change — Lars remains Metallica's sole studio drummer — but it made 72 Seasons a de facto dividing line: everything before it is \"solo Lars,\" and everything on the largest M72 stages afterward includes Eloy in a supporting live role. For the specifics of that live rig, see [Eloy Casagrande's M72 drum setup](/articles/eloy-casagrande-m72-drum-setup).\n\n**Why this matters for the catalog.** 72 Seasons closes the loop on Metallica's studio arc that this site has documented from Kill 'Em All through Death Magnetic and the Black Album — the same drummer, on largely the same gear philosophy he settled into in the mid-2000s, still recording new full-length Metallica material more than 40 years into the band's career.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Starclassic Birch (Death Magnetic, 2008)",
+          "now": "Tama Starclassic Maple (72 Seasons, 2023)"
+        },
+        {
+          "category": "Snare",
+          "then": "Tama LU1465 Lars Ulrich Signature",
+          "now": "Tama LU1465 Lars Ulrich Signature (unchanged)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Zildjian A Custom",
+          "now": "Zildjian A Custom (unchanged)"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama Iron Cobra 900",
+          "now": "Tama Iron Cobra 900 Power Glide (unchanged)"
+        },
+        {
+          "category": "Live drummer status",
+          "then": "Sole drummer, studio and live",
+          "now": "Sole studio drummer; Eloy Casagrande joins as M72 live co-drummer (Oct. 2023)"
+        }
+      ]
+    },
+    "videos": [
+      {
+        "youtubeId": "_u-7rWKnVVo",
+        "title": "Metallica - Lux Æterna (Official Music Video)",
+        "description": "Official music video for the 72 Seasons lead single, released November 2022"
+      }
+    ],
+    "relatedAlbums": [
+      "death-magnetic-drum-setup",
+      "black-album-drum-setup",
+      "eloy-casagrande-m72-drum-setup"
+    ],
+    "relatedDrummers": [
+      1,
+      7
+    ],
+    "relatedArticles": [
+      "whats-in-lars-ulrichs-kit",
+      "thrash-metal-drummers",
+      "big-four-drummers"
+    ],
+    "relatedLicks": [],
+    "faq": [
+      {
+        "question": "What drums does Lars Ulrich use on 72 Seasons?",
+        "answer": "Lars Ulrich recorded 72 Seasons (2023) on his Tama Starclassic Maple kit — the same core setup he has used since Hardwired... to Self-Destruct in 2016. The configuration is a compact single-kick setup: a 22x18 inch bass drum run with an Iron Cobra 900 Power Glide double pedal, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He paired it with his Tama LU1465 Lars Ulrich Signature snare and Zildjian A Custom cymbals, recorded at Metallica's own HQ studio in San Rafael, CA with producer Greg Fidelman."
+      },
+      {
+        "question": "Is 72 Seasons Lars Ulrich's last Metallica album?",
+        "answer": "72 Seasons (2023) is Metallica's most recent studio album and, as of this writing, Lars Ulrich's last studio recording with the band. It is not his last album as Metallica's drummer — he remains the band's sole studio drummer. What makes 72 Seasons a notable dividing line is that it was released before Eloy Casagrande joined Metallica's M72 World Tour as a live co-drummer for the tour's largest stadium shows starting in October 2023. Lars continues to record and tour with Metallica; 72 Seasons is simply the most recent studio full-length in the catalog."
+      },
+      {
+        "question": "Why did Metallica add a second drummer after 72 Seasons?",
+        "answer": "In October 2023, Metallica brought in Eloy Casagrande — the former Sepultura drummer — as a co-drummer for select, larger-scale shows on the M72 World Tour. The arrangement was designed to add live power on the tour's biggest stadium dates rather than to replace Lars Ulrich, who remained Metallica's sole studio drummer throughout and continued performing on every date of the tour. The move came after 72 Seasons had already been recorded and released, which is why the album is commonly referenced as Lars's last studio work before the Eloy era of Metallica's live show began."
+      },
+      {
+        "question": "How does the 72 Seasons drum sound compare to Death Magnetic?",
+        "answer": "Both albums represent a deliberate return to thrash-influenced tempos and songwriting, but the gear differs slightly. Death Magnetic (2008) used Tama Starclassic Birch shells for a brighter, more attack-forward tone suited to Rick Rubin's punchy production. 72 Seasons (2023) uses Tama Starclassic Maple, which Lars adopted around the Hardwired era, giving the album a warmer, fuller low end. Both albums use the same Tama LU1465 signature snare and Zildjian A Custom cymbals, so the core tonal signature — bright cymbals, cutting snare crack — remains consistent across both records despite the different shell material."
+      },
+      {
+        "question": "What cymbals did Lars Ulrich use on 72 Seasons?",
+        "answer": "Lars Ulrich used Zildjian A Custom cymbals throughout 72 Seasons — the same series he has used since Death Magnetic in 2008. His setup includes 14 inch A Custom hi-hats, 16 and 18 inch A Custom crashes, a 20 inch A Custom ride, and an 18 inch A Custom China. This long-running cymbal setup gives 72 Seasons the same bright, cutting cymbal character heard on Hardwired... to Self-Destruct and Death Magnetic."
+      }
+    ],
+    "conclusion": {
+      "title": "72 Seasons: The Studio Chapter Closes (For Now)",
+      "content": "72 Seasons doesn't represent a dramatic gear shift for Lars Ulrich — quite the opposite. The Tama Starclassic Maple kit, LU1465 signature snare, Zildjian A Custom cymbals, and Iron Cobra pedals are the same core rig he has trusted since settling into his modern sound around Death Magnetic in 2008. What makes this album significant isn't a new piece of gear; it's the moment in time it occupies.\n\nReleased in April 2023 to commercial numbers that would be the envy of bands a fraction of Metallica's age — number one in more than 30 countries, number two on the Billboard 200 — 72 Seasons proved the band's commercial and creative relevance undiminished more than four decades into its career. Then, six months later, Metallica made the unprecedented move of adding Eloy Casagrande as a live co-drummer for the M72 World Tour's biggest shows, turning 72 Seasons into an inadvertent dividing line in the band's drumming history: the last studio album recorded before that arrangement began.\n\nFor drummers and fans tracing the full arc of Metallica's studio sound, 72 Seasons closes the loop that started with [Kill 'Em All](/articles/kill-em-all-drum-setup) in 1983 and ran through [Master of Puppets](/articles/master-of-puppets-drum-setup), [the Black Album](/articles/black-album-drum-setup), and [Death Magnetic](/articles/death-magnetic-drum-setup). And for the live-rig counterpart to this studio story, see [Eloy Casagrande's M72 drum setup](/articles/eloy-casagrande-m72-drum-setup) — the two articles together tell the complete story of Metallica's drums in the 2023-2024 era. The full career context lives at the [Lars Ulrich drummer profile](/drummer/lars-ulrich).\n\n🥁 *Tama Starclassic Maple, HQ San Rafael, 2021-2022 — Lars Ulrich's most recent studio chapter.* 🥁"
+    }
   }
 };
 export default articles;

@@ -4748,6 +4748,425 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['scott travis drum kit', 'judas priest drummer gear history', 'painkiller drums cost', 'scott travis 1990 setup', 'judas priest drum kit cost'],
     },
   },
+
+  // ==========================================
+  // GAVIN HARRISON - 2007 Fear of a Blank Planet Era
+  // Issue #2912: Gear Price History (batch 22)
+  // Sonor SQ2 Custom / Zildjian K Custom Special Dry Setup
+  // ==========================================
+  'gavin-harrison': {
+    slug: 'gavin-harrison',
+    name: 'Gavin Harrison',
+    band: 'Porcupine Tree',
+    iconicYear: 2007,
+    era: 'Fear of a Blank Planet Era',
+    albumReference: 'Fear of a Blank Planet (2007)',
+    profileImage: '/images/drummers/gavin-harrison.webp',
+
+    summary: "Gavin Harrison's 2007 Porcupine Tree setup captures progressive drumming at its most refined. By the time Fear of a Blank Planet arrived, Harrison had spent five years building out a custom Sonor SQ2 kit and a Zildjian cymbal collaboration specifically engineered around his polyrhythmic, ghost-note-heavy vocabulary — instruments that reward subtlety rather than raw volume. The thin maple SQ2 shells, the brass-shell signature snare, and the dry, fast-decaying K Custom Special Dry cymbals all exist to keep complex, layered rhythmic ideas individually audible, a problem few other rigs are built to solve.\n\nWhat makes this setup historically significant is how directly it maps onto Harrison's career arc. He established the Sonor and Zildjian relationships during In Absentia (2002), his first album with Porcupine Tree, then refined them into their definitive form for Fear of a Blank Planet — the record, and specifically the 17-minute \"Anesthetize,\" that drumming schools worldwide now use as a polyrhythm teaching text. The complete rig cost approximately $11,660 in 2007 dollars, equivalent to roughly $18,432 in 2026 after CPI adjustment — a substantial investment reflecting the fully custom nature of the Sonor SQ2 program, where no two kits are built the same.\n\nThe setup proved durable rather than transitional. Harrison carried the same core Sonor/Zildjian rig into King Crimson's revolutionary three-drummer lineup in 2008, added a 12\" Protean signature snare for The Pineapple Thief's more intimate studio work in the mid-2010s, and returned to it essentially unchanged for Porcupine Tree's 2022 reunion album Closure/Continuation — remarkable consistency for gear built around such demanding technical requirements. A $11,660 investment in 2007 now represents roughly $18,432 in 2026 purchasing power, tracking both general inflation and the growing collector interest in fully custom Sonor SQ2 configurations.",
+
+    setup: {
+      drums: {
+        item: 'Sonor SQ2 Series',
+        model: 'Custom-order shell pack, thin maple',
+        specs: '22"x17" bass drum, 10"x8"/12"x9" rack toms, 14"x13"/16"x15" floor toms',
+        originalPrice: 7200,
+        year: 2007,
+        source: 'Sonor SQ2 custom-order catalog pricing 2007',
+        notes: "Fully custom-order German engineering — no two SQ2 kits are identical. Harrison's configuration prioritizes thin maple shells for maximum sensitivity, letting whisper-quiet ghost notes and full-force accents register with equal clarity on Fear of a Blank Planet.",
+        vintageValue2026: 9500,
+        modernEquivalent: {
+          item: 'Sonor SQ2 Custom (2026 pricing)',
+          price: 11000,
+          link: 'sonor-sq2-custom',
+        },
+      },
+      snare: {
+        item: 'Sonor Gavin Harrison Signature Snare',
+        model: '14"x5.25" brass shell',
+        specs: 'Brass shell, die-cast hoops, 8-lug',
+        originalPrice: 780,
+        year: 2007,
+        source: 'Sonor signature snare catalog pricing 2007',
+        notes: "The brass shell's warmth lets soft ghost notes sing rather than rattle, while still projecting enough to cut through Porcupine Tree's dense, Steven Wilson-produced arrangements on rimshot accents.",
+        vintageValue2026: 1100,
+        modernEquivalent: {
+          item: 'Sonor Gavin Harrison Signature Snare (current)',
+          price: 950,
+          link: 'sonor-gavin-harrison-signature-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian K Custom Special Dry',
+        model: 'Co-developed signature series',
+        specs: '14" Special Dry Hi-Hats, 16"/18" Special Dry Crashes, 21" Special Dry Ride, 18" Trash China',
+        originalPrice: 2150,
+        year: 2007,
+        source: 'Zildjian K Custom Special Dry catalog pricing 2007',
+        notes: 'Developed in direct collaboration with Harrison, this dry, fast-decaying series prevents the wash buildup that would otherwise obscure his layered polyrhythmic patterns — essential for tracks like the title track and "Anesthetize."',
+        vintageValue2026: 2800,
+        modernEquivalent: {
+          item: 'Zildjian K Custom Special Dry Pack (current)',
+          price: 2600,
+          link: 'zildjian-k-custom-special-dry-pack',
+        },
+      },
+      hardware: {
+        item: 'Sonor Perfect Balance Pedal + 600 Series Hardware',
+        model: 'Single pedal, hi-hat stand, boom stands, throne',
+        specs: 'Sonor Perfect Balance Pedal, Sonor 600 Series hi-hat stand and boom stands, Sonor Professional Throne',
+        originalPrice: 1450,
+        year: 2007,
+        source: 'Sonor hardware catalog pricing 2007',
+        notes: "The Perfect Balance pedal's even resistance throughout the stroke gives Harrison the bass drum dynamic range his cross-rhythmic patterns require — essential when the kick functions as a melodic voice rather than just a time-keeper.",
+        vintageValue2026: 1700,
+        modernEquivalent: {
+          item: 'Sonor Perfect Balance Pedal + 600 Series Hardware (current)',
+          price: 1750,
+          link: 'sonor-perfect-balance-600-series',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth Gavin Harrison Signature',
+        model: '16" length, .570" diameter, barrel tip',
+        specs: 'Hickory, barrel tip',
+        originalPrice: 12,
+        year: 2007,
+        source: 'Vic Firth signature stick retail pricing 2007',
+        notes: "Harrison's own barrel-tip design, close to a 5A in weight but with a custom taper developed for balance and rebound during extended polyrhythmic passages.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth Gavin Harrison Signature (current)',
+          price: 16,
+          link: 'vic-firth-gavin-harrison-signature',
+        },
+      },
+      heads: {
+        item: 'Remo Ambassador Coated / Snare Side',
+        model: 'Coated batter, snare-side resonant',
+        specs: 'Remo Ambassador Coated (toms/snare batter), Remo Ambassador Snare Side (resonant)',
+        originalPrice: 68,
+        year: 2007,
+        source: 'Remo retail pricing 2007',
+        notes: 'Standard Ambassador configuration chosen for the sensitivity and controlled overtones needed to keep tuned melodic toms clear within dense mixes.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Ambassador Coated/Snare Side Pack',
+          price: 95,
+          link: 'remo-ambassador-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 11660,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 15100,
+      modernEquivalentTotal: 16427,
+    },
+
+    priceEvolution: [
+      { year: 2002, price: 9200, label: 'In Absentia era', event: 'Joins Porcupine Tree — establishes Sonor SQ2 and Zildjian K Custom Special Dry endorsement' },
+      { year: 2007, price: 11660, label: 'Original Purchase', event: 'Fear of a Blank Planet recorded — signature Sonor 14"x5.25" brass snare and K Custom Special Dry collaboration finalized' },
+      { year: 2008, price: 13400, label: 'King Crimson era', event: "Joins King Crimson's revolutionary three-drummer lineup; expanded rack tom configuration" },
+      { year: 2018, price: 15200, label: 'Pineapple Thief era', event: '12" Protean signature snare added for Dissolution studio sessions' },
+      { year: 2022, price: 16800, label: 'Porcupine Tree reunion', event: 'Closure/Continuation reunion album — same core rig after 12-year hiatus' },
+      { year: 2026, price: 18427, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2007 setup' },
+    ],
+
+    sources: [
+      { title: 'Sonor SQ2 Custom-Order Catalog', year: 2007, type: 'catalog' },
+      { title: 'Modern Drummer — Gavin Harrison Interview', year: 2008, type: 'interview' },
+      { title: 'Zildjian Artist Profiles — K Custom Special Dry Development', year: 2007, type: 'manufacturer' },
+      { title: 'Reverb Price Guide — Custom Sonor SQ2 Kits', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Gavin Harrison 2007 Porcupine Tree Drum Setup Cost | Fear of a Blank Planet Era Gear Prices",
+      description: "How much did Gavin Harrison's 2007 Porcupine Tree drum kit cost? Original Sonor SQ2 setup ~$11,660, inflation-adjusted to ~$18,432 today. Complete Fear of a Blank Planet-era gear breakdown.",
+      keywords: ['gavin harrison drum kit cost', 'porcupine tree drummer gear', 'fear of a blank planet drums cost', 'gavin harrison 2007 setup', 'gavin harrison sonor sq2 price'],
+    },
+  },
+
+  // ==========================================
+  // MIKE MANGINI - 2011 A Dramatic Turn of Events Era
+  // Issue #2912: Gear Price History (batch 22)
+  // Pearl Masterworks Custom / Meinl Byzance / DW Setup
+  // ==========================================
+  'mike-mangini': {
+    slug: 'mike-mangini',
+    name: 'Mike Mangini',
+    band: 'Dream Theater',
+    iconicYear: 2011,
+    era: 'A Dramatic Turn of Events Era',
+    albumReference: 'A Dramatic Turn of Events (2011)',
+    profileImage: '/images/drummers/mike-mangini.webp',
+
+    summary: "Mike Mangini's 2011 setup marks one of the most consequential drum-chair transitions in progressive metal. When Mangini won the highly publicized audition to replace founding member Mike Portnoy in 2010, he inherited a fanbase that studies drum performances note-by-note — and he answered with A Dramatic Turn of Events, an album built entirely around his own technical vocabulary rather than an imitation of his predecessor. The rig he brought into the studio centered on a custom Pearl Masterworks kit, Meinl Byzance Traditional cymbals, and DW pedals and hardware — a combination distinct from both Portnoy's prior setup and from the Pearl/Sabian rig Mangini would eventually settle into years later.\n\nThe complete 2011 setup cost approximately $12,356, equivalent to roughly $17,999 in 2026 after CPI adjustment. That price reflects the fully custom nature of the Masterworks shell pack, a full seven-piece Meinl Byzance cymbal spread, and DW's premium 9000-series hardware and 9002 double pedal — a configuration built to handle Dream Theater's demanding odd-meter, high-speed passages without sacrificing the dynamic control Mangini's Berklee-honed technique requires.\n\nWhat makes Mangini's gear history unusually well-documented is how much it changed across a single band's catalog. He briefly swapped in Ludwig Keystone X Maple shells for Dream Theater's 2013 self-titled album before returning to Pearl for The Astonishing (2016) — all while keeping the Meinl/DW hardware combination. Then, starting with Distance Over Time (2019) and continuing through A View from the Top of the World (2021), Mangini made a wholesale switch to Pearl Reference Pure shells, Sabian HHX/AAX cymbals, and Pearl's own Eliminator Redline double pedal, retiring the DW hardware entirely. That two-stage evolution — DW/Meinl through the mid-2010s, then Pearl/Sabian from 2019 onward — makes his rig one of the most instructive case studies in how a signature progressive metal setup evolves under one drummer across more than a decade with the same band.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Masterworks Custom',
+        model: '6-piece custom shell pack',
+        specs: '22"x18" bass drum, 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
+        originalPrice: 8500,
+        year: 2011,
+        source: 'Pearl Masterworks custom-order catalog pricing 2011',
+        notes: "Pearl's fully custom Masterworks program let Mangini specify shell composition and hardware placement to suit Dream Theater's extreme-tempo, odd-meter demands on A Dramatic Turn of Events.",
+        vintageValue2026: 10500,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure (current Mangini kit)',
+          price: 11000,
+          link: 'pearl-reference-pure',
+        },
+      },
+      snare: {
+        item: 'Pearl Free-Floating Brass Snare',
+        model: '14"x6.5" brass shell, free-floating suspension',
+        specs: 'Brass shell, free-floating mounting system, 10-lug',
+        originalPrice: 520,
+        year: 2011,
+        source: 'Pearl snare catalog pricing 2011',
+        notes: "The free-floating suspension isolates the shell from hardware-induced overtones, giving Mangini's rapid single-stroke and paradiddle-based patterns maximum sensitivity and sustain.",
+        vintageValue2026: 750,
+        modernEquivalent: {
+          item: 'Pearl Reference Brass Snare (current)',
+          price: 650,
+          link: 'pearl-reference-brass-snare',
+        },
+      },
+      cymbals: {
+        item: 'Meinl Byzance Traditional',
+        model: 'Full seven-piece traditional-finish setup',
+        specs: '14" Hi-Hats, 16" Thin Crash, 18"/20" Medium Crashes, 22" Medium Ride, 18" China, 10" Splash',
+        originalPrice: 2300,
+        year: 2011,
+        source: 'Meinl Byzance Traditional catalog pricing 2011',
+        notes: "Meinl's traditional hand-hammered finish gave Mangini's setup a darker, more complex overtone structure than the brighter B20 cymbals common in prog metal at the time.",
+        vintageValue2026: 3000,
+        modernEquivalent: {
+          item: 'Sabian HHX/AAX Evolution Pack (current)',
+          price: 3200,
+          link: 'sabian-hhx-aax-evolution-pack',
+        },
+      },
+      hardware: {
+        item: 'DW 9002 Double Pedal + 9000 Series Hardware',
+        model: 'Double bass pedal, hi-hat stand, boom stands, throne',
+        specs: 'DW 9002 double bass pedal, DW 9000 Series hi-hat stand and boom stands, DW 9120M throne',
+        originalPrice: 950,
+        year: 2011,
+        source: 'DW hardware catalog pricing 2011',
+        notes: "DW's 9000 Series was chosen for the smooth, adjustable cam action the 9002 pedal needed to keep Mangini's extreme-tempo double-kick patterns even and controlled.",
+        vintageValue2026: 1300,
+        modernEquivalent: {
+          item: 'Pearl Eliminator Redline Double Pedal + Hardware (current)',
+          price: 1400,
+          link: 'pearl-eliminator-redline-hardware',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth Mike Mangini Signature',
+        model: 'Signature model',
+        specs: 'Hickory, wood tip',
+        originalPrice: 11,
+        year: 2011,
+        source: 'Vic Firth signature stick retail pricing 2011',
+        notes: "Mangini's signature stick balances the weight needed for extended double-bass work with the control required for his intricate hand technique.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth Mike Mangini Signature (current)',
+          price: 16,
+          link: 'vic-firth-mike-mangini-signature',
+        },
+      },
+      heads: {
+        item: 'Remo Powerstroke 3 / Emperor / Ambassador',
+        model: 'Powerstroke 3 (kick), Emperor Clear (toms), Coated Ambassador (snare)',
+        specs: 'Remo Powerstroke 3 Clear (kick batter), Remo Emperor Clear (tom batter), Remo Ambassador Clear (tom resonant), Remo Coated Ambassador (snare batter)',
+        originalPrice: 75,
+        year: 2011,
+        source: 'Remo professional pricing 2011',
+        notes: 'Standard Remo configuration built for touring durability across Dream Theater\'s demanding set lengths and extreme dynamic range.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Powerstroke/Emperor/Ambassador Pack',
+          price: 100,
+          link: 'remo-powerstroke-emperor-ambassador-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 12356,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 15550,
+      modernEquivalentTotal: 15966,
+    },
+
+    priceEvolution: [
+      { year: 2010, price: 10500, label: 'Joins Dream Theater', event: 'Wins publicized audition to replace Mike Portnoy; assembles Pearl/Meinl/DW rig' },
+      { year: 2011, price: 12356, label: 'Original Purchase', event: 'A Dramatic Turn of Events recorded — Mangini\'s studio debut with Dream Theater' },
+      { year: 2013, price: 13800, label: 'Self-titled era', event: 'Temporary switch to Ludwig Keystone X Maple shells for Dream Theater (2013)' },
+      { year: 2016, price: 15200, label: 'The Astonishing era', event: 'Returns to Pearl Masterworks Maple; same Meinl/DW hardware continues' },
+      { year: 2019, price: 17600, label: 'Distance Over Time era', event: 'Major switch to Pearl Reference Pure shells, Sabian HHX/AAX cymbals, and Pearl Eliminator Redline pedal' },
+      { year: 2021, price: 18900, label: 'A View from the Top of the World era', event: 'Same Pearl/Sabian rig continues; Roland SPD-SX sampling pad added for hybrid passages' },
+      { year: 2026, price: 17998, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2011 setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Masterworks Custom-Order Catalog', year: 2011, type: 'catalog' },
+      { title: 'Modern Drummer — Mike Mangini Interview', year: 2012, type: 'interview' },
+      { title: 'Meinl Artist Profiles — Byzance Traditional Series', year: 2011, type: 'manufacturer' },
+      { title: 'Reverb Price Guide — Pearl Masterworks Custom Kits', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Mike Mangini 2011 Dream Theater Drum Setup Cost | A Dramatic Turn of Events Era Gear Prices",
+      description: "How much did Mike Mangini's 2011 Dream Theater drum kit cost? Original Pearl Masterworks setup ~$12,356, inflation-adjusted to ~$17,999 today. Complete A Dramatic Turn of Events-era gear breakdown.",
+      keywords: ['mike mangini drum kit cost', 'dream theater drummer gear', 'a dramatic turn of events drums cost', 'mike mangini 2011 setup', 'mike mangini pearl masterworks price'],
+    },
+  },
+
+  // ==========================================
+  // JASON BITTNER - 2004 The War Within Era
+  // Issue #2912: Gear Price History (batch 22)
+  // Tama Starclassic Performer B/B / Sabian / DW Setup
+  // ==========================================
+  'jason-bittner': {
+    slug: 'jason-bittner',
+    name: 'Jason Bittner',
+    band: 'Shadows Fall',
+    iconicYear: 2004,
+    era: 'The War Within Era',
+    albumReference: 'The War Within (2004)',
+    profileImage: '/images/drummers/jason-bittner.webp',
+
+    summary: "Jason Bittner's 2004 setup powered one of thrash-tinged metalcore's defining commercial breakthroughs. The War Within — Shadows Fall's Grammy-nominated fourth album — built on the technical foundation Bittner established with 2002's The Art of Balance, centering on a Tama Starclassic Performer B/B shell pack, a Tama Starphonic Steel snare, Sabian HHX/HH cymbals, and DW's 9002 double pedal. Every component in the rig was chosen to deliver the steel-edged crack and controlled double-kick response that NWOAHM's dense, layered arrangements demanded.\n\nThe complete 2004 setup cost approximately $4,773, equivalent to roughly $8,279 in 2026 after CPI adjustment. That figure reflects a working touring drummer's rig rather than a boutique custom build — Bittner's gear philosophy has always prioritized durability and consistency across a grueling road schedule over rare or exotic materials, a pragmatic approach that served him across Shadows Fall's rise through The Art of Balance (2002) and Threads of Life (2007).\n\nWhat makes Bittner's gear history a useful case study in touring-thrash economics is the scale of the change when his career pivoted. After Shadows Fall's 2015 breakup, Bittner carried his Tama rig into Flotsam & Jetsam's Dreams of Death before making a wholesale switch in 2017: Mapex Saturn V all-maple shells, Zildjian K & A Custom cymbals, and a Mapex Falcon double pedal, assembled fresh for his new chair in Overkill. That same Mapex/Zildjian rig has carried through to his work in the thrash supergroup Category 7 since 2024 — illustrating how a single gear-brand transition, triggered by a band change rather than gradual upgrades, can reset an entire touring rig's cost basis in one move.",
+
+    setup: {
+      drums: {
+        item: 'Tama Starclassic Performer B/B',
+        model: 'Birch/bubinga hybrid shell pack',
+        specs: '22"x18" bass drum, 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
+        originalPrice: 2600,
+        year: 2004,
+        source: 'Tama Starclassic Performer B/B catalog pricing 2004',
+        notes: "The birch/bubinga hybrid shells cut through Shadows Fall's layered guitar arrangements with a punchy, mid-forward attack — essential for The War Within's dense NWOAHM production.",
+        vintageValue2026: 3400,
+        modernEquivalent: {
+          item: 'Mapex Saturn V (current Bittner kit)',
+          price: 3200,
+          link: 'mapex-saturn-v',
+        },
+      },
+      snare: {
+        item: 'Tama Starphonic Steel',
+        model: '14"x6.5" steel shell',
+        specs: 'Steel shell, 8-lug, die-cast hoops',
+        originalPrice: 280,
+        year: 2004,
+        source: 'Tama Starphonic catalog pricing 2004',
+        notes: "The steel shell's crack and projection kept Bittner's backbeat audible through Shadows Fall's dual-guitar wall on The War Within's biggest singles.",
+        vintageValue2026: 420,
+        modernEquivalent: {
+          item: 'Mapex Black Panther 14"x6.5" Brass (current)',
+          price: 380,
+          link: 'mapex-black-panther-brass',
+        },
+      },
+      cymbals: {
+        item: 'Sabian HHX/HH Series',
+        model: 'Mixed HHX and HH configuration',
+        specs: '14" HH Hi-Hats, 16"/18" HHX Crashes, 20" HH Ride, HHX China',
+        originalPrice: 1400,
+        year: 2004,
+        source: 'Sabian HHX/HH catalog pricing 2004',
+        notes: "Sabian's hand-hammered HHX/HH blend gave Bittner both the dark, controlled crashes and cutting ride definition needed for Shadows Fall's mix of thrash riffing and metalcore breakdowns.",
+        vintageValue2026: 1900,
+        modernEquivalent: {
+          item: 'Zildjian K & A Custom Pack (current)',
+          price: 2100,
+          link: 'zildjian-k-a-custom-pack',
+        },
+      },
+      hardware: {
+        item: 'DW 9002 Double Bass Pedal',
+        model: 'Chain-drive double pedal + stands',
+        specs: 'DW 9002 double bass pedal, hi-hat stand, boom stands, throne',
+        originalPrice: 420,
+        year: 2004,
+        source: 'DW hardware catalog pricing 2004',
+        notes: "The 9002's smooth chain-drive action gave Bittner the control needed for the sustained double-kick passages that define Shadows Fall's thrash-metalcore hybrid sound.",
+        vintageValue2026: 580,
+        modernEquivalent: {
+          item: 'Mapex Falcon Double Pedal + T865 Throne (current)',
+          price: 650,
+          link: 'mapex-falcon-t865-throne',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B Hickory',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 2004,
+        source: 'Standard retail price',
+        notes: "Bittner's standard 5B stick preference from his Shadows Fall years, before his later Promark signature relationship.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Promark Jason Bittner Signature 5BX (current)',
+          price: 14,
+          link: 'promark-jason-bittner-signature-5bx',
+        },
+      },
+      heads: {
+        item: 'Remo Powerstroke 3 / Ambassador Coated',
+        model: 'Powerstroke 3 (kick), Coated Ambassador (snare)',
+        specs: 'Remo Powerstroke 3 Clear (kick), Remo Coated Ambassador (snare batter), Remo Ambassador Snare Side (resonant)',
+        originalPrice: 65,
+        year: 2004,
+        source: 'Remo professional pricing 2004',
+        notes: 'Standard Remo configuration chosen for touring durability across Shadows Fall\'s relentless mid-2000s touring schedule.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Heavyweight/EC2 Pack (current)',
+          price: 90,
+          link: 'evans-heavyweight-ec2-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 4773,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 6300,
+      modernEquivalentTotal: 6444,
+    },
+
+    priceEvolution: [
+      { year: 2002, price: 4100, label: 'The Art of Balance era', event: "Shadows Fall's Century Media breakthrough; establishes Tama Starclassic and Sabian HHX/HH rig" },
+      { year: 2004, price: 4773, label: 'Original Purchase', event: "The War Within recorded — Shadows Fall's Grammy-nominated NWOAHM breakthrough" },
+      { year: 2007, price: 5600, label: 'Threads of Life era', event: 'Same Tama/Sabian/DW rig carries through Shadows Fall\'s continued rise' },
+      { year: 2016, price: 6800, label: 'Flotsam & Jetsam era', event: "Shadows Fall disbands (2015); Bittner brings the Tama rig to Flotsam & Jetsam's Dreams of Death" },
+      { year: 2017, price: 8900, label: 'Overkill era', event: 'Joins Overkill; switches to Mapex Saturn V shells, Zildjian K & A Custom cymbals, and a Mapex Falcon double pedal' },
+      { year: 2024, price: 9800, label: 'Category 7 era', event: 'Same Mapex/Zildjian rig carries into thrash supergroup Category 7' },
+      { year: 2026, price: 8278, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2004 setup' },
+    ],
+
+    sources: [
+      { title: 'Tama Starclassic Performer B/B Catalog', year: 2004, type: 'catalog' },
+      { title: 'Modern Drummer — Jason Bittner Interview', year: 2005, type: 'interview' },
+      { title: 'Mapex Artist Profiles — Jason Bittner', year: 2017, type: 'manufacturer' },
+      { title: 'Reverb Price Guide — Vintage Tama Starclassic Performer', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Jason Bittner 2004 Shadows Fall Drum Setup Cost | The War Within Era Gear Prices",
+      description: "How much did Jason Bittner's 2004 Shadows Fall drum kit cost? Original Tama Starclassic setup ~$4,773, inflation-adjusted to ~$8,279 today. Complete The War Within-era gear breakdown.",
+      keywords: ['jason bittner drum kit cost', 'shadows fall drummer gear', 'the war within drums cost', 'jason bittner 2004 setup', 'jason bittner tama starclassic price'],
+    },
+  },
 };
 
 // ==========================================

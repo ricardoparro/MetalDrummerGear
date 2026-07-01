@@ -11864,6 +11864,744 @@ This guide breaks down the technique, gear, and practice approach behind Yeung's
       { slug: 'tim-yeung-drum-setup', label: "Tim Yeung's Drum Kit & Gear Setup — Morbid Angel Death Metal" }
     ]
   },
+  'how-to-sound-like-john-otto': {
+    slug: 'how-to-sound-like-john-otto',
+    drummerId: 9,
+    drummerName: 'John Otto',
+    band: 'Limp Bizkit',
+    genre: 'Nu-Metal',
+    priority: 46,
+    title: "How to Sound Like John Otto: Complete Gear & Technique Guide",
+    description: "Master John Otto's jazz-informed nu-metal groove. Learn the Limp Bizkit drummer's fat backbeats, hip-hop pocket, and ghost-note technique, plus his OCDP kit, Zildjian cymbal setup, and Gibraltar hardware.",
+    seoKeywords: ['john otto drums', 'how to play like john otto', 'john otto limp bizkit', 'limp bizkit drummer technique', 'john otto gear', 'nu-metal drumming'],
+    ogImage: '/images/guides/john-otto-guide.webp',
+    datePublished: '2026-07-01',
+    dateModified: '2026-07-01',
+    author: 'MetalForge Editorial',
+    wordCount: 1700,
+    readingTime: '8 min',
+    intro: {
+      title: "Nu-Metal's Jazz-Trained Groove Engine",
+      content: `John Otto has been Limp Bizkit's drummer since the band's 1994 formation — a founding member whose playing is inseparable from the band's identity as one of nu-metal's defining commercial forces. Unlike most of his nu-metal peers, Otto studied jazz at the Douglas Anderson School of the Arts in Jacksonville, Florida, absorbing jazz vocabulary, Brazilian rhythms, and Afro-Cuban percussion before applying that training to the heaviest commercial rock of his generation.
+
+That jazz background is the reason Limp Bizkit's rhythm section swings rather than just pounds. On *Significant Other* (1999, 7M+ US sales) and *Chocolate Starfish and the Hot Dog Flavored Water* (2000, #1 Billboard debut), Otto's kick and snare placement sits in a hip-hop-informed pocket — often just behind the strict grid — while ghost notes and dynamic control give quieter verses genuine musical depth before the choruses detonate at full nu-metal weight.
+
+Limp Bizkit's 2021 *Still Sucks* album and the band's massive 2024 reunion touring cycle have brought Otto's groove-centered drumming back into the spotlight for a new generation. This guide breaks down the fat backbeats, ghost-note technique, and OCDP/Zildjian gear setup behind his sound.`,
+      keyPoints: [
+        "Founding Limp Bizkit drummer since 1994 — over three decades with the band",
+        "Formal jazz training at Douglas Anderson School of the Arts underpins his groove sensibility",
+        "Hip-hop-informed pocket placement and ghost notes set him apart from straight metal drummers",
+        "The rhythmic architect of Significant Other (7M US sales) and Chocolate Starfish (#1 debut)"
+      ]
+    },
+    technique: {
+      title: "Otto's Hip-Hop-Informed Groove Technique",
+      overview: `Otto's playing works because he treats the backbeat as a groove decision, not just a metal accent. His kick and snare often land slightly behind the strict grid — a hip-hop production trait — while ghost notes borrowed from jazz training add texture beneath the main pattern. On heavier passages he switches to his OCDP kit's double-kick configuration for extra weight without abandoning the pocket feel.`,
+      stickGrip: {
+        type: 'Matched Grip',
+        description: "Otto plays a relaxed matched grip that leaves room for dynamic control — the same grip has to deliver a whisper-quiet ghost note in a verse and a full-force backbeat crack in the chorus a few bars later.",
+        tips: [
+          "Practice placing the snare slightly behind the click on a metronome — that micro-delay is what creates hip-hop-style pocket feel",
+          "Layer in ghost notes between backbeats at low volume before worrying about speed or power",
+          "Keep grip pressure light enough that you can drop instantly from full-power backbeats to quiet ghost-note passages"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "Fat Backbeat Pocket",
+          description: "Otto's core groove: a heavy, slightly-behind-the-grid backbeat that locks with the bass and rhythm guitar rather than sitting rigidly on the metronome, giving Limp Bizkit's grooves a hip-hop-informed forward pull.",
+          tempo: "85-100 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Play a basic rock beat and consciously delay the snare hit by a hair against a click track — small enough that it still feels like one beat, not a rushed or dragged one."
+        },
+        {
+          name: "Ghost-Note Groove Texture",
+          description: "Low-volume snare hits between the main backbeats add rhythmic texture and swing to verses, a jazz-derived technique rarely used by straight metal drummers.",
+          tempo: "80-95 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Play a simple groove and add quiet ghost notes on the 'e' and 'a' of each beat, keeping them audibly softer than the main backbeat."
+        },
+        {
+          name: "Double-Kick Accent Bursts",
+          description: "For Limp Bizkit's heaviest sections, Otto shifts from his groove-oriented single-kick default into short double-kick bursts on his OCDP kit's double-bass configuration, adding weight without losing the song's pocket.",
+          tempo: "100-130 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Practice short 2-4 note double-kick bursts that land on a specific accent rather than sustained double-kick runs — precision over duration."
+        }
+      ],
+      keySongs: [
+        { song: "Nookie", album: "Significant Other", year: 1999, why: "Signature hip-hop groove lock with ghost-note texture in the verses" },
+        { song: "Break Stuff", album: "Significant Other", year: 1999, why: "Otto's most aggressive full-backbeat performance" },
+        { song: "N 2 Gether Now", album: "Significant Other", year: 1999, why: "Purest hip-hop pocket feel on the record" },
+        { song: "My Way", album: "Chocolate Starfish and the Hot Dog Flavored Water", year: 2000, why: "Measured groove restraint showing his dynamic range" }
+      ]
+    },
+    gear: {
+      title: "Otto's Gear Setup",
+      drumKit: {
+        brand: 'Orange County Drum and Percussion',
+        model: 'OCDP Custom Kit',
+        shells: 'Maple / maple-birch hybrid',
+        finish: 'Custom finishes across touring cycles',
+        config: {
+          kick: '22" Bass Drum (single, with double-kick configuration for heavier sections)',
+          snare: '14" x 6.5" OCDP Custom Snare',
+          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+          floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
+        },
+        description: "Otto's OCDP custom kit gives him the tonal range his cross-genre playing requires. The maple shell construction provides a warm, full fundamental with clear attack — ideal for pocket grooves like \"Nookie\" as well as the explosive, tom-heavy fills that punctuate Limp Bizkit's heavier passages.",
+        affiliateNote: "Pearl Export or Tama Imperialstar offer similar warm maple-shell attack character at a fraction of the cost."
+      },
+      snare: {
+        brand: 'Orange County Drum and Percussion',
+        model: 'OCDP Custom Snare',
+        size: '14" x 6.5"',
+        shell: 'Steel or Maple (custom configuration)',
+        description: "A medium-high tuned 14\" x 6.5\" snare gives Otto both the crack needed to cut through Wes Borland's guitar wall and the sensitivity to register ghost notes and subtle accents from his jazz background.",
+        alternative: "Any steel-shell snare tuned medium-high with light muffling will approximate the cut."
+      },
+      cymbals: {
+        brand: 'Zildjian',
+        series: 'Zildjian A / A Custom Series',
+        setup: [
+          { type: 'Hi-Hats', model: 'Zildjian A 14" New Beat Hi-Hats', notes: 'Classic rock/metal hi-hat that cuts through Limp Bizkit\'s dense live mix' },
+          { type: 'Crash', model: 'Zildjian A Custom 16" Crash', notes: 'Fast, bright crash for accent work' },
+          { type: 'Crash', model: 'Zildjian A 18" Medium Crash', notes: 'Fuller crash for section-ending explosions' },
+          { type: 'Ride', model: 'Zildjian A 20" Medium Ride', notes: 'Versatile ride with clear bell for both groove and jazz-influenced playing' },
+          { type: 'China', model: 'Zildjian A 18" China', notes: 'Aggressive trash accent for the heaviest moments' }
+        ],
+        description: "Otto has been a Zildjian endorser throughout the bulk of his career. The bright, fast-attacking A Series projects at festival volumes, while the lighter A Custom crashes give him the quick-responding accents his syncopated, hip-hop-informed playing needs."
+      },
+      pedals: {
+        brand: 'Gibraltar',
+        model: 'Gibraltar Professional Series',
+        description: "Gibraltar hardware underpins Otto's entire setup, including bass drum pedal infrastructure — road-grade reliability for a band on a global touring schedule spanning arenas and festivals.",
+        alternative: "DW 3000 or Tama Speed Cobra for similarly reliable single or double pedal action at a lower cost."
+      },
+      sticks: {
+        brand: 'Zildjian',
+        model: 'Zildjian 5A Wood Tip',
+        specs: 'Hickory, standard weight',
+        description: "The 5A's balance of mass and sensitivity suits Otto's cross-genre technique — enough weight for heavy crash accents and powerful backbeats, with the touch needed to register ghost notes and syncopated hi-hat work.",
+        alternative: "Promark 5A or Vater Los Angeles 5A for similar balanced feel."
+      },
+      heads: {
+        kick: 'Remo Powerstroke 3 (batter), ported resonant',
+        snare: 'Remo Coated Ambassador (batter), Remo Diplomat Snare Side',
+        toms: 'Remo Emperor Coated',
+        resonant: 'Remo Ambassador Clear'
+      }
+    },
+    tuning: {
+      title: "Tuning for Otto's Nu-Metal Groove Sound",
+      overview: "Otto tunes for punch and articulation that still leaves room for ghost notes to register — every backbeat has to crack, and every quiet aside still has to be audible.",
+      kickDrum: {
+        tension: "Medium-firm",
+        muffling: "Ported resonant, light dampening",
+        description: "A focused Powerstroke 3 attack anchors the groove without excess boom, keeping kick placement clear whether he's playing a single-kick pocket or a double-kick accent burst.",
+        tip: "Avoid heavy muffling — a boomy kick will bury the subtle, hip-hop-influenced placement that defines his groove."
+      },
+      snare: {
+        tension: "Medium-high",
+        muffling: "Minimal",
+        description: "Bright, cutting tuning lets both full-force backbeats and quiet ghost notes register clearly against Limp Bizkit's dense guitar and turntable mix.",
+        tip: "Tune snares wires firm enough for immediate ghost-note response without buzz."
+      },
+      toms: {
+        tension: "Medium",
+        muffling: "Light",
+        description: "Emperor Coated heads add durability for heavy playing while keeping toms sensitive for the melodic, jazz-informed fill phrasing that separates Otto from most nu-metal drummers.",
+        tip: "Keep tom tuning open enough to let fills breathe rather than choking sustain."
+      }
+    },
+    practice: {
+      title: "Developing Otto's Style",
+      exercises: [
+        {
+          name: "Pocket-Delay Drill",
+          description: "Build the hip-hop-informed backbeat placement behind Otto's groove",
+          instructions: "Play a basic backbeat groove against a click track. Consciously place the snare a hair behind the click without dragging the tempo, then compare recordings against playing strictly on the grid.",
+          duration: "15 minutes daily",
+          goal: "A backbeat that feels intentionally behind the beat rather than rushed, dragging, or metronomic"
+        },
+        {
+          name: "Ghost-Note Layering Drill",
+          description: "Develop the jazz-derived ghost-note texture behind Otto's verses",
+          instructions: "Play a simple groove and add quiet ghost notes between the main backbeats, keeping them clearly softer in volume. Gradually increase the pattern's complexity while maintaining the volume gap.",
+          duration: "15 minutes daily",
+          goal: "Ghost notes that add texture without competing in volume with the main backbeat"
+        },
+        {
+          name: "Double-Kick Burst Precision",
+          description: "Build the short, accurate double-kick accents Otto uses on heavier passages",
+          instructions: "Practice 2-4 note double-kick bursts landing precisely on a target accent, rather than sustained double-kick runs. Focus on the burst arriving exactly on the beat, not drifting ahead or behind.",
+          duration: "10 minutes daily",
+          goal: "Clean, precisely-placed double-kick bursts of 2-4 notes on demand"
+        }
+      ],
+      commonMistakes: [
+        "Playing every backbeat strictly on the metronome grid instead of exploring hip-hop-informed pocket placement",
+        "Skipping ghost notes entirely, which flattens verses into the same intensity as choruses",
+        "Overusing sustained double-kick runs instead of Otto's more controlled, accent-based bursts",
+        "Over-muffling the kick drum, which buries the groove's subtle rhythmic placement"
+      ]
+    },
+    budgetSetups: {
+      budget: {
+        price: "$950",
+        label: "Starter Setup",
+        kit: "Pearl Export ($650)",
+        cymbals: "Zildjian ZBT Pack + extra crash ($200)",
+        pedals: "Gibraltar 5711 Single Pedal ($60)",
+        sticks: "Zildjian 5A Wood Tip ($10)",
+        notes: "Pearl's entry-level maple/poplar shells share the warm attack character of Otto's OCDP kit."
+      },
+      mid: {
+        price: "$2,800",
+        label: "Intermediate Setup",
+        kit: "Tama Imperialstar ($900)",
+        cymbals: "Zildjian A full setup ($1,100)",
+        pedals: "DW 3000 Double Pedal ($150)",
+        sticks: "Zildjian 5A Wood Tip ($10)",
+        notes: "A full Zildjian A cymbal setup is the key upgrade — bright projection at festival stage volumes."
+      },
+      pro: {
+        price: "$5,500+",
+        label: "Professional Setup",
+        kit: "OCDP Custom Kit ($2,500+)",
+        cymbals: "Full Zildjian A/A Custom selection ($1,800+)",
+        pedals: "Gibraltar Professional double pedal ($300)",
+        heads: "Full Remo setup ($400)",
+        notes: "Touring-ready setup matching Otto's current Limp Bizkit rig."
+      }
+    },
+    faq: [
+      {
+        question: "What drum kit does John Otto use?",
+        answer: "John Otto plays a custom Orange County Drum and Percussion (OCDP) kit — California-built drums configured to his specifications, with maple shells across a compact four-tom, single-kick (double-kick configurable) setup. Earlier in his career he used Pearl drums during the Three Dollar Bill, Y'all$ era before transitioning to OCDP."
+      },
+      {
+        question: "What makes John Otto's drumming style unique in nu-metal?",
+        answer: "Otto studied jazz at the Douglas Anderson School of the Arts, giving him a ghost-note vocabulary and hip-hop-informed pocket placement that most nu-metal drummers lack. His kick and snare frequently sit a fraction behind the grid rather than locking rigidly to it, and his fills phrase more like a jazz drummer's than a metal drummer's — a synthesis Modern Drummer described as 'grounded in metal, jazz, and hip-hop.'"
+      },
+      {
+        question: "What cymbals and sticks does John Otto play?",
+        answer: "Otto plays Zildjian cymbals — A Series for his hi-hats, crashes, and ride, with lighter A Custom crashes for quick-responding accents — alongside Zildjian 5A Wood Tip sticks. Gibraltar hardware and Remo drumheads round out the setup."
+      },
+      {
+        question: "How do I play a hip-hop-informed backbeat like John Otto?",
+        answer: "Start with the Pocket-Delay Drill: play a basic backbeat against a click and consciously place the snare a fraction behind the beat without dragging the tempo. That micro-delay, borrowed from hip-hop production, is what gives Otto's grooves their forward-pulling feel instead of a rigid metronomic backbeat."
+      },
+      {
+        question: "What should I practice first to sound like John Otto?",
+        answer: "Build the Ghost-Note Layering Drill before anything else — quiet snare hits between the main backbeats at a volume clearly softer than the groove itself. That jazz-derived texture is the foundation his entire dynamic approach is built on, and it's what separates his playing from straight-ahead metal drumming."
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/john-otto',
+      similarDrummers: ['Joey Jordison', 'Shannon Larkin'],
+      relatedGuides: ['how-to-sound-like-joey-jordison', 'how-to-sound-like-shannon-larkin'],
+      gearPages: ['/gear/drums', '/brands/zildjian']
+    },
+    licksUrl: '/drummers/john-otto/licks',
+    relatedArticles: [
+      { slug: 'john-otto-drum-setup', label: "John Otto's Drum Setup — Limp Bizkit Complete Drum Kit Guide" },
+      { slug: 'significant-other-drum-setup', label: 'Significant Other — Limp Bizkit Drum Setup' },
+      { slug: 'chocolate-starfish-drum-setup', label: 'Chocolate Starfish — Limp Bizkit Drum Setup' }
+    ]
+  },
+  'how-to-sound-like-dirk-verbeuren': {
+    slug: 'how-to-sound-like-dirk-verbeuren',
+    drummerId: 22,
+    drummerName: 'Dirk Verbeuren',
+    band: 'Megadeth',
+    genre: 'Thrash Metal / Melodic Death Metal',
+    priority: 47,
+    title: "How to Sound Like Dirk Verbeuren: Complete Gear & Technique Guide",
+    description: "Master Dirk Verbeuren's blast-to-groove hybrid technique. Learn the Megadeth drummer's Tama Starclassic kit, Meinl Byzance cymbal setup, Speed Cobra double pedal precision, and the versatility behind a Grammy-winning career.",
+    seoKeywords: ['dirk verbeuren drums', 'how to sound like dirk verbeuren', 'megadeth drummer technique', 'dirk verbeuren gear', 'dirk verbeuren tama', 'megadeth drum sound'],
+    ogImage: '/images/guides/dirk-verbeuren-guide.webp',
+    datePublished: '2026-07-01',
+    dateModified: '2026-07-01',
+    author: 'MetalForge Editorial',
+    wordCount: 1750,
+    readingTime: '9 min',
+    intro: {
+      title: "Thrash Royalty's Versatile Precision Engine",
+      content: `Dirk Verbeuren (born January 8, 1975, in Belgium) spent 18 years as the precision engine behind Soilwork's melodic death metal before stepping into one of thrash metal's most demanding seats: drummer for Megadeth, one of the genre's Big Four. He joined in 2016 to tour behind *Dystopia*, recorded his full studio debut on *The Sick, the Dying... and the Dead!* (2022), and now carries forward a Megadeth drum chair previously held by Nick Menza.
+
+What makes Verbeuren the right fit is versatility few drummers possess. His Soilwork years built extreme-metal chops — high-speed blasts, relentless double bass — while Megadeth demands something different: locked-in pocket precision that serves Dave Mustaine's dense, progressive riff arrangements without ever losing thrash's forward drive. *Dystopia* (2016) earned Megadeth its first Grammy, Best Metal Performance at the 59th Grammy Awards, with Verbeuren handling all touring and subsequent studio duties.
+
+This guide breaks down the blast-to-groove hybrid technique, the Tama/Meinl gear setup, and the practice approach behind Verbeuren's transition from Swedish death metal to thrash royalty.`,
+      keyPoints: [
+        "Megadeth's drummer since 2016 — full studio debut on The Sick, the Dying... and the Dead! (2022)",
+        "18 years anchoring Soilwork's melodic death metal before joining Megadeth",
+        "Grammy winner: Dystopia (2016) won Best Metal Performance at the 59th Grammy Awards",
+        "Blends extreme-metal blast speed with thrash-precise pocket playing — a rare dual skill set"
+      ]
+    },
+    technique: {
+      title: "Verbeuren's Blast-to-Groove Hybrid Technique",
+      overview: `Verbeuren's playing bridges two disciplines that rarely coexist in one drummer: the extreme-metal blast and double-bass vocabulary he built at Soilwork, and the locked, pocket-first precision Megadeth's dense arrangements demand. He runs a single bass drum with a double pedal, favoring compact, quick-recovery footwork over raw two-kick mass.`,
+      stickGrip: {
+        type: 'Matched Grip',
+        description: "Verbeuren plays a controlled matched grip suited to switching quickly between extreme-metal blast sections and Megadeth's more measured thrash grooves without a technique reset between the two.",
+        tips: [
+          "Practice switching between a full blast beat and a straight thrash groove without a tempo stumble at the transition",
+          "Keep double-kick strokes compact and even — precision under Mustaine-style riff complexity matters more than raw speed",
+          "Use hi-hat and ride voicing shifts to mark song sections rather than relying only on fills"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "Blast-to-Groove Hybrid",
+          description: "Verbeuren carries extreme-metal blast vocabulary from his Soilwork years into Megadeth's thrash context, deploying short blast bursts inside otherwise groove-locked, mid-tempo arrangements.",
+          tempo: "160-220 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Play a straight thrash groove and drop in a 2-4 bar blast beat burst before returning cleanly to the groove — practice the transition, not just each pattern in isolation."
+        },
+        {
+          name: "Locked Double-Kick Thrash Runs",
+          description: "Verbeuren's double bass work under Mustaine's dense riff arrangements stays rhythmically locked to the guitar rather than freely ornamental — every kick placement serves the arrangement.",
+          tempo: "180-210 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Learn a specific riff's rhythm exactly, then build a double-kick pattern that locks precisely to that riff rather than a generic double-bass pattern layered on top."
+        },
+        {
+          name: "Melodic Fill Phrasing",
+          description: "Verbeuren's tom fills use tuned, melodic phrasing rather than pure power — a byproduct of dialing in exact pitch relationships between drums during studio setup.",
+          tempo: "Variable",
+          difficulty: "Intermediate",
+          practiceHint: "Tune your toms to a specific interval relationship (e.g., a descending scale) before practicing fills, then write fills that use that pitch relationship intentionally."
+        }
+      ],
+      keySongs: [
+        { song: "Dystopia", album: "Dystopia", year: 2016, why: "Grammy-winning title track, Verbeuren's debut studio performance with Megadeth" },
+        { song: "Fatal Illusion", album: "Dystopia", year: 2016, why: "Sustained double bass under dense riff arrangements" },
+        { song: "The Sick, the Dying... and the Dead!", album: "The Sick, the Dying... and the Dead!", year: 2022, why: "Full studio integration into Megadeth's sound" },
+        { song: "Tornado of Souls", album: "Rust in Peace (live performances)", year: 1990, why: "Verbeuren's live interpretation of a Megadeth/Menza-era classic" }
+      ]
+    },
+    gear: {
+      title: "Verbeuren's Gear Setup",
+      drumKit: {
+        brand: 'Tama',
+        model: 'Tama Starclassic Maple',
+        shells: 'All-Maple with Star-Cast mounting',
+        finish: 'Custom finishes (varies by tour)',
+        config: {
+          kick: '22" x 18" Bass Drum (single, with double pedal)',
+          snare: '14" x 6.5" Tama S.L.P. G-Maple',
+          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+          floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
+        },
+        description: "Verbeuren's Tama Starclassic Maple kit gives him balanced tone and projection for both melodic death metal precision and classic thrash power. The deeper 22\" x 18\" bass drum provides low-end weight, while the compact rack tom pairing keeps fill transitions fast for Megadeth's complex arrangements. For studio work on Dystopia (2016), he recorded on a DW Collector's Series Maple kit before settling into the current Tama touring setup.",
+        affiliateNote: "Tama Imperialstar or Pearl Export offer similar maple-shell balance at a lower price point."
+      },
+      snare: {
+        brand: 'Tama',
+        model: 'Tama S.L.P. G-Maple',
+        size: '14" x 6.5"',
+        shell: 'Maple with diagonal-seam construction',
+        description: "The S.L.P. G-Maple's diagonal grain construction delivers a warm fundamental with bright overtones that cut through dense guitar arrangements — tuned medium-high for maximum crack and cut.",
+        alternative: "Any maple-shell snare tuned medium-high with tight snare wires will approximate the cut."
+      },
+      cymbals: {
+        brand: 'Meinl',
+        series: 'Meinl Byzance / Mb20',
+        setup: [
+          { type: 'Hi-Hats', model: 'Meinl 14" Byzance Dark Hi-Hats', notes: 'Complex, trashy tone with sharp stick definition' },
+          { type: 'Crash', model: 'Meinl 17" Byzance Brilliant Medium Thin Crash', notes: 'Quick, explosive response for rapid accents' },
+          { type: 'Crash', model: 'Meinl 18"/19" Byzance Crashes', notes: 'Range of crash voices for dynamic variation' },
+          { type: 'Ride', model: 'Meinl 21" Mb20 Heavy Ride', notes: 'Loud, cutting bell that penetrates dense thrash mixes' },
+          { type: 'China', model: 'Meinl 18" Byzance Brilliant China', notes: 'Aggressive accent for classic thrash riff punctuation' }
+        ],
+        description: "Verbeuren opts for Meinl's darker Byzance palette rather than typical bright thrash cymbals, adding depth to Megadeth's sound while the Mb20 ride's cutting bell still penetrates at high stage volumes. This is a change from his Dystopia-era Zildjian A Custom setup."
+      },
+      pedals: {
+        brand: 'Tama',
+        model: 'Tama Speed Cobra 910 Double Pedal',
+        description: "The Speed Cobra 910's Cobra Coil system and Rolling Glide cam deliver consistent, direct-drive response — the mechanical precision Verbeuren's locked double-kick patterns require under Megadeth's demanding arrangements.",
+        alternative: "Tama Iron Cobra or DW 5000 Double for similarly smooth, consistent action at a lower cost."
+      },
+      sticks: {
+        brand: 'Vater',
+        model: 'Vater 5B / Power 5B',
+        specs: 'Hickory, heavier weight',
+        description: "The 5B's added mass drives through cymbals and heads with authority for arena-level performances, while the Power 5B option adds extra attack when needed.",
+        alternative: "Vic Firth 5B or Promark 5B for similar heavier-weight durability."
+      },
+      heads: {
+        kick: 'Evans EMAD2 (batter), Evans EQ3 Black (resonant)',
+        snare: 'Evans G2 Coated (batter), Evans Hazy 300 (resonant)',
+        toms: 'Evans G2 Coated',
+        resonant: 'Evans G1 Clear'
+      }
+    },
+    tuning: {
+      title: "Tuning for Verbeuren's Thrash Sound",
+      overview: "Verbeuren tunes for clean articulation across a wide dynamic range — from extreme-metal blast bursts to Megadeth's more melodic, progressive passages.",
+      kickDrum: {
+        tension: "Medium-firm",
+        muffling: "EMAD2 built-in dampening ring",
+        description: "The EMAD2's controlled attack keeps double-kick strokes distinct under Mustaine's dense riff arrangements without excess boom.",
+        tip: "Use the EMAD2's removable dampening ring to fine-tune attack versus low-end for different rooms."
+      },
+      snare: {
+        tension: "Medium-high",
+        muffling: "Minimal",
+        description: "Bright tuning ensures the snare cuts through thick guitar walls while staying sensitive enough for Megadeth's more dynamic, progressive sections.",
+        tip: "Keep snare wires tight and even for crisp response across both blast bursts and groove sections."
+      },
+      toms: {
+        tension: "Medium, tuned to a deliberate pitch relationship",
+        muffling: "Light",
+        description: "Verbeuren tunes toms with intentional pitch intervals between drums, supporting his melodic fill phrasing rather than treating toms as purely percussive.",
+        tip: "Tune toms to a scale or interval relationship before working out fill patterns — it changes how the fills read musically."
+      }
+    },
+    practice: {
+      title: "Developing Verbeuren's Style",
+      exercises: [
+        {
+          name: "Blast-to-Groove Transition Drill",
+          description: "Build the seamless switching behind Verbeuren's hybrid technique",
+          instructions: "Play a straight thrash groove for 4 bars, drop into a full blast beat for 2-4 bars, then return cleanly to the groove without a tempo stumble at either transition point.",
+          duration: "15 minutes daily",
+          goal: "Clean transitions between blast and groove sections with no tempo drift"
+        },
+        {
+          name: "Riff-Lock Double Bass Drill",
+          description: "Develop the arrangement-locked double-kick precision Megadeth's material demands",
+          instructions: "Learn a specific thrash riff's exact rhythm, then build a double-kick pattern that locks precisely to that riff's accents rather than a generic double-bass pattern layered underneath.",
+          duration: "15 minutes daily",
+          goal: "A double-kick pattern that visibly and audibly tracks a specific riff's rhythm"
+        },
+        {
+          name: "Melodic Fill Construction",
+          description: "Build the tuned, intentional fill phrasing behind Verbeuren's tom work",
+          instructions: "Tune toms to a deliberate interval relationship, then compose (don't improvise) three short fills that use that pitch relationship on purpose.",
+          duration: "10 minutes daily",
+          goal: "Three repeatable fills built around an intentional tom pitch relationship"
+        }
+      ],
+      commonMistakes: [
+        "Treating blast and groove sections as two unrelated skills instead of practicing the transition between them",
+        "Layering double-kick patterns generically instead of locking them to the specific riff being played",
+        "Tuning toms purely for individual tone without considering the pitch relationship between drums",
+        "Defaulting to bright cymbals when a darker Byzance-style voicing better matches modern thrash production"
+      ]
+    },
+    budgetSetups: {
+      budget: {
+        price: "$1,100",
+        label: "Starter Setup",
+        kit: "Tama Imperialstar ($900)",
+        cymbals: "Meinl HCS Pack + extra crash ($150)",
+        pedals: "Tama Speed Cobra HP30 (single, $80)",
+        sticks: "Vater 5B ($10)",
+        notes: "Tama's entry-level Imperialstar shares the same balanced attack character as the Starclassic Maple."
+      },
+      mid: {
+        price: "$3,200",
+        label: "Intermediate Setup",
+        kit: "Tama Superstar Classic ($1,700)",
+        cymbals: "Meinl Byzance full setup ($1,200)",
+        pedals: "Tama Speed Cobra 310 Double ($250)",
+        sticks: "Vater 5B ($10)",
+        notes: "A full Meinl Byzance cymbal setup is the key upgrade — dark, complex tone matching Verbeuren's current sound."
+      },
+      pro: {
+        price: "$6,500+",
+        label: "Professional Setup",
+        kit: "Tama Starclassic Maple ($4,000+)",
+        cymbals: "Full Meinl Byzance/Mb20 selection ($1,800+)",
+        pedals: "Tama Speed Cobra 910 Double ($500)",
+        heads: "Full Evans setup ($400)",
+        notes: "Touring-ready setup matching Verbeuren's current Megadeth rig."
+      }
+    },
+    faq: [
+      {
+        question: "Who is the current Megadeth drummer?",
+        answer: "Dirk Verbeuren has been Megadeth's drummer since 2016, when he joined to tour behind Dystopia. He recorded his full studio debut on The Sick, the Dying... and the Dead! (2022) and continues as the band's drummer, carrying forward a chair previously held by Nick Menza during the band's classic 1990s era."
+      },
+      {
+        question: "What drum kit does Dirk Verbeuren use?",
+        answer: "Verbeuren currently plays a Tama Starclassic Maple kit with all-maple shells and Star-Cast mounting, paired with a Tama S.L.P. G-Maple snare and Meinl Byzance/Mb20 cymbals. For the studio recording of Dystopia (2016), he used a DW Collector's Series Maple kit with Zildjian A Custom cymbals before settling into his current Tama/Meinl touring setup."
+      },
+      {
+        question: "How did Dirk Verbeuren transition from death metal to thrash?",
+        answer: "Verbeuren spent 18 years (1998-2016) as Soilwork's drummer, building extreme-metal chops around high-speed blasts and relentless double bass. When Megadeth needed a permanent drummer after touring Dystopia, Verbeuren's technical foundation combined with disciplined studio preparation — he learned decades of Megadeth's catalogue and recorded Dystopia's tour cycle drum parts in under two weeks at Dave Mustaine's private studio."
+      },
+      {
+        question: "How do I play a blast-to-groove hybrid style like Dirk Verbeuren?",
+        answer: "Start with the Blast-to-Groove Transition Drill: play a straight thrash groove, drop into a full blast beat for a few bars, then return cleanly to the groove without a tempo stumble. Verbeuren's signature isn't raw blast speed — it's switching seamlessly between extreme-metal vocabulary and locked thrash precision within the same song."
+      },
+      {
+        question: "What should I practice first to sound like Dirk Verbeuren?",
+        answer: "Build the Riff-Lock Double Bass Drill first — learn a specific riff's exact rhythm, then construct a double-kick pattern that locks precisely to it rather than layering a generic double-bass pattern on top. Verbeuren's footwork always serves the arrangement rather than existing independently of it."
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/dirk-verbeuren',
+      similarDrummers: ['Nick Menza', 'Chris Adler', 'Art Cruz'],
+      relatedGuides: ['how-to-sound-like-nick-menza', 'how-to-sound-like-art-cruz'],
+      gearPages: ['/gear/drums', '/brands/tama', '/brands/meinl']
+    },
+    licksUrl: '/drummers/dirk-verbeuren/licks',
+    relatedArticles: [
+      { slug: 'whats-in-dirk-verbeurens-kit', label: "What's In Dirk Verbeuren's Megadeth Arsenal — Complete Gear Breakdown" },
+      { slug: 'dystopia-drum-setup', label: "Dirk Verbeuren's Kit on 'Dystopia' — Megadeth Drum Setup" },
+      { slug: 'nick-menza-drum-setup', label: 'Nick Menza Drum Kit & Gear Setup — Megadeth Complete Guide' }
+    ]
+  },
+  'how-to-sound-like-art-cruz': {
+    slug: 'how-to-sound-like-art-cruz',
+    drummerId: 19,
+    drummerName: 'Art Cruz',
+    band: 'Lamb of God',
+    genre: 'Groove Metal / American Metal',
+    priority: 48,
+    title: "How to Sound Like Art Cruz: Complete Gear & Technique Guide",
+    description: "Master Art Cruz's modern groove metal technique. Learn the Lamb of God drummer's syncopated pocket playing, Trick double-pedal precision, Ludwig kit, and Zildjian cymbal setup — the sound behind Omens and the Chris Adler successor era.",
+    seoKeywords: ['art cruz drums', 'how to sound like art cruz', 'lamb of god drummer technique', 'art cruz gear', 'art cruz ludwig', 'groove metal drumming'],
+    ogImage: '/images/guides/art-cruz-guide.webp',
+    datePublished: '2026-07-01',
+    dateModified: '2026-07-01',
+    author: 'MetalForge Editorial',
+    wordCount: 1700,
+    readingTime: '8 min',
+    intro: {
+      title: "Carrying the Torch for American Groove Metal",
+      content: `When Chris Adler departed Lamb of God in 2019, the band needed a drummer who could honor one of groove metal's most demanding drum legacies while bringing fresh energy of his own. Art Cruz (born May 27, 1988, in Downey, California) was that drummer — first filling in on Lamb of God's 2018 North American tour supporting Slayer's farewell run before the position became permanent in 2019.
+
+Cruz brings a distinctive background to the role: deathcore intensity from his years with Winds of Plague, industrial groove sensibility from Prong, and the preparation to learn Adler's intricate back catalogue with respect rather than trying to replicate it note-for-note. His studio debut, the self-titled *Lamb of God* (2020), and the follow-up *Omens* (2022) showcase a band that evolved without losing its identity.
+
+This guide breaks down the syncopated groove-metal pocket, Trick double-pedal footwork, and Ludwig/Zildjian gear setup behind Cruz's sound as Lamb of God's current drummer.`,
+      keyPoints: [
+        "Lamb of God's drummer since 2019, succeeding Chris Adler",
+        "First filled in on the 2018 Slayer Farewell Tour support dates",
+        "Background spans Winds of Plague (deathcore) and Prong (industrial groove)",
+        "Studio albums with Lamb of God: self-titled (2020) and Omens (2022)"
+      ]
+    },
+    technique: {
+      title: "Cruz's Syncopated Groove-Metal Technique",
+      overview: `Cruz's playing serves Lamb of God's syncopated, riff-driven songwriting rather than showcasing technique for its own sake. His single-kick-plus-double-pedal footwork locks tightly to Mark Morton and Willie Adler's guitar syncopation, and his fills stay functional — built to support the riff rather than interrupt it.`,
+      stickGrip: {
+        type: 'Matched Grip',
+        description: "Cruz plays a powerful matched grip built for consistency across Lamb of God's demanding live schedule, prioritizing repeatable accuracy on syncopated patterns over flash.",
+        tips: [
+          "Practice locking your kick pattern exactly to a syncopated guitar riff rather than playing a generic groove underneath it",
+          "Keep fills short and purposeful — most of Cruz's fills exist to set up the next riff, not to stand alone",
+          "Build consistency first, then power — Lamb of God's touring schedule rewards a repeatable technique over an inconsistent, high-effort one"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "Syncopated Groove-Metal Pocket",
+          description: "Cruz locks his kick and snare precisely to Lamb of God's syncopated, off-grid guitar riffs rather than playing a generic straight groove beneath them — the core skill of American groove metal drumming.",
+          tempo: "100-140 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Isolate a syncopated guitar riff and build a kick pattern that hits exactly on its accented notes before adding your own snare and hi-hat pattern around it."
+        },
+        {
+          name: "Trick Pedal Double-Kick Runs",
+          description: "Cruz achieves his footwork from a single bass drum with a Trick double pedal rather than twin kicks, favoring compact, consistent double-kick runs over sheer mass.",
+          tempo: "150-190 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Practice sustained single-pedal double-kick runs for even stroke spacing before adding tempo, rather than jumping straight to top speed."
+        },
+        {
+          name: "Service-First Fills",
+          description: "Cruz's fills are short, functional transitions that set up the next riff rather than technical showcases — a philosophy that respects Lamb of God's riff-first songwriting.",
+          tempo: "Variable",
+          difficulty: "Intermediate",
+          practiceHint: "Write a 1-2 beat fill that leads directly into the next riff's downbeat, and resist the urge to extend it into a longer technical run."
+        }
+      ],
+      keySongs: [
+        { song: "Memento Mori", album: "Lamb of God", year: 2020, why: "Cruz's studio debut with the band — punchy, present snare crack" },
+        { song: "Nevermore", album: "Omens", year: 2022, why: "Syncopated groove-metal pocket at its most refined" },
+        { song: "Grayscale", album: "Omens", year: 2022, why: "Authoritative snare work without overwhelming the guitar arrangement" }
+      ]
+    },
+    gear: {
+      title: "Cruz's Gear Setup",
+      drumKit: {
+        brand: 'Ludwig',
+        model: 'Ludwig Classic Maple',
+        shells: 'Classic Maple',
+        finish: 'Custom finishes (varies by tour)',
+        config: {
+          kick: '22" x 18" Bass Drum (single, with double pedal)',
+          snare: '14" x 6.5" Ludwig Snare (Maple or Brass)',
+          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+          floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
+        },
+        description: "Cruz's Ludwig Classic Maple kit delivers the warm, punchy tone that complements Lamb of God's down-tuned groove metal sound. The 22\" x 18\" bass drum provides low-end punch while maintaining articulation for his intricate double-pedal patterns, and the four-tom spread gives him melodic flexibility for the band's arrangement-heavy compositions.",
+        affiliateNote: "Ludwig Breakbeats or Pearl Export offer similar warm maple-shell tone at a lower price point."
+      },
+      snare: {
+        brand: 'Ludwig',
+        model: 'Ludwig 14" x 6.5" Snare',
+        size: '14" x 6.5"',
+        shell: 'Maple or Brass (depending on tour/recording)',
+        description: "Cruz tunes his snare medium-high — tight enough for articulation but not so high that it loses power, giving him a crack that punctuates Lamb of God's syncopated riffs while cutting through the band's massive wall of guitars.",
+        alternative: "Any 14\" x 6.5\" maple or brass snare tuned medium-high will approximate the cut."
+      },
+      cymbals: {
+        brand: 'Zildjian',
+        series: 'Zildjian A Custom / K Series',
+        setup: [
+          { type: 'Hi-Hats', model: 'Zildjian 14" A Custom Hi-Hats', notes: 'Bright, articulate for fast patterns and groove work' },
+          { type: 'Crash', model: 'Zildjian 17" A Custom Fast Crash', notes: 'Quick response for rapid accents' },
+          { type: 'Crash', model: 'Zildjian 18" A Custom Medium Crash', notes: 'Primary crash with balanced sustain' },
+          { type: 'Ride', model: 'Zildjian A Custom Ride', notes: 'Clear bell definition for riding through groove sections' },
+          { type: 'China', model: 'Zildjian A Custom China', notes: 'Aggressive accent for breakdown punctuation' }
+        ],
+        description: "Cruz's Zildjian A Custom and K Series setup delivers the bright, articulate response his syncopated patterns need, cutting cleanly through Mark Morton and Willie Adler's dense guitar tones without becoming harsh."
+      },
+      pedals: {
+        brand: 'Trick',
+        model: 'Trick Pro 1-V Bigfoot Double Pedal',
+        description: "The Pro 1-V Bigfoot gives Cruz the fast, consistent response his single-kick-plus-double-pedal approach demands, translating his footwork into Lamb of God's driving, syncopated kick patterns.",
+        alternative: "DW 5000 Double or Tama Speed Cobra for similarly smooth, consistent action at a lower cost."
+      },
+      sticks: {
+        brand: 'Vic Firth',
+        model: 'Vic Firth 5B / Power 5B',
+        specs: 'Hickory, heavier weight',
+        description: "The 5B's added weight and durability suit Lamb of God's demanding live schedule and heavy playing, with the Power 5B option giving extra attack for arena-level performances.",
+        alternative: "Promark 5B or Vater Fatback for similar heavier-weight durability."
+      },
+      heads: {
+        kick: 'Evans EMAD2 (batter), Evans EQ3 Black (resonant)',
+        snare: 'Evans G2 Coated or HD Dry (batter), Evans Hazy 300 (resonant)',
+        toms: 'Evans G2 Coated',
+        resonant: 'Evans G1 Clear'
+      }
+    },
+    tuning: {
+      title: "Tuning for Cruz's Groove Metal Sound",
+      overview: "Cruz tunes for punch and presence that projects at arena volumes while staying tight enough to lock precisely with Lamb of God's syncopated riff patterns.",
+      kickDrum: {
+        tension: "Medium-firm",
+        muffling: "EMAD2 built-in dampening ring",
+        description: "A controlled, punchy attack keeps double-pedal strokes distinct and locked to the guitar's syncopation without excess low-end wash.",
+        tip: "Dial in just enough dampening to keep the kick tight without killing the punch that anchors the groove."
+      },
+      snare: {
+        tension: "Medium-high",
+        muffling: "Minimal",
+        description: "A punchy, present snare crack that punctuates syncopated riffs and projects at arena volumes without overwhelming the intricate guitar work underneath.",
+        tip: "Keep snare wires tight for crisp articulation on fast, syncopated patterns."
+      },
+      toms: {
+        tension: "Medium",
+        muffling: "Light",
+        description: "Toms stay articulate and resonant for the functional, service-first fills that transition between Lamb of God's riff sections.",
+        tip: "Keep tom tuning open enough for fills to breathe rather than choking sustain between riff sections."
+      }
+    },
+    practice: {
+      title: "Developing Cruz's Style",
+      exercises: [
+        {
+          name: "Riff-Lock Groove Drill",
+          description: "Build the syncopated pocket-lock behind Cruz's groove-metal approach",
+          instructions: "Isolate a syncopated guitar riff. Build a kick pattern that lands exactly on its accented notes, then layer in a snare and hi-hat pattern that supports rather than competes with that kick pattern.",
+          duration: "15 minutes daily",
+          goal: "A kick pattern that visibly and audibly locks to a specific syncopated riff's accents"
+        },
+        {
+          name: "Double-Pedal Consistency Drill",
+          description: "Develop the even, consistent double-kick footwork behind Cruz's single-kick-plus-double-pedal setup",
+          instructions: "Play sustained single strokes on a double pedal at a moderate tempo, focusing on even stroke spacing and volume. Increase tempo only once spacing stays consistent.",
+          duration: "15 minutes daily",
+          goal: "Evenly spaced, consistent double-kick strokes without volume or spacing drift"
+        },
+        {
+          name: "Service-First Fill Writing",
+          description: "Build the functional, riff-serving fill vocabulary behind Cruz's approach",
+          instructions: "Write a short 1-2 beat fill that leads directly into the next riff's downbeat. Resist extending it into a longer technical run — the goal is a fill that disappears into the song, not one that draws attention to itself.",
+          duration: "10 minutes daily",
+          goal: "Three functional fills, each under two beats, that transition cleanly into a following riff"
+        }
+      ],
+      commonMistakes: [
+        "Playing a generic groove underneath a syncopated riff instead of locking the kick pattern to its specific accents",
+        "Chasing raw double-kick speed before building even stroke spacing and consistency",
+        "Extending fills into technical showcases instead of keeping them short and riff-serving",
+        "Over-muffling the kick drum, which weakens the punch that anchors the groove"
+      ]
+    },
+    budgetSetups: {
+      budget: {
+        price: "$1,000",
+        label: "Starter Setup",
+        kit: "Ludwig Breakbeats ($400)",
+        cymbals: "Zildjian ZBT Pack + extra crash ($200)",
+        pedals: "Trick Dominator single ($200)",
+        sticks: "Vic Firth 5B ($10)",
+        notes: "Ludwig's entry-level maple shells share the warm attack character of the Classic Maple kit."
+      },
+      mid: {
+        price: "$3,000",
+        label: "Intermediate Setup",
+        kit: "Ludwig Classic Maple (entry config, $1,800)",
+        cymbals: "Zildjian A Custom full setup ($1,000)",
+        pedals: "DW 5000 Double ($350)",
+        sticks: "Vic Firth 5B ($10)",
+        notes: "A full Zildjian A Custom cymbal setup is the key upgrade — bright, articulate response for syncopated patterns."
+      },
+      pro: {
+        price: "$6,000+",
+        label: "Professional Setup",
+        kit: "Ludwig Classic Maple, full config ($3,500+)",
+        cymbals: "Full Zildjian A Custom/K selection ($1,800+)",
+        pedals: "Trick Pro 1-V Bigfoot Double ($700)",
+        heads: "Full Evans setup ($400)",
+        notes: "Touring-ready setup matching Cruz's current Lamb of God rig."
+      }
+    },
+    faq: [
+      {
+        question: "Who replaced Chris Adler as Lamb of God's drummer?",
+        answer: "Art Cruz became Lamb of God's drummer in 2019 after Chris Adler's departure. Cruz first filled in on the band's 2018 North American tour supporting Slayer's farewell run, proving he could handle Adler's technically demanding catalogue before the position became permanent."
+      },
+      {
+        question: "What drum kit does Art Cruz use?",
+        answer: "Art Cruz plays a Ludwig Classic Maple kit with a single 22\" x 18\" bass drum and a Trick Pro 1-V Bigfoot double pedal, paired with a 14\" x 6.5\" Ludwig snare in maple or brass depending on the material. His cymbals are Zildjian A Custom and K Series."
+      },
+      {
+        question: "What albums has Art Cruz recorded with Lamb of God?",
+        answer: "Cruz's studio debut with Lamb of God is the band's self-titled album (2020), followed by Omens (2022). Both records show a band that evolved under Cruz's playing without losing the syncopated groove-metal identity Chris Adler established over two decades."
+      },
+      {
+        question: "How do I play syncopated groove metal like Art Cruz?",
+        answer: "Start with the Riff-Lock Groove Drill: isolate a syncopated guitar riff and build a kick pattern that hits exactly on its accented notes before adding snare and hi-hat around it. Cruz's playing works because the kick locks to the riff's specific syncopation rather than running a generic groove underneath it."
+      },
+      {
+        question: "What should I practice first to sound like Art Cruz?",
+        answer: "Build the Double-Pedal Consistency Drill first — sustained single strokes on a double pedal at a moderate tempo with even spacing. Cruz's footwork prioritizes repeatable consistency across a demanding touring schedule over raw one-off speed, and that consistency has to be built before tempo."
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/art-cruz',
+      similarDrummers: ['Chris Adler', 'Vinnie Paul', 'Dirk Verbeuren'],
+      relatedGuides: ['how-to-sound-like-chris-adler', 'how-to-sound-like-dirk-verbeuren'],
+      gearPages: ['/gear/drums', '/brands/ludwig', '/brands/zildjian']
+    },
+    licksUrl: '/drummers/art-cruz/licks',
+    relatedArticles: [
+      { slug: 'whats-in-art-cruzs-kit', label: "What's In Art Cruz' Lamb of God Arsenal — Complete Gear Breakdown" },
+      { slug: 'lamb-of-god-self-titled-drum-setup', label: 'Lamb of God (2020) — Art Cruz Recording Debut Drum Setup' },
+      { slug: 'omens-drum-setup', label: "Omens — Lamb of God Drum Setup (Art Cruz's 2022 Album)" },
+      { slug: 'ashes-of-the-wake-drum-setup', label: 'Ashes of the Wake — Lamb of God Drum Setup' }
+    ]
+  },
 };
 
 // ================================

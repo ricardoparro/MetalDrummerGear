@@ -1623,6 +1623,69 @@ const drummers = [
     ],
     videos: [
     ]
+  },
+  {
+    id: 61,
+    name: 'Alex Bent',
+    band: 'Trivium',
+    genre: 'Modern Metal / Technical Death Metal',
+    genres: ['Metalcore/Djent', 'Death Metal'],
+    country: 'USA',
+    era: '2010s',
+    image: '/images/drummers/alex-bent.webp',
+    bio: 'Alex Bent (born January 31, 1993, in Oakland, California) is an American drummer who served as Trivium\'s drummer from 2017 to 2025, bringing technical death metal precision to the modern metal giants. Before Trivium, he played technical death metal with Brain Drill, Arkaik, and Battlecross, and filled in for Gene Hoglan on Testament tour dates. His work on "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021) elevated Trivium\'s rhythmic complexity.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Alex_Bent'
+    ],
+    gear: {
+      drums: 'Pearl Reference Series',
+      snare: 'Pearl Reference 14x6.5" Maple/Birch',
+      cymbals: 'Meinl Byzance Brilliant Series (14" Medium Hi-Hats, 16", 18" & 19" Medium Thin Crashes, 21" Medium Ride, 18" China)',
+      hardware: 'Axis Percussion Double Pedal',
+      sticks: 'Vic Firth 5B'
+    },
+    photos: [
+      '/images/drummers/alex-bent.webp'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Axis Percussion', url: 'https://www.axispercussion.com' }
+    ],
+    videos: [
+    ]
+  },
+  {
+    id: 62,
+    name: 'Matt Greiner',
+    band: 'August Burns Red',
+    genre: 'Metalcore',
+    genres: ['Metalcore/Djent'],
+    country: 'USA',
+    era: '2000s',
+    image: '/images/drummers/matt-greiner.webp',
+    bio: 'Matt Greiner (born May 2, 1985, in Lancaster, Pennsylvania) is an American drummer and founding member of metalcore band August Burns Red, formed in 2003. Known for jazz-influenced dynamics and technical precision, Greiner has driven the band\'s Grammy-nominated catalog for over two decades and has his own signature Pearl snare drum designed for metalcore applications.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Matt_Greiner',
+      'https://www.augustburnsred.com'
+    ],
+    gear: {
+      drums: 'Pearl Reference Pure',
+      snare: 'Pearl Matt Greiner Signature 14x6" Steel',
+      cymbals: 'Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China)',
+      hardware: 'Pearl Demon Drive Double Pedal',
+      sticks: 'Vic Firth Matt Greiner Signature'
+    },
+    photos: [
+      '/images/drummers/matt-greiner.webp'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+    ]
   }
 ];
 

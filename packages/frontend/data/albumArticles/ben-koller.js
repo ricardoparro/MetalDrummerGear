@@ -584,6 +584,548 @@ export const articles = {
       "content": "Jane Doe stands as one of the defining heavy records of its era — a mathcore masterpiece that fused hardcore, metal, and noise into something genuinely new. Ben Koller's drum setup on the album wasn't about expensive boutique gear or elaborate configurations. It was about a small, hard-touring Tama kit, a single bass drum, a bright cutting snare, and Sabian cymbals — all played with a vocabulary of blast beats, breakdowns, and chaos that drummers have studied ever since.\n\nFor drummers building a Jane Doe-inspired rig, the lessons are about commitment, not catalog price:\n- **Tama Starclassic / Bubinga shells**: Focused attack with a deep fundamental\n- **Single 22\" bass drum**: Trust your foot — Koller does\n- **Brass-shell 14\"x6.5\" snare**: Bright, cutting, tuned medium-high\n- **Sabian HHX / AAX**: Complementary dark and bright voices\n- **Tama Iron Cobra single pedal**: Smooth, consistent feel for single-foot work\n\nTwenty-five years after Jane Doe, the album still sounds violent, articulate, and alive. The drums sit at the center of that — captured by Kurt Ballou with the immediacy his GodCity Studio is now famous for, played by a 23-year-old Ben Koller who would go on to spend the next two decades as one of heavy music's most important drummers."
     }
   },
+  "you-fail-me-drum-setup": {
+    "slug": "you-fail-me-drum-setup",
+    "albumTitle": "You Fail Me",
+    "artist": "Converge",
+    "drummer": "Ben Koller",
+    "drummerId": 34,
+    "relatedDrummerSlug": "ben-koller",
+    "year": 2004,
+    "genre": "Mathcore / Metalcore",
+    "label": "Epitaph Records",
+    "studio": "GodCity Studio, Salem, Massachusetts (additional sessions at Magpie Sound Design and Witch Doctor Studio)",
+    "producer": "Alan Douches, Kurt Ballou",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-30",
+    "dateModified": "2026-06-30",
+    "author": "MetalForge Editorial",
+    "title": "Ben Koller's Drum Setup on Converge's You Fail Me (2004)",
+    "description": "Inside Ben Koller's drum setup for Converge's You Fail Me (2004) — the difficult, rawer follow-up to Jane Doe and the band's first release for Epitaph Records. Tama Starclassic drums, Sabian HHX/AAX cymbals, Tama Iron Cobra pedal, and the gear behind Converge essentials 'Last Light' and 'In Her Shadow.'",
+    "seoKeywords": [
+      "you fail me drum setup",
+      "ben koller you fail me",
+      "converge you fail me drums",
+      "ben koller 2004 kit",
+      "converge epitaph records debut",
+      "what did converge release after jane doe",
+      "kurt ballou godcity you fail me"
+    ],
+    "ogImage": "/images/albums/you-fail-me-drums.webp",
+    "intro": {
+      "title": "The Difficult Second Album (After a Masterpiece)",
+      "content": "Released on September 20, 2004, Converge's You Fail Me was always going to live in a shadow — it was the record that had to follow Jane Doe, the album widely regarded as a genre-defining masterpiece. Rather than chase that record's sound, Converge made You Fail Me rawer, more abrasive, and more emotionally direct. It was also a milestone in its own right: the band's fifth studio album, their first release for Epitaph Records, and their first to chart on the Billboard 200, reaching No. 171.\n\nBen Koller's drum setup on You Fail Me is the sound of a drummer pushing past Jane Doe's template rather than repeating it. Tracked mostly at Kurt Ballou's GodCity Studio in Salem, Massachusetts in March 2004 (with additional sessions at Magpie Sound Design and Witch Doctor Studio), the album was produced by Alan Douches and Kurt Ballou — engineers who pushed for a more abrasive, less polished drum sound than Jane Doe's already-raw production. Tracks like \"First Light,\" \"Last Light,\" \"You Fail Me,\" and \"In Her Shadow\" remain Converge essentials, and Koller's playing on them — still single-kick, still built on the blast-and-breakdown vocabulary he established in 2001 — carries a heavier, more wounded weight than his work on Jane Doe.\n\nKoller's You Fail Me rig kept the core formula intact: Tama Starclassic bubinga shells, a single bass drum, Sabian HHX and AAX cymbals, a Tama Iron Cobra pedal, and Vater signature sticks. What changed wasn't the gear so much as the intent behind it — You Fail Me is a more wounded, less triumphant record than Jane Doe, and Koller's drumming leans into that rawness rather than smoothing it over. This article breaks down the gear behind Converge's most underrated record and the drummer who held it together.",
+      "keyPoints": [
+        "Released September 20, 2004 — Converge's fifth studio album",
+        "First Converge release for Epitaph Records",
+        "First Converge album to chart — No. 171 on the Billboard 200",
+        "Produced by Alan Douches and Kurt Ballou at GodCity Studio",
+        "Home to Converge essentials \"Last Light\" and \"In Her Shadow\"",
+        "Answers the LLM query cluster: what did Converge release after Jane Doe?"
+      ]
+    },
+    "drumKit": {
+      "title": "Koller's You Fail Me Kit: Tama Starclassic, Rawer Tuning",
+      "brand": "Tama",
+      "model": "Tama Starclassic Bubinga (era-appropriate)",
+      "finish": "Piano Black",
+      "config": {
+        "bassdrums": [
+          "22\" Bass Drum (single kick)"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" Floor Tom",
+          "16\" Floor Tom"
+        ],
+        "shells": "Bubinga shells — focused attack with deep low-end fundamental"
+      },
+      "description": "Ben Koller's You Fail Me kit continued directly from Jane Doe: a Tama Starclassic with bubinga shells, the same dense-grain wood that gives his playing its focused punch and deep fundamental. Three years after Jane Doe, the kit itself hadn't changed much — what had changed was how Koller used it.\n\nWhere Jane Doe's drum sound is dry and immediate, You Fail Me pushes further into rawness. Alan Douches and Kurt Ballou reportedly pursued a more abrasive, less controlled drum tone for the album, and Koller's playing meets that intent — heavier rimshots, more committed full-kit hits, less of Jane Doe's mathcore precision and more visceral aggression. The single 22\" bass drum remained Koller's foundation; he never reached for a double pedal even as You Fail Me's songs demanded some of his most physically demanding kick work to date.\n\nThe four-tom layout — 10\" and 12\" racks over 14\" and 16\" floors — stayed consistent with Jane Doe, giving Koller the same melodic range for fills while keeping the kit compact enough for Converge's still-brutal live show. On \"Hanging Moon\" and \"Black Cloud,\" the floor toms carry much of the album's heaviest, slowest passages, with a low-end weight that the bubinga shells were built to deliver.",
+      "notes": [
+        "Same Tama Starclassic bubinga formula as Jane Doe, tuned rawer",
+        "Single 22\" bass drum — no double pedal",
+        "Compact four-tom layout carried over from Jane Doe",
+        "Piano Black finish for stage durability"
+      ],
+      "estimatedValue": "$2,500-3,500 (2004)"
+    },
+    "snare": {
+      "title": "The Snare: Brass and Bruised",
+      "brand": "Tama",
+      "model": "Tama Bell Brass / Starphonic Brass (era-appropriate)",
+      "size": "14\" x 6.5\"",
+      "shell": "Brass shell — bright cut with sustain",
+      "description": "Ben Koller's snare on You Fail Me followed the same brass-shell 14\" x 6.5\" Tama formula he used on Jane Doe — a drum chosen for its bright, cutting attack and strong fundamental. Brass shells produce a faster decay and a sharper crack than wood, which matters enormously for a drummer whose primary stroke is a full-force rimshot.\n\nWhat differs on You Fail Me is the production context. Alan Douches and Kurt Ballou's mix sits the snare slightly drier and more upfront than Jane Doe's already-immediate sound, in keeping with the album's more abrasive character. On tracks like \"You Fail Me\" and \"Eagles Become Vultures,\" the snare lands with a raw, almost overdriven crack that suits the record's bruised emotional tone.\n\nKoller tuned the snare medium-high for cut, with the snare wires tensioned tight to control buzz under the album's sustained distortion. The 6.5\" depth continued to give the drum the extra body and projection his rimshot-driven backbeat needs, whether he's executing a fast mathcore pattern or the slower, sludgier grooves that appear more often on You Fail Me than on Jane Doe.",
+      "tuningSetting": "Medium-high tension, mixed drier and more upfront than Jane Doe",
+      "heads": "Evans G1 Coated batter; Evans 300 snare-side resonant",
+      "estimatedValue": "$400-600 (2004)"
+    },
+    "cymbals": {
+      "title": "The Sabian Arsenal, Carried Forward",
+      "brand": "Sabian",
+      "series": "Sabian HHX / AAX",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Sabian HHX Groove Hats 14\"",
+          "position": "Left side",
+          "notes": "Dark, dry chick for articulate hardcore patterns"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX Stage Crash 18\"",
+          "position": "Left of toms",
+          "notes": "Bright, fast-responding crash for accents"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX Stage Crash 19\"",
+          "position": "Right of toms",
+          "notes": "Fuller crash for the album's heaviest emphasis moments"
+        },
+        {
+          "type": "Ride",
+          "model": "Sabian HHX Raw Bell Dry Ride 21\"",
+          "position": "Far right",
+          "notes": "Dry, defined bell with controlled wash"
+        },
+        {
+          "type": "China",
+          "model": "Sabian AAX Chinese 18\"",
+          "position": "Above floor tom",
+          "notes": "Trashy accent for the album's most violent breakdowns"
+        }
+      ],
+      "description": "Ben Koller's cymbal setup on You Fail Me carried over directly from Jane Doe — Sabian's HHX and AAX series, paired for the same combination of dark complexity and bright explosion. Three years into the relationship, Koller's command of the setup had only grown more precise.\n\nThe 14\" HHX Groove Hats remained the rhythmic anchor, their dark, dry voice keeping rapid patterns articulate against the album's denser, more abrasive guitar tone. The AAX Stage Crashes (18\" and 19\") deliver the same fast, bright attack that punctuated Jane Doe, now deployed across a record with a slightly slower average tempo and more room for each crash to register individually.\n\nThe 21\" HHX Raw Bell Dry Ride does more work on You Fail Me than on Jane Doe — songs like \"Hope Street\" and \"Drop Out\" lean on sustained ride patterns that Jane Doe's faster, more chaotic arrangements rarely allowed. The 18\" AAX Chinese remains Koller's punctuation mark for the record's most violent moments, including the extended breakdown that closes \"Hanging Moon.\"",
+      "estimatedValue": "$1,400-1,800 total (2004)"
+    },
+    "hardware": {
+      "title": "Pedals, Sticks, and Hardware",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra (Power Glide or Rolling Glide)",
+          "notes": "Single pedal — Koller's single-kick approach unchanged from Jane Doe",
+          "description": "The Tama Iron Cobra remained Koller's pedal through the You Fail Me sessions, delivering the smooth, consistent feel his single-foot blast beats and gallops require. Three years of touring on Jane Doe had only deepened his command of the pedal's response."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Lever Glide",
+          "notes": "Heavy-duty stand for sustained aggressive playing"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater Ben Koller signature stick",
+          "notes": "Custom-spec hickory stick balanced for power and rebound"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD Clear (batter), ported resonant",
+        "toms": "Evans G2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Evans G1 Coated (batter), Evans 300 snare-side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "GodCity, Magpie, and Witch Doctor: A Rawer Production",
+      "content": "You Fail Me was tracked primarily at Kurt Ballou's GodCity Studio in Salem, Massachusetts in March 2004, with additional sessions at Magpie Sound Design and Witch Doctor Studio before the album was mixed back at GodCity. The album was produced by Alan Douches and Kurt Ballou — a different combination than Jane Doe, and one that pushed the record's drum sound toward something more abrasive and less controlled.\n\n**Microphone Setup (approximate):**\n- Kick drum: Shure Beta 52 inside, AKG D112 outside\n- Snare: Shure SM57 top, condenser bottom\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat: AKG C451 small-diaphragm condenser\n- Overheads: AKG C414 large-diaphragm condensers\n- Room mics: Ribbon mics for natural ambience\n\n**Production Character:**\nYou Fail Me sits drier and rawer than Jane Doe in places, with less of the earlier album's tightly controlled mathcore precision and more emphasis on visceral impact. The split sessions across three studios — unusual for a Converge record before or since — gave the album a slightly less unified sonic character than the band's GodCity-only releases, which some longtime fans cite as part of why the record feels more bruised and less polished than its predecessor or successor.\n\n**Performance Approach:**\nKoller tracked in live takes with the band, the same approach used on every Converge record. The emotional rawness of You Fail Me — written in the aftermath of difficult personal circumstances for vocalist Jacob Bannon — comes through in performances that prioritize feel over flawless execution.",
+      "keyTechniques": [
+        "Tracked across three studios — unusual for a Converge record",
+        "Rawer, more abrasive production than Jane Doe",
+        "Live tracking preserved Koller's performance energy",
+        "Mixed at GodCity Studio for sonic consistency"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "First Light",
+        "bpm": "~190",
+        "signature": "4/4 with metric shifts",
+        "highlights": [
+          "Album opener — immediate, abrasive intensity",
+          "Single-kick blast beats establish the album's heavier tone",
+          "Sets up the Last Light / First Light bookend structure"
+        ],
+        "gearNotes": "Brass snare cracks through the raw mix. HHX hats lock the fast opening pattern."
+      },
+      {
+        "track": "Last Light",
+        "bpm": "Variable",
+        "signature": "Shifting",
+        "highlights": [
+          "A Converge essential — among the band's most-loved deep cuts",
+          "Wide dynamic range from restrained verses to full-kit explosion",
+          "Demonstrates Koller's ability to serve a slower, heavier groove"
+        ],
+        "gearNotes": "Floor toms carry the heavy half-time sections. AAX crashes mark the dynamic shifts."
+      },
+      {
+        "track": "You Fail Me",
+        "bpm": "~170",
+        "signature": "4/4",
+        "highlights": [
+          "Title track — defines the album's bruised, defiant tone",
+          "Sustained rimshot-driven backbeat throughout",
+          "Single-kick gallop figures under the main riff"
+        ],
+        "gearNotes": "Brass snare cuts through dense guitar layers. China accent punctuates the chorus."
+      },
+      {
+        "track": "In Her Shadow",
+        "bpm": "Variable, building",
+        "signature": "4/4 with tempo shifts",
+        "highlights": [
+          "Another Converge essential and live staple",
+          "Builds from a restrained verse into a violent climax",
+          "Showcases Koller's dynamic control under emotional material"
+        ],
+        "gearNotes": "HHX Raw Bell Dry Ride anchors the buildup. Full-kit explosion at the climax uses the complete cymbal arsenal."
+      }
+    ],
+    "evolution": {
+      "title": "From Jane Doe to You Fail Me: Refining Under Pressure",
+      "content": "You Fail Me sits in an unusual position in Ben Koller's discography — the record that had to follow a masterpiece without simply repeating it. In gear terms, very little changed: the Tama Starclassic bubinga kit, the brass snare, the Sabian HHX/AAX cymbals, and the Tama Iron Cobra single pedal all carried over directly from Jane Doe.\n\nWhat evolved was the production context and the emotional intent behind the playing. Recording across three studios with a different producer pairing (Alan Douches and Kurt Ballou, rather than Ballou alone) gave You Fail Me a rawer, less controlled drum sound than Jane Doe's already-immediate mix. Koller's playing leaned into that — heavier rimshots, more committed dynamics, less of the earlier record's mathematical precision.\n\nThis would be the last Converge record before the band fully settled into the single-producer, single-studio GodCity workflow that defined No Heroes and every album after it.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Starclassic Bubinga (unchanged from Jane Doe)",
+          "now": "Tama Starclassic Performer B/B"
+        },
+        {
+          "category": "Snare",
+          "then": "Tama Brass 14\"x6.5\"",
+          "now": "Tama S.L.P. 14\"x6.5\""
+        },
+        {
+          "category": "Cymbals",
+          "then": "Sabian HHX / AAX",
+          "now": "Zildjian K Custom / A Custom"
+        },
+        {
+          "category": "Production",
+          "then": "Split across GodCity, Magpie, and Witch Doctor — Douches and Ballou",
+          "now": "Fully self-produced at GodCity by Kurt Ballou"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama Iron Cobra (single)",
+          "now": "Tama Iron Cobra (single)"
+        }
+      ]
+    },
+    "relatedAlbums": [
+      "jane-doe-drum-setup",
+      "no-heroes-drum-setup",
+      "axe-to-fall-drum-setup"
+    ],
+    "relatedDrummers": [
+      2,
+      12,
+      4
+    ],
+    "relatedArticles": [
+      "ben-koller-drum-setup"
+    ],
+    "relatedLicks": [],
+    "faq": [
+      {
+        "question": "What drum kit did Ben Koller use on Converge's You Fail Me?",
+        "answer": "Ben Koller recorded You Fail Me in 2004 using the same Tama Starclassic kit with bubinga shells in Piano Black finish that he used on Jane Doe. The configuration included a single 22\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. His snare was a brass-shell Tama 14\" x 6.5\" model, tuned medium-high for cut through the album's rawer, more abrasive mix."
+      },
+      {
+        "question": "What cymbals did Ben Koller use on You Fail Me?",
+        "answer": "Ben Koller used Sabian HHX and AAX cymbals on You Fail Me, the same series he used on Jane Doe and would continue using through Axe to Fall. The setup included Sabian HHX Groove Hats (14\"), Sabian AAX Stage Crashes (18\" and 19\"), a Sabian HHX Raw Bell Dry Ride (21\"), and a Sabian AAX Chinese (18\")."
+      },
+      {
+        "question": "What did Converge release after Jane Doe?",
+        "answer": "Converge's next full-length after Jane Doe (2001) was You Fail Me, released September 20, 2004 on Epitaph Records — the band's first release for that label and their first to chart on the Billboard 200. It was followed by No Heroes (2006) and Axe to Fall (2009). You Fail Me is a rawer, more abrasive record than Jane Doe, tracked partly at Kurt Ballou's GodCity Studio with additional sessions at Magpie Sound Design and Witch Doctor Studio."
+      },
+      {
+        "question": "How does You Fail Me's drum setup differ from Jane Doe?",
+        "answer": "Gear-wise, almost nothing changed — Ben Koller used the same Tama Starclassic bubinga kit, brass snare, Sabian HHX/AAX cymbals, and Tama Iron Cobra single pedal on both records. The difference is in production and intent: You Fail Me was tracked across three studios with producers Alan Douches and Kurt Ballou, resulting in a rawer, less controlled drum sound, and Koller's playing leans into that abrasiveness with heavier rimshots and more committed dynamics than Jane Doe's tightly controlled mathcore precision."
+      }
+    ],
+    "conclusion": {
+      "title": "The Essential Follow-Up",
+      "content": "You Fail Me remains one of the most underrated records in Converge's catalog — a difficult, rawer-edged follow-up to a masterpiece, made without the safety net of repeating what worked. Ben Koller's drum setup on the album barely changed from Jane Doe, and that consistency is the point: the Tama Starclassic bubinga kit, the brass snare, and the Sabian HHX/AAX cymbals gave Koller a reliable foundation while everything else about the record pushed into rawer, more wounded territory.\n\nFor the complete Converge drumming arc:\n- [Ben Koller — Full Drummer Profile](/drummer/ben-koller)\n- [Jane Doe Drum Setup (2001)](/articles/jane-doe-drum-setup) — the mathcore landmark that came before\n- [No Heroes Drum Setup (2006)](/articles/no-heroes-drum-setup) — the next chapter, fully self-produced at GodCity\n- [Axe to Fall Drum Setup (2009)](/articles/axe-to-fall-drum-setup) — the all-star expansion that followed\n\nTwenty years on, \"Last Light\" and \"In Her Shadow\" remain Converge live staples, and Koller's playing on them — built on the same single-kick, Tama-and-Sabian foundation he established on Jane Doe — is proof that the hardest part of following a masterpiece isn't changing your gear. It's trusting it."
+    }
+  },
+  "no-heroes-drum-setup": {
+    "slug": "no-heroes-drum-setup",
+    "albumTitle": "No Heroes",
+    "artist": "Converge",
+    "drummer": "Ben Koller",
+    "drummerId": 34,
+    "relatedDrummerSlug": "ben-koller",
+    "year": 2006,
+    "genre": "Mathcore / Metalcore",
+    "label": "Epitaph Records",
+    "studio": "GodCity Studio, Salem, Massachusetts",
+    "producer": "Kurt Ballou",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-30",
+    "dateModified": "2026-06-30",
+    "author": "MetalForge Editorial",
+    "title": "Ben Koller's Drum Setup on Converge's No Heroes (2006)",
+    "description": "Inside Ben Koller's drum setup for Converge's No Heroes (2006) — the first Converge album Kurt Ballou both recorded and mixed entirely at GodCity Studio. Tama Starclassic drums, Sabian HHX/AAX cymbals, Tama Iron Cobra pedal, and the gear behind the nine-minute epic 'Grim Heart/Black Rose.'",
+    "seoKeywords": [
+      "no heroes drum setup",
+      "ben koller no heroes",
+      "converge no heroes drums",
+      "ben koller 2006 kit",
+      "grim heart black rose drums",
+      "ben koller drum setup converge",
+      "kurt ballou godcity no heroes"
+    ],
+    "ogImage": "/images/albums/no-heroes-drums.webp",
+    "intro": {
+      "title": "Consolidating the Sound: Converge's First Fully Self-Produced Album",
+      "content": "Released October 24, 2006 on Epitaph Records, Converge's No Heroes marks a genuine turning point in the band's recording history: it was the first Converge full-length that Kurt Ballou both recorded and mixed entirely at his own GodCity Studio in Salem, Massachusetts, with no outside producers or split sessions. After Jane Doe's mathcore breakthrough and You Fail Me's rawer, multi-studio follow-up, No Heroes is the sound of Converge consolidating — locking the band's sonic identity into the GodCity-only workflow that would define every subsequent record.\n\nBen Koller's drum setup on No Heroes carries the same Tama Starclassic, brass snare, and Sabian HHX/AAX foundation he used on Jane Doe and You Fail Me, but the playing itself shows a drummer operating with total command of the vocabulary he spent five years developing. Tracks like \"Heartache,\" \"No Heroes,\" \"Plagues,\" and the sprawling 9:34 epic \"Grim Heart/Black Rose\" — which features guest vocalist Jonah Jenkins (Only Living Witness) — give Koller room to move between hardcore's fastest tempos and the record's most patient, dynamically developed passages.\n\n\"Grim Heart/Black Rose\" is the album's defining moment and a major outlier in the Converge catalog: at over nine minutes, it's one of the longest songs the band has ever released, and its slow-building structure forces Koller into a more patient, texturally driven role than the blast-and-breakdown vocabulary of Jane Doe. This article breaks down the gear behind No Heroes and the drummer who held together Converge's most consolidated, confidently self-produced record to date.",
+      "keyPoints": [
+        "Released October 24, 2006 on Epitaph Records — Converge's sixth studio album",
+        "First Converge record fully recorded and mixed by Kurt Ballou alone at GodCity",
+        "\"Grim Heart/Black Rose\" features guest vocalist Jonah Jenkins (Only Living Witness)",
+        "At 9:34, \"Grim Heart/Black Rose\" is among Converge's longest and most patient compositions",
+        "Bridges the gap between You Fail Me (2004) and Axe to Fall (2009) in the Koller arc"
+      ]
+    },
+    "drumKit": {
+      "title": "Koller's No Heroes Kit: Tama Starclassic, Fully Locked In",
+      "brand": "Tama",
+      "model": "Tama Starclassic Bubinga (era-appropriate)",
+      "finish": "Piano Black",
+      "config": {
+        "bassdrums": [
+          "22\" Bass Drum (single kick)"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" Floor Tom",
+          "16\" Floor Tom"
+        ],
+        "shells": "Bubinga shells — focused attack with deep low-end fundamental"
+      },
+      "description": "Ben Koller's No Heroes kit kept the Tama Starclassic bubinga formula that had anchored every Converge record since Jane Doe. By 2006, the relationship between drummer and instrument had become close to instinctive — five years and two prior albums into the same core shell configuration, Koller's tuning and touch on the kit had reached a settled maturity.\n\nThe single 22\" bass drum remained non-negotiable. No Heroes contains some of Koller's fastest sustained kick work to date on tracks like \"Hellbound\" and \"Sacrifice\" — both under two minutes and delivered at hardcore-punk velocity — alongside the patient, almost meditative kick placement that \"Grim Heart/Black Rose\" demands across its nine-and-a-half-minute runtime. That range, executed entirely with one foot, is a hallmark of Koller's technique.\n\nThe compact four-tom layout — 10\" and 12\" racks over 14\" and 16\" floors — gave Koller the melodic vocabulary \"Grim Heart/Black Rose\" needed for its extended, dynamically building structure, while remaining small enough for the hardcore-velocity blasts on the album's shorter tracks. Few Converge records ask a single tom configuration to cover such a wide range of song lengths and tempos.",
+      "notes": [
+        "Same Tama Starclassic bubinga formula carried from Jane Doe and You Fail Me",
+        "Single 22\" bass drum across both 90-second blasts and the 9:34 epic",
+        "Compact four-tom layout suited to extended dynamic builds",
+        "Piano Black finish for stage durability"
+      ],
+      "estimatedValue": "$2,500-3,500 (2006)"
+    },
+    "snare": {
+      "title": "The Snare: Brass Authority, Fully Settled",
+      "brand": "Tama",
+      "model": "Tama Bell Brass / Starphonic Brass (era-appropriate)",
+      "size": "14\" x 6.5\"",
+      "shell": "Brass shell — bright cut with sustain",
+      "description": "Ben Koller's snare on No Heroes continued the brass-shell 14\" x 6.5\" Tama formula he'd used since Jane Doe — a deliberate consistency across three records that gave Kurt Ballou a known quantity to mix around as he took full creative control of the recording process for the first time.\n\nWith Ballou alone behind the board for tracking and mixing, the No Heroes snare sound is the most controlled and confident of the three records in this stretch of Koller's discography. On the album's brief, violent tracks — \"Hellbound,\" \"Vengeance,\" both under a minute — the snare needs to register instantly and decisively. On \"Grim Heart/Black Rose,\" it has to sustain interest and dynamic variation across nine and a half minutes without losing character.\n\nKoller tuned the snare at his familiar medium-high tension, with the brass shell's bright, fast-decaying crack cutting cleanly through Ballou's increasingly confident GodCity production. The drum's 6.5\" depth continued to deliver the extra body his rimshot-driven backbeat depends on, whether the tempo is hardcore-punk-fast or patiently building.",
+      "tuningSetting": "Medium-high tension for cut across both the album's fastest and slowest material",
+      "heads": "Evans G1 Coated batter; Evans 300 snare-side resonant",
+      "estimatedValue": "$400-600 (2006)"
+    },
+    "cymbals": {
+      "title": "The Sabian Arsenal, at Full Maturity",
+      "brand": "Sabian",
+      "series": "Sabian HHX / AAX",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Sabian HHX Groove Hats 14\"",
+          "position": "Left side",
+          "notes": "Dark, dry chick for articulate fast patterns and patient texture work"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX Stage Crash 18\"",
+          "position": "Left of toms",
+          "notes": "Bright, fast-responding crash for accents"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX Stage Crash 19\"",
+          "position": "Right of toms",
+          "notes": "Fuller crash for the album's biggest dynamic arrivals"
+        },
+        {
+          "type": "Ride",
+          "model": "Sabian HHX Raw Bell Dry Ride 21\"",
+          "position": "Far right",
+          "notes": "Dry, defined bell — extended use on \"Grim Heart/Black Rose\""
+        },
+        {
+          "type": "China",
+          "model": "Sabian AAX Chinese 18\"",
+          "position": "Above floor tom",
+          "notes": "Trashy accent for the album's most violent moments"
+        }
+      ],
+      "description": "Ben Koller's cymbal setup on No Heroes is the same Sabian HHX/AAX combination he'd used since Jane Doe, now deployed with the confidence of a drummer fully comfortable with his tools. The dark complexity of the HHX series and the bright explosion of the AAX series cover the full range No Heroes demands — from sub-minute hardcore blasts to the patient, nine-minute build of the album's centerpiece.\n\nThe 14\" HHX Groove Hats remain the rhythmic anchor across the record's wide tempo range. On \"Grim Heart/Black Rose,\" the hats' controlled, dry voice supports the song's slow-building verses without overwhelming Jonah Jenkins' guest vocal, then opens up as the arrangement intensifies toward its climax.\n\nThe HHX Raw Bell Dry Ride gets its most extended workout yet in Koller's catalog on \"Grim Heart/Black Rose\" — its dry wash and defined bell give the song's long, patient sections a textural anchor that a brighter ride couldn't provide. The AAX crashes and Chinese cymbal handle their familiar duties on the album's faster, more violent tracks, where No Heroes returns repeatedly to the blast-and-breakdown attack that's been Koller's signature since 2001.",
+      "estimatedValue": "$1,400-1,800 total (2006)"
+    },
+    "hardware": {
+      "title": "Pedals, Sticks, and Hardware",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra (Power Glide or Rolling Glide)",
+          "notes": "Single pedal — Koller's single-kick approach unchanged across three albums",
+          "description": "The Tama Iron Cobra remained Koller's pedal of choice for No Heroes, delivering the consistent feel needed for both the album's sub-minute hardcore blasts and the patient, sustained kick work of \"Grim Heart/Black Rose.\""
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Lever Glide",
+          "notes": "Heavy-duty stand for sustained aggressive playing"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater Ben Koller signature stick",
+          "notes": "Custom-spec hickory stick balanced for power and rebound"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD Clear (batter), ported resonant",
+        "toms": "Evans G2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Evans G1 Coated (batter), Evans 300 snare-side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "GodCity Alone: Kurt Ballou Takes Full Control",
+      "content": "No Heroes was the first Converge album that Kurt Ballou recorded, engineered, and mixed entirely by himself at GodCity Studio in Salem, Massachusetts — no outside producers, no split sessions across multiple studios, the workflow that has defined every Converge record since. After You Fail Me's more fragmented production across three locations, No Heroes represents Ballou's full creative ownership of the band's sound for the first time.\n\n**Microphone Setup (approximate):**\n- Kick drum: Shure Beta 52 inside, AKG D112 outside\n- Snare: Shure SM57 top, condenser bottom\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat: AKG C451 small-diaphragm condenser\n- Overheads: AKG C414 large-diaphragm condensers\n- Room mics: Ribbon mics for natural ambience\n\n**Production Character:**\nWith full control over both tracking and mixing, Ballou's No Heroes drum sound is more cohesive and confident than You Fail Me's split-studio approach. The dry, immediate GodCity character remains, but the album moves more fluidly between its sub-minute hardcore tracks and \"Grim Heart/Black Rose\"'s extended, dynamically developed structure — a range that a single producer with full creative control was better positioned to manage than the multi-studio You Fail Me sessions.\n\n**Performance Approach:**\nKoller tracked in live takes with the band, as on every Converge record. \"Grim Heart/Black Rose\" required more rehearsal precision than the album's shorter tracks given its scale, but the recording approach — capture the performance, minimal post-production manipulation — remained consistent with GodCity's house philosophy.",
+      "keyTechniques": [
+        "First Converge album recorded and mixed entirely by Kurt Ballou alone",
+        "More cohesive production than You Fail Me's split-studio sessions",
+        "Live tracking preserved performance energy across wildly varying song lengths",
+        "Close-miked GodCity immediacy retained on both fast and patient material"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Hellbound",
+        "bpm": "~220",
+        "signature": "4/4",
+        "highlights": [
+          "Under 70 seconds of pure hardcore velocity",
+          "Single-kick blast beats sustained at peak tempo",
+          "Demonstrates Koller's efficiency at extreme speed"
+        ],
+        "gearNotes": "Brass snare cuts cleanly even at peak velocity. HHX hats lock the blistering tempo."
+      },
+      {
+        "track": "No Heroes",
+        "bpm": "~190",
+        "signature": "4/4 with shifts",
+        "highlights": [
+          "Title track — defines the album's consolidated sound",
+          "Backing vocals from Kevin Baker add texture",
+          "Full-kit dynamics across the song's structure"
+        ],
+        "gearNotes": "AAX crashes mark the song's structural transitions. Snare drives the verses."
+      },
+      {
+        "track": "Plagues",
+        "bpm": "Variable",
+        "signature": "Shifting",
+        "highlights": [
+          "Mid-album dynamic showcase",
+          "Builds tension before \"Grim Heart/Black Rose\"",
+          "Shows Koller's command of tempo and feel shifts"
+        ],
+        "gearNotes": "China and floor toms drive the breakdown sections."
+      },
+      {
+        "track": "Grim Heart/Black Rose",
+        "bpm": "Slow, building throughout",
+        "signature": "4/4, extended structure",
+        "highlights": [
+          "9:34 runtime — among the longest songs in Converge's catalog",
+          "Features guest vocalist Jonah Jenkins (Only Living Witness)",
+          "Koller's most patient, texturally driven performance to date",
+          "Builds from restrained verses to a full-intensity climax"
+        ],
+        "gearNotes": "HHX Raw Bell Dry Ride anchors the long, patient build. Full cymbal arsenal deployed at the climax."
+      }
+    ],
+    "evolution": {
+      "title": "From You Fail Me to No Heroes: Consolidation",
+      "content": "No Heroes represents the consolidation point in Ben Koller's early Converge career. The gear stayed essentially identical to Jane Doe and You Fail Me — Tama Starclassic bubinga shells, brass snare, Sabian HHX/AAX cymbals, Tama Iron Cobra single pedal — but the context around it had matured. Kurt Ballou's full creative control over recording and mixing, after the more fragmented You Fail Me sessions, gave Koller's playing a more confident, settled production home.\n\nThe arrival of \"Grim Heart/Black Rose\" also expanded what Koller's drumming needed to do. Nothing in his Jane Doe or You Fail Me catalog asked him to sustain interest and dynamic development across nine and a half minutes — No Heroes proved he could do it without losing the rhythmic urgency that defines his shorter, faster material.\n\nThis consolidated GodCity-only workflow, established on No Heroes, would carry forward into the more ambitious, guest-heavy Axe to Fall three years later.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Starclassic Bubinga (unchanged since Jane Doe)",
+          "now": "Tama Starclassic Performer B/B"
+        },
+        {
+          "category": "Snare",
+          "then": "Tama Brass 14\"x6.5\"",
+          "now": "Tama S.L.P. 14\"x6.5\""
+        },
+        {
+          "category": "Cymbals",
+          "then": "Sabian HHX / AAX",
+          "now": "Zildjian K Custom / A Custom"
+        },
+        {
+          "category": "Production",
+          "then": "First album fully recorded and mixed by Kurt Ballou alone at GodCity",
+          "now": "Same self-produced GodCity workflow, fully matured"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama Iron Cobra (single)",
+          "now": "Tama Iron Cobra (single)"
+        }
+      ]
+    },
+    "relatedAlbums": [
+      "you-fail-me-drum-setup",
+      "jane-doe-drum-setup",
+      "axe-to-fall-drum-setup"
+    ],
+    "relatedDrummers": [
+      2,
+      12,
+      4
+    ],
+    "relatedArticles": [
+      "ben-koller-drum-setup"
+    ],
+    "relatedLicks": [],
+    "faq": [
+      {
+        "question": "What drum kit did Ben Koller use on Converge's No Heroes?",
+        "answer": "Ben Koller recorded No Heroes in 2006 using the same Tama Starclassic kit with bubinga shells in Piano Black finish that anchored Jane Doe and You Fail Me. The configuration included a single 22\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. His snare was a brass-shell Tama 14\" x 6.5\" model, tuned medium-high for cut."
+      },
+      {
+        "question": "What cymbals did Ben Koller use on No Heroes?",
+        "answer": "Ben Koller used Sabian HHX and AAX cymbals on No Heroes — the same combination he used on Jane Doe and You Fail Me, and would carry through Axe to Fall. The setup included Sabian HHX Groove Hats (14\"), Sabian AAX Stage Crashes (18\" and 19\"), a Sabian HHX Raw Bell Dry Ride (21\"), and a Sabian AAX Chinese (18\"). The Raw Bell Dry Ride gets extended use on the nine-minute \"Grim Heart/Black Rose.\""
+      },
+      {
+        "question": "Who guests on Converge's 'Grim Heart/Black Rose'?",
+        "answer": "\"Grim Heart/Black Rose,\" the 9:34 centerpiece of No Heroes, features guest lead vocals from Jonah Jenkins, formerly of the Boston-area metal band Only Living Witness. It's one of the longest and most patiently structured songs in Converge's catalog, and Ben Koller's drumming on it is correspondingly more restrained and texturally driven than his work on the album's faster tracks."
+      },
+      {
+        "question": "How does No Heroes' drum setup differ from You Fail Me and Jane Doe?",
+        "answer": "Gear-wise, almost nothing changed across all three records — Ben Koller used the same Tama Starclassic bubinga kit, brass snare, Sabian HHX/AAX cymbals, and Tama Iron Cobra single pedal on Jane Doe, You Fail Me, and No Heroes. What changed was the production: No Heroes was the first Converge album that Kurt Ballou recorded and mixed entirely by himself at GodCity Studio, without the split-studio approach used on You Fail Me. That full creative control gave the album a more cohesive, confident sound, and Koller's performance on the extended \"Grim Heart/Black Rose\" shows him handling a far wider dynamic and structural range than either prior record demanded."
+      }
+    ],
+    "conclusion": {
+      "title": "The Consolidation Before the Expansion",
+      "content": "No Heroes is the quiet turning point in Converge's catalog — not as immediately celebrated as Jane Doe or as ambitious as Axe to Fall, but the record where Kurt Ballou's full creative control at GodCity Studio and Ben Koller's matured command of his Tama/Sabian rig locked into the workflow that would define the band for the next two decades. \"Grim Heart/Black Rose,\" with its patient nine-and-a-half-minute build and Jonah Jenkins guest vocal, remains the album's boldest statement and a high-water mark for Koller's dynamic control.\n\nFor the complete Converge drumming arc:\n- [Ben Koller — Full Drummer Profile](/drummer/ben-koller)\n- [Jane Doe Drum Setup (2001)](/articles/jane-doe-drum-setup) — the mathcore landmark that started it all\n- [You Fail Me Drum Setup (2004)](/articles/you-fail-me-drum-setup) — the difficult, rawer follow-up\n- [Axe to Fall Drum Setup (2009)](/articles/axe-to-fall-drum-setup) — the all-star expansion that followed\n\nNo Heroes proved that Converge's sound didn't need reinvention to keep evolving — just a band and a studio that finally had each other figured out. Ben Koller's drumming, built on the same single-kick Tama and Sabian foundation he'd used since 2001, carried that consolidation from the album's 67-second blasts all the way to its nine-and-a-half-minute centerpiece."
+    }
+  },
   "all-we-love-we-leave-behind-drum-setup": {
     "slug": "all-we-love-we-leave-behind-drum-setup",
     "albumTitle": "All We Love We Leave Behind",

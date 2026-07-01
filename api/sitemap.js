@@ -233,6 +233,9 @@ const soundLikeGuides = [
   { slug: 'how-to-sound-like-ben-koller', name: 'How to Sound Like Ben Koller' },
   { slug: 'how-to-sound-like-vinnie-paul', name: 'How to Sound Like Vinnie Paul' },
   { slug: 'how-to-sound-like-blake-richardson', name: 'How to Sound Like Blake Richardson' },
+  // Issue #2884: SEO batch — Jocke Wallgren, Chris Turner (re-scoped from batch 29)
+  { slug: 'how-to-sound-like-jocke-wallgren', name: 'How to Sound Like Jocke Wallgren' },
+  { slug: 'how-to-sound-like-chris-turner', name: 'How to Sound Like Chris Turner' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

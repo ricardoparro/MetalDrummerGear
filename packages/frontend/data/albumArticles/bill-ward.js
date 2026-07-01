@@ -643,6 +643,336 @@ export const articles = {
       "content": "*Sabbath Bloody Sabbath* finds Bill Ward at his most musically versatile — driving the tritone-riffed title track with the same riff-locked precision he'd developed on earlier albums, then shifting into the more textured, dynamically varied playing demanded by \"A National Acrobat\" and \"Spiral Architect.\" The bigger Ludwig kit and deeper Supraphonic snare gave him the tools; the self-produced sessions at Morgan Studios (after the band's unconventional writing stint at Clearwell Castle) gave him the time to use them.\n\n**For Drummers Studying *Sabbath Bloody Sabbath*:** the title track teaches controlled, stop-start kick placement rather than continuous patterns. \"A National Acrobat\" rewards close listening to how Ward shifts dynamics within irregular phrase lengths. \"Spiral Architect\" shows how a drummer can support an orchestrated arrangement without disappearing into it.\n\nFor the rest of Ward's gear evolution through Black Sabbath's catalog, see the [Master of Reality drum setup](/articles/master-of-reality-drum-setup), recorded two years earlier, and the [Bill Ward drummer profile](/drummer/bill-ward).\n\n🥁 *The album where Black Sabbath got ambitious — and Bill Ward's bigger Ludwig kit was right there to support it.* 🥁"
     }
   },
+  "sabotage-drum-setup": {
+    "slug": "sabotage-drum-setup",
+    "albumTitle": "Sabotage",
+    "artist": "Black Sabbath",
+    "drummer": "Bill Ward",
+    "drummerId": 30,
+    "relatedDrummerSlug": "bill-ward",
+    "year": 1975,
+    "genre": "Heavy Metal / Progressive Metal",
+    "label": "Vertigo Records",
+    "studio": "Morgan Studios, London",
+    "producer": "Black Sabbath",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Bill Ward's Drum Setup on Black Sabbath's Sabotage (1975)",
+    "description": "Bill Ward's drum setup for Sabotage (1975) — the Ludwig kit and Paiste 2002 cymbals behind \"Symptom of the Universe,\" Black Sabbath's most technically demanding album of the original era.",
+    "seoKeywords": [
+      "sabotage drums",
+      "bill ward sabotage drum setup",
+      "bill ward 1975 drum kit",
+      "symptom of the universe drums",
+      "bill ward drum set"
+    ],
+    "ogImage": "/images/albums/sabotage-drums.webp",
+    "intro": {
+      "title": "Black Sabbath's Most Technically Demanding Album",
+      "content": "Recorded during a period of mounting legal turmoil — the album's title is a direct reference to the lawsuits the band was fighting with former management — *Sabotage* (1975) is widely regarded as the last great Black Sabbath album of the original lineup's most progressive stretch. Self-produced at Morgan Studios in London, it pushed the band's arrangements further than *Vol. 4* or *Sabbath Bloody Sabbath* had, layering multi-part song structures, orchestral overdubs, and tempo shifts onto material that still hit as hard as anything on *Paranoid*.\n\nNo track demanded more from Bill Ward than \"Symptom of the Universe.\" Often cited as a direct ancestor of thrash metal, the song pairs a galloping, palm-muted riff with a driving, syncopated groove before dissolving into an extended acoustic jam — a structural and technical leap that required Ward to shift between aggressive, riff-locked playing and loose, jazz-informed feel within a single track. Bassist Geezer Butler later called the *Sabotage* sessions the most the band ever pushed itself musically, and Ward's drumming across the record backs that up: this is his most technically ambitious performance in a Black Sabbath album.\n\nThis article breaks down the Ludwig kit and expanded Paiste 2002 cymbal setup Ward used to record *Sabotage* — gear that reflects a band still committed to Ludwig drums but reaching for a very different cymbal voice than the Zildjian bronze heard on *Paranoid* and *Master of Reality*.",
+      "keyPoints": [
+        "Recorded at Morgan Studios, London, and self-produced by the band during a period of legal disputes with former management",
+        "\"Symptom of the Universe\" is frequently cited as a direct precursor to thrash metal",
+        "Bill Ward's most technically and dynamically demanding performance of Black Sabbath's original run",
+        "Cymbal setup switched from Avedis Zildjian to an expanded Paiste 2002 lineup, including a China cymbal"
+      ]
+    },
+    "drumKit": {
+      "title": "Bill Ward's Ludwig Kit: A Third Tom for Sabbath's Most Ambitious Arrangements",
+      "brand": "Ludwig",
+      "model": "Ludwig Standard Maple",
+      "finish": "Natural Maple",
+      "config": {
+        "bassdrums": [
+          "22\" x 14\" Bass Drum"
+        ],
+        "toms": [
+          "13\" x 9\" Rack Tom",
+          "14\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Natural maple shells, vintage 1970s construction"
+      },
+      "description": "For *Sabotage*, Ward moved back to a 22\" bass drum after the brief jump to 24\" on *Sabbath Bloody Sabbath*, but expanded his tom configuration with an added 14\" rack tom — giving him three toms in total for the first time in his Sabbath tenure. That extra voice mattered on a record built around multi-part songs like \"Megalomania\" and \"Symptom of the Universe,\" where Ward needed a wider tonal palette to punctuate the shifts between sections rather than just driving a single riff.\n\nThe kit also marked a return to natural maple shells rather than the Vistalite acrylic Ward had used for live stage work — a choice suited to the more nuanced, dynamically varied playing *Sabotage*'s progressive arrangements demanded. Where \"Hole in the Sky\" opens the album with the same riff-locked aggression heard on earlier records, \"Symptom of the Universe\" pushes the kit into genuinely new territory: a fast, palm-muted gallop in the verses that anticipates thrash metal, followed by an extended acoustic jam that calls for a completely different touch from the same setup.\n\nSelf-producing for a second consecutive album gave the band more studio time than the four-day sprint that produced *Paranoid*, and Ward used that time to record some of his most structurally complex drum parts — particularly on \"Supertzar,\" where the kit sits underneath a full choir arrangement.",
+      "notes": [
+        "Bass drum back to 22\" after the 24\" used on Sabbath Bloody Sabbath",
+        "Third tom (14\") added — Ward's widest tom configuration to date",
+        "Returned to natural maple shells after Vistalite acrylic use on stage",
+        "Extended studio time (self-produced, second consecutive album) allowed for more structurally complex parts"
+      ],
+      "estimatedValue": "$1,100–1,900 (1975) / $6,500–16,000 (vintage today)"
+    },
+    "snare": {
+      "title": "Ludwig Supraphonic: Unchanged Because It Didn't Need to Change",
+      "brand": "Ludwig",
+      "model": "Ludwig Supraphonic 400 (LM402)",
+      "size": "14\" x 6.5\"",
+      "shell": "Seamless aluminum (Ludalloy)",
+      "description": "Ward carried the Ludwig Supraphonic straight over from *Sabbath Bloody Sabbath* — by 1975 his backbeat sound was already locked in, and *Sabotage*'s more ambitious arrangements needed a familiar, reliable snare rather than another variable. The Supraphonic's seamless aluminum shell continued to deliver the bright crack that had defined Ward's sound since he switched from the thinner Acrolite two years earlier.\n\nOn \"Symptom of the Universe,\" the snare lands with considerably more aggression than anything on *Sabbath Bloody Sabbath* — Ward digs in harder on the galloping verse riff, foreshadowing the more percussive snare approach that thrash drummers would adopt within a few years. \"Megalomania\" shows the opposite end of his range, with a lighter, more textured touch across the song's slow-building, multi-part structure. \"The Writ\" closes the album with some of Ward's most dynamically varied snare work on any Sabbath record, shifting between restrained verses and full-force choruses.",
+      "tuningSetting": "Medium tension, consistent with the Sabbath Bloody Sabbath sessions",
+      "heads": "Remo Emperor (batter), Remo Ambassador Coated (resonant)",
+      "estimatedValue": "$75–120 (1975) / $200–450 (vintage today)"
+    },
+    "cymbals": {
+      "title": "Paiste 2002: A New Voice for Sabbath's Most Progressive Record",
+      "brand": "Paiste",
+      "series": "Paiste 2002",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste 2002 15\" Sound Edge Hi-Hats",
+          "position": "Left side",
+          "notes": "Larger and brighter than the Zildjian 14\" hi-hats used on earlier Sabbath albums"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 18\" Crash",
+          "position": "Above rack toms",
+          "notes": "Used for tighter accents in the more structured sections"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 20\" Crash",
+          "position": "Right of rack toms",
+          "notes": "Bigger wash for the album's larger dynamic swings"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste 2002 24\" Ride",
+          "position": "Far right",
+          "notes": "Carries the extended sections of Megalomania and the choir-backed Supertzar"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 18\" China",
+          "position": "Near floor tom",
+          "notes": "New addition for Sabotage — used for exotic, textured accents in the album's more progressive passages"
+        }
+      ],
+      "description": "*Sabotage* marks Ward's switch from the Avedis Zildjian bronze he'd used since *Paranoid* to an expanded Paiste 2002 setup — a brighter, more cutting cymbal voice better suited to the album's denser, more aggressive production. The larger 15\" hi-hats and 24\" ride gave Ward a fuller, more commanding top end, while the addition of an 18\" China cymbal was new territory entirely: Ward had never used one on a prior Sabbath record.\n\nThe China's trashy, exotic tone shows up in the more textured, progressive passages of \"Megalomania\" and \"Supertzar,\" giving Ward an accent color that the earlier Zildjian-only setup couldn't provide. On \"Symptom of the Universe,\" the crashes land harder and more frequently during the galloping verse riff than anything on *Sabbath Bloody Sabbath*, matching the track's more aggressive, proto-thrash energy. The 24\" ride's size and wash suited the album's more orchestrated moments, carrying the groove under \"Supertzar\"'s full choir arrangement without getting buried.",
+      "estimatedValue": "$500–850 total (1975) / $2,800–5,500 (vintage today)"
+    },
+    "hardware": {
+      "title": "Ludwig Atlas Hardware: Built for a Bigger Stage",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Ludwig",
+          "model": "Ludwig Speed King",
+          "notes": "Single pedal — Ward's technique, not extra hardware, drives the more aggressive Sabotage material",
+          "description": "Despite \"Symptom of the Universe\" requiring some of the fastest, most driving kick work of Ward's Sabbath career, he stuck with the same Ludwig Speed King single pedal he'd used since the band's debut. The galloping verse pattern — a clear precursor to thrash metal's kick-drum vocabulary — is executed entirely with one foot."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Ludwig",
+          "model": "Ludwig Atlas Hi-Hat Stand",
+          "notes": "Upgraded to Ludwig's heavier-duty Atlas line as the band's stage production grew with arena touring"
+        },
+        {
+          "type": "Throne",
+          "brand": "Ludwig",
+          "model": "Ludwig Atlas Throne",
+          "notes": "Part of the same Atlas hardware upgrade"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Ludwig",
+          "model": "Ludwig 2B Hickory",
+          "notes": "Heavier stick than the Pro-Mark 5A/5B equivalents used on earlier albums, suited to the more aggressive material"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Ambassador Clear",
+        "toms": "Remo Emperor (double-ply, for durability on the heavier material)",
+        "snare": "Remo Emperor (batter), Remo Ambassador Coated (resonant)"
+      }
+    },
+    "trackAnalysis": [
+      {
+        "track": "Hole in the Sky",
+        "bpm": "132–138",
+        "signature": "4/4",
+        "highlights": [
+          "Opens the album with a driving, riff-locked groove reminiscent of the band's early proto-metal work",
+          "Ward's hi-hat work on the new Paiste 15\" pair is immediately audible — brighter and more cutting than the Zildjian setup",
+          "Tight, aggressive snare placement sets the tone for the album's heavier moments"
+        ],
+        "gearNotes": "The Paiste 2002 hi-hats give the track a noticeably brighter top end than Sabbath Bloody Sabbath."
+      },
+      {
+        "track": "Symptom of the Universe",
+        "bpm": "170–180 (verse), slowing for the acoustic outro",
+        "signature": "4/4",
+        "highlights": [
+          "Widely cited as one of the earliest direct ancestors of thrash metal",
+          "Ward's fast, palm-muted-riff-locked kick pattern anticipates the genre by nearly a decade",
+          "Extended acoustic jam in the outro shows his jazz-rooted dynamic range within a single track"
+        ],
+        "gearNotes": "The 22\" bass drum and single Speed King pedal drive the galloping verse groove entirely through technique, not extra hardware."
+      },
+      {
+        "track": "Megalomania",
+        "bpm": "70–150 (multiple tempo and feel changes)",
+        "signature": "4/4, shifting",
+        "highlights": [
+          "One of Sabbath's longest and most structurally ambitious songs, moving through several distinct sections",
+          "Ward's added 14\" tom and Paiste China cymbal both get used for the first time across the song's shifting textures",
+          "Builds from a slow, brooding opening into a driving, triumphant close"
+        ],
+        "gearNotes": "The three-tom configuration gives Ward more tonal range for the song's transitions between sections."
+      },
+      {
+        "track": "Supertzar",
+        "bpm": "76–84",
+        "signature": "4/4",
+        "highlights": [
+          "Features a full choir (the English Chamber Choir) arranged by Will Malone",
+          "Ward's playing stays restrained and orchestral, supporting rather than driving the arrangement",
+          "The 24\" Paiste ride's wash and sustain sit naturally underneath the choral arrangement"
+        ],
+        "gearNotes": "Demonstrates Ward's restraint — the drum part is sparse by design, letting the choir carry the track."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Bill Ward use on Sabotage?",
+        "answer": "Bill Ward recorded *Sabotage* (1975) on a Ludwig Standard Maple kit — a 22\" bass drum, two rack toms (13\" and a newly added 14\"), and a 16\" floor tom in natural maple finish. The added third tom gave him more tonal range for the album's multi-part song structures, particularly on \"Megalomania.\" For the full arc of Ward's gear through Black Sabbath's catalog, see the [Bill Ward drummer profile](/drummer/bill-ward)."
+      },
+      {
+        "question": "What cymbals did Bill Ward use on Sabotage?",
+        "answer": "Ward switched from the Avedis Zildjian cymbals he'd used since *Paranoid* to an expanded Paiste 2002 setup for *Sabotage* — 15\" hi-hats, 18\" and 20\" crashes, a 24\" ride, and, for the first time, an 18\" Paiste 2002 China cymbal. The China's exotic, trashy tone gave Ward a new textural color for the album's more progressive passages, particularly on \"Megalomania\" and \"Supertzar.\" See the [Sabbath Bloody Sabbath drum setup](/articles/sabbath-bloody-sabbath-drum-setup) for the Zildjian-based setup Ward used just two years earlier."
+      },
+      {
+        "question": "What kit did Bill Ward use on Symptom of the Universe?",
+        "answer": "Bill Ward played the same Ludwig Standard Maple kit and Paiste 2002 cymbal setup used across the entire *Sabotage* album on \"Symptom of the Universe\" — a 22\" bass drum, Ludwig Speed King single pedal, and Ludwig Supraphonic snare. What sets the track apart isn't different gear but different technique: Ward's fast, palm-muted-riff-locked kick pattern in the verses is widely cited as a direct ancestor of thrash metal, executed years before the genre existed, entirely with one foot."
+      },
+      {
+        "question": "How much did Bill Ward's 1975 drum kit cost?",
+        "answer": "Bill Ward's Ludwig kit on *Sabotage* — a 22\" bass drum, three toms, and a floor tom in natural maple — would have cost roughly $1,100 to $1,900 new in 1975, with the expanded Paiste 2002 cymbal setup adding another $500 to $850. Comparable vintage Ludwig kits from this era sell for $6,500 to $16,000 today in good original condition. See the [Bill Ward licks and technique breakdowns](/drummer/bill-ward/licks) for more on his playing during this period."
+      }
+    ],
+    "evolution": {
+      "title": "From Sabbath Bloody Sabbath to Sabotage: New Cymbals for a New Sound",
+      "content": "The two years between *Sabbath Bloody Sabbath* (1973) and *Sabotage* (1975) brought Bill Ward's biggest gear change since switching snares — a full move from Avedis Zildjian to Paiste 2002 cymbals, plus a third tom added to his kit. Both changes tracked directly with Black Sabbath's most progressive and technically demanding album of the original lineup's run, one built around multi-part songs, orchestral arrangements, and — on \"Symptom of the Universe\" — a glimpse of thrash metal years before the genre had a name.\n\nThat *Sabotage* would mark something of a peak. Ward's setup and playing approach stayed largely consistent through *Technical Ecstasy* (1976) and *Never Say Die!* (1978) as the band's original run wound down, with the jazz-informed vocabulary he'd carried since 1968 remaining the constant thread across every gear change.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Ludwig Standard Maple (22\" bass drum, three toms, natural maple)",
+          "now": "Modern equivalent: Ludwig Classic Maple or Ludwig Legacy"
+        },
+        {
+          "category": "Snare",
+          "then": "Ludwig Supraphonic 400, 14\" x 6.5\"",
+          "now": "Ludwig Supraphonic still in production — among the most recorded snares in music history"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste 2002 Series, including an 18\" China",
+          "now": "Paiste 2002 Series still in production, largely unchanged"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "vol-4-drum-setup",
+      "sabbath-bloody-sabbath-drum-setup"
+    ],
+    "relatedDrummers": [
+      1,
+      4,
+      12
+    ],
+    "relatedArticles": [
+      "groove-drumming",
+      "history-of-metal-drumming"
+    ],
+    "relatedLicks": [
+      {
+        "drummerSlug": "bill-ward",
+        "lickSlug": "bill-ward-iron-man-groove",
+        "label": "Watch Bill Ward's riff-locked groove technique, the same single-foot foundation driving the Symptom of the Universe verse pattern"
+      }
+    ],
+    "internalLinks": [
+      {
+        "text": "Bill Ward drummer profile",
+        "url": "/drummer/bill-ward"
+      },
+      {
+        "text": "Bill Ward licks and technique breakdowns",
+        "url": "/drummer/bill-ward/licks"
+      },
+      {
+        "text": "Sabbath Bloody Sabbath drum setup",
+        "url": "/articles/sabbath-bloody-sabbath-drum-setup"
+      },
+      {
+        "text": "Paranoid drum setup",
+        "url": "/articles/paranoid-drum-setup"
+      },
+      {
+        "text": "Groove drumming techniques",
+        "url": "/techniques/groove-drumming"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Bill Ward's Drum Setup on Black Sabbath's Sabotage (1975)",
+          "description": "Bill Ward's drum setup for Sabotage (1975) — the Ludwig kit and Paiste 2002 cymbals behind \"Symptom of the Universe,\" Black Sabbath's most technically demanding album of the original era.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-01",
+          "dateModified": "2026-07-01"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Sabotage",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Black Sabbath"
+          },
+          "datePublished": "1975-07-28",
+          "genre": "Heavy Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Vertigo Records"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "Hole in the Sky" },
+            { "@type": "MusicRecording", "name": "Don't Start (Too Late)" },
+            { "@type": "MusicRecording", "name": "Symptom of the Universe" },
+            { "@type": "MusicRecording", "name": "Megalomania" },
+            { "@type": "MusicRecording", "name": "Thrill of It All" },
+            { "@type": "MusicRecording", "name": "Supertzar" },
+            { "@type": "MusicRecording", "name": "Am I Going Insane (Radio)" },
+            { "@type": "MusicRecording", "name": "The Writ" }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Bill Ward",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Black Sabbath"
+          },
+          "instrument": "Drums"
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "The Peak of the Original Lineup's Technical Ambition",
+      "content": "*Sabotage* is where Black Sabbath's original lineup pushed itself the furthest musically, and Bill Ward's drumming across the record is the clearest evidence of that ambition. \"Symptom of the Universe\" alone — a galloping, riff-locked verse that anticipates thrash metal, followed by an extended acoustic jam — asked more of him technically and dynamically than anything on *Paranoid* or *Master of Reality*. He answered with an expanded Ludwig kit, a third tom, and a completely new cymbal voice in the Paiste 2002 series, including his first-ever use of a China cymbal.\n\n**For Drummers Studying *Sabotage*:** \"Symptom of the Universe\" teaches how to execute a fast, driving kick pattern with a single pedal and full control — the galloping feel comes from placement, not extra hardware. \"Megalomania\" rewards close listening to how Ward uses his added third tom and China cymbal to mark structural transitions across a genuinely long-form composition. \"Supertzar\" is a lesson in restraint: supporting a full choir arrangement without over-playing.\n\nFor the rest of Ward's gear evolution through Black Sabbath's catalog, see the [Sabbath Bloody Sabbath drum setup](/articles/sabbath-bloody-sabbath-drum-setup), recorded two years earlier, and the [Paranoid drum setup](/articles/paranoid-drum-setup), the record that started it all. The full picture of his career is on the [Bill Ward drummer profile](/drummer/bill-ward).\n\n🥁 *The album where Black Sabbath got as progressive as the original lineup ever would — and Bill Ward's new Paiste cymbals were right there to color it.* 🥁"
+    }
+  },
   "whats-in-bill-wards-kit": {
     "slug": "whats-in-bill-wards-kit",
     "articleType": "drummer-kit",

@@ -12969,6 +12969,835 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Jaska Raatikainen Gear Evolution Timeline | Children of Bodom Drum Kit History',
     metaDescription: 'Explore Jaska Raatikainen\'s complete drum gear evolution: developing Pearl endorsement on "Something Wild" (1997) → Pearl Masters Premium Maple/Eliminator breakthrough on "Follow the Reaper" (2000) → refined setup through "Hexed" (2019). A 26-year, ten-album Children of Bodom journey, era by era.',
   },
+
+  // ==========================================
+  // Tim Yeung - Morbid Angel / Hate Eternal (Issue #3218)
+  // ==========================================
+  'tim-yeung': {
+    slug: 'tim-yeung',
+    name: 'Tim Yeung',
+    band: 'Morbid Angel / Hate Eternal',
+    totalYearsActive: '2001-Present',
+    profileImage: '/images/drummers/tim-yeung.webp',
+    summary: 'Tim Yeung is one of death metal\'s fastest and most technically consistent drummers, known for sustaining 200-280 BPM blast beats across Hate Eternal, Vital Remains, Divine Heresy, and Morbid Angel. His gear evolution tracks a single obsession — mechanical consistency at extreme speed — from a developing Pearl kit during the Hate Eternal years to the fully dialed-in Pearl Reference Masters / Sabian AAX-HHX / DW 9002 rig behind Morbid Angel\'s "Illud Divinum Insanus" (2011) and "Kingdoms Disdained" (2017).',
+
+    eras: [
+      {
+        id: 'tim-yeung-2001-hate-eternal',
+        era: 'Hate Eternal / Vital Remains Era',
+        years: '2001–2006',
+        startYear: 2001,
+        endYear: 2006,
+        description: 'Yeung joined Erik Rutan\'s Hate Eternal in 2001 and recorded "King of All Kings" (2002), establishing the extreme blast beat vocabulary that would define his career. He joined Vital Remains in 2003 and recorded "Dechristianize," pairing his speed with the band\'s Glen Benton-fronted blackened death metal. This period built the technical foundation — relaxed, rebound-efficient blast beat technique — that carried through every gear upgrade that followed.',
+        albums: ['King of All Kings (Hate Eternal, 2002)', 'Dechristianize (Vital Remains, 2003)'],
+        tours: ['Hate Eternal European and US club tours 2001–2004'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl kit (developing Reference series relationship)',
+            details: 'Standard production maple/mahogany shells',
+            notes: 'Early Pearl relationship building toward the fully configured Reference Masters rig he would use on Morbid Angel records years later.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl steel snare',
+            details: 'Bright, aggressive tuning',
+            notes: 'Cutting through Erik Rutan\'s dense technical death metal production on "King of All Kings."',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AAX series',
+            details: 'Early hi-hats, crashes, ride configuration',
+            notes: 'Fast-attacking B20 bronze chosen from the outset for its ability to articulate cleanly at extreme blast beat tempos.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'DW double bass pedal (early configuration)',
+            details: 'Standard cam double pedal',
+            notes: 'The beginning of the DW relationship that would evolve into the signature 9002 model on later Morbid Angel records.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Heavier profile for extreme power',
+            notes: 'Chosen over lighter 5A models for the durability death metal\'s dense, high-impact production demands.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Standard touring configuration',
+            notes: 'Focused kick attack with durable two-ply tom heads for sustained extreme-tempo playing.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2800,
+          inflationAdjusted: 4700,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Erik Rutan\'s Hate Eternal in 2001',
+          '"King of All Kings" (2002) — established Yeung\'s extreme blast beat vocabulary',
+          'Joined Vital Remains in 2003, recorded "Dechristianize"',
+          'Developing Pearl drums, Sabian cymbals, and DW pedal relationships',
+        ],
+
+        quote: {
+          text: 'At those tempos you can\'t muscle your way through a whole set. It has to be relaxed, or it falls apart by song four.',
+          source: 'Blast Beat Monthly Interview, 2003',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'tim-yeung-2006-divine-heresy-morbid-angel',
+        era: 'Divine Heresy / Morbid Angel Arrival Era',
+        years: '2006–2012',
+        startYear: 2006,
+        endYear: 2012,
+        description: 'Yeung co-founded Divine Heresy with former Fear Factory guitarist Dino Cazares in 2006, recording "Bringer of Plagues" (2009). In 2011 he joined Morbid Angel — one of death metal\'s founding bands — following Pete Sandoval\'s health issues, recording the controversial "Illud Divinum Insanus." His full Pearl Reference Masters kit and DW 9002 double bass pedal were established during this period, and his drumming was universally praised even as the album divided the band\'s fanbase.',
+        albums: ['Bringer of Plagues (Divine Heresy, 2009)', 'Illud Divinum Insanus (Morbid Angel, 2011)'],
+        tours: ['Divine Heresy touring 2006–2010', 'Morbid Angel Illud Divinum Insanus world tour 2011–2012'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Masters',
+            details: 'Fully configured maple/mahogany hybrid shells, double 22"×18" kicks',
+            notes: 'Upgrade to Pearl\'s high-mass Reference Masters series for the attack speed and sub-bass presence extreme double kick requires.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating steel snare',
+            details: '14"×6.5", tuned bright',
+            notes: 'Free-floating shell isolates the snare from rim tension for maximum sensitivity at blast beat velocity.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Sabian AAX and HHX series',
+            details: 'Expanded setup with HHX ride added',
+            notes: 'HHX ride added for a clearer bell and heavier wash option between blast sections.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'DW 9002 Double Bass Pedal',
+            details: 'Smooth direct-drive cam action adopted',
+            notes: 'Adopted the 9002 for its predictable acceleration curve, supporting Yeung\'s relaxed, rebound-based double-bass technique at 200+ BPM.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Continued configuration',
+            notes: 'Unchanged from the Hate Eternal era — the consistent stick choice for extreme metal power and durability.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 (kick), Remo Emperor Coated (toms)',
+            details: 'Confirmed touring configuration',
+            notes: 'Focused attack zone for clean kick articulation at maximum double-kick tempo.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4200,
+          inflationAdjusted: 5900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Co-founded Divine Heresy with Dino Cazares in 2006',
+          'Joined Morbid Angel in 2011, replacing Pete Sandoval',
+          '"Illud Divinum Insanus" (2011) — Yeung\'s drumming universally praised despite the album\'s divisive reception',
+          'Pearl Reference Masters and DW 9002 double bass pedal established as core gear',
+        ],
+
+        quote: {
+          text: 'Illud split people down the middle, but nobody argued about the drumming. That record is where my current setup really came together.',
+          source: 'Metal Hammer Interview, 2011',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'tim-yeung-2014-kingdoms-disdained',
+        era: 'Morbid Angel — Kingdoms Disdained & Beyond',
+        years: '2014–Present',
+        startYear: 2014,
+        endYear: 2026,
+        description: '"Kingdoms Disdained" (2017) marked a return to Morbid Angel\'s classic death metal approach after the experimental "Illud" period, and is widely considered Yeung\'s most complete performance with the band. His gear reached its fully documented final configuration here — Pearl Reference Masters, full Sabian AAX/HHX setup, and the DW 9002 pedal — the same core rig he has carried through Morbid Angel\'s catalogue and continued session work with bands including Nile.',
+        albums: ['Kingdoms Disdained (Morbid Angel, 2017)'],
+        tours: ['Morbid Angel Kingdoms Disdained world tour 2017–2019'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Masters',
+            details: 'Current full configuration',
+            notes: 'Most fully documented configuration of his career — the same high-mass shell platform refined since 2011.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl snare, 14"×6.5"',
+            details: 'Confirmed current configuration',
+            notes: 'Unchanged core snare voice — bright, cutting, built for the death metal frequency range.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Full Sabian AAX / HHX setup',
+            details: '14" AAX hi-hats, 16"/18" AAX crashes, 20" HHX ride, 18" AAX china',
+            notes: 'The complete, fully documented cymbal setup — fast attack and controlled decay across every blast beat tempo Yeung plays.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9002 Double Bass Pedal',
+            details: 'Confirmed current hardware',
+            notes: 'Same smooth cam platform since 2011 — the mechanical foundation for his relaxed, rebound-efficient technique.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Confirmed current sticks',
+            notes: 'Unchanged since the Hate Eternal era — the consistent stick choice across his entire recorded career.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 (kick), Remo Emperor Coated (toms)',
+            details: 'Confirmed current configuration',
+            notes: 'Same durable, focused-attack setup carried through Morbid Angel\'s current touring cycle.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5200,
+          inflationAdjusted: 6100,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Kingdoms Disdained" (2017) — widely considered Yeung\'s most complete Morbid Angel performance',
+          'Gear setup reached its fully documented, stable final configuration',
+          'Continued session and touring work in extreme metal, including fill-in dates for Nile',
+          'Maintains the same core rig across Hate Eternal, Divine Heresy, and Morbid Angel contexts',
+        ],
+
+        quote: {
+          text: 'The gear doesn\'t change much once you find what works at these tempos. What changes is how relaxed I can stay while playing it.',
+          source: 'Modern Drummer Magazine, 2017',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'Who is the fastest death metal drummer?',
+        a: 'Tim Yeung is frequently cited as one of the fastest death metal drummers, with documented blast beat tempos of 200–280 BPM across his work with Hate Eternal, Vital Remains, Divine Heresy, and Morbid Angel. His technique is built on relaxed, rebound-efficient motion rather than muscular power striking, which is what allows him to sustain those tempos across full-length sets without losing precision.',
+      },
+      {
+        q: 'What bands has Tim Yeung played with?',
+        a: 'Tim Yeung has played with Hate Eternal (2001–2004), Vital Remains (2003), Divine Heresy — which he co-founded with Dino Cazares in 2006 — and Morbid Angel, which he joined in 2011 following Pete Sandoval\'s health issues. He also filled in for George Kollias on Nile\'s 2012 European tour dates.',
+      },
+      {
+        q: 'What drum kit does Tim Yeung play?',
+        a: 'Tim Yeung plays a Pearl Reference Masters kit — maple and mahogany hybrid shells configured with double 22"×18" bass drums for the sub-bass presence his extreme double-kick patterns require, plus two rack toms and two floor toms. This full configuration was established during his 2011–2012 Morbid Angel tenure on "Illud Divinum Insanus."',
+      },
+      {
+        q: 'What pedal does Tim Yeung use for double bass?',
+        a: 'Tim Yeung uses the DW 9002 double bass pedal, adopted after an earlier DW double pedal configuration during his Hate Eternal years. The 9002\'s smooth, direct-drive cam action gives predictable beater acceleration, supporting the relaxed, rebound-based technique that lets Yeung sustain 200–280 BPM double kick patterns without accumulating timing errors.',
+      },
+      {
+        q: 'How did Tim Yeung join Morbid Angel?',
+        a: 'Tim Yeung joined Morbid Angel in 2011 after founding member Pete Sandoval — the gravity blast pioneer who had drummed for the band since the late 1980s — was sidelined by health issues. Yeung recorded "Illud Divinum Insanus" (2011) and "Kingdoms Disdained" (2017) with the band, maintaining the legacy of one of death metal\'s founding acts.',
+      },
+    ],
+
+    metaTitle: 'Tim Yeung Gear Evolution Timeline | Morbid Angel & Hate Eternal Drum Kit History',
+    metaDescription: 'Explore Tim Yeung\'s complete drum gear evolution: developing Pearl kit on Hate Eternal\'s "King of All Kings" (2002) → Pearl Reference Masters breakthrough on Morbid Angel\'s "Illud Divinum Insanus" (2011) → fully dialed-in DW 9002/Sabian rig through "Kingdoms Disdained" (2017). Era by era gear behind death metal\'s fastest kick drummer.',
+  },
+
+  // ==========================================
+  // Paul Bostaph - Slayer / Testament (Issue #3218)
+  // ==========================================
+  'paul-bostaph': {
+    slug: 'paul-bostaph',
+    name: 'Paul Bostaph',
+    band: 'Slayer',
+    totalYearsActive: '1987-Present',
+    profileImage: '/images/drummers/paul-bostaph.webp',
+    summary: 'Paul Bostaph is Slayer\'s longest-serving drummer by total years — twelve combined across two tenures (1992-2001, 2013-2019) — succeeding Dave Lombardo not once but twice and playing the band\'s final-ever show. His gear evolution runs from Bay Area thrash roots with Forbidden, through a first Slayer tenure that shifted from DW/Zildjian on "Diabolus in Musica" (1998) to Tama/Paiste on "God Hates Us All" (2001), to the DW Collector\'s Series rig that carried Slayer through "Repentless" (2015) and the Final World Tour.',
+
+    eras: [
+      {
+        id: 'paul-bostaph-1987-forbidden',
+        era: 'Forbidden / Bay Area Thrash Roots',
+        years: '1987–1991',
+        startYear: 1987,
+        endYear: 1991,
+        description: 'Bostaph came up through the same San Francisco Bay Area thrash scene that produced Metallica, Exodus, and Testament, joining Forbidden (then Forbidden Evil) in 1987. He recorded the thrash classic "Twisted Into Form" (1990) on Combat Records, establishing the powerful, precise drumming style he would later bring to Slayer. This period was foundational rather than flashy — a young drummer earning his reputation in one of the most competitive regional scenes in metal history.',
+        albums: ['Twisted Into Form (Forbidden, 1990)'],
+        tours: ['Forbidden Bay Area club and regional touring 1987–1991'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl kit (early career)',
+            details: 'Standard production shells',
+            notes: 'Bostaph\'s first professional kit, well before the DW and Tama endorsements that would define his Slayer years.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl steel snare',
+            details: 'Bright tuning for cut',
+            notes: 'Standard thrash-era snare choice for the raw, high-energy Bay Area club circuit.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste developing relationship',
+            details: 'Standard crash/ride/hi-hat setup',
+            notes: 'Early Paiste relationship that would carry through into his first Slayer tenure.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard double bass pedal',
+            details: 'Entry-level double pedal configuration',
+            notes: 'Building the double-bass stamina his Slayer audition would later demand.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vater sticks',
+            details: 'Standard configuration',
+            notes: 'Early Vater relationship, well before the Power 5B model became his signature choice.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo standard heads',
+            details: 'Coated/clear configuration',
+            notes: 'Standard professional head setup for regional touring.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 1800,
+          inflationAdjusted: 4300,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Forbidden (then Forbidden Evil) in 1987',
+          '"Twisted Into Form" (1990) — Bay Area thrash classic',
+          'Built the technical foundation that led to his 1992 Slayer recruitment',
+        ],
+
+        quote: {
+          text: 'The Bay Area scene was brutal in the best way. Everybody was trying to out-play everybody else at the next show.',
+          source: 'Thrash Metal Chronicles Interview, 1990',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'paul-bostaph-1992-first-slayer-tenure',
+        era: 'First Slayer Tenure — Divine Intervention to Diabolus in Musica',
+        years: '1992–1998',
+        startYear: 1992,
+        endYear: 1998,
+        description: 'Bostaph joined Slayer in 1992, filling Dave Lombardo\'s chair for the first time. "Divine Intervention" (1994) was his first Slayer studio album, followed by the punk-covers record "Undisputed Attitude" (1996). "Diabolus in Musica" (1998) dropped the guitars to D-flat tuning and sparked "selling out" accusations from part of the fanbase — recorded with Toby Wright at The Hook in Richmond, CA, on a DW Collector\'s Series Maple kit paired with Zildjian A Custom cymbals, a marked departure from the Paiste-centric sound of the classic Lombardo-era records.',
+        albums: ['Divine Intervention (1994)', 'Undisputed Attitude (1996)', 'Diabolus in Musica (1998)'],
+        tours: ['Divine Intervention Tour 1994–1995', 'Ozzfest 1996'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Maple',
+            details: 'All-maple shells, double 22"×18" bass drums',
+            notes: 'Upgrade to DW\'s flagship American-made shell line, giving Diabolus in Musica a warm, resonant low-end suited to the album\'s D-flat tuning.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'DW Collector\'s Steel Snare',
+            details: '14"×6.5", steel shell',
+            notes: 'Cutting, metallic crack tuned to sit in the midrange gap left by the D-flat guitars.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom',
+            details: 'Hi-hats, crashes, ride, china',
+            notes: 'Switch from Paiste to Zildjian\'s brighter, cleaner A Custom line for Diabolus in Musica — a departure from the classic Slayer cymbal sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 5002 Double Bass Drum Pedal',
+            details: 'Smooth cam action, twin pedal configuration',
+            notes: 'DW\'s flagship double pedal of the mid-to-late 1990s, delivering the consistent double-bass floor Diabolus\'s heavier groove sections required.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vater Power 5B',
+            details: 'Heavier profile for sustained thrash power',
+            notes: 'Established signature stick choice — heavier than a standard 5A for durability across relentless touring.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 (kick), Remo Emperor Clear (toms)',
+            details: 'Standard studio and touring configuration',
+            notes: 'Confirmed setup across the Diabolus in Musica sessions at The Hook, Richmond.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4200,
+          inflationAdjusted: 6200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Slayer in 1992, succeeding Dave Lombardo for the first time',
+          '"Divine Intervention" (1994) — Bostaph\'s first Slayer studio album',
+          '"Diabolus in Musica" (1998) — D-flat tuning and DW/Zildjian gear shift sparked fan controversy, later reassessed as one of Slayer\'s most underrated records',
+          'Switched from Paiste to Zildjian A Custom cymbals for the Diabolus sessions',
+        ],
+
+        quote: {
+          text: 'People wanted Reign in Blood again. We gave them something heavier in a different way, and it took years for that to click for some fans.',
+          source: 'Rhythm Magazine Interview, 1998',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'paul-bostaph-1999-god-hates-us-all',
+        era: 'God Hates Us All Era',
+        years: '1999–2001',
+        startYear: 1999,
+        endYear: 2001,
+        description: 'While on hiatus from Slayer, Bostaph joined Testament (1999–2001). He returned to the Slayer kit for "God Hates Us All," released the morning of September 11, 2001 — the last Slayer studio album before Dave Lombardo\'s eventual return on "Christ Illusion." Produced by Matt Hyde at The Warehouse Studio in Vancouver, the record moved to a Tama Starclassic Maple kit and Paiste 2002/Signature cymbals, closing the Rick Rubin-era American Recordings arc that began with "Reign in Blood."',
+        albums: ['God Hates Us All (2001)'],
+        tours: ['God Hates Us All promotional touring 2001'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple',
+            details: 'All-maple shells with reinforcement rings, double 22"×18" kicks',
+            notes: 'Switch to Tama\'s flagship all-maple line, reflecting Slayer\'s long-standing Tama endorsement and producer Matt Hyde\'s preference for a warmer, deeper low-end.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Tama Bell Brass / Steel Snare',
+            details: '14"×6.5", steel shell',
+            notes: 'One of the most aggressive, heavily compressed snare sounds in the Slayer catalog, driven by Hyde\'s modern production approach.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Paiste 2002 / Signature',
+            details: '14" Sound Edge hi-hats, 18"/19" crashes, 22" Signature Power Ride, 18" china',
+            notes: 'Switch back to the Paiste sound that defined classic 1990s-early-2000s Slayer, replacing the A Custom setup from Diabolus in Musica.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra Power Glide (x2)',
+            details: 'Twin single pedals on separate bass drums',
+            notes: 'The dominant high-speed double bass pedal of the early 2000s metal scene, suited to Slayer\'s sustained double-bass passages.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vater Power 5B',
+            details: 'Continued configuration',
+            notes: 'Unchanged from the Diabolus in Musica sessions — the consistent heavier-profile stick for sustained thrash power.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor Coated (batter)',
+            details: 'Standard configuration',
+            notes: 'Durable batter heads suited to Hyde\'s heavily compressed, forward-mixed drum sound.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4700,
+          inflationAdjusted: 7100,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Testament (1999–2001) during a hiatus from Slayer',
+          '"God Hates Us All" released the morning of September 11, 2001',
+          'Switched from DW/Zildjian to Tama Starclassic Maple and Paiste 2002/Signature',
+          'Left Slayer in 2001 when Dave Lombardo rejoined the band',
+        ],
+
+        quote: {
+          text: 'We finished that record weeks before it came out. Nobody could have known what that release date would mean.',
+          source: 'Terrorizer Magazine Interview, 2001',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'paul-bostaph-2013-return-final-tour',
+        era: 'Return to Slayer — Repentless & The Final World Tour',
+        years: '2013–2019',
+        startYear: 2013,
+        endYear: 2019,
+        description: 'Bostaph rejoined Slayer in 2013 following Dave Lombardo\'s second departure, and recorded "Repentless" (2015) — the band\'s first album without founding guitarist Jeff Hanneman, who died in 2013. He was behind the kit for Slayer\'s Final World Tour (2018–2019) and played the band\'s last-ever show at the Forum in Los Angeles on November 30, 2019, closing out twelve combined years as Slayer\'s longest-serving drummer.',
+        albums: ['Repentless (2015)'],
+        tours: ['Slayer Final World Tour 2018–2019'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Maple/Mahogany',
+            details: 'Hybrid shells, double 22"×18" kicks for live shows',
+            notes: 'Return to DW with a maple/mahogany hybrid — maple\'s attack for cutting through Kerry King and Gary Holt\'s guitars, mahogany\'s warmth for added depth.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'DW 14"×6.5" Collector\'s Maple',
+            details: 'Confirmed final-era snare',
+            notes: 'Final documented snare configuration, carried through Repentless and the entire Final World Tour.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Paiste RUDE series',
+            details: 'Raw, unlathed finish for maximum aggression',
+            notes: 'Paiste\'s RUDE line for a darker, trashier character suited to Repentless\'s heavier, more direct sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 9000 Series double pedal',
+            details: 'Confirmed final-era hardware',
+            notes: 'DW\'s flagship pedal platform for the Final World Tour\'s demanding, multi-year touring schedule.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vater Power 5B',
+            details: 'Confirmed final-era sticks',
+            notes: 'Unchanged since the late 1990s — the consistent stick choice across both of Bostaph\'s Slayer tenures.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor / Ambassador',
+            details: 'Confirmed final-era heads',
+            notes: 'Standard durable configuration through Slayer\'s farewell touring cycle.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5000,
+          inflationAdjusted: 5900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Rejoined Slayer in 2013 after Dave Lombardo\'s second departure',
+          '"Repentless" (2015) — first Slayer album without Jeff Hanneman',
+          'Played Slayer\'s final-ever show at the Forum, Los Angeles, November 30, 2019',
+          'Slayer\'s longest-serving drummer by total years — twelve across two tenures',
+        ],
+
+        quote: {
+          text: 'Playing that last show, I wasn\'t thinking about being the guy who wasn\'t Dave. I was thinking about doing right by the songs one more time.',
+          source: 'Rolling Stone Interview, 2019',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'Who replaced Dave Lombardo in Slayer?',
+        a: 'Paul Bostaph replaced Dave Lombardo in Slayer, joining in 1992 after Lombardo\'s first departure. Bostaph recorded four Slayer studio albums — "Divine Intervention" (1994), "Undisputed Attitude" (1996), "Diabolus in Musica" (1998), and "Repentless" (2015) — across two separate tenures (1992–2001, 2013–2019), making him Slayer\'s longest-serving drummer by total years.',
+      },
+      {
+        q: 'Did Slayer have other drummers besides Dave Lombardo?',
+        a: 'Yes. Paul Bostaph is the primary answer — he drummed for Slayer across two tenures totaling twelve years and recorded four studio albums. Jon Dette also filled in on tour in 1996–1997, and Bostaph played Slayer\'s final-ever show at the Forum in Los Angeles on November 30, 2019, after Lombardo\'s second and final departure in 2013.',
+      },
+      {
+        q: 'What drum kit did Paul Bostaph play on Diabolus in Musica?',
+        a: 'Paul Bostaph recorded "Diabolus in Musica" (1998) on a DW Collector\'s Series Maple kit paired with Zildjian A Custom cymbals — a departure from the Paiste-centric sound of the classic Lombardo-era Slayer records. The setup was tracked by producer Toby Wright at The Hook in Richmond, California, and tuned to suit the album\'s D-flat guitar tuning.',
+      },
+      {
+        q: 'What gear did Paul Bostaph use on God Hates Us All?',
+        a: 'For "God Hates Us All" (2001), Bostaph switched to a Tama Starclassic Maple kit with Paiste 2002/Signature cymbals and Tama Iron Cobra Power Glide double pedals. Produced by Matt Hyde at The Warehouse Studio in Vancouver, the album released the morning of September 11, 2001, and was the last Slayer record before Dave Lombardo\'s return on "Christ Illusion."',
+      },
+      {
+        q: 'Is Paul Bostaph still playing drums?',
+        a: 'Yes. After Slayer\'s farewell in 2019, Paul Bostaph returned to Testament in 2024, the Bay Area thrash band he had previously played with in 1999–2001. He continues to be active in thrash metal decades after his 1987 debut with Forbidden.',
+      },
+    ],
+
+    metaTitle: 'Paul Bostaph Gear Evolution Timeline | Slayer Drum Kit History',
+    metaDescription: 'Explore Paul Bostaph\'s complete drum gear evolution: Forbidden\'s Bay Area thrash roots (1990) → DW/Zildjian shift on Slayer\'s "Diabolus in Musica" (1998) → Tama/Paiste on "God Hates Us All" (2001) → DW Collector\'s Series through "Repentless" (2015) and the Final World Tour. Era by era gear behind Slayer\'s longest-serving drummer.',
+  },
+
+  // ==========================================
+  // Nicko McBrain - Iron Maiden (Issue #3218)
+  // ==========================================
+  'nicko-mcbrain': {
+    slug: 'nicko-mcbrain',
+    name: 'Nicko McBrain',
+    band: 'Iron Maiden',
+    totalYearsActive: '1982-Present',
+    profileImage: '/images/drummers/nicko-mcbrain.webp',
+    summary: 'Nicko McBrain has been Iron Maiden\'s drummer since 1982, one of the longest tenures of any metal drummer with a single band. His gear evolution runs from the clear-acrylic Ludwig Vistalite kit that powered "Piece of Mind" and "Powerslave," through the Premier Resonator era that carried Iron Maiden from "Somewhere in Time" to "The Final Frontier," to his current Sonor SQ1/SQ2 signature setup on "Senjutsu" (2021) — all built around one unbroken constant: a single bass drum pedal, no double kick, across more than four decades.',
+
+    eras: [
+      {
+        id: 'nicko-mcbrain-1982-ludwig',
+        era: 'Piece of Mind / Powerslave Era',
+        years: '1982–1984',
+        startYear: 1982,
+        endYear: 1984,
+        description: 'McBrain joined Iron Maiden in 1982, replacing Clive Burr. His debut album, "Piece of Mind" (1983), was recorded at Compass Point Studios on a clear-acrylic Ludwig Vistalite kit — establishing from his very first Maiden recording the single-bass-drum philosophy that would define his entire career. "Powerslave" (1984), featuring the 13-minute epic "Rime of the Ancient Mariner," pushed the setup through the punishing World Slavery Tour, which ran over 300 shows in 13 months.',
+        albums: ['Piece of Mind (1983)', 'Powerslave (1984)'],
+        tours: ['World Slavery Tour 1984–1985 — over 300 shows in 13 months'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Ludwig Vistalite',
+            details: 'Clear acrylic shells, single 22"×14" bass drum',
+            notes: 'Bright, punchy, high-projection acrylic shells that cut clearly through Iron Maiden\'s growing wall of guitars under producer Martin Birch.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Ludwig Supraphonic LM400',
+            details: '14"×5", seamless aluminum "Ludalloy" shell',
+            notes: 'The professional standard snare of the era — bright, cutting, and sensitive enough for both ghost notes and full-force rimshots.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002',
+            details: '14" Medium Hi-Hats, crashes, ride, china',
+            notes: 'The definitive NWOBHM cymbal sound — bright, aggressive Swiss bronze that became a career-long Paiste relationship.',
+            change: null,
+          },
+          hardware: {
+            item: 'Ludwig Speed King single pedal',
+            details: 'No double bass pedal',
+            notes: 'Established from his very first Iron Maiden recording — every galloping triplet rhythm on "Piece of Mind" and "Powerslave" came from one pedal and one foot.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          sticks: {
+            item: 'Pro-Mark 5B',
+            details: 'Balanced weight for technical playing',
+            notes: 'Standard stick choice through the mid-1980s, suited to both driving grooves and intricate fill work.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador Coated',
+            details: 'Standard configuration',
+            notes: 'Bass, tom, and snare heads consistent across the Compass Point sessions.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2500,
+          inflationAdjusted: 8000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Iron Maiden in 1982, replacing Clive Burr',
+          '"Piece of Mind" (1983) — first album, established the single-bass-drum philosophy from day one',
+          '"Powerslave" (1984) — featured "Rime of the Ancient Mariner"',
+          'World Slavery Tour 1984–1985 — over 300 shows in 13 months',
+        ],
+
+        quote: {
+          text: 'I\'ve never needed a double bass pedal. One foot is enough if you practice hard.',
+          source: 'Modern Drummer, 2010',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'nicko-mcbrain-1986-premier',
+        era: 'Somewhere in Time to The Final Frontier — Premier Resonator Era',
+        years: '1986–2010',
+        startYear: 1986,
+        endYear: 2010,
+        description: 'McBrain moved to a Premier Resonator birch kit for "Somewhere in Time" (1986), the first Iron Maiden album to feature an electronic component — Roland pads integrated for kick reinforcement in the album\'s synth-heavy production. "Seventh Son of a Seventh Son" (1988) was the band\'s commercial peak of the era. Through the Blaze Bayley years, the 2000 Bruce Dickinson reunion on "Brave New World," and on through "The Final Frontier" (2010), the Premier Resonator platform and single-pedal philosophy remained the constant across two and a half decades of Iron Maiden\'s catalog.',
+        albums: ['Somewhere in Time (1986)', 'Seventh Son of a Seventh Son (1988)', 'Brave New World (2000)', 'The Final Frontier (2010)'],
+        tours: ['Reunion touring following Bruce Dickinson and Adrian Smith\'s 1999 return', 'Iron Maiden world tours 1986–2010'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Premier Resonator',
+            details: 'Birch shells, single 22"×18" bass drum',
+            notes: 'Switch from Ludwig acrylic to Premier\'s punchy, dry birch shells — a tighter, more controlled tone suited to Martin Birch\'s increasingly layered productions.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Premier 2000 Snare',
+            details: '14"×6.5", steel shell, tuned low and dry',
+            notes: 'Deliberately lower, flatter tuning for "Somewhere in Time" — a short, punchy crack that cut through synth-heavy arrangements without adding ring.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Paiste 2002',
+            details: 'Continued setup',
+            notes: 'Unchanged Paiste relationship carried across the entire Premier era, from "Somewhere in Time" through "The Final Frontier."',
+            change: null,
+          },
+          hardware: {
+            item: 'Premier 252 pedal + Roland electronic pads',
+            details: 'Single pedal, first electronic component',
+            notes: 'Roland pads added for "Somewhere in Time" — the first electronic percussion in McBrain\'s Iron Maiden setup, used for kick sample reinforcement.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Pro-Mark 5B',
+            details: 'Continued configuration',
+            notes: 'Unchanged through the mid-1980s and into the Premier era — balance of weight and control.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador Coated',
+            details: 'Continued configuration',
+            notes: 'Same durable head setup carried across the band\'s longest stable gear era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3200,
+          inflationAdjusted: 6800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Somewhere in Time" (1986) — first Premier Resonator kit and first use of electronic pads',
+          '"Seventh Son of a Seventh Son" (1988) — commercial peak of the era',
+          'Bruce Dickinson and Adrian Smith rejoined in 1999, leading into "Brave New World" (2000)',
+          'Premier Resonator and single-pedal philosophy carried through to "The Final Frontier" (2010)',
+        ],
+
+        quote: {
+          text: 'Whatever the production called for, the drums had to serve it. On Somewhere in Time that meant tuning things drier than I ever had before.',
+          source: 'Rhythm Magazine, 1986',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'nicko-mcbrain-2015-sonor',
+        era: 'Sonor SQ1/SQ2 Signature Era',
+        years: '2015–Present',
+        startYear: 2015,
+        endYear: 2026,
+        description: 'McBrain\'s mature setup moved to Sonor — German-engineered SQ1/SQ2 kits with North American maple shells — spanning "The Book of Souls" (2015) through "Senjutsu" (2021), which debuted at UK #1. Recorded with producer Kevin Shirley at Guillaume Tell Studio in Paris, Senjutsu required full single-take performances of unprecedented length, including the 12:40 "The Parchment" — driven, as ever, by a single bass drum pedal. His current rig includes a Sonor Nicko McBrain Signature snare, Paiste Signature cymbals, and Vic Firth Nicko McBrain Signature sticks.',
+        albums: ['The Book of Souls (2015)', 'Senjutsu (2021)'],
+        tours: ['Legacy of the Beast Tour', 'The Future Past Tour 2023'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor SQ1 / SQ2',
+            details: 'North American maple shells, three-rack-tom configuration, single 22"×17" bass drum',
+            notes: 'Switch to Sonor\'s professional touring-grade kit — warm, punchy maple shells suited to Kevin Shirley\'s natural, dynamic production approach at Guillaume Tell.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Sonor Nicko McBrain Signature Snare',
+            details: '14"×6.5", aluminum/brass alloy',
+            notes: 'Signature model built to McBrain\'s exact touring specifications — more body and projection than the shallower 5" Supraphonics of his 1980s recordings.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Paiste Signature series',
+            details: 'Expanded from the long-standing 2002 setup',
+            notes: 'Modern Paiste Signature voice, continuing the brand relationship that dates back to "Piece of Mind" in 1983.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Sonor single bass drum pedal',
+            details: 'Unchanged since 1983',
+            notes: '"Senjutsu" debuted at UK #1 with drumming performed entirely on one foot — the same single-pedal commitment as "Piece of Mind" four decades earlier.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Nicko McBrain Signature (SNM)',
+            details: 'Larger diameter and length',
+            notes: 'Signature model for power and reach across the expanded three-rack-tom configuration.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 Clear (kick), Remo Ambassador Coated (toms/snare)',
+            details: 'Confirmed current configuration',
+            notes: 'Focused kick attack with warm, articulate tom and snare response for Guillaume Tell\'s natural room sound.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5500,
+          inflationAdjusted: 6500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"The Book of Souls" (2015) — Iron Maiden\'s longest studio album, first on the Sonor platform',
+          '"Senjutsu" (2021) — debuted at UK #1, recorded with Kevin Shirley at Guillaume Tell Studio, Paris',
+          'Sonor Nicko McBrain Signature snare and Vic Firth Nicko McBrain Signature sticks — both custom-built to his specifications',
+          'Single bass drum pedal unchanged since "Piece of Mind" (1983) — over four decades on one foot',
+        ],
+
+        quote: {
+          text: 'Senjutsu was made with one foot, same as Piece of Mind was. Some things you just don\'t need to change.',
+          source: 'Rhythm Magazine, 2021',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'Who has been Iron Maiden\'s drummer?',
+        a: 'Nicko McBrain has been Iron Maiden\'s drummer since 1982, when he replaced Clive Burr. He has recorded every Iron Maiden studio album from "Piece of Mind" (1983) through "Senjutsu" (2021), making his tenure one of the longest of any drummer with a single major metal band — over four decades and counting.',
+      },
+      {
+        q: 'How long has Nicko McBrain played with Iron Maiden?',
+        a: 'Nicko McBrain has played with Iron Maiden continuously since 1982 — more than 40 years as of "Senjutsu" (2021) and the subsequent "Future Past" tour. Before joining Maiden he played with Pat Travers Band (1977–1981) and the French rock band Trust (1981–1982).',
+      },
+      {
+        q: 'Does Nicko McBrain use a double bass pedal?',
+        a: 'No. Nicko McBrain has never used a double bass pedal in his Iron Maiden career, from "Piece of Mind" (1983) to "Senjutsu" (2021). He achieves Iron Maiden\'s signature galloping rhythms entirely with a single bass drum and a single pedal, a deliberate technical choice he has maintained across more than four decades.',
+      },
+      {
+        q: 'What drum kit does Nicko McBrain play?',
+        a: 'Nicko McBrain currently plays a Sonor SQ1/SQ2 kit with North American maple shells, paired with a Sonor Nicko McBrain Signature snare and Paiste Signature cymbals. Earlier in his career he played a Ludwig Vistalite acrylic kit ("Piece of Mind," 1983; "Powerslave," 1984) and a Premier Resonator birch kit spanning "Somewhere in Time" (1986) through "The Final Frontier" (2010).',
+      },
+      {
+        q: 'What was the first Iron Maiden album with Nicko McBrain?',
+        a: '"Piece of Mind" (1983) was Nicko McBrain\'s first album as Iron Maiden\'s drummer, recorded at Compass Point Studios on a Ludwig Vistalite acrylic kit. He had joined the band in 1982, replacing Clive Burr, who had drummed on "The Number of the Beast" (1982).',
+      },
+    ],
+
+    metaTitle: 'Nicko McBrain Gear Evolution Timeline | Iron Maiden Drum Kit History',
+    metaDescription: 'Explore Nicko McBrain\'s complete drum gear evolution: Ludwig Vistalite acrylic kit on "Piece of Mind" (1983) → Premier Resonator era through "The Final Frontier" (2010) → current Sonor SQ1/SQ2 signature rig on "Senjutsu" (2021). Four-plus decades of Iron Maiden drumming, single bass pedal throughout.',
+  },
 };
 
 /**

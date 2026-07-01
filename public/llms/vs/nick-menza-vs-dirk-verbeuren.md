@@ -87,4 +87,4 @@ A: "Dystopia" (2016) is Dirk Verbeuren's debut with Megadeth and showcases his t
 
 ---
 
-*Last updated: 2026-06-24 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-01 · Source: [MetalForge.io](https://metalforge.io)*

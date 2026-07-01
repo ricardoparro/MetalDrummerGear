@@ -13829,6 +13829,252 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
       { slug: 'nick-augusto-drum-setup', label: "Nick Augusto's Drum Setup — Trivium's In Waves & Vengeance Falls Era Kit Guide" }
     ]
   },
+  'how-to-sound-like-arin-ilejay': {
+    slug: 'how-to-sound-like-arin-ilejay',
+    drummerId: 23,
+    drummerName: 'Arin Ilejay',
+    band: 'Avenged Sevenfold',
+    genre: 'Heavy Metal / Hard Rock',
+    priority: 54,
+    title: "How to Sound Like Arin Ilejay: Complete Gear & Technique Guide",
+    description: "Master Arin Ilejay's power-and-groove approach behind Avenged Sevenfold's #1 album Hail to the King. Learn his classic-metal technique, DW Collector's Series setup, Zildjian A Custom cymbals, and the practice system behind A7X's arena-scale sound.",
+    seoKeywords: ['arin ilejay drumming', 'how to sound like arin ilejay', 'avenged sevenfold drums', 'arin ilejay gear', 'arin ilejay technique', 'arin ilejay drum kit', 'hail to the king drums'],
+    ogImage: '/images/guides/arin-ilejay-guide.webp',
+    datePublished: '2026-07-01',
+    dateModified: '2026-07-01',
+    author: 'MetalForge Editorial',
+    wordCount: 1800,
+    readingTime: '9 min',
+    intro: {
+      title: "Power and Groove Behind A7X's #1 Album",
+      content: `Arin Ilejay joined Avenged Sevenfold in 2011 under circumstances no drummer would envy — permanently replacing founding drummer Jimmy "The Rev" Sullivan, who died in December 2009, after Dream Theater's Mike Portnoy filled in as a tribute performer on "Nightmare" (2010). Rather than attempt to replicate The Rev's technically labyrinthine style, Ilejay committed to power, consistency, and service to the song.
+
+That approach crystallized on "Hail to the King" (2013), the only A7X studio album Ilejay recorded — a deliberate tribute to classic heavy metal influences including Metallica, Black Sabbath, and Guns N' Roses. The album debuted at #1 on the Billboard 200 and topped the charts in the UK, Ireland, Canada, Brazil, and Finland, going on to sell multi-platinum worldwide.
+
+This guide breaks down exactly how to capture Ilejay's sound — from his straightforward, arena-calibrated attack to his DW Collector's Series gear and classic-metal tuning approach. Whether you're chasing A7X's galloping double-bass grooves or the deliberate restraint that made "Hail to the King" work, this guide has you covered.`,
+      keyPoints: [
+        "Ilejay replaced The Rev in 2011, recording Hail to the King (2013) — A7X's only #1 Billboard 200 album",
+        "His style traded The Rev's technical complexity for power, groove, and classic metal authority",
+        "DW Collector's Series kit and Zildjian A Custom cymbals built for arena-scale projection",
+        "Post-hardcore roots in Confide gave him the double-bass foundation for A7X's heavier material"
+      ]
+    },
+    technique: {
+      title: "Ilejay's Classic-Metal Power Groove",
+      overview: `Ilejay plays matched grip with an authoritative, high-velocity attack built for arena projection. Rather than showcase technical complexity, his playing on "Hail to the King" emphasizes consistent power and a driving mid-tempo groove that services classic heavy metal songwriting — galloping riffs, half-time verses, and hard-hitting backbeats.`,
+      stickGrip: {
+        type: 'Matched Grip',
+        description: "Ilejay uses a matched grip with heavier sticks and full-arm commitment, built to project across arena environments where stage volume competes with a PA reinforcing tens of thousands of people.",
+        tips: [
+          "Commit fully to each stroke — arena-scale power comes from conviction, not just technique",
+          "Keep backbeat snare hits consistently hard rather than varying dynamics unnecessarily",
+          "Let simplicity be a deliberate choice — restraint that serves the song is its own skill"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "Galloping Double Bass Groove",
+          description: "Ilejay's double bass work supports classic metal galloping rhythms — think Metallica's 'Sad But True' — locking with mid-tempo riffs rather than chasing extreme-metal speed.",
+          tempo: "100-160 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Learn the guitar's galloping riff first, then match the double bass pattern exactly to its rhythm before adding variation."
+        },
+        {
+          name: "Classic Metal Half-Time Verse",
+          description: "Ilejay often drops into a heavy half-time feel in verses, giving songs like 'Shepherd of Fire' a weighted, deliberate groove before opening up into a driving chorus.",
+          tempo: "140-155 BPM",
+          difficulty: "Beginner-Intermediate",
+          practiceHint: "Practice locking a half-time backbeat to a metronome, focusing on even spacing rather than speed."
+        },
+        {
+          name: "China-Accented Riff Punctuation",
+          description: "China cymbal hits mark riff transitions and structural moments throughout 'Hail to the King', giving arrangements a clear sense of when a new section begins.",
+          tempo: "Variable",
+          difficulty: "Intermediate",
+          practiceHint: "Map out the riff transitions in a song first, then place china accents only at those points."
+        }
+      ],
+      keySongs: [
+        { song: "Shepherd of Fire", album: "Hail to the King", year: 2013, why: "Album opener that announces the classic-metal direction with a powerful half-time groove" },
+        { song: "Hail to the King", album: "Hail to the King", year: 2013, why: "The most direct Metallica homage, with a galloping verse pattern and hard backbeat" },
+        { song: "This Means War", album: "Hail to the King", year: 2013, why: "The album's clearest double-bass showcase, driving through verse and pre-chorus" },
+        { song: "Coming Home", album: "Hail to the King", year: 2013, why: "Demonstrates dynamic restraint — sparse crash use building to the final chorus" }
+      ]
+    },
+    gear: {
+      title: "Ilejay's Signature Gear Setup",
+      drumKit: {
+        brand: 'DW',
+        model: "DW Collector's Series",
+        shells: 'North American Hard Rock Maple',
+        finish: 'Tobacco Burst',
+        config: {
+          kick: '22" x 18" Bass Drums (x2)',
+          snare: 'DW Collector\'s 14" x 5.5" Maple/Mahogany',
+          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom', '14" x 12" Rack Tom'],
+          floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
+        },
+        description: "DW's flagship Collector's Series maple shells deliver the attack and projection that arena-scale heavy metal demands. The double 22\" kick configuration supports A7X's galloping double-bass patterns, while the wide tom spread gives Ilejay range for fills across the band's expansive arrangements.",
+        affiliateNote: "DW Design Series or PDP Concept Maple offer a similar attack-focused character at a lower price point."
+      },
+      snare: {
+        brand: 'DW',
+        model: "DW Collector's Series 14\" x 5.5\" Maple/Mahogany",
+        size: '14" x 5.5"',
+        shell: 'Maple/Mahogany blend',
+        description: "The maple/mahogany blend balances brightness and body — enough crack for a direct, authoritative backbeat, enough warmth to sit correctly in a dense, layered classic-metal mix.",
+        alternative: "DW Performance Maple or Ludwig Classic Maple for a similar warm-but-cutting tone"
+      },
+      cymbals: {
+        brand: 'Zildjian',
+        series: 'Zildjian A Custom',
+        setup: [
+          { type: 'Hi-Hats', model: '14" Zildjian A Custom Hi-Hats', notes: 'Bright, cutting response for riding through guitar riffs' },
+          { type: 'Crash', model: '16" Zildjian A Custom Crash', notes: 'Fast, tight crash for quick accents' },
+          { type: 'Crash', model: '18" Zildjian A Custom Crash', notes: 'Fuller response for section endings' },
+          { type: 'Crash', model: '19" Zildjian A Custom Crash', notes: 'Climactic accents for the biggest arrangement moments' },
+          { type: 'Ride', model: '20" Zildjian A Custom Ride', notes: 'Clear bell definition for measured, controlled passages' },
+          { type: 'China', model: 'Zildjian A Custom China', notes: 'Trashy accent for riff punctuation' }
+        ],
+        description: "Zildjian's A Custom series — bright B20 bronze with computer-guided lathing — projects clearly through A7X's frequency-dense guitar mix, a functional requirement at the volume level of arena and festival touring."
+      },
+      pedals: {
+        brand: 'DW',
+        model: 'DW 9000 Series Double Bass Pedal',
+        description: "The DW 9000's smooth cam action and field-replaceable components deliver the consistent double-kick performance needed across a two-year world tour of hundreds of shows.",
+        alternative: "DW 5000 Double for a similar feel at a lower price point"
+      },
+      sticks: {
+        brand: 'Vic Firth',
+        model: 'Vic Firth American Classic 5A',
+        specs: 'Hickory, wood tip',
+        description: "A balanced 5A profile that provides both power for backbeat hits and control for cymbal articulation across A7X's classic-metal dynamic range.",
+        alternative: "Promark 5A or Vater 5A for a similar balanced feel"
+      },
+      heads: {
+        kick: 'Remo Powerstroke 3',
+        snare: 'Remo Ambassador Coated',
+        toms: 'Remo Emperor Coated',
+        resonant: 'Remo Ambassador Clear'
+      }
+    },
+    tuning: {
+      title: "Tuning for Ilejay's Classic-Metal Sound",
+      overview: "Ilejay tunes for punch and authority, keeping A7X's classic-metal riffs driving and defined without sacrificing low-end weight.",
+      kickDrum: {
+        tension: "Medium-tight",
+        muffling: "Moderate, focused attack",
+        description: "A punchy, attack-focused tuning keeps galloping double-bass patterns defined while retaining enough low end to anchor arena-scale performances.",
+        tip: "Balance attack and boom — enough click for double-bass clarity, enough low end for driving weight."
+      },
+      snare: {
+        tension: "Medium",
+        muffling: "Minimal",
+        description: "A moderate tension keeps the maple/mahogany snare's crack and body balanced, so it sits forward in the mix without losing warmth in the low registers.",
+        tip: "Tune for a direct, dry crack rather than maximum tension — the goal is authority, not the tightest possible snare."
+      },
+      toms: {
+        tension: "Medium",
+        muffling: "One Moongel per tom",
+        description: "Remo Emperor Coated heads keep toms durable and punchy for fills across long arena sets.",
+        tip: "Keep resonant heads slightly lower than batter heads for a focused decay that cuts through a layered mix."
+      }
+    },
+    practice: {
+      title: "Developing Ilejay's Power-and-Groove Attack",
+      exercises: [
+        {
+          name: "Galloping Riff-Lock Drill",
+          description: "Build the driving, riff-locked double bass power behind Ilejay's classic-metal grooves",
+          instructions: "Pick a galloping thrash or classic-metal riff and practice a double bass pattern that matches its exact rhythm at full commitment, not just correct timing.",
+          duration: "15 minutes daily",
+          goal: "A double bass pattern that drives with the same power and conviction as the riff"
+        },
+        {
+          name: "Half-Time Backbeat Builder",
+          description: "Develop the weighted, deliberate half-time groove that anchors verses like 'Shepherd of Fire'",
+          instructions: "Play a half-time backbeat against a metronome at 140-155 BPM, focusing on identical volume and spacing on every snare hit for two minutes straight.",
+          duration: "10 minutes daily",
+          goal: "A half-time groove that feels heavy and purposeful rather than sparse"
+        },
+        {
+          name: "Structural Accent Mapping",
+          description: "Practice placing china accents at meaningful song transitions rather than scattering them freely",
+          instructions: "Map out the exact riff transitions in a song, then place china cymbal accents only at those transition points.",
+          duration: "10 minutes daily",
+          goal: "China accents that reinforce song structure rather than distract from it"
+        }
+      ],
+      commonMistakes: [
+        "Adding technical complexity where the song calls for restraint and power",
+        "Playing double bass without matching the riff's exact rhythmic feel",
+        "Letting half-time grooves feel sparse instead of weighted and deliberate",
+        "Scattering china accents randomly instead of at structural transitions"
+      ]
+    },
+    budgetSetups: {
+      budget: {
+        price: "$900",
+        label: "Starter Setup",
+        kit: "DW Design Series or PDP Concept Maple ($650)",
+        cymbals: "Zildjian Planet Z Pack ($200)",
+        pedals: "DW 5000 Single ($100)",
+        sticks: "Vic Firth American Classic 5A ($10)",
+        notes: "DW's entry-level shells share the same brand DNA as Ilejay's Collector's Series."
+      },
+      mid: {
+        price: "$2,700",
+        label: "Intermediate Setup",
+        kit: "DW Design Series full kit ($1,700)",
+        cymbals: "Zildjian A series partial set ($800)",
+        pedals: "DW 5000 Double ($200)",
+        sticks: "Vic Firth American Classic 5A ($10)",
+        notes: "The DW 5000 double pedal captures similar smooth cam action to Ilejay's DW 9000 at a lower price."
+      },
+      pro: {
+        price: "$5,500+",
+        label: "Professional Setup",
+        kit: "DW Collector's Series ($3,000+)",
+        cymbals: "Full Zildjian A Custom selection ($1,700+)",
+        pedals: "DW 9000 Double ($400)",
+        heads: "Full Remo setup ($150)",
+        notes: "Touring-ready setup matching Ilejay's Hail to the King era rig."
+      }
+    },
+    faq: [
+      {
+        question: "What makes Arin Ilejay's drumming style unique?",
+        answer: "Ilejay deliberately traded The Rev's technically extravagant, jazz-influenced approach for straightforward power and groove on \"Hail to the King\" — a classic heavy metal tribute album. His skill lies in making simple, driving grooves feel authoritative and arena-ready rather than underpowered, a different but complementary form of mastery within A7X's history."
+      },
+      {
+        question: "What gear do I need to sound like Arin Ilejay?",
+        answer: "Ilejay played a DW Collector's Series kit with a 14\" x 5.5\" maple/mahogany snare, Zildjian A Custom cymbals, a DW 9000 double bass pedal, and Vic Firth American Classic 5A sticks. A DW Design Series kit with Zildjian Planet Z cymbals delivers a similar attack-focused sound at a fraction of the cost."
+      },
+      {
+        question: "What songs should I learn first to sound like Arin Ilejay?",
+        answer: "Start with \"Shepherd of Fire\" for its half-time verse groove, then \"Hail to the King\" for its galloping, Metallica-referencing verse pattern. \"This Means War\" is the best showcase of his driving double-bass work, and \"Coming Home\" demonstrates his dynamic restraint."
+      },
+      {
+        question: "Did Arin Ilejay play on Avenged Sevenfold's Nightmare album?",
+        answer: "No. \"Nightmare\" (2010) was recorded by Dream Theater's Mike Portnoy as a tribute performance following The Rev's death in 2009. Ilejay joined A7X in 2011 as the permanent replacement and recorded only one studio album with the band, \"Hail to the King\" (2013)."
+      },
+      {
+        question: "How do I get Arin Ilejay's drum sound?",
+        answer: "Tune the kick for punch and attack, keep the snare at moderate tension for a direct crack with body, and lock every double bass pattern to the guitar riff's exact galloping rhythm. Commit fully to each stroke — Ilejay's arena-scale power comes from conviction and consistency, not flash."
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/arin-ilejay',
+      similarDrummers: ['Vinnie Paul', 'Shannon Larkin', 'Mike Portnoy'],
+      relatedGuides: ['how-to-sound-like-vinnie-paul', 'how-to-sound-like-shannon-larkin', 'how-to-sound-like-mike-portnoy'],
+      gearPages: ['/gear/drums', '/brands/dw', '/brands/zildjian']
+    },
+    licksUrl: '/drummers/arin-ilejay/licks',
+    relatedArticles: [
+      { slug: 'arin-ilejay-drum-setup', label: "Arin Ilejay's Drum Setup — Avenged Sevenfold's Hail to the King Era" },
+      { slug: 'hail-to-the-king-drum-setup', label: "Arin Ilejay's Drum Setup on Avenged Sevenfold's Hail to the King (2013)" }
+    ]
+  },
 };
 
 // ================================

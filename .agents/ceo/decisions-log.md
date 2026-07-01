@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-01 05:33 UTC*
 
 ---
+## 2026-07-01 16:45 UTC — Ralph drained backlog 45→24; refilled to 36 (14 promoted, 5 duplicates closed)
+
+### Context (≤3 lines)
+Deep run, metrics fresh (16:45 UTC). Huge throughput since 11:00: ~40 PRs merged today drained eligible ai-fix backlog from 45 → 24, dropping us into the "<25 → promote liberally" band. L1 (gsc-watch, gen 2026-06-29) and L3 (indexation, gen 2026-06-29) snapshots unchanged since last run — already fully processed, no new action. Founder-ideas inbox empty.
+
+### Actions taken
+- **Delegated triage** of the 40 freshest open `seo-proposal` issues to a subagent: verify against learned-patterns.md promote rubric + grep live data files (`gearPriceHistory.js`, `drummerComparisons.js`, `soundLikeGuides.js`, `top10Lists.js`, `drummerEvolution.js`, per-drummer album arcs) for duplicates before promoting.
+- **Promoted 14 to `ai-fix`**: #2832 (gear price batch 19), #2811 (Slayer *Divine Intervention*), #2803 (comparison batch 23), #2800 (Top-10 batch 17), #2773 (Trivium Alex Bent arc), #2732 (Top-10 batch 16), #2722 (Fear Factory *Demanufacture*), #2702 (Iron Maiden *Fear of the Dark*), #2701 (Pantera *Reinventing the Steel*), #2801/#2778/#2771/#2770/#2705 (partial-duplicate batches — promoted for their genuine-new content only).
+- **Closed 5 confirmed full duplicates** (zero new value, all content already live): #2731 (lick pages — all 3 exist), #2703 (SoundLike guides — all 3 exist), #2706 (Top-10 lists — all 3 exist), #3211 (Drummer Evolution — all 3 exist), #2903 (Bill Ward Vol. 4 — already shipped).
+- **Flagged 12 partial-duplicate batches with implementer comments** (not closed — still have genuine new content, just noting which slugs to skip): #3248, #3224, #3223, #3219, #3186, #3147, #3286, #2801, #2778, #2771, #2770, #2705.
+- **Atomic-split sweep**: no genuine candidates. Zombies with 0-2 comments are normal SEO batches awaiting Watcher pickup. High-comment zombies (#1822/#1824/#1825 at 82-100 comments, #1239/#1240/#1241) all correctly `hold`-labeled from prior runs — not stuck.
+- **GSC-gap check**: joey-jordison drum-kit/drum-set cluster (impr ≥50, CTR <2%) still flagged in metrics.md but already covered by shipped #3059, awaiting re-index per prior run. No new escalation.
+
+### State delta
+- **ai-fix backlog: 24 → 36** (14 promoted; now in 25-44 "sparingly" band — further promotion should favor 5★ only)
+- **Issues closed:** 5 (confirmed duplicates)
+- **seo-proposal bank:** ~69 → ~50 (14 promoted out, 5 closed); no new proposals filed since 2026-06-29 11:56 — SEO Agent has gone quiet for ~2 days, worth watching next run
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 40 freshest triaged (14 promoted, 5 duplicates closed, 12 partial-dupes flagged with skip-notes, rest already ai-fix from prior passes). ✅ L1/L2/L3: no new fires (snapshots unchanged since 11:00). ✅ Atomic split: swept, no candidates. ✅ Decisions logged.
+
+### Next Run (19:00 UTC evening)
+1. **SEO Agent quiet since 2026-06-29 11:56** — no new seo-proposal issues in ~2 days despite high Ralph throughput. If still no new proposals next run, check the SEO Agent workflow for a stall.
+2. **Backlog at 36** (sparingly zone) — promote only 5★ newest proposals if any appear.
+3. **Watch for L1/L3 snapshot refresh** — current ones are from 2026-06-29; a new weekly run should reflect today's ~40 merged PRs (Kit Overview prose, album arcs, SoundLike guides) and may show CTR/position wins.
+4. **12 partial-duplicate batches flagged** — confirm Ralph respects the skip-notes rather than re-implementing already-shipped slugs.
+
+---
 ## 2026-07-01 11:00 UTC — L1/L2 verdicts all pre-fixed; promoted 9 proposals to cap (45); closed 3 duplicates
 
 ### Context (≤3 lines)

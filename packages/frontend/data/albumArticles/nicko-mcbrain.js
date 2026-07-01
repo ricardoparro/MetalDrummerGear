@@ -1434,7 +1434,8 @@ export const articles = {
       "number-of-the-beast-drum-setup",
       "powerslave-drum-setup",
       "somewhere-in-time-drum-setup",
-      "piece-of-mind-drum-setup"
+      "piece-of-mind-drum-setup",
+      "no-prayer-for-the-dying-drum-setup"
     ],
     "relatedDrummers": [
       1,
@@ -1455,6 +1456,299 @@ export const articles = {
     "conclusion": {
       "title": "The End of an Era — and the Proof of a Range",
       "content": "Seventh Son of a Seventh Son is not the album most people think of first when they think of Nicko McBrain. That distinction belongs to \"The Number of the Beast\" era, or to Powerslave's relentless forward momentum. But among those who study his playing carefully, the 1988 concept record holds a special place: it is where Nicko proved he could do more than gallop.\n\nThe Ludwig Classic Maple kit that had powered five years of Iron Maiden records found new applications on Seventh Son. Melodic floor tom lines. Dynamic navigation across nine minutes of progressive arrangement. Restrained support for synthesizer passages. Musical ride cymbal work across complex structures. None of this appears in \"Aces High\" or \"Where Eagles Dare\" — and that's the point.\n\nThe album closed the founding Ludwig/Paiste 2002 chapter of Nicko's career and opened the door to whatever came next. It showed that the tools were always secondary to the player: the same kit that drove 170 BPM gallops on Powerslave could adapt to Iron Maiden's most progressive and demanding material without modification.\n\nFor drummers studying Nicko McBrain's career today, Seventh Son offers the most nuanced chapter of his 1980s output. It is the album that answered a question most hadn't thought to ask: what happens when you put a world-class metal drummer inside a concept album? The answer is on record — and it is one of the most underappreciated drum performances in classic heavy metal history."
+    }
+  },
+  "no-prayer-for-the-dying-drum-setup": {
+    "slug": "no-prayer-for-the-dying-drum-setup",
+    "albumTitle": "No Prayer for the Dying",
+    "artist": "Iron Maiden",
+    "drummer": "Nicko McBrain",
+    "drummerId": 41,
+    "drummerSlug": "nicko-mcbrain",
+    "relatedDrummerSlug": "nicko-mcbrain",
+    "year": 1990,
+    "genre": "Heavy Metal / NWOBHM",
+    "label": "EMI",
+    "studio": "Barnyard Studios, Essex, UK (Rolling Stones Mobile Studio)",
+    "producer": "Martin Birch",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "No Prayer for the Dying Drum Setup: Nicko McBrain's Gear on Iron Maiden's Only UK #1 Single (1990)",
+    "description": "The complete gear breakdown for Iron Maiden's No Prayer for the Dying (1990). Discover Nicko McBrain's Pearl Free-Floating snare and Zildjian A cymbals behind 'Bring Your Daughter to the Slaughter' — the band's only UK number one single.",
+    "seoKeywords": [
+      "nicko mcbrain 1990 kit",
+      "iron maiden no prayer for the dying drums",
+      "bring your daughter to the slaughter drums",
+      "no prayer for the dying drum setup",
+      "nicko mcbrain pearl snare",
+      "iron maiden barnyard studios"
+    ],
+    "ogImage": "/images/drummers/nicko-mcbrain.webp",
+    "peakChart": "#2 UK Albums Chart",
+    "intro": {
+      "title": "A Rawer Iron Maiden — and the Band's Only UK Number One",
+      "content": "Released on October 1, 1990, No Prayer for the Dying marked a deliberate turn away from the polished, synthesizer-laced sound of Seventh Son of a Seventh Son. Guitarist Adrian Smith departed during pre-production, unhappy with bassist Steve Harris's push toward a stripped-down, back-to-basics direction. His replacement, Janick Gers — previously Bruce Dickinson's solo guitarist — made his Iron Maiden debut on the record, becoming the band's first new member in seven years.\n\nRather than book a conventional studio, Iron Maiden set up the Rolling Stones Mobile Studio inside a barn on Steve Harris's Essex property, quickly nicknamed Barnyard Studios. Producer Martin Birch, who had helmed every Maiden album since Killers, tracked the sessions with a rougher, more live-in-the-room character than the meticulously layered Seventh Son.\n\nThe album debuted at number two on the UK Albums Chart. Its lead single, \"Holy Smoke\" — the first Maiden single to feature Gers — reached number three on the UK Singles Chart. But it was \"Bring Your Daughter... to the Slaughter,\" originally written for the 1989 A Nightmare on Elm Street soundtrack and re-recorded for the album, that became the band's defining commercial milestone: released as a single in December 1990, it entered the UK Singles Chart at number one, the only chart-topping single of Iron Maiden's career.\n\nFor Nicko McBrain, No Prayer for the Dying meant adapting his playing to a leaner, more aggressive production. Barnyard Studios' live-room ambience and the mobile rig's more direct signal chain pushed Nicko toward a punchier, less processed drum sound — a notable departure from the polished Musicland Studios sessions of 1988.",
+      "keyPoints": [
+        "Recorded in a barn on Steve Harris's Essex property using the Rolling Stones Mobile Studio — nicknamed Barnyard Studios",
+        "Janick Gers's debut album, replacing Adrian Smith after his mid-production departure",
+        "\"Bring Your Daughter... to the Slaughter\" is Iron Maiden's only UK number one single",
+        "\"Holy Smoke\" reached UK #3 — the first single to feature Janick Gers",
+        "Album debuted at #2 on the UK Albums Chart",
+        "Rawer, more live-sounding production than Seventh Son of a Seventh Son — Nicko's drum tone reflects the shift"
+      ]
+    },
+    "drumKit": {
+      "title": "Nicko McBrain's Pearl Setup for the Barnyard Sessions",
+      "brand": "Pearl",
+      "model": "Pearl Export Series",
+      "finish": "Black finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 14\" Bass Drum (single)"
+        ],
+        "toms": [
+          "12\" x 8\" Rack Tom",
+          "13\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom",
+          "18\" x 16\" Floor Tom"
+        ],
+        "shells": "Mahogany/basswood shells — punchy, controlled attack"
+      },
+      "description": "For No Prayer for the Dying, Nicko McBrain moved away from the Ludwig Classic Maple kit that had carried him through Piece of Mind, Powerslave, Somewhere in Time, and Seventh Son of a Seventh Son, tracking the album on a Pearl Export kit. The shift suited the session's stripped-down philosophy: Pearl's mahogany/basswood shells produced a tighter, punchier attack than the warm, singing Ludwig maple, matching the rawer character Martin Birch and the band wanted for the barn sessions.\n\nRecording inside an actual barn with the Rolling Stones Mobile Studio changed the acoustic equation entirely. There was no purpose-built control room or isolation booth — just a live room with natural, occasionally boomy ambience. The Pearl kit's more focused low end helped keep the bass drum and tom sound from washing out in a space that was never designed for tracking drums.\n\nThe configuration itself stayed close to Nicko's established layout: single 22\" bass drum, two rack toms, two floor toms. \"Bring Your Daughter... to the Slaughter\" leans on driving tom fills between its start-stop verse riffs, while \"Holy Smoke\" and \"Public Enema Number One\" keep the pattern tight and direct — drumming built for a leaner, more aggressive version of the band.\n\nThe single-pedal bass drum remained non-negotiable. Whatever changed about the studio, the shells, or the production philosophy, Nicko's one-foot gallop technique carried through unchanged.",
+      "notes": [
+        "Pearl Export kit — a one-album departure from the Ludwig Classic Maple used 1983-1988",
+        "Mahogany/basswood shells for a tighter, punchier attack suited to the barn's live-room sound",
+        "Recorded with the Rolling Stones Mobile Studio inside Steve Harris's barn — no conventional control room",
+        "Single 22\" bass drum maintained across the stylistic shift"
+      ],
+      "estimatedValue": "$1,800-2,400 (1990)"
+    },
+    "snare": {
+      "title": "The Pearl Free-Floating Snare",
+      "brand": "Pearl",
+      "model": "Pearl Free-Floating Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel shell, isolated from the rim via Pearl's Free-Floating mounting system",
+      "description": "The signature gear story of No Prayer for the Dying is Nicko McBrain's switch to a Pearl Free-Floating snare — a design where the shell is suspended independently of the rim and lugs, reducing unwanted overtones from rim contact and allowing the shell to resonate more freely. It replaced the Ludwig Supraphonic that had defined his snare sound on every Maiden studio album since Number of the Beast.\n\nThe Free-Floating design gave Birch a snare that cracked hard without the ringy overtones that can muddy a raw, live-room recording. In a barn with minimal acoustic treatment, a snare that resonated cleanly and decayed quickly was a practical necessity, not just a tonal preference. On \"Bring Your Daughter... to the Slaughter,\" the snare sits forward and dry — a noticeably different character from the airier Supraphonic crack of the late-80s records.\n\nTuned tighter than his 1980s setup, the snare delivered the punchy, almost aggressive backbeat that suits the album's leaner arrangements. Remo heads kept the attack consistent take after take, an important factor given the mobile studio's more limited overdub flexibility compared to a full residential facility.",
+      "tuningSetting": "Tight, high tension for a dry, punchy crack",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side",
+      "estimatedValue": "$350-450 (1990)"
+    },
+    "cymbals": {
+      "title": "A One-Album Switch to Zildjian A",
+      "brand": "Zildjian",
+      "series": "Zildjian A",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian A 14\" New Beat Hi-Hats",
+          "position": "Left side",
+          "notes": "Crisp, controlled chick and a tighter stick sound than the Paiste 2002s"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A 16\" Medium Crash",
+          "position": "Left of hi-hats",
+          "notes": "Quick decay suited to the barn's live acoustics"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A 18\" Medium Crash",
+          "position": "Right of toms",
+          "notes": "Primary accent cymbal for chorus hits"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian A 20\" Medium Ride",
+          "position": "Far right",
+          "notes": "Darker, drier ping than the Paiste 2002 ride it replaced"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A 18\" China Boy High",
+          "position": "Above floor tom",
+          "notes": "Aggressive accent for song transitions"
+        }
+      ],
+      "description": "Alongside the Pearl kit and snare, Nicko McBrain tracked No Prayer for the Dying on Zildjian A series cymbals rather than the Paiste 2002s that had defined his sound since the early 1980s. The Zildjian A's darker, drier character fit the album's rawer production values — less shimmer, more directness.\n\nThe 14\" New Beat hi-hats delivered a tighter, more controlled chick than the brighter Paiste 2002s, which mattered in the live-room barn setting where cymbal wash could easily bleed into other mics. \"Public Enema Number One\" and \"Tailgunner\" lean on fast, controlled hi-hat work that benefits from that tighter response.\n\nThe crash pairing (16\" and 18\") and 20\" ride followed Nicko's usual structure, but the Zildjian A's drier decay meant accents cut through the mix quickly without lingering — a better match for the more direct, less reverberant Barnyard Studios sound than the longer-sustaining Paiste cymbals would have offered.\n\nThe cymbal switch, like the Pearl kit and snare, proved to be a one-album experiment. By the time Iron Maiden reconvened for Fear of the Dark, Nicko's setup had already begun evolving again — but the Zildjian A sound on No Prayer for the Dying remains a distinct chapter in his gear history.",
+      "estimatedValue": "$1,300-1,600 total (1990)"
+    },
+    "hardware": {
+      "title": "Pearl Hardware for the Barnyard Sessions",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Pearl",
+          "model": "Pearl P-201",
+          "notes": "Single pedal — the gear changed around him, but the one-foot gallop never did",
+          "description": "The Pearl P-201's direct chain-drive action gave Nicko a firm, responsive feel for the album's leaner, more aggressive tempos, from the galloping verses of \"Holy Smoke\" to the tightly wound stops of \"Bring Your Daughter... to the Slaughter.\""
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl H-900",
+          "notes": "Matched the rest of the Export hardware package for the sessions"
+        },
+        {
+          "type": "Throne",
+          "brand": "Pearl",
+          "model": "Pearl D-1000",
+          "notes": "Standard drum throne for the barn sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark 5B",
+          "notes": "Same stick model used throughout Nicko's 1980s Iron Maiden tenure"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Ambassador Clear",
+        "toms": "Remo Ambassador Coated",
+        "snare": "Remo Ambassador Coated"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Martin Birch and the Rolling Stones Mobile Studio, Inside a Barn",
+      "content": "No Prayer for the Dying was recorded in June 1990 at Barnyard Studios — not a conventional studio at all, but a barn on Steve Harris's Essex property, wired for recording using the Rolling Stones Mobile Studio, the same portable rig that had captured Led Zeppelin and Deep Purple sessions in the 1970s. Producer Martin Birch, who had worked with Iron Maiden since 1981's Killers, aimed for a rawer, more immediate sound than the layered production of Seventh Son of a Seventh Son.\n\n**Microphone Setup:**\n- Kick drum: AKG D12 inside, close-miked for the punchier Pearl shells\n- Snare: Shure SM57 top and bottom, capturing the dry crack of the Free-Floating design\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat and overheads: AKG C451 pair, positioned to control bleed in the untreated barn space\n- Room mics: Minimal — the barn's natural ambience was used sparingly rather than as a featured element\n\n**A Deliberately Rougher Sound:**\nBirch and the band wanted No Prayer for the Dying to sound less polished than its predecessor — closer to a band playing live in a room than a meticulously constructed studio record. The barn setting, the mobile rig, and Nicko's gear switch to Pearl and Zildjian all served that goal. Where Seventh Son used the acoustic character of Musicland Studios to let synthesizer textures breathe, No Prayer used a rough, boxy room sound to emphasize directness and aggression.\n\n**Working Around a Non-Studio Space:**\nTracking drums in a barn rather than a purpose-built studio meant compromises — less predictable acoustics, more bleed between mics, fewer options for isolation. Nicko's tighter-tuned Pearl kit and dry Free-Floating snare were, in part, practical responses to those constraints as much as a deliberate tonal choice.",
+      "keyTechniques": [
+        "Recorded with the Rolling Stones Mobile Studio inside a barn on Steve Harris's Essex property",
+        "Producer Martin Birch pursued a rawer, more live-sounding record than Seventh Son of a Seventh Son",
+        "Pearl Export kit and Free-Floating snare chosen partly to control resonance in an untreated room",
+        "Zildjian A cymbals' drier decay suited the barn's boxier acoustics better than Paiste 2002"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Holy Smoke",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "Lead single and the first Maiden track to feature Janick Gers",
+          "Driving, uptempo gallop with tight hi-hat sixteenths",
+          "Reached #3 on the UK Singles Chart",
+          "Punchy Pearl snare crack drives the verses"
+        ],
+        "gearNotes": "Zildjian A 14\" New Beat hi-hats deliver the tight chick needed for the fast verse pattern."
+      },
+      {
+        "track": "Bring Your Daughter... to the Slaughter",
+        "bpm": "132",
+        "signature": "4/4",
+        "highlights": [
+          "Iron Maiden's only UK #1 single — originally written for A Nightmare on Elm Street 5",
+          "Start-stop verse structure built around dramatic tom fills",
+          "Aggressive, dry snare crack anchors the chorus",
+          "One of Nicko's most recognizable performances of the era"
+        ],
+        "gearNotes": "The Pearl Free-Floating snare's dry, controlled decay is central to the track's punchy verse dynamics."
+      },
+      {
+        "track": "Public Enema Number One",
+        "bpm": "160",
+        "signature": "4/4",
+        "highlights": [
+          "Fast, aggressive album opener setting the tone for the record's rawer direction",
+          "Relentless single-pedal gallop throughout",
+          "Tight hi-hat work under a driving verse riff"
+        ],
+        "gearNotes": "Zildjian A ride and hi-hats provide the tighter, drier articulation the faster tempo demands."
+      },
+      {
+        "track": "Tailgunner",
+        "bpm": "158",
+        "signature": "4/4",
+        "highlights": [
+          "High-energy album track with rapid-fire verse patterns",
+          "Showcases the punchier low end of the Pearl kit's mahogany/basswood shells",
+          "Fast crash accents mark every chorus entry"
+        ],
+        "gearNotes": "Pearl Export toms cut cleanly through the barn's live acoustics without excessive ring."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit did Nicko McBrain use on No Prayer for the Dying?",
+        "answer": "Nicko McBrain recorded No Prayer for the Dying (1990) on a Pearl Export kit — a one-album departure from the Ludwig Classic Maple he had used from Piece of Mind (1983) through Seventh Son of a Seventh Son (1988). He paired it with a Pearl Free-Floating snare and switched from his longtime Paiste 2002 cymbals to Zildjian A series. The setup suited the rawer, more live-sounding production the band pursued at Barnyard Studios. For his full gear history, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain)."
+      },
+      {
+        "question": "When did Iron Maiden release No Prayer for the Dying?",
+        "answer": "No Prayer for the Dying was released on October 1, 1990, on EMI. It was recorded in June 1990 at Barnyard Studios — a barn on bassist Steve Harris's Essex property, wired for recording using the Rolling Stones Mobile Studio — with longtime producer Martin Birch. The album debuted at number two on the UK Albums Chart and was the first Iron Maiden record to feature guitarist Janick Gers, who replaced Adrian Smith during pre-production."
+      },
+      {
+        "question": "What is Iron Maiden's only UK number one single?",
+        "answer": "\"Bring Your Daughter... to the Slaughter,\" from No Prayer for the Dying, is Iron Maiden's only UK number one single. Originally written for the 1989 film A Nightmare on Elm Street 5: The Dream Child and re-recorded for the album, it was released as a single in December 1990 and entered the UK Singles Chart at number one, where it stayed for two weeks. It remains the sole chart-topping single of the band's career, despite decades of top-ten hits."
+      },
+      {
+        "question": "Why did Nicko McBrain switch from Ludwig and Paiste for this album?",
+        "answer": "No Prayer for the Dying was recorded in a barn using the Rolling Stones Mobile Studio rather than a conventional studio, and the band deliberately pursued a rawer, more stripped-down sound than Seventh Son of a Seventh Son. Nicko McBrain's switch to a Pearl Export kit, Pearl Free-Floating snare, and Zildjian A cymbals gave producer Martin Birch a punchier, drier tone that suited the untreated live-room acoustics better than his usual Ludwig/Paiste combination. It proved to be a one-album experiment — his setup continued evolving on subsequent albums."
+      },
+      {
+        "question": "How does No Prayer for the Dying compare to Seventh Son of a Seventh Son?",
+        "answer": "The two albums represent opposite production philosophies. Seventh Son of a Seventh Son (1988) was a polished, synthesizer-layered concept album recorded at Musicland Studios in Munich. No Prayer for the Dying (1990) was a deliberate reaction against that — a leaner, rawer record tracked in a barn with a mobile studio rig, following Adrian Smith's departure and Janick Gers's arrival. Nicko McBrain's drumming and gear shifted accordingly: from the dynamic, restrained playing and warm Ludwig maple tone of Seventh Son to the punchier, more aggressive Pearl and Zildjian setup on No Prayer. See the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for the preceding chapter."
+      }
+    ],
+    "evolution": {
+      "title": "No Prayer for the Dying in Nicko McBrain's Gear Progression",
+      "content": "No Prayer for the Dying (1990) stands apart in Nicko McBrain's gear history as a one-album experiment. It followed five years of Ludwig Classic Maple and Paiste 2002 consistency (Piece of Mind through Seventh Son of a Seventh Son) and preceded the Premier and Sonor eras that would define his 1990s and 2000s sound.\n\n**The founding era (1983-1988):** Ludwig Classic Maple, Paiste 2002, Ludwig Supraphonic snare, Ludwig Speed King pedal.\n\n**The Barnyard experiment (1990):** Pearl Export kit, Pearl Free-Floating snare, Zildjian A cymbals, Pearl P-201 pedal — a rawer setup for a rawer record, chosen to suit a barn session rather than a conventional studio.\n\n**What came next:** By the time of Fear of the Dark (1992) and beyond, Nicko's gear had continued to change again, eventually settling into the Premier Artist kit heard on Brave New World (2000) and later Sonor endorsements.\n\n**The constant:** One bass drum. One pedal — Pearl P-201 in 1990, just as it was Ludwig Speed King in 1988. Whatever else changed around the sessions, the single-pedal gallop never did.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Pearl Export",
+          "now": "Sonor SQ1"
+        },
+        {
+          "category": "Snare",
+          "then": "Pearl Free-Floating 14x6.5\"",
+          "now": "Sonor Nicko McBrain Signature 14x6.5\""
+        },
+        {
+          "category": "Cymbals",
+          "then": "Zildjian A",
+          "now": "Paiste Signature"
+        },
+        {
+          "category": "Sticks",
+          "then": "Pro-Mark 5B",
+          "now": "Vic Firth Nicko McBrain Signature"
+        },
+        {
+          "category": "Pedal",
+          "then": "Pearl P-201 single",
+          "now": "Sonor single pedal (still single!)"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "seventh-son-drum-setup",
+      "number-of-the-beast-drum-setup",
+      "powerslave-drum-setup",
+      "brave-new-world-drum-setup"
+    ],
+    "relatedDrummers": [
+      1,
+      4,
+      12
+    ],
+    "relatedArticles": [
+      "thrash-metal-drummers",
+      "most-innovative-drummers"
+    ],
+    "relatedLicks": [
+      {
+        "drummerSlug": "nicko-mcbrain",
+        "lickSlug": "nicko-mcbrain-the-number-of-the-beast",
+        "label": "Watch Nicko McBrain's drum breakdown"
+      }
+    ],
+    "conclusion": {
+      "title": "The Album That Divided Fans — and Gave Iron Maiden Its Only Number One",
+      "content": "No Prayer for the Dying rarely tops fan rankings of Iron Maiden's catalog. Its rawer, barn-recorded sound and departure from the progressive ambitions of Seventh Son of a Seventh Son made it a divisive record from release. But in commercial terms, it delivered something no other Iron Maiden album has matched: a UK number one single.\n\nFor Nicko McBrain, the album represents a genuine one-off in his gear history. The Pearl Export kit, Pearl Free-Floating snare, and Zildjian A cymbals never returned after this session — a deliberate response to a specific recording environment and production philosophy that the band and Martin Birch chose not to repeat. It's a reminder that even the most consistent gear setups in metal history have their exceptions, and that those exceptions often tell the most interesting stories.\n\nRecorded in a barn with a mobile rig, marking Janick Gers's debut and Adrian Smith's exit, and delivering \"Bring Your Daughter... to the Slaughter\" to the top of the UK Singles Chart, No Prayer for the Dying occupies a strange, singular place in Iron Maiden's history — and Nicko's drumming, adapted to a punchier, drier gear setup, is very much part of that story.\n\nFor the fuller arc of Nicko's gear evolution across this period, see the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for what came before, and check back for the Fear of the Dark chapter that followed."
     }
   },
   "whats-in-nicko-mcbrains-kit": {

@@ -1498,7 +1498,333 @@ export const articles = {
       ]
     },
     "relatedAlbums": [
-      "pale-communion-drum-setup"
+      "pale-communion-drum-setup",
+      "in-cauda-venenum-drum-setup"
+    ],
+    "relatedArticles": [
+      "progressive-rock-drumming",
+      "progressive-metal-drumming",
+      "opeth-discography"
+    ],
+    "relatedDrummers": [
+      14,
+      5,
+      13
+    ]
+  },
+  "in-cauda-venenum-drum-setup": {
+    "slug": "in-cauda-venenum-drum-setup",
+    "albumTitle": "In Cauda Venenum",
+    "artist": "Opeth",
+    "drummer": "Martin Axenrot",
+    "drummerId": null,
+    "relatedDrummerSlug": "martin-axenrot",
+    "year": 2019,
+    "genre": "Progressive Rock / Progressive Metal",
+    "label": "Moderbolaget Records / Nuclear Blast",
+    "studio": "Park Studios & Junkmail Studios, Stockholm; Angel Recording Studios, London (strings)",
+    "producer": "Mikael Åkerfeldt (with Stefan Boman co-producing, engineering, and mixing)",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "peakChart": "#2 Finland, #5 Germany, #12 Sweden, #13 UK Albums, #59 US Billboard 200",
+    "title": "Martin Axenrot's Drum Setup on Opeth's In Cauda Venenum (2019)",
+    "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's In Cauda Venenum (2019) — his final studio album with the band. Complete breakdown of Axenrot's Pearl Reference Series setup, the dual Swedish/English recording, Dave Stewart's string arrangements, and the record that closed the Axenrot era before Waltteri Väyrynen took the drum chair in 2022.",
+    "seoKeywords": [
+      "in cauda venenum drums",
+      "martin axenrot in cauda venenum",
+      "opeth in cauda venenum drum setup",
+      "martin axenrot 2019 drum kit",
+      "opeth swedish album drums",
+      "opeth 2019 drums",
+      "martin axenrot last opeth album",
+      "opeth newest album drum setup"
+    ],
+    "ogImage": "/images/albums/in-cauda-venenum-drums.webp",
+    "intro": {
+      "title": "The Album Where Opeth Spoke in Two Languages",
+      "content": "Released on September 27, 2019 through Moderbolaget Records and Nuclear Blast, In Cauda Venenum is Opeth's thirteenth studio album and, at 67 minutes and 57 seconds, the longest record of the band's career. It is also the most linguistically ambitious: Mikael Åkerfeldt wrote and recorded the entire album in Swedish first — his native language, and one Opeth had essentially never sung in before, aside from a single one-off cover of a Marie Fredriksson song years earlier. Åkerfeldt has been explicit that the Swedish version is the \"real\" record and his personal preference. Midway through the sessions, worried the language barrier would alienate longtime fans, he tracked a full parallel English-language version with his own translations, so In Cauda Venenum exists today as two complete, separately sung albums sharing one set of music — Livets trädgård and Garden of Earthly Delights, Svekets prins and Dignity, Hjärtat vet vad handen gör and Heart in Hand, and so on through all ten tracks.\n\nFor Martin Axenrot, In Cauda Venenum was the culmination of everything he had built since inheriting the Opeth drum chair from Martin Lopez in 2006. It also turned out to be his last studio album with the band — Axenrot departed in 2021, with Waltteri Väyrynen (formerly of Paradise Lost) taking over the drum stool in September 2022 and eventually recording Last Will and Testament (2024). That makes In Cauda Venenum the closing chapter of a thirteen-year Axenrot era that ran from Watershed's twin-kick death metal aggression through Heritage's jazz-brush restraint to this record's full orchestral ambition.\n\nRecorded between November 2018 and March 2019 at Park Studios and Junkmail Studios in Stockholm, with string sections tracked at Angel Recording Studios in London and arranged by Dave Stewart (Eurythmics), In Cauda Venenum is Opeth's most compositionally dense record — ten tracks that move through mellotron-soaked interludes, orchestral strings, and the extended progressive-rock songcraft the band had been refining since Heritage. For Axenrot, tracking two complete vocal-language versions of the same music meant serving each arrangement's dynamic architecture twice over, and his drum performance is one of the connective threads that makes the Swedish and English versions feel like the same living document rather than two different records.\n\nProduced by Opeth with Mikael Åkerfeldt and co-produced, engineered, and mixed by Stefan Boman, In Cauda Venenum debuted at #2 in Finland, #5 in Germany, #12 in Sweden, #13 on the UK Albums chart, and #59 on the US Billboard 200 — while topping the UK's Independent, Progressive, and Rock & Metal charts. It remains one of the most acclaimed records of Opeth's post-death-metal era, and the final studio document of Martin Axenrot's tenure behind the kit.",
+      "keyPoints": [
+        "Opeth's 13th studio album and longest record at 67:57 — released simultaneously in Swedish and English",
+        "The Swedish version was the original, primary version — Opeth's first full-length album in Åkerfeldt's native language",
+        "Martin Axenrot's final studio album with Opeth before departing in 2021 (Waltteri Väyrynen joined in 2022)",
+        "Recorded at Park Studios & Junkmail Studios, Stockholm, with strings tracked at Angel Recording Studios, London",
+        "Produced by Mikael Åkerfeldt with Stefan Boman co-producing, engineering, and mixing; string arrangements by Dave Stewart"
+      ]
+    },
+    "drumKit": {
+      "title": "The Pearl Reference Series: Eight Years In, Full Orchestral Context",
+      "brand": "Pearl",
+      "model": "Pearl Reference Series",
+      "finish": "Natural / Custom Lacquer",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum",
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "6-ply maple/mahogany hybrid shells — same configuration carried through since Heritage"
+      },
+      "description": "By In Cauda Venenum, Axenrot had spent eight years with the Pearl Reference Series kit he had adopted for Heritage (2011) — through two further studio albums and multiple world tours. The twin 22\"x18\" bass drum, four-tom configuration remained unchanged from Pale Communion and Sorceress, but the demands placed on it were different. In Cauda Venenum's arrangements interleave dense orchestral string passages, mellotron textures, and extended song forms that stretch past eight minutes on three separate tracks, and Axenrot's job was to hold the rhythmic architecture together underneath music that was frequently more orchestral than metal.\n\nTracks like \"Heart in Hand\" and \"Next of Kin\" ask the kit to move fluidly between passages where the drums are the loudest element in the room and passages where they recede behind strings and mellotron, functioning almost as a chamber-music rhythm section. The Pearl Reference's resonant, open-voiced construction — the same quality that had suited Heritage's jazz restraint — proved equally suited to sitting underneath Dave Stewart's string arrangements without fighting them for space.\n\nThe twin 22\" kicks, largely held in reserve since Heritage's minimalism and only partially reintroduced on Sorceress, return more assertively on In Cauda Venenum's heavier tracks — \"Dignity\" and \"The Garroter\" both feature sustained double-bass passages that connect directly back to the Watershed-era vocabulary Axenrot built his reputation on in Bloodbath and Witchery. The album's dynamic range, from the hushed \"Garden of Earthly Delights\" intro to the closing crescendo of \"All Things Will Pass,\" asks more of the kit's response range than any Opeth record since Heritage.",
+      "notes": [
+        "Same twin 22\"x18\" Pearl Reference configuration carried through from Heritage, Pale Communion, and Sorceress",
+        "Kit shares sonic space with Dave Stewart's orchestral string arrangements on multiple tracks",
+        "Twin-kick double bass reintroduced more assertively on \"Dignity\" and \"The Garroter\"",
+        "Widest dynamic range of any Axenrot-era Opeth record — whisper-quiet intros to full-band crescendos",
+        "This is the final studio recording of Axenrot's Pearl Reference setup before his 2021 departure"
+      ],
+      "estimatedValue": "$3,500-6,000 (Reference Series)"
+    },
+    "snare": {
+      "title": "The Snare: Serving Two Vocal Languages, One Rhythmic Foundation",
+      "brand": "Pearl",
+      "model": "Pearl Reference Maple Snare",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple",
+      "description": "The Pearl Reference maple snare that carried Heritage, Pale Communion, and Sorceress continued unchanged onto In Cauda Venenum. With two complete vocal versions of the album tracked over the same instrumental beds, the snare's role as the rhythmic anchor mattered more than usual — the Swedish and English vocal takes needed to sit against the exact same drum performance without the underlying groove ever feeling like an afterthought to either language.\n\nOn restrained tracks like \"Universal Truth\" and \"Continuum,\" the snare's ghost-note sensitivity carries the same ride-forward, ballad-informed touch Axenrot developed across the prog trilogy. On the heavier \"Dignity\" and \"The Garroter,\" the same drum delivers assertive backbeats that echo the Watershed-era attack, giving In Cauda Venenum's most metal-adjacent moments real weight against Boman's dense orchestral mix.",
+      "tuningSetting": "Medium tension — consistent with Heritage, Pale Communion, and Sorceress",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$400-700"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance: The Full Vocabulary, One Last Time",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Series (Traditional / Dark variants)",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl Byzance 14\" Traditional Medium Hi-Hats",
+          "position": "Left side",
+          "notes": "Complex shimmer under both restrained and orchestral passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance 16\" Traditional Thin Crash",
+          "position": "Left of rack toms",
+          "notes": "Fast accent voice for transitions between orchestral and band sections"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance 18\" Traditional Medium Thin Crash",
+          "position": "Right of rack toms",
+          "notes": "Sustaining crash for the album's extended song-form arrivals"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance 19\" Dark Crash",
+          "position": "Right side",
+          "notes": "Aggressive accent voice for \"Dignity\" and \"The Garroter\" — carried over from Sorceress"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Byzance 22\" Traditional Medium Ride",
+          "position": "Far right",
+          "notes": "Primary lead voice across the album's longest tracks — \"Heart in Hand,\" \"Next of Kin,\" \"All Things Will Pass\""
+        }
+      ],
+      "description": "The Meinl Byzance setup Axenrot had refined across Heritage, Pale Communion, and Sorceress carries into In Cauda Venenum largely unchanged, but the context around it is the most orchestrally dense of his Opeth tenure. With Dave Stewart's string arrangements occupying significant frequency space on tracks like \"Heart in Hand\" and \"Next of Kin,\" the Byzance ride and hi-hats have to cut through a denser overall arrangement than anything on the prog trilogy — Boman's mix pushes the cymbals forward just enough to remain the rhythmic focal point against strings and mellotron.\n\nThe 19\" Dark Crash, reintroduced on Sorceress after a long absence, returns again on In Cauda Venenum's heavier passages — \"Dignity\" and \"The Garroter\" both use it as a trashy, aggressive punctuation mark that recalls the Watershed-era extremity Axenrot built his name on before joining Opeth. Elsewhere, on the album's most restrained tracks, the cymbal vocabulary pulls all the way back to Heritage-level minimalism — proof that eight years into the Pearl/Meinl setup, Axenrot's command of the full dynamic range had become effortless.",
+      "estimatedValue": "$2,000-3,200 total"
+    },
+    "hardware": {
+      "title": "Pedals and Hardware",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Demon Drive (twin pedals)",
+          "notes": "Direct-drive twin pedals — unchanged since Heritage; drives the reintroduced double-bass passages on \"Dignity\" and \"The Garroter\""
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl H-2050 Eliminator Hi-Hat Stand",
+          "notes": "Same heavy-duty Pearl stand carried through the prog era"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro",
+          "notes": "Ergonomic support across the longest studio sessions of Axenrot's Opeth tenure"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5A",
+          "notes": "5A balance of attack and sensitivity, matching Sorceress"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear",
+        "toms": "Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Park Studios, Junkmail Studios, and Angel Recording Studios: A Three-Room Production",
+      "content": "In Cauda Venenum was recorded between November 18, 2018 and March 6, 2019, split across Park Studios/Psykbunkern and Junkmail Studios in Stockholm, with the album's string sections tracked separately at Angel Recording Studios in London and arranged by Dave Stewart of Eurythmics. This three-room approach — a departure from the single-studio continuity of the Fascination Street era (Heritage, Pale Communion, Sorceress) — reflects the album's greater compositional ambition. Mikael Åkerfeldt produced the record himself, with longtime collaborator Stefan Boman co-producing, engineering, and mixing.\n\n**Two Complete Vocal Passes:**\nBecause Åkerfeldt wrote and tracked the entire album in Swedish first — his original, preferred version — before recording a full parallel English-language vocal pass, the instrumental beds (drums, bass, guitars, keys) had to function identically under two different vocal performances in two different languages. Axenrot's drum tracks were recorded once and used for both versions, meaning his phrasing, dynamics, and fills had to serve two sets of lyrics and two vocal cadences without ever feeling like they favored one language over the other.\n\n**Integrating Orchestral Strings:**\nDave Stewart's string arrangements, tracked separately at Angel Recording Studios in London, were composed to interact with the existing drum and band performances rather than the other way around — meaning Axenrot's dynamic choices during the Stockholm sessions directly shaped how much space the strings would later occupy. On tracks like \"Heart in Hand\" and \"Next of Kin,\" this call-and-response between drum kit and orchestra is one of the album's defining textures.\n\n**No Triggers, Full Dynamic Range:**\nConsistent with every Opeth record since the Wilson era, In Cauda Venenum was tracked without drum triggers. At 67 minutes and 57 seconds — the longest studio album of Opeth's career — the sessions demanded exceptional stamina and consistency from Axenrot across ten tracks that range from near-silent intros to full-band, string-accompanied crescendos.",
+      "keyTechniques": [
+        "Three-studio production — a departure from the single-room Fascination Street continuity of the prog trilogy",
+        "Single set of drum tracks serves both the Swedish and English vocal versions",
+        "Dave Stewart's string arrangements composed around the existing drum and band performances",
+        "No triggers — natural performances across Opeth's longest studio album (67:57)",
+        "Stefan Boman's mix balances the Pearl/Meinl kit against dense orchestral arrangements"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Dignity (Svekets Prins)",
+        "bpm": "95-135 (varies)",
+        "signature": "4/4 with progressive sections",
+        "highlights": [
+          "One of In Cauda Venenum's heaviest tracks — twin-kick double bass reintroduced assertively",
+          "The 19\" Byzance Dark Crash punctuates the track's most aggressive arrivals",
+          "Demonstrates the Watershed-era vocabulary resurfacing eleven years later",
+          "Swedish title (\"Svekets Prins,\" roughly \"Prince of Betrayal\") carries different phrasing cadence than the English lyric"
+        ],
+        "gearNotes": "The Pearl Demon Drive twin pedals drive the track's sustained double-bass sections, the clearest connection to Axenrot's extreme metal background since Sorceress's \"The Ward.\""
+      },
+      {
+        "track": "Heart in Hand (Hjärtat Vet Vad Handen Gör)",
+        "bpm": "70-110 (varies)",
+        "signature": "4/4 with extended progressive passages",
+        "highlights": [
+          "8:30 runtime — one of the album's most compositionally ambitious tracks",
+          "Drums recede behind Dave Stewart's string arrangement during the track's most orchestral passages",
+          "Axenrot's dynamic restraint here mirrors the Heritage vocabulary at its most minimal",
+          "One instrumental drum take serves two full vocal versions in different languages"
+        ],
+        "gearNotes": "The Meinl Byzance 22\" ride carries the melodic through-line beneath the strings, the same lead-voice role it has held since Heritage."
+      },
+      {
+        "track": "Universal Truth (Ingen Sanning Är Allas)",
+        "bpm": "80-100",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's most restrained, ballad-leaning tracks",
+          "Ghost note vocabulary inherited from Martin Lopez still audible in the verses",
+          "Cymbal work stays close to Pale Communion's compositional restraint"
+        ],
+        "gearNotes": "The Pearl Reference maple snare's ghost-note sensitivity carries the verses; minimal kick presence keeps the arrangement's focus on strings and vocals."
+      },
+      {
+        "track": "All Things Will Pass (Allting Tar Slut)",
+        "bpm": "75-120 (varies)",
+        "signature": "4/4 with progressive subdivisions",
+        "highlights": [
+          "Album closer — 8:33 runtime spanning the record's full dynamic range",
+          "Traces a closing arc from restraint to full-band, string-accompanied crescendo",
+          "The final drum performance Martin Axenrot recorded for an Opeth studio album",
+          "Summarizes the entire Axenrot era: Watershed aggression, Heritage restraint, prog-trilogy fluency, all in one closing statement"
+        ],
+        "gearNotes": "Every element of the Pearl/Meinl setup appears across the track's eight-and-a-half minutes — twin kicks, four-tom melodic phrasing, the full Byzance crash and ride vocabulary — closing out Axenrot's Opeth discography on its widest dynamic canvas."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit did Martin Axenrot use on Opeth's In Cauda Venenum?",
+        "answer": "Martin Axenrot recorded In Cauda Venenum (2019) using the same Pearl Reference Series kit he had played since Heritage (2011): twin 22\"x18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms, paired with a Pearl Reference Maple Snare (14\"x5.5\"). His cymbals were Meinl Byzance Traditional and Dark series — 14\" Traditional Medium Hi-Hats, 16\" and 18\" Traditional crashes, a 19\" Dark Crash, and a 22\" Traditional Medium Ride — driven by Pearl Demon Drive direct-drive twin pedals. The album was recorded at Park Studios and Junkmail Studios in Stockholm, with strings tracked separately at Angel Recording Studios in London, produced by Mikael Åkerfeldt with Stefan Boman co-producing, engineering, and mixing."
+      },
+      {
+        "question": "Why did Opeth release In Cauda Venenum in both Swedish and English?",
+        "answer": "Mikael Åkerfeldt originally wrote and recorded In Cauda Venenum entirely in Swedish — his native language, and one Opeth had essentially never sung in before aside from a single cover song years earlier. For a while, the Swedish version was the only planned release. As the songwriting progressed, Åkerfeldt grew anxious that the language barrier would keep fans from hearing music he was proud of, so he tracked a full parallel English-language vocal version using his own translations. Both versions share the exact same instrumental performances, including Martin Axenrot's drum tracks — only the vocal language differs. Åkerfeldt has said the Swedish version is the \"real\" record and his personal preference, even though the English version reaches a wider international audience."
+      },
+      {
+        "question": "How did Martin Axenrot's playing on In Cauda Venenum differ from the Heritage/Pale Communion/Sorceress trilogy?",
+        "answer": "In Cauda Venenum asked Axenrot to serve the widest dynamic range and the most orchestrally dense arrangements of his Opeth tenure. Heritage (2011) established maximum restraint with jazz brushes and minimal kick. Pale Communion (2014) added compositional ambition within that restrained vocabulary. Sorceress (2016) reintroduced heavier riff passages and more assertive kick work. In Cauda Venenum combines all three: whisper-quiet passages that recede behind Dave Stewart's string arrangements, restrained ghost-note verses inherited from the Lopez era, and heavier tracks like \"Dignity\" and \"The Garroter\" that bring back sustained twin-kick double bass connecting directly to Axenrot's Watershed-era extreme metal roots. It is the fullest single-album expression of everything Axenrot had developed since 2008."
+      },
+      {
+        "question": "Was In Cauda Venenum Martin Axenrot's last album with Opeth?",
+        "answer": "Yes. In Cauda Venenum (2019) is Martin Axenrot's final studio album with Opeth. He departed the band in 2021, and after a period with stand-in drummer Sami Karppinen, Waltteri Väyrynen (formerly of Paradise Lost) officially joined Opeth in September 2022, going on to record Last Will and Testament (2024). That makes In Cauda Venenum the closing chapter of the thirteen-year Axenrot era that began with Watershed (2008) — running through Heritage (2011), Pale Communion (2014), and Sorceress (2016) before this final, most ambitious record."
+      },
+      {
+        "question": "Is In Cauda Venenum Opeth's newest album?",
+        "answer": "No — as of 2026, Opeth's most recent studio album is Last Will and Testament (2024), recorded with new drummer Waltteri Väyrynen. In Cauda Venenum (2019) was Opeth's newest release for several years and remains significant as Martin Axenrot's final studio album with the band, closing out the drumming era that began with Watershed (2008) and ran through the Heritage/Pale Communion/Sorceress prog trilogy. For Axenrot's complete arc, see [Sorceress drum setup](/articles/sorceress-drum-setup), [Watershed drum setup](/articles/watershed-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot)."
+      }
+    ],
+    "conclusion": {
+      "title": "The Closing Chapter of the Axenrot Era",
+      "content": "In Cauda Venenum is the album where Martin Axenrot's thirteen-year Opeth tenure reached its fullest expression and, without anyone knowing it at the time, its conclusion. Every element of the vocabulary he had built since replacing Martin Lopez in 2006 appears somewhere on this record: the twin-kick aggression of Watershed, the jazz-informed restraint of Heritage, the compositional ambition of Pale Communion, and the expanded dynamic range of Sorceress, all folded into ten tracks that also had to serve two complete vocal-language versions of the same music.\n\nThe Pearl Reference Series and Meinl Byzance setup that had carried Axenrot through the prog trilogy proved equally capable of sitting underneath Dave Stewart's orchestral string arrangements — proof of a drummer who, eight years into a single gear platform, had achieved complete fluency with its dynamic range. Recorded across three studios in Stockholm and London, mixed by longtime collaborator Stefan Boman, and released simultaneously in Åkerfeldt's preferred Swedish and the more commercially accessible English, In Cauda Venenum stands as Opeth's most ambitious record of the post-death-metal era.\n\nMartin Axenrot departed Opeth in 2021, and Waltteri Väyrynen took over the drum chair in 2022, eventually recording Last Will and Testament (2024). That makes In Cauda Venenum the final word of the Axenrot era — the record that closes the arc from Watershed's extreme metal debut to a thirteen-minute-plus-track, string-laden closing statement, sung in two languages, on the same set of drum tracks.\n\nFor the complete Axenrot discography: [Sorceress drum setup](/articles/sorceress-drum-setup), [Pale Communion drum setup](/articles/pale-communion-drum-setup), [Heritage drum setup](/articles/heritage-drum-setup), [Watershed drum setup](/articles/watershed-drum-setup), and [Martin Axenrot's drummer profile](/drummer/martin-axenrot)."
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Martin Axenrot's Drum Setup on Opeth's In Cauda Venenum (2019)",
+          "description": "Discover the drum kit, cymbals, and gear Martin Axenrot used on Opeth's In Cauda Venenum (2019) — his final studio album with the band. Complete breakdown of Axenrot's Pearl Reference Series setup, the dual Swedish/English recording, and the record that closed the Axenrot era.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-01",
+          "dateModified": "2026-07-01"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "In Cauda Venenum",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Opeth"
+          },
+          "datePublished": "2019-09-27",
+          "genre": "Progressive Rock / Progressive Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Moderbolaget Records / Nuclear Blast"
+          }
+        },
+        {
+          "@type": "Person",
+          "name": "Martin Axenrot",
+          "instrument": "Drums",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Opeth"
+          }
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drum kit did Martin Axenrot use on Opeth's In Cauda Venenum?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Martin Axenrot recorded In Cauda Venenum in 2019 using the Pearl Reference Series kit he had played since Heritage — twin 22x18 inch bass drums, 10 and 12 inch rack toms, 14 and 16 inch floor toms, and a Pearl Reference Maple Snare. His cymbals were Meinl Byzance Traditional and Dark series with a 22 inch Traditional Medium Ride, driven by Pearl Demon Drive direct-drive twin pedals. Recorded at Park Studios and Junkmail Studios in Stockholm with strings at Angel Recording Studios in London, produced by Mikael Akerfeldt and Stefan Boman."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why did Opeth release In Cauda Venenum in both Swedish and English?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mikael Akerfeldt originally wrote and recorded the album entirely in Swedish, his native language. Worried the language barrier would alienate fans, he later tracked a full parallel English-language vocal version using his own translations. Both versions share the same instrumental performances, including Martin Axenrot's drum tracks. Akerfeldt has said the Swedish version is his personal preference."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Was In Cauda Venenum Martin Axenrot's last album with Opeth?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. In Cauda Venenum is Martin Axenrot's final studio album with Opeth. He departed in 2021, and Waltteri Vayrynen, formerly of Paradise Lost, officially joined in September 2022 and recorded Last Will and Testament (2024). In Cauda Venenum closes the thirteen-year Axenrot era that began with Watershed in 2008."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "relatedAlbums": [
+      "sorceress-drum-setup",
+      "pale-communion-drum-setup",
+      "watershed-drum-setup"
     ],
     "relatedArticles": [
       "progressive-rock-drumming",

@@ -1534,16 +1534,19 @@ export const articles = {
     "videos": [],
     "relatedAlbums": [
       "ashes-of-the-wake-drum-setup",
+      "omens-drum-setup",
       "whats-in-chris-adlers-kit"
     ],
     "relatedDrummers": [
       11,
       2,
-      15
+      15,
+      19
     ],
     "relatedArticles": [
       "groove-metal-drummers",
       "best-drum-pedals-for-death-metal",
+      "omens-drum-setup",
       "whats-in-chris-adlers-kit"
     ],
     "relatedLicks": [],
@@ -2035,16 +2038,19 @@ export const articles = {
     "videos": [],
     "relatedAlbums": [
       "sacrament-drum-setup",
+      "omens-drum-setup",
       "ashes-of-the-wake-drum-setup"
     ],
     "relatedDrummers": [
       11,
       2,
-      15
+      15,
+      19
     ],
     "relatedArticles": [
       "groove-metal-drummers",
       "best-drum-pedals-for-death-metal",
+      "omens-drum-setup",
       "whats-in-chris-adlers-kit"
     ],
     "relatedLicks": [],

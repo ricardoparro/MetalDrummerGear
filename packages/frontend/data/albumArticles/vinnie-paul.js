@@ -1844,6 +1844,443 @@ export const articles = {
         }
       ]
     }
+  },
+  "reinventing-the-steel-drum-setup": {
+    "slug": "reinventing-the-steel-drum-setup",
+    "albumTitle": "Reinventing the Steel",
+    "artist": "Pantera",
+    "drummer": "Vinnie Paul",
+    "drummerId": 11,
+    "relatedDrummerSlug": "vinnie-paul",
+    "year": 2000,
+    "genre": "Groove Metal",
+    "label": "EastWest Records America / Elektra",
+    "studio": "Chasin' Jason Studios, Dalworthington Gardens, Texas",
+    "producer": "Vinnie Paul, Dimebag Darrell & Sterling Winfield",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Vinnie Paul's Drum Setup on Pantera's Reinventing the Steel (2000)",
+    "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and Pearl Eliminator P-3000E pedals behind the band's last record before their 2003 breakup.",
+    "seoKeywords": [
+      "reinventing the steel drums",
+      "vinnie paul last album",
+      "pantera final album drums",
+      "vinnie paul pearl reference",
+      "goddamn electric drums",
+      "revolution is my name drums",
+      "vinnie paul sabian aax custom",
+      "pantera reinventing the steel gear"
+    ],
+    "ogImage": "/images/albums/reinventing-the-steel-drums.webp",
+    "intro": {
+      "title": "The Last Record",
+      "content": "Released on March 21, 2000, \"Reinventing the Steel\" is Pantera's sixth and final studio album — the last time Vinnie Paul, Dimebag Darrell, Phil Anselmo, and Rex Brown would ever record together. It debuted at #4 on the Billboard 200 and was certified Gold by the RIAA that May. Three years later, Pantera quietly dissolved. Four years after that, Dimebag was murdered on stage with Damageplan. Heard today, \"Reinventing the Steel\" carries a weight none of the band could have known about at the time: it's the closing statement of the classic Pantera lineup.\n\nThe album marked a deliberate return to basics after the fractured, experimental extremity of \"The Great Southern Trendkill.\" Vinnie Paul and Dimebag Darrell produced the record themselves alongside engineer Sterling Winfield — the first Pantera studio album since 1988's \"Power Metal\" not produced by Terry Date. Tracked once again at Chasin' Jason Studios, Dimebag's home studio in the Arlington area, the sessions were reportedly more unified than \"Trendkill's\" split-coast recording, with the whole band back in one room chasing a simpler, riff-first sound.\n\nVinnie Paul's drumming on \"Reinventing the Steel\" is widely regarded as some of the most groove-focused, pocket-heavy playing of his career. Tracks like \"Goddamn Electric\" and \"Revolution Is My Name\" — the latter voted Song of the Year in the 2000 Metal Edge Readers' Choice Awards — showcase the power-groove approach Vinnie had spent a decade refining, now delivered with a leaner, more direct production than the trigger-heavy records of the mid-90s.\n\nThis article breaks down every piece of gear behind Pantera's last studio statement: the white marine pearl Pearl Reference kit, the Sabian cymbal setup straddling the HH and new AAX Custom lines, and the Pearl Eliminator pedals that drove the double kick on the album's heaviest tracks.",
+      "keyPoints": [
+        "Pantera's sixth and final studio album, released March 21, 2000",
+        "Debuted at #4 on the Billboard 200; certified Gold by the RIAA on May 2, 2000",
+        "First Pantera album since 1988's Power Metal not produced by Terry Date",
+        "Produced by Vinnie Paul and Dimebag Darrell with engineer Sterling Winfield",
+        "The last studio recordings of the classic Abbott/Anselmo/Brown lineup before the 2003 split"
+      ]
+    },
+    "drumKit": {
+      "title": "White Marine Pearl: Vinnie's Final Pantera Kit",
+      "brand": "Pearl",
+      "model": "Pearl Reference",
+      "finish": "White Marine Pearl",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2)"
+        ],
+        "toms": [
+          "10\" x 10\" Rack Tom",
+          "12\" x 10\" Rack Tom",
+          "13\" x 11\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom",
+          "18\" x 18\" Floor Tom"
+        ],
+        "shells": "6-ply maple/mahogany hybrid shells"
+      },
+      "description": "For Pantera's final album, Vinnie Paul returned to the Pearl Reference line he'd used on \"Far Beyond Driven,\" but in a strikingly different form: a white marine pearl finish that stood out against the darker, black-lacquer kits (ddrum, Pearl Masters Custom) he'd played through most of the 90s. The visual statement matched the record's back-to-basics approach — after the black-on-black aesthetic of \"Trendkill,\" the bright, classic finish felt like a reset.\n\nThe dual 22\" x 18\" bass drums carried over from \"The Great Southern Trendkill,\" prioritizing articulation over the cavernous low end of the 24\" kicks used on \"Vulgar Display of Power\" and \"Far Beyond Driven.\" On tracks like \"Hellbound\" and \"Death Rattle,\" the tighter kick response let Vinnie's double-bass patterns read clearly without smearing into the mix — important on a record mixed leaner and less trigger-dependent than its predecessors.\n\nThe three rack toms and two floor toms gave Vinnie his usual melodic range for fills, and the maple/mahogany hybrid shells produced the same warm-but-punchy fundamental that had defined his Reference-era sound since 1994. Sonically and visually, the kit was a deliberate bridge back to the classic Pantera sound after \"Trendkill's\" darker detour — fitting for an album explicitly conceived as \"reinventing\" the band's core steel.",
+      "notes": [
+        "Return to the Pearl Reference line after the Pearl Masters Custom of The Great Southern Trendkill",
+        "White marine pearl finish was a visual departure from the black kits of the mid-90s",
+        "22\" x 18\" bass drums retained from Trendkill for tighter articulation",
+        "Maple/mahogany hybrid shells for a warm, punchy fundamental"
+      ],
+      "estimatedValue": "$4,800-6,800 (2000) / $7,500-11,000 (Reference-equivalent today)"
+    },
+    "snare": {
+      "title": "Back to Basics Crack",
+      "brand": "Pearl",
+      "model": "Pearl Free-Floating Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel with free-floating strainer system",
+      "description": "Vinnie's snare on \"Reinventing the Steel\" was a Pearl Free-Floating steel model at 14\" x 6.5\" — shallower than the 14\" x 8\" steel snare of \"Far Beyond Driven\" but sharing the same free-floating strainer system that let him tune the wires independently of the shell for a controlled, consistent response.\n\nThe shallower 6.5\" depth traded some of the cavernous low end of his mid-90s snares for a tighter, more immediate crack — a choice that fit the album's leaner, less-triggered production. Vinnie's playing throughout the record leans into pocket and groove rather than extremity, and the snare's quicker decay let his backbeat sit cleanly against Dimebag's riffs without piling up in the low-mids.\n\nOn \"Goddamn Electric\" and \"You've Got to Belong to It,\" the snare cracks with authority on the backbeat while staying out of the way of the groove. It's a more restrained sound than the deep, cavernous crack of \"Vulgar Display of Power,\" reflecting a band consciously simplifying its approach for one last record.",
+      "tuningSetting": "Medium-high tension for a tight, immediate crack",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side",
+      "estimatedValue": "$450-650 (2000) / $550-800 (comparable today)"
+    },
+    "cymbals": {
+      "title": "Sabian HH Meets the New AAX Custom",
+      "brand": "Sabian",
+      "series": "Sabian HH / AAX Custom",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Sabian HH 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Carried over from the Trendkill setup"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX Custom 16\" Crash",
+          "position": "Left of hi-hats",
+          "notes": "Brighter, faster crash from Sabian's new AAX Custom line"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian HH 18\" Crash",
+          "position": "Over rack toms",
+          "notes": "Primary crash position"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX Custom 19\" Crash",
+          "position": "Right of toms",
+          "notes": "Cutting accent crash"
+        },
+        {
+          "type": "Ride",
+          "model": "Sabian HH 22\" Ride",
+          "position": "Far right",
+          "notes": "Defined ping with full body underneath"
+        },
+        {
+          "type": "China",
+          "model": "Sabian HH 18\" China",
+          "position": "Above floor tom",
+          "notes": "Trashy accents on the heaviest tracks"
+        }
+      ],
+      "description": "By 2000, Sabian had begun rolling out the AAX Custom line — a brighter, more aggressive evolution of the AAX series aimed squarely at heavier styles. Vinnie Paul's setup on \"Reinventing the Steel\" reflects that transition: his core HH hi-hats, 18\" crash, and 22\" ride carried over from \"The Great Southern Trendkill,\" while newer AAX Custom crashes were mixed in for extra cut on the album's more aggressive passages.\n\nThe blend gave Vinnie the darker, complex HH voice he'd relied on since 1996 alongside the brighter attack of the new AAX Custom crashes — useful on a record where the mix was less trigger-dominant and cymbals needed to project more of their natural character. The 18\" HH China continued to provide the trashy accents that punctuate tracks like \"We'll Grind That Axe for a Long Time.\"\n\nThis HH/AAX Custom hybrid setup would be the last cymbal configuration Vinnie played on a Pantera studio album, and it carried forward — largely unchanged — into his Damageplan work a few years later.",
+      "estimatedValue": "$1,700-2,300 total (2000)"
+    },
+    "hardware": {
+      "title": "The Pearl Eliminator P-3000E",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator P-3000E Double Pedal",
+          "notes": "Refined Eliminator cam system from the Trendkill-era setup",
+          "description": "Vinnie continued with the Pearl Eliminator line on \"Reinventing the Steel,\" using the P-3000E double pedal. The Eliminator's interchangeable cam system let him dial in the balance of speed and power needed for the album's mid-tempo grooves and the faster double-kick runs on tracks like \"Hellbound.\""
+        },
+        {
+          "type": "Stands",
+          "brand": "Pearl",
+          "model": "Pearl 2000-Series Stands",
+          "notes": "Continued from the Trendkill studio rig"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Hydraulic shock absorber for studio comfort"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater Vinnie Paul 5B Signature (played backwards)",
+          "notes": "Vinnie's longtime signature stick, played tapered-end-first for extra power"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Pinstripe (kick batter)",
+        "toms": "Remo Ambassador X (tom batters)",
+        "snare": "Remo Ambassador Coated"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Simplifying the Sound",
+      "content": "After the geographically split, trigger-heavy sessions of \"The Great Southern Trendkill,\" Pantera made a conscious decision to strip things back for \"Reinventing the Steel.\" The whole band tracked together again at Chasin' Jason Studios, and Vinnie Paul, Dimebag Darrell, and Sterling Winfield produced with a leaner, more direct approach than the Terry Date-helmed records of the 90s.\n\n**Microphone Setup:**\n- Kick drums: AKG D112 inside, plus lighter trigger reinforcement than previous records\n- Snare: Shure SM57 top, AKG C414 bottom\n- Toms: Sennheiser MD421 on each\n- Hi-hat: AKG C451\n- Overheads: AKG C414s in spaced pair configuration\n\n**Less Reliance on Triggers:**\nWhere \"Far Beyond Driven\" and \"The Great Southern Trendkill\" leaned heavily on trigger-blended kick and snare sounds, \"Reinventing the Steel\" pulled back on that processing. The result is a slightly more organic, room-present drum sound — still huge, but less mechanically consistent than the mid-90s records, which suited the album's stated goal of getting back to a rawer, riff-first version of Pantera.\n\n**Producing It Themselves:**\nWith Terry Date not involved for the first time since \"Cowboys from Hell,\" Vinnie Paul and Dimebag took direct control of the record's sound. Sterling Winfield's engineering brought a clean, punchy character to the mix without the heavy compression stacking of the Date-produced albums.\n\n**A Unified Room:**\nUnlike \"Trendkill,\" where Phil Anselmo tracked vocals a thousand miles away in New Orleans, the whole band worked together at Chasin' Jason for \"Reinventing the Steel.\" That togetherness is audible in how locked the rhythm section feels — Vinnie's kick patterns and Rex Brown's bass lines lock with an ease that a split-session record couldn't easily replicate.",
+      "keyTechniques": [
+        "Tracked as a full band at Chasin' Jason Studios, unlike the split-session Trendkill",
+        "Reduced reliance on trigger-blended kick and snare sounds for a more organic tone",
+        "First Pantera album since Power Metal (1988) without Terry Date producing",
+        "Sterling Winfield's engineering favored a cleaner, less heavily compressed mix"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Hellbound",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "Opens the album with a direct, riff-first groove",
+          "Tighter 22\" kicks deliver clean double-bass articulation",
+          "Sets the leaner, back-to-basics tone of the record"
+        ],
+        "gearNotes": "Pearl Reference kicks stay articulate at tempo; less trigger processing than prior records lets the natural kit tone through."
+      },
+      {
+        "track": "Goddamn Electric",
+        "bpm": "138",
+        "signature": "4/4",
+        "highlights": [
+          "One of Vinnie's most quoted power-groove performances",
+          "Guest vocal from Anthrax's Scott Ian on the studio version",
+          "Snare backbeat drives the song's relentless momentum"
+        ],
+        "gearNotes": "Pearl Free-Floating steel snare cracks cleanly on the backbeat; Sabian HH crash punctuates the chorus hits."
+      },
+      {
+        "track": "Revolution Is My Name",
+        "bpm": "132",
+        "signature": "4/4",
+        "highlights": [
+          "Voted Song of the Year in the 2000 Metal Edge Readers' Choice Awards",
+          "Half-time groove showcases peak power-groove Vinnie Paul",
+          "Became a live staple for the rest of the band's career"
+        ],
+        "gearNotes": "White marine pearl Pearl Reference toms carry the song's melodic fill work; AAX Custom crash adds bite to the chorus accents."
+      },
+      {
+        "track": "We'll Grind That Axe for a Long Time",
+        "bpm": "126",
+        "signature": "4/4",
+        "highlights": [
+          "Mid-tempo groove built around a heavy, deliberate pocket",
+          "Sabian HH China accents the main riff's stop-time hits",
+          "Demonstrates the album's restrained, groove-first philosophy"
+        ],
+        "gearNotes": "Pearl Eliminator P-3000E pedals give the sparse kick hits maximum weight without excess speed."
+      }
+    ],
+    "evolution": {
+      "title": "Closing the Arc",
+      "content": "\"Reinventing the Steel\" closes the Pantera studio arc that runs from \"Cowboys from Hell\" through \"Vulgar Display of Power,\" \"Far Beyond Driven,\" and \"The Great Southern Trendkill.\" It's the only record in that run made with the explicit goal of stripping things back rather than pushing further into extremity or experimentation.\n\n**What Changed from The Great Southern Trendkill:**\nThe kit returned to the Pearl Reference line last used on \"Far Beyond Driven,\" now in a white marine pearl finish rather than the black lacquer of the Masters Custom. The snare went shallower — 6.5\" instead of the brass 6.5\" of Trendkill was actually the same depth, but moved back to steel construction for a tighter, more direct crack. Cymbals blended the established Sabian HH line with the new AAX Custom series. Production pulled back from heavy trigger-blending toward a more natural, full-band recording approach, with Terry Date stepping away for the first time in over a decade.\n\n**The Final Sessions:**\nUnlike \"Trendkill's\" fractured, geographically split sessions, \"Reinventing the Steel\" brought the full band back into one room at Chasin' Jason Studios. It would be the last time Vinnie Paul, Dimebag Darrell, Phil Anselmo, and Rex Brown ever recorded together — Pantera dissolved in 2003, and Dimebag was killed on stage with Damageplan in December 2004.\n\n**Legacy:**\nAfter \"Reinventing the Steel,\" Vinnie and Dimebag formed Damageplan, carrying forward much of the same gear philosophy — Pearl drums, Sabian cymbals — before Dimebag's death ended that chapter as well. Vinnie later found a new home with Hellyeah, playing until his own death in 2018. \"Reinventing the Steel\" remains the final word on the classic Pantera lineup: a band consciously returning to its groove-metal foundation before it ran out of time to build anything more.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Pearl Reference, White Marine Pearl (2000)",
+          "now": "Pearl Reference series remains in production today"
+        },
+        {
+          "category": "Snare",
+          "then": "Pearl Free-Floating Steel 14x6.5\"",
+          "now": "Pearl Free-Floating series continues in production"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Sabian HH / AAX Custom blend",
+          "now": "Sabian AAX Custom remains a current production line"
+        },
+        {
+          "category": "Pedals",
+          "then": "Pearl Eliminator P-3000E",
+          "now": "Pearl Eliminator Demon Drive is the modern flagship"
+        },
+        {
+          "category": "Band",
+          "then": "Pantera's final studio album before the 2003 split",
+          "now": "Charlie Benante now tours with the reunited Pantera"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "great-southern-trendkill-drum-setup",
+      "whats-in-vinnie-pauls-kit",
+      "far-beyond-driven-drum-setup"
+    ],
+    "relatedDrummers": [
+      4,
+      1,
+      22
+    ],
+    "relatedArticles": [
+      "whats-in-vinnie-pauls-kit",
+      "groove-metal-drumming",
+      "triggered-vs-acoustic-drums"
+    ],
+    "relatedLicks": [
+      {
+        "drummerSlug": "vinnie-paul",
+        "lickSlug": "vinnie-paul-walk-groove",
+        "label": "Watch Vinnie Paul's groove breakdown"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Vinnie Paul play on Reinventing the Steel?",
+        "answer": "Vinnie Paul recorded Reinventing the Steel in 2000 on a Pearl Reference kit finished in white marine pearl. The configuration included dual 22 inch by 18 inch bass drums, rack toms at 10, 12, and 13 inches, and floor toms at 16 and 18 inches, built from 6-ply maple/mahogany hybrid shells. It marked a return to the Pearl Reference line he'd used on Far Beyond Driven, but in a brighter finish that departed from the black kits he'd played through most of the 1990s."
+      },
+      {
+        "question": "Was Reinventing the Steel Pantera's last album?",
+        "answer": "Yes. Reinventing the Steel, released March 21, 2000, is Pantera's sixth and final studio album. It was the last time Vinnie Paul, Dimebag Darrell, Phil Anselmo, and Rex Brown recorded together — the band dissolved in 2003, and Dimebag Darrell was killed on stage with Damageplan in December 2004. The album debuted at #4 on the Billboard 200 and was certified Gold by the RIAA in May 2000."
+      },
+      {
+        "question": "What cymbals did Vinnie Paul use in 2000?",
+        "answer": "On Reinventing the Steel, Vinnie Paul used a blend of Sabian's established HH series and the newly introduced AAX Custom line. His setup included 14 inch HH hi-hats, an 18 inch HH crash, 16 and 19 inch AAX Custom crashes, a 22 inch HH ride, and an 18 inch HH china. The mix reflected Sabian's 2000-era transition, giving Vinnie the darker HH voice he'd relied on since 1996 alongside the brighter, more aggressive attack of the new AAX Custom crashes."
+      },
+      {
+        "question": "Who produced Reinventing the Steel?",
+        "answer": "Reinventing the Steel was produced by Vinnie Paul and Dimebag Darrell alongside engineer Sterling Winfield. It was the first Pantera studio album since 1988's Power Metal not produced by longtime collaborator Terry Date, reflecting the band's push for a more direct, self-directed sound on their final record."
+      }
+    ],
+    "conclusion": {
+      "title": "The Final Groove",
+      "content": "\"Reinventing the Steel\" doesn't reach for the commercial peak of \"Far Beyond Driven\" or the emotional extremity of \"The Great Southern Trendkill.\" Instead, it does something arguably harder: it returns, deliberately, to the groove-first foundation that made Pantera matter in the first place. Vinnie Paul's playing throughout — power without excess, pocket over flash — is a reminder of exactly what he brought to metal drumming for two decades.\n\nThe white marine pearl Pearl Reference kit, the Sabian HH/AAX Custom cymbal blend, and the Pearl Eliminator P-3000E pedals gave Vinnie the tools for one last statement. None of it was flashy. All of it served the songs, from the direct assault of \"Hellbound\" to the half-time swagger of \"Revolution Is My Name.\"\n\nNone of the band could have known this was the end. Pantera dissolved in 2003 amid tensions that had been building for years, and Dimebag Darrell was murdered on stage with Damageplan in December 2004 — a tragedy that makes every note of \"Reinventing the Steel\" harder to hear now than it was in 2000. Vinnie Paul himself passed away in 2018, forming a devastating bookend to the classic Pantera lineup.\n\nFor the complete Pantera arc, see the [Cowboys from Hell drum setup](/articles/cowboys-from-hell-drum-setup), [Vulgar Display of Power drum setup](/articles/vulgar-display-of-power-drum-setup), [Far Beyond Driven drum setup](/articles/far-beyond-driven-drum-setup), and [The Great Southern Trendkill drum setup](/articles/great-southern-trendkill-drum-setup) breakdowns."
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Vinnie Paul's Drum Setup on Pantera's Reinventing the Steel (2000)",
+          "description": "Complete breakdown of Vinnie Paul's drum gear on Pantera's final studio album, Reinventing the Steel — the white marine pearl Pearl Reference kit, Sabian HH/AAX Custom cymbals, and Pearl Eliminator P-3000E pedals behind the band's last record before their 2003 breakup.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-01",
+          "dateModified": "2026-07-01"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://metalforge.io"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Articles",
+              "item": "https://metalforge.io/articles"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Reinventing the Steel Drum Setup",
+              "item": "https://metalforge.io/articles/reinventing-the-steel-drum-setup"
+            }
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Reinventing the Steel",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Pantera"
+          },
+          "datePublished": "2000-03-21",
+          "genre": "Groove Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "EastWest Records America / Elektra"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Hellbound"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Goddamn Electric"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Yesterday Don't Mean Shit"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "You've Got to Belong to It"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Revolution Is My Name"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Death Rattle"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "We'll Grind That Axe for a Long Time"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Uplift"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "It Makes Them Disappear"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "I'll Cast a Shadow"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Vinnie Paul",
+          "alternateName": "Vinnie Paul Abbott",
+          "birthDate": "1964-03-11",
+          "deathDate": "2018-06-22",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Pantera"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drums did Vinnie Paul play on Reinventing the Steel?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Vinnie Paul recorded Reinventing the Steel in 2000 on a Pearl Reference kit finished in white marine pearl. The configuration included dual 22 inch by 18 inch bass drums, rack toms at 10, 12, and 13 inches, and floor toms at 16 and 18 inches, built from 6-ply maple/mahogany hybrid shells."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Was Reinventing the Steel Pantera's last album?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Reinventing the Steel, released March 21, 2000, is Pantera's sixth and final studio album. It was the last time Vinnie Paul, Dimebag Darrell, Phil Anselmo, and Rex Brown recorded together — the band dissolved in 2003, and Dimebag Darrell was killed on stage with Damageplan in December 2004."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals did Vinnie Paul use in 2000?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Reinventing the Steel, Vinnie Paul used a blend of Sabian's established HH series and the newly introduced AAX Custom line, including 14 inch HH hi-hats, an 18 inch HH crash, 16 and 19 inch AAX Custom crashes, a 22 inch HH ride, and an 18 inch HH china."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who produced Reinventing the Steel?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Reinventing the Steel was produced by Vinnie Paul and Dimebag Darrell alongside engineer Sterling Winfield — the first Pantera studio album since 1988's Power Metal not produced by longtime collaborator Terry Date."
+              }
+            }
+          ]
+        }
+      ]
+    }
   }
 };
 export default articles;

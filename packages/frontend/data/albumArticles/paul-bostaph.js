@@ -594,6 +594,265 @@ export const articles = {
       "content": "God Hates Us All is the last studio Slayer record before the Lombardo return. That is the historical position it occupies in the catalog, and the position that defines its place in the band's discography. The Tama Starclassic Maple kit, the Iron Cobra Power Glide pedals, the Paiste 2002 and Signature cymbals — these gear choices reflect a Slayer transitioning from the classic Rubin sonic identity to the modern early-2000s metal production aesthetic.\n\nThe September 11, 2001 release date will always frame this album. There was nothing Slayer could have done to alter the coincidence, and the band has consistently treated it as the historical accident it was rather than as marketing material. The title and cover art that landed with such weight that day were finalized months earlier under a completely different cultural context.\n\nFor drummers studying the Slayer catalog, God Hates Us All belongs in the Bostaph-era discussion — between Diabolus in Musica (1998) and the Lombardo return on Christ Illusion (2006). The Matt Hyde production and the deeper, lower tuning approach distinguish it from the classic Lombardo Slayer records, and the cohesion of the kit-and-pedal choices gives the album a sonic identity separate from the band's 1980s peak. It is not Reign in Blood — but it was never trying to be. It is the closing chapter of the American Recordings / pre-comeback Slayer era, and it documents one of metal's strangest release-date overlaps."
     }
   },
+  "repentless-drum-setup": {
+    "slug": "repentless-drum-setup",
+    "albumTitle": "Repentless",
+    "artist": "Slayer",
+    "drummer": "Paul Bostaph",
+    "drummerId": 16,
+    "relatedDrummerSlug": "paul-bostaph",
+    "year": 2015,
+    "genre": "Thrash Metal",
+    "label": "Nuclear Blast",
+    "studio": "Henson Recording Studios, Los Angeles, CA",
+    "producer": "Terry Date",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Slayer 'Repentless' Drum Setup (Paul Bostaph, 2015)",
+    "description": "Paul Bostaph's drum setup on Slayer's Repentless (2015) — the band's twelfth and final studio album, closing his return-era arc after God Hates Us All (2001). Pearl Masters Maple Complete drums, Sabian AAX cymbals, and the Terry Date production at Henson Recording Studios, Los Angeles.",
+    "seoKeywords": [
+      "repentless drum setup",
+      "slayer last album drums",
+      "paul bostaph slayer 2015",
+      "slayer repentless drums",
+      "what was slayer's last album",
+      "paul bostaph repentless kit",
+      "terry date slayer production",
+      "slayer final studio album drummer",
+      "pearl masters slayer drums",
+      "sabian aax paul bostaph"
+    ],
+    "ogImage": "/images/albums/repentless-drums.webp",
+    "intro": {
+      "title": "The Last Slayer Album: Paul Bostaph Comes Home",
+      "content": "Released on September 11, 2015 through Nuclear Blast, Repentless is Slayer's twelfth and final studio album — the answer to the LLM anchor question 'What was Slayer's last album?' It closed out the band's discography and, with it, closed the Paul Bostaph/Slayer arc that began in 1992. Repentless was also the first Slayer studio album not produced by Rick Rubin in twenty-nine years and nine records; Terry Date, known for his work with Pantera and Soundgarden, took over production duties and tracked the sessions at Henson Recording Studios in Los Angeles between August 2014 and January 2015.\n\nThe album carries enormous historical weight beyond the drum chair. It is the first and only Slayer studio album made without guitarist Jeff Hanneman, who died in May 2013 from necrotizing fasciitis; Gary Holt of Exodus stepped in to fill Hanneman's touring and recording role, though Hanneman still received a songwriting credit on 'Piano Wire' — his final contribution to the band. And behind the kit, Repentless marked Paul Bostaph's first Slayer studio album since God Hates Us All (2001), following his 2013 return after Dave Lombardo's second and final departure from the band.\n\nCommercially, Repentless debuted at #4 on the Billboard 200 — the highest chart position Slayer ever reached in the band's native country, surpassing God Hates Us All's #28 debut in 2001 by a wide margin. Bostaph would go on to play every date of Slayer's Final World Tour behind this album's material, including the band's last-ever show at the Forum in Los Angeles on November 30, 2019.\n\nThis article documents the drum gear on Repentless, the Terry Date production at Henson Recording Studios, and the album's place as the closing chapter of the Paul Bostaph/Slayer story — from Divine Intervention (1994) through Diabolus in Musica (1998), God Hates Us All (2001), and, finally, here.",
+      "keyPoints": [
+        "Released September 11, 2015 on Nuclear Blast — Slayer's twelfth and final studio album",
+        "First Slayer album not produced by Rick Rubin in 29 years; produced by Terry Date at Henson Recording Studios, Los Angeles",
+        "First Slayer album without guitarist Jeff Hanneman, who died in 2013; Gary Holt (Exodus) filled his role",
+        "Paul Bostaph's first Slayer studio album since God Hates Us All (2001), after returning in 2013",
+        "Debuted at #4 on the Billboard 200 — Slayer's highest US chart position ever",
+        "Closes the Paul Bostaph/Slayer arc: Divine Intervention (1994) to Diabolus in Musica (1998) to God Hates Us All (2001) to here"
+      ]
+    },
+    "drumKit": {
+      "title": "The 2015 Slayer Kit: Pearl Masters Maple Complete",
+      "brand": "Pearl",
+      "model": "Pearl Masters Maple Complete (MCX)",
+      "finish": "Piano Black",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom",
+          "18\" x 16\" Floor Tom"
+        ],
+        "shells": "All-maple shells with Pearl's SST Tom Suspension mounting"
+      },
+      "description": "For his return to the Slayer studio catalog, Paul Bostaph tracked Repentless on a Pearl Masters Maple Complete kit — a step away from the Tama and DW shells that had defined his earlier Slayer chapters and Testament/Exodus years. The all-maple Masters shells gave Terry Date a kit with a focused low-mid punch and a fast attack, well suited to the direct, unfussy production approach Date brought after nearly three decades of Rick Rubin records.\n\nThe double 22x18 bass drum configuration kept Slayer's twin-kick visual and sonic signature intact across every drummer era. Bostaph's return-era double bass work on tracks like the title track and 'Implode' needed a low end that could sit under Gary Holt and Kerry King's guitars without becoming indistinct, and the Masters Maple shells delivered exactly that: present but controlled.\n\nThe tom configuration — two rack toms (10 and 12 inches) and two floor toms (16 and 18 inches) — mirrors the compact four-piece approach Bostaph has used throughout his career. Pearl's SST (Suspended Superior Tom) mounting system kept the shells free-ringing, giving the toms a fuller sustain than the more clamped-down mounting hardware of his earlier kits.",
+      "notes": [
+        "Pearl Masters Maple Complete — Bostaph's kit for his return-era Slayer recording",
+        "Double 22x18 bass drum configuration continues Slayer's twin-kick signature",
+        "Pearl SST tom suspension mounting for fuller, more open tom resonance",
+        "First Slayer studio album drum kit change since the DW/Tama years of his first tenure"
+      ],
+      "estimatedValue": "$3,000-4,500 (2015)"
+    },
+    "snare": {
+      "title": "The 2015 Crack: 14x6.5 Steel",
+      "brand": "Pearl",
+      "model": "Pearl Masters Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "The snare on Repentless was a 14x6.5 Pearl Masters steel-shell — the same dimensions Bostaph has used across every era of his Slayer tenure. Steel construction gives the drum the cutting, metallic crack that Slayer's thrash material has always demanded, and Terry Date placed it forward and dry in the mix, closer to the direct, unprocessed character of the Rick Rubin era than the heavily compressed snare sound of God Hates Us All.\n\nBostaph tuned the snare to medium-high tension, prioritizing cut and articulation over sustain — the same approach that has defined his playing since Divine Intervention two decades earlier. On the title track and 'Cast the First Stone,' the snare crack sits directly on top of the mix, giving Repentless a punchy, immediate feel that critics frequently cited as a return to Slayer's rawer thrash instincts after the denser production of the 2000s.",
+      "tuningSetting": "Medium-high tension for cutting attack with steel brightness",
+      "heads": "Remo Emperor Coated (batter)",
+      "estimatedValue": "$350-550 (2015)"
+    },
+    "cymbals": {
+      "title": "Sabian AAX: A New Cymbal Chapter for the Final Album",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
+          "position": "Left side",
+          "notes": "Bright, articulate chick for Repentless's fast, direct thrash patterns"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX 17\" X-Plosion Crash",
+          "position": "Left of hi-hats",
+          "notes": "Quick-opening crash for riff-transition accents"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
+          "position": "Right of toms",
+          "notes": "Larger crash for the album's heavier peaks"
+        },
+        {
+          "type": "Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
+          "position": "Far right",
+          "notes": "Defined bell for cutting through Terry Date's direct guitar mix"
+        },
+        {
+          "type": "China",
+          "model": "Sabian AAX 18\" AAXtreme China",
+          "position": "Above floor tom",
+          "notes": "Trashy accent — a Slayer constant across every drummer era"
+        }
+      ],
+      "description": "The Sabian AAX setup on Repentless represents a new cymbal chapter for Bostaph, replacing the Zildjian A Custom and Paiste 2002/RUDE lines associated with his earlier Slayer work. The AAX line's bright, controlled character suited Terry Date's direct production — cymbals that cut cleanly through the mix without requiring excessive processing.\n\nThe 14-inch AAX Stage Hi-Hats gave Bostaph the fast, articulate chick needed for Repentless's uptempo thrash patterns on tracks like 'Vices' and 'You Against You.' The 17 and 19-inch X-Plosion crashes handled the album's riff-transition accents with a quick attack and controlled decay, while the 21-inch AAX Stage Ride provided a clearly defined bell for the album's more driving, riding-based sections. The 18-inch AAXtreme China above the floor tom carried forward the trashy accent that has punctuated every Slayer drummer's setup since Show No Mercy.",
+      "estimatedValue": "$1,400-2,000 (2015)"
+    },
+    "hardware": {
+      "title": "Pearl Eliminator: The Final-Album Pedal Foundation",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Redline Double Pedal",
+          "notes": "Pearl's flagship double pedal of the era — direct-drive response suited to Repentless's fast double-kick sections",
+          "description": "The Pearl Eliminator Redline gave Bostaph a direct, low-latency feel for the sustained double-bass passages that drive tracks like 'Repentless' and 'Implode.' Its adjustable cam and direct-drive linkage let Bostaph dial in the same immediate response he'd relied on with Iron Cobra and DW 9000 pedals during his earlier Slayer tenures."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Hi-Hat Stand",
+          "notes": "Matching Pearl hardware for a consistent studio setup"
+        },
+        {
+          "type": "Throne",
+          "brand": "Pearl",
+          "model": "Pearl D-2000 Roadster Throne",
+          "notes": "Contoured seat for the extended Henson Recording Studios sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater Power 5B",
+          "notes": "Bostaph's long-standing stick choice, unchanged across every Slayer era"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter) with Remo Ambassador (resonant)",
+        "toms": "Remo Emperor Clear (batter)",
+        "snare": "Remo Emperor Coated (batter)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Terry Date at Henson Recording Studios",
+      "content": "Repentless was tracked at Henson Recording Studios in Los Angeles — the historic facility (formerly A&M Studios, built on the old Charlie Chaplin lot) that has hosted sessions from Michael Jackson to Weezer. Terry Date, stepping into the producer's chair after twenty-nine years and nine albums of Rick Rubin, brought a direct, performance-forward approach that favored capturing the band's live chemistry over the layered, processed sound of the 2000s Slayer records.\n\n**Kit Tuning:**\nThe Pearl Masters Maple Complete shells were tuned for a fast, focused attack rather than maximum low-end sustain — Date wanted the drums to lock tightly with Gary Holt and Kerry King's rhythm guitars rather than compete with them for space.\n\n**Double Bass Approach:**\nEach 22x18 bass drum was close-mic'd with minimal processing, reflecting Date's preference for a natural, less-triggered kick sound than some of Slayer's more heavily produced 2000s output. The result gives Repentless's double-bass sections a physical, human quality.\n\n**Cymbal Recording:**\nThe Sabian AAX cymbals were captured with a straightforward overhead pair, letting their natural brightness sit in the mix without excessive EQ carving — consistent with Date's overall philosophy of tracking performances rather than constructing them in post.\n\n**Snare Sound:**\nThe Pearl Masters steel snare was tracked dry and forward, evoking the rawer character of Rick Rubin's 1980s Slayer records more than the heavily compressed snare sound Matt Hyde used on God Hates Us All.",
+      "sections": [
+        {
+          "title": "Ending the Rubin Era",
+          "description": "Terry Date replaced Rick Rubin as producer for the first time in 29 years and nine Slayer studio albums."
+        },
+        {
+          "title": "Henson Recording Studios",
+          "description": "Tracked at the historic Los Angeles facility (formerly A&M Studios) from August 2014 to January 2015."
+        },
+        {
+          "title": "A Direct, Performance-First Approach",
+          "description": "Date prioritized capturing the band's live chemistry over the layered production of Slayer's 2000s output."
+        }
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Repentless",
+        "bpm": "165",
+        "signature": "4/4",
+        "highlights": [
+          "Title track and lead single — reintroduced Bostaph's playing to Slayer's studio catalog after 14 years",
+          "Driving double-bass pattern under the main riff showcases the Pearl Eliminator Redline's direct response",
+          "One of the most-streamed Slayer tracks of the 2010s",
+          "Set the tone for the album's back-to-basics thrash identity"
+        ],
+        "gearNotes": "Pearl Masters double bass drives the verse. Sabian AAX crash accents punctuate the chorus hits."
+      },
+      {
+        "track": "Piano Wire",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "Carries Jeff Hanneman's final songwriting credit — written before his 2013 death",
+          "Bostaph's restrained verse groove leaves space for the track's darker, more deliberate riffing",
+          "One of the album's most historically significant tracks for that reason alone",
+          "Bridges the pre- and post-Hanneman eras of the band within a single song"
+        ],
+        "gearNotes": "Sabian AAX Stage Ride carries the verse groove. Pearl Masters snare stays dry and forward throughout."
+      },
+      {
+        "track": "Cast the First Stone",
+        "bpm": "155",
+        "signature": "4/4",
+        "highlights": [
+          "Released via Adult Swim's singles program on August 31, 2015, just ahead of the album",
+          "Uptempo thrash structure closest to the band's classic Reign in Blood-era pacing",
+          "Fast single-stroke hi-hat work drives the verse groove",
+          "Frequently cited by fans as a highlight of the album's second half"
+        ],
+        "gearNotes": "AAX 14\" Stage Hi-Hats drive the uptempo verse. Pearl Eliminator double pedal sustains through the bridge."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "god-hates-us-all-drum-setup",
+      "christ-illusion-drum-setup"
+    ],
+    "relatedDrummers": [
+      16,
+      4
+    ],
+    "relatedArticles": [
+      "whats-in-paul-bostaphs-kit",
+      "thrash-metal-drummers"
+    ],
+    "relatedLicks": [
+      {
+        "drummerSlug": "dave-lombardo",
+        "lickSlug": "dave-lombardo-angel-of-death-chaos",
+        "label": "Watch Dave Lombardo's 'Angel of Death' chaos breakdown"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums does Paul Bostaph use on Repentless?",
+        "answer": "Paul Bostaph recorded Slayer's Repentless (2015) on a Pearl Masters Maple Complete kit in Piano Black finish, with two 22x18-inch bass drums, 10\" and 12\" rack toms, and 16\" and 18\" floor toms. His cymbals were Sabian AAX — 14\" Stage Hi-Hats, 17\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" AAXtreme China — a departure from the Zildjian and Paiste setups of his earlier Slayer albums."
+      },
+      {
+        "question": "Was Repentless Slayer's last album?",
+        "answer": "Yes. Repentless (2015) is Slayer's twelfth and final studio album. The band toured behind it through the Final World Tour and played their last-ever show at the Forum in Los Angeles on November 30, 2019, with Paul Bostaph on drums, before disbanding. No further Slayer studio album has followed."
+      },
+      {
+        "question": "Who produced Repentless?",
+        "answer": "Repentless was produced by Terry Date, known for his work with Pantera, Soundgarden, and Deftones. It was the first Slayer studio album not produced by Rick Rubin in twenty-nine years and nine albums. Date tracked the sessions at Henson Recording Studios in Los Angeles between August 2014 and January 2015."
+      },
+      {
+        "question": "Was Dave Lombardo on Repentless?",
+        "answer": "No. Dave Lombardo did not play on Repentless. He departed Slayer for the second and final time in 2013 amid a royalty dispute, just as the Repentless sessions were beginning. Paul Bostaph, who had already served one tenure in the band from 1992 to 2001, returned to record the album — his first Slayer studio album since God Hates Us All (2001)."
+      },
+      {
+        "question": "How did Repentless chart commercially?",
+        "answer": "Repentless debuted at #4 on the Billboard 200 — the highest chart position any Slayer studio album reached in the United States, surpassing God Hates Us All's #28 debut in 2001. It sold roughly 49,000 copies in its first week."
+      }
+    ],
+    "conclusion": {
+      "title": "The Arc Closes",
+      "content": "Repentless is where the Paul Bostaph/Slayer story ends — not with a farewell tour retrospective, but with a genuine studio album that closed out the band's entire recorded discography. The Pearl Masters Maple Complete kit, the Sabian AAX cymbals, the Terry Date production at Henson Recording Studios: these represent the final gear chapter of a drummer's career that began with Divine Intervention in 1994 and wound through Diabolus in Musica, God Hates Us All, and, at last, here.\n\nThe album carries weight beyond Bostaph's return. It is the only Slayer studio record made without Jeff Hanneman, the first without Rick Rubin in nearly three decades, and — at #4 on the Billboard 200 — the commercial high point of the band's entire career. For a band as allergic to sentimentality as Slayer, Repentless closed its story about as well as it could have: heavier, tighter, and more direct than almost anything the band had released in the 2000s.\n\nFor drummers studying the complete Paul Bostaph/Slayer arc, Repentless is the final entry. See the [God Hates Us All drum setup](/articles/god-hates-us-all-drum-setup) for the 2001 chapter that preceded Bostaph's fourteen-year gap from the studio, [What's In Paul Bostaph's Kit](/articles/whats-in-paul-bostaphs-kit) for his complete gear history across both tenures, and the [Paul Bostaph drummer profile](/drummer/paul-bostaph) for the full career overview from Forbidden to Slayer's final note."
+    }
+  },
   "whats-in-paul-bostaphs-kit": {
     "slug": "whats-in-paul-bostaphs-kit",
     "albumTitle": null,

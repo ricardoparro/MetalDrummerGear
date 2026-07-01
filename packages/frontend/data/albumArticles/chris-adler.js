@@ -3149,6 +3149,506 @@ export const articles = {
       ]
     },
     "llmContent": "# Lamb of God 'Resolution' Drum Setup — Chris Adler's Grammy-Nominated 2012 Kit\n\n> Complete breakdown of Chris Adler's drum setup on Lamb of God's Grammy-nominated Resolution (2012) — Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, and the polyrhythmic techniques behind 'Ghost Walking' and 'Desolation'.\n\n**Type:** Album Drum Setup\n**Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)\n**Band / Album:** Lamb of God — *Resolution* (2012)\n**Genre:** Groove Metal / New Wave of American Heavy Metal\n\n## Overview\n\nReleased on January 24, 2012, Lamb of God's \"Resolution\" debuted at #3 on the Billboard 200 and earned a Grammy nomination for Best Hard Rock/Metal Performance for \"Ghost Walking\" at the 56th Grammy Awards (2014). The album fills the Wrath (2009) → VII: Sturm und Drang (2015) arc in the Lamb of God discography and represents Chris Adler's signature gear setup at its most fully realized.\n\nChris Adler returned to the Mapex Black Panther Velvetone kit — his signature drum setup — and Meinl Byzance cymbals after the Pearl Reference Pure/Zildjian A Custom era of Wrath. Recorded at NRG Recording Services in North Hollywood with producer Josh Wilbur (their first record without producer Machine/Mark Lewis since Ashes of the Wake), Resolution's drum sound is the most dynamic and open-sounding in Lamb of God's catalog.\n\n\"Desolation\" features Adler's most complex polyrhythmic patterns on any Lamb of God record — staggered kick placement against syncopated right-hand work across multiple metric layers. \"Ghost Walking\" showcases his Grammy-nominated groove metal mastery: China cymbal accents placed with surgical precision, pivot technique hi-hat dynamics, and double-bass patterns sustained at 155 BPM.\n\n## Gear Breakdown\n\n- **Drums:** Mapex Black Panther Velvetone Series (maple/walnut hybrid, dual 22×18\" kick, 10\"/12\" rack toms, 14\"/16\" floor toms)\n- **Snare:** Mapex Chris Adler Signature Warbird, 12\" x 5.5\" (maple, SONIClear bearing edge)\n- **Cymbals:** Meinl Byzance series (13\" Traditional hi-hats, 18\"/19\"/20\" crashes, 21\" Dark Ride, 18\" and 20\" Brilliant Chinas, 10\" Traditional Splash)\n- **Pedals:** Mapex Falcon (direct-drive, dual single setup)\n- **Hardware:** Mapex Falcon Hi-Hat Stand; Roc-N-Soc Nitro Throne; Mapex IQ Rack\n- **Sticks:** Promark Chris Adler Signature TX5AXW (American hickory)\n- **Heads:** Remo Powerstroke P3 Clear (kick batter), Remo Emperor Clear (tom batter), Remo Controlled Sound Coated (snare batter)\n\n### The Mapex Black Panther Velvetone: Signature Return\n\nThe return to Mapex after the Pearl Reference Pure era brought the maple/walnut Velvetone hybrid's distinct tonal character to Resolution. Walnut layers add body and sustain to maple's natural attack — the combination sits differently in Josh Wilbur's more open production approach, with more articulate attack and complex walnut warmth in the sustain. Dual 22\"×18\" bass drums maintained from the Wrath configuration; SONIClear bearing edges for consistent head response.\n\n### The Warbird Snare: Speed and Crack\n\nThe Mapex Chris Adler Signature Warbird at 12\"×5.5\" is the smallest snare in Lamb of God's studio history. The smaller diameter prioritizes speed and ghost-note response over the body and sustain of the larger DW and Pearl snares used on Sacrament and Wrath. Critical for \"Desolation\"'s ghost-note density and \"Ghost Walking\"'s rapid snare work across the verse groove.\n\n### Meinl Byzance Return: Dark and Complex\n\nThe Byzance series' hand-hammered, dark tonal character contrasts sharply with the Zildjian A Custom brightness of the previous two albums. The 21\" Byzance Dark Ride, dual Byzance Brilliant Chinas (18\" and 20\"), and compact 13\" Traditional hi-hats define Resolution's top-end sound — warmer China attacks, richer crash overtones, and a more complex ride presence than the A Custom era delivered.\n\n## Key Facts\n\n- Billboard 200 debut at #3 — Lamb of God's highest-charting album\n- Grammy nomination for Best Hard Rock/Metal Performance (\"Ghost Walking\", 56th Grammy Awards, 2014)\n- Recorded at NRG Recording Services, North Hollywood, with producer Josh Wilbur\n- Chris Adler's return to Mapex Black Panther Velvetone kit\n- Mapex Chris Adler Signature Warbird snare (12\"×5.5\") — smallest snare in LoG studio history\n- Return to Meinl Byzance cymbals after Zildjian A Custom era (Sacrament + Wrath)\n- Fills the Wrath (2009) → VII: Sturm und Drang (2015) arc\n- \"Desolation\" features Adler's most complex polyrhythmic patterns\n- Mapex Falcon direct-drive pedals — complete Mapex ecosystem\n- Estimated kit value: $4,000-6,000 (2012 Black Panther Velvetone configuration)\n- Estimated snare value: $400-500 (Mapex Warbird Signature)\n\n## Internal Links\n\n- [Chris Adler drummer profile](/drummer/chris-adler)\n- [Wrath drum setup (2009)](/articles/wrath-drum-setup)\n- [Sacrament drum setup (2006)](/articles/sacrament-drum-setup)\n\n**Source:** https://metalforge.io/articles/resolution-drum-setup\n\n**More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)\n\n*Last updated: 2026-06-27 · Source: [MetalForge.io](https://metalforge.io)*"
+  },
+  "vii-sturm-und-drang-drum-setup": {
+    "slug": "vii-sturm-und-drang-drum-setup",
+    "albumTitle": "VII: Sturm und Drang",
+    "artist": "Lamb of God",
+    "drummer": "Chris Adler",
+    "drummerId": 17,
+    "relatedDrummerSlug": "chris-adler",
+    "year": 2015,
+    "genre": "Groove Metal / New Wave of American Heavy Metal",
+    "label": "Epic Records",
+    "studio": "NRG Recording Studios, North Hollywood, CA / Suburban Soul Studios, Torrance, CA",
+    "producer": "Josh Wilbur",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Lamb of God 'VII: Sturm und Drang' Drum Setup — Chris Adler's Grammy-Nominated Farewell Studio Album",
+    "description": "Complete breakdown of Chris Adler's drum setup on Lamb of God's VII: Sturm und Drang (2015) — Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, the Grammy-nominated '512', and his final studio album with the band before departing in 2019.",
+    "seoKeywords": [
+      "vii sturm und drang drum setup",
+      "chris adler vii sturm und drang",
+      "chris adler drum setup",
+      "lamb of god vii sturm und drang drums",
+      "chris adler mapex black panther 2015",
+      "512 lamb of god grammy",
+      "chris adler last lamb of god album",
+      "groove metal drums 2015",
+      "chris adler farewell album",
+      "lamb of god sturm und drang drums"
+    ],
+    "ogImage": "/images/albums/vii-sturm-und-drang-drums.webp",
+    "intro": {
+      "title": "VII: Sturm und Drang: Chris Adler's Final Studio Statement",
+      "content": "Released on July 24, 2015 through Epic Records in North America and Nuclear Blast internationally, Lamb of God's eighth studio album, \"VII: Sturm und Drang,\" arrived under circumstances unlike any prior Lamb of God record. It was the band's first album written and recorded after frontman Randy Blythe's 2012–2013 ordeal in the Czech Republic, where he was charged with manslaughter following the death of a fan at a 2010 Prague show and ultimately acquitted in March 2013. The German phrase \"Sturm und Drang\" — literally \"storm and drive,\" often rendered \"storm and stress\" — was chosen by guitarist Mark Morton to capture the psychological weight of that period. Songs like \"Still Echoes\" and \"512\" (named for the number of Blythe's cell at Pankrác Prison) draw directly from that experience, though Blythe was insistent the album wasn't a \"prison record\" so much as a document of how people respond to extreme stress.\n\nBehind the kit, Chris Adler delivered what turned out to be his final studio performance with Lamb of God before departing the band in 2019 — making VII: Sturm und Drang the closing chapter of a drumming arc that runs from New American Gospel (2000) through Ashes of the Wake, Sacrament, Wrath, and Resolution. Adler's playing here carries a looser, more groove-oriented feel than the polyrhythmic density of Resolution — a shift that fits the album's more direct, atmosphere-driven songwriting and the emotional weight the band was processing.\n\nThe album debuted at #3 on the Billboard 200, moving roughly 47,000 copies in its first week to become one of the best-selling metal albums of 2015, while topping the Canadian Albums Chart, the UK Rock & Metal Albums Chart, and the US Top Hard Rock Albums Chart. Lead single \"512\" earned Lamb of God a Grammy nomination for Best Metal Performance at the 58th Grammy Awards (2016) — the band's fourth nomination in that category, ultimately losing to Ghost's \"Cirice.\" That nomination made VII: Sturm und Drang Adler's third Grammy-nominated Lamb of God album, following Sacrament's \"Redneck\" and Wrath's \"Set to Fail.\"\n\nRecorded at NRG Recording Studios in North Hollywood and Suburban Soul Studios in Torrance with producer Josh Wilbur — continuing their partnership from Resolution — the album kept Adler on his signature Mapex Black Panther Velvetone kit and Meinl Byzance cymbal setup, the same rig that had defined his sound since 2012. This article breaks down every piece of gear behind Chris Adler's last studio record with the band that made him a legend.",
+      "keyPoints": [
+        "Billboard 200 debut at #3 — 47,000 first-week copies, one of 2015's best-selling metal albums",
+        "First Lamb of God album written after Randy Blythe's Czech manslaughter acquittal (March 2013)",
+        "Grammy nomination for Best Metal Performance (\"512\", 58th Grammy Awards, 2016)",
+        "Chris Adler's final studio album with Lamb of God before his 2019 departure",
+        "Recorded at NRG Recording Studios and Suburban Soul Studios with producer Josh Wilbur",
+        "Continues the Mapex Black Panther Velvetone / Meinl Byzance signature setup from Resolution",
+        "Closes the Wrath (2009) → Resolution (2012) → VII (2015) arc of Adler's peak commercial era",
+        "\"Sturm und Drang\" — German for \"storm and drive/stress\" — chosen by guitarist Mark Morton"
+      ]
+    },
+    "drumKit": {
+      "title": "The Mapex Black Panther Velvetone: Adler's Signature Setup, Fully Matured",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther Velvetone Series",
+      "finish": "Custom Satin Black with Lamb of God graphics",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum",
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Maple/Walnut hybrid shells with SONIClear bearing edges"
+      },
+      "description": "By VII: Sturm und Drang, Chris Adler had spent three full years touring and recording on the Mapex Black Panther Velvetone platform he'd returned to on Resolution (2012), and the kit shows up on this record as a fully settled, road-tested tool rather than a fresh gear decision. The maple/walnut hybrid shell formula — walnut plies adding low-mid body and sustain to maple's natural attack — remained unchanged, but Josh Wilbur's second consecutive production with the band meant the mic placement and drum tuning had already been dialed in during the Resolution sessions.\n\nThe dual 22\" x 18\" bass drum configuration carried through from every album since Ashes of the Wake. Two independent kick drums, rather than a single shell with a double pedal, gave Adler consistent tonal separation between feet and the visual presence Lamb of God's stage shows demanded. On VII, the kick tone sits slightly looser and more open than Resolution's tighter attack — a byproduct of both the album's more atmospheric songwriting on tracks like \"Footprints\" and \"Anthropoid,\" and Adler's more relaxed, groove-first approach to this material.\n\nThe tom configuration — 10\" and 12\" rack toms, 14\" and 16\" floor toms — remained Adler's standard geometry across his entire mature career. His fill philosophy never changed: toms punctuate structure, they don't showcase technique. On \"Overlord,\" one of the album's heaviest and most riff-driven tracks, the floor toms drive the song's midtempo stomp with a weight that the Velvetone's walnut sustain fills out beautifully.\n\nRecording split between NRG Recording Studios in North Hollywood and Suburban Soul Studios in Torrance gave Wilbur two different rooms to work with, and the Velvetone's SONIClear bearing edges — engineered for maximum, even head-to-shell contact — kept the drum tone consistent between locations. It's the same signature kit that had defined Adler's sound since 2012, now captured with the studio-hopping flexibility that VII: Sturm und Drang's tighter production schedule required.",
+      "notes": [
+        "Mapex Black Panther Velvetone — maple/walnut hybrid shells, unchanged from Resolution",
+        "Dual 22×18\" bass drums — consistent configuration since Ashes of the Wake",
+        "Looser, more open kick tone reflecting the album's atmosphere-driven songwriting",
+        "SONIClear bearing edges kept tone consistent across two recording locations",
+        "Adler's final studio kit configuration with Lamb of God"
+      ],
+      "estimatedValue": "$4,000-6,000 (2015 Black Panther Velvetone configuration)"
+    },
+    "snare": {
+      "title": "The Warbird, Refined: Maple/Walnut Signature Snare",
+      "brand": "Mapex",
+      "model": "Mapex Chris Adler Signature Black Panther Warbird",
+      "size": "12\" x 5.5\"",
+      "shell": "Maple/Walnut hybrid with SONIClear bearing edge",
+      "description": "Adler's signature Warbird snare received a shell update around this era of his signature line, moving from the all-maple construction of the Resolution period to a maple/walnut hybrid shell matching the Velvetone kit's tonal formula. At 12\" x 5.5\", the diameter and depth stayed identical to every Warbird since Sacrament — Adler never had any interest in trading response for size — but the added walnut plies bring a touch more low-mid body and sustain to the crack.\n\nThat added warmth suits VII: Sturm und Drang's more atmospheric moments without sacrificing the speed the Warbird was built for. \"Still Echoes\" and \"Erase This\" still demand the rapid ghost-note work that's been Adler's calling card since Ashes of the Wake, and the smaller 12\" diameter continues to deliver near-instant response to every touch — critical when weaving buzzes and drags beneath the album's dense guitar arrangements.\n\nThe snare crack on \"512\" — the Grammy-nominated lead single — is a good showcase of the refined Warbird's character: still cutting and immediate, but with a slightly rounder tail than the brighter, more clipped snare tone of Resolution. Wilbur's continued production relationship with the band meant he already knew exactly how to mic and treat this specific snare from their work together three years earlier.",
+      "tuningSetting": "Medium-high tension for crack and response, slightly more body than the Resolution-era tuning",
+      "heads": "Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$400-550 (2015 Mapex Warbird Signature, maple/walnut hybrid)"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance: The Signature China Language, Fully Formed",
+      "brand": "Meinl",
+      "series": "Meinl Byzance",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl 13\" Byzance Traditional Hi-Hats",
+          "position": "Left side",
+          "notes": "Compact hats for pivot technique — driving \"512\" and \"Engage the Fear Machine\""
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Byzance Traditional Medium Thin Crash",
+          "position": "Far left",
+          "notes": "Quick, explosive accent crash"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 19\" Byzance Brilliant Medium Thin Crash",
+          "position": "Left of rack toms",
+          "notes": "Primary crash for riff transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 20\" Byzance Traditional Medium Crash",
+          "position": "Right of rack toms",
+          "notes": "Full-wash crash for section endings"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl 21\" Byzance Dark Ride",
+          "position": "Far right",
+          "notes": "Dark, complex wash with clear bell for verse riding"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" Byzance Brilliant China",
+          "position": "Above left floor tom",
+          "notes": "SIGNATURE SOUND — the defining Adler China accent, prominent on \"Overlord\" and \"512\""
+        },
+        {
+          "type": "China",
+          "model": "Meinl 20\" Byzance Brilliant China",
+          "position": "Right side high",
+          "notes": "Second China for larger accents and positional variety"
+        },
+        {
+          "type": "Splash",
+          "model": "Meinl 10\" Byzance Traditional Splash",
+          "position": "Near hi-hats",
+          "notes": "Quick accent between hi-hats and crashes"
+        }
+      ],
+      "description": "The Meinl Byzance setup that Adler re-established on Resolution carried into VII: Sturm und Drang unchanged in configuration, now with three additional years of touring familiarity behind it. The dark, hand-hammered, complex character of the Byzance line remained the right tonal match for Adler's China-forward playing — no drummer in groove metal has built a more recognizable vocabulary around China cymbal accents than Adler, and by 2015 that vocabulary was completely second nature.\n\nThe 18\" Byzance Brilliant China remains the most identifiable single cymbal in Adler's setup. On \"Overlord,\" one of the album's heaviest and most structurally direct tracks, the China marks every major riff entrance with the same second-snare precision that defined \"Laid to Rest\" over a decade earlier. On \"512,\" the China accents punctuate the song's tension-and-release structure — a fitting sonic exclamation point on the track that earned the band its Grammy nomination.\n\nThe 13\" Byzance Traditional hi-hats continued to anchor Adler's pivot technique — independent left-foot dynamics layered beneath his right-foot bass drum patterns. \"Engage the Fear Machine\" and the title-adjacent uptempo tracks lean on this technique heavily, and the compact hi-hat size remained essential to the speed of that footwork.\n\nThe 21\" Byzance Dark Ride's low-stick-definition, high-wash character suited the album's more atmospheric passages — particularly on \"Footprints\" and \"Torches,\" where Adler pulls back to let space and dynamics do the work rather than sheer aggression. It's a subtler use of the ride than on Resolution's more relentlessly dense material, reflecting VII's slightly more varied pacing.",
+      "estimatedValue": "$2,800-3,500 total (2015 Byzance setup with dual Chinas)"
+    },
+    "hardware": {
+      "title": "The Mapex Falcon Foundation, Unchanged",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Mapex",
+          "model": "Mapex Falcon Double Pedal (used as two independent singles)",
+          "notes": "Direct-drive mechanism carried over from Resolution",
+          "description": "The Falcon's direct-drive design continued to give Adler immediate, linear response between foot and beater — essential for the sustained double-bass work on \"Erase This\" and \"Delusion Pandemic.\" No change was needed from the Resolution setup; the pedals had already proven themselves at the tempos VII: Sturm und Drang demanded."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Mapex",
+          "model": "Mapex Falcon Hi-Hat Stand",
+          "notes": "Smooth, adjustable action for pivot technique footwork"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Hydraulic shock absorption, unchanged since the Sacrament era",
+          "description": "By 2015, the Roc-N-Soc Nitro throne had been part of Adler's setup for nearly a decade. The hydraulic base's feel was as much muscle memory as any technique he'd developed — changing it at this stage of his career was never a consideration."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Promark",
+          "model": "Promark Chris Adler Signature TX5AXW",
+          "notes": "5A profile in American hickory, unchanged from Resolution",
+          "description": "Adler's signature Promark stick balances the mass needed for full-kit assault with the maneuverability required for ghost notes and pivot technique work. The hickory shaft absorbed the physical demands of tracking sessions across two studios without any need for revision."
+        },
+        {
+          "type": "Rack",
+          "brand": "Mapex",
+          "model": "Mapex IQ Series Rack",
+          "notes": "Modular system for repeatable kit geometry between NRG and Suburban Soul sessions"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke P3 Clear (batter), Remo Ambassador Ebony (resonant with port)",
+        "toms": "Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Two Studios, One Producer: Wilbur's Second Lamb of God Record",
+      "content": "Recording VII: Sturm und Drang split time between NRG Recording Studios in North Hollywood — the same facility used for Resolution — and Suburban Soul Studios in Torrance, California. Producer Josh Wilbur returned for his second consecutive Lamb of God album, giving the band a continuity of production philosophy that Machine (Mark Lewis) had provided across Ashes of the Wake, Sacrament, and Wrath.\n\n**The Wilbur Continuity:**\nHaving already tracked an entire Grammy-nominated album with Adler's Mapex/Meinl setup on Resolution, Wilbur came into VII: Sturm und Drang already knowing exactly how to mic, tune, and mix this specific kit and cymbal combination. That familiarity shows in the confidence of the drum sound — there's no sense of a producer and drummer still learning each other's language, which was audible on Machine and Adler's earlier records together.\n\n**A Looser Groove:**\nWhat changed wasn't the gear — it was the performance. Adler's playing on VII carries a looser, more groove-oriented feel than Resolution's polyrhythmic density, a shift that fits both the album's more direct, atmosphere-driven songwriting and the emotional context the band was working through following Randy Blythe's ordeal. Wilbur's production leaves more space around the drums on tracks like \"Footprints\" and \"Torches\" than the density-focused mixing of Resolution.\n\n**Two Rooms, One Sound:**\nSplitting the sessions between NRG and Suburban Soul required careful attention to keeping the drum tone consistent across locations — the Velvetone kit's SONIClear bearing edges and Wilbur's now-familiar mic placement techniques minimized any audible seams between takes from each studio.\n\n**Groove Preservation:**\nAs with every Lamb of God record since Ashes of the Wake, natural performance feel was prioritized over mechanical grid accuracy. The slight rhythmic looseness on \"Still Echoes\" and the deliberate space in \"Anthropoid\" are performance choices, not editing artifacts — and they turned out to be some of the last such choices Adler would make on a Lamb of God studio record.",
+      "keyTechniques": [
+        "Second consecutive Josh Wilbur production — established mic and mix approach from Resolution",
+        "Sessions split between NRG Recording Studios and Suburban Soul Studios",
+        "Looser, more atmosphere-driven mixing approach than Resolution's density-focused mix",
+        "SONIClear bearing edges maintained tonal consistency across two studio locations",
+        "Groove-first editing philosophy preserved through Adler's final studio sessions with the band"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "512",
+        "bpm": "138",
+        "signature": "4/4",
+        "highlights": [
+          "Grammy-nominated for Best Metal Performance at the 58th Grammy Awards (2016)",
+          "Named for the cell number at Pankrác Prison where Randy Blythe was held",
+          "China cymbal accents punctuate the song's tension-and-release structure",
+          "Groove-first double bass work rather than pure speed",
+          "One of Adler's most emotionally weighted performances on record"
+        ],
+        "gearNotes": "The refined maple/walnut Warbird gives the snare crack a rounder tail than the Resolution era. The 18\" Byzance China's dark attack marks the song's structural turns."
+      },
+      {
+        "track": "Overlord",
+        "bpm": "126",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's heaviest, most riff-driven tracks",
+          "Floor toms drive the mid-tempo stomp with weight and sustain",
+          "China accents mark riff entrances with the same precision as \"Laid to Rest\"",
+          "Fan-favorite live staple from the Sturm und Drang touring cycle"
+        ],
+        "gearNotes": "The Velvetone's walnut sustain fills out the floor tom groove. The 18\" Byzance China provides the second-snare punctuation Adler is known for."
+      },
+      {
+        "track": "Still Echoes",
+        "bpm": "145",
+        "signature": "4/4",
+        "highlights": [
+          "First song released from the album, streaming May 18, 2015",
+          "References Pankrác Prison's history directly in its lyrics",
+          "Dynamic shifts between restrained verses and explosive choruses",
+          "Ghost note density adds texture beneath the main groove"
+        ],
+        "gearNotes": "The Warbird's fast response captures every ghost note cleanly. Byzance crash array provides dynamic range from quick accents to full-wash chorus hits."
+      },
+      {
+        "track": "Erase This",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "Praised by critics for its direct, riff-forward songwriting",
+          "Sustained double-bass patterns through verse sections",
+          "Pivot technique hi-hat work adds dynamic layering beneath the riff",
+          "Chorus explosion uses full kit assault for maximum impact"
+        ],
+        "gearNotes": "Falcon direct-drive pedals sustain the verse double-bass patterns cleanly. The 13\" Byzance hi-hats handle the pivot footwork without losing definition."
+      }
+    ],
+    "gearDiff": {
+      "title": "VII: Sturm und Drang vs Resolution: Same Rig, Different Feel",
+      "content": "Unlike the dramatic gear swings between Sacrament → Wrath (DW to Pearl) or Wrath → Resolution (Pearl/Zildjian back to Mapex/Meinl), the three years between Resolution (2012) and VII: Sturm und Drang (2015) brought almost no equipment change at all. What changed instead was the performance context and, subtly, the production approach.\n\n**Drums:** Mapex Black Panther Velvetone → Mapex Black Panther Velvetone (unchanged)\nSame maple/walnut hybrid shells, same dual 22\"x18\" bass drum configuration, same tom geometry. By 2015, this was simply Adler's kit — no further refinement needed.\n\n**Snare:** Mapex Warbird (maple) → Mapex Warbird (maple/walnut hybrid)\nThe one genuine hardware update: Adler's signature Warbird moved to a maple/walnut shell formula matching the Velvetone kit, adding a touch more low-mid body to the crack while keeping the same 12\"x5.5\" dimensions.\n\n**Cymbals:** Meinl Byzance → Meinl Byzance (unchanged)\nIdentical cymbal lineup carried over directly from Resolution, now with three additional years of touring familiarity behind every accent placement.\n\n**Producer:** Josh Wilbur → Josh Wilbur (unchanged)\nWilbur's second consecutive Lamb of God album benefited from the mic placement and mix approach already established on Resolution — but the resulting sound is looser and more spacious, reflecting the album's more atmosphere-driven songwriting rather than any change in equipment.\n\n**Studio:** NRG Recording Services (Resolution) → NRG Recording Studios + Suburban Soul Studios (VII)\nSessions expanded to a second studio location, requiring careful consistency in drum tone between the two rooms.\n\n**Performance:** Polyrhythmic density (Resolution) → Looser, more groove-oriented feel (VII)\nThe most significant difference between the two albums isn't gear at all — it's Adler's playing. Resolution pushed toward maximum rhythmic complexity; VII pulls back toward direct groove and atmosphere, fitting the emotional weight of the material.",
+      "comparison": [
+        {
+          "category": "Drums",
+          "resolution": "Mapex Black Panther Velvetone (maple/walnut)",
+          "vii": "Mapex Black Panther Velvetone (maple/walnut, unchanged)"
+        },
+        {
+          "category": "Snare",
+          "resolution": "Mapex Warbird 12×5.5\" (maple)",
+          "vii": "Mapex Warbird 12×5.5\" (maple/walnut hybrid)"
+        },
+        {
+          "category": "Cymbals",
+          "resolution": "Meinl Byzance (dark/complex)",
+          "vii": "Meinl Byzance (dark/complex, unchanged)"
+        },
+        {
+          "category": "Pedals",
+          "resolution": "Mapex Falcon (direct-drive)",
+          "vii": "Mapex Falcon (direct-drive, unchanged)"
+        },
+        {
+          "category": "Producer",
+          "resolution": "Josh Wilbur",
+          "vii": "Josh Wilbur (second consecutive album)"
+        },
+        {
+          "category": "Studio",
+          "resolution": "NRG Recording Services",
+          "vii": "NRG Recording Studios + Suburban Soul Studios"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "question": "What drums did Chris Adler use on VII: Sturm und Drang?",
+        "answer": "Chris Adler used a Mapex Black Panther Velvetone Series kit on VII: Sturm und Drang (2015) — the same signature kit he'd used since returning to Mapex on Resolution (2012). The configuration included dual 22\"x18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms, all in maple/walnut hybrid shells with SONIClear bearing edges. His signature Mapex Chris Adler Warbird snare, 12\"x5.5\", received a shell update to a matching maple/walnut hybrid construction for this era."
+      },
+      {
+        "question": "What cymbals did Chris Adler use on VII: Sturm und Drang?",
+        "answer": "Chris Adler used Meinl Byzance series cymbals on VII: Sturm und Drang, unchanged from his Resolution setup: 13\" Byzance Traditional hi-hats, Byzance crashes at 18\", 19\", and 20\", a 21\" Byzance Dark Ride, dual Byzance Brilliant Chinas at 18\" and 20\", and a 10\" Byzance Traditional Splash. The 18\" China remains his signature accent cymbal, prominent on tracks like \"Overlord\" and \"512.\""
+      },
+      {
+        "question": "Was VII: Sturm und Drang Grammy-nominated?",
+        "answer": "Yes. \"512,\" the lead single from VII: Sturm und Drang, was nominated for the Grammy Award for Best Metal Performance at the 58th Grammy Awards in 2016, losing to Ghost's \"Cirice.\" It was Lamb of God's fourth Grammy nomination in that category and Chris Adler's third Grammy-nominated Lamb of God album, following Sacrament's \"Redneck\" and Wrath's \"Set to Fail.\""
+      },
+      {
+        "question": "Was VII: Sturm und Drang Chris Adler's last album with Lamb of God?",
+        "answer": "Yes, VII: Sturm und Drang (2015) is Chris Adler's final studio album of original material with Lamb of God. He departed the band in 2019, and the self-titled Lamb of God album released in 2020 featured new drummer Art Cruz. VII: Sturm und Drang closes the drumming arc that runs from New American Gospel (2000) through Ashes of the Wake, Sacrament, Wrath, and Resolution."
+      },
+      {
+        "question": "How is VII: Sturm und Drang connected to Randy Blythe's manslaughter case?",
+        "answer": "VII: Sturm und Drang was the first Lamb of God album written and recorded after frontman Randy Blythe's acquittal in March 2013 on manslaughter charges stemming from a fan's death at a 2010 Prague concert. Several tracks reference the ordeal directly — \"512\" is named for Blythe's cell number at Pankrác Prison, and \"Still Echoes\" draws on the prison's history. Blythe has said the album explores how people respond under extreme stress rather than serving as a literal \"prison record.\""
+      },
+      {
+        "question": "Where was VII: Sturm und Drang recorded?",
+        "answer": "VII: Sturm und Drang was recorded at NRG Recording Studios in North Hollywood, California, and Suburban Soul Studios in Torrance, California, with producer Josh Wilbur — his second consecutive Lamb of God album after Resolution (2012). It was released July 24, 2015 through Epic Records in North America and Nuclear Blast internationally."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "wrath-drum-setup",
+      "resolution-drum-setup"
+    ],
+    "relatedDrummers": [
+      11,
+      2,
+      15
+    ],
+    "relatedArticles": [
+      "groove-metal-drummers",
+      "best-drum-pedals-for-death-metal",
+      "whats-in-chris-adlers-kit"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Closing Chapter of a Groove Metal Legacy",
+      "content": "VII: Sturm und Drang stands as the closing statement of Chris Adler's studio career with Lamb of God — a record made in the shadow of Randy Blythe's ordeal, delivered on the same Mapex Black Panther Velvetone kit and Meinl Byzance cymbals he'd settled into on Resolution, but played with a looser, more atmosphere-conscious feel than anything he'd recorded before. The Grammy nomination for \"512\" confirmed, one last time, that Adler's groove metal drumming remained among the genre's most recognized and respected.\n\nWhat makes VII: Sturm und Drang valuable in hindsight isn't a dramatic gear story — the kit and cymbals barely changed from Resolution. It's the performance: Adler pulling back from Resolution's polyrhythmic density toward something more direct, more spacious, and arguably more emotionally honest, in service of an album that needed to breathe rather than assault.\n\nFour years later, Adler would leave Lamb of God after 25 years, closing a run that began with a budget Pearl Export kit on New American Gospel and ended here, on a fully matured signature setup that carried his name on both the snare and the sticks. The [Chris Adler drummer profile](/drummer/chris-adler) covers the full arc of that career. The [Wrath drum setup article](/articles/wrath-drum-setup) documents the Pearl Reference Pure era, and the [Resolution drum setup article](/articles/resolution-drum-setup) traces the Mapex/Meinl signature era this record continues. For a broader look at how Adler's technique stacks up against his peers, see [Chris Adler vs. Joey Jordison](/compare/chris-adler-vs-joey-jordison) and [Chris Adler vs. Ray Luzier](/compare/chris-adler-vs-ray-luzier).\n\n🤘 *Grammy-nominated. #3 Billboard 200. The final studio chapter.* 🤘"
+    },
+    "internalLinks": [
+      {
+        "text": "Chris Adler drummer profile",
+        "url": "/drummer/chris-adler"
+      },
+      {
+        "text": "Wrath drum setup (2009)",
+        "url": "/articles/wrath-drum-setup"
+      },
+      {
+        "text": "Resolution drum setup (2012)",
+        "url": "/articles/resolution-drum-setup"
+      },
+      {
+        "text": "Sacrament drum setup (2006)",
+        "url": "/articles/sacrament-drum-setup"
+      },
+      {
+        "text": "Chris Adler vs. Joey Jordison",
+        "url": "/compare/chris-adler-vs-joey-jordison"
+      },
+      {
+        "text": "Chris Adler vs. Ray Luzier",
+        "url": "/compare/chris-adler-vs-ray-luzier"
+      }
+    ],
+    "sitemapPriority": 0.9,
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Lamb of God 'VII: Sturm und Drang' Drum Setup — Chris Adler's Grammy-Nominated Farewell Studio Album",
+          "description": "Complete breakdown of Chris Adler's drum setup on Lamb of God's VII: Sturm und Drang (2015) — Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, the Grammy-nominated '512', and his final studio album with the band before departing in 2019.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-01",
+          "dateModified": "2026-07-01"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://metalforge.io/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Articles",
+              "item": "https://metalforge.io/articles"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Lamb of God 'VII: Sturm und Drang' Drum Setup",
+              "item": "https://metalforge.io/articles/vii-sturm-und-drang-drum-setup"
+            }
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "VII: Sturm und Drang",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Lamb of God"
+          },
+          "datePublished": "2015-07-24",
+          "genre": "Groove Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Epic Records"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Still Echoes"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Erase This"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "512"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Embers"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Footprints"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Overlord"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Anthropoid"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Engage the Fear Machine"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Delusion Pandemic"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Torches"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Chris Adler",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Lamb of God"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drums did Chris Adler use on VII: Sturm und Drang?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Chris Adler used a Mapex Black Panther Velvetone kit with dual 22\"x18\" bass drums, 10\"/12\" rack toms, and 14\"/16\" floor toms in maple/walnut hybrid shells, plus his signature 12\"x5.5\" Mapex Warbird snare in a matching maple/walnut hybrid."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals did Chris Adler use on VII: Sturm und Drang?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Chris Adler used Meinl Byzance cymbals: 13\" Traditional hi-hats, 18\"/19\"/20\" crashes, a 21\" Dark Ride, 18\" and 20\" Brilliant Chinas, and a 10\" Traditional Splash — unchanged from his Resolution (2012) setup."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Was VII: Sturm und Drang Grammy-nominated?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes — \"512\" was nominated for Grammy Best Metal Performance at the 58th Grammy Awards (2016), losing to Ghost's \"Cirice.\" It was Chris Adler's third Grammy-nominated Lamb of God album."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Was VII: Sturm und Drang Chris Adler's last album with Lamb of God?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, it is Chris Adler's final studio album of original material with Lamb of God before he departed the band in 2019."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "llmContent": "# Lamb of God 'VII: Sturm und Drang' Drum Setup — Chris Adler's Grammy-Nominated Farewell Studio Album\n\n> Complete breakdown of Chris Adler's drum setup on Lamb of God's VII: Sturm und Drang (2015) — Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, the Grammy-nominated '512', and his final studio album with the band before departing in 2019.\n\n**Type:** Album Drum Setup\n**Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)\n**Band / Album:** Lamb of God — *VII: Sturm und Drang* (2015)\n**Genre:** Groove Metal / New Wave of American Heavy Metal\n\n## Overview\n\nReleased July 24, 2015 through Epic Records (Nuclear Blast internationally), \"VII: Sturm und Drang\" was Lamb of God's first album written after frontman Randy Blythe's acquittal on manslaughter charges in the Czech Republic (March 2013). The German title — \"storm and drive/stress\" — reflects that period's psychological weight; \"512\" is named for Blythe's cell number at Pankrác Prison. The album debuted at #3 on the Billboard 200 (roughly 47,000 first-week copies) and topped the Canadian, UK Rock & Metal, and US Top Hard Rock Albums charts.\n\nThis is Chris Adler's final studio album of original material with Lamb of God before his 2019 departure. He recorded it on the same Mapex Black Panther Velvetone kit and Meinl Byzance cymbal setup established on Resolution (2012), with producer Josh Wilbur returning for a second consecutive album, sessions split between NRG Recording Studios (North Hollywood) and Suburban Soul Studios (Torrance). \"512\" earned a Grammy nomination for Best Metal Performance at the 58th Grammy Awards (2016), losing to Ghost's \"Cirice\" — Adler's third Grammy-nominated Lamb of God album.\n\nGear stayed almost entirely consistent with Resolution; what changed was the performance. Adler's playing on VII carries a looser, more groove-oriented feel than Resolution's polyrhythmic density, fitting the album's more atmospheric, direct songwriting.\n\n## Gear Breakdown\n\n- **Drums:** Mapex Black Panther Velvetone Series (maple/walnut hybrid, dual 22×18\" kick, 10\"/12\" rack toms, 14\"/16\" floor toms)\n- **Snare:** Mapex Chris Adler Signature Warbird, 12\" x 5.5\" (maple/walnut hybrid, SONIClear bearing edge)\n- **Cymbals:** Meinl Byzance series (13\" Traditional hi-hats, 18\"/19\"/20\" crashes, 21\" Dark Ride, 18\" and 20\" Brilliant Chinas, 10\" Traditional Splash)\n- **Pedals:** Mapex Falcon (direct-drive, dual single setup)\n- **Hardware:** Mapex Falcon Hi-Hat Stand; Roc-N-Soc Nitro Throne; Mapex IQ Rack\n- **Sticks:** Promark Chris Adler Signature TX5AXW (American hickory)\n- **Heads:** Remo Powerstroke P3 Clear (kick batter), Remo Emperor Clear (tom batter), Remo Controlled Sound Coated (snare batter)\n\n### The Mapex Black Panther Velvetone: Unchanged from Resolution\n\nThe maple/walnut hybrid Velvetone kit carried over directly from Resolution — same dual 22\"x18\" bass drums, same tom geometry, same SONIClear bearing edges. By 2015 this was simply Adler's kit, road-tested across three years of touring and a second Josh Wilbur production.\n\n### The Warbird Snare: A Shell Update\n\nAdler's signature 12\"x5.5\" Warbird moved to a maple/walnut hybrid shell matching the Velvetone kit, adding low-mid body to the crack while keeping the same fast, ghost-note-friendly dimensions that have defined the snare since Sacrament.\n\n### Meinl Byzance: The Established China Language\n\nThe Byzance cymbal lineup — including the signature 18\" Brilliant China heard on \"Overlord\" and \"512\" — carried over unchanged from Resolution, now with three more years of touring precision behind every accent.\n\n## Key Facts\n\n- Billboard 200 debut at #3 — ~47,000 first-week copies, one of 2015's best-selling metal albums\n- First Lamb of God album after Randy Blythe's Czech manslaughter acquittal (March 2013)\n- Grammy nomination for Best Metal Performance (\"512\", 58th Grammy Awards, 2016)\n- Chris Adler's final studio album with Lamb of God before his 2019 departure\n- Recorded at NRG Recording Studios and Suburban Soul Studios with producer Josh Wilbur\n- Gear essentially unchanged from Resolution (2012) — Mapex Black Panther Velvetone / Meinl Byzance\n- Performance shifted toward a looser, more groove-oriented feel than Resolution's polyrhythmic density\n- Closes the Wrath (2009) → Resolution (2012) → VII (2015) arc of Adler's peak commercial era\n- Estimated kit value: $4,000-6,000 (2015 Black Panther Velvetone configuration)\n- Estimated snare value: $400-550 (2015 Mapex Warbird Signature, maple/walnut hybrid)\n\n## Internal Links\n\n- [Chris Adler drummer profile](/drummer/chris-adler)\n- [Wrath drum setup (2009)](/articles/wrath-drum-setup)\n- [Resolution drum setup (2012)](/articles/resolution-drum-setup)\n- [Chris Adler vs. Joey Jordison](/compare/chris-adler-vs-joey-jordison)\n\n**Source:** https://metalforge.io/articles/vii-sturm-und-drang-drum-setup\n\n**More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)\n\n*Last updated: 2026-07-01 · Source: [MetalForge.io](https://metalforge.io)*"
   }
 };
 export default articles;

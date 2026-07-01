@@ -20250,7 +20250,13 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
     meta.setAttribute('content', content);
   };
 
-  if (comparison && drummer1 && drummer2) {
+  if (comparison) {
+    const toTitleCase = (slug) => (slug || '').replace(/-/g, ' ').replace(/\b\w/g, s => s.toUpperCase());
+    const d1Name = drummer1?.name || toTitleCase(comparison.drummers[0]) || 'Drummer 1';
+    const d2Name = drummer2?.name || toTitleCase(comparison.drummers[1]) || 'Drummer 2';
+    const d1Band = drummer1?.band || '';
+    const d2Band = drummer2?.band || '';
+
     document.title = comparison.metaTitle;
     setMeta('description', comparison.metaDescription);
     setMeta('og:title', comparison.metaTitle, true);
@@ -20288,7 +20294,7 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
       "name": comparison.title,
       "description": comparison.metaDescription,
       "url": `https://metalforge.io/vs/${comparison.slug}`,
-      "image": drummer1.image || drummer2.image || "https://metalforge.io/og-vs.png",
+      "image": drummer1?.image || drummer2?.image || "https://metalforge.io/og-vs.png",
       "datePublished": "2026-03-05",
       "dateModified": new Date().toISOString().split('T')[0],
       "author": {
@@ -20306,41 +20312,41 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
         }
       },
       "articleSection": "Drummer Comparisons",
-      "keywords": `${drummer1.name}, ${drummer2.name}, ${drummer1.band}, ${drummer2.band}, metal drummers, drummer comparison, ${comparison.category}`,
+      "keywords": `${d1Name}, ${d2Name}, ${d1Band}, ${d2Band}, metal drummers, drummer comparison, ${comparison.category}`,
       "about": [
         {
           "@type": "Person",
-          "name": drummer1.name,
-          "description": drummer1.bio?.substring(0, 200) || `${drummer1.name} - ${drummer1.band}`,
+          "name": d1Name,
+          "description": drummer1?.bio?.substring(0, 200) || `${d1Name}${d1Band ? ' - ' + d1Band : ''}`,
           "jobTitle": "Drummer",
           "worksFor": {
             "@type": "MusicGroup",
-            "name": drummer1.band
+            "name": d1Band
           }
         },
         {
           "@type": "Person",
-          "name": drummer2.name,
-          "description": drummer2.bio?.substring(0, 200) || `${drummer2.name} - ${drummer2.band}`,
+          "name": d2Name,
+          "description": drummer2?.bio?.substring(0, 200) || `${d2Name}${d2Band ? ' - ' + d2Band : ''}`,
           "jobTitle": "Drummer",
           "worksFor": {
             "@type": "MusicGroup",
-            "name": drummer2.band
+            "name": d2Band
           }
         }
       ],
       "mainEntity": {
         "@type": "ItemList",
         "name": comparison.title,
-        "description": `Side-by-side comparison of ${drummer1.name} and ${drummer2.name}`,
+        "description": `Side-by-side comparison of ${d1Name} and ${d2Name}`,
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "item": {
               "@type": "Person",
-              "name": drummer1.name,
-              "url": `https://metalforge.io/drummer/${drummer1.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`
+              "name": d1Name,
+              "url": `https://metalforge.io/drummer/${comparison.drummers[0]}`
             }
           },
           {
@@ -20348,8 +20354,8 @@ function updateDrummerVsMeta(comparison, drummer1, drummer2) {
             "position": 2,
             "item": {
               "@type": "Person",
-              "name": drummer2.name,
-              "url": `https://metalforge.io/drummer/${drummer2.name.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`
+              "name": d2Name,
+              "url": `https://metalforge.io/drummer/${comparison.drummers[1]}`
             }
           }
         ]

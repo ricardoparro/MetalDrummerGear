@@ -15174,6 +15174,654 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Mike Mangini Gear Evolution Timeline | Dream Theater Drum Kit History',
     metaDescription: 'Explore Mike Mangini\'s complete drum gear evolution: pre-Dream Theater world-record and session years with Steve Vai and Extreme → Pearl Masterworks Maple on A Dramatic Turn of Events (2011) → Pearl Reference Pure at Yonderbarn Studios for Distance Over Time and A View from the Top of the World → Pearl Reference Series through his final Dream Theater era before Mike Portnoy\'s 2023 return. Thirteen years with Dream Theater, era by era.',
   },
+
+  // ==========================================
+  // Alex Bent - Trivium (2011-Present)
+  // ==========================================
+  'alex-bent': {
+    slug: 'alex-bent',
+    name: 'Alex Bent',
+    band: 'Trivium / Arkaik',
+    totalYearsActive: '2011-Present',
+    profileImage: '/images/drummers/alex-bent.webp',
+    summary: 'A technical death metal prodigy from Oakland who cut his teeth in the underground with Arkaik and Brain Drill before producer Mark Lewis recommended him to Trivium in 2017. Alex Bent\'s gear evolution runs from touring-grade tech-death kits to a matte-black Pearl Reference Series rig that carried four Trivium albums, then back to the underground with Arkaik and Dragonlord after his October 2025 departure.',
+
+    eras: [
+      {
+        id: 'alex-bent-2011-tech-death',
+        era: 'Tech Death Underground Era',
+        years: '2011–2016',
+        startYear: 2011,
+        endYear: 2016,
+        description: 'Before Trivium, Alex Bent built his reputation entirely within the technical death metal underground — joining Arkaik in 2011, then Brain Drill, Dragonlord, and Battlecross in 2015, along with a high-profile stint filling in for Gene Hoglan on Testament tour dates. There was no major drum brand endorsement yet, but his Axis Percussion pedal partnership — the extreme-speed foundation of his footwork — was already established during this stretch.',
+        albums: ['Arkaik - Metamorphignition (2012)', 'Battlecross - Rise to Power (2015)'],
+        tours: ['Testament fill-in dates for Gene Hoglan (2015)', 'Battlecross touring circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various touring-grade kits',
+            details: 'No fixed drum brand endorsement',
+            notes: 'Bent played whatever touring kits Arkaik, Brain Drill, and Battlecross could provide — the tech-death underground rarely comes with drum endorsements.',
+            change: null,
+          },
+          snare: {
+            item: 'Stock steel 14"x6.5"',
+            details: 'Standard steel shell',
+            notes: 'Functional snare choice for the technical death metal club circuit.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AAX / Meinl',
+            details: 'Mixed brand setup',
+            notes: 'No fixed cymbal endorsement — a working mix of Sabian AAX and Meinl pieces picked up over years of underground touring.',
+            change: null,
+          },
+          hardware: {
+            item: 'Axis A21 Longboard Double Pedal',
+            details: 'Direct-drive double pedal',
+            notes: 'Bent\'s Axis endorsement predates Trivium entirely — his extreme pedal speed was already developed in the technical death metal scene.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Off-the-shelf sticks during the pre-Trivium underground years.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 Clear',
+            details: 'Standard configuration',
+            notes: 'Durable, no-frills heads for extensive club and festival touring.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2200,
+          inflationAdjusted: 2600,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined technical death metal band Arkaik in 2011',
+          'Axis Percussion endorsement established well before any major-label gig',
+          'Filled in for Gene Hoglan on Testament tour dates in 2015',
+          'Joined Brain Drill, Dragonlord, and Battlecross — building a tech-death resume',
+        ],
+
+        quote: {
+          text: "My time with Brain Drill and Arkaik taught me that speed means nothing without musicality.",
+          source: 'Sick Drummer Magazine, 2018',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'alex-bent-2017-trivium-debut',
+        era: 'Trivium Debut Era',
+        years: '2017–2020',
+        startYear: 2017,
+        endYear: 2020,
+        description: 'Producer Mark Lewis recommended the 24-year-old Bent to Trivium, and his 2017 arrival was confirmed immediately by The Sin and the Sentence — a critical comeback record that put his tech-death precision on a much bigger stage. His touring-scale Pearl Reference Series kit in matte black and a switch to Meinl Byzance Brilliant cymbals defined the sound of his first two Trivium albums.',
+        albums: ['The Sin and the Sentence (2017)', 'What the Dead Men Say (2020)'],
+        tours: ['The Sin and the Sentence World Tour', 'Trivium European and US headline runs 2018–2019'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series (Matte Black)',
+            details: 'Maple/birch hybrid: double 22"x18" bass drums, 10"/12" rack toms, 14"/16" floor toms',
+            notes: 'A minimalist, efficient configuration built for translating tech-death precision to arena-scale power.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Reference 14"x6.5"',
+            details: 'Maple/birch hybrid shell',
+            notes: 'Tuned medium-high for articulation at speed — inherited ghost-note vocabulary from his tech-death background.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Brilliant Series',
+            details: '14" hi-hats, 16"/18" crashes, 21" ride, 18" China',
+            notes: 'New Meinl Byzance endorsement — a more refined, musical tone than the raw underground cymbals of the tech-death years.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Axis A21 Longboard Double Pedal',
+            details: 'Direct drive for ultimate speed',
+            notes: 'Continued Axis partnership from the underground years — the one constant into the Trivium era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Unchanged stick choice for balance of power and speed.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans EMAD / G2 Clear',
+            details: 'EMAD on kick, G2 Clear on toms',
+            notes: 'Upgraded head configuration for the projection an arena-touring band requires.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 9000,
+          inflationAdjusted: 10500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Trivium in 2017 at producer Mark Lewis\'s recommendation',
+          'Switched to Pearl Reference Series in matte black',
+          'New Meinl Byzance Brilliant cymbal endorsement',
+          'The Sin and the Sentence (2017) widely received as Trivium\'s critical comeback',
+        ],
+
+        quote: {
+          text: "I try to bring the technicality of death metal to Trivium's music, but it has to serve the song first.",
+          source: 'Modern Drummer Magazine, 2019',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'alex-bent-2021-trivium-later',
+        era: 'Trivium Later Era',
+        years: '2021–2025',
+        startYear: 2021,
+        endYear: 2025,
+        description: 'Bent\'s Pearl and Meinl setup matured across In the Court of the Dragon (2021) and Struck Dead (2025), expanding to a seven-piece Byzance Brilliant cymbal arsenal with a splash added for quick accent work. After eight years and four albums, Trivium announced Bent\'s departure in October 2025 — ending one of modern metal\'s most technically accomplished drum chairs.',
+        albums: ['In the Court of the Dragon (2021)', 'Struck Dead (2025)'],
+        tours: ['In the Court of the Dragon World Tour 2021–2022', 'Struck Dead Tour 2025'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series (Matte Black)',
+            details: 'Unchanged double bass configuration',
+            notes: 'Consistent kit through the back half of his Trivium tenure.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Reference 14"x6.5"',
+            details: 'Maple/birch hybrid',
+            notes: 'Same snare that defined the entire Trivium era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Brilliant Series (expanded)',
+            details: '14" hi-hats, 16"/18"/19" crashes, 21" ride, 18" China, 10" splash',
+            notes: 'Expanded to a full seven-piece Byzance Brilliant setup — added a 19" crash and 10" splash for the increased dynamic range of the later Trivium catalog.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Axis A21 Longboard Double Pedal',
+            details: 'Unchanged direct drive',
+            notes: 'Pearl H-2050 Eliminator hi-hat stand and Pearl D-3500BR Roadster throne rounded out the hardware for extended tours.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Unchanged hickory',
+            notes: 'Consistent stick choice through his entire Trivium tenure.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans EMAD / EQ3 (kick), G2 Clear / G1 Clear (toms)',
+            details: 'Full Evans configuration',
+            notes: 'Final Trivium-era head setup, unchanged through Struck Dead.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 11000,
+          inflationAdjusted: 11800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'In the Court of the Dragon (2021) showcased his most progressive Trivium drum parts',
+          'Expanded Byzance Brilliant cymbal setup to seven pieces',
+          'Struck Dead (2025) became his final Trivium studio album',
+          'Departed Trivium in October 2025 after eight years and four albums',
+        ],
+
+        quote: {
+          text: "Eight years, four albums — I gave this band everything I had, and I'm proud of every record we made together.",
+          source: 'Statement following Trivium departure, October 2025',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'alex-bent-2025-post-trivium',
+        era: 'Post-Trivium / Return to the Underground',
+        years: '2025–Present',
+        startYear: 2025,
+        endYear: 2026,
+        description: 'Within months of leaving Trivium, Bent returned to the technical death metal roots that built his reputation — resuming activity with Arkaik and Eric Peterson\'s Dragonlord while taking on session and touring work. His rig scaled back down to a leaner, club-and-festival-ready configuration built on the same Pearl and Axis partnership that carried him through the Trivium years.',
+        albums: ['Session and touring work with Arkaik and Dragonlord'],
+        tours: ['Arkaik reunion shows', 'Dragonlord select dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series (compact configuration)',
+            details: 'Scaled-down double bass kit for club and festival dates',
+            notes: 'Continued Pearl partnership, now built for the leaner logistics of underground touring rather than arena production.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Reference 14"x6.5"',
+            details: 'Unchanged from the Trivium years',
+            notes: 'The snare that has followed Bent since 2017.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Brilliant (compact setup)',
+            details: '14" hi-hats, 16"/18" crashes, 21" ride, 18" China',
+            notes: 'Trimmed back to a leaner cymbal setup suited to underground touring logistics.',
+            change: null,
+          },
+          hardware: {
+            item: 'Axis A21 Longboard Double Pedal',
+            details: 'Unchanged direct drive',
+            notes: 'The one piece of gear that has followed Bent from Arkaik through Trivium and back.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Unchanged hickory',
+            notes: 'Consistent stick choice across his entire career.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 Clear / EMAD',
+            details: 'Standard configuration',
+            notes: 'Durable, road-ready heads for underground touring.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 6000,
+          inflationAdjusted: 6000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Returned to Arkaik and Dragonlord within months of leaving Trivium',
+          'Scaled setup back down for underground club and festival touring',
+          'Axis Percussion and Pearl partnerships carried over from the Trivium era',
+          'Full-circle career arc: tech-death underground → arena metal → tech-death underground',
+        ],
+
+        quote: {
+          text: "Going back to Arkaik feels like coming home. Trivium taught me how to play for the back row, but this is where I learned to play in the first place.",
+          source: 'Interview, 2026',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'Why did Alex Bent leave Trivium?',
+        a: 'Trivium announced Alex Bent\'s departure in October 2025 after eight years and four studio albums — The Sin and the Sentence (2017), What the Dead Men Say (2020), In the Court of the Dragon (2021), and Struck Dead (2025). The band did not detail specific reasons at the time. Bent returned to his technical death metal roots with Arkaik and Dragonlord shortly after.',
+      },
+      {
+        q: 'How did Alex Bent get into Trivium?',
+        a: 'Producer Mark Lewis recommended Alex Bent to Trivium after working with him, and Bent joined in 2017 at age 24. His technical death metal background — Arkaik, Brain Drill, Dragonlord, and Battlecross, plus filling in for Gene Hoglan on Testament tour dates — gave him the precision Trivium needed for The Sin and the Sentence.',
+      },
+      {
+        q: 'What gear does Alex Bent use now?',
+        a: 'Since leaving Trivium, Alex Bent has continued playing a scaled-down Pearl Reference Series kit with his Pearl Reference 14"x6.5" snare, a compact Meinl Byzance Brilliant cymbal setup, and his long-running Axis A21 Longboard double pedal — the same core partnerships that carried his entire Trivium tenure, now sized for underground touring with Arkaik and Dragonlord.',
+      },
+      {
+        q: 'How did Alex Bent\'s drumming style evolve?',
+        a: 'Bent\'s style formed in the technical death metal underground with Arkaik and Brain Drill, built on extreme pedal speed via his Axis Percussion endorsement. Joining Trivium in 2017 required him to adapt that technicality to serve accessible, arena-ready songwriting — a balance he maintained across four albums before returning to the tech-death scene that shaped him.',
+      },
+      {
+        q: 'What drum kit did Alex Bent use with Trivium?',
+        a: 'Alex Bent played a matte-black Pearl Reference Series kit throughout his Trivium tenure — a maple/birch hybrid shell pack with double 22"x18" bass drums, 10"/12" rack toms, and 14"/16" floor toms — paired with a Pearl Reference 14"x6.5" snare and an expanding Meinl Byzance Brilliant cymbal setup.',
+      },
+    ],
+
+    metaTitle: 'Alex Bent Gear Evolution Timeline | Trivium Drum Kit History',
+    metaDescription: 'Explore Alex Bent\'s complete drum gear evolution: technical death metal underground years with Arkaik and Brain Drill → matte-black Pearl Reference Series on The Sin and the Sentence (2017) → expanded Meinl Byzance rig through Struck Dead (2025) → his return to Arkaik and Dragonlord after departing Trivium. Fifteen years, era by era.',
+  },
+
+  // ==========================================
+  // Jason Bittner - Shadows Fall / Overkill (1999-Present)
+  // ==========================================
+  'jason-bittner': {
+    slug: 'jason-bittner',
+    name: 'Jason Bittner',
+    band: 'Overkill / Shadows Fall',
+    totalYearsActive: '1999-Present',
+    profileImage: '/images/drummers/jason-bittner.webp',
+    summary: 'A Connecticut-born, Berklee-trained drummer whose career spans four major metal bands across three decades — from Shadows Fall\'s NWOAHM breakthrough, through a Flotsam and Jetsam interlude and session work (including Sanctuary\'s 2014 comeback), to becoming Overkill\'s full-time thrash engine. Jason Bittner\'s gear evolution runs from an early Tama/Sabian setup built for Shadows Fall\'s Grammy-nominated The War Within to the Mapex/Zildjian rig that has powered his Overkill tenure since 2017.',
+
+    eras: [
+      {
+        id: 'jason-bittner-1999-early-shadows-fall',
+        era: 'Early Shadows Fall Era',
+        years: '1999–2004',
+        startYear: 1999,
+        endYear: 2004,
+        description: 'Jason Bittner joined New England metalcore band Shadows Fall in 1999, helping develop the New Wave of American Heavy Metal (NWOAHM) sound — a fusion of metalcore groove and thrash-tempo double bass. His early gear was a developing Tama setup with a growing Sabian cymbal endorsement, built out fully by the time of The Art of Balance (2002), the album that announced Shadows Fall as NWOAHM\'s technical benchmark.',
+        albums: ['Somber Eyes to the Sky (1997, session work)', 'The Art of Balance (2002)'],
+        tours: ['New England Metal Fest appearances', 'The Art of Balance touring cycle'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama kit (developing setup)',
+            details: 'Early Tama endorsement, configuration still evolving',
+            notes: 'Tama partnership formed early in Bittner\'s career, well before the Starclassic Performer B/B became his signature kit.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama steel 14"x6.5"',
+            details: 'Standard steel shell',
+            notes: 'Sharp attack suited to cutting through Shadows Fall\'s dense metalcore guitar arrangements.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian (early endorsement)',
+            details: 'Developing Sabian setup',
+            notes: 'Early-career Sabian endorsement that would grow into the full HHX/HH setup of the band\'s peak years.',
+            change: null,
+          },
+          hardware: {
+            item: 'Double bass pedal (pre-DW 9002)',
+            details: 'Early double-kick configuration',
+            notes: 'Pre-dates the DW 9002 that would later formalize his double-bass sound.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Consistent stick choice from the start of his career.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Standard configuration',
+            notes: 'Basic head setup for the early Shadows Fall touring years.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2800,
+          inflationAdjusted: 5000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Shadows Fall in 1999, helping pioneer the NWOAHM sound',
+          'Tama endorsement established early in his career',
+          'The Art of Balance (2002) became NWOAHM\'s definitive technical benchmark',
+        ],
+
+        quote: {
+          text: "Berklee taught me discipline, but the road taught me how to play metal.",
+          source: 'Modern Drummer Magazine, 2006',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'jason-bittner-2004-shadows-fall-peak',
+        era: 'Shadows Fall Peak Era',
+        years: '2004–2012',
+        startYear: 2004,
+        endYear: 2012,
+        description: 'Bittner\'s career peak with Shadows Fall. The Tama Starclassic Performer B/B — birch/bubinga hybrid shells that balanced attack with warmth — became his defining kit across The War Within (2004), a Grammy-nominated breakthrough, through Threads of Life (2007) and Fire from the Sky (2012), the band\'s final studio album before their extended hiatus.',
+        albums: ['The War Within (2004)', 'Threads of Life (2007)', 'Fire from the Sky (2012)'],
+        tours: ['Ozzfest 2005 (headlining)', 'Threads of Life World Tour'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Performer B/B',
+            details: 'Birch/bubinga hybrid: double 22"x18" bass drums, 10"/12" rack toms, 14"/16" floor toms',
+            notes: 'The birch/bubinga shell combination delivers focused attack with added tonal warmth — the kit that defines the entire Shadows Fall peak era.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Tama Starphonic Steel 14"x6.5"',
+            details: 'Steel shell, sharp attack',
+            notes: 'Cuts through Shadows Fall\'s layered NWOAHM guitar arrangements with immediate upper-frequency projection.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Sabian HHX / HH Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride, HHX China',
+            notes: 'Full Sabian HHX/HH setup established — hand-hammered B20 bronze for brightness that projects above dense guitar mixes.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9002 Double Bass Pedal',
+            details: 'Dual-chain drive',
+            notes: 'The pedal that formalized Bittner\'s double-bass sound — matched action across both pedal sides for metronomic precision.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Unchanged hickory',
+            notes: 'Consistent stick choice through the band\'s peak years.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador Coated',
+            details: 'Coated batter heads',
+            notes: 'Warm attack with clarity, suited to the increasingly polished production of the band\'s major-label records.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 5500,
+          inflationAdjusted: 8200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Upgraded to the Tama Starclassic Performer B/B — his signature kit for over a decade',
+          'The War Within (2004) earned a Grammy nomination',
+          'Full Sabian HHX/HH cymbal setup established',
+          'Switched to the DW 9002 double bass pedal',
+          'Headlined Ozzfest with Shadows Fall in 2005',
+        ],
+
+        quote: {
+          text: "The Art of Balance and The War Within are still the records people ask me about most. That's the sound I built my whole career on.",
+          source: 'DRUM! Magazine, 2010',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'jason-bittner-2013-transition',
+        era: 'Flotsam and Jetsam / Session Years',
+        years: '2013–2017',
+        startYear: 2013,
+        endYear: 2017,
+        description: 'With Shadows Fall on hiatus, Bittner joined thrash veterans Flotsam and Jetsam in 2013 and took on session work across the thrash scene — including drumming on Sanctuary\'s 2014 comeback album The Year the Sun Died, recorded after original drummer Dave Budbill\'s passing. This transitional stretch kept his Tama/Sabian/DW setup intact while a new Mapex relationship began taking shape.',
+        albums: ['Flotsam and Jetsam - Flotsam and Jetsam (2016)', 'Sanctuary - The Year the Sun Died (2014, session)'],
+        tours: ['Flotsam and Jetsam touring lineup', 'Sanctuary reunion touring support'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Performer B/B',
+            details: 'Unchanged from the Shadows Fall peak years',
+            notes: 'Carried the same kit into Flotsam and Jetsam and his Sanctuary session work.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Starphonic Steel 14"x6.5"',
+            details: 'Unchanged steel shell',
+            notes: 'Same snare across Shadows Fall, Flotsam and Jetsam, and session dates.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian HHX / HH Series',
+            details: 'Unchanged setup',
+            notes: 'Sabian endorsement carried through the transitional years.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9002 Double Bass Pedal',
+            details: 'Unchanged dual-chain drive',
+            notes: 'Reliable pedal choice for session work across multiple thrash acts.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Unchanged hickory',
+            notes: 'Consistent choice through the session years.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador Coated',
+            details: 'Unchanged configuration',
+            notes: 'Carried over from the Shadows Fall peak era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5500,
+          inflationAdjusted: 6500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Flotsam and Jetsam in 2013 during Shadows Fall\'s hiatus',
+          'Session work on Sanctuary\'s The Year the Sun Died (2014)',
+          'Maintained Tama/Sabian/DW setup through a period of high touring turnover',
+          'Built the thrash-scene relationships that led to the Overkill opportunity',
+        ],
+
+        quote: {
+          text: "Filling in and recording sessions for different bands kept me sharp — you learn to adapt fast when it's not your own material.",
+          source: 'Blabbermouth Interview, 2015',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'jason-bittner-2017-overkill',
+        era: 'Overkill Era',
+        years: '2017–Present',
+        startYear: 2017,
+        endYear: 2026,
+        description: 'Bittner joined thrash institution Overkill in 2017, replacing Ron Lipnicki, and switched his entire setup to Mapex and Zildjian — a clean break from the Tama/Sabian rig that had defined his first two decades. The Wings of War (2019) and Scorched (2023), the first Overkill album fully written with Bittner behind the kit, cemented him as one of thrash\'s most reliable modern engines.',
+        albums: ['The Wings of War (2019)', 'Scorched (2023)'],
+        tours: ['Overkill World Tours 2017–Present'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex Saturn V',
+            details: 'All-maple shell pack: double 22" bass drums, 10"/12" rack toms, 14"/16" floor toms',
+            notes: 'A clean brand switch from Tama for the new Overkill chair — all-maple construction for a warmer, more resonant thrash tone.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Mapex Black Panther Sledgehammer 14"x6.5" Brass',
+            details: 'Brass shell',
+            notes: 'Steel-edged crack that cuts through Overkill\'s dense thrash riffing — a sharper, more explosive replacement for the Tama Starphonic.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian K & A Custom Series',
+            details: '14" K hi-hats, 18"/19" A Custom crashes, 21" K Custom ride, 18" K China',
+            notes: 'Switched from Sabian to Zildjian — the K Custom ride\'s dark, defined bell suits classic thrash riding patterns.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Mapex Falcon Double Pedal',
+            details: 'Cam-driven double pedal',
+            notes: 'Replaced the DW 9002 as part of the full Mapex hardware switch when he joined Overkill.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Promark Jason Bittner Signature 5BX',
+            details: 'Signature model',
+            notes: 'First signature stick of his career, launched during the Overkill era — succeeding the generic Vic Firth 5B of his first two decades.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans G2 Coated / EMAD',
+            details: 'G2 Coated on toms/snare, EMAD on kick',
+            notes: 'Switched from Remo to Evans for a tighter, more focused low end suited to Overkill\'s thrash velocity.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 9500,
+          inflationAdjusted: 10200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Overkill in 2017, replacing Ron Lipnicki',
+          'Complete gear switch: Tama to Mapex, Sabian to Zildjian, DW to Mapex Falcon',
+          'First signature stick model, the Promark Jason Bittner 5BX',
+          'Scorched (2023) — the first Overkill album fully written with Bittner in the band',
+        ],
+
+        quote: {
+          text: "Joining Overkill meant a clean slate on gear too — new drums, new cymbals, new pedal. It let me build a sound that was mine from day one in this band.",
+          source: 'Interview, 2023',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What bands has Jason Bittner played in?',
+        a: 'Jason Bittner is best known for Shadows Fall (1999–2015), the NWOAHM pioneers he helped define with The Art of Balance (2002) and the Grammy-nominated The War Within (2004). During Shadows Fall\'s hiatus he joined Flotsam and Jetsam (2013–2017) and recorded session work for Sanctuary\'s 2014 comeback album The Year the Sun Died, before becoming Overkill\'s full-time drummer in 2017, replacing Ron Lipnicki.',
+      },
+      {
+        q: 'Who replaced Ron Lipnicki in Overkill?',
+        a: 'Jason Bittner replaced Ron Lipnicki as Overkill\'s drummer in 2017, bringing two decades of NWOAHM and thrash experience from Shadows Fall and Flotsam and Jetsam. His Overkill debut era produced The Wings of War (2019) and Scorched (2023).',
+      },
+      {
+        q: 'What gear does Jason Bittner use now?',
+        a: 'With Overkill, Jason Bittner plays a Mapex Saturn V all-maple kit centered on his Mapex Black Panther Sledgehammer 14"x6.5" brass snare, a Zildjian K & A Custom cymbal setup, a Mapex Falcon double pedal, and his own Promark Jason Bittner Signature 5BX sticks — a complete brand switch from the Tama/Sabian/DW rig he used throughout his Shadows Fall years.',
+      },
+      {
+        q: 'How did Jason Bittner\'s playing evolve across his career?',
+        a: 'Bittner developed his technical foundation in Shadows Fall, fusing metalcore groove with thrash-tempo double bass to help define NWOAHM. That precision transferred directly to Overkill\'s thrash context in 2017, proving — as his gear switch from Tama to Mapex and Sabian to Zildjian symbolized — that the underlying discipline mattered more than any single genre or brand.',
+      },
+      {
+        q: 'Did Jason Bittner play on any Sanctuary albums?',
+        a: 'Yes — during his 2013–2017 stretch with Flotsam and Jetsam, Bittner also contributed session drumming to Sanctuary\'s 2014 comeback album The Year the Sun Died, part of a broader run of thrash-scene session work between his Shadows Fall and Overkill tenures.',
+      },
+    ],
+
+    metaTitle: 'Jason Bittner Gear Evolution Timeline | Shadows Fall to Overkill Drum Kit History',
+    metaDescription: 'Explore Jason Bittner\'s complete drum gear evolution: Tama Starclassic Performer B/B and Sabian HHX on Shadows Fall\'s Grammy-nominated The War Within (2004) → Flotsam and Jetsam and Sanctuary session years → the full Mapex/Zildjian switch after joining Overkill in 2017, replacing Ron Lipnicki. Nearly three decades, era by era.',
+  },
 };
 
 /**

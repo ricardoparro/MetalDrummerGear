@@ -13338,6 +13338,497 @@ This guide breaks down the technique, gear, and practice approach behind Cruz's 
       { slug: 'omens-drum-setup', label: "Lamb of God \"Omens\" Drum Setup: Art Cruz's 2022 Album" }
     ]
   },
+
+  'how-to-sound-like-alex-bent': {
+    slug: 'how-to-sound-like-alex-bent',
+    drummerId: 22,
+    drummerName: 'Alex Bent',
+    band: 'Trivium',
+    genre: 'Modern Metal / Technical Death Metal',
+    priority: 52,
+    title: "How to Sound Like Alex Bent: Complete Gear & Technique Guide",
+    description: "Master Alex Bent's technical precision behind Trivium's modern metal catalog. Learn his blast beat clarity, Pearl Reference setup, Meinl Byzance cymbals, and the practice approach behind The Sin and the Sentence and In the Court of the Dragon.",
+    seoKeywords: ['alex bent drumming', 'how to sound like alex bent', 'trivium drums', 'alex bent gear', 'alex bent technique', 'alex bent drum kit', 'trivium drummer'],
+    ogImage: '/images/guides/alex-bent-guide.webp',
+    datePublished: '2026-07-01',
+    dateModified: '2026-07-01',
+    author: 'MetalForge Editorial',
+    wordCount: 1900,
+    readingTime: '9 min',
+    intro: {
+      title: "Technical Death Metal Precision Meets Modern Metal",
+      content: `Alex Bent served as Trivium's drummer from 2017 to 2025, stepping into the band's demanding drum chair at producer Mark Lewis's recommendation after building his reputation in the technical death metal underground with Brain Drill, Arkaik, and Battlecross. Over four studio albums — "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), "In the Court of the Dragon" (2021), and "Struck Dead" (2025) — Bent elevated Trivium's rhythmic complexity while keeping the band's melodic metal accessibility intact.
+
+What separates Bent from a pure technical death metal drummer is restraint. He can execute blast beats and intricate fills with extreme metal clarity, but he never loses sight of the song. Listen to "The Sin and the Sentence" or "In the Court of the Dragon" and you'll hear a drummer capable of blistering speed who still locks tightly into Trivium's riff-driven songwriting rather than showing off for its own sake.
+
+This guide breaks down the technique, gear, and practice system behind Bent's sound — from his Pearl Reference kit and Meinl Byzance cymbals to the blast-beat control that defined Trivium's most technically ambitious era.`,
+      keyPoints: [
+        "Trivium drummer from 2017 to 2025 across four studio albums",
+        "Technical death metal background with Brain Drill, Arkaik, and Battlecross",
+        "Blends extreme metal blast beat clarity with modern metal accessibility",
+        "Filled in for Gene Hoglan on Testament tour dates before joining Trivium"
+      ]
+    },
+    technique: {
+      title: "Bent's Technical Modern Metal Approach",
+      overview: `Bent plays matched grip with a clean, controlled stroke honed in technical death metal. His blast beats are dense but articulate — every note is audible even at extreme tempos — while his fills favor precise, purposeful patterns over random flash. He shifts fluidly between extreme technicality and arena-ready groove within a single song.`,
+      stickGrip: {
+        type: 'Matched Grip',
+        description: "Bent uses a matched grip with a compact, efficient stroke developed from years of technical death metal drumming. The controlled motion keeps every note articulate even during his fastest blast beat passages.",
+        tips: [
+          "Keep strokes compact and controlled — clarity at speed beats raw power",
+          "Practice blast beats slowly first so every hand-foot combination stays even",
+          "Build the ability to drop from extreme technicality into a simple groove instantly"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "Clarity Blast Beat",
+          description: "Bent's blast beats maintain distinct articulation between kick, snare, and hi-hat even at extreme tempos — a hallmark of his technical death metal training applied to Trivium's modern metal songwriting.",
+          tempo: "180-220 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Practice at half tempo with a metronome, focusing on even volume across every hit before increasing speed."
+        },
+        {
+          name: "Riff-Locked Double Bass",
+          description: "Bent's double bass patterns follow Trivium's intricate guitar riffs precisely rather than defaulting to straight 16th notes, giving the technical passages a tight, composed feel.",
+          tempo: "160-200 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Learn the guitar riff's exact rhythm first, then build a double bass pattern that mirrors it note for note."
+        },
+        {
+          name: "Song-Serving Fills",
+          description: "Rather than inserting technical fills for their own sake, Bent's fills punctuate structural transitions — verse to chorus, breakdown to solo — with purposeful, compact phrasing.",
+          tempo: "Variable",
+          difficulty: "Intermediate-Advanced",
+          practiceHint: "Write fills that lead directly into the next section's first beat, not fills that exist independently of the song."
+        }
+      ],
+      keySongs: [
+        { song: "The Sin and the Sentence", album: "The Sin and the Sentence", year: 2017, why: "Bent's studio debut with Trivium showcases his blast beat clarity and riff-lock precision" },
+        { song: "Betrayer", album: "What the Dead Men Say", year: 2020, why: "Demonstrates his ability to shift between technical passages and arena-ready groove" },
+        { song: "In the Court of the Dragon", album: "In the Court of the Dragon", year: 2021, why: "Progressive song structures highlight his song-serving fill approach" },
+        { song: "Struck Dead", album: "Struck Dead", year: 2025, why: "His final album with Trivium, capturing eight years of rhythmic development" }
+      ]
+    },
+    gear: {
+      title: "Bent's Gear Setup",
+      drumKit: {
+        brand: 'Pearl',
+        model: 'Pearl Reference Series',
+        shells: 'Maple/Birch',
+        finish: 'Matte Black',
+        config: {
+          kick: '22" x 18" Bass Drums (x2)',
+          snare: '14" x 6.5" Pearl Reference Maple/Birch Snare',
+          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+          floorToms: ['16" x 16" Floor Tom']
+        },
+        description: "Pearl's Reference Series maple/birch hybrid shells give Bent a full, articulate low end with the attack needed to cut through Trivium's dense guitar layering during technical passages.",
+        affiliateNote: "Pearl Export or Pearl Decade Maple provide a similar shell character at a lower price point."
+      },
+      snare: {
+        brand: 'Pearl',
+        model: 'Pearl Reference 14" x 6.5" Maple/Birch',
+        size: '14" x 6.5"',
+        shell: 'Maple/Birch Hybrid',
+        description: "The hybrid shell delivers a full, cutting crack with enough body to anchor both blast beat sections and Trivium's more melodic, mid-tempo passages.",
+        alternative: "Pearl Masters Maple/Birch or Tama Starclassic Bubinga for similar hybrid tone"
+      },
+      cymbals: {
+        brand: 'Meinl',
+        series: 'Meinl Byzance Brilliant Series',
+        setup: [
+          { type: 'Hi-Hats', model: '14" Byzance Brilliant Medium Hi-Hats', notes: 'Bright, articulate response' },
+          { type: 'Crash', model: '16" Byzance Brilliant Medium Thin Crash', notes: 'Fast-decaying accent' },
+          { type: 'Crash', model: '18" Byzance Brilliant Medium Thin Crash', notes: 'Full-bodied accent crash' },
+          { type: 'Crash', model: '19" Byzance Brilliant Medium Thin Crash', notes: 'Explosive climactic accent' },
+          { type: 'Ride', model: '21" Byzance Brilliant Medium Ride', notes: 'Clear bell for technical riding' },
+          { type: 'China', model: '18" Byzance Brilliant China', notes: 'Trashy accent for breakdowns' }
+        ],
+        description: "The Byzance Brilliant finish gives Bent's cymbals a bright, cutting sheen that stays articulate through Trivium's layered, high-gain guitar mix."
+      },
+      pedals: {
+        brand: 'Axis Percussion',
+        model: 'Axis Percussion Double Pedal',
+        description: "Axis pedals are favored by technical drummers for their extreme speed and precision — essential for Bent's clarity-focused blast beat approach.",
+        alternative: "Tama Speed Cobra or DW 5000 for similarly responsive double bass feel"
+      },
+      sticks: {
+        brand: 'Vic Firth',
+        model: 'Vic Firth 5B',
+        specs: 'Hickory, wood tip',
+        description: "A versatile 5B weight that supports both Bent's fast, articulate blast beats and his heavier accent work on crashes and toms.",
+        alternative: "Promark 5B or Vater Fusion for a similar balanced feel"
+      },
+      heads: {
+        kick: 'Remo Powerstroke P3 Clear',
+        snare: 'Remo Ambassador Coated',
+        toms: 'Remo Emperor Clear',
+        resonant: 'Remo Ambassador Clear'
+      }
+    },
+    tuning: {
+      title: "Tuning for Bent's Sound",
+      overview: "Bent tunes for clarity and articulation above all — every note in his fast, technical passages needs to be distinctly audible, which requires controlled sustain and precise muffling.",
+      kickDrum: {
+        tension: "Medium-tight",
+        muffling: "Foam pad with port hole in resonant head",
+        description: "A clicky, defined attack ensures fast double bass patterns stay articulate rather than blurring together during blast beat sections.",
+        tip: "Use a foam pad touching the batter head and a port hole for maximum click definition at speed."
+      },
+      snare: {
+        tension: "Medium-high",
+        muffling: "Light",
+        description: "The hybrid maple/birch shell is tuned for a full, cutting crack that projects clearly through Trivium's dense guitar layers without choking the shell's natural resonance.",
+        tip: "Tune the batter head a few turns above finger-tight and keep muffling minimal to preserve the shell's natural crack."
+      },
+      toms: {
+        tension: "Medium-high",
+        muffling: "One Moongel per tom",
+        description: "Higher tuning keeps toms responsive for fast, technical fills while controlled muffling prevents overtones from muddying quick passages.",
+        tip: "Tune toms roughly a third apart with resonant heads slightly lower than batter for quick, focused decay."
+      }
+    },
+    practice: {
+      title: "Developing Bent's Technical Precision",
+      exercises: [
+        {
+          name: "Blast Beat Clarity Builder",
+          description: "Develop the articulate, even blast beats that define Bent's technical sound",
+          instructions: "At 100 BPM, play blast beats focusing on identical volume across kick, snare, and hi-hat. Record yourself and listen for any hit that's louder or softer than the rest. Increase 5 BPM only when every hit sounds identical.",
+          duration: "15 minutes daily",
+          goal: "Clean, evenly articulated blast beats at 200+ BPM"
+        },
+        {
+          name: "Riff Transcription Drill",
+          description: "Build the riff-locking precision behind Bent's double bass patterns",
+          instructions: "Transcribe a Trivium guitar riff by ear, then build a double bass pattern that mirrors its exact rhythm rather than playing generic straight 16ths.",
+          duration: "20 minutes daily",
+          goal: "A double bass pattern that matches a specific riff's rhythm note for note"
+        },
+        {
+          name: "Structural Fill Writing",
+          description: "Practice writing fills that serve song transitions rather than existing independently",
+          instructions: "Pick a song section transition (verse to chorus, etc.) and write three different short fills that lead directly into the next section's downbeat. Compare which feels most natural.",
+          duration: "10 minutes daily",
+          goal: "Fills that connect sections rather than interrupting the song's flow"
+        }
+      ],
+      commonMistakes: [
+        "Sacrificing articulation for raw speed — every note should be audible",
+        "Playing fills that don't lead anywhere — always resolve into the next section",
+        "Ignoring the guitar riff when building double bass patterns",
+        "Over-muffling drums to the point of losing natural resonance"
+      ]
+    },
+    budgetSetups: {
+      budget: {
+        price: "$1,000",
+        label: "Starter Setup",
+        kit: "Pearl Export ($700)",
+        cymbals: "Meinl HCS Pack ($200)",
+        pedals: "Pearl P930 Double Pedal ($130)",
+        sticks: "Vic Firth 5B ($10)",
+        notes: "Pearl's Export shells share the same brand DNA as Bent's Reference Series at a fraction of the cost."
+      },
+      mid: {
+        price: "$3,200",
+        label: "Intermediate Setup",
+        kit: "Pearl Decade Maple ($1,900)",
+        cymbals: "Meinl Byzance Extra Dry partial set ($900)",
+        pedals: "Tama Speed Cobra Double ($350)",
+        sticks: "Vic Firth 5B ($10)",
+        notes: "Getting close to Bent's actual tone with genuine Meinl Byzance cymbals in the mix."
+      },
+      pro: {
+        price: "$5,500+",
+        label: "Professional Setup",
+        kit: "Pearl Reference Series ($3,000+)",
+        cymbals: "Full Meinl Byzance Brilliant selection ($1,800+)",
+        pedals: "Axis Percussion Double Pedal ($600)",
+        heads: "Full Remo setup ($150)",
+        notes: "Touring and recording-ready setup matching Bent's Trivium-era rig."
+      }
+    },
+    faq: [
+      {
+        question: "How long was Alex Bent Trivium's drummer?",
+        answer: "Alex Bent was Trivium's drummer from 2017 to 2025, recording four studio albums: \"The Sin and the Sentence\" (2017), \"What the Dead Men Say\" (2020), \"In the Court of the Dragon\" (2021), and \"Struck Dead\" (2025)."
+      },
+      {
+        question: "What gear does Alex Bent use?",
+        answer: "Bent plays a Pearl Reference Series kit with a 14\" x 6.5\" maple/birch snare, Meinl Byzance Brilliant Series cymbals, an Axis Percussion double pedal, and Vic Firth 5B sticks."
+      },
+      {
+        question: "What was Alex Bent's background before Trivium?",
+        answer: "Bent built his reputation in technical death metal with Brain Drill, Arkaik, and Battlecross, and filled in for Gene Hoglan on Testament tour dates. Producer Mark Lewis recommended him to Trivium in 2017."
+      },
+      {
+        question: "How do I get Alex Bent's blast beat clarity?",
+        answer: "Practice blast beats slowly with a metronome, focusing on identical volume across every kick, snare, and hi-hat hit before increasing tempo. Bent's technical death metal training emphasizes articulation over raw speed."
+      },
+      {
+        question: "What Trivium albums best showcase Alex Bent's drumming?",
+        answer: "\"The Sin and the Sentence\" (2017) is his studio debut and a strong entry point. \"In the Court of the Dragon\" (2021) highlights his most progressive, song-serving fill work across Trivium's more complex arrangements."
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/alex-bent',
+      similarDrummers: ['Matt Halpern', 'Jay Weinberg', 'Chris Adler'],
+      relatedGuides: ['how-to-sound-like-matt-halpern', 'how-to-sound-like-jay-weinberg'],
+      gearPages: ['/gear/drums', '/brands/pearl', '/brands/meinl']
+    },
+    licksUrl: '/drummers/alex-bent/licks',
+    relatedArticles: [
+      { slug: 'whats-in-alex-bents-kit', label: "What's In Alex Bent's Kit?" }
+    ]
+  },
+
+  'how-to-sound-like-nick-augusto': {
+    slug: 'how-to-sound-like-nick-augusto',
+    drummerId: 26,
+    drummerName: 'Nick Augusto',
+    band: 'Trivium',
+    genre: 'Thrash Metal / Metalcore',
+    priority: 53,
+    title: "How to Sound Like Nick Augusto: Complete Gear & Technique Guide",
+    description: "Master Nick Augusto's aggressive thrash-metalcore attack behind Trivium's In Waves and Vengeance Falls era. Learn his double bass approach, Tama Starclassic setup, Meinl cymbals, and the practice system behind Trivium's heaviest chapter.",
+    seoKeywords: ['nick augusto drumming', 'how to sound like nick augusto', 'trivium drums', 'nick augusto gear', 'nick augusto technique', 'nick augusto drum kit', 'in waves drums'],
+    ogImage: '/images/guides/nick-augusto-guide.webp',
+    datePublished: '2026-07-01',
+    dateModified: '2026-07-01',
+    author: 'MetalForge Editorial',
+    wordCount: 1850,
+    readingTime: '9 min',
+    intro: {
+      title: "Thrash Precision Behind Trivium's Heaviest Era",
+      content: `Nick Augusto joined Trivium in 2010 following the departure of Travis Smith, stepping into one of modern metal's most demanding drum chairs. Over four years and two studio albums — "In Waves" (2011) and "Vengeance Falls" (2013) — he brought a thrash-rooted aggression and technical precision that defined the heaviest phase of Trivium's career.
+
+"In Waves," recorded at Audiohammer Studios with producers Jason Suecof and Mark Lewis, marked a deliberate pivot back toward the band's heavier roots. The album debuted at #13 on the Billboard 200, powered by Augusto's relentless double-bass work and tight, punching snare attacks. "Vengeance Falls" (2013), produced by David Draiman of Disturbed, pushed toward a more polished sound while Augusto's drumming remained the rhythmic anchor, reaching #15 on the Billboard 200.
+
+This guide breaks down the technique, gear, and practice approach behind Augusto's sound — from his Tama Starclassic kit and Meinl cymbals to the aggressive double-bass attack that powered Trivium's most commercially successful early-2010s run.`,
+      keyPoints: [
+        "Trivium drummer from 2010 to 2014, recording \"In Waves\" and \"Vengeance Falls\"",
+        "Brought thrash metal aggression to Trivium's evolving metalcore sound",
+        "\"In Waves\" (2011) debuted #13 Billboard 200; \"Vengeance Falls\" (2013) reached #15",
+        "Endorsed Tama Drums, Meinl Cymbals, and Promark Sticks"
+      ]
+    },
+    technique: {
+      title: "Augusto's Thrash-Metalcore Attack",
+      overview: `Augusto plays matched grip with an aggressive, high-energy attack rooted in thrash metal fundamentals. His double bass work favors power and drive over technical flash, while his snare hits land hard on the backbeat. He locks tightly with Trivium's riffs, using china cymbal accents to punctuate the band's heavier, metalcore-leaning sections.`,
+      stickGrip: {
+        type: 'Matched Grip',
+        description: "Augusto uses a matched grip built for power and stamina, driving Trivium's thrash-influenced riffs with consistent, high-energy attack across long sets.",
+        tips: [
+          "Commit fully to each stroke — thrash-rooted playing rewards conviction over restraint",
+          "Keep the backbeat snare hit consistently hard for maximum drive",
+          "Use china accents deliberately to punctuate riff changes, not randomly"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "Driving Double Bass Groove",
+          description: "Augusto's double bass patterns emphasize power and consistency, locking tightly with Trivium's thrash-influenced palm-muted riffs rather than showcasing technical speed for its own sake.",
+          tempo: "150-190 BPM",
+          difficulty: "Intermediate-Advanced",
+          practiceHint: "Practice double bass patterns directly against a palm-muted riff, matching the guitar's exact rhythm before adding variations."
+        },
+        {
+          name: "Hard Backbeat Attack",
+          description: "Augusto's snare backbeat hits with consistent, aggressive force — a thrash metal fundamental that gives Trivium's heavier songs their driving energy.",
+          tempo: "140-180 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Practice hitting the snare at maximum controlled volume on beats 2 and 4 without rushing or dragging the tempo."
+        },
+        {
+          name: "China Accent Punctuation",
+          description: "Augusto uses china cymbal hits to accent riff transitions and breakdown entries, adding a metalcore edge to Trivium's thrash-based songwriting.",
+          tempo: "Variable",
+          difficulty: "Intermediate",
+          practiceHint: "Mark the exact riff transition points in a song, then place china accents only at those structural moments."
+        }
+      ],
+      keySongs: [
+        { song: "In Waves", album: "In Waves", year: 2011, why: "Augusto's relentless double-bass work anchors this title track" },
+        { song: "Built to Fall", album: "In Waves", year: 2011, why: "Showcases his ability to switch between thrash intensity and metalcore groove" },
+        { song: "Vengeance Falls", album: "Vengeance Falls", year: 2013, why: "Demonstrates his hard backbeat attack under David Draiman's polished production" },
+        { song: "Black", album: "In Waves", year: 2011, why: "Tight, punching snare work over a driving thrash riff" }
+      ]
+    },
+    gear: {
+      title: "Augusto's Gear Setup",
+      drumKit: {
+        brand: 'Tama',
+        model: 'Tama Starclassic Performer B/B',
+        shells: 'Birch/Bubinga',
+        finish: 'Custom finish',
+        config: {
+          kick: '22" x 18" Bass Drums (x2)',
+          snare: 'Tama S.L.P. 14" x 6.5" or Starclassic Snare',
+          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+          floorToms: ['16" x 16" Floor Tom']
+        },
+        description: "The Starclassic Performer B/B's birch/bubinga shells deliver a punchy, focused low end with plenty of attack — well suited to Augusto's driving, thrash-rooted double bass approach.",
+        affiliateNote: "Tama Imperialstar or Tama Superstar offer a similar punchy attack at a lower price point."
+      },
+      snare: {
+        brand: 'Tama',
+        model: 'Tama S.L.P. 14" x 6.5"',
+        size: '14" x 6.5"',
+        shell: 'Steel or Bell Brass',
+        description: "A tight, punching snare tuned for the hard backbeat attack that anchors Trivium's heavier riffs. The S.L.P. line's metal shells provide plenty of crack and projection.",
+        alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for similar crack and cut"
+      },
+      cymbals: {
+        brand: 'Meinl',
+        series: 'Meinl MB20 and Classics Custom Series',
+        setup: [
+          { type: 'Hi-Hats', model: '14" Meinl Classics Custom Dark Hi-Hats', notes: 'Focused, cutting response' },
+          { type: 'Crash', model: '16" Meinl MB20 Heavy Crash', notes: 'Fast, powerful accent' },
+          { type: 'Crash', model: '18" Meinl MB20 Heavy Crash', notes: 'Full-bodied riff accent' },
+          { type: 'Ride', model: '21" Meinl MB20 Heavy Ride', notes: 'Clear bell for driving grooves' },
+          { type: 'China', model: '18" Meinl Classics Custom China', notes: 'Trashy accent for breakdowns' }
+        ],
+        description: "Meinl's MB20 and Classics Custom lines give Augusto a heavy, cutting cymbal voice that projects clearly through Trivium's thrash-metalcore guitar tone."
+      },
+      pedals: {
+        brand: 'Tama',
+        model: 'Tama Iron Cobra Double Pedal',
+        description: "The Iron Cobra's reliable, powerful drive suits Augusto's aggressive double bass approach, delivering the consistent power needed for long, high-energy sets.",
+        alternative: "Tama Speed Cobra or DW 5000 for a similarly powerful feel"
+      },
+      sticks: {
+        brand: 'Promark',
+        model: 'Promark 5B',
+        specs: 'Hickory, wood tip',
+        description: "A heavier 5B weight matched to Augusto's powerful, high-energy attack, providing durability across Trivium's demanding touring schedule.",
+        alternative: "Vic Firth 5B or Vater Power 5B for a similar heavier feel"
+      },
+      heads: {
+        kick: 'Evans EQ3 Clear',
+        snare: 'Evans Coated',
+        toms: 'Evans G2 Coated',
+        resonant: 'Evans Clear'
+      }
+    },
+    tuning: {
+      title: "Tuning for Augusto's Sound",
+      overview: "Augusto tunes for punch and attack, keeping Trivium's heavier riffs driving and defined without sacrificing the low-end weight thrash metal demands.",
+      kickDrum: {
+        tension: "Medium-tight",
+        muffling: "Moderate, focused attack",
+        description: "A punchy, attack-focused tuning keeps fast double bass patterns defined while retaining enough low end to anchor Trivium's heaviest sections.",
+        tip: "Balance attack and boom — enough click for double bass clarity, enough low end for driving weight."
+      },
+      snare: {
+        tension: "High",
+        muffling: "Minimal",
+        description: "A tight, cranked snare gives Augusto's backbeat the crack and projection needed to cut through Trivium's dense thrash-metalcore mix.",
+        tip: "Tune the batter head several turns above finger-tight for maximum crack on the backbeat."
+      },
+      toms: {
+        tension: "Medium",
+        muffling: "One Moongel per tom",
+        description: "Evans G2 Coated heads keep toms durable and punchy for fills that transition between thrash riffing and metalcore breakdowns.",
+        tip: "Tune toms roughly a third apart, keeping resonant heads slightly lower than batter for a focused decay."
+      }
+    },
+    practice: {
+      title: "Developing Augusto's Thrash-Metalcore Attack",
+      exercises: [
+        {
+          name: "Riff-Locked Double Bass Drill",
+          description: "Build the driving, riff-locked double bass power behind Augusto's sound",
+          instructions: "Pick a palm-muted thrash riff and practice a double bass pattern that matches its exact rhythm at full volume and commitment, not just correct timing.",
+          duration: "15 minutes daily",
+          goal: "A double bass pattern that drives with the same power and conviction as the riff"
+        },
+        {
+          name: "Backbeat Consistency Builder",
+          description: "Develop the hard, consistent snare backbeat that anchors Augusto's sound",
+          instructions: "Play quarter notes on the hi-hat while hitting the snare at maximum controlled volume on beats 2 and 4. Focus on identical volume and timing on every hit for two minutes straight.",
+          duration: "10 minutes daily",
+          goal: "A backbeat that stays consistently hard and on-time for extended passages"
+        },
+        {
+          name: "Structural Accent Mapping",
+          description: "Practice placing china accents at meaningful song transitions",
+          instructions: "Map out the exact riff transitions in a Trivium-style song, then place china cymbal accents only at those transition points rather than scattering them freely.",
+          duration: "10 minutes daily",
+          goal: "China accents that reinforce song structure rather than distract from it"
+        }
+      ],
+      commonMistakes: [
+        "Playing double bass without matching the riff's exact rhythmic feel",
+        "Letting the backbeat lose consistency or volume during longer passages",
+        "Scattering china accents randomly instead of at structural transitions",
+        "Under-tuning the snare, losing the crack needed to cut through dense guitar tone"
+      ]
+    },
+    budgetSetups: {
+      budget: {
+        price: "$950",
+        label: "Starter Setup",
+        kit: "Tama Imperialstar ($650)",
+        cymbals: "Meinl HCS Pack ($200)",
+        pedals: "Tama Speed Cobra Single ($100)",
+        sticks: "Promark 5B ($10)",
+        notes: "Tama's entry-level shells share the same brand DNA as Augusto's Starclassic setup."
+      },
+      mid: {
+        price: "$2,900",
+        label: "Intermediate Setup",
+        kit: "Tama Superstar ($1,700)",
+        cymbals: "Meinl Classics Custom partial set ($850)",
+        pedals: "Tama Iron Cobra Double ($350)",
+        sticks: "Promark 5B ($10)",
+        notes: "The Iron Cobra double pedal is the key upgrade — the same model Augusto used with Trivium."
+      },
+      pro: {
+        price: "$5,000+",
+        label: "Professional Setup",
+        kit: "Tama Starclassic Performer B/B ($2,800+)",
+        cymbals: "Full Meinl MB20 selection ($1,700+)",
+        pedals: "Tama Iron Cobra Double ($400)",
+        heads: "Full Evans setup ($150)",
+        notes: "Touring-ready setup matching Augusto's In Waves/Vengeance Falls era rig."
+      }
+    },
+    faq: [
+      {
+        question: "When was Nick Augusto in Trivium?",
+        answer: "Nick Augusto was Trivium's drummer from 2010 to 2014, recording two studio albums with the band: \"In Waves\" (2011) and \"Vengeance Falls\" (2013)."
+      },
+      {
+        question: "What gear did Nick Augusto use with Trivium?",
+        answer: "Augusto played a Tama Starclassic Performer B/B kit with a Tama S.L.P. 14\" x 6.5\" snare, Meinl MB20 and Classics Custom cymbals, a Tama Iron Cobra double pedal, and Promark 5B sticks."
+      },
+      {
+        question: "Why did Nick Augusto leave Trivium?",
+        answer: "Augusto parted ways with Trivium in 2014, citing creative differences. He was replaced by Mat Madiro, and Alex Bent later joined the band in 2017."
+      },
+      {
+        question: "What albums best showcase Nick Augusto's drumming?",
+        answer: "\"In Waves\" (2011) is the definitive showcase of his thrash-rooted aggression and driving double bass work. \"Vengeance Falls\" (2013), produced by David Draiman, highlights his hard backbeat attack under more polished production."
+      },
+      {
+        question: "How do I get Nick Augusto's drum sound?",
+        answer: "Tune the kick for punch and attack, crank the snare high for maximum crack, and lock every double bass pattern to the guitar riff's exact rhythm. Commit fully to each stroke — Augusto's thrash-rooted power comes from conviction, not restraint."
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/nick-augusto',
+      similarDrummers: ['Alex Bent', 'Chris Adler', 'Joey Jordison'],
+      relatedGuides: ['how-to-sound-like-alex-bent', 'how-to-sound-like-chris-adler'],
+      gearPages: ['/gear/drums', '/brands/tama', '/brands/meinl']
+    },
+    licksUrl: '/drummers/nick-augusto/licks',
+    relatedArticles: [
+      { slug: 'nick-augusto-drum-setup', label: "Nick Augusto's Drum Setup — Trivium's In Waves & Vengeance Falls Era Kit Guide" }
+    ]
+  },
 };
 
 // ================================

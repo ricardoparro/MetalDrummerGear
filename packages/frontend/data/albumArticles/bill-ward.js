@@ -318,6 +318,328 @@ export const articles = {
       "content": "*Master of Reality* is the album where Black Sabbath's sound fully committed to heaviness, and Bill Ward's drumming committed right along with it. The shift from *Paranoid* is subtle on the spec sheet — a slightly bigger bass drum, the same cymbals and snare — but the playing tells the real story: a more deliberate kick, a tighter hi-hat, a willingness to let the groove sit and breathe under Tony Iommi's down-tuned riffs.\n\n**For Drummers Studying *Master of Reality*:** \"Children of the Grave\" remains one of the most analyzed riff-locked drum patterns in metal — study how Ward's kick doubles the guitar and bass rather than playing a generic rock beat. \"Into the Void\" teaches patience: holding a slow groove for an extended build before a tempo shift pays off. \"Solitude\" is a reminder that the same drummer who anchors the album's heaviest riffs can also play with jazz-trained restraint.\n\nFor more on Ward's playing across Black Sabbath's catalog, see the [Bill Ward drummer profile](/drummer/bill-ward) and the [Paranoid drum setup](/articles/paranoid-drum-setup), recorded just months before this session.\n\n🥁 *The album where heavy metal got heavier — and Bill Ward's Ludwig kit grew right along with it.* 🥁"
     }
   },
+  "vol-4-drum-setup": {
+    "slug": "vol-4-drum-setup",
+    "albumTitle": "Vol. 4",
+    "artist": "Black Sabbath",
+    "drummer": "Bill Ward",
+    "drummerId": 30,
+    "relatedDrummerSlug": "bill-ward",
+    "year": 1972,
+    "genre": "Heavy Metal / Hard Rock",
+    "label": "Vertigo / Warner Bros.",
+    "studio": "Record Plant, Los Angeles",
+    "producer": "Black Sabbath",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Bill Ward's Drum Setup on Black Sabbath's Vol. 4 (1972)",
+    "description": "Bill Ward's drum setup for Vol. 4 (1972) — the Ludwig kit and Zildjian cymbals behind \"Changes\" and \"Supernaut,\" recorded during Black Sabbath's cocaine-fueled Los Angeles sessions.",
+    "seoKeywords": [
+      "vol 4 drums",
+      "bill ward 1972 drum kit",
+      "black sabbath drums 1972",
+      "supernaut drum setup",
+      "what black sabbath album has changes",
+      "bill ward drum set"
+    ],
+    "ogImage": "/images/albums/vol-4-drums.webp",
+    "peakChart": "#8 UK, #13 US Billboard 200",
+    "intro": {
+      "title": "Los Angeles, Cocaine, and a Piano Ballad",
+      "content": "Released in September 1972, *Vol. 4* is the album where Black Sabbath left Rodger Bain behind and produced themselves for the first time, decamping to the Record Plant in Los Angeles for sessions that became infamous for their excess — the album's liner notes thank the \"great COKE-Cola company of Los Angeles\" for their support. Amid that chaos, the band also took its biggest creative risk yet: \"Changes,\" a piano-and-mellotron ballad with no drums at all, and \"FX,\" an experimental noise collage built from studio effects rather than a song.\n\nFor Bill Ward, *Vol. 4* meant sitting out entirely on \"Changes\" while still delivering one of his most driving, groove-heavy performances on \"Supernaut\" — a track Frank Zappa reportedly called one of his favorite Black Sabbath songs for its rhythm section alone. \"Snowblind,\" the album's original working title before the label balked at the drug reference, gave Ward another showcase for the loose, live-feeling swing that separated him from stiffer hard-rock drummers of the era.\n\nThis article covers the Ludwig kit and Zildjian cymbal setup Ward used on *Vol. 4* — the same core rig carried over from *Master of Reality*, put to work on an album that pushed Black Sabbath's sound toward orchestration and sludge in the same nine tracks.",
+      "keyPoints": [
+        "Recorded at the Record Plant in Los Angeles — the band's first US-recorded album and first self-produced effort, without Rodger Bain",
+        "\"Changes\" is a piano-and-mellotron ballad with no drum part at all — one of Sabbath's most covered songs",
+        "\"Supernaut\" is widely cited as one of Bill Ward's most driving, groove-heavy performances",
+        "Original working title, \"Snowblind,\" was changed at the label's request over its drug reference"
+      ]
+    },
+    "drumKit": {
+      "title": "Bill Ward's Ludwig Kit: Holding Steady Between Master of Reality and Sabbath Bloody Sabbath",
+      "brand": "Ludwig",
+      "model": "Ludwig Standard / Club Date Series",
+      "finish": "Silver Sparkle",
+      "config": {
+        "bassdrums": [
+          "22\" x 14\" Bass Drum"
+        ],
+        "toms": [
+          "12\" x 8\" Rack Tom",
+          "13\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Maple shells, vintage 1960s–70s construction"
+      },
+      "description": "Ward's kit on *Vol. 4* is essentially unchanged from *Master of Reality* — the same 22\" Ludwig bass drum, two rack toms, and single 16\" floor tom in vintage maple. With the band self-producing for the first time and adjusting to an unfamiliar Los Angeles studio, Ward leaned on a setup he already trusted rather than experimenting with new hardware.\n\nThat consistency let him focus on range instead of gear: \"Supernaut\"'s driving, syncopated groove is some of his most technically confident playing to date, while \"Snowblind\"'s slower, sludgier riff called for the same deliberate, weighted kick approach he'd developed on *Master of Reality*'s heavier material. \"Wheels of Confusion/The Straightener\" opens the album with a tempo shift midway through, giving Ward room to demonstrate the dynamic range that made him more than a straightforward power drummer.\n\nOn \"Changes,\" Ward doesn't play at all — a first for a Sabbath album track, and a sign of how far the band was willing to stretch beyond its riff-driven formula. \"FX,\" built from studio noise and effects rather than a conventional arrangement, similarly finds him absent, leaving the album's more conventional cuts to carry the drumming workload.",
+      "notes": [
+        "Kit configuration unchanged from Master of Reality — same 22\" bass drum, toms, and floor tom",
+        "No drum part on \"Changes\" or \"FX\" — the first Sabbath album tracks to omit Ward entirely",
+        "Consistency in gear let Ward focus on range across the album's more varied material",
+        "\"Supernaut\" is widely cited as one of his most driving performances of the era"
+      ],
+      "estimatedValue": "$900–1,600 (1972) / $6,000–15,000 (vintage today)"
+    },
+    "snare": {
+      "title": "Ludwig Acrolite: The Last Album Before the Switch to Supraphonic",
+      "brand": "Ludwig",
+      "model": "Ludwig Acrolite",
+      "size": "14\" x 5\"",
+      "shell": "Seamless aluminum",
+      "description": "Ward stayed with the same Ludwig Acrolite he'd used on *Paranoid* and *Master of Reality* — bright, dry, and cutting enough to sit on top of Geezer Butler's thick bass tone in the Record Plant's Los Angeles mix. *Vol. 4* would be the last Sabbath album to feature the Acrolite; by *Sabbath Bloody Sabbath* the following year, Ward had switched to the deeper-shelled Supraphonic.\n\nOn \"Supernaut,\" the snare lands with unusual precision against the track's syncopated riff, driving the groove rather than just marking the backbeat. \"Snowblind\" shows a heavier, more sustained touch suited to the song's sludgier tempo, while \"St. Vitus Dance\" and \"Under the Sun/Every Day Comes and Goes\" find Ward shifting between tight backbeat work and looser, more improvisational fills — the same jazz-rooted vocabulary he'd carried since the band's debut.",
+      "tuningSetting": "Medium-high tension for crack and projection",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$60–90 (1972) / $150–350 (vintage today)"
+    },
+    "cymbals": {
+      "title": "Avedis Zildjian: Unchanged Ahead of the Paiste Switch",
+      "brand": "Zildjian",
+      "series": "Avedis Zildjian",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Avedis Zildjian 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Carries the syncopated groove on Supernaut"
+        },
+        {
+          "type": "Ride",
+          "model": "Avedis Zildjian 20\" Ride",
+          "position": "Right side",
+          "notes": "Anchors the tempo shift in Wheels of Confusion/The Straightener"
+        },
+        {
+          "type": "Crash",
+          "model": "Avedis Zildjian Crash (16\"–18\")",
+          "position": "Above rack toms",
+          "notes": "Used sparingly, consistent with Ward's restrained approach on earlier albums"
+        }
+      ],
+      "description": "Ward's cymbal setup carried over directly from *Master of Reality* — the same Avedis Zildjian hi-hats, ride, and crash he'd used since *Paranoid*. *Vol. 4* would be his last album on Zildjian before switching to the brighter, more cutting Paiste 2002 series on *Sabotage* three years later.\n\nThe hi-hats do most of the work driving \"Supernaut\"'s syncopated groove, while the 20\" ride carries the tempo shift midway through \"Wheels of Confusion/The Straightener.\" Crash usage stays restrained throughout the album's heavier tracks, consistent with the more deliberate, riff-locked approach Ward had developed since *Master of Reality*.",
+      "estimatedValue": "$300–500 total (1972) / $2,000–4,000 (vintage today)"
+    },
+    "hardware": {
+      "title": "Ludwig Speed King: Single Pedal Through the Los Angeles Sessions",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Ludwig",
+          "model": "Ludwig Speed King",
+          "notes": "Single pedal throughout — Supernaut's driving groove comes from placement and touch, not extra hardware",
+          "description": "Ward carried the same Ludwig Speed King pedal through the Record Plant sessions. \"Supernaut\"'s tightly syncopated kick pattern and \"Snowblind\"'s heavier, sustained groove are both executed with a single foot, consistent with Ward's technique across every Sabbath album to date."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Ludwig",
+          "model": "Ludwig Atlas Hi-Hat Stand",
+          "notes": "Carried over from the Master of Reality sessions"
+        },
+        {
+          "type": "Throne",
+          "brand": "Ludwig",
+          "model": "Ludwig Standard Throne",
+          "notes": "Standard Ludwig hardware of the era"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Pro-Mark",
+          "model": "Pro-Mark Standard (5A or 5B equivalent)",
+          "notes": "Same stick choice as earlier Sabbath sessions"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Fiberskyn (period-typical) or Remo Ambassador Clear",
+        "toms": "Remo Ambassador Coated",
+        "snare": "Remo Ambassador Coated"
+      }
+    },
+    "trackAnalysis": [
+      {
+        "track": "Wheels of Confusion/The Straightener",
+        "bpm": "80–140 (tempo shift mid-track)",
+        "signature": "4/4",
+        "highlights": [
+          "Opens the album with a slow, heavy verse before shifting into a faster, driving second half",
+          "Ward's tempo transition is seamless, foreshadowing the multi-part structures Sabbath would explore further on later albums",
+          "Demonstrates the dynamic range that separated Ward from single-gear hard-rock drummers"
+        ],
+        "gearNotes": "The 20\" Zildjian ride carries both halves of the track without a cymbal change."
+      },
+      {
+        "track": "Supernaut",
+        "bpm": "130–134",
+        "signature": "4/4",
+        "highlights": [
+          "Widely cited as one of Bill Ward's most driving, groove-heavy performances in Black Sabbath",
+          "Syncopated riff-locked kick pattern drives the track's momentum from the first bar",
+          "Reportedly a favorite Black Sabbath song of Frank Zappa's, largely for the rhythm section"
+        ],
+        "gearNotes": "The Acrolite's dry crack keeps the backbeat cutting through Iommi's thick riff and Geezer Butler's bass."
+      },
+      {
+        "track": "Snowblind",
+        "bpm": "84–88",
+        "signature": "4/4",
+        "highlights": [
+          "The album's original working title track, referencing the cocaine-fueled Los Angeles sessions",
+          "Sludgy, heavy groove continues the doom-leaning approach Ward developed on Master of Reality",
+          "Bass drum tuned low and played with sustained pressure to match the down-tuned riff"
+        ],
+        "gearNotes": "Same 22\" bass drum and single Speed King pedal used across the heavier tracks on Master of Reality."
+      },
+      {
+        "track": "Changes",
+        "bpm": "N/A",
+        "signature": "N/A",
+        "highlights": [
+          "Piano-and-mellotron ballad with no drum part — a first for a Black Sabbath album track",
+          "One of the band's most covered and referenced songs despite Ward's absence from it",
+          "A sign of how far Vol. 4 stretched beyond the band's riff-driven formula"
+        ],
+        "gearNotes": "No gear used — Ward sits this track out entirely, one of only two Sabbath album tracks (with FX) to omit him."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums does Bill Ward use on Vol. 4?",
+        "answer": "Bill Ward recorded *Vol. 4* (1972) on the same Ludwig kit he'd used on *Master of Reality* — a 22\" bass drum, two rack toms, and a 16\" floor tom in vintage maple with a Silver Sparkle finish. His Ludwig Acrolite snare and Avedis Zildjian cymbals also carried over unchanged; *Vol. 4* was the last Sabbath album on that snare before he switched to the Ludwig Supraphonic on *Sabbath Bloody Sabbath*. For the full arc of Ward's gear through Black Sabbath's catalog, see the [Bill Ward drummer profile](/drummer/bill-ward)."
+      },
+      {
+        "question": "What makes Supernaut a standout Bill Ward performance?",
+        "answer": "\"Supernaut\" is widely cited as one of Bill Ward's most driving, groove-heavy performances in Black Sabbath — a tightly syncopated, riff-locked kick pattern that drives the track's momentum from the first bar. Frank Zappa reportedly named it among his favorite Black Sabbath songs, largely for the strength of the rhythm section. It's a standard reference point for jazz-influenced heavy metal drumming, showing how Ward's swing-based technique could still hit as hard as any straight-ahead rock drummer of the era."
+      },
+      {
+        "question": "How does Bill Ward's technique differ between Paranoid and Vol. 4?",
+        "answer": "By *Vol. 4*, Bill Ward's playing had grown more deliberate and riff-locked than the looser, more overtly jazz-swung feel he brought to *Paranoid* two years earlier. Tracks like \"Snowblind\" and \"Supernaut\" show a drummer playing with tighter syncopation and more sustained low-end weight, a progression that started on *Master of Reality* and continued through *Vol. 4*. He still made room for dynamic contrast — sitting out entirely on the piano ballad \"Changes\" — showing the same range that set him apart on [Paranoid](/articles/paranoid-drum-setup)."
+      },
+      {
+        "question": "What Black Sabbath album has the song Changes?",
+        "answer": "\"Changes\" appears on *Vol. 4* (1972), Black Sabbath's fourth studio album. It's a piano-and-mellotron ballad composed by Tony Iommi, with no drum part — one of the only Black Sabbath album tracks where Bill Ward doesn't play. Despite his absence from the track, it remains one of the band's most covered and referenced songs. See the [Bill Ward drummer profile](/drummer/bill-ward) for the rest of his work across the album."
+      }
+    ],
+    "evolution": {
+      "title": "From Master of Reality to Vol. 4: Same Gear, Bigger Creative Range",
+      "content": "Bill Ward's gear didn't change between *Master of Reality* (1971) and *Vol. 4* (1972) — the same Ludwig kit, Acrolite snare, and Zildjian cymbals carried over unchanged. What changed was the material he was asked to support, from the driving syncopation of \"Supernaut\" to the total absence required by \"Changes\" and \"FX.\"\n\nThat consistency wouldn't last much longer. By *Sabbath Bloody Sabbath* the following year, Ward had grown his bass drum to 24\", added a second floor tom, and switched from the Acrolite to the Ludwig Supraphonic — the next step in a gear evolution that continued through *Sabotage* and its switch to Paiste 2002 cymbals.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Ludwig Standard / Club Date (22\" bass drum, vintage maple)",
+          "now": "Modern equivalent: Ludwig Classic Maple or Ludwig Legacy"
+        },
+        {
+          "category": "Snare",
+          "then": "Ludwig Acrolite 14\" x 5\"",
+          "now": "Ludwig Acrolite still in production — nearly identical to the 1972 original"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Avedis Zildjian (early 1970s bronze)",
+          "now": "Zildjian A Series (closest modern equivalent)"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "master-of-reality-drum-setup",
+      "sabbath-bloody-sabbath-drum-setup"
+    ],
+    "relatedDrummers": [
+      1,
+      4,
+      12
+    ],
+    "relatedArticles": [
+      "groove-drumming",
+      "history-of-metal-drumming"
+    ],
+    "relatedLicks": [
+      {
+        "drummerSlug": "bill-ward",
+        "lickSlug": "bill-ward-iron-man-groove",
+        "label": "Watch Bill Ward's riff-locked groove technique, the same foundation underpinning the syncopated Supernaut pattern"
+      }
+    ],
+    "internalLinks": [
+      {
+        "text": "Bill Ward drummer profile",
+        "url": "/drummer/bill-ward"
+      },
+      {
+        "text": "Bill Ward licks and technique breakdowns",
+        "url": "/drummer/bill-ward/licks"
+      },
+      {
+        "text": "Master of Reality drum setup",
+        "url": "/articles/master-of-reality-drum-setup"
+      },
+      {
+        "text": "Sabbath Bloody Sabbath drum setup",
+        "url": "/articles/sabbath-bloody-sabbath-drum-setup"
+      },
+      {
+        "text": "Groove drumming techniques",
+        "url": "/techniques/groove-drumming"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Bill Ward's Drum Setup on Black Sabbath's Vol. 4 (1972)",
+          "description": "Bill Ward's drum setup for Vol. 4 (1972) — the Ludwig kit and Zildjian cymbals behind \"Changes\" and \"Supernaut,\" recorded during Black Sabbath's cocaine-fueled Los Angeles sessions.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-01",
+          "dateModified": "2026-07-01"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Vol. 4",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Black Sabbath"
+          },
+          "datePublished": "1972-09-25",
+          "genre": "Heavy Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Vertigo / Warner Bros."
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "Wheels of Confusion/The Straightener" },
+            { "@type": "MusicRecording", "name": "Tomorrow's Dream" },
+            { "@type": "MusicRecording", "name": "Changes" },
+            { "@type": "MusicRecording", "name": "FX" },
+            { "@type": "MusicRecording", "name": "Supernaut" },
+            { "@type": "MusicRecording", "name": "Snowblind" },
+            { "@type": "MusicRecording", "name": "Cornucopia" },
+            { "@type": "MusicRecording", "name": "Laguna Sunrise" },
+            { "@type": "MusicRecording", "name": "St. Vitus Dance" },
+            { "@type": "MusicRecording", "name": "Under the Sun/Every Day Comes and Goes" }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Bill Ward",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Black Sabbath"
+          },
+          "instrument": "Drums"
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "The Bridge Between Doom and Orchestration",
+      "content": "*Vol. 4* asked more of Bill Ward's range than any Sabbath album before it — not through heavier riffs or bigger gear, but by pushing him to the edges of the band's format entirely. He delivers one of his most driving performances on \"Supernaut,\" holds down the sludgy weight of \"Snowblind,\" and then sits out completely on \"Changes,\" a piano ballad that remains one of the band's most enduring songs despite his absence from it.\n\n**For Drummers Studying *Vol. 4*:** \"Supernaut\" is the essential study — a syncopated, riff-locked groove frequently cited as a reference point for jazz-influenced metal drumming. \"Wheels of Confusion/The Straightener\" rewards attention to how cleanly Ward handles a mid-song tempo shift. And \"Changes\" is a reminder that knowing when not to play is its own kind of technique.\n\nFor the rest of Ward's gear evolution through Black Sabbath's catalog, see the [Master of Reality drum setup](/articles/master-of-reality-drum-setup), recorded the year before, and the [Sabbath Bloody Sabbath drum setup](/articles/sabbath-bloody-sabbath-drum-setup), recorded the year after. The full picture of his career is on the [Bill Ward drummer profile](/drummer/bill-ward).\n\n🥁 *The album where Black Sabbath got experimental — and Bill Ward's steady Ludwig kit anchored every direction they pulled.* 🥁"
+    }
+  },
   "sabbath-bloody-sabbath-drum-setup": {
     "slug": "sabbath-bloody-sabbath-drum-setup",
     "albumTitle": "Sabbath Bloody Sabbath",

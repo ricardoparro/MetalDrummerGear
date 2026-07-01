@@ -4197,6 +4197,417 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['martin axenrot drum setup cost', 'opeth drum kit price', 'sonor sq2 price', 'martin axenrot gear cost today', 'meinl byzance cymbals price'],
     },
   },
+
+  // ==========================================
+  // ABE CUNNINGHAM - 2000 White Pony Era
+  // Pearl Custom Setup — Issue #3219
+  // ==========================================
+  'abe-cunningham': {
+    slug: 'abe-cunningham',
+    name: 'Abe Cunningham',
+    band: 'Deftones',
+    iconicYear: 2000,
+    era: 'White Pony Era',
+    albumReference: 'White Pony (2000)',
+    profileImage: '/images/drummers/abe-cunningham.webp',
+
+    summary: "Abe Cunningham's 2000 setup recorded \"White Pony\" — the album that transformed Deftones from nu-metal contemporaries into critical darlings and won the band its first Grammy (Best Metal Performance, \"Elite\"). Cunningham switched from ddrum to a Pearl Custom Series maple kit that year, chasing a warmer, more resonant tone to match the record's atmospheric, dynamics-driven arrangements. Zildjian K cymbals replaced his earlier A Customs for the same reason — darker, more complex Turkish bronze suited to producer Terry Date's layered production. The original rig — Pearl Custom 5-piece, Pearl Free-Floating brass snare, Zildjian K set, Pearl Eliminator double pedal, and Vic Firth 5A sticks — cost roughly $7,772 in 2000, reflecting a mid-tier professional setup rather than a signature-artist rig. Adjusted for 2026 inflation, that's equivalent to approximately $14,786 today. Cunningham's gear kept evolving after White Pony — Gretsch USA Custom for the Diamond Eyes era, then Pearl Reference for Koi No Yokan and Gore — before he ultimately moved to a bespoke SJC Custom shell pack and Zildjian K Custom/A Custom cymbals, the setup he plays today. That multi-decade arc, from mid-tier Pearl gear to a fully custom boutique kit, is what makes the White Pony price point a useful anchor for tracking how far a founding member's rig can climb as a band's commercial fortunes rise.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Custom Series',
+        model: '5-piece maple shell pack',
+        specs: '22" Bass Drum, 10"/12" rack toms, 14"/16" floor toms',
+        originalPrice: 4800,
+        year: 2000,
+        source: 'Pearl Custom Series catalog pricing 2000',
+        notes: 'Switched from ddrum to Pearl Custom for White Pony — warmer, more resonant maple shells suited the album\'s atmospheric arrangements.',
+        vintageValue2026: 3400,
+        modernEquivalent: {
+          item: 'SJC Custom Drums (5-piece shell pack)',
+          price: 4200,
+          link: 'sjc-custom-shell-pack',
+        },
+      },
+      snare: {
+        item: 'Pearl Free-Floating Brass',
+        model: '14"x6.5" brass shell',
+        specs: '14"x6.5" brass, free-floating suspension mount',
+        originalPrice: 650,
+        year: 2000,
+        source: 'Pearl Free-Floating Series catalog 2000',
+        notes: 'Warm, full-bodied brass tone that supported White Pony\'s dynamic range, from whisper-quiet verses to full-volume choruses.',
+        vintageValue2026: 480,
+        modernEquivalent: {
+          item: 'SJC Custom 14"x6.5" Brass',
+          price: 900,
+          link: 'sjc-custom-brass-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian K Series',
+        model: 'Traditional K configuration',
+        specs: '14" K Hi-Hats, 16"/18" K Crashes, 20" K Ride',
+        originalPrice: 1700,
+        year: 2000,
+        source: 'Zildjian K Series retail pricing 2000',
+        notes: 'Switched from A Custom to K Series — darker, more complex Turkish bronze that matched White Pony\'s textured sound design.',
+        vintageValue2026: 1250,
+        modernEquivalent: {
+          item: 'Zildjian K Custom & A Custom Series (current)',
+          price: 2700,
+          link: 'zildjian-k-custom-a-custom-current',
+        },
+      },
+      hardware: {
+        item: 'Pearl Eliminator Double Pedal',
+        model: 'Multi-cam drive twin pedal',
+        specs: 'Double bass pedal, adjustable cam action',
+        originalPrice: 550,
+        year: 2000,
+        source: 'Pearl hardware catalog 2000',
+        notes: 'Precise, responsive double pedal that allowed the subtle footwork White Pony\'s nuanced arrangements required.',
+        vintageValue2026: 400,
+        modernEquivalent: {
+          item: 'DW 9000 Series Double Pedal + DW Hardware',
+          price: 780,
+          link: 'dw-9000-double-pedal-hardware',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5A',
+        model: 'Hickory',
+        specs: 'Lighter 5A weight for dynamic control',
+        originalPrice: 7,
+        year: 2000,
+        source: 'Vic Firth retail pricing 2000',
+        notes: 'Switched to lighter 5A for the added nuance and control White Pony\'s quieter passages demanded.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 2B (current)',
+          price: 16,
+          link: 'vic-firth-2b-current',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Coated Ambassador',
+        model: 'Emperor toms, coated Ambassador snare',
+        specs: 'Remo Emperor Clear (toms), Remo Ambassador Coated (snare)',
+        originalPrice: 65,
+        year: 2000,
+        source: 'Remo retail pricing 2000',
+        notes: 'Coated snare head for a warmer, more controlled attack across White Pony\'s dynamic range.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor / Ambassador Pack (current)',
+          price: 110,
+          link: 'remo-emperor-ambassador-pack-current',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 7772,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 5530,
+      modernEquivalentTotal: 8706,
+    },
+
+    priceEvolution: [
+      { year: 2000, price: 7772, label: 'Original Purchase', event: 'White Pony recorded — Deftones\' first Grammy Award ("Elite," Best Metal Performance)' },
+      { year: 2010, price: 10200, label: 'Diamond Eyes era', event: 'Switched to Gretsch USA Custom, recorded as a tribute to Chi Cheng' },
+      { year: 2016, price: 11900, label: 'Gore era', event: 'Pearl Reference flagship series, darker Zildjian K Custom Dark cymbals' },
+      { year: 2020, price: 13400, label: 'Ohms era', event: 'Continued Pearl Reference platform, Roland SPD-SX added for live samples' },
+      { year: 2026, price: 14786, label: 'Current adjusted', event: 'Inflation-adjusted value; current rig is a bespoke SJC Custom/Zildjian setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Custom Series Catalog', year: 2000, type: 'catalog' },
+      { title: 'Zildjian K Series Retail Pricing Archive', year: 2000, type: 'catalog' },
+      { title: 'Deftones White Pony Album Credits', year: 2000, type: 'press' },
+      { title: 'SJC Custom Drums / Zildjian Artist Pages', year: 2025, type: 'manufacturer' },
+    ],
+
+    meta: {
+      title: "Abe Cunningham Drum Setup Cost | Deftones Gear Price History",
+      description: "How much was Abe Cunningham's Deftones drum kit worth? Original Pearl Custom/Zildjian K setup ~$7,772 in 2000, inflation-adjusted to ~$14,786 today. Complete White Pony-era gear breakdown.",
+      keywords: ['abe cunningham drum setup cost', 'deftones drum kit price', 'abe cunningham gear cost today', 'pearl custom drums price', 'white pony drum kit'],
+    },
+  },
+
+  // ==========================================
+  // SCOTT TRAVIS - 1990 Painkiller Era
+  // Pearl Setup — Issue #3219
+  // ==========================================
+  'scott-travis': {
+    slug: 'scott-travis',
+    name: 'Scott Travis',
+    band: 'Judas Priest',
+    iconicYear: 1990,
+    era: 'Painkiller Era',
+    albumReference: 'Painkiller (1990)',
+    profileImage: '/images/drummers/scott-travis.webp',
+
+    summary: "Scott Travis's 1990 setup recorded \"Painkiller\" — the album that reinvigorated Judas Priest with a thrash-influenced, double-bass-driven attack and is still ranked among the greatest metal drum performances ever committed to tape. Travis, who'd built his reputation in neo-classical shred outfit Racer X, brought a Pearl maple double-bass kit and Zildjian A Series cymbals to his first full studio album as Priest's drummer, a rig built for the relentless sixteenth-note kick patterns the title track demanded. The original setup — Pearl Custom/Masters maple kit, Pearl Free-Floating brass snare, Zildjian A cymbal set, Pearl twin-pedal hardware, and Vic Firth sticks — cost roughly $5,976 in 1990. Adjusted for 2026 inflation, that's equivalent to approximately $14,979 today. Travis has since moved to a ddrum Dominion Series kit with his own ddrum Scott Travis Signature snare, switched from Zildjian to Paiste RUDE and 2002 Series cymbals for a trashier, more explosive attack, and now drives his double bass through a DW 9000 Series pedal mounted in a Gibraltar rack — the setup heard on Firepower (2018) and Invincible Shield (2024). The jump from a 1990 Pearl kit to a modern ddrum/Paiste/DW rig traces one of heavy metal's longest-running double-bass gear evolutions, spanning 35-plus years in the same drum chair.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Masters/Custom Series',
+        model: 'Double bass maple shell pack',
+        specs: '22"x18" Bass Drum x2, 10"/12" rack toms, 14"/16" floor toms',
+        originalPrice: 3600,
+        year: 1990,
+        source: 'Pearl Masters/Custom Series catalog pricing 1990',
+        notes: 'Twin-kick maple configuration built for Painkiller\'s relentless double-bass patterns.',
+        vintageValue2026: 2600,
+        modernEquivalent: {
+          item: 'ddrum Dominion Series',
+          price: 3800,
+          link: 'ddrum-dominion-series',
+        },
+      },
+      snare: {
+        item: 'Pearl Free-Floating Brass',
+        model: '14"x6.5" brass shell',
+        specs: '14"x6.5" brass, free-floating suspension mount',
+        originalPrice: 500,
+        year: 1990,
+        source: 'Pearl Free-Floating Series catalog 1990',
+        notes: 'Powerful, cutting brass crack designed to sit above Judas Priest\'s dual-guitar attack.',
+        vintageValue2026: 360,
+        modernEquivalent: {
+          item: 'ddrum Scott Travis Signature 14"x6.5"',
+          price: 750,
+          link: 'ddrum-scott-travis-signature-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Series',
+        model: 'Traditional A configuration',
+        specs: '14" A Hi-Hats, 16"/18" A Crashes, 20" A Ride, 18" China',
+        originalPrice: 1400,
+        year: 1990,
+        source: 'Zildjian A Series retail pricing 1990',
+        notes: 'Standard metal cymbal setup of the era, bright and cutting for arena-scale Painkiller World Tour dates.',
+        vintageValue2026: 1000,
+        modernEquivalent: {
+          item: 'Paiste RUDE & 2002 Series (current)',
+          price: 2900,
+          link: 'paiste-rude-2002-current',
+        },
+      },
+      hardware: {
+        item: 'Pearl P-2002 Twin Pedal',
+        model: 'Chain-drive twin pedal',
+        specs: 'Chain-drive double bass pedal, matching hi-hat stand',
+        originalPrice: 420,
+        year: 1990,
+        source: 'Pearl hardware catalog 1990',
+        notes: 'Chain-drive pedal built for the sustained sixteenth-note kick patterns on the "Painkiller" title track.',
+        vintageValue2026: 300,
+        modernEquivalent: {
+          item: 'DW 9000 Series Double Pedal + Gibraltar Rack System',
+          price: 950,
+          link: 'dw-9000-gibraltar-rack-current',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5B',
+        model: 'Hickory',
+        specs: 'Standard 5B weight',
+        originalPrice: 6,
+        year: 1990,
+        source: 'Vic Firth retail pricing 1990',
+        notes: 'Heavier 5B weight suited Travis\'s powerful, high-volume attack on tour.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B (current)',
+          price: 15,
+          link: 'vic-firth-5b-current',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Ambassador',
+        model: 'Emperor toms, Ambassador snare',
+        specs: 'Remo Emperor Clear (toms), Remo Ambassador Coated (snare)',
+        originalPrice: 50,
+        year: 1990,
+        source: 'Remo retail pricing 1990',
+        notes: 'Standard Remo head package for the Painkiller studio sessions.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor / Ambassador Pack (current)',
+          price: 110,
+          link: 'remo-emperor-ambassador-pack-current',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 5976,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 4260,
+      modernEquivalentTotal: 8525,
+    },
+
+    priceEvolution: [
+      { year: 1990, price: 5976, label: 'Original Purchase', event: 'Painkiller recorded — widely ranked among the greatest metal drum performances ever' },
+      { year: 2005, price: 9800, label: 'Angel of Retribution era', event: 'Rob Halford reunion album; continued Pearl/Zildjian platform' },
+      { year: 2018, price: 12600, label: 'Firepower era', event: 'ddrum Dominion Series and Paiste RUDE/2002 cymbals established as current rig' },
+      { year: 2024, price: 14200, label: 'Invincible Shield era', event: 'DW 9000 double pedal and Gibraltar rack anchor the modern setup' },
+      { year: 2026, price: 14979, label: 'Current adjusted', event: 'Inflation-adjusted value' },
+    ],
+
+    sources: [
+      { title: 'Pearl Masters/Custom Series Catalog', year: 1990, type: 'catalog' },
+      { title: 'Zildjian A Series Retail Pricing Archive', year: 1990, type: 'catalog' },
+      { title: 'Judas Priest Painkiller Album Credits', year: 1990, type: 'press' },
+      { title: 'ddrum / Paiste Artist Pages', year: 2025, type: 'manufacturer' },
+    ],
+
+    meta: {
+      title: "Scott Travis Drum Setup Cost | Judas Priest Gear Price History",
+      description: "How much was Scott Travis's Judas Priest drum kit worth? Original Pearl/Zildjian setup ~$5,976 in 1990, inflation-adjusted to ~$14,979 today. Complete Painkiller-era gear breakdown.",
+      keywords: ['scott travis drum setup cost', 'judas priest drum kit price', 'scott travis gear cost today', 'painkiller drum kit', 'ddrum dominion price'],
+    },
+  },
+
+  // ==========================================
+  // JAY WEINBERG - 2014 The Gray Chapter Era
+  // SJC Custom Setup — Issue #3219
+  // ==========================================
+  'jay-weinberg': {
+    slug: 'jay-weinberg',
+    name: 'Jay Weinberg',
+    band: 'Slipknot',
+    iconicYear: 2014,
+    era: 'The Gray Chapter Era',
+    albumReference: '.5: The Gray Chapter (2014)',
+    profileImage: '/images/drummers/jay-weinberg.webp',
+
+    summary: "Jay Weinberg's 2014 setup recorded \".5: The Gray Chapter\" — his first album with Slipknot after replacing Joey Jordison, and a record shadowed by the death of bassist Paul Gray. Weinberg, the son of E Street Band drummer Max Weinberg, built his kit around an SJC Custom shell pack and a standard SJC brass snare, well before either the signature snare or signature stick that define his rig today existed. Zildjian cymbals and Vater sticks rounded out a setup built to survive Slipknot's masked, high-intensity live show. The original rig — SJC Custom 5-piece, SJC brass snare, Zildjian A Custom/K mix, DW 9000 double pedal, and stock Vater sticks — cost roughly $6,542 in 2014. Adjusted for 2026 inflation, that's equivalent to approximately $9,054 today. Over nine years with Slipknot, Weinberg's setup grew into a full signature program: an SJC \"The Crucible\" 48-ply brass snare built to his spec, a Vater Jay Weinberg 908 Signature stick, and — after he'd left the band for Suicidal Tendencies in 2023 — an SJC Custom Drums OBEY x ST Collaboration Kit. That arc, from a standard boutique shell pack to a fully signature-branded rig, is a clean illustration of how a drum setup's cost climbs once an artist earns their own product line.",
+
+    setup: {
+      drums: {
+        item: 'SJC Custom Drums',
+        model: '5-piece shell pack, standard finish',
+        specs: '22" Bass Drum, 10"/12" rack toms, 14"/16" floor toms',
+        originalPrice: 3200,
+        year: 2014,
+        source: 'SJC Custom Drums shell pack pricing 2014',
+        notes: 'Boutique Massachusetts shell pack Weinberg brought into his debut Slipknot album, before any signature finishes existed.',
+        vintageValue2026: 2300,
+        modernEquivalent: {
+          item: 'SJC Custom Drums (OBEY x ST Collaboration Kit)',
+          price: 4800,
+          link: 'sjc-obey-st-collaboration-kit',
+        },
+      },
+      snare: {
+        item: 'SJC Custom Brass',
+        model: '14"x6.5" brass shell',
+        specs: '14"x6.5" brass, standard configuration',
+        originalPrice: 650,
+        year: 2014,
+        source: 'SJC Custom Drums snare pricing 2014',
+        notes: 'Standard SJC brass snare — years before the 48-ply "Crucible" signature model was developed to his spec.',
+        vintageValue2026: 470,
+        modernEquivalent: {
+          item: 'SJC Jay Weinberg "The Crucible" 14"x6.5" 48-ply Brass',
+          price: 950,
+          link: 'sjc-crucible-signature-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Custom / K Mix',
+        model: 'Standard live configuration',
+        specs: '14" A Custom Hi-Hats, 18" A Custom Crashes, 20" K Ride',
+        originalPrice: 2000,
+        year: 2014,
+        source: 'Zildjian A Custom/K Series retail pricing 2014',
+        notes: 'A smaller, more standard set than his current configuration — built for the demands of Slipknot\'s masked live show.',
+        vintageValue2026: 1450,
+        modernEquivalent: {
+          item: 'Zildjian (A New Beat, A Custom Crashes, K Custom Ride, K China, FX Break Bell)',
+          price: 3000,
+          link: 'zildjian-jay-weinberg-current',
+        },
+      },
+      hardware: {
+        item: 'DW 9000 Series Double Pedal',
+        model: 'Spring-loaded double pedal',
+        specs: 'Double bass pedal, matching hi-hat stand',
+        originalPrice: 600,
+        year: 2014,
+        source: 'DW hardware catalog 2014',
+        notes: 'Same DW 9000 platform Weinberg has run since his 2014 Slipknot debut — later paired with a DW 9100 Throne.',
+        vintageValue2026: 430,
+        modernEquivalent: {
+          item: 'DW 9000 Series Double Pedal + DW 9100 Throne',
+          price: 1050,
+          link: 'dw-9000-9100-throne-current',
+        },
+      },
+      sticks: {
+        item: 'Vater 5A',
+        model: 'Hickory, stock model',
+        specs: 'Standard 5A weight, no signature model',
+        originalPrice: 7,
+        year: 2014,
+        source: 'Vater retail pricing 2014',
+        notes: 'Stock Vater 5A — years before the Jay Weinberg 908 Signature stick was released.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vater Jay Weinberg 908 Signature (current)',
+          price: 16,
+          link: 'vater-jay-weinberg-908-signature',
+        },
+      },
+      heads: {
+        item: 'Evans Standard Pack',
+        model: 'G2/G1 configuration',
+        specs: 'Evans G2 Clear (toms/kick), Evans G1 Coated (snare)',
+        originalPrice: 85,
+        year: 2014,
+        source: 'Evans retail pricing 2014',
+        notes: 'Standard Evans head package for The Gray Chapter touring cycle.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Black Chrome Pack (current)',
+          price: 140,
+          link: 'evans-black-chrome-pack-current',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 6542,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 4650,
+      modernEquivalentTotal: 9956,
+    },
+
+    priceEvolution: [
+      { year: 2014, price: 6542, label: 'Original Purchase', event: 'Slipknot debut on ".5: The Gray Chapter," recorded after Paul Gray\'s death' },
+      { year: 2019, price: 7600, label: 'We Are Not Your Kind era', event: 'SJC "The Crucible" signature snare introduced' },
+      { year: 2022, price: 8100, label: 'The End, So Far era', event: 'Final Slipknot studio album with Weinberg on drums' },
+      { year: 2023, price: 8300, label: 'Departs Slipknot', event: 'Parts ways with Slipknot; joins Suicidal Tendencies' },
+      { year: 2026, price: 9054, label: 'Current adjusted', event: 'Inflation-adjusted value; current rig is the SJC OBEY x ST Collaboration Kit' },
+    ],
+
+    sources: [
+      { title: 'SJC Custom Drums Catalog', year: 2014, type: 'catalog' },
+      { title: 'Zildjian A Custom/K Series Retail Pricing Archive', year: 2014, type: 'catalog' },
+      { title: 'Slipknot .5: The Gray Chapter Album Credits', year: 2014, type: 'press' },
+      { title: 'SJC Drums / Vater Artist Pages', year: 2025, type: 'manufacturer' },
+    ],
+
+    meta: {
+      title: "Jay Weinberg Drum Setup Cost | Slipknot Gear Price History",
+      description: "How much was Jay Weinberg's Slipknot drum kit worth? Original SJC Custom/Zildjian setup ~$6,542 in 2014, inflation-adjusted to ~$9,054 today. Complete Gray Chapter-era gear breakdown.",
+      keywords: ['jay weinberg drum setup cost', 'slipknot drum kit price', 'jay weinberg gear cost today', 'sjc custom drums price', 'jay weinberg snare cost'],
+    },
+  },
 };
 
 // ==========================================

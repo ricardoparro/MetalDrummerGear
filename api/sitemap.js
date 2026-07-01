@@ -345,6 +345,9 @@ const gearPriceHistoryDrummers = [
   'john-otto',       // Significant Other era (1999) — Issue #2918
   'dirk-verbeuren',  // Dystopia era (2016) — Issue #2918
   'martin-axenrot',  // Watershed era (2008) — Issue #2918
+  'abe-cunningham',  // White Pony era (2000) — Issue #3219
+  'scott-travis',    // Painkiller era (1990) — Issue #3219
+  'jay-weinberg',    // The Gray Chapter era (2014) — Issue #3219
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

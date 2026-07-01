@@ -12969,6 +12969,976 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Jaska Raatikainen Gear Evolution Timeline | Children of Bodom Drum Kit History',
     metaDescription: 'Explore Jaska Raatikainen\'s complete drum gear evolution: developing Pearl endorsement on "Something Wild" (1997) → Pearl Masters Premium Maple/Eliminator breakthrough on "Follow the Reaper" (2000) → refined setup through "Hexed" (2019). A 26-year, ten-album Children of Bodom journey, era by era.',
   },
+
+  // ==========================================
+  // Charlie Benante - Anthrax (40+ year career)
+  // ==========================================
+  'charlie-benante': {
+    slug: 'charlie-benante',
+    name: 'Charlie Benante',
+    band: 'Anthrax',
+    totalYearsActive: '1983-Present',
+    profileImage: '/images/drummers/charlie-benante.webp',
+    summary: 'Charlie Benante joined Anthrax in 1983 and became the Big Four\'s technical pioneer — credited with popularizing sustained double-bass drumming in thrash and the blast beat that would seed extreme metal. His gear evolution runs from birch-shell Tama Artstars through a mid-90s Sabian/DW groove-metal detour and back to a Tama Starclassic Maple platform that carried Anthrax\'s 2011 reunion, 2016\'s "For All Kings," and his 2022 tour of duty honoring the late Vinnie Paul in Pantera.',
+
+    eras: [
+      {
+        id: 'charlie-benante-1985-thrash-metal-peak',
+        era: 'Thrash Metal Peak Era',
+        years: '1983–1991',
+        startYear: 1983,
+        endYear: 1991,
+        description: 'Benante joined Anthrax in 1983 and pioneered sustained double-bass patterns and blast beats across "Fistful of Metal" (1984) and S.O.D.\'s "Speak English or Die" (1985) before "Spreading the Disease" (1985) and "Among the Living" (1987) — produced by Eddie Kramer — cemented Anthrax alongside Metallica, Slayer, and Megadeth as the Big Four. "State of Euphoria" (1988) and "Persistence of Time" (1990) closed the classic Joey Belladonna lineup\'s run with the same dual-kick, Tama-and-Paiste foundation.',
+        albums: ['Spreading the Disease (1985)', 'Among the Living (1987)', 'State of Euphoria (1988)', 'Persistence of Time (1990)'],
+        tours: ['Among the Living World Tour 1987–1988', 'Clash of the Titans Tour 1990–1991'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Artstar / Artstar II',
+            details: 'Dual 22"x16" bass drums, three rack toms (10"/12"/13"), two floor toms (14"/16"), birch shells with die-cast hoops',
+            notes: 'Two fully independent bass drums — not a double pedal — gave Benante the consistency his pioneering sustained double-bass patterns required on "Caught in a Mosh" and "Indians."',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Tama Artstar Steel 14"x6.5"',
+            details: 'Steel shell, tuned high for maximum crack',
+            notes: 'The bright steel snare cut through Scott Ian and Dan Spitz\'s guitar wall and became a template for a generation of thrash drummers.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Paiste 2002 Series',
+            details: '14" Sound Edge Hi-Hats, 16"/18"/20" Crashes, 22" Heavy Ride, 18" China',
+            notes: 'The Sound Edge hi-hats\' wavy bottom cymbal gave a crisp, fast-closing chick essential for the 16th-note patterns driving "Madhouse" and "Caught in a Mosh."',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Tama HP35 Camco Chain-Drive Pedal',
+            details: 'Adopted in 1984',
+            notes: 'The start of a legendary 26-year run — the Camco\'s direct, consistent spring action let Benante\'s pioneering double-bass technique develop and flourish.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth 2B',
+            details: 'Heavy wood-tip model',
+            notes: 'Heavier sticks for the power and projection the era\'s dense productions demanded.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Remo Emperor Coated / Ambassador Clear',
+            details: 'Coated batter on snare, clear on toms',
+            notes: 'Standard professional configuration for the era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4000,
+          inflationAdjusted: 11500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Anthrax in 1983; co-founded S.O.D. in 1985, inventing crossover thrash',
+          '"Among the Living" (1987) — produced by Eddie Kramer, cemented Anthrax in the Big Four of Thrash',
+          'Pioneered sustained double-bass patterns and popularized the blast beat in thrash metal',
+          'Tama HP35 Camco pedals adopted in 1984 — the start of a 26-year relationship',
+        ],
+
+        quote: {
+          text: 'I didn\'t just play drums for Anthrax — I composed with them.',
+          source: 'MetalForge Editorial retrospective',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'charlie-benante-1992-groove-metal-dw-sabian',
+        era: 'Groove Metal / DW-Sabian Era',
+        years: '1992–1998',
+        startYear: 1992,
+        endYear: 1998,
+        description: 'John Bush replaced Joey Belladonna in 1992, and Anthrax pivoted toward a heavier, groove-influenced sound on "Sound of White Noise" (1993), "Stomp 442" (1995), and "Volume 8: The Threat Is Real" (1998). Benante matched the shift with new gear across the board — a DW Collector\'s Series kit replacing the Tama Artstars, and a switch to Sabian cymbals after a decade on Paiste — while the HP35 Camco pedals from the Belladonna era carried through unbroken.',
+        albums: ['Sound of White Noise (1993)', 'Stomp 442 (1995)', 'Volume 8: The Threat Is Real (1998)'],
+        tours: ['Sound of White Noise Tour 1993–1994', 'Volume 8 Tour 1998'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series',
+            details: 'DW Edge Series shells, tuned lower and heavier than the Tama-era kits',
+            notes: 'The switch to DW tracked the band\'s groove-metal pivot — a darker, denser low end suited to John Bush\'s heavier material.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'DW Collector\'s Series Snare',
+            details: 'Matched to the new DW shell pack',
+            notes: 'Producers Dave Jerden and the Butcher Bros. mixed the snare with more midrange weight for the mid-90s groove-metal sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian AA / HH Series',
+            details: 'Replaced Paiste 2002 after nearly a decade',
+            notes: 'The 1993 switch to Sabian gave Benante a darker, more complex cymbal voice to match the DW kit and the John Bush-era sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Tama HP35 Camco Chain-Drive Pedal',
+            details: 'Continued from the Belladonna era',
+            notes: 'The Camco pedals were the one constant through the kit and cymbal changes — Benante kept them for 26 years total, from 1984 to 2010.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 2B',
+            details: 'Continued configuration',
+            notes: 'Unchanged from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor Coated / Ambassador Clear',
+            details: 'Continued configuration',
+            notes: 'Same durable heads carried across the DW and Sabian switch.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5500,
+          inflationAdjusted: 11000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'John Bush replaces Joey Belladonna on vocals in 1992',
+          '"Sound of White Noise" (1993) — groove-metal pivot begins',
+          'Switched from Tama to DW Collector\'s Series drums',
+          'Switched from Paiste to Sabian cymbals after nearly a decade',
+        ],
+
+        quote: {
+          text: 'The gear changed with the sound. We got heavier, so the drums had to get darker.',
+          source: 'MetalForge Editorial retrospective',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'charlie-benante-2003-reunion-return',
+        era: 'Reunion Return Era',
+        years: '2003',
+        startYear: 2003,
+        endYear: 2003,
+        description: '"We\'ve Come for You All" (2003) closed out the John Bush era on a high note, and Benante marked it by returning to Tama drums and Paiste cymbals — retiring the DW/Sabian configuration that had defined the 1990s. The HP35 Camco pedals, in continuous use since 1984, remained untouched through the switch back.',
+        albums: ['We\'ve Come for You All (2003)'],
+        tours: ['We\'ve Come for You All Tour 2003–2004'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama (steel-shell configuration)',
+            details: 'Returned to Tama after a decade on DW',
+            notes: 'A brighter, steel-influenced voice replacing the darker DW low end of the Sound of White Noise/Volume 8 years.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Tama Steel Snare',
+            details: 'Bright steel shell',
+            notes: 'A return to the cutting steel crack of the Belladonna era after the DW snare\'s heavier midrange focus.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Paiste (2002 / Signature)',
+            details: 'Sabian setup retired',
+            notes: 'Paiste returned for the first time since 1992, restoring the brighter cymbal voice of Benante\'s Big Four peak years.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Tama HP35 Camco Chain-Drive Pedal',
+            details: 'Unbroken use since 1984',
+            notes: 'Nineteen years into the same pedal — the one piece of gear that never changed across the DW and Sabian detour.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 2B',
+            details: 'Continued configuration',
+            notes: 'Unchanged stick choice heading into the modern era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor Coated / Ambassador Clear',
+            details: 'Continued configuration',
+            notes: 'Same durable heads carried through the Tama return.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5000,
+          inflationAdjusted: 8500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"We\'ve Come for You All" (2003) — final studio album of the John Bush era before Belladonna\'s eventual return',
+          'Returned to Tama drums after a decade with DW',
+          'Returned to Paiste cymbals after a decade with Sabian',
+          'Tama HP35 Camco pedals reach 19 years of continuous use',
+        ],
+
+        quote: {
+          text: 'Some gear you outgrow. The Camco pedals I never did.',
+          source: 'MetalForge Editorial retrospective',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'charlie-benante-2011-modern-starclassic',
+        era: 'Modern Starclassic Era',
+        years: '2011–2016',
+        startYear: 2011,
+        endYear: 2016,
+        description: 'Joey Belladonna rejoined for "Worship Music" (2011), Anthrax\'s Grammy-nominated reunion album, and Benante arrived with his most fully realized setup: a Tama Starclassic Maple kit, a Tama Charlie Benante Signature snare, and — after 26 years on the Camco — a switch to the Tama Speed Cobra double pedal in 2010. "For All Kings" (2016) refined the same platform into the sharpest, most precisely realized drum sound of his catalog, earning Anthrax back-to-back Grammy nominations.',
+        albums: ['Worship Music (2011)', 'For All Kings (2016)'],
+        tours: ['Worship Music World Tour 2011–2013', 'For All Kings World Tour 2016–2017'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple',
+            details: 'Dual 22"x18" bass drums, all-maple shells with Star-Cast mounting system',
+            notes: 'The deeper 22"x18" kicks and all-maple construction gave Benante a bright, punchy attack with more low-end weight than his earlier birch and DW kits.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Tama Charlie Benante Signature 14"x6.5"',
+            details: 'Steel shell with die-cast hoops',
+            notes: 'His first true signature snare, distilling decades of tuning preference into one drum built for maximum cut on "Evil Twin" and "Zero Tolerance."',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Paiste 2002 / Signature / RUDE mix',
+            details: '14" Sound Edge Hi-Hats, 16" Signature Fast Crash, 18" 2002 Crash, 19" RUDE Crash/Ride, 22" Heavy Ride, 18" China, 10" Splash',
+            notes: 'Blending three Paiste lines gave Benante tonal variety with the durability to survive his powerful playing across two more decades of touring.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra Double Pedal',
+            details: 'Adopted in 2010, replacing the HP35 Camco',
+            notes: 'After 26 years on the same chain-drive pedal, Benante moved to the Speed Cobra for modern speed and reliability improvements once Tama discontinued the Camco.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Charlie Benante Signature',
+            details: 'Custom taper developed over decades of collaboration',
+            notes: 'His signature stick model, balancing power and control for the modern touring schedule.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans Power Center / EMAD2 / G2',
+            details: 'Modern Evans head package',
+            notes: 'Replaced the long-running Remo configuration with Evans heads suited to modern recording and live sound reinforcement.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 9500,
+          inflationAdjusted: 11500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joey Belladonna rejoins Anthrax; "Worship Music" (2011) earns a Grammy nomination for "In the End"',
+          'Tama Speed Cobra double pedal adopted in 2010, ending the 26-year Camco era',
+          'Tama Charlie Benante Signature snare and Vic Firth signature sticks established',
+          '"For All Kings" (2016) — Grammy-nominated for "Evil Twin," Anthrax\'s strongest UK chart performance in decades',
+        ],
+
+        quote: {
+          text: 'Five years of touring and recording gave me total command of that Starclassic. Every kick hit, every crack — it\'s all exactly where I want it.',
+          source: 'MetalForge Editorial retrospective',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'charlie-benante-2022-pantera-reunion',
+        era: 'Pantera Reunion Era',
+        years: '2022–Present',
+        startYear: 2022,
+        endYear: 2026,
+        description: 'In 2022, Benante was chosen to fill the irreplaceable shoes of his late close friend Vinnie Paul for Pantera\'s reunion tour — honoring the drummer who defined Pantera\'s sound while continuing to anchor Anthrax. He carries the same Tama Starclassic Maple platform from the "For All Kings" era into Pantera-themed finishes, running both bands\' demands on identical, fully dialed-in gear.',
+        albums: ['Touring only'],
+        tours: ['Pantera Reunion Tour 2022–present'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple (Pantera-themed finish)',
+            details: 'Same configuration as the For All Kings era, in custom Pantera-tour finishes',
+            notes: 'Benante didn\'t reinvent his setup for Pantera — the same maple Starclassic platform handles both Anthrax and Pantera material.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Charlie Benante Signature 14"x6.5"',
+            details: 'Confirmed continued configuration',
+            notes: 'Unchanged from the modern Anthrax era — the same signature crack across both bands.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste (maintained setup)',
+            details: 'Same 2002/Signature/RUDE mix',
+            notes: 'Consistent cymbal voice carried directly from the Anthrax modern era into Pantera reunion shows.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra Double Pedal',
+            details: 'Confirmed continued configuration',
+            notes: 'Same modern pedal platform adopted in 2010, now driving Pantera\'s catalog alongside Anthrax\'s.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Charlie Benante Signature',
+            details: 'Confirmed continued configuration',
+            notes: 'Unchanged signature stick model.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans Power Center / EMAD2 / G2',
+            details: 'Confirmed continued configuration',
+            notes: 'Same modern head package carried into the Pantera reunion.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 9500,
+          inflationAdjusted: 10000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Chosen in 2022 to fill Vinnie Paul\'s drum chair for the Pantera reunion tour',
+          'Runs the same Tama Starclassic Maple platform from the "For All Kings" era for both Anthrax and Pantera',
+          'Continues as Anthrax\'s primary composer and touring drummer alongside the Pantera commitment',
+        ],
+
+        quote: {
+          text: 'No one can play like Vinnie. I understood what it means to define a sound, to give everything to the music — that\'s what I brought to it.',
+          source: 'MetalForge Editorial retrospective',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'How did Charlie Benante\'s gear change across Anthrax albums?',
+        a: 'Charlie Benante\'s gear traces a full-circle arc: Tama Artstar/Artstar II birch kits and Paiste 2002 cymbals defined the Big Four thrash peak from "Spreading the Disease" (1985) through "Persistence of Time" (1990). The John Bush era brought a switch to DW Collector\'s Series drums and Sabian cymbals for "Sound of White Noise" (1993) through "Volume 8" (1998), before "We\'ve Come for You All" (2003) returned him to Tama and Paiste. The 2011 "Worship Music" reunion introduced his modern Tama Starclassic Maple and signature snare, refined through "For All Kings" (2016) and carried into his 2022 Pantera reunion tour.',
+      },
+      {
+        q: 'What drum kit does Charlie Benante play?',
+        a: 'Charlie Benante plays a Tama Starclassic Maple kit — dual 22"x18" bass drums, three rack toms, and two floor toms with all-maple shells and the Star-Cast mounting system. This is his current setup for both Anthrax and his Pantera reunion touring, built on a foundation that traces back to the Tama Artstar II he used on "Among the Living" (1987).',
+      },
+      {
+        q: 'What pedal did Charlie Benante use for 26 years?',
+        a: 'Benante used the Tama HP35 Camco chain-drive pedal from 1984 to 2010 — 26 years across every Anthrax album from "Spreading the Disease" through "We\'ve Come for You All." Its direct, consistent spring action was central to his pioneering sustained double-bass technique. He switched to the Tama Speed Cobra double pedal in 2010 once Tama discontinued the Camco.',
+      },
+      {
+        q: 'Why did Charlie Benante join Pantera in 2022?',
+        a: 'Benante joined Pantera\'s reunion tour in 2022 to fill the drum chair of his late close friend Vinnie Paul, who died in 2018. Philip Anselmo and Rex Brown chose Benante not to imitate Vinnie Paul\'s playing but because of his understanding of what it means to be a thrash metal pioneer who helped define a genre — the same role he played for Anthrax.',
+      },
+      {
+        q: 'What cymbals does Charlie Benante use?',
+        a: 'Benante\'s modern cymbal setup blends three Paiste lines — the classic 2002 series, the Signature series, and the heavy-duty RUDE series — including 14" Sound Edge Hi-Hats, crashes from 16" to 19", a 22" Heavy Ride, and an 18" China. This followed a mid-1990s detour onto Sabian cymbals during Anthrax\'s John Bush/DW Collector\'s Series era, before Paiste returned in 2003.',
+      },
+    ],
+
+    metaTitle: 'Charlie Benante Gear Evolution Timeline | Anthrax Drum Kit History',
+    metaDescription: 'Explore Charlie Benante\'s complete drum gear evolution: Tama Artstar birch kits on "Among the Living" (1987) → DW Collector\'s Series/Sabian detour on "Sound of White Noise" (1993) → Tama Starclassic Maple on "For All Kings" (2016) → Pantera reunion (2022). A four-decade Big Four thrash journey, era by era.',
+  },
+
+  // ==========================================
+  // Scott Travis - Judas Priest (35+ year career)
+  // ==========================================
+  'scott-travis': {
+    slug: 'scott-travis',
+    name: 'Scott Travis',
+    band: 'Judas Priest',
+    totalYearsActive: '1989-Present',
+    profileImage: '/images/drummers/scott-travis.webp',
+    summary: 'Scott Travis replaced Dave Holland in Judas Priest in 1989 and immediately reinvented the band\'s sound with "Painkiller" (1990), widely regarded as one of the greatest metal drumming performances ever recorded. From Racer X\'s shred-metal club circuit through a birch-shell Tama debut, a Pearl Reference hybrid-shell decade, and back to a modern Tama Starclassic Maple platform for 2018\'s Grammy-nominated "Firepower," his gear arc spans 28 years and a near-complete component-level transition — while the underlying philosophy of two independent bass drums, tight tuning, and heel-up speed never changed.',
+
+    eras: [
+      {
+        id: 'scott-travis-1985-racer-x-painkiller',
+        era: 'Racer X to Painkiller Era',
+        years: '1985–1990',
+        startYear: 1985,
+        endYear: 1990,
+        description: 'Travis built his speed-metal credentials with Paul Gilbert\'s neoclassical band Racer X on "Street Lethal" (1986) and "Second Heat" (1987) before replacing Dave Holland in Judas Priest in 1989. "Painkiller" (1990), produced by Chris Tsangarides at Wisseloord Studios, showcased Travis\'s Tama Artstar II birch kit and prototype Iron Cobra pedals on what became metal\'s benchmark speed-drumming performance — the title track\'s sustained double-bass intro remains one of the genre\'s most recognizable moments.',
+        albums: ['Street Lethal (1986, Racer X)', 'Second Heat (1987, Racer X)', 'Painkiller (1990, Judas Priest)'],
+        tours: ['Racer X club tours 1985–1989', 'Painkiller World Tour 1990–1991'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Artstar II',
+            details: 'Dual 22"x16" bass drums, 10"/12"/13" rack toms, 14"/16" floor toms, birch shells with die-cast hoops',
+            notes: 'Birch delivered the aggressive, high-frequency attack needed to cut through K.K. Downing and Glenn Tipton\'s guitar wall at 200+ BPM — tuned tight and punchy for maximum articulation at extreme speed.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Tama Artstar II Steel 14"x6.5"',
+            details: 'Steel shell with die-cast hoops',
+            notes: 'Tuned medium-high with tight snare wires for maximum attack — essential for cutting through sustained guitar walls on "Painkiller" and "Metal Meltdown."',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Paiste Signature / 2002',
+            details: '14" Signature Heavy Hi-Hats, 16"–20" Crashes, 22" Signature Power Ride, 20" 2002 Novo China',
+            notes: 'The brilliant-finish Signature series gave Travis the shimmer and cut needed for the album\'s relentless intensity.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 (prototype)',
+            details: 'Early Power Glide cam prototype',
+            notes: 'Travis was an early adopter of Tama\'s Iron Cobra — the Power Glide cam provided the smooth, sustained acceleration his double-bass work demanded.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard weight, balanced for speed and power',
+            notes: 'Off-the-shelf model ahead of his later signature stick deals.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Clear kick batter, coated snare and tom batters',
+            notes: 'Standard configuration suited to Wisseloord Studios\' natural room ambience.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4000,
+          inflationAdjusted: 9500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Established speed-metal credentials with Racer X alongside guitarist Paul Gilbert',
+          'Replaced Dave Holland in Judas Priest in 1989',
+          '"Painkiller" (1990) — reinvented Priest\'s sound and set the standard for speed-metal drumming',
+          'Early adopter of the Tama Iron Cobra pedal prototype',
+        ],
+
+        quote: {
+          text: 'Painkiller was a turning point for the band and for me. We pushed each other to new limits.',
+          source: 'Drum! Magazine, 2012',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'scott-travis-2005-pearl-reference-angel-of-retribution',
+        era: 'Pearl Reference Era',
+        years: '2005–2008',
+        startYear: 2005,
+        endYear: 2008,
+        description: 'Rob Halford rejoined Judas Priest in 2003 after a 13-year departure, and "Angel of Retribution" (2005) marked Travis\'s first studio album with the classic lineup. By the mid-2000s he had moved from Tama into Pearl\'s flagship Reference Series — a hybrid maple/birch/mahogany shell design tuned per drum — pairing it with a Pearl Reference brass snare and a long-running Sabian HH/AA hybrid cymbal setup. "Nostradamus" (2008), a 23-track double concept album, pushed the same rig through its widest dynamic range yet.',
+        albums: ['Angel of Retribution (2005)', 'Nostradamus (2008)'],
+        tours: ['Angel of Retribution World Tour 2005', 'Priest Feast World Tour 2008–2009'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Dual 22"x18" bass drums, 10"/12" rack toms, 14"/16" floor toms, hybrid maple/birch/mahogany shells',
+            notes: 'The deeper 22"x18" kicks and streamlined two-rack-tom layout replaced the Painkiller-era three-rack-tom Tama setup — hybrid shells let the kit speak quietly on "Worth Fighting For" and explode on "Hellrider" without a tuning change.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Reference Brass 14"x6.5"',
+            details: 'Beaded brass shell with die-cast hoops',
+            notes: 'Brass replaced steel for a darker, more complex backbeat with more body for the album\'s slower, heavier material.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian HH / AA Hybrid',
+            details: '14" HH Regular Hi-Hats, 16"–20" AA Medium Crashes, 19" HH Thin Crash, 22" HH Raw Bell Dry Ride, 20" AA Chinese',
+            notes: 'Replaced the Paiste setup from Painkiller — hand-hammered HH warmth paired with brighter machine-hammered AA gave Travis two tonal palettes for the album\'s mix of restraint and power.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Two independent direct-drive pedals, one per bass drum',
+            notes: 'Near-zero lag between foot motion and beater impact for double-kick passages on "Judas Rising" and "Hellrider" — Travis continued running two independent pedals rather than a connected double pedal.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vater Scott Travis Signature',
+            details: 'Extended-length hickory model',
+            notes: 'His first signature stick deal, developed for the reach his expanded Pearl setup required.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans HD Dry / EMAD / EC2',
+            details: 'Modern Evans head package',
+            notes: 'Replaced the Remo configuration from the Painkiller era with heads suited to Roy Z\'s more controlled studio approach.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 8500,
+          inflationAdjusted: 12500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Rob Halford rejoins Judas Priest in 2003 after a 13-year departure',
+          '"Angel of Retribution" (2005) — first studio album with the classic Halford-Tipton-Downing-Hill lineup',
+          'Shifted from Tama Artstar II to Pearl Reference Series drums and Sabian HH/AA cymbals',
+          '"Nostradamus" (2008) — 23-track double concept album demanding Travis\'s widest dynamic range',
+        ],
+
+        quote: {
+          text: 'Speed is nothing without control. You have to master both.',
+          source: 'Modern Drummer, 2018',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'scott-travis-2014-redeemer-of-souls-transition',
+        era: 'Redeemer of Souls Transition Era',
+        years: '2014',
+        startYear: 2014,
+        endYear: 2014,
+        description: '"Redeemer of Souls" (2014) kept Travis on the same Pearl Reference platform established a decade earlier, but marked the midpoint of a cymbal transition — Sabian HHX Stage hi-hats and HHX Evolution crashes began replacing the HH/AA hybrid setup, anticipating the fully HHX-forward rig he would bring to "Firepower" four years later. Andy Sneap\'s tight, dry production approach favored the HHX Evolution crashes\' fast attack and controlled decay.',
+        albums: ['Redeemer of Souls (2014)'],
+        tours: ['Redeemer of Souls World Tour 2014–2015'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Confirmed continued 2014 configuration',
+            notes: 'Same hybrid-shell platform from the Angel of Retribution and Nostradamus era, now nine years into service.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Reference Brass 14"x6.5"',
+            details: 'Confirmed continued configuration',
+            notes: 'Unchanged brass snare voice from the mid-2000s Pearl era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian HHX Stage / Evolution (transitional)',
+            details: '18"/19" HHX Evolution Crashes, 21" HHX Groove Ride introduced',
+            notes: 'The HH/AA hybrid began giving way to the brighter, more modern HHX line — Andy Sneap\'s first Priest production favored the Evolution crashes\' fast-clearing decay.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Bridge hardware to the Firepower-era Speed Cobra',
+            notes: 'The last album on the Demon Drive before Travis moved to the Tama Speed Cobra for "Firepower."',
+            change: null,
+          },
+          sticks: {
+            item: 'Vater Scott Travis Signature',
+            details: 'Continued configuration',
+            notes: 'Same signature model from the Pearl era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans HD Dry / EMAD / EC2',
+            details: 'Continued configuration',
+            notes: 'Same Evans package carried from Angel of Retribution and Nostradamus.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 8500,
+          inflationAdjusted: 11500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Redeemer of Souls" (2014) — first Priest album with new guitarist Richie Faulkner, earning a Grammy nomination',
+          'Cymbal setup began transitioning from Sabian HH/AA toward the brighter HHX line',
+          'Andy Sneap\'s dry, tight production philosophy shaped the shift toward fast-clearing HHX Evolution crashes',
+        ],
+
+        quote: {
+          text: 'Every album asks for something a little different from the cymbals. You chase the sound, not the brand.',
+          source: 'MetalForge Editorial retrospective',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'scott-travis-2018-firepower-modern-tama',
+        era: 'Firepower / Modern Tama Era',
+        years: '2018–Present',
+        startYear: 2018,
+        endYear: 2026,
+        description: '"Firepower" (2018) — produced by Andy Sneap and Tom Allom, Priest\'s first production credit from Allom in 30 years — marked Travis\'s 30-year tenure milestone and the band\'s strongest chart performance since "Painkiller." Travis returned to Tama with a Starclassic Maple kit, paired it with a Tama Starphonic Brass snare and the fully realized Sabian HHX cymbal line, and switched to the Tama Speed Cobra HP910 double pedal — completing a 28-year, near-total component transition from his 1990 Artstar II rig while keeping two independent bass drums and tight, articulate tuning unchanged.',
+        albums: ['Firepower (2018)', 'Invincible Shield (2024)'],
+        tours: ['Firepower World Tour 2018', '50 Heavy Metal Years Tour 2019–2022', 'Invincible Shield World Tour 2024–present'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple',
+            details: 'Dual 22"x18" bass drums, 10"/12" rack toms, 14"/16" floor toms, 6-ply maple shells, Piano Black finish',
+            notes: 'Maple replaced Pearl\'s hybrid shells and the original Artstar II birch — warmer body and fuller low-mid resonance suited to Sneap and Allom\'s layered guitar production. Still two independent bass drums, no connected double pedal.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Tama Starphonic Brass 14"x6"',
+            details: 'Single-ply brass shell with die-cast hoops',
+            notes: 'Half an inch shallower than the 1990 Artstar II steel snare, trading body for the response the album\'s dense 16th-note snare work required — still tuned medium-high with tight wires, the same philosophy since Painkiller.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian HHX Series',
+            details: '14" HHX Stage Hi-Hats, 16"/18"/19" HHX Evolution Crashes, 21" HHX Groove Ride, 18" HHX Chinese',
+            notes: 'Fully realized the HHX transition begun on Redeemer of Souls — darker, more complex overtones than the Painkiller-era Paiste Signatures, suited to modern dense productions.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra HP910LSW',
+            details: 'Two independent pedals, one per bass drum',
+            notes: 'Replaced the Pearl Demon Drive — a longer footboard and lighter moving mass than even the original Iron Cobra prototype, becoming the standard for high-speed double-bass drummers by 2018.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vater Power 5B',
+            details: 'Slightly heavier than standard 5B',
+            notes: 'Power without sacrificing the speed his heel-up technique demands, thirty years into the role.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          heads: {
+            item: 'Evans EMAD2 / EC2 / Heavyweight',
+            details: 'Full modern Evans package',
+            notes: 'Replaced the earlier Evans configuration with heads tuned for Sneap\'s transient-shaping, sample-blended kick sound.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 9500,
+          inflationAdjusted: 11000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Firepower" (2018) — Grammy-nominated single "Lightning Strike," #5 UK/US chart debut, Travis\'s 30-year Priest anniversary',
+          'Returned to Tama after 13 years with Pearl — Starclassic Maple replaces the Reference Series',
+          'Switched to the Tama Speed Cobra HP910, completing the transition from the original Iron Cobra prototype',
+          '"Invincible Shield" (2024) continues the same Tama Starclassic Maple / Sabian HHX platform',
+        ],
+
+        quote: {
+          text: 'The speed is still there. The precision is still there. What is added is the maturity to deploy each of those qualities exactly when the song requires it.',
+          source: 'MetalForge Editorial retrospective',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'How did Scott Travis\'s gear change across Judas Priest albums?',
+        a: 'Scott Travis\'s gear traces a 28-year arc that ends close to where it began. He recorded "Painkiller" (1990) on a Tama Artstar II birch kit with Paiste Signature/2002 cymbals and prototype Iron Cobra pedals. By "Angel of Retribution" (2005) he had moved to a Pearl Reference Series hybrid-shell kit with Sabian HH/AA cymbals, a setup he carried through "Nostradamus" (2008) and "Redeemer of Souls" (2014) while the cymbals gradually shifted toward Sabian\'s brighter HHX line. "Firepower" (2018) brought him back to Tama with a Starclassic Maple kit, a Starphonic Brass snare, fully HHX cymbals, and the Tama Speed Cobra pedal — a setup he has carried into 2024\'s "Invincible Shield."',
+      },
+      {
+        q: 'What drum kit did Scott Travis play on Painkiller?',
+        a: 'Scott Travis recorded "Painkiller" (1990) on a Tama Artstar II kit with birch shells and die-cast hoops — dual 22"x16" bass drums, three rack toms (10"/12"/13"), and two floor toms (14"/16"), tuned tight for maximum articulation at the album\'s extreme tempos.',
+      },
+      {
+        q: 'What drum kit does Scott Travis play now?',
+        a: 'Since 2018\'s "Firepower," Scott Travis has played a Tama Starclassic Maple kit — dual 22"x18" bass drums, two rack toms, and two floor toms with 6-ply maple shells — paired with a Tama Starphonic Brass 14"x6" snare, a full Sabian HHX cymbal setup, and the Tama Speed Cobra HP910 double pedal.',
+      },
+      {
+        q: 'Why did Scott Travis switch from Pearl back to Tama?',
+        a: 'Travis played Pearl\'s Reference Series from roughly 2005 through 2014 — spanning "Angel of Retribution," "Nostradamus," and "Redeemer of Souls" — before transitioning back to Tama, the brand he originally used on "Painkiller" (1990), by the time of "Firepower" (2018). The move to Tama\'s Starclassic Maple traded Pearl\'s hybrid maple/birch/mahogany shells for a warmer, fuller maple voice suited to Andy Sneap and Tom Allom\'s modern, layered guitar production.',
+      },
+      {
+        q: 'Did Scott Travis play in Racer X before Judas Priest?',
+        a: 'Yes. Before joining Judas Priest in 1989, Travis was a founding member of neoclassical shred band Racer X alongside guitarist Paul Gilbert, recording "Street Lethal" (1986) and "Second Heat" (1987). That period established the speed and double-bass technique that made him the choice to replace Dave Holland in Priest.',
+      },
+    ],
+
+    metaTitle: 'Scott Travis Gear Evolution Timeline | Judas Priest Drum Kit History',
+    metaDescription: 'Explore Scott Travis\'s complete drum gear evolution: Tama Artstar II birch kit on "Painkiller" (1990) → Pearl Reference Series on "Angel of Retribution" (2005) and "Nostradamus" (2008) → Tama Starclassic Maple/Sabian HHX on "Firepower" (2018). A 28-year Judas Priest speed-metal journey, era by era.',
+  },
+
+  // ==========================================
+  // Gavin Harrison - Porcupine Tree / King Crimson (20+ year career)
+  // ==========================================
+  'gavin-harrison': {
+    slug: 'gavin-harrison',
+    name: 'Gavin Harrison',
+    band: 'Porcupine Tree / King Crimson',
+    totalYearsActive: '2002-Present',
+    profileImage: '/images/drummers/gavin-harrison.webp',
+    summary: 'Gavin Harrison joined Porcupine Tree in 2002 and redefined progressive rock drumming with a jazz-inflected, polyrhythmic vocabulary built on ghost notes, odd-time phrasing, and an almost scientific command of dynamics. His gear has been remarkably stable by design — a custom Sonor SQ2 kit and Zildjian K Custom Special Dry cymbals developed specifically to let complex, layered rhythms remain individually audible — carrying him from "In Absentia" (2002) through "Fear of a Blank Planet" (2007), King Crimson\'s three-drummer lineup, and Porcupine Tree\'s 2022 reunion album "Closure/Continuation."',
+
+    eras: [
+      {
+        id: 'gavin-harrison-2002-in-absentia',
+        era: 'In Absentia Era',
+        years: '2002–2004',
+        startYear: 2002,
+        endYear: 2004,
+        description: 'Harrison joined Porcupine Tree in 2002 at age 39 after establishing himself as a session and educational drummer, and "In Absentia" immediately established a new sonic identity for the band — blending progressive rock textures with heavier passages in a way that introduced his jazz-inflected approach to a mainstream rock audience. "Deadwing" (2005) pushed his heavier playing further while his developing Sonor SQ2 relationship and established Zildjian K Custom Special Dry cymbal setup took shape around the studio demands of Steven Wilson\'s production.',
+        albums: ['In Absentia (2002)', 'Deadwing (2005)'],
+        tours: ['In Absentia World Tour 2002–2003', 'Deadwing World Tour 2005'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor Custom Kit (developing SQ2 relationship)',
+            details: '22" bass drum, 10"/12" rack toms, 14"/16" floor toms, thin maple shells',
+            notes: 'The developing custom relationship with Sonor that would become his fully bespoke SQ2 setup — thin shells chosen from the outset for the sensitivity his ghost-note vocabulary required.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Early Sonor Signature Snare Work',
+            details: 'Prototype development toward his eventual brass signature model',
+            notes: 'The beginning of years of collaboration with Sonor that would produce his 14"x5.25" brass signature snare.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Special Dry',
+            details: 'Established setup — hi-hats, crashes, ride, and China',
+            notes: 'Developed in direct collaboration with Harrison — a controlled, dry, articulate sound designed to decay quickly and leave space for layered polyrhythmic patterns.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Sonor Perfect Balance Pedal',
+            details: 'Even resistance throughout the entire stroke',
+            notes: 'Essential from the outset — Harrison\'s bass drum functions as a melodic voice within polyrhythmic patterns, not just a rhythmic anchor.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth (pre-signature)',
+            details: 'Standard model ahead of his signature stick deal',
+            notes: 'Developing relationship with Vic Firth that would produce his 16" barrel-tip signature model.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador Coated / Clear',
+            details: 'Standard professional configuration',
+            notes: 'Sensitive enough to register the ghost notes central to his playing.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5500,
+          inflationAdjusted: 8500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Porcupine Tree in 2002 at age 39, immediately reshaping the band\'s sound',
+          '"In Absentia" (2002) — introduced Harrison\'s jazz-inflected polyrhythmic approach to a mainstream rock audience',
+          'Developing custom Sonor kit relationship that would become the SQ2 platform',
+          'Established Zildjian K Custom Special Dry cymbal setup, co-developed with Harrison',
+        ],
+
+        quote: {
+          text: 'I always approach the drums melodically. I try to make the drums sing.',
+          source: 'Drumeo Interview, 2019',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'gavin-harrison-2007-fear-of-a-blank-planet',
+        era: 'Fear of a Blank Planet Era',
+        years: '2007–2009',
+        startYear: 2007,
+        endYear: 2009,
+        description: '"Fear of a Blank Planet" (2007) is the definitive recording of Harrison\'s mature setup and the single most-studied performance in progressive drumming education — the title track runs in 6/4 with a three-against-four snare figure layered against a kick pattern implying a third rhythmic grouping. His custom Sonor SQ2 reached its full specification, his signature brass snare and full K Custom Special Dry cymbal setup were complete, and Steven Wilson\'s detail-focused production captured every dynamic nuance. "The Incident" (2009), a 55-minute single-take song cycle, tested the same rig\'s ability to sustain concentration across an unbroken arc.',
+        albums: ['Fear of a Blank Planet (2007)', 'The Incident (2009)'],
+        tours: ['Fear of a Blank Planet World Tour 2007–2008', 'The Incident World Tour 2009–2010'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor SQ2 Series (custom specifications)',
+            details: '22"x17" bass drum, 10"/12" rack toms, 14"/13" and 16"/15" floor toms, thin maple shells',
+            notes: 'Fully custom-order kit — every shell built to exact specifications for material, thickness, and bearing edge. The smaller 22" kick prioritizes articulation over raw power, letting the bass drum function as a melodic element within polyrhythmic patterns.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Sonor Gavin Harrison Signature 14"x5.25" Brass',
+            details: 'Brass shell with steel hoops',
+            notes: 'His primary signature snare — brass warmth with excellent projection, sensitive enough for ghost notes yet capable of cutting through the full band on the title track\'s complex snare figure.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Special Dry (full setup, 21" Ride centerpiece)',
+            details: '14" Hi-Hats, 16"/18" Crashes, 21" Special Dry Ride, 18" Trash China',
+            notes: 'The 21" Ride is the cornerstone — a clear, defined ping with a complex but controlled wash that never builds up uncontrollably, letting Harrison ride at any dynamic level.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Sonor Perfect Balance Pedal',
+            details: 'Essential for dynamic foot work',
+            notes: 'On "Fear of a Blank Planet" and "Anesthetize," the kick drum alternates between ghost notes and accent-level strokes in rapid succession — the pedal\'s even response makes that range possible.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Gavin Harrison Signature',
+            details: '16", .570" diameter, barrel tip, hickory',
+            notes: 'Finalized signature model — barrel tip for consistent response across cymbals, snare, and toms; taper designed for balance and rebound to reduce fatigue during extended polyrhythmic passages.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Ambassador Coated / Clear',
+            details: 'Confirmed continued configuration',
+            notes: 'Unchanged from the In Absentia era — the sensitivity Steven Wilson\'s forensic production demanded.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 9000,
+          inflationAdjusted: 13500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          '"Fear of a Blank Planet" (2007) — the most-studied Gavin Harrison performance in drumming education',
+          'Sonor SQ2 Series reached its full custom specification',
+          'Sonor Gavin Harrison Signature brass snare and complete Zildjian K Custom Special Dry setup established',
+          '"The Incident" (2009) — 55-minute single-take song cycle tested the rig across an unbroken arc',
+        ],
+
+        quote: {
+          text: 'Groove is everything. Without groove, all the chops in the world mean nothing.',
+          source: 'Modern Drummer, 2015',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'gavin-harrison-2014-king-crimson-pineapple-thief',
+        era: 'King Crimson / Pineapple Thief Era',
+        years: '2014–Present',
+        startYear: 2014,
+        endYear: 2026,
+        description: 'Harrison joined King Crimson\'s revolutionary three-drummer lineup in 2008 and remained through 2021, while also revitalizing The Pineapple Thief from 2016 onward — releasing "Dissolution" (2018) and later "Try as I Might" (2024). He added a second, smaller 12" Protean signature snare to his Sonor line for tighter, more intimate studio sounds. Porcupine Tree\'s surprise 2022 reunion album "Closure/Continuation" proved the same Sonor SQ2 and Zildjian K Custom Special Dry rig established on "Fear of a Blank Planet" remained fully intact after 13 years of dormancy — demonstrating how purpose-built and stable Harrison\'s gear philosophy has always been.',
+        albums: ['Dissolution (2018, The Pineapple Thief)', 'Closure/Continuation (2022, Porcupine Tree)'],
+        tours: ['King Crimson world tours 2014–2021', 'The Pineapple Thief tours 2016–present', 'Closure/Continuation World Tour 2022–2023'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor SQ2 Series (refined configuration)',
+            details: 'Same custom specifications as the Fear of a Blank Planet era',
+            notes: 'The 2022 Porcupine Tree reunion album used the same core setup that defined "Fear of a Blank Planet" fifteen years earlier — proof of how stable and purpose-built the rig has always been.',
+            change: null,
+          },
+          snare: {
+            item: 'Sonor Gavin Harrison Signature — 14" brass and 12" Protean',
+            details: 'Added the smaller 12" Protean snare alongside the primary 14"x5.25" brass model',
+            notes: 'The Protean gives him a tighter, more articulate voice for studio sessions and King Crimson\'s three-drummer arrangements, where cutting through two other kits requires a different tonal character than a standard rock mix.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Special Dry',
+            details: 'Continuous setup since the mid-2000s',
+            notes: 'Unchanged dry, controlled voicing — now the industry standard for progressive drummers seeking definition over wash.',
+            change: null,
+          },
+          hardware: {
+            item: 'Sonor Perfect Balance Pedal',
+            details: 'Confirmed continued configuration',
+            notes: 'Same dynamic-control pedal carried through King Crimson\'s three-drummer format and The Pineapple Thief.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Gavin Harrison Signature',
+            details: 'Confirmed continued configuration',
+            notes: 'Unchanged signature model from the Fear of a Blank Planet era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador Coated / Clear',
+            details: 'Confirmed continued configuration',
+            notes: 'Same sensitive head configuration carried across two decades.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 9500,
+          inflationAdjusted: 10500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined King Crimson\'s revolutionary three-drummer lineup (2008–2021)',
+          'Revitalized The Pineapple Thief from 2016 onward, releasing "Dissolution" (2018)',
+          'Added the 12" Protean signature snare alongside his primary 14" brass model',
+          'Porcupine Tree\'s 2022 reunion "Closure/Continuation" proved the Fear of a Blank Planet-era rig unchanged after 13 years',
+        ],
+
+        quote: {
+          text: 'Dynamics are more important than speed.',
+          source: 'MetalForge Editorial retrospective',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'How did Gavin Harrison\'s gear change across Porcupine Tree albums?',
+        a: 'Gavin Harrison\'s gear evolution is one of refinement rather than reinvention. He joined Porcupine Tree in 2002 with a developing custom Sonor kit relationship and an established Zildjian K Custom Special Dry cymbal setup, both co-developed with the brands specifically for his polyrhythmic style. By "Fear of a Blank Planet" (2007), his Sonor SQ2 Series reached full custom specification alongside his signature 14" brass snare. He added a smaller 12" Protean signature snare during his King Crimson and Pineapple Thief years (2014–present), but the core SQ2/K Custom Special Dry rig has remained essentially unchanged — proven when Porcupine Tree\'s 2022 reunion album "Closure/Continuation" used the same setup as 2007.',
+      },
+      {
+        q: 'What drum kit does Gavin Harrison play?',
+        a: 'Gavin Harrison plays a fully custom Sonor SQ2 Series kit — a 22"x17" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms, built from thin maple shells for maximum resonance and dynamic sensitivity. Each drum is built to his exact specifications for shell material, thickness, and bearing edge angle.',
+      },
+      {
+        q: 'What cymbals does Gavin Harrison use?',
+        a: 'Harrison uses the Zildjian K Custom Special Dry series, developed in direct collaboration with him: 14" hi-hats, 16" and 18" crashes, a 21" Special Dry Ride as the centerpiece, and an 18" Trash China. The Special Dry line is engineered to decay quickly rather than wash, keeping his layered polyrhythmic patterns individually audible.',
+      },
+      {
+        q: 'What snare drum does Gavin Harrison play?',
+        a: 'Harrison\'s primary signature snare is a Sonor Gavin Harrison Signature 14"x5.25" brass shell model, developed for warmth and projection without harshness. He also uses a smaller 12" Protean snare, added during his King Crimson and Pineapple Thief years, for tighter, more intimate sounds in studio and three-drummer arrangement contexts.',
+      },
+      {
+        q: 'Did Gavin Harrison use the same gear on Fear of a Blank Planet and the Porcupine Tree reunion?',
+        a: 'Yes. Porcupine Tree\'s 2022 reunion album "Closure/Continuation" documents Harrison using essentially the same Sonor SQ2 kit and Zildjian K Custom Special Dry cymbal setup that defined "Fear of a Blank Planet" fifteen years earlier in 2007 — a rare example of a drummer\'s signature rig remaining fully stable across more than a decade, including a 13-year band hiatus.',
+      },
+    ],
+
+    metaTitle: 'Gavin Harrison Gear Evolution Timeline | Porcupine Tree Drum Kit History',
+    metaDescription: 'Explore Gavin Harrison\'s complete drum gear evolution: developing Sonor SQ2 custom kit on "In Absentia" (2002) → full custom specification and signature brass snare on "Fear of a Blank Planet" (2007) → King Crimson\'s three-drummer lineup and Porcupine Tree\'s "Closure/Continuation" reunion (2022). A two-decade polyrhythmic prog journey, era by era.',
+  },
 };
 
 /**

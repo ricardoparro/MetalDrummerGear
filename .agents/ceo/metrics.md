@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-01 11:01 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-01 13:51 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 124 |
-| Sessions | 142 |
-| Page views | 208 |
-| Engagement rate | 66.90% |
+| Active users | 126 |
+| Sessions | 144 |
+| Page views | 210 |
+| Engagement rate | 65.97% |
 | Avg session (s) | 125 |
 
 ### Top pages (by page views, last 7d)
@@ -21,19 +21,19 @@
 | / | 24 | 13 |
 | /drummer/john-otto | 15 | 9 |
 | /drummer/ben-koller | 12 | 11 |
+| /drummer/jaska-raatikainen | 9 | 7 |
 | /drummer/shannon-larkin | 9 | 8 |
-| /drummer/jaska-raatikainen | 8 | 6 |
 | /drummer/inferno | 7 | 6 |
 | /drummer/hellhammer | 6 | 4 |
 | /drummer/mario-duplantier | 6 | 4 |
-| /drummers/abe-cunningham/licks/abe-cunningham-digital-bath-groove | 4 | 2 |
+| /drummers/joey-jordison/evolution | 5 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 104 | 96 |
+| Organic Search | 105 | 97 |
 | Direct | 35 | 27 |
-| Unassigned | 4 | 4 |
+| Unassigned | 6 | 6 |
 | Cross-network | 1 | 1 |
 | Organic Social | 1 | 1 |
 

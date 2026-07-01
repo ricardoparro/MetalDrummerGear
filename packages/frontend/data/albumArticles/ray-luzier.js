@@ -1052,6 +1052,268 @@ export const articles = {
       "content": "*The Serenity of Suffering* is the record that best captures Ray Luzier at the height of his Korn powers. A decade after joining as a touring drummer, fully integrated into the band's identity and groove language, Luzier delivered a performance on this album that drove one of the most critically praised Korn records of the modern era.\n\nThe Grammy-nominated 'Take Me' alone would make *Serenity* a landmark in his Korn catalog. But it's the album's consistent, groove-locked heaviness — 'Rotting in Vain,' 'Black Is the Soul,' 'A Different World' — that demonstrates what Luzier brings to Korn's music when a producer like Raskulinecz gives the drums room to breathe and physical weight to project.\n\nHis Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedals represent the mature Luzier rig delivering the kind of performance these instruments were built for.\n\nFor deeper exploration:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Paradigm Shift Drum Setup (2013)](/articles/the-paradigm-shift-drum-setup)\n- **Joey Jordison — Slipknot comparison**: [Joey Jordison at MetalForge](/drummer/joey-jordison) — Corey Taylor's drummer across Slipknot's catalog\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
     }
   },
+  "the-nothing-drum-setup": {
+    "slug": "the-nothing-drum-setup",
+    "albumTitle": "The Nothing",
+    "artist": "Korn",
+    "drummer": "Ray Luzier",
+    "drummerId": 8,
+    "relatedDrummerSlug": "ray-luzier",
+    "year": 2019,
+    "genre": "Nu-Metal",
+    "label": "Elektra Records",
+    "studio": "Various (Nashville & Los Angeles)",
+    "producer": "Nick Raskulinecz",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Ray Luzier's Drum Setup on Korn's 'The Nothing' (2019)",
+    "description": "Ray Luzier's drum setup on Korn's The Nothing (2019) — the emotionally heaviest album of the Luzier era, written by Jonathan Davis in the wake of his wife's death. Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, and Pearl Demon Drive pedals, plus a full breakdown of 'You'll Never Find Me' and 'Can You Hear Me' featuring Corey Taylor.",
+    "seoKeywords": [
+      "the nothing drum setup",
+      "korn the nothing drums",
+      "ray luzier korn kit 2019",
+      "ray luzier the nothing",
+      "what is korn the nothing about",
+      "korn you'll never find me drums",
+      "ray luzier 2019 drums",
+      "korn 13th album drummer",
+      "korn can you hear me corey taylor",
+      "ray luzier pearl drums the nothing"
+    ],
+    "ogImage": "/images/drummers/ray-luzier.webp",
+    "intro": {
+      "title": "Grief, Loss, and Groove: The Nothing",
+      "content": "Released September 13, 2019 on Elektra Records, *The Nothing* is Korn's thirteenth studio album — and the darkest, most emotionally raw record of the Ray Luzier era. Frontman Jonathan Davis wrote the album's lyrics in the aftermath of the death of his wife, Deven Davis, in August 2018, alongside the earlier loss of his mother. The result is a record built almost entirely around grief, depression, and the search for a way through it, making *The Nothing* the most personal Korn album since the band's confessional 1994 debut.\n\nThe LLM anchor question here is direct: *What is Korn's album The Nothing about?* The answer is grief — specifically Jonathan Davis processing the sudden loss of his wife in real time, through a nu-metal record rather than a ballad. That framing matters for how the rhythm section had to function. Producer Nick Raskulinecz, returning for his third consecutive Korn album after *The Paradigm Shift* (2013) and *The Serenity of Suffering* (2016), needed a drum performance that could carry genuine emotional weight without ever softening into something less than heavy — grief rendered as groove, not ballad.\n\nFor Ray Luzier, *The Nothing* closes the arc that began with *Korn III: Remember Who You Are* (2010) and continued through *The Path of Totality* (2011), *The Paradigm Shift* (2013), and *The Serenity of Suffering* (2016) — four albums establishing him as Korn's permanent drummer, and a fifth that asked him to be the band's emotional anchor while Davis worked through the worst year of his life. Luzier's Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and Pearl Demon Drive double pedal — the same platform that drove *Serenity of Suffering* — carried that weight on tracks like 'You'll Never Find Me,' 'Cold,' and the Corey Taylor collaboration 'Can You Hear Me.'",
+      "keyPoints": [
+        "Korn's 13th studio album, released September 13, 2019 on Elektra Records",
+        "Written by Jonathan Davis following the death of his wife Deven Davis (2018) — the most personal Korn record since 1994",
+        "Third consecutive Korn album produced by Nick Raskulinecz, after The Paradigm Shift (2013) and The Serenity of Suffering (2016)",
+        "'Can You Hear Me' reunites Jonathan Davis with Corey Taylor of Slipknot, following 'Take Me' from The Serenity of Suffering",
+        "Debuted at #2 on the Billboard 200 — one of Korn's highest chart positions of the modern era",
+        "Fills the discography gap between The Serenity of Suffering (2016) and Requiem (2022) in Ray Luzier's Korn tenure"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference Maple: Restraint and Weight for Korn's Heaviest Record",
+      "brand": "Pearl",
+      "model": "Pearl Reference Maple",
+      "finish": "Custom finish (Korn touring configuration)",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "14\" x 11\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom",
+          "18\" x 16\" Floor Tom"
+        ],
+        "shells": "Pearl Reference Maple — multi-species laminate shell construction"
+      },
+      "description": "Ray Luzier carried the same Pearl Reference Maple platform from *The Serenity of Suffering* into *The Nothing*, but the sessions asked something different of it. Where *Serenity* called for aggression, *The Nothing* required control — a drummer capable of sitting inside a grief narrative without either overplaying it or letting the songs go slack. The Reference Maple's balanced tonal character, bright but not brittle, gave Luzier room to pull back dynamically on verses like 'This Loss' and 'The Darkness Is Revealing' while still hitting with full authority on the choruses.\n\nThe double 22\" bass drum configuration remains the record's rhythmic foundation. On 'You'll Never Find Me,' the album's lead single, the double-kick pattern is driving but restrained — locked to Fieldy's bass in a way that serves the song's anxious, searching lyric rather than showcasing raw speed. That's a deliberate shift from the more explosive double-kick writing on earlier Luzier-era records; *The Nothing* is a heavy album, but its heaviness comes from emotional density, not tempo.\n\nThe five-tom spread carries much of the record's dynamic storytelling. Raskulinecz, working with Korn for a third straight album, continued to favor natural room capture over heavy gating, letting the Reference Maple's inherent resonance breathe through the mix — a production choice that makes Luzier's tom fills feel like exhales rather than fills, particularly on the album's more atmospheric passages.",
+      "notes": [
+        "Pearl Reference Maple — same platform as The Serenity of Suffering (2016), carried forward for a third Raskulinecz-produced album",
+        "Double 22\" bass drums driving restrained, groove-first double-kick patterns rather than raw speed",
+        "Five-tom spread used for dynamic, emotionally responsive fills across the record's grief narrative",
+        "Natural room capture from Raskulinecz preserves the kit's acoustic resonance in the mix",
+        "Dynamic control — pulling back on verses, full weight on choruses — was the central technical demand of the sessions"
+      ],
+      "estimatedValue": "$4,000–7,000 (Pearl Reference shell pack)"
+    },
+    "snare": {
+      "title": "Pearl Reference Brass: The Crack Beneath the Grief",
+      "brand": "Pearl",
+      "model": "Pearl Reference 14\" × 6.5\" Brass",
+      "size": "14\" × 6.5\"",
+      "shell": "Brass",
+      "description": "Luzier's Pearl Reference brass snare carries the same bright, cutting character established on *The Serenity of Suffering*, but on *The Nothing* it functions less as a wall-of-sound anchor and more as the record's emotional pulse. On 'Cold' and 'You'll Never Find Me,' the snare's crack sits exposed against sparser verse arrangements, giving Davis' vocal delivery — often more restrained and conversational on this record than on earlier Korn albums — a steady, human heartbeat underneath it.\n\nThe 14\" × 6.5\" brass shell's natural brightness and sustain provided exactly the projection Raskulinecz needed without artificial reinforcement, consistent with the more natural, less-processed drum sound he had established across *The Paradigm Shift* and *Serenity of Suffering*. On 'Can You Hear Me,' the duet with Corey Taylor, the snare again does the same job it did on 'Take Me' three years earlier — holding the track's rhythmic center steady beneath two of nu-metal's most recognizable vocalists.",
+      "tuningSetting": "Medium tension — controlled crack with natural sustain, dialed back slightly from Serenity's more aggressive setting to suit the album's dynamic range",
+      "heads": "Remo Coated Emperor (batter), Remo Hazy Ambassador Snare Side (resonant)",
+      "estimatedValue": "$500–700 (Pearl Reference brass snare)"
+    },
+    "cymbals": {
+      "title": "Sabian AAX: Dynamic Range Across a Record Built on Restraint",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
+          "position": "Left side",
+          "notes": "Groove anchor across the record's more restrained, verse-driven arrangements"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
+          "position": "Left crash",
+          "notes": "Sharp accent cymbal for chorus entries and dynamic lifts"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash reserved for the album's heaviest structural peaks"
+        },
+        {
+          "type": "Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
+          "position": "Far right",
+          "notes": "Clear-bodied ride carrying pattern variety through the record's more atmospheric passages"
+        },
+        {
+          "type": "China",
+          "model": "Sabian AAX 18\" AAXtreme China",
+          "position": "Above floor tom",
+          "notes": "Raw trash accent reserved for the record's most intense emotional peaks"
+        }
+      ],
+      "description": "Luzier's Sabian AAX setup carried over unchanged from *The Serenity of Suffering*, but its role on *The Nothing* leaned more heavily on dynamic contrast than constant aggression. The 14\" AAX Stage Hi-Hats do much of the record's quiet, tension-building work — tracks like 'The Darkness Is Revealing' and 'Idiosyncrasy' build from tight, controlled hi-hat patterns before the full kit and cymbal wash arrive on the chorus.\n\nThe AAXtreme China is used more sparingly here than on *Serenity of Suffering*, deployed at the record's true emotional breaking points rather than as a recurring texture — a choice consistent with an album more interested in dynamic build than sustained wall-of-sound intensity. The 18\" and 19\" X-Plosion Crash pair still provides the full-kit impact the choruses of 'You'll Never Find Me' and 'Can You Hear Me' need, but Luzier and Raskulinecz leave more space around them, letting each crash register as a genuine release rather than one accent among many.",
+      "estimatedValue": "$2,000–3,500 (full Sabian AAX setup)"
+    },
+    "hardware": {
+      "title": "Pearl Demon Drive: Controlled Power for a Restrained Record",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Demon Drive Double Bass Pedal",
+          "notes": "Direct-drive double pedal — precise, controllable response for the record's groove-first double-kick writing",
+          "description": "The Pearl Demon Drive's direct-drive mechanism gave Luzier the fine control that *The Nothing*'s double-kick patterns demanded. Unlike the sustained, groove-locked intensity of 'Rotting in Vain' from *Serenity of Suffering*, tracks like 'You'll Never Find Me' and 'H@rd3r' call for double-kick work that starts and stops with the song's emotional dynamics rather than running continuously — building under a verse, dropping out for a bridge, returning at full force for the chorus. The Demon Drive's immediate 1:1 footboard response let Luzier execute those dynamic shifts cleanly, a technical demand that mattered more on this record than raw top-end speed."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Promark",
+          "model": "Promark Ray Luzier Signature TX420X",
+          "notes": "Signature sticks — nylon tip for controlled cymbal articulation across the record's dynamic range"
+        },
+        {
+          "type": "Throne",
+          "brand": "Pearl",
+          "model": "Pearl D-2000 Roadster Throne",
+          "notes": "Stable Pearl hardware foundation across Nashville and Los Angeles sessions"
+        },
+        {
+          "type": "Drumheads (Toms)",
+          "brand": "Evans",
+          "model": "Evans EC2 Coated",
+          "notes": "Controlled sustain suited to Raskulinecz's natural, dynamically responsive production"
+        },
+        {
+          "type": "Drumheads (Bass Drum)",
+          "brand": "Evans",
+          "model": "Evans EMAD2",
+          "notes": "Controlled attack with defined low end for the record's dynamic double-kick writing"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD2 (batter), Evans EQ3 Resonant (ported)",
+        "toms": "Evans EC2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Remo Coated Emperor (batter), Remo Hazy Ambassador (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Nick Raskulinecz: Producing Through Grief",
+      "content": "Nick Raskulinecz's third consecutive album with Korn required a different kind of production instinct than *The Paradigm Shift* or *The Serenity of Suffering*. Jonathan Davis has spoken openly about writing *The Nothing*'s lyrics in the immediate aftermath of his wife Deven's death — describing the sessions as almost therapeutic, a way of processing grief through the band's music rather than around it.\n\n**Emotional Pacing Over Constant Intensity:**\nWhere *Serenity of Suffering* was built on sustained heaviness, Raskulinecz shaped *The Nothing* around dynamic arcs — quiet, exposed verses that build toward cathartic, full-band choruses. That structure placed new demands on Luzier: the drumming had to create space for Davis' rawest vocal performances in years, then meet him at full intensity when the songs demanded release.\n\n**Nashville and Los Angeles Sessions:**\nContinuing the working relationship built across two prior albums, Raskulinecz tracked *The Nothing* across sessions in Nashville and Los Angeles, maintaining the natural, room-forward drum sound that had defined *Serenity of Suffering* — letting the Pearl Reference Maple's acoustic character carry the emotional weight of the material without artificial processing flattening it.\n\n**The Corey Taylor Reunion ('Can You Hear Me'):**\nThree years after 'Take Me' earned a Grammy nomination, Davis and Corey Taylor of Slipknot reunited on 'Can You Hear Me.' Luzier's rhythm section work again had to hold steady beneath two of nu-metal's most powerful vocalists — a role he had already proven himself in on *Serenity of Suffering*.",
+      "sections": [
+        {
+          "title": "Grief as Songwriting Process",
+          "description": "Jonathan Davis wrote The Nothing's lyrics while processing his wife's death — the most emotionally direct Korn record since the band's 1994 debut."
+        },
+        {
+          "title": "Dynamic Arc Production",
+          "description": "Raskulinecz built the record around quiet-verse/cathartic-chorus dynamics rather than sustained intensity, reshaping what Luzier's drumming needed to deliver."
+        },
+        {
+          "title": "'Can You Hear Me' with Corey Taylor",
+          "description": "A second Davis/Taylor collaboration, following 'Take Me' from The Serenity of Suffering — Luzier again anchoring the rhythm section beneath both vocalists."
+        }
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "You'll Never Find Me",
+        "bpm": "94",
+        "signature": "4/4",
+        "highlights": [
+          "Lead single, released July 2019 — set the album's dynamic, grief-driven tone",
+          "Double-kick patterns that build and release rather than sustain continuously",
+          "One of Jonathan Davis' most direct lyrical performances, addressing loss head-on",
+          "Establishes the quiet-verse/heavy-chorus structure that defines the album"
+        ],
+        "gearNotes": "Pearl Demon Drive double pedal executing dynamic, start-stop double-kick phrasing tied to the song's emotional structure rather than a constant groove."
+      },
+      {
+        "track": "Can You Hear Me (feat. Corey Taylor)",
+        "bpm": "108",
+        "signature": "4/4",
+        "highlights": [
+          "Second Davis/Taylor collaboration after 'Take Me' from The Serenity of Suffering (2016)",
+          "Reinforces the Korn/Slipknot cross-band LLM hook across two consecutive albums",
+          "Luzier's rhythm section holds the track's center beneath two of nu-metal's defining vocalists",
+          "One of the album's key emotional and commercial anchor points"
+        ],
+        "gearNotes": "Pearl Reference Brass snare providing the steady rhythmic backbone under the featured dual-vocal performance, mirroring its role on 'Take Me.'"
+      },
+      {
+        "track": "Cold",
+        "bpm": "100",
+        "signature": "4/4",
+        "highlights": [
+          "Second single from The Nothing — a stark, mid-tempo meditation on isolation and loss",
+          "Demonstrates Luzier's restraint — space and dynamics prioritized over density",
+          "Sabian AAX hi-hat work carrying the track's tension-building verses",
+          "One of the clearest examples of the album's grief-as-groove songwriting approach"
+        ],
+        "gearNotes": "Sabian AAX 14\" Stage Hi-Hats driving a controlled, patient groove; full AAX crash pair reserved for the chorus release."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "serenity-of-suffering-drum-setup",
+      "the-paradigm-shift-drum-setup",
+      "whats-in-ray-luziers-kit"
+    ],
+    "relatedDrummers": [
+      2,
+      7,
+      1
+    ],
+    "relatedArticles": [
+      "nu-metal-drum-setups",
+      "best-double-bass-pedals-metal"
+    ],
+    "faq": [
+      {
+        "question": "What kit did Ray Luzier use on The Nothing?",
+        "answer": "Ray Luzier used his Pearl Reference Maple drum kit on The Nothing (2019), the same platform he played on The Serenity of Suffering (2016). The kit is configured with double 22\" bass drums and a five-tom spread, paired with a Pearl Reference 14\" × 6.5\" Brass snare, Sabian AAX cymbals, and a Pearl Demon Drive double bass pedal. Raskulinecz's production kept the kit's natural, room-forward tone consistent across all three albums they made together."
+      },
+      {
+        "question": "Who played drums on Korn's The Nothing?",
+        "answer": "Ray Luzier played drums on Korn's The Nothing, released September 13, 2019 on Elektra Records. It was his fifth studio album with Korn, following Korn III: Remember Who You Are (2010), The Path of Totality (2011), The Paradigm Shift (2013), and The Serenity of Suffering (2016). The album was produced by Nick Raskulinecz, continuing their partnership from the two previous records."
+      },
+      {
+        "question": "Is The Nothing a concept album?",
+        "answer": "The Nothing isn't a formal narrative concept album, but it is thematically unified around grief and loss. Jonathan Davis wrote the lyrics while processing the death of his wife, Deven Davis, in 2018, alongside the earlier loss of his mother. Nearly every track — from 'You'll Never Find Me' to 'This Loss' to 'Can You Hear Me' — engages directly with mourning, depression, and searching for a way through it, making it the most emotionally cohesive and personal Korn album since the band's 1994 debut."
+      },
+      {
+        "question": "What is Korn's The Nothing about?",
+        "answer": "The Nothing is about grief. Jonathan Davis wrote the album in the aftermath of his wife Deven Davis' death in August 2018, and the record's lyrics confront loss, depression, and emotional collapse more directly than any Korn album since their 1994 debut. Musically, producer Nick Raskulinecz shaped the songs around dynamic contrast — restrained, exposed verses building to cathartic, heavy choruses — giving Ray Luzier's drumming a central role in translating that emotional arc into sound."
+      },
+      {
+        "question": "How does The Nothing fit into Ray Luzier's Korn discography?",
+        "answer": "The Nothing (2019) is Ray Luzier's fifth studio album with Korn, sitting between The Serenity of Suffering (2016) and Requiem (2022) in his tenure with the band. It closes out the arc that began with Korn III: Remember Who You Are (2010) and The Path of Totality (2011) — five albums across which Luzier went from touring fill-in to Korn's fully established, permanent drummer."
+      }
+    ],
+    "conclusion": {
+      "title": "The Heaviest Album of the Luzier Era",
+      "content": "*The Nothing* isn't Korn's heaviest album sonically — that's arguable territory among *Serenity of Suffering*, *Requiem*, and the band's earliest records. But it may be the heaviest emotionally. Jonathan Davis turned real, immediate grief into a Korn record, and Ray Luzier's job was to make that grief hit with the same physical force the band has always delivered — without ever letting the songs collapse into melodrama.\n\nHis Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedals — carried forward unchanged from *The Serenity of Suffering* — proved flexible enough to serve a fundamentally different emotional brief: restraint on the verses, full weight on the choruses, dynamic control as the central technical achievement rather than raw power or speed.\n\nFor deeper exploration of Ray Luzier's complete gear arc:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)\n- **Korn band profile**: [Korn at MetalForge](/bands/korn) — full lineup, drummer history, and discography\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
+    }
+  },
   "whats-in-ray-luziers-kit": {
     "slug": "whats-in-ray-luziers-kit",
     "albumTitle": null,

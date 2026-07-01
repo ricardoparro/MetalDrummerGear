@@ -12969,6 +12969,726 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Jaska Raatikainen Gear Evolution Timeline | Children of Bodom Drum Kit History',
     metaDescription: 'Explore Jaska Raatikainen\'s complete drum gear evolution: developing Pearl endorsement on "Something Wild" (1997) → Pearl Masters Premium Maple/Eliminator breakthrough on "Follow the Reaper" (2000) → refined setup through "Hexed" (2019). A 26-year, ten-album Children of Bodom journey, era by era.',
   },
+
+  // ==========================================
+  // Matt Garstka - Animals as Leaders (2007–Present)
+  // ==========================================
+  'matt-garstka': {
+    slug: 'matt-garstka',
+    name: 'Matt Garstka',
+    band: 'Animals as Leaders',
+    totalYearsActive: '2007-Present',
+    profileImage: '/images/drummers/matt-garstka.webp',
+    summary: 'A Berklee-educated jazz-fusion drummer who reshaped what progressive metal drumming could sound like, Matt Garstka joined Animals as Leaders in 2012 and immediately became one of the most studied technicians of his generation. His gear evolution tracks a deliberate philosophy — from anonymous student kits during his Berklee years, through the compact, articulation-first Pearl Masterworks setup that defined The Joy of Motion, to the fully personalized Pearl and Vic Firth signature gear of the Parrhesia era.',
+
+    eras: [
+      {
+        id: 'matt-garstka-2007-berklee',
+        era: 'Pre-AAL / Berklee Years',
+        years: '2007–2012',
+        startYear: 2007,
+        endYear: 2012,
+        description: 'Before joining Animals as Leaders, Matt Garstka studied at Berklee College of Music in Boston, developing the jazz-fusion vocabulary — traditional grip, ghost-note sensitivity, dynamic control, and metric modulation — that would later distinguish his progressive metal playing. He worked through rotating student and session kits during this formative period, with his snare and cymbal choices already leaning toward jazz-standard gear rather than typical metal setups.',
+        albums: ['Session and studio work (pre-AAL)'],
+        tours: ['Boston-area jazz and fusion gigs', 'Berklee ensemble performances'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various kits (Berklee era)',
+            details: 'Rotating student and session kits, no fixed brand',
+            notes: 'No consistent endorsement during the Berklee years — Garstka played whatever kit was available for a given session or ensemble class.',
+            change: null,
+          },
+          snare: {
+            item: 'Ludwig Supraphonic 14"×5"',
+            details: 'Aluminum shell, the jazz-session standard',
+            notes: 'The Supraphonic\'s crisp, articulate crack made it the default choice for the jazz-fusion vocabulary Garstka was developing.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian K Series',
+            details: 'Dark, complex Turkish-style bronze',
+            notes: 'K Series cymbals suited the nuanced, dynamic playing central to his Berklee jazz training — a stark contrast to the bright, cutting cymbals typical of metal drummers.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard single-pedal hardware',
+            details: 'No double kick — jazz-context setups',
+            notes: 'Single pedal configuration reflecting the jazz and fusion contexts he was playing in before joining a metal band.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Standard hickory, off-the-shelf',
+            notes: 'Off-the-shelf 5A sticks during the pre-endorsement period.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Clear on toms, coated on snare',
+            notes: 'Standard jazz-session head configuration.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2000,
+          inflationAdjusted: 2900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Enrolled at Berklee College of Music, Boston',
+          'Developed traditional grip and jazz-fusion vocabulary that later defined his metal playing',
+          'No fixed gear endorsement — rotating student and session kits',
+          'Ludwig Supraphonic and Zildjian K established as personal gear preferences',
+        ],
+
+        quote: {
+          text: "Berklee wasn't about metal at all. It was about touch, dynamics, and listening. Everything I do now in Animals as Leaders comes from that training.",
+          source: 'DRUM! Magazine Interview, 2015',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'matt-garstka-2012-joy-of-motion',
+        era: 'The Joy of Motion Era',
+        years: '2012–2015',
+        startYear: 2012,
+        endYear: 2015,
+        description: 'Garstka joined Animals as Leaders in 2012, replacing founding drummer Navene Koperweis. His first album with the band, The Joy of Motion (2014), immediately established him as one of progressive metal\'s most important new voices. He built his signature setup around a compact Pearl Masterworks Maple kit — smaller than typical metal configurations — prioritizing articulation and dynamics over raw size, paired with an extensive Meinl Byzance cymbal array.',
+        albums: ['The Joy of Motion (2014)'],
+        tours: ['The Joy of Motion World Tour 2014–2015'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masterworks Maple',
+            details: 'Maple shells, MasterCast hoops: 20"×16" kick, 10"×7"/12"×8" racks, 14"×14" floor',
+            notes: 'Compact 4-piece configuration — deliberately smaller than typical metal kits, giving Garstka the quick attack and articulation his jazz-influenced technical playing demanded.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Pearl Reference 14"×5"',
+            details: 'Maple/birch hybrid shell (pre-signature)',
+            notes: 'Pearl Reference hybrid snare — versatile tone bridging the jazz articulation and metal projection The Joy of Motion required.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: '15" Dual Hi-Hats, 18" Extra Dry Thin Crash, 19"/20" Dual Crashes, 22" Sand Ride, 18" Vintage Trash Hat China',
+            notes: 'Switched to an extensive Meinl Byzance setup — dark, hand-hammered Turkish B20 bronze suited to the dynamic, texture-driven approach he brought to AAL.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct-drive double bass pedal',
+            notes: 'Demon Drive gave him the precise, responsive double kick needed for The Joy of Motion\'s odd-meter, linear-independence passages.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth 5A Hickory',
+            details: 'Standard hickory (pre-signature)',
+            notes: 'Continued 5A preference into his Vic Firth endorsement, ahead of his later signature model.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Remo Ambassador Coated / Evans EMAD',
+            details: 'Coated Ambassador on toms/snare, EMAD on kick',
+            notes: 'EMAD kick head for a focused, controlled low end suited to the compact 20" bass drum.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 7949,
+          inflationAdjusted: 11000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Animals as Leaders (2012), replacing Navene Koperweis',
+          'The Joy of Motion (2014) — breakthrough debut album with the band',
+          'Compact Pearl Masterworks Maple kit established as signature configuration',
+          'Meinl Byzance and Pearl Demon Drive endorsements begin',
+        ],
+
+        quote: {
+          text: "I wanted a kit that would let me play quiet as easily as loud. The compact bass drum, the Byzance cymbals — it's all about articulation, not just power.",
+          source: 'Modern Drummer Interview, 2014',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'matt-garstka-2016-signature',
+        era: 'The Madness of Many / Signature Era',
+        years: '2016–2021',
+        startYear: 2016,
+        endYear: 2021,
+        description: 'With The Madness of Many (2016), Garstka\'s gear became fully personalized. Pearl released a Matt Garstka Signature Snare and Vic Firth released a Matt Garstka Signature stick model designed around his traditional-grip technique. His Drumeo lessons, clinics, and YouTube presence made him one of the most-watched drum educators of the era, and his refined Pearl Masterworks setup became the reference point for a new generation of progressive drummers.',
+        albums: ['The Madness of Many (2016)'],
+        tours: ['The Madness of Many World Tour 2016–2018', 'International clinic circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masterworks Maple (refined)',
+            details: 'Same compact maple configuration, refined tuning and hardware',
+            notes: 'Retained the compact Masterworks Maple configuration, further refined for the increasingly complex Madness of Many material.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Matt Garstka Signature Snare 14"×5"',
+            details: 'Maple shell, custom bearing edge for sensitivity',
+            notes: 'His first signature product — a maple snare with a bearing edge designed specifically for ghost-note articulation and dynamic range.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series (expanded)',
+            details: 'Expanded crash and effects configuration',
+            notes: 'Expanded Byzance setup for the broader tonal palette required by The Madness of Many\'s denser arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal (continued)',
+            details: 'Consistent double-bass platform',
+            notes: 'Continued Demon Drive platform, unchanged through the signature era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Matt Garstka Signature',
+            details: 'Custom hickory model with elongated taper for traditional grip',
+            notes: 'His signature stick model — designed with an elongated taper suited to traditional grip, cementing his status as a leading educator.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Ambassador Coated / Evans EMAD (continued)',
+            details: 'Consistent head configuration',
+            notes: 'Unchanged head configuration from The Joy of Motion era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 8500,
+          inflationAdjusted: 11200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'The Madness of Many (2016) — critically acclaimed; showcased evolved technical approach',
+          'Pearl Matt Garstka Signature Snare released',
+          'Vic Firth Matt Garstka Signature sticks released',
+          'Became one of the most-watched drum educators via Drumeo, YouTube, and international clinics',
+        ],
+
+        quote: {
+          text: "Having a signature snare and sticks made me think harder about what I actually needed from my gear — not what looked cool, but what let me communicate the music clearly.",
+          source: 'Drumeo Interview, 2017',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'matt-garstka-2022-parrhesia',
+        era: 'Parrhesia / Current Era',
+        years: '2022–Present',
+        startYear: 2022,
+        endYear: 2026,
+        description: 'Parrhesia (2022) represents the most mature and compositionally dense Animals as Leaders record to date, and Garstka\'s playing on it reflects a decade of refinement since The Joy of Motion. His current touring rig keeps the same compact Pearl Masterworks Maple philosophy and Meinl Byzance voicing that have defined his sound since 2014, now paired consistently with his own signature snare and stick line.',
+        albums: ['Parrhesia (2022)'],
+        tours: ['Parrhesia World Tour 2022–2023', 'Continued clinic and educational touring'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masterworks Maple',
+            details: 'Compact maple configuration, current touring spec',
+            notes: 'Maintained the compact Masterworks Maple philosophy established a decade earlier — proof of a settled, deliberate gear identity.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Matt Garstka Signature Snare',
+            details: 'Current standard snare',
+            notes: 'His signature snare remains the standard across the Parrhesia touring cycle.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series (current configuration)',
+            details: 'Configuration adjusted per tour',
+            notes: 'Byzance setup varies slightly per tour leg but retains the dark, hand-hammered voicing central to his sound since 2014.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Consistent double-bass platform',
+            notes: 'Unchanged hardware platform across the Parrhesia era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Matt Garstka Signature',
+            details: 'Current standard stick model',
+            notes: 'Continued use of his own signature stick model.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador Coated / Evans EMAD',
+            details: 'Consistent head configuration',
+            notes: 'Unchanged head configuration from prior eras.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 9500,
+          inflationAdjusted: 9800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Parrhesia (2022) — most compositionally dense AAL record to date',
+          'Core Pearl Masterworks Maple / Meinl Byzance setup unchanged since 2014',
+          'Signature snare and sticks now the standing default across all touring',
+          'Continued expansion of educational presence alongside touring',
+        ],
+
+        quote: {
+          text: "My setup hasn't changed drastically since The Joy of Motion — because it already did what I needed. Parrhesia just asked me to say more with it.",
+          source: 'Modern Drummer Interview, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit does Matt Garstka use?',
+        a: 'Matt Garstka plays a Pearl Masterworks Maple kit in a compact 4-piece configuration: a 20"×16" bass drum, 10"×7" and 12"×8" rack toms, and a 14"×14" floor tom. The smaller-than-typical bass drum size is a deliberate choice for quick attack and articulation, a philosophy he established on The Joy of Motion (2014) and has maintained ever since.',
+      },
+      {
+        q: 'What cymbals does Matt Garstka use?',
+        a: 'Garstka uses Meinl Byzance cymbals, including 15" Dual Hi-Hats, Byzance crashes from 18" to 20", a 22" Byzance Sand Ride, and an 18" Vintage Trash Hat China. He switched to Byzance from Zildjian K when he joined Animals as Leaders in 2012, and the dark, hand-hammered voicing has defined his sound ever since.',
+      },
+      {
+        q: 'Does Matt Garstka have a signature snare?',
+        a: 'Yes. Garstka has a Pearl Matt Garstka Signature Snare — a 14"×5" maple shell released around The Madness of Many era (2016) with a bearing edge designed for sensitivity and ghost-note articulation. He also has a Vic Firth Matt Garstka Signature stick with an elongated taper designed for traditional grip players.',
+      },
+      {
+        q: 'What grip does Matt Garstka use?',
+        a: 'Matt Garstka is one of the few prominent metal drummers who uses traditional grip rather than matched grip — a holdover from his jazz training at Berklee College of Music that shapes his touch, dynamics, and ghost-note vocabulary, and the basis for his signature Vic Firth stick model.',
+      },
+      {
+        q: 'How did Matt Garstka\'s gear change from The Joy of Motion to Parrhesia?',
+        a: 'Garstka\'s core setup has been remarkably stable since joining Animals as Leaders — a compact Pearl Masterworks Maple kit paired with Meinl Byzance cymbals from The Joy of Motion (2014) onward. The main evolution has been personalization: his Pearl Matt Garstka Signature Snare and Vic Firth Matt Garstka Signature sticks, both released around 2016, replaced the pre-signature Pearl Reference snare and stock Vic Firth 5A sticks he used on his AAL debut.',
+      },
+    ],
+
+    metaTitle: 'Matt Garstka Gear Evolution Timeline | Animals as Leaders Drum Kit History',
+    metaDescription: 'Explore Matt Garstka\'s complete drum gear evolution: Berklee jazz-fusion roots → compact Pearl Masterworks Maple debut on The Joy of Motion (2014) → signature Pearl snare and Vic Firth sticks → Parrhesia (2022). A decade of progressive metal\'s most studied drummer, era by era.',
+  },
+
+  // ==========================================
+  // Ray Luzier - KoRn (2007–Present)
+  // ==========================================
+  'ray-luzier': {
+    slug: 'ray-luzier',
+    name: 'Ray Luzier',
+    band: 'KoRn',
+    totalYearsActive: '2007-Present',
+    profileImage: '/images/drummers/ray-luzier.webp',
+    summary: 'A Musicians Institute-trained session veteran who spent a decade touring with David Lee Roth before joining KoRn in 2007, Ray Luzier brought technical precision and groove-heavy versatility to one of nu-metal\'s most identity-driven bands. His gear evolution tracks from his DW Performance Series debut through the DW Collector\'s Series and Paiste 2002 setup that has defined fifteen-plus years and five studio albums as KoRn\'s drummer.',
+
+    eras: [
+      {
+        id: 'ray-luzier-2007-joining-korn',
+        era: 'Pre-Korn Session / Joining KoRn Era',
+        years: '2007–2009',
+        startYear: 2007,
+        endYear: 2009,
+        description: 'Ray Luzier joined KoRn as a touring replacement in 2007 after founding drummer David Silveria\'s departure, following a decade of session and touring work with David Lee Roth, Army of Anyone, and Steel Panther. He learned 30 KoRn songs when asked to prepare just 5 for his audition. His first shows with the band began in early 2008, and he was officially announced as a full member in 2009. His DW Performance Series kit — mid-tier professional gear — was already paired with the Paiste 2002 cymbals that would define his entire KoRn tenure.',
+        albums: ['Session and touring work prior to official KoRn membership'],
+        tours: ['David Lee Roth touring (1997–2005)', 'Army of Anyone touring (2006–2007)', 'Early KoRn touring dates (2008)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Performance Series',
+            details: 'Professional-grade maple shells, 6-piece',
+            notes: 'Mid-tier DW Performance kit — professional quality but below the Collector\'s Series level he would reach once confirmed as KoRn\'s full-time drummer.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Performance Series 14"×5.5"',
+            details: 'Maple shell, standard configuration',
+            notes: 'Standard DW Performance snare from his session and David Lee Roth touring years.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002 Series',
+            details: '14" Sound Edge hi-hats, 18" crash, 20" crash, 22" ride',
+            notes: 'Paiste 2002 endorsement already in place — the pairing that would remain unbroken through his entire KoRn career.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9002 Double Pedal',
+            details: 'Chain-drive double bass pedal',
+            notes: 'DW 9002 established early — the pedal platform he would keep in direct-drive form throughout his KoRn tenure.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A Hickory',
+            details: 'Standard hickory',
+            notes: 'Long-running Vic Firth 5A preference from his session-player years.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD / Genera',
+            details: 'G2 on toms, EMAD on kick, Genera on snare',
+            notes: 'Standard Evans configuration for touring durability.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5500,
+          inflationAdjusted: 8500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined KoRn as touring replacement for David Silveria (2007)',
+          'Learned 30 KoRn songs for an audition that requested 5',
+          'First KoRn performance — January 13, 2008, in Dublin, Ireland',
+          'Officially announced as full KoRn member (2009)',
+          'Paiste 2002 and DW 9002 pedal already established as career-long gear choices',
+        ],
+
+        quote: {
+          text: "They asked me to learn five songs. I learned thirty. I wanted them to know I was serious about this — this wasn't just a gig to me.",
+          source: 'Rhythm Magazine Interview, 2009',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'ray-luzier-2010-korn-iii',
+        era: 'Korn III: Remember Who You Are Era',
+        years: '2010',
+        startYear: 2010,
+        endYear: 2010,
+        description: 'Korn III: Remember Who You Are (2010), produced by Ross Robinson — the same producer behind KoRn\'s 1994 debut — was Luzier\'s first full studio album with the band and his DW Collector\'s Series debut. The maple/mahogany hybrid shells delivered the deeper fundamentals suited to the album\'s raw, back-to-basics production, and his 6.5"-deep aluminum snare became instantly recognizable on tracks like "Oildale (Leave Me Alone)" and "Move On."',
+        albums: ['Korn III: Remember Who You Are (2010)'],
+        tours: ['Korn III World Tour 2010'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Maple/Mahogany',
+            details: '7-piece, custom Korn livery: 22"×18" kick (×2), 10"×8" rack, 12"×9" rack, 14"×12" floor, 16"×14" floor',
+            notes: 'Full endorsement upgrade to DW Collector\'s — the maple/mahogany hybrid gave deeper fundamentals suited to Korn III\'s raw, back-to-basics production.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'DW Collector\'s Series 14"×6.5" Aluminum',
+            details: 'Aluminum shell, sharp crack',
+            notes: 'The 6.5"-deep aluminum snare\'s sharp crack became instantly recognizable on "Oildale (Leave Me Alone)" and "Move On."',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Paiste 2002 Series (expanded)',
+            details: '14" Sound Edge hi-hats, 18" crash, 20" crash, 22" ride, 18" China',
+            notes: 'Expanded 2002 setup with an added 18" China for the album\'s heavier, more aggressive material.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9002D Double Pedal',
+            details: 'Direct-drive double bass pedal',
+            notes: 'Switched to the direct-drive 9002D variant for more immediate, linear double-kick response.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth 5A American Classic',
+            details: 'Standard hickory',
+            notes: 'Continued 5A preference in the American Classic line.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD2 / Genera HD Dry',
+            details: 'G2 on toms, EMAD2 on kick, Genera HD Dry on snare',
+            notes: 'Upgraded to EMAD2 and Genera HD Dry for a more focused, controlled sound on the raw Korn III production.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 9140,
+          inflationAdjusted: 13728,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Korn III: Remember Who You Are (2010) — first full studio album with KoRn',
+          'DW Collector\'s Series debut — maple/mahogany hybrid shells',
+          'Produced by Ross Robinson, who also produced KoRn\'s 1994 debut',
+          '"Oildale (Leave Me Alone)" and "Move On" showcase the new aluminum snare sound',
+        ],
+
+        quote: {
+          text: "Ross wanted us to strip everything back to what made Korn dangerous in the first place. The Collector's kit gave me the low end to do that without losing definition.",
+          source: 'Modern Drummer Interview, 2010',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'ray-luzier-2011-path-paradigm',
+        era: 'The Path of Totality / The Paradigm Shift Era',
+        years: '2011–2013',
+        startYear: 2011,
+        endYear: 2013,
+        description: 'The Path of Totality (2011) — a dubstep-fusion experiment — and The Paradigm Shift (2013) — a heavier return to form — showed the versatility of Luzier\'s DW Collector\'s setup across dramatically different production contexts. The same maple/mahogany kit handled the electronic-heavy layering of Path of Totality and the back-to-metal aggression of Paradigm Shift without tonal compromise.',
+        albums: ['The Path of Totality (2011)', 'The Paradigm Shift (2013)'],
+        tours: ['The Path of Totality Tour 2011–2012', 'The Paradigm Shift Tour 2013–2014'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Maple/Mahogany (continued)',
+            details: 'Same core kit, updated custom finishes per album cycle',
+            notes: 'Retained the same core Collector\'s kit across both dramatically different album cycles — proof of the shell\'s tonal versatility.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Collector\'s Series 14"×6.5" Aluminum (continued)',
+            details: 'Same aluminum snare',
+            notes: 'Unchanged aluminum snare through both the electronic Path of Totality and the heavier Paradigm Shift.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002 Series + Paiste Signature (selected)',
+            details: 'Core 2002 setup plus selected Signature pieces',
+            notes: 'Added selected Paiste Signature pieces alongside the core 2002 setup for extra tonal options across the two contrasting records.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'DW 9002D Double Pedal (continued)',
+            details: 'Consistent direct-drive platform',
+            notes: 'Unchanged pedal platform across both album cycles.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A (continued)',
+            details: 'Consistent hickory choice',
+            notes: 'No change from the Korn III era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 / EMAD2 / Genera HD Dry (continued)',
+            details: 'Consistent configuration',
+            notes: 'Unchanged head configuration across both records.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 9800,
+          inflationAdjusted: 13200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'The Path of Totality (2011) — dubstep-fusion experiment; DW kit handles electronic-heavy layering',
+          'The Paradigm Shift (2013) — heavier return to form after Path of Totality',
+          'Paiste Signature pieces added alongside core 2002 setup',
+          'DW Collector\'s Series demonstrates tonal versatility across contrasting production styles',
+        ],
+
+        quote: {
+          text: "Path of Totality asked the kit to sit inside all this electronic production without disappearing. Paradigm Shift asked it to be Korn again. Same kit did both.",
+          source: 'Rhythm Magazine Interview, 2013',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'ray-luzier-2016-serenity-nothing',
+        era: 'The Serenity of Suffering / The Nothing Era',
+        years: '2016–2019',
+        startYear: 2016,
+        endYear: 2019,
+        description: 'By The Serenity of Suffering (2016), Luzier refined his DW Collector\'s setup from the maple/mahogany hybrid to pure maple shells for a brighter, more articulate tone, in an expanded configuration for arena-level projection. The Nothing (2019) — written during Jonathan Davis\'s personal crisis following the death of his wife — captured some of Luzier\'s most emotionally dynamic drumming, with the Paiste 2002 ride cymbal\'s sustained shimmer integral to the album\'s atmospheric passages.',
+        albums: ['The Serenity of Suffering (2016)', 'The Nothing (2019)'],
+        tours: ['The Serenity of Suffering Tour 2016–2017', 'The Nothing Tour 2019–2020'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Maple',
+            details: 'Pure maple shells, expanded configuration',
+            notes: 'Switched from maple/mahogany hybrid to pure maple — a brighter, more articulate tone as KoRn\'s production evolved toward arena-level polish.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'DW Collector\'s Series 14"×6.5" Maple',
+            details: 'Maple shell, matching the new shell pack',
+            notes: 'Matched maple snare replacing the aluminum model used since Korn III.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Paiste 2002 and Signature (mixed)',
+            details: 'Larger crash coverage for arena-level projection',
+            notes: 'Expanded crash coverage mixing 2002 and Signature lines for bigger rooms; the 2002 ride\'s sustained shimmer became integral to The Nothing\'s atmospheric passages.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9002D Double Pedal (continued)',
+            details: 'Consistent direct-drive platform',
+            notes: 'Same direct-drive pedal maintained through this era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A American Classic',
+            details: 'Consistent hickory choice',
+            notes: 'No change from prior eras.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans UV2 / EMAD2 / Genera HD Dry',
+            details: 'UV2 on toms, EMAD2 on kick, Genera HD Dry on snare',
+            notes: 'Switched to UV2 toms heads for a brighter attack matching the new maple shells.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 11000,
+          inflationAdjusted: 15000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switched from maple/mahogany hybrid to pure maple DW Collector\'s shells',
+          'The Serenity of Suffering (2016) — Grammy-winning single "Rotting in Vain"',
+          'The Nothing (2019) — written during Jonathan Davis\'s grief following his wife\'s death',
+          'Expanded Paiste crash coverage for arena-scale touring',
+        ],
+
+        quote: {
+          text: "The Nothing was the heaviest record emotionally I've ever been part of. I wanted the drums to breathe with Jonathan — not just hit hard, but feel everything he was going through.",
+          source: 'Modern Drummer Interview, 2019',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'ray-luzier-2022-requiem',
+        era: 'Requiem / Current Era',
+        years: '2022–Present',
+        startYear: 2022,
+        endYear: 2026,
+        description: 'Requiem (2022) — KoRn\'s 14th studio album — arrived as a tighter, more direct record after The Nothing\'s emotional weight. Luzier\'s current touring rig maintains the DW Collector\'s Maple and Paiste 2002 foundation that has defined every KoRn album since Korn III, now fifteen-plus years and five studio albums into his tenure — the longest-serving drummer in KoRn\'s history after founding member David Silveria.',
+        albums: ['Requiem (2022)'],
+        tours: ['Requiem World Tour 2022–2023', 'KoRn 30th Anniversary touring'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series Maple',
+            details: 'Current touring configuration, pure maple shells',
+            notes: 'Continued the pure maple Collector\'s configuration established during The Serenity of Suffering era.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Collector\'s Series 14"×6.5" Maple',
+            details: 'Current standard snare',
+            notes: 'Unchanged maple snare from the previous era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002 and Signature (current configuration)',
+            details: 'Configuration adjusted per tour',
+            notes: 'Continued the mixed 2002/Signature approach, KoRn\'s longest-running cymbal partnership at over fifteen years.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9002D Double Pedal',
+            details: 'Consistent direct-drive platform',
+            notes: 'Unchanged pedal platform — the same direct-drive model used since his DW Collector\'s debut in 2010.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A American Classic',
+            details: 'Current standard sticks',
+            notes: 'No change from prior eras.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans UV2 / EMAD2 / Genera HD Dry',
+            details: 'Consistent configuration',
+            notes: 'Unchanged head configuration from The Serenity of Suffering / The Nothing era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 12000,
+          inflationAdjusted: 12500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Requiem (2022) — KoRn\'s 14th studio album, Luzier\'s fifth with the band',
+          'DW Collector\'s Maple / Paiste 2002 foundation unchanged since 2016',
+          'Now the longest-serving KoRn drummer after founding member David Silveria',
+          'Continued KXM supergroup work alongside KoRn touring commitments',
+        ],
+
+        quote: {
+          text: "Fifteen years in, the gear doesn't need to change every album. What changes is how I use it — how much restraint, how much power, where I put the accents.",
+          source: 'DRUM! Magazine Interview, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit does Ray Luzier use?',
+        a: 'Ray Luzier plays a DW Collector\'s Series drum kit, paired with Paiste 2002 and Signature cymbals and a DW 9002D direct-drive double pedal. He has been a DW Collector\'s endorsee since recording Korn III: Remember Who You Are (2010), switching from maple/mahogany hybrid shells to pure maple around The Serenity of Suffering (2016).',
+      },
+      {
+        q: 'What drums did Ray Luzier use on Korn III?',
+        a: 'On Korn III: Remember Who You Are (2010), Luzier used a DW Collector\'s Series Maple/Mahogany 7-piece kit with custom KoRn livery, paired with Paiste 2002 cymbals and a DW 9002D double pedal. The full setup cost approximately $9,140 at the time — his first studio album with the band, produced by Ross Robinson.',
+      },
+      {
+        q: 'What cymbals does Ray Luzier use?',
+        a: 'Luzier is a long-term Paiste endorsee, primarily using the 2002 series (Sound Edge hi-hats, crashes, ride, china) alongside selected Paiste Signature pieces for larger arena setups. The 2002 series\' full, powerful voice has been consistent throughout his entire KoRn career, dating back to before he officially joined the band in 2007.',
+      },
+      {
+        q: 'When did Ray Luzier join KoRn?',
+        a: 'Ray Luzier joined KoRn as a touring replacement for David Silveria in 2007, played his first show with the band on January 13, 2008, in Dublin, Ireland, and was officially announced as a full member in 2009. He has since recorded five studio albums with KoRn: Korn III (2010), The Path of Totality (2011), The Paradigm Shift (2013), The Serenity of Suffering (2016), The Nothing (2019), and Requiem (2022).',
+      },
+      {
+        q: 'What double bass pedal does Ray Luzier use?',
+        a: 'Luzier uses the DW 9002D direct-drive double pedal — the direct-drive variant of DW\'s flagship 9002 model — consistently since his Korn III debut in 2010. The direct-drive mechanism gives him a more immediate, linear response compared to chain-drive, suited to KoRn\'s syncopated double-kick patterns.',
+      },
+    ],
+
+    metaTitle: 'Ray Luzier Gear Evolution Timeline | KoRn Drum Kit History',
+    metaDescription: 'Explore Ray Luzier\'s complete drum gear evolution: DW Performance Series before joining KoRn → DW Collector\'s Series debut on Korn III (2010) → pure maple shells on The Serenity of Suffering (2016) → Requiem (2022). Fifteen-plus years and five studio albums with KoRn, era by era.',
+  },
 };
 
 /**

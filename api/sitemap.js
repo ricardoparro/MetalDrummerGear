@@ -236,6 +236,10 @@ const soundLikeGuides = [
   // Issue #2884: SEO batch — Jocke Wallgren, Chris Turner (re-scoped from batch 29)
   { slug: 'how-to-sound-like-jocke-wallgren', name: 'How to Sound Like Jocke Wallgren' },
   { slug: 'how-to-sound-like-chris-turner', name: 'How to Sound Like Chris Turner' },
+  // Issue #2891: SEO batch 30 — Frost, Morgan Ågren, Tim Yeung
+  { slug: 'how-to-sound-like-frost', name: 'How to Sound Like Frost' },
+  { slug: 'how-to-sound-like-morgan-agren', name: 'How to Sound Like Morgan Ågren' },
+  { slug: 'how-to-sound-like-tim-yeung', name: 'How to Sound Like Tim Yeung' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

@@ -13689,6 +13689,769 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Ray Luzier Gear Evolution Timeline | KoRn Drum Kit History',
     metaDescription: 'Explore Ray Luzier\'s complete drum gear evolution: DW Performance Series before joining KoRn → DW Collector\'s Series debut on Korn III (2010) → pure maple shells on The Serenity of Suffering (2016) → Requiem (2022). Fifteen-plus years and five studio albums with KoRn, era by era.',
   },
+
+  // ==========================================
+  // Scott Travis - Judas Priest (35+ year career)
+  // ==========================================
+  'scott-travis': {
+    slug: 'scott-travis',
+    name: 'Scott Travis',
+    band: 'Judas Priest',
+    totalYearsActive: '1989-Present',
+    profileImage: '/images/drummers/scott-travis.webp',
+    summary: 'The only American to ever hold the drum seat in Judas Priest, Scott Travis revitalized the band\'s sound in 1989 with a double-bass-driven, thrash-influenced approach that defined the Painkiller era. His gear evolution runs from the birch-shelled Tama Artstar II that powered Painkiller\'s machine-gun assault, through a fifteen-year run on Pearl\'s flagship Reference Series across Angel of Retribution, Nostradamus, and Redeemer of Souls, into the maple-shelled Tama Starclassic setup that has anchored Firepower and Invincible Shield.',
+
+    eras: [
+      {
+        id: 'scott-travis-1989-painkiller',
+        era: 'Painkiller Era',
+        years: '1989–2000',
+        startYear: 1989,
+        endYear: 2000,
+        description: 'Scott Travis joined Judas Priest in 1989, replacing Dave Holland, and immediately transformed the band\'s sound. Within months he was in the studio recording Painkiller (1990), an album so fast and technically demanding that it redefined what heavy metal drumming could be. His Tama Artstar II kit — birch shells chosen for aggressive attack and focused tone — cut through Priest\'s wall of guitars at speeds that seemed beyond human capability. The double 22"x16" bass drums, tuned tight and punchy, produced the machine-gun articulation that made the Painkiller title track arguably metal\'s greatest drum intro. He carried the same Tama rig through Jugulator (1997), Priest\'s heavier, more industrial-leaning experiment with Tim "Ripper" Owens on vocals.',
+        albums: ['Painkiller (1990)', 'Jugulator (1997)'],
+        tours: ['Painkiller World Tour 1990–1991', 'Jugulator Tour 1997–1998'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Artstar II',
+            details: 'Birch shells, Piano Black finish; double 22"x16" bass drums, 10"/12"/13" rack toms, 14"/16" floor toms',
+            notes: 'Birch delivers more high-frequency attack than maple — essential for cutting through Priest\'s dual-guitar wall at Painkiller\'s extreme tempos. Die-cast hoops sharpened rim shot clarity for the album\'s snare-intensive patterns.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Tama Artstar II Steel 14"x6.5"',
+            details: 'Steel shell, standard configuration',
+            notes: 'The steel Artstar II snare gave Travis the crack needed to stay present through Painkiller\'s dense, high-speed mix.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Paiste Signature / 2002 Series',
+            details: 'Core crash, ride, and hi-hat spread',
+            notes: 'Paiste endorsement established with Travis\'s arrival in Priest — the brand relationship he has maintained in some form ever since.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra HP900 (Prototype/Early Version)',
+            details: 'Two independent bass drum pedals, Tama Iron Cobra Hi-Hat Stand, Tama 1st Chair throne',
+            notes: 'Travis ran two independently pedaled bass drums rather than a linked double pedal — a foot-independence approach he has kept for his entire career.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Standard hickory',
+            notes: 'Vic Firth 5B established from his first sessions with the band.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor Coated / Ambassador Snare Side',
+            details: 'Emperor Coated batter, Ambassador Snare Side resonant',
+            notes: 'Standard Remo configuration for touring durability and attack.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4200,
+          inflationAdjusted: 9700,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Judas Priest in 1989, replacing Dave Holland — the only American in the band\'s history',
+          'Painkiller (1990) set the technical benchmark for speed metal drumming',
+          'Double 22"x16" bass drums with independent pedals — no linked double pedal',
+          'Jugulator (1997) — heavier, industrial-leaning record with Tim "Ripper" Owens on vocals',
+        ],
+
+        quote: {
+          text: "I wanted every note to be heard, even at that speed. Birch gave me the attack to cut through two guitars without losing definition.",
+          source: 'Modern Drummer Interview, 1991',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'scott-travis-2000-pearl-reference',
+        era: 'Pearl Reference Era',
+        years: '2000–2018',
+        startYear: 2000,
+        endYear: 2018,
+        description: 'By the mid-2000s Travis had moved into Pearl\'s flagship Reference Series, a hybrid maple/birch/mahogany shell pack that carried him through Rob Halford\'s 2003 return to the band. Angel of Retribution (2005) closed the fifteen-year arc from Painkiller to the orchestral concept work of Nostradamus (2008), and the Pearl Reference kit\'s dynamic range — able to serve both records\' heaviest and quietest passages without a setup change — proved essential to Nostradamus\'s 23-track, two-hour scope. His Sabian cymbal setup evolved in step, moving from an HH/AA hybrid on Angel of Retribution and Nostradamus toward a fuller HHX configuration by Redeemer of Souls (2014), the Andy Sneap-produced, Grammy-nominated album that began the drier, more upfront production sound Priest would carry into Firepower.',
+        albums: ['Angel of Retribution (2005)', 'Nostradamus (2008)', 'Redeemer of Souls (2014)'],
+        tours: ['Angel of Retribution Tour 2005', 'Nostradamus World Tour 2008–2009', 'Redeemer of Souls Tour 2014–2015'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Piano Black finish, hybrid maple/birch/mahogany shells; dual 22"x18" independent bass drums, 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
+            notes: 'Switched from Tama\'s birch Artstar II to Pearl\'s hybrid-ply Reference Series — a warmer, more versatile shell better suited to the dynamic range Angel of Retribution and Nostradamus demanded. Bass drums grew two inches deeper than the Painkiller-era kicks.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Reference Brass 14"x6.5"',
+            details: 'Beaded brass shell, die-cast hoops',
+            notes: 'Brass replaced steel for a darker, more complex backbeat — more body than the Artstar II steel snare, with the crack needed for the Grammy-nominated "Halls of Valhalla" on Redeemer of Souls.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian HH/AA hybrid → HHX transitional',
+            details: '14" hi-hats, 16"–20" crashes, 21"–22" ride, 18" China',
+            notes: 'Moved from Paiste to Sabian with the Pearl deal; hand-hammered HH and machine-hammered AA gave two tonal palettes on Nostradamus, evolving toward brighter HHX models by Redeemer of Souls.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive (x2 independent pedals)',
+            details: 'One pedal per bass drum, no connected double pedal; Pearl Eliminator Hi-Hat Stand, Pearl Roadster throne',
+            notes: 'Kept his signature independent-foot approach, now on Pearl\'s Demon Drive platform.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vater Scott Travis Signature',
+            details: 'Signature model',
+            notes: 'Moved to a Vater signature stick model during this era, replacing the Vic Firth 5B.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans EMAD / EC2 / HD Dry',
+            details: 'EMAD kick batter, EC2 tom batter, HD Dry snare batter',
+            notes: 'Switched from Remo to Evans for a more controlled, focused sound suited to Pearl\'s Reference shells.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 5800,
+          inflationAdjusted: 8700,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Switched from Tama Artstar II to Pearl Reference Series hybrid shells',
+          'Angel of Retribution (2005) — Rob Halford\'s return to Priest after 13 years',
+          'Nostradamus (2008) — 23-track double concept album demanding the Reference kit\'s full dynamic range',
+          'Redeemer of Souls (2014) — Grammy-nominated "Halls of Valhalla," first album produced by Andy Sneap',
+          'Cymbal transition from Paiste to Sabian HH/AA, evolving toward HHX by 2014',
+        ],
+
+        quote: {
+          text: "The Reference kit could do the quiet, orchestral stuff on Nostradamus and still hit like Painkiller when the song called for it. That range is what I needed.",
+          source: 'Rhythm Magazine Interview, 2008',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'scott-travis-2018-tama-starclassic',
+        era: 'Tama Starclassic / Firepower Era',
+        years: '2018–Present',
+        startYear: 2018,
+        endYear: 2026,
+        description: 'Firepower (2018) marked Travis\'s thirty-year anniversary with Priest and his return to Tama, this time on the maple-shelled Starclassic — a deliberate tonal shift from the hybrid Pearl Reference toward a warmer, fuller body suited to producers Andy Sneap and Tom Allom\'s layered, contemporary-classic guitar sound. The bass drums deepened again, to 22"x18", while Travis kept his career-long independent double-kick approach rather than a linked pedal. The same Starclassic Maple platform carries him through Invincible Shield (2024), Priest\'s most recent studio statement and proof that thirty-five-plus years in, his engine room still sets the pace for modern speed metal drumming.',
+        albums: ['Firepower (2018)', 'Invincible Shield (2024)'],
+        tours: ['Firepower World Tour 2018', 'Invincible Shield Tour 2024–2025'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple',
+            details: 'Piano Black finish, 6-ply maple shells; 22"x18" bass drums (x2), 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
+            notes: 'Returned to Tama after roughly a decade and a half on Pearl. Maple\'s warmer, fuller body suits Sneap and Allom\'s broader, layered guitar arrangements better than the Artstar II birch ever could.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Tama Starphonic Brass 14"x6"',
+            details: 'Brass shell, die-cast hoops',
+            notes: 'A modern, focused brass snare delivering the high-frequency cut Travis has favored throughout his career, positioned aggressively forward in Sneap\'s mix.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian HHX Series',
+            details: '14" Stage Hi-Hats, 16"/18"/19" Evolution Crashes, 21" Groove Ride, 18" Chinese',
+            notes: 'Completed the transition to full HHX begun on Redeemer of Souls — brighter, more cutting than the earlier HH/AA hybrid.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra HP910LSW (x2 independent pedals)',
+            details: 'Tama Speed Cobra Hi-Hat Stand HH915D, Tama 1st Chair Round Rider HT530B',
+            notes: 'Two independent Speed Cobra pedals — still no double pedal — preserving the foot independence that has defined his playing since the 1980s.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vater Power 5B',
+            details: 'Signature-adjacent hickory model',
+            notes: 'Moved to Vater\'s Power 5B for Firepower and beyond.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          heads: {
+            item: 'Evans EMAD2 Clear / EC2 Clear / Heavyweight',
+            details: 'EMAD2 kick batter, EC2 tom batter, Heavyweight snare batter',
+            notes: 'Upgraded Evans line for the modern, controlled attack Firepower\'s production demanded.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 8500,
+          inflationAdjusted: 10500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Firepower (2018) — Travis\'s thirty-year anniversary album with Judas Priest',
+          'Returned to Tama after roughly fifteen years on Pearl, switching to maple Starclassic shells',
+          'Bass drums deepened to 22"x18", two inches deeper than the Painkiller-era 22"x16"',
+          'Invincible Shield (2024) — Priest\'s most recent studio album, same Starclassic Maple platform',
+          'Completed the cymbal transition to full Sabian HHX',
+        ],
+
+        quote: {
+          text: "Thirty years on, I'm still chasing the same thing — speed you can understand, not just speed you can hear. The gear changes, that goal never does.",
+          source: 'DRUM! Magazine Interview, 2018',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit did Scott Travis use on Painkiller?',
+        a: 'On Painkiller (1990), Scott Travis played a Tama Artstar II kit with birch shells, double 22"x16" bass drums, and Paiste Signature/2002 cymbals. The birch shells gave the aggressive, high-frequency attack needed to cut through Judas Priest\'s dual-guitar wall at the album\'s extreme tempos, and helped set the benchmark for speed metal drumming.',
+      },
+      {
+        q: 'What drums does Scott Travis play now?',
+        a: 'Scott Travis currently plays a Tama Starclassic Maple kit, paired with Sabian HHX cymbals and a Tama Starphonic Brass snare. He returned to Tama for Firepower (2018) after roughly fifteen years on Pearl\'s Reference Series, and has carried the same Starclassic Maple setup through Invincible Shield (2024).',
+      },
+      {
+        q: 'Did Scott Travis always play a double bass pedal?',
+        a: 'No — Travis has always run two independently pedaled bass drums rather than a linked double pedal, from the Tama Iron Cobra HP900 on Painkiller through the Pearl Demon Drive era to the current Tama Speed Cobra HP910LSW. That foot independence has been a constant throughout his 35-plus year career.',
+      },
+      {
+        q: 'What gear did Scott Travis use on Nostradamus and Angel of Retribution?',
+        a: 'For both Angel of Retribution (2005) and Nostradamus (2008), Travis played a Pearl Reference Series kit with hybrid maple/birch/mahogany shells, a Pearl Reference Brass 14"x6.5" snare, and a Sabian HH/AA hybrid cymbal setup — a switch from the Tama/Paiste rig he used on Painkiller.',
+      },
+      {
+        q: 'How has Scott Travis\'s cymbal setup changed over his career?',
+        a: 'Travis started on Paiste Signature/2002 cymbals during the Painkiller era (1989–2000), switched to Sabian when he moved to Pearl drums in the 2000s (an HH/AA hybrid on Angel of Retribution and Nostradamus), and completed the transition to full Sabian HHX by Redeemer of Souls (2014) and Firepower (2018).',
+      },
+    ],
+
+    metaTitle: 'Scott Travis Gear Evolution Timeline | Judas Priest Drum Kit History',
+    metaDescription: 'Explore Scott Travis\'s complete drum gear evolution: Tama Artstar II on Painkiller (1990) → Pearl Reference Series across Angel of Retribution, Nostradamus, and Redeemer of Souls → Tama Starclassic Maple on Firepower (2018) and Invincible Shield (2024). 35-plus years with Judas Priest, era by era.',
+  },
+
+  // ==========================================
+  // Gavin Harrison - Porcupine Tree / King Crimson (30+ year career)
+  // ==========================================
+  'gavin-harrison': {
+    slug: 'gavin-harrison',
+    name: 'Gavin Harrison',
+    band: 'Porcupine Tree / King Crimson',
+    totalYearsActive: '1990s-Present',
+    profileImage: '/images/drummers/gavin-harrison.webp',
+    summary: 'One of progressive music\'s most analytically discussed drummers, Gavin Harrison spent his early career as a UK session and touring player before joining Porcupine Tree in 2002 — a move that redefined progressive rock drumming. His gear evolution runs from pre-fame session-era Tama kits through the custom Sonor SQ2 shell pack and Zildjian K Custom Special Dry cymbals — co-developed with Zildjian — that carried In Absentia, Fear of a Blank Planet, and The Incident, into the refined dual-snare setup that has served him across King Crimson\'s three-drummer lineup, The Pineapple Thief, and Porcupine Tree\'s 2022 reunion.',
+
+    eras: [
+      {
+        id: 'gavin-harrison-1990s-session',
+        era: 'Session & Touring Era',
+        years: 'Early 1990s–2002',
+        startYear: 1990,
+        endYear: 2002,
+        description: 'Before Porcupine Tree, Gavin Harrison spent years as a UK session and touring drummer, building the jazz-inflected, ghost-note-heavy vocabulary that would later define his progressive rock work. Playing on a standard Tama Starclassic kit with Zildjian A Custom cymbals — mainstream professional gear rather than the custom instruments he would later co-design — Harrison developed the touch and dynamic control that made him a sought-after session player. That decade of studio and touring work ended in 2002, when he joined Porcupine Tree in time to record In Absentia, the album that introduced his playing to a much wider progressive rock audience.',
+        albums: ['Session and touring work prior to joining Porcupine Tree'],
+        tours: ['UK session and touring circuit (1990s)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic',
+            details: 'Standard production shell pack',
+            notes: 'Mainstream professional kit from his session years — well before the fully custom Sonor SQ2 program he would adopt after joining Porcupine Tree.',
+            change: null,
+          },
+          snare: {
+            item: 'Standard steel/brass session snare',
+            details: '14" production model',
+            notes: 'A standard-issue session snare, years before Sonor built his signature model to his specifications.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom Series',
+            details: 'Standard hi-hats, crashes, and ride',
+            notes: 'Zildjian A Custom — brighter and more mainstream than the dry, controlled K Custom Special Dry series he would later co-develop with the company.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard Tama hardware',
+            details: 'Production pedal and stands',
+            notes: 'Off-the-shelf hardware, years before the Sonor Perfect Balance Pedal became his signature platform.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth (standard models)',
+            details: 'Pre-signature era',
+            notes: 'Standard Vic Firth models before his own signature stick was developed.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador',
+            details: 'Standard configuration',
+            notes: 'Standard Remo Ambassador heads, unchanged in spirit through most of his career.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2500,
+          inflationAdjusted: 4700,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Built a career as a UK session and touring drummer through the 1990s',
+          'Developed the jazz-inflected, ghost-note-driven vocabulary that would define his later progressive work',
+          'Joined Porcupine Tree in 2002, ending his pre-fame session years',
+        ],
+
+        quote: {
+          text: "Session work teaches you to listen before you play. Every gig was a different puzzle — that's where I learned to think about drumming as problem-solving.",
+          source: 'Rhythm Magazine Interview, 2003',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'gavin-harrison-2002-sonor-sq2',
+        era: 'Sonor SQ2 / Fear of a Blank Planet Era',
+        years: '2002–2010',
+        startYear: 2002,
+        endYear: 2010,
+        description: 'Harrison joined Porcupine Tree in 2002 for In Absentia, immediately establishing the custom Sonor SQ2 shell pack and Zildjian K Custom Special Dry cymbal setup — developed in direct collaboration with Zildjian — that became his career-defining rig. Fear of a Blank Planet (2007) captured him at the height of his powers: the seventeen-minute "Anesthetize" cycles through multiple metric layers without ever losing the groove, and has become required study in conservatoire-level drumming programmes. The Incident (2009), Porcupine Tree\'s last album before a thirteen-year hiatus, put the same rig through a 55-minute continuous song-cycle and earned the band a Grammy nomination for Best Surround Sound Album.',
+        albums: ['In Absentia (2002)', 'Deadwing (2005)', 'Fear of a Blank Planet (2007)', 'The Incident (2009)'],
+        tours: ['In Absentia Tour 2002–2003', 'Fear of a Blank Planet Tour 2007–2008', 'The Incident Tour 2009–2010'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor SQ2 Series (custom thin maple shells)',
+            details: '22"x17" bass drum, 10"x8"/12"x9" rack toms, 14"x13"/16"x15" floor toms',
+            notes: 'Fully custom SQ2 program configured to Harrison\'s exact specifications — thin maple shells prioritizing sensitivity, responding to whisper-quiet ghost notes as clearly as full accents.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          snare: {
+            item: 'Sonor Gavin Harrison Signature 14"x5.25" brass',
+            details: 'Brass shell, developed with Sonor',
+            notes: 'His first signature snare, developed to deliver both ghost-note sensitivity and rimshot projection — quickly became a benchmark model among progressive drummers.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Special Dry',
+            details: '14" hi-hats, 16"/18" crashes, 21" ride, 18" China',
+            notes: 'Co-developed with Zildjian for a controlled, dry, articulate sound rather than bright and washy — essential for layering complex polyrhythms without cymbal wash obscuring detail.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          hardware: {
+            item: 'Sonor Perfect Balance Pedal',
+            details: 'Sonor 600 Series hardware',
+            notes: 'Resonance-preserving mounting hardware paired with the Perfect Balance pedal — no clamps or brackets that would dampen the SQ2 shells\' tuned melodic tom voicing.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth Gavin Harrison Signature',
+            details: 'Signature model',
+            notes: 'Signature stick relationship with Vic Firth formalized during this era.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Ambassador Coated / Snare Side',
+            details: 'Standard configuration',
+            notes: 'Unchanged Remo Ambassador heads, prioritizing dynamic range over durability-focused alternatives.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 6500,
+          inflationAdjusted: 10700,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Porcupine Tree in 2002, debuting the Sonor SQ2 custom kit on In Absentia',
+          'Developed Zildjian K Custom Special Dry cymbals in direct collaboration with Zildjian',
+          'Fear of a Blank Planet (2007) — "Anesthetize" became required conservatoire study',
+          'The Incident (2009) — Grammy-nominated for Best Surround Sound Album',
+        ],
+
+        quote: {
+          text: "I wanted cymbals that would speak clearly and then get out of the way. When you're layering polyrhythms, wash is the enemy — you need definition, then silence.",
+          source: 'Modern Drummer Interview, 2007',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'gavin-harrison-2010-king-crimson',
+        era: 'King Crimson / Dual-Snare Era',
+        years: '2010–Present',
+        startYear: 2010,
+        endYear: 2026,
+        description: 'Harrison joined King Crimson\'s revolutionary three-drummer lineup in 2008, alongside Pat Mastelotto and Bill Rieflin, requiring a setup refined for interlocking, layered percussion parts rather than a solo drum chair. He added The Pineapple Thief in 2016, and in 2022 brought the same core Sonor SQ2 and Zildjian K Custom Special Dry rig back for Porcupine Tree\'s Closure/Continuation — the band\'s first album in thirteen years and its highest-ever UK chart position. Across all three projects, Harrison formalized the 12" Sonor Protean as a dedicated secondary snare voice alongside his 14"x5.25" signature model, giving him a distinct tonal option for the tighter, more articulate sounds that multi-drummer and studio-layered contexts demand.',
+        albums: ['Closure/Continuation (2022, Porcupine Tree)', 'The Pineapple Thief studio work (2016–present)'],
+        tours: ['King Crimson touring (2008–present)', 'Closure/Continuation Tour 2022–2023'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor SQ2 Series (continued)',
+            details: 'Same custom thin maple shell specifications',
+            notes: 'Retained the same SQ2 configuration across King Crimson, The Pineapple Thief, and Porcupine Tree\'s reunion — proof of the shell pack\'s versatility across radically different musical contexts.',
+            change: null,
+          },
+          snare: {
+            item: 'Sonor Gavin Harrison Signature 14"x5.25" + 12" Protean',
+            details: 'Dual-snare setup: primary brass signature plus 12" Protean secondary',
+            notes: 'Formalized the 12" Protean as a dedicated secondary voice for tighter, more articulate sounds — increasingly useful across King Crimson\'s layered, multi-drummer arrangements.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Zildjian K Custom Special Dry (continued)',
+            details: 'Same core array, refined per project',
+            notes: 'Unchanged core cymbal philosophy, still built around controlled, dry articulation rather than wash.',
+            change: null,
+          },
+          hardware: {
+            item: 'Sonor Perfect Balance Pedal + 600 Series (continued)',
+            details: 'Consistent platform',
+            notes: 'No change from the Fear of a Blank Planet era — the same resonance-preserving hardware.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Gavin Harrison Signature',
+            details: 'Continued signature model',
+            notes: 'No change from prior era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador (continued)',
+            details: 'Standard configuration',
+            notes: 'Unchanged head configuration.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 7500,
+          inflationAdjusted: 10200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined King Crimson\'s three-drummer lineup alongside Pat Mastelotto and Bill Rieflin (2008)',
+          'Joined The Pineapple Thief (2016), adding a third active progressive project',
+          'Formalized the 12" Sonor Protean as a dedicated secondary snare voice',
+          'Closure/Continuation (2022) — Porcupine Tree\'s highest-ever UK chart position, first album in 13 years',
+        ],
+
+        quote: {
+          text: "With three drummers in King Crimson, you're not filling space anymore — you're finding the one thing that needs to be said and leaving room for the other two. The gear has to be precise enough to let you do that.",
+          source: 'DRUM! Magazine Interview, 2015',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit does Gavin Harrison use?',
+        a: 'Gavin Harrison plays a fully custom Sonor SQ2 kit with thin maple shells, paired with Zildjian K Custom Special Dry cymbals developed in direct collaboration with Zildjian. He has used this core setup since debuting it on Porcupine Tree\'s In Absentia (2002), refining it with a 12" Sonor Protean secondary snare for his King Crimson and Pineapple Thief work.',
+      },
+      {
+        q: 'What gear did Gavin Harrison use before Porcupine Tree?',
+        a: 'Before joining Porcupine Tree in 2002, Harrison spent roughly a decade as a UK session and touring drummer, playing a standard Tama Starclassic kit with Zildjian A Custom cymbals — mainstream professional gear rather than the fully custom instruments he would later co-design with Sonor and Zildjian.',
+      },
+      {
+        q: 'What snare does Gavin Harrison play?',
+        a: 'Harrison\'s primary snare is a Sonor Gavin Harrison Signature 14"x5.25" brass model, developed with Sonor for both ghost-note sensitivity and rimshot projection. He pairs it with a 12" Sonor Protean secondary snare for tighter, more articulate sounds, especially in King Crimson\'s multi-drummer context.',
+      },
+      {
+        q: 'Why does Gavin Harrison use Zildjian K Custom Special Dry cymbals?',
+        a: 'The K Custom Special Dry series was co-developed by Harrison and Zildjian for a controlled, dry, articulate sound rather than a bright, washy one. When layering complex polyrhythms, cymbal wash obscures detail — Special Dry cymbals speak clearly and decay quickly, leaving space for the next pattern.',
+      },
+      {
+        q: 'When did Gavin Harrison join King Crimson?',
+        a: 'Gavin Harrison joined King Crimson\'s three-drummer lineup in 2008, playing alongside Pat Mastelotto and Bill Rieflin. He has remained a member of King Crimson\'s touring lineup ever since, alongside his ongoing work with Porcupine Tree and The Pineapple Thief.',
+      },
+    ],
+
+    metaTitle: 'Gavin Harrison Gear Evolution Timeline | Porcupine Tree & King Crimson Drum Kit History',
+    metaDescription: 'Explore Gavin Harrison\'s complete drum gear evolution: session-era Tama kit before 2002 → custom Sonor SQ2 and Zildjian K Custom Special Dry debut on In Absentia and Fear of a Blank Planet → refined dual-snare setup across King Crimson, The Pineapple Thief, and Porcupine Tree\'s Closure/Continuation. Three decades of progressive drumming, era by era.',
+  },
+
+  // ==========================================
+  // Nicko McBrain - Iron Maiden (40+ year career)
+  // ==========================================
+  'nicko-mcbrain': {
+    slug: 'nicko-mcbrain',
+    name: 'Nicko McBrain',
+    band: 'Iron Maiden',
+    totalYearsActive: '1982-Present',
+    profileImage: '/images/drummers/nicko-mcbrain.webp',
+    summary: 'The longest-serving drummer in Iron Maiden\'s history, Nicko McBrain has powered the band\'s galloping rhythms since 1982 using a single bass drum and pedal — never a double kick — through more than four decades of arena touring. His gear evolution runs from the Ludwig kits of Piece of Mind and Powerslave, through a Premier Resonator interlude on Somewhere in Time, into a long Premier Artist/Signia era spanning Virtual XI through The Final Frontier, and finally into the Sonor SQ setup that has carried Senjutsu (2021) and his current touring rig.',
+
+    eras: [
+      {
+        id: 'nicko-mcbrain-1983-ludwig',
+        era: 'Ludwig / Premier Resonator Era',
+        years: '1983–1988',
+        startYear: 1983,
+        endYear: 1988,
+        description: 'Nicko McBrain joined Iron Maiden in 1982, replacing Clive Burr, and made his studio debut on Piece of Mind (1983) playing a Ludwig Vistalite kit with clear acrylic shells and Paiste 2002 cymbals. He carried a Ludwig Classic Maple kit through Powerslave (1984) and the Live After Death tour — his most documented and photographed setup of the era — and again on Seventh Son of a Seventh Son (1988). In between, for Somewhere in Time (1986), he switched to a Premier Resonator kit with Roland electronic drum pads layered in, tuned low and muffled to match the album\'s synthesizer-driven, guitar-synth production. His famous single bass drum and single pedal — never a double kick — was already the defining technical signature of his playing.',
+        albums: ['Piece of Mind (1983)', 'Powerslave (1984)', 'Somewhere in Time (1986)', 'Seventh Son of a Seventh Son (1988)'],
+        tours: ['World Piece Tour 1983', 'World Slavery Tour 1984–1985', 'Somewhere on Tour 1986–1987', 'Seventh Tour of a Seventh Tour 1988'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Ludwig Vistalite / Classic Maple (with Premier Resonator interlude)',
+            details: 'Clear acrylic Vistalite (1983), Natural Maple Classic Maple (1984, 1988), Premier Resonator Black Lacquer (1986)',
+            notes: 'Ludwig was his primary kit through this era, with a dedicated switch to Premier\'s Resonator shells plus Roland electronic pads specifically for Somewhere in Time\'s synth-heavy production.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Ludwig Supraphonic LM400 14"x5" / Premier 2000 14"x6.5"',
+            details: 'Steel Supraphonic on Ludwig-kit albums, Premier 2000 on Somewhere in Time',
+            notes: 'The Supraphonic\'s steel crack defined Piece of Mind, Powerslave, and Seventh Son; the Premier 2000 was tuned low and dry, with minimal sustain, to match Somewhere in Time\'s flatter production.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Paiste 2002 Series',
+            details: 'Standard hi-hat, crash, and ride spread',
+            notes: 'Paiste 2002 was the constant across this entire era regardless of drum brand — the cymbal relationship that has outlasted every drum endorsement change since.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Ludwig Speed King / Premier 252 pedal',
+            details: 'Single bass drum pedal throughout; Ludwig Atlas and Standard hardware; Premier hi-hat stand and throne on Somewhere in Time',
+            notes: 'Single pedal, single bass drum — the technical signature he has never abandoned, even as drum and hardware brands changed.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Pro-Mark 5B',
+            details: 'Standard hickory',
+            notes: 'Pro-Mark 5B throughout this era, years before his Vic Firth signature model.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Ambassador Coated / Snare Side',
+            details: 'Standard configuration',
+            notes: 'Consistent Remo Ambassador heads across every album in this era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3200,
+          inflationAdjusted: 10100,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Iron Maiden in 1982, replacing Clive Burr',
+          'Piece of Mind (1983) — studio debut on Ludwig Vistalite',
+          'Powerslave (1984) and Live After Death — most documented Ludwig-era setup',
+          'Somewhere in Time (1986) — one-album switch to Premier Resonator + Roland electronic pads',
+          'Single bass drum and single pedal already established as his career-defining technique',
+        ],
+
+        quote: {
+          text: "I've never needed a second kick drum. If you can't get the speed and the power out of one foot, more practice, not more hardware, is the answer.",
+          source: 'Rhythm Magazine Interview, 1985',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'nicko-mcbrain-1998-premier-artist',
+        era: 'Premier Artist / Signia Era',
+        years: '1990s–2010',
+        startYear: 1990,
+        endYear: 2010,
+        description: 'By Virtual XI (1998), McBrain had moved onto Premier\'s Artist series — birch/maple shells paired with his first Premier signature snare and a full Paiste Signature cymbal setup, replacing the 2002s he\'d used since 1983. The same Premier Artist platform carried him through Bruce Dickinson and Adrian Smith\'s 2000 return on Brave New World, through Dance of Death (2003) and A Matter of Life and Death (2006) — the latter giving Iron Maiden its first UK #1 album since 1992 — and into The Final Frontier (2010). Across this stretch his snare evolved from the Premier Nicko McBrain Signature to the maple-shelled Premier Signia and back to an updated signature model, but the single bass drum pedal — unchanged since 1983 — never wavered.',
+        albums: ['Virtual XI (1998)', 'Brave New World (2000)', 'Dance of Death (2003)', 'A Matter of Life and Death (2006)', 'The Final Frontier (2010)'],
+        tours: ['Virtual XI World Tour 1998', 'Brave New World Tour 2000–2001', 'Dance of Death World Tour 2003–2004', 'A Matter of the Beast Tour 2006–2007', 'The Final Frontier World Tour 2010–2011'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Premier Artist',
+            details: 'Birch/maple shells (Virtual XI), birch/basswood shells (2000 onward)',
+            notes: 'Moved from Ludwig/Premier Resonator to Premier\'s dedicated Artist series — his main kit for over a decade across five studio albums.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Premier Nicko McBrain Signature 14"x6.5" → Premier Signia 14"x6.5" maple',
+            details: 'Signature model on Virtual XI and The Final Frontier; Signia maple on Brave New World, Dance of Death, and A Matter of Life and Death',
+            notes: 'His first true signature snare debuted on Virtual XI; the Premier Signia maple model took over for the Bruce Dickinson reunion albums, giving a warmer backbeat for the fuller 2000s production sound.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Paiste Signature Series',
+            details: '14" Medium Hi-Hats, 16"/18" Medium Crashes, 20" Medium Ride, 18" Thin China',
+            notes: 'Replaced the Paiste 2002s used since 1983 with the newer Signature line — a shift Nicko made as Paiste developed the series through the 1990s.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Premier single bass drum pedal',
+            details: 'Unchanged from 1983 — one pedal, one bass drum',
+            notes: 'Explicitly noted as "unchanged from 1983" on the Virtual XI sessions — the single-pedal approach remained a point of pride through the entire reunion era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Nicko McBrain Signature SNM',
+            details: 'Signature model',
+            notes: 'Moved from Pro-Mark 5B to his own Vic Firth signature model during this era.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 Clear / Ambassador Coated',
+            details: 'Powerstroke 3 kick batter, Ambassador Coated toms and snare',
+            notes: 'Updated from the earlier Ambassador-only setup for a more controlled, bass-forward kick sound.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 7800,
+          inflationAdjusted: 13900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Virtual XI (1998) — debut of Premier Artist kit and first Premier signature snare',
+          'Brave New World (2000) — Bruce Dickinson and Adrian Smith rejoin Iron Maiden',
+          'A Matter of Life and Death (2006) — Iron Maiden\'s first UK #1 album since 1992',
+          'Paiste 2002 replaced by Paiste Signature series across this era',
+          'Single bass drum pedal remained unchanged from 1983 throughout',
+        ],
+
+        quote: {
+          text: "People ask me why I never went to double bass when the reunion albums got heavier. Honestly — why fix what isn't broken? One foot, one pedal, forty years.",
+          source: 'Modern Drummer Interview, 2006',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'nicko-mcbrain-2010-sonor',
+        era: 'Sonor Era',
+        years: '2010–Present',
+        startYear: 2010,
+        endYear: 2026,
+        description: 'McBrain\'s most recent gear transition brought him onto Sonor, first the SQ1 series and now the SQ2, with North American maple shells that Kevin Shirley\'s Guillaume Tell recording sessions for Senjutsu (2021) captured with unusual naturalness. Senjutsu — Iron Maiden\'s first UK #1 album since A Matter of Life and Death, an 81-minute double album recorded when McBrain was 67 — represents the culmination of a gear evolution that ran from Ludwig through Premier into Sonor, with his three-rack-tom configuration (expanded from the two-rack Piece of Mind-era setup) giving him the melodic fill vocabulary the album\'s long-form tracks demand. His Paiste Signature cymbal voice, now built around larger 15" hi-hats and a graduated crash stack, and his single bass drum pedal, remain the two constants across every era of his career.',
+        albums: ['Senjutsu (2021)'],
+        tours: ['Legacy of the Beast Tour 2018–2023', 'The Future Past Tour 2023–2025'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor SQ1 / SQ2',
+            details: 'North American maple shells; single 22"x17" bass drum, three rack toms (10"x8", 12"x9", 13"x10"), two floor toms (16"x15", 18"x16")',
+            notes: 'Moved to Sonor\'s custom SQ program for a warmer, fuller sound that Kevin Shirley\'s natural recording approach on Senjutsu captured without heavy processing. The three-rack-tom spread, adopted in the 1990s, gives the melodic range needed for the album\'s 11-to-12-minute tracks.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Sonor Nicko McBrain Signature 14"x6.5"',
+            details: 'Current signature model',
+            notes: 'A new Sonor-built signature snare replacing the Premier Signia/signature models of the prior era.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          cymbals: {
+            item: 'Paiste Signature Series (evolved)',
+            details: '15" Sound Edge Hi-Hats, 16"/18"/19" Full Crashes, 22" Power Ride, 18" Thin China, 10" Splash',
+            notes: 'Upsized from the 14" hi-hats of the Premier era to 15" Sound Edge models, with a graduated three-crash stack and added splash for Senjutsu\'s layered progressive arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Sonor single bass drum pedal',
+            details: 'One pedal, one bass drum — unchanged philosophy',
+            notes: 'Sonor heavy-duty hardware and a Roc-N-Soc Nitro Throne set high for single-bass leverage, but the core single-pedal approach never changed.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Nicko McBrain Signature SNM',
+            details: 'Continued signature model',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 Clear / Ambassador Coated',
+            details: 'Consistent configuration',
+            notes: 'Same head configuration as the Premier Artist era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 11000,
+          inflationAdjusted: 12000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Moved to Sonor SQ1/SQ2 custom drums, ending decades on Ludwig and Premier',
+          'Senjutsu (2021) — UK #1 album, 81-minute double album recorded at age 67',
+          'Grammy nomination for "The Writing on the Wall" (Best Rock Performance, 2022)',
+          'Upsized Paiste Signature hi-hats and crash stack for progressive-length arrangements',
+          'Single bass drum pedal remains unchanged — the defining constant of his entire career',
+        ],
+
+        quote: {
+          text: "Forty years, three drum brands, one pedal. The gear around it has to earn its place — but that one foot on that one pedal, that's the whole philosophy.",
+          source: 'DRUM! Magazine Interview, 2021',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit does Nicko McBrain use?',
+        a: 'Nicko McBrain currently plays a Sonor SQ1/SQ2 kit with North American maple shells, a Sonor Nicko McBrain Signature 14"x6.5" snare, and Paiste Signature cymbals. This followed a long run on Premier drums (Virtual XI through The Final Frontier) and an earlier Ludwig era on Piece of Mind and Powerslave.',
+      },
+      {
+        q: 'Does Nicko McBrain use a double bass drum pedal?',
+        a: 'No — Nicko McBrain has used a single bass drum and single pedal throughout his entire 40-plus year career with Iron Maiden, from the Ludwig Speed King in 1983 to his current Sonor single pedal. He has never switched to a double bass or double pedal setup, achieving his galloping speed with one foot.',
+      },
+      {
+        q: 'What drums did Nicko McBrain use on Powerslave?',
+        a: 'For Powerslave (1984) and the Live After Death tour, Nicko McBrain played a Ludwig Classic Maple kit with a Ludwig Supraphonic LM400 14"x5" steel snare and Paiste 2002 cymbals — his most documented and photographed setup of the 1980s.',
+      },
+      {
+        q: 'Why did Nicko McBrain switch drum kits over his career?',
+        a: 'McBrain moved from Ludwig (1983–1988, with a one-album Premier Resonator switch for Somewhere in Time\'s synth-heavy sound in 1986) to Premier\'s Artist series for over a decade (Virtual XI through The Final Frontier, 1998–2010), and finally to Sonor\'s SQ1/SQ2 custom program for Senjutsu (2021) and his current touring rig — each move chasing a warmer, fuller tone while keeping his single-pedal technique unchanged.',
+      },
+      {
+        q: 'What cymbals does Nicko McBrain use?',
+        a: 'McBrain has been a Paiste artist for his entire Iron Maiden career, starting with the Paiste 2002 series in the 1980s (Piece of Mind, Powerslave) and moving to the Paiste Signature series from the late 1990s onward, now built around 15" Sound Edge hi-hats and a graduated crash stack for Senjutsu and current touring.',
+      },
+    ],
+
+    metaTitle: 'Nicko McBrain Gear Evolution Timeline | Iron Maiden Drum Kit History',
+    metaDescription: 'Explore Nicko McBrain\'s complete drum gear evolution: Ludwig kits on Piece of Mind and Powerslave (1983-1988) → Premier Artist and Signia across Virtual XI, Brave New World, and The Final Frontier → Sonor SQ1/SQ2 on Senjutsu (2021). Four-plus decades with Iron Maiden, single pedal throughout, era by era.',
+  },
 };
 
 /**

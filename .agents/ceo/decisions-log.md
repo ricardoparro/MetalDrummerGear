@@ -1922,3 +1922,32 @@ Morning deep run. First full L1 snapshot available (gsc-watch-snapshot.md genera
 
 ---
 
+
+## 2026-07-01 22:30 — Cleared stale seo-proposal bank (25 issues): 5 closed as shipped-duplicates, 11 re-scoped, 20 promoted to ai-fix
+
+### Context (≤3 lines)
+Deep run. Founder inbox empty. Backlog was 26 (25–44 band, promote-sparingly). The entire untriaged `seo-proposal` bank turned out to be 25 issues all dated 2026-06-24/25 (~1 week stale) — nothing newer has been filed by the SEO Agent since. Two watchdog alerts (#3489) traced to a transient Claude weekly-quota exhaustion ~19:00–19:30 UTC hitting both CEO and Roadie simultaneously — both self-recovered on token reset; no code fix needed, false-alarm re: "Roadie shipped nothing" (7 PRs + merges happened earlier same day, verified via `gh pr list --state merged`).
+
+### Actions taken
+- **Duplicate sweep (new failure mode identified):** Because these proposals sat on hold for a week while newer batches shipped, several had been fully or partially implemented under different issue numbers. Verified via direct grep against `packages/frontend/data/*.js`, not just issue-title search. Found:
+  - **5 full duplicates → closed** (#2420 Nightmare/Portnoy, #2674 Eaten Back to Life/Mazurkiewicz, #2452 Saturday Night Wrist/Cunningham, #2545 Final Frontier+Book of Souls/McBrain, #2672 lick pages Harrison+Travis+Bostaph) — each cites the exact file+slug already shipped.
+  - **11 partial duplicates → re-scoped** (dropped the shipped item(s), retitled `[re-scoped from batch N]`, kept only confirmed-missing items): #2675, #2656, #2549, #2513, #2443, #2426, #2415, #2414, #2389, #2388, #2444. Note #2444 caught a subtler case: `alternative-metal-drummers` collides with the already-live `best-alternative-metal-drummers` (same topic, different slug) — a naming-convention near-dupe, not an exact-slug dupe.
+  - **9 clean → promoted as-is:** #2658, #2657, #2445, #2425, #2410, #2416, #2422, #2441, #2550.
+- **Delegated the systematic per-item file-grep check to a subagent** (16 batch issues) after manually confirming the pattern on 9 issues myself — kept the review grounded in actual data-file contents, not issue-title assumptions.
+- **L1/L2/L3 re-check:** gsc-watch-snapshot.md, indexation-snapshot.md, and llm-citations (#2211) are all still the 2026-06-29 snapshot (no new weekly run since last CEO pass) — no new wins/losses/gaps to log. Joey Jordison GSC content-gap queries (metrics.md flags 96/149 impr, <2% CTR) are already covered by closed fixes #3059/#2867/#2544/#3412 and mid-recovery per `learned-patterns.md`; no duplicate escalation filed. L2 comparative-list citation gap (fastest/best-death/most-innovative/thrash-ranked) already covered by closed #2945; awaits next weekly verifier run.
+
+### State delta
+- **Backlog: 26 → 46** (20 promotions, net of 5 closes which were never counted as backlog since ai-fix wasn't applied to them)
+- **seo-proposal idea bank: 25 untriaged → 0** (fully drained; root cause of the 2026-06-25 silence found — see Next Run #1)
+- **Watchdog #3489:** both alerts traced to transient rate-limit; expect auto-close on next passing check, no manual action taken.
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: all 25 triaged (0 remaining). ✅ GSC-gap: content-gap queries already covered by shipped fixes, no new escalation. ✅ Atomic split: oldest eligible ai-fix issues are the ones just promoted (all ≤3 deliverables, no split needed); held issues #1822/#1824/#1825/#1239-1241 unchanged, no new staleness signal. ✅ No over-filing (0 new ai-fix filed directly by CEO this run — all 20 were pre-existing proposals promoted). ✅ Decisions logged.
+
+### Next Run (13:00 UTC)
+1. **Root cause found for the 0-new-proposals silence:** SEO Agent workflow IS running fine (near-daily, mostly success) but has its own bank-capped gate — 2026-07-01 13:50 run logged "Open seo-proposal count = 78 total / 43 pure-unpromoted... BANK-CAPPED mandate, this run is audit-only." It was self-throttling on its own (higher) count than the CEO's. Since this run drained the pure-unpromoted bank to 0, expect the SEO Agent's next run to resume filing. Verify next run.
+2. Confirm watchdog #3489 auto-closed after the next clean CEO+Roadie run.
+3. Re-check L1/L2/L3 snapshots for a fresh weekly run (last one 2026-06-29 — overdue by 2+ days for weekly cadence).
+4. **Process learning:** proposals held >5 days at cap have measurable risk of becoming stale duplicates as newer batches ship. Consider whether prune-proposals.cjs's 21-day window is too long relative to how fast content ships — flag to `human-founder` only if this recurs.
+
+---

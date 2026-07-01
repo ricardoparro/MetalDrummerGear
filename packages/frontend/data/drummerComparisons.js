@@ -806,6 +806,49 @@ export const drummerComparisons = {
     ],
   },
 
+  // Issue #2847: SEO batch — Thrash/death legends and prog-death vs art-rock pairing
+  'gene-hoglan-vs-dave-lombardo': {
+    slug: 'gene-hoglan-vs-dave-lombardo',
+    title: 'Gene Hoglan vs Dave Lombardo',
+    metaTitle: 'Gene Hoglan vs Dave Lombardo — Thrash and Death Drumming Compared | MetalForge',
+    metaDescription: 'Gene "The Atomic Clock" Hoglan vs Slayer\'s Dave Lombardo — metronomic polyrhythmic precision vs raw thrash speed and feel. Two legends who redefined extreme drumming compared.',
+    category: 'thrash',
+    drummers: ['gene-hoglan', 'dave-lombardo'],
+    comparison: {
+      style: 'Gene Hoglan built his reputation on machine-like precision across Dark Angel, Death, and Testament — earning the nickname "The Atomic Clock" for timing so exact it feels programmed, even through brutal tempos and constantly shifting polyrhythms. Dave Lombardo pioneered the opposite approach with Slayer: raw, feral speed and aggression, groove-driven double kick, and a mid-tempo swagger that made *Reign in Blood* the most influential thrash record ever recorded.',
+      technique: 'Hoglan\'s polyrhythmic command lets him move fluidly between odd-time signatures and blast-beat sections without losing the pocket — a skill honed across Death\'s *Individual Thought Patterns* and Testament\'s technical thrash. Lombardo\'s technique is built on feel over metronome: his groove-locked double bass and thunderous snare work drive Slayer\'s riffs with visceral, almost punk aggression rather than clinical precision.',
+      gear: 'Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare, Sabian AAX cymbals, and Pearl Demon Drive double pedals engineered for his relentless double-bass runs. Lombardo plays Tama Starclassic Maple drums with a Tama S.L.P. 14x6.5" G-Maple snare, Paiste RUDE and 2002 Series cymbals, and a Tama Iron Cobra 900 double pedal.',
+      influence: 'Hoglan influenced technical death and progressive thrash drummers worldwide — his polyrhythmic vocabulary shaped how extreme metal drummers think about time signatures. Lombardo essentially invented thrash metal drumming with Slayer, and his groove-based double bass approach remains the template every thrash drummer studies.',
+    },
+    verdict: 'Gene Hoglan and Dave Lombardo represent two poles of extreme metal drumming excellence. Hoglan is the metronome — polyrhythmic, precise, and technically boundless across four decades and 20+ bands. Lombardo is the originator — raw speed and groove that birthed thrash metal drumming itself. Both are irreplaceable: one earned his nickname through mechanical perfection, the other through primal feel no machine could replicate.',
+    faqs: [
+      { q: 'Who is more technical: Gene Hoglan or Dave Lombardo?', a: 'Gene Hoglan is widely considered the more technically complex player, known for polyrhythmic mastery and odd-time signatures that earned him the nickname "The Atomic Clock." Dave Lombardo is renowned for raw speed, groove, and feel rather than technical complexity.' },
+      { q: 'What kits do Gene Hoglan and Dave Lombardo play?', a: 'Hoglan plays a Pearl Reference Pure kit with Sabian AAX cymbals. Lombardo plays a Tama Starclassic Maple kit with Paiste RUDE and 2002 Series cymbals.' },
+      { q: 'Who is faster: Gene Hoglan or Dave Lombardo?', a: 'Both are elite for their eras. Hoglan\'s blast beats and double bass runs are metronomically precise at extreme tempos, while Lombardo pioneered the speed and aggression that defined thrash metal\'s Reign in Blood era.' },
+    ],
+  },
+
+  'martin-lopez-vs-gavin-harrison': {
+    slug: 'martin-lopez-vs-gavin-harrison',
+    title: 'Martin Lopez vs Gavin Harrison',
+    metaTitle: 'Martin Lopez vs Gavin Harrison — Prog-Death vs Art-Rock Drumming | MetalForge',
+    metaDescription: 'Opeth\'s Martin Lopez vs Porcupine Tree\'s Gavin Harrison — jazz-death fusion vs polyrhythmic art-rock precision. Two progressive drumming legends with strikingly different approaches compared.',
+    category: 'progressive',
+    drummers: ['martin-lopez', 'gavin-harrison'],
+    comparison: {
+      style: 'Martin Lopez brought jazz finesse to progressive death metal during Opeth\'s classic era — his drumming on *Blackwater Park* and *Deliverance* emphasized feel, ghost notes, and melodic tom work over pure technicality, giving Opeth\'s crushing riffs an unusually musical foundation. Gavin Harrison built his reputation on meticulous polyrhythmic precision with Porcupine Tree and King Crimson — his playing is defined by intricate ghost-note layering and the ability to make impossibly complex odd-time signatures feel like natural, breathing grooves.',
+      technique: 'Lopez\'s jazz-influenced approach favors dynamic restraint and creative hi-hat work, weaving improvisational feel into death metal\'s heavier passages — a style built on musicality rather than raw speed. Harrison specializes in linear drumming and polyrhythmic layering, using deep musical instinct to construct grooves that sound simple on the surface but reveal staggering complexity on close listen.',
+      gear: 'Lopez plays a Noble & Cooley Walnut kit with a Noble & Cooley Solid Shell 14x6" Maple snare, Zildjian K Dark Series cymbals, and an Axis Percussion double pedal. Harrison plays a Sonor SQ2 Series kit with his signature Sonor 12x5" & 14x5.25" snares, Zildjian K Custom Special Dry cymbals, and a Sonor Perfect Balance pedal.',
+      influence: 'Lopez\'s tenure defined Opeth\'s most celebrated albums and proved progressive death metal could be as musical as it was heavy — his tasteful, jazz-informed style influenced a generation of progressive metal drummers to prioritize feel over flash. Harrison elevated Porcupine Tree, King Crimson, and The Pineapple Thief to art-rock\'s technical pinnacle, earning multiple Modern Drummer Reader Poll wins and a reputation as the prog drummer\'s drummer.',
+    },
+    verdict: 'Martin Lopez and Gavin Harrison approach progressive drumming from opposite directions. Lopez channels jazz feel into crushing death metal, making Opeth\'s Blackwater Park era feel as musical as it is heavy. Harrison channels obsessive polyrhythmic precision into art-rock, making Porcupine Tree\'s and King Crimson\'s complexity sound effortless. One brings improvisational soul to metal; the other brings mathematical elegance to rock. Both proved progressive drumming doesn\'t require sacrificing musicality for complexity.',
+    faqs: [
+      { q: 'Who is more technical: Martin Lopez or Gavin Harrison?', a: 'Gavin Harrison is generally considered the more technically complex player, renowned for polyrhythmic layering and odd-time mastery. Martin Lopez prioritizes feel and musicality, though his jazz-influenced ghost-note work during Opeth\'s Blackwater Park era is equally respected.' },
+      { q: 'What kits do Martin Lopez and Gavin Harrison play?', a: 'Lopez plays a Noble & Cooley Walnut kit with Zildjian K Dark Series cymbals. Harrison plays a Sonor SQ2 Series kit with Zildjian K Custom Special Dry cymbals.' },
+      { q: 'Which drummer is more associated with jazz influence?', a: 'Both incorporate jazz into heavy contexts, but differently — Lopez brings jazz feel and dynamic restraint to progressive death metal with Opeth, while Harrison brings jazz-informed polyrhythmic precision to progressive rock with Porcupine Tree and King Crimson.' },
+    ],
+  },
+
   // Issue #2725: SEO batch 21 — young-gun-who-replaced-a-legend narrative
   'eloy-casagrande-vs-jay-weinberg': {
     slug: 'eloy-casagrande-vs-jay-weinberg',

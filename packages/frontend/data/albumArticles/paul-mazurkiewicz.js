@@ -1745,6 +1745,403 @@ export const articles = {
       "title": "The Quiet Bridge to Kill",
       "content": "\"Gore Obsessed\" rarely tops lists of Cannibal Corpse's essential albums, overshadowed by the Fisher-era arrival of \"Bloodthirst\" on one side and the widely celebrated \"Kill\" two albums later. But as a document of Paul Mazurkiewicz's gear and technique at a pivotal consolidation point, it deserves more attention than it typically receives. The Pearl Reference and Meinl relationships that define his modern setup were, by 2002, no longer developing — they were established. The Pearl Eliminator pedal that powers his blast beat work today was a settled part of his rig. And the dual fluency between extreme-tempo blasting and heavy mid-tempo groove that the album's compositions demanded gave him a technical workout that directly informed the more celebrated playing on Kill four years later.\n\nNeil Kernon's Sonic Ranch production gave the record a sound distinct from both the dry Tampa attack of the Morrisound era and the denser British weight of Bloodthirst — a third sonic identity in as many albums, reflecting a band still actively searching for its definitive studio environment even as its lineup and gear had stabilized.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — the Fisher-era establishment record\n- **The earlier transitional chapter**: [Gallery of Suicide drum setup (1998)](/articles/gallery-of-suicide-drum-setup) — the last Morrisound session\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
+  },
+  "kill-drum-setup": {
+    "slug": "kill-drum-setup",
+    "albumTitle": "Kill",
+    "artist": "Cannibal Corpse",
+    "drummer": "Paul Mazurkiewicz",
+    "drummerId": 51,
+    "relatedDrummerSlug": "paul-mazurkiewicz",
+    "band": "Cannibal Corpse",
+    "bands": ["Cannibal Corpse"],
+    "year": 2006,
+    "genre": "Death Metal",
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "studio": "Mana Recording Studios, St. Petersburg, Florida",
+    "producer": "Erik Rutan",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Kill (2006)",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's Kill (2006). Paul Mazurkiewicz's mature Pearl Reference and Meinl rig, Erik Rutan's Mana Recording Studios production, and the 'return to brutality' album that reunited Rob Barrett with the band.",
+    "seoKeywords": [
+      "kill drums",
+      "paul mazurkiewicz kill drum setup",
+      "cannibal corpse kill drummer",
+      "cannibal corpse kill gear",
+      "erik rutan cannibal corpse production",
+      "mana recording studios cannibal corpse",
+      "make them suffer drums",
+      "death metal 2006 drum setup"
+    ],
+    "ogImage": "/images/albums/kill-drums.webp",
+    "intro": {
+      "title": "Return to Brutality: Mazurkiewicz on Cannibal Corpse's Tenth Album",
+      "content": "Released on March 21, 2006 through Metal Blade Records, \"Kill\" is Cannibal Corpse's tenth studio album and one of the most decisive turning points in the band's catalog. After the more sprawling, dual-mode songwriting of \"The Wretched Spawn\" (2004) and \"Gore Obsessed\" (2002), Kill stripped the band's approach back down to something more direct and relentlessly aggressive — a shift widely described by fans and critics as a \"return to brutality\" after the band's more experimental mid-career stretch. It remains one of the most frequently cited high points of Paul Mazurkiewicz's three-decade career behind the kit.\n\nThe album also marked a significant lineup shift. Guitarist Jack Owen, who had played on every Cannibal Corpse record since The Bleeding (1994), departed after touring for The Wretched Spawn, and Rob Barrett — who had previously handled rhythm guitar duties on The Bleeding (1994) and Vile (1996) before leaving to join Six Feet Under — rejoined the band for Kill. That return, alongside the same core rhythm section of George \"Corpsegrinder\" Fisher, Pat O'Brien, Alex Webster, and Mazurkiewicz, gave the record a chemistry that fans and the band itself have repeatedly singled out in retrospectives.\n\nKill was also the first Cannibal Corpse album produced by Erik Rutan — the Hate Eternal guitarist and former Morbid Angel member who would go on to produce every subsequent Cannibal Corpse studio album, and who eventually joined the band outright as lead guitarist in 2020. Recorded and mixed at Rutan's Mana Recording Studios in St. Petersburg, Florida between October and December 2005, Kill introduced a punishing, low-tuned sonic identity — it was the first Cannibal Corpse album tracked in G# standard tuning — that gave Mazurkiewicz's drumming a heavier low-end foundation to sit against.\n\nCommercially, Kill became just the second Cannibal Corpse album to chart on the Billboard 200, debuting at #170 in its first week — a modest position by mainstream standards but a notable marker for an uncompromising death metal band a decade after Vile's original 1996 breakthrough. This article breaks down the Pearl Reference and Meinl configuration Mazurkiewicz brought into the Mana Recording Studios sessions, Erik Rutan's production approach, and the technical character of an album routinely ranked among the band's very best.",
+      "keyPoints": [
+        "Cannibal Corpse's tenth studio album (March 21, 2006) — Metal Blade Records — widely regarded as a \"return to brutality\" after the more sprawling Wretched Spawn (2004) and Gore Obsessed (2002)",
+        "First album produced by Erik Rutan, recorded and mixed at his Mana Recording Studios in St. Petersburg, Florida, October–December 2005",
+        "First Cannibal Corpse album tracked in G# standard tuning",
+        "Marked the return of guitarist Rob Barrett (previously on The Bleeding, 1994, and Vile, 1996), replacing the departed Jack Owen",
+        "Lineup: George \"Corpsegrinder\" Fisher, Pat O'Brien, Rob Barrett, Alex Webster, Paul Mazurkiewicz",
+        "Became the second Cannibal Corpse album to chart on the Billboard 200, debuting at #170",
+        "Closing track \"A Skull Full of Maggots\" is a re-recording of a song from the band's 1990 debut, Eaten Back to Life"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference at Full Maturity: The Kill-Era Configuration",
+      "brand": "Pearl",
+      "model": "Pearl Reference (mature endorsement configuration, 2006)",
+      "finish": "Custom finish (Pearl endorsement era)",
+      "config": {
+        "bassdrums": ["22\" x 18\" Bass Drum (x2 — double kick)"],
+        "toms": ["10\" x 9\" Rack Tom", "12\" x 10\" Rack Tom"],
+        "floorToms": ["16\" x 14\" Floor Tom", "18\" x 16\" Floor Tom"],
+        "shells": "Maple/African mahogany hybrid — Pearl Reference-tier construction"
+      },
+      "description": "By Kill, Paul Mazurkiewicz's Pearl Reference setup was no longer transitioning toward his modern rig — it was his modern rig. The configuration first solidified on Gore Obsessed (2002) carried forward essentially unchanged: dual 22\" x 18\" kicks and a four-tom layout across two rack toms and two floor toms, built from Pearl Reference-tier maple/African mahogany hybrid shells.\n\nWhat changed on Kill was less the hardware than the demand placed on it. Erik Rutan's Mana Recording Studios sessions, tracked in G# standard tuning for the first time in the band's history, gave the guitars a heavier low-end presence than any prior Cannibal Corpse record, and Mazurkiewicz's kit had to be tuned to sit against that weight without getting buried. Reviewers and fans alike have pointed to Kill's low-end punch — kick drums that read as genuinely heavy rather than just fast — as one of the album's defining sonic traits.\n\nThe stripped-down, direct songwriting on Kill also meant the four-tom layout got used differently than on the more compositionally sprawling Gore Obsessed: fewer intricate fill passages, more direct, momentum-driven tom work built to punctuate riffs rather than showcase technical range.",
+      "notes": [
+        "Pearl Reference-tier maple/African mahogany hybrid shells — the fully mature, present-day configuration",
+        "Dual 22\" x 18\" kicks and four-tom layout carried forward unchanged from Gore Obsessed (2002)",
+        "Tuned to sit under the band's first-ever G# standard guitar tuning without losing low-end presence",
+        "Fill vocabulary geared toward Kill's more direct, riff-driven songwriting rather than technical showcasing"
+      ],
+      "estimatedValue": "$3,200–5,800 (2006 era, fully mature Reference configuration)"
+    },
+    "snare": {
+      "title": "The Free-Floating Steel Snare, Settled",
+      "brand": "Pearl",
+      "model": "Pearl Free-Floating steel-shell snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel shell construction",
+      "description": "The 14\" x 6.5\" Pearl Free-Floating steel-shell snare that had been developing since Bloodthirst (1999) and moving toward its final form on Gore Obsessed (2002) was, by Kill, a fully settled part of Mazurkiewicz's rig — the same core snare voice that anchors his modern setup today. The steel shell's bright, cutting overtone profile gave the drum enough presence to stay legible against Erik Rutan's heavier, low-tuned guitar mix, while the free-floating design isolated the shell from the extra rim and lug stress that come with the aggressive backbeat playing Kill's more direct songwriting demanded.\n\nRutan's mix favored a forward, present snare position — consistent with the priority every Cannibal Corpse producer has placed on keeping Mazurkiewicz's backbeat legible — but with a noticeably punchier low-mid character than Neil Kernon's Sonic Ranch capture, matching the album's overall push toward heavier, more physical drum tones.",
+      "tuningSetting": "Medium-high tension for cut and punch against the G#-tuned guitar mix",
+      "heads": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)",
+      "estimatedValue": "$400–700 (2006 era) / $400–700 (equivalent model today)"
+    },
+    "cymbals": {
+      "title": "Meinl, Fully Established: The Kill-Era Arsenal",
+      "brand": "Meinl",
+      "series": "Meinl Byzance (established endorsement, 2006)",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Fast, tight response built for Kill's more direct, high-tempo material"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 16\" Crash",
+          "position": "Left crash",
+          "notes": "Quick accent for riff punctuation"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash for the album's heavier, mid-tempo mosh sections"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl 20\" Ride",
+          "position": "Right",
+          "notes": "Bell accents between blast passages"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" China",
+          "position": "Over rack toms",
+          "notes": "Trashy riff-transition accent, a Mazurkiewicz signature since the band's earliest records"
+        }
+      ],
+      "description": "By Kill, the Meinl endorsement that had been developing since Bloodthirst (1999) and firmly established by Gore Obsessed (2002) needed no further evolution — it was the settled, primary cymbal setup on the record. Meinl's hand-hammered bronze construction gave Mazurkiewicz's cymbals the fast attack and controlled decay to stay articulate against the heavier, G#-tuned guitar mix, while retaining enough body to carry Kill's more direct, momentum-driven arrangements.\n\nThe 18\" China remained a defining accent in Mazurkiewicz's vocabulary, marking the riff transitions that give Cannibal Corpse's songwriting its percussive punctuation — a role it has played consistently across every era of his career, now voiced through a mature Meinl setup rather than the pre-endorsement Paiste and Zildjian cymbals of the band's first decade.\n\nErik Rutan's mix gave the cymbals a present but controlled position, keeping wash from blurring the faster, blast-driven passages that define Kill's more stripped-down songwriting approach.",
+      "estimatedValue": "$1,500–2,600 total (established Meinl endorsement configuration, 2006)"
+    },
+    "hardware": {
+      "title": "The Eliminator Era, Refined",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Double Bass Pedal",
+          "notes": "Fully settled part of Mazurkiewicz's rig since the early 2000s",
+          "description": "By Kill, the Pearl Eliminator double bass pedal was a completely settled, primary piece of Mazurkiewicz's setup, unchanged in principle from the configuration documented on Gore Obsessed (2002). The Eliminator's interchangeable cam system let him dial in the foot response needed for Kill's more direct, momentum-driven double-bass work — less about alternating between blast and groove modes, as on Gore Obsessed, and more about sustained, locomotive drive."
+        },
+        {
+          "type": "Electronic Triggers",
+          "brand": "ddrum",
+          "model": "ddrum Acoustic Pro Triggers (live context)",
+          "notes": "Continued use in live performance; studio tracking on Kill remained acoustic"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Paul Mazurkiewicz Signature",
+          "notes": "The signature stick model, in active development around the Gore Obsessed era, was an established part of his setup by Kill"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)"
+      }
+    },
+    "sound": {
+      "title": "Erik Rutan at Mana Recording Studios: A New Production Partnership Begins",
+      "content": "\"Kill\" introduced Cannibal Corpse to the producer who would go on to define the band's sound for the next two decades. Erik Rutan — guitarist and vocalist for Hate Eternal, formerly of Morbid Angel — had built a reputation as a producer of punishing, technically precise death metal, and his Mana Recording Studios in St. Petersburg, Florida gave the band a fourth distinct recording environment across four consecutive albums, after Morrisound, Skyclad, and Sonic Ranch.\n\n**Rutan's Approach:**\nWhere Neil Kernon's Sonic Ranch production on Gore Obsessed balanced extreme-tempo clarity against mid-tempo weight, Rutan's Mana sessions pushed for maximum low-end punishment across the board — a natural fit for an album tracked in the band's first-ever G# standard tuning. Contemporary reviews consistently highlighted Kill's heavier, more physical drum and guitar tones relative to the band's prior four albums.\n\n**The Mana Recording Studios Environment:**\nRecorded and mixed between October and December 2005, the Mana sessions gave Rutan direct hands-on control over both performance and mix — a producer who was himself an accomplished death metal musician shaping the record from inside the genre's technical demands rather than as an outside engineer.\n\n**A New Standard-Bearer:**\nKill set the template Rutan would carry through every subsequent Cannibal Corpse album, right up through his eventual move from producer to full-time band member in 2020. The punishing low-end weight and precise articulation established here became the sonic identity most fans associate with the modern era of the band.",
+      "keyTechniques": [
+        "Erik Rutan production at his own Mana Recording Studios, St. Petersburg, Florida — the band's fourth studio environment in four albums",
+        "First Cannibal Corpse album tracked in G# standard tuning",
+        "Mix built for maximum low-end punishment, a departure from the more dynamically split approach of Gore Obsessed",
+        "Recorded and mixed October–December 2005",
+        "Established a producer relationship that would define every subsequent Cannibal Corpse album"
+      ]
+    },
+    "technique": {
+      "title": "Direct and Relentless: Mazurkiewicz's Return-to-Brutality Playing",
+      "content": "\"Kill\" is frequently cited by longtime fans and critics as a high-water mark in Paul Mazurkiewicz's recorded output, precisely because of how directly it plays to his core strengths. Where Gore Obsessed and The Wretched Spawn asked him to move fluidly between extreme-tempo blasting and complex mid-tempo grooves within the same songs, Kill's more stripped-down, riff-forward songwriting gave him room to lock into pure, sustained locomotive drive.\n\n**Locomotive Drive at Full Force:**\nThe defining technical trait of Kill is momentum. Tracks like \"Make Them Suffer\" and \"Necrosadistic Warning\" build around relentless, sustained double-bass patterns rather than the tempo-shifting dynamics of the band's more compositionally ambitious mid-2000s material — a return to the more singular attack that defined the Morrisound era, now delivered with two decades of additional technical refinement.\n\n**Conventional Grip Meets a Heavier Mix:**\nMazurkiewicz's traditional grip technique, fully mature by this point in his career, had to adapt to Erik Rutan's heavier, G#-tuned mix — playing with the same precision as ever while cutting through a denser low-end than any prior Cannibal Corpse record.\n\n**Bridging Two Eras:**\nThe closing track, \"A Skull Full of Maggots\" — a re-recording of a song from the band's 1990 debut, Eaten Back to Life — is a direct technical bookend, letting listeners hear Mazurkiewicz's original 1990 performance philosophy reinterpreted with sixteen additional years of refinement, on far superior modern gear.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the consolidation record that preceded Kill\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig this album helped define\n- [Paul Mazurkiewicz vs. Pete Sandoval](/compare/paul-mazurkiewicz-vs-pete-sandoval) — how his locomotive approach compares to Morbid Angel's blast-beat pioneer"
+    },
+    "faq": [
+      {
+        "question": "What kit did Paul Mazurkiewicz use on Kill?",
+        "answer": "On Kill (2006), Paul Mazurkiewicz played his fully mature Pearl Reference kit — dual 22-inch x 18-inch kick drums, a four-tom layout (two rack toms, two floor toms) in maple/African mahogany hybrid shells, and his signature 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl cymbal setup and Pearl Eliminator double bass pedal, both fully established since Gore Obsessed (2002), rounded out a configuration that is essentially identical to his modern rig."
+      },
+      {
+        "question": "Who produced Kill and where was it recorded?",
+        "answer": "Kill was produced by Erik Rutan — guitarist and vocalist of Hate Eternal, formerly of Morbid Angel — at his own Mana Recording Studios in St. Petersburg, Florida, recorded and mixed between October and December 2005. It was the first of what would become a long-running Cannibal Corpse/Rutan production partnership; Rutan produced every subsequent Cannibal Corpse studio album and eventually joined the band as lead guitarist in 2020."
+      },
+      {
+        "question": "Why is Kill called Cannibal Corpse's 'return to brutality'?",
+        "answer": "Kill (2006) is widely described as a return to brutality because it stripped the band's songwriting back down to a more direct, riff-driven, relentlessly aggressive approach after the more dynamically varied, dual-mode material on The Wretched Spawn (2004) and Gore Obsessed (2002). It was also the first Cannibal Corpse album tracked in G# standard tuning, giving it a heavier low-end than any prior record, and marked the return of guitarist Rob Barrett to the band's lineup."
+      },
+      {
+        "question": "Did Kill chart on the Billboard 200?",
+        "answer": "Yes. Kill debuted at #170 on the Billboard 200 in the week following its March 21, 2006 release, making it just the second Cannibal Corpse album to chart on the Billboard 200 after Vile's 1996 debut. It was a modest chart position by mainstream standards, but a meaningful marker for an uncompromising death metal band a decade into its recording career."
+      },
+      {
+        "question": "What is the significance of 'A Skull Full of Maggots' on Kill?",
+        "answer": "\"A Skull Full of Maggots\" closes Kill (2006) as a re-recording of a song originally released on Cannibal Corpse's 1990 debut, Eaten Back to Life. It gives listeners a direct point of comparison between Paul Mazurkiewicz's earliest recorded drumming and his fully mature, sixteen-years-later playing on far more developed Pearl Reference and Meinl gear."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "gore-obsessed-drum-setup",
+      "evisceration-plague-drum-setup",
+      "tomb-of-the-mutilated-drum-setup",
+      "paul-mazurkiewicz-drum-setup"
+    ],
+    "relatedDrummers": [51],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "death-metal-drummers",
+      "best-metal-double-kick-technique"
+    ],
+    "conclusion": {
+      "title": "The High Point of the Rutan Era's Opening Chapter",
+      "content": "\"Kill\" endures as one of the most celebrated albums in Cannibal Corpse's catalog precisely because it distilled everything the band had been building toward across the Fisher-era records into something more direct and immediate. Paul Mazurkiewicz's Pearl Reference and Meinl rig — fully mature by this point, no longer developing but simply performing — gave him the tools to deliver some of the most relentlessly locomotive drumming of his career, and Erik Rutan's Mana Recording Studios production established a punishing new sonic identity that would define the band for the next two decades.\n\nThe return of Rob Barrett, the shift to G# standard tuning, and the beginning of the Rutan production partnership make Kill a genuine inflection point in the band's history — one where gear, lineup, and songwriting all realigned at once, with Mazurkiewicz's playing as the connective thread running through it.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the pre-Kill consolidation record\n- **The successor**: [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — Rutan's second Mana Recording Studios session\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+    }
+  },
+  "evisceration-plague-drum-setup": {
+    "slug": "evisceration-plague-drum-setup",
+    "albumTitle": "Evisceration Plague",
+    "artist": "Cannibal Corpse",
+    "drummer": "Paul Mazurkiewicz",
+    "drummerId": 51,
+    "relatedDrummerSlug": "paul-mazurkiewicz",
+    "band": "Cannibal Corpse",
+    "bands": ["Cannibal Corpse"],
+    "year": 2009,
+    "genre": "Death Metal",
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "studio": "Mana Recording Studios, St. Petersburg, Florida",
+    "producer": "Erik Rutan",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's Evisceration Plague (2009)",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's Evisceration Plague (2009). Paul Mazurkiewicz's Pearl Reference and Meinl rig, Erik Rutan's second Mana Recording Studios production, and the band's highest Billboard 200 debut to that point.",
+    "seoKeywords": [
+      "evisceration plague drums",
+      "paul mazurkiewicz evisceration plague drum setup",
+      "cannibal corpse evisceration plague drummer",
+      "cannibal corpse evisceration plague gear",
+      "erik rutan cannibal corpse production",
+      "mana recording studios cannibal corpse",
+      "evisceration plague title track drums",
+      "death metal 2009 drum setup"
+    ],
+    "ogImage": "/images/albums/evisceration-plague-drums.webp",
+    "intro": {
+      "title": "A New Technical Peak: Mazurkiewicz on Cannibal Corpse's Eleventh Album",
+      "content": "Released on February 3, 2009 through Metal Blade Records, \"Evisceration Plague\" is Cannibal Corpse's eleventh studio album and the direct follow-up to \"Kill\" (2006) — widely considered one of the strongest records of the band's mid-career run. Produced once again by Erik Rutan at his Mana Recording Studios in St. Petersburg, Florida, Evisceration Plague continued the low-tuned, punishing sonic identity Rutan and the band established on Kill, while pushing Paul Mazurkiewicz's drumming to what several contemporary critics singled out as a new technical peak.\n\nThe same five-piece lineup that recorded Kill returned intact: George \"Corpsegrinder\" Fisher, Pat O'Brien, Rob Barrett, Alex Webster, and Mazurkiewicz — giving the band two consecutive albums with a stable roster for the first time since the earlier Fisher-era run that recorded Gallery of Suicide (1998) through Gore Obsessed (2002). That continuity, paired with a second consecutive session in Rutan's own studio, let the band refine rather than reinvent the approach that had made Kill such a well-received comeback.\n\nEvisceration Plague became Cannibal Corpse's highest-charting album to that point, entering the Billboard 200 at #66 on first-week sales of roughly 9,600 copies — more than double the chart position Kill had managed three years earlier. AllMusic's Greg Prato awarded the record 3.5 out of 5 stars, praising its \"metronome-like precision drumming, razor-sharp riffing\" and singling out the eight-minute-plus title track — the fifth Cannibal Corpse album to feature a title track, and the subject of an official music video — as a highlight. Contemporary reviews repeatedly cited Mazurkiewicz's playing specifically, describing his work on the record as his most technically accomplished performance to date, built on some of the fastest and most controlled blast-beat passages of his career.\n\nThis article breaks down the Pearl Reference and Meinl rig Mazurkiewicz brought into the second Mana Recording Studios session, Erik Rutan's production on the album, and the technical character of a record that pushed his drumming to a new level of precision.",
+      "keyPoints": [
+        "Cannibal Corpse's eleventh studio album (February 3, 2009) — Metal Blade Records — the direct follow-up to Kill (2006)",
+        "Second consecutive album produced by Erik Rutan at his Mana Recording Studios, St. Petersburg, Florida",
+        "Same five-piece lineup as Kill — Fisher, O'Brien, Barrett, Webster, Mazurkiewicz — the first back-to-back stable lineup since the Gallery of Suicide–Gore Obsessed run",
+        "Cannibal Corpse's highest Billboard 200 debut to that point: #66, on roughly 9,600 first-week copies sold",
+        "AllMusic awarded the album 3.5/5 stars; the title track is the fifth in the band's catalog and received an official music video",
+        "Contemporary reviews widely cited Mazurkiewicz's performance on the record as his most technically accomplished to date"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference, Refined: The Evisceration Plague Configuration",
+      "brand": "Pearl",
+      "model": "Pearl Reference (mature endorsement configuration, 2009)",
+      "finish": "Custom finish (Pearl endorsement era)",
+      "config": {
+        "bassdrums": ["22\" x 18\" Bass Drum (x2 — double kick)"],
+        "toms": ["10\" x 9\" Rack Tom", "12\" x 10\" Rack Tom"],
+        "floorToms": ["16\" x 14\" Floor Tom", "18\" x 16\" Floor Tom"],
+        "shells": "Maple/African mahogany hybrid — Pearl Reference-tier construction"
+      },
+      "description": "Mazurkiewicz's Pearl Reference setup on Evisceration Plague is functionally identical to the configuration documented on Kill three years earlier — dual 22\" x 18\" kicks, a four-tom layout across two rack toms and two floor toms, built from Pearl Reference-tier maple/African mahogany hybrid shells. With the gear itself fully settled, the second Mana Recording Studios session let Erik Rutan and the band focus entirely on performance rather than dialing in a new sound.\n\nWhat distinguishes Evisceration Plague is less the hardware than what Mazurkiewicz did with it. Contemporary reviews consistently singled out the speed and control of his blast-beat work on this record specifically — playing widely described as his fastest and most precise to date, sustained across a set of songs built to showcase exactly that kind of technical extremity.\n\nRutan's returning production ear meant the kit was tuned with the same low-end priorities established on Kill, giving the drums enough weight to sit against the band's now-standard G# tuning while retaining the attack needed for the album's most extreme blast passages.",
+      "notes": [
+        "Pearl Reference-tier maple/African mahogany hybrid shells — unchanged from the Kill configuration",
+        "Dual 22\" x 18\" kicks and four-tom layout carried forward from Kill (2006)",
+        "Tuned for maximum low-end weight against the band's now-standard G# guitar tuning",
+        "Widely cited by contemporary critics as the setting for Mazurkiewicz's fastest, most precise blast-beat playing to date"
+      ],
+      "estimatedValue": "$3,200–5,800 (2009 era, fully mature Reference configuration)"
+    },
+    "snare": {
+      "title": "The Free-Floating Steel Voice, at Its Sharpest",
+      "brand": "Pearl",
+      "model": "Pearl Free-Floating steel-shell snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel shell construction",
+      "description": "The 14\" x 6.5\" Pearl Free-Floating steel-shell snare that had been Mazurkiewicz's settled voice since Kill (2006) returned unchanged on Evisceration Plague, and reviewers of the era noted the snare's cutting presence as a key element in keeping the album's extreme-tempo blast passages legible. The steel shell's bright overtone profile gave Rutan's mix a sharp, forward backbeat to build around, even as the album's rapid-fire tempos pushed the drum's responsiveness to its limit.\n\nThe free-floating design's isolation from rim and lug stress mattered more on this record than on Kill, given how much of the album's material was built around sustained, extreme-velocity blast work — exactly the kind of repetitive high-stress playing free-floating snare construction is designed to withstand over a full album cycle.\n\nRutan's mix again favored a forward, present snare position, consistent with every Cannibal Corpse production since the band's earliest Morrisound sessions.",
+      "tuningSetting": "Medium-high tension for maximum cut and articulation at extreme tempo",
+      "heads": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)",
+      "estimatedValue": "$400–700 (2009 era) / $400–700 (equivalent model today)"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance: The Settled Modern Arsenal",
+      "brand": "Meinl",
+      "series": "Meinl Byzance (established endorsement, 2009)",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Fast, tight response for the album's extreme-tempo blast passages"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 16\" Crash",
+          "position": "Left crash",
+          "notes": "Quick accent for riff punctuation"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash for the title track's heavier, more deliberate passages"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl 20\" Ride",
+          "position": "Right",
+          "notes": "Bell accents between blast passages"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" China",
+          "position": "Over rack toms",
+          "notes": "Trashy riff-transition accent, unchanged across Mazurkiewicz's entire Meinl-endorsement career"
+        }
+      ],
+      "description": "The Meinl Byzance setup that carried Mazurkiewicz through Kill returned unaltered on Evisceration Plague, and by 2009 there was little left to establish — the endorsement, first developing on Bloodthirst a decade earlier, was fully mature. Meinl's hand-hammered bronze construction gave the cymbals the fast attack needed to stay articulate through the album's fastest blast sections, a quality contemporary reviewers highlighted alongside Mazurkiewicz's drumming itself.\n\nThe 18\" China remained the go-to accent for riff transitions, a constant in Mazurkiewicz's vocabulary across every era of his career, now delivering that role through a cymbal setup that had not needed to change in years — a sign of just how settled his gear identity had become by this point.\n\nRutan's mix kept the cymbals present but tightly controlled, avoiding the kind of wash that could blur the album's most extreme blast passages, particularly on the title track's centerpiece drumming.",
+      "estimatedValue": "$1,500–2,600 total (established Meinl endorsement configuration, 2009)"
+    },
+    "hardware": {
+      "title": "The Eliminator, Pushed to Its Limit",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Double Bass Pedal",
+          "notes": "Unchanged from Kill; central to the album's fastest blast passages",
+          "description": "Mazurkiewicz's Pearl Eliminator double bass pedal setup carried over unaltered from Kill (2006), but Evisceration Plague's songwriting pushed it harder than any prior record — contemporary reviews specifically cited the speed and control of his blast-beat work, built on the Eliminator's interchangeable cam system dialed for maximum sustained velocity rather than the alternating blast/groove demands of earlier albums like Gore Obsessed."
+        },
+        {
+          "type": "Electronic Triggers",
+          "brand": "ddrum",
+          "model": "ddrum Acoustic Pro Triggers (live context)",
+          "notes": "Continued use in live performance; studio tracking remained acoustic"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Paul Mazurkiewicz Signature",
+          "notes": "Fully established signature stick model, unchanged from Kill"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)"
+      }
+    },
+    "sound": {
+      "title": "Erik Rutan at Mana Recording Studios: The Second Session",
+      "content": "\"Evisceration Plague\" marked Erik Rutan's second consecutive Cannibal Corpse production, again recorded at his own Mana Recording Studios in St. Petersburg, Florida. With the producer relationship and studio environment both already established on Kill (2006), the sessions could focus on refinement rather than the kind of sonic groundwork the band and Rutan had to lay down together three years earlier.\n\n**Rutan's Approach, Refined:**\nWhere Kill introduced Rutan's punishing, low-tuned production identity to the band for the first time, Evisceration Plague let him push that identity further, with a mix that AllMusic's Greg Prato described as delivering \"metronome-like precision drumming\" alongside \"razor-sharp riffing\" — a description that speaks directly to how well Rutan's engineering captured Mazurkiewicz's increasingly extreme technical performance.\n\n**A Familiar Studio, A Harder Album:**\nThe returning Mana Recording Studios environment gave the band a comfort and efficiency that showed in the finished record's confidence — Evisceration Plague's reviews consistently praised its consistency and precision over the more varied dynamic range of earlier Cannibal Corpse albums.\n\n**Chart Performance as Validation:**\nThe album's #66 Billboard 200 debut — the band's best chart performance to that point — suggested the Rutan/Mana partnership was resonating beyond the band's existing audience, building on the momentum Kill had generated three years prior.",
+      "keyTechniques": [
+        "Erik Rutan's second consecutive production for Cannibal Corpse, again at Mana Recording Studios, St. Petersburg, Florida",
+        "AllMusic (Greg Prato, 3.5/5 stars) praised \"metronome-like precision drumming\" and \"razor-sharp riffing\"",
+        "Mix refined from the Kill template rather than rebuilt from scratch",
+        "Album's #66 Billboard 200 debut was Cannibal Corpse's best chart performance to that point",
+        "Title track received an official music video, the fifth Cannibal Corpse album to feature a title track"
+      ]
+    },
+    "technique": {
+      "title": "The Fastest, Most Controlled Playing of His Career",
+      "content": "\"Evisceration Plague\" is frequently cited as containing some of Paul Mazurkiewicz's most technically extreme playing on record. Contemporary reviews specifically praised his blast-beat work as insanely fast while remaining fully controlled — a combination that is far harder to sustain across a full album than either speed or control in isolation.\n\n**Sustained Extremity:**\nWhere Kill's songwriting favored direct, momentum-driven double-bass patterns, Evisceration Plague's material demanded longer sustained passages at even higher tempo, pushing both his conventional grip technique and his Pearl Eliminator setup to their functional limits across the album's runtime.\n\n**The Title Track as Centerpiece:**\nThe eight-minute-plus title track — the fifth Cannibal Corpse song to share its name with its parent album, and the subject of an official music video — showcases the album's dynamic range in miniature, moving between the record's most extreme blast sections and heavier, more deliberate passages within a single song.\n\n**Two Consecutive Albums, One Refined Identity:**\nWith the same lineup, the same producer, and the same studio as Kill, Evisceration Plague let Mazurkiewicz refine an approach rather than develop a new one — and critics at the time widely agreed the refinement produced his most accomplished recorded performance up to that point.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album that preceded it\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig\n- [Paul Mazurkiewicz vs. Tim Yeung](/compare/paul-mazurkiewicz-vs-tim-yeung) — how his blast-beat control compares to another modern death metal technician"
+    },
+    "faq": [
+      {
+        "question": "What kit did Paul Mazurkiewicz use on Evisceration Plague?",
+        "answer": "On Evisceration Plague (2009), Paul Mazurkiewicz played the same fully mature Pearl Reference kit documented on Kill (2006) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged, giving the album the same core rig as its predecessor with no gear changes."
+      },
+      {
+        "question": "Who produced Evisceration Plague and where was it recorded?",
+        "answer": "Evisceration Plague was produced by Erik Rutan at his own Mana Recording Studios in St. Petersburg, Florida — his second consecutive Cannibal Corpse production after Kill (2006). The same producer/studio pairing continued through nearly every subsequent Cannibal Corpse album, and Rutan eventually joined the band as lead guitarist in 2020."
+      },
+      {
+        "question": "How did Evisceration Plague perform commercially?",
+        "answer": "Evisceration Plague debuted at #66 on the Billboard 200 upon its February 3, 2009 release, selling approximately 9,600 copies in its first week. That made it Cannibal Corpse's highest Billboard 200 debut to that point, surpassing Kill's #170 debut three years earlier."
+      },
+      {
+        "question": "What did critics say about Paul Mazurkiewicz's drumming on Evisceration Plague?",
+        "answer": "Contemporary reviews widely singled out Mazurkiewicz's playing on Evisceration Plague as among the most technically accomplished of his career, praising his insanely fast, tightly controlled blast-beat work. AllMusic's Greg Prato awarded the album 3.5 out of 5 stars, describing its \"metronome-like precision drumming\" and \"razor-sharp riffing\" as core strengths of the record."
+      },
+      {
+        "question": "What is significant about the Evisceration Plague title track?",
+        "answer": "The title track \"Evisceration Plague\" is the fifth Cannibal Corpse song to share its title with its parent album, and it received an official music video — a comparatively rare marketing push for the band at that point in its career. At over eight minutes long, it is one of the longest and most dynamically varied songs the band had released, and is frequently cited as the album's centerpiece."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "kill-drum-setup",
+      "gore-obsessed-drum-setup",
+      "tomb-of-the-mutilated-drum-setup",
+      "paul-mazurkiewicz-drum-setup"
+    ],
+    "relatedDrummers": [51],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "death-metal-drummers",
+      "best-metal-double-kick-technique"
+    ],
+    "conclusion": {
+      "title": "The Refinement Album: Consistency as Achievement",
+      "content": "\"Evisceration Plague\" doesn't reinvent what Kill established three years earlier — and that consistency is exactly what makes it notable. Paul Mazurkiewicz's Pearl Reference and Meinl rig, fully settled since the Kill sessions, gave him a stable platform to deliver what critics at the time widely regarded as his fastest, most controlled recorded performance to date. Erik Rutan's second consecutive Mana Recording Studios production refined rather than rebuilt the punishing sonic identity introduced on Kill, and the album rewarded that consistency with Cannibal Corpse's best Billboard 200 debut to that point.\n\nFor a band eleven albums into its career, Evisceration Plague stands as proof that a stable lineup, a trusted producer, and unchanged gear can still produce a genuine technical leap forward — not through reinvention, but through the kind of refinement that only comes from repetition at the highest level.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album and the start of the Rutan era\n- **The earlier consolidation chapter**: [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the pre-Kill bridge record\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+    }
   }
 };
 export default articles;

@@ -134,6 +134,8 @@ A: Gavin Harrison joined King Crimson's three-drummer lineup in 2008, playing al
 ## Related Pages
 
 - [Gavin Harrison Drummer Profile](/llms/drummers/gavin-harrison.md)
+- [In Absentia Drum Setup Article](/llms/articles/in-absentia-drum-setup.md)
+- [Deadwing Drum Setup Article](/llms/articles/deadwing-drum-setup.md)
 - [Fear of a Blank Planet Drum Setup Article](/llms/articles/fear-of-a-blank-planet-drum-setup.md)
 - [The Incident Drum Setup Article](/llms/articles/the-incident-drum-setup.md)
 - [Zildjian Cymbal Guide](/llms/brands/zildjian.md)

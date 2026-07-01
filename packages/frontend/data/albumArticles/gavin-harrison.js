@@ -696,6 +696,354 @@ export const articles = {
       "content": "*Fear of a Blank Planet* (2007) is the recording that made Gavin Harrison's approach to progressive metal drumming a benchmark rather than a curiosity. The combination of his Sonor SQ2 custom kit, Zildjian K Custom Special Dry cymbals, Sonor Gavin Harrison Signature snares, and Sonor Perfect Balance Pedal was not assembled for this album — it was a rig developed over years of exacting progressive music. But *Fear of a Blank Planet* is where every element of that rig is tested to its limit and the result is one of the most complete demonstrations of what a drum kit can do in a rock context.\n\nThe title track, \"Anesthetize,\" and the rest of the album have been studied in drum education programmes, transcribed in drumming publications, and cited by working drummers across every genre as a reference point for dynamic range, polyrhythmic integration, and the musical application of odd time signatures. Harrison achieves this not through volume or flash but through precision: the right instrument, configured correctly, played by a musician who has spent decades understanding what each element contributes.\n\nFor drummers approaching this gear:\n\n- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)\n- **Gavin Harrison kit guide**: [Gavin Harrison Porcupine Tree Drum Setup](/articles/gavin-harrison-porcupine-tree-drum-setup)\n- **Full gear profile**: [What's In Gavin Harrison's Kit](/articles/whats-in-gavin-harrisons-kit)\n- **LLM summary**: [Fear of a Blank Planet Drum Setup — LLM](/llms/articles/fear-of-a-blank-planet-drum-setup.md)\n\nThe most important thing *Fear of a Blank Planet* demonstrates is that technical complexity and emotional directness are not opposites in drumming. Harrison's rig makes both possible simultaneously, and the album is the proof."
     }
   },
+  "in-absentia-drum-setup": {
+    "slug": "in-absentia-drum-setup",
+    "articleType": "drummer-kit",
+    "drummer": "Gavin Harrison",
+    "drummerId": 47,
+    "band": "Porcupine Tree",
+    "bands": [
+      "Porcupine Tree",
+      "King Crimson",
+      "The Pineapple Thief"
+    ],
+    "albumTitle": "In Absentia",
+    "artist": "Porcupine Tree",
+    "relatedDrummerSlug": "gavin-harrison",
+    "year": 2002,
+    "albumYear": 2002,
+    "genre": "Progressive Metal / Art Rock",
+    "label": "Lava / Atlantic",
+    "studio": "Avatar Studios, New York; additional sessions at Air Lyndhurst (London), No Man's Land (Hemel Hempstead), New Rising (Colchester) and Red Room Recorders (Tampa)",
+    "producer": "Steven Wilson",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Gavin Harrison's Drum Setup on Porcupine Tree's In Absentia (2002)",
+    "description": "Gavin Harrison's debut Porcupine Tree drum setup on In Absentia (2002) — the album that brought the band to a major label and introduced his jazz-inflected, dynamically extreme drumming to a wider audience.",
+    "seoKeywords": [
+      "in absentia drums",
+      "gavin harrison in absentia",
+      "porcupine tree in absentia drum setup",
+      "gavin harrison 2002 kit",
+      "gavin harrison porcupine tree debut",
+      "in absentia drum recording"
+    ],
+    "ogImage": "/images/drummers/gavin-harrison.webp",
+    "intro": {
+      "title": "The Debut That Changed Porcupine Tree's Drumming",
+      "content": "Released September 24, 2002, *In Absentia* is the album that introduced Gavin Harrison to Porcupine Tree — and introduced Porcupine Tree, for the first time, to a major label audience. Signed to Lava/Atlantic, the band paired with producer Steven Wilson to record at Avatar Studios in New York, with additional sessions at Air Lyndhurst in London, No Man's Land in Hemel Hempstead, New Rising in Colchester, and Red Room Recorders in Tampa. It was Harrison's first studio recording with the band, and it reoriented Porcupine Tree's sound toward the heavier, more rhythmically intricate direction that would define the next decade of their career.\n\nHarrison's arrival is audible from the opening track. \"Blackest Eyes\" alternates between a driving, distorted verse riff and delicate acoustic sections, and Harrison's drumming tracks that contrast precisely — restrained and textural in the quiet passages, powerful and controlled when the riff returns. \"Trains\" showcases his ability to build a groove from a simple pattern and layer subtle variation into every repetition, while \"The Sound of Muzak\" — built on a shifting, polyrhythmic foundation — became one of the most studied Harrison performances of his early Porcupine Tree tenure.\n\nHarrison joined Porcupine Tree in 2002 already an experienced session and touring drummer, and *In Absentia* is where his specific vocabulary — ghost notes used as compositional elements, extreme dynamic range within a single phrase, and odd-meter grooves that never feel mathematical — first appears on record with the band. The rig he brought into the studio was still evolving toward the fully custom Sonor SQ2 setup that would define his later work, but the essential elements were already in place: a maple kit built for sensitivity, and the Zildjian K Custom Special Dry cymbals that would remain a constant across his entire Porcupine Tree discography.\n\nThis article documents the drum setup Gavin Harrison used to record *In Absentia* — the gear, the studio context, and the playing approach that made his debut with the band an immediate step forward for Porcupine Tree's sound.",
+      "keyPoints": [
+        "Recorded at Avatar Studios, New York, with additional sessions across four other studios",
+        "Porcupine Tree's first release on a major label (Lava/Atlantic)",
+        "Gavin Harrison's debut studio recording with Porcupine Tree",
+        "Maple custom kit — the early stage of Harrison's evolving Sonor SQ2 relationship",
+        "Zildjian K Custom Special Dry cymbals, already an established part of his setup",
+        "Standout tracks: \"Blackest Eyes,\" \"Trains,\" \"The Sound of Muzak\""
+      ]
+    },
+    "drumKit": {
+      "title": "The Early Custom Kit: Building Toward the SQ2",
+      "brand": "Sonor",
+      "model": "Sonor custom maple kit (developing SQ2 relationship)",
+      "finish": "Custom maple",
+      "config": {
+        "bassdrums": [
+          "22\" x 17\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 13\" Floor Tom",
+          "16\" x 15\" Floor Tom"
+        ],
+        "shells": "Premium maple — thin shells for sensitivity and resonance"
+      },
+      "description": "The kit Harrison brought to the *In Absentia* sessions was the early stage of the relationship with Sonor that would eventually produce his fully bespoke SQ2 configuration. The core specification was already the one he would carry through the rest of his Porcupine Tree career: thin maple shells for maximum sensitivity, a 22\" bass drum sized for articulation rather than raw power, and a four-tom spread (10\", 12\", 14\", 16\") tuned as melodic voices rather than simple accent drums.\n\nThat sensitivity mattered immediately. \"Heartattack in a Layby\" and the quieter sections of \"Gravity Eyelids\" ask the kit to register barely-there ghost notes and brushed textures, while \"Blackest Eyes\" and \"Strip the Soul\" demand full-force accents within the same song. The thin maple shells handle both without needing a second kit or a change in tuning — a dynamic range that became the signature of Harrison's entire Porcupine Tree tenure starting on this record.\n\nThe smaller 22\" kick, already in place on *In Absentia*, gave Harrison the articulation he needed for the interlocking patterns of \"The Sound of Muzak,\" where the bass drum has to lock precisely with Colin Edwin's bass line rather than simply anchor the beat. This is the same principle that would carry through to the fully realised SQ2 kit on *Fear of a Blank Planet* five years later — the equipment choices on *In Absentia* were already pointed in that direction.",
+      "notes": [
+        "Early Sonor custom relationship — the specification that would become the SQ2",
+        "Thin maple shells for the dynamic range In Absentia's arrangements require",
+        "22\" kick for articulation on interlocking patterns like \"The Sound of Muzak\"",
+        "Four toms tuned as melodic voices, carried forward on every later PT album"
+      ],
+      "estimatedValue": "$4,500–7,000 (custom Sonor maple kit, pre-SQ2 specification)"
+    },
+    "snare": {
+      "title": "Early Signature Snare Work",
+      "brand": "Sonor",
+      "model": "Sonor snare (early Gavin Harrison signature development)",
+      "size": "14\" x 5.25\"",
+      "shell": "Brass",
+      "description": "Harrison's primary snare on *In Absentia* was an early version of the brass-shell drum that would later become his full Sonor Gavin Harrison Signature snare. The brass shell was already the deciding factor: it gives soft strokes warmth and body that a steel shell can't match, which is essential on a record where the snare carries as much textural weight — ghost notes under \"Trains,\" the rimshot-driven backbeat of \"Blackest Eyes\" — as it does rhythmic weight.\n\nTuned medium to medium-high, the snare responds cleanly across the album's wide dynamic range, from the near-whispered patterns of \"Collapse the Light Into Earth\" to the full-force hits of \"Strip the Soul.\" This is the same tuning philosophy Harrison would carry through every subsequent Porcupine Tree album, refined but never fundamentally changed.",
+      "tuningSetting": "Medium to medium-high — responsive across a wide dynamic range",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$500–750 (early Sonor signature-development snare)"
+    },
+    "cymbals": {
+      "title": "Zildjian K Custom Special Dry: Already Established",
+      "brand": "Zildjian",
+      "series": "K Custom Special Dry",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian 14\" K Custom Special Dry Hi-Hats",
+          "position": "Left side",
+          "notes": "Dry, quick decay for the intricate hi-hat patterns on \"The Sound of Muzak\""
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 16\" K Custom Special Dry Crash",
+          "position": "Left of hi-hats",
+          "notes": "Fast-clearing accent cymbal for dynamic shifts"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 18\" K Custom Special Dry Crash",
+          "position": "Over rack toms",
+          "notes": "Primary crash marking section changes"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian 21\" K Custom Special Dry Ride",
+          "position": "Right side",
+          "notes": "Dry, articulate ride carrying the album's groove-based passages"
+        },
+        {
+          "type": "China/Trash",
+          "model": "Zildjian 18\" K Custom Trash China",
+          "position": "Above floor tom",
+          "notes": "Used sparingly on the album's heavier accents"
+        }
+      ],
+      "description": "By the time Harrison entered the studio for *In Absentia*, his Zildjian K Custom Special Dry cymbal setup was already established — the same series he would continue using, essentially unchanged, across the rest of his Porcupine Tree discography. The dry, fast-decaying character of the Special Dry line suits the record's alternation between delicate, atmospheric passages and full-band heaviness: the cymbals speak clearly and then get out of the way, rather than building up wash that would blur the transitions.\n\nThe 21\" Special Dry Ride carries the bulk of the album's groove-based sections, including \"Trains\" and \"The Sound of Muzak,\" where its dry ping and controlled wash keep the ride pattern distinct even as the arrangement thickens. The 14\" Special Dry Hi-Hats drive the intricate rhythmic conversation at the heart of \"The Sound of Muzak\" — a track that would become one of the most-studied Harrison performances from this era of the band.",
+      "notes": [
+        "Same Special Dry series Harrison would use for the rest of his Porcupine Tree career",
+        "Dry, fast-decay design suits the album's contrast between atmosphere and heaviness",
+        "21\" Special Dry Ride anchors \"Trains\" and \"The Sound of Muzak\"",
+        "14\" Special Dry Hi-Hats drive the polyrhythmic hi-hat work on \"The Sound of Muzak\""
+      ],
+      "estimatedValue": "$1,800–2,500 (full K Custom Special Dry setup)"
+    },
+    "hardware": {
+      "title": "Foundation Hardware",
+      "pedals": "Sonor bass drum pedal (pre-Perfect Balance)",
+      "hihatStand": "Sonor hi-hat stand",
+      "throne": "Sonor throne",
+      "stands": "Sonor stands",
+      "description": "Harrison's hardware on *In Absentia* was Sonor throughout, predating the Perfect Balance pedal he would adopt for later albums. His throne positioning — already lower than many rock drummers, giving him leverage for powerful playing while preserving mobility — and his flat, close cymbal placement were already the habits that would define his setup for the rest of his career.",
+      "notes": [
+        "All-Sonor hardware from his earliest Porcupine Tree sessions",
+        "Low throne position for leverage and mobility",
+        "Flat, close cymbal placement — a constant across every subsequent album"
+      ],
+      "estimatedValue": "$900–1,300 (early hardware package)"
+    },
+    "faq": [
+      {
+        "question": "What drums did Gavin Harrison use on In Absentia?",
+        "answer": "Gavin Harrison recorded In Absentia (2002) — his debut with Porcupine Tree — on an early custom Sonor maple kit: a 22\" x 17\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms, all built with thin shells for sensitivity. His cymbals were already the Zildjian K Custom Special Dry series he would use for the rest of his Porcupine Tree career, anchored by a 21\" Special Dry Ride and 14\" Special Dry Hi-Hats. His primary snare was a 14\" x 5.25\" brass drum, an early version of what would become his full Sonor Gavin Harrison Signature snare."
+      },
+      {
+        "question": "When did Gavin Harrison join Porcupine Tree?",
+        "answer": "Gavin Harrison joined Porcupine Tree in 2002, and In Absentia was his first studio album with the band. The record marked Porcupine Tree's first release on a major label (Lava/Atlantic) and reoriented the band's sound toward the heavier, more rhythmically intricate direction that would carry through Deadwing (2005) and Fear of a Blank Planet (2007). See the full profile at [Gavin Harrison at MetalForge](/drummer/gavin-harrison)."
+      },
+      {
+        "question": "Where was In Absentia recorded?",
+        "answer": "In Absentia was recorded primarily at Avatar Studios in New York, with additional sessions at Air Lyndhurst in London, No Man's Land in Hemel Hempstead, New Rising in Colchester, and Red Room Recorders in Tampa. Steven Wilson produced the album, which was engineered by Paul Northfield."
+      },
+      {
+        "question": "What is the most important drum track on In Absentia?",
+        "answer": "\"The Sound of Muzak\" is the most studied Gavin Harrison performance on In Absentia — its shifting, polyrhythmic foundation showcases the ghost-note vocabulary and odd-meter grooves that would become his signature. \"Blackest Eyes\" and \"Trains\" are also frequently cited for the way Harrison's drumming tracks the songs' dynamic contrasts between delicate and heavy sections."
+      }
+    ],
+    "relatedAlbums": [
+      "deadwing-drum-setup",
+      "fear-of-a-blank-planet-drum-setup",
+      "gavin-harrison-porcupine-tree-drum-setup"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "Where the Sonor and Zildjian Story Begins",
+      "content": "*In Absentia* (2002) is the starting point for every drum setup story that follows in Gavin Harrison's Porcupine Tree career. The thin maple shells, the developing Sonor relationship that would become the SQ2, and the Zildjian K Custom Special Dry cymbals that never changed for the rest of his tenure — all of it is already present on this record, five years before *Fear of a Blank Planet* made his approach a benchmark for progressive drumming.\n\nWhat makes *In Absentia* worth studying on its own terms is the immediacy of the fit: Harrison's first session with the band already sounds like a complete musical identity, not a work in progress. \"The Sound of Muzak\" alone contains the ghost-note layering and odd-meter groove that would define his career.\n\nFor drummers approaching this gear:\n\n- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)\n- **Deadwing gear**: [Deadwing Drum Setup](/articles/deadwing-drum-setup)\n- **Fear of a Blank Planet gear**: [Fear of a Blank Planet Drum Setup](/articles/fear-of-a-blank-planet-drum-setup)\n- **LLM summary**: [In Absentia Drum Setup — LLM](/llms/articles/in-absentia-drum-setup.md)\n\n*In Absentia* proves that Harrison's Porcupine Tree sound didn't need years to develop — it arrived essentially complete, and every album since has been a refinement of what's already audible here."
+    }
+  },
+  "deadwing-drum-setup": {
+    "slug": "deadwing-drum-setup",
+    "articleType": "drummer-kit",
+    "drummer": "Gavin Harrison",
+    "drummerId": 47,
+    "band": "Porcupine Tree",
+    "bands": [
+      "Porcupine Tree",
+      "King Crimson",
+      "The Pineapple Thief"
+    ],
+    "albumTitle": "Deadwing",
+    "artist": "Porcupine Tree",
+    "relatedDrummerSlug": "gavin-harrison",
+    "year": 2005,
+    "albumYear": 2005,
+    "genre": "Progressive Metal / Art Rock",
+    "label": "Lava / Atlantic",
+    "studio": "Various English studios (No Man's Land, The Artillery, Bourne Place, New Rising, RAK, Astoria and Livingstone), March–October 2004",
+    "producer": "Steven Wilson, Richard Barbieri and Gavin Harrison",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Gavin Harrison's Drum Setup on Porcupine Tree's Deadwing (2005)",
+    "description": "Gavin Harrison's drum setup on Porcupine Tree's Deadwing (2005) — expanded odd-meter writing, a growing Sonor and Zildjian rig, and the heaviest Porcupine Tree record to that point.",
+    "seoKeywords": [
+      "deadwing drums",
+      "gavin harrison deadwing",
+      "porcupine tree deadwing drum setup",
+      "gavin harrison 2005 kit",
+      "deadwing drum recording",
+      "porcupine tree odd time signatures"
+    ],
+    "ogImage": "/images/drummers/gavin-harrison.webp",
+    "intro": {
+      "title": "Odd Meters and a Heavier Direction",
+      "content": "Released in March 2005, *Deadwing* is Porcupine Tree's eighth studio album and the record where Gavin Harrison's drumming pushed furthest into the odd-meter, dynamically extreme territory that *In Absentia* had introduced three years earlier. Produced by Steven Wilson, Richard Barbieri and Harrison himself, and recorded across a string of English studios between March and October 2004, *Deadwing* is built around a horror-film screenplay Wilson co-wrote with director Mike Bennion — a concept that pushed the band, and Harrison specifically, toward more cinematic, dynamically dramatic arrangements.\n\nThe nine-and-a-half-minute title track opens the album with exactly that drama: Harrison's drumming shifts from restrained, atmospheric patterns to a driving, syncopated groove and back, tracking the song's long-form structure without ever losing momentum. \"Shallow\" is the album's most direct, riff-driven statement, with Harrison locking into a heavy, straightforward groove that shows he could deliver power as convincingly as complexity. \"Arriving Somewhere but Not Here,\" at over twelve minutes, is the album's centerpiece — a slow-building epic featuring a co-guitar solo from Opeth's Mikael Åkerfeldt and drumming that expands from sparse, textural playing into a full-band climax.\n\nBy *Deadwing*, Harrison's gear had matured further along the path from the developing Sonor relationship on *In Absentia* toward the fully custom SQ2 setup he would use on *Fear of a Blank Planet*. The Zildjian K Custom Special Dry cymbals remained constant, but the drum kit itself — still maple, still built for sensitivity — was closer to the final SQ2 specification, giving Harrison the dynamic range the album's cinematic arrangements demanded.\n\nThis article documents the drum setup Gavin Harrison used to record *Deadwing* — the gear, the studio context, and the expanded use of odd time signatures that made it Porcupine Tree's most ambitious record to that point.",
+      "keyPoints": [
+        "Recorded across multiple English studios, March–October 2004",
+        "Co-produced by Steven Wilson, Richard Barbieri and Gavin Harrison",
+        "Built around a horror-film concept co-written by Steven Wilson",
+        "Guest guitar from Mikael Åkerfeldt (Opeth) and Adrian Belew (King Crimson)",
+        "Maple custom kit closer to the final Sonor SQ2 specification used on Fear of a Blank Planet",
+        "Standout tracks: \"Deadwing,\" \"Shallow,\" \"Arriving Somewhere but Not Here\""
+      ]
+    },
+    "drumKit": {
+      "title": "Closer to the SQ2: A Kit in Transition",
+      "brand": "Sonor",
+      "model": "Sonor custom maple kit (refined SQ2 specification)",
+      "finish": "Custom maple",
+      "config": {
+        "bassdrums": [
+          "22\" x 17\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 13\" Floor Tom",
+          "16\" x 15\" Floor Tom"
+        ],
+        "shells": "Premium maple — thin shells for sensitivity and resonance"
+      },
+      "description": "The kit Harrison used on *Deadwing* carried forward the same core specification introduced on *In Absentia* — thin maple shells, a 22\" bass drum, and a four-tom spread (10\", 12\", 14\", 16\") tuned as melodic voices — refined further along the path toward the fully bespoke Sonor SQ2 he would use on *Fear of a Blank Planet*. The album's expanded use of odd time signatures put more demands on that refinement: the title track alone shifts between multiple meters within a single nine-minute arc, and the kit's sensitivity had to hold up whether Harrison was playing a sparse, atmospheric pattern or a full-force syncopated groove.\n\n\"Shallow\" is the clearest example of the kit's range in a more conventional context — a driving, riff-based groove that shows Harrison's setup handling straightforward power as convincingly as the odd-meter complexity elsewhere on the record. \"Arriving Somewhere but Not Here\" asks for the opposite: the track's long, slow build from sparse texture to full-band climax relies on the same thin-shell sensitivity that let Harrison's ghost notes register clearly in the quiet opening minutes before the kit opens up for the song's extended finale.",
+      "notes": [
+        "Same core specification as In Absentia, refined toward the final SQ2 build",
+        "Thin maple shells handle the album's expanded odd-meter writing",
+        "22\" kick still favors articulation for syncopated patterns like the title track",
+        "Four toms tuned as melodic voices, carried through from the previous album"
+      ],
+      "estimatedValue": "$5,000–7,500 (custom Sonor maple kit, refined pre-SQ2 specification)"
+    },
+    "snare": {
+      "title": "The Brass Snare, Further Refined",
+      "brand": "Sonor",
+      "model": "Sonor snare (refined Gavin Harrison signature development)",
+      "size": "14\" x 5.25\"",
+      "shell": "Brass",
+      "description": "Harrison's brass-shell snare, already in place on *In Absentia*, carried through to *Deadwing* with further refinement toward the specification that would become his full Sonor Gavin Harrison Signature drum. The brass shell's warmth on soft strokes suits the album's more cinematic dynamic range — the near-silent opening of \"Arriving Somewhere but Not Here\" and the hushed verses of the title track both depend on a snare that can register a ghost note as clearly as a full rimshot.\n\nTuned medium to medium-high, consistent with his approach on *In Absentia*, the snare handles the shift between \"Shallow\"'s driving backbeat and the more textural snare work on \"Mellotron Scratch\" and \"Glass Arm Shattering\" without requiring any change in setup.",
+      "tuningSetting": "Medium to medium-high — consistent with the approach established on In Absentia",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$550–800 (refined signature-development snare)"
+    },
+    "cymbals": {
+      "title": "Zildjian K Custom Special Dry: Unchanged and Essential",
+      "brand": "Zildjian",
+      "series": "K Custom Special Dry",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian 14\" K Custom Special Dry Hi-Hats",
+          "position": "Left side",
+          "notes": "Dry, quick decay driving the odd-meter passages in the title track"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 16\" K Custom Special Dry Crash",
+          "position": "Left of hi-hats",
+          "notes": "Fast-clearing accent cymbal for the album's dynamic swings"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 18\" K Custom Special Dry Crash",
+          "position": "Over rack toms",
+          "notes": "Primary crash marking the album's cinematic section changes"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian 21\" K Custom Special Dry Ride",
+          "position": "Right side",
+          "notes": "Carries the extended build of \"Arriving Somewhere but Not Here\""
+        },
+        {
+          "type": "China/Trash",
+          "model": "Zildjian 18\" K Custom Trash China",
+          "position": "Above floor tom",
+          "notes": "Used for the heavier accents on \"Shallow\" and the title track"
+        }
+      ],
+      "description": "The Zildjian K Custom Special Dry series that Harrison had already established on *In Absentia* remained unchanged on *Deadwing*, and the album's more cinematic, dynamically extreme writing makes clear why he never needed to alter it. The dry, fast-decaying character of the Special Dry line keeps the transitions in a track like the nine-minute title cut — from restrained atmosphere to driving groove and back — sounding controlled rather than washed out.\n\nThe 21\" Special Dry Ride does the heaviest lifting on \"Arriving Somewhere but Not Here,\" where its dry, articulate ping carries the track's long build without building up uncontrolled wash over twelve minutes of dynamic development. The 18\" Trash China gets more use on *Deadwing* than on *In Absentia*, reflecting the album's heavier moments on \"Shallow\" and the title track's climactic sections.",
+      "notes": [
+        "Same Special Dry setup carried over unchanged from In Absentia",
+        "Dry, fast-decay design essential for the title track's long dynamic arc",
+        "21\" Special Dry Ride anchors the extended build of \"Arriving Somewhere but Not Here\"",
+        "18\" Trash China sees increased use for the album's heavier accents"
+      ],
+      "estimatedValue": "$1,800–2,500 (full K Custom Special Dry setup)"
+    },
+    "hardware": {
+      "title": "Foundation Hardware, Carried Forward",
+      "pedals": "Sonor bass drum pedal (pre-Perfect Balance)",
+      "hihatStand": "Sonor hi-hat stand",
+      "throne": "Sonor throne",
+      "stands": "Sonor stands",
+      "description": "Harrison's hardware setup on *Deadwing* was the same all-Sonor foundation he used on *In Absentia*, ahead of his adoption of the Perfect Balance pedal on later albums. His low throne position and flat, close cymbal placement — already established habits by this point — gave him the leverage and efficiency needed for the album's mix of restrained textures and driving, syncopated grooves.",
+      "notes": [
+        "Same all-Sonor hardware foundation as In Absentia",
+        "Low throne position for leverage on the album's heavier passages",
+        "Flat, close cymbal placement for efficient movement across odd-meter patterns"
+      ],
+      "estimatedValue": "$900–1,300 (hardware package, consistent with In Absentia era)"
+    },
+    "faq": [
+      {
+        "question": "What drums did Gavin Harrison use on Deadwing?",
+        "answer": "Gavin Harrison recorded Deadwing (2005) on the same core Sonor custom maple kit he'd used on In Absentia, refined further toward the SQ2 specification he'd fully adopt for Fear of a Blank Planet: a 22\" x 17\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms with thin shells for sensitivity. His cymbals were the Zildjian K Custom Special Dry series, unchanged from In Absentia and anchored by a 21\" Special Dry Ride and 14\" Special Dry Hi-Hats. His primary snare remained a 14\" x 5.25\" brass drum tuned medium to medium-high."
+      },
+      {
+        "question": "What is Deadwing about?",
+        "answer": "Deadwing is built around a screenplay Steven Wilson co-wrote with director Mike Bennion about a ghost haunting a cinema. The album's more cinematic, dynamically dramatic arrangements — especially the shifting structure of the title track and the long build of \"Arriving Somewhere but Not Here\" — reflect that narrative concept, and pushed Gavin Harrison's drumming toward more extended, dynamically extreme performances than on In Absentia."
+      },
+      {
+        "question": "Who played guitar solos on Deadwing?",
+        "answer": "Deadwing features guest guitar solos from Mikael Åkerfeldt of Opeth and Adrian Belew of King Crimson, alongside Steven Wilson's own guitar work. Åkerfeldt also contributes backing vocals to several tracks, including the title track and \"Arriving Somewhere but Not Here.\""
+      },
+      {
+        "question": "How does Deadwing fit into Gavin Harrison's Porcupine Tree gear history?",
+        "answer": "Deadwing sits between In Absentia (2002) and Fear of a Blank Planet (2007) in Harrison's Porcupine Tree gear timeline. It carries forward the Sonor custom maple kit and Zildjian K Custom Special Dry cymbals established on In Absentia, refined further toward the fully bespoke Sonor SQ2 setup he would use two years later. See the full lineage at [Gavin Harrison Porcupine Tree Drum Setup](/articles/gavin-harrison-porcupine-tree-drum-setup)."
+      }
+    ],
+    "relatedAlbums": [
+      "in-absentia-drum-setup",
+      "fear-of-a-blank-planet-drum-setup",
+      "gavin-harrison-porcupine-tree-drum-setup"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Bridge to Fear of a Blank Planet",
+      "content": "*Deadwing* (2005) is the bridge between Gavin Harrison's debut on *In Absentia* and the benchmark recording of *Fear of a Blank Planet* two years later. The gear tells that story as clearly as the music: the same core Sonor maple kit and Zildjian K Custom Special Dry cymbals, refined further with each album, in service of writing that grew more cinematic and dynamically extreme with every release.\n\n\"Arriving Somewhere but Not Here\" stands as the album's clearest showcase — a twelve-minute build from sparse texture to full-band climax that asks Harrison's kit to cover its entire dynamic range within a single performance. \"Shallow\" shows the other end of that range: a direct, driving groove that proves the same setup handles power as convincingly as nuance.\n\nFor drummers approaching this gear:\n\n- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)\n- **In Absentia gear**: [In Absentia Drum Setup](/articles/in-absentia-drum-setup)\n- **Fear of a Blank Planet gear**: [Fear of a Blank Planet Drum Setup](/articles/fear-of-a-blank-planet-drum-setup)\n- **LLM summary**: [Deadwing Drum Setup — LLM](/llms/articles/deadwing-drum-setup.md)\n\n*Deadwing* proves that Harrison's evolution as a drummer was gradual and deliberate — every album builds directly on the gear and technique established by the one before it."
+    }
+  },
   "the-incident-drum-setup": {
     "slug": "the-incident-drum-setup",
     "articleType": "drummer-kit",

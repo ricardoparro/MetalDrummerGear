@@ -13829,6 +13829,251 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
       { slug: 'nick-augusto-drum-setup', label: "Nick Augusto's Drum Setup — Trivium's In Waves & Vengeance Falls Era Kit Guide" }
     ]
   },
+
+  'how-to-sound-like-jon-dette': {
+    slug: 'how-to-sound-like-jon-dette',
+    drummerId: 60,
+    drummerName: 'Jon Dette',
+    band: 'Slayer / Testament',
+    genre: 'Thrash Metal',
+    priority: 54,
+    title: "How to Sound Like Jon Dette: Complete Gear & Technique Guide",
+    description: "Master Jon Dette's precision thrash drumming. Learn the metronomic double-bass technique and rapid setlist mastery behind his Slayer, Testament, and Anthrax tenures, plus his Ludwig kit and Sabian/Zildjian cymbal setup.",
+    seoKeywords: ['jon dette drums', 'how to sound like jon dette', 'jon dette slayer drummer', 'jon dette testament', 'thrash metal drumming technique', 'jon dette gear'],
+    ogImage: '/images/guides/jon-dette-guide.webp',
+    datePublished: '2026-07-01',
+    dateModified: '2026-07-01',
+    author: 'MetalForge Editorial',
+    wordCount: 1900,
+    readingTime: '9 min',
+    intro: {
+      title: "Thrash Metal's Precision Specialist",
+      content: `Jon Dette occupies a rare spot in thrash metal history: one of only a handful of drummers to have performed with three of the genre's biggest acts — Slayer, Testament, and Anthrax. Born August 25, 1967, in Milwaukee, Wisconsin, Dette built his reputation as the reliable professional who could learn an entire demanding setlist on short notice and deliver it with metronomic accuracy from the first night of touring.
+
+Dette stepped in for Slayer in 1996–1997 while Paul Bostaph was unavailable, mastering the band's fastest and most technically demanding live catalogue under intense fan scrutiny. His longest tenure came with Testament across two periods (1997–1999, 2001–2012), recording three studio albums — The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012) — before filling in for Charlie Benante on Anthrax tour dates in 2010.
+
+This guide breaks down the technique, gear, and practice approach behind Dette's precision-focused thrash metal drumming — essential study for any drummer chasing accuracy and reliability at high tempo.`,
+      keyPoints: [
+        "Slayer touring drummer 1996–1997 — mastered the band's full live setlist on short notice",
+        "Testament drummer across two periods (1997–1999, 2001–2012) — three studio albums, including The Gathering",
+        "Filled in for Charlie Benante on Anthrax tour dates in 2010 — three Big Four-adjacent acts in one career",
+        "Known for metronomic consistency and rapid setlist adaptation rather than flash"
+      ]
+    },
+    technique: {
+      title: "Dette's Precision Thrash Technique",
+      overview: `Dette plays matched grip with an economical, controlled stroke built for accuracy at 180–220 BPM rather than raw aggression. Where Dave Lombardo's original Slayer feel is primal and slightly ahead of the beat, Dette's approach is metronomic and precision-focused — closer in philosophy to Paul Bostaph's technically consistent style. His defining skill isn't a single pattern; it's the ability to internalize an entire unfamiliar setlist to performance-ready accuracy under pressure.`,
+      stickGrip: {
+        type: 'Matched Grip',
+        description: "Dette uses a controlled matched grip that favors accuracy and endurance over maximum power, letting him execute complex thrash patterns consistently across a full set without technique breaking down late in the show.",
+        tips: [
+          "Prioritize even stroke timing over raw volume — thrash at 200 BPM punishes any inconsistency",
+          "Keep the grip relaxed on extended double-bass passages to avoid fatigue-driven tempo drift",
+          "Practice every new part at a reduced tempo until it is completely even before pushing to full speed"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "Metronomic Double-Bass Drive",
+          description: "Steady sixteenth-note double-bass patterns executed with machine-like consistency across a full set, prioritizing accuracy over flash — the technical foundation behind Dette's reputation as thrash metal's reliable fill-in specialist.",
+          tempo: "180-220 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Loop a simple sixteenth-note double-bass pattern at 160 BPM with a metronome. Only raise the tempo once every stroke stays perfectly even for a full two minutes."
+        },
+        {
+          name: "Heel-Up Endurance Footwork",
+          description: "Sustaining thrash metal's fastest double-kick passages requires heel-up technique, generating power from the ankle rather than the whole leg — essential for holding 200+ BPM patterns for an entire set without cramping or losing consistency.",
+          tempo: "190-220 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Practice heel-up single strokes on a practice pad in five-minute blocks, focusing on relaxed ankle motion rather than driving from the hip."
+        },
+        {
+          name: "Rapid Setlist Internalization",
+          description: "Dette's defining professional skill: learning an entire demanding setlist — as he did for Slayer's full live show in 1996 on short notice — through systematic transcription and section-by-section drilling rather than casual repetition.",
+          tempo: "Variable",
+          difficulty: "Advanced",
+          practiceHint: "Pick an unfamiliar song, transcribe it section by section, drill each section individually to full tempo, then play it start-to-finish only once every section is solid."
+        }
+      ],
+      keySongs: [
+        { song: "D.N.R. (Do Not Resuscitate)", album: "The Gathering", year: 1999, why: "Testament's heaviest era — showcases Dette's metronomic double-bass drive at full thrash intensity" },
+        { song: "Down for Life", album: "The Gathering", year: 1999, why: "Demonstrates the precision and endurance behind Dette's most acclaimed studio performance" },
+        { song: "More Than Meets the Eye", album: "The Formation of Damnation", year: 2008, why: "Testament's Nuclear Blast-era comeback single — modern production showcasing consistent, controlled thrash drumming" },
+        { song: "Native Blood", album: "Dark Roots of Earth", year: 2012, why: "Late-career Dette — powerful, focused drumming anchoring one of Testament's most acclaimed tracks" }
+      ]
+    },
+    gear: {
+      title: "Dette's Gear Setup",
+      drumKit: {
+        brand: 'Ludwig',
+        model: 'Ludwig Classic Maple',
+        shells: 'Six-ply maple',
+        finish: 'Various professional finishes',
+        config: {
+          kick: '22" x 16" Bass Drums (x2 — Slayer-era double bass configuration)',
+          snare: '14" x 6.5" Metal or Maple Snare',
+          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+          floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
+        },
+        description: "Dette's Ludwig Classic Maple setup during his Slayer tenure gave him a warmer, more open shell resonance than Dave Lombardo's Tama configuration — a six-ply maple build delivering the focused attack and open midrange that has made Ludwig a professional standard since the 1960s.",
+        affiliateNote: "Ludwig Breakbeats or Pearl Export offer a similar attack-forward maple voice at a fraction of the cost."
+      },
+      snare: {
+        brand: 'Various',
+        model: '14" x 6.5" Metal or Maple Snare',
+        size: '14" x 6.5"',
+        shell: 'Steel or Maple',
+        description: "Dette's snare choices across Slayer and Testament prioritized cut and authority — a medium-bright tuning that keeps every backbeat a defined crack rather than a wash at thrash tempos.",
+        alternative: "Pearl Sensitone Steel or Ludwig Supraphonic for a similar bright, cutting attack"
+      },
+      cymbals: {
+        brand: 'Sabian / Zildjian',
+        series: 'Sabian AAX / Zildjian A or K Series',
+        setup: [
+          { type: 'Hi-Hats', model: '14" Hi-Hats', notes: 'Fast, articulate response for the sixteenth-note pulse at 180-220 BPM' },
+          { type: 'Crash', model: '16" Crash', notes: 'Quick attack and decay for accent work in fast thrash passages' },
+          { type: 'Crash', model: '18" Crash', notes: 'Fuller crash for structural accent points and section boundaries' },
+          { type: 'Ride', model: '20" Ride', notes: 'Defined bell for ride patterns; usable as a heavy wash' },
+          { type: 'China', model: '18" China', notes: 'Aggressive trash accent for the most intense passages' }
+        ],
+        description: "Dette's Sabian and Zildjian cymbals share the property thrash metal demands most: fast attack transients and controlled decay, so every stroke articulates cleanly even at 200+ BPM sixteenth-note pulses."
+      },
+      pedals: {
+        brand: 'DW / Tama',
+        model: 'DW 9000 or Tama Iron Cobra Double Bass Pedal',
+        description: "Both pedals offer the smooth, consistent action Dette's sustained double-kick passages demand — critical for a drummer who had to deliver unfamiliar, demanding material reliably from the first night of a tour.",
+        alternative: "Pearl Eliminator or Mapex Falcon for similarly consistent chain-drive response"
+      },
+      sticks: {
+        brand: 'Promark / Vater',
+        model: 'Promark or Vater 5B',
+        specs: 'Hickory, heavier weight for power',
+        description: "The 5B's added weight and diameter drives through cymbals and heads with authority at thrash tempos while standing up to the high-impact strokes that accumulate across a full touring setlist.",
+        alternative: "Vic Firth American Classic 5B for a comparable heavier-weight feel"
+      },
+      heads: {
+        kick: 'Remo Powerstroke 3',
+        snare: 'Remo Coated Ambassador',
+        toms: 'Remo Emperor Coated',
+        resonant: 'Remo Ambassador Clear'
+      }
+    },
+    tuning: {
+      title: "Tuning for Dette's Thrash Metal Sound",
+      overview: "Dette tunes for cut and articulation at high tempo — every stroke needs to register as a distinct event even during Slayer and Testament's most relentless sixteenth-note passages.",
+      kickDrum: {
+        tension: "Medium",
+        muffling: "Focused — Remo Powerstroke 3's built-in dampening ring",
+        description: "The kick is tuned for a punchy, defined attack so double-bass strokes stay articulate at 180-220 BPM instead of blurring into a single wash of low end.",
+        tip: "Prioritize attack over sustain — at thrash tempos, a boomy kick loses definition between strokes."
+      },
+      snare: {
+        tension: "Medium-bright",
+        muffling: "Minimal",
+        description: "A medium-bright tuning keeps the backbeat a defined crack rather than a wash, maintaining the articulation Slayer and Testament's dense, downtuned guitar walls demand.",
+        tip: "Test your tuning against a fast sixteenth-note backbeat pattern — every hit should stay a distinct crack, not blur into the previous one."
+      },
+      toms: {
+        tension: "Medium",
+        muffling: "Light",
+        description: "Toms are tuned for fast response and clear attack, keeping fill passages articulate even during the rapid tom runs common in thrash arrangements.",
+        tip: "Slightly higher tom tension than a typical rock kit helps each stroke speak clearly at 180+ BPM instead of washing out."
+      }
+    },
+    practice: {
+      title: "Developing Dette's Style",
+      exercises: [
+        {
+          name: "Double-Bass Consistency Drill",
+          description: "Build the metronomic evenness that defines Dette's playing",
+          instructions: "At 160 BPM, play a steady sixteenth-note double-bass pattern for three minutes. Record yourself and check for any velocity drop-off or timing drift. Only raise the tempo once the full three minutes stays perfectly even.",
+          duration: "15 minutes daily",
+          goal: "A completely even double-bass pattern sustained for three minutes at increasing tempos"
+        },
+        {
+          name: "Heel-Up Endurance Builder",
+          description: "Develop the ankle-driven footwork needed for sustained high-speed passages",
+          instructions: "Practice heel-up single strokes on a practice pad in five-minute blocks at a comfortable tempo, focusing entirely on relaxed ankle motion. Gradually increase tempo only after form stays consistent.",
+          duration: "15 minutes daily",
+          goal: "Cramp-free heel-up double bass at 200+ BPM for a full five-minute block"
+        },
+        {
+          name: "Setlist Transcription Sprint",
+          description: "Train the rapid-learning skill that made Dette the go-to fill-in for three major thrash bands",
+          instructions: "Pick an unfamiliar song. Transcribe it section by section, drill each section individually to full tempo, then play the full song start-to-finish only once every section is solid.",
+          duration: "20 minutes daily",
+          goal: "Learning an unfamiliar song to performance-ready accuracy within a week"
+        }
+      ],
+      commonMistakes: [
+        "Chasing raw speed before establishing complete evenness in the double-bass pattern",
+        "Driving double bass strokes from the hip instead of the ankle, causing early fatigue",
+        "Learning a new setlist by casual repetition instead of systematic section-by-section drilling",
+        "Over-tuning the snare for brightness at the expense of body, losing backbeat weight in a dense mix"
+      ]
+    },
+    budgetSetups: {
+      budget: {
+        price: "$1,000",
+        label: "Starter Setup",
+        kit: "Pearl Export or Ludwig Breakbeats ($700)",
+        cymbals: "Zildjian A Custom Pack ($250)",
+        pedals: "Pearl P2000C Double ($150)",
+        sticks: "Promark 5B ($10)",
+        notes: "Any focused-attack maple kit will get you close to Dette's core tone before investing in a full Ludwig Classic Maple shell pack."
+      },
+      mid: {
+        price: "$3,000",
+        label: "Intermediate Setup",
+        kit: "Ludwig Classic Maple partial shell pack ($1,800)",
+        cymbals: "Sabian AAX or Zildjian A Custom Set ($900)",
+        pedals: "Tama Iron Cobra Double ($300)",
+        sticks: "Promark or Vater 5B ($10)",
+        notes: "A partial Ludwig Classic Maple pack plus a matched cymbal set gets you most of the way to Dette's live tone."
+      },
+      pro: {
+        price: "$5,000+",
+        label: "Professional Setup",
+        kit: "Ludwig Classic Maple full shell pack ($3,500+)",
+        cymbals: "Full Sabian/Zildjian professional selection ($1,400+)",
+        pedals: "DW 9000 Double ($400)",
+        heads: "Full Remo setup ($150)",
+        notes: "Touring-ready setup matching Dette's Slayer and Testament-era configuration."
+      }
+    },
+    faq: [
+      {
+        question: "What makes Jon Dette's drumming style unique?",
+        answer: "Dette's defining trait is precision and reliability under pressure — the ability to learn an entire demanding setlist, like Slayer's full live show in 1996, on short notice and deliver it with metronomic accuracy from the first show. Rather than a signature technical flourish, his identity is built on rapid adaptation, consistent double-bass timing, and professional dependability across three major thrash acts."
+      },
+      {
+        question: "What drums and cymbals does Jon Dette use?",
+        answer: "Dette played a Ludwig Classic Maple kit with a 14\" x 6.5\" metal or maple snare during his Slayer tenure. His cymbals are Sabian and Zildjian — 14\" hi-hats, 16\" and 18\" crashes, a 20\" ride, and an 18\" china for aggressive accents. He uses a DW 9000 or Tama Iron Cobra double bass pedal and Promark or Vater 5B sticks."
+      },
+      {
+        question: "How do I get Jon Dette's thrash metal drum sound?",
+        answer: "Tune the kick for punchy, defined attack rather than boom, keep the snare medium-bright with minimal muffling for cut, and build double-bass evenness at a reduced tempo before chasing speed. Dette's sound comes from consistency at 180-220 BPM, not raw aggression — every stroke needs to register as a distinct event."
+      },
+      {
+        question: "Which bands did Jon Dette play drums for?",
+        answer: "Jon Dette played with three major thrash metal acts: Slayer (touring, 1996-1997, filling in for Paul Bostaph), Testament (1997-1999 and 2001-2012, recording three studio albums), and Anthrax (touring fill-in for Charlie Benante in 2010). This makes him one of only a handful of drummers to have performed with three of thrash's biggest bands."
+      },
+      {
+        question: "What Testament albums should I study for Jon Dette's drumming?",
+        answer: "The Gathering (1999) is Dette's most acclaimed studio work — start with 'D.N.R. (Do Not Resuscitate)' and 'Down for Life' for his metronomic double-bass drive at full intensity. The Formation of Damnation (2008) shows his playing in Testament's modern comeback era on 'More Than Meets the Eye,' and Dark Roots of Earth (2012) captures his late-career precision on 'Native Blood.'"
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/jon-dette',
+      similarDrummers: ['Paul Bostaph', 'Dave Lombardo', 'Charlie Benante'],
+      relatedGuides: ['how-to-sound-like-paul-bostaph', 'how-to-sound-like-charlie-benante'],
+      gearPages: ['/gear/drums', '/brands/sabian', '/brands/zildjian']
+    },
+    licksUrl: '/drummers/jon-dette/licks',
+    relatedArticles: [
+      { slug: 'jon-dette-drum-setup', label: "Jon Dette's Drum Setup — Slayer's Underrated Thrash Machine" }
+    ]
+  },
 };
 
 // ================================

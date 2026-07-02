@@ -251,6 +251,8 @@ const soundLikeGuides = [
   // Issue #2770: SEO batch 23 — Alex Bent, Nick Augusto (Ben Koller already added in batch 33)
   { slug: 'how-to-sound-like-alex-bent', name: 'How to Sound Like Alex Bent' },
   { slug: 'how-to-sound-like-nick-augusto', name: 'How to Sound Like Nick Augusto' },
+  // Issue #2388: SoundLike guide — Jon Dette (re-scoped from batch 15)
+  { slug: 'how-to-sound-like-jon-dette', name: 'How to Sound Like Jon Dette' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

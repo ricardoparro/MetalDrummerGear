@@ -350,29 +350,64 @@ async function latestRun(wf) {
   }
 }
 
-function searchCount(items) {
-  return Array.isArray(items) ? items.length : 0;
-}
+// Max pages (100/page) to walk when counting recent PR activity. Sized well
+// above the repo's real 24h PR volume so the window boundary is always found;
+// just a backstop against runaway pagination.
+const PR_SCAN_MAX_PAGES = 10;
 
 async function collectRoadie() {
-  const sinceIso = new Date(Date.now() - DROUGHT_WINDOW_H * 3600000).toISOString();
+  const since = Date.now() - DROUGHT_WINDOW_H * 3600000;
 
-  // roadie/* PRs opened in last 24h, via the search API (head branch prefix).
-  const openedQ = encodeURIComponent(`repo:${REPO} is:pr head:roadie/ created:>=${sinceIso}`);
-  const openedRes = await ghRequest('GET', `/search/issues?q=${openedQ}&per_page=100`);
-  const prsOpened = openedRes ? (openedRes.total_count ?? searchCount(openedRes.items)) : 0;
+  // roadie/* PRs opened + PRs merged in the last 24h, via the primary pulls
+  // REST API rather than /search/issues. The search index is eventually
+  // consistent and previously lagged far enough behind a merge burst to read
+  // back 0 opened + 0 merged while dozens of PRs had actually shipped hours
+  // earlier — a false "Roadie shipped nothing" alert. The pulls endpoint reads
+  // straight from the primary store, so it can't go stale like that.
+  const seenOpened = new Set();
+  let prsMerged = 0;
 
-  // PRs merged in last 24h.
-  const mergedQ = encodeURIComponent(`repo:${REPO} is:pr is:merged merged:>=${sinceIso}`);
-  const mergedRes = await ghRequest('GET', `/search/issues?q=${mergedQ}&per_page=100`);
-  const prsMerged = mergedRes ? (mergedRes.total_count ?? searchCount(mergedRes.items)) : 0;
+  // Closed PRs, newest-updated first. Merging always bumps updated_at, so a
+  // page whose oldest updated_at already falls outside the window means every
+  // earlier page is outside it too — safe to stop there.
+  for (let page = 1; page <= PR_SCAN_MAX_PAGES; page++) {
+    const closed = await ghRequest('GET',
+      `/repos/${REPO}/pulls?state=closed&sort=updated&direction=desc&per_page=100&page=${page}`);
+    if (!Array.isArray(closed) || closed.length === 0) break;
+    for (const pr of closed) {
+      if (pr.merged_at && new Date(pr.merged_at).getTime() >= since) prsMerged++;
+      if (pr.created_at && new Date(pr.created_at).getTime() >= since &&
+          pr.head && typeof pr.head.ref === 'string' && pr.head.ref.startsWith('roadie/')) {
+        seenOpened.add(pr.number);
+      }
+    }
+    if (new Date(closed[closed.length - 1].updated_at).getTime() < since) break;
+  }
 
-  // Open ai-fix issue count.
+  // Still-open PRs, newest-created first — same window logic on created_at.
+  for (let page = 1; page <= PR_SCAN_MAX_PAGES; page++) {
+    const open = await ghRequest('GET',
+      `/repos/${REPO}/pulls?state=open&sort=created&direction=desc&per_page=100&page=${page}`);
+    if (!Array.isArray(open) || open.length === 0) break;
+    let anyInWindow = false;
+    for (const pr of open) {
+      if (pr.created_at && new Date(pr.created_at).getTime() >= since) {
+        anyInWindow = true;
+        if (pr.head && typeof pr.head.ref === 'string' && pr.head.ref.startsWith('roadie/')) {
+          seenOpened.add(pr.number);
+        }
+      }
+    }
+    if (!anyInWindow) break;
+  }
+
+  // Open ai-fix issue count — a point-in-time snapshot (not a recency window),
+  // so search-index lag isn't a correctness concern here.
   const fixQ = encodeURIComponent(`repo:${REPO} is:issue is:open label:ai-fix`);
   const fixRes = await ghRequest('GET', `/search/issues?q=${fixQ}&per_page=1`);
   const openAiFix = fixRes ? (fixRes.total_count ?? 0) : 0;
 
-  return { prsOpened, prsMerged, openAiFix };
+  return { prsOpened: seenOpened.size, prsMerged, openAiFix };
 }
 
 async function collectSnapshots() {

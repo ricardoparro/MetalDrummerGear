@@ -1013,6 +1013,7 @@ export const articles = {
     "videos": [],
     "relatedAlbums": [
       "the-paradigm-shift-drum-setup",
+      "the-nothing-drum-setup",
       "korn-iii-drum-setup",
       "whats-in-ray-luziers-kit"
     ],
@@ -1049,7 +1050,269 @@ export const articles = {
     ],
     "conclusion": {
       "title": "Luzier at His Most Confident: The Serenity of Suffering",
-      "content": "*The Serenity of Suffering* is the record that best captures Ray Luzier at the height of his Korn powers. A decade after joining as a touring drummer, fully integrated into the band's identity and groove language, Luzier delivered a performance on this album that drove one of the most critically praised Korn records of the modern era.\n\nThe Grammy-nominated 'Take Me' alone would make *Serenity* a landmark in his Korn catalog. But it's the album's consistent, groove-locked heaviness — 'Rotting in Vain,' 'Black Is the Soul,' 'A Different World' — that demonstrates what Luzier brings to Korn's music when a producer like Raskulinecz gives the drums room to breathe and physical weight to project.\n\nHis Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedals represent the mature Luzier rig delivering the kind of performance these instruments were built for.\n\nFor deeper exploration:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Paradigm Shift Drum Setup (2013)](/articles/the-paradigm-shift-drum-setup)\n- **Joey Jordison — Slipknot comparison**: [Joey Jordison at MetalForge](/drummer/joey-jordison) — Corey Taylor's drummer across Slipknot's catalog\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
+      "content": "*The Serenity of Suffering* is the record that best captures Ray Luzier at the height of his Korn powers. A decade after joining as a touring drummer, fully integrated into the band's identity and groove language, Luzier delivered a performance on this album that drove one of the most critically praised Korn records of the modern era.\n\nThe Grammy-nominated 'Take Me' alone would make *Serenity* a landmark in his Korn catalog. But it's the album's consistent, groove-locked heaviness — 'Rotting in Vain,' 'Black Is the Soul,' 'A Different World' — that demonstrates what Luzier brings to Korn's music when a producer like Raskulinecz gives the drums room to breathe and physical weight to project.\n\nHis Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedals represent the mature Luzier rig delivering the kind of performance these instruments were built for.\n\nFor deeper exploration:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Paradigm Shift Drum Setup (2013)](/articles/the-paradigm-shift-drum-setup)\n- **Next album**: [The Nothing Drum Setup (2019)](/articles/the-nothing-drum-setup)\n- **Joey Jordison — Slipknot comparison**: [Joey Jordison at MetalForge](/drummer/joey-jordison) — Corey Taylor's drummer across Slipknot's catalog\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
+    }
+  },
+  "the-nothing-drum-setup": {
+    "slug": "the-nothing-drum-setup",
+    "albumTitle": "The Nothing",
+    "artist": "Korn",
+    "drummer": "Ray Luzier",
+    "drummerId": 8,
+    "relatedDrummerSlug": "ray-luzier",
+    "year": 2019,
+    "genre": "Nu-Metal",
+    "label": "Roadrunner Records / Elektra Records",
+    "studio": "Rock Falcon Studio, Nashville, TN / Buck Owens Studio, Bakersfield, CA",
+    "producer": "Nick Raskulinecz",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-02",
+    "dateModified": "2026-07-02",
+    "author": "MetalForge Editorial",
+    "title": "The Nothing Drum Setup: Ray Luzier's 2019 Korn Gear Breakdown",
+    "description": "Ray Luzier's drum setup on Korn's The Nothing (2019) — the band's rawest, most personal album, written in the wake of Jonathan Davis's grief. Pearl Reference Maple drums, Pearl Reference Brass snare, Sabian AAX cymbals, Pearl Demon Drive pedals. Full gear breakdown including 'You'll Never Find Me' and 'Finally Free.'",
+    "seoKeywords": [
+      "the nothing drum setup",
+      "korn the nothing drums",
+      "ray luzier korn 2019 drums",
+      "korn the nothing drummer",
+      "ray luzier pearl drums 2019",
+      "you'll never find me korn drums",
+      "is the nothing a concept album",
+      "korn the nothing album meaning",
+      "ray luzier sabian aax 2019",
+      "korn 13th studio album drummer"
+    ],
+    "ogImage": "/images/drummers/ray-luzier.webp",
+    "intro": {
+      "title": "Grief Turned Into Groove: Ray Luzier on The Nothing",
+      "content": "Released on September 13, 2019, through Roadrunner Records and Elektra, *The Nothing* is Korn's thirteenth studio album — and the darkest, most personal record the band has ever made. Written and recorded in the aftermath of two devastating losses in singer Jonathan Davis's life — the deaths of his wife Deven and his mother Holly Marie Chavez — the album abandons the arm's-length metaphor common to much of Korn's earlier catalog in favor of direct, unguarded grief. Davis has described the sessions as a form of personal therapy, telling Kerrang! that where a typical Korn vocal session might take two weeks, *The Nothing* took him around four months to record because he kept breaking down mid-take. 'When you hear me break down and cry,' he said, 'that's not fake.'\n\nNick Raskulinecz — the producer who had steered *The Serenity of Suffering* (2016) toward its dark, heavy focus — returned for *The Nothing*, tracking the album at Rock Falcon Studio in Nashville and Buck Owens Studio in Bakersfield, California, the same Bakersfield room Korn would return to three years later for *Requiem*. The result is an album critics called some of Korn's strongest and most authentic work: it holds an 83 on Metacritic, and AllMusic singled it out as some of the most emotionally honest music of the band's career. Commercially, *The Nothing* debuted at #8 on the Billboard 200 — Korn's fourteenth US Top 10 album — powered by the singles 'You'll Never Find Me,' 'Cold,' and 'Can You Hear Me.'\n\nFor Ray Luzier, *The Nothing* sits directly between two of his most acclaimed studio performances with the band — *The Serenity of Suffering* and *Requiem* — and closes the arc between them. His drumming across the record has to do something specific: hold a controlled, physical foundation under some of the rawest vocal performances Davis has ever recorded, without ever overplaying a moment that calls for restraint. 'Finally Free' — which addresses Davis's grief most directly — demands a drummer who can build tension and then get out of the way; 'You'll Never Find Me' and 'Cold' call for the propulsive, groove-locked double-kick work that has defined Luzier's decade-plus in the band.\n\nLuzier's gear for *The Nothing* sessions continued the Pearl platform he'd established since *The Paradigm Shift* (2013): Pearl Reference Maple kit, Pearl Reference Brass snare, Sabian AAX cymbals, and the Pearl Demon Drive double pedal — the same rig, deployed here in service of Korn's most emotionally demanding record.",
+      "keyPoints": [
+        "Korn's 13th studio album — written after the deaths of Jonathan Davis's wife Deven and mother Holly Marie Chavez",
+        "Produced by Nick Raskulinecz, returning from The Serenity of Suffering (2016)",
+        "Recorded at Rock Falcon Studio (Nashville) and Buck Owens Studio (Bakersfield) — the same Bakersfield room used later for Requiem",
+        "Debuted at #8 on the Billboard 200 — Korn's 14th US Top 10 album",
+        "Metacritic score of 83 — among the band's most critically acclaimed records",
+        "Fills the gap in Ray Luzier's Korn arc between The Serenity of Suffering (2016) and Requiem (2022)"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference Maple: Steady Ground Under Raw Grief",
+      "brand": "Pearl",
+      "model": "Pearl Reference Maple",
+      "finish": "Custom finish (Korn touring/studio configuration)",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "14\" x 11\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom",
+          "18\" x 16\" Floor Tom"
+        ],
+        "shells": "Pearl Reference Maple — multi-species laminate shell construction"
+      },
+      "description": "Ray Luzier carried the same Pearl Reference Maple kit into *The Nothing* sessions that had defined *The Paradigm Shift* and *The Serenity of Suffering* — continuity that mattered on a record built around emotional exposure rather than production experimentation. With Nick Raskulinecz back behind the board, the sessions again favored natural room capture over heavy processing, letting the Reference Maple's balanced brightness and resonance carry through without artificial reinforcement.\n\nThe double 22\" bass drum configuration remained Luzier's rhythmic anchor. On 'You'll Never Find Me' and 'Cold,' the sustained double-kick patterns that drive Korn's groove architecture needed the same full, authoritative low end that had powered 'Rotting in Vain' three years earlier — but on 'Finally Free,' the kit's demands shift entirely: the track calls for restraint, space, and dynamic control rather than density, and the Reference Maple's tonal depth held up at lower volumes just as well as at full intensity.\n\nThe five-tom spread gave Luzier room for the flowing, musical fills that mark his playing, but *The Nothing*'s emotional register asked him to use that range more sparingly than on earlier records — fills placed to punctuate a lyric or mark a structural turn rather than to display technique. Recording partly at Rock Falcon Studio in Nashville and partly back at Buck Owens Studio in Bakersfield — the same room Korn would return to for *Requiem* in 2021 — meant the Reference Maple's shells needed to hold their tuning consistently across two different rooms and two different recording windows, a demand the kit's premium construction met without issue.",
+      "notes": [
+        "Pearl Reference Maple — continued unchanged from The Paradigm Shift (2013) and The Serenity of Suffering (2016)",
+        "Double 22\" bass drums anchoring both the record's propulsive tracks and its more restrained, grief-driven cuts",
+        "Recorded across two studios — Rock Falcon (Nashville) and Buck Owens (Bakersfield) — the same Bakersfield room used later for Requiem",
+        "Five-tom spread deployed sparingly, prioritizing emotional restraint over technical display",
+        "Multi-species laminate shells held tuning stability across a fragmented, multi-location recording schedule"
+      ],
+      "estimatedValue": "$4,000–7,000 (Pearl Reference shell pack)"
+    },
+    "snare": {
+      "title": "Pearl Reference Brass: The Human Crack Behind the Grief",
+      "brand": "Pearl",
+      "model": "Pearl Reference 14\" × 6.5\" Brass",
+      "size": "14\" × 6.5\"",
+      "shell": "Brass",
+      "description": "Luzier's Pearl Reference brass snare carried through into *The Nothing*, providing the same bright, projecting crack that had defined *The Serenity of Suffering*. On a record this emotionally exposed, the snare's role shifts subtly — it's less a wall-of-sound element competing with layered guitars and more a grounding pulse underneath Davis's most vulnerable vocal takes. On 'Can You Hear Me' and 'Finally Free,' the brass shell's natural brightness and controlled sustain keep the backbeat present without overwhelming the mix's emotional space.\n\nThe 14\" × 6.5\" depth continued to deliver the full-bodied backbeat that had defined Luzier's Pearl era, but Raskulinecz's production on *The Nothing* — much like his work on *Serenity of Suffering* — favored natural dynamics over heavy compression, meaning every nuance of Luzier's touch on the snare, from ghost notes to full-force accents, is audible in the final mix.",
+      "tuningSetting": "Medium to medium-high tension — bright attack with enough natural sustain to support the album's exposed, dynamically varied mix",
+      "heads": "Remo Coated Emperor (batter), Remo Hazy Ambassador Snare Side (resonant)",
+      "estimatedValue": "$500–700 (Pearl Reference brass snare)"
+    },
+    "cymbals": {
+      "title": "Sabian AAX: Restraint and Impact on Korn's Heaviest Record",
+      "brand": "Sabian",
+      "series": "Sabian AAX Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Sabian AAX 14\" Stage Hi-Hats",
+          "position": "Left side",
+          "notes": "Bright, articulate groove anchor across the album's propulsive and restrained tracks alike"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX 18\" X-Plosion Crash",
+          "position": "Left crash",
+          "notes": "Fast, cutting accent for section transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian AAX 19\" X-Plosion Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash reserved for the album's heavier peaks"
+        },
+        {
+          "type": "Ride",
+          "model": "Sabian AAX 21\" Stage Ride",
+          "position": "Far right",
+          "notes": "Clear bell definition for pattern work across the record's varied tempos"
+        },
+        {
+          "type": "China",
+          "model": "Sabian AAX 18\" AAXtreme China",
+          "position": "Above floor tom",
+          "notes": "Used sparingly — reserved for the album's genuine emotional and dynamic peaks"
+        }
+      ],
+      "description": "Luzier's Sabian AAX setup carried over unchanged for *The Nothing*, continuing the cymbal platform he'd used since *The Paradigm Shift*. The AAX series' bright, fast-responding character remained essential — Korn's dense guitar layering on tracks like 'The Darkness Is Revealing' and 'Idiosyncrasy' still needed cymbals that could cut through without added EQ lift.\n\nWhere the setup's deployment changed was in restraint. The AAXtreme China — used aggressively throughout *The Serenity of Suffering* — appears more sparingly on *The Nothing*, reserved for the album's genuine emotional peaks rather than routine accents. On 'Finally Free' in particular, a single well-placed China hit carries more weight for being one of the only ones in the song, using the cymbal's raw, aggressive voice as a dramatic tool rather than a rhythmic constant.",
+      "estimatedValue": "$2,000–3,500 (full Sabian AAX setup)"
+    },
+    "hardware": {
+      "title": "Pearl Demon Drive: From Propulsion to Precision",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Demon Drive Double Bass Pedal",
+          "notes": "Direct-drive double pedal — spanning propulsive groove tracks and restrained, space-conscious cuts",
+          "description": "The Pearl Demon Drive's direct-drive design remained Luzier's foot weapon for *The Nothing*, and the album's mix of propulsive groove tracks and restrained, space-conscious cuts gave the pedal a genuine range test. On 'You'll Never Find Me' and 'Cold,' the Demon Drive delivered the same sustained, groove-locked double-kick response that had driven Korn's records since *The Paradigm Shift*. On 'Finally Free,' the same pedal needed to deliver single, precisely placed kick hits rather than sustained runs — a different technical demand that the direct-drive design's immediate 1:1 response handled just as capably."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Promark",
+          "model": "Promark Ray Luzier Signature TX420X",
+          "notes": "Signature model — balanced for both the album's heavier moments and its restrained, exposed passages"
+        },
+        {
+          "type": "Throne",
+          "brand": "Pearl",
+          "model": "Pearl D-2000 Roadster Throne",
+          "notes": "Stable Pearl hardware foundation across the Rock Falcon and Buck Owens sessions"
+        },
+        {
+          "type": "Drumheads (Toms)",
+          "brand": "Evans",
+          "model": "Evans EC2 Coated",
+          "notes": "Controlled sustain and focused attack — natural response suited to Raskulinecz's production"
+        },
+        {
+          "type": "Drumheads (Bass Drum)",
+          "brand": "Evans",
+          "model": "Evans EMAD2",
+          "notes": "Controlled attack with suppressed overtones for clean double-kick definition"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD2 (batter), Evans EQ3 Resonant (ported)",
+        "toms": "Evans EC2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Remo Coated Emperor (batter), Remo Hazy Ambassador (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Nick Raskulinecz Returns: Grief, Two Studios, and Four Months of Vocals",
+      "content": "*The Nothing*'s production story begins with Nick Raskulinecz's return. Having helmed *The Serenity of Suffering* in 2016 — the album critics called Korn's best in years — Raskulinecz came back for a record built around something far more difficult to capture: genuine, unguarded grief.\n\n**Two Studios, One Extended Timeline:**\nSessions took place at Rock Falcon Studio in Nashville, Tennessee, and Buck Owens Studio in Bakersfield, California — the same Bakersfield room Korn would return to in 2021 to record *Requiem*. Recording ran from August 2018 into early 2019, an unusually long window for a Korn album.\n\n**Four Months of Vocals:**\nJonathan Davis has said that a typical Korn album takes him about two weeks to record vocals for; *The Nothing* took him roughly four months. He has described repeatedly breaking down during takes as he processed the deaths of his wife Deven and his mother Holly Marie Chavez in the months before recording began, and has called the sessions a form of personal therapy.\n\n**A Rhythm Section Holding Steady:**\nFor Luzier and the rest of the band, that extended, emotionally difficult vocal process meant the instrumental tracks — drums, bass, guitars — had to provide an unusually steady foundation. Raskulinecz's production, much like his work three years earlier, favored natural room capture and live performance energy over heavy processing, giving Luzier's Pearl Reference kit space to breathe under Davis's most exposed performances of his career.",
+      "sections": [
+        {
+          "title": "Nick Raskulinecz Returns",
+          "description": "Producer of The Serenity of Suffering (2016) came back for Korn's most personal record."
+        },
+        {
+          "title": "Rock Falcon + Buck Owens Studio",
+          "description": "Sessions split between Nashville and Bakersfield — the same Bakersfield room later used for Requiem (2022)."
+        },
+        {
+          "title": "Grief as Personal Therapy",
+          "description": "Jonathan Davis spent roughly four months on vocals, processing the deaths of his wife and mother in real time."
+        }
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "You'll Never Find Me",
+        "bpm": "128",
+        "signature": "4/4",
+        "highlights": [
+          "Lead single, released June 25, 2019 — the first taste of Korn's darkest record",
+          "Groove-locked double-kick pattern anchoring one of the album's most immediate tracks",
+          "Demonstrates Luzier's ability to deliver propulsive energy inside an emotionally heavy record",
+          "Set the tone for The Nothing's blend of aggression and vulnerability"
+        ],
+        "gearNotes": "Pearl Demon Drive driving the sustained double-kick pattern. Sabian AAX hi-hats anchoring the verse groove."
+      },
+      {
+        "track": "Cold",
+        "bpm": "118",
+        "signature": "4/4",
+        "highlights": [
+          "Second single, released August 2, 2019",
+          "Mid-tempo groove built on the Luzier/Fieldy rhythm lock",
+          "Pearl Reference Brass snare crack driving the chorus backbeat",
+          "One of the album's more accessible tracks, balancing aggression with hooks"
+        ],
+        "gearNotes": "Full Pearl Reference Maple kit deployment. Sabian AAX crash pair marking the chorus transitions."
+      },
+      {
+        "track": "Finally Free",
+        "bpm": "95",
+        "signature": "4/4",
+        "highlights": [
+          "Addresses Jonathan Davis's grief most directly of any track on the album",
+          "Luzier's most restrained, dynamically controlled performance on the record",
+          "Sabian AAXtreme China reserved for a single, dramatic peak rather than routine accents",
+          "Demonstrates how the rhythm section holds steady under Korn's most emotionally exposed vocal performance"
+        ],
+        "gearNotes": "Pearl Reference Maple kit used with maximum restraint. Single AAXtreme China accent at the track's emotional peak."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "serenity-of-suffering-drum-setup",
+      "requiem-drum-setup",
+      "whats-in-ray-luziers-kit"
+    ],
+    "relatedDrummers": [
+      2,
+      7,
+      1
+    ],
+    "relatedArticles": [
+      "nu-metal-drum-setups",
+      "best-double-bass-pedals-metal"
+    ],
+    "faq": [
+      {
+        "question": "What kit did Ray Luzier use on The Nothing?",
+        "answer": "Ray Luzier used his Pearl Reference Maple drum kit on Korn's The Nothing (2019), continuing the Pearl platform he'd used since The Paradigm Shift (2013) and The Serenity of Suffering (2016). The configuration included double 22\" bass drums with a Pearl Demon Drive pedal, a five-tom spread, and a Pearl Reference 14\" × 6.5\" Brass snare. His cymbals were Sabian AAX, including 14\" Stage Hi-Hats, 18\" and 19\" X-Plosion Crashes, a 21\" Stage Ride, and an 18\" AAXtreme China."
+      },
+      {
+        "question": "Who played drums on Korn's The Nothing?",
+        "answer": "Ray Luzier played drums on Korn's The Nothing (2019), the band's thirteenth studio album. Luzier had been Korn's drummer since 2007 and had already recorded Korn III (2010), The Path of Totality (2011), The Paradigm Shift (2013), and The Serenity of Suffering (2016) with the band by the time The Nothing was recorded, making it his fifth full studio album with Korn."
+      },
+      {
+        "question": "Is The Nothing a concept album?",
+        "answer": "The Nothing isn't a formal concept album with a linear narrative, but it is thematically unified around Jonathan Davis's grief following the deaths of his wife Deven and his mother Holly Marie Chavez in the months before recording. Davis has said the album functioned as personal therapy, and songs like 'Finally Free' address that loss directly. The record's emotional cohesion — rather than a plotted story — is what gives it a concept-album feel to many listeners and critics."
+      },
+      {
+        "question": "What is Korn's The Nothing album about?",
+        "answer": "Korn's The Nothing (2019) is about grief. Frontman Jonathan Davis wrote and recorded the album in the wake of his wife Deven's death and his mother Holly Marie Chavez's death, and has described the sessions — which took roughly four months of vocal recording, compared to his usual two weeks — as a form of personal therapy. Davis has said that the emotional breakdowns audible on the record during his vocal takes are genuine, not performed."
+      },
+      {
+        "question": "Who produced Korn's The Nothing?",
+        "answer": "The Nothing (2019) was produced by Nick Raskulinecz, returning after producing The Serenity of Suffering (2016). Sessions took place at Rock Falcon Studio in Nashville, Tennessee, and Buck Owens Studio in Bakersfield, California — the same Bakersfield room Korn would use again for Requiem (2022). The album was released September 13, 2019, through Roadrunner Records and Elektra, debuting at #8 on the Billboard 200."
+      }
+    ],
+    "conclusion": {
+      "title": "The Rawest Record: Ray Luzier on The Nothing",
+      "content": "*The Nothing* is the record where Ray Luzier's steady, groove-first drumming mattered most — not as a display of technique, but as the foundation that let Jonathan Davis process the worst year of his life in front of a microphone. Debuting at #8 on the Billboard 200 and drawing some of the strongest reviews of Korn's career, the album proved that the band's rawest material could also be its most acclaimed.\n\nLuzier's Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedal carried the same DNA that had defined *The Paradigm Shift* and *The Serenity of Suffering* — deployed here with the restraint and dynamic sensitivity that one of Korn's most personal albums demanded. It closes the gap in Luzier's Korn discography between two of his most acclaimed studio performances.\n\nFor deeper exploration of Ray Luzier's complete Korn arc:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)\n- **Next album**: [Requiem Drum Setup (2022)](/articles/requiem-drum-setup)\n- **Korn band profile**: [Korn at MetalForge](/bands/korn)\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
     }
   },
   "requiem-drum-setup": {
@@ -1274,6 +1537,7 @@ export const articles = {
     ],
     "videos": [],
     "relatedAlbums": [
+      "the-nothing-drum-setup",
       "serenity-of-suffering-drum-setup",
       "korn-iii-drum-setup",
       "whats-in-ray-luziers-kit"
@@ -1311,7 +1575,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Arc Comes Home: Requiem",
-      "content": "*Requiem* closes a fourteen-year circle for Ray Luzier — from a touring drummer proving himself on *Korn III* in 2010 to a fully integrated member delivering one of the most controlled, dynamically mature performances of his career, recorded in the band's own hometown. Debuting at #14 on the Billboard 200 with 'Start the Healing' topping the Active Rock chart, *Requiem* confirmed that Korn — and its rhythm section — still had new ground to cover after nearly three decades.\n\nLuzier's Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedal carried the same DNA as *The Paradigm Shift* and *Serenity of Suffering*, deployed here with a new degree of restraint that let *Requiem*'s atmosphere breathe. It's the sound of a drummer who no longer has anything to prove, playing exactly what the song needs.\n\nFor deeper exploration of Ray Luzier's complete Korn arc:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)\n- **Where it began**: [Korn III Drum Setup (2010)](/articles/korn-iii-drum-setup)\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
+      "content": "*Requiem* closes a fourteen-year circle for Ray Luzier — from a touring drummer proving himself on *Korn III* in 2010 to a fully integrated member delivering one of the most controlled, dynamically mature performances of his career, recorded in the band's own hometown. Debuting at #14 on the Billboard 200 with 'Start the Healing' topping the Active Rock chart, *Requiem* confirmed that Korn — and its rhythm section — still had new ground to cover after nearly three decades.\n\nLuzier's Pearl Reference Maple kit, Reference Brass snare, Sabian AAX cymbals, and Demon Drive pedal carried the same DNA as *The Paradigm Shift* and *Serenity of Suffering*, deployed here with a new degree of restraint that let *Requiem*'s atmosphere breathe. It's the sound of a drummer who no longer has anything to prove, playing exactly what the song needs.\n\nFor deeper exploration of Ray Luzier's complete Korn arc:\n- **Full drummer profile**: [Ray Luzier at MetalForge](/drummer/ray-luzier)\n- **Complete current kit guide**: [What's in Ray Luzier's Kit?](/articles/whats-in-ray-luziers-kit)\n- **Previous album**: [The Nothing Drum Setup (2019)](/articles/the-nothing-drum-setup)\n- **Two albums back**: [The Serenity of Suffering Drum Setup (2016)](/articles/serenity-of-suffering-drum-setup)\n- **Where it began**: [Korn III Drum Setup (2010)](/articles/korn-iii-drum-setup)\n- **Nu-metal context**: [Nu-Metal Drum Setups](/articles/nu-metal-drum-setups)"
     }
   },
   "whats-in-ray-luziers-kit": {

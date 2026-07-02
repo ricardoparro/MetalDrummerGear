@@ -243,6 +243,248 @@ export const articles = {
       "content": "Nick Augusto's two-album Trivium tenure produced some of the band's most commercially successful and critically recognized work. His gear choices were deliberate and consistent: Tama's Starclassic Performer B/B for attack-forward shell response, Meinl MB20 cymbals for aggressive projection in a dense mix, and the Tama Iron Cobra 900 for the sustained double-bass work that drives \"In Waves\" and \"Vengeance Falls.\"\n\nThe through-line is a drummer optimizing every component for impact and reliability in the demanding context of high-tempo modern metal touring:\n\n- **Tama Starclassic Performer B/B**: Birch/bubinga shells deliver the tight attack and controlled sustain that thrash-influenced metalcore requires — fast, punchy, and consistent across 200+ tour dates\n- **Meinl MB20 / Classics Custom Cymbals**: A hybrid setup balancing dark, heavy crash projection (MB20) with bright hi-hat and ride articulation (Classics Custom) — covering both aggressive accent work and precise pattern playing\n- **Tama Iron Cobra 900**: The Rolling Glide cam's progressive action supports sustained double-bass patterns at metalcore tempos without mechanical fatigue\n- **Evans EMAD2 Bass Drum Head**: Controlled attack and built-in muffling for punch without boom — essential for the tight low-end feel of Trivium's studio sound\n\nAugusto left Trivium in 2014, and the \"In Waves\" era he helped define remains a reference point for metal drummers studying the intersection of thrash technique and metalcore production.\n\nFor deeper exploration:\n- **Full drummer profile**: [Nick Augusto at MetalForge](/drummer/nick-augusto)\n- **Metalcore drumming**: [Matt Greiner drum setup — August Burns Red](/articles/matt-greiner-complete-drum-setup)\n- **Hardcore metalcore**: [Ben Koller drum setup — Converge](/articles/ben-koller-drum-setup)\n- **Double-bass technique**: [Double-bass drumming for metal at MetalForge](/articles/double-bass-drumming-for-metal)\n- **Breakdown beat guide**: [Breakdown beat guide at MetalForge](/articles/breakdown-beat-guide)"
     }
   },
+  "vengeance-falls-drum-setup": {
+    "slug": "vengeance-falls-drum-setup",
+    "albumTitle": "Vengeance Falls",
+    "artist": "Trivium",
+    "drummer": "Nick Augusto",
+    "drummerId": 26,
+    "drummerSlug": "nick-augusto",
+    "relatedDrummerSlug": "nick-augusto",
+    "year": 2013,
+    "genre": "Metalcore / Groove Metal",
+    "label": "Roadrunner Records",
+    "studio": "DMD Productions, Austin, Texas",
+    "producer": "David Draiman (Disturbed)",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "Vengeance Falls Drum Setup: Nick Augusto's David Draiman-Produced Trivium Album (2013)",
+    "metaTitle": "Trivium Vengeance Falls Drum Setup — Nick Augusto Kit & Gear Guide | MetalForge",
+    "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's Vengeance Falls (2013). Tama Starclassic kit, Meinl MB20 cymbals, and how Disturbed's David Draiman shaped a heavier, groove-focused drum sound in his production debut.",
+    "seoKeywords": [
+      "trivium vengeance falls drums",
+      "nick augusto drum kit 2013",
+      "trivium drum setup",
+      "vengeance falls drum setup",
+      "nick augusto tama starclassic",
+      "david draiman trivium producer",
+      "trivium vengeance falls gear",
+      "nick augusto meinl cymbals"
+    ],
+    "ogImage": "/images/drummers/nick-augusto.webp",
+    "intro": {
+      "title": "David Draiman Steps Behind the Board",
+      "content": "Released October 14, 2013 in the UK and October 15, 2013 in the US on Roadrunner Records, \"Vengeance Falls\" is Trivium's sixth studio album and the second and final record to feature drummer Nick Augusto before his departure from the band in May 2014. Where \"Shogun\" (2008) chased progressive-thrash ambition and \"In Waves\" (2011) leaned into raw thrash aggression, \"Vengeance Falls\" pulled in a different direction entirely: shorter, more direct songs built for impact over sprawl, with every track on the standard edition running under six minutes.\n\nThe album's defining twist was its producer. David Draiman — lead vocalist of Disturbed and Device — took the production chair for the first time in his career, tracking the album at his own studio, DMD Productions in Austin, Texas, during February and March 2013. It's a rare case of one prominent metal frontman shaping another band's record from the console rather than the microphone, and Draiman pushed Trivium toward a more song-focused, radio-conscious version of their sound. Mixing was handled by Colin Richardson and Carl Bown at Treehouse Studio in the UK, with mastering by Ted Jensen at Sterling Sound in New York.\n\nFor Nick Augusto, \"Vengeance Falls\" meant adapting his thrash-rooted, technically dense \"In Waves\" playing to a groove-first production philosophy — locking into pocket-driven patterns rather than showcasing pure speed. The album debuted at #15 on the Billboard 200 and reached #23 on the UK Albums Chart, backed by singles \"Brave This Storm\" and \"Strife,\" the latter singled out by The Guardian as an anthemic standout in a record it called \"a proud and focused heavy metal album.\"\n\nThis article documents the drum gear Nick Augusto used on \"Vengeance Falls\": the Tama Starclassic Performer B/B kit, Meinl MB20 cymbals, Tama Iron Cobra 900 pedal, and how Draiman's rock-conscious production reshaped the tuning and mix approach without changing the equipment underneath.",
+      "keyPoints": [
+        "Vengeance Falls (2013) is Trivium's sixth studio album — Nick Augusto's second and final record with the band",
+        "Produced by David Draiman of Disturbed — his first production credit, tracked at his own DMD Productions studio in Austin, TX",
+        "Recorded February–March 2013; mixed by Colin Richardson & Carl Bown, mastered by Ted Jensen (Sterling Sound)",
+        "Debuted at #15 on the Billboard 200 and reached #23 on the UK Albums Chart",
+        "Every standard-edition track runs under six minutes — a deliberate pivot toward song-focused writing after Shogun's epics",
+        "\"Strife\" earned praise from The Guardian as an anthemic highlight of a \"proud and focused heavy metal album\""
+      ]
+    },
+    "drumKit": {
+      "title": "The Starclassic Stays, the Sound Changes",
+      "brand": "Tama",
+      "model": "Tama Starclassic Performer B/B",
+      "finish": "Custom finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 for select live configurations)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Birch/Bubinga hybrid shells — fast attack with controlled low-end resonance"
+      },
+      "description": "Nick Augusto carried the same Tama Starclassic Performer B/B he'd used on \"In Waves\" directly into the \"Vengeance Falls\" sessions — the birch/bubinga hybrid shells, the compact 4-piece tom array, the 22\" kick. What changed wasn't the equipment but how David Draiman captured it: rather than the dry, punchy attack Jason Suecof favored on \"In Waves,\" Draiman pushed for a warmer, more rock-influenced low end that suited the album's shift toward groove-driven, hook-forward songwriting.\n\nThat meant more emphasis on the bubinga layer's natural warmth in the mix, and tuning that favored sustain and body over the sharpest possible transient attack. On tracks like \"Villainy Thrives\" and \"Incineration: The Broken World,\" the kit reads bigger and more open than its \"In Waves\" counterpart despite being the identical drum set — a production choice, not an equipment change.\n\nThe compact tom configuration remained well suited to the material: \"Vengeance Falls\" is built on tight, riff-locked patterns rather than extended melodic fills, and the same 10\"/12\" rack and 14\"/16\" floor tom array Augusto used on \"In Waves\" covered everything the record's more concise song structures required.",
+      "notes": [
+        "Same Tama Starclassic Performer B/B as In Waves — no equipment change between albums",
+        "David Draiman's production favored warmth and sustain over In Waves' drier, punchier attack",
+        "Compact 4-piece tom configuration suited the album's tighter, more concise song structures",
+        "Bubinga shell layer's natural warmth foregrounded in the mix for a rock-conscious low end"
+      ],
+      "estimatedValue": "$2,900–3,900 (2013) / $1,600–2,300 (used today)"
+    },
+    "snare": {
+      "title": "The S.L.P. Steel, Tuned for Body",
+      "brand": "Tama",
+      "model": "Tama S.L.P. Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "Augusto's 14\" x 6.5\" Tama S.L.P. steel snare made the jump from \"In Waves\" unchanged in hardware, but not in tuning. Draiman's production philosophy — shaped by his own background fronting a hard rock band built for radio — called for a snare with more body and slightly less top-end attack than the bright, cutting crack that defined \"In Waves.\"\n\nThe steel shell's natural brightness still cuts through Trivium's dense, drop-tuned guitar tracking, but the tuning sits a touch lower and the mix processing pulls back some of the highest-frequency snap in favor of a fuller, more rock-radio backbeat. It's a subtle shift, but audible across tracks like \"Strife\" and \"Brave This Storm,\" where the snare sits with more weight in the mix than Augusto's \"In Waves\" work.\n\nAugusto's underlying technique — clean rimshots, controlled ghost-note work between hits — remained the constant. What Draiman changed was framing: the same drummer, the same drum, presented with a rounder, more accessible tone.",
+      "tuningSetting": "Medium — more body and less top-end attack than the In Waves-era tuning",
+      "heads": "Evans Genera Dry (batter), Evans 300 Snare Side (resonant)",
+      "estimatedValue": "$180–240 (2013)"
+    },
+    "cymbals": {
+      "title": "Meinl MB20: Weight for a Groove-First Record",
+      "brand": "Meinl",
+      "series": "Meinl MB20 and Classics Custom Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl Classics Custom 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Bright, articulate chick for the album's pocket-driven verse grooves"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl MB20 17\" Heavy Crash",
+          "position": "Left of hi-hats",
+          "notes": "Fast-responding accent crash for tight riff punctuation"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl MB20 19\" Heavy Crash",
+          "position": "Right of toms",
+          "notes": "Primary crash for chorus entries and hook-driven transitions"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Classics Custom 20\" Ride",
+          "position": "Far right",
+          "notes": "Clear bow definition for the album's mid-tempo groove sections"
+        },
+        {
+          "type": "China",
+          "model": "Meinl MB20 18\" China",
+          "position": "Above floor tom",
+          "notes": "Aggressive accent voice for breakdown hits on tracks like \"Incineration: The Broken World\""
+        }
+      ],
+      "description": "Augusto's Meinl MB20 and Classics Custom pairing carried over unchanged from \"In Waves,\" and it suited \"Vengeance Falls\" well: the MB20 series' dark, heavy-weight B20 bronze crashes gave Draiman's warmer mix full-bodied accents rather than a thin, bright wash, while the Classics Custom hi-hats and ride kept the pattern work articulate against the album's more groove-oriented, mid-tempo material.\n\nWith \"Vengeance Falls\" leaning less on blast-adjacent speed than \"In Waves\" and more on locked-in, hook-driven riffing, the cymbal work shifted correspondingly — fewer rapid-fire accent hits, more sustained crash-and-groove interplay that matched the record's more radio-conscious song structures. The 18\" MB20 China remained the go-to effect cymbal for the album's heavier breakdown moments, particularly on the extended closer \"Wake (The End Is Nigh).\"",
+      "estimatedValue": "$2,000–2,600 (2013)"
+    },
+    "pedals": {
+      "title": "Tama Iron Cobra 900: Consistency Through the Transition",
+      "brand": "Tama",
+      "model": "Tama Iron Cobra 900 Double Bass Pedal",
+      "description": "Augusto's Tama Iron Cobra 900 carried over from \"In Waves\" without modification. He continued running the Rolling Glide cam, favoring its progressive, building acceleration over the sharper immediate response of the Power Glide cam — a choice suited to \"Vengeance Falls\"' more groove-locked double-bass patterns, which prioritize even, sustained pocket over maximum top-end speed.\n\nThe album's more concise, hook-forward songwriting meant less reliance on extended blast-adjacent kick runs than \"In Waves,\" but tracks like \"Incineration: The Broken World\" and \"Wake (The End Is Nigh)\" still called for the pedal's dependable, fatigue-resistant response across longer sustained sections. Spring tension stayed at Augusto's established medium-high setting, giving him the rebound precision needed for tight sixteenth-note figures without fighting the spring on the record's slower, more deliberate groove passages.",
+      "keySpecs": [
+        "Rolling Glide cam, unchanged from the In Waves setup",
+        "Medium-high spring tension for consistent rebound across tempos",
+        "Dual-chain drive for reliable power transfer on sustained groove patterns",
+        "Same pedal used across both Augusto-era Trivium albums and the supporting tours"
+      ],
+      "estimatedValue": "$280–340 (2013) / $180–220 (used today)"
+    },
+    "sticks": {
+      "brand": "Promark",
+      "model": "Promark 5B Hickory",
+      "description": "Promark 5B hickory sticks, unchanged from the \"In Waves\" cycle. The 5B's diameter gives Augusto enough mass for the album's full-body backbeats and crash accents without the added fatigue a heavier stick would introduce across the touring schedule that followed the album's release."
+    },
+    "trackAnalysis": [
+      {
+        "track": "Brave This Storm",
+        "bpm": "~140",
+        "signature": "4/4",
+        "highlights": [
+          "Lead single and album opener — sets the record's groove-first tone immediately",
+          "Locked-in verse groove built for radio rather than technical showcase",
+          "Draiman's warmer, more sustained snare tuning is immediately audible"
+        ],
+        "gearNotes": "Tama S.L.P. steel snare's rounder tuning anchors the hook-driven chorus. MB20 crashes provide full-bodied accents on the transitions."
+      },
+      {
+        "track": "Strife",
+        "bpm": "~150",
+        "signature": "4/4",
+        "highlights": [
+          "Second single — singled out by The Guardian as an anthemic album highlight",
+          "Tight, riff-locked double-bass pattern rather than extended blast work",
+          "One of the clearest examples of the album's groove-over-speed philosophy"
+        ],
+        "gearNotes": "Iron Cobra 900's Rolling Glide cam delivers even, sustained double-bass through the chorus. Classics Custom hi-hats keep the verse groove articulate."
+      },
+      {
+        "track": "Incineration: The Broken World",
+        "bpm": "~130 with heavier half-time sections",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's heaviest, most breakdown-driven tracks",
+          "18\" MB20 China gets its heaviest use on the record here",
+          "Demonstrates the Starclassic's bubinga-driven low end under Draiman's warmer mix"
+        ],
+        "gearNotes": "MB20 China anchors the breakdown accents. Kit tuning favors sustain and body over the sharper In Waves-era attack."
+      },
+      {
+        "track": "Wake (The End Is Nigh)",
+        "bpm": "~120 with tempo shifts",
+        "signature": "4/4, with shifting internal feels",
+        "highlights": [
+          "Album closer — the longest track on the standard edition at 6:00",
+          "Builds from a restrained verse groove into the album's most sustained heavy section",
+          "Augusto's most dynamically varied performance on the record"
+        ],
+        "gearNotes": "Iron Cobra 900 sustains the extended kick work through the closing section. MB20/Classics Custom pairing covers both the track's restraint and its payoff."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit did Nick Augusto use on Vengeance Falls?",
+        "answer": "On Trivium's Vengeance Falls (2013), Nick Augusto played the same Tama Starclassic Performer B/B kit he used on \"In Waves\" — birch/bubinga hybrid shells in a custom finish, with a 22\" bass drum, two rack toms (10\", 12\"), and two floor toms (14\", 16\"). The equipment didn't change between albums; producer David Draiman instead shaped a warmer, more sustained drum tone through tuning and mix processing. For full drummer profile details, see [Nick Augusto at MetalForge](/drummer/nick-augusto)."
+      },
+      {
+        "question": "How did David Draiman's production affect the drum sound on Vengeance Falls?",
+        "answer": "David Draiman — lead vocalist of Disturbed and Device, producing for the first time in his career — pushed Trivium's drum sound toward a warmer, more rock-radio character on Vengeance Falls. Compared to Jason Suecof's dry, punchy production on \"In Waves,\" Draiman favored more body and sustain in Nick Augusto's snare and kit tuning, with less emphasis on the sharpest possible transient attack. The equipment stayed identical to \"In Waves\" — the change was entirely in tuning, mic technique, and mix processing at Draiman's own DMD Productions studio in Austin, Texas. For the earlier, drier-sounding album, see the [Nick Augusto drum setup at MetalForge](/articles/nick-augusto-drum-setup)."
+      },
+      {
+        "question": "How much would Nick Augusto's Vengeance Falls drum kit cost today?",
+        "answer": "Nick Augusto's full Vengeance Falls-era setup — the Tama Starclassic Performer B/B kit, Tama S.L.P. steel snare, Meinl MB20/Classics Custom cymbal package, and Tama Iron Cobra 900 double bass pedal — carried a combined estimated value of roughly $5,400–7,100 at 2013 retail pricing. Buying equivalent gear used today would run approximately $2,300–3,300, with the Starclassic kit itself accounting for the largest share at $1,600–2,300 used."
+      },
+      {
+        "question": "Is Vengeance Falls heavier or more technical than Shogun?",
+        "answer": "Neither — the two albums pursue different goals. Shogun (2008) is Trivium's most technically demanding record, built around extended, multi-part compositions like the 11:39 title track. Vengeance Falls (2013) is deliberately more direct: every track on the standard edition runs under six minutes, and Nick Augusto's playing prioritizes locked-in groove and pocket over technical display. It's a heavier, more song-focused record rather than a more technical one. See the [Shogun drum setup article](/articles/shogun-drum-setup) for the technical high-water mark of Augusto's Trivium tenure."
+      },
+      {
+        "question": "Where did Vengeance Falls chart, and what were the singles?",
+        "answer": "Vengeance Falls debuted at #15 on the US Billboard 200 and reached #23 on the UK Albums Chart, also charting in the top 10 in Australia, Germany, and Canada. The album was led by the singles \"Brave This Storm\" and \"Strife,\" with \"Through Blood and Dirt and Bone\" and \"Villainy Thrives\" released as later singles in 2014. It was Nick Augusto's final studio album with Trivium before his departure in May 2014."
+      }
+    ],
+    "relatedAlbums": [
+      "shogun-drum-setup",
+      "nick-augusto-drum-setup",
+      "trivium-sin-and-the-sentence-drum-setup"
+    ],
+    "relatedDrummers": [
+      "nick-augusto"
+    ],
+    "relatedArticles": [
+      "double-bass-drumming-for-metal",
+      "breakdown-beat-guide"
+    ],
+    "internalLinks": [
+      {
+        "href": "/drummer/nick-augusto",
+        "label": "Nick Augusto — Full Drummer Profile"
+      },
+      {
+        "href": "/articles/shogun-drum-setup",
+        "label": "Shogun Drum Setup — Nick Augusto's Technical Peak (2008)"
+      },
+      {
+        "href": "/articles/nick-augusto-drum-setup",
+        "label": "Nick Augusto Drum Setup — In Waves & Vengeance Falls Era"
+      },
+      {
+        "href": "/articles/double-bass-drumming-for-metal",
+        "label": "Double-Bass Drumming for Metal at MetalForge"
+      }
+    ],
+    "conclusion": {
+      "title": "Vengeance Falls: Same Gear, Different Mission",
+      "content": "Vengeance Falls closes out Nick Augusto's two-album Trivium tenure with a lesson in how much production alone can reshape a drummer's sound. Every piece of his equipment carried over unchanged from \"In Waves\": the Tama Starclassic Performer B/B kit, the S.L.P. steel snare, the Meinl MB20/Classics Custom cymbal pairing, the Iron Cobra 900 pedal.\n\nWhat changed was the mission David Draiman set for the record:\n\n- **Tama Starclassic Performer B/B**: Same birch/bubinga shells as In Waves, but tuned and mixed for warmth and sustain rather than dry, punchy attack — a deliberate rock-radio choice from a producer better known as a vocalist\n- **Tama S.L.P. Steel Snare**: Identical hardware, retuned for more body and less top-end snap to match Draiman's rounder drum sound\n- **Meinl MB20 / Classics Custom**: The same cymbal package translated naturally into the album's more groove-driven, mid-tempo material\n- **Tama Iron Cobra 900**: Unmodified from In Waves, its Rolling Glide cam suited to the album's sustained pocket-driven double-bass work over raw top-end speed\n\nAugusto left Trivium in May 2014, closing out a chapter that ran from the technical peak of Shogun's aftermath through two increasingly commercially successful, stylistically distinct records. Vengeance Falls remains the clearest evidence that a drummer's gear is only half the story — the other half is who's shaping it in the room.\n\nFor deeper exploration:\n- **Full drummer profile**: [Nick Augusto at MetalForge](/drummer/nick-augusto)\n- **The technical peak**: [Shogun drum setup at MetalForge](/articles/shogun-drum-setup)\n- **The full In Waves/Vengeance Falls breakdown**: [Nick Augusto drum setup at MetalForge](/articles/nick-augusto-drum-setup)\n- **What came next for Trivium**: [The Sin and the Sentence drum setup at MetalForge](/articles/trivium-sin-and-the-sentence-drum-setup)\n- **Double-bass technique**: [Double-bass drumming for metal at MetalForge](/articles/double-bass-drumming-for-metal)"
+    }
+  },
   "shogun-drum-setup": {
     "slug": "shogun-drum-setup",
     "albumTitle": "Shogun",

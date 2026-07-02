@@ -260,6 +260,8 @@ const soundLikeGuides = [
   { slug: 'how-to-sound-like-daray', name: 'How to Sound Like Daray' },
   // Issue #2778: SEO batch 24 — Jason Bittner (Paul Mazurkiewicz, Richard Christy already added)
   { slug: 'how-to-sound-like-jason-bittner', name: 'How to Sound Like Jason Bittner' },
+  // Issue #2656: SEO batch — Ray Luzier (re-scoped from batch 20)
+  { slug: 'how-to-sound-like-ray-luzier', name: 'How to Sound Like Ray Luzier' },
   // Issue #2513: SoundLike guide — Abe Cunningham (re-scoped from batch 19)
   { slug: 'how-to-sound-like-abe-cunningham', name: 'How to Sound Like Abe Cunningham' },
 ];

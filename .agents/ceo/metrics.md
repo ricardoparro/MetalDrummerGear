@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-02 05:19 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-02 07:08 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 118 |
-| Sessions | 136 |
-| Page views | 172 |
-| Engagement rate | 54.41% |
-| Avg session (s) | 120 |
+| Active users | 119 |
+| Sessions | 138 |
+| Page views | 173 |
+| Engagement rate | 53.62% |
+| Avg session (s) | 118 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -23,17 +23,17 @@
 | /drummer/ben-koller | 11 | 10 |
 | /drummer/jaska-raatikainen | 7 | 5 |
 | /drummer/inferno | 6 | 5 |
+| /articles/none-so-vile-drum-setup | 4 | 3 |
 | /drummer/eloy-casagrande | 4 | 5 |
 | /drummer/hellhammer | 4 | 4 |
 | /drummer/mario-duplantier | 4 | 2 |
-| /drummer/shannon-larkin | 4 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 89 | 82 |
+| Organic Search | 91 | 83 |
 | Direct | 35 | 27 |
-| Unassigned | 18 | 18 |
+| Unassigned | 19 | 19 |
 | Cross-network | 7 | 7 |
 | Organic Social | 1 | 1 |
 

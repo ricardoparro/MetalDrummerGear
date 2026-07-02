@@ -1,5 +1,303 @@
 // Album drum-setup articles — Paul Bostaph. Auto-split from the former monolith.
 export const articles = {
+  "divine-intervention-drum-setup": {
+    "slug": "divine-intervention-drum-setup",
+    "albumTitle": "Divine Intervention",
+    "artist": "Slayer",
+    "drummer": "Paul Bostaph",
+    "drummerId": 27,
+    "relatedDrummerSlug": "paul-bostaph",
+    "year": 1994,
+    "genre": "Thrash Metal",
+    "label": "American Recordings",
+    "studio": "Ocean Way Recording, Los Angeles / Sound City, Van Nuys, CA",
+    "producer": "Toby Wright",
+    "isAlbumArticle": true,
+    "datePublished": "2026-06-27",
+    "dateModified": "2026-06-27",
+    "author": "MetalForge Editorial",
+    "title": "Divine Intervention Drum Setup: Paul Bostaph's Slayer Debut (1994)",
+    "description": "Divine Intervention (1994) is Paul Bostaph's first album with Slayer, recorded after replacing Dave Lombardo. Complete gear breakdown of the Tama Artstar II kit, Paiste RUDE cymbals, and the Toby Wright/Rick Rubin production that gave Slayer its highest chart debut to that point.",
+    "seoKeywords": [
+      "divine intervention drum setup",
+      "paul bostaph first slayer album",
+      "when did paul bostaph join slayer",
+      "first slayer album without dave lombardo",
+      "slayer 1994 drums",
+      "paul bostaph divine intervention gear",
+      "divine intervention drums",
+      "slayer dittohead drums",
+      "paul bostaph tama artstar"
+    ],
+    "ogImage": "/images/albums/divine-intervention-drums.webp",
+    "intro": {
+      "title": "The Album That Answered 'Who Replaces Lombardo?'",
+      "content": "When Dave Lombardo left Slayer in 1992 following the touring cycle for Seasons in the Abyss, the band faced a question that had never come up before: who could sit behind the kit for a band whose entire identity had been built around one of thrash metal's most influential drummers? The answer arrived almost by accident. Paul Bostaph — who had just quit Forbidden, the Bay Area thrash band he co-founded — got a call about auditioning for Slayer the very next day. He got the job, and Divine Intervention, released September 27, 1994, is the album where he proved he belonged.\n\nDivine Intervention is Slayer's sixth studio album and Bostaph's first recorded performance with the band. It debuted at #8 on the Billboard 200 — Slayer's highest chart position up to that point, and a real commercial jump from Seasons in the Abyss's #40 peak four years earlier. The album went on to be certified Gold. For a band whose new drummer was walking into comparisons with Lombardo on every song, that chart performance answered the commercial question quickly, even if the artistic debate about Bostaph's fit would continue for years among fans.\n\nToby Wright engineered, mixed, and co-produced the sessions, tracked at Ocean Way Recording and Sound City Studios in Los Angeles between March and June 1994, with Rick Rubin serving as executive producer — his fourth consecutive Slayer record in that role. Bostaph's gear marked a clean break from what Lombardo had used on Seasons in the Abyss: the kit reverted from Lombardo's Pearl Masters Custom back to Tama, the brand Slayer had built its 1980s sound on, and the cymbals moved from Lombardo's Zildjian A/K setup to Paiste RUDE — Bostaph had become a Paiste artist himself in December 1992, and this album is where the Paiste relationship that would define nearly his entire career, on Slayer and beyond, began. That Tama Artstar II and Paiste RUDE combination is the sound of Divine Intervention, before the DW/Zildjian gear change that would arrive four years later on Diabolus in Musica.\n\nThis article documents the drum gear on Divine Intervention, the Ocean Way/Sound City sessions, and the album's place as the opening chapter of Paul Bostaph's first Slayer tenure — the arc that runs from here through Undisputed Attitude (1996), Diabolus in Musica (1998), and God Hates Us All (2001), before [Dave Lombardo's 2006 return on Christ Illusion](/articles/christ-illusion-drum-setup).",
+      "keyPoints": [
+        "Released September 27, 1994 — Paul Bostaph's first studio album with Slayer, replacing Dave Lombardo",
+        "Debuted at #8 on the Billboard 200 — Slayer's highest US chart position at the time; certified Gold",
+        "Recorded at Ocean Way Recording and Sound City Studios, Los Angeles, March-June 1994",
+        "Toby Wright engineered/produced; Rick Rubin served as executive producer for his fourth straight Slayer album",
+        "Tama Artstar II kit with Paiste RUDE cymbals — Bostaph reverted both shells and cymbals away from Lombardo's late-era Pearl/Zildjian setup",
+        "Opens the Bostaph era: Divine Intervention (1994) to Diabolus in Musica (1998) to God Hates Us All (2001) before Lombardo's return"
+      ]
+    },
+    "drumKit": {
+      "title": "The Debut Kit: Tama Artstar II",
+      "brand": "Tama",
+      "model": "Tama Artstar II",
+      "finish": "Piano Black",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Birch shells with Tama's die-cast hoops for a focused, punchy attack"
+      },
+      "description": "For his first Slayer studio session, Paul Bostaph recorded on a Tama Artstar II — the same birch-shell series Slayer had used through the Reign in Blood and South of Heaven era before Lombardo's brief switch to Pearl Masters Custom on Seasons in the Abyss. Bringing the kit back to Tama for Divine Intervention was as much a practical choice as a stylistic one: Tama's punchy, focused birch tone was already proven in Slayer's catalog, and it gave Bostaph a known quantity to work with while he was still adjusting to the band's writing and recording process.\n\nThe double 22x18 bass drum configuration kept the twin-kick setup that had defined every Slayer album since the band's earliest records. Two independently tuned and mic'd bass drums, rather than a double pedal on one shell, remained the standard through this session, and it's a constant that runs across every drummer who has held the chair.\n\nThe tom configuration — 10 and 12-inch rack toms, 14 and 16-inch floor toms — is tighter and slightly smaller than the setup Lombardo used on Seasons in the Abyss, giving Bostaph's fills a quicker, more compact voice within Toby Wright's production. The Piano Black finish matched the dark aesthetic Slayer's gear has carried across every era.",
+      "notes": [
+        "Tama Artstar II birch shells — reverted from Lombardo's Pearl Masters Custom on Seasons in the Abyss",
+        "Double 22x18 bass drum configuration — the constant twin-kick setup across every Slayer drummer",
+        "Slightly tighter tom sizing than the outgoing Lombardo configuration",
+        "Same Tama Artstar II family referenced across Slayer's 1980s catalog, now under a new drummer"
+      ],
+      "estimatedValue": "$2,600-3,800 (1994)"
+    },
+    "snare": {
+      "title": "The 1994 Crack: 14x6.5 Tama Steel",
+      "brand": "Tama",
+      "model": "Tama Artstar Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "Bostaph's snare on Divine Intervention was a 14x6.5 Tama steel-shell — standard dimensions for thrash metal drumming, chosen for the cutting, metallic crack the genre demands. Steel shells project further and cut through dense guitar layers more reliably than wood, which matters on an album where a new drummer's snare needs to be heard clearly and judged on its own terms.\n\nToby Wright kept the snare forward and bright in the mix, close to the classic Rick Rubin-era Slayer sound rather than the denser, more processed approach that would arrive on Diabolus in Musica. The 6.5-inch depth gave the snare enough body to avoid sounding thin against Kerry King and Jeff Hanneman's guitars, while the steel shell's natural brightness carried through the mix without excess EQ work.",
+      "tuningSetting": "Medium-high tension for maximum cut and projection",
+      "heads": "Remo Emperor Coated (batter)",
+      "estimatedValue": "$300-450 (1994)"
+    },
+    "cymbals": {
+      "title": "Paiste RUDE: A New Drummer's Cymbal Choice Begins",
+      "brand": "Paiste",
+      "series": "Paiste RUDE",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste RUDE 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Raw, aggressive chick suited to thrash tempos"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste RUDE 17\" Wild Crash",
+          "position": "Left of hi-hats",
+          "notes": "Fast, trashy accent for riff transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste RUDE 19\" Wild Crash",
+          "position": "Right of toms",
+          "notes": "Larger crash for sustained accents"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste RUDE 20\" Ride",
+          "position": "Far right",
+          "notes": "Raw, unlathed surface for maximum stick definition at speed"
+        },
+        {
+          "type": "China",
+          "model": "Paiste RUDE 18\" China",
+          "position": "Above floor tom",
+          "notes": "Trashy exotic accent — a Slayer constant across every drummer era"
+        }
+      ],
+      "description": "Bostaph became a Paiste artist himself in December 1992, and the RUDE series he brought to Divine Intervention replaced the Zildjian A and K series cymbals Lombardo had used on Seasons in the Abyss four years earlier. This is the album where Paiste became Bostaph's cymbal constant — a relationship that would follow him through most of his career, on Slayer and beyond, with only Diabolus in Musica's Zildjian A Custom setup and Repentless's Sabian AAX line ever breaking the pattern. The RUDE series' raw, unlathed, maximum-aggression character also moved the cymbal sound back toward the Reign in Blood/South of Heaven era, away from the brighter, more controlled Zildjian tone of Lombardo's final album.\n\nThe RUDE 14-inch hi-hats gave Bostaph the raw, cutting chick needed for the album's fast passages, while the 17 and 19-inch Wild Crashes handled riff-transition accents with the trashy, unrefined character the RUDE series is known for. The RUDE 20-inch Ride's unlathed surface produced a rawer, less controlled stick sound than a traditional ride — appropriate for an album that needed to sound aggressive rather than polished. The 18-inch China above the floor tom kept the exotic, trashy accent that has appeared in some form on every Slayer studio album.",
+      "estimatedValue": "$1,000-1,500 (1994)"
+    },
+    "hardware": {
+      "title": "Tama Iron Cobra: Same Pedal Family, Now in Full Production",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra (x2)",
+          "notes": "Reverted from the DW 5002 pedals Lombardo used on Seasons in the Abyss back to Tama, now in full retail production rather than the Iron Cobra prototype Lombardo had tested on earlier Slayer records",
+          "description": "Lombardo had tested early Iron Cobra prototypes on Reign in Blood and South of Heaven before switching to DW 5002 chain-drive pedals for Seasons in the Abyss in 1990. Bostaph's arrival brought the pedal choice back to Tama for Divine Intervention — by 1994 the Iron Cobra was in full commercial production and quickly becoming the standard pedal for thrash and extreme metal drummers. Its direct-drive action and consistent spring tension suited the twin single-pedal setup across Bostaph's two bass drums."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Titan Hi-Hat Stand",
+          "notes": "Standard Tama hardware of the era, matched to the Artstar II kit"
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama First Chair Throne",
+          "notes": "Standard studio session seating"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater Power 5B",
+          "notes": "Heavier 5B profile for sustained thrash drumming power and durability"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter) with Remo Ambassador (resonant)",
+        "toms": "Remo Emperor Clear (batter)",
+        "snare": "Remo Emperor Coated (batter)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Toby Wright, Rick Rubin, and the Ocean Way/Sound City Sessions",
+      "content": "Divine Intervention was tracked across two Los Angeles-area studios between March and June 1994: Ocean Way Recording and Sound City Studios in Van Nuys, with the album subsequently mixed at Record Plant and mastered at Precision Mastering. Toby Wright — who would go on to produce Diabolus in Musica solo four years later — served as engineer, mixer, and co-producer on Divine Intervention, working alongside executive producer Rick Rubin, who had produced or executive-produced every Slayer studio album since Reign in Blood.\n\n**Kit Tuning:**\nThe Tama Artstar II shells were tuned for maximum attack and minimal sustain, consistent with the dry, forward drum sound of Rubin's earlier Slayer productions. This was a deliberate continuity choice: rather than reinvent the drum sound for a new drummer, the production kept the same sonic template that had defined Reign in Blood and South of Heaven, so the album would read as unmistakably Slayer despite the personnel change behind the kit.\n\n**Double Bass Approach:**\nEach 22x18 bass drum was close-mic'd and port-mic'd separately, consistent with the two-kick, two-microphone approach used on every prior Slayer record. Bostaph's foot technique — tighter and more mechanically consistent than Lombardo's more elastic feel — gave Wright a very even signal to work with in the mix.\n\n**Cymbal Recording:**\nThe Paiste RUDE cymbals were captured with a standard overhead pair, their raw, unlathed character requiring less high-end processing than a more refined cymbal line would need. Wright left them largely untreated, letting the RUDE series' natural aggression carry through.\n\n**Snare Sound:**\nThe Tama steel snare was tracked with a close mic on top and a phase-inverted mic underneath, gated to control cymbal bleed — standard practice for thrash metal recording in the era, giving the snare its cutting, present crack in the final mix.",
+      "keyTechniques": [
+        "Tracked at Ocean Way Recording and Sound City Studios, Los Angeles, March-June 1994",
+        "Toby Wright engineered/co-produced; Rick Rubin executive produced his fourth straight Slayer album",
+        "Mixed at Record Plant, mastered at Precision Mastering",
+        "Dry, forward kit tuning consistent with Reign in Blood/South of Heaven-era Rubin productions",
+        "Two-mic-per-kick technique carried over from every prior Slayer studio album"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Killing Fields",
+        "bpm": "175",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener — the first thing Slayer fans heard from Bostaph on record",
+          "Driving double-bass patterns establish his tighter, more mechanically precise foot technique from the first bar",
+          "Snare placement locks tightly to the riff, signaling a more controlled approach than Lombardo's looser feel",
+          "Sets the tone for an album that needed to prove a new drummer belonged in Slayer"
+        ],
+        "gearNotes": "Tama Artstar II double bass drives the verse. Paiste RUDE crashes punctuate the main riff hits."
+      },
+      {
+        "track": "Dittohead",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's most recognized tracks, built around a Rush Limbaugh-referencing title and lyric",
+          "Mid-tempo, groove-driven verse showcases Bostaph's pocket-playing rather than pure speed",
+          "Steel snare crack cuts through the mix clearly in the chorus",
+          "Demonstrates the tighter, more metronomic feel that would become Bostaph's signature across his Slayer tenure"
+        ],
+        "gearNotes": "RUDE 14\" hi-hats drive the groove. Tama steel snare crack anchors the chorus."
+      },
+      {
+        "track": "Fictional Reality",
+        "bpm": "185",
+        "signature": "4/4",
+        "highlights": [
+          "Faster, more aggressive track that leans into classic Slayer thrash speed",
+          "Sustained double-bass runs test the Iron Cobra pedals' consistency at high tempo",
+          "China cymbal accents appear at structural transitions",
+          "One of the clearest examples on the album of Bostaph matching Lombardo-era intensity on his own terms"
+        ],
+        "gearNotes": "Tama Iron Cobra double-bass sustained near album-fastest tempo. RUDE 18\" China punctuates transitions."
+      },
+      {
+        "track": "Serenity in Murder",
+        "bpm": "160",
+        "signature": "4/4",
+        "highlights": [
+          "Mid-album track balancing groove and aggression",
+          "Tom fills between phrases show the tighter 14/16-inch floor tom voicing compared to Lombardo's setup",
+          "Ride bell pattern drives the verse groove",
+          "Demonstrates Bostaph's dynamic range beyond pure speed this early in his Slayer tenure"
+        ],
+        "gearNotes": "RUDE 20\" Ride bell pattern anchors the verse. Floor tom fills highlight the tighter Artstar II voicing."
+      }
+    ],
+    "evolution": {
+      "title": "What Changed, What Didn't: Lombardo to Bostaph",
+      "content": "Divine Intervention is a study in what changes and what stays constant when a band's identity is tied to one player and that player leaves. Slayer needed the album to sound unmistakably like Slayer despite a drummer change that fans hadn't asked for — so the production philosophy stayed put even as almost every piece of gear behind the kit changed.\n\n**What Changed:**\nThe drummer, obviously. But also nearly everything he played: Lombardo had moved to Pearl Masters Custom shells and Zildjian A/K cymbals for his final album, Seasons in the Abyss (1990); Bostaph brought the rig back to Tama Artstar II shells and Paiste RUDE cymbals for his debut. Even the pedals flipped back — from Lombardo's DW 5002 chain-drive pedals to Tama Iron Cobra, by then in full retail production rather than the prototype Lombardo had tested years earlier on Reign in Blood. The playing style changed too — tighter, more mechanically consistent, less elastic than Lombardo's feel, a difference audible from the first bars of \"Killing Fields.\"\n\n**What Didn't Change:**\nThe production approach. Rick Rubin, in his fourth consecutive Slayer executive-producer role, and Toby Wright's dry, forward, attack-focused drum sound kept Divine Intervention sonically consistent with Reign in Blood and South of Heaven rather than following Seasons in the Abyss's more open, sonically varied approach. The twin-kick, two-mic-per-drum recording technique carried over unchanged, as it has across every Slayer studio album.\n\n**The Gear Arc Forward:**\nThe Tama/Paiste combination documented on Divine Intervention would not last on the drum-kit side. By Diabolus in Musica (1998), Bostaph had moved to DW Collector's Series shells and, for that one album only, Zildjian A Custom cymbals — a fuller gear overhaul that arrived four years and one more studio album (Undisputed Attitude, 1996) later. But the Paiste cymbal relationship that started here on Divine Intervention would return after Diabolus and follow Bostaph through most of the rest of his career.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Pearl Masters Custom (Lombardo, Seasons in the Abyss 1990)",
+          "now": "Tama Artstar II (Bostaph, Divine Intervention 1994)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Zildjian A Series / K Series (Lombardo, Seasons in the Abyss 1990)",
+          "now": "Paiste RUDE (Bostaph, Divine Intervention 1994) — the start of Bostaph's career-long Paiste relationship"
+        },
+        {
+          "category": "Pedals",
+          "then": "DW 5002 chain-drive pedals (Lombardo, Seasons in the Abyss 1990)",
+          "now": "Tama Iron Cobra, full production (Bostaph, Divine Intervention 1994)"
+        },
+        {
+          "category": "Studio",
+          "then": "Eldorado Recording Studios, Hollywood (Lombardo, Seasons in the Abyss 1990)",
+          "now": "Ocean Way Recording / Sound City, Los Angeles (Bostaph, Divine Intervention 1994)"
+        },
+        {
+          "category": "Producer",
+          "then": "Rick Rubin (sole producer, Seasons in the Abyss 1990)",
+          "now": "Toby Wright engineers/produces, Rick Rubin executive produces (Divine Intervention 1994)"
+        }
+      ]
+    },
+    "relatedAlbums": [
+      "seasons-in-the-abyss-drum-setup",
+      "diabolus-in-musica-drum-setup"
+    ],
+    "relatedDrummers": [
+      27,
+      4
+    ],
+    "relatedArticles": [
+      "whats-in-paul-bostaphs-kit",
+      "thrash-metal-drummers"
+    ],
+    "relatedLicks": [
+      {
+        "drummerSlug": "paul-bostaph",
+        "lickSlug": "paul-bostaph-war-ensemble-blast",
+        "label": "Watch Paul Bostaph tackle Dave Lombardo's 'War Ensemble' live"
+      },
+      {
+        "drummerSlug": "dave-lombardo",
+        "lickSlug": "dave-lombardo-raining-blood-double-bass",
+        "label": "Watch Dave Lombardo's 'Raining Blood' double bass breakdown — the era Bostaph followed"
+      }
+    ],
+    "faq": [
+      {
+        "question": "What gear did Paul Bostaph use on Divine Intervention?",
+        "answer": "Paul Bostaph recorded Divine Intervention (1994) on a Tama Artstar II kit in Piano Black finish, with two 22x18-inch bass drums, 10 and 12-inch rack toms, and 14 and 16-inch floor toms. His snare was a 14x6.5 Tama steel model. Cymbals were Paiste RUDE — 14-inch hi-hats, 17 and 19-inch Wild Crashes, a 20-inch Ride, and an 18-inch China — the same RUDE lineage that had defined Reign in Blood and South of Heaven, replacing the Zildjian A/K cymbals Lombardo used on Seasons in the Abyss. Tama Iron Cobra pedals, by then in full retail production, powered the double-bass work."
+      },
+      {
+        "question": "How is Bostaph's style different from Lombardo on this album?",
+        "answer": "Paul Bostaph's playing on Divine Intervention is tighter and more mechanically consistent than Dave Lombardo's more elastic, ferocious feel on prior Slayer albums. Where Lombardo's double bass had a looser, more physically aggressive character, Bostaph approached the same tempos with a more controlled, metronomic precision — a difference audible from the opening bars of 'Killing Fields.' This precision became Bostaph's signature across his Slayer tenure and is one of the reasons fans and critics have long debated the two drummers' relative merits rather than treating one as a simple replacement for the other."
+      },
+      {
+        "question": "What tuning did Slayer use on Divine Intervention?",
+        "answer": "Slayer recorded Divine Intervention in standard tuning, consistent with every Slayer studio album up to that point. The band would not drop to alternate tunings until Diabolus in Musica (1998), which used D-flat — two and a half steps below standard. Divine Intervention's drum sound and gear reflect the classic, standard-tuned Slayer sonic template that Rick Rubin had established on Reign in Blood and South of Heaven."
+      },
+      {
+        "question": "When did Paul Bostaph first join Slayer?",
+        "answer": "Paul Bostaph joined Slayer in early 1992, shortly after Dave Lombardo departed following the Seasons in the Abyss touring cycle and shortly after Bostaph himself left Forbidden, the Bay Area thrash band he co-founded. Divine Intervention, released September 27, 1994, was his first studio album with Slayer. It was the first Slayer studio album recorded without Dave Lombardo since the band's 1983 formation."
+      },
+      {
+        "question": "How did Divine Intervention chart commercially?",
+        "answer": "Divine Intervention debuted at #8 on the Billboard 200 — Slayer's highest US chart position at the time of release, a significant jump from Seasons in the Abyss's #40 peak in 1990. The album was certified Gold by the RIAA. The strong debut demonstrated that Slayer's audience accepted the drummer change commercially, even as debate about Bostaph's style versus Lombardo's continued among fans for years afterward."
+      }
+    ],
+    "conclusion": {
+      "title": "The Album That Opened the Bostaph Era",
+      "content": "Divine Intervention isn't remembered as Slayer's best album, but it may be its most consequential from a personnel standpoint: it's the record that proved the band could survive losing Dave Lombardo, at least commercially and, for most fans, artistically. The #8 Billboard debut — Slayer's highest to that point — settled the commercial question almost immediately. The Tama Artstar II kit, the Paiste RUDE cymbals that Bostaph brought to the band as a newly signed Paiste artist, and the Toby Wright/Rick Rubin production at Ocean Way and Sound City document a drummer stamping his own gear identity onto the band from the very first session.\n\nFor drummers studying the complete Slayer catalog, Divine Intervention is the opening chapter of a four-album arc that Paul Bostaph would complete with Diabolus in Musica (1998) and God Hates Us All (2001), before Dave Lombardo's own return on [Christ Illusion](/articles/christ-illusion-drum-setup) in 2006. It documents Bostaph's tighter, more mechanically precise style right at the moment it entered the band's discography — and the Paiste cymbal relationship that began here would follow him through nearly the rest of his career, interrupted only by Diabolus in Musica's one-album Zildjian A Custom chapter.\n\nSee the [Seasons in the Abyss drum setup](/articles/seasons-in-the-abyss-drum-setup) for Dave Lombardo's final studio album before this one, the [Diabolus in Musica drum setup](/articles/diabolus-in-musica-drum-setup) for the gear chapter that followed, and the [Paul Bostaph drummer profile](/drummer/paul-bostaph) for his complete career overview from Forbidden through Slayer's final tour. For technique breakdowns, see [how to sound like Paul Bostaph](/guides/how-to-sound-like-paul-bostaph)."
+    }
+  },
   "diabolus-in-musica-drum-setup": {
     "slug": "diabolus-in-musica-drum-setup",
     "albumTitle": "Diabolus in Musica",

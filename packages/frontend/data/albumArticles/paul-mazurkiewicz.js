@@ -1931,6 +1931,7 @@ export const articles = {
     "relatedAlbums": [
       "bloodthirst-drum-setup",
       "gallery-of-suicide-drum-setup",
+      "the-wretched-spawn-drum-setup",
       "paul-mazurkiewicz-drum-setup",
       "tomb-of-the-mutilated-drum-setup",
       "none-so-vile-drum-setup"
@@ -1944,6 +1945,205 @@ export const articles = {
     "conclusion": {
       "title": "The Quiet Bridge to Kill",
       "content": "\"Gore Obsessed\" rarely tops lists of Cannibal Corpse's essential albums, overshadowed by the Fisher-era arrival of \"Bloodthirst\" on one side and the widely celebrated \"Kill\" two albums later. But as a document of Paul Mazurkiewicz's gear and technique at a pivotal consolidation point, it deserves more attention than it typically receives. The Pearl Reference and Meinl relationships that define his modern setup were, by 2002, no longer developing — they were established. The Pearl Eliminator pedal that powers his blast beat work today was a settled part of his rig. And the dual fluency between extreme-tempo blasting and heavy mid-tempo groove that the album's compositions demanded gave him a technical workout that directly informed the more celebrated playing on Kill four years later.\n\nNeil Kernon's Sonic Ranch production gave the record a sound distinct from both the dry Tampa attack of the Morrisound era and the denser British weight of Bloodthirst — a third sonic identity in as many albums, reflecting a band still actively searching for its definitive studio environment even as its lineup and gear had stabilized.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Bloodthirst drum setup (1999)](/articles/bloodthirst-drum-setup) — the Fisher-era establishment record\n- **The earlier transitional chapter**: [Gallery of Suicide drum setup (1998)](/articles/gallery-of-suicide-drum-setup) — the last Morrisound session\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+    }
+  },
+  "the-wretched-spawn-drum-setup": {
+    "slug": "the-wretched-spawn-drum-setup",
+    "albumTitle": "The Wretched Spawn",
+    "artist": "Cannibal Corpse",
+    "drummer": "Paul Mazurkiewicz",
+    "drummerId": 51,
+    "relatedDrummerSlug": "paul-mazurkiewicz",
+    "band": "Cannibal Corpse",
+    "bands": ["Cannibal Corpse"],
+    "year": 2004,
+    "genre": "Death Metal",
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "studio": "Sonic Ranch, Tornillo, Texas",
+    "producer": "Neil Kernon",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-02",
+    "dateModified": "2026-07-02",
+    "author": "MetalForge Editorial",
+    "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's The Wretched Spawn (2004)",
+    "description": "Paul Mazurkiewicz's brutal kit on The Wretched Spawn (2004) — the mature Pearl Reference and Meinl rig behind Cannibal Corpse's ninth album, tracked with producer Neil Kernon at Sonic Ranch on the run-up to Kill.",
+    "seoKeywords": [
+      "the wretched spawn drums",
+      "paul mazurkiewicz 2004 kit",
+      "cannibal corpse 2004 drum setup",
+      "the wretched spawn drum setup",
+      "neil kernon cannibal corpse production",
+      "cannibal corpse sonic ranch studio",
+      "paul mazurkiewicz pearl reference kit",
+      "death metal 2004 drum setup"
+    ],
+    "ogImage": "/images/albums/the-wretched-spawn-drums.webp",
+    "intro": {
+      "title": "The Bridge Album's Payoff: Mazurkiewicz on Cannibal Corpse's Ninth Album",
+      "content": "Released on February 24, 2004 through Metal Blade Records, \"The Wretched Spawn\" is Cannibal Corpse's ninth studio album and the record that sits directly between \"Gore Obsessed\" (2002) and \"Kill\" (2006) — closing out the sprawling, dual-mode songwriting era of the mid-2000s Fisher-era catalog before Kill stripped the band's approach back down to something more direct. Recorded in October and November 2003, The Wretched Spawn is also notable as the final studio album to feature rhythm guitarist Jack Owen, who departed after touring behind the record.\n\nProducer Neil Kernon returned for a second consecutive Cannibal Corpse album, again tracking at Sonic Ranch in Tornillo, Texas with engineer Justin Leeah — the same team and studio that had shaped Gore Obsessed two years earlier. That continuity gave The Wretched Spawn a more confident, settled production than the studio-hopping of the band's first four albums, letting Kernon refine rather than reinvent the alternating blast-and-groove dynamic he had established on the previous record. Brad Vance handled mastering at Red Mastering, putting a final layer of polish on the mix.\n\nCommercially, The Wretched Spawn charted at #20 on the US Independent Albums chart and #27 on the Billboard Heatseekers Albums chart, with additional entries at #74 on the German Albums chart and #136 on the French Albums chart — a modest but consistent showing in line with Gore Obsessed's performance two years prior. The same five-piece lineup carried over from Gore Obsessed — George \"Corpsegrinder\" Fisher, Pat O'Brien, Jack Owen, Alex Webster, and Mazurkiewicz — recorded the album, and Vincent Locke's cover art proved controversial enough that a censored version was issued alongside the original.\n\nBehind the kit, Mazurkiewicz's gear was by this point a fully settled continuation of the Pearl Reference and Meinl configuration that had solidified on Gore Obsessed. This article breaks down that mature rig, Neil Kernon's second Sonic Ranch production, and the technical stretch that directly set up the more celebrated playing on Kill two years later.",
+      "keyPoints": [
+        "Cannibal Corpse's ninth album (February 24, 2004) — Metal Blade Records — the direct bridge between Gore Obsessed (2002) and Kill (2006)",
+        "Recorded October–November 2003 with producer Neil Kernon and engineer Justin Leeah at Sonic Ranch, Tornillo, Texas — Kernon's second consecutive CC production",
+        "Mastered by Brad Vance at Red Mastering",
+        "Charted at #20 US Independent Albums and #27 Billboard Heatseekers Albums, with entries at #74 Germany and #136 France",
+        "Final studio album to feature rhythm guitarist Jack Owen, who departed after the supporting tour",
+        "Same five-piece Fisher-era lineup as Gore Obsessed — Fisher, O'Brien, Owen, Webster, Mazurkiewicz",
+        "Vincent Locke's cover art was controversial enough that a censored alternate version was released"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference, Fully Settled",
+      "brand": "Pearl",
+      "model": "Pearl Reference (settled endorsement configuration, 2004)",
+      "finish": "Custom finish (Pearl endorsement era)",
+      "config": {
+        "bassdrums": ["22\" x 18\" Bass Drum (x2 — double kick)"],
+        "toms": ["10\" x 9\" Rack Tom", "12\" x 10\" Rack Tom"],
+        "floorToms": ["16\" x 14\" Floor Tom", "18\" x 16\" Floor Tom"],
+        "shells": "Maple/African mahogany hybrid — Pearl Reference-tier construction"
+      },
+      "description": "By The Wretched Spawn, the Pearl Reference configuration that had visibly solidified on Gore Obsessed two years earlier was no longer a work in progress — it was Mazurkiewicz's settled, road-tested rig. The same deep 22\" x 18\" kicks and four-tom layout (two rack, two floor) carried over unchanged, giving him the full fill vocabulary the album's alternating blast-and-groove songwriting demanded.\n\nWith the gear no longer evolving, the difference between Gore Obsessed and The Wretched Spawn is almost entirely in the playing and the production polish rather than the hardware. Neil Kernon and Justin Leeah's second pass at tuning the kit for Sonic Ranch's room built on what they had learned two years earlier, capturing a low end with slightly more authority on the record's heavier passages without sacrificing the attack needed for the album's fastest blast sections.",
+      "notes": [
+        "Pearl Reference-tier maple/African mahogany hybrid shells — unchanged and fully settled since Gore Obsessed",
+        "Deep 22\" x 18\" kicks carried over from the 1999–2002 configuration",
+        "Four-tom layout (two rack, two floor) for the album's dual-mode songwriting",
+        "Second consecutive Neil Kernon / Justin Leeah tuning pass at Sonic Ranch"
+      ],
+      "estimatedValue": "$3,000–5,500 (2004 era, settled Reference configuration)"
+    },
+    "snare": {
+      "title": "The Free-Floating Steel Voice, Matured",
+      "brand": "Pearl",
+      "model": "Pearl steel-shell snare (Free-Floating configuration)",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel shell construction",
+      "description": "Mazurkiewicz's 14\" x 6.5\" Pearl steel-shell snare, which had been moving toward its modern Free-Floating configuration on Gore Obsessed, was a fully settled part of his rig by The Wretched Spawn. The steel shell's bright, cutting overtone profile continued to serve the record's alternating blast-and-groove songwriting — enough attack for extreme-tempo passages, enough low-mid body for the album's heavier mid-tempo sections.\n\nKernon and Leeah's second Sonic Ranch session kept the snare in a forward, present mix position, consistent with every Cannibal Corpse producer's priority of keeping Mazurkiewicz's backbeat legible against the band's dense, multi-guitar arrangements.",
+      "tuningSetting": "Medium tension, tuned for both blast and groove contexts — a direct continuation of the Gore Obsessed setting",
+      "heads": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)",
+      "estimatedValue": "$350–650 (2004 era) / $400–700 (Pearl Free-Floating equivalent today)"
+    },
+    "cymbals": {
+      "title": "Meinl, Second Album Running",
+      "brand": "Meinl",
+      "series": "Meinl Classics / Byzance (established endorsement)",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Anchoring the rhythmic pulse across the album's alternating blast and groove sections"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 16\" Crash",
+          "position": "Left crash",
+          "notes": "Quick accent for riff punctuation"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash for the record's heavier mid-tempo sections"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl 20\" Ride",
+          "position": "Right",
+          "notes": "Bell accents between blast passages"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" China",
+          "position": "Over rack toms",
+          "notes": "Riff-transition accent, a constant in Mazurkiewicz's vocabulary since the pre-endorsement era"
+        }
+      ],
+      "description": "Mazurkiewicz's Meinl cymbal setup, firmly established since Gore Obsessed, carried over unchanged onto The Wretched Spawn. The hand-hammered bronze construction gave him the same dual character the previous album had relied on: fast, focused attack for the record's rapid-fire sections, enough body to carry weight through the chugging mid-tempo passages.\n\nWith the gear settled, Kernon and Leeah's second Sonic Ranch mix gave the cymbals a slightly more refined, present placement than on Gore Obsessed — the benefit of a production team working with a studio and a drummer's rig they already knew intimately.",
+      "estimatedValue": "$1,400–2,400 total (settled Meinl endorsement configuration, 2004)"
+    },
+    "hardware": {
+      "title": "The Eliminator, Two Albums Running",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Double Bass Pedal",
+          "notes": "Settled part of Mazurkiewicz's rig since Gore Obsessed",
+          "description": "By The Wretched Spawn, the Pearl Eliminator double bass pedal was a road-tested, settled piece of Mazurkiewicz's setup for its second consecutive album cycle. Its interchangeable cam system gave him the precision to move between the record's rapid-fire blast passages and its more deliberate, weighted mid-tempo sections without adjusting gear between songs."
+        },
+        {
+          "type": "Electronic Triggers",
+          "brand": "ddrum",
+          "model": "ddrum Acoustic Pro Triggers (live context)",
+          "notes": "Live-context trigger use continued through this era; studio tracking remained primarily acoustic"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B or developing signature specification",
+          "notes": "The Vic Firth Paul Mazurkiewicz signature model remained in active development around this era"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)"
+      }
+    },
+    "sound": {
+      "title": "Neil Kernon's Second Pass: Refinement, Not Reinvention",
+      "content": "\"The Wretched Spawn\" reunited Cannibal Corpse with producer Neil Kernon and engineer Justin Leeah at Sonic Ranch in Tornillo, Texas — the same team and studio that had shaped Gore Obsessed two years earlier. That continuity is the defining production story of the album: rather than searching for a new sonic identity, as the band had done on nearly every prior record, Kernon refined an approach he and the band already understood.\n\n**A Known Room, A Known Band:**\nWorking the same room with the same drummer's rig for a second consecutive album let Kernon and Leeah push further into the dynamic range Gore Obsessed had established — extreme-tempo clarity on the album's blast sections, physical weight on its heavier passages — without the trial-and-error of a first session in an unfamiliar studio.\n\n**Mastering:**\nBrad Vance mastered the album at Red Mastering, putting a final layer of polish on Kernon's mix and giving the record a consistent, radio-ready low end that supported both modes of the songwriting.\n\n**The Result:**\nThe Wretched Spawn's drum sound sits close to Gore Obsessed's — appropriately, since it's the same production team's second attempt at the same problem — but with a slightly more confident, settled character. It's the sound of a producer and a drummer who had already found what worked and simply executed it again, one album cycle later.",
+      "keyTechniques": [
+        "Neil Kernon returns as producer for a second consecutive album, again with engineer Justin Leeah at Sonic Ranch, Tornillo, Texas",
+        "Same studio, same production team as Gore Obsessed (2002) — continuity rather than another studio relocation",
+        "Mastered by Brad Vance at Red Mastering",
+        "Mix built to serve both rapid-fire blast passages and heavier, chugging mid-tempo sections, refined from the Gore Obsessed template",
+        "A more confident, settled variant of the Sonic Ranch sound established two years earlier"
+      ]
+    },
+    "technique": {
+      "title": "The Final Tune-Up Before Kill",
+      "content": "\"The Wretched Spawn\" represents the last entry in the dual-mode, dynamically varied songwriting stretch that Gore Obsessed had begun — the two albums that, per Kill's own liner-note framing, Cannibal Corpse's tenth record was consciously reacting against with its more stripped-down, riff-forward approach. That makes The Wretched Spawn the technical capstone of an era rather than its opening statement, and Mazurkiewicz's playing on it reflects that maturity.\n\n**Dual-Mode Fluency, Perfected:**\nWhere Gore Obsessed asked Mazurkiewicz to develop his ability to move between extreme-tempo blasting and heavy mid-tempo groove within the same songs, The Wretched Spawn shows that fluency fully perfected. Tracks like \"Frantic Disembowelment\" and \"Festering in the Crypt\" demand rapid shifts between modes that, two years earlier, would have required more conscious technical management — by 2004, the transitions are seamless.\n\n**Conventional Grip Under a Settled Rig:**\nWith the gear no longer in flux, Mazurkiewicz's traditional grip technique had a stable platform to work from across the entire album cycle. The left-stick control that defines his sound is audible at its most consistent on this record — a drummer and a rig that had stopped changing and started simply performing at a high level.\n\n**Setting Up Kill:**\nThe technical peak documented on The Wretched Spawn is the direct precursor to the more celebrated, stripped-down playing Mazurkiewicz would deliver on Kill (2006). Where Kill gets the critical attention as the high-water mark of this stretch of his career, The Wretched Spawn is the album where the underlying technical vocabulary was fully assembled.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the consolidation record that directly preceded it\n- [Kill drum setup (2006)](/articles/kill-drum-setup) — the celebrated record this album's technical work set up\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig this album helped settle"
+    },
+    "faq": [
+      {
+        "question": "What drums did Paul Mazurkiewicz use on The Wretched Spawn?",
+        "answer": "On The Wretched Spawn (2004), Paul Mazurkiewicz played a Pearl Reference-tier kit with dual 22-inch x 18-inch kick drums, a four-tom layout (two rack toms, two floor toms), and a 14-inch x 6.5-inch steel-shell Free-Floating-configuration snare. His Meinl cymbal setup and Pearl Eliminator double bass pedal, both firmly established since Gore Obsessed (2002), carried over unchanged — this album documents his rig at its most settled point before the celebrated Kill (2006) sessions."
+      },
+      {
+        "question": "What was Cannibal Corpse's first Billboard 200 album?",
+        "answer": "The Wretched Spawn (2004) did not chart on the Billboard 200 — it reached #20 on the US Independent Albums chart and #27 on the Billboard Heatseekers Albums chart. Cannibal Corpse's first Billboard 200 entry was Vile in 1996, debuting at #151, and the band's second Billboard 200 entry came a decade later with Kill (2006), which debuted at #170."
+      },
+      {
+        "question": "How much did Paul Mazurkiewicz's kit cost in 2004?",
+        "answer": "A period-accurate reproduction of Mazurkiewicz's 2004 Pearl Reference setup runs roughly $3,000–$5,500 for the kit itself, $350–$650 for the steel-shell snare, and $1,400–$2,400 for the full Meinl cymbal setup — putting a complete rig replication in the $5,000–$8,500 range, consistent with the settled endorsement-era configuration he had carried over from Gore Obsessed two years earlier."
+      },
+      {
+        "question": "Who produced The Wretched Spawn and where was it recorded?",
+        "answer": "The Wretched Spawn was produced and mixed by Neil Kernon, with engineer Justin Leeah, at Sonic Ranch in Tornillo, Texas, recorded in October and November 2003. Brad Vance handled mastering at Red Mastering. It marked Kernon's second consecutive Cannibal Corpse production, following Gore Obsessed (2002) at the same studio."
+      },
+      {
+        "question": "Was The Wretched Spawn Jack Owen's last album with Cannibal Corpse?",
+        "answer": "Yes. The Wretched Spawn (2004) was rhythm guitarist Jack Owen's final studio album with Cannibal Corpse — he departed after touring behind the record, and Rob Barrett, who had previously played on The Bleeding (1994) and Vile (1996), rejoined the band in time for Kill (2006)."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "gore-obsessed-drum-setup",
+      "kill-drum-setup",
+      "tomb-of-the-mutilated-drum-setup",
+      "paul-mazurkiewicz-drum-setup"
+    ],
+    "relatedDrummers": [51],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "death-metal-drummers",
+      "best-metal-double-kick-technique"
+    ],
+    "conclusion": {
+      "title": "The Technical Capstone Before Kill",
+      "content": "\"The Wretched Spawn\" is the album most likely to be overlooked in a quick survey of the Fisher-era Cannibal Corpse catalog — sandwiched between the underappreciated Gore Obsessed and the widely celebrated Kill, sharing its predecessor's studio, producer, and gear almost exactly. But that continuity is precisely what makes it valuable as a document of Paul Mazurkiewicz's playing: it captures a drummer and a rig with nothing left to prove technically, executing at the peak of a fully settled setup before the band's tenth album reset the songwriting approach entirely.\n\nNeil Kernon and Justin Leeah's second consecutive Sonic Ranch session gave the record a more confident, refined variant of the sound they had established on Gore Obsessed — proof that familiarity between a producer, an engineer, and a band can sharpen a recording as much as a fresh studio environment can. It was also the closing chapter for rhythm guitarist Jack Owen, who left the band after the album's supporting tour.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the consolidation record recorded at the same studio\n- **The successor**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the celebrated \"return to brutality\" this album's technical work directly set up\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
   },
   "kill-drum-setup": {
@@ -2130,6 +2330,7 @@ export const articles = {
     "videos": [],
     "relatedAlbums": [
       "gore-obsessed-drum-setup",
+      "the-wretched-spawn-drum-setup",
       "evisceration-plague-drum-setup",
       "tomb-of-the-mutilated-drum-setup",
       "paul-mazurkiewicz-drum-setup"

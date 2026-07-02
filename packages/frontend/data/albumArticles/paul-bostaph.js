@@ -853,6 +853,283 @@ export const articles = {
       "content": "Repentless is where the Paul Bostaph/Slayer story ends — not with a farewell tour retrospective, but with a genuine studio album that closed out the band's entire recorded discography. The Pearl Masters Maple Complete kit, the Sabian AAX cymbals, the Terry Date production at Henson Recording Studios: these represent the final gear chapter of a drummer's career that began with Divine Intervention in 1994 and wound through Diabolus in Musica, God Hates Us All, and, at last, here.\n\nThe album carries weight beyond Bostaph's return. It is the only Slayer studio record made without Jeff Hanneman, the first without Rick Rubin in nearly three decades, and — at #4 on the Billboard 200 — the commercial high point of the band's entire career. For a band as allergic to sentimentality as Slayer, Repentless closed its story about as well as it could have: heavier, tighter, and more direct than almost anything the band had released in the 2000s.\n\nFor drummers studying the complete Paul Bostaph/Slayer arc, Repentless is the final entry. See the [God Hates Us All drum setup](/articles/god-hates-us-all-drum-setup) for the 2001 chapter that preceded Bostaph's fourteen-year gap from the studio, [What's In Paul Bostaph's Kit](/articles/whats-in-paul-bostaphs-kit) for his complete gear history across both tenures, and the [Paul Bostaph drummer profile](/drummer/paul-bostaph) for the full career overview from Forbidden to Slayer's final note."
     }
   },
+  "formation-of-damnation-drum-setup": {
+    "slug": "formation-of-damnation-drum-setup",
+    "albumTitle": "The Formation of Damnation",
+    "artist": "Testament",
+    "drummer": "Paul Bostaph",
+    "drummerId": 27,
+    "relatedDrummerSlug": "paul-bostaph",
+    "year": 2008,
+    "genre": "Thrash Metal",
+    "label": "Nuclear Blast",
+    "studio": "Fantasy Studios, Berkeley, CA",
+    "producer": "Eric Peterson and Chuck Billy",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-02",
+    "dateModified": "2026-07-02",
+    "author": "MetalForge Editorial",
+    "title": "Testament 'The Formation of Damnation' Drum Setup (Paul Bostaph, 2008)",
+    "description": "Paul Bostaph's drum setup on Testament's The Formation of Damnation (2008) — the comeback album that reunited Alex Skolnick and Greg Christian and won Metal Hammer's Golden Gods Best Album award. Pacific Drums LX maple kit, DW Edge snare, and Paiste cymbals behind a distinct chapter of Bostaph's career, separate from his Slayer gear.",
+    "seoKeywords": [
+      "paul bostaph testament drums",
+      "formation of damnation drum setup",
+      "testament 2008 drum setup",
+      "paul bostaph testament kit",
+      "testament comeback album drums",
+      "pacific drums lx paul bostaph",
+      "testament golden gods best album",
+      "alex skolnick greg christian return",
+      "paul bostaph gear history"
+    ],
+    "ogImage": "/images/albums/formation-of-damnation-drums.webp",
+    "intro": {
+      "title": "The Album That Brought the Classic Lineup Back Together",
+      "content": "Released April 29, 2008 on Nuclear Blast, The Formation of Damnation is Testament's tenth studio album and their first new record in nine years, since 1999's The Gathering. But the bigger story wasn't the gap since the previous album — it was who was standing in the room together for the first time in over a decade. Guitarist Alex Skolnick hadn't recorded a studio album with Testament since The Ritual in 1992. Bassist Greg Christian hadn't recorded with the band since Low in 1994. The Formation of Damnation reunited them both alongside Chuck Billy and Eric Peterson, giving longtime fans the classic-era lineup on record for the first time in roughly fifteen years, even though the band itself had never stopped releasing music in between.\n\nBehind the kit was Paul Bostaph, and his path back to Testament is its own small piece of Bay Area thrash trivia. The band had planned to record with Nick Barker (formerly of Cradle of Filth and Dimmu Borgir), but Barker's US visa complications made it impossible for him to return to the country in time. Testament turned to Bostaph — a fellow veteran of the same Bay Area scene that produced Forbidden, Exodus, and Death Angel — first to cover live shows and pre-production, and eventually to record the album outright. It marked Bostaph's first Testament studio credit, following a much earlier, brief association with the band in the early 1990s before Slayer defined the next chapter of his career.\n\nThe sessions were unhurried by thrash-metal standards: roughly two and a half months of pre-production before a focused ten-day tracking block at Fantasy Studios in Berkeley, California, with the band's own Eric Peterson and Chuck Billy producing. Bostaph has described drawing on several different parts of his playing history for the record — the improvisational instincts from his alt-country side project Truth About Seafood, the sheer extremity of his Slayer years, and the more patient, groove-first feel he picked up touring with Exodus alongside a run of death metal acts. Chuck Billy reportedly asked him to approach the album the way he'd approached Exodus's Shovel Headed Kill Machine: restrained, in service of the songs, without overplaying.\n\nThe record delivered. It won Metal Hammer's Golden Gods award for Best Album in 2008, beating out releases from Atreyu, Avenged Sevenfold, Children of Bodom, and Down, and Metal Hammer later placed it fourth on their year-end top 50 list. Metal Storm named it Best Thrash Metal Album of 2008. Commercially, it debuted at #59 on the Billboard 200, #4 on the US Top Hard Rock Albums chart, and #6 on the UK Rock & Metal Albums chart — modest by Slayer's standards, but a real result for a band that had spent nearly a decade without a new studio release.\n\nThis article documents the drum gear Bostaph used on The Formation of Damnation, the Fantasy Studios sessions with Eric Peterson and Chuck Billy producing, and the album's place as the record that opened Testament's modern-era comeback — and, for MetalForge's purposes, a wholly separate Paul Bostaph gear chapter from anything he used with Slayer.",
+      "keyPoints": [
+        "Released April 29, 2008 on Nuclear Blast — Testament's tenth studio album, their first in nine years",
+        "First Testament studio album since 1992 (Alex Skolnick) and 1994 (Greg Christian) to reunite the classic-era lineup on record",
+        "Paul Bostaph's first Testament studio credit, stepping in after drummer Nick Barker's US visa issues forced a lineup change",
+        "Recorded at Fantasy Studios, Berkeley, CA — produced by Eric Peterson and Chuck Billy after two and a half months of pre-production",
+        "Won Metal Hammer's Golden Gods award for Best Album (2008) and Metal Storm's Best Thrash Metal Album award",
+        "Debuted at #59 on the Billboard 200, #4 on US Top Hard Rock Albums, and #6 on UK Rock & Metal Albums",
+        "A distinct Bostaph gear chapter — Pacific Drums LX maple kit and DW Edge snare, unrelated to any of his Slayer-era setups"
+      ]
+    },
+    "drumKit": {
+      "title": "The 2008 Comeback Kit: Pacific Drums LX Maple",
+      "brand": "Pacific Drums & Percussion (PDP)",
+      "model": "PDP LX Series Maple",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2)"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom",
+          "14\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" Floor Tom",
+          "18\" Floor Tom"
+        ],
+        "shells": "6-ply, 100% maple shells"
+      },
+      "description": "For The Formation of Damnation, Paul Bostaph tracked on a Pacific Drums & Percussion LX Series maple kit — PDP being Drum Workshop's sister brand, and a logical landing point after Bostaph publicly parted ways with Tama and aligned himself with the DW family around 2007, right as the Testament sessions were coming together. The all-maple LX shells gave Fantasy Studios' engineers a kit with more midrange warmth than a poplar/mahogany budget shell pack, without the premium price tag of DW's own Collector's Series — a sensible choice for a drummer stepping into a new band relationship rather than committing to a top-tier endorsement immediately.\n\nThe nine-piece configuration — twin 22x18 kicks, a three-rack-tom spread (10, 12, and 14 inches), and two floor toms (16 and 18 inches) — is larger than the compact four-piece setups Bostaph used through most of his Slayer tenure. The extra 14-inch rack tom gave him more melodic range for the album's more technical, Skolnick-driven arrangements, which lean further into progressive and traditional-metal harmony than the mid-paced groove sections of Slayer's Diabolus in Musica or God Hates Us All.\n\nThe kit was assembled and dialed in during roughly two and a half months of pre-production before the ten-day tracking session, giving Bostaph time to adapt an unfamiliar setup to Testament's material rather than simply importing his Slayer approach wholesale.",
+      "notes": [
+        "Pacific Drums & Percussion (PDP) LX Series — DW's sister brand, adopted around the same time Bostaph left Tama in 2007",
+        "Nine-piece configuration with an extra 14-inch rack tom for the album's more melodic, Skolnick-driven arrangements",
+        "Twin 22x18 bass drums carried over the double-kick foundation from his Slayer years",
+        "Kit dialed in across roughly two and a half months of pre-production before a ten-day tracking block"
+      ],
+      "estimatedValue": "$1,400-2,000 (2008, PDP LX Series complete shell pack)"
+    },
+    "snare": {
+      "title": "The 2008 Crack: 14x5 DW Edge",
+      "brand": "DW",
+      "model": "DW Edge Snare",
+      "size": "14\" x 5\"",
+      "shell": "Steel",
+      "description": "Bostaph's snare on The Formation of Damnation was a 14x5 DW Edge — shallower than the 6.5-inch depth he favored on every Slayer studio album from Diabolus in Musica through Repentless. The 5-inch depth trades some low-end body for a faster, more articulate response, which suits the album's denser, more technical arrangement style: tracks built around Skolnick's harmonized leads and Eric Peterson's rhythm work leave less low-frequency space for the drums to occupy than Slayer's downtuned, riff-driven material.\n\nSteel construction kept the cutting, metallic crack that Bay Area thrash has always demanded, and Chuck Billy's request for restraint over flash meant the snare needed to sit cleanly in the pocket rather than announce itself with excess sustain. The shallower shell depth helped it do exactly that — quick, controlled, and out of the way of the guitar interplay Testament built the album around.",
+      "tuningSetting": "Medium-high tension for a fast, controlled crack with minimal ring",
+      "heads": "Remo Coated Batter",
+      "estimatedValue": "$250-400 (2008)"
+    },
+    "cymbals": {
+      "title": "Paiste: The One Constant Across Bostaph's Career",
+      "brand": "Paiste",
+      "series": "Paiste 2002 / RUDE",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste 2002 14\" Sound Edge Hi-Hats",
+          "position": "Left side",
+          "notes": "The same cutting hi-hat voice Bostaph relied on through his God Hates Us All-era Slayer setup"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 16\" Crash",
+          "position": "Left of hi-hats",
+          "notes": "Quick-opening crash for the album's faster riff transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Paiste 2002 18\" Crash",
+          "position": "Right of toms",
+          "notes": "Larger crash for sustained accents in the more melodic sections"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste RUDE 20\" Ride",
+          "position": "Far right",
+          "notes": "Heavier ride for cutting through Skolnick and Peterson's dual-guitar arrangements"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 18\" China",
+          "position": "Above floor tom",
+          "notes": "Trashy accent carried over from Bostaph's Slayer and Diabolus-era setups"
+        }
+      ],
+      "description": "Paiste is the one brand that runs through nearly every chapter of Bostaph's career — the 2002 series on God Hates Us All, the RUDE series across most of his live Slayer setups, and, on The Formation of Damnation, a continuation of that same relationship rather than a new one. Contemporary interviews around the album's release confirm Paiste as his cymbal brand for the sessions without breaking down the exact model-by-model configuration, so the setup above reflects his standard 2002/RUDE touring rig of that era rather than a session-specific spec sheet.\n\nWhat the cymbals needed to do is clear enough from the material: cut through Skolnick's leads and Peterson's rhythm work without overwhelming the more melodic, less riff-saturated arrangements than Slayer's catalog. The 2002 series' brighter, more controlled voice suited that role, while the RUDE ride gave Bostaph the heavier bell definition he needed for the album's more driving, uptempo sections.",
+      "estimatedValue": "$1,200-1,700 (2008)"
+    },
+    "hardware": {
+      "title": "DW Pedals and a Training-Stick Habit",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "DW",
+          "model": "DW 5000 Series Double Bass Drum Pedal",
+          "notes": "Consistent with Bostaph's move into the DW/PDP family around 2007",
+          "description": "The DW 5000 Series gave Bostaph a smooth, reliable double-bass foundation as he settled into his new PDP kit — the same pedal family he'd rely on again during his final Slayer era a few years later."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "DW",
+          "model": "DW 5500 Hi-Hat Stand",
+          "notes": "Matching DW hardware for the rest of the kit"
+        },
+        {
+          "type": "Throne",
+          "brand": "DW",
+          "model": "DW 5100 Throne",
+          "notes": "Standard studio-session seating for the Fantasy Studios sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater Wooden Sticks",
+          "notes": "Bostaph's stick choice for the sessions; he also used Vater's Power Wrist Builder aluminum sticks in practice for endurance training"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter) with Remo Ambassador (resonant)",
+        "toms": "Remo Ambassador Coated (batter)",
+        "snare": "Remo Coated Batter"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Fantasy Studios: Two and a Half Months of Prep, Ten Days of Tracking",
+      "content": "The Formation of Damnation was tracked at Fantasy Studios in Berkeley, California — the storied Bay Area facility with a client list running from Creedence Clearwater Revival to a long line of thrash and metal acts recorded in the decades since. Eric Peterson and Chuck Billy produced the sessions themselves rather than bringing in an outside producer, giving the band direct control over how Bostaph's drum parts were shaped against Skolnick and Peterson's guitar arrangements.\n\n**Pre-Production:**\nBostaph and the band spent roughly two and a half months in pre-production — an unusually long runway for a thrash record — working out drum parts against the songs before ever entering the tracking room. That preparation time let Bostaph adapt his playing to material that was structurally different from anything he'd recorded with Slayer: more harmonized lead guitar, more dynamic shifts, less pure riff-driven repetition.\n\n**Tracking Approach:**\nOnce recording began, the album came together in a focused ten-day block. Bostaph has described his own studio method as building a handful of full takes per song — reportedly around five — before selecting the strongest base performance and refining it with targeted punch-ins, rather than obsessively chasing a single flawless take.\n\n**Playing to Restraint:**\nChuck Billy specifically asked Bostaph to approach the record the way he'd approached Exodus's Shovel Headed Kill Machine (2005): serve the song, don't overplay. Bostaph has said he drew on several different influences to do that — the improvisational feel from his own alt-country side project Truth About Seafood, the raw extremity of his Slayer years, and a more patient, groove-conscious sensibility absorbed from touring alongside death metal acts during his Exodus tenure.",
+      "keyTechniques": [
+        "Tracked at Fantasy Studios, Berkeley, CA — self-produced by Eric Peterson and Chuck Billy",
+        "Roughly two and a half months of pre-production before a ten-day tracking block",
+        "Five-takes-per-song approach with targeted punch-ins for refinement",
+        "Chuck Billy directed a restrained, song-first approach modeled on Exodus's Shovel Headed Kill Machine",
+        "Bostaph drew on Truth About Seafood, his Slayer years, and Exodus-tour death metal influences to shape his part"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "The Formation of Damnation",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "Title track — establishes the album's more melodic, harmony-driven arrangement style compared to Slayer's riff-first material",
+          "Double-bass work under the verses showcases the PDP LX kit's low-end presence",
+          "Skolnick's return on lead guitar is immediately audible against Bostaph's more spacious playing",
+          "One of the clearest examples of Chuck Billy's directive to play with restraint"
+        ],
+        "gearNotes": "PDP twin 22x18 kicks drive the verse pattern. Paiste 2002 crash accents mark the chorus transitions."
+      },
+      {
+        "track": "More Than Meets the Eye",
+        "bpm": "165",
+        "signature": "4/4",
+        "highlights": [
+          "Lead single and the album's most-streamed track",
+          "Faster, more aggressive pacing than the title track — closest to classic Testament thrash tempo",
+          "Hi-hat-driven verse groove leads into a full-kit chorus assault",
+          "Frequently cited as the standout example of the album's comeback energy"
+        ],
+        "gearNotes": "Paiste 2002 14\" Sound Edge hi-hats drive the verse. DW Edge snare crack cuts through the dense chorus mix."
+      },
+      {
+        "track": "F.E.A.R.",
+        "bpm": "140",
+        "signature": "4/4",
+        "highlights": [
+          "Mid-paced, groove-oriented track that leans on the extra 14-inch rack tom for melodic fills",
+          "Demonstrates the more patient, space-conscious approach Bostaph carried over from his Exodus touring years",
+          "Skolnick and Peterson's dual-guitar interplay gets more room than on the album's faster tracks",
+          "One of several tracks singled out in period reviews as evidence of the album's songwriting depth"
+        ],
+        "gearNotes": "The added 14\" rack tom fills the gap between the 12\" and floor toms during the bridge. Paiste RUDE ride bell drives the outro."
+      }
+    ],
+    "videos": [],
+    "evolution": {
+      "title": "A Separate Gear Chapter: Testament, Not Slayer",
+      "content": "The Formation of Damnation documents a version of Paul Bostaph that MetalForge's Slayer-focused coverage doesn't capture: a drummer stepping into someone else's band, on someone else's gear timeline, playing material built around harmony and dynamics rather than downtuned riff aggression. None of the equipment on this record overlaps with any Slayer studio album he played on.\n\n**The Kit Shift:**\nDiabolus in Musica (1998) used DW Collector's Series. God Hates Us All (2001) used Tama Starclassic Maple. Repentless (2015) used Pearl Masters Maple Complete. The Formation of Damnation sits between the Tama and DW chapters chronologically and gear-wise: Bostaph tracked it on Pacific Drums & Percussion's LX Series, DW's more affordable sister brand, right around the time he publicly left Tama and aligned with the DW family.\n\n**The Constant:**\nPaiste is the throughline. Whether it was the 2002 series on God Hates Us All or the RUDE series on his live Slayer rig, Paiste cymbals followed Bostaph across nearly every chapter of his career — including this one. Only Diabolus in Musica's Zildjian A Custom setup and Repentless's Sabian AAX line break that pattern.\n\n**The Musical Shift:**\nMore than the gear, what changes on The Formation of Damnation is the musical demand. Skolnick's return brought harmonized, neoclassical-leaning lead guitar work back into Testament's sound, and Bostaph's nine-piece kit with its extra rack tom reflects a drummer preparing for more melodic material than Slayer ever asked of him. The restraint Chuck Billy asked for — echoing the approach on Exodus's Shovel Headed Kill Machine — pushed Bostaph toward serving arrangements rather than driving pure aggression.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Starclassic Maple (Slayer, God Hates Us All, 2001)",
+          "now": "Pacific Drums & Percussion LX Maple (Testament, 2008)"
+        },
+        {
+          "category": "Snare",
+          "then": "Steel 14x6.5\" (Slayer standard, every studio album)",
+          "now": "DW Edge Steel 14x5\" (Testament, 2008)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste 2002 / Signature (Slayer, God Hates Us All)",
+          "now": "Paiste 2002 / RUDE (Testament, 2008 — same brand, continued relationship)"
+        },
+        {
+          "category": "Studio",
+          "then": "The Warehouse Studio, Vancouver, Matt Hyde producing (Slayer, 2001)",
+          "now": "Fantasy Studios, Berkeley, self-produced by Eric Peterson and Chuck Billy (Testament, 2008)"
+        },
+        {
+          "category": "Band Role",
+          "then": "Full-time member replacing Dave Lombardo (Slayer, 1992)",
+          "now": "Session replacement for Nick Barker, turned full member (Testament, 2007-2011)"
+        }
+      ]
+    },
+    "relatedAlbums": [
+      "diabolus-in-musica-drum-setup",
+      "sacrament-drum-setup",
+      "wrath-drum-setup"
+    ],
+    "relatedDrummers": [
+      27,
+      17
+    ],
+    "relatedArticles": [
+      "whats-in-paul-bostaphs-kit",
+      "thrash-metal-drummers"
+    ],
+    "faq": [
+      {
+        "question": "What drums does Paul Bostaph use on The Formation of Damnation?",
+        "answer": "Paul Bostaph recorded Testament's The Formation of Damnation (2008) on a Pacific Drums & Percussion (PDP) LX Series maple kit — a nine-piece setup with two 22x18-inch bass drums, 10\", 12\", and 14\" rack toms, and 16\" and 18\" floor toms. His snare was a 14x5 DW Edge steel snare, shallower than the 14x6.5 snares he used across every Slayer studio album. His cymbals were Paiste, in the 2002 and RUDE lines he relied on for most of his career."
+      },
+      {
+        "question": "What's different about Paul Bostaph's Testament gear compared to his Slayer setups?",
+        "answer": "Nearly everything except the cymbal brand. Bostaph's Slayer albums used DW Collector's Series (Diabolus in Musica, 1998), Tama Starclassic Maple (God Hates Us All, 2001), and Pearl Masters Maple Complete (Repentless, 2015) — none of which appear on The Formation of Damnation. Instead, he tracked the Testament album on a Pacific Drums & Percussion LX Series kit with a DW Edge snare, reflecting his move away from Tama and into the DW family around 2007. Paiste cymbals are the one constant that carries across both bands."
+      },
+      {
+        "question": "Was The Formation of Damnation Grammy-nominated?",
+        "answer": "No — The Formation of Damnation was not nominated for a Grammy Award. It did win real industry recognition: Metal Hammer's Golden Gods award for Best Album in 2008 (beating releases from Atreyu, Avenged Sevenfold, Children of Bodom, and Down), a top-four placement on Metal Hammer's year-end albums list, and Metal Storm's Best Thrash Metal Album award for 2008. Testament has never received a Grammy nomination for this record or its lead single, 'More Than Meets the Eye.'"
+      },
+      {
+        "question": "Why did Paul Bostaph end up drumming on a Testament album?",
+        "answer": "Testament had planned to record The Formation of Damnation with drummer Nick Barker (formerly of Cradle of Filth and Dimmu Borgir), but US visa complications prevented Barker from returning to the country in time. The band turned to Paul Bostaph — a longtime peer from the same Bay Area thrash scene — first to cover live shows and pre-production, and the arrangement turned into his first full Testament studio credit. He remained with the band from 2007 through 2011, departing before Dark Roots of Earth (2012), when Gene Hoglan took over the drum chair."
+      },
+      {
+        "question": "What made The Formation of Damnation a comeback album for Testament?",
+        "answer": "It was Testament's first studio album in nine years, since 1999's The Gathering, and the first to reunite guitarist Alex Skolnick (who hadn't recorded with the band since 1992's The Ritual) and bassist Greg Christian (who hadn't recorded with the band since 1994's Low) alongside Chuck Billy and Eric Peterson. That reunion of the band's most recognized lineup, combined with Paul Bostaph stepping into the drum chair, made The Formation of Damnation feel like a full restart rather than just another studio release."
+      }
+    ],
+    "conclusion": {
+      "title": "A Distinct Chapter in a Long Career",
+      "content": "The Formation of Damnation isn't a Paul Bostaph album in the way Divine Intervention or Repentless are — it's a Testament album that happened to need a drummer, and Bostaph happened to be the right Bay Area veteran in the right place when Nick Barker's visa fell through. But the gear he brought to Fantasy Studios in 2008 — the Pacific Drums LX kit, the DW Edge snare, the same Paiste cymbals that followed him through most of his career — documents a genuine, self-contained chapter that has nothing to do with Slayer's DW, Tama, or Pearl years.\n\nThe album's real significance is bigger than any one drummer's equipment. It reunited Alex Skolnick and Greg Christian with Chuck Billy and Eric Peterson for the first time in over a decade, won Metal Hammer's Golden Gods Best Album award, and reopened the door for Testament's modern era — the run that would eventually lead to Gene Hoglan behind the kit on Dark Roots of Earth and Brotherhood of the Snake. Bostaph's own story didn't end there either: he returned to Slayer's final chapter with Repentless in 2015, and came back to Testament again in 2024.\n\nFor drummers studying Paul Bostaph's complete arc, The Formation of Damnation fills in a chapter the Slayer catalog can't tell on its own. See [What's In Paul Bostaph's Kit](/articles/whats-in-paul-bostaphs-kit) for his full gear history across both bands, the [Diabolus in Musica drum setup](/articles/diabolus-in-musica-drum-setup) for the Slayer-era DW/Zildjian chapter that preceded this one, and the [Paul Bostaph drummer profile](/drummer/paul-bostaph) for the complete career overview from Forbidden to Testament's 2024 reunion."
+    }
+  },
   "whats-in-paul-bostaphs-kit": {
     "slug": "whats-in-paul-bostaphs-kit",
     "albumTitle": null,

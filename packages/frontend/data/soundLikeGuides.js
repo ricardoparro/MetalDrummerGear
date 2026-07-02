@@ -15046,6 +15046,252 @@ This guide breaks down Bittner's technique, gear, and practice approach — esse
       { slug: 'jason-bittner-drum-setup', label: "Jason Bittner's Drum Kit & Gear Setup — Shadows Fall / Overkill" }
     ]
   },
+  // Issue #2513: SoundLike guide — Abe Cunningham (re-scoped from batch 19)
+  'how-to-sound-like-abe-cunningham': {
+    slug: 'how-to-sound-like-abe-cunningham',
+    drummerId: 48,
+    drummerName: 'Abe Cunningham',
+    band: 'Deftones',
+    genre: 'Alternative Metal',
+    priority: 59,
+    title: "How to Sound Like Abe Cunningham: Complete Gear & Technique Guide",
+    description: "Master Abe Cunningham's atmospheric alt-metal drumming. Learn the Deftones founding drummer's dynamic restraint, unconventional groove placement, Tama Starclassic kit, and Zildjian A/K Custom cymbal setup.",
+    seoKeywords: ['abe cunningham drumming', 'how to sound like abe cunningham', 'deftones drums', 'abe cunningham gear', 'abe cunningham technique', 'abe cunningham drum kit', 'how to sound like deftones drummer'],
+    ogImage: '/images/guides/abe-cunningham-guide.webp',
+    datePublished: '2026-07-02',
+    dateModified: '2026-07-02',
+    author: 'MetalForge Editorial',
+    wordCount: 1850,
+    readingTime: '9 min',
+    intro: {
+      title: "Alternative Metal's Master of Restraint",
+      content: `Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across more than three decades and nine studio albums, from 1995's "Adrenaline" through the Grammy-winning "White Pony" (2000) to 2020's "Ohms." In a genre that often rewards speed and technical showmanship, Cunningham built his reputation on the opposite: taste, space, and dynamic intelligence.
+
+What separates Cunningham from most metal drummers is his willingness to underplay. His parts breathe with the emotional arc of a song rather than existing as a technical showcase — a whisper-quiet verse can explode into a crushing chorus without ever feeling like two different drummers playing. That ambient-heavy, texture-over-technique approach is a distinct niche from pure blast-beat metal, and it's exactly what makes Deftones' alt-metal/post-metal crossover sound so distinctive.
+
+This guide breaks down the technique, gear, and practice approach behind Cunningham's sound — from his Tama Starclassic Maple/Bubinga kit and Zildjian A Custom/K Custom hybrid cymbals to the unconventional snare placements and dynamic control that define alternative metal's most tasteful drummer.`,
+      keyPoints: [
+        "Founding member and sole drummer of Deftones since 1988, spanning nine studio albums",
+        "Prioritizes dynamic restraint and space over technical showmanship",
+        "Ambient-heavy, texture-focused playing style distinct from pure metal blast approaches",
+        "Grammy winner for \"Elite\" (White Pony, 2000, Best Metal Performance)"
+      ]
+    },
+    technique: {
+      title: "Cunningham's Atmospheric Alt-Metal Technique",
+      overview: `Cunningham's technique centers on unconventional snare and accent placement combined with expert dynamic control. His hands find the pocket in unexpected places rather than defaulting to standard backbeat patterns, while his overall approach treats volume and intensity as compositional tools that build and release across a song rather than staying fixed at one level.`,
+      stickGrip: {
+        type: 'Matched Grip (dynamics-focused)',
+        description: "Cunningham plays matched grip with a light touch calibrated for wide dynamic range — his stroke needs to disappear into a whisper-quiet ambient section one moment and deliver full-weight backbeats the next, all within the same song.",
+        tips: [
+          "Practice the same groove at three volume levels — near-silent, medium, and full — without changing the pattern itself",
+          "Focus on wrist control for quiet passages rather than choking the stick to play softer",
+          "Build the ability to crescendo smoothly across a full verse instead of jumping between fixed volumes"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "Whisper-to-Explosion Dynamic Build",
+          description: "Cunningham builds from an almost inaudible, texture-focused verse into a full-weight, crushing chorus using gradual dynamic and density increases rather than an abrupt volume jump — the hallmark of tracks like \"Digital Bath.\"",
+          tempo: "70-100 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Take a simple groove and play it at near-silent volume for 8 bars, then add one dynamic increment every 4 bars until you reach full intensity by the chorus."
+        },
+        {
+          name: "Unconventional Snare Placement",
+          description: "Rather than defaulting to backbeat-on-2-and-4, Cunningham places snare accents in unexpected spots that create tension and release, mirroring the vocal phrasing instead of a standard rock pattern.",
+          tempo: "85-120 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Take a basic backbeat and shift the snare hit on beat 4 forward or backward by an eighth note, then build a full groove around that displaced accent."
+        },
+        {
+          name: "Ambient Texture Playing",
+          description: "On atmospheric passages, Cunningham treats the kit as texture rather than rhythm — cymbal washes, muted toms, and sparse kick hits that support the song's mood without asserting a strong pulse.",
+          tempo: "60-90 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Practice playing a groove using only cymbal swells and occasional soft kick hits, resisting the urge to fill space with extra snare or tom hits."
+        }
+      ],
+      keySongs: [
+        { song: "My Own Summer (Shove It)", album: "Around the Fur", year: 1997, why: "Inventive, unconventional snare placement without technical showiness" },
+        { song: "Digital Bath", album: "White Pony", year: 2000, why: "Signature whisper-to-explosion dynamic build across a full song" },
+        { song: "Passenger", album: "White Pony", year: 2000, why: "Ambient, texture-focused playing that prioritizes mood over pulse" },
+        { song: "Diamond Eyes", album: "Diamond Eyes", year: 2010, why: "Groove-driven power balanced with dynamic restraint" }
+      ]
+    },
+    gear: {
+      title: "Cunningham's Gear Setup",
+      drumKit: {
+        brand: 'Tama',
+        model: 'Tama Starclassic Maple/Bubinga',
+        shells: 'Maple/Bubinga hybrid',
+        finish: 'Custom finishes (varies by tour)',
+        config: {
+          kick: '22" x 18" Bass Drum',
+          snare: '14" x 8" Tama S.L.P. Big Black Steel',
+          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+          floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
+        },
+        description: "The Maple/Bubinga shell combination gives Cunningham the warmth and projection of maple with the focused attack and low-end punch of bubinga — a compact four-tom configuration with no unnecessary clutter, reflecting his groove-over-flash philosophy.",
+        affiliateNote: "Any warm-sounding maple/hybrid kit with a compact tom configuration will approximate the tonal character."
+      },
+      snare: {
+        brand: 'Tama',
+        model: 'Tama S.L.P. Big Black Steel',
+        size: '14" x 8"',
+        shell: 'Steel',
+        description: "A deep steel shell delivers the crack and cut essential for Deftones' heavier moments, while the extra depth gives Cunningham room to tune for a satisfying fundamental note and sensitive ghost-note response.",
+        alternative: "Any deep (8\" or deeper) steel-shell snare tuned medium will approximate the crack and body."
+      },
+      cymbals: {
+        brand: 'Zildjian',
+        series: 'Zildjian A Custom / K Custom Hybrid',
+        setup: [
+          { type: 'Hi-Hats', model: 'Zildjian 14" A New Beat Hi-Hats', notes: 'Versatile, articulate response across Deftones\' wide dynamic range' },
+          { type: 'Crash', model: 'Zildjian 16" A Custom Crash', notes: 'Quick attack for accents' },
+          { type: 'Crash', model: 'Zildjian 18" A Custom Crash', notes: 'Primary crash for heavier moments' },
+          { type: 'Ride', model: 'Zildjian 21" K Custom Ride', notes: 'Dark, complex wash for atmospheric sections' },
+          { type: 'China', model: 'Zildjian 18" A Custom China', notes: 'Trashy accents for the heaviest passages' }
+        ],
+        description: "The hybrid A Custom / K Custom approach reflects Deftones' musical duality: A Custom crashes deliver modern brightness for crushing moments, while the K Custom ride provides dark, complex wash that blends into the band's shimmering, atmospheric sections."
+      },
+      pedals: {
+        brand: 'Tama',
+        model: 'Tama Iron Cobra 900 Rolling Glide',
+        description: "A smooth, finesse-oriented pedal feel that suits Cunningham's dynamics-first approach to bass drum work over raw double-bass speed.",
+        alternative: "DW 5000 or Pearl Eliminator for similarly smooth, controllable action."
+      },
+      sticks: {
+        brand: 'Zildjian',
+        model: 'Zildjian Abe Cunningham Artist Series',
+        specs: 'Balanced weight, custom tip shape',
+        description: "Cunningham's signature stick balances weight for groove playing with enough heft for power when needed, with a custom tip shape tuned to his preferred cymbal articulation.",
+        alternative: "Vic Firth American Classic 5A for similarly balanced weight and rebound."
+      },
+      heads: {
+        kick: 'Evans EMAD (batter), Evans EQ3 (resonant)',
+        snare: 'Evans G2 Coated (batter), Evans Hazy 300 Snare Side (resonant)',
+        toms: 'Evans G2 Coated (batter), Evans G1 Clear (resonant)',
+        resonant: 'Evans G1 Clear'
+      }
+    },
+    tuning: {
+      title: "Tuning for Cunningham's Dynamic Range",
+      overview: "Cunningham tunes for warmth, sensitivity, and low-end punch that sits with the bass guitar — every drum needs to register a quiet ghost note as clearly as a full-weight backbeat.",
+      kickDrum: {
+        tension: "Medium",
+        muffling: "Moderate",
+        description: "A controlled tension keeps the kick punchy without overwhelming sustain, letting it sit in the mix alongside the bass guitar rather than competing with it.",
+        tip: "Tune for a kick that locks in with the bassist rather than one that dominates the low end on its own."
+      },
+      snare: {
+        tension: "Medium",
+        muffling: "Minimal",
+        description: "A medium tuning lets the deep steel shell deliver a satisfying fundamental note while still responding sensitively to ghost notes and lighter accents.",
+        tip: "Test your tuning by playing a soft accent — if the deep shell doesn't speak clearly at low volume, loosen slightly."
+      },
+      toms: {
+        tension: "Medium, resonant",
+        muffling: "Light",
+        description: "Open, resonant toms support melodic, song-serving fills without sounding thin or choked during transitional moments.",
+        tip: "Keep muffling light so the toms can sing during atmospheric passages, not just thud during heavy sections."
+      }
+    },
+    practice: {
+      title: "Developing Cunningham's Style",
+      exercises: [
+        {
+          name: "Whisper-to-Explosion Drill",
+          description: "Build the wide dynamic control behind Cunningham's signature song-length crescendos",
+          instructions: "Take a simple groove and play it at near-silent volume for 8 bars, then increase intensity gradually over the following bars until you reach full volume, mirroring a verse-to-chorus build.",
+          duration: "15 minutes daily",
+          goal: "A smooth, controlled crescendo from whisper-quiet to full volume without an abrupt jump"
+        },
+        {
+          name: "Displaced Snare Accent Builder",
+          description: "Develop Cunningham's unconventional snare placement vocabulary",
+          instructions: "Take a basic backbeat and shift the snare accent on beat 4 forward or backward by an eighth note. Build a full groove around the displaced accent, keeping the kick pattern steady underneath.",
+          duration: "10 minutes daily",
+          goal: "A displaced snare groove that feels intentional and musical rather than like a mistake"
+        },
+        {
+          name: "Ambient Texture Practice",
+          description: "Build the restraint and space behind Cunningham's atmospheric playing",
+          instructions: "Practice a groove using only cymbal swells and occasional soft kick hits, resisting the urge to add extra snare or tom hits to fill space.",
+          duration: "10 minutes daily",
+          goal: "A texture-focused pattern that supports a song's mood without asserting a strong pulse"
+        }
+      ],
+      commonMistakes: [
+        "Playing at a consistently loud, even volume and losing the dynamic contrast that defines Cunningham's sound",
+        "Defaulting to a standard backbeat instead of exploring unconventional accent placement",
+        "Filling every available space with fills instead of trusting silence and texture",
+        "Overpowering the bass guitar's low end instead of locking the kick in alongside it"
+      ]
+    },
+    budgetSetups: {
+      budget: {
+        price: "$900",
+        label: "Starter Setup",
+        kit: "Pearl Export ($650)",
+        cymbals: "Zildjian Planet Z hi-hats + crash ($150)",
+        pedals: "Tama Speed Cobra HP310LW ($100)",
+        sticks: "Vic Firth American Classic 5A ($10)",
+        notes: "A warm-sounding entry kit with a deep-ish snare and versatile cymbals approximates the dynamic character Cunningham's playing needs."
+      },
+      mid: {
+        price: "$2,800",
+        label: "Intermediate Setup",
+        kit: "Tama Superstar Classic ($1,600)",
+        cymbals: "Zildjian A Custom partial setup ($1,000)",
+        pedals: "Tama Iron Cobra 900 ($200)",
+        sticks: "Vic Firth American Classic 5A ($10)",
+        notes: "A Tama kit with A Custom cymbals is the key upgrade — bright, articulate tone with room to add a K Custom ride later."
+      },
+      pro: {
+        price: "$5,800+",
+        label: "Professional Setup",
+        kit: "Tama Starclassic Maple/Bubinga ($3,500+)",
+        cymbals: "Full A Custom / K Custom hybrid selection ($1,800+)",
+        pedals: "Tama Iron Cobra 900 Rolling Glide ($300)",
+        heads: "Full Evans setup ($200)",
+        notes: "Touring-ready setup matching Cunningham's current rig, built around warmth and dynamic sensitivity across the full range."
+      }
+    },
+    faq: [
+      {
+        question: "Who is Abe Cunningham and why is his drumming influential?",
+        answer: "Abe Cunningham co-founded Deftones in Sacramento in 1988 as a teenager and has remained the band's sole drummer across nine studio albums, from \"Adrenaline\" (1995) through \"Ohms\" (2020). His dynamic, restraint-focused approach — prioritizing taste and emotional arc over technical showmanship — helped define alternative metal's atmospheric identity. \"Elite\" from White Pony won a Grammy for Best Metal Performance in 2001."
+      },
+      {
+        question: "What gear should I use to sound like Abe Cunningham?",
+        answer: "Cunningham plays a Tama Starclassic Maple/Bubinga kit with a Tama S.L.P. Big Black Steel 14\" x 8\" snare, a Zildjian A Custom/K Custom hybrid cymbal setup, a Tama Iron Cobra 900 Rolling Glide pedal, and Zildjian Abe Cunningham Artist Series signature sticks. A budget setup can approximate this with any warm-sounding kit, a deep steel or maple snare, and a mix of bright and dark cymbals."
+      },
+      {
+        question: "What tempo should I practice at to sound like Abe Cunningham?",
+        answer: "Practice in the 60-120 BPM range that covers most of Deftones' catalog, from ambient, texture-focused passages around 60-90 BPM up to driving grooves near 120 BPM. The key isn't raw speed — it's building the dynamic control to move between whisper-quiet and full-weight intensity within a single song."
+      },
+      {
+        question: "What are the key techniques behind Abe Cunningham's drumming?",
+        answer: "Three techniques define Cunningham's style: gradual whisper-to-explosion dynamic builds across a song; unconventional snare placement that creates tension and release instead of a standard backbeat; and ambient, texture-focused playing that treats the kit as mood rather than pure rhythm."
+      },
+      {
+        question: "What Deftones albums showcase Abe Cunningham's playing best?",
+        answer: "\"White Pony\" (2000) is the definitive showcase, featuring the Grammy-winning \"Elite\" and the dynamic-build masterclass \"Digital Bath.\" \"Around the Fur\" (1997) shows his early unconventional snare placement, while \"Diamond Eyes\" (2010) and \"Ohms\" (2020) demonstrate how his restraint-focused approach matured across three decades."
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/abe-cunningham',
+      similarDrummers: ['John Otto', 'Dirk Verbeuren', 'Ray Luzier'],
+      relatedGuides: ['how-to-sound-like-john-otto', 'how-to-sound-like-dirk-verbeuren'],
+      gearPages: ['/gear/drums', '/brands/tama', '/brands/zildjian']
+    },
+    licksUrl: '/drummers/abe-cunningham/licks',
+    relatedArticles: [
+      { slug: 'whats-in-abe-cunninghams-kit', label: "What's In Abe Cunningham's Deftones Arsenal: Complete Gear Breakdown" },
+      { slug: 'white-pony-drum-setup', label: "White Pony Drum Setup: Abe Cunningham's Atmospheric Masterpiece" }
+    ]
+  },
 };
 
 // ================================

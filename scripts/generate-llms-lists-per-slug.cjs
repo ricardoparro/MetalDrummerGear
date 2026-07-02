@@ -29,42 +29,53 @@ try {
   process.exit(1);
 }
 
-// Frontend drummer ID → {name, band, slug} lookup table (same as generate-llms-lists.cjs).
+// Frontend drummer ID → {name, band, slug} lookup table, sourced directly from
+// the canonical roster in packages/backend/src/index.js (ids 1-30, 51-62) so
+// generated markdown never mislabels a drummer. Slugs mirror App.js's
+// `name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')` convention.
 const DRUMMER_MAP = {
-  1:  { name: 'Lars Ulrich',        band: 'Metallica',                              slug: 'lars-ulrich' },
-  2:  { name: 'Joey Jordison',       band: 'Slipknot',                               slug: 'joey-jordison' },
-  3:  { name: 'Gene Hoglan',         band: 'Death / Testament / Dethklok',           slug: 'gene-hoglan' },
-  4:  { name: 'Dave Lombardo',       band: 'Slayer',                                 slug: 'dave-lombardo' },
-  5:  { name: 'Tomas Haake',         band: 'Meshuggah',                              slug: 'tomas-haake' },
-  6:  { name: 'George Kollias',      band: 'Nile',                                   slug: 'george-kollias' },
-  7:  { name: 'Eloy Casagrande',     band: 'Sepultura / Slipknot',                   slug: 'eloy-casagrande' },
-  8:  { name: 'Ray Luzier',          band: 'Korn',                                   slug: 'ray-luzier' },
-  9:  { name: 'John Otto',           band: 'Limp Bizkit',                            slug: 'john-otto' },
-  10: { name: 'Jay Weinberg',        band: 'Slipknot / Suicidal Tendencies',         slug: 'jay-weinberg' },
-  11: { name: 'Vinnie Paul',         band: 'Pantera / Damageplan / Hellyeah',        slug: 'vinnie-paul' },
-  12: { name: 'Charlie Benante',     band: 'Anthrax / S.O.D.',                       slug: 'charlie-benante' },
-  13: { name: 'Mike Portnoy',        band: 'Dream Theater / The Winery Dogs',        slug: 'mike-portnoy' },
-  14: { name: 'Danny Carey',         band: 'Tool',                                   slug: 'danny-carey' },
-  15: { name: 'Mario Duplantier',    band: 'Gojira',                                 slug: 'mario-duplantier' },
-  16: { name: 'Brann Dailor',        band: 'Mastodon',                               slug: 'brann-dailor' },
-  17: { name: 'Chris Adler',         band: 'Lamb of God',                            slug: 'chris-adler' },
-  18: { name: 'Matt Halpern',        band: 'Periphery',                              slug: 'matt-halpern' },
-  19: { name: 'Inferno',             band: 'Behemoth',                               slug: 'inferno' },
-  20: { name: 'Hellhammer',          band: 'Mayhem',                                 slug: 'hellhammer' },
-  21: { name: 'Pete Sandoval',       band: 'Morbid Angel',                           slug: 'pete-sandoval' },
-  22: { name: 'Art Cruz',            band: 'Lamb of God',                            slug: 'art-cruz' },
-  23: { name: 'Arin Ilejay',         band: 'ex-Avenged Sevenfold',                   slug: 'arin-ilejay' },
-  24: { name: 'Navene Koperweis',    band: 'Entheos / ex-Animals as Leaders',        slug: 'navene-koperweis' },
-  25: { name: 'Alex Bent',           band: 'ex-Trivium / Arkaík / Dragonlord',       slug: 'alex-bent' },
-  26: { name: 'Shannon Larkin',      band: 'Godsmack / Ugly Kid Joe',                slug: 'shannon-larkin' },
-  27: { name: 'Raymond Herrera',     band: 'Fear Factory / Brujeria',                slug: 'raymond-herrera' },
-  28: { name: 'Morgan Ågren',        band: "Mats/Morgan Band / Fredrik Thordendal's Special Defects", slug: 'morgan-gren' },
-  29: { name: 'Igor Cavalera',       band: 'Sepultura / Cavalera Conspiracy',        slug: 'igor-cavalera' },
-  30: { name: 'Bill Ward',           band: 'Black Sabbath',                          slug: 'bill-ward' },
-  35: { name: 'Flo Mounier',         band: 'Cryptopsy',                              slug: 'flo-mounier' },
-  44: { name: 'Derek Roddy',         band: 'Hate Eternal / Nile',                    slug: 'derek-roddy' },
-  47: { name: 'Gavin Harrison',      band: 'Porcupine Tree / King Crimson',          slug: 'gavin-harrison' },
-  52: { name: 'Mike Mangini',        band: 'Dream Theater',                          slug: 'mike-mangini' },
+  1:  { name: 'Lars Ulrich',         band: 'Metallica',                                                    slug: 'lars-ulrich' },
+  2:  { name: 'Joey Jordison',       band: 'Slipknot',                                                     slug: 'joey-jordison' },
+  3:  { name: 'Gene Hoglan',         band: 'Death / Testament / Dethklok',                                 slug: 'gene-hoglan' },
+  4:  { name: 'Dave Lombardo',       band: 'Slayer',                                                       slug: 'dave-lombardo' },
+  5:  { name: 'Tomas Haake',         band: 'Meshuggah',                                                    slug: 'tomas-haake' },
+  6:  { name: 'George Kollias',      band: 'Nile',                                                         slug: 'george-kollias' },
+  7:  { name: 'Eloy Casagrande',     band: 'Sepultura / Slipknot',                                         slug: 'eloy-casagrande' },
+  8:  { name: 'Ray Luzier',          band: 'Korn',                                                         slug: 'ray-luzier' },
+  9:  { name: 'John Otto',           band: 'Limp Bizkit',                                                  slug: 'john-otto' },
+  10: { name: 'Jay Weinberg',        band: 'Slipknot / Suicidal Tendencies',                               slug: 'jay-weinberg' },
+  11: { name: 'Vinnie Paul',         band: 'Pantera / Damageplan / Hellyeah',                              slug: 'vinnie-paul' },
+  12: { name: 'Charlie Benante',     band: 'Anthrax / S.O.D. / Pantera',                                   slug: 'charlie-benante' },
+  13: { name: 'Mike Portnoy',        band: 'Dream Theater / Liquid Tension Experiment / The Winery Dogs',  slug: 'mike-portnoy' },
+  14: { name: 'Danny Carey',         band: 'Tool',                                                         slug: 'danny-carey' },
+  15: { name: 'Mario Duplantier',    band: 'Gojira',                                                       slug: 'mario-duplantier' },
+  16: { name: 'Brann Dailor',        band: 'Mastodon',                                                     slug: 'brann-dailor' },
+  17: { name: 'Chris Adler',         band: 'Lamb of God',                                                  slug: 'chris-adler' },
+  18: { name: 'Matt Halpern',        band: 'Periphery',                                                    slug: 'matt-halpern' },
+  19: { name: 'Inferno',             band: 'Behemoth',                                                     slug: 'inferno' },
+  20: { name: 'Hellhammer',          band: 'Mayhem',                                                       slug: 'hellhammer' },
+  21: { name: 'Pete Sandoval',       band: 'Morbid Angel',                                                 slug: 'pete-sandoval' },
+  22: { name: 'Shannon Larkin',      band: 'Godsmack / Ugly Kid Joe / Wrathchild America',                 slug: 'shannon-larkin' },
+  23: { name: 'Raymond Herrera',     band: 'Fear Factory / Arkaea / Brujeria',                             slug: 'raymond-herrera' },
+  24: { name: 'Morgan Ågren',        band: "Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects", slug: 'morgan-gren' },
+  25: { name: 'Igor Cavalera',       band: 'Sepultura / Cavalera Conspiracy / Soulwax',                    slug: 'igor-cavalera' },
+  26: { name: 'Scott Travis',        band: 'Judas Priest / Racer X / Thin Lizzy',                          slug: 'scott-travis' },
+  27: { name: 'Paul Bostaph',        band: 'Slayer / Testament / Forbidden / Exodus',                      slug: 'paul-bostaph' },
+  28: { name: 'Flo Mounier',         band: 'Cryptopsy',                                                    slug: 'flo-mounier' },
+  29: { name: 'Richard Christy',     band: 'Death / Control Denied / Iced Earth / Charred Walls of the Damned', slug: 'richard-christy' },
+  30: { name: 'Derek Roddy',         band: 'Hate Eternal / Nile / Malevolent Creation / Serpents Rise',    slug: 'derek-roddy' },
+  51: { name: 'Paul Mazurkiewicz',   band: 'Cannibal Corpse',                                              slug: 'paul-mazurkiewicz' },
+  52: { name: 'Mike Mangini',        band: 'Dream Theater',                                                slug: 'mike-mangini' },
+  53: { name: 'Matt Garstka',        band: 'Animals as Leaders',                                           slug: 'matt-garstka' },
+  54: { name: 'Daniel Erlandsson',   band: 'Arch Enemy',                                                   slug: 'daniel-erlandsson' },
+  55: { name: 'Jaska Raatikainen',   band: 'Children of Bodom',                                            slug: 'jaska-raatikainen' },
+  56: { name: 'Hannes Grossmann',    band: 'Obscura / ex-Necrophagist / Alkaloid',                         slug: 'hannes-grossmann' },
+  57: { name: 'Daray',               band: 'Dimmu Borgir / Vader',                                         slug: 'daray' },
+  58: { name: 'Jocke Wallgren',      band: 'Amon Amarth',                                                  slug: 'jocke-wallgren' },
+  59: { name: 'Tim Yeung',           band: 'Morbid Angel / Hate Eternal / Vital Remains',                  slug: 'tim-yeung' },
+  60: { name: 'Kevin Talley',        band: 'Dying Fetus / Misery Index / Six Feet Under',                  slug: 'kevin-talley' },
+  61: { name: 'Alex Bent',           band: 'Trivium',                                                      slug: 'alex-bent' },
+  62: { name: 'Matt Greiner',        band: 'August Burns Red',                                             slug: 'matt-greiner' },
 };
 
 const today = new Date().toISOString().split('T')[0];
@@ -165,10 +176,10 @@ function buildFAQ(list, rankEntries) {
     parts.push(`A: Anything above 200 BPM is extreme, 220–240 BPM is elite, and 260+ BPM is the uppermost tier reached only by a handful of specialists. Sustaining these speeds for full songs (not just short bursts) separates true speed champions from one-trick demonstrations.`);
     parts.push('');
     parts.push(`**Q: What techniques do the fastest double bass drummers use?**`);
-    parts.push(`A: Heel-toe technique (${top1.name}), swivel technique (${getDrummer(44).name}), and gravity blast adaptations (${getDrummer(35).name}) are the primary speed-enabling methods. Each minimizes wasted motion and leverages natural rebound. Most elite speedsters combine two or more methods depending on tempo range.`);
+    parts.push(`A: Heel-toe technique (${top1.name}), swivel technique (${getDrummer(30).name}), and gravity blast adaptations (${getDrummer(28).name}) are the primary speed-enabling methods. Each minimizes wasted motion and leverages natural rebound. Most elite speedsters combine two or more methods depending on tempo range.`);
     parts.push('');
     parts.push(`**Q: What pedals do the fastest double bass drummers use?**`);
-    parts.push(`A: Lightweight, low-inertia pedals dominate: Axis Longboard (${getDrummer(44).name}), Pearl Demon Drive (${getDrummer(35).name}, ${getDrummer(3).name}), Pearl Demon XR co-designed by ${top1.name}, and Tama Speed Cobra are all favorites for extreme tempos. Heavier pedals like DW 9000 suit power styles but limit top-end speed.`);
+    parts.push(`A: Lightweight, low-inertia pedals dominate: Axis Longboard (${getDrummer(30).name}), Pearl Demon Drive (${getDrummer(28).name}, ${getDrummer(3).name}), Pearl Demon XR co-designed by ${top1.name}, and Tama Speed Cobra are all favorites for extreme tempos. Heavier pedals like DW 9000 suit power styles but limit top-end speed.`);
   } else if (slug === 'most-brutal-drum-solos') {
     parts.push(`**Q: What is the most brutal metal drum solo ever?**`);
     parts.push(`A: ${top1.name}'s (${top1.band}) rotating platform solo from Slipknot's 2002 Disasterpieces DVD is widely cited as the most iconic, combining technical precision with theatrical extremity — performing blast beats while inverted at 180+ BPM. ${top2.name}'s "Pneuma" performance is a close second for pure technical complexity.`);
@@ -181,6 +192,15 @@ function buildFAQ(list, rankEntries) {
     parts.push('');
     parts.push(`**Q: How long are typical metal drum solos?**`);
     parts.push(`A: Metal drum solos range from 3–4 minute stand-alone pieces (${top1.name}'s Disasterpieces solo at 4+ minutes) to extended song-integrated features (${top3.name}'s 15+ minute Instrumedley) and full-song percussion showcases (${top2.name}'s 12+ minute "Pneuma"). Most live solos fall in the 4–8 minute range.`);
+  } else if (Array.isArray(list.faq) && list.faq.length > 0) {
+    // Genre-list batches (Issue #2344 onward) carry their own faq array in
+    // top10Lists.js instead of a hardcoded branch here — render it directly
+    // rather than silently emitting an empty FAQ section.
+    list.faq.forEach(({ question, answer }, i) => {
+      parts.push(`**Q: ${question}**`);
+      parts.push(`A: ${answer}`);
+      if (i < list.faq.length - 1) parts.push('');
+    });
   }
 
   return parts.join('\n');

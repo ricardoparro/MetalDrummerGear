@@ -2566,49 +2566,6 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         videoScript.textContent = JSON.stringify(videoObjects);
       }
 
-      // Issue #1083: Emit ItemList (ranked Person) schema for ranked top-10
-      // lists. Skips single-drummer album articles, which already get Person
-      // schema below. Additive to the existing Article schema (both are valid
-      // together) — does NOT remove or dedupe.
-      if (!list.isAlbumArticle && Array.isArray(list.drummerIds) && list.drummerIds.length > 1) {
-        const ranked = list.drummerIds
-          .map(id => drummers.find(d => d.id === id))
-          .filter(Boolean);
-
-        const itemListSchema = {
-          "@context": "https://schema.org",
-          "@type": "ItemList",
-          "name": list.title,
-          "description": list.seoDescription || list.description,
-          "url": `https://metalforge.io/lists/${list.slug}`,
-          "numberOfItems": ranked.length,
-          "itemListOrder": "https://schema.org/ItemListOrderDescending",
-          "itemListElement": ranked.map((drummer, index) => {
-            const r = (list.rankings && list.rankings[drummer.id]) || {};
-            return {
-              "@type": "ListItem",
-              "position": r.rank || index + 1,
-              "item": {
-                "@type": "Person",
-                "name": drummer.name,
-                // numeric URL resolves + self-canonicals to the slug profile (#1015)
-                "url": `https://metalforge.io/drummer/${drummer.id}`,
-                "description": r.highlight || r.reason || undefined,
-              },
-            };
-          }),
-        };
-
-        let listScript = document.querySelector('script[data-schema="top10-itemlist"]');
-        if (!listScript) {
-          listScript = document.createElement('script');
-          listScript.type = 'application/ld+json';
-          listScript.setAttribute('data-schema', 'top10-itemlist');
-          document.head.appendChild(listScript);
-        }
-        listScript.textContent = JSON.stringify(itemListSchema);
-      }
-
       // Issue #1404: HowTo JSON-LD for how-to tutorial articles
       if (list.articleSection === 'HowTo' && Array.isArray(list.howToSteps) && list.howToSteps.length) {
         const howToSchema = {
@@ -2632,30 +2589,6 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           document.head.appendChild(howToScript);
         }
         howToScript.textContent = JSON.stringify(howToSchema);
-      }
-
-      // Add FAQPage schema for list pages with faq data (Issue #1449 album articles; Issue #2344 genre lists)
-      if (Array.isArray(list.faq) && list.faq.length > 0) {
-        const faqPageSchema = {
-          "@context": "https://schema.org",
-          "@type": "FAQPage",
-          "mainEntity": list.faq.map(item => ({
-            "@type": "Question",
-            "name": item.question,
-            "acceptedAnswer": {
-              "@type": "Answer",
-              "text": item.answer
-            }
-          }))
-        };
-        let faqPageScript = document.querySelector('script[data-schema="album-faq"]');
-        if (!faqPageScript) {
-          faqPageScript = document.createElement('script');
-          faqPageScript.type = 'application/ld+json';
-          faqPageScript.setAttribute('data-schema', 'album-faq');
-          document.head.appendChild(faqPageScript);
-        }
-        faqPageScript.textContent = JSON.stringify(faqPageSchema);
       }
 
       // Add Person schema for album articles (Issue #663)
@@ -2709,6 +2642,75 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
         }
         musicAlbumScript.textContent = JSON.stringify(musicAlbumSchema);
       }
+    }
+
+    // Issue #1083: Emit ItemList (ranked Person) schema for ranked top-10
+    // lists. Skips single-drummer album articles, which already get Person
+    // schema above. Runs for every ranked list (article-format or not) so
+    // genre list pages get the same AI Overview / rich-result eligibility.
+    if (!list.isAlbumArticle && Array.isArray(list.drummerIds) && list.drummerIds.length > 1) {
+      const ranked = list.drummerIds
+        .map(id => drummers.find(d => d.id === id))
+        .filter(Boolean);
+
+      const itemListSchema = {
+        "@context": "https://schema.org",
+        "@type": "ItemList",
+        "name": list.title,
+        "description": list.seoDescription || list.description,
+        "url": `https://metalforge.io/lists/${list.slug}`,
+        "numberOfItems": ranked.length,
+        "itemListOrder": "https://schema.org/ItemListOrderDescending",
+        "itemListElement": ranked.map((drummer, index) => {
+          const r = (list.rankings && list.rankings[drummer.id]) || {};
+          return {
+            "@type": "ListItem",
+            "position": r.rank || index + 1,
+            "item": {
+              "@type": "Person",
+              "name": drummer.name,
+              // numeric URL resolves + self-canonicals to the slug profile (#1015)
+              "url": `https://metalforge.io/drummer/${drummer.id}`,
+              "description": r.highlight || r.reason || undefined,
+            },
+          };
+        }),
+      };
+
+      let listScript = document.querySelector('script[data-schema="top10-itemlist"]');
+      if (!listScript) {
+        listScript = document.createElement('script');
+        listScript.type = 'application/ld+json';
+        listScript.setAttribute('data-schema', 'top10-itemlist');
+        document.head.appendChild(listScript);
+      }
+      listScript.textContent = JSON.stringify(itemListSchema);
+    }
+
+    // Add FAQPage schema for list pages with faq data (Issue #1449 album articles;
+    // Issue #2344 genre lists). Runs for every list page with faq data, regardless
+    // of isArticle, so genre list pages get FAQPage rich-result eligibility too.
+    if (Array.isArray(list.faq) && list.faq.length > 0) {
+      const faqPageSchema = {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": list.faq.map(item => ({
+          "@type": "Question",
+          "name": item.question,
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": item.answer
+          }
+        }))
+      };
+      let faqPageScript = document.querySelector('script[data-schema="album-faq"]');
+      if (!faqPageScript) {
+        faqPageScript = document.createElement('script');
+        faqPageScript.type = 'application/ld+json';
+        faqPageScript.setAttribute('data-schema', 'album-faq');
+        document.head.appendChild(faqPageScript);
+      }
+      faqPageScript.textContent = JSON.stringify(faqPageSchema);
     }
 
     // Track GA4 article_view event (Issue #658)

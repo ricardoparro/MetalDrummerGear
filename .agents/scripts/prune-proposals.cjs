@@ -53,10 +53,15 @@ const PROPOSAL_LABEL = 'seo-proposal';
 const PRUNED_LABEL = 'pruned';
 
 // A proposal carrying ANY of these is in flight, protected, or human-owned —
-// never auto-close it regardless of age or cap.
+// never auto-close it regardless of age or cap. This also includes the
+// verifier-umbrella labels (llm-citations, gsc-watch, indexation-watch):
+// those mark single, auto-maintained issues that check-llm-citations.yml /
+// check-gsc-watched-queries.yml / check-indexation.yml open once and edit
+// weekly — never idea-bank content, even if seo-proposal rides along (#3488).
 const PROTECTED_LABELS = new Set([
   'ai-fix', 'in-progress', 'pr-opened', 'hold', 'do-not-merge', 'wip',
   'blocked', 'human', 'needs-human', 'human-founder', 'keep',
+  'llm-citations', 'gsc-watch', 'indexation-watch',
 ]);
 
 // ===========================================================================
@@ -294,6 +299,9 @@ function selfTest() {
   check('human protected', isEligible(mk(4, 99, ['seo-proposal', 'human'])), false);
   check('keep protected', isEligible(mk(5, 99, ['seo-proposal', 'keep'])), false);
   check('non-proposal ignored', isEligible(mk(6, 99, ['bug'])), false);
+  check('llm-citations umbrella protected', isEligible(mk(7, 99, ['seo-proposal', 'llm-citations'])), false);
+  check('gsc-watch umbrella protected', isEligible(mk(8, 99, ['seo-proposal', 'gsc-watch'])), false);
+  check('indexation-watch umbrella protected', isEligible(mk(9, 99, ['seo-proposal', 'indexation-watch'])), false);
 
   // Stale pass: 21d threshold.
   const staleOnly = [mk(10, 30), mk(11, 25), mk(12, 5), mk(13, 1)];
@@ -315,6 +323,14 @@ function selfTest() {
   const cappedNums = r.capped.map((i) => i.number).sort((a, b) => a - b);
   check('cap closes the oldest two (33)', cappedNums[0], 33);
   check('cap closes the oldest two (34)', cappedNums[1], 34);
+
+  // #3488 regression: a verifier-umbrella issue (seo-proposal + llm-citations,
+  // like the real #2211) must survive BOTH the stale pass and the cap pass,
+  // even when it's old and the bank is over cap — not just isEligible().
+  const umbrella = mk(70, 99, ['seo-proposal', 'llm-citations']);
+  r = selectForPrune([umbrella, ...fresh], { cap: 1, staleDays: 21, now });
+  check('umbrella excluded from stale pass', r.stale.some((i) => i.number === 70), false);
+  check('umbrella excluded from cap pass', r.capped.some((i) => i.number === 70), false);
 
   // Combined: stale removes old ones first, THEN cap applies to survivors.
   const mixed = [mk(40, 40), mk(41, 30), mk(42, 5), mk(43, 4), mk(44, 3), mk(45, 2)];

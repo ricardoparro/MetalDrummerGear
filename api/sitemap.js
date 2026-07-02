@@ -374,6 +374,9 @@ const gearPriceHistoryDrummers = [
   'raymond-herrera', // Demanufacture era (1995) — Issue #2445
   'kevin-talley',    // Destroy the Opposition era (2000) — Issue #2445
   'tim-yeung',       // I, Monarch era (2005) — Issue #2445
+  'blake-richardson', // Colors era (2007) — Issue #3213
+  'art-cruz',        // Lamb of God (self-titled) era (2020) — Issue #3213
+  'derek-roddy',     // Fury & Flames era (2008) — Issue #3213
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

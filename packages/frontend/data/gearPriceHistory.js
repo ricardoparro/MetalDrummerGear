@@ -5586,6 +5586,406 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['tim yeung fastest drummer gear', 'hate eternal drummer setup', 'tim yeung drum kit cost', 'i monarch drums', 'tim yeung 2005 setup'],
     },
   },
+
+  // Issue #3213: Gear price history batch 28 (Blake Richardson, Art Cruz, Derek Roddy)
+  'blake-richardson': {
+    slug: 'blake-richardson',
+    name: 'Blake Richardson',
+    band: 'Between the Buried and Me',
+    iconicYear: 2007,
+    era: 'Colors Era',
+    albumReference: 'Between the Buried and Me - Colors (2007)',
+    profileImage: '/images/drummers/blake-richardson.webp',
+
+    summary: "Blake Richardson's 2007 setup behind Between the Buried and Me's Colors documents the recording that made his name in progressive metal — a DW Collector's Series maple kit and Meinl Byzance Extra Dry cymbal array assembled to serve a 65-minute single-arc composition spanning death metal, jazz, ambient textures, and progressive rock. Colors is widely considered the genre's gold standard, and 'Prequel to the Sequel's 7/8 groove remains one of the most-studied drum performances in progressive metal, powered by a DW 9002 double bass pedal deploying kick patterns compositionally rather than as constant underpinning. The complete rig cost approximately $8,650 in 2007 dollars, equivalent to roughly $13,670 in 2026 after CPI adjustment — a serious professional investment reflecting BTBAM's rising profile two years after Alaska's 2005 breakthrough established the same DW/Meinl foundation.\n\nRichardson's gear path since Colors reads as a study in tonal refinement rather than raw upgrade chasing: the DW Collector's Series and Meinl Byzance Extra Dry combination carried through The Great Misdirect (2009) and The Parallax II: Future Sequence (2012) largely unchanged, with the cymbal voice later expanding into a Dark/Extra Dry dual configuration for maximum tonal complexity. His current setup pairs a Pearl Reference Pure kit with that expanded Meinl Byzance Dark/Extra Dry array and the same DW 9002 pedal and Vic Firth American Classic 5B sticks that drove Colors — valued at approximately $8,900, reflecting incremental refinement of a foundation established two decades ago rather than a series of dramatic overhauls.",
+
+    setup: {
+      drums: {
+        item: "DW Collector's Series",
+        model: 'North American Hard Rock Maple shell pack',
+        specs: '22"x18" bass drum, 10"/12"/13" rack toms, 16" floor tom',
+        originalPrice: 4750,
+        year: 2007,
+        source: "DW Collector's Series catalog pricing 2007",
+        notes: "The single 22\"x18\" kick driven by a DW 9002 double pedal gave Richardson the compositional double-bass foundation for 'Prequel to the Sequel's landmark 7/8 groove.",
+        vintageValue2026: 6100,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure (current Richardson kit)',
+          price: 4500,
+          link: 'pearl-reference-pure',
+        },
+      },
+      snare: {
+        item: "DW Collector's Series Maple Snare 14\"x6.5\"",
+        model: 'North American Hard Rock Maple',
+        specs: '14"x6.5" maple shell, medium tension tuning',
+        originalPrice: 550,
+        year: 2007,
+        source: "DW Collector's Series catalog pricing 2007",
+        notes: "Warm, authoritative crack that handled Colors's full range — cutting during metal passages, sensitive enough for the ghost-note-heavy jazz interludes.",
+        vintageValue2026: 700,
+        modernEquivalent: {
+          item: "DW Collector's Series Maple Snare (current)",
+          price: 580,
+          link: 'dw-collectors-maple-snare',
+        },
+      },
+      cymbals: {
+        item: 'Meinl Byzance Extra Dry Series',
+        model: 'Full Extra Dry configuration',
+        specs: '14" Extra Dry Hi-Hats, 17"/18" Extra Dry Thin Crashes, 20" Extra Dry Ride, 18" China',
+        originalPrice: 2750,
+        year: 2007,
+        source: 'Meinl Byzance catalog pricing 2007',
+        notes: "The Extra Dry series' minimal wash kept Richardson's complex metric modulation clearly articulated through Colors's densest arrangements, particularly the 7/8 ride pattern on 'Prequel to the Sequel.'",
+        vintageValue2026: 3450,
+        modernEquivalent: {
+          item: 'Meinl Byzance Dark/Extra Dry dual setup (current)',
+          price: 3250,
+          link: 'meinl-byzance-dark-extra-dry',
+        },
+      },
+      hardware: {
+        item: 'DW 9002 Double Bass Pedal',
+        model: 'Chain-drive double pedal + stands',
+        specs: 'DW 9002 double bass pedal, hi-hat stand, boom stands, throne',
+        originalPrice: 500,
+        year: 2007,
+        source: 'DW hardware catalog pricing 2007',
+        notes: "The 9002's adjustable cam let Richardson vary kick density within the same groove — dense double-bass runs through sparse single-strokes — without changing feel.",
+        vintageValue2026: 620,
+        modernEquivalent: {
+          item: 'DW 9002 Double Bass Pedal (current)',
+          price: 520,
+          link: 'dw-9002-double-bass-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5B',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 7,
+        year: 2007,
+        source: 'Standard retail price',
+        notes: "Richardson's consistent stick choice across the entire BTBAM catalog — enough mass for projection, enough springback for ghost-note sensitivity.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B (current)',
+          price: 9,
+          link: 'vic-firth-american-classic-5b-current',
+        },
+      },
+      heads: {
+        item: 'Remo Powerstroke 3 / Ambassador Coated',
+        model: 'Powerstroke 3 (kick), Ambassador Coated (toms/snare)',
+        specs: 'Remo Powerstroke 3 (kick batter), Remo Ambassador Coated (tom/snare batter)',
+        originalPrice: 93,
+        year: 2007,
+        source: 'Remo professional pricing 2007',
+        notes: "Controlled attack with integrated ring damping on the kick, natural dynamic sensitivity on toms and snare across Colors's full velocity range.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor Coated / Ambassador Coated (current)',
+          price: 105,
+          link: 'remo-emperor-ambassador-coated',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 8650,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 10870,
+      modernEquivalentTotal: 8964,
+    },
+
+    priceEvolution: [
+      { year: 2005, price: 8000, label: 'Alaska Era', event: "Alaska recorded — DW Collector's Series and Meinl Byzance Extra Dry rig established as BTBAM's breakthrough foundation" },
+      { year: 2007, price: 8650, label: 'Original Purchase', event: "Colors recorded — DW Collector's Series/Meinl Byzance Extra Dry rig refined into progressive metal's most-studied performance" },
+      { year: 2009, price: 9200, label: 'Great Misdirect era', event: 'The Great Misdirect carries the DW/Meinl foundation into an even more ambitious concept record' },
+      { year: 2012, price: 9800, label: 'Parallax II era', event: "The Parallax II: Future Sequence — band's most technically demanding release" },
+      { year: 2026, price: 13670, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2007 setup' },
+    ],
+
+    sources: [
+      { title: "DW Collector's Series Catalog", year: 2007, type: 'catalog' },
+      { title: 'Modern Drummer — Blake Richardson Interview', year: 2008, type: 'interview' },
+      { title: 'Meinl Artist Profiles — Blake Richardson', year: 2022, type: 'manufacturer' },
+      { title: "Reverb Price Guide — DW Collector's Series", year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Blake Richardson 2007 Colors Drum Setup Cost | BTBAM Gear Prices",
+      description: "How much did Blake Richardson's 2007 Between the Buried and Me drum kit cost? Original DW/Meinl Colors-era rig ~$8,650, inflation-adjusted to ~$13,670 today. Complete gear breakdown.",
+      keywords: ['blake richardson drum kit cost', 'between the buried and me drummer setup', 'blake richardson gear history', 'colors era drums', 'blake richardson 2007 setup'],
+    },
+  },
+
+  'art-cruz': {
+    slug: 'art-cruz',
+    name: 'Art Cruz',
+    band: 'Lamb of God',
+    iconicYear: 2020,
+    era: 'Lamb of God (Self-Titled) Era',
+    albumReference: 'Lamb of God - Lamb of God (2020)',
+    profileImage: '/images/drummers/art-cruz.webp',
+
+    summary: "Art Cruz's 2020 setup behind Lamb of God's self-titled album documents his arrival as a worthy successor to one of groove metal's most demanding drum seats — a Ludwig Classic Maple kit, full Zildjian A Custom cymbal array, and Trick Pro 1-V Bigfoot direct-drive double pedal assembled to anchor Chris Adler's legacy catalog alongside his own powerful footwork. Lamb of God (2020) was Cruz's first studio album as full-time drummer after filling in on the band's 2018 Slayer farewell support dates, and the warm maple shells gave him a punchy tone suited to the band's down-tuned groove metal attack. The complete rig cost approximately $9,250 in 2020 dollars, equivalent to roughly $11,709 in 2026 after CPI adjustment — a serious professional metal setup built on a decade of touring stamina from Winds of Plague and Prong.\n\nCruz's gear choices reflect a single-kick philosophy distinct from Adler's double-kick configuration: the Trick Pro 1-V Bigfoot's direct-drive action gave him rapid-fire footwork on one bass drum rather than two, a deliberate departure that let him bring his own identity to the seat rather than replicate his predecessor. That Ludwig/Zildjian/Trick combination carried through 2022's Omens largely unchanged, with the setup's brightness against down-tuned 7-string guitars — 14\" A Custom hi-hats, a five-cymbal crash array, and an 18\" China — remaining the defining voice of Lamb of God's post-Adler era.",
+
+    setup: {
+      drums: {
+        item: 'Ludwig Classic Maple',
+        model: 'Maple shell pack',
+        specs: '22"x18" bass drum, 10"/12" rack toms, 14"/16" floor toms',
+        originalPrice: 5000,
+        year: 2020,
+        source: 'Ludwig Classic Maple catalog pricing 2020',
+        notes: "The warm maple shells gave Cruz a punchy, articulate tone suited to Lamb of God's down-tuned groove metal attack on his studio debut with the band.",
+        vintageValue2026: 5750,
+        modernEquivalent: {
+          item: 'Ludwig Classic Maple (current)',
+          price: 5200,
+          link: 'ludwig-classic-maple',
+        },
+      },
+      snare: {
+        item: 'Ludwig 14"x6.5"',
+        model: 'Maple/brass shell',
+        specs: '14"x6.5" maple or brass shell, medium-high tuning',
+        originalPrice: 550,
+        year: 2020,
+        source: 'Ludwig snare catalog pricing 2020',
+        notes: "Medium-high tuning for punch and articulation cutting through Lamb of God's dense 7-string guitar wall.",
+        vintageValue2026: 630,
+        modernEquivalent: {
+          item: 'Ludwig Classic Maple snare (current)',
+          price: 580,
+          link: 'ludwig-classic-maple-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Custom Series',
+        model: 'Full A Custom configuration',
+        specs: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China, 10" splash',
+        originalPrice: 2900,
+        year: 2020,
+        source: 'Zildjian A Custom catalog pricing 2020',
+        notes: 'A bright, cutting cymbal setup chosen for brightness against down-tuned 7-string guitars.',
+        vintageValue2026: 3300,
+        modernEquivalent: {
+          item: 'Zildjian A Custom Series (current)',
+          price: 3000,
+          link: 'zildjian-a-custom-series-cymbals',
+        },
+      },
+      hardware: {
+        item: 'Trick Pro 1-V Bigfoot Double Pedal',
+        model: 'Direct-drive double pedal + Gibraltar stands',
+        specs: 'Trick Pro 1-V Bigfoot double pedal (single kick), Gibraltar 9707ML-DP hi-hat stand, Gibraltar 9709 Series stands, Roc-N-Soc Nitro Original throne',
+        originalPrice: 700,
+        year: 2020,
+        source: 'Trick Percussion / Gibraltar hardware catalog pricing 2020',
+        notes: "A direct-drive single-kick setup, unlike predecessor Chris Adler's double-kick configuration — driving Cruz's own powerful footwork through the band's legacy catalog.",
+        vintageValue2026: 800,
+        modernEquivalent: {
+          item: 'Trick Pro 1-V Bigfoot Double Pedal (current)',
+          price: 750,
+          link: 'trick-pro-1-v-bigfoot-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B',
+        model: '5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 2020,
+        source: 'Standard retail price',
+        notes: "Cruz's standard stick choice, unchanged from his Winds of Plague and Prong years.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth 5B / Power 5B (current)',
+          price: 10,
+          link: 'vic-firth-5b-current',
+        },
+      },
+      heads: {
+        item: 'Evans G2 Coated / EMAD2',
+        model: 'G2 Coated (toms), EMAD2 (kick)',
+        specs: 'Evans G2 Coated (tom batter), Evans EMAD2 (kick batter), Evans EQ3 (kick resonant)',
+        originalPrice: 92,
+        year: 2020,
+        source: 'Evans professional pricing 2020',
+        notes: "Controlled, punchy low end for Lamb of God's dense studio production.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans G2 / EMAD2 (current)',
+          price: 105,
+          link: 'evans-g2-emad2',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 9250,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 10480,
+      modernEquivalentTotal: 9645,
+    },
+
+    priceEvolution: [
+      { year: 2008, price: 2200, label: 'Winds of Plague / Prong Era', event: 'Joins Winds of Plague — builds touring stamina and double-bass endurance' },
+      { year: 2018, price: 3500, label: 'Lamb of God Fill-In Era', event: "Fills in for Chris Adler on Lamb of God's 2018 Slayer farewell support dates; Zildjian and Trick endorsements established" },
+      { year: 2020, price: 9250, label: 'Original Purchase', event: 'Lamb of God (2020) self-titled album — first studio album as full-time drummer' },
+      { year: 2022, price: 9700, label: 'Omens era', event: 'Omens cements his sound within the band' },
+      { year: 2026, price: 11709, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2020 setup' },
+    ],
+
+    sources: [
+      { title: 'Ludwig Classic Maple Catalog', year: 2020, type: 'catalog' },
+      { title: 'Modern Drummer — Art Cruz Interview', year: 2020, type: 'interview' },
+      { title: 'Zildjian Artist Profiles — Art Cruz', year: 2021, type: 'manufacturer' },
+      { title: 'Reverb Price Guide — Ludwig Classic Maple', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Art Cruz 2020 Lamb of God Drum Setup Cost | Self-Titled Era Gear Prices",
+      description: "How much did Art Cruz's 2020 Lamb of God drum kit cost? Original Ludwig/Zildjian/Trick self-titled album rig ~$9,250, inflation-adjusted to ~$11,709 today. Complete gear breakdown.",
+      keywords: ['art cruz drum kit cost', 'lamb of god drummer setup', 'art cruz gear history', 'lamb of god 2020 drums', 'art cruz 2020 setup'],
+    },
+  },
+
+  'derek-roddy': {
+    slug: 'derek-roddy',
+    name: 'Derek Roddy',
+    band: 'Hate Eternal',
+    iconicYear: 2002,
+    era: 'King of All Kings Era',
+    albumReference: 'Hate Eternal - King of All Kings (2002)',
+    profileImage: '/images/drummers/derek-roddy.webp',
+
+    summary: "Derek Roddy's 2002 setup behind Hate Eternal's King of All Kings documents death metal's foremost gravity blast technician at his most extreme — a Tama Starclassic Maple kit, Paiste 2002/Rude cymbals, and a Tama Speed Cobra double bass pedal assembled under Erik Rutan's direction to sustain 220-280 BPM blast beats with rudiment-derived precision. King of All Kings is widely regarded as one of death metal's most technically extreme recordings, and Roddy's 100%-maple Starclassic shells were chosen specifically for their fast attack and controlled decay — properties that preserve individual stroke definition even as tempo blurs lesser kits into an undifferentiated wash. The complete rig cost approximately $7,100 in 2002 dollars, equivalent to roughly $12,929 in 2026 after CPI adjustment — a professional-tier extreme metal setup built around gear that served technique rather than raw power.\n\nRoddy's gear history since King of All Kings tracks his transition from performer to performer-educator: 2007's 'The Evolution of Blast Beats' Hudson Music DVD became a foundational resource for extreme metal drummers worldwide, and his subsequent move to a DW Collector's Series kit with a Sabian HHX/AAX hybrid cymbal setup and Axis A Longboard double pedal reflects gear chosen for direct-drive consistency at the tempos his educational work demands. That current setup — valued at approximately $8,000-plus — still prioritizes the same principle that defined his 2002 rig: mechanical consistency and fast decay in service of technique, not muscle.",
+
+    setup: {
+      drums: {
+        item: 'Tama Starclassic Maple',
+        model: '100% maple shell pack',
+        specs: '22"x18" bass drum (x2, double bass), 10"/12" rack toms, 16"/18" floor toms',
+        originalPrice: 4200,
+        year: 2002,
+        source: 'Tama Starclassic Maple catalog pricing 2002',
+        notes: "100% maple shells for fast attack and precise articulation at extreme BPM — shell decay time becomes a technical parameter at gravity blast tempos, and maple's faster decay preserved individual stroke definition where slower shells would blur.",
+        vintageValue2026: 5600,
+        modernEquivalent: {
+          item: "DW Collector's Series Maple (current Roddy kit)",
+          price: 4500,
+          link: 'dw-collectors-maple',
+        },
+      },
+      snare: {
+        item: 'Tama Starclassic Maple Snare 14"x6.5"',
+        model: 'Maple shell',
+        specs: '14"x6.5" maple shell, medium-bright tuning',
+        originalPrice: 450,
+        year: 2002,
+        source: 'Tama Starclassic catalog pricing 2002',
+        notes: "Fast response and controlled decay for immediate activation between blast-tempo strokes, tuned bright to cut through Hate Eternal's dense, down-tuned guitar wall.",
+        vintageValue2026: 600,
+        modernEquivalent: {
+          item: "DW Collector's Series Maple/Brass Snare (current)",
+          price: 550,
+          link: 'dw-collectors-maple-brass-snare',
+        },
+      },
+      cymbals: {
+        item: 'Paiste 2002 / Rude Series',
+        model: 'Full Paiste configuration',
+        specs: '14" Hi-Hats, 16"/18" Crashes, 20" Ride, 18" China',
+        originalPrice: 1800,
+        year: 2002,
+        source: 'Paiste catalog pricing 2002',
+        notes: "Fast-attacking, controlled-decay B8/B20 bronze cymbals — the hi-hats' short decay preserves the gravity blast pattern's rhythmic pulse at 250+ BPM without blurring.",
+        vintageValue2026: 2400,
+        modernEquivalent: {
+          item: 'Sabian HHX/AAX hybrid setup (current)',
+          price: 2000,
+          link: 'sabian-hhx-aax-hybrid',
+        },
+      },
+      hardware: {
+        item: 'Tama Speed Cobra Double Bass Pedal',
+        model: 'Cam-driven double pedal + stands',
+        specs: 'Tama Speed Cobra double bass pedal, hi-hat stand, boom stands, throne',
+        originalPrice: 550,
+        year: 2002,
+        source: 'Tama hardware catalog pricing 2002',
+        notes: "Spring tension and cam geometry optimized for the relaxed, rebound-efficient double-bass technique Roddy uses to sustain 220-280 BPM without tension-based fatigue.",
+        vintageValue2026: 720,
+        modernEquivalent: {
+          item: 'Axis A Longboard Double Pedal (current)',
+          price: 750,
+          link: 'axis-a-longboard-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vater custom specification',
+        model: 'Vater custom spec',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 2002,
+        source: 'Standard retail price',
+        notes: 'Weight and balance spec supporting hi-hat articulation consistency during gravity blast passages.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vater 5B (current)',
+          price: 12,
+          link: 'vater-5b',
+        },
+      },
+      heads: {
+        item: 'Remo Powerstroke 3 / Ambassador Coated',
+        model: 'Powerstroke 3 (kick), Ambassador Coated (toms/snare)',
+        specs: 'Remo Powerstroke 3 Clear (kick batter), Remo Ambassador Coated (tom/snare batter)',
+        originalPrice: 92,
+        year: 2002,
+        source: 'Remo professional pricing 2002',
+        notes: "Powerstroke 3 provides the focused attack zone Roddy's double bass patterns require at high tempos, without the extended sustain that would blur fast strokes.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans/Remo pro-level heads (current)',
+          price: 180,
+          link: 'evans-remo-pro-heads',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 7100,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 9320,
+      modernEquivalentTotal: 7992,
+    },
+
+    priceEvolution: [
+      { year: 1994, price: 5000, label: 'Early Career / Underground Era', event: 'Builds technical foundation in the death metal underground; develops the gravity blast technique from marching percussion rudiments' },
+      { year: 2002, price: 7100, label: 'Original Purchase', event: "King of All Kings recorded — Tama Starclassic Maple/Paiste rig captures one of death metal's most extreme performances" },
+      { year: 2007, price: 8500, label: 'Evolution of Blast Beats era', event: "Releases 'The Evolution of Blast Beats' instructional DVD, becoming a foundational extreme-metal drumming resource" },
+      { year: 2015, price: 9500, label: 'DW / Educational Era', event: 'Switches to DW Collector\'s Series and Sabian HHX/AAX; expands worldwide drum clinic circuit' },
+      { year: 2026, price: 12929, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2002 setup' },
+    ],
+
+    sources: [
+      { title: 'Tama Starclassic Maple Catalog', year: 2002, type: 'catalog' },
+      { title: 'Hudson Music — The Evolution of Blast Beats DVD', year: 2007, type: 'interview' },
+      { title: 'DW Drums Artist Profile — Derek Roddy', year: 2015, type: 'manufacturer' },
+      { title: 'Reverb Price Guide — Vintage Tama Starclassic Maple', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Derek Roddy 2002 Hate Eternal Drum Setup Cost | King of All Kings Era Gear Prices",
+      description: "How much did Derek Roddy's 2002 Hate Eternal drum kit cost? Original Tama/Paiste King of All Kings-era rig ~$7,100, inflation-adjusted to ~$12,929 today. Complete gravity blast-era gear breakdown.",
+      keywords: ['derek roddy drum kit cost', 'hate eternal drummer setup', 'derek roddy gear history', 'king of all kings drums', 'derek roddy 2002 setup', 'gravity blast technique gear'],
+    },
+  },
 };
 
 // ==========================================

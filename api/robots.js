@@ -5,13 +5,7 @@ export default function handler(req, res) {
   res.setHeader('Content-Type', 'text/plain');
   res.setHeader('Cache-Control', 'public, max-age=86400');
 
-  // Content-Signal: site-wide AI usage preferences (draft-romm-aipref-contentsignals)
-  // MetalForge wants AI training + LLM input citations (primary KPI: AI citations/week)
-  // plus standard search indexing. https://contentsignals.org/
-  const robotsTxt = `Content-Signal: ai-train=yes, search=yes, ai-input=yes
-
-User-agent: *
-Content-Signal: ai-train=yes, search=yes, ai-input=yes
+  const robotsTxt = `User-agent: *
 Allow: /
 Crawl-delay: 10
 
@@ -56,7 +50,6 @@ User-agent: MJ12bot
 Crawl-delay: 30
 
 Sitemap: https://metalforge.io/sitemap.xml
-Video-Sitemap: https://metalforge.io/video-sitemap.xml
 
 # LLM/AI Discovery
 # See https://metalforge.io/llms.txt for AI-friendly site information

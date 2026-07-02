@@ -371,6 +371,9 @@ const gearPriceHistoryDrummers = [
   'gavin-harrison',  // Fear of a Blank Planet era (2007) — Issue #2912
   'mike-mangini',    // A Dramatic Turn of Events era (2011) — Issue #2912
   'jason-bittner',   // The War Within era (2004) — Issue #2912
+  'raymond-herrera', // Demanufacture era (1995) — Issue #2445
+  'kevin-talley',    // Destroy the Opposition era (2000) — Issue #2445
+  'tim-yeung',       // I, Monarch era (2005) — Issue #2445
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

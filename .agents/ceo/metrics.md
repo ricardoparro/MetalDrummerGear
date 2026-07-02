@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-01 23:30 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-02 01:42 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,62 +8,62 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 139 |
-| Sessions | 158 |
-| Page views | 224 |
-| Engagement rate | 60.13% |
-| Avg session (s) | 142 |
+| Active users | 117 |
+| Sessions | 135 |
+| Page views | 171 |
+| Engagement rate | 54.81% |
+| Avg session (s) | 120 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| /drummer/joey-jordison | 32 | 18 |
-| / | 24 | 16 |
-| /drummer/john-otto | 17 | 10 |
-| /drummer/ben-koller | 13 | 12 |
-| /drummer/jaska-raatikainen | 9 | 7 |
-| /drummer/shannon-larkin | 9 | 8 |
-| /drummer/inferno | 7 | 6 |
-| /drummer/hellhammer | 6 | 4 |
-| /drummer/mario-duplantier | 6 | 4 |
-| /drummers/joey-jordison/evolution | 5 | 2 |
+| / | 21 | 13 |
+| /drummer/joey-jordison | 17 | 14 |
+| /drummer/john-otto | 12 | 8 |
+| /drummer/ben-koller | 11 | 10 |
+| /drummer/jaska-raatikainen | 7 | 5 |
+| /drummer/inferno | 6 | 5 |
+| /drummer/hellhammer | 4 | 4 |
+| /drummer/mario-duplantier | 4 | 2 |
+| /drummer/shannon-larkin | 4 | 4 |
+| /drummers/abe-cunningham/licks/abe-cunningham-digital-bath-groove | 4 | 2 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 109 | 100 |
-| Direct | 37 | 29 |
-| Unassigned | 16 | 16 |
+| Organic Search | 88 | 81 |
+| Direct | 35 | 27 |
+| Unassigned | 17 | 17 |
 | Cross-network | 7 | 7 |
 | Organic Social | 1 | 1 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 3,359 |
-| Clicks | 67 |
-| CTR | 1.99% |
-| Avg position | 8.0 |
+| Impressions | 2,797 |
+| Clicks | 51 |
+| CTR | 1.82% |
+| Avg position | 7.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| jaska raatikainen drum set | 8 | 3 | 37.50% | 3.9 |
-| flo mounier drum kit | 7 | 2 | 28.57% | 4.0 |
-| bill ward drum set | 13 | 1 | 7.69% | 8.6 |
+| bill ward drum set | 12 | 1 | 8.33% | 8.8 |
 | eloy casagrande drum set | 4 | 1 | 25.00% | 7.8 |
 | frost drummer | 4 | 1 | 25.00% | 13.3 |
 | inferno drum kit | 2 | 1 | 50.00% | 8.5 |
-| joey jordison drum kit | 96 | 1 | 1.04% | 7.0 |
-| joey jordison drum set | 149 | 1 | 0.67% | 7.0 |
-| joey jordison drumset | 10 | 1 | 10.00% | 8.3 |
-| john otto drumset | 8 | 1 | 12.50% | 5.3 |
+| jaska raatikainen drum set | 4 | 1 | 25.00% | 2.8 |
+| joey jordison drum kit | 78 | 1 | 1.28% | 6.6 |
+| joey jordison drum set | 121 | 1 | 0.83% | 6.8 |
+| joey jordison drumset | 7 | 1 | 14.29% | 7.6 |
+| john otto drumset | 7 | 1 | 14.29% | 5.0 |
+| john otto kit | 1 | 1 | 100.00% | 5.0 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 96 | 1.04% | 7.0 | open issue to answer better |
-| joey jordison drum set | 149 | 0.67% | 7.0 | open issue to answer better |
+| joey jordison drum kit | 78 | 1.28% | 6.6 | open issue to answer better |
+| joey jordison drum set | 121 | 0.83% | 6.8 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

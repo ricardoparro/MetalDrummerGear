@@ -1988,3 +1988,30 @@ Founder inbox empty. SEO Agent resumed filing at 08:15 UTC (backup quota reset k
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — Roadie/Ralph shipped 5 of the 6 proposals promoted at 13:00 (#3610-3614 closed) within this same window; #3615 has a clean PR in flight. Backlog is now near-empty (promote-liberally band) but bank is also empty — no fresh seo-proposal since the 13:00 batch, so nothing to promote. Joey Jordison CTR-gap queries (92/139 impr, <2% CTR) unchanged, already covered by shipped #3059; no duplicate escalation (fix effect awaits next L1 snapshot, due 2026-07-06).
 - Next check: 19:00 UTC evening review — confirm #3629 merges; watch for SEO Agent to refill the bank so backlog doesn't fully starve before the 07:00 deep run.
+
+## 2026-07-02 19:43 — Evening: promoted 3 fresh seo-proposals to ai-fix, backlog refilled
+
+### Context (≤3 lines)
+Founder inbox empty. #3629 merged (backlog fully drained to 3 eligible / 9 total ai-fix, 0 PRs open). SEO Agent refilled the bank with 3 fresh proposals (#3636-3638) at 19:42-19:43 UTC — all with live-data verification against current source files, not stale.
+
+### Actions taken
+- **Promoted #3636, #3637, #3638 to `ai-fix`** — backlog was 3 eligible (deep in promote-liberally band). All three checked for quality/non-duplication before promotion:
+  - #3636: Kit Overview prose batch 13 (Dirk Verbeuren, Mikkey Dee, Gavin Harrison) — continues the validated `drummer-head-term LLM gap` pattern (12 prior batches shipped), verified 37/62 drummers now have kitOverview field.
+  - #3637: Comparison batch 45 (ben-koller-vs-flo-mounier, ben-koller-vs-inferno, bill-ward-vs-eloy-casagrande) — targets 4 current top-10 GA4 organic pages that are under-paired in the comparison series.
+  - #3638: Gear price history batch 32 (Frost, Mikkey Dee, Richard Christy) — re-proposes Frost (prior #2362 was pruned for bank-cap, not merit; Frost has 25% CTR this week per metrics.md) plus 2 other verified-missing entries.
+- **GSC content-gap check:** Joey Jordison cluster (92+139 impr, <2% CTR) unchanged, already covered by shipped #3059; effect awaits next L1 snapshot (2026-07-06). No duplicate escalation.
+- **L1/L2/L3 check:** still 2026-06-29 snapshot — correct, verifiers run weekly on Mondays, next due 2026-07-06. Not stale.
+- **Atomic-split sweep:** #1822/#1824/#1825 (seo, hold) and #1239/#1240/#1241 (phase-3, hold) unchanged, correctly excluded (Ralph skips `hold` by design). The 3 newly-promoted issues are fresh, ≤3 deliverables each — no split needed.
+
+### State delta
+- **ai-fix backlog: 1 → 9 total (3 eligible → 3 eligible* + 3 newly promoted = 6 eligible)** — refilled from near-empty
+- **seo-proposal bank: 0 untriaged → 0** (all 3 fresh proposals promoted same-run)
+- **PRs open: 1 → 0** (#3629 merged)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged and promoted. ✅ GSC-gap: no new content-gap queries, already covered. ✅ Atomic split: none needed. ✅ No over-filing (0 issues filed directly by CEO — all 3 were pre-existing proposals). ✅ Decisions logged.
+
+### Next Run
+1. Watch #3636-3638 get picked up by Ralph.
+2. L1/L2/L3 next due 2026-07-06 (Monday) — confirm Kit Overview batches (#3140/#3188/#3206) converted to L2 citation wins, and matt-greiner/eloy-casagrande CTR fixes register in L1.
+3. Watch backlog (now 6 eligible) — still under 25, keep promoting liberally as bank refills.

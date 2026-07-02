@@ -2087,6 +2087,220 @@ What distinguishes the best classic heavy metal drummers is the combination of f
     ],
     relatedLists: ['speed-metal-drummers', 'best-metal-drummers-of-all-time', '80s-metal-drummers'],
   },
+
+  // Issue #2732: SEO batch 16 — power metal, industrial metal, glam metal list pages
+  'power-metal-drummers': {
+    slug: 'power-metal-drummers',
+    title: 'Top 10 Power Metal Drummers',
+    emoji: '🐉',
+    description: 'The fastest, most precise drummers behind metal\'s most triumphant, double-bass-driven subgenre. Power metal prizes soaring melody, galloping tempos, and technical double bass stamina over sheer brutality — a lineage running from Judas Priest\'s "Painkiller" and Iron Maiden\'s NWOBHM gallop through HammerFall, DragonForce, Blind Guardian, and Helloween. Several of the genre\'s most iconic specialists — DragonForce\'s Dave Mackintosh, HammerFall\'s Anders Johansson/David Wallin, Helloween\'s Dani Löble, and Blind Guardian\'s Frederik Ehmke — do not yet have dedicated profiles in MetalForge\'s database, so this ranking centers on Aquiles Priester, a genuine power metal specialist through Angra and W.A.S.P., alongside the closest working analogues: the speed metal, NWOBHM, and progressive metal drummers whose technical precision and galloping double bass most directly parallel power metal\'s core demands.',
+    seoDescription: 'The best power metal drummers, ranked. Aquiles Priester, Jaska Raatikainen, Scott Travis, Nicko McBrain, Mikkey Dee and more — the definitive ranking of power metal\'s fastest, most technical percussionists.',
+    drummerIds: [50, 55, 42, 41, 43, 13, 52, 3, 11, 45],
+    isArticle: true,
+    rankings: {
+      50: {
+        rank: 1,
+        highlight: 'Angra and W.A.S.P.\'s blistering power metal specialist',
+        reason: 'Aquiles Priester is the one drummer in MetalForge\'s database whose career is genuinely built inside power metal — powering Brazilian progressive power metal titans Angra since 2000 and joining Sunset Strip legends W.A.S.P. in 2014. His blazing double bass stamina, complex fills, and showmanship have made him one of the most celebrated power metal drummers on the planet, and the most direct answer to "who is the best power metal drummer" that MetalForge currently profiles.',
+        showcaseVideo: { youtubeId: 'QePPGzx2N1s', title: 'Aquiles Priester - I Wanna Be Somebody (Drum Playthrough)' },
+      },
+      55: {
+        rank: 2,
+        highlight: 'Children of Bodom\'s melodic death/power metal crossover',
+        reason: 'Jaska Raatikainen\'s two-plus decades with Children of Bodom blended melodic death metal aggression with the soaring keyboard-and-guitar melodicism that power metal fans immediately recognize — his genre tag straddles both worlds, and his technical, high-tempo double bass work places him among power metal\'s closest melodic death metal cousins.',
+      },
+      42: {
+        rank: 3,
+        highlight: 'Judas Priest\'s "Painkiller" — a foundational power/speed metal text',
+        reason: 'Scott Travis joined Judas Priest in 1989 and immediately recorded "Painkiller" (1990), an album routinely cited by power metal bands worldwide — including HammerFall, whose name itself derives from the Painkiller-era Priest aesthetic — as a founding influence. His speed, precision, and double bass intensity on that record helped define the technical ceiling power metal drummers still chase today.',
+      },
+      41: {
+        rank: 4,
+        highlight: 'Iron Maiden\'s NWOBHM godfather influence',
+        reason: 'Nicko McBrain has powered Iron Maiden\'s galloping triplet rhythms since 1982, and Maiden\'s NWOBHM template — soaring melody, triumphant riffing, and galloping tempos over a single bass drum — is universally cited as power metal\'s single most direct musical ancestor. Nearly every band on this list\'s honorable-mentions roster (HammerFall, Blind Guardian, Helloween) names Maiden as a founding influence.',
+      },
+      43: {
+        rank: 5,
+        highlight: 'King Diamond\'s theatrical power metal precursor',
+        reason: 'Before Motörhead, Mikkey Dee spent the mid-1980s powering King Diamond\'s theatrical, technically ambitious heavy metal — a direct precursor to power metal\'s fusion of technical drumming with fantastical, larger-than-life songwriting. His relentless stamina and hard-hitting precision carried directly into his later speed-metal work.',
+      },
+      13: {
+        rank: 6,
+        highlight: 'Dream Theater\'s progressive power metal fusion',
+        reason: 'Mike Portnoy co-founded Dream Theater in 1985 and built a catalogue that regularly gets classified as "progressive power metal" — pairing power metal\'s technical, galloping double bass demands with progressive metal\'s compositional complexity, a hybrid that has directly influenced modern power metal acts pursuing greater technical ambition.',
+      },
+      52: {
+        rank: 7,
+        highlight: 'Dream Theater\'s continued technical power metal precision',
+        reason: 'Mike Mangini has driven Dream Theater\'s technically demanding, dynamically dramatic progressive metal since 2010, sustaining the same power-metal-adjacent fusion of galloping speed and compositional ambition that made his predecessor a genre touchstone.',
+      },
+      3: {
+        rank: 8,
+        highlight: 'The Atomic Clock\'s technical speed metal precision',
+        reason: 'Gene Hoglan\'s metronomic, high-tempo precision across Dark Angel, Death, and Testament established a technical ceiling for extreme metal drumming that closely parallels the stamina and control power metal drummers must sustain across triumphant, galloping arrangements at 160-200+ BPM.',
+      },
+      11: {
+        rank: 9,
+        highlight: 'Pantera\'s literal "Power Metal" era',
+        reason: 'Vinnie Paul\'s pre-groove-metal Pantera catalogue includes the band\'s explicitly titled 1988 album "Power Metal" — a glam-tinged, technically ambitious heavy metal record from before Pantera\'s Cowboys From Hell reinvention, a direct historical curiosity linking Pantera\'s drummer to the genre name itself.',
+      },
+      45: {
+        rank: 10,
+        highlight: 'European technical metal precision',
+        reason: 'Dirk Verbeuren\'s Belgian roots and two decades with Swedish melodic death metal band Soilwork place him within the same European technical metal scene that produced power metal strongholds like Germany\'s Helloween and Sweden\'s HammerFall, and his precise, high-tempo double bass work shares power metal\'s demand for sustained technical control.',
+      },
+    },
+    faq: [
+      { question: 'Who is the best power metal drummer?', answer: 'Aquiles Priester is the most direct answer among drummers with dedicated MetalForge profiles — his two-decade run with Brazilian power metal titans Angra, plus his 2014-2021 tenure in W.A.S.P., makes him the one genuine power metal specialist in the database. Outside MetalForge\'s current roster, DragonForce\'s Dave Mackintosh, HammerFall\'s Anders Johansson, and Blind Guardian\'s Frederik Ehmke are the genre\'s most frequently cited technical standouts.' },
+      { question: 'What makes power metal drumming unique?', answer: 'Power metal drumming prioritizes sustained, galloping double bass patterns (typically 160-220 BPM) in service of soaring, triumphant melody rather than raw brutality or blast-beat extremity. Where thrash and death metal drumming push aggression and technicality as ends in themselves, power metal drumming serves uplifting, fantasy-themed songwriting — precision and stamina in service of a triumphant, almost symphonic emotional payoff.' },
+      { question: 'What bands define power metal?', answer: 'Judas Priest\'s "Painkiller" (1990) and Iron Maiden\'s NWOBHM catalogue are universally cited as power metal\'s founding musical influences. Helloween\'s "Keeper of the Seven Keys" albums (1987-1988) codified the genre\'s German "speed metal" wing, while HammerFall\'s 1997 debut "Glory to the Brave" launched the genre\'s late-90s commercial resurgence. Blind Guardian, DragonForce, and Angra represent the genre\'s narrative-driven European and South American strongholds respectively.' },
+      { question: 'What gear do power metal drummers use?', answer: 'Aquiles Priester\'s Pearl Reference kit and Sabian HHX/AAX cymbals, powered by a Pearl Demon Drive double pedal, deliver the sustained speed his Angra and W.A.S.P. work demands. Scott Travis\'s ddrum kit and Paiste RUDE cymbals power Judas Priest\'s "Painkiller"-era intensity. Across the genre, lightweight double pedals and bright, cutting cymbals built for sustained high-tempo playing are the shared priority, favoring stamina and articulation over raw low-end weight.' },
+      { question: 'Why isn\'t DragonForce\'s Dave Mackintosh on this list?', answer: 'Dave Mackintosh, along with HammerFall\'s rhythm section, Helloween\'s Dani Löble, and Blind Guardian\'s Frederik Ehmke, does not currently have a dedicated drummer profile in MetalForge\'s database. This ranking draws instead on the closest working analogues MetalForge currently profiles — drummers whose technical precision, galloping double bass work, or direct historical lineage most closely parallel power metal\'s core demands.' },
+    ],
+    relatedLists: ['speed-metal-drummers', 'traditional-heavy-metal-drummers', 'progressive-metal-drummers'],
+  },
+
+  'industrial-metal-drummers': {
+    slug: 'industrial-metal-drummers',
+    title: 'Top 10 Industrial Metal Drummers',
+    emoji: '⚙️',
+    description: 'The mechanically precise, electronic-infused drummers behind metal\'s coldest, most machine-like subgenre. Industrial metal fuses metal\'s aggression with electronic textures, programmed rhythms, and robotic precision — a lineage running from Ministry and Nine Inch Nails through Rammstein and Fear Factory\'s genre-defining "stop-go" double bass technique. Rammstein\'s Christoph Schneider and the various Nine Inch Nails and Ministry drummers do not currently have dedicated profiles in MetalForge\'s database, so this ranking is led by Raymond Herrera — Fear Factory\'s founding drummer and the genre\'s single most influential technical innovator — alongside the closest working analogues: drummers whose mechanical precision, programmed-drum experimentation, or direct industrial side projects most closely parallel the genre\'s machine-like ethos.',
+    seoDescription: 'The best industrial metal drummers, ranked. Raymond Herrera, Igor Cavalera, Tomas Haake, Joey Jordison and more — the definitive ranking of industrial metal\'s most mechanically precise, electronic-infused percussionists.',
+    drummerIds: [27, 29, 5, 24, 53, 18, 2, 8, 48, 9],
+    isArticle: true,
+    rankings: {
+      27: {
+        rank: 1,
+        highlight: 'Fear Factory\'s genre-defining "stop-go" technique',
+        reason: 'Raymond Herrera co-founded Fear Factory in 1989 and invented the "stop-go" double bass technique — rapid bursts of machine-gun double bass separated by dead-stop silence — that became industrial metal\'s single most influential and imitated drumming signature. His work on "Demanufacture" (1995) remains the technical and conceptual template every industrial metal drummer since has measured against.',
+        showcaseVideo: { youtubeId: '3OwfqJNoRNU', title: 'Raymond Herrera - Zero Signal Drum Performance' },
+      },
+      29: {
+        rank: 2,
+        highlight: 'Nailbomb — Cavalera\'s direct industrial metal project',
+        reason: 'Beyond his tribal-groove reinvention of Sepultura, Igor Cavalera co-founded Nailbomb with Alex Newport in 1994, an explicitly industrial metal project blending sampled loops, programmed elements, and mechanical aggression — a direct, hands-on industrial metal credential that few drummers on this list can match.',
+      },
+      5: {
+        rank: 3,
+        highlight: 'Meshuggah\'s robotic, metronomic precision',
+        reason: 'Tomas Haake\'s polymetric, metronomically precise drumming with Meshuggah is routinely described in machine and robotic terms, and later Meshuggah recordings incorporated programmed and triggered elements alongside live playing — a mechanical, textural precision that shares industrial metal\'s core sonic obsession even outside the genre\'s strict boundaries.',
+      },
+      24: {
+        rank: 4,
+        highlight: 'Electronic-metal hybrid pioneer',
+        reason: 'Navene Koperweis\'s work with Entheos and Animals as Leaders fuses extreme technical proficiency with explicit electronic production elements — he is also a producer in his own right — bringing a digital, machine-processed sensibility to modern progressive metal that closely parallels industrial metal\'s electronic-and-metal fusion.',
+      },
+      53: {
+        rank: 5,
+        highlight: 'Animals as Leaders\' instrumental electronic precision',
+        reason: 'Matt Garstka\'s jazz fusion-informed, polyrhythmic playing across Animals as Leaders\' entirely instrumental catalogue sits alongside heavily produced, electronically augmented arrangements — a modern progressive metal approach that shares industrial metal\'s comfort blending live drumming with processed, machine-like textures.',
+      },
+      18: {
+        rank: 6,
+        highlight: 'Periphery\'s ambient-electronic djent textures',
+        reason: 'Matt Halpern\'s polyrhythmic complexity and electronic production elements with Periphery bring a texture-conscious, digitally-augmented sensibility to progressive metal songwriting — a modern crossover point between djent and industrial metal\'s electronic-adjacent machine aesthetics.',
+      },
+      2: {
+        rank: 7,
+        highlight: 'Slipknot\'s industrial-tinged aggression',
+        reason: 'Joey Jordison\'s work with Slipknot incorporated sampling, additional percussion, and a mechanized intensity that drew comparisons to industrial metal throughout the band\'s "Iowa" era, and his post-Slipknot project Scar the Martyr pushed even further into overtly industrial, electronic-tinged territory.',
+      },
+      8: {
+        rank: 8,
+        highlight: 'Korn\'s industrial-adjacent nu-metal',
+        reason: 'Ray Luzier\'s work with Korn since 2007 carries forward a band whose downtuned, atmospheric nu-metal has long incorporated industrial-adjacent electronic textures and producer-driven soundscapes, a lineage stretching back to Korn\'s earliest, most experimental studio work.',
+      },
+      48: {
+        rank: 9,
+        highlight: 'Deftones\' atmospheric electronic textures',
+        reason: 'Abe Cunningham\'s drumming across Deftones\' catalogue, especially "White Pony" (2000), incorporates shoegaze and electronic atmosphere alongside alternative metal aggression, sharing industrial metal\'s taste for processed, textural soundscapes layered beneath heavy guitar work.',
+      },
+      9: {
+        rank: 10,
+        highlight: 'Limp Bizkit\'s mechanized rap-metal groove',
+        reason: 'John Otto\'s hip-hop-influenced drumming with Limp Bizkit, paired with DJ Lethal\'s turntable scratching and sampling, brought a mechanized, electronically-augmented texture into late-90s rap-metal — the most commercially mainstream expression of metal-meets-machine aesthetics industrial metal helped popularize.',
+      },
+    },
+    faq: [
+      { question: 'Who is the best industrial metal drummer?', answer: 'Raymond Herrera is the definitive answer — his "stop-go" double bass technique with Fear Factory, most famously on "Demanufacture" (1995), invented a drumming vocabulary now considered industrial metal\'s core technical signature. Outside MetalForge\'s current roster, Rammstein\'s Christoph Schneider and Nine Inch Nails\' rotating cast of drummers (including Josh Freese and Jerome Dillon) are the genre\'s other most frequently cited names.' },
+      { question: 'What makes industrial metal drumming unique?', answer: 'Industrial metal drumming fuses live playing with electronic and programmed elements, prioritizing mechanical, machine-like precision over organic groove or swing. Raymond Herrera\'s "stop-go" technique — rapid double bass bursts separated by total silence — exemplifies this: it mimics the on/off binary logic of a machine rather than a human drummer\'s natural rhythmic flow. Triggered bass drums, click-track discipline, and tight synchronization with programmed samples are genre hallmarks.' },
+      { question: 'What bands define industrial metal?', answer: 'Ministry and Nine Inch Nails pioneered industrial metal\'s template in the late 1980s and early 1990s, fusing metal guitars with electronic production and programmed drums. Fear Factory, powered by Raymond Herrera\'s stop-go technique, brought the sound into a more overtly metal, riff-driven direction on "Demanufacture" (1995). Rammstein globalized the genre through theatrical, German-language industrial metal, while Nailbomb (featuring Igor Cavalera) and Godflesh represent the genre\'s rawer, more experimental underground wing.' },
+      { question: 'What gear do industrial metal drummers use?', answer: 'Raymond Herrera\'s Tama Starclassic kit and Zildjian A Custom/Z Custom cymbals, driven by a DW 5000 Series double pedal, deliver the mechanical precision his stop-go technique demands. Many industrial-adjacent modern drummers, including Navene Koperweis and Matt Halpern, integrate electronic trigger pads and hybrid acoustic-electronic setups directly into their live rigs. Across the genre, triggered bass drums and tightly muffled, punchy snares built for clarity beneath electronic layers are the shared priority.' },
+      { question: 'Why isn\'t Rammstein\'s Christoph Schneider on this list?', answer: 'Christoph Schneider, along with Nine Inch Nails\' rotating drummers and Ministry\'s session players, does not currently have a dedicated drummer profile in MetalForge\'s database. This ranking draws instead on the closest working analogues MetalForge currently profiles — drummers whose mechanical precision, electronic integration, or direct industrial side projects most closely parallel the genre\'s machine-driven ethos.' },
+    ],
+    relatedLists: ['nu-metal-drummers', 'djent-metal-drummers', 'progressive-metal-drummers'],
+  },
+
+  'glam-metal-drummers': {
+    slug: 'glam-metal-drummers',
+    title: 'Top 10 Glam Metal Drummers',
+    emoji: '💄',
+    description: 'The iconic drummers behind metal\'s most flamboyant, arena-conquering 1980s subgenre. Glam metal — also called hair metal — paired big, anthemic choruses and gated-reverb drum sounds with a decadent, image-driven Sunset Strip aesthetic, dominating MTV and the charts through bands like Mötley Crüe, Poison, Ratt, and Cinderella. None of glam metal\'s most iconic drummers — Mötley Crüe\'s Tommy Lee, Poison\'s Rikki Rockett, Ratt\'s Bobby Blotzer, or Cinderella\'s Fred Coury — currently has a dedicated profile in MetalForge\'s database, so this ranking centers on drummers with genuine, direct connections to glam metal\'s ecosystem, plus the closest working analogues from the same commercial 1980s hard rock and arena metal era.',
+    seoDescription: 'The best glam metal drummers, ranked. Vinnie Paul, Aquiles Priester, Mikkey Dee, Ray Luzier and more — the definitive ranking of hair metal\'s most iconic, arena-conquering percussionists.',
+    drummerIds: [11, 50, 43, 8, 26, 23, 41, 12, 30, 3],
+    isArticle: true,
+    rankings: {
+      11: {
+        rank: 1,
+        highlight: 'Pantera\'s literal glam metal origin era',
+        reason: 'Before reinventing itself as groove metal\'s founding band, Vinnie Paul spent the early-to-mid 1980s powering Pantera through its glam and hair-metal-styled origins — "Metal Magic" (1983), "Projects in the Jungle" (1984), and the explicitly-titled "Power Metal" (1988) — complete with spandex, big hair, and gated-reverb drum sounds indistinguishable from the era\'s Sunset Strip scene, years before "Cowboys From Hell" changed everything.',
+        showcaseVideo: { youtubeId: 'J9FD8_kRVEc', title: 'The Monster Known as Vinnie Paul (by Scott Ian)' },
+      },
+      50: {
+        rank: 2,
+        highlight: 'W.A.S.P. — Sunset Strip glam and shock metal royalty',
+        reason: 'Aquiles Priester joined W.A.S.P. in 2014, a band that emerged directly from the same early-1980s Sunset Strip glam metal scene as Mötley Crüe and Ratt, built around theatrical, image-driven shock rock spectacle — giving Priester a direct, current-era lineage connection to one of glam metal\'s founding acts.',
+      },
+      43: {
+        rank: 3,
+        highlight: 'Direct lineage through Dokken',
+        reason: 'Before joining Motörhead, Mikkey Dee drummed in Don Dokken\'s solo band — a direct professional connection to Dokken, one of glam metal\'s most commercially successful bands and a Sunset Strip scene mainstay throughout the 1980s.',
+      },
+      8: {
+        rank: 4,
+        highlight: 'Session work with David Lee Roth',
+        reason: 'Before joining Korn, Ray Luzier was a sought-after session and touring drummer who worked with David Lee Roth — Van Halen\'s flamboyant former frontman and one of the defining hard rock showmen whose image and stagecraft directly shaped glam metal\'s entire commercial template.',
+      },
+      26: {
+        rank: 5,
+        highlight: 'Ugly Kid Joe\'s hair-metal-adjacent hard rock',
+        reason: 'Before Godsmack, Shannon Larkin spent the early 1990s in Ugly Kid Joe, a hard rock band that emerged directly from the tail end of the glam/hair metal boom, sharing its accessible, riff-driven, big-chorus songwriting even as grunge began displacing the scene that produced it.',
+      },
+      23: {
+        rank: 6,
+        highlight: 'Avenged Sevenfold\'s glam-influenced arena metal',
+        reason: 'Arin Ilejay\'s sole studio album with Avenged Sevenfold, "Hail to the King" (2013), leaned explicitly into classic 1980s arena metal songwriting that critics and the band alike have tied to Mötley Crüe- and Guns N\' Roses-style hard rock — a modern echo of glam metal\'s big-chorus, anthemic accessibility.',
+      },
+      41: {
+        rank: 7,
+        highlight: 'Iron Maiden\'s parallel arena rock spectacle',
+        reason: 'Nicko McBrain has powered Iron Maiden\'s galloping NWOBHM sound since 1982, and while musically distinct from glam metal, Maiden\'s theatrical stage shows, mascot-driven visual identity, and MTV-era mainstream success ran in direct commercial parallel with glam metal throughout the 1980s, sharing arenas, charts, and audiences with the era\'s biggest hair metal acts.',
+      },
+      12: {
+        rank: 8,
+        highlight: 'Anthrax\'s MTV-era mainstream metal breakthrough',
+        reason: 'Charlie Benante\'s Anthrax broke into mainstream MTV rotation during the exact commercial window glam metal dominated, sharing bills, festival stages, and a music-video-driven marketplace with the era\'s biggest hair metal bands even as Anthrax\'s East Coast thrash sound stayed stylistically distinct.',
+      },
+      30: {
+        rank: 9,
+        highlight: 'The blues-rock foundation glam metal built upon',
+        reason: 'Bill Ward\'s jazz-and-blues-influenced rhythmic foundation with Black Sabbath in the early 1970s helped establish the hard rock drumming vocabulary — swung grooves in service of big riffs — that glam metal\'s more polished, radio-friendly 1980s successors built directly upon, even as Sabbath\'s darker aesthetic sat worlds away from Sunset Strip glamour.',
+      },
+      3: {
+        rank: 10,
+        highlight: 'The LA scene\'s thrash counter-movement',
+        reason: 'Gene Hoglan\'s Dark Angel emerged from the same early-1980s Los Angeles club circuit that glam metal came to dominate commercially, part of the thrash and extreme metal counter-movement that formed in direct stylistic opposition to hair metal\'s glossy, image-first mainstream rise — the flip side of the same era\'s metal scene.',
+      },
+    },
+    faq: [
+      { question: 'Who is the best glam metal drummer?', answer: 'None of glam metal\'s most iconic drummers — Mötley Crüe\'s Tommy Lee, Poison\'s Rikki Rockett, Ratt\'s Bobby Blotzer, or Cinderella\'s Fred Coury — currently has a dedicated profile in MetalForge\'s database. Vinnie Paul is the closest direct answer among profiled drummers: Pantera\'s early-1980s catalogue, including the explicitly titled "Power Metal" (1988), was recorded and performed in an authentically glam/hair-metal style years before the band\'s groove metal reinvention.' },
+      { question: 'What makes glam metal drumming unique?', answer: 'Glam metal drumming prioritizes big, anthemic accessibility over technical extremity — driving, mid-tempo backbeats, gated-reverb-drenched snare sounds (a production signature of the era), and simple, powerful grooves built to support massive, radio-ready choruses. Where thrash and death metal drumming of the same decade pushed speed and aggression to new extremes, glam metal drumming stayed rooted in blues-rock\'s foundational groove, prioritizing hooks and showmanship over raw technicality.' },
+      { question: 'What bands define glam metal?', answer: 'Mötley Crüe\'s "Shout at the Devil" (1983) and "Dr. Feelgood" (1989) bookend glam metal\'s commercial rise and creative peak. Poison\'s "Look What the Cat Dragged In" (1986), Ratt\'s "Out of the Cellar" (1984), Cinderella\'s "Night Songs" (1986), and Dokken\'s "Tooth and Nail" (1984) rounded out the Sunset Strip scene\'s core catalogue. W.A.S.P. brought a heavier, more theatrical shock-rock edge to the same scene, while Warrant and Winger carried glam metal into its late-80s commercial peak just before grunge displaced it.' },
+      { question: 'What gear do glam metal-adjacent drummers use?', answer: 'Vinnie Paul\'s ddrum Signature kit and Sabian AA/AAX cymbals carry forward the big, punchy drum sound the glam era popularized. Mikkey Dee\'s Yamaha Recording Custom kit and Zildjian A Custom/K Series cymbals deliver the hard-hitting power typical of 1980s arena hard rock. Across the genre and its adjacent scenes, large, deep-shelled toms tuned for maximum resonance and bright, cutting crash cymbals — engineered for the gated-reverb-processed sound of 1980s rock radio — were the shared sonic priority.' },
+      { question: 'Why isn\'t Tommy Lee on this list?', answer: 'Tommy Lee of Mötley Crüe, along with Poison\'s Rikki Rockett, Ratt\'s Bobby Blotzer, and Cinderella\'s Fred Coury, does not currently have a dedicated drummer profile in MetalForge\'s database. This ranking draws instead on drummers with genuine, direct professional connections to glam metal\'s ecosystem (Dokken, W.A.S.P., David Lee Roth), plus the closest working analogues from the same commercial 1980s hard rock era MetalForge currently profiles.' },
+    ],
+    relatedLists: ['80s-metal-drummers', 'best-classic-heavy-metal-drummers', 'traditional-heavy-metal-drummers'],
+  },
 };
 
 // Get list of all top 10 lists

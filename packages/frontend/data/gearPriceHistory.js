@@ -6564,6 +6564,143 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['derek roddy drum setup cost', 'hate eternal drum kit price', 'pearl reference series price', 'derek roddy gear cost today', 'i monarch drum kit price'],
     },
   },
+
+  // ==========================================
+  // BRANN DAILOR - 2009 Crack the Skye Era
+  // Gretsch USA Custom Setup
+  // Issue #2832: SEO batch — gear price history batch 19
+  // ==========================================
+  'brann-dailor': {
+    slug: 'brann-dailor',
+    name: 'Brann Dailor',
+    band: 'Mastodon',
+    iconicYear: 2009,
+    era: 'Crack the Skye Era',
+    albumReference: 'Crack the Skye (2009)',
+    profileImage: '/images/drummers/brann-dailor.webp',
+
+    summary: "Brann Dailor's 2009 setup behind Mastodon's Crack the Skye — widely regarded as his career-defining masterwork — marks the moment his Gretsch USA Custom kit, adopted during the Blood Mountain era, expanded to its most cinematic configuration and his first Vic Firth signature stick model launched. Paired with a Gretsch USA Custom maple snare and a Zildjian A Custom/K series cymbal mix that added K series complexity for the album's progressive, psychedelic character, the complete rig cost approximately $14,000 in 2009 dollars, equivalent to roughly $21,400 today after inflation. Dailor's gear evolved further from there — launching his first Gretsch Brann Dailor Signature kit and snare for Once More 'Round the Sun (2014), then completing a full switch to Zildjian K series cymbals for Emperor of Sand (2017). His current setup behind Hushed and Grim (2021), refined across two decades with Mastodon, retains the same Gretsch/Zildjian K/DW/Vic Firth core built around his melodic, jazz-influenced tom language and his rare dual role as drummer and co-lead vocalist, now valued at approximately $24,000 at current retail.",
+
+    setup: {
+      drums: {
+        item: 'Gretsch USA Custom (Expanded)',
+        model: 'Maple shell pack',
+        specs: '22" kick, 8"/10"/12"/14"/16"/18" toms',
+        originalPrice: 8200,
+        year: 2009,
+        source: 'Gretsch USA Custom catalog pricing 2009',
+        notes: "Expanded to six toms — 8\" and 18\" added — for Crack the Skye's cinematic, progressive arrangements, the widest tom configuration of Dailor's career.",
+        vintageValue2026: 6200,
+        modernEquivalent: {
+          item: 'Gretsch Brann Dailor Signature Kit (Current)',
+          price: 9500,
+          link: 'gretsch-brann-dailor-signature-kit',
+        },
+      },
+      snare: {
+        item: 'Gretsch USA Custom 14"x6.5" Maple',
+        model: 'Maple shell, deep configuration',
+        specs: '14"x6.5" maple shell',
+        originalPrice: 650,
+        year: 2009,
+        source: 'Gretsch snare catalog pricing 2009',
+        notes: "Deeper 6.5\" shell for the fuller, more cinematic snare sound Crack the Skye's production called for.",
+        vintageValue2026: 520,
+        modernEquivalent: {
+          item: 'Gretsch Brann Dailor Signature Snare 14"x6.5"',
+          price: 750,
+          link: 'gretsch-brann-dailor-signature-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Custom / K Series',
+        model: 'A Custom hi-hats, K Dark crashes, K Constantinople ride',
+        specs: '14" A Custom hi-hats, K Dark crashes, 22" K Constantinople ride, China',
+        originalPrice: 3600,
+        year: 2009,
+        source: 'Zildjian catalog pricing 2009',
+        notes: "First K series addition to his long-running A Custom setup, giving Crack the Skye's atmospheric passages the added tonal complexity of the K Constantinople ride.",
+        vintageValue2026: 2900,
+        modernEquivalent: {
+          item: 'Zildjian K / K Constantinople (Current Configuration)',
+          price: 4200,
+          link: 'zildjian-k-constantinople-dailor',
+        },
+      },
+      hardware: {
+        item: 'DW 9000 Double Pedal',
+        model: 'DW 9000 double pedal + stands',
+        specs: 'DW 9000 double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 1400,
+        year: 2009,
+        source: 'DW hardware catalog pricing 2009',
+        notes: "DW's flagship double pedal, carried over from the Blood Mountain-era upgrade and still anchoring Dailor's foot technique through Crack the Skye.",
+        vintageValue2026: 980,
+        modernEquivalent: {
+          item: 'DW 9000XF Double Pedal (Current)',
+          price: 1700,
+          link: 'dw-9000xf-dailor',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth Brann Dailor Signature',
+        model: 'Hickory, medium taper — first signature model',
+        specs: 'Hickory, medium taper, wood tip',
+        originalPrice: 10,
+        year: 2009,
+        source: 'Vic Firth retail pricing 2009',
+        notes: "Dailor's first Vic Firth signature stick model, launched alongside Crack the Skye.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth Brann Dailor Signature (Current Model)',
+          price: 16,
+          link: 'vic-firth-brann-dailor-signature',
+        },
+      },
+      heads: {
+        item: 'Remo Coated Ambassador / Fiberskyn',
+        model: 'Coated Ambassador toms/snare, Fiberskyn on select toms',
+        specs: 'Coated Ambassador batters, Fiberskyn on select toms',
+        originalPrice: 140,
+        year: 2009,
+        source: 'Remo retail pricing 2009',
+        notes: "Fiberskyn added on select toms for the warmer, more textured tone Crack the Skye's psychedelic character required.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Coated Ambassador / Fiberskyn Pro Pack',
+          price: 190,
+          link: 'remo-ambassador-fiberskyn-pack-dailor',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 14000,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 10600,
+      modernEquivalentTotal: 16356,
+    },
+
+    priceEvolution: [
+      { year: 2009, price: 14000, label: 'Original Purchase', event: 'Crack the Skye recording — expanded Gretsch USA Custom kit, first Vic Firth signature sticks' },
+      { year: 2014, price: 16000, label: "Once More 'Round the Sun era", event: 'First Gretsch Brann Dailor Signature kit and snare launched' },
+      { year: 2021, price: 24000, label: 'Hushed and Grim era', event: 'Current Gretsch signature kit with full Zildjian K / K Constantinople cymbal setup' },
+      { year: 2026, price: 21400, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2009 Crack the Skye setup' },
+    ],
+
+    sources: [
+      { title: 'Gretsch USA Custom Catalog', year: 2009, type: 'catalog' },
+      { title: 'Modern Drummer — Brann Dailor Interview', year: 2009, type: 'interview' },
+      { title: 'Rhythm Magazine — Brann Dailor Interview', year: 2014, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Gretsch USA Custom', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Brann Dailor Drum Setup Cost | Mastodon Gear Price History",
+      description: "How much was Brann Dailor's Crack the Skye-era drum kit worth? Original Gretsch USA Custom setup ~$14,000 in 2009, inflation-adjusted to ~$21,400 today. Complete gear breakdown across his Mastodon career.",
+      keywords: ['brann dailor drum setup cost', 'mastodon drum kit price', 'gretsch usa custom price', 'brann dailor gear cost today', 'crack the skye drum kit price'],
+    },
+  },
 };
 
 // ==========================================

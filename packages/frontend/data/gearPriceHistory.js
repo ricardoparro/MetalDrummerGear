@@ -6701,6 +6701,417 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['brann dailor drum setup cost', 'mastodon drum kit price', 'gretsch usa custom price', 'brann dailor gear cost today', 'crack the skye drum kit price'],
     },
   },
+
+  // ==========================================
+  // FROST - 2006 Now, Diabolical Era
+  // Sonor SQ2 Setup
+  // ==========================================
+  'frost': {
+    slug: 'frost',
+    name: 'Frost',
+    band: 'Satyricon / 1349',
+    iconicYear: 2006,
+    era: 'Now, Diabolical Era',
+    albumReference: 'Now, Diabolical (2006)',
+    profileImage: '/images/drummers/frost.webp',
+
+    summary: "Frost's 2006 setup behind Satyricon's Now, Diabolical — the album that carried the band to its commercial breakthrough — captures the moment his gear reached its definitive signature configuration. After joining Satyricon in 1993 on a budget Pearl Export kit typical of the Norwegian black metal underground, and switching to a Sonor Designer kit in 1999 alongside co-founding 1349, Frost upgraded in 2006 to a Sonor SQ2 custom-build platform that let him specify exact shell depth and bearing edges for a more powerful, focused tone matching Satyricon's increasingly polished mid-2000s production. Paired with an expanded Zildjian A Custom and K Custom Dark cymbal setup and the Sonor Perfect Balance pedal that became central to his extreme single-foot blast-beat technique, the complete rig cost approximately $7,500 in 2006 dollars, equivalent to roughly $12,188 today after inflation.\n\nThe gear choices map directly onto what Now, Diabolical demanded from Frost. Where Rebel Extravaganza (1999) and 1349's Liberation and Hellfire had rewarded pure blast-beat velocity, Now, Diabolical pushed Satyricon toward a more song-serving, almost rock-inflected sensibility without sacrificing extremity — and the Sonor SQ2's dry, cutting maple snare crack and the K Custom Dark ride's darker, more complex wash gave Frost the tonal range to shift between blistering aggression and more restrained, dynamically shaped passages within the same song. The Perfect Balance pedal's precision let him execute the album's architectural blast beats — dynamic swells and micro-variations in foot pattern rather than pure texture — with the reliability that touring two extreme bands simultaneously required.\n\nThat signature Sonor SQ2 platform proved durable: it carried Frost through the self-titled Satyricon (2013), where his playing became a study in restraint and dynamics, and reached its fully refined form for Deep calleth upon Deep (2017) and 1349's The Infernal Pathway (2019), an era he has described as demanding physical endurance that \"you cannot fake your way through.\" His current setup, built around the same Sonor SQ2 / Zildjian K Custom Dark core established in 2006, is valued at approximately $11,000 at current retail — a testament to how little Frost has needed to change a configuration built to serve three decades of technically disciplined black metal drumming.",
+
+    setup: {
+      drums: {
+        item: 'Sonor SQ2 Series',
+        model: 'Custom maple shell pack',
+        specs: '22" kick, 10"/12"/14"/16" toms',
+        originalPrice: 4400,
+        year: 2006,
+        source: 'Sonor SQ2 custom-build catalog pricing 2006',
+        notes: "Upgraded from the Sonor Designer series to Sonor's premium custom-build SQ2 platform, letting Frost specify shell depth and bearing edges for a more powerful, focused tone matching Now, Diabolical's polished production.",
+        vintageValue2026: 3800,
+        modernEquivalent: {
+          item: 'Sonor SQ2 Custom (Current Line)',
+          price: 6500,
+          link: 'sonor-sq2-custom-frost',
+        },
+      },
+      snare: {
+        item: 'Sonor SQ2 14"x6" Maple',
+        model: 'Custom maple shell, dry crack',
+        specs: '14"x6" maple shell',
+        originalPrice: 700,
+        year: 2006,
+        source: 'Sonor SQ2 snare catalog pricing 2006',
+        notes: "The dry, cutting maple crack that became Frost's signature snare sound from this point forward.",
+        vintageValue2026: 650,
+        modernEquivalent: {
+          item: 'Sonor SQ2 14"x6" Maple (Current)',
+          price: 900,
+          link: 'sonor-sq2-maple-snare-frost',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Custom / K Custom Dark',
+        model: 'A Custom hi-hats/crashes, K Custom Dark ride, K China',
+        specs: '14" A Custom hi-hats, 16"/17"/18" A Custom crashes, 22" K Custom Dark ride, 18" K China',
+        originalPrice: 1800,
+        year: 2006,
+        source: 'Zildjian catalog pricing 2006',
+        notes: "Expanded to a mixed A Custom / K Custom Dark setup — brighter A Custom for cutting accents alongside darker K Series tone for Satyricon's more atmospheric passages.",
+        vintageValue2026: 2000,
+        modernEquivalent: {
+          item: 'Zildjian A Custom / K Custom Dark (Current Configuration)',
+          price: 2800,
+          link: 'zildjian-a-custom-k-custom-dark-frost',
+        },
+      },
+      hardware: {
+        item: 'Sonor Perfect Balance Pedal',
+        model: 'Precision single pedal',
+        specs: 'Sonor Perfect Balance single pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 500,
+        year: 2006,
+        source: 'Sonor hardware catalog pricing 2006',
+        notes: "Adopted Sonor's flagship pedal for maximum speed and control — a refinement that came to define his extreme single-foot blast beat technique.",
+        vintageValue2026: 350,
+        modernEquivalent: {
+          item: 'Sonor Perfect Balance Pedal (Current)',
+          price: 650,
+          link: 'sonor-perfect-balance-pedal-frost',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic Extreme 5B',
+        model: 'Reinforced hickory',
+        specs: 'Hickory, reinforced shoulder, wood tip',
+        originalPrice: 10,
+        year: 2006,
+        source: 'Vic Firth retail pricing 2006',
+        notes: "Heavier-duty stick model carried over from the Rebel Extravaganza / early 1349 era to survive the physical demands of touring two extreme bands simultaneously.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic Extreme 5B (Current)',
+          price: 16,
+          link: 'vic-firth-extreme-5b-frost',
+        },
+      },
+      heads: {
+        item: 'Remo Powerstroke 3 / Ambassador',
+        model: 'Powerstroke 3 kick, Ambassador toms',
+        specs: 'Powerstroke 3 kick batter, coated Ambassador tom/snare batters',
+        originalPrice: 90,
+        year: 2006,
+        source: 'Remo retail pricing 2006',
+        notes: "Reinforced kick head configuration maintained from the 1349-founding era for durability under sustained hyperspeed double-kick playing.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Powerstroke 3 / Ambassador Pro Pack',
+          price: 130,
+          link: 'remo-powerstroke3-ambassador-frost',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 7500,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 6800,
+      modernEquivalentTotal: 10996,
+    },
+
+    priceEvolution: [
+      { year: 1993, price: 1800, label: 'Nemesis Divina era', event: 'Joined Satyricon on a budget Pearl Export kit typical of the Norwegian black metal underground' },
+      { year: 1999, price: 4500, label: 'Rebel Extravaganza / 1349 founding', event: 'Switched to Sonor Designer series; co-founded 1349' },
+      { year: 2006, price: 7500, label: 'Original Purchase', event: 'Now, Diabolical recording — upgraded to Sonor SQ2 custom platform, the signature Frost drum setup' },
+      { year: 2017, price: 8500, label: 'Deep calleth upon Deep era', event: 'Sonor SQ2 setup reaches its fully refined, definitive configuration' },
+      { year: 2026, price: 12188, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2006 Now, Diabolical-era Sonor SQ2 setup' },
+    ],
+
+    sources: [
+      { title: 'Sonor SQ2 Custom Catalog', year: 2006, type: 'catalog' },
+      { title: 'Decibel Magazine — Frost Interview', year: 2010, type: 'interview' },
+      { title: 'Metal Hammer — Frost Interview', year: 2018, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Sonor SQ2', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Frost Drum Setup Cost | Satyricon Gear Price History",
+      description: "How much was Frost's Now, Diabolical-era Sonor SQ2 drum kit worth? Original ~$7,500 in 2006, inflation-adjusted to ~$12,188 today. Complete gear breakdown from Satyricon and 1349's black metal architect.",
+      keywords: ['frost drum setup cost', 'satyricon drum kit price', 'sonor sq2 price', 'frost gear cost today', 'now diabolical drum kit price', 'frost drummer gear cost'],
+    },
+  },
+
+  // ==========================================
+  // MIKKEY DEE - 1993 Bastards Era
+  // Tama Artstar II / Paiste Setup
+  // ==========================================
+  'mikkey-dee': {
+    slug: 'mikkey-dee',
+    name: 'Mikkey Dee',
+    band: 'Motörhead',
+    iconicYear: 1993,
+    era: 'Bastards Era',
+    albumReference: 'Bastards (1993)',
+    profileImage: '/images/drummers/mikkey-dee.webp',
+
+    summary: "Mikkey Dee's 1993 setup behind Motörhead's Bastards — his studio debut with the band after replacing Phil \"Philthy Animal\" Taylor — paired a Tama Artstar II/Swingstar maple shell pack with Paiste Giant Beat and 2002 series cymbals, a Tama Iron Cobra chain-drive double pedal, and Vic Firth 5B sticks. Moving on from the Pearl Masters Professional kit he'd used during his 1988-1992 apprenticeship with King Diamond, Dee's Tama/Paiste rig cost approximately $4,500 in 1993 dollars, equivalent to roughly $10,202 today after inflation.\n\nEvery piece of that setup served a specific purpose against Motörhead's wall-of-amplifiers stage volume. The 22\" bass drum kept to a classic hard rock size rather than the oversized kicks favored by thrash and death metal drummers of the era, delivering a focused, punchy low-end that locked with Lemmy Kilmister's bass without competing against it. The steel-shell Artstar II snare — a preference Dee carried over from his King Diamond years — provided the crack and projection needed to claim its own sonic space in a mix where Lemmy's bass often occupied a \"third guitar\" frequency range, while the 15\" Paiste Giant Beat hi-hats offered more low-frequency body than a standard 14\" pair, letting them function as a musical element rather than pure texture. The Paiste 2002 series handled crashes and ride duties, giving Dee a cutting, warm-sustained voice already proven on records by Lars Ulrich and Dave Lombardo.\n\nDee's kick technique on Bastards emphasized heavy, deliberate placement over machine-gun double-bass runs, and the Iron Cobra's chain-drive mechanism gave him the mechanical precision that approach required. Tracks like \"Burner\" and \"Death or Glory\" show a jazz-drummer's sensitivity to ghost notes and ride phrasing layered under Motörhead's trademark thunder — musicality that Taylor's more chaotic style had rarely offered.\n\nThat Tama/Paiste rig carried Dee through the mid-1990s before he transitioned to Premier and later Pearl gear, settling into the Pearl Reference Series and Zildjian A Custom/K Custom Dark setup that closed out his 23-year Motörhead tenure on Bad Magic (2015) — Motörhead's final album and the band's only Grammy win. Following Lemmy Kilmister's death that December, Dee joined Scorpions in 2016, continuing the Pearl Reference/Evans configuration his final Motörhead years had established.",
+
+    setup: {
+      drums: {
+        item: 'Tama Artstar II / Swingstar',
+        model: 'Maple shell pack, professional series',
+        specs: '22" kick, 10"/12"/13" toms, 16"/18" floor toms',
+        originalPrice: 2200,
+        year: 1993,
+        source: 'Tama Artstar II catalog pricing 1993',
+        notes: "Dee's debut studio setup with Motörhead, moving from the Pearl Masters Professional gear of his King Diamond years to a Tama Artstar II/Swingstar configuration prized for consistency and durability under Motörhead's punishing touring schedule.",
+        vintageValue2026: 1800,
+        modernEquivalent: {
+          item: 'Tama Starclassic Performer B/B (Current Equivalent)',
+          price: 3200,
+          link: 'tama-starclassic-performer-mikkey-dee',
+        },
+      },
+      snare: {
+        item: 'Tama Artstar II Steel 14"x6.5"',
+        model: 'Steel shell, deep configuration',
+        specs: '14"x6.5" steel shell',
+        originalPrice: 350,
+        year: 1993,
+        source: 'Tama snare catalog pricing 1993',
+        notes: "Steel-shell brightness carried over from his King Diamond years, tuned medium-high for maximum crack and projection against Lemmy's wall-of-bass volume.",
+        vintageValue2026: 300,
+        modernEquivalent: {
+          item: 'Tama Artstar Steel 14"x6.5" (Current)',
+          price: 480,
+          link: 'tama-artstar-steel-snare-mikkey-dee',
+        },
+      },
+      cymbals: {
+        item: 'Paiste Giant Beat / 2002 Series',
+        model: '15" Giant Beat hi-hats, 2002 crashes/ride/china',
+        specs: '15" Giant Beat hi-hats, 22" 2002 ride, 18"/20" 2002 crashes, 18" 2002 china',
+        originalPrice: 1400,
+        year: 1993,
+        source: 'Paiste catalog pricing 1993',
+        notes: "Combined Paiste's warmer Giant Beat line with the brighter, cutting 2002 series for crashes and ride — a cymbal voice that could hold its own against Lemmy's legendarily massive stage volume.",
+        vintageValue2026: 1600,
+        modernEquivalent: {
+          item: 'Paiste 2002 Classic Series (Current)',
+          price: 2200,
+          link: 'paiste-2002-classic-mikkey-dee',
+        },
+      },
+      hardware: {
+        item: 'Tama Iron Cobra Double Pedal',
+        model: 'Chain-drive double pedal + hi-hat stand + throne',
+        specs: 'Tama Iron Cobra double pedal, Iron Cobra hi-hat stand, Roc-N-Soc Nitro throne',
+        originalPrice: 480,
+        year: 1993,
+        source: 'Tama / Roc-N-Soc hardware catalog pricing 1993',
+        notes: "Chain-drive Iron Cobra pedal delivering the mechanical precision and heavy, deliberate kick placement that anchored Motörhead's groove rather than machine-gun double-bass runs.",
+        vintageValue2026: 350,
+        modernEquivalent: {
+          item: 'Pearl Demon Drive Double Pedal (Current Setup)',
+          price: 750,
+          link: 'pearl-demon-drive-mikkey-dee',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 1993,
+        source: 'Vic Firth retail pricing 1993',
+        notes: "5B diameter and weight suited Dee's powerful playing style — more mass than 5A for heavier attack at Motörhead's volume levels.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth Mikkey Dee Signature (Current Model)',
+          price: 18,
+          link: 'vic-firth-mikkey-dee-signature',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor Coated / Powerstroke 3',
+        model: 'Emperor Coated toms/snare, Powerstroke 3 kick',
+        specs: 'Emperor Coated tom/snare batters, Powerstroke 3 kick batter',
+        originalPrice: 62,
+        year: 1993,
+        source: 'Remo retail pricing 1993',
+        notes: "Powerstroke 3 kick batter for focused attack; Emperor Coated on toms and snare for durability across Motörhead's relentless touring schedule.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans G2 / EMAD Pro Pack (Current)',
+          price: 85,
+          link: 'evans-g2-emad-mikkey-dee',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 4500,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 4050,
+      modernEquivalentTotal: 6733,
+    },
+
+    priceEvolution: [
+      { year: 1993, price: 4500, label: 'Original Purchase', event: "Bastards recording — Mikkey Dee's Motörhead studio debut, Tama Artstar II/Swingstar kit with Paiste Giant Beat/2002 cymbals" },
+      { year: 2006, price: 7500, label: 'Kiss of Death era', event: 'Switched to Pearl Reference Series and Zildjian A Custom cymbals as the Cameron Webb-produced era begins' },
+      { year: 2015, price: 9500, label: 'Bad Magic era', event: "Motörhead's final album — refined Pearl Reference / Zildjian A Custom / K Custom Dark setup; \"Thunder & Lightning\" earns the band's only Grammy" },
+      { year: 2016, price: 10000, label: 'Scorpions era', event: "Joined Scorpions following Lemmy Kilmister's death; continues the Pearl Reference/Evans configuration developed in Motörhead's final years" },
+      { year: 2026, price: 10202, label: 'Current adjusted', event: 'Inflation-adjusted value of the 1993 Bastards-era Tama/Paiste setup' },
+    ],
+
+    sources: [
+      { title: 'Tama Artstar II Catalog', year: 1993, type: 'catalog' },
+      { title: 'Paiste Cymbal Catalog', year: 1993, type: 'catalog' },
+      { title: 'Rhythm Magazine — Mikkey Dee Interview', year: 2010, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Tama Artstar II', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Mikkey Dee Drum Setup Cost | Motörhead Bastards Era Gear Price History",
+      description: "How much did Mikkey Dee's 1993 Motörhead drum kit cost? Original ~$4,500 on Bastards, inflation-adjusted to ~$10,202 today. Complete Tama/Paiste gear breakdown from his 23-year Motörhead tenure.",
+      keywords: ['mikkey dee drum setup cost', 'motorhead drum kit price', 'tama artstar price', 'mikkey dee gear cost today', 'bastards drum kit price', 'mikkey dee drummer gear'],
+    },
+  },
+
+  // ==========================================
+  // RICHARD CHRISTY - 1998 The Sound of Perseverance Era
+  // Pearl Masters Custom Setup
+  // ==========================================
+  'richard-christy': {
+    slug: 'richard-christy',
+    name: 'Richard Christy',
+    band: 'Death',
+    iconicYear: 1998,
+    era: 'The Sound of Perseverance Era',
+    albumReference: 'Death: The Sound of Perseverance (1998)',
+    profileImage: '/images/drummers/richard-christy.webp',
+
+    summary: "Richard Christy's 1998 setup behind Death's The Sound of Perseverance — Chuck Schuldiner's final studio album and widely considered the most technically demanding death metal record ever made — centered on a Pearl Masters Custom maple kit chosen for exactly the clarity, attack, and projection the album's progressive complexity demanded. Christy, who moved to Florida specifically to break into the death metal scene, was handpicked by Schuldiner after auditions and inherited a drum chair previously held by Gene Hoglan. His complete rig — the Pearl Masters Custom shell pack, a Pearl Sensitone steel/Masters Maple snare, a seven-piece Sabian AA/AAX cymbal setup, a Pearl P-2002C PowerShifter Eliminator double pedal, and Vic Firth American Classic 5A/5B sticks — cost approximately $6,183 in 1998 dollars, equivalent to roughly $12,427 today after inflation.\n\nEvery piece of that gear maps directly onto what Perseverance required. The 22\"x18\" bass drum was notably deeper than typical death metal kicks of the era, giving Christy's sustained double-bass runs on \"Spirit Crusher\" low-end weight and presence rather than a muddy blur. The four-tom configuration gave him the melodic canvas Schuldiner wrote fills specifically around — audible in the singing tom passages of \"Flesh and the Power It Holds.\" The bright Sabian AA/AAX cymbals, anchored by 14\" AA hi-hats and a 20\" AA Medium ride, provided the stick definition necessary at 200+ BPM, while the alternating steel/maple snare choice let Christy shift between the cutting crack \"Scavenger of Human Sorrow\" demanded and the warmth \"Voice of the Soul\" — Death's only instrumental — required. Engineer Jim Morris recorded Christy's parts as largely uninterrupted full takes; Schuldiner reportedly found click tracks nearly redundant given how precise his internal clock already was.\n\nThat same rig carried into Control Denied's The Fragile Art of Existence (1999) before Christy moved to Iced Earth in 2003, where his setup scaled up for larger touring productions. He left metal drumming behind in 2007 to focus on his entertainment career at The Howard Stern Show, but the Pearl/Sabian configuration documented on Perseverance remains the gear most closely associated with one of technical death metal's most complete performances.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Masters Custom',
+        model: 'Maple shell pack, piano black finish',
+        specs: '22"x18" kick, 10"/12" rack toms, 14"/16" floor toms',
+        originalPrice: 3800,
+        year: 1998,
+        source: 'Pearl Masters Custom catalog pricing 1998',
+        notes: "Chosen for the clarity, attack, and projection The Sound of Perseverance's progressive complexity demanded; the deeper 22\"x18\" kick gave Christy's double bass work more low-end presence than typical death metal setups of the era.",
+        vintageValue2026: 2800,
+        modernEquivalent: {
+          item: 'Pearl Masters Maple Complete (Current)',
+          price: 4200,
+          link: 'pearl-masters-maple-complete-christy',
+        },
+      },
+      snare: {
+        item: 'Pearl Sensitone Heritage Steel / Masters Maple',
+        model: 'Steel or maple shell depending on session',
+        specs: '14"x5.5" steel or maple shell',
+        originalPrice: 420,
+        year: 1998,
+        source: 'Pearl snare catalog pricing 1998',
+        notes: "Alternated steel for the crack and cut needed on heavier tracks like \"Spirit Crusher\" and maple for the warmth and musicality \"Voice of the Soul\" required.",
+        vintageValue2026: 375,
+        modernEquivalent: {
+          item: 'Pearl Music City Custom Maple 14"x5.5" (Current)',
+          price: 650,
+          link: 'pearl-music-city-custom-maple-christy',
+        },
+      },
+      cymbals: {
+        item: 'Sabian AA / AAX Series',
+        model: '7-piece setup: hi-hats, three crashes, ride, splash, china',
+        specs: '14" AA hi-hats, 16" AAX Studio crash, 18" AA Medium Thin crash, 19" AAX X-Plosion crash, 20" AA Medium ride, 10" AA splash, 18" AAX Chinese',
+        originalPrice: 1400,
+        year: 1998,
+        source: 'Sabian AA/AAX catalog pricing 1998',
+        notes: "Bright AA/AAX combination chosen for stick definition and cut at 200+ BPM, with extensive ride work — unusual for death metal — on tracks like the band's cover of \"Painkiller.\"",
+        vintageValue2026: 1300,
+        modernEquivalent: {
+          item: 'Sabian AAX Series (Current Configuration)',
+          price: 2200,
+          link: 'sabian-aax-series-christy',
+        },
+      },
+      hardware: {
+        item: 'Pearl P-2002C PowerShifter Eliminator',
+        model: 'Chain-drive double pedal + hi-hat stand + throne',
+        specs: 'Pearl P-2002C Eliminator double pedal, Pearl H-2000 hi-hat stand, Pearl D-2000 Roadster throne',
+        originalPrice: 480,
+        year: 1998,
+        source: 'Pearl hardware catalog pricing 1998',
+        notes: "The Eliminator's smooth chain-drive response handled Perseverance's sustained double bass passages, most notably the extended runs on \"Spirit Crusher.\"",
+        vintageValue2026: 320,
+        modernEquivalent: {
+          item: 'Pearl Eliminator Redline Double Pedal (Current)',
+          price: 750,
+          link: 'pearl-eliminator-redline-christy',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5A / 5B',
+        model: 'Hickory, alternated by passage',
+        specs: 'Hickory, wood tip, 5A and 5B',
+        originalPrice: 8,
+        year: 1998,
+        source: 'Vic Firth retail pricing 1998',
+        notes: "Alternated between 5A for finesse-oriented passages and 5B for heavier sections across Perseverance's dynamic range.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5A (Current)',
+          price: 14,
+          link: 'vic-firth-5a-christy',
+        },
+      },
+      heads: {
+        item: 'Remo Powerstroke 3 / Emperor / Ambassador',
+        model: 'Powerstroke 3 kick, Emperor toms, Ambassador snare',
+        specs: 'Powerstroke 3 Clear kick batter, Emperor Clear tom batters, Ambassador Coated snare batter',
+        originalPrice: 75,
+        year: 1998,
+        source: 'Remo retail pricing 1998',
+        notes: "Reinforced Powerstroke 3 kick head for focused attack without triggering, paired with clear Emperor toms for the album's technical fill work.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Powerstroke 3 / Emperor Pro Pack (Current)',
+          price: 110,
+          link: 'remo-powerstroke3-emperor-christy',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 6183,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 4795,
+      modernEquivalentTotal: 7924,
+    },
+
+    priceEvolution: [
+      { year: 1996, price: 3200, label: 'Joined Death / Control Denied', event: 'Handpicked by Chuck Schuldiner; began touring and recording with a Pearl Masters Custom kit' },
+      { year: 1998, price: 6183, label: 'Original Purchase', event: 'The Sound of Perseverance recorded at Morrisound — full Pearl Masters Custom / Sabian AA-AAX setup documented' },
+      { year: 1999, price: 6183, label: 'The Fragile Art of Existence era', event: "Same rig carried into Control Denied's progressive metal sessions" },
+      { year: 2003, price: 6800, label: 'Iced Earth era', event: 'Joined Iced Earth as touring and studio drummer; setup expanded for larger stage productions' },
+      { year: 2026, price: 12427, label: 'Current adjusted', event: 'Inflation-adjusted value of the 1998 Sound of Perseverance-era setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Masters Custom Catalog', year: 1998, type: 'catalog' },
+      { title: 'Sabian AA/AAX Cymbal Catalog', year: 1998, type: 'catalog' },
+      { title: 'Blabbermouth — Richard Christy Interview', year: 2012, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Pearl Masters Custom', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Richard Christy Drum Setup Cost | Death Sound of Perseverance Gear Price History",
+      description: "How much did Richard Christy's 1998 Death drum kit cost? Original ~$6,183, inflation-adjusted to ~$12,427 today. Complete Pearl Masters Custom breakdown from The Sound of Perseverance.",
+      keywords: ['richard christy drum setup cost', 'death drum kit price', 'pearl masters custom price', 'richard christy gear cost today', 'sound of perseverance drum kit price', 'richard christy drummer gear'],
+    },
+  },
 };
 
 // ==========================================

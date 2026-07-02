@@ -14567,6 +14567,268 @@ This guide breaks down the technique, gear, and practice approach behind Koperwe
       { slug: 'whats-in-navene-koperweiss-kit', label: "What's In Navene Koperweis's Kit: Entheos Drummer Gear Breakdown" }
     ]
   },
+
+  // Issue #2513: SoundLike guide — Abe Cunningham (re-scoped from batch 19)
+  'how-to-sound-like-abe-cunningham': {
+    slug: 'how-to-sound-like-abe-cunningham',
+    drummerId: 48,
+    drummerName: 'Abe Cunningham',
+    band: 'Deftones',
+    genre: 'Alternative Metal / Nu-Metal',
+    priority: 57,
+    title: "How to Sound Like Abe Cunningham: Complete Gear & Technique Guide",
+    description: "Master Abe Cunningham's dynamic, atmosphere-first drumming. Learn the restraint, groove, and cymbal-swell technique behind Deftones' sound, plus his Tama Starclassic gear setup and tuning.",
+    seoKeywords: ['abe cunningham drumming', 'how to sound like abe cunningham', 'deftones drums', 'abe cunningham gear', 'abe cunningham technique', 'abe cunningham drum kit'],
+    ogImage: '/images/guides/abe-cunningham-guide.webp',
+    datePublished: '2026-07-02',
+    dateModified: '2026-07-02',
+    author: 'MetalForge Editorial',
+    wordCount: 1850,
+    readingTime: '9 min',
+    intro: {
+      title: "Taste Over Technique",
+      content: `Abe Cunningham has been the drummer behind Deftones since co-founding the band as a teenager in Sacramento in 1988. Across nine studio albums — from the raw aggression of "Adrenaline" to the shoegaze-tinged extremity of "Ohms" — he has become one of alternative metal's most quietly influential players, not for speed or technical flash but for restraint, dynamics, and an almost telepathic sense of when not to play.
+
+What sets Cunningham apart from most metal drummers is that his signature moments are often his quietest ones. "Digital Bath" builds from a near-silent hi-hat pulse into a single cathartic cymbal-swell release; "Passenger" barely touches the kit for entire verses. Then, on songs like "My Own Summer (Shove It)," he flips into relentless, high-velocity power-groove drumming without ever sounding like a different player — the same musical intelligence just pointed at a different dynamic extreme.
+
+This guide breaks down the technique, gear, and practice approach behind Cunningham's sound: the dynamic control, the cymbal-swell build, and the Tama/Zildjian setup that gives Deftones its unmistakable low-end synergy and atmospheric edge.`,
+      keyPoints: [
+        "Founding Deftones drummer since 1988, playing on all nine studio albums",
+        "Known for dynamic restraint — building entire songs toward a single release point",
+        "Signature cymbal-swell technique adds orchestral tension before a groove's payoff",
+        "Equally capable of high-velocity power grooves and near-silent atmospheric playing"
+      ]
+    },
+    technique: {
+      title: "Cunningham's Dynamic-First Approach",
+      overview: `Abe plays matched grip with a relaxed touch built around dynamic range rather than raw speed. His vocabulary centers on ghost notes, cymbal swells, and unconventional snare placement — tools borrowed more from groove and atmosphere than from technical metal drumming. He treats space as an instrument: the pauses between hits carry as much weight as the hits themselves.`,
+      stickGrip: {
+        type: 'Matched Grip',
+        description: "Abe uses a relaxed matched grip that prioritizes touch sensitivity over power. This lets him move seamlessly between barely-audible ghost notes and full-force backbeats without changing his hand mechanics.",
+        tips: [
+          "Practice at a whisper-quiet dynamic first — power is easy to add later, control isn't",
+          "Let the stick do the work; a tense grip kills the sensitivity needed for ghost notes",
+          "Work on rebound control so quiet hi-hat patterns don't turn into unintentional accents"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "The Cymbal-Swell Build",
+          description: "Abe's most recognized move: rolling on a ride or crash cymbal to build orchestral tension before releasing into a full groove, as heard on \"Digital Bath.\" It's a textural technique borrowed from atmospheric and post-rock playing rather than straightforward metal timekeeping.",
+          tempo: "70-90 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Practice a slow roll on a crash or ride, gradually increasing pressure and speed over 8-16 bars, then resolve directly into a full backbeat groove on beat one."
+        },
+        {
+          name: "Ghost-Note Atmosphere Groove",
+          description: "On songs like \"Passenger,\" Abe keeps a groove alive using barely-there ghost notes and a minimal hi-hat pattern, holding back so completely that the drums function as a heartbeat rather than a rhythm section.",
+          tempo: "60-80 BPM",
+          difficulty: "Intermediate-Advanced",
+          practiceHint: "Play a basic groove at a volume so quiet it's almost inaudible. Resist any urge to fill space — the discipline of restraint is the entire exercise."
+        },
+        {
+          name: "High-Velocity Power Groove",
+          description: "The flip side of Abe's restraint: on tracks like \"My Own Summer (Shove It),\" he drives a relentless, open hi-hat groove with punishing backbeats at sustained intensity for the length of the whole song, without ever losing the pocket.",
+          tempo: "120-140 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Play a driving 8th-note hi-hat groove for a full 4-minute song length without slowing the tempo or letting the energy sag — stamina and consistency are the skill, not complexity."
+        }
+      ],
+      keySongs: [
+        { song: "Digital Bath", album: "White Pony", year: 2000, why: "The defining example of Cunningham's dynamic restraint and cymbal-swell technique" },
+        { song: "My Own Summer (Shove It)", album: "Around the Fur", year: 1997, why: "Explosive, high-velocity power groove sustained for the full song" },
+        { song: "Passenger", album: "White Pony", year: 2000, why: "Near-silent, ghost-note-driven atmospheric groove" },
+        { song: "Diamond Eyes", album: "Diamond Eyes", year: 2010, why: "Modern Cunningham balancing groove and aggression at a driving tempo" },
+        { song: "Change (In the House of Flies)", album: "White Pony", year: 2000, why: "Subtle dynamic build showcasing his feel for a song's emotional arc" }
+      ]
+    },
+    gear: {
+      title: "Abe's Tama & Zildjian Setup",
+      drumKit: {
+        brand: 'Tama',
+        model: 'Tama Starclassic Maple/Bubinga',
+        shells: 'Maple/Bubinga hybrid',
+        finish: 'Custom Deftones configurations',
+        config: {
+          kick: '22" x 18" Bass Drum (single)',
+          snare: '14" x 8" Tama S.L.P. Big Black Steel',
+          toms: ['10" Rack Tom', '12" Rack Tom'],
+          floorToms: ['14" Floor Tom', '16" Floor Tom']
+        },
+        description: "Abe's compact Starclassic Maple/Bubinga kit reflects his groove-first philosophy — no second rack of toms, no unnecessary clutter. The maple/bubinga shell blend gives warmth with a focused, punchy attack that sits perfectly against the bass guitar.",
+        affiliateNote: "Tama Superstar or Imperialstar offer similar shell character at more accessible price points."
+      },
+      snare: {
+        brand: 'Tama',
+        model: 'Tama S.L.P. Big Black Steel',
+        size: '14" x 8"',
+        shell: 'Steel',
+        description: "A deep, powerful steel-shell snare with serious body and cut — essential for punching through Deftones' heavier moments while still responding to Abe's quietest ghost notes. The extra depth gives a satisfying low fundamental without sacrificing snare response.",
+        alternative: "Tama S.L.P. Dynamic Bridge or Ludwig Black Beauty for a similar deep steel voice"
+      },
+      cymbals: {
+        brand: 'Zildjian',
+        series: 'Zildjian A Custom / K Custom Hybrid',
+        setup: [
+          { type: 'Hi-Hats', model: 'Zildjian 14" A New Beat Hi-Hats', notes: 'Versatile and articulate across Deftones\' wide dynamic range' },
+          { type: 'Crash', model: 'Zildjian 16" A Custom Crash', notes: 'Quick attack for punctuating heavier moments' },
+          { type: 'Crash', model: 'Zildjian 18" A Custom Crash', notes: 'Fuller crash for bigger dynamic swells' },
+          { type: 'Ride', model: 'Zildjian 21" K Custom Ride', notes: 'Dark, complex wash for atmospheric sections' },
+          { type: 'China', model: 'Zildjian 18" A Custom China', notes: 'Aggressive accent for the heaviest hits' }
+        ],
+        description: "Abe's hybrid A Custom / K Custom setup mirrors Deftones' musical duality — bright A Custom crashes for attack, a darker K Custom ride for the shimmering, atmospheric passages that define the band's quieter side."
+      },
+      pedals: {
+        brand: 'Tama',
+        model: 'Tama Iron Cobra 900 Rolling Glide',
+        description: "Abe's Iron Cobra pedal gives him a smooth, controllable feel suited to groove-based playing rather than extreme speed — consistent response whether he's playing a whisper-quiet ghost note or a full-force backbeat.",
+        alternative: "Tama Speed Cobra or Pearl Eliminator for a similar direct-feel single pedal"
+      },
+      sticks: {
+        brand: 'Zildjian',
+        model: 'Zildjian Abe Cunningham Artist Series',
+        specs: 'Balanced weight, custom tip shape for cymbal articulation',
+        description: "Abe's signature stick is built for groove playing — balanced enough for control at low volumes, with enough heft for power when a song demands it.",
+        alternative: "Vic Firth American Classic 5A or Zildjian Dennis Chambers for a similar balanced feel"
+      },
+      heads: {
+        kick: 'Evans EMAD (batter), Evans EQ3 (resonant)',
+        snare: 'Evans G2 Coated (batter), Evans Hazy 300 (resonant)',
+        toms: 'Evans G2 Coated (batter), Evans G1 Clear (resonant)',
+        resonant: 'Evans G1 Clear'
+      }
+    },
+    tuning: {
+      title: "Tuning for Dynamic Range",
+      overview: "Abe tunes for sensitivity across the widest possible dynamic range — every drum needs to register a barely-there ghost note as clearly as a full-force hit, since his songs move between both extremes constantly.",
+      kickDrum: {
+        tension: "Medium",
+        muffling: "Moderate — Evans EMAD system",
+        description: "The kick is tuned for a punchy, focused low end that sits with the bass guitar rather than dominating it — Deftones' low-end synergy depends on the kick and bass working as one instrument.",
+        tip: "Use the EMAD's interchangeable foam ring to dial in just enough muffling for focus without killing the drum's natural resonance."
+      },
+      snare: {
+        tension: "Medium",
+        muffling: "Minimal — light gel if needed for recording",
+        description: "The deep steel S.L.P. snare rewards moderate tension — tight enough for a cutting crack on backbeats, loose enough that ghost notes still speak clearly at near-silent volume.",
+        tip: "Tune the batter and resonant heads to closely matched pitches; a deep steel shell like this needs less tension than a shallow snare to find its sweet spot."
+      },
+      toms: {
+        tension: "Medium-low",
+        muffling: "None or minimal",
+        description: "Abe's toms are tuned open and resonant, supporting the melodic, atmospheric fills that connect his quiet and heavy sections without choking their natural sustain.",
+        tip: "Let the toms ring in the room before adding any muffling — atmosphere depends on natural resonance, not a dead, choked tone."
+      }
+    },
+    practice: {
+      title: "Building Cunningham's Dynamic Vocabulary",
+      exercises: [
+        {
+          name: "Whisper-to-Roar Dynamic Drill",
+          description: "Develop the full dynamic range Cunningham's playing depends on",
+          instructions: "Play a simple groove as quietly as possible for 8 bars, then gradually build volume over the next 8 bars until you reach full intensity. Focus on a smooth, controlled crescendo rather than sudden jumps.",
+          duration: "15 minutes daily",
+          goal: "Seamless, controlled dynamic builds without losing time or tempo"
+        },
+        {
+          name: "Cymbal Swell Practice",
+          description: "Master the signature cymbal-swell build technique from \"Digital Bath\"",
+          instructions: "Start a slow roll on a crash or ride cymbal at very low volume. Gradually increase speed and pressure over 8-16 bars, then release directly into a full groove on beat one of a new phrase.",
+          duration: "10 minutes daily",
+          goal: "A cymbal swell that builds convincing tension and resolves cleanly into the groove"
+        },
+        {
+          name: "Power Groove Endurance",
+          description: "Build the stamina behind Cunningham's high-velocity grooves like \"My Own Summer\"",
+          instructions: "Play a driving open hi-hat groove with backbeats for a full 4-minute song length without letting the tempo drift or the energy sag. Record yourself and check for consistency start to finish.",
+          duration: "10 minutes, 3x per week",
+          goal: "Sustained groove intensity across a full song without fatigue-driven tempo loss"
+        }
+      ],
+      commonMistakes: [
+        "Filling every space instead of trusting silence as a rhythmic tool",
+        "Rushing dynamic builds instead of letting tension develop gradually",
+        "Losing tempo consistency during long high-velocity power grooves",
+        "Playing ghost notes too loud — they should be felt, not heard"
+      ]
+    },
+    videos: [
+      {
+        title: "'Digital Bath' - Deftones - Drum Cover (Abe Cunningham)",
+        url: "https://www.youtube.com/watch?v=W4nrEMKNk3U",
+        description: "Full-song drum cover highlighting Abe Cunningham's dynamic restraint and cymbal swell on Digital Bath"
+      },
+      {
+        title: "'My Own Summer (Shove It)' - DEFTONES - Drum Cover (Abe Cunningham)",
+        url: "https://www.youtube.com/watch?v=ABVo1X9Jmho",
+        description: "Full-song drum cover of Abe Cunningham's explosive power groove on My Own Summer"
+      }
+    ],
+    budgetSetups: {
+      budget: {
+        price: "$950",
+        label: "Starter Setup",
+        kit: "Tama Imperialstar ($650)",
+        cymbals: "Zildjian Planet Z Pack ($180)",
+        pedals: "Tama Speed Cobra 250 ($120)",
+        sticks: "Vic Firth American Classic 5A ($10)",
+        notes: "Tama's entry-level Imperialstar shares brand DNA with Abe's higher-end kit. Focus on dynamics over gear at this level."
+      },
+      mid: {
+        price: "$2,800",
+        label: "Intermediate Setup",
+        kit: "Tama Superstar Classic ($1,600)",
+        cymbals: "Zildjian A Custom partial set ($900)",
+        pedals: "Tama Iron Cobra 200 ($250)",
+        sticks: "Vic Firth American Classic 5A ($10)",
+        notes: "A partial A Custom set — hi-hats and one crash — gets close to Abe's bright, articulate cymbal voice."
+      },
+      pro: {
+        price: "$5,000+",
+        label: "Professional Setup",
+        kit: "Tama Starclassic Maple/Bubinga ($2,800+)",
+        cymbals: "Full Zildjian A Custom / K Custom hybrid set ($1,600+)",
+        pedals: "Tama Iron Cobra 900 Rolling Glide ($350)",
+        snare: "Tama S.L.P. Big Black Steel ($350)",
+        heads: "Full Evans setup ($200)",
+        notes: "Studio and touring-ready setup matching Abe's current Deftones rig."
+      }
+    },
+    faq: [
+      {
+        question: "What drum kit does Abe Cunningham play?",
+        answer: "Abe Cunningham plays a Tama Starclassic Maple/Bubinga kit with a compact configuration: a single 22\" x 18\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. He's been a long-time Tama endorser, valuing the kit's punchy attack and durability for touring."
+      },
+      {
+        question: "What snare does Abe Cunningham use?",
+        answer: "Abe uses a Tama S.L.P. Big Black Steel snare at 14\" x 8\" — a deep steel-shell drum chosen for its powerful crack and cut through Deftones' heavier sections, while still responding sensitively to his quiet ghost notes."
+      },
+      {
+        question: "What is the cymbal-swell technique Abe Cunningham is known for?",
+        answer: "It's a build technique where Abe rolls on a ride or crash cymbal, gradually increasing speed and pressure to add orchestral tension before releasing into a full groove — most famously heard in the build sections of \"Digital Bath\" from White Pony."
+      },
+      {
+        question: "What cymbals does Abe Cunningham use?",
+        answer: "Abe plays a hybrid Zildjian setup: 14\" A New Beat hi-hats, 16\" and 18\" A Custom crashes, an 18\" A Custom China, and a 21\" K Custom ride. The bright A Custom cymbals handle attack while the darker K Custom ride provides atmospheric wash."
+      },
+      {
+        question: "How does Abe Cunningham build dynamics in Deftones songs?",
+        answer: "By treating restraint as a compositional tool — playing near-silent verses that gradually build tension, then releasing into full power at the precise moment a song demands it, as heard on tracks like \"Digital Bath\" and \"Passenger.\" He rarely plays at one consistent volume throughout a song."
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/abe-cunningham',
+      similarDrummers: ['Shannon Larkin', 'Jay Weinberg', 'John Otto'],
+      relatedGuides: ['how-to-sound-like-shannon-larkin', 'how-to-sound-like-jay-weinberg'],
+      gearPages: ['/gear/drums', '/brands/tama', '/brands/zildjian']
+    },
+    licksUrl: '/drummers/abe-cunningham/licks',
+    relatedArticles: [
+      { slug: 'whats-in-abe-cunninghams-kit', label: "What's In Abe Cunningham's Kit: Deftones Drummer Gear Breakdown" },
+      { slug: 'white-pony-drum-setup', label: 'White Pony — Deftones Drum Setup' },
+      { slug: 'around-the-fur-drum-setup', label: 'Around the Fur — Deftones Drum Setup' }
+    ]
+  },
 };
 
 // ================================

@@ -5863,6 +5863,281 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['abe cunningham drum setup cost', 'deftones drum kit price', 'pearl custom series price', 'abe cunningham gear cost today', 'white pony drum kit price'],
     },
   },
+
+  // ==========================================
+  // GEORGE KOLLIAS - 2005 Annihilation of the Wicked Era
+  // Pearl Reference Series Setup
+  // Issue #2549: SEO batch — gear price history batch 19b
+  // ==========================================
+  'george-kollias': {
+    slug: 'george-kollias',
+    name: 'George Kollias',
+    band: 'Nile',
+    iconicYear: 2005,
+    era: 'Annihilation of the Wicked Era',
+    albumReference: 'Annihilation of the Wicked (2005)',
+    profileImage: '/images/drummers/george-kollias.webp',
+
+    summary: "George Kollias's 2005 setup behind Nile's Annihilation of the Wicked marks the start of extreme metal's most technically demanding endorsement relationship — the moment Kollias, fresh off building his blast-beat vocabulary on budget Tama kits in the Greek underground, joined Nile and received his first Pearl Reference Series kit. Paired with a Pearl Free-Floating Steel snare, a Paiste Signature Series cymbal spread, and the Tama Iron Cobra double pedal that has anchored his technique for two decades, the complete rig cost approximately $9,000 in 2005 dollars, equivalent to roughly $15,100 today after inflation. Kollias's gear evolved steadily from there — upgrading to all-maple Pearl Reference Pure shells and launching his first Vic Firth signature stick for Those Whom the Gods Detest (2009), then adding ddrum Acoustic Pro triggers to his kick drums for the modern Vile Nilotic Rites (2019) era. His current setup, refined across 20+ years with Nile, retains the same Pearl/Paiste/Tama/Vic Firth core that has made him the most precisely calibrated blast-beat drummer in death metal, now valued at approximately $18,000 at current retail — a rig built entirely around sustaining 240+ BPM blast beats without losing a single note of clarity.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Reference Series',
+        model: 'Maple/birch hybrid shell pack',
+        specs: '22" kick, 10"/12"/14"/16" toms',
+        originalPrice: 4700,
+        year: 2005,
+        source: 'Pearl Reference Series catalog MSRP 2005',
+        notes: "First Pearl endorsement after joining Nile — the Reference Series maple/birch hybrid delivered the punch and clarity Nile's dense, Egyptian-themed arrangements demanded.",
+        vintageValue2026: 3400,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure (Current Configuration)',
+          price: 5800,
+          link: 'pearl-reference-pure-kollias',
+        },
+      },
+      snare: {
+        item: 'Pearl Free-Floating Steel 14"x6.5"',
+        model: 'Free-floating steel shell',
+        specs: '14"x6.5" steel shell, free-floating mount',
+        originalPrice: 500,
+        year: 2005,
+        source: 'Pearl snare catalog pricing 2005',
+        notes: "Explosive attack essential for Kollias's ultra-fast snare work between blast beat patterns.",
+        vintageValue2026: 420,
+        modernEquivalent: {
+          item: 'Pearl Free-Floating Steel 14"x6.5" (Current)',
+          price: 550,
+          link: 'pearl-free-floating-steel-snare-kollias',
+        },
+      },
+      cymbals: {
+        item: 'Paiste Signature Series',
+        model: 'Full Signature configuration',
+        specs: '14" Hi-Hats, 17"/18" Crashes, 20" Ride, 18" China',
+        originalPrice: 3000,
+        year: 2005,
+        source: 'Paiste Signature Series catalog pricing 2005',
+        notes: "Upgraded to Paiste Signature for the professional touring brightness and cut Nile's dense arrangements required.",
+        vintageValue2026: 2400,
+        modernEquivalent: {
+          item: 'Paiste Signature Series (Full Current Config)',
+          price: 3400,
+          link: 'paiste-signature-full-set-kollias',
+        },
+      },
+      hardware: {
+        item: 'Tama Iron Cobra HP900 Double Pedal',
+        model: 'Power Glide double pedal + stands',
+        specs: 'Tama Iron Cobra HP900 double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 700,
+        year: 2005,
+        source: 'Tama hardware catalog pricing 2005',
+        notes: "The Iron Cobra pedal Kollias built his blast beat technique around in the Greek underground — carried unchanged into his Pearl-kit era with Nile.",
+        vintageValue2026: 480,
+        modernEquivalent: {
+          item: 'Tama Iron Cobra HP900 + ddrum Acoustic Pro Triggers',
+          price: 950,
+          link: 'tama-iron-cobra-ddrum-triggers-kollias',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B',
+        model: 'Standard hickory, pre-signature era',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 2005,
+        source: 'Standard retail pricing 2005',
+        notes: "Off-the-shelf sticks before his 2009 signature model was developed.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth George Kollias Signature',
+          price: 14,
+          link: 'vic-firth-george-kollias-signature',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Powerstroke 3',
+        model: 'Emperor toms, Powerstroke 3 kick',
+        specs: 'Double-ply Emperor tom batters, Powerstroke 3 kick batter',
+        originalPrice: 92,
+        year: 2005,
+        source: 'Remo retail pricing 2005',
+        notes: "Double-ply configuration for durability and focused kick punch at extreme speeds.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor / Powerstroke 3 Pro Pack',
+          price: 130,
+          link: 'remo-emperor-powerstroke-pack-kollias',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 9000,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 6700,
+      modernEquivalentTotal: 10844,
+    },
+
+    priceEvolution: [
+      { year: 2005, price: 9000, label: 'Original Purchase', event: 'Joins Nile, Annihilation of the Wicked recording' },
+      { year: 2009, price: 14000, label: 'Those Whom the Gods Detest era', event: 'Upgrade to Pearl Reference Pure all-maple shells, first Vic Firth signature sticks launched' },
+      { year: 2015, price: 18000, label: 'Vile Nilotic Rites era', event: 'ddrum Acoustic Pro triggers integrated for live consistency' },
+      { year: 2026, price: 15100, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2005 Pearl Reference setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Reference Series Catalog', year: 2005, type: 'catalog' },
+      { title: 'Drumhead Magazine — George Kollias Interview', year: 2006, type: 'interview' },
+      { title: 'Modern Drummer — George Kollias Interview', year: 2010, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Pearl Reference Series', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "George Kollias Drum Setup Cost | Nile Gear Price History",
+      description: "How much was George Kollias's Annihilation of the Wicked-era drum kit worth? Original Pearl Reference setup ~$9,000 in 2005, inflation-adjusted to ~$15,100 today. Complete gear breakdown across his 20-year Nile tenure.",
+      keywords: ['george kollias drum setup cost', 'nile drum kit price', 'pearl reference series price', 'george kollias gear cost today', 'annihilation of the wicked drum kit price'],
+    },
+  },
+
+  // ==========================================
+  // JASKA RAATIKAINEN - 2000 Follow the Reaper Era
+  // Pearl Masters Premium Maple Setup
+  // Issue #2549: SEO batch — gear price history batch 19b
+  // ==========================================
+  'jaska-raatikainen': {
+    slug: 'jaska-raatikainen',
+    name: 'Jaska Raatikainen',
+    band: 'Children of Bodom',
+    iconicYear: 2000,
+    era: 'Follow the Reaper Era',
+    albumReference: 'Follow the Reaper (2000)',
+    profileImage: '/images/drummers/jaska-raatikainen.webp',
+
+    summary: "Jaska Raatikainen's 2000 setup behind Children of Bodom's Follow the Reaper — widely considered the band's defining album — marks the moment his developing Pearl endorsement solidified into the flagship Pearl Masters Premium Maple kit and Pearl Eliminator double pedal that would anchor his sound for the rest of the band's 26-year career. Paired with a Zildjian A Custom cymbal setup and newly adopted Vic Firth American Classic 5A sticks, the complete rig cost approximately $4,500 in 2000 dollars, equivalent to roughly $8,560 today after inflation. Raatikainen's gear barely changed after that — he added a Zildjian K Custom ride for extra atmosphere during the mainstream breakthrough of Are You Dead Yet? (2005) and Blooddrunk (2008), and carried the same Pearl Masters Premium Maple/Eliminator core, refined but essentially unchanged, all the way through Hexed (2019), Children of Bodom's final album before the band's 2019 dissolution. It's one of gear price history's steadiest stories: a $4,500 setup adopted at 22 that Raatikainen trusted enough to never seriously replace across a ten-album, 26-year catalog.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Masters Premium Maple',
+        model: 'Six-ply all-maple shell pack',
+        specs: '22"x18" kick (x2), 10"/12" rack toms, 14"/16" floor toms',
+        originalPrice: 2400,
+        year: 2000,
+        source: 'Pearl Masters Premium Maple catalog MSRP 2000',
+        notes: "Upgrade from a developing Pearl endorsement to the flagship Masters line — the focused, projecting tone Follow the Reaper's technical arrangements required.",
+        vintageValue2026: 1800,
+        modernEquivalent: {
+          item: 'Pearl Masters Maple Complete (Current)',
+          price: 3200,
+          link: 'pearl-masters-maple-complete-raatikainen',
+        },
+      },
+      snare: {
+        item: 'Pearl Masters 14"x5.5" Maple',
+        model: 'All-maple shell',
+        specs: '14"x5.5" maple shell',
+        originalPrice: 350,
+        year: 2000,
+        source: 'Pearl Masters snare catalog pricing 2000',
+        notes: "Balances warmth with the cut needed to sit against Alexi Laiho's neoclassical guitar runs.",
+        vintageValue2026: 300,
+        modernEquivalent: {
+          item: 'Pearl Masters Maple 14"x5.5" (Current)',
+          price: 420,
+          link: 'pearl-masters-maple-snare-raatikainen',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Custom',
+        model: 'Hi-hats and crashes, developing K Custom ride relationship',
+        specs: '14" A Custom Hi-Hats, 16"/18" A Custom Crashes, 20" Ride',
+        originalPrice: 1200,
+        year: 2000,
+        source: 'Zildjian A Custom catalog pricing 2000',
+        notes: "Brighter, faster-responding cymbals for Raatikainen's melodic fill work — upgraded from the band's early A Series setup.",
+        vintageValue2026: 900,
+        modernEquivalent: {
+          item: 'Zildjian A Custom / K Custom Mix (Current)',
+          price: 1800,
+          link: 'zildjian-a-custom-k-custom-mix-raatikainen',
+        },
+      },
+      hardware: {
+        item: 'Pearl Eliminator Double Bass Pedal',
+        model: 'Interchangeable cam system',
+        specs: 'Pearl Eliminator double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 450,
+        year: 2000,
+        source: 'Pearl hardware catalog pricing 2000',
+        notes: 'Dual-chain drive consistency that sustained the complex double-kick patterns on tracks like "Needled 24/7" and "Sixpounder."',
+        vintageValue2026: 320,
+        modernEquivalent: {
+          item: 'Pearl Eliminator Redline Double Pedal',
+          price: 550,
+          link: 'pearl-eliminator-redline-raatikainen',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5A',
+        model: 'Lighter hickory taper',
+        specs: 'Hickory, 5A diameter',
+        originalPrice: 8,
+        year: 2000,
+        source: 'Standard retail pricing 2000',
+        notes: "Newly adopted 5A model suited to the speed and articulation his technical playing required.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5A (Current)',
+          price: 10,
+          link: 'vic-firth-5a-raatikainen',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Ambassador',
+        model: 'Emperor toms, Ambassador snare',
+        specs: 'Coated Emperor tom batters, coated Ambassador snare batter',
+        originalPrice: 92,
+        year: 2000,
+        source: 'Remo retail pricing 2000',
+        notes: "Durable heads matched to the band's relentless early-2000s touring schedule.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor / Ambassador Pro Pack',
+          price: 100,
+          link: 'remo-emperor-ambassador-pack-raatikainen',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 4500,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 3320,
+      modernEquivalentTotal: 6080,
+    },
+
+    priceEvolution: [
+      { year: 2000, price: 4500, label: 'Original Purchase', event: 'Follow the Reaper recording, Pearl Masters Premium Maple and Eliminator pedal adopted' },
+      { year: 2003, price: 4700, label: 'Hate Crew Deathroll era', event: "Band's commercial peak, setup proven across relentless touring" },
+      { year: 2008, price: 5000, label: 'Blooddrunk era', event: 'Full Zildjian A Custom/K Custom cymbal setup established' },
+      { year: 2019, price: 5200, label: 'Hexed era', event: "Final Children of Bodom album before the band's 2019 dissolution" },
+      { year: 2026, price: 8560, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2000 Pearl Masters Premium Maple setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Masters Premium Maple Catalog', year: 2000, type: 'catalog' },
+      { title: 'Rhythm Magazine — Jaska Raatikainen Interview', year: 2001, type: 'interview' },
+      { title: 'Modern Drummer Magazine — Jaska Raatikainen Interview', year: 2019, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Pearl Masters Premium Maple', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Jaska Raatikainen Drum Setup Cost | Children of Bodom Gear Price History",
+      description: "How much was Jaska Raatikainen's Follow the Reaper-era drum kit worth? Original Pearl Masters Premium Maple setup ~$4,500 in 2000, inflation-adjusted to ~$8,560 today. Complete gear breakdown across his 26-year Children of Bodom career.",
+      keywords: ['jaska raatikainen drum setup cost', 'children of bodom drum kit price', 'pearl masters premium maple price', 'jaska raatikainen gear cost today', 'follow the reaper drum kit price'],
+    },
+  },
 };
 
 // ==========================================

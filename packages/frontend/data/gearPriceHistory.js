@@ -5586,6 +5586,284 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['tim yeung fastest drummer gear', 'hate eternal drummer setup', 'tim yeung drum kit cost', 'i monarch drums', 'tim yeung 2005 setup'],
     },
   },
+
+  // ==========================================
+  // ABE CUNNINGHAM - 2000 White Pony Era
+  // Issue #3219: Gear Price History (batch 29)
+  // Pearl Custom / Zildjian K Setup
+  // ==========================================
+  'abe-cunningham': {
+    slug: 'abe-cunningham',
+    name: 'Abe Cunningham',
+    band: 'Deftones',
+    iconicYear: 2000,
+    era: 'White Pony Era',
+    albumReference: 'White Pony (2000)',
+    profileImage: '/images/drummers/abe-cunningham.webp',
+
+    summary: "Abe Cunningham's 2000 setup behind Deftones' White Pony documents the moment his drumming shifted from nu-metal aggression to something more spacious and atmospheric. Cunningham switched from the ddrum kit he'd used since the band's 1988 Sacramento founding to a Pearl Custom Series maple shell pack, paired with a Pearl Free-Floating Brass snare and darker Zildjian K Series cymbals in place of the brighter A Custom set from Around the Fur — a deliberate move toward warmth and dynamic range as the band's songwriting grew more textured. White Pony went on to win the Grammy Award for Best Metal Performance ('Elite') in 2001 and is widely regarded as Deftones' artistic high-water mark. The complete rig cost approximately $7,898 in 2000 dollars, equivalent to roughly $15,025 in 2026 after CPI adjustment.\n\nWhat makes the White Pony kit significant is how directly the gear served the songwriting shift. The Pearl Custom maple shells gave Cunningham a rounder, more resonant tone than the ddrum kit's punchier attack, letting tracks like 'Digital Bath' and 'Teenager' breathe in a way nu-metal drumming rarely allowed. The Pearl Free-Floating Brass snare's free-floating lug system maximized resonance and sensitivity, supporting a dynamic range that stretched from near-silent verses to full-volume choruses without retuning. Paired with a Pearl Eliminator double pedal for precise, controllable footwork, the setup let Cunningham prioritize space and groove over sheer force — a philosophy he's carried through every subsequent Deftones era.\n\nCunningham didn't stay on Pearl for long: he switched to a Gretsch USA Custom kit for the Saturday Night Wrist and Diamond Eyes years (2003–2012) before returning to Pearl with the flagship Reference Series for Koi No Yokan, Gore, and Ohms. But the White Pony configuration — the kit that turned Deftones from nu-metal contenders into critical darlings — remains the most searched and most historically cited setup of his 35-plus year career. A $7,898 investment in 2000 now represents roughly $15,025 in 2026 purchasing power, tracking both general inflation and the collector interest in vintage Pearl Custom shells from alternative metal's turn-of-the-millennium peak.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Custom Series',
+        model: 'Maple shell pack',
+        specs: '22"x18" kick, 10"x8"/12"x10"/14"x12" rack toms, 16"x16" floor tom',
+        originalPrice: 3200,
+        year: 2000,
+        source: 'Pearl Custom Series catalog MSRP 2000, Modern Drummer archive estimates',
+        notes: "Switched from ddrum to Pearl Custom for White Pony — the maple shells gave Cunningham a warmer, more resonant tone suited to the album's atmospheric arrangements and Terry Date's layered production.",
+        vintageValue2026: 4200,
+        modernEquivalent: {
+          item: 'Pearl Reference Series (current Cunningham kit)',
+          price: 4800,
+          link: 'pearl-reference-series-drums',
+        },
+      },
+      snare: {
+        item: 'Pearl Free-Floating Brass 14"x6.5"',
+        model: 'Free-floating brass shell',
+        specs: '14"x6.5" brass shell, free-floating lug system',
+        originalPrice: 550,
+        year: 2000,
+        source: 'Pearl Free-Floating snare catalog pricing 2000',
+        notes: "Warm, full brass tone that supported White Pony's dynamic range — from whisper-quiet passages to full-volume peaks — without needing to retune between sections.",
+        vintageValue2026: 800,
+        modernEquivalent: {
+          item: 'Pearl Free-Floating Brass 14"x6.5" (current)',
+          price: 650,
+          link: 'pearl-free-floating-brass-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian K Series',
+        model: 'Dark K Series configuration',
+        specs: '14" K Hi-Hats, 16"/18" K Crashes, 20" K Ride',
+        originalPrice: 2850,
+        year: 2000,
+        source: 'Zildjian K Series catalog pricing 2000',
+        notes: "Switched from the brighter A Custom cymbals of the Around the Fur era to darker, more complex Zildjian K — suited to White Pony's textured, atmospheric sound design.",
+        vintageValue2026: 3400,
+        modernEquivalent: {
+          item: 'Zildjian K Custom Dark Series (current Cunningham setup)',
+          price: 3200,
+          link: 'zildjian-k-custom-dark-series',
+        },
+      },
+      hardware: {
+        item: 'Pearl Eliminator Double Pedal + Hardware',
+        model: 'Multi-cam double pedal, stands, throne',
+        specs: 'Pearl Eliminator double pedal, hi-hat stand, 4 boom cymbal stands, snare stand, throne',
+        originalPrice: 1200,
+        year: 2000,
+        source: 'Pearl hardware catalog pricing 2000',
+        notes: "Precise, adjustable double pedal that allowed the subtle foot work White Pony's nuanced arrangements required, replacing the simpler DW 5000 from the nu-metal years.",
+        vintageValue2026: 1500,
+        modernEquivalent: {
+          item: 'Pearl Demon Drive + hardware pack',
+          price: 1400,
+          link: 'pearl-demon-drive-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5A',
+        model: 'American Classic 5A',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 2000,
+        source: 'Standard retail price',
+        notes: "Switched to lighter 5A from the heavier 5B of the nu-metal years — more appropriate for the dynamic, atmospheric drumming White Pony's quieter passages required.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vater 5A (current)',
+          price: 12,
+          link: 'vater-5a',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Coated Ambassador',
+        model: 'Emperor toms, coated snare batter',
+        specs: 'Remo Emperor clear (toms), Coated Ambassador (snare batter)',
+        originalPrice: 90,
+        year: 2000,
+        source: 'Remo professional pricing 2000',
+        notes: "Coated snare head for warmer, more controlled attack across White Pony's full dynamic range.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor Pro Pack',
+          price: 120,
+          link: 'remo-emperor-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 7898,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 9900,
+      modernEquivalentTotal: 10182,
+    },
+
+    priceEvolution: [
+      { year: 1995, price: 4000, label: 'Adrenaline era', event: 'Deftones major label debut; ddrum kit and Zildjian A Series established' },
+      { year: 1997, price: 5500, label: 'Around the Fur era', event: 'Nu-metal breakthrough; expanded ddrum setup and A Custom cymbals' },
+      { year: 2000, price: 7898, label: 'Original Purchase', event: 'White Pony recorded — switch to Pearl Custom and Zildjian K' },
+      { year: 2001, price: 8200, label: 'Grammy win', event: "White Pony wins Best Metal Performance for 'Elite'" },
+      { year: 2010, price: 10500, label: 'Diamond Eyes era', event: 'Gretsch USA Custom kit era in full swing' },
+      { year: 2020, price: 13800, label: 'Ohms era', event: 'Pearl Reference Series and Roland SPD-SX electronics established' },
+      { year: 2026, price: 15025, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2000 setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Custom Series Catalog', year: 2000, type: 'catalog' },
+      { title: 'Modern Drummer — Abe Cunningham Interview', year: 2001, type: 'interview' },
+      { title: 'Zildjian Artist Profiles — K Series Era', year: 2000, type: 'manufacturer' },
+      { title: 'Reverb Price Guide — Vintage Pearl Custom Series', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Abe Cunningham 2000 Deftones Drum Setup Cost | White Pony Era Gear Prices",
+      description: "How much did Abe Cunningham's 2000 Deftones drum kit cost? Original Pearl Custom/Zildjian K setup ~$7,898, inflation-adjusted to ~$15,025 today. Complete White Pony-era gear breakdown.",
+      keywords: ['abe cunningham drum kit cost', 'deftones drummer gear history', 'white pony drums cost', 'abe cunningham 2000 setup', 'deftones drum kit cost'],
+    },
+  },
+
+  // ==========================================
+  // JAY WEINBERG - 2019 We Are Not Your Kind Era
+  // Issue #3219: Gear Price History (batch 29)
+  // SJC Custom / Zildjian K Custom Setup
+  // ==========================================
+  'jay-weinberg': {
+    slug: 'jay-weinberg',
+    name: 'Jay Weinberg',
+    band: 'Slipknot',
+    iconicYear: 2019,
+    era: 'We Are Not Your Kind Era',
+    albumReference: 'We Are Not Your Kind (2019)',
+    profileImage: '/images/drummers/jay-weinberg.webp',
+
+    summary: "Jay Weinberg's 2019 setup behind Slipknot's We Are Not Your Kind marks the point where his rig fully matured beyond the production-line Pearl Reference Pure he debuted on .5: The Gray Chapter (2014). By We Are Not Your Kind — Slipknot's chart-topping, critically acclaimed fifth album — Weinberg had moved to a boutique SJC Custom Drums shell pack finished to match the band's visual identity, switched his snare to a Tama SLP for a more focused crack, and traded the brighter Zildjian A series for the darker, more complex K Custom series. The complete rig cost approximately $6,592 in 2019 dollars, equivalent to roughly $8,446 in 2026 after CPI adjustment.\n\nThe gear shift tracked directly with the album's heavier, more atmospheric production. The custom-built SJC kit's maple shells, finished in a Slipknot-themed wrap, gave Weinberg a fuller low end than the Pearl production shells he'd used on .5: The Gray Chapter, while the Tama SLP snare's steel/brass hybrid construction delivered the immediate attack needed to register the ghost notes he'd developed from his hardcore touring background. The K Custom cymbal set — 14\" hi-hats, 17\"/19\" dark crashes, a 20\" ride, 18\" China, and 10\" splash — replaced the bright A series entirely, giving tracks like 'Unsainted' and 'Solway Firth' a weightier low-mid presence that matched the record's darker tone. Vater became his stick brand during this era, replacing the Vic Firth signature model from the Gray Chapter years.\n\nWeinberg carried the SJC/K Custom platform through The End, So Far (2022) with added Roland trigger integration before his December 2023 departure from Slipknot. He took the same SJC foundation into Suicidal Tendencies, building it out around his first full signature snare — the SJC 'The Crucible' — and an expanded Zildjian arsenal. But the We Are Not Your Kind configuration remains the setup most associated with his nine-year Slipknot tenure and the most searched entry point for 'jay weinberg slipknot drum kit' queries. A $6,592 investment in 2019 now represents roughly $8,446 in 2026 purchasing power.",
+
+    setup: {
+      drums: {
+        item: 'SJC Custom Drums',
+        model: 'Custom Slipknot-themed shell pack, maple',
+        specs: 'Double 22"x18" bass drums, four rack toms, two floor toms',
+        originalPrice: 3000,
+        year: 2019,
+        source: 'SJC Custom Drums boutique pricing 2019, Modern Drummer archive estimates',
+        notes: "Switched from production Pearl Reference Pure shells to a boutique, hand-built SJC kit finished to match Slipknot's stage aesthetic — a hallmark of the We Are Not Your Kind era.",
+        vintageValue2026: 3600,
+        modernEquivalent: {
+          item: 'SJC Custom Drums (OBEY x ST Collaboration Kit, current Weinberg kit)',
+          price: 4200,
+          link: 'sjc-custom-drums-collaboration',
+        },
+      },
+      snare: {
+        item: 'Tama SLP (Sound Lab Project) 14"x6.5"',
+        model: 'Steel/brass SLP model',
+        specs: '14"x6.5" steel/brass hybrid shell',
+        originalPrice: 450,
+        year: 2019,
+        source: 'Tama SLP catalog pricing 2019',
+        notes: "Boutique Tama snare chosen for immediate attack and controlled sustain — sensitive enough to register the ghost notes Weinberg developed from his hardcore background.",
+        vintageValue2026: 550,
+        modernEquivalent: {
+          item: 'SJC Jay Weinberg "The Crucible" 14"x6.5" (current signature snare)',
+          price: 750,
+          link: 'sjc-the-crucible-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian K Custom Series',
+        model: 'Dark configuration',
+        specs: '14" K Custom Hi-Hats, 17"/19" K Custom Dark Crashes, 20" K Custom Ride, 18" K Custom China, 10" Splash',
+        originalPrice: 2100,
+        year: 2019,
+        source: 'Zildjian K Custom catalog pricing 2019',
+        notes: "Darker, more complex B20 alloy replacing the brighter A series — matched to We Are Not Your Kind's heavier, more atmospheric sound.",
+        vintageValue2026: 2500,
+        modernEquivalent: {
+          item: 'Zildjian A New Beat / A Custom / K Custom / K China blend (current setup)',
+          price: 2800,
+          link: 'zildjian-jay-weinberg-current-set',
+        },
+      },
+      hardware: {
+        item: 'DW 9000 Series Double Bass Pedal + Hardware',
+        model: 'Dual-chain drive double pedal, stands',
+        specs: 'DW 9000 double bass pedal, hi-hat stand, boom stands, throne',
+        originalPrice: 950,
+        year: 2019,
+        source: 'DW hardware catalog pricing 2019',
+        notes: 'Carried forward from the Gray Chapter era — no change to his core pedal setup, a consistent platform across his Slipknot tenure.',
+        vintageValue2026: 1100,
+        modernEquivalent: {
+          item: 'DW 9000 Series Double Pedal + DW 9100 Throne (current)',
+          price: 1300,
+          link: 'dw-9000-double-pedal-9100-throne',
+        },
+      },
+      sticks: {
+        item: 'Vater 5A',
+        model: 'American hickory',
+        specs: 'Hickory, wood tip',
+        originalPrice: 7,
+        year: 2019,
+        source: 'Standard retail price',
+        notes: 'Switched from Vic Firth to Vater during this era, ahead of his own signature model that would follow with Suicidal Tendencies.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vater Jay Weinberg 908 Signature (current)',
+          price: 14,
+          link: 'vater-jay-weinberg-908-signature',
+        },
+      },
+      heads: {
+        item: 'Evans Hybrid / G2 Coated',
+        model: 'Balanced attack and warmth batters',
+        specs: 'Evans Hybrid (kick), G2 Coated (toms and snare)',
+        originalPrice: 85,
+        year: 2019,
+        source: 'Evans professional pricing 2019',
+        notes: "Upgraded head models from the EC2/EMAD configuration of the Gray Chapter era, matched to We Are Not Your Kind's production.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Black Chrome (current)',
+          price: 110,
+          link: 'evans-black-chrome-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 6592,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 7750,
+      modernEquivalentTotal: 9174,
+    },
+
+    priceEvolution: [
+      { year: 2013, price: 4500, label: 'Gray Chapter era', event: 'Joins Slipknot; debuts on Pearl Reference Pure' },
+      { year: 2019, price: 6592, label: 'Original Purchase', event: 'We Are Not Your Kind recorded — switch to SJC Custom and Zildjian K Custom' },
+      { year: 2022, price: 7300, label: 'The End, So Far era', event: 'Roland trigger integration added for hybrid live show' },
+      { year: 2023, price: 8500, label: 'Suicidal Tendencies era', event: 'Departs Slipknot; joins Suicidal Tendencies with SJC "The Crucible" signature snare' },
+      { year: 2026, price: 8446, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2019 setup' },
+    ],
+
+    sources: [
+      { title: 'SJC Custom Drums Boutique Pricing', year: 2019, type: 'catalog' },
+      { title: 'DRUM! Magazine — Jay Weinberg Interview', year: 2019, type: 'interview' },
+      { title: 'Zildjian Artist Profiles — K Custom Era', year: 2019, type: 'manufacturer' },
+      { title: 'Reverb Price Guide — SJC Custom Drums', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Jay Weinberg 2019 Slipknot Drum Setup Cost | We Are Not Your Kind Era Gear Prices",
+      description: "How much did Jay Weinberg's 2019 Slipknot drum kit cost? Original SJC/Zildjian K Custom setup ~$6,592, inflation-adjusted to ~$8,446 today. Complete We Are Not Your Kind-era gear breakdown.",
+      keywords: ['jay weinberg drum kit cost', 'slipknot drummer gear history', 'we are not your kind drums cost', 'jay weinberg 2019 setup', 'jay weinberg slipknot drum kit'],
+    },
+  },
 };
 
 // ==========================================

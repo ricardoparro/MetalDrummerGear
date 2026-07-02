@@ -374,6 +374,9 @@ const gearPriceHistoryDrummers = [
   'raymond-herrera', // Demanufacture era (1995) — Issue #2445
   'kevin-talley',    // Destroy the Opposition era (2000) — Issue #2445
   'tim-yeung',       // I, Monarch era (2005) — Issue #2445
+  'scott-travis',    // Painkiller era (1990) — Issue #2905 (previously missing from sitemap)
+  'abe-cunningham',  // White Pony era (2000) — Issue #3219
+  'jay-weinberg',    // We Are Not Your Kind era (2019) — Issue #3219
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

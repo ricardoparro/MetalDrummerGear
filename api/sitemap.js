@@ -256,6 +256,8 @@ const soundLikeGuides = [
   // Issue #2675: SEO batch 21 (re-scoped) — Raymond Herrera, Navene Koperweis
   { slug: 'how-to-sound-like-raymond-herrera', name: 'How to Sound Like Raymond Herrera' },
   { slug: 'how-to-sound-like-navene-koperweis', name: 'How to Sound Like Navene Koperweis' },
+  // Issue #2443: SoundLike guide — Daray (re-scoped from batch 18)
+  { slug: 'how-to-sound-like-daray', name: 'How to Sound Like Daray' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

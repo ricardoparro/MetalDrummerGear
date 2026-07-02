@@ -619,6 +619,17 @@ export function buildSitemapXml() {
     // Issue #558, #691: Drummer vs Drummer comparison pages (SEO play)
     { loc: '/vs', priority: '0.9', changefreq: 'weekly' },
     ...drummerComparisons.map(c => ({ loc: `/vs/${c.slug}`, priority: '0.7', changefreq: 'monthly' })),
+    // Issue #2389: curated /vs/ pages whose canonical slug the all-pairs generator above
+    // doesn't produce — either because a drummer (e.g. Sean Reinert) isn't in the `drummers`
+    // list, or because the generator always alphabetizes the pair while the curated slug
+    // doesn't (e.g. lars-ulrich-vs-charlie-benante, not charlie-benante-vs-lars-ulrich).
+    // Listed explicitly so sitemap.xml matches each page's actual canonical URL.
+    ...([
+      'sean-reinert-vs-martin-lopez',
+      'sean-reinert-vs-hannes-grossmann',
+      'brann-dailor-vs-sean-reinert',
+      'lars-ulrich-vs-charlie-benante',
+    ].map(slug => ({ loc: `/vs/${slug}`, priority: '0.7', changefreq: 'monthly' }))),
     // Issue #739: Signature Gear Spotlight pages
     ...signatureGearPages.map(sg => ({ loc: `/drummers/${sg.drummerSlug}/signature/${sg.gearSlug}`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #749: Signature Licks Database pages
@@ -782,12 +793,13 @@ export function buildSitemapXml() {
     // Issue #1795: high-value drummer comparison LLM files not in drummerComparisons data.
     // Hardcoded to match the 8 files shipped in public/llms/vs/ by this issue.
     // Issue #2101: 3 additional pairs added (art-cruz-vs-chris-adler, aquiles-priester-vs-jaska-raatikainen, matt-garstka-vs-mike-mangini).
+    // Issue #2389: lars-ulrich-vs-charlie-benante removed — now a curated drummerComparisons
+    // entry, so it's sourced via getAllDrummerComparisonSlugs() above instead (avoids a duplicate <loc>).
     ...([
       'tomas-haake-vs-george-kollias',
       'brann-dailor-vs-danny-carey',
       'pete-sandoval-vs-flo-mounier',
       'mike-portnoy-vs-mike-mangini',
-      'lars-ulrich-vs-charlie-benante',
       'vinnie-paul-vs-dave-lombardo',
       'travis-orbin-vs-matt-halpern',
       'pete-sandoval-vs-george-kollias',

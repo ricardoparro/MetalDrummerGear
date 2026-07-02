@@ -38,6 +38,8 @@ import { getAllQuotes } from '../quotes-data.js';
 import { GENRE_GEAR_GUIDES } from '../../packages/frontend/data/genreGearGuides.js';
 // Issue #2403: kit-level /gear/:brand/:series/drummers-using pages.
 import { DRUMMERS_BY_KIT } from '../../packages/frontend/data/drummersByKit.js';
+// Issue #3219: FAQPage schema for /drummers/:slug/gear-history pages.
+import { getGearPriceHistory, formatHistoryPrice } from '../../packages/frontend/data/gearPriceHistory.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -1886,6 +1888,22 @@ function getMetaForPath(pathname) {
     const [, slug] = gearHistoryMatch;
     const drummer = getDrummerBySlug(slug);
     if (drummer) {
+      // Issue #3219: FAQPage JSON-LD sourced from the drummer's price history entry.
+      const priceHistory = getGearPriceHistory(slug);
+      const faqSchema = priceHistory ? [
+        {
+          question: `How much does ${drummer.name}'s drum kit cost?`,
+          answer: `${drummer.name}'s ${priceHistory.era || `${priceHistory.iconicYear} era`} setup cost approximately ${formatHistoryPrice(priceHistory.totals.originalTotal)} when purchased in ${priceHistory.iconicYear}, equivalent to roughly ${formatHistoryPrice(priceHistory.totals.inflationAdjusted2026)} in today's dollars.`,
+        },
+        {
+          question: `What brand does ${drummer.name} use?`,
+          answer: `${drummer.name} plays a ${priceHistory.setup?.drums?.item || 'drum kit'} with ${priceHistory.setup?.cymbals?.item || 'signature cymbals'}. See the full component-by-component gear breakdown on MetalForge.`,
+        },
+        {
+          question: `Is ${drummer.name}'s setup affordable?`,
+          answer: `A modern equivalent of ${drummer.name}'s setup costs around ${formatHistoryPrice(priceHistory.totals.modernEquivalentTotal)} today, comparable to a professional-tier kit. See MetalForge for the full price breakdown by component.`,
+        },
+      ] : null;
       return {
         title: `${drummer.name} Drum Kit Evolution — Gear History & Price Timeline | ${SITE_NAME}`,
         description: `How ${drummer.name}'s drum kit and gear changed over the years. Era-by-era breakdown of kits, cymbals, and signature equipment with prices.`,
@@ -1897,6 +1915,7 @@ function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummers/${slug}` },
           { name: 'Gear History', url: `${BASE_URL}/drummers/${slug}/gear-history` },
         ],
+        faqSchema,
       };
     }
   }

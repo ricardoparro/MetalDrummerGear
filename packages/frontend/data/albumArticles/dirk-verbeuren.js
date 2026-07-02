@@ -934,6 +934,245 @@ export const articles = {
       "title": "The Album That Made the Seat Fully His Own",
       "content": "If \"Dystopia\" was Dirk Verbeuren proving he could fill Megadeth's drum throne under pressure, \"The Sick, the Dying... and the Dead!\" is the record that proved he belonged there permanently. Given two years and creative input rather than a two-week deadline, Verbeuren delivered performances — and, for the first time, songwriting contributions — that reflect a drummer fully integrated into the band's identity.\n\n**From Session Player to Songwriter:**\nThe jump from completing someone else's sessions on \"Dystopia\" to co-writing material on \"The Sick, the Dying... and the Dead!\" is the clearest evidence of how far Verbeuren's role evolved in six years. His own Tama signature snare, debuted on this record, is a similar marker — the difference between an artist playing an endorsed product and one whose name is on it.\n\n**Gear Evolution:**\nThe move to twin bass drums, an expanded cymbal setup spanning two Meinl lines, and a deeper tom configuration all point to a drummer with more creative latitude than he had on his Grammy-winning debut. None of it abandons the fundamentals — Tama drums, Meinl cymbals, Evans heads — that have anchored his sound since his Soilwork days.\n\n**Completing the Arc:**\nTogether, \"Dystopia\" and \"The Sick, the Dying... and the Dead!\" bookend Dirk Verbeuren's Megadeth studio output to date: a Grammy-winning arrival and a Grammy-nominated statement of ownership. For the album that started it all, see the [Dystopia Drum Setup article](/articles/dystopia-drum-setup). For his complete touring rig and career history, visit the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren)."
     }
+  },
+  "stabbing-the-drama-drum-setup": {
+    "slug": "stabbing-the-drama-drum-setup",
+    "albumTitle": "Stabbing the Drama",
+    "artist": "Soilwork",
+    "band": "Soilwork",
+    "drummer": "Dirk Verbeuren",
+    "drummerId": 22,
+    "relatedDrummerSlug": "dirk-verbeuren",
+    "year": 2005,
+    "genre": "Melodic Death Metal",
+    "label": "Nuclear Blast Records",
+    "studio": "Fascination Street Recordings & Dug-Out Studios, Örebro, Sweden",
+    "producer": "Jens Bogren & Daniel Bergstrand",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-02",
+    "dateModified": "2026-07-02",
+    "author": "MetalForge Editorial",
+    "title": "Dirk Verbeuren's Drum Setup on Soilwork's 'Stabbing the Drama' (2005)",
+    "description": "Dirk Verbeuren's studio debut with Soilwork. Full breakdown of the Tama Starclassic Performer kit, Meinl Byzance cymbals, and Iron Cobra pedals he used to record 'Stabbing the Drama' — the melodic death metal album that introduced his technical drumming to the band.",
+    "seoKeywords": [
+      "dirk verbeuren soilwork drum setup",
+      "stabbing the drama drummer",
+      "dirk verbeuren tama starclassic performer",
+      "soilwork drummer gear",
+      "stabbing the drama drum recording",
+      "dirk verbeuren meinl byzance",
+      "soilwork 2005 album drums"
+    ],
+    "ogImage": "/images/albums/stabbing-the-drama-drums.webp",
+    "intro": {
+      "title": "The Album That Introduced Dirk Verbeuren's Technical Drumming to Soilwork",
+      "content": "Released March 8, 2005 on Nuclear Blast Records, \"Stabbing the Drama\" is Soilwork's sixth studio album — and the first to feature Dirk Verbeuren behind the kit. The Belgian drummer, previously of Scarve, had joined the Swedish melodic death metal outfit in 2004 following the departure of Henry Ranta, and \"Stabbing the Drama\" was his introduction to the band's fanbase as a full studio member.\n\nRecorded and mixed at Fascination Street Recordings with additional drum tracking at Dug-Out Studios in Örebro, Sweden during September and October 2004, the album was helmed by producers Jens Bogren and Daniel Bergstrand — two names synonymous with the modern Gothenburg-adjacent Swedish metal sound. Bogren, who would go on to become one of the genre's most in-demand mixing engineers, and Bergstrand, known for his work with Meshuggah and In Flames, gave the record a punchy, contemporary low end that suited Verbeuren's more technical approach to the kit.\n\nVerbeuren's arrival marked a noticeable shift in Soilwork's rhythmic identity. Where Henry Ranta had anchored the band's earlier, more straightforward melodic death metal grooves, Verbeuren brought the jazz-informed precision and stamina he had developed in the European extreme metal scene, layering intricate fills and rapid double bass work into songs built around Björn \"Speed\" Strid's increasingly melodic vocal hooks. Tracks like the title cut \"Stabbing the Drama,\" the driving \"Nerve,\" and \"One with the Flies\" showcase a drummer settling into a new band while immediately raising its technical ceiling.\n\nThe album reached #52 on the German Albums Chart and drew strong reviews, including four out of five stars from AllMusic, cementing Soilwork's status as one of the era's most consistent melodic death metal acts. It was also the last album for a time to feature longtime guitarist Peter Wichers, who departed after the supporting tour before rejoining the band in 2008. This article breaks down the gear Dirk Verbeuren used to record his first Soilwork album — the foundation of the sound he would refine across five more studio releases before joining Megadeth in 2016.",
+      "keyPoints": [
+        "Dirk Verbeuren's studio debut with Soilwork, released March 8, 2005 on Nuclear Blast Records",
+        "Recorded at Fascination Street Recordings & Dug-Out Studios, Örebro, Sweden (Sept-Oct 2004)",
+        "Produced by Jens Bogren & Daniel Bergstrand",
+        "Reached #52 on the German Albums Chart; four out of five stars from AllMusic",
+        "Tama Starclassic Performer kit with Meinl Byzance cymbals",
+        "First of six Soilwork studio albums recorded by Verbeuren before joining Megadeth in 2016"
+      ]
+    },
+    "drumKit": {
+      "title": "Dirk's Tama Starclassic Performer: Studio Debut Configuration",
+      "brand": "Tama",
+      "model": "Tama Starclassic Performer",
+      "finish": "Birch/maple hybrid shells, custom lacquer",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Birch/maple hybrid shells for balanced attack and low end"
+      },
+      "description": "For his first Soilwork sessions, Dirk Verbeuren played a Tama Starclassic Performer kit — a birch/maple hybrid line that splits the difference between birch's punchy attack and maple's warmer sustain. It was the kit that carried him through his early Soilwork years before he transitioned to the all-maple Starclassic Maple line later in his tenure.\n\nThe 22\" x 18\" bass drum gave Bogren and Bergstrand a deep, controlled low end to build the mix around, while the hybrid shell construction kept the attack focused enough to cut through the dual-guitar arrangements of Peter Wichers and Ola Frenning. Verbeuren ran a single kick with a double pedal rather than dual bass drums, a configuration he would maintain for most of his career regardless of tempo demands.\n\nThe compact 10\" and 12\" rack tom pairing let him execute the rapid, articulate fills that immediately distinguished his playing from his predecessor's more straightforward approach. The 14\" and 16\" floor toms rounded out a setup built for speed and clarity rather than sheer size — everything about the configuration was chosen to serve fast transitions between the album's technical passages and its more melodic, hook-driven choruses.\n\nThis was Verbeuren's first major-label studio session with a new band, and the Starclassic Performer's versatility gave him a platform to introduce his style without overwhelming Soilwork's existing sonic identity.",
+      "notes": [
+        "Tama Starclassic Performer — birch/maple hybrid shells",
+        "Single 22\" bass drum with double pedal, carried forward for most of his career",
+        "Compact rack tom pairing for fast fill transitions",
+        "Kit chosen to introduce his technical style without overwhelming the band's existing sound"
+      ],
+      "estimatedValue": "$3,000-4,500 (Starclassic Performer configuration, mid-2000s)"
+    },
+    "snare": {
+      "title": "Cutting Through the Gothenburg Sound",
+      "brand": "Tama",
+      "model": "Tama Starclassic Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "Verbeuren's snare on \"Stabbing the Drama\" was a Tama Starclassic steel-shell model, chosen for the bright, focused crack needed to sit on top of Bogren and Bergstrand's dense, modern production. Steel shells project a tighter, more metallic overtone profile than wood, which helps a snare cut through layered rhythm guitars without requiring excessive volume.\n\nAt 14\" x 6.5\", the drum offered enough shell depth for body alongside the steel's natural brightness — important on a record where the snare carries much of the song's rhythmic identity beneath Strid's vocal melodies. Verbeuren tuned the drum medium-high, prioritizing articulation for his rapid fill work over deep sustain.\n\nThe combination of the Fascination Street tracking room and Dug-Out Studios' drum booth gave the engineers a clean, well-isolated snare signal to shape in the mix — a modern approach that helped distinguish \"Stabbing the Drama\" from the rawer, more mid-2000s Gothenburg production of Soilwork's earlier records.",
+      "tuningSetting": "Medium-high tension for articulation and cut",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$300-400"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance: Establishing the Dark Palette",
+      "brand": "Meinl",
+      "series": "Meinl Byzance",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl 14\" Byzance Dark Hi-Hats",
+          "position": "Left side",
+          "notes": "Complex, trashy character for fast pattern work"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 16\" Byzance Traditional Thin Crash",
+          "position": "Far left",
+          "notes": "Quick, bright accent crash"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Byzance Traditional Medium Crash",
+          "position": "Above rack toms",
+          "notes": "Main crash for chorus transitions"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl 20\" Byzance Medium Ride",
+          "position": "Far right",
+          "notes": "Defined bell for pattern work in melodic passages"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" Byzance China",
+          "position": "Above floor tom",
+          "notes": "Aggressive accent for riff punctuation"
+        }
+      ],
+      "description": "\"Stabbing the Drama\" marks the beginning of Dirk Verbeuren's long association with Meinl's Byzance line — a partnership that would carry through the rest of his Soilwork tenure and into his Megadeth years. The Byzance series' dark, complex overtones gave him a cymbal voice distinct from the brighter, more generic setups common in early-2000s melodic death metal.\n\nThe 14\" Byzance Dark hi-hats provided the fast, articulate foundation for his technical patterns, while the paired 16\" and 18\" Traditional crashes gave him a range of accent weights for the album's shifts between aggressive verses and hook-driven choruses. The 20\" Byzance ride's clear bell definition cuts through during the record's more melodic, mid-tempo sections, where Verbeuren's dynamic control is most audible.\n\nThe 18\" Byzance China rounds out the setup, delivering the trashy, explosive accent that punctuates riff changes throughout tracks like \"Nerve\" and \"Observation Slave.\" This same dark-cymbal philosophy would remain a constant across Verbeuren's catalogue, from his earliest Soilwork sessions through his Grammy-winning work with Megadeth a decade later.",
+      "estimatedValue": "$1,800-2,400 total (Byzance setup, mid-2000s)"
+    },
+    "hardware": {
+      "title": "Tama Iron Cobra Foundation",
+      "items": [
+        {
+          "type": "Double Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra 900 Double Pedal",
+          "notes": "Rolling Glide cam for smooth, consistent double bass response",
+          "description": "The Iron Cobra 900 was Tama's flagship double pedal during Verbeuren's early Soilwork years, years before the Speed Cobra line existed. Its Rolling Glide cam delivered the direct, consistent feel Verbeuren relied on for the album's rapid double bass patterns, and the pedal remained his primary choice through much of his Soilwork tenure."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra 900 Hi-Hat",
+          "notes": "Matched hardware for consistent feel"
+        },
+        {
+          "type": "Cymbal Stands",
+          "brand": "Tama",
+          "model": "Tama Road Pro Series",
+          "notes": "Touring-grade stands for European festival circuit reliability"
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair Series",
+          "notes": "Standard studio and touring throne"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater 5B",
+          "notes": "Balance of speed and power for melodic death metal patterns"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear",
+        "toms": "Remo Ambassador Clear (batter), Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "trackAnalysis": [
+      {
+        "track": "Stabbing the Drama",
+        "bpm": "~145",
+        "signature": "4/4",
+        "highlights": [
+          "Title track and opener; official music video released via Nuclear Blast",
+          "Verbeuren's fast, articulate fills introduce his style to Soilwork's fanbase",
+          "Alternates between driving verse grooves and a melodic, hook-heavy chorus"
+        ],
+        "gearNotes": "Iron Cobra double pedal drives the verse's double bass runs. Byzance Dark hi-hats provide fast, controlled pattern work."
+      },
+      {
+        "track": "Nerve",
+        "bpm": "~160",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's most technically demanding tracks",
+          "Rapid double bass patterns showcase Verbeuren's stamina and control",
+          "China cymbal accents punctuate the song's aggressive riff changes"
+        ],
+        "gearNotes": "18\" Byzance China delivers the track's signature aggressive accents. Steel snare cuts cleanly through the dense guitar mix."
+      },
+      {
+        "track": "One with the Flies",
+        "bpm": "~140",
+        "signature": "4/4",
+        "highlights": [
+          "Second track on the album; blends aggressive verses with a soaring chorus",
+          "Demonstrates Verbeuren's dynamic range between restraint and full-kit intensity",
+          "Ride cymbal bell work provides melodic definition beneath the chorus"
+        ],
+        "gearNotes": "20\" Byzance Ride's clear bell tone anchors the chorus. Floor tom accents fill out the bridge section."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit did Dirk Verbeuren use on Soilwork's 'Stabbing the Drama'?",
+        "answer": "For his 2005 studio debut with Soilwork, Dirk Verbeuren played a Tama Starclassic Performer kit with birch/maple hybrid shells, featuring a 22\" x 18\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. He paired it with a Tama Starclassic steel snare, Meinl Byzance cymbals, and a Tama Iron Cobra 900 double pedal — the same Tama and Meinl brand relationships he maintained throughout his career, later carrying into his Megadeth years. For his current touring setup, see the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren)."
+      },
+      {
+        "question": "Was 'Stabbing the Drama' Dirk Verbeuren's first album with Soilwork?",
+        "answer": "Yes. Dirk Verbeuren joined Soilwork in 2004, replacing outgoing drummer Henry Ranta, and 'Stabbing the Drama' (released March 8, 2005) was his first studio recording with the band. He went on to record five more studio albums with Soilwork — 'Sworn to a Great Divide' (2007), 'The Panic Broadcast' (2010), 'The Living Infinite' (2013), and 'The Ride Majestic' (2015) — before departing in 2016 to become Megadeth's full-time drummer. See the [What's In Dirk Verbeuren's Kit article](/articles/whats-in-dirk-verbeurens-kit) for the full arc of his career."
+      },
+      {
+        "question": "Who produced Soilwork's 'Stabbing the Drama'?",
+        "answer": "'Stabbing the Drama' was produced by Jens Bogren and Daniel Bergstrand. It was recorded and mixed at Fascination Street Recordings, with additional drum tracking at Dug-Out Studios, both in Örebro, Sweden, during September and October 2004. Bogren went on to become one of modern metal's most sought-after mixing engineers, while Bergstrand is best known for his work with Meshuggah and In Flames."
+      },
+      {
+        "question": "How does Dirk Verbeuren's Soilwork drumming compare to his Megadeth setup?",
+        "answer": "On 'Stabbing the Drama,' Verbeuren played a Tama Starclassic Performer kit with a single bass drum, double pedal, and Meinl Byzance cymbals — the same brand relationships he maintains today. His Megadeth setup, detailed on the [Dystopia Drum Setup article](/articles/dystopia-drum-setup), uses a similar single-kick-plus-double-pedal philosophy but with a heavier, more modern production sound reflecting a decade of gear evolution and higher-budget studio sessions."
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "Z83vu-TRF6Y",
+        "title": "Soilwork - Stabbing the Drama (Official Music Video)",
+        "description": "Official Nuclear Blast Records music video for the title track from Soilwork's 2005 album, Dirk Verbeuren's studio debut with the band"
+      }
+    ],
+    "relatedAlbums": [
+      "dystopia-drum-setup",
+      "the-sick-the-dying-and-the-dead-drum-setup"
+    ],
+    "relatedDrummers": [
+      22,
+      1,
+      4
+    ],
+    "relatedArticles": [
+      "whats-in-dirk-verbeurens-kit",
+      "thrash-metal-drummers"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "Where Dirk Verbeuren's Technical Signature Began",
+      "content": "\"Stabbing the Drama\" isn't just another entry in Soilwork's discography — it's the record where Dirk Verbeuren's technical fingerprint first appeared on tape. Stepping into a band with an established sound and fanbase, Verbeuren didn't just fill Henry Ranta's chair; he raised the ceiling on what Soilwork's rhythm section could do, layering in the jazz-informed precision and stamina that would eventually earn him a seat with one of thrash metal's Big Four.\n\n**The Gear Foundation:**\nThe Tama Starclassic Performer kit, Meinl Byzance cymbals, and Iron Cobra pedals Verbeuren used on this album established brand relationships that lasted the rest of his career. Two decades later, he's still a Tama and Meinl artist — the specific models have evolved, but the core sonic philosophy traces directly back to these 2004 sessions.\n\n**A Career-Long Arc:**\n\"Stabbing the Drama\" opens a run of six studio albums Verbeuren recorded with Soilwork between 2005 and 2015, before he departed for Megadeth in 2016. For the album that introduced his playing to a global thrash metal audience, see the [Dystopia Drum Setup article](/articles/dystopia-drum-setup). For his complete gear evolution across both bands, visit the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren)."
+    }
   }
 };
 export default articles;

@@ -350,6 +350,7 @@ export const articles = {
     ],
     "relatedAlbums": [
       "dystopia-drum-setup",
+      "the-sick-the-dying-and-the-dead-drum-setup",
       "rust-in-peace-drum-setup"
     ],
     "faq": [
@@ -608,6 +609,7 @@ export const articles = {
     ],
     "videos": [],
     "relatedAlbums": [
+      "the-sick-the-dying-and-the-dead-drum-setup",
       "rust-in-peace-drum-setup",
       "master-of-puppets-drum-setup",
       "reign-in-blood-drum-setup"
@@ -656,6 +658,281 @@ export const articles = {
     "conclusion": {
       "title": "Completing the Megadeth Drummer Timeline",
       "content": "\"Dystopia\" stands as one of thrash metal's landmark comeback albums — a Grammy-winning return to commercial and critical relevance that few bands achieve after three decades. At the centre of that comeback was Dirk Verbeuren, a drummer whose Belgian precision and death metal background gave Megadeth something it had never quite had before: a technician who could match Dave Mustaine's demanding arrangements with metronomic accuracy and genuine musicality.\n\nThe DW Collector's Maple kit, Zildjian A Custom cymbals, and DW 9002XF double pedals are the tools Dirk brought to Vic's Garage. In under two weeks, he laid down every drum track on the album that would earn the band their first Grammy. The gear was world-class; the execution was flawless.\n\n**The Megadeth Drummer Timeline:**\nMegadeth has had several notable drummers across its history. Gar Samuelson anchored the band's debut era; Nick Menza delivered the technical masterwork of Rust in Peace; Chuck Behler and Jimmy DeGrasso filled the gaps between. Now Dirk Verbeuren holds the seat, and his Grammy-winning debut suggests he intends to keep it for a long time. For the complete Rust in Peace drum breakdown — the album that establishes the Megadeth thrash drumming template — see the [Rust in Peace Drum Setup article](/articles/rust-in-peace-drum-setup).\n\n**For the Aspiring Drummer:**\nStart with \"Dystopia\" to hear Dirk's precision double bass and controlled aggression. Move to \"Fatal Illusion\" for one of the album's most demanding sustained double pedal passages. Then compare with Lars Ulrich's approach on Master of Puppets — a different philosophy but equally influential. The [Lars Ulrich drummer profile](/drummer/lars-ulrich) traces his gear evolution across Metallica's catalogue for a genre-wide comparison.\n\nFor Dirk's current full Megadeth touring setup — Tama Starclassic Maple, Meinl Byzance cymbals, Speed Cobra pedals — visit the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren)."
+    }
+  },
+  "the-sick-the-dying-and-the-dead-drum-setup": {
+    "slug": "the-sick-the-dying-and-the-dead-drum-setup",
+    "albumTitle": "The Sick, the Dying... and the Dead!",
+    "artist": "Megadeth",
+    "drummer": "Dirk Verbeuren",
+    "drummerId": 22,
+    "relatedDrummerSlug": "dirk-verbeuren",
+    "year": 2022,
+    "genre": "Thrash Metal",
+    "label": "Tradecraft / Universal Music Enterprises",
+    "studio": "Dave Mustaine's home studio, Nashville, Tennessee (pre-production in Franklin, Tennessee)",
+    "producer": "Dave Mustaine & Chris Rakestraw",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-02",
+    "dateModified": "2026-07-02",
+    "author": "MetalForge Editorial",
+    "title": "Dirk Verbeuren's Drum Setup on Megadeth's 'The Sick, the Dying... and the Dead!' (2022)",
+    "description": "Dirk Verbeuren's first full studio album as Megadeth's drummer. Full breakdown of his Tama Starclassic Maple Custom kit, Tama Signature snare, and Meinl Byzance/Classics Custom cymbals used to record the Grammy-nominated 'We'll Be Back.'",
+    "seoKeywords": [
+      "dirk verbeuren megadeth newest album",
+      "the sick the dying and the dead drum setup",
+      "dirk verbeuren tama starclassic maple custom",
+      "megadeth newest album drummer",
+      "we'll be back grammy nomination",
+      "dirk verbeuren meinl cymbals",
+      "megadeth 2022 album drums"
+    ],
+    "ogImage": "/images/albums/the-sick-the-dying-and-the-dead-drums.webp",
+    "intro": {
+      "title": "Megadeth's Most Recent Studio Album — And Dirk's First From the Ground Up",
+      "content": "Released September 2, 2022 on Dave Mustaine's own Tradecraft label via Universal Music Enterprises, \"The Sick, the Dying... and the Dead!\" is Megadeth's sixteenth studio album — and, as of 2026, remains the band's newest full-length release. Where \"Dystopia\" (2016) was a Grammy-winning introduction that Dirk Verbeuren completed on a tight two-week deadline after Chris Adler's initial sessions, \"The Sick, the Dying... and the Dead!\" is the first Megadeth album built around Verbeuren from day one — pre-production began in Franklin, Tennessee in May 2019, with the bulk of tracking carried out over the following two years at Dave Mustaine's home studio in Nashville alongside longtime co-producer Chris Rakestraw.\n\nThat extended timeline let Verbeuren dig in as a contributor rather than just a performer: he earned his first Megadeth songwriting credits on the album, co-writing two of its tracks. The result is a record where his rhythmic fingerprint — precision double bass, jazz-informed dynamics inherited from his Soilwork years, and an ear for arrangement — is woven into the songs themselves, not just the performances of them.\n\nCommercially, the album became one of Megadeth's biggest successes: it debuted at #3 on the all-genre Billboard 200, the band's eighth top-10 album. The lead single, \"We'll Be Back,\" reached #14 on Billboard's Hot Hard Rock Songs chart and earned Megadeth a nomination for the Grammy Award for Best Metal Performance at the 65th Grammy Awards (2023) — the band's second consecutive Verbeuren-era Grammy nomination, following \"Dystopia's\" win in 2017. \"Soldier On!\" and the title track followed as further singles, both charting on Hot Hard Rock Songs.\n\nMixed by Josh Wilbur and mastered by Ted Jensen at Sterling Sound, the album carries a heavier, more modern low end than \"Dystopia\" while keeping the same core mission: honor four decades of Megadeth's thrash legacy while pushing the band's most technically accomplished rhythm section forward. This article breaks down the gear Dirk Verbeuren used to record it.",
+      "keyPoints": [
+        "Megadeth's sixteenth studio album and, as of 2026, the band's most recent studio release",
+        "Dirk Verbeuren's first Megadeth album built from the ground up, including his first songwriting credits (two co-writes)",
+        "Debuted at #3 on the Billboard 200 — Megadeth's eighth top-10 album",
+        "Lead single \"We'll Be Back\" nominated for Grammy Award for Best Metal Performance (65th Grammy Awards, 2023)",
+        "Produced by Dave Mustaine & Chris Rakestraw; mixed by Josh Wilbur; mastered by Ted Jensen at Sterling Sound",
+        "Tama Starclassic Maple Custom kit with double 22\" kicks and Tama Signature Dirk Verbeuren snare"
+      ]
+    },
+    "drumKit": {
+      "title": "Tama Starclassic Maple Custom: The Full Studio Rig",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple Custom",
+      "finish": "Custom finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "13\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 16\" Floor Tom",
+          "18\" x 18\" Floor Tom"
+        ],
+        "shells": "All-maple shells with Star-Cast mounting system"
+      },
+      "description": "For \"The Sick, the Dying... and the Dead!\" Dirk Verbeuren expanded to a double-kick Tama Starclassic Maple Custom setup — two 22\" x 18\" bass drums rather than the single-kick-plus-double-pedal configuration he used for \"Dystopia\" and continues to favor on tour. The larger studio rig also added a third rack tom (13\") and a deeper second floor tom (18\"), giving him a broader melodic palette for an album where he had a direct hand in arranging the material.\n\nThe all-maple shell construction remained consistent with his established sound: warm fundamental, articulate attack, and enough projection to cut through Dave Mustaine and Kiko Loureiro's interlocking guitar parts. Tama's Star-Cast mounting system again let the toms ring freely, which matters on a record where Verbeuren's fills carry more of the compositional weight than on a typical thrash album.\n\nTwo genuine 22\" bass drums — rather than a single kick and double pedal — gave him independent tonal control over each foot, useful for the album's most demanding double-bass patterns on tracks like \"Life in Hell\" and \"Killing Time.\" It's a configuration Verbeuren has used selectively across his career depending on the material, choosing the setup that best serves each specific recording.",
+      "notes": [
+        "Twin 22\" bass drums for independent tonal control on this record",
+        "Expanded to a three-rack-tom, two-floor-tom configuration",
+        "All-maple shells with Star-Cast mounting for open, unchoked resonance",
+        "Larger studio configuration vs. his single-kick touring setup"
+      ],
+      "estimatedValue": "$5,000-7,000 (Starclassic Maple Custom, double-kick configuration)"
+    },
+    "snare": {
+      "title": "The Tama Signature Dirk Verbeuren Snare",
+      "brand": "Tama",
+      "model": "Tama Signature Series Dirk Verbeuren Snare",
+      "size": "14\" x 5.5\"",
+      "shell": "Steel",
+      "description": "By the time Verbeuren tracked \"The Sick, the Dying... and the Dead!\" he had graduated to his own signature drum: the Tama Signature Series Dirk Verbeuren snare, a 14\" x 5.5\" steel-shell model built to his specifications after years of touring and recording with the company's stock and boutique lines.\n\nThe shallower 5.5\" depth (versus the 6.5\" S.L.P. G-Maple he used for touring and on earlier sessions) delivers a faster, more focused attack — well suited to the album's tighter, more aggressive production. The steel shell adds brightness and cut that sits clearly on top of Josh Wilbur's modern, low-end-forward mix.\n\nVerbeuren tunes the signature snare medium-high, prioritizing definition over sustain so that fast passages on tracks like \"We'll Be Back\" stay articulate rather than blurring together. Having his own signature model meant the drum could be voiced exactly to his taste rather than adapted from an existing production model — a milestone that reflects his fully established status within Tama's artist roster by 2022.",
+      "tuningSetting": "Medium-high tension for fast, focused attack",
+      "heads": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)",
+      "estimatedValue": "$400-550"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance Brilliant Heavy Hammered & Classics Custom Dark",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Brilliant Heavy Hammered / Classics Custom Dark",
+      "setup": [
+        {
+          "type": "Hi-Hats (Main)",
+          "model": "Meinl Byzance Brilliant Heavy Hammered Hi-Hats",
+          "position": "Left side",
+          "notes": "Bright, cutting primary hi-hats for high-tempo patterns"
+        },
+        {
+          "type": "Hi-Hats (Secondary)",
+          "model": "Meinl Classics Custom Dark Hi-Hats",
+          "position": "Left of rack toms",
+          "notes": "Darker secondary hats for tonal variation between sections"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Classics Custom Dark Crash",
+          "position": "Far left",
+          "notes": "Quick, dark-toned crash for accents"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Classics Custom Dark Crash",
+          "position": "Above rack toms",
+          "notes": "Secondary crash for chorus transitions"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Byzance Brilliant Heavy Hammered Ride",
+          "position": "Far right",
+          "notes": "Loud, cutting ride with clear bell definition"
+        },
+        {
+          "type": "China (Main)",
+          "model": "Meinl Byzance Brilliant Heavy Hammered China",
+          "position": "Above floor toms",
+          "notes": "Primary aggressive accent cymbal"
+        },
+        {
+          "type": "China (Secondary)",
+          "model": "Meinl Classics Custom Dark China",
+          "position": "Right of main china",
+          "notes": "Darker secondary china for tonal contrast"
+        }
+      ],
+      "description": "Verbeuren's cymbal setup on \"The Sick, the Dying... and the Dead!\" pairs two distinct Meinl lines: the Byzance Brilliant Heavy Hammered series on his ride, main hi-hats, and primary china, and the darker Classics Custom Dark series on his crashes, secondary hi-hats, and secondary china. The combination gives him a wider tonal range within a single kit than the all-Byzance setup he used for \"Dystopia\" and his early touring years.\n\nThe Byzance Brilliant Heavy Hammered hi-hats and ride carry the album's brightest, most cutting moments — essential for a mix built around Josh Wilbur's modern, radio-ready production. The heavier hammering adds complexity and a slightly trashy edge that keeps the cymbals from sounding sterile even at high volume.\n\nThe Classics Custom Dark crashes and secondary china give Verbeuren a darker, more complex voice for contrast — a texture that echoes the deliberately varied palette he brought over from his Soilwork years. Running two hi-hat setups and two china cymbals side by side lets him switch tonal character mid-song without changing his physical position at the kit, a practical solution for an album with as much arrangement variety as this one.",
+      "estimatedValue": "$3,000-3,800 total (Byzance Brilliant Heavy Hammered / Classics Custom Dark setup)"
+    },
+    "hardware": {
+      "title": "Tama Speed Cobra Foundation",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Tama",
+          "model": "Tama Speed Cobra 910 (single pedals, x2)",
+          "notes": "One pedal per bass drum for independent tonal control",
+          "description": "With two genuine bass drums rather than a single kick and double pedal, Verbeuren ran a Speed Cobra 910 single pedal on each side. The Cobra Coil system and Rolling Glide cam gave him the same consistent response he relies on for double-pedal work, but with the added benefit of two independently tuned drums driving his footwork on the album's most demanding tracks."
+        },
+        {
+          "type": "Hi-Hat Stands",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra 900 Hi-Hat (x2)",
+          "notes": "Dual hi-hat stands for his split main/secondary hi-hat setup"
+        },
+        {
+          "type": "Cymbal Stands",
+          "brand": "Tama",
+          "model": "Tama Stage Master / Road Pro Series",
+          "notes": "Matched hardware supporting the expanded seven-piece cymbal setup"
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair Ergo-Rider",
+          "notes": "Ergonomic throne for extended studio sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater 5B / Power 5B",
+          "notes": "Consistent stick choice carried over from Dystopia and touring"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD2 (batter), Evans EQ3 Black (resonant)",
+        "toms": "Evans G2 Clear (batter), Evans G1 Clear (resonant)",
+        "snare": "Evans G2 Coated (batter), Evans Hazy 300 (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Josh Wilbur's Modern Mix, Chris Rakestraw's Home-Studio Tracking",
+      "content": "Recording \"The Sick, the Dying... and the Dead!\" was a longer, more iterative process than the two-week sprint that produced \"Dystopia.\" Pre-production began in Franklin, Tennessee in May 2019 with longtime Megadeth co-producer Chris Rakestraw, and the bulk of tracking took place at Dave Mustaine's home studio in Nashville over the following two years — a schedule shaped in part by the COVID-19 pandemic and by Mustaine's cancer treatment and recovery during this period.\n\n**Recording Environment:**\nWorking out of Mustaine's own Nashville home studio gave the band an unusually flexible timeline compared to a traditional commercial studio booking. Rakestraw, who had previously co-produced \"Super Collider\" (2013) and \"Dystopia\" (2016), used the extended schedule to refine arrangements with the band rather than rushing to a deadline.\n\n**Mixing and Mastering:**\nJosh Wilbur — known for his work with Lamb of God, Gojira, and Trivium — mixed the album, giving it a heavier, more low-end-forward modern metal sound than Dann Huff's polish on \"Dystopia.\" Ted Jensen mastered at Sterling Sound, the same mastering house responsible for countless modern rock and metal releases.\n\n**Verbeuren's Role:**\nThe extended timeline let Verbeuren move beyond simply performing the parts he was given. He co-wrote two of the album's tracks — the first songwriting credits of his Megadeth tenure — bringing the arranging instincts he developed over 18 years in Soilwork directly into the writing process rather than just the drum chair.\n\n**Mix Philosophy:**\nWilbur's mix places Verbeuren's kick and snare at the front of the soundstage, with the expanded cymbal setup filling out the top end without crowding Mustaine and Kiko Loureiro's guitar work. It is a denser, more contemporary sound than \"Dystopia,\" reflecting eight years of production trends and Wilbur's own sonic signature.",
+      "keyTechniques": [
+        "Extended two-year recording process vs. Dystopia's two-week sprint",
+        "Tracked at Dave Mustaine's home studio in Nashville with Chris Rakestraw",
+        "Mixed by Josh Wilbur; mastered by Ted Jensen at Sterling Sound",
+        "Verbeuren's first Megadeth songwriting credits shaped the arrangements"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "We'll Be Back",
+        "bpm": "~150",
+        "signature": "4/4",
+        "highlights": [
+          "Lead single, released June 23, 2022; reached #14 on Billboard's Hot Hard Rock Songs chart",
+          "Nominated for the Grammy Award for Best Metal Performance (65th Grammy Awards, 2023)",
+          "Driving mid-tempo groove anchored by Verbeuren's twin-kick foundation",
+          "Music video chronicles the origin story of mascot Vic Rattlehead"
+        ],
+        "gearNotes": "Twin 22\" Starclassic kicks drive the verse groove. Signature snare cuts cleanly through Wilbur's dense guitar mix."
+      },
+      {
+        "track": "Soldier On!",
+        "bpm": "~160",
+        "signature": "4/4",
+        "highlights": [
+          "Third single, released August 12, 2022; reached #31 on Mainstream Rock Airplay",
+          "Military-themed lyrics and visualizer featuring service members from Fort Campbell",
+          "Faster, more aggressive tempo than \"We'll Be Back\"",
+          "Showcases the Byzance Brilliant Heavy Hammered ride's cutting bell tone"
+        ],
+        "gearNotes": "Byzance Heavy Hammered hi-hats deliver rapid articulation. China cymbal punctuates militaristic stop-hits."
+      },
+      {
+        "track": "The Sick, the Dying... and the Dead!",
+        "bpm": "~145",
+        "signature": "4/4",
+        "highlights": [
+          "Title track and second single; debuted at #21 on Hot Hard Rock Songs",
+          "One of the album's heaviest, most deliberate grooves",
+          "Verbeuren's dynamic control shifts between restrained verses and full-kit choruses",
+          "Represents the album's darker lyrical themes in its drum arrangement"
+        ],
+        "gearNotes": "Classics Custom Dark crashes add weight to chorus hits. Deeper 18\" floor tom fills out the low end."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What is Megadeth's newest album?",
+        "answer": "As of 2026, Megadeth's most recent studio album is \"The Sick, the Dying... and the Dead!\", released September 2, 2022 on Dave Mustaine's Tradecraft label via Universal Music Enterprises. It is the band's sixteenth studio album and the first to be built from the ground up around drummer Dirk Verbeuren, who joined in 2016 and had previously completed the Chris Adler-started \"Dystopia\" sessions. The album debuted at #3 on the Billboard 200, Megadeth's eighth top-10 album."
+      },
+      {
+        "question": "Did Megadeth win a Grammy for \"We'll Be Back\"?",
+        "answer": "No — \"We'll Be Back\" was nominated for the Grammy Award for Best Metal Performance at the 65th Grammy Awards (February 2023), but the award went to Ozzy Osbourne featuring Tony Iommi for \"Degradation Rules.\" Other nominees that year included Ghost, Muse, and Turnstile. This marked Megadeth's second Verbeuren-era nomination in the category, following the band's actual win for \"Dystopia\" at the 59th Grammy Awards in 2017."
+      },
+      {
+        "question": "What drums does Dirk Verbeuren play on 'The Sick, the Dying... and the Dead!'?",
+        "answer": "Dirk Verbeuren recorded the album on a Tama Starclassic Maple Custom kit with two genuine 22\" x 18\" bass drums (rather than his usual single-kick-plus-double-pedal touring setup), 10\", 12\", and 13\" rack toms, and 16\" and 18\" floor toms. His snare was his own Tama Signature Series model, a 14\" x 5.5\" steel drum built to his specifications. Cymbals came from two Meinl lines — Byzance Brilliant Heavy Hammered and Classics Custom Dark — giving him both bright and dark tonal options across the kit."
+      },
+      {
+        "question": "What albums has Dirk Verbeuren recorded with Megadeth?",
+        "answer": "Dirk Verbeuren has recorded two studio albums with Megadeth: \"Dystopia\" (2016), which won the Grammy Award for Best Metal Performance, and \"The Sick, the Dying... and the Dead!\" (2022), his first album built from the ground up with the band, on which he also earned his first Megadeth songwriting credits. For the full breakdown of his Grammy-winning debut, see the [Dystopia Drum Setup article](/articles/dystopia-drum-setup)."
+      },
+      {
+        "question": "Who produced 'The Sick, the Dying... and the Dead!'?",
+        "answer": "The album was produced by Dave Mustaine and longtime Megadeth collaborator Chris Rakestraw, who had previously co-produced \"Super Collider\" (2013) and \"Dystopia\" (2016). It was mixed by Josh Wilbur (Lamb of God, Gojira, Trivium) and mastered by Ted Jensen at Sterling Sound. Recording took place primarily at Dave Mustaine's home studio in Nashville, Tennessee, following pre-production sessions in Franklin, Tennessee that began in May 2019."
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "LkJ5jJuraLQ",
+        "title": "Megadeth - We'll Be Back: Chapter I",
+        "description": "Official music video for the lead single from 'The Sick, the Dying... and the Dead!', Megadeth's Grammy-nominated 2022 release"
+      },
+      {
+        "youtubeId": "q5M8K2Jm2bE",
+        "title": "Megadeth - Soldier On! (Visualizer)",
+        "description": "Official visualizer for 'Soldier On!', the third single from 'The Sick, the Dying... and the Dead!'"
+      }
+    ],
+    "relatedAlbums": [
+      "dystopia-drum-setup",
+      "rust-in-peace-drum-setup",
+      "countdown-to-extinction-drum-setup"
+    ],
+    "relatedDrummers": [
+      22,
+      1,
+      4
+    ],
+    "relatedArticles": [
+      "whats-in-dirk-verbeurens-kit",
+      "thrash-metal-drummers",
+      "big-four-drummers"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Album That Made the Seat Fully His Own",
+      "content": "If \"Dystopia\" was Dirk Verbeuren proving he could fill Megadeth's drum throne under pressure, \"The Sick, the Dying... and the Dead!\" is the record that proved he belonged there permanently. Given two years and creative input rather than a two-week deadline, Verbeuren delivered performances — and, for the first time, songwriting contributions — that reflect a drummer fully integrated into the band's identity.\n\n**From Session Player to Songwriter:**\nThe jump from completing someone else's sessions on \"Dystopia\" to co-writing material on \"The Sick, the Dying... and the Dead!\" is the clearest evidence of how far Verbeuren's role evolved in six years. His own Tama signature snare, debuted on this record, is a similar marker — the difference between an artist playing an endorsed product and one whose name is on it.\n\n**Gear Evolution:**\nThe move to twin bass drums, an expanded cymbal setup spanning two Meinl lines, and a deeper tom configuration all point to a drummer with more creative latitude than he had on his Grammy-winning debut. None of it abandons the fundamentals — Tama drums, Meinl cymbals, Evans heads — that have anchored his sound since his Soilwork days.\n\n**Completing the Arc:**\nTogether, \"Dystopia\" and \"The Sick, the Dying... and the Dead!\" bookend Dirk Verbeuren's Megadeth studio output to date: a Grammy-winning arrival and a Grammy-nominated statement of ownership. For the album that started it all, see the [Dystopia Drum Setup article](/articles/dystopia-drum-setup). For his complete touring rig and career history, visit the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren)."
     }
   }
 };

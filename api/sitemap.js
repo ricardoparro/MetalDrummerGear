@@ -634,6 +634,10 @@ export function buildSitemapXml() {
       'sean-reinert-vs-hannes-grossmann',
       'brann-dailor-vs-sean-reinert',
       'lars-ulrich-vs-charlie-benante',
+      // Issue #3611: 3 new curated pairs closing the zero-pairing roster gap.
+      'richard-christy-vs-derek-roddy',
+      'kevin-talley-vs-george-kollias',
+      'ryan-van-poederooyen-vs-mike-portnoy',
     ].map(slug => ({ loc: `/vs/${slug}`, priority: '0.7', changefreq: 'monthly' }))),
     // Issue #739: Signature Gear Spotlight pages
     ...signatureGearPages.map(sg => ({ loc: `/drummers/${sg.drummerSlug}/signature/${sg.gearSlug}`, priority: '0.85', changefreq: 'monthly' })),

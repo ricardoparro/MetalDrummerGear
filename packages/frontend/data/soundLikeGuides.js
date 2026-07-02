@@ -14074,6 +14074,253 @@ This guide breaks down the technique, gear, and practice approach behind Dette's
       { slug: 'jon-dette-drum-setup', label: "Jon Dette's Drum Setup — Slayer's Underrated Thrash Machine" }
     ]
   },
+
+  // Issue #2426: SoundLike guide — Arin Ilejay (re-scoped from batch 16)
+  'how-to-sound-like-arin-ilejay': {
+    slug: 'how-to-sound-like-arin-ilejay',
+    drummerId: 23,
+    drummerName: 'Arin Ilejay',
+    band: 'ex-Avenged Sevenfold',
+    genre: 'Heavy Metal / Hard Rock',
+    priority: 55,
+    title: "How to Sound Like Arin Ilejay: Complete Gear & Technique Guide",
+    description: "Master Arin Ilejay's arena-ready heavy metal drumming. Learn the classic rock-influenced power groove and restrained double bass behind Avenged Sevenfold's Hail to the King, plus his Mapex kit and Zildjian cymbal setup.",
+    seoKeywords: ['arin ilejay drums', 'how to sound like arin ilejay', 'avenged sevenfold drummer technique', 'arin ilejay drumming style', 'hail to the king drums', 'arin ilejay gear'],
+    ogImage: '/images/guides/arin-ilejay-guide.webp',
+    datePublished: '2026-07-02',
+    dateModified: '2026-07-02',
+    author: 'MetalForge Editorial',
+    wordCount: 1900,
+    readingTime: '9 min',
+    intro: {
+      title: "Filling Impossible Shoes With Restraint",
+      content: `Arin Ilejay joined Avenged Sevenfold in 2011 under circumstances no drummer would envy. Founding drummer Jimmy "The Rev" Sullivan — one of metal's most technically gifted and idiosyncratic players — had passed away in December 2009. Dream Theater's Mike Portnoy stepped in to record 2010's Nightmare as a tribute performance, but the permanent seat went to Ilejay, a young drummer from the post-hardcore band Confide who was handed the task of anchoring one of metal's most-watched bands at arena scale.
+
+Rather than attempt to replicate The Rev's labyrinthine, progressive-leaning style, Ilejay made a disciplined choice: power, consistency, and service to the song. That approach crystallized on Hail to the King (2013), a deliberate tribute to A7X's classic heavy metal and hard rock influences — Metallica, Black Sabbath, Guns N' Roses. The album debuted at #1 on the Billboard 200 and topped charts in the UK, Ireland, Canada, Brazil, and Finland, with Ilejay's driving, punchy, mid-tempo grooves central to that arena-metal sound.
+
+This guide breaks down the technique, gear, and practice approach behind Ilejay's classic rock-influenced power groove — essential study for any drummer who wants to serve a song with restraint and authority rather than technical flash.`,
+      keyPoints: [
+        "Joined Avenged Sevenfold in 2011 — replacing The Rev and Mike Portnoy in one of metal's most scrutinized drummer searches",
+        "Recorded Hail to the King (2013) with A7X — #1 Billboard 200, UK, Ireland, Canada, Brazil, and Finland",
+        "Built his sound on classic rock-influenced power groove rather than technical complexity",
+        "Post-hardcore technical background from Confide redeployed for arena-scale heavy metal restraint"
+      ]
+    },
+    technique: {
+      title: "Ilejay's Classic Rock Power Groove Technique",
+      overview: `Ilejay plays matched grip with a full-arm, high-commitment stroke built for arena projection rather than speed. Where The Rev's original A7X style leaned progressive and technically dense, Ilejay's approach is deliberately simpler and heavier — closer in spirit to John Bonham or Lars Ulrich than to the metalcore-adjacent drummers of A7X's earlier records. His defining skill is knowing when not to play: leaving space for Hail to the King's classic rock riffs and gang vocals to breathe.`,
+      stickGrip: {
+        type: 'Matched Grip',
+        description: "Ilejay uses a matched grip with a committed, full-arm stroke on backbeats and crashes, generating the weight needed to fill arenas without relying on double-bass density or ghost-note complexity.",
+        tips: [
+          "Commit fully to each backbeat — a half-hearted stroke disappears in an arena mix",
+          "Keep fills simple and purposeful; a well-placed tom run beats a busy one",
+          "Leave space around vocal phrases instead of filling every gap"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "Classic Rock Power Groove",
+          description: "A deliberately simple, weighty groove built around a driving quarter-note or eighth-note kick pattern and a hard-hitting backbeat — the foundation of Hail to the King's tribute to Sabbath, Priest, and classic Metallica.",
+          tempo: "90-130 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Play a basic eighth-note groove at 110 BPM and focus entirely on backbeat weight and consistency. Resist the urge to add fills — the pattern should sound massive on its own."
+        },
+        {
+          name: "Restrained Double-Bass Accents",
+          description: "Ilejay uses double bass sparingly, as punctuation under specific riff hits rather than a continuous 16th-note bed — a deliberate contrast to the technical, always-on double kick common in modern metal.",
+          tempo: "140-180 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Take a groove you'd normally fill with continuous double bass and strip it down to two or three accented hits per bar. Notice how much more each hit lands."
+        },
+        {
+          name: "Arena Fill Vocabulary",
+          description: "Big, simple tom fills that mark song sections clearly — verse-to-chorus transitions built for impact at the back of a stadium rather than technical display.",
+          tempo: "Variable",
+          difficulty: "Beginner",
+          practiceHint: "Practice a four-beat descending tom fill (rack tom to floor tom) and focus on making every hit equally loud and even. Simplicity executed with full commitment is the goal."
+        }
+      ],
+      keySongs: [
+        { song: "Shepherd of Fire", album: "Hail to the King", year: 2013, why: "Lead single that established the album's deliberate classic-metal tone and Ilejay's restrained groove" },
+        { song: "Hail to the King", album: "Hail to the King", year: 2013, why: "Title track — a Sabbath/Priest-inspired mid-tempo groove built entirely on weight and space" },
+        { song: "This Means War", album: "Hail to the King", year: 2013, why: "Showcases restrained double-bass accents punctuating a driving power groove" },
+        { song: "Doing Time", album: "Hail to the King", year: 2013, why: "Demonstrates arena fill vocabulary marking clear verse-to-chorus transitions" },
+        { song: "Requiem", album: "Hail to the King", year: 2013, why: "Dynamic build from restrained verses to full-weight choruses" }
+      ]
+    },
+    gear: {
+      title: "Ilejay's Gear Setup",
+      drumKit: {
+        brand: 'Mapex',
+        model: 'Mapex Saturn Series',
+        shells: 'Maple/walnut hybrid',
+        finish: 'Professional touring finish',
+        config: {
+          kick: '22" x 18" Bass Drums (x2)',
+          snare: '14" x 6.5" Mapex Black Panther Snare',
+          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+          floorToms: ['16" x 16" Floor Tom', '18" x 16" Floor Tom']
+        },
+        description: "Ilejay's Mapex Saturn Series kit gives him the high-mass shell construction and full low end needed to project the Hail to the King era's deliberately simple, heavy grooves to the back of an arena.",
+        affiliateNote: "Mapex Armory or Mapex Mars offer similar attack and low-end weight at a fraction of the cost."
+      },
+      snare: {
+        brand: 'Mapex',
+        model: 'Mapex Black Panther',
+        size: '14" x 6.5"',
+        shell: 'Maple/Walnut',
+        description: "The Black Panther snare delivers the full-bodied crack Ilejay needs for hard-hitting backbeats that anchor a mid-tempo groove without technical ghost-note work to fall back on.",
+        alternative: "Mapex Black Panther Blaster or Pearl Sensitone for a similar full-bodied crack"
+      },
+      cymbals: {
+        brand: 'Zildjian',
+        series: 'Zildjian A Custom',
+        setup: [
+          { type: 'Hi-Hats', model: '14" A Custom Mastersound Hi-Hats', notes: 'Bright, cutting response for driving eighth-note grooves' },
+          { type: 'Crash', model: '18" A Custom Crash', notes: 'Sharp, quick-decaying accent for section transitions' },
+          { type: 'Crash', model: '19" A Custom Crash', notes: 'Fuller crash for chorus-level accents' },
+          { type: 'Ride', model: '21" A Custom Sweet Ride', notes: 'Warm, controlled wash for classic rock-influenced grooves' },
+          { type: 'China', model: '18" A Custom China', notes: 'Trashy accent for climactic hits' }
+        ],
+        description: "Ilejay's Zildjian A Custom cymbals deliver the bright, cutting frequencies that slice through Hail to the King's wall of layered classic-metal guitars while retaining warmth for the album's more restrained passages."
+      },
+      pedals: {
+        brand: 'Mapex',
+        model: 'Mapex Falcon Double Pedal',
+        description: "The Falcon's smooth, direct-drive action supports Ilejay's restrained double-bass accents, giving him precise control over sparingly-placed hits rather than sustained, continuous patterns.",
+        alternative: "Pearl Eliminator or DW 5000 for a similarly smooth, consistent feel"
+      },
+      sticks: {
+        brand: 'Vic Firth',
+        model: 'Vic Firth American Classic 5A',
+        specs: 'Hickory, standard weight',
+        description: "Standard 5A sticks give Ilejay enough weight for full-commitment backbeats and crashes while remaining light enough for the occasional faster passage.",
+        alternative: "Promark or Vater 5A for a comparable feel"
+      },
+      heads: {
+        kick: 'Evans EQ3 Clear',
+        snare: 'Evans Coated Genera',
+        toms: 'Evans G2 Coated',
+        resonant: 'Evans Clear Resonant'
+      }
+    },
+    tuning: {
+      title: "Tuning for Ilejay's Arena Metal Sound",
+      overview: "Ilejay tunes for weight and warmth over technical articulation — the drums need to sound massive and classic-rock-warm at mid-tempo rather than tight and clinical.",
+      kickDrum: {
+        tension: "Medium",
+        muffling: "Moderate — felt strip or pillow",
+        description: "The kick is tuned for a full, punchy low end that fills an arena on a driving eighth-note groove, with enough muffling to keep restrained double-bass accents defined rather than boomy.",
+        tip: "Favor body over click — Ilejay's style depends on the kick feeling powerful even without constant double-bass activity."
+      },
+      snare: {
+        tension: "Medium",
+        muffling: "Light",
+        description: "A medium tension with light muffling keeps the backbeat full and warm rather than sharp and clinical — matching Hail to the King's classic hard rock aesthetic.",
+        tip: "Tune slightly lower than a typical technical-metal snare; the goal is weight and warmth, not maximum crack."
+      },
+      toms: {
+        tension: "Medium",
+        muffling: "Light — small Moongel",
+        description: "Toms tuned for a full, resonant tone that gives arena fills the weight to carry across a stadium without sounding thin or overly controlled.",
+        tip: "Let the toms ring a bit more than you would for technical metal — resonance reads as power at arena scale."
+      }
+    },
+    practice: {
+      title: "Developing Ilejay's Style",
+      exercises: [
+        {
+          name: "Groove Weight Builder",
+          description: "Build the full-commitment backbeat that anchors Ilejay's classic rock power groove",
+          instructions: "At 110 BPM, play a basic eighth-note groove for five minutes, focusing entirely on making every backbeat feel massive and consistent. Record yourself and check that no hit is weaker than the others.",
+          duration: "15 minutes daily",
+          goal: "A driving eighth-note groove where every backbeat lands with equal, arena-filling weight"
+        },
+        {
+          name: "Restrained Double-Bass Placement",
+          description: "Practice using double bass as punctuation rather than a continuous pattern",
+          instructions: "Take a groove you'd normally fill with continuous 16th-note double bass. Strip it down to two or three accented hits per bar placed under specific riff accents. Focus on making each hit count.",
+          duration: "15 minutes daily",
+          goal: "Confident, sparing double-bass placement that serves the riff instead of demonstrating speed"
+        },
+        {
+          name: "Simple Fill Execution",
+          description: "Develop big, simple fills that mark song sections with impact",
+          instructions: "Practice a four-beat descending tom fill (rack to floor) at 100-120 BPM. Focus on even volume and full commitment on every hit rather than adding complexity. Apply it at verse-to-chorus transitions in songs you know.",
+          duration: "10 minutes daily",
+          goal: "Simple fills executed with full commitment that clearly mark section transitions"
+        }
+      ],
+      commonMistakes: [
+        "Overplaying with continuous double bass instead of sparing, accented placement",
+        "Adding technical complexity where restraint and weight would serve the song better",
+        "Under-committing to backbeats and crashes, which disappears in an arena mix",
+        "Tuning drums too tight and clinical instead of warm and full for a classic rock feel"
+      ]
+    },
+    budgetSetups: {
+      budget: {
+        price: "$1,000",
+        label: "Starter Setup",
+        kit: "Mapex Mars or Tornado ($700)",
+        cymbals: "Zildjian ZBT Pack ($250)",
+        pedals: "Mapex P400 Double ($150)",
+        sticks: "Vic Firth American Classic 5A ($10)",
+        notes: "A basic double-bass-ready kit is enough to build Ilejay's core power groove before investing in a full Saturn Series kit."
+      },
+      mid: {
+        price: "$2,800",
+        label: "Intermediate Setup",
+        kit: "Mapex Armory Series ($1,600)",
+        cymbals: "Zildjian A Custom Set ($900)",
+        pedals: "Mapex Falcon Double ($300)",
+        sticks: "Vic Firth American Classic 5A ($10)",
+        notes: "The Zildjian A Custom set brings the bright, cutting sound closest to Ilejay's arena-ready tone."
+      },
+      pro: {
+        price: "$5,000+",
+        label: "Professional Setup",
+        kit: "Mapex Saturn Series ($3,200+)",
+        cymbals: "Full Zildjian A Custom selection ($1,400+)",
+        pedals: "Mapex Falcon Double ($350)",
+        heads: "Full Evans setup ($150)",
+        notes: "Touring-ready setup matching Ilejay's Hail to the King-era Avenged Sevenfold configuration."
+      }
+    },
+    faq: [
+      {
+        question: "What makes Arin Ilejay's drumming unique?",
+        answer: "Ilejay's identity is restraint and service to the song rather than technical display. Stepping into Avenged Sevenfold after The Rev's death, he deliberately chose power, consistency, and simplicity over progressive complexity — building Hail to the King's classic rock-influenced power grooves around full-commitment backbeats and sparingly-placed double bass rather than continuous technical patterns."
+      },
+      {
+        question: "What gear do I need to sound like Arin Ilejay?",
+        answer: "Ilejay played a Mapex Saturn Series kit with a 14\" x 6.5\" Mapex Black Panther snare during his A7X tenure. His cymbals are Zildjian A Custom — 14\" Mastersound hi-hats, 18\" and 19\" crashes, a 21\" Sweet Ride, and an 18\" China. He used a Mapex Falcon double pedal and Vic Firth American Classic 5A sticks. A Mapex Armory kit with a matching Zildjian A Custom cymbal set gets you close to his tone at a fraction of the cost."
+      },
+      {
+        question: "What songs should I learn first to play like Arin Ilejay?",
+        answer: "Start with \"Shepherd of Fire\" and the title track \"Hail to the King\" for his restrained, classic rock-influenced power groove at mid-tempo. \"This Means War\" demonstrates his sparing double-bass accents, \"Doing Time\" shows his simple, impactful arena fill vocabulary, and \"Requiem\" captures the dynamic build from restrained verses to full-weight choruses."
+      },
+      {
+        question: "How does Arin Ilejay's style differ from The Rev's?",
+        answer: "The Rev's original Avenged Sevenfold style was progressive and technically labyrinthine, drawing on double-bass-heavy metalcore vocabulary and complex fills. Ilejay deliberately moved away from that on Hail to the King, favoring a simpler, heavier, classic rock-influenced approach closer to John Bonham or Lars Ulrich — power and groove over technical complexity."
+      },
+      {
+        question: "How do I develop restrained double-bass technique instead of playing continuous patterns?",
+        answer: "Take a groove you'd normally fill with continuous 16th-note double bass and strip it down to two or three accented hits per bar placed under specific riff hits. Practice noticing how much more impact each hit has when it isn't competing with constant activity — restraint is a discipline, not an absence of skill."
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/arin-ilejay',
+      similarDrummers: ['Lars Ulrich', 'Vinnie Paul', 'John Otto'],
+      relatedGuides: ['how-to-sound-like-lars-ulrich', 'how-to-sound-like-vinnie-paul'],
+      gearPages: ['/gear/drums', '/brands/mapex', '/brands/zildjian']
+    },
+    licksUrl: '/drummers/arin-ilejay/licks',
+    relatedArticles: [
+      { slug: 'arin-ilejay-drum-setup', label: "Arin Ilejay's Drum Setup — Avenged Sevenfold's Hail to the King Era" }
+    ]
+  },
 };
 
 // ================================

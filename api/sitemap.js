@@ -253,6 +253,8 @@ const soundLikeGuides = [
   { slug: 'how-to-sound-like-nick-augusto', name: 'How to Sound Like Nick Augusto' },
   // Issue #2388: SoundLike guide — Jon Dette (re-scoped from batch 15)
   { slug: 'how-to-sound-like-jon-dette', name: 'How to Sound Like Jon Dette' },
+  // Issue #2426: SoundLike guide — Arin Ilejay (re-scoped from batch 16)
+  { slug: 'how-to-sound-like-arin-ilejay', name: 'How to Sound Like Arin Ilejay' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

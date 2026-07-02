@@ -390,6 +390,7 @@ const gearPriceHistoryDrummers = [
   'blake-richardson',    // Colors era (2007) — Issue #3213
   'art-cruz',            // Lamb of God era (2020) — Issue #3213
   'derek-roddy',         // Hate Eternal / I, Monarch era (2005) — Issue #3213
+  'brann-dailor',        // Crack the Skye era (2009) — Issue #2832
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

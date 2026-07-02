@@ -1686,6 +1686,39 @@ const drummers = [
     ],
     videos: [
     ]
+  },
+  {
+    id: 63,
+    name: 'Art Cruz',
+    band: 'Lamb of God',
+    genre: 'Groove Metal / Thrash Metal',
+    genres: ['Groove Metal'],
+    country: 'USA',
+    era: '2010s',
+    image: '/images/drummers/art-cruz.webp',
+    bio: 'Art Cruz, born May 27, 1988, in Downey, California, is the current drummer of Lamb of God. He joined the band in 2019, replacing Chris Adler, after first filling in on their North American tour supporting Slayer\'s farewell tour in 2018. Cruz rose to prominence as one of the genre\'s top touring drummers, previously playing with Winds of Plague and Prong. His first studio album with Lamb of God was their 2020 self-titled release, followed by "Omens" in 2022. Known for his aggressive style, explosive dynamics, and precise double bass work, Cruz has reenergized Lamb of God\'s overall sound while honoring the band\'s legacy.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Art_Cruz',
+      'https://www.instagram.com/artcruzdrums/',
+      'https://zildjian.com/blogs/artist/art-cruz'
+    ],
+    gear: {
+      drums: 'Ludwig Drums',
+      snare: 'Ludwig 14x6.5" Black Beauty',
+      cymbals: 'Zildjian A Custom & K Series (14" A Custom Mastersound Hi-Hats, A Custom crashes, 21" A Zildjian Mega Bell Ride, K China and FX cymbals)',
+      hardware: 'Trick Pro 1-V Double Pedal, Gibraltar Hardware, Ludwig Atlas Throne',
+      sticks: 'Vic Firth American Classic 5B'
+    },
+    photos: [
+      '/images/drummers/art-cruz.webp'
+    ],
+    endorsements: [
+      { name: 'Ludwig Drums', url: 'https://www.ludwig-drums.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' }
+    ],
+    videos: [
+    ]
   }
 ];
 

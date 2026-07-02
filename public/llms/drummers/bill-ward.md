@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/bill-ward"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-07-02"
 ---
 
 # Bill Ward — Drum Kit & Gear Setup
@@ -92,6 +92,42 @@ A: Ward applied jazz vocabulary — space, dynamic shading, and real-time improv
 
 **Full article:** [Black Sabbath (1970) Drum Setup](https://metalforge.io/articles/black-sabbath-drum-setup)
 
+## Technical Ecstasy (1976)
+
+Recorded at Criteria Studios in Miami and released in September 1976, *Technical Ecstasy* found Black Sabbath reaching beyond the doom-and-riff formula of their first six albums into more melodic, mid-tempo material. Bill Ward played the same Ludwig Standard Maple kit, Ludwig Supraphonic snare, and Paiste 2002 cymbals (including the 18" China) he'd introduced on *Sabotage* the year before. The album is also notable as the first time Ward sang lead vocals on a Black Sabbath track — the piano-led ballad "It's Alright" — and closes with "Dirty Women," one of the band's most enduring deep cuts.
+
+**Q: What drums did Bill Ward use on Technical Ecstasy?**
+
+A: Bill Ward recorded *Technical Ecstasy* (1976) on a Ludwig Standard Maple kit — a 22" bass drum, two rack toms, and a 16" floor tom in natural maple — with a Ludwig Supraphonic snare and Paiste 2002 cymbals, unchanged from his *Sabotage* setup.
+
+**Q: Did Bill Ward sing on a Black Sabbath album?**
+
+A: Yes. Bill Ward sang lead vocals on "It's Alright" from *Technical Ecstasy* (1976), the first time he took the mic on a Sabbath album track. The song features no drum part at all.
+
+**Q: What is Dirty Women from?**
+
+A: "Dirty Women" is the closing track on *Technical Ecstasy* (1976), Black Sabbath's seventh studio album — a fan-favorite deep cut built around an extended arrangement that shifts from a patient verse into a driving climax.
+
+**Full article:** [Technical Ecstasy (1976) Drum Setup](https://metalforge.io/articles/technical-ecstasy-drum-setup)
+
+## Never Say Die! (1978)
+
+Sessions for *Never Say Die!* began in the winter of 1977–78 at Sounds Interchange Studios in Toronto — a famously difficult stretch for the band — before finishing at Criteria Studios in Miami. Released in September 1978, it was Bill Ward's last studio album with Black Sabbath's original Ozzy-era lineup; he left the band in 1980 before *Heaven and Hell* was recorded, replaced by Vinnie Appice. Ward's gear stayed the same Ludwig kit and Paiste 2002 cymbals used on *Technical Ecstasy* and *Sabotage*, and he sang lead vocals again on the closing track, "Swinging the Chain."
+
+**Q: What was Bill Ward's last studio album with Black Sabbath before he left?**
+
+A: *Never Say Die!* (1978) was Bill Ward's last studio album with Black Sabbath's original lineup. He departed in 1980 before *Heaven and Hell* was recorded, and was replaced by Vinnie Appice.
+
+**Q: What drums did Bill Ward use on Never Say Die!?**
+
+A: Bill Ward used the same Ludwig Standard Maple kit, Ludwig Supraphonic snare, and Paiste 2002 cymbals on *Never Say Die!* (1978) that he'd played on *Technical Ecstasy* and *Sabotage* — a 22" bass drum, two rack toms, and a 16" floor tom in natural maple.
+
+**Q: What albums did Black Sabbath record with all original members in the 1970s?**
+
+A: Black Sabbath's original lineup recorded eight studio albums in the 1970s: *Black Sabbath* (1970), *Paranoid* (1970), *Master of Reality* (1971), *Vol. 4* (1972), *Sabbath Bloody Sabbath* (1973), *Sabotage* (1975), *Technical Ecstasy* (1976), and *Never Say Die!* (1978) — Bill Ward's last with the band before Vinnie Appice replaced him for *Heaven and Hell* (1980).
+
+**Full article:** [Never Say Die! (1978) Drum Setup](https://metalforge.io/articles/never-say-die-drum-setup)
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Bill Ward:
@@ -108,4 +144,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-02 · Source: [MetalForge.io](https://metalforge.io)*

@@ -264,6 +264,10 @@ const soundLikeGuides = [
   { slug: 'how-to-sound-like-ray-luzier', name: 'How to Sound Like Ray Luzier' },
   // Issue #2513: SoundLike guide — Abe Cunningham (re-scoped from batch 19)
   { slug: 'how-to-sound-like-abe-cunningham', name: 'How to Sound Like Abe Cunningham' },
+  // Issue #3612: SoundLike guides — Van Poederooyen, Talley, Lamb
+  { slug: 'how-to-sound-like-ryan-van-poederooyen', name: 'How to Sound Like Ryan Van Poederooyen' },
+  { slug: 'how-to-sound-like-kevin-talley', name: 'How to Sound Like Kevin Talley' },
+  { slug: 'how-to-sound-like-isaac-lamb', name: 'How to Sound Like Isaac Lamb' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

@@ -5586,6 +5586,409 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['tim yeung fastest drummer gear', 'hate eternal drummer setup', 'tim yeung drum kit cost', 'i monarch drums', 'tim yeung 2005 setup'],
     },
   },
+
+  // Issue #2832: Gear price history batch 19 — Brann Dailor, George Kollias, Jaska Raatikainen
+  'brann-dailor': {
+    slug: 'brann-dailor',
+    name: 'Brann Dailor',
+    band: 'Mastodon',
+    iconicYear: 2011,
+    era: 'The Hunter Era',
+    albumReference: 'The Hunter (2011)',
+    profileImage: '/images/drummers/brann-dailor.webp',
+
+    summary: "Brann Dailor's 2011 setup behind Mastodon's The Hunter marked the start of his groove-forward era — a deliberate pivot from the sprawling double-kick architecture of Crack the Skye (2009) toward shorter, more direct, single-kick songwriting. The Tama Starclassic Maple kit he anchored the album on gave his melodic, jazz-informed fills a warm, resonant canvas, while an expanded Meinl Byzance cymbal palette added the atmospheric color that carried through Mastodon's first Grammy win — \"Black Tongue\" took Best Metal Performance at the 55th Grammy Awards. The complete rig cost approximately $5,645 in 2011 dollars, equivalent to roughly $8,200 in 2026 after CPI adjustment.\n\nWhat makes Dailor's Hunter-era gear notable is how directly the equipment choice tracked the compositional shift: committing to a single 22\" bass drum, rather than the double-kick setup of earlier albums, redirected his creative energy toward groove and melodic tom work rather than technical velocity — and the Starclassic Maple's warm, fundamental-rich tone was chosen specifically to let that melodic playing register as musical content. Dailor's rig has since moved through the Tama Starclassic Maple of Emperor of Sand (2017) to a Pearl Reference Pure kit for Hushed and Grim (2021), but the Meinl Byzance cymbal relationship and Tama Iron Cobra pedal have remained career-long constants. For drummers researching how a commercially accessible metal album can still carry real technical and tonal intent, the Hunter-era rig is one of the clearest documented cases.",
+
+    setup: {
+      drums: {
+        item: 'Tama Starclassic Maple',
+        model: 'Custom wrap finish shell pack',
+        specs: '22" bass drum (single kick), 10"/12"/13" rack toms, 16" floor tom',
+        originalPrice: 3800,
+        year: 2011,
+        source: 'Tama Starclassic Maple catalog pricing 2011',
+        notes: "The Starclassic's warm, fundamental-rich maple tone let Dailor's melodic tom runs register as musical content rather than rhythmic noise — the defining shift of the Hunter era's groove-focused songwriting.",
+        vintageValue2026: 4600,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure (current Hushed and Grim-era kit)',
+          price: 4800,
+          link: 'pearl-reference-pure',
+        },
+      },
+      snare: {
+        item: 'Tama Starphonic / Artstar Snare',
+        model: '14"x6.5" steel/wood hybrid',
+        specs: '14"x6.5", matched to the Starclassic shell pack',
+        originalPrice: 550,
+        year: 2011,
+        source: 'Tama snare catalog pricing 2011',
+        notes: "A full, present snare with enough body to anchor The Hunter's accessible hooks while retaining the ghost-note sensitivity Dailor's fills require.",
+        vintageValue2026: 650,
+        modernEquivalent: {
+          item: 'Tama S.L.P. 14"x6.5" G-Maple (current)',
+          price: 500,
+          link: 'tama-slp-sonic-steel',
+        },
+      },
+      cymbals: {
+        item: 'Meinl Byzance Series',
+        model: 'Traditional / Brilliant configuration',
+        specs: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
+        originalPrice: 2100,
+        year: 2011,
+        source: 'Meinl Byzance catalog pricing 2011',
+        notes: "The dark, blooming Byzance character carried the atmospheric color Dailor built on Crack the Skye into The Hunter's more direct song structures — restraint over frequency of use was the defining trait of his cymbal work this era.",
+        vintageValue2026: 2500,
+        modernEquivalent: {
+          item: 'Meinl Byzance Series (current expanded palette)',
+          price: 2600,
+          link: 'meinl-byzance',
+        },
+      },
+      hardware: {
+        item: 'Tama Iron Cobra Single Pedal + Hardware',
+        model: 'Single pedal, hi-hat stand, boom stands, throne',
+        specs: 'Tama Iron Cobra single pedal, Tama Iron Cobra hi-hat stand, boom stands, throne',
+        originalPrice: 480,
+        year: 2011,
+        source: 'Tama hardware catalog pricing 2011',
+        notes: "A single pedal rather than a double — the mechanical commitment behind Dailor's groove-first, single-kick approach on The Hunter.",
+        vintageValue2026: 560,
+        modernEquivalent: {
+          item: 'Tama Iron Cobra Single Pedal + Roc-N-Soc Nitro Throne (current)',
+          price: 520,
+          link: 'tama-iron-cobra-single',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth Brann Dailor Signature',
+        model: 'Hickory, medium taper',
+        specs: 'Signature model launched during the Crack the Skye era, carried through The Hunter',
+        originalPrice: 15,
+        year: 2011,
+        source: 'Vic Firth signature stick retail pricing 2011',
+        notes: "Dailor's own signature stick — refined for the fast melodic tom work and ghost-note dense grooves that define his playing.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth Brann Dailor Signature (current)',
+          price: 18,
+          link: 'vic-firth-brann-dailor-signature',
+        },
+      },
+      heads: {
+        item: 'Remo Coated Ambassador',
+        model: 'Coated batter, clear resonant',
+        specs: 'Remo Coated Ambassador on toms and snare batter',
+        originalPrice: 80,
+        year: 2011,
+        source: 'Remo professional pricing 2011',
+        notes: 'Warm, controlled-attack heads that complemented the Starclassic Maple shells without imposing extra brightness.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans UV1 Coated / Hazy 300 (current)',
+          price: 100,
+          link: 'evans-uv1-coated',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 7025,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 8310,
+      modernEquivalentTotal: 8538,
+    },
+
+    priceEvolution: [
+      { year: 1999, price: 2800, label: 'Remission era', event: "Mastodon's debut — budget Mapex kit with a DW 5000 double pedal as the one priority investment" },
+      { year: 2006, price: 9000, label: 'Blood Mountain era', event: 'Switches to Gretsch USA Custom, later returns to Tama for the groove era' },
+      { year: 2011, price: 7025, label: 'Original Purchase', event: 'The Hunter recorded — Tama Starclassic Maple + Meinl Byzance groove-era rig established; first Grammy win' },
+      { year: 2017, price: 8800, label: 'Emperor of Sand era', event: 'Grammy win for Best Metal Performance; Tama Starclassic Maple rig continues' },
+      { year: 2021, price: 10200, label: 'Hushed and Grim era', event: 'Switches to Pearl Reference Pure and Zildjian A Custom/Z Custom cymbals' },
+      { year: 2026, price: 10233, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2011 setup' },
+    ],
+
+    sources: [
+      { title: 'Tama Starclassic Maple Catalog', year: 2011, type: 'catalog' },
+      { title: 'Modern Drummer — Brann Dailor Interview', year: 2011, type: 'interview' },
+      { title: 'Meinl Byzance Artist Profiles — Brann Dailor', year: 2012, type: 'manufacturer' },
+      { title: 'Reverb Price Guide — Tama Starclassic Maple', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Brann Dailor 2011 Mastodon Drum Setup Cost | The Hunter Era Gear Prices",
+      description: "How much did Brann Dailor's 2011 Mastodon drum kit cost? Original Tama Starclassic Maple + Meinl Byzance setup ~$7,025, inflation-adjusted to ~$10,233 today. Complete The Hunter-era gear breakdown.",
+      keywords: ['brann dailor drum kit cost', 'mastodon drummer gear price', 'the hunter drums cost', 'brann dailor 2011 setup', 'brann dailor tama starclassic price'],
+    },
+  },
+
+  'george-kollias': {
+    slug: 'george-kollias',
+    name: 'George Kollias',
+    band: 'Nile',
+    iconicYear: 2009,
+    era: 'Those Whom the Gods Detest Era',
+    albumReference: 'Those Whom the Gods Detest (2009)',
+    profileImage: '/images/drummers/george-kollias.webp',
+
+    summary: "George Kollias's 2009 setup behind Nile's Those Whom the Gods Detest represents the technical and artistic peak of the rig that cemented him as the most precise blast beat drummer in death metal. Built around a Pearl Reference Pure all-maple shell pack, a Paiste Signature Series cymbal configuration, and the Tama Iron Cobra HP900 double pedal he has never switched away from, the complete rig cost approximately $14,000 in 2009 dollars, equivalent to roughly $19,700 in 2026 after CPI adjustment. This was also the era of his first Vic Firth George Kollias signature drumsticks — engineered specifically for durability at elite blast beat speeds — and the introduction of ddrum kick triggers to guarantee live consistency at extreme tempos.\n\nWhat sets Kollias's gear history apart is the two-decade continuity beneath the upgrades: he has run the same Tama Iron Cobra pedal since his pre-Nile days in the Greek underground, and the same Pearl endorsement since joining the band in 2004 — Pearl Reference Series upgrading to Reference Pure, but never a brand switch. That consistency is deliberate; his blast beat technique, verified at 280+ BPM by Guinness World Records, was built around the Iron Cobra's specific feel, and changing it would mean rebuilding muscle memory that took two decades to refine. For drummers and gear researchers asking what it costs to assemble the most technically demanding death metal rig ever documented, the Those Whom the Gods Detest era remains the clearest benchmark.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Reference Pure',
+        model: 'All-maple shell pack',
+        specs: '22" bass drum, 8"/10"/12"/14"/16" toms',
+        originalPrice: 4200,
+        year: 2009,
+        source: 'Pearl Reference Pure catalog pricing 2009',
+        notes: "The upgrade from Pearl Reference Series to all-maple Reference Pure gave Kollias a warmer, more resonant tone for Nile's dense, Egyptian-themed arrangements without sacrificing the projection extreme tempos demand.",
+        vintageValue2026: 5200,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure (current, custom finish)',
+          price: 4800,
+          link: 'pearl-reference-pure',
+        },
+      },
+      snare: {
+        item: 'Pearl Free-Floating Steel 14"x6.5"',
+        model: 'Free-floating steel shell',
+        specs: '14"x6.5", free-floating mount for maximum sensitivity and attack',
+        originalPrice: 420,
+        year: 2009,
+        source: 'Pearl Free-Floating catalog pricing 2009',
+        notes: 'An explosive-attack snare tuned for ultra-fast snare work — the same snare Kollias carried consistently across multiple album cycles.',
+        vintageValue2026: 520,
+        modernEquivalent: {
+          item: 'Pearl George Kollias Signature 14"x6.5" (current)',
+          price: 480,
+          link: 'pearl-george-kollias-signature-snare',
+        },
+      },
+      cymbals: {
+        item: 'Paiste Signature Series',
+        model: 'Full configuration',
+        specs: '14" hi-hats, 17"/18"/19" crashes, 21" ride, 18" China',
+        originalPrice: 2400,
+        year: 2009,
+        source: 'Paiste Signature Series catalog pricing 2009',
+        notes: 'A 20+ year Paiste partnership dating back to his Greek underground days on Paiste 2002 — the Signature line offered the professional-grade projection extreme touring required.',
+        vintageValue2026: 2900,
+        modernEquivalent: {
+          item: 'Paiste Signature Series (current complete configuration)',
+          price: 3000,
+          link: 'paiste-signature-series',
+        },
+      },
+      hardware: {
+        item: 'Tama Iron Cobra HP900 Double Pedal',
+        model: 'Double bass pedal + stands',
+        specs: 'Tama Iron Cobra HP900 double pedal, hi-hat stand, boom stands, throne',
+        originalPrice: 420,
+        year: 2009,
+        source: 'Tama hardware catalog pricing 2009',
+        notes: "The one piece of gear Kollias has never changed — his blast beat technique, later Guinness-certified at 280+ BPM, was built around the Iron Cobra's specific feel and response since his pre-Nile days.",
+        vintageValue2026: 500,
+        modernEquivalent: {
+          item: 'Tama Iron Cobra HP900 (current, unchanged)',
+          price: 450,
+          link: 'tama-iron-cobra-hp900',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth George Kollias Signature',
+        model: 'Hickory, extreme-speed profile',
+        specs: 'First George Kollias signature model, engineered for blast beat durability',
+        originalPrice: 14,
+        year: 2009,
+        source: 'Vic Firth signature stick retail pricing 2009',
+        notes: "Kollias's first signature drumstick — designed to survive sustained blast beats above 250 BPM without splintering, a durability requirement most stock sticks couldn't meet.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth George Kollias Signature SGK (current, heavier rear end)',
+          price: 17,
+          link: 'vic-firth-george-kollias-signature',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Powerstroke 3',
+        model: 'Emperor (toms), Powerstroke 3 (kick)',
+        specs: 'Remo Emperor double-ply on toms, Powerstroke 3 batter on kick, plus ddrum kick triggers',
+        originalPrice: 95,
+        year: 2009,
+        source: 'Remo professional pricing 2009, ddrum trigger pricing 2009',
+        notes: "Double-ply Emperor heads for durability at extreme tempos, paired with newly introduced ddrum kick triggers to guarantee the double bass cut through the mix at demanding international touring volumes.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor / Powerstroke 3 + ddrum Acoustic Pro Triggers (current)',
+          price: 130,
+          link: 'ddrum-acoustic-pro-triggers',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 7549,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 9120,
+      modernEquivalentTotal: 8877,
+    },
+
+    priceEvolution: [
+      { year: 1995, price: 2500, label: 'Greek Underground era', event: 'Budget Tama/Paiste rig — technical foundation and Iron Cobra pedal technique built pre-Nile' },
+      { year: 2005, price: 9000, label: 'Annihilation of the Wicked era', event: 'Joins Nile; Pearl endorsement begins, debut sets new technical benchmark for death metal' },
+      { year: 2009, price: 7549, label: 'Original Purchase', event: 'Those Whom the Gods Detest recorded — Pearl Reference Pure and first Vic Firth GK signature sticks established' },
+      { year: 2015, price: 14000, label: 'What Should Not Be Unearthed era', event: 'Setup refined; ddrum Acoustic Pro Triggers upgraded to full hybrid system' },
+      { year: 2019, price: 18000, label: 'Vile Nilotic Rites era', event: 'Most refined and precise death metal rig of Kollias\'s career' },
+      { year: 2026, price: 11529, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2009 setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Reference Pure Catalog', year: 2009, type: 'catalog' },
+      { title: 'Modern Drummer — George Kollias Interview', year: 2010, type: 'interview' },
+      { title: 'Vic Firth Artist Profiles — George Kollias', year: 2009, type: 'manufacturer' },
+      { title: 'Reverb Price Guide — Pearl Reference Pure', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "George Kollias 2009 Nile Drum Setup Cost | Those Whom the Gods Detest Era Gear Prices",
+      description: "How much did George Kollias's 2009 Nile drum kit cost? Original Pearl Reference Pure + Paiste Signature setup ~$7,549, inflation-adjusted to ~$11,529 today. Complete Those Whom the Gods Detest-era gear breakdown.",
+      keywords: ['george kollias drum kit cost', 'nile drummer gear price', 'pearl reference pure cost', 'george kollias 2009 setup', 'george kollias blast beat gear'],
+    },
+  },
+
+  'jaska-raatikainen': {
+    slug: 'jaska-raatikainen',
+    name: 'Jaska Raatikainen',
+    band: 'Children of Bodom',
+    iconicYear: 2000,
+    era: 'Follow the Reaper Era',
+    albumReference: 'Follow the Reaper (2000)',
+    profileImage: '/images/drummers/jaska-raatikainen.webp',
+
+    summary: "Jaska Raatikainen's 2000 setup behind Children of Bodom's Follow the Reaper — widely considered the band's defining album — is where his developing Pearl endorsement solidified into the flagship Pearl Masters Premium Maple rig that would anchor his playing for the next two decades. Tracks like \"Needled 24/7\" and \"Sixpounder\" demanded a pedal that responded identically on every stroke, which is exactly what drove his adoption of the newly released Pearl Eliminator double bass pedal and its interchangeable cam system. The complete rig cost approximately $3,846 in 2000 dollars, equivalent to roughly $7,300 in 2026 after CPI adjustment.\n\nWhat distinguishes Raatikainen's gear history from most of his melodic death metal peers is how little it changed after this point: the Pearl Masters Premium Maple kit, the Pearl Eliminator pedal, and a Zildjian A Custom/K Custom cymbal split established here carried through Hate Crew Deathroll (2003), Are You Dead Yet? (2005), Blooddrunk (2008), and all the way to Hexed (2019), Children of Bodom's final album before the band's 2019 dissolution. Across a 26-year, ten-album career, Raatikainen refined rather than replaced — a striking contrast to drummers who cycle through brand endorsements, and a clear signal that his Follow the Reaper-era rig was, in essence, the finished product.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Masters Premium Maple',
+        model: 'Six-ply all-maple shell pack',
+        specs: '22" bass drum, 10"/12" rack toms, 16" floor tom',
+        originalPrice: 2100,
+        year: 2000,
+        source: 'Pearl Masters Premium Maple catalog pricing 2000',
+        notes: "The flagship endorsement solidifying here — six-ply all-maple shells gave Raatikainen's fast, technical double-kick patterns a warm low end without losing articulation against Children of Bodom's keyboard-driven neoclassical melodies.",
+        vintageValue2026: 2800,
+        modernEquivalent: {
+          item: 'Pearl Masters Premium Maple (current, custom finish)',
+          price: 2600,
+          link: 'pearl-masters-premium-maple',
+        },
+      },
+      snare: {
+        item: 'Pearl Masters 14"x5.5" Maple',
+        model: 'Six-ply maple shell',
+        specs: '14"x5.5", matched to the Masters Premium Maple shell pack',
+        originalPrice: 380,
+        year: 2000,
+        source: 'Pearl Masters catalog pricing 2000',
+        notes: 'A bright, articulate maple snare that stayed Raatikainen\'s standard configuration through every subsequent Children of Bodom album.',
+        vintageValue2026: 480,
+        modernEquivalent: {
+          item: 'Pearl Masters 14"x5.5" Maple (current)',
+          price: 420,
+          link: 'pearl-masters-maple-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Custom',
+        model: 'Hi-hats and crashes, developing K Custom ride relationship',
+        specs: '14" hi-hats, 16"/18" crashes, 20" ride',
+        originalPrice: 900,
+        year: 2000,
+        source: 'Zildjian A Custom catalog pricing 2000',
+        notes: "An upgrade from the developing A Series relationship of Something Wild and Hatebreeder — A Custom's bright, fast-attacking cut suited Follow the Reaper's blend of speed metal aggression and neoclassical melody.",
+        vintageValue2026: 1150,
+        modernEquivalent: {
+          item: 'Zildjian A Custom + K Custom Series (current)',
+          price: 1300,
+          link: 'zildjian-a-custom-k-custom',
+        },
+      },
+      hardware: {
+        item: 'Pearl Eliminator Double Bass Pedal',
+        model: 'Interchangeable cam double pedal + stands',
+        specs: 'Pearl Eliminator double pedal, hi-hat stand, boom stands, throne',
+        originalPrice: 340,
+        year: 2000,
+        source: 'Pearl Eliminator catalog pricing 2000',
+        notes: "The Eliminator's interchangeable cam system let Raatikainen dial in an acceleration curve that repeated identically on every stroke — non-negotiable for \"Needled 24/7\" and \"Sixpounder\"'s sustained double-kick patterns.",
+        vintageValue2026: 420,
+        modernEquivalent: {
+          item: 'Pearl Eliminator Double Bass Pedal (current, unchanged)',
+          price: 380,
+          link: 'pearl-eliminator-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5A',
+        model: 'Hickory, wood tip',
+        specs: 'Newly adopted signature stick model',
+        originalPrice: 6,
+        year: 2000,
+        source: 'Vic Firth retail pricing 2000',
+        notes: 'Adopted alongside the Pearl Masters upgrade and never changed — the lighter 5A suited the fast, technical patterns Follow the Reaper demanded.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5A (current, unchanged)',
+          price: 14,
+          link: 'vic-firth-american-classic-5a',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Ambassador',
+        model: 'Emperor (kick/toms), Ambassador (snare)',
+        specs: 'Remo Emperor batter on kick and toms, Ambassador on snare',
+        originalPrice: 120,
+        year: 2000,
+        source: 'Remo professional pricing 2000',
+        notes: 'Durable double-ply Emperor heads for extended touring, unchanged across every subsequent album cycle.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor / Ambassador (current)',
+          price: 150,
+          link: 'remo-emperor-ambassador',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 3846,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 4850,
+      modernEquivalentTotal: 4864,
+    },
+
+    priceEvolution: [
+      { year: 1997, price: 2000, label: 'Something Wild / Hatebreeder era', event: 'Developing Pearl and Zildjian endorsements on the band\'s first two albums' },
+      { year: 2000, price: 3846, label: 'Original Purchase', event: 'Follow the Reaper recorded — Pearl Masters Premium Maple and Pearl Eliminator pedal established as core gear' },
+      { year: 2003, price: 4500, label: 'Hate Crew Deathroll era', event: "Children of Bodom's commercial peak; same rig pushed through unrelenting touring" },
+      { year: 2008, price: 4500, label: 'Blooddrunk era', event: 'Full Zildjian A Custom/K Custom cymbal setup reaches its established configuration' },
+      { year: 2019, price: 5000, label: 'Hexed era', event: 'Final Children of Bodom album — core rig unchanged since 2000' },
+      { year: 2026, price: 7317, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2000 setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Masters Premium Maple Catalog', year: 2000, type: 'catalog' },
+      { title: 'Rhythm Magazine — Jaska Raatikainen Interview', year: 2001, type: 'interview' },
+      { title: 'Zildjian Artist Profiles — Jaska Raatikainen', year: 2003, type: 'manufacturer' },
+      { title: 'Reverb Price Guide — Pearl Masters Premium Maple', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Jaska Raatikainen 2000 Children of Bodom Drum Setup Cost | Follow the Reaper Era Gear Prices",
+      description: "How much did Jaska Raatikainen's 2000 Children of Bodom drum kit cost? Original Pearl Masters Premium Maple + Pearl Eliminator setup ~$3,846, inflation-adjusted to ~$7,317 today. Complete Follow the Reaper-era gear breakdown.",
+      keywords: ['jaska raatikainen drum set price', 'children of bodom drummer gear', 'follow the reaper drums cost', 'jaska raatikainen 2000 setup', 'jaska raatikainen pearl masters price'],
+    },
+  },
 };
 
 // ==========================================

@@ -374,6 +374,9 @@ const gearPriceHistoryDrummers = [
   'raymond-herrera', // Demanufacture era (1995) — Issue #2445
   'kevin-talley',    // Destroy the Opposition era (2000) — Issue #2445
   'tim-yeung',       // I, Monarch era (2005) — Issue #2445
+  'brann-dailor',    // The Hunter era (2011) — Issue #2832
+  'george-kollias',  // Those Whom the Gods Detest era (2009) — Issue #2832
+  'jaska-raatikainen', // Follow the Reaper era (2000) — Issue #2832
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

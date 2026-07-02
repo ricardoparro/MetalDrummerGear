@@ -59,7 +59,10 @@ const CRITICAL_WORKFLOWS = [
   { file: 'roadie-night-fleet.yml', name: 'Roadie Night Fleet', intervalH: 24 },
   { file: 'pr-merger.yml', name: 'PR Merger', intervalH: 1 },
   { file: 'ceo-agent.yml', name: 'CEO Agent', intervalH: 3 },
-  { file: 'seo-agent.yml', name: 'SEO Agent', intervalH: 3 },
+  // SEO Agent's cron is '0 7,13,19 * * *' — daytime slots are 6h apart, but
+  // 19:00 → 07:00 next day is a 12h overnight gap. Use 12h (not the 6h
+  // daytime cadence) so that normal overnight gap never trips the stale check.
+  { file: 'seo-agent.yml', name: 'SEO Agent', intervalH: 12 },
   { file: 'check-gsc-watched-queries.yml', name: 'GSC Watch (L1)', intervalH: 168 },
   { file: 'check-llm-citations.yml', name: 'LLM Citations (L2)', intervalH: 168 },
   { file: 'check-indexation.yml', name: 'Indexation (L3)', intervalH: 168 },

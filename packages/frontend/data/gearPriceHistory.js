@@ -6564,6 +6564,143 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['derek roddy drum setup cost', 'hate eternal drum kit price', 'pearl reference series price', 'derek roddy gear cost today', 'i monarch drum kit price'],
     },
   },
+
+  // ==========================================
+  // BRANN DAILOR - 2004 Leviathan Era
+  // Tama Starclassic Bubinga Setup
+  // Issue #2832: SEO batch — gear price history batch 19
+  // ==========================================
+  'brann-dailor': {
+    slug: 'brann-dailor',
+    name: 'Brann Dailor',
+    band: 'Mastodon',
+    iconicYear: 2004,
+    era: 'Leviathan Era',
+    albumReference: 'Leviathan (2004)',
+    profileImage: '/images/drummers/brann-dailor.webp',
+
+    summary: "Brann Dailor's 2004 setup behind Mastodon's Leviathan — the Moby-Dick concept album that transformed an Atlanta sludge outfit into one of metal's most critically celebrated bands — centers on the Tama Starclassic Bubinga kit he signed for during 2002's Remission sessions, paired with Sabian HHX cymbals, a Tama Iron Cobra Power Glide double pedal, and Vater 3A sticks. The complete rig cost approximately $7,600 in 2004 dollars, equivalent to roughly $13,200 today after inflation. Dailor's gear evolved from there — trading Sabian's bright HHX voice for the darker, more complex tone of Meinl cymbals around the Grammy-nominated Crack the Skye (2009), then settling into a refined Starclassic configuration for the Grammy-winning Emperor of Sand (2017) and Hushed and Grim (2021). His current setup, refined across two decades with Mastodon, retains the same Tama and Meinl core — now anchored by his own Tama \"Brann's Bronze\" signature snare and Meinl Classics Custom signature Ghost Ride — valued at approximately $7,900 at current retail, a rig built entirely around the melodic, jazz-trained tom vocabulary that made him one of metal's most distinctive drummers.",
+
+    setup: {
+      drums: {
+        item: 'Tama Starclassic Bubinga',
+        model: 'Six-ply African bubinga shell pack',
+        specs: 'Double 22"x18" kicks, 10"/12" racks, 14"/16" floors',
+        originalPrice: 4700,
+        year: 2004,
+        source: 'Tama Starclassic Bubinga catalog MSRP 2004',
+        notes: "The six-ply bubinga shell pack Dailor signed with Tama for during 2002's Remission sessions — Star-Cast mounted toms let the shells resonate freely for his melodic fill vocabulary, and the double 22\"x18\" kicks drove Leviathan's most physical passages.",
+        vintageValue2026: 3400,
+        modernEquivalent: {
+          item: 'Tama Starclassic Performer B/B (Current Configuration)',
+          price: 3800,
+          link: 'tama-starclassic-performer-dailor',
+        },
+      },
+      snare: {
+        item: 'Tama Bell Brass 14"x5.5"',
+        model: 'Brass shell snare',
+        specs: '14"x5.5" brass shell',
+        originalPrice: 550,
+        year: 2004,
+        source: 'Tama snare catalog pricing 2004',
+        notes: "Bright, cutting brass shell chosen for projection through Matt Bayles' dense guitar mix — shallower than the 6.5\" snare Dailor adopted for Crack the Skye.",
+        vintageValue2026: 460,
+        modernEquivalent: {
+          item: 'Tama "Brann\'s Bronze" Signature Snare 14"x6.5" (BD1465)',
+          price: 650,
+          link: 'tama-branns-bronze-signature-snare',
+        },
+      },
+      cymbals: {
+        item: 'Sabian HHX Series',
+        model: 'Full HHX configuration',
+        specs: '14" Groove Hi-Hats, 17"/18" Crashes, 21" Ride, 18" China, 10" Splash',
+        originalPrice: 1700,
+        year: 2004,
+        source: 'Sabian HHX Series catalog pricing 2004',
+        notes: "Sabian's hand-hammered HHX line was Dailor's cymbal voice through the early-to-mid 2000s, before he switched to Meinl's darker tone for Crack the Skye and beyond.",
+        vintageValue2026: 1350,
+        modernEquivalent: {
+          item: 'Meinl MB20/MB8 Series + Classics Custom Signature Ghost Ride (Current)',
+          price: 2400,
+          link: 'meinl-mb20-mb8-signature-ghost-ride-dailor',
+        },
+      },
+      hardware: {
+        item: 'Tama Iron Cobra Power Glide Double Pedal',
+        model: 'Offset-cam double pedal + stands',
+        specs: 'Tama Iron Cobra Power Glide double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 550,
+        year: 2004,
+        source: 'Tama hardware catalog pricing 2004',
+        notes: "The Iron Cobra Power Glide's offset cam suited Dailor's controlled foot technique on the extended double-kick passages of \"Iron Tusk\" and \"Hearts Alive.\"",
+        vintageValue2026: 420,
+        modernEquivalent: {
+          item: 'Tama Speed Cobra Double Pedal + Stands (Current)',
+          price: 900,
+          link: 'tama-speed-cobra-dailor',
+        },
+      },
+      sticks: {
+        item: 'Vater 3A Wood Tip',
+        model: 'Standard hickory',
+        specs: 'Hickory, wood tip',
+        originalPrice: 7,
+        year: 2004,
+        source: 'Standard retail pricing 2004',
+        notes: "3A splits the difference between a 5A's fill articulation and a 5B's projection — Dailor's stick of choice for the Leviathan era before later settling on a 5B.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vater 5B (Current)',
+          price: 9,
+          link: 'vater-5b-dailor',
+        },
+      },
+      heads: {
+        item: 'Evans Genera G2 / EMAD',
+        model: 'G2 Clear toms, EMAD kick',
+        specs: 'Genera G2 Clear tom batters, EMAD Clear kick batter with Resonant Bass front head',
+        originalPrice: 93,
+        year: 2004,
+        source: 'Evans retail pricing 2004',
+        notes: "The EMAD/Genera G2 combination balanced durability for touring with the clear tone Dailor's melodic tom work needs.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans G2 Clear / EMAD2 Pro Pack (Current)',
+          price: 120,
+          link: 'evans-g2-emad2-pack-dailor',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 7600,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 5630,
+      modernEquivalentTotal: 7879,
+    },
+
+    priceEvolution: [
+      { year: 2004, price: 7600, label: 'Original Purchase', event: 'Leviathan recording and touring cycle — Tama Starclassic Bubinga and Sabian HHX rig in place' },
+      { year: 2009, price: 9500, label: 'Crack the Skye Era', event: 'Transition to Meinl cymbals for a darker, more atmospheric tone; Grammy-nominated breakthrough album' },
+      { year: 2017, price: 11500, label: 'Emperor of Sand Era', event: 'Refined Starclassic configuration; Grammy Award win for Best Metal Performance' },
+      { year: 2026, price: 13182, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2004 Tama Starclassic Bubinga setup' },
+    ],
+
+    sources: [
+      { title: 'Tama Starclassic Bubinga Catalog', year: 2004, type: 'catalog' },
+      { title: 'DRUM! Magazine — Brann Dailor, Anatomy of a Session for Emperor of Sand', year: 2017, type: 'interview' },
+      { title: 'Meinl Cymbals Artist Profile — Brann Dailor', year: 2012, type: 'manufacturer' },
+      { title: 'Reverb Marketplace Analysis — Tama Starclassic Series', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Brann Dailor Drum Setup Cost | Mastodon Gear Price History",
+      description: "How much was Brann Dailor's Leviathan-era drum kit worth? Original Tama Starclassic Bubinga setup ~$7,600 in 2004, inflation-adjusted to ~$13,200 today. Complete gear breakdown across his two-decade Mastodon tenure.",
+      keywords: ['brann dailor drum setup cost', 'mastodon drum kit price', 'tama starclassic bubinga price', 'brann dailor gear cost today', 'leviathan drum kit price'],
+    },
+  },
 };
 
 // ==========================================

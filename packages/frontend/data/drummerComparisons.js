@@ -2277,6 +2277,72 @@ export const drummerComparisons = {
       { q: 'What gear do Alex Bent and Matt Garstka use?', a: 'Alex Bent plays a Pearl Reference Pure Series kit with a Pearl Reference 14x5" Brass snare and Zildjian K Custom Hybrid cymbals. Matt Garstka plays a Tama Starclassic Walnut/Birch kit with his Tama S.L.P. 14x6" G-Maple snare and Meinl Byzance Series cymbals, driven by a Tama Speed Cobra 910 double pedal.' },
     ],
   },
+
+  'richard-christy-vs-derek-roddy': {
+    slug: 'richard-christy-vs-derek-roddy',
+    title: 'Richard Christy vs Derek Roddy',
+    metaTitle: 'Richard Christy vs Derek Roddy: Technical Death Metal Speed Compared | MetalForge',
+    metaDescription: 'Death\'s Richard Christy vs Hate Eternal/Nile\'s Derek Roddy — progressive technicality versus relentless extremity in 2000s technical death metal drumming.',
+    category: 'extreme',
+    drummers: ['richard-christy', 'derek-roddy'],
+    comparison: {
+      style: 'Richard Christy joined Death for Chuck Schuldiner\'s final lineup, bringing progressive technicality and controlled complexity to "The Sound of Perseverance" (1998) before a brief stint with Iced Earth and later founding his own band, Charred Walls of the Damned. Derek Roddy built his reputation across Malevolent Creation, Nile, and Hate Eternal, favoring relentless, high-velocity extremity over compositional nuance, and remains one of the most recognizable names from the late-90s/2000s technical death metal scene.',
+      technique: 'Christy\'s playing balances intricate fills and shifting time signatures with brutal intensity, serving Death\'s increasingly progressive songwriting rather than showcasing raw speed alone — a discipline he carried into his solo instructional work. Roddy pioneered one-footed bass drum blasting — sustaining extreme tempos without relying on a double pedal — to prove that speed was a matter of technique, not equipment, becoming a benchmark for extreme-metal endurance that he later broke down in his own instructional books and DVDs.',
+      gear: 'Richard plays a Tama Starclassic Maple kit with a matching 14x6.5" Tama Starclassic maple snare, Sabian AAX & HHX cymbals, and a Tama Iron Cobra 900 double pedal. Derek favors a heavier Tama Starclassic Bubinga kit with a punchier 14x6.5" Tama SLP Black Brass snare, Meinl Byzance & Mb20 cymbals, and a Tama Speed Cobra 910 double pedal tuned for his signature footwork.',
+      influence: 'Christy proved technical death metal could remain musical and progressive, influencing drummers who studied Chuck Schuldiner\'s final Death lineup. Roddy became a widely respected extreme-metal educator, and his one-footed blast beat technique reshaped how drummers think about generating speed without technological shortcuts.',
+    },
+    verdict: 'Richard Christy brought progressive nuance and musicality to death metal\'s most influential band during its final chapter. Derek Roddy pushed raw extremity and technical endurance to their outer limits across Hate Eternal, Nile, and Malevolent Creation. Both remain foundational figures in technical death metal, respected equally as performers and educators who shaped how the genre\'s next generation approaches speed.',
+    faqs: [
+      { q: 'Who is technically more skilled, Richard Christy or Derek Roddy?', a: 'Both are elite technicians from different technical death metal traditions. Richard Christy\'s skill set is rooted in progressive complexity — intricate fills and shifting time signatures developed during his run with Death\'s final lineup. Derek Roddy\'s skill set is rooted in extreme-speed endurance — most notably his one-footed bass drum blasting technique developed across Hate Eternal, Nile, and Malevolent Creation.' },
+      { q: 'What is each drummer\'s signature technique?', a: 'Richard Christy\'s signature is progressive, musical technicality serving complex song structures, showcased on Death\'s "The Sound of Perseverance" (1998). Derek Roddy\'s signature is one-footed bass drum blasting — sustaining extreme tempos without a double pedal to prove speed is a matter of technique, not gear.' },
+      { q: 'What bands have Richard Christy and Derek Roddy played in?', a: 'Richard Christy played drums on Death\'s final album "The Sound of Perseverance" (1998) and briefly joined Iced Earth (2003–2004) before forming Charred Walls of the Damned. Derek Roddy has played with Malevolent Creation, Nile, Hate Eternal, Aurora Borealis, and Council of the Fallen.' },
+      { q: 'What gear do Richard Christy and Derek Roddy use?', a: 'Richard Christy plays a Tama Starclassic Maple kit with a 14x6.5" Tama Starclassic maple snare and Sabian AAX & HHX cymbals. Derek Roddy plays a Tama Starclassic Bubinga kit with a 14x6.5" Tama SLP Black Brass snare and Meinl Byzance & Mb20 cymbals, driven by a Tama Speed Cobra 910 double pedal.' },
+    ],
+  },
+
+  'kevin-talley-vs-george-kollias': {
+    slug: 'kevin-talley-vs-george-kollias',
+    title: 'Kevin Talley vs George Kollias',
+    metaTitle: 'Kevin Talley vs George Kollias: Brutal Death Metal Speed Showdown | MetalForge',
+    metaDescription: 'Dying Fetus/Misery Index\'s Kevin Talley vs Nile\'s George Kollias — brutal death metal blast-beat velocity versus technical precision at 240+ BPM compared.',
+    category: 'extreme',
+    drummers: ['kevin-talley', 'george-kollias'],
+    comparison: {
+      style: 'Kevin Talley built his reputation in brutal death metal and grindcore across Dying Fetus, Misery Index, and Six Feet Under, favoring relentless blast-beat barrages that prioritize raw ferocity over ornamentation. George Kollias combines Greek precision with Nile\'s Egyptian-themed technicality, layering complex, composed fills over sustained extreme tempos since taking over the drum stool in 2004.',
+      technique: 'Talley\'s fast, precise single-stroke blasting became a blueprint for brutal death metal drumming, prized for stamina across dense, grinding arrangements spanning multiple influential bands including Chimaira and Suffocation. Kollias employs heel-toe double bass technique to sustain blast beats north of 240 BPM with surgical clarity, a technical benchmark that pushed extreme-metal speed into more compositionally demanding territory while remaining musical within Nile\'s dense arrangements.',
+      gear: 'Kevin plays a Pearl Masters Premium Legend kit with a 14x5.5" Pearl Masters maple snare, Sabian AAX Series cymbals, and a Pearl Eliminator double pedal. George\'s Pearl Masterworks Stadium Exotic kit features his own 14x6.5" Pearl George Kollias Signature snare, Zildjian cymbals, and a co-designed Pearl Demon XR double pedal engineered for linear, rapid-fire bass drum work.',
+      influence: 'Talley helped define the brutal death metal and grindcore drumming vocabulary through his work across Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation, influencing a generation of drummers chasing raw blast-beat velocity. Kollias raised the technical bar for death metal drumming worldwide and became a respected drum educator, releasing his own instructional materials on extreme technique and mentoring drummers seeking his combination of speed and control.',
+    },
+    verdict: 'Kevin Talley\'s speed and precision across Dying Fetus, Misery Index, and Six Feet Under helped establish brutal death metal\'s drumming standard. George Kollias pushed that same pursuit of extreme speed into more technical, composition-driven territory with Nile. Both represent the outer edge of how fast and how precise death metal drumming can get, from opposite ends of the brutal-versus-technical spectrum, and both remain benchmarks that younger extreme metal drummers are measured against.',
+    faqs: [
+      { q: 'Who is technically more skilled, Kevin Talley or George Kollias?', a: 'Both are elite extreme-speed drummers from different corners of death metal. Kevin Talley\'s skill set is rooted in brutal death metal and grindcore — fast, precise single-stroke blasting proven across Dying Fetus, Misery Index, and Six Feet Under. George Kollias\'s skill set is rooted in technical death metal — heel-toe double bass technique that sustains blast beats north of 240 BPM with composed, surgical clarity.' },
+      { q: 'What is each drummer\'s signature technique?', a: 'Kevin Talley\'s signature is relentless, high-velocity single-stroke blast beats that defined brutal death metal\'s drumming standard. George Kollias\'s signature is heel-toe double bass blasting sustained at extreme tempos, co-developed with his signature Pearl Demon XR double pedal.' },
+      { q: 'What bands have Kevin Talley and George Kollias played in?', a: 'Kevin Talley has played with Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation. George Kollias has been Nile\'s drummer since 2004 and previously played in Nightfall.' },
+      { q: 'What gear do Kevin Talley and George Kollias use?', a: 'Kevin Talley plays a Pearl Masters Premium Legend kit with a 14x5.5" Pearl Masters maple snare and Sabian AAX Series cymbals, driven by a Pearl Eliminator double pedal. George Kollias plays a Pearl Masterworks Stadium Exotic kit with his own 14x6.5" Pearl George Kollias Signature snare and Zildjian cymbals, driven by a co-designed Pearl Demon XR double pedal.' },
+    ],
+  },
+
+  'ryan-van-poederooyen-vs-mike-portnoy': {
+    slug: 'ryan-van-poederooyen-vs-mike-portnoy',
+    title: 'Ryan Van Poederooyen vs Mike Portnoy',
+    metaTitle: 'Ryan Van Poederooyen vs Mike Portnoy: Progressive Metal Drumming Compared | MetalForge',
+    metaDescription: 'Devin Townsend Project\'s Ryan Van Poederooyen vs Dream Theater\'s Mike Portnoy — versatile genre-shifting service drumming versus theatrical progressive metal ambition.',
+    category: 'progressive',
+    drummers: ['ryan-van-poederooyen', 'mike-portnoy'],
+    comparison: {
+      style: 'Ryan Van Poederooyen navigates Devin Townsend\'s genre-defying compositions with versatility, moving fluidly between ambient passages and crushing metal sections across "Accelerated Evolution," "Synchestra," "Addicted," and "Transcendence." Mike Portnoy brings theatrical, arrangement-driven progressive metal built on Dream Theater\'s dense, technically ambitious songwriting across 25 years with the band, plus stints in Liquid Tension Experiment and The Winery Dogs.',
+      technique: 'Van Poederooyen\'s creative tom patterns and tasteful cymbal work give Devin Townsend\'s shifting dynamics room to breathe, backed by thunderous double bass when the material demands it — a puzzle-solving approach he has described as asking what each song needs from him. Portnoy is known for rapid-fire transitions, complex time signatures, and marathon-length live sets that require exceptional stamina and technical precision, honed over decades of Dream Theater\'s notoriously demanding arrangements.',
+      gear: 'Ryan plays a Pearl Reference Series kit with a 14x6.5" brass Pearl Reference snare, Sabian HHX & AAX cymbals, and a Pearl Demon Drive double pedal. Mike uses a Tama Starclassic Maple/Birch hybrid kit with his steel Tama Melody Master signature snare, Sabian HHX Evolution cymbals, and a Tama Iron Cobra Power Glide double pedal.',
+      influence: 'Van Poederooyen became integral to Devin Townsend\'s sound across multiple genre-spanning albums, proving a drummer could serve wildly different styles within one artist\'s catalog while also working as a session drummer and drum teacher in the Montreal area. Portnoy co-founded Dream Theater and helped define progressive metal itself, earning more than 30 Modern Drummer Drummer of the Year awards across a career spanning Liquid Tension Experiment, The Winery Dogs, Transatlantic, Sons of Apollo, and beyond.',
+    },
+    verdict: 'Ryan Van Poederooyen exemplifies the versatile, service-first drumming progressive metal needs when the music constantly shifts shape between ambient and crushing extremes. Mike Portnoy embodies the genre\'s technical ambition and theatrical scale, having helped invent its vocabulary with Dream Theater across 25 years and multiple side projects. Both show different sides of what makes progressive metal drumming demanding and rewarding for listeners and drummers alike.',
+    faqs: [
+      { q: 'Who is technically more skilled, Ryan Van Poederooyen or Mike Portnoy?', a: 'Both are accomplished progressive metal drummers with different strengths. Ryan Van Poederooyen\'s skill set is rooted in versatility — serving Devin Townsend\'s genre-shifting compositions from ambient passages to crushing metal. Mike Portnoy\'s skill set is rooted in technical ambition and theatrical scale, built across 25 years of Dream Theater\'s complex, arrangement-driven songwriting.' },
+      { q: 'What is each drummer\'s signature technique?', a: 'Ryan Van Poederooyen\'s signature is creative tom patterns and tasteful cymbal work that adapt to wildly different sections within a single song. Mike Portnoy\'s signature is rapid-fire transitions and complex time signatures sustained across marathon-length live performances.' },
+      { q: 'What bands have Ryan Van Poederooyen and Mike Portnoy played in?', a: 'Ryan Van Poederooyen played with the Devin Townsend Band and Devin Townsend Project from 2009 to 2018. Mike Portnoy co-founded Dream Theater in 1985, playing with the band until 2010 and again from 2023, plus Liquid Tension Experiment, The Winery Dogs, Transatlantic, and Sons of Apollo.' },
+      { q: 'What gear do Ryan Van Poederooyen and Mike Portnoy use?', a: 'Ryan Van Poederooyen plays a Pearl Reference Series kit with a 14x6.5" brass Pearl Reference snare and Sabian HHX & AAX cymbals. Mike Portnoy plays a Tama Starclassic Maple/Birch kit with his Tama Melody Master signature snare and Sabian HHX Evolution cymbals, driven by a Tama Iron Cobra Power Glide double pedal.' },
+    ],
+  },
 };
 
 /**

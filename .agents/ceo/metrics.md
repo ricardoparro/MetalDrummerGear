@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-02 13:38 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-02 16:33 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,33 +8,33 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 122 |
-| Sessions | 142 |
-| Page views | 194 |
-| Engagement rate | 52.82% |
-| Avg session (s) | 140 |
+| Active users | 127 |
+| Sessions | 147 |
+| Page views | 205 |
+| Engagement rate | 51.70% |
+| Avg session (s) | 141 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 23 | 15 |
+| / | 24 | 15 |
 | /drummer/joey-jordison | 17 | 14 |
 | /drummer/john-otto | 12 | 8 |
 | /drummer/ben-koller | 11 | 10 |
+| /drummer/bill-ward | 7 | 5 |
 | /drummer/jaska-raatikainen | 7 | 5 |
-| /drummer/bill-ward | 6 | 4 |
+| /drummers | 7 | 3 |
 | /drummer/inferno | 6 | 5 |
 | /drummers/lars-ulrich/evolution | 6 | 1 |
-| /articles/none-so-vile-drum-setup | 4 | 3 |
-| /drummer/eloy-casagrande | 4 | 5 |
+| /drummer/eloy-casagrande | 5 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 94 | 85 |
-| Direct | 35 | 27 |
-| Unassigned | 23 | 22 |
-| Cross-network | 7 | 7 |
+| Organic Search | 95 | 86 |
+| Direct | 36 | 28 |
+| Unassigned | 28 | 27 |
+| Cross-network | 10 | 10 |
 | Organic Social | 1 | 1 |
 
 ## Search Console — Search performance

@@ -5,6 +5,33 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-02 01:42 UTC*
 
 ---
+
+## 2026-07-02 19:00 — Evening review: promoted 3 fresh proposals to empty backlog; queue fully drained otherwise
+
+### Context (≤3 lines)
+Evening run. Founder inbox empty. Backlog opened at 0 eligible ai-fix (6 total, all `hold`) and 0 open PRs — Ralph/Roadie fully drained the 13:00 batch (#3610-3615) by 15:25 UTC. seo-proposal bank had exactly 3 fresh untriaged issues (#3630/#3631/#3632, filed 13:44-13:45 UTC), plus the standing umbrella #2211 (never promoted directly).
+
+### Actions taken
+- **Promoted all 3 fresh proposals to `ai-fix`** (backlog empty = promote-liberally band, all atomic + non-duplicate-checked via grep against live data files): #3630 (Dirk Verbeuren — Soilwork *Natural Born Chaos*/*Stabbing the Drama* arc articles, closes 18-year editorial gap before Megadeth-only cluster), #3631 (Genre Gear Guide batch 8 — ride/crash cymbals + electronic drum kits, foundational categories previously missing despite niche coverage), #3632 (Frost comparison pairs — vs-inferno/vs-jaska/vs-daray; `frost drummer` has this week's highest CTR-efficiency signal at 25% CTR pos 13.3).
+- **L1/L2/L3 re-check:** snapshots still 2026-06-29 (weekly cadence, next due 2026-07-06 per corrected understanding from 13:00 entry). All actionable rows from that snapshot remain filed+closed (#3210/#3282/#3412/#3280/#3281/#3413). No new fires.
+- **GSC content-gap:** Joey Jordison drum-kit/drum-set cluster (metrics.md: 92+139 impr, <2% CTR) unchanged, already covered by shipped #3059; effect pending next L1 snapshot.
+- **Atomic-split sweep:** #1822/#1824/#1825 and #1239/#1240/#1241 remain correctly `hold` — no new staleness signal.
+
+### State delta
+- **ai-fix backlog: 0 → 3 eligible** (9 total, 6 hold)
+- **seo-proposal bank: 3 untriaged → 0** (only umbrella #2211 remains, correctly parked)
+- **Open PRs: 0** (queue fully clear going into overnight)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged and promoted. ✅ GSC-gap: already covered, no new escalation. ✅ Atomic split: none needed. ✅ No over-filing (0 issues filed directly by CEO — all 3 were pre-existing proposals). ✅ Decisions logged.
+
+### Next Run (2026-07-03 07:00 UTC deep run)
+1. Confirm #3630/#3631/#3632 get picked up by Ralph overnight; backlog is thin (3) so watch for SEO Agent to refill the bank (primary Claude quota resets 2026-07-03 03:00 UTC).
+2. L1/L2/L3 next due 2026-07-06 (Monday) — no refresh expected before then.
+3. Watch Joey Jordison CTR cluster for movement once next L1 snapshot lands.
+
+---
+
 ## 2026-07-02 01:45 (state-confirm — anti-noise hold)
 - Backlog: 27 ai-fix eligible (33 total, 6 hold) · 12 PRs open (6 conflicting, 5 mergeable) · proposals untriaged: 0 (only umbrella #2211 remains)
 - Org/Sessions/Views (7d): 117 / 135 / 171 · GSC: 2,797 impr / 51 clicks / 1.82% CTR

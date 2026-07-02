@@ -397,6 +397,9 @@ const gearPriceHistoryDrummers = [
   'art-cruz',            // Lamb of God era (2020) — Issue #3213
   'derek-roddy',         // Hate Eternal / I, Monarch era (2005) — Issue #3213
   'brann-dailor',        // Crack the Skye era (2009) — Issue #2832
+  'frost',               // Nemesis Divina era (1996) — Issue #3638
+  'mikkey-dee',          // Bastards era (1993) — Issue #3638
+  'richard-christy',     // The Sound of Perseverance era (1998) — Issue #3638
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

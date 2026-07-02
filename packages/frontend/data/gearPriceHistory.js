@@ -6701,6 +6701,419 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['brann dailor drum setup cost', 'mastodon drum kit price', 'gretsch usa custom price', 'brann dailor gear cost today', 'crack the skye drum kit price'],
     },
   },
+
+  // ==========================================
+  // FROST - 1996 Satyricon / Nemesis Divina Era
+  // Pearl Export + Paiste 2002 Setup
+  // Issue #3638: SEO batch 32
+  // ==========================================
+  'frost': {
+    slug: 'frost',
+    name: 'Frost',
+    band: 'Satyricon',
+    iconicYear: 1996,
+    era: 'Nemesis Divina Era',
+    albumReference: 'Nemesis Divina (1996)',
+    profileImage: '/images/drummers/frost.webp',
+
+    summary: "Frost's 1996 kit behind Satyricon's Nemesis Divina — the album that established Norwegian black metal's raw, corpse-painted second wave as a global genre benchmark — was a deliberately unglamorous Pearl Export setup paired with Paiste 2002 cymbals, reflecting an underground scene where budgets were thin and atmosphere mattered more than endorsements. Frost had joined Satyricon in 1993, and by the time Nemesis Divina was tracked his single-foot blast beat technique was already reaching the hyperspeed tempos that would define his three-decade career. The birch/poplar Pearl Export shells, a steel snare, cymbals, and modest hardware totaled roughly $1,841 for the full rig — a professional but unpretentious setup that let speed and metronomic precision, not gear prestige, carry the performance. Adjusted for 2026 inflation, that investment equals approximately $3,844 today. The icy, lo-fi production aesthetic Nemesis Divina became known for suited the Pearl Export's straightforward tonal character perfectly: a bright, cutting steel snare crack and a Paiste 2002 cymbal spread chosen specifically to pierce through Satyricon's dense, trebly guitar walls without additional studio processing. Frost's gear evolved dramatically in the years that followed — switching to Sonor around the Rebel Extravaganza and 1349-founding era in 1999, then upgrading to the custom Sonor SQ2 platform that became his enduring signature setup during Satyricon's Now, Diabolical commercial breakthrough in 2006 — but the 1996 Pearl Export rig remains historically significant as the foundation on which his reputation as one of extreme metal's most technically disciplined drummers was built. Nemesis Divina's blast-beat passages, played entirely without a double pedal on a single kick drum, demonstrate a level of single-foot speed and control that few drummers of the era could match, and the album is still cited by black metal historians as the moment Norwegian extreme metal drumming crystallized into a distinct, influential style. The modest gear investment behind that landmark performance underscores a persistent truth in extreme metal: technique and discipline, not equipment cost, defined the genre's most enduring records.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Export Series',
+        model: '5-piece shell pack',
+        specs: '22"x16" kick, 10"x8" rack, 12"x9" rack, 14"x12" floor, 16"x16" floor',
+        originalPrice: 900,
+        year: 1996,
+        source: 'Pearl Export catalog pricing 1996, Norwegian retail import estimates',
+        notes: 'Affordable birch/poplar entry kit typical of the early-1990s Norwegian black metal underground, where budgets favored corpse paint and atmosphere over prestige gear.',
+        vintageValue2026: 700,
+        modernEquivalent: {
+          item: 'Pearl Export EXX',
+          price: 900,
+          link: 'pearl-export-exx-drums',
+        },
+      },
+      snare: {
+        item: 'Pearl Export 14"x5.5" Steel',
+        model: 'Steel shell snare',
+        specs: '14"x5.5" steel shell, 8-lug',
+        originalPrice: 130,
+        year: 1996,
+        source: 'Pearl Export snare catalog 1996',
+        notes: "Basic steel shell delivering the sharp, cutting crack heard on Nemesis Divina's icy, unpolished mix.",
+        vintageValue2026: 150,
+        modernEquivalent: {
+          item: 'Pearl Export Steel Snare 14"x5.5"',
+          price: 140,
+          link: 'pearl-export-steel-snare',
+        },
+      },
+      cymbals: {
+        item: 'Paiste 2002 Series',
+        model: 'Mixed 2002 configuration',
+        specs: '14" 2002 Sound Edge hi-hats, 16"/18" 2002 Thin Crash, 20" 2002 Ride',
+        originalPrice: 650,
+        year: 1996,
+        source: 'Paiste 2002 series retail pricing 1996',
+        notes: "Bright, aggressive Paiste tone favored across the early Norwegian scene to pierce Nemesis Divina's dense, trebly guitar walls.",
+        vintageValue2026: 500,
+        modernEquivalent: {
+          item: 'Paiste 2002 Classic Box Set',
+          price: 900,
+          link: 'paiste-2002-classic-cymbals',
+        },
+      },
+      hardware: {
+        item: 'Basic Single Pedal + Stands',
+        model: 'Entry-level hardware',
+        specs: 'Single chain-drive pedal, hi-hat stand, 2 boom stands, snare stand',
+        originalPrice: 100,
+        year: 1996,
+        source: 'Generic hardware retail pricing 1996',
+        notes: "No double bass yet — Frost's single-foot blast beat technique was already developing the extreme speed that would later define his style.",
+        vintageValue2026: 90,
+        modernEquivalent: {
+          item: 'Pearl Eliminator Single Pedal + Hardware',
+          price: 280,
+          link: 'pearl-eliminator-single-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B',
+        model: 'Standard hickory',
+        specs: 'Hickory, wood tip',
+        originalPrice: 6,
+        year: 1996,
+        source: 'Standard retail pricing 1996',
+        notes: 'Off-the-shelf sticks during the underground years before any endorsement relationships.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B',
+          price: 14,
+          link: 'vic-firth-american-classic-5b',
+        },
+      },
+      heads: {
+        item: 'Remo Ambassador',
+        model: 'Standard configuration',
+        specs: 'Single-ply coated batters, clear toms',
+        originalPrice: 55,
+        year: 1996,
+        source: 'Remo professional pricing 1996',
+        notes: 'Basic Ambassador configuration, nothing specialized yet for extreme blast-beat durability.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Ambassador Coated Pro Pack',
+          price: 90,
+          link: 'remo-ambassador-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 1841,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 1440,
+      modernEquivalentTotal: 2324,
+    },
+
+    priceEvolution: [
+      { year: 1996, price: 1841, label: 'Original Purchase', event: 'Nemesis Divina recording — raw Pearl Export/Paiste 2002 setup' },
+      { year: 1999, price: 4500, label: 'Rebel Extravaganza / 1349 founding era', event: 'Switched to Sonor Designer kit and Zildjian A cymbals' },
+      { year: 2006, price: 7500, label: 'Now, Diabolical era', event: 'Upgraded to Sonor SQ2 custom kit — his enduring signature platform' },
+      { year: 2017, price: 8500, label: 'Deep calleth upon Deep era', event: 'Sonor SQ2 setup reaches its definitive, fully refined configuration' },
+      { year: 2026, price: 3844, label: 'Current adjusted', event: 'Inflation-adjusted value of the original 1996 Nemesis Divina setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Export Catalog', year: 1996, type: 'catalog' },
+      { title: 'Paiste 2002 Series Catalog', year: 1996, type: 'catalog' },
+      { title: 'Imperial Steel Zine — Frost Interview', year: 1997, type: 'interview' },
+      { title: 'Decibel Magazine — Frost Gear Feature', year: 2010, type: 'interview' },
+    ],
+
+    meta: {
+      title: "Frost 1996 Satyricon Drum Setup Cost | Nemesis Divina Gear Prices",
+      description: "How much did Frost's 1996 Satyricon drum kit cost? Original Pearl Export/Paiste 2002 setup ~$1,841, inflation-adjusted to ~$3,844 today. Complete Nemesis Divina-era gear breakdown.",
+      keywords: ['frost 1996 setup', 'satyricon drum kit cost', 'nemesis divina drums', 'frost gear cost today', 'frost drummer setup cost'],
+    },
+  },
+
+  // ==========================================
+  // MIKKEY DEE - 1993 Motörhead / Bastards Era
+  // Premier Signia + Zildjian A Setup
+  // Issue #3638: SEO batch 32
+  // ==========================================
+  'mikkey-dee': {
+    slug: 'mikkey-dee',
+    name: 'Mikkey Dee',
+    band: 'Motörhead',
+    iconicYear: 1993,
+    era: 'Bastards Era',
+    albumReference: 'Bastards (1993)',
+    profileImage: '/images/drummers/mikkey-dee.webp',
+
+    summary: "Mikkey Dee's 1993 kit behind Motörhead's Bastards — his debut album with the band after replacing Phil Taylor — marked the start of what would become one of the longest unbroken tenures in metal drumming history: 23 years behind Lemmy Kilmister until Motörhead's dissolution in 2015. Dee arrived from a disciplined apprenticeship with King Diamond, where he'd spent four albums on a Pearl Masters Professional kit, but for Motörhead he switched to a Premier Signia setup — a British-built birch/maple rig whose punchy, driven character matched Lemmy's rock 'n' roll aesthetic more directly than the polished Pearl tone he'd used before. The complete rig, including a deep Premier Signia steel snare built for an explosive crack that could cut through Lemmy's bass and Phil Campbell's guitars at full stage volume, plus a Zildjian A cymbal setup carried over from the King Diamond years, cost approximately $4,118 in 1993 dollars — equivalent to roughly $9,336 today after inflation. The Premier/DW double pedal hardware reflected Motörhead's brutal touring reality: up to 200 shows a year demanded gear built to survive relentless use without failure, a durability requirement that shaped every hardware decision Dee made across the album cycle. Bastards set the template for a Premier Signia partnership that carried Dee through Sacrifice (1995), Overnight Sensation (1996), Snake Bite Love (1998), and We Are Motörhead (2000), before he transitioned to a Pearl Reference and Evans configuration for Motörhead's final decade, culminating in the Grammy-winning Bad Magic (2015). Following Lemmy's death, Dee carried a refined version of that late-Motörhead setup into a new chapter with Scorpions starting in 2016 — proof that the driving, powerful playing forged on Bastards translated seamlessly across nearly four decades and two of hard rock's most demanding bands. The relatively modest cost of his 1993 debut kit, compared against the mature five-figure rig he plays today, traces the arc of a career built on consistency, discipline, and an almost unmatched work ethic behind the kit.",
+
+    setup: {
+      drums: {
+        item: 'Premier Signia',
+        model: 'Birch/maple shell pack',
+        specs: '22"x18" kick, 10"/12"/14"/16" toms',
+        originalPrice: 2200,
+        year: 1993,
+        source: 'Premier Signia catalog pricing 1993',
+        notes: "British-built birch/maple shells gave Dee's Motörhead debut a punchier attack than his prior Pearl Masters Professional, matching Lemmy's raw rock 'n' roll aesthetic on Bastards.",
+        vintageValue2026: 1800,
+        modernEquivalent: {
+          item: 'Premier Genista',
+          price: 2600,
+          link: 'premier-genista-drums',
+        },
+      },
+      snare: {
+        item: 'Premier Signia Steel 14"x6.5"',
+        model: 'Deep steel shell',
+        specs: '14"x6.5" steel shell, deep configuration',
+        originalPrice: 320,
+        year: 1993,
+        source: 'Premier Signia snare catalog 1993',
+        notes: "Deeper steel shell built for the explosive crack that had to cut through Lemmy's bass and Phil Campbell's guitars at full volume.",
+        vintageValue2026: 300,
+        modernEquivalent: {
+          item: 'Premier Signia Snare (Current)',
+          price: 450,
+          link: 'premier-signia-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A / A New Beat Series',
+        model: 'Mixed A Series configuration',
+        specs: '14" A New Beat hi-hats, 16"/18" A Crash, 20" A Ride',
+        originalPrice: 950,
+        year: 1993,
+        source: 'Zildjian catalog pricing 1993',
+        notes: 'Carried the Zildjian A relationship over from the King Diamond years — bright, cutting tone suited to Motörhead\'s raw rock production.',
+        vintageValue2026: 800,
+        modernEquivalent: {
+          item: 'Zildjian A Custom Box Set',
+          price: 1200,
+          link: 'zildjian-a-custom-series-cymbals',
+        },
+      },
+      hardware: {
+        item: 'Premier / DW 5000 Double Pedal',
+        model: 'Dual chain-drive double pedal',
+        specs: 'Double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 550,
+        year: 1993,
+        source: 'Premier and DW hardware retail 1993',
+        notes: "Touring-grade double pedal hardware built to survive Motörhead's relentless up-to-200-show years without failure.",
+        vintageValue2026: 400,
+        modernEquivalent: {
+          item: 'Pearl Demon Drive Double Pedal',
+          price: 700,
+          link: 'pearl-demon-drive-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B',
+        model: 'Standard heavier hickory',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 1993,
+        source: 'Standard retail pricing 1993',
+        notes: 'Heavier hickory sticks for touring volume and durability.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth Mikkey Dee Signature',
+          price: 16,
+          link: 'vic-firth-mikkey-dee-signature',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Powerstroke 3',
+        model: 'Emperor toms, Powerstroke 3 kick',
+        specs: 'Emperor double-ply toms, Powerstroke 3 kick, coated snare batter',
+        originalPrice: 90,
+        year: 1993,
+        source: 'Remo retail pricing 1993',
+        notes: "Powerstroke 3 kick head for focused, punchy attack that could cut through Motörhead's enormous stage volume without triggering.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans G2 / EMAD2 Pack',
+          price: 130,
+          link: 'evans-g2-emad2-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 4118,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 3300,
+      modernEquivalentTotal: 5096,
+    },
+
+    priceEvolution: [
+      { year: 1993, price: 4118, label: 'Original Purchase', event: "Bastards recording — Motörhead debut, switch from Pearl to Premier" },
+      { year: 2000, price: 7000, label: 'We Are Motörhead era', event: 'Premier Signia fully established as signature Motörhead sound' },
+      { year: 2010, price: 18000, label: "Motörizer / The Wörld Is Yours era", event: 'Switched to Pearl Reference and Evans heads for the final Motörhead era' },
+      { year: 2020, price: 22000, label: 'Scorpions era', event: 'Joined Scorpions; Pearl Reference/Evans setup continues with darker Zildjian K Custom cymbals' },
+      { year: 2026, price: 9336, label: 'Current adjusted', event: 'Inflation-adjusted value of the original 1993 Bastards-era setup' },
+    ],
+
+    sources: [
+      { title: 'Premier Signia Catalog', year: 1993, type: 'catalog' },
+      { title: 'Modern Drummer — Mikkey Dee Interview', year: 2002, type: 'interview' },
+      { title: 'Rhythm Magazine — Mikkey Dee Interview', year: 2022, type: 'interview' },
+      { title: 'Reverb Price Guide — Vintage Premier', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Mikkey Dee 1993 Motörhead Drum Setup Cost | Bastards Gear Prices",
+      description: "How much did Mikkey Dee's 1993 Motörhead debut drum kit cost? Original Premier Signia setup ~$4,118, inflation-adjusted to ~$9,336 today. Complete Bastards-era gear breakdown.",
+      keywords: ['mikkey dee 1993 setup', 'motorhead drum kit cost', 'bastards album drums', 'mikkey dee gear cost today', 'mikkey dee setup cost'],
+    },
+  },
+
+  // ==========================================
+  // RICHARD CHRISTY - 1998 Death / The Sound of
+  // Perseverance Era — Pearl Masters Custom Setup
+  // Issue #3638: SEO batch 32
+  // ==========================================
+  'richard-christy': {
+    slug: 'richard-christy',
+    name: 'Richard Christy',
+    band: 'Death',
+    iconicYear: 1998,
+    era: 'The Sound of Perseverance Era',
+    albumReference: 'The Sound of Perseverance (1998)',
+    profileImage: '/images/drummers/richard-christy.webp',
+
+    summary: "Richard Christy's 1998 kit behind Death's The Sound of Perseverance — the band's final studio album and one of technical death metal's most celebrated records — reflects the moment Chuck Schuldiner handpicked him after an audition, entrusting Death's most demanding material yet to a drummer barely in his mid-twenties. Christy's Pearl Masters Custom maple kit, paired with a deep Pearl maple snare and a Sabian AA cymbal setup, cost approximately $3,202 in 1998 dollars — a professional but unpretentious rig chosen for warmth and articulation rather than spectacle, reflecting Schuldiner's preference for musicians who served the songs over their gear. Adjusted for 2026 inflation, that investment equals roughly $6,435 today. The Sound of Perseverance's constantly shifting meters and blistering tempo changes demanded a kit that could deliver both speed and clarity under Morrisound Recording's exacting, dry production standards — the maple shells and lighter Vic Firth American Classic 5A sticks gave Christy the control needed for the album's dense, technical passages, from the title track's tempo shifts to the extended instrumental sections that showcased the band's most progressive songwriting. Christy's reliable Pearl double pedal underpinned the clean, powerful double-bass work that became his calling card, distinguishing his playing from the looser, more chaotic extreme metal drumming common at the time. After Death disbanded following Schuldiner's death in 2001, Christy carried a similar Pearl/Sabian setup into Control Denied's posthumously released The Fragile Art of Existence (1999) and then into Iced Earth starting in 2003, adapting his technical death metal foundation to Jon Schaffer's more structured power/thrash arrangements. Christy would later step away from full-time metal drumming to build a prominent career in entertainment, but The Sound of Perseverance remains the definitive document of his technical peak — a modestly priced setup that helped produce one of the most influential technical death metal albums ever recorded, one that Schuldiner himself cited as some of the best drumming he'd ever worked with.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Masters Custom',
+        model: 'Maple shell pack',
+        specs: '22"x18" kick, 10"/12" rack toms, 14"/16" floor toms',
+        originalPrice: 1600,
+        year: 1998,
+        source: 'Pearl Masters Custom catalog pricing 1998',
+        notes: "Handpicked by Chuck Schuldiner in 1996, Christy brought a Pearl Masters Custom maple kit to Death's most technically demanding album, valued for its warm, articulate tone under Morrisound's dry, exacting production.",
+        vintageValue2026: 1400,
+        modernEquivalent: {
+          item: 'Pearl Masters Maple Complete',
+          price: 2800,
+          link: 'pearl-masters-maple-complete',
+        },
+      },
+      snare: {
+        item: 'Pearl Maple 14"x6.5"',
+        model: 'Maple shell snare',
+        specs: '14"x6.5" maple shell, 8-lug',
+        originalPrice: 280,
+        year: 1998,
+        source: 'Pearl snare catalog 1998',
+        notes: "Deep maple shell for a full, articulate crack needed to keep pace with The Sound of Perseverance's odd-meter, progressive arrangements.",
+        vintageValue2026: 250,
+        modernEquivalent: {
+          item: 'Pearl Masters Maple Reserve Snare',
+          price: 400,
+          link: 'pearl-masters-maple-reserve-snare',
+        },
+      },
+      cymbals: {
+        item: 'Sabian AA Series',
+        model: 'Mixed AA configuration',
+        specs: '14" AA Hi-Hats, 16"/18" AA Rock Crash, 20" AA Ride',
+        originalPrice: 800,
+        year: 1998,
+        source: 'Sabian AA catalog pricing 1998',
+        notes: "Bright, cutting Sabian AA voicing suited the technical, tightly arranged material Christy had to execute at speed alongside Chuck Schuldiner and Shannon Hamm.",
+        vintageValue2026: 650,
+        modernEquivalent: {
+          item: 'Sabian AA Rock Set',
+          price: 1000,
+          link: 'sabian-aa-rock-cymbal-set',
+        },
+      },
+      hardware: {
+        item: 'Pearl Double Pedal + Hardware',
+        model: 'Pearl double pedal + stands',
+        specs: 'Pearl double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 450,
+        year: 1998,
+        source: 'Pearl hardware catalog 1998',
+        notes: "Reliable Pearl double pedal for the extreme, clean double-bass runs that defined Christy's technical death metal reputation.",
+        vintageValue2026: 380,
+        modernEquivalent: {
+          item: 'Pearl Demon Drive Double Pedal',
+          price: 700,
+          link: 'pearl-demon-drive-double-pedal',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5A',
+        model: 'Hickory, wood tip',
+        specs: 'Hickory, wood tip, lighter 5A diameter',
+        originalPrice: 7,
+        year: 1998,
+        source: 'Standard retail pricing 1998',
+        notes: "Lighter 5A model for the control and articulation needed on Perseverance's dense, technical passages.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5A',
+          price: 13,
+          link: 'vic-firth-american-classic-5a',
+        },
+      },
+      heads: {
+        item: 'Remo Pinstripe / Ambassador',
+        model: 'Pinstripe kick/toms, coated Ambassador snare',
+        specs: 'Pinstripe kick and toms, coated Ambassador snare batter',
+        originalPrice: 65,
+        year: 1998,
+        source: 'Remo retail pricing 1998',
+        notes: "Pinstripe heads for controlled, focused attack across the album's rapid tempo and meter changes.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Pinstripe Pro Pack',
+          price: 95,
+          link: 'remo-pinstripe-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 3202,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 2680,
+      modernEquivalentTotal: 5008,
+    },
+
+    priceEvolution: [
+      { year: 1998, price: 3202, label: 'Original Purchase', event: 'The Sound of Perseverance recording — final Death studio album' },
+      { year: 1999, price: 3400, label: 'The Fragile Art of Existence era', event: 'Control Denied release; consistent Pearl/Sabian setup carried over' },
+      { year: 2004, price: 4200, label: 'The Glorious Burden era', event: 'Joined Iced Earth; setup adapted for touring power/thrash arrangements' },
+      { year: 2026, price: 6435, label: 'Current adjusted', event: 'Inflation-adjusted value of the original 1998 Sound of Perseverance setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Masters Custom Catalog', year: 1998, type: 'catalog' },
+      { title: 'Modern Drummer — Richard Christy Interview', year: 1998, type: 'interview' },
+      { title: 'Decibel Magazine — Death Retrospective', year: 2013, type: 'interview' },
+      { title: 'Reverb Price Guide — Vintage Pearl Masters', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Richard Christy 1998 Death Drum Setup Cost | The Sound of Perseverance Gear Prices",
+      description: "How much did Richard Christy's 1998 Death drum kit cost? Original Pearl Masters Custom setup ~$3,202, inflation-adjusted to ~$6,435 today. Complete The Sound of Perseverance-era gear breakdown.",
+      keywords: ['richard christy 1998 setup', 'death drum kit cost', 'sound of perseverance drums', 'richard christy gear cost today', 'richard christy setup cost'],
+    },
+  },
 };
 
 // ==========================================

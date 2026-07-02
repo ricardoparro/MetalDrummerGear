@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Yamaha"
 profile_url: "https://metalforge.io/drummer/mikkey-dee"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-07-02"
 ---
 
 # Mikkey Dee — Drum Kit & Gear Setup
@@ -26,6 +26,12 @@ Mikkey Dee's drum kit and gear setup. Mikkey Dee is a professional metal drummer
 | Drum kit | Yamaha Recording Custom |
 | Signature snare | Yamaha Mikkey Dee Signature 14x8" |
 | Sticks | Vic Firth Mikkey Dee Signature |
+
+## Kit Overview
+
+Mikkey Dee plays a Yamaha Recording Custom drum kit — a birch-shell workhorse prized for its punchy low end and fast attack, qualities that carried him through decades of Motörhead's breakneck rock 'n' roll and now anchor Scorpions' arena-sized classics. At the center of the Mikkey Dee drum set is his own Yamaha signature 14x8" snare, a deep, thick-shelled model built to cut through Lemmy Kilmister's wall of bass on anthems like "Ace of Spades" without ever sounding thin live.
+
+Zildjian A Custom and K Series cymbals round out the Mikkey Dee drum kit: 14" A Custom Hi-Hats for tight, driving eighth-note patterns; 18" and 19" A Custom Crashes for the big accents his hard-rock phrasing demands; a 22" K Custom Ride for steady time-keeping through extended Scorpions sets; and a 20" Oriental China for explosive crash-china flourishes. Twin Yamaha FP9 pedals give him the stamina to power through Motörhead-style relentless quarter-note kick patterns night after night, while Vic Firth's Mikkey Dee signature sticks — sized for maximum impact — and Remo heads complete a setup engineered purely for hard-hitting, high-volume rock drumming.
 
 ## Biography
 
@@ -96,4 +102,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-02 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "Belgium"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dirk-verbeuren"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-07-02"
 ---
 
 # Dirk Verbeuren — Drum Kit & Gear Setup
@@ -26,6 +26,12 @@ Dirk Verbeuren's drum kit and gear setup. Dirk Verbeuren is a professional metal
 | Drum kit | Tama Starclassic Walnut/Birch |
 | Signature snare | Tama S.L.P. Big Black Steel 14x6.5" |
 | Sticks | Promark Shira Kashi Oak 5B |
+
+## Kit Overview
+
+Dirk Verbeuren plays a Tama Starclassic Walnut/Birch drum kit — a hybrid shell combination chosen for the tight low end and articulate attack needed to anchor Megadeth's thrash riffing while still translating the melodic death metal groove he built over eighteen years with Soilwork. The heart of the Dirk Verbeuren drum set is a Tama S.L.P. Big Black Steel 14x6.5" snare, a dark, aggressive-sounding steel shell that gives tracks like "Tornado of Souls" and "The Conjuring" their sharp, cutting backbeat live.
+
+Zildjian A Custom and K Custom cymbals shape the tonal palette of the Dirk Verbeuren drum kit: 14" A Custom Hi-Hats for crisp, controlled chops during rapid thrash picking patterns; 17", 18", and 19" A Custom Crashes stacked for layered accents; a 21" K Custom Hybrid Ride for definition through Megadeth's technical arrangements; and an 18" K China for abrupt punctuation. Tama Speed Cobra 910 double pedals deliver the fast, even double-bass runs heard throughout his Soilwork catalog and Megadeth's Dystopia and The Sick, the Dying... and the Dead! eras, while Promark Shira Kashi Oak 5B sticks and Evans heads complete a setup built for both precision and power.
 
 ## Biography
 
@@ -95,4 +101,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-02 · Source: [MetalForge.io](https://metalforge.io)*

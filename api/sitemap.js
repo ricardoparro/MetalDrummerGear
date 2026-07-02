@@ -369,6 +369,8 @@ const gearPriceHistoryDrummers = [
   'gavin-harrison',  // Fear of a Blank Planet era (2007) — Issue #2912
   'mike-mangini',    // A Dramatic Turn of Events era (2011) — Issue #2912
   'jason-bittner',   // The War Within era (2004) — Issue #2912
+  'george-kollias',  // Annihilation of the Wicked era (2005) — Issue #2549
+  'jaska-raatikainen', // Hatebreeder era (1999) — Issue #2549
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

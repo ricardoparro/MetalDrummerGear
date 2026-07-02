@@ -5167,6 +5167,280 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['jason bittner drum kit cost', 'shadows fall drummer gear', 'the war within drums cost', 'jason bittner 2004 setup', 'jason bittner tama starclassic price'],
     },
   },
+
+  // ==========================================
+  // GEORGE KOLLIAS - 2005 Annihilation of the Wicked Era
+  // Pearl Reference Series + Paiste Signature — Issue #2549
+  // ==========================================
+  'george-kollias': {
+    slug: 'george-kollias',
+    name: 'George Kollias',
+    band: 'Nile',
+    iconicYear: 2005,
+    era: 'Annihilation of the Wicked Era',
+    albumReference: 'Annihilation of the Wicked (2005)',
+    profileImage: '/images/drummers/george-kollias.webp',
+
+    summary: "George Kollias's 2005 setup behind Nile's Annihilation of the Wicked — his first studio recording with the band after relocating from Greece's underground metal scene. Fresh off a pre-endorsement Tama/Paiste kit assembled on the Athens club circuit, Kollias's arrival in Nile brought his first major partnership: a Pearl Reference Series shell pack paired with Paiste Signature cymbals and the Tama Iron Cobra double pedal he'd built his blast beats on since his teenage years. The result was a rig capable of sustaining 240+ BPM blast beats with the clarity that made Kollias extreme metal's benchmark for verified speed.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Reference Series',
+        model: 'Maple/birch hybrid shell pack',
+        specs: '22"x18" bass drum, 10"x9"/12"x10" rack toms, 14"x12"/16"x14" floor toms',
+        originalPrice: 5600,
+        year: 2005,
+        source: 'Pearl Reference Series catalog pricing 2005, Modern Drummer equipment guide',
+        notes: "Kollias's first Pearl endorsement, replacing the budget Tama Rockstar/Starclassic kit he'd played in Greek underground bands Nightfall and Sickening Horror. The maple/birch hybrid gave him the punch and clarity Nile's dense, Egyptian-themed arrangements demanded.",
+        vintageValue2026: 5200,
+        modernEquivalent: {
+          item: 'Pearl Reference Series (vintage market)',
+          price: 4200,
+          link: 'pearl-reference-series',
+        },
+      },
+      snare: {
+        item: 'Pearl Free-Floating Steel',
+        model: '14"x6.5" free-floating shell',
+        specs: '14"x6.5" steel shell, free-floating suspension mounting',
+        originalPrice: 500,
+        year: 2005,
+        source: 'Pearl Free-Floating Snare catalog pricing 2005',
+        notes: "The free-floating mount maximised resonance and explosive attack — essential for Kollias's ultra-fast snare work between blast beat patterns on tracks like \"Cast Down the Heretic.\"",
+        vintageValue2026: 420,
+        modernEquivalent: {
+          item: 'Pearl Free Floating Snare 14"x6.5"',
+          price: 480,
+          link: 'pearl-free-floating-snare',
+        },
+      },
+      cymbals: {
+        item: 'Paiste Signature Series',
+        model: 'Mixed Signature configuration',
+        specs: '14" hi-hats, 17"/18" crashes, 20" ride, 18" China',
+        originalPrice: 1900,
+        year: 2005,
+        source: 'Paiste Signature Series catalog pricing 2005',
+        notes: "Upgraded to Paiste Signature for professional touring brightness and cut, replacing the Paiste 2002 series from his pre-Nile Athens rig.",
+        vintageValue2026: 1750,
+        modernEquivalent: {
+          item: 'Paiste Signature Series (full set)',
+          price: 2200,
+          link: 'paiste-signature-series',
+        },
+      },
+      hardware: {
+        item: 'Tama Iron Cobra HP900 Double Pedal + Hardware',
+        model: 'Power Glide cam double pedal and stands',
+        specs: 'Tama Iron Cobra HP900 double pedal, hi-hat stand, boom stands, throne',
+        originalPrice: 900,
+        year: 2005,
+        source: 'Tama Iron Cobra HP900 MSRP 2005, hardware pack estimates',
+        notes: "The Iron Cobra carried over unchanged from Kollias's pre-Nile setup — the one piece of gear that stayed constant across the Tama-to-Pearl kit switch, central to the blast beat precision he'd built his technique on.",
+        vintageValue2026: 650,
+        modernEquivalent: {
+          item: 'Tama Iron Cobra 900 Power Glide',
+          price: 780,
+          link: 'tama-iron-cobra-900',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B Hickory',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 10,
+        year: 2005,
+        source: 'Standard retail price',
+        notes: 'Standard 5B stick, years before his Vic Firth George Kollias signature model was developed.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth George Kollias Signature SGK',
+          price: 14,
+          link: 'vic-firth-george-kollias-signature',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Powerstroke 3',
+        model: 'Emperor (toms), Powerstroke 3 (kick)',
+        specs: 'Remo Emperor Coated (toms), Remo Powerstroke 3 Clear (kick batter)',
+        originalPrice: 90,
+        year: 2005,
+        source: 'Remo professional pricing 2005',
+        notes: 'Double-ply configuration for durability and focused kick punch at extreme blast-beat tempos.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor/Powerstroke 3 Pack',
+          price: 130,
+          link: 'remo-emperor-powerstroke3-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 9000,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 8020,
+      modernEquivalentTotal: 7794,
+    },
+
+    priceEvolution: [
+      { year: 2002, price: 2500, label: 'Greek Underground Era', event: 'Tama Rockstar/Starclassic + Paiste 2002 — developed blast beat technique on the Athens club circuit before joining Nile' },
+      { year: 2005, price: 9000, label: 'Original Purchase', event: 'Joined Nile (2004); Annihilation of the Wicked recorded — first Pearl Reference Series + Paiste Signature endorsement' },
+      { year: 2009, price: 14000, label: 'Those Whom the Gods Detest era', event: 'Upgraded to Pearl Reference Pure all-maple shells; first Vic Firth George Kollias signature sticks; ddrum triggers added' },
+      { year: 2015, price: 18000, label: 'Vile Nilotic Rites era', event: 'Current setup — Pearl Reference Pure + Paiste Signature + Tama Iron Cobra HP900, refined over two decades' },
+      { year: 2026, price: 15100, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2005 Annihilation-era setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Reference Series Catalog', year: 2005, type: 'catalog' },
+      { title: 'Drumhead Magazine — George Kollias Interview', year: 2006, type: 'interview' },
+      { title: 'Modern Drummer — George Kollias Interview', year: 2010, type: 'interview' },
+      { title: 'Reverb Price Guide — Pearl Reference Series Vintage', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "George Kollias 2005 Nile Drum Setup Cost | Annihilation of the Wicked Era Gear Prices",
+      description: "How much did George Kollias's 2005 Nile drum kit cost? Original Pearl Reference Series setup ~$9,000, inflation-adjusted to ~$15,100 today. Complete Annihilation of the Wicked-era gear breakdown.",
+      keywords: ['george kollias drum kit cost', 'nile drummer gear price', 'annihilation of the wicked drum setup', 'george kollias 2005 kit', 'how fast does george kollias play'],
+    },
+  },
+
+  // ==========================================
+  // JASKA RAATIKAINEN - 1999 Hatebreeder Era
+  // Pearl Export + Zildjian A Series — Issue #2549
+  // ==========================================
+  'jaska-raatikainen': {
+    slug: 'jaska-raatikainen',
+    name: 'Jaska Raatikainen',
+    band: 'Children of Bodom',
+    iconicYear: 1999,
+    era: 'Hatebreeder Era',
+    albumReference: 'Hatebreeder (1999)',
+    profileImage: '/images/drummers/jaska-raatikainen.webp',
+
+    summary: "Jaska Raatikainen's 1999 setup behind Children of Bodom's international breakthrough Hatebreeder — a pre-endorsement Pearl Export configuration paired with Zildjian A Series cymbals, assembled by a 19-year-old Finnish drummer years before any sponsorship deal. The double 22\" kick configuration and compact tom spread Raatikainen established here became the foundation he'd carry, refined but essentially unchanged, through Children of Bodom's entire 26-year run to Hexed (2019).",
+
+    setup: {
+      drums: {
+        item: 'Pearl Export Series',
+        model: 'Early professional configuration',
+        specs: '22"x18" dual kick, 10"x9"/12"x10" rack toms, 14"x14"/16"x16" floor toms',
+        originalPrice: 1300,
+        year: 1999,
+        source: 'Pearl Export Series catalog pricing 1999, Rhythm Magazine gear estimates',
+        notes: "A pre-endorsement Pearl setup Raatikainen assembled himself before the Pearl Masters Premium Maple deal that would define his later career. The double-kick configuration and compact tom spread established here carried through to Hexed (2019) essentially unchanged.",
+        vintageValue2026: 1100,
+        modernEquivalent: {
+          item: 'Pearl Export EXX',
+          price: 1400,
+          link: 'pearl-export-exx',
+        },
+      },
+      snare: {
+        item: 'Pearl 14"x5.5" Maple Snare',
+        model: 'Maple shell, professional grade',
+        specs: '14"x5.5" maple shell, standard hoops',
+        originalPrice: 300,
+        year: 1999,
+        source: 'Pearl catalog pricing 1999',
+        notes: "A warm-toned maple snare matched to the melodic content of Alexi Laiho's guitar and Janne Wirman's keyboard arrangements — a deliberate choice over a purely aggressive steel snare.",
+        vintageValue2026: 280,
+        modernEquivalent: {
+          item: 'Pearl Export Maple Snare 14"x5.5"',
+          price: 250,
+          link: 'pearl-export-maple-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Series',
+        model: 'Five-piece A Series configuration',
+        specs: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+        originalPrice: 850,
+        year: 1999,
+        source: 'Zildjian A Series catalog pricing 1999',
+        notes: "A pre-endorsement Zildjian selection chosen for practical brightness that cut through Wirman's dense keyboard layers — the same series that would develop into a full A Custom/K Custom relationship by the mid-2000s.",
+        vintageValue2026: 780,
+        modernEquivalent: {
+          item: 'Zildjian A Series 5-Piece Set',
+          price: 1100,
+          link: 'zildjian-a-series-set',
+        },
+      },
+      hardware: {
+        item: 'Pearl Double Bass Pedal + Hardware',
+        model: 'Early chain-drive configuration',
+        specs: 'Pearl double bass pedal, hi-hat stand, boom stands, throne',
+        originalPrice: 240,
+        year: 1999,
+        source: 'Pearl hardware catalog pricing 1999',
+        notes: "Chain-drive double pedal providing the mechanical consistency Raatikainen needed for the sustained double-kick patterns on \"Children of Bodom\" and \"Warheart.\"",
+        vintageValue2026: 210,
+        modernEquivalent: {
+          item: 'Pearl Eliminator Redline',
+          price: 420,
+          link: 'pearl-eliminator-redline',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5A',
+        model: '5A hickory',
+        specs: '16" length, 0.565" diameter',
+        originalPrice: 6,
+        year: 1999,
+        source: 'Standard retail price',
+        notes: 'Lighter 5A dimensions balancing forceful impact with the fast fill work Bodom\'s neo-classical arrangements required.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5A',
+          price: 14,
+          link: 'vic-firth-5a',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Powerstroke 3',
+        model: 'Emperor Coated (toms), Powerstroke 3 (kick)',
+        specs: 'Remo Emperor Coated (batter), Remo Powerstroke 3 (kick batter)',
+        originalPrice: 60,
+        year: 1999,
+        source: 'Remo retail pricing 1999',
+        notes: 'Two-ply construction for durability and controlled low-end punch through the album\'s dense mix.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor/Powerstroke 3 Pack',
+          price: 100,
+          link: 'remo-emperor-powerstroke3-pack',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 2756,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 2370,
+      modernEquivalentTotal: 3284,
+    },
+
+    priceEvolution: [
+      { year: 1997, price: 2000, label: 'Something Wild era', event: 'Children of Bodom debut; pre-endorsement Pearl Export kit + Zildjian A Series, assembled before any sponsorship deal' },
+      { year: 1999, price: 2756, label: 'Original Purchase', event: 'Hatebreeder recorded — international breakthrough on the same pre-endorsement Pearl + Zildjian A Series setup' },
+      { year: 2003, price: 4500, label: 'Hate Crew Deathroll era', event: "Upgraded to Pearl Masters Premium Maple flagship kit + Pearl Eliminator double pedal — Children of Bodom's commercial peak" },
+      { year: 2015, price: 5000, label: 'I Worship Chaos era', event: "Full Zildjian A Custom/K Custom cymbal configuration reached its final documented form ahead of Hexed (2019) and the band's farewell tour" },
+      { year: 2026, price: 5420, label: 'Current adjusted', event: 'Inflation-adjusted value of original 1999 Hatebreeder-era setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Export Series Catalog', year: 1999, type: 'catalog' },
+      { title: 'Terrorizer Magazine — Children of Bodom Feature', year: 2000, type: 'interview' },
+      { title: 'Rhythm Magazine — Jaska Raatikainen Interview', year: 2001, type: 'interview' },
+      { title: 'Reverb Price Guide — Pearl Export Vintage', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Jaska Raatikainen 1999 Children of Bodom Drum Setup Cost | Hatebreeder Era Gear Prices",
+      description: "How much did Jaska Raatikainen's 1999 Children of Bodom drum kit cost? Original pre-endorsement Pearl Export setup ~$2,756, inflation-adjusted to ~$5,420 today. Complete Hatebreeder-era gear breakdown.",
+      keywords: ['jaska raatikainen drum set', 'children of bodom drummer gear', 'hatebreeder drum setup', 'jaska raatikainen 1999 kit', 'jaska raatikainen drum kit cost'],
+    },
+  },
 };
 
 // ==========================================

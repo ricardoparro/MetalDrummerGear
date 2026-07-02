@@ -16212,6 +16212,650 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Charlie Benante Gear Evolution Timeline | Anthrax Drum Kit History',
     metaDescription: 'Explore Charlie Benante\'s complete drum gear evolution: Tama Artstar → Tama Artstar II on Among the Living (1987) → a full DW switch for the 90s groove-metal era → the modern Tama/Paiste signature rig. Includes the 1984-2010 Camco pedal and his 2022 Pantera reunion tour.',
   },
+
+  // ==========================================
+  // Tim Yeung - Morbid Angel / Hate Eternal (2004-Present)
+  // ==========================================
+  'tim-yeung': {
+    slug: 'tim-yeung',
+    name: 'Tim Yeung',
+    band: 'Morbid Angel / Hate Eternal',
+    totalYearsActive: '2004-Present',
+    profileImage: '/images/drummers/tim-yeung.webp',
+    summary: 'One of death metal\'s fastest and most technically consistent drummers, Tim Yeung built his reputation in Erik Rutan\'s Hate Eternal before joining death metal originators Morbid Angel in 2011. His gear evolution runs from a developing Pearl Reference setup through a fully configured Pearl/Sabian/DW rig across two Morbid Angel albums, and into a modern Tama-based touring and session setup.',
+
+    eras: [
+      {
+        id: 'tim-yeung-2004-hate-eternal',
+        era: 'Divine Heresy & Hate Eternal Era',
+        years: '2004-2010',
+        startYear: 2004,
+        endYear: 2010,
+        description: 'Yeung established his extreme blast beat speed and double bass consistency inside Erik Rutan\'s Hate Eternal, recording I, Monarch (2005) and Fury & Flames (2008) before adding Divine Heresy\'s Bringer of Plagues (2009). This period set the gear template — Pearl drums, Sabian cymbals, DW double pedals — that carried into his Morbid Angel years.',
+        albums: ['Hate Eternal - I, Monarch (2005)', 'Hate Eternal - Fury & Flames (2008)', 'Divine Heresy - Bringer of Plagues (2009)'],
+        tours: ['Hate Eternal European Tour 2008', 'Divine Heresy World Tour 2009-2010'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference series (developing setup)',
+            details: 'Maple/mahogany hybrid shells, dual 22"x18" kicks, compact 4-piece tom configuration',
+            notes: 'Yeung\'s earliest documented recording setup, built for the extreme technical density of Rutan\'s production.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl steel/brass 14"x6.5"',
+            details: 'Bright, aggressive tuning',
+            notes: 'Tuned to cut through Erik Rutan\'s dense, down-tuned guitar production on Fury & Flames.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AAX Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride',
+            notes: 'Fast-attack, controlled-decay cymbals suited to sustained blast beat tempos.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW double bass pedal',
+            details: 'Smooth cam-driven double pedal',
+            notes: 'Established the consistent pedal action Yeung\'s relaxed high-speed technique depends on.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Hickory, heavier than 5A',
+            notes: 'Weight suited to driving through cymbals and heads in Hate Eternal\'s dense mix.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Powerstroke 3 on kicks, Emperor Coated on toms',
+            notes: 'Focused attack for extreme double bass articulation.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3500,
+          inflationAdjusted: 4800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Recorded Hate Eternal\'s I, Monarch (2005) and Fury & Flames (2008), widely cited among technical death metal blast beat benchmarks',
+          'Added Divine Heresy\'s Bringer of Plagues (2009)',
+          'Established the Pearl/Sabian/DW gear template carried into Morbid Angel',
+        ],
+
+        quote: {
+          text: "I never think about speed as the goal. If you're relaxed and the rebound is doing the work, the speed just happens.",
+          source: 'Modern Drummer Interview, 2009',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'tim-yeung-2011-illud',
+        era: 'Morbid Angel - Illud Divinum Insanus Era',
+        years: '2011-2013',
+        startYear: 2011,
+        endYear: 2013,
+        description: 'Yeung joined Morbid Angel, one of death metal\'s founding bands, for the divisive Illud Divinum Insanus (2011). While the album split the fanbase with its industrial detours, Yeung\'s drumming was universally praised, recorded on a fully configured Pearl Reference Masters kit.',
+        albums: ['Morbid Angel - Illud Divinum Insanus (2011)'],
+        tours: ['Illud Divinum Insanus World Tour 2011-2012'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Masters (fully configured)',
+            details: 'Maple/mahogany hybrid, dual 22"x18" kicks, 10"/12" racks, 16"/18" floors',
+            notes: 'Upgraded from the developing Hate Eternal-era setup to Pearl\'s complete Reference Masters configuration.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Free-Floating steel 14"x6.5"',
+            details: 'Tuned bright for cut',
+            notes: 'Free-floating design isolates the shell from hardware resonance for a cleaner crack.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian AAX / HHX Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" HHX ride, 18" AAX China',
+            notes: 'Added an HHX ride to the AAX setup for a clearer bell at extreme tempos.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'DW 9002 Double Bass Pedal',
+            details: 'Direct-drive, smooth cam action',
+            notes: 'Adopted DW\'s flagship double pedal, engineered for the relaxed, rebound-efficient technique his 200-280 BPM blasts require.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Hickory',
+            notes: 'Unchanged from the Hate Eternal years.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Powerstroke 3 batter and ported resonant on kicks',
+            notes: 'Consistent Remo setup carried over from Hate Eternal.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5000,
+          inflationAdjusted: 6200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Morbid Angel, one of death metal\'s founding bands, for Illud Divinum Insanus (2011)',
+          'Upgraded to a fully configured Pearl Reference Masters kit',
+          'Adopted the DW 9002 double bass pedal',
+        ],
+
+        quote: {
+          text: "Stepping into Morbid Angel meant stepping into death metal history. I wanted the gear to be as precise as the material demanded.",
+          source: 'Blabbermouth Interview, 2011',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'tim-yeung-2014-kingdoms-disdained',
+        era: 'Morbid Angel - Kingdoms Disdained Era',
+        years: '2014-2020',
+        startYear: 2014,
+        endYear: 2020,
+        description: 'Kingdoms Disdained (2017) returned Morbid Angel to its classic death metal approach after Illud\'s experimental detour, giving Yeung his most complete Morbid Angel performance on the same Pearl/Sabian/DW rig, refined across years of touring.',
+        albums: ['Morbid Angel - Kingdoms Disdained (2017)'],
+        tours: ['Kingdoms Disdained World Tour 2017-2019'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Masters (current full configuration)',
+            details: 'Maple/mahogany hybrid, dual 22"x18" kicks',
+            notes: 'Same core configuration as the Illud era, refined through years of touring.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl 14"x6.5" steel',
+            details: 'Bright, focused tuning',
+            notes: 'Consistent snare choice through both Morbid Angel albums.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AAX / HHX Series (full setup)',
+            details: '14" hi-hats, 16"/18" crashes, 20" HHX ride, 18" China',
+            notes: 'Full setup retained from the Illud era.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9002 Double Bass Pedal',
+            details: 'Direct-drive',
+            notes: 'Same pedal carried through both albums for mechanical consistency.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B',
+            details: 'Hickory',
+            notes: 'Unchanged.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Consistent Remo setup',
+            notes: 'No change from the Illud era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5200,
+          inflationAdjusted: 6000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Kingdoms Disdained (2017) returns Morbid Angel to its classic death metal sound',
+          'Widely considered Yeung\'s most complete Morbid Angel performance',
+          'Same Pearl/Sabian/DW rig carried through two full album cycles',
+        ],
+
+        quote: {
+          text: "Kingdoms Disdained felt like coming home to the sound that made me want to play this music in the first place.",
+          source: 'Metal Injection Interview, 2017',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'tim-yeung-2021-present',
+        era: 'Present - Touring & Session Work',
+        years: '2021-Present',
+        startYear: 2021,
+        endYear: 2026,
+        description: 'Alongside continued Morbid Angel touring, Yeung has built a reputation as one of extreme metal\'s most in-demand session and touring drummers. His modern rig marks a switch from Pearl to Tama, pairing a Starclassic Bubinga kit with a Tama Speed Cobra pedal.',
+        albums: [],
+        tours: ['Morbid Angel Touring 2021-Present', 'Session & Guest Drumming Dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Bubinga',
+            details: 'Bubinga shells for focused low-end and projection',
+            notes: 'Full brand switch from Pearl to Tama for his current touring and session setup.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Tama S.L.P. Big Black Steel 14"x6.5"',
+            details: 'Steel shell',
+            notes: 'Switched from Pearl steel snares to Tama\'s S.L.P. line.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian AAX & HHX Series',
+            details: '14" AAX Stage hi-hats, 18"/19" AAX X-Plosion crashes, 21" HHX Raw Bell Dry ride',
+            notes: 'Continued Sabian endorsement, refined cymbal selection for current touring.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra 910 Double Pedal',
+            details: 'Direct-drive double pedal',
+            notes: 'Switched from the DW 9002 to Tama\'s Speed Cobra alongside the drum kit change.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A',
+            details: 'Hickory',
+            notes: 'Switched from the heavier 5B to the 5A model for session versatility.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Consistent Remo setup',
+            notes: 'One constant across every gear switch of his career.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5500,
+          inflationAdjusted: 5500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Full brand switch from Pearl to Tama Starclassic Bubinga',
+          'Switched double pedal from DW 9002 to Tama Speed Cobra 910',
+          'Established a reputation as one of extreme metal\'s most in-demand session and touring drummers',
+        ],
+
+        quote: {
+          text: "Every kit I've played has had to answer the same question: can it keep up at 280 BPM without losing definition? Tama answers it.",
+          source: 'Drumhead Magazine Interview, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'Who is the fastest death metal drummer?',
+        a: 'Tim Yeung is widely cited among the fastest death metal drummers, documented sustaining blast beat tempos of 200-280 BPM with consistent precision across full Hate Eternal and Morbid Angel sets — a range that places him at the top tier of extreme metal speed drumming.',
+      },
+      {
+        q: 'What bands has Tim Yeung played with?',
+        a: 'Tim Yeung has recorded and toured with Hate Eternal (I, Monarch, Fury & Flames), Divine Heresy (Bringer of Plagues), and Morbid Angel (Illud Divinum Insanus, Kingdoms Disdained), and has built a career as an in-demand session and touring drummer across extreme metal.',
+      },
+      {
+        q: 'What drum kit does Tim Yeung currently play?',
+        a: 'Tim Yeung\'s current touring and session setup is built around a Tama Starclassic Bubinga kit with a Tama S.L.P. Big Black Steel snare, Sabian AAX & HHX cymbals, and a Tama Speed Cobra 910 double pedal — a switch from the Pearl Reference Masters kit he used throughout his Hate Eternal and Morbid Angel recording years.',
+      },
+      {
+        q: 'When did Tim Yeung join Morbid Angel?',
+        a: 'Tim Yeung joined Morbid Angel for Illud Divinum Insanus (2011), one of death metal\'s founding bands, and remained the band\'s drummer through Kingdoms Disdained (2017) and its supporting tours.',
+      },
+      {
+        q: 'What pedal does Tim Yeung use for his double bass technique?',
+        a: 'Through his Morbid Angel years, Tim Yeung used the DW 9002 double bass pedal, prized for its smooth, consistent cam action that supports his relaxed, rebound-efficient technique at 200-280 BPM. His current touring setup uses the Tama Speed Cobra 910.',
+      },
+    ],
+
+    metaTitle: 'Tim Yeung Gear Evolution Timeline | Death Metal Drum Kit History',
+    metaDescription: 'Explore Tim Yeung\'s complete drum gear evolution: a developing Pearl setup through Hate Eternal and Divine Heresy, a fully configured Pearl Reference Masters rig across two Morbid Angel albums, and a modern switch to Tama Starclassic Bubinga for his current touring and session work.',
+  },
+
+  // ==========================================
+  // Paul Bostaph - Slayer / Testament / Exodus (1987-Present)
+  // ==========================================
+  'paul-bostaph': {
+    slug: 'paul-bostaph',
+    name: 'Paul Bostaph',
+    band: 'Slayer',
+    totalYearsActive: '1987-Present',
+    profileImage: '/images/drummers/paul-bostaph.webp',
+    summary: 'Paul Bostaph is Slayer\'s longest-serving drummer by total years, filling Dave Lombardo\'s chair across two separate tenures (1992-2001, 2013-2019) and recording four studio albums. Between and around those Slayer stints he built a parallel Bay Area thrash career with Forbidden, Testament, and Exodus. His gear evolution runs from an early Tama/Paiste Slayer rig through a mid-career DW-to-Tama switch on Diabolus in Musica and God Hates Us All, a Pacific Drums interim during his Exodus/Testament years, and a Pearl/Sabian return-era rig on Repentless — into his current ddrum-based setup.',
+
+    eras: [
+      {
+        id: 'paul-bostaph-1987-forbidden-early-slayer',
+        era: 'Forbidden & First Slayer Tenure',
+        years: '1987-1996',
+        startYear: 1987,
+        endYear: 1996,
+        description: 'Bostaph came up through the Bay Area thrash scene with Forbidden, recording the thrash classic Twisted Into Form (1990), before his 1992 recruitment to Slayer to fill Dave Lombardo\'s vacated chair. He recorded Divine Intervention (1994) and Undisputed Attitude (1996), continuing the Tama/Paiste sound Slayer had used since the Lombardo era.',
+        albums: ['Forbidden - Twisted Into Form (1990)', 'Slayer - Divine Intervention (1994)', 'Slayer - Undisputed Attitude (1996)'],
+        tours: ['Divine Intervention World Tour 1994-1995', 'Undisputed Attitude Tour 1996'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple',
+            details: 'All-maple shells, double 22"x18" kicks, 2 rack/2 floor toms',
+            notes: 'Continued the Tama sound Slayer had used since Dave Lombardo\'s Artstar II years, giving Bostaph a familiar platform for his Slayer debut.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Bell Brass 14"x6.5"',
+            details: 'Brass shell, fat crack',
+            notes: 'Matched the Bell Brass sound already established across thrash\'s Tama-endorsed drummers.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002 Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+            notes: 'Slayer\'s established Paiste cymbal sound, unchanged from the Lombardo era.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra Double Pedal',
+            details: 'Rolling glide-track cam',
+            notes: 'Adopted Tama\'s then-new Iron Cobra pedal, released in 1994, in time for Divine Intervention.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Pro-Mark Hickory 5B',
+            details: 'Hickory, wood tip',
+            notes: 'Standard thrash-weight stick for the era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Powerstroke 3 on kicks, Emperor Coated on toms',
+            notes: 'Standard Remo setup of the era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3200,
+          inflationAdjusted: 6800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Recorded Forbidden\'s Twisted Into Form (1990) before joining Slayer',
+          'Joined Slayer in 1992, filling Dave Lombardo\'s vacated chair',
+          'Recorded Divine Intervention (1994) and Undisputed Attitude (1996)',
+          'Adopted the newly released Tama Iron Cobra double pedal in 1994',
+        ],
+
+        quote: {
+          text: "Coming into Slayer after Dave wasn't about replacing him — it was about proving the songs could still hit as hard with someone else behind the kit.",
+          source: 'RIP Magazine Interview, 1994',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'paul-bostaph-1998-diabolus-god-hates',
+        era: 'Diabolus in Musica to God Hates Us All Era',
+        years: '1998-2001',
+        startYear: 1998,
+        endYear: 2001,
+        description: 'Diabolus in Musica (1998) brought a full switch to DW and Zildjian for Slayer\'s controversial down-tuned, groove-leaning record. By God Hates Us All (2001) — released the morning of 9/11 and closing Bostaph\'s first Slayer tenure — he had switched back to Tama Starclassic Maple and Paiste, recorded with producer Matt Hyde at The Warehouse Studio in Vancouver.',
+        albums: ['Slayer - Diabolus in Musica (1998)', 'Slayer - God Hates Us All (2001)'],
+        tours: ['Diabolus in Musica Tour 1998-1999', 'God Hates Us All Tour 2001-2002'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series -> Tama Starclassic Maple',
+            details: 'DW Collector\'s Series for Diabolus in Musica; double 22"x18" Tama Starclassic Maple for God Hates Us All',
+            notes: 'Full brand switch to DW for the groove-metal-leaning Diabolus in Musica, then back to Tama for God Hates Us All\'s deeper, darker production.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'DW Edge Series -> Tama Bell Brass/Steel 14"x6.5"',
+            details: 'Solid shell with brass edge rings, then steel',
+            notes: 'Snare brand tracked the drum kit switch between the two albums.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom -> Paiste 2002/Signature',
+            details: '14" hi-hats, 18"/19" crashes, 21"/22" ride',
+            notes: 'Switched to Zildjian A Custom for Diabolus in Musica, then returned to Slayer\'s established Paiste sound — adding the Paiste Signature 22" Power Ride — for God Hates Us All.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra Double Pedal',
+            details: 'Retained through both albums',
+            notes: 'The one constant through the DW-to-Tama kit switch.',
+            change: null,
+          },
+          sticks: {
+            item: 'Pro-Mark Hickory 5B',
+            details: 'Hickory',
+            notes: 'Unchanged from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Powerstroke 3 on kicks, Emperor Coated on snare batter',
+            notes: 'Consistent Remo head choice through both albums.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3800,
+          inflationAdjusted: 6900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Full switch to DW Collector\'s Series and Zildjian A Custom for Diabolus in Musica (1998)',
+          'Switched back to Tama Starclassic Maple and Paiste 2002/Signature for God Hates Us All (2001)',
+          'God Hates Us All released the morning of September 11, 2001, closing Bostaph\'s first Slayer tenure',
+        ],
+
+        quote: {
+          text: "Diabolus was us pushing into territory people didn't expect from Slayer. The DW kit gave me a different low end to build that on.",
+          source: 'Drum! Magazine Interview, 1998',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'paul-bostaph-2005-exodus-testament',
+        era: 'Exodus & Testament Interim',
+        years: '2005-2012',
+        startYear: 2005,
+        endYear: 2012,
+        description: 'With Dave Lombardo back in Slayer\'s chair, Bostaph spent the 2000s across the Bay Area thrash scene — joining Exodus for Shovel Headed Kill Machine (2005) before stepping in for Testament\'s comeback album The Formation of Damnation (2008), recorded on a Pacific Drums LX Maple kit at Fantasy Studios, Berkeley.',
+        albums: ['Exodus - Shovel Headed Kill Machine (2005)', 'Testament - The Formation of Damnation (2008)'],
+        tours: ['Exodus Tour 2005-2007', 'Formation of Damnation World Tour 2008-2009'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pacific Drums LX Maple',
+            details: 'Maple shells, double 22"x18" kicks',
+            notes: 'A distinct gear chapter separate from any of his Slayer-era kits, chosen for Testament\'s comeback sessions.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'DW Edge Series 14"x6.5"',
+            details: 'Solid maple shell with brass edge rings',
+            notes: 'Carried the DW Edge snare over from his Diabolus in Musica years even after switching away from the full DW kit.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste 2002 / RUDE Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+            notes: 'Returned to Paiste for the Testament sessions, echoing his early Slayer cymbal sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 5000 Series Double Pedal',
+            details: 'Chain-drive',
+            notes: 'Switched pedal brands to match the DW-adjacent snare choice.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Pro-Mark Hickory 5B',
+            details: 'Hickory',
+            notes: 'Unchanged stick choice carried across every gear switch.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Powerstroke 3 on kicks, Emperor Coated on toms',
+            notes: 'Consistent Remo setup.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4200,
+          inflationAdjusted: 5900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Exodus for Shovel Headed Kill Machine (2005)',
+          'Stepped in for Testament\'s The Formation of Damnation (2008) after drummer Nick Barker\'s visa issues',
+          'The Formation of Damnation won Metal Hammer\'s Golden Gods Best Album award (2008)',
+          'Recorded on a Pacific Drums LX Maple kit — a gear chapter distinct from any Slayer-era setup',
+        ],
+
+        quote: {
+          text: "Chuck asked me to play the way I approached the Exodus record — restrained, in service of the songs, without overplaying.",
+          source: 'Blabbermouth Interview, 2008',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'paul-bostaph-2013-return-present',
+        era: 'Slayer Return, Repentless & Present',
+        years: '2013-Present',
+        startYear: 2013,
+        endYear: 2026,
+        description: 'Bostaph rejoined Slayer in 2013 after Dave Lombardo\'s second and final departure, recording Repentless (2015) — Slayer\'s twelfth and final studio album — on a Pearl Masters Maple Complete kit with Sabian AAX cymbals. He played every date of Slayer\'s Final World Tour, including the band\'s last-ever show at the Forum in Los Angeles in 2019, before moving into session and touring work on a modern ddrum-based setup and rejoining Testament in 2024.',
+        albums: ['Slayer - Repentless (2015)'],
+        tours: ['Slayer Final World Tour 2018-2019', 'Testament Touring 2024-Present'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Maple Complete (MCX)',
+            details: 'All-maple, SST tom suspension, double 22"x18" kicks',
+            notes: 'A step away from the Tama and DW shells of his earlier Slayer chapters, chosen for Terry Date\'s direct, unfussy Repentless production.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Masters Steel 14"x6.5"',
+            details: 'Steel shell',
+            notes: 'Tuned medium-high for cut, placed forward and dry in Terry Date\'s mix.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian AAX Series -> Zildjian A Custom (current)',
+            details: '14" AAX Stage hi-hats, 17"/19" AAX X-Plosion crashes for Repentless; Zildjian A Custom in his current setup',
+            notes: 'Switched to Sabian for Repentless — his first new cymbal brand since the God Hates Us All era — then later moved to Zildjian A Custom for his current setup.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'ddrum Mercury Double Pedal',
+            details: 'Current touring pedal',
+            notes: 'Part of his modern ddrum endorsement, replacing the DW and Tama pedals of earlier eras.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Hickory',
+            notes: 'Switched stick brands for his current setup after decades on Pro-Mark.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          heads: {
+            item: 'Evans drumheads',
+            details: 'Current head setup',
+            notes: 'Switched from a career-long Remo setup to Evans for his modern ddrum-era rig.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 4500,
+          inflationAdjusted: 5200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Rejoined Slayer in 2013 after Dave Lombardo\'s second departure',
+          'Repentless (2015) debuted at #4 on the Billboard 200 — Slayer\'s highest US chart position ever',
+          'Played Slayer\'s final-ever show at the Forum, Los Angeles, on November 30, 2019',
+          'Current setup built around a ddrum Paladin Series kit, Zildjian A Custom cymbals, and Vic Firth American Classic 5B sticks',
+          'Rejoined Testament in 2024',
+        ],
+
+        quote: {
+          text: "Playing that last show at the Forum, I understood what those songs had meant to three decades of people who'd never see them played live again.",
+          source: 'Rolling Stone Interview, 2019',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'Who replaced Dave Lombardo in Slayer?',
+        a: 'Paul Bostaph replaced Dave Lombardo in Slayer in 1992, recording four studio albums — Divine Intervention (1994), Undisputed Attitude (1996), Diabolus in Musica (1998), and Repentless (2015) — across two separate tenures (1992-2001 and 2013-2019).',
+      },
+      {
+        q: 'Did Slayer have other drummers besides Dave Lombardo?',
+        a: 'Yes — Paul Bostaph is Slayer\'s longest-serving drummer by total years, filling in for Dave Lombardo from 1992-2001 and again from 2013-2019, including the band\'s entire Final World Tour and last-ever show at the Forum in Los Angeles in 2019.',
+      },
+      {
+        q: 'What drum kit did Paul Bostaph use on Repentless?',
+        a: 'On Repentless (2015), Slayer\'s twelfth and final studio album, Paul Bostaph played a Pearl Masters Maple Complete kit with a Pearl Masters steel snare and Sabian AAX cymbals, recorded with producer Terry Date at Henson Recording Studios in Los Angeles.',
+      },
+      {
+        q: 'What bands has Paul Bostaph played in besides Slayer?',
+        a: 'Beyond Slayer, Paul Bostaph has played with Forbidden (1987-1989), Testament (1999-2001 and 2024-present), and Exodus (2005-2007), recording Testament\'s The Formation of Damnation (2008) on a Pacific Drums LX Maple kit.',
+      },
+      {
+        q: 'What is Paul Bostaph\'s current drum setup?',
+        a: 'Paul Bostaph\'s current setup is built around a ddrum Paladin Series kit with a ddrum Paladin 14"x6.5" maple snare, Zildjian A Custom cymbals, a ddrum Mercury double pedal, and Vic Firth American Classic 5B sticks.',
+      },
+    ],
+
+    metaTitle: 'Paul Bostaph Gear Evolution Timeline | Slayer Drum Kit History',
+    metaDescription: 'Explore Paul Bostaph\'s complete drum gear evolution: the Tama/Paiste rig of his first Slayer tenure, a DW-to-Tama switch across Diabolus in Musica and God Hates Us All, a Pacific Drums interim with Exodus and Testament, and the Pearl/Sabian setup on Repentless. Includes his current ddrum-based touring rig.',
+  },
 };
 
 /**

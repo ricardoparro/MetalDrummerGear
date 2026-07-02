@@ -2343,6 +2343,73 @@ export const drummerComparisons = {
       { q: 'What gear do Ryan Van Poederooyen and Mike Portnoy use?', a: 'Ryan Van Poederooyen plays a Pearl Reference Series kit with a 14x6.5" brass Pearl Reference snare and Sabian HHX & AAX cymbals. Mike Portnoy plays a Tama Starclassic Maple/Birch kit with his Tama Melody Master signature snare and Sabian HHX Evolution cymbals, driven by a Tama Iron Cobra Power Glide double pedal.' },
     ],
   },
+
+  // Issue #3632: SEO batch — Frost roster expansion (black metal vs blackened/melodic/technical death metal)
+  'frost-vs-inferno': {
+    slug: 'frost-vs-inferno',
+    title: 'Frost vs Inferno',
+    metaTitle: 'Frost vs Inferno — Black Metal vs Blackened Death Metal Drumming Compared | MetalForge',
+    metaDescription: 'Satyricon\'s Frost vs Behemoth\'s Inferno. Norwegian black metal blast beat precision vs Polish blackened death metal brutality. Gear, technique, and legacy compared.',
+    category: 'extreme',
+    drummers: ['frost', 'inferno'],
+    comparison: {
+      style: 'Frost (Kjetil-Vidar Haraldstad) has driven Satyricon\'s black metal since 1993 and co-founded 1349 in 2001, building a reputation on surgical, metronomically consistent blast beats that underpin increasingly sophisticated compositions from *Nemesis Divina* through *Deep calleth upon Deep*. Inferno (Zbigniew Promiński) has anchored Poland\'s Behemoth since 1997, driving the band\'s blackened death metal assault on landmark records like "The Satanist" and "I Loved You at Your Darkest" with relentless blast beats and the theatrical stamina Behemoth\'s arena-scale live shows demand.',
+      technique: 'Frost developed a refined single-stroke blast beat technique built for consistency and endurance across full-length compositions, maintaining precision at extreme tempos without sacrificing black metal\'s dark atmosphere. Inferno combines sustained double bass blasting with the physical stamina to deliver Behemoth\'s dense, orchestrated arrangements night after night on some of extreme metal\'s biggest stages, blending blackened death metal aggression with disciplined tempo control.',
+      gear: 'Frost plays a Sonor SQ2 Series kit with a Sonor SQ2 14x6" Maple snare, Zildjian A Custom & K Series cymbals (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China), and a Sonor Perfect Balance single pedal. Inferno plays a Pearl Masterworks kit with a Pearl Reference 14x5" Steel snare, Paiste RUDE Series cymbals (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China), and a Czarcie Kopyto (Devil\'s Hoof) double pedal.',
+      influence: 'Frost has been Satyricon\'s rhythmic backbone for over 30 years and is considered one of the most technically advanced black metal drummers alive, influencing a generation of drummers who wanted more than raw aggression from the genre. Inferno has powered Behemoth\'s rise into one of extreme metal\'s biggest global acts, his relentless blast beat stamina helping the band headline major festivals and bring blackened death metal to mainstream metal audiences.',
+    },
+    verdict: 'Frost and Inferno represent two national schools of extreme metal drumming. Frost pursues Norwegian black metal\'s technical precision — his blast beats are a clinic in controlled extremity built for atmosphere. Inferno delivers Polish blackened death metal brutality — his stamina and power have carried Behemoth to arena-scale success. The debate is precision-first black metal vs stamina-first blackened death metal.',
+    faqs: [
+      { q: 'Who is the better extreme metal drummer: Frost or Inferno?', a: 'Both are elite extreme metal drummers from different traditions. Frost (Satyricon, 1349) is known for technical precision and controlled, sustained blast beats in Norwegian black metal. Inferno (Behemoth) is known for relentless power and stamina in Polish blackened death metal. Style preference determines the winner.' },
+      { q: 'What gear does Frost use vs Inferno?', a: 'Frost plays a Sonor SQ2 Series kit with Zildjian A Custom & K Series cymbals and a Sonor Perfect Balance pedal. Inferno plays a Pearl Masterworks kit with Paiste RUDE Series cymbals and a Czarcie Kopyto (Devil\'s Hoof) double pedal.' },
+      { q: 'What bands are Frost and Inferno known for?', a: 'Frost is best known as the drummer for Satyricon, also playing in 1349. Inferno is best known as the drummer for Behemoth, which he joined in 1997.' },
+      { q: 'What blast beat technique does Frost use compared to Inferno?', a: 'Frost uses a single-stroke blast beat technique emphasizing precision and endurance at extreme tempos. Inferno combines sustained double bass blasting with the physical stamina required for Behemoth\'s dense, theatrical live performances.' },
+    ],
+  },
+
+  'frost-vs-jaska-raatikainen': {
+    slug: 'frost-vs-jaska-raatikainen',
+    title: 'Frost vs Jaska Raatikainen',
+    metaTitle: 'Frost vs Jaska Raatikainen — Black Metal vs Melodic Death Metal Drumming Compared | MetalForge',
+    metaDescription: 'Satyricon\'s Frost vs Children of Bodom\'s Jaska Raatikainen. Norwegian black metal blast beat mastery vs Finnish melodic death metal precision. Gear, technique, and legacy compared.',
+    category: 'extreme',
+    drummers: ['frost', 'jaska-raatikainen'],
+    comparison: {
+      style: 'Frost has driven Satyricon\'s black metal since 1993, pairing hyperspeed blast beats with the disciplined consistency needed for the band\'s increasingly sophisticated compositions. Jaska Raatikainen co-founded Finland\'s Children of Bodom in 1993 and anchored the band\'s neoclassical melodic death metal for 26 years, from their 1997 debut "Something Wild" through 2019\'s farewell "Hexed," combining technical double bass work with driving blast beats beneath Alexi Laiho\'s dense guitar and keyboard arrangements.',
+      technique: 'Frost\'s single-stroke blast beats prioritize metronomic consistency and endurance at extreme tempos, serving black metal\'s dark, atmospheric demands. Raatikainen\'s technique is built around fluid, precise double bass patterns and blast beats that lock tightly with Children of Bodom\'s rapid neoclassical guitar runs and keyboard melodies, requiring a rhythmic foundation flexible enough to support the band\'s melodic complexity.',
+      gear: 'Frost plays a Sonor SQ2 Series kit with a Sonor SQ2 14x6" Maple snare, Zildjian A Custom & K Series cymbals, and a Sonor Perfect Balance single pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride), and a Pearl Eliminator double pedal.',
+      influence: 'Frost has been Satyricon\'s rhythmic backbone for over 30 years, influencing a generation of drummers who wanted technical precision without sacrificing black metal\'s raw edge. Raatikainen helped define the Finnish melodic death metal sound, his rhythmic foundation across Children of Bodom\'s entire catalog making him one of the most recognized drummers of the genre\'s late-90s and 2000s golden era.',
+    },
+    verdict: 'Frost and Jaska Raatikainen represent two of extreme metal\'s defining national scenes. Frost embodies Norwegian black metal\'s technical severity — precision blast beats built for atmosphere and endurance. Raatikainen embodies Finnish melodic death metal\'s marriage of speed and melody — fluid double bass work that serves Children of Bodom\'s neoclassical ambitions. The debate is atmospheric precision vs melodic drive.',
+    faqs: [
+      { q: 'Who is the better extreme metal drummer: Frost or Jaska Raatikainen?', a: 'Both are influential extreme metal drummers from different scenes. Frost (Satyricon, 1349) is known for technical precision and controlled, sustained blast beats in Norwegian black metal. Jaska Raatikainen co-founded and drummed for Children of Bodom for 26 years, defining Finnish melodic death metal\'s rhythmic template. Style preference determines the winner.' },
+      { q: 'What gear does Frost use vs Jaska Raatikainen?', a: 'Frost plays a Sonor SQ2 Series kit with Zildjian A Custom & K Series cymbals and a Sonor Perfect Balance pedal. Jaska Raatikainen plays a Pearl Masters Premium Maple kit with Zildjian A Custom & K Custom Series cymbals and a Pearl Eliminator double pedal.' },
+      { q: 'What bands are Frost and Jaska Raatikainen known for?', a: 'Frost is best known as the drummer for Satyricon, also playing in 1349. Jaska Raatikainen co-founded and drummed for Children of Bodom from 1993 until the band\'s 2019 split.' },
+      { q: 'What is the main stylistic difference between Frost and Jaska Raatikainen?', a: 'Frost drives Satyricon\'s black metal with surgical, metronomically consistent blast beats built for atmosphere and endurance. Raatikainen locks fluid double bass patterns and blast beats into Children of Bodom\'s neoclassical melodic death metal, supporting rapid guitar and keyboard melodies rather than pure blast-beat intensity.' },
+    ],
+  },
+
+  'frost-vs-daray': {
+    slug: 'frost-vs-daray',
+    title: 'Frost vs Daray',
+    metaTitle: 'Frost vs Daray — Black Metal vs Technical Death Metal Drumming Compared | MetalForge',
+    metaDescription: 'Satyricon\'s Frost vs Vader/Dimmu Borgir\'s Daray. Norwegian black metal blast beat precision vs Polish high-speed technical death metal. Gear, technique, and legacy compared.',
+    category: 'extreme',
+    drummers: ['frost', 'daray'],
+    comparison: {
+      style: 'Frost has driven Satyricon\'s black metal since 1993, building a reputation on hyperspeed, metronomically consistent blast beats across records like "Nemesis Divina" and "Deep calleth upon Deep." Daray (Dariusz Brzozowski) built his name in Poland\'s death metal scene with Vader (2006-2016) before joining Norwegian symphonic black metal titans Dimmu Borgir in 2008, combining extreme speed, technical precision, and theatrical flair across two demanding extreme metal chairs simultaneously.',
+      technique: 'Frost\'s single-stroke blast beat technique emphasizes consistency and endurance at extreme tempos, prioritizing black metal\'s dark atmosphere over showmanship. Daray brings high-speed technical death metal precision from his Vader tenure into Dimmu Borgir\'s symphonic black metal arrangements, requiring the versatility to shift between Vader\'s stripped-down brutality and Dimmu Borgir\'s orchestrated, large-scale productions.',
+      gear: 'Frost plays a Sonor SQ2 Series kit with a Sonor SQ2 14x6" Maple snare, Zildjian A Custom & K Series cymbals, and a Sonor Perfect Balance single pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon XR double pedal.',
+      influence: 'Frost has been Satyricon\'s rhythmic backbone for over 30 years and is considered one of the most technically advanced black metal drummers alive. Daray proved a single drummer could hold down two of extreme metal\'s most demanding chairs at once, bringing Vader\'s technical death metal speed into Dimmu Borgir\'s symphonic black metal machine and building a reputation across both Polish death metal and Norwegian black metal circles.',
+    },
+    verdict: 'Frost and Daray showcase two approaches to extreme metal drumming discipline. Frost pursues Norwegian black metal\'s technical severity — controlled, atmospheric blast beats sustained across three decades with Satyricon. Daray pursues cross-genre versatility — Polish technical death metal speed applied across Vader and Dimmu Borgir\'s vastly different demands. The debate is single-band mastery vs dual-genre technical range.',
+    faqs: [
+      { q: 'Who is the better extreme metal drummer: Frost or Daray?', a: 'Both are elite extreme metal drummers with different strengths. Frost (Satyricon, 1349) is known for technical precision and controlled, sustained blast beats in Norwegian black metal. Daray is known for high-speed technical death metal precision with Vader and theatrical flair with Dimmu Borgir. Style preference determines the winner.' },
+      { q: 'What gear does Frost use vs Daray?', a: 'Frost plays a Sonor SQ2 Series kit with Zildjian A Custom & K Series cymbals and a Sonor Perfect Balance pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with Paiste RUDE & 2002 Series cymbals and a Pearl Demon XR double pedal.' },
+      { q: 'What bands are Frost and Daray known for?', a: 'Frost is best known as the drummer for Satyricon, also playing in 1349. Daray is known for his work with Polish death metal legends Vader (2006-2016) and Norwegian symphonic black metal band Dimmu Borgir (since 2008).' },
+      { q: 'What is the main stylistic difference between Frost and Daray?', a: 'Frost drives Satyricon\'s black metal with surgical, metronomically consistent blast beats built for atmosphere and endurance. Daray combines Vader\'s high-speed technical death metal precision with the theatrical, large-scale demands of Dimmu Borgir\'s symphonic black metal.' },
+    ],
+  },
 };
 
 /**

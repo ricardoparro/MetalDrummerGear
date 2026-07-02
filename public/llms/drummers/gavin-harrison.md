@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/gavin-harrison"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-07-02"
 ---
 
 # Gavin Harrison — Drum Kit & Gear Setup
@@ -26,6 +26,12 @@ Gavin Harrison's drum kit and gear setup. Gavin Harrison is a professional metal
 | Drum kit | Sonor SQ2 Series |
 | Signature snare | Sonor Gavin Harrison Signature 12x5" & 14x5.25" |
 | Sticks | Vic Firth Gavin Harrison Signature |
+
+## Kit Overview
+
+Gavin Harrison plays a Sonor SQ2 Series drum kit — a fully customizable German-built platform chosen for the warm, controlled resonance that suits the odd-time signatures and dynamic shading central to Porcupine Tree and King Crimson's progressive material. Distinctively, the Gavin Harrison drum set features two signature Sonor snares in rotation, a 12x5" and a 14x5.25", letting him switch between a tighter, higher-pitched crack for intricate ghost-note passages and a fuller backbeat for King Crimson's heavier sections.
+
+Zildjian K Custom Special Dry cymbals define the dry, understated character of the Gavin Harrison drum kit: 14" Hi-Hats for the subtle, closed patterns that anchor his polyrhythmic phrasing; 16" and 18" Crashes for restrained, musical accents rather than blunt power; a 21" Special Dry Ride prized for its dark, low-sustain wash under complex time signatures; and an 18" Trash China for textured, non-metallic punctuation. A single Sonor Perfect Balance pedal reflects his famously economical bass drum technique, while Vic Firth's Gavin Harrison signature sticks — designed for precise ghost notes — and Remo Ambassador heads complete a setup built for touch and nuance over sheer volume.
 
 ## Biography
 
@@ -97,4 +103,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-02 · Source: [MetalForge.io](https://metalforge.io)*

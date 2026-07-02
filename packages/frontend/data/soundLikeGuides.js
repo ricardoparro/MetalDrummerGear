@@ -14074,6 +14074,253 @@ This guide breaks down the technique, gear, and practice approach behind Dette's
       { slug: 'jon-dette-drum-setup', label: "Jon Dette's Drum Setup — Slayer's Underrated Thrash Machine" }
     ]
   },
+
+  // Issue #2778: SoundLike guide batch 24 — Jason Bittner
+  // (Paul Mazurkiewicz and Richard Christy already present since batch #2099/#2839)
+  'how-to-sound-like-jason-bittner': {
+    slug: 'how-to-sound-like-jason-bittner',
+    drummerId: 19,
+    drummerName: 'Jason Bittner',
+    band: 'Shadows Fall / Overkill',
+    genre: 'NWOAHM / Thrash Metal',
+    priority: 55,
+    title: "How to Sound Like Jason Bittner: Complete Gear & Technique Guide",
+    description: "Master Jason Bittner's syncopated groove-metal and thrash drumming. Learn the riff-locked NWOAHM technique behind Shadows Fall's The War Within, his sustained double-bass drive for Overkill, and his Mapex/Zildjian setup.",
+    seoKeywords: ['jason bittner drums', 'how to sound like jason bittner', 'shadows fall drummer', 'overkill drummer technique', 'jason bittner gear', 'nwoahm drumming technique'],
+    ogImage: '/images/guides/jason-bittner-guide.webp',
+    datePublished: '2026-07-02',
+    dateModified: '2026-07-02',
+    author: 'MetalForge Editorial',
+    wordCount: 1950,
+    readingTime: '9 min',
+    intro: {
+      title: "The Groove Engine of NWOAHM and Modern Thrash",
+      content: `Jason Bittner (born August 19, 1970, in Waterbury, Connecticut) is one of American metal's most versatile working drummers, best known for powering two very different bands to genre-defining heights: metalcore pioneers Shadows Fall and thrash metal legends Overkill. A Berklee College of Music alumnus, Bittner built his reputation during the early-2000s New Wave of American Heavy Metal (NWOAHM) explosion, anchoring Shadows Fall's Grammy-nominated albums The Art of Balance (2002) and The War Within (2004) before the band's second Grammy nod for Threads of Life (2007).
+
+Where many of his death-metal and technical-thrash peers chase raw velocity, Bittner's identity is built on syncopated groove control — locking dense double-bass patterns to tremolo-picked riffs while leaving room for dynamic snare placement and compositional tom work. That hybrid vocabulary made him the natural fit when Overkill recruited him in 2017, replacing Ron Lipnicki and bringing his metalcore-honed precision to one of thrash's most demanding touring schedules. He has also filled in for Charlie Benante on Anthrax dates and currently drums for the thrash supergroup Category 7.
+
+This guide breaks down the technique, gear, and practice approach behind Bittner's syncopated groove-and-blast-variation style — essential study for any drummer chasing the middle ground between metalcore precision and thrash-metal aggression.`,
+      keyPoints: [
+        "Shadows Fall drummer 1999–2015 — co-architect of the NWOAHM sound across two Grammy-nominated albums",
+        "Overkill drummer since 2017 — one of thrash metal's most demanding full-time drum chairs",
+        "Known for syncopated, riff-locked grooves and sustained double-bass drive rather than raw speed",
+        "Berklee-trained; filled in for Charlie Benante (Anthrax) and now drums in supergroup Category 7"
+      ]
+    },
+    technique: {
+      title: "Bittner's Syncopated Groove-Thrash Technique",
+      overview: `Bittner plays matched grip with a powerful, controlled stroke built to drive dense, down-tuned arrangements without losing pocket. His defining skill is riff-unison: locking kick and snare hits to a song's guitar accents so the drums read as part of the riff rather than a layer underneath it. That approach — refined across Shadows Fall's metalcore breakdowns — translates directly into Overkill's thrash-tempo double-bass passages, where the same syncopated instincts add rhythmic intelligence instead of just speed.`,
+      stickGrip: {
+        type: 'Matched Grip',
+        description: "Bittner uses a powerful matched grip that favors controlled authority over flash, letting him drive both NWOAHM's dynamic arrangements and Overkill's relentless thrash riffing without technique breaking down over a long set.",
+        tips: [
+          "Keep the stroke controlled rather than maximal — Bittner's power comes from consistency across a full set, not single hard hits",
+          "Practice locking snare accents to a guitar riff's rhythmic hits, not just the beat, to develop riff-unison instinct",
+          "Build stamina for sustained double-bass passages before adding syncopated accents on top"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "Riff-Locked NWOAHM Groove",
+          description: "A ride-cymbal pattern locked to a tremolo-picked riff with hi-hat chick accents on the downbeats, while the kick adds double-bass density underneath without cluttering the upper register — the technical foundation of Bittner's breakout performance on Shadows Fall's 'The Light That Blinds.'",
+          tempo: "170-190 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Loop a simple tremolo guitar riff and build a ride pattern that locks to its rhythmic accents before adding kick density underneath."
+        },
+        {
+          name: "Sustained Double-Bass Drive",
+          description: "Tight, even double-bass alternation that adds rhythmic depth rather than speed-showmanship, sustained across full song lengths in both Shadows Fall's metalcore arrangements and Overkill's thrash-tempo material.",
+          tempo: "160-200 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Play steady sixteenth-note double bass at a reduced tempo with a metronome, focusing on even velocity, before raising tempo toward thrash speed."
+        },
+        {
+          name: "Syncopated Breakdown Accents",
+          description: "Mirroring a riff's accented rhythmic structure note-for-note on kick and snare during breakdown sections — the syncopated groove-and-blast-variation vocabulary that distinguishes Bittner from straight-ahead thrash and death metal drummers.",
+          tempo: "Variable",
+          difficulty: "Intermediate-Advanced",
+          practiceHint: "Transcribe a breakdown riff's rhythmic hits exactly, then play the identical rhythm on kick and snare until it locks with the riff note-for-note."
+        }
+      ],
+      keySongs: [
+        { song: "Idle Hands", album: "The Art of Balance", year: 2002, why: "Opens with the double-kick pattern that became a reference point for a generation of NWOAHM and metalcore drummers" },
+        { song: "What Drives the Weak", album: "The War Within", year: 2004, why: "Grammy-nominated for Best Metal Performance — the clearest showcase of Bittner's double-bass precision and dynamic control" },
+        { song: "The Light That Blinds", album: "The War Within", year: 2004, why: "Bittner's most iconic recorded performance — riff-locked groove driving Shadows Fall's Ozzfest-era breakout single" },
+        { song: "Redemption", album: "Threads of Life", year: 2007, why: "Second Grammy-nominated track — closes out Bittner's commercial-peak run with Shadows Fall" }
+      ]
+    },
+    gear: {
+      title: "Bittner's Gear Setup",
+      drumKit: {
+        brand: 'Mapex',
+        model: 'Mapex Saturn V',
+        shells: 'All-maple',
+        finish: 'Various touring finishes',
+        config: {
+          kick: '22" x 18" Bass Drum',
+          snare: '14" x 6.5" Mapex Black Panther Brass Snare',
+          toms: ['10" x 8" Rack Tom', '12" x 9" Rack Tom'],
+          floorToms: ['14" x 14" Floor Tom', '16" x 16" Floor Tom']
+        },
+        description: "Bittner's Mapex Saturn V all-maple shell pack, adopted for his 2017 move to Overkill, gives him the durability and consistent response needed for sustained double-kick passages across both dense NWOAHM arrangements and thrash-tempo material.",
+        affiliateNote: "Mapex Armory or Pearl Export offer a similar all-purpose maple/hybrid voice at a fraction of the cost."
+      },
+      snare: {
+        brand: 'Mapex',
+        model: 'Mapex Black Panther 14" x 6.5" Brass',
+        size: '14" x 6.5"',
+        shell: 'Brass',
+        description: "The brass shell delivers the steel-edged crack and projection Bittner needs to cut through both Shadows Fall's layered guitar walls and Overkill's dense thrash riffing.",
+        alternative: "Pearl Sensitone Brass or Mapex Black Panther Steel for a similar cutting attack"
+      },
+      cymbals: {
+        brand: 'Zildjian',
+        series: 'Zildjian K & A Custom Series',
+        setup: [
+          { type: 'Hi-Hats', model: '14" K Hi-Hats', notes: 'Tight, controlled articulation for the sixteenth-note riff-lock pulse' },
+          { type: 'Crash', model: '18" A Custom Crash', notes: 'Fast, explosive accent for breakdown and section boundaries' },
+          { type: 'Crash', model: '19" A Custom Crash', notes: 'Fuller crash for structural accent points' },
+          { type: 'Ride', model: '21" K Custom Ride', notes: 'Dark rhythmic clarity for riff-locked ride patterns' },
+          { type: 'China', model: '18" K China', notes: 'Aggressive punctuation for syncopated breakdown accents' }
+        ],
+        description: "Bittner's Zildjian K & A Custom setup blends dark, controlled crashes with cutting ride definition — exactly the tonal range needed to move between metalcore breakdowns and thrash riffing inside the same set."
+      },
+      pedals: {
+        brand: 'Mapex',
+        model: 'Mapex Falcon Double Pedal',
+        description: "The Falcon's smooth dual-chain action powers the sustained double-kick passages central to both his NWOAHM and thrash vocabularies, paired with a Mapex T865 throne for stability across long sets.",
+        alternative: "Tama Iron Cobra or Pearl Eliminator for similarly consistent chain-drive response"
+      },
+      sticks: {
+        brand: 'Promark',
+        model: 'Promark Jason Bittner Signature 5BX',
+        specs: 'Hickory, heavier weight for power',
+        description: "Bittner's own signature stick — heavier than a standard 5B for the authority needed driving through cymbals and heads on both metalcore and thrash material.",
+        alternative: "Vic Firth American Classic 5B for a comparable heavier-weight feel"
+      },
+      heads: {
+        kick: 'Evans EQ3 / EMAD',
+        snare: 'Evans Coated Snare Batter',
+        toms: 'Evans G2 Coated',
+        resonant: 'Evans Clear Resonant'
+      }
+    },
+    tuning: {
+      title: "Tuning for Bittner's Syncopated Groove-Thrash Sound",
+      overview: "Bittner tunes for punch and articulation that reads clearly whether he's locking to a metalcore breakdown or driving a straight thrash riff — every accent needs to register as a distinct rhythmic event.",
+      kickDrum: {
+        tension: "Medium-high",
+        muffling: "Focused — front-head port plus internal damping",
+        description: "A punchy, controlled kick tone keeps sustained double-bass passages articulate rather than blurring into a wash, essential for riff-locked patterns to stay audible.",
+        tip: "Prioritize attack definition over boom so syncopated kick accents cut through dense, down-tuned guitar walls."
+      },
+      snare: {
+        tension: "Medium-bright",
+        muffling: "Minimal",
+        description: "A medium-bright, brass-shell crack keeps the backbeat cutting through Shadows Fall's layered arrangements and Overkill's thrash riffing alike.",
+        tip: "Test your tuning against a syncopated breakdown pattern — every accent should read as a distinct hit locked to the riff, not a wash."
+      },
+      toms: {
+        tension: "Medium",
+        muffling: "Light",
+        description: "Toms are tuned for fast response and clear attack, keeping compositional tom work articulate during dynamic arrangement shifts.",
+        tip: "Slightly higher tom tension helps fills speak clearly when they're structuring the arrangement rather than just filling space."
+      }
+    },
+    practice: {
+      title: "Developing Bittner's Style",
+      exercises: [
+        {
+          name: "Riff-Unison Lock Drill",
+          description: "Build the riff-locked groove instinct that defines Bittner's NWOAHM technique",
+          instructions: "Pick a riff with a clear rhythmic accent pattern. Play the identical rhythm on kick and snare until every accent locks to the riff note-for-note, then add a ride or hi-hat pattern underneath.",
+          duration: "15 minutes daily",
+          goal: "A breakdown or riff pattern that locks perfectly to the guitar's rhythmic accents"
+        },
+        {
+          name: "Sustained Double-Bass Endurance",
+          description: "Develop the even, sustained double-bass drive needed across full song lengths",
+          instructions: "Play steady sixteenth-note double bass at 140 BPM for three minutes with a metronome, checking for velocity consistency. Raise tempo only once the full three minutes stays even.",
+          duration: "15 minutes daily",
+          goal: "Even double-bass sustained for three minutes at thrash tempo (180+ BPM)"
+        },
+        {
+          name: "Dynamic Section Shaping",
+          description: "Train the ability to escalate energy through dynamic control rather than just playing harder",
+          instructions: "Take a song with distinct verse, pre-chorus, and chorus sections. Practice shaping each section's dynamics — pocket verse, tightening pre-chorus, full-drive chorus — without changing tempo.",
+          duration: "20 minutes daily",
+          goal: "Clear dynamic contrast between song sections at a consistent tempo"
+        }
+      ],
+      commonMistakes: [
+        "Playing breakdown accents slightly off the riff's rhythm instead of locking note-for-note",
+        "Chasing raw double-bass speed before establishing complete evenness",
+        "Hitting every section at the same intensity instead of shaping dynamics across the arrangement",
+        "Over-muffling the kick for control at the expense of the attack definition syncopated patterns need"
+      ]
+    },
+    budgetSetups: {
+      budget: {
+        price: "$1,000",
+        label: "Starter Setup",
+        kit: "Mapex Armory or Pearl Export ($700)",
+        cymbals: "Zildjian ZBT Pack ($250)",
+        pedals: "Mapex P400 Single ($60)",
+        sticks: "Promark 5B ($10)",
+        notes: "Any durable maple/hybrid kit will get you close to Bittner's core tone before investing in a full Saturn V shell pack."
+      },
+      mid: {
+        price: "$3,000",
+        label: "Intermediate Setup",
+        kit: "Mapex Saturn V partial shell pack ($1,800)",
+        cymbals: "Zildjian A Custom Set ($900)",
+        pedals: "Mapex Falcon Double ($300)",
+        sticks: "Promark Jason Bittner Signature 5BX ($12)",
+        notes: "A partial Saturn V pack plus a matched A Custom cymbal set gets you most of the way to Bittner's live tone."
+      },
+      pro: {
+        price: "$5,000+",
+        label: "Professional Setup",
+        kit: "Mapex Saturn V full shell pack ($3,500+)",
+        cymbals: "Full Zildjian K & A Custom selection ($1,400+)",
+        pedals: "Mapex Falcon Double + T865 Throne ($450)",
+        heads: "Full Evans setup ($150)",
+        notes: "Touring-ready setup matching Bittner's current Overkill-era configuration."
+      }
+    },
+    faq: [
+      {
+        question: "What makes Jason Bittner's drumming style unique?",
+        answer: "Bittner's defining trait is syncopated, riff-locked groove — mirroring a song's guitar accents on kick and snare so the drums read as part of the riff rather than a layer underneath it. That NWOAHM-honed instinct, combined with sustained double-bass drive, lets him move between metalcore breakdowns and straight thrash riffing without losing pocket."
+      },
+      {
+        question: "What drums and cymbals does Jason Bittner use?",
+        answer: "Bittner currently plays a Mapex Saturn V all-maple kit with a 14\" x 6.5\" Mapex Black Panther Brass snare. His cymbals are Zildjian K & A Custom — 14\" K hi-hats, 18\" and 19\" A Custom crashes, a 21\" K Custom ride, and an 18\" K China. He uses a Mapex Falcon double bass pedal and his own Promark Jason Bittner Signature 5BX sticks."
+      },
+      {
+        question: "How do I get Jason Bittner's drum sound?",
+        answer: "Tune the kick for punchy, controlled attack rather than boom, keep the snare medium-bright for cut, and drill riff-unison — locking kick and snare accents to a guitar riff's exact rhythm — before adding speed. Bittner's sound comes from syncopated precision, not raw aggression."
+      },
+      {
+        question: "Which bands did Jason Bittner play drums for?",
+        answer: "Jason Bittner drummed for Shadows Fall (1999-2015), recording the Grammy-nominated albums The Art of Balance (2002) and The War Within (2004), plus Threads of Life (2007), which earned a second Grammy nomination. He joined Flotsam and Jetsam in 2013, became Overkill's drummer in 2017, and currently also drums for the thrash supergroup Category 7."
+      },
+      {
+        question: "Which albums should I study for Jason Bittner's drumming?",
+        answer: "The Art of Balance (2002) is the arrival of his mature technical voice — start with 'Idle Hands' for the genre-defining double-kick opener. The War Within (2004) is his most acclaimed work, with 'What Drives the Weak' and 'The Light That Blinds' showcasing his riff-locked groove at full intensity. Threads of Life (2007) closes his commercial peak with the Grammy-nominated 'Redemption.'"
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/jason-bittner',
+      similarDrummers: ['Charlie Benante', 'Dave Lombardo', 'Gene Hoglan'],
+      relatedGuides: ['how-to-sound-like-charlie-benante', 'how-to-sound-like-gene-hoglan'],
+      gearPages: ['/gear/drums', '/brands/mapex', '/brands/zildjian']
+    },
+    licksUrl: '/drummers/jason-bittner/licks',
+    relatedArticles: [
+      { slug: 'jason-bittner-drum-setup', label: "Jason Bittner's Drum Kit & Gear Setup — Shadows Fall / Overkill" }
+    ]
+  },
 };
 
 // ================================

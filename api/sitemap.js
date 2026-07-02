@@ -253,6 +253,8 @@ const soundLikeGuides = [
   { slug: 'how-to-sound-like-nick-augusto', name: 'How to Sound Like Nick Augusto' },
   // Issue #2388: SoundLike guide — Jon Dette (re-scoped from batch 15)
   { slug: 'how-to-sound-like-jon-dette', name: 'How to Sound Like Jon Dette' },
+  // Issue #2778: SEO batch 24 — Jason Bittner (Paul Mazurkiewicz + Richard Christy already present)
+  { slug: 'how-to-sound-like-jason-bittner', name: 'How to Sound Like Jason Bittner' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

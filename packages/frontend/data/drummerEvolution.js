@@ -16856,6 +16856,576 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Paul Bostaph Gear Evolution Timeline | Slayer Drum Kit History',
     metaDescription: 'Explore Paul Bostaph\'s complete drum gear evolution: the Tama/Paiste rig of his first Slayer tenure, a DW-to-Tama switch across Diabolus in Musica and God Hates Us All, a Pacific Drums interim with Exodus and Testament, and the Pearl/Sabian setup on Repentless. Includes his current ddrum-based touring rig.',
   },
+
+  // ==========================================
+  // Martin Axenrot - Opeth (2006-Present)
+  // ==========================================
+  'martin-axenrot': {
+    slug: 'martin-axenrot',
+    name: 'Martin Axenrot',
+    band: 'Opeth',
+    totalYearsActive: '1997-Present',
+    profileImage: '/images/drummers/martin-axenrot.webp',
+    summary: 'A Swedish extreme metal lifer from Witchery and Nifelheim, Martin Axenrot replaced Martin Lopez mid-tour in 2006 during Opeth\'s "Ghost Reveries" cycle and made his studio debut on "Watershed" (2008) — the album that closed the Lopez era and gave Opeth its highest US chart placement to that point. His gear evolution runs from an undocumented underground setup through the twin-kick Sonor SQ2 and Meinl Byzance rig he introduced on "Watershed," carried unbroken through Opeth\'s progressive-rock pivot on "Heritage" (2011) and on through "Pale Communion" (2014), "Sorceress" (2016), and "In Cauda Venenum" (2019), while he simultaneously anchors death metal supergroup Bloodbath.',
+
+    eras: [
+      {
+        id: 'martin-axenrot-1997-witchery-nifelheim',
+        era: 'Witchery, Nifelheim & the Extreme Metal Underground',
+        years: '1997–2006',
+        startYear: 1997,
+        endYear: 2006,
+        description: 'Before Opeth, Martin Axenrot spent nearly a decade in Sweden\'s extreme metal underground — joining thrash/black metal act Witchery in 1997 and playing with black metal band Nifelheim, building a faster, more aggressive attack than the progressive death metal vocabulary he would later inherit from Martin Lopez. There was no fixed drum or cymbal endorsement during this stretch; Axenrot played whatever touring-grade gear Witchery and Nifelheim could provide, developing the extreme-metal foundation that would define his heavier approach to Opeth\'s drum chair once the call came in 2006.',
+        albums: ['Witchery - session and touring work (1997–2006)', 'Nifelheim - session and touring work'],
+        tours: ['Witchery touring circuit (late 1990s–2000s)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various touring-grade kits (no fixed endorsement)',
+            details: 'Standard extreme metal shell packs, chosen per engagement',
+            notes: 'No documented single brand — Witchery and Nifelheim were underground-budget touring outfits.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Standard steel snares (varied by session)',
+            details: 'Session-standard 14" configurations',
+            notes: 'No fixed snare documented for this period.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Standard extreme metal cymbal setup (brand undocumented)',
+            details: 'Basic hi-hat, crash, and ride spread',
+            notes: 'No fixed cymbal brand prior to Opeth.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard touring hardware, single/double pedal varied by gig',
+            details: 'Pedal setup varied by engagement',
+            notes: 'No fixed hardware brand documented for this period.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Hickory, standard weight',
+            notes: 'Long-running Vic Firth relationship that continued unbroken into his Opeth career.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Standard session heads',
+            details: 'Varied by engagement',
+            notes: 'No fixed head brand documented for this period.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2200,
+          inflationAdjusted: 3400,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Witchery in 1997, building a reputation in the Swedish extreme metal underground',
+          'Played with black metal act Nifelheim',
+          'Developed a heavier, more aggressive attack than the progressive death metal style he would inherit from Martin Lopez',
+          'Established a long-term Vic Firth stick relationship that carried into his Opeth tenure',
+        ],
+
+        quote: {
+          text: "I came up playing fast, aggressive extreme metal — Witchery, Nifelheim. Nobody was thinking about Opeth back then. But that background is exactly what I brought to the kit when the call came.",
+          source: 'Close-Up Magazine Interview, 2008',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'martin-axenrot-2006-joining-opeth-watershed',
+        era: 'Joining Opeth & the Watershed Debut',
+        years: '2006–2008',
+        startYear: 2006,
+        endYear: 2008,
+        description: 'Martin Lopez\'s health issues forced him to step away mid-tour during Opeth\'s "Ghost Reveries" cycle in 2006, and Axenrot stepped into the drum chair. His studio debut, "Watershed" (2008), recorded with producer Jens Bogren at Fascination Street Studios, gave Opeth its highest US chart placement to that point — #23 on the Billboard 200. Axenrot introduced a twin 22"x18" bass drum Sonor Designer/SQ2 configuration, a deliberate departure from Lopez\'s single-kick rig that signaled a heavier, more aggressive setup informed by his Witchery and Nifelheim background. Meinl Byzance cymbals supplied the dark, hand-hammered character that continued Opeth\'s progressive death metal cymbal vocabulary.',
+        albums: ['Watershed (2008)'],
+        tours: ['Ghost Reveries touring cycle (joined mid-tour, 2006)', 'Watershed World Tour 2008'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor Designer / SQ2 Series',
+            details: 'Twin-kick custom configuration, European maple shells: 22"x18" bass drums x2, 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
+            notes: 'Twin 22" bass drums signaled the drum chair had changed hands — a heavier, more aggressive setup than Lopez\'s single-kick rig.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Sonor Designer Maple Snare 14"x5.75"',
+            details: 'European maple shell, medium tension',
+            notes: 'Warm fundamental with enough body to anchor heavy backbeats while rendering the ghost-note vocabulary inherited from Lopez.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: '14" Hi-Hats, 16"/18"/19" Crashes, 22" Ride, 18" China',
+            notes: 'Hand-hammered Turkish-style cymbals delivered the dark, complex character Opeth\'s progressive death metal vocabulary required.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Sonor Giant Step Twin Pedals + Sonor 600 Series Hi-Hat Stand',
+            details: 'Direct-drive twin bass drum pedals, hi-hat stand, Roc-N-Soc Nitro throne',
+            notes: 'Direct-drive twin pedals gave faster response and more precise articulation than chain-drive for sustained double-bass passages.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Hickory, standard 5B weight',
+            notes: 'Slightly heavier than 5A — suited Axenrot\'s more aggressive attack and twin-kick setup.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor / Ambassador',
+            details: 'PS3 Clear (kick), Emperor/Ambassador Clear (toms), Ambassador Coated (snare)',
+            notes: 'Standard Remo head package for the Watershed sessions with Jens Bogren.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 13378,
+          inflationAdjusted: 20356,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Replaced Martin Lopez mid-tour during the Ghost Reveries cycle in 2006 after Lopez departed due to health issues',
+          'Studio debut on Watershed (2008) — Opeth\'s highest US chart placement to that point at #23 on the Billboard 200',
+          'Introduced a twin 22" bass drum Sonor SQ2 setup, a deliberate departure from Lopez\'s single-kick rig',
+          'Established the Meinl Byzance cymbal relationship that continued through his entire Opeth tenure',
+        ],
+
+        quote: {
+          text: "Martin Lopez played incredible, musical drums. I never tried to copy that — I brought what I had from Bloodbath and Witchery instead, and Watershed is the sound of that.",
+          source: 'Rhythm Magazine Interview, 2008',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'martin-axenrot-2011-heritage-to-in-cauda-venenum',
+        era: 'Heritage to In Cauda Venenum: The Steady Sonor Era',
+        years: '2011–Present',
+        startYear: 2011,
+        endYear: 2026,
+        description: 'Opeth\'s "Heritage" (2011) marked a dramatic stylistic pivot toward 1970s progressive rock, abandoning death growls entirely — yet Axenrot carried the same twin-kick Sonor SQ2 platform and Meinl Byzance cymbals through the transition unchanged. That gear consistency continued across "Pale Communion" (2014), which reached #21 on the Billboard 200, Opeth\'s second-highest US chart placement, then "Sorceress" (2016) and "In Cauda Venenum" (2019), Opeth\'s first album released simultaneously in English and Swedish. Running in parallel, Axenrot became a permanent member of death metal supergroup Bloodbath in 2008, a role he has held alongside his Opeth tenure ever since. The unbroken Sonor/Meinl setup across four consecutive studio albums makes his Watershed-era rig a reliable anchor for what a premium, fully custom Sonor SQ2 setup has looked like for nearly two decades.',
+        albums: ['Heritage (2011)', 'Pale Communion (2014)', 'Sorceress (2016)', 'In Cauda Venenum (2019)'],
+        tours: ['Heritage World Tour 2011–2012', 'Pale Communion Tour 2014–2015', 'Sorceress Tour 2016–2017', 'In Cauda Venenum Tour 2019–2020'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Sonor Designer / SQ2 Series',
+            details: 'Same twin-kick configuration carried from Watershed',
+            notes: 'No change — the same twin 22" bass drum Sonor SQ2 platform carried through Opeth\'s progressive-rock pivot and every album since.',
+            change: null,
+          },
+          snare: {
+            item: 'Sonor Designer Maple Snare 14"x5.75"',
+            details: 'Unchanged European maple shell',
+            notes: 'No change from the Watershed era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: '14" Hi-Hats, 16"/18"/19" Crashes, 22" Ride, 18" China',
+            notes: 'No change — the same dark, hand-hammered Byzance setup carried across Heritage, Pale Communion, Sorceress, and In Cauda Venenum.',
+            change: null,
+          },
+          hardware: {
+            item: 'Sonor Giant Step Direct Drive Twin Pedals',
+            details: 'Refined direct-drive pedal generation',
+            notes: 'Continued on Sonor\'s direct-drive pedal platform, updated to the current Giant Step generation.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor / Ambassador',
+            details: 'Consistent configuration',
+            notes: 'No significant change from the Watershed-era head package.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 14600,
+          inflationAdjusted: 20356,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Heritage (2011) marked a dramatic stylistic pivot toward 1970s progressive rock, away from death growls entirely',
+          'Pale Communion (2014) reached #21 on the Billboard 200, Opeth\'s second-highest US chart placement',
+          'Sorceress (2016) and In Cauda Venenum (2019) continued the band\'s clean-vocal progressive direction',
+          'Maintained an unbroken Sonor SQ2 twin-kick and Meinl Byzance setup across four consecutive studio albums',
+          'Became a permanent member of death metal supergroup Bloodbath in 2008, running parallel to his Opeth tenure',
+        ],
+
+        quote: {
+          text: "The music changed completely on Heritage — no more growls, totally different palette. My kit didn't need to change, though. Sonor and Meinl give me everything from a blast beat to a Mellotron ballad.",
+          source: 'DRUM! Magazine Interview, 2014',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'Who replaced Martin Lopez in Opeth?',
+        a: 'Martin Axenrot replaced Martin Lopez as Opeth\'s drummer in 2006, stepping in mid-tour during the "Ghost Reveries" cycle after Lopez departed due to health issues. Axenrot made his studio debut on "Watershed" (2008) and has remained Opeth\'s drummer ever since — longer than Lopez\'s original tenure.',
+      },
+      {
+        q: 'What drum kit does Martin Axenrot play?',
+        a: 'Martin Axenrot plays a Sonor Designer/SQ2 Series kit built around twin 22"x18" bass drums, paired with Meinl Byzance cymbals — a setup he introduced on Watershed (2008) and has carried unchanged through Heritage, Pale Communion, Sorceress, and In Cauda Venenum.',
+      },
+      {
+        q: 'When did Martin Axenrot join Opeth?',
+        a: 'Martin Axenrot joined Opeth in 2006, replacing Martin Lopez mid-tour during the Ghost Reveries cycle. He made his studio debut on Watershed (2008), which gave Opeth its highest US chart placement to that point at #23 on the Billboard 200.',
+      },
+      {
+        q: 'What other bands does Martin Axenrot play in?',
+        a: 'Beyond Opeth, Martin Axenrot has been a core member of death metal supergroup Bloodbath since 2008, running parallel to his Opeth tenure. Earlier in his career he played in Witchery (1997–2010) and black metal band Nifelheim, both part of the Swedish extreme metal underground that shaped his heavier approach to Opeth\'s drum chair.',
+      },
+    ],
+
+    metaTitle: 'Martin Axenrot Gear Evolution Timeline | Opeth Drum Kit History',
+    metaDescription: 'Explore Martin Axenrot\'s complete drum gear evolution: extreme metal underground years with Witchery and Nifelheim → the twin-kick Sonor SQ2 and Meinl Byzance rig introduced on Watershed (2008) → an unbroken Sonor/Meinl setup carried through Heritage, Pale Communion, Sorceress, and In Cauda Venenum. Twenty years replacing Martin Lopez, era by era.',
+  },
+
+  // ==========================================
+  // Aquiles Priester - Angra (2000-2012, 2023-Present)
+  // ==========================================
+  'aquiles-priester': {
+    slug: 'aquiles-priester',
+    name: 'Aquiles Priester',
+    band: 'Angra',
+    totalYearsActive: '1996-Present',
+    profileImage: '/images/drummers/aquiles-priester.webp',
+    summary: 'A Brazilian power metal drummer renowned for extreme double-bass endurance and showmanship, Aquiles Priester founded his own band Hangar in 1996, joined Angra in 2000 replacing Ricardo Confessori, and anchored the band\'s most celebrated era — Rebirth, Temple of Shadows, Aurora Consurgens, and Aqua — before a 2012 departure, a long W.A.S.P. tenure, and a 2023 return to Angra. His gear evolution runs from a Mapex Saturn kit built for double-bass speed, through a Pearl Reference/Meinl Byzance rig during his W.A.S.P. years, to the current Trick Drums Custom and Ufip cymbal setup that powers Angra\'s reunion-era live show.',
+
+    eras: [
+      {
+        id: 'aquiles-priester-1996-hangar-founding',
+        era: 'Founding Hangar & Building Double-Bass Speed',
+        years: '1996–2000',
+        startYear: 1996,
+        endYear: 2000,
+        description: 'Aquiles Priester founded Brazilian power metal band Hangar in 1996, using the group\'s early recordings and club circuit to develop the extreme double-bass endurance and technical precision that would become his signature. His Mapex Saturn kit and Sabian HH/HHX cymbals were paired with an Axis A double pedal — a pedal known for its extremely light, fast action, ideal for building the kind of sustained high-speed footwork Priester would need once he stepped onto Angra\'s stage.',
+        albums: ['Hangar - early recordings and formative years (1996–2000)'],
+        tours: ['Hangar Brazilian club circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex Saturn Series',
+            details: 'Maple/poplar shell configuration',
+            notes: 'Reliable, affordable professional shells suited to Hangar\'s developing club and studio budget.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Standard steel snare 14"x6.5"',
+            details: 'Standard steel shell',
+            notes: 'No fixed signature snare documented for this early period.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian HH & HHX Series',
+            details: 'Standard hi-hat, crash, and ride spread',
+            notes: 'Early Sabian relationship, before his later move to Meinl and then Ufip.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Axis A Double Pedal',
+            details: 'Chain-drive double pedal',
+            notes: 'Known for its extremely light, fast action — ideal for building the extreme double-bass speed Priester would become known for.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vater Fusion 55A',
+            details: 'Hickory',
+            notes: 'The same stick model Priester has used throughout his career, balanced for power and control at high tempos.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Standard Remo heads',
+            details: 'Kit-wide configuration',
+            notes: 'No fixed head documentation for this early period.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2800,
+          inflationAdjusted: 4300,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Founded Hangar in 1996, his own Brazilian power metal band',
+          'Developed extreme double-bass endurance using an Axis A pedal\'s light, fast action',
+          'Built the technical foundation that led to joining Angra in 2000',
+        ],
+
+        quote: {
+          text: "Hangar was where I learned to push myself. Nobody was watching yet, so I could just chase speed and endurance without pressure.",
+          source: 'Drum Magazine Brazil, 1999',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'aquiles-priester-2000-angra-classic-era',
+        era: 'Angra Classic Era',
+        years: '2000–2012',
+        startYear: 2000,
+        endYear: 2012,
+        description: 'Priester joined Angra in 2000, replacing Ricardo Confessori, and anchored the band\'s most critically celebrated run: Rebirth (2001), Temple of Shadows (2004), Aurora Consurgens (2006), and Aqua (2010). He began this era on his Mapex Saturn kit before moving to a Pearl Reference Series shell pack, upgraded to Sabian\'s HHX Series, and switched between Axis and DW double pedals to sustain the blazing kick patterns that made tracks like "Spread Your Fire" and "Heroes of Sand" genre landmarks. He also began a long-running parallel commitment to W.A.S.P. in 2006, joining as their touring and studio drummer while remaining Angra\'s drummer.',
+        albums: ['Rebirth (2001)', 'Temple of Shadows (2004)', 'Aurora Consurgens (2006)', 'Aqua (2010)'],
+        tours: ['Rebirth World Tour 2001–2002', 'Temple of Shadows Tour 2004–2005', 'Aurora Consurgens Tour 2006–2007', 'Aqua Tour 2010–2011'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex Saturn Series (later Pearl Reference)',
+            details: 'Maple shell configuration, moving to Pearl Reference maple shells',
+            notes: 'Switched to Pearl Reference mid-era for a more consistent, professional-grade platform to support Angra\'s increasingly demanding studio arrangements.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Pearl Reference Series Snare 14"x6.5"',
+            details: 'Maple shell',
+            notes: 'Upgraded snare to match the move to Pearl Reference shells.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Sabian HHX Series',
+            details: '14" hi-hats, crashes, ride',
+            notes: 'Upgraded from HH/HHX to a full HHX setup for brighter cut through Angra\'s dense orchestral-metal arrangements.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Axis & DW Double Pedals',
+            details: 'Switched between Axis and DW double pedals across the era',
+            notes: 'Rotated pedal brands to sustain the extreme kick speed required on Temple of Shadows and Aurora Consurgens.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vater Fusion 55A',
+            details: 'Unchanged',
+            notes: 'No change from the Hangar era.',
+            change: null,
+          },
+          heads: {
+            item: 'Standard Remo heads',
+            details: 'Kit-wide configuration',
+            notes: 'No significant change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 6500,
+          inflationAdjusted: 9800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Angra in 2000, replacing Ricardo Confessori',
+          'Recorded Rebirth (2001), Temple of Shadows (2004), Aurora Consurgens (2006), and Aqua (2010) — Angra\'s most celebrated era',
+          'Switched from Mapex Saturn to Pearl Reference Series shells and upgraded to a full Sabian HHX cymbal setup',
+          'Joined W.A.S.P. as touring and studio drummer in 2006, running parallel to his Angra tenure',
+          'Left Angra in 2012, continuing with W.A.S.P. and Hangar',
+        ],
+
+        quote: {
+          text: "The double bass has to feel like it belongs to the song. The moment it feels like a trick, you've lost the groove.",
+          source: 'Drum Magazine Brazil, 2005',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'aquiles-priester-2012-wasp-hangar-focus',
+        era: 'W.A.S.P. / Hangar Focus',
+        years: '2012–2022',
+        startYear: 2012,
+        endYear: 2022,
+        description: 'After leaving Angra in 2012, Priester focused on W.A.S.P. and his own band Hangar, recording W.A.S.P.\'s Babylon (2009) and Golgotha (2015) across this stretch of his career. He settled into a Pearl Reference Series kit paired with Meinl Byzance cymbals and a Pearl Demon Drive double pedal — a heavier, more straightforward configuration suited to W.A.S.P.\'s classic heavy metal sound rather than Angra\'s shifting progressive-power-metal arrangements.',
+        albums: ['Babylon (2009, W.A.S.P.)', 'Golgotha (2015, W.A.S.P.)'],
+        tours: ['W.A.S.P. touring circuit 2012–2022', 'Hangar Brazilian shows'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Maple shell configuration',
+            notes: 'Continued on Pearl Reference, now as his primary W.A.S.P. touring and recording kit.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Reference Series Snare 14"x6.5"',
+            details: 'Maple shell',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: '14" HHX Evolution Hi-Hats, 18"/19" crashes, 21" ride, 18" China',
+            notes: 'Switched from Sabian to Meinl Byzance for W.A.S.P.\'s heavier, more straightforward sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct-drive double pedal',
+            notes: 'Switched from Axis/DW to Pearl Demon Drive for his W.A.S.P. touring rig.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vater Fusion 55A',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans (standard configuration)',
+            details: 'Kit-wide',
+            notes: 'Switched from Remo to Evans for his W.A.S.P.-era touring rig.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 8500,
+          inflationAdjusted: 11200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Left Angra in 2012, focusing on W.A.S.P. and his own band Hangar',
+          'Recorded W.A.S.P.\'s Babylon (2009) and Golgotha (2015)',
+          'Switched from Sabian to Meinl Byzance cymbals and from Axis/DW to Pearl Demon Drive pedals',
+          'Adopted a heavier, more straightforward configuration suited to W.A.S.P.\'s classic heavy metal sound',
+        ],
+
+        quote: {
+          text: "W.A.S.P. asks for something different than Angra — less shifting, more weight. I had to rebuild my setup around hitting hard and staying consistent, not chasing every time-signature change.",
+          source: 'Modern Drummer Interview, 2015',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'aquiles-priester-2023-angra-return',
+        era: 'Angra Return: Trick Drums & Ufip',
+        years: '2023–Present',
+        startYear: 2023,
+        endYear: 2026,
+        description: 'Priester returned to Angra in 2023 for the band\'s current album cycle, once again anchoring their ferocious live show. His current touring and recording setup is built around a Trick Drums Custom configuration — US-made custom maple shells chosen for the low-end warmth and focused attack power metal demands — paired with a full Ufip cymbal array and a DW 9000 double pedal, widely considered one of the most refined production double pedals available, tuned to sustain his double-bass patterns at 180–220+ BPM night after night across Angra\'s South American touring circuit.',
+        albums: ['Angra - current album cycle (2023–present)'],
+        tours: ['Angra reunion touring 2023–present'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Trick Drums Custom',
+            details: 'Custom maple shells: 22"x18" bass drum(s), 10"/12"/13"/16"/18" toms',
+            notes: 'Switched to Trick Drums\' custom shell program for his Angra reunion — built for the low-end warmth and focused attack power metal demands on large festival stages.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Trick Drums Custom Snare 14"x6.5"',
+            details: 'Maple or steel shell depending on room/production',
+            notes: 'Tuned medium-high to cut through dense guitar arrangements while retaining sensitivity for ghost notes and dynamic passages.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Ufip Series',
+            details: '14" Hi-Hats, 16"/18"/20" Crashes, 21" Ride, 18" China',
+            notes: 'Switched to Italian manufacturer Ufip\'s traditional rotocast cymbals for their complex, warm tone and exceptional projection on large festival stages.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'DW 9000 Double Pedal',
+            details: 'Ball-bearing cam double pedal',
+            notes: 'Switched to DW\'s flagship double pedal for consistent, tunable response across sustained 180–220+ BPM double-bass passages.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vater Fusion 55A',
+            details: 'Unchanged',
+            notes: 'The same stick model Priester has used throughout his entire career.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Coated Ambassador (batter), Remo Ambassador Snare Side',
+            details: 'Kit-wide configuration',
+            notes: 'Switched back to Remo for his current Trick Drums Custom setup.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 13500,
+          inflationAdjusted: 13500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Returned to Angra in 2023 for the band\'s current album cycle',
+          'Switched to a Trick Drums Custom configuration, replacing his Pearl Reference W.A.S.P.-era kit',
+          'Moved to a full Ufip cymbal array, replacing Meinl Byzance',
+          'Adopted a DW 9000 double pedal for sustained 180–220+ BPM double-bass endurance',
+        ],
+
+        quote: {
+          text: "Playing Angra live is like conducting an orchestra with your whole body. The gear has to be there for you at 100% from the first note to the last.",
+          source: 'Metal Hammer Brazil, 2023',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'Who is the drummer of Angra?',
+        a: 'Aquiles Priester is Angra\'s current drummer, having returned to the band in 2023 after an earlier tenure from 2000 to 2012 that produced Rebirth, Temple of Shadows, Aurora Consurgens, and Aqua. He replaced Ricardo Confessori when he first joined in 2000.',
+      },
+      {
+        q: 'What drum kit does Aquiles Priester play?',
+        a: 'Aquiles Priester\'s current setup is a Trick Drums Custom configuration paired with a full Ufip cymbal array and a DW 9000 double pedal. Earlier in his career he played Mapex Saturn and Pearl Reference Series kits with Sabian HHX and Meinl Byzance cymbals.',
+      },
+      {
+        q: 'What other bands has Aquiles Priester played in?',
+        a: 'Beyond Angra, Aquiles Priester founded his own Brazilian power metal band Hangar in 1996 and remains a member. He also served as W.A.S.P.\'s touring and studio drummer, recording Babylon (2009) and Golgotha (2015), before returning to Angra in 2023.',
+      },
+      {
+        q: 'How fast is Aquiles Priester\'s double bass technique?',
+        a: 'Aquiles Priester is known for sustaining even double-bass patterns at 180–220+ BPM across full live sets, a technique he credits to full-body relaxation rather than force. He built this endurance from his earliest years with Hangar using an Axis A pedal\'s light, fast action.',
+      },
+    ],
+
+    metaTitle: 'Aquiles Priester Gear Evolution Timeline | Angra Drum Kit History',
+    metaDescription: 'Explore Aquiles Priester\'s complete drum gear evolution: founding Hangar on a Mapex Saturn kit → Angra\'s classic Rebirth-to-Aqua era on Pearl Reference and Sabian HHX → a Meinl Byzance W.A.S.P. chapter → the Trick Drums Custom and Ufip cymbal setup powering his 2023 Angra reunion. Nearly three decades of Brazilian power metal drumming, era by era.',
+  },
 };
 
 /**

@@ -5586,6 +5586,283 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['tim yeung fastest drummer gear', 'hate eternal drummer setup', 'tim yeung drum kit cost', 'i monarch drums', 'tim yeung 2005 setup'],
     },
   },
+
+  // ==========================================
+  // JAY WEINBERG - 2014 .5: The Gray Chapter Era
+  // Pearl Reference Pure Setup
+  // Issue #2801: SEO batch — gear price history batch 18
+  // ==========================================
+  'jay-weinberg': {
+    slug: 'jay-weinberg',
+    name: 'Jay Weinberg',
+    band: 'Slipknot',
+    iconicYear: 2014,
+    era: '.5: The Gray Chapter Era',
+    albumReference: '.5: The Gray Chapter (2014)',
+    profileImage: '/images/drummers/jay-weinberg.webp',
+
+    summary: "Jay Weinberg's 2014 setup marked his arrival as Slipknot's drummer #1 — a natural-finish Pearl Reference Pure shell pack chosen for the focused attack and tonal clarity that producer Greg Fidelman's dense, compressed .5: The Gray Chapter production demanded. Paired with a Zildjian A Series cymbal spread and a DW 9000 double bass pedal continuing the double-kick tradition Joey Jordison established, the complete rig cost approximately $4,530 in 2014 dollars, equivalent to roughly $6,270 today after inflation. Weinberg's gear evolved steadily across his nine years in the band — switching to SJC Custom Drums and Zildjian K Custom cymbals for We Are Not Your Kind (2019) and adding a Roland trigger system for The End, So Far (2021) — before his abrupt December 2023 exit from Slipknot. His verified current setup with Suicidal Tendencies centers on an SJC Custom Drums OBEY x ST Collaboration Kit with his signature SJC \"The Crucible\" 48-ply brass snare, a wide Zildjian cymbal spread (A New Beat, A Custom, K Custom, and K China), DW 9000 hardware, and Vater signature sticks — the same SJC platform he built during Slipknot's final era, now carried into his post-Slipknot chapter.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Reference Pure',
+        model: 'Natural finish, maple/birch hybrid shell pack',
+        specs: 'Double 22" bass drums, 8"/10"/12"/14" rack toms, 16" floor tom',
+        originalPrice: 2600,
+        year: 2014,
+        source: 'Pearl Reference Pure catalog MSRP 2014',
+        notes: "Pearl's flagship multi-species shell kit gave Weinberg the focused attack and tonal clarity needed to sit cleanly in Greg Fidelman's dense, compressed production on .5: The Gray Chapter.",
+        vintageValue2026: 1800,
+        modernEquivalent: {
+          item: 'SJC Custom Drums (OBEY x ST Collaboration Kit)',
+          price: 4500,
+          link: 'sjc-custom-drums',
+        },
+      },
+      snare: {
+        item: 'Pearl Reference Pure 14"x6.5"',
+        model: 'Maple/birch hybrid shell',
+        specs: '14"x6.5" maple/birch hybrid shell',
+        originalPrice: 320,
+        year: 2014,
+        source: 'Pearl snare catalog pricing 2014',
+        notes: "Matched the main kit's shell material for tonal consistency during Weinberg's debut Slipknot recording.",
+        vintageValue2026: 280,
+        modernEquivalent: {
+          item: 'SJC "The Crucible" 14"x6.5" 48-ply Brass',
+          price: 550,
+          link: 'sjc-crucible-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Series',
+        model: 'Full A Series configuration',
+        specs: '14" A Hi-Hats, 16"/18"/19" A Crashes, 20" A Ride, 18" A China',
+        originalPrice: 1050,
+        year: 2014,
+        source: 'Zildjian A Series catalog pricing 2014',
+        notes: "Bright, cutting B20 bronze chosen to stay audible through Slipknot's dense multi-percussionist arrangements on Weinberg's debut record.",
+        vintageValue2026: 750,
+        modernEquivalent: {
+          item: 'Zildjian A New Beat / A Custom / K Custom / K China Mix',
+          price: 2200,
+          link: 'zildjian-jay-weinberg-mix',
+        },
+      },
+      hardware: {
+        item: 'DW 9000 Series Double Bass Pedal',
+        model: 'Double bass pedal + stands',
+        specs: 'DW 9000 double bass pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 480,
+        year: 2014,
+        source: 'DW hardware catalog pricing 2014',
+        notes: 'Continued the double-bass hardware tradition Joey Jordison established, giving Weinberg a reliable platform while learning two decades of Slipknot material.',
+        vintageValue2026: 300,
+        modernEquivalent: {
+          item: 'DW 9000 Series Double Pedal, DW 9100 Throne',
+          price: 750,
+          link: 'dw-9000-9100-throne',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth Jay Weinberg Signature',
+        model: 'Signature hickory',
+        specs: 'Hickory, signature taper',
+        originalPrice: 10,
+        year: 2014,
+        source: 'Vic Firth signature retail pricing 2014',
+        notes: "Weinberg's first signature stick model, launched around his Slipknot debut.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vater Jay Weinberg 908 Signature',
+          price: 12,
+          link: 'vater-908-signature',
+        },
+      },
+      heads: {
+        item: 'Evans EC2 / EMAD',
+        model: 'EC2 toms, EMAD kick',
+        specs: 'Evans EC2 coated tom batters, EMAD kick batter',
+        originalPrice: 70,
+        year: 2014,
+        source: 'Evans retail pricing 2014',
+        notes: 'Chosen for consistent response under the demands of touring two decades of Slipknot catalog material.',
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Black Chrome',
+          price: 100,
+          link: 'evans-black-chrome',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 4530,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 3130,
+      modernEquivalentTotal: 8112,
+    },
+
+    priceEvolution: [
+      { year: 2014, price: 4530, label: 'Original Purchase', event: 'Joins Slipknot, .5: The Gray Chapter recording' },
+      { year: 2018, price: 6500, label: 'We Are Not Your Kind era', event: 'Switch to SJC Custom Drums and Zildjian K Custom cymbals' },
+      { year: 2021, price: 7000, label: 'The End, So Far era', event: 'Roland trigger system added to SJC setup' },
+      { year: 2023, price: 8500, label: 'Suicidal Tendencies era', event: 'Exits Slipknot, joins Suicidal Tendencies with SJC OBEY collaboration kit' },
+      { year: 2026, price: 6270, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2014 Pearl Reference Pure setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Reference Pure Catalog', year: 2014, type: 'catalog' },
+      { title: 'Modern Drummer — Jay Weinberg Interview', year: 2015, type: 'interview' },
+      { title: 'Zildjian Artist Profile Archives', year: 2014, type: 'manufacturer' },
+      { title: 'Reverb Marketplace Analysis — SJC Custom Drums', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Jay Weinberg Drum Setup Cost | Slipknot Gear Price History",
+      description: "How much was Jay Weinberg's Slipknot-era drum kit worth? Original Pearl Reference Pure setup ~$4,530 in 2014, inflation-adjusted to ~$6,270 today. Complete gear breakdown from .5: The Gray Chapter through his SJC Custom rig.",
+      keywords: ['jay weinberg drum setup cost', 'slipknot drum kit price', 'pearl reference pure price', 'jay weinberg gear cost today', 'sjc custom drums price'],
+    },
+  },
+
+  // ==========================================
+  // ABE CUNNINGHAM - 2000 White Pony Era
+  // Pearl Custom Series Setup
+  // Issue #2801: SEO batch — gear price history batch 18
+  // ==========================================
+  'abe-cunningham': {
+    slug: 'abe-cunningham',
+    name: 'Abe Cunningham',
+    band: 'Deftones',
+    iconicYear: 2000,
+    era: 'White Pony Era',
+    albumReference: 'White Pony (2000)',
+    profileImage: '/images/drummers/abe-cunningham.webp',
+
+    summary: "Abe Cunningham's 2000 setup behind Deftones' White Pony documents the decisive pivot from nu-metal aggression to atmospheric alt-metal sophistication that made the album a Grammy-winning critical landmark. Switching from his early ddrum kit to a Pearl Custom Series maple shell pack, and from Zildjian A Custom to the darker, more complex Zildjian K Series, Cunningham built a rig tuned for space and dynamics rather than raw power — the complete setup cost approximately $8,000 in 2000 dollars, equivalent to roughly $15,220 today after inflation. Cunningham's gear kept evolving across Deftones' catalog — a Gretsch USA Custom kit for the groove-driven Diamond Eyes (2010) era, then a return to Pearl with the flagship Reference Series and Zildjian K Custom Dark cymbals for the cinematic Gore (2016) and Ohms (2020) records. His verified current setup centers on an SJC Custom kit with a 14x6.5\" brass snare and a wide Zildjian K Custom/A Custom cymbal spread — a different chapter from the Pearl rig that defined White Pony, but built on the same dynamic, groove-first restraint that has made him one of alternative metal's most respected drummers for over three decades.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Custom Series',
+        model: 'Maple shell pack',
+        specs: '22" kick, 10"/12"/14"/16" toms',
+        originalPrice: 3400,
+        year: 2000,
+        source: 'Pearl Custom Series catalog MSRP 2000',
+        notes: "Switched from ddrum to Pearl Custom — the maple shells gave Cunningham the warmer, more resonant tone that suited White Pony's atmospheric arrangements.",
+        vintageValue2026: 2200,
+        modernEquivalent: {
+          item: 'SJC Custom Drums',
+          price: 4200,
+          link: 'sjc-custom-drums-abe',
+        },
+      },
+      snare: {
+        item: 'Pearl Free-Floating Brass 14"x6.5"',
+        model: 'Brass shell, free-floating',
+        specs: '14"x6.5" brass shell, free-floating mount',
+        originalPrice: 480,
+        year: 2000,
+        source: 'Pearl Free-Floating snare catalog pricing 2000',
+        notes: "Warm, full tone that supported the dynamic range of White Pony, from whisper-quiet passages to full-volume peaks.",
+        vintageValue2026: 420,
+        modernEquivalent: {
+          item: 'SJC Custom 14"x6.5" Brass',
+          price: 480,
+          link: 'sjc-custom-brass-snare',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian K Series',
+        model: 'Full K Series configuration',
+        specs: '14" K Hi-Hats, 16"/18" K Crashes, 20" K Ride',
+        originalPrice: 1650,
+        year: 2000,
+        source: 'Zildjian K Series catalog pricing 2000',
+        notes: "Switched from A Custom to Zildjian K — darker, more complex Turkish bronze suited to White Pony's textured, atmospheric sound design.",
+        vintageValue2026: 1350,
+        modernEquivalent: {
+          item: 'Zildjian K Custom & A Custom Series',
+          price: 2100,
+          link: 'zildjian-k-custom-a-custom-abe',
+        },
+      },
+      hardware: {
+        item: 'Pearl Eliminator Double Pedal',
+        model: 'Multi-cam double pedal + stands',
+        specs: 'Pearl Eliminator double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 380,
+        year: 2000,
+        source: 'Pearl hardware catalog pricing 2000',
+        notes: "Precise, responsive double pedal that allowed the subtle foot work White Pony's nuanced arrangements required.",
+        vintageValue2026: 260,
+        modernEquivalent: {
+          item: 'DW 9000 Series Double Pedal',
+          price: 650,
+          link: 'dw-9000-double-pedal-abe',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5A',
+        model: 'Lighter hickory taper',
+        specs: 'Hickory, 5A diameter',
+        originalPrice: 8,
+        year: 2000,
+        source: 'Standard retail price 2000',
+        notes: "Switched to a lighter 5A for the control and nuance White Pony's quieter, more dynamic passages required.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 2B',
+          price: 14,
+          link: 'vic-firth-2b-abe',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Coated Ambassador',
+        model: 'Emperor toms, Coated Ambassador snare',
+        specs: 'Remo Emperor tom batters, Coated Ambassador snare batter',
+        originalPrice: 82,
+        year: 2000,
+        source: 'Remo retail pricing 2000',
+        notes: "Coated snare head for warmer, more controlled attack across White Pony's dynamic range.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor / Ambassador Pack',
+          price: 120,
+          link: 'remo-emperor-ambassador-abe',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 8000,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 4230,
+      modernEquivalentTotal: 7564,
+    },
+
+    priceEvolution: [
+      { year: 2000, price: 8000, label: 'Original Purchase', event: 'White Pony recorded — decisive shift from ddrum/A Custom to Pearl Custom/K Series' },
+      { year: 2003, price: 8700, label: 'Saturday Night Wrist era', event: 'Turbulent sessions preceding Chi Cheng\'s 2008 accident' },
+      { year: 2010, price: 10000, label: 'Diamond Eyes era', event: 'Switch to Gretsch USA Custom and Zildjian K Custom' },
+      { year: 2016, price: 15000, label: 'Gore era', event: 'Return to Pearl with flagship Reference Series' },
+      { year: 2020, price: 18000, label: 'Ohms era', event: 'Zildjian K Custom Dark cymbals and Roland SPD-SX added' },
+      { year: 2026, price: 15220, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2000 White Pony setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Custom Series Catalog', year: 2000, type: 'catalog' },
+      { title: 'Modern Drummer — Abe Cunningham Interview', year: 2001, type: 'interview' },
+      { title: 'Zildjian Artist Profile Archives', year: 2000, type: 'manufacturer' },
+      { title: 'Reverb Marketplace Analysis — Vintage Pearl Custom Series', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Abe Cunningham Drum Setup Cost | Deftones Gear Price History",
+      description: "How much was Abe Cunningham's White Pony-era drum kit worth? Original Pearl Custom setup ~$8,000 in 2000, inflation-adjusted to ~$15,220 today. Complete gear breakdown across his three-decade Deftones tenure.",
+      keywords: ['abe cunningham drum setup cost', 'deftones drum kit price', 'pearl custom series price', 'abe cunningham gear cost today', 'white pony drum kit price'],
+    },
+  },
 };
 
 // ==========================================

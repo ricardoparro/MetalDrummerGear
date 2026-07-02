@@ -64,6 +64,8 @@ const DRUMMER_MAP = {
   29: { name: 'Igor Cavalera',       band: 'Sepultura / Cavalera Conspiracy',        slug: 'igor-cavalera' },
   30: { name: 'Bill Ward',           band: 'Black Sabbath',                          slug: 'bill-ward' },
   35: { name: 'Flo Mounier',         band: 'Cryptopsy',                              slug: 'flo-mounier' },
+  41: { name: 'Nicko McBrain',       band: 'Iron Maiden',                            slug: 'nicko-mcbrain' },
+  43: { name: 'Mikkey Dee',          band: 'Scorpions / Motörhead',                  slug: 'mikkey-dee' },
   44: { name: 'Derek Roddy',         band: 'Hate Eternal / Nile',                    slug: 'derek-roddy' },
   47: { name: 'Gavin Harrison',      band: 'Porcupine Tree / King Crimson',          slug: 'gavin-harrison' },
   52: { name: 'Mike Mangini',        band: 'Dream Theater',                          slug: 'mike-mangini' },

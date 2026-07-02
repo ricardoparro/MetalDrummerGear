@@ -6138,6 +6138,432 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['jaska raatikainen drum setup cost', 'children of bodom drum kit price', 'pearl masters premium maple price', 'jaska raatikainen gear cost today', 'follow the reaper drum kit price'],
     },
   },
+
+  // ==========================================
+  // BLAKE RICHARDSON - 2007 Colors Era
+  // Tama Starclassic Walnut/Birch Setup
+  // Issue #3213: SEO batch — gear price history batch 28
+  // ==========================================
+  'blake-richardson': {
+    slug: 'blake-richardson',
+    name: 'Blake Richardson',
+    band: 'Between the Buried and Me',
+    iconicYear: 2007,
+    era: 'Colors Era',
+    albumReference: 'Colors (2007)',
+    profileImage: '/images/drummers/blake-richardson.webp',
+
+    summary: "Blake Richardson's 2007 setup behind Between the Buried and Me's Colors — widely considered the band's progressive metal masterpiece — marks the upgrade from his entry-level Tama Rockstar touring kit to the Tama Starclassic Walnut/Birch that gave him the warmer, more resonant tone needed for an album that moves between extreme metal, jazz, and acoustic passages inside a single 65-minute suite. Paired with a full Sabian AAX cymbal setup, the complete rig cost approximately $7,000 in 2007 dollars, equivalent to roughly $10,500 today after inflation. Richardson's gear kept evolving from there — switching from Sabian to Meinl Byzance for The Great Misdirect and Parallax era (2009–2014) for a darker, more complex Turkish tone, then upgrading to the premium all-walnut Tama Star Walnut flagship for Coma Ecliptic (2015) onward, alongside his own Vic Firth signature stick. His current setup, refined across three album cycles of BTBAM's most mature material, is valued at approximately $22,000 at current retail — a rig built to move seamlessly between death metal blast beats and jazz-inflected dynamics within the same song.",
+
+    setup: {
+      drums: {
+        item: 'Tama Starclassic Walnut/Birch',
+        model: 'Walnut/birch hybrid shell pack',
+        specs: '22" kick, 10"/12"/14"/16" toms',
+        originalPrice: 3800,
+        year: 2007,
+        source: 'Tama Starclassic catalog MSRP 2007',
+        notes: "Upgrade from the entry-level Tama Rockstar used through Alaska (2005) — the walnut/birch hybrid gave Richardson the warmer, more resonant tone Colors's varied arrangements demanded.",
+        vintageValue2026: 2700,
+        modernEquivalent: {
+          item: 'Tama Star Walnut (Current Flagship)',
+          price: 5500,
+          link: 'tama-star-walnut-richardson',
+        },
+      },
+      snare: {
+        item: 'Tama Starclassic Maple 14"x6.5"',
+        model: 'All-maple shell',
+        specs: '14"x6.5" maple shell',
+        originalPrice: 500,
+        year: 2007,
+        source: 'Tama Starclassic snare catalog pricing 2007',
+        notes: "Switched from the earlier steel snare for broader dynamic range across Colors's extremes.",
+        vintageValue2026: 420,
+        modernEquivalent: {
+          item: 'Tama Star Walnut Snare (Current)',
+          price: 700,
+          link: 'tama-star-walnut-snare-richardson',
+        },
+      },
+      cymbals: {
+        item: 'Sabian AAX Series',
+        model: 'Full AAX configuration',
+        specs: '14" AAX Hi-Hats, 16"/18" AAX Stage Crashes, 21" Ride',
+        originalPrice: 2000,
+        year: 2007,
+        source: 'Sabian AAX catalog pricing 2007',
+        notes: "Upgraded from the band's early Sabian B8 setup — bright, cutting cymbals that articulated across Colors's wide dynamic range.",
+        vintageValue2026: 1600,
+        modernEquivalent: {
+          item: 'Meinl Byzance Jazz/Dark (Current)',
+          price: 2600,
+          link: 'meinl-byzance-jazz-dark-richardson',
+        },
+      },
+      hardware: {
+        item: 'Tama Iron Cobra HP900 Double Pedal',
+        model: 'Power Glide double pedal + stands',
+        specs: 'Tama Iron Cobra HP900 double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 600,
+        year: 2007,
+        source: 'Tama hardware catalog pricing 2007',
+        notes: 'Carried over from the Rockstar-era touring setup — the double bass foundation of Richardson\'s playing since the band\'s earliest recordings.',
+        vintageValue2026: 480,
+        modernEquivalent: {
+          item: 'Tama Speed Cobra HP910 (Current)',
+          price: 650,
+          link: 'tama-speed-cobra-richardson',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 2007,
+        source: 'Standard retail pricing 2007',
+        notes: "Upgraded from 5A for projection in larger venues on the Colors World Tour.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth Blake Richardson Signature',
+          price: 16,
+          link: 'vic-firth-blake-richardson-signature',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor',
+        model: 'Double-ply Emperor',
+        specs: 'Double-ply Emperor tom batters',
+        originalPrice: 92,
+        year: 2007,
+        source: 'Remo retail pricing 2007',
+        notes: "Durability upgrade for the demanding Colors World Tour.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor / EMAD Pro Pack',
+          price: 120,
+          link: 'remo-emperor-emad-pack-richardson',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 7000,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 5200,
+      modernEquivalentTotal: 9586,
+    },
+
+    priceEvolution: [
+      { year: 2007, price: 7000, label: 'Original Purchase', event: 'Colors recording, upgrade to Tama Starclassic Walnut/Birch' },
+      { year: 2009, price: 9000, label: 'Great Misdirect / Parallax era', event: 'Switch from Sabian to Meinl Byzance cymbals, 8" tom added' },
+      { year: 2015, price: 22000, label: 'Star Walnut era', event: 'Upgrade to Tama Star Walnut flagship, Vic Firth signature sticks launched' },
+      { year: 2026, price: 10500, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2007 Colors-era setup' },
+    ],
+
+    sources: [
+      { title: 'Tama Starclassic Catalog', year: 2007, type: 'catalog' },
+      { title: 'Modern Drummer Interview — Blake Richardson', year: 2008, type: 'interview' },
+      { title: 'Tama Drums Artist Profile — Blake Richardson', year: 2022, type: 'manufacturer' },
+      { title: 'Reverb Marketplace Analysis — Tama Starclassic Series', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Blake Richardson Drum Setup Cost | Between the Buried and Me Gear Price History",
+      description: "How much was Blake Richardson's Colors-era drum kit worth? Original Tama Starclassic Walnut/Birch setup ~$7,000 in 2007, inflation-adjusted to ~$10,500 today. Complete gear breakdown across his Between the Buried and Me career.",
+      keywords: ['blake richardson drum setup cost', 'between the buried and me drum kit price', 'tama starclassic walnut birch price', 'blake richardson gear cost today', 'colors drum kit price'],
+    },
+  },
+
+  // ==========================================
+  // ART CRUZ - 2020 Lamb of God Era
+  // Ludwig Classic Maple Setup
+  // Issue #3213: SEO batch — gear price history batch 28
+  // ==========================================
+  'art-cruz': {
+    slug: 'art-cruz',
+    name: 'Art Cruz',
+    band: 'Lamb of God',
+    iconicYear: 2020,
+    era: 'Lamb of God Era',
+    albumReference: 'Lamb of God (2020)',
+    profileImage: '/images/drummers/art-cruz.webp',
+
+    summary: "Art Cruz's 2020 setup behind Lamb of God's self-titled album — his first studio recording as the band's full-time drummer, succeeding Chris Adler — marks the moment his gear settled into the Ludwig Classic Maple, Zildjian A Custom, and Trick Pro 1-V Bigfoot rig that has defined his tenure ever since. The complete setup cost approximately $7,500 in 2020 dollars, equivalent to roughly $9,500 today after inflation, a step up from the transitional Ludwig/Zildjian/Trick gear he assembled while filling in for Adler on Lamb of God's 2018 Slayer farewell support dates. Cruz carried the rig into Omens (2022), expanding his Zildjian A Custom cymbal configuration for the tour, while keeping the Ludwig Classic Maple shells and single-kick Trick Bigfoot pedal that distinguish his approach from Adler's double-kick setup. A decade in the deathcore and industrial-metal underground with Winds of Plague and Prong preceded this rig, but it's the Ludwig/Zildjian/Trick combination that has carried Lamb of God's groove metal legacy into its next chapter.",
+
+    setup: {
+      drums: {
+        item: 'Ludwig Classic Maple',
+        model: 'All-maple shell pack',
+        specs: '22"x18" kick, 10"/12" rack toms, 14"/16" floor toms',
+        originalPrice: 3700,
+        year: 2020,
+        source: 'Ludwig Classic Maple catalog MSRP 2020',
+        notes: "Signature setup established during his transition from fill-in drummer to full member — warm, punchy tone for Lamb of God's down-tuned groove metal.",
+        vintageValue2026: 2600,
+        modernEquivalent: {
+          item: 'Ludwig Classic Maple (Current)',
+          price: 3900,
+          link: 'ludwig-classic-maple-cruz',
+        },
+      },
+      snare: {
+        item: 'Ludwig 14"x6.5"',
+        model: 'Maple or brass shell',
+        specs: '14"x6.5" shell, medium-high tuning',
+        originalPrice: 500,
+        year: 2020,
+        source: 'Ludwig snare catalog pricing 2020',
+        notes: "Medium-high tuning for punch and articulation against Lamb of God's 7-string guitar wall.",
+        vintageValue2026: 380,
+        modernEquivalent: {
+          item: 'Ludwig Classic Maple Snare (Current)',
+          price: 550,
+          link: 'ludwig-classic-maple-snare-cruz',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A Custom Series',
+        model: 'Full A Custom configuration',
+        specs: '14" Hi-Hats, 17"/18"/19" Crashes, 21" Ride, 18" China, 10" Splash',
+        originalPrice: 2400,
+        year: 2020,
+        source: 'Zildjian A Custom catalog pricing 2020',
+        notes: "Established during his 2018 Slayer farewell fill-in dates — bright cymbals for brightness against down-tuned guitars.",
+        vintageValue2026: 1900,
+        modernEquivalent: {
+          item: 'Zildjian A Custom Series (Current Full Config)',
+          price: 2700,
+          link: 'zildjian-a-custom-full-cruz',
+        },
+      },
+      hardware: {
+        item: 'Trick Pro 1-V Bigfoot Double Pedal',
+        model: 'Direct-drive double pedal + Gibraltar stands and throne',
+        specs: 'Trick Pro 1-V Bigfoot, Gibraltar hardware stands, drum throne',
+        originalPrice: 800,
+        year: 2020,
+        source: 'Trick and Gibraltar hardware catalog pricing 2020',
+        notes: "Direct-drive single-kick setup — a deliberate departure from predecessor Chris Adler's double-kick configuration.",
+        vintageValue2026: 550,
+        modernEquivalent: {
+          item: 'Trick Pro 1-V Bigfoot + Gibraltar (Current)',
+          price: 850,
+          link: 'trick-bigfoot-gibraltar-cruz',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B',
+        model: 'American Classic 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 9,
+        year: 2020,
+        source: 'Standard retail pricing 2020',
+        notes: "Continued from his Winds of Plague and Prong years — the one constant across his entire career.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth Power 5B',
+          price: 10,
+          link: 'vic-firth-power-5b-cruz',
+        },
+      },
+      heads: {
+        item: 'Evans G2 Coated / EMAD2',
+        model: 'G2 toms, EMAD2 kick',
+        specs: 'Coated G2 tom batters, EMAD2 kick batter',
+        originalPrice: 91,
+        year: 2020,
+        source: 'Evans retail pricing 2020',
+        notes: "Controlled, punchy low end suited to Lamb of God's dense production.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans G2 / EMAD2 Pro Pack',
+          price: 110,
+          link: 'evans-g2-emad2-pack-cruz',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 7500,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 5430,
+      modernEquivalentTotal: 8120,
+    },
+
+    priceEvolution: [
+      { year: 2018, price: 3500, label: 'Fill-in era', event: "Fills in for Chris Adler on Lamb of God's Slayer farewell support dates, Zildjian and Trick endorsements established" },
+      { year: 2020, price: 7500, label: 'Original Purchase', event: 'Lamb of God (2020) — first studio album as full-time member, Ludwig Classic Maple rig settled' },
+      { year: 2022, price: 8200, label: 'Omens era', event: 'Omens (2022) tour rig, expanded Zildjian A Custom cymbal configuration' },
+      { year: 2026, price: 9500, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2020 Lamb of God setup' },
+    ],
+
+    sources: [
+      { title: 'Ludwig Classic Maple Catalog', year: 2020, type: 'catalog' },
+      { title: 'Modern Drummer — Art Cruz Interview', year: 2020, type: 'interview' },
+      { title: 'Metal Hammer — Art Cruz Interview', year: 2022, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Ludwig Classic Maple', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Art Cruz Drum Setup Cost | Lamb of God Gear Price History",
+      description: "How much was Art Cruz's self-titled Lamb of God-era drum kit worth? Original Ludwig Classic Maple setup ~$7,500 in 2020, inflation-adjusted to ~$9,500 today. Complete gear breakdown from his fill-in dates through Omens.",
+      keywords: ['art cruz drum setup cost', 'lamb of god drum kit price', 'ludwig classic maple price', 'art cruz gear cost today', 'lamb of god 2020 drum kit price'],
+    },
+  },
+
+  // ==========================================
+  // DEREK RODDY - 2005 Hate Eternal / I, Monarch Era
+  // Pearl Reference Series Setup
+  // Issue #3213: SEO batch — gear price history batch 28
+  // ==========================================
+  'derek-roddy': {
+    slug: 'derek-roddy',
+    name: 'Derek Roddy',
+    band: 'Hate Eternal',
+    iconicYear: 2005,
+    era: 'Hate Eternal / I, Monarch Era',
+    albumReference: 'Hate Eternal: I, Monarch (2005)',
+    profileImage: '/images/drummers/derek-roddy.webp',
+
+    summary: "Derek Roddy's 2005 setup behind Hate Eternal's I, Monarch — one of death metal's most technically demanding recordings — marks the upgrade from his foundational Pearl Masters kit, built during his formative years in the Florida death metal underground, to the Pearl Reference Series maple/birch hybrid and Zildjian K Custom Dark cymbals that anchored his highest-profile work under Erik Rutan. The complete rig cost approximately $10,000 in 2005 dollars, equivalent to roughly $17,000 today after inflation. Roddy's gear evolved further after Hate Eternal — switching to DW Collector's Series and Meinl Classics Custom Dark cymbals for his DW/independent/educational era (2008–2018), when his instructional series 'The Progression of Rhythm' became a foundational resource for extreme metal drummers worldwide, and refining that same DW/Meinl core for his current modern teaching era. His setup is particularly well-documented thanks to his own educational output, which has publicly explained his gear reasoning across three decades of blast beat innovation.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Reference Series',
+        model: 'Maple/birch hybrid shell pack',
+        specs: '22" kick, 10"/12"/14"/16" toms',
+        originalPrice: 4700,
+        year: 2005,
+        source: 'Pearl Reference Series catalog MSRP 2005',
+        notes: "Upgrade from the foundational Pearl Masters Professional used through his Florida underground years — more resonant maple/birch tone for I, Monarch's nuanced arrangements.",
+        vintageValue2026: 3400,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure (Current Configuration)',
+          price: 5800,
+          link: 'pearl-reference-pure-roddy',
+        },
+      },
+      snare: {
+        item: 'Pearl Free-Floating Steel 14"x6.5"',
+        model: 'Free-floating steel shell',
+        specs: '14"x6.5" steel shell, free-floating mount',
+        originalPrice: 520,
+        year: 2005,
+        source: 'Pearl snare catalog pricing 2005',
+        notes: "Deeper shell than his earlier 5.5\" for more crack and projection through Hate Eternal's dense guitar wall.",
+        vintageValue2026: 440,
+        modernEquivalent: {
+          item: 'Pearl Free-Floating Steel 14"x6.5" (Current)',
+          price: 570,
+          link: 'pearl-free-floating-steel-snare-roddy',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian K Custom Series',
+        model: 'K Custom Dark configuration',
+        specs: '14" K Custom Dark Hi-Hats, 17"/18" K Custom Crashes, 21" Ride',
+        originalPrice: 3200,
+        year: 2005,
+        source: 'Zildjian K Custom catalog pricing 2005',
+        notes: "Switched from Sabian — darker, drier tone better suited to death metal's low-end focused production.",
+        vintageValue2026: 2400,
+        modernEquivalent: {
+          item: 'Zildjian K Custom Dark (Current Full Set)',
+          price: 3800,
+          link: 'zildjian-k-custom-dark-full-roddy',
+        },
+      },
+      hardware: {
+        item: 'Pearl Demon Drive Double Pedal',
+        model: 'Direct-drive double pedal',
+        specs: 'Pearl Demon Drive double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 900,
+        year: 2005,
+        source: 'Pearl hardware catalog pricing 2005',
+        notes: "Switched to direct drive for more precise control at extreme blast beat tempos.",
+        vintageValue2026: 630,
+        modernEquivalent: {
+          item: 'Pearl Demon Drive (Current Production)',
+          price: 950,
+          link: 'pearl-demon-drive-current-roddy',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth 5B',
+        model: 'Standard hickory',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 2005,
+        source: 'Standard retail pricing 2005',
+        notes: "Heavier hickory preference for power and durability at death metal tempos.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth Derek Roddy Signature',
+          price: 14,
+          link: 'vic-firth-derek-roddy-signature',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Powerstroke 3',
+        model: 'Emperor toms, Powerstroke 3 kick',
+        specs: 'Double-ply Emperor tom batters, Powerstroke 3 kick batter',
+        originalPrice: 72,
+        year: 2005,
+        source: 'Remo retail pricing 2005',
+        notes: "Switched to Powerstroke 3 for a focused, punchy kick attack.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor / Powerstroke 3 Pro Pack',
+          price: 130,
+          link: 'remo-emperor-powerstroke-pack-roddy',
+        },
+      },
+      electronics: {
+        item: 'ddrum Acoustic Pro Triggers',
+        model: 'Kick triggers',
+        specs: 'Kick triggers for live consistency at extreme tempos',
+        originalPrice: 600,
+        year: 2005,
+        source: 'ddrum trigger pricing 2005',
+        notes: "New addition for the Hate Eternal era — ensures the kick cuts through at extreme live volumes and blast beat tempos.",
+        vintageValue2026: 350,
+        modernEquivalent: {
+          item: 'ddrum Acoustic Pro Triggers (Current)',
+          price: 650,
+          link: 'ddrum-acoustic-pro-triggers-roddy',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 10000,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 7220,
+      modernEquivalentTotal: 11914,
+    },
+
+    priceEvolution: [
+      { year: 2005, price: 10000, label: 'Original Purchase', event: 'Joins Hate Eternal, I, Monarch recording — Pearl Reference upgrade, Zildjian K Custom switch' },
+      { year: 2008, price: 15000, label: "DW Collector's Series era", event: "Switch to DW Collector's Series, Meinl Classics Custom Dark cymbals adopted, Vic Firth signature sticks launched" },
+      { year: 2018, price: 18000, label: 'Modern / Teaching era', event: 'Meinl Classics Custom Extra Dry hi-hats adopted, Evans EMAD2 kick heads' },
+      { year: 2026, price: 17000, label: 'Current adjusted', event: 'Inflation-adjusted value of original 2005 Hate Eternal Pearl Reference setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Reference Series Catalog', year: 2005, type: 'catalog' },
+      { title: 'Drumhead Magazine — Derek Roddy Interview', year: 2006, type: 'interview' },
+      { title: 'DW Drums Artist Profile — Derek Roddy', year: 2010, type: 'manufacturer' },
+      { title: 'Reverb Marketplace Analysis — Pearl Reference Series', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Derek Roddy Drum Setup Cost | Hate Eternal Gear Price History",
+      description: "How much was Derek Roddy's I, Monarch-era drum kit worth? Original Pearl Reference setup ~$10,000 in 2005, inflation-adjusted to ~$17,000 today. Complete gear breakdown across his Hate Eternal and educational career.",
+      keywords: ['derek roddy drum setup cost', 'hate eternal drum kit price', 'pearl reference series price', 'derek roddy gear cost today', 'i monarch drum kit price'],
+    },
+  },
 };
 
 // ==========================================

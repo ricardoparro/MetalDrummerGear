@@ -383,6 +383,9 @@ const gearPriceHistoryDrummers = [
   'abe-cunningham',  // White Pony era (2000) — Issue #2801
   'george-kollias',      // Annihilation of the Wicked era (2005) — Issue #2549
   'jaska-raatikainen',   // Follow the Reaper era (2000) — Issue #2549
+  'blake-richardson',    // Colors era (2007) — Issue #3213
+  'art-cruz',            // Lamb of God era (2020) — Issue #3213
+  'derek-roddy',         // Hate Eternal / I, Monarch era (2005) — Issue #3213
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

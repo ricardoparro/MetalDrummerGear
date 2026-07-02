@@ -631,6 +631,337 @@ export const articles = {
       "title": "Shogun and the DW Era: Nick Augusto at His Technical Peak",
       "content": "Shogun remains the defining document of Nick Augusto's career — the album where his technical vocabulary, gear configuration, and musical context aligned to produce something that has held up as a progressive metal landmark for nearly two decades.\n\nThe gear choices were deliberate and well-matched to the material:\n\n- **DW Performance Series**: Maple shells delivered the attack clarity Shogun's clean, orchestrated production required. The five-tom configuration (three rack, two floor) gave Augusto the melodic range for the album's sophisticated fills and progressive passages\n- **DW Edge 14×6.5\" Snare**: A power snare that projected through Shogun's dense arrangements — the 6.5\" depth provided body to complement the orchestrated production without sacrificing the crack needed for aggressive sections\n- **Meinl Byzance**: The dark, complex Byzance voice suited Shogun's lower-tuned guitars and multi-layered arrangements better than brighter cymbal lines would have — this was Trivium's first major Meinl pairing and it matched the album's sophistication\n- **DW 9000 Series**: The flagship direct-drive pedal enabled the sustained double-kick patterns across extended compositions — including 11+ minutes of the title track — without mechanical compromise\n\nAugusto left Trivium in 2014. His later work on \"In Waves\" and \"Vengeance Falls\" featured strong, tight performances in a more focused metalcore context. But Shogun is the record that shows what he could do when given compositional material that matched his full technical range.\n\nFor further exploration:\n- **Full drummer profile**: [Nick Augusto at MetalForge](/drummer/nick-augusto)\n- **In Waves / Vengeance Falls era**: [Nick Augusto drum setup at MetalForge](/articles/nick-augusto-drum-setup)\n- **Thrash metal drumming context**: [Ashes of the Wake drum setup at MetalForge](/articles/ashes-of-the-wake-drum-setup)\n- **Genre overview**: [Thrash metal drummers at MetalForge](/genre/thrash-metal)"
     }
+  },
+  "in-waves-drum-setup": {
+    "slug": "in-waves-drum-setup",
+    "albumTitle": "In Waves",
+    "artist": "Trivium",
+    "drummer": "Nick Augusto",
+    "drummerId": 26,
+    "relatedDrummerSlug": "nick-augusto",
+    "year": 2011,
+    "genre": "Thrash Metal / Metalcore",
+    "label": "Roadrunner Records",
+    "studio": "Audiohammer Studios, Sanford, Florida",
+    "producer": "Jason Suecof & Mark Lewis",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-01",
+    "dateModified": "2026-07-01",
+    "author": "MetalForge Editorial",
+    "title": "In Waves Drum Setup: Nick Augusto's Breakthrough Kit (Trivium, 2011)",
+    "metaTitle": "Trivium In Waves Drum Setup — Nick Augusto Kit & Gear Guide | MetalForge",
+    "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's In Waves (2011) — the Tama Starclassic kit, Meinl cymbals, and Iron Cobra pedals behind Trivium's commercial breakthrough.",
+    "seoKeywords": [
+      "trivium in waves drum setup",
+      "nick augusto 2011 kit",
+      "trivium drummer setup",
+      "nick augusto drum kit",
+      "in waves drums",
+      "trivium in waves gear",
+      "nick augusto tama starclassic",
+      "trivium drum gear 2011"
+    ],
+    "ogImage": "/images/albums/in-waves-drum-setup.webp",
+    "intro": {
+      "title": "The Album That Broke Trivium Wide Open",
+      "content": "Released on August 9, 2011 on Roadrunner Records, \"In Waves\" marked a deliberate pivot for Trivium — away from the sprawling, progressive ambition of \"Shogun\" (2008) and back toward direct, riff-forward songwriting. The gamble paid off commercially: the album debuted at #13 on the Billboard 200, Trivium's best chart placement to that point, and gave the band their first UK top-20 entry.\n\nNick Augusto, who had joined Trivium in 2007 and cut his teeth on Shogun's technically demanding material, approached In Waves with a different mandate. Where Shogun asked him to navigate 7/8 passages and 11-minute compositions, In Waves needed tight, aggressive, radio-ready drumming that still carried a thrash-metal edge. Tracks like \"In Waves,\" \"Built to Fall,\" and \"Watch the World Burn\" showcase a drummer compressing his technical range into shorter, harder-hitting statements.\n\nRecorded at Audiohammer Studios in Sanford, Florida with producers Jason Suecof and Mark Lewis, the sessions produced Trivium's heaviest-sounding record since \"The Crusade.\" Augusto's relentless double-bass work and punchy snare attack became the rhythmic backbone of the band's commercial breakthrough, setting up the even bigger chart success of \"Vengeance Falls\" two years later.\n\nThis article breaks down the specific gear Nick Augusto used on In Waves — his Tama Starclassic Performer B/B kit, Meinl cymbal setup, and the Tama Iron Cobra pedal driving the album's double-bass attack.",
+      "keyPoints": [
+        "In Waves (2011) debuted at #13 on the Billboard 200 — Trivium's best chart result at the time",
+        "First Trivium album to reach the UK Albums Chart top 20",
+        "A direct pivot from Shogun's progressive sprawl back to tight, aggressive songwriting",
+        "Recorded at Audiohammer Studios with producers Jason Suecof and Mark Lewis",
+        "Bridges Shogun (2008) and Vengeance Falls (2013) in Augusto's four-album run with Trivium",
+        "Tama Starclassic Performer B/B kit with Meinl MB20/Classics Custom cymbals"
+      ]
+    },
+    "drumKit": {
+      "title": "Augusto's Tama Starclassic Performer B/B",
+      "brand": "Tama",
+      "model": "Tama Starclassic Performer B/B",
+      "finish": "Custom finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (double-kick live configurations on tour)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Birch/bubinga hybrid shells — fast attack with controlled low-end resonance"
+      },
+      "description": "For In Waves, Augusto scaled back from Shogun's expanded five-tom array to a compact four-piece configuration — a single 22\" kick, two rack toms, and two floor toms. The reduction reflects the album's songwriting: In Waves trades Shogun's melodic tom fills for tight, riff-doubling patterns that don't need the extra range a five-piece setup provides.\n\nThe birch/bubinga hybrid shell construction of the Starclassic Performer B/B was a deliberate change from the all-maple DW kit used on Shogun. Birch contributes a faster attack and more high-frequency clarity, while the bubinga layer keeps enough low-end warmth to project through the album's heavier, more compressed production. It's a kit built for punch rather than tonal complexity.\n\nOn the In Waves World Tour (2011–2012), Augusto occasionally expanded to a double-kick configuration for extended live double-bass passages, giving him low-end weight without the latency a double pedal can introduce at speed. The Starclassic's high-tension lugs kept shell vibration contained even at full touring volume.",
+      "notes": [
+        "Compact four-piece configuration — a deliberate scale-down from Shogun's five-tom setup",
+        "Birch/bubinga shells for fast attack with controlled low-end resonance",
+        "Double-kick live configurations for extended double-bass touring passages",
+        "Punchy, attack-forward tuning to cut through a heavier, more compressed mix"
+      ],
+      "estimatedValue": "$2,800–3,800 (2011) / $1,500–2,200 (used today)"
+    },
+    "snare": {
+      "title": "The In Waves Crack: Tama S.L.P. Steel",
+      "brand": "Tama",
+      "model": "Tama S.L.P. Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "The Tama S.L.P. steel snare at 14\" x 6.5\" is the sound of the In Waves backbeat — bright, immediate, and tuned to cut cleanly through Jason Suecof's dense, drop-tuned guitar mix. It's a shallower, brighter drum than the 6.5\" DW Edge steel snare Augusto used on Shogun, matched to the more direct, verse-chorus songwriting of In Waves rather than Shogun's more orchestrated, dynamic-heavy arrangements.\n\nTuned medium-high, the snare delivers clean rimshots on the album's aggressive sections while retaining enough body on the backbeat to avoid thinning out over a full set. That balance of crack and thud is central to the album's rhythmic identity on tracks like \"In Waves\" and \"Black.\"",
+      "tuningSetting": "Medium-high — balanced crack and body for a direct, riff-forward backbeat",
+      "heads": "Evans Genera Dry (batter), Evans 300 Snare Side (resonant)",
+      "estimatedValue": "$180–240 (2011)"
+    },
+    "cymbals": {
+      "title": "Meinl: A Brighter, Tighter Voice",
+      "brand": "Meinl",
+      "series": "Meinl MB20 and Classics Custom Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl Classics Custom 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Crisp, articulate chick for double-bass patterns and groove work"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl MB20 17\" Heavy Crash",
+          "position": "Left of hi-hats",
+          "notes": "Fast attack, full-body crash for thrash riff accents"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl MB20 19\" Heavy Crash",
+          "position": "Right of toms",
+          "notes": "Primary crash for song transitions and breakdown accents"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Classics Custom 20\" Ride",
+          "position": "Far right",
+          "notes": "Clear bow articulation for verse grooves and controlled passages"
+        },
+        {
+          "type": "China",
+          "model": "Meinl MB20 18\" China",
+          "position": "Above floor tom",
+          "notes": "Aggressive accent cymbal for breakdown and bridge hits"
+        }
+      ],
+      "description": "In Waves marked Augusto's switch away from the dark, complex Meinl Byzance line used on Shogun to the brighter MB20 and Classics Custom series — a change that mirrors the album's overall shift from progressive texture to direct impact. The MB20 Heavy Crashes at 17\" and 19\" speak immediately on accent hits, cutting through the album's dense guitar saturation, while the Classics Custom 14\" hi-hats articulate cleanly at the fast 16th-note tempos the record's double-bass sections demand.\n\nThe 18\" MB20 China above the floor tom became the go-to effect cymbal for the band's breakdown entrances and riff-change hits — a short-decay, aggressive voice suited to In Waves' more direct song structures."
+    },
+    "pedals": {
+      "title": "Tama Iron Cobra 900: Driving the Attack",
+      "brand": "Tama",
+      "model": "Tama Iron Cobra 900 Double Bass Pedal",
+      "description": "The Tama Iron Cobra 900 powered Augusto's double-bass work throughout the In Waves sessions and tour cycle. He ran the Rolling Glide cam, which delivers a progressive, smooth pedal action that builds acceleration through the stroke — well suited to the album's sustained 16th-note kick patterns at consistent, driving tempos rather than Shogun's more variable, tempo-shifting passages.\n\nSpring tension was set medium-high for the studio sessions at Audiohammer, giving enough rebound for precise 16th-note work while staying controllable on the album's slower, groove-oriented sections. The pedal's dual-chain drive kept power transfer tight and consistent — important for a record built on relentless, steady double-bass rather than Shogun's more exploratory dynamics.",
+      "keySpecs": [
+        "Rolling Glide cam for smooth, progressive foot response",
+        "Medium-high spring tension for sustained 16th-note precision",
+        "Dual-chain drive for consistent power transfer",
+        "Carried over into the Vengeance Falls touring cycle"
+      ],
+      "estimatedValue": "$280–340 (2011) / $180–220 (used today)"
+    },
+    "sticks": {
+      "brand": "Promark",
+      "model": "Promark 5B Hickory",
+      "description": "Promark 5B hickory sticks — a heavier profile than the 5A Vic Firth sticks Augusto used on Shogun, chosen for the extra mass In Waves' more direct, backbeat-driven material calls for. The 5B gives enough weight for powerful rimshots without the fatigue of a 2B across a 90-minute set."
+    },
+    "trackAnalysis": [
+      {
+        "track": "In Waves",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "Title track and lead single — sets the album's direct, aggressive tone",
+          "Driving double-bass under a hook-forward chorus",
+          "Tight snare backbeat cuts through the dense guitar mix"
+        ],
+        "gearNotes": "Tama S.L.P. steel snare provides the bright crack that defines the chorus hits."
+      },
+      {
+        "track": "Built to Fall",
+        "bpm": "140",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's most radio-friendly tracks",
+          "Restrained, groove-focused verse drumming contrasts with a heavier chorus",
+          "Demonstrates Augusto's dynamic control within a compact song structure"
+        ],
+        "gearNotes": "Meinl Classics Custom hi-hats and ride carry the verse groove cleanly."
+      },
+      {
+        "track": "Watch the World Burn",
+        "bpm": "165",
+        "signature": "4/4",
+        "highlights": [
+          "Fast, thrash-influenced verse riffs",
+          "Sustained double-bass patterns test the Iron Cobra's endurance",
+          "MB20 China accents punctuate the breakdown section"
+        ],
+        "gearNotes": "Rolling Glide cam keeps the pedal response even through extended fast passages."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What kit does Nick Augusto use on In Waves?",
+        "answer": "On Trivium's In Waves (2011), Nick Augusto played a Tama Starclassic Performer B/B kit with birch/bubinga hybrid shells, configured with a 22\" bass drum, two rack toms (10\" and 12\"), and two floor toms (14\" and 16\"). This was a scaled-down, four-piece version of the expanded five-tom kit he used on Shogun — a change that matched In Waves' tighter, more direct songwriting. He paired the kit with a Tama S.L.P. steel snare, Meinl MB20 and Classics Custom cymbals, and a Tama Iron Cobra 900 double bass pedal. For the complete drummer profile, see [Nick Augusto at MetalForge](/drummer/nick-augusto)."
+      },
+      {
+        "question": "How does In Waves compare to Shogun in terms of drumming?",
+        "answer": "In Waves (2011) is a deliberate pivot away from the progressive ambition of Shogun (2008). Where Shogun asked Augusto to navigate 7/8 and 11/8 passages, jazz-influenced sections, and an 11-minute title track across an expanded five-tom DW kit with dark Meinl Byzance cymbals, In Waves compresses his playing into tighter, riff-forward song structures on a leaner four-piece Tama Starclassic kit with brighter Meinl MB20/Classics Custom cymbals. The commercial result was a step forward — In Waves debuted at #13 on the Billboard 200 and gave Trivium their first UK top-20 placement, outperforming Shogun's chart run. For the full Shogun gear breakdown, see [Shogun Drum Setup at MetalForge](/articles/shogun-drum-setup)."
+      },
+      {
+        "question": "What is Nick Augusto's overall drum setup?",
+        "answer": "Nick Augusto's core setup across his Trivium tenure (2007–2014) centered on Tama drums, Meinl cymbals, and Promark sticks, with specific gear choices shifting between records. On Shogun (2008) he played an expanded DW Performance Series kit with Meinl Byzance cymbals; on In Waves (2011) he moved to a compact Tama Starclassic Performer B/B kit with brighter Meinl MB20/Classics Custom cymbals, a setup he carried into Vengeance Falls (2013). Across all three albums he relied on a Tama Iron Cobra double bass pedal running the Rolling Glide cam. For the full In Waves-through-Vengeance Falls gear breakdown, see [Nick Augusto Drum Setup at MetalForge](/articles/nick-augusto-drum-setup)."
+      },
+      {
+        "question": "How did In Waves perform commercially for Trivium?",
+        "answer": "In Waves debuted at #13 on the Billboard 200 upon its August 2011 release — Trivium's best chart placement at the time — and gave the band their first entry into the UK Albums Chart top 20. It served as the commercial bridge between the more progressive, critically acclaimed Shogun (2008) and the even bigger chart success of Vengeance Falls (2013), which reached #15 on the Billboard 200 and cracked the top 10 in Germany and Finland."
+      }
+    ],
+    "relatedAlbums": [
+      "shogun-drum-setup",
+      "nick-augusto-drum-setup",
+      "ashes-of-the-wake-drum-setup"
+    ],
+    "relatedDrummers": [
+      "nick-augusto"
+    ],
+    "relatedArticles": [
+      "double-bass-drumming-for-metal",
+      "breakdown-beat-guide"
+    ],
+    "internalLinks": [
+      {
+        "href": "/drummer/nick-augusto",
+        "label": "Nick Augusto — Full Drummer Profile"
+      },
+      {
+        "href": "/articles/shogun-drum-setup",
+        "label": "Shogun Drum Setup — Nick Augusto's Progressive Thrash Masterpiece (2008)"
+      },
+      {
+        "href": "/articles/nick-augusto-drum-setup",
+        "label": "Nick Augusto Drum Setup — In Waves & Vengeance Falls Era"
+      },
+      {
+        "href": "/genre/thrash-metal",
+        "label": "Thrash Metal Drummers & Gear at MetalForge"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "In Waves Drum Setup: Nick Augusto's Breakthrough Kit (Trivium, 2011)",
+          "description": "Complete gear breakdown for Nick Augusto's drum setup on Trivium's In Waves (2011) — the Tama Starclassic kit, Meinl cymbals, and Iron Cobra pedals behind Trivium's commercial breakthrough.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-01",
+          "dateModified": "2026-07-01"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://metalforge.io/"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Articles",
+              "item": "https://metalforge.io/articles"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "In Waves Drum Setup",
+              "item": "https://metalforge.io/articles/in-waves-drum-setup"
+            }
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "In Waves",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Trivium"
+          },
+          "datePublished": "2011-08-09",
+          "genre": "Thrash Metal / Metalcore",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Roadrunner Records"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "Capsizing the Sea" },
+            { "@type": "MusicRecording", "name": "In Waves" },
+            { "@type": "MusicRecording", "name": "Inception of the End" },
+            { "@type": "MusicRecording", "name": "Dusk Dismantled" },
+            { "@type": "MusicRecording", "name": "Watch the World Burn" },
+            { "@type": "MusicRecording", "name": "Black" },
+            { "@type": "MusicRecording", "name": "A Skyline's Severance" },
+            { "@type": "MusicRecording", "name": "Built to Fall" },
+            { "@type": "MusicRecording", "name": "Caustic Are the Ties That Bind" },
+            { "@type": "MusicRecording", "name": "Forsake Not the Dream" },
+            { "@type": "MusicRecording", "name": "Chaos Reigns" },
+            { "@type": "MusicRecording", "name": "Of All These Yesterdays" },
+            { "@type": "MusicRecording", "name": "Leaving This World Behind" }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Nick Augusto",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Trivium"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What kit does Nick Augusto use on In Waves?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Trivium's In Waves (2011), Nick Augusto played a Tama Starclassic Performer B/B kit with birch/bubinga hybrid shells, configured with a 22\" bass drum, two rack toms, and two floor toms, paired with a Tama S.L.P. steel snare, Meinl MB20/Classics Custom cymbals, and a Tama Iron Cobra 900 double bass pedal."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How does In Waves compare to Shogun in terms of drumming?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "In Waves compresses Augusto's playing into tighter, riff-forward structures on a leaner four-piece Tama Starclassic kit with brighter Meinl MB20/Classics Custom cymbals, versus Shogun's expanded five-tom DW kit, dark Meinl Byzance cymbals, and progressive odd-time compositions. In Waves debuted at #13 on the Billboard 200, outperforming Shogun commercially."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is Nick Augusto's overall drum setup?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Nick Augusto's core setup across his Trivium tenure centered on Tama drums, Meinl cymbals, and Promark sticks, shifting from an expanded DW kit with Meinl Byzance on Shogun (2008) to a compact Tama Starclassic kit with Meinl MB20/Classics Custom on In Waves (2011) and Vengeance Falls (2013), always driven by a Tama Iron Cobra double bass pedal."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "In Waves: The Sound of Trivium's Breakthrough",
+      "content": "In Waves is the record where Nick Augusto's drumming shifted from technical showcase to commercial engine. The gear tells the story of that shift:\n\n- **Tama Starclassic Performer B/B**: A compact four-piece configuration trading Shogun's melodic tom range for tight, punchy attack\n- **Tama S.L.P. Steel Snare**: A brighter, shallower crack tuned for direct, riff-forward songwriting rather than orchestrated dynamics\n- **Meinl MB20 / Classics Custom Cymbals**: A brighter cymbal voice replacing Shogun's dark Byzance line, built for cutting through a heavier, more compressed mix\n- **Tama Iron Cobra 900**: The Rolling Glide cam driving sustained, steady double-bass rather than Shogun's variable, tempo-shifting passages\n\nThe result was Trivium's best chart performance to that point — a #13 Billboard 200 debut and the band's first UK top-20 entry — and set the stage for the even bigger commercial success of Vengeance Falls two years later.\n\nFor deeper exploration:\n- **Full drummer profile**: [Nick Augusto at MetalForge](/drummer/nick-augusto)\n- **Previous album**: [Shogun Drum Setup at MetalForge](/articles/shogun-drum-setup)\n- **Full Augusto-era gear guide**: [Nick Augusto Drum Setup — In Waves & Vengeance Falls Era](/articles/nick-augusto-drum-setup)\n- **Genre overview**: [Thrash metal drummers at MetalForge](/genre/thrash-metal)"
+    }
   }
 };
 export default articles;

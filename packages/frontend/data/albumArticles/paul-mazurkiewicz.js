@@ -2342,6 +2342,404 @@ export const articles = {
       "title": "The Refinement Album: Consistency as Achievement",
       "content": "\"Evisceration Plague\" doesn't reinvent what Kill established three years earlier — and that consistency is exactly what makes it notable. Paul Mazurkiewicz's Pearl Reference and Meinl rig, fully settled since the Kill sessions, gave him a stable platform to deliver what critics at the time widely regarded as his fastest, most controlled recorded performance to date. Erik Rutan's second consecutive Mana Recording Studios production refined rather than rebuilt the punishing sonic identity introduced on Kill, and the album rewarded that consistency with Cannibal Corpse's best Billboard 200 debut to that point.\n\nFor a band eleven albums into its career, Evisceration Plague stands as proof that a stable lineup, a trusted producer, and unchanged gear can still produce a genuine technical leap forward — not through reinvention, but through the kind of refinement that only comes from repetition at the highest level.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album and the start of the Rutan era\n- **The earlier consolidation chapter**: [Gore Obsessed drum setup (2002)](/articles/gore-obsessed-drum-setup) — the pre-Kill bridge record\n- **The genre landmark**: [Tomb of the Mutilated drum setup (1992)](/articles/tomb-of-the-mutilated-drum-setup) — the Morrisound peak\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
     }
+  },
+  "torture-drum-setup": {
+    "slug": "torture-drum-setup",
+    "albumTitle": "Torture",
+    "artist": "Cannibal Corpse",
+    "drummer": "Paul Mazurkiewicz",
+    "drummerId": 51,
+    "relatedDrummerSlug": "paul-mazurkiewicz",
+    "band": "Cannibal Corpse",
+    "bands": ["Cannibal Corpse"],
+    "year": 2012,
+    "genre": "Death Metal",
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "studio": "Sonic Ranch Studios, Tornillo, Texas / Mana Recording Studios, St. Petersburg, Florida",
+    "producer": "Erik Rutan",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-02",
+    "dateModified": "2026-07-02",
+    "author": "MetalForge Editorial",
+    "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'Torture' (2012)",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's Torture (2012). Paul Mazurkiewicz's Pearl Reference and Meinl rig, Erik Rutan's two-studio production, and the band's highest Billboard 200 debut at the time.",
+    "seoKeywords": [
+      "torture drums",
+      "paul mazurkiewicz torture drum setup",
+      "cannibal corpse torture drummer",
+      "cannibal corpse torture gear",
+      "scourge of iron drums",
+      "erik rutan cannibal corpse production",
+      "sonic ranch studios cannibal corpse",
+      "death metal 2012 drum setup"
+    ],
+    "ogImage": "/images/albums/torture-drums.webp",
+    "intro": {
+      "title": "The Comeback Record: Mazurkiewicz on Cannibal Corpse's Twelfth Album",
+      "content": "Released on March 13, 2012 through Metal Blade Records, \"Torture\" is Cannibal Corpse's twelfth studio album and the direct follow-up to \"Evisceration Plague\" (2009). The same five-piece lineup that had recorded the band's two previous records returned intact for a third consecutive album: George \"Corpsegrinder\" Fisher, Pat O'Brien, Rob Barrett, Alex Webster, and Paul Mazurkiewicz — giving Cannibal Corpse its longest run of lineup stability in over a decade.\n\nTorture was once again shaped by Erik Rutan, but the production process itself changed. Rather than tracking the entire record at his own Mana Recording Studios as he had on Kill and Evisceration Plague, Rutan split the sessions: drums, bass, and rhythm guitars were recorded at Sonic Ranch Studios in Tornillo, Texas — the same sprawling desert complex the band had used for 2006's mixing work — while guitar solos, additional guitar, and vocals were tracked and mixed at Rutan's Mana Recording Studios in St. Petersburg, Florida. The album was mastered by Alan Douches at West West Side Music.\n\nCommercially, Torture became Cannibal Corpse's best chart performance to date, debuting at #38 on the Billboard 200 on first-week sales of roughly 9,600 copies — surpassing Evisceration Plague's #66 debut three years earlier. Critical reception was strong across the board: AllMusic's Gregory Heaney awarded the album 4 out of 5 stars, and the record posted a Metacritic aggregate score of 81/100 based on seven critic reviews, making it one of the best-reviewed Cannibal Corpse albums of the band's second decade.\n\nThis article breaks down the Pearl Reference and Meinl configuration Mazurkiewicz brought into the Sonic Ranch sessions, Erik Rutan's split-studio production approach, and the technical character of a record that extended the band's most stable and highly regarded creative stretch.",
+      "keyPoints": [
+        "Cannibal Corpse's twelfth studio album (March 13, 2012) — Metal Blade Records — the direct follow-up to Evisceration Plague (2009)",
+        "Third consecutive album with the same five-piece lineup: Fisher, O'Brien, Barrett, Webster, Mazurkiewicz",
+        "Produced by Erik Rutan across two studios: drums, bass, and rhythm guitars at Sonic Ranch Studios (Tornillo, Texas); solos, vocals, and mixing at Rutan's Mana Recording Studios (St. Petersburg, Florida)",
+        "Mastered by Alan Douches at West West Side Music",
+        "Debuted at #38 on the Billboard 200 on roughly 9,600 first-week copies — Cannibal Corpse's best chart performance to that point",
+        "AllMusic's Gregory Heaney awarded the album 4/5 stars; Metacritic aggregate score of 81/100",
+        "Notable tracks include \"Scourge of Iron\" and \"Encased in Concrete\""
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference, Unwavering: The Torture-Era Configuration",
+      "brand": "Pearl",
+      "model": "Pearl Reference (mature endorsement configuration, 2012)",
+      "finish": "Custom finish (Pearl endorsement era)",
+      "config": {
+        "bassdrums": ["22\" x 18\" Bass Drum (x2 — double kick)"],
+        "toms": ["10\" x 9\" Rack Tom", "12\" x 10\" Rack Tom"],
+        "floorToms": ["16\" x 14\" Floor Tom", "18\" x 16\" Floor Tom"],
+        "shells": "Maple/African mahogany hybrid — Pearl Reference-tier construction"
+      },
+      "description": "For a third consecutive album, Paul Mazurkiewicz tracked on the same Pearl Reference configuration that had carried him through Kill (2006) and Evisceration Plague (2009) — dual 22\" x 18\" kicks, a four-tom layout across two rack toms and two floor toms, built from Pearl Reference-tier maple/African mahogany hybrid shells. By Torture, the setup was less a rig under development than a fixed reference point, letting the band's attention shift entirely to the shift in recording environment.\n\nTracking drums at Sonic Ranch Studios in Tornillo, Texas — a large, isolated complex on the Texas-Mexico border built around multiple tracking rooms — gave the kit a different room character than the two Mana Recording Studios sessions that preceded it, even with Erik Rutan again at the helm as producer. Reviewers noted the album's overall tonal weight and consistency with the band's prior two records, a sign that Rutan's mixing (completed back at Mana) kept the drum sound anchored to the sonic identity he had established on Kill.\n\nThe band's tuning through this stretch of its catalog is reported by multiple fan and gear-focused sources as sitting in the G#/A# standard range established on Kill, giving Mazurkiewicz's kick and tom tuning a heavy low end to sit against.",
+      "notes": [
+        "Pearl Reference-tier maple/African mahogany hybrid shells — unchanged for a third consecutive album",
+        "Dual 22\" x 18\" kicks and four-tom layout carried forward from Kill (2006) and Evisceration Plague (2009)",
+        "Tracked at Sonic Ranch Studios, Tornillo, Texas — a new room for the kit after two albums at Mana Recording Studios",
+        "Reportedly tuned in the G#/A# standard range established on Kill, consistent with the band's mid-2000s–2010s catalog"
+      ],
+      "estimatedValue": "$3,200–5,800 (2012 era, fully mature Reference configuration)"
+    },
+    "snare": {
+      "title": "The Free-Floating Steel Snare, Unchanged for a Third Album",
+      "brand": "Pearl",
+      "model": "Pearl Free-Floating steel-shell snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel shell construction",
+      "description": "The 14\" x 6.5\" Pearl Free-Floating steel-shell snare that had defined Mazurkiewicz's sound since Kill (2006) carried over unaltered onto Torture, tracked this time in the Sonic Ranch Studios drum room rather than at Mana. The steel shell's bright, cutting overtone profile gave the drum enough presence to stay legible against the album's dense, low-tuned guitar mix, while the free-floating design isolated the shell from the extra stress of Mazurkiewicz's sustained backbeat playing across a full album cycle.\n\nErik Rutan's mix, finished back at Mana Recording Studios after the Sonic Ranch tracking sessions, again favored a forward, present snare position — a constant of every Cannibal Corpse production since the band's earliest Morrisound sessions — giving reviewers a consistent point of comparison against Kill and Evisceration Plague despite the change in tracking room.",
+      "tuningSetting": "Medium-high tension for cut and punch against the album's dense low-tuned guitar mix",
+      "heads": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)",
+      "estimatedValue": "$400–700 (2012 era) / $400–700 (equivalent model today)"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance: A Settled Arsenal at Sonic Ranch",
+      "brand": "Meinl",
+      "series": "Meinl Byzance (established endorsement, 2012)",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Fast, tight response for Torture's high-tempo material"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 16\" Crash",
+          "position": "Left crash",
+          "notes": "Quick accent for riff punctuation"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash for the album's heavier, mid-tempo passages"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl 20\" Ride",
+          "position": "Right",
+          "notes": "Bell accents between blast passages"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" China",
+          "position": "Over rack toms",
+          "notes": "Trashy riff-transition accent, a Mazurkiewicz signature since the band's earliest records"
+        }
+      ],
+      "description": "The Meinl Byzance setup that had carried Mazurkiewicz through Kill and Evisceration Plague needed no adjustment for Torture — by 2012, the endorsement was as settled as the rest of his rig. Meinl's hand-hammered bronze construction gave the cymbals the fast attack and controlled decay to stay articulate against the album's dense low end, holding up equally well whether tracked in the Sonic Ranch drum room or mixed back at Mana.\n\nThe 18\" China remained the defining accent for riff transitions across tracks like \"Scourge of Iron\" and \"Demented Aggression,\" a role it has occupied in Mazurkiewicz's vocabulary across every era of his recorded career. Rutan's mix again kept the cymbals present but controlled, avoiding wash across the album's faster blast-driven sections.",
+      "estimatedValue": "$1,500–2,600 total (established Meinl endorsement configuration, 2012)"
+    },
+    "hardware": {
+      "title": "The Eliminator, Carried Into a New Room",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Double Bass Pedal",
+          "notes": "Unchanged since Kill; tracked at Sonic Ranch Studios for the first time",
+          "description": "Mazurkiewicz's Pearl Eliminator double bass pedal setup, unchanged in principle since Kill (2006), made its first appearance in a new tracking environment on Torture. The Eliminator's interchangeable cam system continued to give him the response needed for the sustained, high-velocity double-bass patterns that define tracks like \"Scourge of Iron\" and \"Torn Through,\" regardless of the room it was tracked in."
+        },
+        {
+          "type": "Electronic Triggers",
+          "brand": "ddrum",
+          "model": "ddrum Acoustic Pro Triggers (live context)",
+          "notes": "Continued use in live performance; studio tracking on Torture remained acoustic"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Paul Mazurkiewicz Signature",
+          "notes": "Fully established signature stick model, unchanged since Kill"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)"
+      }
+    },
+    "sound": {
+      "title": "Erik Rutan, Split Across Two Studios",
+      "content": "\"Torture\" marked a shift in how Erik Rutan approached producing Cannibal Corpse. Rather than tracking the whole album at his own Mana Recording Studios as he had for Kill (2006) and Evisceration Plague (2009), Rutan split the sessions: drums, bass, and rhythm guitars were recorded at Sonic Ranch Studios, a large multi-room complex in Tornillo, Texas, while guitar solos, additional guitar, vocals, and the final mix were completed back at Mana in St. Petersburg, Florida.\n\n**A New Room for the Drums:**\nSonic Ranch's isolated, purpose-built tracking rooms gave Mazurkiewicz's Pearl Reference kit a different acoustic character than the two prior Mana sessions, even with the same producer and largely the same gear. Contemporary reviews noted the album's tonal consistency with its two predecessors, suggesting Rutan's mixing successfully carried the established Kill-era sonic identity across the change in tracking environment.\n\n**Mastering and Reception:**\nAlan Douches handled mastering at West West Side Music. The finished record earned some of the strongest reviews of the band's career to that point — AllMusic's Gregory Heaney gave it 4 out of 5 stars, and the album posted a Metacritic aggregate of 81/100 across seven critic reviews.\n\n**Commercial High-Water Mark:**\nTorture's #38 Billboard 200 debut, on roughly 9,600 first-week copies, made it Cannibal Corpse's best chart performance to date — surpassing Evisceration Plague's #66 debut from three years earlier and continuing the steady commercial climb the Rutan-produced era had built since Kill.",
+      "keyTechniques": [
+        "Erik Rutan split production across two studios: drums/bass/rhythm guitars at Sonic Ranch Studios (Tornillo, Texas); solos, vocals, and mix at Mana Recording Studios (St. Petersburg, Florida)",
+        "Mastered by Alan Douches at West West Side Music",
+        "AllMusic (Gregory Heaney) awarded the album 4/5 stars; Metacritic aggregate of 81/100 across seven reviews",
+        "Album's #38 Billboard 200 debut was Cannibal Corpse's best chart performance to that point",
+        "Third consecutive album with Erik Rutan as producer, following Kill (2006) and Evisceration Plague (2009)"
+      ]
+    },
+    "technique": {
+      "title": "Consistency at a New Technical Peak",
+      "content": "\"Torture\" extends the locomotive, high-velocity drumming approach Mazurkiewicz had refined across Kill and Evisceration Plague, applying it to a set of songs recorded in an unfamiliar room without losing the precision that had defined the prior two records.\n\n**Scourge of Iron and the Album's Technical Centerpiece:**\n\"Scourge of Iron\" stands as one of the most frequently cited tracks from the record, built around the kind of sustained, high-velocity double-bass work that had become Mazurkiewicz's calling card since Evisceration Plague — a direct continuation of the technical peak critics had already identified on the prior album.\n\n**Encased in Concrete and Sustained Groove:**\n\"Encased in Concrete\" showcases a different side of the same rig: heavier, more deliberate mid-tempo sections that give the Pearl Reference kit's low end room to breathe against the album's dense guitar mix, a contrast to the extreme-tempo blasting elsewhere on the record.\n\n**Three Albums, One Producer, One Rig:**\nWith Rutan now three albums into producing the band, and Mazurkiewicz's Pearl Reference, Meinl, and Pearl Eliminator setup fully unchanged since Kill, Torture stands as further proof that the band's mid-career commercial and critical rise came from creative and personnel stability rather than reinvention.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — the album that preceded Torture\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig\n- [Cannibal Corpse band page](/band/cannibal-corpse) — full band history and lineup"
+    },
+    "faq": [
+      {
+        "question": "What kit did Paul Mazurkiewicz use on Torture?",
+        "answer": "On Torture (2012), Paul Mazurkiewicz played the same Pearl Reference kit documented on Kill (2006) and Evisceration Plague (2009) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged, giving the album the same core rig as its two predecessors."
+      },
+      {
+        "question": "Who produced Torture and where was it recorded?",
+        "answer": "Torture was produced by Erik Rutan across two studios: drums, bass, and rhythm guitars were tracked at Sonic Ranch Studios in Tornillo, Texas, while guitar solos, additional guitar, vocals, and the final mix were completed at Rutan's own Mana Recording Studios in St. Petersburg, Florida. It was Rutan's third consecutive Cannibal Corpse production, and the album was mastered by Alan Douches at West West Side Music."
+      },
+      {
+        "question": "How did Torture perform commercially and critically?",
+        "answer": "Torture debuted at #38 on the Billboard 200 upon its March 13, 2012 release, selling approximately 9,600 copies in its first week — Cannibal Corpse's best chart performance to that point, surpassing Evisceration Plague's #66 debut. Critical reception was strong: AllMusic's Gregory Heaney awarded the album 4 out of 5 stars, and it posted a Metacritic aggregate score of 81/100 across seven critic reviews."
+      },
+      {
+        "question": "What are the standout tracks on Torture?",
+        "answer": "\"Scourge of Iron\" is one of the most frequently cited tracks on Torture, built around sustained high-velocity double-bass work that continues the technical peak Mazurkiewicz reached on Evisceration Plague. \"Encased in Concrete\" showcases the album's heavier, more deliberate mid-tempo material, giving the Pearl Reference kit's low end room to sit against the album's dense guitar mix."
+      },
+      {
+        "question": "Was Torture Cannibal Corpse's first album at Sonic Ranch Studios?",
+        "answer": "Torture marked the first time Cannibal Corpse tracked drums, bass, and rhythm guitars at Sonic Ranch Studios in Tornillo, Texas, after two consecutive albums — Kill (2006) and Evisceration Plague (2009) — recorded entirely at Erik Rutan's own Mana Recording Studios. Guitar solos, additional guitar, vocals, and the final mix were still completed at Mana, keeping Rutan's production identity consistent across the change in tracking room."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "evisceration-plague-drum-setup",
+      "kill-drum-setup",
+      "skeletal-domain-drum-setup",
+      "paul-mazurkiewicz-drum-setup"
+    ],
+    "relatedDrummers": [51],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "death-metal-drummers",
+      "best-metal-double-kick-technique"
+    ],
+    "conclusion": {
+      "title": "The High-Water Mark of the Rutan Era's Middle Stretch",
+      "content": "\"Torture\" stands as the commercial and critical high point of Cannibal Corpse's three-album run with the same lineup and the same producer. Paul Mazurkiewicz's Pearl Reference and Meinl rig, unchanged since Kill (2006), gave him a stable platform to carry his playing into an unfamiliar tracking room at Sonic Ranch Studios without losing a step, while Erik Rutan's split-studio production kept the band's established sonic identity fully intact.\n\nWith a #38 Billboard 200 debut, an AllMusic 4/5 rating, and an 81/100 Metacritic score, Torture gave Cannibal Corpse its best chart and critical reception to date — proof that three albums into a stable creative partnership, the band was still finding ways to sharpen rather than repeat itself.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — Rutan's second Mana Recording Studios session\n- **The successor**: [A Skeletal Domain drum setup (2014)](/articles/skeletal-domain-drum-setup) — the album that ended the Rutan production streak\n- **The turning point**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album and the start of the Rutan era\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+    }
+  },
+  "skeletal-domain-drum-setup": {
+    "slug": "skeletal-domain-drum-setup",
+    "albumTitle": "A Skeletal Domain",
+    "artist": "Cannibal Corpse",
+    "drummer": "Paul Mazurkiewicz",
+    "drummerId": 51,
+    "relatedDrummerSlug": "paul-mazurkiewicz",
+    "band": "Cannibal Corpse",
+    "bands": ["Cannibal Corpse"],
+    "year": 2014,
+    "genre": "Death Metal",
+    "country": "USA",
+    "label": "Metal Blade Records",
+    "studio": "Audiohammer Studios, Sanford, Florida",
+    "producer": "Mark Lewis",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-02",
+    "dateModified": "2026-07-02",
+    "author": "MetalForge Editorial",
+    "title": "Paul Mazurkiewicz's Drum Setup on Cannibal Corpse's 'A Skeletal Domain' (2014)",
+    "description": "Complete drum gear breakdown for Cannibal Corpse's A Skeletal Domain (2014). Paul Mazurkiewicz's Pearl Reference and Meinl rig, Mark Lewis's Audiohammer Studios production, and the band's highest-ever Billboard 200 debut at the time.",
+    "seoKeywords": [
+      "a skeletal domain drums",
+      "skeletal domain drum setup",
+      "paul mazurkiewicz skeletal domain drum setup",
+      "cannibal corpse skeletal domain drummer",
+      "cannibal corpse skeletal domain gear",
+      "mark lewis audiohammer cannibal corpse",
+      "audiohammer studios cannibal corpse",
+      "death metal 2014 drum setup"
+    ],
+    "ogImage": "/images/albums/skeletal-domain-drums.webp",
+    "intro": {
+      "title": "A New Producer, A New Peak: Mazurkiewicz on Cannibal Corpse's Thirteenth Album",
+      "content": "Released on September 16, 2014 through Metal Blade Records, \"A Skeletal Domain\" is Cannibal Corpse's thirteenth studio album and the first in over a decade not produced by Erik Rutan. The same five-piece lineup that had recorded Kill (2006), Evisceration Plague (2009), and Torture (2012) returned once again — George \"Corpsegrinder\" Fisher, Pat O'Brien, Rob Barrett, Alex Webster, and Paul Mazurkiewicz — but the band moved to Audiohammer Studios in Sanford, Florida, working with producer, engineer, and mixer Mark Lewis, marking the first non-Rutan production credit on a Cannibal Corpse album since 2003.\n\nThe change in producer and studio brought a change in sound. Multiple reviewers singled out A Skeletal Domain's production as noticeably cleaner and more modern than the Rutan-era records that preceded it, with Sputnikmusic praising \"a much cleaner, more powerful, modern production that allows all the instruments space to breathe\" and specifically noting that Alex Webster's bass was audible in the mix for the first time in years. Metal Injection went further, writing that Mazurkiewicz's \"drums are crispier than saltines\" under Lewis's engineering — a direct, specific nod to how the new studio and producer reshaped the audibility of his playing.\n\nCommercially, A Skeletal Domain became Cannibal Corpse's highest Billboard 200 debut to date, entering at #32 on first-week sales of roughly 8,800 copies, edging out Torture's #38 debut two years earlier. Critical reception was strong across outlets: AllMusic rated the album 3.5 out of 5 stars, Sputnikmusic awarded it 4.0 out of 5, and The Guardian and Revolver both gave it 4 out of 5.\n\nThis article breaks down the Pearl Reference and Meinl configuration Mazurkiewicz brought into the Audiohammer Studios sessions, Mark Lewis's cleaner production approach, and the technical character of an album that pushed the band's sound into a noticeably more modern register.",
+      "keyPoints": [
+        "Cannibal Corpse's thirteenth studio album (September 16, 2014) — Metal Blade Records — the direct follow-up to Torture (2012)",
+        "First Cannibal Corpse album produced by someone other than Erik Rutan since 2003; produced, engineered, and mixed by Mark Lewis at Audiohammer Studios, Sanford, Florida",
+        "Same five-piece lineup as Kill, Evisceration Plague, and Torture — Fisher, O'Brien, Barrett, Webster, Mazurkiewicz",
+        "Reviewers widely praised the cleaner, more modern production; Metal Injection specifically noted Mazurkiewicz's drums sounded \"crispier\" under Lewis's engineering",
+        "Debuted at #32 on the Billboard 200 on roughly 8,800 first-week copies — Cannibal Corpse's highest chart debut to that point",
+        "AllMusic rated the album 3.5/5; Sputnikmusic 4.0/5; The Guardian and Revolver both gave it 4/5",
+        "Title track \"A Skeletal Domain\" is the fourth song on the record"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference, Under a New Producer's Ear",
+      "brand": "Pearl",
+      "model": "Pearl Reference (mature endorsement configuration, 2014)",
+      "finish": "Custom finish (Pearl endorsement era)",
+      "config": {
+        "bassdrums": ["22\" x 18\" Bass Drum (x2 — double kick)"],
+        "toms": ["10\" x 9\" Rack Tom", "12\" x 10\" Rack Tom"],
+        "floorToms": ["16\" x 14\" Floor Tom", "18\" x 16\" Floor Tom"],
+        "shells": "Maple/African mahogany hybrid — Pearl Reference-tier construction"
+      },
+      "description": "Paul Mazurkiewicz's Pearl Reference setup on A Skeletal Domain is the same configuration that had carried him through Kill, Evisceration Plague, and Torture — dual 22\" x 18\" kicks, a four-tom layout across two rack toms and two floor toms, built from Pearl Reference-tier maple/African mahogany hybrid shells. What changed on this record was not the kit itself but the room and the ears behind the recording console: for the first time since 2003, someone other than Erik Rutan was producing.\n\nMark Lewis's Audiohammer Studios sessions gave the kit a noticeably cleaner, more spacious capture than the denser, more compressed low end of the three previous Rutan-produced records. Reviewers repeatedly singled out this shift — Sputnikmusic described the production as \"much cleaner, more powerful, modern,\" and Metal Injection wrote that Mazurkiewicz's kit sounded \"crispier than saltines\" under the new engineering, giving each drum more individual definition than on the denser Torture mix.\n\nBassist Alex Webster has described the album's overall sound as \"dark and eerie\" relative to the band's usual output — a tonal shift that let Mazurkiewicz's kick, snare, and tom work sit with more individual clarity against the guitars than on any prior Cannibal Corpse record.",
+      "notes": [
+        "Pearl Reference-tier maple/African mahogany hybrid shells — unchanged for a fourth consecutive album",
+        "Dual 22\" x 18\" kicks and four-tom layout carried forward from Kill (2006), Evisceration Plague (2009), and Torture (2012)",
+        "Tracked at Audiohammer Studios, Sanford, Florida — the band's first non-Rutan studio environment since 2003",
+        "Reviewers specifically praised the drum kit's clarity and definition under Mark Lewis's production"
+      ],
+      "estimatedValue": "$3,200–5,800 (2014 era, fully mature Reference configuration)"
+    },
+    "snare": {
+      "title": "The Free-Floating Steel Snare, Now Crisper Than Ever",
+      "brand": "Pearl",
+      "model": "Pearl Free-Floating steel-shell snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel shell construction",
+      "description": "The 14\" x 6.5\" Pearl Free-Floating steel-shell snare that had anchored Mazurkiewicz's sound since Kill (2006) carried over unaltered onto A Skeletal Domain, but Mark Lewis's Audiohammer Studios engineering gave it a noticeably sharper, more individually defined presence than the denser Rutan-era mixes. The steel shell's naturally bright, cutting overtone profile — always a good match for Cannibal Corpse's low-tuned guitar sound — came through with more clarity under the new production, part of what led Metal Injection to describe the record's drums as \"crispier than saltines.\"\n\nThe free-floating design's isolation from rim and lug stress remained just as important as ever, given how much of A Skeletal Domain's material still demanded sustained, high-velocity backbeat playing. Lewis's mix kept the snare forward and present, consistent with every Cannibal Corpse production dating back to the band's earliest Morrisound sessions, but rendered with a cleaner separation from the rest of the kit.",
+      "tuningSetting": "Medium-high tension for cut and articulation, rendered with added clarity under Audiohammer Studios engineering",
+      "heads": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)",
+      "estimatedValue": "$400–700 (2014 era) / $400–700 (equivalent model today)"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance: Fully Audible in a Cleaner Mix",
+      "brand": "Meinl",
+      "series": "Meinl Byzance (established endorsement, 2014)",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Fast, tight response, rendered with added clarity under the album's cleaner mix"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 16\" Crash",
+          "position": "Left crash",
+          "notes": "Quick accent for riff punctuation"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash for the album's heavier, mid-tempo sections"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl 20\" Ride",
+          "position": "Right",
+          "notes": "Bell accents between blast passages"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" China",
+          "position": "Over rack toms",
+          "notes": "Trashy riff-transition accent, a Mazurkiewicz signature since the band's earliest records"
+        }
+      ],
+      "description": "The Meinl Byzance setup that had been fully established since Bloodthirst (1999) and unchanged through Kill, Evisceration Plague, and Torture returned once again on A Skeletal Domain, but Mark Lewis's Audiohammer Studios mix gave the cymbals more individual space than the denser Rutan-era productions. Meinl's hand-hammered bronze construction gave each cymbal a fast attack and controlled decay that came through with noticeably more separation from the guitars, part of the broader production shift reviewers praised across the record.\n\nThe 18\" China remained Mazurkiewicz's defining accent for riff transitions, a constant across every era of his recorded career, now rendered with the same added clarity that defined the rest of the kit under Lewis's engineering. Sputnikmusic's description of a mix that \"allows all the instruments space to breathe\" applies as directly to the cymbals as to any other element of the record.",
+      "estimatedValue": "$1,500–2,600 total (established Meinl endorsement configuration, 2014)"
+    },
+    "hardware": {
+      "title": "The Eliminator, Rendered With New Clarity",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Double Bass Pedal",
+          "notes": "Unchanged since Kill; tracked at Audiohammer Studios for the first time",
+          "description": "Mazurkiewicz's Pearl Eliminator double bass pedal setup, unchanged in principle since Kill (2006), carried over onto A Skeletal Domain. The Eliminator's interchangeable cam system continued to deliver the sustained, high-velocity double-bass response the band's material demanded, and Mark Lewis's cleaner Audiohammer Studios production gave the kick drum's attack and definition more individual presence in the mix than on the three prior Rutan-produced records."
+        },
+        {
+          "type": "Electronic Triggers",
+          "brand": "ddrum",
+          "model": "ddrum Acoustic Pro Triggers (live context)",
+          "notes": "Continued use in live performance; studio tracking on A Skeletal Domain remained acoustic"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth Paul Mazurkiewicz Signature",
+          "notes": "Fully established signature stick model, unchanged since Kill"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)"
+      }
+    },
+    "sound": {
+      "title": "Mark Lewis at Audiohammer Studios: Breaking the Rutan Streak",
+      "content": "\"A Skeletal Domain\" ended Erik Rutan's run as Cannibal Corpse's producer after three consecutive albums — Kill, Evisceration Plague, and Torture. In his place, the band worked with Mark Lewis, producing, engineering, and mixing the record at Audiohammer Studios in Sanford, Florida, marking the first time since 2003 that a Cannibal Corpse album was made without Rutan behind the board.\n\n**A Noticeably Cleaner Mix:**\nThe shift in producer and studio brought an immediate, widely noted change in sound. Sputnikmusic's review specifically praised \"a much cleaner, more powerful, modern production that allows all the instruments space to breathe and, notably, allows the bass to be 100% audible\" — a direct contrast to the denser low end that had defined the Rutan-era records.\n\n**Mazurkiewicz's Drums, Freshly Audible:**\nMetal Injection's review went further on the drums specifically, writing that Mazurkiewicz's playing came through \"crispier than saltines\" in the new mix — a specific, memorable acknowledgment of how much Lewis's engineering changed the audibility of the drum kit relative to the three prior albums.\n\n**Reception and Chart Performance:**\nThe album earned strong reviews across the board — AllMusic (3.5/5), Sputnikmusic (4.0/5), The Guardian (4/5), and Revolver (4/5) — and debuted at #32 on the Billboard 200 on roughly 8,800 first-week copies, Cannibal Corpse's best chart performance to that point, edging out Torture's #38 debut from two years earlier.\n\n**A Darker, Eerier Character:**\nBassist Alex Webster described the album's overall sound as \"dark and eerie\" relative to the band's usual output, a tonal quality reviewers connected directly to the cleaner, more spacious Audiohammer Studios production.",
+      "keyTechniques": [
+        "First Cannibal Corpse album not produced by Erik Rutan since 2003; produced, engineered, and mixed by Mark Lewis at Audiohammer Studios, Sanford, Florida",
+        "Sputnikmusic praised the \"cleaner, more powerful, modern production\" that let the bass be \"100% audible\"",
+        "Metal Injection specifically praised Mazurkiewicz's drums as \"crispier than saltines\" under the new engineering",
+        "Album's #32 Billboard 200 debut was Cannibal Corpse's best chart performance to that point",
+        "Bassist Alex Webster described the album's overall sound as \"dark and eerie\""
+      ]
+    },
+    "technique": {
+      "title": "Established Playing, Newly Audible",
+      "content": "\"A Skeletal Domain\" doesn't ask Mazurkiewicz to change his technical approach so much as it reveals it with more clarity than any prior Cannibal Corpse record. The locomotive double-bass drive and precise blast-beat control he had built across Kill, Evisceration Plague, and Torture carry over directly — what changed is how audible every individual element of his playing became under Mark Lewis's cleaner Audiohammer Studios mix.\n\n**The Title Track as Centerpiece:**\n\"A Skeletal Domain,\" the fourth song on the record, showcases the album's dynamic range in miniature — moving between sustained blast passages and heavier, more deliberate sections, with Mazurkiewicz's kit rendered in sharper individual detail than on the denser Torture mix.\n\n**A Fourth Album, A New Room:**\nWith the same Pearl Reference, Meinl, and Pearl Eliminator setup he had used since Kill, but a new producer and studio for the first time in eight years, A Skeletal Domain demonstrates how much a production change alone can reshape the perceived character of an unchanged rig and an unchanged player.\n\n**Setting Up the Next Chapter:**\nA Skeletal Domain's cleaner, more modern sound and record-setting chart debut set the stage for Red Before Black (2017), the band's next studio album, continuing the commercial momentum that had been building steadily since Kill.\n\nFor the surrounding context of this era:\n- [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz) — complete profile and technique breakdown\n- [Torture drum setup (2012)](/articles/torture-drum-setup) — the album that preceded A Skeletal Domain\n- [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — the modern Pearl Reference / Meinl / Pearl Eliminator rig\n- [Cannibal Corpse band page](/band/cannibal-corpse) — full band history and lineup"
+    },
+    "faq": [
+      {
+        "question": "What kit did Paul Mazurkiewicz use on A Skeletal Domain?",
+        "answer": "On A Skeletal Domain (2014), Paul Mazurkiewicz played the same Pearl Reference kit documented on Kill (2006), Evisceration Plague (2009), and Torture (2012) — dual 22-inch x 18-inch kick drums, a four-tom layout in maple/African mahogany hybrid shells, and his 14-inch x 6.5-inch Pearl Free-Floating steel-shell snare. His Meinl Byzance cymbal setup and Pearl Eliminator double bass pedal carried over unchanged; the main difference was a cleaner, more modern production under new producer Mark Lewis."
+      },
+      {
+        "question": "Who produced A Skeletal Domain and where was it recorded?",
+        "answer": "A Skeletal Domain was produced, engineered, and mixed by Mark Lewis at Audiohammer Studios in Sanford, Florida — the first Cannibal Corpse album not produced by Erik Rutan since 2003, breaking a streak of three consecutive Rutan-produced records (Kill, Evisceration Plague, Torture)."
+      },
+      {
+        "question": "How did A Skeletal Domain perform commercially and critically?",
+        "answer": "A Skeletal Domain debuted at #32 on the Billboard 200 upon its September 16, 2014 release, selling approximately 8,800 copies in its first week — Cannibal Corpse's highest chart debut to that point, surpassing Torture's #38 debut two years earlier. Critical reception was strong: AllMusic rated it 3.5/5, Sputnikmusic gave it 4.0/5, and both The Guardian and Revolver awarded it 4/5."
+      },
+      {
+        "question": "What did Cannibal Corpse do after Evisceration Plague?",
+        "answer": "After Evisceration Plague (2009), Cannibal Corpse released Torture (2012), their twelfth studio album and, at the time, their best Billboard 200 debut. They followed it with A Skeletal Domain (2014), which broke Erik Rutan's three-album production streak in favor of Mark Lewis at Audiohammer Studios and became the band's highest chart debut yet, before Red Before Black (2017) continued the arc."
+      },
+      {
+        "question": "Why did reviewers praise A Skeletal Domain's production specifically?",
+        "answer": "Reviewers widely noted that A Skeletal Domain sounded noticeably cleaner and more modern than the three Erik Rutan-produced albums that preceded it. Sputnikmusic praised a mix that let \"all the instruments space to breathe\" and made the bass \"100% audible,\" while Metal Injection specifically described Paul Mazurkiewicz's drums as \"crispier than saltines\" under Mark Lewis's Audiohammer Studios engineering."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "torture-drum-setup",
+      "evisceration-plague-drum-setup",
+      "kill-drum-setup",
+      "paul-mazurkiewicz-drum-setup"
+    ],
+    "relatedDrummers": [51],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "death-metal-drummers",
+      "best-metal-double-kick-technique"
+    ],
+    "conclusion": {
+      "title": "The Cleanest Window Yet Into an Unchanged Rig",
+      "content": "\"A Skeletal Domain\" closes out the post-Gore Obsessed arc of Paul Mazurkiewicz's Cannibal Corpse career on a high note, both commercially and critically. His Pearl Reference and Meinl rig, unchanged in every material respect since Kill (2006), sounds newly vivid under Mark Lewis's cleaner Audiohammer Studios production — proof that a change in room and engineer can reveal as much about a drummer's playing as any change in gear.\n\nWith a record-setting #32 Billboard 200 debut and reviews across AllMusic, Sputnikmusic, The Guardian, and Revolver all landing in the 3.5–4/5 range, A Skeletal Domain gave Cannibal Corpse its strongest commercial showing yet, bridging the Rutan-produced middle stretch of the band's catalog to the Red Before Black (2017) era that followed.\n\nFor the complete Paul Mazurkiewicz CC gear arc around this record:\n- **The predecessor**: [Torture drum setup (2012)](/articles/torture-drum-setup) — the final album of the three-record Rutan production streak\n- **The turning point**: [Kill drum setup (2006)](/articles/kill-drum-setup) — the return-to-brutality album and the start of the modern era\n- **The technical peak**: [Evisceration Plague drum setup (2009)](/articles/evisceration-plague-drum-setup) — Rutan's second Mana Recording Studios session\n- **Modern rig**: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup) — Pearl Reference / Meinl / Pearl Eliminator\n- **Full profile**: [Paul Mazurkiewicz at MetalForge](/drummer/paul-mazurkiewicz)"
+    }
   }
 };
 export default articles;

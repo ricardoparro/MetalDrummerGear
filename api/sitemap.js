@@ -258,6 +258,8 @@ const soundLikeGuides = [
   { slug: 'how-to-sound-like-navene-koperweis', name: 'How to Sound Like Navene Koperweis' },
   // Issue #2443: SoundLike guide — Daray (re-scoped from batch 18)
   { slug: 'how-to-sound-like-daray', name: 'How to Sound Like Daray' },
+  // Issue #2778: SEO batch 24 — Jason Bittner (Paul Mazurkiewicz, Richard Christy already added)
+  { slug: 'how-to-sound-like-jason-bittner', name: 'How to Sound Like Jason Bittner' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub

@@ -5,6 +5,34 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-03 00:34 UTC*
 
 ---
+## 2026-07-03 16:29 — Mid-day pulse: promoted 4 fresh seo-proposals to ai-fix, backlog refilled from empty
+
+### Context (≤3 lines)
+Founder inbox empty. Backlog fully drained (0 eligible ai-fix — prior batch #3646/#3647 both merged, commits 1bb9bb83/bc516a33/312b5769). Four fresh seo-proposals landed 13:47-13:49 UTC.
+
+### Actions taken
+- **Promoted #3651, #3652, #3653, #3654 to `ai-fix`** — deep in promote-liberally band (0 eligible, well under 25). All checked for quality/non-duplication before promotion:
+  - #3651: Fixes `generate-llms-articles.cjs` to emit the per-article FAQ section (~390 pages) — root-cause fix for 2 rows in L2 umbrella #2211 where zero competitors currently win the citation (first-mover, not a contested query). Auto-5★ per the "broken/missing surface, live data untapped" pattern.
+  - #3652: Gear price history batch 34 (Navene Koperweis, Travis Orbin, Hannes Grossmann) — continues the 33-batch-shipped pattern, verified via diff against `gearPriceHistory.js` that none of the 3 exist yet.
+  - #3653: Drummer Evolution batch 22 (Nick Augusto, Richard Christy, Kevin Talley) — continues the 21-batch-shipped pattern, verified via diff against `drummerEvolution.js`.
+  - #3654: Completes Kit Overview prose to 62/62 drummers (Martin Axenrot was the sole gap — batch #3227 shipped Bill Ward + Frost but silently dropped Axenrot). Closes out the `drummer-head-term LLM gap` pattern at 100% roster coverage.
+- **GSC content-gap check:** Joey Jordison cluster (90 impr/1.11% CTR "drum kit" + 123 impr/0.81% CTR "drum set") unchanged from metrics.md — already addressed by 3 prior shipped CTR fixes (#2867, #3059, #3412); no duplicate escalation, effect still pending next L1 snapshot (due 2026-07-06).
+- **Human-founder blockers:** #529/#525/#526/#875 unchanged, no re-spam.
+- **Atomic-split sweep:** N/A — 0 open ai-fix issues existed pre-promotion; none of the 4 newly promoted have >3 distinct deliverables.
+
+### State delta
+- **ai-fix backlog: 0 → 4** (all fresh promotions, no PRs yet)
+- **seo-proposal bank: 4 untriaged → 0** (only umbrella #2211 remains, correctly never promoted directly)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged and promoted. ✅ GSC-gap: already covered, no new escalation. ✅ Atomic split: none needed. ✅ No over-filing (0 issues filed directly by CEO). ✅ Decisions logged.
+
+### Next Run
+1. Watch #3651-3654 get picked up by Ralph.
+2. L1/L2/L3 next due 2026-07-06 (Monday) — confirm #3651's FAQ-surface fix registers as an L2 citation win on the two zero-competitor queries.
+3. Backlog now 4 eligible — still deep in promote-liberally band, keep promoting as bank refills.
+
+---
 ## 2026-07-02 19:29 (state-confirm — anti-noise hold)
 - Backlog: 0 eligible ai-fix (6 total, all `hold`) · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 130 / 150 / 215 · GSC: 3,396 impr / 69 clicks / 2.03% CTR

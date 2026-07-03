@@ -221,6 +221,10 @@ import StickyGlobalHeader, { HEADER_HEIGHT } from './components/StickyGlobalHead
 // Related Drummers internal-linking block (Issue #1005, split 1/3 of #874)
 // Stub-tested on the Lars Ulrich page here; #1007 rolls it out everywhere.
 import RelatedDrummersBlock from './components/RelatedDrummersBlock';
+// "Continue exploring" recently-viewed rail (Issue #1240) - client-only,
+// localStorage-backed personalisation for returning homepage visitors.
+import ContinueExploringRail from './components/ContinueExploringRail';
+import { recordRecentlyViewed } from './utils/recentlyViewed';
 // Shared-Gear Drummers internal-linking block (Issue #1006, split 2/3 of #874)
 // Stub-tested on the Lars Ulrich page here; #1007 rolls it out everywhere.
 import SharedGearDrummersBlock from './components/SharedGearDrummersBlock';
@@ -18567,6 +18571,10 @@ function DrummerList({
   // component type on re-render, which would unmount the header and lose focus.
   const listHeader = useMemo(() => (
     <>
+      {/* "Continue exploring" recently-viewed rail (Issue #1240) - client-only,
+          renders nothing for first-time visitors/crawlers so it never displaces
+          the <h1> below or affects the crawlable DOM. */}
+      <ContinueExploringRail theme={theme} />
       {/* Hero Section with prominent search CTA (Issue #493) */}
       <HeroSection
         theme={theme}
@@ -25760,6 +25768,32 @@ function AppContent() {
     window.addEventListener('popstate', handlePopState);
     return () => window.removeEventListener('popstate', handlePopState);
   }, [drummers]);
+
+  // Track recently-viewed drummer/gear pages for the "Continue exploring" rail
+  // (Issue #1240). Watching the selected-entity state (rather than each
+  // navigation call site) covers every way a page can be reached - direct
+  // link, deep link on load, search, related-content rails, etc.
+  useEffect(() => {
+    if (!selectedDrummer) return;
+    recordRecentlyViewed({
+      type: 'drummer',
+      url: `/drummer/${toSlug(selectedDrummer.name)}`,
+      title: selectedDrummer.name,
+      subtitle: selectedDrummer.band,
+      image: selectedDrummer.thumbnailUrl || selectedDrummer.image,
+    });
+  }, [selectedDrummer]);
+
+  useEffect(() => {
+    if (!selectedGear) return;
+    recordRecentlyViewed({
+      type: 'gear',
+      url: `/gear/${selectedGear.slug}`,
+      title: selectedGear.name,
+      subtitle: [selectedGear.brand, selectedGear.category].filter(Boolean).join(' '),
+      image: selectedGear.image,
+    });
+  }, [selectedGear]);
 
   // Load gear page on initial mount if URL matches
   useEffect(() => {

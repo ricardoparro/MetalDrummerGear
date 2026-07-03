@@ -17505,6 +17505,921 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Aquiles Priester Gear Evolution Timeline | Angra Drum Kit History',
     metaDescription: 'Explore Aquiles Priester\'s complete drum gear evolution: founding Hangar in 1996, the Mapex Saturn/Sabian HHX setup behind Angra classics Rebirth and Temple of Shadows, the Pearl Reference/Meinl Byzance rig from his W.A.S.P. years, and the Trick Drums/Ufip/DW 9000 kit he plays on his current Angra return.',
   },
+
+  // ==========================================
+  // Nick Augusto - Trivium (Drummer Evolution batch 22, Issue #3653)
+  // Pre-Trivium (undocumented) -> Pearl Reference Pure
+  // ==========================================
+  'nick-augusto': {
+    slug: 'nick-augusto',
+    name: 'Nick Augusto',
+    band: 'Trivium',
+    totalYearsActive: '2005-Present',
+    profileImage: '/images/drummers/nick-augusto.webp',
+    summary: 'Nick Augusto built his technical foundation on the grindcore and thrash underground with Maruta and Metal Militia before an unlikely path into Trivium\'s drum chair: joining the band as its drum technician in 2009, then stepping in as a fill-in drummer when Travis Smith went on hiatus mid-tour. That fill-in role became permanent, and Augusto\'s Pearl Reference Pure / Sabian AAX rig — first established for his 2011 studio debut "In Waves" — carried through "Vengeance Falls" (2013) before he departed Trivium in 2014 to form Corrosion and tour with Light the Torch.',
+
+    eras: [
+      {
+        id: 'nick-augusto-2005-pre-trivium',
+        era: 'Pre-Trivium: Maruta & Metal Militia Roots',
+        years: '2005–2009',
+        startYear: 2005,
+        endYear: 2009,
+        description: 'Before Trivium, Nick Augusto built his playing style on the technical grindcore circuit as drummer for Maruta, and separately played in Metal Militia alongside future Trivium bassist Paolo Gregoletto — the connection that would eventually put him in Trivium\'s orbit. This period gave Augusto the speed and precision that later defined his fill-in audition for Trivium, though no single fixed gear endorsement from these years is publicly documented. Working the underground grindcore circuit meant relying on whatever session-grade hardware was available at a given venue or studio rather than a dedicated touring rig, a common reality for extreme metal drummers before landing a first major-label opportunity.',
+        albums: ['Maruta and Metal Militia session/touring work prior to joining Trivium'],
+        tours: ['Metal Militia touring lineup (alongside Paolo Gregoletto)', 'Maruta grindcore circuit dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various grindcore/thrash-circuit kits (no single fixed brand documented)',
+            details: 'Touring and session-grade shell packs',
+            notes: 'Augusto\'s pre-Trivium years prioritized the speed and technical precision he brought from Maruta and Metal Militia rather than any single endorsement deal.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Standard steel snares (varied by session)',
+            details: 'Grindcore-standard 14" configurations',
+            notes: 'No fixed snare documented during this period.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Varied by session',
+            details: 'No fixed brand documented',
+            notes: 'Cymbal setup varied across his Maruta and Metal Militia engagements.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard touring hardware, pedal setup varied by gig',
+            details: 'Pedal setup varied by engagement',
+            notes: 'No fixed hardware brand documented for this period.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic (standard models)',
+            details: 'Pre-Trivium era',
+            notes: 'Long-running Vic Firth relationship that continued unbroken into his Trivium career.',
+            change: null,
+          },
+          heads: {
+            item: 'Standard session heads',
+            details: 'Varied by engagement',
+            notes: 'No fixed head brand documented for this period.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2200,
+          inflationAdjusted: 3000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Drummed for technical grindcore band Maruta',
+          'Played in Metal Militia alongside future Trivium bassist Paolo Gregoletto',
+          'Built the speed and technical precision that would define his eventual Trivium audition',
+          'No fixed gear endorsement documented prior to joining Trivium',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'nick-augusto-2009-joining-trivium',
+        era: 'Joining Trivium & In Waves',
+        years: '2009–2012',
+        startYear: 2009,
+        endYear: 2012,
+        description: 'Augusto\'s path into Trivium began unusually: he joined the band as its drum technician in 2009, then stepped in as a fill-in drummer after founding drummer Travis Smith went on hiatus mid-tour. The fill-in role became permanent, and Augusto\'s studio debut came on "In Waves" (2011) — the album that established the Pearl Reference Pure / Sabian AAX rig that would define his tenure. His powerful, technically aggressive playing pushed Trivium\'s thrash-metalcore hybrid toward tighter, more precise execution than the band\'s earlier records, and "In Waves" expanded Trivium\'s international fanbase considerably.',
+        albums: ['In Waves (2011)'],
+        tours: ['In Waves World Tour 2011–2012'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure',
+            details: 'Double-bass 6-piece, maple/birch hybrid shells; 22"x18" Bass Drum x2, 10"x8"/12"x9" rack toms, 16"x16"/18"x16" floor toms',
+            notes: 'First fixed drum endorsement of Augusto\'s career, established for his full studio debut on In Waves.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Pearl Reference 14"x6.5" Brass',
+            details: 'Brass shell',
+            notes: 'Delivered the crack and cut needed to compete with Trivium\'s dual-guitar attack.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Sabian AAX Series',
+            details: '14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China',
+            notes: 'Bright, cutting cymbal spread chosen to sit clearly against Trivium\'s dense guitar production.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct-drive twin bass drum pedal',
+            notes: 'Gave Augusto the fast, direct-drive response his aggressive double-kick fills required.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Hickory, standard 5B weight',
+            notes: 'Unchanged from his pre-Trivium years.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans G2 Clear (toms), EMAD (kick), Genera HD Dry (snare)',
+            details: 'Standard Evans head package',
+            notes: 'Rounded out the rig documented in detail for the In Waves sessions.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 9654,
+          inflationAdjusted: 14062,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Trivium as drum technician in 2009, then stepped in as fill-in drummer for Travis Smith mid-tour',
+          'Studio debut on In Waves (2011) — first full album as Trivium\'s frontline drummer',
+          'Established the Pearl Reference Pure / Sabian AAX rig that defined his Trivium tenure',
+          'In Waves expanded Trivium\'s international fanbase considerably',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'nick-augusto-2013-vengeance-falls',
+        era: 'Vengeance Falls: Final Studio Album',
+        years: '2012–2014',
+        startYear: 2012,
+        endYear: 2014,
+        description: 'Augusto carried the same Pearl Reference Pure / Sabian AAX / Evans configuration into "Vengeance Falls" (2013), his second and final studio album with Trivium, produced by Gojira\'s Joe Duplantier. The consistency of the rig across both albums reflected Augusto\'s road-tested approach to gear — built for speed and power rather than studio experimentation. He departed Trivium in 2014 citing creative differences and was replaced by Mat Madiro.',
+        albums: ['Vengeance Falls (2013)'],
+        tours: ['Vengeance Falls World Tour 2013–2014'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure',
+            details: 'Same configuration carried through from In Waves',
+            notes: 'No change — the rig that defined his Trivium tenure stayed constant across both studio albums.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Reference 14"x6.5" Brass',
+            details: 'Unchanged',
+            notes: 'No change from the In Waves era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AAX Series',
+            details: 'Same configuration',
+            notes: 'No change from the In Waves era.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Unchanged',
+            notes: 'No change from the In Waves era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans (standard package)',
+            details: 'Consistent configuration',
+            notes: 'No significant change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 10200,
+          inflationAdjusted: 14700,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Vengeance Falls (2013) — produced by Gojira\'s Joe Duplantier, Augusto\'s second and final Trivium album',
+          'Carried the same Pearl Reference Pure / Sabian AAX rig unchanged from In Waves',
+          'Departed Trivium in 2014, citing creative differences',
+          'Replaced by Mat Madiro on drums',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'nick-augusto-2014-post-trivium',
+        era: 'Post-Trivium: Corrosion & Light the Torch',
+        years: '2014–Present',
+        startYear: 2014,
+        endYear: 2026,
+        description: 'After leaving Trivium in 2014, Augusto formed his own band Corrosion and has continued touring with acts including Light the Torch. No single fixed gear endorsement from this period is publicly documented in the way his Trivium-era Pearl Reference Pure rig was, reflecting the more varied session and touring work of a post-major-label career rather than a dedicated single-band setup. That shift mirrors a common pattern for drummers who build their reputation inside a major touring act: the signature endorsement deal tends to follow the band\'s visibility rather than the individual player, so stepping away from Trivium meant piecing together gear across multiple shorter-term engagements instead.',
+        albums: ['Corrosion material (2014–present)'],
+        tours: ['Light the Torch touring dates (session/touring drummer)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Varied touring/session kits (no single fixed brand documented)',
+            details: 'Session and touring-grade shell packs',
+            notes: 'No dedicated single-band endorsement documented since leaving Trivium\'s Pearl Reference Pure rig behind.',
+            change: null,
+          },
+          snare: {
+            item: 'Varied by engagement',
+            details: 'No fixed snare documented',
+            notes: 'No fixed snare documented for this period.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Varied by engagement',
+            details: 'No fixed brand documented',
+            notes: 'Cymbal setup varied across Corrosion and touring engagements.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard touring hardware',
+            details: 'Pedal setup varied by engagement',
+            notes: 'No fixed hardware brand documented for this period.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Unchanged',
+            notes: 'Long-running Vic Firth relationship carried from the Trivium years.',
+            change: null,
+          },
+          heads: {
+            item: 'Standard session heads',
+            details: 'Varied by engagement',
+            notes: 'No fixed head brand documented for this period.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3000,
+          inflationAdjusted: 3000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Departed Trivium in 2014 and formed his own band, Corrosion',
+          'Continued touring with acts including Light the Torch',
+          'Moved from a single dedicated endorsement rig to varied session/touring gear',
+          'Vic Firth American Classic 5B sticks remain the one documented constant since his Trivium years',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'When was Nick Augusto in Trivium?',
+        a: 'Nick Augusto was Trivium\'s drummer from 2009 to 2014. He initially joined as the band\'s drum technician before stepping in as a fill-in drummer after Travis Smith went on hiatus mid-tour, and the role became permanent.',
+      },
+      {
+        q: 'What albums did Nick Augusto record with Trivium?',
+        a: 'Nick Augusto recorded two studio albums with Trivium: "In Waves" (2011), his studio debut, and "Vengeance Falls" (2013), produced by Gojira\'s Joe Duplantier, before departing the band in 2014.',
+      },
+      {
+        q: 'What drum kit did Nick Augusto use in Trivium?',
+        a: 'Nick Augusto played a Pearl Reference Pure kit throughout his Trivium tenure, paired with a Pearl Reference 14"x6.5" Brass snare, Sabian AAX cymbals, and a Pearl Demon Drive double pedal — a rig established for his 2011 studio debut In Waves and carried unchanged through Vengeance Falls (2013).',
+      },
+      {
+        q: 'Why did Nick Augusto leave Trivium?',
+        a: 'Nick Augusto departed Trivium in 2014, citing creative differences. He was replaced by Mat Madiro and went on to form his own band, Corrosion, while continuing to tour with acts including Light the Torch.',
+      },
+      {
+        q: 'What bands did Nick Augusto play in before Trivium?',
+        a: 'Before Trivium, Nick Augusto drummed for the technical grindcore band Maruta and played in Metal Militia alongside future Trivium bassist Paolo Gregoletto — the connection that eventually led to his fill-in role in Trivium\'s drum chair.',
+      },
+    ],
+
+    metaTitle: 'Nick Augusto Gear Evolution Timeline | Trivium Drum Kit History',
+    metaDescription: 'Explore Nick Augusto\'s complete drum gear evolution: from Maruta and Metal Militia through the Pearl Reference Pure / Sabian AAX rig behind Trivium\'s In Waves (2011) and Vengeance Falls (2013), to his post-Trivium work with Corrosion and Light the Torch.',
+  },
+
+  // ==========================================
+  // Richard Christy - Death / Iced Earth (Drummer Evolution batch 22, Issue #3653)
+  // Pearl Masters Custom -> Pearl Masters Custom (expanded)
+  // ==========================================
+  'richard-christy': {
+    slug: 'richard-christy',
+    name: 'Richard Christy',
+    band: 'Death / Iced Earth',
+    totalYearsActive: '1996-2007',
+    profileImage: '/images/drummers/richard-christy.webp',
+    summary: 'Richard Christy moved to Florida specifically to break into the death metal scene, and was handpicked by Chuck Schuldiner to join Death and Control Denied in 1996, inheriting a drum chair previously held by Gene Hoglan. His Pearl Masters Custom / Sabian AA-AAX rig powered Death\'s "The Sound of Perseverance" (1998) — Schuldiner\'s final studio album and widely considered the most technically demanding death metal record ever made — before carrying into Control Denied\'s "The Fragile Art of Existence" (1999) and an expanded touring setup during his 2003–2007 run with Iced Earth, after which he left metal drumming to focus on his entertainment career at The Howard Stern Show.',
+
+    eras: [
+      {
+        id: 'richard-christy-1996-death-control-denied',
+        era: 'Joining Death & Control Denied',
+        years: '1996–1998',
+        startYear: 1996,
+        endYear: 1998,
+        description: 'Richard Christy moved to Florida specifically to break into the death metal scene, and was handpicked by Chuck Schuldiner after auditions to join both Death and Control Denied in 1996 — stepping into a drum chair previously held by Gene Hoglan. His Pearl Masters Custom maple shell pack and Sabian AA cymbal setup gave him a clean, articulate foundation to build the speed and precision Schuldiner\'s increasingly progressive songwriting demanded.',
+        albums: ['Pre-Sound of Perseverance session and rehearsal work with Death and Control Denied'],
+        tours: ['Death rehearsal and pre-production sessions (1996–1998)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Custom',
+            details: 'Maple shell pack',
+            notes: 'Christy\'s first fixed kit endorsement, established upon joining Death and Control Denied.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Pearl Sensitone Heritage Steel / Masters Maple 14"x5.5"',
+            details: 'Alternated by song, steel or maple shell',
+            notes: 'Gave Christy the option to shift between cutting crack and warmer tone depending on the part.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Sabian AA Series',
+            details: 'Standard AA configuration',
+            notes: 'Bright, articulate cymbal choice suited to Death\'s increasingly technical material.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Pearl double pedal',
+            details: 'Standard chain-drive double pedal',
+            notes: 'Foundation hardware ahead of the P-2002C upgrade for Perseverance.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A / 5B',
+            details: 'Hickory, dual weight rotation',
+            notes: 'Long-running Vic Firth relationship that continued through his entire metal drumming career.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Remo (standard package)',
+            details: 'Standard Remo head package',
+            notes: 'Foundation head setup ahead of the Powerstroke 3/Emperor/Ambassador combination used on Perseverance.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 3200,
+          inflationAdjusted: 6400,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Moved to Florida specifically to break into the death metal scene',
+          'Handpicked by Chuck Schuldiner to join Death and Control Denied in 1996',
+          'Inherited a drum chair previously held by Gene Hoglan',
+          'Established the Pearl Masters Custom / Sabian AA rig that carried into Perseverance',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'richard-christy-1998-sound-of-perseverance',
+        era: 'The Sound of Perseverance: Death\'s Final Album',
+        years: '1998–1999',
+        startYear: 1998,
+        endYear: 1999,
+        description: '"The Sound of Perseverance" (1998), recorded at Morrisound Recording, is Death\'s final studio album before Chuck Schuldiner\'s death in 2001, and is widely regarded as the most technically demanding death metal album ever recorded. Christy\'s expanded Pearl Masters Custom kit — a deeper 22"x18" bass drum than typical for the era, plus a four-tom configuration and a seven-piece Sabian AA/AAX cymbal spread — gave him the low-end weight, melodic canvas, and stick definition Schuldiner\'s progressive songwriting required, from the blast beats of "Spirit Crusher" to the delicate instrumental "Voice of the Soul."',
+        albums: ['The Sound of Perseverance (1998)'],
+        tours: ['The Sound of Perseverance Tour 1998–1999'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Custom',
+            details: 'Piano black finish, 22"x18" bass drum, 10"/12" rack toms, 14"/16" floor toms',
+            notes: 'Deeper bass drum than typical death metal kits of the era, giving sustained double-bass runs low-end weight rather than a muddy blur.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Sensitone Heritage Steel / Masters Maple 14"x5.5"',
+            details: 'Alternated by song',
+            notes: 'Let Christy shift between the cutting crack "Scavenger of Human Sorrow" demanded and the warmth "Voice of the Soul" required.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AA / AAX Series',
+            details: '14" AA hi-hats, 16" AAX Studio crash, 18" AA Medium Thin crash, 19" AAX X-Plosion crash, 20" AA Medium ride, 10" AA splash, 18" AAX Chinese',
+            notes: 'Seven-piece spread provided the stick definition necessary at 200+ BPM.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl P-2002C PowerShifter Eliminator double pedal',
+            details: 'Upgraded double pedal',
+            notes: 'Upgraded from the standard chain-drive double pedal for faster, more consistent response.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A / 5B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 (kick), Emperor (toms), Ambassador (snare)',
+            details: 'Full Remo head package',
+            notes: 'Standard Remo head configuration for the Morrisound Recording sessions.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 6183,
+          inflationAdjusted: 12427,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'The Sound of Perseverance (1998) recorded at Morrisound Recording — Death\'s final studio album',
+          'Widely considered the most technically demanding death metal album ever recorded',
+          'Expanded to a seven-piece Sabian AA/AAX cymbal setup and upgraded to the Pearl P-2002C Eliminator double pedal',
+          'Performance recorded as largely uninterrupted full takes with minimal punch-ins',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'richard-christy-1999-control-denied',
+        era: 'Control Denied: The Fragile Art of Existence',
+        years: '1999–2003',
+        startYear: 1999,
+        endYear: 2003,
+        description: 'Control Denied\'s "The Fragile Art of Existence" (1999) carried Christy\'s Pearl Masters Custom / Sabian AA-AAX rig from Perseverance into a more progressive, vocal-driven metal context alongside Schuldiner\'s clean-sung songwriting. The album, later reissued posthumously after Schuldiner\'s 2001 death, showcased Christy\'s versatility beyond straight death metal — the same gear, applied to a fundamentally different songwriting approach.',
+        albums: ['The Fragile Art of Existence (1999)'],
+        tours: ['Control Denied promotional dates (1999)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Custom',
+            details: 'Same rig carried from Perseverance',
+            notes: 'No change — the same kit applied to Control Denied\'s more progressive, vocal-driven songwriting.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Sensitone / Masters Maple',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AA / AAX',
+            details: 'Same configuration',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl P-2002C Eliminator',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A / 5B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo (standard package)',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 6183,
+          inflationAdjusted: 12100,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Recorded The Fragile Art of Existence (1999) with Control Denied — same Pearl/Sabian rig as Perseverance',
+          'Applied his technical death metal gear and technique to a clean-vocal, progressive songwriting context',
+          'Album later reissued posthumously following Chuck Schuldiner\'s death in 2001',
+          'Demonstrated versatility beyond straight death metal drumming',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'richard-christy-2003-iced-earth',
+        era: 'Iced Earth: Expanded Touring Rig',
+        years: '2003–2007',
+        startYear: 2003,
+        endYear: 2007,
+        description: 'Christy joined Iced Earth in 2003 as touring and studio drummer, appearing on "The Glorious Burden" (2004) and the "Overture of the Wicked" EP (2006). His Pearl Masters Custom / Sabian AA-AAX setup expanded for larger touring productions, scaling to Iced Earth\'s bigger stage shows before Christy left metal drumming behind in 2007 to focus on his entertainment career at The Howard Stern Show — a transition that closed out his eleven-year run as one of technical death metal\'s most complete performers.',
+        albums: ['The Glorious Burden (2004)', 'Overture of the Wicked EP (2006)'],
+        tours: ['Iced Earth World Tours 2003–2007'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Custom',
+            details: 'Expanded configuration for larger touring productions',
+            notes: 'Same Pearl brand relationship, scaled up for Iced Earth\'s bigger stage shows.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Sensitone Heritage Steel',
+            details: 'Consolidated to a single steel snare for touring reliability',
+            notes: 'Simplified from the Perseverance-era steel/maple alternation.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian AA / AAX, expanded setup',
+            details: 'Expanded touring configuration',
+            notes: 'Same Sabian relationship, expanded for larger touring productions.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Pearl double pedal',
+            details: 'Touring-grade double pedal',
+            notes: 'No significant change from the Control Denied era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A / 5B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo / Evans',
+            details: 'Mixed head brands for touring durability',
+            notes: 'Added Evans heads alongside Remo for touring durability.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 6800,
+          inflationAdjusted: 11200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Iced Earth in 2003 as touring and studio drummer',
+          'Recorded The Glorious Burden (2004) and the Overture of the Wicked EP (2006)',
+          'Setup expanded for larger touring productions',
+          'Left metal drumming in 2007 to focus on entertainment career at The Howard Stern Show',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'How did Richard Christy join Death?',
+        a: 'Richard Christy moved to Florida specifically to break into the death metal scene and was handpicked by Chuck Schuldiner after auditions to join Death and Control Denied in 1996, inheriting a drum chair previously held by Gene Hoglan.',
+      },
+      {
+        q: 'What drum kit did Richard Christy use on The Sound of Perseverance?',
+        a: 'Richard Christy used a Pearl Masters Custom maple shell pack — a deeper 22"x18" bass drum than typical for the era, plus 10"/12" rack toms and 14"/16" floor toms — paired with a seven-piece Sabian AA/AAX cymbal setup and a Pearl P-2002C PowerShifter Eliminator double pedal.',
+      },
+      {
+        q: 'Why is Richard Christy\'s drumming on The Sound of Perseverance considered so important?',
+        a: 'The Sound of Perseverance (1998) is Death\'s final studio album before Chuck Schuldiner\'s death in 2001, and is widely regarded as the most technically demanding death metal album ever recorded. Christy\'s performance — full takes with minimal punch-ins and dynamic range from blast beats to the delicate instrumental "Voice of the Soul" — is a benchmark of technical death metal drumming.',
+      },
+      {
+        q: 'Did Richard Christy keep playing drums after Death and Iced Earth?',
+        a: 'Richard Christy left metal drumming in 2007 after departing Iced Earth, transitioning to a career in entertainment as a writer and on-air personality for The Howard Stern Show. His Pearl/Sabian configuration remains the gear most closely associated with his eleven-year metal drumming career.',
+      },
+      {
+        q: 'What bands did Richard Christy play in?',
+        a: 'Richard Christy played in Death and Control Denied (1996–1999) alongside Chuck Schuldiner, then joined Iced Earth (2003–2007) as touring and studio drummer, and later formed his own progressive death metal band, Charred Walls of the Damned.',
+      },
+    ],
+
+    metaTitle: 'Richard Christy Gear Evolution Timeline | Death Drum Kit History',
+    metaDescription: 'Explore Richard Christy\'s complete drum gear evolution: the Pearl Masters Custom / Sabian AA rig he built with Death and Control Denied, the expanded seven-piece cymbal setup behind The Sound of Perseverance (1998), and his 2003–2007 Iced Earth touring years before leaving metal drumming for The Howard Stern Show.',
+  },
+
+  // ==========================================
+  // Kevin Talley - Dying Fetus / Misery Index / Six Feet Under (Drummer Evolution batch 22, Issue #3653)
+  // Pearl Export -> Pearl Masters Premium Legend
+  // ==========================================
+  'kevin-talley': {
+    slug: 'kevin-talley',
+    name: 'Kevin Talley',
+    band: 'Dying Fetus / Misery Index / Six Feet Under',
+    totalYearsActive: '1999-Present',
+    profileImage: '/images/drummers/kevin-talley.webp',
+    summary: 'Kevin Talley\'s polyrhythmic double-kick patterns on Dying Fetus\'s "Destroy the Opposition" (2000) — shifting between straight and triplet groupings at 200+ BPM — became a reference point for extreme metal drummers, built on a genuinely entry-level Pearl Export / Zildjian A / DW pedal rig rather than boutique hardware. Talley carried that same combination through Misery Index\'s "Retaliate" (2003) and "Discordia" (2006) and Dying Fetus\'s "War of Attrition" (2007), only later consolidating toward professional-tier gear during his Six Feet Under years and settling into his current Pearl Masters Premium Legend / Sabian AAX / Pearl Eliminator rig.',
+
+    eras: [
+      {
+        id: 'kevin-talley-1999-destroy-the-opposition',
+        era: 'Destroy the Opposition: Entry-Level Rig',
+        years: '1999–2002',
+        startYear: 1999,
+        endYear: 2002,
+        description: 'Talley joined Dying Fetus in 1999 and recorded "Destroy the Opposition" (2000) on a genuinely entry-level Pearl Export shell pack — a 6-piece double-kick configuration paired with a basic steel snare, Zildjian A/A Custom cymbals, and a standard DW double bass pedal. His polyrhythmic double-kick patterns, shifting between straight and triplet groupings at 200+ BPM while the snare held a separate pulse, became a reference point for extreme metal drummers — proof that the technical ceiling was set by technique, not equipment.',
+        albums: ['Destroy the Opposition (2000)'],
+        tours: ['Dying Fetus touring dates 1999–2002'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Export Series',
+            details: '6-piece double-kick shell pack; 22"x18" bass drum (x2), 10"x8"/12"x9" rack toms, 16"x14"/18"x16" floor toms',
+            notes: 'Entry-level shell pack rather than boutique hardware — the polyrhythmic technique carried the recording, not the gear tier.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Pearl steel snare 14"x6.5"',
+            details: 'Bright tuning',
+            notes: 'Basic steel snare, tuned bright to cut through Dying Fetus\'s dense guitar mix.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Zildjian A / A Custom Series',
+            details: '14" A Custom hi-hats, 16"/18" A Custom crashes, 20" A Medium ride, 18" A china',
+            notes: 'First fixed cymbal setup of Talley\'s career.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'DW double bass pedal',
+            details: 'Standard double bass pedal',
+            notes: 'Mechanical consistency mattered more to Talley\'s output than shell tier or custom finishes at this stage.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth 5B Hickory',
+            details: 'Standard 5B weight',
+            notes: 'Long-running Vic Firth relationship that continued unbroken through his entire career.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 (kick), Coated Ambassador (snare/toms)',
+            details: 'Standard Remo head package',
+            notes: 'Foundation head configuration for the Destroy the Opposition sessions.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 2846,
+          inflationAdjusted: 5414,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Dying Fetus in 1999, establishing an entry-level Pearl Export / Zildjian A / DW rig',
+          'Recorded Destroy the Opposition (2000) — a landmark polyrhythmic blast beat brutal death metal album',
+          'Polyrhythmic double-kick patterns at 200+ BPM became a reference point for extreme metal drummers',
+          'Demonstrated that the technical ceiling was set by technique, not equipment tier',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'kevin-talley-2003-misery-index-war-of-attrition',
+        era: 'Misery Index & War of Attrition',
+        years: '2003–2010',
+        startYear: 2003,
+        endYear: 2010,
+        description: 'Talley carried the same Pearl Export / Zildjian A / DW rig through Misery Index\'s "Retaliate" (2003) and "Discordia" (2006), and back into Dying Fetus for "War of Attrition" (2007) — refining touring reliability rather than upgrading gear tier across nearly a decade of extreme metal recording. This period represents the most documented touring configuration of Talley\'s DW-pedal era, spanning brutal death metal, grindcore-adjacent material, and a return to his original band.',
+        albums: ['Retaliate (2003)', 'Discordia (2006)', 'War of Attrition (2007)'],
+        tours: ['Misery Index touring dates 2003–2006', 'Dying Fetus War of Attrition touring 2007–2010'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Export Series',
+            details: 'Same 6-piece double-kick configuration',
+            notes: 'No change — the same entry-level rig carried across Misery Index and Dying Fetus recordings.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl steel snare 14"x6.5"',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A / A Custom Series',
+            details: 'Same configuration',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW double bass pedal',
+            details: 'Unchanged',
+            notes: 'Refined touring reliability rather than upgrading tier across this period.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5B Hickory',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Coated Ambassador',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2846,
+          inflationAdjusted: 4900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Recorded Misery Index\'s Retaliate (2003) and Discordia (2006) on the same Pearl/Zildjian/DW rig',
+          'Returned to Dying Fetus for War of Attrition (2007)',
+          'Most documented touring configuration of Talley\'s DW-pedal era',
+          'Prioritized touring reliability over gear tier upgrades across nearly a decade',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'kevin-talley-2010-six-feet-under',
+        era: 'Six Feet Under: Gear Consolidation',
+        years: '2010–2013',
+        startYear: 2010,
+        endYear: 2013,
+        description: 'Talley\'s 2010–2013 run with Six Feet Under, alongside session and touring work with Jungle Rot, marked the beginning of a gear consolidation toward Pearl Masters-tier hardware — moving up in shell construction while staying within the Pearl brand relationship he had held since Destroy the Opposition. This period bridges his entry-level Dying Fetus years and his current professional-tier setup, reflecting a broader pattern across Talley\'s catalog: as his profile grew across multiple prominent extreme metal bands, his gear investment gradually caught up to a career built almost entirely on technique rather than equipment.',
+        albums: ['Six Feet Under studio and touring material (2010–2013)'],
+        tours: ['Six Feet Under touring dates 2010–2013', 'Jungle Rot session/touring dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters-tier shell pack (transitional)',
+            details: 'Upgraded construction tier within the Pearl brand',
+            notes: 'Began the move from Pearl Export toward Pearl Masters-tier hardware without leaving the Pearl brand relationship.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Masters-tier snare (transitional)',
+            details: 'Upgraded construction',
+            notes: 'Upgraded snare tier alongside the shell pack transition.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Sabian AAX Series (transitional)',
+            details: 'Began the switch from Zildjian A to Sabian AAX',
+            notes: 'Switched cymbal brands during this consolidation period, ahead of settling into his current Sabian AAX setup.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Pearl double pedal (transitional)',
+            details: 'Began the switch from DW to Pearl hardware',
+            notes: 'Started the move toward the Pearl Eliminator double pedal used in his current setup.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4200,
+          inflationAdjusted: 6100,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Six Feet Under (2010–2013), alongside session/touring work with Jungle Rot',
+          'Began consolidating gear toward Pearl Masters-tier hardware',
+          'Started the transition from Zildjian A to Sabian AAX cymbals',
+          'Bridged his entry-level Dying Fetus years and his current professional-tier setup',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'kevin-talley-2020-current-setup',
+        era: 'Current Setup: Pearl Masters Premium Legend',
+        years: '2020–Present',
+        startYear: 2020,
+        endYear: 2026,
+        description: 'Talley\'s current setup — a Pearl Masters Premium Legend kit, Pearl Masters 14"x5.5" Maple snare, Sabian AAX cymbals, and a Pearl Eliminator double pedal — completed the upgrade path that began during his Six Feet Under years: a step up in build quality that stayed within the Pearl brand he first endorsed on Destroy the Opposition, still squarely professional-tier rather than custom or boutique gear.',
+        albums: ['Ongoing session and touring work (2020s)'],
+        tours: ['Dying Fetus and extreme metal session/touring dates (2020s)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masters Premium Legend',
+            details: 'Professional-tier shell pack',
+            notes: 'Completed the upgrade path from Pearl Export — a step up in build quality, not a brand change.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Pearl Masters 14"x5.5" Maple',
+            details: 'Maple shell',
+            notes: 'Upgraded from the original steel snare to a Masters-tier maple shell.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Sabian AAX Series',
+            details: '14" Stage Hi-Hats, 17"/18" X-Plosion Crashes, 20" Stage Ride',
+            notes: 'Completed the switch from Zildjian A begun during the Six Feet Under years.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Eliminator Double Pedal',
+            details: 'Direct-drive double pedal',
+            notes: 'Completed the switch from DW to Pearl hardware begun during the Six Feet Under years.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Unchanged',
+            notes: 'No change across Talley\'s entire career — the one constant since Destroy the Opposition.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5800,
+          inflationAdjusted: 5800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Completed the upgrade to Pearl Masters Premium Legend, Sabian AAX, and Pearl Eliminator double pedal',
+          'Upgrade path stayed within the Pearl brand across his entire career',
+          'Vic Firth American Classic 5B sticks remain unchanged since Destroy the Opposition',
+          'Current rig is professional-tier rather than custom or boutique gear',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit does Kevin Talley use?',
+        a: 'Kevin Talley currently plays a Pearl Masters Premium Legend kit with a Pearl Masters 14"x5.5" Maple snare, Sabian AAX cymbals, and a Pearl Eliminator double pedal. On Dying Fetus\'s 2000 breakthrough Destroy the Opposition, he played an entry-level Pearl Export shell pack with Zildjian A/A Custom cymbals and a DW double bass pedal.',
+      },
+      {
+        q: 'How did Kevin Talley achieve extreme blast beat speed on budget gear?',
+        a: 'Talley\'s 2000-era Destroy the Opposition rig cost roughly $2,846 — a genuinely entry-level configuration by extreme metal standards. His polyrhythmic double-kick technique, built on relaxed, rebound-efficient footwork rather than muscular power, meant the DW double bass pedal\'s mechanical consistency mattered more to his output than shell tier or custom finishes.',
+      },
+      {
+        q: 'Did Kevin Talley always play Pearl drums?',
+        a: 'Yes — Talley has played Pearl kits throughout his career, moving from an entry-level Pearl Export shell pack in his Destroy the Opposition-era Dying Fetus years, through a Pearl Masters-tier consolidation during his 2010–2013 Six Feet Under run, to his current Pearl Masters Premium Legend setup.',
+      },
+      {
+        q: 'What bands has Kevin Talley played drums for?',
+        a: 'Kevin Talley has drummed for Dying Fetus (1999–2002, and later reunions), Misery Index (2003–2006), Six Feet Under (2010–2013), and has done extensive session and touring work with other extreme metal acts including Jungle Rot and Chimaira.',
+      },
+      {
+        q: 'How much would Kevin Talley\'s Destroy the Opposition-era drum kit cost today?',
+        a: 'The original 2000 Pearl Export setup cost approximately $2,846. Adjusted for inflation to 2026 dollars, that\'s roughly $5,414 — reflecting the entry-level Pearl/Zildjian/DW rig Talley used on Dying Fetus\'s Destroy the Opposition, Misery Index\'s Retaliate, and Dying Fetus\'s War of Attrition.',
+      },
+    ],
+
+    metaTitle: 'Kevin Talley Gear Evolution Timeline | Dying Fetus Drum Kit History',
+    metaDescription: 'Explore Kevin Talley\'s complete drum gear evolution: the entry-level Pearl Export / Zildjian A / DW rig behind Dying Fetus\'s Destroy the Opposition (2000), the Misery Index and War of Attrition years, and the upgrade path to his current Pearl Masters Premium Legend / Sabian AAX setup.',
+  },
 };
 
 /**

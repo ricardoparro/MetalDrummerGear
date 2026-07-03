@@ -80,8 +80,22 @@ Modern setups often include additional splash and effects cymbals for electronic
 - Estimated kit value: $5,000-12,000 (full hybrid setup varies)
 - Estimated snare value: $300-500
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Igor Cavalera use currently?**
+
+A: Igor Cavalera currently uses a hybrid acoustic and electronic setup combining Tama and Pearl acoustic drums with Roland electronic pads. His acoustic configuration includes a 22x18 inch bass drum paired with a 20 inch electronic kick pad, rack toms in 10, 12, and 14 inches, floor toms in 16 and 18 inches, and maple or birch shells. He augments this with traditional Brazilian percussion including atabaque, surdo, timbales, and various hand drums, reflecting his ongoing interest in tribal and world music.
+
+**Q: What cymbals does Igor Cavalera use currently?**
+
+A: Igor Cavalera continues to use Paiste cymbals, drawing from the RUDE and 2002 series that he favored throughout his Sepultura career. His current setup includes Paiste RUDE 14 inch hi-hats, RUDE crashes ranging from 16 to 19 inches, a Paiste 2002 22 inch Ride, and a RUDE 18 inch China. The RUDE series remains central to his sound, providing the raw, aggressive character that suits his hard-hitting tribal metal approach.
+
+**Q: How much does Igor Cavalera's current kit cost?**
+
+A: Igor Cavalera's full hybrid setup is estimated at $5,000 to $12,000 depending on the specific Tama, Pearl, and Roland components chosen. Roland electronic drum pads and modules alone can account for $1,500 to $4,000 of that total. His snare options from Tama or Pearl run $300 to $500. A Paiste RUDE and 2002 cymbal setup adds roughly $2,000 to $3,500. Including tribal percussion instruments, a complete recreation of his current rig could exceed $15,000.
+
 **Source:** https://metalforge.io/articles/whats-in-igor-cavaleras-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

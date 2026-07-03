@@ -74,8 +74,22 @@ The 18" China provided the aggressive punctuation that death metal dynamics requ
 - Estimated kit value: $1,800-2,800 (2003)
 - Estimated snare value: $250-350 (2003)
 
+## Frequently Asked Questions
+
+**Q: What drums did Mario Duplantier use on The Link?**
+
+A: On Gojira's The Link (2003), Mario Duplantier played a Mapex Black Panther drum kit. The setup featured dual 22" x 18" bass drums — played as two independent instruments with separate pedals rather than a double-pedal mechanism — plus 10" and 12" rack toms and 14" and 16" floor toms. The Mapex Black Panther's maple/walnut shell construction gave the drums a punchy, focused attack well-suited to progressive death metal. This was Mario's first serious professional-grade kit, a step up from the lo-fi Terra Incognita setup and the precursor to the Tama Starclassic Performer he would use on From Mars to Sirius.
+
+**Q: How did Mario's setup differ between The Link and From Mars to Sirius?**
+
+A: Between The Link (2003) and From Mars to Sirius (2005), Mario Duplantier made two significant gear changes. First, he switched from the Mapex Black Panther kit to a Tama Starclassic Performer with birch/bubinga hybrid shells, which delivered a deeper, more resonant sound with greater sustain. Second, his cymbals changed from Paiste 2002s — a bright, forward-projecting series — to Zildjian K Custom Darks, which have a warmer, more complex harmonic character that defined the atmospheric passages on From Mars. The core configuration (dual bass drums, four toms, single pedals per kick) remained unchanged. The recording environment also changed dramatically: The Link used direct, close-miked recording in Bayonne, while From Mars benefited from the natural reverb of the Duplantiers' converted swimming pool studio.
+
+**Q: What cymbals does Mario Duplantier use on The Link?**
+
+A: Mario Duplantier used Paiste 2002 cymbals on Gojira's The Link (2003). His setup included 14" Sound Edge hi-hats, 17" and 19" crashes, a 20" ride, and an 18" China. The Paiste 2002 series is known for its bright, assertive, forward-projecting character — very different from the dark, complex Zildjian K Custom Darks Mario would later use on From Mars to Sirius. On The Link's rawer, more direct production, the 2002s' brightness was an advantage, cutting through the dense guitar arrangements without requiring mix assistance.
+
 **Source:** https://metalforge.io/articles/the-link-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

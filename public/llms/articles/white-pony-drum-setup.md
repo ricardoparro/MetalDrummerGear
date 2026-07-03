@@ -78,8 +78,22 @@ The China cymbal appears sparingly but effectively, adding aggression to key mom
 - Estimated kit value: $3,000-5,000 (2000 Starclassic Maple shell pack)
 - Estimated snare value: $300-500 (2000 era)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Abe Cunningham use on White Pony?**
+
+A: Abe Cunningham recorded White Pony in 2000 using a Tama Starclassic Maple kit. The setup featured a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms, all using all-maple shells with die-cast hoops. This configuration gave the Deftones' landmark album its warm, resonant low end combined with articulate tom attacks that complemented the record's dynamic shifts between ambient and aggressive sections.
+
+**Q: What cymbals did Abe Cunningham use on White Pony?**
+
+A: Abe Cunningham used a Zildjian A and K Series cymbal setup on White Pony. His rig included 14 inch A New Beat hi-hats, A Custom crashes in 16 and 18 inch sizes, a 20 inch K Custom Dark Ride for smoother, washy overtones, a 19 inch K Dark Thin Crash/Ride, and a 16 inch Oriental China Trash for sharp, aggressive accents. The mix of A and K series tones matched the album's tonal contrasts.
+
+**Q: How much does Abe Cunningham's White Pony kit cost?**
+
+A: The Tama Starclassic Maple kit Abe Cunningham used on White Pony was valued at approximately $3,000 to $5,000 new in 2000. A comparable used or new Tama Starclassic Maple setup today costs $3,500 to $5,500 for the shell pack. Adding a period-correct deep steel snare at $300 to $500 and a full Zildjian A and K cymbal setup brings the total to approximately $7,000 to $10,000.
+
 **Source:** https://metalforge.io/articles/white-pony-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

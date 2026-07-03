@@ -64,8 +64,30 @@ The crash configuration — 16", 18", 20" — gives Priester the graduated respo
 - Estimated kit value: $2,500–4,500 (Saturn Series shell pack, vintage used market)
 - Estimated snare value: $400–900 (depending on model)
 
+## Frequently Asked Questions
+
+**Q: What is Aquiles Priester's drum setup?**
+
+A: Aquiles Priester's classic era drum setup — the configuration on Angra's Temple of Shadows (2004) and Aurora Consurgens (2006) — was built around a Mapex Saturn Series kit (22" double bass drums, 10"/12"/13" rack toms, 16"/18" floor toms), Sabian HHX cymbals (14" hi-hats, multiple crashes, 21" ride, 18" China), and the Axis A double pedal. His current setup uses Trick Drums custom shells, Ufip cymbals, and a DW 9000 double pedal.
+
+**Q: What cymbals did Aquiles Priester use on Temple of Shadows?**
+
+A: Aquiles Priester used Sabian HHX cymbals throughout the Angra classic era (2000–2012), including the Temple of Shadows sessions. His HHX setup included 14" hi-hats, a range of crashes from 16" to 20", a 21" ride, and an 18" China. Sabian HHX cymbals use an unlathed top surface that produces a darker, more complex tone suited to Angra's orchestral arrangements.
+
+**Q: What double pedal did Aquiles Priester use with Angra?**
+
+A: Aquiles Priester used the Axis A Double Pedal during the Angra classic era, particularly for the Temple of Shadows and Aurora Consurgens recordings. The Axis A is renowned for its ultra-light longboard action and frictionless bearings, which enable the extreme double-bass speeds (180–220+ BPM) that characterize his playing on recordings like "Spread Your Fire." He later transitioned to DW pedals and currently uses the DW 9000.
+
+**Q: What drum kit did Aquiles Priester use on Rebirth?**
+
+A: Aquiles Priester used a Mapex Saturn Series kit for his early Angra recordings, including the Rebirth album (2001). The Saturn's maple/walnut hybrid shells provided the warm, focused tone suited to Angra's power metal arrangements. He later transitioned to Pearl Reference drums mid-era while maintaining the Sabian HHX cymbal endorsement throughout the classic period.
+
+**Q: Does Aquiles Priester still use Sabian cymbals?**
+
+A: Aquiles Priester used Sabian HHX cymbals throughout his Angra classic era (2000–2012). He later moved to Meinl Byzance cymbals during his W.A.S.P./Hangar focus years (2012–2022), and currently endorses Ufip cymbals for his Angra return. The Sabian HHX era is most associated with his most celebrated recordings on Temple of Shadows and Aurora Consurgens.
+
 **Source:** https://metalforge.io/articles/aquiles-priester-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

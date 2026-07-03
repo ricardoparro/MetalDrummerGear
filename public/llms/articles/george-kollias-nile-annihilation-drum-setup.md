@@ -73,8 +73,30 @@ The 18" Byzance China added the aggressive, trashy accent texture that punctuate
 - Estimated kit value: $3,500–5,000 (Starclassic Maple shell pack, 2005)
 - Estimated snare value: $300–450 (steel snare, 2005 era)
 
+## Frequently Asked Questions
+
+**Q: How fast does George Kollias play?**
+
+A: George Kollias is Guinness World Record-certified for sustaining 280 BPM single strokes on the bass drum — the fastest verified speed in metal drumming history. On Nile's 'Annihilation of the Wicked' (2005), the debut album that announced him to the metal world, he sustains blast beats consistently above 240 BPM across entire tracks. What sets Kollias apart is not merely reaching 280 BPM momentarily but sustaining that speed with clarity and even dynamics — a distinction that makes him unique among extreme metal drummers. See his full profile: [George Kollias at MetalForge](/drummer/george-kollias).
+
+**Q: What drums does George Kollias use?**
+
+A: During the Annihilation of the Wicked sessions (2005), George Kollias played a Tama Starclassic Maple kit with a double 22" kick drum setup. His current setup is a Pearl Masterworks Stadium Exotic kit — the result of a long endorsement and co-design partnership with Pearl. Both setups share the same philosophy: maple-heavy shells for warmth and projection, double kick for independent control per foot, and compact tom configurations for reach efficiency at extreme speeds. Full current setup breakdown: [George Kollias complete kit article](/articles/whats-in-george-kollias-kit).
+
+**Q: What pedals does George Kollias use?**
+
+A: For 'Annihilation of the Wicked,' George Kollias used the DW 9002 double bass drum pedal — a chain-drive system known for smooth, consistent action and extensive adjustability. He later co-designed the Pearl Demon XR double pedal, engineered specifically for his requirements at 280 BPM. The Demon XR's NiNjA Bearing Universal Joint and Click-Lock spring tension system address the mechanical demands he identified during years of performing Annihilation-era material live. The DW 9002 remains the accessible starting point for drummers studying his early technique.
+
+**Q: What makes George Kollias unique among extreme metal drummers?**
+
+A: Three things distinguish George Kollias from every other claimant to 'fastest metal drummer.' First, Guinness World Record certification: his 280 BPM single strokes are officially verified, not self-reported. Second, sustained performance: he maintains 240–280 BPM across entire tracks and sets, not burst-only peaks. Third, educational transparency: his 'Intense Metal Drumming' instructional DVDs and worldwide clinics open-source his technique — he teaches exactly how he achieves his speed rather than guarding the methodology. Study his blast beat approach: [Blast beats — drummers who mastered the technique](/technique/blast-beats/drummers).
+
+**Q: What is Nile's 'Annihilation of the Wicked' and why does it matter for drum technique?**
+
+A: 'Annihilation of the Wicked' (2005, Relapse Records) is Nile's fourth studio album and George Kollias's debut with the band. It is widely considered a landmark in extreme metal drumming — the first album to demonstrate that 240–260 BPM blast beats could be sustained with complete clarity across a professional studio recording. Tracks like 'Cast Down the Heretic,' 'Lashed to the Wicked,' and 'User-Maat-Re' are still studied by extreme metal drummers as benchmarks for speed, endurance, and polyrhythmic complexity. Decibel Magazine inducted it into their Hall of Fame. For a comparison with Flo Mounier — another speed-focused extreme metal drummer — see: [George Kollias vs Flo Mounier](/vs/george-kollias-vs-flo-mounier).
+
 **Source:** https://metalforge.io/articles/george-kollias-nile-annihilation-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

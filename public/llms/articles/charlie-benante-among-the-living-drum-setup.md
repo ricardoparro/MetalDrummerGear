@@ -73,8 +73,26 @@ The 18" China cymbal provided the explosive, trashy accents that are a signature
 - Estimated kit value: $2,000-3,000 (1987 era)
 - Estimated snare value: $200-300 (1987 era)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Charlie Benante use on Among the Living?**
+
+A: Charlie Benante used a Tama Artstar II kit on Among the Living (1987). The setup included dual 22" bass drums, three rack toms (10", 12", 13"), and two floor toms (14" and 16") with birch shells and die-cast hoops. This configuration directly supported his pioneering double bass technique that became a hallmark of Anthrax's thrash sound.
+
+**Q: What is Charlie Benante's drum setup?**
+
+A: Charlie Benante's drum setup on Among the Living consisted of a Tama Artstar II kit with dual 22" bass drums, Paiste 2002 cymbals (including 14" Sound Edge hi-hats and an 18" China), a Tama steel snare, and the legendary Tama HP35 Camco pedals he used from 1984 to 2010. In modern use he plays Tama Starclassic Maple, Paiste cymbals, and Vic Firth Charlie Benante Signature sticks.
+
+**Q: What gear did the Anthrax drummer use on Among the Living?**
+
+A: Anthrax drummer Charlie Benante used Tama Artstar II drums, Paiste 2002 cymbals, and Tama HP35 Camco bass drum pedals on Among the Living. The album was produced by Eddie Kramer at Kajem/Victory Studios in 1987. Benante's double bass patterns — particularly on "Caught in a Mosh," "I Am the Law," and "Indians" — are considered among the finest thrash drumming performances of the 1980s.
+
+**Q: What is the drum setup on Among the Living?**
+
+A: The drum setup on Among the Living features Charlie Benante's Tama Artstar II kit with dual 22" bass drums, multiple rack and floor toms, Paiste 2002 cymbals, and a Tama steel snare. Produced by Eddie Kramer, the recording gave the drums more room and ambience than typical thrash albums of the era, resulting in a sound that feels live and powerful rather than purely dead and close-miked.
+
 **Source:** https://metalforge.io/articles/charlie-benante-among-the-living-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -21,7 +21,7 @@ This article explores the gear Abe used during the Koi No Yokan sessions, the te
 
 ## Gear Breakdown
 
-- **Drums:** Tama Tama Starclassic Bubinga / Birch hybrid (Custom dark finish)
+- **Drums:** Tama Tama Starclassic Bubinga / Birch hybrid (Custom dark finish finish)
 - **Snare:** Tama Tama Bell Brass 14"x6.5" / Tama Starphonic Brass, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX Series
 - **Hardware / Pedals:** Tama Speed Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Vic Firth Signature / 5B-equivalent
@@ -78,8 +78,22 @@ The 18" HHX Chinese gets a few standout moments, particularly on "Poltergeist" a
 - Estimated kit value: $3,500-5,500 (Starclassic Bubinga/Birch shell pack, 2012 era)
 - Estimated snare value: $500-900 (Tama Bell Brass / Starphonic Brass, 2012 era)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Abe Cunningham use on Koi No Yokan?**
+
+A: Abe Cunningham recorded Koi No Yokan in 2011-2012 using the same Tama Starclassic kit with bubinga/birch hybrid shells he had used on Diamond Eyes. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. By 2012, this kit had become the dialed-in foundation of the modern Deftones drum sound.
+
+**Q: Who played bass on Koi No Yokan?**
+
+A: Sergio Vega (ex-Quicksand) played all the bass on Koi No Yokan, his second consecutive Deftones studio album. Original bassist Chi Cheng was still credited as a band member on the record, but he remained in a semi-comatose state following his 2008 accident and passed in April 2013. Koi No Yokan is the final Deftones album to credit Cheng.
+
+**Q: Did Abe Cunningham use double bass on Koi No Yokan?**
+
+A: No. Abe Cunningham is a documented single-kick player, and Koi No Yokan uses no double bass drumming. The album's heaviest moments — including "Leathers," "Tempest," and "Poltergeist" — derive their weight from pocket, dynamics, and the locked-in interplay between Abe's single 22-inch kick and Sergio Vega's bass guitar.
+
 **Source:** https://metalforge.io/articles/koi-no-yokan-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-26 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -74,8 +74,22 @@ The 21" Byzance Traditional Ride is a signature choice for Grossmann's prog-deat
 - Estimated kit value: $4,500–8,000 (DW Collectors Series shell pack, custom configuration)
 - Estimated snare value: $400–700 (DW Collectors snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Hannes Grossmann use?**
+
+A: Hannes Grossmann plays a DW Collectors Series drum kit. The Collectors Series is DW's flagship production line — custom-built North American maple shells with precisely specified bearing edges and ply configurations that give him the acoustic precision his technical and compositional demands require. His configuration runs double 22" bass drums for symmetrical two-footed patterns, two rack toms (10" and 12"), and two floor toms (14" and 16") covering the melodic fill range his progressive arrangements demand. The DW Collectors construction provides the articulate attack and controlled sustain that Obscura's and Alkaloid's dense progressive arrangements require. For Grossmann's complete career profile: [Hannes Grossmann at MetalForge](/drummer/hannes-grossmann).
+
+**Q: What makes Hannes Grossmann's technique unique?**
+
+A: Hannes Grossmann's technique is distinguished by three characteristics that operate simultaneously: his open-handed hi-hat grip, his classical-percussion-trained dynamic control, and his compositional approach to drum parts. The open-handed technique — playing hi-hat with his right hand without crossing over the left — preserves independent dynamic control of both hands, allowing the velocity precision that his ghost note-dense progressive playing demands. His formal classical percussion training gives him a dynamic vocabulary with precise gradations, producing drumming where ghost notes, medium-accented strokes, and full-force impacts coexist within the same phrase with musical intention. And his producer and composer's perspective means his drum parts are composed to serve the overall arrangement — melodic fills, structural polyrhythm, and dynamic arc — rather than existing as technical demonstrations parallel to the music.
+
+**Q: What cymbals does Hannes Grossmann use?**
+
+A: Hannes Grossmann plays Meinl Byzance cymbals. His setup includes Meinl Byzance 14" Traditional Hi-Hats — warm, complex, and articulate for his open-handed hi-hat technique at high pattern densities — Meinl Byzance 18" and 19" Brilliant Crash cymbals for accent work, and a Meinl Byzance 21" Traditional Ride for the dark, controlled wash that Obscura's and Alkaloid's progressive arrangements require. The Byzance series' hand-hammered B20 bronze construction produces harmonically rich, warm voicing that integrates naturally in dense progressive metal mixes rather than fighting for attention against the harmonic complexity of guitar and bass parts. For more on his complete gear setup: [Hannes Grossmann at MetalForge](/drummer/hannes-grossmann).
+
 **Source:** https://metalforge.io/articles/hannes-grossmann-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

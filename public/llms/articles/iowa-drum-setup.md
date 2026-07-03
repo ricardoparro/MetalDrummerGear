@@ -71,8 +71,22 @@ The massive 22" Power Ride could withstand Joey's aggressive playing while provi
 - Estimated kit value: $6,000-8,000 (2001)
 - Estimated snare value: $450-550 (2001)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Joey Jordison use on Iowa?**
+
+A: Joey Jordison recorded Iowa in 2001 using a Pearl Masterworks Custom kit with maple and African mahogany hybrid shells. The setup featured two 22x18 inch bass drums, four rack toms from 8 to 14 inches, and 16x16 and 18x16 inch floor toms. His snare was the Pearl Joey Jordison Signature model at 13x6.5 inches. The smaller 13 inch snare diameter gave his backbeat a tight, focused crack that cut through Slipknot's dense, layered percussion and guitar wall.
+
+**Q: What cymbals did Joey Jordison use on Iowa?**
+
+A: Joey Jordison used a combination of Paiste RUDE and 2002 Series cymbals on Iowa. The setup included Paiste 2002 14 inch Wild Hi-Hats, Paiste RUDE Wild Crashes ranging from 16 to 19 inches, a Paiste 2002 22 inch Power Ride, Paiste RUDE 20 and 22 inch Wild Chinas, and a Paiste RUDE 10 inch Splash. The unlathed RUDE cymbals delivered an aggressive, trashy wash that matched the chaotic and extreme nature of the Iowa recording.
+
+**Q: How much does Joey Jordison's Iowa kit cost?**
+
+A: Joey Jordison's Pearl Masterworks Custom setup for Iowa would have cost approximately $6,000 to $8,000 in 2001. The Pearl Joey Jordison Signature snare added another $450 to $550 at the time. Pearl Masterworks custom kits today start around $6,000 and can exceed $12,000 depending on configuration and finish. The Paiste RUDE cymbal lineup Jordison used, including multiple crashes and chinas, would cost between $2,000 and $3,500 to replicate new today.
+
 **Source:** https://metalforge.io/articles/iowa-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

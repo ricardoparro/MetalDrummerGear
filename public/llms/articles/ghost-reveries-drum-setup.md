@@ -70,8 +70,26 @@ The China cymbal remained a precision tool rather than a constant presence — d
 - Estimated kit value: $4,500-6,500 (2005) / $5,000-7,500 (comparable setup today)
 - Estimated snare value: $500-700
 
+## Frequently Asked Questions
+
+**Q: What drums did Martin Lopez use on Ghost Reveries?**
+
+A: On Opeth's Ghost Reveries (2005), Martin Lopez played a Pearl Reference kit with a 22" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms, paired with a Pearl Reference maple/birch snare. This was a step up from the Pearl Masters Premium kit he used on [Deliverance](/articles/deliverance-drum-setup), and the restored 22" kick brought back the full low-end presence of his earlier [Blackwater Park](/articles/blackwater-park-drum-setup) setup.
+
+**Q: Why did Martin Lopez leave Opeth after Ghost Reveries?**
+
+A: Martin Lopez left Opeth in 2006, during the touring cycle for Ghost Reveries, due to a worsening panic disorder that made sustained touring increasingly difficult. Ghost Reveries turned out to be his final studio album with the band — Martin Axenrot took over the drum chair for Watershed (2008). Lopez has since spoken openly about his mental health struggles, and he returned to recording in 2010 with the band Soen. See the [Martin Lopez drummer profile](/articles/martin-lopez-drum-setup) for his full career arc.
+
+**Q: How does the drumming on Ghost Reveries differ from Blackwater Park?**
+
+A: Ghost Reveries returns to the full dynamic range that defined [Blackwater Park](/articles/blackwater-park-drum-setup) after the more compressed extremity of [Deliverance](/articles/deliverance-drum-setup), but it integrates that range within single tracks rather than across an album's arc. Where Blackwater Park alternated between brutal and acoustic sections song by song, tracks like "Ghost of Perdition" move through blast beats, syncopated grooves, and hushed acoustic passages within one nine-minute piece. The gear reflects this synthesis too: a Pearl Reference kit and Paiste Signature cymbals that combine the punch Lopez developed on Deliverance with the tonal complexity of his earlier Sabian-and-Sonor Blackwater Park setup.
+
+**Q: What cymbals did Martin Lopez use on Ghost Reveries?**
+
+A: Martin Lopez used Paiste Signature series cymbals on Ghost Reveries, including 14" Dark Crisp Hi-Hats, 16" and 18" Full Crashes, a 20" Full Ride, and an 18" China. This was a shift from the brighter Paiste 2002 series he used on Deliverance toward a darker, more harmonically complex voice suited to the album's frequent moves between death metal aggression and acoustic, Mellotron-laden passages.
+
 **Source:** https://metalforge.io/articles/ghost-reveries-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

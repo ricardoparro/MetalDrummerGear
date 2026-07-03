@@ -84,8 +84,30 @@ The key insight: Bill's large cymbals weren't about volume. They were about sust
 - Estimated kit value: $1,500-3,000 (1970s) / $4,000-12,000 (vintage today)
 - Estimated snare value: $300-400 (1970s) / $500-800 (vintage today)
 
+## Frequently Asked Questions
+
+**Q: Why didn't Bill Ward play on the "13" album or The End tour?**
+
+A: Bill has cited "unsignable" contract terms as the reason. He released public statements in 2012 expressing desire to participate but stated the contract offered didn't respect his contributions to the band. The exact details remain disputed between parties. Tommy Clufetos (Ozzy's solo drummer) filled in for the album and tour.
+
+**Q: Did Bill Ward use double bass?**
+
+A: No. Bill played single bass drum throughout his career. His power and speed came from single-stroke technique refined through jazz training. This is remarkable given the heavy music he played — most metal drummers today consider double bass essential.
+
+**Q: What is open-handed drumming and why did Bill play that way?**
+
+A: Open-handed drumming means leading with your weaker hand on the hi-hat (for a right-handed player, this means left hand on hi-hat, right on snare). Bill played this way despite using a right-handed kit setup. This gave him unique access to fills and grooves that cross-handed drummers can't easily replicate.
+
+**Q: Is Bill Ward in the Rock and Roll Hall of Fame?**
+
+A: Yes. Bill Ward was inducted as part of Black Sabbath in 2006. All four original members — Ozzy, Tony, Geezer, and Bill — received the honor, recognizing their foundational role in creating heavy metal.
+
+**Q: What drummers cite Bill Ward as an influence?**
+
+A: Virtually every metal drummer owes a debt to Bill Ward, whether direct or indirect. Drummers who've specifically cited his influence include Lars Ulrich (Metallica), Dave Lombardo (Slayer), Danny Carey (Tool), and Vinnie Paul (Pantera). The jazz-influenced, groove-heavy approach he pioneered became the template for heavy rock drumming.
+
 **Source:** https://metalforge.io/articles/whats-in-bill-wards-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

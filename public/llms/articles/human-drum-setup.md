@@ -77,8 +77,22 @@ The crash cymbals were musical instruments, not just noise makers. Reinert chose
 - Estimated kit value: $2,500-3,500 (1991)
 - Estimated snare value: $300-450 (1991)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Sean Reinert use on Human in 1991?**
+
+A: Sean Reinert recorded Death's Human in 1991 using a Tama Artstar II kit with birch shells. His configuration included a 22x16 inch bass drum, 10, 12, and 13 inch rack toms, and a 16 inch floor tom. The Artstar II was Tama's top professional line at the time, valued for its attack and sensitivity. Reinert's jazz-influenced technique on this kit helped define the album's uniquely fluid and technical death metal drumming.
+
+**Q: What cymbals did Sean Reinert use on Human in 1991?**
+
+A: Sean Reinert used a mix of Zildjian A and K series cymbals on Human. His setup included Zildjian A 14 inch Quick Beat Hi-Hats, Zildjian A 16 and 18 inch Crashes, a Zildjian K 20 inch Custom Dry Ride, a Zildjian 16 inch China, and a Zildjian A 10 inch Splash. The K Custom Dry Ride in particular contributed to the album's nuanced, complex cymbal tones that set Human apart from typical death metal productions of the era.
+
+**Q: How much does Sean Reinert's Human kit cost today?**
+
+A: Sean Reinert's Tama Artstar II kit retailed for approximately $2,500 to $3,500 when new in 1991. Today, vintage Artstar II shells in good condition sell for $1,500 to $3,000 on the used market depending on configuration and condition. His Zildjian A and K series cymbals are still in production, with a comparable new cymbal setup running $1,200 to $2,000. Collectors seeking the exact vintage pieces can expect a premium for well-preserved examples.
+
 **Source:** https://metalforge.io/articles/human-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

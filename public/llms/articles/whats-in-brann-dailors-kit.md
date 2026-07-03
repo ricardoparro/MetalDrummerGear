@@ -82,8 +82,22 @@ Perhaps most telling is his China cymbal choice — the Byzance Brilliant China.
 - Estimated kit value: $6,000-9,000 (Collector's Series configuration)
 - Estimated snare value: $600-900 (Collector's aluminum snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Brann Dailor use?**
+
+A: Brann Dailor plays a DW Collector's Series kit with North American Hard Rock Maple shells. His setup features a single 22x18 inch bass drum, rack toms at 10, 12, and 13 inches, and a 16 inch floor tom. The DW Collector's Series is fully customizable from the factory and is known for its warm, resonant maple tone, which suits Dailor's melodic and technically demanding approach as Mastodon's drummer and vocalist.
+
+**Q: What cymbals does Brann Dailor use?**
+
+A: Brann Dailor uses Meinl Byzance series cymbals across his entire setup. Key pieces include 14 inch Byzance Traditional Medium Hi-Hats, Byzance crashes from 18 to 20 inches, a 22 inch Byzance Traditional Medium Ride, and an 18 inch Byzance Brilliant China. The Byzance series is hand-hammered in Turkey and known for its dark, complex, and expressive tone, which complements Dailor's musical and nuanced playing within Mastodon's progressive metal framework.
+
+**Q: How much does Brann Dailor's drum kit cost?**
+
+A: A DW Collector's Series kit configured to Dailor's specifications with Hard Rock Maple shells runs between $6,000 and $9,000. His DW Collector's Series aluminum snare drum adds approximately $600 to $900. A matching Meinl Byzance cymbal setup comparable to his will add another $1,500 to $2,500. Total estimated cost to replicate his full Mastodon setup is in the range of $8,100 to $12,400.
+
 **Source:** https://metalforge.io/articles/whats-in-brann-dailors-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

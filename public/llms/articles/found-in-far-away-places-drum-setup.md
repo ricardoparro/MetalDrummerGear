@@ -1,13 +1,11 @@
 # Found in Far Away Places Drum Setup: Matt Greiner's Pearl Reference Pure Kit (2015)
 
-> Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Gold-certified Found in Far Away Places (2015). Complete breakdown of the Pearl Reference Pure kit, Meinl Byzance cymbals, Pearl Demon Drive double pedal, and the polyrhythmic technique behind ABR's most commercially successful album.
+> Discover the exact drum kit, cymbals, and gear Matt Greiner used on August Burns Red's Gold-certified Found in Far Away Places (2015). Complete breakdown of the Pearl Reference Pure kit, Meinl Byzance cymbals, Pearl Demon Drive pedal, and the polyrhythmic technique behind ABR's most commercially successful album.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Matt Greiner](/llms/drummers/matt-greiner.md)
 **Band / Album:** August Burns Red — *Found in Far Away Places* (2015)
 **Genre:** Metalcore
-**Certification:** Gold (RIAA)
-**Chart:** #1 US Christian Albums
 
 ## Overview
 
@@ -17,103 +15,80 @@ By 2015, Greiner had fully transitioned from the Ludwig Classic Maple kit of the
 
 Tracks like "Ghosts" and the title track gave Greiner space to demonstrate the full range of his technical vocabulary — blast beat sequences that transition seamlessly into polyrhythmic groove patterns, ghost note layers that add texture beneath heavy riff sections, and the odd-meter facility that has always distinguished his playing from the straight-ahead approach of lesser metalcore drummers. *Found in Far Away Places* is the album where Greiner's Pearl era crystallized.
 
+The Gold RIAA certification and commercial peak were not achieved by softening the band's approach. *Found in Far Away Places* is a demanding record, rhythmically and technically. Greiner's drumming is the reason it works — providing the precise, powerful foundation that allows ABR's melodic ambitions and technical complexity to coexist.
+
 ## Gear Breakdown
 
-- **Drums:** Pearl Reference Pure (maple/mahogany hybrid shells)
-- **Configuration:** Dual 22" x 18" bass drums, 10" x 7" and 12" x 8" rack toms, 16" x 16" floor tom
-- **Snare:** Pearl Matt Greiner Signature, 14" x 6" steel shell
-- **Cymbals:** Meinl Byzance Traditional series
-- **Pedals:** Pearl Demon Drive Double Pedal
-- **Hi-Hat Stand:** Pearl H-2050 Demon Hi-Hat Stand
-- **Throne:** Roc-N-Soc Nitro Throne
-- **Sticks:** Vic Firth Matt Greiner Signature (updated spec)
-- **Heads:** Remo Powerstroke 3 (kick batter), Remo Ambassador Coated (toms/snare batter), Remo Ambassador Snare Side (resonant)
+- **Drums:** Pearl Pearl Reference Pure (Custom wrap / lacquer finish finish)
+- **Snare:** Pearl Pearl Matt Greiner Signature, 14" x 6"
+- **Cymbals:** Meinl — Meinl Byzance
+- **Hardware / Pedals:** Pearl Demon Drive Double Pedal; Pearl H-2050 Demon Hi-Hat Stand; Roc-N-Soc Nitro Throne; Vic Firth Matt Greiner Signature (updated spec)
+- **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
 - **Snare tuning:** Medium-high tension — bright steel attack with controlled warmth
 
-### Pearl Reference Pure: The 2015 Kit
+### Matt's 2015 Kit: Pearl Reference Pure
 
 The Pearl Reference Pure represents a significant departure from the Ludwig Classic Maple that Greiner used on *Leveler*. Where Ludwig's 6-ply maple shell delivered warmth and vintage complexity, the Reference Pure's maple/mahogany hybrid construction produces a tighter, more focused tone — greater articulation, faster attack, and a more pronounced fundamental that suits modern metalcore's precision-forward production aesthetic.
 
-Pearl's Reference Pure shells use a combination of North American maple and African mahogany that balances the brightness of pure maple with the warmth that mahogany contributes. The result is a drum that cuts through a modern metal mix with definition while retaining enough body to avoid the harsh, clinical sound that pure birch shells can produce.
+Pearl's Reference Pure shells use a combination of North American maple and African mahogany that balances the brightness of pure maple with the warmth that mahogany contributes. The result is a drum that cuts through a modern metal mix with definition while retaining enough body to avoid the harsh, clinical sound that pure birch shells can produce. For *Found in Far Away Places*' polished production, the Reference Pure was the ideal choice.
 
-The double bass drum configuration remained essential — Greiner's lever-driven technique demands two fully independent bass drums delivering equal attack. The 22" size provided deep low-end fundamental without sacrificing response speed for polyrhythmic patterns.
+The double bass drum configuration remained essential. Greiner's lever-driven technique — the mechanical efficiency that generates explosive kick speed through controlled ankle and calf mechanics — required two fully independent bass drums delivering equal attack and punch. The 22" size provided the deep low-end fundamental that *Found in Far Away Places*' heaviest sections demanded without sacrificing the response speed his polyrhythmic patterns required.
 
-### Pearl Matt Greiner Signature Snare
+The compact rack tom layout continued Greiner's preference for compositional fills over sweeping kit-wide runs. The Pearl Reference Pure's superior tom-to-tom consistency — each shell machined to the same specification — meant that fills across both rack toms maintained even attack and sustain, an audible improvement over earlier setups.
 
-By the *Found in Far Away Places* era, Greiner was playing his own Pearl signature snare — a 14" x 6" steel-shell drum designed to maximize ghost note sensitivity without sacrificing crack and projection. The steel shell provides the bright, cutting attack that metalcore's dense guitar textures require, while the 6" depth adds body and volume.
+### The 2015 Snare: Pearl Matt Greiner Signature
 
-The custom bearing edge was tuned to deliver the full dynamic range audible on "Ghosts" and "Majoring in the Minors," where Greiner alternates between thunderous accent strokes and intricate ghost note passages within single bars.
+By the *Found in Far Away Places* era, Matt Greiner was playing his own Pearl signature snare — a 14" x 6" steel-shell drum designed in collaboration with Pearl to match his precise technical demands. The steel shell provides the bright, cutting attack that metalcore's dense guitar textures require, while the 6" depth adds body and projection that shallower drums lack at high volumes.
 
-### Meinl Byzance Traditional Cymbal Setup
+The Pearl Matt Greiner Signature snare's custom bearing edge — the angle at which the drumhead contacts the shell — was tuned to maximize Greiner's ghost note sensitivity without sacrificing the crack that his power accents require. This balance is critical to his playing: a snare that only delivers crack loses the subtle dynamics; a snare tuned for sensitivity loses the projection. The custom specification resolved that tension.
 
-| Type | Model | Position |
-|------|-------|----------|
-| Hi-Hats | Meinl Byzance Traditional 14" Medium Hi-Hats | Left side |
-| Crash | Meinl Byzance Traditional 16" Medium Thin Crash | Left of hi-hats |
-| Crash | Meinl Byzance Traditional 18" Medium Crash | Right side |
-| Ride | Meinl Byzance Traditional 20" Medium Ride | Far right |
-| China | Meinl Byzance Traditional 18" China | Above floor tom |
+On *Found in Far Away Places*, the signature snare's character is audible in tracks like "Ghosts" and "Majoring in the Minors," where Greiner alternates between thunderous accent strokes and intricate ghost note passages within single bars. The steel shell's wide dynamic response — from barely audible grace notes to full-velocity backbeats — is what makes that kind of playing possible without switching instruments.
 
-The shift from Paiste 2002 to Meinl Byzance brought a more controlled, precise decay compared to the warmer, sustained Paiste bronze. The Byzance B20 alloy complements the Reference Pure's articulate shell character — both are calibrated for precision over warmth, reflecting the modern metalcore production aesthetic of *Found in Far Away Places*.
+Greiner typically tunes the signature snare at medium-high tension on the batter head, providing both projection and a degree of warmth that prevents the steel shell from sounding harsh in mix contexts with heavily compressed guitars.
 
-### Pearl Demon Drive Double Pedal
+### Meinl Byzance: The Modern Voice of the FIAFAP Sessions
 
-The Pearl Demon Drive's shaft-driven mechanism differs from the DW 9000's cam-driven system Greiner used on *Leveler*: more linear response, less spring-back resistance, suited to the lever-based efficiency of his double bass technique. Adjustable beater angle and stroke length allowed him to calibrate the mechanical feel to his precise requirements.
+The shift from Paiste 2002 cymbals (the *Leveler* era) to Meinl Byzance brought a different tonal character to Greiner's setup by the *Found in Far Away Places* sessions. Where the Paiste 2002's CuSn8 bronze produced a warmer, more complex sound with extended sustain, the Meinl Byzance's B20 bronze alloy delivers greater precision and a more controlled decay — qualities that complement the tighter, more modern production aesthetic of *Found in Far Away Places*.
 
-## Key Tracks
+The Byzance Traditional series — Greiner's primary choice — uses a hand-hammered, lathed finish that preserves bronze complexity while tightening the overall response compared to darker, unlathed Byzance variants. The result is a cymbal that sounds sophisticated but cuts clearly through dense guitar arrangements without the woolliness that some vintage-influenced cymbals introduce in modern metal mixes.
 
-**"Ghosts"** — Fan-voted highlight. Extended polyrhythmic passages with kick, snare, and hi-hat operating across independent rhythmic cycles simultaneously. Ghost note density beneath the main groove adds textural complexity rarely achieved in metalcore.
+The Byzance hi-hats' controlled response was central to Greiner's rhythmic precision on *Found in Far Away Places*. Songs like "Ghosts" and "Invisible Enemy" feature hi-hat patterns with fast tempo changes and accent variations — the Byzance's precise stick response meant those variations translated clearly rather than blurring into the mix. Cymbal choice at this technical level is not peripheral; it's structural.
 
-**"Found in Far Away Places"** — Title track. Dynamic contrasts between blast beat intensity and cleaner, open rhythmic sections. Crash cymbal placement functions compositionally — each hit marks a structural musical moment.
-
-**"Majoring in the Minors"** — Ghost note integration most prominent. Jazz-informed dynamic range: grace notes barely audible through full-velocity backbeats, all within the same bar.
-
-**"Invisible Enemy"** — Most aggressive track on the album. Metric displacement creates rhythmic tension before resolution. Pearl Demon Drive consistency audible across extended high-tempo double-bass passages.
+The China cymbal provided the aggressive, trashy accent character that metalcore's most intense moments demand. Greiner's China usage on *Found in Far Away Places* is deliberate and compositional — each hit lands at a specific musical moment, giving the accent maximum impact through careful placement rather than constant deployment.
 
 ## Key Facts
 
-- Released July 24, 2015 on Fearless Records — ABR's most commercially successful album
-- Certified Gold (RIAA) — the band's highest RIAA certification to that point
-- #1 US Christian Albums chart
-- Matt Greiner played Pearl Reference Pure — tighter, more articulate than the Ludwig Classic Maple of Leveler
-- Meinl Byzance Traditional cymbals replaced the Paiste 2002 series for a more controlled, precise decay
-- Pearl Demon Drive replaced the DW 9000 — shaft-driven mechanism calibrated to Greiner's lever technique
-- Pearl Matt Greiner Signature snare (14" x 6" steel) — custom bearing edge for full dynamic range
+- Released July 24, 2015 on Fearless Records — ABR's most commercially successful album, certified Gold (RIAA)
+- #1 US Christian Albums chart — ABR's highest chart position at that point in their career
+- Matt Greiner's Pearl Reference Pure era — maple/mahogany hybrid shells, tighter and more articulate than the Ludwig Classic Maple of Leveler
+- "Ghosts" and the title track showcase Greiner's complete technical vocabulary: blast beats, polyrhythms, and ghost note density
+- Pearl Reference Pure: maple/mahogany hybrid delivers tighter attack and greater articulation than the Ludwig maple era
+- Double 22" bass drums: sustained lever-driven technique demands two independent, matched bass drums
+- Pearl endorsement solidified by 2015 — Greiner's setup was fully integrated with Pearl hardware across the board
+- Compact tom configuration (10", 12" rack, 16" floor) encourages compositional fill choices over linear kit sweeps
 - Estimated kit value: $3,500–5,500 (2015) / $2,500–4,000 (used today)
-- Estimated cymbal value: $1,800–2,500 full Byzance setup (2015)
+- Estimated snare value: $400–600 (2015) / $300–500 (used today)
 
-## Gear Evolution: Leveler to Found in Far Away Places
+## Frequently Asked Questions
 
-| Category | Leveler (2011) | Found in Far Away Places (2015) |
-|----------|----------------|----------------------------------|
-| Kit | Ludwig Classic Maple (6-ply maple) | Pearl Reference Pure (maple/mahogany hybrid) |
-| Snare | Ludwig Acrolite / Supraphonic aluminum | Pearl Matt Greiner Signature 14" x 6" steel |
-| Cymbals | Paiste 2002 (CuSn8 bronze) | Meinl Byzance Traditional (B20 bronze) |
-| Pedals | DW 9000 Double Pedal | Pearl Demon Drive Double Pedal |
-| Sticks | Vic Firth Matt Greiner Signature | Vic Firth Matt Greiner Signature (updated spec) |
+**Q: What drum kit did Matt Greiner use on Found in Far Away Places?**
 
-## FAQ
+A: On *Found in Far Away Places* (2015), Matt Greiner played a Pearl Reference Pure kit — a maple/mahogany hybrid shell set configured with dual 22" bass drums, 10" and 12" rack toms, and a 16" floor tom. The Reference Pure's tighter, more articulate character represented a significant evolution from the Ludwig Classic Maple he used on *Leveler* (2011). For his complete current Pearl setup and endorsement details, see the [Matt Greiner complete drum setup guide](/articles/matt-greiner-complete-drum-setup).
 
-**What drum kit did Matt Greiner use on Found in Far Away Places?**
-Pearl Reference Pure — maple/mahogany hybrid shells, dual 22" bass drums, 10" and 12" rack toms, 16" floor tom. Tighter and more articulate than the Ludwig Classic Maple of Leveler.
+**Q: What cymbals does Matt Greiner use on Found in Far Away Places?**
 
-**What cymbals did Matt Greiner use on Found in Far Away Places?**
-Meinl Byzance Traditional series — 14" Medium hi-hats, 16" and 18" crashes, 20" Medium ride, 18" China. B20 bronze delivers controlled, precise decay compared to the sustained warmth of his earlier Paiste 2002 setup.
+A: Matt Greiner used Meinl Byzance Traditional cymbals on *Found in Far Away Places* (2015) — including 14" Medium hi-hats, 16" and 18" crashes, a 20" Medium ride, and an 18" China. The Byzance B20 bronze delivers more controlled, precise decay than the Paiste 2002 cymbals of his *Leveler* era. The shift from Paiste to Meinl Byzance complemented the tighter character of his Pearl Reference Pure kit. For cymbal comparisons across the ABR discography, see the [Leveler drum setup](/articles/leveler-drum-setup) and [Messengers drum setup](/articles/messengers-drum-setup).
 
-**What makes the drumming on Found in Far Away Places special?**
-The polyrhythmic complexity of "Ghosts," the ghost note density throughout the album, and the blast-to-groove transitions that are Greiner's signature compositional move — all executed with the precision of his mature Pearl Reference Pure setup.
+**Q: What makes 'Ghosts' stand out as a drumming showcase?**
 
-**What double bass pedal did Matt Greiner use on Found in Far Away Places?**
-Pearl Demon Drive Double Pedal — shaft-driven mechanism with adjustable stroke length, calibrated to his lever-driven double bass technique.
+A: "Ghosts" is widely cited as Greiner's most impressive drumming moment on *Found in Far Away Places* because it sustains extended polyrhythmic passages where kick, snare, and hi-hat patterns operate across independent rhythmic cycles simultaneously — a technical demand that goes beyond what most metalcore drummers attempt. Combined with the ghost note density he layers beneath the main groove pattern, "Ghosts" demonstrates Greiner's jazz-informed approach applied to aggressive music: complex rhythmic thinking inside a heavy context. The Pearl Reference Pure's articulate shell character makes the layering audible rather than blurred in the mix.
 
-## Related Articles
+**Q: How does the Found in Far Away Places setup compare to Leveler?**
 
-- [Matt Greiner Complete Drum Setup](/llms/articles/matt-greiner-complete-drum-setup.md)
-- [Leveler Drum Setup](/llms/articles/leveler-drum-setup.md)
-- [Messengers Drum Setup](/llms/articles/messengers-drum-setup.md)
+A: The comparison between *Found in Far Away Places* (2015) and *Leveler* (2011) traces Matt Greiner's complete Pearl transition. On *Leveler*, he played Ludwig Classic Maple drums (6-ply maple, warm/complex), Paiste 2002 cymbals (CuSn8 bronze, sustained warmth), and DW 9000 pedals (cam-driven mechanism). By *Found in Far Away Places*, he had moved to Pearl Reference Pure drums (maple/mahogany hybrid, tighter/articulate), Meinl Byzance cymbals (B20 bronze, controlled decay), and Pearl Demon Drive pedals (shaft-driven mechanism). The trajectory is consistent: greater precision, tighter articulation, more modern production character — while the underlying playing philosophy of jazz-informed musicality within metalcore aggression remained constant. See the full [Leveler drum setup breakdown](/articles/leveler-drum-setup) for a direct comparison.
 
 **Source:** https://metalforge.io/articles/found-in-far-away-places-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-26 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

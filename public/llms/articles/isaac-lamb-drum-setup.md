@@ -70,8 +70,30 @@ The 21" Ride provides the darkest, most controlled option in the setup — low f
 - Estimated kit value: $3,500–6,000 (SJC Custom shell pack, configured to spec)
 - Estimated snare value: $350–600 (SJC Custom Snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Isaac Lamb use?**
+
+A: Isaac Lamb plays a SJC Custom Drums kit. SJC (Shellcast Jones Custom) are boutique American handcrafted drums built in Marlborough, Massachusetts, where every kit is made to order with custom shell dimensions, wood species, and bearing edge profiles. Lamb's SJC kit uses American maple shells — selected for their articulate attack, midrange warmth, and breakdown body — combined with Evans Hydraulic drumheads for the dead, focused attack that beatdown hardcore production requires. He runs a single 22" bass drum with a DW 9000 double pedal, two rack toms, and two floor toms. Full drummer profile: [Isaac Lamb at MetalForge](/drummer/isaac-lamb).
+
+**Q: What cymbals does Isaac Lamb play?**
+
+A: Isaac Lamb plays Meinl Classics Custom Dark Series cymbals across his complete setup. His configuration includes 14" Classics Custom Dark Hi-Hats for articulate, defined groove patterns in high-gain contexts; 18" and 20" Classics Custom Dark Crash cymbals for scaled accent options; a 21" Classics Custom Dark Ride for controlled wash and defined bell presence; and an 18" Classics Custom Dark China for breakdown punctuation. The Dark series across the complete setup gives Lamb's cymbal architecture a coherent, controlled tonal character that sits naturally within Kublai Khan TX's dense guitar frequencies.
+
+**Q: What sticks does Isaac Lamb use?**
+
+A: Isaac Lamb plays Vic Firth American Classic 2B sticks. The 2B is the heavy-duty choice in the American Classic range — significantly thicker and heavier than the standard 5A, providing the mass and rigidity that hard-hitting beatdown hardcore playing demands. For the breakdown strokes and groove authority that define Kublai Khan TX's sound, the 2B's extra weight translates directly to greater impact on each hit. Vic Firth's hickory construction handles extended intensive playing without the flex that would reduce stroke impact. The 2B choice reflects Lamb's priority for power and physical commitment on every stroke.
+
+**Q: What bass drum pedal does Isaac Lamb use?**
+
+A: Isaac Lamb plays a DW 9000 Series Double Pedal. The DW 9000 is one of the most refined chain-drive double pedals available, featuring a floating rotor mechanism and adjustable cam that can be tuned to each player's foot mechanics. For Lamb's technique — which moves between mid-tempo groove patterns, blast beats, and the deliberate weighted strokes of beatdown breakdowns — the DW 9000's versatility across feel settings and its consistent, faithful response to foot input make it the ideal hardware choice. The chain drive provides direct, immediate translation of each stroke without the energy loss that other drive systems can introduce.
+
+**Q: What band is Isaac Lamb the drummer for?**
+
+A: Isaac Lamb is the founding and only drummer of Kublai Khan TX, a beatdown hardcore and metalcore band formed in Sherman, Texas in 2009. As the sole drummer in the band's history, Lamb has been the rhythmic identity of Kublai Khan TX across all of their releases: their self-titled debut (2012), Balancing Survival and Happiness (2014), Nomad (2017, their Rise Records debut), and Absolute (2019). His groove-first, power-through-restraint drumming philosophy defines the band's sound as fundamentally as any of their guitarists or vocalists. See [Isaac Lamb's full profile and career chronology at MetalForge](/drummer/isaac-lamb).
+
 **Source:** https://metalforge.io/articles/isaac-lamb-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

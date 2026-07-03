@@ -78,8 +78,22 @@ The splash cymbal added quick punctuations, while the 18" Chinese provided the t
 - Estimated kit value: $3,000-4,500 (1998) / $2,000-3,500 (used today)
 - Estimated snare value: $350-500 (1998) / $300-450 (used today)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Richard Christy use on The Sound of Perseverance in 1998?**
+
+A: Richard Christy recorded Death's The Sound of Perseverance in 1998 using a Pearl Masters Custom kit with maple shells. His configuration included a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Pearl Masters Custom was a top-tier professional kit during the late 1990s, known for its warm maple tone and reliable construction. This setup handled the album's technically demanding passages and shifting time signatures with the projection and sensitivity the material required.
+
+**Q: What cymbals did Richard Christy use on The Sound of Perseverance in 1998?**
+
+A: Richard Christy used Sabian AA and AAX series cymbals on The Sound of Perseverance. His setup included Sabian 14 inch AA Regular Hi-Hats, Sabian AAX 16 inch and AA 18 inch Crashes, a Sabian AAX 19 inch X-Plosion Crash, a Sabian 20 inch AA Medium Ride, a Sabian 18 inch AAX Chinese, and a Sabian 10 inch AA Splash. The mix of AA warmth and AAX cutting attack gave Christy the dynamic range needed for Death's most technically complex and musically ambitious album.
+
+**Q: How much does Richard Christy's Sound of Perseverance kit cost today?**
+
+A: Richard Christy's Pearl Masters Custom kit retailed for approximately $3,000 to $4,500 when new in 1998. Today, used Pearl Masters Custom shells in good condition sell for around $1,200 to $2,800. His Sabian AA and AAX cymbals remain in current production, and a comparable complete setup costs $1,500 to $2,200 new. Building a full replica of Christy's 1998 setup with hardware and pedals today costs approximately $5,000 to $8,000.
+
 **Source:** https://metalforge.io/articles/sound-of-perseverance-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

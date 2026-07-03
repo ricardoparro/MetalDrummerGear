@@ -80,8 +80,30 @@ The dual splash setup (10" and 12") provides quick accent tools for subtle textu
 - Estimated kit value: $3,500–5,500 (Reference Pure shell pack)
 - Estimated snare value: $350–500 (signature model)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Matt Greiner use?**
+
+A: Matt Greiner plays a Pearl Reference Pure kit in Piano Black. The Reference Pure features maple/mahogany hybrid shells and is Pearl's flagship production kit. He runs a double-kick setup with two 22" x 18" bass drums, and toms ranging from 10" to 16".
+
+**Q: What cymbals does Matt Greiner play?**
+
+A: Matt Greiner is a Meinl Cymbals endorsee and plays the Byzance series. His setup includes 15" Byzance Dual Hi-Hats, 18" and 19" Extra Dry Medium Crashes, a 21" Byzance Transition Ride, an 18" Extra Dry China, and 10" and 12" splashes. The Extra Dry finish gives his cymbals a controlled, fast-decaying sound ideal for dense metalcore production.
+
+**Q: What sticks does Matt Greiner use?**
+
+A: Matt Greiner plays Vic Firth Matt Greiner Signature sticks — a custom model designed for his specific playing demands. The sticks balance power for metalcore's heaviest passages with control for the ghost notes and textural work that define his more musical moments with August Burns Red.
+
+**Q: What snare drum does Matt Greiner use?**
+
+A: Matt Greiner plays the Pearl Matt Greiner Signature snare drum — a 14" x 6" steel shell model. The steel construction provides a bright, cutting crack that cuts through August Burns Red's dense guitar arrangements. The 6" depth gives it more body than a standard 5.5" snare without sacrificing articulation.
+
+**Q: What double bass pedal does Matt Greiner use?**
+
+A: Matt Greiner uses the Pearl Demon Drive double bass drum pedal. The Demon Drive is a direct-drive system — the footboard connects to the cam via a rigid shaft rather than a chain or belt — providing an immediate, responsive feel essential for August Burns Red's precise double-kick metalcore patterns.
+
 **Source:** https://metalforge.io/articles/matt-greiner-complete-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

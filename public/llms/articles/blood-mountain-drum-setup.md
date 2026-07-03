@@ -69,8 +69,30 @@ This Zildjian setup represents Dailor's pre-Meinl era — a period where his cym
 - Estimated kit value: $4,000–7,000 (DW Collector's Series shell pack)
 - Estimated snare value: $500–900 (DW Collector's Series steel snare)
 
+## Frequently Asked Questions
+
+**Q: What drums does Brann Dailor use on Blood Mountain?**
+
+A: Brann Dailor recorded Mastodon's Blood Mountain (2006) using a DW Collector's Series drum kit with maple shells. The configuration featured a double bass drum setup with two 22 inch kick drums, three rack toms (10, 12, and 13 inch), and a 16 inch floor tom. The DW Collector's Series maple shells provide the warm, resonant tone that allows Dailor's cascading fill sequences to function as melodic phrases rather than purely rhythmic punctuation — the central quality of his contribution to Blood Mountain's sound.
+
+**Q: What cymbals does Brann Dailor use on Blood Mountain?**
+
+A: On Blood Mountain (2006), Brann Dailor used Zildjian A and K Series cymbals. His setup included 14 inch A Series hi-hats, an 18 inch A Medium Thin Crash, a 20 inch A Medium Crash, a 22 inch A Medium Ride, and an 18 inch A China. The Zildjian A Series' bright, cutting character defined this era of Dailor's career before he transitioned to Meinl Byzance's darker, more atmospheric tones on Crack the Skye (2009).
+
+**Q: What makes Brann Dailor's drumming unique on Blood Mountain?**
+
+A: On Blood Mountain, Brann Dailor established his 'fills as lead instrument' philosophy for a mainstream audience. Rather than using fills as rhythmic transitions between groove sections, Dailor constructs fills as melodic phrases — tom patterns with harmonic intention that comment on the song's structure. The DW Collector's Series maple shells give these fills musical pitch and warmth. Blood Mountain was Mastodon's Atlantic Records debut and the album where this compositional approach became unmistakable to a wider listening public.
+
+**Q: What double pedal does Brann Dailor use on Blood Mountain?**
+
+A: On Blood Mountain (2006), Brann Dailor used a DW 9000 double bass drum pedal. The DW 9000 provided smooth chain drive action with consistent primary-to-secondary pedal response, essential for the album's double-kick bass drum patterns. Dailor later moved to a single bass drum setup on subsequent Mastodon albums, but the double-kick foundation of Blood Mountain and Crack the Skye represents an important era of his rhythmic vocabulary.
+
+**Q: Where was Blood Mountain recorded?**
+
+A: Blood Mountain was recorded at Doppler Studios in Atlanta, Georgia, and produced by Matt Bayles, who also produced Mastodon's previous album Leviathan (2004). The album was released on October 3, 2006 on Atlantic Records in the United States, debuting at number 28 on the US Billboard 200 — Mastodon's mainstream commercial breakthrough.
+
 **Source:** https://metalforge.io/articles/blood-mountain-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

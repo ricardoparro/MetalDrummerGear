@@ -67,8 +67,30 @@ The china cymbal is used selectively but to maximum effect: its upward-cutting, 
 - Estimated kit value: $3,500–6,000 (Pearl Reference shell pack)
 - Estimated snare value: $400–700 (Pearl Free-Floating steel model)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Paul Mazurkiewicz use?**
+
+A: Paul Mazurkiewicz plays Pearl Reference drums — Pearl's flagship production shell series. His configuration is built around a double bass drum setup with two 22" x 18" kick drums, two rack toms (10" and 12"), and two floor toms (16" and 18"). The Reference series uses a maple and African mahogany hybrid shell construction that delivers the focused attack and warm low-end body his death metal blast beat technique demands. He is a Pearl Drums endorsee and has used Pearl as his primary kit throughout Cannibal Corpse's recording career.
+
+**Q: What double bass pedals does Paul Mazurkiewicz play?**
+
+A: Paul Mazurkiewicz uses the Pearl Eliminator double bass pedal. The Eliminator's defining feature is its interchangeable cam system — three different cam profiles (round, offset, and oval) allow him to dial in the exact acceleration curve and feel his blast beat technique requires at 180–250 BPM. In live performance, he also uses ddrum acoustic triggers on his bass drums to ensure each kick stroke articulates with consistent clarity regardless of venue size or stage volume. The combination of Pearl Eliminator pedal engineering and ddrum electronic reinforcement gives him reliable, consistent double-kick performance across hundreds of shows per year.
+
+**Q: How does Paul Mazurkiewicz achieve his blast beat speed?**
+
+A: Paul Mazurkiewicz's blast beat speed is primarily built on push-pull technique — using gravity and stick rebound to drive patterns rather than pure muscle striking. This technique is more sustainable at high tempos across long performances than power-only approaches. His Pearl Eliminator double bass pedal with interchangeable cams allows optimization of the foot acceleration curve for extended passages at 180–250 BPM. Pearl Reference 22" x 18" bass drums generate the sub-bass presence that makes each kick stroke felt as well as heard. The ddrum triggers used in live performance ensure consistent kick articulation at maximum blast beat tempo. But the most important factor is Mazurkiewicz's 35+ years of developing and maintaining this technique — consistency, not speed records, is his defining quality.
+
+**Q: What cymbals does Paul Mazurkiewicz use?**
+
+A: Paul Mazurkiewicz plays Meinl cymbals. His setup includes Meinl 14" hi-hats, 16" and 18" crashes, a 20" ride, and an 18" china cymbal. Meinl's hand-hammered bronze construction produces focused, aggressive voices with fast attack and controlled decay — essential in death metal production contexts where cymbals need to speak clearly through dense, down-tuned guitar frequencies without creating excess wash that blurs the rhythmic density of blast beat sections.
+
+**Q: How long has Paul Mazurkiewicz been Cannibal Corpse's drummer?**
+
+A: Paul Mazurkiewicz has been Cannibal Corpse's drummer since the band's founding in Buffalo, New York in 1988 — over 35 years of continuous membership. He has recorded every Cannibal Corpse studio album, from Eaten Back to Life (1990) through Violence Unimagined (2021) and beyond. His tenure makes him one of the longest-serving drummers in death metal, and Cannibal Corpse's status as the best-selling death metal band of all time (2M+ albums sold) is inseparable from the rhythmic foundation he has provided across the band's entire career.
+
 **Source:** https://metalforge.io/articles/paul-mazurkiewicz-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

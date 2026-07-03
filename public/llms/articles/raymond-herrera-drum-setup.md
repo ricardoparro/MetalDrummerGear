@@ -63,8 +63,30 @@ For touring durability, the Z Custom's thick construction and machine-hammered s
 - Estimated kit value: $3,000–5,500 (Pearl Reference Series shell pack)
 - Estimated snare value: $400–800
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Raymond Herrera use?**
+
+A: Raymond Herrera plays a Pearl Reference Series drum kit, built around a double bass drum configuration with two kick drums for his machine-gun double-kick patterns. His setup includes two rack toms (10" and 12") and two floor toms (16" and 18"). The critical distinction of Herrera's kit is full electronic triggering throughout — ddrum and Roland triggers fitted to every drum allow the acoustic shell sound to be layered with electronically processed samples, creating the hybrid mechanical drum sound that defines Fear Factory's recordings. The Pearl Reference Series's consistent maple shell construction supports trigger response accuracy across the full kit. For the complete Fear Factory drum setup context, see his [full profile at MetalForge](/drummer/raymond-herrera).
+
+**Q: Does Raymond Herrera use electronic triggers?**
+
+A: Yes — electronic triggers are the defining feature of Raymond Herrera's drum setup and the most important element of Fear Factory's drum sound. He runs ddrum and Roland triggers on every drum: both kick drums, the snare, and all toms. Each trigger sends an electronic signal to a drum module on impact, which fires a processed sample layered over the acoustic drum sound. This hybrid approach — acoustic drums plus electronic samples simultaneously — produces the mechanical, industrial drum sound heard on Demanufacture, Obsolete, and Digimortal. Producers Ross Robinson and Rhys Fulber used the triggered signals extensively in Fear Factory's studio work to create drum sounds that matched the band's themes about machine dehumanization and industrial precision. The trigger system is not replacing Herrera's acoustic performance — it is amplifying its mechanical characteristics.
+
+**Q: What made Raymond Herrera's Fear Factory drum sound unique?**
+
+A: Raymond Herrera's Fear Factory drum sound was unique because it achieved what no purely acoustic or purely electronic approach could: the physical impact of a world-class metal drummer combined with the mechanical precision of electronic production. His hybrid kit — Pearl Reference Series drums with full ddrum/Roland trigger integration — meant that every stroke Herrera played also fired an electronically processed sample. The result on records like Demanufacture is a drum sound that is simultaneously raw and robotic: acoustic attack, electronic precision, and complete coverage from sub-bass kick (triggered at industrial tempos) through mid-frequency snare crack to upper-frequency cymbal cut (Zildjian Z Custom). No other industrial metal band of the period achieved this sound at the same performance level. Herrera's technique — machine-gun double-kick patterns using Pearl Eliminator pedals, high-tension snare tuning, aggressive cymbal work — supplied the human performance energy that the trigger system then reproduced with electronic consistency. The combination was unique because it required both technical drumming excellence and sophisticated electronics integration simultaneously. For deeper context on Fear Factory's production approach: [Raymond Herrera full profile at MetalForge](/drummer/raymond-herrera).
+
+**Q: What pedals does Raymond Herrera use?**
+
+A: Raymond Herrera uses the Pearl Eliminator Double Bass Pedal. The Eliminator's interchangeable cam system allows adjustment of the power stroke curve — a key feature for Fear Factory's material, which requires rapid double-kick machine-gun patterns as well as driving groove tempos within the same set. The double pedal drives both kick drums, each fitted with a ddrum trigger, ensuring consistent trigger signal timing across both feet — essential for the metronomic double-kick precision that defines Fear Factory's industrial metal aesthetic. Pearl's Eliminator has been a consistent part of Herrera's setup across the Fear Factory catalog from Demanufacture through Digimortal. For double bass pedal setup and technique context: [double-bass drumming at MetalForge](/technique/double-bass-drumming).
+
+**Q: What cymbals does Raymond Herrera play?**
+
+A: Raymond Herrera plays Zildjian Z Custom cymbals. His setup includes Z Custom 14" hi-hats, 16" and 18" crash cymbals, a 20" ride, and a china cymbal. The Z Custom series was designed for maximum projection and durability — machine-hammered B20 bronze construction with bright, cutting upper-frequency character. In Fear Factory's sonic environment, where down-tuned guitars and industrial processing fill the low and mid frequency range, the Z Custom's brightness places cymbal frequencies above the guitar mass where they can articulate Herrera's rhythmic patterns clearly. The series' physical durability also suits Fear Factory's demanding touring schedule, resisting the edge cracking that thinner cymbals develop under sustained high-impact playing.
+
 **Source:** https://metalforge.io/articles/raymond-herrera-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

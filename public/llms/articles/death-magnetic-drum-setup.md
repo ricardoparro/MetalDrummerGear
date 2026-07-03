@@ -71,8 +71,30 @@ The 20" A Custom Ride provided clear bell definition for the riding passages thr
 - Estimated kit value: $3,500-4,500 (2008) / $2,500-4,000 (used today)
 - Estimated snare value: $250-350 (2008) / $300-450 (today)
 
+## Frequently Asked Questions
+
+**Q: What drums did Lars Ulrich use on Death Magnetic?**
+
+A: Lars Ulrich recorded Death Magnetic in 2008 using a Tama Starclassic Birch drum kit. The configuration included a single 22x18 inch bass drum with an Iron Cobra 900 double pedal, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The birch shells, known for their attack-forward tonal character, suited Rick Rubin's punchy production philosophy and the album's return to thrash aggression.
+
+**Q: Why does Death Magnetic sound so loud and distorted?**
+
+A: Death Magnetic was mastered extremely hot by Vlado Meller, resulting in extensive digital clipping on both the CD and original digital releases. This was one of the most high-profile examples of Loudness War mastering damage in the 2000s. The Guitar Hero III version of the album, sourced from pre-mastering audio stems, sounds dramatically different — more dynamic and without the clipping artifacts. The actual recording and drum performances are not the source of the problem; the distortion was introduced in the mastering stage.
+
+**Q: What snare did Lars Ulrich use on Death Magnetic?**
+
+A: Lars Ulrich used his Tama LU1465 Lars Ulrich Signature snare drum on Death Magnetic — a 14x6.5 inch steel-shell snare with die-cast hoops. This was a deliberate return to form after the St. Anger album (2003), where Lars had removed the snare wires from his drum to produce an infamous metallic ring. The LU1465 tuned medium-high delivered the crisp, cutting snare crack that defines the Death Magnetic sound.
+
+**Q: What cymbals did Lars Ulrich use on Death Magnetic?**
+
+A: Lars Ulrich used Zildjian A Custom cymbals on Death Magnetic. His setup included 14 inch A Custom hi-hats, 16 and 18 inch A Custom crashes, a 20 inch A Custom ride, and an 18 inch A Custom China. The A Custom series, with its brilliant finish and bright, focused character, had become Lars's standard setup by the 2000s, replacing the traditional Zildjian A Series he used on earlier Metallica albums.
+
+**Q: How does the Death Magnetic drum sound compare to Master of Puppets?**
+
+A: Death Magnetic is a deliberate sonic callback to the Master of Puppets era, but with 2008-era gear and production. Both albums feature a punchy, attack-forward drum sound with clear snare crack and aggressive double-bass work. Master of Puppets used vintage Camco drums and a Ludwig Supraphonic snare captured at Sweet Silence Studios in Copenhagen; Death Magnetic used Tama Starclassic Birch shells and the LU1465 signature snare recorded with Rick Rubin. The Death Magnetic sound is cleaner and more modern, but the playing approach — technical, stamina-demanding thrash drumming — consciously mirrors the 1986 performances.
+
 **Source:** https://metalforge.io/articles/death-magnetic-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,87 +1,91 @@
 # Sepultura "Machine Messiah" Drum Setup: Eloy Casagrande's 2017 Debut with Sepultura
 
-> Complete breakdown of Eloy Casagrande's drum kit on Sepultura's Machine Messiah (2017): Tama Starclassic Walnut/Birch shells, Meinl Classics Custom cymbals, Tama Iron Cobra 900 pedals, and the debut performance that launched his arc toward Metallica.
+> Eloy Casagrande's Sepultura debut — Machine Messiah (2017) drum setup breakdown. Tama Starclassic Walnut/Birch shells, Meinl Classics Custom cymbals, Iron Cobra 900 pedals. The album that introduced Eloy's double-bass precision to Sepultura's sound and launched his arc toward Metallica.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Eloy Casagrande](/llms/drummers/eloy-casagrande.md)
-**Band / Album:** Sepultura — Machine Messiah (2017)
+**Band / Album:** Sepultura — *Machine Messiah* (2017)
 **Genre:** Thrash Metal / Heavy Metal / Progressive Metal
-**Label:** Nuclear Blast
-**Studio:** Fascination Street Studios, Örebro, Sweden
-**Producer:** Jens Bogren
-**Release Date:** January 13, 2017
 
 ## Overview
 
-When Sepultura released *Machine Messiah* on January 13, 2017, it marked the full-time studio debut of Eloy Casagrande — one of the most gifted drummers of his generation — as the band's recorded drummer. At 24 years old, Eloy had joined Sepultura in 2011 at age 19, and *Machine Messiah* became his definitive first major document with the band. The album debuted at number one in Brazil and charted across Europe, putting Eloy's playing before an international metal audience for the first time at album scale.
+When Sepultura released *Machine Messiah* on January 13, 2017, via Nuclear Blast, it marked a new chapter for one of heavy metal's most storied bands — and the full-time debut of one of the most gifted drummers of his generation. Eloy Casagrande, then 24 years old, stepped into the role that had defined Sepultura's rhythmic identity since the Igor Cavalera era and delivered a performance that silenced any doubts: *Machine Messiah* was not a transition album, it was a statement.
 
-Recorded at Fascination Street Studios in Örebro, Sweden — the same room Jens Bogren would use again for *Quadra* three years later — *Machine Messiah* placed Eloy's drumming in a world-class recording environment from the very start of his Sepultura recording career. Tracks like "Phantom Self" and "Iceberg Dances" became the earliest major showcases of his blast-beat precision and polyrhythmic intelligence: the technical vocabulary he would refine through *Quadra* (2020) and ultimately export to Metallica's M72 World Tour stage in 2023.
+Eloy had joined Sepultura in 2011 at the age of 19, working through the *The Mediator Between Head and Hands Must Be the Heart* cycle (2013) before *Machine Messiah* became his definitive first major document with the band. Recorded at Fascination Street Studios in Örebro, Sweden — the same studio that would capture *Quadra* three years later — and produced by Jens Bogren, the album placed Eloy's drumming in a world-class recording environment from his earliest full-length Sepultura work.
 
-This is the foundation of the arc. For the evolution of Eloy's setup after Machine Messiah, see the [Sepultura Quadra drum setup (2020)](/articles/quadra-drum-setup). For his complete drummer profile, see [Eloy Casagrande](/drummer/eloy-casagrande). For the Metallica chapter, see the [Eloy Casagrande M72 drum setup](/articles/eloy-casagrande-m72-drum-setup).
+*Machine Messiah* debuted at number one in Brazil and charted across Europe, including Germany — validating Sepultura's continued relevance and putting Eloy's playing in front of an international metal audience for the first time at full album scale. Tracks like "Phantom Self" and "Iceberg Dances" became the early showcases of his precision blast-beat technique and polyrhythmic sensibility, establishing the stylistic identity he would refine through *Quadra* and ultimately export to Metallica's M72 World Tour stage in 2023.
+
+His gear for the album: a Tama Starclassic Walnut/Birch kit, Meinl Classics Custom cymbals, and Tama Iron Cobra 900 pedals — a Brazilian prodigy's professional setup refined for world-stage recording. This article breaks down every element of that configuration and the context in which Eloy deployed it.
 
 ## Gear Breakdown
 
-- **Drums:** Tama Starclassic Walnut/Birch (twin 22"×18" bass drums, 10"/12"/14" rack toms, 16" floor tom)
-- **Cymbals:** Meinl Classics Custom series (B10 alloy)
-- **Pedals:** Tama Iron Cobra 900 (×2, independent — one per bass drum)
-- **Sticks:** ProMark Eloy Casagrande Signature TX5BW
-- **Batter heads:** Remo Powerstroke 3 (bass), Remo Emperor Clear (toms), Remo Coated Ambassador (snare)
-- **Resonant heads:** Remo Powerstroke 3 (bass), Remo Ambassador Clear (toms)
+- **Drums:** Tama Tama Starclassic Walnut/Birch (Custom Sepultura livery finish)
+- **Snare:** Tama Tama S.L.P. Sonic Steel, 14" x 5.5"
+- **Cymbals:** Meinl — Classics Custom Series
+- **Hardware / Pedals:** Tama Iron Cobra 900 (x2); Tama HH905D Hi-Hat Stand; Roc-N-Soc Original Nitro Throne; ProMark Eloy Casagrande Signature TX5BW
+- **Heads:** Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)
+- **Snare tuning:** Medium-high for definition and projection across tempo range
 
-### Tama Starclassic Walnut/Birch
+### Eloy's Sepultura Debut: Tama Starclassic Walnut/Birch
 
-Eloy's debut Sepultura recording kit was the Tama Starclassic Walnut/Birch — Tama's premium hybrid shell series pairing walnut's natural warmth and low-end resonance with birch's focused projection and attack definition. This construction suited both Eloy's playing style and Jens Bogren's production approach: warmth and body in the attack, brightness and clarity in the definition needed to cut through Sepultura's dense guitar arrangements.
+For *Machine Messiah*, Eloy Casagrande recorded with the Tama Starclassic Walnut/Birch — Tama's premium hybrid shell series, pairing the natural warmth and low-end resonance of walnut with the bright projection and attack focus of birch. This hybrid construction was well-matched to both Eloy's playing style and Jens Bogren's production approach at Fascination Street Studios: the walnut component adds warmth and body to the attack, while the birch plies deliver the focused punch and definition that thrash metal production demands.
 
-Twin independent 22"×18" bass drums (not a double pedal) maintained Eloy's bilateral foot independence throughout the album's most demanding passages. Independent pedals give each foot a fully resonant instrument with balanced tone from both sides — eliminating the mechanical compromises that affect double-pedal configurations at high tempos. The four-tom configuration gave Eloy the melodic range Sepultura's arrangements demanded.
+Twin 22" x 18" bass drums formed the foundation of Eloy's independent double-kick setup — a configuration he has maintained throughout his professional career. Independent pedals (rather than a double-pedal on a single drum) give each foot its own fully resonant instrument, delivering balanced tone from both sides and eliminating the mechanical compromises that affect double-pedal configurations at high tempos. On *Machine Messiah*, this independence is audible in the evenness and power of Eloy's bass drum patterns throughout tracks like "Phantom Self" and "Iceberg Dances."
 
-### Meinl Classics Custom Cymbals
+The four-tom configuration — three rack toms plus a 16" floor tom — gave Eloy the melodic range and tonal contrast that Sepultura's arrangements regularly demanded. Bogren's recording approach preserved the Starclassic's natural character: the walnut warmth comes through in the body of each drum's tone, while the birch definition ensures clarity in the attack even in dense mix contexts.
 
-Eloy's Meinl Classics Custom series brought a bright, cutting character to *Machine Messiah* — the B10 alloy construction delivers assertive attack presence in dense guitar contexts. The setup included 14" Medium Hi-Hats, 16" and 18" crashes, 20" Ride, and an 18" China. The china cymbal continues a Sepultura sonic tradition from the Igor Cavalera era: aggressive, trashy punctuation at riff transition points throughout the album.
+### Snare: Definition for Eloy's Sepultura Debut
 
-By *Quadra* (2020), Eloy had upgraded to Meinl Byzance Traditional B20 bronze — a move toward warmer, more complex overtones that suited *Quadra*'s more compositionally ambitious material and Bogren's dynamic-preserving production philosophy.
+Eloy's snare on *Machine Messiah* delivered the focused crack needed to anchor Sepultura's dense thrash arrangements. A steel shell construction provides the immediate, defined attack that cuts through distorted guitars without losing presence in a heavy mix — essential for a band recording in the same territory as Sepultura's classic catalog.
 
-### Tama Iron Cobra 900 Pedals
+Jens Bogren's engineering at Fascination Street captured the snare's natural character: bright enough to assert authority in the mix, with enough body to support the dynamic passages that *Machine Messiah* required. The result was a snare voice that established Eloy's rhythmic authority from his very first Sepultura studio record.
 
-Eloy's independent twin pedal setup relied on Tama Iron Cobra 900 pedals — one per bass drum. The Iron Cobra 900's cam-driven mechanism delivers controlled acceleration through the stroke, providing consistent speed and power at the high tempos Sepultura's catalog demands. "Phantom Self" showcases this capability: even, powerful, and consistent double-bass patterns throughout the track's sustained intensity.
+### Meinl Classics Custom: Bright Aggression for the Sepultura Sound
 
-## Recording Context
+Eloy's cymbal choice for *Machine Messiah* — Meinl Classics Custom series — brought a brighter, more aggressive character than the Byzance Traditional series he would later use on *Quadra*. The Classics Custom line is built on B10 alloy (a copper-tin-silver blend), which delivers a brighter, more cutting response than the B20 bronze of premium series like Byzance. For a debut recording on a Sepultura album — where the sonic identity requires assertive cymbal presence in dense guitar arrangements — the Classics Custom's brightness suited the context.
 
-Fascination Street Studios in Örebro, Sweden provided Eloy with his first world-class recording environment at full Sepultura album scale. Jens Bogren's production philosophy — preserve natural acoustic character, maintain dynamic range, no electronic triggers or samples — established the sonic foundation of Eloy's Sepultura era from his very first record.
-
-Bogren's engineering captured the Starclassic Walnut/Birch's hybrid character faithfully: the walnut warmth and birch attack that make the kit distinctive in a playing context came through in the recording, giving *Machine Messiah* a drum sound that is both aggressive and tonally rich. The same philosophy produced even more sophisticated results on *Quadra* three years later, when the recording environment and Eloy's musical maturity both reached their Sepultura peak.
+The 14" Medium Hi-Hats drove Eloy's thrash rhythms with tight, articulate chick response. The china cymbal — a Sepultura sonic tradition since the Igor Cavalera era — provided the aggressive punctuation that marks riff transitions and structural moments throughout *Machine Messiah*. The paired 16" and 18" crashes gave Eloy the accent range needed for the album's compositional variation: the 16" for fast, tight accents; the 18" for the heavy, sustaining crashes that signal major section changes.
 
 ## Key Facts
 
-- Tama Starclassic Walnut/Birch: walnut/birch hybrid shells for warm attack and focused projection
-- Meinl Classics Custom cymbals: B10 alloy for bright, cutting presence in dense arrangements
-- Tama Iron Cobra 900 twin independent pedals — one per bass drum
-- Recorded at Fascination Street Studios, Örebro, Sweden with producer Jens Bogren
-- No triggers or samples — complete acoustic performance from Eloy's debut
+- Released January 13, 2017 — Eloy Casagrande's debut as Sepultura's full-time recording drummer
+- Produced by Jens Bogren at Fascination Street Studios, Örebro, Sweden
 - Debuted at #1 in Brazil; charted in Germany and across Europe
-- "Phantom Self" and "Iceberg Dances" are the primary drumming showcases
-- Eloy was 24 years old — first full studio album as Sepultura's established drummer
-- Estimated kit value: $3,000–4,500 (2017 Starclassic Walnut/Birch configuration)
-- Foundation album of the arc: Machine Messiah (2017) → Quadra (2020) → Metallica M72 (2023)
+- Tama Starclassic Walnut/Birch kit — Eloy's primary setup at the start of his Sepultura recording career
+- "Phantom Self" and "Iceberg Dances" introduced Eloy's blast-beat precision and polyrhythm style
+- Tama Iron Cobra 900 pedals powering his independent double-bass approach
+- The foundation album of the arc: Machine Messiah (2017) → Quadra (2020) → Metallica M72 (2023)
+- Tama Starclassic Walnut/Birch — hybrid shells for warm attack and focused projection
+- Twin 22" x 18" bass drums for independent double-kick (not double pedal)
+- Four-tom configuration (3 rack + 1 floor) for melodic range across Sepultura's arrangements
+- Jens Bogren's recording approach preserved the walnut/birch's natural hybrid character
+- Estimated kit value: $3,000-4,500 (2017)
+- Estimated snare value: $350-500 (2017)
 
-## FAQ
+## Frequently Asked Questions
 
-**Q: What drums does Eloy Casagrande use on Machine Messiah?**
-A: Eloy Casagrande recorded Machine Messiah (2017) using a Tama Starclassic Walnut/Birch kit — twin 22"×18" bass drums, 10", 12", and 14" rack toms, 16" floor tom. Cymbals were Meinl Classics Custom series. Bass drum pedals were Tama Iron Cobra 900 (independent pair, one per kick). Recorded at Fascination Street Studios, Örebro, Sweden with Jens Bogren producing. No electronic triggers or samples — complete acoustic performance.
+**Q: What drums did Eloy Casagrande use on Sepultura's Machine Messiah?**
+
+A: Eloy Casagrande recorded Machine Messiah (2017) using a Tama Starclassic Walnut/Birch kit — Tama's premium hybrid shell series. His configuration included twin 22"x18" bass drums for independent double-kick, 10", 12", and 14" rack toms, and a 16" floor tom. His cymbals were Meinl Classics Custom series. His bass drum pedals were Tama Iron Cobra 900 (one per kick drum). The album was recorded at Fascination Street Studios in Örebro, Sweden, produced by Jens Bogren.
 
 **Q: When did Eloy Casagrande join Sepultura?**
-A: Eloy Casagrande joined Sepultura in 2011 at age 19, replacing Jean Dolabella. Machine Messiah (January 2017) was his first major full-length studio recording as the band's established drummer. He remained with Sepultura until 2023 — a 12-year tenure — before departing to join Metallica's M72 World Tour. His complete Sepultura recording arc: Machine Messiah (2017) → Quadra (2020). Machine Messiah is the definitive opening statement of that tenure.
+
+A: Eloy Casagrande joined Sepultura in 2011 at the age of 19, replacing Jean Dolabella. Machine Messiah (2017) was his first major full-length studio recording with the band as its established full-time drummer. He remained with Sepultura until 2023, when he departed to join Metallica's M72 World Tour. His complete Sepultura discography spans Machine Messiah (2017) through Quadra (2020), with Machine Messiah serving as the definitive opening statement of his tenure.
 
 **Q: What is Eloy Casagrande's drum setup on Machine Messiah?**
-A: On Machine Messiah (2017): Tama Starclassic Walnut/Birch shells (twin 22"×18" bass drums, 10"/12"/14" rack toms, 16" floor tom); Meinl Classics Custom cymbals (14" hi-hats, 16" and 18" crashes, 20" ride, 18" china); Tama Iron Cobra 900 pedals (independent pair); ProMark Eloy Casagrande Signature TX5BW sticks. Produced by Jens Bogren at Fascination Street Studios, Örebro, Sweden.
+
+A: On Machine Messiah (2017), Eloy Casagrande's setup was: Tama Starclassic Walnut/Birch shells (twin 22"x18" bass drums, 10"/12"/14" rack toms, 16" floor tom); Meinl Classics Custom cymbals (14" hi-hats, 16" and 18" crashes, 20" ride, 18" china); Tama Iron Cobra 900 pedals (independent pair, one per bass drum); ProMark Eloy Casagrande Signature sticks. Recorded at Fascination Street Studios, Örebro, Sweden with Jens Bogren producing.
 
 **Q: How does Eloy's Machine Messiah setup compare to his Quadra setup?**
-A: Full evolution between albums. Machine Messiah (2017): Tama Starclassic Walnut/Birch shells, Meinl Classics Custom cymbals (B10 alloy), Tama Iron Cobra 900 pedals. Quadra (2020): Pearl Master Maple Reserve shells, Meinl Byzance Traditional cymbals (B20 bronze — warmer, more complex), Tama Speed Cobra pedals (lighter footboard). The changes reflect career growth and the sonic demands of Quadra's more compositionally ambitious material. Full Quadra breakdown at [/articles/quadra-drum-setup](/articles/quadra-drum-setup).
+
+A: Between Machine Messiah (2017) and Quadra (2020), Eloy's setup evolved significantly. Shells: Tama Starclassic Walnut/Birch → Pearl Master Maple Reserve. Cymbals: Meinl Classics Custom (B10 alloy) → Meinl Byzance Traditional (B20 bronze) — a move toward warmer, more complex overtones. Pedals: Tama Iron Cobra 900 → Tama Speed Cobra HP310LW for lighter footboard response. The evolution reflects both his growing career profile and the sonic demands of Quadra's more ambitious compositional context. See the full Quadra breakdown at [/articles/quadra-drum-setup](/articles/quadra-drum-setup).
 
 **Q: What tracks on Machine Messiah best showcase Eloy Casagrande's drumming?**
-A: "Phantom Self" (lead single) showcases blast-beat precision and sustained double-bass at high tempos. "Iceberg Dances" demonstrates polyrhythmic intelligence — overlapping metric layers that go beyond typical thrash execution. Both tracks are on Machine Messiah (Nuclear Blast, January 2017) and represent the earliest major recorded evidence of the technical vocabulary Eloy refined on Quadra (2020) and brought to Metallica's M72 World Tour (2023).
+
+A: "Phantom Self" (the lead single) is the primary showcase of Eloy's blast-beat precision and sustained double-bass speed at high tempos. "Iceberg Dances" demonstrates his polyrhythmic intelligence — overlapping metric layers that go beyond typical thrash execution. Both tracks appear on Machine Messiah (Nuclear Blast, January 2017) and represent the earliest major recorded evidence of the technical vocabulary Eloy would develop further on Quadra (2020) and bring to Metallica's M72 World Tour (2023).
 
 **Source:** https://metalforge.io/articles/machine-messiah-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-27 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

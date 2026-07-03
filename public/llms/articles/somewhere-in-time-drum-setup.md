@@ -71,8 +71,26 @@ The China cymbal's role was restrained but effective: placed on major impact mom
 - Estimated kit value: $2,200-3,200 (1986)
 - Estimated snare value: $250-380 (1986)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Nicko McBrain use on Somewhere in Time?**
+
+A: Nicko McBrain recorded Somewhere in Time (1986) on a Premier Resonator kit — the professional British drumset that was his primary setup through the mid-1980s. The configuration featured a single 22"x18" bass drum, two rack toms (12" and 13"), and two floor toms (16" and 18"). For the first time in his Iron Maiden career, he also integrated Roland electronic drum pads alongside the acoustic kit, using them for kick drum sample reinforcement and percussion accents. See the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain) for his complete career-spanning gear history.
+
+**Q: Did Nicko McBrain use electronic drums on Somewhere in Time?**
+
+A: Yes — Somewhere in Time (1986) is the first Iron Maiden album where Nicko McBrain integrated electronic drum pads into his setup. He added Roland electronic drum pads alongside his Premier Resonator acoustic kit, primarily using them for kick drum sample reinforcement to add punch and definition in the album's synth-heavy production environment. This was a deliberate response to the album's unusually dense electronic arrangement — guitar synthesizers occupied much of the harmonic space, requiring the drums to define themselves with tighter, more controlled sounds. No prior Iron Maiden album used electronic drum augmentation in this way. The [Powerslave drum setup article](/articles/powerslave-drum-setup) covers the preceding purely acoustic era for direct comparison.
+
+**Q: How does the drum sound on Somewhere in Time differ from Powerslave?**
+
+A: The drum sound on Somewhere in Time (1986) is notably drier, tighter, and more controlled than Powerslave (1984). On Powerslave, Nicko recorded at Compass Point Studios in Nassau — a room with natural warmth and ambient character that gave the drums breathing space. Somewhere in Time was recorded at Wisseloord Studios in Hilversum, Netherlands, with a closer-miking approach suited to the album's synthesizer-heavy arrangements. The most distinctive change is the snare: Nicko tuned it flat and dry — short attack, minimal sustain — to cut cleanly through guitar synthesizers without adding ring. Roland kick reinforcement added punch that compensated for the reduced room ambience. See the [Powerslave drum setup article](/articles/powerslave-drum-setup) for the full comparison.
+
+**Q: What cymbals did Nicko McBrain use on Somewhere in Time?**
+
+A: On Somewhere in Time, Nicko McBrain used the Paiste 2002 series — the same professional cymbal choice he used on Piece of Mind, Powerslave, and would continue through Seventh Son of a Seventh Son. His setup included 14" Medium Hi-Hats, 16" and 18" Medium Crashes, a 20" Medium Ride, and an 18" China Type. The Paiste 2002's bright, articulate character remained well suited to Iron Maiden's production even as the arrangements grew more complex. On "Wasted Years," the 20" ride bell's clear, singing tone cuts above the guitar synthesizer layers with notable definition. See the [Seventh Son of a Seventh Son drum setup article](/articles/seventh-son-drum-setup) for how this cymbal setup evolved into the next album cycle.
+
 **Source:** https://metalforge.io/articles/somewhere-in-time-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -69,8 +69,30 @@ The hi-hat programming on *Catch 33* is particularly noteworthy. Haake programme
 - Estimated kit value: N/A — software (dfh Superior retailed at ~$300 USD at commercial release)
 - Estimated snare value: N/A — included in dfh Superior library
 
+## Frequently Asked Questions
+
+**Q: Were the drums on Meshuggah's Catch 33 programmed or recorded live?**
+
+A: All drums on Meshuggah's Catch 33 (2005) were programmed — there is no live drum performance on the album. Tomas Haake programmed every note in Logic Pro using Toontrack's dfh Superior drum instrument, which was still in a pre-commercial beta phase at the time. This makes Catch 33 unique in Meshuggah's catalog and unusual among major metal albums: a full-length release from a band celebrated for live drumming virtuosity with no live drums whatsoever.
+
+**Q: What software did Tomas Haake use to program the drums on Catch 33?**
+
+A: Tomas Haake programmed the drums on Catch 33 using Apple Logic Pro as the digital audio workstation and Toontrack dfh Superior (short for Drumkit From Hell Superior) for the drum sounds. dfh Superior was a sample-based virtual instrument that would later be commercially released as Superior Drummer. The dfh Superior library featured multi-velocity sampled drum hits with round-robin sampling — techniques that made the programmed drums sound more realistic than previous drum replacement tools available at the time.
+
+**Q: How does Catch 33 differ from other Meshuggah albums in terms of drums?**
+
+A: Catch 33 is the only Meshuggah album with entirely programmed drums. Every other album in the band's catalog — including Nothing (2002) before it and obZen (2008) after it — features Tomas Haake performing live on a physical drum kit. Catch 33 was also released as a single 47-minute continuous composition rather than discrete tracks, making it unique in the band's catalog on multiple levels. The programmed drums allowed for rhythmic patterns that occasionally exceed what a human drummer can physically play, though Haake later demonstrated on obZen that he could execute similarly extreme ideas on a live kit.
+
+**Q: Can Catch 33 be played live? How does Tomas Haake perform it?**
+
+A: Meshuggah has performed sections of Catch 33 live — most notably Shed — but reproducing the full programmed album requires a hybrid approach. Haake plays his physical Sonor drum kit live but supplements it with electronic triggers and samples to reproduce parts that were programmed beyond normal physical capability or to match the studio recording precisely. The live experience differs from the album: Haake's live performances add human variation and energy that the programmed original lacks, while the click track and sample triggering maintain the rhythmic precision that defines Meshuggah's sound.
+
+**Q: Why did Tomas Haake program the drums on Catch 33 instead of recording them live?**
+
+A: Tomas Haake has explained that Catch 33 was a deliberate compositional experiment. The album — conceived as a single continuous 47-minute piece — was designed by Fredrik Thordendal with musical ideas that benefited from the limitless rhythmic precision that programming allows. Programming removed the constraint of human physical limits, allowing Haake to explore rhythmic concepts without worrying about whether they were executable live. It was also a creative statement about the nature of performance and composition in metal: the groove and emotion of the music did not require a human body to produce them.
+
 **Source:** https://metalforge.io/articles/catch-33-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

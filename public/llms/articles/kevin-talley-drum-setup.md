@@ -63,8 +63,22 @@ Talley's crash selection covers Dying Fetus's dynamic range from intense blast s
 - Estimated kit value: $3,000–5,500 (Pearl Masters or Reference shell pack)
 - Estimated snare value: $300–600
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Kevin Talley use with Dying Fetus?**
+
+A: Kevin Talley plays Pearl Masters Custom and Reference Series kits. His setup uses twin 22x18 inch bass drums, 10 and 12 inch rack toms, and 16 and 18 inch floor toms built from a maple and mahogany hybrid shell. The combination of maple's clarity and mahogany's warmth produces a powerful, full-bodied tone that holds up under the relentless blast beat tempos and technical patterns that define his work with Dying Fetus.
+
+**Q: What cymbals does Kevin Talley use with Dying Fetus?**
+
+A: Kevin Talley plays Zildjian A Custom and A Series cymbals. His setup includes 14 inch A Custom hi-hats, A Custom crashes in 16 and 18 inch sizes, a 20 inch A Medium Ride for clear articulation at high speeds, and an 18 inch A China for aggressive accents during blast sections. The A Custom series is known for its bright, cutting sound, which ensures individual hits remain defined even at extreme tempos.
+
+**Q: How much does Kevin Talley's Dying Fetus kit cost?**
+
+A: A Pearl Masters Custom or Reference Series shell pack in Kevin Talley's double bass configuration currently costs approximately $3,000 to $5,500. The Pearl Free-Floating or Sensitone Steel snare adds $300 to $600. A complete Zildjian A Custom and A Series cymbal setup runs an additional $2,000 to $3,500. The full rig totals roughly $6,000 to $10,000, representing a professional-grade investment capable of handling the demands of technical death metal.
+
 **Source:** https://metalforge.io/articles/kevin-talley-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

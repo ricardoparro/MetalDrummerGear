@@ -72,8 +72,34 @@ The A Custom China 18" is Koller's exclamation point — trashy, aggressive, fas
 - Estimated kit value: $1,800–2,800 (Starclassic Performer B/B shell pack)
 - Estimated snare value: $200–400 (Tama S.L.P. series)
 
+## Frequently Asked Questions
+
+**Q: What drums does Ben Koller use?**
+
+A: Ben Koller plays a Tama Starclassic Performer B/B kit. The "B/B" designation refers to the birch/bubinga shell construction — birch provides focused, punchy attack while bubinga adds warmth and a deeper fundamental tone. His configuration typically includes 10", 12", and 16" toms with a 22" bass drum. He has used both single and double kick setups depending on the setlist and project.
+
+**Q: What cymbals does Ben Koller use?**
+
+A: Ben Koller plays Zildjian cymbals across two series: the K Custom and the A Custom. His setup includes Zildjian K Custom Dark 14" Hi-Hats, Zildjian A Custom 18" and 19" Crashes, a Zildjian K Custom Ride 21", a Zildjian A Custom China 18", and a Zildjian K Splash 10". The combination of K Custom darkness (hi-hats and ride) with A Custom brightness (crashes) gives his setup both tonal complexity and explosive attack.
+
+**Q: What pedals does Ben Koller use?**
+
+A: Ben Koller uses the Tama Iron Cobra double bass drum pedal. The Iron Cobra is a chain-drive pedal known for its smooth, consistent feel and wide adjustability — well-suited to the blast beats and sustained double-kick patterns that appear throughout Converge's catalog. The Iron Cobra is available in Power Glide (linear feel) and Rolling Glide (progressive feel) configurations; Koller has used both across different touring configurations.
+
+**Q: What snare does Ben Koller use?**
+
+A: Ben Koller plays a Tama S.L.P. (Studio Legendary Percussion) snare drum, typically in a 14" x 6.5" configuration. The S.L.P. series is Tama's vintage-inspired professional line; the 6.5" depth gives the drum more body and projection than a standard 5.5" snare, which helps it cut through Converge's dense guitar arrangements in both live and studio contexts.
+
+**Q: What drumheads does Ben Koller use?**
+
+A: Ben Koller uses Evans drumheads on his Tama Starclassic Performer kit. He typically runs Evans G2 Coated heads on the toms (batter side) for warm attack with controlled sustain, Evans G1 Clear on the resonant side, and Evans EMAD or EC2 on the bass drum for focused punch. His snare uses an Evans G1 Coated batter head for articulation and rimshot response.
+
+**Q: What is Ben Koller's drum setup with Converge?**
+
+A: Ben Koller's current Converge drum setup is built around a Tama Starclassic Performer B/B kit (birch/bubinga shells), a Tama S.L.P. 14"x6.5" snare, Zildjian K Custom and A Custom cymbals, Tama Iron Cobra double pedal, and Evans drumheads. This configuration provides the attack, durability, and tonal range demanded by Converge's physically intense live show and exacting studio work with producer Kurt Ballou.
+
 **Source:** https://metalforge.io/articles/ben-koller-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

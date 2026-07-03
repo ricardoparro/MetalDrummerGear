@@ -83,8 +83,22 @@ The 8" Ice Bell, mounted among the effects cymbals, adds high-pitched bell tones
 - Estimated kit value: $12,000-18,000 (Starclassic configuration without cymbals)
 - Estimated snare value: $600-800 (signature model)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Mike Portnoy use on the Dream Theater 2025 reunion?**
+
+A: Mike Portnoy returned to Dream Theater in 2025 playing a Tama Starclassic Maple and Birch hybrid kit. The massive setup includes dual 22x18 inch bass drums, rack toms at 8, 10, 12, and 13 inches plus a set of Octobans, and floor toms at 14, 16, and 18 inches. The Maple and Birch hybrid shells deliver a combination of warmth and attack that supports his melodic yet powerful playing style.
+
+**Q: What cymbals does Mike Portnoy use on the Dream Theater 2025 reunion?**
+
+A: Mike Portnoy uses Sabian HHX series cymbals for his 2025 Dream Theater reunion kit. Key pieces include HHX 14 inch Evolution Hi-Hats, HHX 13 inch X-Celerator Hi-Hats, multiple HHX crashes from 16 to 20 inches, a 22 inch HHX Raw Bell Dry Ride, a 20 inch HHX Legacy Ride, and HHX chinas at 18 and 20 inches. The HHX line provides the dark, complex overtones that define his modern sound.
+
+**Q: How much does Mike Portnoy's Dream Theater 2025 reunion kit cost?**
+
+A: A Tama Starclassic Maple and Birch kit in Portnoy's configuration with Octobans runs approximately $12,000 to $18,000. His Tama Mike Portnoy Signature Melody Master Snare adds $600 to $800. A full Sabian HHX cymbal setup comparable to his adds another $3,500 to $6,000. Total estimated cost for the full 2025 reunion rig is in the range of $16,000 to $25,000.
+
 **Source:** https://metalforge.io/articles/whats-in-mike-portnoys-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

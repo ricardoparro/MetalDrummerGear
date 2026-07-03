@@ -72,8 +72,26 @@ The 20" ride was important for the album's longer tracks. "The Trooper" and "Rev
 - Estimated kit value: $2,500-3,500 (1983)
 - Estimated snare value: $300-450 (1983)
 
+## Frequently Asked Questions
+
+**Q: What drums did Nicko McBrain use on Piece of Mind?**
+
+A: Nicko McBrain recorded Piece of Mind (1983) — his first Iron Maiden album — on a Ludwig Vistalite kit. The Vistalite series used clear acrylic shells rather than wood, producing a brighter, more attacking tone with high projection. His configuration included a single 22" bass drum, two rack toms (12" and 13"), and two floor toms (16" and 18"). The acrylic shells' character suited Martin Birch's live-room recording approach at Compass Point Studios in Nassau, Bahamas. For a complete look at how Nicko's setup evolved from this album through to today, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain).
+
+**Q: What is the drum intro to "Where Eagles Dare"?**
+
+A: The "Where Eagles Dare" drum intro is one of the most famous in heavy metal: Nicko McBrain plays a relentless, fast 16th-note tom pattern across the full kit for over 30 seconds before the guitars enter. The pattern builds in intensity and demonstrates complete command of the Ludwig Vistalite setup from the album's very first moment. It served as an immediate announcement that Iron Maiden had found a new drummer of exceptional ability. The intro has been analyzed by drum educators worldwide and remains a benchmark for single-drummer performance at high tempos. See [Nicko McBrain's drum lick breakdowns](/drummer/nicko-mcbrain/licks) for more technique analysis.
+
+**Q: Was Piece of Mind Nicko McBrain's first album with Iron Maiden?**
+
+A: Yes — Piece of Mind (1983) is Nicko McBrain's recording debut with Iron Maiden. He replaced Clive Burr, who had drummed on the band's first four albums including The Number of the Beast (1982). Nicko was recruited from French heavy metal band Trust in mid-1982 and began the Piece of Mind sessions shortly after. The contrast between the two drummers is notable: Clive Burr brought jazz-influenced finesse; Nicko added a more aggressive, rolling double-stroke style while maintaining musical sensitivity. The [Number of the Beast drum setup article](/articles/number-of-the-beast-drum-setup) covers Clive Burr's recording in detail and explains how Nicko has interpreted those songs live since 1982.
+
+**Q: What cymbals did Nicko McBrain use on Piece of Mind?**
+
+A: On Piece of Mind, Nicko McBrain used a full Paiste 2002 series cymbal setup: 14" Medium Hi-Hats, 16" and 18" Medium Crashes, a 20" Medium Ride, and an 18" China Type. The Paiste 2002 was the premier professional cymbal of the early 1980s, known for its bright, articulate character and consistent quality. The 2002s suited Iron Maiden's production style perfectly — clear stick definition on the hi-hats for fast galloping patterns, quick-response crashes for musical accents, and a defined ride bell for extended ride sections. Nicko continued using Paiste 2002 cymbals on the subsequent Powerslave album (1984) before eventually transitioning to the Paiste Signature series later in his career.
+
 **Source:** https://metalforge.io/articles/piece-of-mind-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

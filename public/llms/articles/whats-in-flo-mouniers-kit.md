@@ -77,8 +77,22 @@ The 18" X-Treme Chinese adds the aggressive, trashy accents that punctuate Crypt
 - Estimated kit value: $3,500-5,000 (Starclassic Maple custom configuration)
 - Estimated snare value: $350-450 (S.L.P. series)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Flo Mounier use?**
+
+A: Flo Mounier of Cryptopsy plays a Tama Starclassic Maple kit built around a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The all-maple shells are 6mm thick, optimized for the extreme tempo and articulation demands of technical death metal. He pairs this with a Tama S.L.P. Classic Dry Aluminum snare at 14x5.5 inches, which delivers a sharp, cutting crack suited to his explosive playing style.
+
+**Q: What cymbals does Flo Mounier use?**
+
+A: Flo Mounier plays Sabian cymbals, primarily from the AAX and HHX series. His setup includes 14 inch AAX X-Celerator hi-hats, AAX crashes ranging from 16 to 19 inches, a 20 inch AAX Metal Ride, and an 18 inch AAX X-Treme Chinese. The AAX series is engineered for bright, cutting projection and fast response, making it well-suited to the blistering speeds and complex patterns Mounier executes in Cryptopsy's extreme technical death metal context.
+
+**Q: How much does Flo Mounier's drum kit cost?**
+
+A: Flo Mounier's Tama Starclassic Maple kit is estimated at $3,500 to $5,000 for the shell pack, with his Tama S.L.P. Classic Dry Aluminum snare adding $350 to $450. The Sabian AAX and HHX cymbal setup typically runs $1,500 to $2,500 for a full configuration. A complete replica of his rig would cost approximately $5,500 to $8,000, placing it in the professional mid-tier range for serious extreme metal drummers.
+
 **Source:** https://metalforge.io/articles/whats-in-flo-mouniers-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

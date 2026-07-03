@@ -79,8 +79,22 @@ For aggressive accents, the AAX Chinese cymbal added trash and cut. Used sparing
 - Estimated kit value: $2,500-4,000 (late 1990s) / $1,500-3,000 (used today)
 - Estimated snare value: $300-500 (late 1990s) / $250-450 (used today)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Richard Christy use?**
+
+A: Richard Christy has long been associated with Pearl Masters Custom kits featuring maple shells. His standard configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Masters Custom line was Pearl's flagship professional series through the late 1990s and 2000s, offering consistent maple tone and build quality that Christy relied on through his tenure with Death, Control Denied, and his subsequent career as a performer and educator.
+
+**Q: What cymbals does Richard Christy use?**
+
+A: Richard Christy uses Sabian AA and AAX series cymbals. His setup includes Sabian 14 inch AA Regular Hi-Hats, Sabian 16 inch AAX and 18 inch AA Crashes, a Sabian 20 inch AA Medium Ride, and a Sabian 18 inch AAX Chinese. The AA series delivers a traditional, bright, and cutting sound while the AAX pieces add a more contemporary focused attack. This combination gave Christy the projection and clarity needed for technically demanding death metal playing.
+
+**Q: How much does Richard Christy's death metal kit cost?**
+
+A: Richard Christy's Pearl Masters Custom shell pack originally retailed for approximately $2,500 to $4,000 in the late 1990s. Used Masters Custom shells in good condition today sell for roughly $1,000 to $2,500. His Sabian AA and AAX cymbals remain in production, with a comparable full setup costing between $1,200 and $2,000 new. Building a complete kit matching Christy's classic death metal configuration today runs approximately $4,000 to $7,000 depending on hardware and pedal choices.
+
 **Source:** https://metalforge.io/articles/whats-in-richard-christys-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

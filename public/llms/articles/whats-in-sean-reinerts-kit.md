@@ -100,8 +100,22 @@ This was the sound of jazz meeting metal — sophisticated, dynamic, and utterly
 - Estimated kit value: $3,000-5,000 (professional maple kits)
 - Estimated snare value: $300-700 per snare (professional quality)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Sean Reinert use throughout his career?**
+
+A: Sean Reinert used several kits across his career, including Pearl, Tama, and Mapex setups depending on the project. He favored maple shells for their warm response, working with bass drums in both 20 and 22 inch sizes to suit jazz and death metal contexts. His configurations typically included 10 and 12 inch rack toms and 14 and 16 inch floor toms, balancing melodic sensitivity with the power required for technical death metal.
+
+**Q: What cymbals did Sean Reinert use throughout his career?**
+
+A: Sean Reinert was closely associated with Sabian cymbals, drawing from the AA, AAX, and HHX lines. His setup typically featured 14 inch AA or HHX Evolution hi-hats, an AA 16 inch crash paired with an AAX 18 inch crash, a large HHX or AA ride between 20 and 22 inches, an 18 inch AAX Chinese, and an 8 or 10 inch splash. Sabian's darker, more complex tones complemented his jazz-influenced approach to death metal.
+
+**Q: How much does Sean Reinert's signature kit cost?**
+
+A: Because Sean Reinert used different brands at different points in his career, assembling a representative setup requires flexibility. A quality maple shell pack from Pearl, Tama, or Mapex in a similar configuration runs $3,000 to $5,000. Adding a full Sabian AA, AAX, and HHX cymbal setup brings the total to roughly $7,000 to $10,000. Individual snares in his preferred 14 inch depths range from $300 to $700 each.
+
 **Source:** https://metalforge.io/articles/whats-in-sean-reinerts-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

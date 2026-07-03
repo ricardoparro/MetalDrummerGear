@@ -74,8 +74,30 @@ The A Custom China brings controlled aggression. Unlike raw, unfinished chinas, 
 - Estimated kit value: $3,500–6,000 (Pearl Reference shell pack)
 - Estimated snare value: $400–700 (Pearl Free-Floating, various models)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Gene Hoglan use?**
+
+A: Gene Hoglan plays Pearl drums — primarily the Pearl Reference and Pearl Reference Pure series. The Reference features a maple/African mahogany hybrid shell construction that delivers the focused attack and warm low-end body his death and thrash metal work demands. He runs a double-kick configuration with two 22" x 18" bass drums, and a five-tom spread (10", 12", 14", 16", 18") that allows the melodic fill work characteristic of his Death-era recordings.
+
+**Q: What cymbals does Gene Hoglan play?**
+
+A: Gene Hoglan plays Zildjian A Custom cymbals. His setup includes 14" A Custom Hi-Hats, a 17" and 19" A Custom Crash, a 20" A Custom Ride, an 18" A Custom China, and a 10" splash. The A Custom series' bright, focused, fast-decaying character suits death metal production — cymbals that speak immediately and clear quickly without blurring the rhythmic density of extreme metal arrangements.
+
+**Q: Why is Gene Hoglan called The Atomic Clock?**
+
+A: Gene Hoglan earned the nickname 'The Atomic Clock' from fellow musicians who observed his extraordinary internal metronomic consistency. Where most drummers drift slightly over time — adjusting naturally to the feel of a live room or the energy of bandmates — Hoglan maintains his internal pulse with a precision that recording engineers and producers describe as machine-like. The nickname reflects his ability to sustain exact tempo across a full performance without the micro-fluctuations that characterize most human drummers. Crucially, this precision coexists with musical expression — the Death albums on which the nickname solidified (Human, Individual Thought Patterns) are musically sophisticated recordings, not robotic exercises.
+
+**Q: What double bass pedal does Gene Hoglan use?**
+
+A: Gene Hoglan uses the DW 9000 double bass pedal. The 9000 series is DW's flagship chain-drive pedal — featuring dual-chain drive, an adjustable eccentric cam system, and precision engineering that makes it one of the most consistent and responsive pedals available. The adjustable cam allows Hoglan to dial in the exact acceleration curve and rebound angle his heel-up double-kick technique requires, ensuring consistent feel across the full arc of a demanding live performance.
+
+**Q: What bands has Gene Hoglan played with?**
+
+A: Gene Hoglan has played with Dark Angel (Darkness Descends, Leave Scars, Time Does Not Heal), Death (Human, Individual Thought Patterns), Testament (Low), Strapping Young Lad (City, Alien, The New Black), Dethklok (Dethalbum II, III), and Fear Factory, among many others. His work with Death in the early 1990s is considered the high point of death metal drumming and the recordings most responsible for the 'Atomic Clock' reputation.
+
 **Source:** https://metalforge.io/articles/gene-hoglan-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

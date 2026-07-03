@@ -72,8 +72,30 @@ For drummers looking to understand how cymbal choice shapes album character, the
 - Estimated kit value: $4,000–7,000 (DW Collector's Series shell pack)
 - Estimated snare value: $500–900 (DW Collector's Series snare)
 
+## Frequently Asked Questions
+
+**Q: What drums does Brann Dailor use on Crack the Skye?**
+
+A: Brann Dailor recorded Mastodon's Crack the Skye (2009) using a DW Collector's Series drum kit with maple shells in a natural satin finish. The configuration featured a double bass drum setup with two 22 inch kick drums, three rack toms (10, 12, and 13 inch), and a 16 inch floor tom. The DW Collector's Series maple shells gave the kit the warm, resonant tone that allowed Dailor's melodic tom patterns to function as musical melodies rather than purely rhythmic punctuation — central to what makes Crack the Skye's drum sound so distinctive.
+
+**Q: What cymbals does Brann Dailor use on Crack the Skye?**
+
+A: On Crack the Skye (2009), Brann Dailor used Meinl Byzance series cymbals throughout the recording sessions. The Byzance Traditional series — hand-hammered B20 bronze using Turkish techniques — produces dark, warm, complex tones that suited the album's atmospheric and conceptual character. His setup included 14 inch Traditional hi-hats, an 18 inch Traditional Thin Crash, a 20 inch Traditional Medium Crash, a 22 inch Traditional Ride, and an 18 inch China. The Meinl Byzance series has remained central to Dailor's cymbal setup across Mastodon's subsequent albums.
+
+**Q: What makes Brann Dailor's drumming style unique on Crack the Skye?**
+
+A: Brann Dailor's drumming on Crack the Skye is defined by what music educators call the 'drummer as melodist' approach. Rather than playing drums in service of the guitar riffs — as most metal drummers do — Dailor treats the kit as a melodic instrument equal to the guitars. Tom patterns function as counter-melodies, responding to guitar harmonics and vocal lines with musical intelligence. The album also features significant polyrhythmic complexity, including 7-over-4 bass drum patterns on the title track and compound metric structures across multi-movement suites like 'The Czar.' Dailor also sings extensive harmonies and lead vocal passages while executing these technically demanding drum parts — a combination of skills almost unique in heavy music at the highest level.
+
+**Q: What double pedal does Brann Dailor use on Crack the Skye?**
+
+A: On Crack the Skye (2009), Brann Dailor used a DW 9000 double bass drum pedal. The DW 9000 was his era-specific choice for the album's double kick setup, providing smooth chain drive action with adjustable cam and footboard angle settings. The DW 9000's consistent primary-to-secondary pedal response was important for the 7-over-4 polyrhythmic bass drum patterns on the title track and the extended double-kick passages in 'The Last Baron.' It is worth noting that Dailor later moved away from double kick on subsequent Mastodon albums, returning to a single bass drum approach that reflects his compositional priority of groove and feel over speed.
+
+**Q: Where was Crack the Skye recorded?**
+
+A: Crack the Skye was recorded at Doppler Studios in Atlanta, Georgia — Mastodon's home city. The album was produced by Brendan O'Brien, whose credits include Pearl Jam, Soundgarden, and AC/DC. O'Brien's large-room production philosophy and emphasis on natural ambience gave the drum sound a wide, dimensional quality that differed significantly from the denser, more compressed drum sounds on Mastodon's earlier albums. The Atlanta sessions took place in 2008 ahead of the March 2009 release.
+
 **Source:** https://metalforge.io/articles/crack-the-skye-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -81,8 +81,22 @@ The effects cymbals — chinas and trash stacks — are essential for djent's rh
 - Estimated kit value: $4,500-6,000 (Saturn V MH Exotic kit)
 - Estimated snare value: $450-800 (Black Panther Design Lab snares)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Matt Halpern use with Periphery?**
+
+A: Matt Halpern plays the Mapex Saturn V MH Exotic, a signature-influenced kit built around a maple and walnut hybrid shell with SONIClear bearing edges. His configuration includes a 22x18 inch bass drum, 10x7 and 12x8 inch rack toms, and 14 and 16 inch floor toms. The maple and walnut combination delivers focused attack with extended sustain, and SONIClear edges maximize resonance and tuning stability across Periphery's wide dynamic range.
+
+**Q: What cymbals does Matt Halpern use with Periphery?**
+
+A: Matt Halpern plays Meinl Byzance cymbals, drawing from the Traditional, Extra Dry, Dual, and Pure Alloy lines. His setup includes 14 inch Byzance Dual hi-hats, Byzance Extra Dry 18 inch and Dual 19 inch crashes, a 22 inch Byzance Extra Dry Medium Ride, an 18 inch Byzance Brilliant China, and Meinl Trash Stack effects. The Byzance line's handcrafted construction provides the complex, nuanced tones that suit Periphery's progressive metal compositions.
+
+**Q: How much does Matt Halpern's Periphery kit cost?**
+
+A: The Mapex Saturn V MH Exotic shell pack retails for approximately $4,500 to $6,000. Adding a Mapex Black Panther Design Lab snare brings in an additional $450 to $800. A full Meinl Byzance cymbal setup across multiple series typically costs $3,000 to $5,000. In total, a complete Matt Halpern-inspired rig runs roughly $9,000 to $12,000.
+
 **Source:** https://metalforge.io/articles/whats-in-matt-halperns-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

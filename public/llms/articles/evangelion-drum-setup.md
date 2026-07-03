@@ -65,8 +65,30 @@ The 14" Dark hi-hats were central to Inferno's blast beat technique on this albu
 - Estimated kit value: $3,000–5,000 (Tama Starclassic Maple professional configuration)
 - Estimated snare value: $300–500 (Tama steel snare)
 
+## Frequently Asked Questions
+
+**Q: What drums does Inferno use on Evangelion?**
+
+A: Inferno used a Tama Starclassic Maple kit on Evangelion (2009), configured with double 22" kick drums, a compact rack tom spread, and a 14" Tama steel snare. The setup was optimized for blast beat velocity — a tighter, more focused configuration than the expanded kits often used in live performance contexts. The all-maple shell construction delivered warmth and tonal definition in the Hertz Studio recording environment. For Inferno's current live kit, see the [What's In Inferno's Kit breakdown](/articles/whats-in-infernos-kit).
+
+**Q: How is Inferno drum setup different on Evangelion vs The Satanist?**
+
+A: On Evangelion (2009), Inferno used a tighter Tama Starclassic Maple configuration with Meinl Byzance Dark cymbals, optimized for the album's extreme blast beat velocity at 200–240 BPM. On The Satanist (2014), he retained the Tama Starclassic Maple platform but paired it with a Pearl Masterworks snare and Meinl Classics Custom Dark cymbals, and the broader cymbal voicing matched the later album's more dynamic, groove-driven arrangements. The Satanist's drumming is less about raw blast speed and more about compositional power — a reflection of how Behemoth's songwriting evolved between the two records. See the full [The Satanist drum setup breakdown](/articles/the-satanist-drum-setup) for the detailed comparison.
+
+**Q: How fast does Inferno play blast beats on Evangelion?**
+
+A: Inferno delivers blast beats in the 200–240 BPM range on Evangelion, executed with single-stroke alternating technique. Tracks like "Ov Fire and the Void" and "Shemhamforash" feature extended blast sections at near-maximum velocity, maintained across the full length of each arrangement. The Axis A Longboard double pedal's mechanical precision and the Meinl Byzance Dark hi-hats' fast-decay character were both critical to sustaining this velocity with rhythmic clarity — sloppy or wash-heavy cymbal response would obscure the kick-snare interplay at these tempos.
+
+**Q: What cymbals did Inferno use on Evangelion?**
+
+A: Inferno used Meinl Byzance Dark cymbals on Evangelion — including 14" Dark hi-hats, 16" and 18" Dark crashes, and a 20" Dark ride. The Byzance Dark series is valued for its dry, fast-decaying character: at 200–240 BPM blast beat tempos, cymbals with excessive sustain create sonic wash that obscures rhythmic definition. The Byzance Dark's controlled response allowed each hi-hat closure and crash accent to register as a distinct event within the album's dense, downtuned arrangements. This differs from the Meinl Classics Custom Dark series Inferno used on The Satanist — a different voicing choice suited to that album's broader dynamic range.
+
+**Q: What double pedal did Inferno use on Evangelion?**
+
+A: Inferno used an Axis A Longboard double pedal during the Evangelion era. The Axis A's direct-drive mechanism and extended longboard footplate deliver the mechanical precision and consistent power transfer that extreme blast beat performance at 200–240 BPM requires. At maximum double-bass tempos, chain-drive systems can introduce energy loss or inconsistency; the Axis direct-drive eliminates those variables. The longboard design also provides additional foot leverage during sustained double-bass passages. For a full breakdown of Inferno's double pedal evolution, see the [Inferno drum setup overview](/articles/whats-in-infernos-kit).
+
 **Source:** https://metalforge.io/articles/evangelion-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

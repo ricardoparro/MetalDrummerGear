@@ -72,8 +72,26 @@ Zildjian A's B20 alloy construction gave these cymbals the durability to handle 
 - Estimated kit value: $800–1,200 (Pearl Export, 1990)
 - Estimated snare value: $350–500 (Pearl Free-Floating, 1990)
 
+## Frequently Asked Questions
+
+**Q: What drums did Sean Reinert use on Spiritual Healing?**
+
+A: On Death's Spiritual Healing (1990), Sean Reinert used a Pearl Export series kit — his pre-endorsement professional configuration. The setup featured a single 22" x 16" bass drum with a Pearl P-100P double pedal, rack toms at 10" and 12", and floor toms at 14" and 16". This was Reinert's debut album with Death, recorded at Morris Sound Corporation in Tampa with producer Randy Burns. The Pearl Export represented the transitional gear era between Death's earlier rawer recordings and the Tama Artstar II setup he would use on Human (1991).
+
+**Q: Is Sean Reinert the drummer on both Spiritual Healing and Human?**
+
+A: Yes. Sean Reinert played drums on both Death's Spiritual Healing (1990) and Human (1991) — making these two consecutive albums his complete tenure with Death as a recording drummer. Spiritual Healing was his debut with the band, recorded at Morris Sound Corporation in Tampa. Human followed the next year at Morrisound Recording, also in Tampa. Reinert and guitarist Paul Masvidal (also on both albums) then went on to form Cynic, where they recorded Focus (1993). The two Death albums together form Reinert's complete contribution to the Death discography.
+
+**Q: How does Spiritual Healing differ from Human in terms of drumming style?**
+
+A: Spiritual Healing (1990) and Human (1991) represent two stages of Sean Reinert's musical development with Death. On Spiritual Healing, Reinert's playing is aggressive and powerful — solidly within the death metal template — with the early signs of the jazz vocabulary emerging: ghost notes beginning to appear, double-bass used musically rather than constantly, fills with growing melodic awareness. On Human, those elements had fully developed into a complete jazz-death fusion vocabulary: ride cymbal as a lead voice, ghost notes throughout, polyrhythmic complexity, and dynamic shading that jazz and progressive rock fans could appreciate. Spiritual Healing is where Reinert found his footing with Death; Human is where he defined what was possible.
+
+**Q: What gear was Sean Reinert using before his DW endorsement?**
+
+A: Before his DW endorsement, Sean Reinert used Pearl equipment. On Spiritual Healing (1990), his setup included a Pearl Export series kit (poplar/basswood shells), a Pearl Free-Floating 14" x 6.5" snare, and Pearl P-100P twin pedals for double-bass. His cymbals were Zildjian A series throughout: 14" New Beat hi-hats, 16" and 18" A crashes, a 20" A ride, and a 16" China. By Human (1991), Reinert had moved to a Tama Artstar II kit and DW 5000 double pedal. The Spiritual Healing-era Pearl gear is therefore the earliest documented professional setup of his career with Death.
+
 **Source:** https://metalforge.io/articles/spiritual-healing-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

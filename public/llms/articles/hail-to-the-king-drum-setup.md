@@ -69,8 +69,26 @@ The 20" A Custom Ride provided clear bell definition for riding passages — a b
 - Estimated kit value: $4,500-8,000 (shell pack with hardware)
 - Estimated snare value: $350-600
 
+## Frequently Asked Questions
+
+**Q: What drums did Arin Ilejay use on Hail to the King?**
+
+A: Arin Ilejay recorded Hail to the King (2013) using a DW Collector's Series drum kit in Tobacco Burst finish. His configuration included double 22" x 18" bass drums, three rack toms (10", 12", 14"), and two floor toms (16", 18"). The shells are built from North American Hard Rock Maple, chosen for their attack, projection, and tonal clarity — essential characteristics for the arena-scale performances A7X's touring demands. The DW Collector's Series is DW's flagship production lineup, used by professional drummers across mainstream metal.
+
+**Q: Why did Arin Ilejay leave Avenged Sevenfold?**
+
+A: Arin Ilejay's departure from Avenged Sevenfold in late 2014 was not accompanied by a detailed public explanation from either Ilejay or the band at the time. The band announced they were parting ways with Ilejay and shortly afterward confirmed that Brooks Wackerman (then of Bad Religion) would join as his replacement. Ilejay later stated in interviews that the parting was amicable but that he had been let go rather than choosing to leave. He has continued drumming professionally since his departure. Hail to the King (2013) remains the only full studio album he recorded as A7X's official drummer.
+
+**Q: What is the drum setup on Hail to the King?**
+
+A: The drum setup on Avenged Sevenfold's Hail to the King (2013) centers on a DW Collector's Series kit in Tobacco Burst finish, a DW 14" x 5.5" Collector's Maple/Mahogany snare, Zildjian A Custom cymbals (14" hi-hats, 16", 18", and 19" crashes, 20" ride, and a China), and DW 9000 Series double bass pedals. Drummer Arin Ilejay played Vic Firth American Classic 5A sticks. The production, handled by Mike Elizondo, prioritized a punchy, direct drum sound that matched the album's deliberate classic heavy metal aesthetic.
+
+**Q: How does Arin Ilejay's kit on Hail to the King compare to The Rev's setup?**
+
+A: The Rev (Jimmy Sullivan) played a Pearl kit with Zildjian cymbals during Avenged Sevenfold's earlier era — notably on City of Evil (2005) and Avenged Sevenfold (2007). His approach was technically extravagant, with jazz-influenced fills and unconventional patterns that set him apart from most mainstream metal drummers. Arin Ilejay's DW Collector's setup on Hail to the King (2013) reflects a completely different philosophy: power and authority in service of the album's classic metal aesthetic, rather than technical showmanship. The gear choices — DW over Pearl, Zildjian A Custom throughout — are broadly comparable in quality tier, but the playing approach and production context are distinctly different. Ilejay deliberately did not try to replicate The Rev's style.
+
 **Source:** https://metalforge.io/articles/hail-to-the-king-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

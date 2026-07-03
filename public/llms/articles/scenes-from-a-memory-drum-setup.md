@@ -78,8 +78,30 @@ The HH Chinese cymbal added the aggressive, unexpected accent that punctuates th
 - Estimated kit value: $4,000-6,500 (1999) / $5,000-9,000 (vintage today)
 - Estimated snare value: $400-550 (1999) / $500-750 (vintage today)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Mike Portnoy use on Metropolis Pt. 2: Scenes from a Memory?**
+
+A: Mike Portnoy recorded Metropolis Pt. 2: Scenes from a Memory (1999) on a Tama Starclassic Maple kit in cherry fade finish, with double 22"x18" bass drums and six toms ranging from 8" to 16". This was a distinct setup from the Tama Artstar II birch shells he used on Images and Words (1992). The maple shells provided a warmer, more resonant tone suited to the concept album's emotional depth. For more on his current gear, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
+
+**Q: What cymbals did Mike Portnoy use on Scenes from a Memory?**
+
+A: For the SFaM sessions, Portnoy used Sabian Artisan cymbals — a premium hand-hammered series with a darker, warmer character than the Zildjian A Custom cymbals he had used on Images and Words. His setup included Artisan 14" hi-hats, multiple Artisan crashes (16", 17", 18"), an Artisan 20" ride, a Sabian HH 19" crash, and a Sabian HH 18" Chinese cymbal. The shift from Zildjian to Sabian Artisan cymbals represents one of the key gear differentiators between the Images and Words era and the SFaM era.
+
+**Q: Did Mike Portnoy really play tabla on Scenes from a Memory?**
+
+A: Yes. Mike Portnoy performed tabla — the paired Indian hand drums central to Hindustani classical music — on "Beyond This Life," during the meditative regression sequence in the song's middle section. He studied the instrument specifically for this recording. The tabla tracks were overdubbed separately from the main drum kit performances. This made the SFaM recording process one of the most unusual in Portnoy's studio career and demonstrated his commitment to serving the concept album's narrative through every available musical means.
+
+**Q: What pedals did Mike Portnoy use on Metropolis Pt. 2?**
+
+A: For Scenes from a Memory, Mike Portnoy used DW 5000 double pedals — a change from the Tama Iron Cobra double pedal he had used on Images and Words. The DW 5000 is a chain-drive pedal with a longer footboard and progressive spring tension, and it was the workhorse professional double pedal of the late 1990s. The change in pedal feel is one reason the double bass work on SFaM has a slightly different character than on earlier Dream Theater recordings.
+
+**Q: How does the SFaM drum setup differ from the Images and Words setup?**
+
+A: The two setups represent distinct eras separated by seven years of development. Key differences: (1) Kit — SFaM uses Tama Starclassic Maple (cherry finish) vs. Images and Words's Tama Artstar II birch. Maple is warmer and more resonant; birch is punchier with more attack. (2) Cymbals — SFaM uses Sabian Artisan (dark, warm) vs. Zildjian A Custom (bright, cutting). (3) Pedals — SFaM uses DW 5000 vs. Tama Iron Cobra on Images and Words. (4) Bass drum depth — SFaM's 22"x18" vs. 22"x16" provides more low-end mass. See the [Images and Words drum setup article](/articles/images-and-words-drum-setup) for the full comparison.
+
 **Source:** https://metalforge.io/articles/scenes-from-a-memory-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

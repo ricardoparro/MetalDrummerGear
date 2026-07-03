@@ -82,8 +82,22 @@ All cymbals were positioned relatively low and flat, allowing Igor to strike the
 - Estimated kit value: $2,500-3,500 (1996) / $4,000-6,000 (vintage today)
 - Estimated snare value: $300-400 (1996)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Igor Cavalera use on Roots?**
+
+A: On Sepultura's Roots recorded in 1996, Igor Cavalera played a Pearl Masters Custom kit with 6-ply maple shells. The setup featured a single 22x18 inch bass drum, rack toms in 10 and 12 inches, and floor toms in 14 and 16 inches. The maple shells provided warmth and sustain that complemented the album's tribal, groove-focused compositions, which incorporated indigenous Brazilian percussion alongside the standard drum kit.
+
+**Q: What cymbals did Igor Cavalera use on Roots?**
+
+A: On Roots in 1996, Igor Cavalera used the Paiste RUDE series exclusively. His setup included Paiste RUDE 14 inch hi-hats, RUDE 18 and 19 inch Crash/Rides, a RUDE 20 inch Ride, and a RUDE 18 inch China. The RUDE series is known for its raw, aggressive character and cutting projection, qualities that suited the album's raw, tribal-metal sound and Cavalera's hard-hitting, open style.
+
+**Q: How much does Igor Cavalera's Roots kit cost?**
+
+A: At the time of recording in 1996, a Pearl Masters Custom kit was priced at approximately $2,500 to $3,500. Today, used Pearl Masters Custom kits from the mid-1990s can be found for $800 to $2,000 depending on condition. The Pearl Sensitone Steel snare adds roughly $150 to $300 on the used market. A matching set of vintage Paiste RUDE cymbals would cost $1,000 to $2,000, putting a complete replica in the $2,000 to $4,500 range.
+
 **Source:** https://metalforge.io/articles/roots-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

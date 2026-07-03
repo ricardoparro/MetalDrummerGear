@@ -81,8 +81,22 @@ Multiple splash cymbals gave Mike quick accent options without the sustain of la
 - Estimated kit value: $3,500-5,000 (1992) / $4,000-7,000 (vintage today)
 - Estimated snare value: $350-450 (1992) / $400-600 (vintage today)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Mike Portnoy use on Images and Words?**
+
+A: Mike Portnoy recorded Images and Words in 1992 using a Tama Artstar II Custom kit with birch shells and Star-Cast mounting. The setup featured dual 22x16 inch bass drums, rack toms at 8, 10, 12, and 13 inches, and 14 and 16 inch floor toms. The Artstar II was Tama's flagship professional line at the time, and its birch shells provided the bright, articulate tone heard across Dream Theater's breakthrough album.
+
+**Q: What cymbals did Mike Portnoy use on Images and Words?**
+
+A: Mike Portnoy used Zildjian A Custom and K Custom series cymbals on Images and Words. His setup included A Custom 14 inch Hi-Hats, A Custom crashes from 16 to 19 inches, an A Custom 20 inch Medium Ride, a Zildjian Oriental 18 inch China Trash, and A Custom splashes at 8 and 10 inches. The A Custom series was known for its bright, cutting sound that cut through the progressive arrangements on the album.
+
+**Q: How much does Mike Portnoy's Images and Words drum kit cost?**
+
+A: At the time of the 1992 recording, the Tama Artstar II Custom kit was valued at around $3,500 to $5,000. Today, vintage Artstar II kits in playable condition can be found on the used market for $700 to $2,500. Vintage Zildjian A Custom cymbals from that era add another $400 to $1,200 used. Reproducing the full Images and Words setup with vintage gear typically costs between $1,100 and $3,700 today.
+
 **Source:** https://metalforge.io/articles/images-and-words-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

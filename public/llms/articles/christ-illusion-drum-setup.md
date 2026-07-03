@@ -68,8 +68,30 @@ The transition from Paiste to Zildjian A Custom reflected both evolving sound pr
 - Estimated kit value: $3,500-5,000 (2006)
 - Estimated snare value: $400-600 (2006)
 
+## Frequently Asked Questions
+
+**Q: What drums did Dave Lombardo use on Christ Illusion?**
+
+A: Dave Lombardo recorded Christ Illusion (2006) using a Pearl Masters MCX kit in Black Ice finish, with two 22x18-inch bass drums, 10" and 12" rack toms, and 14" and 16" floor toms. The MCX's mahogany-birch hybrid shells delivered a warmer, deeper tone than the Tama Artstar II birch setup he had used on Reign in Blood twenty years earlier.
+
+**Q: Is Christ Illusion Lombardo's first Slayer album after his return?**
+
+A: Christ Illusion (2006) was Lombardo's second stint with Slayer, but it was his first album after the major gap: he had left after Seasons in the Abyss in 1990, a 14-year absence. He briefly rejoined for Diabolus in Musica (1998), but Christ Illusion is the album that fully marked his comeback and captured critical attention — particularly after winning the Grammy for Best Metal Performance.
+
+**Q: Did Christ Illusion win a Grammy?**
+
+A: Yes. The track "Eyes of the Insane" from Christ Illusion won the Grammy Award for Best Metal Performance at the 2007 Grammy Awards. It was Slayer's first Grammy win. The recognition was notable not just for the band but for Lombardo specifically — it was the highest-profile Grammy recognition of his drumming career.
+
+**Q: What snare did Dave Lombardo use on Christ Illusion?**
+
+A: Dave Lombardo used a Pearl Free-Floating 14x6.5 brass snare for Christ Illusion. The Free-Floating system positions the snare wires independently of the shell, maximizing sensitivity and response. The brass shell gave a cutting, metallic character distinct from the steel Tama snare he had used on Reign in Blood. The snare is particularly prominent on "Eyes of the Insane," the Grammy-winning track.
+
+**Q: What cymbals did Dave Lombardo use on Christ Illusion?**
+
+A: Dave Lombardo used Zildjian A Custom series cymbals on Christ Illusion — a complete departure from the Paiste 2002 and RUDE series he had used on Reign in Blood. The A Custom's bright, cutting character suited Josh Abraham's modern production aesthetic. His setup included A Custom 14" Hi-Hats, 16" and 18" Crashes, a 20" Ride, and an 18" China. The China cymbal maintained the position above the floor tom that it had occupied across every Lombardo-era Slayer album.
+
 **Source:** https://metalforge.io/articles/christ-illusion-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

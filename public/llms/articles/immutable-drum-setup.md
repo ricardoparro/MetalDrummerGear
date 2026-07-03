@@ -70,8 +70,30 @@ The K 19" China continues Meshuggah's preference for trashy, definitive section 
 - Estimated kit value: $6,000-8,500 (2022)
 - Estimated snare value: $350-500 (2022)
 
+## Frequently Asked Questions
+
+**Q: What does Tomas Haake play on Immutable?**
+
+A: On Meshuggah's Immutable (2022), Tomas Haake played a Tama Starclassic Bubinga custom kit in Meshuggah-spec configuration — two 22x18 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. His snare was a Tama Starphonic Steel at 14x6.5 inches. The Bubinga outer ply with maple inner shells delivers the hard, articulate attack essential for Meshuggah's downtuned, polyrhythmic music. This configuration evolved from the setup he used on The Violent Sleep of Reason (2016), refined during the COVID-enforced production delay.
+
+**Q: What cymbals did Meshuggah use on Immutable?**
+
+A: Tomas Haake used a hybrid Zildjian setup on Immutable: Zildjian A Custom series for hi-hats (14 inch), primary crash (18 inch), ride (21 inch), and splash (10 inch), supplemented by K series additions for darker overtones — including a K Custom Dark 19 inch crash and a K 19 inch China. The A Custom series provides the bright, fast-responding sound Haake needs for intricate hi-hat patterns and precise crash accents, while the K series additions introduced after 2016 add darker, more complex overtones for tonal contrast. This hybrid approach replaced his earlier Sabian AAX/AA setup.
+
+**Q: How does Immutable differ from obZen gear-wise?**
+
+A: Immutable (2022) and obZen (2008) represent fourteen years of gear evolution for Tomas Haake. On obZen, Haake played Sonor Designer Series maple/beech shells with Sabian AAX/AA cymbals and two independent Sonor Perfect Balance single pedals. By Immutable, the kit was Tama Starclassic Bubinga (harder attack, denser shell), cymbals had shifted to Zildjian A Custom and K series (brighter hi-hats, darker crash options), and the pedal approach evolved to an Axis A longboard double pedal. The Porter & Davies BC2 throne and Remo head selection remain consistent across both albums — anchors in an otherwise significantly evolved setup.
+
+**Q: Did Tomas Haake change his pedal setup for Immutable?**
+
+A: Yes — Immutable marks a notable transition in Haake's pedal approach. For most of his career, including obZen and earlier albums, Haake used two completely independent single pedals rather than a double pedal, prioritizing absolute foot independence. For Immutable, he adopted the Axis A longboard double pedal — a connected double pedal with an extended footboard and a linkage engineered to minimize energy transfer between feet. The COVID production delay provided additional time to fully integrate this change before entering the studio, ensuring the new pedal feel was fully embedded in his muscle memory.
+
+**Q: What album is Immutable on and when was it released?**
+
+A: Immutable is Meshuggah's tenth studio album, released on April 1, 2022 on Atomic Fire Records — their first album on the label after decades with Nuclear Blast. The album was originally planned for release around 2020 but was delayed by the COVID-19 pandemic, which inadvertently gave Tomas Haake additional time to refine his drum setup and integrate new hardware. The album earned a Grammy nomination for Best Metal Performance for the track "The Abysmal Eye" at the 2023 Grammy Awards.
+
 **Source:** https://metalforge.io/articles/immutable-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

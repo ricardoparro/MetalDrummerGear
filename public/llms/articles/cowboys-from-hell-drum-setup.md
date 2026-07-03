@@ -69,8 +69,22 @@ The 18" China cymbal was essential to Pantera's sound. Those trashy, explosive a
 - Estimated kit value: $3,000-4,500 (1990)
 - Estimated snare value: $300-400 (1990)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Vinnie Paul use on Cowboys from Hell?**
+
+A: On Cowboys from Hell recorded in 1990, Vinnie Paul played a Tama Artstar II kit. The configuration included dual 22x18 inch bass drums, rack toms in 10, 12, and 13 inches, and floor toms in 16 and 18 inches. The Artstar II featured birch shells with die-cast hoops, which contributed to the tight, punchy low-end that became a signature element of Pantera's debut major-label sound and set the template for groove metal drumming.
+
+**Q: What cymbals did Vinnie Paul use on Cowboys from Hell?**
+
+A: For Cowboys from Hell in 1990, Vinnie Paul used Sabian AA and early AAX series cymbals. His setup included Sabian AA 14 inch Regular hi-hats, AA 16 and 18 inch Medium crashes, an AAX 19 inch Metal Crash for extra aggression, an AA 20 inch Heavy Ride, and an AA 18 inch Chinese. The AA series provided the bright, cutting attack that defined the album's raw production, pairing well with Dimebag's heavily processed guitar tones.
+
+**Q: How much does Vinnie Paul's Cowboys from Hell kit cost?**
+
+A: At the time of recording in 1990, a Tama Artstar II kit was valued at approximately $3,000 to $4,500. Today, vintage Tama Artstar II kits in good condition sell on the used market for roughly $1,500 to $3,000 depending on configuration and condition. The Tama steel snare adds around $200 to $400 on the vintage market. A period-correct Sabian AA cymbal setup would cost another $800 to $1,500, putting a full vintage recreation at $2,500 to $5,000.
+
 **Source:** https://metalforge.io/articles/cowboys-from-hell-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

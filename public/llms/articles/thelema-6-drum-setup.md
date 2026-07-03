@@ -65,8 +65,26 @@ The two-crash configuration — 16" and 18" — provided the accent palette for 
 - Estimated kit value: $2,500–4,000 (Pearl Masters Premium, new 2002 pricing); $1,200–2,500 (current used market)
 - Estimated snare value: $400–700 (Pearl premium snare, this era)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Inferno use on Thelema.6?**
+
+A: For Thelema.6 (2002), Inferno used a Pearl Masters Premium kit — Pearl's flagship production shell line of the early 2000s, built with 6-ply master-grade maple using Pearl's Super Shell Technology (SST) construction. The configuration included double 22" x 18" bass drums, two rack toms, and two floor toms, paired with a Pearl snare and Meinl cymbals. This setup predates the Tama Starclassic Maple he would use for later Behemoth studio sessions including Evangelion (2009) and The Satanist (2014). For the full arc of Inferno's kit evolution, see the [Inferno drummer profile](/drummer/inferno).
+
+**Q: How does Thelema.6 represent the transition from black metal to death metal in Inferno's drumming?**
+
+A: Thelema.6 (2002) is the key transitional document in Inferno's recorded career. The album retains the blast beat-forward, Norwegian-influenced black metal character of Behemoth's earliest work, but introduces a more compositionally structured approach to arrangement and rhythm: varying kick drum groupings rather than pure alternating blast eighths, more deliberate crash and tom placement, and passages of controlled midtempo playing that preview the polyrhythmic death metal style fully realized on Demigod (2004). The Pearl Masters Premium kit of this era supported that expansion — its all-maple construction provided tonal warmth that suits both the raw black metal blast and the more measured death metal passages beginning to emerge. Compare to the fully evolved technique on the [Evangelion drum setup](/articles/evangelion-drum-setup) and [The Satanist drum setup](/articles/the-satanist-drum-setup).
+
+**Q: What is the estimated cost of Inferno's Thelema.6 Pearl Masters Premium kit?**
+
+A: A Pearl Masters Premium kit comparable to Inferno's Thelema.6 configuration (double 22" bass drums, standard tom spread, professional Pearl hardware) would have retailed for approximately $2,500–4,000 new in the early 2000s. On the current used market, Pearl Masters Premium kits from this era typically sell for $1,200–2,500 depending on condition and finish. Adding equivalent snare ($400–700 for Pearl premium series), Meinl professional cymbals ($800–1,400), and hardware, the complete Thelema.6 rig represents an investment of approximately $4,700–8,100 at original retail or $2,800–5,500 current used market. For context on how this compares to Inferno's later studio setups, the [The Satanist drum setup](/articles/the-satanist-drum-setup) details the Tama Starclassic Maple / Pearl Masterworks snare / Meinl Classics Custom Dark configuration.
+
+**Q: Where was Thelema.6 recorded and who produced it?**
+
+A: Thelema.6 was recorded at Hertz Studio in Białystok, Poland — the facility that would become Behemoth's long-term recording home. The studio is operated by brothers Wojtek and Sławek Wiesławski, who have engineered and produced major records for Vader, Decapitated, Hate, and other Polish extreme metal acts. The album was produced by Behemoth with Arkadiusz 'Malta' Malczewski. This session helped establish the ongoing Wiesławski production relationship that would yield Evangelion (2009) and The Satanist (2014). For the complete story of how Hertz Studio shaped Behemoth's recorded sound, see the [Inferno drummer profile](/drummer/inferno).
+
 **Source:** https://metalforge.io/articles/thelema-6-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

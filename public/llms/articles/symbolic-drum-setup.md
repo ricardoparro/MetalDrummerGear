@@ -75,8 +75,22 @@ The 18" Novo China added the explosive, trashy accents that punctuate transition
 - Estimated kit value: $2,500-3,500 (1995)
 - Estimated snare value: $350-450 (1995)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Gene Hoglan use on Symbolic?**
+
+A: Gene Hoglan recorded Death's Symbolic in 1995 using a Tama Artstar II kit. The configuration included dual 22x16 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Artstar II shells were birch with maple reinforcement rings, delivering a tight, focused attack well-suited to the technical precision required on Symbolic. His snare was a Tama Mastercraft Steel model at 14x6.5 inches, adding crisp, cutting backbeats throughout the recording.
+
+**Q: What cymbals did Gene Hoglan use on Symbolic?**
+
+A: Gene Hoglan used a combination of Paiste 2002 and RUDE cymbals on Symbolic. The setup included Paiste 2002 14 inch Sound Edge hi-hats, 2002 16 and 18 inch Crashes, a RUDE 19 inch Wild Crash, a 2002 22 inch Medium Ride, and a 2002 18 inch Novo China. The 2002 series is known for its bright, powerful projection, while the RUDE Wild Crash adds an explosive, trashy texture that cuts through Death's dense, layered guitar work on the album.
+
+**Q: How much did Gene Hoglan's Symbolic drum kit cost?**
+
+A: In 1995, the Tama Artstar II shell pack was priced at approximately $2,500 to $3,500, with the Tama Mastercraft Steel snare adding $350 to $450. The Paiste 2002 and RUDE cymbal setup would have cost roughly $1,200 to $2,000 new. Today, vintage Tama Artstar II kits in good condition sell for $1,500 to $3,000 on the used market, making this era setup a compelling and affordable choice for death metal drummers.
+
 **Source:** https://metalforge.io/articles/symbolic-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

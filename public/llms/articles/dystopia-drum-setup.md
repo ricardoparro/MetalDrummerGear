@@ -72,8 +72,26 @@ The 20" A Custom Ride's defined bell tone is audible throughout Dystopia's more 
 - Estimated kit value: $5,500-8,000 (DW Collector's Series configuration)
 - Estimated snare value: $450-650
 
+## Frequently Asked Questions
+
+**Q: What drums does Dirk Verbeuren use on Dystopia?**
+
+A: On Megadeth's Dystopia (2016), Dirk Verbeuren used a DW Collector's Series Maple drum kit. The configuration included a 22" x 18" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms — all with all-maple shells and DW's True-Pitch tension rods. He paired this with DW 9002XF double pedals and Zildjian A Custom cymbals. For his current touring setup with Megadeth, Verbeuren has transitioned to Tama Starclassic Maple drums and Meinl Byzance cymbals — full details at the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren).
+
+**Q: What won the Grammy for Best Metal Performance in 2016 / 2017?**
+
+A: Megadeth's "Dystopia" (the title track) won the Grammy Award for Best Metal Performance at the 59th Grammy Awards, held in February 2017 (for recordings released in 2016). It was Megadeth's first Grammy win. Competing nominees included Anthrax, Baroness, Gojira, and Trivium. Dirk Verbeuren performed the drum parts on the track, making it his Grammy-winning debut with the band. For context on how Dystopia's sound compares to Metallica's Grammy-winning era, see the [Lars Ulrich drummer profile](/drummer/lars-ulrich).
+
+**Q: Did Dirk Verbeuren record Dystopia?**
+
+A: Yes — Dirk Verbeuren recorded all the drum parts for Megadeth's Dystopia album. Chris Adler (Lamb of God) had handled the initial drum sessions, but scheduling conflicts made it impossible for him to complete the album. Mustaine brought in Verbeuren, who tracked all his parts in under two weeks at Vic's Garage in San Marcos, California. Verbeuren was subsequently confirmed as Megadeth's full-time drummer. Dystopia is the first Megadeth album to feature Dirk's playing on the final released recording, and the album went on to win the Grammy for Best Metal Performance — Megadeth's first Grammy win in the band's history.
+
+**Q: How does Dirk Verbeuren's Dystopia kit compare to Nick Menza's Rust in Peace setup?**
+
+A: The two setups reflect three decades of drum technology evolution. Nick Menza used a Tama Artstar II birch kit with twin 22" bass drums and two independent single pedals on Rust in Peace (1990). Dirk Verbeuren used a DW Collector's Maple kit with a single 22" bass drum and DW 9002XF double pedal on Dystopia (2016). Both used Zildjian cymbals — Menza favored the A Custom series, Verbeuren also chose A Customs for Dystopia. For the complete Rust in Peace breakdown, see the [Rust in Peace Drum Setup article](/articles/rust-in-peace-drum-setup).
+
 **Source:** https://metalforge.io/articles/dystopia-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

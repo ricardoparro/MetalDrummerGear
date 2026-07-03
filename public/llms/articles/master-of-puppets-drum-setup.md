@@ -71,8 +71,22 @@ The 18" China cymbal added the aggressive, cutting accents that punctuated songs
 - Estimated kit value: $2,000-4,000 (1986) / $8,000-15,000 (vintage today)
 - Estimated snare value: $400-500 (1986) / $600-800 (vintage today)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Lars Ulrich use on Master of Puppets?**
+
+A: Lars Ulrich recorded Master of Puppets in 1986 using a Camco Oaklawn Badge drum kit with maple shells and reinforcement rings. The configuration included a 22x14 inch bass drum, 12x8 and 13x9 inch rack toms, and a 16x16 inch floor tom. His snare was a Ludwig Supraphonic LM402 at 14x6.5 inches, a studio-favorite workhorse that contributed heavily to the punchy, cutting snare tone heard throughout the album.
+
+**Q: What cymbals did Lars Ulrich use on Master of Puppets?**
+
+A: Lars Ulrich used Zildjian A Series cymbals on Master of Puppets. His setup included Zildjian A 14 inch New Beat Hi-Hats, a 16 inch Medium Thin Crash, an 18 inch Medium Crash, a 20 inch Medium Ride, and an 18 inch China Boy. The Zildjian A Series delivered the bright, cutting tones that defined the thrash metal sound of the mid-1980s and remains one of the most iconic cymbal setups in metal history.
+
+**Q: How much does Lars Ulrich's Master of Puppets kit cost?**
+
+A: When Lars Ulrich recorded Master of Puppets in 1986, the Camco Oaklawn Badge kit would have cost approximately $2,000 to $4,000 new. Today, original vintage Camco kits from that era are highly collectible and typically fetch between $8,000 and $15,000 depending on condition. The Ludwig Supraphonic LM402 snare adds another $600 to $800 for a vintage example. It is a historically significant and expensive setup to replicate authentically.
+
 **Source:** https://metalforge.io/articles/master-of-puppets-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

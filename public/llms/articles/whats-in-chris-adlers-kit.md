@@ -85,8 +85,22 @@ The 21" Byzance Dark Ride serves multiple purposes. Its complex, dark wash adds 
 - Estimated kit value: $4,000-6,000 (Black Panther configuration)
 - Estimated snare value: $400-500 (Signature Warbird snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Chris Adler use?**
+
+A: Chris Adler plays a Mapex Black Panther Velvetone Series kit with maple and walnut hybrid shells. His setup includes dual 22x18 inch bass drums, rack toms at 10x8 and 12x9 inches, and 14 and 16 inch floor toms. The maple and walnut hybrid construction gives the Black Panther Velvetone a warm yet focused tone, well-matched to the tight, groove-driven aggression that defined his work with Lamb of God.
+
+**Q: What cymbals does Chris Adler use?**
+
+A: Chris Adler uses Meinl Byzance series cymbals throughout his setup. His configuration includes Meinl 13 inch Byzance Traditional Hi-Hats, Byzance crashes from 18 to 20 inches, a 21 inch Byzance Dark Ride, Byzance chinas at 18 and 20 inches, and a 10 inch splash. The Byzance Dark Ride in particular suits his style, providing a dry, controlled wash that keeps his grooves articulate and cutting without excessive overtones in a dense mix.
+
+**Q: How much does Chris Adler's drum kit cost?**
+
+A: A Mapex Black Panther Velvetone Series kit in Adler's dual bass drum configuration costs approximately $4,000 to $6,000. His Mapex Chris Adler Signature Black Panther Warbird snare, a 12 inch by 5.5 inch model, adds around $400 to $500. A full Meinl Byzance cymbal setup matching his will add another $1,500 to $2,500. Total estimated cost to replicate his Lamb of God setup is roughly $5,900 to $9,000.
+
 **Source:** https://metalforge.io/articles/whats-in-chris-adlers-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

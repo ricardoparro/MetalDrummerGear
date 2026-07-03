@@ -71,8 +71,22 @@ The China cymbals are essential to Tool's signature sound. The thin, trashy expl
 - Estimated kit value: $15,000-20,000 (SQ2 Heavy Beech custom configuration)
 - Estimated snare value: $1,800-2,000 (Danny Carey Signature Bronze)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Danny Carey use on Fear Inoculum?**
+
+A: Danny Carey recorded Fear Inoculum in 2019 on a Sonor SQ2 Heavy Beech kit. The expansive setup included a single 24x18 inch bass drum, five rack toms at 8, 10, 12, 13, and 14 inches, and floor toms at 16 and 18 inches. The SQ2 Heavy Beech shells provide deep, resonant low-end and complex overtones that complement Carey's polyrhythmic and meditative approach on the album.
+
+**Q: What cymbals did Danny Carey use on Fear Inoculum?**
+
+A: Danny Carey used Paiste Signature series cymbals on Fear Inoculum. His setup featured 15 inch Signature Sound Edge Hi-Hats, Signature crashes from 17 to 20 inches, a 22 inch Signature Dry Heavy Ride, and Signature Thin Chinas at 18 and 20 inches. The Signature series delivers a complex, washy tone with controlled decay that suits the hypnotic, layered textures throughout the album.
+
+**Q: How much does Danny Carey's Fear Inoculum drum kit cost?**
+
+A: A Sonor SQ2 Heavy Beech kit configured to Carey's Fear Inoculum specifications runs between $15,000 and $20,000, as the SQ2 is a fully custom-order instrument. His Sonor Danny Carey Signature Bronze Snare adds approximately $1,800 to $2,000. Paiste Signature cymbals to match his setup add another $3,000 to $5,000. The complete rig is a serious investment, totaling roughly $20,000 to $27,000.
+
 **Source:** https://metalforge.io/articles/fear-inoculum-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

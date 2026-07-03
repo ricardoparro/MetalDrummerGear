@@ -75,8 +75,30 @@ The 10" AAX Splash and 18" AAX Chinese round out the setup: the splash for quick
 - Estimated kit value: $1,500–3,000 (Ddrum Reflex shell pack)
 - Estimated snare value: $300–500 (Ddrum Shannon Larkin Signature snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Shannon Larkin use?**
+
+A: Shannon Larkin plays Ddrum Reflex Series drums as his primary touring kit with Godsmack. Ddrum (Digital Drums) is a Swedish-founded brand now manufactured in the US, known for road-grade basswood/poplar shells with a punchy, dry attack suited to hard rock arena environments. His configuration runs double 22" bass drums and four toms (10", 12", 14", 16"). Larkin has been a Ddrum endorser for much of his tenure with Godsmack since 2002. Full profile at [Shannon Larkin at MetalForge](/drummer/shannon-larkin).
+
+**Q: What cymbals does Shannon Larkin play?**
+
+A: Shannon Larkin plays Sabian AAX and HHX series cymbals. His setup includes Sabian AAX 14" Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a Sabian HHX 21" Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal. The dual-series configuration combines the bright, fast-responding aggressive character of the AAX line for hi-hats and crashes with the more complex, dark voice of the HHX series for his ride cymbal — providing full tonal coverage for Godsmack's dynamic hard rock arrangements.
+
+**Q: How does Shannon Larkin tune his drums for the Godsmack sound?**
+
+A: Shannon Larkin tunes his kit for maximum impact and projection in hard rock arena environments. His snare (Ddrum Shannon Larkin Signature, 14" x 6.5" steel) runs at medium-high tension for the cutting crack that defines Godsmack's backbeat. Tom heads (Evans G2 Coated or EC2) are tuned for a focused, controlled tone without excess sustain — essential for a dense live mix with heavy guitars and bass. The bass drums use Evans EMAD batter heads for controlled attack and damped overtones, keeping the double-kick punchy and defined rather than boomy. Ported resonant bass drum heads complete the setup, allowing the kick to project cleanly in outdoor festival and arena acoustics.
+
+**Q: What sticks does Shannon Larkin use?**
+
+A: Shannon Larkin plays Vater Shannon Larkin Signature drumsticks. Developed with Vater Percussion for his hard rock playing demands, the signature model uses hickory construction with a taper and tip shape optimized for both the powerful backbeats Godsmack's music requires and the cymbal articulation needed in dense arena mix environments. Before his signature model, Larkin used Vater Hickory 5B sticks — a common starting point for hard rock players who need mass and durability.
+
+**Q: What double bass pedal does Shannon Larkin use?**
+
+A: Shannon Larkin uses the DW 9000 Series double bass pedal. The DW 9000 is one of the most respected professional chain-drive double pedals available — featuring adjustable cam, dual-chain drive, and precision hardware that delivers consistent feel across extended touring use. For Godsmack's groove-driven double-kick patterns, the DW 9000's feel-consistent chain mechanism provides the reliable platform Larkin's foot technique requires. The pedal's robust construction handles the physical demands of 100+ show touring cycles without degradation in feel or performance.
+
 **Source:** https://metalforge.io/articles/shannon-larkin-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

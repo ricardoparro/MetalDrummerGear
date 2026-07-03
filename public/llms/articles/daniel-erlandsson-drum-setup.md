@@ -67,8 +67,30 @@ The 14" AAX hi-hats anchor his rhythmic pulse in Arch Enemy's tempo range — fr
 - Estimated kit value: $3,500–6,000 (Pearl Reference Pure shell pack)
 - Estimated snare value: $400–700 (Pearl signature snare series)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Daniel Erlandsson use?**
+
+A: Daniel Erlandsson plays a Pearl Reference Pure drum kit in a custom black finish. The Reference Pure is Pearl's flagship all-maple production shell line, built for the combination of tonal clarity and physical endurance that sustained international metal touring demands. His configuration runs a double bass drum setup with two 22" x 18" kick drums, two rack toms (10" and 12"), and two floor toms (14" and 16"). He pairs this with a Pearl Daniel Erlandsson Signature snare drum (14" x 5.5"), a model co-designed with Pearl for his specific Arch Enemy performance requirements. For the full Arch Enemy drum setup context: [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson).
+
+**Q: What drums were used on Slaughter of the Soul?**
+
+A: Slaughter of the Soul (1995) — At The Gates' landmark melodic death metal album — featured Adrian Erlandsson on drums, not Daniel. Adrian and Daniel are brothers, both prominent Swedish melodic death metal drummers who developed their craft simultaneously in the Gothenburg scene of the early 1990s. Adrian was At The Gates' drummer from the band's formation through their original disbanding in 1996 and across their various reunion periods. Daniel Erlandsson is the drummer for Arch Enemy, the parallel Gothenburg band he co-founded in 1995. The sibling drumming connection between the two bands is one of the more unusual footnotes in Swedish melodic death metal history. For a broader comparison of Gothenburg drumming approaches: [Jaska Raatikainen — Children of Bodom drum setup](/articles/jaska-raatikainen-drum-setup).
+
+**Q: Does Daniel Erlandsson use the same kit for Arch Enemy and At The Gates?**
+
+A: Daniel Erlandsson has never been the drummer for At The Gates — that is his brother Adrian Erlandsson, who has played with At The Gates since the band's founding in 1990. Daniel Erlandsson is exclusively the Arch Enemy drummer, a role he has held since co-founding the band in 1995. The confusion is understandable given that both brothers are prominent Gothenburg melodic death metal drummers who emerged from the same creative community and developed similar approaches to the genre's technical demands. Daniel's Pearl Reference Pure setup is his consistent touring and recording configuration for Arch Enemy across all band eras. For At The Gates drum context, see [the At The Gates drummer profile](/drummer/at-the-gates); for Daniel's full Arch Enemy career: [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson).
+
+**Q: What cymbals does Daniel Erlandsson play?**
+
+A: Daniel Erlandsson plays Sabian AAX and HHX cymbals. His setup pairs the AAX series — Sabian's professional bright-alloy line — for hi-hats and crash cymbals, and the HHX series — darker, more tonally complex — for his ride. The 14" AAX hi-hats provide fast, defined attack for rapid 16th-note patterns at Arch Enemy's tempos. AAX crashes deliver the upper-frequency projection needed to cut through Michael Amott's layered guitar production. The HHX 22" ride introduces tonal contrast in groove-oriented passages where the brighter crash character would be too aggressive. The pairing of two series within one cymbal setup is a deliberate tonal choice that gives Erlandsson musical range across Arch Enemy's dynamic spectrum.
+
+**Q: What bass drum pedal does Daniel Erlandsson use?**
+
+A: Daniel Erlandsson uses the Pearl Eliminator double bass pedal. The Eliminator's defining feature is its interchangeable cam system — multiple cam profiles allow adjustment of the acceleration curve to match the drummer's personal technique. For Arch Enemy's material, which demands sustained double-kick work across long live sets and extensive world touring, the Eliminator's mechanical consistency is essential: each stroke produces the same response on the final song of a tour as on the first. The Pearl Eliminator has been Erlandsson's primary foot tool across Arch Enemy's career, providing the reliability that multi-year international touring schedules require. For double bass pedal technique context: [double-bass drumming at MetalForge](/technique/double-bass-drumming).
+
 **Source:** https://metalforge.io/articles/daniel-erlandsson-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

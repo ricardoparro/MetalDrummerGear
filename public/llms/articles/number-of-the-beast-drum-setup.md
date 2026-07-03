@@ -69,8 +69,22 @@ The 20" ride was crucial for the many sections where Burr played on the ride rat
 - Estimated kit value: $2,500-3,500 (1982)
 - Estimated snare value: $300-400 (1982)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Nicko McBrain use on The Number of the Beast?**
+
+A: Nicko McBrain recorded The Number of the Beast in 1982 on a Ludwig Classic Maple kit with maple shells and maple reinforcement rings. The configuration included a single 22x14 inch bass drum, 12x8 and 13x9 inch rack toms, and a 16x16 inch floor tom. His snare was a Ludwig Supraphonic LM400 at 14x5 inches. The Ludwig Classic Maple's warm, resonant tone provided a strong foundation for Iron Maiden's melodic, galloping brand of heavy metal.
+
+**Q: What cymbals did Nicko McBrain use on The Number of the Beast?**
+
+A: Nicko McBrain used Paiste 2002 Series cymbals throughout The Number of the Beast. His setup included Paiste 2002 14 inch Medium Hi-Hats, 16 and 18 inch Medium Crashes, a 20 inch Medium Ride, and an 18 inch China Type. The Paiste 2002 Series is renowned for its bright, clean, and highly consistent tone, delivering the clear articulation and musical cymbal wash that complemented Iron Maiden's twin-guitar harmonies and driving bass lines.
+
+**Q: How much does Nicko McBrain's Number of the Beast kit cost?**
+
+A: Nicko McBrain's Ludwig Classic Maple setup would have cost approximately $2,500 to $3,500 new in 1982. Vintage Ludwig Classic Maple kits in good condition are now sought after by collectors and typically sell for considerably more depending on finish and provenance. The Ludwig Supraphonic LM400 snare originally ran $300 to $400 and vintage examples today sell for $400 to $600. Paiste 2002 cymbals remain in production and are priced between $200 and $500 per piece.
+
 **Source:** https://metalforge.io/articles/number-of-the-beast-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -73,8 +73,22 @@ The 18" China cymbal is essential for Behemoth's sound. Those trashy, explosive 
 - Estimated kit value: $5,000-8,000 (Reference Pure custom configuration)
 - Estimated snare value: $500-700 (Pearl Reference snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Inferno of Behemoth use?**
+
+A: Inferno plays a Pearl Reference Pure Series kit in a double bass configuration, featuring two 22x18 inch bass drums, 10x7 and 12x8 inch rack toms, and 14 and 16 inch floor toms. The Reference Pure shells combine maple and birch for a balanced tone that blends punch with warmth. This configuration supports the relentless double bass work and precise tom patterns that define Behemoth's extreme blackened death metal sound.
+
+**Q: What cymbals does Inferno of Behemoth use?**
+
+A: Inferno uses Meinl Classics Custom Dark and Byzance series cymbals. His setup includes Meinl Classics Custom Dark 14 inch Hi-Hats, Classics Custom Dark crashes from 16 to 19 inches, a Classics Custom Dark 22 inch Ride, a Classics Custom Dark 18 inch China, and a Meinl 10 inch Splash. The Classics Custom Dark series produces a dry, fast, and focused response that cuts through Behemoth's dense wall of guitar without adding excessive wash.
+
+**Q: How much does Inferno's Behemoth drum kit cost?**
+
+A: Inferno's Pearl Reference Pure Series shell pack is estimated at $5,000 to $8,000 for the double bass configuration. His Pearl Reference brass or steel snare adds $500 to $700. The Meinl Classics Custom Dark cymbal setup typically runs $1,800 to $2,800. Combined with hardware, pedals, and accessories, a full comparable Inferno-spec setup can total between $10,000 and $15,000 at current market prices.
+
 **Source:** https://metalforge.io/articles/whats-in-infernos-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -80,8 +80,22 @@ Custom stacks (combining different cymbals for unique sounds) add texture for sp
 - Estimated kit value: $6,000-9,000 (Starclassic Bubinga custom configuration)
 - Estimated snare value: $400-550 (S.L.P. series)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Eloy Casagrande use?**
+
+A: Eloy Casagrande plays a Tama Starclassic Bubinga kit with bubinga and birch hybrid shells. His setup features dual 22x18 inch bass drums, three rack toms at 10, 12, and 13 inches, and 14 and 16 inch floor toms. The Starclassic Bubinga is prized for its warm low end and cutting midrange attack, qualities that serve Casagrande well across his work with Sepultura and now Slipknot.
+
+**Q: What cymbals does Eloy Casagrande use?**
+
+A: Eloy Casagrande uses a mix of Paiste RUDE, PST X, and 2002 series cymbals. His setup includes Paiste RUDE 14 inch Hi-Hats, RUDE Wild Crashes from 17 to 20 inches, a Paiste 2002 22 inch Power Ride, RUDE Wild Chinas at 18 and 20 inches, and a PST X 10 inch Splash. The RUDE series in particular delivers the aggressive, raw tone that defines his high-energy playing.
+
+**Q: How much does Eloy Casagrande's drum kit cost?**
+
+A: A Tama Starclassic Bubinga kit matching Casagrande's configuration currently costs between $6,000 and $9,000. His Tama S.L.P. Sonic Steel snare adds approximately $400 to $550. A comparable Paiste RUDE and 2002 cymbal setup will run an additional $2,000 to $3,500. Total investment to approximate his full setup is in the range of $8,400 to $13,000.
+
 **Source:** https://metalforge.io/articles/whats-in-eloy-casagrandes-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

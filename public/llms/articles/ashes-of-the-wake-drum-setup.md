@@ -82,8 +82,22 @@ The 21" Medium Ride serves multiple functions — dark wash for verses, cutting 
 - Estimated kit value: $2,500-3,500 (2004 Pro M configuration)
 - Estimated snare value: $350-450 (2004 Black Panther maple)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Chris Adler use on Ashes of the Wake?**
+
+A: Chris Adler recorded Lamb of God's Ashes of the Wake in 2004 on a Mapex Pro M Series kit. The configuration included dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms, all built with all-maple shells featuring SONIClear bearing edges. His snare was a Mapex Black Panther Maple at 14x5.5 inches. The Pro M Series delivered the punchy, articulate tone needed to drive Lamb of God's aggressive, groove-metal rhythmic attack.
+
+**Q: What cymbals did Chris Adler use on Ashes of the Wake?**
+
+A: Chris Adler used Meinl Byzance cymbals throughout Ashes of the Wake. His setup included 13 inch Byzance Traditional hi-hats, Byzance crashes from 18 to 20 inches, a 21 inch Byzance Traditional Medium Ride, Byzance 18 and 20 inch Chinas, and a 10 inch Splash. The Byzance series is handcrafted in Turkey and known for its warm, dark, and complex tonal response, which gave Adler's playing a rich, musical quality that set Lamb of God apart from their peers at the time.
+
+**Q: How much did Chris Adler's Ashes of the Wake drum kit cost?**
+
+A: At the time of recording in 2004, the Mapex Pro M Series kit was priced at approximately $2,500 to $3,500, with the Mapex Black Panther snare adding $350 to $450. The Meinl Byzance cymbal setup would have cost $1,500 to $2,500. Today, used Mapex Pro M kits sell for $800 to $1,800, making this one of the more affordable setups to replicate among high-profile metal drummers from that era.
+
 **Source:** https://metalforge.io/articles/ashes-of-the-wake-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

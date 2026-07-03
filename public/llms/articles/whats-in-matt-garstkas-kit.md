@@ -83,8 +83,22 @@ Overall, Matt's cymbal choices prioritize control and musicality over raw volume
 - Estimated kit value: $4,000-6,000 (Masterworks Maple configuration)
 - Estimated snare value: $400-500 (signature model)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Matt Garstka use?**
+
+A: Matt Garstka plays a Pearl Masterworks Maple kit configured with a 20x16 inch bass drum, 10x7 and 12x8 inch rack toms, and a 14x14 inch floor tom. The shells feature maple construction with Pearl's MasterCast hoops, which provide enhanced resonance and tuning stability. This is a professional-grade custom shell pack that Pearl builds to order, reflecting Garstka's demand for precise tonal control across his technically complex Animals as Leaders performances.
+
+**Q: What cymbals does Matt Garstka use?**
+
+A: Matt Garstka uses Meinl Byzance cymbals across multiple lines. His setup includes Byzance 15 inch Dual Hi-Hats, Byzance crashes in 18 and 20 inch sizes, a Byzance 22 inch Sand Ride, a Byzance 18 inch Vintage Trash Hat used as a China, and various stack effects. The Byzance line's handcrafted Turkish feel suits his blend of jazz-fusion sensitivity and progressive metal attack.
+
+**Q: How much does Matt Garstka's drum kit cost?**
+
+A: Matt Garstka's Pearl Masterworks Maple shell pack runs approximately $4,000 to $6,000 new, depending on finish and configuration. His Pearl Matt Garstka Signature Snare adds around $400 to $500. His Meinl Byzance cymbal setup can easily exceed $2,500 to $4,000 when factoring in multiple specialty pieces. Total kit cost with hardware and accessories lands in the range of $10,000 to $14,000 for a comparable full setup.
+
 **Source:** https://metalforge.io/articles/whats-in-matt-garstkas-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

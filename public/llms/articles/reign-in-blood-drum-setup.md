@@ -69,8 +69,22 @@ The multiple China cymbals were crucial to Slayer's sound. The trashy, explosive
 - Estimated kit value: $2,500-3,500 (1986)
 - Estimated snare value: $250-350 (1986)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Dave Lombardo use on Reign in Blood?**
+
+A: Dave Lombardo recorded Reign in Blood in 1986 on a Tama Artstar II kit featuring birch shells with die-cast hoops. He ran a double bass configuration with two 22x16 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. His snare was a Tama Superstar Steel at 14x6.5 inches. The birch shells gave the kit an aggressive, cutting attack perfectly suited to Slayer's relentless tempo.
+
+**Q: What cymbals did Dave Lombardo use on Reign in Blood?**
+
+A: Dave Lombardo used a combination of Paiste RUDE and 2002 Series cymbals on Reign in Blood. The setup included Paiste 2002 14 inch Sound Edge Hi-Hats, Paiste RUDE 18 and 19 inch Wild Crashes, a Paiste 2002 20 inch Medium Ride, a Paiste 2002 18 inch China, and a Paiste RUDE 20 inch Wild China. The RUDE series is known for its aggressive, unlathed sound that cuts through dense, high-gain guitar tones.
+
+**Q: How much does Dave Lombardo's Reign in Blood kit cost?**
+
+A: Dave Lombardo's Tama Artstar II double bass setup would have cost approximately $2,500 to $3,500 new in 1986. The Tama Superstar Steel snare added another $250 to $350 at the time. Vintage Artstar II kits in good condition now command a premium among collectors. Paiste RUDE cymbals remain in production, so that portion of the setup is more affordable to replicate today, with individual pieces ranging from $150 to $400 depending on size.
+
 **Source:** https://metalforge.io/articles/reign-in-blood-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

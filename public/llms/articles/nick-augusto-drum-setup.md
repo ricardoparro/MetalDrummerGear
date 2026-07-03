@@ -73,8 +73,30 @@ The 18" China above the floor tom was the most used "effect" cymbal in the live 
 - Estimated kit value: $2,800–3,800 (2011) / $1,500–2,200 (used today)
 - Estimated snare value: $180–240 (2011)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Nick Augusto use?**
+
+A: Nick Augusto played Tama Starclassic Performer B/B drums throughout his time with Trivium (2010–2014). The Starclassic Performer uses birch/bubinga hybrid shell construction — birch delivers fast attack and high-frequency clarity, while bubinga adds warmth and projection that carries in dense, drop-tuned metal mixes. His standard configuration featured a 22" bass drum, two rack toms (10" and 12"), and two floor toms (14" and 16"). The setup was consistent across both studio records ("In Waves" in 2011 and "Vengeance Falls" in 2013) and the extensive In Waves World Tour. For full drummer profile details, see [Nick Augusto at MetalForge](/drummer/nick-augusto).
+
+**Q: How does Nick Augusto's style compare to other Trivium drummers?**
+
+A: Nick Augusto sits between Travis Smith (who preceded him) and Mat Madiro (who followed) in Trivium's drummer lineage, with a distinctly more aggressive, thrash-influenced approach than either. Smith's work on "Ascendancy" and "The Crusade" prioritized melodic feel and dynamics — Augusto replaced that with direct attack and double-bass intensity. His influences — Lars Ulrich, Dave Lombardo, Joey Jordison, and Chris Adler — point to a drummer building from thrash and groove metal foundations rather than the progressive approach of Trivium's later chapters. Madiro (post-2014) continued Augusto's technical foundation while incorporating more dynamic variety. For the full Trivium drummer comparison, see [Matt Greiner drum setup at MetalForge](/articles/matt-greiner-complete-drum-setup) for a parallel study in metalcore drumming philosophy.
+
+**Q: What albums did Nick Augusto record with Trivium?**
+
+A: Nick Augusto recorded two studio albums with Trivium: "In Waves" (2011, Roadrunner Records, produced by Jason Suecof and Mark Lewis) and "Vengeance Falls" (2013, Roadrunner Records, produced by David Draiman of Disturbed). "In Waves" debuted at #13 on the Billboard 200 and is widely considered Trivium's heaviest record — the direct product of Augusto's thrash-rooted drumming pushing the band toward more aggressive territory. "Vengeance Falls" followed with a more polished sound and reached #15 on the Billboard 200. Augusto also appeared on the "The Mediator Between Head and Hands Must Become the Heart" EP (2013). He left Trivium in 2014 and was replaced by Mat Madiro. For double-bass technique context used across both albums, see [double-bass drumming for metal at MetalForge](/articles/double-bass-drumming-for-metal).
+
+**Q: What cymbals does Nick Augusto use?**
+
+A: Nick Augusto played Meinl cymbals during his Trivium tenure, primarily from the MB20 and Classics Custom series. His crash setup used Meinl MB20 Heavy Crashes at 17" and 19" — B20 bronze with medium-heavy weight for fast attack and full projection in dense metal mixes. Hi-hats and ride came from the Meinl Classics Custom series: 14" hi-hats with bright, fast articulation suited to double-bass pattern work, and a 20" ride for controlled bow articulation. An 18" MB20 China above the floor tom provided the aggressive trash-voice accents that characterize Trivium's breakdown and riff-change moments.
+
+**Q: What pedals does Nick Augusto use?**
+
+A: Nick Augusto used the Tama Iron Cobra 900 double bass pedal throughout his Trivium tenure. He favored the Rolling Glide cam setting, which provides a progressive, smooth pedal action that builds acceleration through the stroke — ideal for sustained 16th-note kick patterns at metalcore tempos without generating the fatigue that sharper-attack cam profiles can cause. The Iron Cobra 900's dual-chain drive transfers foot power to the beater with minimal stretch or play in the mechanism, contributing to the consistent, even double-bass sound on "In Waves" recording sessions. For more on metal pedal technique, see [double-bass drumming for metal at MetalForge](/articles/double-bass-drumming-for-metal).
+
 **Source:** https://metalforge.io/articles/nick-augusto-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

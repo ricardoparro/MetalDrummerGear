@@ -74,8 +74,22 @@ The China cymbal provided the trashy explosions that punctuate section changes a
 - Estimated kit value: $5,000-7,000 (2008)
 - Estimated snare value: $400-500 (2008)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Tomas Haake use on obZen?**
+
+A: Tomas Haake recorded obZen in 2008 on a Sonor Designer Series kit, the model he used before transitioning to the SQ2. The setup featured maple shells with beech reinforcement rings and included two 22x18 inch bass drums, 10x8 and 12x9 inch rack toms, and 14x14 and 16x16 inch floor toms. His snare was a Sonor Designer Series Steel at 14x6 inches. The maple and beech shell combination produced the tight, articulate low-end thud essential to Meshuggah's downtuned, groove-driven rhythmic architecture.
+
+**Q: What cymbals did Tomas Haake use on obZen?**
+
+A: Tomas Haake used Sabian AAX and AA Series cymbals on obZen. His setup included Sabian AA 14 inch Regular Hi-Hats, AAX 18 and 19 inch X-Plosion Crashes, an AA 21 inch Rock Ride, an AAX 19 inch Chinese, and an AAX 10 inch Splash. The AAX X-Plosion Crashes are particularly well regarded for their fast, cutting attack and quick decay, which allowed Haake's crash accents to snap precisely within Meshuggah's complex and tightly controlled rhythmic framework on obZen.
+
+**Q: How much does Tomas Haake's obZen kit cost?**
+
+A: Tomas Haake's Sonor Designer Series setup for obZen would have cost approximately $5,000 to $7,000 new in 2008. The Sonor Designer Series Steel snare added another $400 to $500. The Sonor Designer Series has since been discontinued, making well-maintained examples increasingly desirable among collectors. Sabian AAX and AA cymbals remain in active production and are priced competitively, with a setup comparable to Haake's obZen configuration running between $1,500 and $2,500 at current retail prices.
+
 **Source:** https://metalforge.io/articles/obzen-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

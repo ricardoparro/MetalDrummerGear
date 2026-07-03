@@ -76,8 +76,22 @@ The China cymbal became a signature element of the Morbid Angel sound. The trash
 - Estimated kit value: $1,500-2,500 (1989) / $3,000-5,000 (vintage today)
 - Estimated snare value: $200-300 (1989)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Pete Sandoval use on Altars of Madness?**
+
+A: Pete Sandoval recorded Morbid Angel's debut Altars of Madness in 1989 on an early Tama Superstar kit with dual 22x16 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The shells were birch, providing a punchy, focused tone that sat aggressively in the mix. His snare was a Tama Superstar Steel at 14x6.5 inches. This was a relatively affordable mid-range kit at the time, yet it delivered some of the most ferocious drumming ever committed to tape.
+
+**Q: What cymbals did Pete Sandoval use on Altars of Madness?**
+
+A: Pete Sandoval used Paiste 2002 cymbals on Altars of Madness, a series well known for its aggressive, powerful projection. His setup included 2002 14 inch Sound Edge hi-hats, 2002 16 and 18 inch Crashes, a 2002 20 inch Medium Ride, and a 2002 18 inch China Type. The 2002 series' bright, cutting character was ideal for cutting through the dense, fast guitar work on the album, and helped establish the Paiste 2002 as a foundational cymbal choice in early death metal.
+
+**Q: How much did Pete Sandoval's Altars of Madness drum kit cost?**
+
+A: In 1989, the Tama Superstar shell pack was priced at approximately $1,500 to $2,500, making it an accessible professional kit. Today, well-preserved vintage Tama Superstar kits from that era sell for $3,000 to $5,000 among collectors. The Paiste 2002 cymbal setup would have cost around $800 to $1,500 new in 1989. For drummers seeking to replicate this historically significant rig today, the vintage components will represent the largest cost driver.
+
 **Source:** https://metalforge.io/articles/altars-of-madness-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

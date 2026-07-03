@@ -82,8 +82,22 @@ Andy Wallace captured the cymbals with room mics that let them bloom naturally. 
 - Estimated kit value: $2,500-3,500 (1993) / $4,500-6,500 (vintage today)
 - Estimated snare value: $350-450 (1993)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Igor Cavalera use on Chaos A.D.?**
+
+A: On Sepultura's Chaos A.D. recorded in 1993, Igor Cavalera played a Pearl Masters Custom kit with 6-ply maple shells. The setup featured a single 22x16 inch bass drum, rack toms in 10 and 12 inches, and floor toms in 14 and 16 inches. This was a significant upgrade from the Pearl Export used on Beneath the Remains, with the maple Masters Custom providing greater warmth and sustain that suited the album's more groove-driven, mid-paced compositions.
+
+**Q: What cymbals did Igor Cavalera use on Chaos A.D.?**
+
+A: On Chaos A.D. in 1993, Igor Cavalera used a combination of Paiste RUDE and 2002 series cymbals. His setup included Paiste 2002 14 inch Heavy hi-hats, RUDE 18 and 19 inch Crash/Rides, a 2002 20 inch Heavy Ride, and a RUDE 18 inch China. Mixing the two series gave him the raw aggression of the RUDE line alongside the cleaner definition of the 2002, matching the album's blend of thrash energy and tribal groove.
+
+**Q: How much does Igor Cavalera's Chaos A.D. kit cost?**
+
+A: At the time of recording in 1993, a Pearl Masters Custom kit was priced at approximately $2,500 to $3,500. Today, mid-1990s Pearl Masters Custom kits sell used for $800 to $2,000. The Pearl Free Floating Steel snare from that era adds roughly $200 to $400 on the vintage market. A matching set of vintage Paiste RUDE and 2002 cymbals runs $1,000 to $2,000. Putting together a complete Chaos A.D.-era replica would cost approximately $2,000 to $4,500.
+
 **Source:** https://metalforge.io/articles/chaos-ad-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

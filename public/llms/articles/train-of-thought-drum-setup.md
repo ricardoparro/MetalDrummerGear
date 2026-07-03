@@ -75,8 +75,30 @@ The AAX Chinese cymbal — noticeably more aggressive than the HH Chinese of the
 - Estimated kit value: $5,500-8,000 (2003) / $6,000-11,000 (vintage today)
 - Estimated snare value: $400-600 (2003) / $500-800 (vintage today)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Mike Portnoy use on Train of Thought?**
+
+A: Mike Portnoy recorded Train of Thought (2003) on an expanded Tama Starclassic Maple kit — approximately 13 drums, including double 22"x18" bass drums, five rack toms (8", 10", 12", 13", 14"), and three floor toms (14", 16", 18"). This was the largest kit configuration of his Dream Theater career to that point, reflecting the album's maximal, heaviest-possible aesthetic. The Starclassic Maple's warm, resonant tone provided mass and physical weight suited to DT's most metal-influenced record. For more on his gear history, see the [Mike Portnoy drummer profile](/drummer/mike-portnoy).
+
+**Q: What cymbals did Mike Portnoy use on Train of Thought?**
+
+A: For Train of Thought, Portnoy used Sabian AAX and AA cymbals — a significant shift from the darker, hand-hammered Sabian Artisan series he had used on Metropolis Pt. 2: Scenes from a Memory. His setup included Sabian AAX 14" hi-hats, AAX Stage Crashes at 17", 18", and 19", an AA 16" crash, an AAX 21" Raw Bell Ride, and an AAX 18" Chinese cymbal. The AAX series — brighter and more aggressively voiced than the Artisan line — matched the album's deliberate Metallica/Pantera-influenced heaviness. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the Artisan-era cymbal comparison.
+
+**Q: Why is Train of Thought Dream Theater's heaviest album?**
+
+A: Train of Thought is Dream Theater's heaviest album by deliberate design. Before recording, the band immersed themselves in Metallica's Master of Puppets and Pantera's Vulgar Display of Power, choosing to apply that level of heaviness to their progressive structures. It was also their first Roadrunner Records album — a label synonymous with extreme metal — and they wanted to match the label's aesthetic while staying true to their prog identity. Mike Portnoy's expanded 13-drum kit, Pearl Eliminator pedals, and Sabian AAX cymbals were all selected to support the heavier playing style. The album abandoned the orchestral complexity of Six Degrees of Inner Turbulence in favor of direct, aggressive, riff-driven heaviness.
+
+**Q: What pedals did Mike Portnoy use on Train of Thought?**
+
+A: For Train of Thought, Mike Portnoy used Pearl Eliminator double pedals — his primary endorsement during this era, replacing the DW 5000 pedals he had used on Scenes from a Memory. The Pearl Eliminator features an interchangeable multi-cam system that allows drummers to adjust the response curve and power-to-stroke ratio. This tunability was critical for sustaining the album's high-velocity double-bass patterns across tracks like 'This Dying Soul' and 'In the Name of God' (which runs over 24 minutes). The Eliminator's power and adjustability made it well-suited to the heaviest double-bass demands of Portnoy's Dream Theater career.
+
+**Q: How does the Train of Thought drum setup differ from Scenes from a Memory?**
+
+A: The two setups reflect fundamentally different albums. Key differences: (1) Kit size — Train of Thought expanded to ~13 drums vs. Scenes from a Memory's 8-drum configuration; (2) Cymbals — Sabian AAX (bright, aggressive) vs. Sabian Artisan (dark, hand-hammered, warm); (3) Pedals — Pearl Eliminator (multi-cam, power-focused) vs. DW 5000 (chain-drive, smooth); (4) Playing philosophy — Metallica/Pantera-influenced maximum heaviness vs. narrative-serving concept-album dynamics. The Starclassic Maple shell platform was shared between both eras, but everything built on top of it shifted dramatically. See the [Scenes from a Memory drum setup article](/articles/scenes-from-a-memory-drum-setup) for the full SFaM breakdown.
+
 **Source:** https://metalforge.io/articles/train-of-thought-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

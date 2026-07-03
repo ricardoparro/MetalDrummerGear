@@ -81,8 +81,22 @@ Overall, Gene's cymbal setup prioritizes function over flash. These are working 
 - Estimated kit value: $4,500-7,000 (Reference Pure configuration)
 - Estimated snare value: $500-700 (Reference series brass)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Gene Hoglan use?**
+
+A: Gene Hoglan plays a Pearl Reference Pure kit with maple shells. His current setup includes dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Reference Pure series is Pearl's flagship line known for its tonal clarity and resonance, making it a natural fit for Hoglan's precise, powerful playing style across metal and thrash contexts.
+
+**Q: What cymbals does Gene Hoglan use?**
+
+A: Gene Hoglan uses Sabian AAX series cymbals throughout his current setup. Key pieces include 15 inch AAX X-Celerator Hi-Hats, a range of 16 to 19 inch AAX X-Plosion Crashes, a 22 inch AAX Medium Ride, an 18 inch AAX Chinese cymbal, and a 10 inch AAX Splash. The AAX series delivers bright, cutting tones well-suited to the aggressive dynamics required in metal and thrash drumming.
+
+**Q: How much does Gene Hoglan's drum kit cost?**
+
+A: A Pearl Reference Pure kit comparable to Gene Hoglan's setup runs approximately $4,500 to $7,000 new, depending on configuration and finish. His Pearl Reference brass snare adds another $500 to $700. Completing the rig with a full Sabian AAX cymbal setup similar to his will add roughly $1,500 to $2,500. Total estimated cost to replicate his current setup is around $6,500 to $10,000.
+
 **Source:** https://metalforge.io/articles/whats-in-gene-hoglans-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

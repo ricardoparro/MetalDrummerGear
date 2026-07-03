@@ -76,8 +76,22 @@ The 18" Byzance Brilliant China delivers the aggressive accent that defines thra
 - Estimated kit value: $4,500-6,500 (Starclassic Maple configuration)
 - Estimated snare value: $350-450
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Dirk Verbeuren use with Megadeth?**
+
+A: Dirk Verbeuren plays a Tama Starclassic Maple kit with all-maple shells and Tama's Star-Cast mounting system. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Star-Cast suspension system allows shells to resonate freely without contact dampening, contributing to the warm, open tone Verbeuren brings to Megadeth's thrash sound. This is the same professional line Verbeuren used during his years with Soilwork before joining Megadeth.
+
+**Q: What cymbals does Dirk Verbeuren use with Megadeth?**
+
+A: Dirk Verbeuren uses a mix of Meinl Byzance and Mb20 series cymbals. His setup includes Meinl Byzance Dark 14 inch Hi-Hats, Byzance crashes from 17 to 19 inches, a Meinl Mb20 21 inch Heavy Ride, and a Meinl Byzance Brilliant 18 inch China. The combination of the darker Byzance Dark hats and crashes with the heavier Mb20 ride gives Verbeuren a setup that balances musical nuance with raw cutting power for Megadeth's fast thrash riffing.
+
+**Q: How much does Dirk Verbeuren's Megadeth drum kit cost?**
+
+A: Dirk Verbeuren's Tama Starclassic Maple shell pack is estimated at $4,500 to $6,500 new. His Tama S.L.P. G-Maple snare adds approximately $350 to $450. The Meinl Byzance and Mb20 cymbal setup runs roughly $1,500 to $2,500. With Tama hardware, Iron Cobra pedals, and accessories, a fully comparable Verbeuren setup can total between $9,000 and $13,000.
+
 **Source:** https://metalforge.io/articles/whats-in-dirk-verbeurens-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

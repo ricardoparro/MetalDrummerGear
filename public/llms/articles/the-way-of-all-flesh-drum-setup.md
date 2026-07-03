@@ -82,8 +82,22 @@ The China cymbal (18" A Custom China) provides the trashy accents that punctuate
 - Estimated kit value: $4,500-6,500 (2008) / $6,000-9,000 (collector value today)
 - Estimated snare value: $500-700 (2008)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Mario Duplantier use on The Way of All Flesh?**
+
+A: On Gojira's The Way of All Flesh recorded in 2008, Mario Duplantier played a Tama Starclassic Bubinga kit. The configuration included dual 22x18 inch bass drums, rack toms in 10 and 12 inches, and floor toms in 14 and 16 inches. The Starclassic Bubinga used a bubinga and birch hybrid shell construction, delivering a dense, powerful tone with excellent attack and sustain that complemented Gojira's heavy, rhythmically precise style.
+
+**Q: What cymbals did Mario Duplantier use on The Way of All Flesh?**
+
+A: On The Way of All Flesh in 2008, Mario Duplantier used Zildjian K Custom and A Custom series cymbals. His setup included Zildjian 14 inch K Sweet hi-hats, crashes ranging from 18 to 20 inches from both series, a Zildjian 21 inch A Custom Mega Bell Ride for its defined bell presence, an A Custom 18 inch China, and an A Custom 10 inch Splash. These cymbals provided a balance of darkness and clarity suited to Gojira's dynamic range.
+
+**Q: How much does Mario Duplantier's The Way of All Flesh kit cost?**
+
+A: At the time of recording in 2008, a Tama Starclassic Bubinga kit was valued at approximately $4,500 to $6,500. Today, used Starclassic Bubinga kits from that era sell for $2,000 to $4,000 depending on condition. The Tama SLP G-Maple snare adds $300 to $500 on the used market. A comparable Zildjian K Custom and A Custom cymbal setup runs $2,500 to $4,000 new. A full replica of his 2008 rig costs approximately $5,000 to $9,000.
+
 **Source:** https://metalforge.io/articles/the-way-of-all-flesh-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -46,7 +46,7 @@ Full drummer profile: [Flo Mounier on MetalForge](https://metalforge.io/drummer/
 
 Morgan Ågren earns rank #3 for: being arguably the most rhythmically advanced musician on this list — and possibly in the world — while remaining almost entirely unknown outside avant-garde and experimental music circles. Frank Zappa's personal selection of a seventeen-year-old Ågren is itself a testament to his abilities: Zappa was famously exacting in his musical standards and hired only musicians who could execute his most demanding compositional ideas. Ågren's work with the Mats/Morgan Band and with Fredrik Thordendal of Meshuggah on the Special Defects project represents avant-garde metal at its most compositionally ambitious. He is metal's greatest secret.
 
-Full drummer profile: [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-gren)
+Full drummer profile: [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-agren)
 
 ### 4. Aquiles Priester
 

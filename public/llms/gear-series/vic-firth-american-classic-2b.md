@@ -44,4 +44,4 @@ A: MetalForge tracks all Vic Firth series used by professional metal drummers. V
 
 ---
 
-*Source: [metalforge.io/gear/vic-firth/american-classic-2b/drummers-using](https://metalforge.io/gear/vic-firth/american-classic-2b/drummers-using) · Last updated: 2026-06-18*
+*Source: [metalforge.io/gear/vic-firth/american-classic-2b/drummers-using](https://metalforge.io/gear/vic-firth/american-classic-2b/drummers-using) · Last updated: 2026-07-03*

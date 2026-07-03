@@ -65,7 +65,7 @@ import darayArticles from './daray.js';
 import jonDetteArticles from './jon-dette.js';
 import ryanVanPoederooyenArticles from './ryan-van-poederooyen.js';
 import kevinTalleyArticles from './kevin-talley.js';
-import morganGrenArticles from './morgan-gren.js';
+import morganAgrenArticles from './morgan-agren.js';
 import johnOttoArticles from './john-otto.js';
 import nickAugustoArticles from './nick-augusto.js';
 import arinIlejayArticles from './arin-ilejay.js';
@@ -137,7 +137,7 @@ export const ALBUM_ARTICLES = {
   ...jonDetteArticles,
   ...ryanVanPoederooyenArticles,
   ...kevinTalleyArticles,
-  ...morganGrenArticles,
+  ...morganAgrenArticles,
   ...johnOttoArticles,
   ...nickAugustoArticles,
   ...arinIlejayArticles,

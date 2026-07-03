@@ -60,7 +60,7 @@ const DRUMMER_MAP = {
   25: { name: 'Alex Bent',           band: 'ex-Trivium / Arkaík / Dragonlord',       slug: 'alex-bent' },
   26: { name: 'Shannon Larkin',      band: 'Godsmack / Ugly Kid Joe',                slug: 'shannon-larkin' },
   27: { name: 'Raymond Herrera',     band: 'Fear Factory / Brujeria',                slug: 'raymond-herrera' },
-  28: { name: 'Morgan Ågren',        band: "Mats/Morgan Band / Fredrik Thordendal's Special Defects", slug: 'morgan-gren' },
+  28: { name: 'Morgan Ågren',        band: "Mats/Morgan Band / Fredrik Thordendal's Special Defects", slug: 'morgan-agren' },
   29: { name: 'Igor Cavalera',       band: 'Sepultura / Cavalera Conspiracy',        slug: 'igor-cavalera' },
   30: { name: 'Bill Ward',           band: 'Black Sabbath',                          slug: 'bill-ward' },
   35: { name: 'Flo Mounier',         band: 'Cryptopsy',                              slug: 'flo-mounier' },

@@ -43,4 +43,4 @@ A: MetalForge tracks all DW series used by professional metal drummers. Visit [h
 
 ---
 
-*Source: [metalforge.io/gear/dw/9000-series-double-pedal-dw-9100-throne/drummers-using](https://metalforge.io/gear/dw/9000-series-double-pedal-dw-9100-throne/drummers-using) · Last updated: 2026-06-18*
+*Source: [metalforge.io/gear/dw/9000-series-double-pedal-dw-9100-throne/drummers-using](https://metalforge.io/gear/dw/9000-series-double-pedal-dw-9100-throne/drummers-using) · Last updated: 2026-07-03*

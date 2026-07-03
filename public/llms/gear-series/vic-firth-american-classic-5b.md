@@ -1,12 +1,12 @@
 # Vic Firth American Classic 5B — Drumsticks | MetalForge
 
-> The Vic Firth American Classic 5B is a pro-grade drumsticks choice used by 17 metal drummers in the MetalForge database.
+> The Vic Firth American Classic 5B is a pro-grade drumsticks choice used by 18 metal drummers in the MetalForge database.
 
 **Brand:** Vic Firth  
 **Series:** American Classic 5B  
 **Category:** Drumsticks  
 **Estimated Price:** $10–$30 per pair  
-**Drummers Using It:** 17  
+**Drummers Using It:** 18  
 
 ---
 
@@ -29,8 +29,9 @@
 - **[Hannes Grossmann](https://metalforge.io/drummer/hannes-grossmann)** (Obscura / ex-Necrophagist / Alkaloid) — standard configuration
 - **[Jocke Wallgren](https://metalforge.io/drummer/jocke-wallgren)** (Amon Amarth) — standard configuration
 - **[Kevin Talley](https://metalforge.io/drummer/kevin-talley)** (Dying Fetus / Misery Index / Six Feet Under) — standard configuration
+- **[Martin Axenrot](https://metalforge.io/drummer/martin-axenrot)** (Opeth) — standard configuration
 
-See all 17 drummers on the [Vic Firth American Classic 5B gear page](https://metalforge.io/gear/vic-firth/american-classic-5b/drummers-using).
+See all 18 drummers on the [Vic Firth American Classic 5B gear page](https://metalforge.io/gear/vic-firth/american-classic-5b/drummers-using).
 
 ## Gear Specifications
 
@@ -45,10 +46,10 @@ The Vic Firth American Classic 5B is a staple for metal drummers who need durabi
 ## Frequently Asked Questions
 
 **Q: Which metal drummers use the Vic Firth American Classic 5B?**
-A: 17 metal drummers in the MetalForge database play the Vic Firth American Classic 5B: Vinnie Paul, Hellhammer, Art Cruz, Navene Koperweis, Alex Bent, Shannon Larkin, Igor Cavalera, Nick Augusto, Ben Koller, Travis Orbin, Ryan Van Poederooyen, Scott Travis, Paul Mazurkiewicz, Daniel Erlandsson, Hannes Grossmann, Jocke Wallgren, and Kevin Talley. Each profile includes their exact setup and full kit configuration.
+A: 18 metal drummers in the MetalForge database play the Vic Firth American Classic 5B: Vinnie Paul, Hellhammer, Art Cruz, Navene Koperweis, Alex Bent, Shannon Larkin, Igor Cavalera, Nick Augusto, Ben Koller, Travis Orbin, Ryan Van Poederooyen, Scott Travis, Paul Mazurkiewicz, Daniel Erlandsson, Hannes Grossmann, Jocke Wallgren, Kevin Talley, and Martin Axenrot. Each profile includes their exact setup and full kit configuration.
 
 **Q: Is the Vic Firth American Classic 5B good for metal drumming?**
-A: Yes — the Vic Firth American Classic 5B is a proven metal choice, endorsed by 17 professional drummers across death, thrash, progressive, and groove metal. Vinnie Paul of Pantera / Damageplan / Hellyeah is among the signature players relying on this drumsticks for high-intensity performance.
+A: Yes — the Vic Firth American Classic 5B is a proven metal choice, endorsed by 18 professional drummers across death, thrash, progressive, and groove metal. Vinnie Paul of Pantera / Damageplan / Hellyeah is among the signature players relying on this drumsticks for high-intensity performance.
 
 **Q: How much does the Vic Firth American Classic 5B cost?**
 A: The Vic Firth American Classic 5B is estimated at $10–$30 per pair street price. Actual pricing varies by retailer, finish, and configuration. Check Thomann (EU) or Sweetwater (US) for current deals.
@@ -58,4 +59,4 @@ A: MetalForge tracks all Vic Firth series used by professional metal drummers. V
 
 ---
 
-*Source: [metalforge.io/gear/vic-firth/american-classic-5b/drummers-using](https://metalforge.io/gear/vic-firth/american-classic-5b/drummers-using) · Last updated: 2026-06-18*
+*Source: [metalforge.io/gear/vic-firth/american-classic-5b/drummers-using](https://metalforge.io/gear/vic-firth/american-classic-5b/drummers-using) · Last updated: 2026-07-03*

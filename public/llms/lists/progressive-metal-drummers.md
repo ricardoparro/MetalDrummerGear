@@ -106,7 +106,7 @@ Full drummer profile: [Tomas Haake on MetalForge](https://metalforge.io/drummer/
 
 Morgan Ågren earns rank #9 for: avant-garde experimental virtuosity. The Swedish prodigy performed with Frank Zappa and has produced some of the most rhythmically complex music in the progressive metal world — a true drummer's drummer.
 
-Full drummer profile: [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-gren)
+Full drummer profile: [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-agren)
 
 ### 10. Martin Lopez
 

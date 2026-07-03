@@ -113,6 +113,12 @@ export const GEAR_INDEX = {
         "name": "Hannes Grossmann",
         "slug": "hannes-grossmann",
         "configString": "Meinl Byzance Series (14\" Byzance Traditional Hi-Hats, 18\" & 19\" Byzance Brilliant Crashes, 21\" Byzance Traditional Ride)"
+      },
+      {
+        "id": 62,
+        "name": "Martin Axenrot",
+        "slug": "martin-axenrot",
+        "configString": "Meinl Byzance Series (14\" Traditional Medium Hi-Hats, 16\" & 18\" & 19\" Crashes, 22\" Traditional Ride, 18\" China)"
       }
     ]
   },
@@ -505,6 +511,12 @@ export const GEAR_INDEX = {
         "name": "Gavin Harrison",
         "slug": "gavin-harrison",
         "configString": "Sonor SQ2 Series"
+      },
+      {
+        "id": 62,
+        "name": "Martin Axenrot",
+        "slug": "martin-axenrot",
+        "configString": "Sonor SQ2 Series"
       }
     ],
     "SQ2 Heavy Beech": [
@@ -727,7 +739,7 @@ export const GEAR_INDEX = {
       {
         "id": 28,
         "name": "Morgan Ågren",
-        "slug": "morgan-gren",
+        "slug": "morgan-agren",
         "configString": "Vic Firth American Classic 5A"
       },
       {
@@ -874,6 +886,12 @@ export const GEAR_INDEX = {
         "id": 60,
         "name": "Kevin Talley",
         "slug": "kevin-talley",
+        "configString": "Vic Firth American Classic 5B"
+      },
+      {
+        "id": 62,
+        "name": "Martin Axenrot",
+        "slug": "martin-axenrot",
         "configString": "Vic Firth American Classic 5B"
       }
     ],

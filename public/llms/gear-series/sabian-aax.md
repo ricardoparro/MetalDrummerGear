@@ -47,4 +47,4 @@ A: MetalForge tracks all Sabian series used by professional metal drummers. Visi
 
 ---
 
-*Source: [metalforge.io/gear/sabian/aax/drummers-using](https://metalforge.io/gear/sabian/aax/drummers-using) · Last updated: 2026-06-18*
+*Source: [metalforge.io/gear/sabian/aax/drummers-using](https://metalforge.io/gear/sabian/aax/drummers-using) · Last updated: 2026-07-03*

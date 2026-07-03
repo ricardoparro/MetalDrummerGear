@@ -1,5 +1,5 @@
 # MetalForge — Master FAQ
-> Last Updated: 2026-06-09 · Source: https://metalforge.io
+> Last Updated: 2026-07-03 · Source: https://metalforge.io
 
 Answer-first FAQ for the gear and techniques of the world's legendary metal drummers. Every answer links to a deeper source page on MetalForge.
 
@@ -87,7 +87,7 @@ Shannon Larkin plays ddrum Dios Series. The Godsmack / Ugly Kid Joe / Amen drumm
 Raymond Herrera plays Tama Starclassic. The Fear Factory / Arkaea / Brujeria drummer rounds out the kit with a Tama 14x6.5" Brass snare and Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China) cymbals. [see /llms/drummers/raymond-herrera.md]
 
 ### What drums does Morgan Ågren use?
-Morgan Ågren plays Sonor SQ2 Designer Series. The Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects drummer rounds out the kit with a Sonor Designer 14x5.5" Maple snare and Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China) cymbals. [see /llms/drummers/morgan-gren.md]
+Morgan Ågren plays Sonor SQ2 Designer Series. The Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects drummer rounds out the kit with a Sonor Designer 14x5.5" Maple snare and Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China) cymbals. [see /llms/drummers/morgan-agren.md]
 
 ### What drums does Igor Cavalera use?
 Igor Cavalera plays Tama Starclassic Maple. The Sepultura / Cavalera Conspiracy / Soulwax drummer rounds out the kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China) cymbals. [see /llms/drummers/igor-cavalera.md]
@@ -187,6 +187,9 @@ Kevin Talley plays Pearl Masters Premium Legend. The Dying Fetus / Misery Index 
 
 ### What drums does Isaac Lamb use?
 Isaac Lamb plays SJC Custom Drums. The Kublai Khan TX drummer rounds out the kit with a SJC Custom 14x6.5" snare and Meinl Classics Custom Dark Series (14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China) cymbals. [see /llms/drummers/isaac-lamb.md]
+
+### What drums does Martin Axenrot use?
+Martin Axenrot plays Sonor SQ2 Series. The Opeth drummer rounds out the kit with a Sonor SQ2 14x5.75" Maple snare and Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China) cymbals. [see /llms/drummers/martin-axenrot.md]
 
 ## General Metal Drumming
 

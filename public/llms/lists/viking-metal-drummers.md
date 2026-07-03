@@ -86,7 +86,7 @@ Full drummer profile: [Inferno on MetalForge](https://metalforge.io/drummer/infe
 
 Morgan Ågren, born in Umeå, Sweden, gained metal recognition for his work on Meshuggah guitarist Fredrik Thordendal's solo album "Sol Niger Within," placing him within the same Swedish extreme metal orbit that produced Viking metal's Gothenburg-adjacent scene.
 
-Full drummer profile: [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-gren)
+Full drummer profile: [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-agren)
 
 ### 9. Igor Cavalera
 

@@ -44,4 +44,4 @@ A: MetalForge tracks all Tama series used by professional metal drummers. Visit 
 
 ---
 
-*Source: [metalforge.io/gear/tama/s-l-p-big-black-steel-14x6-5/drummers-using](https://metalforge.io/gear/tama/s-l-p-big-black-steel-14x6-5/drummers-using) · Last updated: 2026-06-18*
+*Source: [metalforge.io/gear/tama/s-l-p-big-black-steel-14x6-5/drummers-using](https://metalforge.io/gear/tama/s-l-p-big-black-steel-14x6-5/drummers-using) · Last updated: 2026-07-03*

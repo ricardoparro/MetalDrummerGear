@@ -2,8 +2,8 @@
 name: "Morgan Ågren"
 band: "Mats/Morgan Band"
 page_type: "gear_evolution"
-profile_url: "https://metalforge.io/drummer/morgan-gren"
-evolution_url: "https://metalforge.io/drummers/morgan-gren/evolution"
+profile_url: "https://metalforge.io/drummer/morgan-agren"
+evolution_url: "https://metalforge.io/drummers/morgan-agren/evolution"
 source: "https://metalforge.io"
 last_updated: "2026-06-29"
 ---
@@ -12,7 +12,7 @@ last_updated: "2026-06-29"
 
 Morgan Ågren is one of the world's most technically advanced and musically inventive drummers — a Swedish self-taught prodigy who rose from the underground scene in Umeå to collaborations with Frank Zappa, John Zorn, and the global avant-garde. As the rhythmic engine of the Mats/Morgan Band alongside keyboardist Mats Öberg, he has spent four decades pushing the boundaries of rhythm, polyrhythm, and drumset possibility in ways that defy genre classification. His hybrid acoustic/electronic setup — developed over decades of continuous refinement — is one of drumming's most unique instrumental voices. This timeline documents his complete gear evolution from Sonor beginnings through the definitive modern hybrid configuration.
 
-See also: [Morgan Ågren drummer profile](/llms/drummers/morgan-gren.md)
+See also: [Morgan Ågren drummer profile](/llms/drummers/morgan-agren.md)
 
 ---
 
@@ -200,7 +200,7 @@ A: Morgan Ågren operates across multiple genres and resists easy categorization
 
 ## Related Pages
 
-- [Morgan Ågren Drummer Profile](/llms/drummers/morgan-gren.md)
+- [Morgan Ågren Drummer Profile](/llms/drummers/morgan-agren.md)
 - [Mats/Morgan Band Profile](/llms/bands.md)
 - [DW Drums Brand Guide](/llms/brands/dw.md)
 - [Zildjian Cymbal Guide](/llms/brands/zildjian.md)

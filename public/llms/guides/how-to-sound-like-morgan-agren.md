@@ -85,7 +85,7 @@ A: Zappa personally selected Ågren to tour in 1988 when Ågren was just 20 — 
 ---
 
 **Full interactive guide:** [https://metalforge.io/guides/how-to-sound-like-morgan-agren](https://metalforge.io/guides/how-to-sound-like-morgan-agren)  
-**Drummer profile:** [https://metalforge.io/drummer/morgan-gren](https://metalforge.io/drummer/morgan-gren)  
+**Drummer profile:** [https://metalforge.io/drummer/morgan-agren](https://metalforge.io/drummer/morgan-agren)  
 **Related album article:** [Morgan Ågren's Drum Setup — Sonor SQ2 & Meinl Byzance](https://metalforge.io/articles/morgan-agren-drum-setup)  
 **Related guides:** [Mike Portnoy](https://metalforge.io/llms/guides/how-to-sound-like-mike-portnoy.md) · [Matt Garstka](https://metalforge.io/llms/guides/how-to-sound-like-matt-garstka.md)
 

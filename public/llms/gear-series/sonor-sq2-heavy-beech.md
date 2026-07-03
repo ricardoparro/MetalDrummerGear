@@ -44,4 +44,4 @@ A: MetalForge tracks all Sonor series used by professional metal drummers. Visit
 
 ---
 
-*Source: [metalforge.io/gear/sonor/sq2-heavy-beech/drummers-using](https://metalforge.io/gear/sonor/sq2-heavy-beech/drummers-using) · Last updated: 2026-06-18*
+*Source: [metalforge.io/gear/sonor/sq2-heavy-beech/drummers-using](https://metalforge.io/gear/sonor/sq2-heavy-beech/drummers-using) · Last updated: 2026-07-03*

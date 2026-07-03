@@ -22,7 +22,11 @@ const BASE = 'https://metalforge.io';
 const MIN_WORDS = 300;
 
 function generateSlug(name) {
-  return String(name).toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  return String(name).toLowerCase()
+    .replace(/[åä]/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u')
+    .replace(/é|è|ê|ë/g, 'e').replace(/í|ì|î|ï/g, 'i').replace(/ó|ò|ô/g, 'o')
+    .replace(/ú|ù|û/g, 'u').replace(/ñ/g, 'n').replace(/ß/g, 'ss')
+    .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
 // Drummer back-link points at the per-drummer markdown only when it actually exists,

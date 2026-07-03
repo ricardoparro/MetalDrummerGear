@@ -310,7 +310,7 @@ Full profile: https://metalforge.io/drummer/mario-duplantier
 
 Morgan Ågren (Mats/Morgan Band / Fredrik Thordendal's Special Defects) earns rank #7 for: jazz-metal fusion master. Experimental approach crossing genre boundaries.
 
-Full profile: https://metalforge.io/drummer/morgan-gren
+Full profile: https://metalforge.io/drummer/morgan-agren
 
 ### 8. Navene Koperweis
 
@@ -1304,7 +1304,7 @@ Full profile: https://metalforge.io/drummer/tomas-haake
 
 Morgan Ågren earns rank #9 for: avant-garde experimental virtuosity. A Swedish prodigy who performed with Frank Zappa and produces some of the most rhythmically complex music in progressive metal.
 
-Full profile: https://metalforge.io/drummer/morgan-gren
+Full profile: https://metalforge.io/drummer/morgan-agren
 
 ### 10. Martin Lopez
 

@@ -43,4 +43,4 @@ A: MetalForge tracks all ddrum series used by professional metal drummers. Visit
 
 ---
 
-*Source: [metalforge.io/gear/ddrum/dios-14x6-5-maple/drummers-using](https://metalforge.io/gear/ddrum/dios-14x6-5-maple/drummers-using) · Last updated: 2026-06-18*
+*Source: [metalforge.io/gear/ddrum/dios-14x6-5-maple/drummers-using](https://metalforge.io/gear/ddrum/dios-14x6-5-maple/drummers-using) · Last updated: 2026-07-03*

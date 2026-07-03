@@ -66,7 +66,7 @@ Full drummer profile: [Danny Carey on MetalForge](https://metalforge.io/drummer/
 
 Morgan Ågren earns rank #5 for bridging progressive rock's folk instincts and extreme metal's Gothenburg scene.
 
-Full drummer profile: [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-gren)
+Full drummer profile: [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-agren)
 
 ### 6. Daniel Erlandsson
 

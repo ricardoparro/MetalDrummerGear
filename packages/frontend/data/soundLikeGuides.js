@@ -11610,7 +11610,7 @@ This guide breaks down the technique, gear, and practice approach behind Ågren'
       }
     ],
     related: {
-      drummerProfile: '/drummer/morgan-gren',
+      drummerProfile: '/drummer/morgan-agren',
       similarDrummers: ['Mike Portnoy', 'Matt Garstka', 'Hannes Grossmann'],
       relatedGuides: ['how-to-sound-like-mike-portnoy', 'how-to-sound-like-matt-garstka'],
       gearPages: ['/gear/drums', '/brands/sonor', '/brands/meinl']

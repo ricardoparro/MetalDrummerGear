@@ -44,4 +44,4 @@ A: MetalForge tracks all Mapex series used by professional metal drummers. Visit
 
 ---
 
-*Source: [metalforge.io/gear/mapex/falcon-double-pedal-mapex-t865-throne/drummers-using](https://metalforge.io/gear/mapex/falcon-double-pedal-mapex-t865-throne/drummers-using) · Last updated: 2026-06-18*
+*Source: [metalforge.io/gear/mapex/falcon-double-pedal-mapex-t865-throne/drummers-using](https://metalforge.io/gear/mapex/falcon-double-pedal-mapex-t865-throne/drummers-using) · Last updated: 2026-07-03*

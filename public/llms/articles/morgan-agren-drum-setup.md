@@ -3,7 +3,7 @@
 > Morgan Ågren uses a Sonor SQ2 Beech kit built for avant-garde metal and jazz-fusion. Explore the complete gear setup of Zappa's touring drummer and Devin Townsend Project's rhythmic architect.
 
 **Type:** Kit Breakdown
-**Drummer(s):** Morgan Ågren
+**Drummer(s):** [Morgan Ågren](/llms/drummers/morgan-agren.md)
 **Band / Album:** Devin Townsend Project
 **Genre:** Avant-Garde / Jazz-Metal / Progressive Metal
 

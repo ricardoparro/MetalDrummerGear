@@ -9422,8 +9422,8 @@ export const DRUMMER_EVOLUTION = {
   // ==========================================
   // Morgan Agren - Avant-Garde / Progressive (1983–Present)
   // ==========================================
-  'morgan-gren': {
-    slug: 'morgan-gren',
+  'morgan-agren': {
+    slug: 'morgan-agren',
     name: 'Morgan Ågren',
     band: 'Mats/Morgan Band',
     totalYearsActive: '1983-Present',
@@ -9432,7 +9432,7 @@ export const DRUMMER_EVOLUTION = {
 
     eras: [
       {
-        id: 'morgan-gren-1983-early',
+        id: 'morgan-agren-1983-early',
         era: 'Self-Taught Prodigy / Umeå Underground',
         years: '1983–1989',
         startYear: 1983,
@@ -9504,7 +9504,7 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'morgan-gren-1990-mats-morgan',
+        id: 'morgan-agren-1990-mats-morgan',
         era: 'Mats/Morgan Band Formation / Zappa Connection',
         years: '1990–1997',
         startYear: 1990,
@@ -9578,7 +9578,7 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'morgan-gren-1998-international',
+        id: 'morgan-agren-1998-international',
         era: 'International Recognition / Extended DW Era',
         years: '1998–2006',
         startYear: 1998,
@@ -9651,7 +9651,7 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'morgan-gren-2007-hybrid',
+        id: 'morgan-agren-2007-hybrid',
         era: 'Avant-Garde Peak / Electronic Integration',
         years: '2007–2014',
         startYear: 2007,
@@ -9730,7 +9730,7 @@ export const DRUMMER_EVOLUTION = {
       },
 
       {
-        id: 'morgan-gren-2015-modern',
+        id: 'morgan-agren-2015-modern',
         era: 'Modern Hybrid Era',
         years: '2015–Present',
         startYear: 2015,

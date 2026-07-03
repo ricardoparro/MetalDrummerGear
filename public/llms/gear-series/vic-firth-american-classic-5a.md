@@ -13,7 +13,7 @@
 ## Metal Drummers Who Use the Vic Firth American Classic 5A
 
 - **[Arin Ilejay](https://metalforge.io/drummer/arin-ilejay)** (ex-Avenged Sevenfold) — standard configuration
-- **[Morgan Ågren](https://metalforge.io/drummer/morgan-gren)** (Mats/Morgan Band / Kaipa / Fredrik Thordendal\) — standard configuration
+- **[Morgan Ågren](https://metalforge.io/drummer/morgan-agren)** (Mats/Morgan Band / Kaipa / Fredrik Thordendal\) — standard configuration
 - **[Matt Greiner](https://metalforge.io/drummer/matt-greiner)** (August Burns Red) — standard configuration
 - **[Flo Mounier](https://metalforge.io/drummer/flo-mounier)** (Cryptopsy) — standard configuration
 - **[Martin Lopez](https://metalforge.io/drummer/martin-lopez)** (Soen / ex-Opeth) — standard configuration
@@ -50,4 +50,4 @@ A: MetalForge tracks all Vic Firth series used by professional metal drummers. V
 
 ---
 
-*Source: [metalforge.io/gear/vic-firth/american-classic-5a/drummers-using](https://metalforge.io/gear/vic-firth/american-classic-5a/drummers-using) · Last updated: 2026-06-18*
+*Source: [metalforge.io/gear/vic-firth/american-classic-5a/drummers-using](https://metalforge.io/gear/vic-firth/american-classic-5a/drummers-using) · Last updated: 2026-07-03*

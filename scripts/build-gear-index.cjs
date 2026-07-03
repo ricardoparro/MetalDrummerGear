@@ -77,7 +77,11 @@ const ALIAS_TABLE = BRANDS.flatMap((b) =>
 // --- Helpers ---------------------------------------------------------------------
 function drummerSlug(name) {
   // Mirror scripts/generate-llms-drummers.cjs generateSlug().
-  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  return name.toLowerCase()
+    .replace(/[åä]/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u')
+    .replace(/é|è|ê|ë/g, 'e').replace(/í|ì|î|ï/g, 'i').replace(/ó|ò|ô/g, 'o')
+    .replace(/ú|ù|û/g, 'u').replace(/ñ/g, 'n').replace(/ß/g, 'ss')
+    .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
 // Match a known brand at the START of a gear string. Returns { brand, rest } or null.

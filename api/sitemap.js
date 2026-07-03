@@ -459,7 +459,7 @@ const llmsDrummerSlugs = [
   'jocke-wallgren', 'joey-jordison', 'john-otto', 'kevin-talley',
   'lars-ulrich', 'mario-duplantier', 'martin-lopez', 'matt-garstka',
   'matt-greiner', 'matt-halpern', 'mike-mangini', 'mike-portnoy',
-  'mikkey-dee', 'morgan-gren', 'navene-koperweis', 'nick-augusto',
+  'mikkey-dee', 'morgan-agren', 'navene-koperweis', 'nick-augusto',
   'nicko-mcbrain', 'paul-mazurkiewicz', 'pete-sandoval', 'ray-luzier',
   'raymond-herrera', 'richard-christy', 'ryan-van-poederooyen', 'scott-travis',
   'shannon-larkin', 'tim-yeung', 'tomas-haake', 'travis-orbin',
@@ -484,7 +484,11 @@ function lastmodFor(url) {
 }
 
 function generateSlug(name) {
-  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  return name.toLowerCase()
+    .replace(/[åä]/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u')
+    .replace(/é|è|ê|ë/g, 'e').replace(/í|ì|î|ï/g, 'i').replace(/ó|ò|ô/g, 'o')
+    .replace(/ú|ù|û/g, 'u').replace(/ñ/g, 'n').replace(/ß/g, 'ss')
+    .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
 function xmlEscape(str) {

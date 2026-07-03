@@ -4803,7 +4803,7 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
   }
 
   // Issue #2544: use per-drummer overrides when available (high-volume GSC clusters)
-  const drummerSlug = drummer ? drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '') : null;
+  const drummerSlug = drummer ? toSlug(drummer.name) : null;
   const drummerOverride = drummerSlug ? DRUMMER_PAGE_META_OVERRIDES[drummerSlug] : null;
 
   const title = drummer
@@ -13501,7 +13501,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
                 "@type": "MusicGroup",
                 "name": drummer.band
               },
-              "url": `https://metalforge.io/drummer/${drummer.name.toLowerCase().replace(/\s+/g, '-')}`
+              "url": `https://metalforge.io/drummer/${toSlug(drummer.name)}`
             }
           }))
         },
@@ -13971,7 +13971,7 @@ function BrandLandingPage({ brandSlug, drummers, onBack, onSelectDrummer, onNavi
                     "@type": "MusicGroup",
                     "name": drummer.band
                   },
-                  "url": `https://metalforge.io/drummer/${drummer.name.toLowerCase().replace(/\s+/g, '-')}`
+                  "url": `https://metalforge.io/drummer/${toSlug(drummer.name)}`
                 }
               }))
             }
@@ -20695,7 +20695,11 @@ function updateTechniqueMeta(technique) {
 
 // Convert drummer name to URL slug
 function toSlug(name) {
-  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  return name.toLowerCase()
+    .replace(/[åä]/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u')
+    .replace(/é|è|ê|ë/g, 'e').replace(/í|ì|î|ï/g, 'i').replace(/ó|ò|ô/g, 'o')
+    .replace(/ú|ù|û/g, 'u').replace(/ñ/g, 'n').replace(/ß/g, 'ss')
+    .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
 // Find drummer by slug or ID (matching against slugified name or numeric ID)
@@ -21219,7 +21223,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
           }
           
           // Update URL for shareable result
-          const drummerSlug = matches[0].drummer.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+          const drummerSlug = toSlug(matches[0].drummer.name);
           updateQuizResultURL(drummerSlug);
           
           // Update meta tags for social sharing
@@ -21257,7 +21261,7 @@ function QuizView({ theme, onBack, drummers, onSelectDrummer }) {
     if (!results || !results[0]) return;
     
     const topMatch = results[0].drummer;
-    const drummerSlug = topMatch.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    const drummerSlug = toSlug(topMatch.name);
     // Issue #647: Share URL points to quiz for viral loop
     const shareUrl = 'https://metalforge.io/quiz';
     

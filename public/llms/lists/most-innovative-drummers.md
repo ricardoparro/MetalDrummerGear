@@ -84,7 +84,7 @@ Full drummer profile: [Mario Duplantier on MetalForge](https://metalforge.io/dru
 
 Morgan Ågren (Mats/Morgan Band / Fredrik Thordendal's Special Defects) earns rank #7 for: jazz-metal fusion master. Experimental approach crossing genre boundaries.
 
-Full drummer profile: [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-gren)
+Full drummer profile: [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-agren)
 
 ### 8. Navene Koperweis
 

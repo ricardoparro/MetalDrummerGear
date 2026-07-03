@@ -18583,6 +18583,21 @@ function DrummerList({
         />
       )}
 
+      {/* "You May Also Like" related-drummers discovery rail (Issue #1239)
+          Seeded by the current spotlight drummer, reuses the same
+          genre/brand similarity heuristic as the profile-page block
+          (Issue #1005) rather than duplicating it. Below the fold, so no
+          impact on the homepage's LCP. */}
+      {spotlight && drummers.length > 0 && (
+        <RelatedDrummersBlock
+          drummer={spotlight}
+          allDrummers={drummers}
+          theme={theme}
+          title="You May Also Like"
+          limit={8}
+        />
+      )}
+
       {/* Explore Tools Strip - tools discovery (Issue #1232, #1234) */}
       <ExploreToolsStrip
         theme={theme}

@@ -1766,3 +1766,29 @@ Founder inbox empty. Backlog fully drained (0 eligible / 0 total open ai-fix —
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — 12 issues shipped since the 11:00 run without CEO intervention needed, notably **#3651**: a generator-level fix (`generate-llms-articles.cjs` never rendered the per-article `faq` array despite 383/390 source files having one) that retroactively added FAQ sections to ~390 `/public/llms/articles/*.md` files in one PR, directly closing 2 zero-competitor rows in #2211. Logged as a new pattern in `learned-patterns.md` (check sibling generators for render gaps before proposing content batches). Joey Jordison content-gap cluster unchanged, already covered by shipped #3059/#3412.
 - Next check: 2026-07-06 L1/L2/L3 weekly refresh — confirm #3651 registers as new L2 wins; watch for SEO Agent to refill the empty bank before backlog starves.
+
+## 2026-07-03 22:19 — Promoted 5 fresh seo-proposals to ai-fix, backlog refilled from empty
+
+### Context (≤3 lines)
+Founder inbox empty. Backlog fully drained (0 eligible ai-fix, 0 open PRs) since the 19:29 hold. 5 fresh proposals landed 19:41-19:43 UTC (#3659-3663), all deep in promote-liberally band.
+
+### Actions taken
+- **Promoted all 5 to `ai-fix`** after checking each for quality/non-duplication (searched open+closed issues for "morgan", "sitemap.js dynamic" — no conflicts):
+  - #3659: 🔴 CRITICAL — Morgan Ågren slug bug (`morgan-gren` naive slug vs `morgan-agren` transliterated). Traced through actual render path: `extendedBios['morgan-gren']` returns null on the live route, so Kit Overview content shipped in #3654 is unreachable. Real content-loss bug, not cosmetic.
+  - #3660: 🔴 CRITICAL — scott-travis + arin-ilejay missing from `sitemap.js` hardcoded arrays despite having live, fully-populated pages. Zero-sitemap-signal indexation gap.
+  - #3661: 🟠 root-cause fix — convert `gearPriceHistoryDrummers`/`soundLikeGuides` hardcoded arrays to dynamic imports, same pattern already proven for `top10Lists` (#2726, hasn't drifted since). Companion to #3660, not a duplicate — one is the immediate patch, the other prevents recurrence.
+  - #3662/#3663: Gear price history batches 35+36 — closes full 61/61 roster coverage. Correctly instructs using `morgan-agren` (not the buggy slug) for the new entry, so no dependency ordering issue vs #3659.
+- **GSC content-gap:** Joey Jordison cluster unchanged, already covered by shipped #3059/#3412. No new escalation.
+- **Atomic-split sweep:** N/A — all 5 promoted issues are single-concern, ≤7 file touches each, no split needed.
+
+### State delta
+- **ai-fix backlog: 0 → 5** (all fresh promotions, no PRs yet)
+- **seo-proposal bank: 5 untriaged → 0** (only umbrella #2211 remains)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 5/5 triaged and promoted. ✅ GSC-gap: already covered. ✅ Atomic split: none needed. ✅ No over-filing (0 issues filed directly by CEO — all 5 were pre-existing proposals). ✅ Decisions logged.
+
+### Next Run
+1. Watch #3659 (Morgan Ågren slug fix) merge first if possible — it's the highest-leverage fix (unblocks the true 62/62 Kit Overview milestone) and #3662 depends on the correct slug existing to avoid re-creating the bug.
+2. L1/L2/L3 next due 2026-07-06 (Monday) — confirm #3651 (FAQ generator fix) registers as new L2 citation wins.
+3. Backlog now 5 eligible — still deep in promote-liberally band, keep promoting as bank refills.

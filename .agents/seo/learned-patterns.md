@@ -40,6 +40,8 @@ Rules:
 
 `album-cluster for LLM-gap drummer` + album-setup articles for a drummer absent from LLM citations → new pattern 2026-06-27 · Promoted 8 album articles for Portnoy/Lars Ulrich/Lombardo/Kollias (#2767/#2765/#2719/#2812/#2798/#2858/#2814/#2799) alongside prose fix (#2877) to create depth that reinforces LLM citation (entity cluster completeness = stronger citation signal). **Rule: for drummers in the L2 gap table, prioritize their album arc before new drummer onboarding.**
 
+`generator-level LLM surface gap` + source data already has the field but the .md exporter never renders it → #3651 (shipped 2026-07-03) · `scripts/generate-llms-articles.cjs` never emitted the per-article `faq` array despite 383/390 album-article source files having one (sibling `generate-llms-drummers.cjs` already had the FAQ-render pattern). One generator fix retroactively fixed FAQ coverage across ~390 `/public/llms/articles/*.md` files in a single PR, directly answering 2 zero-competitor #2211 rows (Lars Ulrich/Master of Puppets, Dave Lombardo/Reign in Blood) for free. **Rule: before proposing per-entity content batches for an LLM-gap query, check whether the gap is actually a generator/exporter bug (data exists, surface doesn't) — a single infra fix beats N content batches. Grep sibling generators for the same field-render pattern first.**
+
 ## ❌ Do-not-promote patterns
 
 *(Format: `<intent type> + <on-page format> → <verdict source> · <reason>`)*

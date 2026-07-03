@@ -156,6 +156,9 @@ import {
 } from './data/gearCategoryPages';
 // Issue #1794: Genre gear guide pages — /guides/best-[gear]-for-[genre]
 import { GENRE_GEAR_GUIDES } from './data/genreGearGuides';
+// Brand landing pages (Issue #656) - used to deep-link homepage gear callouts
+// to a real brand hub when the brand is recognized (Issue #1241)
+import { hasBrand } from './data/brands';
 
 // ==========================================
 // LAZY-LOADED DATA MODULES - Performance Optimization (#708)
@@ -1684,12 +1687,19 @@ function MostPopularGear({ theme, onSelectDrummer }) {
     }
   };
 
-  // Navigate to gear category
-  const handleGearPress = (category, gearName) => {
-    trackEvent('section_click', { section: 'most_popular_gear', item_type: 'gear', gear_name: gearName, gear_category: category });
+  // Deep-link a popular gear item to its brand hub when we recognize the brand,
+  // otherwise fall back to the gear category hub (always a valid route) — this
+  // closes the gear-discovery loop without risking a 404 (Issue #1241).
+  const getGearHref = (item, category) => {
+    const brandSlug = item.brand ? item.brand.toLowerCase().replace(/[^a-z0-9]/g, '') : null;
+    return brandSlug && hasBrand(brandSlug) ? `/brands/${brandSlug}` : `/gear/${category}`;
+  };
+
+  // Navigate to the gear page (category or brand hub)
+  const handleGearPress = (item, category) => {
+    trackEvent('section_click', { section: 'most_popular_gear', item_type: 'gear', gear_name: item.name, gear_category: category });
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
-      const slug = gearName.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-      window.history.pushState(null, '', `/gear/${category}?q=${encodeURIComponent(gearName)}`);
+      window.history.pushState({}, '', getGearHref(item, category));
       window.dispatchEvent(new PopStateEvent('popstate'));
     }
   };
@@ -1750,6 +1760,30 @@ function MostPopularGear({ theme, onSelectDrummer }) {
                       <Text style={[styles.popularGearCount, { color: theme.secondaryText }]}>
                         Used by {item.count} drummer{item.count !== 1 ? 's' : ''}
                       </Text>
+                      {/* Gear page deep-link — visually distinct from the drummer avatars below (Issue #1241) */}
+                      {Platform.OS === 'web' ? (
+                        <a
+                          href={getGearHref(item, category)}
+                          onClick={(e) => { e.preventDefault(); handleGearPress(item, category); }}
+                          style={{ textDecoration: 'none', display: 'block', marginBottom: 8 }}
+                          aria-label={`Browse ${item.name} on the gear pages`}
+                        >
+                          <Text style={[styles.popularGearLink, { color: theme.primary }]}>
+                            🔗 View Gear Page →
+                          </Text>
+                        </a>
+                      ) : (
+                        <TouchableOpacity
+                          onPress={() => handleGearPress(item, category)}
+                          accessibilityRole="link"
+                          accessibilityLabel={`Browse ${item.name} on the gear pages`}
+                          style={styles.popularGearLinkAnchor}
+                        >
+                          <Text style={[styles.popularGearLink, { color: theme.primary }]}>
+                            🔗 View Gear Page →
+                          </Text>
+                        </TouchableOpacity>
+                      )}
                       {/* Drummer avatars */}
                       <View style={styles.popularGearAvatars}>
                         {item.drummers.slice(0, 4).map((drummer, dIndex) => (
@@ -2001,6 +2035,24 @@ function TrendingThisWeek({ theme, drummers, onSelectDrummer }) {
     onSelectDrummer(drummer.id);
   };
 
+  // Deep-link a trending drummer's kit to its brand hub when recognized,
+  // otherwise the drum category hub — both are always-valid routes (Issue #1241).
+  const getDrummerGearHref = (drummer) => {
+    const brand = extractGearBrand(drummer.gear?.drums, 'drums');
+    const brandSlug = brand ? brand.toLowerCase().replace(/[^a-z0-9]/g, '') : null;
+    return brandSlug && hasBrand(brandSlug) ? `/brands/${brandSlug}` : '/gear/drums';
+  };
+
+  // Track + navigate for the gear page link (separate destination from the drummer profile)
+  const handleGearLinkPress = (drummer, e) => {
+    if (e) e.stopPropagation();
+    trackEvent('trending_click', { section: 'trending', item_type: 'gear', drummer_id: drummer.id });
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', getDrummerGearHref(drummer));
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+
   return (
     <View
       ref={sectionRef}
@@ -2066,6 +2118,31 @@ function TrendingThisWeek({ theme, drummers, onSelectDrummer }) {
                   {trending.isNew ? '🆕 NEW' : `📈 ${changeText}`}
                 </Text>
               </View>
+
+              {/* Gear page deep-link — a separate, visually distinct destination from the drummer profile above (Issue #1241) */}
+              {Platform.OS === 'web' ? (
+                <a
+                  href={getDrummerGearHref(drummer)}
+                  onClick={(e) => { e.preventDefault(); e.stopPropagation(); handleGearLinkPress(drummer); }}
+                  style={{ textDecoration: 'none', display: 'block', marginTop: 6 }}
+                  aria-label={`Browse ${drummer.name}'s gear brand`}
+                >
+                  <Text style={[styles.trendingGearLink, { color: theme.primary }]}>
+                    🔗 View Gear →
+                  </Text>
+                </a>
+              ) : (
+                <TouchableOpacity
+                  onPress={(e) => handleGearLinkPress(drummer, e)}
+                  accessibilityRole="link"
+                  accessibilityLabel={`Browse ${drummer.name}'s gear brand`}
+                  style={styles.trendingGearLinkTouchable}
+                >
+                  <Text style={[styles.trendingGearLink, { color: theme.primary }]}>
+                    🔗 View Gear →
+                  </Text>
+                </TouchableOpacity>
+              )}
             </TouchableOpacity>
           );
         })}
@@ -2118,7 +2195,36 @@ function RecentlyUpdatedGear({ theme, drummers, onSelectDrummer }) {
     const action = update.changeLabel || 'updated';
     return `${action} ${update.gearName}`;
   };
-  
+
+  // Guess a gear category hub from free-text gear names (fallback when the
+  // brand isn't recognized) — every value here is a real /gear/:category route.
+  const inferGearCategory = (gearName) => {
+    if (/cymbal|hi-?hat|ride|crash|china|splash/i.test(gearName)) return 'cymbals';
+    if (/snare/i.test(gearName)) return 'snares';
+    if (/pedal/i.test(gearName)) return 'pedals';
+    if (/stick/i.test(gearName)) return 'sticks';
+    if (/throne|rack|stand|hardware/i.test(gearName)) return 'hardware';
+    return 'drums';
+  };
+
+  // Deep-link a gear update to its brand hub when recognized, otherwise to the
+  // inferred category hub — both are always-valid routes (Issue #1241).
+  const getGearHref = (update) => {
+    const brand = extractGearBrand(update.gearName);
+    const brandSlug = brand ? brand.toLowerCase().replace(/[^a-z0-9]/g, '') : null;
+    return brandSlug && hasBrand(brandSlug) ? `/brands/${brandSlug}` : `/gear/${inferGearCategory(update.gearName)}`;
+  };
+
+  // Track + navigate for the gear page link (separate destination from the drummer profile)
+  const handleGearLinkPress = (update, e) => {
+    if (e) e.stopPropagation();
+    trackEvent('section_click', { section: 'recently_updated', item_type: 'gear', gear_name: update.gearName });
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', getGearHref(update));
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+
   return (
     <View
       ref={sectionRef}
@@ -2214,6 +2320,31 @@ function RecentlyUpdatedGear({ theme, drummers, onSelectDrummer }) {
               <Text style={[styles.recentlyUpdatedTime, { color: theme.secondaryText }]}>
                 {update.relativeTime}
               </Text>
+
+              {/* Gear page deep-link — a separate, visually distinct destination from the drummer profile above (Issue #1241) */}
+              {Platform.OS === 'web' ? (
+                <a
+                  href={getGearHref(update)}
+                  onClick={(e) => { e.preventDefault(); e.stopPropagation(); handleGearLinkPress(update); }}
+                  style={{ textDecoration: 'none', display: 'block', marginTop: 6 }}
+                  aria-label={`Browse ${update.gearName} on the gear pages`}
+                >
+                  <Text style={[styles.recentlyUpdatedGearLink, { color: theme.primary }]}>
+                    🔗 View Gear Page →
+                  </Text>
+                </a>
+              ) : (
+                <TouchableOpacity
+                  onPress={(e) => handleGearLinkPress(update, e)}
+                  accessibilityRole="link"
+                  accessibilityLabel={`Browse ${update.gearName} on the gear pages`}
+                  style={styles.recentlyUpdatedGearLinkTouchable}
+                >
+                  <Text style={[styles.recentlyUpdatedGearLink, { color: theme.primary }]}>
+                    🔗 View Gear Page →
+                  </Text>
+                </TouchableOpacity>
+              )}
             </TouchableOpacity>
           );
         })}
@@ -33584,7 +33715,15 @@ const styles = StyleSheet.create({
     fontSize: 11,
     fontWeight: '600',
   },
-  
+  trendingGearLinkTouchable: {
+    marginTop: 6,
+  },
+  trendingGearLink: {
+    fontSize: 11,
+    fontWeight: '700',
+    textAlign: 'center',
+  },
+
   // ==========================================
   // Recently Updated Gear Section styles (Issue #715)
   // ==========================================
@@ -33671,7 +33810,15 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     fontStyle: 'italic',
   },
-  
+  recentlyUpdatedGearLinkTouchable: {
+    marginTop: 6,
+  },
+  recentlyUpdatedGearLink: {
+    fontSize: 11,
+    fontWeight: '700',
+    textAlign: 'center',
+  },
+
   // Top Lists Section styles
   topListsSection: {
     marginVertical: 24,
@@ -33778,6 +33925,13 @@ const styles = StyleSheet.create({
   popularGearCount: {
     fontSize: 12,
     marginBottom: 8,
+  },
+  popularGearLinkAnchor: {
+    marginBottom: 8,
+  },
+  popularGearLink: {
+    fontSize: 12,
+    fontWeight: '700',
   },
   popularGearAvatars: {
     flexDirection: 'row',

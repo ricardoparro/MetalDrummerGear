@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-03 07:06 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-03 08:00 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,10 +8,10 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 130 |
-| Sessions | 151 |
-| Page views | 217 |
-| Engagement rate | 54.97% |
+| Active users | 131 |
+| Sessions | 152 |
+| Page views | 218 |
+| Engagement rate | 54.61% |
 | Avg session (s) | 162 |
 
 ### Top pages (by page views, last 7d)
@@ -33,37 +33,37 @@
 | --- | --- | --- |
 | Organic Search | 97 | 85 |
 | Direct | 37 | 28 |
-| Unassigned | 25 | 25 |
-| Cross-network | 10 | 10 |
+| Unassigned | 26 | 26 |
+| Cross-network | 11 | 11 |
 | Organic Social | 1 | 1 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 2,876 |
-| Clicks | 63 |
-| CTR | 2.19% |
-| Avg position | 8.0 |
+| Impressions | 3,384 |
+| Clicks | 75 |
+| CTR | 2.22% |
+| Avg position | 7.9 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| jaska raatikainen drum set | 4 | 2 | 50.00% | 2.5 |
-| shannon larkin drum kit | 17 | 2 | 11.76% | 4.7 |
+| jaska raatikainen drum set | 5 | 3 | 60.00% | 2.6 |
+| john otto drum kit | 20 | 2 | 10.00% | 5.9 |
+| nick augusto | 45 | 2 | 4.44% | 10.1 |
+| shannon larkin drum kit | 18 | 2 | 11.11% | 4.6 |
 | ben koller drum setup | 1 | 1 | 100.00% | 1.0 |
-| bill ward drum set | 12 | 1 | 8.33% | 8.7 |
-| dirk verbeuren drum kit | 11 | 1 | 9.09% | 7.7 |
-| dirk verbeuren drum set | 1 | 1 | 100.00% | 6.0 |
-| eloy casagrande drum set | 5 | 1 | 20.00% | 8.8 |
-| frost drummer | 2 | 1 | 50.00% | 13.5 |
-| inferno drum kit | 2 | 1 | 50.00% | 8.5 |
-| joey jordison drum kit | 85 | 1 | 1.18% | 6.9 |
+| bill ward drum set | 15 | 1 | 6.67% | 9.0 |
+| dirk verbeuren drum kit | 14 | 1 | 7.14% | 7.7 |
+| dirk verbeuren drum set | 2 | 1 | 50.00% | 7.5 |
+| eloy casagrande drum kit | 27 | 1 | 3.70% | 7.3 |
+| eloy casagrande drum set | 6 | 1 | 16.67% | 9.5 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 85 | 1.18% | 6.9 | open issue to answer better |
-| joey jordison drum set | 107 | 0.93% | 7.0 | open issue to answer better |
+| joey jordison drum kit | 90 | 1.11% | 7.1 | open issue to answer better |
+| joey jordison drum set | 123 | 0.81% | 6.9 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

@@ -126,11 +126,11 @@ function RelatedDrummerCard({ item, theme }) {
   );
 }
 
-export default function RelatedDrummersBlock({ drummer, allDrummers = [], theme }) {
+export default function RelatedDrummersBlock({ drummer, allDrummers = [], theme, title = 'Related Drummers', limit = 4 }) {
   const t = theme || { text: '#111', secondaryText: '#666', background: '#fff', border: '#e5e5e5', card: '#fff' };
   const related = useMemo(
-    () => getRelatedDrummers(drummer, allDrummers, 4),
-    [drummer, allDrummers]
+    () => getRelatedDrummers(drummer, allDrummers, limit),
+    [drummer, allDrummers, limit]
   );
 
   if (related.length === 0) return null;
@@ -138,7 +138,7 @@ export default function RelatedDrummersBlock({ drummer, allDrummers = [], theme 
   return (
     <View style={[styles.section, { backgroundColor: t.card, borderColor: t.border }]}>
       <Text style={[styles.title, { color: t.text }]} accessibilityRole="header">
-        Related Drummers
+        {title}
       </Text>
       <View style={styles.grid}>
         {related.map((item) => (

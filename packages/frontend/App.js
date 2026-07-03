@@ -1283,6 +1283,37 @@ function saveSortPreference(sort) {
   localStorage.setItem('drummerSortPreference', sort);
 }
 
+// "Continue exploring" rail storage helpers (Issue #1240) — client-only,
+// no auth, no PII. Degrades to a no-op / empty list when storage is
+// unavailable (SSR, privacy mode, storage disabled).
+const RECENTLY_VIEWED_KEY = 'metalforge_recently_viewed';
+const RECENTLY_VIEWED_MAX = 8;
+
+function getRecentlyViewed() {
+  if (Platform.OS !== 'web' || typeof localStorage === 'undefined') return [];
+  try {
+    const raw = localStorage.getItem(RECENTLY_VIEWED_KEY);
+    const items = raw ? JSON.parse(raw) : [];
+    return Array.isArray(items) ? items : [];
+  } catch (_) {
+    return [];
+  }
+}
+
+// Records a page view for the "Continue exploring" rail. `entry` must have a
+// unique `url` plus display fields (title, subtitle, image). Most recent
+// first, de-duped by url, capped to RECENTLY_VIEWED_MAX.
+function recordRecentlyViewed(entry) {
+  if (Platform.OS !== 'web' || typeof localStorage === 'undefined' || !entry || !entry.url) return;
+  try {
+    const existing = getRecentlyViewed().filter(item => item.url !== entry.url);
+    const updated = [{ ...entry, viewedAt: Date.now() }, ...existing].slice(0, RECENTLY_VIEWED_MAX);
+    localStorage.setItem(RECENTLY_VIEWED_KEY, JSON.stringify(updated));
+  } catch (_) {
+    // Storage unavailable/full — silently skip, rail just won't show this item.
+  }
+}
+
 // Helper to get/set URL params for shareable comparisons
 function getCompareParamsFromURL() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return [];
@@ -1965,6 +1996,98 @@ function BrowseByGearCategory({ theme }) {
       <View style={styles.gearCategoryGrid}>
         {BROWSE_GEAR_CATEGORIES.map(renderCard)}
       </View>
+    </View>
+  );
+}
+
+// ==========================================
+// CONTINUE EXPLORING RAIL - Personalised recently-viewed rail (Issue #1240)
+// Client-only, localStorage-backed. State starts empty and is only
+// populated in an effect after mount, so first paint is identical for every
+// visitor (no hydration mismatch / CLS) and first-time visitors — who have
+// no history — see no rail at all (no empty state).
+// ==========================================
+
+function ContinueExploringRail({ theme }) {
+  const [items, setItems] = useState([]);
+  const sectionRef = useSectionImpression('continue_exploring');
+
+  useEffect(() => {
+    setItems(getRecentlyViewed());
+  }, []);
+
+  if (!items || items.length === 0) {
+    return null;
+  }
+
+  const handlePress = (item) => {
+    trackEvent('continue_exploring_click', {
+      section: 'continue_exploring',
+      item_type: item.type,
+      item_url: item.url,
+    });
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', item.url);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+
+  return (
+    <View
+      ref={sectionRef}
+      style={[styles.continueExploringSection, { backgroundColor: 'transparent' }]}
+      accessibilityRole="region"
+      accessibilityLabel="Continue Exploring"
+    >
+      <View style={styles.continueExploringHeader}>
+        <Text style={[styles.continueExploringTitle, { color: theme.text }]} accessibilityRole="header">
+          👀 Continue Exploring
+        </Text>
+        <Text style={[styles.continueExploringSubtitle, { color: theme.secondaryText }]}>
+          Pick up where you left off
+        </Text>
+      </View>
+
+      <ScrollView
+        horizontal
+        showsHorizontalScrollIndicator={false}
+        contentContainerStyle={styles.continueExploringScroll}
+      >
+        {items.map((item) => (
+          <TouchableOpacity
+            key={item.url}
+            style={[styles.continueExploringCard, { backgroundColor: theme.card, borderColor: theme.border }]}
+            onPress={() => handlePress(item)}
+            accessibilityRole="link"
+            accessibilityLabel={`Continue exploring ${item.title}`}
+          >
+            <View style={styles.continueExploringImageContainer}>
+              {item.image ? (
+                <ImageWithFallback
+                  source={{ uri: item.image }}
+                  style={styles.continueExploringImage}
+                  accessibilityLabel={item.title}
+                  width={60}
+                  height={60}
+                  imageContext="thumbnail"
+                />
+              ) : (
+                <View style={[styles.continueExploringImagePlaceholder, { backgroundColor: theme.border }]}>
+                  <Text style={styles.continueExploringImagePlaceholderText}>🥁</Text>
+                </View>
+              )}
+            </View>
+            <Text style={[styles.continueExploringName, { color: theme.text }]} numberOfLines={1}>
+              {item.title}
+            </Text>
+            {item.subtitle ? (
+              <Text style={[styles.continueExploringSubtext, { color: theme.secondaryText }]} numberOfLines={1}>
+                {item.subtitle}
+              </Text>
+            ) : null}
+          </TouchableOpacity>
+        ))}
+      </ScrollView>
     </View>
   );
 }
@@ -6683,6 +6806,17 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
     });
     return () => { mounted = false; };
   }, [drummerSlug, drummer.id]);
+
+  // Record this view for the homepage "Continue Exploring" rail (Issue #1240)
+  useEffect(() => {
+    recordRecentlyViewed({
+      type: 'drummer',
+      url: `/drummer/${drummerSlug}`,
+      title: drummer.name,
+      subtitle: drummer.band || null,
+      image: drummer.image || null,
+    });
+  }, [drummerSlug, drummer.name, drummer.band, drummer.image]);
 
   const handleEndorsementPress = (url) => {
     Linking.openURL(url);
@@ -18450,6 +18584,10 @@ function DrummerList({
         drummerCount={drummers.length}
         gearCount="500+"
       />
+      {/* Continue Exploring Rail - personalised recently-viewed items for
+          returning visitors, renders after hydration (Issue #1240). Placed
+          directly below the hero so it never displaces the <h1>/SSR content. */}
+      <ContinueExploringRail theme={theme} />
       {/* Start Here CTAs - Homepage Quick-Win User Pathways (Issue #817) */}
       <StartHereCTAs
         theme={theme}
@@ -20679,6 +20817,18 @@ function GearDetail({ gear, theme, onBack, onSelectDrummer }) {
   useEffect(() => {
     updateGearMeta(gear);
   }, [gear]);
+
+  // Record this view for the homepage "Continue Exploring" rail (Issue #1240)
+  useEffect(() => {
+    if (!gear.slug) return;
+    recordRecentlyViewed({
+      type: 'gear',
+      url: `/gear/${gear.slug}`,
+      title: gear.name,
+      subtitle: gear.brand || null,
+      image: gear.image || null,
+    });
+  }, [gear.slug, gear.name, gear.brand, gear.image]);
 
   const affiliateLinks = getAffiliateLinks(gear.name, gear.category);
 
@@ -33569,7 +33719,70 @@ const styles = StyleSheet.create({
     fontSize: 11,
     fontWeight: '600',
   },
-  
+
+  // ==========================================
+  // Continue Exploring Rail styles (Issue #1240)
+  // ==========================================
+  continueExploringSection: {
+    marginVertical: 24,
+    paddingHorizontal: 0,
+  },
+  continueExploringHeader: {
+    paddingHorizontal: 20,
+    marginBottom: 16,
+  },
+  continueExploringTitle: {
+    fontSize: 24,
+    fontWeight: '700',
+    marginBottom: 4,
+  },
+  continueExploringSubtitle: {
+    fontSize: 14,
+  },
+  continueExploringScroll: {
+    paddingHorizontal: 20,
+    gap: 12,
+  },
+  continueExploringCard: {
+    width: 130,
+    padding: 12,
+    borderRadius: 12,
+    borderWidth: 1,
+    alignItems: 'center',
+  },
+  continueExploringImageContainer: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    overflow: 'hidden',
+    marginBottom: 10,
+  },
+  continueExploringImage: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+  },
+  continueExploringImagePlaceholder: {
+    width: 60,
+    height: 60,
+    borderRadius: 30,
+    alignItems: 'center',
+    justifyContent: 'center',
+  },
+  continueExploringImagePlaceholderText: {
+    fontSize: 24,
+  },
+  continueExploringName: {
+    fontSize: 14,
+    fontWeight: '600',
+    textAlign: 'center',
+    marginBottom: 2,
+  },
+  continueExploringSubtext: {
+    fontSize: 12,
+    textAlign: 'center',
+  },
+
   // ==========================================
   // Recently Updated Gear Section styles (Issue #715)
   // ==========================================

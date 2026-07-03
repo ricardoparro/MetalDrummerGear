@@ -1833,6 +1833,124 @@ Lopez's tenure with Opeth spanned some of the band's most critically acclaimed a
     }
   },
 
+  // Martin Axenrot - Opeth
+  'martin-axenrot': {
+    slug: 'martin-axenrot',
+    drummerId: 62,
+    name: 'Martin Axenrot',
+    bands: [
+      { slug: 'opeth', period: '2006-present', role: 'Drummer' },
+      { slug: 'bloodbath', period: '2008-present', role: 'Drummer' },
+      { slug: 'witchery', period: '1997-2010', role: 'Drummer' }
+    ],
+    metaTitle: 'Martin Axenrot Drum Kit & Gear Setup — Opeth Drummer | MetalForge',
+    metaDescription: 'Complete biography of Martin Axenrot, Opeth\'s drummer since 2006 and member of death metal supergroup Bloodbath. Explore his succession of Martin Lopez, extreme metal background, drumming style, and Sonor/Meinl gear setup.',
+    ogImage: '/images/drummers/martin-axenrot.webp',
+    keywords: ['opeth', 'progressive death metal', 'sonor drums', 'martin axenrot drum kit', 'martin axenrot opeth gear', 'bloodbath', 'swedish drummer', 'watershed'],
+    relatedDrummers: ['martin-lopez', 'tomas-haake', 'mario-duplantier', 'danny-carey'],
+    summary: 'Martin Axenrot, Opeth\'s drummer since 2006 (succeeding Martin Lopez), also drums for death metal supergroup Bloodbath, known for his twin-bass-drum Sonor setup.',
+    lastUpdated: '2026-07-03',
+    imageAlt: 'Martin Axenrot performing live with Opeth behind his Sonor drum kit',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Martin Axenrot (born March 17, 1979, in Stockholm, Sweden) is a Swedish drummer best known as the drummer for progressive death metal band Opeth since 2006, when he replaced Martin Lopez mid-tour during the Ghost Reveries cycle. Axenrot brought an extreme metal pedigree to Opeth's drum chair, having spent thirteen years in Swedish death metal act Witchery (1997-2010) and black/thrash outfit Nifelheim before joining the progressive metal band that would come to define his career.
+
+Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath since 2008, performing alongside members of Opeth, Katatonia, and Paradise Lost. His dual role in a technically demanding progressive band and an unapologetically brutal death metal outfit reflects the versatility that has made him one of the most respected extreme metal drummers of his generation. Axenrot made his Opeth studio debut on Watershed (2008) and has recorded every studio album since, anchoring the band's evolution from progressive death metal into the more retro-progressive-rock-influenced territory of Heritage (2011) and beyond.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1997', event: 'Joined Swedish death metal band Witchery, beginning his professional drumming career' },
+          { year: '2006', event: 'Replaced Martin Lopez as Opeth\'s drummer mid-tour on the Ghost Reveries cycle' },
+          { year: '2008', event: 'Joined death metal supergroup Bloodbath and made his Opeth studio debut on Watershed' },
+          { year: '2010', event: 'Left Witchery after 13 years to focus fully on Opeth and Bloodbath' },
+          { year: '2011', event: 'Released Heritage with Opeth, a dramatic stylistic pivot toward 1970s progressive rock' },
+          { year: '2014', event: 'Released Pale Communion with Opeth' },
+          { year: '2016', event: 'Released Sorceress with Opeth' },
+          { year: '2019', event: 'Released In Cauda Venenum, recorded in both Swedish and English versions' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Martin Axenrot's drumming style combines the technical, dynamic vocabulary Opeth's progressive death metal demands with a heavier, more aggressive attack than his predecessor, forged across years in extreme metal bands like Witchery and Nifelheim. His playing shifts fluidly between blast beats and double-bass runs on Opeth's heaviest passages and restrained, jazz-tinged dynamics on the band's acoustic and progressive-rock-influenced material.
+
+**Key Influences:**
+- **Martin Lopez**: Established the progressive vocabulary Axenrot honors while pushing it further
+- **Extreme metal drummers**: Witchery and Nifelheim shaped his aggressive, precise attack
+- **Classic progressive rock drummers**: Informing his approach to Heritage-era material
+
+**Signature Techniques:**
+- Twin-bass-drum setup enabling extended double-bass passages
+- Fluid transitions between extreme metal intensity and progressive rock restraint
+- Dynamic control across Opeth's shifting acoustic and heavy sections`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Opeth - Watershed', year: 2008, label: 'Roadrunner', note: 'Axenrot\'s Opeth studio debut' },
+          { name: 'Opeth - Heritage', year: 2011, label: 'Roadrunner', note: 'Progressive rock pivot' },
+          { name: 'Opeth - Pale Communion', year: 2014, label: 'Nuclear Blast', note: 'Continued progressive direction' },
+          { name: 'Opeth - Sorceress', year: 2016, label: 'Nuclear Blast', note: 'Blends heavy and progressive elements' },
+          { name: 'Opeth - In Cauda Venenum', year: 2019, label: 'Nuclear Blast', note: 'Swedish and English versions' },
+          { name: 'Bloodbath - The Fathomless Mastery', year: 2008, label: 'Peaceville', note: 'Axenrot\'s debut with Bloodbath' }
+        ],
+        tours: [
+          { name: 'Opeth World Tours', year: '2006-Present', note: 'Extensive global touring since joining' },
+          { name: 'Bloodbath Festival Circuit', year: '2008-Present', note: 'Death metal festival appearances' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Martin Axenrot plays a Sonor SQ2 drum kit, the German custom-build platform he has used since joining Opeth in 2006. His setup is defined by twin 22"x18" bass drums — a departure from Martin Lopez's single-kick rig that adds low-end density and firepower for extended double-bass passages.
+
+**Current Setup:**
+- **Drums**: Sonor SQ2 Series with twin 22"x18" bass drums
+- **Snare**: Sonor SQ2 14"x5.75" Maple
+- **Cymbals**: Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, 22" Traditional Ride, 18" China)
+- **Hardware**: Tama Iron Cobra Double Pedal, Sonor Hardware
+- **Sticks**: Vic Firth American Classic 5B
+- **Heads**: Remo
+
+**Notable Gear Choices:**
+- Twin-bass-drum configuration for heavier, more aggressive attack than his predecessor
+- Meinl Byzance cymbals for dark, complex tonal range across Opeth's dynamic material
+- Setup has remained rooted in Sonor and Meinl gear throughout his Opeth tenure`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Replaced Martin Lopez mid-tour on the Ghost Reveries cycle in 2006',
+          'Also drums for death metal supergroup Bloodbath alongside members of Katatonia and Paradise Lost',
+          'Spent 13 years in Swedish death metal band Witchery before joining Opeth',
+          'Also played in black/thrash band Nifelheim earlier in his career',
+          'His twin-bass-drum Sonor setup marked a departure from Martin Lopez\'s single-kick configuration',
+          'In Cauda Venenum (2019) was recorded in both Swedish and English versions'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Martin Axenrot play?', a: 'Martin Axenrot plays a Sonor SQ2 Series drum kit with twin 22"x18" bass drums, the configuration he has used throughout his tenure as Opeth\'s drummer since 2006.' },
+          { q: 'Who is the current Opeth drummer?', a: 'Martin Axenrot is Opeth\'s drummer since 2006, when he replaced Martin Lopez mid-tour on the Ghost Reveries cycle.' },
+          { q: 'What cymbals does Martin Axenrot use?', a: 'Martin Axenrot uses Meinl Byzance Series cymbals, including 14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, a 22" Traditional Ride, and an 18" China.' },
+          { q: 'What bands has Martin Axenrot played in?', a: 'Martin Axenrot drums for Opeth (since 2006) and death metal supergroup Bloodbath (since 2008), and previously played in Witchery (1997-2010) and Nifelheim.' },
+          { q: 'When did Martin Axenrot join Opeth?', a: 'Martin Axenrot joined Opeth in 2006, replacing Martin Lopez, and made his studio debut with the band on Watershed (2008).' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Opeth Official', url: 'https://www.opeth.com' },
+          { name: 'Wikipedia: Martin Axenrot', url: 'https://en.wikipedia.org/wiki/Martin_Axenrot' },
+          { name: 'Discogs: Martin Axenrot', url: 'https://www.discogs.com/artist/475040-Martin-Axenrot' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' }
+        ]
+      }
+    }
+  },
+
   // Travis Orbin - Periphery
   'travis-orbin': {
     slug: 'travis-orbin',

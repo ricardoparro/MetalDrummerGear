@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/aquiles-priester"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-07-03"
 ---
 
 # Aquiles Priester — Drum Kit & Gear Setup
@@ -26,6 +26,14 @@ Aquiles Priester's drum kit and gear setup. Aquiles Priester is a professional m
 | Drum kit | Pearl Reference Series |
 | Signature snare | Pearl Reference 14x6.5" Brass |
 | Sticks | Vic Firth Aquiles Priester Signature |
+
+## Kit Overview
+
+Aquiles Priester plays a Pearl Reference Series drum kit — a dense, multi-ply shell pack chosen for the powerful low end and quick rebound that support his trademark blend of blistering speed and razor-sharp precision. The Aquiles Priester drum set is centered on a Pearl Reference 14x6.5" brass snare, prized for a bright, cutting crack that keeps his rapid single- and double-stroke fills audible through Angra's dense progressive power metal arrangements.
+
+Sabian HHX and AAX Series cymbals shape the sound of the Aquiles Priester drum kit: 14" HHX Evolution Hi-Hats for crisp, controlled chops at his characteristically breakneck tempos; 18" and 19" HHX X-Plosion Crashes for explosive accents; a 21" HHX Groove Ride for definition through extended double-bass sections; and an 18" AAX Chinese cymbal for sharp punctuation. A Pearl Demon Drive double pedal, mounted on Pearl's Icon Rack System, delivers the sustained, high-speed double-bass patterns that have made Priester one of the most celebrated technical drummers to emerge from Brazil's metal scene.
+
+His own signature Vic Firth Aquiles Priester sticks, paired with Evans heads, complete the Aquiles Priester drum set — a setup that has carried him through his work with Angra, W.A.S.P., and his own project, Hangar.
 
 ## Biography
 
@@ -95,4 +103,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

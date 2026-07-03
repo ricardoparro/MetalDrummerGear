@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/richard-christy"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-07-03"
 ---
 
 # Richard Christy — Drum Kit & Gear Setup
@@ -26,6 +26,14 @@ Richard Christy's drum kit and gear setup. Richard Christy is a professional met
 | Drum kit | Tama Starclassic Maple |
 | Signature snare | Tama Starclassic 14x6.5" Maple |
 | Sticks | Vic Firth American Classic 5A |
+
+## Kit Overview
+
+Richard Christy plays a Tama Starclassic Maple drum kit — the all-maple shell pack he used to record Death's technical, genre-defining swan song "The Sound of Perseverance" alongside Chuck Schuldiner. At the heart of the Richard Christy drum set is a Tama Starclassic 14x6.5" maple snare, warm enough to sit underneath Death's intricate, progressive arrangements while still delivering the crack needed for his rapid-fire blast beats and complex time-signature work.
+
+Sabian AAX and HHX Series cymbals define the voice of the Richard Christy drum kit: 14" AAX Stage Hi-Hats for tight control through odd-meter passages; 18" and 19" AAX X-Plosion Crashes for sharp, fast-decaying accents; a 21" HHX Raw Bell Dry Ride for dark, articulate timekeeping; and an 18" AAX Chinese cymbal for abrupt punctuation on technical fills. A Tama Iron Cobra 900 double pedal gives Christy the speed and precision behind his double-bass patterns, a technique he carried from Death into Iced Earth and his own progressive death metal band, Charred Walls of the Damned.
+
+Vic Firth American Classic 5A sticks and Evans drumheads round out the Richard Christy drum set — a comparatively lightweight, classic-diameter stick choice that favors the finesse and articulation his technical style demands. Christy's Tama and Sabian setup has remained the backbone of his studio and live sound since his earliest recordings with Chuck Schuldiner.
 
 ## Biography
 
@@ -96,4 +104,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

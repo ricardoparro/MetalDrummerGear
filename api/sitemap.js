@@ -49,6 +49,11 @@ import { DRUMMERS_BY_KIT } from '../packages/frontend/data/drummersByKit.js';
 // Issue #2726: source top-10 list slugs from canonical data module so sitemap
 // stays in sync when new list pages ship.
 import { TOP_10_LISTS } from '../packages/frontend/data/top10Lists.js';
+// Issue #3661: source gear-price-history + sound-like-guide slugs from their
+// canonical data modules (same pattern as TOP_10_LISTS above) so the sitemap
+// stays in sync automatically instead of drifting from hand-maintained lists.
+import { GEAR_PRICE_HISTORY } from '../packages/frontend/data/gearPriceHistory.js';
+import { SOUND_LIKE_GUIDES } from '../packages/frontend/data/soundLikeGuides.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -180,95 +185,9 @@ function generateAllDrummerComparisons(drummerList) {
 }
 const drummerComparisons = generateAllDrummerComparisons(drummers);
 
-// Issue #685: "How to Sound Like" guides - SEO content hub
-const soundLikeGuides = [
-  { slug: 'how-to-sound-like-joey-jordison', name: 'How to Sound Like Joey Jordison' },
-  { slug: 'how-to-sound-like-danny-carey', name: 'How to Sound Like Danny Carey' },
-  { slug: 'how-to-sound-like-lars-ulrich', name: 'How to Sound Like Lars Ulrich' },
-  { slug: 'how-to-sound-like-dave-lombardo', name: 'How to Sound Like Dave Lombardo' },
-  { slug: 'how-to-sound-like-mario-duplantier', name: 'How to Sound Like Mario Duplantier' },
-  { slug: 'how-to-sound-like-tomas-haake', name: 'How to Sound Like Tomas Haake' },
-  { slug: 'how-to-sound-like-gene-hoglan', name: 'How to Sound Like Gene Hoglan' },
-  { slug: 'how-to-sound-like-brann-dailor', name: 'How to Sound Like Brann Dailor' },
-  { slug: 'how-to-sound-like-matt-halpern', name: 'How to Sound Like Matt Halpern' },
-  { slug: 'how-to-sound-like-chris-adler', name: 'How to Sound Like Chris Adler' },
-  // Issue #1803: SEO batch — 4 new sound-like guides
-  { slug: 'how-to-sound-like-matt-greiner', name: 'How to Sound Like Matt Greiner' },
-  { slug: 'how-to-sound-like-george-kollias', name: 'How to Sound Like George Kollias' },
-  { slug: 'how-to-sound-like-travis-orbin', name: 'How to Sound Like Travis Orbin' },
-  { slug: 'how-to-sound-like-flo-mounier', name: 'How to Sound Like Flo Mounier' },
-  // Issue #1932: SEO batch — Jay Weinberg, Mike Mangini, Gavin Harrison
-  { slug: 'how-to-sound-like-jay-weinberg', name: 'How to Sound Like Jay Weinberg' },
-  { slug: 'how-to-sound-like-mike-mangini', name: 'How to Sound Like Mike Mangini' },
-  { slug: 'how-to-sound-like-gavin-harrison', name: 'How to Sound Like Gavin Harrison' },
-  // Issue #2015: SEO batch — Nick Menza, Nicko McBrain, Igor Cavalera
-  { slug: 'how-to-sound-like-nick-menza', name: 'How to Sound Like Nick Menza' },
-  { slug: 'how-to-sound-like-nicko-mcbrain', name: 'How to Sound Like Nicko McBrain' },
-  { slug: 'how-to-sound-like-igor-cavalera', name: 'How to Sound Like Igor Cavalera' },
-  // Issue #2271: SEO batch — Matt Garstka, Mikkey Dee, Sean Reinert
-  { slug: 'how-to-sound-like-matt-garstka', name: 'How to Sound Like Matt Garstka' },
-  { slug: 'how-to-sound-like-mikkey-dee', name: 'How to Sound Like Mikkey Dee' },
-  { slug: 'how-to-sound-like-sean-reinert', name: 'How to Sound Like Sean Reinert' },
-  // Issue #2432: SEO batch 17 — Mike Portnoy, Shannon Larkin, Scott Travis
-  { slug: 'how-to-sound-like-mike-portnoy', name: 'How to Sound Like Mike Portnoy' },
-  { slug: 'how-to-sound-like-shannon-larkin', name: 'How to Sound Like Shannon Larkin' },
-  { slug: 'how-to-sound-like-scott-travis', name: 'How to Sound Like Scott Travis' },
-  // Issue #2409: SEO batch 18 — Aquiles Priester, Eloy Casagrande, Charlie Benante
-  { slug: 'how-to-sound-like-aquiles-priester', name: 'How to Sound Like Aquiles Priester' },
-  { slug: 'how-to-sound-like-eloy-casagrande', name: 'How to Sound Like Eloy Casagrande' },
-  { slug: 'how-to-sound-like-charlie-benante', name: 'How to Sound Like Charlie Benante' },
-  // Issue #2727: SEO batch 19 — Daniel Erlandsson, Paul Bostaph, Hannes Grossmann
-  { slug: 'how-to-sound-like-daniel-erlandsson', name: 'How to Sound Like Daniel Erlandsson' },
-  { slug: 'how-to-sound-like-paul-bostaph', name: 'How to Sound Like Paul Bostaph' },
-  { slug: 'how-to-sound-like-hannes-grossmann', name: 'How to Sound Like Hannes Grossmann' },
-  // Issue #2815: SEO batch 26 — Inferno, Pete Sandoval, Jaska Raatikainen
-  { slug: 'how-to-sound-like-inferno', name: 'How to Sound Like Inferno' },
-  { slug: 'how-to-sound-like-pete-sandoval', name: 'How to Sound Like Pete Sandoval' },
-  { slug: 'how-to-sound-like-jaska-raatikainen', name: 'How to Sound Like Jaska Raatikainen' },
-  // Issues #2226 & #2099: Hellhammer, Paul Mazurkiewicz, Richard Christy
-  { slug: 'how-to-sound-like-hellhammer', name: 'How to Sound Like Hellhammer' },
-  { slug: 'how-to-sound-like-paul-mazurkiewicz', name: 'How to Sound Like Paul Mazurkiewicz' },
-  { slug: 'how-to-sound-like-richard-christy', name: 'How to Sound Like Richard Christy' },
-  // Issue #2950: SEO batch 33 — Ben Koller, Vinnie Paul, Blake Richardson
-  { slug: 'how-to-sound-like-ben-koller', name: 'How to Sound Like Ben Koller' },
-  { slug: 'how-to-sound-like-vinnie-paul', name: 'How to Sound Like Vinnie Paul' },
-  { slug: 'how-to-sound-like-blake-richardson', name: 'How to Sound Like Blake Richardson' },
-  // Issue #2884: SEO batch — Jocke Wallgren, Chris Turner (re-scoped from batch 29)
-  { slug: 'how-to-sound-like-jocke-wallgren', name: 'How to Sound Like Jocke Wallgren' },
-  { slug: 'how-to-sound-like-chris-turner', name: 'How to Sound Like Chris Turner' },
-  // Issue #2891: SEO batch 30 — Frost, Morgan Ågren, Tim Yeung
-  { slug: 'how-to-sound-like-frost', name: 'How to Sound Like Frost' },
-  { slug: 'how-to-sound-like-morgan-agren', name: 'How to Sound Like Morgan Ågren' },
-  { slug: 'how-to-sound-like-tim-yeung', name: 'How to Sound Like Tim Yeung' },
-  // Issue #2848: SEO batch 27 — Bill Ward, Martin Lopez, Derek Roddy
-  { slug: 'how-to-sound-like-bill-ward', name: 'How to Sound Like Bill Ward' },
-  { slug: 'how-to-sound-like-martin-lopez', name: 'How to Sound Like Martin Lopez' },
-  { slug: 'how-to-sound-like-derek-roddy', name: 'How to Sound Like Derek Roddy' },
-  // Issue #2859: SEO batch 28 — John Otto, Dirk Verbeuren, Art Cruz
-  { slug: 'how-to-sound-like-john-otto', name: 'How to Sound Like John Otto' },
-  { slug: 'how-to-sound-like-dirk-verbeuren', name: 'How to Sound Like Dirk Verbeuren' },
-  { slug: 'how-to-sound-like-art-cruz', name: 'How to Sound Like Art Cruz' },
-  // Issue #2770: SEO batch 23 — Alex Bent, Nick Augusto (Ben Koller already added in batch 33)
-  { slug: 'how-to-sound-like-alex-bent', name: 'How to Sound Like Alex Bent' },
-  { slug: 'how-to-sound-like-nick-augusto', name: 'How to Sound Like Nick Augusto' },
-  // Issue #2388: SoundLike guide — Jon Dette (re-scoped from batch 15)
-  { slug: 'how-to-sound-like-jon-dette', name: 'How to Sound Like Jon Dette' },
-  // Issue #2675: SEO batch 21 (re-scoped) — Raymond Herrera, Navene Koperweis
-  { slug: 'how-to-sound-like-raymond-herrera', name: 'How to Sound Like Raymond Herrera' },
-  { slug: 'how-to-sound-like-navene-koperweis', name: 'How to Sound Like Navene Koperweis' },
-  // Issue #2443: SoundLike guide — Daray (re-scoped from batch 18)
-  { slug: 'how-to-sound-like-daray', name: 'How to Sound Like Daray' },
-  // Issue #2778: SEO batch 24 — Jason Bittner (Paul Mazurkiewicz, Richard Christy already added)
-  { slug: 'how-to-sound-like-jason-bittner', name: 'How to Sound Like Jason Bittner' },
-  // Issue #2656: SEO batch — Ray Luzier (re-scoped from batch 20)
-  { slug: 'how-to-sound-like-ray-luzier', name: 'How to Sound Like Ray Luzier' },
-  // Issue #2513: SoundLike guide — Abe Cunningham (re-scoped from batch 19)
-  { slug: 'how-to-sound-like-abe-cunningham', name: 'How to Sound Like Abe Cunningham' },
-  // Issue #3612: SoundLike guides — Van Poederooyen, Talley, Lamb
-  { slug: 'how-to-sound-like-ryan-van-poederooyen', name: 'How to Sound Like Ryan Van Poederooyen' },
-  { slug: 'how-to-sound-like-kevin-talley', name: 'How to Sound Like Kevin Talley' },
-  { slug: 'how-to-sound-like-isaac-lamb', name: 'How to Sound Like Isaac Lamb' },
-];
+// Issue #3661: derive from SOUND_LIKE_GUIDES data module so the sitemap stays
+// in sync automatically when new guides ship.
+const soundLikeGuides = Object.values(SOUND_LIKE_GUIDES).map(g => ({ slug: g.slug, name: g.title || g.name }));
 
 // Issue #702: Beginner gear guides - SEO content hub
 const beginnerGuides = [
@@ -345,68 +264,9 @@ const endorsementDrummers = [
   'matt-halpern', 'inferno', 'charlie-benante',
 ];
 
-// Issue #813: Gear Price History Tracker pages
-// Inflation-adjusted setup costs over time
-// Issue #1808: Phase 2 — Mike Portnoy, Gene Hoglan, Danny Carey
-// Issue #1818: Phase 3 — Tomas Haake, Pete Sandoval, Vinnie Paul
-// Issue #2100: Phase 4 — Igor Cavalera, Nicko McBrain, Matt Greiner
-const gearPriceHistoryDrummers = [
-  'lars-ulrich',     // Kill 'Em All era (1983)
-  'joey-jordison',   // Iowa era (2001)
-  'dave-lombardo',   // Reign in Blood era (1986)
-  'mike-portnoy',    // Images and Words era (1992)
-  'gene-hoglan',     // Individual Thought Patterns era (1993)
-  'danny-carey',     // Undertow/Aenima era (1994)
-  'tomas-haake',     // Chaosphere era (1998)
-  'pete-sandoval',   // Altars of Madness era (1989)
-  'vinnie-paul',     // Cowboys from Hell era (1990)
-  'igor-cavalera',   // Roots era (1996)
-  'nicko-mcbrain',   // Powerslave era (1984)
-  'matt-greiner',    // Leveler era (2011)
-  'charlie-benante', // Among the Living era (1987) — Issue #2238
-  'nick-menza',      // Rust in Peace era (1990) — Issue #2238
-  'inferno',         // Demigod era (2004) — Issue #2238
-  'chris-adler',     // Ashes of the Wake era (2004) — Issue #3077
-  'daniel-erlandsson', // Wages of Sin era (2001) — Issue #3077
-  'ray-luzier',      // Korn III era (2010) — Issue #3077
-  'paul-mazurkiewicz', // Tomb of the Mutilated era (1992) — Issue #3097
-  'flo-mounier',     // None So Vile era (1996) — Issue #3097
-  'eloy-casagrande', // Machine Messiah era (2017) — Issue #3097
-  'alex-bent',       // The Sin and the Sentence era (2017) — Issue #3187
-  'matt-garstka',    // The Joy of Motion era (2014) — Issue #3187
-  'matt-halpern',    // Select Difficulty era (2016) — Issue #3187
-  'bill-ward',       // Black Sabbath debut era (1970) — Issue #3252
-  'shannon-larkin',  // Faceless era (2002) — Issue #3252
-  'john-otto',       // Significant Other era (1999) — Issue #2918
-  'dirk-verbeuren',  // Dystopia era (2016) — Issue #2918
-  'martin-axenrot',  // Watershed era (2008) — Issue #2918
-  'mario-duplantier', // Terra Incognita era (2001) — Issue #2974
-  'hellhammer',      // De Mysteriis Dom Sathanas era (1994) — Issue #2974
-  'ben-koller',      // Jane Doe era (2001) — Issue #2974
-  'gavin-harrison',  // Fear of a Blank Planet era (2007) — Issue #2912
-  'mike-mangini',    // A Dramatic Turn of Events era (2011) — Issue #2912
-  'jason-bittner',   // The War Within era (2004) — Issue #2912
-  'raymond-herrera', // Demanufacture era (1995) — Issue #2445
-  'kevin-talley',    // Destroy the Opposition era (2000) — Issue #2445
-  'tim-yeung',       // I, Monarch era (2005) — Issue #2445
-  'jay-weinberg',    // .5: The Gray Chapter era (2014) — Issue #2801
-  'abe-cunningham',  // White Pony era (2000) — Issue #2801
-  'george-kollias',      // Annihilation of the Wicked era (2005) — Issue #2549
-  'jaska-raatikainen',   // Follow the Reaper era (2000) — Issue #2549
-  'blake-richardson',    // Colors era (2007) — Issue #3213
-  'art-cruz',            // Lamb of God era (2020) — Issue #3213
-  'derek-roddy',         // Hate Eternal / I, Monarch era (2005) — Issue #3213
-  'brann-dailor',        // Crack the Skye era (2009) — Issue #2832
-  'frost',               // Now, Diabolical era (2006) — Issue #3638
-  'mikkey-dee',          // Bastards era (1993) — Issue #3638
-  'richard-christy',     // The Sound of Perseverance era (1998) — Issue #3638
-  'nick-augusto',        // In Waves era (2011) — Issue #3647
-  'aquiles-priester',    // Rebirth era (2001) — Issue #3647
-  'martin-lopez',        // My Arms, Your Hearse era (1998) — Issue #3647
-  'navene-koperweis',    // Weightless era (2012) — Issue #3652
-  'travis-orbin',        // Godless Prophets & the Migrant Flora era (2017) — Issue #3652
-  'hannes-grossmann',    // Cosmogenesis era (2009) — Issue #3652
-];
+// Issue #3661: derive from GEAR_PRICE_HISTORY data module so the sitemap
+// stays in sync automatically when new gear-history pages ship.
+const gearPriceHistoryDrummers = Object.keys(GEAR_PRICE_HISTORY);
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS
 // so the sitemap stays in sync as matchups are added or changed.

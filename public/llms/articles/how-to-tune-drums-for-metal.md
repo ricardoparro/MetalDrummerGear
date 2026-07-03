@@ -24,8 +24,22 @@ These three drummers prove that metal drum tuning is not one-size-fits-all. It d
 - Vinnie Paul's Pantera groove metal tone used very low snare tuning with heavy muffling for the "fat crack" sound
 - Joey Jordison achieved his signature snare sound through high-tension Evans heads and minimal muffling
 
+## Frequently Asked Questions
+
+**Q: Should I use drum dampening for metal?**
+
+A: Yes, strategic dampening is essential for metal. Too much ring on snare and toms creates a washy, undefined sound that gets buried in dense guitar layers. Use muffled bass drum heads (Evans EMAD, Remo Powerstroke 3), optional moon gel on toms if they ring excessively, and a dry or coated head on the snare for controlled sustain. Vinnie Paul used internal bass drum pillows and heavily muffled heads — compare his sound on Pantera recordings to the more open tom sound on Dave Lombardo's Slayer recordings to hear how much muffling affects the final tone.
+
+**Q: How do I get the click in my bass drum for metal?**
+
+A: The bass drum "click" or "beater attack" comes from the beater striking the head at the right point and the head having appropriate tension. Use a hard plastic or wood beater (rather than felt) for maximum click definition. The batter head should be at medium-high tension — too loose produces a thud, too tight loses the fundamental tone. Evans EMAD and Aquarian Super-Kick heads have impact patches that enhance beater click while controlling ring. Joey Jordison's bass drum click is enhanced by the Pearl Eliminator beater's multi-surface beater head design.
+
+**Q: What is the best drum head for metal tuning?**
+
+A: For bass drum: Evans EMAD, Remo Powerstroke 3, or Aquarian Super-Kick are the industry standards. For snare batter: Remo Ambassador Coated (medium sustain), Evans Genera Dry (controlled sustain), or Aquarian Hi-Energy (maximum durability and dryness). For toms: Remo Ambassador Coated or Evans EC2 Coated for a warm, punchy sound. Vinnie Paul used DW Performance heads on his snare for the specific fat-crack sound he wanted on Pantera recordings.
+
 **Source:** https://metalforge.io/articles/how-to-tune-drums-for-metal
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

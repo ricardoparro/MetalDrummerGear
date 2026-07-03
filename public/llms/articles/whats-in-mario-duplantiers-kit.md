@@ -79,8 +79,22 @@ Dual Chinas — K Custom and Oriental — give Mario options for trashy accents 
 - Estimated kit value: $8,000-12,000 (Starclassic Bubinga configuration)
 - Estimated snare value: $500-650 (S.L.P. G-Maple)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Mario Duplantier use?**
+
+A: Mario Duplantier plays a Tama Starclassic Bubinga kit with bubinga and birch hybrid shells. His current setup includes dual 22x18 inch bass drums, rack toms at 10, 12, and 13 inches, and floor toms at 16 and 18 inches. The Starclassic Bubinga is known for its dense low end and warm attack, qualities that complement Duplantier's groove-focused and environmentally themed approach to drumming with Gojira.
+
+**Q: What cymbals does Mario Duplantier use?**
+
+A: Mario Duplantier uses Zildjian K Custom and A Custom series cymbals. His setup includes Zildjian K 14 inch Sweet Hi-Hats, various Zildjian crashes from 17 to 20 inches, a Zildjian Z Custom 21 inch Mega Bell Ride, a K Custom 18 inch China, and a Zildjian Oriental 20 inch China Trash. The combination of dark K Custom tones and the aggressive Mega Bell Ride delivers the full dynamic range his intricate Gojira compositions demand.
+
+**Q: How much does Mario Duplantier's drum kit cost?**
+
+A: A Tama Starclassic Bubinga kit matching Duplantier's configuration currently runs between $8,000 and $12,000. His Tama S.L.P. G-Maple snare adds approximately $500 to $650. A comparable Zildjian K Custom and Z Custom cymbal setup similar to his will add roughly $2,500 to $4,000. Total estimated cost to replicate his full setup is approximately $11,000 to $17,000.
+
 **Source:** https://metalforge.io/articles/whats-in-mario-duplantiers-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

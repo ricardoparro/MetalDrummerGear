@@ -72,8 +72,34 @@ For drummers studying this album's cymbal approach, the key observation is restr
 - Estimated kit value: $3,500–5,500 (Tama Starclassic Maple shell pack)
 - Estimated snare value: $400–800 (Tama Starphonic or Artstar snare)
 
+## Frequently Asked Questions
+
+**Q: What drums does Brann Dailor use on Emperor of Sand?**
+
+A: Brann Dailor recorded Mastodon's Emperor of Sand (2017) using a Tama Starclassic Maple drum kit. The configuration featured a single 22 inch bass drum — a significant shift from the double kick setup used on Crack the Skye (2009) — with three rack toms at 10, 12, and 13 inches, and a 16 inch floor tom. The Tama Starclassic Maple's 100% maple shells produce the warm, resonant tone that gives Dailor's melodic tom patterns their musical character. The single-kick configuration reflects a deliberate compositional choice: single bass drum forces more creative foot patterns and places the rhythmic emphasis on groove and feel rather than velocity.
+
+**Q: What kit did Brann Dailor use in 2017?**
+
+A: In 2017, Brann Dailor used a Tama Starclassic Maple kit as his primary setup, both for the Emperor of Sand studio sessions and the subsequent world tour. The setup included a single 22 inch bass drum driven by a Tama Iron Cobra single pedal, three rack toms (10, 12, and 13 inch), and a 16 inch floor tom. His cymbal setup was Meinl Byzance across multiple series including Traditional, Foundry Reserve, and Brilliant. He played Meinl sticks following his endorsement relationship with the brand. Evans UV1 Coated heads were his preference for batter surfaces.
+
+**Q: What cymbals does Brann Dailor use on Emperor of Sand?**
+
+A: On Emperor of Sand (2017), Brann Dailor used Meinl Byzance cymbals across multiple series. His setup included 14 inch Traditional hi-hats, an 18 inch Foundry Reserve crash, a 20 inch Traditional Medium crash, a 22 inch Traditional ride, an 18 inch China, and a 10 inch Brilliant splash. The Meinl Byzance series uses hand-hammered B20 bronze with Turkish craftsmanship that produces dark, warm, complex tones — suited to Emperor of Sand's atmospheric and emotionally resonant character.
+
+**Q: Did Mastodon win a Grammy for Emperor of Sand?**
+
+A: Yes. Mastodon won the Grammy Award for Best Metal Performance at the 60th Grammy Awards (2018) for 'Sultan's Curse' from Emperor of Sand. This was Mastodon's first Grammy win — previous albums including Crack the Skye (2009) had received Grammy nominations without winning. The Grammy confirmed what critics had already recognised: Emperor of Sand represents a peak moment in the band's artistic evolution, with Brann Dailor's drumming and vocal contributions central to the album's emotional impact.
+
+**Q: How does Emperor of Sand differ from earlier Mastodon albums in terms of drumming?**
+
+A: Emperor of Sand (2017) marks a significant shift in Brann Dailor's drumming approach compared to earlier Mastodon albums. The most fundamental change is the return to single bass drum — Crack the Skye (2009) featured extensive double-kick playing, while Emperor of Sand commits to a single Iron Cobra pedal throughout. This forced greater creativity in foot patterns and shifted the emphasis to groove and feel over velocity. The playing is also notably more restrained and song-serving — fewer technical showpieces, more deliberate emotional storytelling. Dailor also takes on more extensive vocal duties, singing harmonies and lead parts while drumming at a high technical level. The album represents the mature expression of his drummer as melodist philosophy applied to emotionally resonant, accessible heavy music.
+
+**Q: What pedal does Brann Dailor use on Emperor of Sand?**
+
+A: On Emperor of Sand (2017), Brann Dailor used a Tama Iron Cobra single bass drum pedal. This represents a shift from the DW 9000 double pedal he used on Crack the Skye — the Iron Cobra single pedal matches the Tama Starclassic kit and reflects the deliberate decision to anchor the album on single kick. The Iron Cobra's chain drive mechanism and linear cam provide smooth, consistent action suited to the groove-forward playing style Dailor adopted for this album.
+
 **Source:** https://metalforge.io/articles/emperor-of-sand-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

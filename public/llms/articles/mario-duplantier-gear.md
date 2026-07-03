@@ -72,8 +72,30 @@ The 18" China provides the aggressive, trashy accent that punctuates Gojira's he
 - Estimated kit value: $10,000–18,000 (Sonor SQ2 custom configuration)
 - Estimated snare value: $600–1,200 (Sonor SQ2 custom snare)
 
+## Frequently Asked Questions
+
+**Q: What drums does Mario Duplantier use?**
+
+A: Mario Duplantier currently plays Sonor drums — specifically the SQ2 custom series — for both touring and recording with Gojira. His current configuration features dual 22" x 18" bass drums (played independently, not as a double pedal), three rack toms (10", 12", 13"), and two floor toms (16" and 18"). Earlier in his career he was associated with Tama Starclassic Bubinga drums, the setup used on landmark Gojira albums including The Way of All Flesh, L'Enfant Sauvage, and Magma.
+
+**Q: What cymbals does Mario Duplantier use?**
+
+A: Mario Duplantier currently endorses and plays Meinl cymbals, using the Byzance series for its dark, complex tonal character. His setup includes 14" Byzance Traditional Hi-Hats, a range of Byzance crashes (17", 18", 19"), a 21" Byzance Vintage Ride, an 18" Byzance China, and splash cymbals. Previously, Mario was closely associated with the Zildjian K Custom and A Custom series, which defined his cymbal sound on Gojira's classic albums from From Mars to Sirius through Fortitude.
+
+**Q: How is Gojira's drum sound achieved?**
+
+A: Gojira's drum sound is a product of both Mario Duplantier's gear choices and the band's self-produced recording approach. Mario uses Sonor drums with Ahead drumheads and Meinl Byzance cymbals; the kit is recorded by Joe Duplantier at their Silver Chord Studio in New York using close-miked shells, minimal processing, and a mix philosophy that places drums physically at the center of the arrangement. The Sonor shells' projection and the Byzance cymbals' dark complexity complement Joe's guitar tone. Equally important is Mario's playing approach: independent dual bass drums, tribal tom patterns, and dynamic control across the full spectrum from near-silence to full-kit assault.
+
+**Q: What drumheads does Mario Duplantier use?**
+
+A: Mario Duplantier currently uses Ahead drumheads on his Sonor kit. Ahead drumheads are selected for their attack response and consistency under heavy playing conditions — qualities essential for the long headline sets Gojira plays at major festivals. In his earlier Tama period, Mario used Remo Emperor and Ambassador heads on the batter and resonant sides respectively.
+
+**Q: What sticks does Mario Duplantier play?**
+
+A: Mario Duplantier plays his own signature model with Tama sticks. The Mario Duplantier Signature Sticks are custom-designed for the balance of mass and control required by Gojira's demanding live show — heavier than a standard 5A for powerful accents, with a taper and tip suited to the ghost note articulation Mario uses in atmospheric passages.
+
 **Source:** https://metalforge.io/articles/mario-duplantier-gear
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

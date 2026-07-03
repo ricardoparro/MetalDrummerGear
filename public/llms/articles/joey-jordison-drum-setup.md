@@ -76,8 +76,30 @@ The AAX X-Treme China was the exclamation mark of Jordison's setup: raw, aggress
 - Estimated kit value: $5,000–9,000 (Masterworks shell pack)
 - Estimated snare value: $400–700 (Pearl Free-Floating, various models)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Joey Jordison use with Slipknot?**
+
+A: Joey Jordison played Pearl drums throughout his career with Slipknot. His signature setup was the Pearl Masterworks Custom series in black with orange hardware — Slipknot's iconic colors. The kit featured six toms (8", 10", 12", 13" rack toms, 16" and 18" floor toms) and double 22" x 18" bass drums. In later years he transitioned to the Pearl Reference series, maintaining the same maple/mahogany shell character with updated hardware. His full drummer profile is available at [Joey Jordison's MetalForge page](/drummer/joey-jordison).
+
+**Q: What cymbals did Joey Jordison play?**
+
+A: Joey Jordison was a Sabian endorsee and built his setup around the Sabian AAX and HH series. His primary setup included Sabian AAX 14" Stage Hi-Hats, 16" and 18" AAX Stage Crashes, a Sabian HH 20" Raw Bell Dry Ride, and a Sabian AAX 18" X-Treme China. The AAX series' bright, aggressive, fast-responding character was essential for cutting through Slipknot's dense multi-guitar and percussion mix — both on albums like Iowa and Vol. 3, and in the massive live arenas Slipknot headlined.
+
+**Q: What double bass pedals did Joey Jordison use?**
+
+A: During the Iowa and Vol. 3 era, Joey Jordison played DW 9000 series double bass drum pedals — widely regarded as one of the finest chain-drive double pedals ever made. The DW 9000's adjustable cam, dual-chain drive, and precision construction supported Jordison's extreme double-kick tempos. In later years he transitioned to Pearl Eliminator Redline pedals, which offered a cam-drive system with interchangeable cam shapes for customizing the acceleration curve to match his technique.
+
+**Q: What drumsticks did Joey Jordison use?**
+
+A: Joey Jordison played Vic Firth Joey Jordison Signature drumsticks, a model developed with Vic Firth to match his specific extreme-metal playing demands. The sticks featured a custom taper optimized for blast beats and rapid single-stroke patterns, with a tip shape providing clear cymbal articulation at high velocities. Before his signature model was released, Jordison used Vic Firth 5B American Classic sticks.
+
+**Q: What snare drum did Joey Jordison play?**
+
+A: Joey Jordison favored Pearl Free-Floating snare drums throughout his Slipknot career. The Free-Floating design decouples the shell from the snare wire hardware, allowing the shell to resonate freely and producing the open, explosive crack heard on records like Iowa and Vol. 3: The Subliminal Verses. He typically used a 14" diameter model with steel or brass shell construction for maximum cut and projection through Slipknot's dense production.
+
 **Source:** https://metalforge.io/articles/joey-jordison-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

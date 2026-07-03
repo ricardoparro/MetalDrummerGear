@@ -79,8 +79,22 @@ Throughout the setup, various LP bells and percussion elements added tonal color
 - Estimated kit value: $5,000-7,000 (2001) / $8,000-12,000 (vintage Sonor Designer today)
 - Estimated snare value: $600-900 (signature model)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Danny Carey use on Lateralus?**
+
+A: Danny Carey recorded Lateralus in 2001 using a Sonor Designer Series kit, an early prototype precursor to the later SQ2 line, with maple shells and reinforcement rings. The configuration included a 24x18 inch bass drum, rack toms at 8, 10, 12, and 13 inches, and floor toms at 14, 16, and 18 inches. The maple construction gave the kit the warm, open resonance heard throughout the album.
+
+**Q: What cymbals did Danny Carey use on Lateralus?**
+
+A: Danny Carey used Paiste Signature and Traditional series cymbals on Lateralus. His setup included Paiste Signature 15 inch Heavy Hi-Hats, Signature crashes from 17 to 20 inches, a Paiste Traditional 22 inch Light Ride, a Signature 18 inch Thin China, and a Signature 10 inch Splash. The combination of the darker Traditional ride with the more focused Signature pieces gave his sound a layered, dynamic quality across the record.
+
+**Q: How much does Danny Carey's Lateralus drum kit cost?**
+
+A: At the time of the 2001 recording, the Sonor Designer Series kit was valued at approximately $5,000 to $7,000. Today, comparable vintage Sonor Designer kits sell on the used market for $1,500 to $4,000. The prototype bronze snare Carey used is not commercially available, but a production Sonor Danny Carey Signature Bronze Snare runs $1,800 to $2,000. A matching Paiste cymbal setup adds another $2,000 to $4,000.
+
 **Source:** https://metalforge.io/articles/lateralus-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

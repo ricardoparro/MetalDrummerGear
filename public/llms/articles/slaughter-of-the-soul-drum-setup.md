@@ -67,8 +67,26 @@ The China cymbal is a consistent presence throughout the album, providing the ag
 - Estimated kit value: $600-1,200 (Pearl Export era, 1994)
 - Estimated snare value: $200-400 (studio snare, 1994)
 
+## Frequently Asked Questions
+
+**Q: Who played drums on At the Gates' Slaughter of the Soul?**
+
+A: Adrian Erlandsson is the drummer on Slaughter of the Soul (1995) and all At the Gates recordings. He is often confused with his brother Daniel Erlandsson — both are prominent Swedish melodic death metal drummers from the same Gothenburg scene, but they play for different bands. Daniel Erlandsson is the drummer for Arch Enemy (which he co-founded in 1995) and has never been a member of At the Gates. Adrian was At the Gates' drummer from the band's 1990 formation through their 1996 disbanding and across all subsequent reunion periods, including the At War With Reality album (2014) and ongoing activity. For Daniel's gear profile: [Daniel Erlandsson drum setup](/articles/daniel-erlandsson-drum-setup).
+
+**Q: What drum kit does Daniel Erlandsson use?**
+
+A: Daniel Erlandsson — drummer for Arch Enemy and brother of At the Gates drummer Adrian Erlandsson — plays a Pearl Reference Pure kit in custom black finish, paired with his co-designed Pearl Signature snare (14" x 5.5"), Sabian AAX and HHX cymbals, and Pearl Eliminator double bass pedal. Daniel was not the drummer on Slaughter of the Soul; that was his brother Adrian. The two brothers developed parallel melodic death metal drumming careers simultaneously in the Gothenburg scene of the early 1990s. For Daniel's full gear breakdown: [Daniel Erlandsson drum setup at MetalForge](/articles/daniel-erlandsson-drum-setup). For his drummer profile: [Daniel Erlandsson at MetalForge](/drummer/daniel-erlandsson).
+
+**Q: What is the At the Gates drummer gear on Slaughter of the Soul?**
+
+A: Adrian Erlandsson recorded Slaughter of the Soul (1995) at Studio Fredman in Gothenburg with producer Fredrik Nordström. The specific kit is consistent with a Pearl Export or studio house kit of the era — birch or birch-poplar composite shells producing the dry, punchy sound that Nordström's close-mic recording approach captured. Cymbals were likely Zildjian A-Series based on what was commonly available in Swedish death metal studios of the period. The album's drum sound — tight, gated, and direct — is as much a product of Nordström's production approach as the specific gear: single SM57 on the snare, close-miked toms, no room mics, aggressive gating. This production template became the sonic reference for Gothenburg melodic death metal throughout the following decade.
+
+**Q: How was Slaughter of the Soul recorded at Studio Fredman?**
+
+A: Slaughter of the Soul was recorded at Studio Fredman in Gothenburg, Sweden in 1994 and produced by Fredrik Nordström. Nordström's recording approach was direct and dry — close-miking all drums without room mics, using aggressive gating to eliminate bleed and ambience, and applying minimal processing to keep the drum sound honest and aggressive. The snare was captured with a single Shure SM57, producing the dry crack that became one of the album's sonic signatures. At the Gates' budget constraints reinforced this minimal approach: efficiency was necessary, and the directness that resulted became a creative asset. Studio Fredman subsequently applied the same approach for In Flames, Dark Tranquillity, and Hammerfall, cementing the Fredman drum sound as the defining production aesthetic of Gothenburg melodic death metal throughout the 1990s.
+
 **Source:** https://metalforge.io/articles/slaughter-of-the-soul-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -79,8 +79,22 @@ The 18" AA Chinese added the aggressive, trashy accents that punctuate the album
 - Estimated kit value: $2,000-3,000 (1996 prices)
 - Estimated snare value: $200-300 (1996)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Flo Mounier use on None So Vile?**
+
+A: On Cryptopsy's None So Vile recorded in 1996, Flo Mounier played a Pearl MX Series kit with maple shells and ISS tom mounting. The configuration included a single 22x18 inch bass drum, rack toms in 10 and 12 inches, and floor toms in 14 and 16 inches. The MX Series was Pearl's professional-level offering at the time, providing the shell resonance and durability needed for Mounier's extraordinarily fast and precise death metal drumming.
+
+**Q: What cymbals did Flo Mounier use on None So Vile?**
+
+A: On None So Vile in 1996, Flo Mounier used the Sabian AA series throughout his setup. His configuration included Sabian 14 inch AA Regular hi-hats, a 16 inch AA Crash, an 18 inch AA Crash, a 20 inch AA Metal Ride for cutting projection, and an 18 inch AA Chinese. The AA series delivered the bright, articulate response needed to keep pace with the album's relentlessly fast tempos and intricate cymbal patterns that defined brutal death metal drumming.
+
+**Q: How much does Flo Mounier's None So Vile kit cost?**
+
+A: At the time of recording in 1996, a Pearl MX Series kit was valued at approximately $2,000 to $3,000. Today, vintage Pearl MX kits can be found on the used market for $700 to $1,800. The Pearl Steel snare adds another $100 to $250 used. A full set of vintage Sabian AA cymbals matching his setup runs $800 to $1,500. To assemble a complete period-accurate replica of his None So Vile rig, expect to spend roughly $1,600 to $3,500 total.
+
 **Source:** https://metalforge.io/articles/none-so-vile-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

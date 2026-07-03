@@ -61,8 +61,30 @@ The 14" Sound Edge Hi-Hats continue to provide the tighter, more controlled chic
 - Estimated kit value: $3,800-5,200 (2001)
 - Estimated snare value: $450-600 (2001)
 
+## Frequently Asked Questions
+
+**Q: Was Demolition the last Judas Priest album with Tim 'Ripper' Owens?**
+
+A: Yes. Demolition, released in July 2001, is the second and final Judas Priest studio album to feature Tim "Ripper" Owens on vocals. Rob Halford rejoined the band in 2003, two years after Demolition's release, ending the Owens era. Owens went on to front Iced Earth and later joined Yngwie Malmsteen's band. Scott Travis drummed on both of Owens's studio albums, Jugulator (1997) and Demolition (2001), providing the only consistent instrumental thread through Judas Priest's entire Halford-less period from 1992 to 2003.
+
+**Q: Did Scott Travis write any songs for Judas Priest?**
+
+A: Yes — Scott Travis co-wrote "Cyberface" on Demolition (2001) alongside guitarist Glenn Tipton, marking his only songwriting credit across his entire tenure with Judas Priest. Only one other Priest drummer, Les Binks, has ever earned a co-writing credit with the band. The track runs 6:45 and features more structurally unusual, angular rhythmic phrasing than Demolition's other cuts, a plausible result of Travis having direct input into the song's composition rather than simply drumming to a finished riff.
+
+**Q: What drum kit did Scott Travis use on Demolition?**
+
+A: On Demolition (2001), Scott Travis played the same Pearl Masters Custom kit he introduced on Jugulator (1997), maple/gum hybrid shells, dual 22" x 18" bass drums, 10"/12" rack toms, and 14"/16" floor toms. His cymbal setup was also unchanged: an all-Paiste 2002 configuration. The one addition was Yamaha hardware, a Yamaha HS-1200 hi-hat stand and Yamaha System 3 boom stands supplementing his existing Pearl rig. It's a case of refinement rather than reinvention: Travis had found a setup that worked on Jugulator and carried it forward largely intact.
+
+**Q: Why does Demolition have a Parental Advisory sticker?**
+
+A: Demolition is the only Judas Priest studio album to carry a Parental Advisory sticker, due to profanity in the tracks "Machine Man," "Hell Is Home," and "Metal Messiah." It reflects the album's harder-edged, more contemporary nu-metal and industrial influences compared to the band's traditional output, a stylistic direction that began with Jugulator's downtuned thrash pivot in 1997 and pushed further on Demolition.
+
+**Q: How does Demolition compare to Jugulator and Painkiller in Scott Travis's gear evolution?**
+
+A: Demolition (2001) largely continues the Pearl Masters Custom / Paiste 2002 setup Travis introduced on Jugulator (1997), with Yamaha hardware added alongside his existing Pearl rig, a refinement rather than an overhaul. Both Owens-era albums represent a clear departure from the Tama Artstar II / mixed Paiste Signature-and-2002 setup Travis used on Painkiller (1990). This three-album arc, Painkiller's Tama kit, Jugulator and Demolition's Pearl Masters Custom era, and Angel of Retribution's Pearl Reference Series in 2005, traces Travis's full transition from Tama to Pearl, a move that began four years earlier than most fans realize.
+
 **Source:** https://metalforge.io/articles/demolition-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

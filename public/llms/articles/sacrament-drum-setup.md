@@ -81,8 +81,34 @@ The crash array's progression from 16" to 18" maintained Adler's dynamic approac
 - Estimated kit value: $3,500-5,000 (2006 DW Collector's configuration)
 - Estimated snare value: $450-600 (2006 DW maple snare)
 
+## Frequently Asked Questions
+
+**Q: What kit does Chris Adler use on Sacrament?**
+
+A: On Sacrament (2006), Chris Adler used a DW Collector's Series drum kit. The configuration included dual 22"×18" bass drums, 10" and 12" rack toms, and 14" and 16" floor toms. This represented a significant upgrade from the Mapex Pro M he used on Ashes of the Wake (2004), with DW's VLT shells providing warmer, deeper tones better suited to Capitol Studios' acoustic environment.
+
+**Q: What cymbals does Chris Adler use on Sacrament?**
+
+A: For Sacrament, Chris Adler transitioned from Meinl Byzance to Zildjian A Custom cymbals. His setup included 13" A Custom hi-hats, 16", 17", and 18" A Custom crashes, a 20" A Custom ride, an 18" A Custom China, and a 10" A Custom splash. The shift from the darker Byzance sound to the brighter A Custom character is one of the most audible differences between Sacrament and the 2004 Ashes of the Wake album.
+
+**Q: Where was Lamb of God's Sacrament recorded?**
+
+A: Sacrament was recorded at Capitol Studios in Hollywood, California, with producer Machine (Mark Lewis). Capitol Studios — one of America's most storied recording facilities — provided a naturally reverberant room environment that gave Sacrament's drum sound a bigger, more spacious quality than the drier Audiohammer Studios sound of Ashes of the Wake. Machine blended the natural room ambience with close-mic capture and selective sample reinforcement.
+
+**Q: What is the "Walk with Me in Hell" drum groove?**
+
+A: The "Walk with Me in Hell" groove is one of the most studied patterns in modern heavy metal drumming. At 136 BPM, Adler locks in a syncopated right-hand/kick interplay where the kick punctuates on the "e" and "and" of beat 2, creating a pattern that grooves deeply despite its complexity. Ghost notes on the snare weave between the accented hits, and left-foot hi-hat work (Adler's "pivot" technique) adds dynamics without interrupting the locked-in feel. It's technically demanding but sounds inevitable when played correctly.
+
+**Q: How is Sacrament different from Ashes of the Wake sonically?**
+
+A: Sacrament is notably brighter, more polished, and more arena-ready than Ashes of the Wake. The shift from Meinl Byzance to Zildjian A Custom cymbals accounts for much of the tonal difference — A Customs sit higher in the mix with more shimmer. The DW Collector's drums have warmer, deeper tones than the Mapex Pro M, and Capitol Studios' room ambience added space that Audiohammer's drier environment didn't provide. Machine's production also incorporated more integrated trigger reinforcement on Sacrament, giving the kick drums a more consistent attack across the album.
+
+**Q: What Grammy nomination did Sacrament earn?**
+
+A: Lamb of God's "Redneck," from Sacrament (2006), was nominated for the Grammy Award for Best Metal Performance at the 49th Grammy Awards (2007). While it did not win, the nomination marked Lamb of God's arrival as a mainstream heavy metal force and cemented Chris Adler's status as one of modern metal's most important drummers. Adler would later win a Grammy as a session drummer on Megadeth's Dystopia (2016).
+
 **Source:** https://metalforge.io/articles/sacrament-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

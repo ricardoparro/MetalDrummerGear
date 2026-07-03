@@ -80,8 +80,22 @@ His Paiste endorsement spans decades, and the company has developed signature mo
 - Estimated kit value: $8,000-15,000 (Sonor SQ2 signature configuration)
 - Estimated snare value: $600-1,000 (Sonor Artist/SQ2 snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Nicko McBrain use?**
+
+A: Nicko McBrain plays a Sonor SQ2 Nicko McBrain Signature kit with birch shells. His current setup features a single 22x14 inch bass drum, rack toms in 10, 12, and 13 inches, and floor toms in 14 and 16 inches. The birch shells deliver the punchy, focused attack that suits Iron Maiden's driving rhythmic style. Sonor built this configuration to his exact touring and recording specifications.
+
+**Q: What cymbals does Nicko McBrain use?**
+
+A: Nicko McBrain is a longtime Paiste endorser, drawing from the Signature, 2002, and RUDE series. His setup includes Paiste Signature 15 inch Sound Edge hi-hats, Signature crashes ranging from 16 to 19 inches, a Signature 22 inch Power Ride, a Signature 18 inch Thin China, and a Signature 10 inch Splash. The Signature series gives him a bright, clear sound that cuts through Iron Maiden's layered twin-guitar arrangements.
+
+**Q: How much does Nicko McBrain's drum kit cost?**
+
+A: A Sonor SQ2 Nicko McBrain Signature kit runs approximately $8,000 to $15,000 depending on finish and configuration options, as SQ2 kits are built to order. Add a Sonor Artist or SQ2 custom snare at $600 to $1,000, and a full Paiste Signature cymbal setup can easily add another $3,000 to $5,000. All in, replicating his complete rig would cost between $12,000 and $21,000 or more.
+
 **Source:** https://metalforge.io/articles/whats-in-nicko-mcbrains-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

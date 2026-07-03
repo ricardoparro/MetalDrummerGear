@@ -90,8 +90,22 @@ This cymbal setup demonstrates that extreme metal doesn't require extreme cymbal
 - Estimated kit value: $8,000-12,000 (complete Masterworks Stadium kit)
 - Estimated snare value: $400-500 (George Kollias Signature Snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does George Kollias use?**
+
+A: George Kollias of Nile plays a Pearl Masterworks Stadium Exotic kit with dual 22x18 inch bass drums for live performance, 10 and 12 inch toms, and 14 and 16 inch floor toms. The shells are a maple/birch hybrid, giving the kit both warmth and articulation suited to extreme speed. He uses his Pearl George Kollias Signature snare, a 14x6.5 inch model built to handle the intense physical demands of some of the fastest and most technically demanding drumming in death metal.
+
+**Q: What cymbals does George Kollias use?**
+
+A: George Kollias plays Zildjian cymbals, mixing K Custom and A Custom series pieces. His setup includes 14 inch K Mastersound hi-hats, K Custom Dark crashes from 17 to 19 inches, a 21 inch A Custom Mega Bell Ride, an 18 inch K Custom China, and a 10 inch A Custom Splash. The K Custom Dark crashes provide a dry, complex response while the A Custom Mega Bell Ride cuts through clearly in dense, fast passages, giving Kollias definition and clarity at extreme tempos.
+
+**Q: How much does George Kollias' drum kit cost?**
+
+A: George Kollias' Pearl Masterworks Stadium Exotic kit is a custom-order instrument estimated at $8,000 to $12,000, placing it firmly in the professional custom tier. His Pearl signature snare adds $400 to $500. The Zildjian K Custom and A Custom cymbal combination runs approximately $2,000 to $3,500 for a complete matched setup. All in, replicating his full rig would likely cost $11,000 to $16,000.
+
 **Source:** https://metalforge.io/articles/whats-in-george-kollias-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

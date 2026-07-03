@@ -69,8 +69,26 @@ The china cymbal's role in Bittner's setup is characteristically NWOAHM: it mark
 - Estimated kit value: $2,500–4,500 (Tama Starclassic Performer B/B shell pack)
 - Estimated snare value: $300–600
 
+## Frequently Asked Questions
+
+**Q: What drums does Jason Bittner use?**
+
+A: Jason Bittner plays a Tama Starclassic Performer B/B kit — the "B/B" designation indicating birch/bubinga hybrid shell construction. His setup runs a double bass drum configuration with two 22" kick drums, two rack toms (10" and 12"), and two floor toms (14" and 16"). The birch/bubinga shells provide the focused attack of birch for high-tempo metalcore and thrash drumming combined with the warmth and body of bubinga — a combination that suits both Shadows Fall's NWOAHM arrangements and Overkill's thrash material. Bittner has been a Tama endorser throughout his career, using Starclassic kits as the foundation of his setup across both bands. Full profile: [Jason Bittner at MetalForge](/drummer/jason-bittner).
+
+**Q: What cymbals does Jason Bittner play?**
+
+A: Jason Bittner plays Sabian HHX and HH series cymbals. His setup includes Sabian HHX 14" hi-hats, 16" and 18" HHX crash cymbals, an HH 20" ride, and an HHX china cymbal. The HHX series — hand-hammered B20 bronze with brilliant finish — emphasizes upper-frequency harmonics that project above the mid-range density of both Shadows Fall's layered NWOAHM guitar arrangements and Overkill's thrash wall. The HH ride's defined bell is particularly suited to Overkill's thrash context, where ride bell accents cut through the guitar mass to mark rhythmic divisions in the arrangement. Sabian is Bittner's primary cymbal endorsement across his career with both bands.
+
+**Q: What double bass pedal does Jason Bittner use?**
+
+A: Jason Bittner uses the DW 9002 double bass pedal. The 9002's dual-chain drive system provides consistent action across both the primary and slave pedal sides — a critical feature for the sustained double-bass passages that define Bittner's drumming in both Shadows Fall and Overkill. At Overkill's thrash tempos, where double-kick patterns sustain at high velocities for extended passages, any mechanical variation between the two pedal sides becomes audible as rhythmic unevenness; DW's 9002 engineering prioritizes matched action to support the metronomic precision both bands require. The pedal's adjustable spring tension and beater weight allow configuration for NWOAHM's syncopated kick patterns as well as thrash's sustained velocity demands. See [double-bass technique at MetalForge](/technique/double-bass/drummers) for related context.
+
+**Q: What bands has Jason Bittner played with?**
+
+A: Jason Bittner is best known as the drummer for Shadows Fall, the New Wave of American Heavy Metal band he joined in 1997, and Overkill, the New Jersey thrash metal institution he has been the full-time drummer for since 2012. With Shadows Fall, he recorded six studio albums including The Art of Balance (2002) and The War Within (2004) — the two records most commonly cited as NWOAHM's technical benchmark. With Overkill, he has recorded five studio albums from The Electric Age (2012) through Scorched (2023), establishing himself as a leading figure in modern thrash metal as well as the NWOAHM context he originally rose from. He runs both engagements simultaneously — Overkill's primary touring and studio drummer while maintaining activity with Shadows Fall for reunion and select touring work. Full career context: [Jason Bittner at MetalForge](/drummer/jason-bittner).
+
 **Source:** https://metalforge.io/articles/jason-bittner-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -72,8 +72,26 @@ The 20" ride was crucial for the extended sections of tracks like "Rime of the A
 - Estimated kit value: $2,800-3,800 (1984)
 - Estimated snare value: $300-450 (1984)
 
+## Frequently Asked Questions
+
+**Q: What drums did Nicko McBrain use on Powerslave?**
+
+A: Nicko McBrain recorded Powerslave (1984) on a Ludwig Classic Maple kit — the professional standard of the NWOBHM era. The configuration featured a single 22"x14" bass drum, two rack toms (12" and 13"), and two floor toms (16" and 18"). The maple shells provided warm, resonant tone that suited Martin Birch's live-room recording approach at Compass Point Studios in Nassau. For a complete profile of Nicko's setup across his career, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain).
+
+**Q: What cymbals did Nicko McBrain use on Powerslave?**
+
+A: On Powerslave, Nicko McBrain used Paiste 2002 series cymbals throughout — the definitive NWOBHM-era professional cymbal. His setup included 14" Medium Hi-Hats, 16" and 18" Medium Crashes, a 20" Medium Ride, and an 18" China Type. The Paiste 2002's bright, articulate character was perfectly suited to Iron Maiden's production: clear stick definition on the ride during "Rime of the Ancient Mariner," fast crashes that spoke and decayed quickly on section changes, and hi-hats that articulated cleanly at the extreme tempos demanded by "Aces High."
+
+**Q: Why does Nicko McBrain use a single bass drum pedal?**
+
+A: Nicko McBrain has used a single bass drum pedal throughout his entire Iron Maiden career — including on Powerslave and the legendary World Slavery Tour (1984–85) of 335 shows. He views the single-pedal approach as a matter of feel and musicality over raw speed: the galloping triplet rhythm that defines Iron Maiden's sound is achieved through exceptional single-pedal footwork, not double bass. His technique is studied by drummers worldwide as proof that physical power and rhythmic complexity don't require two pedals. See [Nicko McBrain's drum licks and technique breakdowns](/drummer/nicko-mcbrain/licks) for analysis of his single-pedal gallop.
+
+**Q: How difficult is the drumming on Powerslave?**
+
+A: Powerslave is considered one of the most demanding drum performances in classic heavy metal. "Aces High" opens at approximately 170 BPM and requires sustained single-pedal gallop and 16th-note hi-hat patterns across the entire track — a significant endurance challenge. "Rime of the Ancient Mariner" demands the opposite: 13 minutes of dynamic navigation from near-silence to crushing metal without losing feel or concentration. The album's range — from sprinting tempos to measured epic passages — showcases every dimension of Nicko's playing. The [Number of the Beast drum setup article](/articles/number-of-the-beast-drum-setup) covers the predecessor album where Nicko first brought these skills to Iron Maiden's catalog.
+
 **Source:** https://metalforge.io/articles/powerslave-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

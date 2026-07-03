@@ -21,7 +21,7 @@ This article explores the gear Abe used during the Diamond Eyes sessions, the te
 
 ## Gear Breakdown
 
-- **Drums:** Tama Tama Starclassic Bubinga / Birch hybrid (Custom dark finish)
+- **Drums:** Tama Tama Starclassic Bubinga / Birch hybrid (Custom dark finish finish)
 - **Snare:** Tama Tama Bell Brass 14"x6.5" / Tama Starphonic Brass, 14" x 6.5"
 - **Cymbals:** Sabian — Sabian HHX Series
 - **Hardware / Pedals:** Tama Iron Cobra / Speed Cobra Single Pedal; Tama Iron Cobra Hi-Hat Stand; Tama 1st Chair; Vic Firth Signature / 5B-equivalent
@@ -70,7 +70,7 @@ The 18" Chinese is used sparingly — a sharp accent on the heaviest moments of 
 - Debuted at #6 on Billboard 200; RIAA Gold certified in the US
 - Singles "Diamond Eyes" and "Rocket Skates" reasserted the band on rock radio
 - Abe leaned into pocket-first playing with Tama Starclassic kit and Sabian HHX cymbals
-- Tama Starclassic Bubinga/Birch — focused punch with bright attack
+- Tama Starclassic Bubinga/Birch hybrid — focused punch with bright attack
 - Single 22" bass drum — Abe is a documented single-kick player
 - 10/12 rack toms and 14/16 floor toms for a wide melodic span
 - Tuned for melody as much as impact
@@ -78,8 +78,22 @@ The 18" Chinese is used sparingly — a sharp accent on the heaviest moments of 
 - Estimated kit value: $3,500-5,500 (Starclassic Bubinga/Birch shell pack, 2010 era)
 - Estimated snare value: $500-900 (Tama Bell Brass / Starphonic Brass, 2010 era)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Abe Cunningham use on Diamond Eyes?**
+
+A: Abe Cunningham recorded Diamond Eyes in 2009-2010 using a Tama Starclassic kit with bubinga/birch hybrid shells. The setup featured a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The bubinga/birch combination delivered focused low-end punch with bright attack, perfectly suited to producer Nick Raskulinecz's clear, punchy mix philosophy.
+
+**Q: What snare did Abe Cunningham use on Diamond Eyes?**
+
+A: Abe Cunningham primarily used a Tama Bell Brass 14"x6.5" snare on Diamond Eyes, with a Tama Starphonic Brass as a frequent alternate. The bell brass shell produces a bright, brassy crack with significant body — perfect for cutting through Stephen Carpenter's downtuned guitars without aggressive top-end EQ. This snare sound became a Deftones signature from Diamond Eyes onward.
+
+**Q: Did Abe Cunningham use double bass on Diamond Eyes?**
+
+A: No. Abe Cunningham is a documented single-kick player, and Diamond Eyes uses no double bass drumming. The album's heaviness comes from pocket, dynamics, and the locked-in interplay between Abe's single 22-inch kick and Sergio Vega's bass guitar — not from sustained double-bass barrages.
+
 **Source:** https://metalforge.io/articles/diamond-eyes-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-26 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -63,8 +63,26 @@ The 22" 2002 Ride anchors the verses on mid-tempo cuts like "Brain Dead" and "Bu
 - Estimated kit value: $3,800-5,200 (1997)
 - Estimated snare value: $450-600 (1997)
 
+## Frequently Asked Questions
+
+**Q: What happened to Judas Priest in the 1990s?**
+
+A: After Rob Halford left Judas Priest in 1992, the band spent years auditioning singers before Glenn Tipton discovered Tim Owens fronting a Priest tribute band in Ohio in 1996. Owens, nicknamed "Ripper," became the band's new vocalist, and Jugulator, released October 28, 1997, was his studio debut and Priest's first new album in seven years. The album downtuned the guitars to C# and C for a heavier, thrash-and-groove-oriented sound, a deliberate departure from the classic Priest style. It charted at #82 on the Billboard 200 in the US but reached #9 in both Germany and Japan. Scott Travis remained on drums throughout the entire Halford-less period, providing continuity through the band's most turbulent decade.
+
+**Q: Who replaced Rob Halford in Judas Priest?**
+
+A: Tim "Ripper" Owens replaced Rob Halford as Judas Priest's lead vocalist in 1996, after Halford's 1992 departure to pursue other projects. Owens had been fronting a Judas Priest tribute band called British Steel in Akron, Ohio, when Glenn Tipton discovered him. Owens recorded two studio albums with the band, Jugulator (1997) and Demolition (2001), before Halford rejoined Judas Priest in 2003. Owens later fronted Iced Earth and joined Yngwie Malmsteen's band. Scott Travis, who had joined Priest in 1989 for Painkiller, drummed on both Owens-era albums.
+
+**Q: What drum kit did Scott Travis use on Jugulator?**
+
+A: For Jugulator (1997), Scott Travis played a Pearl Masters Custom kit with maple/gum hybrid shells, his first switch away from the Tama Artstar II birch kit he used on Painkiller. The configuration featured dual 22" x 18" bass drums (two inches deeper than his Painkiller-era 22"x16" kicks), 10" and 12" rack toms, and 14" and 16" floor toms. His snare was a matching Pearl Masters Custom 14"x6.5". This Pearl setup predates and sets up the Pearl Reference Series he'd adopt for Angel of Retribution (2005) — the Jugulator sessions are where Travis's transition away from Tama actually began.
+
+**Q: How does Scott Travis's drumming on Jugulator compare to Painkiller?**
+
+A: Painkiller (1990) showcased sustained, blast-furnace double-bass speed as the centerpiece of Travis's playing. Jugulator (1997) is a deliberate pivot: with the guitars downtuned to C# and C for a heavier, thrash-and-groove-oriented sound, Travis shifted to a more controlled, groove-locked attack built to serve the riffs rather than outrun them. The double-kick fury is still present on heavier tracks like "Burn in Hell," but the album as a whole favors restraint and pocket over pure velocity. His gear evolved to match — deeper bass drums, a heavier Pearl kit, and an all-Paiste-2002 cymbal voice replacing Painkiller's brighter Signature/2002 mix.
+
 **Source:** https://metalforge.io/articles/jugulator-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

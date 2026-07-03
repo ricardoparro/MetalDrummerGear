@@ -73,8 +73,22 @@ The twin China cymbals (20" and 22") were crucial to Slipknot's sound. Joey used
 - Estimated kit value: $6,000-10,000 (Reference Series custom configuration)
 - Estimated snare value: $250-350 (signature model still available)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Joey Jordison use for his signature setup?**
+
+A: Joey Jordison's signature setup was built around Pearl Reference Series and MasterWorks Custom drums. He ran two 22x18 inch bass drums, four rack toms from 8 to 14 inches, and 16x14 and 18x16 inch floor toms with 20-ply maple and birch Reference shells. His snare was the Pearl Joey Jordison Signature model, a 13x6.5 inch steel drum designed for tight, punchy response. The combination of deep bass drums and smaller toms gave his kit an aggressive, focused character.
+
+**Q: What cymbals did Joey Jordison use on his signature setup?**
+
+A: Joey Jordison's signature cymbal setup was built entirely from Paiste RUDE and 2002 Series. He used Paiste RUDE 14 inch Wild Hi-Hats, RUDE Wild Crashes from 16 to 19 inches, a RUDE 22 inch Power Ride, and RUDE 20 and 22 inch Wild Chinas. The RUDE Series, with its fully unlathed, raw bronze surface, produces a dark, trashy, extremely loud tone that Jordison credited as essential to cutting through Slipknot's layered, high-volume live performances.
+
+**Q: How much does Joey Jordison's signature kit cost?**
+
+A: Joey Jordison's Pearl Reference Series custom configuration typically runs between $6,000 and $10,000 depending on finish and shell count. The Pearl Joey Jordison Signature snare is available new for approximately $250 to $350. Replicating his full Paiste RUDE cymbal arsenal, including multiple crashes, wild chinas, and a power ride, adds another $2,500 to $4,000. In total, a faithful recreation of Jordison's signature setup would cost between $9,000 and $15,000 fully equipped.
+
 **Source:** https://metalforge.io/articles/whats-in-joey-jordisons-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

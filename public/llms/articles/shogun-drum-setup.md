@@ -73,8 +73,26 @@ The Byzance China above the floor tom served Shogun's heaviest moments: the aggr
 - Estimated kit value: $3,200–4,500 (2008) / $1,800–2,600 (used today)
 - Estimated snare value: $220–280 (2008)
 
+## Frequently Asked Questions
+
+**Q: What drums did Nick Augusto use on Shogun?**
+
+A: On Trivium's Shogun (2008), Nick Augusto played a DW Performance Series kit in Natural Lacquer finish. The configuration featured a 22" bass drum, three rack toms (10", 12", 14"), and two floor toms (16", 18") — an expanded five-tom setup appropriate for Shogun's progressive, melodically demanding arrangements. The DW Performance Series uses the same North American maple construction as DW's flagship Collector's Series, giving the kit the attack and sustain characteristics required for Shogun's dense, dynamic production. For full drummer profile details, see [Nick Augusto at MetalForge](/drummer/nick-augusto).
+
+**Q: Is Shogun the hardest Trivium album to play on drums?**
+
+A: Yes, Shogun is widely regarded as Trivium's most technically demanding album for drummers. The combination of factors makes it uniquely challenging: extended compositions (the 11:39 title track and 9:55 "The Calamity" require sustained focus and endurance), multiple time signatures within single songs (7/8, 11/8, and odd-time passages appear throughout), tempo ranges from slow progressive passages to 180+ BPM blast sections, and jazz-influenced passages that demand a different vocabulary than standard metal. Augusto's performance on tracks like "The Calamity" and "Kirisute Gomen" combines elements few metal drummers are comfortable executing. For comparison of Trivium's drum evolution, see [Nick Augusto drum setup at MetalForge](/articles/nick-augusto-drum-setup).
+
+**Q: What time signature is the Shogun title track?**
+
+A: The Shogun title track uses multiple time signatures across its 11:39 runtime, including standard 4/4 for the album's most direct sections, shifts into 7/8 during certain progressive passages, and additional odd-time figures that characterize the song's most complex moments. This metric variety — combined with the track's extended length and wide dynamic range — makes it one of modern metal's most compositionally sophisticated songs. Nick Augusto's ability to hold the foundation across these metric shifts while maintaining feel and groove is a significant part of why Shogun is considered his technical peak with Trivium.
+
+**Q: Did Nick Augusto play all drums on the Shogun album?**
+
+A: Yes, Nick Augusto performed all drums on Trivium's Shogun (2008), recorded at Morrisound Recording in Tampa, Florida with producer Nick Raskulinecz. Augusto had joined Trivium in 2007, replacing Travis Smith, and Shogun was his first studio album with the band. The album captures him at the technical height of his Trivium tenure — the subsequent "In Waves" (2011) and "Vengeance Falls" (2013) records featured strong performances but in a more straightforward metalcore context. For the In Waves/Vengeance Falls era gear breakdown, see [Nick Augusto drum setup at MetalForge](/articles/nick-augusto-drum-setup).
+
 **Source:** https://metalforge.io/articles/shogun-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -79,8 +79,26 @@ This hybrid cymbal philosophy — mixing series within the same brand to achieve
 - Estimated kit value: $4,000–6,000 (Pearl Reference Pure expanded configuration, 2019)
 - Estimated snare value: $400–550 (Pearl Reference Pure snare, 2019)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Jay Weinberg use on We Are Not Your Kind?**
+
+A: Jay Weinberg used an evolved Pearl Reference Pure setup on We Are Not Your Kind (2019), featuring an expanded tom configuration compared to The Gray Chapter — five rack toms (8", 10", 12", 14", 16") plus two floor toms (16", 18"), and double 22" bass drums. The Reference Pure's maple/birch hybrid shells were paired with Evans EMAD2 kick heads and EC2 batter heads throughout. Pearl Demon Drive triggers were integrated on the bass drums for the album's dense, hybrid production approach.
+
+**Q: Did Jay Weinberg win a Grammy for We Are Not Your Kind?**
+
+A: Yes — Slipknot won the Grammy Award for Best Metal Performance in 2021 for "Nero Forte," a track from We Are Not Your Kind. The award recognised one of the most technically demanding drum performances on the album: a track featuring complex polyrhythmic patterns in the verses against a driving 4/4 chorus, which Weinberg also co-wrote. It was Slipknot's first Grammy win and came 22 years into the band's career.
+
+**Q: How does Jay Weinberg's setup differ between The Gray Chapter and We Are Not Your Kind?**
+
+A: The most significant change between Jay Weinberg's Gray Chapter (2014) and WANYK (2019) setups was the cymbal configuration. On the Gray Chapter, Weinberg used a pure Zildjian A series setup; on WANYK he adopted a hybrid A and K Custom approach — retaining A series hi-hats and China for attack and clarity, while adding K Custom Dark crashes and a K Custom ride for darker, more complex crash and ride character suited to the album's atmospheric production. The drum kit itself evolved from a standard Reference Pure configuration to an expanded tom setup (5 rack toms + 2 floor toms), and Evans EMAD2 heads replaced EMAD for heavier batter construction. Pearl Demon Drive triggers were also more prominent in the WANYK mix.
+
+**Q: What cymbals does Jay Weinberg use on We Are Not Your Kind?**
+
+A: Jay Weinberg used a hybrid Zildjian A and K Custom setup on We Are Not Your Kind (2019). The configuration included Zildjian A 14" hi-hats, Zildjian K Custom Dark crashes in 17" and 19", a retained Zildjian A 18" crash, a Zildjian K Custom 20" ride, a Zildjian A 18" China, and a Zildjian K Custom 10" splash. The hybrid A + K Custom approach gave Weinberg both the bright attack of the A series (hi-hats, China) and the darker, more complex wash character of the K Custom series (crashes, ride) — matching the album's denser and more atmospheric production compared to The Gray Chapter.
+
 **Source:** https://metalforge.io/articles/we-are-not-your-kind-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

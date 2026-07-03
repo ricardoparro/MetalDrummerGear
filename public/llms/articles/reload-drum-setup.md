@@ -1,6 +1,6 @@
-# Metallica 'Reload' Drum Setup — Lars Ulrich's 1997 Tama Star Classic Maple Kit
+# Metallica 'Reload' Drum Setup: Lars Ulrich's 1997 Tama Star Classic Maple Kit
 
-> Complete gear breakdown for Metallica's Reload (1997). Discover Lars Ulrich's Tama Star Classic Maple kit, Zildjian A Custom cymbals, Bob Rock's recording approach, and the drum gear behind 'Fuel', 'The Memory Remains', and 'Fixxxer' on this 5× Platinum companion to Load.
+> Complete gear breakdown for Metallica's Reload (1997). Discover Lars Ulrich's Tama Star Classic Maple kit, Zildjian A Custom cymbals, Bob Rock's recording approach, and the drum gear behind 'Fuel', 'The Memory Remains', and 'Fixxxer' on this 5× Platinum companion album to Load.
 
 **Type:** Album Drum Setup
 **Drummer(s):** [Lars Ulrich](/llms/drummers/lars-ulrich.md)
@@ -9,91 +9,98 @@
 
 ## Overview
 
-Released on November 18, 1997, Metallica's seventh studio album Reload was conceived and recorded alongside Load (1996) as a sprawling double-album project. When the 1995–1996 sessions at The Plant Studios in Sausalito and Prairie Sun Recording in Cotati produced more than 27 songs, the band chose to release the material across two separate records. Load arrived in June 1996; Reload followed seventeen months later with the remaining eleven tracks. Reload debuted at #1 on the Billboard 200 and achieved 5× Platinum certification in the United States, producing singles including "Fuel," "The Memory Remains," "The Unforgiven II," and Grammy-winning "Better Than You."
+Released on November 18, 1997, Metallica's seventh studio album Reload was conceived and recorded alongside Load as a sprawling double-album project. When the band and producer Bob Rock amassed more than 27 songs during the 1995–1996 sessions, Metallica chose to release the material across two separate records rather than a single double-disc set. Load arrived in June 1996; Reload followed seventeen months later with the remaining eleven tracks. The result is one of the most commercially successful companion releases in hard rock history: Reload debuted at #1 on the Billboard 200, achieved 5× Platinum certification in the United States, and produced some of the most memorable singles of Metallica's mid-career: "Fuel," "The Memory Remains," "The Unforgiven II," and "Better Than You."
 
-For Lars Ulrich, Reload was the continuation and completion of the Load-era approach. The same Tama Star Classic Maple kit, the same Zildjian A Custom cymbals, the same producer (Bob Rock), and the same recording facilities carried directly from Load into Reload without fundamental change. The two albums form a unified gear era: one recording project, one equipment philosophy, two records.
+For Lars Ulrich, Reload represented the continuation and completion of the Load-era approach to drumming. The philosophical and technical decisions made during the Load sessions — the shift to the Tama Star Classic Maple, the adoption of Zildjian A Custom cymbals, the move away from thrash complexity toward groove and feel — carried directly into Reload without fundamental change. The same kit, the same cymbals, the same producer, the same studios: Reload is the second chapter of a unified recording project rather than a new artistic direction.
 
-Reload sits in a precise position in Lars's discography — completing the Load/Reload arc before the radical disruption of St. Anger (2003), where the naturalistic LU1465 snare and natural-room production philosophy were abandoned entirely. Reload is the last Metallica studio album to feature Lars's conventional, wire-engaged snare in a naturalistic production context.
+Yet Reload is not simply Load's appendix. The songs assembled for Reload have a distinct character: heavier in places than Load, more varied in tempo, and including some of the most driving tracks Metallica recorded during the entire 1990s. "Fuel" opens the album with a sense of speed and aggression absent from Load's opening tracks; "Devil's Dance" and "Carpe Diem Baby" bring a harder edge to the groove-oriented framework Load established. Lars's drumming on these tracks, while still grounded in the Load-era philosophy of serving the song, finds more room for the power and force that defined his earlier career.
+
+The gear that produced Reload's drum tracks is the same gear that produced Load — but the performances using it are distinct. This article documents the complete drum setup for Metallica's Reload sessions: the Tama Star Classic Maple that drove both records, the Zildjian A Custom cymbal configuration that had launched a new era in Lars's sound, and the production approach Bob Rock applied to the second phase of a massive recording project. For the preceding chapter, the [Load drum setup article](/articles/load-drum-setup) covers the full gear transition that established this era. The [Lars Ulrich drummer profile](/drummer/lars-ulrich) traces the complete career timeline.
 
 ## Gear Breakdown
 
-- **Drums:** Tama Star Classic Maple (same as Load — flagship series, continued from the Load sessions)
-- **Snare:** Tama LU1465 Lars Ulrich Signature, 14" x 6.5" (steel shell, moderate tension)
-- **Cymbals:** Zildjian A Custom Series (same configuration as Load)
-- **Hardware / Pedals:** Tama Iron Cobra Double Pedal / DW hardware (late transitional era); Roc-N-Soc Original throne; Ahead Lars Ulrich Signature sticks
-- **Heads:** Remo Powerstroke 3 Coated (snare batter), Remo Ambassador Clear (toms), Remo Powerstroke 3 Clear (kick)
-- **Snare tuning:** Moderate tension — consistent with Load, warmer than Justice era, more present than Black Album low tuning
+- **Drums:** Tama Tama Star Classic Maple (Natural maple / lacquered wood finish with chrome hardware finish)
+- **Snare:** Tama Tama LU1465 Lars Ulrich Signature, 14" x 6.5"
+- **Cymbals:** Zildjian — Zildjian A Custom
+- **Hardware / Pedals:** Tama Iron Cobra Double Pedal / DW 5000 Series (late transitional era); Tama Titan / DW 5000 Hi-Hat Stand (transitional); DW 9000 Series Boom Stands; Roc-N-Soc Original; Ahead Lars Ulrich Signature
+- **Heads:** Remo Powerstroke 3 Coated (batter), Remo Ambassador Snare Side (resonant)
+- **Snare tuning:** Moderate tension — consistent with Load (1996), warmer than Justice era, more present than Black Album low tuning
 
-### Drum Kit: Tama Star Classic Maple
+### Lars's Studio Kit: Tama Star Classic Maple (Continued from Load)
 
-The Tama Star Classic Maple that served the Load sessions continued into Reload unchanged. Because both albums were part of a single recording project, the kit was deeply familiar to Lars and Bob Rock by the time Reload's tracks reached final recording — already broken in, precisely tuned, and acoustically understood in both studio environments. The Star Classic's enhanced maple construction (improved bearing edges, refined wood selection, flagship-tier quality) delivered the warmth, projection, and natural resonance that Bob Rock's production approach exploited across both albums.
+The Tama Star Classic Maple that had served the Load sessions continued directly into Reload without replacement. Because Load and Reload were conceived as a single recording project — the 27-song output of one extended period of creativity — the kit was already thoroughly broken in, precisely tuned, and intimately familiar to both Lars and producer Bob Rock by the time the Reload tracks were finalised and recorded.
 
-Configuration: 22" x 18" bass drum with double pedal, 10" and 12" rack toms, 14" and 16" floor toms. Tom tuning consistent with Load — slightly lower and warmer than the Black Album, suited to the groove-oriented production aesthetic. For heavier Reload tracks like "Fuel," the Star Classic's projection proved essential; the maple shells' natural warmth equally supported the album's aggressive moments with power and sustain.
+The Star Classic's enhanced maple shell construction — its improved bearing edges, refined wood selection, and flagship-tier construction quality — had been proven across more than a year of studio work before the Reload sessions reached their final recording passes. Bob Rock had developed a clear picture of how to capture the kit's natural voice at The Plant Studios and Prairie Sun Recording: which room mics to move, how much muffling to use in the kick drum, how to tune the floor toms for maximum warmth without sacrificing attack. Reload benefited from all of this accumulated knowledge.
 
-### Snare: Tama LU1465
+The configuration remained identical to Load: 22" x 18" bass drum driven by a double pedal, 10" and 12" rack toms, 14" and 16" floor toms. For Reload's heavier tracks — particularly "Fuel," which opens with a sense of aggression that distinguishes it from anything on Load — the Star Classic's projection proved essential. The maple shells' natural warmth and resonance, which had served Load's blues-influenced groove aesthetic, equally supported Reload's heavier moments by providing the power and sustain those tracks required.
 
-The Tama LU1465 Lars Ulrich Signature (14" x 6.5", steel shell) continued from Load at the same moderate tension. The steel shell provided brightness and cut while resisting muddiness at lower tunings. Bob Rock's reduced gated reverb approach — carried through from Load — allowed the drum's natural character to speak directly in the mix, resulting in a present, musical snare sound audible across the album's range of tempos and dynamics.
+Tom tuning for Reload was consistent with the Load approach: slightly lower and warmer than the Black Album, chosen for the resonance the maple construction supported and the groove-oriented production aesthetic Bob Rock maintained across both records. The result is a drum sound that is immediately recognisable as the same rig that produced Load while carrying enough variation in performance and track selection to stand as its own distinct listening experience.
 
-Reload is the final Metallica studio recording of this naturalistic snare configuration. St. Anger (2003) introduced a custom DW Collector's Series maple snare with snare wires disengaged — creating the metallic "clang" that divided listeners — making the LU1465 on Reload historically significant as the last expression of Lars's conventional studio snare approach before that radical departure.
+### The LU1465 — Snare of the Load/Reload Double Era
 
-### Cymbals: Zildjian A Custom Series
+The Tama LU1465 Lars Ulrich Signature snare carried from Load into Reload unchanged. Like the kit itself, the snare was already deeply familiar to both Lars and Bob Rock by the time the Reload tracks reached final recording — tuned to the moderate tension that had defined Load's naturalistic snare approach, sitting between the dramatically low-tuned Black Album prototype and the high-tension Justice-era sound.
 
-The A Custom configuration begun on Load carried through unchanged: 14" Dyno Beat Hi-Hats, 16" and 17" Medium Thin Crashes, 18" Medium Crash, 22" Ping Ride, and 18" China. By the time of the Reload sessions, Lars and Bob Rock had fully internalised the A Custom setup's character in both recording environments. The cymbals' brightness and attack served Reload's heavier tracks well — "Fuel" in particular demands crashes that speak immediately and clearly in a fast-moving arrangement, and the A Custom series delivered precisely that.
+For Reload's heavier tracks, the LU1465's steel shell provided the brightness and attack that those songs demanded while retaining the warmth and naturalistic character that Bob Rock's less-gated production philosophy emphasised. "Fuel" is the clearest illustration: the snare on Metallica's most driving 1990s track hits with authority and cut, a steel-shell crispness that distinguishes it from the warmer, lower feel of the Load ballads — while remaining recognisably the same instrument, tuned with the same philosophy.
 
-The A Custom Ping Ride's defined bell and clear bow articulation remained central to mid-tempo groove tracks like "The Memory Remains" and "The Unforgiven II." The Dyno Beat hi-hats' open character, suited to the blues-groove passages of Load, also served Reload's more aggressive moments by cutting through heavier arrangements without harshness.
+On tracks like "The Memory Remains" — with its memorable Marianne Faithfull guest vocal and its mid-tempo, hook-driven structure — the LU1465 at moderate tension delivered exactly the kind of present, musical snare character Bob Rock's production required. The drum sits in the mix without demanding attention, supporting the song's structure rather than competing with its melodic content.
 
-Load marked the beginning of Lars's A Custom relationship; Reload confirmed it. The same cymbal configuration, evolved slightly, remains Lars's live setup to the present day — making Reload the second chapter of what has become a three-decade cymbal commitment.
+The Reload sessions produced the final recordings of this snare configuration in Metallica's studio catalog. The St. Anger sessions (2002–2003) introduced a radically different snare approach — the custom DW Collector's Series with snare wires disengaged — making the LU1465's moderate-tension character on Load and Reload the last expression of Lars's naturalistic studio snare sound before the most divisive drum production decision of his career.
 
-### Hardware: Late Transitional Era
+### Zildjian A Custom — The Load/Reload Era Configuration
 
-The Tama Iron Cobra double pedal remained primary for Reload. DW hardware continued to appear alongside the established Tama choices — DW 5000 series pedals and DW 9000 boom stands — reflecting the mid-to-late 1990s industry shift toward DW as the dominant professional hardware brand. The Roc-N-Soc Original throne and Ahead Lars Ulrich Signature aluminium-core sticks continued from the Black Album and Load eras.
+The Zildjian A Custom setup that had debuted on Load continued into Reload without fundamental change. The relationship between Lars and the A Custom series — begun at Load and sustained to the present day — was already well established by the time the Reload tracks were finalised. Bob Rock knew how the A Custom crashes and Dyno Beat hi-hats responded in the mix at The Plant Studios; Lars had internalized the cymbal selection's character across more than a year of studio and touring work.
 
-### Recording Approach: Bob Rock, Same Studios, Second Chapter
+For Reload's harder-edged tracks, the A Custom cymbals' brightness and attack worked particularly well. "Fuel" demands crashes that speak immediately and clearly in a fast-moving arrangement, and the A Custom 18" Medium Crash delivered precisely that: fast response, clear attack transient, and enough decay to bloom across the spaces Bob Rock left in the production. The A Custom Dyno Beat hi-hats, whose open, washy character had been ideal for Load's blues-groove passages, also served Reload's more aggressive tracks — their brightness cutting through the heavier mix without becoming harsh.
 
-Reload was recorded in the same facilities as Load — The Plant Studios in Sausalito and Prairie Sun Recording in Cotati — with the same production philosophy. Bob Rock's natural-room, lower-reverb approach carried directly through: moderate room microphone placement, reduced gated reverb on the snare, and a production aesthetic that let the Star Classic Maple's natural voice define the drum sound. By Reload, Bob Rock had refined his approach to both rooms through more than a year of Load sessions — the accumulated knowledge is audible in the confident, settled quality of the Reload drum tracks.
+The 22" A Custom Ping Ride continued to provide the defined bell and clear bow articulation that Reload's mid-paced groove tracks required. Tracks like "The Memory Remains" and "The Unforgiven II" centre on ride-pattern groove work, and the Ping Ride's articulate response — distinct from the Z Power Ride of the Justice era — kept the rhythmic patterns clear and musical in a production that valued restraint over density.
 
-Microphone setup: Shure Beta 52A inside kick / AKG D112 outside; Shure SM57 top snare / Sennheiser MD421 bottom; Sennheiser MD421 on each tom; AKG C451 hi-hat; Neumann U87 overheads; moderate room mics for natural tone. Consistent with Load throughout.
+The A Custom China above the floor tom delivered a brighter, more cutting crash-China effect than the earlier Z-series had provided. On heavier Reload tracks where an aggressive accent was required, the A Custom China's character suited the material without the extreme aggression of the Z-series' darker, trashier sound. The overall cymbal setup on Reload represents the A Custom configuration at its most fully embedded in Metallica's studio practice — no longer new, but deeply functional and sonically coherent.
 
 ## Key Facts
 
-- Released November 18, 1997 on Vertigo (international) / Elektra (US) — #1 Billboard 200, 5× Platinum US
-- Conceived and recorded alongside Load (1996) as a double-album project — same kit, same cymbals, same studios
-- Same Tama Star Classic Maple and Zildjian A Custom configuration as Load
-- Producer: Bob Rock (final full production before St. Anger, 2003)
+- Released November 18, 1997 — #1 Billboard 200, 5× Platinum US
+- Conceived and recorded alongside Load (1996) as a single double-album project
+- Same Tama Star Classic Maple kit and Zildjian A Custom cymbals as Load
+- Producer Bob Rock, final full production before St. Anger (2003)
 - Recorded at The Plant Studios, Sausalito CA and Prairie Sun Recording, Cotati CA
-- Singles: "Fuel," "The Memory Remains," "The Unforgiven II," "Better Than You" (Grammy: Best Metal Performance 1999)
-- Last Metallica album with Lars's naturalistic LU1465 snare before St. Anger's radical departure
-- The A Custom cymbal relationship confirmed on Reload continues unbroken to the present
-- Estimated kit value (1997): $4,500–$6,500 / Vintage today: $7,000–$10,000
+- Singles: "Fuel," "The Memory Remains," "The Unforgiven II," "Better Than You"
+- Tama Star Classic Maple — same kit as Load (1996), continued through the Reload sessions
+- Enhanced maple construction: greater warmth, projection, and natural resonance than Black Album Artist Maple
+- 22" x 18" bass drum (single kick, double pedal) — standard Lars configuration from Black Album onward
+- 10", 12" rack toms; 14", 16" floor toms — warm, lower tuning consistent with the Load/Reload era
+- Heavily broken-in by the time of final Reload recording — deep familiarity evident in confident performances
+- Same kit used on the Load/Reload world tour (1996–1997)
+- Estimated kit value: $4,500-6,500 (1997) / $7,000-10,000 (vintage today)
+- Estimated snare value: $500-700 (1997) / $900-1,400 (LU1465 production model today)
 
 ## Frequently Asked Questions
 
 **Q: What drum kit did Lars Ulrich use on Metallica's Reload?**
 
-A: The same Tama Star Classic Maple used on Load (1996) — Tama's flagship maple series — with a 22" bass drum, double pedal, 10" and 12" rack toms, and 14" and 16" floor toms. Load and Reload were recorded as a single double-album project, so the kit was unchanged between the two records.
+A: Lars Ulrich recorded Metallica's Reload (1997) on the same Tama Star Classic Maple kit used for Load (1996) — the flagship Tama maple series positioned above the Black Album's Artist Maple. Because Load and Reload were conceived as a unified double-album project and recorded in the same sessions across The Plant Studios in Sausalito and Prairie Sun Recording in Cotati, the kit was unchanged between the two records. Configuration: 22" x 18" bass drum with double pedal, 10" and 12" rack toms, 14" and 16" floor toms. The Star Classic's enhanced maple shell construction delivered the warmth and natural resonance that Bob Rock's production approach exploited through moderate room microphone placement and reduced gated reverb.
 
-**Q: What cymbals did Lars use on Reload?**
+**Q: What cymbals did Lars Ulrich use on Reload?**
 
-A: Zildjian A Custom series — identical to Load: 14" Dyno Beat Hi-Hats, 16"/17" Medium Thin Crashes, 18" Medium Crash, 22" Ping Ride, 18" China. Reload confirmed Lars's A Custom relationship, which has continued uninterrupted to the present day.
+A: Lars used the Zildjian A Custom series on Reload — the same configuration that had debuted on Load (1996). The A Custom setup included 14" Dyno Beat Hi-Hats, 16" and 17" Medium Thin Crashes, an 18" Medium Crash, a 22" Ping Ride, and an 18" China. Load marked the beginning of Lars's A Custom relationship; Reload consolidated it. The A Custom series has been his primary cymbal choice continuously from Load (1996) to the present day — meaning Reload was the second record that confirmed what has become a three-decade cymbal commitment.
 
 **Q: Is the Reload drum setup the same as the Load drum setup?**
 
-A: Substantially identical. Same Tama Star Classic Maple kit, same Zildjian A Custom cymbals, same Tama LU1465 snare at moderate tension, same studios, same producer, same production philosophy. What differs is the material: Reload includes heavier tracks like "Fuel" that demanded more assertive performances within the same setup.
+A: Yes, substantially identical. Load and Reload were recorded as a double-album project across the same studios (The Plant Studios, Sausalito; Prairie Sun Recording, Cotati), with the same producer (Bob Rock), using the same Tama Star Classic Maple kit and Zildjian A Custom cymbals. The snare — the Tama LU1465 Lars Ulrich Signature — was tuned to the same moderate tension on both records. The production approach was also consistent: natural room ambience, reduced gated reverb, moderate room microphone placement. What differs between the albums is the track selection: Reload includes heavier material like "Fuel" and "Better Than You" that demanded more assertive performances within the same setup.
 
-**Q: What is the snare sound on Reload?**
+**Q: What is the snare drum sound on Reload?**
 
-A: Tama LU1465 Lars Ulrich Signature (14" x 6.5", steel shell) at moderate tension — warm, present, naturalistic. Bob Rock reduced gated reverb compared to the Black Album, letting the drum's natural character speak directly. This is the last Metallica studio album with a conventional, wire-engaged snare in a naturalistic production before St. Anger's radical departure.
+A: The Reload snare uses a Tama LU1465 Lars Ulrich Signature — a 14" x 6.5" steel shell drum — tuned to moderate tension. The LU1465's steel construction provides brightness and cut while resisting muddiness at lower tunings. Bob Rock's production philosophy for Load and Reload deliberately reduced the heavy gated reverb that characterised the Black Album snare, resulting in a more naturalistic, present snare sound. The Reload snare sits in a different universe from the St. Anger snare (2003) — which used a DW Collector's Series with snare wires disengaged for the metallic "clang" that divided listeners — making Reload the last Metallica album to feature Lars's naturalistic studio snare approach before that radical departure.
 
-**Q: How does Reload fit in Lars Ulrich's gear timeline?**
+**Q: What are the best drum performances on Reload?**
 
-A: Between Load (1996) and St. Anger (2003). Reload completes the Load/Reload double-album era — the same Star Classic Maple and A Custom era begun on Load. It is the final recording of Lars's naturalistic LU1465 snare approach before the DW Collector's Series and disengaged-snare-wire experiment of St. Anger.
+A: "Fuel" is the most technically demanding Reload drum track — double bass pedal at high tempo, aggressive crash deployment, and the kind of driving energy closest to Metallica's thrash-era approach. "The Memory Remains" showcases Lars's mid-tempo groove work and ride cymbal phrasing. "Fixxxer" — the eight-minute album closer — is the most patient and dynamic performance, building from sparse groove to climactic full-band intensity across an extended arc. "Better Than You," the Grammy winner for Best Metal Performance, demonstrates the heavier end of the Reload spectrum. Together, these tracks show a drummer working within a consistent equipment and philosophical framework while adapting to material that varied significantly in weight and tempo across the eleven-track album.
 
----
+**Q: How does Reload fit in the Lars Ulrich discography timeline?**
+
+A: Reload (1997) sits between Load (1996) and St. Anger (2003) in the Lars Ulrich studio discography. It completes the Load/Reload double-album era — a sustained period of blues and hard rock influence that followed the Black Album's groove revolution. The Tama Star Classic Maple and Zildjian A Custom configuration of the Load/Reload era is distinct from both the Black Album's Artist Maple setup and the custom DW Collector's Series kit of St. Anger. Reload is the final recording of Lars's naturalistic LU1465 snare sound before the St. Anger snare experiment, and the second of what has become a continuous Zildjian A Custom relationship stretching to the present.
 
 **Source:** https://metalforge.io/articles/reload-drum-setup
 
-**Related articles:** [Lars Ulrich drummer profile](/llms/drummers/lars-ulrich.md) · [Load drum setup](/llms/articles/load-drum-setup.md) · [St. Anger drum setup](/llms/articles/st-anger-drum-setup.md) · [Death Magnetic drum setup](/llms/articles/death-magnetic-drum-setup.md)
-
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-27 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

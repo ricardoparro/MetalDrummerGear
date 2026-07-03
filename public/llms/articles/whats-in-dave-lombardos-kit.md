@@ -78,8 +78,22 @@ The dual China setup (18" and 20") gives Dave options for different intensities.
 - Estimated kit value: $5,000-8,000 (Starclassic Walnut/Birch configuration)
 - Estimated snare value: $400-600 (S.L.P. series)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Dave Lombardo use for his current 2026 setup?**
+
+A: Dave Lombardo's current setup in 2026 is built around a Tama Starclassic Walnut and Birch kit. He runs two 24x16 inch bass drums with 10x8 and 12x9 inch rack toms and 14x14 and 16x16 inch floor toms, all featuring walnut and birch hybrid shells. His snare is the Tama S.L.P. G-Maple at 14x6.5 inches. The walnut and birch hybrid construction gives the kit a warm, deep character with natural attack, reflecting Lombardo's evolution from his aggressive Slayer-era sound toward a more versatile modern tone.
+
+**Q: What cymbals does Dave Lombardo use on his current 2026 setup?**
+
+A: Dave Lombardo continues to use Paiste RUDE and 2002 Series cymbals in his current setup, a brand loyalty spanning decades. His configuration includes Paiste 2002 15 inch Sound Edge Hi-Hats, RUDE Wild Crashes from 18 to 20 inches, a Paiste 2002 24 inch Power Ride, RUDE 18 and 20 inch Wild Chinas, and a Paiste 2002 10 inch Splash. The combination of the bright 2002 Series and the aggressive, raw RUDE Series cymbals gives Lombardo a broad tonal palette across loud, dynamic performances.
+
+**Q: How much does Dave Lombardo's current kit cost?**
+
+A: Dave Lombardo's Tama Starclassic Walnut and Birch double bass setup currently retails between $5,000 and $8,000 depending on configuration and finish. The Tama S.L.P. G-Maple snare adds approximately $400 to $600. His Paiste RUDE and 2002 cymbal collection, including the large 24 inch Power Ride and multiple crashes and chinas, represents another $2,500 to $4,500 in current retail value. A full recreation of Lombardo's 2026 rig would run approximately $8,000 to $13,000 in total.
+
 **Source:** https://metalforge.io/articles/whats-in-dave-lombardos-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

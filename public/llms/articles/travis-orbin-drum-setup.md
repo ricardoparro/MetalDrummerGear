@@ -78,8 +78,30 @@ The 18" A Custom China delivers the sharp, upward-projecting accent that djent's
 - Estimated kit value: $4,000–7,500 (DW Collector's shell pack, custom configuration)
 - Estimated snare value: $400–700 (DW Collector's Snare)
 
+## Frequently Asked Questions
+
+**Q: What drums does Travis Orbin use?**
+
+A: Travis Orbin plays a DW Collector's Series drum kit. The Collector's Series is DW's flagship production line — custom-built North American maple shells with precisely specified bearing edges and ply configurations that affect every acoustic parameter. His configuration runs double 22" bass drums for symmetrical two-footed djent patterns, two rack toms (10" and 12"), and two floor toms (14" and 16") for the melodic fill range Periphery's complex arrangements require. The DW Collector's construction provides the articulate attack and controlled sustain that djent's dense rhythmic environment demands. Full drummer profile: [Travis Orbin at MetalForge](/drummer/travis-orbin).
+
+**Q: What cymbals does Travis Orbin play?**
+
+A: Travis Orbin plays Zildjian cymbals across his setup, primarily the K Custom and A Custom series. His hi-hats are Zildjian 14" K Custom Dark — providing the complex, articulate tone that works within djent's dense guitar frequencies without excess brightness. His crash setup uses Zildjian A Custom models (18" and 19") for their fast attack and quick decay — essential when crash cymbals must speak and resolve quickly in dense rhythmic arrangements. His ride is a Zildjian 21" K Custom Dark, chosen for controlled wash in high-gain guitar contexts. A Zildjian A Custom China and splash round out the setup for djent rhythmic punctuation.
+
+**Q: How does Travis Orbin get his djent drum sound?**
+
+A: Travis Orbin achieves his djent drum sound through a hybrid acoustic-electronic approach. Acoustically, his DW Collector's maple shells and Evans EMAD bass drum heads produce a controlled, focused attack with minimal unwanted sustain. Electronic triggers on the bass drums feed the Roland SPD-SX sampling pad system, adding consistent sample layering that reinforces and extends the acoustic kick sound. This trigger integration — fundamental to modern djent drum production — ensures that complex two-footed patterns register with equal attack regardless of physical variation in playing dynamics. The Roland SPD-SX also allows Orbin to introduce electronic textures and samples as compositional elements within the live and studio setup. The result is a drum sound that maintains acoustic warmth and dynamic sensitivity while delivering the attack precision and consistency that djent production demands.
+
+**Q: Was Travis Orbin the founding drummer of Periphery?**
+
+A: Yes, Travis Orbin was Periphery's founding drummer, joining during the recording of their self-titled debut album (2010). He performed on that album and the subsequent Icarus EP (2011) before departing in 2012. His replacement was Matt Halpern, who has been Periphery's drummer since. Both Orbin and Halpern represent distinct but complementary approaches to Periphery's rhythmic demands — see [Matt Halpern's complete gear breakdown at MetalForge](/drummer/matt-halpern) for a comparison. Orbin and Halpern's tenures together define the complete picture of what djent drumming can accomplish at the highest level.
+
+**Q: How does Travis Orbin use electronics and triggers in his drum setup?**
+
+A: Travis Orbin integrates electronics through two primary systems: bass drum triggers and the Roland SPD-SX sampling pad. Bass drum triggers — mounted on the acoustic kick drum batter heads — convert each physical stroke into a consistent electronic signal that can be processed or sample-layered, eliminating the attack variability inherent in acoustic-only recording at djent tempos. The Roland SPD-SX extends the kit's sonic vocabulary beyond acoustics: electronic textures, sample layers, and processed sounds are triggered from the pad as compositional elements of the drum arrangement rather than as supplemental effects. This hybrid philosophy means Orbin's kit operates simultaneously as an acoustic instrument and an electronic one, with each element designed to serve the overall sound rather than occupy separate roles.
+
 **Source:** https://metalforge.io/articles/travis-orbin-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

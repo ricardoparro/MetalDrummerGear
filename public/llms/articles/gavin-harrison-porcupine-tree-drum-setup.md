@@ -73,8 +73,26 @@ His crashes (16" and 18" Special Dry) speak fast and clear — perfect for the d
 - Estimated kit value: $6,000–9,000 (custom Sonor SQ2 kit)
 - Estimated snare value: $600–900 (Gavin Harrison Signature Snares)
 
+## Frequently Asked Questions
+
+**Q: What is Gavin Harrison's drum setup?**
+
+A: Gavin Harrison's drum setup centres on a custom Sonor SQ2 kit with thin maple shells, a 22" bass drum, two rack toms (10", 12"), and two floor toms (14", 16"). His cymbals are the Zildjian K Custom Special Dry series — developed in direct collaboration with Zildjian — anchored by a 21" Special Dry Ride and 14" Special Dry Hi-Hats. He plays Sonor Gavin Harrison Signature snares (14" x 5.25" brass and 12" Protean) and uses the Sonor Perfect Balance Pedal for bass drum control. See the full profile at [Gavin Harrison at MetalForge](/drummer/gavin-harrison) and his [lick hub](/drummers/gavin-harrison/licks) for technique breakdowns.
+
+**Q: What drum kit does Gavin Harrison use?**
+
+A: Gavin Harrison plays a custom Sonor SQ2 kit. The SQ2 is Sonor's fully bespoke program — each kit is built to the player's exact specifications for shell material, thickness, bearing edge, and hardware placement. Harrison's configuration uses thin maple shells for exceptional sensitivity and resonance, optimised for the polyrhythmic, dynamically complex playing that defines his work with Porcupine Tree on albums like Fear of a Blank Planet (2007) and In Absentia (2002). His kit includes a 22" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms — all tuned as melodic instruments within Porcupine Tree's progressive arrangements.
+
+**Q: What gear does the Porcupine Tree drummer use?**
+
+A: Gavin Harrison — the drummer for Porcupine Tree — uses a custom Sonor SQ2 drum kit, Zildjian K Custom Special Dry cymbals (which he co-developed with Zildjian), Sonor Gavin Harrison Signature snare drums, and the Sonor Perfect Balance bass drum pedal. His cymbal setup is built around a 21" K Custom Special Dry Ride as the centrepiece, with 14" Special Dry Hi-Hats and 16" and 18" Special Dry crashes. This rig has remained consistent across Porcupine Tree's key recordings from In Absentia (2002) through Fear of a Blank Planet (2007) and the reunion album Closure/Continuation (2022).
+
+**Q: What is the drum setup on Fear of a Blank Planet?**
+
+A: The drum setup on Fear of a Blank Planet (2007) is Gavin Harrison's Sonor SQ2 custom kit — thin maple shells with a 22" bass drum and four toms (10", 12", 14", 16") — paired with Zildjian K Custom Special Dry cymbals, including the 21" Special Dry Ride that drives much of the album's polyrhythmic texture. His Sonor Gavin Harrison Signature 14" x 5.25" brass snare is the primary snare throughout. The Sonor Perfect Balance Pedal allows the dynamic foot control central to tracks like the title track's interlocking 6/4 patterns. The album was produced by Steven Wilson and recorded to capture the maximum detail and dynamics Harrison's setup provides.
+
 **Source:** https://metalforge.io/articles/gavin-harrison-porcupine-tree-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

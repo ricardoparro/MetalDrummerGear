@@ -75,8 +75,34 @@ By the time Lateralus was recorded (2000-2001), Danny had transitioned to Paiste
 - Estimated kit value: $3,000-4,500 (1996) / $2,000-4,000 (vintage Masters Custom today)
 - Estimated snare value: $400-600 (1996) / $350-550 (vintage Free-Floating today)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Danny Carey use on Ænima?**
+
+A: Danny Carey used a Pearl Masters Custom kit on Ænima (1996). The setup featured maple/birch hybrid shells in a configuration including a 22" bass drum, rack toms at 10", 12", and 13", and floor toms at 16" and 18". This was notably different from his later Sonor SQ2 Heavy Beech setup used on Lateralus (2001) and Fear Inoculum (2019).
+
+**Q: What cymbals did Danny Carey use on Ænima?**
+
+A: Danny Carey used Paiste 2002 cymbals on Ænima, including 14" Sound Edge hi-hats, 16" and 18" crash cymbals, a 20" ride, and a Paiste RUDE 18" China. This was a brighter, more aggressive setup than the Paiste Signature series he adopted for Lateralus and later albums. The 2002 series' direct, cutting sound suited Ænima's raw, mid-90s production style.
+
+**Q: What pedals did Danny Carey use on Ænima?**
+
+A: Danny Carey used DW 5000 Series double bass pedals on Ænima. This was the professional standard for rock drummers in the mid-1990s. By the time of Lateralus (2001), he had moved to a DW single pedal, and by Fear Inoculum (2019), he was using the Sonor Giant Step Twin Effect pedal.
+
+**Q: How was 'Forty Six & 2' recorded?**
+
+A: 'Forty Six & 2' was recorded at Grandmaster Recording in Los Angeles with producer David Bottrill. The track's complex polyrhythmic groove was captured with a standard but carefully placed microphone setup — Sennheiser MD421s on toms, Shure SM57 on the snare, AKG D112 on the kick, and Neumann overheads. Bottrill preserved natural drum room ambience and minimal gating, which gave the track its organic, live feel. Danny's ghost note-heavy technique on the Pearl Free-Floating snare is clearly audible in the recording.
+
+**Q: How does the Ænima drum setup differ from the Lateralus setup?**
+
+A: The Ænima setup (Pearl Masters Custom, Paiste 2002, DW 5000) is fundamentally different from Lateralus (Sonor Designer Series/proto-SQ2, Paiste Signature, DW single pedal). Pearl's maple/birch shells are brighter and punchier than Sonor's beech. The Paiste 2002s are more aggressive and direct than the Signature series' darker, more complex character. The DW 5000 double pedal of Ænima was replaced by a single pedal for Lateralus as Danny's playing became more musically deliberate. These differences explain why the two albums have distinct drum sounds despite the same band and producer.
+
+**Q: Where was Ænima recorded?**
+
+A: Ænima was recorded at Grandmaster Recording in Hollywood, Los Angeles (formerly known as Hollywood Sound Recorders). The sessions took place in 1996 with producer David Bottrill, who captured the Pearl Masters Custom drum kit with natural room ambience and minimal processing. The studio's room sound contributed significantly to the organic, powerful character of the album's drum sound.
+
 **Source:** https://metalforge.io/articles/aenima-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

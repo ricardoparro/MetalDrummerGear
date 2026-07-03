@@ -76,8 +76,30 @@ This Sabian AAX configuration evolved over Larkin's Godsmack career into the dua
 - Estimated kit value: $2,000–4,000 (Tama Starclassic Maple shell pack, 2003)
 - Estimated snare value: $200–400 (steel snare, 2003 era)
 
+## Frequently Asked Questions
+
+**Q: What drums does Shannon Larkin use?**
+
+A: Shannon Larkin's current touring setup centers on Ddrum Reflex Series drums — a road-grade professional kit he has endorsed for much of his Godsmack career. However, on *Faceless* (2003) — his debut studio album with Godsmack — he recorded with his Tama Starclassic Maple kit, which had been his professional standard through his earlier career with Wrathchild America and Ugly Kid Joe. The Starclassic Maple's all-maple construction delivered the warm, focused tone that defines the drum sound on *Faceless*. He later transitioned to Ddrum endorsement. For his complete gear history, see the [Shannon Larkin drummer profile](/drummer/shannon-larkin).
+
+**Q: What was Shannon Larkin's setup on Faceless?**
+
+A: On Godsmack's *Faceless* (2003), Shannon Larkin used a Tama Starclassic Maple kit — double 22" bass drums, 10" and 12" rack toms, 14" and 16" floor toms — paired with Sabian AAX cymbals including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" Chinese cymbal. His snare was a 14" x 6.5" steel model (Tama era), tuned at medium-high tension for the cutting crack central to Godsmack's backbeat. DW 9000 double bass pedals powered the double-kick patterns that drove tracks like "Straight Out of Line." It was Larkin's first full studio album with Godsmack, recorded after joining the band in 2002 to replace founding drummer Tommy Stewart.
+
+**Q: What cymbals does Shannon Larkin use?**
+
+A: Shannon Larkin is a Sabian endorsee. On *Faceless* (2003), he used the Sabian AAX series — a machine-hammered, bright-voiced line known for its fast-speaking, aggressive character suited to hard rock production. His Faceless-era AAX setup included 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" Chinese cymbal. In later Godsmack albums and current touring, Larkin expanded to a dual AAX/HHX setup, adding the darker, more complex HHX Raw Bell Dry Ride for tonal contrast. The AAX series remains his primary hi-hat and crash choice across his entire Godsmack career. See the [Shannon Larkin drum setup](/articles/shannon-larkin-drum-setup) for his complete current cymbal configuration.
+
+**Q: Why did Faceless debut at #1 on the Billboard 200?**
+
+A: Godsmack's *Faceless* (2003) debuted at #1 on the Billboard 200 on the strength of "I Stand Alone" — one of the most-played rock songs of the 2000s on American radio — combined with Godsmack's established mainstream following built over two previous platinum albums (*Godsmack*, 1998; *Awake*, 2000). The band's combination of accessible hard rock songwriting, heavy production, and Sully Erna's powerful vocal delivery had built a crossover audience that spanned mainstream rock and heavy metal. Shannon Larkin's arrival strengthened the live and studio unit: his powerful groove-first approach suited Godsmack's sound perfectly. "Straight Out of Line" as a follow-up single reinforced the album's commercial momentum. The album ultimately certified 4× Platinum in the US.
+
+**Q: When did Shannon Larkin join Godsmack?**
+
+A: Shannon Larkin joined Godsmack in 2002, replacing founding drummer Tommy Stewart. *Faceless* (2003) was his first full studio album with the band and proved immediately that the transition had strengthened Godsmack's musical foundation. Larkin came to the band with extensive professional experience: Wrathchild America (thrash metal, late 1980s–early 1990s) and Ugly Kid Joe (whose "Everything About You" reached worldwide commercial success in 1992). He has remained Godsmack's drummer through all subsequent releases, including *IV* (2006), *The Oracle* (2010), *1000hp* (2014), *When Legends Rise* (2018), and *Lighting Up the Sky* (2023). See the [Shannon Larkin drummer profile](/drummer/shannon-larkin) for his complete career history.
+
 **Source:** https://metalforge.io/articles/faceless-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

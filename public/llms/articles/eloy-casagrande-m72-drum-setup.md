@@ -70,8 +70,30 @@ The A Custom's brilliant finish also matched the visual requirements of Metallic
 - Estimated kit value: $8,000–12,000 (Reference Pure custom configuration)
 - Estimated snare value: $400–600
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Eloy Casagrande play with Metallica?**
+
+A: On the M72 World Tour (2023–2024), Eloy Casagrande used a Pearl Reference Pure all-maple drum kit with a custom Metallica M72-branded wrap. The setup featured dual 22x18 inch bass drums, rack toms at 10, 12, and 14 inches, plus 16 and 18 inch floor toms. This was a significant change from his Tama Starclassic Walnut/Birch setup with Sepultura, chosen for its brighter projection at Metallica's stadium scale.
+
+**Q: Why does Metallica have two drummers live?**
+
+A: For the M72 World Tour — Metallica's largest ever campaign spanning 200+ shows across five continents — the band incorporated a co-drumming arrangement on their largest stadium performances. Eloy Casagrande joined Lars Ulrich as a second drummer on selected shows, adding rhythmic power that matched the tour's unprecedented scale. This reflects the growing approach of large-scale metal acts using multiple percussion voices for stadium-level impact.
+
+**Q: What cymbals does Eloy Casagrande use with Metallica?**
+
+A: Eloy Casagrande switched from Paiste RUDE cymbals to Zildjian A Custom for the M72 World Tour. His setup included 14-inch A Custom hi-hats, crashes in 16, 18, and 20 inches, a 20-inch A Custom ride, and an 18-inch A Custom china. The brilliant-finish A Customs delivered the brighter, more complex overtones suited to Metallica's sonic signature and stage production aesthetic.
+
+**Q: What pedals does Eloy Casagrande use on the M72 tour?**
+
+A: On the M72 World Tour, Eloy Casagrande used Pearl Demon Drive direct-drive twin pedals. The Demon Drive's shaft-to-beater direct connection eliminates cam delay found in traditional pedals, delivering maximum precision at Metallica's demanding tempos. This was a change from the Tama Speed Cobra pedals he used with Sepultura.
+
+**Q: How does Eloy Casagrande's M72 kit compare to his Sepultura setup?**
+
+A: Eloy's M72 rig was a near-complete overhaul of his Sepultura setup. He switched shells from Tama Starclassic Walnut/Birch to Pearl Reference Pure all-maple; cymbals from Paiste RUDE to Zildjian A Custom; pedals from Tama Speed Cobra to Pearl Demon Drive; and snare from Tama S.L.P. Sonic Steel to Pearl Free-Floating Steel. Only his Promark signature sticks remained unchanged. Each change was driven by the different sonic demands of Metallica's catalog and stadium-scale performance requirements.
+
 **Source:** https://metalforge.io/articles/eloy-casagrande-m72-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

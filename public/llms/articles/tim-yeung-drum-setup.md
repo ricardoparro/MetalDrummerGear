@@ -63,8 +63,30 @@ The crash selection covers Morbid Angel's dynamic range. The 16" AAX responds qu
 - Estimated kit value: $3,500–6,000 (Pearl Reference Masters shell pack)
 - Estimated snare value: $350–700
 
+## Frequently Asked Questions
+
+**Q: What drums does Tim Yeung play?**
+
+A: Tim Yeung plays Pearl Reference Masters drums. His configuration is built around a double bass drum setup with two 22" x 18" kick drums for the sub-bass mass his extreme double-kick patterns require, two rack toms (10" and 12"), and two floor toms (16" and 18"). The Reference Masters series uses a maple and mahogany hybrid shell construction that delivers immediate attack response and controlled low-end resonance — essential for the articulation and physical impact of death metal drumming at 200+ BPM blast beat tempos.
+
+**Q: What pedals does Tim Yeung use?**
+
+A: Tim Yeung uses the DW 9002 double bass pedal. The DW 9002's smooth cam system and consistent action support his relaxed high-speed double bass technique — at 200–280 BPM, the pedal's mechanical consistency is a performance requirement, not a preference. The 9002 minimizes energy loss between foot movement and beater impact, which compounds across extended double-kick passages. Yeung has used DW double bass pedals across his Hate Eternal and Morbid Angel periods — the same fundamental setup in different extreme death metal contexts. For more on double bass pedal setup and technique, see [double-bass drumming at MetalForge](/technique/double-bass-drumming).
+
+**Q: How fast is Tim Yeung's double bass?**
+
+A: Tim Yeung's blast beat tempos are documented in the 200–280 BPM range, placing him among the fastest death metal drummers in the genre. His extreme speed is built on relaxed, rebound-efficient technique rather than muscular power striking — at tempos above 250 BPM, the body's muscular system cannot sustain tension-based striking across full performances, so rebound efficiency (letting the stick or beater return via its own momentum before the next stroke) becomes the only sustainable approach. The DW 9002 pedal's smooth action supports this efficiency on the feet, mirroring the hand technique he applies on the kit. For context on extreme blast beat technique and comparison: [blast beat technique guide at MetalForge](/technique/blast-beat).
+
+**Q: What cymbals does Tim Yeung use?**
+
+A: Tim Yeung plays Sabian cymbals, primarily from the AAX and HHX series. His setup includes Sabian 14" AAX hi-hats, 16" and 18" AAX crashes, a 20" HHX ride, and an 18" AAX china cymbal. Sabian's AAX line — machine-hammered B20 bronze — produces focused, bright voices with fast attack and controlled decay that articulate clearly in death metal's dense sonic environment. At his blast beat tempos, hi-hat decay speed is a technical requirement: the AAX hi-hats cycle fast enough to articulate each stroke at 250+ BPM without blurring into an undifferentiated wash.
+
+**Q: What is the difference between Tim Yeung's Hate Eternal and Morbid Angel setups?**
+
+A: Tim Yeung's core gear setup — Pearl Reference Masters drums, Sabian cymbals, DW 9002 double bass pedal — remained consistent across his Hate Eternal and Morbid Angel periods. The primary difference is in musical application rather than equipment. Hate Eternal's arrangements (particularly Fury & Flames and I, Monarch) demand faster, more technically dense blast beat patterns in Erik Rutan's extreme technical death metal context. Morbid Angel's catalogue — especially the Kingdoms Disdained return-to-form — balances extreme speed sections with more groove-oriented death metal passages. Yeung's technique spans both contexts. For the full Morbid Angel connection and comparison with Paul Mazurkiewicz's Cannibal Corpse setup: [Paul Mazurkiewicz drum setup](/articles/paul-mazurkiewicz-drum-setup).
+
 **Source:** https://metalforge.io/articles/tim-yeung-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

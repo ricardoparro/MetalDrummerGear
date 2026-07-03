@@ -68,8 +68,30 @@ The 20" K Custom Ride introduces deliberate tonal contrast. Where the A Custom c
 - Estimated kit value: $2,500–4,500 (Pearl Masters Premium Maple shell pack)
 - Estimated snare value: $350–550 (Pearl Masters maple snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Jaska Raatikainen use?**
+
+A: Jaska Raatikainen plays Pearl drums — specifically the Pearl Masters Premium Maple series throughout the majority of Children of Bodom's career. The Masters Premium Maple features a six-ply all-maple shell construction that delivers the focused attack and warm body his melodic death metal work demands. He runs a double-kick configuration with two 22" x 18" bass drums, two rack toms (10" and 12"), and two floor toms (14" and 16") — a compact spread that supports both rapid melodic fill work and the aggressive blast-beat sections that punctuate Children of Bodom's most intense material.
+
+**Q: What cymbals does Children of Bodom's drummer play?**
+
+A: Jaska Raatikainen plays Zildjian A Custom and K Custom cymbals. His setup includes 14" A Custom Hi-Hats, a 17" and 18" A Custom Crash (paired for tonal variety across accent demands), and a 20" K Custom Ride. The A Custom series delivers the bright, fast-decaying character that cuts through Children of Bodom's dense keyboard and guitar arrangements without smearing the mix. The K Custom Ride introduces a darker, more complex tonal character that creates deliberate contrast in groove-oriented and atmospheric passages — particularly useful across later albums like Halo of Blood and I Worship Chaos.
+
+**Q: How did Jaska Raatikainen's setup evolve over Children of Bodom's career?**
+
+A: Raatikainen's core setup remained relatively consistent across Children of Bodom's 26-year career, with evolutionary refinements rather than wholesale changes. The Pearl Masters relationship was established early and solidified through the Follow the Reaper and Hate Crew Deathroll sessions (2000–2003), which represent the most technically demanding period of the band's output. The cymbal setup evolved from Zildjian A series toward the A Custom and K Custom combination that became his established configuration by the mid-2000s. The Pearl Eliminator double bass pedal was his primary foot instrument across the peak touring years, providing the consistent double-kick response that sustained the band's high-velocity material across extensive worldwide touring.
+
+**Q: What bass drum pedal does Jaska Raatikainen use?**
+
+A: Jaska Raatikainen uses the Pearl Eliminator double bass pedal. The Eliminator's defining feature is its interchangeable cam system — multiple cam shapes ship with the pedal, allowing the drummer to adjust the acceleration curve to match their personal heel-up technique. The dual-chain drive provides mechanical consistency across long live sets, ensuring each stroke produces the same response whether it's the first song or the last. This consistency is especially important for Children of Bodom's material, where double-kick patterns run continuously against complex melodic arrangements without rhythmic simplification.
+
+**Q: What drumsticks does Jaska Raatikainen play?**
+
+A: Jaska Raatikainen plays Vic Firth American Classic 5A sticks. The 5A's weight and length balance serve the dual demands of Children of Bodom's music: enough mass for forceful impact in blast beat and high-intensity sections, but light enough for the faster articulation that neoclassical-influenced fill work requires. The 5A is lighter than the 5B favored by heavier death metal drummers, reflecting Raatikainen's need for speed and precision alongside power.
+
 **Source:** https://metalforge.io/articles/jaska-raatikainen-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

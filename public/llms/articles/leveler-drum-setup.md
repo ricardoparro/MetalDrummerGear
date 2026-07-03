@@ -69,8 +69,26 @@ Paiste's CuSn8 bronze alloy — used across the 2002 series — delivers warmth 
 - Estimated kit value: $2,000–3,500 (2011) / $1,500–2,500 (vintage today)
 - Estimated snare value: $150–300 (2011) / $200–400 (vintage aluminum today)
 
+## Frequently Asked Questions
+
+**Q: What drums did Matt Greiner use on Leveler?**
+
+A: On *Leveler* (2011), Matt Greiner played a Ludwig Classic Maple kit — a 4-piece configuration centered on dual 22" bass drums, two rack toms (10", 12"), and a 16" floor tom. The Ludwig Classic Maple's 6-ply North American maple shells produced the warm, complex tone characteristic of *Leveler*'s drum sound. Greiner later transitioned to a Pearl Reference Pure kit, but the Ludwig era — documented on *Leveler* — represents a distinctly different tonal chapter in his career. For his complete current setup, see the [Matt Greiner drum setup guide](/articles/matt-greiner-complete-drum-setup).
+
+**Q: What is Matt Greiner known for technically?**
+
+A: Matt Greiner is known for three interconnected technical qualities that are unusually well-developed in the metalcore context. First, his lever-driven double bass technique: generating explosive kick speed through mechanical ankle and calf efficiency rather than brute leg force, producing consistent attack across extended passages. Second, his odd-meter facility: ABR's catalog — particularly *Leveler* (2011) and *Messengers* (2007) — features frequent time signature changes that Greiner navigates with instinctive feel rather than calculated counting. Third, his ghost note integration: unlike many metalcore drummers who treat subtle dynamics as unnecessary, Greiner layers ghost notes into heavy passages, creating rhythmic texture that elevates the groove. These qualities reflect his jazz-informed background applied to aggressive music. See the [Matt Greiner complete drum setup](/articles/matt-greiner-complete-drum-setup) for his current gear and technique breakdown.
+
+**Q: What makes the drumming on Leveler unique?**
+
+A: *Leveler*'s drumming stands apart from metalcore contemporaries for its compositional ambition. Greiner doesn't simply support the songs — he co-writes them rhythmically. On tracks like "Empire" (nearly eight minutes, multiple time signature shifts) and "Pangaea," Greiner's drum parts function as independent musical statements that engage in dialogue with JB Brubaker's guitar work rather than simply driving beneath it. The jazz-informed dynamic range — ghost notes in heavy sections, explosive crashes placed at compositional high points rather than on every phrase — gives the album a musical sophistication that pure metalcore albums typically lack. The Grammy nomination for Best Metal Performance recognized what genre fans already knew: *Leveler* raised the bar. For the broader context of Greiner's approach, see the [metalcore drumming techniques guide](/techniques/metalcore-drumming) and his [full drummer profile](/drummer/matt-greiner).
+
+**Q: What cymbals did Matt Greiner use on Leveler?**
+
+A: During the *Leveler* (2011) sessions, Matt Greiner used Paiste 2002 cymbals — one of the most respected series in metal history. His setup included Paiste 2002 14" Sound Edge hi-hats, 16" and 18" crashes, a 20" Heavy Ride, and an 18" China cymbal. Paiste's CuSn8 bronze alloy gives the 2002 series a combination of cutting attack and warm sustain well-suited to metalcore's dense guitar textures. Greiner later moved toward Meinl Byzance cymbals as his endorsement relationships evolved, but the Paiste era defined *Leveler*'s cymbal character. For his complete current cymbal setup, see the [Matt Greiner complete drum setup](/articles/matt-greiner-complete-drum-setup).
+
 **Source:** https://metalforge.io/articles/leveler-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

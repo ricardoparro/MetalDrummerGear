@@ -75,8 +75,30 @@ The Byzance China and Dark Splash complete the setup: the China for extreme meta
 - Estimated kit value: $3,000–6,000 (Pearl Reference Pure shell pack)
 - Estimated snare value: $400–700 (DW Collector's Series maple snare)
 
+## Frequently Asked Questions
+
+**Q: What drums does Blake Richardson use?**
+
+A: Blake Richardson plays a Pearl Reference Pure kit as his primary setup — an all-maple shell configuration that delivers the warm, resonant tone BTBAM's progressive arrangements require. The configuration runs double 22" bass drums with three rack toms (10", 12", 13") and a 16" floor tom, giving him the wide tonal range his melodic fill architecture demands. In earlier periods (Colors through Parallax era), Richardson used a DW Collector's Series kit. Full profile at [Blake Richardson at MetalForge](/drummer/blake-richardson).
+
+**Q: What cymbals does Blake Richardson play?**
+
+A: Blake Richardson plays Meinl Byzance series cymbals across the Dark, Extra Dry, and Traditional sub-lines. His setup includes Meinl Byzance 14" Dark Hi-Hats, 17" Extra Dry Thin Crash, 18" Dark Crash, 20" Extra Dry Ride, 10" Dark Splash, and 18" Byzance China. The Byzance line's hand-hammered Turkish-style construction produces complex, warm, nuanced tones that serve BTBAM's genre-spanning arrangements — from extreme metal to jazz-inflected passages — without requiring cymbal changes between sections. The Dark sub-series provides warm, fast-decaying tones for dynamic passages; the Extra Dry sub-series delivers dry, controlled articulation for BTBAM's most technically demanding rhythmic material.
+
+**Q: How does Blake Richardson handle metric modulation?**
+
+A: Blake Richardson approaches metric modulation as a compositional tool rather than a technical exercise. Metric modulation involves reinterpreting note values within an existing pulse to shift tempo perception — for example, treating the triplet eighth note of one feel as the quarter note of a new tempo, creating a smooth acceleration or deceleration without a simple BPM jump. Richardson executes these modulations by hearing the phrase shapes first and learning the arithmetic second — his interview comments consistently emphasize feel over counting. In practice, he anticipates each modulation one or two bars early, using fill patterns and cymbal choices to prepare the listener for the rhythmic shift. BTBAM's arrangements in tracks like 'Prequel to the Sequel' (Colors) and 'Telos' (The Parallax II) feature multiple metric modulations within single songs; Richardson's ability to execute them while maintaining forward momentum and serving the music is central to BTBAM's progressive metal identity. See [polyrhythm and metric modulation technique](/technique/polyrhythm) for a detailed breakdown.
+
+**Q: What double bass pedal does Blake Richardson use?**
+
+A: Blake Richardson uses the DW 9002 double bass pedal. The DW 9002 is a professional chain-drive double pedal with adjustable cam and dual-chain mechanism that delivers consistent, precise feel across intensive touring and recording demands. Richardson's double-bass approach is compositional: he varies kick density to follow BTBAM's emotional arc rather than running constant patterns, using the DW 9002's adjustable cam to dial in the power curve and return speed his dynamic approach requires. The pedal appears across his recorded work from the Colors period through the Automata era.
+
+**Q: What are Blake Richardson's most important BTBAM albums to study?**
+
+A: For drummers studying Blake Richardson's technique, three albums are essential. Colors (2007) is the foundational document — 'Prequel to the Sequel' demonstrates his 7/8 odd-time integration at its most musical, and the full album covers the complete BTBAM genre-shifting template. The Parallax II: Future Sequence (2012) contains his most compositionally developed performances — 'Telos' for fill architecture and 'Lay Your Ghosts to Rest' for compositional double-bass approach. Automata I & II (2018) represents the mature version of his technique in a more produced context. All three albums reward deep repeated listening: BTBAM's arrangements are dense enough that multiple listens reveal rhythmic details that aren't immediately obvious.
+
 **Source:** https://metalforge.io/articles/blake-richardson-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

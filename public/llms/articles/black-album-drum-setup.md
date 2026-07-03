@@ -71,8 +71,30 @@ Bob Rock's overhead microphone placement — wider than Flemming Rasmussen's Jus
 - Estimated kit value: $3,000-4,500 (1991) / $5,000-8,000 (vintage today)
 - Estimated snare value: $400-600 (1991) / $800-1,200 (vintage prototype today)
 
+## Frequently Asked Questions
+
+**Q: What drums does Lars Ulrich use on Enter Sandman?**
+
+A: Lars recorded "Enter Sandman" on a Tama Artist Maple kit — a distinct model from both the birch Artstar II used on Justice and the modern Star Classic. The bass drum is a deep 22"x18", contributing to the signature boom. The snare is a Tama prototype (later the LU1465) tuned lower than any previous Metallica album. Producer Bob Rock's room microphones, placed 15-20 feet from the kit, capture the cavernous ambience. Cymbals are Zildjian A series, including 14" New Beat hi-hats and A medium crashes.
+
+**Q: How is the Black Album drum sound achieved?**
+
+A: The Black Album drum sound relies on three key elements: (1) lower drum tuning than Lars's thrash era — every drum was tuned down significantly at Bob Rock's direction; (2) prominent room microphones placed 15-20 feet from the kit, blended with close mics to create the cavernous ambience; (3) gated reverb on the snare, which allows a brief reverb bloom after each hit before snapping shut — the same technique used on John Bonham's "When the Levee Breaks." Maple shells (warmer than birch) and a deep bass drum reinforced the low-end weight. Replicating this sound requires low tuning, room mics, and gated snare reverb.
+
+**Q: What snare did Lars Ulrich use in 1991 on the Black Album?**
+
+A: Lars used a Tama prototype snare on The Black Album — a steel-shell drum that preceded and directly influenced the production LU1465 Lars Ulrich Signature snare released later. The snare measures 14" x 6.5" and was tuned considerably lower than the tight, high-tension snare Lars used on ...And Justice for All. Bob Rock pushed Lars to loosen the batter head to create the fat, boomy crack heard on "Sad But True." A Remo Powerstroke 3 Coated batter head was used. The prototype snare's DNA lives on in the LU1465, which remains available today.
+
+**Q: How is the Black Album kit different from the Master of Puppets or Justice setup?**
+
+A: Each Metallica album used a distinct kit. Master of Puppets (1986): Camco Oaklawn Badge maple with Ludwig Supraphonic snare — pre-Tama endorsement, vintage equipment, high tuning. ...And Justice for All (1988): Tama Artstar II birch shells, high-tension steel snare, dry production, close mics only. The Black Album (1991): Tama Artist Maple shells (warmer than birch), prototype LU1465 snare tuned much lower, Bob Rock's room mics and gated reverb, groove-focused production. The progression shows Lars moving from raw thrash aggression through dry technical playing to warm, roomy groove. Gear, tuning, and production philosophy changed significantly each time.
+
+**Q: Did Lars Ulrich use double bass on The Black Album?**
+
+A: Yes, but sparingly compared to the Justice era. Lars used a Tama Iron Cobra double pedal on a single 22" bass drum. The double pedal is most prominent on "Wherever I May Roam" and sections of "Enter Sandman" and "The God That Failed." However, Bob Rock steered Lars toward single bass drum patterns on most tracks — the groove-first philosophy favored simplicity and feel. The absence of constant double bass on songs like "Sad But True" and "Nothing Else Matters" was a deliberate production choice, not a technical limitation.
+
 **Source:** https://metalforge.io/articles/black-album-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

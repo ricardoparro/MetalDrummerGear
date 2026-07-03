@@ -80,8 +80,22 @@ Paul's cymbal placement and selection remained remarkably consistent throughout 
 - Estimated kit value: $4,000-7,000 (DW Collector's Series complete kit)
 - Estimated snare value: $500-700 (DW Collector's Maple Snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Paul Bostaph use with Slayer?**
+
+A: Paul Bostaph plays a DW Collector's Series Maple/Mahogany kit configured with dual 22x18 inch bass drums for live performance, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The maple/mahogany hybrid shells produce a warm, powerful tone with strong low-end projection suited to Slayer's dense, aggressive sound. He uses a DW Collector's Maple snare at 14x6.5 inches, adding a full, resonant crack that cuts through the band's wall of guitars.
+
+**Q: What cymbals does Paul Bostaph use with Slayer?**
+
+A: Paul Bostaph plays Paiste RUDE cymbals, one of the most aggressive and durable series in the Paiste lineup. His setup includes RUDE 14 inch hi-hats, RUDE 17 to 19 inch Crashes, a RUDE 20 inch Ride, and a RUDE 18 inch China. The RUDE series is engineered for extreme volume and maximum attack, making it ideally suited to Slayer's relentless live environment. The series' raw, unprocessed tone has long been a hallmark of thrash and death metal drumming.
+
+**Q: How much does Paul Bostaph's Slayer drum kit cost?**
+
+A: Paul Bostaph's DW Collector's Series Maple/Mahogany shell pack is estimated at $4,000 to $7,000 depending on finish and configuration. His DW Collector's Maple snare adds $500 to $700. A full Paiste RUDE cymbal setup matching his configuration runs approximately $1,500 to $2,500. A complete replica of his rig would cost between $6,000 and $10,000, reflecting DW's premium positioning in the drum market.
+
 **Source:** https://metalforge.io/articles/whats-in-paul-bostaphs-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

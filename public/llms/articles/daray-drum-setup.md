@@ -64,8 +64,22 @@ The 2002 China completes the setup with a trash-attack accent piece for aggressi
 - Estimated kit value: $3,500–6,000 (Pearl Reference Pure shell pack)
 - Estimated snare value: $350–550 (Pearl Reference brass snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Daray use?**
+
+A: Daray plays a Pearl Reference Pure drum kit in custom black finish. The Reference Pure is Pearl's flagship shell series — multi-ply maple/birch hybrid construction built to tight tolerances for consistent resonance characteristics across all drums in the kit. His setup includes a double kick configuration for the sustained double-bass patterns required in both Dimmu Borgir's symphonic black metal and his earlier death metal work with Vader and Vesania. The kit also runs trigger-assisted drums for added precision when performing against live orchestra.
+
+**Q: What cymbals does Daray play?**
+
+A: Daray plays Paiste cymbals, combining the RUDE and 2002 series. His setup includes 15" Paiste Sound Edge Hi-Hats, Paiste RUDE and 2002 crash cymbals (16" and 18"), a 22" Paiste RUDE Power Ride, and a Paiste 2002 China. The RUDE series was designed for maximum projection and physical durability under high-impact playing — characteristics well-suited to Dimmu Borgir's festival-scale live shows. The Sound Edge Hi-Hats produce a more open, shimmering character when partially open, integrating effectively with Dimmu Borgir's orchestral and keyboard arrangements.
+
+**Q: How long has Daray been Dimmu Borgir's drummer?**
+
+A: Daray joined Dimmu Borgir in 2008, replacing legendary Norwegian drummer Hellhammer. He has been the band's drummer for over 15 years as of 2024, recording studio albums Abrahadabra (2010) and Eonian (2018) and the live orchestral release Forces of the Northern Night (2017). During his tenure he simultaneously served as Vader's drummer (2006–2016), recording Welcome to the Morbid Reich (2011) and Tibi et Igni (2014) with the Polish death metal band, and has maintained his long-running role in Vesania throughout.
+
 **Source:** https://metalforge.io/articles/daray-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

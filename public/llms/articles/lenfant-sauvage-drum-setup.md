@@ -78,8 +78,22 @@ The 21" Byzance Brilliant Ride has a clear, defined bell that Mario exploits for
 - Estimated kit value: $5,500-8,000 (DW Collector's Series, 2012 configuration)
 - Estimated snare value: $600-900 (DW Collector's Series maple snare)
 
+## Frequently Asked Questions
+
+**Q: What drums did Mario Duplantier use on L'Enfant Sauvage?**
+
+A: On L'Enfant Sauvage (2012), Mario Duplantier played a DW Collector's Series maple kit in a Custom Lacquer Black Burst finish. The configuration included dual 22" x 18" bass drums (played as two independent instruments, not a double pedal), 10" and 12" rack toms, and 14" and 16" floor toms. This was a significant departure from his earlier Tama Starclassic Bubinga setup used on The Way of All Flesh — the DW maple shells deliver a cleaner, more defined attack suited to the album's more produced sound.
+
+**Q: What cymbals does Mario Duplantier play on L'Enfant Sauvage?**
+
+A: Mario Duplantier switched to Meinl Byzance Brilliant cymbals for L'Enfant Sauvage, replacing the Zildjian K Custom series he had used on earlier Gojira albums. His setup included 14" Byzance Brilliant hi-hats, crashes in 17", 19", and 20" sizes, a 21" Byzance Brilliant ride, and an 18" Byzance Brilliant china. The Brilliant finish — a mirror-polished surface — adds brightness and projection compared to the darker, more complex Zildjian K Custom character, contributing to the album's more articulate upper-frequency texture.
+
+**Q: Was L'Enfant Sauvage Grammy nominated?**
+
+A: Yes. Gojira received a Grammy nomination for Best Hard Rock/Metal Performance at the 2013 Grammy Awards for the title track 'L'Enfant Sauvage.' This was a landmark achievement for a French progressive death metal band and confirmed the album's crossover appeal. The band also appeared on the cover of Guitar World magazine during this album cycle — extraordinary mainstream recognition for an uncompromising heavy metal act.
+
 **Source:** https://metalforge.io/articles/lenfant-sauvage-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

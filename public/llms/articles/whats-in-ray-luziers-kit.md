@@ -75,8 +75,30 @@ The AAXtreme China is Luzier's accent exclamation point: a raw, aggressive instr
 - Estimated kit value: $3,000–5,500 (Pearl Masters Maple Complete shell pack)
 - Estimated snare value: $500–700 (Pearl Reference brass snare)
 
+## Frequently Asked Questions
+
+**Q: What drums does Ray Luzier use?**
+
+A: Ray Luzier plays Pearl Masters Maple Complete drums with Korn. The Masters Maple Complete features all-maple shell construction across every ply, delivering the focused attack and balanced tone needed to cut through Korn's dense, seven-string guitar-driven mix. His kit is configured with double 22" bass drums and a five-tom spread, giving him the range for Korn's groove-heavy arrangements and melodic fills.
+
+**Q: What cymbals does Ray Luzier play?**
+
+A: Ray Luzier plays Sabian AAX cymbals. His setup includes Sabian AAX 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China. The AAX series' bright, fast-responding character is ideal for Korn's dense live mix — cymbals that cut through wall-of-sound production and decay quickly without smearing the groove.
+
+**Q: What pedals does Ray Luzier use?**
+
+A: Ray Luzier uses the Pearl Demon Drive double bass pedal. Unlike chain-drive or belt-drive pedals, the Demon Drive uses a direct-drive design — the footboard connects directly to the beater shaft with no intermediate mechanism. This provides immediate, 1:1 response that Luzier relies on for Korn's groove-oriented double-kick patterns, where feel and consistency are more important than maximum burst speed.
+
+**Q: What drumsticks does Ray Luzier use?**
+
+A: Ray Luzier plays Promark Ray Luzier Signature TX420X drumsticks. The TX420X is a custom Promark model developed with Luzier for Korn's demanding live and studio contexts. It features a nylon tip for consistent, bright cymbal articulation and a taper balanced for power and control — enough mass to project through Korn's mix, with enough precision for nuanced groove work.
+
+**Q: When did Ray Luzier join Korn?**
+
+A: Ray Luzier began touring with Korn in 2007 following the departure of founding drummer David Silveria. He initially joined as a touring drummer and was later confirmed as an official band member. His first full studio album with Korn was Korn III: Remember Who You Are (2010), produced by Ross Robinson — the same producer who helmed Korn's influential debut. Luzier has recorded four studio albums with the band and has toured extensively worldwide.
+
 **Source:** https://metalforge.io/articles/whats-in-ray-luziers-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -85,8 +85,22 @@ The 2002 18" China provides the trashy, explosive accents that punctuate thrash 
 - Estimated kit value: $5,000-7,000 (Starclassic Maple configuration)
 - Estimated snare value: $400-500 (Signature snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Charlie Benante use in Anthrax?**
+
+A: Charlie Benante plays a Tama Starclassic Maple kit configured with dual 22x18 inch bass drums, 10, 12, and 13 inch rack toms, and 14 and 16 inch floor toms. The shells are all-maple and mounted using Tama's Star-Cast system, which minimizes shell contact for better resonance. He also uses his own signature Tama snare, a 14x6.5 inch model designed to cut through the dense, fast riffing that defines Anthrax's sound.
+
+**Q: What cymbals does Charlie Benante use in Anthrax?**
+
+A: Charlie Benante uses a mixed Paiste setup drawing from the 2002, Signature, and RUDE series. His setup includes Paiste 2002 14 inch Sound Edge hi-hats, a Signature 16 inch Fast Crash, a 2002 18 inch and 22 inch Heavy Ride, a RUDE 19 inch Crash/Ride, a 2002 18 inch China, and a 2002 10 inch Splash. The combination of these series gives him both aggressive attack and nuanced tonal variation across his setup.
+
+**Q: How much does Charlie Benante's Anthrax drum kit cost?**
+
+A: Charlie Benante's current Tama Starclassic Maple kit runs approximately $5,000 to $7,000 depending on configuration and finish. His signature Tama snare adds another $400 to $500. The Paiste cymbal setup, mixing 2002, Signature, and RUDE pieces, can add $2,000 to $4,000 or more. All in, replicating his full rig would likely cost between $8,000 and $12,000 for a professional-grade build.
+
 **Source:** https://metalforge.io/articles/whats-in-charlie-benantes-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

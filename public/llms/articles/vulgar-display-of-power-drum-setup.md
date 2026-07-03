@@ -71,8 +71,22 @@ The 20" China provided the trashy explosions that punctuated songs like "Fucking
 - Estimated kit value: $4,000-6,000 (1992) / $8,000-12,000 (signature editions today)
 - Estimated snare value: $400-600 (1992) / $500-700 (signature model today)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Vinnie Paul use on Vulgar Display of Power?**
+
+A: Vinnie Paul recorded Vulgar Display of Power in 1992 on a ddrum Custom kit, a precursor to his later Vinnie Paul Signature model. The setup featured maple and birch hybrid shells with two massive 24x18 inch bass drums, four rack toms ranging from 8 to 13 inches, and 16x16 and 18x18 inch floor toms. His snare was a custom ddrum steel prototype at 14x8 inches, contributing the massive, deep crack that became a hallmark of Pantera's sound.
+
+**Q: What cymbals did Vinnie Paul use on Vulgar Display of Power?**
+
+A: Vinnie Paul used Sabian AA and AAX Series cymbals on Vulgar Display of Power. His setup included Sabian AA 14 inch Regular Hats, AA 16 and 18 inch Medium Crashes, an AAX 19 inch Metal Crash, an AA 22 inch Heavy Ride, and an AA 20 inch Chinese. The combination of AA and AAX series gave Vinnie a range of tones from warm and full to bright and cutting, matching the dynamic range of Pantera's heaviest record.
+
+**Q: How much does Vinnie Paul's Vulgar Display of Power kit cost?**
+
+A: Vinnie Paul's custom ddrum setup cost an estimated $4,000 to $6,000 in 1992. Modern ddrum Vinnie Paul Signature edition kits, which carry his legacy configuration, now range from $8,000 to $12,000. The custom 14x8 inch steel snare would add another $400 to $600 for a comparable piece today. Sabian AA and AAX cymbals remain widely available, with full setups similar to Vinnie's running between $1,500 and $2,500 new.
+
 **Source:** https://metalforge.io/articles/vulgar-display-of-power-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

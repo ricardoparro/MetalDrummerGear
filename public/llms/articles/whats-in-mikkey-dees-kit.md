@@ -103,8 +103,22 @@ Playing at Motörhead volumes meant destroying cymbals faster than most drummers
 - Estimated kit value: $4,000-7,000 (professional Yamaha kits)
 - Estimated snare value: $500-800 (professional metal snares)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Mikkey Dee use with Motörhead and Scorpions?**
+
+A: Mikkey Dee plays Yamaha Recording Custom and Oak Custom kits. His setup features a large 24x18 inch bass drum, rack toms in 10, 12, and 13 inch sizes, and 16 and 18 inch floor toms. The Recording Custom uses birch shells for a tight, punchy sound, while the Oak Custom variant adds warmth and low-end depth. The large bass drum is central to his powerful, driving style suited to hard rock and heavy metal.
+
+**Q: What cymbals does Mikkey Dee use with Motörhead and Scorpions?**
+
+A: Mikkey Dee plays Zildjian A Custom and K Custom cymbals. His setup includes 15 inch A New Beat hi-hats, A Custom crashes in 18 and 20 inch sizes, a 22 inch A Custom Medium Ride, an 18 inch A Custom China, and a 10 inch A Custom splash. The A Custom series provides the bright, articulate response that cuts through the high-volume environments typical of Motörhead and Scorpions performances.
+
+**Q: How much does Mikkey Dee's drum kit cost?**
+
+A: A Yamaha Recording Custom shell pack in Mikkey Dee's configuration currently retails between $4,000 and $7,000 depending on finish and configuration. The Yamaha Recording Custom Aluminum or Brass snare adds $500 to $800. A matching Zildjian A Custom and K Custom cymbal package can bring the total investment to $10,000 to $14,000, making it a serious professional setup appropriate for touring and studio work.
+
 **Source:** https://metalforge.io/articles/whats-in-mikkey-dees-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

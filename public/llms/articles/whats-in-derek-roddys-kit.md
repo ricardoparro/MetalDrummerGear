@@ -81,8 +81,22 @@ The China cymbal adds aggression without overwhelming sustain. Positioned for qu
 - Estimated kit value: $4,000-6,000 (Collector's Series configuration)
 - Estimated snare value: $600-800
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Derek Roddy use?**
+
+A: Derek Roddy plays a DW Collector's Series Maple kit built with North American Hard Rock Maple shells. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The DW Collector's Series is DW's flagship professional line, known for its consistent shell quality and wide customization options, making it a go-to choice for extreme metal drummers who demand both speed response and tonal depth.
+
+**Q: What cymbals does Derek Roddy use?**
+
+A: Derek Roddy uses Sabian HHX and AAX series cymbals. His setup includes Sabian HHX 14 inch Stage Hi-Hats, Sabian AAX 18 and 19 inch X-Plosion Crashes, a Sabian HHX 21 inch Raw Bell Dry Ride, a Sabian AAX 19 inch Chinese, and a Sabian AAX 10 inch Splash. The HHX series delivers a darker, more complex wash while the AAX pieces cut through dense metal mixes with focused projection.
+
+**Q: How much does Derek Roddy's drum kit cost?**
+
+A: Derek Roddy's DW Collector's Series Maple shell pack is estimated at $4,000 to $6,000 new. His DW Collector's Series snare in maple or brass adds approximately $600 to $800. The Sabian HHX and AAX cymbal setup runs roughly $1,500 to $2,500 complete. A full comparable setup including hardware and pedals can total between $8,000 and $12,000.
+
 **Source:** https://metalforge.io/articles/whats-in-derek-roddys-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -69,8 +69,26 @@ Multiple crash configurations allowed Ilejay to match the dynamic scale of A7X's
 - Estimated kit value: $4,500–8,000 (DW Collector's Series shell pack with hardware)
 - Estimated snare value: $350–700 (DW Collector's snare, depending on shell material)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Arin Ilejay use?**
+
+A: Arin Ilejay plays a DW Collector's Series drum kit. The Collector's Series is DW's flagship production lineup, built from North American Hard Rock Maple shells with precision-machined bearing edges that maximize attack and fundamental frequency response — essential for arena-scale heavy metal projection. His live A7X configuration ran double 22" x 18" bass drums (for double-kick capability across A7X's full catalogue), three rack toms (10", 12", 14"), and two floor toms (16", 18"). The large kit matched both the visual scale and sonic demands of Avenged Sevenfold's arena and festival performances. For Arin Ilejay's full career profile and gear details, see [Arin Ilejay at MetalForge](/drummer/arin-ilejay).
+
+**Q: What cymbals does Arin Ilejay play?**
+
+A: Arin Ilejay plays Zildjian A Custom cymbals. His A7X setup included Zildjian A Custom 14" hi-hats, 16" and 18" crashes, a 19" crash for major accents, a 20" Ping ride, and an A Custom China cymbal. The A Custom series — B20 bronze, computer-guided lathing — produces a bright, cutting voice that projects clearly in arena environments over A7X's dense guitar frequencies. Zildjian A Custom is among the most widely used cymbal series in mainstream heavy metal because of its consistency and cutting attack. For more on who plays Zildjian A Custom, see [Zildjian A Custom at MetalForge](/gear/zildjian) and [Avenged Sevenfold at MetalForge](/bands/avenged-sevenfold).
+
+**Q: What drum setup did Arin Ilejay use on Nightmare?**
+
+A: Arin Ilejay did not play on the Avenged Sevenfold Nightmare album (2010). The Nightmare album was recorded with Dream Theater's Mike Portnoy as a tribute performance following the death of founding A7X drummer Jimmy "The Rev" Sullivan in December 2009. Ilejay joined Avenged Sevenfold in 2011 as the permanent replacement, after Portnoy's tenure ended. The only Avenged Sevenfold studio album Arin Ilejay recorded is Hail to the King (2013). His studio setup for that album was a DW Collector's Series kit, Zildjian A Custom cymbals, and DW 9000 double bass pedal. For the complete A7X drummer history, see [Avenged Sevenfold at MetalForge](/bands/avenged-sevenfold).
+
+**Q: What pedals does Arin Ilejay use?**
+
+A: Arin Ilejay uses the DW 9000 double bass pedal. The DW 9000 is DW's touring-grade double kick pedal, used for its smooth cam action and field-replaceable components that maintain consistent performance across extended world tour schedules. For A7X's touring demands — 200+ shows per year across arenas and major festivals — hardware consistency is a practical requirement. The 9000's fluid response suited Ilejay's classic metal double-kick approach: galloping rhythms, four-on-the-floor sections, and the occasional rapid double bass passage that Hail to the King's arrangements required. See [Arin Ilejay's full profile at MetalForge](/drummer/arin-ilejay) for complete gear specs.
+
 **Source:** https://metalforge.io/articles/arin-ilejay-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

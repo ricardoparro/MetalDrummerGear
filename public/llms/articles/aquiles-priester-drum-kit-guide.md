@@ -72,8 +72,30 @@ The 18" China provides the aggressive, trashy accents that punctuate Angra's hea
 - Estimated kit value: $8,000–15,000 (custom Trick Drums configuration, shells only)
 - Estimated snare value: $800–1,500 (custom snare model)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Aquiles Priester use?**
+
+A: Aquiles Priester currently plays a Trick Drums custom kit for Angra touring and recording. His configuration includes 22" bass drums in a double-bass setup, rack toms from 10" to 13", and floor toms at 16" and 18". Earlier in his career he played Mapex Saturn Series drums (the kit used on Rebirth and Temple of Shadows) and later Pearl Reference Series kits during his W.A.S.P. years.
+
+**Q: What cymbals does Aquiles Priester play?**
+
+A: Aquiles Priester currently endorses and plays Ufip cymbals — an Italian brand known for their traditional rotocasting process and warm, projecting tone. His current setup includes 14" hi-hats, a range of crashes (16", 18", 20"), a 21" ride, an 18" China, and splash cymbals. In earlier eras he played Sabian HHX and later Meinl Byzance cymbals during his Pearl endorsement period.
+
+**Q: What pedals does Aquiles Priester use?**
+
+A: Aquiles Priester currently uses the DW 9000 Series double pedal. The DW 9000's ball-bearing cam system and fully adjustable spring tension make it one of the most precise production pedals available — critical for the sustained 180–220+ BPM double-bass patterns that define his playing. Earlier in his career he was associated with the Axis A double pedal, known for its extremely light and fast action.
+
+**Q: How fast is Aquiles Priester's double bass?**
+
+A: Aquiles Priester plays sustained double-bass patterns at 180–220+ BPM with consistent evenness. "Spread Your Fire" from Temple of Shadows runs at approximately 182 BPM with continuous 16th-note kick patterns. His technique prioritizes evenness over raw speed — a slightly slower pattern with perfect consistency is his stated goal over a faster but uneven one.
+
+**Q: What is Aquiles Priester's approach to drum tuning for Brazilian metal?**
+
+A: Priester tunes his kit for outdoor festival projection — the dominant live context on the South American touring circuit. Toms are tuned for clear pitch differentiation and volume; kick drums use moderate muffling to emphasize attack without over-damping the fundamental tone. For studio work he adjusts tuning and head selection to match the room and the arrangement, working closely with engineers to capture the warmth and attack balance that characterizes Angra's recorded sound.
+
 **Source:** https://metalforge.io/articles/aquiles-priester-drum-kit-guide
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

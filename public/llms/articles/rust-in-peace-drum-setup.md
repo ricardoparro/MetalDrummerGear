@@ -73,8 +73,22 @@ The China cymbal was crucial for Megadeth's aggressive accents. The trashy, cutt
 - Estimated kit value: $3,000-4,500 (1990)
 - Estimated snare value: $350-450 (1990) / $600-900 (vintage today)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Nick Menza use on Rust in Peace?**
+
+A: Nick Menza played a Tama Artstar II kit on Rust in Peace, recorded in 1990. The setup featured twin 22x16 inch bass drums, rack toms in 10, 12, and 13 inch sizes, and 16 and 18 inch floor toms. All shells were birch with die-cast hoops, giving the kit a tight, punchy attack that cut through Megadeth's aggressive riff-driven arrangements on that album.
+
+**Q: What cymbals did Nick Menza use on Rust in Peace?**
+
+A: Nick Menza used Zildjian A Custom and A Series cymbals on Rust in Peace. His setup included 14 inch A Custom hi-hats, A Custom crashes ranging from 16 to 19 inches, a 20 inch A Custom Medium Ride, an 18 inch A China Boy High for aggressive accents, and a 10 inch A Custom splash. The A Custom series delivered the bright, cutting tone heard throughout the record.
+
+**Q: How much does Nick Menza's Rust in Peace kit cost?**
+
+A: At the time of recording in 1990, the Tama Artstar II kit was valued at approximately $3,000 to $4,500 new. Today, a vintage Tama Artstar II in good condition can fetch $4,000 to $7,000 depending on configuration and condition. The Tama Artstar II Bell Brass snare he used, originally $350 to $450, now commands $600 to $900 or more on the vintage market.
+
 **Source:** https://metalforge.io/articles/rust-in-peace-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

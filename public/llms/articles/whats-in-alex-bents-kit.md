@@ -67,8 +67,22 @@ The 14" Medium Hi-Hats struck a balance between heaviness for chick work and res
 - Estimated kit value: $5,000-8,000 (Pearl Reference Series configuration)
 - Estimated snare value: $500-700
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Alex Bent use with Trivium?**
+
+A: Alex Bent plays a Pearl Reference Series kit in a double bass configuration, featuring two 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Reference Series shells use a maple and birch hybrid construction that delivers a punchy attack with controlled sustain. This setup gives Bent the tonal versatility to move between Trivium's melodic passages and aggressive thrash-influenced sections without sacrificing clarity or power.
+
+**Q: What cymbals does Alex Bent use with Trivium?**
+
+A: Alex Bent uses Meinl Byzance Brilliant series cymbals throughout his kit. His setup includes Byzance Brilliant 14 inch Medium Hi-Hats, Byzance Brilliant crashes from 16 to 19 inches, a Byzance Brilliant 21 inch Medium Ride, a Byzance Brilliant 18 inch China, and a Byzance Brilliant 10 inch Splash. The Brilliant finish adds extra shimmer and projection, complementing Trivium's polished, radio-friendly metal production style while maintaining articulation at high tempos.
+
+**Q: How much does Alex Bent's Trivium drum kit cost?**
+
+A: Alex Bent's Pearl Reference Series shell pack in a double bass setup is estimated at $5,000 to $8,000 new. His Pearl Reference snare adds approximately $500 to $700. The full Meinl Byzance Brilliant cymbal setup including all crashes, ride, hi-hats, china, and splash can run $2,000 to $3,500. With hardware, double bass pedal, and accessories, a complete comparable setup runs approximately $10,000 to $15,000.
+
 **Source:** https://metalforge.io/articles/whats-in-alex-bents-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

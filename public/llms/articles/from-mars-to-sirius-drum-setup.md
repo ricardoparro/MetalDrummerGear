@@ -71,8 +71,22 @@ The 18" China provided the aggressive, trashy accents that punctuated breakdowns
 - Estimated kit value: $3,000-4,500 (2005)
 - Estimated snare value: $300-400 (2005)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Mario Duplantier use on From Mars to Sirius?**
+
+A: Mario Duplantier recorded Gojira's From Mars to Sirius in 2005 on a Tama Starclassic Performer kit. The setup featured dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms, all built with birch and bubinga hybrid shells. This shell combination gave the kit a punchy, controlled low end that complemented Gojira's groove-heavy, rhythmically precise approach to technical death metal.
+
+**Q: What cymbals did Mario Duplantier use on From Mars to Sirius?**
+
+A: Mario Duplantier used Zildjian K Custom and K series cymbals on From Mars to Sirius. His setup included K Custom 14 inch Dark hi-hats, K Custom crashes ranging from 17 to 20 inches, a K Custom 22 inch Dark Ride, and an A Custom 18 inch China. The K Custom Dark series is known for its warm, dry, and complex tonal character, which suits the atmospheric and groove-driven dynamics that define Gojira's sound on this landmark album.
+
+**Q: How much did Mario Duplantier's From Mars to Sirius drum kit cost?**
+
+A: At the time of recording in 2005, the Tama Starclassic Performer kit was estimated at $3,000 to $4,500, with the Tama S.L.P. G-Maple snare adding $300 to $400. The Zildjian K Custom cymbal setup would have run approximately $1,500 to $2,500. Today, used Starclassic Performer kits from that era can be found for $1,500 to $2,500 on the vintage market, making this a more accessible setup to replicate.
+
 **Source:** https://metalforge.io/articles/from-mars-to-sirius-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

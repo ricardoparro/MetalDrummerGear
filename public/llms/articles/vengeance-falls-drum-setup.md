@@ -22,7 +22,6 @@ This article documents the drum gear Nick Augusto used on "Vengeance Falls": the
 - **Drums:** Tama Tama Starclassic Performer B/B (Custom finish finish)
 - **Snare:** Tama Tama S.L.P. Steel Snare, 14" x 6.5"
 - **Cymbals:** Meinl — Meinl MB20 and Classics Custom Series
-- **Hardware / Pedals:** Tama Iron Cobra 900 Double Bass Pedal
 - **Heads:** Evans Genera Dry (batter), Evans 300 Snare Side (resonant)
 - **Snare tuning:** Medium — more body and less top-end attack than the In Waves-era tuning
 
@@ -63,32 +62,30 @@ With "Vengeance Falls" leaning less on blast-adjacent speed than "In Waves" and 
 - Estimated kit value: $2,900–3,900 (2013) / $1,600–2,300 (used today)
 - Estimated snare value: $180–240 (2013)
 
-## FAQ
+## Frequently Asked Questions
 
-**What drum kit did Nick Augusto use on Vengeance Falls?**
-On Trivium's Vengeance Falls (2013), Nick Augusto played the same Tama Starclassic Performer B/B kit he used on "In Waves" — birch/bubinga hybrid shells in a custom finish, with a 22" bass drum, two rack toms (10", 12"), and two floor toms (14", 16"). The equipment didn't change between albums; producer David Draiman instead shaped a warmer, more sustained drum tone through tuning and mix processing.
+**Q: What drum kit did Nick Augusto use on Vengeance Falls?**
 
-**How did David Draiman's production affect the drum sound on Vengeance Falls?**
-David Draiman — lead vocalist of Disturbed and Device, producing for the first time in his career — pushed Trivium's drum sound toward a warmer, more rock-radio character on Vengeance Falls. Compared to Jason Suecof's dry, punchy production on "In Waves," Draiman favored more body and sustain in Nick Augusto's snare and kit tuning, with less emphasis on the sharpest possible transient attack. The equipment stayed identical to "In Waves" — the change was entirely in tuning, mic technique, and mix processing at Draiman's own DMD Productions studio in Austin, Texas.
+A: On Trivium's Vengeance Falls (2013), Nick Augusto played the same Tama Starclassic Performer B/B kit he used on "In Waves" — birch/bubinga hybrid shells in a custom finish, with a 22" bass drum, two rack toms (10", 12"), and two floor toms (14", 16"). The equipment didn't change between albums; producer David Draiman instead shaped a warmer, more sustained drum tone through tuning and mix processing. For full drummer profile details, see [Nick Augusto at MetalForge](/drummer/nick-augusto).
 
-**How much would Nick Augusto's Vengeance Falls drum kit cost today?**
-Nick Augusto's full Vengeance Falls-era setup — the Tama Starclassic Performer B/B kit, Tama S.L.P. steel snare, Meinl MB20/Classics Custom cymbal package, and Tama Iron Cobra 900 double bass pedal — carried a combined estimated value of roughly $5,400–7,100 at 2013 retail pricing. Buying equivalent gear used today would run approximately $2,300–3,300, with the Starclassic kit itself accounting for the largest share at $1,600–2,300 used.
+**Q: How did David Draiman's production affect the drum sound on Vengeance Falls?**
 
-**Is Vengeance Falls heavier or more technical than Shogun?**
-Neither — the two albums pursue different goals. Shogun (2008) is Trivium's most technically demanding record, built around extended, multi-part compositions like the 11:39 title track. Vengeance Falls (2013) is deliberately more direct: every track on the standard edition runs under six minutes, and Nick Augusto's playing prioritizes locked-in groove and pocket over technical display. It's a heavier, more song-focused record rather than a more technical one.
+A: David Draiman — lead vocalist of Disturbed and Device, producing for the first time in his career — pushed Trivium's drum sound toward a warmer, more rock-radio character on Vengeance Falls. Compared to Jason Suecof's dry, punchy production on "In Waves," Draiman favored more body and sustain in Nick Augusto's snare and kit tuning, with less emphasis on the sharpest possible transient attack. The equipment stayed identical to "In Waves" — the change was entirely in tuning, mic technique, and mix processing at Draiman's own DMD Productions studio in Austin, Texas. For the earlier, drier-sounding album, see the [Nick Augusto drum setup at MetalForge](/articles/nick-augusto-drum-setup).
 
-**Where did Vengeance Falls chart, and what were the singles?**
-Vengeance Falls debuted at #15 on the US Billboard 200 and reached #23 on the UK Albums Chart, also charting in the top 10 in Australia, Germany, and Canada. The album was led by the singles "Brave This Storm" and "Strife," with "Through Blood and Dirt and Bone" and "Villainy Thrives" released as later singles in 2014. It was Nick Augusto's final studio album with Trivium before his departure in May 2014.
+**Q: How much would Nick Augusto's Vengeance Falls drum kit cost today?**
 
-## Related Albums
+A: Nick Augusto's full Vengeance Falls-era setup — the Tama Starclassic Performer B/B kit, Tama S.L.P. steel snare, Meinl MB20/Classics Custom cymbal package, and Tama Iron Cobra 900 double bass pedal — carried a combined estimated value of roughly $5,400–7,100 at 2013 retail pricing. Buying equivalent gear used today would run approximately $2,300–3,300, with the Starclassic kit itself accounting for the largest share at $1,600–2,300 used.
 
-- [Shogun drum setup](/articles/shogun-drum-setup) — 2008, Nick Augusto's technical peak with Trivium
-- [Nick Augusto drum setup](/articles/nick-augusto-drum-setup) — full In Waves / Vengeance Falls era gear breakdown
-- [The Sin and the Sentence drum setup](/articles/trivium-sin-and-the-sentence-drum-setup) — 2017, the next chapter of Trivium's drumming lineage
-- [Double-bass drumming for metal](/articles/double-bass-drumming-for-metal) — technique context for Augusto's double-kick approach
+**Q: Is Vengeance Falls heavier or more technical than Shogun?**
+
+A: Neither — the two albums pursue different goals. Shogun (2008) is Trivium's most technically demanding record, built around extended, multi-part compositions like the 11:39 title track. Vengeance Falls (2013) is deliberately more direct: every track on the standard edition runs under six minutes, and Nick Augusto's playing prioritizes locked-in groove and pocket over technical display. It's a heavier, more song-focused record rather than a more technical one. See the [Shogun drum setup article](/articles/shogun-drum-setup) for the technical high-water mark of Augusto's Trivium tenure.
+
+**Q: Where did Vengeance Falls chart, and what were the singles?**
+
+A: Vengeance Falls debuted at #15 on the US Billboard 200 and reached #23 on the UK Albums Chart, also charting in the top 10 in Australia, Germany, and Canada. The album was led by the singles "Brave This Storm" and "Strife," with "Through Blood and Dirt and Bone" and "Villainy Thrives" released as later singles in 2014. It was Nick Augusto's final studio album with Trivium before his departure in May 2014.
 
 **Source:** https://metalforge.io/articles/vengeance-falls-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

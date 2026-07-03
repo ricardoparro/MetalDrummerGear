@@ -72,8 +72,30 @@ The China cymbal was already a fixture of Lombardo's vocabulary from the start. 
 - Estimated kit value: $600-900 (1983)
 - Estimated snare value: $80-120 (1983)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Dave Lombardo use on Show No Mercy?**
+
+A: Dave Lombardo recorded Show No Mercy in 1983 on a Ludwig kit with a double bass configuration — two 22-inch bass drums, 12-inch and 13-inch rack toms, and a 16-inch floor tom. This was a pre-endorsement setup: no corporate deal, just the drums he could source independently. The Ludwig poplar/maple shells gave the kit a brighter, rawer tone than the Tama Artstar II birch setup he would use on Reign in Blood three years later.
+
+**Q: How old was Dave Lombardo when he recorded Show No Mercy?**
+
+A: Dave Lombardo was 19 years old when Slayer recorded Show No Mercy in 1983. Born on February 16, 1964, he was a teenager when he helped invent thrash metal on Slayer's debut album. The raw, slightly imprecise quality of his performance — no click track, budget studio, pure adrenaline — is part of what makes the recording historically significant. By the time of Reign in Blood in 1986, he had transformed into one of metal's most precise drummers.
+
+**Q: What cymbals did Dave Lombardo use on Show No Mercy?**
+
+A: Dave Lombardo used Zildjian A Series cymbals on Show No Mercy — a complete change from the Paiste setup he would later be associated with on Reign in Blood. His configuration included Zildjian A 14-inch New Beat Hi-Hats, a 16-inch Medium Thin Crash, an 18-inch Medium Crash, a 20-inch Medium Ride, and an 18-inch China Boy High. The China cymbal was already part of his vocabulary from the start, and it remained a fixture of his playing across the entire Slayer catalog.
+
+**Q: How was Show No Mercy recorded?**
+
+A: Show No Mercy was self-produced by Slayer at Track Recording Studio in Torrance, California in 1983. The total budget was approximately $8,000. No click track was used — Lombardo played to the band, which is why the tempos breathe and surge throughout the album. The microphone setup was utilitarian given the budget, and the mix reflects the dense, guitar-forward aesthetic common to underground metal recordings of the era. The production rawness is a feature, not a flaw: it captures thrash metal at the moment of invention.
+
+**Q: How does Dave Lombardo's Show No Mercy drum setup compare to Reign in Blood?**
+
+A: The contrast between the two setups traces Lombardo's entire developmental arc. On Show No Mercy (1983), he played a budget Ludwig kit with Zildjian A cymbals, recorded for $8,000 with no professional producer. On Reign in Blood (1986), he used a Tama Artstar II with Paiste 2002 and RUDE cymbals, recorded by Rick Rubin at a professional Hollywood studio. The playing evolved too: Show No Mercy has human tempo surges and raw energy; Reign in Blood delivers the same speeds with machine-like precision. Together they document one of metal's most dramatic three-year developments.
+
 **Source:** https://metalforge.io/articles/show-no-mercy-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -83,8 +83,22 @@ These cymbals have influenced an entire generation of drummers who now seek drie
 - Estimated kit value: $6,000-9,000 (custom SQ2 kit)
 - Estimated snare value: $600-900 (Gavin Harrison Signature Snares)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Gavin Harrison use for his prog metal work?**
+
+A: Gavin Harrison plays a Sonor SQ2 Series kit, one of Sonor's most customizable professional lines. His setup includes a 22x17 inch bass drum, 10 and 12 inch toms, and floor toms at 14x13 and 16x15 inches. The premium maple shells with thin construction give the SQ2 exceptional resonance and dynamic sensitivity, which supports Harrison's intricate polyrhythmic playing with Porcupine Tree and King Crimson.
+
+**Q: What cymbals does Gavin Harrison use for his prog metal work?**
+
+A: Gavin Harrison is closely associated with the Zildjian K Custom Special Dry line. His setup includes 14 inch K Custom Special Dry hi-hats, 16 and 18 inch K Custom Special Dry crashes, a 21 inch K Custom Special Dry Ride, and an 18 inch K Custom Trash China. The Special Dry series is known for its low overtones and quick decay, which allows Harrison's complex patterns to remain clear and articulate at any tempo.
+
+**Q: How much does Gavin Harrison's prog kit cost?**
+
+A: The Sonor SQ2 Series is a fully custom-order kit with pricing that typically falls between $6,000 and $9,000 for the shell pack, depending on wood choice, finish, and configuration. His Sonor Gavin Harrison signature snares add $600 to $900 each. A complete Zildjian K Custom Special Dry cymbal setup costs an additional $2,500 to $4,000, bringing the total rig to roughly $10,000 to $14,000.
+
 **Source:** https://metalforge.io/articles/whats-in-gavin-harrisons-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

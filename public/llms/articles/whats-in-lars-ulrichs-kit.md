@@ -80,8 +80,22 @@ Compared to drummers like Dave Lombardo (who runs a massive Paiste setup), Lars'
 - Estimated kit value: $4,000-7,000 (Starclassic Maple configuration)
 - Estimated snare value: $350-450 (LU1465 signature model)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Lars Ulrich use in 2026?**
+
+A: Lars Ulrich currently plays a Tama Starclassic Maple kit configured with a single 22x16 inch bass drum driven by a double pedal, 12 and 13 inch rack toms, and a 16 inch floor tom. The shells are maple with Starclassic hardware. He also uses his Tama LU1465 signature snare, a 14x6.5 inch model that delivers the crisp, punchy tone heard across Metallica's catalog since the mid-2000s.
+
+**Q: What cymbals does Lars Ulrich use in 2026?**
+
+A: Lars Ulrich plays Zildjian A Custom cymbals, a series known for its bright, cutting response suited to large-venue live performance. His setup includes 14 inch A Custom Dyno Beat hi-hats, 17 and 19 inch A Custom Medium Crashes, a 22 inch A Custom Medium Ride, and a Zildjian Oriental 18 inch China. The A Custom series has been central to his sound for decades, delivering the aggressive attack and shimmer that defines Metallica's live experience.
+
+**Q: How much does Lars Ulrich's 2026 drum kit cost?**
+
+A: Lars Ulrich's Tama Starclassic Maple kit is estimated at $4,000 to $7,000 depending on shell pack configuration and finish. His Tama signature snare adds roughly $350 to $450. The Zildjian A Custom cymbal setup typically runs $1,500 to $2,500 for a full matched configuration. A close replica of his complete rig would cost approximately $6,000 to $10,000, making it achievable for serious gigging drummers.
+
 **Source:** https://metalforge.io/articles/whats-in-lars-ulrichs-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

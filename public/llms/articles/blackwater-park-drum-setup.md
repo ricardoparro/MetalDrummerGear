@@ -79,8 +79,22 @@ The China cymbal added the aggression needed for death metal transitions without
 - Estimated kit value: $3,500-5,000 (2001) / $4,000-6,000 (comparable setup today)
 - Estimated snare value: $400-600
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Martin Lopez use on Blackwater Park in 2001?**
+
+A: Martin Lopez recorded Opeth's Blackwater Park in 2001 using a Sonor Designer Series kit with maple shells. His configuration included a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Sonor Designer Series was one of the most respected professional kits of that era, prized for its warm, resonant maple tone that suited Blackwater Park's dynamic range from delicate acoustic passages to full progressive metal heaviness.
+
+**Q: What cymbals did Martin Lopez use on Blackwater Park in 2001?**
+
+A: Martin Lopez used Sabian HH and AAX series cymbals on Blackwater Park. His setup included Sabian HH 14 inch Regular Hi-Hats, a Sabian AAX 16 inch Stage Crash, a Sabian HH 18 inch Medium Crash, Sabian HH rides in 20 and 22 inches, and a Sabian AAX 18 inch Chinese. The HH series provided a warm, complex, hand-hammered tone that blended well with Opeth's intricate arrangements and frequent dynamic shifts between clean and heavy sections.
+
+**Q: How much does Martin Lopez's Blackwater Park kit cost today?**
+
+A: Martin Lopez's Sonor Designer Series kit retailed for approximately $3,500 to $5,000 when new around 2001. Vintage Sonor Designer Series kits in good condition now sell for $1,500 to $3,500 on the used market. His Sabian HH and AAX cymbals remain available new, with a comparable complete setup costing $1,500 to $2,500 today. Sourcing the original vintage Sonor Designer pieces can be competitive given the model's enduring reputation among collectors.
+
 **Source:** https://metalforge.io/articles/blackwater-park-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

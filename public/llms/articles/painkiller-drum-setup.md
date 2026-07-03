@@ -73,8 +73,22 @@ The 20" Novo China added the explosive accents that punctuate key moments throug
 - Estimated kit value: $3,500-5,000 (1990)
 - Estimated snare value: $400-500 (1990)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Scott Travis use on Painkiller?**
+
+A: Scott Travis recorded Painkiller in 1990 using a Tama Artstar II kit with birch shells and die-cast hoops. The setup featured dual 22x16 inch bass drums, three rack toms at 10, 12, and 13 inches, and 14 and 16 inch floor toms. The Artstar II was Tama's top professional line at the time, delivering the tight, punchy attack that powered the album's relentless speed and precision.
+
+**Q: What cymbals did Scott Travis use on Painkiller?**
+
+A: Scott Travis used Paiste Signature and 2002 series cymbals on Painkiller. His setup included Paiste Signature 14 inch Heavy Hi-Hats, Paiste crashes ranging from 16 to 20 inches, a Paiste Signature 22 inch Power Ride, and a Paiste 2002 20 inch Novo China. The Signature series provided the cutting brightness and projection needed to match the ferocity of Judas Priest's heaviest recording.
+
+**Q: How much does Scott Travis's Painkiller drum kit cost?**
+
+A: At the time of the 1990 recording, the Tama Artstar II kit was valued at approximately $3,500 to $5,000. Today, vintage Artstar II kits in good condition sell for $800 to $2,500 on the used market. Paiste Signature and 2002 cymbals from that era can add another $500 to $1,500 used. Reproducing the full setup in vintage condition typically costs between $1,300 and $4,000 today.
+
 **Source:** https://metalforge.io/articles/painkiller-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -74,8 +74,22 @@ Unlike many metal drummers who favor exclusively aggressive cymbals, Tomas's sel
 - Estimated kit value: $8,000-15,000 (SQ2 Heavy Beech custom configuration)
 - Estimated snare value: $500-700 (signature model)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Tomas Haake use for his current setup?**
+
+A: Tomas Haake's current setup centers on a Sonor SQ2 Heavy Beech kit. He runs a single 24x18 inch bass drum with 10x8, 12x9, and 14x12 inch rack toms, plus 16x16 and 18x18 inch floor toms with heavy beech shells. His snare is the Sonor Tomas Haake Signature model at 14x6.5 inches. The heavy beech construction delivers the focused low-end punch and precise attack that Haake needs to execute Meshuggah's highly technical polyrhythmic and polymetric drum patterns cleanly at high tempos.
+
+**Q: What cymbals does Tomas Haake use on his current setup?**
+
+A: Tomas Haake plays a combination of Sabian HHX and AAX Series cymbals. His setup includes Sabian HHX 14 inch Compression Hi-Hats, an AAX 18 inch X-Plosion Crash, HHX crashes from 18 to 19 inches, an HHX 21 inch Raw Bell Dry Ride, an HHX 18 inch Chinese, and an AAX 19 inch Aero Crash China. The HHX series in particular offers a dark, complex, and controlled tone that suits the precision-focused, groove-heavy approach Haake brings to Meshuggah's dense rhythmic landscape.
+
+**Q: How much does Tomas Haake's current kit cost?**
+
+A: Tomas Haake's Sonor SQ2 Heavy Beech setup is a high-end custom instrument, with a configuration similar to his typically costing between $8,000 and $15,000 depending on finish and options. The Sonor Tomas Haake Signature snare adds approximately $500 to $700. His Sabian HHX and AAX cymbal collection, including the Raw Bell Dry Ride and multiple crashes and chinas, would cost an additional $2,500 to $4,500. The full setup realistically lands between $11,000 and $20,000 to replicate.
+
 **Source:** https://metalforge.io/articles/whats-in-tomas-haakes-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

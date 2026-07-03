@@ -73,8 +73,22 @@ The China cymbal remained essential for the explosive accents that punctuated ri
 - Estimated kit value: $2,500-3,500 (1988) / $4,000-6,000 (vintage today)
 - Estimated snare value: $300-400 (1988) / $400-600 (vintage today)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Lars Ulrich use on ...And Justice for All?**
+
+A: Lars Ulrich recorded ...And Justice for All in 1988 on a Tama Artstar II kit. The configuration included a single 22x16 inch bass drum played with a double pedal, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The birch shells with die-cast hoops gave the kit its characteristic dry, punchy sound, though the album's production heavily compressed the drum tone.
+
+**Q: What cymbals did Lars Ulrich use on ...And Justice for All?**
+
+A: Lars Ulrich used Zildjian A and Z Series cymbals on ...And Justice for All. His setup included 14 inch A New Beat hi-hats, A Series 16 and 18 inch crashes, a 20 inch Z Heavy Power Ride for cutting through the dense guitar mix, and an 18 inch A China Boy High. The heavier Z Series ride provided the volume and projection needed for Metallica's aggressive live and studio performances.
+
+**Q: How much does Lars Ulrich's ...And Justice for All kit cost?**
+
+A: The Tama Artstar II kit Lars Ulrich used in 1988 originally cost approximately $2,500 to $3,500. Today, a comparable vintage Tama Artstar II in good condition typically sells for $4,000 to $6,000. Complete period-correct setups matching the Justice configuration are rare and can exceed $7,000 when the original hardware and matching snare are included.
+
 **Source:** https://metalforge.io/articles/and-justice-for-all-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

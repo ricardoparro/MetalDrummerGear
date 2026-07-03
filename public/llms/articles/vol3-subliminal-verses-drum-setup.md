@@ -71,8 +71,26 @@ The dual China cymbals (20" and 22") continued to function as Slipknot's signatu
 - Estimated kit value: $6,500-9,000 (2004)
 - Estimated snare value: $400-500 (2004)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Joey Jordison use on Vol. 3: The Subliminal Verses?**
+
+A: Joey Jordison used a Pearl Masterworks Custom kit on Vol. 3: (The Subliminal Verses), recorded at Henson Recording Studios in Los Angeles in 2003 with producer Rick Rubin. The setup featured double 22 x 18 inch bass drums and an expanded tom configuration compared to the Iowa sessions, with five rack toms from 8 to 16 inches plus two floor toms. The Pearl Masterworks maple and African mahogany hybrid shells provided the warmth and attack that Rubin's cleaner production philosophy made more audible than on Iowa.
+
+**Q: What snare did Joey Jordison use on Vol. 3?**
+
+A: Joey Jordison used a Pearl Free-Floating steel snare drum in 14 x 6.5 inches on Vol. 3: (The Subliminal Verses). This was a different snare from the Pearl Joey Jordison Signature 13 x 6.5 inch model used on Iowa. The Free-Floating design suspends the shell between the hoops without contact, allowing freer resonance and a more open, sustained crack. Rick Rubin's production approach on Vol. 3 made this more open snare character clearly audible in the mix — particularly on tracks like Duality and Before I Forget.
+
+**Q: How does the drum sound on Vol. 3 differ from Iowa?**
+
+A: The fundamental difference is producer: Ross Robinson recorded Iowa through deliberate psychological pressure at Sound City Studios, compressing everything into a wall of noise where individual drum characteristics were secondary to overall intensity. Rick Rubin recorded Vol. 3 at Henson Studios with clarity and space as priorities. The result on Vol. 3 is a drum sound where individual elements — snare character, tom pitch, cymbal sustain, ghost notes — are audible and compositionally present. Jordison's dynamic range, partly obscured on Iowa, is fully exposed on Vol. 3. The gear was largely similar; the production philosophy was the opposite.
+
+**Q: What cymbals did Joey Jordison use on Vol. 3: The Subliminal Verses?**
+
+A: Joey Jordison used Paiste RUDE and 2002 series cymbals on Vol. 3: (The Subliminal Verses), continuing his Paiste endorsement from the Iowa era. The setup included Paiste 2002 14 inch Wild Hi-Hats, Paiste RUDE Wild Crashes from 16 to 19 inches, a Paiste 2002 22 inch Power Ride, Paiste RUDE 20 and 22 inch Wild China cymbals, and a Paiste RUDE 10 inch Splash. Under Rick Rubin's production at Henson Studios, the RUDE cymbals' raw unlathed character is more distinctly audible on Vol. 3 than in Iowa's compressed, wall-of-noise production.
+
 **Source:** https://metalforge.io/articles/vol3-subliminal-verses-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

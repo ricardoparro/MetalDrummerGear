@@ -72,8 +72,26 @@ The Byzance series addition — represented by the 19" Extra Dry Thin Crash — 
 - Estimated kit value: $3,500–5,500 (Tama Starclassic Maple professional configuration)
 - Estimated snare value: $600–900 (Pearl Masterworks custom snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Inferno use to record The Satanist?**
+
+A: For The Satanist (2014) studio sessions at Hertz Studio in Białystok, Poland, Inferno used a Tama Starclassic Maple kit — notably different from the Pearl Reference Pure setup he uses for Behemoth's live performances. The studio choice reflected the different acoustic requirements of recording vs. live performance: the Starclassic Maple's all-maple shell construction delivers warmer resonance and tonal depth that benefited the album's recording environment. He paired the kit with a Pearl Masterworks snare and Meinl Classics Custom Dark cymbals. For Inferno's current live touring gear, see the [What's In Inferno's Kit article](/articles/whats-in-infernos-kit).
+
+**Q: Was The Satanist nominated for a Grammy?**
+
+A: Yes — Behemoth received a Grammy nomination for Best Metal Performance at the 58th Grammy Awards (2016) for their work in the album cycle surrounding The Satanist. The album was released in February 2014 and became one of the most critically acclaimed extreme metal records of the decade, named Album of the Year by Metal Hammer, Terrorizer, Decibel, Kerrang!, and numerous other publications. The Grammy nomination reflected the album's crossover into mainstream critical recognition — an unusual achievement for a blackened death metal record. For the full story of Inferno's career and drumming evolution, visit the [Inferno drummer profile](/drummer/inferno).
+
+**Q: How fast are the blast beats on The Satanist?**
+
+A: The blast beats on The Satanist operate primarily in the 180–220 BPM range, consistent with Inferno's established technique across Behemoth's catalog. What distinguishes The Satanist's percussion approach is not raw speed alone but the dynamic variation between tracks — the album ranges from mid-paced hymn-like passages (Ora Pro Nobis Lucifer) to sustained blast sections (Furor Divinus, Amen). Inferno's single-stroke blast technique, developed over 27 years with Behemoth, prioritizes clarity and control over purely maximum velocity. For a detailed technical breakdown of blast beat mechanics and how Inferno's approach compares to other extreme metal drummers, see the [blast beat techniques guide](/articles/blast-beat-techniques).
+
+**Q: What cymbals did Inferno use on The Satanist?**
+
+A: Inferno used Meinl Classics Custom Dark cymbals as his primary cymbal selection for The Satanist, supplemented by Meinl Byzance series pieces. The Classics Custom Dark series is specifically engineered for darker tonal characteristics — reduced brightness, increased complexity — which suited The Satanist's sonic identity perfectly. The setup included 14" Dark hi-hats, 16" and 18" Dark crashes, a 22" Dark ride, an 18" Dark China, and a Byzance 19" Extra Dry Thin Crash for additional accent options. The darker cymbal character allowed Inferno's playing to blend cohesively with Behemoth's down-tuned guitar layers rather than cutting against them.
+
 **Source:** https://metalforge.io/articles/the-satanist-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

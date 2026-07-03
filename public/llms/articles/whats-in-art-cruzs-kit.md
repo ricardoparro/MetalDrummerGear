@@ -78,8 +78,22 @@ The China cymbal is essential for LOG's aggressive accents — those trashy expl
 - Estimated kit value: $4,000-6,000 (Ludwig Classic Maple configuration)
 - Estimated snare value: $400-700 (Ludwig professional snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Art Cruz use with Lamb of God?**
+
+A: Art Cruz currently plays a Ludwig Classic Maple kit with Lamb of God. His setup centers on a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The Classic Maple shells deliver a warm, resonant tone that holds up in both recording and high-volume live situations. Ludwig's Classic Maple is one of the brand's flagship professional lines, favored for its versatile sound across metal and rock.
+
+**Q: What cymbals does Art Cruz use with Lamb of God?**
+
+A: Art Cruz plays a Zildjian A Custom and K Series hybrid setup. His cymbal rig includes 14 inch A Custom hi-hats, A Custom crashes in 17 and 19 inch sizes, a 21 inch A Custom 20th Anniversary Ride, an 18 inch A Custom China, and a 10 inch A Custom splash. The A Custom line provides the bright, clean attack suited to metal, while the K series adds darker tonal options where needed.
+
+**Q: How much does Art Cruz's Lamb of God kit cost?**
+
+A: A current Ludwig Classic Maple kit configured to Art Cruz's specifications runs approximately $4,000 to $6,000 for the shell pack alone. Adding hardware, a Ludwig snare at $400 to $700, and a full Zildjian A Custom and K cymbal setup can bring the total to $8,000 to $12,000 or more. Ludwig Classic Maple is a professional-tier investment but is widely available through authorized dealers.
+
 **Source:** https://metalforge.io/articles/whats-in-art-cruzs-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

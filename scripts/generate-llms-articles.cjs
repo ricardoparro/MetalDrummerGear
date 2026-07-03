@@ -5,34 +5,17 @@
  *
  * AI crawlers (GPTBot, ClaudeBot, PerplexityBot, ...) can ingest a full album/kit gear
  * breakdown in one request without parsing React/HTML. Mirrors the sibling generator
- * generate-llms-drummers.cjs (regex + controlled eval over the data module, same min-words
- * guard) so both stay in sync from a single source of truth.
+ * generate-llms-drummers.cjs (same min-words guard) so both stay in sync from a
+ * single source of truth.
  *
- * Source of truth: packages/frontend/data/albumArticles.js -> ALBUM_ARTICLES.
+ * Source of truth: packages/frontend/data/albumArticles/index.js -> ALBUM_ARTICLES
+ * (composed from per-drummer modules, loaded here via dynamic import()).
  * Two article shapes share the same gear sub-objects: album drum-setup articles
  * (albumTitle present) and "what's in <drummer>'s kit" breakdowns (no albumTitle).
  */
 
 const fs = require('fs');
 const path = require('path');
-
-// --- Load articles (same regex+eval extraction as the sibling generators) ---------
-const articlesPath = path.join(__dirname, '../packages/frontend/data/albumArticles.js');
-const articlesContent = fs.readFileSync(articlesPath, 'utf-8');
-
-const objMatch = articlesContent.match(/export const ALBUM_ARTICLES = (\{[\s\S]*?\});\s*(?:\/\/|export|$)/);
-if (!objMatch) {
-  console.error('Could not extract ALBUM_ARTICLES from packages/frontend/data/albumArticles.js');
-  process.exit(1);
-}
-
-let articles;
-try {
-  articles = eval(`(function() { return ${objMatch[1]}; })()`);
-} catch (e) {
-  console.error('Error parsing ALBUM_ARTICLES:', e);
-  process.exit(1);
-}
 
 const today = new Date().toISOString().split('T')[0];
 const BASE = 'https://metalforge.io';
@@ -130,6 +113,14 @@ function buildMarkdown(article) {
     md += `\n`;
   }
 
+  // --- FAQ (from albumArticles faq array) ----------------------------------------
+  if (Array.isArray(article.faq) && article.faq.length) {
+    md += `## Frequently Asked Questions\n\n`;
+    for (const f of article.faq) {
+      md += `**Q: ${f.question}**\n\nA: ${f.answer}\n\n`;
+    }
+  }
+
   // --- Footer / cross-links (always >=3 internal links) -------------------------
   md += `**Source:** ${sourceUrl}\n\n`;
   md += `**More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)\n\n`;
@@ -139,28 +130,36 @@ function buildMarkdown(article) {
 }
 
 // --- Write files -----------------------------------------------------------------
-const outDir = path.join(__dirname, '../public/llms/articles');
-fs.mkdirSync(outDir, { recursive: true });
+async function main() {
+  // ALBUM_ARTICLES is composed from ESM per-drummer modules under albumArticles/ —
+  // dynamic import() loads it directly instead of regexing the (now barrel) .js file.
+  const { ALBUM_ARTICLES: articles } = await import('../packages/frontend/data/albumArticles/index.js');
 
-let written = 0;
-let minWords = Infinity;
-let thin = 0;
-for (const key of Object.keys(articles)) {
-  const article = articles[key];
-  if (!article || !article.slug) {
-    console.warn(`Skipping entry "${key}" — missing slug.`);
-    continue;
+  const outDir = path.join(__dirname, '../public/llms/articles');
+  fs.mkdirSync(outDir, { recursive: true });
+
+  let written = 0;
+  let minWords = Infinity;
+  let thin = 0;
+  for (const key of Object.keys(articles)) {
+    const article = articles[key];
+    if (!article || !article.slug) {
+      console.warn(`Skipping entry "${key}" — missing slug.`);
+      continue;
+    }
+    const { slug, md } = buildMarkdown(article);
+    const words = md.split(/\s+/).filter(Boolean).length;
+    if (words < MIN_WORDS) {
+      console.warn(`⚠️  ${slug}.md is thin (${words} words < ${MIN_WORDS}) — skipping to avoid emitting a stub.`);
+      thin++;
+      continue;
+    }
+    fs.writeFileSync(path.join(outDir, `${slug}.md`), md);
+    if (words < minWords) minWords = words;
+    written++;
   }
-  const { slug, md } = buildMarkdown(article);
-  const words = md.split(/\s+/).filter(Boolean).length;
-  if (words < MIN_WORDS) {
-    console.warn(`⚠️  ${slug}.md is thin (${words} words < ${MIN_WORDS}) — skipping to avoid emitting a stub.`);
-    thin++;
-    continue;
-  }
-  fs.writeFileSync(path.join(outDir, `${slug}.md`), md);
-  if (words < minWords) minWords = words;
-  written++;
+
+  console.log(`✅ Generated public/llms/articles/*.md — ${written} articles (min ${minWords} words/file)${thin ? `, ${thin} thin skipped` : ''}`);
 }
 
-console.log(`✅ Generated public/llms/articles/*.md — ${written} articles (min ${minWords} words/file)${thin ? `, ${thin} thin skipped` : ''}`);
+main();

@@ -80,8 +80,22 @@ This hybrid approach (A Custom for attacks, K Custom for atmosphere) reflects De
 - Estimated kit value: $3,500-5,000 (Starclassic Maple/Bubinga kit)
 - Estimated snare value: $350-450 (S.L.P. Big Black Steel)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Abe Cunningham use with the Deftones?**
+
+A: Abe Cunningham plays a Tama Starclassic Maple/Bubinga hybrid kit. His configuration includes a 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. The maple and bubinga shell combination delivers a warm yet punchy tone with enhanced low-end projection, which suits the Deftones' dynamic range from atmospheric passages to full-on heavy sections. He pairs the kit with a deep 14x8 inch Tama S.L.P. Big Black Steel snare.
+
+**Q: What cymbals does Abe Cunningham use with the Deftones?**
+
+A: Abe Cunningham uses a Zildjian A Custom and K Custom hybrid setup. His cymbals include 14 inch A New Beat hi-hats, 16 and 18 inch A Custom crashes, a 21 inch K Custom Ride for dark, complex overtones, a 20 inch A Custom Crash/Ride, and an 18 inch A Custom China. This combination of A Custom brightness and K Custom darkness mirrors the Deftones' blend of aggressive attack and atmospheric texture.
+
+**Q: How much does Abe Cunningham's Deftones kit cost?**
+
+A: A Tama Starclassic Maple/Bubinga shell pack comparable to Abe Cunningham's setup costs approximately $3,500 to $5,000. The Tama S.L.P. Big Black Steel snare adds $350 to $450. Completing the rig with a full Zildjian A Custom and K Custom cymbal package brings the total to roughly $8,000 to $11,000. The Starclassic Maple/Bubinga line sits in Tama's professional tier and is a long-term investment for serious players.
+
 **Source:** https://metalforge.io/articles/whats-in-abe-cunninghams-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -82,8 +82,22 @@ Mangini's cymbal positioning, like his drum layout, follows ergonomic principles
 - Estimated kit value: $8,000-15,000 (full Masterworks configuration)
 - Estimated snare value: $600-900 per snare (Reference Series)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Mike Mangini use with Dream Theater?**
+
+A: Mike Mangini plays a Pearl Masterworks Maple kit configured for maximum range and speed. His setup includes dual 22x18 inch bass drums, an unusually wide rack tom spread of 8, 10, 12, 13, and 14 inches, and floor toms at 16x14 and 16x16 inches. The maple shells with optimized bearing edges support his technically demanding playing style. Pearl built this as a custom Masterworks configuration tailored specifically to his ergonomic and tonal requirements.
+
+**Q: What cymbals does Mike Mangini use with Dream Theater?**
+
+A: Mike Mangini relies on Sabian's HHX and AAX lines for his extensive cymbal setup. Key pieces include Sabian HHX 14 inch Evolution hi-hats, a mix of AAX and HHX crashes from 16 to 19 inches, an HHX 21 inch Evolution Ride, an HHX 22 inch Legacy Ride for tonal variety, an AAX 18 inch Chinese, and an AAX 10 inch Splash. Running two rides allows him to switch tonal colors instantly during Dream Theater's complex, progressive arrangements.
+
+**Q: How much does Mike Mangini's Dream Theater kit cost?**
+
+A: A Pearl Masterworks Maple shell pack comparable to Mangini's configuration ranges from $8,000 to $15,000, with custom finishes and extra toms pushing costs higher. Multiple Pearl Reference Series snares add $600 to $900 each. His expansive Sabian HHX and AAX cymbal rig, featuring two rides and multiple crashes, would cost $4,000 to $6,000 to replicate. A full recreation of his Dream Theater setup is realistically priced between $14,000 and $23,000.
+
 **Source:** https://metalforge.io/articles/whats-in-mike-manginis-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

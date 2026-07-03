@@ -19,8 +19,8 @@ This article breaks down the gear behind Art Cruz's first studio statement with 
 
 ## Gear Breakdown
 
-- **Drums:** Ludwig Classic Maple (Custom finish)
-- **Snare:** Ludwig 14" x 6.5" Snare
+- **Drums:** Ludwig Ludwig Classic Maple (Custom finish finish)
+- **Snare:** Ludwig Ludwig 14" x 6.5" Snare, 14" x 6.5"
 - **Cymbals:** Zildjian — A Custom
 - **Hardware / Pedals:** Trick Pro 1-V Bigfoot Double Pedal; Gibraltar 9707ML-DP Hi-Hat Stand; Roc-N-Soc Nitro Original; Vic Firth 5B or Power 5B
 - **Heads:** Evans G2 Coated or HD Dry (batter), Evans Hazy 300 (resonant)
@@ -53,33 +53,34 @@ The 21" A Custom ride carries much of the album's groove-driven mid-tempo materi
 - First Lamb of God album without Chris Adler on drums
 - Produced by longtime collaborator Josh Wilbur
 - Key tracks: Memento Mori, Resurrection Man, New Colossal Hate, Gomorrah, Routes
-- Single 22x18" bass drum with Trick double pedal, not dual kicks like the Adler era
+- Set up the gear and approach later heard on 2022's Omens
+- Single 22x18" bass drum with Trick double pedal, not dual kicks
+- Four-tom layout (10", 12", 14", 16") matches the band's established template
+- Classic Maple shells deliver warmth without sacrificing attack
 - Same core kit carried forward into the 2022 Omens sessions
 - Estimated kit value: $4,000-6,000 (Ludwig Classic Maple configuration)
 - Estimated snare value: $400-700 (Ludwig professional snare)
 
-## FAQ
+## Frequently Asked Questions
 
-**What drum kit does Art Cruz play on Lamb of God's 2020 self-titled album?**
-Art Cruz recorded Lamb of God's 2020 self-titled album on a Ludwig Classic Maple kit, featuring a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He paired the single kick with a Trick Pro 1-V Bigfoot double pedal rather than using dual bass drums, a notable shift from the two-kick setup Chris Adler used on earlier Lamb of God records.
+**Q: What drum kit does Art Cruz play on Lamb of God's 2020 self-titled album?**
 
-**Who replaced Chris Adler in Lamb of God?**
-Art Cruz replaced Chris Adler as Lamb of God's drummer. Adler departed the band in 2019 after two decades behind the kit, and Cruz — who had previously played in Winds of Plague and Prong, and first filled in for Adler on 2018 tour dates — became the band's official drummer. Lamb of God's 2020 self-titled album was Cruz's first studio recording with the band.
+A: Art Cruz recorded Lamb of God's 2020 self-titled album on a Ludwig Classic Maple kit, featuring a single 22x18 inch bass drum, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. He paired the single kick with a Trick Pro 1-V Bigfoot double pedal rather than using dual bass drums, a notable shift from the two-kick setup Chris Adler used on earlier Lamb of God records. Full details are in the [Art Cruz kit breakdown](/articles/whats-in-art-cruzs-kit).
 
-**What gear did Art Cruz use to record Lamb of God's 2020 album?**
-Art Cruz's recording setup on the 2020 self-titled album centered on a Ludwig Classic Maple drum kit, a Ludwig 14x6.5 inch snare, Zildjian A Custom cymbals, and a Trick Pro 1-V Bigfoot double pedal. This is the same core gear lineup he carries into live performances and later carried into 2022's Omens sessions.
+**Q: Who replaced Chris Adler in Lamb of God?**
 
-**Was Lamb of God (2020) Art Cruz's first album with the band?**
-Yes. While Cruz had toured with Lamb of God as a live fill-in for Chris Adler as early as 2018, the band's 2020 self-titled album — featuring tracks like "Memento Mori," "Resurrection Man," and "Gomorrah" — was his first full studio album as an official member, recorded after he formally joined in 2019.
+A: Art Cruz replaced Chris Adler as Lamb of God's drummer. Adler departed the band in 2019 after two decades behind the kit, and Cruz — who had previously played in Winds of Plague and Prong, and first filled in for Adler on 2018 tour dates — became the band's official drummer. Lamb of God's 2020 self-titled album was Cruz's first studio recording with the band. See the [Art Cruz drummer profile](/drummer/art-cruz) for his full career background.
 
-## Related Articles
+**Q: What gear did Art Cruz use to record Lamb of God's 2020 album?**
 
-- [Art Cruz drummer profile](/drummer/art-cruz) — full career background, from Winds of Plague and Prong to Lamb of God
-- [What's In Art Cruz's Kit](/articles/whats-in-art-cruzs-kit) — complete gear breakdown of his current live and studio setup
-- [Ashes of the Wake Drum Setup](/articles/ashes-of-the-wake-drum-setup) — Chris Adler's gear from the pre-Cruz era, for direct comparison
+A: Art Cruz's recording setup on the 2020 self-titled album centered on a Ludwig Classic Maple drum kit, a Ludwig 14x6.5 inch snare, Zildjian A Custom cymbals, and a Trick Pro 1-V Bigfoot double pedal. This is the same core gear lineup he carries into live performances and later carried into 2022's Omens sessions.
+
+**Q: Was Lamb of God (2020) Art Cruz's first album with the band?**
+
+A: Yes. While Cruz had toured with Lamb of God as a live fill-in for Chris Adler as early as 2018, the band's 2020 self-titled album — featuring tracks like "Memento Mori," "Resurrection Man," and "Gomorrah" — was his first full studio album as an official member, recorded after he formally joined in 2019.
 
 **Source:** https://metalforge.io/articles/lamb-of-god-self-titled-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

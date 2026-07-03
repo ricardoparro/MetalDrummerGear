@@ -26,8 +26,22 @@ Before you begin: set a metronome at 80 BPM and work slowly. Every blast beat le
 - Proper wrist/finger technique prevents injury during extended blast beat sessions
 - Dave Lombardo's thrash blast beats on Slayer recordings demonstrate musical use of the technique
 
+## Frequently Asked Questions
+
+**Q: How fast should I practice blast beats?**
+
+A: Start at 80 BPM and only increase tempo when you can play clean, relaxed single strokes for 30 seconds without tension. Rushing tempo progression is the leading cause of repetitive strain injury in extreme metal drummers. George Kollias recommends spending months at 100–120 BPM before pushing toward extreme tempos.
+
+**Q: Who invented the blast beat?**
+
+A: The blast beat has contested origins — early punk and hardcore bands used proto-blast patterns in the early 1980s. In death metal, Pete Sandoval of Morbid Angel and Flo Mounier of Cryptopsy are credited with developing the technique into its modern form. Dave Lombardo's fast 16th-note patterns on Slayer's 1986 "Reign in Blood" also influenced the technique's spread into thrash metal.
+
+**Q: What is the difference between a blast beat and a double bass beat?**
+
+A: A blast beat is a specific pattern combining snare, hi-hat, and kick drum in rapid unison strokes, typically using a single bass drum. Double bass drumming uses two bass drums (or a double pedal) to play alternating kick patterns beneath any groove or beat. George Kollias and Pete Sandoval combine both techniques — their blast beats often include double bass subdivisions for additional density.
+
 **Source:** https://metalforge.io/articles/how-to-play-blast-beats
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -84,8 +84,22 @@ All cymbals were positioned low and flat — the aggressive thrash style. This a
 - Estimated kit value: $600-900 (1989) / $400-600 (vintage Export today)
 - Estimated snare value: $200-350 (1989)
 
+## Frequently Asked Questions
+
+**Q: What drum kit did Igor Cavalera use on Beneath the Remains?**
+
+A: On Sepultura's Beneath the Remains recorded in 1989, Igor Cavalera played a Pearl Export Series kit with poplar and basswood shells. The configuration included dual 22x16 inch bass drums, rack toms in 12 and 13 inches, and a single 16 inch floor tom. The Pearl Export was an entry-level to mid-range kit at the time, and its use reflects the band's limited budget during that period, though the aggressive recording and mixing helped achieve the album's legendary brutal sound.
+
+**Q: What cymbals did Igor Cavalera use on Beneath the Remains?**
+
+A: On Beneath the Remains in 1989, Igor Cavalera used Paiste 2002 series cymbals. His setup included Paiste 2002 14 inch Heavy hi-hats, 2002 16 and 18 inch Crashes, a 2002 20 inch Ride, and a 2002 18 inch China. The 2002 series was known for its bright, powerful sound and durability under heavy playing, making it a natural choice for the intense thrash and early death metal style Sepultura was developing during this era.
+
+**Q: How much does Igor Cavalera's Beneath the Remains kit cost?**
+
+A: At the time of recording in 1989, a Pearl Export kit was valued at roughly $600 to $900. Today, vintage Pearl Export kits from the late 1980s sell on the used market for $200 to $600 depending on condition. The Pearl Steel Sensitone snare adds $100 to $200 vintage. Vintage Paiste 2002 cymbals matching the album setup run $800 to $1,500 used. A full period-correct replica of the Beneath the Remains rig can be assembled for approximately $1,200 to $2,300.
+
 **Source:** https://metalforge.io/articles/beneath-the-remains-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

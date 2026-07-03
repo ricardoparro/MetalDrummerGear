@@ -63,8 +63,30 @@ The crash configuration spans quick accent work (16" AAX, rapid response for den
 - Estimated kit value: $3,500–6,500 (Pearl Reference shell pack)
 - Estimated snare value: $350–700
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Ryan Van Poederooyen use?**
+
+A: Ryan Van Poederooyen plays Pearl Reference series drums. His configuration includes a double bass drum setup with two 22" x 18" kick drums, two rack toms (10" and 12"), and two floor toms (16" and 18"). The Pearl Reference series uses a maple and mahogany hybrid shell construction that delivers the versatility Van Poederooyen needs for Devin Townsend's extreme dynamic range — from the brutal heaviness of Deconstruction to the ambient minimalism of Ghost. The hybrid shell construction provides immediate attack response and warm low-end resonance across the full spectrum of Townsend's catalogue. See the full [Ryan Van Poederooyen profile at MetalForge](/drummers/ryan-van-poederooyen) for complete career and gear details.
+
+**Q: What cymbals does Ryan Van Poederooyen play?**
+
+A: Ryan Van Poederooyen plays Sabian cymbals from the AAX and HHX series. His setup includes Sabian 14" AAX hi-hats, a 16" AAX crash, an 18" HHX crash, a 20" HHX ride, and an 18" AAX china cymbal. The combination of AAX (bright, focused, fast-attacking) and HHX (darker, more complex tonal character) reflects the sonic breadth of Devin Townsend's music. The AAX line provides the projection and articulation needed for DTP's heavy sections; the HHX adds musical depth for the progressive and ambient dimensions of Townsend's catalogue.
+
+**Q: What's Ryan Van Poederooyen's double bass setup?**
+
+A: Ryan Van Poederooyen uses a true double bass drum setup with two 22" x 18" Pearl Reference kick drums, driven by either a Tama Iron Cobra or DW 9000 series double bass pedal (depending on touring period). His double bass approach prioritizes rhythmic drive and groove over maximum speed — the goal is the forward momentum and physical impact that Devin Townsend's heavier material requires rather than blast-beat-level tempos. On records like Deconstruction and Addicted, his double kick provides the foundation that makes DTP's heaviest passages physically impactful. For more on double bass setup and technique: [double-bass drumming at MetalForge](/technique/double-bass-drumming).
+
+**Q: How long has Ryan Van Poederooyen played with Devin Townsend?**
+
+A: Ryan Van Poederooyen has been Devin Townsend's drummer since 1999 — over 25 years of collaboration making it one of the longest and most consistent drummer-artist partnerships in progressive metal history. He has appeared on nearly every Devin Townsend solo and band record since Physicist (2000), spanning the Devin Townsend Band era, the Devin Townsend Project (2009–2018), and Townsend's current solo output including Empath (2019) and Lightwork (2022).
+
+**Q: What albums has Ryan Van Poederooyen recorded?**
+
+A: Ryan Van Poederooyen has recorded across Devin Townsend's complete catalogue since 1999: Physicist (2000), Terria (2001), Accelerated Evolution (2003), Ziltoid the Omniscient (2007), and the complete Devin Townsend Project discography — Ki, Addicted, Deconstruction, Ghost (all 2009–2011), Epicloud (2012), Z² (2014), Transcendence (2016) — as well as the Empath (2019) and Lightwork (2022) solo albums. Deconstruction (2011) is widely cited among prog-metal drummers as one of the most demanding drum performances in the genre.
+
 **Source:** https://metalforge.io/articles/ryan-van-poederooyen-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -24,8 +24,22 @@ This tutorial builds the polyrhythmic vocabulary step by step: understanding wha
 - Tomas Haake (Meshuggah) creates polyrhythmic patterns by accenting in groups of 4 across a 4/4 grid shifted by one 32nd note
 - The key to polyrhythm is feeling multiple pulses simultaneously, not counting — internalize one layer at a time
 
+## Frequently Asked Questions
+
+**Q: How do I start learning polyrhythm on drums?**
+
+A: Start with 3 against 4 using just your hands — right hand taps three evenly spaced beats while left hand taps four evenly spaced beats over the same duration. The mnemonic "Pass the beer" vs "Cold cup of tea" helps internalize the feeling. Once this feels natural, move to the drum kit and apply one layer at a time. Brann Dailor's Mastodon patterns are excellent study material because the melodic tom content makes the polyrhythm easier to hear.
+
+**Q: What is the difference between polyrhythm and odd time signatures?**
+
+A: Odd time signatures (7/8, 5/4, 9/8) place an unusual number of beats in each bar — the entire band plays in the same unusual meter. Polyrhythm is when two or more contrasting rhythms play simultaneously within a single time signature — for example, playing groups of three over a 4/4 pulse. Danny Carey of Tool uses both: "Schism" switches between odd time signatures, while many of his fills use polyrhythmic displacement within those odd meters.
+
+**Q: Which Tool song is the best for learning odd time signatures?**
+
+A: "Schism" by Tool is the classic entry point for odd time signatures in metal — it alternates between 5/4 and 7/8 in a way that feels completely natural and musical. "Lateralus" is more complex, built on Fibonacci sequence time signature groups. Danny Carey's drumming on both tracks demonstrates how odd meters can groove just as hard as 4/4 when internalized fully.
+
 **Source:** https://metalforge.io/articles/how-to-play-polyrhythm-drums
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

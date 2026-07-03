@@ -80,8 +80,22 @@ The thin Chinas provide trashy, aggressive accents without overwhelming the mix.
 - Estimated kit value: $15,000-25,000 (SQ2 Heavy Beech custom configuration)
 - Estimated snare value: $800-1,200 (signature model)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Danny Carey use for his current setup?**
+
+A: Danny Carey's current signature setup is built around a Sonor SQ2 Heavy Beech kit. He uses a single 24x18 inch bass drum with an extensive tom array spanning 6, 8, 10, 12, 13, and 14 inch rack toms, plus 16x14 and 18x16 inch floor toms. His snare is the Danny Carey Signature Sonor model at 14x8 inches. The heavy beech shells are specifically chosen for their thick walls, which produce a powerful, dense attack with exceptional projection suited to Tool's complex, dynamic compositions.
+
+**Q: What cymbals does Danny Carey use on his current setup?**
+
+A: Danny Carey plays Paiste Signature Series cymbals throughout his current kit. His setup includes Paiste Signature 14 inch Sound Edge Hi-Hats, multiple Signature crashes ranging from 16 to 20 inches, a Signature 22 inch Dry Heavy Ride, a Signature 24 inch Big Ride, and Signature 18 and 20 inch Thin Chinas. The Paiste Signature Series is known for its complex, dark, and musical tonal character, which supports Carey's melodic and dynamically nuanced approach to playing within Tool's intricate arrangements.
+
+**Q: How much does Danny Carey's current kit cost?**
+
+A: Danny Carey's Sonor SQ2 Heavy Beech kit is a fully custom instrument and represents one of the most expensive production drum lines available. A configured SQ2 setup comparable to Carey's typically runs between $15,000 and $25,000. The Danny Carey Signature Sonor snare adds approximately $800 to $1,200. His extensive Paiste Signature cymbal collection, including a 24 inch Big Ride and multiple crashes and chinas, would add another $5,000 to $9,000, putting the complete rig well above $20,000.
+
 **Source:** https://metalforge.io/articles/whats-in-danny-careys-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

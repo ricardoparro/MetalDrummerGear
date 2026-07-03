@@ -69,8 +69,30 @@ On Blackwater Park (where he played Sabian HH and AAX cymbals), Lopez establishe
 - Estimated kit value: $6,000–10,000 (SQ2 configuration)
 - Estimated snare value: $600–900
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Martin Lopez use?**
+
+A: Martin Lopez currently plays a Sonor SQ2 custom kit with select maple shells. His configuration includes a 22" bass drum, 10" and 12" rack toms, and 14" and 16" floor toms. During his Opeth years (1997–2006) he used a Sonor Designer Series kit in a similar configuration. The SQ2 is Sonor's fully bespoke custom line, built to the player's exact specifications.
+
+**Q: What cymbals does Martin Lopez play?**
+
+A: Martin Lopez plays Zildjian cymbals across the A and K series. His setup includes 14" A New Beat hi-hats, a K 16" Dark Thin Crash, an A 18" Medium Crash, and an A 20" Medium Ride. During his Opeth era he used Sabian HH and AAX cymbals — the switch to Zildjian for Soen brought a slightly brighter character while maintaining his preference for warmth and dynamic complexity over pure volume.
+
+**Q: How did Martin Lopez influence Opeth's drum sound?**
+
+A: Martin Lopez joined Opeth in 1997 and immediately transformed the band's rhythmic approach. His jazz background introduced dynamic control, odd-time fluency, and groove-based playing that distinguished Opeth from their peers. On Blackwater Park (2001), he demonstrated the full range — from near-silent brushwork in acoustic passages to thunderous double bass in death metal sections — within the same song. This template of extreme dynamic contrast became Opeth's defining drum characteristic across Blackwater Park, Deliverance, and Ghost Reveries.
+
+**Q: What sticks does Martin Lopez use?**
+
+A: Martin Lopez uses Vic Firth 5A sticks with nylon tips. The 5A is a versatile, balanced stick suited to his wide dynamic range — light enough for the subtle jazz-influenced work in Soen's atmospheric passages, durable enough for heavier sections. The nylon tip adds brightness to cymbal articulation compared to wood-tip alternatives.
+
+**Q: What are the best Soen songs to study Martin Lopez's drumming?**
+
+A: "Opponent" (Lykaia, 2017) showcases his odd-meter mastery in 7/8 with jazz-inflected groove. "Sectarian" (Cognitive, 2012) demonstrates his dynamic control from restrained verses to full-band choruses. "Lykaia" (Lykaia, 2017) is perhaps his most compositionally complete performance — complex rhythmically but always serving the song. For Opeth, "The Leper Affinity" and "Bleak" from Blackwater Park remain essential studies in progressive metal drumming.
+
 **Source:** https://metalforge.io/articles/martin-lopez-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -71,8 +71,26 @@ The 18" China cymbal added the trashy, aggressive accent that Motörhead's heavi
 - Estimated kit value: $1,500–3,000 (1993) / $800–2,000 (vintage Tama today)
 - Estimated snare value: $250–450 (1993)
 
+## Frequently Asked Questions
+
+**Q: What drums did Mikkey Dee use on Bastards?**
+
+A: On *Bastards* (1993), Mikkey Dee used a Tama drum kit — specifically the Artstar II / Swingstar series that he relied on during his early Motörhead years. The configuration centered on a 22" bass drum for focused, punchy low-end, with three rack toms (10", 12", 13") and dual floor toms (16", 18"). This was Dee's first studio album with Motörhead — he had joined the band in early 1992, replacing Phil "Philthy Animal" Taylor. Dee would later transition to Yamaha drums, but his Tama era produced some of his most visceral Motörhead recordings. For his complete career gear evolution, see the [Mikkey Dee drummer profile](/drummer/mikkey-dee).
+
+**Q: When did Mikkey Dee join Motörhead?**
+
+A: Mikkey Dee joined Motörhead in January 1992, replacing Phil "Philthy Animal" Taylor for the second time. Taylor's departure was health-related; Dee came to the band with impressive credentials from his work with King Diamond on albums like *Abigail* (1987) and *Them* (1988). Lemmy Kilmister famously called Dee "the best drummer I ever played with" — a significant endorsement from a man who had worked with Taylor and other notable players. *Bastards* (1993) was Dee's first full studio album with Motörhead, demonstrating that the band hadn't simply replaced their drummer — they had upgraded their rhythmic foundation. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete history with Motörhead and subsequent move to Scorpions.
+
+**Q: How did Mikkey Dee's style differ from Phil Taylor?**
+
+A: Phil Taylor's drumming was characterized by barely-controlled fury — enormous energy delivered with a looseness that sometimes threatened to overwhelm the groove. His performances on classic Motörhead albums like *Overkill* (1979) and *Ace of Spades* (1980) have enduring charm precisely because they sound dangerous. Mikkey Dee brought a fundamentally different approach: Swedish precision combined with equal power. Where Taylor might flam accidentally and make it work through momentum, Dee placed every stroke deliberately. His ghost note technique, visible on *Bastards* tracks like "Born to Raise Hell," demonstrates a snare sensitivity Taylor never developed. Dee's fills are also more controlled — shorter, more musical, placed to serve the song rather than express the moment. Neither approach is definitively superior; they represent two legitimate creative philosophies applied to the same band. For the evolution of Motörhead's drum sound across eras, see the [heavy metal drumming history](/techniques/history-of-metal-drumming) article.
+
+**Q: What cymbals did Mikkey Dee use on Bastards?**
+
+A: During the *Bastards* (1993) sessions, Mikkey Dee used a Paiste setup combining Giant Beat and Paiste 2002 series cymbals. The Giant Beat 15" hi-hats provided more body and projection than standard 14" hi-hats — essential when playing next to Lemmy's legendary bass volume. Paiste 2002 crashes (18" and 20") and a 22" ride handled accent and time-keeping duties, with an 18" China cymbal for trashy accents on Motörhead's heaviest moments. Paiste's CuSn8 bronze alloy — shared by both the Giant Beat and 2002 series — delivers a warm, complex sound that cuts through dense mixes naturally. Dee would later move toward Zildjian cymbals as his endorsement relationships evolved.
+
 **Source:** https://metalforge.io/articles/bastards-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

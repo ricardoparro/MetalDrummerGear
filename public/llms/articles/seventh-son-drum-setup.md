@@ -72,8 +72,30 @@ The 20" ride became arguably more important on Seventh Son than any previous Iro
 - Estimated kit value: $3,000-4,000 (1988)
 - Estimated snare value: $300-450 (1988)
 
+## Frequently Asked Questions
+
+**Q: What kit did Nicko McBrain use on Seventh Son of a Seventh Son?**
+
+A: Nicko McBrain recorded Seventh Son of a Seventh Son (1988) on a Ludwig Classic Maple kit — the same setup he had used across the preceding Iron Maiden albums including Piece of Mind (1983) and Powerslave (1984). The configuration featured a single 22"x14" bass drum, two rack toms (12" and 13"), and two floor toms (16" and 18"). The maple shells' warm, resonant character complemented the album's synthesizer-driven production at Musicland Studios in Munich. For a complete profile of Nicko's setup across his career, see the [Nicko McBrain drummer profile](/drummer/nicko-mcbrain).
+
+**Q: How did Nicko McBrain adapt his drumming for concept album structures on Seventh Son?**
+
+A: Seventh Son of a Seventh Son demanded something different from Nicko McBrain than previous Iron Maiden albums. The synthesizer arrangements — unprecedented in the band's catalog — required him to leave more sonic space, particularly in the mid and upper frequency ranges where keyboards occupied. Rather than the relentless forward drive of Powerslave's "Aces High," tracks like "Infinite Dreams" and the nine-minute title epic required dynamic navigation: playing quietly enough to support keyboard passages, then building to full power for the climaxes. The concept album format also meant longer, more structurally complex songs — Nicko had to sustain concentration and feel across arrangements where sections could shift dramatically in tempo, dynamics, and character.
+
+**Q: What cymbals did Nicko McBrain use on Seventh Son?**
+
+A: On Seventh Son of a Seventh Son, Nicko McBrain used Paiste 2002 series cymbals throughout — the same setup he had used on Piece of Mind, Powerslave, and Somewhere in Time. His configuration included 14" Medium Hi-Hats, 16" and 18" Medium Crashes, a 20" Medium Ride, and an 18" China Type. The 2002's bright, articulate character was important in cutting through the album's keyboard layers, while the 20" ride was essential for extended progressive passages in "Infinite Dreams" and the title track. He would continue with Paiste throughout his career, eventually transitioning to the Paiste Signature series in later decades.
+
+**Q: How does Seventh Son of a Seventh Son compare to Powerslave and Piece of Mind?**
+
+A: The three albums form a progression in complexity and dynamic range. Piece of Mind (1983) announced Nicko's arrival with a powerhouse debut. Powerslave (1984) showed full command of Iron Maiden's NWOBHM style at its most relentless. Seventh Son of a Seventh Son (1988) demonstrated something different: the ability to restrain and adapt for a progressive, concept album format. The drumming is no less skilled on Seventh Son — it's more musically sophisticated in that it serves complex song structures over extended timeframes. See the [Powerslave drum setup article](/articles/powerslave-drum-setup) and the [Number of the Beast article](/articles/number-of-the-beast-drum-setup) for the full progression.
+
+**Q: Did Nicko McBrain use double bass on Seventh Son of a Seventh Son?**
+
+A: No. Nicko McBrain has used a single bass drum pedal throughout his entire Iron Maiden career, and Seventh Son of a Seventh Son is no exception. The galloping patterns that define Iron Maiden's rhythmic identity are achieved entirely with one foot — a philosophy Nicko has maintained across every album and every tour for over four decades. His single-pedal technique at the service of complex concept album arrangements on Seventh Son is one of the more remarkable aspects of the performance.
+
 **Source:** https://metalforge.io/articles/seventh-son-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

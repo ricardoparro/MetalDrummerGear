@@ -74,8 +74,26 @@ The A series 18" China cymbal continued the nu-metal tradition established by Jo
 - Estimated kit value: $3,500–5,000 (Pearl Reference Pure shell pack, 2014)
 - Estimated snare value: $400–550 (Pearl Reference Pure snare, 2014)
 
+## Frequently Asked Questions
+
+**Q: What drums does Jay Weinberg use on The Gray Chapter?**
+
+A: Jay Weinberg used a Pearl Reference Pure kit in natural finish on .5: The Gray Chapter (2014). The setup featured double 22" bass drums, four rack toms (8", 10", 12", 14"), and a 16" floor tom with a 14" x 6.5" Pearl Reference Pure snare. The Reference Pure's maple/birch hybrid shells provided focused attack and controlled sustain suited to Greg Fidelman's production approach at Shangri-La Studios.
+
+**Q: When did Jay Weinberg join Slipknot?**
+
+A: Jay Weinberg joined Slipknot in 2013, replacing founding drummer Joey Jordison. His appointment was kept secret for months; the band recorded .5: The Gray Chapter at Shangri-La Studios in Malibu with Weinberg behind the kit before publicly announcing him as the new drummer. The Gray Chapter was released in October 2014 and was Jay's studio debut with the band. He remained Slipknot's drummer until November 2023.
+
+**Q: What cymbals does Jay Weinberg use on The Gray Chapter?**
+
+A: Jay Weinberg used Zildjian A series cymbals on The Gray Chapter, including 14" A series hi-hats, crash cymbals in 16", 18", and 19" sizes, a 20" A ride, and an 18" A China. The A series' bright, cutting character helped Weinberg's cymbal work sit clearly in Slipknot's dense, layered production without being buried. The China cymbal continued the nu-metal accent tradition established by Joey Jordison across earlier Slipknot albums.
+
+**Q: What pedals does Jay Weinberg use for Slipknot?**
+
+A: Jay Weinberg uses the DW 9000 Series double bass pedal for Slipknot, including on The Gray Chapter. The DW 9000's dual-chain drive mechanism and adjustable cam profile give Weinberg the consistent, high-speed response needed for Slipknot's extreme double-kick demands. The 9000 was also used by Joey Jordison during his Slipknot tenure, making it a natural continuation for a drummer stepping into the band's established double-bass tradition.
+
 **Source:** https://metalforge.io/articles/the-gray-chapter-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

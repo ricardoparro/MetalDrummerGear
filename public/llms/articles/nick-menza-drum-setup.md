@@ -77,8 +77,30 @@ His 20" A Medium Ride provided the tonal foundation for ride cymbal passages —
 - Estimated kit value: $2,000–4,000 (vintage Pearl Masters Custom shell pack)
 - Estimated snare value: $300–600 (depending on era and shell material)
 
+## Frequently Asked Questions
+
+**Q: What drums did Nick Menza play?**
+
+A: Nick Menza used a Tama Artstar II kit (birch shells) during the Rust in Peace era, then transitioned to Pearl Masters Custom (maple shells) from the Countdown to Extinction era onward. The Pearl Masters Custom became his primary instrument through Youthanasia and Cryptic Writings, and he maintained the Pearl relationship for the remainder of his Megadeth career.
+
+**Q: What snare drum was used on Rust in Peace?**
+
+A: On Rust in Peace (1990), Nick Menza played a Tama Artstar II Bell Brass snare drum, typically in a 14"x6.5" configuration. The Bell Brass shell delivered the razor-sharp, bright crack audible throughout the album — particularly on "Holy Wars," "Tornado of Souls," and "Take No Prisoners." The bell brass material provides exceptional tonal definition with fast, focused decay ideal for high-tempo thrash drumming.
+
+**Q: What cymbals did Nick Menza endorse?**
+
+A: Nick Menza was a Zildjian endorsee throughout his Megadeth career. His setup centered on the Zildjian A series: 14" New Beat Hi-Hats, 17" and 19" A Medium Crashes, a 20" A Medium Ride, and an 18" A China Boy High. On Rust in Peace, he also used the then-new Zildjian A Custom series, which featured a brilliant finish and fast, bright response.
+
+**Q: What double bass pedal did Nick Menza use?**
+
+A: Nick Menza used the Tama Iron Cobra double bass drum pedal through much of his Megadeth career, particularly from the Countdown to Extinction era onward. The Iron Cobra's rolling glide cam system provided consistent feel and reliable performance across extensive world tours. For Rust in Peace, he used a Tama chain-drive double pedal before transitioning to the Iron Cobra.
+
+**Q: What made Nick Menza different from other thrash metal drummers?**
+
+A: Nick Menza's jazz education — he was the son of jazz saxophonist Don Menza — gave him a rhythmic vocabulary that set him apart from thrash contemporaries. He brought ghost notes, dynamic shading, and melodic fill construction into a genre that rarely made space for those elements. His kick patterns locked with Megadeth's riff shapes rather than running independently, and his fills functioned as musical arguments rather than pure technical displays. This jazz-meets-thrash approach is most audible on Rust in Peace and Countdown to Extinction.
+
 **Source:** https://metalforge.io/articles/nick-menza-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

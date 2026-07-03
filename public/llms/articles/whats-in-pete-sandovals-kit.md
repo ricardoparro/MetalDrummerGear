@@ -80,8 +80,22 @@ Throughout his career, Paiste RUDE remained Pete's primary choice, though he occ
 - Estimated kit value: $3,000-5,000 (vintage Artstar II) / $2,500-4,000 (Starclassic Performer)
 - Estimated snare value: $200-350 (Metalworks steel snare)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Pete Sandoval use with Morbid Angel?**
+
+A: Pete Sandoval has used a combination of Tama Artstar II and Tama Starclassic Performer kits throughout his career with Morbid Angel. His live setup includes dual 22x18 inch bass drums, 10 and 12 inch rack toms, and 14 and 16 inch floor toms. Shell materials have varied between birch/basswood and maple/birch configurations. He pairs these with a Tama Metalworks Steel snare at either 14x5.5 or 14x6.5 inches, delivering the sharp, aggressive attack that defines his brutal death metal style.
+
+**Q: What cymbals does Pete Sandoval use with Morbid Angel?**
+
+A: Pete Sandoval is closely associated with Paiste RUDE cymbals, one of the most iconic cymbal pairings in death metal history. His setup includes RUDE 14 inch hi-hats, RUDE 18 to 20 inch Crash/Rides, a RUDE 20 inch Ride, and a RUDE 18 inch China. The RUDE series is designed for maximum volume and aggression, with a raw, cutting tone that projects powerfully in live settings. This setup has been central to Morbid Angel's sonic identity since the late 1980s.
+
+**Q: How much does Pete Sandoval's Morbid Angel drum kit cost?**
+
+A: A vintage Tama Artstar II kit in good condition now sells for $3,000 to $5,000 on the used market, with newer Starclassic Performer equivalents priced similarly new. His Tama Metalworks Steel snare adds $200 to $350. A full Paiste RUDE cymbal setup matching his configuration runs approximately $1,500 to $2,500. A complete replica of his rig would cost $5,000 to $8,000, depending on which era kit you source.
+
 **Source:** https://metalforge.io/articles/whats-in-pete-sandovals-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

@@ -82,8 +82,22 @@ This cymbal array has remained relatively consistent since Travis joined Priest.
 - Estimated kit value: $6,000-8,000 (new) / $4,000-6,000 (used)
 - Estimated snare value: $600-900 (new)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Scott Travis use with Judas Priest?**
+
+A: Scott Travis plays a Pearl Reference Series kit with maple and birch hybrid shells and Reference-level bearing edges. His large-format configuration includes a 24x18 inch bass drum, 10, 12, and 13 inch rack toms, and 16 and 18 inch floor toms. The extended sizes and hybrid shell construction give Travis the deep, powerful tone that anchors Judas Priest's arena rock and heavy metal sound, while the Reference Series construction provides the durability required for decades of touring.
+
+**Q: What cymbals does Scott Travis use with Judas Priest?**
+
+A: Scott Travis uses Sabian HHX and AAX series cymbals. His setup includes Sabian HHX 14 inch Power Hi-Hats, Sabian AAX X-Plosion crashes in 18 and 20 inch sizes, a Sabian HHX 22 inch Power Ride, a Sabian AAX 18 inch Chinese, and a Sabian HHX 20 inch X-Treme Crash. The HHX Power series is built for high-volume projection, making it well suited for Travis's powerful playing style in large-venue Judas Priest performances.
+
+**Q: How much does Scott Travis's Judas Priest drum kit cost?**
+
+A: Scott Travis's Pearl Reference Series shell pack in his large configuration is estimated at $6,000 to $8,000 new. His Pearl Reference Brass or Custom Brass snare adds approximately $600 to $900. The Sabian HHX and AAX cymbal setup including the full array of crashes, ride, hi-hats, and china runs $2,500 to $4,000. Combined with professional hardware, pedals, and accessories, a complete comparable Travis setup can total between $12,000 and $18,000.
+
 **Source:** https://metalforge.io/articles/whats-in-scott-travis-kit
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

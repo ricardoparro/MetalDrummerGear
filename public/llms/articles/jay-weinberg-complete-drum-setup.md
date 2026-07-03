@@ -79,8 +79,30 @@ The K Custom 18" China brings the signature trash texture that nu-metal drumming
 - Estimated kit value: $4,000–8,000 (SJC Custom shell pack)
 - Estimated snare value: $300–600 (Tama SLP series)
 
+## Frequently Asked Questions
+
+**Q: What drum kit does Jay Weinberg use?**
+
+A: Jay Weinberg plays SJC Custom Drums — a boutique American drum brand based in Marlborough, Massachusetts that builds kits by hand to individual specifications. His Slipknot kit features a six-tom configuration (four rack toms: 8", 10", 12", 13" and two floor toms: 16", 18") and double 22" x 18" bass drums. The shells are maple with custom finishes matching Slipknot's visual aesthetic. His full drummer profile is available at the [Jay Weinberg MetalForge profile](/drummer/jay-weinberg).
+
+**Q: What cymbals does Jay Weinberg play?**
+
+A: Jay Weinberg is a Zildjian endorsee and plays the K Custom series. His setup includes Zildjian K Custom 14" hi-hats, 17" and 19" K Custom Dark Crashes, a K Custom 20" Ride, a K Custom 18" China, and K Custom splash cymbals. The K Custom series produces dark, complex tones — a different character from the bright Sabian AAX cymbals used by his predecessor Joey Jordison, and a shift that suited the evolving sonic direction of Slipknot's We Are Not Your Kind and The End, So Far albums.
+
+**Q: How much is Jay Weinberg’s drum kit worth?**
+
+A: A professional-spec Jay Weinberg-style setup costs approximately $8,000–15,000+ to replicate at the highest level. The SJC Custom shell pack runs $4,000–8,000 depending on configuration and finish. A full Zildjian K Custom cymbal arsenal adds $1,800–2,800. A DW 9000 double bass pedal costs $500–700. The Tama SLP snare adds another $300–600. Roland trigger systems vary widely by configuration. Professional artists typically receive endorsement pricing well below retail — Weinberg's actual cost per tour cycle is substantially lower than market rates.
+
+**Q: What sticks does Jay Weinberg use?**
+
+A: Jay Weinberg plays Vater drumsticks during his Slipknot tenure. Vater manufactures American hickory sticks known for their durability and shock absorption — qualities essential for the sustained physical intensity of Slipknot's live sets. Weinberg's model is in the 5A weight range, balancing the speed needed for Slipknot's rapid patterns with the mass required for the band's heaviest passages.
+
+**Q: What double bass pedal does Jay Weinberg use?**
+
+A: Jay Weinberg plays DW 9000 series double bass drum pedals — the same pedal used by Joey Jordison in Slipknot's earlier eras. The DW 9000 is a dual-chain drive system with adjustable cam geometry, precision ball-bearing action, and heavy-duty construction built for professional touring demands. Its consistent feel across different stage surfaces and climate conditions makes it reliable for the varied venues of a global Slipknot tour.
+
 **Source:** https://metalforge.io/articles/jay-weinberg-complete-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*

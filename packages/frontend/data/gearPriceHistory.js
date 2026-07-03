@@ -7112,6 +7112,420 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['richard christy drum setup cost', 'death drum kit price', 'pearl masters custom price', 'richard christy gear cost today', 'sound of perseverance drum kit price', 'richard christy drummer gear'],
     },
   },
+
+  // ==========================================
+  // NICK AUGUSTO - 2011 Trivium / In Waves Era
+  // Issue #3647: Gear Price History Batch 33
+  // Pearl Reference Pure + Sabian AAX Setup
+  // ==========================================
+  'nick-augusto': {
+    slug: 'nick-augusto',
+    name: 'Nick Augusto',
+    band: 'Trivium',
+    iconicYear: 2011,
+    era: 'In Waves Era',
+    albumReference: 'In Waves (2011)',
+    profileImage: '/images/drummers/nick-augusto.webp',
+
+    summary: "Nick Augusto's 2011 setup behind Trivium's In Waves marked his first full album since stepping in for Travis Smith mid-tour in 2009 — the record that established him as the band's frontline drummer rather than a fill-in. His double-kick Pearl Reference Pure configuration, paired with a brass Reference snare and a bright Sabian AAX cymbal spread, gave him the low-end weight and cutting attack Trivium's thrash-inflected metalcore demanded. The complete rig cost approximately $9,654 in 2011 dollars — equivalent to roughly $14,062 in 2026 after inflation. Augusto carried the same Pearl/Sabian/Evans configuration through Vengeance Falls (2013) before departing Trivium in 2014, later forming Corrosion and touring with Light the Torch. What defined his run in Trivium's drum chair was consistency: a single, road-tested rig built for speed and power rather than studio experimentation, anchored by a Pearl Demon Drive double pedal that gave him the fast, direct-drive response his aggressive fills required. In Waves remains the album most closely associated with that setup — the moment Augusto's powerful, technically proficient playing style became inseparable from Trivium's sound during one of the band's most transitional periods.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Reference Pure',
+        model: 'Double-bass 6-piece configuration',
+        specs: '22"x18" kick (×2), 10"x8" rack, 12"x9" rack, 16"x16" floor, 18"x16" floor — maple/birch hybrid shells',
+        originalPrice: 6200,
+        year: 2011,
+        source: 'Pearl Reference Pure catalog MSRP 2011; Pearl artist touring rig spec',
+        notes: "Augusto's double-kick Reference Pure configuration gave him the low-end weight for Trivium's thrash-leaning tracks while the maple/birch hybrid shells kept articulation crisp enough for In Waves' more melodic sections.",
+        vintageValue2026: 5600,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure (Current Configuration)',
+          price: 6800,
+          link: 'pearl-reference-pure-drums',
+        },
+      },
+      snare: {
+        item: 'Pearl Reference 14"x6.5" Brass',
+        model: 'Brass shell',
+        specs: '14"x6.5" brass shell, Reference series hardware',
+        originalPrice: 600,
+        year: 2011,
+        source: 'Pearl Reference brass snare catalog pricing 2011',
+        notes: "The brass shell's cutting crack helped Augusto's snare sit above Trivium's dense, down-tuned guitar mix on In Waves.",
+        vintageValue2026: 550,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure Brass Snare 14"x6.5"',
+          price: 650,
+          link: 'pearl-reference-brass-snare',
+        },
+      },
+      cymbals: {
+        item: 'Sabian AAX Series',
+        model: 'Full AAX configuration with X-Plosion crashes',
+        specs: '14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China',
+        originalPrice: 1900,
+        year: 2011,
+        source: 'Sabian AAX series retail pricing 2011',
+        notes: "The bright, cutting AAX X-Plosion crashes gave Augusto's accents definition against Trivium's wall-of-guitar production on In Waves.",
+        vintageValue2026: 1500,
+        modernEquivalent: {
+          item: 'Sabian AAX Series (Current Configuration)',
+          price: 2300,
+          link: 'sabian-aax-series-augusto',
+        },
+      },
+      hardware: {
+        item: 'Pearl Demon Drive Double Pedal + Hardware',
+        model: 'Pearl Demon Drive + D-2000 Roadster throne',
+        specs: 'Pearl Demon Drive double pedal, hi-hat stand, boom stands, Pearl D-2000 Roadster throne',
+        originalPrice: 850,
+        year: 2011,
+        source: 'Pearl Demon Drive and hardware catalog pricing 2011',
+        notes: "The Demon Drive's direct-drive response gave Augusto the fast, consistent double-kick attack the album's heavier tracks demanded.",
+        vintageValue2026: 700,
+        modernEquivalent: {
+          item: 'Pearl Demon Drive + hardware pack (Current)',
+          price: 1050,
+          link: 'pearl-demon-drive-double-pedal-augusto',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5B',
+        model: 'Hickory 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 9,
+        year: 2011,
+        source: 'Standard retail pricing 2011',
+        notes: "A heavier 5B taper suited Augusto's powerful, speed-oriented playing style.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B (Current)',
+          price: 14,
+          link: 'vic-firth-5b-augusto',
+        },
+      },
+      heads: {
+        item: 'Evans Drumheads',
+        model: 'G2 Clear (toms), EMAD (kick), Genera HD Dry (snare)',
+        specs: 'Evans G2 clear tom batters, EMAD kick batter, Genera HD Dry snare batter',
+        originalPrice: 95,
+        year: 2011,
+        source: 'Evans retail pricing 2011',
+        notes: "Durable, punchy heads built to survive Trivium's punishing touring schedule.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Pro Pack (G2 + G1 + EMAD2)',
+          price: 130,
+          link: 'evans-pro-pack-augusto',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 9654,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 8350,
+      modernEquivalentTotal: 10944,
+    },
+
+    priceEvolution: [
+      { year: 2009, price: 5000, label: 'Joined Trivium', event: 'Stepped in for Travis Smith mid-tour after serving as the band\'s drum technician' },
+      { year: 2011, price: 9654, label: 'Original Purchase', event: 'In Waves recorded — full Pearl Reference Pure / Sabian AAX rig documented' },
+      { year: 2013, price: 10200, label: 'Vengeance Falls era', event: 'Same Pearl/Sabian/Evans configuration carried into second studio album' },
+      { year: 2014, price: 10200, label: 'Departs Trivium', event: 'Left the band and later formed Corrosion' },
+      { year: 2026, price: 14062, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2011 In Waves-era setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Reference Pure Artist Page — Nick Augusto', year: 2011, type: 'manufacturer' },
+      { title: 'Sabian AAX Series Catalog', year: 2011, type: 'catalog' },
+      { title: 'MusicRadar — Nick Augusto\'s Trivium Drum Setup in Pictures', year: 2013, type: 'interview' },
+      { title: 'Reverb Price Guide — Pearl Reference Pure', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Nick Augusto Drum Setup Cost | Trivium In Waves Gear Price History",
+      description: "How much did Nick Augusto's 2011 Trivium drum kit cost? Original ~$9,654, inflation-adjusted to ~$14,062 today. Complete Pearl Reference Pure breakdown from the In Waves era.",
+      keywords: ['nick augusto drum setup cost', 'trivium drummer gear history', 'nick augusto pearl reference pure', 'in waves drum kit price', 'nick augusto gear cost today', 'nick augusto drummer gear'],
+    },
+  },
+
+  // ==========================================
+  // AQUILES PRIESTER - 2001 Angra / Rebirth Era
+  // Issue #3647: Gear Price History Batch 33
+  // Pearl Reference Series + Sabian AAX Setup
+  // ==========================================
+  'aquiles-priester': {
+    slug: 'aquiles-priester',
+    name: 'Aquiles Priester',
+    band: 'Angra',
+    iconicYear: 2001,
+    era: 'Rebirth Era',
+    albumReference: 'Rebirth (2001)',
+    profileImage: '/images/drummers/aquiles-priester.webp',
+
+    summary: "Aquiles Priester's 2001 setup behind Angra's Rebirth documents the rig that launched one of power metal's most celebrated drumming careers — the album that introduced Priester alongside new vocalist Fabio Lione after Andre Matos's departure, and went gold in Brazil. His Pearl Reference Series kit, paired with a brass Reference snare and a bright Sabian AAX cymbal setup, gave him the projection and stick definition needed for Rebirth's blazing double-kick runs and intricate fill work. The complete rig cost approximately $6,093 in 2001 dollars, equivalent to roughly $11,271 today after inflation. Priester carried the Pearl/Sabian combination through Temple of Shadows (2004) and departed Angra in 2012 before returning for the band's later reunion; along the way he added a Vic Firth signature stick model, replacing the off-the-shelf American Classic 5A he used at the start of his career, and adopted the direct-drive Pearl Demon Drive pedal in place of the Eliminator that anchored his blast-speed footwork on Rebirth. That evolution — from a promising young session player to one of the most technically complete drummers in power metal — began with the Pearl Reference Series kit documented here.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Reference Series',
+        model: '5-piece single-kick configuration',
+        specs: '22"x18" kick, 10"x8" rack, 12"x9" rack, 14"x14" floor, 16"x16" floor — maple/birch hybrid shells',
+        originalPrice: 3600,
+        year: 2001,
+        source: 'Pearl Reference Series catalog MSRP 2001',
+        notes: "Priester's first major-label endorsement kit after joining Angra — the Reference Series hybrid shells gave him the attack and projection needed for Rebirth's technical power metal arrangements.",
+        vintageValue2026: 2800,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure (Current Configuration)',
+          price: 5200,
+          link: 'pearl-reference-pure-priester',
+        },
+      },
+      snare: {
+        item: 'Pearl Reference 14"x6.5" Brass',
+        model: 'Brass shell',
+        specs: '14"x6.5" brass shell',
+        originalPrice: 480,
+        year: 2001,
+        source: 'Pearl Reference brass snare catalog pricing 2001',
+        notes: "The brass shell's bright crack cut through Rebirth's dense guitar layering during Priester's rapid-fire fills.",
+        vintageValue2026: 420,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure Brass Snare 14"x6.5" (Current)',
+          price: 650,
+          link: 'pearl-reference-brass-snare-priester',
+        },
+      },
+      cymbals: {
+        item: 'Sabian AAX Series',
+        model: 'Full AAX configuration',
+        specs: '14" AAX Stage Hi-Hats, 16" & 18" AAX Crashes, 20" AAX Stage Ride, 18" AAX Chinese',
+        originalPrice: 1500,
+        year: 2001,
+        source: 'Sabian AAX series catalog pricing 2001',
+        notes: "Bright AAX cymbals gave Priester the stick definition needed for his blazing double-kick runs and complex fill work on Rebirth.",
+        vintageValue2026: 1100,
+        modernEquivalent: {
+          item: 'Sabian HHX & AAX Series (Current Configuration)',
+          price: 2200,
+          link: 'sabian-hhx-aax-priester',
+        },
+      },
+      hardware: {
+        item: 'Pearl Eliminator Double Pedal + Hardware',
+        model: 'Pearl P-2002C Eliminator + stands',
+        specs: 'Pearl P-2002C Eliminator double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 420,
+        year: 2001,
+        source: 'Pearl Eliminator P-2002C MSRP 2001, hardware pack estimates',
+        notes: "The Eliminator's cam-driven system gave Priester the fast, consistent rebound his signature blast-speed double bass runs required.",
+        vintageValue2026: 340,
+        modernEquivalent: {
+          item: 'Pearl Demon Drive + Icon Rack System (Current)',
+          price: 950,
+          link: 'pearl-demon-drive-icon-rack-priester',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5A',
+        model: 'Hickory, pre-signature',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 2001,
+        source: 'Standard retail pricing 2001',
+        notes: "Off-the-shelf 5A sticks years before his signature model — already suited to the speed and control Priester's technical power metal fills required.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth Aquiles Priester Signature',
+          price: 15,
+          link: 'vic-firth-aquiles-priester-signature',
+        },
+      },
+      heads: {
+        item: 'Evans Drumheads',
+        model: 'G1 Clear (toms), EQ3 (kick), Genera Dry (snare)',
+        specs: 'Evans G1 Clear tom batters, EQ3 kick batter, Genera Dry snare batter',
+        originalPrice: 85,
+        year: 2001,
+        source: 'Evans retail pricing 2001',
+        notes: "Durable, punchy heads suited to the demands of Angra's rigorous touring schedule after Rebirth's release.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Pro Pack (Current)',
+          price: 120,
+          link: 'evans-pro-pack-priester',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 6093,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 4660,
+      modernEquivalentTotal: 9135,
+    },
+
+    priceEvolution: [
+      { year: 2000, price: 3000, label: 'Joined Angra', event: 'Recruited alongside Fabio Lione following Andre Matos\'s departure; developing Pearl endorsement' },
+      { year: 2001, price: 6093, label: 'Original Purchase', event: 'Rebirth recorded — full Pearl Reference Series / Sabian AAX rig documented' },
+      { year: 2004, price: 6500, label: 'Temple of Shadows era', event: 'Same Pearl/Sabian configuration carried into third studio album with Angra' },
+      { year: 2012, price: 7200, label: 'Departs Angra', event: 'Left the band after six years and three studio albums' },
+      { year: 2026, price: 11271, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2001 Rebirth-era setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Reference Series Catalog', year: 2001, type: 'catalog' },
+      { title: 'Sabian AAX Series Catalog', year: 2001, type: 'catalog' },
+      { title: 'Modern Drummer — Aquiles Priester Feature', year: 2010, type: 'interview' },
+      { title: 'Reverb Price Guide — Pearl Reference Series', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Aquiles Priester Drum Setup Cost | Angra Rebirth Gear Price History",
+      description: "How much did Aquiles Priester's 2001 Angra drum kit cost? Original ~$6,093, inflation-adjusted to ~$11,271 today. Complete Pearl Reference Series breakdown from the Rebirth era.",
+      keywords: ['aquiles priester drum setup cost', 'angra drummer gear history', 'aquiles priester pearl reference series', 'rebirth drum kit price', 'aquiles priester gear cost today', 'aquiles priester drummer gear'],
+    },
+  },
+
+  // ==========================================
+  // MARTIN LOPEZ - 1998 Opeth / My Arms, Your Hearse Era
+  // Issue #3647: Gear Price History Batch 33
+  // Noble & Cooley Walnut + Zildjian K Dark Setup
+  // ==========================================
+  'martin-lopez': {
+    slug: 'martin-lopez',
+    name: 'Martin Lopez',
+    band: 'Opeth',
+    iconicYear: 1998,
+    era: 'My Arms, Your Hearse Era',
+    albumReference: 'My Arms, Your Hearse (1998)',
+    profileImage: '/images/drummers/martin-lopez.webp',
+
+    summary: "Martin Lopez's 1998 setup behind Opeth's My Arms, Your Hearse — his debut studio album after joining the band in 1997 — centered on a Noble & Cooley Walnut shell pack chosen for the warm, resonant tone that let Lopez's jazz-inflected dynamics breathe against Opeth's progressive death metal arrangements. Paired with a Zildjian K Dark cymbal setup and an Axis A1000 Longboard double pedal, the complete rig cost approximately $5,143 in 1998 dollars — equivalent to roughly $10,336 today after inflation. Lopez carried a version of this setup through Still Life (1999), Blackwater Park (2001), and Opeth's other early-2000s classics before health issues forced his departure from the band in 2006. His Noble & Cooley and Zildjian K Dark combination — the foundation of the setup captured here — remained close to the gear he still uses today with Soen, the progressive metal band he co-founded in 2010, making Lopez one of the rare drummers whose signature tonal palette has barely shifted across a nearly three-decade career built on feel and musicality over raw technicality.",
+
+    setup: {
+      drums: {
+        item: 'Noble & Cooley Walnut',
+        model: '5-piece shell pack',
+        specs: '22"x16" kick, 10"x8" rack, 12"x9" rack, 14"x14" floor, 16"x16" floor — solid walnut shells',
+        originalPrice: 2600,
+        year: 1998,
+        source: 'Noble & Cooley custom shell catalog pricing 1998',
+        notes: "Lopez favored the warm, resonant tone of Noble & Cooley's solid shell construction for the dynamic, jazz-inflected passages that set My Arms, Your Hearse apart from typical death metal records.",
+        vintageValue2026: 2200,
+        modernEquivalent: {
+          item: 'Noble & Cooley Walnut (Current Configuration)',
+          price: 4200,
+          link: 'noble-cooley-walnut-lopez',
+        },
+      },
+      snare: {
+        item: 'Noble & Cooley Solid Shell 14"x6" Maple',
+        model: 'Solid maple shell',
+        specs: '14"x6" solid maple shell',
+        originalPrice: 380,
+        year: 1998,
+        source: 'Noble & Cooley snare catalog pricing 1998',
+        notes: "The solid maple shell's warm, musical crack complemented Lopez's ghost-note-heavy, dynamically nuanced fills.",
+        vintageValue2026: 380,
+        modernEquivalent: {
+          item: 'Noble & Cooley Solid Shell 14"x6" Maple (Current)',
+          price: 550,
+          link: 'noble-cooley-solid-shell-snare-lopez',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian K Dark Series',
+        model: 'Early K Dark configuration',
+        specs: '14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China',
+        originalPrice: 1600,
+        year: 1998,
+        source: 'Zildjian K Dark series catalog pricing 1998',
+        notes: "The dark, trashy K Dark line suited Lopez's preference for complex, musical cymbal textures over the bright, aggressive cymbals typical of extreme metal.",
+        vintageValue2026: 1400,
+        modernEquivalent: {
+          item: 'Zildjian K Dark Series (Current Configuration)',
+          price: 2600,
+          link: 'zildjian-k-dark-lopez',
+        },
+      },
+      hardware: {
+        item: 'Axis A1000 Longboard Double Pedal + Hardware',
+        model: 'Axis A1000 direct-drive + stands',
+        specs: 'Axis A1000 Longboard double pedal, hi-hat stand, boom stands, throne',
+        originalPrice: 480,
+        year: 1998,
+        source: 'Axis Percussion A1000 catalog pricing 1998',
+        notes: "The A1000's direct-drive mechanism gave Lopez the fast, precise footwork needed for Opeth's alternating blast-beat and jazz-groove passages.",
+        vintageValue2026: 400,
+        modernEquivalent: {
+          item: 'Axis A21 Longboard + DW 9100 Throne (Current)',
+          price: 950,
+          link: 'axis-a21-longboard-lopez',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5A',
+        model: 'Hickory 5A',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 1998,
+        source: 'Standard retail pricing 1998',
+        notes: "A lighter 5A taper matched Lopez's dynamic, ghost-note-driven playing style from the start of his Opeth tenure.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5A (Current)',
+          price: 14,
+          link: 'vic-firth-5a-lopez',
+        },
+      },
+      heads: {
+        item: 'Remo Ambassador',
+        model: 'Coated Ambassador',
+        specs: 'Remo Ambassador Coated (toms and snare), Remo Powerstroke 3 (kick)',
+        originalPrice: 75,
+        year: 1998,
+        source: 'Remo retail pricing 1998',
+        notes: "Coated Ambassador heads gave Lopez the warmth and control needed for the album's shifting dynamics, from delicate cymbal-driven passages to blast beats.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Ambassador / Powerstroke 3 Pro Pack (Current)',
+          price: 110,
+          link: 'remo-ambassador-lopez',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 5143,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 4380,
+      modernEquivalentTotal: 8424,
+    },
+
+    priceEvolution: [
+      { year: 1997, price: 2200, label: 'Joined Opeth', event: 'Replaced Anders Nordin; developing Noble & Cooley / Zildjian endorsements' },
+      { year: 1998, price: 5143, label: 'Original Purchase', event: 'My Arms, Your Hearse recorded — full Noble & Cooley / Zildjian K Dark rig documented' },
+      { year: 2001, price: 5600, label: 'Blackwater Park era', event: 'Same core setup carried into Opeth\'s commercial breakthrough album' },
+      { year: 2006, price: 5600, label: 'Departs Opeth', event: 'Left the band due to health issues after Ghost Reveries' },
+      { year: 2026, price: 10336, label: 'Current adjusted', event: 'Inflation-adjusted value of the 1998 My Arms, Your Hearse-era setup' },
+    ],
+
+    sources: [
+      { title: 'Noble & Cooley Custom Drum Catalog', year: 1998, type: 'catalog' },
+      { title: 'Zildjian K Series Catalog', year: 1998, type: 'catalog' },
+      { title: 'Drummerworld — Martin Lopez Profile', year: 2015, type: 'interview' },
+      { title: 'Reverb Price Guide — Noble & Cooley Custom Shells', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Martin Lopez Drum Setup Cost | Opeth My Arms, Your Hearse Gear Price History",
+      description: "How much did Martin Lopez's 1998 Opeth drum kit cost? Original ~$5,143, inflation-adjusted to ~$10,336 today. Complete Noble & Cooley breakdown from My Arms, Your Hearse.",
+      keywords: ['martin lopez drum setup cost', 'opeth drummer gear history', 'martin lopez noble and cooley', 'my arms your hearse drum kit price', 'martin lopez gear cost today', 'martin lopez drummer gear'],
+    },
+  },
 };
 
 // ==========================================

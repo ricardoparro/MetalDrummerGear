@@ -400,6 +400,9 @@ const gearPriceHistoryDrummers = [
   'frost',               // Now, Diabolical era (2006) — Issue #3638
   'mikkey-dee',          // Bastards era (1993) — Issue #3638
   'richard-christy',     // The Sound of Perseverance era (1998) — Issue #3638
+  'nick-augusto',        // In Waves era (2011) — Issue #3647
+  'aquiles-priester',    // Rebirth era (2001) — Issue #3647
+  'martin-lopez',        // My Arms, Your Hearse era (1998) — Issue #3647
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-03 09:10 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-03 10:52 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,33 +8,33 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 131 |
-| Sessions | 152 |
-| Page views | 218 |
-| Engagement rate | 54.61% |
-| Avg session (s) | 162 |
+| Active users | 133 |
+| Sessions | 154 |
+| Page views | 232 |
+| Engagement rate | 62.34% |
+| Avg session (s) | 156 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 28 | 14 |
+| / | 30 | 15 |
 | /drummer/joey-jordison | 15 | 12 |
-| /drummer/ben-koller | 12 | 11 |
+| /drummer/ben-koller | 13 | 12 |
 | /drummer/john-otto | 12 | 8 |
-| /drummers | 8 | 3 |
-| /drummer/bill-ward | 7 | 6 |
+| /drummers | 12 | 3 |
+| /drummer/bill-ward | 8 | 6 |
 | /drummer/jaska-raatikainen | 7 | 4 |
 | /drummer/eloy-casagrande | 6 | 6 |
 | /drummer/inferno | 6 | 5 |
-| /drummers/lars-ulrich/evolution | 6 | 1 |
+| /drummer/mario-duplantier | 6 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 97 | 85 |
+| Organic Search | 109 | 97 |
 | Direct | 37 | 28 |
-| Unassigned | 26 | 26 |
-| Cross-network | 11 | 11 |
+| Unassigned | 9 | 9 |
+| Cross-network | 6 | 6 |
 | Organic Social | 1 | 1 |
 
 ## Search Console — Search performance

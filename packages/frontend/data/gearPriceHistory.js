@@ -7526,6 +7526,419 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['martin lopez drum setup cost', 'opeth drummer gear history', 'martin lopez noble and cooley', 'my arms your hearse drum kit price', 'martin lopez gear cost today', 'martin lopez drummer gear'],
     },
   },
+
+  // ==========================================
+  // NAVENE KOPERWEIS - 2012 Animals as Leaders / Weightless Era
+  // Issue #3652: Gear Price History Batch 34
+  // DW Performance Series + Meinl Byzance Setup
+  // ==========================================
+  'navene-koperweis': {
+    slug: 'navene-koperweis',
+    name: 'Navene Koperweis',
+    band: 'Animals as Leaders',
+    iconicYear: 2012,
+    era: 'Weightless Touring Era',
+    albumReference: 'Weightless (2011)',
+    profileImage: '/images/drummers/navene-koperweis.webp',
+
+    summary: "Navene Koperweis's 2012 setup behind Animals as Leaders' Weightless touring cycle documents the rig that carried one of progressive metal's most technically adventurous drummers through his highest-profile tenure to date. Joining the instrumental djent pioneers as they toured behind Weightless — an album whose polyrhythmic, palm-muted riffing demanded surgical precision from whoever sat behind the kit — Koperweis built his rig around a DW Performance Series maple shell pack paired with a DW Performance steel snare and a five-piece Meinl Byzance Extra Dry cymbal spread. The complete rig cost approximately $6,028 in 2012 dollars, equivalent to roughly $8,601 today after inflation. Koperweis left Animals as Leaders in 2014, replaced by Matt Garstka, and went on to found the progressive metal outfit Entheos while continuing his prolific work as a producer and multi-instrumentalist. What made his Animals as Leaders-era rig distinctive was its restraint: rather than the sprawling double-kick configurations common among his technical-metal peers, Koperweis favored a compact, articulate five-piece kit built for clarity in dense, layered mixes — a philosophy that carried directly into the DW/Meinl setup he still favors with Entheos today.",
+
+    setup: {
+      drums: {
+        item: 'DW Performance Series',
+        model: 'Maple 5-piece shell pack',
+        specs: '22"x18" bass drum, 10"x8" rack, 12"x9" rack, 14"x12" rack, 16"x14" floor — all-maple shells',
+        originalPrice: 3200,
+        year: 2012,
+        source: 'DW Performance Series catalog MSRP 2012',
+        notes: "Koperweis favored the compact, articulate DW Performance configuration for the clarity it gave his intricate, palm-muted fills against Animals as Leaders' dense guitar layering.",
+        vintageValue2026: 2400,
+        modernEquivalent: {
+          item: 'DW Performance Series (Current Configuration)',
+          price: 3800,
+          link: 'dw-performance-series-koperweis',
+        },
+      },
+      snare: {
+        item: 'DW Performance 14"x6.5" Steel',
+        model: 'Steel shell',
+        specs: '14"x6.5" steel shell, Performance series hardware',
+        originalPrice: 380,
+        year: 2012,
+        source: 'DW Performance steel snare catalog pricing 2012',
+        notes: "The steel shell's bright, focused crack cut through Animals as Leaders' layered, palm-muted riffing during Koperweis's rapid-fire fills.",
+        vintageValue2026: 320,
+        modernEquivalent: {
+          item: 'DW Performance 14"x6.5" Steel Snare (Current)',
+          price: 450,
+          link: 'dw-performance-steel-snare-koperweis',
+        },
+      },
+      cymbals: {
+        item: 'Meinl Byzance Extra Dry Series',
+        model: 'Full Extra Dry configuration',
+        specs: '15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash',
+        originalPrice: 1700,
+        year: 2012,
+        source: 'Meinl Byzance Extra Dry series retail pricing 2012',
+        notes: "The trashy, dry-toned Byzance Extra Dry line gave Koperweis's accents definition without piercing brightness against Animals as Leaders' djent-heavy mix.",
+        vintageValue2026: 1300,
+        modernEquivalent: {
+          item: 'Meinl Byzance Extra Dry Series (Current Configuration)',
+          price: 2500,
+          link: 'meinl-byzance-extra-dry-koperweis',
+        },
+      },
+      hardware: {
+        item: 'DW 9000 Series Double Pedal + DW Throne',
+        model: 'DW 9000 double pedal + DW throne',
+        specs: 'DW 9000 Series double pedal, hi-hat stand, boom stands, DW throne',
+        originalPrice: 650,
+        year: 2012,
+        source: 'DW 9000 Series hardware catalog pricing 2012',
+        notes: "The 9000 Series pedal's smooth chain-drive response suited Koperweis's precise, evenly weighted double-kick patterns.",
+        vintageValue2026: 500,
+        modernEquivalent: {
+          item: 'DW 9000 Series Double Pedal + Hardware Pack (Current)',
+          price: 800,
+          link: 'dw-9000-double-pedal-koperweis',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5B',
+        model: 'Hickory 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 2012,
+        source: 'Standard retail pricing 2012',
+        notes: "A balanced 5B taper suited Koperweis's blend of speed and controlled dynamics.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B (Current)',
+          price: 14,
+          link: 'vic-firth-5b-koperweis',
+        },
+      },
+      heads: {
+        item: 'Evans Drumheads',
+        model: 'G2 Clear (toms), EMAD (kick), Genera HD Dry (snare)',
+        specs: 'Evans G2 clear tom batters, EMAD kick batter, Genera HD Dry snare batter',
+        originalPrice: 90,
+        year: 2012,
+        source: 'Evans retail pricing 2012',
+        notes: "Durable, punchy heads built to survive Animals as Leaders' demanding tour schedule.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Pro Pack (G2 + G1 + EMAD2)',
+          price: 125,
+          link: 'evans-pro-pack-koperweis',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 6028,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 4520,
+      modernEquivalentTotal: 7689,
+    },
+
+    priceEvolution: [
+      { year: 2011, price: 5200, label: 'Pre-AAL', event: 'Playing a DW-endorsed rig prior to joining Animals as Leaders' },
+      { year: 2012, price: 6028, label: 'Original Purchase', event: 'Weightless touring cycle — full DW Performance / Meinl Byzance rig documented' },
+      { year: 2014, price: 6400, label: 'Departs Animals as Leaders', event: 'Left the band; replaced by Matt Garstka' },
+      { year: 2015, price: 6600, label: 'Forms Entheos', event: 'Carried the DW / Meinl configuration into his new progressive metal project' },
+      { year: 2026, price: 8601, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2012 Weightless-era setup' },
+    ],
+
+    sources: [
+      { title: 'DW Drums Artist Page — Navene Koperweis', year: 2012, type: 'manufacturer' },
+      { title: 'Meinl Byzance Cymbals Artist Roster', year: 2012, type: 'manufacturer' },
+      { title: 'Drumeo — Navene Koperweis Progressive Metal Drumming Feature', year: 2013, type: 'interview' },
+      { title: 'Reverb Price Guide — DW Performance Series', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Navene Koperweis Drum Setup Cost | Animals as Leaders Weightless Gear Price History",
+      description: "How much did Navene Koperweis's 2012 Animals as Leaders drum kit cost? Original ~$6,028, inflation-adjusted to ~$8,601 today. Complete DW Performance Series breakdown from the Weightless era.",
+      keywords: ['navene koperweis drum setup cost', 'animals as leaders drummer gear history', 'navene koperweis dw performance series', 'weightless drum kit price', 'navene koperweis gear cost today', 'navene koperweis drummer gear'],
+    },
+  },
+
+  // ==========================================
+  // TRAVIS ORBIN - 2017 Darkest Hour / Godless Prophets Era
+  // Issue #3652: Gear Price History Batch 34
+  // SJC Custom Drums + Zildjian K Custom Setup
+  // ==========================================
+  'travis-orbin': {
+    slug: 'travis-orbin',
+    name: 'Travis Orbin',
+    band: 'Darkest Hour',
+    iconicYear: 2017,
+    era: 'Godless Prophets & the Migrant Flora Era',
+    albumReference: 'Godless Prophets & the Migrant Flora (2017)',
+    profileImage: '/images/drummers/travis-orbin.webp',
+
+    summary: "Travis Orbin's 2017 setup behind Darkest Hour's Godless Prophets & the Migrant Flora documents the rig he brought to the thrash-inflected metalcore veterans after building a reputation as one of progressive metal's most technically distinctive drummers during his run with Periphery. His SJC Custom Drums shell pack, paired with an SJC Custom maple snare and a Zildjian K Custom Dark cymbal setup, gave him the dark, controlled tonality suited to Darkest Hour's more atmospheric, less djent-leaning attack. The rig also carried a Roland SPD-SX sampling pad — a holdover from Orbin's polyrhythmic, electronics-augmented playing style — mounted alongside a DW 9000 Series double pedal and DW 9100 throne. The complete setup cost approximately $7,783 in 2017 dollars, equivalent to roughly $10,403 in 2026 after inflation. Orbin's technical vocabulary, honed across years of complex time signatures and precise double-bass work, gave Darkest Hour's rhythm section a level of polish uncommon in the band's earlier lineups. Alongside his work as a session musician and prolific YouTube drum-playthrough creator, the SJC/Zildjian rig documented here reflects Orbin's continued evolution from djent-scene pioneer to genre-crossing technical specialist.",
+
+    setup: {
+      drums: {
+        item: 'SJC Custom Drums',
+        model: '5-piece custom shell pack',
+        specs: '22"x18" kick, 10"x8" rack, 12"x9" rack, 14"x14" floor, 16"x16" floor — custom maple shells',
+        originalPrice: 4200,
+        year: 2017,
+        source: 'SJC Custom Drums build-your-own pricing 2017',
+        notes: "Orbin's custom-built SJC shells gave him a warm, controlled low end suited to Darkest Hour's heavier, less djent-leaning attack than his earlier progressive metal work.",
+        vintageValue2026: 3200,
+        modernEquivalent: {
+          item: 'SJC Custom Drums (Current Configuration)',
+          price: 4800,
+          link: 'sjc-custom-drums-orbin',
+        },
+      },
+      snare: {
+        item: 'SJC Custom 14"x6.5" Maple',
+        model: 'Custom maple shell',
+        specs: '14"x6.5" maple shell, custom lacquer finish',
+        originalPrice: 480,
+        year: 2017,
+        source: 'SJC Custom Drums snare pricing 2017',
+        notes: "The maple shell's warm, controlled crack matched Orbin's dynamic, ghost-note-heavy fill vocabulary.",
+        vintageValue2026: 400,
+        modernEquivalent: {
+          item: 'SJC Custom 14"x6.5" Maple Snare (Current)',
+          price: 550,
+          link: 'sjc-custom-maple-snare-orbin',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian K Custom Dark Series',
+        model: 'Full K Custom Dark configuration',
+        specs: '14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride, 18" K Custom China',
+        originalPrice: 1800,
+        year: 2017,
+        source: 'Zildjian K Custom series retail pricing 2017',
+        notes: "The dark, trashy K Custom line gave Orbin complex, controlled overtones suited to Darkest Hour's dense, mid-tempo riffing.",
+        vintageValue2026: 1400,
+        modernEquivalent: {
+          item: 'Zildjian K Custom Dark Series (Current Configuration)',
+          price: 2300,
+          link: 'zildjian-k-custom-dark-orbin',
+        },
+      },
+      hardware: {
+        item: 'DW 9000 Series Double Pedal + Roland SPD-SX + DW 9100 Throne',
+        model: 'Double pedal + sampling pad + throne',
+        specs: 'DW 9000 Series double pedal, Roland SPD-SX Sampling Pad, hi-hat stand, boom stands, DW 9100 Roadster throne',
+        originalPrice: 1200,
+        year: 2017,
+        source: 'DW 9000 Series and Roland SPD-SX catalog pricing 2017',
+        notes: "The Roland SPD-SX pad let Orbin trigger samples and layered percussion live, a carryover from the electronics-augmented style he developed earlier in his career.",
+        vintageValue2026: 900,
+        modernEquivalent: {
+          item: 'DW 9000 Series Double Pedal + Roland SPD-SX + Throne (Current)',
+          price: 1450,
+          link: 'dw-9000-spd-sx-orbin',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5B',
+        model: 'Hickory 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 2017,
+        source: 'Standard retail pricing 2017',
+        notes: "A durable 5B taper suited Orbin's powerful, technically demanding playing style.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B (Current)',
+          price: 14,
+          link: 'vic-firth-5b-orbin',
+        },
+      },
+      heads: {
+        item: 'Evans Drumheads',
+        model: 'G2 Clear (toms), EMAD (kick), Genera HD Dry (snare)',
+        specs: 'Evans G2 clear tom batters, EMAD kick batter, Genera HD Dry snare batter',
+        originalPrice: 95,
+        year: 2017,
+        source: 'Evans retail pricing 2017',
+        notes: "Durable, punchy heads built to survive Darkest Hour's touring schedule.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Pro Pack (G2 + G1 + EMAD2)',
+          price: 130,
+          link: 'evans-pro-pack-orbin',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 7783,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 5900,
+      modernEquivalentTotal: 9244,
+    },
+
+    priceEvolution: [
+      { year: 2012, price: 6800, label: 'Departs Periphery', event: 'Left the band after his run as a founding member; continued as a session and solo artist' },
+      { year: 2017, price: 7783, label: 'Original Purchase', event: 'Joins Darkest Hour — full SJC Custom / Zildjian K Custom rig documented on Godless Prophets & the Migrant Flora' },
+      { year: 2019, price: 8100, label: 'Continued Darkest Hour tenure', event: 'Same SJC / Zildjian configuration carried through subsequent touring cycles' },
+      { year: 2026, price: 10403, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2017 Godless Prophets-era setup' },
+    ],
+
+    sources: [
+      { title: 'SJC Custom Drums Artist Page — Travis Orbin', year: 2017, type: 'manufacturer' },
+      { title: 'Zildjian K Custom Series Catalog', year: 2017, type: 'catalog' },
+      { title: 'Modern Drummer — Darkest Hour Gear Feature', year: 2017, type: 'interview' },
+      { title: 'Reverb Price Guide — SJC Custom Drums', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Travis Orbin Drum Setup Cost | Darkest Hour Godless Prophets Gear Price History",
+      description: "How much did Travis Orbin's 2017 Darkest Hour drum kit cost? Original ~$7,783, inflation-adjusted to ~$10,403 today. Complete SJC Custom Drums breakdown from Godless Prophets & the Migrant Flora.",
+      keywords: ['travis orbin drum setup cost', 'darkest hour drummer gear history', 'travis orbin sjc custom drums', 'godless prophets drum kit price', 'travis orbin gear cost today', 'travis orbin drummer gear'],
+    },
+  },
+
+  // ==========================================
+  // HANNES GROSSMANN - 2009 Obscura / Cosmogenesis Era
+  // Issue #3652: Gear Price History Batch 34
+  // DW Collector's Series + Meinl Byzance Setup
+  // ==========================================
+  'hannes-grossmann': {
+    slug: 'hannes-grossmann',
+    name: 'Hannes Grossmann',
+    band: 'Obscura',
+    iconicYear: 2009,
+    era: 'Cosmogenesis Era',
+    albumReference: 'Cosmogenesis (2009)',
+    profileImage: '/images/drummers/hannes-grossmann.webp',
+
+    summary: "Hannes Grossmann's 2009 setup behind Obscura's Cosmogenesis documents the rig that helped redefine technical death metal for a new generation — the album that established Obscura as heir apparent to Death's progressive legacy after Grossmann's earlier tenure in Necrophagist. His DW Collector's Series all-maple kit, paired with a DW Collector's maple snare and a Meinl Byzance cymbal setup built around traditional and brilliant finishes, gave him the warmth and articulation needed for Cosmogenesis's sweeping, multi-tempo compositions. The complete rig cost approximately $8,992 in 2009 dollars — equivalent to roughly $13,733 in 2026 after inflation. Grossmann carried a version of this DW/Meinl configuration through Omnivium (2011) before departing Obscura in 2014, having already co-founded the progressive death metal supergroup Alkaloid in 2013. What distinguished Grossmann's playing on Cosmogenesis was his classically-influenced precision — a drummer equally comfortable with blast-beat velocity and the kind of compositional restraint that let Obscura's cosmic, multi-part arrangements breathe. The DW Collector's Series kit documented here remained his foundation through one of technical death metal's most celebrated album runs.",
+
+    setup: {
+      drums: {
+        item: "DW Collector's Series",
+        model: 'All-maple 5-piece shell pack',
+        specs: '22"x18" bass drum, 10"x8" rack, 12"x9" rack, 14"x14" floor, 16"x16" floor — all-maple shells',
+        originalPrice: 6200,
+        year: 2009,
+        source: "DW Collector's Series catalog MSRP 2009",
+        notes: "The all-maple Collector's shells gave Grossmann the warm fundamental and clear attack needed for Cosmogenesis's sweeping, multi-tempo compositions.",
+        vintageValue2026: 4000,
+        modernEquivalent: {
+          item: "DW Collector's Series Maple (Current Configuration)",
+          price: 7200,
+          link: 'dw-collectors-series-grossmann',
+        },
+      },
+      snare: {
+        item: "DW Collector's 14\"x5.5\" Maple",
+        model: 'Maple shell',
+        specs: '14"x5.5" maple shell, Collector\'s series hardware',
+        originalPrice: 500,
+        year: 2009,
+        source: "DW Collector's maple snare catalog pricing 2009",
+        notes: "The maple shell's focused, controlled crack cut cleanly through Obscura's dense, multi-layered guitar arrangements.",
+        vintageValue2026: 380,
+        modernEquivalent: {
+          item: "DW Collector's 14\"x5.5\" Maple Snare (Current)",
+          price: 550,
+          link: 'dw-collectors-maple-snare-grossmann',
+        },
+      },
+      cymbals: {
+        item: 'Meinl Byzance Series',
+        model: 'Traditional & Brilliant configuration',
+        specs: '14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride',
+        originalPrice: 1500,
+        year: 2009,
+        source: 'Meinl Byzance series retail pricing 2009',
+        notes: "The dark, complex Byzance Traditional line paired with brighter Brilliant crashes gave Grossmann's cymbal work definition without piercing harshness at blast-beat tempos.",
+        vintageValue2026: 1100,
+        modernEquivalent: {
+          item: 'Meinl Byzance Series (Current Configuration)',
+          price: 2100,
+          link: 'meinl-byzance-series-grossmann',
+        },
+      },
+      hardware: {
+        item: 'DW 9000 Series Double Pedal + Hardware',
+        model: 'DW 9000 double pedal + stands',
+        specs: 'DW 9000 Series double pedal, hi-hat stand, boom stands, DW throne',
+        originalPrice: 700,
+        year: 2009,
+        source: 'DW 9000 Series hardware catalog pricing 2009',
+        notes: "The 9000 Series pedal's smooth, consistent chain-drive response gave Grossmann the precision needed for Cosmogenesis's rapid tempo shifts.",
+        vintageValue2026: 500,
+        modernEquivalent: {
+          item: 'DW 9000 Series Double Pedal + Hardware Pack (Current)',
+          price: 900,
+          link: 'dw-9000-double-pedal-grossmann',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5B',
+        model: 'Hickory 5B',
+        specs: 'Hickory, wood tip',
+        originalPrice: 7,
+        year: 2009,
+        source: 'Standard retail pricing 2009',
+        notes: "A heavier 5B taper suited Grossmann's powerful, technically demanding playing style.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B (Current)',
+          price: 13,
+          link: 'vic-firth-5b-grossmann',
+        },
+      },
+      heads: {
+        item: 'Evans Drumheads',
+        model: 'G2 Clear (toms), EMAD (kick), Genera HD Dry (snare)',
+        specs: 'Evans G2 clear tom batters, EMAD kick batter, Genera HD Dry snare batter',
+        originalPrice: 85,
+        year: 2009,
+        source: 'Evans retail pricing 2009',
+        notes: "Durable, punchy heads built to survive Obscura's demanding touring schedule.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Pro Pack (G2 + G1 + EMAD2)',
+          price: 120,
+          link: 'evans-pro-pack-grossmann',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 8992,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 5980,
+      modernEquivalentTotal: 10883,
+    },
+
+    priceEvolution: [
+      { year: 2008, price: 7800, label: 'Co-founds Obscura', event: 'Departs Necrophagist; establishes DW Collector\'s / Meinl Byzance rig with new band' },
+      { year: 2009, price: 8992, label: 'Original Purchase', event: 'Cosmogenesis recorded — full DW Collector\'s / Meinl Byzance rig documented' },
+      { year: 2011, price: 9400, label: 'Omnivium era', event: 'Same DW / Meinl configuration carried into Obscura\'s second album' },
+      { year: 2014, price: 9400, label: 'Departs Obscura', event: 'Left the band; continues with Alkaloid, co-founded in 2013' },
+      { year: 2026, price: 13733, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2009 Cosmogenesis-era setup' },
+    ],
+
+    sources: [
+      { title: "DW Drums Artist Page — Hannes Grossmann", year: 2009, type: 'manufacturer' },
+      { title: 'Meinl Byzance Cymbals Artist Roster', year: 2009, type: 'manufacturer' },
+      { title: 'Blabbermouth — Obscura Cosmogenesis Album Feature', year: 2009, type: 'interview' },
+      { title: "Reverb Price Guide — DW Collector's Series", year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Hannes Grossmann Drum Setup Cost | Obscura Cosmogenesis Gear Price History",
+      description: "How much did Hannes Grossmann's 2009 Obscura drum kit cost? Original ~$8,992, inflation-adjusted to ~$13,733 today. Complete DW Collector's Series breakdown from the Cosmogenesis era.",
+      keywords: ['hannes grossmann drum setup cost', 'obscura drummer gear history', 'hannes grossmann dw collectors series', 'cosmogenesis drum kit price', 'hannes grossmann gear cost today', 'hannes grossmann drummer gear'],
+    },
+  },
 };
 
 // ==========================================

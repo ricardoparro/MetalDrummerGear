@@ -403,6 +403,9 @@ const gearPriceHistoryDrummers = [
   'nick-augusto',        // In Waves era (2011) — Issue #3647
   'aquiles-priester',    // Rebirth era (2001) — Issue #3647
   'martin-lopez',        // My Arms, Your Hearse era (1998) — Issue #3647
+  'navene-koperweis',    // Weightless era (2012) — Issue #3652
+  'travis-orbin',        // Godless Prophets & the Migrant Flora era (2017) — Issue #3652
+  'hannes-grossmann',    // Cosmogenesis era (2009) — Issue #3652
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

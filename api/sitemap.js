@@ -268,6 +268,8 @@ const soundLikeGuides = [
   { slug: 'how-to-sound-like-ryan-van-poederooyen', name: 'How to Sound Like Ryan Van Poederooyen' },
   { slug: 'how-to-sound-like-kevin-talley', name: 'How to Sound Like Kevin Talley' },
   { slug: 'how-to-sound-like-isaac-lamb', name: 'How to Sound Like Isaac Lamb' },
+  // Issue #3660: SEO — Arin Ilejay (live in soundLikeGuides.js, missing from sitemap)
+  { slug: 'how-to-sound-like-arin-ilejay', name: 'How to Sound Like Arin Ilejay' },
 ];
 
 // Issue #702: Beginner gear guides - SEO content hub
@@ -406,6 +408,7 @@ const gearPriceHistoryDrummers = [
   'navene-koperweis',    // Weightless era (2012) — Issue #3652
   'travis-orbin',        // Godless Prophets & the Migrant Flora era (2017) — Issue #3652
   'hannes-grossmann',    // Cosmogenesis era (2009) — Issue #3652
+  'scott-travis',        // Painkiller era (1990) — Issue #3660
 ];
 
 // Issue #1473: Individual /battles/<slug> pages — derive slugs from CURATED_MATCHUPS

@@ -53,7 +53,9 @@ try {
 
 // Build slug → drummer lookup
 function nameToSlug(name) {
-  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  // Strip diacritics (e.g. "Morgan Ågren" -> "morgan-agren") before stripping
+  // non-ASCII chars, matching the slug convention used across the site.
+  return name.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 const drummerBySlug = {};
 for (const d of drummers) {

@@ -200,7 +200,10 @@ const ARTICLE_METADATA = {
 function getDrummerBySlug(slug) {
   const normalizedSlug = slug.toLowerCase().replace(/[^a-z0-9-]/g, '');
   return drummers.find(d => {
-    const drummerSlug = d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+    // Strip diacritics (e.g. "Morgan Ågren" -> "morgan-agren") before stripping
+    // non-ASCII chars, so names with accents still resolve to the same slug
+    // used across the site (sitemap.js, drummerComparisons.js, etc.)
+    const drummerSlug = d.name.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
     return drummerSlug === normalizedSlug;
   });
 }

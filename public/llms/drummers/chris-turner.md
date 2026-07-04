@@ -26,6 +26,12 @@ Chris Turner's drum kit and gear setup. Chris Turner is a professional metal dru
 | Signature snare | Tama S.L.P. 14x5.5" G-Maple |
 | Sticks | Vic Firth American Classic 5A |
 
+## Kit Overview
+
+Chris Turner plays a Tama Starclassic Maple/Birch drum kit, the setup behind Oceans Ate Alaska's technical, polyrhythmic progressive metalcore on albums like "Hikari" (2017). At the center of the Chris Turner drum kit is a Tama S.L.P. 14x5.5" G-Maple snare, chosen for a fast, articulate attack that keeps pace with his complex time signatures and blast-beat-driven fills. A Tama Speed Cobra 910 Double Pedal delivers the quick, controlled double bass response his polyrhythmic patterns demand, mounted alongside a Tama 1st Chair Throne.
+
+Meinl Byzance Series cymbals define the Chris Turner drum set's tone: 15" Dual Hi-Hats for nuanced articulation across shifting time signatures, 18" and 20" Extra Dry Medium Crashes for controlled dynamic accents, a 22" Dual Ride for rhythmic clarity through dense arrangements, and an 18" Extra Dry China for sharp punctuation. Vic Firth American Classic 5A sticks and Evans drumheads round out the rig. This gear configuration is verified via Meinl's official artist roster and Turner's own channel.
+
 ## Biography
 
 Chris Turner is a British drummer and founding member of the progressive metalcore band Oceans Ate Alaska, formed in 2010 in Birmingham. Known for his exceptionally technical and polyrhythmic drumming style, Turner has been praised for pushing the boundaries of modern metalcore drumming. His playing incorporates complex time signatures, intricate blast beats, and fusion-influenced patterns that have earned him recognition as one of the most innovative drummers in contemporary metal. Oceans Ate Alaska's unique blend of metalcore with Japanese musical influences, particularly on their album "Hikari" (2017), showcases Turner's versatility and creativity. He has cited drummers like Matt Halpern and Matt Garstka as influences.

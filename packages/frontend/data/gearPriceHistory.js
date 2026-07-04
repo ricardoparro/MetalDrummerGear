@@ -8347,6 +8347,554 @@ export const GEAR_PRICE_HISTORY = {
       keywords: ['morgan agren drum setup cost', 'mats morgan band drum kit price', 'dw collectors series price', 'morgan agren gear cost today', 'zildjian k custom price', 'morgan agren drummer gear cost'],
     },
   },
+
+  // ==========================================
+  // DARAY - 2011 Welcome to the Morbid Reich Era
+  // Pearl Reference Pure / Paiste RUDE Setup
+  // ==========================================
+  'daray': {
+    slug: 'daray',
+    name: 'Daray',
+    band: 'Vader',
+    iconicYear: 2011,
+    era: 'Welcome to the Morbid Reich Era',
+    albumReference: 'Welcome to the Morbid Reich (2011)',
+    profileImage: '/images/drummers/daray.webp',
+
+    summary: "Daray's 2011 setup behind Vader's Welcome to the Morbid Reich — recorded midway through his decade-long tenure (2006-2016) with Poland's most internationally recognized death metal band — documents the gear behind one of extreme metal's most technically demanding drummers. By 2011, Daray was simultaneously serving as Dimmu Borgir's drummer as well, having replaced Hellhammer in 2008, and the physical toolkit he built for Vader's blast-beat pedigree was the same rig he carried into Dimmu Borgir's symphonic productions. His setup centered on a Pearl Reference Pure kit in custom black finish, a Pearl Reference 14\"x5\" brass snare for cutting projection, and a Paiste cymbal configuration spanning the Sound Edge, RUDE, and 2002 lines, driven by the Pearl Demon Drive double pedal. The complete rig cost approximately $6,143 in 2011 dollars, equivalent to roughly $8,948 today after inflation.\n\nEvery component served the specific demands of Vader's thrash-inflected death metal on Welcome to the Morbid Reich. The Reference Pure's multi-core maple/birch construction gave Daray's blast beats and machine-gun double-kick patterns a tight, consistent response at extreme tempos without the pitch drift that cheaper shells develop under sustained high-impact playing. The brass snare's bright, dense-shell crack placed his hits above Vader's down-tuned, high-gain guitar wall without requiring excessive production boost, while the Paiste RUDE Power Ride's thick construction resisted warping under the aggressive, high-volume riding his technique demanded across extensive touring.\n\nThat Pearl / Paiste core proved durable well beyond Vader: it carried directly into Daray's full-time Dimmu Borgir role after he left Vader in 2016, powering albums like Eonian (2018) and years of festival headline slots where his kit had to perform with absolute consistency from intimate club stages to elaborate pyrotechnic productions. His current setup, built around the same Pearl Reference Pure / Paiste RUDE foundation established during this Vader-era configuration, is valued at approximately $9,739 at current retail — a testament to a rig engineered for extreme speed that never needed to change.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Reference Pure',
+        model: 'Custom black finish, maple/birch multi-core shell pack',
+        specs: '22" bass drum (double kick via Demon Drive), 10"/12" rack toms, 16"/18" floor toms',
+        originalPrice: 3200,
+        year: 2011,
+        source: 'Pearl Reference Pure catalog pricing 2011',
+        notes: "Multi-core maple/birch construction chosen for consistent shell resonance at the extreme tempos Vader's blast-beat-driven death metal demanded.",
+        vintageValue2026: 2800,
+        modernEquivalent: {
+          item: 'Pearl Reference Pure (Current Line)',
+          price: 5500,
+          link: 'pearl-reference-pure-daray',
+        },
+      },
+      snare: {
+        item: 'Pearl Reference 14"x5" Brass',
+        model: 'Brass shell, cutting high-frequency crack',
+        specs: '14" x 5" brass shell',
+        originalPrice: 450,
+        year: 2011,
+        source: 'Pearl Reference Series brass snare catalog pricing 2011',
+        notes: "Brass shell's bright, fast-decay crack chosen to cut through Vader's down-tuned, high-gain guitar wall without excessive production boost.",
+        vintageValue2026: 400,
+        modernEquivalent: {
+          item: 'Pearl Reference 14"x5" Brass (Current)',
+          price: 650,
+          link: 'pearl-reference-brass-snare-daray',
+        },
+      },
+      cymbals: {
+        item: 'Paiste Sound Edge / RUDE / 2002 Series',
+        model: 'Sound Edge hi-hats, RUDE and 2002 crashes, RUDE Power Ride, 2002 China',
+        specs: '15" Sound Edge hi-hats, 16" RUDE crash, 18" 2002 crash, 22" RUDE Power Ride, 18" 2002 China',
+        originalPrice: 2000,
+        year: 2011,
+        source: 'Paiste RUDE/2002 series catalog pricing 2011',
+        notes: "RUDE series chosen for physical durability under high-impact playing across extensive touring; Sound Edge hi-hats' open, shimmering wash suited the band's dynamic range.",
+        vintageValue2026: 1800,
+        modernEquivalent: {
+          item: 'Paiste RUDE / 2002 Series (Current Configuration)',
+          price: 2900,
+          link: 'paiste-rude-2002-daray',
+        },
+      },
+      hardware: {
+        item: 'Pearl Demon Drive Double Pedal',
+        model: 'Continuous chain-drive double bass pedal',
+        specs: 'Pearl Demon Drive double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 400,
+        year: 2011,
+        source: 'Pearl hardware catalog pricing 2011',
+        notes: "Chain-drive action with adjustable cam geometry chosen for the low-resistance, predictable feel sustained double-kick blast patterns require at extreme tempos.",
+        vintageValue2026: 300,
+        modernEquivalent: {
+          item: 'Pearl Demon Drive Double Pedal (Current)',
+          price: 550,
+          link: 'pearl-demon-drive-daray',
+        },
+      },
+      sticks: {
+        item: 'Promark 5B',
+        model: 'Hickory',
+        specs: 'Hickory, standard 5B profile',
+        originalPrice: 8,
+        year: 2011,
+        source: 'Promark retail pricing 2011',
+        notes: "Mid-weight profile chosen for the physical striking force needed to drive Paiste RUDE cymbals at full performance volume without sacrificing blast-beat speed.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Promark 5B (Current)',
+          price: 14,
+          link: 'promark-5b-daray',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor / Ambassador',
+        model: 'Emperor two-ply batters, Ambassador resonants',
+        specs: 'Remo Emperor coated batters, Ambassador clear resonants',
+        originalPrice: 85,
+        year: 2011,
+        source: 'Remo retail pricing 2011',
+        notes: "Two-ply Emperor batters chosen for durability against the wear extreme metal's high-velocity striking causes single-ply heads to develop quickly.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Emperor / Ambassador Pro Pack',
+          price: 125,
+          link: 'remo-emperor-ambassador-daray',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 6143,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 5300,
+      modernEquivalentTotal: 9739,
+    },
+
+    priceEvolution: [
+      { year: 2003, price: 1200, label: 'Vesania Era', event: 'Joined Polish black metal band Vesania on entry-level gear' },
+      { year: 2006, price: 2500, label: 'Vader Era Begins', event: "Joined Vader, Poland's most internationally recognized death metal band" },
+      { year: 2011, price: 6143, label: 'Original Purchase', event: 'Welcome to the Morbid Reich recorded — Pearl Reference Pure / Paiste RUDE setup reaches its definitive Vader-era configuration' },
+      { year: 2018, price: 7200, label: 'Eonian Era (Dimmu Borgir)', event: 'Same Pearl / Paiste core carried into full-time Dimmu Borgir tenure after leaving Vader in 2016' },
+      { year: 2026, price: 8948, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2011 Welcome to the Morbid Reich-era Pearl Reference Pure setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Reference Pure Catalog', year: 2011, type: 'catalog' },
+      { title: 'Paiste RUDE / 2002 Series Catalog', year: 2011, type: 'catalog' },
+      { title: 'Metal Hammer — Daray Interview', year: 2018, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Pearl Reference Pure', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Daray Drum Setup Cost | Vader Gear Price History",
+      description: "How much was Daray's Welcome to the Morbid Reich-era Pearl Reference Pure drum kit worth? Original ~$6,143 in 2011, inflation-adjusted to ~$8,948 today. Complete gear breakdown from Vader and Dimmu Borgir's technical blast-beat drummer.",
+      keywords: ['daray drum setup cost', 'vader drum kit price', 'pearl reference pure price', 'daray gear cost today', 'welcome to the morbid reich drum kit price', 'daray drummer gear cost'],
+    },
+  },
+
+  // ==========================================
+  // JOCKE WALLGREN - 2016 Jomsviking Era
+  // Tama Starclassic Performer B/B / Meinl Byzance Setup
+  // ==========================================
+  'jocke-wallgren': {
+    slug: 'jocke-wallgren',
+    name: 'Jocke Wallgren',
+    band: 'Amon Amarth',
+    iconicYear: 2016,
+    era: 'Jomsviking Era',
+    albumReference: 'Jomsviking (2016)',
+    profileImage: '/images/drummers/jocke-wallgren.webp',
+
+    summary: "Jocke Wallgren's 2016 setup behind Amon Amarth's Jomsviking — his first album after joining the Swedish melodic death metal institution, replacing longtime drummer Fredrik Andersson — captures the gear behind one of Viking metal's most consistently powerful touring drummers. Coming from a background with European power and progressive metal bands Rage and Evergrey, Wallgren built his Amon Amarth rig around a Tama Starclassic Performer B/B kit in a birch/bubinga hybrid configuration, a Tama Bell Brass 14\"x6.5\" snare, and a Meinl Byzance Traditional cymbal setup, driven by the DW 9002 double bass pedal. The complete rig cost approximately $6,149 in 2016 dollars, equivalent to roughly $8,393 today after inflation.\n\nEach choice served the specific demands of stepping into Amon Amarth's drum chair. The Starclassic Performer's birch shells gave his galloping double-bass figures the sharp attack transient needed to articulate clearly against two guitarists and Johan Hegg's powerful baritone, while the bubinga inner ply added the warmth that kept the kit from sounding sterile at arena amplification. The Meinl Byzance line's dark, hand-hammered B20 bronze tonality reinforced Amon Amarth's melodic, epic identity rather than pushing toward harsh aggression, and the DW 9002's smooth cam action gave his relaxed, groove-focused foot technique the consistency to sustain the band's signature gallop across full headline sets.\n\nThat Tama / Meinl / DW core proved foundational: it carried Wallgren through Berserker (2019) — where he shifted to the drier-voiced Byzance Vintage line for the title track's extended blast-beat sections — and reached its fully evolved touring form on The Great Heathen Army (2022), a Grammis-nominated record that Kerrang! described as a step back toward the band's melodic death metal origins. His current setup, built around the same Starclassic Performer B/B / Meinl Byzance foundation established on Jomsviking, is valued at approximately $9,395 at current retail — the rig behind four studio albums of Amon Amarth's rhythmic backbone.",
+
+    setup: {
+      drums: {
+        item: 'Tama Starclassic Performer B/B',
+        model: 'Birch/bubinga hybrid shell pack',
+        specs: '22"x18" bass drums (x2), 10"/12" rack toms, 16"/18" floor toms',
+        originalPrice: 3200,
+        year: 2016,
+        source: 'Tama Starclassic Performer B/B catalog pricing 2016',
+        notes: "Birch/bubinga hybrid chosen for sharp attack clarity over Amon Amarth's dense two-guitar arrangements while retaining warmth under heavy amplification.",
+        vintageValue2026: 2800,
+        modernEquivalent: {
+          item: 'Tama Starclassic Performer B/B (Current Line)',
+          price: 5200,
+          link: 'tama-starclassic-performer-bb-jocke-wallgren',
+        },
+      },
+      snare: {
+        item: 'Tama Bell Brass',
+        model: '14"x6.5" bell brass shell',
+        specs: '14" x 6.5" bell brass shell',
+        originalPrice: 500,
+        year: 2016,
+        source: 'Tama Bell Brass Series catalog pricing 2016',
+        notes: "Bell brass shell selected for bright, cutting projection over the mid-low frequency mass Amon Amarth's two guitarists and Johan Hegg's baritone create.",
+        vintageValue2026: 400,
+        modernEquivalent: {
+          item: 'Tama Bell Brass 14"x6.5" (Current)',
+          price: 700,
+          link: 'tama-bell-brass-snare-jocke-wallgren',
+        },
+      },
+      cymbals: {
+        item: 'Meinl Byzance Traditional Series',
+        model: 'Traditional hi-hats, crashes, ride, China',
+        specs: '14" Traditional hi-hats, 16"/18" Medium/Medium Thin crashes, 20" Traditional ride, 18" China',
+        originalPrice: 1900,
+        year: 2016,
+        source: 'Meinl Byzance Traditional catalog pricing 2016',
+        notes: "Dark, hand-hammered B20 bronze tonality chosen to reinforce Amon Amarth's epic melodic identity rather than push toward harsh aggression.",
+        vintageValue2026: 1700,
+        modernEquivalent: {
+          item: 'Meinl Byzance Traditional Series (Current Configuration)',
+          price: 2700,
+          link: 'meinl-byzance-traditional-jocke-wallgren',
+        },
+      },
+      hardware: {
+        item: 'DW 9002 Double Bass Pedal',
+        model: 'Dual-chain drive double pedal',
+        specs: 'DW 9002 double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 450,
+        year: 2016,
+        source: 'DW hardware catalog pricing 2016',
+        notes: "Smooth cam action rewarding relaxed foot technique — chosen for the sustained, groove-focused double-kick gallop central to Amon Amarth's rhythmic identity.",
+        vintageValue2026: 350,
+        modernEquivalent: {
+          item: 'DW 9002 Double Bass Pedal (Current)',
+          price: 650,
+          link: 'dw-9002-double-pedal-jocke-wallgren',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5B',
+        model: 'Hickory',
+        specs: 'Hickory, heavier 5B profile',
+        originalPrice: 9,
+        year: 2016,
+        source: 'Vic Firth retail pricing 2016',
+        notes: "Heavier profile than standard 5A chosen for the physical authority Amon Amarth's arena-scale downbeats and fills require.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5B (Current)',
+          price: 15,
+          link: 'vic-firth-5b-jocke-wallgren',
+        },
+      },
+      heads: {
+        item: 'Remo Powerstroke 3 / Emperor / Ambassador',
+        model: 'Powerstroke 3 kick, Emperor Coated toms, Ambassador snare',
+        specs: 'Remo Powerstroke 3 kick batter, Emperor Coated tom batters, Coated Ambassador snare batter',
+        originalPrice: 90,
+        year: 2016,
+        source: 'Remo retail pricing 2016',
+        notes: "Two-ply tom batters chosen for durability and controlled resonance across Amon Amarth's high-volume touring environment.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Remo Powerstroke 3 / Emperor / Ambassador Pro Pack',
+          price: 130,
+          link: 'remo-powerstroke3-emperor-jocke-wallgren',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 6149,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 5250,
+      modernEquivalentTotal: 9395,
+    },
+
+    priceEvolution: [
+      { year: 2009, price: 2000, label: 'Evergrey / Rage Era', event: 'Building European touring experience in power and progressive metal on a developing Tama / Meinl setup' },
+      { year: 2016, price: 6149, label: 'Original Purchase', event: 'Jomsviking recorded — joined Amon Amarth, definitive Tama Starclassic Performer B/B / Meinl Byzance setup established' },
+      { year: 2019, price: 7000, label: 'Berserker Era', event: "Same core setup carried into Berserker, shifted to Meinl Byzance Vintage cymbal voicing for the title track's blast-beat sections" },
+      { year: 2022, price: 7600, label: 'The Great Heathen Army Era', event: "Fully evolved touring configuration for Amon Amarth's Grammis-nominated studio album" },
+      { year: 2026, price: 8393, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2016 Jomsviking-era Tama Starclassic Performer B/B setup' },
+    ],
+
+    sources: [
+      { title: 'Tama Starclassic Performer B/B Catalog', year: 2016, type: 'catalog' },
+      { title: 'Meinl Byzance Traditional Series Catalog', year: 2016, type: 'catalog' },
+      { title: 'Blabbermouth — Jocke Wallgren Interview', year: 2017, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Tama Starclassic Performer', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Jocke Wallgren Drum Setup Cost | Amon Amarth Gear Price History",
+      description: "How much was Jocke Wallgren's Jomsviking-era Tama Starclassic Performer B/B drum kit worth? Original ~$6,149 in 2016, inflation-adjusted to ~$8,393 today. Complete gear breakdown from Amon Amarth's touring drummer.",
+      keywords: ['jocke wallgren drum setup cost', 'amon amarth drum kit price', 'tama starclassic performer bb price', 'jocke wallgren gear cost today', 'jomsviking drum kit price', 'jocke wallgren drummer gear cost'],
+    },
+  },
+
+  // ==========================================
+  // ISAAC LAMB - 2017 Nomad Era
+  // SJC Custom Drums / Meinl Classics Custom Dark Setup
+  // ==========================================
+  'isaac-lamb': {
+    slug: 'isaac-lamb',
+    name: 'Isaac Lamb',
+    band: 'Kublai Khan TX',
+    iconicYear: 2017,
+    era: 'Nomad Era',
+    albumReference: 'Nomad (2017)',
+    profileImage: '/images/drummers/isaac-lamb.webp',
+
+    summary: "Isaac Lamb's 2017 setup behind Kublai Khan TX's Nomad — the Rise Records debut that carried the Sherman, Texas beatdown hardcore band to its largest audience yet — documents the gear behind a drummer who has held the band's only drum chair since its 2009 founding. Built on power-through-restraint groove philosophy rather than technical showmanship, Lamb's Nomad-era rig centered on a boutique SJC Custom Drums kit in American maple, an SJC Custom 14\"x6.5\" maple snare, and a complete Meinl Classics Custom Dark cymbal setup, driven by the DW 9000 Series double pedal. The complete rig cost approximately $6,334 in 2017 dollars, equivalent to roughly $8,466 today after inflation.\n\nEvery component reinforced the specific sonic demands of beatdown hardcore. The SJC shells' tight bearing edges gave Lamb's kick-snare relationship the focused attack and fast decay that let each hit punch through Kublai Khan TX's heavily downtuned 7-string guitars without disappearing into sustain, while the Meinl Classics Custom Dark cymbals' controlled decay prevented cymbal wash from still ringing when the album's crushing breakdowns arrived. The DW 9000's floating rotor and adjustable cam gave his foot technique the versatility to move between mid-tempo groove patterns, blast beats on tracks like \"True Fear,\" and the deliberate, weighted strokes that make Kublai Khan TX's breakdowns register as physical events.\n\nThat SJC / Meinl / DW core proved foundational: it carried Lamb through Absolute (2019) — widely cited as the band's defining statement and his most refined performance — and into Lowest Form of Animal (2022), a testament to a setup built to serve groove-first composition rather than display. Valued at approximately $9,385 at current retail, it remains the rhythmic engine behind one of modern hardcore's most respected and consistent drum chairs.",
+
+    setup: {
+      drums: {
+        item: 'SJC Custom Drums',
+        model: 'American maple shell pack, custom configuration',
+        specs: '22" bass drum (DW 9000 double pedal), 10"/12" rack toms, 14"/16" floor toms',
+        originalPrice: 3800,
+        year: 2017,
+        source: 'SJC Custom Drums catalog pricing 2017',
+        notes: "Boutique handcrafted maple shells with tight bearing edges chosen for the focused attack and fast decay that beatdown hardcore's dense guitar context demands.",
+        vintageValue2026: 3200,
+        modernEquivalent: {
+          item: 'SJC Custom Drums (Current, configured to spec)',
+          price: 5800,
+          link: 'sjc-custom-drums-isaac-lamb',
+        },
+      },
+      snare: {
+        item: 'SJC Custom Snare',
+        model: '14"x6.5" American maple',
+        specs: '14" x 6.5" maple shell',
+        originalPrice: 450,
+        year: 2017,
+        source: 'SJC Custom Drums snare catalog pricing 2017',
+        notes: "6.5\" depth chosen for the body and backbeat authority that lock absolutely with the kick in Lamb's groove-first approach.",
+        vintageValue2026: 380,
+        modernEquivalent: {
+          item: 'SJC Custom Snare 14"x6.5" (Current)',
+          price: 650,
+          link: 'sjc-custom-snare-isaac-lamb',
+        },
+      },
+      cymbals: {
+        item: 'Meinl Classics Custom Dark Series',
+        model: 'Complete Dark series setup',
+        specs: '14" Dark hi-hats, 18"/20" Dark crashes, 21" Dark ride, 18" Dark China',
+        originalPrice: 1500,
+        year: 2017,
+        source: 'Meinl Classics Custom Dark Series catalog pricing 2017',
+        notes: "Dark series' controlled decay chosen to prevent cymbal wash from ringing into the crushing breakdowns that follow closely in beatdown hardcore arrangements.",
+        vintageValue2026: 1300,
+        modernEquivalent: {
+          item: 'Meinl Classics Custom Dark Series (Current Configuration)',
+          price: 2100,
+          link: 'meinl-classics-custom-dark-isaac-lamb',
+        },
+      },
+      hardware: {
+        item: 'DW 9000 Series Double Pedal',
+        model: 'Chain-drive double pedal with floating rotor',
+        specs: 'DW 9000 double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 480,
+        year: 2017,
+        source: 'DW hardware catalog pricing 2017',
+        notes: "Floating rotor and adjustable cam chosen for versatility across Lamb's mid-tempo groove, blast beat, and weighted breakdown-stroke techniques.",
+        vintageValue2026: 380,
+        modernEquivalent: {
+          item: 'DW 9000 Series Double Pedal (Current)',
+          price: 680,
+          link: 'dw-9000-double-pedal-isaac-lamb',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 2B',
+        model: 'Hickory, heavy taper',
+        specs: 'Hickory, thick 2B profile',
+        originalPrice: 9,
+        year: 2017,
+        source: 'Vic Firth retail pricing 2017',
+        notes: "Thicker, heavier profile than standard 5A chosen for the physical weight that makes breakdown strokes register as events.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 2B (Current)',
+          price: 15,
+          link: 'vic-firth-2b-isaac-lamb',
+        },
+      },
+      heads: {
+        item: 'Evans Hydraulic',
+        model: 'Oil-filled two-ply batters',
+        specs: 'Evans Hydraulic batters across kick, toms, and snare',
+        originalPrice: 95,
+        year: 2017,
+        source: 'Evans retail pricing 2017',
+        notes: "Oil-filled construction chosen for the dead, focused attack that beatdown hardcore production aesthetics prioritize over natural resonance.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans Hydraulic Pro Pack',
+          price: 140,
+          link: 'evans-hydraulic-isaac-lamb',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 6334,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 5260,
+      modernEquivalentTotal: 9385,
+    },
+
+    priceEvolution: [
+      { year: 2009, price: 1500, label: 'Kublai Khan TX Founding', event: 'Co-founded Kublai Khan in Sherman, Texas on entry-level gear' },
+      { year: 2014, price: 4500, label: 'Balancing Survival and Happiness Era', event: 'Signed to Artery Recordings; SJC Custom Drums endorsement relationship developing' },
+      { year: 2017, price: 6334, label: 'Original Purchase', event: 'Nomad recorded — Rise Records debut, definitive SJC Custom / Meinl Classics Custom Dark setup established' },
+      { year: 2019, price: 6800, label: 'Absolute Era', event: "Same SJC / Meinl / DW core carried into the band's defining statement and Lamb's most refined performance" },
+      { year: 2026, price: 8466, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2017 Nomad-era SJC Custom Drums setup' },
+    ],
+
+    sources: [
+      { title: 'SJC Custom Drums Catalog', year: 2017, type: 'catalog' },
+      { title: 'Meinl Classics Custom Dark Series Catalog', year: 2017, type: 'catalog' },
+      { title: 'Lambgoat — Isaac Lamb Interview', year: 2019, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — SJC Custom Drums', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Isaac Lamb Drum Setup Cost | Kublai Khan TX Gear Price History",
+      description: "How much was Isaac Lamb's Nomad-era SJC Custom drum kit worth? Original ~$6,334 in 2017, inflation-adjusted to ~$8,466 today. Complete gear breakdown from Kublai Khan TX's founding beatdown hardcore drummer.",
+      keywords: ['isaac lamb drum setup cost', 'kublai khan tx drum kit price', 'sjc custom drums price', 'isaac lamb gear cost today', 'nomad drum kit price', 'isaac lamb drummer gear cost'],
+    },
+  },
+
+  // ==========================================
+  // RYAN VAN POEDEROOYEN - 2011 Deconstruction Era
+  // Pearl Reference / Sabian AAX-HHX Setup
+  // ==========================================
+  'ryan-van-poederooyen': {
+    slug: 'ryan-van-poederooyen',
+    name: 'Ryan Van Poederooyen',
+    band: 'Devin Townsend Project',
+    iconicYear: 2011,
+    era: 'Deconstruction Era',
+    albumReference: 'Deconstruction (2011)',
+    profileImage: '/images/drummers/ryan-van-poederooyen.webp',
+
+    summary: "Ryan Van Poederooyen's 2011 setup behind Devin Townsend Project's Deconstruction — released the same day as the ambient near-acoustic Ghost, and widely cited among prog-metal drummers as one of the most demanding drum performances in the genre — captures the gear behind Devin Townsend's drummer since 1999. Twelve years into one of progressive metal's longest-running drummer-artist partnerships, Van Poederooyen's Deconstruction-era rig centered on a Pearl Reference Series kit in a maple/mahogany hybrid configuration with double 22\"x18\" bass drums, a 14\"x6.5\" Pearl snare, and a Sabian AAX/HHX cymbal setup, driven by the Tama Iron Cobra double pedal. The complete rig cost approximately $5,898 in 2011 dollars, equivalent to roughly $8,591 today after inflation.\n\nEvery choice served the extraordinary range Townsend's catalogue demanded of him. The Reference Series' hybrid shells delivered the immediate attack needed for Deconstruction's crushing, brutal double-kick assaults while responding just as sensitively to Ghost's near-inaudible ambient passages — the same physical kit, without reconfiguration, had to function at both dynamic extremes. The Sabian AAX line's bright, fast-decaying character projected clearly through Deconstruction's dense arrangements, while the HHX series' darker, more complex tone served the progressive and atmospheric dimensions elsewhere in Townsend's output. The Iron Cobra's smooth, consistent chain-drive action gave his powerful, groove-focused double-bass technique — driving rather than blast-beat-fast — the reliability to translate identically from studio to stage.\n\nThat Pearl / Sabian / Tama core has remained Van Poederooyen's defining platform for over a decade: it carried him through Devin Townsend Project's mature phase on Z² (2014) and Empath (2019), and into Townsend's more commercially accessible InsideOut Records era on Lightwork (2022). His current setup, evolved from this Deconstruction-era configuration, is valued at approximately $9,264 at current retail — the rig behind one of prog-metal's most consistent and demanding drumming partnerships, and the subject of MetalForge's dedicated Ryan Van Poederooyen drum-setup editorial article.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Reference Series',
+        model: 'Maple/mahogany hybrid shell pack',
+        specs: '22"x18" bass drums (x2), 10"/12" rack toms, 16"/18" floor toms',
+        originalPrice: 3400,
+        year: 2011,
+        source: 'Pearl Reference Series catalog pricing 2011',
+        notes: "Maple/mahogany hybrid chosen for the versatility to respond identically at Deconstruction's full-intensity double kick and Ghost's near-silent ambient passages.",
+        vintageValue2026: 2900,
+        modernEquivalent: {
+          item: 'Pearl Reference Series (Current Line)',
+          price: 5600,
+          link: 'pearl-reference-series-ryan-van-poederooyen',
+        },
+      },
+      snare: {
+        item: 'Pearl Free-Floating / Sensitone Snare',
+        model: '14"x6.5" steel/brass shell',
+        specs: '14" x 6.5" shell',
+        originalPrice: 400,
+        year: 2011,
+        source: 'Pearl snare catalog pricing 2011',
+        notes: "Medium-depth shell tuned medium to medium-bright for definition across Townsend's extreme dynamic range, from Deconstruction's brutality to Casualties of Cool's ghost-note work.",
+        vintageValue2026: 350,
+        modernEquivalent: {
+          item: 'Pearl Free-Floating 14"x6.5" (Current)',
+          price: 600,
+          link: 'pearl-free-floating-snare-ryan-van-poederooyen',
+        },
+      },
+      cymbals: {
+        item: 'Sabian AAX / HHX Series',
+        model: 'AAX hi-hats/crashes/China, HHX crash/ride',
+        specs: '14" AAX hi-hats, 16" AAX crash, 18" HHX crash, 20" HHX ride, 18" AAX China',
+        originalPrice: 1700,
+        year: 2011,
+        source: 'Sabian AAX/HHX catalog pricing 2011',
+        notes: "AAX for bright, fast-attacking projection in dense metal arrangements; HHX for darker, more complex tone in progressive and atmospheric passages.",
+        vintageValue2026: 1500,
+        modernEquivalent: {
+          item: 'Sabian AAX / HHX Series (Current Configuration)',
+          price: 2500,
+          link: 'sabian-aax-hhx-ryan-van-poederooyen',
+        },
+      },
+      hardware: {
+        item: 'Tama Iron Cobra Double Pedal',
+        model: 'Power cam double bass pedal',
+        specs: 'Tama Iron Cobra double pedal, hi-hat stand, boom stands, snare stand',
+        originalPrice: 300,
+        year: 2011,
+        source: 'Tama hardware catalog pricing 2011',
+        notes: "Consistent, driving power cam stroke chosen for the forward-momentum double bass patterns Deconstruction's heaviest passages required.",
+        vintageValue2026: 230,
+        modernEquivalent: {
+          item: 'Tama Iron Cobra Double Pedal (Current)',
+          price: 420,
+          link: 'tama-iron-cobra-ryan-van-poederooyen',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth American Classic 5A',
+        model: 'Hickory',
+        specs: 'Hickory, wood tip',
+        originalPrice: 8,
+        year: 2011,
+        source: 'Vic Firth retail pricing 2011',
+        notes: "Standard weight selected for dynamic control across the full spectrum from Ghost's whisper-quiet passages to Deconstruction's full-intensity double-kick assaults.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth American Classic 5A (Current)',
+          price: 14,
+          link: 'vic-firth-5a-ryan-van-poederooyen',
+        },
+      },
+      heads: {
+        item: 'Evans EMAD / EC2 / Remo Ambassador',
+        model: 'EMAD kick, EC2 toms, Ambassador snare',
+        specs: 'Evans EMAD kick batter, EC2 tom batters, Remo Coated Ambassador snare batter',
+        originalPrice: 90,
+        year: 2011,
+        source: 'Evans/Remo retail pricing 2011',
+        notes: "Focused-attack kick head chosen for articulation in DTP's dense arrangements without sacrificing the sub-bass presence Deconstruction's double kick required.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans EMAD2 / EC2 / Remo Ambassador Pro Pack',
+          price: 130,
+          link: 'evans-emad-ec2-ryan-van-poederooyen',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 5898,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 4980,
+      modernEquivalentTotal: 9264,
+    },
+
+    priceEvolution: [
+      { year: 1999, price: 1500, label: 'Devin Townsend Band Formation', event: 'Began collaboration with Devin Townsend' },
+      { year: 2003, price: 3500, label: 'Accelerated Evolution Era', event: 'Pearl Reference series established as the core kit' },
+      { year: 2011, price: 5898, label: 'Original Purchase', event: 'Deconstruction and Ghost recorded and released the same day — definitive Pearl Reference / Sabian AAX-HHX setup, among prog metal\'s most demanding drum performances' },
+      { year: 2019, price: 6500, label: 'Empath Era', event: "Same Pearl / Sabian / Tama core carried into Townsend's most genre-spanning record" },
+      { year: 2026, price: 8591, label: 'Current adjusted', event: 'Inflation-adjusted value of the 2011 Deconstruction-era Pearl Reference setup' },
+    ],
+
+    sources: [
+      { title: 'Pearl Reference Series Catalog', year: 2011, type: 'catalog' },
+      { title: 'Sabian AAX/HHX Cymbals Catalog', year: 2011, type: 'catalog' },
+      { title: 'Drum! Magazine — Ryan Van Poederooyen Interview', year: 2012, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Pearl Reference Series', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Ryan Van Poederooyen Drum Setup Cost | Devin Townsend Project Gear Price History",
+      description: "How much was Ryan Van Poederooyen's Deconstruction-era Pearl Reference drum kit worth? Original ~$5,898 in 2011, inflation-adjusted to ~$8,591 today. Complete gear breakdown from Devin Townsend's longtime drummer.",
+      keywords: ['ryan van poederooyen drum setup cost', 'devin townsend project drum kit price', 'pearl reference series price', 'ryan van poederooyen gear cost today', 'deconstruction drum kit price', 'ryan van poederooyen drummer gear cost'],
+    },
+  },
 };
 
 // ==========================================

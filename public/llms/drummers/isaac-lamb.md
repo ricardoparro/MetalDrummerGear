@@ -34,6 +34,12 @@ Isaac Lamb is an American drummer and founding member of the beatdown hardcore/m
 
 Kublai Khan TX draws influence from early 1990s metallic hardcore bands like Integrity, Earth Crisis, All Out War, and Hatebreed. Lamb's drumming style emphasizes power, groove, and devastating timing on breakdowns, helping establish the band as leaders in the beatdown hardcore subgenre. The band has released five studio albums and has toured extensively with major acts in the hardcore and metal scenes.
 
+## Kit Overview
+
+Isaac Lamb plays an SJC Custom drum kit — a hand-built, made-to-order setup that reflects Kublai Khan TX's no-frills, breakdown-driven approach to beatdown hardcore. The Isaac Lamb drum set centers on an SJC Custom 14x6.5" snare, delivering a thick, punishing crack that anchors the band's crushing breakdowns and heavy groove sections without getting lost beneath downtuned guitars.
+
+Meinl Classics Custom Dark Series cymbals define the Isaac Lamb drum kit's tonal character: 14" Hi-Hats for tight, controlled chops; 18" and 20" Crashes for explosive, dark-toned accents; a 21" Ride for rhythmic definition; and an 18" China for aggressive punctuation on the band's heaviest sections. A DW 9000 Series Double Pedal drives Lamb's kick work — direct-drive precision built to land breakdown patterns consistently at every tempo Kublai Khan TX plays. Vic Firth American Classic 2B sticks and Evans Hydraulic drumheads complete the rig, chosen for durability under the sustained physical demands of a touring schedule that has run unbroken since the band's 2009 formation in Sherman, Texas.
+
 ## Band History
 
 - **Kublai Khan TX** — 2009–present (current)

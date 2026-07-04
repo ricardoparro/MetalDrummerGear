@@ -35,6 +35,12 @@ Tim Yeung (born November 27, 1978, in Pennsylvania, USA) is an American extreme 
 
 Yeung's drumming combines machine-like consistency with the brutal intensity demanded by the most extreme forms of death metal. His ability to maintain clarity and power at sustained high tempos has earned him a reputation as one of the elite drummers in the genre.
 
+## Kit Overview
+
+Tim Yeung plays a Tama Starclassic Bubinga drum kit — a dense, bass-heavy shell pack chosen for the low-end weight and fast attack his blast-beat-driven playing demands across three decades of extreme metal session and touring work. The Tim Yeung drum set centers on a Tama S.L.P. Big Black Steel 14x6.5" snare, delivering a sharp, aggressive crack that cuts through the dense, downtuned arrangements of Hate Eternal, Divine Heresy, and Vital Remains.
+
+Sabian AAX and HHX Series cymbals define the Tim Yeung drum kit's tonal character: 14" AAX Stage Hi-Hats for tight, controlled articulation at extreme tempos; 18" and 19" AAX X-Plosion Crashes for fast-attacking accents; and a 21" HHX Raw Bell Dry Ride for dark, cutting definition. A Tama Speed Cobra 910 double pedal anchors his legendary speed and stamina, powering the relentless double-bass runs that made him one of death metal's most in-demand session drummers, recording and touring with acts including Hate Eternal, Morbid Angel, Vital Remains, Divine Heresy, and Nile. Vic Firth American Classic 5A sticks and Evans drumheads round out a rig built for precision under extreme speed.
+
 ## Band History
 
 - **Hate Eternal** — 2004–2007, 2015–present (current)

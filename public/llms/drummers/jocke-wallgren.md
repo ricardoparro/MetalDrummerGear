@@ -34,6 +34,12 @@ Jocke Wallgren (born April 1, 1986, in Karlstad, Sweden) is a Swedish drummer wh
 
 Before Amon Amarth, Wallgren was known for his work with Swedish bands including Valkyria. His transition to one of Sweden's most internationally successful metal bands marked a significant career milestone, and he has since become an integral part of Amon Amarth's live and studio work.
 
+## Kit Overview
+
+Jocke Wallgren plays a Pearl Reference Pure drum kit — the versatile, hybrid-shell configuration that has powered Amon Amarth's Viking metal assault since he joined the band in 2016. The Jocke Wallgren drum set centers on a Pearl Reference 14x6.5" Brass snare, delivering the bright, cutting crack that projects through Amon Amarth's dense dual-guitar arrangements and gang-vocal choruses on arena and festival stages worldwide.
+
+Zildjian A Custom and K Custom Series cymbals define the Jocke Wallgren drum kit's sonic character: 14" A Custom Hi-Hats for tight, driving patterns; 18" and 19" A Custom Crashes for explosive accents that punctuate Amon Amarth's galloping riffs; and a 21" K Custom Ride for dark, controlled rhythmic definition. A Pearl Demon Drive double pedal anchors his double bass work, giving Wallgren the speed and stability needed for the band's driving, groove-oriented tempos. Vic Firth American Classic 5B sticks and Evans drumheads complete the rig — a setup built for consistency across Amon Amarth's relentless touring schedule since Jomsviking (2016) and Berserker (2019).
+
 ## Band History
 
 - **Amon Amarth** — 2016–present (current)

@@ -1,6 +1,6 @@
 # MetalForge Drummer Style Guides
 
-> Last updated: 2026-07-02 · Source: https://metalforge.io
+> Last updated: 2026-07-04 · Source: https://metalforge.io
 
 MetalForge publishes two categories of drummer guides: **how-to-sound-like** style breakdowns for metal legends, and **beginner gear guides** for drummers building their first kit. All guides cover drumming technique, exact gear setups, tuning, and practice methods.
 
@@ -8,7 +8,7 @@ MetalForge publishes two categories of drummer guides: **how-to-sound-like** sty
 
 ## How to Sound Like: Index
 
-65 in-depth guides — each covers style, technique, gear, tuning, and recommended songs to study.
+66 in-depth guides — each covers style, technique, gear, tuning, and recommended songs to study.
 
 - [Joey Jordison — Slipknot](https://metalforge.io/guides/how-to-sound-like-joey-jordison) · Nu-Metal / Alternative Metal
 - [Danny Carey — Tool](https://metalforge.io/guides/how-to-sound-like-danny-carey) · Progressive Metal / Art Metal
@@ -75,6 +75,7 @@ MetalForge publishes two categories of drummer guides: **how-to-sound-like** sty
 - [Ryan Van Poederooyen — Devin Townsend Project](https://metalforge.io/guides/how-to-sound-like-ryan-van-poederooyen) · Progressive Metal
 - [Kevin Talley — Dying Fetus / Misery Index / Six Feet Under](https://metalforge.io/guides/how-to-sound-like-kevin-talley) · Brutal Death Metal / Grindcore
 - [Isaac Lamb — Kublai Khan TX](https://metalforge.io/guides/how-to-sound-like-isaac-lamb) · Metalcore / Beatdown Hardcore
+- [Martin Axenrot — Opeth](https://metalforge.io/guides/how-to-sound-like-martin-axenrot) · Progressive Metal / Progressive Death Metal
 
 ---
 
@@ -2415,6 +2416,41 @@ Lamb's technique is built on compositional patience: locking kick and snare to t
 - Snare: SJC SJC Custom Snare
 - Cymbals: Meinl Meinl Classics Custom Dark Series
 - Pedals: DW DW 9000 Series Double Pedal
+
+---
+
+## How to Sound Like Martin Axenrot (Opeth)
+
+**Genre:** Progressive Metal / Progressive Death Metal  
+**Guide URL:** [https://metalforge.io/guides/how-to-sound-like-martin-axenrot](https://metalforge.io/guides/how-to-sound-like-martin-axenrot)
+
+Master Martin Axenrot's twin-kick attack and progressive death metal drumming from Opeth. Learn the technique behind his Watershed-era arrival, his Sonor SQ2 kit, Meinl Byzance cymbal setup, and the extreme-metal background he brought to the Opeth drum chair.
+
+### Style Overview
+
+Axenrot's technique spans two registers: the twin-kick, high-intensity attack he brought from death metal and thrash, and the dynamic, texture-conscious playing Opeth's progressive rock direction has demanded since "Heritage." Both registers share a foundation of tight, riff-locked timing — whether he's driving a blast beat or riding a Meinl Byzance cymbal through a long, quiet passage, his patterns lock precisely to the guitar and bass rather than existing as an independent line.
+
+**Grip:** Matched Grip — Axenrot plays a firm matched grip built for the power demands of double-bass-driven metal, using Vic Firth American Classic 5B sticks for the added mass needed on crash and china accents without sacrificing control on fast passages.
+
+### Signature Patterns
+
+- **Twin-Kick Density Pattern** (160-200 BPM, Advanced): Axenrot's twin 22"x18" bass drum setup allows for denser double-bass patterns than a single-kick rig, giving extended passages more low-end weight — the signature change he brought to Opeth's sound on Watershed.
+- **Riff-Locked Blast Beat** (180-220 BPM, Advanced): Axenrot's blast beats, informed by his Bloodbath and Witchery background, stay tightly locked to the guitar riff's rhythmic accents rather than functioning as a generic wall of speed.
+- **Dynamic Restraint Passage** (70-110 BPM, Intermediate-Advanced): On Opeth's progressive rock material since Heritage, Axenrot uses sparse, dynamically controlled playing — often centered on the ride cymbal — to let acoustic and clean passages breathe before the next section arrives.
+
+### Key Songs to Study
+
+- *Coil* (Watershed, 2008) — Axenrot's studio debut track, establishing his twin-kick Sonor sound
+- *Heir Apparent* (Watershed, 2008) — The extreme metal attack that announced his arrival in the Opeth chair
+- *The Devil's Orchard* (Heritage, 2011) — Dynamic, texture-focused playing for Opeth's prog-rock pivot
+- *Sorceress* (Sorceress, 2016) — Mature balance of restraint and force across the Nuclear Blast era
+
+### Gear Setup
+
+- Drums: Sonor Sonor SQ2 Series (Custom-build maple shells)
+- Snare: Sonor Sonor SQ2 Maple Snare
+- Cymbals: Meinl Meinl Byzance Series
+- Pedals: Tama Tama Iron Cobra Double Pedal
 
 ---
 

@@ -67,6 +67,10 @@ A: Arin Ilejay uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" & 19" A Cust
 
 A: Arin Ilejay drums for ex-Avenged Sevenfold, a heavy metal / hard rock band.
 
+## Gear Evolution Timeline
+
+Arin Ilejay's complete drum gear evolution — from the undocumented Confide club-circuit years through the Mapex Saturn Series / Zildjian A Custom rig behind Avenged Sevenfold's "Hail to the King" (2013), to his post-2015 Islander and session-drumming career — is tracked era-by-era: [Arin Ilejay Gear Evolution Timeline](https://metalforge.io/drummers/arin-ilejay/evolution) ([markdown version](/llms/evolution/arin-ilejay.md)).
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Arin Ilejay:

@@ -67,6 +67,10 @@ A: Daray uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashe
 
 A: Daray drums for Dimmu Borgir / Vader, a black metal / death metal band.
 
+## Gear Evolution Timeline
+
+Daray's complete drum gear evolution — from the undocumented Vader years (2004–2008) through the Pearl Masterworks Stadium Exotic / Paiste RUDE rig behind Dimmu Borgir's "Abrahadabra" (2010), "Eonian" (2018), and 2026's "Grand Serpent Rising" — is tracked era-by-era: [Daray Gear Evolution Timeline](https://metalforge.io/drummers/daray/evolution) ([markdown version](/llms/evolution/daray.md)).
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Daray:

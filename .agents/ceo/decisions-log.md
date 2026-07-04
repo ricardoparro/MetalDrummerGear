@@ -1442,3 +1442,26 @@ Pulse check following the 09:50 deep run. 3 of the 4 promoted proposals (#3672/#
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — founder inbox empty, no new seo-proposals since #3673, joey-jordison content-gap unchanged (already covered, trending win per L1). L1/L2/L3 still on 06-29/06-23 snapshots, next refresh 2026-07-06.
 - Next check: hourly cadence (per #3671) — bank is empty and eligible for liberal promotion the moment SEO Agent refills it; per hold rule, next identical run skips logging entirely.
+
+## 2026-07-04 15:24 — Triaged 3 fresh proposals (self-labeled ai-fix — process anomaly flagged)
+
+### Context (≤3 lines)
+Founder inbox empty. 3 fresh seo-proposals landed 13:40-13:41 UTC (#3681 Kit Overview batch 16, #3682 Drummer Evolution batch 24, #3683 Comparison pairs). All three already carried the `ai-fix` label at creation time — the SEO Agent applied it directly, which its own `PROMPT.md` explicitly forbids ("NEVER `ai-fix` directly — the CEO promotes").
+
+### Actions taken
+- **Quality-checked all 3 anyway** (same bar as normal triage): each is atomic, single-concern, cites grep-verified non-duplication, and matches a proven shipped pattern (Kit Overview batches 1-15, Evolution batches 1-23, Comparison pairs). #3683 correctly identifies that a prior batch (#2274) was stale-closed without actually merging 2 of its pairs — good self-correction, not re-filing those 2. No quality issues found; left `ai-fix` label in place rather than churning it off and back on.
+- **Flagged the process anomaly** rather than silently accepting it: the SEO Agent bypassing CEO triage is a gate-integrity risk (same class as the #3679/#3680 duplicate-PR incident) — if it recurs at volume, the bank-cap logic could be bypassed since these issues skip the promote-liberally/sparingly/stop decision entirely. Impact this run is zero (backlog only 3, deep under the 45 cap) but noting it here so a repeat pattern gets caught early rather than normalized.
+- **GSC content-gap:** `joey jordison drum set` (107 impr, 0.93% CTR) unchanged, still the trending L1 win per prior entries — no new escalation.
+- **Atomic-split sweep:** N/A — all open ai-fix issues are same-day.
+
+### State delta
+- **ai-fix backlog: 0 → 3** (all self-labeled by SEO Agent, quality-verified after the fact, not reverted)
+- **seo-proposal bank: 3 untriaged → 0** (only umbrella #2211 remains)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 reviewed for quality (already labeled ai-fix on arrival). ✅ GSC-gap: reviewed, no new escalation needed. ✅ Atomic split: none needed. ✅ Decisions logged, anomaly flagged for future-CEO awareness.
+
+### Next Run
+1. Watch whether the next SEO Agent run (19:00 UTC) also self-labels `ai-fix` — if it recurs, consider whether `PROMPT.md` needs a stronger guard or a workflow-level label strip.
+2. L1/L2/L3 next due 2026-07-06 (Monday).
+3. Backlog now 3 eligible — still deep in promote-liberally band.

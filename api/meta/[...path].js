@@ -197,12 +197,17 @@ const ARTICLE_METADATA = {
 };
 
 // Helper: Get drummer by slug
+function _normalizeDrummerSlug(name) {
+  return name.toLowerCase()
+    .replace(/[åä]/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u')
+    .replace(/é|è|ê|ë/g, 'e').replace(/í|ì|î|ï/g, 'i').replace(/ó|ò|ô/g, 'o')
+    .replace(/ú|ù|û/g, 'u').replace(/ñ/g, 'n').replace(/ß/g, 'ss')
+    .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+}
+
 function getDrummerBySlug(slug) {
   const normalizedSlug = slug.toLowerCase().replace(/[^a-z0-9-]/g, '');
-  return drummers.find(d => {
-    const drummerSlug = d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
-    return drummerSlug === normalizedSlug;
-  });
+  return drummers.find(d => _normalizeDrummerSlug(d.name) === normalizedSlug);
 }
 
 // Helper: Get primary brands from gear

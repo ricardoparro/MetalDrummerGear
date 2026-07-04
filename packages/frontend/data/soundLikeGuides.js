@@ -16605,6 +16605,279 @@ This guide breaks down the groove architecture and breakdown timing behind Lamb'
       { slug: 'isaac-lamb-drum-setup', label: "Isaac Lamb Drum Kit & Gear Setup — Kublai Khan TX Beatdown Breakdown" }
     ]
   },
+
+  // Issue #3674: SoundLike guide roster gap-fill — Martin Axenrot (closes 62/62 coverage)
+  'how-to-sound-like-martin-axenrot': {
+    slug: 'how-to-sound-like-martin-axenrot',
+    drummerId: 62,
+    drummerName: 'Martin Axenrot',
+    band: 'Opeth',
+    genre: 'Progressive Metal / Progressive Death Metal',
+    priority: 65,
+    title: "How to Sound Like Martin Axenrot: Complete Gear & Technique Guide",
+    description: "Master Martin Axenrot's twin-kick attack and progressive death metal drumming from Opeth. Learn the technique behind his Watershed-era arrival, his Sonor SQ2 kit, Meinl Byzance cymbal setup, and the extreme-metal background he brought to the Opeth drum chair.",
+    seoKeywords: ['martin axenrot drumming', 'how to sound like martin axenrot', 'opeth drums', 'martin axenrot gear', 'martin axenrot technique', 'martin axenrot drum kit', 'opeth drumming style'],
+    ogImage: '/images/guides/martin-axenrot-guide.webp',
+    datePublished: '2026-07-04',
+    dateModified: '2026-07-04',
+    author: 'MetalForge Editorial',
+    wordCount: 2150,
+    readingTime: '10 min',
+    intro: {
+      title: "The Drummer Who Brought Extreme Metal Back to Opeth",
+      content: `Martin Axenrot stepped into one of progressive metal's most demanding drum chairs mid-tour in 2006, replacing Martin Lopez during the "Ghost Reveries" cycle after Lopez's health issues forced him to step away. It was an unenviable position — Lopez's nine years behind the kit had helped define Opeth's genre-blending sound — but Axenrot made the chair his own, delivering his studio debut on "Watershed" (2008) and remaining Opeth's drummer through "Heritage" (2011), "Pale Communion" (2014), "Sorceress" (2016), and "In Cauda Venenum" (2019).
+
+What Axenrot brought to Opeth was a background forged in extreme metal rather than progressive rock. As a member of death metal supergroup Bloodbath since 2008 and thrash/black metal band Witchery from 1997 to 2010, his instincts run heavier and more aggressive than his predecessor's jazz-informed finesse. That showed immediately on "Watershed," where his twin-bass-drum Sonor setup gave Opeth's death-metal-adjacent passages a forceful low end Lopez's single-kick rig never had. As the band's songwriting shifted toward progressive rock territory on "Heritage" and beyond, Axenrot adapted his attack to serve restraint and texture just as convincingly as he served aggression.
+
+This guide breaks down Axenrot's playing across both sides of that range — the extreme-metal power that announced his arrival and the dynamic control that has kept him in Opeth's drum chair for nearly two decades — along with his Sonor SQ2 kit, Meinl Byzance cymbal setup, and the practice approach to developing the same versatility.`,
+      keyPoints: [
+        "Replaced Martin Lopez mid-tour in 2006, debuting on Opeth's Watershed (2008)",
+        "Brings an extreme metal background from Bloodbath and Witchery to Opeth's drum chair",
+        "Twin-bass-drum Sonor SQ2 setup gave Opeth's post-2006 material a heavier low end",
+        "Adapted his aggressive attack into restraint and texture as Opeth moved toward progressive rock"
+      ]
+    },
+    technique: {
+      title: "Axenrot's Dual-Register Technique",
+      overview: `Axenrot's technique spans two registers: the twin-kick, high-intensity attack he brought from death metal and thrash, and the dynamic, texture-conscious playing Opeth's progressive rock direction has demanded since "Heritage." Both registers share a foundation of tight, riff-locked timing — whether he's driving a blast beat or riding a Meinl Byzance cymbal through a long, quiet passage, his patterns lock precisely to the guitar and bass rather than existing as an independent line.`,
+      stickGrip: {
+        type: 'Matched Grip',
+        description: "Axenrot plays a firm matched grip built for the power demands of double-bass-driven metal, using Vic Firth American Classic 5B sticks for the added mass needed on crash and china accents without sacrificing control on fast passages.",
+        tips: [
+          "Keep the fulcrum firm enough for power strokes but loose enough for rebound on faster patterns",
+          "Practice locking kick and snare precisely to the riff rather than treating drums as an independent voice",
+          "Build the dynamic range to shift between full-intensity extreme metal passages and restrained, texture-focused sections"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "Twin-Kick Density Pattern",
+          description: "Axenrot's twin 22\"x18\" bass drum setup allows for denser double-bass patterns than a single-kick rig, giving extended passages more low-end weight — the signature change he brought to Opeth's sound on Watershed.",
+          tempo: "160-200 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Practice sustained 16th-note double bass patterns for a full verse without losing evenness between the two feet."
+        },
+        {
+          name: "Riff-Locked Blast Beat",
+          description: "Axenrot's blast beats, informed by his Bloodbath and Witchery background, stay tightly locked to the guitar riff's rhythmic accents rather than functioning as a generic wall of speed.",
+          tempo: "180-220 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Learn the guitar riff by ear first, then build a blast pattern that mirrors its specific accents rather than defaulting to a straight blast."
+        },
+        {
+          name: "Dynamic Restraint Passage",
+          description: "On Opeth's progressive rock material since Heritage, Axenrot uses sparse, dynamically controlled playing — often centered on the ride cymbal — to let acoustic and clean passages breathe before the next section arrives.",
+          tempo: "70-110 BPM",
+          difficulty: "Intermediate-Advanced",
+          practiceHint: "Play a quiet, ride-centered pattern and resist the urge to fill space — the goal is serving the arrangement, not demonstrating technique."
+        }
+      ],
+      keySongs: [
+        { song: "Coil", album: "Watershed", year: 2008, why: "Axenrot's studio debut track, establishing his twin-kick Sonor sound" },
+        { song: "Heir Apparent", album: "Watershed", year: 2008, why: "The extreme metal attack that announced his arrival in the Opeth chair" },
+        { song: "The Devil's Orchard", album: "Heritage", year: 2011, why: "Dynamic, texture-focused playing for Opeth's prog-rock pivot" },
+        { song: "Sorceress", album: "Sorceress", year: 2016, why: "Mature balance of restraint and force across the Nuclear Blast era" }
+      ]
+    },
+    gear: {
+      title: "Axenrot's Signature Gear Setup",
+      drumKit: {
+        brand: 'Sonor',
+        model: 'Sonor SQ2 Series',
+        shells: 'Custom-build maple',
+        finish: 'Custom, various touring configurations',
+        config: {
+          kick: '22" x 18" Bass Drums (x2)',
+          snare: '14" x 5.75" Sonor SQ2 Maple Snare',
+          toms: ['Sonor SQ2 Rack Toms'],
+          floorToms: ['Sonor SQ2 Floor Toms']
+        },
+        description: "Axenrot's Sonor SQ2 platform is the German custom-build kit he has anchored since joining Opeth in 2006. The twin 22\"x18\" bass drums are the defining change from Martin Lopez's single-kick rig, adding the low-end density and double-bass firepower for extended passages.",
+        affiliateNote: "Any maple shell pack with a twin-kick configuration approximates the low-end density central to Axenrot's sound."
+      },
+      snare: {
+        brand: 'Sonor',
+        model: 'Sonor SQ2 Maple Snare',
+        size: '14" x 5.75"',
+        shell: 'Maple',
+        description: "The SQ2 maple snare delivers the warm, cutting crack heard across Watershed, Heritage, Pale Communion, and Sorceress — a tone that holds up whether Axenrot is driving a blast beat or laying down a restrained prog-rock backbeat.",
+        alternative: "Any 14\" x 5.75\" maple snare tuned for a warm, cutting crack will approximate the tone"
+      },
+      cymbals: {
+        brand: 'Meinl',
+        series: 'Meinl Byzance Series',
+        setup: [
+          { type: 'Hi-Hats', model: 'Meinl Byzance Traditional Medium 14" Hi-Hats', notes: 'Dark, complex tone for both aggressive and restrained passages' },
+          { type: 'Crash', model: 'Meinl Byzance 16" Crash', notes: 'Quick, focused accent' },
+          { type: 'Crash', model: 'Meinl Byzance 18" Crash', notes: 'Fuller dynamic accent' },
+          { type: 'Crash', model: 'Meinl Byzance 19" Crash', notes: 'Widest crash for section-ending accents' },
+          { type: 'Ride', model: 'Meinl Byzance Traditional 22" Ride', notes: 'Articulate rhythmic definition, central to the prog-era restraint passages' },
+          { type: 'China', model: 'Meinl Byzance 18" China', notes: 'Aggressive punctuation for extreme metal passages' }
+        ],
+        description: "The Byzance Traditional series' dark, hand-hammered tone works equally well for Axenrot's extreme metal attack and the more restrained, texture-focused playing Opeth's progressive rock material demands — the same cymbal setup has carried every album since Watershed."
+      },
+      pedals: {
+        brand: 'Tama',
+        model: 'Tama Iron Cobra Double Pedal',
+        description: "The Iron Cobra's direct, consistent response gives Axenrot the precision needed for both his twin-kick density patterns and the more controlled single-kick passages of Opeth's prog-rock material.",
+        alternative: "Any chain-drive double pedal with a firm, direct response will approximate the feel"
+      },
+      sticks: {
+        brand: 'Vic Firth',
+        model: 'Vic Firth American Classic 5B',
+        specs: 'Standard hickory, slightly thicker than a 5A',
+        description: "The 5B's added mass over a standard 5A gives Axenrot extra weight on crash and china accents without sacrificing the control needed for faster patterns and ghost notes.",
+        alternative: "Vic Firth American Classic 5A for a lighter option with less accent weight"
+      },
+      heads: {
+        kick: 'Remo Powerstroke (batter)',
+        snare: 'Remo Ambassador Coated',
+        toms: 'Remo Emperor Clear',
+        resonant: 'Remo Ambassador Clear'
+      }
+    },
+    tuning: {
+      title: "Tuning for Axenrot's Sound",
+      overview: "Axenrot tunes for a balance most extreme metal drummers don't need to strike — attack and punch for double-bass passages, but enough warmth and resonance for Opeth's progressive rock material to breathe.",
+      kickDrum: {
+        tension: "Medium-tight",
+        muffling: "Moderate — enough to control sustain without deadening tone entirely",
+        description: "The twin 22\"x18\" bass drums are tuned for defined attack on fast double-bass patterns while retaining enough low-end body to register in Opeth's more spacious progressive rock arrangements.",
+        tip: "Moderate muffling with a port hole in the resonant head balances attack for extreme metal passages against tone for quieter sections."
+      },
+      snare: {
+        tension: "Medium-high",
+        muffling: "Minimal",
+        description: "The SQ2 maple snare is tuned for a warm, cutting crack that works whether it's driving a blast beat or providing a restrained backbeat on a prog-rock passage.",
+        tip: "Tune slightly lower than a typical extreme metal snare to preserve warmth for Opeth's quieter material."
+      },
+      toms: {
+        tension: "Medium",
+        muffling: "Light",
+        description: "Toms are tuned with enough resonance to serve melodic, jazz-influenced fills in the tradition Martin Lopez established, while holding up under Axenrot's heavier attack on more aggressive material.",
+        tip: "Favor musical, resonant tuning over the tight, dead tom sound common in pure extreme metal — Opeth's material rewards melodic tom work."
+      }
+    },
+    practice: {
+      title: "Practice Tips to Develop Axenrot's Style",
+      exercises: [
+        {
+          name: "Twin-Kick Density Builder",
+          description: "Build the sustained, even double-bass technique central to Axenrot's Watershed-era sound",
+          instructions: "Play continuous 16th-note double bass patterns at 120 BPM, increasing 5 BPM every two minutes. Focus on even volume and spacing between both feet.",
+          duration: "15 minutes daily",
+          goal: "Clean, even double bass at 180+ BPM"
+        },
+        {
+          name: "Riff-Lock Blast Practice",
+          description: "Develop blast beats that lock to specific guitar riff accents rather than defaulting to generic speed",
+          instructions: "Learn a riff by ear, then build a blast beat pattern that mirrors its specific rhythmic accents instead of playing a straight, generic blast underneath it.",
+          duration: "10-15 minutes daily",
+          goal: "Blast beats that feel composed with the riff, not layered on top"
+        },
+        {
+          name: "Dynamic Restraint Drill",
+          description: "Build the dynamic control needed for Opeth's progressive rock passages",
+          instructions: "Play a quiet, ride-centered pattern for a full verse without adding fills, focusing on serving the arrangement rather than demonstrating technique.",
+          duration: "10 minutes daily",
+          goal: "Comfortable, musical restraint at low dynamic levels"
+        },
+        {
+          name: "Register-Switching Practice",
+          description: "Develop the ability to move between extreme metal intensity and progressive rock restraint within a single song",
+          instructions: "Practice transitioning directly from a full-intensity blast or double-bass pattern into a quiet, ride-centered passage with no ramp-down — the dynamic contrast is the point.",
+          duration: "10 minutes daily",
+          goal: "Clean, immediate transitions between intensity extremes"
+        }
+      ],
+      commonMistakes: [
+        "Playing extreme metal passages and progressive rock passages with the same intensity, losing the dynamic contrast Axenrot's style depends on",
+        "Rushing blast beats ahead of the riff instead of locking precisely to its accents",
+        "Over-tuning toms tight and dead, losing the melodic resonance Opeth's material rewards",
+        "Neglecting double-bass evenness in favor of raw speed"
+      ]
+    },
+    videos: [
+      {
+        title: "OPETH - Sorceress (Official Lyric Video)",
+        url: "https://www.youtube.com/watch?v=LhqijfqecvA",
+        description: "The title track from Opeth's Sorceress (2016), showcasing Axenrot's mature balance of restraint and force"
+      },
+      {
+        title: "Opeth - Martin Axenrot Drum Solo (Live in Köln)",
+        url: "https://www.youtube.com/watch?v=29ZzHAwHZhw",
+        description: "Axenrot's technique and dynamic range on full display in a live drum solo setting"
+      },
+      {
+        title: "Bloodbath - Martin Axenrot Drum Cam (Los Angeles, 2024)",
+        url: "https://www.youtube.com/watch?v=NittEVw377s",
+        description: "Drum cam footage showing Axenrot's extreme metal attack with death metal supergroup Bloodbath"
+      }
+    ],
+    budgetSetups: {
+      budget: {
+        price: "$900",
+        label: "Starter Setup",
+        kit: "Pearl Export Series with double kick conversion ($700)",
+        cymbals: "Meinl HCS Pack ($180)",
+        pedals: "Tama Speed Cobra HP310LW double pedal ($100)",
+        sticks: "Vic Firth American Classic 5B ($10)",
+        notes: "A twin-kick-capable entry kit approximates Axenrot's core setup without the SQ2 custom-build price tag."
+      },
+      mid: {
+        price: "$2,800",
+        label: "Intermediate Setup",
+        kit: "Pearl Masters Maple/Gum with double bass ($1,700)",
+        cymbals: "Meinl Byzance partial setup ($900)",
+        pedals: "Tama Iron Cobra double pedal ($300)",
+        sticks: "Vic Firth American Classic 5B ($10)",
+        notes: "Byzance cymbals get you close to Axenrot's dark, hand-hammered tone across both intensity registers."
+      },
+      pro: {
+        price: "$5,500+",
+        label: "Professional Setup",
+        kit: "Sonor SQ2 Series custom build ($3,200+)",
+        cymbals: "Full Meinl Byzance Traditional Selection ($1,700+)",
+        pedals: "Tama Iron Cobra Double Pedal ($400)",
+        sticks: "Vic Firth American Classic 5B ($10)",
+        heads: "Full Remo setup ($150)",
+        notes: "Matches Axenrot's touring rig for both the extreme metal attack and progressive rock restraint his style demands."
+      }
+    },
+    faq: [
+      {
+        question: "What gear does Martin Axenrot use?",
+        answer: "Axenrot plays a Sonor SQ2 Series kit built around twin 22\"x18\" bass drums, a Sonor SQ2 14\"x5.75\" maple snare, Meinl Byzance cymbals (14\" Traditional Medium Hi-Hats, 16\"/18\"/19\" Crashes, 22\" Traditional Ride, 18\" China), a Tama Iron Cobra double pedal, and Vic Firth American Classic 5B sticks."
+      },
+      {
+        question: "How did Martin Axenrot join Opeth?",
+        answer: "Axenrot replaced Martin Lopez mid-tour in 2006 during Opeth's Ghost Reveries cycle after Lopez departed due to health issues. He made his studio debut with the band on Watershed (2008) and has remained Opeth's drummer ever since."
+      },
+      {
+        question: "What other bands has Martin Axenrot played in?",
+        answer: "Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath since 2008 and played in Witchery from 1997 to 2010. His extreme metal background across Bloodbath and Witchery shapes the heavier attack he brought to Opeth's drum chair."
+      },
+      {
+        question: "How is Martin Axenrot's style different from Martin Lopez?",
+        answer: "Lopez's technique emphasized jazz-influenced feel and musicality, while Axenrot brought a heavier, more aggressive attack informed by his extreme metal background. Axenrot's twin-bass-drum setup also gave Opeth's post-2006 material more low-end density than Lopez's single-kick rig, though Axenrot has adapted his playing to serve Opeth's progressive rock direction just as convincingly."
+      },
+      {
+        question: "Can I get Martin Axenrot's sound on a budget kit?",
+        answer: "Yes. A twin-kick-capable entry kit with moderate muffling gets you most of the way there — the dynamic contrast between full-intensity passages and restrained, texture-focused playing matters more than boutique gear. Focus on developing both registers of his style rather than chasing exact equipment."
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/martin-axenrot',
+      similarDrummers: ['Martin Lopez', 'Tomas Haake', 'Mario Duplantier'],
+      relatedGuides: ['how-to-sound-like-tomas-haake', 'how-to-sound-like-mario-duplantier'],
+      gearPages: ['/gear/cymbals', '/brands/meinl', '/brands/sonor']
+    },
+    licksUrl: '/drummers/martin-axenrot/licks',
+    relatedArticles: [
+      { slug: 'watershed-drum-setup', label: "Martin Axenrot's Drum Setup on Opeth's Watershed (2008)" },
+      { slug: 'heritage-drum-setup', label: "Martin Axenrot's Drum Setup on Opeth's Heritage (2011)" }
+    ]
+  },
 };
 
 // ================================

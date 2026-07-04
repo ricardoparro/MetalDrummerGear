@@ -5,6 +5,16 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-04 00:34 UTC*
 
 ---
+## 2026-07-04 13:30 (state-confirm — anti-noise hold)
+- Backlog: 0 ai-fix · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
+- Org / Sessions / Views (7d): 151 / 174 / 259 · GSC: 3,408 impr / 81 clicks / 2.38% CTR
+- Blockers unchanged: #525 #526 #529 #875 (human-founder) — no re-spam
+- Actions: none — L1/L3 2026-06-29 snapshot fully closed (#3210/#3282/#3412/#3280/#3281/#3413); joey-jordison CTR cluster (107 impr/0.93% CTR) already 3x-fixed (#2867/#3059/#3412), trending right (pos 8.0→7.0, first clicks appearing); no new proposals/founder ideas to triage
+- Next check: L1/L2/L3 due 2026-07-06; watch for SEO Agent to refill seo-proposal bank (fleet now 8-wide overnight per #3671, draining faster than proposals arrive)
+
+---
+
+---
 ## 2026-07-03 16:29 — Mid-day pulse: promoted 4 fresh seo-proposals to ai-fix, backlog refilled from empty
 
 ### Context (≤3 lines)

@@ -3,17 +3,14 @@ name: SEO Agent
 on:
   workflow_dispatch:
   schedule:
-    # ⚠️ TZ NOTE: GitHub Actions cron is UTC only. Calibrated for Lisbon SUMMER
-    # (UTC+1); in late October shift +1h.
-    #
-    # 3×/day is deliberate. The idea bank is now BANK-CAPPED (see PROMPT.md): the
-    # SEO Agent only files proposals while the open `seo-proposal` count is below
-    # the cap, and prune-proposals.yml trims the bank daily. Running 14×/day used
-    # to fire 5–7 proposals each time → 300+ parked issues. At a capped bank,
-    # extra runs are almost all no-ops, so we run just often enough to keep the
-    # bank topped up against fresh metrics: ~morning, midday, evening.
-    #   summer UTC 7,13,19 = Lisbon 08:00 / 14:00 / 20:00.
-    - cron: '0 7,13,19 * * *'
+    # Every 2 hours (12×/day). The idea bank is BANK-CAPPED (see PROMPT.md): the
+    # SEO Agent only files while the open `seo-proposal` count is below the cap
+    # (~80), and prune-proposals.yml trims the bank. Bumped from 3×/day because,
+    # with quota restored and Roadie now 3-wide day / 8-wide night, the fleet
+    # drains the queue faster than 3 daily runs can refill it — Roadie was sitting
+    # idle ("No eligible issues remain"). More frequent runs keep the bank (and
+    # therefore Roadie) fed. Timezone-agnostic (every 2h), so no DST edit.
+    - cron: '0 */2 * * *'
 
 permissions:
   contents: write

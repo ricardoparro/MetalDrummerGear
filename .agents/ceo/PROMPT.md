@@ -227,9 +227,11 @@ After writing, also:
 > gh issue list --state open --limit 500 --json number,labels \
 >   --jq '[.[] | select([.labels[].name] | index("ai-fix")) | select([.labels[].name] | (index("in-progress") or index("pr-opened") or index("hold") or index("blocked")) | not)] | length'
 > ```
-> - **Backlog ≥ 45** → **STOP promoting.** Triage proposals on quality but **leave approved ones as `seo-proposal`** (idea bank — they cost nothing parked). Do not add `ai-fix`. Note the hold in your run summary.
-> - **Backlog 25–44** → promote **sparingly** — only 5★ proposals, newest/highest-impact first, enough to top up toward ~45.
-> - **Backlog < 25** → promote liberally to refill toward the ~45 target band so the night fleet never starves.
+> - **Backlog ≥ 80** → **STOP promoting.** Triage proposals on quality but **leave approved ones as `seo-proposal`** (idea bank — they cost nothing parked). Do not add `ai-fix`. Note the hold in your run summary.
+> - **Backlog 45–79** → promote **sparingly** — only 5★ proposals, newest/highest-impact first, enough to top up toward ~80.
+> - **Backlog < 45** → promote liberally to refill toward the ~80 target band so the fleet never starves.
+>
+> **Cap raised 45 → 80 (2026-07-04):** with quota restored and Roadie now 3-wide by day / 8-wide at night, the implementer drains the queue faster than it's refilled and sits idle ("No eligible issues remain"). Per the rule below, the cap tracks the solve rate — so keep the queue deep enough that a 3/8-wide Roadie always has runway.
 >
 > The cap bounds *work*, not *ideas*: SEO keeps proposing while the bank has room; those proposals wait as `seo-proposal` until the `ai-fix` backlog clears. Re-raise the cap only if the measured solve rate rises.
 >

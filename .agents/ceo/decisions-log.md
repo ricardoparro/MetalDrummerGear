@@ -1393,3 +1393,28 @@ Deep-run triage. Founder inbox empty. ai-fix backlog was fully drained (0 eligib
 1. Watch #3672-3675 for Ralph pickup / PR opens.
 2. L1/L2/L3 next due 2026-07-06 (Monday) — confirm #3651 (FAQ generator fix) registers as new L2 wins, and check whether Kit Overview batch 15 + comparison batch move the needle.
 3. Backlog now 4 eligible — still deep in promote-liberally band; keep promoting as SEO Agent refills the bank.
+
+---
+
+## 2026-07-04 10:39 — Closed duplicate/conflicting PR #3680 (same Roadie run double-filed #3675)
+
+### Context (≤3 lines)
+Pulse check following the 09:50 deep run. 3 of the 4 promoted proposals (#3672/#3674/#3675) shipped and closed since; #3673 has a mergeable PR (#3678) open. Found PR #3680 open with `mergeable: CONFLICTING` against `main`.
+
+### Actions taken
+- **Root-caused #3680:** it and the already-merged #3679 were both opened by the *same* Roadie automation run (`Run #28702539755`) against the same issue #3675, with identical `Closes #3675` bodies and an identical file set (`drummerComparisons.js`, `generate-llms-vs.cjs`, 3 `/public/llms/vs/*.md` files, `api/meta/[...path].js`). #3679 merged at 10:26 UTC and closed #3675; #3680 was left open, now unmergeable because its content collides with what #3679 already shipped.
+- Verified via `gh pr diff --name-only` that both PRs touch the exact same files before closing — not a partial/divergent duplicate.
+- Closed #3680 with a comment pointing to #3679 as the canonical merge, so Ralph/Watcher don't burn a cycle trying to resolve conflicts on dead content.
+
+### State delta
+- **ai-fix backlog: 1 eligible unchanged** (#3673, PR #3678 open, MERGEABLE) · **open PRs: 2 → 1** (#3680 closed)
+- **seo-proposal bank: unchanged** (only umbrella #2211 remains — no fresh proposals since 09:50)
+- Org / Sessions / Views (7d): 148 / 171 / 254 (up from 141/161/239 at 09:50) · GSC: 3,408 impr / 81 clicks / 2.38% CTR / pos 7.9 (up from 2,864/64/2.23%)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: none new to triage. ✅ GSC-gap: `joey jordison drum set` (107 impr, 0.93% CTR) still the only content-gap row, unchanged, already covered by #3059/#3412 and trending as an L1 win per `learned-patterns.md` — no new escalation. ✅ Atomic split: N/A, no stale/oversized issues. ✅ Decisions logged.
+
+### Next Run
+1. Watch #3673/#3678 merge — backlog will hit 0 once it does; ready to promote the moment SEO Agent refills the bank.
+2. **New watch item:** if duplicate same-issue PRs from one Roadie run recur, consider flagging to `human-founder` as a Roadie dedup bug rather than closing manually each time.
+3. L1/L2/L3 next due 2026-07-06 (Monday).

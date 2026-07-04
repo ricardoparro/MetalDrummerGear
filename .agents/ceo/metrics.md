@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-03 22:19 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-04 00:34 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,62 +8,61 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 151 |
-| Sessions | 173 |
-| Page views | 258 |
-| Engagement rate | 56.65% |
-| Avg session (s) | 150 |
+| Active users | 141 |
+| Sessions | 161 |
+| Page views | 239 |
+| Engagement rate | 54.04% |
+| Avg session (s) | 160 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 30 | 16 |
-| /drummer/joey-jordison | 15 | 12 |
-| /drummer/ben-koller | 14 | 13 |
+| / | 28 | 16 |
 | /drummers | 14 | 4 |
+| /drummer/joey-jordison | 13 | 10 |
+| /drummer/ben-koller | 12 | 11 |
 | /drummer/john-otto | 12 | 9 |
-| /drummer/bill-ward | 8 | 6 |
-| /drummer/jaska-raatikainen | 8 | 4 |
+| /drummer/jaska-raatikainen | 9 | 5 |
+| /drummer/bill-ward | 7 | 5 |
 | /drummer/eloy-casagrande | 7 | 7 |
-| /drummer/inferno | 6 | 5 |
-| /drummer/mario-duplantier | 6 | 4 |
+| /drummers/lars-ulrich/evolution | 6 | 1 |
+| /drummer/inferno | 5 | 4 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 113 | 100 |
-| Direct | 37 | 28 |
-| Unassigned | 22 | 22 |
-| Cross-network | 17 | 17 |
+| Organic Search | 101 | 88 |
+| Direct | 34 | 27 |
+| Unassigned | 26 | 26 |
+| Cross-network | 19 | 19 |
 | Organic Social | 1 | 1 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 3,384 |
-| Clicks | 75 |
-| CTR | 2.22% |
-| Avg position | 7.9 |
+| Impressions | 2,864 |
+| Clicks | 64 |
+| CTR | 2.23% |
+| Avg position | 8.0 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | jaska raatikainen drum set | 5 | 3 | 60.00% | 2.6 |
-| john otto drum kit | 20 | 2 | 10.00% | 5.9 |
-| nick augusto | 45 | 2 | 4.44% | 10.1 |
-| shannon larkin drum kit | 18 | 2 | 11.11% | 4.6 |
+| john otto drum kit | 18 | 2 | 11.11% | 5.8 |
+| shannon larkin drum kit | 15 | 2 | 13.33% | 4.6 |
 | ben koller drum setup | 1 | 1 | 100.00% | 1.0 |
-| bill ward drum set | 15 | 1 | 6.67% | 9.0 |
-| dirk verbeuren drum kit | 14 | 1 | 7.14% | 7.7 |
+| dirk verbeuren drum kit | 11 | 1 | 9.09% | 7.5 |
 | dirk verbeuren drum set | 2 | 1 | 50.00% | 7.5 |
-| eloy casagrande drum kit | 27 | 1 | 3.70% | 7.3 |
+| eloy casagrande drum kit | 20 | 1 | 5.00% | 7.3 |
 | eloy casagrande drum set | 6 | 1 | 16.67% | 9.5 |
+| iggor cavalera drum kit | 4 | 1 | 25.00% | 4.8 |
+| inferno drum kit | 4 | 1 | 25.00% | 9.3 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum kit | 90 | 1.11% | 7.1 | open issue to answer better |
-| joey jordison drum set | 123 | 0.81% | 6.9 | open issue to answer better |
+| joey jordison drum set | 107 | 0.93% | 7.0 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

@@ -27,6 +27,12 @@ Travis Orbin's drum kit and gear setup. Travis Orbin is a professional metal dru
 | Signature snare | SJC Custom 14x6.5" Maple |
 | Sticks | Vic Firth American Classic 5B |
 
+## Kit Overview
+
+Travis Orbin's drum kit is built around SJC Custom Drums, the setup behind his genre-defining work on Periphery's self-titled debut (2010) and the complex, trigger-augmented polyrhythmic playing he's since carried into Darkest Hour and his solo session work. The centerpiece of the Travis Orbin drum kit is an SJC Custom 14x6.5" Maple snare, delivering the crisp, controlled crack his precise, linear patterns require. A DW 9000 Series Double Pedal handles his fast, articulate double bass work, while a Roland SPD-SX Sampling Pad integrates electronic triggers into his acoustic setup, and a DW 9100 Throne rounds out the hardware.
+
+Zildjian K Custom Series cymbals shape the Travis Orbin drum set's tone: 14" K Custom Dark Hi-Hats for a controlled, nuanced chick, 18" and 19" K Custom Dark Crashes for dark, complex accents, a 21" K Custom Ride for defined rhythmic clarity, and an 18" K Custom China for sharp punctuation on his most technical passages. Vic Firth American Classic 5B sticks and Evans drumheads complete the rig. This configuration is verified via SJC Drums' and Zildjian's official artist rosters.
+
 ## Biography
 
 Travis Orbin (born August 26, 1985) is an American drummer known for his work with Darkest Hour and as the original studio drummer for Periphery. A self-taught drummer from New York, Orbin rose to prominence recording Periphery's groundbreaking self-titled debut album (2010), which helped define the djent movement. His complex polyrhythmic patterns, precise double bass work, and creative use of electronic triggers set a new standard for modern metal drumming. After leaving Periphery, he joined thrash metal band Darkest Hour in 2013. Orbin is also a prolific session musician and runs the "Travis Orbin Drum" YouTube channel where he posts playthroughs of his studio work. His influences include Gene Hoglan, Tomas Haake, and Matt Garstka.

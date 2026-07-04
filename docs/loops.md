@@ -17,7 +17,7 @@ night-window crons shift by one hour — each affected file says how.
         ┌─────────────────────────  verifier loops (L1/L2/L3)  ──────────────────────────┐
         │  measure real-world impact weekly, file actionable umbrella issues              │
         ▼                                                                                 │
-  SEO Agent ──files──> seo-proposal ──CEO Agent promotes (cap 45)──> ai-fix              │
+  SEO Agent ──files──> seo-proposal ──CEO Agent promotes (cap 80)──> ai-fix              │
                                                                         │                 │
                                                                         ▼                 │
                                                       Roadie (day 3-wide / night 8-wide)  │
@@ -39,8 +39,8 @@ shipped work actually moved a KPI, and that read steers the next cycle.
 
 | Loop | Workflow | Trigger / cadence (UTC) | Role |
 | --- | --- | --- | --- |
-| **SEO Agent** | `seo-agent.yml` | 3×/day `0 7,13,19` | Audits GSC + the data modules, files net-new **`seo-proposal`** issues (article gaps, comparisons, guides, lick pages…). **Bank-capped:** only files while the open `seo-proposal` count is under ~40, so the idea bank stays small and fresh instead of accumulating. Verifies against the DB to avoid false positives. |
-| **CEO Agent** | `ceo-agent.yml` | hourly `0 * * * *` (24/day) | Triages proposals, **promotes `seo-proposal` → `ai-fix`** but only up to a **backlog cap of 45** (so work never outruns the implementer), closes zombies/duplicates, logs decisions. |
+| **SEO Agent** | `seo-agent.yml` | every 2h `0 */2 * * *` | Audits GSC + the data modules, files net-new **`seo-proposal`** issues (article gaps, comparisons, guides, lick pages…). **Bank-capped:** only files while the open `seo-proposal` count is under ~80, so the idea bank stays small and fresh instead of accumulating. Verifies against the DB to avoid false positives. |
+| **CEO Agent** | `ceo-agent.yml` | hourly `0 * * * *` (24/day) | Triages proposals, **promotes `seo-proposal` → `ai-fix`** but only up to a **backlog cap of 80** (so work never outruns the implementer), closes zombies/duplicates, logs decisions. |
 | **Roadie** (day) | `roadie.yml` | `13 7-17/2` (08:00–18:00 Lisbon) + on `issue opened/reopened`; 3 workers, 2h cap | Drains the eligible issue queue, one branch + PR each (`roadie/issue-<n>`). Implements via `claude --print` against `.roadie/AGENT.md`. |
 | **Roadie Night Fleet** | `roadie-night-fleet.yml` | `0 19,23,3` = three 4h shifts covering **20:00–08:00 Lisbon**; 8 workers | Same drain as Roadie but parallel: each matrix worker takes a different issue (via `ROADIE_WORKER_OFFSET` + the `in-progress` label + a pre-PR dup guard). |
 | **PR Merger** | `pr-merger.yml` | `7,22,37,52 * * * *` (~15 min) + on `check_suite completed` | Squash-merges CLEAN/UNSTABLE PRs oldest-first; **reaps DIRTY `roadie/*` (and legacy `ralph/*`) branches** — closes them and clears the issue labels so Roadie re-implements from fresh `main`. |
@@ -88,7 +88,7 @@ Agent reads on its next run.
 | **Verify YouTube (scan)** | `verify-youtube.yml` | daily `0 7` | Full scan for dead YouTube IDs already on `main`; files the umbrella `broken-video` issue. (Its PR-time half is a gate — see D.) |
 | **Check broken images** | `check-broken-images.yml` | Mon `30 6` | Weekly dead-image sweep. |
 | **Check structured data** | `check-structured-data.yml` | Mon `0 10` | Weekly JSON-LD validator: extracts live structured data and asserts Google-required fields per `@type` (e.g. `VideoObject.uploadDate`), catching rich-result gaps before GSC flags them. No API key. [`structured-data-loop.md`](structured-data-loop.md) |
-| **Prune Proposals** | `prune-proposals.yml` | daily `30 6` | Bounds the `seo-proposal` **idea bank** so open issues stop accumulating. Auto-closes un-promoted proposals older than 21 days, then caps the bank at ~60 (oldest excess closed, labelled `pruned`, reversible). Never touches `ai-fix`/`in-progress`/`pr-opened`/`hold`/`human*`/`keep`. Deterministic backstop to the SEO Agent's bank-capped self-throttle. |
+| **Prune Proposals** | `prune-proposals.yml` | daily `30 6` | Bounds the `seo-proposal` **idea bank** so open issues stop accumulating. Auto-closes un-promoted proposals older than 21 days, then caps the bank at ~100 (oldest excess closed, labelled `pruned`, reversible). Never touches `ai-fix`/`in-progress`/`pr-opened`/`hold`/`human*`/`keep`. Deterministic backstop to the SEO Agent's bank-capped self-throttle. |
 
 ---
 
@@ -120,12 +120,12 @@ Agent reads on its next run.
   `blocked` (skip), `human` / `needs-human` (off-limits to the bots),
   `keep` (exempt a proposal from auto-prune), `pruned` (auto-closed from the
   idea bank by `prune-proposals.yml`).
-- **Backlog cap:** the CEO holds the eligible `ai-fix` queue at **≤ 45** so the
+- **Backlog cap:** the CEO holds the eligible `ai-fix` queue at **≤ 80** so the
   implementer is never swamped; proposals park as `seo-proposal` until it clears.
 - **Idea-bank cap:** the `seo-proposal` bank is bounded two ways so it can't
   accumulate: the SEO Agent self-throttles (files nothing once the open bank
-  hits ~40), and **`prune-proposals.yml`** deterministically auto-closes
-  un-promoted proposals >21 days old and caps the bank at ~60 (oldest excess
+  hits ~80), and **`prune-proposals.yml`** deterministically auto-closes
+  un-promoted proposals >21 days old and caps the bank at ~100 (oldest excess
   first, labelled `pruned`, reversible). Promote from the *freshest* proposals —
   old ones cite metrics that have rolled over.
 - **Data modules:** album articles live in **per-drummer files** under

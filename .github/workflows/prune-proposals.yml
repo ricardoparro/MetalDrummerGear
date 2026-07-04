@@ -57,7 +57,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           # Tunables — keep in sync with the SEO Agent's stop-at cap in PROMPT.md.
-          PRUNE_BANK_CAP: '60'
+          PRUNE_BANK_CAP: '100'
           PRUNE_STALE_DAYS: '21'
           PRUNE_MAX_CLOSE: '100'
         run: |

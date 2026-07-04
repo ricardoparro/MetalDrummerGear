@@ -26,6 +26,14 @@ Arin Ilejay's drum kit and gear setup. Arin Ilejay is a professional metal drumm
 | Signature snare | Mapex Black Panther 14x6.5" |
 | Sticks | Vic Firth American Classic 5A |
 
+## Kit Overview
+
+Arin Ilejay plays a Mapex Saturn Series drum kit — the setup behind Avenged Sevenfold's "Hail to the King" (2013), the album that introduced his straightforward, classic-metal-influenced attack following Jimmy "The Rev" Sullivan's death. The cornerstone of the Arin Ilejay drum set is a Mapex Black Panther snare (14×6.5"), delivering the sharp, cutting backbeat that anchored the album's deliberately retro heavy metal grooves, paired with Evans drumheads for consistent tone under Ilejay's hard-hitting style.
+
+Zildjian A Custom cymbals define the Arin Ilejay drum kit: 14" A Custom Mastersound Hi-Hats for crisp articulation, 18" and 19" A Custom Crashes for accent work, a 21" A Sweet Ride for the record's driving verse patterns, and an 18" A Custom China for explosive fills. A Mapex Falcon double pedal and Mapex T865 throne rounded out the rig, with Vic Firth American Classic 5A sticks giving Ilejay the control needed for A7X's tighter, groove-oriented "Hail to the King" material.
+
+This Mapex/Zildjian configuration reflects Ilejay's 2011-2015 tenure with Avenged Sevenfold specifically — the gear documented from his highest-profile run with the band. Since departing A7X, Ilejay has continued as an active session and solo drummer, though his current touring rig is less publicly documented than the "Hail to the King" era setup.
+
 ## Biography
 
 Arin Ilejay, born October 17, 1988, is an American drummer best known for his tenure with Avenged Sevenfold from 2011 to 2015. He joined A7X following the tragic death of founding drummer Jimmy "The Rev" Sullivan. Ilejay recorded one studio album with the band - "Hail to the King" (2013), which debuted at number 1 on the Billboard 200 and multiple international charts. His powerful, straightforward drumming style complemented the album's classic heavy metal approach. Before A7X, he played with Confide, and after his departure, he has been active with various projects including his solo work and session drumming.

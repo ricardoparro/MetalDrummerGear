@@ -26,6 +26,14 @@ Morgan Ågren's drum kit and gear setup. Morgan Ågren is a professional metal d
 | Signature snare | Sonor Designer 14x5.5" Maple |
 | Sticks | Vic Firth American Classic 5A |
 
+## Kit Overview
+
+Morgan Ågren plays a Sonor SQ2 Designer Series drum kit — a custom-configured setup reflecting the exacting standards behind his decades of polyrhythmic, technically demanding playing across the Mats/Morgan Band, Kaipa, and Fredrik Thordendal's Special Defects. The cornerstone of the Morgan Ågren drum set is a Sonor Designer maple snare (14×5.5"), delivering a warm, articulate crack suited to both his jazz-fusion sensibility and the extreme precision required on Sol Niger Within with Meshuggah's Fredrik Thordendal, paired with Remo drumheads for consistent resonance across genres.
+
+Paiste cymbals define the Morgan Ågren drum kit: 14" Signature Heavy Hi-Hats for tight control on his rapid polyrhythmic patterns, 18" and 20" Signature Fast Crashes for quick-decay accents, a 22" Signature Dry Heavy Ride for sustained fusion-style ride work, and an 18" 2002 China for textural punctuation. A Sonor Giant Step double pedal and Sonor throne complete the rig, with Vic Firth American Classic 5A sticks giving Ågren the touch needed for both delicate jazz fusion passages and Special Defects' extreme technicality.
+
+The Sonor/Paiste configuration has remained Ågren's foundation across a career spanning the Mats/Morgan Band since 1981, his Kaipa tenure since 2002, and collaborations with Dweezil Zappa and Devin Townsend — a consistency that lets his gear stay a constant while the genres he applies it to, from progressive rock to jazz fusion to progressive metal, shift dramatically album to album.
+
 ## Biography
 
 Morgan Ågren (born July 13, 1967) is a Swedish drummer renowned for his extraordinary technical ability and complex polyrhythmic playing. He began drumming as a child and formed the Mats/Morgan Band with keyboardist Mats Öberg in 1981, performing Frank Zappa's music. Ågren has collaborated with Dweezil and Ahmet Zappa, recorded the legendary Sol Niger Within album with Meshuggah's Fredrik Thordendal, and has been a member of progressive rock band Kaipa since 2002. He's also worked with Devin Townsend on Casualties of Cool and Empath. A documentary about him, "Morgan Ågren's Conundrum: A Percussive Misadventure," was released in 2013.

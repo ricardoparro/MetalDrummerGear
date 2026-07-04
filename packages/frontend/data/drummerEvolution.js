@@ -18420,6 +18420,855 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Kevin Talley Gear Evolution Timeline | Dying Fetus Drum Kit History',
     metaDescription: 'Explore Kevin Talley\'s complete drum gear evolution: the entry-level Pearl Export / Zildjian A / DW rig behind Dying Fetus\'s Destroy the Opposition (2000), the Misery Index and War of Attrition years, and the upgrade path to his current Pearl Masters Premium Legend / Sabian AAX setup.',
   },
+
+  // ==========================================
+  // Navene Koperweis - Entheos / ex-Animals as Leaders (Drummer Evolution batch 23, Issue #3673)
+  // Undocumented underground gear -> DW Performance Series / Meinl Byzance
+  // ==========================================
+  'navene-koperweis': {
+    slug: 'navene-koperweis',
+    name: 'Navene Koperweis',
+    band: 'Entheos',
+    totalYearsActive: '2003-Present',
+    profileImage: '/images/drummers/navene-koperweis.webp',
+    summary: 'Navene Koperweis built his technical foundation in the Bay Area grindcore underground with Animosity before a two-year run in Animals as Leaders helped invent djent\'s riff-locked drumming language on "Weightless" (2011). After leaving to co-produce the band\'s "The Joy of Motion," he founded Entheos in 2015 with vocalist Chaney Crabb, establishing the DW Performance Series / Meinl Byzance rig that has carried through four Entheos albums and session work for Machine Head and Whitechapel.',
+
+    eras: [
+      {
+        id: 'navene-koperweis-2003-animosity',
+        era: 'Animosity & Early Grindcore Roots',
+        years: '2003–2009',
+        startYear: 2003,
+        endYear: 2009,
+        description: 'Koperweis started drumming at age 11 and cut his teeth professionally in the Bay Area grindcore/death metal band Animosity, appearing on "Empires" (2005) and "Animal" (2007) for Metal Blade. He also contributed to The Faceless\' "Akeldama" (2006). This underground period built the speed and technical control that later defined his djent innovations, though — as is typical for extreme metal drummers working the club circuit before a major endorsement — no single fixed gear brand from these years is publicly documented.',
+        albums: ['Animosity: Empires (2005)', 'Animosity: Animal (2007)', 'The Faceless: Akeldama (2006, guest)'],
+        tours: ['Animosity touring circuit (2003–2008)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various grindcore/death metal-circuit kits (no single fixed brand documented)',
+            details: 'Touring and session-grade shell packs',
+            notes: 'No dedicated endorsement documented prior to his major-label profile rising with Animals as Leaders.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Standard steel snares (varied by session)',
+            details: 'Grindcore-standard 14" configurations',
+            notes: 'No fixed snare documented during the Animosity years.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Varied by session',
+            details: 'No fixed brand documented',
+            notes: 'Cymbal setup varied across his Animosity and guest-session engagements.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard touring hardware, pedal setup varied by gig',
+            details: 'Pedal setup varied by engagement',
+            notes: 'No fixed hardware brand documented for this period.',
+            change: null,
+          },
+          sticks: {
+            item: 'Standard hickory sticks (varied by session)',
+            details: 'No fixed model documented',
+            notes: 'Predates his long-running Vic Firth relationship.',
+            change: null,
+          },
+          heads: {
+            item: 'Standard session heads',
+            details: 'Varied by engagement',
+            notes: 'No fixed head brand documented for this period.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 1800,
+          inflationAdjusted: 2600,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Started playing drums at age 11 in San Jose, California',
+          'Built technical foundation drumming for grindcore/death metal band Animosity',
+          'Recorded Empires (2005) and Animal (2007) for Metal Blade',
+          'No fixed gear endorsement documented prior to joining Animals as Leaders',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'navene-koperweis-2010-animals-as-leaders',
+        era: 'Animals as Leaders / Weightless Era',
+        years: '2010–2012',
+        startYear: 2010,
+        endYear: 2012,
+        description: 'Koperweis joined Animals as Leaders in 2010 and recorded "Weightless" (2011), a landmark record that helped define djent\'s drumming vocabulary. His performance on "Tooth and Claw" introduced the riff-locked double-bass approach — rewriting the kick pattern to match each guitar riff rather than applying a fixed template — that would become his signature. Meinl Cymbals, the one brand constant across his entire career, entered the picture during this era, while his drum and hardware setup remained undocumented tour-grade gear as he built his reputation on the progressive metal festival circuit.',
+        albums: ['Animals as Leaders: Weightless (2011)'],
+        tours: ['Animals as Leaders World Tour 2011–2012'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various touring/session kits (no single fixed brand documented)',
+            details: 'Session and touring-grade shell packs',
+            notes: 'No dedicated single-band drum endorsement documented for the Weightless touring cycle.',
+            change: null,
+          },
+          snare: {
+            item: 'Varied by engagement',
+            details: 'No fixed snare documented',
+            notes: 'No fixed snare brand documented for this era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: 'Dark, hand-hammered B20 bronze',
+            notes: 'Meinl Cymbals endorsement began during this era — the one gear relationship that has stayed constant across every subsequent chapter of Koperweis\'s career.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Standard touring double pedal',
+            details: 'No fixed brand documented',
+            notes: 'No fixed hardware brand documented for the Weightless era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Hickory, medium-heavy weight',
+            notes: 'First documented Vic Firth relationship, providing the power needed for riff-locked double-bass patterns.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Standard touring heads',
+            details: 'No fixed brand documented',
+            notes: 'No fixed head brand documented for this era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3200,
+          inflationAdjusted: 4300,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Animals as Leaders in 2010',
+          'Recorded Weightless (2011), a djent-genre landmark',
+          '"Tooth and Claw" introduced his riff-locked double-bass technique',
+          'Meinl Cymbals endorsement began — the one constant across his entire career',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'navene-koperweis-2012-entheos-founding',
+        era: 'Founding Entheos / DW Performance Era',
+        years: '2012–2016',
+        startYear: 2012,
+        endYear: 2016,
+        description: 'Koperweis left Animals as Leaders in 2012 to pursue other musical interests, later returning to co-produce the band\'s "The Joy of Motion" (2014). He adopted the DW Performance Series maple/mahogany kit that would become his long-term drum endorsement, and in 2015 founded Entheos alongside vocalist (and wife) Chaney Crabb, releasing the "Primal" EP — the first release to fully establish his compositional, riff-locked style under his own creative direction. "The Infinite Nothing" (2016), Entheos\'s full-length debut, followed on Spinefarm Records.',
+        albums: ['Entheos: Primal EP (2015)', 'Entheos: The Infinite Nothing (2016)'],
+        tours: ['Entheos early touring cycle (2015–2016)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Performance Series',
+            details: 'Maple/mahogany hybrid shells: 22"x18" bass drums (x2), 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
+            notes: 'Established as his core endorsement during this era — a warm, full-bodied tone with the focused attack fast djent riffing demands.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'DW Performance 14"x6.5" Steel',
+            details: 'Steel shell, bright and focused',
+            notes: 'A bright, focused crack to slice through Entheos\'s dense twin-guitar attack.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: '15" Dual Hi-Hats, 18"/19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash',
+            notes: 'Unchanged from the Animals as Leaders era — the dark, complex B20 bronze cuts through high-gain djent guitar tone without adding treble congestion.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Pedal',
+            details: 'Dual-chain drive, adjustable eccentric cam',
+            notes: 'Gave Koperweis a fine-tunable acceleration curve for his heel-up riff-locked technique.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Unchanged',
+            notes: 'No change from the Animals as Leaders era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans EMAD Clear (batter), Evans Genera HD Dry (snare), Evans EC2 Clear (toms)',
+            details: 'Standard Evans head package',
+            notes: 'Rounded out the DW rig documented for the Primal EP and Infinite Nothing sessions.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 8900,
+          inflationAdjusted: 11800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Left Animals as Leaders in 2012; later returned to co-produce The Joy of Motion (2014)',
+          'Founded Entheos in 2015 with vocalist Chaney Crabb',
+          'Established the DW Performance Series / Meinl Byzance rig that defines his career',
+          'Released Primal EP (2015) and full-length debut The Infinite Nothing (2016)',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'navene-koperweis-2016-present',
+        era: 'Mature Entheos & Session Work',
+        years: '2016–Present',
+        startYear: 2016,
+        endYear: 2026,
+        description: 'Koperweis carried the DW Performance / Meinl Byzance rig through Entheos\'s "Dark Future" (2017) and its most ambitious album, "Time Will Take Us All" (2023), while also branching into session and touring work — playing on Whitechapel\'s "The Valley" (2019) and serving as Machine Head\'s session drummer starting in 2021. His electronic production work as "Navene K" continued to inform Entheos\'s dynamic, restrained passages, most audible on the "An End to Everything" EP (2024). The rig has remained his settled, mature setup across this entire span.',
+        albums: ['Entheos: Dark Future (2017)', 'Whitechapel: The Valley (2019, session)', 'Entheos: Time Will Take Us All (2023)', 'Entheos: An End to Everything EP (2024)'],
+        tours: ['Entheos touring cycle (2017–present)', 'Job for a Cowboy (session/touring drummer)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Performance Series',
+            details: 'Unchanged configuration',
+            notes: 'No change — the rig established for Primal has remained his settled, mature setup.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Performance 14"x6.5" Steel',
+            details: 'Unchanged',
+            notes: 'No change from the Founding Entheos era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: 'Same configuration',
+            notes: 'No change — Meinl Byzance remains the one constant across his entire recorded career.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Pedal',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans (standard package)',
+            details: 'Consistent configuration',
+            notes: 'No significant change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 9200,
+          inflationAdjusted: 10600,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Released Dark Future (2017) and Entheos\'s most ambitious album, Time Will Take Us All (2023)',
+          'Session drums on Whitechapel\'s The Valley (2019)',
+          'Became Machine Head\'s session drummer starting in 2021',
+          'Rig has remained unchanged since the Founding Entheos era',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit does Navene Koperweis play?',
+        a: 'Navene Koperweis plays a DW Performance Series kit with a DW Performance 14"x6.5" Steel snare, Meinl Byzance cymbals, and a DW 9000 Series double pedal — a rig established around Entheos\'s 2015 Primal EP and carried unchanged through Time Will Take Us All (2023).',
+      },
+      {
+        q: 'Was Navene Koperweis in Animals as Leaders?',
+        a: 'Yes — Koperweis was Animals as Leaders\' drummer from 2010 to 2012, recording the djent landmark "Weightless" (2011), including "Tooth and Claw," which introduced his riff-locked double-bass technique. He later returned to co-produce the band\'s "The Joy of Motion" (2014).',
+      },
+      {
+        q: 'What bands has Navene Koperweis played in?',
+        a: 'Navene Koperweis has drummed for Animosity (2003–2008), Animals as Leaders (2010–2012), and Entheos (2015–present), which he founded with vocalist Chaney Crabb. He has also done session work for Whitechapel and Machine Head.',
+      },
+      {
+        q: 'What cymbals does Navene Koperweis use?',
+        a: 'Koperweis has played Meinl Byzance cymbals since his Animals as Leaders tenure — the one gear relationship that has remained constant across every subsequent era of his career, including his current Entheos setup.',
+      },
+      {
+        q: 'Does Navene Koperweis produce music besides drumming?',
+        a: 'Yes — Koperweis is a prolific electronic producer who releases music as "Navene K," and he runs his own technical death metal project, Fleshwrought, in which he plays all instruments himself.',
+      },
+    ],
+
+    metaTitle: 'Navene Koperweis Gear Evolution Timeline | Entheos Drum Kit History',
+    metaDescription: 'Explore Navene Koperweis\'s complete drum gear evolution: from the undocumented Animosity underground years through Animals as Leaders\' djent-defining Weightless (2011), to the DW Performance Series / Meinl Byzance rig behind Entheos\'s Primal EP (2015) and Time Will Take Us All (2023).',
+  },
+
+  // ==========================================
+  // Hannes Grossmann - Obscura / ex-Necrophagist / Alkaloid (Drummer Evolution batch 23, Issue #3673)
+  // Undocumented tech-death roots -> DW Collectors Series / Meinl Byzance
+  // ==========================================
+  'hannes-grossmann': {
+    slug: 'hannes-grossmann',
+    name: 'Hannes Grossmann',
+    band: 'Obscura',
+    totalYearsActive: '2004-Present',
+    profileImage: '/images/drummers/hannes-grossmann.webp',
+    summary: 'Hannes Grossmann brought classical percussion training and jazz-informed dynamics into technical death metal, first with Necrophagist\'s genre-defining "Epitaph" (2004), then as co-founder of Obscura, where "Cosmogenesis" (2009) and "Omnivium" (2011) established his open-handed, polyrhythmically sophisticated style. After co-founding the progressive death metal supergroup Alkaloid in 2014, he rejoined Obscura in 2020 while continuing Alkaloid, carrying the DW Collectors Series / Meinl Byzance rig documented across his current work.',
+
+    eras: [
+      {
+        id: 'hannes-grossmann-2004-necrophagist',
+        era: 'Necrophagist & Epitaph Era',
+        years: '2004–2007',
+        startYear: 2004,
+        endYear: 2007,
+        description: 'Grossmann joined Necrophagist in 2004, replacing Steve Rowe, and recorded drum tracks for "Epitaph" — a technical death metal landmark still considered one of the most demanding recordings in the genre. His classical percussion background, begun in earnest around 1999, was already audible in his precise, structurally aware approach to blast beats and odd-meter passages, though no single fixed gear brand from this underground-era recording is publicly documented.',
+        albums: ['Necrophagist: Epitaph (2004)'],
+        tours: ['European technical death metal circuit'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various studio/touring kits (no single fixed brand documented)',
+            details: 'Session-grade shell packs',
+            notes: 'No dedicated endorsement documented for the Epitaph recording sessions.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Standard steel/maple snares (varied by session)',
+            details: 'No fixed model documented',
+            notes: 'No fixed snare brand documented for this era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Varied by session',
+            details: 'No fixed brand documented',
+            notes: 'No fixed cymbal brand documented for the Necrophagist years.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard studio double pedal',
+            details: 'No fixed brand documented',
+            notes: 'No fixed hardware brand documented for this era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Standard hickory sticks (varied by session)',
+            details: 'No fixed model documented',
+            notes: 'Predates his long-running Vic Firth relationship.',
+            change: null,
+          },
+          heads: {
+            item: 'Standard session heads',
+            details: 'Varied by engagement',
+            notes: 'No fixed head brand documented for this period.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2400,
+          inflationAdjusted: 3600,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Necrophagist in 2004, replacing Steve Rowe',
+          'Recorded Epitaph (2004), one of technical death metal\'s most influential albums',
+          'Classical percussion training (begun c.1999) already shaping his structural approach',
+          'No fixed gear endorsement documented for this underground-era recording',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'hannes-grossmann-2007-obscura-blotted-science',
+        era: 'Obscura Founding, Cosmogenesis & Blotted Science',
+        years: '2007–2014',
+        startYear: 2007,
+        endYear: 2014,
+        description: 'Grossmann co-founded Obscura with Steffen Kummerer in 2007, the same year he joined Ron Jarzombek\'s instrumental project Blotted Science. Obscura\'s "Cosmogenesis" (2009) and "Omnivium" (2011) became critically acclaimed genre benchmarks, showcasing the open-handed technique — left hand leading on hi-hat or ride — that let him access voicings impossible with a traditional crossed-hands approach. This era established his core DW Collectors Series / Meinl Byzance setup, built for the articulate, note-for-note clarity his polyrhythmic compositions demanded.',
+        albums: ['Blotted Science: The Machinations of Dementia (2007)', 'Obscura: Cosmogenesis (2009)', 'Obscura: Omnivium (2011)'],
+        tours: ['Summer Slaughter (multiple years)', 'European Tech Death Tours (2007–2014)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collectors Series',
+            details: 'North American maple shells: 22"x18" bass drums (x2), 10"x8"/12"x9" rack toms, 14"x14"/16"x16" floor toms',
+            notes: 'DW\'s flagship production shell line, giving precise attack and controlled sustain so every note stays distinguishable within extremely dense drum parts.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'DW Collectors 14"x5.5" Maple',
+            details: 'Maple shell, bright and articulate',
+            notes: 'Tuned for a bright crack that cuts through dense technical arrangements without sacrificing ghost-note definition.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: '14" Byzance Traditional Hi-Hats, 18"/19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride, 10" Byzance Splash',
+            notes: 'Hand-hammered B20 bronze providing warm, harmonically complex tone; hi-hats respond evenly to both sticks to support his open-handed technique.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Pedal',
+            details: 'Chain-drive, adjustable cam system',
+            notes: 'Smooth, consistent response tunable to his specific double-bass technique requirements.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: '.595" diameter, wood tip',
+            notes: 'The added weight over a 5A gives better projection so every ghost note and primary stroke registers clearly.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Evans EQ3 Clear (kick), Remo Emperor Coated (snare), Evans G2/G1 Clear (toms)',
+            details: 'Mixed Evans/Remo package',
+            notes: 'Prioritizes attack definition and quick decay over warmth, matching his articulation-first tuning philosophy.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 9800,
+          inflationAdjusted: 14200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Co-founded Obscura with Steffen Kummerer (2007)',
+          'Joined Ron Jarzombek\'s Blotted Science project (2007)',
+          'Cosmogenesis (2009) and Omnivium (2011) established his open-handed technique as a genre benchmark',
+          'Established the DW Collectors Series / Meinl Byzance rig that has defined his career since',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'hannes-grossmann-2014-alkaloid',
+        era: 'Leaving Obscura & Founding Alkaloid',
+        years: '2014–2020',
+        startYear: 2014,
+        endYear: 2020,
+        description: 'Grossmann left Obscura in 2014 to focus on the progressive death metal supergroup Alkaloid, which he co-founded as a creative outlet distinct from Obscura\'s sound, and on his growing production career from his own studio in Germany. Alkaloid\'s "The Malkuth Grimoire" (2015) and "Liquid Anatomy" (2018) let him push classical voice-leading logic and contrapuntal fill construction further than Obscura\'s format allowed, while his DW Collectors / Meinl Byzance rig carried over unchanged.',
+        albums: ['Alkaloid: The Malkuth Grimoire (2015)', 'Alkaloid: Liquid Anatomy (2018)'],
+        tours: ['Alkaloid European touring dates'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collectors Series',
+            details: 'Unchanged configuration',
+            notes: 'No change — the rig established during the Obscura years carried directly into Alkaloid.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Collectors 14"x5.5" Maple',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: 'Same configuration',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Pedal',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans/Remo mixed package',
+            details: 'Consistent configuration',
+            notes: 'No significant change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 10200,
+          inflationAdjusted: 13400,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Left Obscura in 2014 to focus on Alkaloid and production work',
+          'Co-founded Alkaloid as a creative outlet distinct from Obscura\'s sound',
+          'Released The Malkuth Grimoire (2015) and Liquid Anatomy (2018)',
+          'DW Collectors / Meinl Byzance rig carried over unchanged from the Obscura years',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'hannes-grossmann-2020-return-to-obscura',
+        era: 'Return to Obscura & Alkaloid\'s Numen',
+        years: '2020–Present',
+        startYear: 2020,
+        endYear: 2026,
+        description: 'Grossmann rejoined Obscura in 2020 after a six-year hiatus, recording "A Dying Wish" (2021) for Nuclear Blast, while continuing Alkaloid in parallel with "Numen" (2023) — described as his most ambitious and compositionally mature work, fully integrating jazz influence with extreme metal. He now balances both bands alongside his production career, with the DW Collectors / Meinl Byzance rig unchanged since the Obscura founding era.',
+        albums: ['Obscura: A Dying Wish (2021)', 'Alkaloid: Numen (2023)'],
+        tours: ['Obscura World Tours (2020–present)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collectors Series',
+            details: 'Unchanged configuration',
+            notes: 'No change — his settled, mature rig since co-founding Obscura in 2007.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Collectors 14"x5.5" Maple',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: 'Same configuration',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Pedal',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans/Remo mixed package',
+            details: 'Consistent configuration',
+            notes: 'No significant change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 10500,
+          inflationAdjusted: 11800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Rejoined Obscura in 2020 after a six-year hiatus',
+          'Recorded A Dying Wish (2021) for Nuclear Blast',
+          'Alkaloid\'s Numen (2023) called his most compositionally mature work',
+          'Now balances Obscura and Alkaloid on an unchanged DW Collectors / Meinl Byzance rig',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit does Hannes Grossmann use?',
+        a: 'Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors 14"x5.5" Maple snare, Meinl Byzance cymbals, and a DW 9000 Series double pedal — a rig established during his time co-founding Obscura in 2007 and unchanged through his current Obscura and Alkaloid work.',
+      },
+      {
+        q: 'What is Hannes Grossmann\'s open-handed drumming technique?',
+        a: 'Grossmann plays open-handed for many patterns — left hand on the hi-hat or ride, right hand on the snare — eliminating hand-crossing. This gives him access to ride and hi-hat voicings that would require awkward crossing with traditional technique, and it\'s most audible on Obscura\'s Cosmogenesis (2009) and Omnivium (2011).',
+      },
+      {
+        q: 'What bands has Hannes Grossmann played in?',
+        a: 'Hannes Grossmann drummed for Necrophagist (2004–2010), co-founded Obscura (2007–2014, rejoined 2020–present) and Blotted Science (2007–2011), and co-founded the progressive death metal supergroup Alkaloid in 2014, which he continues alongside Obscura.',
+      },
+      {
+        q: 'Did Hannes Grossmann play on Necrophagist\'s Epitaph?',
+        a: 'Yes — Grossmann joined Necrophagist in 2004, replacing Steve Rowe, and recorded the drum tracks for "Epitaph," widely considered one of the most technically demanding recordings in death metal history.',
+      },
+      {
+        q: 'Why did Hannes Grossmann leave and rejoin Obscura?',
+        a: 'Grossmann left Obscura in 2014 to focus on the newly formed Alkaloid and his growing production career. He rejoined Obscura in 2020 after a six-year hiatus, recording "A Dying Wish" (2021), and now balances both bands.',
+      },
+    ],
+
+    metaTitle: 'Hannes Grossmann Gear Evolution Timeline | Obscura Drum Kit History',
+    metaDescription: 'Explore Hannes Grossmann\'s complete drum gear evolution: from the undocumented Necrophagist Epitaph (2004) years through the DW Collectors Series / Meinl Byzance rig behind Obscura\'s Cosmogenesis (2009), Alkaloid\'s founding, and his 2020 return to Obscura for A Dying Wish.',
+  },
+
+  // ==========================================
+  // Travis Orbin - Periphery founding drummer / Sky Harbor (Drummer Evolution batch 23, Issue #3673)
+  // DW Collector's Series -> carried across post-Periphery career
+  // ==========================================
+  'travis-orbin': {
+    slug: 'travis-orbin',
+    name: 'Travis Orbin',
+    band: 'Periphery',
+    totalYearsActive: '2009-Present',
+    profileImage: '/images/drummers/travis-orbin.webp',
+    summary: 'Travis Orbin helped invent djent\'s rhythmic language as Periphery\'s founding drummer, playing on the band\'s genre-defining self-titled debut (2010) before an amicable 2012 departure. His DW Collector\'s Series / Meinl setup, established during the Periphery years, carried through stints with Sky Harbor and Darkest Hour into a solo career built on viral YouTube playthroughs and educational content that has made him one of the most-studied drummers in progressive metal.',
+
+    eras: [
+      {
+        id: 'travis-orbin-2009-periphery-debut',
+        era: 'Periphery Founding & Self-Titled Debut',
+        years: '2009–2011',
+        startYear: 2009,
+        endYear: 2011,
+        description: 'Orbin joined Periphery in 2009 during the recording of the band\'s self-titled debut, performing the drum parts that would define an entire subgenre. His work on "Icarus Lives!," "Zyglrox," and "Jetpacks Was Yes!" established the template for djent drumming: kick patterns that mirror Misha Mansoor\'s extended-range guitar riffs exactly, displaced backbeats, and metric modulations navigated through shared subdivisions rather than brute-force counting. "Periphery" (2010) launched the djent movement, and the "Icarus" EP (2011) followed before his departure.',
+        albums: ['Periphery: Periphery (2010)', 'Periphery: Icarus EP (2011)'],
+        tours: ['Periphery Tours 2009–2012 (US and European)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series',
+            details: 'Maple shells: 22"x18" bass drums (x2), 10"x8"/12"x9" rack toms, 16"x16" floor tom',
+            notes: 'Warm attack with upper-mid projection that cuts through Periphery\'s extended-range guitar arrangements without sounding harsh.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'DW Collector\'s Series Steel 14"x6.5"',
+            details: 'Steel shell, bright attack',
+            notes: 'Provided the brightness needed to compete with 7- and 8-string guitars tuned to drop A.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Meinl Byzance / Classics Custom',
+            details: '14" Byzance Traditional Hi-Hats, 17" Classics Custom Dark Crash, 19" Byzance Vintage Crash, 21" Byzance Extra Dry Ride, 18" Classics Custom China',
+            notes: 'Clarity and complex overtones so cymbal patterns cut distinctly through djent\'s layered, distorted guitar tones.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Pedal',
+            details: 'Cam-adjustable chain-drive double pedal',
+            notes: 'Fine-tunable feel for Orbin\'s ankle-based double bass technique across the debut\'s intricate kick patterns.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: '16" standard 5A',
+            notes: 'Standard weight and tip for consistent response — Orbin emphasizes technique over exotic equipment.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Remo Powerstroke P3 Clear (kick), Remo Ambassador Coated (snare), Remo Emperor Clear (toms)',
+            details: 'Standard Remo head package',
+            notes: 'Tuned medium-tight with moderate muffling to keep syncopated kick patterns articulate rather than mushy.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 8600,
+          inflationAdjusted: 12000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Periphery in 2009 during recording of the self-titled debut',
+          'Periphery (2010) helped launch the djent movement',
+          'Established the DW Collector\'s Series / Meinl rig documented across his career',
+          'Icarus EP (2011) followed before his 2012 departure',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'travis-orbin-2012-departure-sky-harbor',
+        era: 'Departure & Sky Harbor',
+        years: '2012–2015',
+        startYear: 2012,
+        endYear: 2015,
+        description: 'Orbin left Periphery in 2012 on good terms — Matt Halpern, his replacement, has publicly acknowledged Orbin\'s influence — and joined the international progressive metal band Sky Harbor, releasing "Guiding Lights" (2014). He also joined Darkest Hour as a touring drummer in 2013, splitting his time between the two acts through 2015 while his DW/Meinl rig carried over unchanged from the Periphery years. The move let Orbin step outside the specific rhythmic vocabulary he\'d built for Periphery and apply his polyrhythmic, groove-first approach to Sky Harbor\'s more melodic, internationally-flavored progressive metal songwriting, while his touring stint with Darkest Hour exposed him to a harder-edged metalcore audience.',
+        albums: ['Sky Harbor: Guiding Lights (2014)'],
+        tours: ['Sky Harbor touring dates (2012–2015)', 'Darkest Hour touring dates (2013–2015)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series',
+            details: 'Unchanged configuration',
+            notes: 'No change — the rig established on Periphery\'s debut carried directly into Sky Harbor and his Darkest Hour touring work.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Collector\'s Series Steel 14"x6.5"',
+            details: 'Unchanged',
+            notes: 'No change from the Periphery era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance / Classics Custom',
+            details: 'Same configuration',
+            notes: 'No change from the Periphery era.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Pedal',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo standard package',
+            details: 'Consistent configuration',
+            notes: 'No significant change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 8900,
+          inflationAdjusted: 11400,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Left Periphery amicably in 2012; replaced by Matt Halpern',
+          'Joined international progressive metal band Sky Harbor',
+          'Released Guiding Lights (2014) with Sky Harbor',
+          'Joined Darkest Hour as touring drummer in 2013, splitting time between both acts',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'travis-orbin-2016-solo-playthroughs',
+        era: 'Solo Artist, Playthroughs & Educational Content',
+        years: '2016–Present',
+        startYear: 2016,
+        endYear: 2026,
+        description: 'From 2016 onward, Orbin built a substantial solo career centered on drum playthrough videos and interpretations that have garnered millions of YouTube views, alongside clinics, masterclasses, and ongoing session work. His meticulous, educational breakdowns of technique and gear have made him one of the most-studied drummers in progressive metal, continuing to run his DW Collector\'s / Meinl setup as the foundation for both recorded session work and his instructional content.',
+        albums: ['Solo playthroughs and interpretations (ongoing)'],
+        tours: ['Clinics and masterclasses (ongoing)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'DW Collector\'s Series',
+            details: 'Unchanged configuration',
+            notes: 'No change — his settled, mature rig continues to anchor both session work and playthrough content.',
+            change: null,
+          },
+          snare: {
+            item: 'DW Collector\'s Series Steel 14"x6.5"',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Meinl Byzance / Classics Custom',
+            details: 'Same configuration',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Pedal',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth 5A',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo standard package',
+            details: 'Consistent configuration',
+            notes: 'No significant change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 9200,
+          inflationAdjusted: 10500,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Built a substantial solo career on YouTube drum playthroughs and interpretations',
+          'Playthrough videos have garnered millions of views',
+          'Active in clinics and masterclasses as an educator',
+          'Rig has remained unchanged since the Periphery founding era',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit does Travis Orbin play?',
+        a: 'Travis Orbin plays a DW Collector\'s Series kit with a DW Collector\'s Series 14"x6.5" Steel snare, Meinl Byzance/Classics Custom cymbals, and a DW 9000 Series double pedal — a rig established during his 2009–2012 tenure in Periphery and carried unchanged through his post-Periphery career.',
+      },
+      {
+        q: 'Why did Travis Orbin leave Periphery?',
+        a: 'Travis Orbin left Periphery in 2012 on amicable terms. He was replaced by Matt Halpern, who has publicly acknowledged Orbin\'s influence on the band\'s sound, and Orbin went on to join Sky Harbor and later tour with Darkest Hour.',
+      },
+      {
+        q: 'What albums did Travis Orbin record with Periphery?',
+        a: 'Travis Orbin recorded Periphery\'s self-titled debut album (2010) — widely considered foundational to the djent genre — and the "Icarus" EP (2011) before departing the band in 2012.',
+      },
+      {
+        q: 'What has Travis Orbin done since leaving Periphery?',
+        a: 'Since leaving Periphery in 2012, Travis Orbin has played in Sky Harbor (releasing Guiding Lights in 2014), toured with Darkest Hour (2013–2015), and built a substantial solo career centered on viral YouTube playthrough videos, clinics, and educational content.',
+      },
+      {
+        q: 'What makes Travis Orbin\'s drumming style significant to djent?',
+        a: 'Orbin\'s core innovation was locking kick drum patterns exactly to Misha Mansoor\'s extended-range guitar riffs on Periphery\'s debut, combined with displaced backbeats and metric modulations navigated through shared subdivisions — a template that an entire generation of djent drummers has studied.',
+      },
+    ],
+
+    metaTitle: 'Travis Orbin Gear Evolution Timeline | Periphery Drum Kit History',
+    metaDescription: 'Explore Travis Orbin\'s complete drum gear evolution: the DW Collector\'s Series / Meinl rig behind Periphery\'s genre-defining self-titled debut (2010), his amicable 2012 departure, Sky Harbor and Darkest Hour years, and his solo playthrough career.',
+  },
 };
 
 /**

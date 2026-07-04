@@ -35,6 +35,12 @@ Kevin Talley (born May 21, 1979, in Maryland, USA) is an American drummer renown
 
 Talley's drumming combines the technical demands of brutal death metal with the groove-oriented approach that made Dying Fetus influential. His extensive resume across multiple extreme metal bands has established him as one of the go-to drummers in the brutal death metal community.
 
+## Kit Overview
+
+Kevin Talley plays a Pearl Masters Premium Legend drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation has demanded for over two decades. The Kevin Talley drum set centers on a Pearl Masters 14x5.5" Maple snare, delivering a bright, cracking response that cuts through brutal death metal's dense, downtuned guitar work at his signature blistering tempos.
+
+Sabian AAX Series cymbals round out the Kevin Talley drum kit: 14" Stage Hi-Hats for tight, controlled chops; 17" and 18" X-Plosion Crashes for fast-decaying accents; and a 20" Stage Ride for cutting rhythmic definition. A Pearl Eliminator double pedal drives Talley's renowned speed and endurance, powering the relentless blast beats and gravity-blast technique that helped define brutal death metal and grindcore across his work with Dying Fetus and Misery Index. Vic Firth American Classic 5B sticks and Remo drumheads complete a rig built to withstand the physical demands of some of extreme metal's fastest drumming.
+
 ## Band History
 
 - **Dying Fetus** — 1998–2002

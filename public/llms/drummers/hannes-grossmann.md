@@ -6,7 +6,7 @@ country: "Germany"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/hannes-grossmann"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-07-04"
 ---
 
 # Hannes Grossmann — Drum Kit & Gear Setup
@@ -26,6 +26,12 @@ Hannes Grossmann's drum kit and gear setup. Hannes Grossmann is a professional m
 | Drum kit | DW Collectors Series |
 | Signature snare | DW Collectors 14x5.5" Maple |
 | Sticks | Vic Firth American Classic 5B |
+
+## Kit Overview
+
+Hannes Grossmann's kit is built around a DW Collectors Series shell pack, the precision American-made setup behind the hyper-technical, classically-informed drumming that has made him one of death metal's most respected players. At the center of the Hannes Grossmann drum kit is a DW Collectors 14x5.5" Maple snare, delivering a crisp, controlled crack suited to the intricate ghost notes and odd-meter phrasing running through his work with Necrophagist, Obscura, and Alkaloid.
+
+Meinl's Byzance Series cymbals define the kit's tonal character: 14" Byzance Traditional Hi-Hats for tightly articulated technical passages, 18" and 19" Byzance Brilliant Crashes for bright, cutting accents, and a 21" Byzance Traditional Ride for clarity through rapid, complex fills. A DW 9000 Series double pedal drives the demanding blast-beat and odd-subdivision bass drum patterns his compositions require, while Vic Firth American Classic 5B sticks and Evans heads complete a rig built for both stamina and precision. The setup reflects Grossmann's dual identity as a technical death metal drummer and classically-trained composer and producer, favoring control and articulation over sheer volume.
 
 ## Biography
 

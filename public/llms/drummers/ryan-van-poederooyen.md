@@ -6,7 +6,7 @@ country: "Canada"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/ryan-van-poederooyen"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-07-04"
 ---
 
 # Ryan Van Poederooyen — Drum Kit & Gear Setup
@@ -25,6 +25,12 @@ Ryan Van Poederooyen's drum kit and gear setup. Ryan Van Poederooyen is a profes
 | Drum kit | Pearl Reference Series |
 | Signature snare | Pearl Reference 14x6.5" Brass |
 | Sticks | Vic Firth American Classic 5B |
+
+## Kit Overview
+
+Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend's primary drummer across two decades of genre-hopping albums, from ambient soundscapes to full-throttle metal assaults. The cornerstone of the Ryan Van Poederooyen drum kit is a Pearl Reference 14x6.5" Brass snare, delivering the cutting attack needed to punch through Townsend's dense, layered guitar walls on records like Accelerated Evolution, Synchestra, and Transcendence.
+
+Sabian's HHX and AAX lines shape the kit's cymbal voice: 14" HHX Evolution Hi-Hats for tight, articulate timekeeping through Townsend's odd-meter passages; 18" and 20" HHX Evolution Crashes for dynamic accents; a 21" HHX Raw Bell Dry Ride for dry, controlled ride work; and a 19" AAXtreme China for aggressive punctuation on the heavier sections. A Pearl Demon Drive double pedal supplies the thunderous double bass that anchors Townsend's crushing riffs, while a Pearl D-3000 throne provides the stability needed across marathon live sets. Vic Firth American Classic 5B sticks and Evans heads round out a versatile rig capable of moving between ambient restraint and full metal power within a single song.
 
 ## Biography
 

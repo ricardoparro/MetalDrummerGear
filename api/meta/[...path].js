@@ -231,6 +231,16 @@ function truncate(text, maxLength) {
   return text.substring(0, maxLength - 3) + '...';
 }
 
+// Helper: Escape HTML entities (used for attribute values built from data, e.g. iframe title)
+function escapeHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
+}
+
 // Generate meta tags for path
 function getMetaForPath(pathname) {
   const path = pathname.toLowerCase();
@@ -1875,6 +1885,13 @@ function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'article',
         url: lickUrl,
+        // Issue #3698: real crawlable <iframe> in the SSR body matching the
+        // primary performance VideoObject's embedUrl above, so bots see an
+        // actual watch page instead of schema-only markup.
+        videoEmbed: lick.video?.youtubeId ? {
+          youtubeId: lick.video.youtubeId,
+          title: lick.video.title || lick.name,
+        } : null,
         articleSchema: JSON.stringify({ '@context': 'https://schema.org', '@graph': graph }),
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
@@ -3220,6 +3237,14 @@ function generateMetaHtml(meta, originalUrl) {
 <body>
   <main style="font-family: system-ui, sans-serif; max-width: 600px; margin: 40px auto; padding: 20px;">
     <h1>${meta.title}</h1>
+    ${meta.videoEmbed ? `
+    <!-- Issue #3698: real crawlable video player so Google sees this as a watch page -->
+    <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/${meta.videoEmbed.youtubeId}"
+      title="${escapeHtml(meta.videoEmbed.title)}"
+      frameborder="0" loading="lazy"
+      allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+      allowfullscreen></iframe>` : ''}
     ${meta.subheading ? `<h2>${meta.subheading}</h2>` : ''}
     <p>${meta.description}</p>
     ${meta.ssrLinks && meta.ssrLinks.length > 0 ? `

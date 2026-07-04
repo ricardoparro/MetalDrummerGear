@@ -20,7 +20,7 @@ night-window crons shift by one hour — each affected file says how.
   SEO Agent ──files──> seo-proposal ──CEO Agent promotes (cap 45)──> ai-fix              │
                                                                         │                 │
                                                                         ▼                 │
-                                                      Roadie (day 1-wide / night 6-wide)  │
+                                                      Roadie (day 3-wide / night 8-wide)  │
                                                                         │ opens roadie/* PR
                                                                         ▼                 │
                                                                    PR Merger ──merge──> main
@@ -40,13 +40,13 @@ shipped work actually moved a KPI, and that read steers the next cycle.
 | Loop | Workflow | Trigger / cadence (UTC) | Role |
 | --- | --- | --- | --- |
 | **SEO Agent** | `seo-agent.yml` | 3×/day `0 7,13,19` | Audits GSC + the data modules, files net-new **`seo-proposal`** issues (article gaps, comparisons, guides, lick pages…). **Bank-capped:** only files while the open `seo-proposal` count is under ~40, so the idea bank stays small and fresh instead of accumulating. Verifies against the DB to avoid false positives. |
-| **CEO Agent** | `ceo-agent.yml` | same cadence as SEO Agent | Triages proposals, **promotes `seo-proposal` → `ai-fix`** but only up to a **backlog cap of 45** (so work never outruns the implementer), closes zombies/duplicates, logs decisions. |
-| **Roadie** (day) | `roadie.yml` | `13 7-17/2` (08:00–18:00 Lisbon) + on `issue opened/reopened`; 1 worker, 2h cap | Drains the eligible issue queue, one branch + PR each (`roadie/issue-<n>`). Implements via `claude --print` against `.roadie/AGENT.md`. |
-| **Roadie Night Fleet** | `roadie-night-fleet.yml` | `0 19,23,3` = three 4h shifts covering **20:00–08:00 Lisbon**; 6 workers | Same drain as Roadie but parallel: each matrix worker takes a different issue (via `ROADIE_WORKER_OFFSET` + the `in-progress` label + a pre-PR dup guard). |
+| **CEO Agent** | `ceo-agent.yml` | hourly `0 * * * *` (24/day) | Triages proposals, **promotes `seo-proposal` → `ai-fix`** but only up to a **backlog cap of 45** (so work never outruns the implementer), closes zombies/duplicates, logs decisions. |
+| **Roadie** (day) | `roadie.yml` | `13 7-17/2` (08:00–18:00 Lisbon) + on `issue opened/reopened`; 3 workers, 2h cap | Drains the eligible issue queue, one branch + PR each (`roadie/issue-<n>`). Implements via `claude --print` against `.roadie/AGENT.md`. |
+| **Roadie Night Fleet** | `roadie-night-fleet.yml` | `0 19,23,3` = three 4h shifts covering **20:00–08:00 Lisbon**; 8 workers | Same drain as Roadie but parallel: each matrix worker takes a different issue (via `ROADIE_WORKER_OFFSET` + the `in-progress` label + a pre-PR dup guard). |
 | **PR Merger** | `pr-merger.yml` | `7,22,37,52 * * * *` (~15 min) + on `check_suite completed` | Squash-merges CLEAN/UNSTABLE PRs oldest-first; **reaps DIRTY `roadie/*` (and legacy `ralph/*`) branches** — closes them and clears the issue labels so Roadie re-implements from fresh `main`. |
 
 Day worker and night fleet partition the clock cleanly: **08:00–20:00 Lisbon =
-1-wide day, 20:00–08:00 = 6-wide night**, with no overlap (overlap would just
+3-wide day, 20:00–08:00 = 8-wide night**, with no overlap (overlap would just
 make them compete for the Claude subscription rate limit).
 
 > **Throughput ceiling:** once merge conflicts were removed (see the

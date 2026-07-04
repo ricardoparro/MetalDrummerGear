@@ -1,26 +1,26 @@
 name: Roadie Night Fleet
 
-# 6 parallel Roadie workers concentrated in the Lisbon night window, to push PR
+# 8 parallel Roadie workers concentrated in the Lisbon night window, to push PR
 # throughput toward the 60–80 PRs/day target. Each matrix worker runs the same
 # .roadie/drain.sh but with a distinct ROADIE_WORKER_OFFSET, so they claim
 # DIFFERENT issues from the same eligible queue. Workers coordinate via the
 # `in-progress` label + drain.sh's pre-PR dup guard, so they never double-ship
 # an issue. Runs alongside the all-day single-worker roadie.yml (separate
-# concurrency group); together they cover the night at ~6-wide.
+# concurrency group); together they cover the night at ~8-wide.
 #
 # Parallelism: the albumArticles monolith was split into per-drummer modules, so
 # the merge-conflict ceiling that used to cap us (every worker editing the one big
 # file → DIRTY pile-ups) is gone — workers now touch different per-drummer files
 # and merge cleanly. The remaining ceiling is the Claude subscription rate limit,
-# so 6-wide here is "try and watch for plateau": if PR output doesn't rise versus
+# so 8-wide here is "try and watch for plateau": if PR output doesn't rise versus
 # the old 4-wide, the subscription TIER is the cap, not this number — don't keep
 # bumping it past the point throughput stops climbing.
 #
-# Auth: subscription (CLAUDE_CODE_OAUTH_TOKEN). ⚠️ Even on Max 20x, 6 concurrent
+# Auth: subscription (CLAUDE_CODE_OAUTH_TOKEN). ⚠️ Even on Max 20x, 8 concurrent
 # agentic workers can hit the rolling 5h usage limit — if PR output plateaus
 # well under target, the subscription tier (not this workflow) is the ceiling.
 #
-# Window: cover Lisbon 20:00 → 08:00 (12h) at 6-wide. A single Actions job is
+# Window: cover Lisbon 20:00 → 08:00 (12h) at 8-wide. A single Actions job is
 # hard-killed at 6h, so one launch can't span 12h — we stagger THREE 4h shifts
 # (WALL_CAP_MIN=240) back-to-back so coverage is continuous and never overlapping
 # (overlap would double the concurrent workers and blow the subscription limit).
@@ -53,9 +53,9 @@ jobs:
     timeout-minutes: 350   # < GitHub's 6h hard kill; drain.sh self-guards at 340
     strategy:
       fail-fast: false     # one worker dying must not cancel the others
-      max-parallel: 6
+      max-parallel: 8      # widened 6→8 to push nightly throughput
       matrix:
-        worker: [0, 1, 2, 3, 4, 5]
+        worker: [0, 1, 2, 3, 4, 5, 6, 7]
     steps:
       - uses: actions/checkout@v4
         with:
@@ -91,7 +91,7 @@ jobs:
           GITHUB_RUN_ID: ${{ github.run_id }}
           ROADIE_WORKER_OFFSET: ${{ matrix.worker }}
           # 4h per shift so three back-to-back launches tile 20:00–08:00 Lisbon
-          # without overlapping (overlap would stack workers past 6 and rate-limit).
+          # without overlapping (overlap would stack workers past 8 and rate-limit).
           WALL_CAP_MIN: '240'
         run: |
           chmod +x .roadie/drain.sh

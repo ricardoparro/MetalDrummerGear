@@ -40,6 +40,16 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 350   # drain.sh self-guards at 320 min, under GitHub's 6h cap
     # drain.sh decides eligibility for every issue; no label gate here.
+    # Day worker is now 3-wide (was 1) to lift daytime throughput. Each matrix
+    # leg runs the same drain.sh with a distinct ROADIE_WORKER_OFFSET; they claim
+    # DIFFERENT issues via the `in-progress` label + drain.sh's pre-PR dup guard,
+    # exactly like the night fleet. Still ends by 19:00 UTC (WALL_CAP_MIN=120), so
+    # no overlap with the night fleet.
+    strategy:
+      fail-fast: false     # one worker dying must not cancel the others
+      max-parallel: 3
+      matrix:
+        worker: [0, 1, 2]
     steps:
       - uses: actions/checkout@v4
         with:
@@ -74,6 +84,7 @@ jobs:
           CLAUDE_CODE_OAUTH_TOKEN_2: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN_2 }}
           REPO: ${{ github.repository }}
           GITHUB_RUN_ID: ${{ github.run_id }}
+          ROADIE_WORKER_OFFSET: ${{ matrix.worker }}
           # Bound each day run to 2h so the last 17:00 UTC launch finishes by
           # 19:00 UTC, before the night fleet starts (no overlap / rate-limit clash).
           WALL_CAP_MIN: '120'
@@ -85,7 +96,7 @@ jobs:
         if: always()
         uses: actions/upload-artifact@v4
         with:
-          name: roadie-run-${{ github.run_id }}
+          name: roadie-run-${{ github.run_id }}-w${{ matrix.worker }}
           path: .agents/roadie-runs/
           retention-days: 14
           if-no-files-found: ignore

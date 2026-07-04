@@ -138,6 +138,31 @@ function parseMetricsMd() {
   };
 }
 
+// Parse "276" / "1,234" / "2.4%" → number (or null).
+function parseNum(s) {
+  if (s == null) return null;
+  const n = parseFloat(String(s).replace(/[,%\s]/g, ''));
+  return Number.isFinite(n) ? n : null;
+}
+
+// Revenue trajectory ESTIMATE. metrics.md is a 7-day window, so project ×30/7.
+// AdSense revenue is modeled as pageviews × RPM until the AdSense Management API
+// is connected (real revenue needs that credential). Tunables via env:
+//   DIGEST_AD_RPM_EUR         €/1000 pageviews (default 3 — niche display range)
+//   DIGEST_REVENUE_TARGET_EUR monthly goal to track toward (default 1000)
+function estimateRevenue(metrics) {
+  const rpm = parseFloat(process.env.DIGEST_AD_RPM_EUR || '3');
+  const target = parseFloat(process.env.DIGEST_REVENUE_TARGET_EUR || '1000');
+  const pv7 = parseNum(metrics && metrics.pageViews);
+  if (!pv7 || pv7 <= 0) return { available: false, rpm, target };
+  const monthlyPv = Math.round((pv7 * 30) / 7);
+  const adMo = (monthlyPv * rpm) / 1000;
+  const pctToTarget = target > 0 ? (adMo / target) * 100 : 0;
+  const pvNeeded = rpm > 0 ? Math.round((target / rpm) * 1000) : null;
+  const multiple = pvNeeded && monthlyPv ? pvNeeded / monthlyPv : null;
+  return { available: true, rpm, target, monthlyPv, adMo, pctToTarget, pvNeeded, multiple };
+}
+
 function extractDecisionsSince() {
   if (!fs.existsSync(DECISIONS_LOG)) return [];
   const text = fs.readFileSync(DECISIONS_LOG, 'utf8');
@@ -217,6 +242,24 @@ function buildMarkdown(gh, metrics, decisions) {
   }
   lines.push('');
 
+  // Revenue trajectory (estimate) — watch the real curve toward the monthly goal.
+  const rev = estimateRevenue(metrics);
+  lines.push(`## 💰 Revenue trajectory (estimate)`);
+  lines.push('');
+  if (!rev.available) {
+    lines.push('_No pageview data yet — needs GA4 metrics._');
+  } else {
+    lines.push(`> ⚠️ **Estimate**, not real earnings: ad revenue modeled as pageviews × €${rev.rpm}/1k RPM. Real AdSense numbers need the AdSense Management API connected. Affiliate-click tracking not wired yet.`);
+    lines.push('');
+    lines.push('| Metric | Value |');
+    lines.push('| --- | --- |');
+    lines.push(`| Est. pageviews / mo | ~${rev.monthlyPv.toLocaleString('en-US')} |`);
+    lines.push(`| Est. ad revenue / mo | **~€${rev.adMo.toFixed(2)}** |`);
+    lines.push(`| Progress to €${rev.target}/mo | ${rev.pctToTarget.toFixed(1)}% |`);
+    lines.push(`| Pageviews/mo needed for €${rev.target} | ~${rev.pvNeeded.toLocaleString('en-US')} (${rev.multiple.toFixed(0)}× current) |`);
+  }
+  lines.push('');
+
   const byWorkflow = classifyAgentRuns(gh.runsInWindow);
   if (Object.keys(byWorkflow).length > 0) {
     lines.push(`## 🤖 Agent / workflow runs (last ${WINDOW_HOURS}h)`);
@@ -287,6 +330,13 @@ function buildTelegramText(gh, metrics, fullUrl) {
     if (metrics.gscAvailable) {
       lines.push(`• GSC impr: ${metrics.impressions || '?'} · CTR: ${metrics.ctr || '?'} · Pos: ${metrics.position || '?'}`);
     }
+    lines.push('');
+  }
+
+  const rev = estimateRevenue(metrics);
+  if (rev.available) {
+    lines.push(`<b>💰 Rev (est, not real)</b>`);
+    lines.push(`• ~€${rev.adMo.toFixed(0)}/mo ads @ €${rev.rpm}/1k · ${rev.pctToTarget.toFixed(1)}% to €${rev.target} (${rev.multiple.toFixed(0)}× pv)`);
     lines.push('');
   }
 

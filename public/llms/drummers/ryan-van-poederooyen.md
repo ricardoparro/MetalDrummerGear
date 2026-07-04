@@ -67,6 +67,10 @@ A: Ryan Van Poederooyen uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats,
 
 A: Ryan Van Poederooyen drums for Devin Townsend Project, a progressive metal / extreme metal band.
 
+## Gear Evolution Timeline
+
+Ryan Van Poederooyen's complete drum gear evolution — from the undocumented Devin Townsend Band founding years through the Pearl Reference Series / Sabian HHX & AAX rig behind Devin Townsend Project's "Addicted" (2009) through "Transcendence" (2016), to his current Montreal session and teaching career — is tracked era-by-era: [Ryan Van Poederooyen Gear Evolution Timeline](https://metalforge.io/drummers/ryan-van-poederooyen/evolution) ([markdown version](/llms/evolution/ryan-van-poederooyen.md)).
+
 ## Quotes
 
 > "Working with Devin is never boring. Every album is a completely different challenge."

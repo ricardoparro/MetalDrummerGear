@@ -19269,6 +19269,723 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Travis Orbin Gear Evolution Timeline | Periphery Drum Kit History',
     metaDescription: 'Explore Travis Orbin\'s complete drum gear evolution: the DW Collector\'s Series / Meinl rig behind Periphery\'s genre-defining self-titled debut (2010), his amicable 2012 departure, Sky Harbor and Darkest Hour years, and his solo playthrough career.',
   },
+
+  // ==========================================
+  // Arin Ilejay - ex-Avenged Sevenfold (Drummer Evolution batch 24, Issue #3682)
+  // Confide club circuit -> Mapex/Zildjian A7X era -> Islander & session work
+  // ==========================================
+  'arin-ilejay': {
+    slug: 'arin-ilejay',
+    name: 'Arin Ilejay',
+    band: 'Avenged Sevenfold',
+    totalYearsActive: '2007-Present',
+    profileImage: '/images/drummers/arin-ilejay.webp',
+    summary: 'Arin Ilejay went from the Orange County post-hardcore club circuit with Confide to the drum stool vacated by Jimmy "The Rev" Sullivan, recording Avenged Sevenfold\'s chart-topping "Hail to the King" (2013) on a Mapex Saturn Series / Zildjian A Custom rig before a 2015 split sent him into Islander and session work.',
+
+    eras: [
+      {
+        id: 'arin-ilejay-2007-confide',
+        era: 'Confide & Pre-A7X Years',
+        years: '2007–2010',
+        startYear: 2007,
+        endYear: 2010,
+        description: 'Ilejay cut his teeth drumming for Orange County post-hardcore act Confide starting in 2007, touring the Southern California club circuit and building the powerful, straight-ahead playing style that would later suit Avenged Sevenfold\'s classic-metal turn. As with most unsigned club-circuit acts of the era, no single fixed drum, cymbal, or stick endorsement from this period is publicly documented.',
+        albums: ['Confide: Recover (2007)', 'Confide: This Life (2009)'],
+        tours: ['Confide Southern California club circuit (2007–2010)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various club-circuit kits (no single fixed brand documented)',
+            details: 'Standard touring-grade shell packs',
+            notes: 'No dedicated endorsement documented prior to his 2011 Avenged Sevenfold audition.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Standard steel snares (varied by gig)',
+            details: 'No fixed snare documented',
+            notes: 'No fixed snare brand documented for the Confide years.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Varied by gig',
+            details: 'No fixed brand documented',
+            notes: 'Cymbal setup varied across Confide\'s club-circuit dates.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard touring hardware',
+            details: 'No fixed brand documented',
+            notes: 'No fixed hardware brand documented for this period.',
+            change: null,
+          },
+          sticks: {
+            item: 'Standard hickory sticks (varied by gig)',
+            details: 'No fixed model documented',
+            notes: 'Predates his documented Vic Firth relationship.',
+            change: null,
+          },
+          heads: {
+            item: 'Standard club-circuit heads',
+            details: 'Varied by gig',
+            notes: 'No fixed head brand documented for this period.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 1600,
+          inflationAdjusted: 2300,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Orange County post-hardcore band Confide in 2007',
+          'Toured the Southern California club circuit through 2010',
+          'Built the powerful, straightforward drumming style later heard on Hail to the King',
+          'No fixed gear endorsement documented prior to his Avenged Sevenfold audition',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'arin-ilejay-2011-avenged-sevenfold',
+        era: 'Avenged Sevenfold / Hail to the King Era',
+        years: '2011–2015',
+        startYear: 2011,
+        endYear: 2015,
+        description: 'Avenged Sevenfold announced on January 20, 2011 that "former Confide drummer" Arin Ilejay would begin touring with the band, filling the seat vacated after Jimmy "The Rev" Sullivan\'s 2009 death and Mike Portnoy\'s session stint on "Nightmare" (2010). Ilejay was confirmed as a full-time member during the recording of "Hail to the King" (2013), which debuted at number one on the Billboard 200, and he built out a Mapex Saturn Series / Zildjian A Custom Mastersound rig for the album\'s touring cycle before the band announced their split in July 2015.',
+        albums: ['Avenged Sevenfold: Hail to the King (2013)'],
+        tours: ['Hail to the King World Tour (2013–2015)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Mapex Saturn Series',
+            details: 'Maple/walnut hybrid shell pack',
+            notes: 'Established as his documented endorsement during the Hail to the King touring cycle.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Mapex Black Panther 14"x6.5"',
+            details: 'Signature snare series, steel/maple options',
+            notes: 'Provided the crack needed to cut through A7X\'s classic-metal wall of guitars.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom Series',
+            details: '14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China',
+            notes: 'Bright, cutting A Custom voicing suited to Hail to the King\'s arena-metal production.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Mapex Falcon Double Pedal, Mapex T865 Throne',
+            details: 'Chain-drive double pedal',
+            notes: 'First documented hardware endorsement of his career.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A',
+            details: 'Standard hickory',
+            notes: 'First documented Vic Firth relationship.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'Standard head package',
+            notes: 'Rounded out the Mapex rig documented across the Hail to the King era.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 6800,
+          inflationAdjusted: 9400,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Began touring with Avenged Sevenfold in 2011',
+          'Confirmed full-time member during Hail to the King (2013) recording sessions',
+          'Hail to the King debuted at #1 on the Billboard 200',
+          'Band announced their split with Ilejay in July 2015',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'arin-ilejay-2015-islander-session-work',
+        era: 'Islander & Session Work',
+        years: '2015–Present',
+        startYear: 2015,
+        endYear: 2026,
+        description: 'After Avenged Sevenfold announced their split with Ilejay in mid-2015, he joined Greenville, South Carolina rap-rock band Islander in 2016, replacing Eric Fraizer and recording the group\'s "Power Under Control" (2016). He has continued with solo work and session drumming in the years since, without a single publicly documented gear endorsement replacing the Mapex/Zildjian rig from his Avenged Sevenfold years.',
+        albums: ['Islander: Power Under Control (2016)'],
+        tours: ['Islander touring dates (2016–present)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Not publicly documented since the Avenged Sevenfold era',
+            details: 'No fixed brand confirmed',
+            notes: 'No dedicated drum endorsement documented for the Islander/session years.',
+            change: null,
+          },
+          snare: {
+            item: 'Not publicly documented',
+            details: 'No fixed snare confirmed',
+            notes: 'No fixed snare brand documented for this era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Not publicly documented',
+            details: 'No fixed brand confirmed',
+            notes: 'No fixed cymbal brand documented for this era.',
+            change: null,
+          },
+          hardware: {
+            item: 'Not publicly documented',
+            details: 'No fixed brand confirmed',
+            notes: 'No fixed hardware brand documented for this era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Not publicly documented',
+            details: 'No fixed model confirmed',
+            notes: 'No fixed stick brand documented since the Avenged Sevenfold years.',
+            change: null,
+          },
+          heads: {
+            item: 'Not publicly documented',
+            details: 'No fixed brand confirmed',
+            notes: 'No fixed head brand documented for this era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3200,
+          inflationAdjusted: 3900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Avenged Sevenfold announced their split with Ilejay in July 2015',
+          'Joined Islander in 2016, replacing Eric Fraizer',
+          'Recorded Islander\'s Power Under Control (2016)',
+          'Continues solo work and session drumming without a publicly documented gear endorsement',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit did Arin Ilejay play in Avenged Sevenfold?',
+        a: 'Arin Ilejay played a Mapex Saturn Series kit with a Mapex Black Panther 14"x6.5" snare, Zildjian A Custom cymbals, and a Mapex Falcon double pedal — the rig documented across Avenged Sevenfold\'s Hail to the King (2013) recording and touring cycle.',
+      },
+      {
+        q: 'Was Arin Ilejay in Confide before Avenged Sevenfold?',
+        a: 'Yes — Ilejay drummed for the Orange County post-hardcore band Confide starting in 2007, touring the Southern California club circuit before Avenged Sevenfold announced he would begin touring with them in January 2011.',
+      },
+      {
+        q: 'Why did Arin Ilejay leave Avenged Sevenfold?',
+        a: 'Avenged Sevenfold announced their split with Ilejay in July 2015, citing creative differences. He had been the band\'s drummer since 2011 and recorded one studio album with them, Hail to the King (2013).',
+      },
+      {
+        q: 'What has Arin Ilejay done since leaving Avenged Sevenfold?',
+        a: 'Since departing Avenged Sevenfold in 2015, Ilejay joined Greenville rap-rock band Islander in 2016, recording "Power Under Control," and has continued with solo work and session drumming.',
+      },
+      {
+        q: 'Did Arin Ilejay record any albums with Avenged Sevenfold?',
+        a: 'Ilejay recorded one studio album with Avenged Sevenfold, "Hail to the King" (2013), which debuted at number one on the Billboard 200 and multiple international charts.',
+      },
+    ],
+
+    metaTitle: 'Arin Ilejay Gear Evolution Timeline | Avenged Sevenfold Drum Kit History',
+    metaDescription: 'Explore Arin Ilejay\'s complete drum gear evolution: from the undocumented Confide club-circuit years through the Mapex Saturn Series / Zildjian A Custom rig behind Avenged Sevenfold\'s Hail to the King (2013), to his post-2015 Islander and session-drumming career.',
+  },
+
+  // ==========================================
+  // Ryan Van Poederooyen - Devin Townsend Project (Drummer Evolution batch 24, Issue #3682)
+  // Undocumented Devin Townsend Band roots -> Pearl/Sabian rig through DTP & beyond
+  // ==========================================
+  'ryan-van-poederooyen': {
+    slug: 'ryan-van-poederooyen',
+    name: 'Ryan Van Poederooyen',
+    band: 'Devin Townsend Project',
+    totalYearsActive: '2002-Present',
+    profileImage: '/images/drummers/ryan-van-poederooyen.webp',
+    summary: 'Recommended to Devin Townsend by longtime drummer Gene Hoglan in 2002, Ryan Van Poederooyen spent 16 years as Townsend\'s primary drummer across the Devin Townsend Band and Devin Townsend Project, building the Pearl Reference Series / Sabian HHX & AAX rig that carried him from "Accelerated Evolution" (2003) through "Transcendence" (2016) and into his current Montreal session and teaching career.',
+
+    eras: [
+      {
+        id: 'ryan-van-poederooyen-2002-devin-townsend-band',
+        era: 'Devin Townsend Band Founding Era',
+        years: '2002–2007',
+        startYear: 2002,
+        endYear: 2007,
+        description: 'Devin Townsend recruited Van Poederooyen in 2002 on the recommendation of longtime collaborator Gene Hoglan, who had seen him perform with his own experimental group God Awakens Petrified. As the newly formed Devin Townsend Band\'s drummer, Van Poederooyen recorded "Accelerated Evolution" (2003) and "Synchestra" (2006), establishing the powerful-yet-dynamic playing style that would define two decades of collaboration, though no single fixed gear endorsement from this founding period is publicly documented.',
+        albums: ['Devin Townsend Band: Accelerated Evolution (2003)', 'Devin Townsend Band: Synchestra (2006)'],
+        tours: ['Devin Townsend Band touring dates (2002–2007)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various touring/session kits (no single fixed brand documented)',
+            details: 'Standard touring-grade shell packs',
+            notes: 'No dedicated endorsement documented prior to his Devin Townsend Project years.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Standard steel snares (varied by session)',
+            details: 'No fixed snare documented',
+            notes: 'No fixed snare brand documented for the Devin Townsend Band years.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Varied by session',
+            details: 'No fixed brand documented',
+            notes: 'Cymbal setup varied across the Accelerated Evolution and Synchestra sessions.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard touring hardware',
+            details: 'No fixed brand documented',
+            notes: 'No fixed hardware brand documented for this period.',
+            change: null,
+          },
+          sticks: {
+            item: 'Standard hickory sticks (varied by session)',
+            details: 'No fixed model documented',
+            notes: 'Predates his documented Vic Firth relationship.',
+            change: null,
+          },
+          heads: {
+            item: 'Standard session heads',
+            details: 'Varied by session',
+            notes: 'No fixed head brand documented for this period.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2200,
+          inflationAdjusted: 3300,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Recruited by Devin Townsend in 2002 on Gene Hoglan\'s recommendation',
+          'Recorded Accelerated Evolution (2003) and Synchestra (2006)',
+          'Established the dynamic playing style that defined two decades with Townsend',
+          'No fixed gear endorsement documented for the Devin Townsend Band years',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'ryan-van-poederooyen-2009-devin-townsend-project',
+        era: 'Devin Townsend Project & Pearl/Sabian Rig',
+        years: '2009–2018',
+        startYear: 2009,
+        endYear: 2018,
+        description: 'After the Devin Townsend Band dissolved in 2007, Van Poederooyen spent two years on side projects — including his own Terror Syndrome and progressive rock outfit Ten Ways from Sunday — before rejoining Townsend in 2009 for the newly formed Devin Townsend Project. Over the next decade he recorded "Addicted" (2009), "Deconstruction" (2011), "Epicloud" (2012), "Z²" (2014), and "Transcendence" (2016), establishing the Pearl Reference Series / Sabian HHX & AAX rig that defined the project\'s sound before DTP entered an indefinite hiatus in 2018.',
+        albums: ['Devin Townsend Project: Addicted (2009)', 'Devin Townsend Project: Deconstruction (2011)', 'Devin Townsend Project: Epicloud (2012)', 'Devin Townsend Project: Z² (2014)', 'Devin Townsend Project: Transcendence (2016)'],
+        tours: ['Devin Townsend Project World Tours (2009–2018)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Multi-ply shell pack for powerful low end and quick rebound',
+            notes: 'Established as his core documented endorsement during the Devin Townsend Project years.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Pearl Reference 14"x6.5" Brass',
+            details: 'Brass shell, bright and cutting',
+            notes: 'Delivered the crack needed to navigate Townsend\'s genre-defying arrangements.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Sabian HHX & AAX Series',
+            details: '14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China',
+            notes: 'Complex, controlled voicing suited to Townsend\'s shifts between ambient passages and crushing metal sections.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal, Pearl D-3000 Throne',
+            details: 'Dual-chain drive double pedal',
+            notes: 'First documented hardware endorsement of the Devin Townsend Project era.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Standard hickory',
+            notes: 'First documented Vic Firth relationship.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'Standard head package',
+            notes: 'Rounded out the Pearl/Sabian rig documented across the DTP catalog.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 7600,
+          inflationAdjusted: 10800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Rejoined Townsend in 2009 for the newly formed Devin Townsend Project',
+          'Recorded five DTP studio albums between 2009 and 2016',
+          'Established the Pearl Reference Series / Sabian HHX & AAX rig',
+          'DTP entered an indefinite hiatus in 2018',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'ryan-van-poederooyen-2018-session-teaching',
+        era: 'Post-DTP Session & Teaching Work',
+        years: '2018–Present',
+        startYear: 2018,
+        endYear: 2026,
+        description: 'Since Devin Townsend Project\'s 2018 hiatus announcement, Van Poederooyen has continued as a session drummer and drum instructor in the Montreal area, carrying his Pearl Reference Series / Sabian HHX & AAX rig — verified current as of February 2026 via Pearl and Sabian\'s own artist pages — into ongoing session and teaching work while remaining available for future Devin Townsend collaborations.',
+        albums: ['Session and teaching work (ongoing)'],
+        tours: ['Montreal-area session and drum instruction (2018–present)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Series',
+            details: 'Unchanged configuration',
+            notes: 'No change — the rig established during the Devin Townsend Project years remains his documented setup.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Reference 14"x6.5" Brass',
+            details: 'Unchanged',
+            notes: 'No change from the Devin Townsend Project era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian HHX & AAX Series',
+            details: 'Same configuration',
+            notes: 'No change from the Devin Townsend Project era.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal, Pearl D-3000 Throne',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'Consistent configuration',
+            notes: 'No significant change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 7900,
+          inflationAdjusted: 8900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Devin Townsend Project entered an indefinite hiatus in 2018',
+          'Continued as a session drummer and drum instructor in Montreal',
+          'Pearl/Sabian rig verified current as of February 2026',
+          'Remains available for future Devin Townsend collaborations',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit does Ryan Van Poederooyen play?',
+        a: 'Ryan Van Poederooyen plays a Pearl Reference Series kit with a Pearl Reference 14"x6.5" Brass snare, Sabian HHX & AAX cymbals, and a Pearl Demon Drive double pedal — a rig established during the Devin Townsend Project years and verified current as of February 2026.',
+      },
+      {
+        q: 'How did Ryan Van Poederooyen join Devin Townsend\'s band?',
+        a: 'Devin Townsend recruited Van Poederooyen in 2002 on the recommendation of longtime drummer Gene Hoglan, who had seen him perform with his own experimental group God Awakens Petrified.',
+      },
+      {
+        q: 'What albums did Ryan Van Poederooyen record with Devin Townsend Project?',
+        a: 'Van Poederooyen recorded Addicted (2009), Deconstruction (2011), Epicloud (2012), Z² (2014), and Transcendence (2016) across Devin Townsend Project\'s decade-long run before the band\'s 2018 hiatus.',
+      },
+      {
+        q: 'Is Ryan Van Poederooyen still drumming for Devin Townsend?',
+        a: 'Devin Townsend Project has been on an indefinite hiatus since 2018. Van Poederooyen has continued as a session drummer and drum instructor in Montreal since then, while remaining available for future collaborations with Townsend.',
+      },
+      {
+        q: 'What bands has Ryan Van Poederooyen played in?',
+        a: 'Van Poederooyen drummed for the Devin Townsend Band (2002–2007) and Devin Townsend Project (2009–2018), alongside side projects including Terror Syndrome and Ten Ways from Sunday during Townsend\'s 2007–2009 hiatus.',
+      },
+    ],
+
+    metaTitle: 'Ryan Van Poederooyen Gear Evolution Timeline | Devin Townsend Drum Kit History',
+    metaDescription: 'Explore Ryan Van Poederooyen\'s complete drum gear evolution: from the undocumented Devin Townsend Band founding years through the Pearl Reference Series / Sabian HHX & AAX rig behind Devin Townsend Project\'s Addicted (2009) through Transcendence (2016), to his current Montreal session and teaching career.',
+  },
+
+  // ==========================================
+  // Daray - Dimmu Borgir / ex-Vader (Drummer Evolution batch 24, Issue #3682)
+  // Undocumented Vader years -> Pearl/Paiste rig through Dimmu Borgir's Abrahadabra to Grand Serpent Rising
+  // ==========================================
+  'daray': {
+    slug: 'daray',
+    name: 'Daray',
+    band: 'Dimmu Borgir',
+    totalYearsActive: '2004-Present',
+    profileImage: '/images/drummers/daray.webp',
+    summary: 'Dariusz "Daray" Brzozowski stepped in for an injured Krzysztof "Doc" Raczkowski in Vader in 2004, then crossed straight from his final Vader show into Dimmu Borgir\'s audition room in August 2008, building the Pearl Masterworks Stadium Exotic / Paiste RUDE rig that has carried the band\'s symphonic black metal from "Abrahadabra" (2010) through 2026\'s "Grand Serpent Rising."',
+
+    eras: [
+      {
+        id: 'daray-2004-vader',
+        era: 'Vader Era',
+        years: '2004–2008',
+        startYear: 2004,
+        endYear: 2008,
+        description: 'Brzozowski stepped in as a substitute drummer for Polish death metal band Vader in 2004 during the "Beware the Beast" sessions after longtime drummer Krzysztof "Doc" Raczkowski suffered hand and leg injuries, becoming a permanent member in March 2005. He recorded the "Art of War" EP (2005), "Impressions in Blood" (2006), and the 25th-anniversary compilation "XXV" (2008) before playing his final Vader show at the band\'s August 30, 2008 anniversary concert — a period for which no single fixed gear endorsement is publicly documented.',
+        albums: ['Vader: Beware the Beast (2004)', 'Vader: The Art of War EP (2005)', 'Vader: Impressions in Blood (2006)', 'Vader: XXV (2008)'],
+        tours: ['Vader European and international touring (2004–2008)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various studio/touring kits (no single fixed brand documented)',
+            details: 'Standard touring-grade shell packs',
+            notes: 'No dedicated endorsement documented prior to his 2008 Dimmu Borgir audition.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Standard steel snares (varied by session)',
+            details: 'No fixed snare documented',
+            notes: 'No fixed snare brand documented for the Vader years.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Varied by session',
+            details: 'No fixed brand documented',
+            notes: 'Cymbal setup varied across the Impressions in Blood and XXV sessions.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard touring double pedal',
+            details: 'No fixed brand documented',
+            notes: 'No fixed hardware brand documented for this period.',
+            change: null,
+          },
+          sticks: {
+            item: 'Standard hickory sticks (varied by session)',
+            details: 'No fixed model documented',
+            notes: 'Predates his documented Vic Firth relationship.',
+            change: null,
+          },
+          heads: {
+            item: 'Standard session heads',
+            details: 'Varied by session',
+            notes: 'No fixed head brand documented for this period.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 2100,
+          inflationAdjusted: 3200,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Stepped in as a Vader substitute drummer in 2004, becoming permanent in March 2005',
+          'Recorded Impressions in Blood (2006) and the XXV anniversary compilation (2008)',
+          'Played his final Vader show at the band\'s 25th-anniversary concert, August 30, 2008',
+          'No fixed gear endorsement documented for the Vader years',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'daray-2008-dimmu-borgir-abrahadabra',
+        era: 'Joining Dimmu Borgir & Abrahadabra Era',
+        years: '2008–2017',
+        startYear: 2008,
+        endYear: 2017,
+        description: 'Just days after his final Vader show, Brzozowski auditioned for Dimmu Borgir in Oslo in August 2008, replacing touring drummer Tony Laureano behind the kit. He recorded the symphonic black metal landmark "Abrahadabra" (2010), Dimmu Borgir\'s first album with him, and established the Pearl Masterworks Stadium Exotic / Paiste RUDE & 2002 Series rig that has anchored his sound through the band\'s subsequent decade of orchestral, theatrical extreme metal.',
+        albums: ['Dimmu Borgir: Abrahadabra (2010)'],
+        tours: ['Dimmu Borgir World Tours (2008–2017)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masterworks Stadium Exotic',
+            details: 'Exotic-veneer stadium-grade shell pack',
+            notes: 'Established as his documented endorsement during the Abrahadabra era.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Pearl Reference 14"x5.5" Brass',
+            details: 'Brass shell, bright and cutting',
+            notes: 'Provided the crack needed to cut through Dimmu Borgir\'s dense orchestral arrangements.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Paiste RUDE & 2002 Series',
+            details: '14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride',
+            notes: 'Dark, aggressive RUDE voicing suited to Dimmu Borgir\'s symphonic black metal production.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Pearl Demon XR Double Pedal',
+            details: 'Direct-drive double pedal',
+            notes: 'First documented hardware endorsement of his Dimmu Borgir tenure.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic Extreme 5B',
+            details: 'Extended, heavier 5B variant',
+            notes: 'First documented Vic Firth relationship, built for extreme-metal blast beat durability.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'Standard head package',
+            notes: 'Rounded out the Pearl/Paiste rig documented across the Abrahadabra era.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 8200,
+          inflationAdjusted: 11400,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Auditioned for and joined Dimmu Borgir in Oslo, August 2008',
+          'Replaced touring drummer Tony Laureano',
+          'Recorded Abrahadabra (2010), his first album with the band',
+          'Established the Pearl Masterworks / Paiste RUDE rig documented across his Dimmu Borgir career',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'daray-2018-eonian-grand-serpent-rising',
+        era: 'Eonian & Grand Serpent Rising Era',
+        years: '2018–Present',
+        startYear: 2018,
+        endYear: 2026,
+        description: 'Brzozowski recorded Dimmu Borgir\'s "Eonian" (2018) and, after an eight-year wait, the band\'s tenth studio album "Grand Serpent Rising" (2026), tracked in Gothenburg with longtime collaborator Fredrik Nordström and released on Nuclear Blast Records. His Pearl Masterworks / Paiste RUDE rig has remained unchanged across both albums, continuing to anchor Dimmu Borgir\'s orchestral, theatrical brand of symphonic black metal.',
+        albums: ['Dimmu Borgir: Eonian (2018)', 'Dimmu Borgir: Grand Serpent Rising (2026)'],
+        tours: ['Dimmu Borgir World Tours (2018–present)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Masterworks Stadium Exotic',
+            details: 'Unchanged configuration',
+            notes: 'No change — the rig established during the Abrahadabra era remains his documented setup.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Reference 14"x5.5" Brass',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Paiste RUDE & 2002 Series',
+            details: 'Same configuration',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Demon XR Double Pedal',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic Extreme 5B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'Consistent configuration',
+            notes: 'No significant change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 8600,
+          inflationAdjusted: 9700,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Recorded Eonian (2018)',
+          'Recorded Grand Serpent Rising (2026), Dimmu Borgir\'s tenth studio album, after an eight-year gap',
+          'Grand Serpent Rising tracked in Gothenburg with producer Fredrik Nordström',
+          'Pearl Masterworks / Paiste RUDE rig unchanged since the Abrahadabra era',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit does Daray play?',
+        a: 'Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14"x5.5" Brass snare, Paiste RUDE & 2002 Series cymbals, and a Pearl Demon XR double pedal — a rig established during Dimmu Borgir\'s Abrahadabra era (2010) and unchanged through Grand Serpent Rising (2026).',
+      },
+      {
+        q: 'Was Daray in Vader before Dimmu Borgir?',
+        a: 'Yes — Daray drummed for Vader from 2004 (permanent from March 2005) through August 2008, recording Impressions in Blood (2006) and the XXV compilation (2008) before crossing straight into Dimmu Borgir\'s audition room.',
+      },
+      {
+        q: 'When did Daray join Dimmu Borgir?',
+        a: 'Daray auditioned for and joined Dimmu Borgir in Oslo in August 2008, just days after playing his final show with Vader, replacing touring drummer Tony Laureano.',
+      },
+      {
+        q: 'What albums has Daray recorded with Dimmu Borgir?',
+        a: 'Daray has recorded Abrahadabra (2010), Eonian (2018), and Grand Serpent Rising (2026) with Dimmu Borgir — the band\'s first new album in eight years, tracked in Gothenburg with producer Fredrik Nordström.',
+      },
+      {
+        q: 'What cymbals does Daray use?',
+        a: 'Daray uses Paiste RUDE & 2002 Series cymbals — 14" RUDE Hi-Hats, 17" and 18" RUDE Crashes, and a 22" RUDE Power Ride — a dark, aggressive setup documented since Dimmu Borgir\'s Abrahadabra era.',
+      },
+    ],
+
+    metaTitle: 'Daray Gear Evolution Timeline | Dimmu Borgir Drum Kit History',
+    metaDescription: 'Explore Daray\'s complete drum gear evolution: from the undocumented Vader years (2004–2008) through the Pearl Masterworks Stadium Exotic / Paiste RUDE rig behind Dimmu Borgir\'s Abrahadabra (2010), Eonian (2018), and 2026\'s Grand Serpent Rising.',
+  },
 };
 
 /**

@@ -27,6 +27,14 @@ Navene Koperweis's drum kit and gear setup. Navene Koperweis is a professional m
 | Signature snare | DW Performance 14x6.5" Steel |
 | Sticks | Vic Firth American Classic 5B |
 
+## Kit Overview
+
+Navene Koperweis plays a DW Drums Performance Series kit — a workhorse acoustic setup that anchors his playing across Entheos, Animals as Leaders, and his session work, even as his production background pulls much of his recorded output toward electronic and programmed textures. The cornerstone of the Navene Koperweis drum set is a DW Performance 14×6.5" steel snare, chosen for the sharp, cutting crack needed to hold its own against djent-tuned guitars and his own layered electronic production, paired with Evans drumheads for a focused, controlled tone.
+
+Meinl Byzance cymbals define the Navene Koperweis drum kit: 15" Dual Hi-Hats for tight, articulate patterns across Entheos's technical grooves, 18" and 19" Extra Dry Medium Crashes for quick-decay accents, a 21" Transition Ride, an 18" Extra Dry China for abrupt textural punctuation, and a 10" splash for ornamental fills. A DW 9000 Series double pedal drives his extreme single-stroke and blast-beat passages, with Vic Firth American Classic 5B sticks and a DW throne rounding out the rig.
+
+This DW/Meinl configuration has carried Koperweis from his Animals as Leaders tenure (2012-2014) through Entheos's ongoing catalog, reflecting a drummer whose acoustic gear stays consistent even as his broader musical output — spanning Fleshwrought, session dates for Machine Head and Job for a Cowboy, and his own electronic productions — ranges far beyond a standard metal drum kit.
+
 ## Biography
 
 Navene Koperweis, born May 31, 1985, in San Jose, California, is a drummer, producer, and multi-instrumentalist known for his work with Entheos, Animals as Leaders, Animosity, and The Faceless. He started drumming at age eleven and has become one of the most innovative drummers in the progressive metal scene. Beyond his drumming prowess, Navene is a skilled producer and runs the technical death metal project Fleshwrought. He has also served as session drummer for Job for a Cowboy, Machine Head, and Whitechapel. His playing combines extreme technical proficiency with electronic and djent influences.

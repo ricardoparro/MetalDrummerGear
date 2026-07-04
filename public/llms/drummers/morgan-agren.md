@@ -26,6 +26,14 @@ Morgan Ågren's drum kit and gear setup. Morgan Ågren is a professional metal d
 | Signature snare | Sonor Designer 14x5.5" Maple |
 | Sticks | Vic Firth American Classic 5A |
 
+## Kit Overview
+
+Morgan Ågren plays a Sonor SQ2 Designer Series drum kit — a precision-built setup suited to the extraordinary technical demands of his polyrhythmic playing across the Mats/Morgan Band, Fredrik Thordendal's Special Defects, and Kaipa. The cornerstone of the Morgan Ågren drum set is his Sonor Designer 14x5.5" Maple snare, delivering a warm, articulate crack that holds up under his famously complex, shifting time signatures.
+
+Paiste cymbals define the Morgan Ågren drum kit: 14" Signature Heavy Hi-Hats for controlled, weighty articulation, 18" and 20" Signature Fast Crashes for quick, bright accents, a 22" Signature Dry Heavy Ride for a dark, focused wash, and an 18" 2002 China for aggressive texture. His demanding double bass patterns are driven by a Sonor Giant Step double pedal and Sonor throne, with Vic Firth American Classic 5A sticks and Remo heads rounding out the kit.
+
+This configuration has served Ågren across decades of genre-crossing work, from the Zappa-inspired Mats/Morgan Band to Sol Niger Within, his landmark collaboration with Meshuggah's Fredrik Thordendal, to his ongoing tenure with progressive rock band Kaipa — a consistency that reflects how well the Sonor/Paiste pairing supports his singular technical vocabulary.
+
 ## Biography
 
 Morgan Ågren (born July 13, 1967) is a Swedish drummer renowned for his extraordinary technical ability and complex polyrhythmic playing. He began drumming as a child and formed the Mats/Morgan Band with keyboardist Mats Öberg in 1981, performing Frank Zappa's music. Ågren has collaborated with Dweezil and Ahmet Zappa, recorded the legendary Sol Niger Within album with Meshuggah's Fredrik Thordendal, and has been a member of progressive rock band Kaipa since 2002. He's also worked with Devin Townsend on Casualties of Cool and Empath. A documentary about him, "Morgan Ågren's Conundrum: A Percussive Misadventure," was released in 2013.

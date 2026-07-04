@@ -27,6 +27,14 @@ Navene Koperweis's drum kit and gear setup. Navene Koperweis is a professional m
 | Signature snare | DW Performance 14x6.5" Steel |
 | Sticks | Vic Firth American Classic 5B |
 
+## Kit Overview
+
+Navene Koperweis plays a DW Drums Performance Series drum kit — an acoustic foundation that anchors his hybrid approach blending extreme technical proficiency with electronic and programmed elements across his work with Entheos, Animals as Leaders, and The Faceless. The cornerstone of the Navene Koperweis drum set is his DW Performance 14x6.5" Steel snare, delivering the sharp, cutting crack needed to stand out against dense programmed textures and djent-tuned guitars.
+
+Meinl Byzance cymbals define the Navene Koperweis drum kit: 15" Dual Hi-Hats for a wide, responsive range of articulation, 18" and 19" Extra Dry Medium Crashes for dark, controlled accents, a 21" Transition Ride for complex rhythmic texture, a 10" Splash for quick punctuation, and an 18" Extra Dry China for aggressive coloring. His rapid, technical footwork is powered by a DW 9000 Series double pedal and DW throne, with Vic Firth American Classic 5B sticks and Evans heads completing the setup.
+
+Koperweis's playing has evolved considerably since his early technical death metal days with Animosity and The Faceless, incorporating production and electronic sensibilities from his work as a producer and with Fleshwrought, but the acoustic core of his kit remains built around DW's Performance Series and Meinl's dry, controlled Byzance voicing.
+
 ## Biography
 
 Navene Koperweis, born May 31, 1985, in San Jose, California, is a drummer, producer, and multi-instrumentalist known for his work with Entheos, Animals as Leaders, Animosity, and The Faceless. He started drumming at age eleven and has become one of the most innovative drummers in the progressive metal scene. Beyond his drumming prowess, Navene is a skilled producer and runs the technical death metal project Fleshwrought. He has also served as session drummer for Job for a Cowboy, Machine Head, and Whitechapel. His playing combines extreme technical proficiency with electronic and djent influences.

@@ -26,6 +26,14 @@ Arin Ilejay's drum kit and gear setup. Arin Ilejay is a professional metal drumm
 | Signature snare | Mapex Black Panther 14x6.5" |
 | Sticks | Vic Firth American Classic 5A |
 
+## Kit Overview
+
+Arin Ilejay plays a Mapex Saturn Series drum kit — the setup he brought to Avenged Sevenfold for the 2013 chart-topping album "Hail to the King," where his powerful, straightforward approach suited the record's classic heavy metal sound after joining following Jimmy "The Rev" Sullivan's death. The cornerstone of the Arin Ilejay drum set is his Mapex Black Panther 14x6.5" snare, delivering the thick, punchy crack heard throughout the album's driving mid-tempo grooves.
+
+Zildjian cymbals define the Arin Ilejay drum kit: 14" A Custom Mastersound Hi-Hats for tight, controlled chick and articulation, 18" and 19" A Custom Crashes for bright, cutting accents, a 21" A Sweet Ride for a warm, dark wash, and an 18" A Custom China for aggressive texture. His double bass patterns are driven by a Mapex Falcon double pedal, mounted on a Mapex T865 throne, with Vic Firth American Classic 5A sticks and Evans heads rounding out the rig.
+
+This configuration reflects Ilejay's A7X era (2011–2015) rather than any confirmed current touring setup, but it remains the gear most closely associated with his highest-profile recorded work. Since departing Avenged Sevenfold, he has continued as an active session and solo drummer, though public documentation of his present-day kit remains limited.
+
 ## Biography
 
 Arin Ilejay, born October 17, 1988, is an American drummer best known for his tenure with Avenged Sevenfold from 2011 to 2015. He joined A7X following the tragic death of founding drummer Jimmy "The Rev" Sullivan. Ilejay recorded one studio album with the band - "Hail to the King" (2013), which debuted at number 1 on the Billboard 200 and multiple international charts. His powerful, straightforward drumming style complemented the album's classic heavy metal approach. Before A7X, he played with Confide, and after his departure, he has been active with various projects including his solo work and session drumming.

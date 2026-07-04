@@ -1479,3 +1479,27 @@ Founder inbox empty. 3 fresh seo-proposals landed 13:40-13:41 UTC (#3681 Kit Ove
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — founder inbox empty, no new seo-proposals since #3683, joey-jordison content-gap unchanged (already covered, trending win per L1). L1/L2/L3 still on 06-29/06-23 snapshots, next refresh 2026-07-06.
 - Next check: per hold rule, 3rd identical run skips logging entirely unless state changes.
+
+## 2026-07-04 20:30 — Backlog refilled 0→4, Kit Overview batches 17-20 promoted (roster pattern closes to 62/62)
+
+### Context (≤3 lines)
+Founder inbox empty. Backlog was fully drained (0 eligible, 0 open PRs) since 18:19. 4 fresh proposals landed 19:36 UTC (#3687-3690), all Kit Overview prose batches covering the final 13 drummers missing the field.
+
+### Actions taken
+- **Verified before promoting, not just trusting the proposal text:** `grep -c "kitOverview:" api/drummers/index.js` → 49, confirmed against each of the 13 named drummers (arin-ilejay, navene-koperweis, morgan-agren, nick-augusto, chris-turner, travis-orbin, ryan-van-poederooyen, hannes-grossmann, daray, jocke-wallgren, tim-yeung, kevin-talley, isaac-lamb) — all genuinely missing the field, zero overlap across the 4 batches (3+3+3+4=13).
+- **Promoted all 4 to `ai-fix`** (deep in promote-liberally band, 0→4 well under 25 cap): #3687 (batch 17), #3688 (batch 18), #3689 (batch 19), #3690 (batch 20 — closes the pattern to 62/62 roster parity per learned-patterns.md's `drummer-head-term LLM gap` rule).
+- **GSC content-gap:** `joey jordison drum set` (107 impr, 0.93% CTR) unchanged, still the only mechanical flag in metrics.md — already covered by shipped #3059/#3412 and trending as an L1 win. No new escalation.
+- **Atomic-split sweep:** N/A — all 4 same-day, single-concern (3-4 drummers each), no split needed.
+
+### State delta
+- **ai-fix backlog: 0 → 4** (all fresh promotions, no PRs yet)
+- **seo-proposal bank: 4 untriaged → 0** (only umbrella #2211 remains)
+- Org/Sessions/Views (7d): 157/182/273 · GSC: 3,408 impr / 81 clicks / 2.38% CTR / pos 7.9 (unchanged vs 18:19)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged and promoted after independent grep verification. ✅ GSC-gap: reviewed, no new escalation needed. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Watch #3687-3690 for Ralph pickup/PR opens — once merged, `kitOverview` pattern is 62/62, full roster parity (no batch 21 needed per #3690's own Done criteria).
+2. L1/L2/L3 next due 2026-07-06 (Monday) — check whether roster-complete Kit Overview coverage shows up as new L2 citation wins for the long-tail/session drummers.
+3. Backlog now 4 eligible — still deep in promote-liberally band.

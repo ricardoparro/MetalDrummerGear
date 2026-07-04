@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Noble"
 profile_url: "https://metalforge.io/drummer/martin-lopez"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-07-04"
 ---
 
 # Martin Lopez — Drum Kit & Gear Setup
@@ -26,6 +26,14 @@ Martin Lopez's drum kit and gear setup. Martin Lopez is a professional metal dru
 | Drum kit | Noble & Cooley Walnut |
 | Signature snare | Noble & Cooley Solid Shell 14x6" Maple |
 | Sticks | Vic Firth American Classic 5A |
+
+## Kit Overview
+
+Martin Lopez plays a Noble & Cooley Walnut drum kit — a boutique, hand-built setup that reflects the tasteful, jazz-inflected approach he brought to progressive death metal across Opeth albums like "Blackwater Park," "Deliverance," and "Ghost Reveries." At the center of the Martin Lopez drum set is a Noble & Cooley Solid Shell 14x6" maple snare, prized for a warm, articulate crack that lets his ghost notes and dynamic touches cut through dense, downtuned guitar work without ever sounding harsh.
+
+Zildjian K Dark Series cymbals round out the Martin Lopez drum kit: 14" K Dark Thin Hi-Hats for feathery, controlled patterns; 18" and 20" K Dark Medium Thin Crashes for expressive, musical accents; a 22" K Dark Light Ride for shimmering wash on Soen's more atmospheric passages; and an 18" K China for darker punctuation. An Axis Percussion double pedal supplies fast, reliable double-bass response, while a DW 9100 throne keeps him comfortable through Opeth's and Soen's demanding live sets.
+
+Vic Firth American Classic 5A sticks and Remo heads complete the rig — a lighter, more nuanced pairing than the heavy-hitter setups common in extreme metal, matching Lopez's reputation for feel and musicality over raw power. The Martin Lopez drum set has remained tied to this Noble & Cooley/Zildjian configuration since he co-founded Soen with bassist Steve Di Giorgio in 2010, following his health-related departure from Opeth in 2006.
 
 ## Biography
 
@@ -95,4 +103,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-04 · Source: [MetalForge.io](https://metalforge.io)*

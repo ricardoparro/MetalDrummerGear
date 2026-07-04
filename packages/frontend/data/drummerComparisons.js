@@ -2544,6 +2544,54 @@ export const drummerComparisons = {
       { q: 'Does Mike Mangini still play in Dream Theater?', a: 'No — Mike Mangini drummed for Dream Theater from 2010 to 2023, when the band announced the return of founding drummer Mike Portnoy. Mangini continues to record and perform as a solo artist and clinician.' },
     ],
   },
+
+  'navene-koperweis-vs-ben-koller': {
+    slug: 'navene-koperweis-vs-ben-koller',
+    title: 'Navene Koperweis vs Ben Koller',
+    metaTitle: 'Navene Koperweis vs Ben Koller - Technical Metal Drumming Compared | MetalForge',
+    metaDescription: 'Compare Entheos\' Navene Koperweis and Converge\'s Ben Koller — technical djent precision versus raw hardcore intensity. Gear, technique, and influence compared.',
+    category: 'extreme',
+    drummers: ['navene-koperweis', 'ben-koller'],
+    comparison: {
+      style: 'Navene Koperweis blends djent-influenced technical death metal rhythms with electronic production sensibility across Entheos and Animals as Leaders. Ben Koller channels blistering hardcore punk and grindcore intensity into Converge\'s chaotic, dynamic songwriting.',
+      technique: 'Koperweis employs machine-precise polyrhythms and blast-beat fluency shaped by his technical death metal roots in The Faceless and Animosity. Koller favors raw speed paired with unpredictable dynamic shifts, alternating blistering tempos with sudden breakdowns.',
+      gear: 'Koperweis endorses DW Drums and Meinl Byzance cymbals, running a DW Performance kit with a 14x6.5" steel snare. Koller plays a Tama Starclassic Maple kit with Zildjian K Dark Series cymbals, both drummers using Vic Firth American Classic 5B sticks.',
+      influence: 'Koperweis has shaped modern djent and technical death metal through Entheos and session work for Job for a Cowboy and Machine Head. Koller\'s two-decade run in Converge helped define post-hardcore\'s chaotic, dynamic template for a generation of extreme drummers.',
+    },
+    verdict: 'Navene Koperweis represents the technical, electronically-informed edge of modern death metal drumming, while Ben Koller embodies raw hardcore intensity refined into art. Both are essential listening for drummers chasing extremity beyond genre boundaries.',
+  },
+
+  'chris-turner-vs-jaska-raatikainen': {
+    slug: 'chris-turner-vs-jaska-raatikainen',
+    title: 'Chris Turner vs Jaska Raatikainen',
+    metaTitle: 'Chris Turner vs Jaska Raatikainen - Metalcore & Melodic Death Compared | MetalForge',
+    metaDescription: 'Compare Oceans Ate Alaska\'s Chris Turner and Children of Bodom\'s Jaska Raatikainen — progressive metalcore technicality versus melodic death metal power.',
+    category: 'extreme',
+    drummers: ['chris-turner', 'jaska-raatikainen'],
+    comparison: {
+      style: 'Chris Turner drives Oceans Ate Alaska\'s progressive metalcore with polyrhythmic, fusion-influenced patterns and Japanese-inspired arrangements. Jaska Raatikainen anchored Children of Bodom\'s melodic death metal with driving double bass and neoclassical-tinged aggression across 26 years.',
+      technique: 'Turner incorporates complex time signatures and intricate blast beats influenced by Matt Halpern and Matt Garstka, pushing modern metalcore\'s technical ceiling. Raatikainen built his reputation on rapid, fluid double bass volleys and precise blast beats that anchored Alexi Laiho\'s dense guitar arrangements.',
+      gear: 'Turner plays a Tama Starclassic Maple/Birch kit with Meinl Byzance cymbals and Vic Firth American Classic 5A sticks. Raatikainen used a Pearl Masters Premium Maple kit with a Pearl Eliminator double pedal and Zildjian A Custom and K Custom cymbals.',
+      influence: 'Turner has become a reference point for technical modern metalcore drumming through Oceans Ate Alaska\'s genre-blending catalog, especially "Hikari" (2017). Raatikainen co-founded and anchored Children of Bodom for its entire 26-year run, helping define Finnish melodic death metal\'s global template.',
+    },
+    verdict: 'Chris Turner represents metalcore\'s push toward fusion-informed technicality, while Jaska Raatikainen\'s legacy is inseparable from melodic death metal\'s foundational sound. Both drummers built genre-defining identities around speed, precision, and compositional ambition.',
+  },
+
+  'isaac-lamb-vs-john-otto': {
+    slug: 'isaac-lamb-vs-john-otto',
+    title: 'Isaac Lamb vs John Otto',
+    metaTitle: 'Isaac Lamb vs John Otto - Beatdown Hardcore vs Nu Metal Groove | MetalForge',
+    metaDescription: 'Compare Kublai Khan TX\'s Isaac Lamb and Limp Bizkit\'s John Otto — beatdown hardcore breakdowns versus nu metal groove. Gear, technique, and influence compared.',
+    category: 'other',
+    drummers: ['isaac-lamb', 'john-otto'],
+    comparison: {
+      style: 'Isaac Lamb powers Kublai Khan TX\'s beatdown hardcore with crushing, breakdown-driven grooves built for maximum floor impact. John Otto shaped Limp Bizkit\'s rap-metal sound with hip-hop-influenced grooves and funk-inspired beat placement.',
+      technique: 'Lamb prioritizes devastating breakdown timing and consistent, direct-drive kick response over flash, built for hardcore\'s relentless touring demands. Otto blends tight rock power with hip-hop pocket and syncopation, defining nu metal\'s groove-forward rhythmic identity.',
+      gear: 'Lamb plays SJC Custom Drums with a DW 9000 Series Double Pedal and Meinl Classics Custom Dark cymbals. Otto plays an OCDP Custom Type 5 Acrylic kit with Zildjian A Custom cymbals and Gibraltar G Class bass drum pedals.',
+      influence: 'Lamb has been Kublai Khan TX\'s sole drummer since 2009, helping establish beatdown hardcore as one of modern metal\'s most respected offshoots. Otto\'s work on Limp Bizkit\'s "Significant Other" and "Chocolate Starfish" helped define nu metal\'s commercial peak.',
+    },
+    verdict: 'Isaac Lamb and John Otto both built their identities around groove over flash — Lamb through hardcore\'s crushing breakdowns, Otto through nu metal\'s hip-hop-infused pocket. Neither chases technical complexity, instead prioritizing feel and impact within their genres.',
+  },
 };
 
 /**

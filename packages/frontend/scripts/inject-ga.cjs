@@ -103,6 +103,50 @@ const heroCleanupScript = `
       observer.observe(document.getElementById('root'), { childList: true });
     </script>`;
 
+// Organization + WebSite + SearchAction JSON-LD (Issue #3727). AI crawlers
+// (GPTBot, ClaudeBot, PerplexityBot, etc.) don't execute JS, so the equivalent
+// schema that App.js's updateDocumentMeta() writes client-side is invisible to
+// them. Injected here, at build time, for the same reason GA/AdSense are:
+// `expo export` regenerates dist/index.html from app.json, dropping this kind
+// of custom <head> content. data-schema="main" matches the selector
+// updateDocumentMeta() queries for, so client-side hydration updates this same
+// node in place instead of creating a duplicate.
+const homepageSchema = JSON.stringify([
+  {
+    '@context': 'https://schema.org',
+    '@type': 'WebSite',
+    '@id': 'https://metalforge.io/#website',
+    'name': 'MetalForge',
+    'alternateName': 'Metal Drummer Gear',
+    'description': 'Explore the drum kits, cymbals, and gear used by legendary metal drummers including Lars Ulrich, Joey Jordison, Dave Lombardo and more.',
+    'url': 'https://metalforge.io/',
+    'publisher': { '@id': 'https://metalforge.io/#organization' },
+    'potentialAction': {
+      '@type': 'SearchAction',
+      'target': {
+        '@type': 'EntryPoint',
+        'urlTemplate': 'https://metalforge.io/tools/gear-search?q={search_term_string}'
+      },
+      'query-input': 'required name=search_term_string'
+    }
+  },
+  {
+    '@context': 'https://schema.org',
+    '@type': 'Organization',
+    '@id': 'https://metalforge.io/#organization',
+    'name': 'MetalForge',
+    'alternateName': 'Metal Drummer Gear',
+    'url': 'https://metalforge.io/',
+    'description': 'Definitive resource for metal drummer gear, signature licks and pro setups.',
+    'logo': {
+      '@type': 'ImageObject',
+      'url': 'https://metalforge.io/logo.png'
+    }
+  }
+]);
+const homepageSchemaScript = `
+    <script type="application/ld+json" data-schema="main">${homepageSchema}</script>`;
+
 const indexPath = path.join(__dirname, '../dist/index.html');
 
 try {
@@ -176,7 +220,16 @@ try {
     console.log('✅ Injected hero cleanup script (#752)');
     injectedSomething = true;
   }
-  
+
+  // Inject Organization/WebSite/SearchAction JSON-LD (Issue #3727)
+  if (!html.includes('data-schema="main"')) {
+    html = html.replace('</head>', homepageSchemaScript + '\n  </head>');
+    console.log('✅ Injected homepage JSON-LD (Organization/WebSite/SearchAction, #3727)');
+    injectedSomething = true;
+  } else {
+    console.log('✅ Homepage JSON-LD already present');
+  }
+
   if (injectedSomething) {
     fs.writeFileSync(indexPath, html);
   }

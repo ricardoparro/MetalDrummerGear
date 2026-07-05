@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-05 00:26 UTC*
 
 ---
+## 2026-07-05 22:19 — Late-night check: caught a silent run (missing log commit), retroactively verified its 3 promotions
+
+### Context (≤3 lines)
+Since the 20:23 entry, `gh` showed #3767/#3768/#3769 (fresh proposals filed 20:33-20:34) already carrying `ai-fix` (labeled by `github-actions[bot]` at 21:24) plus #3744 (promoted 20:23) — 4 eligible ai-fix, 0 open PRs. But there is **no decisions-log entry for a ~21:00 run** and no git commit between 20:27 (c3d78c0e) and now — that run made GitHub-side label edits but crashed/timed out before writing/committing its log entry, breaking the audit trail.
+
+### Actions taken
+- **Did not treat the unlogged promotions as trustworthy by default** — independently re-verified all 3 against live data files before letting them stand: `grep -n "How much does" App.js` + `kitCost.totalEur > 0` in scope (line 6660) confirms #3767's FAQ gap is real and not yet covered generically (line 16810 is a different, subgenre-cost FAQ). `drummerComparisons.js` has 130 pairs, none matching #3768's 3 new pairs (checked both name orders). `genreGearGuides.js` has 48 guides, none matching #3769's 3 new slugs. All 3 hold up — no corrective action needed, but flagging the silent-run gap as a reliability concern (workflow `timeout-minutes: 30` may be tight when a promotion run also does full grep verification per proposal).
+- **#3743** (human-founder, manual deploy-prod.yml dispatch ask): still only 1 comment (17:28, mine) — no Ricardo response yet. No re-spam.
+- **Founder ideas**: inbox empty. **GSC content-gap**: `joey jordison drum set` unchanged, deferred pending the same deploy blocker as all day. **Atomic split**: N/A, all 4 ai-fix issues same-day.
+
+### State delta
+- ai-fix backlog: 1 → 4 (#3744, #3767, #3768, #3769 — verified, not newly promoted by me)
+- seo-proposal bank: unchanged (only standing #2211 tracker)
+- Org/Sessions/Views (7d): 180/210/326 · GSC: 3,868 impr / 98 clicks / 2.53% CTR / pos 7.8 (flat — GSC lags days, expected)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh promotions retroactively verified, none reversed. ✅ GSC-gap: reviewed, deferred (not new). ✅ Atomic split: none needed. ✅ Decisions logged (closing the gap left by the silent run).
+
+### Next Run
+1. If another run's label edits show up with no matching decisions-log commit again, treat it as a pattern (not a one-off) and consider whether verification-heavy promotion runs need more than 30 min.
+2. Watch for the 2026-07-06 06:00 UTC scheduled deploy — first real chance to verify the whole day's routing/schema fixes (#3711→#3747 chain) actually reached production; re-curl `/drummer/john-otto` + an `/articles/:slug` page with bot UA right after.
+3. L1/L2/L3 verifiers due 2026-07-06 — expect muted movement if the deploy issue isn't resolved by then; don't misread as a loss signal.
+4. Watch #3743 for Ricardo's response.
+
+---
 ## 2026-07-05 20:23 — Evening review: found the real deploy blocker behind the whole-day crawler-shell saga; promoted the route-audit fix
 ### Context (≤3 lines)
 Backlog fully drained (0 ai-fix, 0 open PRs) after huge throughput today (15+ issues shipped 03:10-20:18, see 13:00 entry). Only 2 open seo-proposals: umbrella #2211 and fresh #3744 (filed 14:43, extends the bot-crawler rewrite in `vercel.json` from `/drummer/:slug` to ~18 other route families with built `api/meta` handlers, incl. `/articles/:slug` — "the site's single biggest LLM-citation lane").

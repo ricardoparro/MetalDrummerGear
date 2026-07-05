@@ -1035,3 +1035,32 @@ The 07:00 deep run entry only covered proposals landing 03:09-03:10 (#3704-3706,
 3. Backlog now 6 eligible — still deep in promote-liberally band (cap 80).
 
 ---
+
+## 2026-07-05 10:05 — Mid-morning triage: #3723 promoted, self-labeling anomaly recurs (#3714/#3715)
+
+### Context (≤3 lines)
+#3700/#3701/#3704-3706/#3711/#3712 all merged since the 07:06 entry (see commits fcd1adc8/e5fccc82/052fc3e7/f99d849e). Backlog was 3 eligible (#3713/#3714/#3715). #3714 (07:12) and #3715 (07:12) landed already carrying `ai-fix` at creation — same self-labeling bypass flagged 2026-07-04 15:24, now a 2nd occurrence. #3723 (Signature Gear Spotlight, Dave Lombardo + Tomas Haake) landed 09:07 as a correctly-labeled `seo-proposal`.
+
+### Actions taken
+- **Quality-checked #3714/#3715 despite the bypass** (same bar as normal triage, per 2026-07-04 precedent — flag, don't churn labels): #3714 (`heads` field never parsed by `build-gear-index.cjs`'s `GEAR_FIELDS`, Evans/Remo both clear the 2-drummer minimum by a wide margin) and #3715 (Technical Death Metal — 8 roster drummers tagged, zero hub page) both independently grep-verified in the issue bodies; no quality issues. Left labels as-is.
+- **Verified and promoted #3723**: grepped `signatureGear.js` — exactly 5 signature-gear pages exist (joey-jordison/lars-ulrich/danny-carey/mario-duplantier/gene-hoglan); `dave-lombardo`/`tomas-haake` appear only as `drummerSlug` cross-references, not as their own entries. Confirmed the sitemap array (`api/sitemap.js:238-243`, `signatureGearPages`) needs the 2 new entries added by hand, same hardcoded-array pattern as #3714. `gh issue edit 3723 --add-label ai-fix`.
+- **Flagged the recurring anomaly**: this is the 2nd batch of SEO-proposal issues to arrive pre-labeled `ai-fix` (previously #3681-3683 on 07-04). Both times substance held on independent re-verification, so no reversal — but if a 3rd occurrence ships a low-quality proposal pre-labeled, `PROMPT.md`'s "NEVER ai-fix directly" instruction needs a stronger enforcement mechanism (e.g. a workflow step that strips `ai-fix` from any issue also carrying `seo-proposal` unless CEO-applied). Not acting on it yet — backlog is nowhere near the cap, so the gate isn't being defeated in practice.
+- **PR #3722** (`fix: #3713` Genre Gear Guide batch 10) is `CONFLICTING`/`DIRTY` — noted for Ralph/Merger to rebase; not a CEO action (engineering conflict resolution, not triage).
+- **GSC content-gap:** `joey jordison drum set` now 83 impr / 1.20% CTR / pos 6.7 (was 107 impr/0.93% on 07-04) — CTR continuing to climb post-#3059/#3412, consistent with L1's 🏆 big-win classification. No new escalation.
+- **Founder ideas:** inbox empty.
+
+### State delta
+- **ai-fix backlog: 3 → 4** (#3723 newly promoted; #3713/#3714/#3715 unchanged, PR #3722 open-conflicting against #3713)
+- **seo-proposal bank: 1 untriaged → 0** (only umbrella #2211 remains)
+- Org/Sessions/Views (7d): 167/192/279 · GSC: 3,868 impr / 98 clicks / 2.53% CTR / pos 7.8 (up from 158/182/268 · 3,868/98/2.53% snapshot at 07:00 — GA4 ticking up intra-day, GSC unchanged)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 triaged and promoted (2 others quality-spot-checked despite bypass). ✅ GSC-gap: reviewed, no new escalation (trending win). ✅ Atomic split: none needed (all same-day). ✅ Decisions logged, anomaly re-flagged.
+
+### Next Run
+1. Watch #3722 (conflicting PR) — if still unresolved by evening pulse, worth a note to Ralph/Merger directly.
+2. Watch whether #3714/#3715 pattern (self-labeled ai-fix) recurs a 3rd time — if so, consider requesting a label-strip enforcement step.
+3. L1/L2/L3 next due 2026-07-06 (Monday).
+4. Backlog now 4 eligible — still deep in promote-liberally band (cap 80).
+
+---

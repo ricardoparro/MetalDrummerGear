@@ -31,6 +31,8 @@ const METRICS_FILE = path.join(REPO_ROOT, '.agents/ceo/metrics.md');
 const DECISIONS_LOG = path.join(REPO_ROOT, '.agents/ceo/decisions-log.md');
 const DIGEST_FILE = path.join(REPO_ROOT, 'DIGEST.md');
 const HISTORY_DIR = path.join(REPO_ROOT, '.agents/digest/history');
+const GSC_HIST_DIR = path.join(REPO_ROOT, '.agents/seo/gsc-history');       // L1 verifier snapshots
+const IDX_HIST_DIR = path.join(REPO_ROOT, '.agents/seo/indexation-history'); // L3 verifier snapshots
 
 const WINDOW_HOURS = 12;
 const WINDOW_MS = WINDOW_HOURS * 3600 * 1000;
@@ -163,6 +165,61 @@ function estimateRevenue(metrics) {
   return { available: true, rpm, target, monthlyPv, adMo, pctToTarget, pvNeeded, multiple };
 }
 
+// ---------------------------------------------------------------------------
+// Improvement loops (L1/L2/L3 verifiers) — surface whether the loops are moving
+// real KPIs, week-over-week, so "is it working?" is answerable at a glance.
+//   L1 organic  ← .agents/seo/gsc-history/<date>.json      (committed weekly)
+//   L2 AI cites ← the `llm-citations` umbrella issue body   (already fetched)
+//   L3 index    ← .agents/seo/indexation-history/<date>.json (committed weekly)
+// ---------------------------------------------------------------------------
+function twoNewestSnapshots(dir) {
+  try {
+    const files = fs.readdirSync(dir).filter(f => /^\d{4}-\d{2}-\d{2}\.json$/.test(f)).sort();
+    return files.slice(-2).map(f => JSON.parse(fs.readFileSync(path.join(dir, f), 'utf8')));
+  } catch { return []; }
+}
+function summariseGsc(snap) {
+  if (!snap || !snap.queries) return null;
+  const qs = Object.values(snap.queries);
+  const impressions = qs.reduce((a, q) => a + (q.impressions || 0), 0);
+  const clicks = qs.reduce((a, q) => a + (q.clicks || 0), 0);
+  const avgPos = impressions ? qs.reduce((a, q) => a + (q.position || 0) * (q.impressions || 0), 0) / impressions : 0;
+  return { queries: qs.length, impressions, clicks, ctr: impressions ? clicks / impressions : 0, avgPos };
+}
+function summariseIdx(snap) {
+  if (!snap || !snap.byUrl) return null;
+  const vals = Object.values(snap.byUrl);
+  const c = (k) => vals.filter(v => v.class === k).length;
+  return { inspected: vals.length, sitemap: snap.sitemapUrlCount, indexed: c('indexed'), crawledNot: c('crawled-not-indexed'), discoveredNot: c('discovered-not-indexed'), unknown: c('unknown') };
+}
+function l2FromIssues(gh) {
+  const u = (gh.openSeoProposal || []).find(i => (i.labels || []).some(l => (l.name || l) === 'llm-citations'));
+  if (!u || !u.body) return null;
+  const m = u.body.match(/(\d+)\s*total\s*—\s*✅\s*\*\*(\d+)\*\*\s*cite us\s*\|\s*❌\s*\*\*(\d+)\*\*/);
+  if (!m) return null;
+  return { total: +m[1], cited: +m[2], notCited: +m[3], issue: u.number };
+}
+// Collect all three loops (each: current + previous where available).
+function improvementLoops(gh) {
+  const g = twoNewestSnapshots(GSC_HIST_DIR).map(summariseGsc);
+  const i = twoNewestSnapshots(IDX_HIST_DIR).map(summariseIdx);
+  return {
+    l1: g.length ? g[g.length - 1] : null,
+    l1prev: g.length > 1 ? g[0] : null,
+    l3: i.length ? i[i.length - 1] : null,
+    l3prev: i.length > 1 ? i[0] : null,
+    l2: l2FromIssues(gh),
+  };
+}
+// "(+3)" / "(−2)" / "(±0)" — raw delta; caller notes direction meaning.
+function dlt(cur, prev, digits = 0) {
+  if (prev == null || cur == null) return '';
+  const d = cur - prev;
+  if (Math.abs(d) < (digits ? 0.05 : 0.5)) return ' (±0)';
+  return ` (${d > 0 ? '+' : '−'}${Math.abs(d).toFixed(digits)})`;
+}
+const pctStr = (x) => `${(x * 100).toFixed(1)}%`;
+
 function extractDecisionsSince() {
   if (!fs.existsSync(DECISIONS_LOG)) return [];
   const text = fs.readFileSync(DECISIONS_LOG, 'utf8');
@@ -260,6 +317,32 @@ function buildMarkdown(gh, metrics, decisions) {
   }
   lines.push('');
 
+  // Improvement loops — is the machine actually moving KPIs?
+  const loops = improvementLoops(gh);
+  lines.push(`## 🔬 Improvement loops — are the KPIs moving?`);
+  lines.push('');
+  if (!loops.l1 && !loops.l2 && !loops.l3) {
+    lines.push('_No verifier snapshots yet (L1/L2/L3 run weekly)._');
+  } else {
+    lines.push('| Loop | Now | Week-over-week |');
+    lines.push('| --- | --- | --- |');
+    if (loops.l1) {
+      const p = loops.l1prev;
+      lines.push(`| **L1 organic** (GSC, ${loops.l1.queries} tracked queries) | ${loops.l1.clicks} clicks · ${loops.l1.impressions} impr · CTR ${pctStr(loops.l1.ctr)} · avg pos ${loops.l1.avgPos.toFixed(1)} | clicks${dlt(loops.l1.clicks, p && p.clicks)} · impr${dlt(loops.l1.impressions, p && p.impressions)} · pos${dlt(loops.l1.avgPos, p && p.avgPos, 1)} _(pos ↓ = better)_ |`);
+    }
+    if (loops.l2) {
+      lines.push(`| **L2 AI citations** (#${loops.l2.issue}) | **${loops.l2.cited}/${loops.l2.total}** queries cite metalforge.io | _refreshed weekly_ |`);
+    }
+    if (loops.l3) {
+      const p = loops.l3prev;
+      const pct = loops.l3.inspected ? Math.round((loops.l3.indexed / loops.l3.inspected) * 100) : '?';
+      lines.push(`| **L3 indexation** (${loops.l3.inspected} sampled of ${loops.l3.sitemap}) | ${loops.l3.indexed} indexed (${pct}%) · ${loops.l3.crawledNot} crawled-not-idx · ${loops.l3.discoveredNot} discovered-not-idx | indexed${dlt(loops.l3.indexed, p && p.indexed)} |`);
+    }
+    lines.push('');
+    lines.push('> _L1/L3 are week-over-week from the committed verifier snapshots; L2 is the weekly citation umbrella. Rising clicks / falling avg position / more indexed = the loops are working._');
+  }
+  lines.push('');
+
   const byWorkflow = classifyAgentRuns(gh.runsInWindow);
   if (Object.keys(byWorkflow).length > 0) {
     lines.push(`## 🤖 Agent / workflow runs (last ${WINDOW_HOURS}h)`);
@@ -337,6 +420,15 @@ function buildTelegramText(gh, metrics, fullUrl) {
   if (rev.available) {
     lines.push(`<b>💰 Rev (est, not real)</b>`);
     lines.push(`• ~€${rev.adMo.toFixed(0)}/mo ads @ €${rev.rpm}/1k · ${rev.pctToTarget.toFixed(1)}% to €${rev.target} (${rev.multiple.toFixed(0)}× pv)`);
+    lines.push('');
+  }
+
+  const loops = improvementLoops(gh);
+  if (loops.l1 || loops.l2 || loops.l3) {
+    lines.push(`<b>🔬 Loops (KPI trend)</b>`);
+    if (loops.l1) lines.push(`• L1: ${loops.l1.clicks} clk${dlt(loops.l1.clicks, loops.l1prev && loops.l1prev.clicks)} · pos ${loops.l1.avgPos.toFixed(1)}${dlt(loops.l1.avgPos, loops.l1prev && loops.l1prev.avgPos, 1)}`);
+    if (loops.l2) lines.push(`• L2: ${loops.l2.cited}/${loops.l2.total} cite us`);
+    if (loops.l3) lines.push(`• L3: ${loops.l3.indexed}/${loops.l3.inspected} indexed${dlt(loops.l3.indexed, loops.l3prev && loops.l3prev.indexed)}`);
     lines.push('');
   }
 

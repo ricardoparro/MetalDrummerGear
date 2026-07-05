@@ -698,6 +698,108 @@ export const techniques = {
     relatedTechniques: ['linear-drumming', 'polyrhythms', 'double-bass'],
     seoKeywords: ['hand foot independence drumming', 'drum independence exercises', 'limb independence', 'meshuggah drumming technique', 'four way coordination drums'],
   },
+
+  'd-beat': {
+    slug: 'd-beat',
+    title: 'D-Beat',
+    emoji: '🚂',
+    metaTitle: 'D-Beat Drumming Technique - How to Play D-Beat | MetalForge',
+    metaDescription: 'Learn the D-beat drumming technique. History, how to practice the Discharge beat, famous drummers who use it, gear recommendations, and crust/extreme metal context.',
+    category: 'extreme',
+    difficulty: 'beginner',
+    bpmRange: '160-220+ BPM',
+    description: `The D-beat is the driving, syncopated punk drumbeat named after the pioneering UK hardcore band Discharge, built around a galloping bass-and-snare pulse under a steady, often washy hi-hat or crash-ride pattern. Rhythmically it is deceptively simple compared to a blast beat or gravity blast, but its relentless forward momentum and stamina demands make it a foundational extreme-metal pattern in its own right. Since the early 1980s, the D-beat has migrated far beyond hardcore punk into crust punk, blackened crust, and D-beat-adjacent extreme metal, where it provides a driving counterpoint to blast beats and downtuned, sludge-weighted breakdowns.`,
+    history: `Discharge's UK anarcho-punk recordings of the early 1980s codified the pattern that would carry the band's own name, and it quickly became the rhythmic backbone of the wider UK anarcho-punk scene alongside Amebix and Antisect. Sweden's Wolfpack and Skitsystem carried a faster, more distorted D-beat lineage through the 1990s, while America's Tragedy and His Hero Is Gone fused the pattern with metal-scale weight to define modern crust's template. The D-beat also crossed directly into metal through crossover thrash: Charlie Benante's Stormtroopers of Death recordings paired D-beat-adjacent hardcore urgency with thrash precision, and Dave Lombardo's punk-rooted session catalog across Fantômas, Dead Cross, and Suicidal Tendencies kept that hardcore pulse alive alongside his foundational Slayer thrash work. Igor Cavalera's raw, politically charged early Sepultura and Soulfly recordings carried a similar hardcore-informed intensity, paralleling crust's anarcho-political, DIY ethos. Today the D-beat remains one of metal's most recognizable patterns, powering everything from straightforward crust punk to blackened crust bands that alternate it with full blast-beat extremity.`,
+    howToLearn: [
+      'Start with the core pattern: bass drum on every downbeat with the snare landing on the off-beats, creating a galloping feel',
+      'Keep the hi-hat or ride steady and driving underneath - the pattern lives or dies on consistent time',
+      'Practice at a moderate 120-140 BPM first, focusing on evenness before chasing speed',
+      'Add the "skank beat" variation - snare and kick both landing on the same subdivision for a more chaotic, driving feel',
+      'Build stamina - D-beat songs are often played at sustained tempo for full song lengths with little rest',
+      'Listen to Discharge\'s early recordings to internalize the phrasing before adding your own variations',
+      'Practice transitioning between D-beat and blast beat or breakdown sections for blackened crust applications',
+      'Work on open hi-hat and crash-ride variations to add texture without losing the driving pulse',
+    ],
+    variations: [
+      { name: 'Classic D-Beat', description: 'The original Discharge pattern - driving kick and off-beat snare under a steady hi-hat' },
+      { name: 'Swedish D-Beat', description: 'Faster, more distorted variation popularized by Wolfpack and Skitsystem' },
+      { name: 'Blackened Crust D-Beat', description: 'D-beat alternated or layered with blast beats and tremolo-picked riffing' },
+      { name: 'Crossover D-Beat', description: 'D-beat hybridized with thrash metal precision, as heard in crossover thrash' },
+    ],
+    masters: [
+      { name: 'Dave Lombardo', slug: 'dave-lombardo', band: 'Slayer', note: 'Punk-rooted session catalog across Fantômas, Dead Cross, and Suicidal Tendencies keeps D-beat energy alive alongside his foundational thrash work' },
+      { name: 'Charlie Benante', slug: 'charlie-benante', band: 'Anthrax', note: 'Stormtroopers of Death recordings fused D-beat-adjacent hardcore urgency with thrash-metal precision' },
+      { name: 'Igor Cavalera', slug: 'igor-cavalera', band: 'Sepultura', note: 'Raw, politically-charged early Sepultura and Soulfly work parallels D-beat-driven crust\'s DIY intensity' },
+    ],
+    gearRecommendations: {
+      snares: [
+        { name: 'Tama SLP Steel', reason: 'Cutting, raw crack that suits D-beat\'s driving, unpolished character' },
+        { name: 'Pearl Sensitone Steel', reason: 'Crisp response for sustained off-beat snare work' },
+      ],
+      cymbals: [
+        { name: 'Trashy/washy crash-rides', reason: 'A dirtier, less controlled cymbal wash matches the raw D-beat aesthetic' },
+      ],
+      sticks: [
+        { name: 'Vic Firth 5B', reason: 'Extra weight helps drive the pattern\'s relentless energy without excess fatigue' },
+      ],
+      tips: 'D-beat rewards raw, slightly loose tuning and cymbal choices over pristine, controlled tones. Many D-beat and crust drummers favor a rough, live-room sound over studio polish.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['blast-beat', 'groove-drumming', 'double-bass'],
+    seoKeywords: ['d-beat', 'd-beat drumming', 'how to play d-beat', 'discharge beat', 'crust punk drums', 'd-beat tutorial'],
+  },
+
+  'moeller-technique': {
+    slug: 'moeller-technique',
+    title: 'Moeller Technique',
+    emoji: '🌊',
+    metaTitle: 'Moeller Technique - Whip Stroke Drumming Method | MetalForge',
+    metaDescription: 'Learn the Moeller technique drumming method. Master the whip-like down-up-tap stroke for speed, power, and control. Metal drummers who use it, practice steps, and gear tips.',
+    category: 'foundational',
+    difficulty: 'intermediate',
+    bpmRange: 'Any',
+    description: `The Moeller technique is a whip-like stroke method built around a down-up-tap motion sequence, using the arm, wrist, and fingers together to generate multiple strokes from a single arm movement. Rather than muscling out each note individually, the technique lets gravity and rebound do the work, producing speed, power, and volume control while conserving energy over long passages. It is foundational to many metal drummers' fast single-stroke rolls, efficient blast-beat endurance, and sustained double-bass technique, because it replaces repetitive muscular effort with a whipping motion that recovers itself for the next stroke. Drummers who rely on the Moeller technique tend to show noticeably less arm and leg fatigue during extended fast passages than those relying on pure muscle strength, which is precisely why it underlies so much of extreme metal's sustained speed.`,
+    history: `The technique takes its name from Sanford "Gus" Moeller, who documented a whip-like stroke method rooted in Civil War-era drum corps playing in his 1925 book "The Moeller Book." Jazz and rock drummers carried the technique forward through the 20th century as a way to generate speed and power without tension. In metal, Mike Mangini (Dream Theater) applied biomechanical analysis to refine and expand traditional Moeller principles into a personal system enabling sustained speed without injury, part of the mathematical "Rhythm Knowledge" framework he built around efficient stick motion. Inferno (Behemoth) uses a Moeller-influenced technique on his single-stroke blast beats, optimizing for endurance across full live sets rather than chasing maximum tempo alone. Frost (Satyricon, 1349) applies an ankle-driven, Moeller-adjacent approach to his double-kick work, allowing sustained blast-beat velocity across long extreme-metal passages without the leg fatigue that a purely muscular technique would cause.`,
+    howToLearn: [
+      'Start with a single downstroke - let the stick fall and strike the drum with a relaxed wrist',
+      'Add the "whip" - after the downstroke, let the stick rebound upward before the next motion, rather than lifting it manually',
+      'Practice the full down-up-tap sequence slowly: a full stroke, a rebounding upstroke, and a small tap, all from one arm motion',
+      'Keep the wrist and fingers loose - tension kills the whip motion that makes the technique efficient',
+      'Practice on a pad first so you can feel the rebound clearly before applying it to a drum',
+      'Apply the motion to single-stroke rolls, gradually increasing speed as the whip becomes automatic',
+      'Work the same whip motion into your feet for double-bass and blast-beat endurance',
+      'Be patient - Moeller technique often takes months of slow, deliberate practice before it feels natural at speed',
+    ],
+    variations: [
+      { name: 'Full Moeller Whip', description: 'Complete down-up-tap motion generating multiple distinct strokes from one arm movement' },
+      { name: 'Moeller for Feet', description: 'Ankle-driven whip motion applied to double bass pedal work for sustained speed' },
+      { name: 'Accented Moeller', description: 'Using the whip\'s natural accent on the downstroke to build dynamic phrasing into fills' },
+      { name: 'Moeller-Assisted Blast Beat', description: 'Whip motion applied to single-stroke blast patterns for endurance over raw top speed' },
+    ],
+    masters: [
+      { name: 'Mike Mangini', slug: 'mike-mangini', band: 'Dream Theater', note: 'Refined traditional Moeller principles into a biomechanical system for sustained speed without injury' },
+      { name: 'Inferno', slug: 'inferno', band: 'Behemoth', note: 'Moeller-influenced single-stroke blast beats built for endurance across full live sets' },
+      { name: 'Frost', slug: 'frost', band: 'Satyricon/1349', note: 'Ankle-driven, Moeller-adjacent double-kick technique sustains blast velocity without leg fatigue' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced weight lets the whip motion and rebound do the work' },
+        { name: 'Practice sticks with rubber tips', reason: 'Quiet, controlled rebound practice for the down-up-tap motion' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Consistent, realistic bounce for feeling the Moeller rebound' },
+      ],
+      pedals: [
+        { name: 'Direct-drive double pedal', reason: 'Responsive footboard supports an ankle-driven Moeller-style whip motion' },
+      ],
+      tips: 'The Moeller whip should feel effortless once mastered - if your arm or ankle feels tense or tired quickly, you are still muscling the stroke rather than letting gravity and rebound generate it.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['blast-beat', 'one-handed-roll', 'hand-foot-independence'],
+    seoKeywords: ['moeller technique', 'moeller method drumming', 'whip stroke drumming', 'moeller technique tutorial', 'drum stroke technique'],
+  },
 };
 
 /**

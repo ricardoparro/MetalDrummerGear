@@ -1191,3 +1191,10 @@ Backlog was 2 eligible (#3742 priority, #3729 awaiting re-dispatch after PR #373
 2. If #3742's marker header comes back **present** (function does execute, response still wrong) — that reopens the door to #3744's rewrite-table theory being a contributing factor; re-evaluate promoting it then.
 3. If #3742's marker header comes back **absent** — wait for #3743/Ricardo's Vercel dashboard findings before any further repo-side attempts.
 4. L1/L2/L3 next due 2026-07-06 (Monday).
+
+## 2026-07-05 16:22 (state-confirm — anti-noise hold)
+- Backlog: 1 ai-fix (#3742, open PR #3747) · 1 PR open · proposals untriaged: 0 (#2211 standing tracker, #3744 held by design)
+- Org/Sessions/Views (7d): 176/202/305 · GSC: 3,868 impr / 98 clicks / 2.53% CTR / pos 7.8
+- Blockers unchanged: #3743 human-founder (Vercel dashboard check) — no re-spam
+- Actions: none — reviewed PR #3747 diff; it adds the #3742 diagnostic marker header (`X-Meta-Handler`) AND changes `/api/meta` rewrite destinations to catch-all bracket+query syntax — a real fix attempt, not just diagnostics. Not merged yet.
+- Next check: watch #3747 merge, then re-curl production myself (marker header + JSON-LD) before trusting the close — 4 prior "fixes" for this exact bug were false-closures.

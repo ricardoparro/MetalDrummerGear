@@ -138,6 +138,9 @@ const techniques = [
   { slug: 'groove-drumming', name: 'Groove Metal Drumming' },
   { slug: 'linear-drumming', name: 'Linear Drumming' },
   { slug: 'fill-techniques', name: 'Metal Drum Fills' },
+  { slug: 'ghost-notes', name: 'Ghost Notes' },
+  { slug: 'rudiments', name: 'Rudiments & Stick Control' },
+  { slug: 'hand-foot-independence', name: 'Hand-Foot Independence' },
 ];
 
 // Issue #656: Gear brand landing pages for SEO

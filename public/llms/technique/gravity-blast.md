@@ -78,4 +78,4 @@ A: Closely related techniques include Blast Beat, One Handed Roll. Mastering the
 
 ---
 
-*Last updated: 2026-06-17 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*

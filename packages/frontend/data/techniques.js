@@ -549,6 +549,155 @@ export const techniques = {
     relatedTechniques: ['linear-drumming', 'blast-beat'],
     seoKeywords: ['metal drum fills', 'drum fill patterns', 'drum transitions', 'drum fill tutorial', 'tom patterns'],
   },
+
+  'ghost-notes': {
+    slug: 'ghost-notes',
+    title: 'Ghost Notes',
+    emoji: '👻',
+    metaTitle: 'Ghost Notes Drumming Technique - How to Play Ghost Notes | MetalForge',
+    metaDescription: 'Learn the ghost note drumming technique. History, how to practice dynamic control, famous metal drummers who use it, gear recommendations, and tips.',
+    category: 'foundational',
+    difficulty: 'intermediate',
+    bpmRange: 'Any',
+    description: `Ghost notes are quiet, subtle snare drum hits played between the main backbeat accents, adding rhythmic complexity and groove without altering the overall volume dynamic of a pattern. In metal drumming, ghost notes create the illusion of a busier, more intricate performance while the backbone groove remains locked in place. Mastering dynamic control between loud accents and near-silent ghost strokes separates mechanically precise drummers from those with true musicality and pocket.`,
+    history: `Ghost notes trace their origin to funk and R&B drumming of the 1960s and 70s, where drummers like Clyde Stubblefield (James Brown) and David Garibaldi (Tower of Power) used low-velocity snare hits to create syncopated, danceable grooves. As metal absorbed groove and funk influences throughout the 1990s and 2000s, drummers began incorporating ghost notes into heavier contexts. Progressive metalcore and djent drummers such as Chris Turner (Oceans Ate Alaska) weave dense ghost-note patterns beneath compositionally independent hand parts, using the technique to add textural depth without disrupting the primary backbeat. Drummers influenced by fusion and funk vocabulary, like John Otto (Limp Bizkit) and Matt Halpern (Periphery), integrate ghost notes into nu-metal and djent contexts respectively, proving the technique's versatility across metal's many subgenres. What began as a subtle funk ornamentation has become an essential tool for adding groove and sophistication to modern metal drumming, especially in genres where technical density needs to coexist with pocket and feel.`,
+    howToLearn: [
+      'Start by playing a basic backbeat pattern (snare on 2 and 4) at a comfortable tempo',
+      'Add quiet snare hits on the 16th note subdivisions between the main backbeat, keeping them nearly silent',
+      'Practice with a metronome, focusing on dramatic dynamic contrast between accents and ghost notes',
+      'Use wrist and finger control rather than arm motion to produce consistent low-velocity strokes',
+      'Isolate the snare hand and practice accent-ghost-ghost-accent patterns repeatedly',
+      'Study funk drumming (James Brown, Tower of Power) to internalize the feel',
+      'Gradually increase pattern complexity by adding ghost notes to more 16th note subdivisions',
+      'Record yourself to check that ghost notes are audible but clearly subordinate to accents',
+    ],
+    variations: [
+      { name: 'Single Ghost Note', description: 'One quiet snare hit inserted between backbeat accents' },
+      { name: 'Ghost Note Flurries', description: 'Multiple consecutive ghost notes creating a rolling, syncopated texture' },
+      { name: 'Cross-Stick Ghosting', description: 'Using a rim click instead of a full snare hit for a different ghost tone' },
+      { name: 'Displaced Ghost Patterns', description: 'Shifting ghost note placement to create asymmetric, syncopated grooves' },
+    ],
+    masters: [
+      { name: 'Chris Turner', slug: 'chris-turner', band: 'Oceans Ate Alaska', note: 'Weaves dense ghost-note patterns beneath polyrhythmic hand parts' },
+      { name: 'John Otto', slug: 'john-otto', band: 'Limp Bizkit', note: 'Brings funk-informed ghost note vocabulary to nu-metal grooves' },
+      { name: 'Matt Halpern', slug: 'matt-halpern', band: 'Periphery', note: 'Uses ghost notes to add texture to djent-style patterns' },
+    ],
+    gearRecommendations: {
+      snares: [
+        { name: 'Shallow maple snares (5"-5.5")', reason: 'Fast response captures low-velocity ghost strokes clearly' },
+        { name: 'Tama S.L.P. G-Maple', reason: 'Sensitive head response for ghost note articulation' },
+      ],
+      sticks: [
+        { name: 'Lighter sticks (5A or 7A)', reason: 'Easier control for low-velocity finger strokes' },
+      ],
+      heads: [
+        { name: 'Coated Ambassador', reason: 'Sensitive to light touches without sacrificing backbeat crack' },
+      ],
+      tips: 'Head tension and snare wire adjustment matter enormously for ghost notes - too tight and quiet hits disappear, too loose and they buzz uncontrollably. Spend time dialing in your snare specifically for dynamic range.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['groove-drumming', 'fill-techniques', 'linear-drumming'],
+    seoKeywords: ['ghost notes drumming', 'ghost note technique', 'how to play ghost notes', 'metal drum dynamics', 'snare ghost notes tutorial'],
+  },
+
+  'rudiments': {
+    slug: 'rudiments',
+    title: 'Rudiments & Stick Control',
+    emoji: '🥁',
+    metaTitle: 'Rudiments & Stick Control for Metal Drummers | MetalForge',
+    metaDescription: 'Master drum rudiments and stick control for metal drumming. Single strokes, paradiddles, flams, and more. Famous metal drummers, gear, and practice tips.',
+    category: 'foundational',
+    difficulty: 'beginner',
+    bpmRange: 'Any',
+    description: `Rudiments are the standardized sticking patterns and combinations - single strokes, double strokes, paradiddles, flams, drags, and rolls - that form the alphabet of drumming technique. Originally codified for military and marching percussion, the 40 essential rudiments (as defined by the Percussive Arts Society) provide the vocabulary from which virtually all drum fills, patterns, and independence exercises are built. In metal drumming, rudimental control translates directly into cleaner fills, faster single-hand technique, and the stick control necessary for extreme tempos.`,
+    history: `Rudiments date back centuries to military drumming, where standardized patterns allowed drum corps to communicate battlefield commands with precision. The rudiments were formalized in the United States by the National Association of Rudimental Drummers in the 1930s, later expanded to the 40 International Drum Rudiments recognized by the Percussive Arts Society. Drum corps and marching percussion programs became the training ground for generations of technically elite drummers. In metal, Mike Mangini (Dream Theater) brought his drum corps and rudimental background directly into progressive metal, using paradiddle-based sticking to construct intricate fills and odd-time patterns. Gavin Harrison (Porcupine Tree, King Crimson) is renowned for applying rudimental sticking concepts to displaced and polymetric grooves, while Matt Garstka (Animals as Leaders) uses rudiment-derived linear patterns extensively in his progressive, jazz-influenced metal playing. Though rudiments originated far from metal's aesthetic, their systematic approach to sticking control underlies nearly every fast, clean technical passage in modern metal drumming.`,
+    howToLearn: [
+      'Master the single stroke roll first - alternating RLRL at a slow, controlled tempo',
+      'Learn the double stroke roll (RRLL) focusing on even volume between both strokes',
+      'Practice the paradiddle (RLRR LRLL) - the gateway rudiment connecting singles and doubles',
+      'Work through flams, drags, and ruffs slowly before adding speed',
+      "Use a rudiment book or app (Vic Firth's 40 rudiments) as a structured curriculum",
+      'Practice each rudiment starting slow and gradually increasing tempo over weeks',
+      'Apply rudiments around the drum kit, not just on a practice pad',
+      'Record yourself to check for consistent volume and timing between hands',
+    ],
+    variations: [
+      { name: 'Single Stroke Roll', description: 'Basic alternating RLRL pattern - the foundation of all rudiments' },
+      { name: 'Double Stroke Roll', description: 'RRLL pattern building control and speed through bounced strokes' },
+      { name: 'Paradiddle', description: 'RLRR LRLL sticking combining singles and doubles for versatile patterns' },
+      { name: 'Flam', description: 'A grace note plus main note struck almost simultaneously for a fat accent' },
+      { name: 'Drag (Ruff)', description: 'Two grace notes before the main stroke, adding rhythmic texture' },
+    ],
+    masters: [
+      { name: 'Mike Mangini', slug: 'mike-mangini', band: 'Dream Theater', note: 'Drum corps background makes him the most rudiment-centric player in progressive metal' },
+      { name: 'Gavin Harrison', slug: 'gavin-harrison', band: 'Porcupine Tree / King Crimson', note: 'Applies rudimental sticking to displaced and polymetric grooves' },
+      { name: 'Matt Garstka', slug: 'matt-garstka', band: 'Animals as Leaders', note: 'Builds linear fills and independence exercises from rudiment vocabulary' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced weight ideal for rudiment practice and stick control drills' },
+        { name: 'Practice sticks with rubber tips', reason: 'Reduce bounce noise for quiet rudiment practice' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Realistic bounce for developing rudiment technique without a full kit' },
+        { name: 'Metronome with subdivisions', reason: 'Essential for building rudiments cleanly at any tempo' },
+      ],
+      tips: 'Rudiments should be practiced daily, even for just 15-20 minutes. Consistency beats intensity - slow, controlled repetition builds the muscle memory that translates into clean technique at performance tempo.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['fill-techniques', 'one-handed-roll', 'linear-drumming'],
+    seoKeywords: ['drum rudiments', 'stick control', 'rudiments for metal drummers', 'paradiddle tutorial', 'drum rudiments for beginners'],
+  },
+
+  'hand-foot-independence': {
+    slug: 'hand-foot-independence',
+    title: 'Hand-Foot Independence',
+    emoji: '🧩',
+    metaTitle: 'Hand-Foot Independence Drumming Technique | MetalForge',
+    metaDescription: 'Learn hand-foot independence for metal drumming. Play distinct, non-overlapping rhythms with hands and feet. Masters like Meshuggah, Tool, gear, and tips.',
+    category: 'foundational',
+    difficulty: 'intermediate',
+    bpmRange: 'Any',
+    description: `Hand-foot independence is the ability to play rhythmically distinct patterns with the hands and feet simultaneously, without one limb's motion influencing another's. This foundational skill underlies nearly every advanced metal drumming technique, from polyrhythms to linear drumming to Meshuggah-style polymetric riffing. Without genuine independence, limbs tend to "leak" into each other, causing accents to blur and complex patterns to collapse into simpler, more habitual groupings.`,
+    history: `Independence training has roots in jazz drumming, where Elvin Jones and Tony Williams pioneered playing conversational, independent patterns across the kit while maintaining time. In metal, hand-foot independence became a defining skill through Tomas Haake of Meshuggah, whose polymetric riffs require the hands to lock with guitar riffs in odd note groupings while the feet maintain a separate, often conflicting pulse - a technique that redefined what was rhythmically possible in extreme metal. Danny Carey (Tool) similarly built a career on layering independent hand and foot patterns influenced by Eastern rhythmic systems, creating grooves that feel simultaneously hypnotic and mathematically complex. Mike Portnoy (Dream Theater) developed independence through relentless practice routines derived from Gary Chester's "New Breed" system, applying four-way coordination to progressive metal's demanding compositions. Together these drummers demonstrated that true independence isn't about playing more notes - it's about liberating each limb to serve the music's rhythmic architecture rather than defaulting to familiar, connected patterns.`,
+    howToLearn: [
+      'Start with basic ostinatos - keep a simple repeating pattern on hi-hat while varying the snare',
+      'Practice one limb at a time until each pattern is completely automatic',
+      "Use Gary Chester's \"New Breed\" system for structured four-way coordination exercises",
+      'Isolate hands and feet separately before attempting to combine them',
+      'Practice extremely slowly - independence breaks down first at speed, not at complexity',
+      'Layer polyrhythmic foot patterns under simple hand grooves, then reverse the roles',
+      'Use a loop pedal or drum machine to hold one pattern steady while you vary another',
+      'Be patient - true independence takes months or years of consistent practice to internalize',
+    ],
+    variations: [
+      { name: 'Ostinato Independence', description: 'One steady repeating pattern (usually hi-hat or kick) while other limbs improvise' },
+      { name: 'Polymetric Independence', description: 'Hands and feet playing patterns of different lengths that phase against each other' },
+      { name: 'Four-Way Coordination', description: 'All four limbs playing independent, interlocking rhythmic roles simultaneously' },
+      { name: 'Melodic Independence', description: 'Feet carrying a rhythmic "riff" while hands provide coloristic accents' },
+    ],
+    masters: [
+      { name: 'Tomas Haake', slug: 'tomas-haake', band: 'Meshuggah', note: "Polymetric limb independence defines Meshuggah's rhythmic identity" },
+      { name: 'Danny Carey', slug: 'danny-carey', band: 'Tool', note: 'Layers Eastern-influenced independent patterns across all four limbs' },
+      { name: 'Mike Portnoy', slug: 'mike-portnoy', band: 'Dream Theater', note: 'Built independence through Gary Chester-derived coordination systems' },
+    ],
+    gearRecommendations: {
+      electronics: [
+        { name: 'Metronome with subdivisions', reason: 'Essential for keeping time while limbs diverge rhythmically' },
+        { name: 'Loop pedal', reason: 'Hold one independent pattern steady while practicing variations on another limb' },
+      ],
+      drums: [
+        { name: "Sonor SQ2 or DW Collector's", reason: 'Clear tonal separation helps distinguish independent limb patterns' },
+      ],
+      tips: 'Independence is built slowly and cannot be rushed. Practice each limb combination at a tempo where you can maintain it flawlessly for several minutes before increasing speed.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['linear-drumming', 'polyrhythms', 'double-bass'],
+    seoKeywords: ['hand foot independence drumming', 'drum independence exercises', 'limb independence', 'meshuggah drumming technique', 'four way coordination drums'],
+  },
 };
 
 /**

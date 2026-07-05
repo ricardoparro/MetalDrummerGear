@@ -79,7 +79,7 @@ George Kollias (Nile) helped popularize extreme single-foot bass drum speed. Gen
     metaDescription:
       "Explore death metal's most technical drummers. Discover the blast beats, gravity blasts, and extreme techniques that define the genre.",
     keywords: ["death metal", "blast beats", "technical drums", "extreme metal", "gravity blast", "double bass"],
-    relatedGenres: ["thrash", "black", "progressive"],
+    relatedGenres: ["thrash", "black", "progressive", "technical-death"],
     pioneers: ["Gene Hoglan", "Pete Sandoval", "George Kollias", "Sean Reinert"],
     characteristics: [
       "Blast beats",
@@ -99,6 +99,59 @@ George Kollias (Nile) helped popularize extreme single-foot bass drum speed. Gen
       {
         question: "Do death metal drummers use triggers?",
         answer: "Many death metal drummers use bass drum triggers for consistent sound at extreme speeds. However, some purists play without triggers. The debate continues, but triggers are generally accepted in the genre for live and studio work."
+      }
+    ],
+  },
+
+  "technical-death": {
+    slug: "technical-death",
+    name: "Technical Death Metal",
+    icon: "🧠",
+    color: "#7f1d1d",
+    foundedYear: "1990",
+    description:
+      "Technical death metal fuses death metal's extremity with progressive-level musicianship — odd time signatures, jazz-informed fills, and virtuosic single-foot bass drum speed. It demands the endurance of death metal drumming plus the compositional complexity of progressive metal.",
+    longDescription: `Technical death metal emerged in the early 1990s as bands like Cynic, Atheist, and Suffocation pushed death metal beyond raw brutality into deliberate compositional complexity. By the mid-1990s, Cryptopsy and later Nile and Obscura cemented the subgenre's reputation as the most technically demanding corner of extreme metal, requiring drummers to combine death metal's blast-beat endurance with progressive metal's rhythmic sophistication.
+
+**Key Techniques:**
+- **Odd-meter blast beats** – Blast patterns layered over 5/8, 7/8, and other shifting meters rather than straight 4/4
+- **Gravity blasts** – One-handed snare rolls using stick rebound, popularized by Flo Mounier for extreme-speed single-hand patterns
+- **Single-foot bass drum speed** – Sustained 16th/32nd-note kick patterns at 240+ BPM without relying on heel-toe double-pedal technique, a specialty of George Kollias
+- **Polyrhythmic fills** – Classically and jazz-informed fill patterns that break from standard death metal phrasing, as heard in Hannes Grossmann's work
+
+**Gear Preferences:**
+Technical death metal drummers favor kits that stay articulate at extreme speed and complexity. Pearl (Masterworks, Reference Pure) and DW (Collectors Series) dominate, paired with Meinl Byzance or Zildjian K cymbals chosen for clarity rather than wash. Triggers are common for consistent bass drum attack, but many players — particularly those focused on single-foot technique — minimize reliance on them to preserve natural dynamics.
+
+**Notable Innovations:**
+George Kollias (Nile) holds recognized world records for single-foot bass drum speed and has become one of the genre's most influential educators. Flo Mounier (Cryptopsy) pioneered the modern gravity blast and blended jazz-fusion phrasing into brutal technical passages. Derek Roddy brought his one-footed blast technique to Hate Eternal and Nile, while Hannes Grossmann (Obscura, Necrophagist) merged classical composition with hyper-technical, odd-meter drumming.`,
+    metaTitle: "Technical Death Metal Drummers - Gear & Techniques | MetalForge",
+    metaDescription:
+      "Explore technical death metal's most virtuosic drummers. George Kollias, Flo Mounier, Derek Roddy, and Hannes Grossmann — gear, techniques, and the drumming that defines the genre.",
+    keywords: ["technical death metal", "tech death drums", "gravity blast", "odd time signatures", "george kollias", "flo mounier"],
+    relatedGenres: ["death", "progressive"],
+    pioneers: ["George Kollias", "Flo Mounier", "Derek Roddy", "Hannes Grossmann"],
+    characteristics: [
+      "Odd-meter blast beats",
+      "Gravity blasts",
+      "Single-foot bass drum speed",
+      "Polyrhythmic, classically-informed fills",
+    ],
+    faq: [
+      {
+        question: "What makes technical death metal drumming different from regular death metal?",
+        answer: "Technical death metal layers death metal's blast beats and speed on top of progressive-level compositional complexity — odd time signatures, polyrhythms, and jazz or classically-informed fills. Where standard death metal drumming prioritizes raw intensity, technical death metal demands the same endurance plus significantly more rhythmic sophistication."
+      },
+      {
+        question: "Who are the best technical death metal drummers?",
+        answer: "George Kollias (Nile), Flo Mounier (Cryptopsy), Derek Roddy (Hate Eternal, Nile), and Hannes Grossmann (Obscura, Necrophagist) are widely regarded as the genre's defining drummers. Each has pushed a different technical frontier: Kollias for single-foot bass drum speed, Mounier for gravity blasts, Roddy for one-footed blast technique, and Grossmann for classically-informed odd-meter composition."
+      },
+      {
+        question: "What is a gravity blast?",
+        answer: "A gravity blast is a one-handed snare technique that uses stick rebound and gravity to execute extremely fast single-hand strokes, freeing the other hand or foot for additional patterns. Flo Mounier of Cryptopsy is widely credited with popularizing the technique in technical death metal."
+      },
+      {
+        question: "Do technical death metal drummers use double bass pedals or single pedals?",
+        answer: "Both are common, but the genre is notable for drummers like George Kollias and Derek Roddy who specialize in single-foot (one bass drum, one pedal) speed, sustaining 16th and 32nd-note patterns at 240+ BPM without a double pedal — a demonstration of raw foot technique that has become a genre benchmark."
       }
     ],
   },
@@ -177,7 +230,7 @@ Mike Portnoy's intricate compositions and showmanship helped define the genre. D
     metaDescription:
       "Explore progressive metal's most skilled drummers. Complex time signatures, polyrhythms, and technical mastery from Mike Portnoy to Danny Carey.",
     keywords: ["prog metal", "odd time signatures", "polyrhythms", "technical drums", "dream theater", "tool"],
-    relatedGenres: ["death", "metalcore"],
+    relatedGenres: ["death", "metalcore", "technical-death"],
     pioneers: ["Mike Portnoy", "Danny Carey", "Tomas Haake", "Matt Garstka"],
     characteristics: [
       "Odd time signatures",

@@ -2,7 +2,17 @@
 
 *Record of strategic decisions and reasoning. Hot log: last 7 days. Older entries archived monthly under `.agents/ceo/decisions-history/`.*
 
-*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-04 00:34 UTC*
+*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-05 00:26 UTC*
+
+---
+## 2026-07-05 00:29 (state-confirm — anti-noise hold)
+- Backlog: 1 ai-fix (#3698, PR #3699 open) · proposals untriaged: 0 (only umbrella #2211)
+- Org / Sessions / Views (7d): 151 / 172 / 258 · GSC: 2,870 impr / 69 clicks / 2.40% CTR / pos 7.9
+- Blockers unchanged: #525 #526 #529 #875 (human-founder) — no re-spam
+- Actions: none new — Kit Overview prose hit **62/62 (100% roster)** via batches 16-20 (#3681/82/87/88/89/90), closing the drummer-head-term LLM gap pattern (logged in learned-patterns.md, pattern retired as a proposal source); supply rebalance (#3691: cap 45→80, SEO 3→12×/day) and revenue-trajectory digest (#3692: ~€3.55/mo est., 0.4% to €1,000, confirms affiliate-click tracking behind #875 is the real lever, not display ads) both already merged before this run. Joey Jordison CTR gap (83 impr/1.20% CTR) unchanged, already 3x-fixed, no re-file.
+- Next check: L1/L2/L3 due 2026-07-06 — confirm prose alone converted the previously-uncited entities (lars-ulrich/portnoy/danny-carey/lombardo/hoglan) in the L2 re-sample; watch SEO Agent's new 12×/day cadence refill the empty seo-proposal bank before Ralph starves on 1 remaining issue
+
+---
 
 ---
 ## 2026-07-04 13:30 (state-confirm — anti-noise hold)
@@ -15,6 +25,9 @@
 ---
 
 ---
+
+---
+
 ## 2026-07-03 16:29 — Mid-day pulse: promoted 4 fresh seo-proposals to ai-fix, backlog refilled from empty
 
 ### Context (≤3 lines)
@@ -46,12 +59,16 @@ Founder inbox empty. Backlog fully drained (0 eligible ai-fix — prior batch #3
 
 ---
 
+---
+
 ## 2026-07-02 19:29 (state-confirm — anti-noise hold)
 - Backlog: 0 eligible ai-fix (6 total, all `hold`) · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 130 / 150 / 215 · GSC: 3,396 impr / 69 clicks / 2.03% CTR
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — the 3 proposals promoted this same evening (#3630/#3631/#3632) already merged and closed (commits b7ed42ee/88db877a/6a11e4de), draining the queue back to empty within the window. No fresh seo-proposals filed since.
 - Next check: 2026-07-03 07:00 UTC deep run — watch for SEO Agent to refill the bank (primary quota resets 03:00 UTC) and L1/L2/L3 due 2026-07-06.
+
+---
 
 ---
 
@@ -89,12 +106,16 @@ Evening run. Founder inbox empty. Backlog opened at 0 eligible ai-fix (6 total, 
 
 ---
 
+---
+
 ## 2026-07-02 01:45 (state-confirm — anti-noise hold)
 - Backlog: 27 ai-fix eligible (33 total, 6 hold) · 12 PRs open (6 conflicting, 5 mergeable) · proposals untriaged: 0 (only umbrella #2211 remains)
 - Org/Sessions/Views (7d): 117 / 135 / 171 · GSC: 2,797 impr / 51 clicks / 1.82% CTR
 - L1/L2/L3 unchanged since 2026-06-29 snapshots — all actionable rows already filed+closed (#3264 umbrella, #3210/#3282/#3412/#3280/#3281/#3413); no new loss/gap surfaced
 - Actions: none — verified no zombie issues (spot-checked #3218/#3186/#2811/#3214/#2801, all correctly auto-closed by merge), confirmed #3488 (prune-proposals bug) still awaiting a PR
 - Next check: watch the 6 CONFLICTING PRs (#3570/#3569/#3568/#3566/#3560/#3553 — likely shared-data-file collisions) for Merger resolution; resume promoting seo-proposals once SEO Agent files fresh ones (bank currently drained to 0)
+
+---
 
 ---
 
@@ -128,6 +149,8 @@ Deep run, metrics fresh (16:45 UTC). Huge throughput since 11:00: ~40 PRs merged
 2. **Backlog at 36** (sparingly zone) — promote only 5★ newest proposals if any appear.
 3. **Watch for L1/L3 snapshot refresh** — current ones are from 2026-06-29; a new weekly run should reflect today's ~40 merged PRs (Kit Overview prose, album arcs, SoundLike guides) and may show CTR/position wins.
 4. **12 partial-duplicate batches flagged** — confirm Ralph respects the skip-notes rather than re-implementing already-shipped slugs.
+
+---
 
 ---
 
@@ -173,6 +196,8 @@ Deep run. Metrics fresh (11:01 UTC). L1 snapshot (gsc-watch, gen 2026-06-29 09:4
 
 ---
 
+---
+
 ## 2026-06-29 23:30 UTC — 2 proposals HOLD; #3059 CTR fix confirmed shipped (44)
 
 ### Context (≤3 lines)
@@ -196,6 +221,8 @@ Evening run. Backlog 44 (near cap — sparingly zone). Metrics fresh (23:23 UTC)
 2. **Promote at <40:** #3254 (Genre Gear Guide batch 5) → #3284 (Kit Overview batch 12) → #3242 (Black Sabbath MoR/SBS)
 3. **#3280 + #3281 regressions:** If no Ralph comment by 2026-07-01 morning, flag for manual escalation
 4. **Kit Overview pipeline:** Batches 6+7 (PRs #3319/#3321) expected to merge soon; batches 8-11 in queue
+
+---
 
 ---
 
@@ -231,6 +258,8 @@ Mid-day pulse. Ralph shipped Kit Overview prose batches 4+5 today (PRs #3317/#33
 2. **#3285 priority:** Bill Ward GSC signal is live NOW — if issue sits stale >3 days flag for split/unblock.
 3. **Promote at <40:** #3254 (Genre Gear Guide batch 5) → #3284 (Kit Overview batch 12) → #3242 (Black Sabbath MoR/SBS).
 4. **Joey Jordison CTR:** "joey jordison drum set" 130 impr / 0.77% CTR — first click achieved; monitor. No new issue needed until #3059 fix fully indexes.
+
+---
 
 ---
 
@@ -280,6 +309,8 @@ First run with fresh verifier data: L1 gsc-watch-snapshot (09:47 UTC) and L3 ind
 
 ---
 
+---
+
 ## 2026-06-29 22:00 UTC — 7 proposals rated, 1 promote (#3227 Kit Overview batch 9) (39)
 
 ### Context (≤3 lines)
@@ -303,6 +334,8 @@ Extra invocation after scheduled 19:00 run. Metrics fresh (07:43 UTC). 7 new seo
 2. **Zombie sweep** — Ralph weekend + Monday queue.
 3. **Promote at <25**: #3183 (Bill Ward Evo) → #3187 (Garstka/Halpern gear price) → #3212 (Top-10 batch 26).
 4. **L2 watch**: Kit Overview batches 4–9 in flight — log citations in learned-patterns.md once shipped.
+
+---
 
 ---
 
@@ -348,6 +381,8 @@ Evening run. No PRs merged since 13:00 UTC; no zombie sweep needed. 7 new seo-pr
 
 ---
 
+---
+
 ## 2026-06-29 13:00 UTC — 7 proposals rated, 1 promote (#3210 Kit Overview batch 7) (37)
 
 ### Context (≤3 lines)
@@ -369,6 +404,8 @@ Mid-day pulse. Backlog 36 (post-morning). 7 new seo-proposals filed since 00:57 
 1. **Zombie sweep** — check for Ralph PRs merged since 07:00 UTC.
 2. **Backlog gate** — if <25 after sweeps, promote priority holds: #3183 (Bill Ward Evo) → #3187 (Garstka/Halpern gear price) → #3212 (Top-10 batch 26).
 3. **Kit Overview batch 4+5+6 status** (#3140/#3188/#3206) — confirm merge in learned-patterns.md when shipped.
+
+---
 
 ---
 
@@ -406,6 +443,8 @@ Morning run. Metrics (fresh 00:43 UTC): 108 users / 119 sessions / 2,532 impr / 
 2. **Zombie sweep** — Ralph weekend queue; close any new merges.
 3. **Promote at <25**: #3183 (Bill Ward Evo) → #3187 (Garstka/Halpern gear price) → #3186 (Comparison batch 40) → #3178/#3179 (Charlie Benante/Paul Mazurkiewicz arcs).
 4. **L2 watch**: Kit Overview batches 4+5+6 (#3140/#3188/#3206) — confirm pattern in learned-patterns.md once shipped.
+
+---
 
 ---
 
@@ -456,633 +495,6 @@ Evening run (auto-triggered). Metrics: 113 users / 127 sessions / 3,065 impr / 7
 
 ---
 
-## 2026-06-27 22:28 UTC — 2 promotes (#2997/#2998), 1 L1 ai-fix (#3059), 6 new proposals triaged (35)
-
-### Context (≤3 lines)
-Late re-trigger (22:20 UTC). Metrics: 118 users / 129 sessions / 3,062 impr / 70 clicks / 2.29% CTR. 8 new seo-proposals filed since 19:28 run (#2993–#3000); GSC content-gap flag (`joey jordison drum set` 149 impr / 0.67% CTR) confirmed in metrics.md — CEO MUST address.
-
-### Actions taken
-- **Promotes (2)**: #2997 (5★ Kit Overview prose batch 3 — Flo Mounier + Hellhammer + John Otto; direct L2 LLM gap fix, auto-5★ from learned pattern; Flo Mounier already 42.86% CTR winner), #2998 (5★ Genre Gear Guide batch 3 — best-hi-hats + best-bass-drum-pedals + best-drum-heads for metal; high-intent transactional, affiliate leverage) — backlog 32→34
-- **L1 ai-fix filed (#3059)**: Optimize joey-jordison profile title+meta for 'drum set'/'drum kit' cluster (234 combined impr, 0.67% CTR — CEO MUST address from metrics.md). Same CTR-gap pattern as #2927 (Shannon Larkin) + #2928 (Brann Dailor). Target: ≥2% CTR on combined cluster at next L1 snapshot (2026-07-01). — backlog 34→35
-- **6 new proposals triaged (HOLD)**:
-  - 4★ HOLD: #3000 (Evo-13: Ben Koller/Pete Sandoval/Mikkey Dee — no strong GSC pull)
-  - 4★ HOLD: #2999 (Comparison-35: Koller/Dee/Roddy — Vinnie Paul 22 impr but Dee/Koller noise)
-  - 4★ HOLD: #2996 (Bad Magic/Mikkey Dee — arc close, high cultural value but low GSC signal)
-  - 4★ HOLD: #2995 (Converge arc fills — Ben Koller noise-level only)
-  - 4★ HOLD: #2994 (IM Dance of Death+AMOLAD — arc fill, Nicko already has 2 issues queued)
-  - 4★ HOLD: #2993 (LoG 2020/Art Cruz — opens Cruz era, Art Cruz 4 impr noise)
-
-### State delta
-- **Backlog: 32→35** (2 promotes + 1 new L1 issue)
-- **New ai-fix (1)**: #3059 joey-jordison CTR gap
-- **Promoted (2)**: #2997 (Kit Overview batch 3), #2998 (Genre Gear Guide batch 3)
-- **6 proposals parked at 4★ HOLD** — promote when backlog <25
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ Proposals: 8 triaged (2 promoted 5★, 6 held 4★). ✅ L1: #3059 filed (joey jordison CTR gap — 1 of 3 cap). ✅ L2/L3: no new patterns (batch 2+3 queued; #2945 comparative-list already open). ✅ Decisions logged.
-
-### Next Run (2026-07-01 07:00 UTC)
-1. **L1 snapshot** — check Shannon Larkin (#2927) + Brann Dailor (#2928) + Joey Jordison (#3059) CTR movement
-2. **Zombie sweep** — close any Ralph merges over weekend
-3. **Promote order at <25**: #2935 (BTBAM Colors+Misdirect) → #2950 (SoundLike batch 33) → #2952 (Genre Gear Guide batch 2) → #2972 (BTBAM Automata)
-4. **#2968/#2945 status** — Kit Overview batch 2 + comparative-list: if shipped, confirm patterns in learned-patterns.md
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-27 19:28 UTC — 5 zombies swept, 2 promotes (#2973/#2970), 7 proposals triaged (32)
-
-### Context (≤3 lines)
-Re-trigger post-19:00 run. Metrics unchanged (116 users / 127 sessions / 3,062 impr / 70 clicks / 2.29% CTR). Ralph merged 5 PRs at 19:05 UTC (#2985–#2989) immediately after the 19:00 CEO run — caught as zombies here. Backlog at run start: 35; 7 new seo-proposals (#2970–#2976, filed 16:42–16:44 UTC) not yet triaged.
-
-### Actions taken
-- **Zombie sweep (5)**: Closed #2887 (→PR#2988 Arch Enemy 3-album arc), #2888 (→PR#2989 GearEvo-8 Halpern+Richardson+Roddy), #2878 (→PR#2987 Mayhem DMDS), #2875 (→PR#2986 A7X City of Evil), #2885 (→PR#2985 Slipknot Vol.3) — backlog 35→30
-- **Promotes (2)**: #2973 (5★ Mastodon The Hunter / Brann Dailor 2011 — fills Crack the Skye→Hunter→OMROTS arc; Brann = highest CTR-gap entity 23 impr / 0 clicks + #2951 OMRTS already queued), #2970 (5★ Periphery S/T 2010 + Aliens 2023 / Matt Halpern — 4 active GSC queries this week; #2934 Periphery II/III/IV already in queue; S/T + Aliens completes full arc) — backlog 30→32
-- **Triaged remaining 5 proposals**:
-  - 4★ HOLD (promote at <25): #2972 (BTBAM Automata I+II, arc close after #2947), #2974 (Gear price history batch 24 — Mario/Hellhammer/Koller), #2975 (Evo batch 12 — Inferno/Otto/Jaska, all active), #2976 (Comparison-34 — Hellhammer/Inferno/Flo all active)
-  - 3★ PARK: #2971 (DT The Astonishing / Mangini — fills arc middle between self-titled→Distance Over Time but no individual Mangini GSC signal)
-
-### State delta
-- **Backlog: 35→30 (zombies)→32 (promotes)**
-- **Zombies closed (5)**: #2887, #2888, #2878, #2875, #2885
-- **Promoted (2)**: #2973 (Brann The Hunter 5★), #2970 (Halpern Periphery arc close 5★)
-- **Notable ships**: GearEvo-8 (Halpern+Richardson+Roddy), Arch Enemy 3-album arc, Mayhem DMDS, A7X City of Evil, Vol.3 Jordison
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ Proposals: 7 triaged (2 promoted 5★, 4 held 4★, 1 parked 3★). ✅ Zombies: 5 closed. ✅ L1/L2/L3: no fires. ✅ #2715: CLOSED. ✅ Decisions logged.
-
-### Next Run (2026-07-01 07:00 UTC)
-1. **L1 snapshot** — new gsc-watch-snapshot.md expected; first win/loss data. Check Shannon Larkin + Brann Dailor CTR (#2927/#2928 shipped).
-2. **Zombie sweep** — Ralph working weekend; close any new merges.
-3. **Promote order at <25**: #2935 (BTBAM Colors+Misdirect) → #2950 (SoundLike batch 33) → #2952 (Genre Gear batch 2) → #2972 (BTBAM Automata arc close).
-4. **#2945/#2968 status** — if shipped, confirm comparative-list + Kit Overview patterns in learned-patterns.md.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-27 19:00 UTC — 5 zombies swept, 10 promotes, #2968 filed (Kit Overview batch 2)
-
-### Context (≤3 lines)
-Evening run. Metrics unchanged (116 users / 126 sessions / 3,062 impr / 70 clicks / 2.29% CTR). Ralph merged 5 parent issues between 13:30–19:00 UTC (PRs #2960–2966 touching #2877/#2870/#2799/#2882/#2880). Backlog at run start: 29; after zombie closes: 24 (<25 → promote liberally). #2715 and #2718 both closed naturally — no escalation needed.
-
-### Actions taken
-- **Zombie sweep (5)**: Closed #2877 (Kit Overview prose, PRs #2956/#2959/#2966), #2870 (Limp Bizkit, PRs #2963/#2965), #2799 (Nile TTWTGD, PRs #2946/#2958/#2962), #2882 (Comparison-29, PR #2961), #2880 (DT Octavarium, PR #2960) — backlog 29→24
-- **Promotes (10 total)**: #2951 (5★ Mastodon OMRTS, Brann CTR-gap), #2930 (4★ CoB debut), #2934 (4★ Halpern Periphery arc), #2947 (4★ BTBAM 3-album first-mover), #2948 (4★ IM Senjutsu+Virtual XI), #2949 (4★ JP arc gap), #2953 (4★ Ben Koller Converge), #2901 (4★ IM McBrain BNW+TFF), #2902 (4★ Opeth Heritage/Pale/Sorceress), #2913 (3★ DT self-titled 2013) — backlog 24→34
-- **L2 ai-fix filed (#2968)**: Kit Overview prose batch 2 — Brann Dailor / Vinnie Paul / Eloy Casagrande / Shannon Larkin / Matt Halpern (all have ≥8 impr this week; batch 1 #2877 shipped; replicate proven pattern) — backlog 34→35
-
-### State delta
-- **Backlog: 29 → 35** (zombies −5, promotes +10, new issue +1)
-- **Zombies closed (5)**: #2877, #2870, #2799, #2882, #2880
-- **Notable ships**: #2877 Kit Overview prose (Lars/Portnoy/Carey/Lombardo/Hoglan — biggest L2 fix); #2882 comparison batch 29; #2799 Nile article
-- **New ai-fix (1)**: #2968 (L2 Kit Overview batch 2)
-- **learned-patterns.md**: Updated `drummer-head-term LLM gap` entry to reflect #2877 shipped + #2968 filed
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ Zombies: 5 swept. ✅ Promotes: 10 executed (liberally at <25 backlog). ✅ L2: #2968 filed (1 per pattern, no duplicate, within 3-per-run cap). ✅ #2715/#2718: closed naturally. ✅ Decisions logged.
-
-### Next Run (2026-07-01 07:00 UTC)
-1. **L1 snapshot** — new gsc-watch-snapshot.md expected; first real win/loss data. Check Shannon Larkin (#2927) + Brann Dailor (#2928) CTR movement.
-2. **Zombie sweep** — Ralph active over weekend; close any Sunday merges.
-3. **#2945/#2968 status** — Kit Overview batch 2 + comparative-list Top-10: if shipped, log pattern confirmation in learned-patterns.md.
-4. **Promote order at <25**: #2935 (BTBAM Colors+Misdirect) → #2950 (SoundLike batch 33) → #2952 (Genre Gear batch 2).
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-27 13:30 UTC — 4 zombies swept, 2 promotes (#2931/#2932), L2 comparative-list gap issue filed (#2945)
-
-### Context (≤3 lines)
-Mid-day pulse. Metrics (13:30 UTC): 112 users / 121 sessions / 3,062 impr / 70 clicks / 2.29% CTR / pos 8.4. Ralph burned 10 issues between 10:37–13:30 UTC: backlog 40→30 (25-44 band → sparingly). 7 new seo-proposals (#2930–#2936). 4 zombie issues found (PRs merged 11:04–12:16 UTC, not caught by morning run).
-
-### Actions taken
-- **Zombie sweep**: Closed #2812 (DT Black Clouds, PR #2929+#2942), #2814 (Testament The Gathering, PR #2937+#2943), #2858 (A7X Nightmare, PR #2938), #2765 (Metallica Reload, PR #2940+#2944) — net backlog 30→29
-- **Triaged 7 proposals (#2930–#2936)**:
-  - **5★ PROMOTE**: #2931 (Matt Greiner ABR Beacon + Death Below — closes ABR arc to present; Greiner = 4 clicks / 12 impr #1 GSC click-getter; in L2 not-cited table). #2932 (Shannon Larkin Godsmack 2023 — closes Godsmack arc; active CTR-gap entity #2927; "shannon larkin drum kit" in L2 not-cited table)
-  - **4★ PARK (25-44 zone)**: #2930 (Jaska CoB debut — pos 4.5 / 2 clicks; promote <25), #2934 (Matt Halpern Periphery II+III+IV — 3 active GSC queries; L2 partial citation; promote <25)
-  - **3★ PARK**: #2933 (Art Cruz Omens — noise 4 impr), #2935 (BTBAM Colors+Misdirect — pos 27 noise), #2936 (Nick Menza Cryptic Writings — no active GSC signal)
-- **L2 ai-fix filed (#2945)**: `best death metal drummer` + `thrash metal drummers ranked` + `most innovative metal drummers` — 3 L2-uncited queries won by loudwire/drumeo/drummagazine (fragmented = first-mover). No existing open issue. Pattern: `comparative-list` (proven in learned-patterns.md). Batch: 3 Top-10 list pages + 3 LLM files, ItemList + FAQPage schema.
-
-### State delta
-- **Backlog: 30 → 29** (zombies −4, promotes +2, new issue +1)
-- **Zombies closed (4)**: #2812, #2814, #2858, #2765
-- **Promoted (2)**: #2931 (Greiner ABR close 5★), #2932 (Larkin Godsmack close 5★)
-- **New ai-fix (1)**: #2945 (L2 comparative-list gap — death/thrash/innovative Top-10)
-- **seo-proposal bank**: 5 parked; bank 200+ healthy
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ Proposals: 7 triaged (2 promoted 5★, 2 held 4★, 3 held 3★). ✅ Zombies: 4 closed. ✅ L2: #2945 filed (1 per pattern, no duplicate, within 3-per-run cap). ✅ L1: #2927/#2928 in Ralph queue — watch 2026-07-01 snapshot. ✅ #2715/#2718: no re-spam.
-
-### Next Run (2026-06-27 19:00 UTC)
-1. **Zombie sweep** — Ralph likely active; close any afternoon merges.
-2. **Backlog check** — if <25 after evening zombies: promote #2930 (Jaska 4★) + #2934 (Halpern Periphery 4★).
-3. **#2715/#2718 watch** — >72h since re-file; post escalation comment if still no Watcher PR.
-4. **Promote order at <25**: #2930 → #2934 → #2913 (DT self-titled 2013).
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-27 10:37 UTC — Backlog cleared to 23; 15 promotes + 2 CTR issues filed; 7 new proposals triaged
-
-### Context (≤3 lines)
-Morning run (metrics: 109 users / 118 sessions / 3,062 impr / 70 clicks / 2.29% CTR / pos 8.4). Ralph burned through queue overnight: eligible backlog fell from 45 → 26 before this run, then 3 zombie closes brought it to 23 (< 25 threshold → promote liberally). L1 snapshot (2026-06-24) is first run ever — 43 new queries, no wins/losses yet. Key CTR-gap signals: Shannon Larkin pos 4.8 / 13 impr / 0 cl; Brann Dailor pos 6.3 / 23 impr / 0 cl.
-
-### Actions taken
-- **Zombie sweep**: Closed #2798 (DT FII, PR #2925), #2767 (DT SDOIT, PR #2922), #2719 (Metallica Load, PR #2920) — backlog 26→23
-- **Duplicate close**: #2899 (Gojira L'Enfant Sauvage) — `/articles/lenfant-sauvage-drum-setup` already in sitemap per indexation-snapshot 2026-06-25
-- **5★ promotes (pre-queued)**: #2892 (Cryptopsy Whisper Supremacy, auto-5★ broken-ref), #2893 (Mastodon OMROTS, Brann CTR gap), #2897 (Comparison-31, 2 CTR-gap + 2 L2 gap entities), #2900 (Meshuggah CC+DEI, L2 zero-competitor), #2906 (Meshuggah CatchThirtythree, L2 zero-competitor) → backlog 23→28
-- **4★ promotes (pre-queued + 1 new)**: #2887 (Arch Enemy arc), #2888 (GearEvo-8), #2894 (A7X self-titled, The Rev), #2895 (Behemoth Apostasy), #2896 (Godsmack 1000hp, Larkin), #2904 (Comparison-32: Hoglan/Haake/Kollias/Sandoval/Casagrande/Cavalera), #2908 (Fear Factory arc), #2909 (LoG Resolution), #2910 (DT Mangini era close), #2914 (Genre Gear Guides: best-cymbals-death-metal etc. — 4★ new) → backlog 28→38
-- **L1 CTR-gap issues filed (2/3 slots)**: #2927 (Shannon Larkin title/meta fix, pos 4.8/13 impr/0 cl), #2928 (Brann Dailor title/meta fix, pos 6.3/23 impr/0 cl) → backlog 38→40
-- **New proposals triaged (#2913–#2919)**: 1 promoted (#2914, 4★), 6 parked as 3★:
-  - 3★ PARK: #2913 (DT self-titled 2013 Mangini — minor arc gap, no active GSC), #2915 (IM No Prayer McBrain 1990 — peripheral), #2916 (Comparison-33: Portnoy/Mangini + Mazurkiewicz/Sandoval + Menza/Verbeuren — no active CTR signal), #2917 (SoundLike-32: Axenrot/Dee/Priester — peripheral entities), #2918 (GearPrice-23 batch), #2919 (Evo batch 11)
-- **learned-patterns.md**: Updated Shannon Larkin + Brann Dailor CTR gap entries with issue numbers; added L1 first-snapshot summary
-
-### State delta
-- **Backlog: 45 → 40** (zombies -3, promotes +15, new issues +2)
-- **seo-proposal bank**: 6 more parked (3★); bank remains 200+
-- **Issues closed**: #2798, #2767, #2719 (zombie), #2899 (duplicate)
-
-### Quota check
-✅ Proposals: 7 triaged (1 promoted 4★, 6 parked 3★). ✅ Pre-queued backlog: 15 promotes executed on cap relief. ✅ CTR-gap: 2 L1 issues filed (#2927, #2928). ✅ Zombies: 3 closed. ✅ Duplicate: #2899 closed. ✅ Founder ideas: inbox empty. ✅ Decisions logged.
-
-### Next Run (2026-07-01 07:00 UTC)
-1. **Zombie sweep** — PRs merged since this run; close parent ai-fix issues.
-2. **#2715 + #2718** — St. Anger + Hardwired still open >60h; post escalation comment if Ralph hasn't started.
-3. **L1 snapshot** — new gsc-watch-snapshot.md; check Shannon Larkin + Brann Dailor CTR (#2927/#2928 shipped?); if still 0 clicks post-fix, flag as structural issue.
-4. **Promote order** (when backlog < 45 again): #2882 (Comparison-29, 5★-candidate CTR entities) → #2901 (IM Brave New World batch) → #2902 (Opeth Heritage/Pale/Sorceress batch).
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-27 (re-trigger-2) — 14 new proposals triaged, all held at cap; #2899 flagged duplicate
-
-### Context (≤3 lines)
-Second re-trigger run after the 21:00 re-trigger. Eligible backlog: 45 (hard cap). No PRs merged since last entry. Metrics unchanged: 108 users / 117 sessions / 3,062 impr / 70 clicks / 2.29% CTR / pos 8.4. Joey Jordison content-gap (149 impr / 0.67% CTR / pos 7.7) confirmed already addressed via #2153 + #2885.
-
-### Actions taken
-- **Triaged 14 seo-proposals (#2899–#2912)** — all held (backlog = 45, hard cap):
-  - 5★ HOLD: #2900 (Meshuggah CC+DEI — Haake zero-competitor L2 gap; opens full Meshuggah arc), #2906 (Meshuggah CatchThirtythree — fills DEI→obZen gap, same L2 zero-competitor niche)
-  - 5★ FLAG: #2899 (Gojira L'Enfant Sauvage, Duplantier 2012) — `/articles/lenfant-sauvage-drum-setup` already in sitemap; if article is live + quality, close as duplicate; if stub, queue as content-improvement when cap lifts
-  - 4★ HOLD: #2904 (Comparison-32: Hoglan/Haake + Kollias/Sandoval + Casagrande/Cavalera), #2908 (Fear Factory Obsolete+Digimortal arc, Herrera), #2909 (LoG Resolution, Adler — Grammy-nominated, fills arc), #2910 (DT Distance Over Time + View from Top, Mangini — closes DT Mangini era)
-  - 3★ PARK: #2901 (IM McBrain arc — peripheral entity), #2902 (Opeth prog era batch, Axenrot), #2903 (Sabbath Vol.4, Ward), #2905 (GearPrice batch 21), #2907 (Opeth In Cauda Venenum), #2911 (Evo batch 10), #2912 (GearPrice batch 22)
-- **No zombies** — no PRs merged since last re-trigger entry
-- **L1/L2/L3**: no new fires; no gsc-watch or indexation-watch umbrella issues open
-- **#2715–#2718**: deferred to 2026-07-01 — no re-spam
-
-### State delta
-- **Backlog: 45 → 45** (no promotes; hard cap holds)
-- **seo-proposal bank: 200+ held** (14 more quality-assessed and banked)
-
-### Quota check
-✅ Proposals: 14 triaged (2 held 5★, 1 flagged 5★, 4 held 4★, 7 parked 3★). ✅ Founder ideas: inbox empty. ✅ Zombies: none. ✅ L1/L2/L3: no fires. ✅ Content-gap (Jordison 149 impr): covered by #2153+#2885. ✅ #2715–#2718: no re-spam. ✅ Decisions logged.
-
-### Next Run (2026-07-01 07:00 UTC)
-1. **Zombie sweep** — check PRs merged since this run; close parent ai-fix issues.
-2. **#2715–#2718** — if still open: post "60h+ open" comment; escalate to `human-founder` if Ralph has cleared unrelated queue.
-3. **#2899 duplicate check** — verify `/articles/lenfant-sauvage-drum-setup` quality; close if duplicate, requeue as content-improvement if stub.
-4. **First promotes on cap relief** (<45): #2900 (Meshuggah arc 5★) → #2906 (CatchThirtythree 5★) → #2904 (Comparison-32 4★).
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-27 (re-trigger) — 7 new proposals triaged, all held at cap
-
-### Context (≤3 lines)
-Re-trigger run post-21:00 sweep. Metrics 2026-06-27 05:19 UTC: 108 users / 117 sessions / 2,542 impr / 64 clicks / 2.52% CTR / pos 8.6. No PRs merged since 21:00 (last merge 2026-06-26T23:47Z). Backlog confirmed at 45 — hard cap active.
-
-### Actions taken
-- **Triaged 7 seo-proposals (#2892–#2898)** — all held (backlog ≥45 gate; even 5★ park as seo-proposal until cap clears):
-  - 5★ HOLD: #2892 (Cryptopsy 'Whisper Supremacy' — auto-5★ broken-relatedAlbum ref fix in and-then-youll-beg), #2893 (Mastodon 'OMROTS' — Brann Dailor CTR gap, pos 6.3/23 impr/0 cl), #2897 (Comparison-31: shannon-larkin-vs-jay-weinberg + flo-vs-kollias — 2 active CTR-gap entities + 2 L2 citation-gap entities)
-  - 4★ HOLD: #2894 (A7X self-titled, The Rev 2007 — LLM tribute anchor; arc partially covered by #2858/#2875), #2895 (Behemoth 'The Apostasy', Inferno 2007 — arc filler, active entity), #2896 (Godsmack '1000hp', Shannon Larkin 2014 — CTR-gap drummer, arc filler)
-  - 3★ PARK: #2898 (Evo batch 9: Scott Travis/Gavin Harrison/Nicko McBrain — peripheral entities, no active GSC signal)
-- **No zombies** — no PRs merged today
-- **#2715–#2718**: deferred per 21:00 run rule (next check 2026-07-01 07:00) — no re-spam
-- **L1/L2/L3**: no new fires
-
-### State delta
-- **Backlog: 45 → 45** (unchanged; no promotes, no zombie closes)
-- **seo-proposal bank: 200+ held** (7 more quality-assessed and banked)
-
-### Quota check
-✅ Proposals: 7 triaged (3 held 5★, 3 held 4★, 1 parked 3★). ✅ Founder ideas: inbox empty. ✅ Zombies: none. ✅ L1/L2/L3: no fires. ✅ #2715–#2718: no re-spam. ✅ Decisions logged.
-
-### Next Run (2026-07-01 07:00 UTC)
-1. **Zombie sweep** — check PRs merged since this run.
-2. **#2715–#2718** — if still open: post "60h+ open" comment; escalate to `human-founder` if Ralph merged unrelated issues since last check.
-3. **L1 snapshot** — gsc-watch-snapshot.md refreshes ~2026-07-01; verify brann-dailor + shannon-larkin CTR; file title+meta ai-fix if still 0 clicks AND backlog <45.
-4. **First promotes on cap relief** (when backlog <45): #2892 (broken-ref auto-5★) → #2893 (Brann CTR gap) → #2897 (Comparison-31).
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-27 21:00 — 7 new proposals triaged, #2885 Jordison Vol.3 promoted (44→45 cap)
-
-### Context (≤3 lines)
-Unscheduled run (19:00 entry set next check to 2026-07-01, but 7 untriaged seo-proposals surfaced post-19:00 sweep). Eligible backlog confirmed at 44 (25-44 band: promote sparingly, only 5★). No new PRs merged since 19:00. No L1/L2/L3 fires.
-
-### Actions taken
-- **Promoted 1 proposal to ai-fix**: #2885 (Slipknot 'Vol. 3: The Subliminal Verses', Jordison 2004) — 5★: directly extends the Iowa→Vol.3→AHIG arc; Joey Jordison = our #1 GSC entity (134 impr on "joey jordison drum set"); arc completion creates internal linking path from indexed Iowa article → Vol.3 → #2153 (AHIG, already ai-fix). No duplicate confirmed. Backlog: 44→45.
-- **Triaged 6 remaining proposals** — all held/parked:
-  - 4★ HOLD (promote when backlog <25): #2887 (Arch Enemy Angela Gossow arc), #2888 (GearEvo-8: Halpern+Richardson+Roddy), #2890 (Comparison-30: Cunningham/Otto/Benante/Ward/Travis/McBrain)
-  - 3★ PARK: #2886 (JP Jugulator+Demolition, Ripper Owens era — niche LLM hook but thin TAM), #2889 (Top-10-20: grindcore/viking/gothic), #2891 (SoundLike-30: Frost/Ågren/Yeung — noise-band trio)
-- **#2715–#2718**: no re-escalation — 19:00 entry rule applies (next escalation check: 2026-07-01 07:00). No re-spam.
-
-### State delta
-- **Promoted (1):** #2885 (Jordison Vol.3 5★)
-- **Backlog: 44→45**
-- **seo-proposal bank: 200+ held** (6 more added today)
-
-### Quota check
-✅ Proposals: 7 triaged (1 promoted 5★, 3 held 4★, 3 parked 3★). ✅ Founder ideas: inbox empty. ✅ Zombies: none since 19:00 sweep. ✅ L1/L2/L3: no fires. ✅ #2715–#2718: no re-spam. ✅ Decisions logged.
-
-### Next Run (2026-07-01 07:00 UTC)
-1. **L1 snapshot action** — check brann-dailor (pos 6.3/23 impr) and shannon-larkin (pos 4.8/13 impr) for CTR lift; file title+meta ai-fix if still 0 clicks.
-2. **Zombie sweep** — close any PRs merged since 21:00 today.
-3. **#2715–#2718** — if still open at 07:00, post comment "60h+ open, no Watcher pick-up" and escalate to `human-founder` if Ralph has merged unrelated issues since.
-4. **4★ queue** (promote when <25): #2887 (Arch Enemy arc) → #2888 (GearEvo-8) → #2890 (Comparison-30).
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-27 19:00 — 2 zombies closed, 3 proposals promoted (41→44) — Hellhammer/Mayhem, Comparison-29, DT-Octavarium
-
-### Context (≤3 lines)
-Evening run. Metrics (01:40 UTC): 107 users / 116 sessions / 2,542 impr / 64 clicks / 2.52% CTR / pos 8.6. No new merges since 07:00 run — Ralph has not yet picked up #2715–#2718 (~40h elapsed). 15 new seo-proposals to triage. Zombies #2860/#2867 (PRs merged 2026-06-26T23:47Z) missed in 07:00 sweep.
-
-### Actions taken
-- **Closed 2 zombie issues**: #2860 (→PR#2876 GearEvo-5 / Kollias+Flo+Eloy), #2867 (→PR#2872 joey-jordison CTR gap). Backlog: 43→41.
-- **Promoted 3 seo-proposals to ai-fix** (backlog 41→44, target band ~45):
-  - **#2878** Mayhem 'De Mysteriis Dom Sathanas' (Hellhammer, 1994) — 5★: Hellhammer = top active entity (GA4 top-3, indexed article); DMDS = black metal's definitive album; strongest LLM citation anchor in the black metal sub-niche. No duplicate.
-  - **#2882** Comparison batch 29 (frost/hellhammer + brann-dailor/mario-duplantier + john-otto/shannon-larkin) — 5★: all 3 pairs have active GSC entities; brann/mario pairing directly serves their open CTR gaps (23 + 32 impr, 0 clicks); frost/hellhammer both indexed-or-surfacing. No duplicate.
-  - **#2880** DT 'Octavarium' (Portnoy, 2005) — 5★: fills Train of Thought → Systematic Chaos arc gap; 7th Portnoy article in cluster (building L2 LLM gap depth alongside #2877 prose fix). No duplicate.
-- **Triaged remaining 12 proposals** — all held as seo-proposal idea bank:
-  - 4★ HOLD (promote when <25): #2881, #2879, #2874, #2873, #2871, #2862, #2861, #2859, #2857
-  - 3★ PARK: #2884 (noise-band trio), #2883 (noise-band trio), #2869, #2868, #2863
-- **#2715–#2718**: ~40h elapsed, Ralph active (no new merges today). No escalation — queue ordering issue, not Watcher failure. #2715–#2718 — no re-spam.
-
-### State delta
-- **Zombies closed (2):** #2860, #2867
-- **Promoted (3):** #2878 (Hellhammer/DMDS 5★), #2882 (Comparison-29 5★), #2880 (DT Octavarium/Portnoy 5★)
-- **Backlog: 43→41 (zombies)→44 (promotions)**
-- **seo-proposal bank: 200+ held**
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 15 triaged (3 promoted 5★, 9 held 4★, 3 parked 3★). ✅ Zombies: 2 closed. ✅ L1/L2/L3: no fires (first-run snapshot, watching brann-dailor+shannon-larkin CTR gaps for 2026-07-01). ✅ #2715–#2718: no re-escalation (Ralph alive). ✅ Decisions logged.
-
-### Next Run (2026-07-01 07:00 UTC)
-1. **L1 snapshot action** — gsc-watch-snapshot.md refreshes ~2026-07-01; check brann-dailor (pos 6.3/23 impr) and shannon-larkin (pos 4.8/13 impr) for clicks; file CTR title+meta issues if still 0.
-2. **Zombie sweep** — check for PRs merged since 19:00 today.
-3. **#2715–#2718** — if still open at 07:00, post comment "60h+ open, no Watcher pick-up — investigate queue priority."
-4. **4★ queue** (promote when backlog <25): #2871 (Comparison-28 with Flo/Jaska/Greiner anchors) → #2859 (SoundLike-28) → #2857 (IM Book of Souls).
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-27 13:00 — L2 LLM gap #2877 filed, 11 proposals promoted (32→43), #2715–#2718 watch continued
-
-### Context (≤3 lines)
-Mid-day run. Metrics fresh 2026-06-27 00:41 UTC: 106 users / 115 sessions / 2,542 impr / 64 clicks / 2.52% CTR / pos 8.6. L1 GSC snapshot: first-run (no prior week), 43 new queries surfacing — biggest are joey-jordison cluster (already addressed by #2867/shipped) and brann-dailor/shannon-larkin CTR gaps (watch L1 2026-07-01). L2: 52/65 queries not cited — pattern analysis actioned. Ralph alive: #2860 + #2867 merged post-07:00.
-
-### Actions taken
-- **Filed L2 LLM gap #2877** — pattern: drummer profile pages lack prose "Kit Overview" paragraph → LLMs can't extract a direct answer → moderndrummer/drumeo/drummagazine win all 5 head-term queries for lars-ulrich, mike-portnoy, danny-carey, dave-lombardo, gene-hoglan. Fix: add 150-200 word prose overview to each profile using both "drum kit" + "drum set" phrasing. Confirmed by contrast: joey-jordison profile cited for 12 query variants (has prose); these 5 have only structured inventory tables.
-- **Promoted 11 seo-proposals to ai-fix** (backlog 32→43, target band ~45):
-  - LLM gap targets (Lars Ulrich): #2767 (DT Six Degrees, Portnoy Grammy), #2765 (Metallica Reload), #2719 (Metallica Load)
-  - LLM gap targets (Mike Portnoy): #2812 (DT Black Clouds), #2798 (DT Falling into Infinity), #2858 (A7X Nightmare, Grammy-nom)
-  - LLM gap targets (Lombardo/Kollias): #2814 (Testament The Gathering, Lombardo), #2799 (Nile Those Whom the Gods Detest, Kollias)
-  - High-TAM: #2875 (A7X City of Evil, The Rev — breakthrough + LLM anchor), #2870 (Limp Bizkit SO+CSAD, John Otto — GA4 top-6 page signal)
-  - GSC CTR signal: #2721 (August Burns Red Rescue & Restore, Matt Greiner — 14.29% CTR)
-- **#2715–#2718 watch**: Ralph merged #2860+#2867 post-07:00 — Watcher is healthy. No human-founder escalation — queue depth, not Watcher failure. These 4 issues are mid-queue behind older eligible numbers.
-
-### State delta
-- **New ai-fix filed (1):** #2877 (LLM gap prose kit overview — 5 profiles)
-- **Promoted (11):** #2767, #2765, #2719, #2812, #2798, #2858, #2814, #2799, #2875, #2870, #2721
-- **Backlog: 32→43** (within target band)
-- **seo-proposal bank: 200+ held** (idea bank healthy)
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: triaged (11 promoted 5★, held 4★/3★ for <25 backlog). ✅ L1: first-run, no wins/losses/nulls to process; brann-dailor+shannon-larkin CTR gaps logged in learned-patterns for 2026-07-01 watch. ✅ L2: #2877 filed (1 ai-fix per pattern rule satisfied). ✅ L3: 1.4% indexed share = API sampling artifact confirmed in learned-patterns (2026-06-26 baseline). ✅ #2715–#2718: no escalation (Ralph active). ✅ Decisions logged.
-
-### Next Run (2026-06-27 19:00 UTC)
-1. **Zombie sweep** — check for PRs merged since 13:00; close resolved ai-fix issues.
-2. **#2715–#2718 watch** — if still 0 Watcher pick-up at 19:00 (~40h), post escalation comment; create `human-founder` at next morning run.
-3. **brann-dailor CTR** — if L1 refresh early, check pos/CTR; file title+meta issue if still 0 clicks.
-4. **Hold 4★ queue** (promote only when backlog drops to <25): #2857 (IM Book of Souls) → #2862 (Top-10 batch 19) → #2779 (Lick batch 16).
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-27 07:00 — 3 zombies closed, 7 proposals triaged (1 promoted 5★ — GearEvo-5/Flo+Eloy), GSC content-gap #2867 filed (33→32)
-
-### Context (≤3 lines)
-Deep run 07:00 UTC. Metrics fresh 2026-06-26 23:27 UTC: 118 users / 134 sessions / 2,808 impr / 74 clicks / 2.64% CTR / pos 8.5. 3 PRs merged post-22:30 (PR#2864/2865/2866 → #2845/#2846/#2842). 7 new seo-proposals (#2857–#2863). Stale #2715–#2718 at ~28h (30h threshold 09:15 UTC). Content-gap mandate: "joey jordison drum set" 134 impr / 0.75% CTR.
-
-### Actions taken
-- **Closed 3 zombie issues** (PRs merged 2026-06-26T22:50–23:20Z): #2842 (→PR#2856+#2866 CoB-arc/Jaska), #2845 (→PR#2864 Cryptopsy/Flo), #2846 (→PR#2865 Lick-17). Backlog: 33→30.
-- **Promoted 1 proposal to ai-fix:** #2860 (Drummer Evolution batch 5 — George Kollias + Flo Mounier + Eloy Casagrande) — **5★ PROMOTE**: Flo = #1 CTR entity (42.86%) with Cryptopsy articles JUST shipped (momentum); Eloy = 25 impr / pos 9.4 (active anchor); proven GearEvo format (batches 1–4 shipped). Backlog: 30→31.
-- **Filed GSC content-gap #2867**: "joey jordison drum set" (134 impr / 0.75% CTR / pos 8.0) — mandatory metrics flag. Actions: title/meta optimization on /drummer/joey-jordison, ≥3 internal links to /articles/joey-jordison-drum-setup, 'Drum Set' section heading on profile. Backlog: 31→32.
-- **Triaged remaining 6 proposals:**
-  - **#2857** (IM 'The Book of Souls', Nicko, 2015) — 4★ HOLD: arc-completion value but Nicko noise-band. Promote <25.
-  - **#2858** (A7X 'Nightmare', Portnoy tribute, 2010) — 4★ HOLD: strong LLM hook (The Rev tribute, Grammy) but zero Portnoy GSC signal.
-  - **#2859** (SoundLike batch 28 — Verbeuren+Cruz+Otto) — 4★ HOLD: proven format, 1 anchor (John Otto GA4 active), 2 noise-band co-anchors. Promote <25.
-  - **#2861** (Comparison batch 27 — Nicko/Vinnie + Lars/Bill + Blake/Garstka) — 4★ HOLD: Vinnie Paul + Matt Garstka active; 3/6 anchors noise-band. Promote <25.
-  - **#2862** (Top-10 batch 19 — djent+war+speed metal) — 4★ HOLD: proven list format; lower TAM sub-niches. Promote <25.
-  - **#2863** (LoG 'New American Gospel', Adler, 2000 debut) — 3★ HOLD: strong arc-origin hook but Adler noise-band (same block as #2833). Park.
-- **Stale #2715–#2718**: pre-escalation nudge comment posted on all 4 (~28h elapsed, threshold 30h at 09:15 UTC). No Watcher PR activity since re-file (03:15 UTC 2026-06-26). Escalate to `human-founder` at 13:00 run if still 0 activity.
-
-### State delta
-- **Zombies closed (3):** #2842, #2845, #2846
-- **Promoted (1):** #2860 (GearEvo-5 / Flo+Eloy+Kollias 5★)
-- **New ai-fix filed (1):** #2867 (joey-jordison CTR gap — GSC mandate)
-- **Backlog: 33→30 (zombies)→31 (promotion)→32 (new issue)**
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (1 promoted 5★, 5 held 4★, 1 held 3★). ✅ Zombies: 3 closed. ✅ GSC content-gap: #2867 filed. ✅ L1/L2/L3: no fires (first-run baseline, next actionable 2026-07-01). ✅ Stale #2715–#2718: pre-escalation nudge posted. ✅ Decisions logged.
-
-### Next Run (2026-06-27 13:00 UTC)
-1. **Stale escalation** — If #2715/#2716/#2717/#2718 still 0 Watcher PR by 13:00 (~34h post re-file), escalate all 4 to `human-founder` immediately.
-2. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships via PR.
-3. **Zombie sweep** — mid-morning merges likely; close before counting.
-4. **4★ queue** (promote when backlog <25): #2857 (IM Book of Souls) → #2858 (A7X Nightmare) → #2859 (SoundLike batch 28) → #2861 (Comparison batch 27).
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-27 07:00 — 6 zombies closed, 1 promoted (Matt Greiner Phantom Anthem 5★), 7 proposals triaged (35→36)
-
-### Context (≤3 lines)
-Morning deep run. Metrics fresh (2026-06-26 10:58 UTC): 108 users / 124 sessions / 2,808 impr / 74 clicks / 2.64% CTR / pos 8.5 (+25% impr / +28% clicks vs prior logged). Backlog entered at 41. Discovered zombie batch (PRs #2780-#2792 merged 10:30-10:43 UTC yesterday, missed by all prior runs — Watcher filed a second PR wave).
-
-### Actions taken
-- **Closed 6 zombie issues** (PRs merged 2026-06-26T10:30–10:43Z, never caught): #2713 (→PR#2792), #2673 (→PR#2790), #2766 (→PR#2789), #2728 (→PR#2786), #2726 (→PR#2784), #2724 (→PR#2782). Backlog: 41→35. Note: PR#2781 and PR#2780 are duplicate PRs by Watcher for same issues — closed the issues once.
-- **Triaged 7 new seo-proposals (#2773–#2779):**
-  - **#2775** (ABR 'Phantom Anthem', Matt Greiner, 2017 — Grammy-nominated, fills Found in Far Away Places→Beacon arc) — **5★ PROMOTED**: Matt Greiner = #1 GSC CTR entity this week (matt greiner drum setup: 18.75% CTR / 16 impr / 3 clicks); Grammy = AI Overview eligibility; completes arc: Messengers→Constellations→Leveler→Rescue & Restore→Found in Far Away Places→**Phantom Anthem**. No duplicate ai-fix. Backlog: 35→36.
-  - **#2779** (Lick batch 16 — Morgan Ågren + Blake Richardson + Dirk Verbeuren) — **4★ HOLD**: proven lick format; Blake Richardson indexed; others below GSC noise threshold. Promote at backlog <25.
-  - **#2776** (JP 'Angel of Retribution', Scott Travis, 2005 — Halford reunion, fills 15y JP arc gap) — **4★ HOLD**: Scott Travis has arc context but no active GSC query signal this week. Promote at <25.
-  - **#2773** (Trivium Alex Bent era × 3 albums — 2017/2020/2023) — **3★ HOLD**: Alex Bent no GSC signal above noise. Park.
-  - **#2778** (SoundLike batch 24 — Mazurkiewicz + Christy + Bittner) — **3★ HOLD**: all three entities absent from top-43 GSC queries. Park.
-  - **#2777** (Amon Amarth 'Jomsviking', Jocke Wallgren, 2016) — **3★ HOLD**: Jocke at pos 17.7/3 impr (noise). Park.
-  - **#2774** (Slayer 'Repentless', Paul Bostaph, 2015) — **3★ HOLD**: no active GSC signal on Bostaph. Park.
-- **Stale #2715–#2718**: CEO nudge already added (~12h ago). Not yet at 24h threshold for escalation to human-founder. Monitor at 13:00.
-- **Metrics delta**: 2,808 impr (+562 vs 2,246 prior), 74 clicks (+16), 2.64% CTR (+0.06 pts) — positive trajectory. `joey jordison drum set` still 134 impr / 0.75% CTR in content-gap table (CTR fix #2544 shipped, GSC lag expected).
-- **L1/L2/L3**: no fires. L1 next actionable 2026-07-01. L2 #2211 open (52/65 uncited). L3 baseline unchanged.
-
-### State delta
-- **Zombies closed (6):** #2713, #2673, #2766, #2728, #2726, #2724
-- **Promoted (1):** #2775 (ABR Phantom Anthem / Matt Greiner 5★)
-- **Backlog: 41→35 (zombies)→36 (promotion)**
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged (1 promoted 5★, 6 held). ✅ Zombies: 6 closed. ✅ L1/L2/L3: no fires. ✅ Decisions logged.
-
-### Next Run (2026-06-27 13:00 UTC)
-1. **Stale #2715–#2718 escalation** — if still 0 Watcher activity by 13:00 (~30h post re-file), escalate to `human-founder`; unprecedented for atomic articles.
-2. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships.
-3. **5★ queue** (promote when backlog <25): #2720 (Gojira Fortitude) → #2730 (Sepultura Machine Messiah) → #2725 (Comparison batch 21).
-4. **Zombie sweep** — afternoon merges likely; close before counting backlog.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-27 13:00 — 5 proposals promoted (CTR-gap + sitemap), 9 held (36→41)
-
-### Context (≤3 lines)
-Mid-day pulse. Metrics: 104 users / 121 sessions / 2,246 impr / 58 clicks / 2.58% CTR / pos 8.5 (slight softening vs 07:00 — normal variance). No PRs merged since 07:00 (most recent merge: 2026-06-26T01:19:47Z). Backlog entered at 36 (25-44 zone). 14 new seo-proposals (#2719–#2732). Stale re-files #2715–#2718 still 0 Watcher activity (~6h since creation — too soon to escalate).
-
-### Actions taken
-- **No zombie closes** — 0 PRs merged since 07:00 UTC.
-- **Triaged 14 new seo-proposals (#2719–#2732):**
-  - **#2727** (Fix sitemap.js — 3 SoundLike guide pages missing) — **5★ AUTO PROMOTED**: live pages not in sitemap = direct indexation gap; no existing duplicate.
-  - **#2726** (Fix sitemap.js — 6 top-10 list pages missing) — **5★ AUTO PROMOTED**: same; 6 live top-10 pages not submitted to Google.
-  - **#2729** (Godsmack 'When Legends Rise', Shannon Larkin, 2018 — closes Godsmack arc) — **5★ PROMOTED**: directly addresses Shannon CTR gap (pos 4.8 / 13 impr / 0 clicks); fills arc between Oracle (#2653) and present.
-  - **#2728** (Mastodon 'Hushed and Grim', Brann Dailor, 2021 — Grammy) — **5★ PROMOTED**: closes Brann arc to present; Grammy = AI Overview eligibility; addresses Brann-Dailor-pattern CTR gap (pos 6.3 / 23 impr / 0 clicks per learned-patterns.md).
-  - **#2721** (ABR 'Rescue & Restore', Matt Greiner, 2014 — post-Leveler arc gap) — **5★ PROMOTED**: Matt Greiner = #1 GSC CTR this week (21.43% on "matt greiner drum setup"); fills Constellations (#2708, just promoted 07:00) → Rescue & Restore arc gap.
-  - **#2720** (Gojira 'Fortitude', Mario Duplantier, 2021 — Grammy) — **5★ HOLD**: Mario 32 impr pos 10.0 GSC; Grammy; closes Magma arc. Backlog at 41; promote next slots.
-  - **#2730** (Sepultura 'Machine Messiah', Eloy, 2017) — **5★ HOLD**: opens Eloy era (pre-Quadra arc); Eloy 21 impr GSC. Priority after #2720.
-  - **#2725** (Comparison batch 21 — Brann/Gavin + Eloy/Jay + Mario/Matt Halpern) — **5★ HOLD**: proven comparison format; all 3 entities have active CTR gaps. Priority after #2730.
-  - **#2719** (Metallica 'Load', Lars, 1996 — 5× Platinum) — **4★ HOLD**: big album but Lars has no direct GSC signal yet; arc fill.
-  - **#2731** (Lick pages batch 15 — John Otto + Bill Ward + Richard Christy) — **4★ HOLD**: proven lick format; Bill Ward 100% CTR low-volume signal. Park.
-  - **#2724** (Lick pages batch 14 — Mangini + Travis Orbin + Abe Cunningham) — **4★ HOLD**: proven format; weaker GSC entities vs prior batches. Park.
-  - **#2732** (Top-10 batch 16 — power/industrial/glam metal) — **4★ HOLD**: industrial metal niche; glam-metal off-brand. Park.
-  - **#2723** (Black Sabbath 'Master of Reality', Bill Ward, 1971) — **4★ HOLD**: doom origin, arc fill, moderate TAM.
-  - **#2722** (Fear Factory 'Demanufacture', Raymond Herrera, 1995) — **4★ HOLD**: opens Fear Factory cluster; no active GSC signal on Herrera.
-- **#2718 (Hardwired) status**: OPEN / 0 comments — Watcher hasn't picked up yet (~6h post-creation). #2710 (72 Seasons) remains on hold pending #2718 ship.
-- **L1/L2/L3**: no fires — all first-run baseline; next actionable L1 2026-07-01.
-
-### State delta
-- **Promoted (5):** #2727 (sitemap SoundLike), #2726 (sitemap top-10), #2729 (Shannon When Legends Rise), #2728 (Brann Hushed & Grim), #2721 (Matt Greiner Rescue & Restore)
-- **Backlog: 36→41**
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 14/14 triaged (5 promoted 5★, 9 held). ✅ Zombies: 0 (no new merges since 07:00). ✅ L1/L2/L3: first-run baseline, no fires. ✅ Decisions logged.
-
-### Next Run (2026-06-27 19:00 UTC)
-1. **Zombie sweep** — evening merges likely; each close frees slots toward <25 for 4★ promotion.
-2. **#2718 (Hardwired) stale watch** — if still 0 Watcher activity at 19:00 (~12h post-creation), add CEO nudge comment; promote #2710 (72 Seasons) once it ships.
-3. **5★ queue** (promote when backlog <25): #2720 (Gojira Fortitude) → #2730 (Sepultura Machine Messiah) → #2725 (Comparison batch 21).
-4. **Shannon + Brann CTR** — #2729 + #2728 now ai-fix; watch for Ralph to implement before next L1 snapshot (2026-07-01).
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
-## 2026-06-27 07:00 — 15 zombies closed, 20 promotions, 4 stale re-filed (20→35)
-
-### Context (≤3 lines)
-Morning deep run. Metrics fresh (2026-06-26 03:08 UTC): 103 users / 119 sessions / 2,246 impr / 58 clicks / 2.58% CTR / pos 8.5. Backlog entered at 35 (from 19:00 run). Overnight batch of 18 PRs merged 01:18–01:19 UTC — none caught by prior runs (07:00/13:00 only caught earlier batches). Stale escalation: #1895/#1928/#1929/#2096 at 7+ days with ceo-aggressive label, still 0 Watcher activity → re-filed as fresh.
-
-### Actions taken
-- **Closed 15 zombie issues** (PRs merged 2026-06-26 01:18–01:19 UTC, missed by all prior runs): #2671 (PR#2707), #2618 (PR#2698), #2619 (PR#2696), #2654 (PR#2695), #2616 (PR#2694), #2617 (PR#2693), #2606 (PR#2692), #2612 (PR#2691), #2614 (PR#2690), #2613 (PR#2689), #2605 (PR#2688), #2507 (PR#2683), #2584 (PR#2682), #2588 (PR#2678), #2586 (PR#2665). Backlog: 35→20.
-- **Triaged 5 overnight proposals (#2708–#2714, excluding #2706/#2705/#2703 triaged in prior run):**
-  - **#2708** (ABR Constellations, Matt Greiner — fixes 🔴 2 live broken refs on leveler + soundLike guide) → **5★ PROMOTED**: auto-5★ broken ref rule.
-  - **#2709** (Slipknot All Hope Is Gone, Joey Jordison 2008 — addresses CEO-flagged #1 GSC content-gap: 106 impr / 0.94% CTR) → **5★ PROMOTED**: directly addresses top content-gap query.
-  - **#2713** (Lick batch 13 — Igor Cavalera + Matt Greiner + Charlie Benante) → **5★ PROMOTED**: proven lick-pages pattern (learned-patterns.md).
-  - **#2714** (JP Firepower, Scott Travis 2018 — arc fill) → **4★ PROMOTED**: backlog <25 gate open; Scott Travis arc context.
-  - **#2710** (Metallica '72 Seasons') → **4★ HOLD**: depends on Hardwired (#2718) shipping first.
-  - **#2711, #2712** (Iron Maiden Dance of Death + AMOLATD) → **3★ HOLD**: no Nicko GSC signal.
-- **Promoted 5 more un-promoted 5★ broken-ref issues from backlog:** #2582 (Mastodon Leviathan), #2585 (Deftones Diamond Eyes + Koi No Yokan), #2587 (Converge Jane Doe + Axe to Fall), #2603 (soundLike missing — Cosmogenesis/Epitaph/Doomsday), #2604 (soundLike missing — God Hates Us All/Wages of Sin/AaL).
-- **Promoted 12 from 4★ hold queue** (backlog <25 gate): #2508 (Opeth MAYH), #2509 (Dimmu ISD), #2510 (Behemoth ILAYD), #2607 (Gojira Terra Incognita), #2615 (Tool Undertow), #2608 (Opeth Watershed), #2652 (Megadeth Countdown), #2655 (DT Awake), #2670 (Anthrax State of Euphoria), #2673 (Comparison batch 19), #2700 (Pantera GSTK), #2714 (already counted above). Backlog: 28→40.
-- **Stale issue re-filing** (#1895/#1928/#1929/#2096 — 7+ days, ceo-aggressive, 0 Watcher activity): closed all 4 and re-filed as fresh issues #2715 (St. Anger), #2716 (Youthanasia), #2717 (Sound of White Noise), #2718 (Hardwired). Net: backlog 40→36→40, but fresh numbers bubble them to top of Watcher's LIFO queue.
-- **L1**: No gsc-watch issue open (first-run baseline). 43 new queries surfacing — key signals: `joey jordison drum set` (134 impr/pos 8.3), `brann dailor drum kit` (23 impr/pos 6.3 — Brann-Dailor pattern), `shannon larkin drum kit` (13 impr/pos 4.8/0 clicks — CTR gap still active).
-- **L2**: #2211 open (52/65 queries not citing metalforge.io). Danny Carey gap (#2612) shipped via PR#2691. No new ai-fix from L2 this run (backlog at target).
-- **L3**: Indexation baseline — 7/500 indexed (1.4%, API cap). No regressions.
-- **GSC content-gap**: `joey jordison drum set` (106 impr / 0.94% CTR) addressed via #2709 (All Hope Is Gone) + Shannon Larkin CTR logged in learned-patterns (watch next L1 snapshot 2026-07-01).
-
-### State delta
-- **Zombies closed (15):** #2671, #2618, #2619, #2654, #2616, #2617, #2606, #2612, #2614, #2613, #2605, #2507, #2584, #2588, #2586
-- **Promoted (20 total):** 5★: #2582, #2585, #2587, #2603, #2604, #2708, #2709, #2713 · 4★: #2508, #2509, #2510, #2607, #2615, #2608, #2652, #2655, #2670, #2673, #2700, #2714
-- **Stale re-filed:** #1895→#2715, #1928→#2716, #1929→#2717, #2096→#2718
-- **Backlog: 35→20 (zombies)→40 (promotions)→36 (stale closed)→35 (stale re-filed) ≈ 35**
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ SEO proposals: 5 new triaged (3 promoted 5★ + 1 promoted 4★ + 3 held). ✅ Zombies: 15 closed. ✅ L1: no fires (baseline). ✅ L2: no new L2 ai-fix (at target). ✅ L3: baseline, no regressions. ✅ Stale escalation: 4 re-filed. ✅ GSC gap: addressed via #2709. ✅ Decisions logged.
-
-### Next Run (2026-06-27 13:00 UTC)
-1. **Zombie sweep** — Ralph likely running overnight batch; close merged PRs.
-2. **#2710 (72 Seasons)** — promote once #2718 (Hardwired) ships via PR.
-3. **Brann Dailor CTR** — pos 6.3 / 23 impr / 0 clicks: same pattern as Shannon Larkin CTR gap. File CTR optimization if next L1 snapshot (2026-07-01) still 0 clicks.
-4. **4★ remaining holds** (#2701, #2703, #2705, #2706) — promote if backlog drops below 25 again.
-
----
-
----
-
----
-
----
-
----
-
----
-
----
-
 ---
 
 ## 2026-07-01 22:30 — Cleared stale seo-proposal bank (25 issues): 5 closed as shipped-duplicates, 11 re-scoped, 20 promoted to ai-fix
@@ -1120,6 +532,8 @@ Deep run. Founder inbox empty. Backlog was 26 (25–44 band, promote-sparingly).
 
 ---
 
+---
+
 ## 2026-07-01 23:40 (state-confirm — anti-noise hold)
 - Backlog: 46 ai-fix · 0 PRs open · proposals untriaged: 0 (only unpromoted seo-proposal is umbrella #2211)
 - Org/Sessions/Views (7d): 109 / 158 / 224
@@ -1135,12 +549,16 @@ Deep run. Founder inbox empty. Backlog was 26 (25–44 band, promote-sparingly).
 
 ---
 
+---
+
 ## 2026-07-02 03:08 (state-confirm — anti-noise hold)
 - Backlog: 20 eligible ai-fix (9 not-yet-started, 11 already have open PRs) · 11 PRs open · proposals untriaged: 0 (only unpromoted seo-proposal is umbrella #2211)
 - Org/Sessions/Views (7d): 117 / 135 / 171
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — Roadie/Ralph drained backlog 46→20 overnight (20 ai-fix closed, 11 PRs in flight). SEO Agent hasn't refilled the bank: its 2026-07-01 19:37 run failed on Claude weekly-quota exhaustion (primary resets Jul 3 03:00 UTC, backup resets 10:00 UTC) — same transient pattern as the 2026-07-01 watchdog false-alarm, self-resolving, no fix needed. L1/L2/L3 still on the 2026-06-29 snapshot; every actionable item from it is already filed and closed (#3210/#3282/#3412/#3280/#3281/#3413).
 - Next check: 07:00 UTC deep run — backlog is now <25 (promote-liberally band) but bank is empty, so the real trigger is the SEO Agent resuming after quota reset; also due for the overdue L1/L2/L3 weekly refresh (06-29 → 3 days stale).
+
+---
 
 ---
 
@@ -1180,12 +598,16 @@ Deep run. Founder inbox empty. seo-proposal bank has 0 untriaged (only umbrella 
 
 ---
 
+---
+
 ## 2026-07-02 07:09 (state-confirm — anti-noise hold)
 - Backlog: 6 eligible ai-fix (only 3 truly unclaimed: #3290/#2426/#2425; other 3 already have open PRs) · 3 PRs open (2 CONFLICTING — both edit shared `packages/frontend/data/top10Lists.js` registry, normal append-file contention, resolves on serial merge) · proposals untriaged: 0 (only umbrella #2211)
 - Org/Sessions/Views (7d): 119 / 138 / 173 · GSC: 2,797 impr / 51 clicks / 1.82% CTR
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — verified the PR-conflict pattern flagged in the 07:00 entry is explained (shared-file contention on parallel top10Lists batches, not a Ralph bug); L1/L2/L3 still 2026-06-29 snapshot, all actionable rows already filed+closed
 - Next check: 13:00 UTC — watch #3605/#3600 serialize through Merger; watch for SEO Agent quota reset (2026-07-03 03:00 UTC) to refill empty proposal bank
+
+---
 
 ---
 
@@ -1219,12 +641,16 @@ Founder inbox empty. SEO Agent resumed filing at 08:15 UTC (backup quota reset k
 
 ---
 
+---
+
 ## 2026-07-02 13:32 (state-confirm — anti-noise hold)
 - Backlog: 1 eligible ai-fix (#3615, has clean MERGEABLE PR #3629) · 1 PR open · proposals untriaged: 0 (only umbrella #2211)
 - Org/Sessions/Views (7d): 122 / 142 / 194 · GSC: 3,396 impr / 69 clicks / 2.03% CTR
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — Roadie/Ralph shipped 5 of the 6 proposals promoted at 13:00 (#3610-3614 closed) within this same window; #3615 has a clean PR in flight. Backlog is now near-empty (promote-liberally band) but bank is also empty — no fresh seo-proposal since the 13:00 batch, so nothing to promote. Joey Jordison CTR-gap queries (92/139 impr, <2% CTR) unchanged, already covered by shipped #3059; no duplicate escalation (fix effect awaits next L1 snapshot, due 2026-07-06).
 - Next check: 19:00 UTC evening review — confirm #3629 merges; watch for SEO Agent to refill the bank so backlog doesn't fully starve before the 07:00 deep run.
+
+---
 
 ---
 
@@ -1261,12 +687,16 @@ Founder inbox empty. #3629 merged (backlog fully drained to 3 eligible / 9 total
 
 ---
 
+---
+
 ## 2026-07-03 00:36 (state-confirm — anti-noise hold)
 - Backlog: 0 eligible ai-fix (6 total, all `hold`) · 0 PRs open · proposals untriaged: 0 (only umbrella #2211 + 3 old seo-hold)
 - Org / Sessions / Views (7d): 124 / 145 / 209 · GSC: 2,876 impr / 63 clicks / 2.19% CTR
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — the 3 proposals promoted at 19:43 (#3636/#3637/#3638) already merged and closed (commits 4dce1d46/756da671/a14a1bf8), draining the queue back to empty. SEO Agent's last run (19:34 UTC) produced exactly that batch; no fresh proposal since. Joey Jordison content-gap cluster (85+107 impr, <2% CTR) unchanged, already covered by shipped #3059, effect pending next L1 snapshot (2026-07-06).
 - Next check: 2026-07-03 07:00 UTC deep run — watch for SEO Agent's next scheduled run to refill the bank; L1/L2/L3 due 2026-07-06.
+
+---
 
 ---
 
@@ -1283,12 +713,16 @@ Founder inbox empty. #3629 merged (backlog fully drained to 3 eligible / 9 total
 
 ---
 
+---
+
 ## 2026-07-03 08:00 (state-confirm — anti-noise hold)
 - Backlog: 1 ai-fix (#1240, atomic, hold released 03:11 UTC) · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 131 / 152 / 218 · GSC: 3,384 impr / 75 clicks / 2.22% CTR
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — #1239/#1241 merged overnight (commits 00494311/8cc29fd1); #1240 confirmed atomic, no split needed, ready for Ralph pickup. L2 umbrella #2211 still on 2026-06-29 snapshot, all rows already addressed by prior shipped batches; next verifier refresh 2026-07-06. Joey Jordison content-gap cluster (90+123 impr, <2% CTR) unchanged, already covered by shipped #3059.
 - Next check: 13:00 UTC mid-day pulse — watch #1240 get picked up; watch for SEO Agent to refill empty proposal bank.
+
+---
 
 ---
 
@@ -1321,12 +755,16 @@ Founder inbox empty. Backlog fully drained (0 eligible / 0 total open ai-fix —
 
 ---
 
+---
+
 ## 2026-07-03 19:29 (state-confirm — anti-noise hold)
 - Backlog: 0 ai-fix (fully drained) · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 144 / 166 / 250 · GSC: 3,384 impr / 75 clicks / 2.22% CTR
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — 12 issues shipped since the 11:00 run without CEO intervention needed, notably **#3651**: a generator-level fix (`generate-llms-articles.cjs` never rendered the per-article `faq` array despite 383/390 source files having one) that retroactively added FAQ sections to ~390 `/public/llms/articles/*.md` files in one PR, directly closing 2 zero-competitor rows in #2211. Logged as a new pattern in `learned-patterns.md` (check sibling generators for render gaps before proposing content batches). Joey Jordison content-gap cluster unchanged, already covered by shipped #3059/#3412.
 - Next check: 2026-07-06 L1/L2/L3 weekly refresh — confirm #3651 registers as new L2 wins; watch for SEO Agent to refill the empty bank before backlog starves.
+
+---
 
 ---
 
@@ -1358,6 +796,7 @@ Founder inbox empty. Backlog fully drained (0 eligible ai-fix, 0 open PRs) since
 
 ---
 
+---
 
 ## 2026-07-04 (state-confirm — anti-noise hold)
 - Backlog: 2 ai-fix (#3661 free, #3663 has PR #3667 open) · 1 PR open · proposals untriaged: 0 (only umbrella #2211, pruned+keep)
@@ -1368,12 +807,16 @@ Founder inbox empty. Backlog fully drained (0 eligible ai-fix, 0 open PRs) since
 
 ---
 
+---
+
 ## 2026-07-04 (state-confirm — anti-noise hold, 2nd consecutive)
 - Backlog: 2 ai-fix (#3661 still free, #3663 PR #3667 still open) · 1 PR open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 142 / 163 / 240 · GSC: 2,864 impr / 64 clicks / 2.23% CTR (same snapshot, unrefreshed)
 - Blockers unchanged: #529 #525 #526 #875 — no re-spam
 - Actions: none — no merges, no new proposals, no founder ideas since last entry. L1/L2/L3 still on 06-29/06-23 snapshots, next refresh 2026-07-06.
 - Next check: per hold rule, 3rd identical run skips logging entirely unless state changes.
+
+---
 
 ---
 
@@ -1406,6 +849,8 @@ Deep-run triage. Founder inbox empty. ai-fix backlog was fully drained (0 eligib
 
 ---
 
+---
+
 ## 2026-07-04 10:39 — Closed duplicate/conflicting PR #3680 (same Roadie run double-filed #3675)
 
 ### Context (≤3 lines)
@@ -1429,6 +874,8 @@ Pulse check following the 09:50 deep run. 3 of the 4 promoted proposals (#3672/#
 2. **New watch item:** if duplicate same-issue PRs from one Roadie run recur, consider flagging to `human-founder` as a Roadie dedup bug rather than closing manually each time.
 3. L1/L2/L3 next due 2026-07-06 (Monday).
 
+---
+
 ## 2026-07-04 11:30 (state-confirm — anti-noise hold)
 - Backlog: 1 ai-fix (#3673, PR #3678 open MERGEABLE) · 1 PR open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 149 / 172 / 255 · GSC: 3,408 impr / 81 clicks / 2.38% CTR (unchanged vs 10:39 run)
@@ -1436,12 +883,16 @@ Pulse check following the 09:50 deep run. 3 of the 4 promoted proposals (#3672/#
 - Actions: none — founder inbox empty, no new seo-proposals since #3673, GSC content-gap (joey jordison, 107 impr) unchanged and already covered by shipped fixes. L1/L2/L3 still on 06-29/06-23 snapshots, next refresh 2026-07-06.
 - Next check: 13:00 UTC mid-day pulse — watch #3678 merge (drains backlog to 0), watch for SEO Agent proposal refill.
 
+---
+
 ## 2026-07-04 13:00 (state-confirm — anti-noise hold, 2nd since last full entry)
 - Backlog: 0 ai-fix (#3673/PR #3678 merged 11:50 UTC — drained) · 0 PR open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 149 / 172 / 256 · GSC: 3,408 impr / 81 clicks / 2.38% CTR / pos 7.9 (unchanged vs 11:30 run)
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — founder inbox empty, no new seo-proposals since #3673, joey-jordison content-gap unchanged (already covered, trending win per L1). L1/L2/L3 still on 06-29/06-23 snapshots, next refresh 2026-07-06.
 - Next check: hourly cadence (per #3671) — bank is empty and eligible for liberal promotion the moment SEO Agent refills it; per hold rule, next identical run skips logging entirely.
+
+---
 
 ## 2026-07-04 15:24 — Triaged 3 fresh proposals (self-labeled ai-fix — process anomaly flagged)
 
@@ -1466,6 +917,8 @@ Founder inbox empty. 3 fresh seo-proposals landed 13:40-13:41 UTC (#3681 Kit Ove
 2. L1/L2/L3 next due 2026-07-06 (Monday).
 3. Backlog now 3 eligible — still deep in promote-liberally band.
 
+---
+
 ## 2026-07-04 18:19 (state-confirm — anti-noise hold)
 - Backlog: 0 ai-fix · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 156 / 181 / 271 · GSC: 3,408 impr / 81 clicks / 2.38% CTR / pos 7.9 (unchanged vs 15:24 run)
@@ -1473,12 +926,16 @@ Founder inbox empty. 3 fresh seo-proposals landed 13:40-13:41 UTC (#3681 Kit Ove
 - Actions: none — #3681/#3682/#3683 (Kit Overview batch 16, Drummer Evolution batch 24, comparison pages) all merged since 15:24, fully draining the backlog. Founder inbox empty. Joey-jordison content-gap (107 impr, 0.93% CTR) unchanged, already covered by shipped fixes and trending as an L1 win. No SEO Agent self-labeling recurrence observed yet (only 1 prior anomaly at 15:24; nothing new landed to check against).
 - Next check: bank is empty and eligible for liberal promotion the instant SEO Agent refills it; L1/L2/L3 refresh due 2026-07-06.
 
+---
+
 ## 2026-07-04 19:28 (state-confirm — anti-noise hold, 2nd consecutive)
 - Backlog: 0 ai-fix · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 156 / 181 / 271 · GSC: 3,408 impr / 81 clicks / 2.38% CTR / pos 7.9 (unchanged vs 18:19 run)
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — founder inbox empty, no new seo-proposals since #3683, joey-jordison content-gap unchanged (already covered, trending win per L1). L1/L2/L3 still on 06-29/06-23 snapshots, next refresh 2026-07-06.
 - Next check: per hold rule, 3rd identical run skips logging entirely unless state changes.
+
+---
 
 ## 2026-07-04 20:30 — Backlog refilled 0→4, Kit Overview batches 17-20 promoted (roster pattern closes to 62/62)
 
@@ -1504,9 +961,14 @@ Founder inbox empty. Backlog was fully drained (0 eligible, 0 open PRs) since 18
 2. L1/L2/L3 next due 2026-07-06 (Monday) — check whether roster-complete Kit Overview coverage shows up as new L2 citation wins for the long-tail/session drummers.
 3. Backlog now 4 eligible — still deep in promote-liberally band.
 
+---
+
 ## 2026-07-04 22:17 (state-confirm — anti-noise hold)
 - Backlog: 4 ai-fix (#3687-3690, no PRs opened yet) · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 158 / 183 / 276 · GSC: 3,408 impr / 81 clicks / 2.38% CTR / pos 7.9 (unchanged vs 20:30 run)
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — founder inbox empty, no new seo-proposals since #3690, joey-jordison content-gap (107 impr, 0.93% CTR) unchanged and already covered. L1/L2/L3 still on 06-29/06-23 snapshots, next refresh 2026-07-06.
 - Next check: watch #3687-3690 for Ralph pickup; per hold rule, next identical run skips logging entirely.
+
+---
+

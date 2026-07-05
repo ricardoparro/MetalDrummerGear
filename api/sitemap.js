@@ -16,7 +16,7 @@ import { getAllTechniqueSlugs } from '../packages/frontend/data/techniques.js';
 // (rather than data/gearSeriesPages.js, which pulls in pricing/affiliate
 // helpers) and mirror that module's slug + dedupe logic verbatim so the URLs
 // emitted here resolve 1:1 with the live routes.
-import { GEAR_INDEX } from '../packages/frontend/data/gearIndex.js';
+import { GEAR_INDEX, GEAR_INDEX_BRAND_LEVEL } from '../packages/frontend/data/gearIndex.js';
 // Issue #1056: derive the signature-lick page + hub URLs directly from the
 // composed SIGNATURE_LICKS data (now modularized under data/licks/) instead of
 // hand-maintaining two parallel arrays here. New lick batches add a per-drummer
@@ -385,6 +385,11 @@ function slugifyGearSeries(str) {
     .replace(/^-+|-+$/g, '');
 }
 
+// Issue #3714: reserved series slug for the brand-level "drummers using" pages
+// (drumhead brands — Evans, Remo). Mirrors BRAND_LEVEL_SERIES_SLUG in
+// packages/frontend/data/gearSeriesPages.js.
+const BRAND_LEVEL_SERIES_SLUG = 'all-drumheads';
+
 function getGearSeriesUrls() {
   const seen = new Set();
   const urls = [];
@@ -398,6 +403,14 @@ function getGearSeriesUrls() {
       seen.add(key);
       urls.push(`/gear/${brandSlug}/${seriesSlug}/drummers-using`);
     }
+  }
+  for (const [brand, drummers] of Object.entries(GEAR_INDEX_BRAND_LEVEL)) {
+    if (!Array.isArray(drummers) || drummers.length < 2) continue;
+    const brandSlug = slugifyGearSeries(brand);
+    const key = `${brandSlug}/${BRAND_LEVEL_SERIES_SLUG}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    urls.push(`/gear/${brandSlug}/${BRAND_LEVEL_SERIES_SLUG}/drummers-using`);
   }
   return urls;
 }
@@ -612,6 +625,9 @@ export function buildSitemapXml() {
     { loc: '/llms/gear-comparison/drummers-using-dw-performance-maple.md', priority: '0.5', changefreq: 'monthly' },
     { loc: '/llms/gear-comparison/drummers-using-pearl-masters-maple.md', priority: '0.5', changefreq: 'monthly' },
     { loc: '/llms/gear-comparison/drummers-using-sonor-vintage.md', priority: '0.5', changefreq: 'monthly' },
+    // Issue #3714: drumhead brand-level LLM files (Evans ~31 drummers, Remo ~18 drummers).
+    { loc: '/llms/gear-comparison/drummers-using-evans.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/gear-comparison/drummers-using-remo.md', priority: '0.5', changefreq: 'monthly' },
     { loc: '/llms/tools/tier-list.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1351: name-generator LLM citation surface — metal drummer alias generator.
     { loc: '/llms/tools/name-generator.md', priority: '0.6', changefreq: 'monthly' },

@@ -5,11 +5,20 @@
 // "drummers using <brand> <series>" SEO landing pages. Data layer (#995)
 // lives in data/gearIndex.js; this module turns it into page-ready content.
 
-import { GEAR_INDEX } from './gearIndex';
+import { GEAR_INDEX, GEAR_INDEX_BRAND_LEVEL } from './gearIndex';
 import { GEAR_PRICES, EUR_TO_USD, formatPrice } from '../gearPrices';
 import { getThomannLink, getSweetwaterLink } from '../affiliateLinks';
 
 const BASE_URL = 'https://metalforge.io';
+
+// Issue #3714: reserved series slug for brand-level "drummers using" pages (drumhead
+// brands like Evans/Remo — see GEAR_INDEX_BRAND_LEVEL in gearIndex.js). The `heads`
+// field is almost always brand-only with no model, so these pages live one level up
+// from a real brand+series page. Folding them into the existing
+// /gear/<brand>/<series>/drummers-using route via a reserved slug (rather than a new
+// URL shape) needs zero new router surface in App.js.
+export const BRAND_LEVEL_SERIES_SLUG = 'all-drumheads';
+export const BRAND_LEVEL_SERIES_LABEL = 'Drumheads';
 
 // Lowercase, hyphen-separated slug. Drops punctuation so commas/quotes in
 // series strings don't leak into URLs.
@@ -39,6 +48,20 @@ function getSlugMap() {
       if (!map[brandSlug][seriesSlug]) {
         map[brandSlug][seriesSlug] = { brand, series, drummers };
       }
+    }
+  }
+  // Issue #3714: brand-level heads pages (Evans, Remo) at the reserved series slug.
+  for (const [brand, drummerList] of Object.entries(GEAR_INDEX_BRAND_LEVEL)) {
+    if (!Array.isArray(drummerList) || drummerList.length < 2) continue;
+    const brandSlug = slugifySeries(brand);
+    if (!map[brandSlug]) map[brandSlug] = {};
+    if (!map[brandSlug][BRAND_LEVEL_SERIES_SLUG]) {
+      map[brandSlug][BRAND_LEVEL_SERIES_SLUG] = {
+        brand,
+        series: BRAND_LEVEL_SERIES_LABEL,
+        drummers: drummerList,
+        isBrandLevel: true,
+      };
     }
   }
   _slugMap = map;
@@ -77,12 +100,13 @@ function estimateSeriesPrice(brand, series) {
     }
   }
   // Keyword-based category guess for unmatched series.
-  const defaults = { drums: 3000, snare: 500, cymbals: 2000, hardware: 800, sticks: 15 };
+  const defaults = { drums: 3000, snare: 500, cymbals: 2000, hardware: 800, sticks: 15, heads: 120 };
   let category = 'drums';
   if (/snare|s\.l\.p/.test(haystack)) category = 'snare';
   else if (/pedal|throne|stand|hardware|rack/.test(haystack)) category = 'hardware';
   else if (/cymbal|hi-?hat|ride|crash|china/.test(haystack)) category = 'cymbals';
   else if (/stick/.test(haystack)) category = 'sticks';
+  else if (/drumhead|\bhead(s)?\b/.test(haystack)) category = 'heads';
   return { eur: defaults[category], category };
 }
 
@@ -92,7 +116,7 @@ export function getGearSeriesData(brandSlug, seriesSlug, drummers = []) {
   const entry = getSlugMap()[brandSlug]?.[seriesSlug];
   if (!entry) return null;
 
-  const { brand, series } = entry;
+  const { brand, series, isBrandLevel } = entry;
   const drummerBySlug = {};
   const drummerById = {};
   for (const d of drummers || []) {
@@ -130,6 +154,26 @@ export function getGearSeriesData(brandSlug, seriesSlug, drummers = []) {
       url: `/gear/${brandSlug}/${otherSlug}/drummers-using`,
     });
   }
+  // Issue #3714: brand-level heads pages (Evans, Remo) have no sibling series under
+  // the same brand — cross-link the *other* drumhead brand's page instead, so the
+  // page still carries a "related gear page" internal link.
+  let relatedGuide = null;
+  if (isBrandLevel) {
+    for (const [otherBrand, otherDrummers] of Object.entries(GEAR_INDEX_BRAND_LEVEL)) {
+      if (otherBrand === brand || !Array.isArray(otherDrummers) || otherDrummers.length < 2) continue;
+      const otherBrandSlug = slugifySeries(otherBrand);
+      relatedSeries.push({
+        brandSlug: otherBrandSlug,
+        seriesSlug: BRAND_LEVEL_SERIES_SLUG,
+        brand: otherBrand,
+        series: BRAND_LEVEL_SERIES_LABEL,
+        drummerCount: otherDrummers.length,
+        url: `/gear/${otherBrandSlug}/${BRAND_LEVEL_SERIES_SLUG}/drummers-using`,
+        isBrandLevel: true,
+      });
+    }
+    relatedGuide = { title: 'Best Drum Heads for Metal', url: '/guides/best-drum-heads-for-metal' };
+  }
   relatedSeries.sort((a, b) => b.drummerCount - a.drummerCount);
 
   const affiliate = {
@@ -140,11 +184,13 @@ export function getGearSeriesData(brandSlug, seriesSlug, drummers = []) {
   const signatureDrummer = drummerList[0]?.name || '';
   const url = `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`;
 
-  const faq = buildFAQ({ brand, series, drummerList, priceLabel, relatedSeries });
+  const faq = buildFAQ({ brand, series, drummerList, priceLabel, relatedSeries, isBrandLevel });
 
   const data = {
     brand,
     series,
+    isBrandLevel: Boolean(isBrandLevel),
+    relatedGuide,
     brandSlug,
     seriesSlug,
     url,
@@ -161,26 +207,44 @@ export function getGearSeriesData(brandSlug, seriesSlug, drummers = []) {
   return data;
 }
 
-function buildFAQ({ brand, series, drummerList, priceLabel, relatedSeries }) {
+function buildFAQ({ brand, series, drummerList, priceLabel, relatedSeries, isBrandLevel }) {
   const names = drummerList.map((d) => d.name);
-  const proList = names.length > 2
-    ? `${names.slice(0, -1).join(', ')}, and ${names[names.length - 1]}`
-    : names.join(' and ');
+  // Issue #3714: brand-level pages (Evans, Remo) can list 18-31 drummers — cap the
+  // FAQ prose list so it stays readable; the full roster is still in the page body.
+  const nameSample = isBrandLevel ? names.slice(0, 8) : names;
+  const proList = nameSample.length > 2
+    ? `${nameSample.slice(0, -1).join(', ')}, and ${nameSample[nameSample.length - 1]}`
+    : nameSample.join(' and ');
+  const proListSuffix = isBrandLevel && names.length > nameSample.length
+    ? ` (and ${names.length - nameSample.length} more)`
+    : '';
+  // "the Evans Drumheads is/does" reads wrong for the plural brand-level label —
+  // use plural verb agreement there instead of forcing the shared singular template.
+  const verbBe = isBrandLevel ? 'are' : 'is';
+  const verbDo = isBrandLevel ? 'do' : 'does';
   const faq = [
     {
       question: `Which pro drummers use the ${brand} ${series}?`,
-      answer: `${drummerList.length} metal drummers in our database play the ${brand} ${series}, including ${proList}. Each profile lists their exact configuration and full kit.`,
+      answer: `${drummerList.length} metal drummers in our database play the ${brand} ${series}, including ${proList}${proListSuffix}. Each profile lists their exact configuration and full kit.`,
     },
     {
-      question: `How much does the ${brand} ${series} cost?`,
-      answer: `The ${brand} ${series} is estimated at around ${priceLabel} (street price). Actual pricing varies by retailer, finish, and configuration — check Thomann (EU) or Sweetwater (US) for current deals.`,
+      question: `How much ${verbDo} the ${brand} ${series} cost?`,
+      answer: `The ${brand} ${series} ${isBrandLevel ? 'are' : 'is'} estimated at around ${priceLabel} (street price). Actual pricing varies by retailer, finish, and configuration — check Thomann (EU) or Sweetwater (US) for current deals.`,
     },
     {
-      question: `Is the ${brand} ${series} good for metal drumming?`,
-      answer: `Yes — it is a proven choice in the metal scene, used by ${drummerList.length} of the drummers we track. ${names[0]} is among the signature players relying on this ${brand} gear for high-intensity playing.`,
+      question: `${verbBe === 'are' ? 'Are' : 'Is'} the ${brand} ${series} good for metal drumming?`,
+      answer: `Yes — ${verbBe === 'are' ? 'they are' : 'it is'} a proven choice in the metal scene, used by ${drummerList.length} of the drummers we track. ${names[0]} is among the signature players relying on this ${brand} gear for high-intensity playing.`,
     },
   ];
-  if (relatedSeries.length > 0) {
+  if (isBrandLevel && relatedSeries.length > 0) {
+    faq.push({
+      question: `What other drumhead brands do metal drummers use?`,
+      answer: `Beyond ${brand}, drummers in our database also rely on ${relatedSeries
+        .slice(0, 3)
+        .map((r) => r.brand)
+        .join(', ')} drumheads. See each brand's page for the full drummer list.`,
+    });
+  } else if (relatedSeries.length > 0) {
     faq.push({
       question: `What other ${brand} series do pros use?`,
       answer: `Beyond the ${series}, ${brand} players in our database also use the ${relatedSeries

@@ -20,6 +20,12 @@
  * intentionally mirrors the sibling generators in scripts/generate-llms-*.cjs so all
  * source-of-truth readers stay in sync.
  *
+ * Issue #3714: also builds GEAR_INDEX_BRAND_LEVEL, a brand-only index sourced from
+ * the `heads` field. Drumhead gear strings ("Evans", "Remo Emperor Coated") are almost
+ * always brand-only with no model/series, so forcing them into the brand→series
+ * nesting above would produce a degenerate series bucket (e.g. 'Evans'/'Evans'). See
+ * GEAR_INDEX_BRAND_LEVEL below — keyed by brand only, one page per brand.
+ *
  * No UI here — that's #871.b (#996). Run: `node scripts/build-gear-index.cjs`
  */
 
@@ -73,6 +79,33 @@ const BRANDS = [
 const ALIAS_TABLE = BRANDS.flatMap((b) =>
   b.aliases.map((alias) => ({ alias, aliasLower: alias.toLowerCase(), brand: b }))
 ).sort((a, b) => b.alias.length - a.alias.length);
+
+// Drumhead brands (issue #3714). Kept separate from BRANDS/ALIAS_TABLE above since
+// the `heads` field is parsed brand-only (see file header) — it never feeds the
+// brand→series nesting those tables exist for.
+const HEAD_BRANDS = [
+  { canonical: 'Evans', aliases: ['Evans'] },
+  { canonical: 'Remo', aliases: ['Remo'] },
+  { canonical: 'Attack Drumheads', aliases: ['Attack Drumheads'] },
+];
+const HEAD_ALIAS_TABLE = HEAD_BRANDS.flatMap((b) =>
+  b.aliases.map((alias) => ({ alias, aliasLower: alias.toLowerCase(), brand: b }))
+).sort((a, b) => b.alias.length - a.alias.length);
+
+// Match a known drumhead brand at the START of a `heads` gear string. Returns the
+// canonical brand name or null. Same word-boundary rule as matchBrand() below.
+function matchHeadBrand(str) {
+  const lower = str.toLowerCase();
+  for (const entry of HEAD_ALIAS_TABLE) {
+    if (lower.startsWith(entry.aliasLower)) {
+      const after = str.charAt(entry.alias.length);
+      if (after === '' || /[\s(,/-]/.test(after)) {
+        return entry.brand.canonical;
+      }
+    }
+  }
+  return null;
+}
 
 // --- Helpers ---------------------------------------------------------------------
 function drummerSlug(name) {
@@ -135,6 +168,11 @@ try {
 const index = {};
 const skipped = []; // gear strings whose brand we could not resolve
 
+// Issue #3714: headIndex[brand] = Map<drummerId, { id, name, slug, configString }>
+// Brand-only — no series level (see file header).
+const headIndex = {};
+const headsSkipped = [];
+
 for (const drummer of drummers) {
   const gear = drummer.gear || {};
   const slug = drummerSlug(drummer.name);
@@ -167,6 +205,25 @@ for (const drummer of drummers) {
       });
     }
   }
+
+  const headsRaw = gear.heads;
+  if (headsRaw && typeof headsRaw === 'string') {
+    const configString = headsRaw.trim();
+    const brand = matchHeadBrand(configString);
+    if (!brand) {
+      headsSkipped.push(configString);
+    } else {
+      headIndex[brand] = headIndex[brand] || new Map();
+      if (!headIndex[brand].has(drummer.id)) {
+        headIndex[brand].set(drummer.id, {
+          id: drummer.id,
+          name: drummer.name,
+          slug,
+          configString,
+        });
+      }
+    }
+  }
 }
 
 // --- Filter (>= MIN_DRUMMERS_PER_SERIES) and sort for stable output --------------
@@ -191,6 +248,19 @@ for (const brand of Object.keys(index).sort()) {
   }
 }
 
+// Issue #3714: brand-level heads index (>= MIN_DRUMMERS_PER_SERIES, same bar as series).
+const GEAR_INDEX_BRAND_LEVEL = {};
+let headBrandsKept = 0;
+let headDrummerLinks = 0;
+
+for (const brand of Object.keys(headIndex).sort()) {
+  const drummerList = [...headIndex[brand].values()].sort((a, b) => a.id - b.id);
+  if (drummerList.length < MIN_DRUMMERS_PER_SERIES) continue;
+  GEAR_INDEX_BRAND_LEVEL[brand] = drummerList;
+  headBrandsKept += 1;
+  headDrummerLinks += drummerList.length;
+}
+
 // --- Write packages/frontend/data/gearIndex.js -----------------------------------
 const outPath = path.join(__dirname, '../packages/frontend/data/gearIndex.js');
 const header = `/**
@@ -204,9 +274,15 @@ const header = `/**
  * Series used by fewer than ${MIN_DRUMMERS_PER_SERIES} drummers are omitted.
  *
  * Shape: GEAR_INDEX = { [brand]: { [series]: [{ id, name, slug, configString }] } }
+ *
+ * Issue #3714: GEAR_INDEX_BRAND_LEVEL is a sibling brand-only index sourced from the
+ * \`heads\` field (drumhead brands are almost always model-less — see file header).
+ * Shape: GEAR_INDEX_BRAND_LEVEL = { [brand]: [{ id, name, slug, configString }] }
  */
 
 export const GEAR_INDEX = ${JSON.stringify(GEAR_INDEX, null, 2)};
+
+export const GEAR_INDEX_BRAND_LEVEL = ${JSON.stringify(GEAR_INDEX_BRAND_LEVEL, null, 2)};
 
 export default GEAR_INDEX;
 `;
@@ -218,9 +294,17 @@ console.log(`✅ Wrote ${path.relative(path.join(__dirname, '..'), outPath)}`);
 console.log(
   `   ${Object.keys(GEAR_INDEX).length} brands, ${seriesKept} series (>=${MIN_DRUMMERS_PER_SERIES} drummers), ${drummerLinks} drummer links.`
 );
+console.log(
+  `   ${Object.keys(GEAR_INDEX_BRAND_LEVEL).length} brand-level heads brands (>=${MIN_DRUMMERS_PER_SERIES} drummers), ${headDrummerLinks} drummer links.`
+);
 if (skipped.length) {
   const uniqueSkipped = [...new Set(skipped)];
   console.log(`   ${uniqueSkipped.length} gear strings skipped (unknown brand):`);
   for (const s of uniqueSkipped.slice(0, 20)) console.log(`     - ${s}`);
   if (uniqueSkipped.length > 20) console.log(`     ... and ${uniqueSkipped.length - 20} more`);
+}
+if (headsSkipped.length) {
+  const uniqueHeadsSkipped = [...new Set(headsSkipped)];
+  console.log(`   ${uniqueHeadsSkipped.length} heads strings skipped (unknown brand):`);
+  for (const s of uniqueHeadsSkipped.slice(0, 20)) console.log(`     - ${s}`);
 }

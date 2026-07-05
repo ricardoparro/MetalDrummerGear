@@ -20,7 +20,9 @@ import SIGNATURE_LICKS from '../../packages/frontend/data/licks/index.js';
 // Issue #1210: top-10 list page SSR meta for /lists/<slug>.
 import { TOP_10_LISTS } from '../../packages/frontend/data/top10Lists.js';
 // Issue #1379: /gear/<brand>/<series>/drummers-using SSR meta (~40 pages).
-import { GEAR_INDEX } from '../../packages/frontend/data/gearIndex.js';
+// Issue #3714: GEAR_INDEX_BRAND_LEVEL adds brand-only "drummers using" pages
+// (Evans, Remo drumheads) at the reserved series slug (see BRAND_LEVEL_SERIES_SLUG).
+import { GEAR_INDEX, GEAR_INDEX_BRAND_LEVEL } from '../../packages/frontend/data/gearIndex.js';
 // Issue #1387: gear item drummer links — authoritative drummerIds live in the gear API.
 import { gearItems } from '../gear/[slug].js';
 // Issue #1451: HowTo JSON-LD + Article schema for /guides/how-to-sound-like-<slug> pages.
@@ -2942,6 +2944,90 @@ function getMetaForPath(pathname) {
               { '@type': 'ListItem', position: 2, name: 'Gear', item: `${BASE_URL}/gear` },
               { '@type': 'ListItem', position: 3, name: brandName, item: `${BASE_URL}/gear/${brandSlug}` },
               { '@type': 'ListItem', position: 4, name: `${brandName} ${seriesName} Drummers`, item: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using` },
+            ],
+          },
+        ]),
+      };
+    }
+  }
+
+  // Issue #3714: brand-level drumhead pages (Evans, Remo) at the reserved series
+  // slug 'all-drumheads'. Checked before the generic GEAR_INDEX handler below so
+  // these get accurate brand/count-driven meta instead of the slug-derived fallback.
+  const BRAND_LEVEL_SERIES_SLUG = 'all-drumheads';
+  const brandLevelDrummersMatch = path.match(/^\/gear\/([a-z0-9-]+)\/([a-z0-9-]+)\/drummers-using$/);
+  if (brandLevelDrummersMatch && brandLevelDrummersMatch[2] === BRAND_LEVEL_SERIES_SLUG) {
+    const [, brandSlug] = brandLevelDrummersMatch;
+    const slugify = (str) => String(str).toLowerCase().replace(/['"]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
+    let brandName = null;
+    let brandDrummers = null;
+    for (const [brand, drummerList] of Object.entries(GEAR_INDEX_BRAND_LEVEL)) {
+      if (slugify(brand) === brandSlug) {
+        brandName = brand;
+        brandDrummers = drummerList;
+        break;
+      }
+    }
+    if (brandName && Array.isArray(brandDrummers)) {
+      const label = `${brandName} Drumheads`;
+      const firstDrummer = brandDrummers[0]?.name || 'professional metal drummers';
+      const nameList = brandDrummers.length > 1
+        ? brandDrummers.slice(0, 8).map(d => d.name).join(', ')
+        : firstDrummer;
+      return {
+        title: `${brandDrummers.length} Drummers Who Use ${label} — Which Metal Drummers Play ${brandName}? | ${SITE_NAME}`,
+        description: `See the ${brandDrummers.length} pro metal drummers who use ${label}, their exact head models where known, and where to buy. Featuring ${firstDrummer} and more.`,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: `${BASE_URL}/gear/${brandSlug}/${BRAND_LEVEL_SERIES_SLUG}/drummers-using`,
+        articleSchema: JSON.stringify([
+          {
+            '@context': 'https://schema.org',
+            '@type': 'Product',
+            name: label,
+            brand: { '@type': 'Brand', name: brandName },
+            category: 'Drums & Percussion',
+            description: `${label} — used by ${brandDrummers.length} professional metal drummers.`,
+            url: `${BASE_URL}/gear/${brandSlug}/${BRAND_LEVEL_SERIES_SLUG}/drummers-using`,
+          },
+          {
+            '@context': 'https://schema.org',
+            '@type': 'ItemList',
+            name: `Metal Drummers Who Use ${label}`,
+            description: `Professional metal drummers who play ${label}.`,
+            url: `${BASE_URL}/gear/${brandSlug}/${BRAND_LEVEL_SERIES_SLUG}/drummers-using`,
+            numberOfItems: brandDrummers.length,
+            itemListElement: brandDrummers.map((d, i) => ({
+              '@type': 'ListItem',
+              position: i + 1,
+              name: d.name,
+              url: `${BASE_URL}/drummers/${d.slug}`,
+            })),
+          },
+          {
+            '@context': 'https://schema.org',
+            '@type': 'FAQPage',
+            mainEntity: [
+              {
+                '@type': 'Question',
+                name: `Which metal drummers use ${label}?`,
+                acceptedAnswer: { '@type': 'Answer', text: `${brandDrummers.length} metal drummers in the MetalForge database play ${label}, including ${nameList}.` },
+              },
+              {
+                '@type': 'Question',
+                name: `Is ${label} good for metal drumming?`,
+                acceptedAnswer: { '@type': 'Answer', text: `Yes — ${label} are a proven choice in the metal scene, used by ${brandDrummers.length} of the drummers we track.` },
+              },
+            ],
+          },
+          {
+            '@context': 'https://schema.org',
+            '@type': 'BreadcrumbList',
+            itemListElement: [
+              { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+              { '@type': 'ListItem', position: 2, name: 'Gear', item: `${BASE_URL}/gear` },
+              { '@type': 'ListItem', position: 3, name: brandName, item: `${BASE_URL}/gear/${brandSlug}` },
+              { '@type': 'ListItem', position: 4, name: `${label} Drummers`, item: `${BASE_URL}/gear/${brandSlug}/${BRAND_LEVEL_SERIES_SLUG}/drummers-using` },
             ],
           },
         ]),

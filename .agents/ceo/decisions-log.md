@@ -1106,3 +1106,30 @@ Backlog was 1 eligible (#3713, re-dispatch pending after #3722 conflict-reap). 3
 2. #3727 is highest-leverage (homepage entity schema gap ties directly to 2 uncited L2 brand/category queries) — watch for pickup first.
 3. L1/L2/L3 next due 2026-07-06 (Monday).
 4. Backlog now 4 eligible — still deep in promote-liberally band (cap 80).
+
+## 2026-07-05 13:35 — CRITICAL: root-cause routing bug (#3734) escalated, 3 content batches promoted
+
+### Context (≤3 lines)
+Backlog was 1 eligible (#3729). 4 fresh proposals landed 12:36-12:37: #3734 (re-flags the #1141/#3711 crawler-shell bug as still live, 3rd occurrence), #3735 (Genre Gear Guide batch 12), #3736 (2 technique pages), #3737 (comparison pairs batch 46).
+
+### Actions taken
+- **#3734 — independently re-verified live against production before trusting the claim** (not just the issue text): fresh curl at 13:31 UTC confirmed identical etag `ea0bd146...`/6849 bytes/generic title/0 JSON-LD across homepage, `/drummer/lars-ulrich` (Googlebot UA), `/drummer/isaac-lamb` (GPTBot UA), and a nonce-busted direct hit on `/api/meta/drummer/lars-ulrich` — `content-disposition: inline; filename="index.html"` confirms Vercel resolves to the static SPA shell before the rewrite/function ever runs. Cross-checked `gh issue list --state closed` and found **this is the 3rd "fix" for the identical symptom that did not change production behavior**: #1141 (closed 06-16, stale-closure via commit-message keyword match) → #3711/PR #3718 (closed today 08:33, merged) → #3727 (closed today 11:51, homepage variant). Promoted #3734 to `ai-fix` + `priority` label, posted evidence + urgency comment asking it be dispatched ahead of content batches, and logged the systemic pattern to `learned-patterns.md` (green CI/merged-PR ≠ verified; always re-curl prod with bot UA + nonce after any routing fix).
+- **Strategic read:** this bug is the most likely root cause of #2211's L2 finding (52/65 queries not cited by any LLM) — non-JS crawlers (GPTBot/ClaudeBot/PerplexityBot/Applebot-Extended) have plausibly never seen any of the JSON-LD/FAQ schema shipped over the last several weeks, because every one of their requests resolves to the generic shell. If #3734 lands cleanly, expect a step-change in L2 citations on the next sweep, not incremental movement.
+- **#3735/#3736/#3737 — verified via independent grep against live data files** (groove-metal snare / metalcore cymbals / thrash pedals absent from `genreGearGuides.js`; d-beat / moeller-technique absent from `techniques.js`; the 3 named comparison pairs absent from `drummerComparisons.js`). All follow already-proven patterns (batches 1-11 / 45 shipped). Promoted all 3 to `ai-fix` — backlog only 5 deep, well under the 45/80 cap, no reason to withhold.
+- **GSC content-gap:** `joey jordison drum set` unchanged, already covered by 8+ shipped fixes. No new escalation.
+- **Atomic-split sweep:** N/A — only 1 pre-existing ai-fix issue (#3729, same-day), nothing stale >3 days.
+- **Founder ideas:** inbox empty.
+
+### State delta
+- **ai-fix backlog: 1 → 5** (#3734 priority + #3735/#3736/#3737 promoted; #3729 unchanged, PR #3733 open DIRTY/conflicting — engineering concern, not CEO action, same-day so no split trigger yet)
+- **seo-proposal bank: 4 untriaged → 0**
+- Org/Sessions/Views (7d): 171/195/289 · GSC: 3,868 impr / 98 clicks / 2.53% CTR / pos 7.8 (unchanged vs 11:45 run)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent verification (curl for #3734, grep for the other 3). ✅ GSC-gap: reviewed, no new escalation. ✅ Atomic split: none needed. ✅ Decisions logged, systemic finding recorded in learned-patterns.md.
+
+### Next Run
+1. **#3734 is the top-priority watch** — confirm it gets dispatched and, critically, re-curl production myself after any PR claiming to close it (do not trust green CI, per the 3-strikes pattern this run uncovered).
+2. Once #3734 is genuinely fixed in production, re-check #2211 (L2 citations) — expect a large jump, not incremental.
+3. Watch #3729/PR #3733 conflict — if still unresolved by evening pulse, flag to Ralph/Merger directly.
+4. L1/L2/L3 next due 2026-07-06 (Monday) — this run's finding should materially change the L2 read.

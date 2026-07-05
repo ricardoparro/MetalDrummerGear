@@ -1345,6 +1345,824 @@ export const articles = {
         }
       ]
     }
+  },
+  "ithyphallic-drum-setup": {
+    "slug": "ithyphallic-drum-setup",
+    "albumTitle": "Ithyphallic",
+    "artist": "Nile",
+    "drummer": "George Kollias",
+    "drummerId": 6,
+    "relatedDrummerSlug": "george-kollias",
+    "year": 2007,
+    "genre": "Technical Death Metal / Brutal Death Metal",
+    "label": "Nuclear Blast",
+    "studio": "The Sound Lab, Columbia SC (tracking); Rax Trax Recording, Chicago IL (mixing)",
+    "producer": "Neil Kernon",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-05",
+    "dateModified": "2026-07-05",
+    "author": "MetalForge Editorial",
+    "title": "George Kollias Drum Setup: Nile's 'Ithyphallic' (2007) Gear Breakdown",
+    "description": "Discover the exact drum kit, cymbals, and pedals George Kollias used on Nile's 'Ithyphallic' (2007) — the band's Nuclear Blast debut and the final chapter of his original Tama Starclassic rig.",
+    "seoKeywords": [
+      "george kollias drum kit",
+      "ithyphallic drum setup",
+      "nile drummer gear 2007",
+      "george kollias tama starclassic",
+      "nile nuclear blast debut",
+      "george kollias meinl byzance",
+      "fastest death metal drummer",
+      "george kollias blast beats"
+    ],
+    "ogImage": "/images/drummers/george-kollias.webp",
+    "intro": {
+      "title": "Nile's Nuclear Blast Debut — and the Last Album on Kollias's Original Rig",
+      "content": "Released in July 2007, \"Ithyphallic\" is Nile's fifth studio album and the band's first release for Nuclear Blast Records, following their departure from Relapse Records after \"Annihilation of the Wicked.\" Neil Kernon returned to produce, tracking the album at The Sound Lab in Columbia, South Carolina and mixing at Rax Trax Recording in Chicago — the same production partnership that had defined George Kollias's explosive 2005 debut with the band.\n\nFor Kollias, \"Ithyphallic\" occupies a specific place in his gear timeline: it is the last Nile studio album performed in full on the Tama Starclassic Maple / DW 9002 configuration he introduced on \"Annihilation of the Wicked.\" By the time Nile returned to the studio for \"Those Whom the Gods Detest\" in 2009, Kollias had transitioned to Pearl Reference Maple shells and Pearl Demon Drive pedals — a shift that makes \"Ithyphallic\" the closing statement of his earliest Nile-era equipment.\n\nTracks like the title cut \"Ithyphallic,\" the relentless \"As He Creates So He Destroys,\" and the punishing \"Eat of the Dead\" show a drummer refining rather than reinventing — the same blast beat vocabulary and heel-toe foundation from the debut, now delivered with two additional years of touring seasoning behind it. \"Papyrus Containing the Spell to Preserve Its Possessor Against Attacks from He Who Is in the Water\" remains one of the most technically discussed Nile drum tracks of the era for its rhythmic density.\n\nThis article breaks down every piece of gear George Kollias used during the \"Ithyphallic\" sessions, the techniques that carried over and evolved from his debut, and why this overlooked bridge album matters for understanding the complete arc of his equipment history with Nile.",
+      "keyPoints": [
+        "Nile's fifth studio album, released July 2007 — the band's first for Nuclear Blast Records",
+        "Neil Kernon returns to produce, tracking at The Sound Lab in Columbia, South Carolina",
+        "The final full Nile album on Kollias's original Tama Starclassic Maple / DW 9002 rig",
+        "Key tracks: \"Ithyphallic,\" \"As He Creates So He Destroys,\" \"Eat of the Dead\"",
+        "Bridges the technical vocabulary of \"Annihilation of the Wicked\" into the Pearl-era sound of \"Those Whom the Gods Detest\""
+      ]
+    },
+    "drumKit": {
+      "title": "George's 2007 Kit: Tama Starclassic Maple, One Last Time",
+      "brand": "Tama",
+      "model": "Tama Starclassic Maple",
+      "finish": "Midnight Black",
+      "config": {
+        "bassdrums": [
+          "22\" x 16\" Bass Drum (x2 — double kick)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 12\" Floor Tom",
+          "16\" x 14\" Floor Tom"
+        ],
+        "shells": "Select maple shells — Star-Cast mounting system"
+      },
+      "description": "George Kollias carried the same Tama Starclassic Maple kit from \"Annihilation of the Wicked\" into the \"Ithyphallic\" sessions two years later. By 2007, the kit was thoroughly road-tested — two years of touring the debut album had let Kollias settle on tuning and head choices with a confidence that a brand-new kit simply can't offer on its first outing.\n\nThe double 22\" bass drum configuration remained unchanged, still delivering the independent per-foot control that Kollias's heel-toe technique depends on. Neil Kernon's returning production team knew exactly how to mic this kit from the first album, which meant the \"Ithyphallic\" sessions could focus on performance rather than re-learning the instrument's recorded character from scratch.\n\nThe compact tom configuration — 10\", 12\", 14\", 16\" — again prioritized reach efficiency over tonal range, a deliberate choice for a drummer whose value proposition is sustained extreme speed rather than expansive melodic tom work. Star-Cast suspension kept the toms resonating freely, an important detail on tracks like \"Papyrus Containing the Spell to Preserve Its Possessor Against Attacks from He Who Is in the Water,\" where tom fills punctuate otherwise relentless blast sections.\n\nWithin two years of \"Ithyphallic,\" this exact kit configuration would be retired in favor of Pearl Reference Maple — making this album the final complete studio document of Kollias's original Nile-era rig.",
+      "notes": [
+        "Same Tama Starclassic Maple kit as \"Annihilation of the Wicked\" — now fully road-tested",
+        "Double 22\" kick drums unchanged — independent per-foot control",
+        "Star-Cast suspension for free-resonating toms on tom-fill-heavy tracks",
+        "Final studio album on this configuration before the 2009 Pearl Reference Maple transition",
+        "Neil Kernon's returning production familiarity streamlined the recording process"
+      ],
+      "estimatedValue": "$3,500–5,000 (Starclassic Maple shell pack, 2007 era)"
+    },
+    "snare": {
+      "title": "The Snare: Steel, Unchanged from the Debut",
+      "brand": "Tama",
+      "model": "Tama Starphonic Steel",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "George Kollias's snare choice on \"Ithyphallic\" carried directly over from \"Annihilation of the Wicked\": a 14\" x 6.5\" steel-shelled drum chosen for the bright, cutting attack that steel delivers over wood at extreme blast beat tempos. Two years of live performance had let Kollias fine-tune the exact tension that balances crack against body, and that refinement is audible across \"Ithyphallic\"'s densest sections.\n\nThe medium-high tuning approach from the debut persisted — enough tension for immediate articulation on every stroke, not so much that the drum's fundamental pitch thins out. Neil Kernon's engineering team again used a dual-mic approach (batter-side SM57 plus an underside mic for snare wire detail) to capture the drum's full character, a technique proven on the first album and simply repeated here with the confidence of prior success.\n\nWhile this steel snare would soon give way to the Pearl Free-Floating model Kollias adopted for \"Those Whom the Gods Detest,\" \"Ithyphallic\" represents its final studio appearance — the last Nile record where the crack heard on \"Eat of the Dead\" and \"Laying Fire Upon Apep\" comes from this specific drum.",
+      "tuningSetting": "Medium-high tension, carried over unchanged from the 2005 debut sessions",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$300–450 (steel snare, 2007 era)"
+    },
+    "cymbals": {
+      "title": "The Meinl Cymbal Arsenal: Still the Original Voice",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl 14\" Byzance Medium Hi-Hats",
+          "position": "Left side",
+          "notes": "Clear chick and closed articulation for blast beats, unchanged from the debut"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 17\" Byzance Medium Thin Crash",
+          "position": "Left of hi-hats",
+          "notes": "Fast response, musical decay for accent work"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Byzance Medium Crash",
+          "position": "Over rack toms",
+          "notes": "Primary crash for section accents"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 19\" Byzance Medium Heavy Crash",
+          "position": "Right of toms",
+          "notes": "Full crash for major section endings"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl 20\" Byzance Medium Ride",
+          "position": "Far right",
+          "notes": "Clear stick definition for ride patterns"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" Byzance China",
+          "position": "Above floor tom",
+          "notes": "Aggressive trashy accents between blast sections"
+        }
+      ],
+      "description": "\"Ithyphallic\" finds George Kollias playing the same Meinl Byzance configuration established on \"Annihilation of the Wicked\" — a cymbal voice that would remain his exclusive setup for years to come, well past this album and into the Pearl-kit era that followed.\n\nThe Byzance hi-hats continued to provide the articulation Kollias's blast beats demand: clear, defined strokes even as tempos push past 240 BPM. On \"As He Creates So He Destroys,\" the hi-hat work stays legible through sections that would smear on a lesser-quality pair.\n\nThe crash spread — 17\" through 19\" — gave Kollias the same dynamic range he'd relied on since his debut, providing quick accents and full-weight section endings across \"Ithyphallic\"'s dense arrangement. The 20\" Byzance ride handled the album's more measured, hypnotic passages, particularly on the title track where Nile's Egyptological atmosphere calls for controlled restraint between blast sections.\n\nThe 18\" Byzance China punctuated the album's most aggressive transitions, an unchanged texture in Kollias's sonic vocabulary that would persist through his entire Meinl era.",
+      "estimatedValue": "$1,800–2,500 total (Byzance setup, 2007 era)"
+    },
+    "hardware": {
+      "title": "The DW 9002, Still Powering the Attack",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "DW",
+          "model": "DW 9002 Double Bass Drum Pedal",
+          "notes": "Same chain-drive pedal from the debut — now dialed in after two years of touring",
+          "description": "George Kollias continued performing on the DW 9002 double bass pedal for \"Ithyphallic,\" the same chain-drive system he introduced on \"Annihilation of the Wicked.\" Two additional years of touring had let him settle on exact spring tension and beater angle settings that suited his heel-toe technique at its most refined pre-Pearl stage. This is the final Nile studio album on the DW 9002 before Kollias transitioned to Pearl Demon Drive pedals for \"Those Whom the Gods Detest\" — a shift driven by his growing demand for direct-drive response at the extreme tempos his technique was reaching."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "DW",
+          "model": "DW 9500 Hi-Hat Stand",
+          "notes": "Heavy-duty stand with drop clutch, unchanged from the debut"
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama HT550B 1st Chair Drum Throne",
+          "notes": "Ergonomic support for extended extreme metal sessions"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Standard 5B — five years before the Vic Firth SGK signature model debuted in 2012"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter), Remo Powerstroke 3 ported (resonant)",
+        "toms": "Remo Ambassador Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "technique": {
+      "title": "Techniques on Ithyphallic: Refinement Over Reinvention",
+      "content": "\"Ithyphallic\" captures George Kollias two years and one album cycle into his Nile tenure — no longer the new arrival announcing himself, but a drummer refining a technical vocabulary that had already proven itself on \"Annihilation of the Wicked.\"\n\n**Heel-Toe Technique at Two Years' Maturity:**\nThe heel-toe double bass technique that defined Kollias's debut appears throughout \"Ithyphallic\" with noticeably greater consistency. On \"Eat of the Dead\" and \"As He Creates So He Destroys,\" the sustained kick patterns show the stroke-to-stroke evenness that comes from two years of nightly repetition on the road rather than a technique still being proven in the studio for the first time.\n\n**Gravity Blast Continuity:**\nThe gravity blast approach from the debut carries directly into \"Ithyphallic,\" with Kollias continuing to favor natural stick rebound over driven strokes for the album's most extreme blast passages. \"Laying Fire Upon Apep\" showcases this technique at its most sustained, the cascading quality of the gravity roll unmistakable across the track's blast-heavy midsection.\n\n**Polyrhythmic Density:**\n\"Papyrus Containing the Spell to Preserve Its Possessor Against Attacks from He Who Is in the Water\" is frequently cited by fans and drum forums as one of the most rhythmically dense tracks of Kollias's early Nile catalog. The song layers polyrhythmic hand patterns over sustained double-bass foundations, a continuation of the compositional complexity introduced on the debut but pushed further into Nile's Egyptological arrangement style.\n\n**A Bridge, Not a Reinvention:**\nWhat distinguishes \"Ithyphallic\" technically is exactly what makes it easy to overlook: there is no dramatic technical leap forward, no new signature move introduced. Instead, the album demonstrates a drummer consolidating gains — tightening timing, deepening endurance, and preparing (without yet knowing it) for the equipment transition that would define his next studio outing.",
+      "tips": [
+        "Two years of touring a technique produces measurably tighter execution than the studio debut alone",
+        "Gravity blasts remain most effective when the wrist stays relaxed and trusts natural rebound",
+        "Dense polyrhythmic passages reward isolating hand patterns from foot patterns in practice",
+        "Consolidation albums matter: refining an existing technique is as valuable as introducing a new one",
+        "Consistent gear across an album cycle lets a drummer focus entirely on performance, not adaptation"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Ithyphallic",
+        "bpm": "200–240",
+        "signature": "4/4 with Egyptian-influenced rhythmic figures",
+        "highlights": [
+          "Title track opens with a controlled, hypnotic groove before shifting into full blast intensity",
+          "Byzance ride cymbal carries the track's more measured, atmospheric sections",
+          "Demonstrates dynamic range between restraint and full-speed blast beats",
+          "Tama Starclassic Maple tone anchors the track's heavier passages"
+        ],
+        "gearNotes": "Meinl Byzance ride definition supports the title track's atmospheric mid-tempo sections. DW 9002 double bass consistency drives the transition into blast intensity."
+      },
+      {
+        "track": "As He Creates So He Destroys",
+        "bpm": "220–250",
+        "signature": "4/4 — sustained blast density",
+        "highlights": [
+          "One of the album's most direct blast beat showcases",
+          "Hi-hat articulation remains clear even at maximum tempo",
+          "Heel-toe double bass shows two years of touring refinement over the debut",
+          "Steel snare crack cuts cleanly through dense guitar layering"
+        ],
+        "gearNotes": "Steel snare's fast decay is critical at this tempo. DW 9002 chain-drive action, fully dialed in after two years on the road, delivers consistent stroke dynamics."
+      },
+      {
+        "track": "Eat of the Dead",
+        "bpm": "210–240",
+        "signature": "4/4 with tom-driven transitions",
+        "highlights": [
+          "Tom fills punctuate transitions between the track's riff sections",
+          "Star-Cast tom suspension preserves sustain during melodic fill passages",
+          "Gravity blast technique appears in the track's most extreme sections",
+          "Demonstrates Kollias's continued command of dynamic contrast"
+        ],
+        "gearNotes": "Star-Cast suspension keeps the Starclassic toms resonating freely during fills. Byzance crash spread punctuates section transitions."
+      },
+      {
+        "track": "Papyrus Containing the Spell to Preserve Its Possessor Against Attacks from He Who Is in the Water",
+        "bpm": "220–260",
+        "signature": "4/4 with polyrhythmic overlay",
+        "highlights": [
+          "Widely cited as one of the most rhythmically dense tracks of Kollias's early Nile catalog",
+          "Polyrhythmic hand patterns layered over sustained double-bass foundations",
+          "Longest sustained technical passage on the album",
+          "A reference track for drummers studying Kollias's pre-Pearl technical vocabulary"
+        ],
+        "gearNotes": "The Tama Starclassic Maple's projection carries the track's dense arrangement. DW 9002 endurance is tested across the track's extended technical passages."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit does George Kollias use on Ithyphallic?",
+        "answer": "On Nile's 'Ithyphallic' (2007, Nuclear Blast), George Kollias played the same Tama Starclassic Maple kit he introduced on 'Annihilation of the Wicked' (2005) — a double 22\" kick drum setup with 10/12\" rack toms and 14/16\" floor toms. This is the final Nile studio album on this configuration before Kollias transitioned to Pearl Reference Maple shells on 'Those Whom the Gods Detest' (2009). See the earlier album's breakdown: [Annihilation of the Wicked drum setup](/articles/george-kollias-nile-annihilation-drum-setup)."
+      },
+      {
+        "question": "How fast does George Kollias play on Ithyphallic?",
+        "answer": "George Kollias sustains blast beats in the 220–260 BPM range across 'Ithyphallic,' with tracks like 'Papyrus Containing the Spell to Preserve Its Possessor Against Attacks from He Who Is in the Water' and 'As He Creates So He Destroys' representing the album's most demanding sustained passages. Kollias is Guinness World Record-certified for sustaining 280 BPM single strokes — by 2007, two years of touring 'Annihilation of the Wicked' had already sharpened the consistency behind that speed. Full technique breakdown: [George Kollias at MetalForge](/drummer/george-kollias)."
+      },
+      {
+        "question": "What cymbals and pedals does George Kollias use on Ithyphallic?",
+        "answer": "George Kollias played Meinl Byzance cymbals on 'Ithyphallic' (2007) — 14\" Medium hi-hats, a 17\"/18\"/19\" crash spread, a 20\" Medium ride, and an 18\" China, identical to his debut-album setup. His bass drum pedal was the DW 9002 double pedal, also carried over from 'Annihilation of the Wicked.' Both would be replaced during the transition to Pearl gear captured on 'Those Whom the Gods Detest' (2009)."
+      },
+      {
+        "question": "Why is Ithyphallic significant in George Kollias's gear history?",
+        "answer": "'Ithyphallic' (2007) is the final Nile studio album performed in full on George Kollias's original Tama Starclassic Maple / DW 9002 rig — the equipment that launched his career on 'Annihilation of the Wicked' (2005). It closes out his earliest Nile-era gear chapter before the Pearl Reference Maple and Demon Drive transition documented on 'Those Whom the Gods Detest' (2009). For the full gear evolution, see: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)."
+      },
+      {
+        "question": "What is Nile's Ithyphallic and why does it matter?",
+        "answer": "'Ithyphallic' (2007) is Nile's fifth studio album and the band's first release for Nuclear Blast Records, produced by Neil Kernon at The Sound Lab in Columbia, South Carolina. For drumming specifically, it represents George Kollias consolidating the technical vocabulary he introduced on 'Annihilation of the Wicked' — tighter execution, deeper endurance, and the same gear, one final time. Compare it to Kollias's later peak-era work: [Those Whom the Gods Detest drum setup](/articles/those-whom-the-gods-detest-drum-setup)."
+      }
+    ],
+    "relatedAlbums": [
+      "george-kollias-nile-annihilation-drum-setup",
+      "those-whom-the-gods-detest-drum-setup",
+      "whats-in-george-kollias-kit"
+    ],
+    "relatedDrummers": [
+      3,
+      23,
+      4
+    ],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "fastest-metal-drummers",
+      "extreme-metal-drums"
+    ],
+    "conclusion": {
+      "title": "The Quiet Bridge Album",
+      "content": "\"Ithyphallic\" rarely leads discussions of Nile's essential albums, but for anyone tracing George Kollias's gear and technique history, it fills an essential gap. It is the last complete studio document of the rig that launched his career — the Tama Starclassic Maple, the DW 9002, the Meinl Byzance cymbal voice, the standard Vic Firth 5B — before every one of those pieces began giving way to the Pearl-era equipment that would define the rest of his Nile tenure.\n\nKey takeaways for drummers studying this album:\n\n- **Consolidation matters**: \"Ithyphallic\" shows that refining an existing technique over a full album cycle is as valuable as introducing a new one\n- **Gear continuity has a cost and a benefit**: keeping the same rig from the debut let Kollias focus entirely on performance, but the eventual Pearl transition suggests real limits were being reached\n- **\"Papyrus...\"** remains a benchmark polyrhythmic track worth close study for drummers working on hand-foot independence\n- **The DW 9002's final chapter**: this album is the last place to hear Kollias's original pedal platform before the Demon Drive era began\n\nInternal links for the complete George Kollias picture:\n- **Full drummer profile**: [George Kollias at MetalForge](/drummer/george-kollias)\n- **Debut Nile album**: [Annihilation of the Wicked drum setup (2005)](/articles/george-kollias-nile-annihilation-drum-setup)\n- **Next chapter — the Pearl transition**: [Those Whom the Gods Detest drum setup (2009)](/articles/those-whom-the-gods-detest-drum-setup)\n- **Current complete gear**: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)\n\nThe legend wasn't only built on the loudest albums. Sometimes it was built on the quiet ones that consolidated the gains."
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "George Kollias Drum Setup: Nile's 'Ithyphallic' (2007) Gear Breakdown",
+          "description": "Discover the exact drum kit, cymbals, and pedals George Kollias used on Nile's 'Ithyphallic' (2007) — the band's Nuclear Blast debut and the final chapter of his original Tama Starclassic rig.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-05",
+          "dateModified": "2026-07-05"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://metalforge.io"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Articles",
+              "item": "https://metalforge.io/articles"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Ithyphallic Drum Setup",
+              "item": "https://metalforge.io/articles/ithyphallic-drum-setup"
+            }
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Ithyphallic",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Nile"
+          },
+          "datePublished": "2007-07-17",
+          "genre": "Technical Death Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Nuclear Blast"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "What Can Be Safely Written"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "As He Creates So He Destroys"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Ithyphallic"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Papyrus Containing the Spell to Preserve Its Possessor Against Attacks from He Who Is in the Water"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Eat of the Dead"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Laying Fire Upon Apep"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "The Essential Salts"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "The Infinity of Stone"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Language of the Shadows"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Even the Gods Must Die"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "George Kollias",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Nile"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drum kit does George Kollias use on Ithyphallic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "George Kollias played the same Tama Starclassic Maple kit on 'Ithyphallic' (2007) that he introduced on 'Annihilation of the Wicked' (2005) — double 22\" bass drums, 10/12\" rack toms, and 14/16\" floor toms. This is the final Nile album on this configuration before his Pearl Reference Maple transition."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How fast does George Kollias play on Ithyphallic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "George Kollias sustains blast beats in the 220–260 BPM range on 'Ithyphallic,' with 'Papyrus Containing the Spell...' and 'As He Creates So He Destroys' representing the album's most demanding passages. He is Guinness World Record-certified for sustaining 280 BPM single strokes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals and pedals does George Kollias use on Ithyphallic?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "George Kollias used Meinl Byzance cymbals — 14\" Medium hi-hats, a 17\"/18\"/19\" crash spread, a 20\" Medium ride, and an 18\" China — and a DW 9002 double bass drum pedal, both carried over unchanged from 'Annihilation of the Wicked' (2005)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why is Ithyphallic significant in George Kollias's gear history?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "'Ithyphallic' (2007) is the final Nile studio album on George Kollias's original Tama Starclassic Maple / DW 9002 rig, closing out his earliest Nile-era equipment chapter before the Pearl Reference Maple transition captured on 'Those Whom the Gods Detest' (2009)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is Nile's Ithyphallic and why does it matter?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "'Ithyphallic' (2007) is Nile's fifth studio album and first release for Nuclear Blast Records, produced by Neil Kernon. For drumming, it shows George Kollias consolidating the technical vocabulary from his debut with two additional years of touring refinement."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "vile-nilotic-rites-drum-setup": {
+    "slug": "vile-nilotic-rites-drum-setup",
+    "albumTitle": "Vile Nilotic Rites",
+    "artist": "Nile",
+    "drummer": "George Kollias",
+    "drummerId": 6,
+    "relatedDrummerSlug": "george-kollias",
+    "year": 2019,
+    "genre": "Technical Death Metal / Brutal Death Metal",
+    "label": "Nuclear Blast",
+    "studio": "Serpent Headed Studios, Greenville SC; drum tracking at Esoteron Music Studio, Athens, Greece",
+    "producer": "Karl Sanders",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-05",
+    "dateModified": "2026-07-05",
+    "author": "MetalForge Editorial",
+    "title": "George Kollias Drum Setup: Nile's 'Vile Nilotic Rites' (2019) Gear Breakdown",
+    "description": "Discover the exact drum kit, cymbals, and pedals George Kollias used on Nile's 'Vile Nilotic Rites' (2019) — the album where his Pearl Masterworks Stadium Exotic kit and the first Zildjian pieces entered his rig.",
+    "seoKeywords": [
+      "george kollias drum kit",
+      "how fast does george kollias play",
+      "vile nilotic rites drum setup",
+      "nile drummer gear 2019",
+      "george kollias pearl masterworks",
+      "george kollias demon xr",
+      "george kollias zildjian",
+      "nile 2019 album drums",
+      "george kollias blast beats"
+    ],
+    "ogImage": "/images/drummers/george-kollias.webp",
+    "intro": {
+      "title": "Nile's Most Recent Studio Statement — and Kollias's Modern Rig Arrives",
+      "content": "Released November 1, 2019, on Nuclear Blast Records, \"Vile Nilotic Rites\" is Nile's ninth studio album and, notably, the first Nile record produced entirely by guitarist Karl Sanders rather than longtime producer Neil Kernon. Main tracking took place at Sanders's own Serpent Headed Studios in Greenville, South Carolina, while George Kollias's drum tracks were recorded separately at Esoteron Music Studio in Athens, Greece — Kollias's home country — a logistical arrangement that reflects how thoroughly established his home-turf recording relationships had become by this point in his career.\n\nFor Kollias's gear history, \"Vile Nilotic Rites\" is a pivotal transition album. The Pearl Reference Maple kit that had served him since 2009 gave way here to the Pearl Masterworks Stadium Exotic — the shell package that remains his flagship kit today. Just as significantly, this is the album where the first Zildjian cymbals entered his setup, appearing alongside his long-standing Meinl Byzance pieces rather than replacing them outright — the beginning of the transition that would eventually produce his current all-Zildjian cymbal voice.\n\nTracks like the title cut \"Vile Nilotic Rites,\" the sprawling \"The Oxford Handbook of Savage Genocidal Warfare,\" and \"Seven Horns of War\" showcase a drummer operating at the far end of a fifteen-year Nile tenure, executing with a precision that only comes from that much accumulated stage time. \"Seven Horns of War\" in particular has become a frequently cited reference for Kollias's blast beat consistency at extreme tempo.\n\nThis article breaks down every piece of gear George Kollias used during the \"Vile Nilotic Rites\" sessions, the mid-album cymbal transition captured for the first time on record, and why this album — Nile's most recent studio full-length — completes the arc of Kollias's evolving equipment history.",
+      "keyPoints": [
+        "Nile's ninth studio album, released November 1, 2019 on Nuclear Blast Records",
+        "First Nile album produced entirely by guitarist Karl Sanders rather than Neil Kernon",
+        "Drum tracking took place at Esoteron Music Studio in Kollias's native Athens, Greece",
+        "Marks Kollias's kit transition from Pearl Reference Maple to the Pearl Masterworks Stadium Exotic",
+        "The first Nile album to feature Zildjian cymbals alongside his long-standing Meinl Byzance setup",
+        "Key tracks: \"Vile Nilotic Rites,\" \"Seven Horns of War,\" \"The Oxford Handbook of Savage Genocidal Warfare\""
+      ]
+    },
+    "drumKit": {
+      "title": "George's 2019 Kit: The Pearl Masterworks Stadium Exotic Arrives",
+      "brand": "Pearl",
+      "model": "Pearl Masterworks Stadium Exotic",
+      "finish": "Piano Black with Gold Hardware",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 for live shows)"
+        ],
+        "toms": [
+          "10\" x 8\" Tom",
+          "12\" x 9\" Tom"
+        ],
+        "floorToms": [
+          "14\" x 12\" Floor Tom",
+          "16\" x 14\" Floor Tom"
+        ],
+        "shells": "Maple/Birch hybrid shells"
+      },
+      "description": "\"Vile Nilotic Rites\" marks George Kollias's move to the Pearl Masterworks Stadium Exotic — the maple/birch hybrid kit that remains his flagship setup to this day. After a decade on Pearl Reference Maple across \"Those Whom the Gods Detest,\" \"At the Gate of Sethu,\" and touring cycles between them, Kollias upgraded to Pearl's premium Masterworks line for the demands of an increasingly rhythmically complex Nile catalog.\n\nThe maple/birch hybrid shell construction gave Kollias something the pure-maple Reference series couldn't fully offer: birch's brighter attack for cutting through Nile's dense, down-tuned guitar work, combined with maple's warmth for musical body. Recording drums separately at Esoteron Music Studio in Athens meant the kit had to hold its recorded character independent of the main tracking sessions in South Carolina — a demand the Masterworks Stadium's projection and consistency met without compromise.\n\nThe double 22\" x 18\" bass drum configuration deepened slightly from the 22\" x 16\" depth of his earlier kits, adding low-end authority appropriate to \"Vile Nilotic Rites\"'s heavier production. The compact 10\"/12\" rack tom and 14\"/16\" floor tom spread carried over the same reach-efficient philosophy Kollias had maintained since \"Annihilation of the Wicked\" — proof that some elements of his setup, once proven, simply don't need to change.\n\nOptiMount suspension on the toms preserved free resonance for the album's more melodic passages, a detail that matters on tracks like \"That Which Is Forbidden,\" where tom work carries real compositional weight rather than serving as pure transition filler.",
+      "notes": [
+        "Pearl Masterworks Stadium Exotic — flagship upgrade from a decade on Reference Maple",
+        "Maple/birch hybrid shells for balanced attack and warmth in dense mix contexts",
+        "Deepened 22\" x 18\" bass drums for added low-end authority",
+        "OptiMount suspension carried over for free-resonating melodic tom passages",
+        "This kit remains Kollias's current flagship setup, unchanged since this album"
+      ],
+      "estimatedValue": "$8,000–12,000 (Pearl Masterworks Stadium Exotic, complete kit)"
+    },
+    "snare": {
+      "title": "The Snare: Pearl Free-Floating, Its Final Studio Chapter",
+      "brand": "Pearl",
+      "model": "Pearl Free-Floating Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel (Free-Floating shell system)",
+      "description": "George Kollias played the Pearl Free-Floating 14\" x 6.5\" snare on \"Vile Nilotic Rites\" — the same model he'd relied on since \"Those Whom the Gods Detest\" (2009) — three album cycles into a decade of accumulated familiarity with the drum's independent-resonance design. This is the snare's final appearance on a Nile studio album before Pearl released a dedicated George Kollias signature snare in 2022, retiring the Free-Floating model from his primary setup.\n\nThe Free-Floating shell's isolation from lug and throw-off hardware continued to deliver the even, hardware-damping-free response that Kollias's blast beat technique depends on. Recorded separately at Esoteron Music Studio rather than alongside the rest of the band, the snare's consistency mattered even more than usual — Kollias needed a drum whose character translated identically regardless of room or engineer, and a decade of touring with this exact model meant there were no surprises to manage.\n\nThe tuning approach remained medium-high tension, consistent with every prior album since 2009, giving \"Seven Horns of War\" and the title track the same crack and immediacy that had defined his sound for a decade. It is a fitting closing chapter for a drum that served three full Nile album cycles before giving way to Kollias's own signature model.",
+      "tuningSetting": "Medium-high tension, unchanged since 2009 — final studio use before the 2022 signature snare",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$500–700 (Pearl Free-Floating snare, 2019 era)"
+    },
+    "cymbals": {
+      "title": "The Cymbal Transition: Zildjian Arrives Alongside Meinl",
+      "brand": "Meinl / Zildjian (transitional setup)",
+      "series": "Meinl Byzance / Zildjian K Mastersound & A Custom",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian 14\" K Mastersound Hi-Hats",
+          "position": "Left side",
+          "notes": "First Zildjian piece to enter Kollias's setup — clear articulation at extreme speeds"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 17\" Byzance Medium Thin Crash",
+          "position": "Left of hi-hats",
+          "notes": "Long-standing Byzance piece, retained through the transition"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Byzance Medium Crash",
+          "position": "Over rack toms",
+          "notes": "Primary crash, retained from the Byzance era"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 19\" Byzance Medium Heavy Crash",
+          "position": "Right of toms",
+          "notes": "Full crash for major section endings, retained from the Byzance era"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian 21\" A Custom Mega Bell Ride",
+          "position": "Far right",
+          "notes": "Second Zildjian piece adopted — powerful bell for hypnotic, atmospheric sections"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" Byzance China",
+          "position": "Above floor tom",
+          "notes": "Retained Byzance piece for aggressive accents"
+        }
+      ],
+      "description": "\"Vile Nilotic Rites\" documents the beginning of George Kollias's shift away from an exclusively Meinl Byzance setup — a cymbal voice that had defined every Nile studio album since 2005. Rather than switching outright, Kollias introduced two Zildjian pieces into an otherwise Byzance configuration: the K Mastersound hi-hats and the A Custom Mega Bell Ride, both of which remain part of his current all-Zildjian setup documented on his complete gear breakdown.\n\nThe K Mastersound hi-hats were the first piece to change, and the choice reveals what Kollias was prioritizing: the wavy bottom cymbal's articulation at extreme tempo, where every stroke needs to speak individually even past 240 BPM. It's the piece of a cymbal setup most exposed on every single blast beat, making it a logical starting point for testing new equipment on record.\n\nThe A Custom Mega Bell Ride followed, chosen for the same reason it remains in his setup today: a bell that cuts through everything, essential for Nile's hypnotic, atmospheric passages like the extended sections of \"The Oxford Handbook of Savage Genocidal Warfare.\"\n\nThe crash spread and China remained pure Meinl Byzance throughout \"Vile Nilotic Rites\" — the 17\"/18\"/19\" configuration and 18\" China that had served Kollias since his debut. This transitional, mixed-brand setup is unique to this album in his discography; by the time his current kit article documents his setup, the transition to full Zildjian K Custom and A Custom is complete.",
+      "estimatedValue": "$2,200–3,000 total (mixed Meinl/Zildjian transitional setup, 2019 era)"
+    },
+    "hardware": {
+      "title": "The Demon XR: Kollias's Own Pedal, Fully Proven",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Demon XR Double Pedal (co-designed)",
+          "notes": "Co-designed pedal, released 2015, now fully integrated into Kollias's technique by these sessions",
+          "description": "By the \"Vile Nilotic Rites\" sessions, George Kollias was performing on the Pearl Demon XR — the double pedal he co-designed with Pearl's engineers, released in 2015 and by 2019 fully absorbed into his technique across four years of touring and recording. The NiNjA Bearing Universal Joint's elimination of lateral resistance and the Direct Link drive system's zero-loss energy transfer gave Kollias the mechanical foundation for the sustained extreme-speed passages on tracks like 'Seven Horns of War.' Unlike the Demon Drive it succeeded, every specification on the Demon XR was built directly around demands Kollias himself had identified across a decade of Nile touring — making this the first album where his pedal, his kit, and his sticks were all either signature models or co-designed equipment."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl H-2050 Eliminator Hi-Hat Stand",
+          "notes": "Smooth, adjustable action for complex hi-hat work, unchanged from prior albums"
+        },
+        {
+          "type": "Throne",
+          "brand": "Pearl",
+          "model": "Pearl D-3000 Roadster Throne",
+          "notes": "Ergonomic support for extended performances"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth SGK George Kollias Signature",
+          "notes": "Signature model, adopted 2012 — now seven years into use by these sessions"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD Clear (batter), Evans EQ3 Clear (resonant with port)",
+        "toms": "Evans G2 Clear (batter), Evans G1 Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "technique": {
+      "title": "Techniques on Vile Nilotic Rites: Fifteen Years of Command",
+      "content": "\"Vile Nilotic Rites\" captures George Kollias fifteen years into his Nile tenure, performing on equipment that — for the first time in his career — was almost entirely his own signature or co-designed gear. The technical performances reflect that convergence of experience and equipment built specifically around it.\n\n**Heel-Toe Technique at Full Maturity:**\nThe Demon XR's Direct Link drive and NiNjA Bearing Universal Joint, fully broken in across four years of use by 2019, deliver the cleanest heel-toe execution of Kollias's recorded career. On 'Seven Horns of War,' sustained double-bass runs at extreme tempo show a stroke-to-stroke evenness that reflects both fifteen years of technique refinement and a pedal engineered to his exact specification.\n\n**Blast Beat Benchmark:**\n'Seven Horns of War' has become a frequently cited reference track for Kollias's blast beat consistency — a demonstration that his sustained-speed clarity had, if anything, sharpened rather than plateaued after a decade and a half in the band. The track is regularly cited by drum educators discussing his approach to endurance at extreme tempo.\n\n**Cymbal Transition Adaptation:**\nIntroducing new Zildjian hi-hats and ride mid-catalog required Kollias to recalibrate stick contact points and playing dynamics — a subtle technical adjustment audible to close listeners comparing 'Vile Nilotic Rites' against 'At the Gate of Sethu.' The K Mastersound hi-hats respond differently under the stick than the Byzance pair he'd played for fourteen years, and his articulation adapts accordingly across the album.\n\n**Compositional Command:**\nTracks like 'The Oxford Handbook of Savage Genocidal Warfare' demonstrate Kollias operating with complete compositional awareness — not simply executing complex parts, but shaping the album's most atmospheric passages with the same intentionality he brings to its most extreme blast sections. Recording drums separately at Esoteron Music Studio in Athens required him to deliver performances that would sit correctly against tracks he hadn't yet heard in their final form, a level of trust in his own internal sense of the material built over fifteen years with the band.",
+      "tips": [
+        "Co-designed equipment (Demon XR) fully matures only after years of real-world use — evaluate gear on that timescale",
+        "Introducing new cymbals mid-career requires deliberate recalibration of stick contact and dynamics",
+        "'Seven Horns of War' is a strong benchmark track for studying sustained blast beat consistency",
+        "Recording drum tracks separately from the band demands complete internal command of the material",
+        "Fifteen years of technique refinement shows up as consistency, not new tricks"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Vile Nilotic Rites",
+        "bpm": "210–250",
+        "signature": "4/4 with rhythmic displacement",
+        "highlights": [
+          "Title track establishes the album's modern gear voice from the opening measures",
+          "Zildjian K Mastersound hi-hats provide noticeably crisper articulation than the earlier Byzance-only albums",
+          "Demon XR kick evenness audible across sustained double-bass sections",
+          "Dynamic shifts between blast intensity and measured, atmospheric passages"
+        ],
+        "gearNotes": "Pearl Masterworks Stadium Exotic attack clarity is immediately apparent. Zildjian hi-hats mark the first audible change from the Byzance-only era."
+      },
+      {
+        "track": "Seven Horns of War",
+        "bpm": "230–270",
+        "signature": "4/4 — extreme blast density",
+        "highlights": [
+          "Frequently cited as a benchmark track for Kollias's sustained blast beat consistency",
+          "Demon XR direct-drive precision audible throughout the sustained kick runs",
+          "Snare crack remains fully defined at maximum blast speed",
+          "A reference track for drum educators discussing extreme-tempo endurance"
+        ],
+        "gearNotes": "Pearl Free-Floating snare's final studio appearance delivers consistent crack at maximum tempo. Demon XR's NiNjA Bearing Universal Joint eliminates lateral resistance at extreme speed."
+      },
+      {
+        "track": "The Oxford Handbook of Savage Genocidal Warfare",
+        "bpm": "190–240 (variable sections)",
+        "signature": "4/4 with Egyptian-influenced rhythmic figures",
+        "highlights": [
+          "Longest and most atmospherically ambitious track on the album",
+          "Zildjian A Custom Mega Bell Ride carries the track's hypnotic, measured sections",
+          "Demonstrates compositional command built from fifteen years with the band",
+          "Balances extended atmospheric passages against full blast intensity"
+        ],
+        "gearNotes": "Zildjian ride bell cuts through the track's dense atmospheric layering. Meinl Byzance crash spread still handles the track's accent work."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit does George Kollias use on Vile Nilotic Rites?",
+        "answer": "On Nile's 'Vile Nilotic Rites' (2019, Nuclear Blast), George Kollias played a Pearl Masterworks Stadium Exotic kit — a maple/birch hybrid shell package with double 22\" x 18\" bass drums, 10/12\" rack toms, and 14/16\" floor toms. This marked his upgrade from the Pearl Reference Maple kit used on 'Those Whom the Gods Detest' and 'At the Gate of Sethu,' and remains his current flagship kit. See the full current gear breakdown: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)."
+      },
+      {
+        "question": "How fast does George Kollias play on Vile Nilotic Rites?",
+        "answer": "George Kollias sustains blast beats between 210–270 BPM on 'Vile Nilotic Rites,' with 'Seven Horns of War' widely cited as a benchmark track for his sustained blast beat consistency at extreme tempo. He is Guinness World Record-certified for sustaining 280 BPM single strokes, and fifteen years into his Nile tenure by this album, his technique shows no plateau in speed or clarity. Full technique breakdown: [George Kollias at MetalForge](/drummer/george-kollias)."
+      },
+      {
+        "question": "What cymbals does George Kollias use on Vile Nilotic Rites?",
+        "answer": "'Vile Nilotic Rites' (2019) is the first Nile album to feature Zildjian cymbals in George Kollias's setup — a 14\" K Mastersound hi-hat pair and a 21\" A Custom Mega Bell Ride — alongside his long-standing Meinl Byzance crash spread (17\"/18\"/19\") and 18\" China. This transitional mixed-brand configuration marks the beginning of his shift toward the all-Zildjian setup on his current kit."
+      },
+      {
+        "question": "What pedals does George Kollias use on Vile Nilotic Rites?",
+        "answer": "George Kollias played the Pearl Demon XR double bass drum pedal on 'Vile Nilotic Rites' (2019) — the pedal he co-designed with Pearl, released in 2015 and fully matured across four years of use by these sessions. Paired with his Vic Firth SGK George Kollias Signature sticks (adopted 2012), this album is the first where nearly his entire rig was either signature or co-designed equipment."
+      },
+      {
+        "question": "Why is Vile Nilotic Rites significant in George Kollias's gear history?",
+        "answer": "'Vile Nilotic Rites' (Nile, 2019) marks George Kollias's transition to the Pearl Masterworks Stadium Exotic kit that remains his current flagship setup, and documents the first Zildjian cymbals entering his rig alongside his long-standing Meinl Byzance pieces. Produced by guitarist Karl Sanders with drums tracked in Kollias's native Athens, Greece, it is Nile's most recent studio album and completes a 5-album Nile drum-setup arc spanning 'Annihilation of the Wicked' (2005) through 2019. See the complete arc: [Ithyphallic drum setup (2007)](/articles/ithyphallic-drum-setup) and [At the Gate of Sethu drum setup (2012)](/articles/at-the-gate-of-sethu-drum-setup)."
+      }
+    ],
+    "relatedAlbums": [
+      "at-the-gate-of-sethu-drum-setup",
+      "those-whom-the-gods-detest-drum-setup",
+      "whats-in-george-kollias-kit"
+    ],
+    "relatedDrummers": [
+      3,
+      23,
+      4
+    ],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "fastest-metal-drummers",
+      "extreme-metal-drums"
+    ],
+    "conclusion": {
+      "title": "The Modern Rig, Fully Arrived",
+      "content": "\"Vile Nilotic Rites\" closes out the drum-setup arc that began with \"Annihilation of the Wicked\" fourteen years earlier — and it does so by introducing nearly every element that defines George Kollias's current kit. The Pearl Masterworks Stadium Exotic, the Demon XR pedal at full maturity, the first Zildjian cymbals alongside a fading Meinl Byzance voice: this album is where the modern Kollias rig assembles itself in real time, on record, for anyone willing to listen for the transition.\n\nKey takeaways for drummers studying this album:\n\n- **Gear transitions can be gradual**: introducing Zildjian hi-hats and ride while retaining Meinl crashes shows a considered, piece-by-piece approach rather than a wholesale switch\n- **Co-designed equipment rewards patience**: the Demon XR, four years into use by 2019, performs differently than it did on release — mechanical familiarity compounds over years, not months\n- **\"Seven Horns of War\"** is essential listening for studying sustained blast beat consistency at extreme tempo\n- **Fifteen years in, no plateau**: this album is proof that extreme metal drumming careers can continue sharpening well past the debut-era breakthrough\n\nInternal links for the complete George Kollias picture:\n- **Full drummer profile**: [George Kollias at MetalForge](/drummer/george-kollias)\n- **Debut Nile album**: [Annihilation of the Wicked drum setup (2005)](/articles/george-kollias-nile-annihilation-drum-setup)\n- **The bridge album**: [Ithyphallic drum setup (2007)](/articles/ithyphallic-drum-setup)\n- **The Pearl transition**: [Those Whom the Gods Detest drum setup (2009)](/articles/those-whom-the-gods-detest-drum-setup)\n- **The matured Byzance era**: [At the Gate of Sethu drum setup (2012)](/articles/at-the-gate-of-sethu-drum-setup)\n- **Current complete gear**: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)\n\nFive albums, fourteen years, one continuously evolving rig. \"Vile Nilotic Rites\" is where the story catches up to the present."
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "George Kollias Drum Setup: Nile's 'Vile Nilotic Rites' (2019) Gear Breakdown",
+          "description": "Discover the exact drum kit, cymbals, and pedals George Kollias used on Nile's 'Vile Nilotic Rites' (2019) — the album where his Pearl Masterworks Stadium Exotic kit and the first Zildjian pieces entered his rig.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-05",
+          "dateModified": "2026-07-05"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://metalforge.io"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Articles",
+              "item": "https://metalforge.io/articles"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Vile Nilotic Rites Drum Setup",
+              "item": "https://metalforge.io/articles/vile-nilotic-rites-drum-setup"
+            }
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Vile Nilotic Rites",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Nile"
+          },
+          "datePublished": "2019-11-01",
+          "genre": "Technical Death Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Nuclear Blast"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Long Shadows of Dread"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "The Oxford Handbook of Savage Genocidal Warfare"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Vile Nilotic Rites"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Seven Horns of War"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "That Which Is Forbidden"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Snake Pit Mating Frenzy"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Revel in Their Suffering"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Thus Sayeth the Parasites of the Mind"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Where Is the Wrathful Sky"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "The Imperishable Stars Are Sickened"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "We Are Cursed"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "George Kollias",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Nile"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drum kit does George Kollias use on Vile Nilotic Rites?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "George Kollias played a Pearl Masterworks Stadium Exotic kit on 'Vile Nilotic Rites' (2019) — double 22\" x 18\" bass drums, 10/12\" rack toms, and 14/16\" floor toms with maple/birch hybrid shells. This marked his upgrade from the Pearl Reference Maple kit used on his prior two Nile albums, and remains his current flagship kit."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How fast does George Kollias play on Vile Nilotic Rites?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "George Kollias sustains blast beats between 210–270 BPM on 'Vile Nilotic Rites,' with 'Seven Horns of War' widely cited as a benchmark for his sustained blast beat consistency. He is Guinness World Record-certified for sustaining 280 BPM single strokes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals does George Kollias use on Vile Nilotic Rites?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "'Vile Nilotic Rites' is the first Nile album to feature Zildjian cymbals in Kollias's setup — 14\" K Mastersound hi-hats and a 21\" A Custom Mega Bell Ride — alongside his long-standing Meinl Byzance crash spread and China, marking the start of his transition to an all-Zildjian voice."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What pedals does George Kollias use on Vile Nilotic Rites?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "George Kollias played the Pearl Demon XR double bass drum pedal, co-designed with Pearl and released in 2015, fully matured by these 2019 sessions. He paired it with his Vic Firth SGK George Kollias Signature sticks, adopted in 2012."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why is Vile Nilotic Rites significant in George Kollias's gear history?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "'Vile Nilotic Rites' (2019) marks George Kollias's transition to the Pearl Masterworks Stadium Exotic kit and the first Zildjian cymbals in his setup, completing a 5-album Nile drum-setup arc from 'Annihilation of the Wicked' (2005) through this, Nile's most recent studio album."
+              }
+            }
+          ]
+        }
+      ]
+    }
   }
 };
 export default articles;

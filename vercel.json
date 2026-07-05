@@ -360,6 +360,7 @@
     { "source": "/api/gear/category/:category", "destination": "/api/gear/category/[category]?category=:category" },
     { "source": "/api/gear/:id", "destination": "/api/gear/[id]?id=:id" },
     { "source": "/api/tier-list/:id", "destination": "/api/tier-list/[id]?id=:id" },
+    { "source": "/api/meta/:path*", "destination": "/api/meta/[...path]?path=:path*" },
     { "source": "/gear-news/feed.xml", "destination": "/api/gear-news/feed" },
     { "source": "/embed/gallery", "destination": "/api/embed/gallery" },
     { "source": "/embed/:slug", "destination": "/api/embed/[slug]?slug=:slug" },
@@ -370,7 +371,7 @@
     {
       "source": "/drummer/:slug",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/drummer/:slug"
+      "destination": "/api/meta/[...path]?path=drummer/:slug"
     },
     { "source": "/((?!api/).*)", "destination": "/index.html" }
   ]

@@ -97,4 +97,4 @@ A: Gene Hoglan recorded Dark Angel's Time Does Not Heal (1991) using a Tama Rock
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*

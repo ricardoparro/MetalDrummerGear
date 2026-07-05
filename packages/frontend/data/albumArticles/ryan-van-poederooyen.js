@@ -280,6 +280,216 @@ export const articles = {
       "title": "Ryan Van Poederooyen: 25 Years of Prog-Metal Versatility",
       "content": "Ryan Van Poederooyen occupies a rare position in progressive metal: the drummer whose defining quality is not a signature technique or extreme speed, but the range to serve one of music's most prolific and genre-defying composers across a 25+ year partnership. From the crushing extremes of *Deconstruction* to the near-inaudible ambience of *Ghost*, his setup and technique have adapted to every musical environment Devin Townsend has created.\n\nHis gear reflects this philosophy throughout:\n\n- **Pearl Reference series**: Maple/mahogany hybrid shells delivering consistent response from delicate ghost-note work to full-intensity metal — the versatility platform for Townsend's dynamic range\n- **Sabian AAX/HHX cymbals**: AAX brightness for projection in heavy sections; HHX complexity for musical depth in progressive passages — a two-series combination that mirrors DTP's sonic breadth\n- **Tama Iron Cobra / DW 9000**: Reliable, consistent double pedal action supporting the powerful double bass that drives DTP's heavier material through demanding global touring\n- **Double 22\" × 18\" bass drums**: Sub-bass configuration for the physical impact that makes Van Poederooyen's double kick felt as well as heard\n\nFor drummers studying prog-metal drumming at this level, Van Poederooyen's career is the case study in drummer-as-collaborator. The lesson is not about the biggest blast beats or the fastest double kick — it is about the versatility to serve an artist's vision completely, across every direction that vision travels.\n\nStudy *Deconstruction* for how extreme technique and compositional service coexist in progressive metal. Study *Ghost* for how restraint and dynamic sensitivity at the opposite extreme require equal skill. Study both together to understand what 25 years of deep collaboration produces in a drummer.\n\nFor deeper exploration:\n- **Full drummer profile**: [Ryan Van Poederooyen at MetalForge](/drummers/ryan-van-poederooyen)\n- **Prog-metal connection**: [Blake Richardson drum setup — Between the Buried and Me](/articles/blake-richardson-drum-setup)\n- **Progressive metal peers**: [Martin Lopez drum setup — Opeth](/articles/martin-lopez-drum-setup)\n- **Double bass technique**: [Double-bass drumming at MetalForge](/technique/double-bass-drumming)"
     }
+  },
+  "ryan-van-poederooyen-deconstruction-2011": {
+    "slug": "ryan-van-poederooyen-deconstruction-2011",
+    "articleType": "drummer-kit",
+    "albumTitle": "Deconstruction",
+    "artist": "Devin Townsend Project",
+    "drummer": "Ryan Van Poederooyen",
+    "relatedDrummerSlug": "ryan-van-poederooyen",
+    "band": "Devin Townsend Project",
+    "bands": [
+      "Devin Townsend Project"
+    ],
+    "genre": "Progressive Metal / Extreme Metal",
+    "country": "Canada",
+    "year": 2011,
+    "label": "HevyDevy Records / InsideOut Music",
+    "producer": "Devin Townsend",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-05",
+    "dateModified": "2026-07-05",
+    "author": "MetalForge Editorial",
+    "title": "Ryan Van Poederooyen's Drum Setup on Devin Townsend Project's 'Deconstruction' (2011)",
+    "metaTitle": "Ryan Van Poederooyen Drum Setup — DTP's 'Deconstruction' (2011) | MetalForge",
+    "description": "The drum setup Ryan Van Poederooyen used to record Devin Townsend Project's 'Deconstruction' — the double-kick Pearl Reference rig and Sabian AAX/HHX cymbals behind one of progressive metal's most demanding drum performances.",
+    "seoKeywords": [
+      "ryan van poederooyen deconstruction drum setup",
+      "deconstruction album drummer",
+      "devin townsend project deconstruction drums",
+      "ryan van poederooyen 2011 drum kit",
+      "juular drum gear",
+      "deconstruction drum performance",
+      "pearl reference double bass devin townsend",
+      "devin townsend project drum recording"
+    ],
+    "ogImage": "/images/albums/deconstruction-drums.webp",
+    "intro": {
+      "title": "The Most Demanding Drum Performance of Van Poederooyen's Career",
+      "content": "Released June 20, 2011 on HevyDevy Records and InsideOut Music, \"Deconstruction\" is the fourth Devin Townsend Project album and, by wide consensus among progressive metal drummers, the single most demanding drum performance of Ryan Van Poederooyen's 25-plus-year collaboration with Devin Townsend. Recorded between November 2010 and February 2011 and produced by Townsend himself with Jens Bogren mixing, the album is a sprawling, maximalist statement — ten tracks (including the deluxe bonus \"Ho Krll\") running 70 minutes, layered with a guest list that includes Mikael Åkerfeldt of Opeth, Ihsahn of Emperor, Tommy Rogers of Between the Buried and Me, Joe Duplantier of Gojira, Paul Masvidal of Cynic, Greg Puciato, Floor Jansen, GWAR's Oderus Urungus, and a full recording session with the Prague Philharmonic Orchestra.\n\nWhat makes \"Deconstruction\" unique in Van Poederooyen's discography — and in progressive metal generally — is that he shares the drum chair on this specific album with Dirk Verbeuren, who would go on to become Megadeth's drummer five years later. The two drummers' dual-drums credit on \"Deconstruction\" makes this a rare crossover point between two drummers otherwise profiled separately on MetalForge, each bringing their own technical sensibility to a record built to be, in Townsend's own words, deliberately \"deranged\" and \"sonically overwhelming\" — Metal Hammer gave it 9/10 on release.\n\n\"Deconstruction\" was released the same day as \"Ghost,\" Townsend's ambient, near-acoustic companion album — a dual release that remains one of the most extreme stylistic contrasts ever issued as a single-day pair. Where \"Ghost\" called for restraint and near-silence, \"Deconstruction\" demanded full-intensity, technically extreme drumming across sprawling arrangements like the 16-minute \"The Mighty Masturbator\" and the tightly wound single \"Juular.\" Van Poederooyen's ability to deliver both records from the same fundamental rig, on the same day of release, is precisely the versatility that defines his reputation.\n\nThis article is a dedicated breakdown of the rig Van Poederooyen used specifically on \"Deconstruction\" — distinct from the general MetalForge gear overview — covering the double-kick Pearl Reference configuration, the Sabian AAX/HHX cymbal spread, and the technique this uniquely demanding record required.",
+      "keyPoints": [
+        "Released June 20, 2011 on HevyDevy Records / InsideOut Music; produced by Devin Townsend, mixed by Jens Bogren",
+        "Recorded November 2010–February 2011; released the same day as the ambient companion album 'Ghost'",
+        "Dual drums credit shared with Dirk Verbeuren — a rare crossover between two MetalForge-profiled drummers on one album",
+        "Guest vocalists include Mikael Åkerfeldt, Ihsahn, Tommy Rogers, Joe Duplantier, and the Prague Philharmonic Orchestra",
+        "Metal Hammer gave the album 9/10, calling it Townsend's most 'deranged, complex and sonically overwhelming' work",
+        "Double 22\" x 18\" Pearl Reference bass drums — the only true double-kick configuration in Van Poederooyen's discography"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference Double Kick: Built for Deconstruction's Extremes",
+      "brand": "Pearl",
+      "model": "Pearl Reference Series",
+      "finish": "Maple/mahogany hybrid, 2011 recording configuration",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 — true double bass configuration)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 14\" Floor Tom",
+          "18\" x 16\" Floor Tom"
+        ],
+        "shells": "Maple/mahogany hybrid — Pearl Reference construction"
+      },
+      "description": "For \"Deconstruction,\" Van Poederooyen recorded on a true double bass drum configuration — two 22\" x 18\" Pearl Reference kick drums — a setup he uses more selectively than a fixed touring standard, reserved for exactly the kind of full-intensity material this album demanded. The maple/mahogany hybrid shell construction gave engineers Devin Townsend and Jens Bogren a kit that could deliver \"Deconstruction\"'s crushing low end without collapsing into an undefined wall of sound: maple's bright attack keeps the double-kick patterns articulate even during \"The Mighty Masturbator\"'s sprawling 16-minute runtime, while the mahogany component supplies the sub-bass mass that makes the heaviest passages physically felt.\n\nThe same physical kit — without reconfiguration — also recorded \"Ghost\" on the same release day, which is the detail that best explains why Van Poederooyen chose the Reference series in the first place: it needed to respond as sensitively to \"Ghost\"'s near-inaudible ambient patches as it did to \"Deconstruction\"'s double-kick assault. Nothing about the shell pack changed between the two sessions; only the playing did.\n\nThe compact two-rack-tom, two-floor-tom spread kept the kit efficient for a record that layers so much additional instrumentation — guest vocalists, orchestral passages, dense guitar tracking — that an oversized drum kit would have crowded Townsend and Bogren's mix rather than serving it.",
+      "notes": [
+        "True double bass configuration — two 22\" x 18\" Pearl Reference kick drums",
+        "Maple/mahogany hybrid shells for both crushing low end and articulate attack",
+        "Same physical kit recorded the ambient companion album 'Ghost' on the same release day",
+        "Compact tom spread kept the kit from crowding a densely layered, guest-heavy mix"
+      ],
+      "estimatedValue": "$3,500–6,000 (Pearl Reference double-kick shell pack, 2011 configuration)"
+    },
+    "snare": {
+      "title": "Pearl Snare: Anchoring a Maximalist Mix",
+      "brand": "Pearl",
+      "model": "Pearl Free-Floating / Sensitone Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel or brass",
+      "description": "On a record this densely arranged — layered guitars, orchestral passages, and a rotating cast of guest vocalists — Van Poederooyen's snare has to anchor the rhythmic foundation without disappearing into the mix. His 14\" x 6.5\" Pearl snare, tuned medium to medium-bright, delivers the explosive crack needed for \"Deconstruction\"'s most aggressive passages while retaining enough sensitivity for the record's occasional pulled-back moments, such as the transitions into \"Pandemic\" and \"Poltergeist.\"\n\nThe 6.5\" depth supplies sufficient body at medium tension, which matters on a record where the snare has to read clearly whether it's sitting beneath Ihsahn's guest vocal on one track or Mikael Åkerfeldt's on another, each with its own vocal frequency profile competing for space in Jens Bogren's mix. Van Poederooyen's tuning choice — bright enough to cut, not so bright it turns brittle — is a big part of why the drums remain a consistent anchor across an album that otherwise never sits still stylistically.",
+      "tuningSetting": "Medium to medium-bright, balancing cut against a maximalist, guest-vocalist-heavy mix",
+      "heads": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)",
+      "estimatedValue": "$350–700"
+    },
+    "cymbals": {
+      "title": "Sabian AAX/HHX: Cutting Through Deconstruction's Density",
+      "brand": "Sabian",
+      "series": "Sabian AAX / HHX Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Sabian 14\" AAX Hi-Hats",
+          "position": "Left side",
+          "notes": "Fast, articulate response for driving double-kick sections"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian 16\" AAX Crash",
+          "position": "Left crash",
+          "notes": "Quick decay for accents inside the album's dense arrangements"
+        },
+        {
+          "type": "Crash",
+          "model": "Sabian 18\" HHX Crash",
+          "position": "Right crash",
+          "notes": "Fuller, darker tone for the record's orchestral and progressive passages"
+        },
+        {
+          "type": "Ride",
+          "model": "Sabian 20\" HHX Ride",
+          "position": "Right",
+          "notes": "Complex wash and defined bell for extended sections like 'The Mighty Masturbator'"
+        },
+        {
+          "type": "China",
+          "model": "Sabian 18\" AAX China",
+          "position": "Over rack toms",
+          "notes": "Aggressive accent for the album's heaviest peaks"
+        }
+      ],
+      "description": "\"Deconstruction\" put Van Poederooyen's Sabian AAX/HHX combination through its most extreme test. The bright, fast-attacking AAX line projects clearly through the album's heaviest sections — the double-kick assault of the title track, the density of \"Planet of the Apes\" — while the darker, more complex HHX series serves the record's progressive and orchestral dimensions, including the passages recorded alongside the Prague Philharmonic Orchestra.\n\nThe 20\" HHX Ride carries particular weight on a record built around extended compositions: \"The Mighty Masturbator\" runs over 16 minutes, and a ride cymbal with a one-dimensional wash would flatten the track's long-form harmonic development. Its complex wash and defined bell give Van Poederooyen a tool that reads as musical rather than merely rhythmic across that kind of duration.\n\nThe 18\" AAX China supplies the aggressive, trashy accent that punctuates the album's most extreme peaks — a texture Metal Hammer's review specifically singled out as part of what made the record feel \"sonically overwhelming\" in the best sense.",
+      "estimatedValue": "$1,200–2,200 (full Sabian AAX/HHX setup)"
+    },
+    "hardware": {
+      "title": "Tama Iron Cobra: Driving a True Double Bass Configuration",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Double Bass Pedal (x2, one per kick drum)",
+          "notes": "Power cam system for consistent, driving double-kick action across both bass drums",
+          "description": "Because 'Deconstruction' called for a true double bass drum configuration rather than Van Poederooyen's usual single-kick-plus-double-pedal setup, he ran a Tama Iron Cobra pedal on each of the two 22\" x 18\" Pearl Reference kick drums. The Iron Cobra's power cam system delivers a consistent, driving stroke on both sides — critical when two physically separate bass drums, rather than one drum split across a double pedal, need to sound and feel identical under his feet. On tracks like the title track 'Deconstruction' and 'Planet of the Apes,' that consistency is what keeps the double-kick pattern feeling like a single unified low end rather than two competing drums."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Heavier weight for the album's extreme dynamic demands"
+        },
+        {
+          "type": "Drumheads (Bass, Batter)",
+          "brand": "Remo",
+          "model": "Remo Powerstroke 3",
+          "notes": "Focused attack across both kick drums for double-bass articulation"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter), ported resonant heads",
+        "toms": "Remo Emperor Coated (batter), clear resonant heads",
+        "snare": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)"
+      }
+    },
+    "playingStyle": {
+      "title": "Technique: Powering Metal's Most Maximalist Record",
+      "content": "Ryan Van Poederooyen's performance on \"Deconstruction\" is the fullest expression of the power side of his playing — the counterpart to the restraint he shows on \"Ghost,\" released the same day.\n\n**True Double Bass, Not Just Double Pedal.** Unlike most of his career, where a single bass drum and double pedal carries the low end, 'Deconstruction' called for two physically separate 22\" x 18\" kick drums, each driven by its own Tama Iron Cobra pedal. That configuration exists specifically to serve this record's extremes — tracks like the title cut and \"Planet of the Apes\" need a low end with enough mass to sit underneath layered guitars, orchestral passages, and guest vocal performances without getting buried.\n\n**Driving Groove Over Blast-Beat Speed.** Even at his most extreme on this record, Van Poederooyen's double bass prioritizes forward momentum and groove over maximum tempo — the goal is physical impact, not a speed record. This is audible throughout \"Juular,\" the album's tightest and most immediate track, where the double-kick pattern locks in with the riff rather than racing ahead of it.\n\n**Serving a Maximalist Arrangement.** With guest vocalists rotating through nearly every track and a full orchestral session woven into the mix, Van Poederooyen's role on 'Deconstruction' is as much about restraint-within-power as it is about raw intensity — knowing when to lay back under Ihsahn's or Åkerfeldt's guest vocal turn and when to drive the arrangement at full force. That same instinct, developed here, is what let him deliver 'Ghost' with the opposite dynamic approach on the same day.\n\n**Shared with Dirk Verbeuren.** Because 'Deconstruction' carries a dual drums credit with Dirk Verbeuren, the album stands as a rare document of two distinct drumming sensibilities meeting on one record — Verbeuren's precision-thrash background and Van Poederooyen's prog-metal versatility both audible across its 70-minute runtime.\n\nRelated: [Ryan Van Poederooyen's general drum setup breakdown](/articles/ryan-van-poederooyen-drum-setup) for the fuller arc of his 25-year Devin Townsend collaboration.",
+      "keyTechniques": [
+        "True double bass drum configuration — the rare instance of two physical kick drums rather than his usual single-kick-plus-double-pedal setup",
+        "Driving, groove-focused double bass prioritizing physical impact over maximum tempo",
+        "Dynamic restraint under guest vocal performances, contrasted with full-force drumming in instrumental peaks",
+        "Same fundamental rig delivered both 'Deconstruction' and the ambient companion album 'Ghost' on the same release day"
+      ]
+    },
+    "faq": [
+      {
+        "question": "What drum kit did Ryan Van Poederooyen use on 'Deconstruction'?",
+        "answer": "Ryan Van Poederooyen recorded 'Deconstruction' (2011) on a true double bass drum configuration — two 22\" x 18\" Pearl Reference kick drums, each driven by its own Tama Iron Cobra pedal, alongside 10\" and 12\" rack toms and 16\" and 18\" floor toms. This is a rare instance in his discography of a genuine double-kick setup rather than his usual single-kick-plus-double-pedal configuration, chosen specifically for the album's crushing double-bass demands. For his general setup, see the [Ryan Van Poederooyen drum setup breakdown](/articles/ryan-van-poederooyen-drum-setup)."
+      },
+      {
+        "question": "Why is 'Deconstruction' considered one of Ryan Van Poederooyen's most demanding performances?",
+        "answer": "'Deconstruction' is widely cited among progressive metal drummers as one of the most demanding drum performances in the genre, combining a true double-kick configuration, extended compositions like the 16-minute 'The Mighty Masturbator,' and a dense arrangement layered with guest vocalists and a full Prague Philharmonic Orchestra session. Metal Hammer gave the album 9/10, calling it Devin Townsend's most 'deranged, complex and sonically overwhelming' work — a description that applies equally to the drumming required to hold it together."
+      },
+      {
+        "question": "Did Ryan Van Poederooyen play drums alone on 'Deconstruction'?",
+        "answer": "No — 'Deconstruction' carries a dual drums credit shared with Dirk Verbeuren, who would later become Megadeth's drummer. This makes the album a rare crossover point between the two drummers, each contributing their own technical sensibility to one of Devin Townsend's most maximalist records."
+      },
+      {
+        "question": "What cymbals did Ryan Van Poederooyen play on 'Deconstruction'?",
+        "answer": "Van Poederooyen played a Sabian AAX/HHX combination on 'Deconstruction': 14\" AAX hi-hats, a 16\" AAX crash, an 18\" HHX crash, a 20\" HHX ride, and an 18\" AAX china. The bright AAX line handled projection through the album's heaviest sections, while the darker HHX series served its progressive and orchestral passages, including the sections recorded with the Prague Philharmonic Orchestra."
+      },
+      {
+        "question": "How does 'Deconstruction' compare to Devin Townsend's ambient album 'Ghost'?",
+        "answer": "'Deconstruction' and 'Ghost' were released on the same day — June 20, 2011 — as deliberately opposite statements: one a maximalist, double-kick-driven extreme metal record, the other a near-acoustic, ambient companion piece. Ryan Van Poederooyen recorded both on the same fundamental Pearl Reference kit, and the ability to deliver full-intensity double bass on one album and near-silent restraint on the other, on the same release day, is frequently cited as the clearest demonstration of his versatility as a drummer."
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "n-DKs0qfdEk",
+        "title": "Devin Townsend Project - Juular (Official Video)",
+        "description": "Official InsideOut Music video for Juular from Deconstruction, featuring Ryan Van Poederooyen's driving double-kick drumming"
+      }
+    ],
+    "relatedAlbums": [
+      "ryan-van-poederooyen-drum-setup",
+      "stabbing-the-drama-drum-setup"
+    ],
+    "relatedDrummers": [
+      "ryan-van-poederooyen",
+      "dirk-verbeuren"
+    ],
+    "relatedArticles": [
+      "double-bass-drumming-for-metal",
+      "progressive-metal-drummers",
+      "fastest-double-bass-drummers"
+    ],
+    "conclusion": {
+      "title": "Deconstruction: The Full-Power Half of a 25-Year Partnership",
+      "content": "\"Deconstruction\" stands as the fullest demonstration of what Ryan Van Poederooyen's power and precision look like when Devin Townsend's writing demands maximum intensity rather than dynamic restraint. The true double-kick Pearl Reference configuration, the Sabian AAX/HHX cymbal spread built for both projection and orchestral depth, and the Tama Iron Cobra pedals driving two physically separate bass drums — every piece of that rig exists to serve a record built to overwhelm.\n\nWhat makes the album a genuinely useful case study, rather than just a technically impressive one, is the same-day release of 'Ghost': the fact that Van Poederooyen delivered a record this extreme and a record this restrained from the same fundamental setup, on the same day, is the clearest evidence of the versatility that has kept him behind Devin Townsend's kit for over 25 years. The dual drums credit with Dirk Verbeuren adds a further dimension — a rare moment where two drummers profiled separately on MetalForge shared a single album's drum chair.\n\nFor the fuller arc of Van Poederooyen's career and his standard touring rig: [Ryan Van Poederooyen's general drum setup breakdown](/articles/ryan-van-poederooyen-drum-setup). For his complete profile: [Ryan Van Poederooyen at MetalForge](/drummer/ryan-van-poederooyen)."
+    }
   }
 };
 export default articles;

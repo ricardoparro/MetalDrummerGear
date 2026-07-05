@@ -369,6 +369,218 @@ export const articles = {
       "title": "The Kit Behind the Clock",
       "content": "Navene Koperweis represents a specific and important development in extreme metal drumming: the player who absorbed the djent language at its source, in Animals as Leaders, and then built something more compositionally complex and emotionally varied with Entheos. His gear choices reflect that evolution — Meinl Byzance cymbals as the constant, kits and hardware evolving as his session career and artistic priorities shifted.\n\nThe DW Performance Series and DW 9000 double pedal that define his current setup are tools for a working professional with demanding gig commitments: consistent, reliable, road-worthy, and capable of the extreme technical performance his music requires. The Meinl Byzance Extra Dry cymbals are the sonic signature — dark, complex, quick-decaying instruments that suit djent's rhythmic precision as well as extreme death metal's explosive power.\n\nFor drummers studying Koperweis's approach, the gear is secondary to the philosophy: lock your kick to the riff, not to a template. Build polyrhythmic layers deliberately. Use restraint — the ability to say less when the music calls for it. These ideas turn technical capability into musical expression, and that is what distinguishes Navene Koperweis from the many technically gifted drummers who never quite made that leap.\n\nThe Entheos catalogue — from Primal through Time Will Take Us All — is one of the most instructive bodies of work for serious progressive and extreme metal drummers. Study it with the gear list in hand, and the gap between the technical content and its musical context becomes clear.\n\n🤘 *Progressive metal drumming at its compositional peak.* 🤘"
     }
+  },
+  "navene-koperweis-weightless-2011": {
+    "slug": "navene-koperweis-weightless-2011",
+    "articleType": "drummer-kit",
+    "albumTitle": "Weightless",
+    "artist": "Animals as Leaders",
+    "drummer": "Navene Koperweis",
+    "drummerId": 24,
+    "relatedDrummerSlug": "navene-koperweis",
+    "band": "Animals as Leaders",
+    "bands": [
+      "Animals as Leaders"
+    ],
+    "genre": "Progressive Metal / Djent",
+    "country": "USA",
+    "year": 2011,
+    "label": "Prosthetic Records",
+    "producer": "Animals as Leaders",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-05",
+    "dateModified": "2026-07-05",
+    "author": "MetalForge Editorial",
+    "title": "Navene Koperweis's Drum Setup on Animals as Leaders' 'Weightless' (2011)",
+    "metaTitle": "Navene Koperweis Drum Setup — Animals as Leaders' 'Weightless' (2011) | MetalForge",
+    "description": "The drum setup Navene Koperweis used to record Animals as Leaders' 'Weightless' — the DW Performance Series kit and Meinl Byzance Extra Dry cymbals behind djent's most influential second album.",
+    "seoKeywords": [
+      "navene koperweis weightless drum setup",
+      "weightless album drummer",
+      "animals as leaders weightless drums",
+      "navene koperweis 2011 drum kit",
+      "isolated incidents drum gear",
+      "djent landmark album drums",
+      "navene koperweis dw performance series",
+      "animals as leaders drum recording"
+    ],
+    "ogImage": "/images/albums/weightless-drums.webp",
+    "intro": {
+      "title": "The Album That Turned Djent Into a Genre",
+      "content": "Released November 4, 2011 in Europe and November 7–8 in the UK and US on Prosthetic Records, \"Weightless\" is Animals as Leaders' second studio album and the record where Navene Koperweis became the drummer's answer to Tosin Abasi and Javier Reyes's genre-defining eight-string guitar work. Where the band's self-titled 2009 debut leaned heavily on programmed drums, \"Weightless\" expanded Animals as Leaders into a full working trio with Koperweis behind the kit — combining real drums with the same production polish that made the band's guitar work so influential.\n\nThe album reached #92 on the Billboard 200, #7 on the Hard Rock Albums chart, #16 on the Independent Albums chart, and #50 on the Digital Albums chart — modest commercial numbers for a record whose influence on an entire subgenre would prove far larger than its chart position suggests. AllMusic gave it 3.5 stars; Chronicles of Chaos rated it 7.5 out of 10, calling out the rhythmic sophistication Koperweis brought to tracks like \"Isolated Incidents\" and the title track \"Weightless.\"\n\nWhat \"Weightless\" established — and what Koperweis's own MetalForge FAQ entry credits it for — is the drum vocabulary that would come to define djent: kick patterns locked specifically to the guitar riff's rhythmic subdivision rather than a generic double-bass template underneath it. Where a lesser drummer might apply the same kick pattern under every riff change, Koperweis rewrites the foot work each time the riff shifts, so the drums feel structurally bonded to Abasi and Reyes's polymetric writing rather than layered on top of it. Tracks built on chapter titles from Arthur C. Clarke's Rama science-fiction series — \"An Infinite Regression,\" \"Odessa,\" \"Cylindrical Sea,\" \"Espera\" — gave Koperweis a dense, shifting rhythmic canvas to work against.\n\nThis article is a dedicated breakdown of the specific rig Koperweis used to record and tour \"Weightless\" — distinct from the general MetalForge gear overview — covering the DW Performance Series kit, Meinl Byzance Extra Dry cymbal spread, and the riff-locked double bass technique the album is best known for.",
+      "keyPoints": [
+        "Released November 2011 on Prosthetic Records; reached #92 on the Billboard 200",
+        "Animals as Leaders' first album as a full trio with real drums alongside the programmed elements",
+        "Track titles drawn from chapter headings in Arthur C. Clarke's Rama novels",
+        "DW Performance Series maple 5-piece shell pack — compact, articulate configuration",
+        "Meinl Byzance Extra Dry 5-piece cymbal spread for fast-decaying accents",
+        "Established the riff-locked double bass approach that would define djent drumming"
+      ]
+    },
+    "drumKit": {
+      "title": "DW Performance Series: The Compact Kit Behind a Genre-Defining Record",
+      "brand": "DW",
+      "model": "DW Performance Series",
+      "finish": "Maple, natural/satin finish (2011 touring and session configuration)",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "14\" x 12\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 14\" Floor Tom"
+        ],
+        "shells": "All-maple 5-piece shell pack"
+      },
+      "description": "For \"Weightless,\" Koperweis played a DW Performance Series all-maple 5-piece shell pack — a deliberately compact configuration next to the sprawling double-kick rigs common among his technical-metal peers. Rather than reaching for maximum low-end mass, Koperweis prioritized clarity: Animals as Leaders' polymetric, palm-muted eight-string riffing is dense and layered on its own, and a smaller, more articulate kit kept his rapid-fire fills from cluttering the mix Abasi's guitar work already fills.\n\nThe single 22\" x 18\" bass drum, driven by a double pedal rather than a dual-kick setup, reflects the same restraint: Koperweis's riff-locked kick patterns need consistent tonal character between both feet more than they need the extra low-end mass a second bass drum would add. The three-rack-tom spread (10\", 12\", and 14\") gave him a wider pitch range than his later Entheos-era setup, useful for the melodic fill work that threads through \"Weightless\" tracks like \"Odessa\" and \"Do Not Go Gently.\"\n\nThe all-maple shell construction produced a warmer, more resonant tone than the birch/maple hybrids common in metalcore — a tonal choice suited to Animals as Leaders' cleaner, more jazz-and-fusion-informed production style, which foregrounds tonal nuance over raw aggression.",
+      "notes": [
+        "DW Performance Series all-maple 5-piece shell pack — compact configuration for clarity",
+        "Single 22\" x 18\" bass drum with double pedal, not a dual-kick setup",
+        "Three-rack-tom spread (10\", 12\", 14\") for wider melodic fill range than his later Entheos configuration",
+        "All-maple shells chosen for warmth suited to Animals as Leaders' jazz-fusion-informed production"
+      ],
+      "estimatedValue": "$2,800–3,600 (DW Performance Series maple 5-piece, 2011–2012 configuration)"
+    },
+    "snare": {
+      "title": "DW Performance Steel: Cutting Through Palm-Muted Riffing",
+      "brand": "DW",
+      "model": "DW Performance 14\" x 6.5\" Steel",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel shell",
+      "description": "Koperweis's snare on \"Weightless\" was the DW Performance 14\" x 6.5\" steel — the same model he still favors today. Its bright, focused crack was chosen specifically to cut through Animals as Leaders' dense, palm-muted eight-string riffing, which occupies a low-midrange frequency space that can easily swallow a warmer wood-shell snare. Steel produces tighter overtones and a sharper transient than maple or birch, giving the snare presence in the mix without requiring Koperweis to overplay.\n\nThe 6.5\" depth supplied enough body for medium tuning, letting the drum carry both the explosive accents in tracks like \"New Eden\" and the more restrained ghost-note work in the album's quieter passages. Koperweis tuned it medium, snare wires tight enough for crisp articulation on his rapid-fire fills without losing resonance entirely on the softer sections.",
+      "tuningSetting": "Medium tension, tight snare wires for articulation against dense palm-muted riffing",
+      "heads": "Evans (batter and resonant)",
+      "estimatedValue": "$350–450 (DW Performance Steel, 2011 configuration)"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance Extra Dry: The Sound Established on Weightless",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Extra Dry",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl Byzance 14\" Dual Hi-Hats",
+          "position": "Left side",
+          "notes": "Complex, defined response for fast riff-locked hi-hat patterns"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance Extra Dry 17\" Medium Crash",
+          "position": "Left crash",
+          "notes": "Fast decay for tight accent placement between riff changes"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl Byzance Extra Dry 18\" Medium Crash",
+          "position": "Right crash",
+          "notes": "Larger accent crash for structural transitions"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl Byzance 20\" Transition Ride",
+          "position": "Right",
+          "notes": "Defined bell for pattern work through the album's shifting meters"
+        },
+        {
+          "type": "China",
+          "model": "Meinl Byzance Extra Dry 18\" China",
+          "position": "Above floor tom",
+          "notes": "Raw, quick-decaying accent for riff punctuation"
+        }
+      ],
+      "description": "\"Weightless\" is the record where Koperweis's long-running Meinl Byzance relationship first appears on tape, and the Extra Dry sub-series he favored then is the same one he still uses with Entheos more than a decade later. The Extra Dry finish suppresses ring and sustain more aggressively than standard Byzance, producing a raw, fast-decaying \"thud\" that clears quickly rather than ringing into the next riff change — essential on an album built from Abasi and Reyes's tightly interlocked, constantly shifting eight-string riffing, where a longer-sustaining cymbal would bleed across the riff boundaries Koperweis's kick work is specifically tracking.\n\nThe 14\" Dual Hi-Hats gave him a defined, articulate response for the rapid hi-hat pattern work that threads through tracks like \"Cylindrical Sea,\" while the 20\" Transition Ride's clear bell definition let him move between riding patterns and crash-ride accents as the album's meters shifted underneath him. This five-piece Byzance Extra Dry spread — refined slightly but fundamentally unchanged — is the same cymbal philosophy Koperweis carried into Entheos's Primal EP four years later.",
+      "estimatedValue": "$1,600–2,200 (Byzance Extra Dry setup, 2011 configuration)"
+    },
+    "hardware": {
+      "title": "Double Pedal and Supporting Hardware",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Speed Cobra Double Pedal",
+          "notes": "Chain-drive double pedal driving the riff-locked kick patterns on Weightless",
+          "description": "Koperweis's double pedal during the Weightless era was the Tama Speed Cobra — a chain-drive design offering the fast, sensitive response his riff-locked kick technique required. Because his kick patterns change specifically with each riff rather than following a fixed template, pedal consistency between the primary and secondary beater mattered more than raw speed: any mechanical inconsistency between feet would undercut the illusion that the kick drum is a compositional extension of the guitar riff rather than a separate rhythmic layer. He later moved to the DW 9000 Series double pedal with Entheos, but the Speed Cobra carried him through the entire Animals as Leaders tenure."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5A",
+          "notes": "Standard weight for the ghost-note-to-accent dynamic range Weightless demands"
+        },
+        {
+          "type": "Throne",
+          "brand": "DW",
+          "model": "DW Throne",
+          "notes": "Standard studio and touring throne for the Weightless cycle"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD Clear",
+        "toms": "Evans EC2 Clear",
+        "snare": "Evans (batter and resonant)"
+      }
+    },
+    "playingStyle": {
+      "title": "Riff-Locked Double Bass: The Technique Weightless Introduced",
+      "content": "\"Weightless\" is the album where Navene Koperweis's defining technical signature — riff-locked double bass — first appeared on record, and it's the reason the album is still cited as a foundational djent text more than a decade after release.\n\n**Riff-Locked, Not Template-Based:** Where many double-bass-heavy drummers apply a fixed kick pattern underneath whatever the guitar is playing, Koperweis rewrites the foot pattern specifically to match each riff's rhythmic subdivision. On \"Odessa\" and the title track \"Weightless,\" the kick drum tracks the exact accent structure of Abasi and Reyes's polymetric eight-string riffing rather than a generic 16th-note stream — so when the riff shifts meter or subdivision, the kick pattern shifts with it. This is the technique that would come to define djent drumming in the years that followed, adopted and adapted by a generation of drummers who cite \"Weightless\" as a reference point.\n\n**Restraint Over Density:** Koperweis's compact DW Performance kit reflects the same philosophy audible in his playing: no wasted fills, no filler pattern where a riff-locked kick figure will do instead. On an album this dense with guitar information, drumming that adds rather than competes is the harder discipline.\n\n**Building Toward Entheos:** The riff-locked kick vocabulary Koperweis develops on \"Weightless\" carries forward almost unchanged into his work founding Entheos in 2015 — the same underlying principle, applied to material he wrote himself rather than material written by Abasi and Reyes. For the fuller arc of that evolution: [Navene Koperweis's general drum setup breakdown](/articles/whats-in-navene-koperweiss-kit) at MetalForge.",
+      "keyTechniques": [
+        "Riff-locked double bass — kick pattern rewritten to match each guitar riff's specific rhythmic subdivision",
+        "Restraint-first fill philosophy — compact kit avoiding clutter against dense eight-string riffing",
+        "Byzance Extra Dry cymbal accents chosen to avoid bleeding across tightly interlocked riff boundaries",
+        "Foundational djent vocabulary later carried into Koperweis's work founding Entheos"
+      ]
+    },
+    "faq": [
+      {
+        "question": "What drum kit did Navene Koperweis use on Animals as Leaders' 'Weightless'?",
+        "answer": "Navene Koperweis recorded 'Weightless' (2011) on a DW Performance Series all-maple 5-piece shell pack: a 22\" x 18\" bass drum, 10\", 12\", and 14\" rack toms, and a 16\" floor tom. The compact configuration was chosen for clarity against Animals as Leaders' dense, palm-muted eight-string riffing rather than for maximum low-end mass. For his current Entheos-era setup, see the [Navene Koperweis general drum setup breakdown](/articles/whats-in-navene-koperweiss-kit)."
+      },
+      {
+        "question": "Why is 'Weightless' considered a landmark djent album?",
+        "answer": "'Weightless' is where Navene Koperweis's riff-locked double bass technique — rewriting the kick pattern to match each guitar riff's specific rhythmic subdivision rather than applying a fixed template underneath it — first appeared on record. That approach became foundational to djent drumming in the years that followed. The album reached #92 on the Billboard 200 and earned a 7.5/10 from Chronicles of Chaos, with reviewers specifically citing the rhythmic sophistication of tracks like 'Isolated Incidents' and the title track."
+      },
+      {
+        "question": "What cymbals did Navene Koperweis play on 'Weightless'?",
+        "answer": "Koperweis played a five-piece Meinl Byzance Extra Dry setup on 'Weightless': 14\" Dual Hi-Hats, a 17\" and an 18\" Extra Dry Medium Crash, a 20\" Transition Ride, and an 18\" Extra Dry China. The Extra Dry finish's fast decay was chosen specifically to avoid cymbal accents bleeding across the album's tightly interlocked, constantly shifting riff boundaries — the same Byzance Extra Dry philosophy he still uses with Entheos today."
+      },
+      {
+        "question": "Was 'Weightless' Navene Koperweis's first album with Animals as Leaders?",
+        "answer": "Yes. Koperweis joined Animals as Leaders as the band expanded from Tosin Abasi's largely programmed-drum debut into a full working trio, and 'Weightless' (2011) was his first and only full studio album with the band — he departed in 2014, replaced by Matt Garstka, and went on to found Entheos in 2015. See the [Navene Koperweis drummer profile](/drummer/navene-koperweis) for his complete career arc."
+      },
+      {
+        "question": "What pedal drove Navene Koperweis's double bass on 'Weightless'?",
+        "answer": "Koperweis used a Tama Speed Cobra chain-drive double pedal during the Weightless era, chosen for the consistent response his riff-locked kick technique required — any mechanical difference between the primary and secondary beater would undercut the tight coupling between kick pattern and guitar riff that defines his style. He later switched to the DW 9000 Series double pedal with Entheos."
+      }
+    ],
+    "videos": [
+      {
+        "youtubeId": "xYbu9YRzD3Y",
+        "title": "Animals As Leaders - \"Isolated Incidents\" (Official Stream)",
+        "description": "Official Prosthetic Records stream of Isolated Incidents from Weightless, featuring Navene Koperweis's riff-locked double bass drumming"
+      }
+    ],
+    "relatedAlbums": [
+      "whats-in-navene-koperweiss-kit",
+      "obzen-drum-setup"
+    ],
+    "relatedDrummers": [
+      24,
+      53,
+      3
+    ],
+    "relatedArticles": [
+      "djent-drumming-guide",
+      "progressive-metal-drummers",
+      "fastest-double-bass-drummers"
+    ],
+    "conclusion": {
+      "title": "Weightless: The Blueprint for Riff-Locked Djent Drumming",
+      "content": "\"Weightless\" endures as one of djent's foundational texts not because of raw technical difficulty, but because of the specific rhythmic philosophy Navene Koperweis established on it: lock the kick to the riff, not to a template. That principle — audible throughout \"Odessa,\" \"Isolated Incidents,\" and the title track — became the shared vocabulary of an entire subgenre in the years that followed, adopted and adapted by drummers who never played a note with Animals as Leaders.\n\nThe gear behind that performance was deliberately restrained: a compact DW Performance Series maple kit prioritizing clarity over low-end mass, a steel snare chosen to cut through palm-muted riffing without overplaying, and a five-piece Meinl Byzance Extra Dry cymbal spread selected specifically to avoid cymbal bleed across the album's tightly interlocked riff boundaries. Every choice traces back to the same discipline: serve Tosin Abasi and Javier Reyes's compositions rather than compete with them.\n\nFor the fuller arc of Koperweis's career, including his current Entheos-era DW/Meinl setup: [Navene Koperweis's general drum setup breakdown](/articles/whats-in-navene-koperweiss-kit). For his complete profile: [Navene Koperweis at MetalForge](/drummer/navene-koperweis)."
+    }
   }
 };
 export default articles;

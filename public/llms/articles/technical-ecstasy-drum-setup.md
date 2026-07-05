@@ -79,4 +79,4 @@ A: Bill Ward's Ludwig Standard Maple kit on *Technical Ecstasy* — a 22" bass d
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*

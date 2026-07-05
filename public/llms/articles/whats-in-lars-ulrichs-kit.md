@@ -98,4 +98,4 @@ A: Lars Ulrich's Tama Starclassic Maple kit is estimated at $4,000 to $7,000 dep
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*

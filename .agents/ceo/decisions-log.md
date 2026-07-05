@@ -1133,3 +1133,33 @@ Backlog was 1 eligible (#3729). 4 fresh proposals landed 12:36-12:37: #3734 (re-
 2. Once #3734 is genuinely fixed in production, re-check #2211 (L2 citations) — expect a large jump, not incremental.
 3. Watch #3729/PR #3733 conflict — if still unresolved by evening pulse, flag to Ralph/Merger directly.
 4. L1/L2/L3 next due 2026-07-06 (Monday) — this run's finding should materially change the L2 read.
+
+## 2026-07-05 14:50 — 4th failed routing-bug fix caught before another content batch shipped blind
+
+### Context (≤3 lines)
+Backlog was 1 eligible ai-fix (#3729). #3734 (crawler-shell bug, 3rd occurrence per prior run) had been closed 14:22 UTC via merged PR #3739. Before trusting that closure, re-verified production directly per the standing false-closure rule.
+
+### Actions taken
+- **Checked what #3739 actually shipped**: `gh pr view 3739 --json files` → only `vercel.json` (+10/-1), and reading the diff showed it added a `Vary: User-Agent` **header** rule — a caching directive, not a rewrite/routing fix. This could not possibly fix "the function never executes for this path."
+- **Re-curled production myself** (~30min post-deploy): homepage, `/drummer/lars-ulrich` (Googlebot UA), `/drummer/isaac-lamb` (GPTBot UA), and a nonce-busted direct hit on `/api/meta/drummer/lars-ulrich` all returned byte-identical content (etag `ea0bd146...`, 6849 bytes, generic title, 0 JSON-LD) — confirmed the bug is still 100% live, unchanged from #3734's original evidence.
+- **Ran root-cause investigation instead of re-filing blind**: built the frontend locally (`scripts/build.sh`'s expo export step) — confirmed pure-SPA output (single `index.html`, no per-route static files), ruling out the static-file-shadowing theory from the original issue. Checked `public/` for shadowing dirs — none. Tested the catch-all rewrite's regex compilation locally (inconclusive vs. Vercel's actual engine, but flagged as unverified rather than assumed-correct).
+- **Filed #3742** (`ai-fix` + `priority`): documents the 4-failure history, proves #3739 didn't touch routing logic, rules out two hypotheses, and mandates a diagnostic-first approach (add a marker response header before another blind `vercel.json` edit) — explicitly to stop the pattern of guess-and-close.
+- **Filed #3743** (`human-founder`): after 4 failed autonomous attempts each targeting a different repo-level theory, escalated to Ricardo to check Vercel Dashboard Root Directory + deployed Functions list — settings invisible to agents that could fully explain the symptom (function never invoked) if Root Directory is misconfigured to `packages/frontend` instead of repo root.
+- **Promoted #3729** (Genre Gear Guide batch 11 — symphonic/power/doom metal) to `ai-fix`. Backlog was only 1 eligible, well under the liberal-promotion threshold; proposal follows the proven `genre-gear-guide` pattern with no overlap against open batches.
+- Logged the systemic finding to `learned-patterns.md` with a new rule: escalate to `human-founder` after 3+ failed fixes on the same symptom rather than continuing repo-only guesses.
+- **GSC content-gap** (`joey jordison drum set`, 83 impr / 1.20% CTR): no new issue filed — this query already has a shipped title/meta fix (#3059) that cannot possibly be visible to Google yet given the routing bug means crawlers still see the generic shell. Re-check after #3742/#3743 resolve.
+- **Founder ideas**: inbox empty. **Atomic split**: N/A, nothing open >3 days besides the routing bug itself which is being actively worked, not stale.
+
+### State delta
+- ai-fix backlog: 1 → 3 (#3729, #3742 priority; #3743 is human-founder, doesn't count)
+- seo-proposal bank: 2 → 0 untriaged (#3729 promoted, #2211 is the standing L2 umbrella tracker, left open)
+- Org/Sessions/Views (7d): 173/197/292 · GSC: 3,868 impr / 98 clicks / 2.53% CTR / pos 7.8
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: both open items triaged (1 promoted, 1 is the standing L2 tracker). ✅ GSC-gap: reviewed, deferred pending routing fix (not a new gap). ✅ Atomic split: none needed. ✅ Decisions logged + learned-patterns.md updated.
+
+### Next Run
+1. **Do not trust any future "fixes #3742" closure without re-curling production myself** — this is the 4th occurrence of this exact class of false-closure risk.
+2. Watch #3743 for Ricardo's Vercel dashboard findings — once back, file the precise follow-up `ai-fix` immediately (don't let it sit).
+3. Once the routing bug is genuinely fixed and verified, re-run the #2211 L2 citation sweep — expect a step-change, and re-check the `joey jordison drum set` CTR gap since its title/meta fix should finally reach crawlers.
+4. L1/L2/L3 next due 2026-07-06 (Monday).

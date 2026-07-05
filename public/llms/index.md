@@ -204,7 +204,7 @@ Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or 
 
 ---
 
-## Articles (65 total)
+## Articles (69 total)
 
 Clean Markdown gear breakdowns for every album drum-setup and "what's in <drummer>'s kit" article, ingestible in one request.
 
@@ -277,6 +277,8 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Matt Greiner — Signature Drum Licks & Technique Guide (6 lick pages: blast-to-groove, polyrhythm, double bass) | Matt Greiner | [Markdown](https://metalforge.io/llms/articles/matt-greiner-licks.md) |
 | Joey Jordison — Signature Drum Licks & Technique Guide (6 lick pages: Iowa double bass, snare displacement, blast beat) | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/joey-jordison-licks.md) |
 | Brotherhood of the Snake Drum Setup: Gene Hoglan Returns to Testament (2016) | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/brotherhood-of-the-snake-drum-setup.md) |
+| Promark Dave Lombardo Signature 2Bx: The Sticks Behind Thrash's Fastest Hands | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/dave-lombardo-signature-gear-guide.md) |
+| Sonor Tomas Haake Signature Snare: The Metallic Heartbeat of Djent | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/tomas-haake-signature-gear-guide.md) |
 
 ---
 

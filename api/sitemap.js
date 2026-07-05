@@ -241,6 +241,8 @@ const signatureGearPages = [
   { drummerSlug: 'danny-carey', gearSlug: 'danny-carey-paiste-giant-beat-gongs', name: 'Paiste Giant Beat Gongs' },
   { drummerSlug: 'mario-duplantier', gearSlug: 'mario-duplantier-tama-starphonic-bronze', name: 'Tama Starphonic Bronze' },
   { drummerSlug: 'gene-hoglan', gearSlug: 'gene-hoglan-pearl-reference-kit', name: 'Pearl Reference Pure Kit' },
+  { drummerSlug: 'dave-lombardo', gearSlug: 'dave-lombardo-promark-2bx-signature', name: 'Promark Dave Lombardo Signature 2Bx' },
+  { drummerSlug: 'tomas-haake', gearSlug: 'tomas-haake-sonor-signature-snare', name: 'Sonor Tomas Haake Signature Snare' },
 ];
 
 // Issue #749 / #1056: Signature Licks pages — derived from SIGNATURE_LICKS so new

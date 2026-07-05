@@ -3453,6 +3453,11 @@ function generateMetaHtml(meta, originalUrl) {
 }
 
 export default function handler(req, res) {
+  // Issue #3742: unmistakable marker proving this function actually ran, so a
+  // production curl can distinguish "rewrite never reached the function" from
+  // "function ran but produced the wrong output" without guessing.
+  res.setHeader('X-Meta-Handler', 'hit-v1');
+
   // Get the path from the catchall segments
   const pathSegments = req.query.path || [];
   const pathname = '/' + (Array.isArray(pathSegments) ? pathSegments.join('/') : pathSegments);

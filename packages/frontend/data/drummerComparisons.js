@@ -2592,6 +2592,73 @@ export const drummerComparisons = {
     },
     verdict: 'Isaac Lamb and John Otto both built their identities around groove over flash — Lamb through hardcore\'s crushing breakdowns, Otto through nu metal\'s hip-hop-infused pocket. Neither chases technical complexity, instead prioritizing feel and impact within their genres.',
   },
+
+  // Issue #3737: SEO batch 46 — comparison pairs for roster drummers with thinnest existing coverage
+  'kevin-talley-vs-daray': {
+    slug: 'kevin-talley-vs-daray',
+    title: 'Kevin Talley vs Daray',
+    metaTitle: 'Kevin Talley vs Daray — Brutal Death Metal vs Blackened Extreme Speed Compared | MetalForge',
+    metaDescription: 'Dying Fetus/Misery Index\'s Kevin Talley vs Vader/Dimmu Borgir\'s Daray — American brutal death metal blast-beat ferocity versus Polish/Norwegian extreme speed and theatrical flair.',
+    category: 'extreme',
+    drummers: ['kevin-talley', 'daray'],
+    comparison: {
+      style: 'Kevin Talley built his reputation in brutal death metal and grindcore across Dying Fetus, Misery Index, and Six Feet Under, favoring relentless blast-beat barrages that prioritize raw ferocity over ornamentation. Daray (Dariusz Brzozowski) built his name in Poland\'s death metal scene with Vader (2006-2016) before joining Norwegian symphonic black metal titans Dimmu Borgir in 2008, combining extreme speed, technical precision, and theatrical flair across two demanding extreme metal chairs.',
+      technique: 'Talley\'s fast, precise single-stroke blasting and gravity-blast technique became a blueprint for brutal death metal drumming, prized for stamina across dense, grinding arrangements spanning his additional work with Chimaira and Suffocation. Daray drives rapid-fire double bass work through a Pearl Demon XR double pedal, bringing Vader\'s stripped-down technical death metal speed into Dimmu Borgir\'s orchestrated, large-scale symphonic black metal productions.',
+      gear: 'Kevin plays a Pearl Masters Premium Legend kit with a 14x5.5" Pearl Masters maple snare, Sabian AAX Series cymbals (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride), and a Pearl Eliminator double pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon XR double pedal.',
+      influence: 'Talley helped define the brutal death metal and grindcore drumming vocabulary through his work across Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation, influencing a generation of drummers chasing raw blast-beat velocity. Daray proved a single drummer could hold down two of extreme metal\'s most demanding chairs at once, carrying Vader\'s technical death metal speed into Dimmu Borgir\'s symphonic black metal machine.',
+    },
+    verdict: 'Kevin Talley\'s speed and precision across Dying Fetus, Misery Index, and Six Feet Under helped establish brutal death metal\'s blast-beat standard on American soil. Daray took a parallel path through Polish death metal with Vader before applying that same extreme-speed foundation to Dimmu Borgir\'s theatrical Norwegian symphonic black metal since 2008. Both drummers show how brutal death metal\'s blast-beat vocabulary translates across bands and even across extreme metal subgenres, from stripped-down American brutality to Scandinavian symphonic scale.',
+    faqs: [
+      { q: 'Who is technically more skilled, Kevin Talley or Daray?', a: 'Both are elite extreme-speed drummers from different corners of death metal. Kevin Talley\'s skill set is rooted in brutal death metal and grindcore — fast, precise single-stroke blasting proven across Dying Fetus, Misery Index, and Six Feet Under. Daray\'s skill set spans two extreme metal chairs at once, combining Vader\'s technical death metal speed with Dimmu Borgir\'s theatrical symphonic black metal.' },
+      { q: 'What is each drummer\'s signature technique?', a: 'Kevin Talley\'s signature is relentless, high-velocity single-stroke and gravity-blast beats that defined brutal death metal\'s drumming standard. Daray\'s signature is rapid-fire double bass work delivered through a Pearl Demon XR double pedal, applied across both stripped-down death metal and orchestrated black metal.' },
+      { q: 'What bands have Kevin Talley and Daray played in?', a: 'Kevin Talley has played with Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation. Daray played in Polish death metal band Vader from 2006 to 2016 and has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008.' },
+      { q: 'What gear do Kevin Talley and Daray use?', a: 'Kevin Talley plays a Pearl Masters Premium Legend kit with a 14x5.5" Pearl Masters maple snare and Sabian AAX Series cymbals, driven by a Pearl Eliminator double pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare and Paiste RUDE & 2002 Series cymbals, driven by a Pearl Demon XR double pedal.' },
+    ],
+  },
+
+  'isaac-lamb-vs-ryan-van-poederooyen': {
+    slug: 'isaac-lamb-vs-ryan-van-poederooyen',
+    title: 'Isaac Lamb vs Ryan Van Poederooyen',
+    metaTitle: 'Isaac Lamb vs Ryan Van Poederooyen — Beatdown Hardcore vs Progressive Metal Drumming | MetalForge',
+    metaDescription: 'Kublai Khan TX\'s Isaac Lamb vs Devin Townsend Project\'s Ryan Van Poederooyen — crushing breakdown-driven grooves versus versatile, genre-shifting progressive metal drumming compared.',
+    category: 'other',
+    drummers: ['isaac-lamb', 'ryan-van-poederooyen'],
+    comparison: {
+      style: 'Isaac Lamb has been the sole drummer behind Kublai Khan TX\'s beatdown hardcore since the band\'s 2009 formation in Sherman, Texas, building a sound defined by crushing breakdowns and devastating groove. Ryan Van Poederooyen navigated Devin Townsend\'s genre-defying compositions from 2009 to 2018, moving fluidly between ambient passages and crushing metal sections across "Accelerated Evolution," "Synchestra," "Addicted," and "Transcendence."',
+      technique: 'Lamb prioritizes devastating breakdown timing over flash, built around the direct-drive precision of a DW 9000 Series double pedal that lands kick patterns consistently at every tempo the band throws at him. Van Poederooyen\'s creative tom patterns and tasteful cymbal work give Devin Townsend\'s shifting dynamics room to breathe, backed by thunderous double bass through a Pearl Demon Drive pedal when the material demands it.',
+      gear: 'Isaac plays an SJC Custom kit with a 14x6.5" SJC Custom snare, Meinl Classics Custom Dark Series cymbals (14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China), and a DW 9000 Series double pedal. Ryan plays a Pearl Reference Series kit with a 14x6.5" brass Pearl Reference snare, Sabian HHX & AAX cymbals (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China), and a Pearl Demon Drive double pedal.',
+      influence: 'Lamb has helped establish beatdown hardcore as one of modern metal\'s most respected offshoots, playing every Kublai Khan TX show since 2009 without a substitute. Van Poederooyen became integral to Devin Townsend\'s sound across multiple genre-spanning albums, proving a drummer could serve wildly different styles within one artist\'s catalog while also working as a session drummer and drum teacher in the Montreal area.',
+    },
+    verdict: 'Isaac Lamb and Ryan Van Poederooyen represent opposite ends of what "serving the song" can mean in heavy music. Lamb channels everything into devastating breakdown impact for Kublai Khan TX\'s beatdown hardcore, while Van Poederooyen builds a career on versatility, adapting to Devin Townsend\'s constantly shifting genre experiments. Both prioritize the song over technical display, just within radically different sonic worlds — one narrow and crushing, the other wide and unpredictable.',
+    faqs: [
+      { q: 'Who is technically more skilled, Isaac Lamb or Ryan Van Poederooyen?', a: 'Both excel at serving their music rather than chasing flash. Isaac Lamb\'s skill set is rooted in devastating breakdown timing and consistent, direct-drive kick response for Kublai Khan TX\'s beatdown hardcore. Ryan Van Poederooyen\'s skill set is rooted in versatility — navigating Devin Townsend\'s genre-shifting compositions from ambient passages to crushing metal sections.' },
+      { q: 'What is each drummer\'s signature technique?', a: 'Isaac Lamb\'s signature is crushing, breakdown-driven grooves delivered with direct-drive kick precision. Ryan Van Poederooyen\'s signature is creative tom patterns and tasteful cymbal work that adapt to wildly different sections within a single song.' },
+      { q: 'What bands have Isaac Lamb and Ryan Van Poederooyen played in?', a: 'Isaac Lamb is the founding and sole drummer of Kublai Khan TX since the band formed in Sherman, Texas in 2009. Ryan Van Poederooyen played with the Devin Townsend Band and Devin Townsend Project from 2009 to 2018.' },
+      { q: 'What gear do Isaac Lamb and Ryan Van Poederooyen use?', a: 'Isaac Lamb plays an SJC Custom kit with a 14x6.5" SJC Custom snare and Meinl Classics Custom Dark Series cymbals, driven by a DW 9000 Series double pedal. Ryan Van Poederooyen plays a Pearl Reference Series kit with a 14x6.5" brass Pearl Reference snare and Sabian HHX & AAX cymbals, driven by a Pearl Demon Drive double pedal.' },
+    ],
+  },
+
+  'jocke-wallgren-vs-daray': {
+    slug: 'jocke-wallgren-vs-daray',
+    title: 'Jocke Wallgren vs Daray',
+    metaTitle: 'Jocke Wallgren vs Daray — Melodic Death Metal Groove vs Blackened Extreme Speed | MetalForge',
+    metaDescription: 'Amon Amarth\'s Jocke Wallgren vs Vader/Dimmu Borgir\'s Daray — groove-driven Viking metal power versus Polish/Norwegian blast-beat extreme speed and theatrical flair compared.',
+    category: 'extreme',
+    drummers: ['jocke-wallgren', 'daray'],
+    comparison: {
+      style: 'Jocke Wallgren joined Amon Amarth in 2016, replacing Fredrik Andersson and bringing fresh energy to the band\'s Viking-themed melodic death metal through powerful double bass patterns and groove-oriented playing. Daray built his name in Poland\'s death metal scene with Vader (2006-2016) before joining Norwegian symphonic black metal titans Dimmu Borgir in 2008, combining extreme speed, technical precision, and theatrical flair.',
+      technique: 'Wallgren anchors Amon Amarth\'s driving, groove-oriented tempos with a Pearl Demon Drive double pedal, giving the band\'s galloping riffs and gang-vocal choruses the speed and stability needed for arena and festival stages worldwide. Daray drives rapid-fire double bass through a Pearl Demon XR double pedal, applying blast-beat extreme speed across Vader\'s stripped-down brutality and Dimmu Borgir\'s orchestrated symphonic arrangements.',
+      gear: 'Jocke plays a Pearl Reference Pure kit with a 14x6.5" brass Pearl Reference snare, Zildjian A Custom & K Custom Series cymbals (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride), and a Pearl Demon Drive double pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare, Paiste RUDE & 2002 Series cymbals (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride), and a Pearl Demon XR double pedal.',
+      influence: 'Wallgren has driven Amon Amarth\'s rise into one of melodic death metal\'s biggest global touring acts since 2016, carrying the band\'s Viking metal sound across "Jomsviking" and "Berserker." Daray proved a single drummer could hold down two of extreme metal\'s most demanding chairs at once, bringing Vader\'s technical death metal speed into Dimmu Borgir\'s symphonic black metal machine.',
+    },
+    verdict: 'Jocke Wallgren and Daray sit at different points on extreme metal\'s speed-versus-groove spectrum. Wallgren prioritizes driving, danceable groove and double bass power that serves Amon Amarth\'s gang-vocal Viking anthems. Daray prioritizes raw blast-beat velocity and theatrical extremity across two of Europe\'s most demanding extreme metal bands. The comparison highlights how melodic death metal and blackened/technical death metal ask fundamentally different things of a drummer\'s low end.',
+    faqs: [
+      { q: 'Who is technically more skilled, Jocke Wallgren or Daray?', a: 'Both are accomplished drummers from different corners of extreme metal. Jocke Wallgren\'s skill set is rooted in groove-oriented, double-bass-driven melodic death metal that powers Amon Amarth\'s Viking anthems. Daray\'s skill set is rooted in raw blast-beat speed and technical precision across two demanding chairs in Vader and Dimmu Borgir.' },
+      { q: 'What is each drummer\'s signature technique?', a: 'Jocke Wallgren\'s signature is powerful, groove-oriented double bass patterns that drive Amon Amarth\'s galloping riffs. Daray\'s signature is rapid-fire blast-beat double bass work delivered through a Pearl Demon XR double pedal, applied across both stripped-down death metal and orchestrated black metal.' },
+      { q: 'What bands have Jocke Wallgren and Daray played in?', a: 'Jocke Wallgren has drummed for Swedish melodic death metal band Amon Amarth since 2016, replacing Fredrik Andersson. Daray played in Polish death metal band Vader from 2006 to 2016 and has drummed for Norwegian symphonic black metal band Dimmu Borgir since 2008.' },
+      { q: 'What gear do Jocke Wallgren and Daray use?', a: 'Jocke Wallgren plays a Pearl Reference Pure kit with a 14x6.5" brass Pearl Reference snare and Zildjian A Custom & K Custom Series cymbals, driven by a Pearl Demon Drive double pedal. Daray plays a Pearl Masterworks Stadium Exotic kit with a Pearl Reference 14x5.5" Brass snare and Paiste RUDE & 2002 Series cymbals, driven by a Pearl Demon XR double pedal.' },
+    ],
+  },
 };
 
 /**

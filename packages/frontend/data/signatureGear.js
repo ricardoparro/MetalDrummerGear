@@ -1264,6 +1264,549 @@ Pearl's Reference Pure remains the flagship of their acoustic drum line. It is c
     status: 'published',
     priority: 5,
   },
+
+  // ==========================================
+  // #6 PRIORITY: Dave Lombardo's Promark Signature 2Bx Sticks
+  // ==========================================
+  'dave-lombardo-promark-2bx-signature': {
+    slug: 'dave-lombardo-promark-2bx-signature',
+    name: 'Promark Dave Lombardo Signature 2Bx',
+    fullName: 'Promark Dave Lombardo Signature 2Bx Drumsticks',
+    model: 'Promark TX2BXW',
+    drummerId: 4,
+    drummerName: 'Dave Lombardo',
+    drummerSlug: 'dave-lombardo',
+    brand: 'Promark',
+    category: 'sticks',
+    gearType: 'Drumsticks',
+
+    hero: {
+      tagline: 'The Sticks Behind Thrash\'s Fastest Hands',
+      subtitle: 'The heavier, extra-durable 2Bx built to survive Reign in Blood-era tempos night after night',
+      heroImage: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
+      badgeText: 'Signature Series',
+    },
+
+    story: {
+      title: 'Built to Outlast the Fastest Feet in Thrash',
+      content: `Dave Lombardo's stick choice has always tracked the physical demands of the music he was playing. His gear timeline tells the story plainly: Pro-Mark 5A during Slayer's earliest club years (1981-1986), a heavier Promark 2B once "Reign in Blood" (1986) pushed tempos past 220 BPM, and finally his own Promark Dave Lombardo Signature model once the workload of touring behind that album — and its follow-ups "South of Heaven" and "Seasons in the Abyss" — made a standard 2B feel too fragile for the job. The current 2Bx iteration, adopted for Slayer's 2001-2013 reunion era and carried into his post-Slayer work with Dead Cross, Mr. Bungle, and Suicidal Tendencies, is the heaviest and most durable version yet.
+
+"Speed is nothing without control. You have to be able to play fast and tight at the same time," Lombardo said in a 2006 Modern Drummer Magazine interview — a line that doubles as the design brief for his signature stick. A 2B-weight stick gives a drummer more mass to work with than a standard 5A or 5B, which means more rebound and more volume per stroke without extra effort. That matters enormously at the tempos Lombardo helped invent: when a snare hit has to land cleanly at sixteenth notes above 200 BPM for an entire set, a thinner stick's tip simply wears out faster, and a lighter stick forces the player to work harder to get the same volume. The 2Bx spec — a heavier oval tip and an extra-long taper relative to a stock 2B — was built specifically to survive that kind of night-after-night abuse while still allowing the fast, precise rebound his technique depends on.
+
+That technique was never just brute force. Lombardo has been open about the roots of his playing predating Slayer entirely. "I never wanted to be a typical metal drummer. I wanted to bring jazz, Latin, and world music into heavy music," he told Drumeo in a 2019 interview. The oval tip on the 2Bx is part of what makes that possible on a stick this heavy — it keeps the attack focused and articulate rather than clubby, so the same stick that survives a two-hour thrash set can also handle the syncopated, Latin-inflected phrasing he brings to Fantômas, Mr. Bungle, and Dead Cross.
+
+The album that made the stick necessary in the first place remains the touchstone. "Reign in Blood changed everything. We didn't know we were making history, we were just playing as fast as we could," Lombardo said in a 2016 Revolver Magazine interview reflecting on the record's 30th anniversary. "Angel of Death" and "Raining Blood" are still the benchmark tracks cited by drummers studying his technique, and both were recorded years before the current 2Bx spec existed — but they're the reason a standard-weight stick was never going to be durable enough for the demands Lombardo's playing puts on hardware.
+
+Nearly four decades after "Reign in Blood," the Promark Dave Lombardo Signature 2Bx remains part of his working setup alongside his Tama Starclassic kit and Paiste cymbals — a stick built less as a marketing exercise than as a direct answer to the physical problem his own drumming created.`,
+      images: [
+        { src: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg', alt: 'Dave Lombardo performing live', caption: 'Dave Lombardo performing with his Tama and Paiste setup' },
+      ],
+    },
+
+    specs: {
+      title: 'Technical Specifications',
+      dimensions: {
+        length: '16.25"',
+        diameter: '.630"',
+        tip: 'Oval Wood Tip',
+        taper: 'Extra-Long Taper',
+      },
+      features: [
+        {
+          name: 'Weight Class',
+          value: '2B (Heavy)',
+          description: 'Heavier than a standard 5A/5B for maximum volume and rebound at high tempos',
+        },
+        {
+          name: 'Diameter',
+          value: '.630 inches',
+          description: 'Thicker shaft than a stock 2B for added durability under sustained fast playing',
+        },
+        {
+          name: 'Length',
+          value: '16.25 inches',
+          description: 'Slightly longer than standard for extra reach and leverage',
+        },
+        {
+          name: 'Tip Shape',
+          value: 'Oval Wood',
+          description: 'Focused, articulate attack that keeps a heavy stick from sounding clubby',
+        },
+        {
+          name: 'Taper',
+          value: 'Extra-Long',
+          description: 'Longer taper shifts the balance point for faster rebound despite the added mass',
+        },
+        {
+          name: 'Material',
+          value: 'American Hickory',
+          description: 'Promark\'s standard hickory shaft for shock absorption and durability',
+        },
+      ],
+      tuningTips: [
+        'The extra weight rewards a relaxed fulcrum grip — fighting the stick\'s mass will tire your hands faster than letting it do the work',
+        'The oval tip favors a slightly more matched grip angle for consistent attack on both hands',
+        'Rotate sticks regularly during long sets — the extra-long taper wears unevenly if always struck at the same contact point',
+        'For blast-beat practice at speed, let the stick\'s rebound do more of the work rather than pressing into the head',
+      ],
+    },
+
+    sound: {
+      title: 'Hear It In Action',
+      description: 'Dave Lombardo\'s stick control at extreme tempos is best heard in drum-cam footage where the attack and rebound are unmistakable.',
+      videos: [
+        {
+          youtubeId: '3ivOfkqFmxg',
+          title: 'War Ensemble - Drum Cam (Yankee Stadium, Official)',
+          description: 'Official drum cam footage showing Lombardo\'s stick control at speed',
+          year: 2010,
+        },
+        {
+          youtubeId: 'ManyDSIC8fQ',
+          title: 'Angel of Death - Drum Cam',
+          description: 'One of the benchmark tracks for extreme-tempo stick technique',
+          year: 2010,
+        },
+        {
+          youtubeId: '3kBCky31sTg',
+          title: 'Full Show Drum Cam (St Louis 2003)',
+          description: 'Extended live footage across a full Slayer set',
+          year: 2003,
+        },
+      ],
+      featuredTracks: [
+        { song: 'Angel of Death', album: 'Reign in Blood (1986)', note: 'The definitive benchmark for Lombardo\'s speed and stick control' },
+        { song: 'Raining Blood', album: 'Reign in Blood (1986)', note: 'Relentless sixteenth-note patterns at extreme tempo' },
+        { song: 'War Ensemble', album: 'Seasons in the Abyss (1990)', note: 'Explosive attack and dynamic control throughout' },
+      ],
+    },
+
+    affiliate: {
+      title: 'Get This Gear',
+      description: 'The Promark Dave Lombardo Signature 2Bx remains in production and widely available.',
+      currentPrice: {
+        range: '$12-16',
+        note: 'Priced per pair, like most signature drumsticks',
+      },
+      alternatives: [
+        {
+          name: 'Promark Classic Forward 2B',
+          price: '$9-13',
+          reason: 'Same weight class without the signature\'s extra-long taper — more affordable',
+        },
+        {
+          name: 'Vic Firth American Classic Extreme 5B',
+          price: '$10-14',
+          reason: 'Similar heavy-weight, oval-tip alternative for aggressive playing',
+        },
+      ],
+      retailers: [
+        { name: 'Sweetwater', url: 'https://www.sweetwater.com', logo: '/images/retailers/sweetwater.svg' },
+        { name: 'Thomann', url: 'https://www.thomann.de', logo: '/images/retailers/thomann.svg' },
+        { name: 'Guitar Center', url: 'https://www.guitarcenter.com', logo: '/images/retailers/guitarcenter.svg' },
+      ],
+    },
+
+    usedOn: {
+      title: 'Featured On These Recordings',
+      albums: [
+        {
+          title: 'Reign in Blood',
+          artist: 'Slayer',
+          year: 1986,
+          cover: '/images/albums/reign-in-blood.webp',
+          note: 'The album that made a heavier, more durable stick necessary',
+        },
+        {
+          title: 'Seasons in the Abyss',
+          artist: 'Slayer',
+          year: 1990,
+          cover: '/images/albums/seasons-in-the-abyss.webp',
+          note: 'Extreme tempos sustained across a full album',
+        },
+        {
+          title: 'Christ Illusion',
+          artist: 'Slayer',
+          year: 2006,
+          cover: '/images/albums/christ-illusion.webp',
+          note: 'Grammy-winning performance during the 2Bx era',
+        },
+      ],
+      tours: [
+        'Reign in Blood Tour (1986-1987)',
+        'Seasons in the Abyss Tour (1990-1991)',
+        'Slayer Reunion Tours (2001-2013)',
+        'Dead Cross Tours (2017-present)',
+      ],
+    },
+
+    similarGear: {
+      title: 'Similar Gear You Might Like',
+      items: [
+        {
+          name: 'Promark Classic Forward 2B',
+          slug: 'promark-classic-forward-2b',
+          image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
+          price: '$9-13',
+          reason: 'Same weight class, standard taper — a more affordable everyday option',
+        },
+        {
+          name: 'Vic Firth American Classic Extreme 5B',
+          slug: 'vic-firth-extreme-5b',
+          image: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
+          price: '$10-14',
+          reason: 'Comparable heavy-weight alternative for aggressive playing',
+        },
+      ],
+      drummerAlternatives: [
+        {
+          drummer: 'Lars Ulrich',
+          drummerSlug: 'lars-ulrich',
+          snare: 'Ahead Lars Ulrich Signature Drumsticks',
+          note: 'Fellow thrash pioneer whose signature aluminum sticks solve the same durability problem a different way',
+        },
+        {
+          drummer: 'Joey Jordison',
+          drummerSlug: 'joey-jordison',
+          snare: 'Promark TX515W Signature Sticks',
+          note: 'Another Promark signature model built for extreme metal\'s physical demands',
+        },
+      ],
+    },
+
+    faq: [
+      {
+        question: 'What is the difference between the Promark 2Bx and a standard 2B stick?',
+        answer: 'The 2Bx is Dave Lombardo\'s signature spec: a thicker .630" diameter shaft, an extra-long taper, and an oval wood tip, all built to survive extreme-tempo thrash playing without sacrificing rebound. A stock 2B is close in weight but uses a standard taper, which shifts the balance point and gives a slightly different feel under fast, sustained playing.',
+      },
+      {
+        question: 'Why does Dave Lombardo use a heavier drumstick?',
+        answer: 'Lombardo\'s playing has always demanded volume and durability at extreme tempos — his double bass and snare work on "Reign in Blood" (1986) set the template for thrash metal speed. A heavier 2B-class stick gives more mass and rebound per stroke than a standard 5A or 5B, meaning less physical effort is needed to maintain volume and articulation across a full set.',
+      },
+      {
+        question: 'Did Dave Lombardo always use the 2Bx?',
+        answer: 'No. His stick choice evolved with the demands of the music: Pro-Mark 5A during early Slayer (1981-1986), a standard Promark 2B once "Reign in Blood" pushed tempos higher, his own Promark Dave Lombardo Signature model after his first Slayer departure, and finally the heavier 2Bx spec that has carried through Slayer\'s 2001-2013 reunion era and his subsequent work with Dead Cross, Mr. Bungle, and Suicidal Tendencies.',
+      },
+    ],
+
+    discussion: {
+      title: 'Join the Discussion',
+      topics: [
+        'How heavy a stick do you use for extreme tempo playing?',
+        'Oval tip vs. round tip — which do you prefer for cutting attack?',
+        'Share your favorite Dave Lombardo drumming moment',
+      ],
+      relatedDrummers: [4, 1, 2],
+    },
+
+    seo: {
+      title: 'Promark Dave Lombardo Signature 2Bx Drumsticks - Complete Guide | MetalForge',
+      description: 'Discover the Promark Dave Lombardo Signature 2Bx drumsticks built for thrash metal\'s fastest tempos. Full specs, story, videos, and buying guide.',
+      keywords: [
+        'dave lombardo sticks',
+        'promark dave lombardo signature',
+        'promark 2bx',
+        'slayer drumsticks',
+        'dave lombardo drum gear',
+        'thrash metal drumsticks',
+        'promark tx2bxw',
+        'heavy drumsticks for metal',
+      ],
+      ogImage: 'https://upload.wikimedia.org/wikipedia/commons/d/df/Dave_Lombardo_8.5.14.jpeg',
+    },
+
+    schema: {
+      type: 'Product',
+      brand: 'Promark',
+      model: 'Dave Lombardo Signature 2Bx (TX2BXW)',
+      category: 'Musical Instruments > Drums > Drumsticks',
+    },
+
+    datePublished: '2026-07-05',
+    dateModified: '2026-07-05',
+    author: 'MetalForge Editorial',
+    status: 'published',
+    priority: 6,
+  },
+
+  // ==========================================
+  // #7 PRIORITY: Tomas Haake's Sonor Signature Snare
+  // ==========================================
+  'tomas-haake-sonor-signature-snare': {
+    slug: 'tomas-haake-sonor-signature-snare',
+    name: 'Sonor Tomas Haake Signature Snare',
+    fullName: 'Sonor Tomas Haake Signature Snare 14x6.5"',
+    model: 'Sonor Signature Series Tomas Haake',
+    drummerId: 5,
+    drummerName: 'Tomas Haake',
+    drummerSlug: 'tomas-haake',
+    brand: 'Sonor',
+    category: 'snare',
+    gearType: 'Snare Drum',
+
+    hero: {
+      tagline: 'The Metallic Heartbeat of Djent',
+      subtitle: 'The Sonor signature snare that anchors Meshuggah\'s polyrhythmic precision',
+      heroImage: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg',
+      badgeText: 'Signature Series',
+    },
+
+    story: {
+      title: 'The Fixed Point in a Shifting Meter',
+      content: `Tomas Haake's drumming is built around a paradox: he holds a steady 4/4 pulse while Meshuggah's guitars cycle through shifting odd meters underneath him. "The polyrhythmic approach came from wanting to create something that felt both mechanical and organic at the same time," Haake explained in a 2012 Modern Drummer Magazine interview — and nowhere is that balance more exposed than on the snare drum, the instrument that has to mark the beat clearly enough for the listener to stay oriented while the rest of the band deliberately drifts away from it.
+
+The Sonor Tomas Haake Signature snare first appeared on Meshuggah's gear rider during the "Chaosphere" and "Nothing" era (1998-2005), replacing the Sonor Designer Series bronze snare he'd used on "Destroy Erase Improve." It has remained the backbone of his kit ever since, carried through "Catch Thirtythree" (2005), "obZen" (2008), "Koloss" (2012), "The Violent Sleep of Reason" (2016), and "Immutable" (2022) — a 25-plus year run on the same signature model, which is unusual even among artist-endorsed gear.
+
+The reason it has lasted is functional, not sentimental. Meshuggah's 8-string guitars are tuned far below standard pitch, and the resulting mix occupies a huge amount of low-mid frequency space. A snare that leans too warm gets buried; one that's all crack and no body sounds thin next to guitars that heavy. The 14x6.5" signature snare splits that difference — enough shell depth to carry weight in the mix, tuned and built to cut through with a clear, dry attack rather than a wash of overtone. Later in his career Haake paired it with a companion Sonor Artist Series Bronze snare for sessions that call for a slightly different tonal color, but the original 14x6.5" signature model remains his primary drum.
+
+Nothing tests that snare's clarity like "Bleed," from "obZen." The track's relentless 32nd-note kick pattern is the part most drummers cite first, but the snare backbeat has to stay locked and audible through the entire pattern without smearing into the surrounding double bass. "'Bleed' took me six months of daily practice to play consistently. Some things just take time," Haake told Gear Gods in a 2017 interview — a reminder that the snare's job in that track isn't just tone, it's survival under sustained, repetitive stress at high volume.
+
+Haake's overall approach to his rig reflects the same philosophy of control over spectacle. "I use two single pedals instead of a double pedal because I want more independence and control over each foot," he said in a 2019 Drumeo interview — a setup choice, like the snare itself, built around precision rather than convention. The Sonor SQ2 Heavy Beech kit that houses the signature snare uses the same logic: a shell material chosen for focused resonance rather than maximum ring, built to serve Meshuggah's rhythmic architecture rather than compete with it.
+
+More than two decades after its introduction, the Sonor Tomas Haake Signature snare remains one of the most instantly recognizable drum sounds in progressive metal — proof that in music this rhythmically complex, the most valuable piece of gear is often the one that simply refuses to get lost.`,
+      images: [
+        { src: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg', alt: 'Tomas Haake performing live with Meshuggah', caption: 'Tomas Haake performing with Meshuggah, Rock am Ring 2023' },
+      ],
+    },
+
+    specs: {
+      title: 'Technical Specifications',
+      dimensions: {
+        diameter: '14"',
+        depth: '6.5"',
+        shell: 'Sonor Signature Steel/Beech Hybrid',
+        finish: 'Chrome Hardware',
+      },
+      features: [
+        {
+          name: 'Diameter',
+          value: '14 inches',
+          description: 'Standard diameter for broad head compatibility and familiar feel',
+        },
+        {
+          name: 'Depth',
+          value: '6.5 inches',
+          description: 'Deeper shell for added body and low-mid presence against down-tuned guitars',
+        },
+        {
+          name: 'Bearing Edge',
+          value: '45-degree',
+          description: 'Sharp edge for a fast, clean, articulate attack',
+        },
+        {
+          name: 'Snare Wires',
+          value: '20-strand steel',
+          description: 'Tight, controlled response for precise backbeat placement in dense mixes',
+        },
+        {
+          name: 'Lugs',
+          value: 'Sonor Tune Safe',
+          description: 'Low-mass lug design that preserves shell resonance and holds tuning under heavy playing',
+        },
+        {
+          name: 'Hoops',
+          value: 'Die-cast, triple-flanged',
+          description: 'Consistent rimshot tone and reliable tuning stability on tour',
+        },
+      ],
+      tuningTips: [
+        'Haake favors a dry, controlled tone — moderate batter tension with minimal ring rather than a wide-open sustain',
+        'A touch of dampening near the rim tightens the low-mid focus needed to cut through down-tuned guitar mixes',
+        'Keep resonant head tension close to the batter for a focused, articulate backbeat rather than added sustain',
+        'For rapid, repetitive patterns like "Bleed," prioritize consistent rebound over maximum volume',
+      ],
+    },
+
+    sound: {
+      title: 'Hear It In Action',
+      description: 'Tomas Haake\'s snare work is the fixed point that lets Meshuggah\'s polyrhythms make sense. These videos capture the signature snare\'s role in that balance.',
+      videos: [
+        {
+          youtubeId: 'bAJ1WTGNISk',
+          title: 'Bleed - Wincent Drumsticks',
+          description: 'Official footage showcasing the snare\'s clarity through "Bleed"\'s demanding pattern',
+          year: 2013,
+        },
+        {
+          youtubeId: 'axGn6qeJHcM',
+          title: 'Clockworks - Official Drum Playthrough',
+          description: 'Full drum playthrough highlighting the signature snare\'s tone and placement',
+          year: 2016,
+        },
+        {
+          youtubeId: 'kMo5VxRrgcY',
+          title: 'Drumming Footage - New England Metal Fest (Official)',
+          description: 'Live footage of Haake\'s full Sonor kit and signature snare in action',
+          year: 2008,
+        },
+      ],
+      featuredTracks: [
+        { song: 'Bleed', album: 'obZen (2008)', note: 'The signature snare\'s clarity under relentless 32nd-note kick patterns' },
+        { song: 'Rational Gaze', album: 'Nothing (2002)', note: 'The signature snare\'s debut era, anchoring Meshuggah\'s shifting meters' },
+        { song: 'Do Not Look Down', album: 'Koloss (2012)', note: 'Dry, controlled backbeat cutting through dense 8-string guitars' },
+        { song: 'Clockworks', album: 'Immutable (2022)', note: 'Modern production showcasing the snare\'s continued role in the kit' },
+      ],
+    },
+
+    affiliate: {
+      title: 'Get This Gear',
+      description: 'The Sonor Tomas Haake Signature snare is available through Sonor\'s artist signature line at authorized dealers.',
+      currentPrice: {
+        range: '$450-600',
+        note: 'Prices vary by finish and retailer availability',
+      },
+      alternatives: [
+        {
+          name: 'Sonor SQ2 Beech Snare 14x6.5"',
+          price: '$500-700',
+          reason: 'Same Sonor shell philosophy in the fully customizable SQ2 series',
+        },
+        {
+          name: 'Pearl Reference Pure Snare 14x6.5"',
+          price: '$400-550',
+          reason: 'Comparable depth and body for dense, down-tuned mixes',
+        },
+      ],
+      retailers: [
+        { name: 'Sweetwater', url: 'https://www.sweetwater.com', logo: '/images/retailers/sweetwater.svg' },
+        { name: 'Thomann', url: 'https://www.thomann.de', logo: '/images/retailers/thomann.svg' },
+        { name: 'Guitar Center', url: 'https://www.guitarcenter.com', logo: '/images/retailers/guitarcenter.svg' },
+      ],
+      usedMarket: {
+        note: 'Signature models rarely appear used — Meshuggah\'s fanbase tends to keep them',
+        priceRange: '$300-450',
+        tips: 'Check bearing edges and lug threads carefully; verify the snare wire strainer mechanism moves cleanly.',
+      },
+    },
+
+    usedOn: {
+      title: 'Featured On These Recordings',
+      albums: [
+        {
+          title: 'obZen',
+          artist: 'Meshuggah',
+          year: 2008,
+          cover: '/images/albums/meshuggah-obzen.webp',
+          note: 'Home of "Bleed" — the signature snare\'s definitive stress test',
+        },
+        {
+          title: 'Koloss',
+          artist: 'Meshuggah',
+          year: 2012,
+          cover: '/images/albums/meshuggah-koloss.webp',
+          note: 'Dense, down-tuned production with the signature snare front and center',
+        },
+        {
+          title: 'Nothing',
+          artist: 'Meshuggah',
+          year: 2002,
+          cover: '/images/albums/meshuggah-nothing.webp',
+          note: 'The signature snare\'s debut era on record',
+        },
+        {
+          title: 'Immutable',
+          artist: 'Meshuggah',
+          year: 2022,
+          cover: '/images/albums/meshuggah-immutable.webp',
+          note: 'Modern production, same signature snare over two decades later',
+        },
+      ],
+      tours: [
+        'obZen World Tour (2008-2010)',
+        'Koloss World Tour (2012-2014)',
+        'The Violent Sleep of Reason Tour (2016-2018)',
+        'Immutable Tour (2022-present)',
+      ],
+    },
+
+    similarGear: {
+      title: 'Similar Gear You Might Like',
+      items: [
+        {
+          name: 'Sonor SQ2 Beech Snare 14x6.5"',
+          slug: 'sonor-sq2-beech-snare',
+          image: 'https://upload.wikimedia.org/wikipedia/commons/4/46/2006-07-06_snare_14.jpg',
+          price: '$500-700',
+          reason: 'Same shell philosophy from Sonor\'s fully customizable line',
+        },
+        {
+          name: 'Pearl Reference Pure Snare 14x6.5"',
+          slug: 'pearl-reference-pure-snare',
+          image: 'https://upload.wikimedia.org/wikipedia/commons/e/ee/Pearl_MCX_snare_drum.JPG',
+          price: '$400-550',
+          reason: 'Comparable depth and low-mid body for down-tuned metal',
+        },
+      ],
+      drummerAlternatives: [
+        {
+          drummer: 'Mario Duplantier',
+          drummerSlug: 'mario-duplantier',
+          snare: 'Tama Starphonic Bronze Snare',
+          note: 'Fellow progressive metal drummer solving the same dense-mix clarity problem with a different shell material',
+        },
+        {
+          drummer: 'Gene Hoglan',
+          drummerSlug: 'gene-hoglan',
+          snare: 'Pearl Reference Pure Kit',
+          note: 'Another technically precise metal drummer whose gear is built for clarity at extreme dynamics',
+        },
+      ],
+    },
+
+    faq: [
+      {
+        question: 'What makes the Sonor Tomas Haake Signature snare suited to Meshuggah\'s music?',
+        answer: 'Meshuggah\'s 8-string guitars are tuned far below standard pitch, filling most of the low-mid frequency range. The signature snare\'s 14x6.5" depth gives it enough body to hold its own in that mix, while its dry, controlled tuning keeps the backbeat articulate rather than smeared — essential when the snare has to stay clearly audible while the rest of the band shifts through odd meters around it.',
+      },
+      {
+        question: 'How long has Tomas Haake used this signature snare?',
+        answer: 'The Sonor Tomas Haake Signature snare first appeared during Meshuggah\'s "Chaosphere" and "Nothing" era (1998-2005) and has remained his primary snare through "Catch Thirtythree," "obZen," "Koloss," "The Violent Sleep of Reason," and "Immutable" — more than 25 years on the same signature model.',
+      },
+      {
+        question: 'Does Tomas Haake use more than one snare?',
+        answer: 'Yes. Later in his career, Haake added a companion Sonor Artist Series Bronze snare to his setup for sessions requiring a different tonal color, but the 14x6.5" signature model has remained his primary snare throughout.',
+      },
+    ],
+
+    discussion: {
+      title: 'Join the Discussion',
+      topics: [
+        'How do you keep a snare from getting lost under down-tuned guitars?',
+        'Dry vs. resonant snare tuning for polyrhythmic metal',
+        'Share your favorite Tomas Haake snare moment',
+      ],
+      relatedDrummers: [5, 15, 3],
+    },
+
+    seo: {
+      title: 'Sonor Tomas Haake Signature Snare 14x6.5" - Complete Guide | MetalForge',
+      description: 'Explore the Sonor Tomas Haake Signature snare that anchors Meshuggah\'s polyrhythmic precision. Full specs, story, videos, and buying guide.',
+      keywords: [
+        'tomas haake snare',
+        'sonor tomas haake signature',
+        'meshuggah snare drum',
+        'tomas haake drum gear',
+        'obzen snare drum',
+        'sonor signature snare',
+        'djent snare drum',
+        'progressive metal snare',
+      ],
+      ogImage: 'https://upload.wikimedia.org/wikipedia/commons/7/7b/Meshuggah_-_Rock_am_Ring_2023-44313.jpg',
+    },
+
+    schema: {
+      type: 'Product',
+      brand: 'Sonor',
+      model: 'Tomas Haake Signature Snare 14x6.5"',
+      category: 'Musical Instruments > Drums > Snare Drums',
+    },
+
+    datePublished: '2026-07-05',
+    dateModified: '2026-07-05',
+    author: 'MetalForge Editorial',
+    status: 'published',
+    priority: 7,
+  },
 };
 
 // ==========================================

@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daray"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-07-04"
 ---
 
 # Daray — Drum Kit & Gear Setup
@@ -26,6 +26,12 @@ Daray's drum kit and gear setup. Daray is a professional metal drummer best know
 | Drum kit | Pearl Masterworks Stadium Exotic |
 | Signature snare | Pearl Reference 14x5.5" Brass |
 | Sticks | Vic Firth American Classic Extreme 5B |
+
+## Kit Overview
+
+Daray's kit is anchored by a Pearl Masterworks Stadium Exotic shell pack, a setup built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements and Vader's blast-driven death metal assault. His Pearl Reference 14x5.5" Brass snare supplies a sharp, cutting crack that stays audible against dense orchestral layers and extreme blast-beat tempos alike, forming the backbone of the Daray drum kit.
+
+Paiste's RUDE and 2002 Series cymbals give the kit its aggressive edge: 14" RUDE Hi-Hats for raw, driving timekeeping; 17" and 18" RUDE Crashes for explosive accents; and a 22" RUDE Power Ride cutting through extreme-tempo passages. A Pearl Demon XR double pedal provides the speed and control behind his rapid-fire double bass work, a defining element of his playing with both Dimmu Borgir and Vader. Vic Firth American Classic Extreme 5B sticks — a heavier stick variant built for extreme metal's demands — and Evans heads complete the setup, engineered to withstand the speed and theatrical intensity of his live performances.
 
 ## Biography
 

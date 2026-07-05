@@ -5137,6 +5137,19 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
       }
     ];
 
+    // "How much does {drummer}'s drum kit cost?" FAQ — GSC query gap (Issue #3767)
+    // kitCost is already computed above for the description/offer schema; surface it here too.
+    if (kitCost && kitCost.totalEur > 0) {
+      faqItems.push({
+        "@type": "Question",
+        "name": `How much does ${drummer.name}'s drum kit cost?`,
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": `${drummer.name}'s complete drum kit is estimated at ${formatPrice(kitCost.totalEur, 'EUR')} (${formatPrice(kitCost.totalUsd, 'USD')}), based on current retail prices for the full setup — drums, cymbals, and hardware.`
+        }
+      });
+    }
+
     // kitOverview prose FAQ — head-term citation gap (Issue #2212)
     // LLMs extract from prose paragraphs for "{drummer} drum kit" head-terms;
     // this FAQ entry provides a structured, citable prose answer.

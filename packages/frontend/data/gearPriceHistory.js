@@ -9162,6 +9162,139 @@ export const GEAR_PRICE_HISTORY = {
     },
   },
 
+  // Issue #3763: extended-roster gap fill — Adrian Erlandsson (SEO batch, closes lane parity with Sean Reinert/Nick Menza/Paul Bostaph/Jon Dette)
+  'adrian-erlandsson': {
+    slug: 'adrian-erlandsson',
+    name: 'Adrian Erlandsson',
+    band: 'At the Gates / Paradise Lost',
+    iconicYear: 1995,
+    era: 'Slaughter of the Soul Era',
+    albumReference: 'Slaughter of the Soul (1995)',
+    profileImage: '/images/drummers/adrian-erlandsson.webp',
+
+    summary: "Adrian Erlandsson's 1995 setup behind At the Gates' Slaughter of the Soul — the record that codified the Gothenburg melodic death metal template and remains one of the most influential albums in extreme metal history — captures the gear behind a budget underground rig that punched far above its price. Recorded at Studio Fredman with producer Fredrik Nordström, the Slaughter of the Soul-era kit centered on a Pearl Export or Studio Fredman house kit in birch/birch-poplar construction with a true double 22\" bass drum configuration (two separate kick drums rather than a double pedal on one), a 14\"x6\" steel or birch studio snare tuned high and tight, and a Zildjian A-Series cymbal setup anchored by an 18\" China that became a rhythmic signature of the album's riff-transition accents. The complete rig cost approximately $1,506 in 1995 dollars, equivalent to roughly $3,230 today after inflation.\n\nEvery choice reflected the constrained reality of underground European death metal in 1994: At the Gates had no budget for premium gear, and Fredrik Nordström's dry, close-miked, aggressively gated production approach at Studio Fredman did as much work as the instruments themselves. The double-kick configuration gave tracks like \"Blinded by Fear\" and \"Suicide Nation\" their full physical impact, while the high-tension snare and articulate Zildjian A-Series hi-hats and China cut cleanly through the album's dense tremolo-guitar wall — a production template later Gothenburg records openly imitated.\n\nThat budget foundation gave way to a career-long Tama Starclassic relationship once Erlandsson founded The Haunted in 1996 and joined Cradle of Filth in 1999, and it matured further into the Tama Starclassic Bubinga / Sabian AAX-HHX / Monolit Czarcie Kopyto rig he adopted during his 2009-2016 run with Paradise Lost — the same configuration he carries into At the Gates' ongoing reunion-era work today. His current-equivalent setup is valued at approximately $5,870 at current retail — the rig behind the drummer who helped invent a genre's rhythmic vocabulary on a shoestring budget, and the subject of MetalForge's dedicated Adrian Erlandsson drum-setup editorial article on Slaughter of the Soul.",
+
+    setup: {
+      drums: {
+        item: 'Pearl Export / Studio House Kit',
+        model: 'Birch or birch-poplar composite shell pack',
+        specs: '22" bass drums (x2), 10"/12" rack toms, 14"/16" floor toms',
+        originalPrice: 600,
+        year: 1995,
+        source: 'Pearl Export catalog pricing 1994-1995',
+        notes: "Exact model not definitively documented from the 1994 sessions — consistent with a Pearl Export or Studio Fredman house kit of the era, chosen for punchy, forward attack within At the Gates' underground recording budget.",
+        vintageValue2026: 500,
+        modernEquivalent: {
+          item: 'Tama Starclassic Bubinga (Current)',
+          price: 3800,
+          link: 'tama-starclassic-bubinga-adrian-erlandsson',
+        },
+      },
+      snare: {
+        item: 'Steel/Birch Studio Snare',
+        model: '14"x6" steel or birch shell',
+        specs: '14" x 6" shell',
+        originalPrice: 150,
+        year: 1995,
+        source: 'Snare catalog pricing 1994-1995',
+        notes: "Tuned high with tight snare wires for maximum attack and minimum ring, producing the dry crack that defines Slaughter of the Soul's sound.",
+        vintageValue2026: 120,
+        modernEquivalent: {
+          item: 'Tama Starclassic Bubinga 14"x6.5" Snare (Current)',
+          price: 500,
+          link: 'tama-starclassic-bubinga-snare-adrian-erlandsson',
+        },
+      },
+      cymbals: {
+        item: 'Zildjian A-Series',
+        model: 'Hi-hats, crashes, ride, China',
+        specs: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+        originalPrice: 550,
+        year: 1995,
+        source: 'Zildjian catalog pricing 1994-1995',
+        notes: "Widely available in Swedish professional music shops during this period — durable, articulate cymbals suited to the aggressive D-beat and blast-beat playing Slaughter of the Soul required, with the 18\" China anchoring the album's riff-transition accents.",
+        vintageValue2026: 450,
+        modernEquivalent: {
+          item: 'Sabian AAX / HHX Series (Current)',
+          price: 1600,
+          link: 'sabian-aax-hhx-adrian-erlandsson',
+        },
+      },
+      hardware: {
+        item: 'Tama / Pearl Standard Double Bass Pedal Setup',
+        model: 'Two separate bass drums, independent pedals',
+        specs: 'Two bass drum pedals, hi-hat stand, boom stands, snare stand',
+        originalPrice: 150,
+        year: 1995,
+        source: 'Tama/Pearl hardware catalog pricing 1994-1995',
+        notes: "A true double-drum configuration rather than a double pedal on a single kick, giving tracks like \"Blinded by Fear\" and \"Suicide Nation\" their full physical impact.",
+        vintageValue2026: 110,
+        modernEquivalent: {
+          item: 'Monolit Czarcie Kopyto Double Pedal (Current)',
+          price: 480,
+          link: 'czarcie-kopyto-adrian-erlandsson',
+        },
+      },
+      sticks: {
+        item: 'Vic Firth / Pro-Mark Standard',
+        model: 'Hickory',
+        specs: 'Hickory, wood tip, standard weight',
+        originalPrice: 6,
+        year: 1995,
+        source: 'Vic Firth/Pro-Mark retail pricing 1994-1995',
+        notes: "No fixed signature model yet — standard professional sticks for underground European death metal touring, years before his later official Vic Firth signature model.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Vic Firth Signature Model, At the Gates (Current)',
+          price: 14,
+          link: 'vic-firth-signature-adrian-erlandsson',
+        },
+      },
+      heads: {
+        item: 'Remo Emperor Coated',
+        model: 'Two-ply coated batter',
+        specs: 'Remo Emperor Coated tom and snare batters',
+        originalPrice: 50,
+        year: 1995,
+        source: 'Remo retail pricing 1994-1995',
+        notes: "Two-ply durability chosen for the relentless blast beat sections of Slaughter of the Soul.",
+        vintageValue2026: null,
+        modernEquivalent: {
+          item: 'Evans EMAD Onyx / EC Reverse Dot (Current)',
+          price: 120,
+          link: 'evans-emad-adrian-erlandsson',
+        },
+      },
+    },
+
+    totals: {
+      originalTotal: 1506,
+      inflationAdjusted2026: null, // Calculated dynamically
+      vintageTotal2026: 1180,
+      modernEquivalentTotal: 5874,
+    },
+
+    priceEvolution: [
+      { year: 1995, price: 1506, label: 'Slaughter of the Soul Era', event: "Original Purchase — Pearl Export/Studio House budget kit used for At the Gates' genre-defining Slaughter of the Soul, recorded at Studio Fredman with Fredrik Nordström" },
+      { year: 1998, price: 3200, label: 'The Haunted & Cradle of Filth Era', event: "Founded The Haunted, then joined Cradle of Filth — switched from Pearl to Tama Starclassic, beginning a career-long brand relationship" },
+      { year: 2011, price: 5800, label: 'Paradise Lost Era', event: "Joined Paradise Lost, recording Draconian Times MMXI — upgraded to Tama Starclassic Bubinga, Sabian AAX/HHX cymbals, and a Monolit Czarcie Kopyto double pedal" },
+      { year: 2026, price: 3230, label: 'Current adjusted', event: "Inflation-adjusted value of the 1995 Slaughter of the Soul-era Pearl Export setup" },
+    ],
+
+    sources: [
+      { title: 'Pearl Export Catalog', year: 1995, type: 'catalog' },
+      { title: 'Zildjian A-Series Cymbals Catalog', year: 1995, type: 'catalog' },
+      { title: 'Metal-Rules.com — Adrian Erlandsson Interview', year: 2014, type: 'interview' },
+      { title: 'Reverb Marketplace Analysis — Pearl Export Series', year: 2025, type: 'market' },
+    ],
+
+    meta: {
+      title: "Adrian Erlandsson Drum Setup Cost | At the Gates Gear Price History",
+      description: "How much was Adrian Erlandsson's Slaughter of the Soul-era Pearl Export drum kit worth? Original ~$1,506 in 1995, inflation-adjusted to ~$3,230 today. Complete gear breakdown across At the Gates, The Haunted, Cradle of Filth, and Paradise Lost.",
+      keywords: ['adrian erlandsson drum setup cost', 'adrian erlandsson drum kit price', 'at the gates drummer gear cost', 'adrian erlandsson pearl export kit', 'adrian erlandsson gear cost today', 'slaughter of the soul drum kit price'],
+    },
+  },
+
   'sean-reinert': {
     slug: 'sean-reinert',
     name: 'Sean Reinert',

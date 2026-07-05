@@ -73,6 +73,10 @@ A: Jocke Wallgren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats
 
 A: Jocke Wallgren drums for Amon Amarth, a melodic death metal / viking metal band.
 
+## Gear Evolution Timeline
+
+Jocke Wallgren's complete drum gear evolution — from the undocumented Swedish underground and Valkyria years through the Pearl Reference Pure / Zildjian A Custom & K Custom rig behind Amon Amarth's "Jomsviking" (2016), "Berserker" (2019), and "The Great Heathen Army" (2022) — is tracked era-by-era: [Jocke Wallgren Gear Evolution Timeline](https://metalforge.io/drummers/jocke-wallgren/evolution) ([markdown version](/llms/evolution/jocke-wallgren.md)).
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Jocke Wallgren:

@@ -19986,6 +19986,723 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Daray Gear Evolution Timeline | Dimmu Borgir Drum Kit History',
     metaDescription: 'Explore Daray\'s complete drum gear evolution: from the undocumented Vader years (2004–2008) through the Pearl Masterworks Stadium Exotic / Paiste RUDE rig behind Dimmu Borgir\'s Abrahadabra (2010), Eonian (2018), and 2026\'s Grand Serpent Rising.',
   },
+
+  // ==========================================
+  // Chris Turner - Oceans Ate Alaska (Drummer Evolution batch 25, Issue #3712)
+  // Birmingham club circuit -> Lost Isles/Hikari breakthrough -> Disparity viral era
+  // ==========================================
+  'chris-turner': {
+    slug: 'chris-turner',
+    name: 'Chris Turner',
+    band: 'Oceans Ate Alaska',
+    totalYearsActive: '2010-Present',
+    profileImage: '/images/drummers/chris-turner.webp',
+    summary: 'Chris Turner co-founded Oceans Ate Alaska in Birmingham in 2010, building the polyrhythmic, blast-beat-driven style that carried the band from the "Into the Deep" EP through the "Lost Isles" (2015) and "Hikari" (2017) breakthrough, and onto the viral Tama Starclassic / Meinl Byzance rig behind "Disparity" (2022) and his technical drum-playthrough era.',
+
+    eras: [
+      {
+        id: 'chris-turner-2010-founding-into-the-deep',
+        era: 'Founding Oceans Ate Alaska & Into the Deep Era',
+        years: '2010–2015',
+        startYear: 2010,
+        endYear: 2015,
+        description: 'Turner co-founded progressive metalcore band Oceans Ate Alaska in Birmingham, UK in 2010, developing the technical, polyrhythmic drumming style that would later define the band\'s sound. The group self-released their debut "Into the Deep" EP in 2012, building a UK club-circuit following before signing to Fearless Records ahead of their first full-length. As with most unsigned metalcore acts of the era, no single fixed drum, cymbal, or stick endorsement from this founding period is publicly documented.',
+        albums: ['Oceans Ate Alaska: Into the Deep EP (2012)'],
+        tours: ['Oceans Ate Alaska UK club circuit (2010–2015)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various club-circuit kits (no single fixed brand documented)',
+            details: 'Standard touring-grade shell packs',
+            notes: 'No dedicated endorsement documented prior to the band\'s Fearless Records signing.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Standard steel snares (varied by gig)',
+            details: 'No fixed snare documented',
+            notes: 'No fixed snare brand documented for the Into the Deep era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Varied by gig',
+            details: 'No fixed brand documented',
+            notes: 'Cymbal setup varied across the UK club-circuit dates.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard touring double pedal',
+            details: 'No fixed brand documented',
+            notes: 'No fixed hardware brand documented for this period.',
+            change: null,
+          },
+          sticks: {
+            item: 'Standard hickory sticks (varied by gig)',
+            details: 'No fixed model documented',
+            notes: 'Predates his documented Vic Firth relationship.',
+            change: null,
+          },
+          heads: {
+            item: 'Standard club-circuit heads',
+            details: 'Varied by gig',
+            notes: 'No fixed head brand documented for this period.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 1500,
+          inflationAdjusted: 2100,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Co-founded Oceans Ate Alaska in Birmingham, UK in 2010',
+          'Self-released the Into the Deep EP in 2012',
+          'Built a UK club-circuit following ahead of signing to Fearless Records',
+          'No fixed gear endorsement documented for this founding period',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'chris-turner-2015-lost-isles-hikari',
+        era: 'Lost Isles & Hikari Breakthrough Era',
+        years: '2015–2019',
+        startYear: 2015,
+        endYear: 2019,
+        description: 'Oceans Ate Alaska released their Fearless Records debut full-length "Lost Isles" in 2015, followed by the critically acclaimed "Hikari" (2017), which blended djent-inspired metalcore with Japanese musical influences and established Turner as one of the most technically proficient drummers in modern metal. It was during this breakthrough stretch that Turner established his documented Tama Starclassic Maple/Birch kit and Meinl Byzance cymbal setup, and his viral technical drumming videos began circulating widely.',
+        albums: ['Oceans Ate Alaska: Lost Isles (2015)', 'Oceans Ate Alaska: Hikari (2017)'],
+        tours: ['Hikari World Tour (2017–2019)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple/Birch',
+            details: 'Maple/birch hybrid shell pack',
+            notes: 'Established as his documented endorsement during the Lost Isles/Hikari breakthrough.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Tama Starclassic matching snare',
+            details: 'Stock Starclassic snare, bright attack',
+            notes: 'First documented Tama snare, predating his later S.L.P. G-Maple switch.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: 'Early Byzance hi-hat/crash/ride configuration',
+            notes: 'First documented Meinl relationship, established during the Hikari touring cycle.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Standard double pedal',
+            details: 'No fixed brand confirmed for this era',
+            notes: 'Predates his documented Tama Speed Cobra 910 endorsement.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A',
+            details: 'Standard hickory',
+            notes: 'First documented Vic Firth relationship.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'Standard head package',
+            notes: 'Established during the Lost Isles/Hikari era and unchanged since.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 3800,
+          inflationAdjusted: 4900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Released Fearless Records debut Lost Isles (2015)',
+          'Released breakthrough album Hikari (2017), blending djent and Japanese musical influences',
+          'Established documented Tama Starclassic / Meinl Byzance endorsement during this era',
+          'Viral technical drumming videos began circulating widely',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'chris-turner-2020-disparity-viral-era',
+        era: 'Disparity & Viral Playthrough Era',
+        years: '2020–Present',
+        startYear: 2020,
+        endYear: 2026,
+        description: 'Turner recorded Oceans Ate Alaska\'s "Disparity" (2022), described as the band\'s technical masterwork, and released a run of viral single drum-playthroughs including "Escapist" (2021), "Hansha" (2022), and "Endless Hollow" (2023) that showcased his refined rig in full detail. His setup was upgraded to the Tama S.L.P. 14x5.5" G-Maple snare and a complete Meinl Byzance array, paired with a Tama Speed Cobra 910 Double Pedal for the fast, controlled double-bass response his polyrhythmic patterns demand — a configuration verified via Meinl\'s official artist roster and Turner\'s own channel.',
+        albums: ['Oceans Ate Alaska: Disparity (2022)'],
+        tours: ['Disparity World Tour (2022–present)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Maple/Birch',
+            details: 'Unchanged maple/birch hybrid shell pack',
+            notes: 'Kit shell configuration unchanged since the Lost Isles/Hikari era.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama S.L.P. 14x5.5" G-Maple',
+            details: 'G-Maple shell, fast and articulate attack',
+            notes: 'Upgraded from the stock Starclassic snare for the Disparity era\'s dense polyrhythmic patterns.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Meinl Byzance Series',
+            details: '15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China',
+            notes: 'Expanded to a full documented Byzance array across the Disparity and viral-playthrough years.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          hardware: {
+            item: 'Tama Speed Cobra 910 Double Pedal, Tama 1st Chair Throne',
+            details: 'Direct-drive double pedal',
+            notes: 'First documented hardware endorsement, giving the quick double-bass response his patterns demand.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5A',
+            details: 'Standard hickory',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'Standard head package',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5200,
+          inflationAdjusted: 5600,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Recorded Disparity (2022), described as the band\'s technical masterwork',
+          'Released viral drum-playthroughs for Escapist (2021), Hansha (2022), and Endless Hollow (2023)',
+          'Upgraded to the Tama S.L.P. 14x5.5" G-Maple snare and a full Meinl Byzance cymbal array',
+          'Added the Tama Speed Cobra 910 Double Pedal, his first documented hardware endorsement',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit does Chris Turner play?',
+        a: 'Chris Turner plays a Tama Starclassic Maple/Birch kit with a Tama S.L.P. 14x5.5" G-Maple snare, Meinl Byzance Series cymbals, and a Tama Speed Cobra 910 Double Pedal — a rig refined during Oceans Ate Alaska\'s Disparity (2022) era.',
+      },
+      {
+        q: 'What band is Chris Turner in?',
+        a: 'Chris Turner is the founding drummer of progressive metalcore band Oceans Ate Alaska, which he co-founded in Birmingham, UK in 2010.',
+      },
+      {
+        q: 'When did Chris Turner start using Tama drums?',
+        a: 'Turner\'s documented Tama Starclassic endorsement was established during Oceans Ate Alaska\'s Lost Isles (2015) and Hikari (2017) breakthrough era, later refined with a Tama S.L.P. G-Maple snare for Disparity (2022).',
+      },
+      {
+        q: 'What albums has Chris Turner recorded with Oceans Ate Alaska?',
+        a: 'Turner has recorded the Into the Deep EP (2012), Lost Isles (2015), Hikari (2017), and Disparity (2022) with Oceans Ate Alaska.',
+      },
+      {
+        q: 'Why is Chris Turner known for viral drumming videos?',
+        a: 'Turner\'s exceptionally technical, polyrhythmic playing on tracks like Escapist (2021), Hansha (2022), and Endless Hollow (2023) has gone viral for its precision and lightning-fast footwork.',
+      },
+    ],
+
+    metaTitle: 'Chris Turner Gear Evolution Timeline | Oceans Ate Alaska Drum Kit History',
+    metaDescription: 'Explore Chris Turner\'s complete drum gear evolution: from the undocumented Birmingham club-circuit years through the Tama Starclassic / Meinl Byzance rig behind Oceans Ate Alaska\'s Lost Isles (2015), Hikari (2017), and Disparity (2022).',
+  },
+
+  // ==========================================
+  // Isaac Lamb - Kublai Khan TX (Drummer Evolution batch 25, Issue #3712)
+  // Sherman TX DIY founding -> Artery Recordings breakthrough -> Rise Records / Exhibition of Prowess era
+  // ==========================================
+  'isaac-lamb': {
+    slug: 'isaac-lamb',
+    name: 'Isaac Lamb',
+    band: 'Kublai Khan TX',
+    totalYearsActive: '2009-Present',
+    profileImage: '/images/drummers/isaac-lamb.webp',
+    summary: 'Isaac Lamb co-founded Kublai Khan TX in Sherman, Texas in 2009, self-releasing the "Youth War" EP before building the SJC Custom Drums / DW hardware rig that carried the band through their Artery Recordings breakthrough, and refining it into the Meinl Classics Custom Dark / Vic Firth 2B setup behind Rise Records releases through 2024\'s "Exhibition of Prowess."',
+
+    eras: [
+      {
+        id: 'isaac-lamb-2009-youth-war-founding',
+        era: 'Founding Kublai Khan TX & Youth War Era',
+        years: '2009–2014',
+        startYear: 2009,
+        endYear: 2014,
+        description: 'Lamb co-founded beatdown hardcore band Kublai Khan in Sherman, Texas in 2009 alongside vocalist Matt Honeycutt, self-releasing the "Youth War" EP in 2010 to establish the band\'s crushing, breakdown-driven sound. As the only drummer in the band\'s history, Lamb built his powerful, groove-oriented style playing regional Texas hardcore shows during this DIY period, for which no single fixed drum, cymbal, or stick endorsement is publicly documented.',
+        albums: ['Kublai Khan TX: Youth War EP (2010)'],
+        tours: ['Texas and regional DIY hardcore shows (2009–2014)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various DIY-era kits (no single fixed brand documented)',
+            details: 'Standard touring-grade shell packs',
+            notes: 'No dedicated endorsement documented prior to the band\'s Artery Recordings signing.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Standard steel snares (varied by gig)',
+            details: 'No fixed snare documented',
+            notes: 'No fixed snare brand documented for the Youth War years.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Varied by gig',
+            details: 'No fixed brand documented',
+            notes: 'Cymbal setup varied across the band\'s regional Texas hardcore dates.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard touring double pedal',
+            details: 'No fixed brand documented',
+            notes: 'No fixed hardware brand documented for this period.',
+            change: null,
+          },
+          sticks: {
+            item: 'Standard hickory sticks (varied by gig)',
+            details: 'No fixed model documented',
+            notes: 'Predates his documented Vic Firth relationship.',
+            change: null,
+          },
+          heads: {
+            item: 'Standard DIY-era heads',
+            details: 'Varied by gig',
+            notes: 'No fixed head brand documented for this period.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 1200,
+          inflationAdjusted: 1700,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Co-founded Kublai Khan in Sherman, Texas in 2009 with vocalist Matt Honeycutt',
+          'Self-released the Youth War EP in 2010, establishing the band\'s beatdown hardcore sound',
+          'Played regional Texas hardcore shows through 2014',
+          'No fixed gear endorsement documented for this founding period',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'isaac-lamb-2014-artery-balancing-new-strength',
+        era: 'Artery Recordings & Breakthrough Era',
+        years: '2014–2017',
+        startYear: 2014,
+        endYear: 2017,
+        description: 'Kublai Khan TX signed to Artery Recordings and released their debut full-length "Balancing Survival and Happiness" (2014), landing on Alternative Press\'s "Best Albums" list, followed by the sophomore breakthrough "New Strength" (2015) and an Impericon Festival appearance in Europe. It was during this stretch that Lamb established his documented SJC Custom drum kit and DW double-pedal endorsement, though a fixed cymbal brand had not yet been established.',
+        albums: ['Kublai Khan TX: Balancing Survival and Happiness (2014)', 'Kublai Khan TX: New Strength (2015)'],
+        tours: ['Impericon Festival (2015)', 'US Hardcore Tours'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'SJC Custom Drums',
+            details: 'Hand-built, made-to-order shell pack',
+            notes: 'Established as his documented endorsement during the Artery Recordings breakthrough.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'SJC Custom snare',
+            details: 'Early SJC Custom snare configuration',
+            notes: 'First documented SJC snare, predating his later 14x6.5" specification.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Varied by session (no fixed brand yet)',
+            details: 'No fixed brand documented',
+            notes: 'Cymbal setup had not yet settled on a fixed brand during this era.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Pedal',
+            details: 'Direct-drive double pedal',
+            notes: 'First documented hardware endorsement, established during this era.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 2B',
+            details: 'Heavy hickory, built for maximum impact',
+            notes: 'First documented Vic Firth relationship.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'Standard head package',
+            notes: 'Established during this era, predating his later Hydraulic switch.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 3200,
+          inflationAdjusted: 4100,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Signed to Artery Recordings',
+          'Released debut full-length Balancing Survival and Happiness (2014), an Alternative Press "Best Albums" pick',
+          'Released sophomore breakthrough New Strength (2015)',
+          'Established documented SJC Custom / DW hardware endorsement during this era',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'isaac-lamb-2017-rise-records-exhibition-of-prowess',
+        era: 'Rise Records & Exhibition of Prowess Era',
+        years: '2017–Present',
+        startYear: 2017,
+        endYear: 2026,
+        description: 'Kublai Khan TX signed to Rise Records and released "Nomad" (2017) and "Absolute" (2019), then the "Lowest Form of Animal" EP (2022) featuring Terror\'s Scott Vogel, and 2024\'s "Exhibition of Prowess," their most ambitious release to date — the same year the band appeared on Lamb of God\'s "Another Nail for Your Coffin." Lamb\'s rig was refined to the SJC Custom 14x6.5" snare and Meinl Classics Custom Dark Series cymbals, with Evans Hydraulic heads replacing his earlier standard Evans package for added durability on the sustained touring schedule.',
+        albums: ['Kublai Khan TX: Nomad (2017)', 'Kublai Khan TX: Absolute (2019)', 'Kublai Khan TX: Lowest Form of Animal EP (2022)', 'Kublai Khan TX: Exhibition of Prowess (2024)'],
+        tours: ['North American Tour (2024–2025)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'SJC Custom Drums',
+            details: 'Unchanged hand-built shell pack',
+            notes: 'Kit brand unchanged since the Artery Recordings era.',
+            change: null,
+          },
+          snare: {
+            item: 'SJC Custom 14x6.5"',
+            details: 'Thick, punishing crack for breakdown-driven sections',
+            notes: 'Refined snare specification for the Rise Records era.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Meinl Classics Custom Dark Series',
+            details: '14" Hi-Hats, 18" & 20" Crashes, 21" Ride, 18" China',
+            notes: 'First documented fixed cymbal endorsement, established during the Rise Records era.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'DW 9000 Series Double Pedal',
+            details: 'Unchanged direct-drive double pedal',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 2B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans Hydraulic',
+            details: 'Dampened, durable head package',
+            notes: 'Upgraded from standard Evans heads for the sustained demands of touring behind Exhibition of Prowess.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+        },
+
+        estimatedCost: {
+          original: 4500,
+          inflationAdjusted: 4800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Signed to Rise Records, releasing Nomad (2017) and Absolute (2019)',
+          'Released Lowest Form of Animal EP (2022) featuring Terror\'s Scott Vogel',
+          'Released Exhibition of Prowess (2024), the band\'s most ambitious release, and appeared on Lamb of God\'s Another Nail for Your Coffin',
+          'Refined rig to the SJC Custom 14x6.5" snare and Meinl Classics Custom Dark cymbals',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit does Isaac Lamb play?',
+        a: 'Isaac Lamb plays SJC Custom Drums with an SJC Custom 14x6.5" snare, Meinl Classics Custom Dark Series cymbals, and a DW 9000 Series double pedal — a rig refined during Kublai Khan TX\'s Rise Records era.',
+      },
+      {
+        q: 'What band is Isaac Lamb in?',
+        a: 'Isaac Lamb is the founding drummer of Kublai Khan TX, a beatdown hardcore/metalcore band from Sherman, Texas he co-founded with vocalist Matt Honeycutt in 2009.',
+      },
+      {
+        q: 'When did Isaac Lamb start using SJC Custom Drums?',
+        a: 'Lamb\'s documented SJC Custom Drums endorsement was established during Kublai Khan TX\'s Artery Recordings breakthrough era (2014–2017), later refined to a 14x6.5" snare specification during the Rise Records years.',
+      },
+      {
+        q: 'What albums has Isaac Lamb recorded with Kublai Khan TX?',
+        a: 'Lamb has recorded Youth War EP (2010), Balancing Survival and Happiness (2014), New Strength (2015), Nomad (2017), Absolute (2019), Lowest Form of Animal EP (2022), and Exhibition of Prowess (2024) with Kublai Khan TX.',
+      },
+      {
+        q: 'Has Isaac Lamb always been Kublai Khan TX\'s drummer?',
+        a: 'Yes — Lamb has been the only drummer in Kublai Khan TX\'s history since co-founding the band in 2009.',
+      },
+    ],
+
+    metaTitle: 'Isaac Lamb Gear Evolution Timeline | Kublai Khan TX Drum Kit History',
+    metaDescription: 'Explore Isaac Lamb\'s complete drum gear evolution: from the undocumented Sherman, Texas DIY years through the SJC Custom Drums / Meinl Classics Custom Dark rig behind Kublai Khan TX\'s Rise Records releases through 2024\'s Exhibition of Prowess.',
+  },
+
+  // ==========================================
+  // Jocke Wallgren - Amon Amarth (Drummer Evolution batch 25, Issue #3712)
+  // Swedish underground & Valkyria roots -> Jomsviking/Berserker era -> The Great Heathen Army & present
+  // ==========================================
+  'jocke-wallgren': {
+    slug: 'jocke-wallgren',
+    name: 'Jocke Wallgren',
+    band: 'Amon Amarth',
+    totalYearsActive: '2009-Present',
+    profileImage: '/images/drummers/jocke-wallgren.webp',
+    summary: 'Jocke Wallgren rose through Sweden\'s underground metal scene and Viking/folk metal band Valkyria before joining Amon Amarth in 2016, replacing Fredrik Andersson and building the Pearl Reference Pure / Zildjian A Custom & K Custom rig that has powered the band\'s Viking metal assault from "Jomsviking" (2016) through 2022\'s "The Great Heathen Army."',
+
+    eras: [
+      {
+        id: 'jocke-wallgren-2009-valkyria-underground',
+        era: 'Swedish Underground & Valkyria Era',
+        years: '2009–2016',
+        startYear: 2009,
+        endYear: 2016,
+        description: 'Wallgren (born April 1, 1986, in Karlstad, Sweden) began his drumming career in the Swedish underground metal scene in the 2000s before joining Viking/folk metal band Valkyria in 2009. He spent seven years developing the powerful, groove-oriented style that would later suit Amon Amarth\'s anthemic Viking metal, during a period for which no single fixed drum, cymbal, or stick endorsement is publicly documented.',
+        albums: [],
+        tours: ['Valkyria regional Swedish shows (2009–2016)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Various regional kits (no single fixed brand documented)',
+            details: 'Standard touring-grade shell packs',
+            notes: 'No dedicated endorsement documented prior to his 2016 Amon Amarth audition.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Standard steel snares (varied by gig)',
+            details: 'No fixed snare documented',
+            notes: 'No fixed snare brand documented for the Valkyria years.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Varied by gig',
+            details: 'No fixed brand documented',
+            notes: 'Cymbal setup varied across Valkyria\'s regional Swedish dates.',
+            change: null,
+          },
+          hardware: {
+            item: 'Standard touring double pedal',
+            details: 'No fixed brand documented',
+            notes: 'No fixed hardware brand documented for this period.',
+            change: null,
+          },
+          sticks: {
+            item: 'Standard hickory sticks (varied by gig)',
+            details: 'No fixed model documented',
+            notes: 'Predates his documented Vic Firth relationship.',
+            change: null,
+          },
+          heads: {
+            item: 'Standard regional-scene heads',
+            details: 'Varied by gig',
+            notes: 'No fixed head brand documented for this period.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 1400,
+          inflationAdjusted: 2000,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Began drumming in the Swedish underground metal scene in the 2000s',
+          'Joined Viking/folk metal band Valkyria in 2009',
+          'Developed the powerful, groove-oriented style later heard in Amon Amarth',
+          'No fixed gear endorsement documented for the Valkyria years',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'jocke-wallgren-2016-jomsviking-berserker',
+        era: 'Joining Amon Amarth: Jomsviking & Berserker Era',
+        years: '2016–2019',
+        startYear: 2016,
+        endYear: 2019,
+        description: 'Wallgren joined Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson, and recorded "Jomsviking" (2016), his first album with the band, before extensive world touring in 2017 and recording "Berserker" (2019). It was during this era that he established his documented Pearl Reference Pure kit and Zildjian A Custom & K Custom cymbal rig, giving him the driving power needed for Amon Amarth\'s arena and festival stages.',
+        albums: ['Amon Amarth: Jomsviking (2016)', 'Amon Amarth: Berserker (2019)'],
+        tours: ['Jomsviking World Tour (2016–2017)', 'Berserker World Tour (2019–2020)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure',
+            details: 'Hybrid-shell configuration',
+            notes: 'Established as his documented endorsement upon joining Amon Amarth.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: 'Pearl Reference 14x6.5" Brass',
+            details: 'Brass shell, bright and cutting',
+            notes: 'Delivers the crack needed to project through Amon Amarth\'s dual-guitar arrangements.',
+            change: CHANGE_TYPES.NEW,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom & K Custom Series',
+            details: '14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride',
+            notes: 'First documented Zildjian relationship, established during the Jomsviking touring cycle.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Direct-drive double pedal',
+            notes: 'First documented hardware endorsement of his Amon Amarth tenure.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Standard hickory, built for power',
+            notes: 'First documented Vic Firth relationship.',
+            change: CHANGE_TYPES.NEW,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'Standard head package',
+            notes: 'Rounded out the Pearl/Zildjian rig documented across the Jomsviking/Berserker era.',
+            change: CHANGE_TYPES.NEW,
+          },
+        },
+
+        estimatedCost: {
+          original: 5200,
+          inflationAdjusted: 6800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Amon Amarth in 2016, replacing Fredrik Andersson',
+          'Recorded Jomsviking (2016), his first album with the band',
+          'Extensive world touring in 2017',
+          'Recorded Berserker (2019), establishing the Pearl Reference Pure / Zildjian rig',
+        ],
+
+        videos: [],
+      },
+
+      {
+        id: 'jocke-wallgren-2020-great-heathen-army-present',
+        era: 'The Great Heathen Army & Present Era',
+        years: '2020–Present',
+        startYear: 2020,
+        endYear: 2026,
+        description: 'Wallgren recorded Amon Amarth\'s "The Great Heathen Army" (2022) and has continued extensive international touring since, including appearances at Wacken, Download, and Hellfest. His Pearl Reference Pure / Zildjian A Custom & K Custom rig has remained unchanged across this era, continuing to anchor the band\'s anthemic Viking metal sound on the world\'s largest festival stages.',
+        albums: ['Amon Amarth: The Great Heathen Army (2022)'],
+        tours: ['The Great Heathen Army Tour (2022–present)', 'Major Festivals: Wacken, Download, Hellfest (2016–present)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Reference Pure',
+            details: 'Unchanged hybrid-shell configuration',
+            notes: 'No change — the rig established during the Jomsviking/Berserker era remains his documented setup.',
+            change: null,
+          },
+          snare: {
+            item: 'Pearl Reference 14x6.5" Brass',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A Custom & K Custom Series',
+            details: 'Same configuration',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          hardware: {
+            item: 'Pearl Demon Drive Double Pedal',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth American Classic 5B',
+            details: 'Unchanged',
+            notes: 'No change from the previous era.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans',
+            details: 'Consistent configuration',
+            notes: 'No significant change from the previous era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5400,
+          inflationAdjusted: 5700,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Recorded The Great Heathen Army (2022)',
+          'Continued extensive international touring, including Wacken, Download, and Hellfest',
+          'Pearl Reference Pure / Zildjian rig unchanged since the Jomsviking/Berserker era',
+          'Remains an integral part of Amon Amarth\'s live and studio work',
+        ],
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What drum kit does Jocke Wallgren play?',
+        a: 'Jocke Wallgren plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare, Zildjian A Custom & K Custom Series cymbals, and a Pearl Demon Drive double pedal — a rig established when he joined Amon Amarth in 2016 and unchanged through The Great Heathen Army (2022).',
+      },
+      {
+        q: 'Was Jocke Wallgren in another band before Amon Amarth?',
+        a: 'Yes — Wallgren drummed for Swedish Viking/folk metal band Valkyria from 2009 before joining Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson.',
+      },
+      {
+        q: 'When did Jocke Wallgren join Amon Amarth?',
+        a: 'Wallgren joined Amon Amarth in 2016, replacing Fredrik Andersson, and recorded Jomsviking (2016) as his first album with the band.',
+      },
+      {
+        q: 'What albums has Jocke Wallgren recorded with Amon Amarth?',
+        a: 'Wallgren has recorded Jomsviking (2016), Berserker (2019), and The Great Heathen Army (2022) with Amon Amarth.',
+      },
+      {
+        q: 'What cymbals does Jocke Wallgren use?',
+        a: 'Wallgren uses Zildjian A Custom & K Custom Series cymbals — 14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, and a 21" K Custom Ride — documented since he joined Amon Amarth in 2016.',
+      },
+    ],
+
+    metaTitle: 'Jocke Wallgren Gear Evolution Timeline | Amon Amarth Drum Kit History',
+    metaDescription: 'Explore Jocke Wallgren\'s complete drum gear evolution: from the undocumented Swedish underground and Valkyria years through the Pearl Reference Pure / Zildjian A Custom & K Custom rig behind Amon Amarth\'s Jomsviking (2016), Berserker (2019), and The Great Heathen Army (2022).',
+  },
 };
 
 /**

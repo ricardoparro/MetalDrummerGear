@@ -79,6 +79,10 @@ A: Isaac Lamb has been Kublai Khan TX's drummer since the band formed in 2009—
 
 A: Songs like "The Hammer," "Belligerent," "Swan Song," and "Theory of Mind" are among their most popular tracks.
 
+## Gear Evolution Timeline
+
+Isaac Lamb's complete drum gear evolution — from the undocumented Sherman, Texas DIY years through the SJC Custom Drums / Meinl Classics Custom Dark rig behind Kublai Khan TX's Rise Records releases through 2024's "Exhibition of Prowess" — is tracked era-by-era: [Isaac Lamb Gear Evolution Timeline](https://metalforge.io/drummers/isaac-lamb/evolution) ([markdown version](/llms/evolution/isaac-lamb.md)).
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Isaac Lamb:

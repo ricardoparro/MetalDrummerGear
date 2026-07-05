@@ -77,6 +77,10 @@ A: Chris Turner is known for his extreme technical precision, viral drumming vid
 
 A: Chris Turner is capable of playing extremely fast double bass patterns (200+ BPM) while maintaining clarity and groove.
 
+## Gear Evolution Timeline
+
+Chris Turner's complete drum gear evolution — from the undocumented Birmingham club-circuit years through the Tama Starclassic / Meinl Byzance rig behind Oceans Ate Alaska's "Lost Isles" (2015), "Hikari" (2017), and "Disparity" (2022) — is tracked era-by-era: [Chris Turner Gear Evolution Timeline](https://metalforge.io/drummers/chris-turner/evolution) ([markdown version](/llms/evolution/chris-turner.md)).
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Chris Turner:

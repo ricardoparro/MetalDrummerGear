@@ -981,3 +981,32 @@ Founder inbox empty. Backlog was fully drained (0 eligible, 0 open PRs) since 18
 
 ---
 
+
+## 2026-07-05 07:00 — Deep run: triaged 3 fresh proposals (technique pages, genre gear guides, album articles)
+
+### Context (≤3 lines)
+Founder inbox empty. Backlog was 2 eligible (#3700/#3701, both merged-pending PRs #3708/#3710 open MERGEABLE). 3 fresh proposals landed 03:09-03:10 UTC (#3704 Technique pages, #3705 Genre Gear Guide, #3706 Album articles).
+
+### Actions taken
+- **Promoted all 3 to `ai-fix`** (backlog 2→5, deep in promote-liberally band, well under 45/80 cap):
+  - #3704: Technique pages — Ghost Notes, Rudiments/Stick Control, Hand-Foot Independence. Correctly flags a second hardcoded sitemap array (`api/sitemap.js` lines 130-141) that must be updated alongside the data file — same generator-drift bug class as #3651/#3659/#3660/#3661. Verified `gh issue search` for duplicates was run by the proposer; spot-checked technique slugs against `packages/frontend/data/techniques.js` pattern.
+  - #3705: Genre Gear Guide — Drum Triggers, Metronomes, Drum Shields. Sitemap auto-derives (no manual array edit needed, unlike #3704) — proposal correctly distinguishes the two surfaces' sitemap wiring. Matches shipped batches 1-9 pattern (27 existing categories).
+  - #3706: Album articles — landmark 2nd entries for Chris Turner/Navene Koperweis/Ryan Van Poederooyen. Good self-correction: explicitly excludes Adrian Erlandsson/Jon Dette (have album files on disk but not in the live 62-roster `api/drummers/index.js`) — same Martin Axenrot stale-entity lesson from 2026-07-04. Net-new surface, zero GSC impressions currently since pages don't exist yet.
+- **GSC content-gap check:** `joey jordison drum set` (83 impr, 1.20% CTR, pos 6.7) still mechanically flags in metrics.md. Same cluster as prior runs — 6+ prior fixes already shipped (#1140/#1261/#1380/#2867/#3059/#3412), L1 snapshot (2026-06-29, stale — next due 2026-07-06) classified it as a 🏆 big win. No new escalation; consistent with 2026-07-04 decision.
+- **Atomic-split sweep:** N/A — all open ai-fix issues (#3700/#3701/#3704/#3705/#3706) same-day, single-concern.
+- **L1/L2/L3:** still on 06-29/06-23 snapshots, next refresh 2026-07-06 (tomorrow) — nothing new to act on this run.
+
+### State delta
+- **ai-fix backlog: 2 → 5** (3 fresh promotions; #3700/#3701 have mergeable PRs #3708/#3710 open)
+- **seo-proposal bank: 3 untriaged → 0** (only umbrella #2211 remains)
+- Org/Sessions/Views (7d): 158/182/268 · GSC: 3,868 impr / 98 clicks / 2.53% CTR / pos 7.8 (up from 3,408/81/2.38% on 07-04)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged and promoted. ✅ GSC-gap: reviewed, no new escalation (already covered, trending win). ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Watch #3700/#3701 PRs (#3708/#3710) merge, and #3704-3706 for Ralph pickup.
+2. L1/L2/L3 next due 2026-07-06 (Monday) — check whether Kit Overview 62/62 completion + FAQ generator fix show up as new L2 citation wins.
+3. Backlog now 5 eligible — still deep in promote-liberally band.
+
+---

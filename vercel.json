@@ -358,6 +358,11 @@
     { "source": "/api/embed/stats", "destination": "/api/embed/stats" },
     { "source": "/api/gear/:slug/:category", "destination": "/api/gear/[slug]/[category]?slug=:slug&category=:category" },
     { "source": "/privacy", "destination": "/privacy.html" },
-    { "source": "/:path*", "destination": "/index.html" }
+    {
+      "source": "/drummer/:slug",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/drummer/:slug"
+    },
+    { "source": "/((?!api/).*)", "destination": "/index.html" }
   ]
 }

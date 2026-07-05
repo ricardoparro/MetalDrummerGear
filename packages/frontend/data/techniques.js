@@ -800,6 +800,144 @@ export const techniques = {
     relatedTechniques: ['blast-beat', 'one-handed-roll', 'hand-foot-independence'],
     seoKeywords: ['moeller technique', 'moeller method drumming', 'whip stroke drumming', 'moeller technique tutorial', 'drum stroke technique'],
   },
+
+  'heel-toe-technique': {
+    slug: 'heel-toe-technique',
+    title: 'Heel-Toe Technique',
+    emoji: '🥾',
+    metaTitle: 'Heel-Toe Technique - Double Bass Pedal Footwork | MetalForge',
+    metaDescription: 'Learn the heel-toe drumming technique for faster double bass. History, practice steps, pedal gear recommendations, and the metal drummers who use it.',
+    category: 'foundational',
+    difficulty: 'intermediate',
+    bpmRange: 'Any',
+    description: `Heel-toe technique is a bass drum pedal method that produces two beater strokes from a single downward leg motion, using the ball of the foot for an initial toe stroke and a quick heel-drop rebound for a second stroke immediately after. Rather than driving every note with a fresh leg lift, the foot rocks forward-to-back across the footboard, doubling the strokes available per motion and unlocking bursts of double bass speed well beyond what pure ankle-driven playing can sustain on its own. It is most often layered on top of a primary footwork style rather than used for an entire performance - many extreme metal drummers rely on heel-up ankle technique as their endurance baseline and drop into heel-toe only for short, demanding passages that call for an extra gear of speed. Because the technique depends on the heel having room to rock without losing contact with the board, it is closely tied to pedal choice: a short, standard-length footboard limits it, while a longer plate makes the second stroke far easier to control.`,
+    history: `Heel-toe pedal technique grew out of the same drum-corps and rudimental-percussion lineage that produced hand techniques like the Moeller stroke, adapted to the bass drum pedal as drummers chased faster single- and double-pedal speeds through the 1990s and 2000s. George Kollias (Nile) is the technique's most visible modern practitioner, sustaining blast beats past 240-280 BPM with a heel-toe approach refined well enough that he co-designed the Pearl Demon XR double pedal specifically around its footboard demands, then documented the technique in instructional books and clinics that spread it to a global audience of extreme metal drummers. Derek Roddy (Hate Eternal, ex-Nile) built his career on heel-up ankle technique for sustained blast-beat endurance, layering heel-toe strokes in only for short bursts of extra double bass speed - a deliberate two-technique approach that helped him record entire albums in single takes without punch-ins or editing. Gene Hoglan has likewise built his double bass approach around heel-toe motion and consistent stroke weight, prioritizing pedal feel and response time over any single brand or model.`,
+    howToLearn: [
+      'Set your pedal up with a longboard or extended footboard - a short standard board makes the heel-drop hard to control',
+      'Place your whole foot flat on the footboard, with the ball resting near the beater pivot point',
+      'Press down with the ball of the foot for the first (toe) stroke',
+      'Immediately let your heel drop onto the back of the footboard for the second (heel) stroke - it should feel like one rocking motion, not two separate presses',
+      'Practice the two-stroke rock slowly on a single pedal at 40-60 BPM until both strokes are even in volume',
+      'Isolate the motion on a practice pad or unplugged pedal before applying it to a mic\'d-up kick drum',
+      'Apply short heel-toe bursts inside a heel-up double bass groove rather than defaulting to heel-toe for everything',
+      'Increase speed gradually, and only tighten spring tension once the motion is already comfortable and even',
+    ],
+    variations: [
+      { name: 'Full Heel-Toe', description: 'Continuous heel-toe strokes on one foot for sustained, doubled-speed passages' },
+      { name: 'Burst Heel-Toe', description: 'Heel-toe strokes used only for short bursts of extra speed within an otherwise heel-up pattern' },
+      { name: 'Double Pedal Heel-Toe', description: 'Heel-toe applied to both feet on a double pedal for maximal sustained double bass output' },
+      { name: 'Heel-Toe with Swivel', description: 'Combining heel-toe rocking with ankle swivel rotation for even more strokes per motion' },
+    ],
+    masters: [
+      { name: 'George Kollias', slug: 'george-kollias', band: 'Nile', note: 'Co-designed the Pearl Demon XR pedal around his heel-toe technique and sustains blast beats past 240 BPM with it' },
+      { name: 'Derek Roddy', slug: 'derek-roddy', band: 'Hate Eternal', note: 'Layers heel-toe strokes into a heel-up foundation for short bursts of extra double bass speed' },
+      { name: 'Gene Hoglan', slug: 'gene-hoglan', band: 'Death/Testament', note: 'Builds his double bass approach around heel-toe motion and consistent stroke weight' },
+    ],
+    gearRecommendations: {
+      pedals: [
+        { name: 'Pearl Demon XR', reason: 'Co-designed with George Kollias specifically around heel-toe footboard demands' },
+        { name: 'Axis A Longboard', reason: 'Extended footboard gives the heel room to rock without losing contact' },
+        { name: 'Tama Speed Cobra 910', reason: 'Longboard footboard suited to heel-toe and sliding technique' },
+      ],
+      tips: 'A short, standard-length footboard limits how far the heel can travel - most heel-toe players prefer a longboard or extended-plate pedal for a cleaner second stroke.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['double-bass', 'hand-foot-independence'],
+    seoKeywords: ['heel-toe technique', 'heel toe drumming', 'double bass pedal technique', 'how to play heel toe', 'bass drum footwork technique'],
+  },
+
+  'buzz-roll': {
+    slug: 'buzz-roll',
+    title: 'Buzz Roll',
+    emoji: '🔁',
+    metaTitle: 'Buzz Roll Technique - Multiple Bounce Roll Rudiment | MetalForge',
+    metaDescription: 'Learn the buzz roll (multiple-bounce roll) drumming rudiment. History, practice steps, dynamics control, and how metal drummers use roll technique.',
+    category: 'foundational',
+    difficulty: 'beginner',
+    bpmRange: 'Any',
+    description: `The buzz roll - also called the multiple-bounce roll or press roll - is produced by pressing the stick into the head just enough that it bounces several times per stroke instead of once, creating a sustained, blurred "buzz" of sound rather than distinct individual hits. It is one of the Percussive Arts Society's 40 essential rudiments and the foundation of concert snare and drum corps roll vocabulary, used to sustain volume and tension across a held note the same way a bowed string instrument sustains a note. In metal drumming, buzz rolls show up less as a groove element and more as a texture and dynamics tool - a crescendo into a fill, a sustained wash under a cymbal swell, or a dramatic build leading into a breakdown or blast section.`,
+    history: `The buzz roll's technical foundation goes back to military and concert snare drumming, where a controlled multiple-bounce stroke let a single drummer sustain volume across long passages without the stamina cost of playing every note as a discrete single stroke. It was formally codified as one of the Percussive Arts Society's 40 essential rudiments, alongside the closely related closed (concert) roll and open double-stroke roll, and remains core vocabulary in drum corps and orchestral percussion training today. Metal drummers with rudimental or drum corps backgrounds carry the buzz roll's control and touch into their extreme-metal playing even when the roll itself rarely appears note-for-note in a groove - Mike Mangini (Dream Theater) built his drum-corps-rooted approach to stick control around exactly this kind of multiple-bounce roll vocabulary, while Gavin Harrison (Porcupine Tree, King Crimson) applies the same rudimental roll discipline to the dynamic control that defines his playing.`,
+    howToLearn: [
+      'Start with a single controlled stroke - let the stick fall and press slightly into the head rather than lifting immediately',
+      'Find the right pressure - too little produces a single clean hit, too much chokes the head and kills the bounce',
+      'Practice one buzz per hand slowly, focusing on getting 3-5 even bounces per stroke before speeding up',
+      'Alternate hands (RLRL) once single-hand buzzes are controlled, keeping the transition between hands seamless',
+      'Practice dynamics - build a slow crescendo from pianissimo to fortissimo across a sustained roll',
+      'Use a practice pad first, since the rebound feel is easier to isolate there than on a full-tension batter head',
+      'Apply the roll musically - use it as a short fill-in before a section change rather than as a constant groove element',
+    ],
+    variations: [
+      { name: 'Closed (Concert) Buzz Roll', description: 'Tight, pressed bounces for a smooth, sustained orchestral-style roll' },
+      { name: 'Open Buzz Roll', description: 'Looser bounce with more separation between pulses, for a rawer, driving roll' },
+      { name: 'Crescendo Roll', description: 'Buzz roll built from quiet to loud, common as a build before a chorus or blast section' },
+      { name: 'Buzz Roll Fill', description: 'A short buzz roll used to fill a beat or half-beat, common in doom and sludge for tension before a riff hit' },
+    ],
+    masters: [
+      { name: 'Mike Mangini', slug: 'mike-mangini', band: 'Dream Theater', note: 'Drum corps background gives him the multiple-bounce roll control that underlies his rudiment-centric playing' },
+      { name: 'Gavin Harrison', slug: 'gavin-harrison', band: 'Porcupine Tree / King Crimson', note: 'Applies rudimental roll discipline to the dynamic control that defines his playing' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced weight and rebound make press-roll control easier to feel' },
+        { name: 'Practice sticks with rubber tips', reason: 'Quiet, controlled bounce practice for isolating buzz pressure' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Firm, consistent rebound ideal for dialing in buzz roll pressure' },
+      ],
+      tips: 'Buzz roll control comes from stick pressure and wrist relaxation, not extra force - if your rolls sound choppy, you are pressing too hard or lifting too soon between hands.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['one-handed-roll', 'rudiments'],
+    seoKeywords: ['buzz roll', 'multiple bounce roll', 'press roll drumming', 'buzz roll rudiment', 'how to play a buzz roll'],
+  },
+
+  'flams': {
+    slug: 'flams',
+    title: 'Flams',
+    emoji: '⚡',
+    metaTitle: 'Flams - Grace Note Rudiment for Accents & Fills | MetalForge',
+    metaDescription: 'Learn the flam drumming rudiment - a grace note plus main note for fat accents. History, practice steps, variations, and metal drummers who use it.',
+    category: 'foundational',
+    difficulty: 'beginner',
+    bpmRange: 'Any',
+    description: `A flam is one of the Percussive Arts Society's 40 essential rudiments, built from a quiet grace note struck almost simultaneously with a louder main note on the opposite hand, producing a single fat, textured accent instead of two separate sounds. The grace note lands just a fraction of a second before the main stroke, wide enough to be heard as a distinct "fla-m" rather than a clean unison hit, but tight enough that the two strokes read as one event. In metal drumming, flams are the go-to tool for adding weight and emphasis to accents in fills and grooves - a flammed snare hit lands noticeably heavier than a plain single stroke, which is why the rudiment shows up constantly in tom fills, crash accents, and groove-metal snare work.`,
+    history: `Flams originated in military and rudimental drumming, where the technique's ability to add emphasis and texture to a single stroke made it essential vocabulary for signaling and cadence work centuries before it entered popular music. It was carried into the modern 40 International Drum Rudiments recognized by the Percussive Arts Society, alongside closely related figures like the flam tap, flamacue, and flam paradiddle, and remains one of the first accent-based rudiments taught to beginning drummers after the single and double stroke rolls. In metal, flams appear throughout groove and progressive playing as a way to add weight without extra volume - Martin Lopez (ex-Opeth, Soen) weaves flam accents through his ghost-note-dense grooves, a texture that comes directly from his jazz training, giving his playing a living, breathing quality even at driving tempos. Mike Mangini (Dream Theater) brings the same rudiment-centric, drum-corps-rooted precision to his flam-based accents that defines his broader approach to sticking.`,
+    howToLearn: [
+      'Start by playing both hands together as a unison hit, then slightly stagger one hand earlier',
+      'Keep the grace note quiet and the main note loud - the volume contrast is what makes a flam sound "fat" instead of sloppy',
+      'Practice both flam directions (right-hand flam and left-hand flam) so the grace note can lead from either hand',
+      'Play flams slowly on a practice pad first, checking that the two strokes stay close together without merging into one hit',
+      'Move on to flam-based rudiments like the flam tap and flammed paradiddle once single flams are solid',
+      'Apply flams to tom fills and crash accents to hear how the extra texture changes the weight of a hit',
+      'Record yourself and listen back - flams that are too wide sound like two separate notes instead of one accented stroke',
+    ],
+    variations: [
+      { name: 'Flam', description: 'A single grace note plus main note struck almost simultaneously for a fat accent' },
+      { name: 'Flam Tap', description: 'A flam followed by a tap on the same hand, common in fill vocabulary' },
+      { name: 'Flammed Paradiddle', description: 'A paradiddle with a flam added to the accented strokes for extra weight' },
+      { name: 'Flam Fill', description: 'Flams applied across the toms for a fat, powerful fill sound' },
+    ],
+    masters: [
+      { name: 'Martin Lopez', slug: 'martin-lopez', band: 'Opeth / Soen', note: 'Weaves flam accents through his ghost-note-dense, jazz-influenced progressive metal grooves' },
+      { name: 'Mike Mangini', slug: 'mike-mangini', band: 'Dream Theater', note: 'Drum-corps-rooted, rudiment-centric precision carries directly into his flam-based accents' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced weight makes it easier to feel the grace-note/main-note volume contrast' },
+        { name: 'Practice sticks with rubber tips', reason: 'Quiet, controlled practice for isolating flam spacing' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Consistent bounce for hearing exactly how tight or wide a flam lands' },
+      ],
+      tips: 'A flam is a rudiment about spacing, not force - if you need to hit harder to make it sound fat, the grace note is probably too far from the main note, not too quiet.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['rudiments', 'ghost-notes'],
+    seoKeywords: ['flams', 'flam rudiment', 'flam drumming technique', 'how to play a flam', 'drum accent technique'],
+  },
 };
 
 /**

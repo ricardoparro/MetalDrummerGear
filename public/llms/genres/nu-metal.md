@@ -54,9 +54,13 @@ A: Joey Jordison elevated nu-metal drumming by combining death metal precision w
 **Q: What is the BPM range for nu-metal?**
 A: Nu-metal typically operates at 100–160 BPM, significantly slower than thrash or death metal. Korn tracks average 100–120 BPM; Slipknot's heavier tracks reach 140–160 BPM in faster sections. The emphasis is on groove and weight at moderate tempos rather than speed.
 
+## Gear Guide
+Looking to buy? See [Best Drum Kits for Nu-Metal](/guides/best-drum-kits-for-nu-metal) — ranked picks from Joey Jordison's Tama Starclassic Performer to budget-friendly starter kits.
+
 ## Related Content
 - [Joey Jordison drum setup](/drummer/joey-jordison)
 - [Eloy Casagrande drum setup](/drummer/eloy-casagrande)
 - [Ray Luzier drum setup](/drummer/ray-luzier)
 - [Iowa drum setup](/articles/iowa-drum-setup)
 - [White Pony drum setup](/articles/white-pony-drum-setup)
+- [Best Drum Kits for Nu-Metal](/guides/best-drum-kits-for-nu-metal)

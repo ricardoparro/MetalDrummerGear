@@ -56,8 +56,12 @@ A: A breakdown is a structural section where the tempo halves (or feels like it 
 **Q: How technical is metalcore drumming compared to death metal?**
 A: Modern metalcore and djent drumming rivals technical death metal in complexity — particularly in the djent subgenre, where polyrhythmic independence, mathematical pattern precision, and physical endurance at various tempos are all required. Matt Garstka (Animals as Leaders) is considered one of contemporary drumming's most technically advanced players, operating at a level comparable to the best death metal players.
 
+## Gear Guide
+Looking to buy? See [Best Drum Kits for Metalcore](/guides/best-drum-kits-for-metalcore) — ranked picks from Nick Augusto's Pearl Reference Pure to budget-friendly starter kits.
+
 ## Related Content
 - [Matt Halpern drum setup](/drummer/matt-halpern)
 - [Matt Garstka drum setup](/drummer/matt-garstka)
 - [Matt Greiner drum setup](/drummer/matt-greiner)
 - [Chris Adler drum setup](/drummer/chris-adler)
+- [Best Drum Kits for Metalcore](/guides/best-drum-kits-for-metalcore)

@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/martin-axenrot"
 source: "https://metalforge.io"
-last_updated: "2026-06-29"
+last_updated: "2026-07-05"
 ---
 
 # Martin Axenrot — Drum Kit & Gear Setup
@@ -83,10 +83,19 @@ MetalForge has detailed drum setup breakdowns for Martin Axenrot's Opeth recordi
 - [Pale Communion (2014) Drum Setup](https://metalforge.io/articles/pale-communion-drum-setup)
 - [Sorceress (2016) Drum Setup](https://metalforge.io/articles/sorceress-drum-setup)
 
+## Signature Licks on MetalForge
+
+MetalForge has 2 signature lick tutorial(s) for Martin Axenrot:
+
+- [The Devil's Orchard — Odd-Meter Groove Command](https://metalforge.io/drummers/martin-axenrot/licks/martin-axenrot-devils-orchard-meter-shifts)
+- [Sorceress — Heavy Riff-Lock and Live Dynamics](https://metalforge.io/drummers/martin-axenrot/licks/martin-axenrot-sorceress-riff-lock)
+
+Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
+
 ---
 
 **Full interactive profile:** [Martin Axenrot on MetalForge](https://metalforge.io/drummer/martin-axenrot)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-29 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*

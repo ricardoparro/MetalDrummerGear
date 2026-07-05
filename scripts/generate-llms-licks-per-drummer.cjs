@@ -53,6 +53,7 @@ const TARGET_DRUMMERS = [
   { slug: 'jaska-raatikainen',  name: 'Jaska Raatikainen',  band: 'Children of Bodom',           genre: 'Melodic Death Metal' },
   { slug: 'jason-bittner',      name: 'Jason Bittner',      band: 'Shadows Fall',                genre: 'Groove Metal / Metalcore' },
   { slug: 'jay-weinberg',       name: 'Jay Weinberg',       band: 'Slipknot',                    genre: 'Nu Metal' },
+  { slug: 'martin-axenrot',     name: 'Martin Axenrot',     band: 'Opeth',                       genre: 'Progressive Metal / Progressive Death Metal' },
   { slug: 'martin-lopez',       name: 'Martin Lopez',       band: 'Opeth',                       genre: 'Progressive Metal' },
   { slug: 'matt-halpern',       name: 'Matt Halpern',       band: 'Periphery',                   genre: 'Progressive Metal / Djent' },
   { slug: 'mike-mangini',       name: 'Mike Mangini',       band: 'Dream Theater',               genre: 'Progressive Metal' },

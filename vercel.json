@@ -106,6 +106,141 @@
       ]
     },
     {
+      "source": "/bands/:slug",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/vs/:pair",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/technique/:slug",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/technique/:slug/drummers",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/licks",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/drummers/:slug/licks",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/drummers/:slug/licks/:lickSlug",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/lists/:slug",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/guides/:slug",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/battles/:slug",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/quotes",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/gear/:brand/:series/drummers-using",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/drummers/:slug/gear-history",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/drummers/:slug/signature/:gearSlug",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/articles/:slug",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
       "source": "/api/image(.*)",
       "headers": [
         {
@@ -400,6 +535,81 @@
       "source": "/genres",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
       "destination": "/api/meta/genres"
+    },
+    {
+      "source": "/bands/:slug",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/bands/:slug"
+    },
+    {
+      "source": "/vs/:pair",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/vs/:pair"
+    },
+    {
+      "source": "/technique/:slug",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/technique/:slug"
+    },
+    {
+      "source": "/technique/:slug/drummers",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/technique/:slug/drummers"
+    },
+    {
+      "source": "/licks",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/licks"
+    },
+    {
+      "source": "/drummers/:slug/licks",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/drummers/:slug/licks"
+    },
+    {
+      "source": "/drummers/:slug/licks/:lickSlug",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/drummers/:slug/licks/:lickSlug"
+    },
+    {
+      "source": "/lists/:slug",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/lists/:slug"
+    },
+    {
+      "source": "/guides/:slug",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/guides/:slug"
+    },
+    {
+      "source": "/battles/:slug",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/battles/:slug"
+    },
+    {
+      "source": "/quotes",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/quotes"
+    },
+    {
+      "source": "/gear/:brand/:series/drummers-using",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/gear/:brand/:series/drummers-using"
+    },
+    {
+      "source": "/drummers/:slug/gear-history",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/drummers/:slug/gear-history"
+    },
+    {
+      "source": "/drummers/:slug/signature/:gearSlug",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/drummers/:slug/signature/:gearSlug"
+    },
+    {
+      "source": "/articles/:slug",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/articles/:slug"
     },
     { "source": "/((?!api/).*)", "destination": "/index.html" }
   ]

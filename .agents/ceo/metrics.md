@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-05 16:21 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-05 17:25 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 176 |
-| Sessions | 202 |
-| Page views | 305 |
-| Engagement rate | 59.41% |
-| Avg session (s) | 136 |
+| Active users | 177 |
+| Sessions | 203 |
+| Page views | 306 |
+| Engagement rate | 59.11% |
+| Avg session (s) | 143 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -26,14 +26,14 @@
 | /drummer/joey-jordison | 10 | 10 |
 | /articles/fastest-double-bass-drummers | 9 | 5 |
 | /drummer/eloy-casagrande | 8 | 8 |
-| /drummer/matt-greiner | 6 | 5 |
+| /drummer/matt-greiner | 7 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 156 | 139 |
+| Organic Search | 157 | 140 |
 | Direct | 42 | 34 |
-| Unassigned | 27 | 25 |
+| Unassigned | 28 | 26 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

@@ -1198,3 +1198,31 @@ Backlog was 2 eligible (#3742 priority, #3729 awaiting re-dispatch after PR #373
 - Blockers unchanged: #3743 human-founder (Vercel dashboard check) — no re-spam
 - Actions: none — reviewed PR #3747 diff; it adds the #3742 diagnostic marker header (`X-Meta-Handler`) AND changes `/api/meta` rewrite destinations to catch-all bracket+query syntax — a real fix attempt, not just diagnostics. Not merged yet.
 - Next check: watch #3747 merge, then re-curl production myself (marker header + JSON-LD) before trusting the close — 4 prior "fixes" for this exact bug were false-closures.
+
+## 2026-07-05 17:35 — Root-caused the whole meta-shell saga: production deploys are batched, not per-merge; 6 fresh content proposals promoted
+
+### Context (≤3 lines)
+PR #3747 (fix for #3742) merged at 16:32 UTC. Per the standing rule (4 prior false-closures), re-curled production myself before trusting it — got byte-identical output to every prior check (same etag, 0 JSON-LD, generic shell), which looked like a 5th false-closure.
+
+### Actions taken
+- **Did not author a 5th repo-side theory.** Instead checked the deploy pipeline itself: `vercel.json` sets `git.deploymentEnabled.main = false` and `.github/workflows/deploy-prod.yml` fires production deploys **once/day at 06:00 UTC** (batched since #1797, 2026-06-19, specifically to stop 55+ builds/day saturating Vercel's build queue) — pushes to `main` no longer trigger a build. `gh run list --workflow=deploy-prod.yml` confirmed the **last actual production deploy fired at 2026-07-05T07:04:21Z** — before every single one of today's routing-fix merges (#3739 14:22, #3746/#3747 16:32). **None of today's "false closures" were ever deployed; every re-curl all day was hitting the same 07:04 UTC build.**
+- Tried to deploy on-demand myself (`gh workflow run deploy-prod.yml`) — 403, agent token lacks `actions:write`. Filed the ask on **#3743** (superseding its own Root Directory theory, now a fallback-only path): asked Ricardo to fire `workflow_dispatch` manually (~10 seconds in the Actions tab), added `priority` label. Commented on #3742 correcting the "5th false closure" read — the fix was never actually tested, not disproven.
+- Logged the root-cause + a standing rule to `learned-patterns.md`: **before diagnosing any "merged fix, unchanged production" symptom, run `gh run list --workflow=deploy-prod.yml --limit 1` and compare its timestamp to the fix's merge time.** This should have been the first check, not the fifth.
+- **Triaged 6 fresh `seo-proposal` issues** (#3749 Gear Price History batch 37, #3750 Drummer Evolution batch 25, #3751 comparison pairs batch 47, #3752 Genre Gear Guide batch 13, #3753 Top-10 list batch 31 gear/attribute angle, #3754 George Kollias 2 missing album articles) — independently grepped each target data file for the claimed-missing slugs/entries; all confirmed genuinely absent (a couple of grep hits were incidental prose mentions, not real entries — checked context to rule out false duplication). Backlog was 0 eligible (deep in promote-liberally band), all 6 promoted to `ai-fix`.
+- **GSC content-gap**: `joey jordison drum set` (83 impr, 1.20% CTR) unchanged — deferred again, same reasoning as prior runs (its title/meta fix can't reach crawlers until the meta-shell bug is confirmed resolved in production).
+- **Founder ideas**: inbox empty. **Atomic split**: N/A, nothing stale. **gsc-watch/indexation-watch**: no open escalation issues this run.
+
+### State delta
+- ai-fix backlog: 0 → 6 (all fresh content batches; #3742 fix unverified pending deploy, not counted since it's closed)
+- seo-proposal bank: 6 untriaged → 0 (#3744 remains intentionally held; #2211 standing L2 tracker unchanged)
+- #3743 reframed from "Vercel dashboard settings dig" to "click Run workflow" — much lower friction ask for Ricardo
+- Org/Sessions/Views (7d): 177/203/306 · GSC: 3,868 impr / 98 clicks / 2.53% CTR / pos 7.8 (unchanged)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 6/6 triaged with independent grep verification, all promoted. ✅ GSC-gap: reviewed, deferred (not a new gap, pending deploy). ✅ Atomic split: none needed. ✅ Decisions logged + learned-patterns.md updated with the actual root cause.
+
+### Next Run
+1. **Watch for Ricardo's manual `workflow_dispatch` on deploy-prod.yml** (or tomorrow's 06:00 UTC scheduled run) — once a deploy fires *after* 16:32 UTC, re-curl production myself before declaring anything fixed or broken.
+2. If production is still broken after a genuine post-16:32-UTC deploy, THEN the Root Directory theory in #3743 becomes live again — not before.
+3. Once meta-shell is confirmed resolved, re-run the #2211 L2 citation sweep (expect a step-change) and re-check `joey jordison drum set` CTR.
+4. L1/L2/L3 next due 2026-07-06 (Monday) — same day the scheduled deploy would naturally fire anyway.

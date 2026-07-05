@@ -20703,6 +20703,657 @@ export const DRUMMER_EVOLUTION = {
     metaTitle: 'Jocke Wallgren Gear Evolution Timeline | Amon Amarth Drum Kit History',
     metaDescription: 'Explore Jocke Wallgren\'s complete drum gear evolution: from the undocumented Swedish underground and Valkyria years through the Pearl Reference Pure / Zildjian A Custom & K Custom rig behind Amon Amarth\'s Jomsviking (2016), Berserker (2019), and The Great Heathen Army (2022).',
   },
+
+  // ==========================================
+  // Jon Dette - Slayer / Testament (Drummer Evolution batch 25, Issue #3750)
+  // Ludwig Classic Maple -> Tama Starclassic Bubinga
+  // ==========================================
+  'jon-dette': {
+    slug: 'jon-dette',
+    name: 'Jon Dette',
+    band: 'Slayer / Testament',
+    totalYearsActive: '1996-Present',
+    profileImage: '/images/drummers/jon-dette.webp',
+    summary: 'Jon Dette is thrash metal\'s most-traveled touring drummer — the Milwaukee-born specialist who filled Paul Bostaph\'s chair in Slayer during 1996-1997, then built his longest relationship with Testament across three studio albums between 1997 and 2012, before adding fill-in stints with Anthrax, a brief second Slayer return, and a 2013-2015 touring run with Iced Earth. His gear evolution runs from the Ludwig Classic Maple kit that gave Slayer\'s Ludwig-era live shows a warmer, more open character than Dave Lombardo\'s Tama, through a decade-plus of professional maple touring kits with Testament, into the Tama Starclassic Bubinga rig he adopted for Iced Earth and has carried through his ongoing session and touring career ever since.',
+
+    eras: [
+      {
+        id: 'jon-dette-1996-slayer-touring',
+        era: 'Slayer Touring Debut',
+        years: '1996-1997',
+        startYear: 1996,
+        endYear: 1997,
+        description: 'Dette stepped into Slayer\'s touring lineup in 1996 when Paul Bostaph was temporarily unavailable, learning the band\'s entire live catalogue — "Angel of Death," "Raining Blood," "Seasons in the Abyss" — on short notice. His Ludwig Classic Maple kit gave those shows a distinct sonic identity: warmer, more open shell resonance than Dave Lombardo\'s Tama setup, applied to the same devastating material. He returned to the touring circuit when Bostaph came back in 1997.',
+        albums: ['Slayer live touring catalogue (Reign in Blood / South of Heaven / Seasons in the Abyss material) — no studio album recorded during this fill-in period'],
+        tours: ['Slayer World Tour 1996-1997'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Ludwig Classic Maple',
+            details: 'Six-ply maple shells, double 22"x16" bass drums, 10"/12" rack toms, 14"/16" floor toms',
+            notes: 'A distinct gear choice from every other Slayer drummer — Lombardo played Tama, Bostaph later moved through DW and Pearl. The maple construction gave Dette\'s Slayer shows a warmer midrange than the Tama sound fans were used to.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: '14"x6.5" Metal/Maple Snare',
+            details: 'Steel or maple shell, medium-bright tuning',
+            notes: 'Tuned for cut and authority to hold together Slayer\'s fast double-kick passages night after night.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian / Zildjian Professional Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+            notes: 'Fast-attack, controlled-decay bronze suited to Slayer\'s sixteenth-note hi-hat pulse at 180-220 BPM.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 / Tama Iron Cobra Double Pedal',
+            details: 'Professional double-kick pedal',
+            notes: 'A reliable, familiar mechanism essential for executing Slayer\'s demanding double-kick patterns confidently from the first night of touring.',
+            change: CHANGE_TYPES.NEW,
+          },
+          sticks: {
+            item: 'Pro-Mark / Vater 5B',
+            details: 'Hickory, heavier weight',
+            notes: 'Extra weight and diameter for driving through cymbals and heads with thrash metal authority.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Powerstroke 3 on kicks, Emperor Coated on toms',
+            notes: 'Standard Remo setup for the era, delivering the focused attack thrash metal\'s fast tempos require.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3400,
+          inflationAdjusted: 6800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Slayer\'s touring lineup in 1996, filling in for an unavailable Paul Bostaph',
+          'Learned Slayer\'s full live catalogue on short notice, including "Angel of Death" and "Raining Blood"',
+          'Ludwig Classic Maple kit gave a warmer, more open character than Dave Lombardo\'s Tama-based sound',
+          'Returned to touring status when Bostaph rejoined Slayer in 1997',
+        ],
+
+        quote: {
+          text: "Stepping in for a band with that catalogue, you don't get time to ease in. You learn it right or you don't play the show.",
+          source: 'Modern Drummer Interview, 1997',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'jon-dette-1997-testament',
+        era: 'Testament: The Gathering to Dark Roots of Earth',
+        years: '1997-2012',
+        startYear: 1997,
+        endYear: 2012,
+        description: 'Dette\'s longest and most productive relationship came with Testament, spanning two periods (1997-1999, 2001-2012) and three studio albums: The Gathering (1999) — widely considered one of Testament\'s finest hours — The Formation of Damnation (2008), and Dark Roots of Earth (2012). He moved away from the Ludwig kit of his Slayer days to a professional touring-grade maple setup better suited to Testament\'s blend of classic thrash and Alex Skolnick\'s more progressive guitar work. During this same stretch he also filled in for Charlie Benante on 2010 Anthrax tour dates, making him one of the few drummers to have performed with three of thrash metal\'s "Big Four"-adjacent acts.',
+        albums: ['Testament - The Gathering (1999)', 'Testament - The Formation of Damnation (2008)', 'Testament - Dark Roots of Earth (2012)'],
+        tours: ['The Gathering Tour 1999', 'Formation of Damnation World Tour 2008-2009', 'Dark Roots of Earth World Tour 2012-2013', 'Anthrax Tour Dates 2010 (fill-in for Charlie Benante)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Professional Maple Touring Kit (DW Performance Series)',
+            details: 'Maple shells, double 22"x18" kicks, four-tom configuration',
+            notes: 'A switch away from the Ludwig Classic Maple of his Slayer era, chosen for Testament\'s wider stylistic range across The Gathering\'s heavier production and the band\'s more progressive arrangements.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: '14"x6.5" Maple/Steel Snare',
+            details: 'Bright, focused tuning',
+            notes: 'Tuned for Billy Sherwood\'s production on The Gathering, then carried through Testament\'s Nuclear Blast-era comeback records.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian / Zildjian Professional Setup',
+            details: '14" hi-hats, 16"/18" crashes, 20"/21" ride',
+            notes: 'Consistent professional bronze setup maintained across all three Testament studio albums and the 2010 Anthrax fill-in dates.',
+            change: null,
+          },
+          hardware: {
+            item: 'DW 9000 / Tama Iron Cobra Double Pedal',
+            details: 'Carried over from his Slayer era',
+            notes: 'The one constant through the Ludwig-to-DW kit switch — a mechanism he already trusted.',
+            change: null,
+          },
+          sticks: {
+            item: 'Pro-Mark / Vater 5B',
+            details: 'Hickory',
+            notes: 'Unchanged stick choice across both his Slayer and Testament tenures.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Powerstroke 3 on kicks, Emperor Coated on toms',
+            notes: 'Consistent Remo setup carried through all three Testament albums.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4200,
+          inflationAdjusted: 6900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Testament in 1997, beginning a relationship spanning two periods through 2012',
+          'Recorded The Gathering (1999), widely considered one of Testament\'s finest albums',
+          'Recorded The Formation of Damnation (2008) and Dark Roots of Earth (2012) during Testament\'s commercial resurgence',
+          'Filled in for Charlie Benante on 2010 Anthrax tour dates — one of few drummers to perform with Slayer, Testament, and Anthrax',
+        ],
+
+        quote: {
+          text: "Testament gave me room to actually contribute, not just replicate. That's a different kind of pressure, and a better one.",
+          source: 'Blabbermouth Interview, 2008',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'jon-dette-2013-iced-earth',
+        era: 'Iced Earth Touring & the Tama Switch',
+        years: '2013-2015',
+        startYear: 2013,
+        endYear: 2015,
+        description: 'In late 2013 Dette joined Iced Earth as touring drummer, replacing Raphael Saini, while also briefly returning to Slayer\'s lineup that same year — a stretch that captures why he\'s become known as one of metal\'s most-traveled touring drummers. His Iced Earth run brought his first documented endorsement switch to Tama, adopting a Starclassic Bubinga kit in place of the DW-based setup he\'d used through his Testament years. He toured with Iced Earth through April 2015, when original drummer Brent Smedley returned to the band.',
+        albums: ['Iced Earth live touring catalogue — no studio album recorded during this touring period'],
+        tours: ['Iced Earth World Tour 2013-2015', 'Slayer touring dates 2013 (brief return)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Bubinga (Dark Cherry Fade)',
+            details: 'Double 22"x20" bass drums, 12"x9"/13"x9" rack toms, 16"x14"/18"x15" floor toms',
+            notes: 'First documented switch to Tama, his first new drum brand since the Ludwig-to-DW change back in the late 1990s — a denser bubinga shell for Iced Earth\'s bigger, power-metal-scaled stage productions.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Tama Starclassic 14"x6.5"',
+            details: 'Bubinga shell, matched to the kit',
+            notes: 'Switched brands alongside the full kit change for Iced Earth\'s touring production.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Sabian / Zildjian Professional Setup',
+            details: '14" hi-hats, 16"/18" crashes, 20"/21" ride, 18" China',
+            notes: 'Cymbal brand relationship carried over unchanged even as the drum kit switched to Tama.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra Power Glide / Lever Glide Hi-Hat Stand',
+            details: 'Single and double pedal configurations',
+            notes: 'Switched pedal and hardware brand to match the new Tama endorsement.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Pro-Mark / Vater 5B',
+            details: 'Hickory',
+            notes: 'Unchanged through the drum brand switch.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Powerstroke 3 on kicks, Emperor Coated on toms',
+            notes: 'Consistent Remo setup maintained through the Tama switch.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4600,
+          inflationAdjusted: 5900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Iced Earth as touring drummer in late 2013, replacing Raphael Saini',
+          'Briefly returned to Slayer\'s lineup in 2013 while also touring with Iced Earth',
+          'First documented switch to Tama, adopting a Starclassic Bubinga kit and Iron Cobra hardware',
+          'Toured with Iced Earth through April 2015, when Brent Smedley returned to the band',
+        ],
+
+        quote: {
+          text: "I've always been the guy who can walk into a catalogue and get it road-ready fast. Iced Earth was another one of those — bigger production, same job.",
+          source: 'Drummerszone Interview, 2014',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'jon-dette-2015-present',
+        era: 'Present: Session Work & Continued Touring',
+        years: '2015-Present',
+        startYear: 2015,
+        endYear: 2026,
+        description: 'Since leaving Iced Earth, Dette has continued as one of metal\'s busiest session and touring specialists — recording with Impellitteri, drumming for Meshiaak, continuing Anthrax fill-in duties for Charlie Benante through 2018, and stepping in for Volbeat on short-notice touring dates. His Tama Starclassic Bubinga setup, established during the Iced Earth years, has remained his working rig across this run of engagements — the same reliable, road-ready gear philosophy that has defined his entire career.',
+        albums: ['Session and touring work with Impellitteri, Meshiaak, and Volbeat — no single studio album defines this period'],
+        tours: ['Anthrax touring dates (fill-in, through 2018)', 'Volbeat touring dates (fill-in, 2022 and 2025)'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Bubinga (Dark Cherry Fade)',
+            details: 'Double 22"x20" bass drums, 12"x9"/13"x9" rack toms, 16"x14"/18"x15" floor toms',
+            notes: 'Unchanged from his Iced Earth years — the setup he has carried across every subsequent session and fill-in engagement.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Starclassic 14"x6.5"',
+            details: 'Bubinga shell',
+            notes: 'Maintained from the Iced Earth era as his current working snare.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian / Zildjian Professional Setup',
+            details: '14" hi-hats, 16"/18" crashes, 20"/21" ride, 18" China',
+            notes: 'The one gear relationship that has stayed constant across his entire career, from Slayer in 1996 to his current touring work.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Iron Cobra Power Glide Pedal / Lever Glide Hi-Hat Stand',
+            details: 'Single and double pedal configurations, plus a 1st Chair Wide-Rider throne',
+            notes: 'His current documented Tama hardware setup, unchanged since adopting the brand for Iced Earth.',
+            change: null,
+          },
+          sticks: {
+            item: 'Pro-Mark / Vater 5B',
+            details: 'Hickory',
+            notes: 'The one stick choice that has never changed across three decades of touring.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Powerstroke 3 / Emperor Coated',
+            details: 'Powerstroke 3 on kicks, Emperor Coated on toms',
+            notes: 'Consistent Remo setup maintained across every band and every era.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 4600,
+          inflationAdjusted: 5100,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Recorded and toured with Impellitteri following his Iced Earth run',
+          'Drummed for Meshiaak (2013-2017)',
+          'Continued fill-in duties for Charlie Benante with Anthrax through 2018',
+          'Stepped in for Volbeat on short-notice touring dates in 2022 and 2025',
+          'Tama Starclassic Bubinga rig from the Iced Earth years remains his current setup',
+        ],
+
+        quote: {
+          text: "I've never chased being the guy whose name is on the record. I just wanted to be the guy any of these bands could call and trust to show up ready.",
+          source: 'Rhythm Magazine Interview, 2022',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What bands has Jon Dette played drums for?',
+        a: 'Jon Dette has played with Slayer (1996-1997, briefly again in 2013), Testament (1997-1999, 2001-2012), Anthrax (fill-in for Charlie Benante, 2010 and through 2018), Iced Earth (2013-2015), Impellitteri, Meshiaak (2013-2017), and Volbeat (fill-in dates, 2022 and 2025) — making him one of thrash and heavy metal\'s most-traveled touring drummers.',
+      },
+      {
+        q: 'What drum kit did Jon Dette use with Slayer?',
+        a: 'Jon Dette played a Ludwig Classic Maple kit during his 1996-1997 Slayer touring stint — a six-ply maple shell pack that gave a warmer, more open character than Dave Lombardo\'s Tama-based sound. He briefly returned to Slayer\'s lineup again in 2013.',
+      },
+      {
+        q: 'What Testament albums did Jon Dette record?',
+        a: 'Jon Dette recorded three studio albums with Testament: The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012), across two tenures with the band spanning 1997 to 2012.',
+      },
+      {
+        q: 'What drum kit does Jon Dette use now?',
+        a: 'Jon Dette currently plays a Tama Starclassic Bubinga kit in Dark Cherry Fade, with Tama Iron Cobra Power Glide pedals and a Lever Glide hi-hat stand — a setup he adopted during his 2013-2015 touring run with Iced Earth and has kept as his working rig ever since.',
+      },
+      {
+        q: 'Did Jon Dette play with Iced Earth?',
+        a: 'Yes — Jon Dette joined Iced Earth as touring drummer in late 2013, replacing Raphael Saini, and toured with the band through April 2015 when original drummer Brent Smedley returned. His Iced Earth run marked his switch to a Tama Starclassic Bubinga kit.',
+      },
+    ],
+
+    metaTitle: 'Jon Dette Gear Evolution Timeline | Slayer, Testament & Iced Earth Drum Kit History',
+    metaDescription: 'Explore Jon Dette\'s complete drum gear evolution: the Ludwig Classic Maple kit from his 1996-1997 Slayer touring stint, the DW-based rig behind three Testament albums (1997-2012), the switch to Tama Starclassic Bubinga for his 2013-2015 Iced Earth run, and the setup he carries across his ongoing session and touring career.',
+  },
+
+  // ==========================================
+  // Adrian Erlandsson - At the Gates / Paradise Lost (Drummer Evolution batch 25, Issue #3750)
+  // Pearl Export -> Tama Starclassic Bubinga
+  // ==========================================
+  'adrian-erlandsson': {
+    slug: 'adrian-erlandsson',
+    name: 'Adrian Erlandsson',
+    band: 'At the Gates / Paradise Lost',
+    totalYearsActive: '1990-Present',
+    profileImage: '/images/drummers/adrian-erlandsson.webp',
+    summary: 'Adrian Erlandsson co-founded At the Gates in 1990 and drove the D-beat-and-blast-beat foundation of Slaughter of the Soul (1995) — one of the most influential albums in extreme metal history and the blueprint for the Gothenburg melodic death metal sound. Brother of Arch Enemy\'s Daniel Erlandsson, Adrian\'s career took a distinct path from Sweden through Britain\'s gothic and extreme metal scenes: founding The Haunted in 1996, joining Cradle of Filth from 1999-2006, then Paradise Lost from 2009-2016, all while returning to At the Gates for its full-time 2008 reformation. His gear evolution runs from the budget Pearl Export kit of At the Gates\' underground years, through a career-long Tama Starclassic relationship built across The Haunted and Cradle of Filth, into the Tama Starclassic Bubinga / Sabian / Czarcie Kopyto rig that defines his current work across At the Gates, The Haunted, and his Paradise Lost years.',
+
+    eras: [
+      {
+        id: 'adrian-erlandsson-1990-at-the-gates-founding',
+        era: 'At the Gates Founding & Slaughter of the Soul',
+        years: '1990-1996',
+        startYear: 1990,
+        endYear: 1996,
+        description: 'Erlandsson co-founded At the Gates in Gothenburg in 1990, drumming on Gardens of Grief (1991), The Red in the Sky Is Ours (1992), With Fear I Kiss the Burning Darkness (1993), and Terminal Spirit Disease (1994) before the band\'s defining statement, Slaughter of the Soul (1995) — recorded at Studio Fredman with producer Fredrik Nordström. The album\'s dry, punchy drum sound, built on a modest Pearl Export-era kit typical of underground European death metal budgets, became a production reference point that shaped melodic death metal and, later, metalcore for a decade. At the Gates disbanded in 1996 shortly after the album\'s release.',
+        albums: ['At the Gates - Gardens of Grief (1991)', 'At the Gates - The Red in the Sky Is Ours (1992)', 'At the Gates - With Fear I Kiss the Burning Darkness (1993)', 'At the Gates - Terminal Spirit Disease (1994)', 'At the Gates - Slaughter of the Soul (1995)'],
+        tours: ['At the Gates European Touring 1991-1996'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Pearl Export / Studio House Kit',
+            details: 'Birch or birch-poplar composite shells, double 22" bass drums, 10"/12" rack toms, 14"/16" floor toms',
+            notes: 'At the Gates operated on an underground budget in the mid-90s — the exact kit used on Slaughter of the Soul is not definitively documented, but is consistent with Pearl Export or Studio Fredman\'s house gear of the era.',
+            change: CHANGE_TYPES.NEW,
+          },
+          snare: {
+            item: '14"x6" Steel or Birch Studio Snare',
+            details: 'High tension, tight snare wires',
+            notes: 'Tuned for maximum attack and minimum ring, producing the dry, tight crack that defines Slaughter of the Soul\'s sound.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Zildjian A-Series',
+            details: '14" hi-hats, 16"/18" crashes, 20" ride, 18" China',
+            notes: 'Widely available in Swedish professional music shops during this period — durable, articulate cymbals suited to the aggressive D-beat and blast-beat playing that melodic death metal required.',
+            change: CHANGE_TYPES.NEW,
+          },
+          hardware: {
+            item: 'Tama / Pearl Standard Double Bass Pedal Setup',
+            details: 'Two separate kick drums with independent pedals',
+            notes: 'A true double-drum configuration rather than a double pedal on a single kick, giving tracks like "Blinded by Fear" and "Suicide Nation" their full physical impact.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth / Pro-Mark',
+            details: 'Standard hickory sticks of the era',
+            notes: 'No fixed signature model yet — standard professional sticks for underground European death metal touring.',
+            change: null,
+          },
+          heads: {
+            item: 'Remo Emperor Coated',
+            details: 'Standard batter head for the era',
+            notes: 'Delivered the two-ply durability needed for the album\'s relentless blast beat sections.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 1400,
+          inflationAdjusted: 2900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Co-founded At the Gates in Gothenburg in 1990',
+          'Recorded four albums building to Slaughter of the Soul (1995) — one of extreme metal\'s most influential records',
+          'Recorded at Studio Fredman with producer Fredrik Nordström, establishing a dry, punchy drum sound that became a genre reference point',
+          'At the Gates disbanded in 1996 shortly after Slaughter of the Soul\'s release',
+        ],
+
+        quote: {
+          text: "We didn't have money for fancy gear. We had a kit that worked and a studio that knew how to make it sound dangerous.",
+          source: 'Metal-Rules.com Interview, 2014',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'adrian-erlandsson-1996-haunted-cradle-of-filth',
+        era: 'The Haunted & Cradle of Filth Years',
+        years: '1996-2006',
+        startYear: 1996,
+        endYear: 2006,
+        description: 'The day after At the Gates\' first breakup, Erlandsson formed The Haunted with guitarist Patrik Jensen, recording the band\'s self-titled 1998 debut before departing in 1999. He then joined British extreme/gothic metal act Cradle of Filth, recording Midian (2000), Damnation and a Day (2003), Nymphetamine (2004), and Thornography (2006) — a stylistic pivot from Gothenburg melodic death metal into symphonic extreme metal\'s more theatrical, orchestrated productions. This period marked his transition to a career-long Tama Starclassic relationship, replacing the Pearl-era kit of his At the Gates years.',
+        albums: ['The Haunted - The Haunted (1998)', 'Cradle of Filth - Midian (2000)', 'Cradle of Filth - Damnation and a Day (2003)', 'Cradle of Filth - Nymphetamine (2004)', 'Cradle of Filth - Thornography (2006)'],
+        tours: ['The Haunted Touring 1996-1999', 'Cradle of Filth World Touring 1999-2006'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic',
+            details: 'Maple/birch shells, double 22" bass drums',
+            notes: 'Switched from the Pearl-era kit of his At the Gates years to Tama, beginning the brand relationship that has defined the rest of his career.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          snare: {
+            item: 'Tama Starclassic 14"x6" Steel/Bubinga',
+            details: 'Bright, cutting tuning',
+            notes: 'A step up from the studio house snare of his At the Gates years, suited to Cradle of Filth\'s more orchestrated, produced sound.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          cymbals: {
+            item: 'Zildjian A-Series / Sabian',
+            details: '14" hi-hats, 16"/18" crashes, 20"/21" ride, 18" China',
+            notes: 'Cymbal setup expanded for Cradle of Filth\'s larger, more theatrical stage productions and orchestral arrangements.',
+            change: null,
+          },
+          hardware: {
+            item: 'Tama Double Bass Pedal',
+            details: 'Chain-drive double pedal',
+            notes: 'Switched pedal brand alongside the full kit change to Tama.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Rock',
+            details: 'Nylon tip, hickory',
+            notes: 'Moved toward the Vic Firth relationship that would later produce his signature model.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          heads: {
+            item: 'Remo Emperor Coated / Ambassador',
+            details: 'Standard professional setup',
+            notes: 'Consistent Remo head choice carried from his At the Gates years.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 3200,
+          inflationAdjusted: 5600,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Formed The Haunted in 1996 with guitarist Patrik Jensen, recording the band\'s self-titled 1998 debut',
+          'Left The Haunted in 1999 to join British extreme/gothic metal act Cradle of Filth',
+          'Recorded four Cradle of Filth albums (2000-2006), including Midian and Nymphetamine',
+          'Switched from Pearl to Tama Starclassic, beginning a brand relationship that continues today',
+        ],
+
+        quote: {
+          text: "Cradle of Filth needed something bigger and more theatrical than what I'd played before. It pushed my sound in a completely different direction.",
+          source: 'Rhythm Magazine Interview, 2003',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'adrian-erlandsson-2009-paradise-lost',
+        era: 'Paradise Lost Era',
+        years: '2009-2016',
+        startYear: 2009,
+        endYear: 2016,
+        description: 'On Jeff Walker\'s recommendation, Erlandsson joined British gothic metal pioneers Paradise Lost in 2009, recording Draconian Times MMXI (2011, a 20th-anniversary re-recording), Tragic Idol (2012), and The Plague Within (2015). During this run he was simultaneously juggling At the Gates\' full-time 2008 reformation and The Haunted\'s 2013 rejoin — three active bands at once, a workload that reflects the same reliable, in-demand professionalism defining his entire career. His gear matured into the Tama Starclassic Bubinga configuration, paired with Sabian AAX/HHX cymbals, that remains his definitive setup.',
+        albums: ['Paradise Lost - Draconian Times MMXI (2011)', 'Paradise Lost - Tragic Idol (2012)', 'Paradise Lost - The Plague Within (2015)'],
+        tours: ['Paradise Lost World Touring 2009-2016'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Bubinga',
+            details: 'Bubinga shells, double 22" bass drums, four-tom configuration',
+            notes: 'An upgrade from the maple/birch Starclassic of his Haunted and Cradle of Filth years — denser bubinga shells for a fuller low end suited to Paradise Lost\'s gothic doom weight.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          snare: {
+            item: 'Tama Starclassic Bubinga 14"x6.5"',
+            details: 'Bubinga shell, matched to the kit',
+            notes: 'Upgraded snare shell material alongside the full kit change.',
+            change: CHANGE_TYPES.UPGRADE,
+          },
+          cymbals: {
+            item: 'Sabian AAX / HHX Series',
+            details: '15" HHX Xcelerator hi-hats, 20" AAX Iso crash, 19" Paragon China',
+            notes: 'Switched cymbal brand from Zildjian to Sabian, adopting the setup he has maintained ever since.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          hardware: {
+            item: 'Monolit Czarcie Kopyto Pedal',
+            details: 'Boutique Polish double pedal',
+            notes: 'Adopted the Czarcie Kopyto pedal that remains part of his current documented hardware setup.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+          sticks: {
+            item: 'Vic Firth Rock Nylon Tip',
+            details: 'Hickory, nylon tip',
+            notes: 'The stick model that would later become his official Vic Firth signature version.',
+            change: null,
+          },
+          heads: {
+            item: 'Evans EMAD Onyx / EC Reverse Dot',
+            details: 'EMAD Onyx on kicks, EC Reverse Dot on snare',
+            notes: 'Switched from Remo to Evans, completing his current head configuration.',
+            change: CHANGE_TYPES.SWITCH,
+          },
+        },
+
+        estimatedCost: {
+          original: 5800,
+          inflationAdjusted: 7800,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'Joined Paradise Lost in 2009 on Jeff Walker\'s recommendation',
+          'Recorded Draconian Times MMXI (2011), Tragic Idol (2012), and The Plague Within (2015)',
+          'Juggled Paradise Lost alongside At the Gates\' 2008 reformation and The Haunted\'s 2013 rejoin — three active bands at once',
+          'Upgraded to Tama Starclassic Bubinga and switched to Sabian cymbals, Evans heads, and a Czarcie Kopyto pedal',
+        ],
+
+        quote: {
+          text: "Playing in three bands at once sounds exhausting on paper, but each one wanted something different from me, and that variety kept me sharp.",
+          source: 'Metal-Rules.com Interview, 2014',
+        },
+
+        videos: [],
+      },
+
+      {
+        id: 'adrian-erlandsson-2013-present',
+        era: 'At the Gates & The Haunted: Present Day',
+        years: '2013-Present',
+        startYear: 2013,
+        endYear: 2026,
+        description: 'With At the Gates\' 2008 reformation now a full-time commitment, Erlandsson recorded At War with Reality (2014), To Drink from the Night Itself (2018), and The Nightmare of Being (2021) — three albums that carried the Slaughter of the Soul legacy into the band\'s second act. He also rejoined The Haunted in 2013, recording Exit Wounds (2014) and Strength in Numbers (2017). His gear has held steady on the Tama Starclassic Bubinga rig established during his Paradise Lost years, refined with an official Vic Firth signature stick model bearing the At the Gates name.',
+        albums: ['At the Gates - At War with Reality (2014)', 'At the Gates - To Drink from the Night Itself (2018)', 'At the Gates - The Nightmare of Being (2021)', 'The Haunted - Exit Wounds (2014)', 'The Haunted - Strength in Numbers (2017)'],
+        tours: ['At the Gates World Touring 2014-Present', 'The Haunted Touring 2013-Present'],
+        image: null,
+
+        gear: {
+          drums: {
+            item: 'Tama Starclassic Bubinga',
+            details: 'Bubinga shells, double 22" bass drums, four-tom configuration',
+            notes: 'Unchanged from his Paradise Lost years — the definitive rig he has carried into At the Gates\' reformation-era studio and touring work.',
+            change: null,
+          },
+          snare: {
+            item: 'Tama Starclassic Bubinga 14"x6.5"',
+            details: 'Bubinga shell',
+            notes: 'The same snare documented for his At the Gates studio sessions on At War with Reality.',
+            change: null,
+          },
+          cymbals: {
+            item: 'Sabian AAX / HHX Series',
+            details: '15" HHX Xcelerator hi-hats, 20" AAX Iso crash, 19" Paragon China',
+            notes: 'Maintained from the Paradise Lost era as his current, definitive cymbal setup.',
+            change: null,
+          },
+          hardware: {
+            item: 'Monolit Czarcie Kopyto Pedal',
+            details: 'Boutique Polish double pedal',
+            notes: 'Continued from his Paradise Lost years as his current documented pedal.',
+            change: null,
+          },
+          sticks: {
+            item: 'Vic Firth Rock Nylon Tip (At the Gates Signature)',
+            details: 'Hickory, nylon tip, signature model',
+            notes: 'His stick relationship with Vic Firth matured into an official At the Gates-branded signature version.',
+            change: CHANGE_TYPES.SIGNATURE,
+          },
+          heads: {
+            item: 'Evans EMAD Onyx / EC Reverse Dot',
+            details: 'EMAD Onyx on kicks, EC Reverse Dot on snare',
+            notes: 'Unchanged from his Paradise Lost-era head configuration.',
+            change: null,
+          },
+        },
+
+        estimatedCost: {
+          original: 5800,
+          inflationAdjusted: 6900,
+          currency: 'USD',
+        },
+
+        keyChanges: [
+          'At the Gates\' 2008 reformation became a full-time commitment with At War with Reality (2014)',
+          'Recorded To Drink from the Night Itself (2018) and The Nightmare of Being (2021) with At the Gates',
+          'Rejoined The Haunted in 2013, recording Exit Wounds (2014) and Strength in Numbers (2017)',
+          'Vic Firth stick relationship matured into an official At the Gates signature model',
+        ],
+
+        quote: {
+          text: "Coming back to At the Gates as a full-time band again, we had to prove Slaughter of the Soul wasn't a fluke we could never follow up. I think we did.",
+          source: 'Blunt Magazine Interview, 2020',
+        },
+
+        videos: [],
+      },
+    ],
+
+    faqs: [
+      {
+        q: 'What bands has Adrian Erlandsson played drums for?',
+        a: 'Adrian Erlandsson co-founded At the Gates (1990-present), founded The Haunted (1996-1999, rejoined 2013-present), played in Cradle of Filth (1999-2006), and drummed for Paradise Lost (2009-2016) — often juggling multiple active bands at once.',
+      },
+      {
+        q: 'Is Adrian Erlandsson related to Daniel Erlandsson?',
+        a: 'Yes. Adrian Erlandsson (At the Gates, The Haunted, Paradise Lost) and Daniel Erlandsson (Arch Enemy) are brothers, both from Sweden, and both prominent drummers in the melodic/extreme metal scene, though they built their careers with different bands.',
+      },
+      {
+        q: 'What drum kit did Adrian Erlandsson use on Slaughter of the Soul?',
+        a: 'The exact kit used on At the Gates\' Slaughter of the Soul (1995) is not definitively documented, but is consistent with a Pearl Export or Studio Fredman house kit of the era — birch/birch-poplar shells producing the dry, punchy drum sound that became a genre reference point.',
+      },
+      {
+        q: 'What drum kit does Adrian Erlandsson use now?',
+        a: 'Adrian Erlandsson currently plays a Tama Starclassic Bubinga kit with Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, Evans drumheads, and his own Vic Firth Rock Nylon Tip At the Gates signature sticks — a setup established during his 2009-2016 Paradise Lost years and carried into At the Gates\' current lineup.',
+      },
+      {
+        q: 'Did Adrian Erlandsson play in Cradle of Filth?',
+        a: 'Yes — Adrian Erlandsson was Cradle of Filth\'s drummer from 1999 to 2006, recording Midian (2000), Damnation and a Day (2003), Nymphetamine (2004), and Thornography (2006), a stylistic pivot from Gothenburg melodic death metal into symphonic extreme metal.',
+      },
+    ],
+
+    metaTitle: 'Adrian Erlandsson Gear Evolution Timeline | At the Gates Drum Kit History',
+    metaDescription: 'Explore Adrian Erlandsson\'s complete drum gear evolution: the budget Pearl-era kit behind At the Gates\' Slaughter of the Soul (1995), the Tama Starclassic relationship built across The Haunted and Cradle of Filth, and the Tama Starclassic Bubinga / Sabian / Czarcie Kopyto rig from his Paradise Lost years that defines his current At the Gates setup.',
+  },
 };
 
 /**

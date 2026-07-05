@@ -53,6 +53,9 @@ A: Vinnie Paul became closely associated with ddrum drums, using the ddrum Dios 
 **Q: Who are the best modern groove metal drummers?**
 A: Chris Adler (Lamb of God) is widely considered the most technically advanced groove metal drummer — his work on "Ashes of the Wake" and "Sacrament" pushed the genre's technical ceiling. Mario Duplantier (Gojira) brings progressive complexity to groove metal's foundation. Art Cruz continues the Lamb of God tradition with consistent technical proficiency.
 
+## Gear Guide
+- [Best Drum Kits for Groove Metal](/guides/best-drum-kits-for-groove-metal) — Vinnie Paul's ddrum Signature Series, Chris Adler's Mapex Black Panther, and Eloy Casagrande's Tama Starclassic Bubinga
+
 ## Related Content
 - [Vinnie Paul drum setup](/drummer/vinnie-paul)
 - [Chris Adler drum setup](/drummer/chris-adler)

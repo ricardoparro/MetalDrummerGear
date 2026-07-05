@@ -706,6 +706,19 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/gear`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Pro Metal Drum Gear',
+        description: 'Browse drum gear used by 60+ metal legends. Shop cymbals, kits, snares, pedals, sticks, and hardware — filtered by genre, brand, and price.',
+        url: `${BASE_URL}/gear`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
+      faqSchema: [
+        { question: 'What gear do metal drummers use?', answer: 'MetalForge tracks the drum kits, cymbals, snares, pedals, sticks, and hardware used by 60+ pro metal drummers — browse the full gear hub at /gear to see exactly what your favorite drummers play.' },
+        { question: 'Can I shop for drum gear by brand?', answer: 'Yes — the MetalForge gear hub lets you filter by brand (Tama, Pearl, Mapex, Zildjian, Meinl, and more) to see every pro metal drummer endorsing that brand and the exact gear they use.' },
+        { question: 'Can I find drum gear by genre or budget?', answer: 'Yes — filter the /gear hub by genre (thrash, death, black, prog metal) or browse /gear-by-budget for setups curated under $500, $1000, and $2000.' },
+      ],
     };
   }
 
@@ -1009,6 +1022,19 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/compare-preview.png`,
       type: 'website',
       url: `${BASE_URL}/compare`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Drummer Gear Comparison Tool',
+        description: 'Compare drum setups side-by-side. See how your favorite metal drummers\' gear stacks up.',
+        url: `${BASE_URL}/compare`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
+      faqSchema: [
+        { question: 'How can I compare two metal drummers gear?', answer: 'Use MetalForge Compare at /compare — select any two of 60+ metal drummers to see their kits, cymbals, pedals, and hardware side-by-side with full spec breakdowns.' },
+        { question: 'Who has a bigger drum kit, Lars Ulrich or Joey Jordison?', answer: 'Compare Lars Ulrich vs Joey Jordison on MetalForge. Both use large format kits with double bass; see the complete side-by-side on /compare.' },
+        { question: 'Which metal drummer uses more cymbals?', answer: 'Mike Portnoy and Danny Carey are known for having the largest cymbal configurations among metal drummers. Compare any two drummers cymbal setups on MetalForge.' },
+      ],
     };
   }
 

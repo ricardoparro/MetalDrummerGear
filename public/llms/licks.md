@@ -39,6 +39,7 @@ Step-by-step breakdowns of iconic metal drum licks. Each entry lists tempo, time
 | Joey Jordison | Slipknot | [/llms/licks/joey-jordison.md](https://metalforge.io/llms/licks/joey-jordison.md) |
 | Lars Ulrich | Metallica | [/llms/licks/lars-ulrich.md](https://metalforge.io/llms/licks/lars-ulrich.md) |
 | Mario Duplantier | Gojira | [/llms/licks/mario-duplantier.md](https://metalforge.io/llms/licks/mario-duplantier.md) |
+| Martin Axenrot | Opeth | [/llms/licks/martin-axenrot.md](https://metalforge.io/llms/licks/martin-axenrot.md) |
 | Martin Lopez | Opeth | [/llms/licks/martin-lopez.md](https://metalforge.io/llms/licks/martin-lopez.md) |
 | Matt Garstka | Animals as Leaders | [/llms/licks/matt-garstka.md](https://metalforge.io/llms/licks/matt-garstka.md) |
 | Matt Greiner | August Burns Red | [/llms/licks/matt-greiner.md](https://metalforge.io/llms/licks/matt-greiner.md) |

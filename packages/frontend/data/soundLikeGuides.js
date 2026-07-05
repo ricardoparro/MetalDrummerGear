@@ -7056,6 +7056,261 @@ This guide covers Daniel's technique across Arch Enemy's melodic death metal cat
     ]
   },
 
+  // Issue #3763: extended-roster gap fill — Adrian Erlandsson (SEO batch, closes lane parity with Sean Reinert/Nick Menza/Paul Bostaph/Jon Dette)
+  'how-to-sound-like-adrian-erlandsson': {
+    slug: 'how-to-sound-like-adrian-erlandsson',
+    drummerSlug: 'adrian-erlandsson',
+    drummerId: 64,
+    drummerName: 'Adrian Erlandsson',
+    band: 'At the Gates / Paradise Lost',
+    genre: 'Melodic Death Metal',
+    priority: 56,
+    title: "How to Sound Like Adrian Erlandsson: Complete Gear & Technique Guide",
+    description: "Master Adrian Erlandsson's D-beat-driven Gothenburg drumming. Learn the technique behind At the Gates' Slaughter of the Soul, his Tama Starclassic Bubinga kit, and the Sabian AAX/HHX cymbal setup he carries across At the Gates, The Haunted, and Paradise Lost.",
+    seoKeywords: ['adrian erlandsson drums', 'how to sound like adrian erlandsson', 'at the gates drummer', 'adrian erlandsson gear', 'slaughter of the soul drumming', 'gothenburg melodic death metal drums', 'adrian erlandsson technique', 'adrian erlandsson drum kit'],
+    ogImage: '/images/guides/adrian-erlandsson-guide.webp',
+    datePublished: '2026-07-05',
+    dateModified: '2026-07-05',
+    author: 'MetalForge Editorial',
+    wordCount: 1900,
+    readingTime: '9 min',
+    intro: {
+      title: "The D-Beat Architect Behind Melodic Death Metal's Blueprint",
+      content: `Adrian Erlandsson co-founded At the Gates in Gothenburg in 1990, and on the band's 1995 album Slaughter of the Soul he delivered one of the most influential drum performances in extreme metal history — a D-beat-and-blast-beat foundation that, alongside the band's tremolo-picked guitar melodies, became the blueprint for the entire Gothenburg melodic death metal sound. Bands from In Flames to Killswitch Engage to Trivium built entire careers on variations of the template Erlandsson helped lay down on that record.
+
+What makes Erlandsson's approach distinctive isn't technical complexity — Slaughter of the Soul's drum parts are not the most elaborate in extreme metal. It's the precision and discipline of a D-beat vocabulary applied with total consistency: patterns that drive the music forward without ever competing with the melodic guitar lines they support. That same reliability carried him through a remarkably varied career — founding The Haunted in 1996, joining British extreme/gothic act Cradle of Filth from 1999-2006, drumming for Paradise Lost from 2009-2016, and simultaneously juggling three active bands during parts of that run, all while returning to At the Gates for its full-time 2008 reformation.
+
+Erlandsson is also the brother of Arch Enemy's Daniel Erlandsson — both Swedish drummers who came up through the same Gothenburg scene and independently defined its rhythmic vocabulary from two different angles: Adrian's groove-oriented D-beat foundation, Daniel's more polished blast-beat precision.
+
+This guide breaks down the technique, gear, and practice approach behind Erlandsson's D-beat-driven melodic death metal drumming — essential study for any drummer chasing the Gothenburg sound.`,
+      keyPoints: [
+        "Co-founded At the Gates in 1990 — drummed on the genre-defining Slaughter of the Soul (1995)",
+        "Founded The Haunted (1996), joined Cradle of Filth (1999-2006), and drummed for Paradise Lost (2009-2016)",
+        "Brother of Arch Enemy's Daniel Erlandsson — both shaped Gothenburg melodic death metal's drumming vocabulary",
+        "Known for disciplined D-beat and blast-beat patterns that serve tremolo-picked melody rather than overwhelm it"
+      ]
+    },
+    technique: {
+      title: "Erlandsson's D-Beat-Driven Technique",
+      overview: `Erlandsson plays matched grip with an economical, punk-informed stroke built around the D-beat — a rock-steady rhythmic foundation borrowed from hardcore and crust punk, adapted to extreme metal tempo and intensity. Where more technical death metal drummers pursue maximum complexity, Erlandsson's identity is built on rhythmic discipline: the D-beat and blast-beat vocabulary he deploys is always in service of the song's melodic momentum, not a display of independent technique.`,
+      stickGrip: {
+        type: 'Matched Grip',
+        description: "Erlandsson uses a controlled matched grip built for consistency across long blast-beat passages, prioritizing an even, driving pulse over flash. The grip stays relatively compact, letting him sustain high-tempo D-beat and blast patterns for a full song without the stroke breaking down.",
+        tips: [
+          "Keep strokes even and driving — the D-beat's power comes from rock-solid consistency, not accents",
+          "Relax the grip on sustained blast passages to avoid fatigue-driven tempo drift late in a song",
+          "Practice the D-beat pattern in isolation before adding it under a melodic guitar line — the pattern must be automatic"
+        ]
+      },
+      signaturePatterns: [
+        {
+          name: "The Gothenburg D-Beat",
+          description: "Erlandsson's core pattern: a driving D-beat foundation (snare on 2 and 4, kick on the downbeats, hi-hat pushing 8th notes) underneath tremolo-picked guitar melody, most clearly heard on the title track 'Slaughter of the Soul.' The pattern proves effective melodic death metal drumming doesn't require maximum velocity — it requires the right groove.",
+          tempo: "160-175 BPM",
+          difficulty: "Intermediate",
+          practiceHint: "Loop the basic D-beat pattern at 130 BPM with a metronome, focusing on keeping the hi-hat's 8th notes perfectly even. Only raise tempo once the groove locks in without rushing."
+        },
+        {
+          name: "Full-Intensity Blast Entrance",
+          description: "Erlandsson's opening blast beat on 'Blinded by Fear' is one of melodic death metal's most iconic entrances — immediate full-velocity blast with no build-up, alternating single strokes on snare against a driving kick pattern, accented by China cymbal hits at riff transitions.",
+          tempo: "190-200 BPM",
+          difficulty: "Advanced",
+          practiceHint: "Build the blast at a reduced tempo with a metronome, focusing on matched hand-and-foot volume, before attempting the immediate full-speed entrance Erlandsson plays cold at the start of the song."
+        },
+        {
+          name: "China Cymbal Accent Punctuation",
+          description: "Throughout Slaughter of the Soul, an 18\" China cymbal marks riff and section transitions with an aggressive, trashy accent — a rhythmic signature that gives the Gothenburg sound its distinctive punctuation between the D-beat verses and blast-beat choruses.",
+          tempo: "Variable",
+          difficulty: "Intermediate",
+          practiceHint: "Identify the exact riff-change points in a song before adding the China accent — Erlandsson's china hits always land precisely on structural transitions, not as a random fill."
+        },
+        {
+          name: "Double-Kick Physical Foundation",
+          description: "Erlandsson's Slaughter of the Soul-era setup used two separate bass drums rather than a double pedal on one kick, giving tracks like 'Blinded by Fear' and 'Suicide Nation' their full physical low-end impact and independent-foot control.",
+          tempo: "160-200 BPM",
+          difficulty: "Advanced",
+          practiceHint: "If practicing on a single kick with a double pedal, focus on matching the physical evenness a true two-kick setup provides — alternate feet deliberately rather than favoring the dominant side."
+        }
+      ],
+      keySongs: [
+        { song: "Blinded by Fear", album: "Slaughter of the Soul", year: 1995, why: "One of melodic death metal's most iconic blast-beat entrances — full intensity from the first bar" },
+        { song: "Slaughter of the Soul", album: "Slaughter of the Soul", year: 1995, why: "The title track's mid-paced D-beat groove is the template the entire Gothenburg subgenre built on" },
+        { song: "Cold", album: "Slaughter of the Soul", year: 1995, why: "Demonstrates Erlandsson's dynamic range — slower, spacious drumming that still serves the melody" },
+        { song: "The Flames of the End", album: "Slaughter of the Soul", year: 1995, why: "Album closer showing the endurance required to sustain blast-beat intensity across a full record" }
+      ]
+    },
+    gear: {
+      title: "Erlandsson's Gear Setup",
+      drumKit: {
+        brand: 'Tama',
+        model: 'Tama Starclassic Bubinga',
+        shells: 'Bubinga',
+        finish: 'Various professional finishes',
+        config: {
+          kick: '22" Bass Drums (x2 — double kick configuration)',
+          snare: '14" x 6.5" Tama Starclassic Bubinga Snare',
+          toms: ['10" Rack Tom', '12" Rack Tom'],
+          floorToms: ['14" Floor Tom', '16" Floor Tom']
+        },
+        description: "Erlandsson's current Tama Starclassic Bubinga setup — adopted during his 2009-2016 Paradise Lost years and carried into At the Gates' ongoing work — uses dense bubinga shells for a fuller low end than the maple/birch Starclassic he played earlier with The Haunted and Cradle of Filth, suited to gothic doom weight as much as melodic death metal attack. It's a significant upgrade from the budget Pearl Export or Studio Fredman house kit he used on Slaughter of the Soul (1995).",
+        affiliateNote: "Pearl Export or Tama Imperialstar offer a similar attack-forward voice at a fraction of the cost of the Starclassic Bubinga line."
+      },
+      snare: {
+        brand: 'Tama',
+        model: 'Starclassic Bubinga 14" x 6.5"',
+        size: '14" x 6.5"',
+        shell: 'Bubinga',
+        description: "Erlandsson's current bubinga-shell snare, matched to his Starclassic kit, delivers more body than the steel/birch studio snare he used on Slaughter of the Soul while retaining the bright cut needed to sit above dense guitar arrangements.",
+        alternative: "Tama Superstar or Pearl Export snare for a comparable focused attack at lower cost"
+      },
+      cymbals: {
+        brand: 'Sabian',
+        series: 'Sabian AAX / HHX Series',
+        setup: [
+          { type: 'Hi-Hats', model: '15" HHX Xcelerator Hi-Hats', notes: 'Articulate response for D-beat and blast patterns' },
+          { type: 'Crash', model: '20" AAX Iso Crash', notes: 'Fast attack and controlled decay for accent work in melodic passages' },
+          { type: 'China', model: '19" Paragon China', notes: 'Aggressive trashy accents marking riff transitions, carried forward from the Zildjian A-Series China he used on Slaughter of the Soul' }
+        ],
+        description: "Erlandsson switched from Zildjian A-Series — his cymbal choice on Slaughter of the Soul — to Sabian AAX/HHX during his Paradise Lost years, and has maintained that setup ever since. The China cymbal's role as a riff-transition accent has stayed constant across both cymbal generations."
+      },
+      pedals: {
+        brand: 'Monolit',
+        model: 'Monolit Czarcie Kopyto Double Pedal',
+        description: "Erlandsson's current double pedal is the Czarcie Kopyto, a boutique Polish design he adopted during his Paradise Lost years. It replaced the standard double bass drum setup — two separate kick drums with independent pedals — he used on Slaughter of the Soul.",
+        alternative: "DW 9000 or Tama Iron Cobra double pedal for a comparably smooth, consistent action"
+      },
+      sticks: {
+        brand: 'Vic Firth',
+        model: 'Vic Firth Rock Nylon Tip (At the Gates Signature)',
+        specs: 'Hickory, nylon tip, signature model',
+        description: "Erlandsson's Vic Firth relationship, built up gradually across his Haunted and Cradle of Filth years, matured into an official At the Gates-branded signature stick — a step up from the standard Vic Firth/Pro-Mark sticks he used in the underground days of Slaughter of the Soul.",
+        alternative: "Vic Firth American Classic 5B or Promark 5B for a comparable weight and feel"
+      },
+      heads: {
+        kick: 'Evans EMAD Onyx',
+        snare: 'Evans EC Reverse Dot',
+        toms: 'Evans EC2 Clear',
+        resonant: 'Evans G1 Clear'
+      }
+    },
+    tuning: {
+      title: "Tuning for Erlandsson's Gothenburg Sound",
+      overview: "Erlandsson tunes for a dry, punchy attack that cuts through dense tremolo-guitar arrangements without blooming into reverb — a philosophy carried from the tightly gated, close-miked production of Slaughter of the Soul through to his current touring setup.",
+      kickDrum: {
+        tension: "Medium",
+        muffling: "Focused — front head removed or ported for direct mic placement",
+        description: "The kick is tuned for a punchy, defined attack so double-bass strokes stay articulate at D-beat and blast tempos instead of blurring into a wash of low end.",
+        tip: "Prioritize attack over boom — at 190+ BPM blast tempos, a boomy kick loses definition between strokes."
+      },
+      snare: {
+        tension: "High",
+        muffling: "Minimal",
+        description: "A high-tension, tightly-wired snare keeps every stroke a distinct crack rather than a wash, maintaining the articulation that Gothenburg melodic death metal's dense guitar walls demand — the same dry, tight character that defined Slaughter of the Soul's production.",
+        tip: "Test your tuning against a fast D-beat pattern — every hit should register individually, even during full-velocity blast sections."
+      },
+      toms: {
+        tension: "Medium-high",
+        muffling: "Light",
+        description: "Toms tuned for fast response and clear attack, keeping fill passages articulate during rapid tom runs and structural transitions.",
+        tip: "Slightly higher tom tension than a typical rock kit helps each stroke speak clearly under dense tremolo-picked guitar arrangements."
+      }
+    },
+    practice: {
+      title: "Developing Erlandsson's Style",
+      exercises: [
+        {
+          name: "D-Beat Groove Lock-In",
+          description: "Build the rock-steady D-beat foundation that anchors Erlandsson's melodic death metal drumming",
+          instructions: "At 130 BPM, play the basic D-beat pattern (snare on 2 and 4, kick on downbeats, driving 8th-note hi-hat) for three minutes without deviating from the groove. Record yourself and check for rushing or dragging. Only raise the tempo once the pattern locks in perfectly.",
+          duration: "15 minutes daily",
+          goal: "A rock-steady D-beat groove sustained at 160-175 BPM"
+        },
+        {
+          name: "Cold-Start Blast Entrance Drill",
+          description: "Train the immediate full-intensity blast entrance heard on 'Blinded by Fear'",
+          instructions: "Without a build-up, count off and play a full-velocity blast beat from the very first stroke at a reduced tempo. Focus on matched hand-and-foot volume from note one. Gradually increase tempo only once every cold start is completely even.",
+          duration: "10 minutes daily",
+          goal: "A clean, full-intensity blast entrance with no ramp-up, sustained at 190+ BPM"
+        },
+        {
+          name: "China Accent Placement",
+          description: "Develop the precise structural-transition accents that punctuate the Gothenburg sound",
+          instructions: "Choose a song with clear riff changes. Map out exactly where each riff transitions. Practice hitting the China cymbal precisely on those transition points while maintaining the underlying D-beat or blast pattern underneath.",
+          duration: "15 minutes daily",
+          goal: "China accents that land exactly on structural transitions, not as random fills"
+        }
+      ],
+      commonMistakes: [
+        "Adding unnecessary complexity to the D-beat instead of trusting its rhythmic simplicity",
+        "Rushing the cold-start blast entrance instead of building it up at reduced tempo first",
+        "Placing China cymbal accents randomly instead of precisely on riff or section transitions",
+        "Over-tuning the snare for warmth at the expense of the dry, cutting attack the style requires"
+      ]
+    },
+    videos: [],
+    budgetSetups: {
+      budget: {
+        price: "$1,000",
+        label: "Starter Setup",
+        kit: "Pearl Export or Tama Imperialstar ($700)",
+        cymbals: "Zildjian A Custom or Sabian SBR Pack ($250)",
+        pedals: "Pearl P2000C Double ($150)",
+        sticks: "Vic Firth Rock ($10)",
+        notes: "Any focused-attack budget kit will get you close to Erlandsson's Slaughter of the Soul-era tone before investing in a full Tama Starclassic Bubinga shell pack."
+      },
+      mid: {
+        price: "$3,000",
+        label: "Intermediate Setup",
+        kit: "Tama Starclassic (partial shell pack) ($1,800)",
+        cymbals: "Sabian AAX or Zildjian A Custom Set ($900)",
+        pedals: "Tama Iron Cobra Double ($300)",
+        sticks: "Vic Firth Rock Nylon Tip ($12)",
+        notes: "A partial Tama Starclassic pack plus a matched Sabian or Zildjian cymbal set gets you most of the way to Erlandsson's current live tone."
+      },
+      pro: {
+        price: "$5,500+",
+        label: "Professional Setup",
+        kit: "Tama Starclassic Bubinga full shell pack ($3,800+)",
+        cymbals: "Full Sabian AAX/HHX professional selection ($1,600+)",
+        pedals: "Monolit Czarcie Kopyto Double ($480)",
+        heads: "Full Evans setup ($150)",
+        notes: "Touring-ready setup matching Erlandsson's current At the Gates and Paradise Lost-era configuration."
+      }
+    },
+    faq: [
+      {
+        question: "What makes Adrian Erlandsson's drumming style unique?",
+        answer: "Erlandsson's defining trait is disciplined D-beat-and-blast-beat drumming that always serves the melody rather than overwhelming it. Rather than technical complexity, his identity is built on rhythmic consistency — the D-beat groove he laid down on At the Gates' Slaughter of the Soul (1995) became the template that hundreds of melodic death metal and metalcore bands spent the following decades emulating."
+      },
+      {
+        question: "What drums and cymbals does Adrian Erlandsson use?",
+        answer: "Erlandsson currently plays a Tama Starclassic Bubinga kit with a matched 14\" x 6.5\" bubinga snare. His cymbals are Sabian AAX and HHX — 15\" HHX Xcelerator hi-hats, a 20\" AAX Iso crash, and a 19\" Paragon China for accent work. He uses a Monolit Czarcie Kopyto double pedal and an official Vic Firth signature stick model bearing the At the Gates name. On Slaughter of the Soul (1995), his setup was a budget Pearl Export or Studio Fredman house kit with Zildjian A-Series cymbals and a true two-kick double bass configuration."
+      },
+      {
+        question: "How do I get Adrian Erlandsson's Gothenburg drum sound?",
+        answer: "Tune the kick for punchy, defined attack, keep the snare high-tension with minimal muffling for a dry crack, and lock in the basic D-beat groove at a reduced tempo before chasing speed. Erlandsson's sound comes from rhythmic discipline at 160-200 BPM, not raw technical complexity — every D-beat and blast pattern exists to drive the melody, not compete with it."
+      },
+      {
+        question: "Which bands has Adrian Erlandsson played drums for?",
+        answer: "Adrian Erlandsson co-founded At the Gates (1990-present), founded The Haunted (1996-1999, rejoined 2013-present), played in Cradle of Filth (1999-2006), and drummed for Paradise Lost (2009-2016) — often juggling multiple active bands at once. He is the brother of Arch Enemy's Daniel Erlandsson."
+      },
+      {
+        question: "Is Adrian Erlandsson related to Daniel Erlandsson?",
+        answer: "Yes — Adrian and Daniel Erlandsson are brothers, both prominent drummers from the same Gothenburg, Sweden melodic death metal scene. Adrian plays with At the Gates (and previously The Haunted and Cradle of Filth), while Daniel has been Arch Enemy's drummer since 2005. The two brothers independently shaped Gothenburg's rhythmic vocabulary from different angles — Adrian's D-beat foundation, Daniel's blast-beat precision."
+      }
+    ],
+    related: {
+      drummerProfile: '/drummer/adrian-erlandsson',
+      similarDrummers: ['Daniel Erlandsson', 'Dave Lombardo', 'Jon Dette'],
+      relatedGuides: ['how-to-sound-like-daniel-erlandsson', 'how-to-sound-like-dave-lombardo'],
+      gearPages: ['/gear/drums', '/brands/tama', '/brands/sabian']
+    },
+    licksUrl: '/drummers/adrian-erlandsson/licks',
+    relatedArticles: [
+      { slug: 'slaughter-of-the-soul-drum-setup', label: "At the Gates 'Slaughter of the Soul' Drum Setup — Adrian Erlandsson's 1995 Gear" }
+    ]
+  },
+
   'how-to-sound-like-paul-bostaph': {
     slug: 'how-to-sound-like-paul-bostaph',
     drummerSlug: 'paul-bostaph',

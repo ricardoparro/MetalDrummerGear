@@ -88,6 +88,24 @@
       ]
     },
     {
+      "source": "/genre/:slug",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
+      "source": "/genres",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
       "source": "/api/image(.*)",
       "headers": [
         {
@@ -371,6 +389,16 @@
       "source": "/drummer/:slug",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
       "destination": "/api/meta/drummer/:slug"
+    },
+    {
+      "source": "/genre/:slug",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/genre/:slug"
+    },
+    {
+      "source": "/genres",
+      "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
+      "destination": "/api/meta/genres"
     },
     { "source": "/((?!api/).*)", "destination": "/index.html" }
   ]

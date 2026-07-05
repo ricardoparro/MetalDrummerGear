@@ -42,6 +42,9 @@ import { GENRE_GEAR_GUIDES } from '../../packages/frontend/data/genreGearGuides.
 import { DRUMMERS_BY_KIT } from '../../packages/frontend/data/drummersByKit.js';
 // Issue #3219: FAQPage schema for /drummers/:slug/gear-history pages.
 import { getGearPriceHistory, formatHistoryPrice } from '../../packages/frontend/data/gearPriceHistory.js';
+// Issue #3745: /genres hub + /genre/<slug> pages — CollectionPage + FAQPage JSON-LD.
+// Ported from the dead api/meta/index.js (never wired into any rewrite/handler path).
+import { genres as GENRES, getAllGenreSlugs } from '../../packages/frontend/data/genres.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -1655,6 +1658,80 @@ function getMetaForPath(pathname) {
           { name: 'Home', url: BASE_URL },
           { name: 'Gear Brands', url: `${BASE_URL}/brands` },
           { name: brand.name, url: `${BASE_URL}/brands/${brandSlug}` },
+        ],
+      };
+    }
+  }
+
+  // Issue #3745 (originally #1799): /genres hub — CollectionPage JSON-LD.
+  if (path === '/genres') {
+    return {
+      title: `Metal Genres — Explore Drumming by Genre | ${SITE_NAME}`,
+      description: 'Explore metal drumming by genre. From thrash and death to progressive and metalcore — discover the drummers and gear that define each style.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/genres`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@graph': [
+          {
+            '@type': 'CollectionPage',
+            name: 'Metal Drummer Genres — Gear & Setups by Style',
+            url: `${BASE_URL}/genres`,
+            description: `Explore metal drumming by genre: ${getAllGenreSlugs().map(slug => GENRES[slug].name).join(', ')}. Discover the drummers and gear that define each style.`,
+            publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+          },
+        ],
+      }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Genres', url: `${BASE_URL}/genres` },
+      ],
+    };
+  }
+
+  // Issue #3745 (originally #1799): /genre/<slug> individual genre pages —
+  // CollectionPage + FAQPage JSON-LD.
+  const genreMatch = path.match(/^\/genre\/([a-z0-9-]+)$/);
+  if (genreMatch) {
+    const [, genreSlug] = genreMatch;
+    const genreData = GENRES[genreSlug];
+    if (genreData) {
+      const genreName = genreData.name;
+      const faqItems = genreData.faq || [];
+      const graph = [
+        {
+          '@type': 'CollectionPage',
+          name: `${genreName} Drummers — Gear & Setups`,
+          url: `${BASE_URL}/genre/${genreSlug}`,
+          description: `Explore ${genreName.toLowerCase()} drummers and their complete gear setups on MetalForge.`,
+          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        },
+      ];
+      if (faqItems.length > 0) {
+        graph.push({
+          '@type': 'FAQPage',
+          mainEntity: faqItems.map(faq => ({
+            '@type': 'Question',
+            name: faq.question,
+            acceptedAnswer: { '@type': 'Answer', text: faq.answer },
+          })),
+        });
+      }
+      return {
+        title: genreData.metaTitle || `${genreName} Drummers — Gear & Setups | ${SITE_NAME}`,
+        description: genreData.metaDescription || `Explore ${genreName.toLowerCase()} drummers and their gear. From icons to rising stars, see what powers the ${genreName.toLowerCase()} sound.`,
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: `${BASE_URL}/genre/${genreSlug}`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@graph': graph,
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Genres', url: `${BASE_URL}/genres` },
+          { name: genreName, url: `${BASE_URL}/genre/${genreSlug}` },
         ],
       };
     }

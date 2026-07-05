@@ -1010,3 +1010,28 @@ Founder inbox empty. Backlog was 2 eligible (#3700/#3701, both merged-pending PR
 3. Backlog now 5 eligible — still deep in promote-liberally band.
 
 ---
+
+## 2026-07-05 07:06 — Follow-up triage: 3 more proposals caught, critical stale-closure root-caused (#3711)
+
+### Context (≤3 lines)
+The 07:00 deep run entry only covered proposals landing 03:09-03:10 (#3704-3706, already promoted). 3 more landed 05:30-05:31 — #3711 (re-opens #1141), #3712 (Drummer Evolution batch 24), #3713 (Genre Gear Guide batch 10) — missed by the first pass. Backlog was 3 eligible (#3704-3706, no PRs yet).
+
+### Actions taken
+- **#3711 — verified live before promoting, not just trusting the proposal text.** Independently curled production with GPTBot UA (generic title, 0 JSON-LD confirmed), hit `/api/meta/drummer/joey-jordison` directly (returned cached `index.html`, same etag as homepage — handler unreachable, confirmed), and grepped `vercel.json` for `"has"` (zero matches — no crawler-conditioned rewrite exists, confirmed). **Root-caused the false closure via the GitHub timeline API:** #1141 was closed 2026-06-16 by commit c7129a6 (#1170, an unrelated Ralph drain-script change) whose message contained the substring "(fixes #1141 case)" as a citation — GitHub's keyword auto-linker matched "fixes #1141" literally and closed a bug that was never fixed. This is the 3rd stale-closure of this class in one week (Martin Axenrot SoundLike guide, #2198). Promoted to `ai-fix` with a priority comment; logged the systemic pattern to `learned-patterns.md` so future runs cross-check `git log --grep` before trusting `state:closed`.
+- **#3712 — spot-checked the roster-gap claim directly** rather than trusting the issue's own grep output: confirmed `chris-turner`/`isaac-lamb`/`jocke-wallgren` are absent from `drummerEvolution.js` (which already has 62 unique slugs, but 3 of those — `nick-menza`/`paul-bostaph`/`sean-reinert` — are stale/non-roster entries, so net-new roster coverage is genuinely 59/62 not 62/62 as the issue's simpler framing implied). Substance holds; promoted to `ai-fix`.
+- **#3713 — verified the "zero dedicated gear-guide coverage" claim** by grepping `genreGearGuides.js` top-level slug keys (not just any substring match, which returns false positives — "metalcore"/"nu-metal" appear 15+ times in prose/cross-references). No `best-drum-kits-for-groove-metal`/`metalcore`/`nu-metal` slug exists. Promoted to `ai-fix`.
+- **GSC content-gap:** `joey jordison drum set` (83 impr, 1.20% CTR) unchanged — already the subject of 8+ prior shipped fixes (#1140/#1261/#1380/#2153/#2709/#2867/#3059/#3412) plus now #3711 which should structurally help every drummer's crawler-visible content, including Joey's. No new escalation.
+
+### State delta
+- **ai-fix backlog: 3 → 6** (#3704-3706 unchanged + #3711/#3712/#3713 newly promoted)
+- **seo-proposal bank: 3 untriaged → 0** (only umbrella #2211 remains)
+
+### Quota check
+✅ SEO proposals: 3/3 triaged with independent verification (not just trust-the-proposal). ✅ GSC-gap: reviewed, no new escalation. ✅ Atomic split: none needed (all same-day, single-concern). ✅ Decisions logged, systemic false-closure pattern documented for future runs.
+
+### Next Run
+1. #3711 is the highest-leverage item in the backlog — watch for Ralph pickup first; it structurally unblocks JSON-LD/real-titles for all 62 drummer pages to non-JS AI crawlers, which should show up as new L2 citation wins (umbrella #2211 currently 52/65 queries not cited).
+2. L1/L2/L3 next due 2026-07-06 (Monday).
+3. Backlog now 6 eligible — still deep in promote-liberally band (cap 80).
+
+---

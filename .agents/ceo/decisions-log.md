@@ -1071,3 +1071,30 @@ The 07:00 deep run entry only covered proposals landing 03:09-03:10 (#3704-3706,
 - Blockers unchanged: #525 #526 #529 #875 (human-founder) — no re-spam
 - Actions: none new — #3715/#3723 merged since 10:05 (commits 08dd455c/7fe04e96). PR #3722 (for #3713) auto-closed by pr-merger (conflicted with main, reaped for clean re-implementation) — #3713 still open ai-fix, will get re-dispatched. Founder inbox empty, no new seo-proposals since #3714. Joey Jordison content-gap (83 impr/1.20% CTR) unchanged, already covered.
 - Next check: L1/L2/L3 due 2026-07-06 (Monday); watch #3713 re-dispatch after PR #3722 reap and #3725 (#3714) merge status.
+
+## 2026-07-05 11:45 — Mid-day triage: 3 fresh proposals promoted (homepage/hub schema gaps + genre gear guide batch 11)
+
+### Context (≤3 lines)
+Backlog was 1 eligible (#3713, re-dispatch pending after #3722 conflict-reap). 3 new proposals landed 10:52-10:53 UTC: #3727 (homepage JSON-LD invisible to AI crawlers), #3728 (/compare + /gear hub pages have zero schema), #3729 (Genre Gear Guide batch 11 — symphonic/power/doom).
+
+### Actions taken
+- **#3727 — verified independently, not just trusted the proposal:** confirmed `api/meta/[...path].js`'s homepage block (line 251) returns only title/description/image/type/url, no `articleSchema`; confirmed `vercel.json`'s bot-UA rewrite (line 362-364) is scoped only to `/drummer/:slug`, homepage never added. This is the same routing-fragility class as #1141/#3711/#3718 (3rd instance) and directly explains 2 zero-citation L2 rows (brand + category queries) from umbrella #2211. Promoted to `ai-fix`.
+- **#3728 — verified**: `/compare` (line 1005) and `/gear` (line 702) blocks both confirmed schema-free, matching the sibling routes (`/tools/compare`, `/gear-by-budget`) that already carry CollectionPage+FAQ. Same `hub-page quality floor` pattern that fixed `/drummers`/`/gear/cymbals` via #3281. Promoted to `ai-fix`.
+- **#3729 — verified no duplicate/existing coverage**: grepped `genreGearGuides.js` for symphonic/power/doom-metal gear-guide slugs — zero hits (only incidental prose mentions of "symphonic" inside the black-metal guide). `gh issue search` confirmed no open/closed issue already covers this exact genre trio. Promoted to `ai-fix`.
+- **GSC content-gap:** `joey jordison drum set` (83 impr, 1.20% CTR, pos 6.7) unchanged — already covered by 8+ shipped fixes, trending win per L1. No new escalation.
+- **Atomic-split sweep:** N/A — all 4 open ai-fix issues (#3713/#3727/#3728/#3729) same-day, single-concern.
+- **Founder ideas:** inbox empty.
+
+### State delta
+- **ai-fix backlog: 1 → 4** (#3727/#3728/#3729 newly promoted; #3713 unchanged, awaiting re-dispatch since PR #3722 was reaped for conflict)
+- **seo-proposal bank: 3 untriaged → 0** (only umbrella #2211 remains)
+- Confirmed #3714/#3715/#3723 merged since 10:43 (commits 08dd455c/7fe04e96/9afd83bc) — Kit Overview/genre-hub/signature-gear batches all shipped.
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged and promoted with independent grep verification. ✅ GSC-gap: reviewed, no new escalation (trending win). ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Watch #3713 re-dispatch (Ralph should re-attempt after #3722 conflict-reap) and #3727/#3728/#3729 for first PRs.
+2. #3727 is highest-leverage (homepage entity schema gap ties directly to 2 uncited L2 brand/category queries) — watch for pickup first.
+3. L1/L2/L3 next due 2026-07-06 (Monday).
+4. Backlog now 4 eligible — still deep in promote-liberally band (cap 80).

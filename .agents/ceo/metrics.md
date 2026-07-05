@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-05 10:43 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-05 11:30 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 169 |
 | Sessions | 193 |
-| Page views | 285 |
+| Page views | 286 |
 | Engagement rate | 62.18% |
 | Avg session (s) | 138 |
 
@@ -24,14 +24,14 @@
 | /drummer/john-otto | 13 | 10 |
 | /drummer/bill-ward | 10 | 7 |
 | /drummer/joey-jordison | 10 | 10 |
-| /articles/fastest-double-bass-drummers | 8 | 5 |
+| /articles/fastest-double-bass-drummers | 9 | 5 |
 | /drummer/eloy-casagrande | 8 | 8 |
 | /drummer/matt-greiner | 6 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 148 | 131 |
+| Organic Search | 149 | 132 |
 | Direct | 40 | 34 |
 | Unassigned | 21 | 20 |
 

@@ -1163,3 +1163,31 @@ Backlog was 1 eligible ai-fix (#3729). #3734 (crawler-shell bug, 3rd occurrence 
 2. Watch #3743 for Ricardo's Vercel dashboard findings — once back, file the precise follow-up `ai-fix` immediately (don't let it sit).
 3. Once the routing bug is genuinely fixed and verified, re-run the #2211 L2 citation sweep — expect a step-change, and re-check the `joey jordison drum set` CTR gap since its title/meta fix should finally reach crawlers.
 4. L1/L2/L3 next due 2026-07-06 (Monday).
+
+## 2026-07-05 15:35 — Held a proposal back from promotion: routing-table theory disproven before it could become a 5th blind fix
+
+### Context (≤3 lines)
+Backlog was 2 eligible (#3742 priority, #3729 awaiting re-dispatch after PR #3733 conflict-reap). 2 fresh proposals landed 14:43: #3744 (site-wide bot-rewrite gap — ~13 route families with built handlers but no rewrite path) and #3745 (genre hub dead-code migration, companion bug).
+
+### Actions taken
+- **Independently verified #3744's audit claims** before triaging: `grep -c '"has"' vercel.json` = 1 (confirms only `/drummer/:slug` has a bot-conditioned rewrite), and `structured-data-snapshot.md` confirms 150/150 sampled non-drummer URLs are `no-jsonld` — both check out.
+- **Tested #3744's proposed fix against its own precondition before promoting**: ran a fresh curl directly on `/api/meta/drummer/lars-ulrich?nonce=...` — a path that needs **no rewrite at all** since `api/` is explicitly excluded from the catch-all. It returned the identical generic-shell etag as the homepage. This rules out "the rewrite table is incomplete" as the root cause: the function isn't executing even when hit with zero routing involved. Adding ~13 more rewrite rules pointing at the same non-executing function would not have fixed anything — it would have been the 5th blind `vercel.json` edit in this saga.
+- **Held #3744 as `seo-proposal`** (did not promote) with a comment documenting the disproof and redirecting to #3742 (diagnostic marker-header, already `ai-fix`+`priority`) and #3743 (`human-founder`, Vercel dashboard Root Directory check) as the correct next steps. Cross-commented on #3742 linking both companions so Ralph doesn't duplicate investigation. The route audit itself stays valuable as a ready-made checklist once the real root cause is fixed — re-promoting later costs nothing.
+- **Promoted #3745** (genre `/genre/:slug` + `/genres` handler stuck in dead `api/meta/index.js`, never ported to the live `api/meta/[...path].js`; sitemap also missing all 9 individual genre URLs) — independently confirmed via grep (zero genre matcher in the live handler file, zero `/genre/` sitemap entries). This is a genuinely independent dead-code/sitemap bug, low-risk to fix now, and pays off the moment the routing root-cause resolves.
+- Logged the disproof pattern to `learned-patterns.md`: test a "missing config" theory's own precondition (does a request that doesn't need the missing piece also fail?) before promoting its fix.
+- **GSC content-gap**: `joey jordison drum set` unchanged, already covered — deferred pending the routing fix as in prior runs, no new escalation.
+- **Founder ideas**: inbox empty. **Atomic split**: N/A, nothing open >3 days.
+
+### State delta
+- ai-fix backlog: 2 → 3 (#3745 promoted; #3742/#3729 unchanged)
+- seo-proposal bank: #3744 remains parked (intentional hold, not an oversight); #2211 standing L2 tracker unchanged
+- No merges since #3739 (14:22) — #3742 not yet dispatched
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: both triaged (1 promoted, 1 deliberately held with reasoning documented). ✅ GSC-gap: reviewed, deferred (not a new gap). ✅ Atomic split: none needed. ✅ Decisions logged + learned-patterns.md updated.
+
+### Next Run
+1. Watch #3742 for dispatch and re-curl production myself before trusting any closure — same rule as every prior run this saga.
+2. If #3742's marker header comes back **present** (function does execute, response still wrong) — that reopens the door to #3744's rewrite-table theory being a contributing factor; re-evaluate promoting it then.
+3. If #3742's marker header comes back **absent** — wait for #3743/Ricardo's Vercel dashboard findings before any further repo-side attempts.
+4. L1/L2/L3 next due 2026-07-06 (Monday).

@@ -9,6 +9,10 @@
  * Series used by fewer than 2 drummers are omitted.
  *
  * Shape: GEAR_INDEX = { [brand]: { [series]: [{ id, name, slug, configString }] } }
+ *
+ * Issue #3714: GEAR_INDEX_BRAND_LEVEL is a sibling brand-only index sourced from the
+ * `heads` field (drumhead brands are almost always model-less — see file header).
+ * Shape: GEAR_INDEX_BRAND_LEVEL = { [brand]: [{ id, name, slug, configString }] }
  */
 
 export const GEAR_INDEX = {
@@ -217,7 +221,7 @@ export const GEAR_INDEX = {
         "configString": "Pearl Demon Drive Double Pedal, Pearl D-3000 Throne"
       },
       {
-        "id": 40,
+        "id": 36,
         "name": "Ryan Van Poederooyen",
         "slug": "ryan-van-poederooyen",
         "configString": "Pearl Demon Drive Double Pedal, Pearl D-3000 Throne"
@@ -305,7 +309,7 @@ export const GEAR_INDEX = {
         "configString": "Pearl Reference Series"
       },
       {
-        "id": 40,
+        "id": 36,
         "name": "Ryan Van Poederooyen",
         "slug": "ryan-van-poederooyen",
         "configString": "Pearl Reference Series"
@@ -349,7 +353,7 @@ export const GEAR_INDEX = {
         "configString": "Pearl Reference 14x6.5\" Brass"
       },
       {
-        "id": 40,
+        "id": 36,
         "name": "Ryan Van Poederooyen",
         "slug": "ryan-van-poederooyen",
         "configString": "Pearl Reference 14x6.5\" Brass"
@@ -473,7 +477,7 @@ export const GEAR_INDEX = {
         "configString": "Sabian HHX & AAX Series (14\" HHX Compression Hi-Hats, 15\" Artisan Hi-Hats, 19\" & 20\" & 21\" HHX Stage Crashes, 22\" Legacy Ride, 19\" AAXtreme China)"
       },
       {
-        "id": 40,
+        "id": 36,
         "name": "Ryan Van Poederooyen",
         "slug": "ryan-van-poederooyen",
         "configString": "Sabian HHX & AAX Series (14\" HHX Evolution Hi-Hats, 18\" & 20\" HHX Evolution Crashes, 21\" HHX Raw Bell Dry Ride, 19\" AAXtreme China)"
@@ -841,15 +845,15 @@ export const GEAR_INDEX = {
         "configString": "Vic Firth American Classic 5B"
       },
       {
-        "id": 39,
-        "name": "Travis Orbin",
-        "slug": "travis-orbin",
+        "id": 36,
+        "name": "Ryan Van Poederooyen",
+        "slug": "ryan-van-poederooyen",
         "configString": "Vic Firth American Classic 5B"
       },
       {
-        "id": 40,
-        "name": "Ryan Van Poederooyen",
-        "slug": "ryan-van-poederooyen",
+        "id": 39,
+        "name": "Travis Orbin",
+        "slug": "travis-orbin",
         "configString": "Vic Firth American Classic 5B"
       },
       {
@@ -976,6 +980,307 @@ export const GEAR_INDEX = {
       }
     ]
   }
+};
+
+export const GEAR_INDEX_BRAND_LEVEL = {
+  "Evans": [
+    {
+      "id": 2,
+      "name": "Joey Jordison",
+      "slug": "joey-jordison",
+      "configString": "Evans"
+    },
+    {
+      "id": 3,
+      "name": "Gene Hoglan",
+      "slug": "gene-hoglan",
+      "configString": "Evans"
+    },
+    {
+      "id": 6,
+      "name": "George Kollias",
+      "slug": "george-kollias",
+      "configString": "Evans"
+    },
+    {
+      "id": 7,
+      "name": "Eloy Casagrande",
+      "slug": "eloy-casagrande",
+      "configString": "Evans"
+    },
+    {
+      "id": 10,
+      "name": "Jay Weinberg",
+      "slug": "jay-weinberg",
+      "configString": "Evans Black Chrome"
+    },
+    {
+      "id": 22,
+      "name": "Art Cruz",
+      "slug": "art-cruz",
+      "configString": "Evans"
+    },
+    {
+      "id": 23,
+      "name": "Arin Ilejay",
+      "slug": "arin-ilejay",
+      "configString": "Evans"
+    },
+    {
+      "id": 24,
+      "name": "Navene Koperweis",
+      "slug": "navene-koperweis",
+      "configString": "Evans"
+    },
+    {
+      "id": 26,
+      "name": "Shannon Larkin",
+      "slug": "shannon-larkin",
+      "configString": "Evans"
+    },
+    {
+      "id": 29,
+      "name": "Igor Cavalera",
+      "slug": "igor-cavalera",
+      "configString": "Evans"
+    },
+    {
+      "id": 31,
+      "name": "Nick Augusto",
+      "slug": "nick-augusto",
+      "configString": "Evans"
+    },
+    {
+      "id": 32,
+      "name": "Matt Greiner",
+      "slug": "matt-greiner",
+      "configString": "Evans"
+    },
+    {
+      "id": 33,
+      "name": "Blake Richardson",
+      "slug": "blake-richardson",
+      "configString": "Evans (Hybrid on snare, EMAD on kicks, EC2 SST on toms)"
+    },
+    {
+      "id": 35,
+      "name": "Flo Mounier",
+      "slug": "flo-mounier",
+      "configString": "Evans"
+    },
+    {
+      "id": 36,
+      "name": "Ryan Van Poederooyen",
+      "slug": "ryan-van-poederooyen",
+      "configString": "Evans"
+    },
+    {
+      "id": 37,
+      "name": "Jason Bittner",
+      "slug": "jason-bittner",
+      "configString": "Evans"
+    },
+    {
+      "id": 39,
+      "name": "Travis Orbin",
+      "slug": "travis-orbin",
+      "configString": "Evans"
+    },
+    {
+      "id": 40,
+      "name": "Chris Turner",
+      "slug": "chris-turner",
+      "configString": "Evans"
+    },
+    {
+      "id": 44,
+      "name": "Derek Roddy",
+      "slug": "derek-roddy",
+      "configString": "Evans"
+    },
+    {
+      "id": 45,
+      "name": "Dirk Verbeuren",
+      "slug": "dirk-verbeuren",
+      "configString": "Evans"
+    },
+    {
+      "id": 49,
+      "name": "Richard Christy",
+      "slug": "richard-christy",
+      "configString": "Evans"
+    },
+    {
+      "id": 50,
+      "name": "Aquiles Priester",
+      "slug": "aquiles-priester",
+      "configString": "Evans"
+    },
+    {
+      "id": 51,
+      "name": "Paul Mazurkiewicz",
+      "slug": "paul-mazurkiewicz",
+      "configString": "Evans"
+    },
+    {
+      "id": 52,
+      "name": "Mike Mangini",
+      "slug": "mike-mangini",
+      "configString": "Evans"
+    },
+    {
+      "id": 53,
+      "name": "Matt Garstka",
+      "slug": "matt-garstka",
+      "configString": "Evans"
+    },
+    {
+      "id": 54,
+      "name": "Daniel Erlandsson",
+      "slug": "daniel-erlandsson",
+      "configString": "Evans"
+    },
+    {
+      "id": 56,
+      "name": "Hannes Grossmann",
+      "slug": "hannes-grossmann",
+      "configString": "Evans"
+    },
+    {
+      "id": 57,
+      "name": "Daray",
+      "slug": "daray",
+      "configString": "Evans"
+    },
+    {
+      "id": 58,
+      "name": "Jocke Wallgren",
+      "slug": "jocke-wallgren",
+      "configString": "Evans"
+    },
+    {
+      "id": 59,
+      "name": "Tim Yeung",
+      "slug": "tim-yeung",
+      "configString": "Evans"
+    },
+    {
+      "id": 61,
+      "name": "Isaac Lamb",
+      "slug": "isaac-lamb",
+      "configString": "Evans Hydraulic"
+    }
+  ],
+  "Remo": [
+    {
+      "id": 1,
+      "name": "Lars Ulrich",
+      "slug": "lars-ulrich",
+      "configString": "Remo"
+    },
+    {
+      "id": 5,
+      "name": "Tomas Haake",
+      "slug": "tomas-haake",
+      "configString": "Remo"
+    },
+    {
+      "id": 9,
+      "name": "John Otto",
+      "slug": "john-otto",
+      "configString": "Remo Emperor Coated"
+    },
+    {
+      "id": 15,
+      "name": "Mario Duplantier",
+      "slug": "mario-duplantier",
+      "configString": "Remo Emperor (toms), Remo Powerstroke 3 (bass drums)"
+    },
+    {
+      "id": 25,
+      "name": "Alex Bent",
+      "slug": "alex-bent",
+      "configString": "Remo"
+    },
+    {
+      "id": 28,
+      "name": "Morgan Ågren",
+      "slug": "morgan-agren",
+      "configString": "Remo"
+    },
+    {
+      "id": 30,
+      "name": "Bill Ward",
+      "slug": "bill-ward",
+      "configString": "Remo"
+    },
+    {
+      "id": 34,
+      "name": "Ben Koller",
+      "slug": "ben-koller",
+      "configString": "Remo"
+    },
+    {
+      "id": 38,
+      "name": "Martin Lopez",
+      "slug": "martin-lopez",
+      "configString": "Remo"
+    },
+    {
+      "id": 41,
+      "name": "Nicko McBrain",
+      "slug": "nicko-mcbrain",
+      "configString": "Remo Emperor"
+    },
+    {
+      "id": 42,
+      "name": "Scott Travis",
+      "slug": "scott-travis",
+      "configString": "Remo"
+    },
+    {
+      "id": 43,
+      "name": "Mikkey Dee",
+      "slug": "mikkey-dee",
+      "configString": "Remo"
+    },
+    {
+      "id": 46,
+      "name": "Frost",
+      "slug": "frost",
+      "configString": "Remo"
+    },
+    {
+      "id": 47,
+      "name": "Gavin Harrison",
+      "slug": "gavin-harrison",
+      "configString": "Remo Ambassador"
+    },
+    {
+      "id": 48,
+      "name": "Abe Cunningham",
+      "slug": "abe-cunningham",
+      "configString": "Remo"
+    },
+    {
+      "id": 55,
+      "name": "Jaska Raatikainen",
+      "slug": "jaska-raatikainen",
+      "configString": "Remo"
+    },
+    {
+      "id": 60,
+      "name": "Kevin Talley",
+      "slug": "kevin-talley",
+      "configString": "Remo"
+    },
+    {
+      "id": 62,
+      "name": "Martin Axenrot",
+      "slug": "martin-axenrot",
+      "configString": "Remo"
+    }
+  ]
 };
 
 export default GEAR_INDEX;

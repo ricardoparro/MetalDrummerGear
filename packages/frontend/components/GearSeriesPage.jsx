@@ -165,11 +165,36 @@ function RelatedSeries({ related, theme, onSelectSeries }) {
             accessibilityLabel={`${r.brand} ${r.series} — ${r.drummerCount} drummers`}
           >
             <Text style={[styles.chipText, { color: theme.primary }]}>
-              {r.series} ({r.drummerCount})
+              {r.isBrandLevel ? `${r.brand} ${r.series}` : r.series} ({r.drummerCount})
             </Text>
           </Pressable>
         ))}
       </View>
+    </View>
+  );
+}
+
+// Issue #3714: brand-level heads pages (Evans, Remo) link out to the
+// best-drum-heads-for-metal genre guide — a real internal link, not just a chip.
+function RelatedGuideLink({ guide, theme }) {
+  if (!guide) return null;
+  const navigate = () => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', guide.url);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+      window.scrollTo(0, 0);
+    }
+  };
+  return (
+    <View style={styles.section}>
+      <Pressable
+        onPress={navigate}
+        style={[styles.chip, { backgroundColor: theme.primary + '20', borderColor: theme.primary, alignSelf: 'flex-start' }]}
+        accessibilityRole="link"
+        accessibilityLabel={`Read the ${guide.title} guide`}
+      >
+        <Text style={[styles.chipText, { color: theme.primary }]}>📖 {guide.title} Guide →</Text>
+      </Pressable>
     </View>
   );
 }
@@ -243,6 +268,7 @@ export function GearSeriesPage({
       />
       <FaqList faq={data.faq} theme={theme} />
       <RelatedSeries related={data.relatedSeries} theme={theme} onSelectSeries={onNavigate} />
+      <RelatedGuideLink guide={data.relatedGuide} theme={theme} />
 
       {onBack && (
         <Pressable onPress={onBack} style={[styles.backButton, { backgroundColor: theme.primary }]} accessibilityRole="link">

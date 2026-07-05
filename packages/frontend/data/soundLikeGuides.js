@@ -15798,7 +15798,7 @@ This guide breaks down the technique, gear, and practice approach behind Ilejay'
 
   'how-to-sound-like-ryan-van-poederooyen': {
     slug: 'how-to-sound-like-ryan-van-poederooyen',
-    drummerId: 40,
+    drummerId: 36,
     drummerName: 'Ryan Van Poederooyen',
     band: 'Devin Townsend Project',
     genre: 'Progressive Metal',

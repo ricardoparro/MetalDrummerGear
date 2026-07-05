@@ -12,6 +12,12 @@
 
 ---
 
+## 🚨 Active blocker (2026-07-05): production deploys are batched, agents can't trigger them
+
+`deploy-prod.yml` only fires on a 06:00 UTC daily schedule (since #1797, 2026-06-19) — pushes to `main` no longer trigger a build, and the agent GitHub token lacks `actions:write` to run `workflow_dispatch` manually. Confirmed live 2026-07-05 20:23 UTC: `/drummer/john-otto` still served the generic SPA shell to a bot UA even though 4+ crawler-rewrite fixes had merged since the last deploy (07:04 UTC that morning). Tracked in **#3743** (human-founder, open). Until Ricardo runs the workflow manually (or comments to confirm otherwise), treat any "fix merged but curl looks unchanged" as **unmeasured, not failed** — this caused a 4x misdiagnosis loop on the crawler-shell bug (#3734→#3742) before the batching was discovered. Clear this note once #3743 is resolved.
+
+---
+
 ## 📋 Cleanup Log
 
 **2026-06-16 (evening):** 🔓 **GSC BLOCKER RESOLVED.** The 126-day "GSC blind" saga (#910, #909) ended today — service account granted on the GSC property; metrics.md now carries a live Search Console query table (1,279 impr / 32 clicks / pos 8.6). First GSC-gap escalation filed (#1140, Joey Jordison query cluster). GSC-gap quota is now actionable going forward.

@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-05 00:26 UTC*
 
 ---
+## 2026-07-05 20:23 — Evening review: found the real deploy blocker behind the whole-day crawler-shell saga; promoted the route-audit fix
+### Context (≤3 lines)
+Backlog fully drained (0 ai-fix, 0 open PRs) after huge throughput today (15+ issues shipped 03:10-20:18, see 13:00 entry). Only 2 open seo-proposals: umbrella #2211 and fresh #3744 (filed 14:43, extends the bot-crawler rewrite in `vercel.json` from `/drummer/:slug` to ~18 other route families with built `api/meta` handlers, incl. `/articles/:slug` — "the site's single biggest LLM-citation lane").
+
+### Actions taken
+- **Promoted #3744 to `ai-fix`** — backlog empty (promote-liberally band), well-evidenced (curl repro + structured-data-snapshot's 150/150 no-jsonld finding), root-cause fix for a lane the site has never served JSON-LD on.
+- **Live-verified before/after promoting**: curl'd `/drummer/john-otto` (the "known-working" baseline) with a bot UA — still returns the byte-identical generic shell (etag `ea0bd146...`, 6849 bytes) as of 20:23 UTC, despite 4+ merged "fixes" today (#3718, #3739, #3747, #3746). Traced why: production deploys are **batched to once/day at 06:00 UTC** (`deploy-prod.yml` since #1797, 2026-06-19) — pushes to `main` no longer trigger a build. Last actual prod deploy fired 07:04 UTC today; every routing fix merged **after** that timestamp has never actually reached production. This is not a 5th failed fix — it's an unmeasured one. Root cause + the ask (manual `workflow_dispatch`, agent token lacks `actions:write`) already correctly filed by another run as **#3743** (human-founder, open since 14:36).
+- **Commented on #3744** warning the implementer not to repeat the misdiagnosis loop that already happened 4x on this bug (#3734→#3742): merge on code correctness, live-curl verification must wait for the next deploy (tomorrow 06:00 UTC or Ricardo's manual dispatch).
+- **Pushed a proactive notification** flagging #3743 to Ricardo (mobile push didn't send — Remote Control inactive — so #3743 remains the durable record; no duplicate issue filed).
+- Founder inbox empty. No new L1/L2/L3 fires (snapshots still 2026-06-29, next due 2026-07-06). GSC content-gap (Joey Jordison cluster) unchanged, already 3x-fixed, no re-file.
+
+### State delta
+- **ai-fix backlog: 0 → 1** (#3744)
+- **seo-proposal bank: 2 untriaged → 1** (only umbrella #2211 remains)
+- **New standing blocker surfaced**: entire day's SEO/LLM output (~15+ merged PRs) is sitting undeployed pending #3743. This explains in advance why tomorrow's L1 (GSC) snapshot likely won't show movement from today's work yet — don't misread that as the fixes not working.
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh proposal triaged (promoted). ✅ GSC-gap: already covered, no new escalation. ✅ Atomic split: none needed (0 stale ai-fix). ✅ No over-filing (0 new issues filed directly — reused existing #3743). ✅ Decisions logged.
+
+### Next Run
+1. Check #3743 for Ricardo's comment/action — if the manual deploy happens, immediately re-curl `/drummer/john-otto`, `/genre/black-metal`, and (once merged) an `/articles/:slug` page to confirm the whole bot-rewrite family is finally live.
+2. Watch #3744 for Ralph pickup — remind reviewer not to close on an unchanged curl if the deploy hasn't fired yet.
+3. L1/L2/L3 due 2026-07-06 — expect a flat/muted result if #3743 is still unresolved by then; don't treat that as a loss signal.
+
+---
 ## 2026-07-05 13:00 (mid-day pulse — anti-noise hold)
 - Backlog: 1 ai-fix (#3729, PR #3733 open, CONFLICTING) · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 170 / 194 / 288 · GSC: 3,868 impr / 98 clicks / 2.53% CTR / pos 7.8

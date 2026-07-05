@@ -938,6 +938,151 @@ export const techniques = {
     relatedTechniques: ['rudiments', 'ghost-notes'],
     seoKeywords: ['flams', 'flam rudiment', 'flam drumming technique', 'how to play a flam', 'drum accent technique'],
   },
+
+  'single-stroke-roll': {
+    slug: 'single-stroke-roll',
+    title: 'Single Stroke Roll',
+    emoji: '🔂',
+    metaTitle: 'Single Stroke Roll - The Foundational Drum Rudiment | MetalForge',
+    metaDescription: 'Learn the single stroke roll, the alternating RLRL rudiment behind blast beats and gravity blasts. History, practice steps, and metal drummers who built careers on it.',
+    category: 'foundational',
+    difficulty: 'beginner',
+    bpmRange: 'Any',
+    description: `The single stroke roll is the simplest and most fundamental of all drumming rudiments: a continuous alternation between the right and left hand (RLRL...), with each stroke struck individually rather than bounced or combined with the opposite hand. It carries no trick of leverage or rebound to hide behind - every note is a fresh, deliberate stroke - which is exactly why it is the first rudiment every drummer learns and the last one many spend a lifetime refining for speed and evenness. In metal drumming, the single stroke roll is not merely a beginner exercise; it is the literal technical foundation underneath blast beats, one-handed rolls, and gravity blasts, all of which are built from single-stroke motion applied at higher tempos, split across limbs, or assisted by rebound tricks that let one hand fake the density of two.`,
+    history: `Along with the double stroke roll, the single stroke roll anchors the Percussive Arts Society's 40 International Drum Rudiments and traces back to military field drumming, where clean, evenly spaced single strokes were essential for cadences and signaling to carry clearly over distance. Drum corps and marching percussion programs turned raw single-stroke speed and evenness into a measurable discipline, producing generations of players for whom hand speed was a competitive metric long before extreme metal existed. That lineage feeds directly into metal's fastest drummers: Pete Sandoval (Morbid Angel, ex-Terrorizer) built the pioneering "hyper blast" on relentless single-stroke alternation between hands and feet, pushing tempos that redefined what death metal could sound like. George Kollias (Nile) sustains single-stroke-based blast patterns past 280 BPM for entire songs, a feat of endurance built on the same evenness and relaxation that rudimental single-stroke training targets. Mike Mangini (Dream Theater) brought a drum-corps-trained, biomechanically analyzed approach to single-stroke speed, holding multiple recognized drumming-speed records built on refining this one foundational rudiment far beyond what raw muscle alone could achieve.`,
+    howToLearn: [
+      'Start painfully slow - alternate right and left hand strokes on a pad at a tempo where every note is completely even',
+      'Focus on matching volume and tone between hands - most single-stroke problems come from a dominant hand overpowering the other',
+      'Keep strokes small and relaxed rather than lifting high and forcing power into every hit',
+      'Practice with a metronome and increase tempo in small increments, only moving up once the current speed feels effortless',
+      'Apply the roll around the toms and across the kit, not just on the snare, to build coordination alongside speed',
+      'Move the same alternating motion to your feet on a double pedal once hand speed is solid',
+      'Record yourself regularly - unevenness that is inaudible while playing is often obvious on playback',
+      'Layer in Moeller-style whip motion once the pure muscular version is clean, to unlock further speed without added tension',
+    ],
+    variations: [
+      { name: 'Open Single Stroke Roll', description: 'Slow, fully controlled alternating strokes used for building foundational evenness' },
+      { name: 'Closed (Speed) Single Stroke Roll', description: 'Tight, high-speed alternating strokes pushed toward maximum sustainable tempo' },
+      { name: 'Single Stroke Four/Seven', description: 'Single-stroke pattern grouped into fours or sevens for accent and phrasing practice' },
+      { name: 'Hand-to-Foot Single Strokes', description: 'Alternating strokes split between a hand and a foot, the building block of blast beat technique' },
+    ],
+    masters: [
+      { name: 'Pete Sandoval', slug: 'pete-sandoval', band: 'Morbid Angel', note: 'Built the pioneering "hyper blast" on relentless single-stroke alternation between hands and feet' },
+      { name: 'George Kollias', slug: 'george-kollias', band: 'Nile', note: 'Sustains single-stroke-based blast patterns past 280 BPM through rudimental evenness and endurance' },
+      { name: 'Mike Mangini', slug: 'mike-mangini', band: 'Dream Theater', note: 'Holds multiple recognized speed records built on refining single-stroke technique through biomechanical analysis' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced weight makes it easier to keep single strokes even between hands' },
+        { name: 'Practice sticks with rubber tips', reason: 'Quiet, low-fatigue repetition for building single-stroke speed' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Firm, consistent rebound ideal for isolating single-stroke evenness' },
+        { name: 'Metronome with subdivisions', reason: 'Essential for tracking incremental speed gains without rushing' },
+      ],
+      tips: 'Single stroke speed is built through relaxation and evenness, not force. If one hand consistently sounds louder or lands later than the other, slow back down before adding more tempo.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['blast-beat', 'gravity-blast', 'one-handed-roll'],
+    seoKeywords: ['single stroke roll', 'single stroke roll rudiment', 'how to play single strokes', 'RLRL drumming', 'basic drum rudiment'],
+  },
+
+  'paradiddle': {
+    slug: 'paradiddle',
+    title: 'Paradiddle',
+    emoji: '🔀',
+    metaTitle: 'Paradiddle - The RLRR LRLL Sticking Rudiment | MetalForge',
+    metaDescription: 'Learn the paradiddle drumming rudiment (RLRR LRLL). History, practice steps, variations, and how metal drummers use it for fills and independence.',
+    category: 'foundational',
+    difficulty: 'beginner',
+    bpmRange: 'Any',
+    description: `The paradiddle is a four-note sticking pattern - right, left, right, right, then left, right, left, left (RLRR LRLL) - that combines two single strokes with a double stroke on each hand. Because the pattern's accent naturally shifts to a different hand each time it repeats, it is one of the most musically useful rudiments in all of drumming: it moves fluidly around the kit, sets up natural accents, and bridges the gap between pure single-stroke and pure double-stroke vocabulary. In metal, paradiddles are the connective tissue behind countless fills, hand-to-hand tom patterns, and the linear grooves where hands and feet trade a continuous stream of notes without doubling up - the pattern's built-in accent shift is exactly what makes those linear lines sound musical instead of mechanical.`,
+    history: `The paradiddle is one of the oldest documented rudiments, appearing in 19th-century military drumming manuals and carried forward into the modern 40 International Drum Rudiments recognized by the Percussive Arts Society, where it sits alongside its many derivatives - the paradiddle-diddle, flam paradiddle, and inverted or "reverse" paradiddles. Drum corps and rudimental drumming programs made the paradiddle a cornerstone of stick-control training through the 20th century, valued for teaching both hands to lead comfortably and for its natural application around a full drum set rather than just a single practice pad surface. In metal, Mike Mangini (Dream Theater) uses paradiddle-based sticking as a building block for the intricate fills and odd-time patterns that define his progressive-metal vocabulary, applying the rudiment's shifting accents to phrases that would otherwise be difficult to sticking cleanly. Matt Garstka (Animals as Leaders) builds rudiment-derived linear patterns extensively into his jazz-influenced progressive metal playing, frequently splitting paradiddle-family stickings between hands and feet so no limb repeats a note in succession. Gavin Harrison (Porcupine Tree, King Crimson) applies the same rudimental sticking logic, including paradiddle-based groupings, to the displaced and polymetric grooves that define his playing.`,
+    howToLearn: [
+      'Say the sticking out loud first - "right left right right, left right left left" - before picking up the sticks',
+      'Practice slowly on a pad, keeping the two single strokes and the double stroke at even volume',
+      'Focus on the "diddle" (the double stroke) - it should sound like two clean, equal notes, not one loud hit and one weak bounce',
+      'Loop the pattern continuously so the accent naturally rotates between right-lead and left-lead every four notes',
+      'Move the pattern around the kit - snare to tom to floor tom - to hear how the sticking creates natural melodic movement',
+      'Practice single, double, and triple paradiddles together to build a complete rudimental vocabulary',
+      'Apply paradiddles to hand-foot linear patterns, assigning some notes to the feet so no limb plays two notes in a row',
+      'Increase tempo gradually with a metronome once the sticking and accents are completely even at a slow speed',
+    ],
+    variations: [
+      { name: 'Single Paradiddle', description: 'The base RLRR LRLL pattern combining two singles and one double per hand' },
+      { name: 'Double Paradiddle', description: 'A six-note extension (RLRLRR LRLRLL) used for longer accent groupings' },
+      { name: 'Paradiddle-Diddle', description: 'A six-note pattern (RLRRLL) stacking two doubles after the initial singles' },
+      { name: 'Linear Paradiddle', description: 'Paradiddle sticking split between hands and feet so no limb repeats consecutively' },
+    ],
+    masters: [
+      { name: 'Mike Mangini', slug: 'mike-mangini', band: 'Dream Theater', note: 'Uses paradiddle-based sticking as a building block for intricate fills and odd-time patterns' },
+      { name: 'Matt Garstka', slug: 'matt-garstka', band: 'Animals as Leaders', note: 'Builds rudiment-derived linear patterns from paradiddle-family stickings split across hands and feet' },
+      { name: 'Gavin Harrison', slug: 'gavin-harrison', band: 'Porcupine Tree / King Crimson', note: 'Applies paradiddle-based accent groupings to displaced and polymetric grooves' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced weight helps keep the paradiddle\'s single and double strokes even' },
+        { name: 'Practice sticks with rubber tips', reason: 'Quiet repetition for isolating the "diddle" bounce without excess noise' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Consistent rebound for feeling the double-stroke portion of the pattern clearly' },
+        { name: 'Metronome with subdivisions', reason: 'Keeps the rotating accent locked to the beat as tempo increases' },
+      ],
+      tips: 'A paradiddle only sounds musical when the double stroke matches the volume of the two single strokes around it. If the "diddle" sticks out or disappears, slow down until all four notes are even.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['rudiments', 'hand-foot-independence'],
+    seoKeywords: ['paradiddle', 'paradiddle rudiment', 'how to play a paradiddle', 'RLRR LRLL sticking', 'paradiddle tutorial'],
+  },
+
+  'double-stroke-roll': {
+    slug: 'double-stroke-roll',
+    title: 'Double Stroke Roll',
+    emoji: '👥',
+    metaTitle: 'Double Stroke Roll - The RRLL "Long Roll" Rudiment | MetalForge',
+    metaDescription: 'Learn the double stroke roll (RRLL long roll) drumming rudiment. History, practice steps, and how it builds into the buzz roll and faster metal technique.',
+    category: 'foundational',
+    difficulty: 'beginner',
+    bpmRange: 'Any',
+    description: `The double stroke roll - also called the "long roll" - alternates two controlled strokes per hand (RRLL RRLL...), with the second stroke of each pair generated from a bounce or rebound rather than a fresh muscular hit. It sits directly between the single stroke roll and the buzz roll in rudimental vocabulary: more controlled and articulate than a buzz roll's multiple uncounted bounces, but denser and faster than pure single strokes allow at a given arm speed. Because each hand only needs to initiate one motion per two notes, the double stroke roll is a foundational speed-building tool - drummers who master the bounced second stroke can sustain far higher note density with far less physical effort than those relying on individually struck notes.`,
+    history: `The double stroke roll is one of the two rudiments (alongside the single stroke roll) considered the essential root of the entire rudimental system, and it anchors the Percussive Arts Society's 40 International Drum Rudiments as the foundation for the closed roll, the buzz roll, and nearly every extended roll pattern built from it. Military and drum corps drumming refined the controlled bounce technique for sustained volume and endurance over long passages, a discipline that carried directly into concert and marching percussion training throughout the 20th century. The buzz roll itself is often described as the double stroke roll's multiple-bounce cousin - where a double stroke uses one controlled rebound per stroke, a buzz roll presses for several uncounted bounces - which is exactly why rudimental players study the double stroke first, using it to develop the rebound control the buzz roll later builds on. Mike Mangini (Dream Theater) brings his drum-corps-rooted rebound control, developed through double-stroke and related roll rudiments, directly into the fast, dense sticking of his progressive-metal fills. Gavin Harrison (Porcupine Tree, King Crimson) applies the same rudimental roll discipline underlying the double stroke roll to the dynamic control and ghost-note-dense phrasing that define his playing.`,
+    howToLearn: [
+      'Start with a single hand - play one stroke, then let the stick rebound naturally into a second, quieter stroke of matching volume',
+      'Practice the "down-up" motion slowly - a full stroke followed by a controlled bounce, not two separately muscled hits',
+      'Alternate hands (RRLL) only once each hand can produce two even-volume strokes per motion on its own',
+      'Use a practice pad first, since a livelier surface makes the second bounced stroke easier to feel and control',
+      'Focus on matching the volume of the bounced second note to the initial stroke - a quiet second note is the most common flaw',
+      'Practice the roll at a range of tempos, since the bounce technique changes slightly as speed increases',
+      'Build toward the buzz roll once double strokes are clean, by pressing for extra uncounted bounces per stroke',
+      'Apply double-stroke phrasing to fills and fast passages to build speed with less physical effort than single strokes alone',
+    ],
+    variations: [
+      { name: 'Open Double Stroke Roll', description: 'Slow, fully articulated RRLL strokes with clear separation between each note' },
+      { name: 'Closed (Long) Roll', description: 'Fast, tightly bounced double strokes blending into a sustained roll sound' },
+      { name: 'Five/Six/Seven Stroke Roll', description: 'Double-stroke-based roll rudiments capped with a single accented stroke' },
+      { name: 'Double Stroke to Buzz Roll', description: 'Progressively adding bounce pressure to turn controlled doubles into a multiple-bounce buzz roll' },
+    ],
+    masters: [
+      { name: 'Mike Mangini', slug: 'mike-mangini', band: 'Dream Theater', note: 'Drum-corps-rooted rebound control from double-stroke and roll rudiments drives his fast, dense sticking' },
+      { name: 'Gavin Harrison', slug: 'gavin-harrison', band: 'Porcupine Tree / King Crimson', note: 'Applies rudimental roll discipline underlying the double stroke roll to dynamic, ghost-note-dense phrasing' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced weight and rebound make the bounced second stroke easier to control' },
+        { name: 'Practice sticks with rubber tips', reason: 'Quiet, controlled practice for isolating the double-stroke bounce' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Lively, consistent rebound ideal for developing double-stroke control' },
+      ],
+      tips: 'The second note of a double stroke should come from a controlled bounce, not a second muscled hit. If your rolls sound like four separate single strokes instead of two pairs, you are still muscling both notes in each pair.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['buzz-roll', 'rudiments'],
+    seoKeywords: ['double stroke roll', 'long roll drumming', 'double stroke rudiment', 'how to play a double stroke roll', 'RRLL sticking'],
+  },
 };
 
 /**

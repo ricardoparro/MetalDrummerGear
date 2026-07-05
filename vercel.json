@@ -79,6 +79,15 @@
       ]
     },
     {
+      "source": "/drummer/:slug",
+      "headers": [
+        {
+          "key": "Vary",
+          "value": "User-Agent"
+        }
+      ]
+    },
+    {
       "source": "/api/image(.*)",
       "headers": [
         {
@@ -254,7 +263,7 @@
       ]
     },
     {
-      "source": "/(.*)",
+      "source": "/((?!api/).*)",
       "headers": [
         {
           "key": "Cache-Control",

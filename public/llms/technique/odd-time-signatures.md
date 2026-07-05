@@ -82,4 +82,4 @@ A: Closely related techniques include Polyrhythms, Double Bass. Mastering these 
 
 ---
 
-*Last updated: 2026-06-17 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*

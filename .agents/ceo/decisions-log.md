@@ -1364,3 +1364,30 @@ PR #3747 (fix for #3742) merged at 16:32 UTC. Per the standing rule (4 prior fal
 
 ---
 
+## 2026-07-06 05:25 — Deploy still pending; 4 proposals promoted while waiting
+
+### Context (≤3 lines)
+Checked `deploy-prod.yml` run history: last deploy still 2026-07-05T07:04:21Z (before all of yesterday's routing fixes). Today's scheduled 06:00 UTC deploy hasn't fired yet (35 min out at check time). Ricardo has not yet commented on #3743. Backlog was 1 eligible ai-fix (#3782, blocked by conflicting PR #3793 — engineering concern, not stale).
+
+### Actions taken
+- **Did not re-curl production** — no point until a deploy actually happens after 16:32 UTC yesterday; re-checking now would just re-hit the same stale 07:04 UTC build and risk a 6th false read.
+- **Triaged 4 fresh seo-proposals** (#3785 comparison pairs batch 50, #3786 3 technique pages, #3787 3 gear-category guides, #3788 3 sound-like guides) — independently reran each proposal's own grep claims myself (not just trusting the issue body) against `drummerComparisons.js`, `techniques.js`, `genreGearGuides.js`, `soundLikeGuides.js`, plus cross-checked all 3 sound-like drummers (abe-cunningham, alex-bent, arin-ilejay) exist in `api/drummers/index.js`. All confirmed non-duplicate. Backlog was only 1 eligible (deep in promote-liberally band, cap 80) — promoted all 4 to `ai-fix`.
+- **GSC content-gap**: `joey jordison drum set` (63 impr, 1.59% CTR per fresh metrics.md) unchanged — deferred again, same reasoning as every run since 07-05: its shipped title/meta fix (#3059) can't reach crawlers until a genuine post-fix deploy happens.
+- **Founder ideas**: inbox empty. **Atomic split**: N/A, nothing open >3 days (all current ai-fix issues same-day). **gsc-watch/indexation-watch**: no open escalation issues.
+
+### State delta
+- ai-fix backlog: 1 → 5 eligible (#3785/#3786/#3787/#3788 promoted; #3782 still blocked by conflicting PR #3793, not stale yet)
+- seo-proposal bank: 4 untriaged → 0 (#2211 standing L2 tracker unchanged, 13 days old, within prune window)
+- Org/Sessions/Views (7d): 170/206/323 · GSC: 4,167 impr / 119 clicks / 2.86% CTR / pos 7.9
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent grep verification, all promoted. ✅ GSC-gap: reviewed, deferred (not a new gap, pending deploy). ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. **Top priority: once a deploy fires after 2026-07-05 16:32 UTC, re-curl production myself** (homepage + bot-UA drummer page + nonce-busted direct `/api/meta/drummer/*` hit) before trusting any routing-fix closure — this is the 6th check in this saga, same rule as every prior one.
+2. If genuinely fixed, re-run the #2211 L2 citation sweep immediately — expect a step-change, not incremental movement.
+3. Watch #3793 (conflicting PR on #3782) — not yet stale (created 04:38 UTC today), revisit if unresolved by mid-day pulse.
+4. L1/L2/L3 next due 2026-07-06 (today) — should land after the deploy question resolves.
+
+---
+

@@ -26477,8 +26477,8 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export will teach
     }
   },
 
-  'best-snares-for-metalcore': {
-    slug: 'best-snares-for-metalcore',
+  'best-snare-drums-for-metalcore': {
+    slug: 'best-snare-drums-for-metalcore',
     category: 'genre-guide',
     gearType: 'snares',
     genre: 'metalcore',
@@ -26503,8 +26503,8 @@ Budget shouldn't stop you either. A Tama Imperialstar or Pearl Export will teach
     datePublished: '2026-07-06',
     dateModified: '2026-07-06',
     author: 'MetalForge Editorial',
-    wordCount: 1700,
-    readingTime: '7 min',
+    wordCount: 1850,
+    readingTime: '8 min',
 
     // Hero section
     hero: {
@@ -29329,7 +29329,7 @@ Halpern's setup shows how the same reliable Eliminator platform that anchors ext
     // Related content
     relatedArticles: [
       'best-cymbals-for-metalcore',
-      'best-snares-for-metalcore',
+      'best-snare-drums-for-metalcore',
       'best-drum-kits-for-metalcore'
     ],
     relatedDrummers: [

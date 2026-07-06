@@ -13108,7 +13108,7 @@ This guide breaks down the technique, gear, and practice approach behind Otto's 
     genre: 'Thrash Metal / Melodic Death Metal',
     priority: 50,
     title: "How to Sound Like Dirk Verbeuren: Complete Gear & Technique Guide",
-    description: "Master Dirk Verbeuren's versatile blast-and-groove hybrid style. Learn the Megadeth drummer's melodic death metal precision, thrash power, Tama Starclassic kit, and Zildjian A/K Custom cymbal setup behind Dystopia and The Sick, the Dying... and the Dead!",
+    description: "Master Dirk Verbeuren's versatile blast-and-groove hybrid style. Learn the Megadeth drummer's melodic death metal precision, thrash power, Tama Starclassic kit, and Zildjian A/K Custom cymbal setup behind The Sick, the Dying... and the Dead!",
     seoKeywords: ['dirk verbeuren drumming', 'how to sound like dirk verbeuren', 'megadeth drums', 'dirk verbeuren gear', 'dirk verbeuren technique', 'dirk verbeuren drum kit', 'soilwork drummer'],
     ogImage: '/images/guides/dirk-verbeuren-guide.webp',
     datePublished: '2026-07-01',
@@ -13118,13 +13118,13 @@ This guide breaks down the technique, gear, and practice approach behind Otto's 
     readingTime: '9 min',
     intro: {
       title: "From Melodic Death Metal to Thrash Royalty",
-      content: `Dirk Verbeuren has been Megadeth's drummer since 2016, stepping into one of thrash metal's most demanding chairs after nearly two decades anchoring Swedish melodic death metal band Soilwork. His Megadeth debut, "Dystopia" (2016), won the Grammy for Best Metal Performance — the band's first competitive Grammy win in a nearly-40-year career — and he followed it with 2022's "The Sick, the Dying... and the Dead!"
+      content: `Dirk Verbeuren has been Megadeth's drummer since 2016, stepping into one of thrash metal's most demanding chairs after nearly two decades anchoring Swedish melodic death metal band Soilwork. He joined as touring drummer shortly after Chris Adler (Lamb of God) recorded "Dystopia" (2016) — the album that won the band's first competitive Grammy win in a nearly-40-year career, Best Metal Performance — and Verbeuren delivered his own Megadeth studio debut with 2022's "The Sick, the Dying... and the Dead!"
 
 What makes Verbeuren's transition remarkable is how directly his melodic death metal background translates to thrash. Soilwork demanded technical precision, complex arrangements, and blast-beat stamina; Megadeth demands driving thrash grooves and tight, riff-locked aggression. Verbeuren brings both — a versatile hybrid player equally comfortable blasting at extreme tempo or locking into Dave Mustaine's mid-tempo gallops, succeeding a drum chair that already includes Nick Menza's classic power and Chris Adler's brief tenure.
 
 This guide breaks down the technique, gear, and practice approach behind Verbeuren's sound — from his Tama Starclassic kit and Zildjian A/K Custom cymbals to the blast-and-groove hybrid mechanics that define his modern Megadeth sound.`,
       keyPoints: [
-        "Megadeth drummer since 2016 — \"Dystopia\" (2016) won the band's first Grammy, Best Metal Performance",
+        "Megadeth drummer since 2016 — joined as touring drummer after Chris Adler recorded \"Dystopia\" (2016), the album that won the band's first Grammy, Best Metal Performance",
         "18 years with Swedish melodic death metal band Soilwork (1998-2016) before joining Megadeth",
         "Versatile blast-beat/groove hybrid style bridging technical death metal and thrash",
         "Tama Starclassic kit and Zildjian A/K Custom cymbals define his current tone"
@@ -13166,7 +13166,7 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
         }
       ],
       keySongs: [
-        { song: "The Threat Is Real", album: "Dystopia (Megadeth)", year: 2016, why: "Grammy-winning performance blending thrash aggression with technical precision" },
+        { song: "Rejection Role", album: "Natural Born Chaos (Soilwork)", year: 2002, why: "Soilwork breakthrough track showing the complex, technical blast work he later brought to Megadeth" },
         { song: "Fake News", album: "The Sick, the Dying... and the Dead! (Megadeth)", year: 2022, why: "Modern thrash gallop groove locked tightly with the riff" },
         { song: "Killing Is My Business... and Business Is Good... The Final Kill", album: "Killing Is My Business... (Remaster, Megadeth)", year: 2018, why: "Verbeuren's re-recorded parts on the classic-era remaster" },
         { song: "Stabbing the Drama", album: "Stabbing the Drama (Soilwork)", year: 2005, why: "Technical melodic death metal blast work from his Soilwork era" }
@@ -13343,7 +13343,7 @@ This guide breaks down the technique, gear, and practice approach behind Verbeur
     licksUrl: '/drummers/dirk-verbeuren/licks',
     relatedArticles: [
       { slug: 'whats-in-dirk-verbeurens-kit', label: "What's In Dirk Verbeuren's Megadeth Arsenal: Complete Gear Breakdown" },
-      { slug: 'dystopia-drum-setup', label: "Dirk Verbeuren's Kit on 'Dystopia' (Megadeth, 2016)" }
+      { slug: 'the-sick-the-dying-and-the-dead-drum-setup', label: "Dirk Verbeuren's Drum Setup on Megadeth's 'The Sick, the Dying... and the Dead!' (2022)" }
     ]
   },
   'how-to-sound-like-art-cruz': {

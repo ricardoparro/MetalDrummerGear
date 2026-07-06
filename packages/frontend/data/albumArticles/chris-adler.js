@@ -3649,6 +3649,241 @@ export const articles = {
       ]
     },
     "llmContent": "# Lamb of God 'VII: Sturm und Drang' Drum Setup — Chris Adler's Grammy-Nominated Farewell Studio Album\n\n> Complete breakdown of Chris Adler's drum setup on Lamb of God's VII: Sturm und Drang (2015) — Mapex Black Panther Velvetone kit, Meinl Byzance cymbals, the Grammy-nominated '512', and his final studio album with the band before departing in 2019.\n\n**Type:** Album Drum Setup\n**Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)\n**Band / Album:** Lamb of God — *VII: Sturm und Drang* (2015)\n**Genre:** Groove Metal / New Wave of American Heavy Metal\n\n## Overview\n\nReleased July 24, 2015 through Epic Records (Nuclear Blast internationally), \"VII: Sturm und Drang\" was Lamb of God's first album written after frontman Randy Blythe's acquittal on manslaughter charges in the Czech Republic (March 2013). The German title — \"storm and drive/stress\" — reflects that period's psychological weight; \"512\" is named for Blythe's cell number at Pankrác Prison. The album debuted at #3 on the Billboard 200 (roughly 47,000 first-week copies) and topped the Canadian, UK Rock & Metal, and US Top Hard Rock Albums charts.\n\nThis is Chris Adler's final studio album of original material with Lamb of God before his 2019 departure. He recorded it on the same Mapex Black Panther Velvetone kit and Meinl Byzance cymbal setup established on Resolution (2012), with producer Josh Wilbur returning for a second consecutive album, sessions split between NRG Recording Studios (North Hollywood) and Suburban Soul Studios (Torrance). \"512\" earned a Grammy nomination for Best Metal Performance at the 58th Grammy Awards (2016), losing to Ghost's \"Cirice\" — Adler's third Grammy-nominated Lamb of God album.\n\nGear stayed almost entirely consistent with Resolution; what changed was the performance. Adler's playing on VII carries a looser, more groove-oriented feel than Resolution's polyrhythmic density, fitting the album's more atmospheric, direct songwriting.\n\n## Gear Breakdown\n\n- **Drums:** Mapex Black Panther Velvetone Series (maple/walnut hybrid, dual 22×18\" kick, 10\"/12\" rack toms, 14\"/16\" floor toms)\n- **Snare:** Mapex Chris Adler Signature Warbird, 12\" x 5.5\" (maple/walnut hybrid, SONIClear bearing edge)\n- **Cymbals:** Meinl Byzance series (13\" Traditional hi-hats, 18\"/19\"/20\" crashes, 21\" Dark Ride, 18\" and 20\" Brilliant Chinas, 10\" Traditional Splash)\n- **Pedals:** Mapex Falcon (direct-drive, dual single setup)\n- **Hardware:** Mapex Falcon Hi-Hat Stand; Roc-N-Soc Nitro Throne; Mapex IQ Rack\n- **Sticks:** Promark Chris Adler Signature TX5AXW (American hickory)\n- **Heads:** Remo Powerstroke P3 Clear (kick batter), Remo Emperor Clear (tom batter), Remo Controlled Sound Coated (snare batter)\n\n### The Mapex Black Panther Velvetone: Unchanged from Resolution\n\nThe maple/walnut hybrid Velvetone kit carried over directly from Resolution — same dual 22\"x18\" bass drums, same tom geometry, same SONIClear bearing edges. By 2015 this was simply Adler's kit, road-tested across three years of touring and a second Josh Wilbur production.\n\n### The Warbird Snare: A Shell Update\n\nAdler's signature 12\"x5.5\" Warbird moved to a maple/walnut hybrid shell matching the Velvetone kit, adding low-mid body to the crack while keeping the same fast, ghost-note-friendly dimensions that have defined the snare since Sacrament.\n\n### Meinl Byzance: The Established China Language\n\nThe Byzance cymbal lineup — including the signature 18\" Brilliant China heard on \"Overlord\" and \"512\" — carried over unchanged from Resolution, now with three more years of touring precision behind every accent.\n\n## Key Facts\n\n- Billboard 200 debut at #3 — ~47,000 first-week copies, one of 2015's best-selling metal albums\n- First Lamb of God album after Randy Blythe's Czech manslaughter acquittal (March 2013)\n- Grammy nomination for Best Metal Performance (\"512\", 58th Grammy Awards, 2016)\n- Chris Adler's final studio album with Lamb of God before his 2019 departure\n- Recorded at NRG Recording Studios and Suburban Soul Studios with producer Josh Wilbur\n- Gear essentially unchanged from Resolution (2012) — Mapex Black Panther Velvetone / Meinl Byzance\n- Performance shifted toward a looser, more groove-oriented feel than Resolution's polyrhythmic density\n- Closes the Wrath (2009) → Resolution (2012) → VII (2015) arc of Adler's peak commercial era\n- Estimated kit value: $4,000-6,000 (2015 Black Panther Velvetone configuration)\n- Estimated snare value: $400-550 (2015 Mapex Warbird Signature, maple/walnut hybrid)\n\n## Internal Links\n\n- [Chris Adler drummer profile](/drummer/chris-adler)\n- [Wrath drum setup (2009)](/articles/wrath-drum-setup)\n- [Resolution drum setup (2012)](/articles/resolution-drum-setup)\n- [Chris Adler vs. Joey Jordison](/compare/chris-adler-vs-joey-jordison)\n\n**Source:** https://metalforge.io/articles/vii-sturm-und-drang-drum-setup\n\n**More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)\n\n*Last updated: 2026-07-01 · Source: [MetalForge.io](https://metalforge.io)*"
+  },
+  "dystopia-drum-setup": {
+    "slug": "dystopia-drum-setup",
+    "albumTitle": "Dystopia",
+    "artist": "Megadeth",
+    "drummer": "Chris Adler",
+    "drummerId": 17,
+    "relatedDrummerSlug": "chris-adler",
+    "year": 2016,
+    "genre": "Thrash Metal",
+    "label": "Universal Music Enterprises",
+    "studio": "Vic's Garage (Dave Mustaine's private studio), San Marcos, California",
+    "producer": "Dave Mustaine & Dann Huff",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-06",
+    "dateModified": "2026-07-06",
+    "author": "MetalForge Editorial",
+    "title": "Chris Adler's Session Drum Kit on Megadeth's 'Dystopia' (2016)",
+    "description": "Chris Adler's Grammy-winning session recording with Megadeth. Full breakdown of the gear the Lamb of God drummer brought to Vic's Garage to record 'Dystopia' — Best Metal Performance, 59th Grammy Awards.",
+    "seoKeywords": [
+      "chris adler megadeth drum setup",
+      "dystopia megadeth drummer",
+      "chris adler dystopia session",
+      "chris adler gear",
+      "dystopia drum recording",
+      "megadeth grammy 2016",
+      "who played drums on dystopia"
+    ],
+    "ogImage": "/images/albums/dystopia-drums.webp",
+    "intro": {
+      "title": "Grammy Award for Best Metal Performance: A Session for the Ages",
+      "content": "In 2015, with Lamb of God between album cycles, Dave Mustaine brought in Chris Adler as a session drummer to record Megadeth's fifteenth studio album, \"Dystopia.\" It was an unusual pairing on paper — a groove metal drummer known for the pocket-heavy pivot technique stepping into one of thrash metal's most demanding drum chairs — but the result became the most commercially and critically successful Megadeth release in nearly two decades, earning the Grammy Award for Best Metal Performance at the 59th Grammy Awards (2017).\n\nAdler recorded all of the album's drum parts; he was never a touring member of Megadeth. Once the record was finished, his ongoing commitments to Lamb of God made it impossible for him to join Megadeth's touring cycle, so Mustaine brought in Dirk Verbeuren (formerly of Soilwork) to handle the live shows. Verbeuren proved himself over several years on the road and was eventually confirmed as Megadeth's permanent drummer — but the drums heard on \"Dystopia\" itself are Adler's.\n\nProduced by Dave Mustaine alongside Dann Huff, \"Dystopia\" has a modern but muscular production. The drums sit wide and punchy in the mix — immediate and aggressive without sacrificing the album's dynamic range. This article breaks down the gear Chris Adler used to deliver his Grammy-winning session performance.",
+      "keyPoints": [
+        "Chris Adler's only studio recording with Megadeth — a session credit, not a touring role",
+        "Won Grammy Award for Best Metal Performance (59th Grammys, 2017)",
+        "Recorded at Vic's Garage, Dave Mustaine's private studio in San Marcos, CA",
+        "Produced by Dave Mustaine & Dann Huff",
+        "Adler never toured behind the album — Dirk Verbeuren joined afterward as touring, then full-time, drummer",
+        "Mapex Black Panther Velvetone kit and Meinl Byzance cymbals — Adler's standard session rig of the era"
+      ]
+    },
+    "drumKit": {
+      "title": "Mapex Black Panther Velvetone: Adler's Session Rig",
+      "brand": "Mapex",
+      "model": "Mapex Black Panther Velvetone Series",
+      "finish": "Custom finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum",
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Maple/Walnut hybrid shells with SONIClear bearing edges"
+      },
+      "description": "For the \"Dystopia\" sessions, Chris Adler brought the same Mapex Black Panther Velvetone kit he'd been using with Lamb of God since Resolution (2012) — the maple/walnut hybrid platform that had already carried him through VII: Sturm und Drang earlier that same year. Rather than assembling a Megadeth-specific setup, Mustaine and Huff worked with the touring rig Adler knew best, which let the session move quickly.\n\nThe dual 22\" x 18\" bass drum configuration gave the same independent tonal control between feet that defined Adler's Lamb of God sound, translated here to Megadeth's faster, more rigid thrash tempos rather than his usual groove-first phrasing. The maple/walnut shell formula delivered a warm fundamental with enough attack to cut through Mustaine and Kiko Loureiro's dense guitar arrangements.\n\nThe familiar tom geometry — 10\" and 12\" rack toms, 14\" and 16\" floor toms — gave Adler the same fill vocabulary he'd used for a decade of Lamb of God records, adapted here to Megadeth's more rigid thrash song structures rather than his usual groove-driven phrasing.",
+      "notes": [
+        "Mapex Black Panther Velvetone — the same kit Adler used on Lamb of God's VII: Sturm und Drang (2015)",
+        "Dual 22\" bass drums for independent tonal control",
+        "Maple/walnut hybrid shells for warm fundamental and clear attack",
+        "Session rig carried over directly from his Lamb of God touring setup"
+      ],
+      "estimatedValue": "$4,000-6,000 (2015-era Black Panther Velvetone configuration)"
+    },
+    "snare": {
+      "title": "The Warbird on a Thrash Session",
+      "brand": "Mapex",
+      "model": "Mapex Chris Adler Signature Black Panther Warbird",
+      "size": "12\" x 5.5\"",
+      "shell": "Maple/Walnut hybrid",
+      "description": "Adler tracked \"Dystopia\" with his own signature Warbird snare — the compact 12\" x 5.5\" maple/walnut hybrid he'd been refining since Sacrament (2006). Its smaller diameter delivers near-instant response, well suited to thrash metal's demand for fast, articulate backbeat work even on material well outside Adler's usual groove metal wheelhouse.\n\nDann Huff's production captured the snare with close miking, giving it a bright, cutting crack that sits high in Dystopia's mix — a slightly different sonic treatment than the room-conscious mixes Josh Wilbur gave the drum on Lamb of God records, but the underlying drum and tuning philosophy were unchanged.",
+      "tuningSetting": "Medium-high tension for cut and articulation",
+      "heads": "Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$400-550"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance: A Familiar Voice on an Unfamiliar Record",
+      "brand": "Meinl",
+      "series": "Meinl Byzance",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl 13\" Byzance Traditional Hi-Hats",
+          "position": "Left side",
+          "notes": "Compact hats for fast pattern work"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Byzance Traditional Medium Thin Crash",
+          "position": "Far left",
+          "notes": "Quick, explosive accent crash"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 19\" Byzance Brilliant Medium Thin Crash",
+          "position": "Left of rack toms",
+          "notes": "Primary crash for riff transitions"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl 21\" Byzance Dark Ride",
+          "position": "Far right",
+          "notes": "Dark, complex wash with clear bell for verse riding"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" Byzance Brilliant China",
+          "position": "Above left floor tom",
+          "notes": "Adler's signature China accent, carried over from Lamb of God"
+        }
+      ],
+      "description": "Rather than adopting a new cymbal identity for a Megadeth session, Adler brought his own Meinl Byzance setup — dark, hand-hammered cymbals that had defined his Lamb of God sound since 2004. The tonal character is darker and more complex than the bright Zildjian and Sabian setups typically associated with thrash metal, giving \"Dystopia\" a slightly different cymbal wash than a lifelong Megadeth drummer might have chosen.\n\nThe 18\" Byzance Brilliant China — Adler's signature accent cymbal on Lamb of God tracks like \"Laid to Rest\" and \"Overlord\" — appears throughout \"Dystopia\" as well, most audibly on the title track, giving an attentive listener one of the clearest sonic fingerprints tying the record back to its actual drummer.",
+      "estimatedValue": "$1,800-2,400 total"
+    },
+    "hardware": {
+      "title": "Mapex Falcon Foundation",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Mapex",
+          "model": "Mapex Falcon Double Pedal (used as two independent singles)",
+          "notes": "Direct-drive mechanism carried over from Lamb of God touring rig"
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Mapex",
+          "model": "Mapex Falcon Hi-Hat Stand",
+          "notes": "Smooth, adjustable action"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Adler's standard throne throughout his career"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Promark",
+          "model": "Promark Chris Adler Signature TX5AXW",
+          "notes": "5A profile in American hickory"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke P3 Clear (batter), Remo Ambassador Ebony (resonant with port)",
+        "toms": "Remo Emperor Clear (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Controlled Sound Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "A Groove Metal Drummer in a Thrash Producer's Chair",
+      "content": "Recording \"Dystopia\" at Vic's Garage — Dave Mustaine's private studio in San Marcos, California — gave Chris Adler an intimate, controlled environment for a session outside his usual band context. Producer Dann Huff, best known for his work with country and pop-rock artists (Keith Urban, Taylor Swift, Rascal Flatts), brought a clean, powerful production sensibility that paired with Mustaine's thrash instincts.\n\n**Adler's Approach:**\nComing from Lamb of God's groove metal tradition, Adler studied Megadeth's existing catalogue to internalize the rhythmic vocabulary Mustaine's material demands: absolute precision on the double bass and locked-in pocket playing that serves complex guitar arrangements, rather than the syncopated groove-first phrasing that defines his own band's sound.\n\n**Mix Philosophy:**\nHuff's mix placed the drums front and center in Dystopia's soundscape. The kick hits hard and low, the snare cracks with authority, and the cymbals shimmer without washing out the guitars — a session drummer's performance captured with the same clarity Huff would give any of the album's other instruments.",
+      "keyTechniques": [
+        "Session recorded using Adler's own Mapex Black Panther Velvetone / Meinl Byzance rig, not Megadeth-specific gear",
+        "Dann Huff's clean, modern production applied to thrash arrangements",
+        "Adler adapted his groove metal vocabulary to Megadeth's thrash song structures",
+        "Recorded as a standalone session — Adler was never a touring or permanent Megadeth member"
+      ]
+    },
+    "faq": [
+      {
+        "question": "Who played drums on Megadeth's Dystopia?",
+        "answer": "Chris Adler, drummer for Lamb of God, recorded all the drum parts on Megadeth's \"Dystopia\" (2016) as a session musician. He was never a touring or permanent member of Megadeth — once the album was finished, his ongoing commitment to Lamb of God made it impossible for him to tour behind it, so Dave Mustaine brought in Dirk Verbeuren to handle live shows. Verbeuren went on to become Megadeth's full-time drummer, but the recorded performance on \"Dystopia\" belongs to Adler."
+      },
+      {
+        "question": "Did Dirk Verbeuren play on Dystopia?",
+        "answer": "No. Dirk Verbeuren joined Megadeth as touring drummer in 2016, after \"Dystopia\" had already been recorded by Chris Adler. Verbeuren's actual studio debut with Megadeth is \"The Sick, the Dying... and the Dead!\" (2022). He did perform the \"Dystopia\" material live for years on tour, which is a common source of confusion about who recorded the album."
+      },
+      {
+        "question": "What drums did Chris Adler use on Dystopia?",
+        "answer": "Chris Adler used his own Mapex Black Panther Velvetone kit — the same maple/walnut hybrid setup he used with Lamb of God around the same period, including dual 22\" x 18\" bass drums, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. He paired it with his signature Mapex Warbird snare and his standard Meinl Byzance cymbal setup, rather than adopting Megadeth-specific gear for the session."
+      },
+      {
+        "question": "What won the Grammy for Best Metal Performance in 2016 / 2017?",
+        "answer": "Megadeth's \"Dystopia\" (the title track) won the Grammy Award for Best Metal Performance at the 59th Grammy Awards, held in February 2017 (for recordings released in 2016). It was Megadeth's first Grammy win. Competing nominees included Anthrax, Baroness, Gojira, and Trivium. Chris Adler, who recorded the drum parts as a session musician, shares in that recognition alongside the band."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "vii-sturm-und-drang-drum-setup",
+      "resolution-drum-setup",
+      "whats-in-chris-adlers-kit"
+    ],
+    "relatedDrummers": [
+      17,
+      22,
+      1
+    ],
+    "relatedArticles": [
+      "whats-in-chris-adlers-kit",
+      "thrash-metal-drummers",
+      "big-four-drummers"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "A Session Credit, Correctly Remembered",
+      "content": "\"Dystopia\" stands as one of thrash metal's landmark comeback albums — a Grammy-winning return to commercial and critical relevance that few bands achieve after three decades. The drums behind that comeback belong to Chris Adler, a groove metal drummer stepping outside his own band to deliver a session performance disciplined enough to match Dave Mustaine's demanding arrangements.\n\nAdler's connection to Megadeth begins and ends with this one album — he never toured with the band, and by the time \"Dystopia\" won its Grammy in 2017, Dirk Verbeuren had already spent a year on the road as Megadeth's touring drummer. That handoff is easy to misremember, since Verbeuren went on to play \"Dystopia\" material live for years before eventually recording his own Megadeth album, \"The Sick, the Dying... and the Dead!\" (2022). But the record itself — every drum hit on it — is Chris Adler's.\n\nFor the album Verbeuren actually recorded with Megadeth, see [The Sick, the Dying... and the Dead! Drum Setup article](/articles/the-sick-the-dying-and-the-dead-drum-setup). For Chris Adler's full Lamb of God career and gear evolution, visit the [Chris Adler drummer profile](/drummer/chris-adler)."
+    },
+    "sitemapPriority": 0.7,
+    "schema": {
+      "@context": "https://schema.org",
+      "@type": "MusicAlbum",
+      "name": "Dystopia",
+      "byArtist": {
+        "@type": "MusicGroup",
+        "name": "Megadeth"
+      },
+      "datePublished": "2016-01-22",
+      "genre": "Thrash Metal",
+      "recordLabel": {
+        "@type": "Organization",
+        "name": "Universal Music Enterprises"
+      },
+      "award": "Grammy Award for Best Metal Performance (59th Grammy Awards, 2017)",
+      "track": [
+        {
+          "@type": "MusicRecording",
+          "name": "Dystopia"
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Fatal Illusion"
+        },
+        {
+          "@type": "MusicRecording",
+          "name": "Post American World"
+        }
+      ]
+    },
+    "llmContent": "# Chris Adler's Session Drum Kit on Megadeth's 'Dystopia' (2016)\n\n> Chris Adler's Grammy-winning session recording with Megadeth. Full breakdown of the gear the Lamb of God drummer brought to Vic's Garage to record 'Dystopia' — Best Metal Performance, 59th Grammy Awards.\n\n**Type:** Album Drum Setup\n**Drummer(s):** [Chris Adler](/llms/drummers/chris-adler.md)\n**Band / Album:** Megadeth — *Dystopia* (2016)\n**Genre:** Thrash Metal\n\n## Overview\n\nChris Adler, drummer for Lamb of God, recorded all the drum parts on Megadeth's \"Dystopia\" as a session musician in 2015-2016, at Dave Mustaine's private studio, Vic's Garage, in San Marcos, California, with Mustaine and Dann Huff producing. The album won the Grammy Award for Best Metal Performance at the 59th Grammy Awards (2017) — Megadeth's first Grammy win.\n\nAdler was never a touring or permanent member of Megadeth. His ongoing commitment to Lamb of God made it impossible for him to tour behind the album, so Dave Mustaine brought in Dirk Verbeuren (formerly of Soilwork) to handle live shows. Verbeuren toured with Megadeth for years before recording his own studio debut with the band, \"The Sick, the Dying... and the Dead!\" (2022). The drums on \"Dystopia\" itself, however, are Chris Adler's.\n\nAdler recorded the session on his own Mapex Black Panther Velvetone kit and Meinl Byzance cymbals — the same rig he used with Lamb of God at the time — rather than adopting new gear specifically for Megadeth.\n\n## Gear Breakdown\n\n- **Drums:** Mapex Black Panther Velvetone Series (maple/walnut hybrid, dual 22×18\" kick, 10\"/12\" rack toms, 14\"/16\" floor toms)\n- **Snare:** Mapex Chris Adler Signature Warbird, 12\" x 5.5\" (maple/walnut hybrid)\n- **Cymbals:** Meinl Byzance series (13\" Traditional hi-hats, 18\"/19\" crashes, 21\" Dark Ride, 18\" Brilliant China)\n- **Pedals:** Mapex Falcon (direct-drive, dual single setup)\n- **Sticks:** Promark Chris Adler Signature TX5AXW\n\n## Key Facts\n\n- Chris Adler's only studio recording with Megadeth — a session credit, not a touring or permanent role\n- Won Grammy Award for Best Metal Performance (59th Grammy Awards, 2017)\n- Recorded at Vic's Garage, Dave Mustaine's private studio, San Marcos, CA\n- Produced by Dave Mustaine & Dann Huff\n- Dirk Verbeuren joined afterward as touring drummer, later becoming full-time; his studio debut with the band is \"The Sick, the Dying... and the Dead!\" (2022)\n- Recorded using Adler's own Lamb of God-era Mapex/Meinl gear\n\n## Internal Links\n\n- [Chris Adler drummer profile](/drummer/chris-adler)\n- [The Sick, the Dying... and the Dead! Drum Setup (2022)](/articles/the-sick-the-dying-and-the-dead-drum-setup)\n- [VII: Sturm und Drang Drum Setup (2015)](/articles/vii-sturm-und-drang-drum-setup)\n\n**Source:** https://metalforge.io/articles/dystopia-drum-setup\n\n**More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)\n\n*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*"
   }
 };
 export default articles;

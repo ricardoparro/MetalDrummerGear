@@ -490,7 +490,13 @@ const loadSignatureLicks = () => import('./components/SignatureLicks');
 
 function preloadSignatureLicks() {
   if (!_signatureLicksLoadPromise) {
-    _signatureLicksLoadPromise = loadSignatureLicks().then(m => { _signatureLicksModule = m; return m; });
+    _signatureLicksLoadPromise = Promise.all([
+      loadSignatureLicks(),
+      import('./data/signatureLicks')
+    ]).then(([component, data]) => {
+      _signatureLicksModule = { ...component, ...data };
+      return _signatureLicksModule;
+    });
   }
   return _signatureLicksLoadPromise;
 }
@@ -6815,6 +6821,10 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
   // instead of relying on the stale 3-slug hardcoded fallback array
   const [hasPriceHistory, setHasPriceHistory] = useState(false);
 
+  // Issue #3822: Signature Licks CTA - drummer profile pages had no link to
+  // their own /licks hub, leaving it discoverable only via the sitemap
+  const [drummerLicks, setDrummerLicks] = useState([]);
+
   useEffect(() => {
     let mounted = true;
     preloadExtendedBios().then(() => {
@@ -6833,6 +6843,10 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       if (mounted) {
         setHasPriceHistory(hasPriceHistoryData(drummerSlug));
       }
+    });
+    // Preload signature licks data and check if this drummer has any licks
+    preloadSignatureLicks().then((mod) => {
+      if (mounted) setDrummerLicks(mod.getLicksByDrummerSlug(drummerSlug));
     });
     // Issue #1357: Load album articles and build reverse lookup
     // Issue #3829: no cap here - every matching article must be linkable from
@@ -7031,6 +7045,48 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
               accessibilityLabel={`View ${drummer.name}'s gear price history`}
             >
               <Text style={styles.compareWithAnotherButtonText}>View Price History →</Text>
+            </TouchableOpacity>
+          )}
+        </View>
+      )}
+
+      {/* Signature Licks CTA - Issue #3822 */}
+      {drummerLicks.length > 0 && (
+        <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>🥁 Signature Licks</Text>
+          <Text style={[styles.compareYourKitDescription, { color: theme.secondaryText }]}>
+            Learn {drummer.name}'s signature drum fills and patterns, step by step.
+          </Text>
+          {Platform.OS === 'web' ? (
+            <a
+              href={`/drummers/${drummerSlug}/licks`}
+              onClick={(e) => {
+                e.preventDefault();
+                if (typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/drummers/${drummerSlug}/licks`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              style={{ textDecoration: 'none', marginTop: 12 }}
+              data-testid="signature-licks-link"
+            >
+              <View style={[styles.compareWithAnotherButton, { backgroundColor: theme.primary }]}>
+                <Text style={styles.compareWithAnotherButtonText}>View Signature Licks →</Text>
+              </View>
+            </a>
+          ) : (
+            <TouchableOpacity
+              onPress={() => {
+                if (typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/drummers/${drummerSlug}/licks`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              style={[styles.compareWithAnotherButton, { backgroundColor: theme.primary, marginTop: 12 }]}
+              accessibilityRole="link"
+              accessibilityLabel={`View ${drummer.name}'s signature licks`}
+            >
+              <Text style={styles.compareWithAnotherButtonText}>View Signature Licks →</Text>
             </TouchableOpacity>
           )}
         </View>

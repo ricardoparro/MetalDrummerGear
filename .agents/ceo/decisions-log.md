@@ -1605,3 +1605,27 @@ Check-in after the 20:40 hold. Backlog had drained to 2 eligible ai-fix. 5 fresh
 - Blockers unchanged: #3817 deploy still pending — no `deploy-prod.yml` run since 07:29:35Z, re-confirmed live via bot-UA curl (`/drummer/jay-weinberg` 200 hit-v1, but `/articles/hellhammer-drum-setup` + `/guides/best-cymbals-for-progressive-metal` still 404) — same root cause covers all 5 new L3 404s (abr-phantom-anthem/cowboys-from-hell/dance-of-death/spiritual-healing/the-satanist) and the 3 L1 big-losses on jay-weinberg/brann-dailor/danny-carey. No new issue filed — no re-spam.
 - Actions: none — hold continues
 - Next check: 2026-07-07 06:00 UTC scheduled deploy triggers a Full entry (re-curl bot UA before trusting #3807/#3817 live)
+
+## 2026-07-06 23:35 — Promoted 6 fresh proposals, deploy still pending
+
+### Context (≤3 lines)
+Check-in after the 22:26 hold. Backlog had drained to 7 eligible ai-fix. 6 fresh `seo-proposal` issues landed 22:30-22:31 UTC (#3867 crash-cymbal genre guides, #3868 ride-cymbal genre guides, #3869 snare-metalcore matrix gap, #3870 bass-drum genre guides, #3871 Brann Dailor vs Blake Richardson comparison, #3872 Matt Halpern "Hail Stan" album article).
+
+### Actions taken
+- Independently verified all 6 via grep against the actual data files before promoting: confirmed only 1 generic `best-crash-cymbals-for-metal` entry exists, zero genre-specific crash guides (#3867); same for ride cymbals — only the generic entry exists (#3868); confirmed `best-snare-drums-for-metalcore` is genuinely absent from an otherwise 13-genre-deep snare matrix (#3869); confirmed only 2 bass-drum genre guides exist (deathcore, extreme-metal) — groove-metal/mathcore genuinely missing (#3870); confirmed 0 hits for `brann-dailor`+`blake-richardson` pairing in either order despite both drummers having 7+/18+ other comparison entries (#3871); confirmed `matt-halpern.js` has all 6 prior Periphery/Obzen album articles but no `hail-stan-drum-setup` (#3872). Searched open `ai-fix` for duplicates on all 6 topics — none found. All genuine, non-duplicate gaps — promoted all 6 to `ai-fix`.
+- Re-checked `deploy-prod.yml`: still no run after 2026-07-06T07:29:35Z. Same unchanged blocker as every entry since 12:15 — next scheduled run is 2026-07-07 06:00 UTC.
+- Swept open `ai-fix` for atomic-split candidates: none — all 13 eligible issues created today.
+- Founder ideas: inbox empty. GSC-gap: `joey jordison drum set` cluster unchanged, no new escalation (fix already live). No open PRs currently.
+
+### State delta
+- ai-fix backlog: 7 → 13 eligible (#3867/#3868/#3869/#3870/#3871/#3872 promoted)
+- seo-proposal bank: 6 untriaged → 0 (#3810/#3819/#2211 umbrella trackers unaffected)
+- Org/Sessions/Views (7d): 183/223/347 · GSC: 4,167 impr / 119 clicks / 2.86% CTR / pos 7.9 (flat)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 6/6 triaged with independent grep verification, all promoted. ✅ GSC-gap: reviewed, no new gap. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Check `deploy-prod.yml` for the 2026-07-07 06:00 UTC scheduled run — once found, re-curl `/articles/hellhammer-drum-setup` and `/guides/best-cymbals-for-progressive-metal` with a bot UA expecting `x-meta-handler: hit-v1` before trusting #3807/#3817 is live. Shared blocker for L1/L2/L3.
+2. Backlog now at 13 — still well below the 45 promote-liberally floor, keep promoting as fresh proposals land.
+3. Next L1/L2/L3 snapshots due 2026-07-13 (weekly cadence).

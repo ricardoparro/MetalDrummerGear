@@ -299,222 +299,6 @@ export const articles = {
       "content": "Matt Halpern represents everything modern metal drumming can be: technical but musical, powerful but dynamic, complex but groovy. He didn't just learn to play djent — he helped create its rhythmic vocabulary.\n\n**What Makes Halpern Special:**\n\n- **Musicality:** In a genre that can devolve into mathematical exercises, Halpern keeps everything musical. His grooves serve songs, not egos. His complexity enhances emotion, not obscures it.\n\n- **Education:** Beyond performing, Halpern has become one of drumming's great teachers. His Drumeo content, clinics, and educational approach have influenced countless drummers to think musically rather than just technically.\n\n- **Consistency:** Six albums with Periphery, countless world tours, and Halpern's playing remains inspired and evolving. He hasn't rested on early success; each album finds him pushing further.\n\n- **Innovation:** Halpern didn't copy existing approaches — he synthesized jazz education, progressive rock dynamics, and modern metal aggression into something new. The djent drumming language wouldn't exist as we know it without his contributions.\n\n**For Drummers Studying Halpern:**\n\nStart with feel. Practice simple grooves until they swing effortlessly. Halpern's complexity is built on a foundation of rock-solid pocket.\n\nStudy his ghost notes. What sounds like straightforward patterns often contains layers of subtle left-hand activity. These ghost notes transform mechanical grooves into living, breathing music.\n\nWork on dynamics. Practice your normal patterns at whisper volume, then full blast, then everything between. Halpern's power comes from contrast.\n\nLearn the odd time signatures, but feel them rather than count them. Halpern doesn't think \"1-2-3-4-5-6-7\" — he feels phrases that happen to be in seven.\n\nFinally, remember that Halpern's gear is good but not exotic. His Mapex/Meinl setup could be matched by many professionals. What can't be matched is his musicality, developed over decades of practice and performance. The magic is in the hands, not the drums.\n\nMatt Halpern proved that progressive metal drumming doesn't have to sacrifice groove for complexity. That's his legacy: making djent feel good.\n\n🥁 *\"Groove is king. Everything else serves the groove.\"* — The philosophy that defined a genre. 🤘"
     }
   },
-  "periphery-self-titled-drum-setup": {
-    "slug": "periphery-self-titled-drum-setup",
-    "albumTitle": "Periphery",
-    "artist": "Periphery",
-    "drummer": "Matt Halpern",
-    "drummerId": 18,
-    "relatedDrummerSlug": "matt-halpern",
-    "year": 2010,
-    "genre": "Djent / Progressive Metal",
-    "label": "Sumerian Records",
-    "studio": "Misha Mansoor's home studio",
-    "producer": "Misha Mansoor",
-    "isAlbumArticle": true,
-    "datePublished": "2026-06-26",
-    "dateModified": "2026-06-26",
-    "author": "MetalForge Editorial",
-    "title": "Matt Halpern's Drum Setup on Periphery's Self-Titled Debut (2010)",
-    "description": "Complete breakdown of Matt Halpern's drum setup on Periphery's 2010 self-titled debut — the album that codified djent as a genre. DW Collector's Series kit, Sabian HHX cymbals, and the polyrhythmic vocabulary that defined modern progressive metal.",
-    "seoKeywords": [
-      "periphery self titled drum setup",
-      "matt halpern 2010 drums",
-      "periphery debut drum kit",
-      "matt halpern dw drums",
-      "djent drum setup",
-      "misha mansoor home studio drums",
-      "matt halpern sabian cymbals",
-      "periphery 2010 gear breakdown"
-    ],
-    "ogImage": "/images/albums/periphery-self-titled-drums.webp",
-    "intro": {
-      "title": "The Album That Codified Djent",
-      "content": "Released on April 20, 2010, via Sumerian Records, Periphery's self-titled debut is the document that turned djent from a niche internet phenomenon into a recognizable global subgenre. Tracks like \"Icarus Lives!,\" \"Letter Experiment,\" and \"Jetpacks Was Yes!\" introduced mainstream progressive metal audiences to a sound built on seven-string guitar palm mutes, polyrhythmic displacement, and a drum performance that was simultaneously brutal, technical, and inexplicably groovy. At the center of that drum performance was Matt Halpern, navigating Misha Mansoor's intricate compositions from behind a relatively conservative DW Collector's Series kit.\n\nThe recording context shaped the album's character. Producer/guitarist Misha Mansoor tracked the record at his home studio — a setup that had defined Periphery's early demos and developed into a refined production environment by the time the debut was finalized. There was no expensive Los Angeles tracking room, no name-brand mix engineer; this was a band of internet-native musicians making the album they wanted to hear, using gear they could control on schedules they set themselves. The drums were captured with attention to clarity and articulation, every kick stroke definable, every snare ghost note audible against the wall of seven-string guitars.\n\nHalpern's approach on the debut leans toward single-kick playing more than later Periphery releases — a 22\"x18\" DW bass drum doing most of the heavy lifting on tracks where many djent contemporaries reached instinctively for double bass. This single-kick discipline forced Halpern to write more rhythmically interesting kick patterns, accenting against the riffs rather than just doubling them. It's part of why Periphery's debut feels groovier than the broader djent scene of 2010 — Halpern wasn't filling space with constant 16th notes; he was placing every stroke deliberately.\n\nThe DW Collector's Series with maple shells, the 14\"x6.5\" maple snare, the Sabian HHX cymbals, the Pearl Demon Drive and Tama Speed Cobra pedals that rotated through the sessions, the Vic Firth Matt Halpern signature sticks, the Evans heads — every gear choice on this album was made to serve articulation. In a genre that would later be characterized by trigger-heavy, hyper-compressed productions, the 2010 debut shows what djent drumming sounds like when the goal is to capture real drums playing real grooves through real microphones at a guitarist's home studio.\n\nThis article breaks down the specific gear Matt Halpern used to record Periphery's 2010 self-titled debut, the production environment that captured it, and the drum performances that made djent a defined genre.",
-      "keyPoints": [
-        "Released April 20, 2010 on Sumerian Records — the genre-defining djent debut",
-        "Recorded at producer/guitarist Misha Mansoor's home studio",
-        "DW Collector's Series kit with single 22\"x18\" bass drum — Halpern's early single-kick approach",
-        "Sabian HHX cymbals deliver the dark, controlled wash for dense djent arrangements",
-        "Vic Firth Matt Halpern signature sticks anchored the early-Periphery rig",
-        "The album that codified djent as a defined progressive metal subgenre"
-      ]
-    },
-    "drumKit": {
-      "title": "The 2010 Rig: DW Collector's Series",
-      "brand": "DW",
-      "model": "DW Collector's Series",
-      "finish": "Custom finish (early-Periphery era)",
-      "config": {
-        "bassdrums": [
-          "22\" x 18\" Bass Drum"
-        ],
-        "toms": [
-          "10\" x 8\" Rack Tom",
-          "12\" x 9\" Rack Tom"
-        ],
-        "floorToms": [
-          "14\" x 14\" Floor Tom",
-          "16\" x 16\" Floor Tom"
-        ],
-        "shells": "Maple shells with DW HVX bearing edges"
-      },
-      "description": "Matt Halpern recorded Periphery's 2010 self-titled debut on a DW Collector's Series kit — DW's flagship line, prized for its tonal balance, build quality, and tuning range. This was the early-Periphery era, before Halpern's later transition to Mapex, and the DW Collector's Series shells gave the debut's drums their warm, focused, articulate character.\n\nThe 22\"x18\" single bass drum is one of the defining gear choices on the album. Many of Halpern's djent contemporaries built their setups around double bass, treating fast kick patterns as the genre's signature. Halpern took the opposite approach — a single 22\"x18\" kick forced him to write rhythmically interesting bass drum lines rather than relying on sustained double-bass to fill space. The 18\" depth gave each stroke meaningful authority while remaining articulate enough for the syncopated patterns the album demands.\n\nThe two-rack-tom, two-floor-tom configuration covers a wide melodic range without becoming visually or technically unwieldy. 10\" and 12\" rack toms provide high-pitched fill voices, while 14\" and 16\" floor toms handle the lower-register tom work that punctuates tracks like \"Icarus Lives!\" and \"All New Materials.\" The maple shell construction delivers the warm fundamental tone that lets each tom sing clearly in the dense mix of seven-string guitar and bass.\n\nDW's HVX bearing edges — angled to maximize head-to-shell contact — give the Collector's Series kit its characteristic balance of attack and sustain. For an album recorded in a home studio environment with limited isolation, this matters: the drums needed to track cleanly without excessive ringing that would muddy the close-miked capture. The maple shells with HVX edges struck that balance.\n\nThe kit's appearance throughout early Periphery promotional material is unmistakable: a relatively standard four-shell configuration, immaculately set up, prioritizing playability over visual spectacle. This was the rig that recorded the album that defined djent.",
-      "notes": [
-        "DW Collector's Series — DW's flagship line at the 2010 recording sessions",
-        "Single 22\" x 18\" bass drum — Halpern's early single-kick approach to djent",
-        "Two rack toms (10/12) and two floor toms (14/16) for wide melodic range",
-        "Maple shells with HVX bearing edges for warmth and articulation",
-        "Setup prioritizes playability over visual spectacle"
-      ],
-      "estimatedValue": "$5,500-7,500 (DW Collector's Series shell pack, 2010 era)"
-    },
-    "snare": {
-      "title": "The Maple Backbone",
-      "brand": "DW",
-      "model": "DW Collector's Series Maple Snare",
-      "size": "14\" x 6.5\"",
-      "shell": "Maple shell",
-      "description": "Halpern's primary snare for the Periphery debut sessions was a DW Collector's Series 14\"x6.5\" maple snare — a versatile, articulate drum well-matched to the album's clean articulation requirements. The 6.5\" depth is deeper than the standard 5.5\" size, giving the backbeat more body without sacrificing crack or sensitivity.\n\nMaple is the workhorse snare wood for a reason: it balances warmth and projection with broad tuning range. For an album recorded at a home studio with limited acoustic treatment, this matters. Halpern needed a snare that would cut through Periphery's wall of seven-string guitars without becoming brittle or one-dimensional. The maple shell with DW's premium build quality delivered exactly that — a snare voice that sits forward in the mix while retaining enough harmonic content to feel musical rather than purely percussive.\n\nFor the debut sessions, Halpern tuned the snare medium-high — high enough for the explosive crack that djent demands on the backbeat, but not so tight that ghost notes lost their definition. Listen to \"Letter Experiment\" or \"Jetpacks Was Yes!\" and you can hear both qualities at once: a backbeat that punches through the mix and the subtle ghost note vocabulary that fills the space between strokes.\n\nThe Evans head choice on the snare — UV1 batter, Hazy 300 resonant — completes the picture. UV1 provides durability and a slight focus to the attack; Hazy 300 keeps the snare wire response sensitive without becoming overly buzzy. The combination is a snare voice that defined an entire generation of djent productions to come.",
-      "tuningSetting": "Medium-high — backbeat crack with ghost-note sensitivity",
-      "heads": "Evans UV1 (batter), Evans Hazy 300 (resonant)",
-      "estimatedValue": "$650-900 (DW Collector's Series maple snare, 2010 era)"
-    },
-    "cymbals": {
-      "title": "The Sabian HHX Foundation",
-      "brand": "Sabian",
-      "series": "Sabian HHX",
-      "setup": [
-        {
-          "type": "Hi-Hats",
-          "model": "Sabian 14\" HHX Groove Hi-Hats",
-          "position": "Left side",
-          "notes": "Dark, articulate hi-hats with controlled chick for djent patterns"
-        },
-        {
-          "type": "Crash",
-          "model": "Sabian 17\" HHX Evolution Crash",
-          "position": "Left of hi-hats",
-          "notes": "Fast, dark crash with quick decay"
-        },
-        {
-          "type": "Crash",
-          "model": "Sabian 18\" HHX Evolution Crash",
-          "position": "Over rack toms",
-          "notes": "Primary mid-weight crash for heavy accents"
-        },
-        {
-          "type": "Crash",
-          "model": "Sabian 19\" HHX Evolution Crash",
-          "position": "Right of toms",
-          "notes": "Fuller crash for section transitions"
-        },
-        {
-          "type": "Ride",
-          "model": "Sabian 21\" HHX Evolution Ride",
-          "position": "Right side",
-          "notes": "Defined ping with dark, complex wash"
-        },
-        {
-          "type": "China",
-          "model": "Sabian 18\" HHX Chinese",
-          "position": "Above floor tom",
-          "notes": "Trashy accents for syncopated punctuation"
-        }
-      ],
-      "description": "Halpern's cymbal setup on Periphery's 2010 debut was built around Sabian's HHX series — Sabian's premium handmade line, prized in the late 2000s and early 2010s for its dark, complex character. This was years before his transition to Meinl, and the HHX cymbals gave the debut its distinctive cymbal voice: darker and more controlled than the bright, cutting Zildjian A Customs that dominated mainstream metal of the era.\n\nThe 14\" HHX Groove hi-hats are the foundation. \"Groove\" hi-hats are designed for a slightly heavier, more controlled feel — exactly what djent's intricate, fast hi-hat patterns demand. On tracks like \"Icarus Lives!\" and \"Letter Experiment,\" the hi-hat articulation cuts cleanly through the dense guitar mix without the brittle character that thinner hi-hats would produce.\n\nThe HHX Evolution crash array gives Halpern the dynamic range he needs across the album. The 17\" crash provides fast, cutting accents for quick punctuation; the 18\" handles primary crash work; the 19\" delivers more wash for section transitions. The Evolution series' slightly thinner profile means these crashes respond quickly without sacrificing complexity — important for an album with as many rhythmic accents as the Periphery debut.\n\nThe 21\" HHX Evolution ride and 18\" HHX Chinese complete the setup. The ride's defined ping with dark wash makes it suitable for riding patterns during quieter sections, while the China provides the trashy, syncopated accents that punctuate djent's most aggressive moments. Listen to the China accents on \"All New Materials\" — they're a textbook example of how to use an effect cymbal for rhythmic emphasis rather than mere ornamentation.\n\nThe Sabian HHX setup gave the 2010 debut its dark, controlled cymbal voice — a deliberate counterweight to the bright wall of seven-string guitars and the foundation Halpern would build on before his eventual move to Meinl.",
-      "notes": [
-        "Sabian HHX series — premium handmade dark cymbals",
-        "14\" HHX Groove hi-hats for controlled, articulate djent patterns",
-        "HHX Evolution crashes (17/18/19) for dynamic range",
-        "21\" HHX Evolution ride balances ping and wash",
-        "18\" HHX Chinese for trashy syncopated accents"
-      ],
-      "estimatedValue": "$2,200-3,000 total (Sabian HHX setup, 2010 era)"
-    },
-    "hardware": {
-      "title": "Hardware: Demon Drive and Speed Cobra",
-      "items": [
-        {
-          "type": "Bass Drum Pedal",
-          "brand": "Pearl / Tama",
-          "model": "Pearl Demon Drive / Tama Speed Cobra",
-          "notes": "Halpern rotated between both pedals during the debut era",
-          "description": "Halpern's pedal choice during the 2010 sessions rotated between the Pearl Demon Drive and the Tama Speed Cobra — both flagship single-pedal options offering different cam profiles and feel characteristics. The Demon Drive's lighter feel and direct-drive responsiveness suited the album's faster syncopated patterns; the Speed Cobra's smoother chain action handled the groove-oriented passages where micro-timing mattered more than raw speed. The single-pedal focus reinforces the album's single-kick character — Halpern wasn't reaching for double-pedal solutions on the debut; he was writing kick parts that lived on one foot."
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "DW",
-          "model": "DW 9500 Series Hi-Hat Stand",
-          "notes": "Premium stability matched to the Collector's Series kit"
-        },
-        {
-          "type": "Throne",
-          "brand": "DW",
-          "model": "DW 9000 Series Throne",
-          "notes": "Tractor-style seat for balance during long sessions"
-        },
-        {
-          "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Matt Halpern Signature",
-          "notes": "Halpern's signature stick — established stick relationship by 2010"
-        }
-      ],
-      "heads": {
-        "bassKick": "Evans EMAD2 (batter), Evans EQ3 Resonant",
-        "toms": "Evans G2 Coated (batter), Evans G1 Clear (resonant)",
-        "snare": "Evans UV1 (batter), Evans Hazy 300 (resonant)"
-      }
-    },
-    "sound": {
-      "title": "The Sound: Articulation Over Aggression",
-      "content": "The drum sound on Periphery's 2010 debut is one of the album's defining characteristics. Recorded at Misha Mansoor's home studio — without the resources of a major commercial facility — the drums achieve a balance of articulation, weight, and clarity that became a template for djent productions to come.\n\n**Articulation as Priority:**\nEvery kick stroke is defined. Every snare ghost note is audible. Every hi-hat articulation cuts through the mix. This isn't accidental — it's a deliberate production choice. Mansoor and Halpern prioritized clarity over raw aggression because djent's compositions require it. When riff displacement happens against kick accents, the listener has to be able to hear both clearly. The 2010 debut's drum mix delivers that.\n\n**Single-Kick Focus:**\nThe album's single 22\"x18\" bass drum gets to breathe in the mix in a way that paired double-kick patterns rarely do. This means Halpern's kick lines have authority — they're not blurring into a wash of constant 16th notes; they're placing accents with intent.\n\n**Snare Forward:**\nThe snare sits forward in the mix with significant attack and just enough body to feel imposing. The DW maple shell tuned medium-high, captured with close-mic articulation and minimal artificial enhancement, gives the album its backbeat character.\n\n**Controlled Cymbal Wash:**\nThe Sabian HHX setup's dark, controlled character means cymbals never overwhelm the rhythmic clarity that djent demands. Crashes punctuate; hi-hats articulate; rides shimmer without dominating.\n\n**Home Studio Honesty:**\nThere's a directness to the 2010 debut's drum sound that later, more polished djent productions sometimes lose. You can hear that this album was made by musicians making the album they wanted to hear, with the gear they had access to, in the room they had available."
-    },
-    "technique": {
-      "title": "Halpern's Approach on the 2010 Debut",
-      "content": "Matt Halpern's playing on Periphery's self-titled debut establishes the vocabulary that would define his career — and the rhythmic language that defined djent drumming for a generation.\n\n**Groove Within Complexity:**\nThe defining feature of Halpern's debut performances is that even the album's most polyrhythmic passages feel like grooves. Listen to \"Icarus Lives!\" — the patterns are intricate, but they breathe. This is the result of micro-timing: pushing or pulling specific notes to create feel within the mathematical framework. It's why Periphery's debut sounded different from the broader djent scene of 2010.\n\n**Single-Kick Discipline:**\nWithout the easy out of double bass, Halpern had to write kick patterns that worked rhythmically against the riffs rather than just doubling them. This discipline produced kick lines that accent the off-beats, displace expected downbeats, and create polyrhythmic interplay with Mansoor's seven-string guitar parts.\n\n**Polyrhythmic Layering:**\nHalpern's hi-hat and ride patterns frequently imply different rhythmic groupings than the kick and snare. On several debut tracks, you can hear three or four implied time signatures coexisting — a sophistication that defines the band's rhythmic identity.\n\n**Ghost-Note Vocabulary:**\nThe snare work on the debut isn't just backbeat. The space between primary strokes is filled with ghost notes that add texture and momentum. This is jazz vocabulary applied to djent — and it's part of why the album's grooves feel musical rather than mechanical.\n\n**Dynamic Range:**\nFrom the barely audible hi-hat work in the quiet sections of \"Light\" to the full-kit assault of \"Racecar,\" Halpern navigates a wider dynamic range than the djent caricature suggests. The debut album proves that progressive metal drumming can be controlled and explosive in the same measure."
-    },
-    "relatedAlbums": [
-      "whats-in-matt-halperns-kit",
-      "periphery-ii-drum-setup"
-    ],
-    "relatedDrummers": [
-      53,
-      5,
-      47
-    ],
-    "relatedArticles": [
-      "djent-drumming-guide",
-      "best-drums-for-djent"
-    ],
-    "faq": [
-      {
-        "question": "What drums did Matt Halpern use on Periphery's 2010 self-titled debut?",
-        "answer": "Matt Halpern recorded Periphery's 2010 self-titled debut on a DW Collector's Series kit with maple shells. The configuration was a single 22-inch by 18-inch bass drum, 10-inch and 12-inch rack toms, and 14-inch and 16-inch floor toms. This was the early-Periphery era, before Halpern's later transition to Mapex. The single-bass-drum approach defined the album's character — rather than relying on sustained double-bass to fill space, Halpern wrote rhythmically intricate kick patterns that accent against Misha Mansoor's seven-string guitar riffs."
-      },
-      {
-        "question": "What snare did Matt Halpern use on Periphery's self-titled album?",
-        "answer": "Halpern's primary snare on the 2010 Periphery debut was a DW Collector's Series 14-inch by 6.5-inch maple snare. The deeper 6.5-inch depth gave the backbeat more body than a standard 5.5-inch snare while remaining articulate enough for the ghost note vocabulary that fills the album's grooves. He tuned the snare medium-high for backbeat crack with retained ghost note sensitivity, with Evans UV1 batter and Evans Hazy 300 resonant heads."
-      },
-      {
-        "question": "What cymbals did Matt Halpern use on Periphery's 2010 debut?",
-        "answer": "Halpern's 2010 cymbal setup centered on Sabian HHX cymbals — years before his transition to Meinl. The setup included 14-inch HHX Groove hi-hats, HHX Evolution crashes in 17, 18, and 19 inches, a 21-inch HHX Evolution ride, and an 18-inch HHX Chinese. The HHX series' dark, complex character gave the debut its distinctive cymbal voice — a deliberate counterweight to the bright cymbal trends of mainstream metal at the time."
-      },
-      {
-        "question": "Where was Periphery's self-titled debut recorded?",
-        "answer": "Periphery's 2010 self-titled debut was recorded at producer and guitarist Misha Mansoor's home studio. Mansoor produced the album himself, leveraging the home-studio environment that had defined Periphery's early demos and developed into a refined production setup by the time the debut was finalized. The home-studio context shaped the album's character: drums tracked with close attention to articulation and clarity, every kick stroke definable, every snare ghost note audible against the dense seven-string guitar arrangements."
-      },
-      {
-        "question": "Why is Periphery's self-titled debut considered a djent genre-defining album?",
-        "answer": "Periphery's 2010 self-titled debut is widely credited with codifying djent as a recognizable subgenre of progressive metal. Released on Sumerian Records on April 20, 2010, the album took the seven-string palm-mute aesthetic that had developed on internet forums and demos throughout the 2000s and presented it as a polished, fully realized musical statement. Tracks like 'Icarus Lives!,' 'Letter Experiment,' and 'Jetpacks Was Yes!' set the template for what djent could be — polyrhythmic, melodic, technical, and groovy at once. Matt Halpern's drum performances were central to that codification, demonstrating that the genre could be both rhythmically complex and musically grooving."
-      }
-    ],
-    "conclusion": {
-      "title": "The Album That Made Djent a Genre",
-      "content": "Periphery's 2010 self-titled debut is one of progressive metal's most important release documents. Before this album, djent was an internet phenomenon — a label for seven-string palm-mute techniques without a clearly defined musical identity. After this album, djent was a recognizable subgenre with its own rhythmic vocabulary, production aesthetic, and musical priorities.\n\nMatt Halpern's drum performance was central to that transition. On a DW Collector's Series kit, with Sabian HHX cymbals, captured at Misha Mansoor's home studio, Halpern delivered drum performances that proved progressive metal could be both technically demanding and musically groovy. The single-kick approach, the medium-high maple snare, the dark Sabian cymbal palette, the polyrhythmic hi-hat work — every element of the debut's drum sound became a template that other djent productions would either follow or deliberately rebel against.\n\nFor the gear evolution from this album to Halpern's later setup, see [What's In Matt Halpern's Kit](/articles/whats-in-matt-halperns-kit) — the Mapex/Meinl era that succeeded the 2010 DW/Sabian rig. For Halpern's complete career context, technique breakdown, and Periphery discography analysis, see his [drummer profile](/drummer/matt-halpern).\n\nThe 2010 debut is where modern progressive metal drumming begins. The gear, the room, the production approach, the playing — every element of the album set the standard that the genre measured itself against for the decade that followed."
-    }
-  },
   "periphery-ii-drum-setup": {
     "slug": "periphery-ii-drum-setup",
     "albumTitle": "Periphery II: This Time It's Personal",
@@ -677,7 +461,7 @@ export const articles = {
       }
     },
     "relatedAlbums": [
-      "periphery-self-titled-drum-setup",
+      "periphery-drum-setup",
       "periphery-iii-drum-setup",
       "whats-in-matt-halperns-kit"
     ],
@@ -710,7 +494,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Album That Built the Bridge",
-      "content": "Periphery II: This Time It's Personal sits at the center of the Periphery discography as the album that proved the debut was not a fluke. It expanded the band's compositional ambition, deepened Halpern's technical vocabulary, and completed the transition from internet-cultivated phenomenon to internationally recognized progressive metal force.\n\nFor Matt Halpern specifically, Periphery II is the album where his gear begins the evolution that would culminate in the Mapex Saturn V and Meinl Byzance setup of the later Periphery era. The DW Collector's Series kit that had anchored the debut carried this breakthrough album through its sessions with distinction, while the cymbal palette was beginning to evolve toward the Meinl Byzance character that would define Periphery's sound for the decade to come.\n\nThe drum performances on Periphery II — particularly on \"Make Total Destroy,\" \"Scarlet,\" \"Mile Zero,\" and \"Ragnarok\" — remain some of the most studied in modern progressive metal. They demonstrate what's possible when technical ambition is grounded in groove, and they established Matt Halpern as one of the defining drummers of his generation.\n\nFor the complete Periphery gear story, see [Periphery Self-Titled Drum Setup](/articles/periphery-self-titled-drum-setup) for the debut era and [Periphery III: Select Difficulty Drum Setup](/articles/periphery-iii-drum-setup) for the full Mapex/Meinl era that followed. For Matt Halpern's complete career breakdown, signature kit, and technique analysis, see his [drummer profile](/drummer/matt-halpern)."
+      "content": "Periphery II: This Time It's Personal sits at the center of the Periphery discography as the album that proved the debut was not a fluke. It expanded the band's compositional ambition, deepened Halpern's technical vocabulary, and completed the transition from internet-cultivated phenomenon to internationally recognized progressive metal force.\n\nFor Matt Halpern specifically, Periphery II is the album where his gear begins the evolution that would culminate in the Mapex Saturn V and Meinl Byzance setup of the later Periphery era. The DW Collector's Series kit that had anchored the debut carried this breakthrough album through its sessions with distinction, while the cymbal palette was beginning to evolve toward the Meinl Byzance character that would define Periphery's sound for the decade to come.\n\nThe drum performances on Periphery II — particularly on \"Make Total Destroy,\" \"Scarlet,\" \"Mile Zero,\" and \"Ragnarok\" — remain some of the most studied in modern progressive metal. They demonstrate what's possible when technical ambition is grounded in groove, and they established Matt Halpern as one of the defining drummers of his generation.\n\nFor the complete Periphery gear story, see [Periphery Drum Setup](/articles/periphery-drum-setup) for the debut era and [Periphery III: Select Difficulty Drum Setup](/articles/periphery-iii-drum-setup) for the full Mapex/Meinl era that followed. For Matt Halpern's complete career breakdown, signature kit, and technique analysis, see his [drummer profile](/drummer/matt-halpern)."
     }
   },
   "periphery-iii-drum-setup": {
@@ -1098,7 +882,7 @@ export const articles = {
     },
     "relatedAlbums": [
       "periphery-iii-drum-setup",
-      "periphery-self-titled-drum-setup",
+      "periphery-drum-setup",
       "whats-in-matt-halperns-kit"
     ],
     "relatedDrummers": [
@@ -1130,7 +914,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Album That Completed the Arc",
-      "content": "Periphery IV: Hail Stan completes the gear evolution arc that began with the DW Collector's Series and Sabian HHX of the 2010 self-titled debut. From the single-bass, DW-anchored, home-studio djent of \"Icarus Lives!\" to the Mapex Saturn V MH Exotic and Meinl Byzance-equipped performances on \"Reptile\" — this nine-year gear journey documents not just what Matt Halpern plays, but how his tools evolved to match his musical ambitions.\n\nThe transition from DW Collector's Series (self-titled, Periphery II) to Mapex Saturn (Periphery III) to Mapex Saturn V MH Exotic (Hail Stan) represents a refinement rather than a reinvention. At each stage, Halpern sought the same qualities: articulation, dynamic range, consistent response, and a sonic character that complemented rather than competed with Periphery's guitar-forward arrangements. The Saturn V MH Exotic delivered all of it at the highest level, and the Meinl Byzance setup gave him the complex, dark cymbal vocabulary to match.\n\n\"Reptile\" is the monument this gear journey built toward. Sixteen minutes of progressive metal that require every capability Halpern had developed across a decade of Periphery recordings — the ghost note vocabulary from the self-titled, the double-kick aggression expanded through Periphery II, the Grammy-caliber precision of Select Difficulty, and the conceptual ambition that only a mature band and drummer can execute. The Mapex Saturn V and Meinl Byzance were there for every measure of it.\n\nFor the complete gear evolution leading to this album, see [Periphery III: Select Difficulty Drum Setup](/articles/periphery-iii-drum-setup) for the Mapex Saturn era, [Periphery Self-Titled Drum Setup](/articles/periphery-self-titled-drum-setup) for where the journey began, and [Matt Halpern's complete kit breakdown](/drummer/matt-halpern) for his full signature setup and technique analysis."
+      "content": "Periphery IV: Hail Stan completes the gear evolution arc that began with the DW Collector's Series and Sabian HHX of the 2010 self-titled debut. From the single-bass, DW-anchored, home-studio djent of \"Icarus Lives!\" to the Mapex Saturn V MH Exotic and Meinl Byzance-equipped performances on \"Reptile\" — this nine-year gear journey documents not just what Matt Halpern plays, but how his tools evolved to match his musical ambitions.\n\nThe transition from DW Collector's Series (self-titled, Periphery II) to Mapex Saturn (Periphery III) to Mapex Saturn V MH Exotic (Hail Stan) represents a refinement rather than a reinvention. At each stage, Halpern sought the same qualities: articulation, dynamic range, consistent response, and a sonic character that complemented rather than competed with Periphery's guitar-forward arrangements. The Saturn V MH Exotic delivered all of it at the highest level, and the Meinl Byzance setup gave him the complex, dark cymbal vocabulary to match.\n\n\"Reptile\" is the monument this gear journey built toward. Sixteen minutes of progressive metal that require every capability Halpern had developed across a decade of Periphery recordings — the ghost note vocabulary from the self-titled, the double-kick aggression expanded through Periphery II, the Grammy-caliber precision of Select Difficulty, and the conceptual ambition that only a mature band and drummer can execute. The Mapex Saturn V and Meinl Byzance were there for every measure of it.\n\nFor the complete gear evolution leading to this album, see [Periphery III: Select Difficulty Drum Setup](/articles/periphery-iii-drum-setup) for the Mapex Saturn era, [Periphery Drum Setup](/articles/periphery-drum-setup) for where the journey began, and [Matt Halpern's complete kit breakdown](/drummer/matt-halpern) for his full signature setup and technique analysis."
     }
   },
   "periphery-drum-setup": {
@@ -1303,7 +1087,6 @@ export const articles = {
       }
     },
     "relatedAlbums": [
-      "periphery-self-titled-drum-setup",
       "periphery-ii-drum-setup",
       "periphery-v-aliens-drum-setup",
       "whats-in-matt-halperns-kit"
@@ -1516,7 +1299,6 @@ export const articles = {
     "relatedAlbums": [
       "periphery-iv-drum-setup",
       "periphery-drum-setup",
-      "periphery-self-titled-drum-setup",
       "whats-in-matt-halperns-kit"
     ],
     "relatedDrummers": [

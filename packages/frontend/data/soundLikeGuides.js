@@ -3330,7 +3330,7 @@ Orbin left Periphery in 2012, replaced by Matt Halpern, but his recorded work re
     relatedArticles: [
       { slug: 'travis-orbin-drum-setup', label: 'Travis Orbin Drum Setup' },
       { slug: 'travis-orbin-drum-setup', label: "What's In Travis Orbin's Kit?" },
-      { slug: 'periphery-self-titled-drum-setup', label: 'Periphery (Self-Titled) Drum Setup' }
+      { slug: 'periphery-drum-setup', label: 'Periphery (Self-Titled) Drum Setup' }
     ]
   },
 
@@ -4379,7 +4379,7 @@ His dynamic contrast ranges from near-inaudible snare brush textures to enormous
     licksUrl: '/drummers/gavin-harrison/licks',
     relatedArticles: [
       { slug: 'whats-in-gavin-harrisons-kit', label: "What's In Gavin Harrison's Kit?" },
-      { slug: 'gavin-harrison-porcupine-tree-drum-setup', label: 'Gavin Harrison — Porcupine Tree Drum Setup' }
+      { slug: 'fear-of-a-blank-planet-drum-setup', label: 'Fear of a Blank Planet Drum Setup' }
     ]
   },
 
@@ -14081,7 +14081,7 @@ This guide breaks down the technique, gear, and practice approach behind Augusto
     },
     licksUrl: '/drummers/nick-augusto/licks',
     relatedArticles: [
-      { slug: 'nick-augusto-drum-setup', label: "Nick Augusto's Drum Setup — Trivium's In Waves & Vengeance Falls Era Kit Guide" }
+      { slug: 'in-waves-drum-setup', label: "In Waves Drum Setup — Nick Augusto's Breakthrough Kit (2011)" }
     ]
   },
 

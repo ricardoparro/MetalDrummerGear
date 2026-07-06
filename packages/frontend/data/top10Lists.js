@@ -3176,6 +3176,68 @@ This ranking counts only continuous tenure — a single, unbroken run with one b
     ],
     relatedLists: ['most-decorated-metal-drummers', 'best-metal-drummers-of-all-time', 'best-live-metal-drummers'],
   },
+
+  'best-metal-drummers-playing-tama-kits': {
+    slug: 'best-metal-drummers-playing-tama-kits',
+    title: 'Top 10 Metal Drummers Playing Tama Kits',
+    emoji: '🥁',
+    description: 'MetalForge\'s subgenre and gear-attribute lists have circled Tama Drums for years without ever ranking it directly — the brand turns up dozens of times across our thrash, groove, and technical-death coverage, but never as its own page. This is that page: the ten most notable metal drummers currently playing a Tama kit, spanning the Starclassic Maple, Walnut/Birch, Bubinga, and Performer lines that anchor Tama\'s metal-market presence. From Lars Ulrich\'s decades-long endorsement to Eloy Casagrande\'s 2024 Modern Drummer Readers\' Poll win, this ranking traces Tama\'s footprint across thrash, groove, progressive, and modern extreme metal.',
+    seoDescription: 'The best metal drummers playing Tama drum kits, ranked. Lars Ulrich, Dave Lombardo, Mario Duplantier, Charlie Benante, Eloy Casagrande, Brann Dailor and more — Tama\'s deepest roster in heavy metal.',
+    drummerIds: [1, 4, 15, 12, 7, 16, 45, 29, 34, 33],
+    rankings: {
+      1: { rank: 1, highlight: 'Tama\'s most iconic metal endorsement', reason: 'Lars Ulrich has played Tama Starclassic Maple kits for decades, backed by his signature Tama LU1465 snare — one of the longest continuously active drummer-brand partnerships in metal, spanning Metallica\'s entire stadium-era catalog.' },
+      4: { rank: 2, highlight: 'Thrash\'s godfather on Tama Starclassic Maple', reason: 'Dave Lombardo helped invent extreme double-bass drumming with Slayer in the 1980s and plays a Tama Starclassic Maple kit across his post-Slayer work with Fantômas, Dead Cross, and Mr. Bungle.' },
+      15: { rank: 3, highlight: 'Gojira\'s dual-kick Tama Starclassic Bubinga', reason: 'Mario Duplantier has anchored Gojira since co-founding the band with his brother Joe in 1996, playing a Tama Starclassic Bubinga kit with dual 22-inch bass drums — the engine behind Gojira\'s rise to progressive death metal\'s biggest stages.' },
+      12: { rank: 4, highlight: 'Anthrax\'s Tama-endorsed thrash architect', reason: 'Charlie Benante has driven Anthrax\'s thrash attack for over four decades on Tama Starclassic drums, making him one of the Big Four era\'s longest-running Tama artists.' },
+      7: { rank: 5, highlight: 'Modern Drummer\'s #1 metal drummer, 2024 Readers\' Poll', reason: 'Eloy Casagrande plays a dual-bass Tama Starclassic Bubinga kit built for the extreme technical demands of his work with Sepultura and, since 2024, Slipknot — a setup that helped him earn the #1 spot in Modern Drummer magazine\'s 2024 Readers\' Poll.' },
+      16: { rank: 6, highlight: 'Mastodon\'s progressive sludge on Tama Starclassic Performer B/B', reason: 'Brann Dailor plays a Tama Starclassic Performer B/B kit behind Mastodon\'s genre-defying progressive sludge metal, carrying the band\'s rhythmic and melodic ambitions across two decades of concept albums.' },
+      45: { rank: 7, highlight: 'Megadeth\'s Tama Starclassic Walnut/Birch precision', reason: 'Dirk Verbeuren plays a Tama Starclassic Walnut/Birch kit for Megadeth, a role he stepped into after nearly two decades driving Soilwork\'s melodic death metal sound.' },
+      29: { rank: 8, highlight: 'Sepultura\'s groove metal foundation on Tama', reason: 'Igor Cavalera co-founded Sepultura\'s groove-thrash sound and plays a Tama Starclassic Maple kit, carrying that rhythmic foundation into Cavalera Conspiracy alongside his brother Max.' },
+      34: { rank: 9, highlight: 'Converge and Mutoid Man\'s Tama Starclassic Maple', reason: 'Ben Koller plays a Tama Starclassic Maple kit across his work with Converge and Mutoid Man, bringing Tama\'s precision to mathcore and noise-rock-adjacent extreme metal.' },
+      33: { rank: 10, highlight: 'Between the Buried and Me\'s progressive Tama Starclassic Bubinga', reason: 'Blake Richardson plays a custom-finish Tama Starclassic Bubinga kit behind Between the Buried and Me\'s genre-blending progressive metal, handling the band\'s constant meter and dynamic shifts.' },
+    },
+    relatedLists: ['best-metal-drummers-playing-pearl-kits', 'best-metal-drummers-playing-dw-kits', 'thrash-metal-drummers'],
+  },
+
+  'best-metal-drummers-playing-pearl-kits': {
+    slug: 'best-metal-drummers-playing-pearl-kits',
+    title: 'Top 10 Metal Drummers Playing Pearl Kits',
+    emoji: '🥁',
+    description: 'Pearl Drums shows up more than almost any other brand name across MetalForge\'s subgenre lists, from Cannibal Corpse\'s death metal foundation to Slipknot\'s nu-metal breakthrough — yet the brand has never had its own ranking. This is Pearl\'s page: the ten most notable metal drummers built around Pearl Reference, Masters, and Masterworks kits, spanning death metal, technical death metal, progressive metal, and blackened death metal. Where Tama\'s metal roster leans thrash and groove, Pearl\'s runs straight through extreme metal\'s most technical and blast-beat-heavy corners.',
+    seoDescription: 'The best metal drummers playing Pearl drum kits, ranked. Paul Mazurkiewicz, Joey Jordison, George Kollias, Flo Mounier, Gene Hoglan and more — Pearl\'s deepest roster in death, extreme, and progressive metal.',
+    drummerIds: [51, 2, 6, 35, 3, 52, 50, 54, 19, 25],
+    rankings: {
+      51: { rank: 1, highlight: 'Cannibal Corpse\'s founding drummer since 1988', reason: 'Paul Mazurkiewicz has anchored Cannibal Corpse\'s death metal assault since founding the band in 1988, playing a Pearl Masters Maple Complete kit across nearly four decades as death metal\'s most enduring Pearl artist.' },
+      2: { rank: 2, highlight: 'Slipknot\'s Pearl Reference Series and signature snare', reason: 'Joey Jordison drove Slipknot\'s nu-metal breakthrough on Pearl Reference Series kits, paired with his Pearl 13x6.5" signature snare — an unusually shallow shell whose cutting crack became inseparable from Slipknot\'s "Iowa"-era sound.' },
+      6: { rank: 3, highlight: '280+ BPM on a Pearl Masterworks Stadium Exotic', reason: 'George Kollias holds documented blast-beat speed records exceeding 280 BPM behind Nile\'s kit, playing a Pearl Masterworks Stadium Exotic finished in piano black with gold hardware and co-designing his own Pearl Demon XR double pedal.' },
+      35: { rank: 4, highlight: 'Cryptopsy\'s gravity-blast pioneer', reason: 'Flo Mounier plays a Pearl Masters Maple Complete kit for Cryptopsy, and his work on the band\'s "None So Vile" pioneered the gravity blast technique — a rebound-driven one-handed blast beat still studied by extreme metal drummers worldwide.' },
+      3: { rank: 5, highlight: 'The Atomic Clock\'s Pearl Reference Pure kit', reason: 'Gene Hoglan, nicknamed "The Atomic Clock" for his surgical precision, plays a Pearl Reference Pure kit across a career spanning Dark Angel, Death, Testament, and Dethklok.' },
+      52: { rank: 6, highlight: 'Dream Theater\'s Pearl Reference Series since 2010', reason: 'Mike Mangini has driven Dream Theater\'s technical, odd-meter progressive metal on a Pearl Reference Series kit since succeeding Mike Portnoy in 2010, sustaining the band\'s reputation for the genre\'s most demanding drum parts.' },
+      50: { rank: 7, highlight: 'Ex-Angra\'s Pearl Reference Series power', reason: 'Aquiles Priester built his reputation driving Angra\'s power/progressive metal on a Pearl Reference Series kit, known for combining double-bass speed with the genre\'s melodic, symphonic songwriting.' },
+      54: { rank: 8, highlight: 'Arch Enemy and At the Gates\' melodic death metal engine', reason: 'Daniel Erlandsson plays a Pearl Reference Pure kit across his work in both Arch Enemy and At the Gates, giving him a hand in two of melodic death metal\'s most foundational and enduring catalogs.' },
+      19: { rank: 9, highlight: 'Behemoth\'s blackened-death precision on Pearl', reason: 'Inferno plays a Pearl Masterworks kit behind Behemoth, delivering the technical, high-velocity foundation behind the band\'s blackened death metal orchestration on albums like "The Satanist."' },
+      25: { rank: 10, highlight: 'Ex-Trivium\'s Pearl Reference Pure Series', reason: 'Alex Bent played a Pearl Reference Pure Series kit during his time in Trivium, following stints in Arkaík and Dragonlord that established his technical death metal credentials.' },
+    },
+    relatedLists: ['best-metal-drummers-playing-tama-kits', 'best-metal-drummers-playing-dw-kits', 'death-metal-drummers'],
+  },
+
+  'best-metal-drummers-playing-dw-kits': {
+    slug: 'best-metal-drummers-playing-dw-kits',
+    title: 'Top 10 Metal Drummers Playing DW Kits',
+    emoji: '🥁',
+    description: 'DW Drums has a smaller current metal footprint than Tama or Pearl in MetalForge\'s coverage, but it has left a real mark on progressive metal, metalcore, and death metal\'s more technical corners. This is DW\'s first dedicated ranking: two current DW artists — Entheos\' Navene Koperweis and Obscura\'s Hannes Grossmann — alongside four thrash, progressive, and metalcore drummers whose documented careers include a specific, dated era built around DW Collector\'s or Performance Series kits. It\'s a smaller roster than Tama\'s or Pearl\'s; rather than pad to a round ten, this ranking covers the six most verifiable names.',
+    seoDescription: 'The best metal drummers who\'ve played DW drum kits, ranked. Mike Portnoy, Matt Greiner, Navene Koperweis, Hannes Grossmann, Chris Adler, Ray Luzier and more on DW Collector\'s and Performance Series kits.',
+    drummerIds: [24, 56, 13, 32, 17, 8],
+    rankings: {
+      24: { rank: 1, highlight: 'Entheos\' technical death-metalcore on DW Performance Series', reason: 'Navene Koperweis plays a DW Drums Performance Series kit for Entheos, bringing his technical death metal and deathcore background from Animosity and Despised Icon into the band\'s genre-crossing arrangements.' },
+      56: { rank: 2, highlight: 'Obscura and Alkaloid\'s technical death metal on DW', reason: 'Hannes Grossmann has played DW Collector\'s Series kits since Obscura\'s 2009 "Cosmogenesis," bringing that same technical precision into Alkaloid and his broader session career in progressive and technical death metal.' },
+      13: { rank: 3, highlight: 'Dream Theater\'s DW Collector\'s Maple era, 1994-2010', reason: 'Mike Portnoy played a DW Collector\'s Maple kit with dual 22-inch bass drums across Dream Theater\'s most celebrated 16-year stretch, from "Awake" through "Black Clouds & Silver Linings."' },
+      32: { rank: 4, highlight: 'August Burns Red\'s DW Performance Maple, 2010-2022', reason: 'Matt Greiner played DW Collector\'s and Performance Maple kits across more than a decade of August Burns Red\'s metalcore output, from 2010 through 2022.' },
+      17: { rank: 5, highlight: 'Lamb of God\'s DW Collector\'s Maple, "Ashes of the Wake" era', reason: 'Chris Adler played a DW Collector\'s Series Maple kit during Lamb of God\'s breakout 2004 "Ashes of the Wake" era, the Grammy-nominated album that helped define modern groove-thrash.' },
+      8: { rank: 6, highlight: 'Korn\'s DW Collector\'s Maple/Mahogany, "Korn III" era', reason: 'Ray Luzier played a DW Collector\'s Series Maple/Mahogany kit during Korn\'s 2010 "Korn III: Remember Who You Are" era, bringing DW\'s low-end power to the band\'s nu-metal revival.' },
+    },
+    relatedLists: ['best-metal-drummers-playing-tama-kits', 'best-metal-drummers-playing-pearl-kits', 'progressive-metal-drummers'],
+  },
 };
 
 // Get list of all top 10 lists

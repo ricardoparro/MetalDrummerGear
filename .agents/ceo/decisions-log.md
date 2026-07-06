@@ -1528,3 +1528,28 @@ Check-in between the 13:15 mid-day pulse and evening run. 4 new `seo-proposal` i
 2. Once deploy confirmed, expect L3 duplicate/404 counts to drop over 1-2 weeks as Google re-crawls — not an instant fix in next week's snapshot.
 3. Watch #3841-3844 (currently pending checks) through to merge or failure.
 4. Next L1/L2/L3 snapshots due 2026-07-13 (weekly cadence).
+
+## 2026-07-06 19:05 — Evening review: promoted 4 fresh proposals, deploy still pending, L2 root cause unchanged
+
+### Context (≤3 lines)
+Evening pass. 4 new `seo-proposal` issues landed 17:06-17:07 UTC (#3845 SoundLike CTA gap, #3846 genre-gear matrix completion, #3847 signature stick/pedal top-10 lists, #3848 Ben Koller/John Otto album gaps) — not yet covered by the 17:15 entry. ai-fix backlog was 9 eligible, deep in promote-liberally band (cap 80).
+
+### Actions taken
+- Independently verified all 4 before promoting: grepped `App.js` and confirmed zero `SoundLike`/`guides/` references inside `DrummerDetail`'s render body while `preloadSoundLikeGuides()` only fires from an idle-preload batch (#3845, same lazy-load-gap pattern as #3821/#3822); confirmed 0 pre-existing hits for all 4 candidate slugs (power-metal pedals, mathcore kits/pedals/snares) in `genreGearGuides.js` (#3846); confirmed 0 pedal/stick-themed slugs in `top10Lists.js` alongside the existing `metal-drummers-signature-snare-drums` template (#3847); confirmed `ben-koller.js`/`john-otto.js` both lack a `bloodmoon-i-drum-setup`/`still-sucks-drum-setup` entry despite the base-profile prose already referencing both albums by name (#3848). All genuine, non-duplicate gaps — promoted all 4 to `ai-fix`.
+- Re-checked `deploy-prod.yml`: still no run after 2026-07-06T07:29:35Z, so PR #3817 has not reached production. Next scheduled run is 2026-07-07 06:00 UTC — no action possible until then.
+- Checked 2 new `DIRTY`/`CONFLICTING` PRs (#3842 on #3830, #3844 on #3800) — both edit `genreGearGuides.js` concurrently with other in-flight batches, same pattern as #3815/#3827 earlier today (both of which were auto-closed-and-redispatched by existing bot automation within ~1-2 hours). Confirmed `roadie-night-fleet.yml` still owns conflict handling — no manual intervention needed unless still open by tomorrow's runs.
+- Checked L2 (#2211, refreshed 09:01 UTC: 72/84 gaps, 12/84 cited) — its 2026-07-05 comment already cross-refs the same root cause as today's L1/L3 findings (#3742/#3817 crawler-shell routing bug). No new pattern to file; the pending deploy is the shared blocker for L1, L2, and L3 simultaneously.
+- Founder ideas: inbox empty. GSC-gap: `joey jordison drum set` unchanged, no new escalation. Atomic split: none needed — all 13 open `ai-fix` issues created today.
+
+### State delta
+- ai-fix backlog: 9 → 13 eligible (#3845/#3846/#3847/#3848 promoted)
+- seo-proposal bank: 4 untriaged → 0 (#2211 standing L2 tracker unchanged)
+- Org/Sessions/Views (7d): 177/215/336 · GSC: 4,167 impr / 119 clicks / 2.86% CTR / pos 7.9 (flat)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent verification, all promoted. ✅ GSC-gap: reviewed, no new gap. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Check `deploy-prod.yml` for the 2026-07-07 06:00 UTC scheduled run — once found, re-curl `/articles/hellhammer-drum-setup` and `/guides/best-cymbals-for-progressive-metal` with a bot UA expecting `x-meta-handler: hit-v1` before trusting #3807/#3817 is live. This single deploy is the shared blocker for L1 (GSC big-losses), L2 (LLM citation gaps), and L3 (duplicate/404 counts).
+2. Watch #3842/#3844 (DIRTY) — expect auto-close-and-redispatch via `roadie-night-fleet.yml`; only intervene manually if either is still open and unresolved after 2026-07-07's runs.
+3. Next L1/L2/L3 snapshots due 2026-07-13 (weekly cadence).

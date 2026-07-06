@@ -11738,7 +11738,7 @@ export const DRUMMER_EVOLUTION = {
     band: 'Megadeth / Soilwork',
     totalYearsActive: '1998-Present',
     profileImage: '/images/drummers/dirk-verbeuren.webp',
-    summary: 'Dirk Verbeuren spent 18 years building technical precision as Soilwork\'s drummer before stepping into one of thrash metal\'s biggest seats — Megadeth, in 2016. His gear evolution is a journeyman-reaches-the-top story: Tama and Meinl gear carried across the transition, refined into the rig that helped Megadeth win a Grammy for "Dystopia" and anchor "The Sick, the Dying... and the Dead!"',
+    summary: 'Dirk Verbeuren spent 18 years building technical precision as Soilwork\'s drummer before stepping into one of thrash metal\'s biggest seats — Megadeth, in 2016, touring behind the Chris Adler-recorded, Grammy-winning "Dystopia." His gear evolution is a journeyman-reaches-the-top story: Tama and Meinl gear carried across the transition, refined into the rig that anchored his own studio debut, "The Sick, the Dying... and the Dead!"',
 
     eras: [
       {

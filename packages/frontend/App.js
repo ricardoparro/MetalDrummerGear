@@ -6807,6 +6807,10 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
   // Issue #1357: Related articles backlinks (reverse of #1332)
   const [relatedArticles, setRelatedArticles] = useState([]);
 
+  // Issue #3821: Wait for gear price history module to load before checking,
+  // instead of relying on the stale 3-slug hardcoded fallback array
+  const [hasPriceHistory, setHasPriceHistory] = useState(false);
+
   useEffect(() => {
     let mounted = true;
     preloadExtendedBios().then(() => {
@@ -6818,6 +6822,12 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
     preloadDrummerEvolution().then(() => {
       if (mounted) {
         setHasEvolution(hasEvolutionData(drummerSlug));
+      }
+    });
+    // Preload gear price history data and check if this drummer has data
+    preloadGearPriceHistory().then(() => {
+      if (mounted) {
+        setHasPriceHistory(hasPriceHistoryData(drummerSlug));
       }
     });
     // Issue #1357: Load album articles and build reverse lookup
@@ -6968,7 +6978,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       )}
 
       {/* Gear Price History CTA - Issue #813 */}
-      {getPriceHistoryDrummerSlugs().includes(drummerSlug) && (
+      {hasPriceHistory && (
         <View style={[styles.section, { backgroundColor: theme.card, borderColor: '#22c55e', borderWidth: 2 }]}>
           <Text style={[styles.sectionTitle, { color: theme.text }]}>💰 Gear Price History</Text>
           <Text style={[styles.compareYourKitDescription, { color: theme.secondaryText }]}>

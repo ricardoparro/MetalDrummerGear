@@ -1,0 +1,3008 @@
+{
+  "generatedAt": "2026-07-06T10:54:17.192Z",
+  "site": "https://metalforge.io/",
+  "sitemapUrlCount": 4649,
+  "inspectedCount": 500,
+  "byUrl": {
+    "https://metalforge.io/": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T16:29:27Z"
+    },
+    "https://metalforge.io/bpm": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T10:52:37Z"
+    },
+    "https://metalforge.io/guess-the-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T19:25:22Z"
+    },
+    "https://metalforge.io/guides/beginner-metal-drummer-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T07:56:43Z"
+    },
+    "https://metalforge.io/guides/best-bass-drum-pedals-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T12:43:24Z"
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-deathcore": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-bass-drums-for-extreme-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:17:37Z"
+    },
+    "https://metalforge.io/guides/best-china-cymbals-for-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-crash-cymbals-for-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-cymbals-for-black-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-cymbals-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:01:22Z"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-doom-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-cymbals-for-mathcore": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-cymbals-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T23:45:43Z"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-metalcore": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-cymbals-for-power-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-cymbals-for-progressive-metal": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-04T10:09:41Z"
+    },
+    "https://metalforge.io/guides/best-cymbals-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T15:35:23Z"
+    },
+    "https://metalforge.io/guides/best-drum-hardware-for-metal": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:06:11Z"
+    },
+    "https://metalforge.io/guides/best-drum-heads-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:58:39Z"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:47:32Z"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T20:59:48Z"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-djent": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:57:21Z"
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-doom-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-groove-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-metalcore": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-nu-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-power-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-progressive-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-symphonic-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-kits-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:28:32Z"
+    },
+    "https://metalforge.io/guides/best-drum-modules-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:05:26Z"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-black-metal": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T19:25:03Z"
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-death-metal": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-groove-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-pedals-for-thrash-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-shields-for-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-sticks-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:55:58Z"
+    },
+    "https://metalforge.io/guides/best-drum-thrones-for-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-drum-triggers-for-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-electronic-drum-kits-for-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-black-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:21:46Z"
+    },
+    "https://metalforge.io/guides/best-hi-hats-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T20:50:26Z"
+    },
+    "https://metalforge.io/guides/best-in-ear-monitors-for-metal-drummers": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-metronomes-for-metal-drummers": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-ride-cymbals-for-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-black-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-death-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:55:10Z"
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-djent": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-groove-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:01:20Z"
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-sludge-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-symphonic-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/best-snare-drums-for-thrash-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T07:47:44Z"
+    },
+    "https://metalforge.io/guides/best-snares-for-doom-metal": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/guides/budget-metal-drum-setup-1000": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T22:23:45Z"
+    },
+    "https://metalforge.io/guides/budget-metal-drum-setup-2000": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-06-28T01:47:27Z"
+    },
+    "https://metalforge.io/guides/budget-metal-drum-setup-500": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T06:56:46Z"
+    },
+    "https://metalforge.io/tools/compare": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/tools/metal-drummer-name-generator": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-06-28T01:36:26Z"
+    },
+    "https://metalforge.io/articles/10000-days-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:19:40Z"
+    },
+    "https://metalforge.io/articles/72-seasons-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:02:23Z"
+    },
+    "https://metalforge.io/articles/a-dramatic-turn-of-events-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/a-matter-of-life-and-death-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T10:44:08Z"
+    },
+    "https://metalforge.io/articles/a-view-from-the-top-of-the-world-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/abr-phantom-anthem-drum-setup": {
+      "class": "error-404",
+      "verdict": "NEUTRAL",
+      "coverageState": "Not found (404)",
+      "lastCrawlTime": "2026-07-06T09:23:38Z"
+    },
+    "https://metalforge.io/articles/aenima-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T08:54:43Z"
+    },
+    "https://metalforge.io/articles/alaska-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:38:07Z"
+    },
+    "https://metalforge.io/articles/alien-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:06:36Z"
+    },
+    "https://metalforge.io/articles/all-hope-is-gone-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T19:09:40Z"
+    },
+    "https://metalforge.io/articles/all-we-love-we-leave-behind-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:40:52Z"
+    },
+    "https://metalforge.io/articles/altars-of-madness-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T01:31:23Z"
+    },
+    "https://metalforge.io/articles/and-justice-for-all-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/and-then-youll-beg-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:20:53Z"
+    },
+    "https://metalforge.io/articles/angel-of-retribution-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T13:22:15Z"
+    },
+    "https://metalforge.io/articles/animals-as-leaders-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:04:41Z"
+    },
+    "https://metalforge.io/articles/anthems-of-rebellion-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:38:46Z"
+    },
+    "https://metalforge.io/articles/aquiles-priester-drum-kit-guide": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/aquiles-priester-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/are-you-dead-yet-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:12:48Z"
+    },
+    "https://metalforge.io/articles/arin-ilejay-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/arise-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:01:12Z"
+    },
+    "https://metalforge.io/articles/around-the-fur-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:09:19Z"
+    },
+    "https://metalforge.io/articles/art-of-balance-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T14:25:44Z"
+    },
+    "https://metalforge.io/articles/as-the-palaces-burn-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T15:14:38Z"
+    },
+    "https://metalforge.io/articles/ashes-of-the-wake-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:38:15Z"
+    },
+    "https://metalforge.io/articles/at-the-gate-of-sethu-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/automata-i-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:24:18Z"
+    },
+    "https://metalforge.io/articles/automata-ii-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:06:32Z"
+    },
+    "https://metalforge.io/articles/avenged-sevenfold-self-titled-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:08:11Z"
+    },
+    "https://metalforge.io/articles/awake-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T16:56:07Z"
+    },
+    "https://metalforge.io/articles/axe-to-fall-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:22:35Z"
+    },
+    "https://metalforge.io/articles/bad-magic-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T12:58:09Z"
+    },
+    "https://metalforge.io/articles/bastards-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:36:03Z"
+    },
+    "https://metalforge.io/articles/beacon-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T13:32:57Z"
+    },
+    "https://metalforge.io/articles/ben-koller-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/beneath-the-remains-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/berserker-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:03:53Z"
+    },
+    "https://metalforge.io/articles/black-album-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/black-clouds-and-silver-linings-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:24:07Z"
+    },
+    "https://metalforge.io/articles/black-sabbath-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T21:15:47Z"
+    },
+    "https://metalforge.io/articles/blackwater-park-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T06:30:08Z"
+    },
+    "https://metalforge.io/articles/blake-richardson-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-24T01:56:42Z"
+    },
+    "https://metalforge.io/articles/blessed-are-the-sick-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T20:01:15Z"
+    },
+    "https://metalforge.io/articles/blood-mountain-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T18:23:09Z"
+    },
+    "https://metalforge.io/articles/blooddrunk-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:25:16Z"
+    },
+    "https://metalforge.io/articles/bloodthirst-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T18:44:17Z"
+    },
+    "https://metalforge.io/articles/blunt-force-trauma-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:02:24Z"
+    },
+    "https://metalforge.io/articles/book-of-souls-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T15:04:33Z"
+    },
+    "https://metalforge.io/articles/brann-dailor-mastodon-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/brave-new-world-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:01:09Z"
+    },
+    "https://metalforge.io/articles/breakdown-beat-guide": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T19:01:43Z"
+    },
+    "https://metalforge.io/articles/brotherhood-of-the-snake-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:31:29Z"
+    },
+    "https://metalforge.io/articles/butchered-at-birth-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:10:07Z"
+    },
+    "https://metalforge.io/articles/catch-33-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:21:39Z"
+    },
+    "https://metalforge.io/articles/catch-thirtythree-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:07:30Z"
+    },
+    "https://metalforge.io/articles/chaos-ad-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/chaos-horrific-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:24:09Z"
+    },
+    "https://metalforge.io/articles/chaosphere-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:16:42Z"
+    },
+    "https://metalforge.io/articles/charlie-benante-among-the-living-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T16:36:24Z"
+    },
+    "https://metalforge.io/articles/chocolate-starfish-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:10:03Z"
+    },
+    "https://metalforge.io/articles/chris-turner-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/chris-turner-hikari-2017": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/christ-illusion-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:15:08Z"
+    },
+    "https://metalforge.io/articles/city-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:18:44Z"
+    },
+    "https://metalforge.io/articles/city-of-evil-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/closure-continuation-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:38:03Z"
+    },
+    "https://metalforge.io/articles/colors-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:32:46Z"
+    },
+    "https://metalforge.io/articles/coma-ecliptic-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:28:01Z"
+    },
+    "https://metalforge.io/articles/constellations-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T18:24:05Z"
+    },
+    "https://metalforge.io/articles/contradictions-collapse-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:15:43Z"
+    },
+    "https://metalforge.io/articles/cosmogenesis-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:27:04Z"
+    },
+    "https://metalforge.io/articles/countdown-to-extinction-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T15:04:09Z"
+    },
+    "https://metalforge.io/articles/covenant-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/cowboys-from-hell-drum-setup": {
+      "class": "error-404",
+      "verdict": "NEUTRAL",
+      "coverageState": "Not found (404)",
+      "lastCrawlTime": "2026-07-06T08:14:17Z"
+    },
+    "https://metalforge.io/articles/crack-the-skye-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T17:13:59Z"
+    },
+    "https://metalforge.io/articles/cryptic-writings-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:56:54Z"
+    },
+    "https://metalforge.io/articles/damnation-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T23:45:57Z"
+    },
+    "https://metalforge.io/articles/dance-of-death-drum-setup": {
+      "class": "error-404",
+      "verdict": "NEUTRAL",
+      "coverageState": "Not found (404)",
+      "lastCrawlTime": "2026-07-06T08:15:29Z"
+    },
+    "https://metalforge.io/articles/daniel-erlandsson-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/daray-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/darkness-descends-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T15:42:37Z"
+    },
+    "https://metalforge.io/articles/de-mysteriis-dom-sathanas-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T14:18:26Z"
+    },
+    "https://metalforge.io/articles/deadwing-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T23:54:23Z"
+    },
+    "https://metalforge.io/articles/death-below-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:16:24Z"
+    },
+    "https://metalforge.io/articles/death-cult-armageddon-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T00:40:05Z"
+    },
+    "https://metalforge.io/articles/death-magnetic-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:28:31Z"
+    },
+    "https://metalforge.io/articles/deceivers-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T18:28:27Z"
+    },
+    "https://metalforge.io/articles/deftones-self-titled-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:37:12Z"
+    },
+    "https://metalforge.io/articles/deliverance-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T14:06:45Z"
+    },
+    "https://metalforge.io/articles/demanufacture-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T23:51:46Z"
+    },
+    "https://metalforge.io/articles/demigod-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:20:59Z"
+    },
+    "https://metalforge.io/articles/demolition-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T13:27:21Z"
+    },
+    "https://metalforge.io/articles/derek-roddy-hate-eternal-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T13:40:13Z"
+    },
+    "https://metalforge.io/articles/destroy-erase-improve-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T18:03:44Z"
+    },
+    "https://metalforge.io/articles/diabolus-in-musica-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/diamond-eyes-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/digimortal-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T18:47:04Z"
+    },
+    "https://metalforge.io/articles/distance-over-time-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:31:29Z"
+    },
+    "https://metalforge.io/articles/divine-intervention-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-03T17:56:25Z"
+    },
+    "https://metalforge.io/articles/doomsday-machine-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-04T09:58:11Z"
+    },
+    "https://metalforge.io/articles/double-bass-drumming-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T14:16:10Z"
+    },
+    "https://metalforge.io/articles/dream-theater-self-titled-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:06:59Z"
+    },
+    "https://metalforge.io/articles/dystopia-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:21:14Z"
+    },
+    "https://metalforge.io/articles/eaten-back-to-life-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:28:17Z"
+    },
+    "https://metalforge.io/articles/eloy-casagrande-m72-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T18:28:25Z"
+    },
+    "https://metalforge.io/articles/emperor-of-sand-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T17:18:23Z"
+    },
+    "https://metalforge.io/articles/epitaph-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:23:08Z"
+    },
+    "https://metalforge.io/articles/evangelion-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/evisceration-plague-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:16:45Z"
+    },
+    "https://metalforge.io/articles/faceless-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:28:27Z"
+    },
+    "https://metalforge.io/articles/falling-into-infinity-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:05:47Z"
+    },
+    "https://metalforge.io/articles/far-beyond-driven-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/fastest-double-bass-drummers": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T03:01:31Z"
+    },
+    "https://metalforge.io/articles/fear-inoculum-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/fear-of-a-blank-planet-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T20:59:21Z"
+    },
+    "https://metalforge.io/articles/fear-of-the-dark-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:35:08Z"
+    },
+    "https://metalforge.io/articles/final-frontier-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:13:27Z"
+    },
+    "https://metalforge.io/articles/firepower-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:59:38Z"
+    },
+    "https://metalforge.io/articles/focus-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T14:02:12Z"
+    },
+    "https://metalforge.io/articles/follow-the-reaper-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:08:17Z"
+    },
+    "https://metalforge.io/articles/for-all-kings-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:01:21Z"
+    },
+    "https://metalforge.io/articles/formation-of-damnation-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:19:37Z"
+    },
+    "https://metalforge.io/articles/fortitude-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:02:22Z"
+    },
+    "https://metalforge.io/articles/found-in-far-away-places-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T14:16:08Z"
+    },
+    "https://metalforge.io/articles/from-mars-to-sirius-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/frost-satyricon-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-25T11:20:12Z"
+    },
+    "https://metalforge.io/articles/gallery-of-suicide-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:03:48Z"
+    },
+    "https://metalforge.io/articles/gavin-harrison-porcupine-tree-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/gene-hoglan-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/george-kollias-nile-annihilation-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/ghost-reveries-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:01:20Z"
+    },
+    "https://metalforge.io/articles/god-hates-us-all-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:56:53Z"
+    },
+    "https://metalforge.io/articles/godsmack-1000hp-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:03:37Z"
+    },
+    "https://metalforge.io/articles/godsmack-iv-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-04T09:53:28Z"
+    },
+    "https://metalforge.io/articles/gold-cobra-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/gore-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T07:01:37Z"
+    },
+    "https://metalforge.io/articles/gore-obsessed-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:47:30Z"
+    },
+    "https://metalforge.io/articles/great-heathen-army-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:02:16Z"
+    },
+    "https://metalforge.io/articles/great-misdirect-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:31:00Z"
+    },
+    "https://metalforge.io/articles/great-southern-trendkill-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:57:36Z"
+    },
+    "https://metalforge.io/articles/hail-to-the-king-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:06:50Z"
+    },
+    "https://metalforge.io/articles/hannes-grossmann-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T12:20:01Z"
+    },
+    "https://metalforge.io/articles/hardwired-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/hate-crew-deathroll-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T07:01:36Z"
+    },
+    "https://metalforge.io/articles/hatebreeder-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:02:20Z"
+    },
+    "https://metalforge.io/articles/hell-awaits-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:25:52Z"
+    },
+    "https://metalforge.io/articles/hellhammer-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-06-20T10:17:22Z"
+    },
+    "https://metalforge.io/articles/heritage-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T07:04:34Z"
+    },
+    "https://metalforge.io/articles/how-to-play-blast-beats": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/how-to-play-polyrhythm-drums": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-05T06:11:08Z"
+    },
+    "https://metalforge.io/articles/how-to-tune-drums-for-metal": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:23:09Z"
+    },
+    "https://metalforge.io/articles/human-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T07:08:21Z"
+    },
+    "https://metalforge.io/articles/hushed-and-grim-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:01:05Z"
+    },
+    "https://metalforge.io/articles/i-loved-you-at-your-darkest-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T14:17:16Z"
+    },
+    "https://metalforge.io/articles/i-worship-chaos-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T00:40:04Z"
+    },
+    "https://metalforge.io/articles/images-and-words-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-30T07:42:13Z"
+    },
+    "https://metalforge.io/articles/immutable-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:23:39Z"
+    },
+    "https://metalforge.io/articles/in-absentia-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:12:13Z"
+    },
+    "https://metalforge.io/articles/in-cauda-venenum-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T23:44:44Z"
+    },
+    "https://metalforge.io/articles/in-sorte-diaboli-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:20:55Z"
+    },
+    "https://metalforge.io/articles/in-waves-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T12:53:46Z"
+    },
+    "https://metalforge.io/articles/individual-thought-patterns-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:22:05Z"
+    },
+    "https://metalforge.io/articles/inflikted-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T18:02:55Z"
+    },
+    "https://metalforge.io/articles/invincible-shield-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:08:59Z"
+    },
+    "https://metalforge.io/articles/iowa-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/isaac-lamb-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/ithyphallic-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/jane-doe-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:07:04Z"
+    },
+    "https://metalforge.io/articles/jaska-raatikainen-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T23:32:27Z"
+    },
+    "https://metalforge.io/articles/jason-bittner-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:32:36Z"
+    },
+    "https://metalforge.io/articles/jay-weinberg-complete-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/jocke-wallgren-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T22:29:30Z"
+    },
+    "https://metalforge.io/articles/joey-jordison-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/joey-jordison-signature-gear-guide": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T00:19:47Z"
+    },
+    "https://metalforge.io/articles/john-otto-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T07:01:23Z"
+    },
+    "https://metalforge.io/articles/jon-dette-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:23:32Z"
+    },
+    "https://metalforge.io/articles/jugulator-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T14:04:51Z"
+    },
+    "https://metalforge.io/articles/kevin-talley-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/khaos-legions-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T07:14:14Z"
+    },
+    "https://metalforge.io/articles/kill-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:18:35Z"
+    },
+    "https://metalforge.io/articles/kill-em-all-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T23:17:01Z"
+    },
+    "https://metalforge.io/articles/king-of-all-kings-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/koi-no-yokan-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:27:59Z"
+    },
+    "https://metalforge.io/articles/koloss-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T17:11:11Z"
+    },
+    "https://metalforge.io/articles/korn-iii-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T20:07:37Z"
+    },
+    "https://metalforge.io/articles/lamb-of-god-self-titled-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T23:44:42Z"
+    },
+    "https://metalforge.io/articles/lateralus-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:46:30Z"
+    },
+    "https://metalforge.io/articles/leave-scars-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T20:16:15Z"
+    },
+    "https://metalforge.io/articles/lenfant-sauvage-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T07:56:54Z"
+    },
+    "https://metalforge.io/articles/leveler-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T16:49:32Z"
+    },
+    "https://metalforge.io/articles/leviathan-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:08:09Z"
+    },
+    "https://metalforge.io/articles/lighting-up-the-sky-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:27:16Z"
+    },
+    "https://metalforge.io/articles/load-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:15:28Z"
+    },
+    "https://metalforge.io/articles/machine-messiah-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/magma-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:27:43Z"
+    },
+    "https://metalforge.io/articles/mario-duplantier-gear": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/martin-lopez-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-04T09:52:03Z"
+    },
+    "https://metalforge.io/articles/master-of-puppets-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-05T17:48:37Z"
+    },
+    "https://metalforge.io/articles/master-of-reality-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T15:13:14Z"
+    },
+    "https://metalforge.io/articles/matt-greiner-complete-drum-setup": {
+      "class": "crawled-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Crawled - currently not indexed",
+      "lastCrawlTime": "2026-07-03T09:45:03Z"
+    },
+    "https://metalforge.io/articles/messengers-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:22:24Z"
+    },
+    "https://metalforge.io/articles/morgan-agren-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/most-brutal-drum-solos": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T12:23:31Z"
+    },
+    "https://metalforge.io/articles/most-expensive-drum-setups": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/my-arms-your-hearse-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-04T18:23:34Z"
+    },
+    "https://metalforge.io/articles/natural-born-chaos-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/navene-koperweis-weightless-2011": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/nemesis-divina-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/never-say-die-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:17:38Z"
+    },
+    "https://metalforge.io/articles/new-american-gospel-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:02:56Z"
+    },
+    "https://metalforge.io/articles/nick-augusto-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/nick-menza-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T12:11:25Z"
+    },
+    "https://metalforge.io/articles/nightmare-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T15:20:56Z"
+    },
+    "https://metalforge.io/articles/no-heroes-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:35:07Z"
+    },
+    "https://metalforge.io/articles/no-prayer-for-the-dying-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:19:40Z"
+    },
+    "https://metalforge.io/articles/none-so-vile-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:34:02Z"
+    },
+    "https://metalforge.io/articles/nostradamus-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:10:45Z"
+    },
+    "https://metalforge.io/articles/nothing-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T12:47:35Z"
+    },
+    "https://metalforge.io/articles/number-of-the-beast-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-04T23:01:51Z"
+    },
+    "https://metalforge.io/articles/obsolete-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:06:10Z"
+    },
+    "https://metalforge.io/articles/obzen-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/octavarium-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:25:11Z"
+    },
+    "https://metalforge.io/articles/ohms-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:29:33Z"
+    },
+    "https://metalforge.io/articles/omens-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T23:51:46Z"
+    },
+    "https://metalforge.io/articles/once-more-round-the-sun-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T15:22:18Z"
+    },
+    "https://metalforge.io/articles/once-was-not-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:26:47Z"
+    },
+    "https://metalforge.io/articles/opvs-contra-natvram-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T14:13:17Z"
+    },
+    "https://metalforge.io/articles/painkiller-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/pale-communion-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:05:31Z"
+    },
+    "https://metalforge.io/articles/paranoid-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T20:40:43Z"
+    },
+    "https://metalforge.io/articles/path-of-totality-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T16:52:14Z"
+    },
+    "https://metalforge.io/articles/paul-mazurkiewicz-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/periphery-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:28:10Z"
+    },
+    "https://metalforge.io/articles/periphery-ii-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T14:04:30Z"
+    },
+    "https://metalforge.io/articles/periphery-iii-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:07:41Z"
+    },
+    "https://metalforge.io/articles/periphery-iv-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T12:53:40Z"
+    },
+    "https://metalforge.io/articles/periphery-self-titled-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T14:13:22Z"
+    },
+    "https://metalforge.io/articles/periphery-v-aliens-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:27:12Z"
+    },
+    "https://metalforge.io/articles/persistence-of-time-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T23:42:47Z"
+    },
+    "https://metalforge.io/articles/piece-of-mind-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:01:28Z"
+    },
+    "https://metalforge.io/articles/powerslave-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:39:11Z"
+    },
+    "https://metalforge.io/articles/quadra-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:44:27Z"
+    },
+    "https://metalforge.io/articles/raymond-herrera-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/red-before-black-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:03:11Z"
+    },
+    "https://metalforge.io/articles/redeemer-of-souls-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:08:14Z"
+    },
+    "https://metalforge.io/articles/reign-in-blood-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:01:37Z"
+    },
+    "https://metalforge.io/articles/reinventing-the-steel-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:20:54Z"
+    },
+    "https://metalforge.io/articles/relentless-reckless-forever-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T18:02:33Z"
+    },
+    "https://metalforge.io/articles/reload-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:04:59Z"
+    },
+    "https://metalforge.io/articles/remission-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:28:30Z"
+    },
+    "https://metalforge.io/articles/repentless-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:57:38Z"
+    },
+    "https://metalforge.io/articles/requiem-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:03:03Z"
+    },
+    "https://metalforge.io/articles/rescue-and-restore-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T16:50:37Z"
+    },
+    "https://metalforge.io/articles/resolution-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T14:10:48Z"
+    },
+    "https://metalforge.io/articles/results-may-vary-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/ride-the-lightning-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:38:01Z"
+    },
+    "https://metalforge.io/articles/rise-of-the-tyrant-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:22:07Z"
+    },
+    "https://metalforge.io/articles/roots-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T03:40:22Z"
+    },
+    "https://metalforge.io/articles/rust-in-peace-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/ryan-van-poederooyen-deconstruction-2011": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/ryan-van-poederooyen-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/sabbath-bloody-sabbath-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:56:23Z"
+    },
+    "https://metalforge.io/articles/sabotage-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:53:37Z"
+    },
+    "https://metalforge.io/articles/sacrament-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T20:01:24Z"
+    },
+    "https://metalforge.io/articles/satanica-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T12:55:18Z"
+    },
+    "https://metalforge.io/articles/saturday-night-wrist-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T05:04:11Z"
+    },
+    "https://metalforge.io/articles/scenes-from-a-memory-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T21:31:45Z"
+    },
+    "https://metalforge.io/articles/schizophrenia-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T18:38:19Z"
+    },
+    "https://metalforge.io/articles/seasons-in-the-abyss-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:32:02Z"
+    },
+    "https://metalforge.io/articles/senjutsu-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T23:45:44Z"
+    },
+    "https://metalforge.io/articles/serenity-of-suffering-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:27:15Z"
+    },
+    "https://metalforge.io/articles/seventh-son-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:29:53Z"
+    },
+    "https://metalforge.io/articles/shannon-larkin-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T18:08:03Z"
+    },
+    "https://metalforge.io/articles/shogun-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:38:04Z"
+    },
+    "https://metalforge.io/articles/show-no-mercy-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T12:56:23Z"
+    },
+    "https://metalforge.io/articles/significant-other-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:19:42Z"
+    },
+    "https://metalforge.io/articles/six-degrees-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T15:10:46Z"
+    },
+    "https://metalforge.io/articles/skeletal-domain-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T13:22:35Z"
+    },
+    "https://metalforge.io/articles/slaughter-of-the-soul-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:03:43Z"
+    },
+    "https://metalforge.io/articles/slipknot-self-titled-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:30:18Z"
+    },
+    "https://metalforge.io/articles/something-wild-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T18:19:03Z"
+    },
+    "https://metalforge.io/articles/somewhere-in-time-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:31:49Z"
+    },
+    "https://metalforge.io/articles/sorceress-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T15:56:34Z"
+    },
+    "https://metalforge.io/articles/sound-of-perseverance-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/sound-of-white-noise-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:02:35Z"
+    },
+    "https://metalforge.io/articles/south-of-heaven-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T13:34:46Z"
+    },
+    "https://metalforge.io/articles/spiritual-healing-drum-setup": {
+      "class": "error-404",
+      "verdict": "NEUTRAL",
+      "coverageState": "Not found (404)",
+      "lastCrawlTime": "2026-07-06T07:42:57Z"
+    },
+    "https://metalforge.io/articles/spreading-the-disease-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T23:54:48Z"
+    },
+    "https://metalforge.io/articles/st-anger-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:44:10Z"
+    },
+    "https://metalforge.io/articles/stabbing-the-drama-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/state-of-euphoria-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:21:32Z"
+    },
+    "https://metalforge.io/articles/still-life-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:22:59Z"
+    },
+    "https://metalforge.io/articles/stomp-442-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:56:01Z"
+    },
+    "https://metalforge.io/articles/symbolic-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/systematic-chaos-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:27:57Z"
+    },
+    "https://metalforge.io/articles/technical-ecstasy-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T17:01:24Z"
+    },
+    "https://metalforge.io/articles/terra-incognita-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:03:33Z"
+    },
+    "https://metalforge.io/articles/the-apostasy-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/the-astonishing-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T19:18:48Z"
+    },
+    "https://metalforge.io/articles/the-bleeding-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:05:01Z"
+    },
+    "https://metalforge.io/articles/the-dusk-in-us-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T23:49:10Z"
+    },
+    "https://metalforge.io/articles/the-end-so-far-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T13:05:27Z"
+    },
+    "https://metalforge.io/articles/the-gathering-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:46:23Z"
+    },
+    "https://metalforge.io/articles/the-gray-chapter-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:03:36Z"
+    },
+    "https://metalforge.io/articles/the-hunter-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T15:05:51Z"
+    },
+    "https://metalforge.io/articles/the-incident-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T23:45:44Z"
+    },
+    "https://metalforge.io/articles/the-link-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:10:26Z"
+    },
+    "https://metalforge.io/articles/the-mediator-between-head-and-hands-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T17:50:19Z"
+    },
+    "https://metalforge.io/articles/the-nothing-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:54:01Z"
+    },
+    "https://metalforge.io/articles/the-oracle-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T12:44:25Z"
+    },
+    "https://metalforge.io/articles/the-paradigm-shift-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T14:11:21Z"
+    },
+    "https://metalforge.io/articles/the-parallax-ii-future-sequence-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:40:59Z"
+    },
+    "https://metalforge.io/articles/the-satanist-drum-setup": {
+      "class": "error-404",
+      "verdict": "NEUTRAL",
+      "coverageState": "Not found (404)",
+      "lastCrawlTime": "2026-07-06T07:44:43Z"
+    },
+    "https://metalforge.io/articles/the-sick-the-dying-and-the-dead-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T19:27:02Z"
+    },
+    "https://metalforge.io/articles/the-war-within-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T14:17:17Z"
+    },
+    "https://metalforge.io/articles/the-way-of-all-flesh-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T03:28:47Z"
+    },
+    "https://metalforge.io/articles/the-wretched-spawn-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T18:31:47Z"
+    },
+    "https://metalforge.io/articles/thelema-6-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:04:09Z"
+    },
+    "https://metalforge.io/articles/those-whom-the-gods-detest-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:25:27Z"
+    },
+    "https://metalforge.io/articles/threads-of-life-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T12:55:25Z"
+    },
+    "https://metalforge.io/articles/three-dollar-bill-yall-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/tim-yeung-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T08:03:21Z"
+    },
+    "https://metalforge.io/articles/time-does-not-heal-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:16:44Z"
+    },
+    "https://metalforge.io/articles/titans-of-creation-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:02:20Z"
+    },
+    "https://metalforge.io/articles/tomb-of-the-mutilated-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/torture-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T14:19:58Z"
+    },
+    "https://metalforge.io/articles/traced-in-air-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/train-of-thought-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:22:15Z"
+    },
+    "https://metalforge.io/articles/travis-orbin-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:50:54Z"
+    },
+    "https://metalforge.io/articles/trivium-in-the-court-of-the-dragon-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:28:28Z"
+    },
+    "https://metalforge.io/articles/trivium-sin-and-the-sentence-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-04T07:27:44Z"
+    },
+    "https://metalforge.io/articles/trivium-what-the-dead-men-say-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T12:44:12Z"
+    },
+    "https://metalforge.io/articles/undertow-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T01:22:26Z"
+    },
+    "https://metalforge.io/articles/unspoken-king-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T14:27:56Z"
+    },
+    "https://metalforge.io/articles/vengeance-falls-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T17:57:38Z"
+    },
+    "https://metalforge.io/articles/vii-sturm-und-drang-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:01:58Z"
+    },
+    "https://metalforge.io/articles/vile-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:31:02Z"
+    },
+    "https://metalforge.io/articles/vile-nilotic-rites-drum-setup": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/violence-unimagined-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T14:10:40Z"
+    },
+    "https://metalforge.io/articles/violent-sleep-of-reason-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T19:23:08Z"
+    },
+    "https://metalforge.io/articles/virtual-xi-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:03:52Z"
+    },
+    "https://metalforge.io/articles/vol-3-the-subliminal-verses-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T16:50:57Z"
+    },
+    "https://metalforge.io/articles/vol-4-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T15:06:34Z"
+    },
+    "https://metalforge.io/articles/vol3-subliminal-verses-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T14:50:33Z"
+    },
+    "https://metalforge.io/articles/volume-8-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:23:08Z"
+    },
+    "https://metalforge.io/articles/vulgar-display-of-power-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T12:10:50Z"
+    },
+    "https://metalforge.io/articles/wages-of-sin-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T19:04:04Z"
+    },
+    "https://metalforge.io/articles/war-eternal-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T19:10:09Z"
+    },
+    "https://metalforge.io/articles/watershed-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:38:05Z"
+    },
+    "https://metalforge.io/articles/we-are-not-your-kind-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:19:37Z"
+    },
+    "https://metalforge.io/articles/weve-come-for-you-all-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:05:14Z"
+    },
+    "https://metalforge.io/articles/whats-in-abe-cunninghams-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-alex-bents-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-art-cruzs-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T06:56:37Z"
+    },
+    "https://metalforge.io/articles/whats-in-bill-wards-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-brann-dailors-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:36:19Z"
+    },
+    "https://metalforge.io/articles/whats-in-charlie-benantes-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T22:57:09Z"
+    },
+    "https://metalforge.io/articles/whats-in-chris-adlers-kit": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-danny-careys-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T12:12:35Z"
+    },
+    "https://metalforge.io/articles/whats-in-dave-lombardos-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-derek-roddys-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-dirk-verbeurens-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:44:13Z"
+    },
+    "https://metalforge.io/articles/whats-in-eloy-casagrandes-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-flo-mouniers-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:16:42Z"
+    },
+    "https://metalforge.io/articles/whats-in-gavin-harrisons-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-gene-hoglans-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T07:37:32Z"
+    },
+    "https://metalforge.io/articles/whats-in-george-kollias-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-igor-cavaleras-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-infernos-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-joey-jordisons-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T21:29:42Z"
+    },
+    "https://metalforge.io/articles/whats-in-lars-ulrichs-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-mario-duplantiers-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-matt-garstkas-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-25T11:19:32Z"
+    },
+    "https://metalforge.io/articles/whats-in-matt-halperns-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-25T12:31:09Z"
+    },
+    "https://metalforge.io/articles/whats-in-mike-manginis-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-mike-portnoys-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T12:17:48Z"
+    },
+    "https://metalforge.io/articles/whats-in-mikkey-dees-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-navene-koperweiss-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T10:23:15Z"
+    },
+    "https://metalforge.io/articles/whats-in-nicko-mcbrains-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-paul-bostaphs-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-pete-sandovals-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-ray-luziers-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-01T05:48:00Z"
+    },
+    "https://metalforge.io/articles/whats-in-richard-christys-kit": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:00:20Z"
+    },
+    "https://metalforge.io/articles/whats-in-scott-travis-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-sean-reinerts-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-tomas-haakes-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/whats-in-vinnie-pauls-kit": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/when-legends-rise-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T17:22:15Z"
+    },
+    "https://metalforge.io/articles/whisper-supremacy-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T19:14:19Z"
+    },
+    "https://metalforge.io/articles/white-pony-drum-setup": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/articles/will-to-power-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T12:47:32Z"
+    },
+    "https://metalforge.io/articles/world-painted-blood-drum-setup": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-02T13:07:38Z"
+    },
+    "https://metalforge.io/articles/worship-music-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-02T13:29:21Z"
+    },
+    "https://metalforge.io/articles/wrath-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:22:52Z"
+    },
+    "https://metalforge.io/articles/you-fail-me-drum-setup": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T13:39:15Z"
+    },
+    "https://metalforge.io/articles/youthanasia-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T13:23:03Z"
+    },
+    "https://metalforge.io/articles/zos-kia-cultus-drum-setup": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T00:01:03Z"
+    },
+    "https://metalforge.io/bands": {
+      "class": "redirect-or-canonical",
+      "verdict": "NEUTRAL",
+      "coverageState": "Alternate page with proper canonical tag",
+      "lastCrawlTime": "2026-07-01T19:14:51Z"
+    },
+    "https://metalforge.io/battles": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/birthdays": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T03:20:26Z"
+    },
+    "https://metalforge.io/bpm-tap": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/brands": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-05T20:16:40Z"
+    },
+    "https://metalforge.io/compare": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-06T00:05:39Z"
+    },
+    "https://metalforge.io/drummers": {
+      "class": "crawled-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Crawled - currently not indexed",
+      "lastCrawlTime": "2026-06-22T03:39:19Z"
+    },
+    "https://metalforge.io/drummers/abe-cunningham/gear-history": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/abe-cunningham/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/adrian-erlandsson/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/alex-bent/gear-history": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-04T08:55:41Z"
+    },
+    "https://metalforge.io/drummers/alex-bent/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/aquiles-priester/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/aquiles-priester/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/arin-ilejay/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/arin-ilejay/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/art-cruz/gear-history": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:48:43Z"
+    },
+    "https://metalforge.io/drummers/art-cruz/licks": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/ben-koller/gear-history": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T18:31:25Z"
+    },
+    "https://metalforge.io/drummers/ben-koller/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/bill-ward/gear-history": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/bill-ward/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T17:27:00Z"
+    },
+    "https://metalforge.io/drummers/blake-richardson/gear-history": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/blake-richardson/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/brann-dailor/gear-history": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-03T07:24:24Z"
+    },
+    "https://metalforge.io/drummers/brann-dailor/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/charlie-benante/gear-history": {
+      "class": "duplicate",
+      "verdict": "NEUTRAL",
+      "coverageState": "Duplicate without user-selected canonical",
+      "lastCrawlTime": "2026-07-03T18:29:28Z"
+    },
+    "https://metalforge.io/drummers/charlie-benante/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-27T23:59:45Z"
+    },
+    "https://metalforge.io/drummers/chris-adler/gear-history": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-07-02T22:50:33Z"
+    },
+    "https://metalforge.io/drummers/chris-adler/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T00:03:14Z"
+    },
+    "https://metalforge.io/drummers/chris-turner/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/chris-turner/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/daniel-erlandsson/gear-history": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/daniel-erlandsson/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/danny-carey/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/danny-carey/licks": {
+      "class": "indexed",
+      "verdict": "PASS",
+      "coverageState": "Submitted and indexed",
+      "lastCrawlTime": "2026-06-28T03:02:20Z"
+    },
+    "https://metalforge.io/drummers/daray/gear-history": {
+      "class": "unknown",
+      "verdict": "NEUTRAL",
+      "coverageState": "URL is unknown to Google",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/daray/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/dave-lombardo/gear-history": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    },
+    "https://metalforge.io/drummers/dave-lombardo/licks": {
+      "class": "discovered-not-indexed",
+      "verdict": "NEUTRAL",
+      "coverageState": "Discovered - currently not indexed",
+      "lastCrawlTime": null
+    }
+  }
+}

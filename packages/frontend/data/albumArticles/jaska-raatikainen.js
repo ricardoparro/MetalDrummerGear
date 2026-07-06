@@ -3691,6 +3691,846 @@ export const articles = {
       "title": "The DW Era Begins: I Worship Chaos and the Late CoB Chapter",
       "content": "*I Worship Chaos* (2015) is a transitional record in the truest sense — not just musically, but in the physical instruments Jaska Raatikainen brought to Sonic Pump Studios. The DW Collector's Series and DW 9000 double pedal marked the end of a decade-long Pearl Masters relationship and the beginning of a new gear chapter for late-era Children of Bodom. Combined with Mikko Karmila's fresh production approach replacing Anssi Kippo's long-established CoB blueprint, the album documented more simultaneous change than any previous CoB studio record.\n\nWhat makes *I Worship Chaos* worth studying as a drum record is precisely this confluence of change: a seasoned drummer bringing a new instrument to a familiar room with a new producer, and the characteristic adjustments that result. The DW Collector's Series' warmer shell character, the DW 9000's different pedal mechanism, and Karmila's approach to capturing both produced a drum sound that is unambiguously CoB — the neoclassical fill language, the double-kick authority, the dynamic architecture are all present — but in a tonal character that is distinctly different from all Pearl-era recordings.\n\n**For Drummers Studying I Worship Chaos:**\nStart with \"I Worship Chaos\" to hear the DW Collector's Series in its aggressive context: compare the tom fill character and kick presence directly to \"Shovel Knockout\" from *Relentless Reckless Forever* — the closest Pearl MCX reference — and the DW shell transition becomes immediately audible. Then listen to \"Morrigan\" for the DW Collector's in its natural melodic territory: the warmer shell resonance serving the mid-paced arrangement with a rounded body that the Pearl MCX's attack-forward character would not have delivered in the same way.\n\nFor the complete picture of Jaska Raatikainen's gear arc — from the Tama era through the decade-long Pearl Masters period and into the DW chapter of *I Worship Chaos* — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Follow the Reaper drum setup article](/articles/follow-the-reaper-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup)."
     }
+  },
+  "halo-of-blood-drum-setup": {
+    "slug": "halo-of-blood-drum-setup",
+    "albumTitle": "Halo of Blood",
+    "artist": "Children of Bodom",
+    "drummer": "Jaska Raatikainen",
+    "drummerId": 55,
+    "relatedDrummerSlug": "jaska-raatikainen",
+    "band": "Children of Bodom",
+    "bands": ["Children of Bodom"],
+    "year": 2013,
+    "genre": "Melodic Death Metal",
+    "country": "Finland",
+    "label": "Nuclear Blast",
+    "studio": "Sonic Pump Studios, Helsinki, Finland",
+    "producer": "Anssi Kippo",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-06",
+    "dateModified": "2026-07-06",
+    "author": "MetalForge Editorial",
+    "title": "Halo of Blood Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2013 Album",
+    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Halo of Blood (2013). Complete breakdown of the Pearl Masters MCX kit, Zildjian A Custom and K Custom cymbals, and Pearl Eliminator double pedal behind CoB's eighth studio album.",
+    "seoKeywords": [
+      "halo of blood drums",
+      "jaska raatikainen halo of blood drum setup",
+      "children of bodom 2013 drum kit",
+      "jaska raatikainen pearl masters mcx 2013",
+      "halo of blood recording gear",
+      "jaska raatikainen zildjian a custom 2013",
+      "children of bodom eighth album drums",
+      "jaska raatikainen pearl eliminator halo of blood"
+    ],
+    "ogImage": "/images/albums/halo-of-blood-drums.webp",
+    "intro": {
+      "title": "The Pearl Era's Final Word: The Drum Kit Behind Halo of Blood",
+      "content": "Released on June 7, 2013, Halo of Blood is Children of Bodom's eighth full-length album and, in hindsight, the closing chapter of Jaska Raatikainen's decade-long Pearl Masters relationship. Recorded once again at Sonic Pump Studios in Helsinki with longtime producer Anssi Kippo, the album arrived two years after Relentless Reckless Forever (2011) and delivered a drum performance built on total familiarity with every piece of hardware in Raatikainen's rig.\n\nFor Jaska Raatikainen, Halo of Blood meant no gear changes at all — a rare stretch of stability in a catalog otherwise marked by steady equipment evolution. The Pearl Masters MCX shells that had reached their refined form on Relentless Reckless Forever carried over unchanged, paired with the same settled Zildjian A Custom and K Custom cymbal configuration and the same Pearl Eliminator double pedal that had anchored his double-kick work since Are You Dead Yet? (2005). Where earlier albums documented transition or refinement, Halo of Blood documents pure consolidation: eight years of Pearl ownership distilled into the tightest, most economical drum performance of the band's Nuclear Blast era.\n\nOpener \"Waste of Skin\" throws the full Pearl Eliminator authority at the listener from the first bar, while the title track \"Halo of Blood\" balances that aggression with the melodic tom phrasing that has defined Raatikainen's playing since Hatebreeder (1999). This article breaks down every component of Raatikainen's setup on Halo of Blood — the Pearl Masters MCX shells, the Zildjian cymbal configuration, the Pearl Eliminator double pedal, and the Sonic Pump Studios session that closed out the Pearl Masters decade before the DW Collector's Series transition on I Worship Chaos (2015).",
+      "keyPoints": [
+        "Released June 7, 2013 — Children of Bodom's eighth studio album on Nuclear Blast",
+        "Recorded at Sonic Pump Studios, Helsinki, with producer Anssi Kippo — the same team behind Blooddrunk and Relentless Reckless Forever",
+        "Pearl Masters MCX kit carried over unchanged from Relentless Reckless Forever (2011) — the Pearl era's final configuration",
+        "Zildjian A Custom and K Custom cymbals — the same settled setup running since Are You Dead Yet? (2005)",
+        "Pearl Eliminator double pedal — eight years of continuous use behind the double-kick work on \"Waste of Skin\"",
+        "Last Children of Bodom album on Pearl Masters before the DW Collector's Series transition on I Worship Chaos (2015)"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Masters MCX: No Changes Needed",
+      "brand": "Pearl",
+      "model": "Pearl Masters MCX",
+      "finish": "Custom finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" x 9\" Rack Tom",
+          "12\" x 10\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "MCX multi-ply maple construction — Pearl Masters MCX grade"
+      },
+      "description": "For Halo of Blood, Jaska Raatikainen played the identical Pearl Masters MCX configuration that had defined Relentless Reckless Forever (2011) — the same twin 22\" x 18\" bass drums, the same compact 10\"/12\" rack tom and 14\"/16\" floor tom spread, and the same MCX multi-ply maple shell construction. After the Premium Maple-to-MCX evolution documented across Are You Dead Yet? and Blooddrunk, there was simply nothing left to refine: the MCX shells had already reached the attack-forward, tightly controlled voice that suited CoB's melodic death metal arrangements.\n\nAt Sonic Pump Studios, Anssi Kippo's fourth session with this exact Pearl configuration meant zero adjustment period — mic placement, gain staging, and EQ treatment for the MCX shells were fully solved problems by 2013. That institutional knowledge is audible in how quickly the kit sits in the mix on Halo of Blood: no track requires the shells to be reintroduced to the listener, because the sound is already a known quantity from three prior albums.\n\nThe double bass drum setup carried the album's most demanding passages, particularly on opener \"Waste of Skin,\" where the MCX shells' controlled sustain kept the kick drums articulate even at the track's highest tempo. The tom spread continued to serve Raatikainen's melodic fill vocabulary — phrases that track Janne Wirman's keyboard lines and Alexi Laiho's guitar work with the same compositional precision established across the entire Pearl era.",
+      "notes": [
+        "Pearl Masters MCX — unchanged from Relentless Reckless Forever, no shell adjustments needed",
+        "Fourth consecutive Kippo-produced Sonic Pump session with this exact kit — zero adjustment period",
+        "Double 22\" x 18\" bass drums drive \"Waste of Skin\" — the album's fastest, most demanding track",
+        "Compact tom spread (10\", 12\", 14\", 16\") continues the melodic fill language refined since Hatebreeder",
+        "Final studio album on Pearl Masters before the DW Collector's Series transition on I Worship Chaos"
+      ],
+      "estimatedValue": "$2,400–4,800 (Pearl Masters MCX shell pack, 2013)"
+    },
+    "snare": {
+      "title": "Pearl Masters 14\" x 5.5\" MCX Snare",
+      "brand": "Pearl",
+      "model": "Pearl Masters 14\" x 5.5\" MCX Snare",
+      "size": "14\" x 5.5\"",
+      "shell": "MCX maple — Pearl Masters-grade construction",
+      "description": "Raatikainen's snare on Halo of Blood was the same Pearl Masters MCX model that had served Relentless Reckless Forever — a 14\" x 5.5\" maple shell delivering the focused crack and controlled sustain that had become the default CoB snare voice by 2013. No tuning philosophy changed between the two albums; the snare's role across \"Waste of Skin\"'s high-velocity backbeat work and the more measured verses of \"Transference\" required the same attack-forward, cleanly defined character established years earlier.\n\nKippo's treatment of the MCX snare at Sonic Pump Studios reflected eight years of accumulated knowledge with Raatikainen's Pearl gear: close-miked signal with compression and EQ dialed to a sound the production team had already committed to tape three times before. The result is a snare tone that sits in the mix with total confidence rather than experimentation.",
+      "tuningSetting": "Medium-bright — attack priority maintained for aggressive passages, controlled body for dynamic range",
+      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$400–620 (Pearl Masters MCX snare, 2013)"
+    },
+    "cymbals": {
+      "title": "Zildjian A Custom and K Custom: Eight Years Unchanged",
+      "brand": "Zildjian",
+      "series": "Zildjian A Custom / Zildjian K Custom",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian A Custom 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Same pair used since Are You Dead Yet? (2005) — bright, defined articulation at CoB tempos"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 17\" Crash",
+          "position": "Left of hi-hats",
+          "notes": "Fast attack, brilliant finish — cuts cleanly through keyboard-heavy arrangements"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 18\" Crash",
+          "position": "Right of rack toms",
+          "notes": "Fuller crash for section endings and intensity peaks across Halo of Blood's tracklist"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian K Custom 20\" Ride",
+          "position": "Far right",
+          "notes": "Darker bell character for textural contrast with A Custom crashes in dynamic passages"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A Custom 18\" China",
+          "position": "Above floor tom",
+          "notes": "Bright China accent for riff transitions — consistent CoB signature deployment since Blooddrunk"
+        }
+      ],
+      "description": "Jaska Raatikainen's Zildjian A Custom and K Custom cymbal setup on Halo of Blood was carried over without modification from Relentless Reckless Forever — the same configuration that had first appeared on Are You Dead Yet? (2005) and been refined through Blooddrunk (2008), now in its eighth year of continuous use.\n\nThe A Custom series' bright, cutting character remained the correct tool for CoB's dense, keyboard-driven production: the 14\" hi-hats and 17\"/18\" crashes register clearly against Janne Wirman's synth layers without needing corrective EQ, exactly as they had on the three previous Pearl-era albums. By Halo of Blood, the placement precision of every crash hit reflects a drummer who has spent nearly a decade learning the exact voice of each cymbal in every song context.\n\nThe K Custom 20\" ride continued its role as the warmer counterpoint to the brighter A Custom crashes, particularly audible in \"Transference\" and \"Damaged Beyond Repair,\" where the ride's darker bell tone supports the album's more melodic, mid-tempo passages. The A Custom China above the floor tom marks structural transitions across the record with the same signature deployment pattern established on Blooddrunk and carried through Relentless Reckless Forever.",
+      "estimatedValue": "$1,500–2,100 (full Zildjian A Custom / K Custom setup, 2013)"
+    },
+    "hardware": {
+      "title": "Pearl Eliminator: Eight Years of Total Command",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator Double Pedal",
+          "notes": "Eight years into the Pearl endorsement — the most deeply familiar pedal in Raatikainen's entire career",
+          "description": "The Pearl Eliminator double pedal on Halo of Blood represented the peak of Raatikainen's command over any single piece of hardware in his career: eight years of continuous use since Are You Dead Yet? (2005) had made the Eliminator's cam geometry and chain-drive response completely second nature.\n\n\"Waste of Skin\" opens the album with the Eliminator at full authority — sustained double-kick patterns delivered with a mechanical precision that only a fully internalized pedal response can produce. The cam setting by 2013 would have required no further adjustment; every tempo and dynamic scenario across Halo of Blood's tracklist had already been rehearsed and recorded with this exact pedal on the two previous Pearl-era albums."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5A",
+          "notes": "Consistent through the entire Pearl era — balance of tip speed for fills and leverage for power strokes",
+          "description": "The Vic Firth American Classic 5A remained Raatikainen's stick of choice through the Halo of Blood sessions — unchanged since the earliest Pearl-era recordings and well suited to the album's mix of high-velocity passages and melodic dynamic range."
+        },
+        {
+          "type": "Drumheads (Toms, Batter)",
+          "brand": "Remo",
+          "model": "Remo Emperor Coated",
+          "notes": "Two-ply construction for durability and controlled sustain — consistent across the full Pearl era"
+        },
+        {
+          "type": "Drumheads (Bass, Batter)",
+          "brand": "Remo",
+          "model": "Remo Powerstroke 3",
+          "notes": "Focused attack and controlled low-end resonance for double-kick definition in keyboard-heavy mix"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Powerstroke 3 (resonant)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Recording at Sonic Pump: The Pearl Era's Last Session",
+      "content": "Halo of Blood was the fourth Children of Bodom album recorded at Sonic Pump Studios in Helsinki with producer Anssi Kippo — and, though no one knew it at the time, the last one to feature the Pearl Masters MCX kit that had defined the room's drum sound since Are You Dead Yet? (2005). By 2013, the Kippo/Sonic Pump/Pearl combination was as close to a solved equation as CoB's studio process had ever been.\n\nA Fully Solved Pearl Sound: With identical gear to Relentless Reckless Forever and a fourth consecutive session in the same room, Kippo's mic placement and signal chain for the MCX shells required no experimentation. The attack-forward transient of the MCX kit translated to tape with the same clarity as it had in 2011, allowing the production focus to shift entirely to performance rather than tone-chasing.\n\nDouble-Kick Treatment at Full Maturity: \"Waste of Skin\"'s relentless double-kick passages received the same EQ approach as Relentless Reckless Forever's \"Shovel Knockout\" — attack transient prioritized for intelligibility, low end managed to avoid competing with Janne Wirman's keyboard bass content. The Powerstroke 3 heads' well-understood character required minimal correction.\n\nCymbal Balance in a Known Room: The A Custom/K Custom balance that Kippo had refined across three prior albums carried over exactly: A Custom brightness in the high-mid register, K Custom ride warmth reserved for the more melodic passages like \"Transference\" and \"Damaged Beyond Repair.\"",
+      "keyTechniques": [
+        "Fourth consecutive CoB album at Sonic Pump with Kippo — mic placement and signal chain fully solved",
+        "Identical Pearl MCX gear to Relentless Reckless Forever eliminates any tone-chasing in the session",
+        "Kick EQ treatment mirrors the established Eliminator/Powerstroke 3 approach from prior Pearl-era albums",
+        "A Custom/K Custom cymbal balance carried over unchanged from three previous Sonic Pump sessions"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Waste of Skin",
+        "bpm": "185",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener — showcases the Pearl Eliminator double pedal at the peak of eight years' familiarity",
+          "A Custom hi-hat articulation stays clean and precise through the track's fastest double-kick runs",
+          "MCX shell attack character drives the kick and snare presence from the first bar",
+          "Structural China cymbal placement on riff transitions, consistent with the Blooddrunk/RRF pattern"
+        ],
+        "gearNotes": "\"Waste of Skin\" is the primary double-kick showcase on Halo of Blood — the Pearl Eliminator's deeply grooved cam setting delivers consistent, high-velocity impact from the album's very first bar."
+      },
+      {
+        "track": "Halo of Blood",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "Title track — balances aggression with the melodic tom phrasing central to Raatikainen's style",
+          "K Custom ride prominent under the chorus's keyboard-driven melodic sections",
+          "Tom fills track Janne Wirman's keyboard lines with the same compositional precision as earlier albums",
+          "Snare work spans full-velocity backbeats to controlled ghost notes across the verse/chorus structure"
+        ],
+        "gearNotes": "The title track is the clearest single-song summary of the Pearl era's final form: MCX attack, settled A Custom/K Custom cymbal balance, and Eliminator confidence all present in one arrangement."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Jaska Raatikainen use on Halo of Blood?",
+        "answer": "On Halo of Blood (2013), Jaska Raatikainen used Pearl Masters MCX drums — the identical shell configuration that had defined Relentless Reckless Forever (2011), carried over without changes. The setup centered on twin 22\" x 18\" bass drums, rack toms (10\" and 12\"), and floor toms (14\" and 16\") in the MCX's multi-ply maple construction. For Raatikainen's complete gear history across Children of Bodom's career, see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen)."
+      },
+      {
+        "question": "What pedals did Jaska Raatikainen use on Halo of Blood?",
+        "answer": "Jaska Raatikainen used the Pearl Eliminator double pedal on Halo of Blood (2013) — the same pedal in use since Are You Dead Yet? (2005), by this point eight years into total familiarity. The Eliminator's cam geometry and chain-drive response are audible at their most confident on \"Waste of Skin.\" See the [Relentless Reckless Forever drum setup](/articles/relentless-reckless-forever-drum-setup) for the pedal's prior-album context."
+      },
+      {
+        "question": "What cymbals did Jaska Raatikainen use on Halo of Blood?",
+        "answer": "On Halo of Blood (2013), Jaska Raatikainen used Zildjian A Custom and K Custom cymbals — A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China. This was the same settled configuration in place since Are You Dead Yet? (2005), unchanged from Relentless Reckless Forever (2011). For the full kit history, see the [Jaska Raatikainen full kit guide](/articles/jaska-raatikainen-drum-setup)."
+      },
+      {
+        "question": "How does Halo of Blood fit in the Children of Bodom drum setup arc?",
+        "answer": "Halo of Blood (2013) is the final Children of Bodom studio album on the Pearl Masters MCX kit — it carries the exact gear configuration from Relentless Reckless Forever (2011) unchanged, closing out an eight-year Pearl endorsement era that began on Are You Dead Yet? (2005). It directly precedes I Worship Chaos (2015), where Raatikainen transitioned to the DW Collector's Series. See the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for what came next."
+      }
+    ],
+    "evolution": {
+      "title": "The Pearl Era's Last Word: Halo of Blood in the CoB Gear Arc",
+      "content": "Halo of Blood (2013) occupies a distinct place in Jaska Raatikainen's gear history: the only Pearl-era CoB album that introduced no new equipment whatsoever, arriving as the pure consolidation of everything established across Are You Dead Yet? (2005), Blooddrunk (2008), and Relentless Reckless Forever (2011).\n\nThe Pearl Masters Decade, Completed (2005–2013): From the Premium Maple debut on Are You Dead Yet? through the MCX refinement on Relentless Reckless Forever, Raatikainen's Pearl Masters kit had spent eight years evolving toward its most controlled, attack-forward voice. Halo of Blood is the record that simply plays that finished instrument, with the Zildjian A Custom/K Custom cymbals and Pearl Eliminator pedal equally settled.\n\nThe Turning Point Ahead (2015): Neither the band nor Raatikainen could have known in 2013 that Halo of Blood would be the last Pearl Masters album. I Worship Chaos (2015) introduced the DW Collector's Series and DW 9000 double pedal — the most significant gear transition of Raatikainen's career, arriving alongside a new producer in Mikko Karmila. See the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for the full account of that transition.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Pearl Masters MCX (Relentless Reckless Forever 2011)",
+          "now": "Pearl Masters MCX (Halo of Blood 2013 — unchanged)"
+        },
+        {
+          "category": "Snare",
+          "then": "Pearl Masters MCX 14\" x 5.5\"",
+          "now": "Pearl Masters MCX 14\" x 5.5\" (consistent)"
+        },
+        {
+          "category": "Hi-Hats",
+          "then": "Zildjian A Custom 14\"",
+          "now": "Zildjian A Custom 14\" (consistent)"
+        },
+        {
+          "category": "Crashes",
+          "then": "Zildjian A Custom 17\" and 18\"",
+          "now": "Zildjian A Custom 17\" and 18\" (consistent)"
+        },
+        {
+          "category": "Ride",
+          "then": "Zildjian K Custom 20\"",
+          "now": "Zildjian K Custom 20\" (consistent)"
+        },
+        {
+          "category": "Pedals",
+          "then": "Pearl Eliminator Double (six years confidence)",
+          "now": "Pearl Eliminator Double (eight years, final Pearl-era album)"
+        },
+        {
+          "category": "Sticks",
+          "then": "Vic Firth American Classic 5A",
+          "now": "Vic Firth American Classic 5A"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "relentless-reckless-forever-drum-setup",
+      "i-worship-chaos-drum-setup",
+      "blooddrunk-drum-setup",
+      "follow-the-reaper-drum-setup",
+      "jaska-raatikainen-drum-setup"
+    ],
+    "relatedDrummers": [
+      55
+    ],
+    "relatedArticles": [
+      "jaska-raatikainen-drum-setup",
+      "relentless-reckless-forever-drum-setup",
+      "i-worship-chaos-drum-setup",
+      "blooddrunk-drum-setup",
+      "follow-the-reaper-drum-setup"
+    ],
+    "relatedLicks": [],
+    "internalLinks": [
+      {
+        "text": "Jaska Raatikainen drummer profile",
+        "url": "/drummer/jaska-raatikainen"
+      },
+      {
+        "text": "Children of Bodom band page",
+        "url": "/band/children-of-bodom"
+      },
+      {
+        "text": "Jaska Raatikainen full kit guide",
+        "url": "/articles/jaska-raatikainen-drum-setup"
+      },
+      {
+        "text": "Relentless Reckless Forever drum setup (2011)",
+        "url": "/articles/relentless-reckless-forever-drum-setup"
+      },
+      {
+        "text": "I Worship Chaos drum setup (2015)",
+        "url": "/articles/i-worship-chaos-drum-setup"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Halo of Blood Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's 2013 Album",
+          "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Halo of Blood (2013). Complete breakdown of the Pearl Masters MCX kit, Zildjian A Custom and K Custom cymbals, and Pearl Eliminator double pedal.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-06",
+          "dateModified": "2026-07-06"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Halo of Blood",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Children of Bodom"
+          },
+          "datePublished": "2013-06-07",
+          "genre": "Melodic Death Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Nuclear Blast"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Waste of Skin"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Halo of Blood"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Scream for Silence"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Transference"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Bodom Blue Moon (The Second Coming)"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "The Days Are Numbered"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Dead Men's Hand on You"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Damaged Beyond Repair"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "All Twisted"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "One Bottle and a Knee Deep"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Jaska Raatikainen",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Children of Bodom"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drums did Jaska Raatikainen use on Halo of Blood?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Halo of Blood (2013), Jaska Raatikainen used Pearl Masters MCX drums — the identical shell configuration from Relentless Reckless Forever (2011), carried over unchanged. The setup centered on twin 22\" x 18\" bass drums with rack toms (10\" and 12\") and floor toms (14\" and 16\")."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What pedals did Jaska Raatikainen use on Halo of Blood?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jaska Raatikainen used the Pearl Eliminator double pedal on Halo of Blood (2013) — the same pedal established on Are You Dead Yet? (2005), by this point eight years into total familiarity. The double-kick authority on \"Waste of Skin\" reflects the deepest Eliminator confidence of Raatikainen's Pearl-era catalog."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals did Jaska Raatikainen use on Halo of Blood?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jaska Raatikainen used Zildjian A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China on Halo of Blood (2013). This was the same settled configuration established on Are You Dead Yet? (2005) and unchanged from Relentless Reckless Forever (2011)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How does Halo of Blood fit in the Children of Bodom drum setup arc?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Halo of Blood (2013) is the final CoB studio album on Pearl Masters MCX — it carries the Relentless Reckless Forever (2011) gear configuration unchanged, closing an eight-year Pearl endorsement era that began on Are You Dead Yet? (2005) and directly precedes the DW Collector's Series transition on I Worship Chaos (2015)."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "Consolidation, Not Change: Halo of Blood and the End of the Pearl Era",
+      "content": "Halo of Blood (2013) is the rare Jaska Raatikainen album that introduces nothing new — no shell upgrade, no cymbal swap, no pedal change. Instead, it captures eight years of Pearl Masters, Zildjian, and Eliminator familiarity distilled into the most confident, economical drum performance of CoB's Nuclear Blast era, recorded for the fourth straight time with Anssi Kippo at Sonic Pump Studios.\n\nWhat makes Halo of Blood worth studying is exactly this absence of drama: \"Waste of Skin\" delivers the Pearl Eliminator at total command from the album's opening bar, and the title track balances that aggression with the melodic tom language Raatikainen had been refining since Hatebreeder (1999). Neither track needed to reintroduce the listener to new gear — every component was already a known quantity.\n\nFor Drummers Studying Halo of Blood: Start with \"Waste of Skin\" for the Pearl Eliminator at its most assured, then compare directly to \"Shovel Knockout\" from Relentless Reckless Forever to hear how little changed between the two albums — deliberately so. Then listen to the title track for the MCX kit's melodic side, tracking Janne Wirman's keyboard lines with the same compositional precision found throughout the Pearl era.\n\nFor the complete picture of Jaska Raatikainen's gear arc — including what came immediately after this album — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [Relentless Reckless Forever drum setup](/articles/relentless-reckless-forever-drum-setup), and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup), which documents the DW Collector's Series transition that followed."
+    }
+  },
+  "hexed-drum-setup": {
+    "slug": "hexed-drum-setup",
+    "albumTitle": "Hexed",
+    "artist": "Children of Bodom",
+    "drummer": "Jaska Raatikainen",
+    "drummerId": 55,
+    "relatedDrummerSlug": "jaska-raatikainen",
+    "band": "Children of Bodom",
+    "bands": ["Children of Bodom"],
+    "year": 2019,
+    "genre": "Melodic Death Metal",
+    "country": "Finland",
+    "label": "Nuclear Blast",
+    "studio": "Sonic Pump Studios, Helsinki, Finland",
+    "producer": "Mikko Karmila",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-06",
+    "dateModified": "2026-07-06",
+    "author": "MetalForge Editorial",
+    "title": "Hexed Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's Final Album",
+    "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hexed (2019). Complete breakdown of the DW Collector's Series kit, Zildjian A Custom and K Custom cymbals, and DW 9000 double pedal behind CoB's tenth and final studio album.",
+    "seoKeywords": [
+      "hexed drums",
+      "jaska raatikainen hexed drum setup",
+      "children of bodom 2019 drum kit",
+      "jaska raatikainen dw collectors series hexed",
+      "hexed recording gear",
+      "jaska raatikainen zildjian 2019",
+      "children of bodom final album drums",
+      "jaska raatikainen dw 9000 hexed"
+    ],
+    "ogImage": "/images/albums/hexed-drums.webp",
+    "intro": {
+      "title": "The Final Recording: The Drum Kit Behind Hexed",
+      "content": "Released on March 8, 2019, Hexed is Children of Bodom's tenth and, as it turned out, final studio album. Recorded at Sonic Pump Studios in Helsinki with producer Mikko Karmila — continuing the partnership established on I Worship Chaos (2015) — the record documents Jaska Raatikainen's last studio performance with the band before he departed Children of Bodom in November 2019, months after the album's release, as internal tensions that would soon end the group altogether came to a head.\n\nFor Jaska Raatikainen, Hexed meant a settled continuation of the DW Collector's Series setup introduced four years earlier: the maple/poplar shells, the DW 9000 double pedal, and the long-running Zildjian A Custom and K Custom cymbal configuration that had survived every gear transition of his career, from the Tama era through the Pearl Masters decade and into the DW chapter. Where I Worship Chaos had documented an adjustment period to unfamiliar equipment, Hexed captures that same DW rig four years into full command.\n\nTracks like \"Hecate's Nightmare\" showcase the DW 9000's double-kick precision at full maturity, while \"Under Grass and Clover\" — one of the album's lead singles — demonstrates the DW Collector's warmer resonance serving CoB's melodic death metal songwriting one last time. This article breaks down every component of Raatikainen's setup on Hexed — the DW Collector's Series shells, the Zildjian cymbal configuration, the DW 9000 double pedal, and the Sonic Pump Studios session that closed out his thirteen-album run behind the Children of Bodom drum kit.",
+      "keyPoints": [
+        "Released March 8, 2019 — Children of Bodom's tenth and final studio album",
+        "Recorded at Sonic Pump Studios, Helsinki, with producer Mikko Karmila — continuing from I Worship Chaos (2015)",
+        "DW Collector's Series kit — the same maple/poplar shells introduced on I Worship Chaos, now four years mature",
+        "Zildjian A Custom and K Custom cymbals — the long-running configuration retained across every gear transition",
+        "DW 9000 double pedal — fully commanded after four years, following the adjustment period documented on I Worship Chaos",
+        "Jaska Raatikainen's last studio album with Children of Bodom before departing the band in November 2019"
+      ]
+    },
+    "drumKit": {
+      "title": "DW Collector's Series: The DW Era at Full Maturity",
+      "brand": "DW",
+      "model": "DW Collector's Series",
+      "finish": "Custom finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Maple/poplar shell construction — DW Collector's Series grade"
+      },
+      "description": "For Hexed, Jaska Raatikainen played the same DW Collector's Series configuration introduced on I Worship Chaos (2015) — twin 22\" x 18\" bass drums, 10\"/12\" rack toms, and 14\"/16\" floor toms in DW's maple/poplar shell construction. Four years after the initial Pearl-to-DW transition, the adjustment period documented on I Worship Chaos was long finished: the DW shells' warmer, more open resonance had become as familiar to Raatikainen as the Pearl Masters MCX had been for the previous decade.\n\nMikko Karmila's now-established approach to capturing the DW Collector's Series at Sonic Pump Studios meant the shell character on Hexed required none of the exploratory EQ treatment of the 2015 sessions. The DW True Pitch tuning system and Edge suspension mounts — the engineering that had initially set the kit apart from Pearl Masters — were fully dialed in, producing a tom and kick sound with confident low-mid body across the record.\n\nThe double bass drum setup maintained the 22\" x 18\" dimensions carried since the Pearl era, giving \"Hecate's Nightmare\" and the album's other high-tempo tracks a consistent double-kick foundation. The tom spread continued CoB's melodic fill vocabulary in the DW shells' rounder voicing, closing out Raatikainen's studio drumming with the same compositional instincts he had brought to the band since Something Wild (1997).",
+      "notes": [
+        "DW Collector's Series — same kit introduced on I Worship Chaos, now four years into full command",
+        "DW True Pitch tuning and Edge suspension fully dialed in — no exploratory treatment needed",
+        "Double 22\" x 18\" bass drums drive \"Hecate's Nightmare\" and the album's fastest passages",
+        "Compact tom spread (10\", 12\", 14\", 16\") carries the melodic fill language into the final CoB album",
+        "Last studio kit of Raatikainen's Children of Bodom tenure before his November 2019 departure"
+      ],
+      "estimatedValue": "$3,000–6,000 (DW Collector's Series shell pack, 2019)"
+    },
+    "snare": {
+      "title": "DW Collector's 14\" x 5.5\" Maple Snare",
+      "brand": "DW",
+      "model": "DW Collector's 14\" x 5.5\" Maple Snare",
+      "size": "14\" x 5.5\"",
+      "shell": "Maple — DW Collector's-grade construction",
+      "description": "Raatikainen's snare on Hexed was the same DW Collector's maple model used on I Worship Chaos — a 14\" x 5.5\" shell delivering the fuller body and warmer upper-mid character that had distinguished the DW era from the Pearl Masters MCX snare of his earlier catalog.\n\nBy Hexed, Mikko Karmila's treatment of the DW snare was a fully settled part of the Sonic Pump production process, four years removed from the fresh-ears approach of I Worship Chaos. The snare handled the same dynamic range CoB had always demanded: full-velocity backbeat work on \"Hecate's Nightmare\" and the more restrained, melodic phrasing of \"Under Grass and Clover\" and \"Soon Departed.\"",
+      "tuningSetting": "Medium — DW maple character balanced for aggressive passages and melodic dynamic range",
+      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$450–700 (DW Collector's maple snare, 2019)"
+    },
+    "cymbals": {
+      "title": "Zildjian A Custom and K Custom: The Constant Across Every Era",
+      "brand": "Zildjian",
+      "series": "Zildjian A Custom / Zildjian K Custom",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian A Custom 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Retained across the Pearl and DW eras alike — bright, defined articulation unchanged for over a decade"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 17\" Crash",
+          "position": "Left of hi-hats",
+          "notes": "Fast attack and brilliant finish, consistent since Are You Dead Yet? (2005)"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 18\" Crash",
+          "position": "Right of rack toms",
+          "notes": "Fuller crash character, unchanged across the Pearl-to-DW gear transition"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian K Custom 20\" Ride",
+          "position": "Far right",
+          "notes": "Darker bell character pairs with the DW shells' warmth on Hexed's melodic passages"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A Custom 18\" China",
+          "position": "Above floor tom",
+          "notes": "Bright China accent, the same structural riff-transition marker used since Blooddrunk"
+        }
+      ],
+      "description": "Jaska Raatikainen's Zildjian A Custom and K Custom cymbal setup on Hexed was the same configuration that had anchored every Children of Bodom album since Are You Dead Yet? (2005) — the one component of his rig that survived both the Premium Maple-to-MCX shell refinement and the far more dramatic Pearl-to-DW drum transition documented on I Worship Chaos.\n\nBy 2019, this cymbal setup represented fourteen years of continuous use across five studio albums and two entirely different drum kits. On Hexed, the A Custom's bright, cutting character continued to interact with the DW Collector's warmer shell voicing exactly as it had on I Worship Chaos: cymbals occupying the high-mid frequency space while the DW toms and kick filled the low-mid body, a balance Mikko Karmila had fully mastered over two album cycles.\n\nThe K Custom 20\" ride's darker presence is especially prominent on \"Under Grass and Clover\" and \"Soon Departed,\" where its textural warmth complements the DW shells' resonance in the album's more melodic, mid-paced material — a pairing that, in retrospect, closes out Raatikainen's cymbal choices for the entirety of his Children of Bodom career.",
+      "estimatedValue": "$1,500–2,100 (full Zildjian A Custom / K Custom setup, 2019)"
+    },
+    "hardware": {
+      "title": "DW 9000: Full Command in the Final Chapter",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "DW",
+          "model": "DW 9000 Double Pedal",
+          "notes": "Four years into the DW transition — the adjustment period from I Worship Chaos long resolved",
+          "description": "The DW 9000 double pedal on Hexed represented the far side of the adjustment period documented on I Worship Chaos (2015): after four years with DW's floating rotor system and cam-adjustable mechanism, Raatikainen's double-kick vocabulary had fully absorbed the pedal's different response curve relative to the Pearl Eliminator.\n\n\"Hecate's Nightmare\" demonstrates the DW 9000 at complete command — sustained double-kick patterns delivered with the same mechanical confidence that the Pearl Eliminator had shown on Relentless Reckless Forever, now achieved with an entirely different pedal mechanism. It stands as the final studio recording of Raatikainen's Children of Bodom double-kick work."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5A",
+          "notes": "Consistent through the Tama, Pearl, and DW eras alike — the one unchanged constant across his entire CoB tenure",
+          "description": "The Vic Firth American Classic 5A remained Raatikainen's stick choice through the Hexed sessions, closing out over two decades of use across every gear era of his Children of Bodom career."
+        },
+        {
+          "type": "Drumheads (Toms, Batter)",
+          "brand": "Remo",
+          "model": "Remo Emperor Coated",
+          "notes": "Two-ply construction for durability and controlled sustain — consistent across the Pearl and DW eras"
+        },
+        {
+          "type": "Drumheads (Bass, Batter)",
+          "brand": "Remo",
+          "model": "Remo Powerstroke 3",
+          "notes": "Focused attack and controlled low-end resonance, matched to the DW shells' warmer character"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Powerstroke 3 (resonant)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Karmila at Sonic Pump: Closing Out the DW Era",
+      "content": "Hexed was the second Children of Bodom album produced by Mikko Karmila at Sonic Pump Studios, Helsinki, following I Worship Chaos (2015). Four years on from the DW Collector's Series' debut, the Karmila/DW combination that had required careful balancing on the first attempt was now a fully mature production relationship.\n\nA Mature DW Sound: Karmila's approach to the DW Collector's warmer shell character no longer required the exploratory EQ treatment of I Worship Chaos — the balance between the DW toms' low-mid body and sufficient attack transient for the double-kick material was a known formula by 2019.\n\nDW 9000 at Full Command: \"Hecate's Nightmare\"'s double-kick passages received a kick EQ treatment refined across two album cycles: the DW 9000's mechanical response and the Powerstroke 3 heads' character were both fully understood quantities, allowing Karmila to focus on performance capture rather than tone development.\n\nCymbals as the Anchor: With the Zildjian A Custom/K Custom setup unchanged since 2005, Karmila used the cymbals as the stable reference point in the mix — positioning their established brightness against the DW shells' warmth in the same frequency arrangement worked out on I Worship Chaos.",
+      "keyTechniques": [
+        "Second consecutive Karmila-produced album at Sonic Pump — DW shell balance now a mature, known formula",
+        "DW 9000 kick EQ treatment refined across two album cycles rather than developed from scratch",
+        "Zildjian A Custom/K Custom cymbals serve as the stable mix reference across the entire DW era",
+        "Final Sonic Pump session of Raatikainen's Children of Bodom studio career"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Hecate's Nightmare",
+        "bpm": "170",
+        "signature": "4/4",
+        "highlights": [
+          "Fastest track on Hexed — showcases the DW 9000 double pedal at full four-year command",
+          "A Custom hi-hat articulation remains crisp through the track's sustained double-kick runs",
+          "DW Collector's tom fills track the guitar riffing with CoB's signature compositional density",
+          "China cymbal placement on transitions consistent with the pattern established since Blooddrunk"
+        ],
+        "gearNotes": "\"Hecate's Nightmare\" is the clearest double-kick showcase on Hexed — the DW 9000's floating rotor system delivers consistent high-velocity response, a stark contrast to the pedal's more tentative debut on I Worship Chaos."
+      },
+      {
+        "track": "Under Grass and Clover",
+        "bpm": "145",
+        "signature": "4/4",
+        "highlights": [
+          "One of Hexed's lead singles — demonstrates the DW Collector's warmer resonance in a melodic context",
+          "K Custom ride prominent under the verse and chorus melodic sections",
+          "Ghost note snare work shows the DW maple snare's dynamic range at full maturity",
+          "Ride and crash interplay mirrors the melodic architecture found on I Worship Chaos's \"Morrigan\""
+        ],
+        "gearNotes": "\"Under Grass and Clover\" is the best reference for the mature DW Collector's Series in a melodic CoB context — the same warm, open tom resonance heard on \"Morrigan,\" now four years further refined."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Jaska Raatikainen use on Hexed?",
+        "answer": "On Hexed (2019), Jaska Raatikainen played DW Collector's Series drums — the same maple/poplar shell configuration introduced on I Worship Chaos (2015), now four years into full command. The setup centered on twin 22\" x 18\" bass drums, rack toms (10\" and 12\"), and floor toms (14\" and 16\"). This was Raatikainen's last studio kit with Children of Bodom; for his complete gear history, see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen)."
+      },
+      {
+        "question": "What pedals did Jaska Raatikainen use on Hexed?",
+        "answer": "Jaska Raatikainen used the DW 9000 double pedal on Hexed (2019) — the same pedal introduced on I Worship Chaos (2015), now four years past the initial adjustment period documented on that record. \"Hecate's Nightmare\" showcases the DW 9000 at full command. See the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for the pedal's earlier transition context."
+      },
+      {
+        "question": "What cymbals did Jaska Raatikainen use on Hexed?",
+        "answer": "On Hexed (2019), Jaska Raatikainen used Zildjian A Custom and K Custom cymbals — A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China. This cymbal configuration had been in continuous use since Are You Dead Yet? (2005), surviving both the Pearl Masters MCX era and the DW Collector's Series transition. For cymbal continuity across the full catalog, see the [Jaska Raatikainen full kit guide](/articles/jaska-raatikainen-drum-setup)."
+      },
+      {
+        "question": "Was Hexed Jaska Raatikainen's last album with Children of Bodom?",
+        "answer": "Yes. Hexed (2019) is Children of Bodom's tenth and final studio album, and it was Jaska Raatikainen's last studio recording with the band before he departed Children of Bodom in November 2019. The album continues the DW Collector's Series and DW 9000 setup introduced on I Worship Chaos (2015). See the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen) and the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup) for the DW era that Hexed closes out."
+      }
+    ],
+    "evolution": {
+      "title": "The DW Era Concludes: Hexed and the End of a Career-Long Arc",
+      "content": "Hexed (2019) closes out Jaska Raatikainen's gear arc across thirteen years and three distinct configurations: the Tama Starclassic era of the early catalog, the Pearl Masters decade from Are You Dead Yet? (2005) through Halo of Blood (2013), and the DW Collector's Series chapter that began on I Worship Chaos (2015) and concludes here.\n\nThe DW Era, Matured (2015–2019): Where I Worship Chaos documented the adjustment period to unfamiliar DW Collector's shells and the DW 9000 pedal, Hexed captures that same rig four years into total command — the mirror image of how Halo of Blood had captured the Pearl Masters MCX at the end of its own multi-album refinement process.\n\nThe One Constant: Across every gear transition of Raatikainen's career — Tama to Pearl, Pearl to DW — the Zildjian A Custom and K Custom cymbal configuration never changed. On Hexed, that fourteen-year-old cymbal setup is the direct throughline connecting his final album back to Are You Dead Yet? and, in spirit, to the earliest days of the band's rise.\n\nAfter Hexed: Raatikainen departed Children of Bodom in November 2019; the band itself dissolved shortly afterward, bringing a definitive end to the drum setup arc documented across this catalog. For the album that preceded this DW maturation, see the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup).",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "DW Collector's Series (I Worship Chaos 2015 — new transition)",
+          "now": "DW Collector's Series (Hexed 2019 — four years mature)"
+        },
+        {
+          "category": "Snare",
+          "then": "DW Collector's 14\" x 5.5\" Maple (new)",
+          "now": "DW Collector's 14\" x 5.5\" Maple (consistent)"
+        },
+        {
+          "category": "Hi-Hats",
+          "then": "Zildjian A Custom 14\" (retained from Pearl era)",
+          "now": "Zildjian A Custom 14\" (retained — 14 years continuous use)"
+        },
+        {
+          "category": "Crashes",
+          "then": "Zildjian A Custom 17\" and 18\"",
+          "now": "Zildjian A Custom 17\" and 18\" (retained)"
+        },
+        {
+          "category": "Ride",
+          "then": "Zildjian K Custom 20\"",
+          "now": "Zildjian K Custom 20\" (retained)"
+        },
+        {
+          "category": "Pedals",
+          "then": "DW 9000 Double (new — DW transition)",
+          "now": "DW 9000 Double (full command, four years mature)"
+        },
+        {
+          "category": "Sticks",
+          "then": "Vic Firth American Classic 5A",
+          "now": "Vic Firth American Classic 5A (consistent through final album)"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "i-worship-chaos-drum-setup",
+      "relentless-reckless-forever-drum-setup",
+      "blooddrunk-drum-setup",
+      "follow-the-reaper-drum-setup",
+      "jaska-raatikainen-drum-setup"
+    ],
+    "relatedDrummers": [
+      55
+    ],
+    "relatedArticles": [
+      "jaska-raatikainen-drum-setup",
+      "i-worship-chaos-drum-setup",
+      "relentless-reckless-forever-drum-setup",
+      "blooddrunk-drum-setup",
+      "follow-the-reaper-drum-setup"
+    ],
+    "relatedLicks": [],
+    "internalLinks": [
+      {
+        "text": "Jaska Raatikainen drummer profile",
+        "url": "/drummer/jaska-raatikainen"
+      },
+      {
+        "text": "Children of Bodom band page",
+        "url": "/band/children-of-bodom"
+      },
+      {
+        "text": "Jaska Raatikainen full kit guide",
+        "url": "/articles/jaska-raatikainen-drum-setup"
+      },
+      {
+        "text": "I Worship Chaos drum setup (2015)",
+        "url": "/articles/i-worship-chaos-drum-setup"
+      },
+      {
+        "text": "Relentless Reckless Forever drum setup (2011)",
+        "url": "/articles/relentless-reckless-forever-drum-setup"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Hexed Drum Setup: Jaska Raatikainen's Gear on Children of Bodom's Final Album",
+          "description": "Discover the exact drum kit, cymbals, and gear Jaska Raatikainen used on Children of Bodom's Hexed (2019). Complete breakdown of the DW Collector's Series kit, Zildjian A Custom and K Custom cymbals, and DW 9000 double pedal.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-06",
+          "dateModified": "2026-07-06"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Hexed",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Children of Bodom"
+          },
+          "datePublished": "2019-03-08",
+          "genre": "Melodic Death Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Nuclear Blast"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "The Road"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Under Grass and Clover"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Glass Houses"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Hecate's Nightmare"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Kick in the Spleen"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Platitudes and Barren Words"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Hexed"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Relapse (The Nature of My Crime)"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Say Never Look Back"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Soon Departed"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Knuckleduster"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Jaska Raatikainen",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Children of Bodom"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drums did Jaska Raatikainen use on Hexed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Hexed (2019), Jaska Raatikainen played DW Collector's Series drums — the same shell configuration introduced on I Worship Chaos (2015), now four years into full command. The setup centered on twin 22\" x 18\" bass drums with rack toms (10\" and 12\") and floor toms (14\" and 16\")."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What pedals did Jaska Raatikainen use on Hexed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jaska Raatikainen used the DW 9000 double pedal on Hexed (2019) — the same pedal introduced on I Worship Chaos (2015), now well past the initial adjustment period. \"Hecate's Nightmare\" showcases the DW 9000 at full command."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals did Jaska Raatikainen use on Hexed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Jaska Raatikainen used Zildjian A Custom 14\" hi-hats, A Custom crashes (17\" and 18\"), a K Custom 20\" ride, and an A Custom 18\" China on Hexed (2019) — a cymbal configuration in continuous use since Are You Dead Yet? (2005), surviving both the Pearl Masters and DW Collector's Series eras."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Was Hexed Jaska Raatikainen's last album with Children of Bodom?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes. Hexed (2019) is Children of Bodom's tenth and final studio album, and it was Jaska Raatikainen's last studio recording with the band before he departed in November 2019."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "The Final Chapter: Hexed and the Close of a Career-Long Gear Arc",
+      "content": "Hexed (2019) is the record that closes out Jaska Raatikainen's entire Children of Bodom gear history — the DW Collector's Series and DW 9000 double pedal at full four-year maturity, the Zildjian A Custom and K Custom cymbals unchanged since Are You Dead Yet? (2005), and the Sonic Pump Studios/Mikko Karmila production partnership carried over from I Worship Chaos.\n\nWhat makes Hexed essential listening for drummers studying Raatikainen's catalog is the sense of completed arcs: \"Hecate's Nightmare\" shows the DW 9000 pedal delivering the same mechanical confidence the Pearl Eliminator had shown on Relentless Reckless Forever, just with an entirely different mechanism fully absorbed. \"Under Grass and Clover\" closes the melodic side of his playing with the same warm, keyboard-tracking tom language first heard on Something Wild (1997) over two decades earlier.\n\nFor Drummers Studying Hexed: Start with \"Hecate's Nightmare\" to hear the DW Collector's Series and DW 9000 at their most confident, then compare it to the pedal's more tentative debut on \"I Worship Chaos\" (the title track) to hear four years of adjustment resolve into command. Then listen to \"Under Grass and Clover\" for the DW shells' melodic side, a direct descendant of \"Morrigan\"'s warm resonance.\n\nFor the complete picture of Jaska Raatikainen's career-spanning gear arc — from the Tama Starclassic beginnings through the Pearl Masters decade and into this final DW chapter — see the [Jaska Raatikainen drummer profile](/drummer/jaska-raatikainen), the [I Worship Chaos drum setup](/articles/i-worship-chaos-drum-setup), and the [full kit guide](/articles/jaska-raatikainen-drum-setup)."
+    }
   }
 };
 export default articles;

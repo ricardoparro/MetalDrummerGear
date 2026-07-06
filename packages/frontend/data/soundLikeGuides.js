@@ -13596,7 +13596,7 @@ This guide breaks down the technique, gear, and practice approach behind Cruz's 
 
   'how-to-sound-like-alex-bent': {
     slug: 'how-to-sound-like-alex-bent',
-    drummerId: 22,
+    drummerId: 25,
     drummerName: 'Alex Bent',
     band: 'Trivium',
     genre: 'Modern Metal / Technical Death Metal',
@@ -15806,7 +15806,7 @@ This guide breaks down exactly how to capture Luzier's sound: his pocket-first g
   // Issue #2426: SEO batch — Arin Ilejay (re-scoped from batch 16)
   'how-to-sound-like-arin-ilejay': {
     slug: 'how-to-sound-like-arin-ilejay',
-    drummerId: 20,
+    drummerId: 23,
     drummerName: 'Arin Ilejay',
     band: 'Avenged Sevenfold',
     genre: 'Heavy Metal',

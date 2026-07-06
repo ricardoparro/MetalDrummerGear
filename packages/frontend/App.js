@@ -6806,6 +6806,10 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
 
   // Issue #1357: Related articles backlinks (reverse of #1332)
   const [relatedArticles, setRelatedArticles] = useState([]);
+  // Issue #3829: native "show more" toggle for drummers with a deep article
+  // catalog (web keeps every link in the DOM via a scrollable list instead,
+  // so crawlers still see the full set even before any interaction).
+  const [showAllArticles, setShowAllArticles] = useState(false);
 
   // Issue #3821: Wait for gear price history module to load before checking,
   // instead of relying on the stale 3-slug hardcoded fallback array
@@ -6831,11 +6835,13 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       }
     });
     // Issue #1357: Load album articles and build reverse lookup
+    // Issue #3829: no cap here - every matching article must be linkable from
+    // this profile page, since it's the highest-authority page for the entity.
+    // Display-side capping (if any) happens in the render block below.
     preloadAlbumArticles().then(() => {
       if (mounted) {
         const articles = getAllAlbumArticles()
-          .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === drummerSlug)
-          .slice(0, 3);
+          .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === drummerSlug);
         setRelatedArticles(articles);
       }
     });
@@ -6845,6 +6851,17 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
   const handleEndorsementPress = (url) => {
     Linking.openURL(url);
   };
+
+  // Issue #3829: don't cap related articles at 3 - drummers with a deep
+  // album-article catalog (up to 17) need every article linked from their
+  // profile page. On web all links stay in the DOM (in a scrollable list
+  // once the set is long) so crawlers see the full set; native uses a
+  // "show more" toggle since a nested ScrollView would fight the page's own.
+  const ARTICLES_PREVIEW_COUNT = 3;
+  const hasMoreArticles = relatedArticles.length > ARTICLES_PREVIEW_COUNT;
+  const visibleArticles = (Platform.OS === 'web' || showAllArticles)
+    ? relatedArticles
+    : relatedArticles.slice(0, ARTICLES_PREVIEW_COUNT);
 
   return (
     <View style={styles.drummerDetailWrapper}>
@@ -7297,49 +7314,66 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header">
             Gear Deep Dives &amp; Articles
           </Text>
-          {relatedArticles.map((article) => (
-            Platform.OS === 'web' ? (
-              <a
-                key={article.slug}
-                href={`/articles/${article.slug}`}
-                onClick={(e) => {
-                  e.preventDefault();
-                  if (typeof window !== 'undefined') {
-                    window.history.pushState({}, '', `/articles/${article.slug}`);
-                    window.dispatchEvent(new PopStateEvent('popstate'));
-                  }
-                }}
-                style={{ textDecoration: 'none', display: 'block', marginBottom: 12 }}
-              >
-                <Text style={[styles.bioMoreLink, { color: theme.primary }]}>{article.title} →</Text>
-                {article.description ? (
-                  <Text style={[styles.bioText, { color: theme.secondaryText, marginTop: 2 }]} numberOfLines={2}>
-                    {article.description}
-                  </Text>
-                ) : null}
-              </a>
-            ) : (
-              <TouchableOpacity
-                key={article.slug}
-                onPress={() => {
-                  if (typeof window !== 'undefined') {
-                    window.history.pushState({}, '', `/articles/${article.slug}`);
-                    window.dispatchEvent(new PopStateEvent('popstate'));
-                  }
-                }}
-                accessibilityRole="link"
-                accessibilityLabel={`Read article: ${article.title}`}
-                style={{ marginBottom: 12 }}
-              >
-                <Text style={[styles.bioMoreLink, { color: theme.primary }]}>{article.title} →</Text>
-                {article.description ? (
-                  <Text style={[styles.bioText, { color: theme.secondaryText, marginTop: 2 }]} numberOfLines={2}>
-                    {article.description}
-                  </Text>
-                ) : null}
-              </TouchableOpacity>
-            )
-          ))}
+          {/* Issue #3829: long lists (up to 17 articles) scroll within a capped
+              height instead of an unbounded flat list, so the page layout
+              never breaks - every link stays in the DOM either way. */}
+          <View style={Platform.OS === 'web' && hasMoreArticles ? { maxHeight: 340, overflowY: 'auto', paddingRight: 4 } : null}>
+            {visibleArticles.map((article) => (
+              Platform.OS === 'web' ? (
+                <a
+                  key={article.slug}
+                  href={`/articles/${article.slug}`}
+                  onClick={(e) => {
+                    e.preventDefault();
+                    if (typeof window !== 'undefined') {
+                      window.history.pushState({}, '', `/articles/${article.slug}`);
+                      window.dispatchEvent(new PopStateEvent('popstate'));
+                    }
+                  }}
+                  style={{ textDecoration: 'none', display: 'block', marginBottom: 12 }}
+                >
+                  <Text style={[styles.bioMoreLink, { color: theme.primary }]}>{article.title} →</Text>
+                  {article.description ? (
+                    <Text style={[styles.bioText, { color: theme.secondaryText, marginTop: 2 }]} numberOfLines={2}>
+                      {article.description}
+                    </Text>
+                  ) : null}
+                </a>
+              ) : (
+                <TouchableOpacity
+                  key={article.slug}
+                  onPress={() => {
+                    if (typeof window !== 'undefined') {
+                      window.history.pushState({}, '', `/articles/${article.slug}`);
+                      window.dispatchEvent(new PopStateEvent('popstate'));
+                    }
+                  }}
+                  accessibilityRole="link"
+                  accessibilityLabel={`Read article: ${article.title}`}
+                  style={{ marginBottom: 12 }}
+                >
+                  <Text style={[styles.bioMoreLink, { color: theme.primary }]}>{article.title} →</Text>
+                  {article.description ? (
+                    <Text style={[styles.bioText, { color: theme.secondaryText, marginTop: 2 }]} numberOfLines={2}>
+                      {article.description}
+                    </Text>
+                  ) : null}
+                </TouchableOpacity>
+              )
+            ))}
+          </View>
+          {Platform.OS !== 'web' && hasMoreArticles && (
+            <TouchableOpacity
+              onPress={() => setShowAllArticles(!showAllArticles)}
+              style={[styles.expandButton, { borderTopColor: theme.border }]}
+              accessibilityRole="button"
+              accessibilityLabel={showAllArticles ? 'Show fewer articles' : `Show all ${relatedArticles.length} articles`}
+            >
+              <Text style={[styles.expandButtonText, { color: theme.primary }]}>
+                {showAllArticles ? '▲ Show Less' : `▼ Show All ${relatedArticles.length} Articles`}
+              </Text>
+            </TouchableOpacity>
+          )}
         </View>
       )}
 

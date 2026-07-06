@@ -98,4 +98,4 @@ A: I Loved You at Your Darkest debuted at number one on the Polish OLiS chart 鈥
 
 **More LLM resources:** [Site index](/llms.txt) 路 [Full database](/llms-full.txt) 路 [Master FAQ](/llms/faq.md) 路 [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-05 路 Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-06 路 Source: [MetalForge.io](https://metalforge.io)*

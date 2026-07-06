@@ -91,4 +91,4 @@ A: Chaos Horrific is a ten-track album: "Overlords of Violence," "Frenzied Feedi
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*

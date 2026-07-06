@@ -72,7 +72,7 @@ A: In Waves (2011) is a deliberate pivot away from the progressive ambition of S
 
 **Q: What is Nick Augusto's overall drum setup?**
 
-A: Nick Augusto's core setup across his Trivium tenure (2007–2014) centered on Tama drums, Meinl cymbals, and Promark sticks, with specific gear choices shifting between records. On Shogun (2008) he played an expanded DW Performance Series kit with Meinl Byzance cymbals; on In Waves (2011) he moved to a compact Tama Starclassic Performer B/B kit with brighter Meinl MB20/Classics Custom cymbals, a setup he carried into Vengeance Falls (2013). Across all three albums he relied on a Tama Iron Cobra double bass pedal running the Rolling Glide cam. For the full In Waves-through-Vengeance Falls gear breakdown, see [Nick Augusto Drum Setup at MetalForge](/articles/nick-augusto-drum-setup).
+A: Nick Augusto's core setup across his Trivium tenure (2007–2014) centered on Tama drums, Meinl cymbals, and Promark sticks, with specific gear choices shifting between records. On Shogun (2008) he played an expanded DW Performance Series kit with Meinl Byzance cymbals; on In Waves (2011) he moved to a compact Tama Starclassic Performer B/B kit with brighter Meinl MB20/Classics Custom cymbals, a setup he carried into Vengeance Falls (2013). Across all three albums he relied on a Tama Iron Cobra double bass pedal running the Rolling Glide cam. For the full In Waves-through-Vengeance Falls gear breakdown, see [In Waves drum setup at MetalForge](/articles/in-waves-drum-setup).
 
 **Q: How did In Waves perform commercially for Trivium?**
 
@@ -82,4 +82,4 @@ A: In Waves debuted at #13 on the Billboard 200 upon its August 2011 release —
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*

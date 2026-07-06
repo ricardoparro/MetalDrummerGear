@@ -19,8 +19,8 @@ For Verbeuren, "Natural Born Chaos" was the album that established his reputatio
 
 ## Gear Breakdown
 
-- **Drums:** Tama Starclassic Performer (Birch/maple hybrid shells)
-- **Snare:** Tama Starclassic Steel Snare, 14" x 6.5"
+- **Drums:** Tama Tama Starclassic Performer (Birch/maple hybrid shells finish)
+- **Snare:** Tama Tama Starclassic Steel Snare, 14" x 6.5"
 - **Cymbals:** Meinl — Meinl Byzance
 - **Hardware / Pedals:** Tama Iron Cobra 900 Double Pedal; Tama Iron Cobra 900 Hi-Hat; Tama Road Pro Series; Tama 1st Chair Series; Vater 5B
 - **Heads:** Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)
@@ -58,8 +58,10 @@ The 18" Byzance China closes out the setup, delivering the trashy, explosive acc
 - Lead single "Rejection Role" received significant MTV2 and European rotation
 - Dirk Verbeuren's second Soilwork album, and the one that established his international reputation
 - Tama Starclassic Performer kit with Meinl Byzance cymbals
+- Tama Starclassic Performer — birch/maple hybrid shells
 - Single 22" bass drum with double pedal, carried through his entire career
 - Compact rack tom pairing for fast fill transitions
+- Kit tone chosen to cut through Nordström's layered Gothenburg-sound production
 - Estimated kit value: $3,000-4,500 (Starclassic Performer configuration, early 2000s)
 - Estimated snare value: $300-400
 

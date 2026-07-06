@@ -83,10 +83,10 @@ A: 'Stabbing the Drama' was produced by Jens Bogren and Daniel Bergstrand. It wa
 
 **Q: How does Dirk Verbeuren's Soilwork drumming compare to his Megadeth setup?**
 
-A: On 'Stabbing the Drama,' Verbeuren played a Tama Starclassic Performer kit with a single bass drum, double pedal, and Meinl Byzance cymbals — the same brand relationships he maintains today. His Megadeth setup, detailed on the [Dystopia Drum Setup article](/articles/dystopia-drum-setup), uses a similar single-kick-plus-double-pedal philosophy but with a heavier, more modern production sound reflecting a decade of gear evolution and higher-budget studio sessions.
+A: On 'Stabbing the Drama,' Verbeuren played a Tama Starclassic Performer kit with a single bass drum, double pedal, and Meinl Byzance cymbals — the same brand relationships he maintains today. His actual Megadeth studio debut, detailed on the [The Sick, the Dying... and the Dead! Drum Setup article](/articles/the-sick-the-dying-and-the-dead-drum-setup), uses a related single-kick-plus-double-pedal touring philosophy (expanded to twin kicks for that studio session) but with a heavier, more modern production sound reflecting nearly two decades of gear evolution and higher-budget studio sessions.
 
 **Source:** https://metalforge.io/articles/stabbing-the-drama-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*

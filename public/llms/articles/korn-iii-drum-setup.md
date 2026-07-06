@@ -94,4 +94,4 @@ A: Korn III: Remember Who You Are (2010) was produced by Ross Robinson — the s
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*

@@ -70,7 +70,7 @@ A: On Trivium's Vengeance Falls (2013), Nick Augusto played the same Tama Starcl
 
 **Q: How did David Draiman's production affect the drum sound on Vengeance Falls?**
 
-A: David Draiman — lead vocalist of Disturbed and Device, producing for the first time in his career — pushed Trivium's drum sound toward a warmer, more rock-radio character on Vengeance Falls. Compared to Jason Suecof's dry, punchy production on "In Waves," Draiman favored more body and sustain in Nick Augusto's snare and kit tuning, with less emphasis on the sharpest possible transient attack. The equipment stayed identical to "In Waves" — the change was entirely in tuning, mic technique, and mix processing at Draiman's own DMD Productions studio in Austin, Texas. For the earlier, drier-sounding album, see the [Nick Augusto drum setup at MetalForge](/articles/nick-augusto-drum-setup).
+A: David Draiman — lead vocalist of Disturbed and Device, producing for the first time in his career — pushed Trivium's drum sound toward a warmer, more rock-radio character on Vengeance Falls. Compared to Jason Suecof's dry, punchy production on "In Waves," Draiman favored more body and sustain in Nick Augusto's snare and kit tuning, with less emphasis on the sharpest possible transient attack. The equipment stayed identical to "In Waves" — the change was entirely in tuning, mic technique, and mix processing at Draiman's own DMD Productions studio in Austin, Texas. For the earlier, drier-sounding album, see the [In Waves drum setup at MetalForge](/articles/in-waves-drum-setup).
 
 **Q: How much would Nick Augusto's Vengeance Falls drum kit cost today?**
 
@@ -88,4 +88,4 @@ A: Vengeance Falls debuted at #15 on the US Billboard 200 and reached #23 on the
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*

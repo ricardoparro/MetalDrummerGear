@@ -647,7 +647,7 @@ export const techniques = {
     },
     videos: [
     ],
-    relatedTechniques: ['fill-techniques', 'one-handed-roll', 'linear-drumming'],
+    relatedTechniques: ['single-stroke-roll', 'double-stroke-roll', 'paradiddle', 'five-stroke-roll', 'seven-stroke-roll', 'drag', 'fill-techniques', 'one-handed-roll', 'linear-drumming'],
     seoKeywords: ['drum rudiments', 'stick control', 'rudiments for metal drummers', 'paradiddle tutorial', 'drum rudiments for beginners'],
   },
 
@@ -1082,6 +1082,153 @@ export const techniques = {
     ],
     relatedTechniques: ['buzz-roll', 'rudiments'],
     seoKeywords: ['double stroke roll', 'long roll drumming', 'double stroke rudiment', 'how to play a double stroke roll', 'RRLL sticking'],
+  },
+
+  'five-stroke-roll': {
+    slug: 'five-stroke-roll',
+    title: 'Five Stroke Roll',
+    emoji: '🖐️',
+    metaTitle: 'Five Stroke Roll - The RRLLR/LLRRL Rudiment | MetalForge',
+    metaDescription: 'Learn the five stroke roll (RRLLR or LLRRL) drumming rudiment. History, practice steps, variations, and how metal drummers use it to punctuate fills.',
+    category: 'foundational',
+    difficulty: 'beginner',
+    bpmRange: 'Any',
+    description: `The five stroke roll is a double-stroke-based rudiment built from two double strokes capped by a single accented stroke - RRLLR or its mirror, LLRRL. It belongs to the family of "measured rolls" defined by an odd number of notes ending on the hand opposite the one that started the phrase, which is exactly what gives it a natural, punctuated feel rather than the continuous hum of an open-ended roll. Where the double stroke roll simply repeats RRLL indefinitely, the five stroke roll packages that same bounced-stroke technique into a short, self-contained figure that resolves on a single accent - making it one of the most direct ways to turn raw double-stroke control into a usable musical phrase. In metal drumming, the five stroke roll shows up constantly in fills that need to land cleanly on a downbeat: a quick RRLLR burst across the snare and toms, capped by an accented final stroke that locks back into the groove, is one of the most common phrasing tools available to a technical drummer.`,
+    history: `The five stroke roll is one of the original rudiments codified in the 26 American Standard Rudiments established by the National Association of Rudimental Drummers in the 1930s, and it survives unchanged in the modern 40 International Drum Rudiments recognized by the Percussive Arts Society as the shortest of the "long roll" family that also includes the seven, nine, and higher odd-numbered rolls. Its roots trace to military field drumming, where measured rolls of a fixed, countable length were essential for signaling precise durations and accents that longer, open-ended rolls could not communicate as clearly. Drum corps and rudimental competition programs turned the five stroke roll into a technical benchmark, since executing the double-stroke bounce cleanly at speed while still nailing the final accent requires the same rebound control that underlies the double stroke roll itself. In metal, drummers with drum-corps or rudimental backgrounds carry this figure directly into their fill vocabulary: Mike Mangini (Dream Theater) uses five-stroke-roll-based figures as compact punctuation inside his rapid, technically dense fills, relying on the rudiment's built-in resolution to land cleanly on downbeats within complex time signatures. Gavin Harrison (Porcupine Tree, King Crimson) applies the same measured-roll discipline to phrasing that needs to resolve precisely against displaced and polymetric grooves, while Thomas Lang, a virtuoso session and clinic drummer, treats the five stroke roll as a foundational building block for the extended, high-speed roll combinations that define his technical drumming style. Though a short and simple figure on paper, the five stroke roll remains a constant technical checkpoint - clean execution at speed reveals whether a drummer's underlying double-stroke control is truly solid.`,
+    howToLearn: [
+      'Master the double stroke roll first (RRLL) since the five stroke roll is simply two of those doubles capped by a single stroke',
+      'Say the sticking aloud - "right right left left right" - and isolate the final accented stroke before adding speed',
+      'Practice the two doubles at a controlled, even volume, then land the fifth stroke with a clear, distinct accent',
+      'Drill both the RRLLR and mirrored LLRRL versions equally so the roll resolves cleanly starting from either hand',
+      'Use a metronome and treat the five-note figure as a single unit, not five separate notes, to keep the phrasing musical',
+      'Move the roll around the kit - snare into toms - so the accented final stroke can land on a specific drum for fill construction',
+      'Practice the roll immediately followed by a beat re-entry, since that resolution is exactly how it gets used in real fills',
+      'Increase tempo gradually, only after the double-stroke bounce and the final accent stay even and controlled at a slow pace',
+    ],
+    variations: [
+      { name: 'Open Five Stroke Roll', description: 'Slow, fully articulated RRLLR with clear separation between each of the five notes' },
+      { name: 'Closed (Fast) Five Stroke Roll', description: 'Tightly bounced doubles compressed toward a single roll sound, resolving on the accent' },
+      { name: 'Mirrored Five Stroke Roll', description: 'LLRRL version practiced equally so the roll can resolve from either leading hand' },
+      { name: 'Accented Fill Five Stroke Roll', description: 'The roll applied across snare and toms as a compact fill that resolves back into the groove' },
+    ],
+    masters: [
+      { name: 'Mike Mangini', slug: 'mike-mangini', band: 'Dream Theater', note: 'Uses five-stroke-roll figures as compact punctuation inside rapid, technically dense fills' },
+      { name: 'Gavin Harrison', slug: 'gavin-harrison', band: 'Porcupine Tree / King Crimson', note: 'Applies measured-roll discipline to phrasing that resolves against displaced, polymetric grooves' },
+      { name: 'Thomas Lang', slug: null, band: 'Various', note: 'Treats the five stroke roll as a foundational block for extended, high-speed roll combinations' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced rebound makes the double-stroke portion of the roll easier to control at speed' },
+        { name: 'Practice sticks with rubber tips', reason: 'Quiet repetition for isolating the bounce technique without excess noise' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Consistent, lively rebound ideal for feeling the double-stroke bounce clearly' },
+        { name: 'Metronome with subdivisions', reason: 'Keeps the five-note figure locked to the beat as tempo increases' },
+      ],
+      tips: 'The final stroke of a five stroke roll should sound like a clear accent, not just the loudest note in a blur. Practice stopping cleanly on that fifth stroke before trying to flow directly into the next phrase.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['double-stroke-roll', 'seven-stroke-roll', 'rudiments'],
+    seoKeywords: ['five stroke roll', 'five stroke roll rudiment', 'how to play a five stroke roll', 'RRLLR sticking', 'measured roll drumming'],
+  },
+
+  'seven-stroke-roll': {
+    slug: 'seven-stroke-roll',
+    title: 'Seven Stroke Roll',
+    emoji: '✋',
+    metaTitle: 'Seven Stroke Roll - The RRLLRRL/LLRRLLR Rudiment | MetalForge',
+    metaDescription: 'Learn the seven stroke roll (RRLLRRL or LLRRLLR) drumming rudiment. History, practice steps, variations, and how metal drummers use it in extended fills.',
+    category: 'foundational',
+    difficulty: 'beginner',
+    bpmRange: 'Any',
+    description: `The seven stroke roll extends the same measured-roll logic as the five stroke roll one double further - three double strokes capped by a single accented stroke, RRLLRRL or its mirror LLRRLLR. Its seven-note length makes it long enough to feel like a genuine roll passage rather than a quick flick, while still resolving on a single, clearly accented stroke that lands on the opposite hand from where it started. That combination - extended bounce-driven density plus a precise, countable resolution - makes the seven stroke roll one of the most versatile measured rolls for building longer fills that still need to land exactly on a target beat. In metal drumming, the seven stroke roll is the natural next step once a drummer has the five stroke roll under control, giving technical players a longer runway of double-stroke motion to spread across the kit before resolving into the next phrase of a fill or transition.`,
+    history: `The seven stroke roll is one of the 26 American Standard Rudiments codified by the National Association of Rudimental Drummers in the 1930s and remains part of the modern 40 International Drum Rudiments recognized by the Percussive Arts Society, sitting in the same "long roll" family as the five stroke roll but extended by one additional double stroke. Its origin, like the five stroke roll, lies in military and field drumming, where rolls of a specific, countable length needed to communicate precise durations rather than the indefinite sustain of an open roll - a seven-note phrase gave drummers a slightly longer, more musically flexible unit than the five stroke roll while still resolving predictably. Drum corps and marching percussion training built the seven stroke roll into a core technical benchmark alongside the five stroke roll, since sustaining clean double-stroke bounces across three full doubles before nailing the final accent demands more stamina and control than the shorter figure requires. In metal, Mike Mangini (Dream Theater) extends his double-stroke and five-stroke vocabulary into seven-stroke-based figures when a fill needs more length before resolving against an odd-time downbeat, using the extra notes to bridge larger rhythmic gaps in his progressive-metal patterns. Thomas Lang builds the seven stroke roll directly into his extended, high-speed roll combinations as a longer counterpart to the five stroke roll, and Gavin Harrison (Porcupine Tree, King Crimson) draws on the same measured-roll vocabulary, including seven-stroke phrasing, when a passage calls for a longer, precisely resolving roll inside his displaced and polymetric grooves.`,
+    howToLearn: [
+      'Confirm the five stroke roll is solid first, since the seven stroke roll is the same technique with one more double stroke added',
+      'Say the sticking aloud - "right right left left right right left" - before adding the sticks, to internalize the extra double',
+      'Practice all three double strokes at a matched, even volume before worrying about speed',
+      'Land the final seventh stroke with a clear, distinct accent, the same way the fifth stroke resolves a five stroke roll',
+      'Drill both RRLLRRL and mirrored LLRRLLR so the roll resolves cleanly from either leading hand',
+      'Use a metronome and count the roll in a fixed number of beats so the resolution consistently lands on the target downbeat',
+      'Move the roll across snare and toms to build longer, melodic fills that still resolve precisely',
+      'Increase tempo only once all three doubles and the final accent stay even through the entire seven-note phrase',
+    ],
+    variations: [
+      { name: 'Open Seven Stroke Roll', description: 'Slow, fully articulated RRLLRRL with clear separation across all seven notes' },
+      { name: 'Closed (Fast) Seven Stroke Roll', description: 'Tightly bounced doubles compressed into a sustained roll sound, resolving on the accent' },
+      { name: 'Mirrored Seven Stroke Roll', description: 'LLRRLLR version practiced equally so the roll can resolve starting from either hand' },
+      { name: 'Extended Fill Seven Stroke Roll', description: 'The roll spread across snare and toms as a longer fill that still resolves precisely on the downbeat' },
+    ],
+    masters: [
+      { name: 'Mike Mangini', slug: 'mike-mangini', band: 'Dream Theater', note: 'Extends double-stroke and five-stroke vocabulary into seven-stroke figures to bridge larger rhythmic gaps' },
+      { name: 'Thomas Lang', slug: null, band: 'Various', note: 'Builds the seven stroke roll into extended, high-speed roll combinations as a longer counterpart to the five stroke roll' },
+      { name: 'Gavin Harrison', slug: 'gavin-harrison', band: 'Porcupine Tree / King Crimson', note: 'Draws on seven-stroke measured-roll phrasing inside displaced and polymetric grooves' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced rebound sustains control across the three double strokes before the final accent' },
+        { name: 'Practice sticks with rubber tips', reason: 'Quiet repetition for isolating the extended bounce technique without excess noise' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Consistent, lively rebound needed to sustain clean doubles across the longer seven-note phrase' },
+        { name: 'Metronome with subdivisions', reason: 'Keeps the extended seven-note figure locked to the beat and resolving on the intended downbeat' },
+      ],
+      tips: 'The seven stroke roll fails most often in the middle double, once the initial focus on starting cleanly fades but before the final accent comes into view. Keep attention on all three doubles equally, not just the first and last.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['five-stroke-roll', 'double-stroke-roll', 'rudiments'],
+    seoKeywords: ['seven stroke roll', 'seven stroke roll rudiment', 'how to play a seven stroke roll', 'RRLLRRL sticking', 'measured roll drumming'],
+  },
+
+  'drag': {
+    slug: 'drag',
+    title: 'Drag (Ruff)',
+    emoji: '🎯',
+    metaTitle: 'Drag Rudiment (Ruff) - How to Play Drags | MetalForge',
+    metaDescription: 'Learn the drag (ruff) drumming rudiment - two grace notes before a main stroke. History, practice steps, variations, and metal drummers who use drags in fills.',
+    category: 'foundational',
+    difficulty: 'beginner',
+    bpmRange: 'Any',
+    description: `The drag, also called a ruff, is a rudiment built from two quiet grace notes played as a quick double-stroke bounce on one hand, immediately followed by a louder main stroke on the same or opposite hand. Unlike a flam, which pairs a single grace note with a main stroke for a fattened, unison-like accent, the drag's two grace notes create a distinct rhythmic texture - a soft "duh-duh" flutter that resolves into a sharp accent - giving fills a rolling, textured quality that a flam's cleaner attack cannot produce. The drag sits alongside flams and rolls as one of the foundational accent-and-ornament rudiments, and it is the direct building block behind more advanced figures like the drag paradiddle, single drag tap, and lesson 25 (the famous drum-corps standard built almost entirely from drags). In metal drumming, drags add rhythmic texture to fills and accented figures without the density of a full roll, letting a drummer imply extra motion around a strong accent while keeping the overall phrase clean and controlled.`,
+    history: `The drag is one of the original rudiments in the 26 American Standard Rudiments codified by the National Association of Rudimental Drummers in the 1930s, and it remains part of the modern 40 International Drum Rudiments recognized by the Percussive Arts Society, where it anchors an entire family of derivative patterns including the single drag tap, double drag tap, and drag paradiddles. Its roots run through centuries of military field drumming, where drags and ruffs added ornamental texture to cadences and signals, distinguishing accented commands from the surrounding pulse. Drum corps and rudimental competition drumming turned the drag into a technical staple, most famously through "Lesson 25," a drag-based exercise so standard in rudimental pedagogy that generations of corps and marching drummers learned it as a rite of passage. That rudimental lineage is currently referenced directly on this site's own rudiments overview, which names drags alongside flams and rolls as core sticking vocabulary - yet, until now, the drag itself has lacked a dedicated technical breakdown. In metal, drummers with drum-corps or rudimental training bring drags into extreme and progressive metal fills as textured ornaments around strong accents: Mike Mangini (Dream Theater) applies drag-based figures within his intricate, rudiment-derived fills to add rhythmic texture without adding full roll density, while Gavin Harrison (Porcupine Tree, King Crimson) uses drag-style ornamentation to add subtle texture around the dynamic, ghost-note-dense phrasing that defines his playing. Matt Garstka (Animals as Leaders) similarly draws on drag and rudiment-derived ornaments when constructing the linear, jazz-influenced fills that characterize his progressive metal vocabulary.`,
+    howToLearn: [
+      'Isolate the two grace notes first - practice a quiet, quick double-stroke bounce on one hand alone until it sounds even and controlled',
+      'Add a single accented main stroke immediately after the grace notes, keeping a clear volume contrast between the soft drag and the loud accent',
+      'Practice the drag with the main stroke on the same hand that played the grace notes before trying the opposite-hand version',
+      'Say the rhythm aloud - "duh-duh DUH" - to internalize the timing relationship between the grace notes and the accent',
+      'Slow the tempo down until the two grace notes are clearly two distinct, even bounces rather than a single blurred buzz',
+      'Study "Lesson 25," the classic drum-corps drag exercise, once single drags are solid, to build speed and consistency',
+      'Move the accented stroke around the kit - snare to tom - to hear how the drag textures different fill placements',
+      'Apply drags inside paradiddle-based patterns (drag paradiddles) once the basic figure is clean at a range of tempos',
+    ],
+    variations: [
+      { name: 'Single Drag Tap', description: 'A single drag (two grace notes plus an accent) followed by an additional tap, forming a four-note phrase' },
+      { name: 'Double Drag Tap', description: 'Two consecutive drags followed by a final tap, extending the figure for longer accented passages' },
+      { name: 'Drag Paradiddle', description: 'A paradiddle sticking with a drag added before the first note, blending ornament and sticking pattern' },
+      { name: 'Lesson 25', description: 'A classic drum-corps exercise built almost entirely from single drag taps, used to build drag speed and consistency' },
+    ],
+    masters: [
+      { name: 'Mike Mangini', slug: 'mike-mangini', band: 'Dream Theater', note: 'Applies drag-based figures within intricate, rudiment-derived fills to add texture without full roll density' },
+      { name: 'Gavin Harrison', slug: 'gavin-harrison', band: 'Porcupine Tree / King Crimson', note: 'Uses drag-style ornamentation to add subtle texture around dynamic, ghost-note-dense phrasing' },
+      { name: 'Matt Garstka', slug: 'matt-garstka', band: 'Animals as Leaders', note: 'Draws on drag and rudiment-derived ornaments when constructing linear, jazz-influenced fills' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced rebound makes the quick double-bounce grace notes easier to control' },
+        { name: 'Practice sticks with rubber tips', reason: 'Quiet, low-fatigue repetition for isolating the soft grace-note bounce' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Sensitive, consistent rebound ideal for feeling the two-grace-note bounce distinctly' },
+        { name: 'Metronome with subdivisions', reason: 'Keeps the grace notes and accented main stroke locked to a consistent rhythmic relationship' },
+      ],
+      tips: 'A drag should sound like two distinct soft notes before the accent, not a single buzzed blur. If the grace notes disappear into one sound, slow down until you can hear both bounces clearly before adding speed.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['double-stroke-roll', 'paradiddle', 'rudiments'],
+    seoKeywords: ['drag rudiment', 'ruff drumming', 'how to play a drag', 'drum rudiment drags', 'single drag tap'],
   },
 };
 

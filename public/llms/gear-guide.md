@@ -1,5 +1,5 @@
 # MetalForge — Metal Drum Gear Guide
-> Last Updated: 2026-07-03 · Source: https://metalforge.io
+> Last Updated: 2026-07-06 · Source: https://metalforge.io
 
 A brand-by-brand guide to the drums, cymbals, pedals, and sticks used by the world's legendary metal drummers. Each brand lists the roster drummers who play it; follow the brand link for the full breakdown.
 

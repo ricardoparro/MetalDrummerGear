@@ -1423,3 +1423,29 @@ Standing watch item from every run since 2026-07-05: confirm the 06:00 UTC sched
 4. Next L1/L2/L3 snapshots due today (2026-07-06) — should be the first ones to reflect genuinely-fixed crawler visibility for drummer pages.
 
 ---
+
+## 2026-07-06 12:15 — Traced today's L3/L1 verifier fallout to the already-merged #3817 fix; triaged 3 fresh seo-proposals
+
+### Context (≤3 lines)
+Two fresh verifier umbrellas landed this morning: #3810 (GSC watch, 5 big-losses) and #3819 (indexation watch, 64 actionable — 57 duplicates all canonicalizing to `/drummer/jay-weinberg`, 5 new 404s). Backlog was 3 eligible ai-fix (deep in promote-liberally band, cap 80).
+
+### Actions taken
+- **Root-caused the L3 duplicate-canonical cluster instead of filing a new bug.** Cross-checked every affected route family (`/articles/:slug`, `/guides/:slug`, `/drummers/:slug/gear-history`) in `vercel.json` against PR #3817 (fix for #3807's 16-route bot-rewrite 404 bug) — exact match. #3817 merged 2026-07-06T11:22:21Z, but the last production deploy fired 07:29:35Z the same day — the fix hasn't shipped yet. Confirmed via `gh run list --workflow=deploy-prod.yml` and `gh pr view 3817 --json mergedAt`. All 57 duplicate rows + 5 error-404 rows have "last crawl" dates before the deploy, consistent with Google having crawled the broken (pre-fix) state.
+- **Tied 3 of the L1 big-losses to the same root cause** (jay-weinberg/brann-dailor/danny-carey — all ≤10 total impressions this week, i.e. too low-volume to be signal on their own) rather than filing 3 separate low-value issues. **Did not** file anything for `joey jordison drum set/drum kit` (big-loss on impressions but position *improved* on both, with sibling JJ queries simultaneously new/big-win) — diagnosed as query-variant redistribution within an already-healthy cluster, not a regression.
+- Commented the full diagnosis on #3819 and #3810 directly instead of opening new `ai-fix` issues — avoids duplicating work #3817 already did. Logged the pattern + a general rule ("cluster of unrelated URLs all canonicalizing to one arbitrary page → check if that page's route family was recently broken, not a fresh canonical bug") to `learned-patterns.md`, and added a watch item to `pending-issues.md` for verifying the next deploy.
+- **Triaged 3 fresh `seo-proposal` issues**, independently verifying each before promoting: #3809 (factual misattribution — confirmed `dirk-verbeuren.js` line 33 fabricates a "Dystopia" recording narrative that contradicts the site's own correct `chris-adler.js` and `extendedBios.js` data), #3811 (5 genuine duplicate album-article pairs, e.g. Tomas Haake's Catch 33/Catch Thirtythree), #3812 (HowTo schema gap — confirmed 24/105 techniques have unused `howToLearn` step data, zero `HowTo` schema anywhere on the site). All promoted to `ai-fix`.
+- **Founder ideas**: inbox empty. **Atomic split**: none needed — all 3 pre-existing `ai-fix` issues (#3782/#3794/#3800) are same-day, not stale.
+
+### State delta
+- ai-fix backlog: 3 → 6 eligible (#3809/#3811/#3812 promoted)
+- seo-proposal bank: 3 untriaged → 0 (#2211 standing L2 tracker unchanged)
+- Org/Sessions/Views (7d): 172/209/330 · GSC: 4,167 impr / 119 clicks / 2.86% CTR / pos 7.9
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged with independent verification, all promoted. ✅ GSC-gap: `joey jordison drum set` unchanged, no new escalation (fix already live, watching for CTR recovery). ✅ Atomic split: none needed. ✅ Decisions logged + learned-patterns.md + pending-issues.md updated.
+
+### Next Run
+1. **Top priority**: check `gh run list --workflow=deploy-prod.yml --limit 1` for a run after 2026-07-06T11:22:21Z (PR #3817's merge). Once found, re-curl `/articles/hellhammer-drum-setup` and `/guides/best-cymbals-for-progressive-metal` with a bot UA expecting `x-meta-handler: hit-v1` before trusting the fix — same discipline as every prior step of the meta-shell saga.
+2. Once confirmed deployed, expect the L3 duplicate/404 counts to drop over 1-2 weeks as Google re-crawls — don't expect an instant fix in next week's snapshot.
+3. Watch #3782 (PR #3818 open, replaces the conflict-closed #3793) through to merge.
+4. Next L1/L2/L3 snapshots due 2026-07-13 (weekly cadence).

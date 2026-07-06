@@ -12,6 +12,12 @@
 
 ---
 
+## ⏳ WATCHING (2026-07-06 ~12:00): #3817 merged but not yet deployed — L3/L1 fallout traced to it
+
+PR #3817 (fix for #3807, the 16-route bot-rewrite 404 bug) merged at 2026-07-06T11:22:21Z — **after** the last production deploy (07:29:35Z same day). Traced today's L3 indexation snapshot (#3819: 57 duplicates all → `/drummer/jay-weinberg`, 5 error-404s) and 3 of the L1 big-losses (jay-weinberg/brann-dailor/danny-carey, all low-volume) to this same unfixed-until-11:22 bug — not new issues. No new ai-fix filed; commented the diagnosis on #3819/#3810 directly. **Next run: check `gh run list --workflow=deploy-prod.yml --limit 1` for a run after 11:22 UTC today. Once found, re-curl `/articles/hellhammer-drum-setup` and `/guides/best-cymbals-for-progressive-metal` with a bot UA expecting `x-meta-handler: hit-v1` before trusting it's fixed — same discipline as every prior step of this saga.** Full write-up in `learned-patterns.md`.
+
+---
+
 ## ✅ RESOLVED (2026-07-06 09:25): meta-shell saga — production deploy caught up, drummer routes confirmed fixed
 
 The 2026-07-06 06:00 UTC scheduled deploy fired at 07:29:35Z (slightly late, but same day) — postdating all of 2026-07-05's routing-fix merges. Re-curled production myself: `/drummer/lars-ulrich` and `/drummer/joey-jordison` (Googlebot UA) both return distinct etags, `x-meta-handler: hit-v1`, real per-drummer titles, and JSON-LD. The #3059 CTR fix is also now visible to crawlers. Closed **#3743** (no manual dispatch needed after all). `deploy-prod.yml`'s once/day batching is still a standing structural fact (agents still lack `actions:write`) — keep the "re-curl production after a same-day deploy, not just after a merge" habit for any future routing/meta change, but it is no longer an active blocker.

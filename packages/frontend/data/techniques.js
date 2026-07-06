@@ -120,8 +120,57 @@ export const techniques = {
     },
     videos: [
     ],
-    relatedTechniques: ['blast-beat', 'triggered-drums', 'odd-time-signatures'],
+    relatedTechniques: ['gallop', 'blast-beat', 'triggered-drums', 'odd-time-signatures'],
     seoKeywords: ['double bass drumming', 'double kick technique', 'heel toe technique', 'metal bass drum', 'double pedal tutorial'],
+  },
+
+  'gallop': {
+    slug: 'gallop',
+    title: 'Gallop Rhythm',
+    emoji: '🐎',
+    metaTitle: 'Gallop Rhythm - The Iron Maiden Bass Drum Pattern | MetalForge',
+    metaDescription: 'Learn the gallop rhythm drum pattern made famous by Iron Maiden. History, practice steps, variations, and the metal drummers who play it.',
+    category: 'foundational',
+    difficulty: 'intermediate',
+    bpmRange: '120-220 BPM',
+    description: `The gallop is a rhythmic bass drum figure built from a repeating long-short-short grouping - most often voiced as an eighth note followed by two sixteenth notes - that mimics the cadence of a galloping horse. Rather than sustaining even note values like a straight double bass pattern, the gallop's uneven subdivision creates forward-driving momentum that locks in with palm-muted guitar riffs built on the same rhythmic cell, which is why it became the signature rhythmic identity of the New Wave of British Heavy Metal. The pattern can be played entirely on a single bass drum pedal, alternated between two feet on a double pedal, or split between a foot and a hand for variety, but its defining trait is always the uneven long-short-short pulse rather than the pedal configuration used to produce it. In thrash metal, the same rhythmic cell sped up and made denser becomes the engine behind galloping palm-mute riffs and the bass drum patterns that drive them, making the gallop one of the most immediately recognizable rhythmic fingerprints in metal drumming - identifiable even without the guitars underneath it.`,
+    history: `The gallop rhythm became metal's signature triplet-adjacent groove through the New Wave of British Heavy Metal in the late 1970s and early 1980s, with Iron Maiden driving the pattern on early albums before Nicko McBrain took over the drum stool in 1982 and made the single-bass-drum gallop the band's defining rhythmic signature, powering songs like "The Trooper" and "Run to the Hills" entirely with one foot rather than a double pedal. McBrain's insistence on producing the gallop's full speed and stamina from a single bass drum, rather than splitting the workload across two feet, became a hallmark of his technique and proof that the pattern's identity lives in its uneven rhythmic cell rather than any particular footwork setup. As thrash metal emerged later in the 1980s, drummers absorbed the same long-short-short rhythmic DNA and accelerated it: Dave Lombardo (Slayer) drove galloping bass drum patterns under the genre's rapid palm-muted riffing, and Charlie Benante (Anthrax) built thrash-gallop figures into some of the style's most instantly recognizable rhythm-section moments. The pattern's reach beyond NWOBHM and thrash into nearly every subsequent metal subgenre shows how effectively its uneven subdivision locks bass drum and guitar into a single rhythmic identity.`,
+    howToLearn: [
+      'Count the underlying long-short-short subdivision out loud before touching the pedal',
+      'Practice the pattern slowly on a single pedal, keeping the two short strokes even in volume',
+      'Isolate the pattern on a practice pad or unplugged pedal to build the uneven timing without worrying about volume',
+      'Play the gallop against a metronome set to quarter notes, landing the "long" note squarely on the click',
+      'Once comfortable on one foot, try splitting the pattern across a double pedal to lighten the workload per foot',
+      'Practice the gallop underneath a simple palm-muted guitar riff or backing track to hear how the two lock together',
+      'Increase tempo gradually - a rushed short-short pair is the most common breakdown point at speed',
+      'Apply the pattern in short bursts inside a song structure rather than only as a standalone drill, since musical context reveals whether the timing is actually locking with the riff',
+    ],
+    variations: [
+      { name: 'Single Foot Gallop', description: 'The full long-short-short pattern played entirely on one bass drum pedal, as popularized by Nicko McBrain' },
+      { name: 'Double Pedal Gallop', description: 'The same rhythmic cell split across two feet on a double pedal to reduce single-foot workload' },
+      { name: 'Thrash Gallop', description: 'A faster, denser variation driving rapid palm-muted riffing in thrash metal' },
+      { name: 'Hand-Foot Gallop', description: 'The long note played on a cymbal or snare while the two short notes stay on the bass drum' },
+    ],
+    masters: [
+      { name: 'Nicko McBrain', slug: 'nicko-mcbrain', band: 'Iron Maiden', note: 'Built Iron Maiden\'s signature galloping rhythms entirely with a single bass drum pedal, powering songs like "The Trooper" and "Run to the Hills"' },
+      { name: 'Dave Lombardo', slug: 'dave-lombardo', band: 'Slayer', note: 'Drives galloping bass drum patterns under thrash metal\'s rapid palm-muted riffing' },
+      { name: 'Charlie Benante', slug: 'charlie-benante', band: 'Anthrax', note: 'Built thrash-gallop bass drum figures into some of the genre\'s most recognizable rhythm-section moments' },
+    ],
+    gearRecommendations: {
+      pedals: [
+        { name: 'Tama Iron Cobra 900', reason: 'Reliable single-pedal response for driving a full gallop pattern with one foot' },
+        { name: 'Pearl Demon Drive', reason: 'Direct-drive feel that keeps the two short notes of the gallop even at speed' },
+      ],
+      practice: [
+        { name: 'Metronome with subdivisions', reason: 'Essential for keeping the long-short-short cell locked to the beat rather than drifting into a straight triplet or straight 16th feel' },
+        { name: 'Drum practice pad or unplugged pedal', reason: 'Isolates the uneven timing without needing a full kit' },
+      ],
+      tips: 'The gallop only feels right when the two short notes stay even with each other and the long note does not rush - most beginners speed up the short pair and lose the pattern\'s identity as tempo increases.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['double-bass', 'groove-drumming'],
+    seoKeywords: ['gallop rhythm', 'gallop drum pattern', 'iron maiden gallop beat', 'how to play a gallop', 'galloping bass drum technique'],
   },
 
   'gravity-blast': {
@@ -1033,8 +1082,57 @@ export const techniques = {
     },
     videos: [
     ],
-    relatedTechniques: ['rudiments', 'hand-foot-independence'],
+    relatedTechniques: ['paradiddle-diddle', 'rudiments', 'hand-foot-independence'],
     seoKeywords: ['paradiddle', 'paradiddle rudiment', 'how to play a paradiddle', 'RLRR LRLL sticking', 'paradiddle tutorial'],
+  },
+
+  'paradiddle-diddle': {
+    slug: 'paradiddle-diddle',
+    title: 'Paradiddle-Diddle',
+    emoji: '➰',
+    metaTitle: 'Paradiddle-Diddle - The RLRRLL Rudiment | MetalForge',
+    metaDescription: 'Learn the paradiddle-diddle drumming rudiment (RLRRLL). History, practice steps, variations, and how metal drummers use its rolling double strokes.',
+    category: 'foundational',
+    difficulty: 'intermediate',
+    bpmRange: 'Any',
+    description: `The paradiddle-diddle is a six-note sticking pattern - right, left, right, right, left, left (RLRRLL) - that opens with a single right-left pair before closing with a double stroke on each hand. It sits alongside the single paradiddle and double paradiddle in the paradiddle family: shorter than the double paradiddle's six-note RLRLRR LRLRLL cycle, but built from the same idea of alternating single strokes with a closing double, only here the "diddle" portion is doubled up at the end instead of appearing once per hand. Because the pattern packs two consecutive double strokes back to back, it produces a distinctly rolling, legato feel compared to the sharper accent shifts of the plain paradiddle. In metal drumming, the paradiddle-diddle is most useful as a building block for fills and linear phrases that need a smoother, more connected feel than single-stroke-based patterns provide - the back-to-back doubles let a drummer cover more surface area on the kit with less physical effort per note, which is valuable when constructing fast, technical fills across toms.`,
+    history: `The paradiddle-diddle is one of the 40 International Drum Rudiments recognized by the Percussive Arts Society, classified within the paradiddle family alongside the single paradiddle, double paradiddle, and triple paradiddle. Unlike the American Standard 26, which only formalized the single and double paradiddle, the paradiddle-diddle's diddle-heavy structure grew out of rudimental drumming's broader vocabulary of double-stroke-based patterns before being folded into the modern international standard. Its structural logic overlaps directly with rudiments metal drummers already lean on: Mike Mangini (Dream Theater) applies paradiddle-family stickings, including diddle-heavy variations, as building blocks for the dense, technically demanding fills that define his progressive-metal vocabulary. Gavin Harrison (Porcupine Tree, King Crimson) draws on the same rudimental double-stroke logic underlying the paradiddle-diddle when constructing the displaced, polymetric phrasing his playing is known for, using the pattern's rolling doubles to add legato movement inside otherwise angular grooves. Matt Garstka (Animals as Leaders) builds linear, jazz-influenced fills from paradiddle-family stickings including the paradiddle-diddle, frequently splitting its six notes between hands and feet so the doubled portion of the pattern moves fluidly around the kit rather than staying fixed on the snare. The pattern's place alongside the double paradiddle in the same rudimental family makes it a natural next step once a drummer has the base paradiddle and double paradiddle under their hands.`,
+    howToLearn: [
+      'Master the single paradiddle first so the opening right-left pair feels automatic before adding the extra doubles',
+      'Say the sticking aloud - "right left right right left left" - before picking up the sticks',
+      'Practice slowly on a pad, keeping the two closing double strokes as even as the opening single strokes',
+      'Isolate just the double-stroke ending (RR LL) until both doubles sound like clean, matched pairs of notes',
+      'Loop the full six-note pattern continuously, listening for the smoother, rolling feel compared to a plain paradiddle',
+      'Move the pattern around the kit - snare to tom to floor tom - to use the doubles for fluid surface coverage',
+      'Compare it directly against the double paradiddle to hear how the placement of the doubles changes the pattern\'s character',
+      'Apply the sticking to fills and linear passages once solid, using the doubled notes to cover ground quickly with less effort',
+    ],
+    variations: [
+      { name: 'Standard Paradiddle-Diddle', description: 'The base six-note pattern (RLRRLL) combining a single pair with two closing doubles' },
+      { name: 'Reverse Paradiddle-Diddle', description: 'Sticking starts on the double-stroke portion before resolving into the single pair' },
+      { name: 'Double Paradiddle-Diddle', description: 'An eight-note extension adding an extra pair of singles before the two closing doubles' },
+      { name: 'Linear Paradiddle-Diddle', description: 'The six-note sticking split between hands and feet so no limb repeats consecutively' },
+    ],
+    masters: [
+      { name: 'Mike Mangini', slug: 'mike-mangini', band: 'Dream Theater', note: 'Applies paradiddle-family stickings, including diddle-heavy variations, as building blocks for dense progressive-metal fills' },
+      { name: 'Gavin Harrison', slug: 'gavin-harrison', band: 'Porcupine Tree / King Crimson', note: 'Uses the paradiddle-diddle\'s rolling doubles to add legato movement inside displaced, polymetric grooves' },
+      { name: 'Matt Garstka', slug: 'matt-garstka', band: 'Animals as Leaders', note: 'Splits the paradiddle-diddle\'s six notes between hands and feet for jazz-influenced progressive metal fills' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced weight keeps the closing double strokes even with the opening single-stroke pair' },
+        { name: 'Practice sticks with rubber tips', reason: 'Quiet repetition for isolating the two closing doubles without excess noise' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Consistent rebound for feeling both double strokes clearly' },
+        { name: 'Metronome with subdivisions', reason: 'Keeps all six notes locked to the beat as tempo increases' },
+      ],
+      tips: 'The paradiddle-diddle only sounds like a rudiment rather than a stumble when the two closing doubles match the volume of the opening pair - if the second double fades, slow down until all six notes are even.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['paradiddle', 'double-paradiddle', 'rudiments'],
+    seoKeywords: ['paradiddle-diddle', 'paradiddle diddle rudiment', 'how to play a paradiddle-diddle', 'RLRRLL sticking', 'PAS 40 rudiments'],
   },
 
   'double-stroke-roll': {
@@ -1325,7 +1423,7 @@ export const techniques = {
     },
     videos: [
     ],
-    relatedTechniques: ['paradiddle', 'single-stroke-roll', 'polyrhythms'],
+    relatedTechniques: ['paradiddle', 'paradiddle-diddle', 'single-stroke-roll', 'polyrhythms'],
     seoKeywords: ['double paradiddle', 'double paradiddle rudiment', 'how to play a double paradiddle', 'RLRLRR LRLRLL sticking', 'six note paradiddle'],
   },
 

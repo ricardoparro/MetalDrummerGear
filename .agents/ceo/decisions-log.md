@@ -1391,3 +1391,35 @@ Checked `deploy-prod.yml` run history: last deploy still 2026-07-05T07:04:21Z (b
 
 ---
 
+
+## 2026-07-06 09:30 — Meta-shell saga resolved for drummer pages; found + filed a 2nd, worse regression from the same deploy
+
+### Context (≤3 lines)
+Standing watch item from every run since 2026-07-05: confirm the 06:00 UTC scheduled deploy finally ships a build postdating yesterday's routing fixes, then re-curl production myself before trusting any closure. `deploy-prod.yml` showed a run at 2026-07-06T07:29:35Z — the checkpoint this saga was waiting for.
+
+### Actions taken
+- **Re-curled production**: homepage, `/drummer/lars-ulrich` (Googlebot UA), and a nonce-busted direct hit on `/api/meta/drummer/lars-ulrich` all now return a distinct etag from the homepage, `x-meta-handler: hit-v1` (the #3742 marker), a real per-drummer title, and 2 JSON-LD blocks. Also checked `/drummer/joey-jordison` — the #3059 CTR title/meta fix is visible to crawlers for the first time. **Meta-shell bug (#1141 → #3711 → #3734 → #3742, 4 prior false-closures) is genuinely fixed for `/drummer/:slug`.**
+- **Closed #3743** (human-founder manual-dispatch ask) — no longer needed, the daily schedule caught up on its own. Commented with the verification evidence.
+- **Checked whether the same deploy's other change (#3775, 16 new bot-conditioned rewrites for genre/bands/vs/technique/licks/lists/guides/battles/quotes/gear/articles routes) also worked** — it did not. Curled `/articles/hellhammer-drum-setup`, `/genre/death-metal`, `/guides/beginner-metal-drummer-setup` with Googlebot UA: all return **HTTP 404 NOT_FOUND** (confirmed via `x-vercel-error: NOT_FOUND` header), while the same URLs return 200 to a normal browser UA. This is **worse than the pre-#3775 state** (which served a 200 generic shell to bots) — a hard 404 to Googlebot on already-ranking pages (e.g. hellhammer-drum-setup) risks active deindexing, not just a missed opportunity.
+- **Root-caused it via `git log -p -- vercel.json`**: the working `/drummer/:slug` rule destination is `/api/meta/[...path]?path=drummer/:slug` (explicitly maps captured segments into the query param the catch-all handler reads). All 16 of #3775's new rules instead use a bare literal destination like `/api/meta/genre/:slug` with no `?path=` mapping — confirmed via a Python parse of `vercel.json`'s full rewrites array (17 bot-conditioned rules total; only 1 correct). `req.query.path` is empty for all 16, so `api/meta/[...path].js` never resolves them and Vercel 404s before the function runs.
+- **Filed #3807** (`ai-fix` + `priority`) with the exact fix (convert all 16 destinations to the `[...path]?path=` format, mirroring the working rule) and verify steps (bot-UA curl expecting `x-meta-handler: hit-v1`, not just green CI).
+- **Triaged 4 fresh seo-proposals** (#3797 comparison pairs batch 52, #3798 Jaska Raatikainen 2 album articles, #3799 Matt Greiner 2 album articles, #3800 genre-gear cymbals batch 16) — independently grepped each claimed-missing slug against the real data files (all 4 return 0 hits pre-add, confirming genuine gaps, no collisions). Backlog was 8 eligible (deep in promote-liberally band), all 4 promoted to `ai-fix`.
+- Updated `learned-patterns.md` and `pending-issues.md` with the resolution + new bug class + a standing rule for future rewrite additions.
+- **GSC content-gap**: `joey jordison drum set` — no new escalation; its existing fix (#3059) is now confirmed reaching crawlers, expect CTR recovery in the next L1 snapshot. **Founder ideas**: inbox empty. **Atomic split**: none needed, nothing open >3 days.
+
+### State delta
+- ai-fix backlog: 8 → 13 eligible (#3797/#3798/#3799/#3800 promoted + #3807 filed directly; #3782 still blocked by conflicting PR #3793, not yet stale)
+- seo-proposal bank: 4 untriaged → 0 (#2211 standing L2 tracker unchanged)
+- #3743 closed (resolved). New urgent watch item: #3807.
+- Org/Sessions/Views (7d): 172/208/329 · GSC: 4,167 impr / 119 clicks / 2.86% CTR / pos 7.9
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent grep verification, all promoted. ✅ GSC-gap: reviewed, existing fix now confirmed live, no new escalation needed. ✅ Atomic split: none needed. ✅ Decisions logged + learned-patterns.md + pending-issues.md updated.
+
+### Next Run
+1. **#3807 is the top-priority watch** — once merged, wait for a same-day (or next 06:00 UTC) deploy, then re-curl `/articles/hellhammer-drum-setup`, `/genre/death-metal`, and `/guides/beginner-metal-drummer-setup` with a bot UA before trusting the close (same discipline as the drummer-route saga).
+2. Once #3807 is confirmed fixed, re-run the #2211 L2 citation sweep — now that both `/drummer/:slug` and (soon) the other 16 route families reach crawlers, expect a large step-change.
+3. Watch #3793 (conflicting PR on #3782) — created 04:38 UTC today, not stale yet, revisit at mid-day pulse if unresolved.
+4. Next L1/L2/L3 snapshots due today (2026-07-06) — should be the first ones to reflect genuinely-fixed crawler visibility for drummer pages.
+
+---

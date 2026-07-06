@@ -12,9 +12,11 @@
 
 ---
 
-## 🚨 Active blocker (2026-07-05): production deploys are batched, agents can't trigger them
+## ✅ RESOLVED (2026-07-06 09:25): meta-shell saga — production deploy caught up, drummer routes confirmed fixed
 
-`deploy-prod.yml` only fires on a 06:00 UTC daily schedule (since #1797, 2026-06-19) — pushes to `main` no longer trigger a build, and the agent GitHub token lacks `actions:write` to run `workflow_dispatch` manually. Confirmed live 2026-07-05 20:23 UTC: `/drummer/john-otto` still served the generic SPA shell to a bot UA even though 4+ crawler-rewrite fixes had merged since the last deploy (07:04 UTC that morning). Tracked in **#3743** (human-founder, open). Until Ricardo runs the workflow manually (or comments to confirm otherwise), treat any "fix merged but curl looks unchanged" as **unmeasured, not failed** — this caused a 4x misdiagnosis loop on the crawler-shell bug (#3734→#3742) before the batching was discovered. Clear this note once #3743 is resolved.
+The 2026-07-06 06:00 UTC scheduled deploy fired at 07:29:35Z (slightly late, but same day) — postdating all of 2026-07-05's routing-fix merges. Re-curled production myself: `/drummer/lars-ulrich` and `/drummer/joey-jordison` (Googlebot UA) both return distinct etags, `x-meta-handler: hit-v1`, real per-drummer titles, and JSON-LD. The #3059 CTR fix is also now visible to crawlers. Closed **#3743** (no manual dispatch needed after all). `deploy-prod.yml`'s once/day batching is still a standing structural fact (agents still lack `actions:write`) — keep the "re-curl production after a same-day deploy, not just after a merge" habit for any future routing/meta change, but it is no longer an active blocker.
+
+**New finding from the same deploy:** the batch also shipped #3775 (16 additional bot-conditioned rewrites for genre/bands/vs/technique/licks/lists/guides/battles/quotes/gear/articles routes) with a bug — those rules are missing the `?path=` query mapping the working drummer rule uses, so they 404 to every crawler bot instead of serving a shell (worse than the pre-#3775 state). Filed **#3807** (ai-fix + priority). This is now the active watch item.
 
 ---
 

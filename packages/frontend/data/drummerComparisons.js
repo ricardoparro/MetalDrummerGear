@@ -2860,6 +2860,86 @@ export const drummerComparisons = {
       { q: 'What gear do Raymond Herrera and Chris Turner use?', a: 'Raymond Herrera played a Pearl Reference Series kit with a triggered Pearl Custom snare and Zildjian Z Custom cymbals, driven by a Pearl Eliminator double pedal with extensive triggering. Chris Turner plays a Tama Starclassic Walnut/Birch kit with a Tama S.L.P. Vintage Hammered Steel snare and Meinl Byzance & Pure Alloy Series cymbals, driven by a Tama Speed Cobra 910 double pedal.' },
     ],
   },
+
+  'matt-greiner-vs-eloy-casagrande': {
+    slug: 'matt-greiner-vs-eloy-casagrande',
+    title: 'Matt Greiner vs Eloy Casagrande',
+    metaTitle: 'Matt Greiner vs Eloy Casagrande — Metalcore vs Thrash Drumming | MetalForge',
+    metaDescription: 'August Burns Red\'s Matt Greiner vs Slipknot\'s Eloy Casagrande. Grammy-nominated metalcore technique versus thrash-forged groove power. Style, gear, and influence compared.',
+    category: 'other',
+    drummers: ['matt-greiner', 'eloy-casagrande'],
+    comparison: {
+      style: 'Matt Greiner co-founded August Burns Red in Lancaster, Pennsylvania in 2003 and has anchored the band\'s Grammy-nominated metalcore catalog ever since, known for jazz-influenced dynamics and creative use of space within dense, technical arrangements. Eloy Casagrande spent 13 years driving Sepultura\'s thrash metal engine before joining Slipknot in 2024, bringing explosive speed and locked-in groove power to one of nu-metal\'s most demanding live shows.',
+      technique: 'Greiner blends jazz-informed dynamics with rapid-fire double bass and intricate kick patterns, favoring musicality and creative cymbal work over raw speed within metalcore\'s breakdown-driven structure. Casagrande combines Brazilian rhythmic roots with thrash metal power, prioritizing groove-locked double bass and explosive fills that translate directly from Sepultura\'s technical thrash catalog to Slipknot\'s multi-percussion live assault.',
+      gear: 'Greiner plays a Pearl Reference Pure kit with his Pearl Matt Greiner Signature 14"x6" Steel snare and Meinl Byzance cymbals (15" Dual Hi-Hats, 18"/19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and Vic Firth Matt Greiner Signature sticks. Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14"x6.5" snare and Paiste cymbals (15" Masters Dark Hi-Hats, 20" Formula 602 & Masters Dark Crashes, 20" 2002 Power Ride, 20" 2002 Novo China), driven by a Tama Iron Cobra Power Glide double pedal.',
+      influence: 'Greiner\'s technical, dynamics-forward approach earned August Burns Red a Grammy nomination for Best Metal Performance and helped raise metalcore\'s musical ceiling beyond breakdown-first songwriting. Casagrande was named Modern Drummer\'s No. 1 metal drummer in its 2024 Readers\' Poll the same year he joined Slipknot, instantly becoming one of the most-watched drummers in metal.',
+    },
+    verdict: 'Matt Greiner and Eloy Casagrande represent two of modern metal\'s most technically demanding drum chairs from different angles. Greiner brings jazz-informed musicality to Grammy-nominated metalcore, while Casagrande brings thrash-forged groove and speed to Slipknot\'s theatrical intensity. Both prove that today\'s heaviest bands still need drummers who can think as well as hit hard.',
+  },
+
+  'matt-greiner-vs-chris-adler': {
+    slug: 'matt-greiner-vs-chris-adler',
+    title: 'Matt Greiner vs Chris Adler',
+    metaTitle: 'Matt Greiner vs Chris Adler — Metalcore vs Groove Metal Drumming | MetalForge',
+    metaDescription: 'August Burns Red\'s Matt Greiner vs Lamb of God\'s Chris Adler. Technical metalcore dynamics versus groove metal\'s triplet-driven precision. Gear, technique, and legacy compared.',
+    category: 'other',
+    drummers: ['matt-greiner', 'chris-adler'],
+    comparison: {
+      style: 'Matt Greiner co-founded August Burns Red in 2003 and built a reputation for jazz-influenced dynamics and creative pacing within metalcore\'s technical, breakdown-heavy songwriting, earning a Grammy nomination for Best Metal Performance in 2020. Chris Adler co-founded Lamb of God (as Burn the Priest) in Richmond, Virginia in 1994 and spent 25 years defining groove metal\'s technical template with syncopated triplet-based patterns on New Wave of American Heavy Metal landmarks like "Ashes of the Wake" (2004) and "Sacrament" (2006).',
+      technique: 'Greiner incorporates jazz dynamics, rapid-fire double bass, and creative cymbal work into metalcore\'s dense arrangements, treating space and dynamic contrast as compositional tools rather than afterthoughts. Adler pioneered precise triplet-based groove drumming built around signature kick patterns and explosive snare accents, fusing death metal-derived intensity with a pocket player\'s sense of groove that became NWOAHM\'s technical benchmark.',
+      gear: 'Greiner plays a Pearl Reference Pure kit with his Pearl Matt Greiner Signature 14"x6" Steel snare and Meinl Byzance cymbals (15" Dual Hi-Hats, 18"/19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Pearl Demon Drive double pedal and Vic Firth Matt Greiner Signature sticks. Adler plays a Mapex Black Panther Design Lab kit with his Mapex Chris Adler Signature 14"x5.5" Walnut/Maple snare and Meinl Byzance cymbals (14" Dark Hi-Hats, 18"/19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China), driven by a Mapex Falcon double pedal and Vic Firth Chris Adler Signature sticks.',
+      influence: 'Greiner\'s dynamics-forward technicality helped push metalcore beyond pure breakdown songwriting and earned August Burns Red a Grammy nomination. Adler earned five Grammy nominations across Lamb of God\'s catalog and a Grammy win for Megadeth\'s "Dystopia" (2016), and his triplet-driven groove vocabulary remains one of the most imitated templates in 21st-century American heavy metal.',
+    },
+    verdict: 'Matt Greiner and Chris Adler both share Meinl Byzance cymbals and Vic Firth signature sticks, but arrived at technical excellence from opposite directions — Greiner through jazz-informed metalcore musicality, Adler through groove metal\'s triplet-driven precision. Greiner raised metalcore\'s creative ceiling; Adler built groove metal\'s technical foundation for a generation of NWOAHM drummers.',
+  },
+
+  'adrian-erlandsson-vs-martin-axenrot': {
+    slug: 'adrian-erlandsson-vs-martin-axenrot',
+    title: 'Adrian Erlandsson vs Martin Axenrot',
+    metaTitle: 'Adrian Erlandsson vs Martin Axenrot — Swedish Death Metal Drumming | MetalForge',
+    metaDescription: 'At the Gates\' Adrian Erlandsson vs Opeth\'s Martin Axenrot. Melodic death metal\'s founding aggression versus progressive death metal\'s twin-kick power. Gear and legacy compared.',
+    category: 'extreme',
+    drummers: ['adrian-erlandsson', 'martin-axenrot'],
+    comparison: {
+      style: 'Adrian Erlandsson co-founded At the Gates and drove the drumming on "Slaughter of the Soul" (1995) — the record that codified the Gothenburg melodic death metal template — before playing in The Haunted (2000-2003) and Cradle of Filth, and later spending 2009-2016 with Paradise Lost. Martin Axenrot joined Opeth in 2006 and made his studio debut on "Watershed" (2008), bringing a heavier, twin-bass-drum attack informed by his parallel work in death metal supergroup Bloodbath (since 2008) and black/thrash band Witchery (1997-2010).',
+      technique: 'Erlandsson\'s technique is rooted in hardcore punk bluntness rather than technical precision, giving "Slaughter of the Soul" a ferocious, violent-yet-musical immediacy that became a genre blueprint. Axenrot\'s twin 22" bass drum Sonor setup gave Opeth\'s post-2006 material a more forceful low end than predecessor Martin Lopez\'s single-kick rig, while still serving the progressive, dynamics-driven songwriting that defines Opeth\'s catalog.',
+      gear: 'Erlandsson built his early career on a budget Pearl Export-style kit with Zildjian A-Series cymbals during the "Slaughter of the Soul" sessions, later transitioning to the Tama Starclassic Bubinga, Sabian AAX-HHX cymbals, and Monolit Czarcie Kopyto pedals he plays with At the Gates today. Axenrot plays a Sonor SQ2 Series kit built around twin 22"x18" bass drums and a Sonor SQ2 14"x5.75" Maple snare, with Meinl Byzance cymbals (14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, 22" Traditional Ride, 18" China) and a Tama Iron Cobra double pedal.',
+      influence: 'Erlandsson\'s "Slaughter of the Soul" drumming became one of the most copied rhythmic templates in extreme metal, directly shaping bands from Killswitch Engage to In Flames. Axenrot has now held Opeth\'s drum chair longer than Lopez did, steering the band through its most stylistically transformative period — including the largely clean-vocal "Heritage" and "Pale Communion" — while maintaining membership in Bloodbath, one of death metal\'s most respected supergroups.',
+    },
+    verdict: 'Adrian Erlandsson and Martin Axenrot represent Swedish extreme metal drumming from two connected but distinct lineages. Erlandsson helped invent Gothenburg melodic death metal\'s hardcore-fueled aggression with At the Gates; Axenrot brought a heavier, twin-kick precision to Opeth\'s progressive death metal evolution. Together they trace a direct line from Sweden\'s mid-1990s underground to its progressive death metal establishment.',
+  },
+
+  'jason-bittner-vs-navene-koperweis': {
+    slug: 'jason-bittner-vs-navene-koperweis',
+    title: 'Jason Bittner vs Navene Koperweis',
+    metaTitle: 'Jason Bittner vs Navene Koperweis — Thrash vs Technical Metal | MetalForge',
+    metaDescription: 'Shadows Fall\'s Jason Bittner vs Entheos\' Navene Koperweis. NWOAHM groove power versus technical djent/death metal precision. Gear, technique, and influence compared.',
+    category: 'extreme',
+    drummers: ['jason-bittner', 'navene-koperweis'],
+    comparison: {
+      style: 'Jason Bittner spent nearly a decade and a half with Shadows Fall through metalcore\'s early-2000s commercial peak, including the Grammy-nominated "The War Within" (2004), before joining thrash veterans Overkill in 2017. Navene Koperweis cut his teeth in grindcore band Animosity and death metal outfit The Faceless before joining Animals as Leaders for "Weightless" (2011), later founding progressive metal band Entheos in 2015 and working as a session drummer for Machine Head.',
+      technique: 'Bittner built his reputation on powerful, driving double bass and tight, punchy snare work that translates seamlessly between metalcore\'s breakdown-driven aggression and Overkill\'s classic thrash gallop — a groove-first, road-tested consistency over technical showcase playing. Koperweis employs machine-precise polyrhythms and blast-beat fluency shaped by his technical death metal roots, favoring a compact, articulate five-piece kit built for clarity in dense, layered mixes rather than the sprawling double-kick configurations common among his technical-metal peers.',
+      gear: 'Bittner plays a Tama Starclassic Performer B/B kit with a Tama Starphonic Steel 14"x6.5" snare and Sabian HHX/HH Series cymbals (14" HHX Hi-Hats, 16"/18" HHX Crashes, 20" HH Ride), driven by a DW 9002 double bass pedal and Vic Firth 5B sticks. Koperweis plays a DW Performance Series maple 5-piece kit with a DW Performance 14"x6.5" steel snare and a Meinl Byzance Extra Dry cymbal spread (15" Dual Hi-Hats, 18"/19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash).',
+      influence: 'Bittner helped define early-2000s metalcore\'s rhythmic vocabulary during Shadows Fall\'s commercial peak before seamlessly stepping into thrash metal royalty with Overkill, becoming one of the rare drummers to anchor top-tier bands in two distinct American heavy metal subgenres. Koperweis has shaped modern djent and technical death metal through Entheos and session work for Job for a Cowboy and Machine Head, proving restraint and clarity can be as technically demanding as sprawling double-kick showcases.',
+    },
+    verdict: 'Jason Bittner and Navene Koperweis represent two very different paths through modern American extreme metal. Bittner built a two-decade career on groove-first, road-tested power spanning metalcore and thrash. Koperweis pursued technical precision and compositional restraint across death metal, djent, and progressive metal. The debate is durable pocket-playing versus surgical technicality.',
+  },
+
+  'chris-turner-vs-isaac-lamb': {
+    slug: 'chris-turner-vs-isaac-lamb',
+    title: 'Chris Turner vs Isaac Lamb',
+    metaTitle: 'Chris Turner vs Isaac Lamb — Metalcore vs Beatdown Hardcore | MetalForge',
+    metaDescription: 'Oceans Ate Alaska\'s Chris Turner vs Kublai Khan TX\'s Isaac Lamb. Viral progressive metalcore footwork versus crushing beatdown hardcore groove. Gear and style compared.',
+    category: 'other',
+    drummers: ['chris-turner', 'isaac-lamb'],
+    comparison: {
+      style: 'Chris Turner co-founded progressive metalcore band Oceans Ate Alaska in Birmingham, UK, in 2010, and became a viral sensation for playthrough videos showcasing extreme footwork and polyrhythmic complexity on albums like "Hikari" (2017) and "Disparity" (2022). Isaac Lamb has been Kublai Khan TX\'s sole drummer since the Sherman, Texas beatdown hardcore band\'s 2009 founding, building a career on power-through-restraint groove rather than technical showmanship across "Nomad" (2017) and "Absolute" (2019).',
+      technique: 'Turner blends extreme-speed double bass with complex polyrhythms and jazz-influenced fills, seamlessly transitioning between blast beats and groove sections while maintaining the clarity that made his social media playthroughs go viral. Lamb prioritizes devastating breakdown timing and consistent, direct-drive kick response over flash, using tight bearing-edge shells to give his kick-snare relationship the focused attack that punches through Kublai Khan TX\'s heavily downtuned 7-string guitars.',
+      gear: 'Turner endorses Tama Drums and Meinl Cymbals, playing a Tama Starclassic Maple/Birch kit with a Tama S.L.P. 14"x5.5" G-Maple snare and Meinl Byzance cymbals (15" Dual Hi-Hats, 18"/20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China), driven by a Tama Speed Cobra 910 double pedal. Lamb plays a boutique SJC Custom Drums kit in American maple with an SJC Custom 14"x6.5" maple snare and a complete Meinl Classics Custom Dark cymbal setup (14" Dark Hi-Hats, 18"/20" Dark Crashes, 21" Dark Ride, 18" Dark China), driven by a DW 9000 Series double pedal.',
+      influence: 'Turner has inspired a new generation of drummers through his viral social media presence, with playthrough videos accumulating tens of millions of views and demonstrating that progressive metalcore\'s technical ceiling keeps rising well into the streaming era. Lamb has helped establish beatdown hardcore as one of modern metal\'s most respected offshoots, with "Absolute" (2019) widely cited as the genre-defining statement of his sole-drummer tenure.',
+    },
+    verdict: 'Chris Turner and Isaac Lamb both built devoted followings without leaning on genre-standard flash, but from opposite ends of heavy music\'s technical spectrum. Turner pushes progressive metalcore\'s polyrhythmic ceiling through viral, footwork-driven precision. Lamb proves beatdown hardcore\'s crushing breakdowns demand their own form of disciplined mastery. Neither chases complexity for its own sake — both prioritize serving the song.',
+  },
 };
 
 /**

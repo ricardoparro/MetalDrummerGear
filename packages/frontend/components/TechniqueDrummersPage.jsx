@@ -159,6 +159,20 @@ export function buildTechniqueDrummersSchema(technique, faq, video) {
 
   const schemas = [itemList, faqPage];
 
+  if (Array.isArray(technique.howToLearn) && technique.howToLearn.length > 0) {
+    schemas.push({
+      '@context': 'https://schema.org',
+      '@type': 'HowTo',
+      name: `How to Learn the ${technique.title} Technique`,
+      description: `Step-by-step guide to learning the ${technique.title} drumming technique.`,
+      step: technique.howToLearn.map((stepText, index) => ({
+        '@type': 'HowToStep',
+        position: index + 1,
+        text: stepText,
+      })),
+    });
+  }
+
   if (video && video.youtubeId) {
     schemas.push({
       '@context': 'https://schema.org',

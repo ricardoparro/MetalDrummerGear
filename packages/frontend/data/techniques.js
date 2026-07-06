@@ -1230,6 +1230,153 @@ export const techniques = {
     relatedTechniques: ['double-stroke-roll', 'paradiddle', 'rudiments'],
     seoKeywords: ['drag rudiment', 'ruff drumming', 'how to play a drag', 'drum rudiment drags', 'single drag tap'],
   },
+
+  'flam-tap': {
+    slug: 'flam-tap',
+    title: 'Flam Tap',
+    emoji: '🎵',
+    metaTitle: 'Flam Tap Rudiment - Flam Plus Tap Sticking | MetalForge',
+    metaDescription: 'Learn the flam tap drumming rudiment (flam + tap, same hand repeated). History, practice steps, variations, and metal drummers who use it in fills.',
+    category: 'foundational',
+    difficulty: 'intermediate',
+    bpmRange: 'Any',
+    description: `The flam tap is one of the Percussive Arts Society's 40 essential rudiments, built by pairing a flam with a tap on the same hand before switching sides - a flammed right stroke followed by an unaccented right tap, then a flammed left stroke followed by an unaccented left tap, repeating in a steady eighth-note pulse. The result is a rolling, accented-unaccented pattern that reads as "FLAM-tap FLAM-tap," giving each pair of notes a natural strong-weak shape instead of the even density of a straight roll. Because it is built directly from the single flam - itself one of the first accent rudiments a drummer learns - the flam tap functions as the natural bridge between basic flam control and the more advanced flam rudiments like the flammed paradiddle and flamacue. In metal drumming, the flam tap is a go-to tool for fills and lead-in phrases that need a fat, accented note followed by a softer follow-through: a flam-tap figure across the snare and toms gives a fill instant weight on its downbeats while keeping the connecting notes light enough not to clutter the phrase.`,
+    history: `The flam tap is one of the 26 American Standard Rudiments codified by the National Association of Rudimental Drummers in the 1930s and remains part of the modern 40 International Drum Rudiments recognized by the Percussive Arts Society, where it sits in the flam family alongside the flam accent, flamacue, and flammed paradiddle. Its rudimental roots run through military and drum corps drumming, where the alternating accented-and-unaccented pulse of the flam tap made it a staple exercise for building both flam control and the coordination needed to keep a strong-weak pattern locked to a steady pulse - it remains a core teaching rudiment in modern drum corps and marching percussion curricula for exactly that reason. In metal, drummers with rudimental backgrounds fold the flam tap's accent structure directly into technical fill vocabulary: Mike Mangini (Dream Theater) applies flam-tap-based phrasing within his drum-corps-rooted fills, using the rudiment's built-in accent shape to add weight to specific notes inside rapid, technically dense patterns. Matt Garstka (Animals as Leaders) draws on flam tap and related flam-family rudiments when constructing the linear, jazz-influenced fills that define his progressive metal playing, often spreading the accented and unaccented notes across different drums for a melodic effect. Charlie Benante (Anthrax), who came up through rudimental snare drumming before anchoring one of thrash metal's most influential rhythm sections, carries that same flam-based accent vocabulary into the precise, powerful fills that punctuate his thrash grooves.`,
+    howToLearn: [
+      'Master the single flam first, since the flam tap is simply a flam immediately followed by a tap on the same hand',
+      'Practice one hand alone - flam, then a quiet unaccented tap, then switch to the other hand and repeat',
+      'Keep a clear volume gap between the accented flam and the softer tap that follows it, so the pattern reads as strong-weak rather than two equal notes',
+      'Say the rhythm aloud - "FLAM-tap FLAM-tap" - to lock the accent structure in before adding speed',
+      'Loop the pattern continuously, alternating hands every flam-tap pair, so the sticking flows without hesitation between sides',
+      'Practice on a pad first to isolate the flam spacing before moving to a full kit where cross-stick resonance can mask timing errors',
+      'Move the pattern around the toms once it is solid on the snare, using the accented flam to define which drum leads the fill',
+      'Increase tempo gradually with a metronome, backing off any time the accent-to-tap volume contrast starts to blur',
+    ],
+    variations: [
+      { name: 'Single Flam Tap', description: 'The base pattern - one flam and one tap per hand, alternating sides in a steady pulse' },
+      { name: 'Flam Tap Fill', description: 'The rudiment spread across snare and toms so each accented flam lands on a different drum' },
+      { name: 'Double Flam Tap', description: 'Two consecutive flam-tap pairs on the same hand before switching, used for longer accent groupings' },
+      { name: 'Flam Tap into Flammed Paradiddle', description: 'Transitioning flam tap phrasing directly into a flammed paradiddle for extended flam-based vocabulary' },
+    ],
+    masters: [
+      { name: 'Mike Mangini', slug: 'mike-mangini', band: 'Dream Theater', note: 'Applies flam-tap-based phrasing within drum-corps-rooted fills to add weight to specific notes' },
+      { name: 'Matt Garstka', slug: 'matt-garstka', band: 'Animals as Leaders', note: 'Draws on flam tap and flam-family rudiments when constructing linear, jazz-influenced fills' },
+      { name: 'Charlie Benante', slug: 'charlie-benante', band: 'Anthrax', note: 'Carries rudimental flam-based accents from a snare drumming background into powerful thrash fills' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced weight makes it easier to feel the volume contrast between the flam and the following tap' },
+        { name: 'Practice sticks with rubber tips', reason: 'Quiet, controlled repetition for isolating flam spacing and tap volume' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Consistent rebound for hearing exactly how tight the flam lands before the tap' },
+        { name: 'Metronome with subdivisions', reason: 'Keeps the alternating flam-tap pulse locked to an even eighth-note grid as tempo increases' },
+      ],
+      tips: 'The flam tap lives or dies on the gap between its two dynamic levels - if the tap is as loud as the flam, the pattern loses its rolling, accented shape and just sounds like four even notes.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['flams', 'paradiddle', 'rudiments'],
+    seoKeywords: ['flam tap', 'flam tap rudiment', 'how to play a flam tap', 'flam tap drumming', 'flam rudiment fills'],
+  },
+
+  'double-paradiddle': {
+    slug: 'double-paradiddle',
+    title: 'Double Paradiddle',
+    emoji: '🔄',
+    metaTitle: 'Double Paradiddle - The RLRLRR LRLRLL Rudiment | MetalForge',
+    metaDescription: 'Learn the double paradiddle drumming rudiment (RLRLRR LRLRLL). History, practice steps, variations, and how metal drummers use its six-note groupings.',
+    category: 'foundational',
+    difficulty: 'intermediate',
+    bpmRange: 'Any',
+    description: `The double paradiddle extends the base paradiddle's four-note idea into a six-note sticking pattern - right, left, right, left, right, right, then left, right, left, right, left, left (RLRLRR LRLRLL) - adding an extra pair of single strokes before the closing double. Where the standard paradiddle rotates its accent every four notes, the double paradiddle's longer six-note cycle creates a different phrasing feel entirely: because six does not divide evenly into common four-beat groupings the way four does, playing the double paradiddle continuously against a steady pulse produces a shifting accent that lands on a different beat each time the pattern repeats. That property makes it one of the most useful rudiments for building odd-groupings and polymetric-feeling phrases without abandoning a clean, learnable sticking. In metal drumming, the double paradiddle shows up in exactly those contexts - progressive fills that need to feel like they are floating against the underlying meter, and linear passages where a six-note sticking cell gets superimposed over a 4/4 or odd-time groove to create rhythmic tension.`,
+    history: `The double paradiddle is one of the 26 American Standard Rudiments codified by the National Association of Rudimental Drummers in the 1930s and remains part of the modern 40 International Drum Rudiments recognized by the Percussive Arts Society, sitting alongside the single paradiddle and paradiddle-diddle in the paradiddle family. Its rudimental purpose was to extend the accent-rotation logic of the basic paradiddle into a longer phrase, giving rudimental and drum corps drummers a six-note building block that could be grouped against different time signatures for advanced sticking exercises. That same six-against-four displacement property is precisely what makes the rudiment attractive to progressive and technical metal drummers: Mike Mangini (Dream Theater) uses double-paradiddle-based sticking as a building block for odd-time fills, exploiting the pattern's natural six-note phrasing to create lines that shift against the underlying pulse. Matt Garstka (Animals as Leaders) builds rudiment-derived linear patterns extensively from paradiddle-family stickings, including the double paradiddle, frequently splitting its six notes between hands and feet for jazz-influenced progressive metal fills. Danny Carey (Tool) constructs much of his polyrhythmic vocabulary from sticking cells that repeat in cycles longer than the prevailing meter, and the double paradiddle's six-note phrase is exactly the kind of rudimental building block that produces the shifting, hypnotic accents his playing is known for.`,
+    howToLearn: [
+      'Master the single paradiddle first, since the double paradiddle simply adds one extra pair of single strokes before the closing double',
+      'Say the sticking aloud - "right left right left right right, left right left right left left" - before picking up the sticks',
+      'Practice slowly on a pad, keeping all four single strokes even in volume before worrying about the double at the end',
+      'Focus on the closing double stroke sounding like two clean, matched notes, exactly as in the single paradiddle',
+      'Loop the pattern continuously and listen for how the accent naturally shifts to a new beat each time the six-note cycle repeats',
+      'Count the pattern in groups of six against a steady quarter-note click to feel how it drifts against a 4/4 pulse',
+      'Move the pattern around the kit - snare to tom to floor tom - to hear the six-note phrase create natural melodic movement',
+      'Apply the sticking to hand-foot linear patterns once it is solid, splitting notes between limbs for odd-time or polyrhythmic fills',
+    ],
+    variations: [
+      { name: 'Standard Double Paradiddle', description: 'The base six-note pattern (RLRLRR LRLRLL) combining two extra singles with a closing double' },
+      { name: 'Triple Paradiddle', description: 'An eight-note extension adding yet another pair of singles before the closing double' },
+      { name: 'Double Paradiddle-Diddle', description: 'A double paradiddle with the closing double stroke replaced by two doubles for an even longer phrase' },
+      { name: 'Linear Double Paradiddle', description: 'The six-note sticking split between hands and feet so no limb repeats consecutively, common in progressive metal fills' },
+    ],
+    masters: [
+      { name: 'Mike Mangini', slug: 'mike-mangini', band: 'Dream Theater', note: 'Uses double-paradiddle-based sticking to build odd-time fills that shift against the underlying pulse' },
+      { name: 'Matt Garstka', slug: 'matt-garstka', band: 'Animals as Leaders', note: 'Splits the double paradiddle\'s six notes between hands and feet for jazz-influenced progressive metal fills' },
+      { name: 'Danny Carey', slug: 'danny-carey', band: 'Tool', note: 'Builds hypnotic polyrhythmic vocabulary from six-note rudimental cells like the double paradiddle' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced weight helps keep the extra pair of single strokes even with the rest of the pattern' },
+        { name: 'Practice sticks with rubber tips', reason: 'Quiet repetition for isolating the closing double-stroke bounce at the end of the six-note phrase' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Consistent rebound for feeling the double-stroke portion of the longer pattern clearly' },
+        { name: 'Metronome with subdivisions', reason: 'Essential for hearing how the six-note phrase drifts against a steady four-beat pulse' },
+      ],
+      tips: 'The double paradiddle only sounds musical when the extra pair of singles stays as even as the rest of the pattern - if you rush toward the closing double, the six-note cycle collapses back into something that sounds like a plain paradiddle.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['paradiddle', 'single-stroke-roll', 'polyrhythms'],
+    seoKeywords: ['double paradiddle', 'double paradiddle rudiment', 'how to play a double paradiddle', 'RLRLRR LRLRLL sticking', 'six note paradiddle'],
+  },
+
+  'six-stroke-roll': {
+    slug: 'six-stroke-roll',
+    title: 'Six Stroke Roll',
+    emoji: '6️⃣',
+    metaTitle: 'Six Stroke Roll - The RLLRRL Rudiment | MetalForge',
+    metaDescription: 'Learn the six stroke roll (RLLRRL) drumming rudiment. History, practice steps, variations, and how metal drummers use it in blast beats and fills.',
+    category: 'foundational',
+    difficulty: 'intermediate',
+    bpmRange: 'Any',
+    description: `The six stroke roll combines a single stroke, a double stroke, another double stroke, and a closing single stroke into one six-note figure - right, left-left, right-right, left (RLLRRL), or its mirror LRRLLR. Unlike the five and seven stroke rolls, which are built purely from repeating double strokes capped by an accent, the six stroke roll opens and closes on single strokes with two double strokes sandwiched in the middle, giving it a distinctive rhythmic shape that sits between pure single-stroke and pure double-stroke vocabulary - much like the paradiddle does, but built entirely from roll technique rather than sticking pattern. That structure makes the six stroke roll a genuinely foundational building block: it bridges the single stroke roll and double stroke roll already central to blast beat and fill technique with the extended odd-numbered rolls, teaching a drummer to switch cleanly between struck and bounced strokes within a single continuous phrase. In metal drumming, the six stroke roll's even-numbered length and mixed single/double structure make it a natural fit for fills that need to resolve back onto the same hand they started with, and its blend of single and double strokes directly reinforces the coordination that dense extreme-metal fill and blast vocabulary depends on.`,
+    history: `The six stroke roll is one of the 26 American Standard Rudiments codified by the National Association of Rudimental Drummers in the 1930s and remains part of the modern 40 International Drum Rudiments recognized by the Percussive Arts Society, classified among the roll rudiments alongside the five, seven, and nine stroke rolls. Its military and drum corps origins mirror those of the other measured rolls - a fixed, countable figure useful for precise signaling - but its single-double-double-single structure made it a distinct technical exercise in its own right, specifically valued for training a drummer to alternate cleanly between struck singles and bounced doubles inside one unbroken phrase. That same struck-to-bounced coordination is foundational to extreme metal's fastest playing: George Kollias (Nile) builds fill and transition vocabulary on exactly this kind of mixed single/double roll technique, using the coordination it demands to move seamlessly between blast patterns and technical fills without losing evenness. Pete Sandoval (Morbid Angel) drew on the same rudimental roll foundation - single strokes blended with double-stroke bursts - when developing the hyper-blast technique that redefined death metal drumming speed. Gene Hoglan (Death, Testament) applies the six stroke roll's blend of single and double strokes within his technically precise fills, using the rudiment's built-in structure to move fluidly between accented hits and rolled passages inside complex, groove-driven patterns.`,
+    howToLearn: [
+      'Master the single stroke roll and double stroke roll separately first, since the six stroke roll alternates directly between the two techniques',
+      'Say the sticking aloud - "right left-left right-right left" - before picking up the sticks, to internalize where the singles and doubles fall',
+      'Practice the two double strokes in the middle of the phrase at a matched, even volume before worrying about the surrounding singles',
+      'Land the opening and closing single strokes with clear, deliberate strikes rather than letting them blur into the bounced doubles',
+      'Drill both RLLRRL and mirrored LRRLLR so the roll can start and resolve from either hand',
+      'Use a metronome and treat the six-note figure as a single unit, isolating the transition points between single and double strokes',
+      'Move the roll around the kit - snare into toms - to build fills that resolve cleanly back onto the starting hand',
+      'Increase tempo gradually, only once the single-to-double and double-to-single transitions stay smooth and even at a slow pace',
+    ],
+    variations: [
+      { name: 'Open Six Stroke Roll', description: 'Slow, fully articulated RLLRRL with clear separation between the single and double strokes' },
+      { name: 'Closed (Fast) Six Stroke Roll', description: 'Tightly bounced doubles compressed toward a single roll sound, bookended by clear single strokes' },
+      { name: 'Mirrored Six Stroke Roll', description: 'LRRLLR version practiced equally so the roll can start and resolve from either leading hand' },
+      { name: 'Six Stroke Roll Fill', description: 'The roll applied across snare and toms as a compact fill that resolves back onto the starting hand for a clean groove re-entry' },
+    ],
+    masters: [
+      { name: 'George Kollias', slug: 'george-kollias', band: 'Nile', note: 'Builds fill and transition vocabulary on mixed single/double roll technique to move seamlessly between blasts and fills' },
+      { name: 'Pete Sandoval', slug: 'pete-sandoval', band: 'Morbid Angel', note: 'Drew on rudimental single-and-double-stroke roll technique in developing the pioneering hyper-blast' },
+      { name: 'Gene Hoglan', slug: 'gene-hoglan', band: 'Death/Testament', note: 'Applies the six stroke roll\'s blend of singles and doubles within technically precise, groove-driven fills' },
+    ],
+    gearRecommendations: {
+      sticks: [
+        { name: 'Vic Firth American Classic 5A', reason: 'Balanced rebound helps switch cleanly between the struck singles and bounced doubles in the pattern' },
+        { name: 'Practice sticks with rubber tips', reason: 'Quiet repetition for isolating the transition points between single and double strokes' },
+      ],
+      practice: [
+        { name: 'Drum practice pad (Evans RealFeel)', reason: 'Consistent, lively rebound ideal for feeling the double-stroke bounce clearly within the mixed pattern' },
+        { name: 'Metronome with subdivisions', reason: 'Keeps the six-note figure locked to the beat as tempo increases' },
+      ],
+      tips: 'The six stroke roll most often falls apart at the handoff between a single stroke and the double that follows it - practice just that transition in isolation before trying to play the whole figure at speed.',
+    },
+    videos: [
+    ],
+    relatedTechniques: ['five-stroke-roll', 'seven-stroke-roll', 'blast-beat'],
+    seoKeywords: ['six stroke roll', 'six stroke roll rudiment', 'how to play a six stroke roll', 'RLLRRL sticking', 'measured roll drumming'],
+  },
 };
 
 /**

@@ -1643,7 +1643,7 @@ export const articles = {
     ],
     "evolution": {
       "title": "The Dusk in Us to Bloodmoon: I — Koller's Continuing Arc",
-      "content": "The Dusk in Us is the fullest expression of Ben Koller's Tama Starclassic Performer B/B era — the moment when his gear and his playing are fully aligned with Converge's musical direction. The Grammy nomination and UK chart entry confirmed that Converge's evolution had carried its audience with it.\n\nAfter The Dusk in Us, Koller continued his Converge work with Bloodmoon: I (2021) — the collaborative album with Chelsea Wolfe, Emma Ruth Rundle, and Steve Von Till that pushed Converge's atmospheric and dynamic range even further. His playing on Bloodmoon: I shows the same Tama Starclassic Performer B/B setup applied to the most restrained and dynamic material of his career.\n\nThe Dusk in Us represents the culmination of the arc from Jane Doe (2001) through You Fail Me, No Heroes, Axe to Fall, and All We Love We Leave Behind — sixteen years of Converge drumming that built one of the great bodies of work in heavy music, with the same drummer behind the kit from first note to last.",
+      "content": "The Dusk in Us is the fullest expression of Ben Koller's Tama Starclassic Performer B/B era — the moment when his gear and his playing are fully aligned with Converge's musical direction. The Grammy nomination and UK chart entry confirmed that Converge's evolution had carried its audience with it.\n\nAfter The Dusk in Us, Koller continued his Converge work with Bloodmoon: I (2021) — the collaborative album with Chelsea Wolfe (with additional contributions from Stephen Brodsky and Ben Chisholm) that pushed Converge's atmospheric and dynamic range even further. His playing on Bloodmoon: I shows the same Tama Starclassic Performer B/B setup applied to the most restrained and dynamic material of his career. Full breakdown: [Bloodmoon: I drum setup](/articles/bloodmoon-i-drum-setup).\n\nThe Dusk in Us represents the culmination of the arc from Jane Doe (2001) through You Fail Me, No Heroes, Axe to Fall, and All We Love We Leave Behind — sixteen years of Converge drumming that built one of the great bodies of work in heavy music, with the same drummer behind the kit from first note to last.",
       "thenVsNow": [
         {
           "category": "Kit",
@@ -1991,6 +1991,273 @@ export const articles = {
     "conclusion": {
       "title": "The All-Star Hardcore Statement",
       "content": "Axe to Fall sits as one of the most ambitious records in Converge's catalog — an unprecedented all-star collaboration that pulled members of Mastodon, Cave In, Genghis Tron, Neurosis, and Disfear into a single set of mathcore-rooted compositions. Ben Koller's drum setup on the album is the same core rig that powered Jane Doe eight years earlier, refined and expanded for the more progressive arrangements.\n\nFor drummers building an Axe to Fall-inspired rig, the principles are continuity and refinement:\n- **Tama Starclassic / Bubinga shells**: Focused attack with deep fundamental\n- **Single 22\" bass drum**: Trust your foot\n- **Brass-shell 14\"x6.5\" snare**: Bright, cutting, tuned medium-high\n- **Sabian HHX / AAX**: Complementary dark and bright voices, expanded with splash and X-Plosion\n- **Tama Iron Cobra single pedal**: Smooth, consistent single-foot feel\n\nAxe to Fall demonstrates that a great drum setup doesn't have to change every album. Koller's Jane Doe setup, refined over eight more years of touring and recording, served Axe to Fall's expanded ambition without compromise. The blast-and-breakdown vocabulary was already locked in. The collaborators brought new textures. Koller's job was to drive the band through every shift in feel — and his Tama / Sabian / Iron Cobra / Vater rig was built for exactly that."
+    }
+  },
+  "bloodmoon-i-drum-setup": {
+    "slug": "bloodmoon-i-drum-setup",
+    "albumTitle": "Bloodmoon: I",
+    "artist": "Converge & Chelsea Wolfe",
+    "drummer": "Ben Koller",
+    "drummerId": 34,
+    "relatedDrummerSlug": "ben-koller",
+    "year": 2021,
+    "genre": "Hardcore / Atmospheric Sludge Metal",
+    "label": "Epitaph Records / Deathwish Inc.",
+    "studio": "GodCity Studio, Salem, Massachusetts",
+    "producer": "Kurt Ballou",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-06",
+    "dateModified": "2026-07-06",
+    "author": "MetalForge Editorial",
+    "title": "Ben Koller's Drum Setup on Bloodmoon: I (2021) — Converge & Chelsea Wolfe",
+    "description": "Inside Ben Koller's drum setup for Bloodmoon: I (2021), Converge's collaborative album with Chelsea Wolfe — the Tama Starclassic Performer B/B, Zildjian K Custom and A Custom cymbals, and the most restrained, dynamically extreme drumming of Koller's career.",
+    "seoKeywords": [
+      "bloodmoon i drum setup",
+      "ben koller bloodmoon",
+      "converge chelsea wolfe drums",
+      "ben koller 2021 drum kit",
+      "bloodmoon i converge chelsea wolfe",
+      "ben koller tama starclassic performer b/b",
+      "converge collaborative album drums"
+    ],
+    "ogImage": "/images/albums/bloodmoon-i-drums.webp",
+    "intro": {
+      "title": "The Collaborative Ambition: Converge Meets Chelsea Wolfe",
+      "content": "Released November 19, 2021 on Epitaph Records and Deathwish Inc., Bloodmoon: I paired Converge with singer-songwriter Chelsea Wolfe for a full-length collaborative album — the most atmospheric and dynamically extreme record of Ben Koller's career. Written and performed by Jacob Bannon, Kurt Ballou, Nate Newton, and Koller alongside Chelsea Wolfe, with additional contributions from Converge's longtime collaborator Stephen Brodsky (Cave In, Mutoid Man) and Wolfe's longtime collaborator Ben Chisholm, the album pushed Converge's sound further from hardcore's blast-and-breakdown vocabulary than any release before it.\n\nWhere The Dusk in Us (2017) stretched Converge's dynamic range within a still-recognizably hardcore framework, Bloodmoon: I abandons the framework almost entirely on tracks like \"Blood Moon,\" \"Flower Moon,\" and \"Tongues Playing Dead\" — songs built on doom-paced tempos, layered vocal harmonies between Bannon and Wolfe, and long stretches of atmosphere rather than aggression. Koller's job across the record's eleven tracks is less about delivering intensity and more about shaping space: knowing when restraint serves the song and when to bring the kit's full weight to bear.\n\nRecorded and mixed by Kurt Ballou at GodCity Studio in Salem, Massachusetts — the same room behind every Converge album since Jane Doe (2001) — Bloodmoon: I still used Koller's fully settled touring rig: the Tama Starclassic Performer B/B, Zildjian K Custom and A Custom cymbals, Tama Iron Cobra pedal, and Vater signature sticks. No new gear was required. What changed was how Koller used it — pulling dynamic range and textural nuance out of the same setup that powered Axe to Fall's all-out aggression four years earlier.\n\nThis article breaks down Ben Koller's Bloodmoon: I drum setup and examines how his most collaborative, least hardcore-oriented Converge record still required every tool in his established rig.",
+      "keyPoints": [
+        "Released November 19, 2021 on Epitaph Records / Deathwish Inc.",
+        "Collaborative full-length with Chelsea Wolfe, featuring Stephen Brodsky and Ben Chisholm",
+        "Recorded and mixed by Kurt Ballou at GodCity Studio",
+        "Converge's most atmospheric, least hardcore-oriented record to date",
+        "Same Tama Starclassic Performer B/B / Zildjian K-A Custom rig as The Dusk in Us"
+      ]
+    },
+    "drumKit": {
+      "title": "Koller's Bloodmoon: I Kit: The Settled Performer B/B, Deployed for Restraint",
+      "brand": "Tama",
+      "model": "Tama Starclassic Performer B/B",
+      "finish": "Piano Black touring configuration",
+      "config": {
+        "bassdrums": [
+          "22\" Bass Drum (single kick)"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" Floor Tom"
+        ],
+        "shells": "Birch/Bubinga hybrid — focused attack of birch with warmth of bubinga"
+      },
+      "description": "Ben Koller's Bloodmoon: I kit is the identical Tama Starclassic Performer B/B rig he settled into for The Dusk in Us — the same 22\" single bass drum, the same compact 10\"/12\" rack tom and 16\" floor tom spread, the same birch/bubinga hybrid shells. No gear change was needed for the album's more atmospheric direction, because the B/B's articulate-yet-warm voicing was already suited to material that asks for more than pure aggression.\n\nWhat Bloodmoon: I demands differently is touch. On the title track \"Blood Moon\" and the slow-building \"Flower Moon,\" Koller's kick and toms have to register at a fraction of the velocity his Converge parts usually require, without losing definition. The B/B shells' clarity at low volume — a byproduct of the same birch punch that cuts through distorted guitars at full volume — makes this possible without switching kits or reconfiguring the setup.\n\nThe single-kick approach, unchanged since Jane Doe two decades earlier, remains intact. Bloodmoon: I never asks for double-kick density; if anything, the album's pacing rewards Koller's single-foot precision more than any prior Converge record, since sparser arrangements leave every kick stroke exposed.",
+      "notes": [
+        "Identical Tama Starclassic Performer B/B rig carried over from The Dusk in Us",
+        "Single 22\" bass drum — precision matters more than density on this record",
+        "Birch/Bubinga shells register clearly at both whisper-quiet and full-volume dynamics",
+        "No new gear required — the settled rig proved versatile enough for the album's atmospheric shift"
+      ],
+      "estimatedValue": "$1,800–2,800 (Tama Starclassic Performer B/B shell pack)"
+    },
+    "snare": {
+      "title": "The Snare: Tama S.L.P. Carries the Album's Quietest Moments",
+      "brand": "Tama",
+      "model": "Tama S.L.P. (Studio Legendary Percussion)",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel or wood — bright projection tuned down for restraint",
+      "description": "Koller's Tama S.L.P. snare — his settled choice since the mid-2010s — carries more responsibility on Bloodmoon: I than on any prior Converge record, because so much of the album asks the snare to be felt rather than dominant. On \"Viscera of Men\" and \"Coil,\" tracks that retain more of Converge's traditional intensity, the S.L.P. delivers its usual cutting rimshot crack. On the doom-paced, Wolfe-fronted passages of \"Blood Moon\" and \"Flower Moon,\" the same drum is tuned down and played with far less force, favoring the rounder, more resonant voice the 6.5\" depth allows at lower tension.\n\nThis dual demand — full aggression on some tracks, atmospheric restraint on others, sometimes within the same song — is the clearest evidence of Bloodmoon: I's dynamic range. Kurt Ballou's mix leaves considerably more space around the snare than on a typical hardcore-oriented Converge record, letting the drum's natural resonance and Chelsea Wolfe's vocal harmonies breathe together rather than compete.",
+      "tuningSetting": "Variable — medium-high for the album's harder tracks, lower tension for its atmospheric passages",
+      "heads": "Evans G1 Coated batter; Evans 300 Snare Side resonant",
+      "estimatedValue": "$200–400 (Tama S.L.P. series)"
+    },
+    "cymbals": {
+      "title": "Zildjian K Custom and A Custom — Texture Over Impact",
+      "brand": "Zildjian",
+      "series": "Zildjian K Custom / A Custom",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian K Custom Dark Hi-Hats 14\"",
+          "position": "Left side",
+          "notes": "Dark, complex voice used for texture as much as time-keeping on the album's atmospheric tracks"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom Crash 18\"",
+          "position": "Left crash",
+          "notes": "Reserved for the record's harder, more traditionally Converge-sounding sections"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom Crash 19\"",
+          "position": "Right crash",
+          "notes": "Full crash voice for the album's climactic arrivals"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian K Custom Ride 21\"",
+          "position": "Right",
+          "notes": "The album's primary textural tool — extended use across the doom-paced tracks"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A Custom China 18\"",
+          "position": "Over toms",
+          "notes": "Used sparingly — reserved for the record's most violent moments"
+        }
+      ],
+      "description": "Ben Koller's Zildjian K Custom and A Custom setup carries over unchanged from The Dusk in Us, but its role on Bloodmoon: I shifts toward texture. The K Custom Ride 21\" — already Koller's tool of choice for atmospheric passages on The Dusk in Us's closer \"It Rides\" — becomes the album's primary cymbal voice, its complex wash and defined bell providing continuous textural support beneath Chelsea Wolfe's vocal lines on tracks like \"Flower Moon\" and \"Tongues Playing Dead.\"\n\nThe K Custom Dark Hi-Hats do double duty as both timekeeper and texture, their controlled, complex chick registering as an atmospheric element in the album's quieter stretches rather than disappearing into the arrangement. The A Custom crashes and china are used more sparingly than on any other Converge record in Koller's catalog — reserved for the tracks that retain more of the band's traditional hardcore intensity, like \"Viscera of Men\" and \"Coil,\" where their explosive brightness marks a genuine contrast against the album's more restrained material.",
+      "estimatedValue": "$1,500–2,500 (full Zildjian K Custom / A Custom touring setup)"
+    },
+    "hardware": {
+      "title": "Iron Cobra, Vater Sticks, Evans Heads — Unchanged",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra (Power Glide or Rolling Glide)",
+          "notes": "Single pedal — no configuration change from Koller's established setup",
+          "description": "The Iron Cobra's smooth, consistent chain-drive feel serves Bloodmoon: I's precision demands as reliably as it served the blast-beat density of earlier Converge records — the same pedal, deployed for a different kind of control."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater Ben Koller Signature",
+          "notes": "Custom-spec hickory stick — same model used since the early 2010s"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD (batter), ported resonant",
+        "toms": "Evans G2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Evans G1 Coated (batter), Evans 300 Snare Side (resonant)"
+      }
+    },
+    "recordingTechniques": {
+      "title": "GodCity 2021: Ballou Produces His Most Atmospheric Converge Session",
+      "content": "Bloodmoon: I was written, recorded, and mixed by Kurt Ballou at GodCity Studio in Salem, Massachusetts — the same room and engineer behind every Converge album since Jane Doe, but tasked here with a fundamentally different brief. Rather than capturing maximum aggression, Ballou's job was to give Koller's drums, Chelsea Wolfe's vocals, and the album's slower, more textural arrangements room to coexist.\n\n**Microphone Setup (approximate):**\n- Kick drum: Shure Beta 52 inside, AKG D112 outside\n- Snare: Shure SM57 top, condenser bottom\n- Toms: Sennheiser MD421 on each tom\n- Hi-hat: AKG C451 small-diaphragm condenser\n- Overheads: AKG C414 large-diaphragm condensers\n- Room mics: Extensive use for the album's atmospheric passages\n\n**Production Character:**\nBloodmoon: I's drum sound uses considerably more room ambience than a typical Converge record. Ballou's GodCity mix leans into natural decay and space rather than the tight, close-miked immediacy of Jane Doe or Axe to Fall — a production choice that suits Koller's more textural playing and gives Chelsea Wolfe's vocal layers space to sit alongside the rhythm section rather than compete with it.\n\n**Performance Approach:**\nKoller's tracking approach remained collaborative and live-feeling, consistent with every Converge record, but the material demanded more restraint in the room — takes built around dynamic control rather than raw physical intensity.",
+      "keyTechniques": [
+        "Recorded, mixed, and produced entirely by Kurt Ballou at GodCity Studio",
+        "Significantly more room ambience than a typical Converge record",
+        "Drum sound built to coexist with Chelsea Wolfe's vocal layers rather than dominate them",
+        "Live tracking approach retained despite the more atmospheric material"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Blood Moon",
+        "bpm": "Slow, doom-paced",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener and lead single",
+          "Doom-paced tempo far outside Converge's usual range",
+          "Koller's restraint defines the track more than his intensity"
+        ],
+        "gearNotes": "K Custom Ride carries the track's atmosphere. Snare tuned down for a rounder, less aggressive crack."
+      },
+      {
+        "track": "Viscera of Men",
+        "bpm": "Faster, more traditionally Converge",
+        "signature": "4/4 with syncopation",
+        "highlights": [
+          "One of the album's hardest-hitting tracks",
+          "Bridges the record's atmospheric material and Converge's hardcore roots",
+          "A Custom crashes and china return to heavier rotation"
+        ],
+        "gearNotes": "Full Performer B/B kit deployed at typical Converge intensity. A Custom China marks the track's most violent accents."
+      },
+      {
+        "track": "Flower Moon",
+        "bpm": "Slow",
+        "signature": "4/4",
+        "highlights": [
+          "Built around Chelsea Wolfe's vocal lead",
+          "Minimal, textural drumming throughout",
+          "Demonstrates Koller's dynamic control at its most extreme"
+        ],
+        "gearNotes": "K Custom Dark Hi-Hats function as texture more than timekeeping. Snare barely played above a whisper."
+      },
+      {
+        "track": "Blood Dawn",
+        "bpm": "Variable, building",
+        "signature": "4/4",
+        "highlights": [
+          "Album closer — extended build across the track's runtime",
+          "Synthesizes the record's atmospheric and heavier impulses",
+          "Full dynamic range of Koller's setup on display in one performance"
+        ],
+        "gearNotes": "K Custom Ride anchors the build; A Custom crashes mark the eventual full-band arrival."
+      }
+    ],
+    "evolution": {
+      "title": "Bloodmoon: I in Koller's Continuing Arc",
+      "content": "Bloodmoon: I extends the dynamic sophistication The Dusk in Us (2017) introduced into genuinely uncharted territory for Converge — a full-length collaboration where atmosphere and restraint carry as much weight as aggression. Koller's gear didn't need to change to meet this challenge; the Tama Starclassic Performer B/B and Zildjian K Custom / A Custom setup he'd settled into years earlier proved versatile enough to serve material entirely unlike anything in the band's catalog before it.\n\nBloodmoon: I sits alongside The Dusk in Us as evidence that Koller's drumming had grown beyond pure hardcore intensity into a genuinely dynamic musical vocabulary — the same evolution traceable back through Jane Doe (2001), Axe to Fall (2009), and All We Love We Leave Behind (2012). Two decades into his Converge tenure, his most collaborative and least aggressive record required every bit as much control as his most extreme.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Starclassic Performer B/B (2021)",
+          "now": "Tama Starclassic Performer B/B (unchanged)"
+        },
+        {
+          "category": "Snare",
+          "then": "Tama S.L.P. 14\"x6.5\" (tuned variably for restraint)",
+          "now": "Tama S.L.P. 14\"x6.5\" (unchanged)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Zildjian K Custom / A Custom (textural emphasis)",
+          "now": "Zildjian K Custom / A Custom (unchanged)"
+        },
+        {
+          "category": "Sticks",
+          "then": "Vater Ben Koller signature",
+          "now": "Vater Ben Koller signature"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama Iron Cobra",
+          "now": "Tama Iron Cobra"
+        }
+      ]
+    },
+    "relatedAlbums": [
+      "the-dusk-in-us-drum-setup",
+      "axe-to-fall-drum-setup",
+      "ben-koller-drum-setup"
+    ],
+    "relatedDrummers": [
+      2,
+      12,
+      4
+    ],
+    "relatedArticles": [
+      "ben-koller-drum-setup"
+    ],
+    "relatedLicks": [],
+    "faq": [
+      {
+        "question": "What drum kit did Ben Koller use on Bloodmoon: I?",
+        "answer": "Ben Koller used his settled Tama Starclassic Performer B/B kit on Bloodmoon: I (2021) — the same birch/bubinga hybrid rig he used on The Dusk in Us, with a single 22\" bass drum, 10\" and 12\" rack toms, and a 16\" floor tom. No gear changed for the album's more atmospheric direction; the setup proved versatile enough to serve both the record's restrained passages and its harder-hitting tracks. Full drummer profile: [Ben Koller at MetalForge](/drummer/ben-koller)."
+      },
+      {
+        "question": "Who is featured on Converge's Bloodmoon: I?",
+        "answer": "Bloodmoon: I (2021) is a full-length collaborative album between Converge and singer-songwriter Chelsea Wolfe, released November 19, 2021 on Epitaph Records and Deathwish Inc. It was written and performed by Jacob Bannon, Kurt Ballou, Nate Newton, and Ben Koller alongside Chelsea Wolfe, with additional contributions from Stephen Brodsky (Cave In, Mutoid Man) and Wolfe's longtime collaborator Ben Chisholm."
+      },
+      {
+        "question": "What cymbals did Ben Koller use on Bloodmoon: I?",
+        "answer": "Ben Koller used his established Zildjian K Custom and A Custom setup on Bloodmoon: I — K Custom Dark Hi-Hats (14\"), A Custom Crashes (18\" and 19\"), a K Custom Ride (21\"), and an A Custom China (18\"). The K Custom Ride sees the heaviest use on the album, functioning as a primary textural element beneath Chelsea Wolfe's vocal lines rather than a traditional timekeeping ride. See also: [The Dusk in Us drum setup](/articles/the-dusk-in-us-drum-setup)."
+      },
+      {
+        "question": "How does Bloodmoon: I compare to Ben Koller's other Converge albums?",
+        "answer": "Bloodmoon: I (2021) is the most atmospheric and dynamically restrained record in Ben Koller's catalog — a deliberate departure from the blast-and-breakdown vocabulary of albums like [Axe to Fall](/articles/axe-to-fall-drum-setup) and [Jane Doe](/articles/jane-doe-drum-setup). It extends the dynamic range The Dusk in Us (2017) introduced into a full collaborative album built around doom-paced tempos and Chelsea Wolfe's vocal presence, using the same gear Koller had already settled into for years. Full career arc: [Ben Koller at MetalForge](/drummer/ben-koller)."
+      },
+      {
+        "question": "Who produced Bloodmoon: I?",
+        "answer": "Bloodmoon: I (2021) was written, recorded, and mixed by Kurt Ballou at GodCity Studio in Salem, Massachusetts — the same studio and engineer behind every Converge album since Jane Doe (2001). Ballou's mix on this record uses considerably more room ambience than a typical Converge production, giving Ben Koller's drums space to coexist with Chelsea Wolfe's vocal layers rather than dominate them."
+      }
+    ],
+    "conclusion": {
+      "title": "The Most Collaborative, Least Hardcore Converge Record",
+      "content": "Bloodmoon: I stands apart in Ben Koller's discography — a full-length collaboration with Chelsea Wolfe that asked Converge's drummer to build an album around restraint, texture, and dynamic control rather than raw hardcore intensity. That he could do so without changing a single piece of gear says as much about the maturity of his setup as it does about his musicianship.\n\nEvery element still earns its place on this most atmospheric of Converge records:\n- **Tama Starclassic Performer B/B**: Birch/bubinga clarity at both whisper-quiet and full-volume dynamics\n- **Tama S.L.P. Snare 14\"x6.5\"**: Tuned variably — cutting crack on the harder tracks, rounded restraint on the atmospheric ones\n- **Zildjian K Custom Ride 21\"**: The album's primary textural voice, carrying atmosphere beneath Chelsea Wolfe's vocals\n- **Zildjian A Custom Crashes and China**: Reserved for the record's few bursts of traditional Converge aggression\n- **Tama Iron Cobra Single Pedal**: Precision over density, exactly when the material calls for it\n\nThe complete Converge arc that leads to Bloodmoon: I:\n- [Ben Koller — Full Drummer Profile](/drummer/ben-koller)\n- [The Dusk in Us Drum Setup (2017)](/articles/the-dusk-in-us-drum-setup) — the Grammy-nominated dynamic breakthrough\n- [Axe to Fall Drum Setup (2009)](/articles/axe-to-fall-drum-setup) — the all-star hardcore statement\n- [Jane Doe Drum Setup (2001)](/articles/jane-doe-drum-setup) — where the arc began\n\nBloodmoon: I proves that two decades into his career, Ben Koller's drumming vocabulary had grown well beyond hardcore's blast-and-breakdown foundation — without ever abandoning it. The same Tama Starclassic Performer B/B and Zildjian K/A Custom rig that powered Converge's most violent records also carried its most restrained one."
     }
   }
 };

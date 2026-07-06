@@ -9,7 +9,7 @@
 
 ## Overview
 
-Released September 2, 2022 on Dave Mustaine's own Tradecraft label via Universal Music Enterprises, "The Sick, the Dying... and the Dead!" is Megadeth's sixteenth studio album — and, as of 2026, remains the band's newest full-length release. Where "Dystopia" (2016) was a Grammy-winning introduction that Dirk Verbeuren completed on a tight two-week deadline after Chris Adler's initial sessions, "The Sick, the Dying... and the Dead!" is the first Megadeth album built around Verbeuren from day one — pre-production began in Franklin, Tennessee in May 2019, with the bulk of tracking carried out over the following two years at Dave Mustaine's home studio in Nashville alongside longtime co-producer Chris Rakestraw.
+Released September 2, 2022 on Dave Mustaine's own Tradecraft label via Universal Music Enterprises, "The Sick, the Dying... and the Dead!" is Megadeth's sixteenth studio album — and, as of 2026, remains the band's newest full-length release. It is also Dirk Verbeuren's actual studio debut with Megadeth: he joined the band in 2016 during the touring cycle for "Dystopia," whose drum parts were recorded entirely by Chris Adler (Lamb of God), but "The Sick, the Dying... and the Dead!" is the first Megadeth album Verbeuren played on in the studio, and the first built around him from day one — pre-production began in Franklin, Tennessee in May 2019, with the bulk of tracking carried out over the following two years at Dave Mustaine's home studio in Nashville alongside longtime co-producer Chris Rakestraw.
 
 That extended timeline let Verbeuren dig in as a contributor rather than just a performer: he earned his first Megadeth songwriting credits on the album, co-writing two of its tracks. The result is a record where his rhythmic fingerprint — precision double bass, jazz-informed dynamics inherited from his Soilwork years, and an ear for arrangement — is woven into the songs themselves, not just the performances of them.
 
@@ -69,7 +69,7 @@ The Classics Custom Dark crashes and secondary china give Verbeuren a darker, mo
 
 **Q: What is Megadeth's newest album?**
 
-A: As of 2026, Megadeth's most recent studio album is "The Sick, the Dying... and the Dead!", released September 2, 2022 on Dave Mustaine's Tradecraft label via Universal Music Enterprises. It is the band's sixteenth studio album and the first to be built from the ground up around drummer Dirk Verbeuren, who joined in 2016 and had previously completed the Chris Adler-started "Dystopia" sessions. The album debuted at #3 on the Billboard 200, Megadeth's eighth top-10 album.
+A: As of 2026, Megadeth's most recent studio album is "The Sick, the Dying... and the Dead!", released September 2, 2022 on Dave Mustaine's Tradecraft label via Universal Music Enterprises. It is the band's sixteenth studio album and the first to be built from the ground up around drummer Dirk Verbeuren, who joined in 2016 during the touring cycle for "Dystopia" — an album whose drum parts were recorded entirely by Chris Adler, not Verbeuren. The album debuted at #3 on the Billboard 200, Megadeth's eighth top-10 album.
 
 **Q: Did Megadeth win a Grammy for "We'll Be Back"?**
 
@@ -81,7 +81,7 @@ A: Dirk Verbeuren recorded the album on a Tama Starclassic Maple Custom kit with
 
 **Q: What albums has Dirk Verbeuren recorded with Megadeth?**
 
-A: Dirk Verbeuren has recorded two studio albums with Megadeth: "Dystopia" (2016), which won the Grammy Award for Best Metal Performance, and "The Sick, the Dying... and the Dead!" (2022), his first album built from the ground up with the band, on which he also earned his first Megadeth songwriting credits. For the full breakdown of his Grammy-winning debut, see the [Dystopia Drum Setup article](/articles/dystopia-drum-setup).
+A: Dirk Verbeuren has recorded one studio album with Megadeth to date: "The Sick, the Dying... and the Dead!" (2022), his actual studio debut with the band, on which he also earned his first Megadeth songwriting credits. Megadeth's prior album, "Dystopia" (2016), which won the Grammy Award for Best Metal Performance, was recorded entirely by Chris Adler (Lamb of God) — Verbeuren joined during that album's touring cycle but did not play on the studio recording. For the full breakdown of Adler's Grammy-winning performance, see the [Dystopia Drum Setup article](/articles/dystopia-drum-setup).
 
 **Q: Who produced 'The Sick, the Dying... and the Dead!'?**
 
@@ -91,4 +91,4 @@ A: The album was produced by Dave Mustaine and longtime Megadeth collaborator Ch
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*

@@ -11,7 +11,7 @@
 
 Dirk Verbeuren represents something rare in metal drumming: a musician who seamlessly transitioned between two completely different subgenres at the highest level. After 18 years anchoring Soilwork's melodic death metal assault, he stepped into one of the most demanding seats in metal — drummer for Megadeth, one of thrash metal's Big Four.
 
-Born January 8, 1975, in Belgium, Verbeuren developed his craft through years of European metal scenes before joining Soilwork in 1998. When Megadeth needed a touring drummer for the Dystopia album in 2016, Dave Mustaine called on Chris Adler — but it was Dirk who got the permanent position, proving himself night after night on the world's biggest metal stages.
+Born January 8, 1975, in Belgium, Verbeuren developed his craft through years of European metal scenes before joining Soilwork in 1998. Chris Adler (Lamb of God) recorded the drum parts for Megadeth's 2016 album "Dystopia," but scheduling conflicts kept him from touring it. Dave Mustaine turned to Verbeuren instead, who took over touring duties in 2016 and was subsequently confirmed as the band's permanent drummer, proving himself night after night on the world's biggest metal stages.
 
 What makes Dirk remarkable isn't just his technical ability — it's his versatility. He had to master decades of Megadeth classics, from the thrash fury of "Peace Sells" to the progressive complexity of "Rust in Peace," while bringing his own precision and power. His first full studio album with the band, "The Sick, the Dying... and the Dead!" (2022), showcased his complete integration into Megadeth's sound.
 
@@ -66,7 +66,7 @@ The 18" Byzance Brilliant China delivers the aggressive accent that defines thra
 - Meinl Cymbals — Byzance series for dark, complex tones
 - Speed Cobra 910 pedals for precise double bass
 - First full Megadeth album: "The Sick, the Dying... and the Dead!" (2022)
-- Won Grammy with Megadeth for "Dystopia" (Best Metal Performance)
+- Joined Megadeth in 2016 during the touring cycle for the Grammy-winning "Dystopia" (recorded by Chris Adler)
 - 18 years with Soilwork before joining Megadeth
 - Single bass drum setup with double pedal for mobility
 - Starclassic Maple for balanced attack and projection
@@ -94,4 +94,4 @@ A: Dirk Verbeuren's Tama Starclassic Maple shell pack is estimated at $4,500 to 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*

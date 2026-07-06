@@ -1542,6 +1542,254 @@ export const articles = {
       "title": "Full Circle: The Constant Behind Limp Bizkit's Comeback",
       "content": "\"Gold Cobra\" closes out the arc of John Otto's first decade-and-a-half with Limp Bizkit — from a raw 1997 debut recorded on a Pearl kit, through the band's commercial peak, a stylistic detour, a guitarist's departure and return, all the way to a reunion record that reasserted the classic lineup's aggressive identity. Through every version of the band, Otto's groove-first, jazz-informed drumming remained the constant.\n\nHis mature OCDP kit and long-refined Zildjian cymbal setup on \"Gold Cobra\" represent fourteen years of gradual refinement around a musical philosophy that was already fully formed on his debut. The single 22\" kick, the four-tom spread, the A Series cymbal voicing — all traceable in some form back to 1997 — gave the reunited band an immediate sense of familiarity that helped \"Gold Cobra\" feel like a genuine comeback rather than a nostalgia exercise.\n\nKey takeaways for drummers studying this album:\n\n- **Consistency across a career**: Otto's core setup and philosophy barely changed across 14 years and multiple lineup shakeups\n- **Reasserting an identity**: reconnecting with a band's earlier, more direct sound after a stylistic detour requires deliberate focus\n- **Reunion chemistry**: locking back in with a returning bandmate draws on musical relationships built years earlier\n- **Instinctive mastery**: technique absorbed over a long career should feel effortless rather than consciously executed\n\nInternal links for the complete John Otto picture:\n- **Full drummer profile**: [John Otto at MetalForge](/drummer/john-otto)\n- **Preceding album**: [Results May Vary drum setup (2003)](/articles/results-may-vary-drum-setup)\n- **Where the arc began**: [Three Dollar Bill, Y'all$ drum setup (1997)](/articles/three-dollar-bill-yall-drum-setup)\n- **Nu-metal drumming context**: [Nu-metal drummers top 10](/top10/nu-metal-drummers)"
     }
+  },
+  "still-sucks-drum-setup": {
+    "slug": "still-sucks-drum-setup",
+    "albumTitle": "Still Sucks",
+    "artist": "Limp Bizkit",
+    "band": "Limp Bizkit",
+    "drummer": "John Otto",
+    "drummerId": 19,
+    "relatedDrummerSlug": "john-otto",
+    "year": 2021,
+    "genre": "Nu-Metal",
+    "label": "Suretone Records",
+    "studio": "Various studios",
+    "producer": "Fred Durst, Zakk Cervini",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-06",
+    "dateModified": "2026-07-06",
+    "author": "MetalForge Editorial",
+    "title": "John Otto Drum Setup: Limp Bizkit's 'Still Sucks' (2021) Gear Breakdown",
+    "metaTitle": "John Otto Drum Kit on Still Sucks (2021) | MetalForge",
+    "description": "Discover the drum kit, cymbals, and gear John Otto used on Limp Bizkit's surprise 2021 comeback album 'Still Sucks' — the OCDP kit and Zildjian cymbals behind a decade-in-the-making release and the band's 2020s revival.",
+    "seoKeywords": [
+      "john otto drum setup",
+      "still sucks drums",
+      "limp bizkit drum kit 2021",
+      "john otto still sucks",
+      "still sucks drum setup",
+      "limp bizkit comeback album drums",
+      "nu metal drum setup 2021",
+      "john otto ocdp still sucks",
+      "dad vibes drums"
+    ],
+    "ogImage": "/images/drummers/john-otto.webp",
+    "intro": {
+      "title": "A Decade in the Making: Limp Bizkit's Surprise Comeback",
+      "content": "Released October 31, 2021 on Suretone Records, \"Still Sucks\" is Limp Bizkit's sixth studio album and the band's first full-length in a decade since \"Gold Cobra\" (2011). Work on the record had begun as early as 2012, but the album lingered unfinished for nine years before Fred Durst and co-producer Zakk Cervini brought it to completion. Its arrival was announced only days ahead of the Halloween release, with guitarist Wes Borland confirming the news on social media — a surprise-release strategy that generated an outsized wave of attention for a band many assumed had quietly retired from recording.\n\nThe album's lead single \"Dad Vibes,\" premiered live at Lollapalooza in August 2021 before its September release, became an unlikely viral and critical moment — Loudwire later named it the top rock song of that year. Tracks like \"Out of Style,\" \"Dirty Rotten Bizkit,\" \"Turn It Up, Bitch,\" and \"Goodbye\" mix the aggressive, riff-driven nu-metal of the band's commercial peak with a self-aware sense of humor about their own reputation — the title itself is a wink at decades of critical dismissal.\n\nThrough the album's decade-long gestation, lineup stability, and eventual release, John Otto remained exactly what he had been since 1994: the one drummer Limp Bizkit has ever had. By 2021, his OCDP kit, Zildjian cymbals, and Gibraltar hardware were unchanged from the \"Gold Cobra\" era — the same groove-first, jazz-informed foundation applied to a comeback album that proved the band's audience was not only still there, but larger than expected. \"Still Sucks,\" along with Limp Bizkit's subsequent 2024 reunion touring, confirmed a genuine 2020s revival for one of nu-metal's most unlikely commercial survivors.\n\nThis article covers Otto's mature OCDP rig, Zildjian cymbal setup, and the drumming behind Limp Bizkit's most improbable comeback record.",
+      "keyPoints": [
+        "Released October 31, 2021 on Suretone Records — Limp Bizkit's first album in a decade",
+        "Produced by Fred Durst and Zakk Cervini; songs date back to sessions started in 2012",
+        "Surprise Halloween release announced only days in advance",
+        "Lead single \"Dad Vibes\" premiered at Lollapalooza 2021 and topped Loudwire's year-end rock chart",
+        "John Otto's OCDP kit and Zildjian cymbal setup, unchanged from the Gold Cobra era",
+        "Otto remains the only drummer in Limp Bizkit's history across all six studio albums"
+      ]
+    },
+    "drumKit": {
+      "title": "OCDP, Unchanged: The Comeback Rig",
+      "brand": "Orange County Drum and Percussion",
+      "model": "OCDP Custom Kit",
+      "finish": "Custom finish, 2021 touring configuration",
+      "config": {
+        "bassdrums": [
+          "22\" Bass Drum (single kick)",
+          "22\" Bass Drum (double kick configuration for live performance)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Maple — OCDP custom shell construction"
+      },
+      "description": "John Otto's Orange County Drum and Percussion (OCDP) kit on \"Still Sucks\" is the same setup he had used since well before \"Gold Cobra\" (2011) — a decade of gradual sessions never required a gear change, because Otto's touring and studio rig had already reached its mature form years earlier. The maple shell construction delivers the same warm, full-bodied punch that anchored the band's 2011 reunion record, now applied to material that leans even harder into the band's aggressive, riff-forward identity.\n\nTracks like \"Dirty Rotten Bizkit\" and \"Turn It Up, Bitch\" demand the same chugging, groove-locked low end that \"Gold Cobra\"'s harder tracks required, while \"Dad Vibes\" and \"Out of Style\" give Otto room for the more syncopated, hip-hop-influenced fills that have defined his playing since \"Three Dollar Bill, Y'all$\" in 1997. The four-tom configuration — unchanged across 24 years of recordings — gave Otto a familiar physical setup even as the album itself spent nine years in intermittent development.\n\nThe gap between \"Gold Cobra\" and \"Still Sucks\" is the longest in Limp Bizkit's discography, yet Otto's kit configuration shows no discontinuity at all — a testament to a drummer who settled on his ideal setup long before this record's sessions even began.",
+      "notes": [
+        "Same mature OCDP custom kit used continuously since well before Gold Cobra (2011)",
+        "Maple shells provide the warm punch suited to the album's harder-edged, riff-driven tracks",
+        "Same four-tom configuration Otto has used since his 1997 debut",
+        "No gear changes despite the album's decade-long, on-and-off recording process",
+        "Double-kick configuration available live for the band's 2020s touring cycle"
+      ],
+      "estimatedValue": "$2,500–5,000 (OCDP custom kit, 2021 era)"
+    },
+    "snare": {
+      "title": "The Snare: Same Crack, New Decade",
+      "brand": "Orange County Drum and Percussion",
+      "model": "OCDP Custom Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel/Maple hybrid configuration",
+      "description": "\"Still Sucks\" calls for the same authoritative crack John Otto's custom OCDP snare delivered on \"Gold Cobra\" a decade earlier. On riff-heavy tracks like \"Dirty Rotten Bizkit\" and \"Barnacle,\" the snare anchors the backbeat with the same medium-high tension and cutting projection that has defined Otto's sound since the band's commercial peak.\n\nEven on an album built partly around Fred Durst and Wes Borland leaning into self-aware, sometimes goofy nu-metal bravado, Otto's playing retains the ghost-note sensitivity that separates him from purely metal-trained drummers. \"Empty Hole\" and \"Don't Change\" give him room to bring that subtler touch back into the mix, a continuation of the dynamic range he's shown since \"Significant Other.\"",
+      "tuningSetting": "Medium-high tension — consistent with Otto's setup since the Gold Cobra era",
+      "heads": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)",
+      "estimatedValue": "$400–700 (OCDP custom snare, 2021 era)"
+    },
+    "cymbals": {
+      "title": "Zildjian: The Same Setup, 24 Years Running",
+      "brand": "Zildjian",
+      "series": "Zildjian A Series and A Custom Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian A 14\" New Beat Hi-Hats",
+          "position": "Left side",
+          "notes": "The same hi-hat model Otto has used since Three Dollar Bill, Y'all$ in 1997"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 16\" Crash",
+          "position": "Left crash",
+          "notes": "Fast-responding crash for the album's driving, riff-forward tracks"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A 18\" Medium Crash",
+          "position": "Right crash",
+          "notes": "Full crash for the record's biggest, most anthemic moments"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian A 20\" Medium Ride",
+          "position": "Far right",
+          "notes": "Versatile ride carried over unchanged from Otto's earliest recordings"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A 18\" China",
+          "position": "Effects position",
+          "notes": "Aggressive trash accent for the album's heaviest tracks"
+        }
+      ],
+      "description": "John Otto's Zildjian cymbal setup on \"Still Sucks\" is, once again, essentially the same lineup he first recorded with in 1997 — 14\" hi-hats and a crash/ride/china spread built around the A and A Custom series. Across a nine-year gestation period for the album itself, Otto's cymbal choices never needed revisiting; the setup had already been refined to serve exactly the kind of riff-driven, groove-first nu-metal \"Still Sucks\" delivers.\n\nThe 18\" China sees heavy use on the album's hardest tracks — \"Dirty Rotten Bizkit,\" \"Turn It Up, Bitch\" — underlining the trashy, aggressive accents that mark Limp Bizkit's return to its more direct, less experimental sound. The A Custom crash's faster response continues to serve the record's hookier moments, including \"Dad Vibes,\" giving Otto's cymbal work the same dynamic range across aggression and melody that has defined his entire recorded career.",
+      "estimatedValue": "$1,200–2,200 (full Zildjian A / A Custom setup, 2021 era)"
+    },
+    "hardware": {
+      "title": "Hardware and Heads",
+      "items": [
+        {
+          "type": "Hardware",
+          "brand": "Gibraltar",
+          "model": "Gibraltar Professional Series",
+          "notes": "Full hardware setup, unchanged from prior Limp Bizkit studio albums",
+          "description": "Gibraltar hardware continued to underpin Otto's kit through the \"Still Sucks\" sessions and the 2020s touring cycle that followed — the same road-tested reliability that has supported Limp Bizkit's global touring since the band's commercial peak."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Zildjian",
+          "model": "Zildjian 5A Wood Tip",
+          "notes": "Consistent stick choice across Otto's entire recorded career"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Powerstroke 3 ported (resonant)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador (batter), Remo Diplomat Snare Side (resonant)"
+      }
+    },
+    "technique": {
+      "title": "The Constant Through a Decade of Silence",
+      "content": "\"Still Sucks\" asked John Otto to do something unusual: deliver a drum performance that had to work both as a continuation of the band's classic sound and as proof that a decade away hadn't dulled the chemistry.\n\n**Bridging Nine Years of Sessions:**\nWith material dating back to 2012, Otto's drumming across \"Still Sucks\" had to feel cohesive despite being tracked in pieces over the better part of a decade. His consistent, groove-first approach — the same single-kick, jazz-informed philosophy he's used since 1997 — gave the scattered sessions a unifying rhythmic thread that other bands' comeback records, recorded under similar circumstances, often lack.\n\n**Reasserting the Aggressive Identity:**\nTracks like \"Dirty Rotten Bizkit\" and \"Turn It Up, Bitch\" reassert the harder-edged nu-metal template of the band's commercial peak, and Otto's drumming meets that demand directly — the same authoritative backbeat and China-accented aggression that powered \"Significant Other\" and \"Chocolate Starfish\" two decades earlier.\n\n**Self-Aware Groove:**\n\"Dad Vibes\" and \"Out of Style\" lean into a knowingly goofy, self-aware energy that Fred Durst leans into vocally, and Otto's playing supports that tone without undercutting the song's groove — a demonstration of the same pocket-first instincts that have defined his entire career.\n\n**Constancy as Legacy:**\nAs the only drummer Limp Bizkit has ever had, Otto's presence on \"Still Sucks\" — a full decade after \"Gold Cobra\" — underlines just how central his groove has been to every version of the band, across every hiatus and every stylistic shift.",
+      "tips": [
+        "Recording across a long gestation period: a consistent rhythmic approach can unify sessions recorded years apart",
+        "Reasserting an aggressive identity: revisit the specific drumming vocabulary of a band's commercial peak rather than reinventing it",
+        "Supporting self-aware material: groove should serve the song's tone, even when that tone is deliberately playful",
+        "Long-term consistency: settling on a mature gear setup years in advance removes variables from an unpredictable recording timeline"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Dad Vibes",
+        "bpm": "130",
+        "signature": "4/4",
+        "highlights": [
+          "Lead single, premiered live at Lollapalooza 2021",
+          "Named the top rock song of 2021 by Loudwire",
+          "Otto's groove-first pocket drives the track's viral appeal",
+          "Blends self-aware humor with genuine nu-metal aggression"
+        ],
+        "gearNotes": "OCDP kit's punch anchors the groove. Zildjian A Custom crash marks the chorus arrivals."
+      },
+      {
+        "track": "Dirty Rotten Bizkit",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's hardest-hitting, most aggressive tracks",
+          "Reasserts the band's classic riff-driven nu-metal template",
+          "Heavy China cymbal accents throughout"
+        ],
+        "gearNotes": "Zildjian A 18\" China drives the track's trashiest accents. OCDP snare cracks at full authority."
+      },
+      {
+        "track": "Out Of Style",
+        "bpm": "120",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener",
+          "Sets the record's self-aware, riff-forward tone",
+          "Groove-locked verses with a full-power chorus"
+        ],
+        "gearNotes": "OCDP maple shells provide warmth beneath the opening riff. Zildjian A ride carries the verse groove."
+      },
+      {
+        "track": "Goodbye",
+        "bpm": "Variable, building",
+        "signature": "4/4",
+        "highlights": [
+          "Album closer",
+          "More melodic and dynamically varied than the record's harder tracks",
+          "Otto's dynamic restraint contrasts with the album's heavier moments"
+        ],
+        "gearNotes": "Snare tuned for ghost-note sensitivity in the verses. Full kit arrives for the closing section."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit did John Otto use on Still Sucks?",
+        "answer": "On Limp Bizkit's \"Still Sucks\" (2021, Suretone Records), John Otto played the same mature custom Orange County Drum and Percussion (OCDP) kit he'd used since the \"Gold Cobra\" era — maple shells with a single 22\" bass drum on record (plus a double-kick configuration used live), 10\" and 12\" rack toms, and 14\" and 16\" floor toms, paired with his long-running Zildjian A and A Custom cymbal setup. Full drummer profile: [John Otto at MetalForge](/drummer/john-otto). Preceding album: [Gold Cobra drum setup](/articles/gold-cobra-drum-setup)."
+      },
+      {
+        "question": "Why did Still Sucks take so long to release?",
+        "answer": "\"Still Sucks\" (2021) had material dating back to sessions that began in 2012, but the album spent roughly nine years in intermittent development before Fred Durst and co-producer Zakk Cervini brought it to completion. It arrived as a surprise Halloween release on October 31, 2021 — Limp Bizkit's first full studio album in a decade since \"Gold Cobra\" (2011). See: [Gold Cobra drum setup](/articles/gold-cobra-drum-setup)."
+      },
+      {
+        "question": "What was the lead single from Still Sucks?",
+        "answer": "\"Dad Vibes\" was the lead single from \"Still Sucks\" (2021), premiered live at the end of Limp Bizkit's Lollapalooza performance on August 2, 2021 before its official release on September 30, 2021. Loudwire later ranked it the number one rock song of 2021. John Otto's groove-first drumming on the track anchors its unexpectedly viral appeal."
+      },
+      {
+        "question": "What cymbals did John Otto use on Still Sucks?",
+        "answer": "John Otto used Zildjian A Series and A Custom Series cymbals on \"Still Sucks\" (2021) — 14\" hi-hats, 16\" A Custom and 18\" A Series crashes, a 20\" A Series ride, and an 18\" A Series China — the same lineup he first recorded with on \"Three Dollar Bill, Y'all$\" in 1997. The China cymbal sees heavy use on the album's hardest tracks, underlining the band's return to a more direct, aggressive nu-metal sound. See: [John Otto at MetalForge](/drummer/john-otto)."
+      },
+      {
+        "question": "How does John Otto's drumming on Still Sucks compare to his earlier albums?",
+        "answer": "John Otto's core approach on \"Still Sucks\" (2021) — groove-first, single-kick on record, jazz-informed ghost notes — is unchanged from his 1997 debut and from \"Gold Cobra\" (2011), despite the decade-long gap between those two records. His playing gave the album's sessions, recorded in pieces over roughly nine years, a consistent rhythmic identity. Full technique breakdown: [John Otto at MetalForge](/drummer/john-otto). Compare: [John Otto's complete drum setup](/articles/john-otto-drum-setup)."
+      }
+    ],
+    "relatedAlbums": [
+      "gold-cobra-drum-setup",
+      "results-may-vary-drum-setup",
+      "chocolate-starfish-drum-setup",
+      "significant-other-drum-setup",
+      "john-otto-drum-setup"
+    ],
+    "relatedDrummers": [
+      2,
+      8,
+      20
+    ],
+    "relatedArticles": [
+      "nu-metal-drummers",
+      "hip-hop-groove-drumming",
+      "nu-metal-drum-techniques"
+    ],
+    "conclusion": {
+      "title": "The Constant Behind Limp Bizkit's Most Improbable Comeback",
+      "content": "\"Still Sucks\" closes a decade-long gap in Limp Bizkit's discography with a record that reasserts the band's aggressive nu-metal identity while embracing a self-aware sense of humor about its own reputation. Through nine years of intermittent sessions, a surprise Halloween release, and the band's subsequent 2024 reunion touring, John Otto's groove-first, jazz-informed drumming remained exactly what it has always been — the rhythmic constant across every version of Limp Bizkit.\n\nHis unchanged OCDP kit and Zildjian cymbal setup on \"Still Sucks\" represent the same mature rig he'd already settled into a decade earlier on \"Gold Cobra\" — proof that a drummer who has found his ideal setup doesn't need to chase trends to remain relevant. The single 22\" kick, the four-tom spread, the A Series cymbal voicing — all traceable back to 1997 — gave a long-delayed comeback record the same rhythmic foundation that carried the band's biggest hits.\n\nKey takeaways for drummers studying this album:\n\n- **Consistency across a decade of silence**: Otto's setup and philosophy required no changes despite the album's nine-year gestation\n- **Reasserting an identity**: a comeback record benefits from returning to a band's most direct, recognizable sound\n- **Groove as connective tissue**: a consistent rhythmic approach can unify sessions recorded years apart\n- **Constancy as legacy**: being the only drummer a band has ever had is its own kind of musical value\n\nInternal links for the complete John Otto picture:\n- **Full drummer profile**: [John Otto at MetalForge](/drummer/john-otto)\n- **Preceding album**: [Gold Cobra drum setup (2011)](/articles/gold-cobra-drum-setup)\n- **Where the arc began**: [Three Dollar Bill, Y'all$ drum setup (1997)](/articles/three-dollar-bill-yall-drum-setup)\n- **Nu-metal drumming context**: [Nu-metal drummers top 10](/top10/nu-metal-drummers)"
+    }
   }
 };
 export default articles;

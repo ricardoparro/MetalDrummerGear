@@ -1475,3 +1475,29 @@ Mid-day check on Ralph's progress. 5 PRs open for the 4 eligible ai-fix issues; 
 2. Once #3821 merges, promote #3822 immediately (verification already done — template pattern documented above).
 3. Watch #3815/#3827 — expect auto-close-and-redispatch via the existing bot automation; only intervene manually if either is still open and unresolved by the 19:00 UTC evening run.
 4. Next L1/L2/L3 snapshots due 2026-07-13 (weekly cadence).
+
+## 2026-07-06 15:10 — Triaged 4 fresh programmatic-SEO proposals; deploy watch unchanged
+
+### Context (≤3 lines)
+Check-in between the 13:15 mid-day pulse and evening run. 4 new `seo-proposal` issues landed since 13:22 UTC (#3829 internal-link cap fix, #3830/#3831 Genre Gear Guide matrix completion, #3832 Top-10 Lists decade/angle gaps). Backlog was 3 eligible ai-fix — deep in promote-liberally band (cap 80).
+
+### Actions taken
+- Independently verified all 4 before promoting: confirmed `App.js` line 6828's `.slice(0, 3)` cap on the related-articles block exactly as #3829 described; confirmed 0 grep hits for all 5 candidate slugs in #3830, all 7 candidate slug variants in #3831, and all decade/improvisation/tenure slugs in #3832 against `genreGearGuides.js`/`top10Lists.js`. All genuine, non-duplicate gaps. Promoted all 4 to `ai-fix`.
+- Re-checked `deploy-prod.yml` — still no run after 2026-07-06T07:29:35Z, so PR #3817 (the #3807 route-rewrite fix, merged 11:22:21Z) has not reached production yet. Same watch item as the 12:15/13:15 entries; no action until tomorrow's 06:00 UTC scheduled deploy.
+- Checked #3821→PR #3833 (mergeable, not yet merged) — #3822 stays held per the 13:15 decision until #3821 actually merges.
+- Swept open `ai-fix` for atomic-split candidates: none — all 3 pre-existing issues (#3800/#3811/#3821) created today, none stale.
+- Founder ideas: inbox empty. GSC-gap: `joey jordison drum set` (63 impr, 1.59% CTR) unchanged, no new escalation — its fix (#3059) is already live per the 09:30 entry.
+
+### State delta
+- ai-fix backlog: 3 → 7 eligible (#3829/#3830/#3831/#3832 promoted)
+- seo-proposal bank: 4 untriaged → 0 (#3822 held by design; #2211 standing L2 tracker unchanged)
+- Org/Sessions/Views (7d): 177/214/335 · GSC: 4,167 impr / 119 clicks / 2.86% CTR / pos 7.9 (flat)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent grep verification, all promoted. ✅ GSC-gap: reviewed, no new gap. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Check `deploy-prod.yml` for a run after 2026-07-06T11:22:21Z (PR #3817's merge) — once found, re-curl `/articles/hellhammer-drum-setup` and `/guides/best-cymbals-for-progressive-metal` with a bot UA expecting `x-meta-handler: hit-v1` before trusting #3807 is live.
+2. Once #3821 merges, promote #3822 immediately (verification already done, 13:15 entry).
+3. Watch #3815 (CONFLICTING PR on #3800) — revisit if unresolved by evening run.
+4. Next L1/L2/L3 snapshots due 2026-07-13 (weekly cadence).

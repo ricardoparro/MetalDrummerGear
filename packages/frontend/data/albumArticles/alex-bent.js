@@ -449,7 +449,7 @@ export const articles = {
     ],
     "relatedAlbums": [
       "shogun-drum-setup",
-      "nick-augusto-drum-setup",
+      "in-waves-drum-setup",
       "trivium-what-the-dead-men-say-drum-setup",
       "whats-in-alex-bents-kit"
     ],

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-05 22:19 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-06 00:27 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,59 +8,59 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 180 |
-| Sessions | 210 |
-| Page views | 326 |
-| Engagement rate | 57.14% |
-| Avg session (s) | 144 |
+| Active users | 168 |
+| Sessions | 198 |
+| Page views | 313 |
+| Engagement rate | 57.07% |
+| Avg session (s) | 143 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 40 | 19 |
+| / | 39 | 17 |
 | /drummers | 21 | 5 |
-| /drummer/john-otto | 16 | 13 |
-| /drummer/jaska-raatikainen | 15 | 6 |
-| /drummer/ben-koller | 14 | 11 |
+| /drummer/john-otto | 14 | 11 |
 | /drummer/bill-ward | 13 | 9 |
-| /drummer/joey-jordison | 10 | 10 |
+| /drummer/ben-koller | 12 | 9 |
+| /drummer/jaska-raatikainen | 11 | 5 |
 | /articles/fastest-double-bass-drummers | 9 | 5 |
-| /drummer/eloy-casagrande | 9 | 8 |
+| /drummer/eloy-casagrande | 8 | 7 |
 | /drummer/matt-greiner | 8 | 6 |
+| /drummer/shannon-larkin | 6 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 161 | 143 |
-| Direct | 44 | 34 |
-| Unassigned | 34 | 30 |
+| Organic Search | 151 | 135 |
+| Direct | 40 | 30 |
+| Unassigned | 37 | 31 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 3,868 |
-| Clicks | 98 |
-| CTR | 2.53% |
-| Avg position | 7.8 |
+| Impressions | 3,263 |
+| Clicks | 92 |
+| CTR | 2.82% |
+| Avg position | 7.6 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| eloy casagrande drum kit | 25 | 2 | 8.00% | 6.5 |
+| eloy casagrande drum kit | 21 | 2 | 9.52% | 6.0 |
 | jaska raatikainen drum set | 2 | 2 | 100.00% | 2.5 |
-| john otto drum kit | 23 | 2 | 8.70% | 5.8 |
-| shannon larkin drum kit | 19 | 2 | 10.53% | 4.5 |
+| john otto drum kit | 19 | 2 | 10.53% | 5.7 |
+| shannon larkin drum kit | 14 | 2 | 14.29% | 4.8 |
 | ben koller drum setup | 1 | 1 | 100.00% | 1.0 |
-| bill ward drum kit | 26 | 1 | 3.85% | 7.6 |
-| bill ward drum kit 1970 | 10 | 1 | 10.00% | 6.8 |
-| dirk verbeuren drum kit | 10 | 1 | 10.00% | 7.1 |
+| bill ward drum kit | 22 | 1 | 4.55% | 7.4 |
+| bill ward drum kit 1970 | 9 | 1 | 11.11% | 6.7 |
+| dirk verbeuren drum kit | 9 | 1 | 11.11% | 7.0 |
 | dirk verbeuren drum set | 2 | 1 | 50.00% | 7.5 |
 | hellhammer drum kit | 7 | 1 | 14.29% | 4.3 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| joey jordison drum set | 83 | 1.20% | 6.7 | open issue to answer better |
+| joey jordison drum set | 63 | 1.59% | 6.7 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

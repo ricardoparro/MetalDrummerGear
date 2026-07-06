@@ -2,7 +2,15 @@
 
 *Record of strategic decisions and reasoning. Hot log: last 7 days. Older entries archived monthly under `.agents/ceo/decisions-history/`.*
 
-*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-05 00:26 UTC*
+*Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-06 00:27 UTC*
+
+---
+## 2026-07-06 00:27 (state-confirm — anti-noise hold)
+- Backlog: 2 ai-fix (#3768 PR #3778 open/CONFLICTING; #3770 no PR yet) · 1 open PR · proposals untriaged: 0 (only umbrella #2211, L2 sweep on hold per its own comment pending #3743)
+- Org / Sessions / Views (7d): 168 / 198 / 313 · GSC: 3,263 impr / 92 clicks / 2.82% CTR / pos 7.6
+- Housekeeping: closed zombie PR #3780 (duplicate of already-merged #3779 for #3769, was CONFLICTING against shipped content)
+- Blockers unchanged: #3743 deploy-dispatch ask, no Ricardo response yet — no re-spam; next scheduled auto-deploy ~06:00 UTC today will likely resolve it without action
+- Next check: after 07:00 UTC scheduled deploy — re-curl bot-UA routing fix chain (#3711→#3747); L1/L2/L3 due today, expect movement now visible if deploy lands; watch #3778 for Merger rebase; backlog thin (2) — SEO Agent refill expected on next cadence run
 
 ---
 ## 2026-07-05 22:19 — Late-night check: caught a silent run (missing log commit), retroactively verified its 3 promotions
@@ -30,6 +38,9 @@ Since the 20:23 entry, `gh` showed #3767/#3768/#3769 (fresh proposals filed 20:3
 4. Watch #3743 for Ricardo's response.
 
 ---
+
+---
+
 ## 2026-07-05 20:23 — Evening review: found the real deploy blocker behind the whole-day crawler-shell saga; promoted the route-audit fix
 ### Context (≤3 lines)
 Backlog fully drained (0 ai-fix, 0 open PRs) after huge throughput today (15+ issues shipped 03:10-20:18, see 13:00 entry). Only 2 open seo-proposals: umbrella #2211 and fresh #3744 (filed 14:43, extends the bot-crawler rewrite in `vercel.json` from `/drummer/:slug` to ~18 other route families with built `api/meta` handlers, incl. `/articles/:slug` — "the site's single biggest LLM-citation lane").
@@ -55,6 +66,9 @@ Backlog fully drained (0 ai-fix, 0 open PRs) after huge throughput today (15+ is
 3. L1/L2/L3 due 2026-07-06 — expect a flat/muted result if #3743 is still unresolved by then; don't treat that as a loss signal.
 
 ---
+
+---
+
 ## 2026-07-05 13:00 (mid-day pulse — anti-noise hold)
 - Backlog: 1 ai-fix (#3729, PR #3733 open, CONFLICTING) · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 170 / 194 / 288 · GSC: 3,868 impr / 98 clicks / 2.53% CTR / pos 7.8
@@ -63,12 +77,17 @@ Backlog fully drained (0 ai-fix, 0 open PRs) after huge throughput today (15+ is
 - Next check: 19:00 UTC evening review — watch SEO Agent (12x/day cadence) refill the seo-proposal bank before Ralph starves on 1 remaining issue; watch #3733 for Merger rebase; L1/L2/L3 snapshots due tomorrow.
 
 ---
+
+---
+
 ## 2026-07-05 00:29 (state-confirm — anti-noise hold)
 - Backlog: 1 ai-fix (#3698, PR #3699 open) · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 151 / 172 / 258 · GSC: 2,870 impr / 69 clicks / 2.40% CTR / pos 7.9
 - Blockers unchanged: #525 #526 #529 #875 (human-founder) — no re-spam
 - Actions: none new — Kit Overview prose hit **62/62 (100% roster)** via batches 16-20 (#3681/82/87/88/89/90), closing the drummer-head-term LLM gap pattern (logged in learned-patterns.md, pattern retired as a proposal source); supply rebalance (#3691: cap 45→80, SEO 3→12×/day) and revenue-trajectory digest (#3692: ~€3.55/mo est., 0.4% to €1,000, confirms affiliate-click tracking behind #875 is the real lever, not display ads) both already merged before this run. Joey Jordison CTR gap (83 impr/1.20% CTR) unchanged, already 3x-fixed, no re-file.
 - Next check: L1/L2/L3 due 2026-07-06 — confirm prose alone converted the previously-uncited entities (lars-ulrich/portnoy/danny-carey/lombardo/hoglan) in the L2 re-sample; watch SEO Agent's new 12×/day cadence refill the empty seo-proposal bank before Ralph starves on 1 remaining issue
+
+---
 
 ---
 
@@ -82,12 +101,17 @@ Backlog fully drained (0 ai-fix, 0 open PRs) after huge throughput today (15+ is
 ---
 
 ---
+
+---
+
 ## 2026-07-04 13:30 (state-confirm — anti-noise hold)
 - Backlog: 0 ai-fix · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 151 / 174 / 259 · GSC: 3,408 impr / 81 clicks / 2.38% CTR
 - Blockers unchanged: #525 #526 #529 #875 (human-founder) — no re-spam
 - Actions: none — L1/L3 2026-06-29 snapshot fully closed (#3210/#3282/#3412/#3280/#3281/#3413); joey-jordison CTR cluster (107 impr/0.93% CTR) already 3x-fixed (#2867/#3059/#3412), trending right (pos 8.0→7.0, first clicks appearing); no new proposals/founder ideas to triage
 - Next check: L1/L2/L3 due 2026-07-06; watch for SEO Agent to refill seo-proposal bank (fleet now 8-wide overnight per #3671, draining faster than proposals arrive)
+
+---
 
 ---
 
@@ -128,12 +152,16 @@ Founder inbox empty. Backlog fully drained (0 eligible ai-fix — prior batch #3
 
 ---
 
+---
+
 ## 2026-07-02 19:29 (state-confirm — anti-noise hold)
 - Backlog: 0 eligible ai-fix (6 total, all `hold`) · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 130 / 150 / 215 · GSC: 3,396 impr / 69 clicks / 2.03% CTR
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — the 3 proposals promoted this same evening (#3630/#3631/#3632) already merged and closed (commits b7ed42ee/88db877a/6a11e4de), draining the queue back to empty within the window. No fresh seo-proposals filed since.
 - Next check: 2026-07-03 07:00 UTC deep run — watch for SEO Agent to refill the bank (primary quota resets 03:00 UTC) and L1/L2/L3 due 2026-07-06.
+
+---
 
 ---
 
@@ -175,12 +203,16 @@ Evening run. Founder inbox empty. Backlog opened at 0 eligible ai-fix (6 total, 
 
 ---
 
+---
+
 ## 2026-07-02 01:45 (state-confirm — anti-noise hold)
 - Backlog: 27 ai-fix eligible (33 total, 6 hold) · 12 PRs open (6 conflicting, 5 mergeable) · proposals untriaged: 0 (only umbrella #2211 remains)
 - Org/Sessions/Views (7d): 117 / 135 / 171 · GSC: 2,797 impr / 51 clicks / 1.82% CTR
 - L1/L2/L3 unchanged since 2026-06-29 snapshots — all actionable rows already filed+closed (#3264 umbrella, #3210/#3282/#3412/#3280/#3281/#3413); no new loss/gap surfaced
 - Actions: none — verified no zombie issues (spot-checked #3218/#3186/#2811/#3214/#2801, all correctly auto-closed by merge), confirmed #3488 (prune-proposals bug) still awaiting a PR
 - Next check: watch the 6 CONFLICTING PRs (#3570/#3569/#3568/#3566/#3560/#3553 — likely shared-data-file collisions) for Merger resolution; resume promoting seo-proposals once SEO Agent files fresh ones (bank currently drained to 0)
+
+---
 
 ---
 
@@ -216,6 +248,8 @@ Deep run, metrics fresh (16:45 UTC). Huge throughput since 11:00: ~40 PRs merged
 2. **Backlog at 36** (sparingly zone) — promote only 5★ newest proposals if any appear.
 3. **Watch for L1/L3 snapshot refresh** — current ones are from 2026-06-29; a new weekly run should reflect today's ~40 merged PRs (Kit Overview prose, album arcs, SoundLike guides) and may show CTR/position wins.
 4. **12 partial-duplicate batches flagged** — confirm Ralph respects the skip-notes rather than re-implementing already-shipped slugs.
+
+---
 
 ---
 
@@ -265,6 +299,8 @@ Deep run. Metrics fresh (11:01 UTC). L1 snapshot (gsc-watch, gen 2026-06-29 09:4
 
 ---
 
+---
+
 ## 2026-06-29 23:30 UTC — 2 proposals HOLD; #3059 CTR fix confirmed shipped (44)
 
 ### Context (≤3 lines)
@@ -288,6 +324,8 @@ Evening run. Backlog 44 (near cap — sparingly zone). Metrics fresh (23:23 UTC)
 2. **Promote at <40:** #3254 (Genre Gear Guide batch 5) → #3284 (Kit Overview batch 12) → #3242 (Black Sabbath MoR/SBS)
 3. **#3280 + #3281 regressions:** If no Ralph comment by 2026-07-01 morning, flag for manual escalation
 4. **Kit Overview pipeline:** Batches 6+7 (PRs #3319/#3321) expected to merge soon; batches 8-11 in queue
+
+---
 
 ---
 
@@ -325,6 +363,8 @@ Mid-day pulse. Ralph shipped Kit Overview prose batches 4+5 today (PRs #3317/#33
 2. **#3285 priority:** Bill Ward GSC signal is live NOW — if issue sits stale >3 days flag for split/unblock.
 3. **Promote at <40:** #3254 (Genre Gear Guide batch 5) → #3284 (Kit Overview batch 12) → #3242 (Black Sabbath MoR/SBS).
 4. **Joey Jordison CTR:** "joey jordison drum set" 130 impr / 0.77% CTR — first click achieved; monitor. No new issue needed until #3059 fix fully indexes.
+
+---
 
 ---
 
@@ -378,6 +418,8 @@ First run with fresh verifier data: L1 gsc-watch-snapshot (09:47 UTC) and L3 ind
 
 ---
 
+---
+
 ## 2026-06-29 22:00 UTC — 7 proposals rated, 1 promote (#3227 Kit Overview batch 9) (39)
 
 ### Context (≤3 lines)
@@ -401,6 +443,8 @@ Extra invocation after scheduled 19:00 run. Metrics fresh (07:43 UTC). 7 new seo
 2. **Zombie sweep** — Ralph weekend + Monday queue.
 3. **Promote at <25**: #3183 (Bill Ward Evo) → #3187 (Garstka/Halpern gear price) → #3212 (Top-10 batch 26).
 4. **L2 watch**: Kit Overview batches 4–9 in flight — log citations in learned-patterns.md once shipped.
+
+---
 
 ---
 
@@ -450,6 +494,8 @@ Evening run. No PRs merged since 13:00 UTC; no zombie sweep needed. 7 new seo-pr
 
 ---
 
+---
+
 ## 2026-06-29 13:00 UTC — 7 proposals rated, 1 promote (#3210 Kit Overview batch 7) (37)
 
 ### Context (≤3 lines)
@@ -471,6 +517,8 @@ Mid-day pulse. Backlog 36 (post-morning). 7 new seo-proposals filed since 00:57 
 1. **Zombie sweep** — check for Ralph PRs merged since 07:00 UTC.
 2. **Backlog gate** — if <25 after sweeps, promote priority holds: #3183 (Bill Ward Evo) → #3187 (Garstka/Halpern gear price) → #3212 (Top-10 batch 26).
 3. **Kit Overview batch 4+5+6 status** (#3140/#3188/#3206) — confirm merge in learned-patterns.md when shipped.
+
+---
 
 ---
 
@@ -523,45 +571,6 @@ Morning run. Metrics (fresh 00:43 UTC): 108 users / 119 sessions / 2,532 impr / 
 
 ---
 
-## 2026-06-28 16:50 UTC — 12 zombies swept, 26 promotes, 4 dups closed, 1 L2 ai-fix (#3140) filed (44)
-
-### Context (≤3 lines)
-Evening run (auto-triggered). Metrics: 113 users / 127 sessions / 3,065 impr / 73 clicks / 2.38% CTR (avg pos 8.1). GSC content-gap: `joey jordison drum set` 134 impr / 0.75% CTR — #3059 already queued. 12 PRs merged since last run (16:19–16:18 UTC today); all parent issues still open → zombie sweep triggered.
-
-### Actions taken
-- **Zombie sweep (12)**: Closed #2951 (OMRTS link), #2947 (BTBAM 3-arc), #2932 (Shannon Larkin Godsmack), #2931 (ABR Beacon+Death Below), #2928 (Brann CTR fix), #2927 (Shannon CTR fix), #2914 (Genre Gear batch), #2909 (LoG Resolution), #2893 (OMRTS original), #2906 (Meshuggah Catch33), #2913 (DT self-titled), #2902 (Opeth prog era) — backlog 29→17
-- **Duplicate cleanup (4)**: Closed #3122 (dup of #3099 Charlie Benante), #3120 (dup of #3091 Sean Reinert), #3117 (subset of #3098 Daniel Erlandsson), #3092 (subset of #3121 Ray Luzier)
-- **Promotes (26)**: Priority queue: #2935 (BTBAM Colors+Misdirect), #2950 (SoundLike batch 33), #2952 (Genre Gear batch 2), #2972 (BTBAM Automata); 5★ new: #3123 (Genre Gear batch 4), #3102 (Cavalera Conspiracy/Igor), #3101 (CC/Paul Mazurkiewicz), #3104 (Top-10 batch 23), #3103 (Comparison batch 38); 4★ at <25: #3100/#3099 (Anthrax arc), #3098 (Arch Enemy 3-album), #3097/#3077 (Gear price history), #3096/#3075 (Comparison batches), #3095/#3074 (Evo batches), #3093 (Slayer Diabolus), #3091 (Cynic Traced in Air), #3073/#3121 (KoRn Luzier arc), #3118 (Jason Bittner), #3116 (Abe Cunningham Deftones), #3071 (LoG Palaces Burn), #3000 (Evo batch 13) — backlog 17→43
-- **L2 ai-fix (#3140)**: Kit Overview prose batch 4 — Danny Carey + Gene Hoglan + Tomas Haake (all in L2 gap, moderndrummer/drumeo winning head-terms; no Kit Overview prose in batches 1-3; first-mover on Tomas Haake + no-competitor George Kollias moved to #3140 scope) — backlog 43→44
-
-### State delta
-- **Backlog: 29→17 (zombies)→43 (26 promotes)→44 (L2 issue)**
-- **Zombies closed (12)**: Brann/Shannon CTR fixes, OMRTS, BTBAM 3-arc, Meshuggah Catch33, DT self-titled, Opeth prog, LoG Resolution, Genre Gear batch, ABR arc, Godsmack
-- **Notable ships today**: BTBAM 3-album arc, Shannon Larkin + Brann Dailor CTR meta fixes, Genre Gear Guides expansion, Meshuggah Catch Thirtythree, DT self-titled Mangini, Opeth prog era
-- **Proposals: 26 promoted, 4 dups closed; remaining HOLDs (#2993–#2999 cluster) stay as seo-proposal**
-- **L2 new (1)**: #3140 Kit Overview prose batch 4
-
-### Quota check
-✅ Founder ideas: inbox empty. ✅ Proposals: all open seo-proposals triaged (26 promoted, 4 dups closed, 5 held). ✅ L1: no fires (no gsc-watch issue open). ✅ L2: #3140 filed (1 of 3 cap). ✅ L3: no indexation-watch open. ✅ Zombies: 12 closed. ✅ Decisions logged.
-
-### Next Run (2026-07-01 07:00 UTC)
-1. **L1 snapshot check** — new gsc-watch-snapshot.md expected; first win/loss classification. Check #3059 (joey jordison CTR), Shannon Larkin, Brann Dailor CTR movement.
-2. **Zombie sweep** — Ralph working weekend; close any new merges.
-3. **Promote at <25**: HOLDs #2993 (LoG Art Cruz) → #2994 (IM Dance+AMOLAD) → #2995 (Converge/Koller) → #2996 (Bad Magic/Mikkey Dee) → #2999 (Comparison-35).
-4. **#2968/#2997/#2945 status** — Kit Overview batch 2+3 + comparative-list: if shipped, confirm patterns in learned-patterns.md.
-
----
-
----
-
----
-
----
-
----
-
----
-
 ---
 
 ## 2026-07-01 22:30 — Cleared stale seo-proposal bank (25 issues): 5 closed as shipped-duplicates, 11 re-scoped, 20 promoted to ai-fix
@@ -601,6 +610,8 @@ Deep run. Founder inbox empty. Backlog was 26 (25–44 band, promote-sparingly).
 
 ---
 
+---
+
 ## 2026-07-01 23:40 (state-confirm — anti-noise hold)
 - Backlog: 46 ai-fix · 0 PRs open · proposals untriaged: 0 (only unpromoted seo-proposal is umbrella #2211)
 - Org/Sessions/Views (7d): 109 / 158 / 224
@@ -618,12 +629,16 @@ Deep run. Founder inbox empty. Backlog was 26 (25–44 band, promote-sparingly).
 
 ---
 
+---
+
 ## 2026-07-02 03:08 (state-confirm — anti-noise hold)
 - Backlog: 20 eligible ai-fix (9 not-yet-started, 11 already have open PRs) · 11 PRs open · proposals untriaged: 0 (only unpromoted seo-proposal is umbrella #2211)
 - Org/Sessions/Views (7d): 117 / 135 / 171
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — Roadie/Ralph drained backlog 46→20 overnight (20 ai-fix closed, 11 PRs in flight). SEO Agent hasn't refilled the bank: its 2026-07-01 19:37 run failed on Claude weekly-quota exhaustion (primary resets Jul 3 03:00 UTC, backup resets 10:00 UTC) — same transient pattern as the 2026-07-01 watchdog false-alarm, self-resolving, no fix needed. L1/L2/L3 still on the 2026-06-29 snapshot; every actionable item from it is already filed and closed (#3210/#3282/#3412/#3280/#3281/#3413).
 - Next check: 07:00 UTC deep run — backlog is now <25 (promote-liberally band) but bank is empty, so the real trigger is the SEO Agent resuming after quota reset; also due for the overdue L1/L2/L3 weekly refresh (06-29 → 3 days stale).
+
+---
 
 ---
 
@@ -667,12 +682,16 @@ Deep run. Founder inbox empty. seo-proposal bank has 0 untriaged (only umbrella 
 
 ---
 
+---
+
 ## 2026-07-02 07:09 (state-confirm — anti-noise hold)
 - Backlog: 6 eligible ai-fix (only 3 truly unclaimed: #3290/#2426/#2425; other 3 already have open PRs) · 3 PRs open (2 CONFLICTING — both edit shared `packages/frontend/data/top10Lists.js` registry, normal append-file contention, resolves on serial merge) · proposals untriaged: 0 (only umbrella #2211)
 - Org/Sessions/Views (7d): 119 / 138 / 173 · GSC: 2,797 impr / 51 clicks / 1.82% CTR
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — verified the PR-conflict pattern flagged in the 07:00 entry is explained (shared-file contention on parallel top10Lists batches, not a Ralph bug); L1/L2/L3 still 2026-06-29 snapshot, all actionable rows already filed+closed
 - Next check: 13:00 UTC — watch #3605/#3600 serialize through Merger; watch for SEO Agent quota reset (2026-07-03 03:00 UTC) to refill empty proposal bank
+
+---
 
 ---
 
@@ -710,12 +729,16 @@ Founder inbox empty. SEO Agent resumed filing at 08:15 UTC (backup quota reset k
 
 ---
 
+---
+
 ## 2026-07-02 13:32 (state-confirm — anti-noise hold)
 - Backlog: 1 eligible ai-fix (#3615, has clean MERGEABLE PR #3629) · 1 PR open · proposals untriaged: 0 (only umbrella #2211)
 - Org/Sessions/Views (7d): 122 / 142 / 194 · GSC: 3,396 impr / 69 clicks / 2.03% CTR
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — Roadie/Ralph shipped 5 of the 6 proposals promoted at 13:00 (#3610-3614 closed) within this same window; #3615 has a clean PR in flight. Backlog is now near-empty (promote-liberally band) but bank is also empty — no fresh seo-proposal since the 13:00 batch, so nothing to promote. Joey Jordison CTR-gap queries (92/139 impr, <2% CTR) unchanged, already covered by shipped #3059; no duplicate escalation (fix effect awaits next L1 snapshot, due 2026-07-06).
 - Next check: 19:00 UTC evening review — confirm #3629 merges; watch for SEO Agent to refill the bank so backlog doesn't fully starve before the 07:00 deep run.
+
+---
 
 ---
 
@@ -756,12 +779,16 @@ Founder inbox empty. #3629 merged (backlog fully drained to 3 eligible / 9 total
 
 ---
 
+---
+
 ## 2026-07-03 00:36 (state-confirm — anti-noise hold)
 - Backlog: 0 eligible ai-fix (6 total, all `hold`) · 0 PRs open · proposals untriaged: 0 (only umbrella #2211 + 3 old seo-hold)
 - Org / Sessions / Views (7d): 124 / 145 / 209 · GSC: 2,876 impr / 63 clicks / 2.19% CTR
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — the 3 proposals promoted at 19:43 (#3636/#3637/#3638) already merged and closed (commits 4dce1d46/756da671/a14a1bf8), draining the queue back to empty. SEO Agent's last run (19:34 UTC) produced exactly that batch; no fresh proposal since. Joey Jordison content-gap cluster (85+107 impr, <2% CTR) unchanged, already covered by shipped #3059, effect pending next L1 snapshot (2026-07-06).
 - Next check: 2026-07-03 07:00 UTC deep run — watch for SEO Agent's next scheduled run to refill the bank; L1/L2/L3 due 2026-07-06.
+
+---
 
 ---
 
@@ -782,12 +809,16 @@ Founder inbox empty. #3629 merged (backlog fully drained to 3 eligible / 9 total
 
 ---
 
+---
+
 ## 2026-07-03 08:00 (state-confirm — anti-noise hold)
 - Backlog: 1 ai-fix (#1240, atomic, hold released 03:11 UTC) · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 131 / 152 / 218 · GSC: 3,384 impr / 75 clicks / 2.22% CTR
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — #1239/#1241 merged overnight (commits 00494311/8cc29fd1); #1240 confirmed atomic, no split needed, ready for Ralph pickup. L2 umbrella #2211 still on 2026-06-29 snapshot, all rows already addressed by prior shipped batches; next verifier refresh 2026-07-06. Joey Jordison content-gap cluster (90+123 impr, <2% CTR) unchanged, already covered by shipped #3059.
 - Next check: 13:00 UTC mid-day pulse — watch #1240 get picked up; watch for SEO Agent to refill empty proposal bank.
+
+---
 
 ---
 
@@ -824,12 +855,16 @@ Founder inbox empty. Backlog fully drained (0 eligible / 0 total open ai-fix —
 
 ---
 
+---
+
 ## 2026-07-03 19:29 (state-confirm — anti-noise hold)
 - Backlog: 0 ai-fix (fully drained) · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 144 / 166 / 250 · GSC: 3,384 impr / 75 clicks / 2.22% CTR
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — 12 issues shipped since the 11:00 run without CEO intervention needed, notably **#3651**: a generator-level fix (`generate-llms-articles.cjs` never rendered the per-article `faq` array despite 383/390 source files having one) that retroactively added FAQ sections to ~390 `/public/llms/articles/*.md` files in one PR, directly closing 2 zero-competitor rows in #2211. Logged as a new pattern in `learned-patterns.md` (check sibling generators for render gaps before proposing content batches). Joey Jordison content-gap cluster unchanged, already covered by shipped #3059/#3412.
 - Next check: 2026-07-06 L1/L2/L3 weekly refresh — confirm #3651 registers as new L2 wins; watch for SEO Agent to refill the empty bank before backlog starves.
+
+---
 
 ---
 
@@ -865,6 +900,8 @@ Founder inbox empty. Backlog fully drained (0 eligible ai-fix, 0 open PRs) since
 
 ---
 
+---
+
 ## 2026-07-04 (state-confirm — anti-noise hold)
 - Backlog: 2 ai-fix (#3661 free, #3663 has PR #3667 open) · 1 PR open · proposals untriaged: 0 (only umbrella #2211, pruned+keep)
 - Org / Sessions / Views (7d): 141 / 161 / 239 · GSC: 2,864 impr / 64 clicks / 2.23% CTR
@@ -876,12 +913,16 @@ Founder inbox empty. Backlog fully drained (0 eligible ai-fix, 0 open PRs) since
 
 ---
 
+---
+
 ## 2026-07-04 (state-confirm — anti-noise hold, 2nd consecutive)
 - Backlog: 2 ai-fix (#3661 still free, #3663 PR #3667 still open) · 1 PR open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 142 / 163 / 240 · GSC: 2,864 impr / 64 clicks / 2.23% CTR (same snapshot, unrefreshed)
 - Blockers unchanged: #529 #525 #526 #875 — no re-spam
 - Actions: none — no merges, no new proposals, no founder ideas since last entry. L1/L2/L3 still on 06-29/06-23 snapshots, next refresh 2026-07-06.
 - Next check: per hold rule, 3rd identical run skips logging entirely unless state changes.
+
+---
 
 ---
 
@@ -918,6 +959,8 @@ Deep-run triage. Founder inbox empty. ai-fix backlog was fully drained (0 eligib
 
 ---
 
+---
+
 ## 2026-07-04 10:39 — Closed duplicate/conflicting PR #3680 (same Roadie run double-filed #3675)
 
 ### Context (≤3 lines)
@@ -943,6 +986,8 @@ Pulse check following the 09:50 deep run. 3 of the 4 promoted proposals (#3672/#
 
 ---
 
+---
+
 ## 2026-07-04 11:30 (state-confirm — anti-noise hold)
 - Backlog: 1 ai-fix (#3673, PR #3678 open MERGEABLE) · 1 PR open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 149 / 172 / 255 · GSC: 3,408 impr / 81 clicks / 2.38% CTR (unchanged vs 10:39 run)
@@ -952,12 +997,16 @@ Pulse check following the 09:50 deep run. 3 of the 4 promoted proposals (#3672/#
 
 ---
 
+---
+
 ## 2026-07-04 13:00 (state-confirm — anti-noise hold, 2nd since last full entry)
 - Backlog: 0 ai-fix (#3673/PR #3678 merged 11:50 UTC — drained) · 0 PR open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 149 / 172 / 256 · GSC: 3,408 impr / 81 clicks / 2.38% CTR / pos 7.9 (unchanged vs 11:30 run)
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — founder inbox empty, no new seo-proposals since #3673, joey-jordison content-gap unchanged (already covered, trending win per L1). L1/L2/L3 still on 06-29/06-23 snapshots, next refresh 2026-07-06.
 - Next check: hourly cadence (per #3671) — bank is empty and eligible for liberal promotion the moment SEO Agent refills it; per hold rule, next identical run skips logging entirely.
+
+---
 
 ---
 
@@ -986,6 +1035,8 @@ Founder inbox empty. 3 fresh seo-proposals landed 13:40-13:41 UTC (#3681 Kit Ove
 
 ---
 
+---
+
 ## 2026-07-04 18:19 (state-confirm — anti-noise hold)
 - Backlog: 0 ai-fix · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 156 / 181 / 271 · GSC: 3,408 impr / 81 clicks / 2.38% CTR / pos 7.9 (unchanged vs 15:24 run)
@@ -995,12 +1046,16 @@ Founder inbox empty. 3 fresh seo-proposals landed 13:40-13:41 UTC (#3681 Kit Ove
 
 ---
 
+---
+
 ## 2026-07-04 19:28 (state-confirm — anti-noise hold, 2nd consecutive)
 - Backlog: 0 ai-fix · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 156 / 181 / 271 · GSC: 3,408 impr / 81 clicks / 2.38% CTR / pos 7.9 (unchanged vs 18:19 run)
 - Blockers unchanged: #529 #525 #526 #875 (human-founder) — no re-spam
 - Actions: none — founder inbox empty, no new seo-proposals since #3683, joey-jordison content-gap unchanged (already covered, trending win per L1). L1/L2/L3 still on 06-29/06-23 snapshots, next refresh 2026-07-06.
 - Next check: per hold rule, 3rd identical run skips logging entirely unless state changes.
+
+---
 
 ---
 
@@ -1030,6 +1085,8 @@ Founder inbox empty. Backlog was fully drained (0 eligible, 0 open PRs) since 18
 
 ---
 
+---
+
 ## 2026-07-04 22:17 (state-confirm — anti-noise hold)
 - Backlog: 4 ai-fix (#3687-3690, no PRs opened yet) · 0 PRs open · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 158 / 183 / 276 · GSC: 3,408 impr / 81 clicks / 2.38% CTR / pos 7.9 (unchanged vs 20:30 run)
@@ -1039,6 +1096,7 @@ Founder inbox empty. Backlog was fully drained (0 eligible, 0 open PRs) since 18
 
 ---
 
+---
 
 ## 2026-07-05 07:00 — Deep run: triaged 3 fresh proposals (technique pages, genre gear guides, album articles)
 
@@ -1069,6 +1127,8 @@ Founder inbox empty. Backlog was 2 eligible (#3700/#3701, both merged-pending PR
 
 ---
 
+---
+
 ## 2026-07-05 07:06 — Follow-up triage: 3 more proposals caught, critical stale-closure root-caused (#3711)
 
 ### Context (≤3 lines)
@@ -1091,6 +1151,8 @@ The 07:00 deep run entry only covered proposals landing 03:09-03:10 (#3704-3706,
 1. #3711 is the highest-leverage item in the backlog — watch for Ralph pickup first; it structurally unblocks JSON-LD/real-titles for all 62 drummer pages to non-JS AI crawlers, which should show up as new L2 citation wins (umbrella #2211 currently 52/65 queries not cited).
 2. L1/L2/L3 next due 2026-07-06 (Monday).
 3. Backlog now 6 eligible — still deep in promote-liberally band (cap 80).
+
+---
 
 ---
 
@@ -1123,12 +1185,16 @@ The 07:00 deep run entry only covered proposals landing 03:09-03:10 (#3704-3706,
 
 ---
 
+---
+
 ## 2026-07-05 10:43 (state-confirm — anti-noise hold)
 - Backlog: 2 ai-fix (#3713, #3714) · 1 PR open (#3725 for #3714, UNSTABLE/checks green) · proposals untriaged: 0 (only umbrella #2211)
 - Org / Sessions / Views (7d): 169 / 193 / 285 · GSC: 3,868 impr / 98 clicks / 2.53% CTR / pos 7.8 (unchanged vs 10:05 run)
 - Blockers unchanged: #525 #526 #529 #875 (human-founder) — no re-spam
 - Actions: none new — #3715/#3723 merged since 10:05 (commits 08dd455c/7fe04e96). PR #3722 (for #3713) auto-closed by pr-merger (conflicted with main, reaped for clean re-implementation) — #3713 still open ai-fix, will get re-dispatched. Founder inbox empty, no new seo-proposals since #3714. Joey Jordison content-gap (83 impr/1.20% CTR) unchanged, already covered.
 - Next check: L1/L2/L3 due 2026-07-06 (Monday); watch #3713 re-dispatch after PR #3722 reap and #3725 (#3714) merge status.
+
+---
 
 ## 2026-07-05 11:45 — Mid-day triage: 3 fresh proposals promoted (homepage/hub schema gaps + genre gear guide batch 11)
 
@@ -1157,6 +1223,8 @@ Backlog was 1 eligible (#3713, re-dispatch pending after #3722 conflict-reap). 3
 3. L1/L2/L3 next due 2026-07-06 (Monday).
 4. Backlog now 4 eligible — still deep in promote-liberally band (cap 80).
 
+---
+
 ## 2026-07-05 13:35 — CRITICAL: root-cause routing bug (#3734) escalated, 3 content batches promoted
 
 ### Context (≤3 lines)
@@ -1183,6 +1251,8 @@ Backlog was 1 eligible (#3729). 4 fresh proposals landed 12:36-12:37: #3734 (re-
 2. Once #3734 is genuinely fixed in production, re-check #2211 (L2 citations) — expect a large jump, not incremental.
 3. Watch #3729/PR #3733 conflict — if still unresolved by evening pulse, flag to Ralph/Merger directly.
 4. L1/L2/L3 next due 2026-07-06 (Monday) — this run's finding should materially change the L2 read.
+
+---
 
 ## 2026-07-05 14:50 — 4th failed routing-bug fix caught before another content batch shipped blind
 
@@ -1214,6 +1284,8 @@ Backlog was 1 eligible ai-fix (#3729). #3734 (crawler-shell bug, 3rd occurrence 
 3. Once the routing bug is genuinely fixed and verified, re-run the #2211 L2 citation sweep — expect a step-change, and re-check the `joey jordison drum set` CTR gap since its title/meta fix should finally reach crawlers.
 4. L1/L2/L3 next due 2026-07-06 (Monday).
 
+---
+
 ## 2026-07-05 15:35 — Held a proposal back from promotion: routing-table theory disproven before it could become a 5th blind fix
 
 ### Context (≤3 lines)
@@ -1242,12 +1314,16 @@ Backlog was 2 eligible (#3742 priority, #3729 awaiting re-dispatch after PR #373
 3. If #3742's marker header comes back **absent** — wait for #3743/Ricardo's Vercel dashboard findings before any further repo-side attempts.
 4. L1/L2/L3 next due 2026-07-06 (Monday).
 
+---
+
 ## 2026-07-05 16:22 (state-confirm — anti-noise hold)
 - Backlog: 1 ai-fix (#3742, open PR #3747) · 1 PR open · proposals untriaged: 0 (#2211 standing tracker, #3744 held by design)
 - Org/Sessions/Views (7d): 176/202/305 · GSC: 3,868 impr / 98 clicks / 2.53% CTR / pos 7.8
 - Blockers unchanged: #3743 human-founder (Vercel dashboard check) — no re-spam
 - Actions: none — reviewed PR #3747 diff; it adds the #3742 diagnostic marker header (`X-Meta-Handler`) AND changes `/api/meta` rewrite destinations to catch-all bracket+query syntax — a real fix attempt, not just diagnostics. Not merged yet.
 - Next check: watch #3747 merge, then re-curl production myself (marker header + JSON-LD) before trusting the close — 4 prior "fixes" for this exact bug were false-closures.
+
+---
 
 ## 2026-07-05 17:35 — Root-caused the whole meta-shell saga: production deploys are batched, not per-merge; 6 fresh content proposals promoted
 
@@ -1277,9 +1353,14 @@ PR #3747 (fix for #3742) merged at 16:32 UTC. Per the standing rule (4 prior fal
 3. Once meta-shell is confirmed resolved, re-run the #2211 L2 citation sweep (expect a step-change) and re-check `joey jordison drum set` CTR.
 4. L1/L2/L3 next due 2026-07-06 (Monday) — same day the scheduled deploy would naturally fire anyway.
 
+---
+
 ## 2026-07-05 19:00 (state-confirm — anti-noise hold)
 - Backlog: 3 ai-fix (#3752/#3753/#3754, all with green mergeable PRs #3758-3760) · 3 PRs open · proposals untriaged: 0 (#3744 held by design, #2211 standing L2 tracker)
 - Org/Sessions/Views (7d): 178/204/308 · GSC: 3,868 impr / 98 clicks / 2.53% CTR / pos 7.8 (flat vs 17:35 entry)
 - Blockers unchanged: #3743 human-founder (manual deploy-prod.yml dispatch ask) — no Ricardo response yet, no re-spam
 - Actions: none — verified all 3 open PRs are green/mergeable, just awaiting Merger's cycle; no unblock needed
 - Next check: 07:00 UTC deep run — watch #3743 response + next scheduled deploy (2026-07-06 06:00 UTC) to finally verify #3747's meta-shell fix in production; L1/L2/L3 due 2026-07-06
+
+---
+

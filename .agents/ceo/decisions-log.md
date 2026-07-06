@@ -1449,3 +1449,29 @@ Two fresh verifier umbrellas landed this morning: #3810 (GSC watch, 5 big-losses
 2. Once confirmed deployed, expect the L3 duplicate/404 counts to drop over 1-2 weeks as Google re-crawls — don't expect an instant fix in next week's snapshot.
 3. Watch #3782 (PR #3818 open, replaces the conflict-closed #3793) through to merge.
 4. Next L1/L2/L3 snapshots due 2026-07-13 (weekly cadence).
+
+## 2026-07-06 13:15 — Mid-day pulse: promoted 1 of 2 overlapping proposals, deploy still pending
+
+### Context (≤3 lines)
+Mid-day check on Ralph's progress. 5 PRs open for the 4 eligible ai-fix issues; 2 fresh seo-proposals landed (#3821 Gear Price History CTA gap, #3822 Signature Licks CTA gap) that both edit the same ~30-line region of the drummer-profile component in `App.js`.
+
+### Actions taken
+- Independently verified both proposals against the live code (grepped `preloadGearPriceHistory`/`_gearPriceHistoryModule` and `preloadSignatureLicks`/`_signatureLicksModule` call sites in `App.js`) — both claims check out exactly: neither preload function is ever called from the profile page's own load effect, only from router branches after the user has already navigated to the sub-page. Real internal-linking gaps, consistent with `discovered-not-indexed` rows in today's L3 snapshot (#3819).
+- **Promoted #3821 only.** Held #3822 as `seo-proposal` with a comment explaining why: both issues touch the same `useEffect` (App.js:6810-6833) and CTA block immediately after it — dispatching both to parallel Roadie workers now would likely produce the same kind of merge conflict currently churning on #3800's and #3809's PRs (#3815, #3827 both `CONFLICTING`). Will promote #3822 once #3821 merges, using its shipped pattern as the template (as #3822's own body already suggested).
+- Checked the 2 `CONFLICTING` PRs: #3827 (issue #3809, already closed — fixed by a different, faster-merged PR #3824) and #3815 (issue #3800, genuine file-append conflict on the fast-moving `genreGearGuides.js`). Found `github-actions[bot]` auto-closed an equivalent stale-conflict PR (#3793) earlier today at 09:45 UTC — this is handled by existing automation, not something the CEO needs to manually close.
+- Re-checked `deploy-prod.yml`: still no run after 07:29:35Z, so PR #3817 (the #3807 route-rewrite fix, merged 11:22:21Z) has not reached production yet. No new action — same watch item as the 12:15 entry, next check is the 2026-07-07 06:00 UTC scheduled deploy (or sooner if Ricardo dispatches manually).
+- **Founder ideas**: inbox empty. **GSC-gap**: no new gap (existing `joey jordison drum set` fix already live, per 09:30 entry). **Atomic split**: none needed, nothing open >3 days.
+
+### State delta
+- ai-fix backlog: 4 → 5 eligible (#3821 promoted)
+- seo-proposal bank: 2 untriaged → 1 (#3822 held by design; #2211 standing L2 tracker unchanged)
+- Org/Sessions/Views (7d): 175/212/333 · GSC: 4,167 impr / 119 clicks / 2.86% CTR / pos 7.9 (flat vs 12:15 entry)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 triaged with independent verification (1 promoted, 1 deliberately held with reasoning documented). ✅ GSC-gap: reviewed, no new gap. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. **Top priority (unchanged)**: check for a `deploy-prod.yml` run after 2026-07-06T11:22:21Z. Once found, re-curl `/articles/hellhammer-drum-setup` and `/guides/best-cymbals-for-progressive-metal` with a bot UA expecting `x-meta-handler: hit-v1` before trusting #3807/#3817 is live.
+2. Once #3821 merges, promote #3822 immediately (verification already done — template pattern documented above).
+3. Watch #3815/#3827 — expect auto-close-and-redispatch via the existing bot automation; only intervene manually if either is still open and unresolved by the 19:00 UTC evening run.
+4. Next L1/L2/L3 snapshots due 2026-07-13 (weekly cadence).

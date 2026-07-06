@@ -17,11 +17,12 @@ import {
   StyleSheet 
 } from 'react-native';
 import { Image } from 'expo-image';
-import { 
-  getAllSoundLikeGuides, 
+import {
+  getAllSoundLikeGuides,
   getSoundLikeGuideBySlug,
+  getSoundLikeGuideByDrummerId,
   generateGuideSchema,
-  generateGuideFaqSchema 
+  generateGuideFaqSchema
 } from '../data/soundLikeGuides';
 import { getAllBeginnerGuides } from '../data/beginnerGuides';
 import { updateSoundLikeGuideMeta } from '../utils/ogMetaTags';
@@ -852,6 +853,8 @@ export function isGuidePage() {
   const pathname = window.location.pathname;
   return pathname.startsWith('/guides/how-to-sound-like-');
 }
+
+export { getSoundLikeGuideByDrummerId };
 
 export function getGuideSlugFromURL() {
   if (Platform.OS !== 'web' || typeof window === 'undefined') return null;

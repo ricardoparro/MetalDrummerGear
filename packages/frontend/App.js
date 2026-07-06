@@ -267,14 +267,34 @@ const LazyGuidesHubPage = lazy(() => import('./components/SoundLikeGuides').then
 const LazyGuidePage = lazy(() => import('./components/SoundLikeGuides').then(m => ({ default: m.GuidePage })));
 let _soundLikeGuidesModule = null;
 let _soundLikeGuidesLoadPromise = null;
+let _soundLikeGuidesLoadListeners = [];
 const loadSoundLikeGuides = () => import('./components/SoundLikeGuides');
 
 function preloadSoundLikeGuides() {
   if (!_soundLikeGuidesLoadPromise) {
-    _soundLikeGuidesLoadPromise = loadSoundLikeGuides().then(m => { _soundLikeGuidesModule = m; return m; });
+    _soundLikeGuidesLoadPromise = loadSoundLikeGuides().then(m => {
+      _soundLikeGuidesModule = m;
+      _soundLikeGuidesLoadListeners.forEach(cb => cb());
+      _soundLikeGuidesLoadListeners = [];
+      return m;
+    });
   }
   return _soundLikeGuidesLoadPromise;
 }
+// Subscribe to sound-like guides module load - returns unsubscribe function
+function onSoundLikeGuidesLoaded(callback) {
+  if (_soundLikeGuidesModule) {
+    // Module already loaded, call immediately
+    callback();
+    return () => {};
+  }
+  _soundLikeGuidesLoadListeners.push(callback);
+  return () => {
+    _soundLikeGuidesLoadListeners = _soundLikeGuidesLoadListeners.filter(cb => cb !== callback);
+  };
+}
+function isSoundLikeGuidesLoaded() { return _soundLikeGuidesModule !== null; }
+function getSoundLikeGuideByDrummerId(drummerId) { return _soundLikeGuidesModule?.getSoundLikeGuideByDrummerId?.(drummerId) || null; }
 function isGuidesHubPage() { return _soundLikeGuidesModule?.isGuidesHubPage?.() ?? (typeof window !== 'undefined' && window.location.pathname === '/guides'); }
 function isGuidePage() { return _soundLikeGuidesModule?.isGuidePage?.() ?? (typeof window !== 'undefined' && window.location.pathname.startsWith('/guides/') && window.location.pathname !== '/guides/'); }
 function getGuideSlugFromURL() { return _soundLikeGuidesModule?.getGuideSlugFromURL?.() ?? (typeof window !== 'undefined' ? window.location.pathname.replace('/guides/', '') : ''); }
@@ -6526,6 +6546,62 @@ function SimilarDrummersSection({ drummer, allDrummers, theme, onSelectDrummer }
 }
 
 // ==========================================
+// SOUND LIKE GUIDE CTA - Issue #3845
+// Links a drummer profile to its matching "How to Sound Like X" guide
+// ==========================================
+
+function SoundLikeGuideCTA({ drummerId, drummerName, theme }) {
+  const [isLoaded, setIsLoaded] = useState(isSoundLikeGuidesLoaded());
+
+  useEffect(() => {
+    if (!isLoaded) {
+      preloadSoundLikeGuides();
+      const unsubscribe = onSoundLikeGuidesLoaded(() => setIsLoaded(true));
+      return unsubscribe;
+    }
+  }, [isLoaded]);
+
+  const guide = isLoaded ? getSoundLikeGuideByDrummerId(drummerId) : null;
+
+  if (!isLoaded || !guide) {
+    return null;
+  }
+
+  const handlePress = () => {
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/guides/${guide.slug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+    }
+  };
+
+  const label = `How to Sound Like ${drummerName} →`;
+
+  return Platform.OS === 'web' ? (
+    <a
+      href={`/guides/${guide.slug}`}
+      onClick={(e) => {
+        e.preventDefault();
+        handlePress();
+      }}
+      style={{ textDecoration: 'none', display: 'block' }}
+    >
+      <View style={[styles.exploreMoreButton, { borderColor: theme.primary }]}>
+        <Text style={[styles.exploreMoreText, { color: theme.primary }]}>{label}</Text>
+      </View>
+    </a>
+  ) : (
+    <TouchableOpacity
+      onPress={handlePress}
+      style={[styles.exploreMoreButton, { borderColor: theme.primary }]}
+      accessibilityRole="link"
+      accessibilityLabel={`How to sound like ${drummerName}`}
+    >
+      <Text style={[styles.exploreMoreText, { color: theme.primary }]}>{label}</Text>
+    </TouchableOpacity>
+  );
+}
+
+// ==========================================
 // DRUMMER COMPARISONS CTA - Issue #558
 // Shows comparisons featuring the current drummer with link to /vs
 // ==========================================
@@ -7438,6 +7514,13 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           null when the drummer shares no gear series with other pros. */}
       <SharedGearDrummersBlock drummer={drummer} theme={theme} />
 
+      {/* How to Sound Like [Drummer] Guide CTA - Issue #3845 */}
+      <SoundLikeGuideCTA
+        drummerId={drummer.id}
+        drummerName={drummer.name}
+        theme={theme}
+      />
+
       {/* Drummer vs Drummer Comparisons CTA - Issue #558 */}
       <DrummerComparisonsCTA
         drummerSlug={drummerSlug}
@@ -7445,7 +7528,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
         allDrummers={allDrummers}
         theme={theme}
       />
-      
+
       {/* Last Updated Timestamp - Issue #449 */}
       <View style={[styles.lastUpdatedContainer, { borderTopColor: theme.border }]}>
         {Platform.OS === 'web' ? (

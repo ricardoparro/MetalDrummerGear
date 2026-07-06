@@ -841,6 +841,16 @@ function getMetaForPath(pathname) {
                 url: `${BASE_URL}/techniques`,
               },
             },
+            {
+              '@type': 'HowTo',
+              name: `How to Play ${technique.title}`,
+              description: truncate(technique.description, 250),
+              step: technique.howToLearn.map((s, i) => ({
+                '@type': 'HowToStep',
+                position: i + 1,
+                text: s,
+              })),
+            },
           ],
         }),
         breadcrumbSchema: [

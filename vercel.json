@@ -529,87 +529,87 @@
     {
       "source": "/genre/:slug",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/genre/:slug"
+      "destination": "/api/meta/[...path]?path=genre/:slug"
     },
     {
       "source": "/genres",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/genres"
+      "destination": "/api/meta/[...path]?path=genres"
     },
     {
       "source": "/bands/:slug",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/bands/:slug"
+      "destination": "/api/meta/[...path]?path=bands/:slug"
     },
     {
       "source": "/vs/:pair",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/vs/:pair"
+      "destination": "/api/meta/[...path]?path=vs/:pair"
     },
     {
       "source": "/technique/:slug",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/technique/:slug"
+      "destination": "/api/meta/[...path]?path=technique/:slug"
     },
     {
       "source": "/technique/:slug/drummers",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/technique/:slug/drummers"
+      "destination": "/api/meta/[...path]?path=technique/:slug/drummers"
     },
     {
       "source": "/licks",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/licks"
+      "destination": "/api/meta/[...path]?path=licks"
     },
     {
       "source": "/drummers/:slug/licks",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/drummers/:slug/licks"
+      "destination": "/api/meta/[...path]?path=drummers/:slug/licks"
     },
     {
       "source": "/drummers/:slug/licks/:lickSlug",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/drummers/:slug/licks/:lickSlug"
+      "destination": "/api/meta/[...path]?path=drummers/:slug/licks/:lickSlug"
     },
     {
       "source": "/lists/:slug",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/lists/:slug"
+      "destination": "/api/meta/[...path]?path=lists/:slug"
     },
     {
       "source": "/guides/:slug",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/guides/:slug"
+      "destination": "/api/meta/[...path]?path=guides/:slug"
     },
     {
       "source": "/battles/:slug",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/battles/:slug"
+      "destination": "/api/meta/[...path]?path=battles/:slug"
     },
     {
       "source": "/quotes",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/quotes"
+      "destination": "/api/meta/[...path]?path=quotes"
     },
     {
       "source": "/gear/:brand/:series/drummers-using",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/gear/:brand/:series/drummers-using"
+      "destination": "/api/meta/[...path]?path=gear/:brand/:series/drummers-using"
     },
     {
       "source": "/drummers/:slug/gear-history",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/drummers/:slug/gear-history"
+      "destination": "/api/meta/[...path]?path=drummers/:slug/gear-history"
     },
     {
       "source": "/drummers/:slug/signature/:gearSlug",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/drummers/:slug/signature/:gearSlug"
+      "destination": "/api/meta/[...path]?path=drummers/:slug/signature/:gearSlug"
     },
     {
       "source": "/articles/:slug",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
-      "destination": "/api/meta/articles/:slug"
+      "destination": "/api/meta/[...path]?path=articles/:slug"
     },
     { "source": "/((?!api/).*)", "destination": "/index.html" }
   ]

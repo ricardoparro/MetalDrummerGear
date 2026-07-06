@@ -1501,3 +1501,30 @@ Check-in between the 13:15 mid-day pulse and evening run. 4 new `seo-proposal` i
 2. Once #3821 merges, promote #3822 immediately (verification already done, 13:15 entry).
 3. Watch #3815 (CONFLICTING PR on #3800) — revisit if unresolved by evening run.
 4. Next L1/L2/L3 snapshots due 2026-07-13 (weekly cadence).
+
+## 2026-07-06 17:15 — Promoted #3822 (unblocked by #3821 merge) + 6 fresh proposals, deploy still pending
+
+### Context (≤3 lines)
+#3821 merged (PR #3833, commit 23131c9c) since the 15:10 entry, unblocking the held #3822. 6 new `seo-proposal` issues landed 15:14-15:16 UTC (#3834-3839: comparison pairs, nu-metal/progressive/symphonic gear-guide gaps, brand-specific top-10 lists, Vinnie Paul pre-CFH album arc). Backlog was 4 eligible ai-fix — deep in promote-liberally band (cap 80).
+
+### Actions taken
+- **Promoted #3822** per the standing commitment from the 13:15 entry — no re-verification needed, its claim was already independently confirmed against `App.js`.
+- **Independently re-verified all 6 fresh proposals via grep against the actual data files** before promoting (not just trusting the SEO Agent's own cited greps): confirmed 0 pre-existing hits for all 4 new comparison-pair slugs in #3834 (and that `jason-bittner` is a real roster drummer in `drummersByKit.js`); confirmed nu-metal has only 1 of 4 gear-type guides in #3835; confirmed the exact progressive-metal (missing pedals/snares/hi-hats) and symphonic-metal (missing cymbals/pedals) gaps in #3836; confirmed zero brand-specific top-10 lists exist for tama/pearl/dw/zildjian/sabian in #3837/#3838 despite heavy brand-name density in existing list bodies; confirmed zero existing "I Am the Night"/"Power Metal" (1985/1988) album articles in `vinnie-paul.js` for #3839 (the only grep hits are prose references to the already-shipped "Reinventing the Steel" article, not existing entries). All 6 genuine, non-duplicate gaps — promoted all.
+- Checked the 4 open PRs (#3841-3844, all `UNSTABLE` mergeStateStatus) — `statusCheckRollup` shows no failed checks, just pending/in-progress ones. No action needed.
+- Re-checked `deploy-prod.yml`: still no run after 2026-07-06T07:29:35Z, so PR #3817 has not reached production yet. Same watch item as the 12:15/13:15/15:10 entries — next scheduled deploy is 2026-07-07 06:00 UTC.
+- Swept open `ai-fix` for atomic-split candidates: none — all 4 eligible issues (#3800/#3830/#3831/#3832) created today, none stale.
+- Founder ideas: inbox empty. GSC-gap: `joey jordison drum set` (63 impr, 1.59% CTR) unchanged, no new escalation — fix (#3059) already live per 09:30 entry, still awaiting the delayed deploy to reach crawlers for the broader route-family fix.
+
+### State delta
+- ai-fix backlog: 4 → 11 eligible (#3822/#3834/#3835/#3836/#3837/#3838/#3839 promoted)
+- seo-proposal bank: 6 untriaged → 0 (umbrella trackers #3810/#3819/#2211 unaffected)
+- Org/Sessions/Views (7d): 177/215/336 · GSC: 4,167 impr / 119 clicks / 2.86% CTR / pos 7.9 (flat)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 triaged with independent grep verification, all promoted. ✅ GSC-gap: reviewed, no new gap. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Check `deploy-prod.yml` for a run after 2026-07-06T11:22:21Z (PR #3817's merge) — likely the 2026-07-07 06:00 UTC scheduled run. Once found, re-curl `/articles/hellhammer-drum-setup` and `/guides/best-cymbals-for-progressive-metal` with a bot UA expecting `x-meta-handler: hit-v1` before trusting #3807 is live.
+2. Once deploy confirmed, expect L3 duplicate/404 counts to drop over 1-2 weeks as Google re-crawls — not an instant fix in next week's snapshot.
+3. Watch #3841-3844 (currently pending checks) through to merge or failure.
+4. Next L1/L2/L3 snapshots due 2026-07-13 (weekly cadence).

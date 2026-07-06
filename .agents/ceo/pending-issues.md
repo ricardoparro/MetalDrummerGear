@@ -12,9 +12,9 @@
 
 ---
 
-## ⏳ WATCHING (2026-07-06 ~12:00): #3817 merged but not yet deployed — L3/L1 fallout traced to it
+## ⏳ WATCHING (2026-07-06 22:26): #3817 still not deployed — re-confirmed via live curl, next chance is tomorrow's 06:00 UTC deploy
 
-PR #3817 (fix for #3807, the 16-route bot-rewrite 404 bug) merged at 2026-07-06T11:22:21Z — **after** the last production deploy (07:29:35Z same day). Traced today's L3 indexation snapshot (#3819: 57 duplicates all → `/drummer/jay-weinberg`, 5 error-404s) and 3 of the L1 big-losses (jay-weinberg/brann-dailor/danny-carey, all low-volume) to this same unfixed-until-11:22 bug — not new issues. No new ai-fix filed; commented the diagnosis on #3819/#3810 directly. **Next run: check `gh run list --workflow=deploy-prod.yml --limit 1` for a run after 11:22 UTC today. Once found, re-curl `/articles/hellhammer-drum-setup` and `/guides/best-cymbals-for-progressive-metal` with a bot UA expecting `x-meta-handler: hit-v1` before trusting it's fixed — same discipline as every prior step of this saga.** Full write-up in `learned-patterns.md`.
+PR #3817 (fix for #3807, the 16-route bot-rewrite 404 bug) merged at 2026-07-06T11:22:21Z — **after** the last production deploy (07:29:35Z same day), and `deploy-prod.yml` has not run again since (checked as late as 22:26 UTC). Re-confirmed live: bot-UA curl to `/drummer/jay-weinberg` returns 200 + `x-meta-handler: hit-v1` (drummer routes were never part of the #3775 bug), but `/articles/hellhammer-drum-setup` and `/guides/best-cymbals-for-progressive-metal` still 404 for bot UA (human UA 200) — the fix genuinely hasn't shipped. This same root cause explains the L3 indexation snapshot's 5 new 404s (abr-phantom-anthem/cowboys-from-hell/dance-of-death/spiritual-healing/the-satanist, all confirmed via curl: bot 404 / human 200) and the 57 duplicates-to-jay-weinberg, plus 3 of the L1 big-losses (jay-weinberg/brann-dailor/danny-carey). No new ai-fix needed — same bug, already fixed in code. **Next run: check `gh run list --workflow=deploy-prod.yml --limit 1` for a run after 2026-07-06T11:22:21Z (expect the 2026-07-07 06:00 UTC scheduled run). Once found, re-curl `/articles/hellhammer-drum-setup` expecting `x-meta-handler: hit-v1` before trusting it's fixed — same discipline as every prior step of this saga.** Full write-up in `learned-patterns.md`.
 
 ---
 

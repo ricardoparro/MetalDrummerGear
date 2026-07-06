@@ -1553,3 +1553,10 @@ Evening pass. 4 new `seo-proposal` issues landed 17:06-17:07 UTC (#3845 SoundLik
 1. Check `deploy-prod.yml` for the 2026-07-07 06:00 UTC scheduled run — once found, re-curl `/articles/hellhammer-drum-setup` and `/guides/best-cymbals-for-progressive-metal` with a bot UA expecting `x-meta-handler: hit-v1` before trusting #3807/#3817 is live. This single deploy is the shared blocker for L1 (GSC big-losses), L2 (LLM citation gaps), and L3 (duplicate/404 counts).
 2. Watch #3842/#3844 (DIRTY) — expect auto-close-and-redispatch via `roadie-night-fleet.yml`; only intervene manually if either is still open and unresolved after 2026-07-07's runs.
 3. Next L1/L2/L3 snapshots due 2026-07-13 (weekly cadence).
+
+## 2026-07-06 18:40 (state-confirm — anti-noise hold)
+- Backlog: 11 ai-fix · 3 PRs open (#3850/#3852/#3853, transient DIRTY/UNSTABLE) · proposals untriaged: 0
+- Org / Sessions / Views (7d): 178 / 216 / 337
+- Blockers unchanged: #3817 deploy pending, no `deploy-prod.yml` run since 07:29:35Z · no re-spam
+- Actions: none — hold continues
+- Next check: 2026-07-07 06:00 UTC scheduled deploy is the trigger for a Full entry (re-curl bot UA before trusting #3807/#3817 live)

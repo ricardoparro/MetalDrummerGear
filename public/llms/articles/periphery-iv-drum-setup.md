@@ -9,7 +9,7 @@
 
 ## Overview
 
-Released on April 5, 2019 on 3DOT Recordings — Periphery's own independent label — Periphery IV: Hail Stan is the band's most ambitious single-record statement. The album debuted at #1 on the US Top Progressive Albums chart, reached the top 20 of the US Hard Rock Albums chart, and earned critical recognition as Periphery's most fully realized concept album. At its center is "Reptile" — a 16-minute progressive metal epic that stands as one of the defining long-form compositions in djent's history, and the performance that best showcases where Matt Halpern's drumming had arrived by 2019.
+Released on April 5, 2019 on 3DOT Recordings — Periphery's own independent label — Periphery IV: Hail Stan is the band's most ambitious single-record statement. The album is officially titled with Roman numerals, but almost nobody calls it that: fans, forums, and Matt Halpern himself refer to it simply as "Hail Stan," a title drawn from the record's loose religious-satire concept. The album debuted at #1 on the US Top Progressive Albums chart, reached the top 20 of the US Hard Rock Albums chart, and earned critical recognition as Periphery's most fully realized concept album — though reception has been more divided than the chart numbers suggest, with some listeners calling it Periphery's creative peak and others finding its sprawl less focused than the tighter, Grammy-nominated Select Difficulty. What's rarely disputed is Halpern's performance itself. At its center is "Reptile" — a 16-minute progressive metal epic that stands as one of the defining long-form compositions in djent's history, and the performance that best showcases where Matt Halpern's drumming had arrived by 2019.
 
 For Halpern specifically, Hail Stan documents the final evolution of the gear configuration that had been building since his Mapex endorsement in 2014. The Mapex Saturn V MH Exotic — a custom-influenced flagship configuration featuring the maple-and-walnut hybrid shell that had defined his Saturn-era playing since Periphery III — was now fully optimized. The Meinl Byzance cymbal setup encompassing Dual, Extra Dry, Traditional, and Pure Alloy variants was comprehensive and familiar. The DW 9000 double pedals provided the consistent response he had relied upon throughout the Select Difficulty and Juggernaut cycles. Every gear choice was proven, every element of the setup deeply understood.
 
@@ -93,8 +93,12 @@ A: Matt Halpern used a comprehensive Meinl Byzance cymbal setup on Periphery IV:
 
 A: Yes. Periphery IV: Hail Stan debuted at number 1 on the US Top Progressive Albums chart following its April 5, 2019 release on Periphery's own 3DOT Recordings label. The album also reached the top 20 of the US Hard Rock Albums chart, confirming that Periphery had built a commercially significant audience beyond the djent underground over the decade since their 2010 debut. The chart success reflected both the band's loyal fanbase and the critical recognition that Periphery IV represented the band's most ambitious and fully realized studio statement.
 
+**Q: How was Hail Stan received in the djent and prog-metal scene?**
+
+A: Hail Stan debuted at number one on the US Top Progressive Albums chart and reached the top 20 of the US Hard Rock Albums chart following its April 5, 2019 release on Periphery's own 3DOT Recordings label. Critical and fan reaction has been more divided than commercial reception: some listeners consider it Periphery's most ambitious and rewarding record, largely on the strength of "Reptile," while others find its scope less focused than the tighter Periphery III: Select Difficulty. Matt Halpern's drumming performance, however, is consistently cited as a highlight regardless of where a given listener lands on the album overall.
+
 **Source:** https://metalforge.io/articles/periphery-iv-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-07 · Source: [MetalForge.io](https://metalforge.io)*

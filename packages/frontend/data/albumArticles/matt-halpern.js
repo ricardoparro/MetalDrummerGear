@@ -738,7 +738,7 @@ export const articles = {
     "ogImage": "/images/albums/periphery-iv-drums.webp",
     "intro": {
       "title": "The Concept Album: Periphery's Most Ambitious Statement",
-      "content": "Released on April 5, 2019 on 3DOT Recordings — Periphery's own independent label — Periphery IV: Hail Stan is the band's most ambitious single-record statement. The album debuted at #1 on the US Top Progressive Albums chart, reached the top 20 of the US Hard Rock Albums chart, and earned critical recognition as Periphery's most fully realized concept album. At its center is \"Reptile\" — a 16-minute progressive metal epic that stands as one of the defining long-form compositions in djent's history, and the performance that best showcases where Matt Halpern's drumming had arrived by 2019.\n\nFor Halpern specifically, Hail Stan documents the final evolution of the gear configuration that had been building since his Mapex endorsement in 2014. The Mapex Saturn V MH Exotic — a custom-influenced flagship configuration featuring the maple-and-walnut hybrid shell that had defined his Saturn-era playing since Periphery III — was now fully optimized. The Meinl Byzance cymbal setup encompassing Dual, Extra Dry, Traditional, and Pure Alloy variants was comprehensive and familiar. The DW 9000 double pedals provided the consistent response he had relied upon throughout the Select Difficulty and Juggernaut cycles. Every gear choice was proven, every element of the setup deeply understood.\n\nThis familiarity and depth of integration shows in the performances. \"Reptile\" — the 16-minute centerpiece that encompasses the album's thematic arc — requires Halpern to navigate wider dynamic range, more dramatic tempo contrasts, and greater structural variety than any single track in the Periphery catalog. He does so with the poise of a drummer who knows his gear so deeply that he is thinking about music rather than tools. The Mapex Saturn V's response, the Byzance setup's tonal vocabulary, the DW 9000's adjustability — all of it is internalized, leaving Halpern's entire attention available for the compositional demands of the album's most ambitious material.\n\nHail Stan also marked a commercial and critical milestone. The #1 chart position on US Progressive, the independent release on their own label, and the sustained engagement of a fanbase that had grown with Periphery from the self-titled debut through this record all reflected the long arc of a band and drummer who had built something lasting.",
+      "content": "Released on April 5, 2019 on 3DOT Recordings — Periphery's own independent label — Periphery IV: Hail Stan is the band's most ambitious single-record statement. The album is officially titled with Roman numerals, but almost nobody calls it that: fans, forums, and Matt Halpern himself refer to it simply as \"Hail Stan,\" a title drawn from the record's loose religious-satire concept. The album debuted at #1 on the US Top Progressive Albums chart, reached the top 20 of the US Hard Rock Albums chart, and earned critical recognition as Periphery's most fully realized concept album — though reception has been more divided than the chart numbers suggest, with some listeners calling it Periphery's creative peak and others finding its sprawl less focused than the tighter, Grammy-nominated Select Difficulty. What's rarely disputed is Halpern's performance itself. At its center is \"Reptile\" — a 16-minute progressive metal epic that stands as one of the defining long-form compositions in djent's history, and the performance that best showcases where Matt Halpern's drumming had arrived by 2019.\n\nFor Halpern specifically, Hail Stan documents the final evolution of the gear configuration that had been building since his Mapex endorsement in 2014. The Mapex Saturn V MH Exotic — a custom-influenced flagship configuration featuring the maple-and-walnut hybrid shell that had defined his Saturn-era playing since Periphery III — was now fully optimized. The Meinl Byzance cymbal setup encompassing Dual, Extra Dry, Traditional, and Pure Alloy variants was comprehensive and familiar. The DW 9000 double pedals provided the consistent response he had relied upon throughout the Select Difficulty and Juggernaut cycles. Every gear choice was proven, every element of the setup deeply understood.\n\nThis familiarity and depth of integration shows in the performances. \"Reptile\" — the 16-minute centerpiece that encompasses the album's thematic arc — requires Halpern to navigate wider dynamic range, more dramatic tempo contrasts, and greater structural variety than any single track in the Periphery catalog. He does so with the poise of a drummer who knows his gear so deeply that he is thinking about music rather than tools. The Mapex Saturn V's response, the Byzance setup's tonal vocabulary, the DW 9000's adjustability — all of it is internalized, leaving Halpern's entire attention available for the compositional demands of the album's most ambitious material.\n\nHail Stan also marked a commercial and critical milestone. The #1 chart position on US Progressive, the independent release on their own label, and the sustained engagement of a fanbase that had grown with Periphery from the self-titled debut through this record all reflected the long arc of a band and drummer who had built something lasting.",
       "keyPoints": [
         "Released April 5, 2019 on 3DOT Recordings (Periphery's own label) — #1 on US Top Progressive Albums chart",
         "Mapex Saturn V MH Exotic: fully developed flagship configuration at peak integration",
@@ -910,6 +910,10 @@ export const articles = {
       {
         "question": "Did Periphery IV: Hail Stan chart on the Billboard charts?",
         "answer": "Yes. Periphery IV: Hail Stan debuted at number 1 on the US Top Progressive Albums chart following its April 5, 2019 release on Periphery's own 3DOT Recordings label. The album also reached the top 20 of the US Hard Rock Albums chart, confirming that Periphery had built a commercially significant audience beyond the djent underground over the decade since their 2010 debut. The chart success reflected both the band's loyal fanbase and the critical recognition that Periphery IV represented the band's most ambitious and fully realized studio statement."
+      },
+      {
+        "question": "How was Hail Stan received in the djent and prog-metal scene?",
+        "answer": "Hail Stan debuted at number one on the US Top Progressive Albums chart and reached the top 20 of the US Hard Rock Albums chart following its April 5, 2019 release on Periphery's own 3DOT Recordings label. Critical and fan reaction has been more divided than commercial reception: some listeners consider it Periphery's most ambitious and rewarding record, largely on the strength of \"Reptile,\" while others find its scope less focused than the tighter Periphery III: Select Difficulty. Matt Halpern's drumming performance, however, is consistently cited as a highlight regardless of where a given listener lands on the album overall."
       }
     ],
     "conclusion": {
@@ -1331,217 +1335,6 @@ export const articles = {
     "conclusion": {
       "title": "The Arc Closes: From Djent Debut to 2023",
       "content": "Periphery V: Aliens closes the arc that began with the 2010 self-titled debut in Misha Mansoor's home studio. From the DW Collector's Series and Sabian HHX of \"Icarus Lives!\" to the Mapex Saturn V MH Exotic and Meinl Byzance of \"Zagreus\" and \"Wildfire\" — thirteen years of Periphery recordings document not just Matt Halpern's gear evolution, but the maturation of djent drumming itself.\n\nThe through-line across all seven Periphery studio albums is Halpern's consistent philosophy: groove first, articulation always, technical complexity in service of the music rather than as an end in itself. The gear changed — DW to Mapex, Sabian to Meinl, single pedals to DW 9000 double — but the drummer's approach remained constant. Aliens is the clearest evidence: the 2023 album shows a drummer who has refined his craft across a decade of world-class recordings into something that sounds effortless, which is the hardest thing of all to achieve.\n\nFor the complete Periphery gear evolution, see [Periphery Drum Setup (2010)](/articles/periphery-drum-setup) for where the journey began, [Periphery III: Select Difficulty Drum Setup](/articles/periphery-iii-drum-setup) for the Grammy-era Mapex Saturn configuration, and [Periphery IV: Hail Stan Drum Setup](/articles/periphery-iv-drum-setup) for the record that immediately preceded Aliens. For the full current kit breakdown and technique analysis, see Matt Halpern's [drummer profile](/drummer/matt-halpern)."
-    }
-  },
-  "hail-stan-drum-setup": {
-    "slug": "hail-stan-drum-setup",
-    "albumTitle": "Periphery IV: Hail Stan",
-    "artist": "Periphery",
-    "drummer": "Matt Halpern",
-    "drummerId": 18,
-    "relatedDrummerSlug": "matt-halpern",
-    "year": 2019,
-    "genre": "Djent / Progressive Metal",
-    "label": "3DOT Recordings",
-    "studio": "Misha Mansoor's personal studio / various locations",
-    "producer": "Misha Mansoor",
-    "isAlbumArticle": true,
-    "datePublished": "2026-07-07",
-    "dateModified": "2026-07-07",
-    "author": "MetalForge Editorial",
-    "title": "Hail Stan Drum Setup: Matt Halpern's Gear on Periphery's Concept Album",
-    "description": "A dedicated deep dive into Matt Halpern's drum setup on Periphery's Hail Stan (2019) — the Mapex Saturn V MH Exotic, the full Meinl Byzance arsenal, and how the 16-minute 'Reptile' became one of the most discussed drum performances in the djent scene.",
-    "seoKeywords": [
-      "hail stan drum setup",
-      "hail stan matt halpern",
-      "periphery hail stan drums",
-      "matt halpern hail stan kit",
-      "reptile periphery drums",
-      "djent concept album drums",
-      "matt halpern mapex saturn v",
-      "periphery drum gear 2019"
-    ],
-    "ogImage": "/images/albums/hail-stan-drums.webp",
-    "intro": {
-      "title": "Hail Stan: The Concept Album That Divided and Defined Djent",
-      "content": "Ask a djent fan to name Periphery's most-argued-about record and \"Hail Stan\" comes up almost every time. Released April 5, 2019 on the band's own 3DOT Recordings, Periphery IV: Hail Stan is officially titled with Roman numerals, but almost nobody calls it that — fans, forums, and Matt Halpern himself refer to it simply as \"Hail Stan,\" a title drawn from the record's loose religious-satire concept and its own internal mythology. That naming quirk matters for a gear breakdown, because it's the search term people actually type, and it points at why the album generates so much discussion in the first place: Hail Stan is Periphery leaning further into narrative ambition than any prior release, anchored by \"Reptile,\" a 16-minute centerpiece that remains one of the most debated long-form compositions in modern progressive metal.\n\nThe conversation around Hail Stan in the djent and prog-metal scene tends to split two ways. Some listeners point to it as Periphery's creative peak — the record where Misha Mansoor's songwriting ambition and Matt Halpern's drumming vocabulary finally had a large enough canvas to fully stretch out. Others find its sprawl indulgent compared to the tighter, Grammy-nominated Periphery III: Select Difficulty three years earlier. What's rarely disputed is Halpern's performance itself. \"Reptile\" alone asks more of a drummer than most bands ask across an entire album: it swings from near-silent, cymbal-only textures to full-tilt djent aggression and back, sometimes within the same eight bars, and Halpern has to make all of it sound like one continuous musical thought rather than a medley of sections stitched together.\n\nBy 2019, the gear behind that performance was no mystery — Halpern had been playing Mapex's flagship Saturn V MH Exotic and a comprehensive Meinl Byzance cymbal arsenal for years, and Hail Stan is the album where that setup gets pushed hardest. This article focuses specifically on how that rig holds up across Hail Stan's most demanding material — \"Reptile,\" \"Blood Eagle,\" and \"CHVRCH BVRNER\" in particular — and why the record remains a reference point whenever drummers debate what a modern djent kit needs to be capable of.\n\nHail Stan debuted at number one on the US Top Progressive Albums chart and reached the top 20 of the US Hard Rock Albums chart, proof that the record's ambition connected with a real audience even as critics argued over its scope. For gear-focused listeners, it also marks the moment Halpern's Mapex/Meinl setup stopped being \"new\" and became simply his sound — settled, trusted, and deployed without hesitation across the most demanding material of his career to that point.",
-      "keyPoints": [
-        "Released April 5, 2019 on 3DOT Recordings — officially Periphery IV, universally known as \"Hail Stan\"",
-        "Debuted at #1 on the US Top Progressive Albums chart and top 20 on US Hard Rock Albums",
-        "The 16-minute \"Reptile\" is one of the most discussed and debated drum performances in djent",
-        "Built on Halpern's fully established Mapex Saturn V MH Exotic and Meinl Byzance Turkish-handcrafted cymbal arsenal",
-        "A frequent reference point in prog-metal/djent discussions of what a modern drum setup needs to handle"
-      ]
-    },
-    "drumKit": {
-      "title": "Mapex Saturn V MH Exotic: Built for a 16-Minute Epic",
-      "brand": "Mapex",
-      "model": "Mapex Saturn V MH Exotic",
-      "finish": "Custom finishes (varies per promotional cycle)",
-      "config": {
-        "bassdrums": [
-          "22\" x 18\" Bass Drum"
-        ],
-        "toms": [
-          "10\" x 7\" Rack Tom",
-          "12\" x 8\" Rack Tom"
-        ],
-        "floorToms": [
-          "14\" x 14\" Floor Tom",
-          "16\" x 16\" Floor Tom"
-        ],
-        "shells": "Maple/Walnut hybrid shells with SONIClear bearing edges"
-      },
-      "description": "\"Reptile\" is the track that most tests the limits of a drum kit's dynamic range, and it's worth understanding why Halpern's Mapex Saturn V MH Exotic was the right tool for it. The maple-and-walnut hybrid shell gives the kit two personalities in one instrument: maple's warmth and sustain for the track's ambient, almost meditative sections, and walnut's focused attack for the moments it erupts into full djent weight. A shell pack tuned for only one of those extremes would betray the other half of the song.\n\nThe SONIClear bearing edges matter more here than on almost any other Periphery track. \"Reptile\" asks Halpern to move from ghost-note-quiet dynamics to maximum-force strikes without the drums changing character between those extremes — a shell with inconsistent edge contact would sound like two different kits depending on how hard it's struck. SONIClear's optimized head-to-shell contact keeps the tone consistent whether Halpern is barely tapping a tom or driving a fill at full volume, which is exactly the kind of dynamic control a 16-minute through-composed piece demands.\n\nThe single 22\"x18\" bass drum, unchanged across every Periphery studio record, is arguably the most interesting design constraint on Hail Stan. Rather than reach for a second kick drum to handle \"Blood Eagle\" and \"CHVRCH BVRNER's\" more aggressive double-bass-sounding passages, Halpern continues writing those parts on a single pedal, forcing compositional discipline into the bass drum vocabulary even at the band's most extreme. The 18\" depth gives each stroke enough low-end authority that the single-kick approach never sounds like a compromise.\n\nThe 10\"/12\" rack toms and 14\"/16\" floor toms span a wide enough melodic range that Halpern can use tom runs as a structural device across \"Reptile's\" multiple sections — a technique that shows up throughout Hail Stan but is most pronounced in the album's longest track, where tom melodies function almost like a second harmonic voice alongside Mansoor's guitar layers.",
-      "notes": [
-        "Maple/walnut hybrid shells provide both the warmth for ambient passages and the attack for aggressive sections within the same track",
-        "SONIClear bearing edges keep tone consistent across \"Reptile\"'s extreme dynamic swings",
-        "22\" x 18\" single bass drum maintained even through the album's most double-bass-sounding passages",
-        "Four-tom configuration used structurally, not just for accents, especially on \"Reptile\"",
-        "Same flagship Saturn V MH Exotic configuration Halpern had refined since Periphery III"
-      ],
-      "estimatedValue": "$4,500-6,000 (Mapex Saturn V MH Exotic shell pack, 2019 era)"
-    },
-    "snare": {
-      "title": "Mapex Black Panther Design Lab: One Snare, Every Mood",
-      "brand": "Mapex",
-      "model": "Mapex Black Panther Design Lab",
-      "size": "14\" x 6\" (primary configuration)",
-      "shell": "Various shell materials (cherry, brass, maple depending on track)",
-      "description": "Few tracks in Periphery's catalog demand as much from a single snare drum as \"Reptile\" does across its 16 minutes. Halpern's Mapex Black Panther Design Lab snares gave him the shell-material flexibility to pick the right voice per session — cherry for a rounder, warmer crack in the song's quieter movements, brass for cutting projection when the arrangement turns aggressive. The 14\"x6\" depth adds body over a standard 5.5\" snare without sacrificing the sensitivity his ghost-note vocabulary depends on.\n\nWhat makes the snare choice on Hail Stan notable is less the hardware itself than how much territory it has to cover. \"Blood Eagle\" and \"CHVRCH BVRNER\" need a backbeat that can compete with some of the densest guitar production in Periphery's discography, while \"Reptile's\" ambient stretches need the same drum to sit back and produce barely-there dynamic shading. The Design Lab series exists precisely for drummers who need one snare to convincingly do both jobs across a single record — or, in \"Reptile's\" case, a single track.\n\nHalpern's tuning on Hail Stan sits medium-high, with Evans UV1 batter and Evans Hazy 300 resonant heads — the same combination he'd carried since Select Difficulty. That consistency was a deliberate choice: with a compositionally ambitious album asking so much of the arrangement, keeping the snare's tuning and head selection unchanged meant one less variable to manage while everything else about the material was pushing into new territory.\n\nListen closely to the transition points in \"Reptile\" — the moments where the song shifts from restrained to explosive — and the snare is doing quiet structural work the whole time, using subtle dynamic buildup to signal where a section is headed before the full band arrives there. That's ghost-note vocabulary functioning as composition, not just technique.",
-      "tuningSetting": "Medium-high — consistent snare voice across Hail Stan's widest dynamic range to date",
-      "heads": "Evans UV1 (batter), Evans Hazy 300 (resonant)",
-      "estimatedValue": "$450-800 (Mapex Black Panther Design Lab)"
-    },
-    "cymbals": {
-      "title": "Meinl Byzance: The Full Arsenal, Stress-Tested by Reptile",
-      "brand": "Meinl",
-      "series": "Byzance (Dual, Extra Dry, Traditional, Pure Alloy)",
-      "setup": [
-        {
-          "type": "Hi-Hats",
-          "model": "Meinl 14\" Byzance Dual Hi-Hats",
-          "position": "Left side",
-          "notes": "Layered dual-surface hi-hats carrying much of \"Reptile\"'s quieter rhythmic texture"
-        },
-        {
-          "type": "Crash",
-          "model": "Meinl 18\" Byzance Extra Dry Thin Crash",
-          "position": "Left of hi-hats",
-          "notes": "Fast decay keeps accents from smearing during \"Blood Eagle\" and \"CHVRCH BVRNER\"'s dense sections"
-        },
-        {
-          "type": "Crash",
-          "model": "Meinl 19\" Byzance Dual Crash",
-          "position": "Over rack toms",
-          "notes": "Complex harmonic crash used across the album's mid-intensity transitions"
-        },
-        {
-          "type": "Crash",
-          "model": "Meinl 20\" Byzance Traditional Medium Crash",
-          "position": "Right of toms",
-          "notes": "Fuller, more sustained voice reserved for \"Reptile\"'s largest dynamic peaks"
-        },
-        {
-          "type": "Ride",
-          "model": "Meinl 22\" Byzance Extra Dry Medium Ride",
-          "position": "Right side",
-          "notes": "Defined ping with controlled wash — carries \"Reptile\"'s extended, more contemplative passages"
-        },
-        {
-          "type": "China",
-          "model": "Meinl 18\" Byzance Brilliant China",
-          "position": "Above floor tom",
-          "notes": "Trashy accent voice for syncopated punctuation in the album's aggressive material"
-        },
-        {
-          "type": "Stack",
-          "model": "Meinl Trash Stack (various sizes)",
-          "position": "Various",
-          "notes": "Quick rhythmic punctuation effects layered into the album's densest production moments"
-        }
-      ],
-      "description": "No track in Periphery's catalog asks more of a cymbal setup's versatility than \"Reptile,\" and Halpern's full Meinl Byzance arsenal is what makes the song's extremes sound like one coherent performance rather than two different drummers. The Byzance Extra Dry crashes — an unlathed, raw-finished surface built for fast decay — keep the aggressive sections of \"Blood Eagle\" and \"CHVRCH BVRNER\" from smearing into cymbal wash, while the same crashes still have enough harmonic complexity to work in \"Reptile\"'s more spacious passages.\n\nThe 14\" Byzance Dual hi-hats do some of the heaviest lifting on the album's quieter stretches. \"Dual\" cymbals combine two distinct surface treatments on a single pair, producing a chick sound with more layered harmonic content than a standard hi-hat — useful anywhere, but essential when a hi-hat pattern has to carry a song's rhythmic interest almost by itself during \"Reptile\"'s more ambient sections, where the guitars pull back and the drum kit becomes the primary textural voice.\n\nThe 22\" Byzance Extra Dry Medium Ride earns its keep during \"Reptile\"'s extended riding passages, offering a defined ping that stays clear without letting wash build up over long sustained sections — a cymbal that has to function almost like a lead instrument when the arrangement thins out around it. Meanwhile the Byzance Brilliant China and Meinl Trash Stacks provide the quick, aggressive punctuation that Hail Stan's harder tracks use for rhythmic emphasis against Mansoor's densest seven-string riffing.\n\nWhat the Hail Stan sessions demonstrate, more than any prior Periphery record, is how comprehensive Halpern's Byzance setup had become by 2019 — not a collection of individual cymbals so much as a full tonal palette, handmade from B20 bronze in Turkey, capable of covering everything from near-silence to full aggression without a single swap of gear mid-song.",
-      "notes": [
-        "Extra Dry crashes prevent wash buildup during \"Blood Eagle\" and \"CHVRCH BVRNER\"'s dense sections",
-        "Byzance Dual hi-hats carry primary rhythmic interest during \"Reptile\"'s ambient passages",
-        "22\" Extra Dry Medium Ride functions almost as a lead voice in \"Reptile\"'s extended sparse sections",
-        "China and trash stacks reserved for syncopated punctuation in the album's most aggressive material",
-        "Full Byzance arsenal treated as one cohesive tonal palette rather than isolated pieces"
-      ],
-      "estimatedValue": "$2,500-3,500 (full Meinl Byzance setup, 2019 era)"
-    },
-    "hardware": {
-      "title": "DW 9000 and Mapex Falcon: Reliability for the Album's Longest Take",
-      "items": [
-        {
-          "type": "Bass Drum Pedal",
-          "brand": "DW",
-          "model": "DW 9000 Double Pedal",
-          "notes": "Chain-drive feel Halpern relies on for groove even during Hail Stan's most aggressive bass drum writing",
-          "description": "The DW 9000's Floating Rotor chain drive gives Halpern a slightly organic response compared to a pure direct-drive pedal — a small swing quality in the action that keeps his single-kick patterns feeling like groove rather than a metronome, even on \"Blood Eagle\" and \"CHVRCH BVRNER\" where the writing pushes toward double-bass territory. For \"Reptile\"'s 16 continuous minutes, the pedal's reliability across an unusually long take mattered as much as its feel."
-        },
-        {
-          "type": "Hi-Hat Stand",
-          "brand": "Mapex",
-          "model": "Mapex Falcon Series Hi-Hat Stand",
-          "notes": "Flagship Mapex hardware matching the Saturn V MH Exotic kit endorsement"
-        },
-        {
-          "type": "Throne",
-          "brand": "Mapex",
-          "model": "Mapex Saddle Throne",
-          "notes": "Saddle design supports the endurance a 16-minute continuous performance like \"Reptile\" demands"
-        },
-        {
-          "type": "Sticks",
-          "brand": "Vic Firth",
-          "model": "Vic Firth Matt Halpern Signature",
-          "notes": "Halpern's established signature stick, unchanged across every Periphery studio recording"
-        }
-      ],
-      "heads": {
-        "bassKick": "Evans EMAD2 (batter), Evans EQ3 Resonant",
-        "toms": "Evans G2 Coated (batter), Evans G1 Clear (resonant)",
-        "snare": "Evans UV1 (batter), Evans Hazy 300 (resonant)"
-      }
-    },
-    "relatedAlbums": [
-      "periphery-iii-drum-setup",
-      "periphery-v-aliens-drum-setup",
-      "whats-in-matt-halperns-kit"
-    ],
-    "relatedDrummers": [
-      53,
-      5,
-      47
-    ],
-    "relatedArticles": [
-      "djent-drumming-guide",
-      "best-drums-for-djent",
-      "polyrhythms"
-    ],
-    "faq": [
-      {
-        "question": "What drum kit did Matt Halpern use on Hail Stan?",
-        "answer": "Matt Halpern recorded Periphery IV: Hail Stan (2019) on his Mapex Saturn V MH Exotic — a maple-and-walnut hybrid shell kit with SONIClear bearing edges, configured with a 22-inch by 18-inch single bass drum, 10-inch and 12-inch rack toms, and 14-inch and 16-inch floor toms. The hybrid shell construction gave him the tonal range to cover both the ambient, near-silent passages and the full-force djent sections found within \"Reptile,\" the album's 16-minute centerpiece, without needing to change kits mid-song."
-      },
-      {
-        "question": "Why is \"Reptile\" from Hail Stan such a significant drum performance?",
-        "answer": "\"Reptile\" is a 16-minute, through-composed track that spans nearly the full emotional and dynamic range Periphery is capable of, from whisper-quiet cymbal textures to maximum-intensity djent aggression, often within the same section. For Matt Halpern, it remains one of the most demanding single performances of his career, requiring the dynamic control, tonal consistency, and structural pacing that his Mapex Saturn V MH Exotic kit and full Meinl Byzance cymbal arsenal were specifically suited to deliver across an unusually long, continuous take."
-      },
-      {
-        "question": "What cymbals did Matt Halpern play on Hail Stan?",
-        "answer": "Halpern used a comprehensive Meinl Byzance setup on Hail Stan, including 14-inch Byzance Dual hi-hats, Byzance Extra Dry crashes in 18 and 19 inches, a 20-inch Byzance Traditional Medium Crash, a 22-inch Byzance Extra Dry Medium Ride, an 18-inch Byzance Brilliant China, and Meinl Trash Stack effects. The Extra Dry finish's fast decay kept dense tracks like \"Blood Eagle\" and \"CHVRCH BVRNER\" from smearing, while the Dual hi-hats carried much of the rhythmic texture during \"Reptile\"'s more ambient stretches."
-      },
-      {
-        "question": "How was Hail Stan received in the djent and prog-metal scene?",
-        "answer": "Hail Stan debuted at number one on the US Top Progressive Albums chart and reached the top 20 of the US Hard Rock Albums chart following its April 5, 2019 release on Periphery's own 3DOT Recordings label. Critical and fan reaction has been more divided than commercial reception: some listeners consider it Periphery's most ambitious and rewarding record, largely on the strength of \"Reptile,\" while others find its scope less focused than the tighter Periphery III: Select Difficulty. Matt Halpern's drumming performance, however, is consistently cited as a highlight regardless of where a given listener lands on the album overall."
-      }
-    ],
-    "conclusion": {
-      "title": "The Record That Tested Every Piece of Gear",
-      "content": "Hail Stan is the Periphery album that comes up whenever drummers debate what a modern djent kit actually needs to be capable of — not because the gear itself is exotic, but because \"Reptile\" demands so much dynamic range from every piece of it. Matt Halpern's Mapex Saturn V MH Exotic and full Meinl Byzance arsenal were already mature and deeply familiar by 2019, and Hail Stan is the record that proves why that familiarity mattered: when a single track spans 16 minutes and every dynamic extreme a band can produce, there's no room for gear that only does one job well.\n\nWhatever side of the Hail Stan debate a listener falls on — creative peak or overreaching sprawl — the drum performance holds up as some of the most complete work Halpern has put on record. The setup didn't change to meet the moment; the moment revealed what the setup could already do.\n\nFor more on how this gear fits into the wider arc, see [Periphery III: Select Difficulty Drum Setup](/articles/periphery-iii-drum-setup) for the Grammy-nominated record that preceded it, and [Periphery V: Aliens Drum Setup](/articles/periphery-v-aliens-drum-setup) for where Halpern's playing went next. For the full signature kit breakdown and technique analysis, see Matt Halpern's [drummer profile](/drummer/matt-halpern)."
     }
   }
 };

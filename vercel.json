@@ -503,7 +503,8 @@
     { "source": "/articles/gavin-harrison-porcupine-tree-drum-setup", "destination": "/articles/fear-of-a-blank-planet-drum-setup", "permanent": true },
     { "source": "/articles/vol3-subliminal-verses-drum-setup", "destination": "/articles/vol-3-the-subliminal-verses-drum-setup", "permanent": true },
     { "source": "/articles/periphery-self-titled-drum-setup", "destination": "/articles/periphery-drum-setup", "permanent": true },
-    { "source": "/articles/nick-augusto-drum-setup", "destination": "/articles/in-waves-drum-setup", "permanent": true }
+    { "source": "/articles/nick-augusto-drum-setup", "destination": "/articles/in-waves-drum-setup", "permanent": true },
+    { "source": "/articles/hail-stan-drum-setup", "destination": "/articles/periphery-iv-drum-setup", "permanent": true }
   ],
   "rewrites": [
     { "source": "/robots.txt", "destination": "/api/robots" },

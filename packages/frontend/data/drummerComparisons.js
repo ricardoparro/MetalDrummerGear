@@ -3471,6 +3471,70 @@ export const drummerComparisons = {
     },
     verdict: 'Ben Koller and Dirk Verbeuren represent two entirely different approaches to technical extreme drumming. Koller channels chaos and raw physicality into Converge\'s unpredictable mathcore assault, where the danger is the point. Verbeuren channels mathematical, European-honed precision into Megadeth\'s thrash arrangements, where seamless technical execution is the point. Both are among the most respected drummers in heavy music\'s more extreme corners — one built on controlled chaos, the other on surgical control.',
   },
+
+  'lars-ulrich-vs-mike-portnoy': {
+    slug: 'lars-ulrich-vs-mike-portnoy',
+    title: 'Lars Ulrich vs Mike Portnoy',
+    metaTitle: 'Lars Ulrich vs Mike Portnoy — Thrash Feel vs Prog Virtuosity | MetalForge',
+    metaDescription: 'Metallica\'s Lars Ulrich vs Dream Theater\'s Mike Portnoy. Riff-driven thrash groove compared to technical progressive metal virtuosity. Gear, technique, and legacy analyzed.',
+    category: 'thrash',
+    drummers: ['lars-ulrich', 'mike-portnoy'],
+    comparison: {
+      style: 'Lars co-founded Metallica in 1981 and built his reputation on riff-driven, mid-tempo thrash that prioritizes feel and groove over flash, anchoring albums from "Master of Puppets" to the self-titled "Black Album." Mike co-founded Dream Theater in 1985 and spent 25 years defining progressive metal drumming through intricate arrangements, odd time signatures, and theatrical live showmanship across records like "Images and Words" and "Metropolis Pt. 2."',
+      technique: 'Lars favors powerful, punchy patterns locked tightly to Metallica\'s guitar riffs, using signature fills sparingly to serve the song rather than showcase technique. Mike is renowned for rapid-fire transitions between complex time signatures, blending jazz-fusion influences with heavy metal power and creative electronic pad integration.',
+      gear: 'Lars plays a Tama Starclassic Maple kit with his signature Tama LU1465 14x6.5" snare and Zildjian A Custom cymbals, driven by a Tama Iron Cobra 900 Power Glide double pedal. Mike plays a Tama Starclassic Maple/Birch kit with his signature Tama Mike Portnoy Melody Master 14x5.5" snare and Sabian HHX cymbals, powered by a Tama Iron Cobra Power Glide double pedal.',
+      influence: 'Lars shaped mainstream metal drumming by helping turn Metallica into the best-selling metal band of all time, introducing thrash rhythms to arena-sized audiences worldwide. Mike is a 30-time Modern Drummer "Drummer of the Year" recipient whose work with Dream Theater, Liquid Tension Experiment, and countless side projects made him the most decorated and imitated progressive metal drummer of his generation.',
+    },
+    verdict: 'Lars Ulrich and Mike Portnoy are two of the most recognizable names in metal drumming, yet they represent opposite philosophies. Lars proves that serving the riff and locking into a groove can build the biggest thrash band on the planet, while Portnoy proves that dazzling technical complexity can still be commercially and critically celebrated. Both are essential reference points — Lars for feel-first thrash, Portnoy for technical progressive songwriting.',
+  },
+
+  'dave-lombardo-vs-nicko-mcbrain': {
+    slug: 'dave-lombardo-vs-nicko-mcbrain',
+    title: 'Dave Lombardo vs Nicko McBrain',
+    metaTitle: 'Dave Lombardo vs Nicko McBrain — Thrash Pioneer vs NWOBHM Foundation | MetalForge',
+    metaDescription: 'Slayer\'s Dave Lombardo vs Iron Maiden\'s Nicko McBrain. Double bass thrash innovation compared to classic heavy metal galloping groove. Gear, technique, and legacy compared.',
+    category: 'thrash',
+    drummers: ['dave-lombardo', 'nicko-mcbrain'],
+    comparison: {
+      style: 'Dave Lombardo joined Slayer as its original drummer and pioneered the relentless double bass drumming that defined thrash metal on landmark albums like "Reign in Blood." Nicko McBrain joined Iron Maiden in 1982, replacing Clive Burr, and built the band\'s galloping heavy metal foundation entirely around a single bass drum pedal, powering classics like "The Number of the Beast" and "Powerslave."',
+      technique: 'Lombardo revolutionized thrash with surgical double bass speed and precision timing, later pushing into jazz-informed polyrhythms with Fantômas and Dead Cross. McBrain achieves Iron Maiden\'s iconic galloping rhythms using only a single bass drum, relying on a jazz-influenced approach to fills, dynamics, and endurance rather than double kick firepower.',
+      gear: 'Lombardo plays a Pearl Masters Maple Complete kit with his signature Pearl Dave Lombardo 14x5.5" snare and Paiste RUDE & 2002 cymbals, driven by a Pearl Demon Drive double pedal. McBrain plays his signature Sonor SQ2 Nicko McBrain kit with a Sonor Artist Series 14x5.5" snare and Paiste cymbals, powered by a single DW 5000 pedal rather than a double.',
+      influence: 'Lombardo defined extreme thrash drumming and directly influenced the double bass vocabulary used across death and black metal. McBrain has anchored Iron Maiden through its most commercially successful decades, proving that single-pedal groove and stamina can carry some of heavy metal\'s biggest stadium anthems.',
+    },
+    verdict: 'Dave Lombardo and Nicko McBrain are both godfather figures whose eras defined heavy metal drumming from opposite ends of the tempo spectrum. Lombardo\'s double bass assault gave thrash and extreme metal their blueprint for speed, while McBrain\'s single-pedal gallop proved that foundational groove and endurance could power arena-filling NWOBHM anthems for over four decades. Together they represent the two pillars heavy metal drumming was built on.',
+  },
+
+  'danny-carey-vs-gene-hoglan': {
+    slug: 'danny-carey-vs-gene-hoglan',
+    title: 'Danny Carey vs Gene Hoglan',
+    metaTitle: 'Danny Carey vs Gene Hoglan — Prog Polyrhythms vs Atomic Clock Precision | MetalForge',
+    metaDescription: 'Tool\'s Danny Carey vs "The Atomic Clock" Gene Hoglan. Progressive metal polyrhythmic mastery compared to extreme metal metronomic precision. Gear, technique, and legacy compared.',
+    category: 'progressive',
+    drummers: ['danny-carey', 'gene-hoglan'],
+    comparison: {
+      style: 'Danny Carey has driven Tool\'s sound since the band\'s 1990 formation, blending complex polyrhythmic patterns with jazz, world music, and progressive rock influences across albums like "Lateralus" and "Fear Inoculum." Gene Hoglan, nicknamed "The Atomic Clock" for his metronomic precision, has powered Death, Dark Angel, Testament, Strapping Young Lad, and Dethklok across a career spanning death metal, thrash, and progressive extremes.',
+      technique: 'Carey layers unusual time signatures and intricate subdivisions with electronic percussion, using his towering Sonor kit to explore textures far beyond standard rock drumming. Hoglan is famed for holding extreme tempos without a click track, delivering blast beats and complex fills with an internal precision that earned him his nickname.',
+      gear: 'Carey plays a Sonor SQ2 Heavy Beech kit with his signature Sonor Danny Carey 14x8" Bronze snare and Paiste Signature Series cymbals, driven by a Sonor Giant Step Twin Effect double pedal and Mandala electronic pads. Hoglan plays a Tama Starclassic Walnut/Birch kit with his signature Tama Gene Hoglan 14x8" snare and Zildjian A Custom cymbals, powered by a Tama Speed Cobra 910 double pedal.',
+      influence: 'Carey is widely regarded as one of the greatest drummers in rock and metal history, voted a top drummer by Modern Drummer readers and celebrated for expanding the boundaries of what progressive rock drumming can sound like. Hoglan is one of the most respected drummers in extreme metal, influencing generations of death and thrash drummers through his work across multiple genre-defining bands.',
+    },
+    verdict: 'Danny Carey and Gene Hoglan are both considered the technical gold standard in their respective lanes. Carey channels his polyrhythmic complexity into Tool\'s meditative, textured progressive rock, taking time and space to build tension across sprawling arrangements. Hoglan channels his metronomic precision into relentless extreme metal intensity, holding blistering tempos without ever losing the pocket. Both are the drummer other drummers point to when the conversation turns to technical mastery.',
+  },
+
+  'tomas-haake-vs-mike-portnoy': {
+    slug: 'tomas-haake-vs-mike-portnoy',
+    title: 'Tomas Haake vs Mike Portnoy',
+    metaTitle: 'Tomas Haake vs Mike Portnoy — Djent Polymeter vs Classic Prog Songwriting | MetalForge',
+    metaDescription: 'Meshuggah\'s Tomas Haake vs Dream Theater\'s Mike Portnoy. Djent polymetric groove compared to classic progressive metal technical songwriting. Gear, technique, and legacy compared.',
+    category: 'progressive',
+    drummers: ['tomas-haake', 'mike-portnoy'],
+    comparison: {
+      style: 'Tomas Haake has driven Meshuggah\'s polyrhythmic assault since the early 1990s, pioneering the djent movement with complex time signatures and machine-like patterns that reshaped extreme progressive metal. Mike Portnoy co-founded Dream Theater in 1985 and spent 25 years defining an older school of progressive metal built on intricate arrangements, theatrical dynamics, and virtuosic songwriting.',
+      technique: 'Haake\'s playing is built around polymetric grooves — overlapping rhythmic cycles that create a hypnotic, mathematically precise wall of sound, executed with metronomic consistency across marathon Meshuggah sets. Portnoy favors rapid-fire transitions between odd time signatures within traditionally structured songs, blending jazz-fusion technique with heavy metal power and theatrical live flair.',
+      gear: 'Haake plays a Sonor SQ2 Heavy Beech kit with his signature Sonor Tomas Haake 14x6.25" snare and Meinl Byzance Dark cymbals, driven by a Sonor Giant Step double pedal. Portnoy plays a Tama Starclassic Maple/Birch kit with his signature Tama Mike Portnoy Melody Master 14x5.5" snare and Sabian HHX cymbals, powered by a Tama Iron Cobra Power Glide double pedal.',
+      influence: 'Haake is widely credited as one of the founding architects of the djent subgenre, with his polyrhythmic approach influencing a generation of modern progressive and metalcore drummers. Portnoy is a 30-time Modern Drummer "Drummer of the Year" recipient whose work across Dream Theater, Liquid Tension Experiment, and numerous side projects made him progressive metal\'s most decorated drummer.',
+    },
+    verdict: 'Tomas Haake and Mike Portnoy represent two distinct eras and philosophies within progressive metal drumming. Haake\'s hypnotic, polymetric grooves with Meshuggah spawned an entire modern subgenre built on rhythmic repetition and mathematical precision. Portnoy\'s theatrical, technically dense songwriting with Dream Theater carried the torch of 1970s progressive rock into modern metal. Both are foundational figures — Haake for djent\'s rhythmic architecture, Portnoy for classic prog-metal musicianship.',
+  },
 };
 
 /**

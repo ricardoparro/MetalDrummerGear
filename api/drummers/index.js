@@ -3351,6 +3351,128 @@ const drummers = [
       { name: 'Remo Drumheads', url: 'https://remo.com' }
     ],
     videos: []
+  },
+  {
+    id: 63,
+    name: 'Paul Bostaph',
+    band: 'Slayer',
+    bands: [
+      { name: 'Slayer', period: '1992–2001, 2013–2019', current: false },
+      { name: 'Testament', period: '1999–2001, 2024–present', current: true },
+      { name: 'Exodus', period: '2005–2007', current: false },
+      { name: 'Forbidden', period: '1987–1989', current: false }
+    ],
+    genre: 'Thrash Metal',
+    country: 'USA',
+    image: '/images/drummers/paul-bostaph.webp',
+    bio: 'Paul Bostaph (born March 4, 1964, in San Francisco, California) is an American drummer and Slayer\'s longest-serving drummer, holding the drum chair from 1992 to 2001 and again from 2013 until the band\'s farewell tour ended in 2019. Before Slayer he cut his teeth in the Bay Area thrash scene with Forbidden, and he has also recorded and toured with Testament and Exodus.',
+    kitOverview: 'Paul Bostaph\'s setup during Slayer\'s final chapter centered on a Pearl Masters Maple Complete shell pack — an all-maple, double-bass configuration producer Terry Date brought in for 2015\'s Repentless, the band\'s twelfth and final studio album and the first without guitarist Jeff Hanneman. The Paul Bostaph drum set anchors on a 14x6.5" Pearl Masters steel snare tuned for a sharp, cutting crack that projects through Kerry King and Gary Holt\'s dense guitar work, driven by a Pearl Eliminator double pedal built for the machine-like consistency Bostaph brought to Slayer\'s catalog across two separate tenures.\n\nSabian\'s AAX Series cymbals rounded out the Repentless-era rig — one of only two points in Bostaph\'s career where his cymbal choice broke from the Paiste cymbals he otherwise favored: 14" AAX Stage Hi-Hats, 17" and 19" AAX X-Plosion Crashes, a 21" AAX Stage Ride, and an 18" AAXtreme China for aggressive punctuation. Bostaph carried this Pearl/Sabian configuration through Slayer\'s Final World Tour, including the band\'s last-ever show at the Forum in Los Angeles on November 30, 2019.\n\nEarlier eras document a gear journey through nearly every major drum brand: a Tama Artstar II and Paiste RUDE cymbals on his Slayer debut Divine Intervention (1994); a DW Collector\'s Series Maple kit and Zildjian A Custom cymbals on Diabolus in Musica (1998); and a Tama Starclassic Maple kit with Paiste 2002 cymbals on God Hates Us All (2001), recorded during his stints with Forbidden, Testament, and Exodus. Vater Power 5B sticks and Remo heads have remained constants across every configuration, chosen for the durability his relentless double-bass attack demands.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Paul_Bostaph',
+      'https://www.discogs.com/artist/261437-Paul-Bostaph'
+    ],
+    gear: {
+      drums: 'Pearl Masters Maple Complete (MCX)',
+      snare: 'Pearl Masters Steel 14x6.5"',
+      cymbals: 'Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China)',
+      hardware: 'Pearl Eliminator Double Pedal',
+      sticks: 'Vater Power 5B',
+      heads: 'Remo Powerstroke 3 / Emperor Coated / Ambassador',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Paul_Bostaph']
+    },
+    photos: [
+      '/images/drummers/paul-bostaph.webp'
+    ],
+    endorsements: [
+      { name: 'Pearl Drums', url: 'https://pearldrum.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vater Drumsticks', url: 'https://www.vater.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Slayer - Disciple (Drum Cam, Paso Robles)', youtubeId: 'mOy3H1kRcQI', year: 2017 },
+      { title: 'Slayer - Dittohead (Drum Cam, Final World Tour)', youtubeId: 'jczYWKej2Dw', year: 2018 }
+    ]
+  },
+  {
+    id: 64,
+    name: 'Sean Reinert',
+    band: 'Death / Cynic',
+    bands: [
+      { name: 'Cynic', period: '1987–1994, 2006–2015', current: false },
+      { name: 'Death', period: '1989–1991', current: false }
+    ],
+    genre: 'Progressive Death Metal / Technical Death Metal',
+    country: 'USA',
+    image: '/images/drummers/sean-reinert.webp',
+    bio: 'Sean Reinert (May 27, 1971 – January 24, 2020) was an American drummer who co-founded progressive death metal band Cynic in 1987 and recorded Death\'s genre-defining Human (1991) before returning full-time to Cynic for Focus (1993). His jazz-informed, polyrhythmic style is widely credited with pioneering progressive death metal drumming.',
+    kitOverview: 'Sean Reinert\'s defining setup was the Tama Artstar II birch shell kit he played on Death\'s Human (1991) — the album, recorded at Morrisound with producer Scott Burns when Reinert was just 20, that introduced jazz vocabulary and polyrhythmic complexity to death metal drumming. The Sean Reinert drum set centered on a single 22x16" bass drum with a DW 5000 double pedal rather than the twin-kick setups favored by his death metal peers, paired with a 14x5.5" Tama birch snare tuned medium-high for the ghost-note sensitivity his playing required.\n\nZildjian\'s A/K Series cymbals defined Reinert\'s sound: 14" A Quick Beat Hi-Hats, 16" and 18" A Crashes, a 16" China, a 10" A Splash, and — central to his revolutionary approach — a 20" K Custom Dry Ride that he actually rode with sustained jazz-fusion patterns, unprecedented in death metal at the time. Vic Firth American Classic 5A sticks, a medium-weight model atypical for metal drummers of the era, gave Reinert the fast rebound and dynamic control his jazz-informed vocabulary demanded, a setup he carried into Cynic\'s Focus (1993), the landmark album he co-founded with Paul Masvidal.\n\nAfter Cynic reunited in 2006, Reinert upgraded to a DW Collector\'s Series maple shell pack and darker, more complex Zildjian K Custom cymbals for Traced in Air (2008), suited to the album\'s atmospheric, self-produced sound. Sean Reinert passed away on January 24, 2020, one day after his 49th birthday, leaving behind a drumming legacy that proved death metal could swing.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Sean_Reinert',
+      'https://www.discogs.com/artist/482614-Sean-Reinert'
+    ],
+    gear: {
+      drums: 'Tama Artstar II',
+      snare: 'Tama Artstar II Birch 14x5.5"',
+      cymbals: 'Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash)',
+      hardware: 'DW 5000 Double Pedal',
+      sticks: 'Vic Firth American Classic 5A',
+      heads: 'Remo Powerstroke 3 / Ambassador',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Sean_Reinert']
+    },
+    photos: [
+      '/images/drummers/sean-reinert.webp'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Sean Reinert\'s Drum Cam: Last Live with Cynic Playing "Veil of Maya"', youtubeId: 'WimJPwLdGls', year: 2015 }
+    ]
+  },
+  {
+    id: 65,
+    name: 'Nick Menza',
+    band: 'Megadeth',
+    bands: [
+      { name: 'Megadeth', period: '1989–1998, 2004', current: false }
+    ],
+    genre: 'Thrash Metal',
+    country: 'USA',
+    image: '/images/drummers/nick-menza.webp',
+    bio: 'Nick Menza (July 23, 1964 – May 21, 2016) was an American drummer best known as Megadeth\'s drummer from 1989 to 1998, appearing on Rust in Peace (1990), Countdown to Extinction (1992), Youthanasia (1994), and Cryptic Writings (1997). He briefly rejoined the band in 2004, and he died after collapsing on stage during a 2016 performance with jazz-fusion band OHM.',
+    kitOverview: 'Nick Menza\'s Rust in Peace-era setup was built around a Tama Swingstar — a mid-range, poplar-shell kit that proved raw speed and precision mattered more than gear prestige on Megadeth\'s 1990 thrash masterpiece. The Nick Menza drum set centered on a 14x5.5" Tama steel snare for extra brightness and crack against Megadeth\'s dense guitar arrangements, driven by a DW 5000 double pedal that carried the machine-gun double-kick on "Holy Wars... The Punishment Due" and "Tornado of Souls."\n\nZildjian A Series cymbals rounded out the kit — 14" A Hi-Hats, 16" and 18" A Crashes, and a 20" A Ride — a standard, versatile setup that delivered the balanced attack Rust in Peace\'s technical passages required. Vic Firth American Classic 5B sticks and Remo Ambassador heads, with a Powerstroke 3 kick batter for focused low end, completed the rig Menza used from his 1989 arrival through Countdown to Extinction (1992), when he upgraded to a Tama Artstar kit.\n\nMenza\'s gear evolved further into a Premier Signia endorsement beginning with Youthanasia (1994) and continuing through Cryptic Writings (1997), before his 1998 departure and brief 2004 return to Megadeth. He died on May 21, 2016, collapsing on stage during a performance with jazz-fusion band OHM — a dramatic end to a career that helped define thrash metal drumming.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Nick_Menza',
+      'https://www.discogs.com/artist/410708-Nick-Menza'
+    ],
+    gear: {
+      drums: 'Tama Swingstar',
+      snare: 'Tama Steel Snare 14x5.5"',
+      cymbals: 'Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride)',
+      hardware: 'DW 5000 Double Pedal',
+      sticks: 'Vic Firth American Classic 5B',
+      heads: 'Remo Ambassador / Powerstroke 3',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Nick_Menza']
+    },
+    photos: [
+      '/images/drummers/nick-menza.webp'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Nick Menza Drum Cam - Megadeth - The Conjuring (Live at NEC Centre, Birmingham UK, 1990)', youtubeId: '_lShTMrFVco', year: 1990 }
+    ]
   }
 ];
 

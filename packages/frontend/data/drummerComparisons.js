@@ -160,6 +160,23 @@ export const drummerComparisons = {
     verdict: 'Brann Dailor and Mario Duplantier represent two paths of modern progressive metal drumming. Both push boundaries while maintaining musical identity.',
   },
 
+  // Mastodon vs Between the Buried and Me
+  'brann-dailor-vs-blake-richardson': {
+    slug: 'brann-dailor-vs-blake-richardson',
+    title: 'Brann Dailor vs Blake Richardson',
+    metaTitle: 'Brann Dailor vs Blake Richardson - Progressive Sludge vs Technical Prog Metal | MetalForge',
+    metaDescription: 'Mastodon\'s Brann Dailor vs Between the Buried and Me\'s Blake Richardson. Jazzy sludge fills vs death-metal-precise progressive chaos, gear, and influence compared.',
+    category: 'progressive',
+    drummers: ['brann-dailor', 'blake-richardson'],
+    comparison: {
+      style: 'Brann Dailor drives Mastodon\'s progressive sludge with a melodic, almost lead-instrument approach — jazz-influenced fills and constant rhythmic motion that treat the kit as a singing voice rather than a metronome. Blake Richardson powers Between the Buried and Me\'s genre-hopping chaos, fusing death metal blast beats, odd time signatures, and jazz sophistication within songs that can shift styles multiple times per minute.',
+      technique: 'Dailor\'s technique favors flowing, syncopated fills that weave in and out of Mastodon\'s riffs, plus double-duty as lead vocalist while maintaining complex patterns. Richardson navigates BTBAM\'s rapid tempo and meter changes with explosive blast beat transitions, ghost-note-rich grooves, and twin single-pedal independence that keeps the double kick locked to shifting time signatures.',
+      gear: 'Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple snare and Meinl Byzance cymbals, driven by a Tama Speed Cobra double pedal for fluid double bass under Mastodon\'s polyrhythmic riffing. Richardson plays a Tama Starclassic Bubinga kit with a Tama STARPHONIC brass snare and Sabian HHX/AAX cymbals, powered by twin Tama Iron Cobra Power Glide single pedals for independent double-kick patterns.',
+      influence: 'Dailor helped define the progressive sludge sound and proved a metal drummer could also front a band as co-vocalist, influencing a generation of prog-sludge acts. Richardson has been BTBAM\'s sole drummer since 2005, shaping how progressive metalcore drummers treat odd time signatures and blast beats as natural vocabulary rather than technical showcases.',
+    },
+    verdict: 'Brann Dailor and Blake Richardson are two of modern progressive metal\'s defining rhythmic voices, built for very different bands. Dailor\'s melodic, flowing fills give Mastodon\'s sludge-driven riffs a songful lift, while Richardson\'s precise, blast-capable chaos gives Between the Buried and Me\'s genre-hopping compositions their whiplash intensity. Both are essential listening for drummers studying how technical skill can serve wildly different musical identities.',
+  },
+
   // Thrash vs Thrash: Sepultura Roots vs Pantera Groove
   'igor-cavalera-vs-vinnie-paul': {
     slug: 'igor-cavalera-vs-vinnie-paul',

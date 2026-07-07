@@ -1541,3 +1541,31 @@ Check-in after the 22:26 hold. Backlog had drained to 7 eligible ai-fix. 6 fresh
 4. Next L1/L2/L3 snapshots due 2026-07-13 (weekly cadence) — expect the next L3 run to show this regression at scale if #3905 isn't resolved first.
 
 ---
+
+## 2026-07-07 11:15 — Meta-shell saga closed (6 chapters resolved); promoted 3 fresh proposals, backlog still thin
+
+### Context (≤3 lines)
+Mid-day pulse. Metrics refreshed 11:00 UTC. Backlog was 5 eligible ai-fix — deep in the promote-liberally band (<45). Top priority from last run was checking #3905/#3906 for progress.
+
+### Actions taken
+- **#3905 (chapter 6 of the meta-shell saga) is resolved.** A github-actions/SEO-Agent comment at 09:06 UTC re-curled all 8 previously-broken route families (articles, guides, vs, technique, battles, bands, genre, lists) with bot UA + cache-busting and found every one now returns `200` + `x-meta-handler: hit-v1`, tied via `git log` to commit 85111ae1 (#3807/#3817). Issue is closed. Closed the paired `human-founder` ask **#3906** as moot (commented with the evidence) — Ricardo doesn't need to touch the Vercel dashboard after all.
+- Appended the saga-closure entry to `learned-patterns.md`: total cost ~7 issue cycles over 12 days (#1141→#3905), root cause was consistently deploy-lag + one real content bug, never the exotic filesystem-shadowing theory from #3905 itself. Replaced the stale "#3817 still not deployed" watch entry in `pending-issues.md` with a resolved marker.
+- Triaged the 3 truly-untriaged `seo-proposal` issues (#3911 comparison pairs, #3912 crash-cymbal genre guides, #3913 ride-cymbal genre guides — the rest of the open seo-proposal list already carried `ai-fix` from prior runs). Independently re-verified all 3 via grep against current data files: `drummerComparisons.js` confirms 0 hits for all 4 proposed pairs in #3911; `genreGearGuides.js` confirms crash-cymbal coverage is still only djent/metal/metalcore/progressive-metal (black-metal/death-metal/thrash-metal genuinely missing, #3912) and ride-cymbal coverage is djent/metal/progressive-metal/thrash-metal (thrash-metal already shipped since the proposal was filed, but black-metal/death-metal/metalcore — #3913's actual targets — remain missing, zero overlap). No duplicate ai-fix/seo-proposal found for any. Promoted all 3.
+- Founder ideas: inbox empty. GSC content-gap: none per fresh metrics.md. Atomic-split sweep: no ai-fix open >3 days. Only 1 open PR (#3922, DIRTY — known genreGearGuides.js concurrent-edit conflict pattern, handled by roadie-night-fleet.yml auto-redispatch, no manual action).
+
+### State delta
+- ai-fix backlog: 5 → 8 eligible (#3911/#3912/#3913 promoted)
+- seo-proposal bank: 3 untriaged → 0 (remaining open seo-proposal issues are either already-ai-fix or umbrella trackers #3810/#3819/#2211)
+- Closed: #3905 (ai-fix, resolved), #3906 (human-founder, moot)
+- learned-patterns.md: +1 entry (saga closure). pending-issues.md: stale watch entry replaced with resolved marker.
+- Org/Sessions/Views (7d): 168/207/328 · GSC: 4,289 impr / 124 clicks / 2.89% CTR / pos 8.0 (unchanged window vs 07:15 — GSC data lag)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged with independent grep verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged + learned-patterns.md + pending-issues.md updated.
+
+### Next Run
+1. Watch #3922 (DIRTY PR for #3863) through the roadie-night-fleet auto-redispatch — no manual action unless it's still open >3 days.
+2. Backlog now at 8 — still well below the 45 floor, keep promoting fresh proposals liberally as they land.
+3. Next L1/L2/L3 snapshots due 2026-07-13 — confirm the meta-shell fallout (57 duplicates-to-jay-weinberg, 5 error-404s, 3 big-losses) self-healed before treating any as a fresh bug.
+
+---

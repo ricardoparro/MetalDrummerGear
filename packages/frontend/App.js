@@ -13659,6 +13659,14 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
     return getDrummersByGenre(genreSlug, drummers);
   }, [genreSlug, drummers, genre]);
 
+  // Gear guides for this genre (Issue #3956: give guide pages an internal-link surface).
+  // genreGearGuides.js uses "<genre>-metal" keys (e.g. "death-metal") while genres.js uses
+  // the shorter page slug (e.g. "death"), so match either form.
+  const genreGearGuides = useMemo(() => {
+    const candidateKeys = new Set([genreSlug, `${genreSlug}-metal`]);
+    return Object.values(GENRE_GEAR_GUIDES).filter(g => candidateKeys.has(g.genre));
+  }, [genreSlug]);
+
   // Update SEO meta tags for genre page with complete OG tags (Issue #672)
   useEffect(() => {
     if (Platform.OS === 'web' && typeof document !== 'undefined' && genre) {
@@ -13949,6 +13957,71 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
                   <Text style={{ color: theme.accent, fontSize: 18 }}>→</Text>
                 </TouchableOpacity>
               ))}
+            </View>
+          </View>
+        )}
+
+        {/* Gear Guides for this Genre (Issue #3956) */}
+        {genreGearGuides.length > 0 && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>
+              Gear Guides for {genre.name}
+            </Text>
+            <View style={styles.gappedLayout1}>
+              {genreGearGuides.map((guideEntry) => {
+                const guideUrl = `/guides/${guideEntry.slug}`;
+                const handleGuidePress = () => {
+                  if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                    window.history.pushState({}, '', guideUrl);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                };
+                const guideRowStyle = [{
+                  backgroundColor: theme.background,
+                  borderColor: theme.border,
+                  borderWidth: 1,
+                  borderRadius: 8,
+                  padding: 12,
+                  flexDirection: 'row',
+                  alignItems: 'center',
+                }];
+
+                return Platform.OS === 'web' ? (
+                  <a
+                    key={guideEntry.slug}
+                    href={guideUrl}
+                    onClick={(e) => {
+                      e.preventDefault();
+                      handleGuidePress();
+                    }}
+                    style={{ textDecoration: 'none', display: 'block', marginBottom: 8 }}
+                  >
+                    <View style={guideRowStyle}>
+                      <View style={styles.flexOne1}>
+                        <Text style={[styles.drummerName, { color: theme.text, fontSize: 16 }]}>
+                          {guideEntry.title}
+                        </Text>
+                      </View>
+                      <Text style={{ color: theme.accent, fontSize: 18 }}>→</Text>
+                    </View>
+                  </a>
+                ) : (
+                  <TouchableOpacity
+                    key={guideEntry.slug}
+                    style={[...guideRowStyle, { marginBottom: 8 }]}
+                    onPress={handleGuidePress}
+                    accessibilityRole="link"
+                    accessibilityLabel={`Read ${guideEntry.title}`}
+                  >
+                    <View style={styles.flexOne1}>
+                      <Text style={[styles.drummerName, { color: theme.text, fontSize: 16 }]}>
+                        {guideEntry.title}
+                      </Text>
+                    </View>
+                    <Text style={{ color: theme.accent, fontSize: 18 }}>→</Text>
+                  </TouchableOpacity>
+                );
+              })}
             </View>
           </View>
         )}

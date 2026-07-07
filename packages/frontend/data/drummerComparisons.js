@@ -3471,6 +3471,70 @@ export const drummerComparisons = {
     },
     verdict: 'Ben Koller and Dirk Verbeuren represent two entirely different approaches to technical extreme drumming. Koller channels chaos and raw physicality into Converge\'s unpredictable mathcore assault, where the danger is the point. Verbeuren channels mathematical, European-honed precision into Megadeth\'s thrash arrangements, where seamless technical execution is the point. Both are among the most respected drummers in heavy music\'s more extreme corners — one built on controlled chaos, the other on surgical control.',
   },
+
+  'jaska-raatikainen-vs-bill-ward': {
+    slug: 'jaska-raatikainen-vs-bill-ward',
+    title: 'Jaska Raatikainen vs Bill Ward',
+    metaTitle: 'Jaska Raatikainen vs Bill Ward — Melodic Death Precision vs Metal\'s Jazz-Swing Blueprint | MetalForge',
+    metaDescription: 'Children of Bodom\'s Jaska Raatikainen vs Black Sabbath\'s Bill Ward. Finnish melodic death metal blast-beat precision compared to the jazz-swing foundation of heavy metal itself. Gear, technique, and legacy compared.',
+    category: 'extreme',
+    drummers: ['jaska-raatikainen', 'bill-ward'],
+    comparison: {
+      style: 'Jaska Raatikainen co-founded Children of Bodom in 1993 and spent 26 years driving the Finnish band\'s signature blend of neoclassical melodies and melodic death metal, anchoring dense keyboard-and-guitar arrangements from "Something Wild" (1997) through the band\'s 2019 farewell. Bill Ward co-founded Black Sabbath in 1968 and, drawing on jazz heroes Gene Krupa and Buddy Rich, built an open, swinging feel that became the rhythmic template for heavy metal itself on "Black Sabbath" (1970) and "Paranoid" (1970).',
+      technique: 'Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom\'s dense arrangements anchored with surgical consistency at extreme tempos. Ward\'s loose grip and behind-the-beat phrasing gave early Sabbath riffs a rolling, jazz-informed swing that no other rock drummer of the era was playing, relying entirely on single-pedal technique with no double bass at all.',
+      gear: 'Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals, including a massive 24" 2002 Ride, driven by a single pedal.',
+      influence: 'Raatikainen gave Finnish melodic death metal its rhythmic identity, helping Children of Bodom become one of the genre\'s most globally successful acts and influencing a generation of Scandinavian metal drummers. Ward is widely credited as one of the true originators of heavy metal drumming — every extreme metal drummer who followed, including Raatikainen, built on the rhythmic vocabulary he created with Sabbath.',
+    },
+    verdict: 'Jaska Raatikainen and Bill Ward sit at opposite ends of heavy metal drumming\'s five-decade evolution. Ward invented the jazz-swung, single-pedal foundation of heavy metal drumming in 1968, prioritizing feel and space over speed. Raatikainen took that lineage to its technical extreme, driving Children of Bodom\'s blast-beat-and-double-bass melodic death metal with surgical precision for 26 years. Both remain foundational voices in their eras — one wrote metal drumming\'s first chapter, the other pushed it toward its most demanding modern form.',
+  },
+
+  'john-otto-vs-ben-koller': {
+    slug: 'john-otto-vs-ben-koller',
+    title: 'John Otto vs Ben Koller',
+    metaTitle: 'John Otto vs Ben Koller — Nu-Metal Groove vs Mathcore Chaos | MetalForge',
+    metaDescription: 'Limp Bizkit\'s John Otto vs Converge\'s Ben Koller. Hip-hop-infused nu-metal precision compared to mathcore\'s unpredictable intensity. Gear, technique, and legacy analyzed.',
+    category: 'other',
+    drummers: ['john-otto', 'ben-koller'],
+    comparison: {
+      style: 'John Otto has been Limp Bizkit\'s drummer and founding member since 1994, blending hip-hop-influenced grooves and funk-inspired beats that helped define the rap-metal sound on hits like "Rollin\'" and "Break Stuff." Ben Koller joined Converge in late 1999 and became central to the band\'s mathcore evolution, bringing a chaotic, improvisational intensity to landmark records including "Jane Doe" (2001) and "The Dusk in Us" (2017).',
+      technique: 'Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit\'s grooves their distinctive pocket. Koller favors a loose, explosive attack built for maximum unpredictability, thriving on Converge\'s sudden tempo shifts and dynamic swings with gut-level feel over rehearsed precision.',
+      gear: 'Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals. Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, powered by a Tama Iron Cobra 900 double pedal.',
+      influence: 'Otto\'s jazz-meets-hip-hop grooves gave Limp Bizkit\'s sound instant recognizability, helping drive one of the best-selling records of the nu-metal era in "Chocolate Starfish and the Hot Dog Flavored Water." Koller is widely regarded as one of the most respected drummers in extreme and hardcore music, with Converge\'s "Jane Doe" routinely cited as a genre-defining mathcore record.',
+    },
+    verdict: 'John Otto and Ben Koller show just how differently groove and chaos can define heavy music drumming. Otto\'s hip-hop-informed pocket made Limp Bizkit\'s rap-metal commercially unstoppable through disciplined, song-serving restraint. Koller\'s raw, unpredictable mathcore assault with Converge thrives precisely because it feels like it could fly apart at any second. Both are foundational to their respective scenes — Otto as nu-metal\'s groove architect, Koller as hardcore-adjacent extreme music\'s most respected chaos agent.',
+  },
+
+  'eloy-casagrande-vs-shannon-larkin': {
+    slug: 'eloy-casagrande-vs-shannon-larkin',
+    title: 'Eloy Casagrande vs Shannon Larkin',
+    metaTitle: 'Eloy Casagrande vs Shannon Larkin — Modern Technical Power vs Classic Hard Rock Groove | MetalForge',
+    metaDescription: 'Slipknot/Sepultura\'s Eloy Casagrande vs Godsmack\'s Shannon Larkin. Modern Brazilian technical extreme-metal drumming compared to hard-hitting hard rock/groove-metal power. Gear, technique, and legacy analyzed.',
+    category: 'extreme',
+    drummers: ['eloy-casagrande', 'shannon-larkin'],
+    comparison: {
+      style: 'Eloy Casagrande spent 13 years driving Sepultura\'s thrash-death fusion before joining Slipknot in 2024, earning Modern Drummer\'s No. 1 Metal Drummer honor in their 2024 Readers\' Poll for his explosive speed and dynamic control. Shannon Larkin has anchored Godsmack since 2002 with a powerful, groove-oriented style built for the band\'s heavy, riff-driven hard rock, hitting hard while keeping tracks like "I Stand Alone" and "Awake" locked into an accessible pocket.',
+      technique: 'Casagrande combines dual-bass-drum power with controlled musicality, balancing explosive double bass runs with dynamic sensitivity across both Sepultura\'s and Slipknot\'s demanding live sets. Larkin favors hard-hitting, straightforward power over technical flash, prioritizing feel and impact — the same approach that let him briefly fill in for Black Sabbath\'s touring lineup for one show in 1997.',
+      gear: 'Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x5.5" snare and an extensive Paiste array including Masters Dark and 2002 cymbals, driven by a Tama Iron Cobra double pedal. Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a DW 9000 Series double pedal.',
+      influence: 'Casagrande\'s technical prowess and dual stints in two of metal\'s biggest bands have made him one of the most decorated modern metal drummers, voted the genre\'s best by Modern Drummer readers. Larkin became Godsmack\'s longest-serving drummer, giving the band\'s multi-platinum hard rock sound its consistent heavy backbone across two decades.',
+    },
+    verdict: 'Eloy Casagrande and Shannon Larkin represent two generations of hard-hitting metal drumming built on very different foundations. Casagrande\'s Modern Drummer-crowned technical intensity carried Sepultura and now Slipknot through their heaviest, most demanding material. Larkin\'s straightforward, song-serving power turned Godsmack into one of hard rock\'s most consistent multi-platinum acts. Both prove that impact matters more than flash, whether it comes from dual-bass-drum virtuosity or a rock-solid, hard-hitting pocket.',
+  },
+
+  'matt-greiner-vs-mario-duplantier': {
+    slug: 'matt-greiner-vs-mario-duplantier',
+    title: 'Matt Greiner vs Mario Duplantier',
+    metaTitle: 'Matt Greiner vs Mario Duplantier — Metalcore Precision vs Progressive Death Metal Polyrhythm | MetalForge',
+    metaDescription: 'August Burns Red\'s Matt Greiner vs Gojira\'s Mario Duplantier. Grammy-nominated metalcore technicality compared to tribal progressive death-metal polyrhythm. Gear, technique, and legacy analyzed.',
+    category: 'progressive',
+    drummers: ['matt-greiner', 'mario-duplantier'],
+    comparison: {
+      style: 'Matt Greiner co-founded August Burns Red in 2003 and has driven the band\'s Grammy-nominated metalcore for over two decades, combining jazz-influenced dynamics with blazing double bass across albums like "Messengers" and "Phantom Anthem." Mario Duplantier co-founded Gojira with his brother Joe in 1996, building a tribal, progressive death metal style that combines crushing double bass with complex rhythmic structures across albums like "From Mars to Sirius" and "Magma."',
+      technique: 'Greiner weaves odd time signatures seamlessly into song structures rather than showcasing them as a display, incorporating creative stacked-cymbal work and rapid-fire double bass into metalcore\'s heavy foundation. Duplantier forgoes a double pedal in favor of dual bass drums for a more organic feel, layering tribal, almost ritualistic polyrhythms beneath Gojira\'s environmentally-themed death metal.',
+      gear: 'Greiner plays a Greiner & Kilmer Custom kit, co-designed with his own drum company, with a matching 14x6.5" Maple snare and Meinl Byzance Series cymbals, driven by a DW 9000 Series double pedal. Duplantier plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and a Tama S.L.P. 14x6.5" G-Maple snare, paired with a sprawling Zildjian cymbal array including a 21" Z Custom Mega Bell Ride.',
+      influence: 'Greiner earned two Grammy nominations for Best Metal Performance with August Burns Red and co-founded the Greiner & Kilmer drum company, influencing a generation of metalcore drummers through signature gear and worldwide clinics. Duplantier pioneered the "environmental metal" style that made Gojira one of the most critically acclaimed progressive death metal bands of the 21st century, earning multiple Grammy nominations.',
+    },
+    verdict: 'Matt Greiner and Mario Duplantier both push progressive songwriting into heavy music, but from different directions. Greiner turns odd-time complexity into meticulously arranged, radio-friendly metalcore with August Burns Red, folding technicality invisibly into song structure. Duplantier builds Gojira\'s progressive death metal around organic, dual-bass-drum polyrhythms and tribal intensity that feels ritualistic rather than rehearsed. Both are Grammy-nominated architects of technical songwriting in modern heavy music, proving polyrhythmic complexity can serve radically different sonic goals.',
+  },
 };
 
 /**

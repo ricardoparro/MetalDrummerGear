@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-07 21:29 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-07 22:23 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 181 |
 | Sessions | 221 |
-| Page views | 343 |
+| Page views | 344 |
 | Engagement rate | 61.99% |
 | Avg session (s) | 157 |
 
@@ -25,7 +25,7 @@
 | /drummer/ben-koller | 11 | 8 |
 | /articles/fastest-double-bass-drummers | 10 | 5 |
 | /drummer/matt-greiner | 9 | 8 |
-| /drummer/mikkey-dee | 7 | 6 |
+| /drummer/mikkey-dee | 8 | 6 |
 | /articles/none-so-vile-drum-setup | 6 | 4 |
 
 ### Traffic sources

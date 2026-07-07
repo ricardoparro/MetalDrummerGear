@@ -5,6 +5,14 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-07 05:18 UTC*
 
 ---
+## 2026-07-07 22:23 (state-confirm — anti-noise hold)
+- Backlog: 12 ai-fix · 0 PRs open (Ralph hasn't picked up #3980-3987 yet, promoted 40min ago) · proposals untriaged: 0 (only umbrellas #3810/#3819/#2211, all already reviewed 21:45)
+- Org / Sessions / Views (7d): 181 / 221 / 344 · GSC: 4,289 impr / 124 clicks / 2.89% CTR / pos 8.0 (unchanged window)
+- Blockers unchanged: #525 #526 #529 #875 (human-founder) — no re-spam
+- Actions: none — founder inbox empty, no GSC-gap rows, no atomic-split triggers (oldest ai-fix #3866 ~25h, single-deliverable)
+- Next check: watch for Ralph fleet to resume on the 12-deep backlog; L1/L2/L3 next due 2026-07-13
+
+---
 ## 2026-07-07 21:45 — Promoted 8 fresh genre-gear-guide proposals, backlog critically thin
 
 ### Context (≤3 lines)

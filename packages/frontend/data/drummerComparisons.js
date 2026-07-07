@@ -3624,6 +3624,95 @@ export const drummerComparisons = {
       { q: 'How long was Jaska Raatikainen the drummer for Children of Bodom?', a: 'Jaska Raatikainen was a founding member of Children of Bodom in 1993 and remained the band\'s drummer for 26 years, from the 1997 debut "Something Wild" through the band\'s farewell in 2019.' },
     ],
   },
+
+  // Issue #3901: SEO batch - drummer comparison pairs, top brand-recognition names
+  'lars-ulrich-vs-mike-portnoy': {
+    slug: 'lars-ulrich-vs-mike-portnoy',
+    title: 'Lars Ulrich vs Mike Portnoy',
+    metaTitle: 'Lars Ulrich vs Mike Portnoy — Thrash Metal Groove vs Progressive Metal Virtuosity | MetalForge',
+    metaDescription: 'Metallica\'s Lars Ulrich vs Dream Theater\'s Mike Portnoy. Riff-driven thrash feel compared to technical progressive metal virtuosity. Gear, technique, and legacy compared.',
+    category: 'progressive',
+    drummers: ['lars-ulrich', 'mike-portnoy'],
+    comparison: {
+      style: 'Lars Ulrich co-founded Metallica in 1981 and built his career on groove-oriented, riff-driven thrash, favoring feel and mid-tempo stomps over technical display across albums from "Kill \'Em All" (1983) through the era-defining "Black Album" (1991). Mike Portnoy co-founded Dream Theater in 1985 and spent 25 years as the band\'s drummer and lyricist, helping define progressive metal with complex arrangements, odd time signatures, and theatrical live performances.',
+      technique: 'Ulrich favors powerful, punchy patterns locked tightly to Metallica\'s riffs, prioritizing the song\'s groove over displays of speed or complexity. Portnoy combines jazz fusion influences with heavy metal power, weaving intricate double bass patterns, rapid-fire transitions, and creative use of electronics into Dream Theater\'s sprawling compositions.',
+      gear: 'Ulrich plays a Tama Starclassic Maple kit with a Tama LU1465 Signature 14x6.5" snare and Zildjian A Custom Series cymbals, driven by a Tama Iron Cobra 900 Power Glide double pedal. Portnoy plays a Tama Starclassic Maple/Birch kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals, powered by a Tama Iron Cobra Power Glide double pedal.',
+      influence: 'Ulrich shaped how millions of listeners perceive metal drumming through Metallica\'s commercial dominance, becoming one of the most recognizable drummers in rock history despite frequent criticism of his technical ability. Portnoy has won over 30 Drummer of the Year awards from Modern Drummer magazine and, after leaving Dream Theater in 2010 for projects including Avenged Sevenfold, Adrenaline Mob, and Sons of Apollo, rejoined the band for its 2023 reunion.',
+    },
+    verdict: 'Lars Ulrich and Mike Portnoy represent opposite ends of what "great metal drumming" can mean. Ulrich built the biggest metal band in history on feel, groove, and riff-serving simplicity, proving that a song\'s impact doesn\'t require technical complexity. Portnoy built his reputation on the exact opposite philosophy, stacking odd time signatures and virtuosic fills into Dream Theater\'s progressive metal architecture across 25 years. Both are among the most searched and debated drummers in metal, precisely because they sit at opposite poles of the genre\'s technical spectrum.',
+    faqs: [
+      { q: 'What is the difference between Lars Ulrich\'s and Mike Portnoy\'s drumming styles?', a: 'Lars Ulrich favors groove-oriented, riff-driven thrash with powerful, punchy patterns that serve Metallica\'s songs. Mike Portnoy favors technical, virtuosic progressive metal, weaving odd time signatures and intricate double bass patterns into Dream Theater\'s sprawling compositions.' },
+      { q: 'What gear does Lars Ulrich use vs Mike Portnoy?', a: 'Lars Ulrich plays a Tama Starclassic Maple kit with a Tama LU1465 Signature 14x6.5" snare and Zildjian A Custom Series cymbals. Mike Portnoy plays a Tama Starclassic Maple/Birch kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals.' },
+      { q: 'How many Modern Drummer awards has Mike Portnoy won?', a: 'Mike Portnoy has won over 30 Drummer of the Year awards from Modern Drummer magazine across his career with Dream Theater and numerous other progressive metal projects.' },
+      { q: 'Did Mike Portnoy rejoin Dream Theater?', a: 'Yes — after leaving Dream Theater in 2010 and recording with projects including Avenged Sevenfold, The Winery Dogs, and Sons of Apollo, Mike Portnoy rejoined Dream Theater in 2023 for the band\'s reunion tour.' },
+    ],
+  },
+
+  'dave-lombardo-vs-nicko-mcbrain': {
+    slug: 'dave-lombardo-vs-nicko-mcbrain',
+    title: 'Dave Lombardo vs Nicko McBrain',
+    metaTitle: 'Dave Lombardo vs Nicko McBrain — Thrash Double Bass Pioneer vs NWOBHM Galloping Groove | MetalForge',
+    metaDescription: 'Slayer\'s Dave Lombardo vs Iron Maiden\'s Nicko McBrain. Double bass thrash pioneering compared to classic NWOBHM galloping groove. Gear, technique, and legacy compared.',
+    category: 'thrash',
+    drummers: ['dave-lombardo', 'nicko-mcbrain'],
+    comparison: {
+      style: 'Dave Lombardo, born in Cuba in 1965, became Slayer\'s original drummer and pioneered the double bass drumming style that defined thrash metal, with his work on "Reign in Blood" (1986) considered one of the most groundbreaking metal drum performances ever recorded. Nicko McBrain has been Iron Maiden\'s drummer since 1982, defining the band\'s galloping NWOBHM sound across "Piece of Mind" (1983), "Powerslave" (1984), and "Somewhere in Time" (1986) with a distinctive combination of speed, precision, and musicality.',
+      technique: 'Lombardo revolutionized thrash drumming with relentless, high-speed double bass patterns and surgical timing, a technique that directly influenced the emergence of death metal. McBrain is known for intricate hi-hat work and a powerful single bass drum technique — notably refusing to use a double bass pedal and instead achieving remarkable speed and complexity with a single pedal.',
+      gear: 'Lombardo plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals, driven by a Tama Iron Cobra 900 double pedal. McBrain plays a Sonor SQ2 Series kit with a Sonor Nicko McBrain Signature 14x6.5" snare and Paiste 2002 & Signature Series cymbals, powered by a single bass drum pedal on Sonor 600 Series hardware.',
+      influence: 'Lombardo defined the Slayer sound that shaped virtually all of extreme metal drumming that followed, and has also played with Fantomas, Suicidal Tendencies, and Dead Cross. McBrain has anchored Iron Maiden\'s rhythm section for over four decades, shaping British heavy metal drumming and remaining one of the genre\'s most instantly recognizable stylists.',
+    },
+    verdict: 'Dave Lombardo and Nicko McBrain represent two foundational eras and philosophies of metal drumming. Lombardo pioneered the double bass speed and aggression that gave rise to thrash and death metal, redefining what a metal drummer\'s feet could do. McBrain proved that a single pedal, galloping hi-hat work, and rock-solid musicality could anchor one of metal\'s most enduring and technically demanding catalogs. Both are godfather figures whose influence spans generations of drummers across very different corners of heavy metal.',
+    faqs: [
+      { q: 'What is the difference between Dave Lombardo\'s and Nicko McBrain\'s drumming styles?', a: 'Dave Lombardo pioneered relentless, high-speed double bass drumming that defined thrash metal with Slayer. Nicko McBrain built Iron Maiden\'s galloping NWOBHM sound around intricate hi-hat work and a powerful single bass drum technique.' },
+      { q: 'What gear does Dave Lombardo use vs Nicko McBrain?', a: 'Dave Lombardo plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6.5" G-Maple snare and Paiste RUDE & 2002 Series cymbals. Nicko McBrain plays a Sonor SQ2 Series kit with a Sonor Nicko McBrain Signature 14x6.5" snare and Paiste 2002 & Signature Series cymbals.' },
+      { q: 'Does Nicko McBrain use a double bass pedal?', a: 'No — Nicko McBrain notably refuses to use a double bass pedal, instead achieving remarkable speed and complexity on Iron Maiden\'s galloping rhythms with a single bass drum pedal.' },
+      { q: 'What album is Dave Lombardo best known for with Slayer?', a: 'Dave Lombardo\'s drumming on Slayer\'s "Reign in Blood" (1986) is widely considered one of the most groundbreaking metal drum performances ever recorded, pioneering the double bass style that defined thrash metal.' },
+    ],
+  },
+
+  'danny-carey-vs-gene-hoglan': {
+    slug: 'danny-carey-vs-gene-hoglan',
+    title: 'Danny Carey vs Gene Hoglan',
+    metaTitle: 'Danny Carey vs Gene Hoglan — Progressive Polyrhythm vs Extreme Metal\'s "Atomic Clock" | MetalForge',
+    metaDescription: 'Tool\'s Danny Carey vs Gene "The Atomic Clock" Hoglan. Progressive-metal polyrhythmic artistry compared to extreme-metal timing precision. Gear, technique, and influence compared.',
+    category: 'progressive',
+    drummers: ['danny-carey', 'gene-hoglan'],
+    comparison: {
+      style: 'Danny Carey has driven Tool\'s progressive metal since the band\'s 1990 formation, developing a style built around complex polyrhythmic patterns and influences from jazz, world music, and progressive rock across albums like "Lateralus" (2001) and "Fear Inoculum" (2019). Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, has anchored extreme metal since the late 1980s across Death, Dark Angel, Testament, Strapping Young Lad, and Dethklok.',
+      technique: 'Carey\'s technique favors spacious, deliberate polyrhythmic construction and unusual time signatures, incorporating electronic percussion via Mandala pads to expand Tool\'s sonic palette rather than showcase raw speed. Hoglan is known for inhuman timing consistency and his signature gravity blast technique, combining speed, power, and musicality in a way few extreme metal drummers can sustain across an entire record.',
+      gear: 'Carey plays a Sonor SQ2 Heavy Beech kit with a Sonor Danny Carey Signature 14x8" Bronze snare and Paiste Signature Series cymbals, driven by a Sonor Giant Step Twin Effect double pedal and Mandala Drum electronic pads. Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series cymbals, powered by a Pearl Demon Drive double pedal.',
+      influence: 'Carey\'s polyrhythmic, electronically augmented drumming has made him a perennial "greatest drummer" poll-topper and a defining voice in progressive metal\'s expansion beyond standard rock structures. Hoglan\'s combination of speed, power, and musicality has influenced countless metal drummers, and his work across Death, Testament, and Dethklok has made him one of the most respected names in extreme metal.',
+    },
+    verdict: 'Danny Carey and Gene Hoglan are both widely cited as the most technically respected drummers in their respective lanes. Carey builds spacious, polyrhythmic architecture into Tool\'s progressive metal, treating odd time signatures as compositional tools rather than displays of speed. Hoglan sustains blistering, metronomic precision across extreme metal\'s most demanding tempos, earning "The Atomic Clock" nickname through decades of inhuman consistency. Both prove technical mastery can serve radically different musical goals — one prioritizing space and groove, the other raw velocity and control.',
+    faqs: [
+      { q: 'What is the difference between Danny Carey\'s and Gene Hoglan\'s drumming styles?', a: 'Danny Carey favors spacious, deliberate polyrhythmic construction and unusual time signatures within Tool\'s progressive metal. Gene Hoglan favors inhuman timing consistency and his signature gravity blast technique, sustaining speed and precision across extreme metal\'s most demanding tempos.' },
+      { q: 'What gear does Danny Carey use vs Gene Hoglan?', a: 'Danny Carey plays a Sonor SQ2 Heavy Beech kit with a Sonor Danny Carey Signature 14x8" Bronze snare and Paiste Signature Series cymbals. Gene Hoglan plays a Pearl Reference Pure kit with a Pearl Reference 14x6.5" Brass snare and Sabian AAX Series cymbals.' },
+      { q: 'Why is Gene Hoglan called "The Atomic Clock"?', a: 'Gene Hoglan earned the nickname "The Atomic Clock" for his precise, machine-like timing consistency, a hallmark of his drumming across Death, Dark Angel, Testament, Strapping Young Lad, and Dethklok.' },
+      { q: 'What bands has Gene Hoglan played drums for?', a: 'Gene Hoglan has played drums for Death, Dark Angel, Testament, Strapping Young Lad, Fear Factory, and Dethklok, making him one of extreme metal\'s most prolific and respected session and touring drummers.' },
+    ],
+  },
+
+  'tomas-haake-vs-mike-portnoy': {
+    slug: 'tomas-haake-vs-mike-portnoy',
+    title: 'Tomas Haake vs Mike Portnoy',
+    metaTitle: 'Tomas Haake vs Mike Portnoy — Djent Polymetric Groove vs Classic Prog-Metal Virtuosity | MetalForge',
+    metaDescription: 'Meshuggah\'s Tomas Haake vs Dream Theater\'s Mike Portnoy. Djent polymetric groove compared to classic progressive-metal technical songwriting. Gear, technique, and influence compared.',
+    category: 'progressive',
+    drummers: ['tomas-haake', 'mike-portnoy'],
+    comparison: {
+      style: 'Tomas Haake, born in 1971, is the drummer and primary lyricist for Swedish extreme metal band Meshuggah, developing a polyrhythmic style built on complex time signatures that has been hugely influential in the development of djent and modern progressive metal. Mike Portnoy co-founded Dream Theater in 1985 and spent 25 years as the band\'s drummer and lyricist, helping define an earlier era of progressive metal with complex arrangements, virtuosic technique, and theatrical live performances.',
+      technique: 'Haake is known for metronomic precision and an innovative polymetric approach, layering odd groupings over Meshuggah\'s down-tuned, machine-like riffs to create the polyrhythmic grooves that became the template for djent. Portnoy combines jazz fusion influences with heavy metal power, favoring intricate double bass patterns, rapid-fire transitions, and creative use of electronics within Dream Theater\'s sprawling compositions.',
+      gear: 'Haake plays a Sonor SQ2 Heavy Beech kit with a Sonor Tomas Haake Signature 14x6.5" snare and Sabian HHX & AAX Series cymbals, driven by dual Tama Speed Cobra single pedals. Portnoy plays a Tama Starclassic Maple/Birch kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals, powered by a Tama Iron Cobra Power Glide double pedal.',
+      influence: 'Haake\'s polyrhythmic drumming style has been foundational to djent and modern progressive metal, influencing a generation of bands built around Meshuggah\'s polymetric template. Portnoy has won over 30 Drummer of the Year awards from Modern Drummer magazine and helped define progressive metal\'s earlier era with Dream Theater before going on to numerous other influential projects.',
+    },
+    verdict: 'Tomas Haake and Mike Portnoy represent two generations and philosophies of progressive metal drumming. Haake\'s polymetric, groove-driven precision with Meshuggah built the rhythmic foundation of djent, prioritizing hypnotic repetition and mathematical subdivision over overt technical display. Portnoy\'s virtuosic, theatrical technique with Dream Theater defined an earlier era of progressive metal built on compositional complexity and instrumental showmanship. Both are foundational figures whose influence shaped how "progressive" is defined in modern metal drumming.',
+    faqs: [
+      { q: 'What is the difference between Tomas Haake\'s and Mike Portnoy\'s drumming styles?', a: 'Tomas Haake favors metronomic precision and an innovative polymetric approach that built the rhythmic template for djent with Meshuggah. Mike Portnoy favors virtuosic, theatrical technique with intricate double bass patterns and rapid-fire transitions within Dream Theater\'s progressive metal compositions.' },
+      { q: 'What gear does Tomas Haake use vs Mike Portnoy?', a: 'Tomas Haake plays a Sonor SQ2 Heavy Beech kit with a Sonor Tomas Haake Signature 14x6.5" snare and Sabian HHX & AAX Series cymbals, driven by dual Tama Speed Cobra single pedals. Mike Portnoy plays a Tama Starclassic Maple/Birch kit with a Tama Mike Portnoy Signature Melody Master 14x5.5" snare and Sabian HHX Series cymbals.' },
+      { q: 'What is Tomas Haake known for pioneering?', a: 'Tomas Haake is known for pioneering the polyrhythmic, polymetric drumming style with Meshuggah that became hugely influential in the development of djent and modern progressive metal.' },
+      { q: 'How long was Mike Portnoy in Dream Theater?', a: 'Mike Portnoy co-founded Dream Theater in 1985 and served as the band\'s drummer and lyricist for 25 years until 2010, before rejoining the band in 2023 for its reunion tour.' },
+    ],
+  },
 };
 
 /**

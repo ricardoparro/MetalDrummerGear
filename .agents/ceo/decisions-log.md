@@ -1569,3 +1569,31 @@ Mid-day pulse. Metrics refreshed 11:00 UTC. Backlog was 5 eligible ai-fix — de
 3. Next L1/L2/L3 snapshots due 2026-07-13 — confirm the meta-shell fallout (57 duplicates-to-jay-weinberg, 5 error-404s, 3 big-losses) self-healed before treating any as a fresh bug.
 
 ---
+
+## 2026-07-07 12:15 — Mid-day pulse: found the one route the meta-shell saga missed (/bpm), held off re-filing GSC losses already explained by that saga
+
+### Context (≤3 lines)
+13:00 UTC-ish mid-day pulse. Backlog was 4 eligible ai-fix — deep in promote-liberally band. Founder inbox empty. L1 snapshot (07-06) shows 5 big-losses, L3 snapshot (07-06) shows 57 duplicate-to-jay-weinberg + 5 error-404 + 2 crawled-not-indexed.
+
+### Actions taken
+- Investigated the 57 `duplicate→jay-weinberg` L3 cluster via subagent + own curls. Confirmed 55 of 57 are already-fixed route families (self-heal expected per prior run's watch item), but **`/bpm` and `/bpm-tap` are a genuinely new, still-live bug**: never added to the bot-detection regex (`vercel.json:532`) in any of the 7 meta-shell saga chapters, because that regex was built from the enumerated route-family list at the time and `/bpm`'s handler (`api/meta/[...path].js:3193`, from #1579) was added standalone later. Live-confirmed via bot-UA curl: still serving generic shell, zero canonical tag, `x-vercel-cache: HIT`/`age: 8394`.
+- Filed **#3931** (ai-fix) — single-line regex fix (add `bpm|bpm-tap` to the alternation), independently verified the handler already exists and just needs to be reachable.
+- Cross-checked the L1 snapshot's 5 big-losses (`joey jordison drum set/kit`, `jay weinberg drum kit`, `brann dailor drum kit`, `danny carey drum setup`) against recent commits and the meta-shell saga timeline. All 4 affected pages/queries fall inside the exact window (2026-06-29→07-06) when drummer-adjacent route families were serving generic shells to Googlebot pre-#3817/85111ae1. This matches the prior run's own standing watch item ("do not file anything new for the same URLs unless still broken by 2026-07-13"). **Did not re-file** — would have been redundant against an already-diagnosed, already-fixed root cause. Logged the reasoning inline; deferring to the 2026-07-13 snapshot for confirmation.
+- Independently grep-verified and promoted 2 fresh `seo-proposal` issues: **#3926** (4 missing hi-hat genre-gear guides — doom-metal/djent/deathcore/symphonic-metal, confirmed 0 existing entries) and **#3925** (3 orphan drummer profiles — Paul Bostaph/Sean Reinert/Nick Menza — confirmed roster caps at id 62, zero existing slugs, ~27 dead internal links currently dead-ending at the generic fallback shell).
+- Appended the `/bpm` finding to `learned-patterns.md` as a saga epilogue (not a new saga chapter) with a rule about diffing the regex against the handler list directly. Atomic-split sweep: no `ai-fix` issue open >3 days, nothing to split.
+
+### State delta
+- ai-fix backlog: 4 → 7 eligible (#3931 new, #3925/#3926 promoted)
+- seo-proposal bank: 2 fresh untriaged → 0
+- learned-patterns.md: +1 entry (saga epilogue)
+- Org/Sessions/Views (7d): 169/208/329 · GSC: 4,289 impr / 124 clicks / 2.89% CTR / pos 8.0
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 triaged with independent verification, both promoted. ✅ GSC-gap: none (no impr≥50/CTR<2% rows this week). ✅ Atomic split: none needed. ✅ Decisions + learned-patterns.md updated. Held 1 potential L1-driven ai-fix (GSC regressions) deliberately — see reasoning above, not a missed quota item.
+
+### Next Run
+1. Watch for #3931 merge + deploy; re-curl `/bpm` with bot UA after the next 06:00 UTC deploy to confirm canonical fix.
+2. Do not re-file GSC regression issues for joey-jordison/jay-weinberg/brann-dailor/danny-carey queries unless the 2026-07-13 L1 snapshot still shows them down — root cause already diagnosed and fixed.
+3. Backlog at 7 — still well below the 45 floor, keep promoting fresh proposals liberally as they land.
+
+---

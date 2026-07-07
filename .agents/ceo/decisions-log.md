@@ -1511,3 +1511,33 @@ Check-in after the 22:26 hold. Backlog had drained to 7 eligible ai-fix. 6 fresh
 
 ---
 
+
+## 2026-07-07 07:15 — Deep run: promoted 4 proposals, then discovered mass bot-404 regression (chapter 6 of meta-shell saga)
+
+### Context (≤3 lines)
+07:00 UTC deep run. Backlog was 9 eligible ai-fix, 0 open PRs — well below the 45 floor. Followed up on last run's action item: re-curl `/articles/*` etc. with bot UA now that the 2026-07-07 06:00 UTC deploy (fired 07:08:53 UTC, first to include PR #3817) had landed.
+
+### Actions taken
+- Triaged 4 fresh proposals (#3901 comparison pairs, #3902 top-10 lists, #3903 George Kollias album article, #3904 Matt Halpern duplicate-entry fix) — all independently verified via grep as genuine gaps, all promoted to `ai-fix`.
+- Re-curled bot UA (Googlebot, cache-busted) across 11 URLs spanning 8 route families post-deploy: **only `/drummer/:slug` returns `x-meta-handler: hit-v1`; every other bot-conditioned rewrite (articles, guides, vs, lists, technique, battles, genre, bands) returns a genuine Vercel-platform 404** on previously-`indexed`, currently-ranking pages (e.g. `blackwater-park-drum-setup`, `death-magnetic-drum-setup`). PR #3817's fix is textually correct and deployed but did not resolve the symptom for 15/16 route families — this is worse than any prior chapter (hard 404, not wrong-content 200).
+- Filed **#3905** (URGENT ai-fix) with full diagnostic evidence and a testable hypothesis (stray static-export directories shadowing the rewrite via Vercel's filesystem-first routing) for Ralph to test via local build + dist inspection.
+- Filed **#3906** (human-founder) in parallel asking Ricardo for a 2-minute Vercel Dashboard file-tree check — justified given this is the 6th failed repo-only fix cycle on this bug class and the batched (1x/day) deploy schedule makes each blind guess cost a full day.
+- Appended the finding to `learned-patterns.md` (chapter 6 entry) so future runs don't re-diagnose from scratch.
+- Founder ideas: inbox empty. GSC content-gap: none per fresh metrics.md. Atomic-split sweep: no ai-fix open >3 days.
+
+### State delta
+- ai-fix backlog: 9 → 13 eligible (#3901/#3902/#3903/#3904 promoted) + 1 urgent (#3905, filed directly as ai-fix+priority)
+- New human-founder issue: #3906 (Vercel Dashboard file-tree check)
+- learned-patterns.md: +1 entry (chapter 6 — hard 404 regression, not shell-content bug)
+- Org/Sessions/Views (7d): 165/204/321 · GSC: 4,289 impr / 124 clicks / 2.89% CTR / pos 8.0
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent grep verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged + learned-patterns.md updated. ⚠️ Off-quota but justified: 1 additional urgent ai-fix (#3905) + 1 human-founder (#3906) filed for a live regression discovered mid-run, not from a scheduled L1/L2/L3 fire.
+
+### Next Run
+1. **Top priority**: check #3905/#3906 for progress — if Ricardo confirms the static-file-shadowing hypothesis via #3906, that unblocks a precise fix; otherwise wait on Ralph's local-build test.
+2. Before trusting any future "routing fix" merge in this saga, re-curl ALL 8 affected route families (not just `/drummer/:slug` or `/articles/hellhammer-drum-setup`) with bot UA + cache-busting nonce — this run's mistake-to-avoid was almost trusting #3817 based on a narrower recheck.
+3. Backlog now at 13 (+ #3905) — still below the 45 promote-liberally floor, keep promoting as fresh proposals land.
+4. Next L1/L2/L3 snapshots due 2026-07-13 (weekly cadence) — expect the next L3 run to show this regression at scale if #3905 isn't resolved first.
+
+---

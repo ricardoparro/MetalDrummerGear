@@ -3535,6 +3535,95 @@ export const drummerComparisons = {
     },
     verdict: 'Matt Greiner and Mario Duplantier both push progressive songwriting into heavy music, but from different directions. Greiner turns odd-time complexity into meticulously arranged, radio-friendly metalcore with August Burns Red, folding technicality invisibly into song structure. Duplantier builds Gojira\'s progressive death metal around organic, dual-bass-drum polyrhythms and tribal intensity that feels ritualistic rather than rehearsed. Both are Grammy-nominated architects of technical songwriting in modern heavy music, proving polyrhythmic complexity can serve radically different sonic goals.',
   },
+
+  // Issue #3939: SEO batch - this week's top GSC/GA4 signal drummer pairs
+  'shannon-larkin-vs-jaska-raatikainen': {
+    slug: 'shannon-larkin-vs-jaska-raatikainen',
+    title: 'Shannon Larkin vs Jaska Raatikainen',
+    metaTitle: 'Shannon Larkin vs Jaska Raatikainen — Hard Rock Groove vs Melodic Death Precision | MetalForge',
+    metaDescription: 'Godsmack\'s Shannon Larkin vs Children of Bodom\'s Jaska Raatikainen. Hard-hitting hard rock groove compared to Finnish melodic death metal precision. Gear, technique, and legacy compared.',
+    category: 'other',
+    drummers: ['shannon-larkin', 'jaska-raatikainen'],
+    comparison: {
+      style: 'Shannon Larkin has anchored Godsmack since 2002 with a powerful, groove-oriented style built for the band\'s heavy, riff-driven hard rock, hitting hard while keeping tracks like "I Stand Alone" and "Awake" locked into an accessible pocket. Jaska Raatikainen co-founded Children of Bodom in 1993 and spent 26 years driving the Finnish band\'s signature blend of neoclassical melodies and melodic death metal, anchoring dense keyboard-and-guitar arrangements from "Something Wild" (1997) through the band\'s 2019 farewell.',
+      technique: 'Larkin favors hard-hitting, straightforward power over technical flash, prioritizing feel and impact — the same approach that let him briefly fill in for Black Sabbath\'s touring lineup for one show in 1997. Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom\'s dense arrangements anchored with surgical consistency at extreme tempos.',
+      gear: 'Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare and Sabian AAX & HHX Series cymbals, powered by a DW 9000 Series double pedal. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.',
+      influence: 'Larkin became Godsmack\'s longest-serving drummer, giving the band\'s multi-platinum hard rock sound its consistent heavy backbone across two decades. Raatikainen gave Finnish melodic death metal its rhythmic identity, helping Children of Bodom become one of the genre\'s most globally successful acts and influencing a generation of Scandinavian metal drummers.',
+    },
+    verdict: 'Shannon Larkin and Jaska Raatikainen show two ways hard-hitting drumming can define a band\'s identity. Larkin\'s straightforward, song-serving power turned Godsmack into one of hard rock\'s most consistent multi-platinum acts across two decades. Raatikainen\'s surgical, locked-in precision gave Children of Bodom\'s neoclassical melodic death metal its rhythmic backbone for 26 years. Both prove that reliability and impact, not just technical flash, can build a lasting legacy in heavy music.',
+    faqs: [
+      { q: 'What genre do Shannon Larkin and Jaska Raatikainen play?', a: 'Shannon Larkin has drummed for Godsmack since 2002, a groove-driven hard rock and post-grunge metal band. Jaska Raatikainen co-founded Children of Bodom in 1993 and drove the band\'s melodic death metal, blending neoclassical melodies with extreme metal drumming, until its 2019 breakup.' },
+      { q: 'What gear does Shannon Larkin use vs Jaska Raatikainen?', a: 'Shannon Larkin plays a ddrum Dios Series kit with a ddrum Dios 14x6.5" Maple snare, Sabian AAX & HHX Series cymbals, and a DW 9000 Series double pedal. Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal.' },
+      { q: 'Did Shannon Larkin ever play for Black Sabbath?', a: 'Yes — Shannon Larkin briefly filled in for Black Sabbath\'s touring lineup for one show in 1997, years before he joined Godsmack in 2002.' },
+      { q: 'How long was Jaska Raatikainen in Children of Bodom?', a: 'Jaska Raatikainen was a founding member of Children of Bodom in 1993 and remained the band\'s drummer for 26 years, recording from "Something Wild" (1997) through the band\'s farewell in 2019.' },
+    ],
+  },
+
+  'bill-ward-vs-john-otto': {
+    slug: 'bill-ward-vs-john-otto',
+    title: 'Bill Ward vs John Otto',
+    metaTitle: 'Bill Ward vs John Otto — Metal\'s Jazz-Swing Blueprint vs Nu-Metal Groove | MetalForge',
+    metaDescription: 'Black Sabbath\'s Bill Ward vs Limp Bizkit\'s John Otto. The jazz-swing foundation of heavy metal compared to hip-hop-infused nu-metal groove. Gear, technique, and legacy compared.',
+    category: 'other',
+    drummers: ['bill-ward', 'john-otto'],
+    comparison: {
+      style: 'Bill Ward co-founded Black Sabbath in 1968 and, drawing on jazz heroes Gene Krupa and Buddy Rich, built an open, swinging feel that became the rhythmic template for heavy metal itself on "Black Sabbath" (1970) and "Paranoid" (1970). John Otto has been Limp Bizkit\'s drummer and founding member since 1994, blending hip-hop-influenced grooves and funk-inspired beats that helped define the rap-metal sound on hits like "Rollin\'" and "Break Stuff."',
+      technique: 'Ward\'s loose grip and behind-the-beat phrasing gave early Sabbath riffs a rolling, jazz-informed swing that no other rock drummer of the era was playing, relying entirely on single-pedal technique with no double bass at all. Otto studied jazz at the Douglas Anderson School of the Arts, using syncopated patterns and funky ghost notes over a single-pedal setup to give Limp Bizkit\'s grooves their distinctive pocket.',
+      gear: 'Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals, including a massive 24" 2002 Ride, driven by a single pedal. Otto plays an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals.',
+      influence: 'Ward is widely credited as one of the true originators of heavy metal drumming — every rock and metal drummer who followed, including Otto, built on the rhythmic vocabulary he created with Sabbath. Otto\'s jazz-meets-hip-hop grooves gave Limp Bizkit\'s sound instant recognizability, helping drive one of the best-selling records of the nu-metal era in "Chocolate Starfish and the Hot Dog Flavored Water."',
+    },
+    verdict: 'Bill Ward and John Otto both prove that jazz training, not raw speed, can define a genre\'s groove. Ward invented the swung, single-pedal foundation of heavy metal drumming in 1968, prioritizing feel and space over technical display. Otto carried that same jazz-schooled sensibility into 1990s rap-metal, giving Limp Bizkit\'s riffs a syncopated, hip-hop-informed pocket instead of blast-beat aggression. Both are proof that heavy music\'s most influential drummers often come from outside metal\'s technical extremes.',
+    faqs: [
+      { q: 'What is Bill Ward known for in Black Sabbath?', a: 'Bill Ward co-founded Black Sabbath in 1968 and is credited as one of the true originators of heavy metal drumming. His jazz-influenced, behind-the-beat swing on albums like "Black Sabbath" (1970) and "Paranoid" (1970) created the rhythmic template that heavy metal drumming was built on.' },
+      { q: 'Does John Otto use a double bass pedal?', a: 'No — John Otto plays with a single-pedal setup, relying on jazz-schooled syncopation and funky ghost notes rather than double bass speed to give Limp Bizkit\'s grooves their distinctive hip-hop-infused pocket.' },
+      { q: 'What gear does Bill Ward use vs John Otto?', a: 'Bill Ward played a Ludwig Classic Maple kit with a Ludwig Supraphonic 14x6.5" LM402 snare and Paiste 2002 & Giant Beat Series cymbals. John Otto plays an OCDP Custom Type 5 Acrylic kit with dual signature OCDP snares and Zildjian A Custom cymbals, driven by Gibraltar G Class pedals.' },
+      { q: 'How long has John Otto been Limp Bizkit\'s drummer?', a: 'John Otto has been Limp Bizkit\'s drummer since the band\'s founding in 1994, making him a founding member and one of the group\'s longest-tenured lineup fixtures.' },
+    ],
+  },
+
+  'ben-koller-vs-jaska-raatikainen': {
+    slug: 'ben-koller-vs-jaska-raatikainen',
+    title: 'Ben Koller vs Jaska Raatikainen',
+    metaTitle: 'Ben Koller vs Jaska Raatikainen — Mathcore Chaos vs Melodic Death Precision | MetalForge',
+    metaDescription: 'Converge\'s Ben Koller vs Children of Bodom\'s Jaska Raatikainen. Unpredictable mathcore intensity compared to Finnish melodic death metal precision. Gear, technique, and legacy compared.',
+    category: 'extreme',
+    drummers: ['ben-koller', 'jaska-raatikainen'],
+    comparison: {
+      style: 'Ben Koller joined Converge in late 1999 and became central to the band\'s mathcore evolution, driving landmark records including "Jane Doe" (2001) and "The Dusk in Us" (2017) with abrupt tempo shifts and a raw, almost violent physicality. Jaska Raatikainen co-founded Children of Bodom in 1993 and spent 26 years driving the Finnish band\'s signature blend of neoclassical melodies and melodic death metal, anchoring dense keyboard-and-guitar arrangements from "Something Wild" (1997) through the band\'s 2019 farewell.',
+      technique: 'Koller\'s technique is built for maximum unpredictability — a loose, explosive attack that thrives on Converge\'s constantly shifting time signatures, favoring gut-level feel over rehearsed precision. Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom\'s dense arrangements anchored with surgical consistency at extreme tempos.',
+      gear: 'Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare and Zildjian K Dark Series cymbals, driven by a Tama Iron Cobra 900 double pedal. Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal.',
+      influence: 'Koller is widely regarded as one of the most respected drummers in extreme and hardcore music, and Converge\'s "Jane Doe" reshaped how hardcore and metal drummers approach unpredictability and dynamics. Raatikainen gave Finnish melodic death metal its rhythmic identity, helping Children of Bodom become one of the genre\'s most globally successful acts and influencing a generation of Scandinavian metal drummers.',
+    },
+    verdict: 'Ben Koller and Jaska Raatikainen represent two entirely different approaches to technical extreme drumming. Koller channels chaos and raw physicality into Converge\'s unpredictable mathcore assault, where the danger of the arrangement falling apart is the point. Raatikainen channels clean, locked-in precision into Children of Bodom\'s neoclassical melodic death metal, where surgical consistency across 26 years is the point. Both are foundational figures in extreme music\'s more demanding corners — one built on controlled chaos, the other on disciplined control.',
+    faqs: [
+      { q: 'What is the difference between Ben Koller\'s and Jaska Raatikainen\'s drumming styles?', a: 'Ben Koller favors a loose, explosive, unpredictable attack built for Converge\'s constantly shifting mathcore arrangements. Jaska Raatikainen favors clean, locked-in double bass and precise blast beats, anchoring Children of Bodom\'s dense melodic death metal arrangements with surgical consistency.' },
+      { q: 'What gear does Ben Koller use vs Jaska Raatikainen?', a: 'Ben Koller plays a Tama Starclassic Maple kit with a Tama S.L.P. 14x6" Brass snare, Zildjian K Dark Series cymbals, and a Tama Iron Cobra 900 double pedal. Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal.' },
+      { q: 'How long has Ben Koller played drums for Converge?', a: 'Ben Koller joined Converge in late 1999 and has remained the band\'s drummer since, recording landmark albums including "Jane Doe" (2001) and "The Dusk in Us" (2017).' },
+      { q: 'Why is Children of Bodom\'s "Something Wild" significant for Jaska Raatikainen?', a: '"Something Wild" (1997) was Children of Bodom\'s debut album and Jaska Raatikainen\'s first recording as the band\'s founding drummer, launching a 26-year run that helped define Finnish melodic death metal.' },
+    ],
+  },
+
+  'jaska-raatikainen-vs-matt-greiner': {
+    slug: 'jaska-raatikainen-vs-matt-greiner',
+    title: 'Jaska Raatikainen vs Matt Greiner',
+    metaTitle: 'Jaska Raatikainen vs Matt Greiner — Melodic Death Precision vs Metalcore Precision | MetalForge',
+    metaDescription: 'Children of Bodom\'s Jaska Raatikainen vs August Burns Red\'s Matt Greiner. Finnish melodic death metal precision compared to Grammy-nominated metalcore technicality. Gear, technique, and legacy analyzed.',
+    category: 'progressive',
+    drummers: ['jaska-raatikainen', 'matt-greiner'],
+    comparison: {
+      style: 'Jaska Raatikainen co-founded Children of Bodom in 1993 and spent 26 years driving the Finnish band\'s signature blend of neoclassical melodies and melodic death metal, anchoring dense keyboard-and-guitar arrangements from "Something Wild" (1997) through the band\'s 2019 farewell. Matt Greiner co-founded August Burns Red in 2003 and has driven the band\'s Grammy-nominated metalcore for over two decades, combining jazz-influenced dynamics with blazing double bass across albums like "Messengers" and "Phantom Anthem."',
+      technique: 'Raatikainen built his technique around clean, locked-in double bass and precise, driving blast beats, keeping Bodom\'s dense arrangements anchored with surgical consistency at extreme tempos. Greiner weaves odd time signatures seamlessly into song structures rather than showcasing them as a display, incorporating creative stacked-cymbal work and rapid-fire double bass into metalcore\'s heavy foundation.',
+      gear: 'Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare and Zildjian A Custom & K Custom cymbals, powered by a Pearl Eliminator double pedal. Greiner plays a Greiner & Kilmer Custom kit, co-designed with his own drum company, with a matching 14x6.5" Maple snare and Meinl Byzance Series cymbals, driven by a DW 9000 Series double pedal.',
+      influence: 'Raatikainen gave Finnish melodic death metal its rhythmic identity, helping Children of Bodom become one of the genre\'s most globally successful acts and influencing a generation of Scandinavian metal drummers. Greiner earned two Grammy nominations for Best Metal Performance with August Burns Red and co-founded the Greiner & Kilmer drum company, influencing a generation of metalcore drummers through signature gear and worldwide clinics.',
+    },
+    verdict: 'Jaska Raatikainen and Matt Greiner both prove that precision, not just speed, defines extreme metal\'s more technical corners. Raatikainen\'s clean, locked-in blast beats and double bass gave Children of Bodom\'s neoclassical melodic death metal its rhythmic identity for 26 years. Greiner folds odd-time complexity invisibly into August Burns Red\'s Grammy-nominated metalcore, turning technicality into radio-friendly songcraft rather than a display of chops. Both are foundational voices in their respective scenes — Raatikainen as melodic death metal\'s precision standard-bearer, Greiner as metalcore\'s technical architect.',
+    faqs: [
+      { q: 'What is the difference between Jaska Raatikainen\'s and Matt Greiner\'s drumming styles?', a: 'Jaska Raatikainen builds his style around clean, locked-in double bass and blast beats within Children of Bodom\'s neoclassical melodic death metal. Matt Greiner weaves odd time signatures seamlessly into August Burns Red\'s metalcore song structures, favoring integrated complexity over overt technical display.' },
+      { q: 'What gear does Jaska Raatikainen use vs Matt Greiner?', a: 'Jaska Raatikainen played a Pearl Masters Premium Maple kit with a Pearl Masters 14x5.5" Maple snare, Zildjian A Custom & K Custom cymbals, and a Pearl Eliminator double pedal. Matt Greiner plays a Greiner & Kilmer Custom kit, co-designed with his own drum company, with a matching 14x6.5" Maple snare, Meinl Byzance Series cymbals, and a DW 9000 Series double pedal.' },
+      { q: 'Has Matt Greiner won any awards with August Burns Red?', a: 'Matt Greiner has earned two Grammy nominations for Best Metal Performance with August Burns Red, and he co-founded the Greiner & Kilmer drum company, which produces his signature kit.' },
+      { q: 'How long was Jaska Raatikainen the drummer for Children of Bodom?', a: 'Jaska Raatikainen was a founding member of Children of Bodom in 1993 and remained the band\'s drummer for 26 years, from the 1997 debut "Something Wild" through the band\'s farewell in 2019.' },
+    ],
+  },
 };
 
 /**

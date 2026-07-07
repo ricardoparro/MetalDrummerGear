@@ -67,6 +67,17 @@ const DRUMMER_MAP = {
   44: { name: 'Derek Roddy',         band: 'Hate Eternal / Nile',                    slug: 'derek-roddy' },
   47: { name: 'Gavin Harrison',      band: 'Porcupine Tree / King Crimson',          slug: 'gavin-harrison' },
   52: { name: 'Mike Mangini',        band: 'Dream Theater',                          slug: 'mike-mangini' },
+  // Issue #3837: ids used by the Tama/Pearl/DW kit-brand lists that fall outside
+  // this map's original 1-30/52 range. Only added where every existing list in
+  // TOP_10_LISTS already uses the id for the same drummer (verified via a full
+  // scan of top10Lists.js) — id 62 is deliberately NOT added here because it's
+  // used inconsistently across existing lists (Martin Axenrot in most, Matt
+  // Greiner in a couple), so filling it in would mis-attribute the others.
+  51: { name: 'Paul Mazurkiewicz',   band: 'Cannibal Corpse',                        slug: 'paul-mazurkiewicz' },
+  54: { name: 'Daniel Erlandsson',   band: 'Arch Enemy',                             slug: 'daniel-erlandsson' },
+  55: { name: 'Jaska Raatikainen',   band: 'Children of Bodom',                      slug: 'jaska-raatikainen' },
+  56: { name: 'Hannes Grossmann',    band: 'Obscura / Necrophagist',                 slug: 'hannes-grossmann' },
+  60: { name: 'Kevin Talley',        band: 'Dying Fetus / Misery Index',             slug: 'kevin-talley' },
 };
 
 const today = new Date().toISOString().split('T')[0];

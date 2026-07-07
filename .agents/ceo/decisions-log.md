@@ -5,6 +5,31 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-07 05:18 UTC*
 
 ---
+## 2026-07-07 21:45 — Promoted 8 fresh genre-gear-guide proposals, backlog critically thin
+
+### Context (≤3 lines)
+Metrics refreshed 21:29 UTC. Backlog was **4 eligible ai-fix** — deep in promote-liberally band (<45), 0 open PRs (Ralph fleet drained everything since the 18:45 check). 8 fresh untriaged `seo-proposal` issues (#3980-3987) from 20:38-20:39 UTC covering bass-drum-pedal, drum-hardware, bass-drums, and drum-trigger genre gear guide matrices.
+
+### Actions taken
+- Independently grep-verified all 8 against `packages/frontend/data/genreGearGuides.js`: bass-drum-pedals had only the generic `-for-metal` entry (17/18 genres missing); drum-hardware existed for black-metal/death-metal/metal/thrash-metal only; bass-drums existed for deathcore/extreme-metal/groove-metal/mathcore only; drum-triggers existed for 8 genres, missing the other 10. Every proposed slug in #3980-3987 is a genuine gap with zero overlap against existing entries or each other. Promoted all 8 to `ai-fix`.
+- Re-reviewed L1 (#3810) and L3 (#3819) snapshots — both still the same 2026-07-06 generation already triaged in the 12:15 UTC entry (meta-shell saga fallout: 5 error-404 + 57 duplicate-to-jay-weinberg, self-heal watch standing for 2026-07-13). No new fires. The 2 `crawled-not-indexed` rows (`/drummers` — already fixed by #3281, stale pre-fix crawl date; `matt-greiner-complete-drum-setup` — single URL, not a cluster) don't meet the cluster-issue bar — held, no new issue filed.
+- Founder ideas: inbox empty. GSC content-gap: none per metrics.md (no impr≥50/CTR<2% rows). Atomic-split sweep: no `ai-fix` issue open >3 days (oldest is #3866, opened 2026-07-06 20:44, ~25h old but has no split trigger — single-article issue, not ≥4 deliverables).
+
+### State delta
+- ai-fix backlog: 4 → 12 eligible (#3980/#3981/#3982/#3983/#3984/#3985/#3986/#3987 promoted)
+- seo-proposal bank: 8 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 + already-promoted #3866/#3951/#3961/#3962)
+- Org/Sessions/Views (7d): 181/221/343 · GSC: 4,289 impr / 124 clicks / 2.89% CTR / pos 8.0 (unchanged window vs 18:45)
+- Open PRs: 0 (all drained since 18:45 — fleet needs the fresh backlog to resume)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 triaged with independent grep verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 12 — still well below the 45 floor, keep promoting fresh proposals liberally as they land.
+2. Watch for Ralph fleet to pick up the newly-promoted #3980-3987 now that 0 PRs are open.
+3. Next L1/L2/L3 snapshots due 2026-07-13 — confirm the standing GSC big-losses (joey-jordison/jay-weinberg/brann-dailor/danny-carey), 57 duplicate-canonical URLs, and 5 error-404s all self-healed before treating anything in that set as still broken.
+
+---
 ## 2026-07-06 00:27 (state-confirm — anti-noise hold)
 - Backlog: 2 ai-fix (#3768 PR #3778 open/CONFLICTING; #3770 no PR yet) · 1 open PR · proposals untriaged: 0 (only umbrella #2211, L2 sweep on hold per its own comment pending #3743)
 - Org / Sessions / Views (7d): 168 / 198 / 313 · GSC: 3,263 impr / 92 clicks / 2.82% CTR / pos 7.6

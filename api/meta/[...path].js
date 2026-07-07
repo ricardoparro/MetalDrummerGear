@@ -390,43 +390,62 @@ function getMetaForPath(pathname) {
   }
 
   // Drummers list
+  // Issue #3960: added CollectionPage alongside FAQPage — this route was never
+  // reachable via the SSR bot-detection rewrite, so crawlers only ever saw the
+  // generic app shell regardless of what this handler returned.
   if (path === '/drummers') {
+    const drummerCount = drummers.length;
     return {
-      title: `All Metal Drummers — Complete Gear Database | ${SITE_NAME}`,
-      description: 'Browse 60+ legendary metal drummers and explore their complete gear setups. From Lars Ulrich to George Kollias.',
+      title: `Metal Drummers Database — ${drummerCount}+ Pro Gear Setups | ${SITE_NAME}`,
+      description: `Browse ${drummerCount}+ legendary metal drummers and explore their complete gear setups. From Lars Ulrich to George Kollias.`,
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/drummers`,
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
-        '@type': 'FAQPage',
-        mainEntity: [
+        '@graph': [
           {
-            '@type': 'Question',
-            name: 'Who are the best metal drummers of all time?',
-            acceptedAnswer: {
-              '@type': 'Answer',
-              text: 'The greatest metal drummers include Joey Jordison (Slipknot), Dave Lombardo (Slayer), Gene Hoglan (Death/Testament), George Kollias (Nile), and Lars Ulrich (Metallica). MetalForge profiles 60+ professional metal drummers with complete gear breakdowns.',
-            }
+            '@type': 'CollectionPage',
+            name: `Metal Drummers Database — ${drummerCount}+ Pro Gear Setups`,
+            url: `${BASE_URL}/drummers`,
+            description: `Browse ${drummerCount}+ legendary metal drummers and explore their complete gear setups.`,
+            publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
           },
           {
-            '@type': 'Question',
-            name: 'What drums do metal drummers use?',
-            acceptedAnswer: {
-              '@type': 'Answer',
-              text: 'Most metal drummers use double bass drum kits from brands like Tama, DW (DW Drums), Pearl, and Ludwig. Popular cymbal brands include Zildjian, Meinl, Sabian, and Paiste. Many metal drummers use 22-24" bass drums for a deeper sound.',
-            }
-          },
-          {
-            '@type': 'Question',
-            name: 'How can I find out what gear a metal drummer uses?',
-            acceptedAnswer: {
-              '@type': 'Answer',
-              text: 'MetalForge provides complete gear breakdowns for 60+ metal drummers including drums, cymbals, pedals, hardware, sticks, and endorsements. Visit any drummer profile page for their full setup.',
-            }
+            '@type': 'FAQPage',
+            mainEntity: [
+              {
+                '@type': 'Question',
+                name: 'Who is the most iconic metal drummer?',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: `Iconic metal drummers include Joey Jordison (Slipknot), Dave Lombardo (Slayer), Gene Hoglan (Death/Testament), George Kollias (Nile), and Lars Ulrich (Metallica). MetalForge profiles ${drummerCount}+ professional metal drummers with complete gear breakdowns.`,
+                }
+              },
+              {
+                '@type': 'Question',
+                name: 'What gear do metal drummers use?',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: 'Most metal drummers use double bass drum kits from brands like Tama, DW (DW Drums), Pearl, and Ludwig. Popular cymbal brands include Zildjian, Meinl, Sabian, and Paiste. Many metal drummers use 22-24" bass drums for a deeper sound.',
+                }
+              },
+              {
+                '@type': 'Question',
+                name: 'How many metal drummers are on MetalForge?',
+                acceptedAnswer: {
+                  '@type': 'Answer',
+                  text: `MetalForge currently profiles ${drummerCount} metal drummers, each with a complete gear breakdown including drums, cymbals, pedals, hardware, and sticks.`,
+                }
+              },
+            ],
           },
         ],
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Drummers', url: `${BASE_URL}/drummers` },
+      ],
     };
   }
 

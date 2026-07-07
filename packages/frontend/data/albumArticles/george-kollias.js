@@ -1000,7 +1000,7 @@ export const articles = {
         "Nile's seventh studio album, released April 27, 2012 on Nuclear Blast Records",
         "First full album cycle on the Vic Firth SGK George Kollias Signature stick, replacing his 5B",
         "Pearl Reference Maple kit and Demon Drive pedals reach full maturity after three years of touring",
-        "Meinl Byzance cymbals in their final full-album configuration before Kollias's later move toward Zildjian K Custom Dark",
+        "Meinl Byzance cymbals in a configuration that would carry forward through \"What Should Not Be Unearthed\" (2015) before Kollias's later move toward Zildjian",
         "Key tracks: \"Kem Khefa Kheshef,\" \"Slaves of Xul,\" \"Enduring the Eternal Molestation of Flame\""
       ]
     },
@@ -1029,7 +1029,7 @@ export const articles = {
         "Double 22\" kick drums — independent per-foot control refined across years of touring",
         "Identical tom configuration to 2009 by design — minimizing variables between album cycles",
         "Slightly tighter rack tom tuning for the album's more rhythmically intricate passages",
-        "Final full-album statement on Reference Maple before Kollias's later Masterworks Stadium Exotic era"
+        "Reference Maple platform that would carry through \"What Should Not Be Unearthed\" (2015) before Kollias's later Masterworks Stadium Exotic era"
       ],
       "estimatedValue": "$4,500–7,000 (Pearl Reference Maple shell pack, 2012 era)"
     },
@@ -1045,7 +1045,7 @@ export const articles = {
       "estimatedValue": "$500–700 (Pearl Free-Floating snare, 2012 era)"
     },
     "cymbals": {
-      "title": "The Meinl Byzance Arsenal: Its Final Full-Album Chapter",
+      "title": "The Meinl Byzance Arsenal at Full Maturity",
       "brand": "Meinl",
       "series": "Meinl Byzance Series",
       "setup": [
@@ -1086,7 +1086,7 @@ export const articles = {
           "notes": "Aggressive trashy accent texture for heaviest transitions"
         }
       ],
-      "description": "\"At the Gate of Sethu\" represents the final Nile studio album where Meinl Byzance cymbals appear as Kollias's exclusive cymbal voice, before his gear later shifted toward the Zildjian K Custom Dark and A Custom setup documented on his current kit. The configuration itself — 14\" Byzance Medium hi-hats, a 17\"/18\"/19\" crash spread, a 20\" Byzance Medium ride, and an 18\" Byzance China — is unchanged from \"Those Whom the Gods Detest,\" a continuity that reflects how settled Kollias's cymbal voice had become by this point in his Nile tenure.\n\nThe Byzance series' B20 bronze construction continued to deliver the balance Kollias needed: enough articulation to stay legible at 240+ BPM without sacrificing the tonal complexity that keeps a cymbal setup from sounding merely functional. On \"Enduring the Eternal Molestation of Flame\" and \"The Gods Who Light Up the Sky,\" the crash spread's dynamic range — from the quick 17\" accent to the authoritative 19\" — supports the album's more pronounced dynamic contrasts between blast passages and Nile's atmospheric, Egyptological interludes.\n\nLooking back, \"At the Gate of Sethu\" closes out an era. Every subsequent major Nile release finds Kollias exploring cymbal options beyond the Byzance series he had relied on since his earliest days with the band — making this album the last complete snapshot of his classic Meinl-only setup.",
+      "description": "\"At the Gate of Sethu\" documents George Kollias's Meinl Byzance cymbal voice at full maturity — a configuration that would carry through one more Nile album, \"What Should Not Be Unearthed\" (2015), before his gear later shifted toward Zildjian. The configuration itself — 14\" Byzance Medium hi-hats, a 17\"/18\"/19\" crash spread, a 20\" Byzance Medium ride, and an 18\" Byzance China — is unchanged from \"Those Whom the Gods Detest,\" a continuity that reflects how settled Kollias's cymbal voice had become by this point in his Nile tenure.\n\nThe Byzance series' B20 bronze construction continued to deliver the balance Kollias needed: enough articulation to stay legible at 240+ BPM without sacrificing the tonal complexity that keeps a cymbal setup from sounding merely functional. On \"Enduring the Eternal Molestation of Flame\" and \"The Gods Who Light Up the Sky,\" the crash spread's dynamic range — from the quick 17\" accent to the authoritative 19\" — supports the album's more pronounced dynamic contrasts between blast passages and Nile's atmospheric, Egyptological interludes.\n\nLooking back, \"At the Gate of Sethu\" sits at the heart of an era rather than closing it out. Kollias would carry this exact Byzance voice into \"What Should Not Be Unearthed\" (2015) before finally exploring cymbal options beyond the series he had relied on since his earliest days with the band.",
       "estimatedValue": "$2,000–2,800 total (full Byzance setup, 2012 era)"
     },
     "hardware": {
@@ -1186,7 +1186,7 @@ export const articles = {
       },
       {
         "question": "What pedals and cymbals does George Kollias use on At the Gate of Sethu?",
-        "answer": "George Kollias played Pearl Demon Drive double bass drum pedals — the same direct-drive platform from 'Those Whom the Gods Detest' — now at the peak of his familiarity with it, shortly before his collaboration with Pearl on the Demon XR. His cymbal setup was Meinl Byzance series: 14\" Medium hi-hats, a 17\"/18\"/19\" crash spread, a 20\" Medium ride, and an 18\" China. This is the last Nile studio album on which Byzance appears as his exclusive cymbal voice."
+        "answer": "George Kollias played Pearl Demon Drive double bass drum pedals — the same direct-drive platform from 'Those Whom the Gods Detest' — now at the peak of his familiarity with it, shortly before his collaboration with Pearl on the Demon XR. His cymbal setup was Meinl Byzance series: 14\" Medium hi-hats, a 17\"/18\"/19\" crash spread, a 20\" Medium ride, and an 18\" China. This same Byzance voice carried into 'What Should Not Be Unearthed' (2015) before Kollias's later Zildjian transition."
       },
       {
         "question": "How does At the Gate of Sethu compare to Those Whom the Gods Detest for drumming?",
@@ -1194,12 +1194,13 @@ export const articles = {
       },
       {
         "question": "Why is At the Gate of Sethu significant in George Kollias's gear history?",
-        "answer": "'At the Gate of Sethu' (Nile, 2012) marks the point where every major component of George Kollias's rig — kit, snare, pedals, and sticks — was either his own signature model or a setup fully refined around his technique, following the debut of his Vic Firth SGK signature stick this album cycle. It also closes out the Meinl Byzance and Demon Drive era before Kollias's later transition to Zildjian cymbals and the co-designed Demon XR pedal. For his full drumming profile, see: [George Kollias at MetalForge](/drummer/george-kollias)."
+        "answer": "'At the Gate of Sethu' (Nile, 2012) marks the point where every major component of George Kollias's rig — kit, snare, pedals, and sticks — was either his own signature model or a setup fully refined around his technique, following the debut of his Vic Firth SGK signature stick this album cycle. It also closes out the Demon Drive era, shortly before Kollias's Demon XR co-design debuted on 'What Should Not Be Unearthed' (2015), though his Meinl Byzance cymbal voice carried into that album before the later Zildjian transition. For his full drumming profile, see: [George Kollias at MetalForge](/drummer/george-kollias)."
       }
     ],
     "relatedAlbums": [
       "george-kollias-nile-annihilation-drum-setup",
       "those-whom-the-gods-detest-drum-setup",
+      "what-should-not-be-unearthed-drum-setup",
       "whats-in-george-kollias-kit"
     ],
     "relatedDrummers": [
@@ -1214,7 +1215,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Quiet Peak of an Extreme Metal Rig",
-      "content": "\"At the Gate of Sethu\" rarely tops lists of Nile's most celebrated albums, but for anyone tracing George Kollias's gear and technique evolution, it occupies a uniquely important place. It is the album where a platform introduced three years earlier — Pearl Reference Maple, Demon Drive pedals, Meinl Byzance cymbals — reached full maturity, and the exact moment his own signature Vic Firth stick entered the picture for the first time.\n\nEvery element of the 2012 rig traces a clean line between what came before and what came after:\n\n- **Pearl Reference Maple**: The same kit as 2009, played by a drummer who had spent three more years learning exactly what to ask of it\n- **Vic Firth SGK Signature**: New for this album — the first time Kollias's entire rig, sticks included, was built specifically around his own technique\n- **Pearl Demon Drive**: At its technical peak, shortly before the Demon XR co-design that would define his later career\n- **Meinl Byzance**: In its final full-album appearance before Kollias's later shift toward Zildjian\n\nFor drummers studying George Kollias's evolution, 'At the Gate of Sethu' rewards close listening precisely because it isn't a debut or a dramatic reinvention — it is the sound of a rig and a technique arriving at full maturity together.\n\nInternal links for the complete George Kollias picture:\n- **Full drummer profile**: [George Kollias at MetalForge](/drummer/george-kollias)\n- **Earlier Nile album**: [Those Whom the Gods Detest drum setup (2009)](/articles/those-whom-the-gods-detest-drum-setup)\n- **Debut Nile album**: [Annihilation of the Wicked drum setup (2005)](/articles/george-kollias-nile-annihilation-drum-setup)\n- **Current complete gear**: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)\n- **Speed comparison**: [George Kollias vs Pete Sandoval](/vs/george-kollias-vs-pete-sandoval)\n\nThe legend was built one album cycle at a time. This is the one where all the pieces finally locked into place."
+      "content": "\"At the Gate of Sethu\" rarely tops lists of Nile's most celebrated albums, but for anyone tracing George Kollias's gear and technique evolution, it occupies a uniquely important place. It is the album where a platform introduced three years earlier — Pearl Reference Maple, Demon Drive pedals, Meinl Byzance cymbals — reached full maturity, and the exact moment his own signature Vic Firth stick entered the picture for the first time.\n\nEvery element of the 2012 rig traces a clean line between what came before and what came after:\n\n- **Pearl Reference Maple**: The same kit as 2009, played by a drummer who had spent three more years learning exactly what to ask of it\n- **Vic Firth SGK Signature**: New for this album — the first time Kollias's entire rig, sticks included, was built specifically around his own technique\n- **Pearl Demon Drive**: At its technical peak, shortly before the Demon XR co-design that would define his later career\n- **Meinl Byzance**: At full maturity here, carrying one more album into \"What Should Not Be Unearthed\" (2015) before Kollias's later shift toward Zildjian\n\nFor drummers studying George Kollias's evolution, 'At the Gate of Sethu' rewards close listening precisely because it isn't a debut or a dramatic reinvention — it is the sound of a rig and a technique arriving at full maturity together.\n\nInternal links for the complete George Kollias picture:\n- **Full drummer profile**: [George Kollias at MetalForge](/drummer/george-kollias)\n- **Earlier Nile album**: [Those Whom the Gods Detest drum setup (2009)](/articles/those-whom-the-gods-detest-drum-setup)\n- **Debut Nile album**: [Annihilation of the Wicked drum setup (2005)](/articles/george-kollias-nile-annihilation-drum-setup)\n- **Current complete gear**: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)\n- **Speed comparison**: [George Kollias vs Pete Sandoval](/vs/george-kollias-vs-pete-sandoval)\n\nThe legend was built one album cycle at a time. This is the one where all the pieces finally locked into place."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -1322,7 +1323,7 @@ export const articles = {
               "name": "What pedals and cymbals does George Kollias use on At the Gate of Sethu?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "George Kollias used Pearl Demon Drive double bass drum pedals, the same platform from 'Those Whom the Gods Detest,' and Meinl Byzance cymbals — 14\" Medium hi-hats, a 17\"/18\"/19\" crash spread, a 20\" Medium ride, and an 18\" China. This is the last Nile album where Byzance appears as his exclusive cymbal voice."
+                "text": "George Kollias used Pearl Demon Drive double bass drum pedals, the same platform from 'Those Whom the Gods Detest,' and Meinl Byzance cymbals — 14\" Medium hi-hats, a 17\"/18\"/19\" crash spread, a 20\" Medium ride, and an 18\" China. This same Byzance voice carried into 'What Should Not Be Unearthed' (2015) before his later Zildjian transition."
               }
             },
             {
@@ -1338,7 +1339,7 @@ export const articles = {
               "name": "Why is At the Gate of Sethu significant in George Kollias's gear history?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "'At the Gate of Sethu' (2012) marks the point where every major component of Kollias's rig — kit, snare, pedals, and sticks — was fully refined around his own technique, following his Vic Firth signature stick debut, and closes out the Meinl Byzance/Demon Drive era before his later transition to Zildjian and the Demon XR."
+                "text": "'At the Gate of Sethu' (2012) marks the point where every major component of Kollias's rig — kit, snare, pedals, and sticks — was fully refined around his own technique, following his Vic Firth signature stick debut, and closes out the Demon Drive era before his Demon XR debut on 'What Should Not Be Unearthed' (2015), though its Meinl Byzance cymbal voice carried into that album."
               }
             }
           ]
@@ -1988,11 +1989,12 @@ export const articles = {
       },
       {
         "question": "Why is Vile Nilotic Rites significant in George Kollias's gear history?",
-        "answer": "'Vile Nilotic Rites' (Nile, 2019) marks George Kollias's transition to the Pearl Masterworks Stadium Exotic kit that remains his current flagship setup, and documents the first Zildjian cymbals entering his rig alongside his long-standing Meinl Byzance pieces. Produced by guitarist Karl Sanders with drums tracked in Kollias's native Athens, Greece, it is Nile's most recent studio album and completes a 5-album Nile drum-setup arc spanning 'Annihilation of the Wicked' (2005) through 2019. See the complete arc: [Ithyphallic drum setup (2007)](/articles/ithyphallic-drum-setup) and [At the Gate of Sethu drum setup (2012)](/articles/at-the-gate-of-sethu-drum-setup)."
+        "answer": "'Vile Nilotic Rites' (Nile, 2019) marks George Kollias's transition to the Pearl Masterworks Stadium Exotic kit that remains his current flagship setup, and documents the first Zildjian cymbals entering his rig alongside his long-standing Meinl Byzance pieces. Produced by guitarist Karl Sanders with drums tracked in Kollias's native Athens, Greece, it is Nile's most recent studio album and completes a 6-album Nile drum-setup arc spanning 'Annihilation of the Wicked' (2005) through 2019. See the complete arc: [Ithyphallic drum setup (2007)](/articles/ithyphallic-drum-setup), [At the Gate of Sethu drum setup (2012)](/articles/at-the-gate-of-sethu-drum-setup), and [What Should Not Be Unearthed drum setup (2015)](/articles/what-should-not-be-unearthed-drum-setup)."
       }
     ],
     "relatedAlbums": [
       "at-the-gate-of-sethu-drum-setup",
+      "what-should-not-be-unearthed-drum-setup",
       "those-whom-the-gods-detest-drum-setup",
       "whats-in-george-kollias-kit"
     ],
@@ -2008,7 +2010,7 @@ export const articles = {
     ],
     "conclusion": {
       "title": "The Modern Rig, Fully Arrived",
-      "content": "\"Vile Nilotic Rites\" closes out the drum-setup arc that began with \"Annihilation of the Wicked\" fourteen years earlier — and it does so by introducing nearly every element that defines George Kollias's current kit. The Pearl Masterworks Stadium Exotic, the Demon XR pedal at full maturity, the first Zildjian cymbals alongside a fading Meinl Byzance voice: this album is where the modern Kollias rig assembles itself in real time, on record, for anyone willing to listen for the transition.\n\nKey takeaways for drummers studying this album:\n\n- **Gear transitions can be gradual**: introducing Zildjian hi-hats and ride while retaining Meinl crashes shows a considered, piece-by-piece approach rather than a wholesale switch\n- **Co-designed equipment rewards patience**: the Demon XR, four years into use by 2019, performs differently than it did on release — mechanical familiarity compounds over years, not months\n- **\"Seven Horns of War\"** is essential listening for studying sustained blast beat consistency at extreme tempo\n- **Fifteen years in, no plateau**: this album is proof that extreme metal drumming careers can continue sharpening well past the debut-era breakthrough\n\nInternal links for the complete George Kollias picture:\n- **Full drummer profile**: [George Kollias at MetalForge](/drummer/george-kollias)\n- **Debut Nile album**: [Annihilation of the Wicked drum setup (2005)](/articles/george-kollias-nile-annihilation-drum-setup)\n- **The bridge album**: [Ithyphallic drum setup (2007)](/articles/ithyphallic-drum-setup)\n- **The Pearl transition**: [Those Whom the Gods Detest drum setup (2009)](/articles/those-whom-the-gods-detest-drum-setup)\n- **The matured Byzance era**: [At the Gate of Sethu drum setup (2012)](/articles/at-the-gate-of-sethu-drum-setup)\n- **Current complete gear**: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)\n\nFive albums, fourteen years, one continuously evolving rig. \"Vile Nilotic Rites\" is where the story catches up to the present."
+      "content": "\"Vile Nilotic Rites\" closes out the drum-setup arc that began with \"Annihilation of the Wicked\" fourteen years earlier — and it does so by introducing nearly every element that defines George Kollias's current kit. The Pearl Masterworks Stadium Exotic, the Demon XR pedal at full maturity, the first Zildjian cymbals alongside a fading Meinl Byzance voice: this album is where the modern Kollias rig assembles itself in real time, on record, for anyone willing to listen for the transition.\n\nKey takeaways for drummers studying this album:\n\n- **Gear transitions can be gradual**: introducing Zildjian hi-hats and ride while retaining Meinl crashes shows a considered, piece-by-piece approach rather than a wholesale switch\n- **Co-designed equipment rewards patience**: the Demon XR, four years into use by 2019, performs differently than it did on release — mechanical familiarity compounds over years, not months\n- **\"Seven Horns of War\"** is essential listening for studying sustained blast beat consistency at extreme tempo\n- **Fifteen years in, no plateau**: this album is proof that extreme metal drumming careers can continue sharpening well past the debut-era breakthrough\n\nInternal links for the complete George Kollias picture:\n- **Full drummer profile**: [George Kollias at MetalForge](/drummer/george-kollias)\n- **Debut Nile album**: [Annihilation of the Wicked drum setup (2005)](/articles/george-kollias-nile-annihilation-drum-setup)\n- **The bridge album**: [Ithyphallic drum setup (2007)](/articles/ithyphallic-drum-setup)\n- **The Pearl transition**: [Those Whom the Gods Detest drum setup (2009)](/articles/those-whom-the-gods-detest-drum-setup)\n- **The matured Byzance era**: [At the Gate of Sethu drum setup (2012)](/articles/at-the-gate-of-sethu-drum-setup)\n- **The Demon XR debut**: [What Should Not Be Unearthed drum setup (2015)](/articles/what-should-not-be-unearthed-drum-setup)\n- **Current complete gear**: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)\n\nSix albums, fourteen years, one continuously evolving rig. \"Vile Nilotic Rites\" is where the story catches up to the present."
     },
     "schema": {
       "@context": "https://schema.org",
@@ -2156,7 +2158,410 @@ export const articles = {
               "name": "Why is Vile Nilotic Rites significant in George Kollias's gear history?",
               "acceptedAnswer": {
                 "@type": "Answer",
-                "text": "'Vile Nilotic Rites' (2019) marks George Kollias's transition to the Pearl Masterworks Stadium Exotic kit and the first Zildjian cymbals in his setup, completing a 5-album Nile drum-setup arc from 'Annihilation of the Wicked' (2005) through this, Nile's most recent studio album."
+                "text": "'Vile Nilotic Rites' (2019) marks George Kollias's transition to the Pearl Masterworks Stadium Exotic kit and the first Zildjian cymbals in his setup, completing a 6-album Nile drum-setup arc from 'Annihilation of the Wicked' (2005) through this, Nile's most recent studio album."
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "what-should-not-be-unearthed-drum-setup": {
+    "slug": "what-should-not-be-unearthed-drum-setup",
+    "albumTitle": "What Should Not Be Unearthed",
+    "artist": "Nile",
+    "drummer": "George Kollias",
+    "drummerId": 6,
+    "relatedDrummerSlug": "george-kollias",
+    "year": 2015,
+    "genre": "Technical Death Metal / Brutal Death Metal",
+    "label": "Nuclear Blast",
+    "studio": "Sound Lab Studios, Columbia SC (drums); Serpent Headed Studios/OTB, Greenville SC",
+    "producer": "Nile (self-produced); mixed by Neil Kernon",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-07",
+    "dateModified": "2026-07-07",
+    "author": "MetalForge Editorial",
+    "title": "George Kollias Drum Setup: Nile's 'What Should Not Be Unearthed' (2015) Gear Breakdown",
+    "description": "Discover the exact drum kit, cymbals, and pedals George Kollias used on Nile's 'What Should Not Be Unearthed' (2015) — the album that debuted his co-designed Pearl Demon XR pedal alongside his matured Pearl Reference Maple and Meinl Byzance setup.",
+    "seoKeywords": [
+      "george kollias drum kit",
+      "what should not be unearthed drum setup",
+      "nile drummer gear 2015",
+      "george kollias pearl reference maple",
+      "george kollias demon xr",
+      "george kollias meinl byzance",
+      "nile 2015 album drums",
+      "george kollias blast beats"
+    ],
+    "ogImage": "/images/drummers/george-kollias.webp",
+    "intro": {
+      "title": "The Album Where the Demon XR Was Born",
+      "content": "Released August 28, 2015, on Nuclear Blast Records, \"What Should Not Be Unearthed\" is Nile's eighth studio album and the last to feature longtime guitarist/vocalist Dallas Toler-Wade before his 2017 departure. Self-produced by the band, with Neil Kernon handling the mix, drum tracking took place at Sound Lab Studios in Columbia, South Carolina — the same room that had captured George Kollias's drums since \"Ithyphallic\" — while additional tracking happened at Serpent Headed Studios/OTB in Greenville.\n\nFor Kollias's gear history, this album marks a quiet but pivotal debut: it is the first Nile studio album on the Pearl Demon XR, the double bass drum pedal Kollias co-designed with Pearl's engineers and released that same year. Everything else in his rig — the Pearl Reference Maple kit and Meinl Byzance cymbal voice documented on \"At the Gate of Sethu\" three years earlier — carried forward unchanged, making \"What Should Not Be Unearthed\" the album where one new, career-defining piece of equipment entered an otherwise settled and fully matured setup.\n\nTracks like the title cut \"What Should Not Be Unearthed,\" the album-opening \"Call to Destruction,\" and \"Evil to Cast Out Evil\" showcase Kollias adapting his heel-toe technique to a pedal built around his own specifications rather than adjusting to someone else's engineering choices. The result is a documented before-and-after moment in his equipment timeline, four years before the Demon XR reached full maturity on \"Vile Nilotic Rites.\"\n\nThis article breaks down every piece of gear George Kollias used during the \"What Should Not Be Unearthed\" sessions, the technique adjustments the new Demon XR required, and why this overlooked entry completes the drum-setup arc connecting his classic Meinl Byzance era to his modern Zildjian-equipped rig.",
+      "keyPoints": [
+        "Nile's eighth studio album, released August 28, 2015 on Nuclear Blast Records",
+        "Self-produced by the band; mixed by Neil Kernon; drums tracked at Sound Lab Studios, Columbia, South Carolina",
+        "The last Nile album to feature guitarist/vocalist Dallas Toler-Wade before his 2017 departure",
+        "Debuts George Kollias's co-designed Pearl Demon XR pedal, replacing the Demon Drive used since 2009",
+        "Pearl Reference Maple kit and Meinl Byzance cymbal voice carried forward unchanged from \"At the Gate of Sethu\" (2012)",
+        "Key tracks: \"What Should Not Be Unearthed,\" \"Call to Destruction,\" \"Evil to Cast Out Evil\""
+      ]
+    },
+    "drumKit": {
+      "title": "George's 2015 Kit: Pearl Reference Maple, Unchanged and Proven",
+      "brand": "Pearl",
+      "model": "Pearl Reference Maple",
+      "finish": "Various (Reference series)",
+      "config": {
+        "bassdrums": [
+          "22\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom",
+          "14\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" Floor Tom"
+        ],
+        "shells": "Pearl Reference Maple — SST (Superior Shell Technology) multi-ply maple construction"
+      },
+      "description": "\"What Should Not Be Unearthed\" carries forward the same Pearl Reference Maple platform George Kollias had played since \"Those Whom the Gods Detest\" (2009) and refined through \"At the Gate of Sethu\" (2012) — by 2015, a full six years of touring and recording familiarity. Rather than changing shells, Kollias directed his attention toward the pedal upgrade documented below, a deliberate choice to isolate variables: change one major piece of equipment at a time, keep everything else constant.\n\nThe double 22\" bass drum configuration remained the non-negotiable foundation, still delivering the independent per-foot resonance Kollias's heel-toe technique depends on at 240+ BPM. The compact 10\"/12\"/14\" rack tom and 16\" floor tom spread — unchanged since \"Annihilation of the Wicked\" a decade earlier — continued to prioritize reach efficiency over expansive tonal range, the same philosophy that would carry through to the Masterworks Stadium Exotic four years later.\n\nRecording at Sound Lab Studios in Columbia, South Carolina, gave engineers a known quantity: the same room and the same kit that had captured Kollias's drums since \"Ithyphallic,\" meaning studio time went toward capturing the Demon XR transition rather than re-learning the kit's recorded character from scratch.",
+      "notes": [
+        "Pearl Reference Maple — unchanged from \"At the Gate of Sethu,\" now six years into Kollias's tenure with this platform",
+        "Double 22\" bass drums for independent per-foot control at extreme tempo",
+        "Compact 10/12/14\" rack tom and 16\" floor tom spread, consistent since 2005",
+        "This is the final full Nile studio album on Reference Maple before the 2019 Masterworks Stadium Exotic upgrade"
+      ],
+      "estimatedValue": "$4,500–7,000 (Pearl Reference Maple shell pack, 2015 era)"
+    },
+    "snare": {
+      "title": "The Snare: Pearl Free-Floating, Still the Standard",
+      "brand": "Pearl",
+      "model": "Pearl Free-Floating Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel (Free-Floating shell system)",
+      "description": "George Kollias played the same Pearl Free-Floating 14\" x 6.5\" snare on \"What Should Not Be Unearthed\" that he had used since \"Those Whom the Gods Detest\" (2009) — his third full studio album cycle on the drum. The Free-Floating shell's isolation from lug and throw-off hardware continued to deliver the even, hardware-damping-free response his blast beat technique requires, a consistency that mattered even more with the Demon XR transition introducing a genuinely new variable elsewhere in the setup.\n\nThe medium-high tension tuning carried over unchanged from \"At the Gate of Sethu,\" giving tracks like \"Call to Destruction\" and the title cut the same crack and immediacy that had defined Kollias's sound since 2009. Keeping the snare identical while the pedal changed reflects the same isolate-one-variable approach that shaped the kit decisions on this album.",
+      "tuningSetting": "Medium-high tension, unchanged since 2009",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$500–700 (Pearl Free-Floating snare, 2015 era)"
+    },
+    "cymbals": {
+      "title": "The Cymbals: Meinl Byzance, One Final Album",
+      "brand": "Meinl",
+      "series": "Meinl Byzance Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl 14\" Byzance Medium Hi-Hats",
+          "position": "Left side",
+          "notes": "Unchanged from \"At the Gate of Sethu\" — precise chick and closed articulation"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 17\" Byzance Medium Thin Crash",
+          "position": "Left of hi-hats",
+          "notes": "Fast attack and controlled decay for accent work at speed"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Byzance Medium Crash",
+          "position": "Over rack toms",
+          "notes": "Primary crash for section accents and transitions"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 19\" Byzance Medium Heavy Crash",
+          "position": "Right of toms",
+          "notes": "Full crash for major section endings and climactic passages"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl 20\" Byzance Medium Ride",
+          "position": "Far right",
+          "notes": "Clear stick definition for ride-pattern sections"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" Byzance China",
+          "position": "Above floor tom",
+          "notes": "Aggressive trashy accent texture for heaviest transitions"
+        }
+      ],
+      "description": "\"What Should Not Be Unearthed\" is the last Nile studio album where Meinl Byzance appears as George Kollias's exclusive cymbal voice, before the first Zildjian pieces entered his rig on \"Vile Nilotic Rites\" (2019). The configuration itself — 14\" Byzance Medium hi-hats, a 17\"/18\"/19\" crash spread, a 20\" Byzance Medium ride, and an 18\" Byzance China — is identical to \"At the Gate of Sethu,\" carried forward without alteration.\n\nThe B20 bronze construction continued to deliver the balance Kollias's playing demands: legible articulation at 240+ BPM without losing the tonal complexity that keeps the setup from sounding purely functional. On \"In the Name of Amun\" and \"To Walk Forth from Flames Unscathed,\" the crash spread's dynamic range supports the album's shifts between blast intensity and Nile's atmospheric, Egyptological interludes.\n\nLooking back, this album closes out the classic all-Byzance chapter of Kollias's career — a cymbal voice that had defined every Nile studio album since 2005, about to give way to the mixed Meinl/Zildjian setup of the following record.",
+      "estimatedValue": "$2,000–2,800 total (full Byzance setup, 2015 era)"
+    },
+    "hardware": {
+      "title": "The Demon XR Arrives",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Demon XR Double Pedal (co-designed)",
+          "notes": "Debut album for this pedal — co-designed by Kollias, released in 2015",
+          "description": "\"What Should Not Be Unearthed\" is the first Nile studio album on the Pearl Demon XR, the double bass drum pedal George Kollias co-designed with Pearl's engineers and released the same year this album came out. It replaced the Demon Drive he had played since \"Those Whom the Gods Detest\" (2009) and used through \"At the Gate of Sethu\" (2012). The NiNjA Bearing Universal Joint's elimination of lateral resistance and the Direct Link drive system's zero-loss energy transfer were built directly around demands Kollias had identified across a decade of Nile touring — specifications he had a direct hand in shaping rather than adapting to. Recording this pedal fresh, without years of road-testing behind it yet, makes \"What Should Not Be Unearthed\" a documented starting point for a piece of equipment that would only reach full maturity four years later on \"Vile Nilotic Rites.\""
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl H-2050 Eliminator Hi-Hat Stand",
+          "notes": "Smooth, adjustable action for complex hi-hat work, unchanged from prior albums"
+        },
+        {
+          "type": "Throne",
+          "brand": "Pearl",
+          "model": "Pearl D-3500 Roadster Drum Throne",
+          "notes": "Ergonomic support for extended performances, unchanged from 2012"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth SGK George Kollias Signature",
+          "notes": "Signature model, adopted 2012 — now three years into use by these sessions"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear (batter), Remo Powerstroke 3 ported (resonant)",
+        "toms": "Remo Ambassador Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "technique": {
+      "title": "Techniques on What Should Not Be Unearthed: Adapting to New Equipment",
+      "content": "\"What Should Not Be Unearthed\" captures George Kollias a decade into his Nile tenure, adjusting his fully matured technique to a single new variable: a pedal he helped design himself. The technical performances reflect that specific, contained transition.\n\n**Heel-Toe Recalibration:**\nThe Demon XR's Direct Link drive responds differently under the foot than the Demon Drive it replaced, and Kollias's heel-toe technique required real recalibration in the months before recording. On \"Call to Destruction\" and the title track, sustained double-bass passages show the kind of stroke-to-stroke evenness that suggests a drummer who trusted his new equipment enough to push it at full performance tempo rather than holding back.\n\n**Isolating the Variable:**\nBy keeping the kit, snare, cymbals, and sticks completely unchanged from \"At the Gate of Sethu,\" Kollias made the Demon XR the only new element in the entire signal chain — a deliberate approach that let engineers and the drummer himself isolate exactly what the pedal contributed to the recorded performance.\n\n**Blast Beat Consistency:**\n\"Evil to Cast Out Evil\" and \"Age of Famine\" showcase blast beat execution at the same 230+ BPM range Kollias had sustained since \"Those Whom the Gods Detest,\" evidence that the new pedal did not cost him any of the speed or clarity built over the prior six years.\n\n**Compositional Maturity:**\nTracks like \"In the Name of Amun\" show Kollias balancing extreme-tempo sections against Nile's atmospheric, Egyptian-themed passages with the same intentionality documented on \"At the Gate of Sethu\" — proof that a major equipment change, handled deliberately, need not disrupt a drummer's compositional command of the material.",
+      "tips": [
+        "Change one major piece of equipment at a time — isolate variables to properly evaluate new gear",
+        "New pedal technology requires deliberate technique recalibration before a recording session, not during one",
+        "Co-designed equipment reflects years of identified needs, but still needs real-world break-in time",
+        "Consistency in kit, snare, cymbals, and sticks lets a drummer properly evaluate a single new variable",
+        "Blast beat speed and clarity should not regress during a documented gear transition"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Call to Destruction",
+        "bpm": "210–250",
+        "signature": "4/4 with rhythmic displacement",
+        "highlights": [
+          "Album-opening track establishes the Demon XR's response under full performance tempo",
+          "Sustained double-bass runs show clean stroke-to-stroke evenness on the new pedal",
+          "Meinl Byzance crash spread punctuates the track's dynamic shifts, unchanged from 2012",
+          "Sets the tone for an album built on one deliberate equipment change"
+        ],
+        "gearNotes": "First recorded evidence of the Demon XR's Direct Link drive at full tempo. Pearl Reference Maple attack clarity remains identical to \"At the Gate of Sethu.\""
+      },
+      {
+        "track": "What Should Not Be Unearthed",
+        "bpm": "200–240 (variable sections)",
+        "signature": "4/4 with Egyptian-influenced rhythmic figures",
+        "highlights": [
+          "Title track balances measured, atmospheric passages against full blast intensity",
+          "Byzance ride cymbal carries the track's more hypnotic sections",
+          "Demon XR kick response remains consistent across tempo shifts within the track",
+          "A strong reference point for studying the pedal's early performance character"
+        ],
+        "gearNotes": "Meinl Byzance 20\" ride provides clear stick definition in the track's measured sections. Pearl Free-Floating snare crack unchanged from prior albums."
+      },
+      {
+        "track": "Evil to Cast Out Evil",
+        "bpm": "220–260",
+        "signature": "4/4 — extreme blast density",
+        "highlights": [
+          "Sustained blast beat passage demonstrates no loss of speed or clarity on the new pedal",
+          "Direct comparison point against \"Slaves of Xul\" from \"At the Gate of Sethu\" for pedal evaluation",
+          "Snare crack remains fully defined at maximum blast speed",
+          "Demonstrates the isolate-one-variable approach paying off under real performance pressure"
+        ],
+        "gearNotes": "Demon XR's NiNjA Bearing Universal Joint eliminates lateral resistance at sustained extreme speed. Pearl Free-Floating snare's consistency carries the track's dynamic weight."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit does George Kollias use on What Should Not Be Unearthed?",
+        "answer": "On Nile's 'What Should Not Be Unearthed' (2015, Nuclear Blast), George Kollias played the same Pearl Reference Maple kit documented on 'At the Gate of Sethu' (2012) — double 22\" bass drums, 10/12/14\" rack toms, and a 16\" floor tom — paired with his Pearl Free-Floating 14\" x 6.5\" snare. This is the final Nile studio album on this platform before his 2019 upgrade to the Pearl Masterworks Stadium Exotic. See the full current gear breakdown: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)."
+      },
+      {
+        "question": "What pedal did George Kollias debut on What Should Not Be Unearthed?",
+        "answer": "'What Should Not Be Unearthed' (2015) is the first Nile studio album on the Pearl Demon XR, the double bass drum pedal George Kollias co-designed with Pearl and released that same year, replacing the Demon Drive he had used since 'Those Whom the Gods Detest' (2009). The pedal would go on to reach full maturity four years later on 'Vile Nilotic Rites' (2019). Full drummer profile: [George Kollias at MetalForge](/drummer/george-kollias)."
+      },
+      {
+        "question": "What cymbals does George Kollias use on What Should Not Be Unearthed?",
+        "answer": "George Kollias played an all-Meinl Byzance setup on 'What Should Not Be Unearthed' (2015) — 14\" Medium hi-hats, a 17\"/18\"/19\" crash spread, a 20\" Medium ride, and an 18\" China — identical to 'At the Gate of Sethu' (2012). This is the last Nile studio album with Byzance as his exclusive cymbal voice before the first Zildjian cymbals appeared on 'Vile Nilotic Rites' (2019)."
+      },
+      {
+        "question": "How fast does George Kollias play on What Should Not Be Unearthed?",
+        "answer": "George Kollias sustains blast beats between 200–260 BPM across 'What Should Not Be Unearthed,' with tracks like 'Evil to Cast Out Evil' and 'Age of Famine' showing no loss of speed or clarity despite the new Demon XR pedal introduced this album cycle. He is Guinness World Record-certified for sustaining 280 BPM single strokes. Compare his speed against another extreme-tempo specialist: [George Kollias vs Pete Sandoval](/vs/george-kollias-vs-pete-sandoval)."
+      },
+      {
+        "question": "Why is What Should Not Be Unearthed significant in George Kollias's gear history?",
+        "answer": "'What Should Not Be Unearthed' (Nile, 2015) is the debut album for George Kollias's co-designed Pearl Demon XR pedal, while every other piece of his rig — Pearl Reference Maple kit, Pearl Free-Floating snare, Meinl Byzance cymbals, and Vic Firth SGK signature sticks — carried forward unchanged from 'At the Gate of Sethu' (2012). It closes out the classic Byzance-and-Reference-Maple chapter of his career before 'Vile Nilotic Rites' (2019) introduced Zildjian cymbals and the Pearl Masterworks Stadium Exotic. See the complete arc: [At the Gate of Sethu drum setup (2012)](/articles/at-the-gate-of-sethu-drum-setup) and [Vile Nilotic Rites drum setup (2019)](/articles/vile-nilotic-rites-drum-setup)."
+      }
+    ],
+    "relatedAlbums": [
+      "at-the-gate-of-sethu-drum-setup",
+      "vile-nilotic-rites-drum-setup",
+      "those-whom-the-gods-detest-drum-setup",
+      "ithyphallic-drum-setup",
+      "george-kollias-nile-annihilation-drum-setup",
+      "whats-in-george-kollias-kit"
+    ],
+    "relatedDrummers": [
+      3,
+      23,
+      4
+    ],
+    "relatedArticles": [
+      "blast-beat-techniques",
+      "fastest-metal-drummers",
+      "extreme-metal-drums"
+    ],
+    "conclusion": {
+      "title": "The Quiet Bridge Between Two Eras",
+      "content": "\"What Should Not Be Unearthed\" rarely tops lists of Nile's most celebrated albums, but it closes the last gap in George Kollias's Nile drum-setup arc. It is the album where the Demon XR — the pedal that would define his modern rig — first appeared on record, while every other piece of his equipment stayed exactly as documented on \"At the Gate of Sethu\" three years earlier.\n\nKey takeaways for drummers studying this album:\n\n- **Isolate one variable at a time**: Kollias changed only the pedal for this album cycle, keeping kit, snare, cymbals, and sticks identical to the prior record\n- **Co-designed gear needs its own break-in period**: the Demon XR heard here is a fresh install, distinct from the fully matured version documented on \"Vile Nilotic Rites\" four years later\n- **Byzance's final chapter**: this is the last Nile album with an exclusively Meinl Byzance cymbal voice before the Zildjian era began\n- **A bridge, not a reinvention**: the album connects the matured Reference Maple/Byzance era to the modern Masterworks Stadium Exotic/Zildjian rig\n\nInternal links for the complete George Kollias picture:\n- **Full drummer profile**: [George Kollias at MetalForge](/drummer/george-kollias)\n- **Nile band page**: [Nile at MetalForge](/bands/nile)\n- **Debut Nile album**: [Annihilation of the Wicked drum setup (2005)](/articles/george-kollias-nile-annihilation-drum-setup)\n- **The bridge album**: [Ithyphallic drum setup (2007)](/articles/ithyphallic-drum-setup)\n- **The Pearl transition**: [Those Whom the Gods Detest drum setup (2009)](/articles/those-whom-the-gods-detest-drum-setup)\n- **The matured Byzance era**: [At the Gate of Sethu drum setup (2012)](/articles/at-the-gate-of-sethu-drum-setup)\n- **The modern rig arrives**: [Vile Nilotic Rites drum setup (2019)](/articles/vile-nilotic-rites-drum-setup)\n- **Current complete gear**: [What's in George Kollias's Kit](/articles/whats-in-george-kollias-kit)\n\nSix albums, fourteen years, one continuously evolving rig — and this is the quiet middle chapter where the modern era's defining pedal was born."
+    },
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "George Kollias Drum Setup: Nile's 'What Should Not Be Unearthed' (2015) Gear Breakdown",
+          "description": "Discover the exact drum kit, cymbals, and pedals George Kollias used on Nile's 'What Should Not Be Unearthed' (2015) — the album that debuted his co-designed Pearl Demon XR pedal alongside his matured Pearl Reference Maple and Meinl Byzance setup.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-07",
+          "dateModified": "2026-07-07"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": "https://metalforge.io"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Articles",
+              "item": "https://metalforge.io/articles"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "What Should Not Be Unearthed Drum Setup",
+              "item": "https://metalforge.io/articles/what-should-not-be-unearthed-drum-setup"
+            }
+          ]
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "What Should Not Be Unearthed",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Nile"
+          },
+          "datePublished": "2015-08-28",
+          "genre": "Technical Death Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Nuclear Blast"
+          },
+          "track": [
+            {
+              "@type": "MusicRecording",
+              "name": "Call to Destruction"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Negating the Abominable Coils of Apep"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Liber Stellae Rubeae"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "In the Name of Amun"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "What Should Not Be Unearthed"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Evil to Cast Out Evil"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Age of Famine"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Ushabti Reanimator"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "Rape of the Black Earth"
+            },
+            {
+              "@type": "MusicRecording",
+              "name": "To Walk Forth from Flames Unscathed"
+            }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "George Kollias",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Nile"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drum kit does George Kollias use on What Should Not Be Unearthed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "George Kollias played the same Pearl Reference Maple kit documented on 'At the Gate of Sethu' (2012) — double 22\" bass drums, 10/12/14\" rack toms, and a 16\" floor tom — paired with his Pearl Free-Floating 14\" x 6.5\" snare. This is the final Nile studio album on this platform before his 2019 upgrade to the Pearl Masterworks Stadium Exotic."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What pedal did George Kollias debut on What Should Not Be Unearthed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "'What Should Not Be Unearthed' (2015) is the first Nile studio album on the Pearl Demon XR, the double bass drum pedal George Kollias co-designed with Pearl and released that same year, replacing the Demon Drive he had used since 'Those Whom the Gods Detest' (2009)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals does George Kollias use on What Should Not Be Unearthed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "George Kollias played an all-Meinl Byzance setup — 14\" Medium hi-hats, a 17\"/18\"/19\" crash spread, a 20\" Medium ride, and an 18\" China — identical to 'At the Gate of Sethu' (2012). This is the last Nile studio album with Byzance as his exclusive cymbal voice before Zildjian cymbals appeared on 'Vile Nilotic Rites' (2019)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How fast does George Kollias play on What Should Not Be Unearthed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "George Kollias sustains blast beats between 200–260 BPM across 'What Should Not Be Unearthed,' with no loss of speed or clarity despite the new Demon XR pedal introduced this album cycle. He is Guinness World Record-certified for sustaining 280 BPM single strokes."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why is What Should Not Be Unearthed significant in George Kollias's gear history?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "'What Should Not Be Unearthed' (2015) is the debut album for George Kollias's co-designed Pearl Demon XR pedal, while every other piece of his rig carried forward unchanged from 'At the Gate of Sethu' (2012). It closes out the classic Byzance-and-Reference-Maple chapter of his career before 'Vile Nilotic Rites' (2019) introduced Zildjian cymbals and the Pearl Masterworks Stadium Exotic."
               }
             }
           ]

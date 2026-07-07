@@ -90,10 +90,10 @@ A: George Kollias played the Pearl Demon XR double bass drum pedal on 'Vile Nilo
 
 **Q: Why is Vile Nilotic Rites significant in George Kollias's gear history?**
 
-A: 'Vile Nilotic Rites' (Nile, 2019) marks George Kollias's transition to the Pearl Masterworks Stadium Exotic kit that remains his current flagship setup, and documents the first Zildjian cymbals entering his rig alongside his long-standing Meinl Byzance pieces. Produced by guitarist Karl Sanders with drums tracked in Kollias's native Athens, Greece, it is Nile's most recent studio album and completes a 5-album Nile drum-setup arc spanning 'Annihilation of the Wicked' (2005) through 2019. See the complete arc: [Ithyphallic drum setup (2007)](/articles/ithyphallic-drum-setup) and [At the Gate of Sethu drum setup (2012)](/articles/at-the-gate-of-sethu-drum-setup).
+A: 'Vile Nilotic Rites' (Nile, 2019) marks George Kollias's transition to the Pearl Masterworks Stadium Exotic kit that remains his current flagship setup, and documents the first Zildjian cymbals entering his rig alongside his long-standing Meinl Byzance pieces. Produced by guitarist Karl Sanders with drums tracked in Kollias's native Athens, Greece, it is Nile's most recent studio album and completes a 6-album Nile drum-setup arc spanning 'Annihilation of the Wicked' (2005) through 2019. See the complete arc: [Ithyphallic drum setup (2007)](/articles/ithyphallic-drum-setup), [At the Gate of Sethu drum setup (2012)](/articles/at-the-gate-of-sethu-drum-setup), and [What Should Not Be Unearthed drum setup (2015)](/articles/what-should-not-be-unearthed-drum-setup).
 
 **Source:** https://metalforge.io/articles/vile-nilotic-rites-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-07 · Source: [MetalForge.io](https://metalforge.io)*

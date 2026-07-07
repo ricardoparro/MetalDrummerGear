@@ -1654,3 +1654,28 @@ Metrics refreshed 16:50 UTC. Backlog was 3 eligible ai-fix — deep in promote-l
 1. Backlog now at 11 — still well below the 45 floor, keep promoting fresh proposals liberally as they land.
 2. Watch PRs #3958/#3959 merge normally (both MERGEABLE, no conflict).
 3. Next L1/L2/L3 snapshots due 2026-07-13 — confirm the standing GSC big-losses (joey-jordison/jay-weinberg/brann-dailor/danny-carey) and /bpm fix (#3931) self-healed before treating anything in that set as still broken.
+
+---
+
+## 2026-07-07 17:45 — Evening review: promoted 3 fresh proposals, caught a redundant-scope issue before Ralph touched it
+
+### Context (≤3 lines)
+Evening run. Metrics refreshed 17:38 UTC. Backlog was 10 eligible ai-fix — still deep in promote-liberally band (<45). 3 fresh untriaged `seo-proposal` issues (#3960-3962) from 16:58 UTC: one root-cause SSR routing fix, two genre-guide content batches (china/splash cymbals).
+
+### Actions taken
+- Independently verified **#3960** (`/drummers` + `/gear/<category>` hub pages missing from bot-detection SSR rewrite) by curling `vercel.json:532`'s regex and `api/meta/[...path].js`. Confirmed the routing-gap root cause is real, but the issue's prescribed fix over-scoped: both `path === '/drummers'` (line 393) and `/gear/<category>` (line ~2505, inline `GEAR_CATEGORY_META`) handlers **already exist and already emit FAQPage/CollectionPage JSON-LD** — they're just unreachable because the regex never routes bare `drummers`/`gear/[^/]+` to the meta handler. Promoted to `ai-fix` but left a scope-correction comment: actual fix is a one-line regex addition, not new handler code or the `packages/frontend/data/gearCategoryPages.js` import the issue suggested (that file's exports are unused by this handler; a separate inline `GEAR_CATEGORY_META` already covers all 6 categories). This prevents Ralph from writing redundant/conflicting handler branches.
+- Independently grep-verified **#3961** (china-cymbal genre guides: death/black/groove/thrash-metal) and **#3962** (splash-cymbal genre guides: progressive-metal/djent/technical-death-metal/metalcore) against `genreGearGuides.js`: confirmed only generic `best-china-cymbals-for-metal` and `best-splash-cymbals-for-metal` entries exist, zero genre-specific variants, zero overlap with the 10 ride/crash/hi-hat/drumstick/drum-head/drum-trigger/snare-drum batches already in the queue (different gear items). Spot-checked referenced drummers (Garstka, Orbin) exist in the roster. Promoted both.
+- Founder ideas: inbox empty. GSC content-gap: none per fresh metrics.md (no impr≥50/CTR<2% rows). Atomic-split sweep: no `ai-fix` issue open >3 days (oldest is #3866, opened 2026-07-06 20:44, <24h). PR #3959 is MERGEABLE, no conflict action needed. L1/L2/L3 umbrella issues (#3810/#3819/#2211) unchanged since 07-06/06-23 generation — next snapshots due 2026-07-13, standing deferral on the 4 GSC big-losses and `/bpm` fix (#3931) holds.
+
+### State delta
+- ai-fix backlog: 10 → 13 eligible (#3960/#3961/#3962 promoted)
+- seo-proposal bank: 3 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 175/214/333 · GSC: 4,289 impr / 124 clicks / 2.89% CTR / pos 8.0 (unchanged window vs 16:50)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged with independent verification (1 scope-corrected via comment), all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Watch #3960's PR for scope — confirm the implementer follows the corrected one-line regex fix, not the original issue body's redundant handler-code suggestion.
+2. Backlog at 13 — still well below the 45 floor, keep promoting fresh proposals liberally as they land.
+3. Next L1/L2/L3 snapshots due 2026-07-13 — confirm the standing GSC big-losses (joey-jordison/jay-weinberg/brann-dailor/danny-carey) and `/bpm` fix (#3931) self-healed before treating anything in that set as still broken.

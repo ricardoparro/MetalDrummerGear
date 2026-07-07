@@ -529,7 +529,7 @@
     { "source": "/api/gear/:slug/:category", "destination": "/api/gear/[slug]/[category]?slug=:slug&category=:category" },
     { "source": "/privacy", "destination": "/privacy.html" },
     {
-      "source": "^/(drummer/[^/]+|genre/[^/]+|genres|bands/[^/]+|vs/[^/]+|technique/[^/]+/drummers|technique/[^/]+|licks|drummers/[^/]+/licks/[^/]+|drummers/[^/]+/licks|lists/[^/]+|guides/[^/]+|battles/[^/]+|quotes|gear/[^/]+/[^/]+/drummers-using|drummers/[^/]+/gear-history|drummers/[^/]+/signature/[^/]+|articles/[^/]+|bpm|bpm-tap)$",
+      "source": "^/(drummer/[^/]+|drummers|genre/[^/]+|genres|bands/[^/]+|vs/[^/]+|technique/[^/]+/drummers|technique/[^/]+|licks|drummers/[^/]+/licks/[^/]+|drummers/[^/]+/licks|lists/[^/]+|guides/[^/]+|battles/[^/]+|quotes|gear/[^/]+/[^/]+/drummers-using|gear/[^/]+|drummers/[^/]+/gear-history|drummers/[^/]+/signature/[^/]+|articles/[^/]+|bpm|bpm-tap)$",
       "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }],
       "destination": "/api/meta/[...path]?path=$1"
     },

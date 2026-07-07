@@ -1479,6 +1479,80 @@ function getMetaForPath(pathname) {
       };
     }
 
+    // Issue #3973: /articles/:slug never checked TOP_10_LISTS entries flagged isArticle:true
+    // (App.js:19273 — these 12 slugs are served at /articles/:slug client-side but only
+    // existed in the /lists/:slug meta branch below, so they hit the generic fallback here).
+    // Reuse the same ItemList+FAQPage schema shape as the /lists/:slug branch (~line 2300).
+    // Unlike /lists/:slug's `list.items`, these entries have no flat `items` array — resolve
+    // drummerIds (already rank-ordered) + rankings against the drummers roster instead.
+    const top10Article = TOP_10_LISTS[articleSlug];
+    if (top10Article && top10Article.isArticle) {
+      const rankedDrummers = (top10Article.drummerIds || [])
+        .map(id => drummers.find(d => d.id === id))
+        .filter(Boolean);
+      return {
+        title: `${top10Article.title} | ${SITE_NAME}`,
+        description: top10Article.seoDescription || top10Article.description,
+        image: top10Article.ogImage || DEFAULT_IMAGE,
+        type: 'article',
+        url: `${BASE_URL}/articles/${articleSlug}`,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@graph': [
+            {
+              '@type': 'ItemList',
+              name: top10Article.title,
+              description: top10Article.seoDescription || top10Article.description,
+              url: `${BASE_URL}/articles/${articleSlug}`,
+              numberOfItems: rankedDrummers.length || 10,
+              publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+              itemListElement: rankedDrummers.slice(0, 10).map((d, i) => ({
+                '@type': 'ListItem',
+                position: i + 1,
+                name: d.name,
+                url: `${BASE_URL}/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
+              })),
+            },
+            {
+              '@type': 'FAQPage',
+              mainEntity: [
+                {
+                  '@type': 'Question',
+                  name: `Who tops the ${top10Article.title}?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `The #1 ranked entry in ${top10Article.title} on MetalForge is ${rankedDrummers[0]?.name || 'featured on the MetalForge ranked list'}. See the full ranked list at metalforge.io/articles/${articleSlug}.`,
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: `How is the ${top10Article.title} determined?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `The ${top10Article.title} is curated by MetalForge editors based on technique, innovation, influence, and community recognition within the metal genre.`,
+                  },
+                },
+                {
+                  '@type': 'Question',
+                  name: `How many drummers are on the ${top10Article.title}?`,
+                  acceptedAnswer: {
+                    '@type': 'Answer',
+                    text: `The ${top10Article.title} features ${rankedDrummers.length || 10} professional metal drummers ranked by MetalForge.`,
+                  },
+                },
+              ],
+            },
+          ],
+        }),
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Articles', url: `${BASE_URL}/articles` },
+          { name: top10Article.title, url: `${BASE_URL}/articles/${articleSlug}` },
+        ],
+        speakableSchema: true,
+      };
+    }
+
     // Fallback for unknown articles
     return {
       title: `Drum Gear Article | ${SITE_NAME}`,

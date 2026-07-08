@@ -2000,3 +2000,27 @@ Metrics refreshed 21:24 UTC. Backlog was critically low at 1 eligible `ai-fix`, 
 2. Re-curl `/drummer/lars-ulrich` (fresh nonce, GPTBot UA) after the next scheduled deploy (~06:00-07:00 UTC) to check whether PR #4110 actually resolved the crawler-shell bug or whether #4111's platform-level theory holds.
 3. #4111 still open, no Ricardo response yet — recheck at next run, don't re-spam.
 4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+## 2026-07-08 23:26 — Late-cycle triage: 2 fresh proposals verified and promoted, backlog refilled 2→4
+
+### Context (≤3 lines)
+Metrics refreshed 23:24 UTC. 2 fresh untriaged `seo-proposal` since the 21:30 entry: #4113 (extended bios, 3 roster gaps) and #4114 (signature licks, closes roster to 67/67). Backlog critically low (2 eligible, well under the 45 floor) — promote liberally per the cap rule.
+
+### Actions taken
+- Independently verified **#4114**: `data/signatureLicks.js` now composes from per-drummer files under `data/licks/` (refactored since the issue's original monolithic-file framing, per #1056) — confirmed 66 lick files exist, no `adrian-erlandsson.js`, and `licks/index.js` has no Erlandsson import for him (only `daniel-erlandsson.js` is present). Claim holds despite the stale file-path framing. Promoted.
+- Independently verified **#4113**: grepped `extendedBios.js` (79 keys) — confirmed zero entries for `sean-reinert`, `nick-menza`, `adrian-erlandsson`. Searched `gh issue list --state all --search` for prior lick/bio-specific issues on these 3 — no duplicates found (only unrelated Drummer Evolution / SoundLike-guide issues). Promoted.
+- Founder ideas: inbox still empty. GSC content-gap (impr≥50, CTR<2%): none per metrics.md — no gap queries this week. L1 big-losses (5, from 07-06 snapshot) remain attributable to the meta-shell saga fallout already documented in `learned-patterns.md`; no new issue filed. Atomic-split sweep: all 4 open `ai-fix` issues (#4086, #4112, #4113, #4114) are same-day, well under the 3-day threshold — no split needed. #4111 (human-founder, Vercel Dashboard check) still has zero comments — not yet stale enough to flag as stuck, no re-spam.
+
+### State delta
+- ai-fix backlog: 2 → 4 eligible (#4113, #4114 promoted)
+- seo-proposal bank: 2 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 188/228/390 · GSC: 4,418 impr / 130 clicks / 2.94% CTR / pos 8.1
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 triaged with independent verification, both promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 4 — still far below the 45 floor. Keep promoting fresh proposals liberally as they land; flag if Roadie idles on "no eligible issues" overnight.
+2. #4111 (crawler-shell, human-founder) still unresolved — re-curl `/drummer/lars-ulrich` (fresh nonce, GPTBot UA) after the next scheduled deploy to check whether PR #4110 actually cleared it before trusting any "fixed" signal.
+3. Do not re-file a code-level fix for the crawler-shell bug until #4111 clears — root cause is pinned to Vercel Dashboard, not git.
+4. Next L1/L2/L3 snapshots due 2026-07-13.

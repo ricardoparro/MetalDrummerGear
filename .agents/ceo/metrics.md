@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-08 22:20 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-08 23:24 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 187 |
-| Sessions | 227 |
+| Active users | 188 |
+| Sessions | 228 |
 | Page views | 390 |
-| Engagement rate | 63.00% |
-| Avg session (s) | 168 |
+| Engagement rate | 62.72% |
+| Avg session (s) | 169 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -26,7 +26,7 @@
 | /drummer/ben-koller | 10 | 7 |
 | /drummer/matt-greiner | 10 | 10 |
 | /drummer/mikkey-dee | 8 | 6 |
-| /articles/none-so-vile-drum-setup | 7 | 5 |
+| /articles/none-so-vile-drum-setup | 7 | 6 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
@@ -34,7 +34,7 @@
 | Organic Search | 177 | 147 |
 | Direct | 32 | 24 |
 | Unassigned | 19 | 16 |
-| Cross-network | 12 | 12 |
+| Cross-network | 13 | 13 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

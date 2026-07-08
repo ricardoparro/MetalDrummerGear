@@ -9308,6 +9308,366 @@ Kublai Khan TX draws influence from early 1990s metallic hardcore bands like Int
         ]
       }
     }
+  },
+
+  // Sean Reinert - Death, Cynic (Issue #4113)
+  'sean-reinert': {
+    slug: 'sean-reinert',
+    drummerId: 59,
+    name: 'Sean Reinert',
+    bands: [
+      { slug: 'death', period: '1990-1992', role: 'Drummer' },
+      { slug: 'cynic', period: '1987-1994, 2006-2017', role: 'Drummer, co-founder' },
+      { slug: 'aghora', period: '2000-2005', role: 'Drummer' }
+    ],
+    metaTitle: 'Sean Reinert Drum Kit & Gear Setup — Death & Cynic Drummer | MetalForge',
+    metaDescription: 'Complete biography of Sean Reinert, the jazz-trained drummer behind Death\'s Human (1991) and Cynic\'s Focus (1993). Explore his polyrhythmic technique, DW Collector\'s Series setup, and lasting influence on technical death metal.',
+    ogImage: '/images/drummers/sean-reinert.webp',
+    keywords: ['technical death metal', 'death band', 'cynic', 'jazz fusion metal', 'dw collectors series', 'progressive death metal', 'human album drums'],
+    relatedDrummers: ['flo-mounier', 'hannes-grossmann', 'martin-lopez'],
+    summary: 'Sean Reinert (1971-2020), drummer on Death\'s Human (1991) and Cynic\'s Focus (1993), pioneered jazz-informed polyrhythmic technique in technical death metal.',
+    lastUpdated: '2026-07-08',
+    imageAlt: 'Sean Reinert playing drums in the studio during the Death Human era',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Sean Reinert (January 23, 1971 – January 24, 2020) was an American drummer widely regarded as one of the most innovative and influential musicians in extreme metal history. He is best known for his drumming on Death's landmark 1991 album Human, recorded at Morrisound Recording with producer Scott Burns when Reinert was just 20 years old, and on Cynic's Focus (1993), the band he co-founded with guitarist/vocalist Paul Masvidal in Miami, Florida.
+
+Reinert brought a jazz-trained musical vocabulary into death metal at a moment when the genre was defined almost entirely by blast-beat velocity. His ghost notes, dynamic control, and polymetric phrasing on Human are widely credited as the birth of progressive death metal — proof that extreme metal drumming could be both punishing and genuinely musical. Reinert passed away on January 24, 2020, one day after his 49th birthday, leaving behind a body of work that remains a touchstone for technical and progressive death metal drummers.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1987', event: 'Co-founded Cynic in Miami, Florida, with guitarist/vocalist Paul Masvidal' },
+          { year: '1990', event: 'Joined Death, Chuck Schuldiner\'s pioneering death metal band' },
+          { year: '1991', event: 'Recorded Human at Morrisound Recording, widely considered the birth of progressive death metal' },
+          { year: '1993', event: 'Released Focus with Cynic, fusing death metal intensity with jazz-fusion complexity' },
+          { year: '1999', event: 'Contributed to Gordian Knot\'s Emergent alongside Sean Malone' },
+          { year: '2006', event: 'Reunited with Cynic after a 12-year hiatus' },
+          { year: '2008', event: 'Released Traced in Air with Cynic on a DW Collector\'s Series maple kit' },
+          { year: '2020', event: 'Passed away on January 24, 2020, one day after his 49th birthday' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Sean Reinert's drumming style fused jazz-informed technique with death metal power. His approach centered on dynamic extremes, polymetric phrasing, and a ghost-note vocabulary borrowed directly from jazz drumming — elements almost unheard of in death metal before Human. Rather than treating technicality as a display of speed, Reinert used it to serve the compositions he shared with Chuck Schuldiner and Paul Masvidal.
+
+**Key Influences:**
+- **Jazz drumming tradition**: Classical and jazz training shaped his ghost notes, ride-cymbal phrasing, and dynamic sensitivity
+- **Weather Report-style fusion**: A direct influence on Cynic's Focus and its complex, layered arrangements
+- **Chuck Schuldiner (Death)**: Collaborative songwriting that pushed Reinert's musicality within a death metal framework
+
+**Signature Techniques:**
+- Sustained jazz-fusion ride patterns deployed inside blast-beat-tempo death metal, most notably on the K Custom Dry Ride
+- Polyrhythmic and polymetric phrasing that broke from standard death metal time-keeping
+- Ghost-note-driven dynamic range across songs, rather than constant maximum intensity
+- Compositional double bass used as musical phrasing rather than pure speed`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Death - Human', year: 1991, label: 'Relativity Records', note: 'Widely considered the birth of progressive death metal' },
+          { name: 'Cynic - Focus', year: 1993, label: 'Roadrunner Records', note: 'Landmark jazz-fusion death metal album' },
+          { name: 'Gordian Knot - Emergent', year: 1999, label: 'Sensory Records', note: 'Progressive metal side project with Sean Malone' },
+          { name: 'Cynic - Traced in Air', year: 2008, label: 'Season of Mist', note: 'Cynic reunion album on a DW Collector\'s Series kit' }
+        ],
+        tours: [
+          { name: 'Human Tour', year: '1991', note: 'Limited touring dates supporting Death\'s Human' },
+          { name: 'Focus Tour', year: '1993', note: 'Supporting Death on select dates' },
+          { name: 'Cynic Reunion Touring', year: '2006-2017', note: 'Global touring following Cynic\'s reformation' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Sean Reinert was an early DW endorsee, playing a DW Collector's Series maple shell kit throughout his tenure in Death and on Cynic's Focus. The warm, open maple tone gave his ghost-note-driven, dynamically expansive playing a resonance rarely heard in early-1990s death metal production.
+
+**Human/Focus-Era Setup (1991-1993):**
+- **Drums**: DW Collector's Series maple, 22" kick, 10"/12"/13"/14"/16" toms
+- **Snare**: DW Collector's 14"x5.5" maple, die-cast hoops
+- **Cymbals**: Zildjian A Series (Human) transitioning to darker Zildjian K Series (Focus)
+- **Hardware**: DW 5000 single-chain double pedal
+- **Sticks**: Vic Firth American Classic 5A
+- **Heads**: Remo Ambassador (clear toms, coated snare)
+
+**Notable Gear Evolution:**
+- Switched from Zildjian A to the darker, more complex Zildjian K Series for Cynic's Focus
+- Tuned his snare higher and more open on Focus to suit the album's jazz-fusion textures
+- Upgraded to a DW Collector's maple shell pack and Zildjian K Custom cymbals for Cynic's 2008 reunion album, Traced in Air
+- Maintained a fluid, fusion-informed double-bass technique rather than the brute-force approach common among death metal peers`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Co-founded Cynic in 1987 with Paul Masvidal, years before joining Death',
+          'Recorded Human with Death at just 20 years old',
+          'Used traditional grip on his left hand, a direct carryover from his jazz training, paired with matched grip on his right',
+          'His ride cymbal work on Human was influenced by jazz "spang-a-lang" phrasing rather than standard death metal 16th-note patterns',
+          'Contributed to Gordian Knot\'s Emergent (1999) during Cynic\'s 12-year hiatus',
+          'Cynic reunited in 2006 and released Traced in Air in 2008, their first album in 15 years',
+          'Passed away on January 24, 2020, one day after turning 49'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What albums did Sean Reinert play drums on?', a: 'Sean Reinert\'s best-known recordings are Death\'s Human (1991) and Cynic\'s Focus (1993), plus Gordian Knot\'s Emergent (1999) and Cynic\'s reunion album Traced in Air (2008).' },
+          { q: 'What drum kit did Sean Reinert use on Human?', a: 'Sean Reinert played a DW Collector\'s Series maple shell kit with a 14"x5.5" maple snare, Zildjian A Series cymbals, and a DW 5000 double pedal on Death\'s Human.' },
+          { q: 'Did Sean Reinert play jazz before death metal?', a: 'Yes. Reinert had classical and jazz training that directly shaped his ghost notes, dynamic control, and polyrhythmic phrasing, which he brought into Death and Cynic.' },
+          { q: 'When did Sean Reinert co-found Cynic?', a: 'Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal in Miami, Florida, before joining Death in 1990.' },
+          { q: 'When did Sean Reinert die?', a: 'Sean Reinert passed away on January 24, 2020, one day after his 49th birthday.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Decibel Magazine — Human 20th Anniversary Feature', url: 'https://decibelmagazine.com' },
+          { name: 'Modern Drummer Magazine', url: 'https://www.moderndrummer.com' },
+          { name: 'Wikipedia: Sean Reinert', url: 'https://en.wikipedia.org/wiki/Sean_Reinert' },
+          { name: 'Discogs: Sean Reinert', url: 'https://www.discogs.com/artist/258561-Sean-Reinert' }
+        ]
+      }
+    }
+  },
+
+  // Nick Menza - Megadeth (Issue #4113)
+  'nick-menza': {
+    slug: 'nick-menza',
+    drummerId: 53,
+    name: 'Nick Menza',
+    bands: [
+      { slug: 'megadeth', period: '1989-1998, 2004', role: 'Drummer' },
+      { slug: 'ohm', period: '2004-2016', role: 'Drummer' }
+    ],
+    metaTitle: 'Nick Menza Drum Kit & Gear Setup — Megadeth Drummer | MetalForge',
+    metaDescription: 'Complete biography of Nick Menza, Megadeth\'s drummer on Rust in Peace and Countdown to Extinction. Explore his double-bass precision, Tama/Pearl gear evolution, and legacy in Big Four thrash metal.',
+    ogImage: '/images/drummers/nick-menza.webp',
+    keywords: ['thrash metal', 'megadeth', 'big four', 'rust in peace', 'tama swingstar', 'pearl drums', 'nick menza drum kit'],
+    relatedDrummers: ['dirk-verbeuren', 'charlie-benante', 'gene-hoglan'],
+    summary: 'Nick Menza (1964-2016), Megadeth\'s drummer from 1989-1998, powered Rust in Peace and Countdown to Extinction with surgical double-bass precision.',
+    lastUpdated: '2026-07-08',
+    imageAlt: 'Nick Menza performing live with Megadeth during the Rust in Peace era',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Nick Menza (July 23, 1964 – May 21, 2016) was an American drummer best known as Megadeth's drummer from 1989 to 1998, the period that produced the band's most celebrated albums: Rust in Peace (1990), Countdown to Extinction (1992), Youthanasia (1994), and Cryptic Writings (1997). He joined Megadeth initially as a drum technician before stepping into the drum seat, and quickly became a defining voice of Big Four thrash metal.
+
+Menza's playing was distinguished by surgical double-bass precision at 180-200 BPM — clean, articulate kick patterns rather than a blur of raw speed — paired with a sharp, rimshot-heavy snare crack that cut through Megadeth's dense guitar arrangements. He was fired from Megadeth in 1998 following a knee injury, briefly rejoined in 2004, and later drummed for the jazz-metal fusion group OHM. Menza died on May 21, 2016, collapsing on stage at age 51 during an OHM performance in Woodland Hills, California.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1989', event: 'Joined Megadeth, initially as a drum technician before becoming full-time drummer' },
+          { year: '1990', event: 'Recorded Rust in Peace, widely considered one of thrash metal\'s greatest albums' },
+          { year: '1992', event: 'Recorded Countdown to Extinction, Megadeth\'s commercial and critical peak' },
+          { year: '1994', event: 'Recorded Youthanasia on an upgraded Pearl Masterworks kit' },
+          { year: '1997', event: 'Recorded Cryptic Writings, his final full studio album with Megadeth' },
+          { year: '1998', event: 'Fired from Megadeth following a knee injury' },
+          { year: '2004', event: 'Briefly rejoined Megadeth before departing again' },
+          { year: '2016', event: 'Passed away on stage on May 21, 2016, during a performance with OHM' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Nick Menza's drumming combined speed with control, prioritizing precision over raw power at every tempo. His double-bass patterns stayed clean and articulate even at Megadeth's fastest passages, avoiding the blurred, muddy kick work that plagued lesser thrash drummers of the era. His snare work relied heavily on rimshots, tuned tight for a sharp, high-pitched crack that punched through Dave Mustaine and Marty Friedman's layered guitar attack.
+
+**Key Influences:**
+- **Big Four thrash contemporaries**: Shared vocabulary with peers like Dave Lombardo and Charlie Benante while carving a more controlled, articulate niche
+- **Progressive and jazz-fusion drumming**: Later informed his post-Megadeth work with jazz-metal group OHM
+
+**Signature Techniques:**
+- Heel-up double-bass technique maintaining even velocity at 180-200 BPM
+- Tight-tuned snare with consistent rimshot placement for a signature high-pitched crack
+- Triplet and polyrhythmic fills layered over straight thrash grooves, most famously on "Tornado of Souls"
+- Groove-based playing that adapted to Megadeth's more accessible mid-1990s material without losing technical precision`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'Megadeth - Rust in Peace', year: 1990, label: 'Capitol Records', note: 'Landmark thrash metal album; "Holy Wars," "Tornado of Souls"' },
+          { name: 'Megadeth - Countdown to Extinction', year: 1992, label: 'Capitol Records', note: 'Megadeth\'s commercial and critical peak' },
+          { name: 'Megadeth - Youthanasia', year: 1994, label: 'Capitol Records', note: 'Polished, arena-scale thrash' },
+          { name: 'Megadeth - Cryptic Writings', year: 1997, label: 'Capitol Records', note: 'Menza\'s final full studio album with the band' }
+        ],
+        tours: [
+          { name: 'Rust in Peace Tour', year: '1990-1991', note: 'Supporting Megadeth\'s thrash masterpiece' },
+          { name: 'Clash of the Titans Tour', year: '1990-1991', note: 'Co-headlining tour with Slayer, Anthrax, and Testament' },
+          { name: 'Countdown to Extinction Tour', year: '1992-1993', note: 'Megadeth\'s commercial breakthrough touring cycle' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Nick Menza's Rust in Peace-era rig centered on a Tama Swingstar 5-piece kit — a mid-range, working drummer's kit rather than a prestige endorsement — paired with Zildjian A Series cymbals and a DW 5000 double pedal. Its poplar shells delivered the tight, dry sound that became a benchmark for thrash drum production.
+
+**Rust in Peace-Era Setup (1990):**
+- **Drums**: Tama Swingstar 5-piece, poplar shells (22"x16" kick, 12"x10"/13"x11" racks, 16"x16" floor)
+- **Snare**: Tama Steel 14"x5.5", 8-lug
+- **Cymbals**: Zildjian A Series (14" hi-hats, 16"/18" crashes, 20" ride)
+- **Hardware**: DW 5000 double pedal
+- **Sticks**: Vic Firth American Classic 5B
+- **Heads**: Remo Ambassador (clear toms), Powerstroke 3 (kick batter)
+
+**Notable Gear Evolution:**
+- Upgraded to Pearl Masters for Countdown to Extinction (1992), seeking a more resonant, powerful sound
+- Moved to Pearl Masterworks for Youthanasia (1994), the most premium kit of his career
+- Settled on a Pearl Reference Custom setup — his flagship professional tier — for Cryptic Writings (1997)
+- His choice of a modest Tama Swingstar over a prestige kit for Rust in Peace reflected a practical, working-drummer sensibility`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Joined Megadeth in 1989 as a drum technician before taking over the drum seat',
+          'His tight, dry Rust in Peace drum sound is widely cited as a benchmark for thrash metal production',
+          'Delivered some of thrash metal\'s most technically demanding drumming on "Holy Wars," "Hangar 18," and "Tornado of Souls"',
+          'Fired from Megadeth in 1998 following a knee injury',
+          'Briefly rejoined Megadeth in 2004 before departing again',
+          'Later drummed for OHM, a jazz-metal fusion group',
+          'Collapsed and died on stage during an OHM performance in Woodland Hills, California, on May 21, 2016, at age 51'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What albums did Nick Menza play drums on with Megadeth?', a: 'Nick Menza recorded Rust in Peace (1990), Countdown to Extinction (1992), Youthanasia (1994), and Cryptic Writings (1997) with Megadeth.' },
+          { q: 'What drum kit did Nick Menza use on Rust in Peace?', a: 'Nick Menza played a Tama Swingstar 5-piece kit with poplar shells, Zildjian A Series cymbals, and a DW 5000 double pedal on Rust in Peace.' },
+          { q: 'Why did Nick Menza leave Megadeth?', a: 'Nick Menza was fired from Megadeth in 1998 following a knee injury; he briefly rejoined the band in 2004 before departing again.' },
+          { q: 'How did Nick Menza die?', a: 'Nick Menza collapsed on stage and passed away on May 21, 2016, at age 51, during a performance with the jazz-metal fusion group OHM.' },
+          { q: 'When did Nick Menza join Megadeth?', a: 'Nick Menza joined Megadeth in 1989, initially working as a drum technician before becoming the band\'s full-time drummer.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Modern Drummer Magazine — Nick Menza Feature', url: 'https://www.moderndrummer.com' },
+          { name: 'Metal Hammer — Megadeth Rust in Peace Gear Profile', url: 'https://www.loudersound.com/metal-hammer' },
+          { name: 'Wikipedia: Nick Menza', url: 'https://en.wikipedia.org/wiki/Nick_Menza' },
+          { name: 'Discogs: Nick Menza', url: 'https://www.discogs.com/artist/258299-Nick-Menza' }
+        ]
+      }
+    }
+  },
+
+  // Adrian Erlandsson - At the Gates, Paradise Lost (Issue #4113)
+  'adrian-erlandsson': {
+    slug: 'adrian-erlandsson',
+    drummerId: 64,
+    name: 'Adrian Erlandsson',
+    bands: [
+      { slug: 'at-the-gates', period: '1990-present', role: 'Drummer, co-founder' },
+      { slug: 'the-haunted', period: '1996-1999, 2013-present', role: 'Drummer, founding member' },
+      { slug: 'cradle-of-filth', period: '1999-2006', role: 'Drummer' },
+      { slug: 'paradise-lost', period: '2009-2016', role: 'Drummer' }
+    ],
+    metaTitle: 'Adrian Erlandsson Drum Kit & Gear Setup — At the Gates Drummer | MetalForge',
+    metaDescription: 'Complete biography of Adrian Erlandsson, co-founder and drummer of At the Gates. Explore his D-beat-driven Slaughter of the Soul performance, Tama Starclassic Bubinga gear evolution, and career across The Haunted, Cradle of Filth, and Paradise Lost.',
+    ogImage: '/images/drummers/adrian-erlandsson.webp',
+    keywords: ['melodic death metal', 'at the gates', 'gothenburg sound', 'tama starclassic', 'swedish drummer', 'slaughter of the soul', 'd-beat drumming'],
+    relatedDrummers: ['daniel-erlandsson', 'martin-axenrot', 'jocke-wallgren'],
+    summary: 'Adrian Erlandsson co-founded At the Gates in 1990 and drove the D-beat foundation of Slaughter of the Soul (1995), the blueprint for Gothenburg melodic death metal.',
+    lastUpdated: '2026-07-08',
+    imageAlt: 'Adrian Erlandsson playing drums live with At the Gates',
+    schemaType: 'Person',
+    sections: {
+      overview: {
+        title: 'Overview',
+        content: `Adrian Erlandsson is a Swedish drummer who co-founded At the Gates in Gothenburg in 1990 and delivered one of the most influential drum performances in extreme metal history on the band's 1995 album Slaughter of the Soul. Recorded at Studio Fredman with producer Fredrik Nordström, the album's D-beat-and-blast-beat foundation, paired with tremolo-picked guitar melody, became the blueprint for the entire Gothenburg melodic death metal sound — a template later bands from In Flames to Killswitch Engage to Trivium built entire careers on.
+
+Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent Gothenburg-scene drummers who developed their rhythmic vocabularies independently, Adrian's groove-oriented D-beat foundation contrasting with Daniel's more polished blast-beat precision. Beyond At the Gates, Erlandsson founded The Haunted in 1996, joined British extreme/gothic act Cradle of Filth from 1999-2006, and drummed for Paradise Lost from 2009-2016 — at times juggling multiple active bands simultaneously — all while returning to At the Gates for its full-time 2008 reformation and rejoining The Haunted in 2013.`
+      },
+      careerHighlights: {
+        title: 'Career Highlights',
+        items: [
+          { year: '1990', event: 'Co-founded At the Gates in Gothenburg, Sweden' },
+          { year: '1995', event: 'Recorded Slaughter of the Soul, one of the most influential albums in extreme metal history' },
+          { year: '1996', event: 'Founded The Haunted following At the Gates\' initial breakup' },
+          { year: '1999', event: 'Joined Cradle of Filth, pivoting into symphonic extreme metal' },
+          { year: '2006', event: 'Left Cradle of Filth after recording four albums including Midian and Nymphetamine' },
+          { year: '2008', event: 'Rejoined At the Gates for its full-time reformation' },
+          { year: '2009', event: 'Joined Paradise Lost, recording Draconian Times MMXI-era material' },
+          { year: '2013', event: 'Rejoined The Haunted, recording Exit Wounds (2014) and Strength in Numbers (2017)' },
+          { year: '2014', event: 'Released At War with Reality with At the Gates, the band\'s first album in 19 years' }
+        ]
+      },
+      styleAndInfluences: {
+        title: 'Style & Influences',
+        content: `Adrian Erlandsson's drumming is built on rhythmic discipline rather than technical complexity. His identity centers on the D-beat — a rock-steady rhythmic foundation borrowed from hardcore and crust punk, adapted to extreme metal tempo and intensity — deployed with a consistency that always serves the song's melodic momentum rather than competing with it. Where more technical death metal drummers pursue maximum complexity, Erlandsson's Slaughter of the Soul performance proved that melodic death metal drumming requires the right groove more than raw velocity.
+
+**Key Influences:**
+- **Hardcore and crust punk drumming**: The direct source of Erlandsson's core D-beat vocabulary
+- **Gothenburg scene contemporaries**: Shared development of the melodic death metal template alongside brother Daniel Erlandsson at Arch Enemy
+
+**Signature Techniques:**
+- Disciplined D-beat foundation (snare on 2 and 4, kick on downbeats, driving 8th-note hi-hats) underneath tremolo-picked guitar melody
+- Full-intensity blast-beat entrances with no build-up, most iconically on "Blinded by Fear"
+- China cymbal accents at riff transitions
+- Consistent, economical matched-grip technique built to sustain long blast-beat passages without tempo drift`
+      },
+      notableRecordings: {
+        title: 'Notable Recordings & Tours',
+        albums: [
+          { name: 'At the Gates - Slaughter of the Soul', year: 1995, label: 'Earache Records', note: 'Genre-defining Gothenburg melodic death metal album' },
+          { name: 'Cradle of Filth - Midian', year: 2000, label: 'Music for Nations', note: 'Erlandsson\'s Cradle of Filth studio debut' },
+          { name: 'Cradle of Filth - Nymphetamine', year: 2004, label: 'Roadrunner Records', note: 'Symphonic extreme metal' },
+          { name: 'At the Gates - At War with Reality', year: 2014, label: 'Century Media', note: 'First At the Gates album in 19 years' },
+          { name: 'The Haunted - Exit Wounds', year: 2014, label: 'Century Media', note: 'Erlandsson\'s return to The Haunted' }
+        ],
+        tours: [
+          { name: 'Slaughter of the Soul Tour', year: '1995-1996', note: 'Supporting At the Gates\' genre-defining album' },
+          { name: 'At the Gates World Touring', year: '2014-present', note: 'Global touring following the band\'s full-time reformation' },
+          { name: 'Paradise Lost Touring', year: '2009-2016', note: 'Touring across the Draconian Times MMXI and Tragic Idol cycles' }
+        ]
+      },
+      gearHighlights: {
+        title: 'Gear Highlights',
+        content: `Adrian Erlandsson's Slaughter of the Soul-era rig centered on a budget Pearl Export kit — a deliberate departure from prestige gear that matched At the Gates' underground, studio-house-kit circumstances at Studio Fredman. He later built a career-long relationship with Tama, transitioning to Tama Starclassic drums when he founded The Haunted and joined Cradle of Filth in the late 1990s.
+
+**Current Setup (Paradise Lost era to present):**
+- **Drums**: Tama Starclassic Bubinga, double 22" bass drums, four-tom configuration
+- **Snare**: Tama Starclassic Bubinga 14"x6.5"
+- **Cymbals**: Sabian AAX/HHX Series (15" HHX Xcelerator hi-hats, 20" AAX Iso crash, 19" Paragon China)
+- **Hardware**: Monolit Czarcie Kopyto double pedal, a boutique Polish pedal
+- **Sticks**: Vic Firth Rock Nylon Tip, an official At the Gates signature model
+- **Heads**: Evans EMAD Onyx (kicks), EC Reverse Dot (snare)
+
+**Notable Gear Evolution:**
+- Started on a budget Pearl Export kit during At the Gates' underground Slaughter of the Soul era
+- Switched to Tama Starclassic when founding The Haunted (1996) and joining Cradle of Filth (1999), a relationship that has lasted his entire career since
+- Upgraded to Tama Starclassic Bubinga, Sabian AAX/HHX cymbals, and the Monolit Czarcie Kopyto pedal during his Paradise Lost years (2009-2016)
+- His Vic Firth stick relationship matured into an official At the Gates-branded signature model`
+      },
+      trivia: {
+        title: 'Trivia & Notes',
+        items: [
+          'Co-founded At the Gates in Gothenburg in 1990',
+          'Brother of Arch Enemy drummer Daniel Erlandsson — the two independently shaped Gothenburg melodic death metal\'s drumming vocabulary from different angles',
+          'Founded The Haunted in 1996 after At the Gates\' initial breakup, and rejoined the band in 2013',
+          'Drummed for Cradle of Filth from 1999-2006, recording Midian, Damnation and a Day, Nymphetamine, and Thornography',
+          'Drummed for Paradise Lost from 2009-2016 while remaining active in At the Gates and The Haunted',
+          'His opening blast beat on "Blinded by Fear" is considered one of melodic death metal\'s most iconic entrances',
+          'Has an official Vic Firth signature stick model bearing the At the Gates name'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What bands has Adrian Erlandsson played drums for?', a: 'Adrian Erlandsson co-founded At the Gates (1990-present), founded The Haunted (1996-1999, rejoined 2013-present), played in Cradle of Filth (1999-2006), and drummed for Paradise Lost (2009-2016).' },
+          { q: 'Is Adrian Erlandsson related to Daniel Erlandsson?', a: 'Yes. Adrian Erlandsson (At the Gates, The Haunted, Paradise Lost) and Daniel Erlandsson (Arch Enemy) are brothers, both Swedish drummers from the Gothenburg extreme metal scene.' },
+          { q: 'What drum kit does Adrian Erlandsson use now?', a: 'Adrian Erlandsson currently plays a Tama Starclassic Bubinga kit with Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, Evans drumheads, and his own Vic Firth Rock Nylon Tip At the Gates signature sticks.' },
+          { q: 'Did Adrian Erlandsson play in Cradle of Filth?', a: 'Yes — Adrian Erlandsson was Cradle of Filth\'s drummer from 1999 to 2006, recording Midian (2000), Damnation and a Day (2003), Nymphetamine (2004), and Thornography (2006).' },
+          { q: 'What drum kit did Adrian Erlandsson use on Slaughter of the Soul?', a: 'Adrian Erlandsson used a budget Pearl Export kit for At the Gates\' Slaughter of the Soul (1995), a deliberate departure from prestige gear that matched the album\'s Studio Fredman house-kit circumstances.' }
+        ]
+      },
+      sources: {
+        title: 'Sources',
+        items: [
+          { name: 'Metal-Rules.com — Adrian Erlandsson Interview', url: 'https://metal-rules.com' },
+          { name: 'Blunt Magazine Interview', url: 'https://www.blunt.com.au' },
+          { name: 'Wikipedia: Adrian Erlandsson', url: 'https://en.wikipedia.org/wiki/Adrian_Erlandsson' },
+          { name: 'Discogs: Adrian Erlandsson', url: 'https://www.discogs.com/artist/44265-Adrian-Erlandsson' }
+        ]
+      }
+    }
   }
 };
 

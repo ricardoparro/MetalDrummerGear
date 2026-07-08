@@ -2188,6 +2188,1133 @@ export const articles = {
       "title": "Bad Magic: The Final Word From Rock's Loudest Band",
       "content": "*Bad Magic* (2015) is not a farewell album in any planned sense — Motörhead didn't know it would be their last record when they walked into NRG Studios with Cameron Webb. That's precisely what makes it such a powerful closing statement. There's no self-conscious sentimentality here, no obvious goodbye song. Just Motörhead being Motörhead, at full volume, one final time.\n\nMikkey Dee's Pearl Reference kit and Zildjian cymbals carried the same fundamental drum voice he brought to *Bastards* in 1993 — power through placement, precision without sacrificing raw force. Twenty-three years and twelve studio albums later, that voice hadn't changed; it had simply been refined by decades of the hardest touring schedule in rock.\n\n**For Drummers Studying Bad Magic:**\nListen to \"Thunder & Lightning\" for Dee's ability to sustain full-power drumming at speed, more than two decades into his tenure with the band. Compare it to \"Burner\" from *Bastards* — the same relentless commitment to the pocket, delivered by a drummer who never let the gear or the calendar slow him down.\n\n**The Legacy:**\nWhen fans and researchers ask what Motörhead's last album was, *Bad Magic* is the answer — permanently. It's the record that closes Mikkey Dee's Motörhead story and opens the next chapter with Scorpions. For the complete arc from debut to finale, see the [Bastards drum setup](/articles/bastards-drum-setup), the [Mikkey Dee drummer profile](/drummer/mikkey-dee), and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).\n\n🤘 *Twenty-three years with the world's loudest band. This is how it ended.* 🤘"
     }
+  },
+  "inferno-drum-setup": {
+    "slug": "inferno-drum-setup",
+    "albumTitle": "Inferno",
+    "artist": "Motörhead",
+    "drummer": "Mikkey Dee",
+    "drummerId": 20,
+    "relatedDrummerSlug": "mikkey-dee",
+    "year": 2004,
+    "genre": "Heavy Metal / Speed Metal",
+    "label": "Steamhammer/SPV (Sanctuary Records in North America)",
+    "studio": "NRG Studios & Paramount Recording Studios, Hollywood, California",
+    "producer": "Cameron Webb",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-08",
+    "dateModified": "2026-07-08",
+    "author": "MetalForge Editorial",
+    "title": "Inferno Drum Setup: Mikkey Dee's Gear on Motörhead's 2004 Album",
+    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Inferno (2004) — the album that began the band's decade-plus partnership with producer Cameron Webb. Complete breakdown of the Tama kit, Paiste cymbals, and the Steve Vai guest appearance.",
+    "seoKeywords": [
+      "mikkey dee drum kit",
+      "motorhead inferno drums",
+      "mikkey dee motorhead setup",
+      "motorhead drummer gear",
+      "inferno 2004 drums",
+      "mikkey dee tama",
+      "mikkey dee paiste",
+      "cameron webb motorhead producer"
+    ],
+    "ogImage": "/images/albums/inferno-drums.webp",
+    "intro": {
+      "title": "Beginning a New Chapter: Cameron Webb Enters the Picture",
+      "content": "Released on June 22, 2004, *Inferno* marked Motörhead's first album with producer Cameron Webb — a collaboration that would define the band's sound for the remainder of its 40-year career, running all the way through *Bad Magic* in 2015. Recorded primarily at NRG Studios in North Hollywood with additional sessions at Paramount Recording Studios in Hollywood and Maple Sound Studios in Costa Mesa, *Inferno* found Motörhead sharpening its attack after the comparatively straightforward *Hammered* (2002).\n\nBy 2004, Mikkey Dee had been Motörhead's drummer for twelve years, and his rhythmic partnership with Lemmy Kilmister and Phil Campbell had settled into a lethal efficiency. *Inferno* runs through twelve tracks in under 49 minutes, opening with the sprint of \"Terminal Show\" and closing with the acoustic, country-blues detour \"Whorehouse Blues\" — a rare moment of restraint that let Dee show off brushwork and dynamic control rather than sheer force. The album also features a guest lead guitar contribution from Steve Vai, a detail that surprised longtime fans and underscored how far Motörhead's reputation had spread across the rock world.\n\nCommercially, *Inferno* charted at #10 in Germany, #17 in Finland, and #95 in the UK — modest by mainstream standards but consistent with Motörhead's reliable, if unspectacular, chart performance throughout the 2000s. What the album lacked in chart impact it made up for in songwriting discipline: Cameron Webb pushed the band toward tighter arrangements and a more modern, punchy drum sound than the somewhat murkier production of earlier 2000s Motörhead records.\n\nMikkey Dee's playing on *Inferno* still carried the Tama-era foundation established a decade earlier on *Bastards* (1993), even as the band's studio process modernized around him. Tracks like \"Killers\" and \"In the Black\" show Dee at his most economical — devastating single-stroke patterns married to a kick technique built for speed without sacrificing the pocket. This article breaks down the drum kit, cymbals, and hardware behind Motörhead's first Cameron Webb-produced record.",
+      "keyPoints": [
+        "Released June 22, 2004 — first Motörhead album produced by Cameron Webb, a partnership that lasted through Bad Magic (2015)",
+        "Recorded at NRG Studios, Paramount Recording Studios, and Maple Sound Studios in the Los Angeles area",
+        "Features a guest guitar appearance from Steve Vai",
+        "Charted at #10 in Germany, #17 in Finland, and #95 in the UK",
+        "Twelfth year of Mikkey Dee's Motörhead tenure — drumming had reached peak efficiency and economy"
+      ]
+    },
+    "drumKit": {
+      "title": "Tama Power, Late-Era: Dee's Kit Before the Pearl Switch",
+      "brand": "Tama",
+      "model": "Tama Starclassic",
+      "finish": "Black",
+      "config": {
+        "bassdrums": [
+          "22\" Bass Drum"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom",
+          "13\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" Floor Tom",
+          "18\" Floor Tom"
+        ],
+        "shells": "Maple/birch hybrid shells for a punchier, more modern attack"
+      },
+      "description": "On *Inferno*, Mikkey Dee was still playing Tama drums — the brand he'd relied on since joining Motörhead in 1992 — though by 2004 his kit had evolved from the Artstar II/Swingstar series of the *Bastards* era to the more refined Starclassic line. The core configuration stayed close to what had worked for over a decade: a focused 22\" bass drum, three rack toms, and dual floor toms.\n\nThe Starclassic's maple/birch hybrid shell construction gave Dee's drums a punchier, more contemporary attack than the pure maple Artstar II kit he used on *Bastards*, better suited to Cameron Webb's modern production approach. Where earlier Motörhead records sometimes let the drums blur into the wall of guitar, Webb's mix on *Inferno* gave each drum definition — a change Dee's tighter, more consistent tuning helped make possible.\n\nDee's kick technique on *Inferno* remained rooted in precision over raw speed. Tracks like \"Killers\" demand a driving, high-tempo pulse, and Dee delivers it with the same placement-first philosophy that defined his *Bastards* performance — every stroke landing exactly where the song needs it, never rushing ahead of Lemmy's bass.\n\nThis would prove to be one of Dee's final studio albums on Tama before his transition to Pearl drums took hold around the *Kiss of Death* sessions two years later — making *Inferno* a quiet bridge between two distinct chapters of his Motörhead gear history.",
+      "notes": [
+        "Tama Starclassic replaced the Artstar II/Swingstar kit Dee used on Bastards (1993)",
+        "22\" bass drum retained — the same focused, punchy low end Dee favored throughout his Tama years",
+        "Maple/birch hybrid shells suited Cameron Webb's more modern, defined production style",
+        "One of Dee's final Motörhead albums on Tama before the switch to Pearl around Kiss of Death (2006)"
+      ],
+      "estimatedValue": "$2,000–3,500 (2004 professional Tama Starclassic configuration)"
+    },
+    "snare": {
+      "title": "Steel and Speed: The Snare Behind Inferno's Attack",
+      "brand": "Tama",
+      "model": "Tama Starclassic Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "Mikkey Dee's snare on *Inferno* continued the steel-shell preference he'd carried since his King Diamond days — bright, cutting, and built to slice through Motörhead's dense guitar-and-bass wall. The Starclassic steel snare offered the same fundamental voice as his earlier Artstar II snare from the *Bastards* sessions, refined with more consistent hardware.\n\nAt 14\" x 6.5\", the dimensions matched what Dee had used for over a decade — a testament to how dialed-in his core sound had become by 2004. Cameron Webb's production gave the snare a tighter, more compressed punch in the mix than the somewhat looser sound of Motörhead's late-1990s records, emphasizing the crack over the ring.\n\nOn \"In the Black\" and \"Fight,\" the snare sits high and aggressive, driving the tempo with almost no headroom for the drum to breathe — exactly the effect Webb was after for an album meant to reassert Motörhead's aggression after the more mid-paced *Hammered*. Dee's tuning stayed on the higher side of medium, prioritizing crack and cut over sustain.",
+      "tuningSetting": "Medium-high tension for maximum crack and cut through a dense guitar mix",
+      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$300–500 (2004)"
+    },
+    "cymbals": {
+      "title": "Paiste 2002: Two Decades of Continuity",
+      "brand": "Paiste",
+      "series": "Paiste 2002",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste 2002 15\" Sound Edge Hi-Hats",
+          "position": "Left side",
+          "notes": "Serrated bottom edge for a tighter, more controlled chick sound at speed"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste 2002 22\" Ride",
+          "position": "Right side",
+          "notes": "Full-bodied ride with a cutting bell for accent work"
+        },
+        {
+          "type": "Crash (1)",
+          "model": "Paiste 2002 18\" Crash",
+          "position": "Above rack toms",
+          "notes": "Fast-decaying crash for tight accent punctuation"
+        },
+        {
+          "type": "Crash (2)",
+          "model": "Paiste 2002 20\" Crash",
+          "position": "Right side",
+          "notes": "Larger crash reserved for song climaxes"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 18\" China",
+          "position": "Left opposite hi-hat",
+          "notes": "Trash accent for the heaviest punctuation points on tracks like Killers"
+        }
+      ],
+      "description": "Mikkey Dee has been a Paiste artist since April 1987, and by *Inferno* that relationship was nearly two decades old — the 2002 series remained his primary cymbal choice, the same alloy family he'd used on *Bastards* in 1993. The bright, cutting CuSn8 bronze construction of the 2002 line continued to give Dee the projection he needed to be heard over Lemmy's mid-heavy bass and Phil Campbell's dense guitar tone.\n\nThe switch to 15\" Sound Edge hi-hats — with their serrated bottom cymbal — gave Dee a tighter, quicker chick response for the album's faster material, an evolution from the plainer New Beat-style hi-hats of his earlier years. On a track like \"Terminal Show,\" that tighter hi-hat control is audible in the rapid eighth-note patterns driving the verses.\n\nThe 2002 series' reputation as a metal and hard rock workhorse — the same cymbals Lars Ulrich used on *Kill 'Em All* and Dave Lombardo used on *Reign in Blood* — made it a natural fit for an album built to reassert Motörhead's aggression. Dee's setup stayed consistent across the *Inferno* sessions and tour: bright, cutting, and durable enough for the punishing schedule Motörhead kept even twelve years into his tenure.",
+      "estimatedValue": "$1,200–2,000 full setup (2004)"
+    },
+    "hardware": {
+      "title": "Tama Iron Cobra: Still the Foundation",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra",
+          "notes": "Chain-drive pedal Dee had relied on since his early Motörhead years",
+          "description": "Dee's pedal choice remained unchanged from the Bastards era — the Iron Cobra's chain-drive mechanism delivered the mechanical consistency his placement-focused kick technique demanded, even as the rest of his kit modernized around it."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "notes": "Matched hardware for consistent feel across the kit"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Dee's long-standing throne choice for touring comfort and stability"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B",
+          "notes": "Same stick weight Dee used throughout the 1990s and early 2000s"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (focused attack, controlled resonance)",
+        "toms": "Remo Emperor Coated",
+        "snare": "Remo Emperor Coated"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Recording Inferno: A New Producer Sharpens the Attack",
+      "content": "Cameron Webb's arrival as Motörhead's producer on *Inferno* marked a shift in how the band approached the studio. Webb, known for his work with punk and hardcore acts, pushed for tighter arrangements and a drum sound with more modern definition than the somewhat muddier production of *Hammered* (2002) and *We Are Motörhead* (2000).\n\n**A Modernized Attack:**\nWhere earlier 2000s Motörhead records let the rhythm section blur together in the mix, Webb's approach on *Inferno* gave Dee's kick and snare noticeably more separation and punch. This required more disciplined tuning and consistent playing from Dee — the kind of precision his jazz-trained background made second nature.\n\n**Multiple Studios, One Vision:**\nSessions moved between NRG Studios, Paramount Recording Studios, and Maple Sound Studios, all in the Los Angeles area — a more elaborate multi-studio process than the single-studio approach of Dee's *Bastards* debut over a decade earlier.\n\n**The Steve Vai Session:**\nInferno's guest appearance from Steve Vai reflected the album's ambition to reach beyond Motörhead's traditional audience. Dee's drumming had to hold its ground alongside one of rock's most technically accomplished guitarists — a challenge he met with characteristic economy rather than trying to match Vai's flash note-for-note.\n\n**Kick and Bass Interplay:**\nAs on every Motörhead record, Dee's kick drum needed to find pocket space alongside Lemmy's aggressive Rickenbacker bass tone. Webb's mix carved out distinct frequency space for each instrument, giving Dee's 22\" Tama kick a cleaner low-end presence than on some of the band's murkier late-1990s output.",
+      "keyTechniques": [
+        "Cameron Webb's first Motörhead production — began a relationship lasting through Bad Magic (2015)",
+        "Tighter tuning and more disciplined dynamics than the band's late-1990s/early-2000s output",
+        "Multi-studio sessions across NRG, Paramount, and Maple Sound Studios",
+        "Kick EQ carved distinct low-end space alongside Lemmy's mid-heavy bass tone"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Terminal Show",
+        "bpm": "155",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener — establishes an aggressive, high-tempo tone immediately",
+          "Tight, controlled Sound Edge hi-hat work drives the verses",
+          "Kick pattern locks precisely with Lemmy's bass on the downbeats",
+          "Short, economical fills punctuate section transitions without slowing momentum"
+        ],
+        "gearNotes": "The 15\" Sound Edge hi-hats give the fast eighth-note pattern a tighter, more controlled chick than Dee's earlier New Beat hi-hats."
+      },
+      {
+        "track": "Killers",
+        "bpm": "170",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's fastest tracks — a showcase for Dee's speed and stamina twelve years into his Motörhead tenure",
+          "Sustained driving pattern with minimal fills, prioritizing relentless forward motion",
+          "China cymbal accents mark the heaviest punctuation points",
+          "Demonstrates the economy-over-flash philosophy that defines Dee's mature style"
+        ],
+        "gearNotes": "The Tama Iron Cobra's chain-drive precision holds up at this tempo without losing the deliberate, placed feel of Dee's kick technique."
+      },
+      {
+        "track": "Whorehouse Blues",
+        "bpm": "95",
+        "signature": "4/4",
+        "highlights": [
+          "Acoustic, country-blues departure closing the album — a rare showcase for Dee's dynamic restraint",
+          "Brushwork and light stick technique replace the album's usual full-force attack",
+          "Demonstrates the jazz-trained sensitivity underlying Dee's harder-hitting Motörhead performances",
+          "A clear example of Dee serving the song over displaying power"
+        ],
+        "gearNotes": "The Paiste 2002 ride's complex, musical bow works as well at low volume as it does driving Inferno's heavier tracks."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Mikkey Dee use on Inferno?",
+        "answer": "On *Inferno* (2004), Mikkey Dee played a Tama Starclassic kit — an evolution of the Artstar II/Swingstar setup he used on [*Bastards*](/articles/bastards-drum-setup) over a decade earlier. The configuration centered on a 22\" bass drum, three rack toms (10\", 12\", 13\"), and dual floor toms (16\", 18\"), built with maple/birch hybrid shells for a punchier, more modern attack suited to producer Cameron Webb's production style. *Inferno* was one of Dee's final Motörhead albums on Tama before he transitioned to Pearl drums around the [*Kiss of Death*](/articles/kiss-of-death-drum-setup) sessions in 2006. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete gear evolution."
+      },
+      {
+        "question": "Who produced Inferno and why does it matter for Motörhead's sound?",
+        "answer": "*Inferno* was produced by Cameron Webb, marking the first of what became a career-defining partnership that lasted through Motörhead's final album, [*Bad Magic*](/articles/bad-magic-drum-setup), in 2015. Webb pushed the band toward tighter arrangements and a more modern, defined drum sound than earlier 2000s Motörhead records like *Hammered* (2002). Recorded across NRG Studios, Paramount Recording Studios, and Maple Sound Studios in the Los Angeles area, *Inferno* set the sonic template Webb and the band would refine across seven more studio albums."
+      },
+      {
+        "question": "What cymbals did Mikkey Dee use on Inferno?",
+        "answer": "Mikkey Dee used Paiste 2002 series cymbals on *Inferno* — the same alloy family he'd played since becoming a Paiste artist in April 1987 and used on [*Bastards*](/articles/bastards-drum-setup) in 1993. His setup included 15\" Sound Edge hi-hats, 18\" and 20\" crashes, a 22\" ride, and an 18\" China for trash accents. Paiste's bright, cutting CuSn8 bronze construction gave Dee the projection needed to cut through Motörhead's dense guitar-and-bass mix on tracks like \"Killers\" and \"Terminal Show.\""
+      },
+      {
+        "question": "Did Steve Vai really play on a Motörhead album?",
+        "answer": "Yes — *Inferno* (2004) features a guest lead guitar appearance from Steve Vai, one of several notable guest musicians to appear on Motörhead records during the Mikkey Dee era. The collaboration reflected Motörhead's growing reputation and reach across the rock world by the mid-2000s, twelve years into Dee's tenure behind the kit."
+      }
+    ],
+    "evolution": {
+      "title": "From Bastards to Inferno: A Decade of Tama Refinement",
+      "content": "*Inferno* (2004) represents the final flowering of Mikkey Dee's Tama era — a full decade after his Motörhead debut on *Bastards* (1993). The core sound established in 1993 (22\" bass drum, steel snare, Paiste cymbals) remained intact, but the arrival of producer Cameron Webb pushed the drum tone toward a tighter, more contemporary punch.\n\n**What Stayed the Same:**\nThe 22\" bass drum, 14\" x 6.5\" steel snare, and Paiste 2002-family cymbals all carried forward from *Bastards* — a remarkably consistent sonic identity across eleven years and multiple Motörhead studio albums.\n\n**What Changed:**\nThe Tama Artstar II gave way to the Starclassic line, offering a slightly punchier, more modern shell tone. Hi-hats shifted from the era's earlier style to 15\" Sound Edge for tighter control. Most significantly, *Inferno* would prove to be Dee's last Motörhead album built entirely around Tama drums — the *Kiss of Death* sessions two years later marked his transition to Pearl.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Artstar II / Swingstar (Bastards, 1993)",
+          "now": "Tama Starclassic (Inferno, 2004)"
+        },
+        {
+          "category": "Snare",
+          "then": "Tama Artstar II Steel 14\" x 6.5\"",
+          "now": "Tama Starclassic Steel 14\" x 6.5\""
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste Giant Beat + Paiste 2002",
+          "now": "Paiste 2002 (full setup)"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama Iron Cobra",
+          "now": "Tama Iron Cobra"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "bastards-drum-setup",
+      "kiss-of-death-drum-setup",
+      "whats-in-mikkey-dees-kit"
+    ],
+    "relatedDrummers": [
+      20,
+      1,
+      4
+    ],
+    "relatedArticles": [
+      "bastards-drum-setup",
+      "whats-in-mikkey-dees-kit",
+      "history-of-metal-drumming"
+    ],
+    "relatedLicks": [],
+    "internalLinks": [
+      {
+        "text": "Mikkey Dee drummer profile",
+        "url": "/drummer/mikkey-dee"
+      },
+      {
+        "text": "Bastards drum setup (the Tama era begins)",
+        "url": "/articles/bastards-drum-setup"
+      },
+      {
+        "text": "Kiss of Death drum setup (the Pearl transition)",
+        "url": "/articles/kiss-of-death-drum-setup"
+      },
+      {
+        "text": "What's In Mikkey Dee's Kit",
+        "url": "/articles/whats-in-mikkey-dees-kit"
+      },
+      {
+        "text": "Tama drums brand overview",
+        "url": "/gear/tama"
+      },
+      {
+        "text": "Paiste cymbals brand overview",
+        "url": "/gear/paiste"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Inferno Drum Setup: Mikkey Dee's Gear on Motörhead's 2004 Album",
+          "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Inferno (2004) — the album that began the band's partnership with producer Cameron Webb.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-08",
+          "dateModified": "2026-07-08"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Inferno",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Motörhead"
+          },
+          "datePublished": "2004-06-22",
+          "genre": "Heavy Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Steamhammer/SPV"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "Terminal Show" },
+            { "@type": "MusicRecording", "name": "Killers" },
+            { "@type": "MusicRecording", "name": "In the Name of Tragedy" },
+            { "@type": "MusicRecording", "name": "Suicide" },
+            { "@type": "MusicRecording", "name": "Life's a Bitch" },
+            { "@type": "MusicRecording", "name": "Down on Me" },
+            { "@type": "MusicRecording", "name": "In the Black" },
+            { "@type": "MusicRecording", "name": "Fight" },
+            { "@type": "MusicRecording", "name": "In the Year of the Wolf" },
+            { "@type": "MusicRecording", "name": "Keys to the Kingdom" },
+            { "@type": "MusicRecording", "name": "Smiling Like a Killer" },
+            { "@type": "MusicRecording", "name": "Whorehouse Blues" }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Mikkey Dee",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Motörhead"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drums did Mikkey Dee use on Inferno?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "On Inferno (2004), Mikkey Dee played a Tama Starclassic kit with a 22\" bass drum, three rack toms (10\", 12\", 13\"), and dual floor toms (16\", 18\")."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Who produced Inferno?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Inferno was produced by Cameron Webb, marking the start of a partnership that lasted through Motörhead's final album, Bad Magic, in 2015."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What cymbals did Mikkey Dee use on Inferno?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mikkey Dee used Paiste 2002 series cymbals on Inferno, including 15 inch Sound Edge hi-hats, 18 and 20 inch crashes, a 22 inch ride, and an 18 inch China."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "Inferno: The Bridge Between Two Gear Eras",
+      "content": "*Inferno* (2004) occupies a quiet but pivotal place in Mikkey Dee's Motörhead story. It's the album where Cameron Webb entered the picture and began reshaping how the band approached the studio — a partnership that would carry Motörhead through its final decade. It's also, in retrospect, the closing chapter of Dee's Tama era, the drum brand he'd relied on since replacing Phil Taylor in 1992.\n\nThe Tama Starclassic kit and Paiste 2002 cymbals that powered *Inferno* delivered the same fundamental voice Dee established on *Bastards* over a decade earlier — precision-driven power, economical fills, a kick drum that never rushed ahead of Lemmy's bass. What changed was the production around it: tighter, more modern, more defined.\n\n**For Drummers Studying Inferno:**\nListen to \"Killers\" for Dee's ability to sustain speed and power twelve years into a punishing touring schedule, and \"Whorehouse Blues\" for the dynamic restraint that reveals his jazz-trained roots. Few hard rock drummers move as convincingly between full-force attack and delicate brushwork.\n\n**The Gear Legacy:**\nInferno marks the end of an eleven-year Tama chapter. Two years later, on [*Kiss of Death*](/articles/kiss-of-death-drum-setup), Dee would switch to Pearl drums — a transition explored in depth in that album's gear breakdown. For the complete arc from *Bastards* through *Bad Magic*, see the [Mikkey Dee drummer profile](/drummer/mikkey-dee) and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).\n\n🤘 *Twelve years in, and the thunder hadn't slowed down.* 🤘"
+    }
+  },
+  "kiss-of-death-drum-setup": {
+    "slug": "kiss-of-death-drum-setup",
+    "albumTitle": "Kiss of Death",
+    "artist": "Motörhead",
+    "drummer": "Mikkey Dee",
+    "drummerId": 20,
+    "relatedDrummerSlug": "mikkey-dee",
+    "year": 2006,
+    "genre": "Heavy Metal / Speed Metal",
+    "label": "Steamhammer/SPV (Sanctuary Records in North America)",
+    "studio": "Paramount Recording Studios, NRG Studios & Maple Studios, Hollywood, California",
+    "producer": "Cameron Webb",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-08",
+    "dateModified": "2026-07-08",
+    "author": "MetalForge Editorial",
+    "title": "Kiss of Death Drum Setup: Mikkey Dee's Gear on Motörhead's 2006 Album",
+    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Kiss of Death (2006) — the album where he switched from Tama to Pearl drums. Complete breakdown of the new Pearl Reference kit, Paiste cymbals, and the band's highest German chart entry to date.",
+    "seoKeywords": [
+      "mikkey dee drum kit",
+      "motorhead kiss of death drums",
+      "mikkey dee pearl drums",
+      "motorhead drummer gear",
+      "kiss of death 2006 drums",
+      "mikkey dee motorhead setup",
+      "cameron webb motorhead producer",
+      "motorhead 2006 album"
+    ],
+    "ogImage": "/images/albums/kiss-of-death-drums.webp",
+    "intro": {
+      "title": "A New Kit for a New Chapter: Mikkey Dee Switches to Pearl",
+      "content": "Released on August 29, 2006, *Kiss of Death* is Motörhead's fifteenth studio album — and the record where Mikkey Dee's gear underwent its most significant change since joining the band in 1992. After more than a decade on Tama drums, Dee switched to a Pearl Reference Series kit for these sessions, beginning a setup he would refine and rely on for nearly the next ten years, all the way through *Bad Magic* (2015).\n\nRecorded across Paramount Recording Studios, NRG Studios, and Maple Studios in the Hollywood area, *Kiss of Death* reunited the band with producer Cameron Webb, who had steered *Inferno* two years earlier. The album became Motörhead's ninth release for Steamhammer/SPV and, notably, charted at #4 in Germany — the band's highest German chart position up to that point in its career — alongside a UK entry at #45, a Switzerland entry at #26, and a Billboard 200 appearance at #82.\n\nThe album's thirteen tracks (twelve originals plus a 2006 re-recording of the fan-favorite \"R.A.M.O.N.E.S\") also brought a notable cast of guest musicians into the studio: Poison guitarist C.C. DeVille contributed a guitar solo, Alice in Chains bassist Mike Inez added additional bass work, and Ignite/H2O vocalist Zoltán Téglás lent backing vocals. For an album featuring that much outside talent, Dee's drumming remained the connective tissue holding everything together — the same economical, powerhouse pocket playing that had defined his Motörhead tenure since *Bastards*, and one of the reasons the band could absorb so many outside voices without losing its identity.\n\nCritically, *Kiss of Death* was also the last Motörhead album to feature original cover artwork from longtime band artist Joe Petagno in its initial design generation, closing out an era of the band's visual identity alongside Dee's gear transition. Fittingly, a record defined by change on multiple fronts — new producer relationship deepening, new guest collaborators, new album artwork chapter — also marked the moment Dee's core instrument changed for the first time in fourteen years. This article breaks down the new Pearl Reference kit, the continuing Paiste cymbal setup, and the hardware behind one of the most transitional records of Dee's career.",
+      "keyPoints": [
+        "Released August 29, 2006 — Motörhead's fifteenth studio album and ninth for Steamhammer/SPV",
+        "Mikkey Dee switched from Tama to Pearl Reference Series drums for these sessions",
+        "Charted at #4 in Germany — the band's highest German chart position to that date",
+        "Features guest contributions from C.C. DeVille (Poison), Mike Inez (Alice in Chains), and Zoltán Téglás (Ignite)",
+        "Producer Cameron Webb's second consecutive Motörhead album, following Inferno (2004)"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference Series: The New Foundation",
+      "brand": "Pearl",
+      "model": "Pearl Reference Series",
+      "finish": "Piano black lacquer",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom",
+          "14\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" Floor Tom"
+        ],
+        "shells": "Maple/birch hybrid shells for fuller resonance and increased low-end depth"
+      },
+      "description": "*Kiss of Death* marks the debut of Mikkey Dee's Pearl Reference Series kit — a setup that would become the foundation of his sound for nearly a decade, refined further across *Motörizer* (2008), *The Wörld Is Yours* (2010), and *Aftershock* (2013) before reaching its final form on *Bad Magic* (2015). Compared to the Tama Starclassic he'd used on *Inferno* just two years earlier, the Pearl Reference offered a fuller, more resonant low end suited to Motörhead's increasingly arena-scaled live shows.\n\nThe initial 2006 configuration was leaner than the kit he'd later expand to on *Bad Magic* — a three rack tom setup (10\", 12\", 14\") and single 16\" floor tom, rather than the four-tom, dual-floor-tom arrangement he'd eventually settle into. The 22\" x 18\" bass drum, however, was consistent from the start: the same focused, punchy dimension Dee had favored since his earliest Motörhead years.\n\nPearl's maple/birch hybrid shell construction gave Dee's drums noticeably more low-mid resonance than the Tama Starclassic's punchier, more clipped tone — a change audible immediately on album opener \"Sucker,\" where the toms carry more sustain and body during fills. The switch reflected both a gear preference and the demands of a band whose stage productions had grown considerably since the mid-1990s club and theater circuit.\n\nThis was the beginning of what would become Dee's longest-serving drum kit relationship of his Motörhead career — nearly matching the entire length of his Tama period in years played.",
+      "notes": [
+        "Debut album for Dee's Pearl Reference Series kit — replaced the Tama Starclassic used on Inferno (2004)",
+        "22\" x 18\" bass drum retained the same focused punch as his Tama-era setup",
+        "Leaner three-tom, single-floor-tom configuration compared to the later Bad Magic-era expansion",
+        "Maple/birch hybrid shells added low-mid resonance suited to larger venues"
+      ],
+      "estimatedValue": "$3,000–4,500 (2006 professional Pearl Reference configuration)"
+    },
+    "snare": {
+      "title": "A New Snare to Match the New Kit",
+      "brand": "Pearl",
+      "model": "Pearl Reference Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "Dee's snare choice on *Kiss of Death* carried forward the steel-shell preference he'd maintained since his King Diamond years, now voiced through Pearl's Reference Series hardware rather than Tama's. At 14\" x 6.5\", the dimensions matched almost exactly what he'd used on every Motörhead record since *Bastards* — proof that his core sonic priorities remained constant even as the brand changed.\n\nThe Pearl Reference snare delivered a slightly warmer, more controlled crack than the brighter Tama Starclassic snare heard on *Inferno*, giving Dee's backbeat a touch more body without sacrificing the cut needed to sit above Phil Campbell's guitar and Lemmy's aggressive bass tone. On tracks like \"Sucker\" and \"Devil I Know,\" the snare sits assertively in the mix, driving the tempo with the same crisp authority that had defined his sound for over a decade.\n\nCameron Webb's returning production kept the snare tuned tight and forward in the mix, consistent with the more modern, defined drum sound he'd established on *Inferno* two years prior.",
+      "tuningSetting": "Medium-high tension for crack and projection, slightly warmer than the Tama-era snare",
+      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$350–550 (2006)"
+    },
+    "cymbals": {
+      "title": "Paiste Continuity Through a Gear Transition",
+      "brand": "Paiste",
+      "series": "Paiste 2002 / Paiste Signature",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste 2002 15\" Sound Edge Hi-Hats",
+          "position": "Left side",
+          "notes": "Carried over unchanged from the Inferno sessions"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste Signature 22\" Full Ride",
+          "position": "Right side",
+          "notes": "Warmer, more complex ride voice than the 2002 series ride used on Inferno"
+        },
+        {
+          "type": "Crash (1)",
+          "model": "Paiste Signature 18\" Fast Crash",
+          "position": "Above rack toms",
+          "notes": "Quick-decaying crash for tight accent placement"
+        },
+        {
+          "type": "Crash (2)",
+          "model": "Paiste 2002 20\" Crash",
+          "position": "Right side",
+          "notes": "Retained from the 2002 series for maximum projection on song climaxes"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 18\" China",
+          "position": "Left opposite hi-hat",
+          "notes": "Same trash accent cymbal used throughout Dee's 2000s Motörhead tenure"
+        }
+      ],
+      "description": "While Dee's drum kit changed dramatically for *Kiss of Death*, his cymbal setup remained anchored in the Paiste family he'd played since 1987 — though he began blending the brighter, harder-cutting 2002 series with the warmer, more musical Paiste Signature line. This mirrored a broader trend among rock drummers in the mid-2000s toward Signature's more nuanced voicing for ride and crash work, while retaining 2002 cymbals for hi-hats and heavier accent pieces.\n\nThe Signature 22\" Full Ride offered more complexity and wash than the straightforward 2002 ride Dee used on *Inferno*, giving tracks like \"Living in the Past\" and \"Christine\" — mid-tempo cuts with more room to breathe — a more textured cymbal voice. The 2002 series held its ground for hi-hats, the larger crash, and the China, preserving the cutting projection Dee needed for the album's faster, more aggressive tracks.\n\nThis blended setup — new drums, evolving-but-familiar cymbals — captures *Kiss of Death* as a genuine transitional record in Dee's gear history: a kit change layered onto a cymbal sound that stayed recognizably his own.",
+      "estimatedValue": "$1,400–2,200 full setup (2006)"
+    },
+    "hardware": {
+      "title": "New Pedals for a New Kit",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator",
+          "notes": "Direct-drive pedal that replaced the Tama Iron Cobra chain-drive Dee used through Inferno",
+          "description": "Switching to Pearl drums came with a switch to Pearl's own pedal line. The Eliminator's direct-drive mechanism gave Dee a more immediate, responsive feel than the Iron Cobra's chain-drive action — a change he'd carry forward and continue to refine through the rest of his Motörhead tenure."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl Reference Hi-Hat Stand",
+          "notes": "Matched hardware to the new Reference Series kit"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "The one piece of hardware that carried over unchanged from the Tama era"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B",
+          "notes": "Same stick weight Dee had used since the early 1990s"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (focused attack, controlled resonance)",
+        "toms": "Remo Emperor Coated",
+        "snare": "Remo Emperor Coated"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Recording Kiss of Death: Breaking In a New Kit",
+      "content": "*Kiss of Death* presented Cameron Webb with an unusual production challenge for a returning producer: capturing a drummer's performance on a brand-new kit rather than a familiar, well-worn setup. Dee's Pearl Reference Series drums were fresh out of the box for these sessions, and Webb's engineering had to find the right microphone placement and EQ approach for a genuinely different-sounding instrument than the Tama Starclassic he'd recorded on *Inferno*.\n\n**Adapting to a New Voice:**\nThe Pearl kit's fuller, more resonant low end required Webb to dial back some of the compression and gating techniques he'd used on *Inferno* to keep the drums tight and controlled. The result is a slightly more open, natural drum sound on *Kiss of Death* compared to its predecessor.\n\n**Multiple Studios:**\nSessions again moved between several Hollywood-area studios — Paramount Recording Studios, NRG Studios, and Maple Studios — allowing the band to work with different rooms for different aspects of tracking and overdubs.\n\n**Guest Musician Sessions:**\nThe album's guest contributions from C.C. DeVille, Mike Inez, and Zoltán Téglás required Dee's drumming to remain a stable, consistent foundation regardless of which outside musician was in the room — a role he'd played throughout his career, holding down the rhythm section while guitarists and vocalists moved around him.\n\n**Kick Drum Recalibration:**\nWith a new bass drum and new pedal (the Pearl Eliminator, replacing the Tama Iron Cobra), Webb had to recalibrate his kick-drum miking and EQ approach entirely — a small but significant technical adjustment buried within the album's larger sonic identity.",
+      "keyTechniques": [
+        "First Motörhead album recorded on Dee's new Pearl Reference Series kit",
+        "Reduced compression compared to Inferno to let the Pearl kit's natural resonance come through",
+        "Multi-studio sessions across Paramount, NRG, and Maple Studios",
+        "Kick drum microphone and EQ approach recalibrated for new drum and new pedal"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Sucker",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener — the first recorded showcase of Dee's new Pearl Reference kit",
+          "Toms carry noticeably more sustain and resonance than the Tama-era Inferno tracks",
+          "Driving hi-hat pattern with a tight, controlled backbeat",
+          "Fills are economical, introducing the new kit's voice without overselling the change"
+        ],
+        "gearNotes": "The Pearl Reference toms' fuller low-mid resonance is immediately audible compared to the punchier, more clipped Tama Starclassic tone on Inferno."
+      },
+      {
+        "track": "Living in the Past",
+        "bpm": "130",
+        "signature": "4/4",
+        "highlights": [
+          "Mid-tempo groove track with more room for dynamic nuance",
+          "Ghost notes on the snare add texture between primary backbeat hits",
+          "The Paiste Signature ride's warmer wash suits the track's more measured feel",
+          "Demonstrates the groove-first, restrained side of Dee's playing"
+        ],
+        "gearNotes": "The Signature 22\" Full Ride offers more complexity than the straightforward 2002 ride used throughout Inferno."
+      },
+      {
+        "track": "Trigger",
+        "bpm": "165",
+        "signature": "4/4",
+        "highlights": [
+          "High-tempo track that puts the new Pearl Eliminator pedal through its paces",
+          "Sustained fast kick pattern with immediate, responsive feel",
+          "Crash accents land precisely on riff changes",
+          "Shows Dee adapting quickly to new hardware without any loss of precision"
+        ],
+        "gearNotes": "The Pearl Eliminator's direct-drive response gives the kick a noticeably quicker, more immediate feel than the Tama Iron Cobra's chain-drive action."
+      }
+    ],
+    "faq": [
+      {
+        "question": "When did Mikkey Dee switch from Tama to Pearl drums?",
+        "answer": "Mikkey Dee switched from Tama to Pearl Reference Series drums for the *Kiss of Death* (2006) sessions, after more than a decade playing Tama kits that began with [*Bastards*](/articles/bastards-drum-setup) in 1993 and continued through [*Inferno*](/articles/inferno-drum-setup) in 2004. The Pearl Reference Series became his primary kit for nearly the next ten years, refined further across *Motörizer* (2008) and later albums before reaching its final form on [*Bad Magic*](/articles/bad-magic-drum-setup) in 2015. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for the complete gear timeline."
+      },
+      {
+        "question": "What drum kit did Mikkey Dee use on Kiss of Death?",
+        "answer": "On *Kiss of Death* (2006), Mikkey Dee played a Pearl Reference Series kit in piano black lacquer finish, with a 22\" x 18\" bass drum, three rack toms (10\", 12\", 14\"), and a single 16\" floor tom. This was a leaner configuration than the four-tom, dual-floor-tom setup he'd later use on [*Bad Magic*](/articles/bad-magic-drum-setup), built with maple/birch hybrid shells for fuller low-mid resonance than his previous Tama Starclassic kit."
+      },
+      {
+        "question": "What guest musicians appear on Kiss of Death?",
+        "answer": "*Kiss of Death* (2006) features several notable guest contributions: Poison guitarist C.C. DeVille added a guitar solo, Alice in Chains bassist Mike Inez contributed additional bass, and Ignite/H2O vocalist Zoltán Téglás provided backing vocals. Despite the outside talent, Mikkey Dee's drumming remained the connective tissue holding the record together — the same economical, powerhouse pocket playing that had defined his Motörhead tenure since his 1993 debut."
+      },
+      {
+        "question": "How did Kiss of Death perform commercially?",
+        "answer": "*Kiss of Death* charted at #4 in Germany — Motörhead's highest German chart position up to that point in the band's career — alongside a UK entry at #45, a Switzerland entry at #26, and a Billboard 200 appearance at #82 in the United States. It was Motörhead's ninth album released through Steamhammer/SPV and the fifteenth studio album of the band's career overall."
+      }
+    ],
+    "evolution": {
+      "title": "From Inferno to Kiss of Death: The Pearl Transition",
+      "content": "*Kiss of Death* (2006) documents the single biggest gear change of Mikkey Dee's Motörhead career — the switch from Tama to Pearl drums after more than a decade with the former. Two years earlier, [*Inferno*](/articles/inferno-drum-setup) had already shown the Tama Starclassic evolving toward a more modern tone under producer Cameron Webb; *Kiss of Death* completed that evolution with an entirely new drum brand.\n\n**What Changed:**\nThe Tama Starclassic gave way to the Pearl Reference Series, bringing noticeably more low-mid resonance and sustain. The Tama Iron Cobra chain-drive pedal was replaced by the Pearl Eliminator's direct-drive mechanism, giving Dee's kick a more immediate response.\n\n**What Stayed the Same:**\nThe 22\" bass drum dimension, the 14\" x 6.5\" steel snare depth, and the Paiste cymbal family (now blending 2002 and Signature lines) all carried forward — proof that Dee's fundamental sonic priorities remained constant even through a full drum-brand change.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Starclassic (Inferno, 2004)",
+          "now": "Pearl Reference Series (Kiss of Death, 2006)"
+        },
+        {
+          "category": "Snare",
+          "then": "Tama Starclassic Steel 14\" x 6.5\"",
+          "now": "Pearl Reference Steel 14\" x 6.5\""
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste 2002 (full setup)",
+          "now": "Paiste 2002 / Paiste Signature blend"
+        },
+        {
+          "category": "Pedals",
+          "then": "Tama Iron Cobra (chain-drive)",
+          "now": "Pearl Eliminator (direct-drive)"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "inferno-drum-setup",
+      "motorizer-drum-setup",
+      "bad-magic-drum-setup"
+    ],
+    "relatedDrummers": [
+      20,
+      1,
+      4
+    ],
+    "relatedArticles": [
+      "inferno-drum-setup",
+      "whats-in-mikkey-dees-kit",
+      "history-of-metal-drumming"
+    ],
+    "relatedLicks": [],
+    "internalLinks": [
+      {
+        "text": "Mikkey Dee drummer profile",
+        "url": "/drummer/mikkey-dee"
+      },
+      {
+        "text": "Inferno drum setup (the final Tama album)",
+        "url": "/articles/inferno-drum-setup"
+      },
+      {
+        "text": "Motörizer drum setup (Pearl era continues)",
+        "url": "/articles/motorizer-drum-setup"
+      },
+      {
+        "text": "What's In Mikkey Dee's Kit",
+        "url": "/articles/whats-in-mikkey-dees-kit"
+      },
+      {
+        "text": "Pearl drums brand overview",
+        "url": "/gear/pearl"
+      },
+      {
+        "text": "Paiste cymbals brand overview",
+        "url": "/gear/paiste"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Kiss of Death Drum Setup: Mikkey Dee's Gear on Motörhead's 2006 Album",
+          "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Kiss of Death (2006) — the album where he switched from Tama to Pearl drums.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-08",
+          "dateModified": "2026-07-08"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Kiss of Death",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Motörhead"
+          },
+          "datePublished": "2006-08-29",
+          "genre": "Heavy Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Steamhammer/SPV"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "Sucker" },
+            { "@type": "MusicRecording", "name": "One Night Stand" },
+            { "@type": "MusicRecording", "name": "Devil I Know" },
+            { "@type": "MusicRecording", "name": "Trigger" },
+            { "@type": "MusicRecording", "name": "Under the Gun" },
+            { "@type": "MusicRecording", "name": "God Was Never on Your Side" },
+            { "@type": "MusicRecording", "name": "Living in the Past" },
+            { "@type": "MusicRecording", "name": "Christine" },
+            { "@type": "MusicRecording", "name": "Sword of Glory" },
+            { "@type": "MusicRecording", "name": "Be My Baby" },
+            { "@type": "MusicRecording", "name": "Kingdom of the Worm" },
+            { "@type": "MusicRecording", "name": "Going Down" },
+            { "@type": "MusicRecording", "name": "R.A.M.O.N.E.S (2006 Version)" }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Mikkey Dee",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Motörhead"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "When did Mikkey Dee switch from Tama to Pearl drums?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mikkey Dee switched from Tama to Pearl Reference Series drums for the Kiss of Death (2006) sessions, after more than a decade on Tama kits."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What drum kit did Mikkey Dee use on Kiss of Death?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mikkey Dee played a Pearl Reference Series kit with a 22 x 18 inch bass drum, three rack toms, and a single 16 inch floor tom on Kiss of Death."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How did Kiss of Death perform commercially?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Kiss of Death charted at number 4 in Germany, Motörhead's highest German chart position to that date, plus number 45 in the UK and number 82 on the Billboard 200."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "Kiss of Death: The Kit Change That Redefined Dee's Sound",
+      "content": "*Kiss of Death* (2006) stands as the single most consequential gear-change record in Mikkey Dee's Motörhead career. After more than a decade on Tama drums — dating back to his 1993 debut on *Bastards* — Dee's switch to Pearl Reference Series drums here would define his sound for nearly the next ten years, all the way through the band's final album in 2015.\n\nWhat's remarkable is how little actually changed in Dee's fundamental approach. The 22\" bass drum, the steel snare, the Paiste cymbal family — all carried forward, proof that a drummer's core identity lives in technique and philosophy, not brand loyalty. Cameron Webb's returning production captured the transition faithfully, letting the new Pearl kit's fuller resonance come through without losing the tight, modern edge established on *Inferno* two years earlier.\n\n**For Drummers Studying Kiss of Death:**\nListen to \"Sucker\" for the clearest first impression of the new Pearl kit's voice, and \"Trigger\" for how quickly Dee adapted to the new Pearl Eliminator pedal without any loss of precision. The album is a case study in how professional drummers absorb equipment changes without disrupting their fundamental sound.\n\n**The Gear Legacy:**\nThe Pearl Reference Series introduced here would carry Dee through *Motörizer* (2008) and beyond. For the full arc of that kit's refinement, see the [Motörizer drum setup](/articles/motorizer-drum-setup), the [Mikkey Dee drummer profile](/drummer/mikkey-dee), and the [complete kit breakdown](/articles/whats-in-mikkey-dees-kit).\n\n🤘 *New kit, same thunder.* 🤘"
+    }
+  },
+  "motorizer-drum-setup": {
+    "slug": "motorizer-drum-setup",
+    "albumTitle": "Motörizer",
+    "artist": "Motörhead",
+    "drummer": "Mikkey Dee",
+    "drummerId": 20,
+    "relatedDrummerSlug": "mikkey-dee",
+    "year": 2008,
+    "genre": "Heavy Metal / Speed Metal",
+    "label": "Steamhammer/SPV",
+    "studio": "Studio 606 (Northridge, California) & Sage and Sound (Los Angeles, California)",
+    "producer": "Cameron Webb",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-08",
+    "dateModified": "2026-07-08",
+    "author": "MetalForge Editorial",
+    "title": "Motörizer Drum Setup: Mikkey Dee's Gear on Motörhead's 2008 Album",
+    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Motörizer (2008) — recorded at Dave Grohl's Studio 606 and the band's highest-charting UK album since 1991. Complete breakdown of the refined Pearl Reference kit and Paiste cymbal setup.",
+    "seoKeywords": [
+      "mikkey dee drum kit",
+      "motorhead motorizer drums",
+      "mikkey dee pearl drums",
+      "motorhead drummer gear",
+      "motorizer 2008 drums",
+      "studio 606 motorhead",
+      "mikkey dee motorhead setup",
+      "motorhead rock out wwe"
+    ],
+    "ogImage": "/images/albums/motorizer-drums.webp",
+    "intro": {
+      "title": "Recording at Dave Grohl's Studio 606: Motörhead's Highest UK Chart Entry in Years",
+      "content": "Released on August 26, 2008 (September 1 in the UK and Europe), *Motörizer* is Motörhead's sixteenth studio album and the third consecutive record produced by Cameron Webb, following *Inferno* (2004) and *Kiss of Death* (2006). Notably, Mikkey Dee's drums for the album were tracked at Studio 606 — Dave Grohl's Foo Fighters recording facility in Northridge, California — with additional sessions and mixing handled at Sage and Sound in Los Angeles.\n\nThe album became a genuine commercial milestone for a band nearly 35 years into its career: *Motörizer* reached #32 on the UK Albums Chart, Motörhead's highest UK chart position since *1916* in 1991, alongside #5 in Germany, #9 in Finland, and #2 on the UK's dedicated Rock & Metal Chart, plus a Billboard 200 appearance at #82 in the United States. Recording stretched from late 2007 into June 2008, with the bulk of tracking taking place across the spring — a comparatively tight window for a band with Motörhead's road schedule.\n\nEleven tracks make up *Motörizer*, running a lean 39 minutes — among the tightest, most economical Motörhead records of the 2000s. The track \"Rock Out\" gained additional visibility as the theme song for WWE's Unforgiven pay-per-view event, putting Mikkey Dee's drumming in front of an audience well outside metal's traditional fanbase. The album also features a guest slide guitar contribution from Wesley Mishener on the bluesy \"English Rose,\" echoing the acoustic detours Dee had navigated on earlier records like *Inferno*'s \"Whorehouse Blues.\"\n\nBy 2008, Dee's Pearl Reference Series kit — introduced two years earlier on *Kiss of Death* — had been refined into a more confident, settled setup, expanded with an extra rack tom and road-tested through two full years of touring. This article breaks down the drum kit, cymbals, and hardware behind one of the most commercially successful late-period Motörhead records, and the unusual circumstance of recording drums in a studio built by one of rock's most famous former drummers.",
+      "keyPoints": [
+        "Released August 26, 2008 (September 1 UK/Europe) — Motörhead's sixteenth studio album",
+        "Drums recorded at Studio 606, Dave Grohl's Foo Fighters facility in Northridge, California",
+        "Reached #32 on the UK Albums Chart — Motörhead's highest UK position since 1916 (1991)",
+        "\"Rock Out\" served as the theme for WWE's Unforgiven pay-per-view event",
+        "Third consecutive Cameron Webb production, following Inferno (2004) and Kiss of Death (2006)"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference Series, Refined: A Settled Sound Two Years In",
+      "brand": "Pearl",
+      "model": "Pearl Reference Series",
+      "finish": "Piano black lacquer",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom",
+          "13\" Rack Tom",
+          "14\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" Floor Tom"
+        ],
+        "shells": "Maple/birch hybrid shells for fuller arena resonance"
+      },
+      "description": "By the time Motörhead entered Studio 606 to track *Motörizer*, Mikkey Dee's Pearl Reference Series kit — introduced two years earlier on [*Kiss of Death*](/articles/kiss-of-death-drum-setup) — had settled into a more confident, road-tested configuration. Dee expanded the rack tom setup from three drums to four (adding a 13\" alongside the existing 10\"/12\"/14\"), giving him a wider melodic range for fills on an album built around tight, economical songwriting.\n\nThe 22\" x 18\" bass drum remained unchanged — the same dimension Dee had relied on since his earliest Motörhead years, now delivered through Pearl's fuller-resonating maple/birch shells rather than Tama's punchier construction. Recording at Studio 606, a facility renowned for its natural room sound (built to Dave Grohl's specifications with acoustic input from Foo Fighters' own recording needs), gave Dee's kit an unusually spacious, live-feeling capture compared to the tighter, more compressed drum sound of *Inferno* and *Kiss of Death*.\n\nDee's playing throughout *Motörizer* reflects a drummer fully comfortable with his newer Pearl setup — the transitional uncertainty of breaking in a brand-new kit on *Kiss of Death* two years earlier had given way to complete command. Tracks like \"Runaround Man\" and \"When the Eagle Screams\" show Dee pushing tempo and precision simultaneously, confident that his gear would deliver exactly what he asked of it.\n\nThis expanded four-tom configuration would carry forward largely intact into *The Wörld Is Yours* (2010) and *Aftershock* (2013), before Dee added an additional 8\" tom for the final *Bad Magic* configuration in 2015.",
+      "notes": [
+        "Expanded to a four rack tom configuration (10\"/12\"/13\"/14\") from the three-tom Kiss of Death setup",
+        "22\" x 18\" bass drum unchanged from Dee's earliest Motörhead configuration",
+        "Recorded at Studio 606, Dave Grohl's Foo Fighters facility, known for its natural, spacious room sound",
+        "Second full album on the Pearl Reference Series — a noticeably more settled, confident performance than Kiss of Death"
+      ],
+      "estimatedValue": "$3,200–4,800 (2008 professional Pearl Reference configuration)"
+    },
+    "snare": {
+      "title": "The Steel Snare, Now Fully Broken In",
+      "brand": "Pearl",
+      "model": "Pearl Reference Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "Dee's snare on *Motörizer* was the same Pearl Reference steel model introduced on *Kiss of Death* two years earlier, now fully broken in and dialed to his preferences after extensive touring. The 14\" x 6.5\" dimensions remained the constant they'd been since *Bastards* — a fifteen-year consistency in Dee's core snare voice across three different drum brands.\n\nRecording at Studio 606 gave the snare a more open, natural room presence than the tighter, closer-miked approach used on *Inferno* and *Kiss of Death*. On \"Rock Out\" and \"Teach You How to Sing the Blues,\" the snare cracks with an assertive, slightly roomier character that suits the album's leaner, more direct arrangements.\n\nDee's tuning stayed on the higher side of medium, prioritizing cut and immediacy — essential on an album where several tracks run under three and a half minutes and every hit needs to register instantly.",
+      "tuningSetting": "Medium-high tension; captured with more natural room presence than earlier Cameron Webb-produced records",
+      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$350–550 (2008)"
+    },
+    "cymbals": {
+      "title": "Paiste Signature Takes the Lead",
+      "brand": "Paiste",
+      "series": "Paiste Signature / Paiste 2002",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste Signature 15\" Sound Edge Hi-Hats",
+          "position": "Left side",
+          "notes": "Upgraded from the 2002 series Sound Edge hats used on Inferno and Kiss of Death"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste Signature 22\" Full Ride",
+          "position": "Right side",
+          "notes": "Carried over from Kiss of Death; now the primary ride voice across the kit"
+        },
+        {
+          "type": "Crash (1)",
+          "model": "Paiste Signature 18\" Fast Crash",
+          "position": "Above rack toms",
+          "notes": "Quick, controlled decay for the album's tight, economical arrangements"
+        },
+        {
+          "type": "Crash (2)",
+          "model": "Paiste Signature 20\" Power Crash",
+          "position": "Right side",
+          "notes": "Replaced the 2002 series 20\" crash used on earlier albums for a fuller, more musical accent"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 18\" China",
+          "position": "Left opposite hi-hat",
+          "notes": "The one 2002-series holdout — retained for its trashy, aggressive cut"
+        }
+      ],
+      "description": "By *Motörizer*, Dee's cymbal setup had shifted decisively toward the Paiste Signature line, completing a transition that began tentatively on *Kiss of Death* two years earlier. Where that album blended 2002 and Signature cymbals roughly evenly, *Motörizer* leans almost entirely on Signature — with the 18\" China as the sole holdout from the brighter, harder-cutting 2002 series.\n\nThe move to Signature hi-hats and crashes gave Dee's cymbal sound more overtone complexity and musicality, a natural complement to Studio 606's spacious room capture. On \"When the Eagle Screams\" and \"Heroes,\" the Signature crashes ring with a fuller, more three-dimensional character than the tighter, more clipped 2002-series crashes heard on *Inferno*.\n\nThis was still recognizably the same Paiste artist relationship Dee had maintained since 1987 — just a more mature, refined expression of it, mirroring the confidence he'd developed with his Pearl drums over the preceding two years.",
+      "estimatedValue": "$1,600–2,400 full setup (2008)"
+    },
+    "hardware": {
+      "title": "Pearl Eliminator, Two Years In",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Pearl",
+          "model": "Pearl Eliminator",
+          "notes": "Same direct-drive pedal introduced on Kiss of Death, now fully dialed to Dee's preferred response",
+          "description": "By Motörizer, Dee's Pearl Eliminator setup had been road-tested across two years of touring behind Kiss of Death, giving him complete familiarity with its direct-drive response. The precision is audible on faster tracks like \"When the Eagle Screams,\" where the kick sits perfectly locked with Lemmy's bass without any hesitation."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl Reference Hi-Hat Stand",
+          "notes": "Matched hardware carried over from the Kiss of Death setup"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Dee's consistent throne choice across every gear era of his Motörhead career"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B",
+          "notes": "Same stick weight Dee had used since the early 1990s"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (focused attack, controlled resonance)",
+        "toms": "Remo Emperor Coated",
+        "snare": "Remo Emperor Coated"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Recording Motörizer: Drumming in Dave Grohl's Studio",
+      "content": "*Motörizer* carries a distinctive circumstance among Mikkey Dee's Motörhead recordings: his drum tracks were captured at Studio 606, the recording facility built and owned by Foo Fighters frontman (and former Nirvana drummer) Dave Grohl. The studio's reputation for natural, spacious room sound gave Cameron Webb a different sonic palette to work with than the tighter, more controlled studios used for *Inferno* and *Kiss of Death*.\n\n**A Drummer's Studio:**\nStudio 606 was designed with substantial input toward capturing powerful, natural-sounding drums — fitting, given Grohl's own background behind the kit. Webb leaned into this, using less compression and gating on Dee's kit than on the previous two Cameron Webb-produced Motörhead albums, letting more of the room's natural ambience into the final mix.\n\n**Compressed Timeline:**\nRecording stretched from late 2007 into June 2008, with the bulk of sessions concentrated in the spring. This more compact timeline, combined with the album's lean eleven-track, 39-minute runtime, reflects a band working with focused efficiency — no filler, no extended studio experimentation.\n\n**Mixing at Sage and Sound:**\nAfter tracking at Studio 606, mixing moved to Sage and Sound in Los Angeles, where Webb balanced the drums' newly spacious character against Phil Campbell's guitars and Lemmy's bass.\n\n**A Confident Performance:**\nWith two years of touring on his Pearl Reference kit behind him, Dee's playing throughout the sessions carries none of the adjustment period audible on parts of *Kiss of Death*. Every tempo change, every fill, lands with the assurance of a drummer who has fully absorbed his instrument.",
+      "keyTechniques": [
+        "Drums tracked at Studio 606, Dave Grohl's Foo Fighters recording facility in Northridge, California",
+        "Reduced compression and gating compared to Inferno and Kiss of Death, capturing more natural room ambience",
+        "Compact recording timeline from late 2007 into June 2008",
+        "Mixing completed at Sage and Sound, Los Angeles"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Runaround Man",
+        "bpm": "160",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener — a lean, direct statement of intent under the album's tight 39-minute runtime",
+          "Confident, settled Pearl Reference tone from the first bar",
+          "Kick and snare interplay locked in with none of the transitional feel of Kiss of Death",
+          "Fills are sharp and immediate, suited to the track's brief runtime"
+        ],
+        "gearNotes": "Studio 606's natural room capture gives the Pearl kit noticeably more spatial presence than the tighter Inferno and Kiss of Death mixes."
+      },
+      {
+        "track": "Rock Out",
+        "bpm": "145",
+        "signature": "4/4",
+        "highlights": [
+          "Became the theme song for WWE's Unforgiven pay-per-view, reaching an audience well beyond Motörhead's usual fanbase",
+          "Anthemic, mid-tempo groove with a memorable, chantable backbeat",
+          "Crash accents land on the track's hook for maximum impact",
+          "One of the album's most accessible tracks, without sacrificing Dee's characteristic power"
+        ],
+        "gearNotes": "The Paiste Signature crashes' fuller, more musical ring suits the track's anthemic, hook-driven structure."
+      },
+      {
+        "track": "English Rose",
+        "bpm": "100",
+        "signature": "4/4",
+        "highlights": [
+          "Bluesy, slide-guitar-driven track featuring guest musician Wesley Mishener",
+          "Dee pulls back to a restrained, groove-focused pocket rather than his usual full-force attack",
+          "Ghost notes and dynamic control echo the acoustic restraint shown on Inferno's Whorehouse Blues",
+          "Demonstrates the same jazz-derived dynamic range that has defined Dee's career since King Diamond"
+        ],
+        "gearNotes": "The Pearl Reference kit's fuller low-mid resonance gives the toms extra warmth during the track's more spacious, dynamic sections."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Mikkey Dee use on Motörizer?",
+        "answer": "On *Motörizer* (2008), Mikkey Dee played the same Pearl Reference Series kit he'd introduced on [*Kiss of Death*](/articles/kiss-of-death-drum-setup) two years earlier, now expanded to a four rack tom configuration (10\", 12\", 13\", 14\") alongside the same 22\" x 18\" bass drum and 16\" floor tom. The kit was recorded at Studio 606, Dave Grohl's Foo Fighters facility in Northridge, California, which gave the drums a more natural, spacious room sound than earlier Cameron Webb-produced Motörhead albums. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete gear history."
+      },
+      {
+        "question": "Why was Motörizer recorded at Dave Grohl's studio?",
+        "answer": "*Motörizer*'s drum tracks were recorded at Studio 606, the Northridge, California facility built by Foo Fighters frontman and former Nirvana drummer Dave Grohl. The studio was designed with an emphasis on capturing natural, powerful drum sounds, which producer Cameron Webb used to give Mikkey Dee's Pearl Reference kit a more open, live-feeling character than the tighter production of [*Inferno*](/articles/inferno-drum-setup) and [*Kiss of Death*](/articles/kiss-of-death-drum-setup). Mixing was completed separately at Sage and Sound in Los Angeles."
+      },
+      {
+        "question": "How did Motörizer perform on the charts?",
+        "answer": "*Motörizer* reached #32 on the UK Albums Chart — Motörhead's highest UK chart position since *1916* in 1991 — along with #5 in Germany, #9 in Finland, #2 on the UK Rock & Metal Chart, and #82 on the Billboard 200 in the United States. The track \"Rock Out\" gained extra visibility as the theme song for WWE's Unforgiven pay-per-view event, putting Mikkey Dee's drumming in front of an audience well outside metal's traditional fanbase."
+      },
+      {
+        "question": "What cymbals did Mikkey Dee use on Motörizer?",
+        "answer": "By *Motörizer*, Mikkey Dee's cymbal setup had shifted almost entirely to the Paiste Signature line — 15\" Sound Edge hi-hats, an 18\" Fast Crash, a 20\" Power Crash, and a 22\" Full Ride — with only an 18\" China cymbal retained from the brighter Paiste 2002 series used on [*Inferno*](/articles/inferno-drum-setup). Dee has been a Paiste artist since April 1987, and this setup represents the maturation of that decades-long relationship."
+      }
+    ],
+    "evolution": {
+      "title": "From Kiss of Death to Motörizer: A Kit Fully Broken In",
+      "content": "*Motörizer* (2008) shows Mikkey Dee's Pearl Reference Series kit two years into its life — no longer the brand-new setup introduced on [*Kiss of Death*](/articles/kiss-of-death-drum-setup), but a fully road-tested instrument Dee had complete command over. The core dimensions stayed constant, but the configuration expanded and the cymbal setup matured.\n\n**What Changed:**\nThe three-tom Kiss of Death configuration expanded to four rack toms (adding a 13\") for more fill options. The cymbal blend shifted decisively toward Paiste Signature, leaving only the China cymbal on the brighter 2002 series. Recording at Studio 606 gave the whole kit a more natural, spacious character than the tighter production of the two previous Cameron Webb albums.\n\n**What Stayed the Same:**\nThe 22\" x 18\" bass drum, the 14\" x 6.5\" steel snare, and the Pearl Eliminator pedal all carried forward unchanged from *Kiss of Death* — the settled foundation of a kit that would remain largely consistent through *The Wörld Is Yours* (2010) and *Aftershock* (2013) before its final expansion for *Bad Magic* (2015).",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Pearl Reference Series, 3 rack toms (Kiss of Death, 2006)",
+          "now": "Pearl Reference Series, 4 rack toms (Motörizer, 2008)"
+        },
+        {
+          "category": "Snare",
+          "then": "Pearl Reference Steel 14\" x 6.5\"",
+          "now": "Pearl Reference Steel 14\" x 6.5\" (unchanged)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste 2002 / Signature blend",
+          "now": "Paiste Signature (primary), 2002 China retained"
+        },
+        {
+          "category": "Pedals",
+          "then": "Pearl Eliminator (new)",
+          "now": "Pearl Eliminator (road-tested)"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "kiss-of-death-drum-setup",
+      "bad-magic-drum-setup",
+      "whats-in-mikkey-dees-kit"
+    ],
+    "relatedDrummers": [
+      20,
+      1,
+      4
+    ],
+    "relatedArticles": [
+      "kiss-of-death-drum-setup",
+      "bad-magic-drum-setup",
+      "whats-in-mikkey-dees-kit"
+    ],
+    "relatedLicks": [],
+    "internalLinks": [
+      {
+        "text": "Mikkey Dee drummer profile",
+        "url": "/drummer/mikkey-dee"
+      },
+      {
+        "text": "Kiss of Death drum setup (the Pearl kit's debut)",
+        "url": "/articles/kiss-of-death-drum-setup"
+      },
+      {
+        "text": "Bad Magic drum setup (the final Motörhead album)",
+        "url": "/articles/bad-magic-drum-setup"
+      },
+      {
+        "text": "What's In Mikkey Dee's Kit",
+        "url": "/articles/whats-in-mikkey-dees-kit"
+      },
+      {
+        "text": "Pearl drums brand overview",
+        "url": "/gear/pearl"
+      },
+      {
+        "text": "Paiste cymbals brand overview",
+        "url": "/gear/paiste"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Motörizer Drum Setup: Mikkey Dee's Gear on Motörhead's 2008 Album",
+          "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Motörizer (2008) — recorded at Dave Grohl's Studio 606.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-08",
+          "dateModified": "2026-07-08"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Motörizer",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Motörhead"
+          },
+          "datePublished": "2008-08-26",
+          "genre": "Heavy Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "Steamhammer/SPV"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "Runaround Man" },
+            { "@type": "MusicRecording", "name": "Teach You How to Sing the Blues" },
+            { "@type": "MusicRecording", "name": "When the Eagle Screams" },
+            { "@type": "MusicRecording", "name": "Rock Out" },
+            { "@type": "MusicRecording", "name": "One Short Life" },
+            { "@type": "MusicRecording", "name": "Buried Alive" },
+            { "@type": "MusicRecording", "name": "English Rose" },
+            { "@type": "MusicRecording", "name": "Back on the Chain" },
+            { "@type": "MusicRecording", "name": "Heroes" },
+            { "@type": "MusicRecording", "name": "Time Is Right" },
+            { "@type": "MusicRecording", "name": "The Thousand Names of God" }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Mikkey Dee",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Motörhead"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drums did Mikkey Dee use on Motörizer?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mikkey Dee played a Pearl Reference Series kit with a 22 x 18 inch bass drum and four rack toms (10, 12, 13, 14 inch) on Motörizer, recorded at Dave Grohl's Studio 606."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why was Motörizer recorded at Dave Grohl's studio?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Motörizer's drums were tracked at Studio 606, Dave Grohl's Foo Fighters facility, chosen for its natural, spacious room sound."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "How did Motörizer perform on the charts?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Motörizer reached number 32 on the UK Albums Chart, Motörhead's highest UK position since 1916 in 1991, plus number 5 in Germany and number 2 on the UK Rock and Metal Chart."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "Motörizer: A Kit Fully Mastered, A Band Still Climbing",
+      "content": "*Motörizer* (2008) captures Mikkey Dee at a moment of complete comfort with his gear — two years into the Pearl Reference Series kit introduced on *Kiss of Death*, recording in a studio built by one of rock's most famous drummers-turned-frontmen. The result is some of the most confident, settled drumming of Dee's later Motörhead career, delivered on an album that gave the band its best UK chart position in 17 years.\n\nThe expanded four-tom configuration, the matured Paiste Signature cymbal setup, and Studio 606's natural room capture all point to a drummer and a band operating at peak assurance — no longer proving anything, simply delivering. \"Rock Out\" reaching WWE's audience and the album's strong UK/German chart performance showed that after 16 years and as many studio albums, Motörhead's rhythm section still had genuine commercial pull.\n\n**For Drummers Studying Motörizer:**\nListen to \"Runaround Man\" for the settled, confident Pearl Reference tone, and \"English Rose\" for the same dynamic restraint Dee showed on *Inferno*'s \"Whorehouse Blues\" — proof that his range extended well beyond pure power, even this deep into a hard rock career.\n\n**The Gear Legacy:**\nThe Pearl Reference configuration refined here carried Dee through *The Wörld Is Yours* (2010) and *Aftershock* (2013) before its final form on *Bad Magic* (2015). For the complete arc, see the [Bad Magic drum setup](/articles/bad-magic-drum-setup), the [Mikkey Dee drummer profile](/drummer/mikkey-dee), and the [full kit breakdown](/articles/whats-in-mikkey-dees-kit).\n\n🤘 *Sixteen albums in, and the engine was still running hot.* 🤘"
+    }
   }
 };
 export default articles;

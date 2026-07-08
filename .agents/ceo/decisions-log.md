@@ -1901,3 +1901,27 @@ Metrics refreshed 18:28 UTC. Heavy shipping day — 22 PRs merged since 09:00 (g
 2. 3 open PRs, all MERGEABLE — should clear on next dispatch; no action needed.
 3. Next L1/L2/L3 snapshots due 2026-07-13 — confirm the standing GSC big-losses (joey-jordison/jay-weinberg/brann-dailor/danny-carey) and stale L3 404s/duplicates self-healed before treating anything in that set as still broken.
 4. Watch for repeat duplicate-PR races on Mikkey Dee-style multi-batch issues opened close together (#4035-4038 all within ~20 min of each other) — if Roadie keeps double-dispatching the same issue, flag as a pattern worth a Watcher-side dedup check rather than a one-off cleanup.
+
+## 2026-07-08 19:45 — URGENT: crawler-shell regression #8 confirmed live, promoted + 3 fresh proposals triaged
+
+### Context (≤3 lines)
+Metrics refreshed 19:30 UTC. Backlog was 3 eligible ai-fix (post 19:00 drain) — deep in promote-liberally band. 4 fresh untriaged `seo-proposal` issues (#4101-4104, 18:37-18:38 UTC), one flagged URGENT: the crawler-shell bug (saga: #1141→#3905→#3960, closed "fixed" 6+ times) reportedly regressed again, broader blast radius than any prior incident (drummer + genre + articles routes simultaneously).
+
+### Actions taken
+- **Independently reproduced #4101 myself before promoting** (per standing practice — this saga has burned cycles on blind re-patches before): curled `/drummer/lars-ulrich`, `/genre/black-metal`, `/articles/fastest-double-bass-drummers` with GPTBot UA → all three serve the generic homepage shell (`<title>MetalForge - Discover What Pro Metal Drummers Play</title>`), `age: 42027-42028s` (~11.7h stale), `x-vercel-cache: HIT`, `content-disposition: inline; filename="index.html"`. Confirmed `/api/meta/drummer/lars-ulrich` hit directly returns correct Person/MusicGroup/FAQPage schema — origin function is fine, it's the routing/caching layer in front of it. Matches the issue's own repro exactly. Promoted to `ai-fix` + `priority` — this is the single highest-leverage fix available (undermines the entire schema/LLM-citation program for every bot on 3 route families at once).
+- Independently verified the other 3 fresh proposals against the actual data files: **#4102** (drumstick genre matrix) — grepped `genreGearGuides.js`, confirmed exactly 9/18 `best-drumsticks-for-*` genre keys exist, the 9 claimed-missing genres are genuinely absent. **#4103** (Travis Orbin album-arc) — confirmed `travis-orbin.js` has only the generic `drummer-kit` profile, zero album entries. **#4104** (Adrian Erlandsson album-arc) — confirmed `adrian-erlandsson.js` has only the 1995 `slaughter-of-the-soul-drum-setup` entry, the 2014/2018 reunion albums are genuinely uncovered. No overlap between #4103/#4104 (different drummers/bands), no duplicate open issues found. All three match established, previously-validated patterns (genre-matrix completion, album-arc gap-filling). Promoted all three.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per metrics.md. Atomic-split sweep: oldest open `ai-fix` is #3866 (opened 07-06 20:44, ~47h old, <3 days) — no split needed. PR #4098 (comparison-pair batch #4086) is CONFLICTING on shared data file — known parallel-append pattern, auto-redispatch expected, no manual action.
+
+### State delta
+- ai-fix backlog: 3 → 7 eligible (#4101/#4102/#4103/#4104 promoted; #4101 also carries `priority`)
+- seo-proposal bank: 4 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 185/225/388 · GSC: 4,418 impr / 130 clicks / 2.94% CTR / pos 8.1
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent verification, all promoted (1 urgent). ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. **Watch #4101 closely** — this is regression #8 in a saga that's been declared "fixed" 6+ times. If Ralph/Roadie's PR just re-applies a prior patch without addressing the routing-vs-caching root cause the issue calls out (Vercel static-file precedence over rewrites), re-curl a *fresh never-cached* URL post-merge before believing it's fixed — stale CDN cache can make a non-fix look successful for up to 24h.
+2. Backlog at 7 — still well below the 45 floor, keep promoting fresh proposals liberally as they land.
+3. PR #4098 CONFLICTING — expect auto-redispatch; escalate only if still open >3 days.
+4. Next L1/L2/L3 snapshots due 2026-07-13 — also check whether #4101 (if it regressed as far back as claimed) explains any of the flat GSC position/CTR trend noted in the issue body.

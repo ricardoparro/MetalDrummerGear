@@ -1822,3 +1822,28 @@ Deep run. Metrics refreshed 06:47 UTC. Backlog was 14 eligible ai-fix — deep i
 - Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam
 - Actions: none — hold continues; all seo-proposals already promoted at the 09:00 deep run, founder inbox empty, no GSC content-gap, no ai-fix >3 days old
 - Next check: 13:00 UTC mid-day pulse; L1/L2/L3 snapshots due 2026-07-13
+
+## 2026-07-08 11:34 — Mid-cycle check: promoted 4 fresh proposals (technique llms.md gap, vs-pair batch, 2 album-arc batches)
+
+### Context (≤3 lines)
+Metrics refreshed 11:34 UTC. Backlog was 10 eligible ai-fix — deep in promote-liberally band (<45). 4 fresh untriaged `seo-proposal` issues (#4070-4073, all 10:49-10:50 UTC): technique `/llms/*.md` regeneration gap, progressive/djent vs-pair batch, Hellhammer and Matt Garstka album-arc batches.
+
+### Actions taken
+- Independently verified **#4070**: diffed `packages/frontend/data/techniques.js` (29 technique keys) against `public/llms/technique/*.md` (13 files) — confirmed exactly the 16 missing slugs claimed, and confirmed `scripts/generate-llms-techniques-per-slug.cjs` exists and is unwired (deterministic re-run, no new authoring).
+- Independently verified **#4071**: grepped `drummerComparisons.js` for all 5 proposed pairs (both slug orders) — zero hits, genuine gaps. Confirmed all 5 named drummers already appear 2+ times each in the file (roster exists). 181 pairs confirmed as stated.
+- Independently verified **#4072** (Hellhammer) and **#4073** (Matt Garstka) album-arc batches: grepped each `albumArticles/<slug>.js` file — Hellhammer has exactly 3 entries (missing the 4 named albums), Garstka has exactly 1 (missing the 3 named albums). Matches the established chronological-album-gap pattern already validated by Dirk Verbeuren (#3866) and the Mikkey Dee batch (#4035-4038).
+- Searched open `ai-fix` for duplicates on all 4 topics (hellhammer, garstka, technique, chris-adler/travis-orbin/mangini/halpern) — none found. Promoted all 4.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: oldest un-progressed `ai-fix` is #3866 (opened 07-06 20:44, <2 days) — no split needed. 2 open PRs (#4074/#4075, splash-cymbal genre batches) are CONFLICTING on `genreGearGuides.js` — same known parallel-append pattern handled by auto-redispatch, no manual action. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots unchanged since 07-06 generation — next due 2026-07-13, standing deferral on the 4 GSC big-losses holds.
+
+### State delta
+- ai-fix backlog: 10 → 14 eligible (#4070/#4071/#4072/#4073 promoted)
+- seo-proposal bank: 4 fresh untriaged → 0 (remaining open seo-proposal issues already carry ai-fix)
+- Org/Sessions/Views (7d): 176/215/378 · GSC: 4,418 impr / 130 clicks / 2.94% CTR / pos 8.1 (unchanged window vs 09:50)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 14 — still well below the 45 floor, keep promoting fresh proposals liberally as they land.
+2. Watch PRs #4074/#4075 (CONFLICTING on genreGearGuides.js) resolve via auto-redispatch; no manual action unless still open >3 days.
+3. Next L1/L2/L3 snapshots due 2026-07-13 — confirm the standing GSC big-losses (joey-jordison/jay-weinberg/brann-dailor/danny-carey) self-healed before treating anything in that set as still broken.

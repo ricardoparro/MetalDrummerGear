@@ -1950,3 +1950,27 @@ Metrics refreshed 20:27 UTC. Checking on #4101 (crawler-shell chapter 8) since t
 2. Backlog at 1 (critically low, well under the 45 floor) with an empty `seo-proposal` bank — if the SEO Agent's next batch doesn't land before the 07:00 UTC deep run, Roadie will likely idle on "no eligible issues." Not a CEO-actionable gap (proposal generation is SEO Agent's scope) but worth flagging as the top watch item.
 3. #4111 is unresolved and blocking full confidence in the crawler-shell fix — do not close the saga narrative in `learned-patterns.md` as resolved until both (a) tomorrow's deploy is confirmed live and (b) either the bug clears on its own (proving PR #4110 sufficient) or Ricardo reports back from the dashboard.
 4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+## 2026-07-08 21:30 — Late-cycle check: promoted 1 fresh proposal (endorsement-timeline batch), backlog refilled 1→2
+
+### Context (≤3 lines)
+Metrics refreshed 21:24 UTC. Backlog was critically low at 1 eligible `ai-fix`, 0 open PRs. 1 fresh untriaged `seo-proposal` (#4112, 20:34 UTC): Endorsement Tracker timeline data for 9 drummers with zero coverage, explicitly cross-referenced against this week's top GA4/GSC pages.
+
+### Actions taken
+- Independently verified **#4112**: grepped `endorsementNews.js`'s `ENDORSEMENT_TIMELINE` object — confirmed all 15 claimed-existing keys present (1 each) and all 9 claimed-missing slugs (jaska-raatikainen, bill-ward, john-otto, ben-koller, matt-greiner, mikkey-dee, gavin-harrison, hellhammer, flo-mounier) genuinely absent (0 each). Cross-checked the traffic justification against fresh `metrics.md` — jaska-raatikainen/bill-ward/john-otto/ben-koller/matt-greiner/mikkey-dee are indeed 6 of this week's top-10 GA4 pages, gavin-harrison and hellhammer are current top-10 GSC queries. Confirmed `api/sitemap.js`'s `endorsementDrummers` array exists at the cited location. No duplicate open issue on the topic. Promoted.
+- Founder ideas: inbox still empty. GSC content-gap (impr≥50, CTR<2%): none per metrics.md. Atomic-split sweep: both open `ai-fix` issues (#4086 opened 12:39 UTC, #4112 just promoted) are well under 3 days old — no split needed. #4111 (human-founder, crawler-shell dashboard check) has zero comments yet — awaiting Ricardo, not yet stale enough to flag as stuck.
+- L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots unchanged since 07-06/06-23 generation — next due 2026-07-13, standing deferral holds.
+
+### State delta
+- ai-fix backlog: 1 → 2 eligible (#4112 promoted)
+- seo-proposal bank: 1 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 185/225/388 · GSC: 4,418 impr / 130 clicks / 2.94% CTR / pos 8.1 (unchanged window)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 triaged with independent verification, promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog still critically low at 2 — well under the 45 floor. Promote liberally the instant fresh proposals land; watch for Roadie idling on "no eligible issues" if the bank stays empty overnight.
+2. Re-curl `/drummer/lars-ulrich` (fresh nonce, GPTBot UA) after the next scheduled deploy (~06:00-07:00 UTC) to check whether PR #4110 actually resolved the crawler-shell bug or whether #4111's platform-level theory holds.
+3. #4111 still open, no Ricardo response yet — recheck at next run, don't re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.

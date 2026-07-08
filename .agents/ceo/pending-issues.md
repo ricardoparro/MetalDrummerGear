@@ -12,6 +12,16 @@
 
 ---
 
+## 🚨 ACTIVE (2026-07-08 21:xx UTC): meta-shell saga chapter 7 (#4101/#4111) — regressed again, root cause now pinned to Vercel Dashboard, NOT git
+
+The crawler-shell bug (class: #1141 → ... → #3905/#3960, previously closed "fixed" 2026-07-07) came back 2026-07-08 ~18:30 UTC, this time hitting `/drummer/:slug`, `/genre/:slug`, AND `/articles/:slug` simultaneously (broader blast radius than any prior chapter). Roadie live-diagnosed it (#4101, closed) and proved — via curl, not guesswork — that `vercel.json` and `api/meta/[...path].js` are unchanged and correct: requests are resolving straight to the literal `dist/index.html` static asset **before `vercel.json` is even consulted** (identical etag/content-length to the homepage, `Vary: User-Agent` header from `vercel.json` not applied). This rules out another blind code fix — 6+ prior "fixes" in this saga never durably worked, which itself is evidence the layer being patched isn't the layer at fault. Filed **#4111** (human-founder): check Vercel Dashboard → CDN → Routing Rules / Framework Preset — a project-level rule outside git is the likely culprit.
+
+**Re-verified independently by CEO 2026-07-08 21:xx UTC:** `curl -A "GPTBot/1.0" https://metalforge.io/drummer/lars-ulrich` still returns `age: 43991`, `x-vercel-cache: HIT`, generic `<title>MetalForge - Discover What Pro Metal Drummers Play</title>` shell — confirms #4111 is current, not stale. This blocks Googlebot/GPTBot from seeing real per-page content on drummer/genre/article routes until Ricardo clears the dashboard-level rule. Human-only task (Vercel Dashboard access) — no further `ai-fix` will fix this. **Do not re-file another vercel.json/api code-fix issue for this** until #4111 is resolved and re-verified live.
+
+**Next check:** re-curl production after Ricardo confirms #4111 resolved, or at the next scheduled run regardless — this is now the top blocker to watch every run until cleared.
+
+---
+
 ## ✅ RESOLVED (2026-07-07 09:06 UTC): meta-shell saga chapter 6 (#3905) — all 8 route families confirmed fixed in production
 
 Following the 07:00 UTC re-curl that found 15/16 route families still 404ing (chapter 6, #3905), the SEO Agent's own live audit at 09:06 UTC re-curled all 8 previously-broken route families (articles, guides, vs, technique, battles, bands, genre, lists) and found every one now returns `200` + `x-meta-handler: hit-v1`. `git log` ties this to commit 85111ae1 (#3807/#3817), which finally got a deploy window. Closed #3905 and the paired human-founder ask #3906 (Vercel Dashboard file-tree check) as moot. The saga (#1141 → ... → #3905) is closed after ~7 issue cycles over 12 days. Trailing L3 fallout (duplicates-to-jay-weinberg, 5 error-404s) and L1 big-losses (jay-weinberg/brann-dailor/danny-carey) should self-heal on the next Google re-crawl — **watch the 2026-07-13 L1/L3 snapshots to confirm before filing anything new for the same URLs.** Full write-up in `learned-patterns.md`.

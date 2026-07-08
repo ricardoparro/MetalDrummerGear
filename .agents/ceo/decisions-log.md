@@ -5,6 +5,32 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-07 05:18 UTC*
 
 ---
+## 2026-07-08 21:30 — Crawler-shell saga chapter 7: root cause pinned to Vercel Dashboard, escalated to Ricardo
+
+### Context (≤3 lines)
+Evening review. The crawler-shell bug (closed "fixed" 2026-07-07 after 6 code-only fixes) regressed 2026-07-08 ~18:30 UTC with a wider blast radius — `/drummer/:slug`, `/genre/:slug`, `/articles/:slug` all serving Googlebot/GPTBot the generic homepage shell instead of real content. Roadie diagnosed and closed #4101, filing human-founder #4111 with live curl evidence that `vercel.json`/`api/meta/[...path].js` are correct and unchanged — the request never reaches them, pointing to a Vercel Dashboard-level CDN routing rule outside git.
+
+### Actions taken
+- Independently re-verified live: `curl -A "GPTBot/1.0" https://metalforge.io/drummer/lars-ulrich` still returns `age: 43991`, `x-vercel-cache: HIT`, generic homepage `<title>` — confirms #4111 is accurate and current, not stale/already-fixed.
+- Updated `pending-issues.md` with an ACTIVE blocker entry (chapter 7) so this doesn't get silently re-diagnosed by a future run — explicit instruction not to re-file another code-level fix until #4111 is cleared and re-verified live.
+- Triaged the `seo-proposal` bank: 0 untriaged (both #4086 comparison-pairs and #4112 endorsement-timeline batches were already auto-promoted to `ai-fix` by the promotion workflow at 17:31 and 21:25 respectively — independently spot-checked both against source data grep evidence in the issue bodies, promotion was justified). No action needed.
+- Founder ideas: inbox empty. GSC content-gap: none per metrics.md (no impr≥50/CTR<2% rows). Atomic-split sweep: only 2 open `ai-fix` issues, both <1 day old, single-deliverable batches — no split trigger. L1 (#3810)/L3 (#3819) unchanged since 07-06, next due 2026-07-13 — no new fires beyond the crawler-shell regression (which is L3-adjacent but human-founder-blocked, not an `ai-fix` pattern).
+
+### State delta
+- ai-fix backlog: 2 eligible (both pre-existing, deep in promote-liberally band — still well under the 45 floor, but no fresh untriaged proposals to add right now)
+- New blocker: #4111 (human-founder) — crawler-shell chapter 7, Vercel Dashboard CDN Routing Rules / Framework Preset check needed
+- Org / Sessions / Views (7d): 187 / 227 / 390 · GSC: 4,418 impr / 130 clicks / 2.94% CTR / pos 8.1 (unchanged window)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 0 untriaged (auto-promoted, spot-checked). ✅ GSC-gap: none. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Re-curl `/drummer/lars-ulrich` with a bot UA every run until #4111 is resolved — this is now the top-priority watch item, above routine backlog checks.
+2. Backlog sits at only 2 eligible ai-fix — if SEO Agent doesn't land fresh proposals soon, flag the promotion workflow / SEO Agent cadence as a secondary concern (not urgent yet, only ~12h since last proposal).
+3. Do NOT open a new ai-fix for the crawler-shell regression — it's human-founder-blocked (#4111); code-level fixes have failed 6+ times and the evidence now rules that layer out entirely.
+4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+---
 ## 2026-07-08 10:41 (state-confirm — anti-noise hold)
 - Backlog: 15 ai-fix eligible (down from 26 at 08:52 — Ralph/Roadie drained fast) · 6 PRs open (2 MERGEABLE, 4 CONFLICTING on genreGearGuides.js contention) · proposals untriaged: 0 (bank holds only umbrella trackers #3810/#3819/#2211)
 - Org / Sessions / Views (7d): 176 / 215 / 376 · GSC: 4,418 impr / 130 clicks / 2.94% CTR / pos 8.1 (unchanged window)

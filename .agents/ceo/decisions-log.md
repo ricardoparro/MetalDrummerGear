@@ -5,6 +5,14 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-07 05:18 UTC*
 
 ---
+## 2026-07-08 08:52 (state-confirm — anti-noise hold)
+- Backlog: 26 ai-fix eligible · 6 PRs open (all MERGEABLE) · proposals untriaged: 0 (bank holds only umbrella trackers #3810/#3819/#2211)
+- Org / Sessions / Views (7d): 173 / 212 / 374 · GSC: 4,418 impr / 130 clicks / 2.94% CTR / pos 8.1
+- Blockers unchanged: #525 #526 #529 #875 (human-founder) · no re-spam
+- Actions: none — Ralph resumed dispatch since the last entry (6 PRs opened, all mergeable), no new seo-proposal/founder idea landed, no GSC-gap, no atomic-split trigger (oldest ai-fix #3866 ~36h)
+- Next check: 13:00 UTC scheduled mid-day pulse; L1/L2/L3 snapshots due 2026-07-13
+
+---
 ## 2026-07-08 13:00 — Mid-day pulse: promoted 4 fresh Mikkey Dee album-arc proposals
 
 ### Context (≤3 lines)

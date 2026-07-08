@@ -1,5 +1,371 @@
 // Album drum-setup articles — Travis Orbin. Auto-split from the former monolith.
 export const articles = {
+  "periphery-drum-setup": {
+    "slug": "periphery-drum-setup",
+    "albumTitle": "Periphery",
+    "artist": "Periphery",
+    "drummer": "Travis Orbin",
+    "year": 2010,
+    "genre": "Progressive Metal / Djent",
+    "label": "Sumerian Records",
+    "studio": "The Barbershop / home studio sessions, Washington D.C. area",
+    "producer": "Periphery (self-produced), Misha Mansoor",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-08",
+    "dateModified": "2026-07-08",
+    "author": "MetalForge Editorial",
+    "title": "Periphery Drum Setup — Travis Orbin's Gear on the 2010 Debut Album",
+    "description": "How Travis Orbin's DW Collector's Series kit, Zildjian cymbals, and Roland trigger integration built the drum sound on Periphery's self-titled 2010 debut — the album that gave djent its technical vocabulary.",
+    "seoKeywords": [
+      "periphery debut album drums",
+      "travis orbin periphery drum setup",
+      "periphery 2010 drum kit",
+      "periphery self titled drums",
+      "travis orbin dw collectors series",
+      "icarus lives drums",
+      "djent debut album drumming",
+      "periphery sumerian records drums",
+      "travis orbin drum gear 2010",
+      "periphery drummer gear"
+    ],
+    "ogImage": "/images/albums/periphery-drum-setup.webp",
+    "intro": {
+      "title": "Periphery (2010): The Album That Named a Genre",
+      "content": "Released on March 30, 2010 through Sumerian Records, Periphery's self-titled debut is the record most commonly credited with turning \"djent\" from an onomatopoeic in-joke about palm-muted guitar tone into a recognized subgenre with its own technical vocabulary. The album had been years in the making — built around Misha Mansoor's bedroom demos and reshaped as the band assembled a lineup — and by the time it reached listeners, Travis Orbin's drumming was as central to its identity as the guitar tone that gave the genre its name.\n\nOrbin joined Periphery during the final stages of the album's assembly, and his contribution reshaped tracks like \"Icarus Lives!\", \"Jetpacks Was Yes!\", and \"Racecar\" into performances that drummers spent years transcribing. Where the guitar riffs established djent's rhythmic complexity on paper, Orbin's playing proved it could be executed with musicality intact — polyrhythmic phrasing, dense ghost-note work, and two-footed bass drum patterns that functioned as independent melodic voices rather than pure velocity displays.\n\nThe drum sound on Periphery reflects the album's hybrid production reality: a band recording largely outside a traditional big-budget studio, building tracks around programmed elements and live performance in equal measure. Orbin's acoustic kit — the same DW Collector's Series shells, Zildjian K Custom and A Custom cymbals, and Roland SPD-SX trigger integration that defined his rig throughout his Periphery tenure — had to sit convincingly alongside the record's electronic textures without sounding bolted on. That the album's drums still sound vital and human, rather than quantized, is a direct result of Orbin's approach to triggering: consistency married to genuine acoustic dynamics rather than a replacement for them.\n\nThe album's commercial and critical impact cannot be separated from its drumming. \"Icarus Lives!\" became djent's de facto anthem, and Orbin's performance on it — the song's syncopated verse groove, the widening polyrhythmic bridge, the sheer stamina required across its runtime — set a technical bar that the genre's subsequent drummers, including his own successor, were measured against. When Orbin departed Periphery in 2012, Matt Halpern inherited a drum chair whose baseline expectations had already been permanently raised. For the successor era, see [Matt Halpern's complete gear guide at MetalForge](/drummer/matt-halpern).\n\nThis article breaks down the drum kit, cymbals, and trigger setup behind Periphery's debut album — the gear and technique that gave djent drumming its first fully realized statement.",
+      "keyPoints": [
+        "Released March 30, 2010 on Sumerian Records — the album most credited with defining djent as a genre",
+        "Travis Orbin's drumming on 'Icarus Lives!' became the genre's technical benchmark track",
+        "DW Collector's Series kit and Zildjian K Custom/A Custom cymbals formed the acoustic foundation",
+        "Roland SPD-SX and bass drum triggers integrated electronic texture without sacrificing acoustic dynamics",
+        "Orbin's polyrhythmic, ghost-note-dense playing proved djent's guitar complexity translated to drums",
+        "Set the technical baseline later carried forward by successor drummer Matt Halpern"
+      ]
+    },
+    "drumKit": {
+      "title": "DW Collector's Series: The Acoustic Foundation of Djent's Debut",
+      "brand": "DW",
+      "model": "DW Collector's Series",
+      "finish": "Natural maple / custom touring finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "North American maple shells — DW Collector's custom ply construction"
+      },
+      "description": "For Periphery's debut, Orbin's DW Collector's Series shells needed to do something unusual: sound acoustically warm and human enough to counterbalance the record's programmed and heavily processed guitar tones, while remaining articulate enough that dense polyrhythmic patterns didn't dissolve into mush under layers of high-gain guitar. DW's North American maple construction, with its balanced low-mid warmth and controlled high-frequency attack, was suited to exactly that brief.\n\nThe double 22\" bass drum configuration was essential to tracks like 'Icarus Lives!' and 'Jetpacks Was Yes!', where two-footed patterns function as an independent rhythmic voice rather than a simple double-time reinforcement of the guitar riff. Both kicks were tuned and dampened identically, ensuring the syncopated interplay between feet read as a single coherent musical line rather than two mismatched drums.\n\nThe four-tom spread (10\", 12\", 14\", 16\") gave Orbin the melodic range Periphery's arrangements demanded for fills that function as compositional bridges between riffs rather than mere transitions. On a debut album built from dense, technically demanding material, the DW Collector's shell precision meant Orbin's tom fills spoke at distinct, reliable pitches take after take — a critical requirement when a band is recording and re-recording complex material without a major-label budget's studio time to spare.",
+      "notes": [
+        "DW Collector's Series maple shells — balanced warmth and attack for a debut built on dense arrangements",
+        "Double 22\" bass drums tuned identically for coherent two-footed djent patterns",
+        "Four-tom spread for compositional fills within Periphery's technical songwriting",
+        "Acoustic clarity essential to sitting alongside the album's programmed and processed elements"
+      ],
+      "estimatedValue": "$4,000–7,500 (DW Collector's shell pack, 2010 configuration)"
+    },
+    "cymbals": {
+      "title": "Zildjian K Custom and A Custom: Cutting Through Djent's Guitar Wall",
+      "brand": "Zildjian",
+      "series": "K Custom and A Custom Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian 14\" K Custom Dark Hi-Hats",
+          "position": "Left side",
+          "notes": "Articulate at speed without brightness competing with dense guitar frequencies"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 18\" A Custom Crash",
+          "position": "Left crash",
+          "notes": "Fast-responding accent crash for syncopated riff hits"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian 21\" K Custom Dark Ride",
+          "position": "Right side",
+          "notes": "Controlled wash — functional riding surface under high-gain guitars"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian 18\" A Custom China",
+          "position": "Over rack toms",
+          "notes": "Sharp rhythmic punctuation on riff transitions throughout the album"
+        }
+      ],
+      "description": "The cymbal choices on Periphery had to solve a specific problem: djent's guitar tone occupies a dense, mid-scooped frequency range that can easily bury or be buried by cymbal wash. Orbin's Zildjian K Custom Dark hi-hats and ride provided a darker, more controlled voice that sat underneath the guitars rather than fighting them, while the brighter A Custom crashes and china cut through cleanly for accents.\n\nOn 'Icarus Lives!' in particular, the hi-hat work carries much of the song's rhythmic identity through its shifting meters — the K Custom Dark's articulate but non-harsh voice let Orbin's fast, syncopated hi-hat patterns stay legible against the track's layered guitar arrangement. The A Custom china's immediate attack and quick decay made it the natural choice for punctuating the riff transitions that occur throughout nearly every track on the record.",
+      "estimatedValue": "$1,800–2,800 (Zildjian K Custom/A Custom setup, 2010 configuration)"
+    },
+    "hardware": {
+      "title": "Hardware and Triggers: Building Djent's Hybrid Drum Sound",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Pedal",
+          "notes": "Chain-drive double pedal for the album's syncopated two-footed patterns",
+          "description": "The DW 9000's adjustable cam and floating rotor gave Orbin the consistent, tunable response his double-bass patterns on tracks like 'Racecar' and 'Icarus Lives!' required — critical when a debut album's technical reputation rests on the drummer's ability to execute complex two-footed rhythms cleanly under studio scrutiny."
+        },
+        {
+          "type": "Bass Drum Triggers",
+          "brand": "Roland / DDrum",
+          "model": "Bass Drum Trigger System",
+          "notes": "Electronic triggers for consistent kick attack alongside the album's programmed elements",
+          "description": "Because Periphery's production blended live drumming with programmed and sample-based elements, consistent kick drum attack mattered more than usual. Triggers converted each stroke into a clean, processable signal, letting the acoustic kick sit in the mix with the same reliability as the record's electronic components."
+        },
+        {
+          "type": "Electronic Trigger Pad",
+          "brand": "Roland",
+          "model": "Roland SPD-SX Sampling Pad",
+          "notes": "Sample and texture layering integrated into the album's hybrid arrangements",
+          "description": "The SPD-SX let Orbin trigger supplementary textures live, tying his acoustic performance directly to the electronic elements woven through the album's arrangements rather than leaving that integration entirely to post-production."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Balanced weight for the album's mix of explosive accents and dense ghost-note work"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD (batter), Evans EQ3 Resonant ported (resonant)",
+        "toms": "Evans G2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Evans UV1 Coated (batter), Evans Hazy 300 (resonant)"
+      }
+    },
+    "faq": [
+      {
+        "question": "Who played drums on Periphery's self-titled 2010 debut album?",
+        "answer": "Travis Orbin played drums on Periphery's self-titled debut album, released March 30, 2010 on Sumerian Records. He was the band's founding drummer, joining during the final stages of the album's assembly, and his performance on tracks like 'Icarus Lives!' and 'Jetpacks Was Yes!' became a defining technical reference point for djent drumming. Full profile: [Travis Orbin at MetalForge](/drummer/travis-orbin)."
+      },
+      {
+        "question": "What drum kit did Travis Orbin use on Periphery's debut album?",
+        "answer": "Travis Orbin used a DW Collector's Series kit with North American maple shells, configured with double 22\" bass drums and a four-tom spread (10\", 12\", 14\", 16\"). He paired it with Zildjian K Custom Dark hi-hats and ride, and Zildjian A Custom crash and china cymbals — a combination chosen to stay articulate against the album's dense, mid-scooped guitar tone. Electronic bass drum triggers and a Roland SPD-SX sampling pad integrated the acoustic kit with the record's programmed elements."
+      },
+      {
+        "question": "Why is Periphery's debut album considered foundational to djent?",
+        "answer": "Periphery's 2010 self-titled debut is widely credited with turning djent from a guitar-tone in-joke into a recognized subgenre with its own musical vocabulary. Travis Orbin's drumming was central to that shift — his polyrhythmic phrasing, ghost-note density, and independent two-footed bass drum patterns proved that the genre's guitar-driven complexity could be matched, note for note, on drums. 'Icarus Lives!' in particular became the genre's most transcribed and studied track."
+      },
+      {
+        "question": "What drumsticks and heads did Travis Orbin use recording Periphery?",
+        "answer": "Orbin played Vic Firth American Classic 5B sticks, chosen for the balance of mass and control his mix of explosive accents and dense ghost notes required. His drums were fitted with Evans heads throughout — EMAD on the bass drums for a focused, trigger-friendly attack, G2 Coated on the toms, and UV1 Coated on the snare. For more on gear suited to djent's technical demands, see the [best drumsticks for djent guide at MetalForge](/guides/best-drumsticks-for-djent)."
+      },
+      {
+        "question": "Who replaced Travis Orbin as Periphery's drummer?",
+        "answer": "Matt Halpern replaced Travis Orbin as Periphery's drummer after Orbin's 2012 departure. Halpern inherited a drum chair whose technical baseline had been set by Orbin's work on the 2010 debut and Periphery II (2012), and went on to develop the band's groove-oriented evolution across subsequent albums. Full gear breakdown: [Matt Halpern at MetalForge](/drummer/matt-halpern)."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "periphery-ii-drum-setup",
+      "whats-in-matt-halperns-kit"
+    ],
+    "relatedDrummers": [
+      18,
+      5,
+      47
+    ],
+    "relatedArticles": [
+      "djent-drumming-guide",
+      "best-drums-for-djent"
+    ],
+    "conclusion": {
+      "title": "The Debut That Set Djent's Technical Standard",
+      "content": "Periphery's self-titled debut endures because it delivered on the promise its guitar riffs made: that djent's rhythmic complexity could be played, not just programmed. Travis Orbin's drumming — DW Collector's Series shells for acoustic clarity, Zildjian K Custom and A Custom cymbals for cutting through a dense guitar wall, and Roland trigger integration for a hybrid sound that never felt mechanical — is the reason the album's drum parts are still studied and transcribed more than a decade later.\n\n**Explore related content at MetalForge:**\n- **Travis Orbin drummer profile**: [/drummer/travis-orbin](/drummer/travis-orbin)\n- **Matt Halpern's gear breakdown**: [/drummer/matt-halpern](/drummer/matt-halpern) — the successor era\n- **Periphery II drum setup**: [/articles/periphery-ii-drum-setup](/articles/periphery-ii-drum-setup) — Orbin's final album with the band\n- **Best drumsticks for djent**: [/guides/best-drumsticks-for-djent](/guides/best-drumsticks-for-djent)"
+    }
+  },
+  "periphery-ii-drum-setup": {
+    "slug": "periphery-ii-drum-setup",
+    "albumTitle": "Periphery II: This Time It's Personal",
+    "artist": "Periphery",
+    "drummer": "Travis Orbin",
+    "year": 2012,
+    "genre": "Progressive Metal / Djent",
+    "label": "Sumerian Records",
+    "studio": "Studio sessions, Washington D.C. area",
+    "producer": "Periphery (self-produced), Adam \"Nolly\" Getgood (mixing)",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-08",
+    "dateModified": "2026-07-08",
+    "author": "MetalForge Editorial",
+    "title": "Periphery II Drum Setup — Travis Orbin's Final Album Gear (2012)",
+    "description": "Travis Orbin's drum setup on Periphery II: This Time It's Personal (2012) — his final album with the band before departing, and the record that expanded djent's dynamic range beyond the debut's technical showcase.",
+    "seoKeywords": [
+      "periphery ii drum setup",
+      "travis orbin periphery ii",
+      "this time its personal drums",
+      "periphery ii 2012 drum kit",
+      "travis orbin final periphery album",
+      "periphery ii drummer gear",
+      "make total destroy drums",
+      "ragnarok periphery drums",
+      "travis orbin dw drums 2012",
+      "periphery sumerian records 2012"
+    ],
+    "ogImage": "/images/albums/periphery-ii-drum-setup.webp",
+    "intro": {
+      "title": "Periphery II (2012): Travis Orbin's Final Statement with the Band",
+      "content": "Released on August 21, 2012 through Sumerian Records, Periphery II: This Time It's Personal was Travis Orbin's second and final album as Periphery's drummer before his departure from the band later that year. Where the 2010 debut functioned as a technical introduction — proving djent's guitar-driven complexity could be executed on drums — Periphery II broadened the band's palette, incorporating more melodic songwriting, cleaner dynamic contrast, and denser arrangements across tracks like 'Make Total Destroy,' 'Ragnarok,' and 'Ji.'\n\nOrbin's drumming across the album reflects that broadened scope. The record still contains the polyrhythmic density and two-footed independence that defined his debut performance, but it also demands more textural variation — passages that pull back to spacious, groove-based playing before erupting back into full technical density. That range, arguably even more demanding than pure technical showcase, is a large part of why Periphery II is regarded by many longtime fans as the more complete demonstration of Orbin's abilities, even if 'Icarus Lives!' remains the more widely cited single track.\n\nGear-wise, Orbin's rig for Periphery II carried over the DW Collector's Series kit, Zildjian K Custom and A Custom cymbals, and Roland SPD-SX/trigger integration that had defined his debut-era setup, refined through two additional years of touring and studio experience. The album's mix, handled by Adam \"Nolly\" Getgood (later Periphery's own bassist), gave the drums a more polished, controlled presence than the debut's rawer production — Orbin's acoustic dynamics and electronic layering sit more tightly integrated as a result.\n\nOrbin departed Periphery shortly after Periphery II's release, closing out a chapter that had begun with the band's formation. Matt Halpern took over the drum chair for all subsequent Periphery releases, building on the technical and dynamic foundation Orbin established across these first two albums. For the successor era, see [Matt Halpern's complete gear guide at MetalForge](/drummer/matt-halpern).\n\nThis article breaks down the kit, cymbals, and trigger setup behind Travis Orbin's final Periphery album — the closing chapter of djent's founding drum era.",
+      "keyPoints": [
+        "Released August 21, 2012 on Sumerian Records — Travis Orbin's final album with Periphery",
+        "Expanded the band's dynamic range beyond the debut's pure technical showcase",
+        "Mixed by Adam 'Nolly' Getgood, giving the drums a more polished, controlled presence",
+        "DW Collector's Series kit and Zildjian K Custom/A Custom cymbals carried over from the debut era",
+        "Roland SPD-SX and bass drum trigger integration refined through two years of touring",
+        "Orbin departed Periphery shortly after release; Matt Halpern became his successor"
+      ]
+    },
+    "drumKit": {
+      "title": "DW Collector's Series: Refined for Periphery's Broader Dynamic Range",
+      "brand": "DW",
+      "model": "DW Collector's Series",
+      "finish": "Custom touring finish",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "North American maple shells — DW Collector's custom ply construction"
+      },
+      "description": "By the time Periphery II was recorded, Orbin's DW Collector's Series kit had been road-tested through two years of touring behind the debut. The same North American maple shell construction remained the foundation, but the album's broader dynamic range — spacious, groove-oriented verses giving way to dense technical passages — put different demands on the kit than the debut's more uniformly high-intensity material.\n\nTracks like 'Ji' and the more melodic sections of 'Masochist' required the toms and bass drums to sound convincing at lower dynamic levels, not just to cut through at full intensity. The DW Collector's shells' natural resonance and tuning stability meant Orbin could pull back to quieter, more textural playing without the kit losing its acoustic character — a quality that matters far more on an album built around dynamic contrast than on one built around sustained technical density.\n\nThe double 22\" bass drum configuration remained unchanged from the debut, still essential for tracks like 'Ragnarok' and 'Make Total Destroy' where syncopated two-footed patterns anchor the rhythm section. The four-tom spread continued to give Orbin the melodic range for fills that bridge Periphery II's more elaborate song structures, several of which run well past the six-minute mark with multiple distinct sections.",
+      "notes": [
+        "Same DW Collector's Series maple shells as the debut, road-tested through two years of touring",
+        "Tuning stability supports the album's broader dynamic range, from spacious grooves to dense technical passages",
+        "Double 22\" bass drums remain central to syncopated tracks like 'Ragnarok' and 'Make Total Destroy'",
+        "Four-tom spread supports fills across the album's longer, multi-section song structures"
+      ],
+      "estimatedValue": "$4,000–7,500 (DW Collector's shell pack, 2012 touring configuration)"
+    },
+    "cymbals": {
+      "title": "Zildjian K Custom and A Custom: Dynamic Range for a More Textured Album",
+      "brand": "Zildjian",
+      "series": "K Custom and A Custom Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian 14\" K Custom Dark Hi-Hats",
+          "position": "Left side",
+          "notes": "Carried over from the debut — versatile across the album's wider dynamic range"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 18\" A Custom Crash",
+          "position": "Left crash",
+          "notes": "Primary accent crash for both spacious and dense sections"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 19\" A Custom Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash voice for the album's more expansive, melodic passages"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian 21\" K Custom Dark Ride",
+          "position": "Right side",
+          "notes": "Controlled wash supporting both groove-based and technical sections"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian 18\" A Custom China",
+          "position": "Over rack toms",
+          "notes": "Sharp accents for the album's heavier, riff-driven sections"
+        }
+      ],
+      "description": "Orbin's cymbal setup for Periphery II largely mirrors the debut's K Custom Dark and A Custom configuration, but the album's broader compositional scope asked more of it. Tracks that shift between spacious, almost post-rock-influenced sections and full-intensity djent riffing — 'Ji' being the clearest example — needed cymbals that could function as textural color at low dynamics and as cutting rhythmic tools at high dynamics without a wardrobe change.\n\nThe addition of a second, fuller 19\" A Custom crash alongside the debut-era 18\" gave Orbin more tonal range for the album's more melodic, expansive passages, where a single crash voice would have felt repetitive across the album's longer song forms. The K Custom Dark ride and hi-hats remained the backbone for riding patterns in both contexts, their controlled, non-harsh voice working as well under a quiet verse groove as under a full-band technical passage.",
+      "estimatedValue": "$2,000–3,000 (Zildjian K Custom/A Custom setup, 2012 configuration)"
+    },
+    "hardware": {
+      "title": "Hardware and Triggers: A Refined Hybrid Setup",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "DW",
+          "model": "DW 9000 Series Double Pedal",
+          "notes": "Same chain-drive double pedal carried over from the debut era",
+          "description": "Two additional years of touring refined Orbin's setup on the DW 9000, but the core pedal remained unchanged — its adjustable cam and consistent chain-drive response continuing to serve the syncopated two-footed patterns central to tracks like 'Ragnarok.'"
+        },
+        {
+          "type": "Bass Drum Triggers",
+          "brand": "Roland / DDrum",
+          "model": "Bass Drum Trigger System",
+          "notes": "Refined for Periphery II's more polished mix, handled by Adam 'Nolly' Getgood",
+          "description": "With Adam 'Nolly' Getgood mixing Periphery II, the album's overall production is more controlled and polished than the debut's rawer sound. Orbin's bass drum triggers benefited from this — the consistent electronic signal they provided integrated more tightly into a mix that demanded more precision across the album's wider dynamic range."
+        },
+        {
+          "type": "Electronic Trigger Pad",
+          "brand": "Roland",
+          "model": "Roland SPD-SX Sampling Pad",
+          "notes": "Continued use for textural layering across the album's more melodic sections",
+          "description": "The SPD-SX remained part of Orbin's live and studio setup for Periphery II, used to layer textures into the album's more atmospheric passages — an extension of the hybrid approach established on the debut, now applied across a wider range of compositional moods."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Unchanged from the debut — balance of control and mass across dynamic extremes"
+        }
+      ],
+      "heads": {
+        "bassKick": "Evans EMAD (batter), Evans EQ3 Resonant ported (resonant)",
+        "toms": "Evans G2 Coated (batter), Evans G1 Clear (resonant)",
+        "snare": "Evans UV1 Coated (batter), Evans Hazy 300 (resonant)"
+      }
+    },
+    "faq": [
+      {
+        "question": "Was Travis Orbin the drummer on Periphery II?",
+        "answer": "Yes, Travis Orbin played drums on Periphery II: This Time It's Personal, released August 21, 2012 on Sumerian Records. It was his second and final album with the band — he departed shortly after its release. His replacement, Matt Halpern, has been Periphery's drummer on every album since. Full profile: [Travis Orbin at MetalForge](/drummer/travis-orbin)."
+      },
+      {
+        "question": "What drum kit did Travis Orbin use on Periphery II?",
+        "answer": "Orbin used the same DW Collector's Series kit that defined his debut-era setup — North American maple shells, double 22\" bass drums, and a four-tom spread (10\", 12\", 14\", 16\") — refined through two years of touring. His cymbal setup added a fuller 19\" A Custom crash alongside the existing Zildjian K Custom Dark hi-hats/ride and 18\" A Custom crash and china, giving him more tonal range for the album's broader dynamic contrasts."
+      },
+      {
+        "question": "How does Periphery II's drumming differ from the debut album?",
+        "answer": "Periphery II demands more dynamic range than Periphery's 2010 debut. Where the debut was a largely sustained technical showcase, Periphery II incorporates spacious, groove-oriented sections alongside its dense polyrhythmic passages — tracks like 'Ji' shift between the two within a single song. Travis Orbin's playing and gear adapted accordingly, with cymbals and drums that needed to function as textural color at low dynamics as well as cutting rhythmic tools at full intensity."
+      },
+      {
+        "question": "Why did Travis Orbin leave Periphery after Periphery II?",
+        "answer": "Travis Orbin departed Periphery in 2012 shortly after the release of Periphery II: This Time It's Personal, on amicable terms. Matt Halpern took over the drum chair and has recorded every Periphery album since, building on the technical foundation Orbin established across the debut and Periphery II. See [Matt Halpern's complete gear breakdown at MetalForge](/drummer/matt-halpern) for the successor era."
+      },
+      {
+        "question": "What cymbals and sticks did Travis Orbin use on Periphery II?",
+        "answer": "Orbin played Zildjian K Custom Dark hi-hats and ride alongside Zildjian A Custom crashes (18\" and 19\") and an 18\" A Custom china, with Vic Firth American Classic 5B sticks. The dual crash setup was new for Periphery II, added to give more tonal variety across the album's more melodic, expansive song sections. For more on gear suited to technical progressive metal, see the [best drumsticks for djent guide at MetalForge](/guides/best-drumsticks-for-djent)."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "periphery-drum-setup",
+      "whats-in-matt-halperns-kit"
+    ],
+    "relatedDrummers": [
+      18,
+      5,
+      47
+    ],
+    "relatedArticles": [
+      "djent-drumming-guide",
+      "best-drums-for-djent"
+    ],
+    "conclusion": {
+      "title": "The Closing Chapter of Djent's Founding Drum Era",
+      "content": "Periphery II: This Time It's Personal closed out Travis Orbin's tenure with the band he helped found, and it did so by demonstrating a wider range than the debut's technical showcase alone could capture. His DW Collector's Series kit and Zildjian cymbal setup, refined through two years of touring, gave him the acoustic flexibility to move between spacious groove and dense polyrhythmic complexity within the same song — arguably a harder demonstration of musicianship than pure technical density.\n\n**Explore related content at MetalForge:**\n- **Travis Orbin drummer profile**: [/drummer/travis-orbin](/drummer/travis-orbin)\n- **Matt Halpern's gear breakdown**: [/drummer/matt-halpern](/drummer/matt-halpern) — the successor era\n- **Periphery drum setup**: [/articles/periphery-drum-setup](/articles/periphery-drum-setup) — the 2010 debut that started it all\n- **Best drumsticks for djent**: [/guides/best-drumsticks-for-djent](/guides/best-drumsticks-for-djent)"
+    }
+  },
   "travis-orbin-drum-setup": {
     "slug": "travis-orbin-drum-setup",
     "articleType": "drummer-kit",

@@ -868,8 +868,8 @@ export const articles = {
       }
     ],
     "relatedAlbums": [
+      "figure-number-five-drum-setup",
       "natural-born-chaos-drum-setup",
-      "dystopia-drum-setup",
       "the-sick-the-dying-and-the-dead-drum-setup"
     ],
     "relatedDrummers": [
@@ -1102,8 +1102,8 @@ export const articles = {
     ],
     "videos": [],
     "relatedAlbums": [
+      "figure-number-five-drum-setup",
       "stabbing-the-drama-drum-setup",
-      "dystopia-drum-setup",
       "the-sick-the-dying-and-the-dead-drum-setup"
     ],
     "relatedDrummers": [
@@ -1119,7 +1119,242 @@ export const articles = {
     "relatedLicks": [],
     "conclusion": {
       "title": "The Album That Put Dirk Verbeuren on the Map",
-      "content": "\"Natural Born Chaos\" is the record where Dirk Verbeuren's name started reaching listeners far beyond Soilwork's existing fanbase. Just his second album with the band, it paired his technical precision with a bolder, more melodic songwriting direction — and the combination turned Soilwork into one of the flagship bands of the early-2000s melodic death metal boom.\n\n**The Gear Foundation:**\nThe Tama Starclassic Performer kit, Meinl Byzance cymbals, and Iron Cobra pedals Verbeuren used here are the same core setup he carried into 'Stabbing the Drama' three years later — brand relationships that would ultimately last his entire career, evolving into Meinl and Tama's flagship lines by the time he joined Megadeth.\n\n**A Career-Long Arc:**\n'Natural Born Chaos' sits early in a run of studio albums Verbeuren recorded with Soilwork between 2001 and 2015, before he departed for Megadeth in 2016. For the album released three years later on the same core setup, see the [Stabbing the Drama Drum Setup article](/articles/stabbing-the-drama-drum-setup). For his complete gear evolution across both bands, visit the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren)."
+      "content": "\"Natural Born Chaos\" is the record where Dirk Verbeuren's name started reaching listeners far beyond Soilwork's existing fanbase. Just his second album with the band, it paired his technical precision with a bolder, more melodic songwriting direction — and the combination turned Soilwork into one of the flagship bands of the early-2000s melodic death metal boom.\n\n**The Gear Foundation:**\nThe Tama Starclassic Performer kit, Meinl Byzance cymbals, and Iron Cobra pedals Verbeuren used here are the same core setup he carried into 'Stabbing the Drama' three years later — brand relationships that would ultimately last his entire career, evolving into Meinl and Tama's flagship lines by the time he joined Megadeth.\n\n**A Career-Long Arc:**\n'Natural Born Chaos' sits early in a run of studio albums Verbeuren recorded with Soilwork between 2001 and 2015, before he departed for Megadeth in 2016. For the very next Soilwork album, released a year later, see the [Figure Number Five Drum Setup article](/articles/figure-number-five-drum-setup). For the album released three years after that on the same core setup, see the [Stabbing the Drama Drum Setup article](/articles/stabbing-the-drama-drum-setup). For his complete gear evolution across both bands, visit the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren)."
+    }
+  },
+  "figure-number-five-drum-setup": {
+    "slug": "figure-number-five-drum-setup",
+    "albumTitle": "Figure Number Five",
+    "artist": "Soilwork",
+    "band": "Soilwork",
+    "drummer": "Dirk Verbeuren",
+    "drummerId": 22,
+    "relatedDrummerSlug": "dirk-verbeuren",
+    "year": 2003,
+    "genre": "Melodic Death Metal",
+    "label": "Nuclear Blast Records",
+    "studio": "Queenstreet Recording (guitars/keyboards), Dug-Out Productions (drums) & Studio Fredman (vocals/bass), Sweden",
+    "producer": "Self-produced by Soilwork; mixed by Fredrik Nordström & Patrik J. Sten",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-08",
+    "dateModified": "2026-07-08",
+    "author": "MetalForge Editorial",
+    "title": "Dirk Verbeuren's Drum Setup on Soilwork's 'Figure Number Five' (2003)",
+    "description": "The fan-favorite that closed out Soilwork's early-2000s run. Full breakdown of the Tama Starclassic Performer kit, Meinl Byzance cymbals, and Iron Cobra pedals Dirk Verbeuren used to record 'Figure Number Five' — frequently cited as one of the band's best albums.",
+    "seoKeywords": [
+      "dirk verbeuren figure number five",
+      "figure number five drum setup",
+      "soilwork figure number five drummer",
+      "dirk verbeuren tama starclassic performer",
+      "soilwork drummer gear",
+      "dirk verbeuren meinl byzance",
+      "soilwork 2003 album drums"
+    ],
+    "ogImage": "/images/albums/figure-number-five-drums.webp",
+    "intro": {
+      "title": "Closing Out Soilwork's Early-2000s Run in Style",
+      "content": "Released April 22, 2003 on Nuclear Blast Records, \"Figure Number Five\" is Soilwork's fifth studio album and the record that closed out the band's early-2000s creative run, arriving one year after the breakthrough of \"Natural Born Chaos.\" Recording was split across three Swedish facilities: guitars and keyboards were tracked at Queenstreet Recording between December 2002 and January 2003, drums were captured at Dug-Out Productions in January 2003, and vocals and bass were recorded at Studio Fredman in January and February 2003. Soilwork self-produced the album, with mixing handled at Studio Fredman by Fredrik Nordström and Patrik J. Sten alongside the band, and mastering completed by Göran Finnberg at The Mastering Room.\n\nThe album pushed Soilwork's sound further toward accessible, hook-driven songwriting, with keyboardist Sven Karlsson contributing lead songwriting on six of the eleven tracks — a first for the band, and a sign of the increasingly melodic, alternative-metal-tinged direction that would define the middle stretch of Soilwork's catalogue. Guitarist Peter Wichers wrote the remaining five tracks, keeping one foot in the band's more aggressive melodic death metal roots.\n\n\"Figure Number Five\" charted at #52 on Germany's Media Control Charts and drew some of the strongest reviews of Soilwork's career: AllMusic awarded it four out of five stars, and Rock Hard magazine gave it 9.5 out of 10, later ranking it #398 on their 2005 list of the \"500 Greatest Rock & Metal Albums of All Time.\" Among fans and critics, it's frequently named alongside \"Natural Born Chaos\" and \"Stabbing the Drama\" as one of the three essential albums from Soilwork's most celebrated creative stretch, prized for tightening the melodic hooks introduced on the previous record without losing the technical drumming and dual-guitar interplay that built the band's reputation.\n\nFor Dirk Verbeuren, \"Figure Number Five\" meant refining the same technical foundation he'd established on \"Natural Born Chaos\" — rapid, articulate fills and controlled double bass work — against material that leaned even harder into melody and arrangement. This article breaks down the gear Dirk Verbeuren used to record it, the middle chapter in Soilwork's acclaimed early-2000s trilogy.",
+      "keyPoints": [
+        "Soilwork's fifth studio album, released April 22, 2003 on Nuclear Blast Records",
+        "Recorded across three Swedish studios: Queenstreet Recording, Dug-Out Productions, and Studio Fredman",
+        "Self-produced by Soilwork; mixed by Fredrik Nordström & Patrik J. Sten",
+        "AllMusic gave it four out of five stars; Rock Hard scored it 9.5/10 and later ranked it #398 on their all-time list",
+        "Frequently cited by fans and critics as one of Soilwork's best albums",
+        "Tama Starclassic Performer kit with Meinl Byzance cymbals, carried over from 'Natural Born Chaos'"
+      ]
+    },
+    "drumKit": {
+      "title": "Dirk's Tama Starclassic Performer: Refining the Early Soilwork Sound",
+      "brand": "Tama",
+      "model": "Tama Starclassic Performer",
+      "finish": "Birch/maple hybrid shells",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 14\" Floor Tom",
+          "16\" x 16\" Floor Tom"
+        ],
+        "shells": "Birch/maple hybrid shells for balanced attack and low end"
+      },
+      "description": "Dirk Verbeuren carried the same Tama Starclassic Performer kit from \"Natural Born Chaos\" straight into the \"Figure Number Five\" sessions — a birch/maple hybrid line whose balance of punchy attack and warm sustain suited both the band's established Gothenburg-adjacent sound and its increasingly melodic, keyboard-forward songwriting.\n\nTracking drums separately at Dug-Out Productions, apart from the guitars and vocals recorded elsewhere, gave the engineers a focused, isolated drum signal to build the rest of the album around. The 22\" x 18\" bass drum retained the deep, controlled low end that had anchored \"Natural Born Chaos,\" while the hybrid shell construction kept the attack defined enough to sit clearly beneath Sven Karlsson's expanded keyboard arrangements.\n\nAs on every session throughout his career, Verbeuren used a single bass drum with a double pedal rather than twin kicks. The compact 10\" and 12\" rack tom pairing continued to serve his rapid, articulate fill work, while the 14\" and 16\" floor toms provided the low-end weight needed for tracks like \"Downfall 24\" and \"Cranking the Sirens\" without adding bulk to a kit built for speed.\n\nWith the core setup unchanged from the previous album, \"Figure Number Five\" let Verbeuren focus purely on performance rather than adapting to new gear — a continuity that shows in the record's confident, settled drumming compared to the more exploratory feel of his earlier sessions with the band.",
+      "notes": [
+        "Same Tama Starclassic Performer kit carried over from 'Natural Born Chaos'",
+        "Single 22\" bass drum with double pedal, unchanged across his Soilwork tenure",
+        "Drums tracked separately at Dug-Out Productions for a focused, isolated signal",
+        "Compact rack tom pairing supports fast fill transitions amid denser keyboard arrangements"
+      ],
+      "estimatedValue": "$3,000-4,500 (Starclassic Performer configuration, early 2000s)"
+    },
+    "snare": {
+      "title": "Consistency Through the Studio Split",
+      "brand": "Tama",
+      "model": "Tama Starclassic Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "Verbeuren's snare on \"Figure Number Five\" was the same Tama Starclassic steel-shell model he used on \"Natural Born Chaos\" — chosen for the bright, focused crack needed to cut through Soilwork's layered guitar and keyboard production. Steel's tighter, more metallic overtone profile keeps the drum present in a mix built around melody as much as aggression.\n\nAt 14\" x 6.5\", the drum carried enough shell depth for body alongside the steel's natural brightness, allowing the snare to stay articulate beneath Björn \"Speed\" Strid's vocal hooks and the album's expanded keyboard textures. Verbeuren tuned it medium-high, the same articulation-first approach he applied throughout his Soilwork tenure.\n\nBecause drums were tracked independently at Dug-Out Productions rather than alongside the rest of the band, the snare signal came through clean and well-isolated — giving Fredrik Nordström and Patrik J. Sten a strong foundation to shape during the Studio Fredman mixing sessions that followed.",
+      "tuningSetting": "Medium-high tension for articulation and cut",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$300-400"
+    },
+    "cymbals": {
+      "title": "Meinl Byzance: The Dark Palette Continues",
+      "brand": "Meinl",
+      "series": "Meinl Byzance",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Meinl 14\" Byzance Dark Hi-Hats",
+          "position": "Left side",
+          "notes": "Complex, trashy character for fast pattern work"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 16\" Byzance Traditional Thin Crash",
+          "position": "Far left",
+          "notes": "Quick, bright accent crash"
+        },
+        {
+          "type": "Crash",
+          "model": "Meinl 18\" Byzance Traditional Medium Crash",
+          "position": "Above rack toms",
+          "notes": "Main crash for chorus transitions"
+        },
+        {
+          "type": "Ride",
+          "model": "Meinl 20\" Byzance Medium Ride",
+          "position": "Far right",
+          "notes": "Defined bell for pattern work in melodic passages"
+        },
+        {
+          "type": "China",
+          "model": "Meinl 18\" Byzance China",
+          "position": "Above floor tom",
+          "notes": "Aggressive accent for riff punctuation"
+        }
+      ],
+      "description": "\"Figure Number Five\" kept Verbeuren's Meinl Byzance setup identical to \"Natural Born Chaos\" — the dark, complex cymbal voice that anchored his sound throughout his early Soilwork years and stayed with him into his Megadeth tenure a decade later. Against an album leaning even further into keyboard-driven melody, the Byzance line's darker overtones kept his cymbal work grounded rather than washing out in the denser arrangement.\n\nThe 14\" Byzance Dark hi-hats handled the fast, controlled pattern work on tracks like \"Overload\" and \"Strangler,\" while the 16\" and 18\" Traditional crashes gave him a spread of accent weights for the album's frequent shifts between aggressive verses and soaring choruses. The 20\" Byzance ride's clear bell definition carries through the record's more melodic mid-tempo cuts, including \"Departure Plan.\"\n\nThe 18\" Byzance China closes out the setup, delivering the same trashy, explosive accent that had already become a signature of Verbeuren's playing — used here to punctuate riff changes on the album's harder-hitting tracks like \"Brickwalker\" and \"The Mindmaker.\"",
+      "estimatedValue": "$1,800-2,400 total (Byzance setup, early 2000s)"
+    },
+    "hardware": {
+      "title": "Tama Iron Cobra Foundation",
+      "items": [
+        {
+          "type": "Double Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra 900 Double Pedal",
+          "notes": "Rolling Glide cam for smooth, consistent double bass response",
+          "description": "Verbeuren's Iron Cobra 900 carried over unchanged from 'Natural Born Chaos,' remaining Tama's flagship double pedal during this stretch of his Soilwork tenure. Its Rolling Glide cam gave him the same direct, consistent feel across both sessions, recorded barely a year apart at different facilities."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra 900 Hi-Hat",
+          "notes": "Matched hardware for consistent feel"
+        },
+        {
+          "type": "Cymbal Stands",
+          "brand": "Tama",
+          "model": "Tama Road Pro Series",
+          "notes": "Touring-grade stands for European festival circuit reliability"
+        },
+        {
+          "type": "Throne",
+          "brand": "Tama",
+          "model": "Tama 1st Chair Series",
+          "notes": "Standard studio and touring throne"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vater",
+          "model": "Vater 5B",
+          "notes": "Balance of speed and power for melodic death metal patterns"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 Clear",
+        "toms": "Remo Ambassador Clear (batter), Ambassador Clear (resonant)",
+        "snare": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "trackAnalysis": [
+      {
+        "track": "Overload",
+        "bpm": "~150",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener's follow-up track; sets the record's tighter, hook-driven tone",
+          "Fast verse patterns contrast with a wide-open, melodic chorus",
+          "One of the tracks most cited in fan retrospectives of the album"
+        ],
+        "gearNotes": "Byzance Dark hi-hats drive the rapid verse pattern work. Iron Cobra double pedal provides the track's rhythmic backbone."
+      },
+      {
+        "track": "Departure Plan",
+        "bpm": "~135",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's most melodic, mid-tempo cuts",
+          "Later released as part of a double A-side single alongside another album track",
+          "Showcases Verbeuren's dynamic restraint beneath Karlsson's keyboard textures"
+        ],
+        "gearNotes": "20\" Byzance Ride's bell definition anchors the chorus. Floor toms fill out the bridge without overpowering the keyboards."
+      },
+      {
+        "track": "Light the Torch",
+        "bpm": "~145",
+        "signature": "4/4",
+        "highlights": [
+          "Received an official music video, one of two from the album",
+          "Balances the record's alternative-metal-leaning hooks with the band's technical roots",
+          "Frequently highlighted in retrospectives as a standout deep cut"
+        ],
+        "gearNotes": "18\" Byzance China punctuates riff changes through the chorus. Steel snare cuts cleanly through the layered guitar mix."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drum kit did Dirk Verbeuren use on Soilwork's 'Figure Number Five'?",
+        "answer": "For Soilwork's 2003 album, Dirk Verbeuren played the same Tama Starclassic Performer kit he used on 'Natural Born Chaos' the year before — birch/maple hybrid shells with a 22\" x 18\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms. He paired it with a Tama Starclassic steel snare, Meinl Byzance cymbals, and a Tama Iron Cobra 900 double pedal. For his current touring setup, see the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren)."
+      },
+      {
+        "question": "Is 'Figure Number Five' considered one of Soilwork's best albums?",
+        "answer": "Yes. 'Figure Number Five' (2003) is frequently ranked among Soilwork's best releases by fans and critics. AllMusic gave it four out of five stars, and Rock Hard magazine scored it 9.5 out of 10, later placing it #398 on their 2005 list of the '500 Greatest Rock & Metal Albums of All Time.' It's often discussed alongside 'Natural Born Chaos' (2002) and 'Stabbing the Drama' (2005) as part of the band's most celebrated early-to-mid-2000s run. See the [Natural Born Chaos Drum Setup article](/articles/natural-born-chaos-drum-setup) for the album that came before it."
+      },
+      {
+        "question": "Where was 'Figure Number Five' recorded?",
+        "answer": "Recording was split across three Swedish facilities: guitars and keyboards were tracked at Queenstreet Recording between December 2002 and January 2003, drums were recorded at Dug-Out Productions in January 2003, and vocals and bass were tracked at Studio Fredman in January and February 2003. Soilwork self-produced the album, with mixing handled at Studio Fredman by Fredrik Nordström and Patrik J. Sten alongside the band, and mastering completed by Göran Finnberg at The Mastering Room."
+      },
+      {
+        "question": "How does 'Figure Number Five' compare to 'Natural Born Chaos'?",
+        "answer": "Both albums feature Dirk Verbeuren on an identical core setup — a Tama Starclassic Performer kit, Meinl Byzance cymbals, and a Tama Iron Cobra double pedal. 'Natural Born Chaos' (2002) was Soilwork's commercial breakthrough, while 'Figure Number Five' (2003), covered here, pushed the band's songwriting even further toward melodic, keyboard-driven hooks, with keyboardist Sven Karlsson taking a lead songwriting role for the first time. Verbeuren's playing stayed consistent across both — rapid fills, dark Byzance cymbal voicing, and steady double bass work. See the [Stabbing the Drama Drum Setup article](/articles/stabbing-the-drama-drum-setup) for the album that followed two years later."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "natural-born-chaos-drum-setup",
+      "stabbing-the-drama-drum-setup",
+      "the-sick-the-dying-and-the-dead-drum-setup"
+    ],
+    "relatedDrummers": [
+      22,
+      1,
+      4
+    ],
+    "relatedArticles": [
+      "whats-in-dirk-verbeurens-kit",
+      "natural-born-chaos-drum-setup",
+      "thrash-metal-drummers"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Middle Chapter of an Acclaimed Trilogy",
+      "content": "\"Figure Number Five\" doesn't get the same historical credit as the breakthrough of \"Natural Born Chaos\" or the commercial peak of \"Stabbing the Drama,\" but among Soilwork's own fanbase it's frequently named the best of the three — and often the best album the band ever made. For Dirk Verbeuren, it's the record where the technical foundation he'd built on \"Natural Born Chaos\" became second nature, freeing him to serve an album that pushed even further into melody without losing an ounce of precision.\n\n**The Gear Foundation:**\nVerbeuren changed nothing about his rig between these two albums — the same Tama Starclassic Performer kit, Meinl Byzance cymbals, and Iron Cobra double pedal carried straight through. That continuity let him focus entirely on performance during a session split across three different studios in the span of three months.\n\n**A Career-Long Arc:**\n\"Figure Number Five\" completes the early stretch of Verbeuren's Soilwork tenure that began with \"A Predator's Portrait\" and \"Natural Born Chaos.\" For the breakthrough album that came before it, see the [Natural Born Chaos Drum Setup article](/articles/natural-born-chaos-drum-setup). For the commercial peak that followed two years later, see the [Stabbing the Drama Drum Setup article](/articles/stabbing-the-drama-drum-setup). For his complete gear evolution across both Soilwork and Megadeth, visit the [Dirk Verbeuren drummer profile](/drummer/dirk-verbeuren)."
     }
   }
 };

@@ -3891,6 +3891,71 @@ export const drummerComparisons = {
       { q: 'Who is more influential as a drum educator, Matt Halpern or Mike Mangini?', a: 'Both are highly regarded drum educators. Matt Halpern built one of the most engaged drum education communities on YouTube, teaching modern djent and polyrhythmic concepts. Mike Mangini taught as a professor at Berklee College of Music before joining Dream Theater, bringing an academic, biomechanically rigorous approach to drum education.' },
     ],
   },
+
+  // Issue #4085: SEO batch — This week's top-signal cross-pairs
+  'eloy-casagrande-vs-mario-duplantier': {
+    slug: 'eloy-casagrande-vs-mario-duplantier',
+    title: 'Eloy Casagrande vs Mario Duplantier',
+    metaTitle: 'Eloy Casagrande vs Mario Duplantier: Complete Gear Comparison 2026 | MetalForge',
+    metaDescription: 'Slipknot/Sepultura\'s Eloy Casagrande vs Gojira\'s Mario Duplantier — Brazilian thrash power vs French tribal progressive death metal compared. Gear, technique, and influence analyzed.',
+    category: 'progressive',
+    drummers: ['eloy-casagrande', 'mario-duplantier'],
+    comparison: {
+      style: 'Eloy Casagrande joined Sepultura at just 19 in 2011, spending 13 years driving the band\'s thrash engine before joining Slipknot in 2024 to replace Jay Weinberg, and was voted the #1 metal drummer in Modern Drummer\'s 2024 Readers\' Poll. Mario Duplantier co-founded Gojira with his brother Joe in Bayonne, France, in 1996, building a progressive death metal style defined by tribal, ceremonial grooves layered over crushing double bass on albums like "From Mars to Sirius" (2005) and "Magma" (2016).',
+      technique: 'Eloy\'s São Paulo upbringing brought samba and bossa nova influences into his playing — even at blast-beat velocity his double kick breathes with a natural swing rather than mechanically alternating, and he uses two independent bass drum pedals for complete foot independence. Mario\'s technique blends raw power with polyrhythmic, tribal phrasing that treats toms as a melodic instrument, building dynamic contrast between whisper-quiet passages and crushing full-kit assaults rather than relying on constant aggression.',
+      gear: 'Eloy plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums and Bubinga/Birch hybrid shells, a Tama S.L.P. Sonic Steel 14"x6" snare, and Paiste RUDE/2002/PST X cymbals, driven by twin Tama Speed Cobra 910 pedals and Promark signature sticks. Mario also plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, paired with a Tama S.L.P. G-Maple 14"x6.5" snare and a Zildjian K Custom/A Custom hybrid cymbal setup anchored by a 21" Z Custom Mega Bell Ride, powered by Tama Iron Cobra 900 Power Glide pedals and his own Tama signature sticks.',
+      influence: 'Eloy\'s 2024 Modern Drummer #1 ranking validated over a decade of thrash pedigree with Sepultura before he stepped onto one of metal\'s biggest stages with Slipknot. Mario has spent nearly three decades shaping progressive death metal\'s tribal, dynamics-first sound with Gojira, earning multiple Grammy nominations for "L\'Enfant Sauvage," "Amazonia," and "Fortitude" along the way.',
+    },
+    verdict: 'Both drummers build their sound on a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, yet arrived there by very different paths — Eloy Casagrande through thirteen years of Sepultura thrash before Slipknot\'s stadium stage, Mario Duplantier through thirty years of building Gojira\'s tribal-progressive death metal identity from the ground up. Eloy brings Brazilian swing to extreme speed; Mario brings ceremonial dynamics to crushing power. Two of modern metal\'s most technically gifted drummers, separated by genre but united by a shared Tama foundation.',
+  },
+
+  'gavin-harrison-vs-matt-greiner': {
+    slug: 'gavin-harrison-vs-matt-greiner',
+    title: 'Gavin Harrison vs Matt Greiner',
+    metaTitle: 'Gavin Harrison vs Matt Greiner: Progressive Metal Precision Compared | MetalForge',
+    metaDescription: 'Porcupine Tree/King Crimson\'s Gavin Harrison vs August Burns Red\'s Matt Greiner — polyrhythmic sophistication meets metalcore precision. Gear, technique, and influence compared.',
+    category: 'progressive',
+    drummers: ['gavin-harrison', 'matt-greiner'],
+    comparison: {
+      style: 'Gavin Harrison joined Porcupine Tree in 2002 and King Crimson\'s revolutionary three-drummer lineup in 2008, building a reputation on polyrhythmic sophistication across albums like "In Absentia" (2002), "Deadwing" (2005), and "Fear of a Blank Planet" (2007). Matt Greiner co-founded August Burns Red in Lancaster, Pennsylvania in 2003, and has anchored the band\'s Grammy-nominated metalcore catalog with a jazz-informed sense of dynamics rare in the genre.',
+      technique: 'Harrison\'s technique centers on ghost notes, ambidextrous independence, and odd-time polyrhythms delivered with controlled, almost scientific precision — he can make 7/8 groove harder than straight 4/4. Greiner brings similar musical intelligence to metalcore\'s breakneck tempos, locking tightly with guitarist JB Brubaker\'s angular riffs while layering creative cymbal orchestration and dynamic shifts that most metalcore drumming skips in favor of pure aggression.',
+      gear: 'Harrison plays a Sonor SQ2 kit with thin maple shells (22"x17" bass drum, 10"/12" rack toms, 14"/16" floor toms), Sonor Gavin Harrison Signature snares (14"x5.25" brass primary, 12"x5" Protean), and Zildjian K Custom Special Dry cymbals developed in direct collaboration with him, anchored by a 21" Special Dry Ride, plus Vic Firth signature sticks. Greiner plays a Pearl Reference Pure kit with dual 22"x18" bass drums, a Pearl Matt Greiner Signature snare, and Meinl Byzance cymbals (18"/19" Extra Dry Medium crashes, 21" Transition Ride), driven by a Pearl Demon Drive double pedal and Vic Firth Matt Greiner signature sticks.',
+      influence: 'Harrison\'s Zildjian K Custom Special Dry series changed how a generation of progressive drummers think about cymbal decay and controlled sound, and his multiple Modern Drummer awards cement him as one of prog\'s most studied players. Greiner\'s musicality across August Burns Red\'s Grammy-nominated run — from "Constellations" (2009) to "Phantom Anthem" (2017) — proved metalcore drumming could be technical without sacrificing groove or dynamic range.',
+    },
+    verdict: 'Gavin Harrison and Matt Greiner occupy different corners of progressive-leaning metal, but both reject the idea that technical drumming has to mean constant aggression. Harrison\'s dry, polyrhythmic sophistication redefined progressive rock and King Crimson\'s legacy; Greiner\'s jazz-informed musicality gave metalcore a more sophisticated rhythmic vocabulary than the genre is usually credited with. Precision, dynamics, and restraint unite two drummers most fans wouldn\'t think to compare.',
+  },
+
+  'bill-ward-vs-brann-dailor': {
+    slug: 'bill-ward-vs-brann-dailor',
+    title: 'Bill Ward vs Brann Dailor',
+    metaTitle: 'Bill Ward vs Brann Dailor: Black Sabbath to Mastodon\'s Prog-Sludge Lineage | MetalForge',
+    metaDescription: 'Black Sabbath\'s Bill Ward vs Mastodon\'s Brann Dailor — the jazz-swing originator of heavy metal drumming compared to modern progressive sludge metal\'s melodic architect.',
+    category: 'other',
+    drummers: ['bill-ward', 'brann-dailor'],
+    comparison: {
+      style: 'Bill Ward co-founded Black Sabbath in Birmingham, England in 1968 and, alongside Tony Iommi, Geezer Butler, and Ozzy Osbourne, invented heavy metal\'s rhythmic vocabulary on albums like "Paranoid" (1970) and "Master of Reality" (1971). Brann Dailor co-founded Atlanta\'s Mastodon in 2000, building a progressive sludge metal style that treats the drum kit as a compositional, melodic instrument rather than a pure timekeeping device.',
+      technique: 'Ward\'s jazz training under the influence of Gene Krupa and Buddy Rich gave early Sabbath riffs a loose, swinging feel — he played open-handed on a right-handed kit, crossing his right hand over to the hi-hat, and prioritized dynamics and space over constant volume. Dailor\'s technique is similarly unconventional for heavy music: he composes flowing, ever-changing tom melodies that function as countermelodies to Mastodon\'s riffs, all while singing complex vocal harmonies simultaneously — a combination virtually unmatched in metal.',
+      gear: 'Ward played a Ludwig Vistalite/Standard Maple kit (24"x14" bass drum, single rack tom, one or two floor toms — no double bass throughout his career) with a Ludwig Supraphonic 400/LM402 aluminum snare and oversized Paiste Giant Beat/2002 cymbals (15" Sound Edge hi-hats, up to a 24" crash/ride), driven by a Ludwig Speed King single pedal. Dailor plays a DW Collector\'s Series maple kit (single 22"x18" bass drum, three rack toms, one floor tom) with a DW Collector\'s aluminum snare and Meinl Byzance cymbals (18"-20" Traditional/Brilliant crashes, 22" Traditional Medium Ride), using a single DW 9000 pedal and standard Vic Firth 5A sticks rather than any specialized double-bass setup.',
+      influence: 'Ward\'s swing-based, jazz-informed approach on Black Sabbath\'s first six albums remains the foundational reference point for every metal drummer who followed, earning him a 2006 Rock and Roll Hall of Fame induction. Dailor has carried that same feel-first, single-bass-drum philosophy into the 21st century, earning four Grammy nominations with Mastodon while proving melodic, compositional drumming has a place in progressive sludge metal.',
+    },
+    verdict: 'Bill Ward and Brann Dailor sit at opposite ends of a five-decade lineage running directly from Black Sabbath\'s doom-laden birth of heavy metal to Mastodon\'s prog-sludge evolution — and both prove that a single bass drum, played with feel and imagination, can outweigh technical firepower. Ward invented metal\'s rhythmic language by swinging where rock drummers stayed rigid; Dailor extended that language into melodic, compositional territory while singing over it. The generational throughline from Sabbath to Mastodon is audible the moment you put these two drummers side by side.',
+  },
+
+  'gavin-harrison-vs-eloy-casagrande': {
+    slug: 'gavin-harrison-vs-eloy-casagrande',
+    title: 'Gavin Harrison vs Eloy Casagrande',
+    metaTitle: 'Gavin Harrison vs Eloy Casagrande: International Technical Precision Compared | MetalForge',
+    metaDescription: 'Porcupine Tree/King Crimson\'s Gavin Harrison vs Slipknot/Sepultura\'s Eloy Casagrande — UK polyrhythmic restraint vs Brazilian thrash power. Gear, technique, and influence compared.',
+    category: 'progressive',
+    drummers: ['gavin-harrison', 'eloy-casagrande'],
+    comparison: {
+      style: 'Gavin Harrison built his reputation in progressive rock, joining Porcupine Tree in 2002 and King Crimson\'s three-drummer lineup in 2008, crafting a career on polyrhythmic sophistication and restraint. Eloy Casagrande spent 13 years driving Sepultura\'s thrash engine before joining Slipknot in 2024, bringing Brazilian rhythmic sensibility to some of metal\'s most demanding technical drumming.',
+      technique: 'Harrison\'s playing is defined by ghost notes, ambidextrous independence, and odd-time polyrhythms delivered with almost scientific control — he treats space and cymbal decay as compositional tools. Eloy\'s technique fuses raw thrash power with a samba/bossa nova-rooted swing: even at blast-beat tempo, his double kick — played on two independent pedals rather than a single pedal with a slave — has a groove that pure speed-focused drummers lack.',
+      gear: 'Harrison plays a Sonor SQ2 kit with thin maple shells and a smaller 22"x17" bass drum for articulation over raw power, his own Sonor Gavin Harrison Signature brass snares, and Zildjian K Custom Special Dry cymbals developed specifically with him — dry, controlled, and fast-decaying. Eloy plays a Tama Starclassic Bubinga kit with dual 22"x18" bass drums, a Tama S.L.P. Sonic Steel 14"x6" snare, and Paiste RUDE/2002/PST X cymbals chosen for raw aggression and durability — a near-total sonic opposite of Harrison\'s dry, restrained setup.',
+      influence: 'Harrison\'s multiple Modern Drummer awards and his Zildjian K Custom Special Dry collaboration have made him one of the most studied drummers in progressive music, influencing players who prioritize control over volume. Eloy\'s Modern Drummer 2024 Readers\' Poll #1 metal drummer ranking, earned after over a decade with Sepultura, validated his move into Slipknot as one of extreme metal\'s most complete modern technicians.',
+    },
+    verdict: 'Gavin Harrison and Eloy Casagrande represent technical precision from opposite ends of the volume dial — Harrison\'s dry, restrained polyrhythms built for progressive rock\'s subtlety, Eloy\'s explosive, groove-laced power built for thrash and nu-metal\'s aggression. Both are international drummers, from the UK and Brazil respectively, recognized by their peers as among the most technically complete players of their generation, proving that precision in metal doesn\'t have one single sound.',
+  },
 };
 
 /**

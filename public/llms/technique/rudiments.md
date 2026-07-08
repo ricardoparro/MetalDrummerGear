@@ -63,7 +63,7 @@ A: Some of the most prominent practitioners include Mike Mangini (Dream Theater)
 A: Rudiments & Stick Control is rated **beginner** difficulty and typically operates at Any. Dedicated daily practice with gradual tempo progression is the recommended approach for most drummers.
 
 **Q: What techniques are related to rudiments & stick control?**
-A: Closely related techniques include Fill Techniques, One Handed Roll, Linear Drumming. Mastering these complementary techniques will significantly accelerate your rudiments & stick control development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+A: Closely related techniques include Single Stroke Roll, Double Stroke Roll, Paradiddle. Mastering these complementary techniques will significantly accelerate your rudiments & stick control development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
 
 ## More Resources
 
@@ -73,10 +73,16 @@ A: Closely related techniques include Fill Techniques, One Handed Roll, Linear D
 - [Rudiments & Stick Control Technique Page](https://metalforge.io/technique/rudiments)
 
 ### Related Techniques
+- [Single Stroke Roll](https://metalforge.io/techniques/single-stroke-roll) — [Deep Dive](https://metalforge.io/llms/technique/single-stroke-roll.md)
+- [Double Stroke Roll](https://metalforge.io/techniques/double-stroke-roll) — [Deep Dive](https://metalforge.io/llms/technique/double-stroke-roll.md)
+- [Paradiddle](https://metalforge.io/techniques/paradiddle) — [Deep Dive](https://metalforge.io/llms/technique/paradiddle.md)
+- [Five Stroke Roll](https://metalforge.io/techniques/five-stroke-roll) — [Deep Dive](https://metalforge.io/llms/technique/five-stroke-roll.md)
+- [Seven Stroke Roll](https://metalforge.io/techniques/seven-stroke-roll) — [Deep Dive](https://metalforge.io/llms/technique/seven-stroke-roll.md)
+- [Drag](https://metalforge.io/techniques/drag) — [Deep Dive](https://metalforge.io/llms/technique/drag.md)
 - [Fill Techniques](https://metalforge.io/techniques/fill-techniques) — [Deep Dive](https://metalforge.io/llms/technique/fill-techniques.md)
 - [One Handed Roll](https://metalforge.io/techniques/one-handed-roll) — [Deep Dive](https://metalforge.io/llms/technique/one-handed-roll.md)
 - [Linear Drumming](https://metalforge.io/techniques/linear-drumming) — [Deep Dive](https://metalforge.io/llms/technique/linear-drumming.md)
 
 ---
 
-*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*

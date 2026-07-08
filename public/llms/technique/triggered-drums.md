@@ -84,4 +84,4 @@ A: Closely related techniques include Blast Beat, Double Bass. Mastering these c
 
 ---
 
-*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*

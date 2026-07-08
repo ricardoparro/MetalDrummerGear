@@ -70,7 +70,7 @@ A: Some of the most prominent practitioners include Dave Lombardo (Slayer), Geor
 A: Double Bass Drumming is rated **intermediate** difficulty and typically operates at 120-260+ BPM. Dedicated daily practice with gradual tempo progression is the recommended approach for most drummers.
 
 **Q: What techniques are related to double bass drumming?**
-A: Closely related techniques include Blast Beat, Triggered Drums, Odd Time Signatures. Mastering these complementary techniques will significantly accelerate your double bass drumming development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
+A: Closely related techniques include Gallop, Blast Beat, Triggered Drums. Mastering these complementary techniques will significantly accelerate your double bass drumming development. Browse all [metal drumming techniques](https://metalforge.io/techniques) for a complete overview.
 
 ## More Resources
 
@@ -80,10 +80,11 @@ A: Closely related techniques include Blast Beat, Triggered Drums, Odd Time Sign
 - [Double Bass Drumming Technique Page](https://metalforge.io/technique/double-bass)
 
 ### Related Techniques
+- [Gallop](https://metalforge.io/techniques/gallop) — [Deep Dive](https://metalforge.io/llms/technique/gallop.md)
 - [Blast Beat](https://metalforge.io/techniques/blast-beat) — [Deep Dive](https://metalforge.io/llms/technique/blast-beat.md)
 - [Triggered Drums](https://metalforge.io/techniques/triggered-drums) — [Deep Dive](https://metalforge.io/llms/technique/triggered-drums.md)
 - [Odd Time Signatures](https://metalforge.io/techniques/odd-time-signatures) — [Deep Dive](https://metalforge.io/llms/technique/odd-time-signatures.md)
 
 ---
 
-*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*

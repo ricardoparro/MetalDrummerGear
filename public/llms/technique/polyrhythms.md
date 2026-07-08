@@ -81,4 +81,4 @@ A: Closely related techniques include Odd Time Signatures, Double Bass. Masterin
 
 ---
 
-*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*

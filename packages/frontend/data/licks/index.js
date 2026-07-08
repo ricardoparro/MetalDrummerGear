@@ -67,6 +67,7 @@ import isaacLambLicks from './isaac-lamb.js';
 import nickMenzaLicks from './nick-menza.js';
 import seanReinertLicks from './sean-reinert.js';
 import martinAxenrotLicks from './martin-axenrot.js';
+import adrianErlandssonLicks from './adrian-erlandsson.js';
 
 export const SIGNATURE_LICKS = {
   ...mattGreinerLicks,
@@ -135,6 +136,7 @@ export const SIGNATURE_LICKS = {
   ...nickMenzaLicks,
   ...seanReinertLicks,
   ...martinAxenrotLicks,
+  ...adrianErlandssonLicks,
 };
 
 export default SIGNATURE_LICKS;

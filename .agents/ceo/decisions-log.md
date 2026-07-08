@@ -1925,3 +1925,28 @@ Metrics refreshed 19:30 UTC. Backlog was 3 eligible ai-fix (post 19:00 drain) �
 2. Backlog at 7 — still well below the 45 floor, keep promoting fresh proposals liberally as they land.
 3. PR #4098 CONFLICTING — expect auto-redispatch; escalate only if still open >3 days.
 4. Next L1/L2/L3 snapshots due 2026-07-13 — also check whether #4101 (if it regressed as far back as claimed) explains any of the flat GSC position/CTR trend noted in the issue body.
+
+## 2026-07-08 20:35 — Verified #4101's fix is merged but NOT yet deployed; production still broken; backlog critically low with empty bank
+
+### Context (≤3 lines)
+Metrics refreshed 20:27 UTC. Checking on #4101 (crawler-shell chapter 8) since the 19:45 entry flagged it to watch closely. Found Ralph closed #4101 itself (didn't wait for my triage) after diagnosing it as Vercel-Dashboard-level, not a code bug, and filed human-founder issue #4111 with full repro evidence. Separately merged PR #4110 (revert of the single consolidated bot-regex from #3920 back to 22 independent per-family rewrites) as a defensive mitigation regardless of the platform theory.
+
+### Actions taken
+- Independently re-verified production myself rather than trusting the closed issue: `curl -A GPTBot/1.0` on `/drummer/lars-ulrich` with a cache-busting query still returns the byte-identical etag/content-length to `/` (homepage shell), `x-vercel-cache: HIT`, `age: 37231s` — **bug is still live in production right now.**
+- Checked `gh pr view 4110` (merged 20:20:27Z today) against `gh run list --workflow=deploy-prod.yml` (last successful run 06:48:19Z today) — **PR #4110 merged 13+ hours after today's only deploy fired.** This is the exact same "deploy-lag looks like a failed fix" trap documented in `learned-patterns.md` chapters 5 and 6 of this saga. The code fix has not had a chance to prove or disprove itself yet.
+- Read #4111 in full: evidence is strong (identical etag to `/`, `vercel.json`'s own `Vary: User-Agent` header rule on `/drummer/:slug` also silently not applying, ruling out a rewrite-content bug specifically). This is a genuine escalation, not a premature one — Ralph explicitly avoided an 8th blind repo-side patch. Left #4111 as-is (already `human-founder` + `priority`, filed with exact dashboard steps); no further action needed from me until Ricardo responds.
+- Backlog check: only 1 open `ai-fix` issue total (#4086, comparison-pair batch, 8h old, atomic — no split needed), 0 open PRs, 0 fresh untriaged `seo-proposal` (bank has only the 3 umbrella trackers). Bank has been fully drained since the 19:45 promotions cleared. Founder ideas: inbox empty. GSC content-gap: none per metrics.md.
+
+### State delta
+- ai-fix backlog: 7 (19:45) → 1 eligible (heavy drain, #4101-4104 all closed/shipped, no fresh promotions — bank is empty)
+- #4101 closed (diagnosed, not blindly re-patched) → #4111 opened (human-founder, priority) → PR #4110 merged as defensive mitigation, **not yet deployed**
+- Org/Sessions/Views (7d): 185/225/388 · GSC: 4,418 impr / 130 clicks / 2.94% CTR / pos 8.1 (unchanged window)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: none untriaged. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. **Re-curl `/drummer/lars-ulrich` (fresh nonce, GPTBot UA) after tomorrow's ~06:00-07:00 UTC deploy.** If still byte-identical to homepage after PR #4110 is actually live, that confirms the platform/dashboard theory in #4111 and Ricardo's manual check becomes the only remaining lever — do not author a 9th repo-side theory before that comparison is made honestly.
+2. Backlog at 1 (critically low, well under the 45 floor) with an empty `seo-proposal` bank — if the SEO Agent's next batch doesn't land before the 07:00 UTC deep run, Roadie will likely idle on "no eligible issues." Not a CEO-actionable gap (proposal generation is SEO Agent's scope) but worth flagging as the top watch item.
+3. #4111 is unresolved and blocking full confidence in the crawler-shell fix — do not close the saga narrative in `learned-patterns.md` as resolved until both (a) tomorrow's deploy is confirmed live and (b) either the bug clears on its own (proving PR #4110 sufficient) or Ricardo reports back from the dashboard.
+4. Next L1/L2/L3 snapshots due 2026-07-13.

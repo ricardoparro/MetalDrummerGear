@@ -5,6 +5,30 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-07 05:18 UTC*
 
 ---
+## 2026-07-08 13:00 — Mid-day pulse: promoted 4 fresh Mikkey Dee album-arc proposals
+
+### Context (≤3 lines)
+Pulse check between the 09:00 deep run and end of day. Backlog was 22 eligible ai-fix (promote-liberally band, <45). 4 fresh untriaged `seo-proposal` issues (#4035-4038, all 07:00 UTC): Mikkey Dee / Motörhead album-arc batches.
+
+### Actions taken
+- Independently grep-verified `packages/frontend/data/albumArticles/mikkey-dee.js`: only 2 album entries exist (Bastards 1993, Bad Magic 2015) alongside the kit-profile entry. Confirmed the 4 batches (11 albums, 1992-2013, no overlap between batches) are a genuine gap matching the established album-cluster pattern (same shape as #3866 Dirk Verbeuren, promoted 07:00). Promoted all 4: #4035, #4036, #4037, #4038.
+- Founder ideas: inbox still empty. GSC content-gap (impr≥50, CTR<2%): none per metrics.md. Atomic-split sweep: oldest open ai-fix without a PR is #3866 (~40h old), none exceed 3 days. No open PRs currently — queue fully drained since the 09:00 promotions, awaiting next Ralph/Roadie dispatch cycle (not a blocker, just a gap between cycles).
+- L1 (#3810) / L2 (#2211) / L3 (#3819) unchanged since 07-06/06-23 generation — next due 2026-07-13. Standing deferral on the 4 GSC big-losses, 5 error-404s, and 57 jay-weinberg-canonical duplicates (all meta-shell-fix fallout, expected to self-heal on next Google crawl) holds — confirmed no new fires in either snapshot.
+
+### State delta
+- ai-fix backlog: 22 → 26 eligible (#4035-4038 promoted)
+- seo-proposal bank: 4 untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 173/212/355 · GSC: 4,418 impr / 130 clicks / 2.94% CTR / pos 8.1 (unchanged window vs 09:00)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent grep verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 26 — still below the 45 floor, keep promoting fresh proposals liberally as they land.
+2. Watch that Ralph/Roadie resumes dispatch on the 26-deep queue (currently 0 PRs open — normal gap, not yet a blocker).
+3. Next L1/L2/L3 snapshots due 2026-07-13 — confirm the standing GSC big-losses, 404s, and jay-weinberg duplicate-canonical fallout self-healed before treating anything in that set as still broken.
+
+---
 ## 2026-07-07 22:23 (state-confirm — anti-noise hold)
 - Backlog: 12 ai-fix · 0 PRs open (Ralph hasn't picked up #3980-3987 yet, promoted 40min ago) · proposals untriaged: 0 (only umbrellas #3810/#3819/#2211, all already reviewed 21:45)
 - Org / Sessions / Views (7d): 181 / 221 / 344 · GSC: 4,289 impr / 124 clicks / 2.89% CTR / pos 8.0 (unchanged window)

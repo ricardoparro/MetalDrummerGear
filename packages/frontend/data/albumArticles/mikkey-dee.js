@@ -1772,6 +1772,1116 @@ export const articles = {
       "content": "*Overnight Sensation* (1996) marks the moment Motörhead became the lineup most fans picture when they think of the band's classic era: Lemmy, Phil Campbell, and Mikkey Dee, no more, no less. The same Tama Artstar II kit and Paiste cymbals Dee had used since [*Bastards*](/articles/bastards-drum-setup) and [*Sacrifice*](/articles/sacrifice-drum-setup) carried over unchanged in brand and model, but his role within the music grew — busier fills, a more forward snare, and a ride cymbal doing double duty as a rhythmic instrument in a band now missing a second guitar.\n\n**For Drummers Studying Overnight Sensation:**\nListen to \"Civil War\" and the title track for examples of a drummer actively filling harmonic and rhythmic space usually left to a second guitarist. Dee's tom work and ride-bell patterns here do real compositional work, not just time-keeping.\n\n**A Benchmark of Professionalism:**\nLemmy's story about Dee finishing his drum tracks in a single day has become one of the most repeated anecdotes about his work ethic — a fitting detail for an album that captures a battle-tested drummer operating at peak efficiency.\n\nFor the complete arc of Dee's early Motörhead years, see [*Sacrifice*](/articles/sacrifice-drum-setup), [*Bastards*](/articles/bastards-drum-setup), [*March ör Die*](/articles/march-or-die-drum-setup), and the [Mikkey Dee drummer profile](/drummer/mikkey-dee).\n\n🤘 *Three men, one sound, twenty more years to go.* 🤘"
     }
   },
+  "snake-bite-love-drum-setup": {
+    "slug": "snake-bite-love-drum-setup",
+    "albumTitle": "Snake Bite Love",
+    "artist": "Motörhead",
+    "drummer": "Mikkey Dee",
+    "drummerId": 20,
+    "relatedDrummerSlug": "mikkey-dee",
+    "year": 1998,
+    "genre": "Heavy Metal / Hard Rock",
+    "label": "SPV/Steamhammer (CMC International in North America)",
+    "studio": "The Valley, Woodland Hills, California",
+    "producer": "Howard Benson, with Motörhead",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-08",
+    "dateModified": "2026-07-08",
+    "author": "MetalForge Editorial",
+    "title": "Snake Bite Love Drum Setup: Mikkey Dee's Gear on Motörhead's 1998 Album",
+    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Snake Bite Love (1998) — the last album produced by Howard Benson and one of the band's most rushed studio experiences. Complete breakdown of the Tama kit, Paiste cymbals, and the sessions Dee called stressful but the drums never show it.",
+    "seoKeywords": [
+      "mikkey dee drum kit",
+      "motorhead snake bite love drums",
+      "snake bite love 1998 drums",
+      "mikkey dee motorhead setup",
+      "motorhead drummer gear",
+      "mikkey dee tama",
+      "mikkey dee paiste",
+      "howard benson motorhead producer"
+    ],
+    "ogImage": "/images/albums/snake-bite-love-drums.webp",
+    "intro": {
+      "title": "Snake Bite Love: Rushed Sessions, Steady Hands",
+      "content": "Released on 10 March 1998 through SPV/Steamhammer in Europe and CMC International in North America, *Snake Bite Love* is Motörhead's fourteenth studio album and Mikkey Dee's fourth full studio recording with the band, following [*Bastards*](/articles/bastards-drum-setup) (1993), [*Sacrifice*](/articles/sacrifice-drum-setup) (1995), and [*Overnight Sensation*](/articles/overnight-sensation-drum-setup) (1996). It also closed out an era: this was the final Motörhead album produced by Howard Benson, who had helmed all four of the band's records since Dee joined in 1992.\n\nThe sessions were tracked at The Valley, Benson's own recording studio in Woodland Hills, California — familiar ground by this point, but the timeline was anything but comfortable. Dee later described the making of *Snake Bite Love* as rushed, saying the band \"were stressed out of our minds\" and needed more time than the schedule allowed. Eleven tracks in under 45 minutes came together under real time pressure, with Lemmy Kilmister, Phil Campbell, and Dee leaning on years of road-tested chemistry to get through it. Campbell, in a nod to the era's most famous symbol-based credit dispute, was jokingly billed on the sleeve as \"The Artist Frequently Seen at the Liquor Store,\" a parody of Prince's unpronounceable stage name.\n\nDespite — or perhaps because of — the compressed schedule, *Snake Bite Love* found a respectable audience, reaching #9 on the UK Rock & Metal Albums chart, #22 on the UK Independent Albums chart, and charting in Germany (#47) and Sweden (#49). Joe Petagno's Snaggletooth artwork, redesigned for the album's cover, became one of the more striking variations on Motörhead's mascot across the band's catalog.\n\nFor Dee, the rushed sessions were as much a test of consistency as of chops. With no time to second-guess takes or experiment with new gear, he leaned entirely on the same Tama kit and Paiste cymbals that had carried him through the previous three albums — proven, reliable, and fast to dial in under pressure. This article breaks down that gear and the drumming that held together one of Motörhead's most time-crunched studio experiences.",
+      "keyPoints": [
+        "*Snake Bite Love* (1998), released 10 March 1998, is Motörhead's fourteenth studio album and Dee's fourth full studio record with the band",
+        "The final Motörhead album produced by Howard Benson, recorded at his own studio, The Valley, in Woodland Hills",
+        "Mikkey Dee described the sessions as rushed — the band was \"stressed out of our minds\" under a tight schedule",
+        "Reached #9 on the UK Rock & Metal Albums chart, with additional chart placements in Germany and Sweden",
+        "Dee relied on the same Tama/Paiste setup used on [*Overnight Sensation*](/articles/overnight-sensation-drum-setup) — no gear changes, no time for them"
+      ]
+    },
+    "drumKit": {
+      "title": "The Same Trusted Tama Kit, Under a Tighter Clock",
+      "brand": "Tama",
+      "model": "Tama Artstar II / Swingstar",
+      "finish": "Black",
+      "config": {
+        "bassdrums": [
+          "22\" Bass Drum"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom",
+          "13\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" Floor Tom",
+          "18\" Floor Tom"
+        ],
+        "shells": "Maple shells, professional series construction"
+      },
+      "description": "With *Snake Bite Love*'s sessions compressed into a tight production window, Mikkey Dee brought the same Tama Artstar II/Swingstar kit he had used since *Bastards* (1993) — no experimentation, no new gear to break in. The 22\" bass drum and 10\"/12\"/13\" rack tom configuration, unchanged across three previous Motörhead albums, meant Dee could walk into The Valley and start tracking immediately, without the setup and tuning time a new kit would have demanded.\n\nHoward Benson's own studio was well-suited to capturing this exact kit; having recorded Dee on it for *Bastards*, *Sacrifice*, and *Overnight Sensation*, Benson's engineering team already knew how to mic and mix these shells efficiently — a crucial advantage when the band was working against the clock rather than exploring new sonic territory.\n\nDee's playing on tracks like the album opener \"Love for Sale\" shows no sign of the time pressure the band was under; if anything, the rushed sessions forced a leaner, more economical approach to fills, with Dee favoring tight, purposeful tom work over extended showcases. The 16\"/18\" dual floor toms gave him the low-end weight to drive the record's heavier cuts, like \"Assassin\" and \"Dead and Gone,\" without needing elaborate arrangements to make an impact.\n\nIn hindsight, the reliability of this exact Tama configuration — the same kit, the same studio relationship, four albums running — is precisely what allowed Motörhead to deliver a finished record despite a production timeline Dee himself considered too short.",
+      "notes": [
+        "Same Tama Artstar II/Swingstar kit used on Bastards, Sacrifice, and Overnight Sensation — no changes under a compressed schedule",
+        "22\" bass drum and 10\"/12\"/13\" rack toms unchanged since 1993",
+        "Recorded at The Valley, Howard Benson's own studio, for the fourth consecutive Motörhead album",
+        "Rushed sessions pushed fills toward leaner, more economical patterns"
+      ],
+      "estimatedValue": "$1,500–3,000 (1998) / $800–2,000 (vintage Tama today)"
+    },
+    "snare": {
+      "title": "The Steel Snare That Cut Through a Rushed Mix",
+      "brand": "Tama",
+      "model": "Tama Artstar II Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "Dee's 14\" x 6.5\" steel-shell Artstar II snare — the same drum heard on his three previous Motörhead albums — carried extra importance on *Snake Bite Love*, where a compressed mixing schedule left little room for extensive re-tracking or drum replacement. The snare's bright, cutting steel tone gave engineers a dependable foundation to build the rest of the mix around, exactly the kind of consistency a rushed production needs.\n\nOn \"Take the Blame\" and the title track \"Snake Bite Love,\" the snare's crack sits high and aggressive in the mix, tuned on the higher side of medium as Dee had done since *Bastards*. With Howard Benson's team already intimately familiar with this specific drum's tone from three prior albums, dialing in the snare sound took a fraction of the time it might have on a fresh production, freeing up studio hours for the record's more experimental cuts, like the funk-tinged \"Joy of Labour.\"\n\nThe steel shell's cutting projection also meant Dee's ghost notes and backbeat accents remained audible even in a mix that, by Dee's own account, didn't get the polish time the band wanted. A less dependable snare might have gotten lost in that compression; this one didn't.",
+      "tuningSetting": "Medium-high tension for crack and projection, consistent with prior albums",
+      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$250–450 (1998)"
+    },
+    "cymbals": {
+      "title": "Paiste Giant Beat and 2002: One Last Album Together",
+      "brand": "Paiste",
+      "series": "Paiste Giant Beat / Paiste 2002",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste Giant Beat 15\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Same 15\" Giant Beat pairing Dee had used since his 1992 Hellraiser session — the last album to feature this exact hi-hat setup"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste 2002 22\" Ride",
+          "position": "Right side",
+          "notes": "Primary ride and bell work, unchanged from Overnight Sensation"
+        },
+        {
+          "type": "Crash (1)",
+          "model": "Paiste 2002 18\" Crash",
+          "position": "Above rack toms",
+          "notes": "Fast-decaying crash for quick accents"
+        },
+        {
+          "type": "Crash (2)",
+          "model": "Paiste 2002 20\" Crash",
+          "position": "Right side",
+          "notes": "Larger crash reserved for the title track's chorus hits"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 18\" China",
+          "position": "Left opposite hi-hat",
+          "notes": "Trash accents used on the album's heavier cuts, including Assassin"
+        }
+      ],
+      "description": "*Snake Bite Love* marks the last Motörhead album to feature Mikkey Dee's original Paiste Giant Beat/2002 pairing in its familiar early-career form — the same 15\" Giant Beat hi-hats he had used since his first-ever Motörhead session on \"Hellraiser\" in 1992. Within two years, on [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup), Dee's cymbal setup would begin to shift, but on this record the combination remained exactly what it had been for three prior albums: bright, cutting, and completely dialed in.\n\nUnder the rushed production schedule, that familiarity mattered. Dee's crash placement on tracks like \"Dead and Gone\" and \"Better Off Dead\" shows no hesitation — every cymbal choice lands with the confidence of a setup played hundreds of times on stage and in the studio. The 2002 series' CuSn8 bronze alloy continued to cut through Motörhead's dense guitar-and-bass wall without requiring additional EQ work, a small but real time-saver during sessions where time was the scarcest resource.\n\nThe China cymbal's trashy accents, used more sparingly here than on *Overnight Sensation*, punctuate the album's heaviest moments — \"Assassin\" in particular — without overloading a mix that Benson's team had precious little time to refine.",
+      "estimatedValue": "$1,300–2,100 full setup (1998)"
+    },
+    "hardware": {
+      "title": "Tama Iron Cobra: No Time to Break In Anything New",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra",
+          "notes": "Same chain-drive pedal used since Dee's earliest Motörhead sessions",
+          "description": "With no time to adjust to new gear, Dee relied on the Iron Cobra's familiar, dependable chain-drive feel to track his kick parts quickly and confidently under the album's compressed schedule."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "notes": "Matched hardware, unchanged from prior albums"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Dee's standard throne choice throughout his 1990s Motörhead years"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B",
+          "notes": "Same 5B weight favored throughout Dee's Tama era"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (focused attack, controlled resonance)",
+        "toms": "Remo Emperor Coated",
+        "snare": "Remo Emperor Coated"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Recording Snake Bite Love Against the Clock",
+      "content": "*Snake Bite Love* was tracked at The Valley, Howard Benson's own recording studio in Woodland Hills — familiar territory for Dee by 1998, having recorded three previous Motörhead albums with Benson. That familiarity became essential once the sessions turned out to be far more compressed than anyone anticipated.\n\n**A Producer's Home Turf, Under Pressure:**\nBenson's ownership of The Valley meant he and his engineering team could move quickly, without the overhead of booking and adapting to an unfamiliar room. Even so, Dee has been candid that the band felt the crunch: the schedule simply didn't allow the same exploratory time as earlier records.\n\n**Leaning on Muscle Memory:**\nWith four albums of shared studio history between Dee and Benson's team, mic placement and drum tone dialing became close to automatic. This meant more studio hours could go toward performance and arrangement rather than sound-sculpting from scratch — a necessity given the timeline.\n\n**The Final Benson Album:**\nUnbeknownst to the band at the time, *Snake Bite Love* would be the last Motörhead record produced by Howard Benson. The band's next album, [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup) (2000), would bring in an entirely new production team and a different recording approach — a shift that would eventually be reflected in Dee's own gear choices.",
+      "keyTechniques": [
+        "Tracked at The Valley, Howard Benson's own studio — the fourth consecutive Motörhead album recorded there",
+        "Compressed production schedule required leaning on established mic and mix techniques rather than experimentation",
+        "Dee's familiarity with the room and engineering team offset the time pressure",
+        "The final Motörhead album produced by Howard Benson before the band changed production teams"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Love for Sale",
+        "bpm": "150",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener with an immediate, driving groove that sets the record's urgent pace",
+          "Tight eighth-note hi-hat pattern with no wasted motion — a leaner approach than earlier records",
+          "Kick and snare interplay locks precisely with Lemmy's bass",
+          "Fills are short and purposeful, reflecting the compressed studio schedule"
+        ],
+        "gearNotes": "The Tama Artstar II's punchy 22\" kick cuts through immediately, a benefit of Benson's team already knowing exactly how to mic this exact kit."
+      },
+      {
+        "track": "Snake Bite Love",
+        "bpm": "135",
+        "signature": "4/4",
+        "highlights": [
+          "Title track built around a mid-tempo, groove-driven riff",
+          "20\" Paiste 2002 crash marks the chorus with real weight",
+          "Ride bell work adds rhythmic texture beneath Campbell's guitar lines",
+          "One of the album's more deliberately paced, hook-forward cuts"
+        ],
+        "gearNotes": "The 2002 ride's clear bell tone gives the chorus hits definition even in a mix produced under time pressure."
+      },
+      {
+        "track": "Assassin",
+        "bpm": "158",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's fastest, most aggressive tracks",
+          "China cymbal accents mark the heaviest punctuation points",
+          "Sustained, driving kick pattern with minimal deviation",
+          "Demonstrates Dee's ability to deliver full power even under a rushed schedule"
+        ],
+        "gearNotes": "The 18\" Paiste 2002 China cuts through the dense mix without additional processing — a small but real time-saver in the compressed sessions."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Mikkey Dee use on Snake Bite Love?",
+        "answer": "On *Snake Bite Love* (1998), Mikkey Dee used the same Tama Artstar II/Swingstar kit he had played since [*Bastards*](/articles/bastards-drum-setup) (1993) — a 22\" bass drum, 10\"/12\"/13\" rack toms, and 16\"/18\" floor toms, paired with a 14\" x 6.5\" Tama Artstar II steel snare. Under the album's compressed production schedule, Dee stuck with proven, dialed-in gear rather than experimenting with anything new. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete gear evolution."
+      },
+      {
+        "question": "Why did Mikkey Dee call the Snake Bite Love sessions rushed?",
+        "answer": "Mikkey Dee has said the band was \"stressed out of our minds\" during the making of *Snake Bite Love*, describing a production schedule that didn't allow the time the band felt the record needed. Despite the compressed timeline, the album was completed and released on 10 March 1998, reaching #9 on the UK Rock & Metal Albums chart. It was also the final Motörhead album produced by Howard Benson, who had worked with the band since Dee's debut on [*Bastards*](/articles/bastards-drum-setup)."
+      },
+      {
+        "question": "Was Snake Bite Love the last album Howard Benson produced for Motörhead?",
+        "answer": "Yes. Howard Benson produced four consecutive Motörhead albums featuring Mikkey Dee — [*Bastards*](/articles/bastards-drum-setup) (1993), [*Sacrifice*](/articles/sacrifice-drum-setup) (1995), [*Overnight Sensation*](/articles/overnight-sensation-drum-setup) (1996), and *Snake Bite Love* (1998) — before the band moved to a new production team for [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup) (2000)."
+      },
+      {
+        "question": "What cymbals did Mikkey Dee use on Snake Bite Love?",
+        "answer": "Mikkey Dee used Paiste Giant Beat 15\" hi-hats alongside Paiste 2002 crashes (18\" and 20\"), a 22\" ride, and an 18\" China cymbal on *Snake Bite Love*. This was the last Motörhead album to feature this exact Giant Beat/2002 pairing before his cymbal setup began to shift on [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup) (2000)."
+      }
+    ],
+    "evolution": {
+      "title": "From Overnight Sensation to Snake Bite Love: Consistency Under Pressure",
+      "content": "*Snake Bite Love* (1998) shows Mikkey Dee's Tama/Paiste setup completely unchanged from [*Overnight Sensation*](/articles/overnight-sensation-drum-setup) two years earlier — the same kit, the same cymbals, the same studio relationship with Howard Benson. Under a rushed production schedule, that consistency was an asset rather than a limitation, letting Dee and the engineering team move quickly without sacrificing tone or feel.\n\nThis would prove to be the last album where Dee's gear stayed completely static. His next studio outing, [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup) (2000), brought a new production team, a new recording location, and the beginning of a gradual shift in his drum kit that would carry through to [*Inferno*](/articles/inferno-drum-setup) (2004).",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Artstar II / Swingstar (Overnight Sensation, 1996)",
+          "now": "Tama Artstar II / Swingstar (Snake Bite Love, 1998) — unchanged"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste Giant Beat + Paiste 2002 (Overnight Sensation configuration)",
+          "now": "Paiste Giant Beat + Paiste 2002 — same setup, last album before it began to shift"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "overnight-sensation-drum-setup",
+      "we-are-motorhead-drum-setup",
+      "bastards-drum-setup",
+      "whats-in-mikkey-dees-kit"
+    ],
+    "relatedDrummers": [
+      20,
+      1,
+      4
+    ],
+    "relatedArticles": [
+      "overnight-sensation-drum-setup",
+      "we-are-motorhead-drum-setup",
+      "whats-in-mikkey-dees-kit",
+      "history-of-metal-drumming"
+    ],
+    "relatedLicks": [],
+    "internalLinks": [
+      {
+        "text": "Mikkey Dee drummer profile",
+        "url": "/drummer/mikkey-dee"
+      },
+      {
+        "text": "Overnight Sensation drum setup (Dee's 1996 Motörhead album)",
+        "url": "/articles/overnight-sensation-drum-setup"
+      },
+      {
+        "text": "We Are Motörhead drum setup (the next chapter)",
+        "url": "/articles/we-are-motorhead-drum-setup"
+      },
+      {
+        "text": "What's In Mikkey Dee's Kit",
+        "url": "/articles/whats-in-mikkey-dees-kit"
+      },
+      {
+        "text": "Tama drums brand overview",
+        "url": "/gear/tama"
+      },
+      {
+        "text": "Paiste cymbals brand overview",
+        "url": "/gear/paiste"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Snake Bite Love Drum Setup: Mikkey Dee's Gear on Motörhead's 1998 Album",
+          "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Snake Bite Love (1998) — the last album produced by Howard Benson.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-08",
+          "dateModified": "2026-07-08"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Snake Bite Love",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Motörhead"
+          },
+          "datePublished": "1998-03-10",
+          "genre": "Heavy Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "SPV/Steamhammer"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "Love for Sale" },
+            { "@type": "MusicRecording", "name": "Dogs of War" },
+            { "@type": "MusicRecording", "name": "Snake Bite Love" },
+            { "@type": "MusicRecording", "name": "Assassin" },
+            { "@type": "MusicRecording", "name": "Take the Blame" },
+            { "@type": "MusicRecording", "name": "Dead and Gone" },
+            { "@type": "MusicRecording", "name": "Night Side" },
+            { "@type": "MusicRecording", "name": "Don't Lie to Me" },
+            { "@type": "MusicRecording", "name": "Joy of Labour" },
+            { "@type": "MusicRecording", "name": "Desperate for You" },
+            { "@type": "MusicRecording", "name": "Better Off Dead" }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Mikkey Dee",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Motörhead"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drums did Mikkey Dee use on Snake Bite Love?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mikkey Dee used a Tama Artstar II/Swingstar kit with a 22 inch bass drum, three rack toms, and dual floor toms, paired with a 14 x 6.5 inch steel snare — the same setup used since Bastards (1993)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why did Mikkey Dee call the Snake Bite Love sessions rushed?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mikkey Dee said the band was stressed out of their minds during the making of Snake Bite Love due to a compressed production schedule at The Valley studio."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Was Snake Bite Love the last album Howard Benson produced for Motörhead?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Snake Bite Love (1998) was the fourth and final consecutive Motörhead album produced by Howard Benson before the band changed production teams for We Are Motörhead (2000)."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "Snake Bite Love: Proof That Consistency Survives Chaos",
+      "content": "*Snake Bite Love* (1998) is not remembered as a landmark Motörhead album, but it's a genuinely instructive one for drummers: it shows what happens when a rushed, stressful production meets a player who has completely dialed in his gear and technique. Mikkey Dee's Tama Artstar II/Swingstar kit and Paiste Giant Beat/2002 cymbals — unchanged across four albums by this point — gave him and producer Howard Benson a foundation stable enough to survive a compressed timeline without the record suffering for it.\n\n**For Drummers Studying This Session:**\nListen to \"Love for Sale\" and \"Assassin\" for evidence that time pressure doesn't have to mean sloppiness. Dee's playing here is, if anything, more economical and purposeful than on the more spacious *Overnight Sensation* — a reminder that constraints can sharpen a performance rather than dilute it.\n\n**The End of an Era:**\n*Snake Bite Love* closed out Howard Benson's four-album run producing Motörhead, and with it, the exact studio relationship that had shaped Dee's recorded sound since 1993. The band's next record, [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup) (2000), would bring new producers, a new recording location, and the first real shift in Dee's gear since he joined the band.\n\nFor the complete arc of Dee's Motörhead years, see [*Overnight Sensation*](/articles/overnight-sensation-drum-setup), [*Bastards*](/articles/bastards-drum-setup), and the [Mikkey Dee drummer profile](/drummer/mikkey-dee).\n\n🤘 *Four albums in, and the thunder never needed a rehearsal.* 🤘"
+    }
+  },
+  "we-are-motorhead-drum-setup": {
+    "slug": "we-are-motorhead-drum-setup",
+    "albumTitle": "We Are Motörhead",
+    "artist": "Motörhead",
+    "drummer": "Mikkey Dee",
+    "drummerId": 20,
+    "relatedDrummerSlug": "mikkey-dee",
+    "year": 2000,
+    "genre": "Heavy Metal / Hard Rock",
+    "label": "SPV/Steamhammer (CMC International in North America)",
+    "studio": "Karo Studios, Brackel, Germany; American Recorders, Calabasas, California",
+    "producer": "Motörhead, with Bob Kulick, Bruce Bouillet, and Duane Baron",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-08",
+    "dateModified": "2026-07-08",
+    "author": "MetalForge Editorial",
+    "title": "We Are Motörhead Drum Setup: Mikkey Dee's Gear on Motörhead's 2000 Album",
+    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's We Are Motörhead (2000) — recorded across two continents with a new production team, and the album where his kit began its slow transition away from the Artstar II era. Complete breakdown of the gear behind the Sex Pistols cover and the millennium-era Motörhead sound.",
+    "seoKeywords": [
+      "mikkey dee drum kit",
+      "we are motorhead drums",
+      "motorhead 2000 album drums",
+      "mikkey dee motorhead setup",
+      "motorhead drummer gear",
+      "mikkey dee tama starclassic",
+      "god save the queen motorhead cover",
+      "karo studios motorhead"
+    ],
+    "ogImage": "/images/albums/we-are-motorhead-drums.webp",
+    "intro": {
+      "title": "A New Millennium, a New Production Team: We Are Motörhead",
+      "content": "Released on 15 May 2000 through SPV/Steamhammer (with CMC International distributing in North America), *We Are Motörhead* is the band's fifteenth studio album and Mikkey Dee's fifth full studio record with the band. It marked a clean break from the four-album run producer Howard Benson had overseen since Dee's arrival: this time, the band produced the record themselves alongside Bob Kulick, Bruce Bouillet, and Duane Baron, with Bill Cooper engineering.\n\nThe sessions themselves were unusually far-flung for a Motörhead record. Principal tracking took place at Karo Studios in Brackel, Germany, between June and August 1999, with overdubs completed months later at American Recorders in Calabasas, California, between December 1999 and March 2000 — a transatlantic production timeline that gave the album nearly a year of gestation, a sharp contrast to the compressed schedule behind [*Snake Bite Love*](/articles/snake-bite-love-drum-setup) two years earlier. The ten-track album blends the band's usual hard-driving originals with a cover of the Sex Pistols' \"God Save the Queen,\" filmed for a promo video atop an open-top London double-decker bus — one of the more memorable visual stunts of the band's later career.\n\nCommercially, *We Are Motörhead* charted at #91 on the UK Albums chart and #5 on the UK Rock & Metal Albums chart, with additional placements in Germany (#21), Sweden (#24), and Finland (#39). Lemmy Kilmister later reflected that he considered it \"a much better album than it got credit for,\" noting that its commercial performance suffered partly because it arrived at the same time as a wave of Motörhead compilation releases competing for the same audience.\n\nFor Mikkey Dee, the extended, multi-studio production gave him more room than usual to refine his sound, and this is the album where his kit began a gradual evolution — the first hints of the Tama Starclassic tone that would define his later 2000s work, alongside a shift in his cymbal setup that moved him away from the Giant Beat hi-hats he'd used since 1992. This article breaks down that transition in full.",
+      "keyPoints": [
+        "*We Are Motörhead*, released 15 May 2000, is Motörhead's fifteenth studio album and Dee's fifth full studio record with the band",
+        "First album without producer Howard Benson — self-produced by Motörhead with Bob Kulick, Bruce Bouillet, and Duane Baron",
+        "Recorded across two continents: Karo Studios in Brackel, Germany (1999) and American Recorders in Calabasas, California (1999–2000)",
+        "Features a cover of the Sex Pistols' \"God Save the Queen,\" with a video shot atop a London double-decker bus",
+        "The album where Dee's gear began transitioning from Tama Artstar II toward the Starclassic line he'd use on [*Inferno*](/articles/inferno-drum-setup)"
+      ]
+    },
+    "drumKit": {
+      "title": "The Starclassic Era Begins: A New Tama Kit for a New Decade",
+      "brand": "Tama",
+      "model": "Tama Starclassic (transitional configuration)",
+      "finish": "Black",
+      "config": {
+        "bassdrums": [
+          "22\" Bass Drum"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom",
+          "13\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" Floor Tom",
+          "18\" Floor Tom"
+        ],
+        "shells": "Maple/birch hybrid shells — Dee's first move away from the pure maple Artstar II"
+      },
+      "description": "*We Are Motörhead* is where Mikkey Dee's drum kit began its quiet evolution away from the Tama Artstar II/Swingstar setup he had used on every Motörhead album since *Bastards* (1993). With a new production team and an unusually long recording schedule spanning two studios and two countries, Dee moved to an early configuration of the Tama Starclassic line — the maple/birch hybrid shells that would fully define his sound by [*Inferno*](/articles/inferno-drum-setup) (2004).\n\nThe core dimensions stayed familiar: a 22\" bass drum, 10\"/12\"/13\" rack toms, and 16\"/18\" floor toms, matching the configuration he'd used for seven years. What changed was tone — the Starclassic's hybrid shell construction gave the drums a punchier, more contemporary attack, better suited to the more polished, multi-studio production Kulick, Bouillet, and Baron brought to the sessions compared to Howard Benson's leaner, faster approach on the band's 1990s records.\n\nRecording at Karo Studios in Germany first, then finishing overdubs at American Recorders in California months later, meant Dee's kit had to translate across two very different rooms and, in effect, two separate recording periods. The newer Starclassic shells proved more consistent across that gap than the older Artstar II kit might have been, giving engineer Bill Cooper a more stable tonal target to match between the German and Californian sessions.\n\nOn tracks like the driving opener \"See Me Burning\" and the title track \"We Are Motörhead,\" the kit's newer voicing is audible in the tighter low-end punch and slightly more defined tom attack compared to *Snake Bite Love* — a genuinely different drum character, even with the song structures and Dee's playing style remaining unmistakably his own.",
+      "notes": [
+        "First Motörhead album to feature Tama's newer Starclassic shell construction rather than the Artstar II/Swingstar Dee had used since 1993",
+        "22\" bass drum and core tom configuration unchanged, but tonal character noticeably punchier",
+        "Tracked across two studios on two continents — Karo Studios (Germany) and American Recorders (California)",
+        "A transitional kit bridging Dee's 1990s Tama sound and the fuller Starclassic voicing of Inferno (2004)"
+      ],
+      "estimatedValue": "$1,800–3,200 (2000) / $900–2,200 (vintage Tama Starclassic today)"
+    },
+    "snare": {
+      "title": "Steel Snare, Now with a Two-Studio Test",
+      "brand": "Tama",
+      "model": "Tama Starclassic Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "Dee's snare on *We Are Motörhead* kept the same 14\" x 6.5\" steel-shell dimensions he'd used since *Bastards*, but the drum itself was the newer Starclassic-series steel snare, matched to his evolving kit. The bright, cutting tone remained the constant through-line of his sound, even as the shell construction underneath it modernized.\n\nRecording the snare across two separate sessions — Karo Studios in Germany and American Recorders months later in California — required unusually careful attention to tuning consistency. Engineer Bill Cooper had to match the drum's tone across an ocean and several months' gap, a genuine technical challenge that the Starclassic's more consistent manufacturing tolerances helped make achievable.\n\nOn \"Stay Out of Jail\" and the Sex Pistols cover \"God Save the Queen,\" the snare's crack drives the tracks with the same aggressive backbeat Dee had used throughout the 1990s, but with a marginally tighter, more controlled decay — a subtle signature of the newer shell and the more polished production this album received compared to *Snake Bite Love*'s rushed sessions.",
+      "tuningSetting": "Medium-high tension, matched carefully across two separate recording sessions",
+      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$300–500 (2000)"
+    },
+    "cymbals": {
+      "title": "Retiring the Giant Beat: A New Hi-Hat Voice",
+      "brand": "Paiste",
+      "series": "Paiste 2002",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste 2002 15\" Sound Edge Hi-Hats",
+          "position": "Left side",
+          "notes": "Replaces the Giant Beat 15\" hi-hats Dee had used since 1992 — the serrated bottom edge gives a tighter, more controlled chick"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste 2002 22\" Ride",
+          "position": "Right side",
+          "notes": "Same ride carried over from Snake Bite Love and earlier albums"
+        },
+        {
+          "type": "Crash (1)",
+          "model": "Paiste 2002 18\" Crash",
+          "position": "Above rack toms",
+          "notes": "Fast-decaying crash for quick accents"
+        },
+        {
+          "type": "Crash (2)",
+          "model": "Paiste 2002 20\" Crash",
+          "position": "Right side",
+          "notes": "Larger crash for the title track's anthemic chorus"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 18\" China",
+          "position": "Left opposite hi-hat",
+          "notes": "Trash accents for the album's heaviest cuts, including Wake the Dead"
+        }
+      ],
+      "description": "*We Are Motörhead* marks the moment Mikkey Dee retired the Paiste Giant Beat 15\" hi-hats he had used on every Motörhead recording since his very first session, 1992's \"Hellraiser.\" In their place came Paiste 2002 Sound Edge hi-hats — same 15\" size, but with a serrated bottom cymbal that produces a tighter, more controlled chick sound better suited to the more polished, multi-producer approach this album received.\n\nThe rest of the cymbal setup — the 22\" 2002 ride, 18\"/20\" crashes, and 18\" China — carried over unchanged from *Snake Bite Love*, meaning the Sound Edge hi-hat swap was a deliberate, isolated update rather than a wholesale cymbal overhaul. It's a subtle but real evolution: the same bright, cutting Paiste 2002 alloy Dee had relied on since 1993, refined at exactly one point in the setup to match a more contemporary production standard.\n\nOn the Sex Pistols cover \"God Save the Queen,\" the tighter Sound Edge hi-hats give Dee's driving eighth-note patterns a crisper, more controlled edge than the looser Giant Beat sound would have produced — a small technical choice that suited the track's punk-adjacent urgency particularly well.",
+      "estimatedValue": "$1,300–2,200 full setup (2000)"
+    },
+    "hardware": {
+      "title": "Tama Iron Cobra Holds Steady Through the Transition",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra",
+          "notes": "Same chain-drive pedal used since Dee's earliest Motörhead sessions, unaffected by the kit's Starclassic transition",
+          "description": "Even as the kit's shells modernized, Dee kept the Iron Cobra — its chain-drive mechanism remained the one constant across the change, giving him a familiar physical feel while everything else in the tonal picture evolved."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "notes": "Matched hardware supporting the new Sound Edge hi-hat pairing"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Dee's standard throne choice, unchanged across his Motörhead tenure"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B",
+          "notes": "Same 5B weight Dee used throughout the 1990s and into the 2000s"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (focused attack, controlled resonance)",
+        "toms": "Remo Emperor Coated",
+        "snare": "Remo Emperor Coated"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Recording We Are Motörhead Across Two Continents",
+      "content": "*We Are Motörhead* was tracked in two distinct phases across two countries — a first for a Mikkey Dee-era Motörhead record. Principal drum tracking took place at Karo Studios in Brackel, Germany, during June–August 1999, with overdubs and additional work completed at American Recorders in Calabasas, California, between December 1999 and March 2000.\n\n**A New Production Philosophy:**\nWith Howard Benson's four-album run over, the band took on production duties themselves alongside Bob Kulick, Bruce Bouillet, and Duane Baron. This more collaborative, multi-voice production approach gave the album a different sonic signature than the leaner, faster Benson-era records, with more time available to refine tones — including Dee's transitional Starclassic drum sound.\n\n**Matching Tone Across an Ocean:**\nEngineer Bill Cooper faced a genuine technical challenge: making Dee's drums sound consistent across sessions recorded months apart on different continents. The more modern, consistent Starclassic shells helped, but careful attention to mic placement and tuning was still required to bridge the gap between the German and Californian sessions.\n\n**The God Save the Queen Session:**\nCovering the Sex Pistols required a different rhythmic approach than Motörhead's usual originals — tighter, more controlled, driven by Dee's newly adopted Sound Edge hi-hats rather than the looser Giant Beat setup he'd used for the previous seven years.",
+      "keyTechniques": [
+        "Tracked across two studios on two continents — Karo Studios (Germany) and American Recorders (California)",
+        "First Motörhead album without Howard Benson producing — self-produced with Bob Kulick, Bruce Bouillet, and Duane Baron",
+        "Bill Cooper's engineering had to match drum tone across sessions recorded months apart",
+        "New Paiste 2002 Sound Edge hi-hats gave the Sex Pistols cover a tighter rhythmic edge"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "See Me Burning",
+        "bpm": "148",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener with a driving verse groove showcasing the newly refined Starclassic tone",
+          "Sound Edge hi-hats give the eighth-note pattern a tighter, more controlled feel than earlier albums",
+          "Kick and bass lock together with the punchier low end of the new kit",
+          "Fills favor economy, building on the leaner approach established on Snake Bite Love"
+        ],
+        "gearNotes": "The Starclassic's hybrid shells give the kick a noticeably punchier attack compared to the pure-maple Artstar II heard on Snake Bite Love."
+      },
+      {
+        "track": "God Save the Queen",
+        "bpm": "128",
+        "signature": "4/4",
+        "highlights": [
+          "Cover of the Sex Pistols' classic, reimagined with a heavier Motörhead attack",
+          "Sound Edge hi-hats give the driving pattern a tighter, punkier edge",
+          "Crash accents mark the song's key structural transitions with real force",
+          "One of the more unusual covers of Dee's Motörhead tenure, paired with a memorable London bus video shoot"
+        ],
+        "gearNotes": "The new Sound Edge hi-hats prove ideal for the track's punk-adjacent urgency, offering a tighter chick than the Giant Beat setup used on previous covers."
+      },
+      {
+        "track": "We Are Motörhead",
+        "bpm": "140",
+        "signature": "4/4",
+        "highlights": [
+          "Title track and one of the album's most enduring live staples",
+          "20\" Paiste 2002 crash anchors the anthemic chorus",
+          "Tom fills carry real melodic weight, benefiting from the Starclassic's fuller resonance",
+          "A song Lemmy specifically singled out as underrated relative to the album's commercial reception"
+        ],
+        "gearNotes": "The Starclassic toms' added resonance gives the chorus fills more sustain and body than the tighter Artstar II tone heard on earlier records."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Mikkey Dee use on We Are Motörhead?",
+        "answer": "On *We Are Motörhead* (2000), Mikkey Dee transitioned to an early configuration of the Tama Starclassic line, moving away from the Artstar II/Swingstar kit he'd used since [*Bastards*](/articles/bastards-drum-setup) (1993). The core dimensions stayed the same — a 22\" bass drum, 10\"/12\"/13\" rack toms, and 16\"/18\" floor toms — but the Starclassic's maple/birch hybrid shells gave the kit a punchier, more contemporary tone that would fully define his sound by [*Inferno*](/articles/inferno-drum-setup) (2004). See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete gear evolution."
+      },
+      {
+        "question": "Why did Motörhead record We Are Motörhead in two different countries?",
+        "answer": "*We Are Motörhead* was tracked at Karo Studios in Brackel, Germany, during 1999, with overdubs completed months later at American Recorders in Calabasas, California, in early 2000. This was the band's first self-produced album since Mikkey Dee joined, made alongside Bob Kulick, Bruce Bouillet, and Duane Baron, and the extended, multi-location schedule reflected the more collaborative production approach they were taking after four straight albums with Howard Benson."
+      },
+      {
+        "question": "Did Mikkey Dee change his cymbal setup on We Are Motörhead?",
+        "answer": "Yes. *We Are Motörhead* is the album where Dee retired the Paiste Giant Beat 15\" hi-hats he had used since his first-ever Motörhead session, 1992's \"Hellraiser,\" replacing them with Paiste 2002 Sound Edge 15\" hi-hats. The rest of his cymbal setup — the 22\" ride, 18\"/20\" crashes, and 18\" China — carried over unchanged from [*Snake Bite Love*](/articles/snake-bite-love-drum-setup)."
+      },
+      {
+        "question": "What is the Sex Pistols cover on We Are Motörhead?",
+        "answer": "*We Are Motörhead* includes a cover of the Sex Pistols' \"God Save the Queen,\" for which the band filmed a promo video atop an open-top double-decker bus in London. Mikkey Dee's newly adopted Paiste 2002 Sound Edge hi-hats gave the track's driving pattern a tighter, more controlled edge than his earlier Giant Beat setup."
+      }
+    ],
+    "evolution": {
+      "title": "From Snake Bite Love to We Are Motörhead: The Gear Starts to Shift",
+      "content": "*We Are Motörhead* (2000) marks the first real change in Mikkey Dee's Motörhead gear since he joined the band in 1992. The Tama Artstar II/Swingstar kit and Paiste Giant Beat hi-hats that had defined his sound across four albums — [*Bastards*](/articles/bastards-drum-setup), [*Sacrifice*](/articles/sacrifice-drum-setup), [*Overnight Sensation*](/articles/overnight-sensation-drum-setup), and [*Snake Bite Love*](/articles/snake-bite-love-drum-setup) — gave way to the Tama Starclassic line and Paiste 2002 Sound Edge hi-hats, changes driven by a new production team and an unusually long, two-continent recording schedule.\n\nThis transition would continue through [*Hammered*](/articles/hammered-drum-setup) (2002) before reaching its full, settled form on [*Inferno*](/articles/inferno-drum-setup) (2004) under producer Cameron Webb.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Artstar II / Swingstar (Snake Bite Love, 1998)",
+          "now": "Tama Starclassic, transitional configuration (We Are Motörhead, 2000)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste Giant Beat 15\" hi-hats + Paiste 2002 (Snake Bite Love configuration)",
+          "now": "Paiste 2002 Sound Edge 15\" hi-hats + Paiste 2002 (Giant Beat retired)"
+        },
+        {
+          "category": "Production",
+          "then": "Howard Benson, The Valley (Woodland Hills, CA)",
+          "now": "Motörhead, Bob Kulick, Bruce Bouillet, Duane Baron — Karo Studios (Germany) and American Recorders (California)"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "snake-bite-love-drum-setup",
+      "hammered-drum-setup",
+      "overnight-sensation-drum-setup",
+      "whats-in-mikkey-dees-kit"
+    ],
+    "relatedDrummers": [
+      20,
+      1,
+      4
+    ],
+    "relatedArticles": [
+      "snake-bite-love-drum-setup",
+      "hammered-drum-setup",
+      "whats-in-mikkey-dees-kit",
+      "history-of-metal-drumming"
+    ],
+    "relatedLicks": [],
+    "internalLinks": [
+      {
+        "text": "Mikkey Dee drummer profile",
+        "url": "/drummer/mikkey-dee"
+      },
+      {
+        "text": "Snake Bite Love drum setup (Dee's 1998 Motörhead album)",
+        "url": "/articles/snake-bite-love-drum-setup"
+      },
+      {
+        "text": "Hammered drum setup (the next chapter)",
+        "url": "/articles/hammered-drum-setup"
+      },
+      {
+        "text": "What's In Mikkey Dee's Kit",
+        "url": "/articles/whats-in-mikkey-dees-kit"
+      },
+      {
+        "text": "Tama drums brand overview",
+        "url": "/gear/tama"
+      },
+      {
+        "text": "Paiste cymbals brand overview",
+        "url": "/gear/paiste"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "We Are Motörhead Drum Setup: Mikkey Dee's Gear on Motörhead's 2000 Album",
+          "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's We Are Motörhead (2000) — recorded across two continents with a new production team.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-08",
+          "dateModified": "2026-07-08"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "We Are Motörhead",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Motörhead"
+          },
+          "datePublished": "2000-05-15",
+          "genre": "Heavy Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "SPV/Steamhammer"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "See Me Burning" },
+            { "@type": "MusicRecording", "name": "Slow Dance" },
+            { "@type": "MusicRecording", "name": "Stay Out of Jail" },
+            { "@type": "MusicRecording", "name": "God Save the Queen" },
+            { "@type": "MusicRecording", "name": "Out to Lunch" },
+            { "@type": "MusicRecording", "name": "Wake the Dead" },
+            { "@type": "MusicRecording", "name": "One More Fucking Time" },
+            { "@type": "MusicRecording", "name": "Stagefright/Crash & Burn" },
+            { "@type": "MusicRecording", "name": "(Wearing Your) Heart on Your Sleeve" },
+            { "@type": "MusicRecording", "name": "We Are Motörhead" }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Mikkey Dee",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Motörhead"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drums did Mikkey Dee use on We Are Motörhead?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mikkey Dee transitioned to an early Tama Starclassic configuration on We Are Motörhead, moving away from the Artstar II/Swingstar kit he used since Bastards (1993)."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why did Motörhead record We Are Motörhead in two different countries?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "The album was tracked at Karo Studios in Germany in 1999 with overdubs completed at American Recorders in California in early 2000, reflecting a new self-produced approach with Bob Kulick, Bruce Bouillet, and Duane Baron."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Did Mikkey Dee change his cymbal setup on We Are Motörhead?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Yes, Dee replaced his Paiste Giant Beat hi-hats, used since 1992, with Paiste 2002 Sound Edge hi-hats on We Are Motörhead."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "We Are Motörhead: Two Continents, One Evolving Sound",
+      "content": "*We Are Motörhead* (2000) is a quiet turning point in Mikkey Dee's Motörhead story. It's the first album made without Howard Benson behind the board, the first tracked across two continents, and the first to feature a genuinely different drum kit — the Tama Starclassic line replacing the Artstar II/Swingstar setup Dee had used since 1993, alongside a cymbal update that finally retired the Paiste Giant Beat hi-hats from his very first Motörhead session.\n\n**For Drummers Studying This Album:**\nCompare \"See Me Burning\" to any track on [*Snake Bite Love*](/articles/snake-bite-love-drum-setup) and listen for the punchier, more contemporary low end the Starclassic shells provide. Then listen to \"God Save the Queen\" for how the new Sound Edge hi-hats change the character of Dee's fast eighth-note patterns.\n\n**An Underrated Record:**\nLemmy Kilmister considered *We Are Motörhead* better than its commercial reception suggested, and the album's gear evolution supports that reassessment — this is a band and drummer actively refining their sound rather than coasting on a formula.\n\nFor the full arc of this transition, see [*Snake Bite Love*](/articles/snake-bite-love-drum-setup), [*Hammered*](/articles/hammered-drum-setup), and the [Mikkey Dee drummer profile](/drummer/mikkey-dee).\n\n🤘 *New millennium, new studio, same relentless drive.* 🤘"
+    }
+  },
+  "hammered-drum-setup": {
+    "slug": "hammered-drum-setup",
+    "albumTitle": "Hammered",
+    "artist": "Motörhead",
+    "drummer": "Mikkey Dee",
+    "drummerId": 20,
+    "relatedDrummerSlug": "mikkey-dee",
+    "year": 2002,
+    "genre": "Heavy Metal / Hard Rock",
+    "label": "SPV/Steamhammer (Metal-Is/Sanctuary Records in North America)",
+    "studio": "Henson Recording Studios, Hollywood; Chuck Reed's House, Hollywood Hills, California",
+    "producer": "Thom Panunzio, with Motörhead",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-08",
+    "dateModified": "2026-07-08",
+    "author": "MetalForge Editorial",
+    "title": "Hammered Drum Setup: Mikkey Dee's Gear on Motörhead's 2002 Album",
+    "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Hammered (2002) — a darker, more reflective record shaped by the band's arrival in Los Angeles around the September 11 attacks, and the album where his Tama Starclassic setup fully settled in. Complete breakdown of the gear behind The Game and the WWE connection.",
+    "seoKeywords": [
+      "mikkey dee drum kit",
+      "motorhead hammered drums",
+      "hammered 2002 drums",
+      "mikkey dee motorhead setup",
+      "motorhead drummer gear",
+      "mikkey dee tama starclassic",
+      "the game triple h motorhead",
+      "thom panunzio motorhead producer"
+    ],
+    "ogImage": "/images/albums/hammered-drums.webp",
+    "intro": {
+      "title": "Hammered: A Darker Record, Recorded in the Shadow of 9/11",
+      "content": "Released on 9 April 2002, *Hammered* is Motörhead's sixteenth studio album and Mikkey Dee's sixth full studio record with the band. It was also a genuine departure in production personnel: Thom Panunzio, best known for his work with Bruce Springsteen and U2, took the producer's chair, working alongside Motörhead across sessions at Henson Recording Studios in Hollywood and, notably, at Chuck Reed's private house in the Hollywood Hills — an unusually informal recording environment for a band as road-tested as Motörhead.\n\nThe album's genesis carried real historical weight. The band arrived in Los Angeles to begin recording just before the September 11, 2001 attacks, and that timing left an unmistakable mark on the record's tone. Dee later described *Hammered* as having \"a darker subject matter and reflective tone\" compared to the band's previous work — a description borne out across tracks like \"Voices from the War\" and \"Down the Line.\" It's a rare instance of world events directly shaping the emotional register of a Motörhead album, rather than the band's usual unfiltered aggression standing alone.\n\n*Hammered* also gave Motörhead one of its more unusual pop-culture footnotes: the track \"The Game,\" written by WWE composer Jim Johnston, became wrestler Triple H's entrance theme, and Motörhead performed it live at WrestleMania X-Seven and WrestleMania 21. Triple H returned the favor by contributing spoken-word vocals to the album's closing track, \"Serial Killer.\" Commercially, the record reached #11 on the UK Rock & Metal Albums chart, with additional placements in Sweden (#18), Germany (#39), Finland (#34), and France (#113). It also marked Motörhead's first distribution through Sanctuary Records and its Metal-Is imprint in North America, following the band's earlier CMC International arrangement.\n\nFor Mikkey Dee, *Hammered* represents the point where the gear transition begun on [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup) fully settled into place — the Tama Starclassic kit and Paiste 2002 Sound Edge hi-hats now his complete, dialed-in setup, two years ahead of reaching their final documented form on [*Inferno*](/articles/inferno-drum-setup) (2004). This article breaks down that settled setup and the gear behind one of Motörhead's more unexpectedly reflective records.",
+      "keyPoints": [
+        "*Hammered*, released 9 April 2002, is Motörhead's sixteenth studio album and Dee's sixth full studio record with the band",
+        "Produced by Thom Panunzio (Bruce Springsteen, U2) — recorded at Henson Recording Studios and at Chuck Reed's Hollywood Hills house",
+        "Recording coincided with the band's arrival in Los Angeles around the September 11, 2001 attacks, giving the album a darker, more reflective tone",
+        "The track \"The Game\" became Triple H's WWE entrance theme; Triple H contributed vocals to the closing track \"Serial Killer\"",
+        "First Motörhead album distributed through Sanctuary Records/Metal-Is in North America"
+      ]
+    },
+    "drumKit": {
+      "title": "Tama Starclassic, Fully Settled",
+      "brand": "Tama",
+      "model": "Tama Starclassic",
+      "finish": "Black",
+      "config": {
+        "bassdrums": [
+          "22\" Bass Drum"
+        ],
+        "toms": [
+          "10\" Rack Tom",
+          "12\" Rack Tom",
+          "13\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" Floor Tom",
+          "18\" Floor Tom"
+        ],
+        "shells": "Maple/birch hybrid shells for a punchier, more modern attack"
+      },
+      "description": "By *Hammered*, the transitional Starclassic kit Mikkey Dee introduced on [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup) two years earlier had become his complete, settled setup — the same maple/birch hybrid shell configuration that would carry through, largely unchanged, to [*Inferno*](/articles/inferno-drum-setup) in 2004. The core dimensions remained the ones he'd used since 1993: a 22\" bass drum, 10\"/12\"/13\" rack toms, and 16\"/18\" floor toms.\n\nRecording partly at Henson Recording Studios and partly at Chuck Reed's private Hollywood Hills house gave the sessions an unusually intimate, less clinical character. The Starclassic's punchier attack translated well to the more relaxed, house-session environment, capturing a fuller low end without needing the more controlled acoustic treatment of a traditional studio room.\n\nGiven the album's darker emotional register, Dee's playing on tracks like \"Voices from the War\" leans into the kit's fuller resonance — longer tom decays, more deliberate pacing on fills — a contrast to the tighter, faster playing style of earlier-2000s Motörhead material. The Starclassic's more modern voicing gave him the tonal range to serve that mood without sacrificing power on the album's harder-hitting cuts, like \"Brave New World\" and \"Kill the World.\"\n\nProducer Thom Panunzio's more atmospheric approach — a departure from Howard Benson's leaner 1990s production style — gave the drums room to breathe in the mix, a quality that suited the Starclassic's fuller tonal character better than it might have suited the tighter Artstar II sound of Dee's earlier Motörhead years.",
+      "notes": [
+        "Tama Starclassic kit fully settled into its final configuration, carried forward largely unchanged to Inferno (2004)",
+        "22\" bass drum and core tom configuration unchanged since 1993",
+        "Recorded partly at a private house (Chuck Reed's Hollywood Hills residence) — an unusually informal setting for Motörhead",
+        "Fuller resonance suited the album's darker, more reflective tone, shaped by the band's arrival in LA around September 11, 2001"
+      ],
+      "estimatedValue": "$2,000–3,500 (2002 professional Tama Starclassic configuration)"
+    },
+    "snare": {
+      "title": "Steel Snare, Captured in an Unconventional Room",
+      "brand": "Tama",
+      "model": "Tama Starclassic Steel Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Steel",
+      "description": "Dee's 14\" x 6.5\" Tama Starclassic steel snare on *Hammered* is the same drum introduced on [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup), now fully broken in and dialed to Dee's preference after two years of use. The steel shell's bright, cutting tone remained his constant signature sound, tracked partly in the more controlled environment of Henson Recording Studios and partly in the looser, more ambient setting of Chuck Reed's house.\n\nThe house-session tracks in particular gave the snare a slightly more open, roomy character than the tighter, closely-miked sound of Motörhead's traditional studio recordings — a natural byproduct of recording in a space not purpose-built for isolation. On \"Down the Line\" and \"Mine All Mine,\" that added room presence gives the backbeat a touch more body without sacrificing the crack Dee had built his sound around since the early 1990s.\n\nProducer Thom Panunzio, working outside his usual rock and pop production context, brought a slightly different mic approach than Cameron Webb would later use on *Inferno* — favoring a warmer, less compressed snare sound that fit the album's more reflective mood.",
+      "tuningSetting": "Medium-high tension, captured with a slightly warmer, more ambient mic approach than prior albums",
+      "heads": "Remo Emperor Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$300–500 (2002)"
+    },
+    "cymbals": {
+      "title": "Paiste 2002: The Complete, Settled Setup",
+      "brand": "Paiste",
+      "series": "Paiste 2002",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Paiste 2002 15\" Sound Edge Hi-Hats",
+          "position": "Left side",
+          "notes": "Carried over from We Are Motörhead — now Dee's fully settled hi-hat choice"
+        },
+        {
+          "type": "Ride",
+          "model": "Paiste 2002 22\" Ride",
+          "position": "Right side",
+          "notes": "Full-bodied ride with a cutting bell for accent work"
+        },
+        {
+          "type": "Crash (1)",
+          "model": "Paiste 2002 18\" Crash",
+          "position": "Above rack toms",
+          "notes": "Fast-decaying crash for tight accent punctuation"
+        },
+        {
+          "type": "Crash (2)",
+          "model": "Paiste 2002 20\" Crash",
+          "position": "Right side",
+          "notes": "Larger crash reserved for the album's heavier climaxes"
+        },
+        {
+          "type": "China",
+          "model": "Paiste 2002 18\" China",
+          "position": "Left opposite hi-hat",
+          "notes": "Trash accents for the album's most aggressive cuts, including Kill the World"
+        }
+      ],
+      "description": "*Hammered* finds Mikkey Dee's cymbal setup fully settled into the configuration first introduced on [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup) — Paiste 2002 Sound Edge 15\" hi-hats alongside the 2002 series' ride, crashes, and China cymbal. With two years of use behind them, the Sound Edge hi-hats had become second nature, giving Dee a tighter, more controlled chick sound than the retired Giant Beat pairing he'd used for his first seven Motörhead albums.\n\nThe album's more atmospheric production, courtesy of Thom Panunzio, gave the Paiste 2002 cymbals room to ring out more naturally than the tighter, closer-miked approach of earlier records — particularly audible on the more restrained \"Voices from the War,\" where the ride's complex, musical bow carries real prominence in the mix.\n\nOn the album's heavier tracks, like \"Kill the World\" and \"No Remorse,\" the China cymbal's aggressive trash tone punctuates the darker lyrical content appropriately, giving Dee's playing an edge that matches the album's post-9/11 emotional weight without abandoning the band's fundamental sonic identity.",
+      "estimatedValue": "$1,300–2,200 full setup (2002)"
+    },
+    "hardware": {
+      "title": "Tama Iron Cobra: The One True Constant",
+      "items": [
+        {
+          "type": "Bass Drum Pedal",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra",
+          "notes": "Same chain-drive pedal Dee had used since his earliest Motörhead sessions in 1992",
+          "description": "Even as his kit and cymbals evolved across We Are Motörhead and into Hammered, Dee's Iron Cobra pedal remained the one piece of hardware that never changed — a testament to how thoroughly he'd committed to its chain-drive feel a decade into his Motörhead tenure."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Tama",
+          "model": "Tama Iron Cobra Hi-Hat Stand",
+          "notes": "Matched hardware supporting the settled Sound Edge hi-hat pairing"
+        },
+        {
+          "type": "Throne",
+          "brand": "Roc-N-Soc",
+          "model": "Roc-N-Soc Nitro Throne",
+          "notes": "Dee's standard throne choice, unchanged across his entire Motörhead tenure to this point"
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth 5B",
+          "notes": "Same 5B weight Dee had used since the early 1990s"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (focused attack, controlled resonance)",
+        "toms": "Remo Emperor Coated",
+        "snare": "Remo Emperor Coated"
+      }
+    },
+    "recordingTechniques": {
+      "title": "Recording Hammered in the Shadow of a National Tragedy",
+      "content": "*Hammered* was recorded primarily at Henson Recording Studios in Hollywood, with additional sessions at Chuck Reed's private house in the Hollywood Hills — mixing then took place at Interscope Studios and back at Chuck's house, with mastering handled at Capitol Mastering. Producer Thom Panunzio, working outside his more typical Springsteen/U2 territory, brought a warmer, more atmospheric production sensibility than the band's previous records.\n\n**Recording Under the Weight of 9/11:**\nThe band's arrival in Los Angeles to begin sessions coincided almost exactly with the September 11, 2001 attacks, and that context shaped both the songwriting and the recording atmosphere. Dee has spoken of the album's darker, more reflective tone compared to the band's usual output — a rare case of world events directly informing a Motörhead record's emotional register.\n\n**A House, Not Just a Studio:**\nRecording portions of the album at Chuck Reed's private house gave the sessions a looser, less clinical character than Motörhead's usual professional-studio approach. This informal setting suited the album's more reflective moments, giving Panunzio room to capture performances with a natural ambience that a purpose-built studio room might not replicate.\n\n**The WWE Connection:**\nThe inclusion of \"The Game,\" written by WWE composer Jim Johnston, and Triple H's guest vocal contribution to \"Serial Killer,\" brought an unusual crossover element into the sessions — a reminder that even a darker, more reflective Motörhead record still had room for the band's flair for the unexpected.",
+      "keyTechniques": [
+        "Recorded across Henson Recording Studios and a private Hollywood Hills residence (Chuck Reed's house)",
+        "Thom Panunzio's atmospheric production approach gave the drums more natural room ambience than prior Motörhead records",
+        "Sessions coincided with the September 11, 2001 attacks, directly shaping the album's darker tone",
+        "Mixed at Interscope Studios and Chuck's house; mastered at Capitol Mastering"
+      ]
+    },
+    "trackAnalysis": [
+      {
+        "track": "Walk a Crooked Mile",
+        "bpm": "145",
+        "signature": "4/4",
+        "highlights": [
+          "Album opener establishing the record's driving, mid-tempo attack",
+          "Sound Edge hi-hats deliver a tight, controlled pulse through the verses",
+          "Starclassic toms carry noticeably more resonance than on We Are Motörhead",
+          "Kick locks tightly with Lemmy's bass on the main riff"
+        ],
+        "gearNotes": "The fully settled Starclassic kit gives the track's low end a fuller, more contemporary punch than Dee's earlier Tama recordings."
+      },
+      {
+        "track": "Voices from the War",
+        "bpm": "110",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's more restrained, atmospheric tracks",
+          "Longer tom decays and more deliberate pacing reflect the song's darker subject matter",
+          "Ride cymbal carries real prominence, benefiting from Panunzio's more open mix approach",
+          "A clear example of Dee adapting his dynamics to the album's reflective tone"
+        ],
+        "gearNotes": "The Paiste 2002 ride's complex bow rings out naturally in Panunzio's more atmospheric production, a contrast to the tighter mixes of earlier albums."
+      },
+      {
+        "track": "Kill the World",
+        "bpm": "162",
+        "signature": "4/4",
+        "highlights": [
+          "One of the album's fastest, most aggressive cuts",
+          "China cymbal accents punctuate the heaviest sections",
+          "Sustained kick pattern demonstrates Dee's endurance a decade into his Motörhead tenure",
+          "Contrasts sharply with the restraint of Voices from the War elsewhere on the record"
+        ],
+        "gearNotes": "The Tama Iron Cobra's chain-drive precision holds up at speed, unchanged since Dee's earliest Motörhead sessions."
+      }
+    ],
+    "faq": [
+      {
+        "question": "What drums did Mikkey Dee use on Hammered?",
+        "answer": "On *Hammered* (2002), Mikkey Dee used a fully settled Tama Starclassic kit — a 22\" bass drum, 10\"/12\"/13\" rack toms, and 16\"/18\" floor toms with maple/birch hybrid shells. This was the same core setup he had introduced in transitional form on [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup) (2000), and it would carry forward largely unchanged to [*Inferno*](/articles/inferno-drum-setup) (2004). See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for his complete gear evolution."
+      },
+      {
+        "question": "Why does Hammered sound darker than other Motörhead albums?",
+        "answer": "*Hammered* was recorded after Motörhead arrived in Los Angeles around the time of the September 11, 2001 attacks, and Mikkey Dee has described the resulting album as having \"a darker subject matter and reflective tone\" compared to the band's usual work. Tracks like \"Voices from the War\" reflect that shift, a rare case of world events directly shaping a Motörhead record's emotional register."
+      },
+      {
+        "question": "What is the WWE connection to Hammered?",
+        "answer": "*Hammered* includes the track \"The Game,\" written by WWE composer Jim Johnston, which became wrestler Triple H's entrance theme; Motörhead performed it live at WrestleMania X-Seven and WrestleMania 21. Triple H returned the favor by contributing spoken-word vocals to the album's closing track, \"Serial Killer.\""
+      },
+      {
+        "question": "Who produced Hammered and where was it recorded?",
+        "answer": "*Hammered* was produced by Thom Panunzio, known for his work with Bruce Springsteen and U2, and recorded at Henson Recording Studios in Hollywood as well as at Chuck Reed's private house in the Hollywood Hills. It was mixed at Interscope Studios and mastered at Capitol Mastering, and marked Motörhead's first North American distribution through Sanctuary Records and its Metal-Is imprint."
+      }
+    ],
+    "evolution": {
+      "title": "From We Are Motörhead to Hammered: The Starclassic Era Settles In",
+      "content": "*Hammered* (2002) shows Mikkey Dee's Tama Starclassic kit and Paiste 2002 Sound Edge cymbal setup fully settled into the form first introduced on [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup) two years earlier. Where that album captured a kit and cymbal setup still in transition, *Hammered* presents them as Dee's complete, confident sound — the same configuration that would carry through, essentially unchanged, to [*Inferno*](/articles/inferno-drum-setup) in 2004 under producer Cameron Webb.\n\nWhat changed between *Hammered* and *We Are Motörhead* was less about the gear itself and more about how it was used — Thom Panunzio's more atmospheric production gave Dee's drums room to breathe in ways the tighter multi-studio production of the previous album didn't always allow.",
+      "thenVsNow": [
+        {
+          "category": "Kit",
+          "then": "Tama Starclassic, transitional configuration (We Are Motörhead, 2000)",
+          "now": "Tama Starclassic, fully settled configuration (Hammered, 2002)"
+        },
+        {
+          "category": "Cymbals",
+          "then": "Paiste 2002 Sound Edge hi-hats, newly introduced (We Are Motörhead)",
+          "now": "Paiste 2002 Sound Edge hi-hats, fully dialed in (Hammered)"
+        },
+        {
+          "category": "Production",
+          "then": "Motörhead, Bob Kulick, Bruce Bouillet, Duane Baron — two studios, two continents",
+          "now": "Thom Panunzio — Henson Recording Studios and Chuck Reed's Hollywood Hills house"
+        }
+      ]
+    },
+    "videos": [],
+    "relatedAlbums": [
+      "we-are-motorhead-drum-setup",
+      "inferno-drum-setup",
+      "snake-bite-love-drum-setup",
+      "whats-in-mikkey-dees-kit"
+    ],
+    "relatedDrummers": [
+      20,
+      1,
+      4
+    ],
+    "relatedArticles": [
+      "we-are-motorhead-drum-setup",
+      "inferno-drum-setup",
+      "whats-in-mikkey-dees-kit",
+      "history-of-metal-drumming"
+    ],
+    "relatedLicks": [],
+    "internalLinks": [
+      {
+        "text": "Mikkey Dee drummer profile",
+        "url": "/drummer/mikkey-dee"
+      },
+      {
+        "text": "We Are Motörhead drum setup (Dee's 2000 Motörhead album)",
+        "url": "/articles/we-are-motorhead-drum-setup"
+      },
+      {
+        "text": "Inferno drum setup (the settled Starclassic sound, refined)",
+        "url": "/articles/inferno-drum-setup"
+      },
+      {
+        "text": "What's In Mikkey Dee's Kit",
+        "url": "/articles/whats-in-mikkey-dees-kit"
+      },
+      {
+        "text": "Tama drums brand overview",
+        "url": "/gear/tama"
+      },
+      {
+        "text": "Paiste cymbals brand overview",
+        "url": "/gear/paiste"
+      }
+    ],
+    "schema": {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Article",
+          "headline": "Hammered Drum Setup: Mikkey Dee's Gear on Motörhead's 2002 Album",
+          "description": "Discover the exact drum kit, cymbals, and gear Mikkey Dee used on Motörhead's Hammered (2002) — recorded in the shadow of September 11, 2001.",
+          "author": {
+            "@type": "Organization",
+            "name": "MetalForge Editorial"
+          },
+          "datePublished": "2026-07-08",
+          "dateModified": "2026-07-08"
+        },
+        {
+          "@type": "MusicAlbum",
+          "name": "Hammered",
+          "byArtist": {
+            "@type": "MusicGroup",
+            "name": "Motörhead"
+          },
+          "datePublished": "2002-04-09",
+          "genre": "Heavy Metal",
+          "recordLabel": {
+            "@type": "Organization",
+            "name": "SPV/Steamhammer"
+          },
+          "track": [
+            { "@type": "MusicRecording", "name": "Walk a Crooked Mile" },
+            { "@type": "MusicRecording", "name": "Down the Line" },
+            { "@type": "MusicRecording", "name": "Brave New World" },
+            { "@type": "MusicRecording", "name": "Voices from the War" },
+            { "@type": "MusicRecording", "name": "Mine All Mine" },
+            { "@type": "MusicRecording", "name": "Shut Your Mouth" },
+            { "@type": "MusicRecording", "name": "Kill the World" },
+            { "@type": "MusicRecording", "name": "Dr. Love" },
+            { "@type": "MusicRecording", "name": "No Remorse" },
+            { "@type": "MusicRecording", "name": "Red Raw" },
+            { "@type": "MusicRecording", "name": "Serial Killer" }
+          ]
+        },
+        {
+          "@type": "Person",
+          "name": "Mikkey Dee",
+          "memberOf": {
+            "@type": "MusicGroup",
+            "name": "Motörhead"
+          },
+          "instrument": "Drums"
+        },
+        {
+          "@type": "FAQPage",
+          "mainEntity": [
+            {
+              "@type": "Question",
+              "name": "What drums did Mikkey Dee use on Hammered?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Mikkey Dee used a fully settled Tama Starclassic kit on Hammered, with a 22 inch bass drum, three rack toms, and dual floor toms."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "Why does Hammered sound darker than other Motörhead albums?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hammered was recorded after the band arrived in Los Angeles around the September 11, 2001 attacks, giving the album a darker, more reflective tone according to Mikkey Dee."
+              }
+            },
+            {
+              "@type": "Question",
+              "name": "What is the WWE connection to Hammered?",
+              "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Hammered includes The Game, written by WWE composer Jim Johnston and used as Triple H's entrance theme; Triple H contributed vocals to the closing track Serial Killer."
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "conclusion": {
+      "title": "Hammered: Where the Starclassic Sound Fully Arrived",
+      "content": "*Hammered* (2002) is a record shaped by real-world weight — recorded in the shadow of September 11, its darker tone stands apart from most of Motörhead's catalog. For Mikkey Dee, it's also the album where his Tama Starclassic kit and Paiste 2002 Sound Edge cymbals, introduced in transitional form on [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup), became his fully settled, confident sound — the same configuration that would carry through to [*Inferno*](/articles/inferno-drum-setup) two years later.\n\n**For Drummers Studying This Album:**\nListen to \"Voices from the War\" for a rare example of Dee's dynamic restraint on a Motörhead record, then compare it to \"Kill the World\" for the full-force attack that never left his playing, whatever the emotional register of the material.\n\n**An Unlikely Crossover:**\n\"The Game\" and its WWE connection remain one of the more unexpected footnotes in Motörhead's catalog — proof that even a reflective, world-events-shadowed record could still make room for the band's flair for the unpredictable.\n\nFor the complete arc of this gear transition, see [*We Are Motörhead*](/articles/we-are-motorhead-drum-setup), [*Inferno*](/articles/inferno-drum-setup), and the [Mikkey Dee drummer profile](/drummer/mikkey-dee).\n\n🤘 *A darker record, the same unstoppable engine underneath.* 🤘"
+    }
+  },
   "bad-magic-drum-setup": {
     "slug": "bad-magic-drum-setup",
     "albumTitle": "Bad Magic",

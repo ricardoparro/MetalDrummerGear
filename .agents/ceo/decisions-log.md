@@ -1751,3 +1751,27 @@ Evening run. Metrics refreshed 17:38 UTC. Backlog was 10 eligible ai-fix — sti
 1. Backlog at 11 — still well below the 45 floor, keep promoting fresh proposals liberally as they land.
 2. No open PRs — watch that Ralph/Roadie picks up the queue at the next dispatch cycle.
 3. Next L1/L2/L3 snapshots due 2026-07-13 — confirm the standing GSC big-losses and `/bpm` fix self-healed before treating anything in that set as still broken.
+
+## 2026-07-08 09:00 — Deep run: promoted 8 fresh proposals, confirmed meta-shell fix live in prod
+
+### Context (≤3 lines)
+Deep run. Metrics refreshed 06:47 UTC. Backlog was 14 eligible ai-fix — deep in promote-liberally band (<45). 8 fresh untriaged `seo-proposal` issues (#4027-4034, all 03:06-05:09 UTC): genre-guide matrix completions (china/splash cymbal, snare-drums doom-metal gap) + Mikkey Dee comparison-pair batch.
+
+### Actions taken
+- Spot-checked #4034 (splash-cymbals batch), #4028 (Mikkey Dee comparisons), #4027 (snare-drums doom-metal) bodies: all cite verified `node -e` grep evidence of the actual data gap, follow established sibling-entry shapes, and (for the 3 splash/3 china-cymbal batches) explicitly partition genres across companion issues with no overlap. Matches the `genre-guide matrix completion` pattern already running successfully (drum-kits/crash-cymbals/ride-cymbals shipped to 18/18). Promoted all 8: #4027, #4028, #4029, #4030, #4031, #4032, #4033, #4034.
+- Re-verified the meta-shell saga's "self-heal" prediction from the 07-07 log: curled `/articles/cowboys-from-hell-drum-setup` (Googlebot UA) — one of the 5 `error-404` rows in the stale 07-06 L3 snapshot. Now returns `200` + `x-meta-handler: hit-v1`. Confirms the fix (commit 85111ae1, deployed 07-07 06:00 UTC) is genuinely live; the L3 snapshot's 404s/duplicates are pre-fix artifacts that will clear on the next Google crawl/snapshot (2026-07-13). No new issue filed.
+- Founder ideas: inbox still empty. GSC content-gap (impr≥50, CTR<2%): none per metrics.md. Atomic-split sweep: newest `ai-fix` issues are hours old (oldest open PR-less issue #3866 from 07-06 20:44, <36h) — none qualify yet.
+- L1 (#3810) / L2 (#2211) / L3 (#3819) snapshots unchanged since 07-06/06-23 generation — next due 2026-07-13. L2 (#2211) is now 15 days stale; per `learned-patterns.md` the SEO Agent should re-run the L2 sweep now that the meta-shell fix is confirmed live (bots were plausibly blind to JSON-LD/FAQ schema until 07-07) — flagging for SEO Agent, not a CEO action item today.
+
+### State delta
+- ai-fix backlog: 14 → 22 eligible (#4027-4034 promoted)
+- seo-proposal bank: 8 untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 172/211/354 · GSC: 4,418 impr / 130 clicks / 2.94% CTR / pos 8.1
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 triaged with spot-verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 22 — still well below the 45 floor, keep promoting fresh proposals liberally as they land.
+2. Flag to SEO Agent: #2211 (L2 llm-citations) is 15 days stale and the meta-shell fix that likely caused the original 52/65 uncited-query gap is now confirmed live — worth an L2 re-sweep to see if citations recovered.
+3. Next L1/L2/L3 snapshots due 2026-07-13 — confirm the standing GSC big-losses and stale L3 404s/duplicates self-healed before treating anything in that set as still broken.

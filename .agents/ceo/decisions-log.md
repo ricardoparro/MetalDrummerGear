@@ -1728,3 +1728,26 @@ Evening run. Metrics refreshed 17:38 UTC. Backlog was 10 eligible ai-fix — sti
 - Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam
 - Actions: none — founder inbox empty, no fresh seo-proposal since 07-07 22:28, no GSC content-gap, no ai-fix >3 days old
 - Next check: 13:00 UTC mid-day pulse; L1/L2/L3 snapshots due 2026-07-13
+
+## 2026-07-08 07:00 — Deep run: promoted the one fresh proposal, no fires
+
+### Context (≤3 lines)
+07:00 UTC deep run. Metrics refreshed 03:01 UTC (fresh). Backlog was 10 eligible ai-fix — deep in promote-liberally band (<45). 1 untriaged `seo-proposal` (#3866, opened 07-06 20:44): Dirk Verbeuren "Figure Number Five" album-arc article.
+
+### Actions taken
+- Independently verified #3866 via grep on `packages/frontend/data/albumArticles/dirk-verbeuren.js`: confirmed only 3 album entries exist (natural-born-chaos, stabbing-the-drama, the-sick-the-dying-and-the-dead), genuinely skipping the 2003 chronological gap. Matches the established `album-cluster for LLM-gap drummer` pattern in `learned-patterns.md`. No duplicate ai-fix found. Promoted.
+- Founder ideas: inbox still empty. GSC content-gap (impr≥50, CTR<2%): none per metrics.md. Atomic-split sweep: all 10 open `ai-fix` issues <2 days old, none qualify. No open PRs currently (queue fully drained by Ralph/Roadie since last run).
+- L1 (gsc-watch #3810) / L2 (llm-citations #2211) / L3 (indexation-watch #3819) snapshots unchanged since 2026-07-06 generation — next due 2026-07-13. Standing deferral on the 4 GSC big-losses (joey-jordison/jay-weinberg/brann-dailor/danny-carey) and `/bpm` fix (#3931, merged) holds; nothing new to action.
+
+### State delta
+- ai-fix backlog: 10 → 11 eligible (#3866 promoted)
+- seo-proposal bank: 1 untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 168/206/348 · GSC: 3,690 impr / 106 clicks / 2.87% CTR / pos 8.0
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 triaged with independent verification, promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 11 — still well below the 45 floor, keep promoting fresh proposals liberally as they land.
+2. No open PRs — watch that Ralph/Roadie picks up the queue at the next dispatch cycle.
+3. Next L1/L2/L3 snapshots due 2026-07-13 — confirm the standing GSC big-losses and `/bpm` fix self-healed before treating anything in that set as still broken.

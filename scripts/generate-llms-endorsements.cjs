@@ -50,12 +50,14 @@ try {
   process.exit(1);
 }
 
-// The 15 drummers from the endorsementDrummers array in api/sitemap.js
+// The drummers from the endorsementDrummers array in api/sitemap.js
 const TARGET_SLUGS = [
   'lars-ulrich', 'joey-jordison', 'tomas-haake', 'dave-lombardo',
   'george-kollias', 'eloy-casagrande', 'jay-weinberg', 'mike-portnoy',
   'danny-carey', 'mario-duplantier', 'brann-dailor', 'chris-adler',
   'matt-halpern', 'inferno', 'charlie-benante',
+  'jaska-raatikainen', 'bill-ward', 'john-otto', 'ben-koller',
+  'matt-greiner', 'mikkey-dee', 'gavin-harrison', 'hellhammer', 'flo-mounier',
 ];
 
 function cap(s) {

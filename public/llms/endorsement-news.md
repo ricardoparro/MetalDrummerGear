@@ -2,7 +2,7 @@
 
 Brand endorsement changes for professional metal drummers. See https://metalforge.io/endorsement-news
 
-> Last updated: 2026-06-19 · 15 drummers tracked · 21 brands
+> Last updated: 2026-07-08 · 24 drummers tracked · 25 brands
 
 ---
 
@@ -28,6 +28,17 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Matt Halpern (Periphery) — Drumheads — since 2010s — /drummer/matt-halpern
 - Inferno (Behemoth) — Drumheads — since 2000s — /drummer/inferno
 - Charlie Benante (Anthrax / Pantera (touring)) — Drumheads — since 2000s — /drummer/charlie-benante
+- Ben Koller (Converge) — Drumheads — since 1999 — /drummer/ben-koller
+- Flo Mounier (Cryptopsy) — Drumheads — since 2012 — /drummer/flo-mounier
+
+### Gibraltar
+
+- John Otto (Limp Bizkit) — Hardware/Pedals — since 1999 — /drummer/john-otto
+
+### Ludwig
+
+- Bill Ward (Black Sabbath) — Drums — since 1968 — /drummer/bill-ward
+- Bill Ward (Black Sabbath) — Hardware/Pedals — since 1970 — /drummer/bill-ward
 
 ### Mandala
 
@@ -43,10 +54,15 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Brann Dailor (Mastodon) — Cymbals — since 2000s — /drummer/brann-dailor
 - Chris Adler (ex-Lamb of God / Firstborne) — Cymbals — since 2000s — /drummer/chris-adler
 - Matt Halpern (Periphery) — Cymbals — since 2010s (signature model) — /drummer/matt-halpern
+- Matt Greiner (August Burns Red) — Cymbals — since 2011 — /drummer/matt-greiner
 
 ### Monolit
 
 - Inferno (Behemoth) — Hardware/Pedals — since 2010s — /drummer/inferno
+
+### Orange County Drum & Percussion
+
+- John Otto (Limp Bizkit) — Drums — since 2003 — /drummer/john-otto
 
 ### Paiste
 
@@ -66,6 +82,16 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - George Kollias (Nile) — Hardware/Pedals — since 2010s (signature model) — /drummer/george-kollias
 - Matt Halpern (Periphery) — Drums — since 2015 (signature model) — /drummer/matt-halpern
 - Inferno (Behemoth) — Drums — since 2000s — /drummer/inferno
+- Jaska Raatikainen (Children of Bodom) — Drums — since 2004 — /drummer/jaska-raatikainen
+- Jaska Raatikainen (Children of Bodom) — Hardware/Pedals — since 2000s — /drummer/jaska-raatikainen
+- Matt Greiner (August Burns Red) — Drums — since 2011 — /drummer/matt-greiner
+- Matt Greiner (August Burns Red) — Hardware/Pedals — since 2011 — /drummer/matt-greiner
+- Hellhammer (Mayhem / Dimmu Borgir) — Drums — since 1999 — /drummer/hellhammer
+- Hellhammer (Mayhem / Dimmu Borgir) — Hardware/Pedals — since 1999 — /drummer/hellhammer
+
+### Pro-Mark
+
+- Bill Ward (Black Sabbath) — Drumsticks — since 1970 — /drummer/bill-ward
 
 ### Promark
 
@@ -81,6 +107,13 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Dave Lombardo (Slayer / Dead Cross) — Drumheads — since 1980s — /drummer/dave-lombardo
 - Mike Portnoy (Dream Theater) — Drumheads — since 1980s — /drummer/mike-portnoy
 - Mario Duplantier (Gojira) — Drumheads — since 2010s — /drummer/mario-duplantier
+- Jaska Raatikainen (Children of Bodom) — Drumheads — since 1997 — /drummer/jaska-raatikainen
+- Bill Ward (Black Sabbath) — Drumheads — since 1970 — /drummer/bill-ward
+- John Otto (Limp Bizkit) — Drumheads — since 1994 — /drummer/john-otto
+- Matt Greiner (August Burns Red) — Drumheads — since 2003 — /drummer/matt-greiner
+- Mikkey Dee (Scorpions / Motörhead) — Drumheads — since 1992 — /drummer/mikkey-dee
+- Gavin Harrison (Porcupine Tree / King Crimson) — Drumheads — since 2002 — /drummer/gavin-harrison
+- Hellhammer (Mayhem / Dimmu Borgir) — Drumheads — since 1988 — /drummer/hellhammer
 
 ### SJC Custom Drums
 
@@ -90,11 +123,14 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 
 - Tomas Haake (Meshuggah) — Cymbals — since 2000s — /drummer/tomas-haake
 - Mike Portnoy (Dream Theater) — Cymbals — since 1980s — /drummer/mike-portnoy
+- Flo Mounier (Cryptopsy) — Cymbals — since 2012 — /drummer/flo-mounier
 
 ### Sonor
 
 - Tomas Haake (Meshuggah) — Drums — since 2005 — /drummer/tomas-haake
 - Danny Carey (Tool) — Drums — since 2000s — /drummer/danny-carey
+- Gavin Harrison (Porcupine Tree / King Crimson) — Drums — since 2002 — /drummer/gavin-harrison
+- Gavin Harrison (Porcupine Tree / King Crimson) — Hardware/Pedals — since 2002 — /drummer/gavin-harrison
 
 ### Tama
 
@@ -107,6 +143,10 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Brann Dailor (Mastodon) — Hardware/Pedals — since 2010s — /drummer/brann-dailor
 - Charlie Benante (Anthrax / Pantera (touring)) — Drums — since 1980s — /drummer/charlie-benante
 - Charlie Benante (Anthrax / Pantera (touring)) — Hardware/Pedals — since 2010s — /drummer/charlie-benante
+- Ben Koller (Converge) — Drums — since 2017 — /drummer/ben-koller
+- Ben Koller (Converge) — Hardware/Pedals — since 2004 — /drummer/ben-koller
+- Flo Mounier (Cryptopsy) — Drums — since 2012 — /drummer/flo-mounier
+- Flo Mounier (Cryptopsy) — Hardware/Pedals — since 2012 — /drummer/flo-mounier
 
 ### Trick
 
@@ -126,6 +166,13 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Mario Duplantier (Gojira) — Drumsticks — since 2010s — /drummer/mario-duplantier
 - Inferno (Behemoth) — Drumsticks — since 2000s — /drummer/inferno
 - Charlie Benante (Anthrax / Pantera (touring)) — Drumsticks — since 1990s — /drummer/charlie-benante
+- Jaska Raatikainen (Children of Bodom) — Drumsticks — since 1990s — /drummer/jaska-raatikainen
+- Ben Koller (Converge) — Drumsticks — since 1999 — /drummer/ben-koller
+- Matt Greiner (August Burns Red) — Drumsticks — since 2017 (signature model) — /drummer/matt-greiner
+- Mikkey Dee (Scorpions / Motörhead) — Drumsticks — since 1985 — /drummer/mikkey-dee
+- Gavin Harrison (Porcupine Tree / King Crimson) — Drumsticks — since 2007 (signature model) — /drummer/gavin-harrison
+- Hellhammer (Mayhem / Dimmu Borgir) — Drumsticks — since 1999 — /drummer/hellhammer
+- Flo Mounier (Cryptopsy) — Drumsticks — since 1992 — /drummer/flo-mounier
 
 ### Wincent
 
@@ -134,12 +181,22 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 ### Yamaha
 
 - Eloy Casagrande (Slipknot) — Drums — since 2010s — /drummer/eloy-casagrande
+- Mikkey Dee (Scorpions / Motörhead) — Drums — since 1990s — /drummer/mikkey-dee
+- Mikkey Dee (Scorpions / Motörhead) — Hardware/Pedals — since 1990s — /drummer/mikkey-dee
 
 ### Zildjian
 
 - Lars Ulrich (Metallica) — Cymbals — since 1981 — /drummer/lars-ulrich
 - George Kollias (Nile) — Cymbals — since 2000s — /drummer/george-kollias
 - Jay Weinberg (Suicidal Tendencies) — Cymbals — since 2014 — /drummer/jay-weinberg
+- Jaska Raatikainen (Children of Bodom) — Cymbals — since 2000s — /drummer/jaska-raatikainen
+- Bill Ward (Black Sabbath) — Cymbals — since 1968 — /drummer/bill-ward
+- John Otto (Limp Bizkit) — Cymbals — since 1994 — /drummer/john-otto
+- John Otto (Limp Bizkit) — Drumsticks — since 1994 — /drummer/john-otto
+- Ben Koller (Converge) — Cymbals — since 2004 — /drummer/ben-koller
+- Mikkey Dee (Scorpions / Motörhead) — Cymbals — since 1990s — /drummer/mikkey-dee
+- Gavin Harrison (Porcupine Tree / King Crimson) — Cymbals — since 2007 — /drummer/gavin-harrison
+- Hellhammer (Mayhem / Dimmu Borgir) — Cymbals — since 1988 — /drummer/hellhammer
 
 ---
 
@@ -292,6 +349,74 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **2022** (Drums): Renewed Tama deal — Continued with Tama for Pantera reunion tours
 - Profile: https://metalforge.io/drummer/charlie-benante
 
+### Jaska Raatikainen (Children of Bodom)
+
+- **1997** (Drums): Signed with Pearl — Pre-endorsement Pearl configuration used on Children of Bodom's debut "Something Wild"
+- **1999** (Drums): Switched from Pearl to Tama — Moved to an early Tama Starclassic configuration for "Hatebreeder," carried through "Follow the Reaper" and "Hate Crew Deathroll"
+- **2004** (Drums): Switched from Tama to Pearl — Settled into the Pearl Masters Premium Maple endorsement around "Are You Dead Yet?," maintained through "Hexed" and the band's 2019 dissolution
+- **2005** (Cymbals): Switched from Zildjian A Series to Zildjian A Custom & K Custom — Cymbal setup evolved from Zildjian A Series toward the A Custom/K Custom combination that became his standard configuration by the mid-2000s
+- Profile: https://metalforge.io/drummer/jaska-raatikainen
+
+### Bill Ward (Black Sabbath)
+
+- **1968** (Drums): Signed with Ludwig — Played a Ludwig kit from Black Sabbath's formation in Birmingham through the "Paranoid" and "Master of Reality" sessions
+- **1970** (Cymbals): Signed with Zildjian — Avedis Zildjian hi-hats, ride, and crash set the cymbal template heard on "Black Sabbath" and "Paranoid"
+- **1971** (Drums): Renewed Ludwig deal — Upgraded to a 22" Ludwig bass drum (from the 20" used on "Paranoid") to match Tony Iommi's down-tuned riffs on "Master of Reality"
+- Profile: https://metalforge.io/drummer/bill-ward
+
+### John Otto (Limp Bizkit)
+
+- **1994** (Drums): Signed with Pearl — Played a Pearl kit through Limp Bizkit's Jacksonville formation and the "Three Dollar Bill, Y'all$" debut
+- **1994** (Cymbals): Signed with Zildjian — Zildjian cymbal and stick endorsement established alongside Limp Bizkit's formation, expanded to A Custom models by the "Significant Other" era
+- **1999** (Drums): Switched from Pearl to Orange County Drum & Percussion — Transitioned to an OCDP setup during the "Significant Other" / "Chocolate Starfish" commercial peak
+- **2003** (Drums): Renewed Orange County Drum & Percussion deal — OCDP custom kit fully established as his standard configuration through "Results May Vary," "Gold Cobra," and "Still Sucks"
+- Profile: https://metalforge.io/drummer/john-otto
+
+### Ben Koller (Converge)
+
+- **1999** (Drums): Signed with Tama — Joined Converge in 1999 playing standard touring-grade Tama kits through "Jane Doe" (2001)
+- **2004** (Drums): Switched from Tama (standard) to Tama Starclassic — Upgraded to Tama Starclassic shells and solidified the Zildjian K Custom/A Custom cymbal setup through "Axe to Fall" and "All We Love We Leave Behind"
+- **2017** (Drums): Renewed Tama deal — Settled into the Tama Starclassic Performer B/B birch/bubinga kit still used on "The Dusk in Us" and "Bloodmoon: I"
+- Profile: https://metalforge.io/drummer/ben-koller
+
+### Matt Greiner (August Burns Red)
+
+- **2003** (Drums): Signed with Pearl — Co-founded August Burns Red playing Pearl Export/Vision kits, with a developing Meinl cymbal endorsement
+- **2011** (Drums): Renewed Pearl deal — Upgraded to Pearl Reference kits and solidified the Meinl Byzance cymbal setup around "Leveler" and "Found in Far Away Places"
+- **2017** (Drumsticks): Signature product: Vic Firth Matt Greiner Signature Drumsticks — Received a Vic Firth signature stick model with a custom taper and bead
+- **2017** (Drums): Signature product: Pearl Matt Greiner Signature Snare — Pearl released a Matt Greiner signature snare drum, part of the Reference Pure era setup
+- Profile: https://metalforge.io/drummer/matt-greiner
+
+### Mikkey Dee (Scorpions / Motörhead)
+
+- **1992** (Drums): Signed with Tama — Joined Motörhead playing a Tama Artstar II/Swingstar kit with Paiste cymbals, first heard on "March ör Die" and "Bastards"
+- **1999** (Drums): Switched from Tama to Yamaha — Gradually transitioned to Yamaha Recording Custom drums, audible from "We Are Motörhead" (2000) and "Inferno" (2004) onward
+- **1999** (Cymbals): Switched from Paiste to Zildjian — Cymbal setup moved from Paiste to Zildjian alongside the Yamaha drum transition
+- **2016** (Drums): Renewed Yamaha deal — Carried the Yamaha/Zildjian setup into Scorpions after joining the band in 2016 following Lemmy Kilmister's death
+- Profile: https://metalforge.io/drummer/mikkey-dee
+
+### Gavin Harrison (Porcupine Tree / King Crimson)
+
+- **2002** (Drums): Signed with Sonor — Brought a custom Sonor SQ2 shell pack to Porcupine Tree upon joining for "In Absentia," refined through "Deadwing"
+- **2007** (Cymbals): Signature product: Zildjian Zildjian K Custom Special Dry Series — Co-developed the K Custom Special Dry cymbal line with Zildjian, in full use on "Fear of a Blank Planet"
+- **2007** (Drums): Signature product: Sonor Sonor Gavin Harrison Signature Snares (14"x5.25" brass and 12" Protean) — Sonor released signature snare drums developed with Harrison for ghost-note sensitivity and rimshot projection
+- Profile: https://metalforge.io/drummer/gavin-harrison
+
+### Hellhammer (Mayhem / Dimmu Borgir)
+
+- **1988** (Drums): Signed with Pearl — Developing Pearl endorsement during his early Mayhem years, in use on "De Mysteriis Dom Sathanas" (1994)
+- **1999** (Drums): Renewed Pearl deal — Moved to the Pearl Reference series while drumming simultaneously for Dimmu Borgir and Mayhem
+- **1999** (Cymbals): Renewed Zildjian deal — Cymbal setup expanded to a full Zildjian A Custom configuration used consistently across both bands
+- Profile: https://metalforge.io/drummer/hellhammer
+
+### Flo Mounier (Cryptopsy)
+
+- **1992** (Drums): Signed with Pearl — Co-founded Cryptopsy playing Pearl kits (MX Series by the "None So Vile" era) through the mid-1990s
+- **2000** (Drums): Renewed Pearl deal — Upgraded to the Pearl Masters BRX flagship kit, including a 26" bass drum, for "And Then You'll Beg"
+- **2005** (Drums): Switched from Pearl to Yamaha — Switched to a Yamaha Recording Custom kit paired with Zildjian ZXT cymbals for "Once Was Not"
+- **2012** (Drums): Switched from Yamaha to Tama — Moved to the Tama Starclassic Maple kit and Sabian cymbal setup that remains his current configuration through "As Gomorrah Burns"
+- Profile: https://metalforge.io/drummer/flo-mounier
+
 ---
 
 ## More Resources
@@ -301,4 +426,4 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - [Gear News](https://metalforge.io/llms/gear-news.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*

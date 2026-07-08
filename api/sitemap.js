@@ -268,6 +268,9 @@ const endorsementDrummers = [
   'george-kollias', 'eloy-casagrande', 'jay-weinberg', 'mike-portnoy',
   'danny-carey', 'mario-duplantier', 'brann-dailor', 'chris-adler',
   'matt-halpern', 'inferno', 'charlie-benante',
+  'jaska-raatikainen', 'bill-ward', 'john-otto', 'ben-koller',
+  'matt-greiner', 'mikkey-dee', 'gavin-harrison', 'hellhammer',
+  'flo-mounier',
 ];
 
 // Issue #813 / #3661: Gear Price History Tracker pages — inflation-adjusted

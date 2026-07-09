@@ -166,6 +166,10 @@ const gearComparisons = [
   { slug: 'tama-slp-vs-pearl-sensitone', name: 'Tama SLP vs Pearl Sensitone' },
   { slug: 'sonor-vs-dw', name: 'Sonor vs DW Drums' },
   { slug: 'zildjian-vs-sabian', name: 'Zildjian vs Sabian Cymbals' },
+  // Issue #4124: SEO batch - 3 new brand comparison pages
+  { slug: 'dw-vs-tama', name: 'DW vs Tama Drums' },
+  { slug: 'mapex-vs-pearl', name: 'Mapex vs Pearl Drums' },
+  { slug: 'sabian-vs-meinl', name: 'Sabian vs Meinl Cymbals' },
 ];
 
 // Issue #558, #598, #650: Drummer vs Drummer comparison pages for SEO

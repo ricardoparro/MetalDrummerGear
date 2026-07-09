@@ -278,6 +278,8 @@ const endorsementDrummers = [
   'jaska-raatikainen', 'bill-ward', 'john-otto', 'ben-koller',
   'matt-greiner', 'mikkey-dee', 'gavin-harrison', 'hellhammer',
   'flo-mounier',
+  // Issue #4134: dirk-verbeuren, frost, abe-cunningham, travis-orbin
+  'dirk-verbeuren', 'frost', 'abe-cunningham', 'travis-orbin',
 ];
 
 // Issue #813 / #3661: Gear Price History Tracker pages — inflation-adjusted

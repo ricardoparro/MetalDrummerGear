@@ -1704,6 +1704,8 @@ function getMetaForPath(pathname) {
     paiste: { name: 'Paiste', type: 'cymbals' },
     meinl: { name: 'Meinl', type: 'cymbals' },
     sabian: { name: 'Sabian', type: 'cymbals' },
+    evans: { name: 'Evans', type: 'drumheads' },
+    remo: { name: 'Remo', type: 'drumheads' },
   };
   const brandPageMatch = path.match(/^\/brands\/([a-z0-9-]+)$/);
   if (brandPageMatch) {

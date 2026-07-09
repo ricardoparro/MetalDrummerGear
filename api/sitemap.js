@@ -163,6 +163,9 @@ const gearBrands = [
   { slug: 'paiste', name: 'Paiste', type: 'cymbals' },
   { slug: 'meinl', name: 'Meinl', type: 'cymbals' },
   { slug: 'sabian', name: 'Sabian', type: 'cymbals' },
+  // Drumhead Brands
+  { slug: 'evans', name: 'Evans', type: 'drumheads' },
+  { slug: 'remo', name: 'Remo', type: 'drumheads' },
 ];
 
 // Issue #345: Gear comparison pages for SEO

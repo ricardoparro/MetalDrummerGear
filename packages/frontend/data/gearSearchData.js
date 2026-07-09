@@ -3,6 +3,8 @@
  * Searchable gear database for finding drummers by equipment brand/type
  */
 
+import { GEAR_INDEX_BRAND_LEVEL } from './gearIndex';
+
 // ==========================================
 // GEAR DATABASE - All searchable gear items
 // ==========================================
@@ -466,6 +468,35 @@ export const BRAND_SEO_DATA = {
     keywords: ['vater sticks', 'vater metal', 'vater signature'],
     affiliateUrl: 'https://www.thomann.de/intl/search_dir.html?sw=vater&tag=metalforge',
   },
+  // Drumhead Brands
+  evans: {
+    slug: 'evans',
+    name: 'Evans',
+    type: 'drumheads',
+    icon: '🥁',
+    color: '#f59e0b',
+    country: 'USA',
+    founded: '1954',
+    description: 'American drumhead manufacturer, the most-used head brand among metal drummers in this database.',
+    metaTitle: 'Metal Drummers Who Use Evans Drumheads | MetalForge Gear Search',
+    metaDescription: 'Discover which legendary metal drummers use Evans drumheads. From Joey Jordison to Gene Hoglan, explore their head configurations.',
+    keywords: ['evans drumheads', 'evans metal drummers', 'evans black chrome', 'joey jordison drumheads'],
+    affiliateUrl: 'https://www.thomann.de/intl/search_dir.html?sw=evans+drumheads&tag=metalforge',
+  },
+  remo: {
+    slug: 'remo',
+    name: 'Remo',
+    type: 'drumheads',
+    icon: '🥁',
+    color: '#0891b2',
+    country: 'USA',
+    founded: '1957',
+    description: 'American drumhead manufacturer known for the Emperor and Powerstroke lines, used by top metal drummers.',
+    metaTitle: 'Metal Drummers Who Use Remo Drumheads | MetalForge Gear Search',
+    metaDescription: 'Explore which metal drummers use Remo drumheads. From Lars Ulrich to Mario Duplantier, discover their head setups.',
+    keywords: ['remo drumheads', 'remo metal drummers', 'remo emperor', 'lars ulrich drumheads'],
+    affiliateUrl: 'https://www.thomann.de/intl/search_dir.html?sw=remo+drumheads&tag=metalforge',
+  },
 };
 
 // ==========================================
@@ -583,7 +614,12 @@ export function getDrummersUsingBrand(brandSlug) {
       });
     });
   });
-  
+
+  const brandNameMap = { evans: 'Evans', remo: 'Remo' };
+  if (drummers.length === 0 && brandNameMap[brandSlug]) {
+    return GEAR_INDEX_BRAND_LEVEL[brandNameMap[brandSlug]]?.map(d => d.slug) || [];
+  }
+
   return drummers;
 }
 

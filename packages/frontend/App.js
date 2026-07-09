@@ -159,6 +159,10 @@ import { GENRE_GEAR_GUIDES } from './data/genreGearGuides';
 // Brand landing pages (Issue #656) - used to deep-link homepage gear callouts
 // to a real brand hub when the brand is recognized (Issue #1241)
 import { hasBrand } from './data/brands';
+// Drumsticks data module (Issue #4135 phase 1, #4147) — verified drummer→stick
+// mapping used by the drummer-page "Sticks" block and the /drumsticks/signature/
+// <drummer> pages (Issue #4138, phase 3/4). Tiny static module, safe to import eagerly.
+import { DRUMMER_STICKS, getSticksForDrummer } from './data/drumsticks';
 
 // ==========================================
 // LAZY-LOADED DATA MODULES - Performance Optimization (#708)
@@ -729,6 +733,24 @@ function getKitDrummersFromURL() {
   const match = window.location.pathname.match(KIT_DRUMMERS_RE);
   if (!match) return null;
   return { brandSlug: match[1].toLowerCase(), seriesSlug: match[2].toLowerCase() };
+}
+
+// Signature Stick Pages (Issue #4138, phase 3/4 of epic #4135) - /drumsticks/signature/<drummer>
+// Targets "what sticks does <drummer> use". Only rendered for drummers with a confirmed
+// mapping in data/drumsticks.js (DRUMMER_STICKS) — an unmapped slug falls through to the
+// normal 404 instead of a thin/empty page.
+const LazySignatureStickPage = lazy(() => import('./components/SignatureStickPage').then(m => ({ default: m.SignatureStickPage })));
+const SIGNATURE_STICK_RE = /^\/drumsticks\/signature\/([a-z0-9-]+)\/?$/i;
+function isSignatureStickPage() {
+  if (typeof window === 'undefined') return false;
+  const match = window.location.pathname.match(SIGNATURE_STICK_RE);
+  if (!match) return false;
+  return Object.prototype.hasOwnProperty.call(DRUMMER_STICKS, match[1].toLowerCase());
+}
+function getSignatureStickSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(SIGNATURE_STICK_RE);
+  return match ? match[1].toLowerCase() : null;
 }
 
 // Extended bios for drummer detail pages (Issue #305)
@@ -7235,6 +7257,37 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           );
         })()}
       </View>
+
+      {/* Signature Sticks block (Issue #4138, phase 3/4 of epic #4135) — only renders
+          when this drummer has a verified stick mapping in data/drumsticks.js, so
+          unmapped drummers get no empty block. Links to the /drumsticks/signature/
+          page for full specs; the affiliate "Buy" CTA lands here once retailerUrls
+          is populated. */}
+      {(() => {
+        const [mappedStick] = getSticksForDrummer(drummerSlug);
+        if (!mappedStick) return null;
+        return (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.bioText, { color: theme.text }]}>
+              <Text style={{ fontWeight: '700' }}>Sticks: </Text>
+              <Text style={{ fontWeight: '700' }}>{mappedStick.brand} {mappedStick.model}</Text>
+              {` — ${mappedStick.material.toLowerCase()}, ${mappedStick.diameterIn}", ${mappedStick.tip.toLowerCase()}`}
+            </Text>
+            <TouchableOpacity
+              onPress={() => {
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/drumsticks/signature/${drummerSlug}`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              accessibilityRole="link"
+              accessibilityLabel={`${drummer.name}'s drumstick specs — ${mappedStick.brand} ${mappedStick.model}`}
+            >
+              <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>See full specs →</Text>
+            </TouchableOpacity>
+          </View>
+        );
+      })()}
 
       <KitCostCalculator drummer={drummer} theme={theme} />
 
@@ -27969,6 +28022,41 @@ setShowList(false);
               }
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/drummer/${slug}`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+
+    // Signature Stick Page (Issue #4138, phase 3/4 of epic #4135) - /drumsticks/signature/<drummer>
+    if (isSignatureStickPage()) {
+      const stickDrummerSlug = getSignatureStickSlugFromURL();
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazySignatureStickPage
+            theme={theme}
+            drummerSlug={stickDrummerSlug}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${stickDrummerSlug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              const drummer = drummers.find(d => toSlug(d.name) === slug);
+              if (drummer) {
+                handleSelectDrummer(drummer);
+              }
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}`);
+              }
+            }}
+            onNavigateToHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/drumsticks');
+                window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}
           />

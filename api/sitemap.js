@@ -54,6 +54,10 @@ import { TOP_10_LISTS } from '../packages/frontend/data/top10Lists.js';
 // drift out of sync with these two data files again.
 import { GEAR_PRICE_HISTORY } from '../packages/frontend/data/gearPriceHistory.js';
 import { SOUND_LIKE_GUIDES } from '../packages/frontend/data/soundLikeGuides.js';
+// Issue #4138 (phase 3/4 of epic #4135): /drumsticks/signature/<drummer> pages —
+// source slugs from the verified drummer→stick mapping so the sitemap only ever
+// lists drummers with a confirmed signature stick (no thin pages).
+import { DRUMMER_STICKS } from '../packages/frontend/data/drumsticks.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -576,6 +580,9 @@ export function buildSitemapXml() {
     ...getGearSeriesUrls().map(loc => ({ loc, priority: '0.8', changefreq: 'monthly' })),
     // Issue #2403: kit-level "drummers-using" pages (12 purchase-intent scaffold slugs).
     ...Object.keys(DRUMMERS_BY_KIT).map(key => ({ loc: `/gear/${key}/drummers-using`, priority: '0.85', changefreq: 'monthly' })),
+    // Issue #4138: /drumsticks/signature/<drummer> pages (only drummers with a
+    // confirmed stick mapping in DRUMMER_STICKS).
+    ...Object.keys(DRUMMER_STICKS).map(slug => ({ loc: `/drumsticks/signature/${slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).
     { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },

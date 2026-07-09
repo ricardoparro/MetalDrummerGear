@@ -61,6 +61,8 @@ const TARGET_SLUGS = [
   'flo-mounier',
   // Issue #4134: dirk-verbeuren, frost, abe-cunningham, travis-orbin
   'dirk-verbeuren', 'frost', 'abe-cunningham', 'travis-orbin',
+  // Issue #4168: aquiles-priester, arin-ilejay, blake-richardson, chris-turner, daniel-erlandsson
+  'aquiles-priester', 'arin-ilejay', 'blake-richardson', 'chris-turner', 'daniel-erlandsson',
 ];
 
 function cap(s) {

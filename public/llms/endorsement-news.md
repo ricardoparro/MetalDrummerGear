@@ -2,7 +2,7 @@
 
 Brand endorsement changes for professional metal drummers. See https://metalforge.io/endorsement-news
 
-> Last updated: 2026-07-09 · 35 drummers tracked · 26 brands
+> Last updated: 2026-07-09 · 40 drummers tracked · 29 brands
 
 ---
 
@@ -19,6 +19,10 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Igor Cavalera (Sepultura / Cavalera Conspiracy) — Hardware/Pedals — since 2006 — /drummer/igor-cavalera
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Drums — since 2009 — /drummer/travis-orbin
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Hardware/Pedals — since 2010 — /drummer/travis-orbin
+- Aquiles Priester (Angra / W.A.S.P.) — Hardware/Pedals — since 2023 — /drummer/aquiles-priester
+- Arin Ilejay (Avenged Sevenfold (ex) / Confide) — Drums — since 2011 — /drummer/arin-ilejay
+- Arin Ilejay (Avenged Sevenfold (ex) / Confide) — Hardware/Pedals — since 2011 — /drummer/arin-ilejay
+- Blake Richardson (Between the Buried and Me) — Hardware/Pedals — since 2006 — /drummer/blake-richardson
 
 ### Evans
 
@@ -40,6 +44,8 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Dirk Verbeuren (Megadeth) — Drumheads — since 2016 — /drummer/dirk-verbeuren
 - Abe Cunningham (Deftones) — Drumheads — since 1997 — /drummer/abe-cunningham
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Drumheads — since 2010 — /drummer/travis-orbin
+- Blake Richardson (Between the Buried and Me) — Drumheads — since 2018 — /drummer/blake-richardson
+- Chris Turner (Oceans Ate Alaska) — Drumheads — since 2017 — /drummer/chris-turner
 
 ### Gibraltar
 
@@ -66,6 +72,8 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Matt Halpern (Periphery) — Cymbals — since 2010s (signature model) — /drummer/matt-halpern
 - Matt Greiner (August Burns Red) — Cymbals — since 2011 — /drummer/matt-greiner
 - Dirk Verbeuren (Megadeth) — Cymbals — since 2022 — /drummer/dirk-verbeuren
+- Blake Richardson (Between the Buried and Me) — Cymbals — since 2018 — /drummer/blake-richardson
+- Chris Turner (Oceans Ate Alaska) — Cymbals — since 2017 — /drummer/chris-turner
 
 ### Monolit
 
@@ -107,10 +115,17 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Shannon Larkin (Godsmack) — Hardware/Pedals — since 2002 — /drummer/shannon-larkin
 - Frost (Satyricon) — Drums — since 1996 — /drummer/frost
 - Frost (Satyricon) — Hardware/Pedals — since 2013 — /drummer/frost
+- Blake Richardson (Between the Buried and Me) — Drums — since 2018 — /drummer/blake-richardson
+- Daniel Erlandsson (Arch Enemy) — Drums — since 2001 — /drummer/daniel-erlandsson
+- Daniel Erlandsson (Arch Enemy) — Hardware/Pedals — since 2001 — /drummer/daniel-erlandsson
 
 ### Pro-Mark
 
 - Bill Ward (Black Sabbath) — Drumsticks — since 1970 — /drummer/bill-ward
+
+### ProMark
+
+- Daniel Erlandsson (Arch Enemy) — Drumsticks — since 2001 — /drummer/daniel-erlandsson
 
 ### Promark
 
@@ -139,6 +154,9 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Paul Bostaph (Slayer / Testament / Exodus) — Drumheads — since 2015 — /drummer/paul-bostaph
 - Igor Cavalera (Sepultura / Cavalera Conspiracy) — Drumheads — since 2006 — /drummer/igor-cavalera
 - Frost (Satyricon) — Drumheads — since 1996 — /drummer/frost
+- Aquiles Priester (Angra / W.A.S.P.) — Drumheads — since 1996 — /drummer/aquiles-priester
+- Arin Ilejay (Avenged Sevenfold (ex) / Confide) — Drumheads — since 2011 — /drummer/arin-ilejay
+- Daniel Erlandsson (Arch Enemy) — Drumheads — since 2001 — /drummer/daniel-erlandsson
 
 ### SJC Custom Drums
 
@@ -152,6 +170,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Vinnie Paul (Pantera / Damageplan / Hellyeah) — Cymbals — since 1990s — /drummer/vinnie-paul
 - Paul Bostaph (Slayer / Testament / Exodus) — Cymbals — since 2015 — /drummer/paul-bostaph
 - Shannon Larkin (Godsmack) — Cymbals — since 2002 — /drummer/shannon-larkin
+- Daniel Erlandsson (Arch Enemy) — Cymbals — since 2014 — /drummer/daniel-erlandsson
 
 ### Sonor
 
@@ -184,10 +203,20 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Dirk Verbeuren (Megadeth) — Hardware/Pedals — since 2016 — /drummer/dirk-verbeuren
 - Abe Cunningham (Deftones) — Drums — since 1997 — /drummer/abe-cunningham
 - Abe Cunningham (Deftones) — Hardware/Pedals — since 1997 — /drummer/abe-cunningham
+- Chris Turner (Oceans Ate Alaska) — Drums — since 2017 — /drummer/chris-turner
+- Chris Turner (Oceans Ate Alaska) — Hardware/Pedals — since 2017 — /drummer/chris-turner
 
 ### Trick
 
 - Chris Adler (ex-Lamb of God / Firstborne) — Hardware/Pedals — since 2010s — /drummer/chris-adler
+
+### Trick Drums
+
+- Aquiles Priester (Angra / W.A.S.P.) — Drums — since 2023 — /drummer/aquiles-priester
+
+### Ufip
+
+- Aquiles Priester (Angra / W.A.S.P.) — Cymbals — since 2023 — /drummer/aquiles-priester
 
 ### Vater
 
@@ -197,6 +226,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Paul Bostaph (Slayer / Testament / Exodus) — Drumsticks — since 2015 — /drummer/paul-bostaph
 - Gene Hoglan (Death / Testament / Dethklok) — Drumsticks — since 2018 — /drummer/gene-hoglan
 - Dirk Verbeuren (Megadeth) — Drumsticks — since 2002 — /drummer/dirk-verbeuren
+- Aquiles Priester (Angra / W.A.S.P.) — Drumsticks — since 2023 — /drummer/aquiles-priester
 
 ### Vic Firth
 
@@ -219,6 +249,9 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Igor Cavalera (Sepultura / Cavalera Conspiracy) — Drumsticks — since 1993 — /drummer/igor-cavalera
 - Frost (Satyricon) — Drumsticks — since 1996 — /drummer/frost
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Drumsticks — since 2010 — /drummer/travis-orbin
+- Arin Ilejay (Avenged Sevenfold (ex) / Confide) — Drumsticks — since 2011 — /drummer/arin-ilejay
+- Blake Richardson (Between the Buried and Me) — Drumsticks — since 2006 — /drummer/blake-richardson
+- Chris Turner (Oceans Ate Alaska) — Drumsticks — since 2017 — /drummer/chris-turner
 
 ### Wincent
 
@@ -249,6 +282,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Abe Cunningham (Deftones) — Cymbals — since 2022 — /drummer/abe-cunningham
 - Abe Cunningham (Deftones) — Drumsticks — since 2022 (signature model) — /drummer/abe-cunningham
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Cymbals — since 2010 — /drummer/travis-orbin
+- Arin Ilejay (Avenged Sevenfold (ex) / Confide) — Cymbals — since 2011 — /drummer/arin-ilejay
 
 ### ddrum
 
@@ -567,6 +601,53 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **2011** (Electronics): Signed with Roland — Integrated a Roland SPD-SX sampling pad and bass drum trigger system on the "Icarus" EP, building the hybrid acoustic/electronic rig that defined his sound
 - **2016** (Drums): Renewed DW deal — Remained a DW/Zildjian endorsee after departing Periphery in 2012, carrying the same Collector's Series and Roland trigger rig through his Sky Harbor and Darkest Hour session work and viral educational content
 - Profile: https://metalforge.io/drummer/travis-orbin
+
+### Aquiles Priester (Angra / W.A.S.P.)
+
+- **1996** (Drums): Signed with Mapex — Built his early Mapex Saturn Series kit during his formative Hangar years, before joining Angra in 2000
+- **1996** (Cymbals): Signed with Sabian — Paired his Mapex kit with Sabian HH/HHX cymbals and an Axis A double pedal prized for its light, fast action
+- **2004** (Drumsticks): Signature product: Vic Firth Aquiles Priester Signature — Developed a Vic Firth signature stick during the Angra classic era (Rebirth, Temple of Shadows), balancing power and ghost-note control at high tempos
+- **2012** (Drums): Switched from Mapex Saturn Series to Pearl Reference Series — Moved to a Pearl Reference Series kit and Meinl Byzance cymbals during his post-Angra W.A.S.P./Hangar-focused years
+- **2023** (Drums): Switched from Pearl Reference Series to Trick Drums — Built a new Trick Drums custom maple configuration upon returning to Angra for their 2023 album cycle
+- **2023** (Cymbals): Switched from Meinl Byzance to Ufip — Adopted the Italian Ufip cymbal line and DW 9000 hardware for the Angra reunion touring and recording setup
+- Profile: https://metalforge.io/drummer/aquiles-priester
+
+### Arin Ilejay (Avenged Sevenfold (ex) / Confide)
+
+- **2011** (Drums): Signed with DW — Adopted a DW Collector's Series kit upon joining Avenged Sevenfold as permanent drummer, replacing the late Jimmy "The Rev" Sullivan
+- **2011** (Cymbals): Signed with Zildjian — Set up a Zildjian A Custom cymbal arsenal calibrated for A7X's arena-scale touring
+- **2011** (Hardware/Pedals): Signed with DW — Adopted DW 9000 Series double bass pedals for consistent double-kick action across the A7X world tour
+- **2013** (Drums): Renewed DW deal — Recorded Hail to the King (2013) on his DW Collector's Series kit, the only full studio album he tracked as A7X's drummer
+- **2015** (Drums): Ended DW endorsement — Departed Avenged Sevenfold in late 2014 (split announced 2015), ending his DW-backed A7X run; Brooks Wackerman took over the drum chair
+- Profile: https://metalforge.io/drummer/arin-ilejay
+
+### Blake Richardson (Between the Buried and Me)
+
+- **2006** (Drums): Signed with DW — Built his foundational DW Collector's Series all-maple kit for Alaska (2005), the album that announced BTBAM's progressive metal sound
+- **2006** (Cymbals): Signed with Meinl — Paired his DW kit with Meinl Byzance Extra Dry cymbals on Alaska, establishing the dark, hand-hammered voice that carried through two decades of BTBAM records
+- **2006** (Drumsticks): Signed with Vic Firth — Settled on Vic Firth American Classic 5B sticks for the mass and control needed across BTBAM's blast-beat-to-ghost-note dynamic range
+- **2006** (Hardware/Pedals): Signed with DW — Adopted the DW 9002 chain-drive double bass pedal on Alaska, his kick foundation through the Colors, Parallax, and Automata eras
+- **2018** (Drums): Switched from DW to Pearl — Moved to an all-maple Pearl Reference Pure kit for Automata I & II, favoring its warmer resonance for BTBAM's Sumerian Records-era production
+- **2018** (Drumheads): Switched from Remo to Evans — Moved his snare batter/reso heads to Evans G2 Coated and Hazy 300 by the Automata era
+- Profile: https://metalforge.io/drummer/blake-richardson
+
+### Chris Turner (Oceans Ate Alaska)
+
+- **2010** (Drums): Signed with Tama — Began developing his Tama Starclassic configuration while founding Oceans Ate Alaska in Birmingham, UK
+- **2013** (Cymbals): Signed with Meinl — Recorded the Lost What Remains EP on an early Meinl Byzance setup paired with an initial Tama Speed Cobra pedal
+- **2017** (Drums): Switched from Tama Starclassic (developing configuration) to Tama Starclassic Maple/Birch — Locked in the full touring Starclassic Maple/Birch kit and Tama S.L.P. G-Maple snare for Hikari, the album that made his playthrough videos go viral
+- **2017** (Drumsticks): Signed with Vic Firth — Settled on Vic Firth American Classic 5A sticks for the ghost-note-to-rimshot dynamic range Hikari required
+- **2022** (Drums): Renewed Tama deal — Carried the same Starclassic Maple/Birch, Byzance Extra Dry, and Speed Cobra 910 setup into Disparity (2022)
+- Profile: https://metalforge.io/drummer/chris-turner
+
+### Daniel Erlandsson (Arch Enemy)
+
+- **1989** (Drums): Signed with Pearl — Began playing a developing Pearl kit with early Gothenburg act Eucharist, the foundation of the Pearl relationship carried into Arch Enemy
+- **1989** (Cymbals): Signed with Sabian — Adopted an early professional Sabian cymbal setup during his Eucharist years, ahead of the AA/HH configuration used on Arch Enemy's breakthrough albums
+- **2002** (Drums): Signed with Pearl Reference Pure — Reached his fully documented Pearl Reference Pure configuration on Wages of Sin (2002), paired with a Pearl Free-Floating Brass 14"x6.5" snare
+- **2005** (Drums): Signature product: Pearl Daniel Erlandsson Signature Snare 14"x5.5" — Co-designed a personal 14"x5.5" signature snare with Pearl during the Doomsday Machine era, replacing his earlier Pearl Free-Floating Brass snare
+- **2014** (Cymbals): Switched from Sabian AA/HH to Sabian AAX/HHX — Refined his Sabian setup to the brighter AAX crashes and darker HHX ride heard from the War Eternal era onward
+- Profile: https://metalforge.io/drummer/daniel-erlandsson
 
 ---
 

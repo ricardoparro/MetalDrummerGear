@@ -539,6 +539,11 @@ export function buildSitemapXml() {
       'richard-christy-vs-derek-roddy',
       'kevin-talley-vs-george-kollias',
       'ryan-van-poederooyen-vs-mike-portnoy',
+      // Issue #4122: 3 new curated pairs closing thin-coverage gaps (Jon Dette,
+      // Adrian Erlandsson) — neither drummer is in the `drummers` list above.
+      'jon-dette-vs-dave-lombardo',
+      'jon-dette-vs-gene-hoglan',
+      'adrian-erlandsson-vs-sean-reinert',
     ].map(slug => ({ loc: `/vs/${slug}`, priority: '0.7', changefreq: 'monthly' }))),
     // Issue #739: Signature Gear Spotlight pages
     ...signatureGearPages.map(sg => ({ loc: `/drummers/${sg.drummerSlug}/signature/${sg.gearSlug}`, priority: '0.85', changefreq: 'monthly' })),

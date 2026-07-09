@@ -163,6 +163,9 @@ import { hasBrand } from './data/brands';
 // mapping used by the drummer-page "Sticks" block and the /drumsticks/signature/
 // <drummer> pages (Issue #4138, phase 3/4). Tiny static module, safe to import eagerly.
 import { DRUMMER_STICKS, getSticksForDrummer } from './data/drumsticks';
+// Drumstick brand pages (Issue #4139, epic #4135 phase 4/4) — used to link the
+// drummer-page "Sticks" block to the matching /drumsticks/brands/<brand> page.
+import { getBrandForStick } from './data/drumstickBrands';
 
 // ==========================================
 // LAZY-LOADED DATA MODULES - Performance Optimization (#708)
@@ -318,6 +321,26 @@ function getDrumstickReferenceSlugFromURL() {
   const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/drumsticks\/([^/]+)$/)?.[1];
   return DRUMSTICK_REFERENCE_SLUGS.includes(slug) ? slug : null;
 }
+
+// Drumstick Brand Pages (Issue #4139, epic #4135 phase 4/4) - /drumsticks/brands
+// + /drumsticks/brands/<brand>. Only rendered for brands defined in
+// data/drumstickBrands.js — an unknown slug falls through to the normal 404.
+const LazyDrumstickBrandsHubPage = lazy(() => import('./components/DrumstickBrandsHubPage').then(m => ({ default: m.DrumstickBrandsHubPage })));
+const LazyDrumstickBrandPage = lazy(() => import('./components/DrumstickBrandPage').then(m => ({ default: m.DrumstickBrandPage })));
+function isDrumstickBrandsHubPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/drumsticks/brands'; }
+const DRUMSTICK_BRAND_RE = /^\/drumsticks\/brands\/([a-z0-9-]+)\/?$/i;
+function getDrumstickBrandSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(DRUMSTICK_BRAND_RE);
+  return match ? match[1].toLowerCase() : null;
+}
+function isDrumstickBrandPage() {
+  return !!getDrumstickBrandSlugFromURL();
+}
+
+// Best Drumsticks for Metal guide (Issue #4139, epic #4135 phase 4/4) - /drumsticks/best-for-metal
+const LazyBestForMetalPage = lazy(() => import('./components/BestForMetalPage').then(m => ({ default: m.BestForMetalPage })));
+function isBestForMetalPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/drumsticks/best-for-metal'; }
 
 // Beginner Gear Guide Component (Issue #702)
 // Lazy loaded for performance optimization (#708) - 63KB component + 45KB data
@@ -7282,6 +7305,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       {(() => {
         const [mappedStick] = getSticksForDrummer(drummerSlug);
         if (!mappedStick) return null;
+        const mappedBrand = getBrandForStick(mappedStick);
         return (
           <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.bioText, { color: theme.text }]}>
@@ -7301,6 +7325,20 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
             >
               <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>See full specs →</Text>
             </TouchableOpacity>
+            {mappedBrand && (
+              <TouchableOpacity
+                onPress={() => {
+                  if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                    window.history.pushState({}, '', `/drumsticks/brands/${mappedBrand.slug}`);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                }}
+                accessibilityRole="link"
+                accessibilityLabel={`More about ${mappedBrand.name} drumsticks`}
+              >
+                <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>More {mappedBrand.name} sticks →</Text>
+              </TouchableOpacity>
+            )}
           </View>
         );
       })()}
@@ -28170,6 +28208,103 @@ setShowList(false);
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}
+            onNavigateToBrand={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drumsticks/brands/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+
+    // Drumstick Brands Hub (Issue #4139, epic #4135 phase 4/4) - /drumsticks/brands
+    if (isDrumstickBrandsHubPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyDrumstickBrandsHubPage
+            theme={theme}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/drumsticks');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrand={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drumsticks/brands/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+
+    // Drumstick Brand Page (Issue #4139, epic #4135 phase 4/4) - /drumsticks/brands/<brand>
+    if (isDrumstickBrandPage()) {
+      const brandSlug = getDrumstickBrandSlugFromURL();
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyDrumstickBrandPage
+            theme={theme}
+            brandSlug={brandSlug}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/drumsticks');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrandsHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/drumsticks/brands');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToSignaturePage={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drumsticks/signature/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBestForMetal={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/drumsticks/best-for-metal');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+
+    // Best Drumsticks for Metal guide (Issue #4139, epic #4135 phase 4/4) - /drumsticks/best-for-metal
+    if (isBestForMetalPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyBestForMetalPage
+            theme={theme}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/drumsticks');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToSignaturePage={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drumsticks/signature/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrandsHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/drumsticks/brands');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
           />
         </Suspense>
       );
@@ -28587,6 +28722,24 @@ setShowList(false);
               setDrumstickPageSlug(slug);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/drumsticks/${slug}`);
+              }
+            }}
+            onNavigateBrandsHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/drumsticks/brands');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrand={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drumsticks/brands/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBestForMetal={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/drumsticks/best-for-metal');
+                window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}
           />

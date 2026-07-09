@@ -7831,6 +7831,36 @@ Full list page: https://metalforge.io/lists/most-innovative-metal-drummers
 
 ================================================================================
 
+## Drumsticks Hub, Brand Pages & Best-for-Metal Guide
+
+Hub page: https://metalforge.io/drumsticks
+Reference guides: https://metalforge.io/drumsticks/sizes, https://metalforge.io/drumsticks/materials, https://metalforge.io/drumsticks/tips
+Brand pages: https://metalforge.io/drumsticks/brands
+Best-for-metal buying guide: https://metalforge.io/drumsticks/best-for-metal
+Per-drummer signature stick pages: https://metalforge.io/drumsticks/signature/<drummer-slug> (one per drummer with a confirmed stick mapping)
+
+### Drumstick Brands
+
+Ten major drumstick brands are covered at /drumsticks/brands/<brand-slug>, each with company positioning, notable metal-relevant product lines, and — where confirmed in our verified drummer-to-stick database — the drummers who play them. No endorsement is listed unless it is confirmed by a cited source.
+
+- **Vic Firth** (/drumsticks/brands/vic-firth): Industry-reference stick maker, part of the Avedis Zildjian Company family. Confirmed players: George Kollias (Nile), Charlie Benante (Anthrax), Danny Carey (Tool), Matt Greiner (August Burns Red), Nicko McBrain (Iron Maiden), Vinnie Paul (Pantera).
+- **Vater Percussion** (/drumsticks/brands/vater): Independent, 100%-USA-made, premium positioning. No confirmed drummer mapping yet in our database.
+- **Pro-Mark** (/drumsticks/brands/pro-mark): Owned by D'Addario since 2011. Confirmed players: Dave Lombardo (Slayer), Eloy Casagrande (Slipknot), Mike Portnoy (Dream Theater), Chris Adler (Lamb of God).
+- **Ahead** (/drumsticks/brands/ahead): Aluminum-core sticks with replaceable sleeves. Confirmed player: Lars Ulrich (Metallica).
+- **Zildjian** (/drumsticks/brands/zildjian): Legendary cymbal maker that has also sold its own stick line since 1989. No confirmed drummer mapping yet in our database.
+- **Los Cabos Drumsticks** (/drumsticks/brands/los-cabos): Canadian, family-owned, wood-quality positioning. No confirmed drummer mapping yet in our database.
+- **Regal Tip** (/drumsticks/brands/regal-tip): One of the oldest US stick makers (Calato family), invented the nylon-tip drumstick. No confirmed drummer mapping yet in our database.
+- **Meinl Stick & Brush** (/drumsticks/brands/meinl): German percussion group's drumstick line. No confirmed drummer mapping yet in our database.
+- **Wincent** (/drumsticks/brands/wincent): Swedish precision-manufacturing stick maker. No confirmed drummer mapping yet in our database.
+- **Tama** (/drumsticks/brands/tama): Best known for drum kits/hardware; also sells its own stick line. Confirmed player: Mario Duplantier (Gojira).
+
+### Best Drumsticks for Metal
+
+The buying guide at /drumsticks/best-for-metal explains why metal drumming favours heavier 5B/2B sticks over 5A, front-weighted (barrel/teardrop/acorn) tips over a light round tip, and durable hickory/oak or aluminum-core construction over lighter woods — then lists every confirmed signature stick from our verified drummer-to-stick database (Vic Firth, Pro-Mark, Ahead, and Tama models) as recommendations, each linking to its full spec page.
+
+
+================================================================================
+
 # About MetalForge
 
 MetalForge is a comprehensive database of professional metal drummers and their 

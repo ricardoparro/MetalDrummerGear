@@ -14,6 +14,7 @@ import {
   updateSignatureStickMeta,
   generateSignatureStickSchema,
 } from '../data/signatureStickPages';
+import { getBrandForStick } from '../data/drumstickBrands';
 
 // ==========================================
 // SEO SCHEMA INJECTION (mirrors GearSeriesPage)
@@ -45,6 +46,7 @@ export function SignatureStickPage({
   onBack,
   onNavigateToDrummer,
   onNavigateToHub,
+  onNavigateToBrand,
 }) {
   const themeContext = useContext(ThemeContext);
   const theme = themeProp || themeContext;
@@ -79,6 +81,7 @@ export function SignatureStickPage({
   }
 
   const { stick, drummerName } = data;
+  const brand = getBrandForStick(stick);
 
   return (
     <ScrollView style={[styles.container, { backgroundColor: theme.background }]} contentContainerStyle={styles.scrollContent}>
@@ -134,6 +137,17 @@ export function SignatureStickPage({
       >
         <Text style={[styles.drummerName, { color: theme.text }]}>🥁 View {drummerName}'s Full Drum Setup →</Text>
       </Pressable>
+
+      {brand && (
+        <Pressable
+          onPress={() => onNavigateToBrand && onNavigateToBrand(brand.slug)}
+          style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.card, borderColor: theme.border }]}
+          accessibilityRole="link"
+          accessibilityLabel={`More about ${brand.name}`}
+        >
+          <Text style={[styles.drummerName, { color: theme.text }]}>🥢 More About {brand.name} →</Text>
+        </Pressable>
+      )}
 
       {onNavigateToHub && (
         <Pressable

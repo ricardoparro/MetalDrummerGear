@@ -2,7 +2,7 @@ import React, { createContext, useContext, useState, useEffect, useCallback } fr
 import { Platform } from 'react-native';
 import { colors } from './colors';
 
-const ThemeContext = createContext();
+export const ThemeContext = createContext();
 
 // Storage key for persisting theme preference
 const THEME_STORAGE_KEY = 'metalforge-theme-preference';

@@ -2091,3 +2091,29 @@ Metrics refreshed 03:02 UTC. Prior batch (#4086/#4112/#4113/#4114) fully shipped
 
 ---
 
+## 2026-07-09 05:20 — Deep run: triaged 4 fresh proposals, backlog refilled 4→8
+
+### Context (≤3 lines)
+Metrics refreshed 05:18 UTC (176 users/211 sessions/365 views 7d; GSC 3,910 impr/118 clicks/3.02% CTR/pos 8.2 — no content-gap rows). Backlog was 4 eligible ai-fix (#4121-4124, all already have open MERGEABLE PRs #4129-4132 shipping). 4 fresh untriaged `seo-proposal` (#4125-4128, 03:09-03:10 UTC).
+
+### Actions taken
+- Independently verified all 4 fresh proposals against live data files before promoting: **#4125** (3 endorsement timelines) — grepped `endorsementNews.js`, confirmed gene-hoglan/shannon-larkin/igor-cavalera absent. **#4126** (4 album-setup articles) — confirmed morgan-agren/isaac-lamb/tim-yeung/kevin-talley all stuck at exactly 1 `"slug":` entry (base-only). **#4127** (2 Ludwig comparisons) — confirmed zero `ludwig` hits in `gearComparisons.js`. **#4128** (3 drummer comparison pairs) — confirmed all 3 pairings absent from `drummerComparisons.js` in both slug orderings. All 4 promoted to `ai-fix`.
+- Founder ideas: inbox empty (unchanged). GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: all 8 open `ai-fix` issues are same-day (<12h old, #4121-4128) — no split needed.
+- Checked standing #4111 watch item (crawler-shell, human-founder): today's ~06:00-07:00 UTC deploy hasn't fired yet (last successful run 2026-07-08T06:48:19Z, predates PR #4110's 20:20 UTC merge). Cannot judge the fix yet — re-check at mid-day pulse once the deploy fires. No re-spam on #4111 (0 comments, unchanged).
+
+### State delta
+- ai-fix backlog: 4 → 8 eligible (#4125-4128 promoted)
+- seo-proposal bank: 4 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 176/211/365 · GSC: 3,910 impr / 118 clicks / 3.02% CTR / pos 8.2 (down slightly from 188/228/390 — 7d rolling window, not a regression signal)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. **Re-curl `/drummer/lars-ulrich` (fresh nonce, GPTBot UA) once today's ~06:00-07:00 UTC deploy fires** — first deploy that can contain PR #4110. If still byte-identical to homepage, #4111's platform-level theory is confirmed; if fixed, close #4111 and update `learned-patterns.md`.
+2. Backlog at 8 — healthy, keep promoting fresh proposals as they land toward the ~80 target band.
+3. #4111 still unresolved, no Ricardo response — recheck next run, no re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+---
+

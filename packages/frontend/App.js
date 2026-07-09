@@ -299,6 +299,22 @@ function isGuidesHubPage() { return _soundLikeGuidesModule?.isGuidesHubPage?.() 
 function isGuidePage() { return _soundLikeGuidesModule?.isGuidePage?.() ?? (typeof window !== 'undefined' && window.location.pathname.startsWith('/guides/') && window.location.pathname !== '/guides/'); }
 function getGuideSlugFromURL() { return _soundLikeGuidesModule?.getGuideSlugFromURL?.() ?? (typeof window !== 'undefined' ? window.location.pathname.replace('/guides/', '') : ''); }
 
+// Drumsticks Hub (Issue #4137, epic #4135 phase 2) - SEO pillar + reference pages at /drumsticks/*
+const DRUMSTICK_REFERENCE_SLUGS = ['sizes', 'materials', 'tips'];
+const LazyDrumsticksHubPage = lazy(() => import('./components/DrumsticksHubPage').then(m => ({ default: m.DrumsticksHubPage })));
+const LazyDrumstickReferencePage = lazy(() => import('./components/DrumstickReferencePage').then(m => ({ default: m.DrumstickReferencePage })));
+function isDrumsticksHubPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/drumsticks'; }
+function isDrumstickReferencePage() {
+  if (typeof window === 'undefined') return false;
+  const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/drumsticks\/([^/]+)$/)?.[1];
+  return DRUMSTICK_REFERENCE_SLUGS.includes(slug);
+}
+function getDrumstickReferenceSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/drumsticks\/([^/]+)$/)?.[1];
+  return DRUMSTICK_REFERENCE_SLUGS.includes(slug) ? slug : null;
+}
+
 // Beginner Gear Guide Component (Issue #702)
 // Lazy loaded for performance optimization (#708) - 63KB component + 45KB data
 const LazyBeginnerGearGuidePage = lazy(() => import('./components/BeginnerGearGuide'));
@@ -23598,7 +23614,12 @@ function AppContent() {
   const [showGuidesHub, setShowGuidesHub] = useState(() => isGuidesHubPage());
   const [showGuide, setShowGuide] = useState(() => isGuidePage());
   const [guideSlug, setGuideSlug] = useState(() => getGuideSlugFromURL());
-  
+
+  // Drumsticks Hub state (Issue #4137, epic #4135 phase 2) - /drumsticks + /drumsticks/:page
+  const [showDrumsticksHub, setShowDrumsticksHub] = useState(() => isDrumsticksHubPage());
+  const [showDrumstickPage, setShowDrumstickPage] = useState(() => isDrumstickReferencePage());
+  const [drumstickPageSlug, setDrumstickPageSlug] = useState(() => getDrumstickReferenceSlugFromURL());
+
   // Beginner Gear Guide Page state (Issue #702 / generalized to multi-slug #832)
   const [showBeginnerGuide, setShowBeginnerGuide] = useState(() => isBeginnerGuidePage());
   const [beginnerGuideSlug, setBeginnerGuideSlug] = useState(() => getBeginnerGuideSlugFromURL());
@@ -25022,6 +25043,9 @@ function AppContent() {
         setShowBeginnerGuide(true);
         setBeginnerGuideSlug(getBeginnerGuideSlugFromURL());
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25060,6 +25084,9 @@ function AppContent() {
         setShowNameGenerator(true);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25109,6 +25136,9 @@ function AppContent() {
         setShowGearComparisonTool(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25153,6 +25183,9 @@ function AppContent() {
         setShowGearComparisonTool(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25196,6 +25229,9 @@ function AppContent() {
         setShowNameGenerator(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25242,6 +25278,9 @@ function AppContent() {
         setShowNameGenerator(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25294,6 +25333,9 @@ function AppContent() {
         setShowNameGenerator(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25343,6 +25385,9 @@ function AppContent() {
         setShowNameGenerator(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25483,6 +25528,9 @@ function AppContent() {
         setShowNameGenerator(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25540,6 +25588,9 @@ function AppContent() {
         setShowNameGenerator(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25600,6 +25651,9 @@ function AppContent() {
         setShowNameGenerator(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25656,6 +25710,9 @@ function AppContent() {
         setShowNameGenerator(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25715,6 +25772,9 @@ function AppContent() {
         setShowNameGenerator(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25764,6 +25824,9 @@ function AppContent() {
         setShowGearComparisonTool(false);
         setShowBeginnerGuide(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25842,6 +25905,9 @@ function AppContent() {
         setShowGuide(true);
         setGuideSlug(slug);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowArticle(false);
         setArticleSlug(null);
         setShowList(false);
@@ -25869,6 +25935,42 @@ function AppContent() {
         setBioSlug(null);
         setShowGearFinder(false);
         setShowGearByBudget(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isDrumsticksHubPage()) {
+        // Drumsticks pillar page (Issue #4137) - /drumsticks
+        setShowDrumsticksHub(true);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isDrumstickReferencePage()) {
+        // Drumsticks reference pages (Issue #4137) - /drumsticks/sizes|materials|tips
+        setShowDrumstickPage(true);
+        setDrumstickPageSlug(getDrumstickReferenceSlugFromURL());
+        setShowDrumsticksHub(false);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
@@ -25917,6 +26019,9 @@ function AppContent() {
         setShowGearFinder(false);
         setShowGearByBudget(false);
         setShowGuidesHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setSelectedDrummer(null);
@@ -25992,11 +26097,17 @@ function AppContent() {
         setShowGearComparison(false);
         setGearComparisonSlug(null);
         setShowGearComparisonsIndex(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
       } else {
         // Back to home page
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGearCards(false);
         setShowCompare(false);
         setShowQuiz(false);
@@ -28371,6 +28482,50 @@ setShowList(false);
             }}
             guideSlug={guideSlug}
             onSelectDrummer={handleSelectDrummer}
+          />
+        </Suspense>
+      );
+    }
+    // Drumsticks pillar page (Issue #4137, epic #4135 phase 2) - /drumsticks
+    if (showDrumsticksHub) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyDrumsticksHubPage
+            theme={theme}
+            drummers={drummers}
+            onNavigateReference={(slug) => {
+              setShowDrumsticksHub(false);
+              setShowDrumstickPage(true);
+              setDrumstickPageSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drumsticks/${slug}`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Drumsticks reference pages (Issue #4137) - /drumsticks/sizes|materials|tips
+    if (showDrumstickPage && drumstickPageSlug) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyDrumstickReferencePage
+            theme={theme}
+            slug={drumstickPageSlug}
+            onBack={() => {
+              setShowDrumstickPage(false);
+              setDrumstickPageSlug(null);
+              setShowDrumsticksHub(true);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/drumsticks');
+              }
+            }}
+            onNavigateReference={(slug) => {
+              setDrumstickPageSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drumsticks/${slug}`);
+              }
+            }}
           />
         </Suspense>
       );

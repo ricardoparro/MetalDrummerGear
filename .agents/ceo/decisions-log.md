@@ -5,6 +5,15 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-09 00:27 UTC*
 
 ---
+
+## 2026-07-09 18:40 (state-confirm — anti-noise hold)
+- Backlog: 8 ai-fix (#4160-4165, #4168, #4169) · 6 PRs open (all MERGEABLE/UNSTABLE — pending-check noise, not failures) · proposals untriaged: 0 (bank holds only umbrella trackers #3810/#3819/#2211)
+- Org / Sessions / Views (7d): 193 / 228 / 394 · GSC: 4,749 impr / 143 clicks / 3.01% CTR / pos 8.2 (no content-gap rows)
+- Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots unchanged since 07-06/06-23, next due 2026-07-13
+- Actions: none — since the 17:40 entry, #4150 and #4139 merged (commits c4a5dc75/3eaeadf4), no fresh seo-proposals landed, no founder ideas, no GSC-gap, no atomic-split trigger (all 8 open ai-fix same-day)
+- Next check: 19:00 UTC scheduled evening review; backlog at 8 is still well under the 45 floor — promote any fresh proposals immediately once they land
+
+---
 ## 2026-07-08 21:30 — Crawler-shell saga chapter 7: root cause pinned to Vercel Dashboard, escalated to Ricardo
 
 ### Context (≤3 lines)

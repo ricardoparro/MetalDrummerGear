@@ -548,6 +548,10 @@ export function buildSitemapXml() {
       'jon-dette-vs-dave-lombardo',
       'jon-dette-vs-gene-hoglan',
       'adrian-erlandsson-vs-sean-reinert',
+      // Issue #4128: navene-koperweis-vs-matt-garstka's curated slug keeps the
+      // founder-then-successor narrative order; the alphabetized generator above
+      // would instead produce matt-garstka-vs-navene-koperweis.
+      'navene-koperweis-vs-matt-garstka',
     ].map(slug => ({ loc: `/vs/${slug}`, priority: '0.7', changefreq: 'monthly' }))),
     // Issue #739: Signature Gear Spotlight pages
     ...signatureGearPages.map(sg => ({ loc: `/drummers/${sg.drummerSlug}/signature/${sg.gearSlug}`, priority: '0.85', changefreq: 'monthly' })),

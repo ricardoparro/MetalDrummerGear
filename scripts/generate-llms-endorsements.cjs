@@ -1,7 +1,13 @@
 #!/usr/bin/env node
 /**
- * Generate public/llms/endorsements/<slug>.md — per-drummer endorsement detail pages.
+ * Generate public/llms/endorsements/<slug>.md — per-drummer endorsement detail pages —
+ * AND public/llms/endorsements.md, the hub/index page that links to all of them.
  * Issue #1435: per-drummer decomposition of the endorsement hub (#1416).
+ * Issue #4192: this script now also owns the hub index (title/count/date/link-list),
+ * driven by the same TARGET_SLUGS array, so the hub can no longer drift out of sync
+ * as drummers are added. The hand-curated "Drum Kit / Cymbal / Pedal / Drumstick
+ * Endorsements", "Quick-Reference Table", and "FAQ" sections of the hub are left
+ * untouched by this script — only the header and per-drummer link list are generated.
  *
  * Reads ENDORSEMENT_TIMELINE from packages/frontend/data/endorsementNews.js.
  * Same regex+eval+string-replace extraction pattern as sibling generate-llms-*.cjs
@@ -248,5 +254,46 @@ for (const r of results) {
   const note = r.ok && r.words < 200 ? ' ⚠ <200 words' : '';
   console.log(`   ${status} ${r.slug}: ${r.words} words${note}`);
 }
+
+// --- Regenerate the hub index (public/llms/endorsements.md) ---
+// Only the header (title/count/date) and the per-drummer link list are mechanical;
+// everything from "## Drum Kit Endorsements" onward is hand-curated and left as-is.
+const hubPath = path.join(__dirname, '../public/llms/endorsements.md');
+const hubContent = fs.readFileSync(hubPath, 'utf-8');
+const HUB_SPLIT_MARKER = '## Drum Kit Endorsements';
+const splitIdx = hubContent.indexOf(HUB_SPLIT_MARKER);
+if (splitIdx === -1) {
+  console.error(`❌ Could not find "${HUB_SPLIT_MARKER}" in ${hubPath} — hub not regenerated`);
+  process.exit(1);
+}
+// Preserve the divider line ("---") immediately before the hand-curated section.
+const preMarker = hubContent.slice(0, splitIdx);
+const dividerIdx = preMarker.lastIndexOf('---');
+const handCuratedSection = hubContent.slice(dividerIdx);
+
+const count = TARGET_SLUGS.length;
+const headerLines = [];
+headerLines.push('# Metal Drummer Gear Endorsements — Complete List');
+headerLines.push('');
+headerLines.push(`This page documents official gear endorsements for the ${count} professional metal drummers catalogued in MetalForge's endorsement index.`);
+headerLines.push('');
+headerLines.push(`> Last Updated: ${today} · Source: https://metalforge.io`);
+headerLines.push('');
+headerLines.push('For a brand-first view of the full 63-drummer roster see [/llms/gear-by-brand.md](https://metalforge.io/llms/gear-by-brand.md).');
+headerLines.push('');
+headerLines.push('## Per-Drummer Endorsement Detail Pages');
+headerLines.push('');
+headerLines.push(`Each of the ${count} drummers has a dedicated endorsement page with current endorsements, signature models, endorsement history, and FAQ:`);
+headerLines.push('');
+for (const slug of TARGET_SLUGS) {
+  const drummer = ENDORSEMENT_TIMELINE[slug];
+  const name = drummer ? drummer.name : slug;
+  headerLines.push(`- [${name} — Brand Endorsements](https://metalforge.io/llms/endorsements/${slug}.md)`);
+}
+headerLines.push('');
+
+const newHubContent = headerLines.join('\n') + handCuratedSection;
+fs.writeFileSync(hubPath, newHubContent);
+console.log(`\n✅ Regenerated public/llms/endorsements.md hub — ${count} drummers linked`);
 
 if (failed > 0) process.exit(1);

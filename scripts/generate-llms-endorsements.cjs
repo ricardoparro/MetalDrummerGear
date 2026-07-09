@@ -63,6 +63,8 @@ const TARGET_SLUGS = [
   'dirk-verbeuren', 'frost', 'abe-cunningham', 'travis-orbin',
   // Issue #4168: aquiles-priester, arin-ilejay, blake-richardson, chris-turner, daniel-erlandsson
   'aquiles-priester', 'arin-ilejay', 'blake-richardson', 'chris-turner', 'daniel-erlandsson',
+  // Issue #4169: derek-roddy, hannes-grossmann, isaac-lamb, jason-bittner, jocke-wallgren
+  'derek-roddy', 'hannes-grossmann', 'isaac-lamb', 'jason-bittner', 'jocke-wallgren',
 ];
 
 function cap(s) {

@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-09 05:18 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-09 07:09 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 179 |
-| Sessions | 214 |
-| Page views | 367 |
-| Engagement rate | 60.28% |
-| Avg session (s) | 154 |
+| Active users | 181 |
+| Sessions | 216 |
+| Page views | 371 |
+| Engagement rate | 59.72% |
+| Avg session (s) | 153 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -26,35 +26,35 @@
 | /drummer/ben-koller | 8 | 6 |
 | /articles/none-so-vile-drum-setup | 7 | 5 |
 | /drummer/john-otto | 7 | 7 |
-| /drummer/eloy-casagrande | 6 | 5 |
+| /drummer/mario-duplantier | 7 | 7 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 163 | 138 |
-| Direct | 27 | 19 |
+| Organic Search | 165 | 140 |
+| Direct | 28 | 20 |
 | Unassigned | 26 | 23 |
 | Cross-network | 15 | 15 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 3,910 |
-| Clicks | 118 |
-| CTR | 3.02% |
+| Impressions | 4,749 |
+| Clicks | 143 |
+| CTR | 3.01% |
 | Avg position | 8.2 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| bill ward drum kit | 27 | 2 | 7.41% | 7.7 |
-| mario duplantier setup | 6 | 2 | 33.33% | 5.3 |
+| best death metal drummers of all time | 2 | 2 | 100.00% | 4.5 |
+| bill ward drum kit | 30 | 2 | 6.67% | 8.0 |
+| mario duplantier setup | 7 | 2 | 28.57% | 5.3 |
 | matt greiner drum kit | 4 | 2 | 50.00% | 5.5 |
-| matt greiner drum setup | 26 | 2 | 7.69% | 6.5 |
-| best death metal drummers of all time | 1 | 1 | 100.00% | 2.0 |
-| bill ward drum kit 1970 | 6 | 1 | 16.67% | 6.3 |
+| matt greiner drum setup | 28 | 2 | 7.14% | 6.6 |
+| bill ward drum kit 1970 | 8 | 1 | 12.50% | 6.5 |
 | brann dailor drum set | 1 | 1 | 100.00% | 5.0 |
-| eloy casagrande drum kit | 22 | 1 | 4.55% | 7.5 |
+| eloy casagrande drum kit | 25 | 1 | 4.00% | 8.2 |
 | gavin harrison drum kit | 2 | 1 | 50.00% | 8.0 |
 | hellhammer drum kit | 9 | 1 | 11.11% | 4.1 |
 

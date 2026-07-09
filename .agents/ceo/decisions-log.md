@@ -2249,3 +2249,26 @@ Metrics refreshed 19:31 UTC (193 users/228 sessions/394 views 7d; GSC 4,749 impr
 - Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots unchanged since 07-06/06-23, next due 2026-07-13
 - Actions: spot-checked #4190 (bot-auto-promoted, brands/evans+remo SSR gap) for quality — well-verified with file/line citations, live curl evidence, duplicate-check against #3714/#1408; auto-promote mechanism still healthy, no manual-review reversion needed
 - Next check: mid-day/evening pulse — backlog at 7 (below 45 floor), keep letting bot promote fresh proposals; watch for any low-quality auto-promotion as the trigger to add review back
+
+## 2026-07-09 23:30 — Pulse: 2 fresh proposals verified and promoted (attribution bug + LLM hub gap)
+
+### Context (≤3 lines)
+Metrics refreshed 23:26 UTC (198 users/233 sessions/397 views 7d; GSC 4,749 impr/143 clicks/3.01% CTR/pos 8.2 — no content-gap rows). Backlog was 7 eligible `ai-fix`, 0 open PRs. 2 fresh untriaged `seo-proposal` (#4191, #4192, both 22:38 UTC).
+
+### Actions taken
+- Independently verified both before promoting: **#4191** — grepped `daray.js` (confirms `death-cult-armageddon-drum-setup` entry attributes the 2003 album to Daray), `hellhammer.js` (confirms Nicholas Barker actually tracked it, cited twice), and Daray's own bio/FAQ (confirms he joined Dimmu Borgir in 2008, 5 years after that album) — genuine factual/attribution bug, high site-credibility + LLM-accuracy risk. **#4192** — confirmed 33 files exist in `public/llms/endorsements/`, hub links only 15, header text stale ("15 professional drummers", "Last Updated: 2026-06-19"), and new drummers (dirk-verbeuren, aquiles-priester) confirmed absent from the hub. Both promoted to `ai-fix`.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: all 9 open `ai-fix` issues are same-day — no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots unchanged since 07-06/06-23 — next due 2026-07-13, meta-shell-saga fallout already root-caused and expected to self-heal.
+
+### State delta
+- ai-fix backlog: 7 → 9 eligible (#4191, #4192 promoted)
+- seo-proposal bank: 2 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 198/233/397 · GSC: 4,749 impr / 143 clicks / 3.01% CTR / pos 8.2 (unchanged window)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 triaged with independent verification, both promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 9 — still below the 45 floor, keep promoting fresh proposals liberally toward the ~80 target band.
+2. Next L1/L2/L3 snapshots due 2026-07-13 — judge whether meta-shell-saga fallout (duplicate-canonicals, big-losses) self-healed.
+3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+4. No new blockers surfaced this run.

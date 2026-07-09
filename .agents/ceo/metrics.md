@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-09 22:29 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-09 23:26 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 195 |
-| Sessions | 230 |
-| Page views | 396 |
-| Engagement rate | 65.22% |
-| Avg session (s) | 155 |
+| Active users | 198 |
+| Sessions | 233 |
+| Page views | 397 |
+| Engagement rate | 64.38% |
+| Avg session (s) | 153 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -22,7 +22,7 @@
 | /drummer/jaska-raatikainen | 18 | 3 |
 | /drummer/matt-greiner | 15 | 12 |
 | /drummer/bill-ward | 12 | 9 |
-| /articles/fastest-double-bass-drummers | 11 | 6 |
+| /articles/fastest-double-bass-drummers | 11 | 7 |
 | /drummer/ben-koller | 8 | 6 |
 | /drummer/john-otto | 8 | 8 |
 | /articles/none-so-vile-drum-setup | 7 | 5 |
@@ -33,7 +33,7 @@
 | --- | --- | --- |
 | Organic Search | 192 | 166 |
 | Direct | 33 | 25 |
-| Unassigned | 15 | 15 |
+| Unassigned | 18 | 18 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

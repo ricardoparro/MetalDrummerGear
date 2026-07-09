@@ -1141,6 +1141,186 @@ export const articles = {
       "title": "The Reunion That Needed No Reinvention",
       "content": "*Closure/Continuation* (2022) answers the most obvious question about Porcupine Tree's thirteen-year reunion before a single review gets written: did the time away change anything? For Gavin Harrison's drumming, the answer is a deliberate no. He returned to the same Sonor SQ2 kit, the same Zildjian K Custom Special Dry cymbals, and the same Gavin Harrison Signature snare that had carried *In Absentia*, *Fear of a Blank Planet*, and *The Incident* — proof that the setup was never tied to a particular era, only to the specific musical demands Steven Wilson's writing makes of a drummer.\n\nThe album's highest-ever UK chart position and its trio of producers working from separate home studios make *Closure/Continuation* a genuinely unusual reunion record, but the drumming itself is a direct continuation of everything Harrison built across the 2000s. \"Chimera's Wreck\" alone — with its extended polyrhythmic close — could sit comfortably alongside \"Anesthetize\" or the title suite of *The Incident*.\n\nFor drummers approaching this gear:\n\n- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)\n- **The Incident gear**: [The Incident Drum Setup](/articles/the-incident-drum-setup)\n- **Fear of a Blank Planet gear**: [Fear of a Blank Planet Drum Setup](/articles/fear-of-a-blank-planet-drum-setup)\n- **LLM summary**: [Closure/Continuation Drum Setup — LLM](/llms/articles/closure-continuation-drum-setup.md)\n\nThirteen years is a long time for a band to stay silent. Gavin Harrison's gear didn't need a single year of it to find its way back."
     }
+  },
+  "your-wilderness-drum-setup": {
+    "slug": "your-wilderness-drum-setup",
+    "articleType": "drummer-kit",
+    "drummer": "Gavin Harrison",
+    "drummerId": 47,
+    "band": "The Pineapple Thief",
+    "bands": [
+      "The Pineapple Thief",
+      "Porcupine Tree",
+      "King Crimson"
+    ],
+    "albumTitle": "Your Wilderness",
+    "artist": "The Pineapple Thief",
+    "relatedDrummerSlug": "gavin-harrison",
+    "year": 2016,
+    "albumYear": 2016,
+    "genre": "Progressive Rock / Progressive Metal",
+    "label": "Kscope",
+    "studio": "Gavin Harrison's home studio (drums); mixed by Bruce Soord",
+    "producer": "Bruce Soord",
+    "isAlbumArticle": true,
+    "datePublished": "2026-07-09",
+    "dateModified": "2026-07-09",
+    "author": "MetalForge Editorial",
+    "title": "Gavin Harrison's Drum Setup on The Pineapple Thief's Your Wilderness (2016)",
+    "description": "Gavin Harrison's drum gear on The Pineapple Thief's Your Wilderness (2016) — his debut recording with the band, tracked remotely on his Sonor SQ2 kit and mixed into Bruce Soord's songs from across the Atlantic.",
+    "seoKeywords": [
+      "gavin harrison drum kit",
+      "your wilderness drums",
+      "gavin harrison pineapple thief",
+      "the pineapple thief drummer gear",
+      "gavin harrison your wilderness kit",
+      "your wilderness drum setup",
+      "gavin harrison sonor sq2 2016",
+      "pineapple thief 2016 album drums"
+    ],
+    "ogImage": "/images/drummers/gavin-harrison.webp",
+    "intro": {
+      "title": "A Remote Session That Changed a Band",
+      "content": "Released in August 2016 through Kscope, *Your Wilderness* is The Pineapple Thief's eleventh studio album and the record that introduced Gavin Harrison to a band he had, until that point, never played with. Bruce Soord's British art-rock project had spent two decades building a devoted progressive rock following, but *Your Wilderness* marked a genuine step change — critically and commercially the band's most acclaimed release to that point — and the difference is audible from the opening bars of \"In Exile\" onward.\n\nHarrison's arrival was unconventional by any recording standard. Rather than tracking drums in a shared studio session with Soord, keyboardist Steve Kitch, and bassist Jon Sykes, Harrison recorded his parts independently at his own home studio, then sent the finished drum tracks across for Soord to mix into the songs. This arm's-length process — Harrison shaping every fill and dynamic choice without a producer or bandmate in the room to react to in real time — puts unusual weight on the drummer's own judgment. The album's eight tracks, all written by Soord, range from the tightly wound rock of \"Tear You Up\" to the nearly ten-minute centerpiece \"The Final Thing on My Mind,\" and Harrison's playing tracks every dynamic shift in Soord's writing with the same polyrhythmic sophistication and ghost-note vocabulary that had defined his Porcupine Tree tenure.\n\nThe album also features guest contributions from John Helliwell (Supertramp's saxophonist) and Geoffrey Richardson (Caravan's viola and mandolin player), giving *Your Wilderness* an orchestral, almost chamber-rock texture that Harrison's dynamically restrained, texturally aware drumming was uniquely suited to serve. Where a more conventional rock drummer might have driven the arrangements from the front, Harrison's approach — refined across \"Fear of a Blank Planet\" and \"The Incident\" — leaves space for Helliwell's saxophone lines and Richardson's strings to breathe, entering with force only when the song's structure calls for it.\n\n*Your Wilderness* proved successful enough that Harrison stayed on for The Pineapple Thief's next several albums, including 2018's *Dissolution*, cementing what began as a one-off remote session into an ongoing creative partnership. This article documents the gear Harrison used to record his debut with the band — the same Sonor SQ2 kit and Zildjian K Custom Special Dry cymbals that anchor his entire recorded catalogue — and the unusual remote process that made *Your Wilderness* possible.",
+      "keyPoints": [
+        "Released August 2016 via Kscope — The Pineapple Thief's eleventh studio album",
+        "Gavin Harrison's debut recording with the band, tracked remotely at his own home studio",
+        "Drum parts recorded independently, then sent to Bruce Soord for mixing into the final songs",
+        "Same Sonor SQ2 kit and Zildjian K Custom Special Dry cymbals documented across his Porcupine Tree catalogue",
+        "Guest musicians: John Helliwell (Supertramp, saxophone) and Geoffrey Richardson (Caravan, viola/mandolin)",
+        "Led directly to Harrison's continued work with the band, including 2018's Dissolution"
+      ]
+    },
+    "drumKit": {
+      "title": "The Sonor SQ2, Tracked Alone",
+      "brand": "Sonor",
+      "model": "Sonor SQ2 Series",
+      "finish": "Custom maple — configuration consistent with Harrison's Porcupine Tree-era setup",
+      "config": {
+        "bassdrums": [
+          "22\" x 17\" Bass Drum"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom"
+        ],
+        "floorToms": [
+          "14\" x 13\" Floor Tom",
+          "16\" x 15\" Floor Tom"
+        ],
+        "shells": "Premium maple — thin shells for sensitivity and resonance"
+      },
+      "description": "Harrison brought the same Sonor SQ2 configuration he had used throughout Porcupine Tree's 2000s catalogue to his *Your Wilderness* sessions — thin maple shells, a 22\" bass drum sized for articulation, and a four-tom spread (10\", 12\", 14\", 16\") tuned as melodic voices. Recording alone at his home studio rather than in a full-band session made the kit's sensitivity more important than ever: with no producer or bandmate present to flag an inconsistent take, every dynamic judgment call had to be right the first time, and the SQ2's thin shells gave him the accurate feedback to make those calls with confidence.\n\nOn \"In Exile\" and \"No Man's Land,\" the kit's dynamic range carries the album's alternation between Soord's delicate verses and driving choruses — the same contrast Harrison had spent over a decade navigating on Porcupine Tree records, applied here to unfamiliar material from a band he'd never previously played with. \"The Final Thing on My Mind,\" the album's near-ten-minute centerpiece, asks the most of the kit: a long-form arrangement that moves through several distinct sections, each requiring the toms to function as tuned, melodic voices rather than simple fill drums — the same approach that had defined Harrison's playing since *Fear of a Blank Planet*.\n\nThe 22\" bass drum's smaller sizing again proved essential for a session built on precision rather than raw power. Recording without a live room or a band to lock into, Harrison needed a kick drum that responded to nuanced foot dynamics exactly as he intended, since every performance decision was final the moment the file was sent to Soord for mixing.",
+      "notes": [
+        "Same SQ2 specification used across Harrison's Porcupine Tree catalogue since In Absentia",
+        "Thin maple shells gave Harrison accurate feedback while recording without a producer in the room",
+        "22\" kick chosen for articulation, essential when every take had to be final before mixing",
+        "Four toms tuned as melodic voices, carrying the same approach established on Fear of a Blank Planet"
+      ],
+      "estimatedValue": "$6,000–9,000 (custom Sonor SQ2 shell pack)"
+    },
+    "snare": {
+      "title": "The Brass Signature Snare on an Unfamiliar Record",
+      "brand": "Sonor",
+      "model": "Sonor Gavin Harrison Signature Snare",
+      "size": "14\" x 5.25\" (primary) and 12\" Protean (auxiliary)",
+      "shell": "Brass (14\" primary) / varies (12\" Protean)",
+      "description": "Harrison's 14\" x 5.25\" brass Sonor Gavin Harrison Signature snare — the same drum documented across his Porcupine Tree recordings — remained his primary voice on *Your Wilderness*. The brass shell's warmth on soft strokes suits Soord's songwriting particularly well: tracks like \"That Shore\" and \"Where We Stood\" call for a snare that can register a ghost note or a brushed rimshot with the same musicality as a full backbeat hit, since the album's arrangements — shaped further by Helliwell's saxophone and Richardson's strings — leave the drums operating in a more textural role than a typical rock record demands.\n\nTuned medium to medium-high, consistent with his approach since *In Absentia*, the snare gave Harrison a familiar tonal anchor while adapting to unfamiliar songwriting — a stabilizing constant in a recording process where almost everything else, from the band to the remote workflow, was new.",
+      "tuningSetting": "Medium to medium-high — the same setting Harrison has used since the early 2000s",
+      "heads": "Remo Ambassador Coated (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$600–900 (Gavin Harrison Signature Snares)"
+    },
+    "cymbals": {
+      "title": "Zildjian K Custom Special Dry: A Familiar Voice in New Company",
+      "brand": "Zildjian",
+      "series": "K Custom Special Dry",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian 14\" K Custom Special Dry Hi-Hats",
+          "position": "Left side",
+          "notes": "Dry, articulate response for the intricate hi-hat conversations on \"No Man's Land\" and \"Fend for Yourself\""
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 16\" K Custom Special Dry Crash",
+          "position": "Left of hi-hats",
+          "notes": "Fast-clearing accent cymbal for the album's dynamic shifts"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian 18\" K Custom Special Dry Crash",
+          "position": "Over rack toms",
+          "notes": "Primary crash marking section changes across Soord's arrangements"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian 21\" K Custom Special Dry Ride",
+          "position": "Right side",
+          "notes": "Carries the extended build of \"The Final Thing on My Mind\""
+        },
+        {
+          "type": "China/Trash",
+          "model": "Zildjian 18\" K Custom Trash China",
+          "position": "Above floor tom",
+          "notes": "Used sparingly for the album's heavier accents, including \"Tear You Up\""
+        }
+      ],
+      "description": "Harrison's Zildjian K Custom Special Dry setup — the cymbal line he co-developed with Zildjian during his Porcupine Tree years — translated directly onto *Your Wilderness* despite the change in band and songwriter. The dry, fast-decaying character that had kept his polyrhythmic layers distinct on \"Anesthetize\" serves an equally important but different function here: leaving room for John Helliwell's saxophone and Geoffrey Richardson's viola and mandolin to occupy the same frequency space the cymbals would otherwise fill with wash.\n\nThe 21\" Special Dry Ride anchors \"The Final Thing on My Mind,\" the album's longest track, where its dry, controlled character lets the arrangement build over nearly ten minutes without the ride cymbal accumulating uncontrolled sustain. The 14\" Special Dry Hi-Hats drive the more intricate rhythmic passages on \"No Man's Land\" and \"Fend for Yourself,\" giving Soord's guitar-and-vocal-led songwriting the same conversational hi-hat texture that had characterized Harrison's work on \"The Sound of Muzak\" over a decade earlier.",
+      "notes": [
+        "Same K Custom Special Dry series co-developed with Zildjian during Harrison's Porcupine Tree years",
+        "Dry, fast-decay design leaves frequency space for guest saxophone and string parts",
+        "21\" Special Dry Ride anchors the nearly ten-minute \"The Final Thing on My Mind\"",
+        "14\" Special Dry Hi-Hats drive the conversational patterns on \"No Man's Land\" and \"Fend for Yourself\""
+      ],
+      "estimatedValue": "$1,800–2,500 (full K Custom Special Dry setup)"
+    },
+    "hardware": {
+      "title": "Sonor Perfect Balance: Precision for a Solo Session",
+      "pedals": "Sonor Perfect Balance Pedal",
+      "hihatStand": "Sonor 600 Series Hi-Hat Stand",
+      "throne": "Sonor Professional Throne",
+      "stands": "Sonor 600 Series",
+      "description": "The Sonor Perfect Balance Pedal — a fixture of Harrison's setup since his later Porcupine Tree recordings — took on particular importance during the *Your Wilderness* sessions. Recording bass drum parts alone at home, without a bandmate to react to or a producer to flag an inconsistency in real time, Harrison relied on the pedal's even, consistent resistance through the full stroke to deliver the same nuanced dynamic control he would have brought to a full-band studio date. The Perfect Balance's design — even response from initial contact through full depression — meant the ghost-note-level kick work on tracks like \"That Shore\" came through with the same subtlety Harrison intended, without a second take to fix a dynamic that didn't land.\n\nHis low throne position and flat, close cymbal placement — habits established across his Porcupine Tree tenure — carried over unchanged, giving him the same physical relationship to the kit regardless of who he was recording for.",
+      "notes": [
+        "Perfect Balance Pedal essential for consistent dynamic control without a bandmate present to react to takes",
+        "Low throne and flat cymbal placement carried over unchanged from Porcupine Tree sessions",
+        "Full Sonor hardware package for stability and repeatable feel across a remote recording process"
+      ],
+      "estimatedValue": "$1,200–1,600 (full hardware package)"
+    },
+    "faq": [
+      {
+        "question": "What drums did Gavin Harrison use on Your Wilderness?",
+        "answer": "Gavin Harrison recorded Your Wilderness (2016) — his debut with The Pineapple Thief — on the same custom Sonor SQ2 Series kit he used throughout his Porcupine Tree catalogue: a 22\" x 17\" bass drum, 10\" and 12\" rack toms, and 14\" and 16\" floor toms, built with thin maple shells for dynamic sensitivity. His primary snare was the Sonor Gavin Harrison Signature 14\" x 5.25\" brass drum. He recorded his parts independently at his own home studio and sent the finished drum tracks to Bruce Soord for mixing into the final songs."
+      },
+      {
+        "question": "What cymbals does Gavin Harrison use on Your Wilderness?",
+        "answer": "Gavin Harrison used his established Zildjian K Custom Special Dry cymbal setup on Your Wilderness: 14\" Special Dry Hi-Hats, 16\" and 18\" Special Dry crashes, a 21\" Special Dry Ride, and an 18\" K Custom Trash China — the same series he co-developed with Zildjian and used throughout his Porcupine Tree recordings. The dry, fast-decaying cymbal character leaves room for the album's guest saxophone and string contributions."
+      },
+      {
+        "question": "Did Gavin Harrison record Your Wilderness with the rest of The Pineapple Thief?",
+        "answer": "No — Gavin Harrison recorded his drum parts for Your Wilderness independently at his own home studio rather than in a shared session with the band. He sent the finished drum tracks to Bruce Soord, who mixed them into the songs alongside his own guitar and vocal parts, keyboardist Steve Kitch's contributions, and bassist Jon Sykes's parts. This was Harrison's first-ever recording with The Pineapple Thief."
+      },
+      {
+        "question": "Who else played on Your Wilderness?",
+        "answer": "Your Wilderness features Bruce Soord (vocals, guitars, all songwriting), Steve Kitch (piano, Rhodes, Mellotron, synths), Jon Sykes (bass), and Gavin Harrison (drums, percussion), with guest contributions from John Helliwell of Supertramp on saxophone and Geoffrey Richardson of Caravan on viola and mandolin."
+      },
+      {
+        "question": "Why is Your Wilderness significant in Gavin Harrison's career?",
+        "answer": "Your Wilderness (2016) marked Gavin Harrison's first recording with The Pineapple Thief, a band he had never previously played with, tracked entirely through a remote process rather than a shared studio session. The album's critical and commercial success led directly to Harrison staying on with the band for subsequent releases, including 2018's Dissolution, making Your Wilderness the starting point of an ongoing creative partnership alongside his continuing work in Porcupine Tree and King Crimson."
+      }
+    ],
+    "relatedAlbums": [
+      "whats-in-gavin-harrisons-kit",
+      "fear-of-a-blank-planet-drum-setup",
+      "the-incident-drum-setup"
+    ],
+    "relatedLicks": [],
+    "conclusion": {
+      "title": "The Session That Started a New Chapter",
+      "content": "*Your Wilderness* (2016) is a genuine outlier in Gavin Harrison's discography: a full album recorded for a band he'd never played with, tracked entirely without a shared studio session, built on nothing but the same Sonor SQ2 kit, Zildjian K Custom Special Dry cymbals, and decades of accumulated musical judgment that had already defined his Porcupine Tree and King Crimson work. That the results hold up — critically and commercially the strongest response The Pineapple Thief had received to that point — says as much about the reliability of Harrison's gear and technique as it does about Bruce Soord's songwriting.\n\nThe remote recording process itself is worth studying on its own terms: without a producer or bandmate present to react to a take, Harrison's dynamic judgment on his Sonor Perfect Balance pedal and his Gavin Harrison Signature snare had to be exactly right the first time, with no do-overs after the file was sent across for mixing. \"The Final Thing on My Mind\" stands as the clearest evidence of that judgment holding up across nearly ten minutes of shifting arrangement.\n\nFor drummers approaching this gear:\n\n- **Full drummer profile**: [Gavin Harrison at MetalForge](/drummer/gavin-harrison)\n- **Full gear profile**: [What's In Gavin Harrison's Kit](/articles/whats-in-gavin-harrisons-kit)\n- **The album that established this rig**: [Fear of a Blank Planet Drum Setup](/articles/fear-of-a-blank-planet-drum-setup)\n\n*Your Wilderness* proves that Gavin Harrison's setup and judgment travel well beyond Porcupine Tree — the same gear and the same restraint work for any songwriter who knows how to use them."
+    }
   }
 };
 export default articles;

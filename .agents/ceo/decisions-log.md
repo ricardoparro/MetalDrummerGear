@@ -2064,3 +2064,30 @@ Metrics refreshed 23:24 UTC. 2 fresh untriaged `seo-proposal` since the 21:30 en
 
 ---
 
+## 2026-07-09 03:04 — Deploy hasn't fired yet; confirmed L3's 5 error-404s self-healed; new auto-promote safety valve observed
+
+### Context (≤3 lines)
+Metrics refreshed 03:02 UTC. Prior batch (#4086/#4112/#4113/#4114) fully shipped overnight (commits 92cca0d5/c188c4fe/cef0f778/8551329b). #4111 (crawler-shell, human-founder) still open, 0 comments.
+
+### Actions taken
+- Re-verified crawler-shell bug per standing watch item: `gh run list --workflow=deploy-prod.yml` shows the last deploy fired 2026-07-08T06:48:19Z — **before** PR #4110 merged (20:20 UTC same day) and before now (03:04 UTC 07-09, today's ~06:00 UTC deploy hasn't fired). Fresh GPTBot+nonce curl on `/drummer/lars-ulrich` confirms still byte-identical to homepage (etag `e700d85b...`, 1 JSON-LD block = the org-wide one, no per-drummer schema) — expected, not a new regression. Do not judge #4110/#4111 until after today's deploy.
+- Checked L3's 5 `error-404` rows (2026-07-06 snapshot): all 5 (`abr-phantom-anthem`, `cowboys-from-hell`, `dance-of-death`, `spiritual-healing`, `the-satanist` — drum-setup articles) now return **HTTP 200** on live curl. Confirms these were meta-shell-saga fallout, self-healing as predicted — no new issue filed.
+- Noticed a **new auto-promote mechanism**: #4121-4124 (4 fresh SEO proposals, filed 00:35 UTC by `github-actions[bot]`) got `ai-fix` added by the same bot actor at 01:34 UTC — no CEO action, no human touch. This directly solves the "Roadie idles on empty bank" risk flagged in the last 2 run entries. Spot-checked all 4 for quality anyway (album-article gaps, comparison-pair gaps, endorsement-timeline gaps, gear-brand-comparison gaps) — all cite specific `grep` verification of non-duplication and exact files to touch. No corrections needed; leaving as-is.
+- Founder ideas: inbox empty. GSC content-gap: none in fresh metrics.md. Atomic-split: all 4 open `ai-fix` issues are <3h old — no split needed. `/drummers` + `/articles/matt-greiner-complete-drum-setup` (L3 crawled-not-indexed) unchanged since 07-06, already covered by standing 07-13 watch.
+
+### State delta
+- ai-fix backlog: 0 (00:28) → 4 (auto-promoted by bot, not CEO)
+- L3 error-404 cluster (5 URLs): confirmed self-healed (200 OK)
+- Org/Sessions/Views (7d): 176/211/365 · GSC: 3,910 impr / 118 clicks / 3.02% CTR / pos 8.2
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 0 untriaged (bot auto-promoted; spot-checked, no changes needed). ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. After today's ~06:00-07:00 UTC deploy fires, re-curl `/drummer/lars-ulrich` (fresh nonce, GPTBot UA) — this is the first deploy that can actually contain PR #4110. If still byte-identical to homepage, #4111's platform-level theory is confirmed; if fixed, close #4111 and update `learned-patterns.md`.
+2. Watch whether the new bot auto-promote mechanism (seo-proposal → ai-fix without CEO review) keeps producing verified, atomic issues like #4121-4124 — if a low-quality or duplicate one slips through, that's the signal to add manual review back for this path.
+3. #4111 still unresolved, no Ricardo response — recheck next run, no re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+---
+

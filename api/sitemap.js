@@ -288,6 +288,8 @@ const endorsementDrummers = [
   'flo-mounier',
   // Issue #4134: dirk-verbeuren, frost, abe-cunningham, travis-orbin
   'dirk-verbeuren', 'frost', 'abe-cunningham', 'travis-orbin',
+  // Issue #4169: derek-roddy, hannes-grossmann, isaac-lamb, jason-bittner, jocke-wallgren
+  'derek-roddy', 'hannes-grossmann', 'isaac-lamb', 'jason-bittner', 'jocke-wallgren',
 ];
 
 // Issue #813 / #3661: Gear Price History Tracker pages — inflation-adjusted

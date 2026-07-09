@@ -2,7 +2,7 @@
 
 Brand endorsement changes for professional metal drummers. See https://metalforge.io/endorsement-news
 
-> Last updated: 2026-07-09 · 35 drummers tracked · 26 brands
+> Last updated: 2026-07-09 · 40 drummers tracked · 27 brands
 
 ---
 
@@ -12,6 +12,10 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 
 - Lars Ulrich (Metallica) — Drumsticks — since 1996 (signature model) — /drummer/lars-ulrich
 
+### Axis
+
+- Derek Roddy (Nile (ex-Hate Eternal)) — Hardware/Pedals — since 2000 — /drummer/derek-roddy
+
 ### DW
 
 - Jay Weinberg (Suicidal Tendencies) — Hardware/Pedals — since 2014 — /drummer/jay-weinberg
@@ -19,6 +23,12 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Igor Cavalera (Sepultura / Cavalera Conspiracy) — Hardware/Pedals — since 2006 — /drummer/igor-cavalera
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Drums — since 2009 — /drummer/travis-orbin
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Hardware/Pedals — since 2010 — /drummer/travis-orbin
+- Derek Roddy (Nile (ex-Hate Eternal)) — Drums — since 2001 — /drummer/derek-roddy
+- Hannes Grossmann (Alkaloid (ex-Obscura, ex-Necrophagist)) — Drums — since 2014 — /drummer/hannes-grossmann
+- Hannes Grossmann (Alkaloid (ex-Obscura, ex-Necrophagist)) — Hardware/Pedals — since 2014 — /drummer/hannes-grossmann
+- Isaac Lamb (Kublai Khan TX) — Hardware/Pedals — since 2009 — /drummer/isaac-lamb
+- Jason Bittner (Shadows Fall / Overkill) — Hardware/Pedals — since 2002 — /drummer/jason-bittner
+- Jocke Wallgren (Amon Amarth) — Hardware/Pedals — since 2013 — /drummer/jocke-wallgren
 
 ### Evans
 
@@ -40,6 +50,9 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Dirk Verbeuren (Megadeth) — Drumheads — since 2016 — /drummer/dirk-verbeuren
 - Abe Cunningham (Deftones) — Drumheads — since 1997 — /drummer/abe-cunningham
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Drumheads — since 2010 — /drummer/travis-orbin
+- Derek Roddy (Nile (ex-Hate Eternal)) — Drumheads — since 2001 — /drummer/derek-roddy
+- Hannes Grossmann (Alkaloid (ex-Obscura, ex-Necrophagist)) — Drumheads — since 2001 — /drummer/hannes-grossmann
+- Isaac Lamb (Kublai Khan TX) — Drumheads — since 2009 — /drummer/isaac-lamb
 
 ### Gibraltar
 
@@ -66,6 +79,9 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Matt Halpern (Periphery) — Cymbals — since 2010s (signature model) — /drummer/matt-halpern
 - Matt Greiner (August Burns Red) — Cymbals — since 2011 — /drummer/matt-greiner
 - Dirk Verbeuren (Megadeth) — Cymbals — since 2022 — /drummer/dirk-verbeuren
+- Hannes Grossmann (Alkaloid (ex-Obscura, ex-Necrophagist)) — Cymbals — since 2001 — /drummer/hannes-grossmann
+- Isaac Lamb (Kublai Khan TX) — Cymbals — since 2009 — /drummer/isaac-lamb
+- Jocke Wallgren (Amon Amarth) — Cymbals — since 2005 — /drummer/jocke-wallgren
 
 ### Monolit
 
@@ -139,10 +155,13 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Paul Bostaph (Slayer / Testament / Exodus) — Drumheads — since 2015 — /drummer/paul-bostaph
 - Igor Cavalera (Sepultura / Cavalera Conspiracy) — Drumheads — since 2006 — /drummer/igor-cavalera
 - Frost (Satyricon) — Drumheads — since 1996 — /drummer/frost
+- Jason Bittner (Shadows Fall / Overkill) — Drumheads — since 2002 — /drummer/jason-bittner
+- Jocke Wallgren (Amon Amarth) — Drumheads — since 2013 — /drummer/jocke-wallgren
 
 ### SJC Custom Drums
 
 - Jay Weinberg (Suicidal Tendencies) — Drums — since 2014 — /drummer/jay-weinberg
+- Isaac Lamb (Kublai Khan TX) — Drums — since 2009 — /drummer/isaac-lamb
 
 ### Sabian
 
@@ -152,6 +171,8 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Vinnie Paul (Pantera / Damageplan / Hellyeah) — Cymbals — since 1990s — /drummer/vinnie-paul
 - Paul Bostaph (Slayer / Testament / Exodus) — Cymbals — since 2015 — /drummer/paul-bostaph
 - Shannon Larkin (Godsmack) — Cymbals — since 2002 — /drummer/shannon-larkin
+- Derek Roddy (Nile (ex-Hate Eternal)) — Cymbals — since 1994 — /drummer/derek-roddy
+- Jason Bittner (Shadows Fall / Overkill) — Cymbals — since 1997 — /drummer/jason-bittner
 
 ### Sonor
 
@@ -184,6 +205,8 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Dirk Verbeuren (Megadeth) — Hardware/Pedals — since 2016 — /drummer/dirk-verbeuren
 - Abe Cunningham (Deftones) — Drums — since 1997 — /drummer/abe-cunningham
 - Abe Cunningham (Deftones) — Hardware/Pedals — since 1997 — /drummer/abe-cunningham
+- Jason Bittner (Shadows Fall / Overkill) — Drums — since 1997 — /drummer/jason-bittner
+- Jocke Wallgren (Amon Amarth) — Drums — since 2013 — /drummer/jocke-wallgren
 
 ### Trick
 
@@ -197,6 +220,7 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Paul Bostaph (Slayer / Testament / Exodus) — Drumsticks — since 2015 — /drummer/paul-bostaph
 - Gene Hoglan (Death / Testament / Dethklok) — Drumsticks — since 2018 — /drummer/gene-hoglan
 - Dirk Verbeuren (Megadeth) — Drumsticks — since 2002 — /drummer/dirk-verbeuren
+- Derek Roddy (Nile (ex-Hate Eternal)) — Drumsticks — since 2001 — /drummer/derek-roddy
 
 ### Vic Firth
 
@@ -219,6 +243,10 @@ Brand endorsement changes for professional metal drummers. See https://metalforg
 - Igor Cavalera (Sepultura / Cavalera Conspiracy) — Drumsticks — since 1993 — /drummer/igor-cavalera
 - Frost (Satyricon) — Drumsticks — since 1996 — /drummer/frost
 - Travis Orbin (Periphery (ex) / Sky Harbor / Darkest Hour) — Drumsticks — since 2010 — /drummer/travis-orbin
+- Hannes Grossmann (Alkaloid (ex-Obscura, ex-Necrophagist)) — Drumsticks — since 2014 — /drummer/hannes-grossmann
+- Isaac Lamb (Kublai Khan TX) — Drumsticks — since 2009 — /drummer/isaac-lamb
+- Jason Bittner (Shadows Fall / Overkill) — Drumsticks — since 2002 — /drummer/jason-bittner
+- Jocke Wallgren (Amon Amarth) — Drumsticks — since 2013 — /drummer/jocke-wallgren
 
 ### Wincent
 
@@ -567,6 +595,46 @@ After several drummer changes, Trivium finds stability with Alex Bent. He brings
 - **2011** (Electronics): Signed with Roland — Integrated a Roland SPD-SX sampling pad and bass drum trigger system on the "Icarus" EP, building the hybrid acoustic/electronic rig that defined his sound
 - **2016** (Drums): Renewed DW deal — Remained a DW/Zildjian endorsee after departing Periphery in 2012, carrying the same Collector's Series and Roland trigger rig through his Sky Harbor and Darkest Hour session work and viral educational content
 - Profile: https://metalforge.io/drummer/travis-orbin
+
+### Derek Roddy (Nile (ex-Hate Eternal))
+
+- **1994** (Cymbals): Signed with Sabian — Began his career with Sabian cymbals in the underground death metal scene during his formative years with Aurora Borealis
+- **2000** (Hardware/Pedals): Signed with Axis — Adopted Axis A Longboard double pedals during his stint as Nile's live drummer, the direct-drive longboard action his heel-toe technique relies on at extreme tempos
+- **2001** (Drums): Signed with DW — Signed with DW Collector's Series drums at the start of his Hate Eternal tenure, the kit heard on King of All Kings (2002) and I, Monarch (2005)
+- **2001** (Drumsticks): Signed with Vater — Settled on Vater 5B sticks for the balance of control and endurance his freehand/gravity blast beat technique requires
+- Profile: https://metalforge.io/drummer/derek-roddy
+
+### Hannes Grossmann (Alkaloid (ex-Obscura, ex-Necrophagist))
+
+- **2001** (Cymbals): Signed with Meinl — Began his Meinl Byzance relationship recording Necrophagist's genre-defining Epitaph (2004), a partnership that has continued unbroken through Obscura and Alkaloid
+- **2001** (Drums): Signed with Tama — Played a Tama Starclassic Maple kit with Tama Iron Cobra pedals throughout his Necrophagist and Obscura eras (2001-2014), including Cosmogenesis (2009) and Omnivium (2011)
+- **2014** (Drums): Switched from Tama to DW — Transitioned to a DW Collectors Series kit when co-founding Alkaloid, moving on from the Tama Starclassic Maple setup used across Necrophagist and Obscura's Cosmogenesis/Omnivium era
+- **2014** (Hardware/Pedals): Switched from Tama Iron Cobra to DW 9000 Series Double Pedal — Paired the DW kit switch with a DW 9000 double pedal for the adjustable cam action Alkaloid's avant-garde two-footed patterns demand
+- Profile: https://metalforge.io/drummer/hannes-grossmann
+
+### Isaac Lamb (Kublai Khan TX)
+
+- **2009** (Drums): Signed with SJC Custom Drums — Founding drummer of Kublai Khan TX began his boutique SJC Custom Drums endorsement relationship at the band's 2009 formation in Sherman, Texas
+- **2009** (Cymbals): Signed with Meinl — Built his cymbal voice on the Meinl Classics Custom Dark series from the band's earliest recordings, prized for staying out of the way of high-gain guitar frequencies
+- **2009** (Hardware/Pedals): Signed with DW — Adopted the DW 9000 Series double pedal for the chain-drive consistency his groove, blast, and breakdown passages all require
+- **2019** (Drums): Renewed SJC Custom Drums deal — Renewed and expanded his SJC endorsement as Kublai Khan TX's Absolute (2019) marked the band's creative peak, with a complete Meinl Classics Custom Dark setup and Vic Firth 2B sticks locked in
+- Profile: https://metalforge.io/drummer/isaac-lamb
+
+### Jason Bittner (Shadows Fall / Overkill)
+
+- **1997** (Drums): Signed with Tama — Joined Shadows Fall in 1997 and began developing his Tama endorsement, an early Starclassic configuration that formalized into the birch/bubinga Performer B/B by 2002
+- **1997** (Cymbals): Signed with Sabian — Began his Sabian relationship in Shadows Fall's formative NWOAHM years, later formalizing into the full HHX/HH configuration
+- **2002** (Hardware/Pedals): Signed with DW — Locked in the DW 9002 double bass pedal ahead of The Art of Balance (2002), the record now considered NWOAHM's technical benchmark
+- **2012** (Drums): Renewed Tama deal — Carried his Tama Starclassic Performer B/B, Sabian HHX/HH, and DW 9002 setup unchanged into his 2012 appointment as Overkill's full-time drummer, proving the rig's versatility across NWOAHM and straight thrash
+- Profile: https://metalforge.io/drummer/jason-bittner
+
+### Jocke Wallgren (Amon Amarth)
+
+- **2005** (Cymbals): Signed with Meinl — Began his Meinl relationship during his Rage and Evergrey years in European power/prog metal, early Byzance usage that carried into his Amon Amarth setup
+- **2013** (Drums): Signed with Tama — Joined Amon Amarth in 2013 and fully configured his Tama Starclassic Performer B/B kit for Deceiver of the Gods, the album that launched the post-Fredrik Andersson era
+- **2013** (Hardware/Pedals): Signed with DW — Adopted the DW 9002 double bass pedal for the smooth cam action Amon Amarth's galloping double-kick patterns require across full headline sets
+- **2022** (Drums): Renewed Tama deal — Carried his fully evolved Tama/Meinl/DW touring rig into The Great Heathen Army (2022) era, Amon Amarth's most commercially successful album cycle
+- Profile: https://metalforge.io/drummer/jocke-wallgren
 
 ---
 

@@ -61,4 +61,4 @@ A: See the Endorsement History section above for a full timeline of Chris Adler'
 - [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md)
 - [All LLM Resources](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-09 · Source: [MetalForge.io](https://metalforge.io)*

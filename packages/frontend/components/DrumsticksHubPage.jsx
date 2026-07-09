@@ -18,6 +18,7 @@ import {
   generateCanonicalUrl,
 } from '../data/drumstickReferencePages';
 import { DRUMMER_STICKS, getSticksForDrummer } from '../data/drumsticks';
+import { getBrand } from '../data/drumstickBrands';
 
 function injectSchema(id, schema) {
   if (Platform.OS !== 'web' || typeof document === 'undefined' || !schema) return;
@@ -68,6 +69,46 @@ function ReferenceCard({ slug, theme, onNavigate }) {
   return card;
 }
 
+function BrandsHubLink({ theme, onNavigate }) {
+  const card = (
+    <View style={[styles.ctaCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>
+      <Text style={[styles.ctaCardText, { color: theme.text }]}>🥢 See all drumstick brands →</Text>
+    </View>
+  );
+  if (Platform.OS === 'web') {
+    return (
+      <a
+        href="/drumsticks/brands"
+        onClick={(e) => { if (onNavigate) { e.preventDefault(); onNavigate(); } }}
+        style={{ textDecoration: 'none', display: 'block', width: '100%' }}
+      >
+        {card}
+      </a>
+    );
+  }
+  return card;
+}
+
+function BestForMetalLink({ theme, onNavigate }) {
+  const card = (
+    <View style={[styles.ctaCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>
+      <Text style={[styles.ctaCardText, { color: theme.text }]}>🤘 Full best-for-metal buying guide →</Text>
+    </View>
+  );
+  if (Platform.OS === 'web') {
+    return (
+      <a
+        href="/drumsticks/best-for-metal"
+        onClick={(e) => { if (onNavigate) { e.preventDefault(); onNavigate(); } }}
+        style={{ textDecoration: 'none', display: 'block', width: '100%' }}
+      >
+        {card}
+      </a>
+    );
+  }
+  return card;
+}
+
 function DrummerStickCard({ drummer, stick, theme }) {
   const url = `/drummer/${toSlug(drummer.name)}`;
   const anchorText = `${drummer.name}'s ${stick.brand} ${stick.model}`;
@@ -99,7 +140,31 @@ function DrummerStickCard({ drummer, stick, theme }) {
   return card;
 }
 
-export function DrumsticksHubPage({ theme: themeProp, drummers = [], onNavigateReference }) {
+function BrandRow({ brand, theme, onNavigateBrand }) {
+  const matchedBrand = getBrand(toSlug(brand.name));
+  const row = (
+    <View style={styles.brandRow}>
+      <Text style={[styles.brandName, { color: matchedBrand ? (theme.primary || theme.text) : theme.text }]}>{brand.name}</Text>
+      <Text style={[styles.brandNote, { color: theme.secondaryText || theme.text }]}>{brand.note}</Text>
+    </View>
+  );
+  if (!matchedBrand) return row;
+  const url = `/drumsticks/brands/${matchedBrand.slug}`;
+  if (Platform.OS === 'web') {
+    return (
+      <a
+        href={url}
+        onClick={(e) => { if (onNavigateBrand) { e.preventDefault(); onNavigateBrand(matchedBrand.slug); } }}
+        style={{ textDecoration: 'none', display: 'block', width: '100%' }}
+      >
+        {row}
+      </a>
+    );
+  }
+  return row;
+}
+
+export function DrumsticksHubPage({ theme: themeProp, drummers = [], onNavigateReference, onNavigateBrandsHub, onNavigateBrand, onNavigateBestForMetal }) {
   const theme = themeProp || themes.dark;
 
   useEffect(() => {
@@ -151,14 +216,13 @@ export function DrumsticksHubPage({ theme: themeProp, drummers = [], onNavigateR
 
       <Text style={[styles.h2, { color: theme.text }]}>Major drumstick brands</Text>
       {PILLAR_PAGE.brands.map((brand) => (
-        <View key={brand.name} style={styles.brandRow}>
-          <Text style={[styles.brandName, { color: theme.text }]}>{brand.name}</Text>
-          <Text style={[styles.brandNote, { color: theme.secondaryText || theme.text }]}>{brand.note}</Text>
-        </View>
+        <BrandRow key={brand.name} brand={brand} theme={theme} onNavigateBrand={onNavigateBrand} />
       ))}
+      <BrandsHubLink theme={theme} onNavigate={onNavigateBrandsHub} />
 
       <Text style={[styles.h2, { color: theme.text }]}>Best drumsticks for metal</Text>
       <Text style={[styles.body, { color: theme.secondaryText || theme.text }]}>{PILLAR_PAGE.bestForMetal}</Text>
+      <BestForMetalLink theme={theme} onNavigate={onNavigateBestForMetal} />
 
       {drummerPicks.length > 0 && (
         <>
@@ -198,6 +262,8 @@ const styles = StyleSheet.create({
   refCard: { borderWidth: 1, borderRadius: 10, padding: 14, height: '100%' },
   refCardTitle: { fontSize: 16, fontWeight: '700', marginBottom: 6 },
   refCardDesc: { fontSize: 13, lineHeight: 18 },
+  ctaCard: { borderWidth: 1, borderRadius: 10, padding: 14, marginTop: 4, marginBottom: 8 },
+  ctaCardText: { fontSize: 15, fontWeight: '700' },
   brandRow: { marginBottom: 10 },
   brandName: { fontSize: 16, fontWeight: '700' },
   brandNote: { fontSize: 14, lineHeight: 20 },

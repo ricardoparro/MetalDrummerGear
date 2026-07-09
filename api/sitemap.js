@@ -58,6 +58,10 @@ import { SOUND_LIKE_GUIDES } from '../packages/frontend/data/soundLikeGuides.js'
 // source slugs from the verified drummer→stick mapping so the sitemap only ever
 // lists drummers with a confirmed signature stick (no thin pages).
 import { DRUMMER_STICKS } from '../packages/frontend/data/drumsticks.js';
+// Issue #4137 (phase 2/4 of epic #4135): /drumsticks hub + reference pages.
+import { REFERENCE_PAGE_ORDER } from '../packages/frontend/data/drumstickReferencePages.js';
+// Issue #4139 (phase 4/4 of epic #4135): /drumsticks/brands + per-brand pages.
+import { DRUMSTICK_BRANDS } from '../packages/frontend/data/drumstickBrands.js';
 
 // Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
 const drummers = [
@@ -582,9 +586,17 @@ export function buildSitemapXml() {
     ...getGearSeriesUrls().map(loc => ({ loc, priority: '0.8', changefreq: 'monthly' })),
     // Issue #2403: kit-level "drummers-using" pages (12 purchase-intent scaffold slugs).
     ...Object.keys(DRUMMERS_BY_KIT).map(key => ({ loc: `/gear/${key}/drummers-using`, priority: '0.85', changefreq: 'monthly' })),
+    // Issue #4137: /drumsticks pillar page + sizes/materials/tips reference pages.
+    { loc: '/drumsticks', priority: '0.9', changefreq: 'weekly' },
+    ...REFERENCE_PAGE_ORDER.map(slug => ({ loc: `/drumsticks/${slug}`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #4138: /drumsticks/signature/<drummer> pages (only drummers with a
     // confirmed stick mapping in DRUMMER_STICKS).
     ...Object.keys(DRUMMER_STICKS).map(slug => ({ loc: `/drumsticks/signature/${slug}`, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #4139: /drumsticks/brands hub + per-brand pages, and the
+    // /drumsticks/best-for-metal buying guide.
+    { loc: '/drumsticks/brands', priority: '0.85', changefreq: 'monthly' },
+    ...DRUMSTICK_BRANDS.map(brand => ({ loc: `/drumsticks/brands/${brand.slug}`, priority: '0.8', changefreq: 'monthly' })),
+    { loc: '/drumsticks/best-for-metal', priority: '0.9', changefreq: 'monthly' },
     // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).
     { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },

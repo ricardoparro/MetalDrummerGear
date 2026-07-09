@@ -1937,6 +1937,240 @@ export const articles = {
       "title": "Daemon: The Circle Closes, For Now",
       "content": "\"Daemon\" gives Hellhammer's studio discography with Mayhem a kind of narrative closure, at least as of this writing: a record widely heard as a conscious echo of \"De Mysteriis Dom Sathanas,\" arriving twenty-five years after that album first established him as black metal's defining drummer. The blast beat velocity is still there. So is the dynamic subtlety. What has changed is the surrounding infrastructure — four studios across two countries, a new label in Century Media, a new production partnership in Teloch and Tore Stjerna — while Hellhammer's own technique remains the throughline connecting Grieghallen 1993 to a scattered, multi-country production twenty-six years later.\n\nThe gear tells the same story of continuity: Pearl Reference kit, Zildjian A Custom cymbals, Pearl Demon Drive pedals — explicitly confirmed as his current setup through this era, unchanged from the equipment that carried him through \"Chimera,\" \"Ordo Ad Chao,\" and \"Esoteric Warfare\" before it.\n\nFor drummers and fans tracing Hellhammer's full arc across Mayhem's discography, \"Daemon\" is best heard alongside \"De Mysteriis Dom Sathanas\" — not as a repeat, but as evidence of what three decades of refinement on the same technical foundation actually sounds like.\n\nFor deeper exploration:\n- **Full drummer profile**: [Hellhammer at MetalForge](/drummer/hellhammer)\n- **The album this record echoes**: [De Mysteriis Dom Sathanas drum setup](/articles/de-mysteriis-dom-sathanas-drum-setup)\n- **The preceding album**: [Esoteric Warfare drum setup](/articles/esoteric-warfare-drum-setup)\n- **Blast beat technique**: [Blast Beat Technique Guide at MetalForge](/technique/blast-beat)"
     }
+  },
+  "daemonic-rites-drum-setup": {
+    "slug": "daemonic-rites-drum-setup",
+    "albumTitle": "Daemonic Rites",
+    "artist": "Mayhem",
+    "drummer": "Hellhammer",
+    "drummerFullName": "Jan Axel Blomberg",
+    "drummerId": 22,
+    "relatedDrummerSlug": "hellhammer",
+    "year": 2023,
+    "genre": "Black Metal",
+    "label": "Century Media Records",
+    "studio": "Live recordings — Sydney, Melbourne, London, Manchester, Budapest, Gothenburg, and Milan (Daemon World Tour, 2019–2023)",
+    "producer": "Mayhem",
+    "isAlbumArticle": true,
+    "articleType": "album-drum-setup",
+    "datePublished": "2026-07-09",
+    "dateModified": "2026-07-09",
+    "author": "MetalForge Editorial",
+    "title": "Daemonic Rites Drum Setup: Hellhammer's 2023 Live Album Gear",
+    "description": "Hellhammer's Pearl Reference drums, Zildjian A Custom cymbals, and Pearl Demon Drive pedals on Mayhem's Daemonic Rites (2023) — the live album capturing the Daemon World Tour across seven cities and three continents.",
+    "seoKeywords": [
+      "daemonic rites drums",
+      "hellhammer drum kit",
+      "hellhammer daemonic rites",
+      "mayhem live album drums",
+      "hellhammer 2023 drum setup",
+      "mayhem daemon world tour drums",
+      "hellhammer pearl reference live",
+      "black metal live drum setup",
+      "mayhem drummer gear 2023"
+    ],
+    "ogImage": "/images/drummers/hellhammer.webp",
+    "intro": {
+      "title": "The Daemon World Tour, Captured Live",
+      "content": "Released September 15, 2023 through Century Media Records, \"Daemonic Rites\" is Mayhem's first official live album and Hellhammer's most recent major recorded statement as of this writing. Rather than a single-venue concert document, the album assembles seventeen tracks recorded across the band's sprawling Daemon World Tour — a touring cycle that ran from 2019 through 2023 in support of the \"Daemon\" studio album — with performances captured in Sydney and Melbourne (Australia), London and Manchester (UK), Budapest (Hungary), Gothenburg (Sweden), and Milan (Italy). The result is a document of Hellhammer's live drumming across three continents and four years, stitched into a single cohesive listening experience rather than a snapshot of one night.\n\nThe tracklist spans Mayhem's entire studio catalogue rather than favoring any single era: \"Freezing Moon,\" \"Pagan Fears,\" \"Buried by Time and Dust,\" and \"Life Eternal\" represent the \"De Mysteriis Dom Sathanas\" (1994) foundation that made Hellhammer's reputation, while \"Falsified and Hated,\" \"To Daimonion,\" \"Malum,\" \"Bad Blood,\" \"My Death,\" \"Symbols of Bloodswords,\" and \"Voces Ab Alta\" pull from the more recent \"Esoteric Warfare\" (2014) and \"Daemon\" (2019) chapters. Deep catalogue cuts — \"Deathcrush,\" \"Chainsaw Gutsfuck,\" \"Carnage,\" \"Silvester Anfang,\" and \"Pure Fucking Armageddon\" — round the set out with material predating Hellhammer's own 1988 arrival, giving him the chance to put his own stamp on songs originally recorded by Mayhem's earliest lineups.\n\nA live album built from multiple cities and years poses a specific demand on a drummer: every performance has to sound recognizably like the same band, regardless of the room, the PA, or how many nights into a tour leg the show falls on. Hellhammer's gear on the Daemon World Tour was the same rig documented across his studio work in this era — the Pearl Reference kit, Zildjian A Custom cymbal setup, and Pearl Demon Drive double pedal that had carried him through \"Esoteric Warfare\" and \"Daemon\" — chosen specifically for the mechanical consistency and road reliability that a four-year, cross-continental touring cycle demands. \"Daemonic Rites\" is the clearest evidence available of how that gear performs under those conditions: night after night, city after city, with no studio overdubs to smooth over an inconsistent take.\n\nThis article documents the touring setup behind \"Daemonic Rites\" — the kit, cymbals, and hardware that carried Hellhammer's blast beats from Sydney to Milan — and the recording approach that turned four years of live shows into a single unified live album.",
+      "keyPoints": [
+        "Released September 15, 2023 via Century Media Records — Mayhem's first official live album",
+        "17 tracks recorded across the Daemon World Tour (2019–2023): Sydney, Melbourne, London, Manchester, Budapest, Gothenburg, and Milan",
+        "Setlist spans Mayhem's full catalogue — from pre-Hellhammer classics to \"Daemon\" (2019) material",
+        "Pearl Reference kit and Zildjian A Custom cymbals — the same touring rig confirmed on \"Daemon\"",
+        "Hellhammer's most recent major recorded release as of this writing",
+        "A four-year, three-continent test of gear reliability under sustained touring conditions"
+      ]
+    },
+    "drumKit": {
+      "title": "Pearl Reference on the Road: Four Years, Three Continents",
+      "brand": "Pearl",
+      "model": "Pearl Reference Series",
+      "finish": "Black",
+      "config": {
+        "bassdrums": [
+          "22\" x 18\" Bass Drum (x2 — double kick configuration)"
+        ],
+        "toms": [
+          "10\" x 8\" Rack Tom",
+          "12\" x 9\" Rack Tom",
+          "14\" x 11\" Rack Tom"
+        ],
+        "floorToms": [
+          "16\" x 14\" Floor Tom",
+          "18\" x 16\" Floor Tom"
+        ],
+        "shells": "Maple/mahogany hybrid shells — Pearl Reference construction"
+      },
+      "description": "The kit behind \"Daemonic Rites\" is the same Pearl Reference configuration Hellhammer had been touring and recording with since \"Esoteric Warfare\" (2014) — double 22\" x 18\" bass drums, a three-piece rack tom spread (10\", 12\", 14\"), and two floor toms (16\", 18\"), all built from Pearl's maple/mahogany hybrid shells. A live album spanning a four-year touring cycle across seven cities on three continents is a demanding proving ground for any kit: different stages, different climates, different backline crews at every stop, and no opportunity for a studio-style re-take if a shell doesn't speak the way it should on a given night.\n\nWhat \"Daemonic Rites\" documents is how little that variability affected Hellhammer's sound. Across performances captured in Sydney, Melbourne, London, Manchester, Budapest, Gothenburg, and Milan, the kick drums retain the same low-end authority and the toms the same melodic fill character that define his studio recordings — a testament to both the Reference series' manufacturing consistency and Hellhammer's own exacting tuning and technique. On tracks pulled from the deepest part of Mayhem's catalogue, like \"Deathcrush\" and \"Pure Fucking Armageddon,\" the kit's attack and projection give decades-old material the same physical presence as the newer \"Daemon\"-era songs sitting elsewhere on the album.\n\nThe double bass configuration carries the same structural weight live that it does in the studio. Blast beat-driven tracks like \"Buried by Time and Dust\" and \"Freezing Moon\" (performed here as extended live arrangements) depend on the 22\" x 18\" kicks generating enough low-frequency authority to register clearly through a live PA and monitor mix without collapsing into indistinct rumble — a harder problem to solve live than in a controlled studio environment, and one the Pearl Reference's hybrid shell construction handles by design.",
+      "notes": [
+        "Same Pearl Reference configuration documented on \"Esoteric Warfare\" and \"Daemon\"",
+        "Double 22\" bass drums maintain low-end authority across seven different live PA systems",
+        "Five-tom spread gives deep catalogue cuts the same melodic fill character as newer material",
+        "Manufacturing consistency withstood a four-year, three-continent touring cycle without a documented kit change",
+        "Hybrid maple/mahogany shells project cleanly through varied live-sound environments"
+      ],
+      "estimatedValue": "$3,500–6,000 (Pearl Reference shell pack, touring configuration)"
+    },
+    "snare": {
+      "title": "The Live Crack: Pearl Reference Snare on Tour",
+      "brand": "Pearl",
+      "model": "Pearl Reference Snare",
+      "size": "14\" x 6.5\"",
+      "shell": "Maple/mahogany hybrid (Pearl Reference construction)",
+      "description": "Hellhammer's 14\" x 6.5\" Pearl Reference snare — the same model documented on his studio work since the mid-2010s — anchors the rhythmic center of \"Daemonic Rites\" across every city on the setlist. On a live album drawing from seven different venues and PA systems, the snare has to cut through the mix with the same crack and body regardless of the room's acoustics or how the front-of-house engineer at any given stop handles the drum bus — a live-sound variable that studio recording doesn't have to contend with.\n\nTuned in the same medium-bright range Hellhammer favors in the studio, the snare gives tracks spanning three decades of Mayhem's catalogue — from 1987's \"Deathcrush\" to 2019's \"Daemon\" material — a consistent rhythmic anchor. That consistency is part of what makes \"Daemonic Rites\" work as a single unified album rather than a scattered collection of bootleg-quality tour recordings: the drum sound itself provides continuity across wildly different songs, eras, and rooms.",
+      "tuningSetting": "Medium-bright — consistent projection across varied live sound systems",
+      "heads": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)",
+      "estimatedValue": "$400–700 (Pearl Reference Snare, 14\" x 6.5\")"
+    },
+    "cymbals": {
+      "title": "Zildjian A Custom: The Touring Setup",
+      "brand": "Zildjian",
+      "series": "Zildjian A Custom / Z Custom Series",
+      "setup": [
+        {
+          "type": "Hi-Hats",
+          "model": "Zildjian A Custom 14\" Hi-Hats",
+          "position": "Left side",
+          "notes": "Fast, cutting response for blast beat hi-hat patterns across every stop of the tour"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 17\" Crash",
+          "position": "Left crash",
+          "notes": "Bright, fast-decaying crash for accents across the setlist's older and newer material alike"
+        },
+        {
+          "type": "Crash",
+          "model": "Zildjian A Custom 19\" Crash",
+          "position": "Right crash",
+          "notes": "Fuller crash for section boundaries in extended live arrangements"
+        },
+        {
+          "type": "Ride",
+          "model": "Zildjian Z Custom 20\" Dark Ride",
+          "position": "Right",
+          "notes": "Aggressive, focused ride that holds up night after night across a four-year touring cycle"
+        },
+        {
+          "type": "China",
+          "model": "Zildjian A 18\" China Boy",
+          "position": "Over rack toms",
+          "notes": "Trashy accent tool deployed across the setlist's most aggressive deep-catalogue cuts"
+        }
+      ],
+      "description": "The Zildjian A Custom and Z Custom setup documented on \"Daemonic Rites\" is the same touring cymbal rig confirmed on \"Daemon\" — 14\" A Custom Hi-Hats, 17\" and 19\" A Custom Crashes, a Z Custom 20\" Dark Ride, and an 18\" A Custom China. Across a touring cycle that ran from 2019 to 2023, the cymbals had to withstand nightly punishment across seven cities without losing the bright, cutting character that defines Hellhammer's sound — a durability test that a single studio session never applies.\n\nThe Z Custom Dark Ride carries a particular weight on this live document. Where a studio ride only needs to sound right for one or two takes, a touring ride cymbal has to maintain its bell definition and bow clarity across hundreds of performances — and \"Daemonic Rites\" captures it doing exactly that across shows recorded years apart, on different continents, without any audible degradation in character. The A Custom China, deployed on the album's oldest material like \"Chainsaw Gutsfuck\" and \"Carnage,\" gives those early Mayhem tracks the same aggressive punctuation Hellhammer brings to newer songs, unifying three-and-a-half decades of material into a single sonic identity.",
+      "estimatedValue": "$1,500–2,500 (full Zildjian A Custom / Z Custom touring setup)"
+    },
+    "hardware": {
+      "title": "Pearl Demon Drive: Built for the Long Tour",
+      "items": [
+        {
+          "type": "Bass Drum Pedals",
+          "brand": "Pearl",
+          "model": "Pearl Demon Drive Double Bass Pedal",
+          "notes": "Direct-drive mechanism providing consistent blast beat response across a four-year touring cycle",
+          "description": "The Pearl Demon Drive's direct-drive mechanism — the same pedal system documented on Hellhammer's studio work since \"Esoteric Warfare\" — is put through its most demanding real-world test on the Daemon World Tour. A double pedal that drifts in feel or response over hundreds of shows would be audible on a live album stitched together from performances recorded years and continents apart; \"Daemonic Rites\" shows no such drift. The direct-drive linkage's elimination of chain-drive stretch and mechanical delay is precisely what allows Hellhammer's blast beat sequences to sound structurally identical whether the recording comes from a 2019 Sydney show or a 2023 Milan date."
+        },
+        {
+          "type": "Hi-Hat Stand",
+          "brand": "Pearl",
+          "model": "Pearl H-2050 Eliminator Hi-Hat Stand",
+          "notes": "Mechanical consistency for barefoot hi-hat technique across every tour stop",
+          "description": "Hellhammer's barefoot playing technique — his signature physical approach since the earliest days of his career — depends on a hi-hat stand with predictable spring tension and footboard return night after night. The Pearl Eliminator's mechanical stability held up across the Daemon World Tour's full run, giving him the same tactile feedback in Budapest as in Sydney four years earlier."
+        },
+        {
+          "type": "Sticks",
+          "brand": "Vic Firth",
+          "model": "Vic Firth American Classic 5B",
+          "notes": "Power and projection across every venue on the Daemon World Tour"
+        },
+        {
+          "type": "Drumheads (Toms, Batter)",
+          "brand": "Remo",
+          "model": "Remo Emperor Coated",
+          "notes": "Two-ply durability for sustained touring use across four years of shows"
+        },
+        {
+          "type": "Drumheads (Bass, Batter)",
+          "brand": "Remo",
+          "model": "Remo Powerstroke 3",
+          "notes": "Focused attack and controlled low-end for double-kick definition through varied live PA systems"
+        }
+      ],
+      "heads": {
+        "bassKick": "Remo Powerstroke 3 (batter), Remo Powerstroke 3 ported (resonant)",
+        "toms": "Remo Emperor Coated (batter), Remo Ambassador Clear (resonant)",
+        "snare": "Remo Coated Ambassador (batter), Remo Ambassador Snare Side (resonant)"
+      }
+    },
+    "recordingContext": {
+      "title": "Four Years, Seven Cities: Assembling a Live Album from a World Tour",
+      "content": "\"Daemonic Rites\" is not a single-night concert recording — it is assembled from performances captured across the entire Daemon World Tour, the touring cycle that carried Mayhem around the world in support of 2019's \"Daemon\" studio album, interrupted and extended by the pandemic-era touring disruptions of 2020–2021. The seven recording locations — Sydney and Melbourne in Australia, London and Manchester in the UK, Budapest in Hungary, Gothenburg in Sweden, and Milan in Italy — span four continents' worth of touring circuits and roughly four calendar years, from 2019 through 2023.\n\nAssembling a coherent live album from that many disparate sources is as much a production challenge as a performance one. Century Media's release needed the seventeen tracks to sit together as a single listening experience despite being recorded on different stages, with different house PA systems, in different years. That the album succeeds at this is a testament to Mayhem's insistence on a consistent backline setup — Hellhammer's Pearl Reference kit and Zildjian A Custom cymbals — across the entire touring cycle, giving every performance a shared sonic identity that made the different recording dates and locations blend into a single coherent statement rather than a scattered collection of circulating tour recordings.\n\nThe tracklist itself reads as a career retrospective: \"Intro,\" \"Falsified and Hated,\" \"To Daimonion,\" \"Malum,\" \"Bad Blood,\" \"My Death,\" \"Symbols of Bloodswords,\" \"Voces Ab Alta,\" \"Freezing Moon,\" \"Pagan Fears,\" \"Life Eternal,\" \"Buried by Time and Dust,\" \"Silvester Anfang,\" \"Deathcrush,\" \"Chainsaw Gutsfuck,\" \"Carnage,\" and \"Pure Fucking Armageddon\" — pulling from every era of the band's history, including songs that predate Hellhammer's own 1988 arrival. For a drummer whose career is inseparable from \"De Mysteriis Dom Sathanas,\" the chance to record definitive live versions of pre-Hellhammer material alongside his own most celebrated performances makes \"Daemonic Rites\" a uniquely complete document of his relationship to the band's full history.",
+      "trackNotes": [
+        {
+          "track": "Freezing Moon",
+          "notes": "The most widely cited \"De Mysteriis Dom Sathanas\" track, captured here in extended live arrangement"
+        },
+        {
+          "track": "Buried by Time and Dust",
+          "notes": "One of Hellhammer's fastest sustained blast beat showcases, proven consistent across multiple tour stops"
+        },
+        {
+          "track": "Deathcrush",
+          "notes": "Pre-Hellhammer era material (1987) — his live arrangement puts a modern technical stamp on Mayhem's earliest recorded song"
+        },
+        {
+          "track": "Voces Ab Alta",
+          "notes": "Pulled from \"Daemon\" (2019) — the most recent studio material represented on the live album"
+        },
+        {
+          "track": "Pure Fucking Armageddon",
+          "notes": "Closing track — an aggressive deep-catalogue cut that caps the album's career-spanning setlist"
+        }
+      ]
+    },
+    "faq": [
+      {
+        "question": "What drum kit did Hellhammer use on Daemonic Rites?",
+        "answer": "Hellhammer played his Pearl Reference kit on the Daemon World Tour performances that make up \"Daemonic Rites\" (2023) — the same configuration documented on \"Esoteric Warfare\" and \"Daemon\": double 22\" x 18\" bass drums, a three-piece rack tom spread (10\", 12\", 14\"), and two floor toms (16\", 18\"), built from Pearl's maple/mahogany hybrid shells. His primary touring snare was the Pearl Reference 14\" x 6.5\". See the [full Hellhammer gear profile](/articles/hellhammer-drum-setup) for his complete career-spanning equipment breakdown."
+      },
+      {
+        "question": "What cymbals did Hellhammer use on the Daemon World Tour?",
+        "answer": "Hellhammer used his established Zildjian A Custom setup throughout the Daemon World Tour and on \"Daemonic Rites\": 14\" A Custom Hi-Hats, a 17\" A Custom Crash, a 19\" A Custom Crash, a Zildjian Z Custom 20\" Dark Ride, and an 18\" A Custom China. This is the same cymbal configuration confirmed on his \"Daemon\" studio recording, chosen for its durability across a four-year, multi-continent touring schedule."
+      },
+      {
+        "question": "Where and when was Daemonic Rites recorded?",
+        "answer": "Daemonic Rites was recorded across the Daemon World Tour between 2019 and 2023, with performances captured in Sydney and Melbourne (Australia), London and Manchester (UK), Budapest (Hungary), Gothenburg (Sweden), and Milan (Italy). It was released September 15, 2023 through Century Media Records as Mayhem's first official live album."
+      },
+      {
+        "question": "What songs are on Daemonic Rites?",
+        "answer": "Daemonic Rites contains 17 tracks spanning Mayhem's full studio catalogue: an intro, \"Falsified and Hated,\" \"To Daimonion,\" \"Malum,\" \"Bad Blood,\" \"My Death,\" \"Symbols of Bloodswords,\" \"Voces Ab Alta,\" \"Freezing Moon,\" \"Pagan Fears,\" \"Life Eternal,\" \"Buried by Time and Dust,\" \"Silvester Anfang,\" \"Deathcrush,\" \"Chainsaw Gutsfuck,\" \"Carnage,\" and \"Pure Fucking Armageddon\" — ranging from pre-Hellhammer 1987 material to songs from 2019's \"Daemon.\""
+      },
+      {
+        "question": "Is Daemonic Rites Hellhammer's most recent release with Mayhem?",
+        "answer": "As of this writing, \"Daemonic Rites\" (2023) is Hellhammer's most recent major recorded release with Mayhem — a live album documenting the band's Daemon World Tour rather than new studio material. It captures his touring rig (Pearl Reference kit, Zildjian A Custom cymbals, Pearl Demon Drive pedal) across seven cities and four years, offering the most extensive live document of his playing available on a single release."
+      }
+    ],
+    "videos": [],
+    "relatedAlbums": [
+      "daemon-drum-setup",
+      "hellhammer-drum-setup",
+      "de-mysteriis-dom-sathanas-drum-setup"
+    ],
+    "relatedDrummers": [
+      22,
+      46,
+      19
+    ],
+    "relatedArticles": [
+      "black-metal-drummers",
+      "best-metal-blast-beat-drummers"
+    ],
+    "conclusion": {
+      "title": "Daemonic Rites: Three Decades, One Live Document",
+      "content": "\"Daemonic Rites\" gives Hellhammer's discography something none of his studio albums could: a single release that puts pre-Hellhammer 1987 material next to 2019's \"Daemon\" songs, all filtered through the same touring rig and the same technique, recorded across seven cities and four years without ever losing its sense of unified identity. That unity is the album's real achievement — not any single performance, but the fact that four years of shows on three continents sound like one band, one drummer, one coherent musical statement.\n\nThe gear that made it possible is unchanged from his documented studio setup in this era:\n\n- **Pearl Reference**: The same maple/mahogany hybrid kit that carried \"Esoteric Warfare\" and \"Daemon,\" proven durable across a four-year world tour\n- **Zildjian A Custom / Z Custom**: Cymbals built for brightness and speed, holding their character across hundreds of live performances\n- **Pearl Demon Drive**: Direct-drive engineering delivering the same blast beat precision in Sydney as in Milan, four years apart\n- **Pearl Reference Snare**: The rhythmic anchor tying three-and-a-half decades of Mayhem material into a single coherent live sound\n\nFor drummers and fans tracing Hellhammer's full arc, \"Daemonic Rites\" is best heard as a companion to \"De Mysteriis Dom Sathanas\" and \"Daemon\" — proof that the same technical foundation that defined black metal drumming in 1994 still holds up, night after night, three decades on.\n\nFor deeper exploration:\n- **Full drummer profile**: [Hellhammer at MetalForge](/drummer/hellhammer)\n- **The most recent studio album**: [Daemon drum setup](/articles/daemon-drum-setup)\n- **The album that started it all**: [De Mysteriis Dom Sathanas drum setup](/articles/de-mysteriis-dom-sathanas-drum-setup)\n- **Blast beat technique**: [Blast Beat Technique Guide at MetalForge](/technique/blast-beat)"
+    }
   }
 };
 export default articles;

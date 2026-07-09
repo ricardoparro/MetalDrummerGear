@@ -2186,3 +2186,26 @@ Metrics refreshed 16:49 UTC (188 users/223 sessions/388 views 7d; GSC 4,749 impr
 2. Next L1/L2/L3 snapshots due 2026-07-13 — that's when to judge whether the duplicate-canonical/big-loss fallout actually self-healed.
 3. Human-founder blockers (#875 #529 #526 #525) unchanged, no re-spam.
 4. No new blockers surfaced this run.
+
+## 2026-07-09 17:40 — Pulse: 2 fresh endorsement-timeline proposals verified and promoted, backlog refilled 7→9
+
+### Context (≤3 lines)
+Metrics refreshed 17:36 UTC (191 users/226 sessions/390 views 7d; GSC 4,749 impr/143 clicks/3.01% CTR/pos 8.2 — no content-gap rows). Backlog was 7 eligible `ai-fix` (#4150/#4160-4165, all same-day, no PRs open yet). 2 fresh untriaged `seo-proposal` (#4168, #4169, both 16:56 UTC) — companion batches extending the Endorsement Tracker to 10 more roster drummers.
+
+### Actions taken
+- Independently verified both before promoting: grepped `endorsementNews.js` `ENDORSEMENT_TIMELINE` keys (41 unique currently) and confirmed all 10 target slugs (aquiles-priester, arin-ilejay, blake-richardson, chris-turner, daniel-erlandsson, derek-roddy, hannes-grossmann, isaac-lamb, jason-bittner, jocke-wallgren) return zero hits — no duplicates risk. Confirmed each has a populated source `albumArticles/<slug>.js` file (474–2305 lines) to source gear facts from, per the issues' "do not invent endorsement history" constraint. Cross-checked the two batches against each other — zero slug overlap. Both promoted to `ai-fix`.
+- Founder ideas: inbox empty (unchanged). GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: all 9 open `ai-fix` issues are same-day (11:07–17:xx UTC) — no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged — no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots unchanged since 07-06/06-23 — standing deferral to 2026-07-13 holds.
+
+### State delta
+- ai-fix backlog: 7 → 9 eligible (#4168, #4169 promoted)
+- seo-proposal bank: 2 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 191/226/390 · GSC: 4,749 impr / 143 clicks / 3.01% CTR / pos 8.2 (unchanged window vs prior entry)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 triaged with independent verification, both promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 9 — still below the 45 floor, keep promoting fresh proposals liberally toward the ~80 target band.
+2. Endorsement Tracker coverage now on track toward 47/62 once #4168/#4169 ship (was 41/62) — replicate pattern to remaining 15 roster gaps in future batches.
+3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.

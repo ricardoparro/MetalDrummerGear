@@ -84,7 +84,7 @@ A: Daray's blast beats and double-kick endurance are advanced techniques, but hi
 
 **Full interactive guide:** [https://metalforge.io/guides/how-to-sound-like-daray](https://metalforge.io/guides/how-to-sound-like-daray)  
 **Drummer profile:** [https://metalforge.io/drummer/daray](https://metalforge.io/drummer/daray)  
-**Related album articles:** [Daray Drum Setup — Dimmu Borgir Drummer Complete Kit Guide](https://metalforge.io/articles/daray-drum-setup) · [Death Cult Armageddon — Dimmu Borgir Drum Setup](https://metalforge.io/articles/death-cult-armageddon-drum-setup)  
+**Related album articles:** [Daray Drum Setup — Dimmu Borgir Drummer Complete Kit Guide](https://metalforge.io/articles/daray-drum-setup) · [Abrahadabra — Dimmu Borgir Drum Setup](https://metalforge.io/articles/abrahadabra-drum-setup) · [Eonian — Dimmu Borgir Drum Setup](https://metalforge.io/articles/eonian-drum-setup)  
 **Related guides:** [Hellhammer](https://metalforge.io/llms/guides/how-to-sound-like-hellhammer.md) · [Frost](https://metalforge.io/llms/guides/how-to-sound-like-frost.md) · [Inferno](https://metalforge.io/llms/guides/how-to-sound-like-inferno.md)
 
 *Source: [MetalForge.io](https://metalforge.io) · Last updated: 2026-07-02*

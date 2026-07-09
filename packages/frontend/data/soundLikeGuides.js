@@ -15059,7 +15059,8 @@ This guide breaks down Daray's technique, gear, and practice approach — essent
     licksUrl: '/drummers/daray/licks',
     relatedArticles: [
       { slug: 'daray-drum-setup', label: 'Daray Drum Setup — Dimmu Borgir Drummer Complete Kit Guide' },
-      { slug: 'death-cult-armageddon-drum-setup', label: 'Death Cult Armageddon — Dimmu Borgir Drum Setup (Daray, 2003)' }
+      { slug: 'abrahadabra-drum-setup', label: 'Abrahadabra — Dimmu Borgir Drum Setup (Daray, 2010)' },
+      { slug: 'eonian-drum-setup', label: 'Eonian — Dimmu Borgir Drum Setup (Daray, 2018)' }
     ]
   },
   'how-to-sound-like-jason-bittner': {

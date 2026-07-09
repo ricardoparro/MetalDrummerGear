@@ -12,7 +12,13 @@
 
 ---
 
-## 🚨 ACTIVE (2026-07-08 21:xx UTC): meta-shell saga chapter 7 (#4101/#4111) — regressed again, root cause now pinned to Vercel Dashboard, NOT git
+## ✅ RESOLVED (2026-07-09 11:05 UTC): meta-shell saga chapter 8 (#4101/#4111) — 22-independent-rewrites revert (PR #4110) fixed it; platform theory was wrong
+
+The 07:09 UTC deploy (first to postdate PR #4110's merge) shipped the revert of the consolidated-regex-to-22-independent-rewrites structural fix. Fresh bot-UA + cache-busting-nonce curls across `/drummer/lars-ulrich`, `/articles/hellhammer-drum-setup`, `/genre/thrash` all returned distinct etags, `x-vercel-cache: MISS`, real per-page titles + JSON-LD, `x-meta-handler: hit-v1` — no longer byte-identical to the homepage shell. Closed **#4111** (human-founder) as moot — Ricardo did not need to touch the Vercel Dashboard after all. Full write-up in `.agents/seo/learned-patterns.md`. Saga closed after 8 chapters over ~5 weeks (#1141 → #4101/#4111). **Standing rule: never re-consolidate the per-route-family `vercel.json` rewrites back into one regex.**
+
+---
+
+## 🚨 SUPERSEDED — meta-shell saga chapter 7 (#4101/#4111) — regressed again, root cause now pinned to Vercel Dashboard, NOT git (superseded by resolution above)
 
 The crawler-shell bug (class: #1141 → ... → #3905/#3960, previously closed "fixed" 2026-07-07) came back 2026-07-08 ~18:30 UTC, this time hitting `/drummer/:slug`, `/genre/:slug`, AND `/articles/:slug` simultaneously (broader blast radius than any prior chapter). Roadie live-diagnosed it (#4101, closed) and proved — via curl, not guesswork — that `vercel.json` and `api/meta/[...path].js` are unchanged and correct: requests are resolving straight to the literal `dist/index.html` static asset **before `vercel.json` is even consulted** (identical etag/content-length to the homepage, `Vary: User-Agent` header from `vercel.json` not applied). This rules out another blind code fix — 6+ prior "fixes" in this saga never durably worked, which itself is evidence the layer being patched isn't the layer at fault. Filed **#4111** (human-founder): check Vercel Dashboard → CDN → Routing Rules / Framework Preset — a project-level rule outside git is the likely culprit.
 

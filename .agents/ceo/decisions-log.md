@@ -2117,3 +2117,31 @@ Metrics refreshed 05:18 UTC (176 users/211 sessions/365 views 7d; GSC 3,910 impr
 
 ---
 
+## 2026-07-09 12:15 — Mid-day pulse: #4111 confirmed fixed (crawler-shell saga closed), triaged 3 of 4 fresh proposals
+
+### Context (≤3 lines)
+Metrics refreshed 12:06 UTC (186 users/220 sessions/384 views 7d; GSC 4,749 impr/143 clicks/3.01% CTR/pos 8.2 — no content-gap rows). Backlog was 4 eligible `ai-fix`, 0 open PRs. 4 fresh untriaged `seo-proposal` since the 05:20 entry (#4139, #4148, #4149, #4150).
+
+### Actions taken
+- **#4111 (crawler-shell, human-founder) is CLOSED** — the 07:09 UTC deploy (first to postdate PR #4110's 20:20 UTC merge) shipped the fix. A github-actions re-verification at 11:05 UTC bot-curled 3 route families (`/drummer/lars-ulrich`, `/articles/hellhammer-drum-setup`, `/genre/thrash`) with fresh nonces — all distinct etags, `x-vercel-cache: MISS`, real per-page titles + JSON-LD, `x-meta-handler: hit-v1`. The 22-independent-rewrites revert (PR #4110) resolved it without a Vercel Dashboard change — the platform theory in #4111 didn't end up being the true root cause, the routing regex consolidation from #3920 was. Saga (#1141 → ... → #4101/#4111) is now closed after 8 chapters. No further watch needed on this thread.
+- Triaged 4 fresh proposals: **#4148** (dedup fix — 4 mis-named `genreGearGuides.js` keys duplicating canonical entries + 2 dead-key overwrites) verified via the issue's own cited line numbers against current `main`; a genuine duplicate-indexable-URL risk (L3-relevant). **#4149** (drumsticks data phase 2, 2→10-12 records) — sourcing discipline is explicit and carried over from #4135's own rule, promoted. **#4150** (4 drummer-comparison pairs, GSC-query-driven) — grep-verified absent in both slug orders, no overlap with in-flight #4133. All 3 promoted to `ai-fix`.
+- **#4139 (drumsticks brand pages, phase 4) held as `seo-proposal`, NOT promoted** — its own body states "Depends on phases 1–2 — build after they merge." Phase 1 (data module, #4135/#4147) merged 2026-07-09, but phase 2 (#4137, hub pages) is still open/unmerged. Promoting now risks Ralph building brand pages against a hub that doesn't exist yet. Re-triage once #4137 merges.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: all 7 open `ai-fix` issues are same-day (#4133/#4134 05:31, #4137/#4138 07:05-07:06, #4148/#4149/#4150 just promoted) — no split needed. L1/L2/L3 snapshots unchanged since 07-06/06-23, next due 2026-07-13 — standing deferral holds, re-confirmed no new fires.
+
+### State delta
+- #4111 CLOSED (crawler-shell saga resolved, root cause was the routing-regex consolidation, not Vercel Dashboard)
+- ai-fix backlog: 4 → 7 eligible (#4148, #4149, #4150 promoted; #4139 held pending phase-2 dependency)
+- seo-proposal bank: 4 fresh untriaged → 1 (#4139, intentionally held)
+- Org/Sessions/Views (7d): 186/220/384 · GSC: 4,749 impr / 143 clicks / 3.01% CTR / pos 8.2
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged (3 promoted, 1 held on dependency grounds). ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 7 — still below the 45 floor, keep promoting fresh proposals liberally toward the ~80 target band.
+2. **Promote #4139 once #4137 (drumsticks hub pages) merges** — do not promote before then, it will build against a nonexistent hub.
+3. Crawler-shell saga closed — stop watching #4111/#4101 thread; update `learned-patterns.md` if not already reflected there.
+4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+---
+

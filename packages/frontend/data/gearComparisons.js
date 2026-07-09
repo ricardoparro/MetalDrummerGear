@@ -915,6 +915,154 @@ Both companies have earned their place on the world's biggest stages. You can't 
     },
     verdict: 'Sabian HHX/AAX is the versatile, value-driven choice for groove and djent drummers who need a full range of tones across one series. Meinl Byzance is worth the premium for progressive metal players who prioritize dark, studio-ready complexity over raw cut.',
   },
+
+  // SEO batch: Issue #4127 - Ludwig brand comparisons (closes zero-coverage gap; every
+  // other drums.js brand has 2+ pairs). No roster drummer is currently documented playing
+  // Ludwig (verified via grep across the drummer roster), so Ludwig's usedBy is left empty
+  // rather than fabricated - see the `comparison.forMetal` note on each entry below.
+  'ludwig-vs-tama': {
+    slug: 'ludwig-vs-tama',
+    title: 'Ludwig vs Tama Drums',
+    metaTitle: 'Ludwig vs Tama Drums Comparison - Vintage Tone vs Modern Metal Attack | MetalForge',
+    metaDescription: 'Compare Ludwig Classic Maple and Tama Starclassic drums for metal. Vintage American craftsmanship vs modern metal-tuned attack, pricing, specs, and pro endorsements.',
+    category: 'drums',
+    items: [
+      {
+        brand: 'Ludwig',
+        model: 'Classic Maple',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
+        priceRange: '€2,600 - €3,600',
+        pros: [
+          'Classic 3-ply maple shells with reinforcement rings deliver a warm, vintage tone',
+          'Rail Consolette mounting is simple, rugged, and easy to service on the road',
+          'Historic pedigree - the oldest American drum company, present at the birth of rock and early metal',
+          'Lower cost of entry than most other premium-tier legacy kit brands',
+          'Wide range of vintage-inspired wraps and finishes for a distinctive look',
+        ],
+        cons: [
+          'Fewer modern shell-hybrid options than Tama\'s Starclassic lineup',
+          'Traditional lug and hoop hardware is heavier than isolation-mounted competitors',
+          'Far fewer current touring metal drummers on the roster than Tama, so less metal-specific artist support',
+        ],
+        specs: {
+          shells: '3-Ply Maple (Classic Maple)',
+          plies: '3-ply w/ Reinforcement Rings',
+          hoops: 'Triple-Flanged Steel',
+          mounting: 'Rail Consolette',
+        },
+        usedBy: [],
+        bestFor: 'Classic rock-rooted heavy metal, vintage-tone studio work',
+        rating: 4.3,
+      },
+      {
+        brand: 'Tama',
+        model: 'Starclassic Maple',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
+        priceRange: '€3,200 - €4,300',
+        pros: [
+          'Warm, resonant maple shells with excellent sustain and cut for downtuned riffing',
+          'Star-Cast mounting system isolates shells for maximum resonance',
+          'Proven durability across four decades of touring metal drummers',
+          'Wide range of finishes and shell configurations built with metal players in mind',
+          'Deep roster of thrash, groove, and progressive metal endorsees',
+        ],
+        cons: [
+          'Higher price point than Ludwig\'s comparable maple tier',
+          'Standard hardware is heavier than boutique competitors',
+          'Less vintage character than Ludwig\'s classic 3-ply shell voicing',
+        ],
+        specs: {
+          shells: 'North American Maple',
+          plies: '6-ply (7.5mm)',
+          hoops: 'Die-Cast',
+          mounting: 'Star-Cast',
+        },
+        usedBy: ['Lars Ulrich', 'Charlie Benante', 'Mario Duplantier', 'Gene Hoglan'],
+        bestFor: 'Thrash metal, groove metal, progressive metal',
+        rating: 4.8,
+      },
+    ],
+    comparison: {
+      sound: 'Ludwig Classic Maple\'s 3-ply shells produce a warmer, more open vintage voice built for classic rock-rooted heavy metal, while Tama Starclassic Maple is tuned for a punchier, more direct attack that cuts through dense, drop-tuned guitar walls.',
+      durability: 'Both brands build road-tested hardware, but Tama\'s Star-Cast mounting and die-cast hoops are purpose-engineered for the abuse of modern touring metal, while Ludwig\'s simpler Rail Consolette system trades isolation tech for mechanical simplicity and easy field repairs.',
+      value: 'Ludwig Classic Maple undercuts Tama Starclassic by several hundred euros for comparable shell craftsmanship, making it the more affordable route into a historic, boutique-grade drum brand.',
+      forMetal: 'Tama is the battle-tested, proven choice across thrash, groove, and progressive metal, backed by decades of genre-defining endorsements. Ludwig has no MetalForge roster drummer currently confirmed on a full kit - its metal-adjacent reputation rests on historical figures like Black Sabbath\'s Bill Ward rather than active touring endorsers, so it\'s best framed as a vintage-tone specialist pick rather than an extreme-metal workhorse.',
+    },
+    verdict: 'For metal drummers who want a battle-tested rig with deep genre pedigree, Tama Starclassic Maple remains the safer, more metal-proven choice. Ludwig Classic Maple is worth considering for drummers chasing classic-rock-rooted warmth and historic American craftsmanship at a lower price, even without a current roster endorsement to point to.',
+    relatedComparisons: ['tama-vs-pearl', 'dw-vs-tama', 'sonor-vs-dw'],
+  },
+
+  'ludwig-vs-dw': {
+    slug: 'ludwig-vs-dw',
+    title: 'Ludwig vs DW Drums',
+    metaTitle: 'Ludwig vs DW Drums Comparison - Vintage Legacy vs Modern Premium | MetalForge',
+    metaDescription: 'Compare Ludwig Classic Maple and DW Collector\'s Series drums for metal. Vintage American heritage vs modern premium engineering, pricing, specs, and pro endorsements.',
+    category: 'drums',
+    items: [
+      {
+        brand: 'Ludwig',
+        model: 'Classic Maple',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
+        priceRange: '€2,600 - €3,600',
+        pros: [
+          'Classic 3-ply maple shells with reinforcement rings deliver a warm, vintage tone',
+          'Rail Consolette mounting is simple, rugged, and easy to service on the road',
+          'The oldest American drum company, with a legacy stretching back to the birth of rock and early metal',
+          'Significantly lower cost of entry than DW\'s Collector\'s Series',
+          'Vintage-inspired wraps and finishes give it a distinct look next to modern premium kits',
+        ],
+        cons: [
+          'No Timbre-Matched or HVX-style shell-blending technology',
+          'Traditional hardware is heavier than DW\'s STM suspension mounts',
+          'No current MetalForge roster drummer documented playing Ludwig on tour',
+        ],
+        specs: {
+          shells: '3-Ply Maple (Classic Maple)',
+          plies: '3-ply w/ Reinforcement Rings',
+          hoops: 'Triple-Flanged Steel',
+          mounting: 'Rail Consolette',
+        },
+        usedBy: [],
+        bestFor: 'Classic rock-rooted heavy metal, vintage-tone studio work',
+        rating: 4.3,
+      },
+      {
+        brand: 'DW',
+        model: 'Collector\'s Series Maple',
+        image: 'https://upload.wikimedia.org/wikipedia/commons/6/6c/Acoustic_Drums_Kit_%2829965183378%29.jpg',
+        priceRange: '€4,500 - €6,500',
+        pros: [
+          'Timbre-Matched shell selection for consistent tone across the kit',
+          'HVX shell technology allows adjustable attack and resonance',
+          'True-Pitch tuning rods hold tuning through marathon sets without slipping',
+          'STM suspension mounts free up shell resonance for a bigger low end',
+          'Trusted by progressive and modern metal drummers who need studio-grade consistency',
+        ],
+        cons: [
+          'Premium price point, nearly double Ludwig\'s comparable maple tier',
+          'Long lead times on fully custom Collector\'s Series orders',
+          'Maple shells can lack the aggressive bite some extreme metal styles need',
+        ],
+        specs: {
+          shells: 'North American Maple',
+          plies: 'HVX Technology',
+          hoops: 'True Hoop',
+          mounting: 'STM Suspension',
+        },
+        usedBy: ['Brann Dailor', 'Derek Roddy', 'Scott Travis', 'Hannes Grossmann'],
+        bestFor: 'Modern metal, progressive death metal, studio work',
+        rating: 4.8,
+      },
+    ],
+    comparison: {
+      sound: 'Ludwig Classic Maple offers a warmer, more open vintage voice from its 3-ply shells, while DW Collector\'s Maple layers precision-matched warmth with articulate attack thanks to Timbre-Matched shell selection - a more studio-engineered sound overall.',
+      durability: 'Both are heirloom-quality instruments built to last decades. DW\'s True-Pitch rods and STM suspension mounts are engineered for marathon touring schedules, while Ludwig\'s simpler Rail Consolette hardware favors mechanical durability and easy field repairs over isolation tech.',
+      value: 'Ludwig Classic Maple is significantly more affordable, opening the door to premium American drum craftsmanship without DW\'s Collector\'s Series price tag - which trades that savings for shell-matching precision and finish customization.',
+      forMetal: 'DW is the proven, current choice for modern and progressive death metal drummers chasing studio-grade consistency and a warm, customizable low end. Ludwig has no MetalForge roster drummer currently confirmed on a full kit - its metal pedigree is historical (Black Sabbath\'s Bill Ward helped define the genre on a Ludwig kit) rather than reflected in today\'s touring rosters, so it fills the gap opposite DW as a vintage-leaning alternative rather than a head-to-head modern metal rival.',
+    },
+    verdict: 'DW Collector\'s Series is the proven, modern-metal-ready choice for drummers who want studio-grade shell matching and are willing to pay a premium for it. Ludwig Classic Maple is the value and heritage pick for drummers who want classic American tone rooted in metal\'s earliest days, at a fraction of DW\'s price - without a current touring endorsement backing it up yet.',
+    relatedComparisons: ['sonor-vs-dw', 'dw-vs-tama', 'tama-vs-pearl'],
+  },
 };
 
 /**

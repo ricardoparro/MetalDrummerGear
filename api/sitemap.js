@@ -170,6 +170,9 @@ const gearComparisons = [
   { slug: 'dw-vs-tama', name: 'DW vs Tama Drums' },
   { slug: 'mapex-vs-pearl', name: 'Mapex vs Pearl Drums' },
   { slug: 'sabian-vs-meinl', name: 'Sabian vs Meinl Cymbals' },
+  // Issue #4127: SEO batch - 2 Ludwig brand comparison pages
+  { slug: 'ludwig-vs-tama', name: 'Ludwig vs Tama Drums' },
+  { slug: 'ludwig-vs-dw', name: 'Ludwig vs DW Drums' },
 ];
 
 // Issue #558, #598, #650: Drummer vs Drummer comparison pages for SEO

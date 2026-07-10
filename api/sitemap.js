@@ -752,27 +752,11 @@ export function buildSitemapXml() {
       priority: '0.5',
       changefreq: 'monthly',
     })),
-    // Issue #1795: high-value drummer comparison LLM files not in drummerComparisons data.
-    // Hardcoded to match the 8 files shipped in public/llms/vs/ by this issue.
-    // Issue #2101: 3 additional pairs added (art-cruz-vs-chris-adler, aquiles-priester-vs-jaska-raatikainen, matt-garstka-vs-mike-mangini).
-    // Issue #2389: lars-ulrich-vs-charlie-benante removed — now a curated drummerComparisons
-    // entry, so it's sourced via getAllDrummerComparisonSlugs() above instead (avoids a duplicate <loc>).
-    ...([
-      'tomas-haake-vs-george-kollias',
-      'brann-dailor-vs-danny-carey',
-      'pete-sandoval-vs-flo-mounier',
-      'mike-portnoy-vs-mike-mangini',
-      'vinnie-paul-vs-dave-lombardo',
-      'travis-orbin-vs-matt-halpern',
-      'pete-sandoval-vs-george-kollias',
-      'art-cruz-vs-chris-adler',
-      'aquiles-priester-vs-jaska-raatikainen',
-      'matt-garstka-vs-mike-mangini',
-    ].map(slug => ({
-      loc: `/llms/vs/${slug}.md`,
-      priority: '0.5',
-      changefreq: 'monthly',
-    }))),
+    // Issue #4217: removed the #1795/#2101 hardcoded pair list — all 9 stale/dead
+    // slugs it carried had no committed public/llms/vs/ file (7 were stale-order
+    // duplicates of a curated reversed-slug entry, 2 had no curated entry at all),
+    // and its remaining entry (mike-portnoy-vs-mike-mangini) is a curated
+    // drummerComparisons key already sourced via getAllDrummerComparisonSlugs() above.
     // Issue #1703: per-matchup battle LLM Markdown files for AI citation (8 files).
     // Hardcoded to match the 8 files shipped in public/llms/battles/.
     ...([

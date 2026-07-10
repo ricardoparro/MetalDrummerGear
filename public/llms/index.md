@@ -1,6 +1,6 @@
 # MetalForge - LLM Content Index
 
-> Last updated: 2026-06-19
+> Last updated: 2026-07-10
 > Source: https://metalforge.io
 
 ## About MetalForge
@@ -23,17 +23,17 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Drummer Quotes | https://metalforge.io/llms/quotes.md | 36 attributed quotes from 12 metal drummers on technique, gear, and philosophy (Markdown) |
 | Bands | https://metalforge.io/llms/bands.md | Band & drummer-history reference (Markdown) |
 | Gear News | https://metalforge.io/llms/gear-news.md | Chronological feed of drummer gear additions, switches, and updates (Markdown) |
-| Endorsement News | https://metalforge.io/llms/endorsement-news.md | Brand endorsement changes for 15 tracked metal drummers — current deals, switches, signature gear (Markdown) |
-| Drummer Endorsements | https://metalforge.io/llms/endorsements.md | Official gear endorsements for 15 metal drummers with brand and contract details (Markdown) |
+| Endorsement News | https://metalforge.io/llms/endorsement-news.md | Brand endorsement changes for 33 tracked metal drummers — current deals, switches, signature gear (Markdown) |
+| Drummer Endorsements | https://metalforge.io/llms/endorsements.md | Official gear endorsements for 33 metal drummers with brand and contract details (Markdown) |
 | Gear by Brand | https://metalforge.io/llms/gear-by-brand.md | Brand→drummer mapping for all gear categories (Markdown) |
 | Techniques Overview | https://metalforge.io/llms/techniques.md | All drum techniques overview with links to per-technique deep dives (Markdown) |
-| Signature Licks | https://metalforge.io/llms/licks.md | Signature lick breakdowns overview for 63 drummers (Markdown) |
+| Signature Licks | https://metalforge.io/llms/licks.md | Signature lick breakdowns overview for 65 drummers (Markdown) |
 | Drummer Comparisons | https://metalforge.io/llms/comparisons.md | Side-by-side drummer gear & style comparisons — all pairs (Markdown) |
 | Per-Pair Comparisons | https://metalforge.io/llms/vs/ | Individual per-pair comparison pages with exact gear data (24 files) |
 | Top-10 Lists | https://metalforge.io/llms/lists.md | Ranked top-10 drummer lists by speed, genre, gear value, and technique (Markdown) |
 | Per-List Deep Dives | https://metalforge.io/llms/lists/ | Individual per-list ranked guides with full rationale, FAQ, and internal links (8 files) |
 | Quick Facts | https://metalforge.io/llms/facts.md | Speed records, gear stats, career milestones, nicknames & technical definitions (Markdown) |
-| Gear Statistics | https://metalforge.io/llms/stats.md | Brand-popularity data for 63 drummers — drums, cymbals, hardware, sticks with % breakdowns (Markdown) |
+| Gear Statistics | https://metalforge.io/llms/stats.md | Brand-popularity data for 65 drummers — drums, cymbals, hardware, sticks with % breakdowns (Markdown) |
 | Gear Brand Insights | https://metalforge.io/llms/gear-insights.md | Named drummer citations with internal links for every brand — drum kit, cymbal, pedal, and stick usage percentages (Markdown) |
 | Gear History | https://metalforge.io/llms/gear-history.md | Era-by-era breakdown of how iconic drummers' gear evolved — endorsement changes and inflation-adjusted prices (Markdown) |
 | Drummer Birthdays | https://metalforge.io/llms/birthdays.md | Birth dates, birth places, and birthday FAQ for 57 metal drummers in calendar order (Markdown) |

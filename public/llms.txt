@@ -1,20 +1,20 @@
 # MetalForge — llms.txt
 # https://llmstxt.org/
-# Last updated: 2026-06-25
-# Content: 63 drummers, 157 lick pages (100% coverage), 66 articles, 10 techniques, 19 bands, 61 comparisons
+# Last updated: 2026-07-10
+# Content: 65 drummers, 157 lick pages (100% coverage), 66 articles, 10 techniques, 19 bands, 28 comparisons
 
-> MetalForge is the definitive database of professional metal drummers and their gear. 63 drummers, complete gear specs, 157 signature drum lick breakdowns, performance videos, and career histories.
+> MetalForge is the definitive database of professional metal drummers and their gear. 65 drummers, complete gear specs, 157 signature drum lick breakdowns, performance videos, and career histories.
 
 ## Core
 
 - [Drummer Database](/llms/index.md): Complete AI-readable index of all content
-- [All Drummers](/llms/drummers/): 63 per-drummer gear, bio, FAQ profiles
+- [All Drummers](/llms/drummers/): 65 per-drummer gear, bio, FAQ profiles
 - [Gear Guide](/llms/gear-guide.md): Drum brands and equipment overview
 - [Gear by Brand](/llms/gear-by-brand.md): Brand → drummer mapping
-- [Endorsements Database](/llms/endorsements.md): Cross-brand endorsement index for 15 metal drummers
+- [Endorsements Database](/llms/endorsements.md): Cross-brand endorsement index for 33 metal drummers
 - [FAQ](/llms/faq.md): Frequently asked questions about metal drummer gear
 
-## Signature Licks (100% coverage — 63 drummers)
+## Signature Licks (100% coverage — 65 drummers)
 
 - [Licks Overview](/llms/licks.md): All signature drum lick patterns
 - [Per-Drummer Licks](/llms/licks/): 51+ per-drummer lick breakdowns (blast beats, double bass, iconic fills)

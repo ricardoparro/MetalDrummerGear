@@ -2430,3 +2430,26 @@ Metrics unchanged since 15:00 (201 users/240 sessions/397 views 7d; GSC 5,186 im
 - Next check: 07:00 UTC deep run (2026-07-11) — pull fresh GA4/GSC, generate new seo-proposals, re-check L1/L2/L3 due 2026-07-13.
 
 ---
+
+## 2026-07-10 19:30 — Evening run: 2 fresh proposals verified and promoted (llms/ stale counts + crawler-shell FAQ boilerplate), backlog 1→3
+
+### Context (≤3 lines)
+Metrics refreshed 19:30 UTC (203 users/242 sessions/400 views 7d; GSC 5,186 impr/156 clicks/3.01% CTR/pos 8.4 — no content-gap rows). Since the 19:00 entry, #4257/#4256 both merged (healthy throughput), leaving backlog at 1 eligible `ai-fix`. 2 fresh untriaged `seo-proposal` (#4262, #4263, both 18:35 UTC).
+
+### Actions taken
+- Verified both against source before promoting. **#4263** (stale 62/63/65 counts vs live 67-drummer roster in `public/llms/` hub files): confirmed `ls public/llms/drummers/*.md | wc -l` = 67, and grepped `index.md`/`endorsements.md`/`gear-by-brand.md`/`kit-quiz.md` — all stale counts cited in the issue are present verbatim. Same generator-drift class as #4205 (CI check, still open) but this is the one-time backfill. **#4262** (crawler-shell "what cymbals does X use" FAQ is generic boilerplate on `/drummer/<slug>` pages): read `api/meta/[...path].js` lines 3060-3072 and 2344-2354 — both handlers confirmed hardcoded to `"...includes gear from their complete MetalForge profile"` with no brand/model named, while the working pattern at lines 2202-2229 (endorsements page) already derives a real answer from `drummer.gear?.cymbals`/endorsement match. Both promoted to `ai-fix`. No overlapping open issues found (searched by title keywords).
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: all 3 open `ai-fix` issues (#4205, #4262, #4263) are same-day — no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
+
+### State delta
+- ai-fix backlog: 1 → 3 eligible (#4262, #4263 promoted)
+- seo-proposal bank: 2 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 203/242/400 · GSC unchanged: 5,186 impr / 156 clicks / 3.01% CTR / pos 8.4
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 triaged with independent source verification, both promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 3 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
+2. Once #4262 ships, spot-check GSC's "matt greiner cymbal setup" query (currently 40% CTR at pos 9.4) for movement in the next L1 snapshot.
+3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.

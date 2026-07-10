@@ -1,10 +1,10 @@
 # MetalForge Kit Quiz — Which Metal Drummer Are You?
 
-The MetalForge Kit Quiz matches your playing style and gear preferences to a legendary metal drummer from the MetalForge database of 62 featured artists.
+The MetalForge Kit Quiz matches your playing style and gear preferences to a legendary metal drummer from the MetalForge database of 67 featured artists.
 
 ## How It Works
 
-Answer a series of questions about your playing approach, preferred tempo, genre, kit size, cymbal setup, and technique focus. The quiz uses your answers to match you to one of 62 featured metal drummers based on real gear data and documented playing characteristics.
+Answer a series of questions about your playing approach, preferred tempo, genre, kit size, cymbal setup, and technique focus. The quiz uses your answers to match you to one of 67 featured metal drummers based on real gear data and documented playing characteristics.
 
 Questions cover:
 - Preferred tempo range (slow/groove, mid-tempo, fast, blast-beat territory)
@@ -53,6 +53,6 @@ Heavier-than-rock, groove-forward matching: Joey Jordison, Ray Luzier, or Abe Cu
 
 ## About the Match
 
-Each result includes the matched drummer's full gear breakdown, career highlights, landmark albums, and links to their MetalForge profile. The quiz is based on data from 62 professional metal drummers currently in the MetalForge database.
+Each result includes the matched drummer's full gear breakdown, career highlights, landmark albums, and links to their MetalForge profile. The quiz is based on data from 67 professional metal drummers currently in the MetalForge database.
 
 [Take the quiz](https://metalforge.io/kit-quiz)

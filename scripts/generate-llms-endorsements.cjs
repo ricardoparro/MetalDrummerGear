@@ -268,7 +268,7 @@ headerLines.push(`This page documents official gear endorsements for the ${count
 headerLines.push('');
 headerLines.push(`> Last Updated: ${today} · Source: https://metalforge.io`);
 headerLines.push('');
-headerLines.push('For a brand-first view of the full 63-drummer roster see [/llms/gear-by-brand.md](https://metalforge.io/llms/gear-by-brand.md).');
+headerLines.push(`For a brand-first view of the full ${count}-drummer roster see [/llms/gear-by-brand.md](https://metalforge.io/llms/gear-by-brand.md).`);
 headerLines.push('');
 headerLines.push('## Per-Drummer Endorsement Detail Pages');
 headerLines.push('');

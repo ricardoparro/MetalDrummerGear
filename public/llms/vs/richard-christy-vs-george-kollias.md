@@ -67,4 +67,4 @@ A: Richard Christy uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19
 
 ---
 
-*Last updated: 2026-07-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

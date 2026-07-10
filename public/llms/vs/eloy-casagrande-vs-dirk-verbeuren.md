@@ -26,7 +26,7 @@ Sepultura/Slipknot's Eloy Casagrande vs Megadeth's Dirk Verbeuren — two modern
 
 ## Playing Style
 
-Eloy Casagrande became Sepultura's drummer in 2011 at just 20 years old, spending 13 years driving the Brazilian thrash institution's modern era before joining Slipknot in 2024, where his explosive speed and technical prowess earned him Modern Drummer magazine's No. 1 metal drummer honor in their 2024 Readers' Poll. Dirk Verbeuren joined Megadeth in 2016 after nearly two decades as Soilwork's drummer, bringing European melodic death metal precision to the band's modern era on the Grammy-winning "Dystopia" (2016) and "The Sick, the Dying... and the Dead!" (2022).
+Eloy Casagrande became Sepultura's drummer in 2011 at just 20 years old, spending 13 years driving the Brazilian thrash institution's modern era before joining Slipknot in 2024, where his explosive speed and technical prowess earned him Modern Drummer magazine's No. 1 metal drummer honor in their 2024 Readers' Poll. Dirk Verbeuren joined Megadeth's touring lineup in 2016 after nearly two decades as Soilwork's drummer, bringing European melodic death metal precision to the band's modern era; his actual studio debut, "The Sick, the Dying... and the Dead!" (2022), came six years later — the band's Grammy-winning "Dystopia" (2016) was recorded entirely by Chris Adler before Verbeuren joined.
 
 ## Technique
 
@@ -38,11 +38,11 @@ Eloy Casagrande plays a Tama Starclassic Bubinga kit with a Tama Bell Brass 14x6
 
 ## Influence & Legacy
 
-Casagrande represents metal drumming's modern generation — Modern Drummer's 2024 Readers' Poll No. 1 metal drummer, whose transition from Sepultura to Slipknot at the top of both bands' drum chairs demonstrates the technical standard contemporary metal now demands. Verbeuren brought Megadeth's drumming into the modern extreme metal era, contributing to "Dystopia" (2016), which won the Grammy for Best Metal Performance in 2017 — the band's first Grammy win after multiple prior nominations.
+Casagrande represents metal drumming's modern generation — Modern Drummer's 2024 Readers' Poll No. 1 metal drummer, whose transition from Sepultura to Slipknot at the top of both bands' drum chairs demonstrates the technical standard contemporary metal now demands. Verbeuren brought Megadeth's drumming into the modern extreme metal era, delivering his own Grammy-nominated studio debut on "The Sick, the Dying... and the Dead!" (2022) — six years after the band's first Grammy win, for "Dystopia" (2016), which was recorded by Chris Adler.
 
 ## Verdict
 
-Eloy Casagrande and Dirk Verbeuren both carried thrash metal's founding-era bands into a more technical present. Casagrande spent 13 years modernizing Sepultura's Brazilian thrash lineage before his explosive speed carried him to Slipknot and Modern Drummer's top ranking in 2024. Verbeuren imported nearly two decades of Soilwork's melodic death metal precision into Megadeth's classic thrash framework, contributing to the band's Grammy-winning "Dystopia." Casagrande is groove-driven thrash's rising powerhouse; Verbeuren is technical death metal's import into thrash's old guard — both prove founding-era thrash bands still demand drummers who can outrun the genre's own history.
+Eloy Casagrande and Dirk Verbeuren both carried thrash metal's founding-era bands into a more technical present. Casagrande spent 13 years modernizing Sepultura's Brazilian thrash lineage before his explosive speed carried him to Slipknot and Modern Drummer's top ranking in 2024. Verbeuren imported nearly two decades of Soilwork's melodic death metal precision into Megadeth's classic thrash framework, delivering his own Grammy-nominated studio debut on "The Sick, the Dying... and the Dead!" Casagrande is groove-driven thrash's rising powerhouse; Verbeuren is technical death metal's import into thrash's old guard — both prove founding-era thrash bands still demand drummers who can outrun the genre's own history.
 
 ## FAQ
 
@@ -67,4 +67,4 @@ A: Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride,
 
 ---
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

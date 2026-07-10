@@ -67,4 +67,4 @@ A: Travis Orbin uses Zildjian K Custom Series (14" K Custom Dark Hi-Hats, 18" & 
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

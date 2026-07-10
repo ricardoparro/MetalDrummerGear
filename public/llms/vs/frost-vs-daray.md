@@ -67,4 +67,4 @@ A: Frost uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" 
 
 ---
 
-*Last updated: 2026-07-02 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

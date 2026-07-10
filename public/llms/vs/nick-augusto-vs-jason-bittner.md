@@ -67,4 +67,4 @@ A: Nick Augusto uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion C
 
 ---
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

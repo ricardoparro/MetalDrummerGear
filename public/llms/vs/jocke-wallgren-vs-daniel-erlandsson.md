@@ -67,4 +67,4 @@ A: Jocke Wallgren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats
 
 ---
 
-*Last updated: 2026-07-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

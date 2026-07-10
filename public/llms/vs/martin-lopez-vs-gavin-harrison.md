@@ -67,4 +67,4 @@ A: Martin Lopez uses Zildjian K Dark Series (14" K Dark Thin Hi-Hats, 18" & 20" 
 
 ---
 
-*Last updated: 2026-07-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

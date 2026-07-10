@@ -67,4 +67,4 @@ A: Daniel Erlandsson uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19"
 
 ---
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

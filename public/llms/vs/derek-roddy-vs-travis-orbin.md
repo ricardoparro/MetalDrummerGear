@@ -67,4 +67,4 @@ A: Derek Roddy uses Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" 
 
 ---
 
-*Last updated: 2026-06-30 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

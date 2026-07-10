@@ -67,4 +67,4 @@ A: Danny Carey uses Paiste Signature Series (15" Sound Edge Hi-Hats, 18" & 19" P
 
 ---
 
-*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

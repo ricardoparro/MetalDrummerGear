@@ -67,4 +67,4 @@ A: Mike Portnoy uses Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evoluti
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

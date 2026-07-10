@@ -67,4 +67,4 @@ A: John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom
 
 ---
 
-*Last updated: 2026-07-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

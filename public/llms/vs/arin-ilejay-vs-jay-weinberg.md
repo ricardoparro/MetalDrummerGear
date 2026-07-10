@@ -67,4 +67,4 @@ A: Arin Ilejay uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" & 19" A Cust
 
 ---
 
-*Last updated: 2026-07-04 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

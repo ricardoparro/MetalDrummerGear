@@ -67,4 +67,4 @@ A: Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

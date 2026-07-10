@@ -67,4 +67,4 @@ A: Morgan Ågren uses Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hat
 
 ---
 
-*Last updated: 2026-07-04 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

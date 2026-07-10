@@ -67,4 +67,4 @@ A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ri
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

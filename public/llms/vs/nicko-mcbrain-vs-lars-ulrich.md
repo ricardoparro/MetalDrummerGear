@@ -67,4 +67,4 @@ A: Nicko McBrain uses Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16
 
 ---
 
-*Last updated: 2026-06-18 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

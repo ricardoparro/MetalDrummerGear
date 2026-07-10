@@ -67,4 +67,4 @@ A: Blake Richardson uses Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Cr
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

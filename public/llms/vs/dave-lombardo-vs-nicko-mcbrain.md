@@ -67,4 +67,4 @@ A: Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 1
 
 ---
 
-*Last updated: 2026-07-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

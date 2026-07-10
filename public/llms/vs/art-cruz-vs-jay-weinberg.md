@@ -67,4 +67,4 @@ A: Art Cruz uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 1
 
 ---
 
-*Last updated: 2026-07-02 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

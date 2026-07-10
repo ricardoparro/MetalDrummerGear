@@ -88,6 +88,9 @@ const drummers = [
   { id: 59, name: 'Tim Yeung' }, { id: 60, name: 'Kevin Talley' }, { id: 61, name: 'Isaac Lamb' },
   { id: 62, name: 'Ryan Van Poederooyen' }, { id: 63, name: 'Paul Bostaph' },
   { id: 64, name: 'Sean Reinert' }, { id: 65, name: 'Nick Menza' },
+  // Issue #4214: 2 orphan drummers with deep existing content (comparisons, licks,
+  // gear history, album articles) added to the roster to stop soft-404s.
+  { id: 66, name: 'Adrian Erlandsson' }, { id: 67, name: 'Jon Dette' },
 ];
 
 const gearItems = [

@@ -3473,6 +3473,89 @@ const drummers = [
     videos: [
       { title: 'Nick Menza Drum Cam - Megadeth - The Conjuring (Live at NEC Centre, Birmingham UK, 1990)', youtubeId: '_lShTMrFVco', year: 1990 }
     ]
+  },
+  {
+    id: 66,
+    name: 'Adrian Erlandsson',
+    band: 'At the Gates',
+    bands: [
+      { name: 'At the Gates', period: '1990–present', current: true },
+      { name: 'The Haunted', period: '1996–1999, 2013–present', current: true },
+      { name: 'Cradle of Filth', period: '1999–2006', current: false },
+      { name: 'Paradise Lost', period: '2009–2016', current: false }
+    ],
+    genre: 'Melodic Death Metal',
+    country: 'Sweden',
+    image: '/images/drummers/adrian-erlandsson.webp',
+    bio: 'Adrian Erlandsson is a Swedish drummer who co-founded At the Gates in Gothenburg in 1990 and delivered the D-beat-driven blast-beat performance on Slaughter of the Soul (1995) that became the blueprint for the entire Gothenburg melodic death metal sound. He also founded The Haunted in 1996 and has drummed for Cradle of Filth (1999–2006) and Paradise Lost (2009–2016); he is the brother of Arch Enemy drummer Daniel Erlandsson.',
+    kitOverview: 'Adrian Erlandsson\'s current rig centers on a Tama Starclassic Bubinga kit with twin 22" bass drums — a four-tom, double-kick configuration built out during his 2009–2016 stint with Paradise Lost after a Tama relationship that began when he founded The Haunted and joined Cradle of Filth in the late 1990s. The Adrian Erlandsson drum set anchors on a Tama Starclassic Bubinga 14x6.5" snare, its hardwood shell delivering the body and depth his D-beat-driven melodic death metal foundation demands beneath At the Gates\' tremolo-picked guitar melodies.\n\nSabian\'s AAX/HHX Series cymbals define the Adrian Erlandsson drum kit\'s cutting edge: 15" HHX Xcelerator hi-hats driving the relentless eighth-note pulse beneath his signature D-beat, a 20" AAX Iso crash for accent, and a 19" AAX Paragon China marking every riff transition with the aggressive, trashy punctuation that became a genre signature on "Blinded by Fear." A Monolit Czarcie Kopyto double pedal — a boutique Polish pedal — drives the twin-kick foundation, giving Erlandsson the physical independence behind Slaughter of the Soul\'s full-velocity blast-beat entrances and the dynamically-controlled grooves of the band\'s reunion-era material.\n\nErlandsson\'s gear history began modestly: a budget Pearl Export kit carried At the Gates through the underground, studio-house-kit circumstances of Slaughter of the Soul (1995) at Studio Fredman, a deliberate contrast to the prestige gear he later adopted. Vic Firth Rock Nylon Tip sticks — bearing his own official At the Gates signature model — and Evans EMAD Onyx and EC Reverse Dot heads round out the rig he has carried across At the Gates\' full-time 2008 reformation, The Haunted\'s 2013 return, and his stints with Cradle of Filth and Paradise Lost.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Adrian_Erlandsson',
+      'https://www.discogs.com/artist/354902-Adrian-Erlandsson'
+    ],
+    gear: {
+      drums: 'Tama Starclassic Bubinga',
+      snare: 'Tama Starclassic Bubinga 14x6.5"',
+      cymbals: 'Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)',
+      hardware: 'Monolit Czarcie Kopyto Double Pedal',
+      sticks: 'Vic Firth Rock Nylon Tip (At the Gates Signature)',
+      heads: 'Evans EMAD Onyx / EC Reverse Dot',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Adrian_Erlandsson']
+    },
+    photos: [
+      '/images/drummers/adrian-erlandsson.webp'
+    ],
+    endorsements: [
+      { name: 'Tama Drums', url: 'https://www.tama.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
+      { name: 'Evans Drumheads', url: 'https://www.evansdrumheads.com' }
+    ],
+    videos: [
+      { title: 'At The Gates - Blinded By Fear [Official Video]', youtubeId: 'nCtjAmtIGf0', year: 1995 }
+    ]
+  },
+  {
+    id: 67,
+    name: 'Jon Dette',
+    band: 'Slayer',
+    bands: [
+      { name: 'Slayer', period: '1996–1997', current: false },
+      { name: 'Testament', period: '1997–1999, 2001–2012', current: false },
+      { name: 'Anthrax', period: '2010', current: false }
+    ],
+    genre: 'Thrash Metal',
+    country: 'USA',
+    image: '/images/drummers/jon-dette.webp',
+    bio: 'Jon Dette (born August 25, 1967, in Milwaukee, Wisconsin) is an American drummer best known as Slayer\'s touring drummer during 1996–1997, filling in for Paul Bostaph and learning the band\'s full live set on short notice. He went on to become Testament\'s drummer across two stints from 1997 to 2012, recording The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012), and filled in for Charlie Benante on a 2010 Anthrax tour.',
+    kitOverview: 'Jon Dette\'s Slayer-era rig was built around a Ludwig Classic Maple kit — a gear choice that set him apart from every other Slayer drummer, since Dave Lombardo played Tama throughout the band\'s founding era and Paul Bostaph moved through DW and other setups. The Jon Dette drum set centered on twin 22" Ludwig Classic Maple bass drums to execute the sustained double-kick patterns Slayer\'s catalog — "Raining Blood," "Angel of Death," "Seasons in the Abyss" — demands, paired with a 14x6.5" metal or maple snare tuned medium-bright for the cut and authority thrash metal\'s dense guitar mix requires.\n\nSabian and Zildjian cymbals rounded out the Jon Dette drum kit across his Slayer and Testament tenures: 14" hi-hats for the fast, articulate sixteenth-note pulse thrash metal\'s 180–220 BPM tempos demand, 16" and 18" crashes for structural accents, a 20" ride, and an 18" China for the aggressive punctuation Slayer\'s most intense passages require. A DW 9000 or Tama Iron Cobra double bass pedal drove his sustained double-kick work, giving Dette the pedal consistency needed to learn Slayer\'s entire live set on short notice in 1996 and execute it reliably from his first night on tour.\n\nRemo Powerstroke 3 heads on the kick, Emperor Coated heads on the toms, and Coated Ambassador on the snare completed the rig, chosen for the focused attack and two-ply durability thrash metal\'s high-impact playing demands across long tours. Promark or Vater 5B sticks — a heavier model favored for authority and durability — carried Dette through his longest tenure with Testament (1997–1999, 2001–2012), spanning The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012), plus his 2010 fill-in stint for Charlie Benante on an Anthrax tour.',
+    sameAs: [
+      'https://en.wikipedia.org/wiki/Jon_Dette',
+      'https://www.discogs.com/artist/569672-Jon-Dette'
+    ],
+    gear: {
+      drums: 'Ludwig Classic Maple',
+      snare: '14x6.5" Metal or Maple Snare',
+      cymbals: 'Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China)',
+      hardware: 'DW 9000 or Tama Iron Cobra Double Pedal',
+      sticks: 'Promark / Vater 5B',
+      heads: 'Remo Powerstroke 3 (Kick) / Emperor Coated (Toms) / Coated Ambassador (Snare)',
+      verified: true,
+      sources: ['https://en.wikipedia.org/wiki/Jon_Dette']
+    },
+    photos: [
+      '/images/drummers/jon-dette.webp'
+    ],
+    endorsements: [
+      { name: 'Ludwig Drums', url: 'https://www.ludwig-drums.com' },
+      { name: 'Sabian Cymbals', url: 'https://www.sabian.com' },
+      { name: 'Zildjian Cymbals', url: 'https://zildjian.com' },
+      { name: 'Remo Drumheads', url: 'https://remo.com' }
+    ],
+    videos: [
+      { title: 'Slayer - Killing Fields (Drum Playthrough by Former Slayer Drummer Jon Dette)', youtubeId: 'jbvzXH__12k', year: 2022 }
+    ]
   }
 ];
 

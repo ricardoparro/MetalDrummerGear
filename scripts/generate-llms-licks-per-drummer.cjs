@@ -69,6 +69,9 @@ const TARGET_DRUMMERS = [
   { slug: 'shannon-larkin',     name: 'Shannon Larkin',     band: 'Godsmack',                    genre: 'Hard Rock / Alternative Metal' },
   { slug: 'travis-orbin',       name: 'Travis Orbin',       band: 'Periphery',                   genre: 'Progressive Metal / Djent' },
   { slug: 'vinnie-paul',        name: 'Vinnie Paul',        band: 'Pantera',                     genre: 'Groove Metal / Thrash Metal' },
+  // Issue #4230: 2 drummers with lick data missing from this list (added in #4114/#2219)
+  { slug: 'adrian-erlandsson',  name: 'Adrian Erlandsson',  band: 'At the Gates',                genre: 'Melodic Death Metal' },
+  { slug: 'sean-reinert',       name: 'Sean Reinert',       band: 'Death / Cynic',               genre: 'Progressive Death Metal / Technical Death Metal' },
 ];
 
 function loadDrummerLicks(slug) {

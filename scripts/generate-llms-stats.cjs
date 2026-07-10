@@ -56,6 +56,14 @@ function countWithField(field) {
   return drummers.filter(d => d.gear && d.gear[field]).length;
 }
 
+// Among drummers whose cymbals mention `brand`, count how many have a genre matching any of `keywords`.
+function countBrandUsersByGenre(brand, keywords) {
+  const needle = brand.toLowerCase();
+  const users = drummers.filter(d => d.gear && d.gear.cymbals && String(d.gear.cymbals).toLowerCase().includes(needle));
+  const matching = users.filter(d => d.genre && keywords.some(k => d.genre.toLowerCase().includes(k)));
+  return { total: users.length, matching: matching.length };
+}
+
 // Rank brands by count descending, return array of {brand, count, pct}.
 function rankBrands(brands, fields) {
   return brands
@@ -87,6 +95,8 @@ const cymbalBrands = rankBrands(['Zildjian', 'Sabian', 'Paiste', 'Meinl'], ['cym
 const hardwareBrands = rankBrands(['Tama', 'DW', 'Pearl', 'Axis', 'Gibraltar', 'Trick'], ['hardware']);
 const stickBrands = rankBrands(['Vic Firth', 'Promark', 'Vater', 'Ahead', 'Zildjian', 'Regal Tip'], ['sticks']);
 const snareBrands = rankBrands(['Pearl', 'Tama', 'Ludwig', 'DW', 'Mapex', 'Sonor', 'Canopus', 'SJC', 'ddrum'], ['snare']);
+
+const meinlGenreMatch = countBrandUsersByGenre('Meinl', ['prog', 'djent', 'death']);
 
 const doubleBassCount = countDoubleBass();
 const doubleBassPct = Math.round((doubleBassCount / total) * 100);
@@ -198,7 +208,7 @@ md += `- **Thrash Metal:** Tama drums, Zildjian or Paiste cymbals. DW pedals wid
 md += `- **Black Metal:** Mix of Tama, Sonor, and Pearl. Paiste cymbals popular for the raw, `;
 md += `cutting tone needed in black metal production.\n`;
 md += `- **Progressive / Djent:** Sonor SQ2 and Pearl Reference kits appear frequently. `;
-md += `Meinl Byzance cymbals are the genre standout (10 of 10 Meinl users lean prog/djent/death).\n`;
+md += `Meinl Byzance cymbals are the genre standout (${meinlGenreMatch.matching} of ${meinlGenreMatch.total} Meinl users lean prog/djent/death).\n`;
 md += `- **Nu Metal / Groove Metal:** Pearl and Tama split evenly. DW hardware most common.\n\n`;
 
 md += `---\n\n`;

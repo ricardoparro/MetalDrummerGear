@@ -2362,3 +2362,29 @@ Metrics refreshed 12:05 UTC (195 users/233 sessions/391 views 7d; GSC 5,186 impr
 - Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
 - Actions: resolved watch item from last 2 entries — PR #4226 (conflicting, watched 11:10/12:10) was auto-reaped by pr-merger at 12:40Z and #4217 cleanly re-implemented via fresh PR #4244, merged. No manual flag needed after all. 4 other ai-fix issues (#4229/4230/4232/4233) also shipped since 12:10 — healthy throughput, backlog well below 45 floor but bank has nothing fresh to promote.
 - Next check: mid-day/evening pulse — watch for fresh seo-proposal output to promote (backlog at 3, floor is 45) and next L1/L2/L3 snapshot due 2026-07-13.
+
+## 2026-07-10 15:50 — Pulse: 2 birthdays-page proposals promoted, discovered + filed a real broken-image bug (6 drummers, silent-200 masking)
+
+### Context (≤3 lines)
+Metrics unchanged since 15:00 (201 users/240 sessions/397 views 7d; GSC 5,186 impr/156 clicks/3.01% CTR/pos 8.4). Backlog was 2 eligible `ai-fix`, 0 open PRs. 2 fresh untriaged `seo-proposal` (#4249, #4250, both 15:06 UTC) — a birthdays-page cluster.
+
+### Actions taken
+- Verified both against source before promoting. **#4249** (7 missing drummers in `birthdays.js`): confirmed array is 57 entries, all 7 target slugs absent, and each has copy-sourceable birth data in `api/drummers/index.js`'s `bio` field (grepped all 7 directly). **#4250** (`numberOfItems: 61` hardcoded in `api/meta/[...path].js`'s birthdays JSON-LD): confirmed the literal at line 1223, live-curled production and got `"numberOfItems":61` — matches a known recurring bug class (4th occurrence after llms.txt/stats.md/gear-insights.md). Both promoted to `ai-fix`.
+- **Side discovery while verifying #4249's image-existence claim:** 3 of its 7 target drummers (martin-axenrot, sean-reinert, nick-menza) have zero image file in git. Checked scope site-wide: 6 of 67 roster drummers total (+ paul-bostaph, adrian-erlandsson, jon-dette) reference `/images/drummers/<slug>.webp` paths with no file ever committed. Live-curled all 6 — every one returns `200 OK` but `content-type: text/html` (Vercel's SPA shell/`index.html`, not a real image) vs. a working image's `content-type: image/webp`. This means status-code-only monitoring would never flag it, but real users get a broken image icon on 6 live drummer profile pages. No existing open issue covered this (searched `broken-images`, drummer names, and image-related history — all closed/unrelated). Filed **#4251** (new, root-cause, atomic) rather than blocking #4249 on it — commented on #4249 to note the pre-existing gap so Ralph isn't confused mid-implementation and proceeds with the standard path convention regardless.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: all 5 open `ai-fix` issues are same-day (00:37–15:49 UTC) — no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06, next due 2026-07-13 — no new signal, standing deferral holds.
+
+### State delta
+- ai-fix backlog: 2 → 5 eligible (#4249, #4250 promoted; #4251 filed fresh, not from a proposal)
+- seo-proposal bank: 2 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- New finding: 6/67 drummer profile images silently broken (200 + HTML shell instead of 404) — a previously-undetected quality gap, tracked in #4251
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 triaged with independent verification, both promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged. ✅ Own idea generated + filed (#4251, backlog well under the 45 floor so no cap concern).
+
+### Next Run
+1. Backlog at 5 — still well below the 45 floor; keep promoting fresh proposals liberally.
+2. Watch #4251 — once it ships, re-curl all 6 slugs to confirm `content-type: image/webp` (not just 200 status, given the SPA-shell masking behavior discovered this run).
+3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+---

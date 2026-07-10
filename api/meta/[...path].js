@@ -46,6 +46,10 @@ import { getGearPriceHistory, formatHistoryPrice } from '../../packages/frontend
 // Ported from the dead api/meta/index.js (never wired into any rewrite/handler path).
 import { genres as GENRES, getAllGenreSlugs } from '../../packages/frontend/data/genres.js';
 import { drummerBirthdays } from '../../packages/frontend/data/birthdays.js';
+// Issue #4268: /guides/beginner-metal-drummer-setup + /guides/budget-metal-drum-setup-{500,1000,2000}
+// were rendering title/description-only stubs (or falling through to the generic
+// /guides/<slug> fallback) with zero HowTo/FAQPage JSON-LD in bot-facing SSR.
+import BEGINNER_GUIDES, { generateBeginnerGuideSchema, generateBeginnerFaqSchema } from '../../packages/frontend/data/beginnerGuides.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -630,32 +634,32 @@ function getMetaForPath(pathname) {
     }
   }
 
-  // Budget guide — $500
-  if (path === '/guides/budget-metal-drum-setup-500') {
-    return {
-      title: `Budget Metal Drum Setup Under $500 — Full Guide | ${SITE_NAME}`,
-      description: 'Complete guide to building a metal-ready drum kit for under $500. Best budget shells, cymbals, hardware, and pedals for beginner metal drummers.',
-      type: 'article',
-      url: `${BASE_URL}/guides/budget-metal-drum-setup-500`,
-    };
-  }
-  // Budget guide — $1000
-  if (path === '/guides/budget-metal-drum-setup-1000') {
-    return {
-      title: `Best Metal Drum Setup Under $1000 — Buyer's Guide | ${SITE_NAME}`,
-      description: 'Step up your rig: best mid-range metal drum kits, cymbals, and double-kick pedals for under $1000. Gear the pros recommend for serious beginners.',
-      type: 'article',
-      url: `${BASE_URL}/guides/budget-metal-drum-setup-1000`,
-    };
-  }
-  // Budget guide — $2000
-  if (path === '/guides/budget-metal-drum-setup-2000') {
-    return {
-      title: `Best Metal Drum Setup Under $2000 — Pro-Level Picks | ${SITE_NAME}`,
-      description: 'Semi-pro metal kit for under $2000: Tama, Pearl, DW shells, Meinl/Zildjian cymbals, Iron Cobra pedals. The sweet spot before endorsement-level gear.',
-      type: 'article',
-      url: `${BASE_URL}/guides/budget-metal-drum-setup-2000`,
-    };
+  // Beginner/budget guides (Issue #4268: BEGINNER_GUIDES schema gap)
+  const beginnerGuideMatch = path.match(/^\/guides\/(beginner-metal-drummer-setup|budget-metal-drum-setup-500|budget-metal-drum-setup-1000|budget-metal-drum-setup-2000)$/);
+  if (beginnerGuideMatch) {
+    const guide = BEGINNER_GUIDES[beginnerGuideMatch[1]];
+    if (guide) {
+      const guideUrl = `${BASE_URL}/guides/${guide.slug}`;
+      const howTo = generateBeginnerGuideSchema(guide);
+      const faq = generateBeginnerFaqSchema(guide);
+      return {
+        title: `${guide.title} | ${SITE_NAME}`,
+        description: guide.description,
+        image: `${BASE_URL}${guide.ogImage}`,
+        type: 'article',
+        url: guideUrl,
+        articleSchema: JSON.stringify({
+          '@context': 'https://schema.org',
+          '@graph': [howTo, faq].filter(Boolean),
+        }),
+        faqSchema: guide.faq || null,
+        breadcrumbSchema: [
+          { name: 'Home', url: BASE_URL },
+          { name: 'Guides', url: `${BASE_URL}/guides` },
+          { name: guide.title, url: guideUrl },
+        ],
+      };
+    }
   }
 
   // Beginner/genre gear guides and other /guides/<slug> pages

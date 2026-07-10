@@ -45,6 +45,7 @@ import { getGearPriceHistory, formatHistoryPrice } from '../../packages/frontend
 // Issue #3745: /genres hub + /genre/<slug> pages — CollectionPage + FAQPage JSON-LD.
 // Ported from the dead api/meta/index.js (never wired into any rewrite/handler path).
 import { genres as GENRES, getAllGenreSlugs } from '../../packages/frontend/data/genres.js';
+import { drummerBirthdays } from '../../packages/frontend/data/birthdays.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -1220,7 +1221,7 @@ function getMetaForPath(pathname) {
           '@type': 'ItemList',
           name: 'Metal Drummer Birthdays',
           description: 'Birthdays of 60+ professional metal drummers',
-          numberOfItems: 61,
+          numberOfItems: drummerBirthdays.length,
           itemListElement: [
             {
               '@type': 'ListItem',

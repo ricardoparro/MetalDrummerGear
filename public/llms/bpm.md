@@ -266,4 +266,4 @@ Related LLM resources:
 - [Quick Facts](https://metalforge.io/llms/facts.md) — speed records and technical milestones
 - [Top-10 Lists](https://metalforge.io/llms/lists.md) — fastest drummers and ranked lists
 - [Techniques Overview](https://metalforge.io/llms/techniques.md) — blast beats, double bass, and more
-- [Drummer Profiles](https://metalforge.io/llms/drummers/) — gear and style for all 61 drummers
+- [Drummer Profiles](https://metalforge.io/llms/drummers/) — gear and style for all 67 drummers

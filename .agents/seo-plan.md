@@ -1131,4 +1131,34 @@
   2. #4192 — SEO: /llms/endorsements.md hub is missing 18 of 33 live per-drummer endorsement pages + stale count/date (root-cause fix: extend the generator to own the hub file too)
 - **Metrics (GA4+GSC 7d, per `.agents/ceo/metrics.md`, refreshed 2026-07-09 22:29 UTC):** 195 users / 230 sessions / 396 views. Organic Search = 192/230 sessions ≈ 83%. GSC: 4,749 impr / 143 clicks / 3.01% CTR / pos 8.2 (flat vs. 20:33 UTC snapshot — same day). No content-gap rows (impr≥50, CTR<2%) this week — clean.
 - **Next run:** #4191/#4192 are both self-contained, low-risk, high-confidence single fixes — good CEO-promotion candidates. Do not re-propose Endorsement Tracker or comparison-pairs veins until #4169/#4180/#4182/#4161/#4162 ship and a fresh diff runs. Consider whether other `/llms/*.md` hub files (`stats.md` at "61 drummers", `index.md` dated 2026-06-19) have similar generator-ownership gaps — not filed this run (lower severity, date drift only, no missing live pages), but worth a fresh look if the bank needs refilling and #4192's fix pattern proves out. Bank goes from 10 to 12 this run.
+
+---
+
+## 2026-07-10 (bank-capped run) — root roster-drift audit: found 5 concrete, evidence-backed gaps
+
+### Context
+Bank check: 6 open `seo-proposal` issues, but only 3 are real actionable proposals (#4180 endorsement tracker, #4161 comparison pairs, #4160 Casagrande album-arc — all still open/unshipped); the other 3 are standing umbrella trackers (#3819, #3810, #2211). Well under the 45 floor → filed up to 8, chose 5 high-confidence proposals over padding to the cap.
+
+Priority-framework issues #870–#874 (technique pages, gear-brand pages, Quick Facts, `/llms/<drummer>.md`, internal-linking blocks) are all **CLOSED/shipped**. Metrics show no GSC content-gap rows this week (impr≥50, CTR<2%) — clean, so this run focused on a root-cause data-integrity audit instead of a specific query gap.
+
+### What I found (all independently verified via Node eval / grep diff, not assumed)
+Followed up on the prior run's note about `stats.md`/`index.md` staleness and found the actual root cause runs deeper than date drift:
+- **`api/sitemap.js`'s hardcoded drummer roster array (lines 67–89) has only 61 entries vs. 65 in `api/drummers/index.js`** — diffed both arrays by name. Missing: Martin Axenrot, Paul Bostaph, Sean Reinert, Nick Menza. All 4 have full profile data (bio/gear/kitOverview) and are cited elsewhere (licks, guides, FAQ, birthdays.md) but have **zero XML sitemap entry** — a real indexation gap, not just a content gap.
+- **`public/llms/drummers/` has 62/65 files** — same 3 missing (Bostaph/Reinert/Menza; Axenrot's file already exists). Root cause: `scripts/generate-llms-drummers.cjs` reads dynamically from `api/drummers/index.js` (no hardcoded roster) — it's already correct, just hasn't been re-run since these 3 were added to the API.
+- **Content-accuracy bug in `public/llms/bpm.md`**: 4 rows for Rust in Peace / Countdown to Extinction tracks display "Nick Menza" but link to `/drummer/dirk-verbeuren` (Megadeth's much-later drummer). Source data `metalSongsBpm.js` is correct (`drummer: "nick-menza"`) — bug is isolated to the generated markdown. Same class as #4191 (Daray/Dimmu Borgir), which the CEO promoted same-day.
+- **3rd occurrence of the stale-hub-file bug**: `index.md` (2026-06-19, "63 drummers"/"15 tracked" claims), `stats.md` (2026-06-18, "61 drummers"), and `llms.txt` ("63 drummers"/"61 comparisons"/"15 metal drummers") are all stale vs. live data — same bug class as #4192 (endorsements.md hub), now caught a 2nd and 3rd time.
+- **Systemic root cause**: 23 generator scripts in `scripts/generate-llms-*.cjs` produce the entire `/llms/` surface, but none are wired into `package.json` or any `.github/workflows/*.yml` — confirmed via grep, zero hits. Nothing catches drift automatically; it's only ever found by manual audit (3 times now in 2 runs).
+
+### Filed this run
+1. #4201 — SEO: Add 4 missing drummers to XML sitemap roster (Axenrot, Bostaph, Reinert, Menza)
+2. #4202 — SEO: Generate 3 missing /llms/drummers/*.md files (Bostaph, Reinert, Menza)
+3. #4203 — SEO: Fix 4 broken Nick Menza links in /llms/bpm.md (point to Dirk Verbeuren instead)
+4. #4204 — SEO: Regenerate stale /llms/index.md, /llms/stats.md, /llms.txt drummer/roster counts
+5. #4205 — SEO: Add CI check to catch /llms/*.md hub files going stale (root-cause fix)
+
+### Next run
+- #4201/#4202 should land together or #4201 first — sitemap discoverability is the higher-value half.
+- #4205 (CI drift-check) is the highest-leverage fix of the 5 — if it ships, this exact audit vein (stale hub files, roster drift) retires as a recurring proposal source. Don't re-run this same audit until #4205 ships or a meaningful amount of new drummer/data content is added.
+- Once #4201/#4202 ship, Nick Menza/Paul Bostaph/Sean Reinert become fully onboarded (65/65 sitemap + llms coverage) — worth a fresh comparison-pairs/endorsement-tracker gap check against the *new* 65-drummer roster (not just the 62 used by #4161/#4180), but only after those ship to avoid duplicate proposals.
+- Bank goes from 3 real actionable proposals to 8 this run (5 new + #4180/#4161/#4160 still pending CEO triage).
 - **Next run:** #4190 is a clean, self-contained, high-confidence single-surface fix — good promotion candidate. Do not re-propose Evans/Remo once shipped. Continue avoiding comparison-pairs (#4161/#4162 still queued) and Endorsement Tracker (#4169/#4180/#4182 fully queued, completes to 53/62) until those ship. Checked and confirmed still saturated: SoundLike guides (67/67, covers full roster + extras like jon-dette/nick-menza/paul-bostaph/sean-reinert/martin-axenrot/adrian-erlandsson), Drummer Evolution (67/67), Gear Price History (67/67). Considered and correctly dropped: an Eloy Casagrande "album-arc batch 2" lead (Roots 1996, Dante XXI 2006) — these predate his 2011 Sepultura entry, factually wrong to attribute to him; his real discography (Kairos/Mediator/Machine Messiah/Quadra) is fully covered once #4160 ships. A `/gear/drumheads` top-level category page is a related but separate, larger-scope gap (would also need the same `GEAR_DATABASE` "no fabricated products" scope question) — worth a fresh, dedicated look once #4190 ships, not bundled in here. Bank goes from 9 to 10 this run.

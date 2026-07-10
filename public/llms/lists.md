@@ -1478,21 +1478,25 @@ Flo Mounier (Cryptopsy) earns rank #3 for: redefined physical extremity. Flo Mou
 
 Full profile: https://metalforge.io/drummer/flo-mounier
 
-### 4. Drummer #60
+### 4. Kevin Talley
 
-**Band:** Unknown
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Brutal death metal's touring workhorse
 **Why ranked here:** Kevin Talley's drumming for Dying Fetus, Misery Index, and Six Feet Under helped define brutal death metal's incredibly fast and precise modern sound across multiple essential bands
 
-Drummer #60 (Unknown) earns rank #4 for: brutal death metal's touring workhorse. Kevin Talley's drumming for Dying Fetus, Misery Index, and Six Feet Under helped define brutal death metal's incredibly fast and precise modern sound across multiple essential bands.
+Kevin Talley (Dying Fetus / Misery Index) earns rank #4 for: brutal death metal's touring workhorse. Kevin Talley's drumming for Dying Fetus, Misery Index, and Six Feet Under helped define brutal death metal's incredibly fast and precise modern sound across multiple essential bands.
 
-### 5. Drummer #51
+Full profile: https://metalforge.io/drummer/kevin-talley
 
-**Band:** Unknown
+### 5. Paul Mazurkiewicz
+
+**Band:** Cannibal Corpse
 **Highlight:** Three decades of Cannibal Corpse brutality
 **Why ranked here:** Paul Mazurkiewicz has powered Cannibal Corpse — brutal death metal's most commercially successful band — since 1988, his unwavering double bass discipline anchoring the genre's most recognizable sound
 
-Drummer #51 (Unknown) earns rank #5 for: three decades of cannibal corpse brutality. Paul Mazurkiewicz has powered Cannibal Corpse — brutal death metal's most commercially successful band — since 1988, his unwavering double bass discipline anchoring the genre's most recognizable sound.
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #5 for: three decades of cannibal corpse brutality. Paul Mazurkiewicz has powered Cannibal Corpse — brutal death metal's most commercially successful band — since 1988, his unwavering double bass discipline anchoring the genre's most recognizable sound.
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 6. George Kollias
 
@@ -1524,13 +1528,15 @@ Gene Hoglan (Death / Testament / Dethklok) earns rank #8 for: the atomic clock's
 
 Full profile: https://metalforge.io/drummer/gene-hoglan
 
-### 9. Drummer #56
+### 9. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Technical death metal's brutal edge
 **Why ranked here:** Hannes Grossmann's work with Obscura and Necrophagist applies conservatory-level technical precision to brutal death metal's punishing tempo and pattern demands
 
-Drummer #56 (Unknown) earns rank #9 for: technical death metal's brutal edge. Hannes Grossmann's work with Obscura and Necrophagist applies conservatory-level technical precision to brutal death metal's punishing tempo and pattern demands.
+Hannes Grossmann (Obscura / Necrophagist) earns rank #9 for: technical death metal's brutal edge. Hannes Grossmann's work with Obscura and Necrophagist applies conservatory-level technical precision to brutal death metal's punishing tempo and pattern demands.
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 10. Richard Christy
 
@@ -1596,21 +1602,25 @@ Daray (Dimmu Borgir / Vader) earns rank #4 for: symphonic black metal powerhouse
 
 Full profile: https://metalforge.io/drummer/daray
 
-### 5. Drummer #55
+### 5. Jaska Raatikainen
 
-**Band:** Unknown
+**Band:** Children of Bodom
 **Highlight:** Finnish extreme metal innovator
 **Why ranked here:** Children of Bodom's melodic black/death metal virtuosity and blazing double bass
 
-Drummer #55 (Unknown) earns rank #5 for: finnish extreme metal innovator. Children of Bodom's melodic black/death metal virtuosity and blazing double bass.
+Jaska Raatikainen (Children of Bodom) earns rank #5 for: finnish extreme metal innovator. Children of Bodom's melodic black/death metal virtuosity and blazing double bass.
 
-### 6. Drummer #54
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
-**Band:** Unknown
+### 6. Daniel Erlandsson
+
+**Band:** Arch Enemy
 **Highlight:** Scandinavian extreme metal precision
 **Why ranked here:** Arch Enemy's melodic death metal rooted deeply in the Scandinavian black metal tradition
 
-Drummer #54 (Unknown) earns rank #6 for: scandinavian extreme metal precision. Arch Enemy's melodic death metal rooted deeply in the Scandinavian black metal tradition.
+Daniel Erlandsson (Arch Enemy) earns rank #6 for: scandinavian extreme metal precision. Arch Enemy's melodic death metal rooted deeply in the Scandinavian black metal tradition.
+
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
 ### 7. Flo Mounier
 
@@ -1830,29 +1840,35 @@ Hellhammer (Mayhem) earns rank #5 for: black metal's primal founding force. Hell
 
 Full profile: https://metalforge.io/drummer/hellhammer
 
-### 6. Drummer #51
+### 6. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Death metal's most consistent extremist
 **Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across 35+ years — his relentless consistency at extreme tempos across 15 albums makes him death metal's most enduring extreme drummer
 
-Drummer #51 (Unknown) earns rank #6 for: death metal's most consistent extremist. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across 35+ years — his relentless consistency at extreme tempos across 15 albums makes him death metal's most enduring extreme drummer.
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #6 for: death metal's most consistent extremist. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across 35+ years — his relentless consistency at extreme tempos across 15 albums makes him death metal's most enduring extreme drummer.
 
-### 7. Drummer #60
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
-**Band:** Unknown
+### 7. Kevin Talley
+
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Brutal death metal and grindcore fury
 **Why ranked here:** Kevin Talley's work with Dying Fetus and Misery Index represents brutal death metal at its most punishing — his ability to sustain extreme grindcore tempos while maintaining groove is unmatched in the underground
 
-Drummer #60 (Unknown) earns rank #7 for: brutal death metal and grindcore fury. Kevin Talley's work with Dying Fetus and Misery Index represents brutal death metal at its most punishing — his ability to sustain extreme grindcore tempos while maintaining groove is unmatched in the underground.
+Kevin Talley (Dying Fetus / Misery Index) earns rank #7 for: brutal death metal and grindcore fury. Kevin Talley's work with Dying Fetus and Misery Index represents brutal death metal at its most punishing — his ability to sustain extreme grindcore tempos while maintaining groove is unmatched in the underground.
 
-### 8. Drummer #56
+Full profile: https://metalforge.io/drummer/kevin-talley
 
-**Band:** Unknown
+### 8. Hannes Grossmann
+
+**Band:** Obscura / Necrophagist
 **Highlight:** Technical death metal's surgical architect
 **Why ranked here:** Hannes Grossmann's work with Necrophagist and Obscura represents technical death metal's most precise extreme drumming — surgical note placement at extreme speeds is his hallmark
 
-Drummer #56 (Unknown) earns rank #8 for: technical death metal's surgical architect. Hannes Grossmann's work with Necrophagist and Obscura represents technical death metal's most precise extreme drumming — surgical note placement at extreme speeds is his hallmark.
+Hannes Grossmann (Obscura / Necrophagist) earns rank #8 for: technical death metal's surgical architect. Hannes Grossmann's work with Necrophagist and Obscura represents technical death metal's most precise extreme drumming — surgical note placement at extreme speeds is his hallmark.
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 9. Frost
 
@@ -2508,13 +2524,15 @@ Martin Lopez (Soen / ex-Opeth) earns rank #5 for: the greatest dynamic range in 
 
 Full profile: https://metalforge.io/drummer/martin-lopez
 
-### 6. Drummer #60
+### 6. Kevin Talley
 
-**Band:** Unknown
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Grindcore precision meets brutal death metal groove
 **Why ranked here:** Kevin Talley's work with Dying Fetus and Misery Index represents extreme metal drumming at its most punishing and grooviest simultaneously — a combination most drummers can't manage at half the speed, yet he operates largely under the mainstream radar
 
-Drummer #60 (Unknown) earns rank #6 for: grindcore precision meets brutal death metal groove. Kevin Talley's work with Dying Fetus and Misery Index represents extreme metal drumming at its most punishing and grooviest simultaneously — a combination most drummers can't manage at half the speed, yet he operates largely under the mainstream radar.
+Kevin Talley (Dying Fetus / Misery Index) earns rank #6 for: grindcore precision meets brutal death metal groove. Kevin Talley's work with Dying Fetus and Misery Index represents extreme metal drumming at its most punishing and grooviest simultaneously — a combination most drummers can't manage at half the speed, yet he operates largely under the mainstream radar.
+
+Full profile: https://metalforge.io/drummer/kevin-talley
 
 ### 7. Travis Orbin
 
@@ -2620,13 +2638,15 @@ Morgan Ågren (Mats/Morgan Band / Fredrik Thordendal's Special Defects) earns ra
 
 Full profile: https://metalforge.io/drummer/morgan-agren
 
-### 5. Drummer #51
+### 5. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Death metal's most enduring standard — 35+ years, 15 albums, zero compromises
 **Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across more than three decades without a single lineup change — a consistency record unmatched in extreme metal. As co-founding drummer of the best-selling death metal band in history, his relentless blast beats and precise double bass patterns have defined brutal death metal's rhythmic standard across 15 studio albums recorded between 1990 and 2023. His approach prioritizes sustained power and consistency over speed records or technical innovation, which in brutal death metal's context represents its own form of mastery: the ability to maintain extreme physical standards night after night on 200+ show tours for 35 consecutive years. His precision at 200+ BPM over full concert sets, combined with his compositional consistency across albums that span multiple decades, makes him death metal's most reliable extreme standards bearer.
 
-Drummer #51 (Unknown) earns rank #5 for: death metal's most enduring standard — 35+ years, 15 albums, zero compromises. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across more than three decades without a single lineup change — a consistency record unmatched in extreme metal. As co-founding drummer of the best-selling death metal band in history, his relentless blast beats and precise double bass patterns have defined brutal death metal's rhythmic standard across 15 studio albums recorded between 1990 and 2023. His approach prioritizes sustained power and consistency over speed records or technical innovation, which in brutal death metal's context represents its own form of mastery: the ability to maintain extreme physical standards night after night on 200+ show tours for 35 consecutive years. His precision at 200+ BPM over full concert sets, combined with his compositional consistency across albums that span multiple decades, makes him death metal's most reliable extreme standards bearer..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #5 for: death metal's most enduring standard — 35+ years, 15 albums, zero compromises. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard across more than three decades without a single lineup change — a consistency record unmatched in extreme metal. As co-founding drummer of the best-selling death metal band in history, his relentless blast beats and precise double bass patterns have defined brutal death metal's rhythmic standard across 15 studio albums recorded between 1990 and 2023. His approach prioritizes sustained power and consistency over speed records or technical innovation, which in brutal death metal's context represents its own form of mastery: the ability to maintain extreme physical standards night after night on 200+ show tours for 35 consecutive years. His precision at 200+ BPM over full concert sets, combined with his compositional consistency across albums that span multiple decades, makes him death metal's most reliable extreme standards bearer..
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 6. Bill Ward
 
@@ -2668,13 +2688,15 @@ Igor Cavalera (Sepultura / Cavalera Conspiracy) earns rank #9 for: death's final
 
 Full profile: https://metalforge.io/drummer/igor-cavalera
 
-### 10. Drummer #56
+### 10. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Necrophagist and Obscura — technical death metal's surgical precision ceiling
 **Why ranked here:** Hannes Grossmann's drumming with Necrophagist and Obscura defines technical death metal's compositional precision ceiling. Necrophagist's music derives from classical counterpoint applied to extreme metal — every note is mathematically placed, and Grossmann's drumming executes that vision with a precision that makes complex patterns sound inevitable rather than labored. His work on "Epitaph" represents technical death metal at its most classically-informed and compositionally sophisticated, while his subsequent Obscura and Alkaloid work demonstrates that technical death metal drumming can continue to evolve beyond its established vocabulary. His later educational and session work has made him a major figure in technical death metal drumming's global community beyond his own recording career.
 
-Drummer #56 (Unknown) earns rank #10 for: necrophagist and obscura — technical death metal's surgical precision ceiling. Hannes Grossmann's drumming with Necrophagist and Obscura defines technical death metal's compositional precision ceiling. Necrophagist's music derives from classical counterpoint applied to extreme metal — every note is mathematically placed, and Grossmann's drumming executes that vision with a precision that makes complex patterns sound inevitable rather than labored. His work on "Epitaph" represents technical death metal at its most classically-informed and compositionally sophisticated, while his subsequent Obscura and Alkaloid work demonstrates that technical death metal drumming can continue to evolve beyond its established vocabulary. His later educational and session work has made him a major figure in technical death metal drumming's global community beyond his own recording career..
+Hannes Grossmann (Obscura / Necrophagist) earns rank #10 for: necrophagist and obscura — technical death metal's surgical precision ceiling. Hannes Grossmann's drumming with Necrophagist and Obscura defines technical death metal's compositional precision ceiling. Necrophagist's music derives from classical counterpoint applied to extreme metal — every note is mathematically placed, and Grossmann's drumming executes that vision with a precision that makes complex patterns sound inevitable rather than labored. His work on "Epitaph" represents technical death metal at its most classically-informed and compositionally sophisticated, while his subsequent Obscura and Alkaloid work demonstrates that technical death metal drumming can continue to evolve beyond its established vocabulary. His later educational and session work has made him a major figure in technical death metal drumming's global community beyond his own recording career..
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### Conclusion
 
@@ -2990,21 +3012,25 @@ Inferno (Behemoth) earns rank #4 for: blackened symphonic precision — behemoth
 
 Full profile: https://metalforge.io/drummer/inferno
 
-### 5. Drummer #55
+### 5. Jaska Raatikainen
 
-**Band:** Unknown
+**Band:** Children of Bodom
 **Highlight:** Finnish melodic-symphonic virtuosity — Children of Bodom's blazing double bass
 **Why ranked here:** Jaska Raatikainen's Children of Bodom work demonstrates how symphonic melodic death metal drumming combines keyboard-orchestrated arrangements with blazing double bass precision and technically demanding fills that complement rather than overwhelm the orchestral elements
 
-Drummer #55 (Unknown) earns rank #5 for: finnish melodic-symphonic virtuosity — children of bodom's blazing double bass. Jaska Raatikainen's Children of Bodom work demonstrates how symphonic melodic death metal drumming combines keyboard-orchestrated arrangements with blazing double bass precision and technically demanding fills that complement rather than overwhelm the orchestral elements.
+Jaska Raatikainen (Children of Bodom) earns rank #5 for: finnish melodic-symphonic virtuosity — children of bodom's blazing double bass. Jaska Raatikainen's Children of Bodom work demonstrates how symphonic melodic death metal drumming combines keyboard-orchestrated arrangements with blazing double bass precision and technically demanding fills that complement rather than overwhelm the orchestral elements.
 
-### 6. Drummer #54
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
-**Band:** Unknown
+### 6. Daniel Erlandsson
+
+**Band:** Arch Enemy
 **Highlight:** Swedish melodic death metal — symphonic Arch Enemy precision
 **Why ranked here:** Daniel Erlandsson's Arch Enemy work brings Scandinavian melodic death metal precision to arrangements with significant symphonic and cinematic production, demonstrating how extreme metal drumming can serve melodically ambitious music without compromising its aggression
 
-Drummer #54 (Unknown) earns rank #6 for: swedish melodic death metal — symphonic arch enemy precision. Daniel Erlandsson's Arch Enemy work brings Scandinavian melodic death metal precision to arrangements with significant symphonic and cinematic production, demonstrating how extreme metal drumming can serve melodically ambitious music without compromising its aggression.
+Daniel Erlandsson (Arch Enemy) earns rank #6 for: swedish melodic death metal — symphonic arch enemy precision. Daniel Erlandsson's Arch Enemy work brings Scandinavian melodic death metal precision to arrangements with significant symphonic and cinematic production, demonstrating how extreme metal drumming can serve melodically ambitious music without compromising its aggression.
+
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
 ### 7. Martin Lopez
 
@@ -3080,13 +3106,15 @@ Pete Sandoval (Morbid Angel) earns rank #2 for: the death metal double bass pion
 
 Full profile: https://metalforge.io/drummer/pete-sandoval
 
-### 3. Drummer #51
+### 3. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse consistency — brutal death metal's 35-year standard
 **Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal blackened death metal standard for 35+ years and 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in the genre's history
 
-Drummer #51 (Unknown) earns rank #3 for: cannibal corpse consistency — brutal death metal's 35-year standard. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal blackened death metal standard for 35+ years and 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in the genre's history.
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #3 for: cannibal corpse consistency — brutal death metal's 35-year standard. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal blackened death metal standard for 35+ years and 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in the genre's history.
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 4. Hellhammer
 
@@ -3148,13 +3176,15 @@ Gene Hoglan (Death / Testament / Dethklok) earns rank #9 for: the atomic clock �
 
 Full profile: https://metalforge.io/drummer/gene-hoglan
 
-### 10. Drummer #54
+### 10. Daniel Erlandsson
 
-**Band:** Unknown
+**Band:** Arch Enemy
 **Highlight:** Arch Enemy's Scandinavian blackened death metal roots
 **Why ranked here:** Daniel Erlandsson's Arch Enemy and Eucharist work is rooted in the Swedish blackened death metal tradition — melodic death metal with deep black metal atmospheric and technical origins that connect directly to the genre's Scandinavian founding scene
 
-Drummer #54 (Unknown) earns rank #10 for: arch enemy's scandinavian blackened death metal roots. Daniel Erlandsson's Arch Enemy and Eucharist work is rooted in the Swedish blackened death metal tradition — melodic death metal with deep black metal atmospheric and technical origins that connect directly to the genre's Scandinavian founding scene.
+Daniel Erlandsson (Arch Enemy) earns rank #10 for: arch enemy's scandinavian blackened death metal roots. Daniel Erlandsson's Arch Enemy and Eucharist work is rooted in the Swedish blackened death metal tradition — melodic death metal with deep black metal atmospheric and technical origins that connect directly to the genre's Scandinavian founding scene.
+
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
 ### About This List
 
@@ -3320,13 +3350,15 @@ Flo Mounier (Cryptopsy) earns rank #3 for: gravity blast inventor — cryptopsy'
 
 Full profile: https://metalforge.io/drummer/flo-mounier
 
-### 4. Drummer #51
+### 4. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse — 35+ years of brutal technical death metal consistency
 **Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal technical death metal standard for over 35 years across 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in technical death metal history
 
-Drummer #51 (Unknown) earns rank #4 for: cannibal corpse — 35+ years of brutal technical death metal consistency. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal technical death metal standard for over 35 years across 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in technical death metal history.
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #4 for: cannibal corpse — 35+ years of brutal technical death metal consistency. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal technical death metal standard for over 35 years across 15 studio albums — his relentless blast beat consistency and precise double bass patterns at 200+ BPM make him the most enduring extreme drummer in technical death metal history.
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 5. Derek Roddy
 
@@ -3338,13 +3370,15 @@ Derek Roddy (Hate Eternal / Nile) earns rank #5 for: "one take" discipline — h
 
 Full profile: https://metalforge.io/drummer/derek-roddy
 
-### 6. Drummer #56
+### 6. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Obscura — European technical death metal's compositional standard
 **Why ranked here:** Hannes Grossmann's Obscura and Blotted Science work represents the European technical death metal tradition at its most sophisticated — combining Cynic-influenced jazz vocabulary with precision and compositional ambition that distinguishes the European school from the American brutal death metal approach
 
-Drummer #56 (Unknown) earns rank #6 for: obscura — european technical death metal's compositional standard. Hannes Grossmann's Obscura and Blotted Science work represents the European technical death metal tradition at its most sophisticated — combining Cynic-influenced jazz vocabulary with precision and compositional ambition that distinguishes the European school from the American brutal death metal approach.
+Hannes Grossmann (Obscura / Necrophagist) earns rank #6 for: obscura — european technical death metal's compositional standard. Hannes Grossmann's Obscura and Blotted Science work represents the European technical death metal tradition at its most sophisticated — combining Cynic-influenced jazz vocabulary with precision and compositional ambition that distinguishes the European school from the American brutal death metal approach.
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 7. Pete Sandoval
 
@@ -3376,13 +3410,15 @@ Tim Yeung (Morbid Angel / Hate Eternal / Vital Remains) earns rank #9 for: morbi
 
 Full profile: https://metalforge.io/drummer/tim-yeung
 
-### 10. Drummer #60
+### 10. Kevin Talley
 
-**Band:** Unknown
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Dying Fetus and Misery Index — brutal technical death metal's grinding standard
 **Why ranked here:** Kevin Talley's Dying Fetus and Misery Index work represents the brutal side of technical death metal — grinding precision at extreme speeds combined with complex polyrhythmic patterns that distinguish technical brutal death metal from straight brutality
 
-Drummer #60 (Unknown) earns rank #10 for: dying fetus and misery index — brutal technical death metal's grinding standard. Kevin Talley's Dying Fetus and Misery Index work represents the brutal side of technical death metal — grinding precision at extreme speeds combined with complex polyrhythmic patterns that distinguish technical brutal death metal from straight brutality.
+Kevin Talley (Dying Fetus / Misery Index) earns rank #10 for: dying fetus and misery index — brutal technical death metal's grinding standard. Kevin Talley's Dying Fetus and Misery Index work represents the brutal side of technical death metal — grinding precision at extreme speeds combined with complex polyrhythmic patterns that distinguish technical brutal death metal from straight brutality.
+
+Full profile: https://metalforge.io/drummer/kevin-talley
 
 ### Related Lists
 
@@ -3454,13 +3490,15 @@ Martin Lopez (Soen / ex-Opeth) earns rank #5 for: opeth — atmospheric progress
 
 Full profile: https://metalforge.io/drummer/martin-lopez
 
-### 6. Drummer #55
+### 6. Jaska Raatikainen
 
-**Band:** Unknown
+**Band:** Children of Bodom
 **Highlight:** Children of Bodom — Finnish atmospheric extreme metal's speed and texture
 **Why ranked here:** Jaska Raatikainen's Children of Bodom work combines atmospheric melodic black metal's textural ambitions with Finnish extreme metal's characteristic speed — keyboard-orchestrated atmospheric compositions delivered with double bass precision that serves the music's harmonic richness
 
-Drummer #55 (Unknown) earns rank #6 for: children of bodom — finnish atmospheric extreme metal's speed and texture. Jaska Raatikainen's Children of Bodom work combines atmospheric melodic black metal's textural ambitions with Finnish extreme metal's characteristic speed — keyboard-orchestrated atmospheric compositions delivered with double bass precision that serves the music's harmonic richness.
+Jaska Raatikainen (Children of Bodom) earns rank #6 for: children of bodom — finnish atmospheric extreme metal's speed and texture. Jaska Raatikainen's Children of Bodom work combines atmospheric melodic black metal's textural ambitions with Finnish extreme metal's characteristic speed — keyboard-orchestrated atmospheric compositions delivered with double bass precision that serves the music's harmonic richness.
+
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
 ### 7. Jocke Wallgren
 
@@ -3472,13 +3510,15 @@ Jocke Wallgren (Amon Amarth) earns rank #7 for: amon amarth — atmospheric viki
 
 Full profile: https://metalforge.io/drummer/jocke-wallgren
 
-### 8. Drummer #54
+### 8. Daniel Erlandsson
 
-**Band:** Unknown
+**Band:** Arch Enemy
 **Highlight:** Arch Enemy and Eucharist — Swedish atmospheric black metal roots
 **Why ranked here:** Daniel Erlandsson's early Eucharist work is rooted in the Swedish atmospheric black metal tradition, and his Arch Enemy career demonstrates how that atmospheric black metal foundation enables melodic death metal drumming of exceptional technical and emotional range
 
-Drummer #54 (Unknown) earns rank #8 for: arch enemy and eucharist — swedish atmospheric black metal roots. Daniel Erlandsson's early Eucharist work is rooted in the Swedish atmospheric black metal tradition, and his Arch Enemy career demonstrates how that atmospheric black metal foundation enables melodic death metal drumming of exceptional technical and emotional range.
+Daniel Erlandsson (Arch Enemy) earns rank #8 for: arch enemy and eucharist — swedish atmospheric black metal roots. Daniel Erlandsson's early Eucharist work is rooted in the Swedish atmospheric black metal tradition, and his Arch Enemy career demonstrates how that atmospheric black metal foundation enables melodic death metal drumming of exceptional technical and emotional range.
+
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
 ### 9. Brann Dailor
 
@@ -3887,13 +3927,15 @@ Pete Sandoval (Morbid Angel) earns rank #1 for: terrorizer — deathgrind's foun
 
 Full profile: https://metalforge.io/drummer/pete-sandoval
 
-### 2. Drummer #60
+### 2. Kevin Talley
 
-**Band:** Unknown
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Dying Fetus — deathgrind's modern technical and brutal standard
 **Why ranked here:** Kevin Talley's Dying Fetus work on "Killing on Adrenaline" and "Destroying the Opus" represents deathgrind's modern standard — brutal, groovy, technically precise at extreme speeds, with a characteristic integration of groove into brutality that distinguishes the best deathgrind from straight brutality without compositional intelligence. His Misery Index tenure extended his deathgrind credentials through one of the genre's most consistently excellent American bands. His Pearl kit and double bass precision serve deathgrind's demand for simultaneous savagery and rhythmic coherence
 
-Drummer #60 (Unknown) earns rank #2 for: dying fetus — deathgrind's modern technical and brutal standard. Kevin Talley's Dying Fetus work on "Killing on Adrenaline" and "Destroying the Opus" represents deathgrind's modern standard — brutal, groovy, technically precise at extreme speeds, with a characteristic integration of groove into brutality that distinguishes the best deathgrind from straight brutality without compositional intelligence. His Misery Index tenure extended his deathgrind credentials through one of the genre's most consistently excellent American bands. His Pearl kit and double bass precision serve deathgrind's demand for simultaneous savagery and rhythmic coherence.
+Kevin Talley (Dying Fetus / Misery Index) earns rank #2 for: dying fetus — deathgrind's modern technical and brutal standard. Kevin Talley's Dying Fetus work on "Killing on Adrenaline" and "Destroying the Opus" represents deathgrind's modern standard — brutal, groovy, technically precise at extreme speeds, with a characteristic integration of groove into brutality that distinguishes the best deathgrind from straight brutality without compositional intelligence. His Misery Index tenure extended his deathgrind credentials through one of the genre's most consistently excellent American bands. His Pearl kit and double bass precision serve deathgrind's demand for simultaneous savagery and rhythmic coherence.
+
+Full profile: https://metalforge.io/drummer/kevin-talley
 
 ### 3. Drummer #68
 
@@ -3913,13 +3955,15 @@ Morgan Ågren (Mats/Morgan Band / Fredrik Thordendal's Special Defects) earns ra
 
 Full profile: https://metalforge.io/drummer/morgan-agren
 
-### 5. Drummer #51
+### 5. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse — brutal death metal's most enduringly consistent deathgrind-adjacent standard
 **Why ranked here:** Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard for 35+ years and 15 studio albums — his relentless blast beat precision and double bass patterns at 200+ BPM make him deathgrind's most enduringly consistent extreme drummer. While Cannibal Corpse is primarily brutal death metal rather than deathgrind, Mazurkiewicz's technical vocabulary and sustained extreme career represent the adjacent skill set that deathgrind's most serious practitioners require, and his longevity defines the benchmark for sustainable extreme drumming
 
-Drummer #51 (Unknown) earns rank #5 for: cannibal corpse — brutal death metal's most enduringly consistent deathgrind-adjacent standard. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard for 35+ years and 15 studio albums — his relentless blast beat precision and double bass patterns at 200+ BPM make him deathgrind's most enduringly consistent extreme drummer. While Cannibal Corpse is primarily brutal death metal rather than deathgrind, Mazurkiewicz's technical vocabulary and sustained extreme career represent the adjacent skill set that deathgrind's most serious practitioners require, and his longevity defines the benchmark for sustainable extreme drumming.
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #5 for: cannibal corpse — brutal death metal's most enduringly consistent deathgrind-adjacent standard. Paul Mazurkiewicz has sustained Cannibal Corpse's brutal death metal standard for 35+ years and 15 studio albums — his relentless blast beat precision and double bass patterns at 200+ BPM make him deathgrind's most enduringly consistent extreme drummer. While Cannibal Corpse is primarily brutal death metal rather than deathgrind, Mazurkiewicz's technical vocabulary and sustained extreme career represent the adjacent skill set that deathgrind's most serious practitioners require, and his longevity defines the benchmark for sustainable extreme drumming.
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 6. Drummer #69
 
@@ -4391,21 +4435,25 @@ Aquiles Priester (Angra / W.A.S.P.) earns rank #1 for: angra's neo-classical pow
 
 Full profile: https://metalforge.io/drummer/aquiles-priester
 
-### 2. Drummer #55
+### 2. Jaska Raatikainen
 
-**Band:** Unknown
+**Band:** Children of Bodom
 **Highlight:** Children of Bodom's neoclassical melodic death metal co-founder
 **Why ranked here:** Jaska Raatikainen co-founded Children of Bodom in 1993 and spent 26 years driving the band's signature fusion of neoclassical melodies and aggressive death metal, his precise double bass work giving Alexi Laiho's Malmsteen-inspired guitar-keyboard duels a rock-solid rhythmic foundation
 
-Drummer #55 (Unknown) earns rank #2 for: children of bodom's neoclassical melodic death metal co-founder. Jaska Raatikainen co-founded Children of Bodom in 1993 and spent 26 years driving the band's signature fusion of neoclassical melodies and aggressive death metal, his precise double bass work giving Alexi Laiho's Malmsteen-inspired guitar-keyboard duels a rock-solid rhythmic foundation.
+Jaska Raatikainen (Children of Bodom) earns rank #2 for: children of bodom's neoclassical melodic death metal co-founder. Jaska Raatikainen co-founded Children of Bodom in 1993 and spent 26 years driving the band's signature fusion of neoclassical melodies and aggressive death metal, his precise double bass work giving Alexi Laiho's Malmsteen-inspired guitar-keyboard duels a rock-solid rhythmic foundation.
 
-### 3. Drummer #54
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
-**Band:** Unknown
+### 3. Daniel Erlandsson
+
+**Band:** Arch Enemy
 **Highlight:** Arch Enemy's neo-classical-informed melodic death metal engine
 **Why ranked here:** Daniel Erlandsson co-founded Arch Enemy in 1995 alongside guitarist Michael Amott, whose Malmsteen-influenced neo-classical lead lines define the band's sound — Erlandsson's technically precise, Scandinavian-schooled drumming gives that neo-classical guitar vocabulary its rhythmic backbone
 
-Drummer #54 (Unknown) earns rank #3 for: arch enemy's neo-classical-informed melodic death metal engine. Daniel Erlandsson co-founded Arch Enemy in 1995 alongside guitarist Michael Amott, whose Malmsteen-influenced neo-classical lead lines define the band's sound — Erlandsson's technically precise, Scandinavian-schooled drumming gives that neo-classical guitar vocabulary its rhythmic backbone.
+Daniel Erlandsson (Arch Enemy) earns rank #3 for: arch enemy's neo-classical-informed melodic death metal engine. Daniel Erlandsson co-founded Arch Enemy in 1995 alongside guitarist Michael Amott, whose Malmsteen-influenced neo-classical lead lines define the band's sound — Erlandsson's technically precise, Scandinavian-schooled drumming gives that neo-classical guitar vocabulary its rhythmic backbone.
+
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
 ### 4. Mike Portnoy
 
@@ -4535,13 +4583,15 @@ Mike Mangini (Dream Theater) earns rank #4 for: world-record-holding speed and p
 
 Full profile: https://metalforge.io/drummer/mike-mangini
 
-### 5. Drummer #56
+### 5. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Obscura and Necrophagist's European technical extremity standard
 **Why ranked here:** Hannes Grossmann's work with Necrophagist and Obscura represents technical death metal's most shred-adjacent extreme — cosmic, through-composed songs demanding the same flawless high-speed execution guitar shred culture prizes, translated into blast beats and complex fills
 
-Drummer #56 (Unknown) earns rank #5 for: obscura and necrophagist's european technical extremity standard. Hannes Grossmann's work with Necrophagist and Obscura represents technical death metal's most shred-adjacent extreme — cosmic, through-composed songs demanding the same flawless high-speed execution guitar shred culture prizes, translated into blast beats and complex fills.
+Hannes Grossmann (Obscura / Necrophagist) earns rank #5 for: obscura and necrophagist's european technical extremity standard. Hannes Grossmann's work with Necrophagist and Obscura represents technical death metal's most shred-adjacent extreme — cosmic, through-composed songs demanding the same flawless high-speed execution guitar shred culture prizes, translated into blast beats and complex fills.
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 6. George Kollias
 
@@ -4613,21 +4663,25 @@ The rhythmic backbone of the Gothenburg sound and its global descendants. Melodi
 
 ### Rankings
 
-### 1. Drummer #54
+### 1. Daniel Erlandsson
 
-**Band:** Unknown
+**Band:** Arch Enemy
 **Highlight:** Arch Enemy's founding rhythmic architect since 1995
 **Why ranked here:** Daniel Erlandsson co-founded Arch Enemy in 1995 and has anchored every album since, combining Scandinavian death metal intensity with the technical precision and musicality that gives Michael Amott's melodic lead lines their rhythmic foundation. His prior work with Eucharist and In Flames places him at the genre's Gothenburg source
 
-Drummer #54 (Unknown) earns rank #1 for: arch enemy's founding rhythmic architect since 1995. Daniel Erlandsson co-founded Arch Enemy in 1995 and has anchored every album since, combining Scandinavian death metal intensity with the technical precision and musicality that gives Michael Amott's melodic lead lines their rhythmic foundation. His prior work with Eucharist and In Flames places him at the genre's Gothenburg source.
+Daniel Erlandsson (Arch Enemy) earns rank #1 for: arch enemy's founding rhythmic architect since 1995. Daniel Erlandsson co-founded Arch Enemy in 1995 and has anchored every album since, combining Scandinavian death metal intensity with the technical precision and musicality that gives Michael Amott's melodic lead lines their rhythmic foundation. His prior work with Eucharist and In Flames places him at the genre's Gothenburg source.
 
-### 2. Drummer #55
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
-**Band:** Unknown
+### 2. Jaska Raatikainen
+
+**Band:** Children of Bodom
 **Highlight:** Children of Bodom's neoclassical melodic death metal co-founder
 **Why ranked here:** Jaska Raatikainen co-founded Children of Bodom in 1993 and spent 26 years driving the band's signature fusion of neoclassical melody and aggressive death metal alongside the late Alexi Laiho, his precise double bass work giving the guitar-keyboard duels a rock-solid rhythmic foundation
 
-Drummer #55 (Unknown) earns rank #2 for: children of bodom's neoclassical melodic death metal co-founder. Jaska Raatikainen co-founded Children of Bodom in 1993 and spent 26 years driving the band's signature fusion of neoclassical melody and aggressive death metal alongside the late Alexi Laiho, his precise double bass work giving the guitar-keyboard duels a rock-solid rhythmic foundation.
+Jaska Raatikainen (Children of Bodom) earns rank #2 for: children of bodom's neoclassical melodic death metal co-founder. Jaska Raatikainen co-founded Children of Bodom in 1993 and spent 26 years driving the band's signature fusion of neoclassical melody and aggressive death metal alongside the late Alexi Laiho, his precise double bass work giving the guitar-keyboard duels a rock-solid rhythmic foundation.
+
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
 ### 3. Jocke Wallgren
 
@@ -4649,13 +4703,15 @@ Dirk Verbeuren (Megadeth) earns rank #4 for: soilwork's defining rhythmic voice 
 
 Full profile: https://metalforge.io/drummer/dirk-verbeuren
 
-### 5. Drummer #56
+### 5. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Obscura's technical-melodic death metal precision
 **Why ranked here:** Hannes Grossmann's work with Obscura and Necrophagist brings conservatory-grade technical proficiency to death metal's melodic, compositionally ambitious wing — classical music influences combined with extreme metal precision that expands what melodic death metal drumming can technically achieve
 
-Drummer #56 (Unknown) earns rank #5 for: obscura's technical-melodic death metal precision. Hannes Grossmann's work with Obscura and Necrophagist brings conservatory-grade technical proficiency to death metal's melodic, compositionally ambitious wing — classical music influences combined with extreme metal precision that expands what melodic death metal drumming can technically achieve.
+Hannes Grossmann (Obscura / Necrophagist) earns rank #5 for: obscura's technical-melodic death metal precision. Hannes Grossmann's work with Obscura and Necrophagist brings conservatory-grade technical proficiency to death metal's melodic, compositionally ambitious wing — classical music influences combined with extreme metal precision that expands what melodic death metal drumming can technically achieve.
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 6. Mario Duplantier
 
@@ -4765,13 +4821,15 @@ Flo Mounier (Cryptopsy) earns rank #4 for: gravity blast innovation that shaped 
 
 Full profile: https://metalforge.io/drummer/flo-mounier
 
-### 5. Drummer #60
+### 5. Kevin Talley
 
-**Band:** Unknown
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Brutal death metal and grindcore's crossover speed standard
 **Why ranked here:** Kevin Talley's incredibly fast, precise drumming across Dying Fetus, Misery Index, Six Feet Under, and metalcore-adjacent Chimaira helped define the brutal death metal sound deathcore draws its blast beat intensity from, while his Chimaira tenure connects directly to the metalcore side of the fusion
 
-Drummer #60 (Unknown) earns rank #5 for: brutal death metal and grindcore's crossover speed standard. Kevin Talley's incredibly fast, precise drumming across Dying Fetus, Misery Index, Six Feet Under, and metalcore-adjacent Chimaira helped define the brutal death metal sound deathcore draws its blast beat intensity from, while his Chimaira tenure connects directly to the metalcore side of the fusion.
+Kevin Talley (Dying Fetus / Misery Index) earns rank #5 for: brutal death metal and grindcore's crossover speed standard. Kevin Talley's incredibly fast, precise drumming across Dying Fetus, Misery Index, Six Feet Under, and metalcore-adjacent Chimaira helped define the brutal death metal sound deathcore draws its blast beat intensity from, while his Chimaira tenure connects directly to the metalcore side of the fusion.
+
+Full profile: https://metalforge.io/drummer/kevin-talley
 
 ### 6. George Kollias
 
@@ -4981,13 +5039,15 @@ Morgan Ågren (Mats/Morgan Band / Fredrik Thordendal's Special Defects) earns ra
 
 Full profile: https://metalforge.io/drummer/morgan-agren
 
-### 3. Drummer #60
+### 3. Kevin Talley
 
-**Band:** Unknown
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Dying Fetus and Misery Index's grindcore-caliber speed
 **Why ranked here:** Kevin Talley's work spans brutal death metal and grindcore directly — Dying Fetus, Misery Index, and Six Feet Under all showcase the incredibly fast, precise drumming that helped define brutal death metal's grindcore-adjacent extremity
 
-Drummer #60 (Unknown) earns rank #3 for: dying fetus and misery index's grindcore-caliber speed. Kevin Talley's work spans brutal death metal and grindcore directly — Dying Fetus, Misery Index, and Six Feet Under all showcase the incredibly fast, precise drumming that helped define brutal death metal's grindcore-adjacent extremity.
+Kevin Talley (Dying Fetus / Misery Index) earns rank #3 for: dying fetus and misery index's grindcore-caliber speed. Kevin Talley's work spans brutal death metal and grindcore directly — Dying Fetus, Misery Index, and Six Feet Under all showcase the incredibly fast, precise drumming that helped define brutal death metal's grindcore-adjacent extremity.
+
+Full profile: https://metalforge.io/drummer/kevin-talley
 
 ### 4. Bill Ward
 
@@ -5049,13 +5109,15 @@ Gene Hoglan (Death / Testament / Dethklok) earns rank #9 for: the atomic clock's
 
 Full profile: https://metalforge.io/drummer/gene-hoglan
 
-### 10. Drummer #56
+### 10. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Obscura's classically-trained extreme speed
 **Why ranked here:** Hannes Grossmann's work with Obscura and Necrophagist combines classical music training with extreme metal precision, extending grindcore's blast beat vocabulary into technically demanding, compositionally ambitious territory
 
-Drummer #56 (Unknown) earns rank #10 for: obscura's classically-trained extreme speed. Hannes Grossmann's work with Obscura and Necrophagist combines classical music training with extreme metal precision, extending grindcore's blast beat vocabulary into technically demanding, compositionally ambitious territory.
+Hannes Grossmann (Obscura / Necrophagist) earns rank #10 for: obscura's classically-trained extreme speed. Hannes Grossmann's work with Obscura and Necrophagist combines classical music training with extreme metal precision, extending grindcore's blast beat vocabulary into technically demanding, compositionally ambitious territory.
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### Related Lists
 
@@ -5097,13 +5159,15 @@ Hellhammer (Mayhem) earns rank #2 for: mayhem's norwegian black metal foundation
 
 Full profile: https://metalforge.io/drummer/hellhammer
 
-### 3. Drummer #54
+### 3. Daniel Erlandsson
 
-**Band:** Unknown
+**Band:** Arch Enemy
 **Highlight:** Arch Enemy and the Gothenburg scene Amon Amarth shares
 **Why ranked here:** Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his Scandinavian death metal intensity and technical precision reflecting the same rhythmic tradition Viking metal draws its melodic backbone from
 
-Drummer #54 (Unknown) earns rank #3 for: arch enemy and the gothenburg scene amon amarth shares. Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his Scandinavian death metal intensity and technical precision reflecting the same rhythmic tradition Viking metal draws its melodic backbone from.
+Daniel Erlandsson (Arch Enemy) earns rank #3 for: arch enemy and the gothenburg scene amon amarth shares. Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his Scandinavian death metal intensity and technical precision reflecting the same rhythmic tradition Viking metal draws its melodic backbone from.
+
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
 ### 4. Daray
 
@@ -5115,13 +5179,15 @@ Daray (Dimmu Borgir / Vader) earns rank #4 for: dimmu borgir's norwegian symphon
 
 Full profile: https://metalforge.io/drummer/daray
 
-### 5. Drummer #55
+### 5. Jaska Raatikainen
 
-**Band:** Unknown
+**Band:** Children of Bodom
 **Highlight:** Children of Bodom's Finnish melodic extremity
 **Why ranked here:** Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993, his neoclassical-melody-driven drumming part of the same Nordic melodic death metal tradition that feeds Viking metal's anthemic songwriting
 
-Drummer #55 (Unknown) earns rank #5 for: children of bodom's finnish melodic extremity. Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993, his neoclassical-melody-driven drumming part of the same Nordic melodic death metal tradition that feeds Viking metal's anthemic songwriting.
+Jaska Raatikainen (Children of Bodom) earns rank #5 for: children of bodom's finnish melodic extremity. Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993, his neoclassical-melody-driven drumming part of the same Nordic melodic death metal tradition that feeds Viking metal's anthemic songwriting.
+
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
 ### 6. Tomas Haake
 
@@ -5163,13 +5229,15 @@ Alex Bent (ex-Trivium / Arkaík / Dragonlord) earns rank #9 for: sepultura's tri
 
 Full profile: https://metalforge.io/drummer/alex-bent
 
-### 10. Drummer #56
+### 10. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** European technical extreme metal counterpart
 **Why ranked here:** Hannes Grossmann's classically-informed technical death metal work with Germany's Obscura and Necrophagist represents the broader European extreme metal scene that runs parallel to Scandinavian Viking and black metal, sharing its commitment to compositionally ambitious extremity
 
-Drummer #56 (Unknown) earns rank #10 for: european technical extreme metal counterpart. Hannes Grossmann's classically-informed technical death metal work with Germany's Obscura and Necrophagist represents the broader European extreme metal scene that runs parallel to Scandinavian Viking and black metal, sharing its commitment to compositionally ambitious extremity.
+Hannes Grossmann (Obscura / Necrophagist) earns rank #10 for: european technical extreme metal counterpart. Hannes Grossmann's classically-informed technical death metal work with Germany's Obscura and Necrophagist represents the broader European extreme metal scene that runs parallel to Scandinavian Viking and black metal, sharing its commitment to compositionally ambitious extremity.
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### Related Lists
 
@@ -5487,13 +5555,15 @@ Tim Yeung (Morbid Angel / Hate Eternal / Vital Remains) earns rank #6 for: morbi
 
 Full profile: https://metalforge.io/drummer/tim-yeung
 
-### 7. Drummer #60
+### 7. Kevin Talley
 
-**Band:** Unknown
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Dying Fetus and Misery Index's violent extremity
 **Why ranked here:** Kevin Talley's brutal death metal and grindcore work with Dying Fetus and Misery Index brings the same relentless, violent intensity that war metal's chaotic battlefield aesthetic demands, if channeled through a more structured death metal framework
 
-Drummer #60 (Unknown) earns rank #7 for: dying fetus and misery index's violent extremity. Kevin Talley's brutal death metal and grindcore work with Dying Fetus and Misery Index brings the same relentless, violent intensity that war metal's chaotic battlefield aesthetic demands, if channeled through a more structured death metal framework.
+Kevin Talley (Dying Fetus / Misery Index) earns rank #7 for: dying fetus and misery index's violent extremity. Kevin Talley's brutal death metal and grindcore work with Dying Fetus and Misery Index brings the same relentless, violent intensity that war metal's chaotic battlefield aesthetic demands, if channeled through a more structured death metal framework.
+
+Full profile: https://metalforge.io/drummer/kevin-talley
 
 ### 8. Bill Ward
 
@@ -5505,13 +5575,15 @@ Bill Ward (Black Sabbath) earns rank #8 for: hate eternal's "king of all kings" 
 
 Full profile: https://metalforge.io/drummer/bill-ward
 
-### 9. Drummer #56
+### 9. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Obscura's technically extreme death metal assault
 **Why ranked here:** Hannes Grossmann's classically-informed technical death metal work with Obscura and Necrophagist demonstrates that extreme velocity and bestial intensity can coexist with compositional ambition, extending war metal's DNA into more technical territory
 
-Drummer #56 (Unknown) earns rank #9 for: obscura's technically extreme death metal assault. Hannes Grossmann's classically-informed technical death metal work with Obscura and Necrophagist demonstrates that extreme velocity and bestial intensity can coexist with compositional ambition, extending war metal's DNA into more technical territory.
+Hannes Grossmann (Obscura / Necrophagist) earns rank #9 for: obscura's technically extreme death metal assault. Hannes Grossmann's classically-informed technical death metal work with Obscura and Necrophagist demonstrates that extreme velocity and bestial intensity can coexist with compositional ambition, extending war metal's DNA into more technical territory.
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 10. Morgan Ågren
 
@@ -5731,13 +5803,15 @@ Full profile: https://metalforge.io/drummer/igor-cavalera
 
 Drummer #61 (Unknown) earns rank #7 for: trivium's modern technical thrash-death hybrid. Alex Bent brought technical death metal precision into Trivium's increasingly thrash-and-djent-influenced modern sound, demonstrating how technical thrash's demanding rhythmic vocabulary has continued evolving well into the 2010s and 2020s.
 
-### 8. Drummer #56
+### 8. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Obscura's classically-trained technical extremity
 **Why ranked here:** Hannes Grossmann's classical training and technical death metal precision with Obscura and Necrophagist extend technical thrash's rhythmic complexity into compositionally ambitious territory, the same virtuosic standard technical thrash's founders established in the 1980s
 
-Drummer #56 (Unknown) earns rank #8 for: obscura's classically-trained technical extremity. Hannes Grossmann's classical training and technical death metal precision with Obscura and Necrophagist extend technical thrash's rhythmic complexity into compositionally ambitious territory, the same virtuosic standard technical thrash's founders established in the 1980s.
+Hannes Grossmann (Obscura / Necrophagist) earns rank #8 for: obscura's classically-trained technical extremity. Hannes Grossmann's classical training and technical death metal precision with Obscura and Necrophagist extend technical thrash's rhythmic complexity into compositionally ambitious territory, the same virtuosic standard technical thrash's founders established in the 1980s.
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 9. Eloy Casagrande
 
@@ -5819,21 +5893,25 @@ Daray (Dimmu Borgir / Vader) earns rank #4 for: dimmu borgir and vader — symph
 
 Full profile: https://metalforge.io/drummer/daray
 
-### 5. Drummer #54
+### 5. Daniel Erlandsson
 
-**Band:** Unknown
+**Band:** Arch Enemy
 **Highlight:** Arch Enemy's Swedish melodic death metal foundation
 **Why ranked here:** Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish extreme metal scene that produced Amon Amarth, his technically precise melodic death metal drumming reflecting the same Scandinavian rhythmic tradition pagan metal draws its melodic backbone from
 
-Drummer #54 (Unknown) earns rank #5 for: arch enemy's swedish melodic death metal foundation. Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish extreme metal scene that produced Amon Amarth, his technically precise melodic death metal drumming reflecting the same Scandinavian rhythmic tradition pagan metal draws its melodic backbone from.
+Daniel Erlandsson (Arch Enemy) earns rank #5 for: arch enemy's swedish melodic death metal foundation. Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish extreme metal scene that produced Amon Amarth, his technically precise melodic death metal drumming reflecting the same Scandinavian rhythmic tradition pagan metal draws its melodic backbone from.
 
-### 6. Drummer #55
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
-**Band:** Unknown
+### 6. Jaska Raatikainen
+
+**Band:** Children of Bodom
 **Highlight:** Children of Bodom's Finnish neoclassical melody
 **Why ranked here:** Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993, his neoclassical-melody-driven drumming part of the same Nordic melodic death metal tradition that feeds pagan metal's anthemic, folk-inflected songwriting
 
-Drummer #55 (Unknown) earns rank #6 for: children of bodom's finnish neoclassical melody. Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993, his neoclassical-melody-driven drumming part of the same Nordic melodic death metal tradition that feeds pagan metal's anthemic, folk-inflected songwriting.
+Jaska Raatikainen (Children of Bodom) earns rank #6 for: children of bodom's finnish neoclassical melody. Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993, his neoclassical-melody-driven drumming part of the same Nordic melodic death metal tradition that feeds pagan metal's anthemic, folk-inflected songwriting.
+
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
 ### 7. Alex Bent
 
@@ -6195,13 +6273,15 @@ Gene Hoglan (Death / Testament / Dethklok) earns rank #6 for: death's doom-death
 
 Full profile: https://metalforge.io/drummer/gene-hoglan
 
-### 7. Drummer #51
+### 7. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse's crushing, tempo-locked weight
 **Why ranked here:** Paul Mazurkiewicz has anchored Cannibal Corpse's brutal death metal for over 35 years, and the band's slower, tempo-locked passages beneath its blast beat catalog carry the same tonnage-first philosophy doom metal built its entire identity around, filtered through death metal's chromatic brutality
 
-Drummer #51 (Unknown) earns rank #7 for: cannibal corpse's crushing, tempo-locked weight. Paul Mazurkiewicz has anchored Cannibal Corpse's brutal death metal for over 35 years, and the band's slower, tempo-locked passages beneath its blast beat catalog carry the same tonnage-first philosophy doom metal built its entire identity around, filtered through death metal's chromatic brutality.
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #7 for: cannibal corpse's crushing, tempo-locked weight. Paul Mazurkiewicz has anchored Cannibal Corpse's brutal death metal for over 35 years, and the band's slower, tempo-locked passages beneath its blast beat catalog carry the same tonnage-first philosophy doom metal built its entire identity around, filtered through death metal's chromatic brutality.
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 8. Daray
 
@@ -6421,21 +6501,25 @@ Navene Koperweis (Entheos / ex-Animals as Leaders) earns rank #5 for: sweden's f
 
 Full profile: https://metalforge.io/drummer/navene-koperweis
 
-### 6. Drummer #54
+### 6. Daniel Erlandsson
 
-**Band:** Unknown
+**Band:** Arch Enemy
 **Highlight:** Arch Enemy and the Gothenburg scene folk metal shares
 **Why ranked here:** Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his technically precise drumming reflecting the same Scandinavian melodic tradition folk metal draws its anthemic, folk-inflected songwriting from
 
-Drummer #54 (Unknown) earns rank #6 for: arch enemy and the gothenburg scene folk metal shares. Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his technically precise drumming reflecting the same Scandinavian melodic tradition folk metal draws its anthemic, folk-inflected songwriting from.
+Daniel Erlandsson (Arch Enemy) earns rank #6 for: arch enemy and the gothenburg scene folk metal shares. Daniel Erlandsson co-founded Arch Enemy in 1995 within the same Swedish Gothenburg melodic death metal scene that produced Amon Amarth, his technically precise drumming reflecting the same Scandinavian melodic tradition folk metal draws its anthemic, folk-inflected songwriting from.
 
-### 7. Drummer #55
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
-**Band:** Unknown
+### 7. Jaska Raatikainen
+
+**Band:** Children of Bodom
 **Highlight:** Children of Bodom's Finnish neoclassical folk melody
 **Why ranked here:** Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993, his neoclassical-melody-driven drumming part of the same Nordic melodic death metal tradition that feeds folk metal's anthemic, folk-inflected songwriting throughout Scandinavia
 
-Drummer #55 (Unknown) earns rank #7 for: children of bodom's finnish neoclassical folk melody. Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993, his neoclassical-melody-driven drumming part of the same Nordic melodic death metal tradition that feeds folk metal's anthemic, folk-inflected songwriting throughout Scandinavia.
+Jaska Raatikainen (Children of Bodom) earns rank #7 for: children of bodom's finnish neoclassical folk melody. Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993, his neoclassical-melody-driven drumming part of the same Nordic melodic death metal tradition that feeds folk metal's anthemic, folk-inflected songwriting throughout Scandinavia.
+
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
 ### 8. Hellhammer
 
@@ -6789,13 +6873,15 @@ Arin Ilejay (ex-Avenged Sevenfold) earns rank #5 for: fear factory's mechanical,
 
 Full profile: https://metalforge.io/drummer/arin-ilejay
 
-### 6. Drummer #51
+### 6. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse's crushing, tempo-locked foundation
 **Why ranked here:** Paul Mazurkiewicz has anchored Cannibal Corpse's brutal death metal for over 35 years, and the band's slower, tempo-locked passages beneath its blast-beat catalog carry the same tonnage-first philosophy sludge metal built its entire identity around, filtered through death metal's chromatic brutality. Paul Mazurkiewicz earns rank #6 for demonstrating sludge metal's crushing-weight principle extends into extreme death metal's own rhythmic vocabulary.
 
-Drummer #51 (Unknown) earns rank #6 for: cannibal corpse's crushing, tempo-locked foundation. Paul Mazurkiewicz has anchored Cannibal Corpse's brutal death metal for over 35 years, and the band's slower, tempo-locked passages beneath its blast-beat catalog carry the same tonnage-first philosophy sludge metal built its entire identity around, filtered through death metal's chromatic brutality. Paul Mazurkiewicz earns rank #6 for demonstrating sludge metal's crushing-weight principle extends into extreme death metal's own rhythmic vocabulary..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #6 for: cannibal corpse's crushing, tempo-locked foundation. Paul Mazurkiewicz has anchored Cannibal Corpse's brutal death metal for over 35 years, and the band's slower, tempo-locked passages beneath its blast-beat catalog carry the same tonnage-first philosophy sludge metal built its entire identity around, filtered through death metal's chromatic brutality. Paul Mazurkiewicz earns rank #6 for demonstrating sludge metal's crushing-weight principle extends into extreme death metal's own rhythmic vocabulary..
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 7. Gene Hoglan
 
@@ -6877,13 +6963,15 @@ Matt Garstka (Animals as Leaders) earns rank #2 for: animals as leaders' jazz-fu
 
 Full profile: https://metalforge.io/drummer/matt-garstka
 
-### 3. Drummer #56
+### 3. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Obscura's classically-trained technical precision
 **Why ranked here:** Hannes Grossmann's work with Obscura, Necrophagist, and Alkaloid combines classical music influences with extreme metal precision, delivering the kind of rigorously calculated, technically demanding drumming that math metal's mathcore-descended rhythmic complexity depends on. Hannes Grossmann earns rank #3 as widely regarded one of the most technically proficient drummers in death metal, translating classical rigor into math metal's rhythmic puzzle-solving.
 
-Drummer #56 (Unknown) earns rank #3 for: obscura's classically-trained technical precision. Hannes Grossmann's work with Obscura, Necrophagist, and Alkaloid combines classical music influences with extreme metal precision, delivering the kind of rigorously calculated, technically demanding drumming that math metal's mathcore-descended rhythmic complexity depends on. Hannes Grossmann earns rank #3 as widely regarded one of the most technically proficient drummers in death metal, translating classical rigor into math metal's rhythmic puzzle-solving..
+Hannes Grossmann (Obscura / Necrophagist) earns rank #3 for: obscura's classically-trained technical precision. Hannes Grossmann's work with Obscura, Necrophagist, and Alkaloid combines classical music influences with extreme metal precision, delivering the kind of rigorously calculated, technically demanding drumming that math metal's mathcore-descended rhythmic complexity depends on. Hannes Grossmann earns rank #3 as widely regarded one of the most technically proficient drummers in death metal, translating classical rigor into math metal's rhythmic puzzle-solving..
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 4. George Kollias
 
@@ -6983,13 +7071,15 @@ Gene Hoglan (Death / Testament / Dethklok) earns rank #1 for: death's tempo-shif
 
 Full profile: https://metalforge.io/drummer/gene-hoglan
 
-### 2. Drummer #51
+### 2. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse's crushing, tempo-locked breakdowns
 **Why ranked here:** Paul Mazurkiewicz has anchored Cannibal Corpse's brutal death metal for over 35 years, and the band's slower, chromatic breakdown passages beneath its blast-beat catalog carry the same tonnage-first philosophy death-doom built its identity around — tracks like "Hammer Smashed Face" pivot between blast beats and crushing, doom-adjacent half-time sections that mirror death-doom's structural DNA. Paul Mazurkiewicz earns rank #2 for sustaining that dual-tempo discipline across 15 studio albums without ever softening the death metal brutality underneath.
 
-Drummer #51 (Unknown) earns rank #2 for: cannibal corpse's crushing, tempo-locked breakdowns. Paul Mazurkiewicz has anchored Cannibal Corpse's brutal death metal for over 35 years, and the band's slower, chromatic breakdown passages beneath its blast-beat catalog carry the same tonnage-first philosophy death-doom built its identity around — tracks like "Hammer Smashed Face" pivot between blast beats and crushing, doom-adjacent half-time sections that mirror death-doom's structural DNA. Paul Mazurkiewicz earns rank #2 for sustaining that dual-tempo discipline across 15 studio albums without ever softening the death metal brutality underneath..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #2 for: cannibal corpse's crushing, tempo-locked breakdowns. Paul Mazurkiewicz has anchored Cannibal Corpse's brutal death metal for over 35 years, and the band's slower, chromatic breakdown passages beneath its blast-beat catalog carry the same tonnage-first philosophy death-doom built its identity around — tracks like "Hammer Smashed Face" pivot between blast beats and crushing, doom-adjacent half-time sections that mirror death-doom's structural DNA. Paul Mazurkiewicz earns rank #2 for sustaining that dual-tempo discipline across 15 studio albums without ever softening the death metal brutality underneath..
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 3. Brann Dailor
 
@@ -7041,21 +7131,25 @@ Bill Ward (Black Sabbath) earns rank #7 for: hate eternal's disciplined tempo co
 
 Full profile: https://metalforge.io/drummer/bill-ward
 
-### 8. Drummer #56
+### 8. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Obscura's classically-trained deceleration control
 **Why ranked here:** Hannes Grossmann's work with Obscura and Necrophagist combines classical music training with extreme metal's technical demands, delivering the kind of rigorously calculated playing that death-doom's tempo transitions require — his ability to maintain compositional intent through sudden shifts from blast-beat velocity to crushing, doom-adjacent half-time sections reflects a classically-trained sense of structure rare in extreme metal. Hannes Grossmann earns rank #8 for a technical foundation built on the same disciplined control death-doom's dual-extremity songwriting demands.
 
-Drummer #56 (Unknown) earns rank #8 for: obscura's classically-trained deceleration control. Hannes Grossmann's work with Obscura and Necrophagist combines classical music training with extreme metal's technical demands, delivering the kind of rigorously calculated playing that death-doom's tempo transitions require — his ability to maintain compositional intent through sudden shifts from blast-beat velocity to crushing, doom-adjacent half-time sections reflects a classically-trained sense of structure rare in extreme metal. Hannes Grossmann earns rank #8 for a technical foundation built on the same disciplined control death-doom's dual-extremity songwriting demands..
+Hannes Grossmann (Obscura / Necrophagist) earns rank #8 for: obscura's classically-trained deceleration control. Hannes Grossmann's work with Obscura and Necrophagist combines classical music training with extreme metal's technical demands, delivering the kind of rigorously calculated playing that death-doom's tempo transitions require — his ability to maintain compositional intent through sudden shifts from blast-beat velocity to crushing, doom-adjacent half-time sections reflects a classically-trained sense of structure rare in extreme metal. Hannes Grossmann earns rank #8 for a technical foundation built on the same disciplined control death-doom's dual-extremity songwriting demands..
 
-### 9. Drummer #60
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
-**Band:** Unknown
+### 9. Kevin Talley
+
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Six Feet Under's death-doom-adjacent groove
 **Why ranked here:** Kevin Talley's work with Six Feet Under put him inside one of American death metal's most explicitly doom-and-groove-indebted bands — Chris Barnes's post-Cannibal Corpse project traded blast-beat density for slower, crushing tempos that sit closer to death-doom's tonnage-first philosophy than most brutal death metal. Talley's additional work with Dying Fetus and Misery Index brings grindcore-level speed to contrast against that deliberate Six Feet Under pacing. Kevin Talley earns rank #9 for a career that spans both ends of death-doom's tempo spectrum.
 
-Drummer #60 (Unknown) earns rank #9 for: six feet under's death-doom-adjacent groove. Kevin Talley's work with Six Feet Under put him inside one of American death metal's most explicitly doom-and-groove-indebted bands — Chris Barnes's post-Cannibal Corpse project traded blast-beat density for slower, crushing tempos that sit closer to death-doom's tonnage-first philosophy than most brutal death metal. Talley's additional work with Dying Fetus and Misery Index brings grindcore-level speed to contrast against that deliberate Six Feet Under pacing. Kevin Talley earns rank #9 for a career that spans both ends of death-doom's tempo spectrum..
+Kevin Talley (Dying Fetus / Misery Index) earns rank #9 for: six feet under's death-doom-adjacent groove. Kevin Talley's work with Six Feet Under put him inside one of American death metal's most explicitly doom-and-groove-indebted bands — Chris Barnes's post-Cannibal Corpse project traded blast-beat density for slower, crushing tempos that sit closer to death-doom's tonnage-first philosophy than most brutal death metal. Talley's additional work with Dying Fetus and Misery Index brings grindcore-level speed to contrast against that deliberate Six Feet Under pacing. Kevin Talley earns rank #9 for a career that spans both ends of death-doom's tempo spectrum..
+
+Full profile: https://metalforge.io/drummer/kevin-talley
 
 ### 10. Alex Bent
 
@@ -7387,21 +7481,25 @@ Mike Mangini (Dream Theater) earns rank #6 for: dream theater's continuing techn
 
 Full profile: https://metalforge.io/drummer/mike-mangini
 
-### 7. Drummer #54
+### 7. Daniel Erlandsson
 
-**Band:** Unknown
+**Band:** Arch Enemy
 **Highlight:** Arch Enemy — Swedish melodic gallop precision
 **Why ranked here:** Daniel Erlandsson's galloping, melodically-driven double bass work with Arch Enemy shares power metal's triplet-based rhythmic vocabulary and technical precision, translated into melodic death metal's harsher vocal context — a Scandinavian rhythmic tradition that runs directly parallel to European power metal's own melodic, galloping foundation. Daniel Erlandsson earns rank #7 for a melodic gallop technique power metal's European scene shares.
 
-Drummer #54 (Unknown) earns rank #7 for: arch enemy — swedish melodic gallop precision. Daniel Erlandsson's galloping, melodically-driven double bass work with Arch Enemy shares power metal's triplet-based rhythmic vocabulary and technical precision, translated into melodic death metal's harsher vocal context — a Scandinavian rhythmic tradition that runs directly parallel to European power metal's own melodic, galloping foundation. Daniel Erlandsson earns rank #7 for a melodic gallop technique power metal's European scene shares..
+Daniel Erlandsson (Arch Enemy) earns rank #7 for: arch enemy — swedish melodic gallop precision. Daniel Erlandsson's galloping, melodically-driven double bass work with Arch Enemy shares power metal's triplet-based rhythmic vocabulary and technical precision, translated into melodic death metal's harsher vocal context — a Scandinavian rhythmic tradition that runs directly parallel to European power metal's own melodic, galloping foundation. Daniel Erlandsson earns rank #7 for a melodic gallop technique power metal's European scene shares..
 
-### 8. Drummer #55
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
-**Band:** Unknown
+### 8. Jaska Raatikainen
+
+**Band:** Children of Bodom
 **Highlight:** Children of Bodom — keyboard-driven Finnish speed
 **Why ranked here:** Jaska Raatikainen's blazing double bass and keyboard-synchronized precision with Children of Bodom mirror power metal's own signature combination — virtuosic, keyboard-orchestrated speed — even though Bodom's melodic death metal vocals place the band outside power metal's traditional clean-vocal wing. Jaska Raatikainen earns rank #8 for keyboard-driven speed technique power metal's Finnish and European scenes both depend on.
 
-Drummer #55 (Unknown) earns rank #8 for: children of bodom — keyboard-driven finnish speed. Jaska Raatikainen's blazing double bass and keyboard-synchronized precision with Children of Bodom mirror power metal's own signature combination — virtuosic, keyboard-orchestrated speed — even though Bodom's melodic death metal vocals place the band outside power metal's traditional clean-vocal wing. Jaska Raatikainen earns rank #8 for keyboard-driven speed technique power metal's Finnish and European scenes both depend on..
+Jaska Raatikainen (Children of Bodom) earns rank #8 for: children of bodom — keyboard-driven finnish speed. Jaska Raatikainen's blazing double bass and keyboard-synchronized precision with Children of Bodom mirror power metal's own signature combination — virtuosic, keyboard-orchestrated speed — even though Bodom's melodic death metal vocals place the band outside power metal's traditional clean-vocal wing. Jaska Raatikainen earns rank #8 for keyboard-driven speed technique power metal's Finnish and European scenes both depend on..
+
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
 ### 9. Gavin Harrison
 
@@ -7563,21 +7661,25 @@ The percussionists behind death metal's most breakdown-obsessed, pit-focused ext
 
 ### Rankings
 
-### 1. Drummer #60
+### 1. Kevin Talley
 
-**Band:** Unknown
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Dying Fetus's groove-and-blast breakdown architect
 **Why ranked here:** Kevin Talley's 1998–2002 tenure in Dying Fetus helped forge the groove-heavy, breakdown-driven template — chugging palm-mutes exploding into sudden blast-beat bursts — that slam death metal's modern generation builds on, a lineage he extended through later stints in Six Feet Under and Suffocation. Kevin Talley earns rank #1 as the genre's most direct working credit currently in MetalForge's database.
 
-Drummer #60 (Unknown) earns rank #1 for: dying fetus's groove-and-blast breakdown architect. Kevin Talley's 1998–2002 tenure in Dying Fetus helped forge the groove-heavy, breakdown-driven template — chugging palm-mutes exploding into sudden blast-beat bursts — that slam death metal's modern generation builds on, a lineage he extended through later stints in Six Feet Under and Suffocation. Kevin Talley earns rank #1 as the genre's most direct working credit currently in MetalForge's database..
+Kevin Talley (Dying Fetus / Misery Index) earns rank #1 for: dying fetus's groove-and-blast breakdown architect. Kevin Talley's 1998–2002 tenure in Dying Fetus helped forge the groove-heavy, breakdown-driven template — chugging palm-mutes exploding into sudden blast-beat bursts — that slam death metal's modern generation builds on, a lineage he extended through later stints in Six Feet Under and Suffocation. Kevin Talley earns rank #1 as the genre's most direct working credit currently in MetalForge's database..
 
-### 2. Drummer #51
+Full profile: https://metalforge.io/drummer/kevin-talley
 
-**Band:** Unknown
+### 2. Paul Mazurkiewicz
+
+**Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse's groove-locked breakdown discipline
 **Why ranked here:** Paul Mazurkiewicz has anchored Cannibal Corpse since 1988, and the band's groove-oriented sections — slower, tom-driven breakdowns punctuating relentless blast beats — established a blueprint for pairing crushing groove with extremity that slam death metal's breakdown-first songwriting depends on. Paul Mazurkiewicz earns rank #2 for three decades spent making brutal death metal's most commercially successful band also its most groove-disciplined.
 
-Drummer #51 (Unknown) earns rank #2 for: cannibal corpse's groove-locked breakdown discipline. Paul Mazurkiewicz has anchored Cannibal Corpse since 1988, and the band's groove-oriented sections — slower, tom-driven breakdowns punctuating relentless blast beats — established a blueprint for pairing crushing groove with extremity that slam death metal's breakdown-first songwriting depends on. Paul Mazurkiewicz earns rank #2 for three decades spent making brutal death metal's most commercially successful band also its most groove-disciplined..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #2 for: cannibal corpse's groove-locked breakdown discipline. Paul Mazurkiewicz has anchored Cannibal Corpse since 1988, and the band's groove-oriented sections — slower, tom-driven breakdowns punctuating relentless blast beats — established a blueprint for pairing crushing groove with extremity that slam death metal's breakdown-first songwriting depends on. Paul Mazurkiewicz earns rank #2 for three decades spent making brutal death metal's most commercially successful band also its most groove-disciplined..
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 3. George Kollias
 
@@ -7935,21 +8037,25 @@ Frost (Satyricon / 1349) earns rank #2 for: satyricon — norwegian melodic blac
 
 Full profile: https://metalforge.io/drummer/frost
 
-### 3. Drummer #55
+### 3. Jaska Raatikainen
 
-**Band:** Unknown
+**Band:** Children of Bodom
 **Highlight:** Children of Bodom — Finnish melodic black-death hybrid speed
 **Why ranked here:** Jaska Raatikainen's Children of Bodom drumming fuses melodic black metal's harmonic ambition with Finnish extreme metal's characteristic speed, driving keyboard-and-guitar-harmonized compositions with double-bass precision that never sacrifices the songs' melodic clarity for pure extremity. Jaska Raatikainen earns rank #3 for the genre's most technically demanding melodic-black-and-death crossover.
 
-Drummer #55 (Unknown) earns rank #3 for: children of bodom — finnish melodic black-death hybrid speed. Jaska Raatikainen's Children of Bodom drumming fuses melodic black metal's harmonic ambition with Finnish extreme metal's characteristic speed, driving keyboard-and-guitar-harmonized compositions with double-bass precision that never sacrifices the songs' melodic clarity for pure extremity. Jaska Raatikainen earns rank #3 for the genre's most technically demanding melodic-black-and-death crossover..
+Jaska Raatikainen (Children of Bodom) earns rank #3 for: children of bodom — finnish melodic black-death hybrid speed. Jaska Raatikainen's Children of Bodom drumming fuses melodic black metal's harmonic ambition with Finnish extreme metal's characteristic speed, driving keyboard-and-guitar-harmonized compositions with double-bass precision that never sacrifices the songs' melodic clarity for pure extremity. Jaska Raatikainen earns rank #3 for the genre's most technically demanding melodic-black-and-death crossover..
 
-### 4. Drummer #54
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
-**Band:** Unknown
+### 4. Daniel Erlandsson
+
+**Band:** Arch Enemy
 **Highlight:** Arch Enemy and Eucharist — Swedish melodic black metal roots
 **Why ranked here:** Daniel Erlandsson's early work in Eucharist grew directly out of the Swedish melodic black metal scene, and his three-decade Arch Enemy career demonstrates how that melodic black metal foundation matured into melodic death metal's harmonized twin-guitar songwriting. Daniel Erlandsson earns rank #4 for carrying Swedish melodic black metal's harmonic sensibility into one of extreme metal's most enduring bands.
 
-Drummer #54 (Unknown) earns rank #4 for: arch enemy and eucharist — swedish melodic black metal roots. Daniel Erlandsson's early work in Eucharist grew directly out of the Swedish melodic black metal scene, and his three-decade Arch Enemy career demonstrates how that melodic black metal foundation matured into melodic death metal's harmonized twin-guitar songwriting. Daniel Erlandsson earns rank #4 for carrying Swedish melodic black metal's harmonic sensibility into one of extreme metal's most enduring bands..
+Daniel Erlandsson (Arch Enemy) earns rank #4 for: arch enemy and eucharist — swedish melodic black metal roots. Daniel Erlandsson's early work in Eucharist grew directly out of the Swedish melodic black metal scene, and his three-decade Arch Enemy career demonstrates how that melodic black metal foundation matured into melodic death metal's harmonized twin-guitar songwriting. Daniel Erlandsson earns rank #4 for carrying Swedish melodic black metal's harmonic sensibility into one of extreme metal's most enduring bands..
+
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
 ### 5. Hellhammer
 
@@ -8109,13 +8215,15 @@ Jason Bittner (Shadows Fall / Overkill / Category 7) earns rank #8 for: shadows 
 
 Full profile: https://metalforge.io/drummer/jason-bittner
 
-### 9. Drummer #56
+### 9. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Obscura's classically-trained progressive extremity
 **Why ranked here:** Hannes Grossmann's classical training and technical death metal precision with Obscura and ex-Necrophagist extend progressive thrash's odd-meter, compositionally ambitious vocabulary into technical death metal's own progressive wing, the same virtuosic standard bands like Watchtower and Vektor apply to thrash tempos. Hannes Grossmann earns rank #9 for classically-informed progressive extreme metal precision.
 
-Drummer #56 (Unknown) earns rank #9 for: obscura's classically-trained progressive extremity. Hannes Grossmann's classical training and technical death metal precision with Obscura and ex-Necrophagist extend progressive thrash's odd-meter, compositionally ambitious vocabulary into technical death metal's own progressive wing, the same virtuosic standard bands like Watchtower and Vektor apply to thrash tempos. Hannes Grossmann earns rank #9 for classically-informed progressive extreme metal precision..
+Hannes Grossmann (Obscura / Necrophagist) earns rank #9 for: obscura's classically-trained progressive extremity. Hannes Grossmann's classical training and technical death metal precision with Obscura and ex-Necrophagist extend progressive thrash's odd-meter, compositionally ambitious vocabulary into technical death metal's own progressive wing, the same virtuosic standard bands like Watchtower and Vektor apply to thrash tempos. Hannes Grossmann earns rank #9 for classically-informed progressive extreme metal precision..
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 10. Dave Lombardo
 
@@ -8315,13 +8423,15 @@ Igor Cavalera (Sepultura / Cavalera Conspiracy) earns rank #5 for: sepultura and
 
 Full profile: https://metalforge.io/drummer/igor-cavalera
 
-### 6. Drummer #60
+### 6. Kevin Talley
 
-**Band:** Unknown
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Dying Fetus and Misery Index's grindcore-adjacent velocity
 **Why ranked here:** Kevin Talley's work across Dying Fetus and Misery Index sustains grindcore-level blast beat velocity within brutal death metal's technical framework, the same extreme-tempo overlap that lets crust-grind hybrid bands move fluidly between D-beat punk pacing and full blast-beat extremity. Kevin Talley earns rank #6 for technical grindcore adjacency that speaks directly to crust's faster wing.
 
-Drummer #60 (Unknown) earns rank #6 for: dying fetus and misery index's grindcore-adjacent velocity. Kevin Talley's work across Dying Fetus and Misery Index sustains grindcore-level blast beat velocity within brutal death metal's technical framework, the same extreme-tempo overlap that lets crust-grind hybrid bands move fluidly between D-beat punk pacing and full blast-beat extremity. Kevin Talley earns rank #6 for technical grindcore adjacency that speaks directly to crust's faster wing..
+Kevin Talley (Dying Fetus / Misery Index) earns rank #6 for: dying fetus and misery index's grindcore-adjacent velocity. Kevin Talley's work across Dying Fetus and Misery Index sustains grindcore-level blast beat velocity within brutal death metal's technical framework, the same extreme-tempo overlap that lets crust-grind hybrid bands move fluidly between D-beat punk pacing and full blast-beat extremity. Kevin Talley earns rank #6 for technical grindcore adjacency that speaks directly to crust's faster wing..
+
+Full profile: https://metalforge.io/drummer/kevin-talley
 
 ### 7. Jay Weinberg
 
@@ -8413,13 +8523,15 @@ Mike Mangini (Dream Theater) earns rank #3 for: ambidextrous by design — world
 
 Full profile: https://metalforge.io/drummer/mike-mangini
 
-### 4. Drummer #56
+### 4. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Open-handed technique's modern death metal standard-bearer
 **Why ranked here:** Hannes Grossmann is metal's most widely studied open-handed technical death metal drummer, regularly leading with his non-dominant hand on hi-hat or ride rather than crossing it over his snare hand — a deliberate technique choice, not a product of natural left-handedness, that unlocks voicings and independent limb combinations a traditional crossed-hands setup cannot reach. His open-handed patterns are most audible on Obscura's "Cosmogenesis" (2009) and "Omnivium" (2011), where the technique lets him sustain ghost-note-dense polyrhythms without the ergonomic strain crossed-arm playing would introduce at those speeds. Grossmann earns rank #4 as the drummer who has done the most to bring open-handed technique into mainstream technical death metal vocabulary.
 
-Drummer #56 (Unknown) earns rank #4 for: open-handed technique's modern death metal standard-bearer. Hannes Grossmann is metal's most widely studied open-handed technical death metal drummer, regularly leading with his non-dominant hand on hi-hat or ride rather than crossing it over his snare hand — a deliberate technique choice, not a product of natural left-handedness, that unlocks voicings and independent limb combinations a traditional crossed-hands setup cannot reach. His open-handed patterns are most audible on Obscura's "Cosmogenesis" (2009) and "Omnivium" (2011), where the technique lets him sustain ghost-note-dense polyrhythms without the ergonomic strain crossed-arm playing would introduce at those speeds. Grossmann earns rank #4 as the drummer who has done the most to bring open-handed technique into mainstream technical death metal vocabulary..
+Hannes Grossmann (Obscura / Necrophagist) earns rank #4 for: open-handed technique's modern death metal standard-bearer. Hannes Grossmann is metal's most widely studied open-handed technical death metal drummer, regularly leading with his non-dominant hand on hi-hat or ride rather than crossing it over his snare hand — a deliberate technique choice, not a product of natural left-handedness, that unlocks voicings and independent limb combinations a traditional crossed-hands setup cannot reach. His open-handed patterns are most audible on Obscura's "Cosmogenesis" (2009) and "Omnivium" (2011), where the technique lets him sustain ghost-note-dense polyrhythms without the ergonomic strain crossed-arm playing would introduce at those speeds. Grossmann earns rank #4 as the drummer who has done the most to bring open-handed technique into mainstream technical death metal vocabulary..
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 5. Matt Halpern
 
@@ -8441,13 +8553,15 @@ George Kollias (Nile) earns rank #6 for: right-handed, but off-hand independence
 
 Full profile: https://metalforge.io/drummer/george-kollias
 
-### 7. Drummer #60
+### 7. Kevin Talley
 
-**Band:** Unknown
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Right-handed, but a two-handed blast built on perfect symmetry
 **Why ranked here:** Kevin Talley is right-handed, but his signature two-handed blast technique — both hands striking the snare simultaneously or in tight alternation while the double bass drives underneath — demands genuinely symmetrical strength, stick height, and wrist mechanics between his dominant and non-dominant hand, because any imbalance becomes audible instantly at the 220+ BPM tempos he sustains with Dying Fetus and Misery Index. That symmetry requirement makes his non-dominant hand development some of the most rigorous in grindcore-adjacent death metal. Talley earns rank #7 for building an entire signature technique around eliminating the usual gap between a drummer's dominant and weaker hand.
 
-Drummer #60 (Unknown) earns rank #7 for: right-handed, but a two-handed blast built on perfect symmetry. Kevin Talley is right-handed, but his signature two-handed blast technique — both hands striking the snare simultaneously or in tight alternation while the double bass drives underneath — demands genuinely symmetrical strength, stick height, and wrist mechanics between his dominant and non-dominant hand, because any imbalance becomes audible instantly at the 220+ BPM tempos he sustains with Dying Fetus and Misery Index. That symmetry requirement makes his non-dominant hand development some of the most rigorous in grindcore-adjacent death metal. Talley earns rank #7 for building an entire signature technique around eliminating the usual gap between a drummer's dominant and weaker hand..
+Kevin Talley (Dying Fetus / Misery Index) earns rank #7 for: right-handed, but a two-handed blast built on perfect symmetry. Kevin Talley is right-handed, but his signature two-handed blast technique — both hands striking the snare simultaneously or in tight alternation while the double bass drives underneath — demands genuinely symmetrical strength, stick height, and wrist mechanics between his dominant and non-dominant hand, because any imbalance becomes audible instantly at the 220+ BPM tempos he sustains with Dying Fetus and Misery Index. That symmetry requirement makes his non-dominant hand development some of the most rigorous in grindcore-adjacent death metal. Talley earns rank #7 for building an entire signature technique around eliminating the usual gap between a drummer's dominant and weaker hand..
+
+Full profile: https://metalforge.io/drummer/kevin-talley
 
 ### 8. Matt Garstka
 
@@ -8459,13 +8573,15 @@ Matt Garstka (Animals as Leaders) earns rank #8 for: right-handed, but a left-ha
 
 Full profile: https://metalforge.io/drummer/matt-garstka
 
-### 9. Drummer #51
+### 9. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Right-handed, but traditional grip's extreme metal holdout
 **Why ranked here:** Paul Mazurkiewicz is right-handed, but he has used traditional (conventional) grip since Cannibal Corpse's 1990 debut "Eaten Back to Life" — an angled, jazz-derived left-hand position that nearly every death metal drummer of his generation abandoned in favor of matched grip's symmetric power. That grip choice was already an outlier in extreme metal by 1990, and it defines the specific character of his snare voice: a distinct stroke articulation and dynamic feel on backbeats that audiences learned to associate with Cannibal Corpse specifically. Mazurkiewicz earns rank #9 for sustaining an unconventional left-hand grip choice across more than three decades of brutal death metal.
 
-Drummer #51 (Unknown) earns rank #9 for: right-handed, but traditional grip's extreme metal holdout. Paul Mazurkiewicz is right-handed, but he has used traditional (conventional) grip since Cannibal Corpse's 1990 debut "Eaten Back to Life" — an angled, jazz-derived left-hand position that nearly every death metal drummer of his generation abandoned in favor of matched grip's symmetric power. That grip choice was already an outlier in extreme metal by 1990, and it defines the specific character of his snare voice: a distinct stroke articulation and dynamic feel on backbeats that audiences learned to associate with Cannibal Corpse specifically. Mazurkiewicz earns rank #9 for sustaining an unconventional left-hand grip choice across more than three decades of brutal death metal..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #9 for: right-handed, but traditional grip's extreme metal holdout. Paul Mazurkiewicz is right-handed, but he has used traditional (conventional) grip since Cannibal Corpse's 1990 debut "Eaten Back to Life" — an angled, jazz-derived left-hand position that nearly every death metal drummer of his generation abandoned in favor of matched grip's symmetric power. That grip choice was already an outlier in extreme metal by 1990, and it defines the specific character of his snare voice: a distinct stroke articulation and dynamic feel on backbeats that audiences learned to associate with Cannibal Corpse specifically. Mazurkiewicz earns rank #9 for sustaining an unconventional left-hand grip choice across more than three decades of brutal death metal..
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 10. Travis Orbin
 
@@ -8637,13 +8753,15 @@ Joey Jordison (Slipknot) earns rank #2 for: a "record producer" credit alongside
 
 Full profile: https://metalforge.io/drummer/joey-jordison
 
-### 3. Drummer #56
+### 3. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Runs his own studio — production as a parallel career
 **Why ranked here:** Hannes Grossmann is a German drummer, composer, and producer who operates his own recording studio and has produced and mixed numerous metal albums for other artists between his own recording cycles with Obscura, Necrophagist, and Alkaloid. That producer's perspective directly informs his drumming: he has spoken about understanding how drum sounds interact with guitar tones and how cymbal frequency choices affect overall mix clarity, treating his own gear choices as production decisions rather than pure performance preferences. Grossmann earns rank #3 for the most fully integrated drummer-producer identity on this list, with his own studio as the throughline.
 
-Drummer #56 (Unknown) earns rank #3 for: runs his own studio — production as a parallel career. Hannes Grossmann is a German drummer, composer, and producer who operates his own recording studio and has produced and mixed numerous metal albums for other artists between his own recording cycles with Obscura, Necrophagist, and Alkaloid. That producer's perspective directly informs his drumming: he has spoken about understanding how drum sounds interact with guitar tones and how cymbal frequency choices affect overall mix clarity, treating his own gear choices as production decisions rather than pure performance preferences. Grossmann earns rank #3 for the most fully integrated drummer-producer identity on this list, with his own studio as the throughline..
+Hannes Grossmann (Obscura / Necrophagist) earns rank #3 for: runs his own studio — production as a parallel career. Hannes Grossmann is a German drummer, composer, and producer who operates his own recording studio and has produced and mixed numerous metal albums for other artists between his own recording cycles with Obscura, Necrophagist, and Alkaloid. That producer's perspective directly informs his drumming: he has spoken about understanding how drum sounds interact with guitar tones and how cymbal frequency choices affect overall mix clarity, treating his own gear choices as production decisions rather than pure performance preferences. Grossmann earns rank #3 for the most fully integrated drummer-producer identity on this list, with his own studio as the throughline..
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 4. Igor Cavalera
 
@@ -8745,13 +8863,15 @@ Derek Roddy (Hate Eternal / Nile) earns rank #3 for: guinness-level speed for hi
 
 Full profile: https://metalforge.io/drummer/derek-roddy
 
-### 4. Drummer #60
+### 4. Kevin Talley
 
-**Band:** Unknown
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Brutal death metal's touring and studio workhorse
 **Why ranked here:** Kevin Talley's résumé across Dying Fetus, Misery Index, and Six Feet Under reads like a session drummer's career map — each stint lasted a few years before he moved to the next band that needed his speed and precision. That pattern of short, high-output tenures across multiple brutal death metal camps is the clearest evidence of a player valued specifically for what he can deliver in a limited window, not just long-term band chemistry. Talley earns rank #4 for a session-style career built entirely within extreme metal's most demanding subgenre.
 
-Drummer #60 (Unknown) earns rank #4 for: brutal death metal's touring and studio workhorse. Kevin Talley's résumé across Dying Fetus, Misery Index, and Six Feet Under reads like a session drummer's career map — each stint lasted a few years before he moved to the next band that needed his speed and precision. That pattern of short, high-output tenures across multiple brutal death metal camps is the clearest evidence of a player valued specifically for what he can deliver in a limited window, not just long-term band chemistry. Talley earns rank #4 for a session-style career built entirely within extreme metal's most demanding subgenre..
+Kevin Talley (Dying Fetus / Misery Index) earns rank #4 for: brutal death metal's touring and studio workhorse. Kevin Talley's résumé across Dying Fetus, Misery Index, and Six Feet Under reads like a session drummer's career map — each stint lasted a few years before he moved to the next band that needed his speed and precision. That pattern of short, high-output tenures across multiple brutal death metal camps is the clearest evidence of a player valued specifically for what he can deliver in a limited window, not just long-term band chemistry. Talley earns rank #4 for a session-style career built entirely within extreme metal's most demanding subgenre..
+
+Full profile: https://metalforge.io/drummer/kevin-talley
 
 ### 5. Navene Koperweis
 
@@ -9071,13 +9191,15 @@ Metal drumming has a reputation for being self-taught and instinctive, but a sig
 
 ### Rankings
 
-### 1. Drummer #56
+### 1. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** A classically-trained composer behind the kit
 **Why ranked here:** Hannes Grossmann holds a dual identity as both a technical death metal drummer and a classically-trained composer and producer, a background that directly shapes the intricate ghost notes and odd-meter phrasing running through his work with Obscura, Necrophagist, and Alkaloid. That formal compositional training is audible in how deliberately structured his drum parts are relative to most extreme metal playing, favoring architectural control over raw aggression. Grossmann earns rank #1 for the most explicitly classical-compositional background of any drummer on this list.
 
-Drummer #56 (Unknown) earns rank #1 for: a classically-trained composer behind the kit. Hannes Grossmann holds a dual identity as both a technical death metal drummer and a classically-trained composer and producer, a background that directly shapes the intricate ghost notes and odd-meter phrasing running through his work with Obscura, Necrophagist, and Alkaloid. That formal compositional training is audible in how deliberately structured his drum parts are relative to most extreme metal playing, favoring architectural control over raw aggression. Grossmann earns rank #1 for the most explicitly classical-compositional background of any drummer on this list..
+Hannes Grossmann (Obscura / Necrophagist) earns rank #1 for: a classically-trained composer behind the kit. Hannes Grossmann holds a dual identity as both a technical death metal drummer and a classically-trained composer and producer, a background that directly shapes the intricate ghost notes and odd-meter phrasing running through his work with Obscura, Necrophagist, and Alkaloid. That formal compositional training is audible in how deliberately structured his drum parts are relative to most extreme metal playing, favoring architectural control over raw aggression. Grossmann earns rank #1 for the most explicitly classical-compositional background of any drummer on this list..
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 2. Mike Mangini
 
@@ -9159,13 +9281,15 @@ Danny Carey (Tool) earns rank #9 for: mathematically rigorous polyrhythm from to
 
 Full profile: https://metalforge.io/drummer/danny-carey
 
-### 10. Drummer #55
+### 10. Jaska Raatikainen
 
-**Band:** Unknown
+**Band:** Children of Bodom
 **Highlight:** Neoclassical melody meets disciplined death metal precision
 **Why ranked here:** Jaska Raatikainen co-founded Children of Bodom and anchored 26 years of the band's signature blend of neoclassical melodies and aggressive death metal, requiring drumming precise enough to support the neoclassical keyboard and guitar interplay that defined the band's sound. That sustained discipline supporting a neoclassically-informed compositional style across more than two decades shows classical influence operating at the band-identity level, not just the individual drummer's résumé. Raatikainen earns rank #10 for two decades spent supporting metal's most neoclassically-inflected melodic death metal project.
 
-Drummer #55 (Unknown) earns rank #10 for: neoclassical melody meets disciplined death metal precision. Jaska Raatikainen co-founded Children of Bodom and anchored 26 years of the band's signature blend of neoclassical melodies and aggressive death metal, requiring drumming precise enough to support the neoclassical keyboard and guitar interplay that defined the band's sound. That sustained discipline supporting a neoclassically-informed compositional style across more than two decades shows classical influence operating at the band-identity level, not just the individual drummer's résumé. Raatikainen earns rank #10 for two decades spent supporting metal's most neoclassically-inflected melodic death metal project..
+Jaska Raatikainen (Children of Bodom) earns rank #10 for: neoclassical melody meets disciplined death metal precision. Jaska Raatikainen co-founded Children of Bodom and anchored 26 years of the band's signature blend of neoclassical melodies and aggressive death metal, requiring drumming precise enough to support the neoclassical keyboard and guitar interplay that defined the band's sound. That sustained discipline supporting a neoclassically-informed compositional style across more than two decades shows classical influence operating at the band-identity level, not just the individual drummer's résumé. Raatikainen earns rank #10 for two decades spent supporting metal's most neoclassically-inflected melodic death metal project..
+
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
 ### Related Lists
 
@@ -9247,13 +9371,15 @@ Art Cruz (Lamb of God) earns rank #6 for: carrying lamb of god's groove-extreme 
 
 Full profile: https://metalforge.io/drummer/art-cruz
 
-### 7. Drummer #54
+### 7. Daniel Erlandsson
 
-**Band:** Unknown
+**Band:** Arch Enemy
 **Highlight:** Melodic death metal's musicality-driven groove
 **Why ranked here:** Daniel Erlandsson co-founded Arch Enemy in 1995 and built a drumming style that combines Scandinavian death metal intensity with technical precision and a strong sense of musicality — a combination that gives Arch Enemy's riffs a rhythmic pocket most straightforward death metal doesn't prioritize. That musicality-first approach to extreme metal drumming has helped make Arch Enemy one of melodic death metal's most consistently accessible extreme acts. Erlandsson earns rank #7 for blending death metal intensity with genuine rhythmic musicality.
 
-Drummer #54 (Unknown) earns rank #7 for: melodic death metal's musicality-driven groove. Daniel Erlandsson co-founded Arch Enemy in 1995 and built a drumming style that combines Scandinavian death metal intensity with technical precision and a strong sense of musicality — a combination that gives Arch Enemy's riffs a rhythmic pocket most straightforward death metal doesn't prioritize. That musicality-first approach to extreme metal drumming has helped make Arch Enemy one of melodic death metal's most consistently accessible extreme acts. Erlandsson earns rank #7 for blending death metal intensity with genuine rhythmic musicality..
+Daniel Erlandsson (Arch Enemy) earns rank #7 for: melodic death metal's musicality-driven groove. Daniel Erlandsson co-founded Arch Enemy in 1995 and built a drumming style that combines Scandinavian death metal intensity with technical precision and a strong sense of musicality — a combination that gives Arch Enemy's riffs a rhythmic pocket most straightforward death metal doesn't prioritize. That musicality-first approach to extreme metal drumming has helped make Arch Enemy one of melodic death metal's most consistently accessible extreme acts. Erlandsson earns rank #7 for blending death metal intensity with genuine rhythmic musicality..
+
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
 ### 8. Jocke Wallgren
 
@@ -9511,13 +9637,15 @@ Dirk Verbeuren (Megadeth) earns rank #9 for: from soilwork's melodic death metal
 
 Full profile: https://metalforge.io/drummer/dirk-verbeuren
 
-### 10. Drummer #54
+### 10. Daniel Erlandsson
 
-**Band:** Unknown
+**Band:** Arch Enemy
 **Highlight:** Melodic death metal's enduring technical foundation
 **Why ranked here:** Daniel Erlandsson's Arch Enemy work across "War Eternal" (2014) and "Will to Power" (2017) sustained melodic death metal's harmonized twin-guitar songwriting with technically precise, musically disciplined drumming through two decades' worth of lineup changes around him.
 
-Drummer #54 (Unknown) earns rank #10 for: melodic death metal's enduring technical foundation. Daniel Erlandsson's Arch Enemy work across "War Eternal" (2014) and "Will to Power" (2017) sustained melodic death metal's harmonized twin-guitar songwriting with technically precise, musically disciplined drumming through two decades' worth of lineup changes around him..
+Daniel Erlandsson (Arch Enemy) earns rank #10 for: melodic death metal's enduring technical foundation. Daniel Erlandsson's Arch Enemy work across "War Eternal" (2014) and "Will to Power" (2017) sustained melodic death metal's harmonized twin-guitar songwriting with technically precise, musically disciplined drumming through two decades' worth of lineup changes around him..
+
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
 ### Related Lists
 
@@ -9827,13 +9955,15 @@ Charlie Benante (Anthrax / S.O.D.) earns rank #3 for: every anthrax studio album
 
 Full profile: https://metalforge.io/drummer/charlie-benante
 
-### 4. Drummer #51
+### 4. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse's original drummer, 38 years running
 **Why ranked here:** Paul Mazurkiewicz co-founded Cannibal Corpse in Buffalo, New York in 1988 and has performed on every one of the band's albums since their 1990 debut, a 38-year continuous run that makes him one of death metal's most consistent and dedicated founding members.
 
-Drummer #51 (Unknown) earns rank #4 for: cannibal corpse's original drummer, 38 years running. Paul Mazurkiewicz co-founded Cannibal Corpse in Buffalo, New York in 1988 and has performed on every one of the band's albums since their 1990 debut, a 38-year continuous run that makes him one of death metal's most consistent and dedicated founding members..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #4 for: cannibal corpse's original drummer, 38 years running. Paul Mazurkiewicz co-founded Cannibal Corpse in Buffalo, New York in 1988 and has performed on every one of the band's albums since their 1990 debut, a 38-year continuous run that makes him one of death metal's most consistent and dedicated founding members..
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 5. Hellhammer
 
@@ -9979,13 +10109,15 @@ John Otto (Limp Bizkit) earns rank #6 for: zildjian k custom series across limp 
 
 Full profile: https://metalforge.io/drummer/john-otto
 
-### 7. Drummer #55
+### 7. Jaska Raatikainen
 
-**Band:** Unknown
+**Band:** Children of Bodom
 **Highlight:** Zildjian A Custom — unchanged across a ten-album career
 **Why ranked here:** Jaska Raatikainen adopted a Zildjian A Custom cymbal setup for Children of Bodom's "Follow the Reaper" (2000), widely considered the band's defining album, and barely changed it for the rest of the band's 26-year run — adding only a Zildjian K Custom ride for extra atmosphere during "Are You Dead Yet?" (2005) and "Blooddrunk" (2008). That steadiness carried through to "Hexed" (2019), the band's final album before their 2019 dissolution. Raatikainen earns rank #7 for one of the longest unbroken Zildjian setups in metal, trusted essentially unchanged for two decades.
 
-Drummer #55 (Unknown) earns rank #7 for: zildjian a custom — unchanged across a ten-album career. Jaska Raatikainen adopted a Zildjian A Custom cymbal setup for Children of Bodom's "Follow the Reaper" (2000), widely considered the band's defining album, and barely changed it for the rest of the band's 26-year run — adding only a Zildjian K Custom ride for extra atmosphere during "Are You Dead Yet?" (2005) and "Blooddrunk" (2008). That steadiness carried through to "Hexed" (2019), the band's final album before their 2019 dissolution. Raatikainen earns rank #7 for one of the longest unbroken Zildjian setups in metal, trusted essentially unchanged for two decades..
+Jaska Raatikainen (Children of Bodom) earns rank #7 for: zildjian a custom — unchanged across a ten-album career. Jaska Raatikainen adopted a Zildjian A Custom cymbal setup for Children of Bodom's "Follow the Reaper" (2000), widely considered the band's defining album, and barely changed it for the rest of the band's 26-year run — adding only a Zildjian K Custom ride for extra atmosphere during "Are You Dead Yet?" (2005) and "Blooddrunk" (2008). That steadiness carried through to "Hexed" (2019), the band's final album before their 2019 dissolution. Raatikainen earns rank #7 for one of the longest unbroken Zildjian setups in metal, trusted essentially unchanged for two decades..
+
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
 ### Related Lists
 
@@ -10077,13 +10209,15 @@ Mike Mangini (Dream Theater) earns rank #7 for: sabian hhx & aax — dream theat
 
 Full profile: https://metalforge.io/drummer/mike-mangini
 
-### 8. Drummer #51
+### 8. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Sabian AAX — Cannibal Corpse's founding rhythm
 **Why ranked here:** Paul Mazurkiewicz has played a Sabian AAX Series setup — 14" Stage hi-hats, 18" and 19" X-Plosion crashes, a 21" Raw Bell Dry Ride, and an 18" AAXtreme China — since co-founding Cannibal Corpse in 1988, a Sabian relationship that has lasted as long as his 38-year, unbroken tenure behind the band's kit. Mazurkiewicz earns rank #8 for a Sabian setup that has anchored death metal's longest-running founding drummer.
 
-Drummer #51 (Unknown) earns rank #8 for: sabian aax — cannibal corpse's founding rhythm. Paul Mazurkiewicz has played a Sabian AAX Series setup — 14" Stage hi-hats, 18" and 19" X-Plosion crashes, a 21" Raw Bell Dry Ride, and an 18" AAXtreme China — since co-founding Cannibal Corpse in 1988, a Sabian relationship that has lasted as long as his 38-year, unbroken tenure behind the band's kit. Mazurkiewicz earns rank #8 for a Sabian setup that has anchored death metal's longest-running founding drummer..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #8 for: sabian aax — cannibal corpse's founding rhythm. Paul Mazurkiewicz has played a Sabian AAX Series setup — 14" Stage hi-hats, 18" and 19" X-Plosion crashes, a 21" Raw Bell Dry Ride, and an 18" AAXtreme China — since co-founding Cannibal Corpse in 1988, a Sabian relationship that has lasted as long as his 38-year, unbroken tenure behind the band's kit. Mazurkiewicz earns rank #8 for a Sabian setup that has anchored death metal's longest-running founding drummer..
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 9. Ray Luzier
 
@@ -10435,13 +10569,15 @@ Gene Hoglan (Death / Testament / Dethklok) earns rank #7 for: tama superstar cla
 
 Full profile: https://metalforge.io/drummer/gene-hoglan
 
-### 8. Drummer #56
+### 8. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Tama Starclassic Maple — Obscura's technical death metal clarity
 **Why ranked here:** Hannes Grossmann is a Tama Drums endorser, running a Tama Starclassic Maple kit with a Tama S.L.P. 14"x6" G-Maple snare and Tama Iron Cobra 900 Power Glide double pedal, a setup that replaced the DW Collector's Series kit he played on Obscura's 2009 breakthrough "Cosmogenesis." Grossmann earns rank #8 for a documented brand transition from DW to Tama that mirrors Mike Portnoy's in reverse.
 
-Drummer #56 (Unknown) earns rank #8 for: tama starclassic maple — obscura's technical death metal clarity. Hannes Grossmann is a Tama Drums endorser, running a Tama Starclassic Maple kit with a Tama S.L.P. 14"x6" G-Maple snare and Tama Iron Cobra 900 Power Glide double pedal, a setup that replaced the DW Collector's Series kit he played on Obscura's 2009 breakthrough "Cosmogenesis." Grossmann earns rank #8 for a documented brand transition from DW to Tama that mirrors Mike Portnoy's in reverse..
+Hannes Grossmann (Obscura / Necrophagist) earns rank #8 for: tama starclassic maple — obscura's technical death metal clarity. Hannes Grossmann is a Tama Drums endorser, running a Tama Starclassic Maple kit with a Tama S.L.P. 14"x6" G-Maple snare and Tama Iron Cobra 900 Power Glide double pedal, a setup that replaced the DW Collector's Series kit he played on Obscura's 2009 breakthrough "Cosmogenesis." Grossmann earns rank #8 for a documented brand transition from DW to Tama that mirrors Mike Portnoy's in reverse..
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 9. Jay Weinberg
 
@@ -10544,21 +10680,25 @@ George Kollias (Nile) earns rank #6 for: pearl demon xr — co-designed for 240+
 
 Full profile: https://metalforge.io/drummer/george-kollias
 
-### 7. Drummer #51
+### 7. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Pearl Reference Pure — Cannibal Corpse's founding rhythm
 **Why ranked here:** Paul Mazurkiewicz has been associated with Pearl Drums for much of his career, running a Pearl Reference Pure kit in Matte Black with a Pearl Reference 14"x6.5" brass snare and Pearl Eliminator Demon Drive double pedal — a relationship that stretches back to a Pearl Export Series kit on 1992's "Tomb of the Mutilated." Mazurkiewicz earns rank #7 for a Pearl setup that has anchored Cannibal Corpse's founding drummer since 1988.
 
-Drummer #51 (Unknown) earns rank #7 for: pearl reference pure — cannibal corpse's founding rhythm. Paul Mazurkiewicz has been associated with Pearl Drums for much of his career, running a Pearl Reference Pure kit in Matte Black with a Pearl Reference 14"x6.5" brass snare and Pearl Eliminator Demon Drive double pedal — a relationship that stretches back to a Pearl Export Series kit on 1992's "Tomb of the Mutilated." Mazurkiewicz earns rank #7 for a Pearl setup that has anchored Cannibal Corpse's founding drummer since 1988..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #7 for: pearl reference pure — cannibal corpse's founding rhythm. Paul Mazurkiewicz has been associated with Pearl Drums for much of his career, running a Pearl Reference Pure kit in Matte Black with a Pearl Reference 14"x6.5" brass snare and Pearl Eliminator Demon Drive double pedal — a relationship that stretches back to a Pearl Export Series kit on 1992's "Tomb of the Mutilated." Mazurkiewicz earns rank #7 for a Pearl setup that has anchored Cannibal Corpse's founding drummer since 1988..
 
-### 8. Drummer #54
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
-**Band:** Unknown
+### 8. Daniel Erlandsson
+
+**Band:** Arch Enemy
 **Highlight:** Pearl Reference Pure — Arch Enemy's melodic death metal engine
 **Why ranked here:** Daniel Erlandsson is a Pearl Drums artist, running a Pearl Reference Pure kit in custom black finish with a Pearl Daniel Erlandsson Signature 14"x5.5" snare and Pearl Eliminator double pedal, having started on a Pearl Masters Premium kit for Arch Enemy's 2001 "Wages of Sin." Erlandsson earns rank #8 for a Pearl relationship documented across Arch Enemy's entire melodic death metal catalog.
 
-Drummer #54 (Unknown) earns rank #8 for: pearl reference pure — arch enemy's melodic death metal engine. Daniel Erlandsson is a Pearl Drums artist, running a Pearl Reference Pure kit in custom black finish with a Pearl Daniel Erlandsson Signature 14"x5.5" snare and Pearl Eliminator double pedal, having started on a Pearl Masters Premium kit for Arch Enemy's 2001 "Wages of Sin." Erlandsson earns rank #8 for a Pearl relationship documented across Arch Enemy's entire melodic death metal catalog..
+Daniel Erlandsson (Arch Enemy) earns rank #8 for: pearl reference pure — arch enemy's melodic death metal engine. Daniel Erlandsson is a Pearl Drums artist, running a Pearl Reference Pure kit in custom black finish with a Pearl Daniel Erlandsson Signature 14"x5.5" snare and Pearl Eliminator double pedal, having started on a Pearl Masters Premium kit for Arch Enemy's 2001 "Wages of Sin." Erlandsson earns rank #8 for a Pearl relationship documented across Arch Enemy's entire melodic death metal catalog..
+
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
 ### 9. Hellhammer
 
@@ -10570,13 +10710,15 @@ Hellhammer (Mayhem) earns rank #9 for: from a developing endorsement to mayhem's
 
 Full profile: https://metalforge.io/drummer/hellhammer
 
-### 10. Drummer #55
+### 10. Jaska Raatikainen
 
-**Band:** Unknown
+**Band:** Children of Bodom
 **Highlight:** Pearl Masters Premium Maple — unchanged across ten albums
 **Why ranked here:** Jaska Raatikainen was a Pearl Drums endorser for much of Children of Bodom's career, running a Pearl Masters Premium Maple kit in custom finish with a Pearl Masters 14"x6.5" snare and Pearl Eliminator double pedal, a setup built for endurance across the band's demanding, high-energy live sets. Raatikainen earns rank #10 for a Pearl relationship that held steady through Children of Bodom's entire discography before the band's 2019 dissolution.
 
-Drummer #55 (Unknown) earns rank #10 for: pearl masters premium maple — unchanged across ten albums. Jaska Raatikainen was a Pearl Drums endorser for much of Children of Bodom's career, running a Pearl Masters Premium Maple kit in custom finish with a Pearl Masters 14"x6.5" snare and Pearl Eliminator double pedal, a setup built for endurance across the band's demanding, high-energy live sets. Raatikainen earns rank #10 for a Pearl relationship that held steady through Children of Bodom's entire discography before the band's 2019 dissolution..
+Jaska Raatikainen (Children of Bodom) earns rank #10 for: pearl masters premium maple — unchanged across ten albums. Jaska Raatikainen was a Pearl Drums endorser for much of Children of Bodom's career, running a Pearl Masters Premium Maple kit in custom finish with a Pearl Masters 14"x6.5" snare and Pearl Eliminator double pedal, a setup built for endurance across the band's demanding, high-energy live sets. Raatikainen earns rank #10 for a Pearl relationship that held steady through Children of Bodom's entire discography before the band's 2019 dissolution..
+
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
 ### Related Lists
 
@@ -10647,21 +10789,25 @@ Full profile: https://metalforge.io/drummer/bill-ward
 
 Drummer #62 (Unknown) earns rank #5 for: dw collector's and performance maple — august burns red's 2010-2022 era. Matt Greiner played a DW Collector's Maple kit from 2010 and a DW Performance Maple kit through 2022 across August Burns Red's touring and recording work, before moving to his current Pearl Reference Pure setup with his own Pearl signature snare. Greiner earns rank #5 for a well-documented, decade-plus DW chapter in one of metalcore's most technical bands..
 
-### 6. Drummer #56
+### 6. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** DW Collector's Series — Obscura's "Cosmogenesis" breakthrough
 **Why ranked here:** Hannes Grossmann played a DW Collector's Series all-maple 5-piece shell pack on Obscura's 2009 breakthrough "Cosmogenesis," before moving to the Tama Starclassic Maple kit he plays today. Grossmann earns rank #6 for a documented DW chapter behind one of technical death metal's most acclaimed albums.
 
-Drummer #56 (Unknown) earns rank #6 for: dw collector's series — obscura's "cosmogenesis" breakthrough. Hannes Grossmann played a DW Collector's Series all-maple 5-piece shell pack on Obscura's 2009 breakthrough "Cosmogenesis," before moving to the Tama Starclassic Maple kit he plays today. Grossmann earns rank #6 for a documented DW chapter behind one of technical death metal's most acclaimed albums..
+Hannes Grossmann (Obscura / Necrophagist) earns rank #6 for: dw collector's series — obscura's "cosmogenesis" breakthrough. Hannes Grossmann played a DW Collector's Series all-maple 5-piece shell pack on Obscura's 2009 breakthrough "Cosmogenesis," before moving to the Tama Starclassic Maple kit he plays today. Grossmann earns rank #6 for a documented DW chapter behind one of technical death metal's most acclaimed albums..
 
-### 7. Drummer #60
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
-**Band:** Unknown
+### 7. Kevin Talley
+
+**Band:** Dying Fetus / Misery Index
 **Highlight:** A career built across Pearl, Tama, and DW
 **Why ranked here:** Kevin Talley has used Pearl, Tama, or DW kits at various points across a prolific death metal career spanning Dying Fetus, Misery Index, and Six Feet Under, favoring whichever setup could handle brutal death metal's extreme demands. Talley earns rank #7 for a documented, if less brand-exclusive, DW relationship across one of extreme metal's busiest touring careers.
 
-Drummer #60 (Unknown) earns rank #7 for: a career built across pearl, tama, and dw. Kevin Talley has used Pearl, Tama, or DW kits at various points across a prolific death metal career spanning Dying Fetus, Misery Index, and Six Feet Under, favoring whichever setup could handle brutal death metal's extreme demands. Talley earns rank #7 for a documented, if less brand-exclusive, DW relationship across one of extreme metal's busiest touring careers..
+Kevin Talley (Dying Fetus / Misery Index) earns rank #7 for: a career built across pearl, tama, and dw. Kevin Talley has used Pearl, Tama, or DW kits at various points across a prolific death metal career spanning Dying Fetus, Misery Index, and Six Feet Under, favoring whichever setup could handle brutal death metal's extreme demands. Talley earns rank #7 for a documented, if less brand-exclusive, DW relationship across one of extreme metal's busiest touring careers..
+
+Full profile: https://metalforge.io/drummer/kevin-talley
 
 ### Related Lists
 
@@ -10723,13 +10869,15 @@ Hellhammer (Mayhem) earns rank #4 for: roland electronics reinforcing sonor sq2 
 
 Full profile: https://metalforge.io/drummer/hellhammer
 
-### 5. Drummer #51
+### 5. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** ddrum triggers eliminating kick inconsistency at extreme tempos
 **Why ranked here:** Paul Mazurkiewicz pairs ddrum triggers with his Pearl Eliminator double pedal so that every kick stroke registers with equal clarity in Cannibal Corpse's locomotive double-kick blast beats, even at the 180-250 BPM tempos where microphone response alone becomes unreliable. MetalForge's gear guides describe the ddrum triggers as essential to his push-pull blast beat technique, paired with a full in-ear monitor system for rhythmically demanding performances at any venue size.
 
-Drummer #51 (Unknown) earns rank #5 for: ddrum triggers eliminating kick inconsistency at extreme tempos. Paul Mazurkiewicz pairs ddrum triggers with his Pearl Eliminator double pedal so that every kick stroke registers with equal clarity in Cannibal Corpse's locomotive double-kick blast beats, even at the 180-250 BPM tempos where microphone response alone becomes unreliable. MetalForge's gear guides describe the ddrum triggers as essential to his push-pull blast beat technique, paired with a full in-ear monitor system for rhythmically demanding performances at any venue size..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #5 for: ddrum triggers eliminating kick inconsistency at extreme tempos. Paul Mazurkiewicz pairs ddrum triggers with his Pearl Eliminator double pedal so that every kick stroke registers with equal clarity in Cannibal Corpse's locomotive double-kick blast beats, even at the 180-250 BPM tempos where microphone response alone becomes unreliable. MetalForge's gear guides describe the ddrum triggers as essential to his push-pull blast beat technique, paired with a full in-ear monitor system for rhythmically demanding performances at any venue size..
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 6. George Kollias
 
@@ -10852,13 +11000,15 @@ Derek Roddy (Hate Eternal / Nile) earns rank #5 for: meinl byzance & mb20 — th
 
 Full profile: https://metalforge.io/drummer/derek-roddy
 
-### 6. Drummer #56
+### 6. Hannes Grossmann
 
-**Band:** Unknown
+**Band:** Obscura / Necrophagist
 **Highlight:** Meinl Byzance Traditional — technical death metal's controlled clarity
 **Why ranked here:** Hannes Grossmann runs a lean, three-piece Byzance Traditional setup — 14" Byzance Traditional hi-hats, 18" and 19" Byzance Brilliant crashes, and a 21" Byzance Traditional Ride — built for the tightly articulated, classically-informed technical death metal he plays across Obscura, Necrophagist, and Alkaloid. The Traditional finish trades some of Byzance's darker complexity for a slightly brighter, more controlled voice that stays legible through his intricate, ghost-note-laced fills. Grossmann earns rank #6 for one of the most precisely tailored Meinl setups on this list.
 
-Drummer #56 (Unknown) earns rank #6 for: meinl byzance traditional — technical death metal's controlled clarity. Hannes Grossmann runs a lean, three-piece Byzance Traditional setup — 14" Byzance Traditional hi-hats, 18" and 19" Byzance Brilliant crashes, and a 21" Byzance Traditional Ride — built for the tightly articulated, classically-informed technical death metal he plays across Obscura, Necrophagist, and Alkaloid. The Traditional finish trades some of Byzance's darker complexity for a slightly brighter, more controlled voice that stays legible through his intricate, ghost-note-laced fills. Grossmann earns rank #6 for one of the most precisely tailored Meinl setups on this list..
+Hannes Grossmann (Obscura / Necrophagist) earns rank #6 for: meinl byzance traditional — technical death metal's controlled clarity. Hannes Grossmann runs a lean, three-piece Byzance Traditional setup — 14" Byzance Traditional hi-hats, 18" and 19" Byzance Brilliant crashes, and a 21" Byzance Traditional Ride — built for the tightly articulated, classically-informed technical death metal he plays across Obscura, Necrophagist, and Alkaloid. The Traditional finish trades some of Byzance's darker complexity for a slightly brighter, more controlled voice that stays legible through his intricate, ghost-note-laced fills. Grossmann earns rank #6 for one of the most precisely tailored Meinl setups on this list..
+
+Full profile: https://metalforge.io/drummer/hannes-grossmann
 
 ### 7. Drummer #62
 
@@ -11006,13 +11156,15 @@ Gene Hoglan (Death / Testament / Dethklok) earns rank #9 for: evans heads reinfo
 
 Full profile: https://metalforge.io/drummer/gene-hoglan
 
-### 10. Drummer #51
+### 10. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Evans heads under Cannibal Corpse's locomotive double-kick attack
 **Why ranked here:** Paul Mazurkiewicz runs Evans drumheads on his Pearl Eliminator-driven kit, paired with ddrum triggers to keep every stroke of Cannibal Corpse's 180-250 BPM double-kick patterns registering with equal clarity. Mazurkiewicz earns rank #10 for a documented, decades-long Evans relationship that has survived every one of Cannibal Corpse's studio albums since their 1990 debut.
 
-Drummer #51 (Unknown) earns rank #10 for: evans heads under cannibal corpse's locomotive double-kick attack. Paul Mazurkiewicz runs Evans drumheads on his Pearl Eliminator-driven kit, paired with ddrum triggers to keep every stroke of Cannibal Corpse's 180-250 BPM double-kick patterns registering with equal clarity. Mazurkiewicz earns rank #10 for a documented, decades-long Evans relationship that has survived every one of Cannibal Corpse's studio albums since their 1990 debut..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #10 for: evans heads under cannibal corpse's locomotive double-kick attack. Paul Mazurkiewicz runs Evans drumheads on his Pearl Eliminator-driven kit, paired with ddrum triggers to keep every stroke of Cannibal Corpse's 180-250 BPM double-kick patterns registering with equal clarity. Mazurkiewicz earns rank #10 for a documented, decades-long Evans relationship that has survived every one of Cannibal Corpse's studio albums since their 1990 debut..
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### Related Lists
 
@@ -11114,13 +11266,15 @@ Gene Hoglan (Death / Testament / Dethklok) earns rank #8 for: technical precisio
 
 Full profile: https://metalforge.io/drummer/gene-hoglan
 
-### 9. Drummer #60
+### 9. Kevin Talley
 
-**Band:** Unknown
+**Band:** Dying Fetus / Misery Index
 **Highlight:** Brutal death metal blast-beat endurance across five-plus bands
 **Why ranked here:** Kevin Talley's incredibly fast and precise drumming helped define the brutal death metal sound across Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation, a Pearl Masters Premium Legend kit chosen specifically for the touring reliability his relentless multi-band schedule has demanded for over two decades. Talley earns rank #9 for sustaining blast-beat-driven brutal death metal across more concurrent and sequential bands than any other drummer on this list.
 
-Drummer #60 (Unknown) earns rank #9 for: brutal death metal blast-beat endurance across five-plus bands. Kevin Talley's incredibly fast and precise drumming helped define the brutal death metal sound across Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation, a Pearl Masters Premium Legend kit chosen specifically for the touring reliability his relentless multi-band schedule has demanded for over two decades. Talley earns rank #9 for sustaining blast-beat-driven brutal death metal across more concurrent and sequential bands than any other drummer on this list..
+Kevin Talley (Dying Fetus / Misery Index) earns rank #9 for: brutal death metal blast-beat endurance across five-plus bands. Kevin Talley's incredibly fast and precise drumming helped define the brutal death metal sound across Dying Fetus, Misery Index, Six Feet Under, Chimaira, and Suffocation, a Pearl Masters Premium Legend kit chosen specifically for the touring reliability his relentless multi-band schedule has demanded for over two decades. Talley earns rank #9 for sustaining blast-beat-driven brutal death metal across more concurrent and sequential bands than any other drummer on this list..
+
+Full profile: https://metalforge.io/drummer/kevin-talley
 
 ### 10. Tim Yeung
 
@@ -11162,13 +11316,15 @@ Pete Sandoval (Morbid Angel) earns rank #1 for: death metal's peak speed and sus
 
 Full profile: https://metalforge.io/drummer/pete-sandoval
 
-### 2. Drummer #51
+### 2. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse's founding drummer, present for every 90s album
 **Why ranked here:** Paul Mazurkiewicz co-founded Cannibal Corpse in Buffalo, New York in 1988 and drummed on every album the band released that decade, from their 1990 debut "Eaten Back to Life" through "Tomb of the Mutilated" (1992), "The Bleeding" (1994), and "Vile" (1996), a run of albums that helped define death metal's sound for the entire genre. Mazurkiewicz earns rank #2 for the most complete and unbroken 90s death metal discography on this list.
 
-Drummer #51 (Unknown) earns rank #2 for: cannibal corpse's founding drummer, present for every 90s album. Paul Mazurkiewicz co-founded Cannibal Corpse in Buffalo, New York in 1988 and drummed on every album the band released that decade, from their 1990 debut "Eaten Back to Life" through "Tomb of the Mutilated" (1992), "The Bleeding" (1994), and "Vile" (1996), a run of albums that helped define death metal's sound for the entire genre. Mazurkiewicz earns rank #2 for the most complete and unbroken 90s death metal discography on this list..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #2 for: cannibal corpse's founding drummer, present for every 90s album. Paul Mazurkiewicz co-founded Cannibal Corpse in Buffalo, New York in 1988 and drummed on every album the band released that decade, from their 1990 debut "Eaten Back to Life" through "Tomb of the Mutilated" (1992), "The Bleeding" (1994), and "Vile" (1996), a run of albums that helped define death metal's sound for the entire genre. Mazurkiewicz earns rank #2 for the most complete and unbroken 90s death metal discography on this list..
+
+Full profile: https://metalforge.io/drummer/paul-mazurkiewicz
 
 ### 3. Gene Hoglan
 
@@ -11230,21 +11386,25 @@ Raymond Herrera (Fear Factory / Brujeria) earns rank #8 for: industrial death me
 
 Full profile: https://metalforge.io/drummer/raymond-herrera
 
-### 9. Drummer #54
+### 9. Daniel Erlandsson
 
-**Band:** Unknown
+**Band:** Arch Enemy
 **Highlight:** Co-founding melodic death metal with Arch Enemy in 1995
 **Why ranked here:** Daniel Erlandsson co-founded Swedish melodic death metal band Arch Enemy in 1995, combining Scandinavian death metal intensity with technical precision and musicality on the band's earliest recordings, part of the wave of Gothenburg-style melodic death metal that expanded the genre's reach during the decade. Erlandsson earns rank #9 for a founding role in one of the 90s' most enduring melodic death metal bands.
 
-Drummer #54 (Unknown) earns rank #9 for: co-founding melodic death metal with arch enemy in 1995. Daniel Erlandsson co-founded Swedish melodic death metal band Arch Enemy in 1995, combining Scandinavian death metal intensity with technical precision and musicality on the band's earliest recordings, part of the wave of Gothenburg-style melodic death metal that expanded the genre's reach during the decade. Erlandsson earns rank #9 for a founding role in one of the 90s' most enduring melodic death metal bands..
+Daniel Erlandsson (Arch Enemy) earns rank #9 for: co-founding melodic death metal with arch enemy in 1995. Daniel Erlandsson co-founded Swedish melodic death metal band Arch Enemy in 1995, combining Scandinavian death metal intensity with technical precision and musicality on the band's earliest recordings, part of the wave of Gothenburg-style melodic death metal that expanded the genre's reach during the decade. Erlandsson earns rank #9 for a founding role in one of the 90s' most enduring melodic death metal bands..
 
-### 10. Drummer #55
+Full profile: https://metalforge.io/drummer/daniel-erlandsson
 
-**Band:** Unknown
+### 10. Jaska Raatikainen
+
+**Band:** Children of Bodom
 **Highlight:** Co-founding Children of Bodom and melodic death metal's neoclassical wing
 **Why ranked here:** Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993, helping create the band's signature blend of neoclassical melodies and aggressive death metal alongside the late Alexi Laiho, culminating in 1997's debut "Something Wild." Raatikainen earns rank #10 for a founding contribution to melodic death metal's neoclassical branch that closed out the decade's death metal expansion.
 
-Drummer #55 (Unknown) earns rank #10 for: co-founding children of bodom and melodic death metal's neoclassical wing. Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993, helping create the band's signature blend of neoclassical melodies and aggressive death metal alongside the late Alexi Laiho, culminating in 1997's debut "Something Wild." Raatikainen earns rank #10 for a founding contribution to melodic death metal's neoclassical branch that closed out the decade's death metal expansion..
+Jaska Raatikainen (Children of Bodom) earns rank #10 for: co-founding children of bodom and melodic death metal's neoclassical wing. Jaska Raatikainen co-founded Finnish melodic death metal band Children of Bodom in 1993, helping create the band's signature blend of neoclassical melodies and aggressive death metal alongside the late Alexi Laiho, culminating in 1997's debut "Something Wild." Raatikainen earns rank #10 for a founding contribution to melodic death metal's neoclassical branch that closed out the decade's death metal expansion..
+
+Full profile: https://metalforge.io/drummer/jaska-raatikainen
 
 ### Related Lists
 

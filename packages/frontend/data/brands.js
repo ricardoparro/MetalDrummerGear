@@ -394,6 +394,103 @@ Sabian offers excellent value at various price points, making professional-quali
       }
     ],
   },
+
+  // ==================== DRUMHEAD BRANDS ====================
+  evans: {
+    slug: "evans",
+    name: "Evans",
+    type: "drumheads",
+    icon: "🥁",
+    color: "#f97316",
+    foundedYear: "1957",
+    country: "USA",
+    description:
+      "Evans is an American drumhead manufacturer that pioneered the synthetic drumhead. From the EMAD bass head to the oil-filled Hydraulic series, Evans heads are a metal drumming staple.",
+    longDescription: `Evans has been shaping drum sound since 1957, when it introduced the first synthetic (Mylar) drumhead and changed drumming forever. Now part of D'Addario, Evans continues to innovate with heads engineered for the demands of heavy, aggressive playing.
+
+**Why Metal Drummers Choose Evans:**
+- **EMAD Series** – Adjustable muffling bass drumheads built for tight, focused low end
+- **Hydraulic Series** – Oil-filled heads that kill overtones for a dry, punchy attack
+- **UV1 Series** – UV-cured coating for extra durability under heavy playing
+- **G2/G1 Series** – Clear and coated two-ply heads for controlled sustain
+
+**The Metal Sound:**
+Metal drummers need heads that can survive aggressive playing while staying controlled and consistent night after night. Evans' EMAD2 is a go-to bass drumhead for its built-in muffling rings, letting drummers dial in a tight, click-friendly low end without extra tape or pillows.
+
+**Durability & Consistency:**
+Evans heads are known for holding their tuning and tone through extended tours and heavy hitting, which is why they're found on stages and in studios across every metal subgenre.`,
+    metaTitle: "Evans Metal Drummers - Who Uses Evans Drumheads | MetalForge",
+    metaDescription:
+      "Discover which metal drummers use Evans drumheads. From the EMAD2 bass head to the Hydraulic series, explore Evans setups used in metal.",
+    keywords: ["evans drumheads", "evans emad", "evans hydraulic", "evans metal drummers", "evans uv1"],
+    popularModels: [
+      { name: "EMAD2", description: "Adjustable muffling bass drumhead for a tight, focused low end", affiliate: "evans-emad2" },
+      { name: "Hydraulic Series", description: "Oil-filled heads that cut overtones for a dry, punchy attack", affiliate: "evans-hydraulic" },
+      { name: "UV1 Coated", description: "UV-cured coated head built for durability under heavy playing", affiliate: "evans-uv1-coated" },
+    ],
+    faq: [
+      {
+        question: "What Evans drumheads do metal drummers use?",
+        answer: "Metal drummers commonly use Evans EMAD2 on bass drums for its built-in muffling, and Hydraulic series heads on snares and toms for a dry, controlled attack. The UV1 series is popular for its durability under aggressive playing."
+      },
+      {
+        question: "Are Evans drumheads good for metal?",
+        answer: "Yes, Evans is a top choice for metal drumming. Their heads are engineered for durability and tone control, letting drummers get a focused, punchy sound that cuts through heavily distorted guitars."
+      },
+      {
+        question: "Evans EMAD vs Hydraulic for metal?",
+        answer: "EMAD is designed primarily for bass drums, offering adjustable muffling for a tight low end. Hydraulic heads are oil-filled and work well on snares and toms, killing overtones for a dry, punchy sound. Many metal drummers use both together."
+      }
+    ],
+  },
+
+  remo: {
+    slug: "remo",
+    name: "Remo",
+    type: "drumheads",
+    icon: "🥁",
+    color: "#0891b2",
+    foundedYear: "1957",
+    country: "USA",
+    description:
+      "Remo is the world's largest drumhead manufacturer, founded by Remo Belli in 1957. From the Powerstroke 3 bass head to the Emperor and Ambassador series, Remo heads are used across every genre of metal.",
+    longDescription: `Remo was founded in 1957 by Remo Belli in North Hollywood, California, and helped pioneer the modern synthetic drumhead alongside Evans. Today Remo is the world's largest drumhead manufacturer, with a product line that spans nearly every style of drumming, including metal.
+
+**Why Metal Drummers Choose Remo:**
+- **Powerstroke 3** – Built-in muffling ring for a punchy, controlled bass drum sound
+- **Emperor Series** – Two-ply construction for durability and a full, controlled tone
+- **Ambassador Series** – Classic single-ply heads for a bright, open sound
+- **Pinstripe Series** – Two-ply design with a built-in overtone-control ring
+
+**The Metal Sound:**
+Remo's Powerstroke 3 is one of the most widely used bass drumheads in metal, prized for its built-in muffling ring that delivers a tight, focused thump without extra dampening. Emperor heads are a common choice on snares and toms, offering the durability to survive aggressive playing while keeping a controlled, present tone.
+
+**Durability & Consistency:**
+Remo's manufacturing consistency and broad lineup mean drummers can dial in exactly the amount of attack, sustain, and durability their playing demands, from thrash to death metal to progressive styles.`,
+    metaTitle: "Remo Metal Drummers - Who Uses Remo Drumheads | MetalForge",
+    metaDescription:
+      "Discover which metal drummers use Remo drumheads. From the Powerstroke 3 bass head to Emperor and Ambassador series, explore Remo setups used in metal.",
+    keywords: ["remo drumheads", "remo powerstroke", "remo emperor", "remo ambassador", "remo metal drummers"],
+    popularModels: [
+      { name: "Powerstroke 3", description: "Built-in muffling ring for a punchy, controlled bass drum sound", affiliate: "remo-powerstroke-3" },
+      { name: "Emperor", description: "Two-ply construction for durability and a full, controlled tone", affiliate: "remo-emperor" },
+      { name: "Ambassador", description: "Classic single-ply head for a bright, open sound", affiliate: "remo-ambassador" },
+    ],
+    faq: [
+      {
+        question: "What Remo drumheads do metal drummers use?",
+        answer: "Metal drummers frequently use the Remo Powerstroke 3 on bass drums for its built-in muffling ring, and Emperor heads on snares and toms for their durability and full, controlled tone. Ambassador heads are also popular for a brighter, more open sound."
+      },
+      {
+        question: "Are Remo drumheads good for metal?",
+        answer: "Yes, Remo is one of the most widely used drumhead brands in metal. Their Powerstroke and Emperor lines are built to handle aggressive, high-volume playing while staying in tune through long sets."
+      },
+      {
+        question: "Remo Emperor vs Ambassador for metal?",
+        answer: "Emperor heads are two-ply, offering more durability and a fuller, more controlled tone that suits heavier playing. Ambassador heads are single-ply, giving a brighter and more open sound. Many metal drummers prefer Emperor for its durability under aggressive hitting."
+      }
+    ],
+  },
 };
 
 // Helper functions for brand data access

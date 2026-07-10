@@ -601,7 +601,7 @@ export const articles = {
     "artist": "Slayer",
     "drummer": "Paul Bostaph",
     "drummerId": 4,
-    "relatedDrummerSlug": "dave-lombardo",
+    "relatedDrummerSlug": "paul-bostaph",
     "year": 2001,
     "genre": "Thrash Metal",
     "label": "American Recordings",

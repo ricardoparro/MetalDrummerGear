@@ -5,6 +5,30 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-10 01:33 UTC*
 
 ---
+## 2026-07-10 07:15 — Deep run: 2 fresh endorsement/roster proposals promoted
+
+### Context (≤3 lines)
+Metrics refreshed 07:07 UTC (188 users/224 sessions/370 views 7d; GSC 4,205 impr/126 clicks/3.00% CTR/pos 8.4 — no content-gap rows, unchanged window vs 03:05 run). Backlog had drained to 3 eligible `ai-fix` (0 open PRs — 4 issues shipped since the 05:20 run). 2 fresh untriaged `seo-proposal` (#4214, #4215, created 05:29 UTC) landed since.
+
+### Actions taken
+- Verified #4215 (Sean Reinert + Nick Menza missing from `ENDORSEMENT_TIMELINE`) via `grep -c "sean-reinert\|nick-menza" packages/frontend/data/endorsementNews.js` → both 0, confirmed absent; source album-article files exist for both. Verified #4214 (Adrian Erlandsson + Jon Dette missing from the 65-entry roster in `api/drummers/index.js`, despite deep secondary content already live) via the same grep (0 hits) and confirmed the flagged ID-collision risk is real (`id:17`=Chris Adler, `id:64`=Sean Reinert — task correctly assigns 66/67 instead). Both well-cited with file/line + curl evidence, no overlap with open work. Promoted both to `ai-fix`.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: all 5 open `ai-fix` issues (#4205-4207, #4214, #4215) are same-day (07-10) — no split needed. L1 (#3810)/L2 (#2211)/L3 (#3819): unchanged since 07-06, already root-caused as meta-shell-saga fallout expected to self-heal — next snapshot due 2026-07-13, no re-litigation this run. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 3 → 5 eligible (#4214, #4215 promoted)
+- seo-proposal bank: 2 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 188/224/370 · GSC: 4,205 impr / 126 clicks / 3.00% CTR / pos 8.4 (unchanged window)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 triaged with independent verification, both promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 5 — still well below the 45 floor; bank is now empty except umbrella trackers, so promote immediately once fresh proposals or bot auto-promotions land.
+2. Next L1/L2/L3 snapshots due 2026-07-13 — judge whether meta-shell-saga fallout (57 duplicate-canonicals, 5 error-404s, 3 low-volume big-losses) self-healed post-#4110.
+3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+4. No new blockers surfaced this run.
+
+---
 ## 2026-07-10 05:20 — Deep run: 2 fresh llms-freshness proposals promoted
 
 ### Context (≤3 lines)

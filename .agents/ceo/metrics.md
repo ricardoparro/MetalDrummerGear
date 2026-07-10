@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-10 05:17 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-10 07:07 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,17 +8,17 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 187 |
-| Sessions | 222 |
-| Page views | 364 |
-| Engagement rate | 61.71% |
-| Avg session (s) | 145 |
+| Active users | 188 |
+| Sessions | 224 |
+| Page views | 370 |
+| Engagement rate | 61.16% |
+| Avg session (s) | 146 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
+| /drummers | 22 | 6 |
 | / | 21 | 10 |
-| /drummers | 21 | 6 |
 | /drummer/jaska-raatikainen | 18 | 3 |
 | /drummer/matt-greiner | 13 | 11 |
 | /articles/fastest-double-bass-drummers | 12 | 7 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 183 | 156 |
+| Organic Search | 184 | 157 |
 | Direct | 32 | 25 |
-| Unassigned | 26 | 25 |
+| Unassigned | 27 | 26 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

@@ -1,14 +1,14 @@
 # Metal Drummer Gear Endorsements — Complete List
 
-This page documents official gear endorsements for the 33 professional metal drummers catalogued in MetalForge's endorsement index.
+This page documents official gear endorsements for the 63 professional metal drummers catalogued in MetalForge's endorsement index.
 
-> Last Updated: 2026-07-09 · Source: https://metalforge.io
+> Last Updated: 2026-07-10 · Source: https://metalforge.io
 
 For a brand-first view of the full 63-drummer roster see [/llms/gear-by-brand.md](https://metalforge.io/llms/gear-by-brand.md).
 
 ## Per-Drummer Endorsement Detail Pages
 
-Each of the 33 drummers has a dedicated endorsement page with current endorsements, signature models, endorsement history, and FAQ:
+Each of the 63 drummers has a dedicated endorsement page with current endorsements, signature models, endorsement history, and FAQ:
 
 - [Lars Ulrich — Brand Endorsements](https://metalforge.io/llms/endorsements/lars-ulrich.md)
 - [Joey Jordison — Brand Endorsements](https://metalforge.io/llms/endorsements/joey-jordison.md)
@@ -34,6 +34,13 @@ Each of the 33 drummers has a dedicated endorsement page with current endorsemen
 - [Gavin Harrison — Brand Endorsements](https://metalforge.io/llms/endorsements/gavin-harrison.md)
 - [Hellhammer — Brand Endorsements](https://metalforge.io/llms/endorsements/hellhammer.md)
 - [Flo Mounier — Brand Endorsements](https://metalforge.io/llms/endorsements/flo-mounier.md)
+- [Scott Travis — Brand Endorsements](https://metalforge.io/llms/endorsements/scott-travis.md)
+- [Nicko McBrain — Brand Endorsements](https://metalforge.io/llms/endorsements/nicko-mcbrain.md)
+- [Vinnie Paul — Brand Endorsements](https://metalforge.io/llms/endorsements/vinnie-paul.md)
+- [Paul Bostaph — Brand Endorsements](https://metalforge.io/llms/endorsements/paul-bostaph.md)
+- [Gene Hoglan — Brand Endorsements](https://metalforge.io/llms/endorsements/gene-hoglan.md)
+- [Shannon Larkin — Brand Endorsements](https://metalforge.io/llms/endorsements/shannon-larkin.md)
+- [Igor Cavalera — Brand Endorsements](https://metalforge.io/llms/endorsements/igor-cavalera.md)
 - [Dirk Verbeuren — Brand Endorsements](https://metalforge.io/llms/endorsements/dirk-verbeuren.md)
 - [Frost — Brand Endorsements](https://metalforge.io/llms/endorsements/frost.md)
 - [Abe Cunningham — Brand Endorsements](https://metalforge.io/llms/endorsements/abe-cunningham.md)
@@ -43,6 +50,29 @@ Each of the 33 drummers has a dedicated endorsement page with current endorsemen
 - [Blake Richardson — Brand Endorsements](https://metalforge.io/llms/endorsements/blake-richardson.md)
 - [Chris Turner — Brand Endorsements](https://metalforge.io/llms/endorsements/chris-turner.md)
 - [Daniel Erlandsson — Brand Endorsements](https://metalforge.io/llms/endorsements/daniel-erlandsson.md)
+- [Derek Roddy — Brand Endorsements](https://metalforge.io/llms/endorsements/derek-roddy.md)
+- [Hannes Grossmann — Brand Endorsements](https://metalforge.io/llms/endorsements/hannes-grossmann.md)
+- [Isaac Lamb — Brand Endorsements](https://metalforge.io/llms/endorsements/isaac-lamb.md)
+- [Jason Bittner — Brand Endorsements](https://metalforge.io/llms/endorsements/jason-bittner.md)
+- [Jocke Wallgren — Brand Endorsements](https://metalforge.io/llms/endorsements/jocke-wallgren.md)
+- [Mike Mangini — Brand Endorsements](https://metalforge.io/llms/endorsements/mike-mangini.md)
+- [Morgan Ågren — Brand Endorsements](https://metalforge.io/llms/endorsements/morgan-agren.md)
+- [Navene Koperweis — Brand Endorsements](https://metalforge.io/llms/endorsements/navene-koperweis.md)
+- [Nick Augusto — Brand Endorsements](https://metalforge.io/llms/endorsements/nick-augusto.md)
+- [Paul Mazurkiewicz — Brand Endorsements](https://metalforge.io/llms/endorsements/paul-mazurkiewicz.md)
+- [Pete Sandoval — Brand Endorsements](https://metalforge.io/llms/endorsements/pete-sandoval.md)
+- [Ray Luzier — Brand Endorsements](https://metalforge.io/llms/endorsements/ray-luzier.md)
+- [Raymond Herrera — Brand Endorsements](https://metalforge.io/llms/endorsements/raymond-herrera.md)
+- [Richard Christy — Brand Endorsements](https://metalforge.io/llms/endorsements/richard-christy.md)
+- [Ryan Van Poederooyen — Brand Endorsements](https://metalforge.io/llms/endorsements/ryan-van-poederooyen.md)
+- [Tim Yeung — Brand Endorsements](https://metalforge.io/llms/endorsements/tim-yeung.md)
+- [Daray — Brand Endorsements](https://metalforge.io/llms/endorsements/daray.md)
+- [Kevin Talley — Brand Endorsements](https://metalforge.io/llms/endorsements/kevin-talley.md)
+- [Martin Axenrot — Brand Endorsements](https://metalforge.io/llms/endorsements/martin-axenrot.md)
+- [Martin Lopez — Brand Endorsements](https://metalforge.io/llms/endorsements/martin-lopez.md)
+- [Matt Garstka — Brand Endorsements](https://metalforge.io/llms/endorsements/matt-garstka.md)
+- [Sean Reinert — Brand Endorsements](https://metalforge.io/llms/endorsements/sean-reinert.md)
+- [Nick Menza — Brand Endorsements](https://metalforge.io/llms/endorsements/nick-menza.md)
 ---
 
 ## Drum Kit Endorsements

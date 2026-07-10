@@ -8,32 +8,43 @@
  * This page exposes it with citation-ready https://metalforge.io/... page URLs,
  * so an LLM answering "how do I play <drummer>'s <song>?" can cite us.
  *
- * Mirrors the sibling generate-llms-*.cjs generators: regex + controlled eval
- * over the ESM data file (single source of truth), so it auto-stays-in-sync as
- * Phase 3 licks land (#1044). No new YouTube IDs are introduced — only IDs that
- * already exist in the data — so there is no #984 dead-video concern.
+ * Data source: packages/frontend/data/licks/<slug>.js (per-drummer modules,
+ * per the #1056 refactor). Reads every module directly off disk (instead of a
+ * hardcoded drummer list) so this generator can't drift out of sync with the
+ * roster the way it did — see #4229. Same regex+eval extraction pattern as
+ * the sibling generate-llms-licks-per-drummer.cjs generator.
  */
 
 const fs = require('fs');
 const path = require('path');
 
-// --- Load licks (same regex+eval extraction as the sibling generators) -----------
-const licksPath = path.join(__dirname, '../packages/frontend/data/signatureLicks.js');
-const licksContent = fs.readFileSync(licksPath, 'utf-8');
+// --- Load licks: merge every packages/frontend/data/licks/<slug>.js module -------
+const licksDir = path.join(__dirname, '../packages/frontend/data/licks');
+const drummerSlugs = fs.readdirSync(licksDir)
+  .filter((f) => f.endsWith('.js') && f !== 'index.js')
+  .map((f) => f.replace(/\.js$/, ''));
 
-const objMatch = licksContent.match(/export const SIGNATURE_LICKS = (\{[\s\S]*?\n\});/);
-if (!objMatch) {
-  console.error('Could not extract SIGNATURE_LICKS from signatureLicks.js');
-  process.exit(1);
+function loadDrummerLicks(slug) {
+  const filePath = path.join(licksDir, `${slug}.js`);
+  const content = fs.readFileSync(filePath, 'utf-8');
+
+  const match = content.match(/export const licks\s*=\s*(\{[\s\S]*?\})\s*;\s*\nexport default/m)
+    || content.match(/export const licks\s*=\s*(\{[\s\S]*\})\s*;?\s*$/m);
+  if (!match) {
+    throw new Error(`Could not extract licks object from ${filePath}`);
+  }
+
+  try {
+    // eslint-disable-next-line no-eval
+    return eval('(' + match[1] + ')');
+  } catch (e) {
+    throw new Error(`Error parsing licks from ${filePath}: ${e.message}`);
+  }
 }
 
-let SIGNATURE_LICKS;
-try {
-  // eslint-disable-next-line no-eval
-  SIGNATURE_LICKS = eval('(' + objMatch[1] + ')');
-} catch (e) {
-  console.error('Error parsing SIGNATURE_LICKS:', e);
-  process.exit(1);
+const SIGNATURE_LICKS = {};
+for (const slug of drummerSlugs) {
+  Object.assign(SIGNATURE_LICKS, loadDrummerLicks(slug));
 }
 
 const today = new Date().toISOString().split('T')[0];

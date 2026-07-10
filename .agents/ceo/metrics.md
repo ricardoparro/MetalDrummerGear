@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-10 21:22 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-10 22:21 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -10,7 +10,7 @@
 | --- | --- |
 | Active users | 205 |
 | Sessions | 244 |
-| Page views | 403 |
+| Page views | 404 |
 | Engagement rate | 65.16% |
 | Avg session (s) | 149 |
 
@@ -25,8 +25,8 @@
 | /drummer/mario-duplantier | 10 | 8 |
 | /drummer/ben-koller | 9 | 7 |
 | /drummer/bill-ward | 9 | 7 |
+| /drummer/john-otto | 8 | 8 |
 | /articles/none-so-vile-drum-setup | 7 | 5 |
-| /drummer/john-otto | 7 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
@@ -34,7 +34,7 @@
 | Organic Search | 197 | 168 |
 | Direct | 37 | 28 |
 | Unassigned | 22 | 21 |
-| Cross-network | 5 | 5 |
+| Cross-network | 6 | 6 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

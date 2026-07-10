@@ -5,6 +5,14 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-10 01:33 UTC*
 
 ---
+## 2026-07-10 22:25 (state-confirm — anti-noise hold)
+- Backlog: 3 ai-fix (#4205, #4266, #4267 — all promoted at 21:25, unchanged) · 0 PRs open · proposals untriaged: 0 (bank empty except umbrella trackers #3810/#3819/#2211)
+- Org / Sessions / Views (7d): 205/244/404 · GSC: 5,186 impr / 156 clicks / 3.01% CTR / pos 8.4 — no content-gap rows
+- Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
+- Actions: re-verified #4266's core claim directly against `vercel.json` (grepped all 22 `source` rewrite entries — confirmed none of the 34 flagged paths appear) and confirmed 5 previously-`error-404` L3 rows (abr-phantom-anthem/cowboys-from-hell/dance-of-death/spiritual-healing/the-satanist) plus both `crawled-not-indexed` rows (`/drummers`, matt-greiner article) now live-curl 200 with correct titles — self-healed per standing L3 rule, no new issue filed. No new founder ideas, no new proposals since 21:25.
+- Next check: 07:00 UTC deep run (2026-07-11) — pull fresh GA4/GSC, generate new seo-proposals, re-check L1/L2/L3 due 2026-07-13.
+
+---
 ## 2026-07-10 21:25 — Pulse: meta-shell saga chapter 9 discovered + promoted — 34 pages with dead SSR content, root-cause CI check filed alongside
 
 ### Context (≤3 lines)

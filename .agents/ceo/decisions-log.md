@@ -5,6 +5,32 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-10 01:33 UTC*
 
 ---
+## 2026-07-10 21:25 — Pulse: meta-shell saga chapter 9 discovered + promoted — 34 pages with dead SSR content, root-cause CI check filed alongside
+
+### Context (≤3 lines)
+Metrics refreshed 21:22 UTC (205 users/244 sessions/403 views 7d; GSC 5,186 impr/156 clicks/3.01% CTR/pos 8.4 — no content-gap rows). Backlog was 1 eligible `ai-fix`, 0 open PRs — well below the 45 floor. 2 fresh untriaged `seo-proposal` landed at 20:36 UTC (#4266, #4267).
+
+### Actions taken
+- **#4266** (SEO CRITICAL): 34 top-level route patterns (43 incl. `/brands/:slug` variants — bands, vs, articles, battles, lists, guides, brands, stats, compare, gear, tools/*, etc.) have fully-built SSR meta/schema in `api/meta/[...path].js` that's unreachable because `vercel.json`'s bot-UA rewrite list never got a matching entry — bots fall through to the catch-all and get the generic homepage shell. Independently verified: live-curled `/brands/tama` and `/bands` with `GPTBot/1.0` UA — both returned the generic `<title>MetalForge - Discover What Pro Metal Drummers Play</title>` shell, while `/gear/cymbals` (which DOES have a rewrite) correctly returned its page-specific title. Confirmed in `vercel.json` (lines 531-552) that no entry exists for `/bands`, `/brands`, `/brands/:slug`, `/stats`, `/vs` (only `/vs/:pair` is covered), etc., and confirmed matching handlers exist in `api/meta/[...path].js` (grepped `path === '/stats'` → line 318, `path === '/bands'` → line 1656, `path === '/brands'` → line 1684). This is the 4th occurrence of this exact bug class (prior: #3934, #3972, #4110) and by far the largest blast radius. Promoted to `ai-fix`.
+- **#4267** (root-cause follow-up to #4266): adds a CI check diffing `api/meta/[...path].js` static-path handlers against `vercel.json`'s bot-UA rewrite entries, failing the build on drift — same intent as #4205's `/llms/*.md` staleness check but for this file pair. Promoted alongside #4266 since the fix without the guardrail would just recur a 5th time.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: all 3 open `ai-fix` issues (#4205, #4266, #4267) are same-day — no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
+
+### State delta
+- ai-fix backlog: 1 → 3 eligible (#4266, #4267 promoted)
+- seo-proposal bank: 2 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 plus #4205, already ai-fix)
+- Org/Sessions/Views (7d): 205/244/403 · GSC unchanged: 5,186 impr / 156 clicks / 3.01% CTR / pos 8.4
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 triaged with independent live-curl + source verification, both promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 3 — still well below the 45 floor; keep promoting fresh proposals liberally.
+2. Once #4266 ships, re-curl `/brands/tama`, `/bands`, `/stats` with bot UA to confirm page-specific titles + JSON-LD now present, and confirm no regression on already-working paths (`/gear/cymbals`, `/drummer/:slug`).
+3. Watch whether #4267's CI check lands cleanly and correctly flags a deliberately-reverted rewrite (per its own verify steps).
+4. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+5. Next L1/L2/L3 snapshots due 2026-07-13.
+
+---
 ## 2026-07-10 17:35 — Pulse: 3 fresh proposals promoted (llms-full.txt regen + 2 content batches), backlog 2→5
 
 ### Context (≤3 lines)

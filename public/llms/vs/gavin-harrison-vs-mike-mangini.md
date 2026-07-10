@@ -71,7 +71,7 @@ A: The full comparison is at [metalforge.io/vs/gavin-harrison-vs-mike-mangini](h
 *[Gavin Harrison drummer profile](https://metalforge.io/drummer/gavin-harrison)*
 *[Mike Mangini drummer profile](https://metalforge.io/drummer/mike-mangini)*
 *[Brann Dailor vs Gavin Harrison comparison](https://metalforge.io/vs/brann-dailor-vs-gavin-harrison)*
-*[Matt Garstka vs Mike Mangini comparison](https://metalforge.io/vs/matt-garstka-vs-mike-mangini)*
+*[Mike Mangini vs Matt Garstka comparison](https://metalforge.io/vs/mike-mangini-vs-matt-garstka)*
 *[Mike Portnoy vs Danny Carey comparison](https://metalforge.io/vs/mike-portnoy-vs-danny-carey)*
 
 ---

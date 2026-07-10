@@ -754,17 +754,13 @@ export function buildSitemapXml() {
     // Issue #2101: 3 additional pairs added (art-cruz-vs-chris-adler, aquiles-priester-vs-jaska-raatikainen, matt-garstka-vs-mike-mangini).
     // Issue #2389: lars-ulrich-vs-charlie-benante removed — now a curated drummerComparisons
     // entry, so it's sourced via getAllDrummerComparisonSlugs() above instead (avoids a duplicate <loc>).
+    // Issue #4217: 9 stale/dead slugs removed (tomas-haake-vs-george-kollias, brann-dailor-vs-danny-carey,
+    // pete-sandoval-vs-flo-mounier, vinnie-paul-vs-dave-lombardo, travis-orbin-vs-matt-halpern,
+    // pete-sandoval-vs-george-kollias, art-cruz-vs-chris-adler, aquiles-priester-vs-jaska-raatikainen,
+    // matt-garstka-vs-mike-mangini) — their public/llms/vs/*.md files were deleted (superseded by the
+    // reversed-order canonical slug, or dropped entirely from drummerComparisons data).
     ...([
-      'tomas-haake-vs-george-kollias',
-      'brann-dailor-vs-danny-carey',
-      'pete-sandoval-vs-flo-mounier',
       'mike-portnoy-vs-mike-mangini',
-      'vinnie-paul-vs-dave-lombardo',
-      'travis-orbin-vs-matt-halpern',
-      'pete-sandoval-vs-george-kollias',
-      'art-cruz-vs-chris-adler',
-      'aquiles-priester-vs-jaska-raatikainen',
-      'matt-garstka-vs-mike-mangini',
     ].map(slug => ({
       loc: `/llms/vs/${slug}.md`,
       priority: '0.5',

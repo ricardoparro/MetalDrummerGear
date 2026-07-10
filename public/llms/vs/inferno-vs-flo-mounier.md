@@ -117,7 +117,7 @@ A: *Demigod* (2004) and *Evangelion* (2009) are widely considered Behemoth's str
 
 *[Inferno drummer profile](https://metalforge.io/drummer/inferno)*
 *[Flo Mounier drummer profile](https://metalforge.io/drummer/flo-mounier)*
-*[Related: Pete Sandoval vs Flo Mounier](https://metalforge.io/vs/pete-sandoval-vs-flo-mounier)*
+*[Related: Flo Mounier vs Pete Sandoval](https://metalforge.io/vs/flo-mounier-vs-pete-sandoval)*
 *[Related: George Kollias vs Pete Sandoval](https://metalforge.io/vs/george-kollias-vs-pete-sandoval)*
 *[Related: George Kollias vs Tomas Haake](https://metalforge.io/vs/george-kollias-vs-tomas-haake)*
 

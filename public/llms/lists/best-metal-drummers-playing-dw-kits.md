@@ -88,6 +88,15 @@ Full drummer profile: [Kevin Talley on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: Which metal drummers play DW (Drum Workshop) drum kits?**
+A: Brann Dailor (Mastodon) runs a DW Collector's Series Maple kit, and Mike Portnoy played DW Collector's Maple for sixteen years (1994-2010) before returning to Tama. Paul Bostaph (Slayer), Derek Roddy (Hate Eternal), Matt Greiner (August Burns Red, 2010-2022), Hannes Grossmann (Obscura, on 2009's "Cosmogenesis"), and Kevin Talley round out MetalForge's documented DW artists.
+
+**Q: Why does this list rank 7 drummers instead of 10?**
+A: Every entry on this list requires a DW relationship that's independently verifiable against MetalForge's own gear guides, drummer-by-kit-model pages, or biographies — not a generic or conflicting brand mention. Only seven drummers in MetalForge's database currently clear that bar for DW specifically, so this ships as an honest top 7 rather than a padded top 10, the same standard applied to the companion Zildjian cymbal list.
+
+**Q: Did any of these drummers play DW before switching to another brand?**
+A: Yes — DW is often a mid-career chapter rather than a lifelong brand in MetalForge's data. Mike Portnoy moved from DW back to Tama in 2010, Hannes Grossmann moved from DW to Tama after 2009's "Cosmogenesis," and Matt Greiner moved from DW to Pearl after 2022, making DW a common bridge brand between Tama and Pearl chapters in these drummers' careers.
+
 
 ---
 

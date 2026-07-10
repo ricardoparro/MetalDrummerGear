@@ -120,6 +120,15 @@ Full drummer profile: [Raymond Herrera on MetalForge](https://metalforge.io/drum
 
 ## Frequently Asked Questions
 
+**Q: Which metal drummers play Sabian cymbals?**
+A: Mike Portnoy (Dream Theater) runs an elaborate Sabian HHX rig, and Gene Hoglan has played Sabian AAX across Death, Testament, Dark Angel, and Dethklok for over two decades. Vinnie Paul (Pantera), Pete Sandoval (Morbid Angel), Flo Mounier (Cryptopsy), Shannon Larkin (Godsmack), Mike Mangini (Dream Theater), Paul Mazurkiewicz (Cannibal Corpse), Ray Luzier (Korn), and Paul Bostaph (Slayer) round out MetalForge's most extensively documented Sabian artists.
+
+**Q: What is the difference between Sabian AAX and HHX cymbals?**
+A: Sabian AAX is a bright, machine-lathed series built for fast, cutting attack — the line behind Gene Hoglan's, Vinnie Paul's, and Pete Sandoval's crash setups. Sabian HHX leans darker and more complex, popular with progressive and technical players like Mike Portnoy and Mike Mangini, whose Dream Theater material demands more nuanced stick definition than a straightforward AAX crash provides.
+
+**Q: Why did Paul Bostaph switch from Paiste to Sabian?**
+A: Paul Bostaph played Paiste cymbals for most of his career across Slayer, Testament, and Exodus, with one earlier exception on 1998's "Diabolus in Musica." For Slayer's final studio album, "Repentless" (2015), producer Terry Date moved his entire setup — including cymbals — onto Sabian AAX alongside a Pearl Masters Maple kit, a documented late-career gear change rather than a lifelong Sabian association.
+
 
 ---
 

@@ -118,6 +118,18 @@ Full drummer profile: [Brann Dailor on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: Which extreme metal drummers are known for playing with groove?**
+A: Mario Duplantier of Gojira is the most commonly cited answer, building the band's entire rhythmic identity around tribal-influenced groove inside crushing progressive death metal. Inferno of Behemoth is the alternative answer for blackened death metal specifically, and Frost of Satyricon is cited for pioneering a groove-forward "black 'n' roll" style within black metal.
+
+**Q: What does "groove" mean in extreme metal drumming?**
+A: In extreme metal, groove refers to a rhythmic pocket or feel that makes a riff physically compelling — head-nodding or body-moving — rather than purely a display of speed or technicality. It typically involves deliberate use of space, dynamic accents, and syncopation rather than constant blast beats. Mario Duplantier's Gojira drumming is the genre's clearest example: crushing and technical, but built around a tribal, danceable pocket rather than nonstop aggression.
+
+**Q: How is groove-extreme metal different from groove metal?**
+A: Groove metal, as pioneered by bands like Pantera, is generally mid-tempo and built around a swinging, palm-muted riff pocket without extreme metal's blast-beat speed or death/black metal vocal and rhythmic extremity. Groove-extreme drumming, by contrast — as heard from Mario Duplantier, Inferno, and Frost — retains genuinely extreme metal speed, aggression, and technicality while still carving out a rhythmic pocket, making it a hybrid rather than a slower, separate genre.
+
+**Q: Which bands best represent the groove-extreme metal fusion?**
+A: Gojira is the clearest modern example, fusing progressive death metal technicality with tribal groove throughout their catalog. Behemoth represents the blackened death metal side of the fusion, Satyricon's mid-2000s "black 'n' roll" period represents black metal's version, and Sepultura's "Roots" (1996) remains a foundational thrash-death record that pioneered tribal groove in extreme metal decades before the current wave of groove-extreme bands.
+
 
 ---
 

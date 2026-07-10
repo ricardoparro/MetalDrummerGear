@@ -120,6 +120,15 @@ Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/dr
 
 ## Frequently Asked Questions
 
+**Q: Who is the best blackened death metal drummer?**
+A: Inferno of Behemoth is the most widely cited best blackened death metal drummer for his mechanical precision and sustained extreme performance across Behemoth's most acclaimed albums, including the critically acclaimed "The Satanist." Pete Sandoval of Morbid Angel is the historical answer — as the inventor of the extreme double bass template that all blackened death metal builds upon, no other drummer contributed more foundationally to the genre's rhythmic vocabulary. Paul Mazurkiewicz of Cannibal Corpse earns the argument for sustained extreme consistency — 35+ years of brutal death metal drumming at professional extreme standards is an endurance record no other blackened death drummer comes close to matching.
+
+**Q: What is the difference between blackened death metal and regular death metal drumming?**
+A: Blackened death metal drumming combines death metal's technical precision and compositional complexity with black metal's raw atmospheric ferocity and relentless hypnotic blast beat endurance. Where standard death metal prioritizes technical pattern construction and compositional sophistication, blackened death metal adds black metal's ritualistic intensity and darker atmospheric dimension — blast beats that feel more like summoning than technical demonstration. The tempos are similar (180–280+ BPM), but blackened death metal drumming emphasizes endurance and atmosphere alongside the technical demands of death metal. Bands like Behemoth, Morbid Angel, and Mayhem's blackened death phase represent the genre's defining extremity.
+
+**Q: What drum gear do blackened death metal drummers use?**
+A: Blackened death metal drummers require equipment built for sustained extreme speed. Inferno uses Pearl Masterworks with custom Polish-made Czarcie Kopyto (Devil's Hoof) double pedals, engineered specifically for extreme metal's heel-up demands. Pete Sandoval used Pearl PowerShifter Eliminator pedals on Morbid Angel's founding recordings, performing acoustically without triggers to maintain organic extreme intensity. Paul Mazurkiewicz plays Pearl kits. Hellhammer uses Sonor SQ2 with Axis double pedals and Paiste RUDE cymbals. The common thread is pedal hardware optimized for high-speed heel-up technique and cymbal setups that maintain attack clarity at extreme blast beat tempos — response speed and durability matter above all else.
+
 
 ---
 

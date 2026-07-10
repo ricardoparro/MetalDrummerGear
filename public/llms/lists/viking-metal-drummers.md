@@ -120,6 +120,18 @@ Full drummer profile: [Hannes Grossmann on MetalForge](https://metalforge.io/dru
 
 ## Frequently Asked Questions
 
+**Q: Who plays drums in Viking metal bands?**
+A: Jocke Wallgren has drummed for Amon Amarth, the genre's biggest and most commercially successful band, since 2016. Viking metal grew directly out of Scandinavian black metal and melodic death metal, so many of its foundational rhythmic ideas trace back to Norwegian black metal drummers like Hellhammer of Mayhem and Swedish/Finnish melodic death metal drummers like Daniel Erlandsson of Arch Enemy and Jaska Raatikainen of Children of Bodom. True Viking metal specialists outside MetalForge's current database — including Bathory's later-era session drummers and Enslaved's Cato Bekkevold — are widely credited as the genre's founding rhythmic architects.
+
+**Q: What bands define Viking metal?**
+A: Amon Amarth is Viking metal's biggest and most commercially successful band, built on Norse mythology lyrics and anthemic, mid-tempo melodic death metal. Bathory is widely credited as the genre's originator, particularly on 1988's "Blood Fire Death" and 1990's "Hammerheart." Enslaved bridged Norwegian black metal and Viking themes throughout the 1990s, while Moonsorrow and Falkenbach expanded the genre's folk-metal instrumentation. The genre sits at the intersection of black metal, melodic death metal, and folk metal.
+
+**Q: What is Viking metal drumming?**
+A: Viking metal drumming combines black metal's blast beats and raw aggression with melodic death metal's technical precision, deployed in service of anthemic, mid-tempo songwriting built for mass singalongs rather than pure extremity. Where black metal drumming sustains blast beat intensity as an end in itself, Viking metal drumming uses blast beats and double bass patterns to build scale and atmosphere behind Norse-mythology lyrics and folk-melodic hooks — epic grandeur over relentless speed.
+
+**Q: What gear do Viking metal drummers use?**
+A: Jocke Wallgren's Pearl Reference Pure kit with Zildjian A Custom and K Custom cymbals delivers the powerful low end and cutting attack Amon Amarth's Viking-themed anthems need at arena scale. Hellhammer's Pearl Masters Premium kit with dark-voiced Meinl Byzance cymbals gives Mayhem's black metal foundation its raw, atmospheric edge. Daniel Erlandsson's Pearl kit with Paiste RUDE cymbals favors bright, cutting definition that keeps Arch Enemy's melodic riffing audible through dense, fast arrangements — a shared preference across the Scandinavian scene for gear that projects clearly at both blast beat speed and anthemic mid-tempo volume.
+
 
 ---
 

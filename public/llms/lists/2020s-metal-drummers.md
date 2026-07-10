@@ -118,6 +118,15 @@ Full drummer profile: [Navene Koperweis on MetalForge](https://metalforge.io/dru
 
 ## Frequently Asked Questions
 
+**Q: Who is the best metal drummer of the 2020s so far?**
+A: Mike Portnoy is a commonly cited answer for his 2023 return to Dream Theater after 13 years away, one of progressive metal's most significant reunions of the decade. Charlie Benante earns the argument for stepping into Pantera's reunited drum chair in 2022 decades into his Anthrax career, and Jay Weinberg and Eloy Casagrande are the picks for navigating high-profile band transitions within a single year of each other.
+
+**Q: Why has the 2020s seen so many high-profile metal drummer changes?**
+A: Several factors converged: Slipknot's 2023 lineup change sent Jay Weinberg to Suicidal Tendencies and opened a chair for Eloy Casagrande after his own 13-year run in Sepultura ended; Pantera's first reunion touring since Dimebag Darrell's death brought Charlie Benante into one of metal's most legendary drum chairs; and Mike Portnoy's 2023 return to Dream Theater closed a 13-year gap since his 2010 departure. Several 2010s-era drummers also continued extending already-long tenures, like Dave Lombardo's ongoing multi-band 2020s output.
+
+**Q: What albums define 2020s metal drumming so far?**
+A: The most notable 2020s metal drumming releases so far include Megadeth's "The Sick, the Dying... and the Dead!" (2022) for Dirk Verbeuren's technical foundation, Lamb of God's "Omens" (2022) for Art Cruz's first full studio statement with the band, and Slipknot's "The End, So Far" (2022) for Jay Weinberg's final studio album with the band before his 2023 departure.
+
 
 ---
 

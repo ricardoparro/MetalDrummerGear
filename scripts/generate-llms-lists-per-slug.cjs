@@ -224,6 +224,14 @@ function buildFAQ(list, rankEntries) {
     parts.push('');
     parts.push(`**Q: How long are typical metal drum solos?**`);
     parts.push(`A: Metal drum solos range from 3–4 minute stand-alone pieces (${top1.name}'s Disasterpieces solo at 4+ minutes) to extended song-integrated features (${top3.name}'s 15+ minute Instrumedley) and full-song percussion showcases (${top2.name}'s 12+ minute "Pneuma"). Most live solos fall in the 4–8 minute range.`);
+  } else if (Array.isArray(list.faq) && list.faq.length > 0) {
+    // Generic fallback: render the list's own faq array (data source of truth)
+    // for every slug that doesn't have bespoke FAQ copy above.
+    list.faq.forEach(({ question, answer }) => {
+      parts.push(`**Q: ${question}**`);
+      parts.push(`A: ${answer}`);
+      parts.push('');
+    });
   }
 
   return parts.join('\n');

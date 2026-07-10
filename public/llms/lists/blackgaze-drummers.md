@@ -118,6 +118,18 @@ Full drummer profile: [Danny Carey on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: Who is the best blackgaze drummer?**
+A: Deafheaven's Daniel Tracy and Alcest's Winterhalter defined blackgaze's founding drumming template — blast beats dissolving into shoegaze-hazed atmosphere — but neither currently has a dedicated profile in MetalForge's database. Hellhammer of Mayhem is the closest working analogue for the genre's black metal half, his foundational blast beat vocabulary underpinning everything blackgaze layers shoegaze atmosphere on top of. Porcupine Tree's Gavin Harrison earns the argument for blackgaze's other essential ingredient — the hushed, dream-pop dynamic sensibility shoegaze contributes to the hybrid.
+
+**Q: What is blackgaze?**
+A: Blackgaze is a black metal subgenre that fuses blast-beat extremity with shoegaze and post-rock's dreamy, reverb-drenched guitar atmosphere. Alcest's Neige pioneered the hybrid in the mid-2000s by layering black metal aggression beneath My Bloody Valentine-style walls of guitar, and Deafheaven's "Sunbather" (2013) carried the style to mainstream critical acclaim, reaching listeners well outside extreme metal's usual audience. It is a narrower term than post-black metal, which covers any black metal hybrid with outside genres — blackgaze specifically means the shoegaze and dream-pop wing of that broader movement.
+
+**Q: How is blackgaze drumming different from standard black metal drumming?**
+A: Blackgaze drumming inherits black metal's blast beats and raw intensity but must also serve shoegaze's dreamy, wall-of-sound atmosphere — receding into cymbal-washed, ambient passages that function more like a shoegaze rhythm section than extreme metal percussion, then snapping back into blast-beat ferocity. Where standard black metal drumming sustains aggression throughout, blackgaze drumming treats that aggression as one pole of a much wider emotional and dynamic range, requiring the same quiet-loud sensitivity a shoegaze or dream-pop drummer would bring to a much gentler genre.
+
+**Q: What bands define blackgaze?**
+A: Alcest is widely credited as blackgaze's founding band, pioneering the fusion of black metal aggression with shoegaze atmosphere in the mid-2000s. Deafheaven's "Sunbather" (2013) became the genre's commercial and critical breakthrough, introducing blackgaze to audiences far beyond extreme metal. Lantlôs, Bosse-de-Nage, Sadness, and Have a Nice Life extended the hybrid through the 2010s, while Wolves in the Throne Room and Agalloch represent the genre's closely related folk- and nature-influenced post-black metal cousins.
+
 
 ---
 

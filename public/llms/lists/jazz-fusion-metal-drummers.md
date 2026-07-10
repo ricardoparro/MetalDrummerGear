@@ -118,6 +118,18 @@ Drummer #62 (Unknown) earns rank #10 for: carrying opeth's jazz-informed vocabul
 
 ## Frequently Asked Questions
 
+**Q: Who are the best jazz fusion metal drummers?**
+A: Sean Reinert (Death, Cynic) and Steve Flynn (Atheist) pioneered jazz fusion metal in the early 1990s but do not currently have dedicated profiles in MetalForge's database. Matt Garstka of Animals as Leaders is the closest working analogue, his playing blending jazz fusion, electronic music, and progressive metal into some of modern metal's most technically demanding drumming. Morgan Ågren, whose career sits directly inside jazz fusion's own scene, and Brann Dailor of Mastodon follow closely for their own jazz-informed rhythmic vocabularies.
+
+**Q: What is jazz fusion metal?**
+A: Jazz fusion metal fuses be-bop and fusion drumming's harmonic sophistication and rhythmic elasticity with metal's extremity, tracing back to Cynic's "Focus" (1993) and Death's "Human" (1991) — both featuring Sean Reinert's pioneering jazz-informed drumming — alongside Atheist's Steve Flynn, whose Latin-jazz-inflected polyrhythm shaped "Unquestionable Presence" (1991). Animals as Leaders carried the fusion lineage into 2010s instrumental progressive metal, and Opeth's jazz-schooled drum chair extended it into melodic, dynamically expansive progressive death metal.
+
+**Q: What makes jazz fusion metal drumming unique?**
+A: Jazz fusion metal drumming calls on a vocabulary standard metal drumming rarely uses: syncopated ghost notes borrowed from be-bop and fusion drumming, odd-meter phrasing that swings rather than merely counts in groups, and the dynamic sensitivity to shift between whisper-quiet, brush-adjacent passages and full-extremity blast beats within the same song. Where most metal drumming prioritizes raw power and rhythmic precision, jazz fusion metal drumming prioritizes touch, phrasing, and harmonic awareness borrowed directly from jazz technique.
+
+**Q: What bands define jazz fusion metal?**
+A: Cynic is widely credited as jazz fusion metal's defining band, Sean Reinert's jazz-informed drumming on "Focus" (1993) remaining one of the most sonically radical achievements in extreme metal history. Atheist and Watchtower built out the style's technical, jazz-inflected death and progressive thrash wing through the early 1990s, while Animals as Leaders carried jazz fusion's harmonic ambition into 2010s instrumental djent, and Opeth wove it into progressive death metal's melodic, dynamically expansive songwriting.
+
 
 ---
 

@@ -112,6 +112,18 @@ Full drummer profile: [Hellhammer on MetalForge](https://metalforge.io/drummer/h
 
 ## Frequently Asked Questions
 
+**Q: Who is the best funeral doom metal drummer?**
+A: Janne Parviainen of Shape of Despair is the most technically accomplished funeral doom drummer — his ability to sustain genuine precision at 20-45 BPM through Shape of Despair's orchestrated Finnish funeral doom represents the genre's most demanding performance standard. Jesse Shreibman of Bell Witch is the answer for atmospheric purity — his single-track 83-minute drumming on "Mirror Reaper" with no guitar support is the most radical funeral doom statement any drummer has committed to record. Shaun Taylor-Steels of My Dying Bride earns the argument for longevity and emotional commitment — three decades serving death-doom's most emotive British band.
+
+**Q: What is funeral doom metal drumming?**
+A: Funeral doom metal drumming operates at the extreme slow end of metal's tempo range — typically 20-60 BPM, compared to death metal's 180-280 BPM. The drummer's role inverts from extreme metal: where blast beats demonstrate speed, funeral doom drumming demonstrates weight and sustained darkness. Each drum strike becomes an event rather than a pattern component; each kick drum resonates for seconds rather than fractions of a second. The technical challenge is sustaining tempo discipline at ultra-slow speeds — human time perception makes rushing or dragging feel enormous — and the emotional demand is psychological commitment to sustained grief rather than physical endurance.
+
+**Q: What bands play funeral doom metal?**
+A: The foundational funeral doom bands include Thergothon (Finland, "Stream from the Heavens" 1994 — the genre's foundational document), Skepticism (Finland), Mournful Congregation (Australia), Shape of Despair (Finland), Esoteric (UK), Evoken (USA), Bell Witch (USA), and Funeral (Norway). Death-doom bands including My Dying Bride, Paradise Lost (early period), and Anathema occupy an adjacent position sharing the genre's emotional scope and slow tempos. Contemporary funeral doom includes Pallbearer (USA) and Omit (New Zealand), demonstrating the genre's ongoing global development.
+
+**Q: What gear do funeral doom metal drummers use?**
+A: Funeral doom drumming's gear requirements differ from extreme metal's focus on speed hardware. Large-diameter bass drums — 22" or 24" — emphasize depth and resonance over attack speed. Heavier heads (Remo Powerstroke, Evans EMAD) for sustained low-end presence. Cymbals are heavier rides and crashes with long decay — the sound must resonate between beats at 30 BPM rather than cutting sharply. Janne Parviainen uses Sonor kits with Sabian cymbals calibrated for Finnish funeral doom's orchestrated context. Bell Witch's Jesse Shreibman uses minimal setups appropriate for the duo's bass-and-drums format. The shared requirement is equipment optimized for resonance and sustained low-end weight rather than extreme-metal's speed and precision.
+
 
 ---
 

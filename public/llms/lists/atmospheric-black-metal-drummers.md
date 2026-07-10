@@ -120,6 +120,18 @@ Full drummer profile: [Mario Duplantier on MetalForge](https://metalforge.io/dru
 
 ## Frequently Asked Questions
 
+**Q: Who is the best atmospheric black metal drummer?**
+A: Hellhammer of Mayhem is the definitive atmospheric black metal drummer — his work on "De Mysteriis Dom Sathanas" established the ritualistic, hypnotic blast beat approach that defines the genre. Frost of Satyricon is the answer for technical precision within atmospheric black metal — his combination of extreme speed and controlled atmospheric ferocity on Satyricon's classic albums set the Norwegian atmospheric drumming standard. Inferno of Behemoth earns the argument for the most mechanically precise atmospheric extreme drumming in the modern era — his custom-pedal precision on "The Satanist" demonstrates how atmospheric extreme metal drumming can be simultaneously brutal and architecturally grand.
+
+**Q: How is atmospheric black metal drumming different from standard black metal drumming?**
+A: Atmospheric black metal drumming uses the same tools as standard black metal — blast beats, tremolo-adjacent patterns, raw intensity — but deploys them to create texture and atmosphere rather than pure aggression. Where standard black metal drumming maximizes ferocity throughout, atmospheric black metal uses dynamics, space, and mid-tempo hypnotic patterns alongside blast beats to build vast, dark sonic landscapes. Slower sections are as important as fast ones. The drummer serves the atmospheric arc of the song rather than demonstrating sustained extreme capability — ritualistic hypnosis over relentless technical demonstration.
+
+**Q: What bands play atmospheric black metal?**
+A: The core atmospheric black metal bands include Mayhem (whose "De Mysteriis Dom Sathanas" established foundational atmospheric black metal), Satyricon (early period through "Nemesis Divina"), Wolves in the Throne Room, Deafheaven, Alcest, Agalloch, Batushka, Primordial, and Drudkh. The genre has expanded to include post-black metal (Deafheaven, Alcest) incorporating shoegaze and post-rock atmospheric elements alongside black metal's extremity. Behemoth's atmospheric blackened death phase and Dimmu Borgir's symphonic approach represent related adjacent styles sharing the genre's atmospheric ambitions.
+
+**Q: What gear do atmospheric black metal drummers use?**
+A: Atmospheric black metal drummers tend toward equipment that emphasizes projection and raw character. Hellhammer uses Sonor SQ2 Heavy Beech with Axis double pedals and Paiste RUDE cymbals, known for aggressive projection in raw recording contexts. Frost uses Sonor SQ2 with Zildjian cymbals and Sonor Perfect Balance pedals. Inferno's Pearl Masterworks kit with custom Polish-made Czarcie Kopyto (Devil's Hoof) pedals is engineered for precision at extreme speeds. The atmospheric end of the genre often favors less clinical production — equipment that captures natural room sound and raw cymbal wash contributes to the textural depth that defines the genre's sonic character.
+
 
 ---
 

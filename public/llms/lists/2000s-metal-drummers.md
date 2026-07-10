@@ -120,6 +120,15 @@ Full drummer profile: [Matt Greiner on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: Who was the best metal drummer of the 2000s?**
+A: Joey Jordison (Slipknot) is the most commonly cited answer for closing out nu-metal's biggest decade across three genre-defining albums. Chris Adler (Lamb of God) is the alternative choice for defining the New Wave of American Heavy Metal's groove-death template, and Tomas Haake (Meshuggah) is the consensus pick among musicians for maturing polymetric drumming into the rhythmic system that would birth djent.
+
+**Q: How did 2000s metal drumming differ from the 80s and 90s?**
+A: Where the 80s built thrash's speed template and the 90s fractured metal into distinct extreme subgenres, the 2000s metal drumming scene was defined by technical consolidation and commercial crossover. Metalcore fused hardcore breakdowns with melodic death metal riffing into a mainstream-friendly package (August Burns Red, Converge), progressive metal graduated from cult status to festival headlining (Dream Theater, Tool), and groove metal's New Wave of American Heavy Metal wing (Lamb of God) brought technical double bass drumming to a much wider rock audience than extreme metal had previously reached.
+
+**Q: What albums defined 2000s metal drumming?**
+A: The most influential 2000s metal drumming albums include: Slipknot's "Iowa" (2001) for nu-metal's technical ceiling; Meshuggah's "Nothing" (2002) for polymetric maturity; Lamb of God's "Ashes of the Wake" (2004) for groove-death precision; Mastodon's "Leviathan" (2004) for progressive sludge ambition; Converge's "Jane Doe" (2001) for hardcore-metal fusion; Gojira's "From Mars to Sirius" (2005) for tribal-influenced groove-death; and Tool's "Lateralus" (2001) for mathematically-structured progressive metal.
+
 
 ---
 

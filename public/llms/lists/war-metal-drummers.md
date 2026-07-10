@@ -120,6 +120,18 @@ Full drummer profile: [Morgan Ågren on MetalForge](https://metalforge.io/drumme
 
 ## Frequently Asked Questions
 
+**Q: Who are the best war metal drummers?**
+A: No band built purely around the bestial war metal template — Blasphemy, Archgoat, Conqueror, Revenge — currently has a drummer in MetalForge's database. Hellhammer of Mayhem is the closest working analogue, his foundational Norwegian black metal aggression having directly informed war metal's chaotic sonic warfare. Inferno of Behemoth and Daray of Vader follow closely for their mechanized, war-themed blackened death metal extremity. Blasphemy's Black Winds and Archgoat's various drummers remain the genre's most direct historical touchstones outside this database.
+
+**Q: What is war metal?**
+A: War metal, also called bestial black/death metal, fuses black metal's raw aggression with death metal's bludgeoning weight into a deliberately chaotic, lo-fi assault built around relentless blast beats, dissonant riffing, and lyrical themes of war, conquest, blasphemy, and apocalypse. The subgenre emerged in the early 1990s from bands like Blasphemy and Beherit, prioritizing primal, militaristic ferocity and raw production over the technical precision or atmospheric ambition found in other extreme metal styles.
+
+**Q: What bands play war metal?**
+A: Founding war metal and bestial black/death metal bands include Blasphemy, Beherit, Archgoat, Conqueror, Revenge, and Sarcofago. The style shares close DNA with early Norwegian black metal (Mayhem) and bestial death metal (Morbid Angel), and its influence extends into modern war-themed death metal acts like Vader, whose catalog draws heavily on battlefield and military history imagery.
+
+**Q: What gear do war metal drummers use?**
+A: War metal's closest analogues favor gear built for raw, punishing extremity. Hellhammer's Pearl Masters Premium kit with dark, aggressive Meinl Byzance cymbals gives Mayhem's foundational black metal its chaotic edge. Inferno's Pearl Masterworks kit with custom Polish-made Czarcie Kopyto (Devil's Hoof) pedals is engineered for mechanized precision at extreme speeds. George Kollias's Pearl kit and Zildjian cymbals deliver the 280+ BPM velocity that war metal's bestial extremity demands. Across the genre's lineage, lightweight double pedals and dark-voiced, quick-decaying cymbals dominate.
+
 
 ---
 

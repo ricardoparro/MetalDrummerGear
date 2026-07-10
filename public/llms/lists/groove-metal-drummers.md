@@ -118,6 +118,18 @@ Full drummer profile: [John Otto on MetalForge](https://metalforge.io/drummer/jo
 
 ## Frequently Asked Questions
 
+**Q: Who are the best groove metal drummers?**
+A: Vinnie Paul of Pantera is the consensus founder and greatest groove metal drummer, having built the genre's entire syncopated, mid-tempo vocabulary alongside brother Dimebag Darrell on "Cowboys from Hell" and "Vulgar Display of Power." Lamb of God's Art Cruz is the genre's most prominent active drummer but doesn't yet have a dedicated MetalForge profile — Chris Adler, who drove the band's classic 2000s era and helped define the New Wave of American Heavy Metal, anchors this ranking's Lamb of God representation instead. Shannon Larkin of Godsmack follows closely for carrying groove metal into platinum-selling mainstream hard rock.
+
+**Q: What is groove metal?**
+A: Groove metal is a thrash metal offshoot pioneered by Pantera in the early 1990s, built on syncopated, mid-tempo riffs and a heavy, deliberate pocket designed for headbanging rather than pure speed. "Cowboys from Hell" (1990) and "Vulgar Display of Power" (1992) established the template, and bands like Sepultura, Machine Head, Lamb of God, and Godsmack carried the sound forward through new decades and regional scenes, sometimes described as "power groove" or grouped with the New Wave of American Heavy Metal.
+
+**Q: What makes groove metal drumming unique?**
+A: Groove metal drumming prioritizes pocket and syncopation over raw velocity — instead of thrash metal's straight-ahead speed, groove drummers lock double bass patterns behind off-kilter, syncopated guitar riffs, accenting exactly the beats that make a room move. Vinnie Paul's thunderous, deliberately-placed hits on Pantera's catalog established the template: serve the riff's groove rather than demonstrate technical flash, building power through repetition and feel.
+
+**Q: What bands define groove metal?**
+A: Pantera is universally credited as groove metal's founding band, with Vinnie Paul's drumming helping invent the genre's syncopated, mid-tempo heaviness on "Cowboys from Hell" and "Vulgar Display of Power." Sepultura's "Chaos A.D." and "Roots" expanded the sound with tribal and Brazilian influences. Machine Head and Lamb of God built groove metal's 2000s American revival, while Godsmack carried the genre's rhythmic template into mainstream hard rock radio.
+
 
 ---
 

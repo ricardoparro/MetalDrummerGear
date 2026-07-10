@@ -120,6 +120,21 @@ Full drummer profile: [Inferno on MetalForge](https://metalforge.io/drummer/infe
 
 ## Frequently Asked Questions
 
+**Q: Who is the most creative ambient metal drummer?**
+A: MetalForge's current drummer database centers on progressive and atmospheric metal drummers whose textural, soundscape-first approach parallels ambient metal's core songwriting instinct — Danny Carey of Tool is the most direct analogue, his hypnotic, world-music-informed patterns treating drumming as texture rather than pure rhythm. Brann Dailor of Mastodon and Tomas Haake of Meshuggah follow closely for melodic and hypnotic-repetition-based atmosphere respectively. The genre's foundational specialists — Neurosis's Jason Roeder, Isis's Aaron Turner, and Pelican's Larry Herweg — are the scene's most direct historical touchstones outside this database.
+
+**Q: What is ambient metal?**
+A: Ambient metal fuses drone, post-rock, and atmospheric electronic textures with sludge and post-metal's crushing weight, prioritizing hypnotic repetition and slowly evolving soundscapes over riff-driven aggression or verse-chorus structure. The genre grew out of the same late-1990s and 2000s scene that produced post-metal — Neurosis, Isis, and Pelican are its most direct touchstones — but leans further into texture and mood, sometimes incorporating fully instrumental, vocal-free passages built purely around sustained atmosphere.
+
+**Q: What makes ambient metal drumming unique?**
+A: Ambient metal drumming treats the kit as a textural instrument as much as a rhythmic one — hypnotic, repetitive patterns that build sustained atmosphere rather than driving the song forward with fills and dynamic peaks. Where most metal drumming provides forward momentum, ambient metal drumming often prioritizes stillness and repetition, letting slowly evolving guitar drones and electronic textures take the foreground while the drums maintain a meditative, trance-inducing pulse underneath.
+
+**Q: What bands define ambient metal?**
+A: Neurosis is widely credited as ambient metal's foundational influence, its 1990s albums pairing sludge weight with tribal, atmospheric patience. Isis (drummer Aaron Turner era) refined that dynamic architecture into a more overtly ambient, textural direction on "Oceanic" and "Panopticon." Pelican brought a fully instrumental approach to the genre's soundscape-building ambition, while Jesu and Nadja pushed further into drone and shoegaze-adjacent territory. The genre shares deep DNA with post-metal and atmospheric black metal.
+
+**Q: What gear do ambient metal drummers use?**
+A: Ambient metal's closest analogues favor gear that performs across a wide dynamic range, from near-silent textural passages to crushing weight. Danny Carey's Sonor SQ2 kit, Paiste cymbals, and Mandala electronic pads give Tool's long-form soundscapes their hypnotic depth. Brann Dailor's DW kit and Sabian AAX cymbals bring a melodic, atmospheric dimension to Mastodon's heavier passages. Across the genre, larger, deep-shelled toms and cymbals with long, resonant decay help sustain atmosphere through extended, slowly-evolving compositions.
+
 
 ---
 

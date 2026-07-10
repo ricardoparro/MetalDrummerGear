@@ -120,6 +120,18 @@ Full drummer profile: [Tim Yeung on MetalForge](https://metalforge.io/drummer/ti
 
 ## Frequently Asked Questions
 
+**Q: Who is the fastest blast beat drummer in metal?**
+A: Pete Sandoval (Morbid Angel) is widely credited as the pioneer and perfecter of the "hyper blast," setting the template for extreme blast-beat speed across "Altars of Madness," "Blessed Are the Sick," and "Covenant." George Kollias (Nile) has documented the highest sustained tempo on this list, pushing blast beats past 240 BPM using a co-designed heel-toe pedal technique, while Flo Mounier (Cryptopsy) and Derek Roddy (Hate Eternal/Nile) are widely regarded among musicians as the most technically proficient blast-beat innovators.
+
+**Q: What is the difference between a blast beat and a hyper blast?**
+A: A standard blast beat alternates snare and kick in unison with the hi-hat or ride, typically in the 180-220 BPM range. A hyper blast, the variant Pete Sandoval is credited with pioneering and perfecting, pushes that same alternating pattern to 250+ BPM, the tempo MetalForge's own technique guide classifies as the genre's "Hyper Blast" variation.
+
+**Q: Do blast beat specialists use different gear than other metal drummers?**
+A: Yes — several drummers on this list chose kits specifically engineered for extreme, sustained tempos. Pete Sandoval plays an all-metal-shell ddrum Dios kit built to survive hyper-blast velocities, and Derek Roddy and Tim Yeung both play the same dense, bass-heavy Tama Starclassic Bubinga shell pack for the low-end weight and fast attack blast-beat playing demands. MetalForge's blast-beat gear guide also recommends direct-drive pedals like the Pearl Demon Drive and lightweight footboards like the Tama Speed Cobra specifically for this technique.
+
+**Q: Which subgenres rely most on blast beats?**
+A: Death metal (Pete Sandoval, George Kollias, Flo Mounier, Gene Hoglan, Kevin Talley, Tim Yeung) and black metal (Hellhammer, Frost) are the two subgenres MetalForge's technique data identifies as most centrally built around the blast beat, with Behemoth's Inferno bridging both as a blackened death metal drummer. Grindcore, the blast beat's original home before it migrated into death and black metal in the mid-1980s, also depends heavily on the technique.
+
 
 ---
 

@@ -140,6 +140,18 @@ These ten drummers share a willingness to treat live performance as a genuinely 
 
 ## Frequently Asked Questions
 
+**Q: Which metal drummer is best known for live improvisation?**
+A: Danny Carey of Tool is the most commonly cited answer — his live improvisational passages regularly extend Tool's material well beyond its studio runtime, and his side project Volto! is built entirely around loose, jam-based playing. Mike Portnoy is the alternative answer, having co-founded the explicitly improvisation-driven instrumental supergroup Liquid Tension Experiment in 1997 on top of Dream Theater's reputation for reworking material live.
+
+**Q: What is the difference between live improvisation and live consistency?**
+A: Live consistency measures how faithfully a drummer reproduces a studio part night after night without a click track's safety net — the criterion that defines lists like the best live metal drummers. Live improvisation measures the opposite instinct: a willingness to deviate from the recorded version, extend songs, or rework fills differently each night. Both are difficult skills, but they aren't the same thing, and some drummers — like Danny Carey — are recognized for both simultaneously.
+
+**Q: Which metal drummers have a jazz or avant-garde background that shapes their improvisation?**
+A: Morgan Ågren was personally recruited by Frank Zappa at 17, a formative experience in a scene built around demanding live improvisation. Gavin Harrison brings a jazz-conservatory sensibility to King Crimson, a band whose live sets have long included dedicated space for collective improvisation. Dave Lombardo's work with Mr. Bungle and Fantômas pulls him into free-jazz-adjacent experimentation well outside Slayer's tightly arranged thrash metal.
+
+**Q: Do side projects reveal more about a drummer's improvisational ability than their main band?**
+A: Often, yes. Danny Carey's Volto! and Mike Portnoy's Liquid Tension Experiment both exist specifically to give their creators a jam-based outlet that their main bands' more methodically composed material doesn't provide. Matt Garstka's work with the fully instrumental Animals as Leaders similarly showcases a jazz-fusion vocabulary built around spontaneous variation that a more conventionally structured band might not call for as often.
+
 
 ---
 

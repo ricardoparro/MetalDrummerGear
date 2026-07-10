@@ -90,6 +90,15 @@ Full drummer profile: [Jaska Raatikainen on MetalForge](https://metalforge.io/dr
 
 ## Frequently Asked Questions
 
+**Q: Which metal drummers play Zildjian cymbals?**
+A: Lars Ulrich (Metallica) built his entire cymbal sound around the Zildjian A Custom Series, George Kollias (Nile) uses the darker K Custom Dark line, and Mario Duplantier (Gojira) layers three separate Zildjian sub-series into a single setup. Jay Weinberg (Slipknot), Raymond Herrera (Fear Factory), John Otto (Limp Bizkit), and Jaska Raatikainen (Children of Bodom) round out MetalForge's most extensively documented Zildjian artists.
+
+**Q: What is the difference between Zildjian A Custom and K Custom cymbals?**
+A: The A Custom Series uses a brilliant, mirror-polish finish that produces a bright, cutting attack — the sound behind Lars Ulrich's and Jay Weinberg's crash setups. The K Custom Series uses a traditional, hand-hammered finish for a darker, more complex tone with a controlled wash, which is why George Kollias and John Otto lean on K Custom for death metal and groove-first drumming where a washy A Custom crash would sound harsh.
+
+**Q: Why does this list rank 7 drummers instead of 10?**
+A: Every entry on this list requires a Zildjian relationship that's independently verifiable against MetalForge's own gear guides, price-history articles, or drummer biographies — not a generic or conflicting brand mention. Only seven drummers in MetalForge's database currently clear that bar for Zildjian specifically, so this ships as an honest top 7 rather than a padded top 10.
+
 
 ---
 

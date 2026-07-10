@@ -100,6 +100,15 @@ Full drummer profile: [John Otto on MetalForge](https://metalforge.io/drummer/jo
 
 ## Frequently Asked Questions
 
+**Q: Which metal drummers are also record producers?**
+A: Mike Portnoy carries producer credits across Dream Theater and his numerous side projects (Liquid Tension Experiment, The Winery Dogs, Transatlantic), and Joey Jordison held a formal "record producer" title throughout his Slipknot career. Hannes Grossmann runs his own studio in Germany, producing and mixing other artists' metal albums between his work with Obscura and Alkaloid, and Mario Duplantier has produced Gojira's own recordings alongside his brother, guitarist Joe Duplantier.
+
+**Q: Do any metal drummers work outside of music production?**
+A: Richard Christy is the clearest example: after drumming on Death's final album "The Sound of Perseverance" (1998) and Iced Earth's "The Glorious Burden" (2004), he left metal drumming behind in 2007 for a second career as a writer and producer for radio, most notably on The Howard Stern Show. Igor Cavalera made a similar genre pivot after leaving Sepultura, becoming an electronic music DJ and producer through his project Mixhell.
+
+**Q: What's the difference between a drummer who produces and one who just endorses gear?**
+A: A drummer with a genuine production credit is directly involved in shaping a finished recording — arrangement decisions, mix balance, guiding other musicians' performances — beyond playing their own drum part. That's distinct from an artist endorsement, which is a gear relationship rather than a creative role in the studio. Navene Koperweis's return to co-produce Animals as Leaders' "The Joy of Motion" after leaving the band, and John Otto producing the drums on rapper Diabolic's debut album, are both examples of production work entirely separate from the drummer's own performance credit.
+
 
 ---
 

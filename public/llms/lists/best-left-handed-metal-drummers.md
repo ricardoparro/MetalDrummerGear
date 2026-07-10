@@ -120,6 +120,18 @@ Full drummer profile: [Travis Orbin on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: Who is the best left-handed metal drummer?**
+A: Bill Ward of Black Sabbath and Charlie Benante of Anthrax are metal's two clearest examples of genuinely left-handed drummers, both playing standard right-handed kits throughout their careers. Ward's natural left-handedness, combined with the open-handed technique he developed out of necessity in 1960s Birmingham, shaped the loose, swinging feel of Black Sabbath's foundational riffs. Benante's left-handed-on-a-right-handed-kit setup forced the unconventional limb independence behind thrash metal's skank beat.
+
+**Q: What is open-handed drumming?**
+A: Open-handed drumming means playing the hi-hat with the non-dominant hand instead of crossing it over the dominant hand's snare arm — the crossed setup most drummers learn first. It is a technique choice available to drummers of any handedness, not an indicator of natural left-handedness: Hannes Grossmann and Matt Halpern are metal's most studied open-handed players, and both use the technique specifically to unlock voicings and hand independence a crossed-arm setup cannot achieve.
+
+**Q: Are there many left-handed drummers in metal?**
+A: True left-handed metal drummers are rare at the genre's top level — most left-handed players either learn on a standard right-handed kit as though they were right-handed, or develop workarounds like open-handed technique rather than playing a fully mirrored left-handed kit. Bill Ward and Charlie Benante remain the clearest documented examples of natural left-handers in metal's upper tier, which is why this list also includes open-handed specialists, an ambidextrous world-record holder, and right-handed drummers whose off-hand technique is exceptionally well developed.
+
+**Q: What's the difference between left-handed, open-handed, and ambidextrous drumming?**
+A: Left-handed means a drummer's natural dominant hand is the left — Bill Ward and Charlie Benante are metal's clearest examples, both playing standard right-handed kits despite their left-handed dominance. Open-handed means leading with the non-dominant hand on the hi-hat instead of crossing it over — a stylistic choice used by drummers of any handedness, including right-handers like Hannes Grossmann and Matt Halpern. Ambidextrous means genuinely equal proficiency in both hands, the rarest of the three — Mike Mangini's world-record-verified two-handed equality is the clearest documented case in metal.
+
 
 ---
 

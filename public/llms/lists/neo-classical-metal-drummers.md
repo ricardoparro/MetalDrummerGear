@@ -118,6 +118,18 @@ Full drummer profile: [Gavin Harrison on MetalForge](https://metalforge.io/drumm
 
 ## Frequently Asked Questions
 
+**Q: Who is the best neo-classical metal drummer?**
+A: Aquiles Priester of Angra is the most direct answer — Angra is a foundational neo-classical power metal band, and Priester's blistering double bass and orchestral-scale fills built its rhythmic identity. Jaska Raatikainen of Children of Bodom is the alternative choice for melodic death metal fans, having spent 26 years driving a band explicitly built on fusing neoclassical melodies with extreme metal aggression. Daniel Erlandsson of Arch Enemy earns the argument for providing the rhythmic backbone to Michael Amott's Malmsteen-influenced neo-classical lead guitar work.
+
+**Q: What makes a drummer "neo-classical" in metal?**
+A: Neo-classical metal drumming supports guitar and keyboard playing built on Baroque and Romantic classical composition — rapid arpeggios, harmonic minor scales, and symphonic dynamic contrast, popularized by Yngwie Malmsteen in the 1980s. The drummer's role is to provide a rhythmic foundation precise enough to support that classically-derived melodic complexity: driving double bass patterns, orchestral-scale fills that mirror the compositional grandeur of the lead instruments, and enough technical control to execute demanding, through-composed arrangements without losing the music's classical sense of structure and resolution.
+
+**Q: Is neo-classical metal the same as power metal?**
+A: Neo-classical metal and power metal overlap heavily but aren't identical. Power metal emphasizes anthemic melody, soaring vocals, and triumphant themes within traditional song structures. Neo-classical metal specifically foregrounds classical music theory — harmonic minor and diminished scales, Baroque-style arpeggios, symphonic orchestration — as its defining melodic and harmonic language. Angra and Children of Bodom sit at the intersection of both: power metal's anthemic scale combined with neo-classical metal's Malmsteen-derived technical vocabulary. Arch Enemy leans more purely melodic death metal but inherits neo-classical metal's guitar tradition directly through Michael Amott's playing.
+
+**Q: What gear do neo-classical metal drummers use?**
+A: Neo-classical metal drummers favor gear built for both technical precision and symphonic dynamic range. Aquiles Priester plays a Pearl Reference kit with Sabian HHX and AAX cymbals, chosen for articulate attack across rapid double bass patterns. Jaska Raatikainen used a Pearl Masters Premium Maple kit with Zildjian A Custom and K Custom cymbals throughout Children of Bodom's catalog, favoring a Pearl Eliminator double pedal for the direct-drive response demanding neo-classical double bass volleys require. Martin Axenrot's Sonor SQ2 kit with Meinl Byzance cymbals supports Opeth's wide dynamic range, from whisper-quiet acoustic passages to crushing extremity — a dynamic spread neo-classical metal's classical influences also demand.
+
 
 ---
 

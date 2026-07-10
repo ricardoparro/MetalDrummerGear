@@ -118,6 +118,18 @@ Full drummer profile: [Daray on MetalForge](https://metalforge.io/drummer/daray)
 
 ## Frequently Asked Questions
 
+**Q: Who are the best slam death metal drummers?**
+A: Suffocation's Mike Smith, Devourment's drummers, and Abominable Putridity's Ashot Kazaryan defined slam death metal's breakdown-first sound but do not currently have dedicated profiles in MetalForge's database. Kevin Talley is the genre's most direct working analogue, his 1998–2002 tenure in Dying Fetus helping forge the groove-and-blast template slam's modern generation builds on. Paul Mazurkiewicz of Cannibal Corpse and George Kollias of Nile follow closely for their own breakdown-to-blast dynamic control.
+
+**Q: What is slam death metal?**
+A: Slam death metal is a groove-first offshoot of death metal that emerged in the early-to-mid 1990s, prioritizing chugging, palm-muted breakdowns and pig-squeal vocal cadences over the blast-beat velocity that defines standard brutal death metal. Suffocation pioneered the sound's breakdown-heavy songwriting, Dying Fetus fused it with groove-driven brutality, Devourment pushed it into down-tuned, subterranean extremity, and Abominable Putridity carried the style into technically ambitious 2000s slam.
+
+**Q: What makes slam death metal drumming unique?**
+A: Slam death metal drumming inverts standard brutal death metal's priorities: instead of sustaining blast beats for entire songs, slam drummers lock into deliberately paced, tom-heavy breakdown grooves punctuated by sudden blast-beat bursts, using the transition between groove and blast to build the tension a slam riff needs to land. Where brutal death metal drumming showcases raw speed and endurance, slam death metal drumming showcases groove discipline and breakdown timing.
+
+**Q: What bands define slam death metal?**
+A: Suffocation is widely credited as slam death metal's founding influence, its chugging, breakdown-heavy songwriting on "Effigy of the Forgotten" (1991) establishing the genre's core vocabulary. Dying Fetus fused that breakdown-first approach with relentless groove-driven brutality through the 1990s and 2000s, Devourment pushed the style into some of extreme metal's lowest, most subterranean tunings, and Abominable Putridity carried slam into technically ambitious territory in the 2000s and 2010s.
+
 
 ---
 

@@ -140,6 +140,18 @@ What separates this list from a trophy case is duration itself — the ability t
 
 ## Frequently Asked Questions
 
+**Q: Which metal drummer has the longest continuous tenure with one band?**
+A: Lars Ulrich holds the longest unbroken tenure among active metal drummers, having co-founded Metallica in 1981 and never left — a 45-year run as of 2026. Nicko McBrain is close behind with 44 unbroken years in Iron Maiden's drum chair since 1982, and Charlie Benante has spent 43 continuous years with Anthrax since 1983.
+
+**Q: How is career longevity different from being the most decorated metal drummer?**
+A: Most-decorated rankings measure external recognition — Grammy wins, Modern Drummer Readers Poll victories, Rock Hall inductions. Career longevity measures something more basic: unbroken years spent behind a single band's kit, regardless of whether that work earned trophies. A drummer can top the longevity list without ever winning a major award, and the most decorated drummers on other lists don't always have the longest single-band tenures.
+
+**Q: Why does this list only count continuous tenure rather than total years played?**
+A: Several drummers have longer combined careers across multiple stints with the same band — Dave Lombardo's two separate runs with Slayer (1981–1992 and 2001–2013), for example, add up to a substantial combined total but include an extended gap in the middle. This list specifically ranks unbroken, single-stint tenure because it measures a different and arguably rarer achievement: never leaving in the first place.
+
+**Q: Which bands have kept the same drummer since their formation?**
+A: Several bands on this list have never changed drummers since forming: Meshuggah (Tomas Haake, since 1990), Tool (Danny Carey, since 1990), Gojira (Mario Duplantier, since 1996), Deftones (Abe Cunningham, since 1988), Cannibal Corpse (Paul Mazurkiewicz, since 1988), and Limp Bizkit (John Otto, since 1994) all still feature their original, founding drummer.
+
 
 ---
 

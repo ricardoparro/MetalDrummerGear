@@ -120,6 +120,18 @@ Full drummer profile: [Charlie Benante on MetalForge](https://metalforge.io/drum
 
 ## Frequently Asked Questions
 
+**Q: What is NWOAHM?**
+A: NWOAHM stands for New Wave of American Heavy Metal, a term coined in the early-to-mid 2000s to describe a wave of American bands — including Lamb of God, Mastodon, Shadows Fall, Trivium, Darkest Hour, and Killswitch Engage — who fused thrash metal speed, groove metal weight, and metalcore aggression into a distinctly American sound. The movement emerged as a commercial and critical response to nu-metal's dominance, bringing technical musicianship and extreme metal influences back into mainstream American heavy music.
+
+**Q: Who is the best NWOAHM drummer?**
+A: Chris Adler of Lamb of God is the most commonly cited answer — his two-decade run defined the movement's machine-gun double bass and groove-thrash precision on albums like "Ashes of the Wake" and "Sacrament." Vinnie Paul of Pantera is the alternative answer as the groove metal godfather whose grooves directly inspired the NWOAHM sound. Art Cruz is the contemporary answer, currently carrying Lamb of God's rhythmic torch.
+
+**Q: Which bands are considered part of the New Wave of American Heavy Metal?**
+A: Core NWOAHM bands include Lamb of God, Mastodon, Shadows Fall, Trivium, Darkest Hour, Killswitch Engage, Chimaira, God Forbid, and All That Remains. Pantera and Godsmack are frequently grouped alongside the movement as direct stylistic precursors and commercial contemporaries, since their groove metal foundation shaped how NWOAHM bands approached riffing and rhythm.
+
+**Q: How does NWOAHM drumming differ from metalcore drumming?**
+A: NWOAHM drumming leans more heavily on thrash metal speed and groove metal weight than metalcore's hardcore-derived breakdown emphasis. Where metalcore drummers prioritize half-time breakdown timing for live crowd response, NWOAHM drummers like Chris Adler and Jason Bittner emphasize sustained double bass aggression and the kind of riff-driven groove pocket that defined Pantera and early Lamb of God. The two styles overlap heavily — many drummers, like Jason Bittner and Travis Orbin, work comfortably in both — but NWOAHM's roots are thrash and groove metal rather than hardcore punk.
+
 
 ---
 

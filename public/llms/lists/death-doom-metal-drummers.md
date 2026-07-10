@@ -120,6 +120,18 @@ Full drummer profile: [Alex Bent on MetalForge](https://metalforge.io/drummer/al
 
 ## Frequently Asked Questions
 
+**Q: Who are the best death-doom metal drummers?**
+A: Paradise Lost's Lee Morris and Waltteri Väyrynen, My Dying Bride's Shaun Taylor-Steels, and Autopsy's Chris Reifert built death-doom metal's foundational British and American sound but do not currently have dedicated profiles in MetalForge's database. Gene Hoglan of Death is the closest working analogue currently profiled, his "Atomic Clock" tempo discipline on "Individual Thought Patterns" and "The Sound of Perseverance" translating directly into death-doom's tempo-shifting demands. Paul Mazurkiewicz of Cannibal Corpse and Brann Dailor of Mastodon follow closely for their own crushing, tonnage-first rhythmic philosophies.
+
+**Q: What is death-doom metal?**
+A: Death-doom metal fuses death metal's guttural aggression and technical vocabulary with doom metal's crawling, riff-locked tempo and melancholic atmosphere. Paradise Lost, My Dying Bride, and Anathema built the genre's foundational British sound on Peaceville Records in the late 1980s and early 1990s, while Autopsy developed a more overtly death-metal-rooted American variant, and Thergothon pushed the genre's tempo range toward funeral doom's extreme deceleration. The genre is defined by its willingness to move between death metal's fastest blast beats and doom's slowest, most deliberate tempos within a single composition.
+
+**Q: What makes death-doom metal drumming unique?**
+A: Death-doom drumming demands a dual vocabulary that most single-genre drummers never develop: death metal's guttural blast beats and rapid double bass alternating with, or collapsing into, doom metal's crawling, riff-locked deceleration. Where pure death metal drumming sustains extreme speed and pure doom drumming sustains extreme slowness, death-doom drumming must convincingly execute both within the same song — often within the same riff transition — requiring the tempo discipline to decelerate from 220 BPM to 60 BPM without losing rhythmic authority or musical intent.
+
+**Q: Which death-doom metal albums have the best drumming?**
+A: Paradise Lost's "Gothic" (1991) and My Dying Bride's "Turn Loose the Swans" (1993) are widely cited as the genre's foundational drumming documents, built on tempo control that sustains funeral atmosphere across extended compositions. Autopsy's "Severed Survival" (1989) brought a more overtly death-metal-rooted American variant built on Chris Reifert's sludge-caked arrangements. Among drummers with MetalForge profiles, Death's "Individual Thought Patterns" (1993, Gene Hoglan) and Cannibal Corpse's "Hammer Smashed Face" era showcase the tempo-shifting precision death-doom's dual-extremity songwriting demands.
+
 
 ---
 

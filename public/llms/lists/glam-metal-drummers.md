@@ -120,6 +120,18 @@ Full drummer profile: [Gene Hoglan on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: Who are the best glam metal drummers?**
+A: Mötley Crüe's Tommy Lee, Poison's Rikki Rockett, Ratt's Bobby Blotzer, Cinderella's Fred Coury, and Quiet Riot's Frankie Banali defined glam metal's classic MTV-era sound but do not currently have dedicated profiles in MetalForge's database. Mikkey Dee is the closest working analogue with an actual glam-era band credit, having played in Don Dokken's band during the tail end of the hair metal boom. Aquiles Priester's ongoing W.A.S.P. tenure and Vinnie Paul's genuinely glam-styled early Pantera catalog round out MetalForge's most direct connections to the genre.
+
+**Q: What is glam metal?**
+A: Glam metal, also called hair metal, exploded out of Los Angeles's Sunset Strip club scene in the early-to-mid 1980s, combining hard rock riffs and pop-metal hooks with big hair, spandex, makeup, and larger-than-life stage theatrics. Mötley Crüe's "Shout at the Devil" (1983), Ratt's "Out of the Cellar" (1984), Poison's "Look What the Cat Dragged In" (1986), and Cinderella's "Night Songs" (1986) built the genre into an MTV-dominating commercial phenomenon that peaked before grunge's early-1990s arrival ended glam metal's mainstream dominance.
+
+**Q: What makes glam metal drumming different from other metal drumming?**
+A: Glam metal drumming prioritizes commercial hooks and arena-scale showmanship over technical extremity — big, simple backbeats, anthemic mid-tempo grooves, and a polished, radio-friendly production sound built to serve pop-metal choruses rather than demonstrate speed or complexity. Where thrash and speed metal drumming accelerated tempos and technicality throughout the 1980s, glam metal drumming stayed rooted in classic rock's groove-first foundation, prioritizing image, stage presence, and song craft over raw technical demonstration.
+
+**Q: What bands define glam metal?**
+A: Mötley Crüe is widely credited as glam metal's defining band, "Shout at the Devil" (1983) and "Dr. Feelgood" (1989) bookending the genre's rise and commercial peak. Ratt, Poison, Cinderella, Warrant, and Winger built out the genre's pop-metal hook-driven mainstream through the mid-to-late 1980s, while Quiet Riot's "Metal Health" (1983) became the first heavy metal album to top the Billboard 200. Early Pantera, before its 1990 groove metal reinvention, also recorded within glam metal's stylistic and visual template.
+
 
 ---
 

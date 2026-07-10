@@ -120,6 +120,18 @@ Full drummer profile: [Bill Ward on MetalForge](https://metalforge.io/drummer/bi
 
 ## Frequently Asked Questions
 
+**Q: Who is the best power metal drummer?**
+A: HammerFall's drummer, DragonForce's Dave Mackintosh, Blind Guardian's Frederik Ehmke, and Helloween's Daniel Löble built power metal's European foundation but do not currently have dedicated profiles in MetalForge's database. Scott Travis of Judas Priest is the closest and most influential answer — "Painkiller" (1990) is directly cited by nearly every European power metal band as a foundational speed-and-precision template. Aquiles Priester of Angra is the genre's most direct current practitioner in MetalForge's database, having recorded with one of South America's definitive power metal bands.
+
+**Q: What makes power metal drumming unique?**
+A: Power metal drumming combines NWOBHM's galloping, triplet-based rhythmic feel with speed metal's sustained double bass velocity, all in service of theatrical, keyboard-orchestrated songwriting built around fantasy and mythology themes. Where thrash and death metal drumming prioritize raw aggression, power metal drumming must stay technically precise and dynamically dramatic at consistently high tempos (160-200+ BPM) while supporting soaring clean vocals and symphonic keyboard arrangements — speed and theatrics in equal measure, rather than speed as an end in itself.
+
+**Q: What bands define power metal?**
+A: Judas Priest's "Painkiller" (1990) is universally cited as power metal's speed-and-precision blueprint. Helloween's "Keeper of the Seven Keys" albums (1987-1988) codified the genre's galloping, fantasy-themed European template. Blind Guardian, HammerFall, Sabaton, and DragonForce carried power metal's theatrical, high-speed identity through the 1990s and 2000s, while Angra (Aquiles Priester's band) and Kamelot represent the genre's South American and prog-power wings respectively.
+
+**Q: What gear do power metal drummers use?**
+A: Scott Travis plays a ddrum Dominion Series kit with Paiste RUDE cymbals and a DW 9000 Series double pedal, built for the sustained, high-speed precision "Painkiller" demands. Aquiles Priester's kit favors large, powerful configurations suited to Angra's technical arrangements and extended live sets. Mike Portnoy and Mike Mangini's Dream Theater-scale kits incorporate extensive electronic triggering and auxiliary percussion to support power-metal-adjacent progressive compositions' dynamic range. Across the genre, durable double pedals and bright, cutting cymbals built for sustained fast tempos are the common thread.
+
 
 ---
 

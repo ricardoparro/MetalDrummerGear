@@ -120,6 +120,18 @@ Full drummer profile: [Alex Bent on MetalForge](https://metalforge.io/drummer/al
 
 ## Frequently Asked Questions
 
+**Q: Who are the best session drummers in metal?**
+A: Gene Hoglan is the most commonly cited answer, having drummed across more than 20 bands including Dark Angel, Death, Testament, Dethklok, Strapping Young Lad, and Fear Factory — the widest hired-gun résumé in metal history. Tim Yeung and Derek Roddy are the alternative answers for death metal specifically, both known for delivering blast-beat-speed performances across multiple demanding bands. Navene Koperweis is the modern answer, with documented session credits for Job for a Cowboy, Machine Head, and Whitechapel.
+
+**Q: What is the difference between a session drummer and a touring band member?**
+A: A session drummer is typically brought in to record or perform a specific album, tour cycle, or set of dates without becoming a permanent creative partner in the band's direction — the relationship is transactional and skill-focused rather than long-term. A full-time band member, by contrast, is usually involved in songwriting, business decisions, and the band's identity over years. Many metal drummers move between both roles: Ray Luzier worked session dates with David Lee Roth before becoming Korn's permanent drummer, and Arin Ilejay moved from a full-time Avenged Sevenfold credit into ongoing session and solo work afterward.
+
+**Q: Why do bands hire session drummers instead of using their regular drummer?**
+A: Bands turn to session drummers when a regular member is unavailable, when a project needs a specific technical skill set the touring lineup doesn't have, or when a studio deadline requires someone who can learn and record material quickly without a full rehearsal cycle. Alex Bent filling in for Gene Hoglan on Testament tours is a clear example — a technically capable outside player covering a demanding drum chair on short notice while the regular drummer was unavailable.
+
+**Q: Can a session drummer become a full member of a band?**
+A: Yes — it happens regularly in metal. Ray Luzier's session work eventually led to a permanent seat behind Korn's kit in 2007, and Travis Orbin's session-style studio credit on Periphery's debut album established him as the band's original drummer before he moved on to other projects. The line between "session player" and "band member" in metal is often a matter of how long the arrangement lasts, not a fundamentally different skill set.
+
 
 ---
 

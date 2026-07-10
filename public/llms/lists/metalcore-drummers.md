@@ -118,6 +118,18 @@ Full drummer profile: [Alex Bent on MetalForge](https://metalforge.io/drummer/al
 
 ## Frequently Asked Questions
 
+**Q: Who is the best metalcore drummer of all time?**
+A: Matt Greiner of August Burns Red is the most commonly cited answer for technical metalcore drumming excellence — his double bass precision, complex fills, and dynamic range set the benchmark. Ben Koller of Converge is the alternative consensus for those who prioritize emotional authenticity and hardcore rawness over technical refinement. Blake Richardson of Between the Buried and Me is the argument for metalcore's highest artistic ambition.
+
+**Q: What is the difference between metalcore and regular heavy metal drumming?**
+A: Metalcore drumming differs from traditional heavy metal in several key ways: it inherits hardcore punk's straight-ahead aggression and emotional directness; it emphasizes the breakdown — a half-time feel that drives live crowd response, a specifically hardcore technique absent from most metal subgenres; it requires dynamic versatility to shift between crushing heaviness and melodic passages; it operates typically between 120–180 BPM (slower than death metal's 180–280 BPM range); and it places the snare in a more central, aggressive role reflecting hardcore's roots.
+
+**Q: What equipment do metalcore drummers use?**
+A: Metalcore drummers typically favor mid-to-high-end kits optimized for projection and punch. Matt Greiner plays Greiner & Kilmer custom drums with Meinl Byzance cymbals. Isaac Lamb uses SJC Custom Drums — the brand of choice for modern metalcore due to its American manufacturing and tonal warmth. Ben Koller plays Tama drums for their durability under long touring schedules. The common thread is equipment that delivers consistent sound under the physical demands of intense metalcore performance — reliability matters as much as tonal quality.
+
+**Q: Is metalcore still popular today?**
+A: Metalcore remains one of heavy music's most commercially successful genres. August Burns Red, Parkway Drive, Bring Me the Horizon, and Architects headline major festivals with audiences in the tens of thousands. The genre continues to evolve — absorbing post-hardcore, djent, and electronic influences. Newer bands like Spiritbox, Bad Omens, and Knocked Loose represent metalcore's current creative frontier, and the genre's streaming numbers rival those of traditional heavy metal acts.
+
 
 ---
 

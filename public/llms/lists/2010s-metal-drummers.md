@@ -118,6 +118,15 @@ Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/dr
 
 ## Frequently Asked Questions
 
+**Q: Who was the best metal drummer of the 2010s?**
+A: Mike Mangini (Dream Theater) is a commonly cited answer for bringing record-setting technical precision to progressive metal's most demanding drum chair starting in 2010. Matt Halpern (Periphery) and Matt Garstka (Animals as Leaders) are the alternative picks for defining djent's polyrhythmic vocabulary at its most virtuosic. George Kollias (Nile) remains the consensus choice for sustained extreme-speed dominance across the decade.
+
+**Q: How did 2010s metal drumming differ from the 2000s?**
+A: The 2010s saw djent graduate from a niche, message-board-driven aesthetic into a fully-fledged subgenre with its own festival circuit, driven by Periphery's and Animals as Leaders' technical polyrhythmic vocabulary. It was also a decade of major lineup transitions at established bands — Eloy Casagrande replacing Igor Cavalera in Sepultura and Dirk Verbeuren joining Megadeth both tested whether legacy bands could evolve without losing their identity. Streaming also replaced mp3 downloading as the decade's dominant distribution method, flattening regional scenes into a single global conversation.
+
+**Q: What albums defined 2010s metal drumming?**
+A: The most influential 2010s metal drumming albums include: Animals as Leaders' "The Joy of Motion" (2014) for djent's virtuosic ceiling; Periphery's "Juggernaut: Alpha" and "Juggernaut: Omega" (2015) for architecturally complex polyrhythm; Between the Buried and Me's "The Parallax II: Future Sequence" (2012) for progressive metalcore ambition; Opeth's "Heritage" (2011) for a legacy band's dynamic reinvention; and Sepultura's "The Mediator Between Head and Hands Must Be the Heart" (2017) for a successful generational handoff.
+
 
 ---
 

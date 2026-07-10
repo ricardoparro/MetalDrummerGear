@@ -120,6 +120,18 @@ Full drummer profile: [Tomas Haake on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: Who are the best gothic metal drummers?**
+A: No band built purely around the gothic metal template — Paradise Lost, My Dying Bride, Type O Negative, Moonspell, Tiamat — currently has a drummer in MetalForge's database. Daray of Dimmu Borgir is the closest working analogue, delivering the theatrical, orchestral-scale extreme drumming that mirrors gothic metal's cinematic grandeur, followed by Inferno of Behemoth for dark, theatrically staged extremity. Type O Negative's Johnny Kelly and Paradise Lost's various drummers remain the genre's most direct historical touchstones outside this database.
+
+**Q: What bands define gothic metal?**
+A: Gothic metal's foundational bands include Paradise Lost and My Dying Bride (whose early-1990s death-doom albums pivoted toward gothic melancholy), Type O Negative (whose "Bloody Kisses" defined the genre's dark, romantic American strain), Moonspell, Tiamat, Theatre of Tragedy, and symphonic-leaning acts like Lacuna Coil and Within Temptation. The genre fuses doom and death metal's weight with gothic rock's melancholy, theatrical vocal styles, and often keyboard-driven atmosphere.
+
+**Q: What is gothic metal drumming?**
+A: Gothic metal drumming prioritizes mood, dynamic contrast, and theatrical scale over sustained aggression — funereal, doom-paced restraint in verses giving way to symphonic, orchestral-scale bombast in choruses. Where death and doom metal drumming can stay heavy and slow throughout, gothic metal drumming swings between spacious, atmospheric passages and dramatic, dynamically-charged peaks, serving the genre's melancholic, theatrical songwriting rather than showcasing constant technical intensity.
+
+**Q: What gear do gothic metal drummers use?**
+A: Daray's Pearl Masterworks kit with dark, theatrical Paiste RUDE and 2002 Series cymbals supports Dimmu Borgir's orchestral-scale black metal drama. Danny Carey's Sonor SQ2 kit with Paiste Signature cymbals and Mandala electronic pads gives Tool's dark atmospheric builds their hypnotic depth. Brann Dailor's DW kit with Sabian AAX cymbals brings a melodic, moody dimension to Mastodon's heavy compositions. Across the genre's closest analogues, darker-voiced cymbals and kits capable of moving between spacious restraint and full orchestral weight are the shared requirement.
+
 
 ---
 

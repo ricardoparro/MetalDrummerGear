@@ -138,6 +138,18 @@ The ten drummers on this list share post-hardcore metal's defining quality: comf
 
 ## Frequently Asked Questions
 
+**Q: Who is the best post-hardcore metal drummer of all time?**
+A: Ben Koller of Converge is the most widely cited answer — his work on "Jane Doe" (2001) remains the genre's most studied and influential document, defining what controlled chaos within hardcore-rooted metal drumming sounds like. Blake Richardson of Between the Buried and Me is the alternative consensus for those who prioritize progressive ambition and technical complexity. Jay Weinberg earns the argument for bringing genuine hardcore-punk pedigree, via his Suicidal Tendencies work, into one of metal's biggest commercial bands.
+
+**Q: How is post-hardcore drumming different from metalcore drumming?**
+A: Metalcore drumming (covered in its own dedicated ranking) tends toward machine-gun double bass patterns and breakdown-driven structure built for live crowd response. Post-hardcore drumming inherits hardcore punk's raw unpredictability more directly — chaotic tempo shifts, mathcore-adjacent time signature whiplash, and a willingness to abandon conventional verse-chorus structure entirely in service of emotional expression. Where metalcore drumming is often built around the breakdown as a centerpiece, post-hardcore drumming treats structural unpredictability itself as the point, prioritizing raw urgency and controlled chaos over crowd-ready precision.
+
+**Q: What bands define post-hardcore metal?**
+A: The foundational post-hardcore metal bands include Converge (whose "Jane Doe" is the genre's most influential document), Between the Buried and Me, Deftones, Glassjaw, Norma Jean, The Chariot, Every Time I Die, and Coheed and Cambria. The genre traces its roots to hardcore punk acts like Fugazi and Quicksand who began incorporating metal's technical weight in the early-to-mid 1990s. Modern post-hardcore metal continues evolving through bands like Kublai Khan TX, which fuse the genre's hardcore-punk foundations with contemporary beatdown and metalcore influences.
+
+**Q: What gear do post-hardcore metal drummers use?**
+A: Post-hardcore metal drummers favor durable, road-tested kits built to withstand the genre's chaotic, physically demanding playing style. Ben Koller plays Tama drums for their reliability under Converge's relentless touring schedule. Matt Greiner of August Burns Red uses Greiner & Kilmer custom drums paired with Meinl Byzance cymbals for technical precision and projection. Isaac Lamb favors SJC Custom Drums, a brand of choice across the modern post-hardcore and metalcore underground for its American manufacturing and tonal warmth. Across the genre, reliability under physically demanding live performance matters as much as tonal quality.
+
 
 ---
 

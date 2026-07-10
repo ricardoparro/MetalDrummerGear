@@ -118,6 +118,18 @@ Drummer #62 (Unknown) earns rank #10 for: august burns red's jazz-informed techn
 
 ## Frequently Asked Questions
 
+**Q: Who is the best math metal drummer?**
+A: Tomas Haake of Meshuggah is the definitive answer, his polyrhythmic, mathematically precise drumming since the late 1980s establishing the rhythmic template math metal and djent both grew from. Between the Buried and Me's Blake Richardson and Dillinger Escape Plan's drumming lineage — the genre's mathcore-founding acts — don't yet have dedicated MetalForge profiles. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, and Hannes Grossmann of Obscura follows closely for classically-informed rhythmic precision.
+
+**Q: What is math metal?**
+A: Math metal fuses death metal and hardcore's aggression with mathcore and progressive rock's obsession with odd meters and asymmetrical riffing. Dillinger Escape Plan and Botch built the genre's chaotic mathcore foundation in the late 1990s, Meshuggah's polymetric precision gave rise to the closely related djent movement, and Between the Buried and Me and Animals as Leaders pushed the genre's rhythmic ambition into progressive and jazz-fusion-informed territory through the 2000s and 2010s.
+
+**Q: What makes math metal drumming unique?**
+A: Math metal drumming demands constant mental recalculation — odd-grouped rhythmic cells like 5s, 7s, and 11s stacked against a steady pulse, with sudden tempo and meter changes executed without losing the song's forward momentum. Where most metal drumming locks into a consistent time signature, math metal drumming treats the time signature itself as something to fracture and reassemble, requiring the same calculated precision Tomas Haake and Hannes Grossmann bring to their respective bands.
+
+**Q: What bands define math metal?**
+A: Dillinger Escape Plan and Botch are widely credited as mathcore's founding bands, building chaotic, odd-metered aggression in the late 1990s. Meshuggah's polymetric, djent-originating precision expanded the genre's rhythmic vocabulary throughout the 1990s and 2000s, while Between the Buried and Me fused math metal with progressive death metal and jazz. Animals as Leaders carried the style into entirely instrumental, jazz-fusion-informed territory in the 2010s.
+
 
 ---
 

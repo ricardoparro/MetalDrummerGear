@@ -120,6 +120,18 @@ Full drummer profile: [Tomas Haake on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: Who are the best pagan metal drummers?**
+A: No band built purely around the pagan metal template — Enslaved, Moonsorrow, Arkona, Månegarm, Primordial — currently has a drummer in MetalForge's database. Jocke Wallgren of Amon Amarth is the closest working analogue, his Norse-mythology-themed drumming sharing pagan metal's epic, folk-melodic scale. Hellhammer of Mayhem and Inferno of Behemoth follow closely for the foundational Norwegian black metal aggression and pre-Christian thematic extremity pagan metal grew out of. Moonsorrow's Marko Tarvonen and Enslaved's Iver Sandøy and Cato Bekkevold remain the genre's most direct historical touchstones outside this database.
+
+**Q: What is pagan metal?**
+A: Pagan metal fuses black metal's raw aggression and melodic death metal's technical precision with folk instrumentation, anthemic mid-tempo grooves, and lyrical themes drawn from pre-Christian Norse, Slavic, and Baltic mythology and history. The genre emerged in the 1990s as bands like Enslaved, Bathory's later work, and Moonsorrow began layering folk melody, acoustic passages, and pagan spiritual themes onto Scandinavian and Eastern European extreme metal's existing template, prioritizing cultural and mythological identity over pure ferocity.
+
+**Q: What makes pagan metal drumming unique?**
+A: Pagan metal drumming blends black metal's blast beats and raw intensity with folk music's rhythmic sensibility — tribal, ritualistic patterns and mid-tempo grooves built to accompany folk instrumentation (flutes, fiddles, choir vocals) rather than overwhelm it. Where standard black metal drumming sustains blast beat aggression as an end in itself, pagan metal drumming serves mythological storytelling and communal, anthemic scale — deploying extremity in service of atmosphere and folk-melodic hooks rather than relentless speed alone.
+
+**Q: What bands define pagan metal?**
+A: Enslaved is widely credited as pagan metal's Norwegian pioneer, blending Viking-era mythology with progressive black metal since the early 1990s. Moonsorrow built Finnish pagan metal's epic, folk-symphonic template on albums like "Verisäkeet." Arkona represents Russian pagan metal's folk-fused extremity, while Månegarm carries Swedish pagan metal's Norse mythological tradition. Primordial (Ireland) and Falkenbach round out the genre's European scope, each drawing on regional pre-Christian mythology and folk instrumentation.
+
 
 ---
 

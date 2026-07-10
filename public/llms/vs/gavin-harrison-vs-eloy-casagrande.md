@@ -67,4 +67,4 @@ A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 
 
 ---
 
-*Last updated: 2026-07-08 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Sean Reinert vs Hannes Grossmann — Drum Kit Comparison
 
-> Side-by-side gear comparison between Sean Reinert and Hannes Grossmann (Obscura / ex-Necrophagist / Alkaloid).
+> Side-by-side gear comparison between Sean Reinert (Death / Cynic) and Hannes Grossmann (Obscura / ex-Necrophagist / Alkaloid).
 
 **Category:** Extreme / Death / Black Metal · **URL:** https://metalforge.io/vs/sean-reinert-vs-hannes-grossmann
 
@@ -10,7 +10,11 @@ Death/Cynic's Sean Reinert vs Necrophagist/Obscura's Hannes Grossmann. Technical
 
 ## Sean Reinert Setup
 
-- **Drums:** See [Sean Reinert profile](https://metalforge.io/drummer/sean-reinert)
+- **Drums:** Tama Artstar II
+- **Cymbals:** Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash)
+- **Snare:** Tama Artstar II Birch 14x5.5"
+- **Pedals/Hardware:** DW 5000 Double Pedal
+- **Sticks:** Vic Firth American Classic 5A
 
 ## Hannes Grossmann Setup
 
@@ -43,10 +47,16 @@ Sean Reinert and Hannes Grossmann represent technical death metal's two defining
 ## FAQ
 
 **Q: What are the main differences between Sean Reinert's and Hannes Grossmann's drum kits?**
-A: Sean Reinert plays custom drums with signature cymbals cymbals, while Hannes Grossmann uses DW Collectors Series with Meinl cymbals. Sean Reinert played a Pearl Reference maple drum kit with a Pearl Sensitone 14x5.5" steel/brass snare and Zildjian A Series cymbals (14" A New Beat Hi-Hats, 16" & 18" A Medium Thin Crashes, 20" A Medium Ride), driven by Tama Iron Cobra double pedals and 5A sticks — a jazz-crossover setup built for dynamic range. Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors 14x5.5" Maple snare and Meinl Byzance Series cymbals (14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride), driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks.
+A: Sean Reinert plays Tama Artstar II with Zildjian cymbals, while Hannes Grossmann uses DW Collectors Series with Meinl cymbals. Sean Reinert played a Pearl Reference maple drum kit with a Pearl Sensitone 14x5.5" steel/brass snare and Zildjian A Series cymbals (14" A New Beat Hi-Hats, 16" & 18" A Medium Thin Crashes, 20" A Medium Ride), driven by Tama Iron Cobra double pedals and 5A sticks — a jazz-crossover setup built for dynamic range. Hannes Grossmann plays a DW Collectors Series kit with a DW Collectors 14x5.5" Maple snare and Meinl Byzance Series cymbals (14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride), driven by a DW 9000 Series double pedal and Vic Firth American Classic 5B sticks.
+
+**Q: What drums does Sean Reinert play vs Hannes Grossmann?**
+A: Sean Reinert plays Tama Artstar II. Hannes Grossmann plays DW Collectors Series.
 
 **Q: Who is the better extreme / death / black metal drummer, Sean Reinert or Hannes Grossmann?**
 A: Both are legends in their own right. Sean Reinert and Hannes Grossmann represent technical death metal's two defining eras. See the full analysis at [metalforge.io/vs/sean-reinert-vs-hannes-grossmann](https://metalforge.io/vs/sean-reinert-vs-hannes-grossmann).
+
+**Q: What cymbals do Sean Reinert and Hannes Grossmann use?**
+A: Sean Reinert uses Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash). Hannes Grossmann uses Meinl Byzance Series (14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride).
 
 ---
 
@@ -57,4 +67,4 @@ A: Both are legends in their own right. Sean Reinert and Hannes Grossmann repres
 
 ---
 
-*Last updated: 2026-07-01 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

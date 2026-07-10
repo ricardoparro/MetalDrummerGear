@@ -67,4 +67,4 @@ A: Ryan Van Poederooyen uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats,
 
 ---
 
-*Last updated: 2026-07-02 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

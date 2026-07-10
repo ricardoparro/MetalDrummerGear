@@ -1,6 +1,6 @@
 # Sean Reinert vs Flo Mounier — Drum Kit Comparison
 
-> Side-by-side gear comparison between Sean Reinert and Flo Mounier (Cryptopsy).
+> Side-by-side gear comparison between Sean Reinert (Death / Cynic) and Flo Mounier (Cryptopsy).
 
 **Category:** Extreme / Death / Black Metal · **URL:** https://metalforge.io/vs/sean-reinert-vs-flo-mounier
 
@@ -10,7 +10,11 @@ Death/Cynic's Sean Reinert vs Cryptopsy's Flo Mounier — jazz-fusion technical 
 
 ## Sean Reinert Setup
 
-- **Drums:** See [Sean Reinert profile](https://metalforge.io/drummer/sean-reinert)
+- **Drums:** Tama Artstar II
+- **Cymbals:** Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash)
+- **Snare:** Tama Artstar II Birch 14x5.5"
+- **Pedals/Hardware:** DW 5000 Double Pedal
+- **Sticks:** Vic Firth American Classic 5A
 
 ## Flo Mounier Setup
 
@@ -43,10 +47,16 @@ Sean Reinert and Flo Mounier are two of technical death metal's founding archite
 ## FAQ
 
 **Q: What are the main differences between Sean Reinert's and Flo Mounier's drum kits?**
-A: Sean Reinert plays custom drums with signature cymbals cymbals, while Flo Mounier uses Pearl Masters Maple Complete with Sabian cymbals. Sean played a Pearl Reference maple kit with a Pearl Sensitone 14x5.5" steel/brass snare and Zildjian A Series cymbals (14" A New Beat Hi-Hats, 16" & 18" A Medium Thin Crashes, 20" A Medium Ride), driven by Tama Iron Cobra double pedals and Vic Firth 5A sticks — a jazz-crossover setup built for dynamic range. Flo plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5A sticks.
+A: Sean Reinert plays Tama Artstar II with Zildjian cymbals, while Flo Mounier uses Pearl Masters Maple Complete with Sabian cymbals. Sean played a Pearl Reference maple kit with a Pearl Sensitone 14x5.5" steel/brass snare and Zildjian A Series cymbals (14" A New Beat Hi-Hats, 16" & 18" A Medium Thin Crashes, 20" A Medium Ride), driven by Tama Iron Cobra double pedals and Vic Firth 5A sticks — a jazz-crossover setup built for dynamic range. Flo plays a Pearl Masters Maple Complete kit with a Pearl Masters 14x5.5" Maple snare and Sabian AAX & HHX Series cymbals (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China), driven by a Pearl Demon Drive double pedal and Vic Firth American Classic 5A sticks.
+
+**Q: What drums does Sean Reinert play vs Flo Mounier?**
+A: Sean Reinert plays Tama Artstar II. Flo Mounier plays Pearl Masters Maple Complete.
 
 **Q: Who is the better extreme / death / black metal drummer, Sean Reinert or Flo Mounier?**
 A: Both are legends in their own right. Sean Reinert and Flo Mounier are two of technical death metal's founding architects, arriving at the genre's cutting edge from opposite directions in the same early-1990s window. See the full analysis at [metalforge.io/vs/sean-reinert-vs-flo-mounier](https://metalforge.io/vs/sean-reinert-vs-flo-mounier).
+
+**Q: What cymbals do Sean Reinert and Flo Mounier use?**
+A: Sean Reinert uses Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash). Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China).
 
 ---
 
@@ -57,4 +67,4 @@ A: Both are legends in their own right. Sean Reinert and Flo Mounier are two of 
 
 ---
 
-*Last updated: 2026-07-05 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

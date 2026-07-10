@@ -67,4 +67,4 @@ A: Isaac Lamb uses Meinl Classics Custom Dark Series (14" Hi-Hats, 18" & 20" Cra
 
 ---
 
-*Last updated: 2026-07-04 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

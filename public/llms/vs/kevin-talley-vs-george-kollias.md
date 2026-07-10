@@ -67,4 +67,4 @@ A: Kevin Talley uses Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion C
 
 ---
 
-*Last updated: 2026-07-02 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -67,4 +67,4 @@ A: Nick Menza uses Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ri
 
 ---
 
-*Last updated: 2026-07-09 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

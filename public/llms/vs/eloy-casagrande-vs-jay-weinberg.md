@@ -1,44 +1,44 @@
 # Eloy Casagrande vs Jay Weinberg — Drum Kit Comparison
 
-> Side-by-side gear comparison between Eloy Casagrande (Metallica) and Jay Weinberg (ex-Slipknot).
+> Side-by-side gear comparison between Eloy Casagrande (Slipknot) and Jay Weinberg (Suicidal Tendencies).
 
-**Category:** Extreme Metal · **URL:** https://metalforge.io/vs/eloy-casagrande-vs-jay-weinberg
+**Category:** Extreme / Death / Black Metal · **URL:** https://metalforge.io/vs/eloy-casagrande-vs-jay-weinberg
 
-Eloy Casagrande joined Metallica in 2024; Jay Weinberg departed Slipknot in 2023 after nine years. Both are the "young gun who replaced a legend" — and both delivered.
+Eloy Casagrande (Metallica) vs Jay Weinberg (ex-Slipknot). Both replaced legends — Eloy stepping into Metallica, Jay departing Slipknot after 9 years. Gear, technique, and legacy compared.
 
 ---
 
 ## Eloy Casagrande Setup
 
-- **Drums:** Tama Starclassic Maple
-- **Cymbals:** Zildjian A Custom and K Series (14" A Custom Hi-Hats, 16" & 18" A Custom Crashes, 20" A Custom Ride, 18" K China)
-- **Snare:** Tama S.L.P. 14x6.5" Maple
-- **Pedals/Hardware:** Tama Iron Cobra Power Glide Double Pedal, Tama Iron Cobra Hi-Hat Stand
-- **Sticks:** Vic Firth American Classic 5A
+- **Drums:** Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms)
+- **Cymbals:** Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong)
+- **Snare:** Tama Bell Brass 14x5.5" (BB146)
+- **Pedals/Hardware:** Tama Iron Cobra Double Pedal, Yamaha DTX Electronic Pads
+- **Sticks:** Promark Eloy Casagrande Signature
 
 ## Jay Weinberg Setup
 
-- **Drums:** Tama Starclassic Maple/Birch
-- **Cymbals:** Meinl Byzance Series (14" Byzance Traditional Hi-Hats, 16" & 18" Byzance Brilliant Crashes, 20" Byzance Brilliant Medium Ride, 18" Byzance Brilliant China)
-- **Snare:** Tama S.L.P. 14x6.5" F.A.T. Spruce
-- **Pedals/Hardware:** Tama Iron Cobra Double Pedal, Tama 1st Chair Throne
-- **Sticks:** Vic Firth 5A
+- **Drums:** SJC Custom Drums (OBEY x ST Collaboration Kit)
+- **Cymbals:** Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell)
+- **Snare:** SJC Jay Weinberg "The Crucible" 14x6.5" 48-ply Brass
+- **Pedals/Hardware:** DW 9000 Series Double Pedal, DW 9100 Throne
+- **Sticks:** Vater Jay Weinberg 908 Signature
 
 ## Playing Style
 
-Eloy Casagrande brings razor-sharp groove, thunderous double bass, and a thrash-meets-modern-metal authority honed through years with Sepultura before ascending to Metallica. Jay Weinberg channeled predecessor Joey Jordison's ferocity across Slipknot's four albums, developing his own precision-based identity within the band's multi-drummer percussive assault.
+Eloy Casagrande rose through Sepultura before joining Metallica in 2024, bringing razor-sharp groove, thunderous double bass, and a thrash-meets-modern-metal authority to the biggest stage in the genre. Jay Weinberg redefined Slipknot's percussive identity across four albums, channeling predecessor Joey Jordison's ferocity while stamping his own precision-based identity on the band's live and studio work.
 
 ## Technique
 
-Eloy combines Brazilian rhythmic roots with thrash metal power — his double bass is locked-in groove rather than raw speed, and his ability to adapt across Metallica's 40-year catalog is his defining challenge. Jay's technically rigorous approach to Slipknot's chaos demanded exceptional timing, independence, and live endurance night after night at arena and festival scale.
+Eloy combines Brazilian rhythmic roots with thrash metal power — his double bass work is defined by locked-in groove rather than sheer speed, and his ability to adapt to Metallica's catalog (spanning 40 years of tempos and styles) is his defining challenge. Jay brings a technically rigorous, precise approach to Slipknot's chaos — his live playing with the percussive assault of Slipknot's multi-drummer setup demanded exceptional timing, independence, and endurance night after night.
 
 ## Key Differences
 
-Eloy plays Tama Starclassic Maple with Zildjian cymbals for a punchy, projection-focused sound. Jay played Tama Starclassic Maple/Birch with Meinl Byzance cymbals for a warm, full-spectrum tone. Eloy's approach is power-and-groove-driven thrash; Jay's was precision-and-chaos-based extreme metal.
+Eloy plays Tama Starclassic Maple drums with Zildjian A Custom and K cymbals, and Tama Iron Cobra double pedals — a powerhouse setup suited to Metallica's arena-scale sound. Jay played Tama Starclassic Maple/Birch drums with Meinl Byzance cymbals and Tama Iron Cobra pedals during his Slipknot tenure, with a masked performer's setup built for visual impact and live endurance. Eloy combines Brazilian rhythmic roots with thrash metal power — his double bass work is defined by locked-in groove rather than sheer speed, and his ability to adapt to Metallica's catalog (spanning 40 years of tempos and styles) is his defining challenge. Jay brings a technically rigorous, precise approach to Slipknot's chaos — his live playing with the percussive assault of Slipknot's multi-drummer setup demanded exceptional timing, independence, and endurance night after night.
 
 ## Influence & Legacy
 
-Eloy Casagrande became the most-watched drummer in the world overnight when his Metallica appointment was announced in 2024, sparking global "eloy casagrande drum kit" search interest. Jay Weinberg built a massive following through Slipknot's live circuit, inspiring a generation of metal drummers who watched him carry one of the most iconic drum chairs in extreme metal.
+Eloy Casagrande became the most-watched drummer in the world overnight when his Metallica appointment was announced in 2024, sparking immediate global interest and "eloy casagrande drum kit" search traffic. Jay Weinberg built a massive social following through Slipknot's live circuit and independent content, inspiring a generation of metal drummers who grew up watching him replace an icon.
 
 ## Verdict
 
@@ -46,20 +46,17 @@ Eloy Casagrande and Jay Weinberg share the rare experience of carrying one of me
 
 ## FAQ
 
-**Q: Why did Eloy Casagrande join Metallica?**
-A: Eloy Casagrande was announced as Metallica's touring and recording drummer in 2024 after leaving Sepultura. His combination of technical precision, thrash metal roots, and ability to handle Metallica's vast catalog made him the natural choice.
+**Q: What are the main differences between Eloy Casagrande's and Jay Weinberg's drum kits?**
+A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms) with Paiste cymbals, while Jay Weinberg uses SJC Custom Drums (OBEY x ST Collaboration Kit) with Zildjian cymbals. Eloy plays Tama Starclassic Maple drums with Zildjian A Custom and K cymbals, and Tama Iron Cobra double pedals — a powerhouse setup suited to Metallica's arena-scale sound. Jay played Tama Starclassic Maple/Birch drums with Meinl Byzance cymbals and Tama Iron Cobra pedals during his Slipknot tenure, with a masked performer's setup built for visual impact and live endurance.
 
-**Q: Why did Jay Weinberg leave Slipknot?**
-A: Jay Weinberg departed Slipknot in late 2023. No official detailed reason was given; the band announced his exit while continuing touring commitments with a replacement drummer.
+**Q: What drums does Eloy Casagrande play vs Jay Weinberg?**
+A: Eloy Casagrande plays Tama Starclassic Bubinga (22"x16" & 24"x14" Bass Drums, 10", 12", 13" Toms, 16" & 18" Floor Toms). Jay Weinberg plays SJC Custom Drums (OBEY x ST Collaboration Kit).
 
-**Q: What gear does Eloy Casagrande use?**
-A: Eloy Casagrande plays Tama Starclassic Maple drums with Zildjian A Custom and K cymbals and Tama Iron Cobra double pedals.
+**Q: Who is the better extreme / death / black metal drummer, Eloy Casagrande or Jay Weinberg?**
+A: Both are legends in their own right. Eloy Casagrande and Jay Weinberg share the rare experience of carrying one of metal's most iconic drum chairs. See the full analysis at [metalforge.io/vs/eloy-casagrande-vs-jay-weinberg](https://metalforge.io/vs/eloy-casagrande-vs-jay-weinberg).
 
-**Q: What gear did Jay Weinberg use in Slipknot?**
-A: Jay Weinberg used Tama Starclassic Maple/Birch drums with Meinl Byzance cymbals and Tama Iron Cobra double pedals during his Slipknot tenure.
-
-**Q: Who is the better drummer: Eloy Casagrande or Jay Weinberg?**
-A: Both are exceptional. Eloy's groove-driven thrash power suits Metallica's catalog; Jay's precision-based chaos suited Slipknot's percussive assault. Style preference determines the winner.
+**Q: What cymbals do Eloy Casagrande and Jay Weinberg use?**
+A: Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong). Jay Weinberg uses Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell).
 
 ---
 
@@ -67,9 +64,7 @@ A: Both are exceptional. Eloy's groove-driven thrash power suits Metallica's cat
 
 *[Eloy Casagrande drummer profile](https://metalforge.io/drummer/eloy-casagrande)*
 *[Jay Weinberg drummer profile](https://metalforge.io/drummer/jay-weinberg)*
-*[Related: Joey Jordison vs Jay Weinberg](https://metalforge.io/vs/joey-jordison-vs-jay-weinberg)*
-*[Related: Eloy Casagrande vs Igor Cavalera](https://metalforge.io/vs/igor-cavalera-vs-eloy-casagrande)*
 
 ---
 
-*Last updated: 2026-06-26 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

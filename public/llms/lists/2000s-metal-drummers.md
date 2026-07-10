@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers of the 2000s — Complete Ranked Guide
 
-> **Last updated:** 2026-07-06 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2000s-metal-drummers)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2000s-metal-drummers)
 
 ---
 
@@ -86,15 +86,15 @@ Brann Dailor (Mastodon) earns rank #7 for: sludge-to-progressive metal's definin
 
 Full drummer profile: [Brann Dailor on MetalForge](https://metalforge.io/drummer/brann-dailor)
 
-### 8. Drummer #34
+### 8. Ben Koller
 
-**Band:** Unknown
+**Band:** Converge / Mutoid Man / Killer Be Killed
 **Highlight:** Hardcore-metal fury's decade-defining run
 **Why ranked here:** Ben Koller's work with Converge across "Jane Doe" (2001), "You Fail Me" (2004), and "No Heroes" (2006) combined hardcore punk aggression with metal technicality in a run of albums still cited as foundational to the entire 2000s metalcore movement's more extreme wing.
 
-Drummer #34 (Unknown) earns rank #8 for: hardcore-metal fury's decade-defining run. Ben Koller's work with Converge across "Jane Doe" (2001), "You Fail Me" (2004), and "No Heroes" (2006) combined hardcore punk aggression with metal technicality in a run of albums still cited as foundational to the entire 2000s metalcore movement's more extreme wing..
+Ben Koller (Converge / Mutoid Man / Killer Be Killed) earns rank #8 for: hardcore-metal fury's decade-defining run. Ben Koller's work with Converge across "Jane Doe" (2001), "You Fail Me" (2004), and "No Heroes" (2006) combined hardcore punk aggression with metal technicality in a run of albums still cited as foundational to the entire 2000s metalcore movement's more extreme wing..
 
-Full drummer profile: [Drummer #34 on MetalForge](https://metalforge.io/drummer/drummer-34)
+Full drummer profile: [Ben Koller on MetalForge](https://metalforge.io/drummer/ben-koller)
 
 ### 9. Inferno
 
@@ -106,15 +106,15 @@ Inferno (Behemoth) earns rank #9 for: blackened death metal's international brea
 
 Full drummer profile: [Inferno on MetalForge](https://metalforge.io/drummer/inferno)
 
-### 10. Drummer #32
+### 10. Matt Greiner
 
-**Band:** Unknown
+**Band:** August Burns Red
 **Highlight:** Metalcore's technical gold standard, founded from scratch
 **Why ranked here:** Matt Greiner co-founded August Burns Red in 2003, right at the start of metalcore's biggest decade, and his blazing double bass patterns and intricate fills set the technical benchmark every metalcore drummer since has measured against.
 
-Drummer #32 (Unknown) earns rank #10 for: metalcore's technical gold standard, founded from scratch. Matt Greiner co-founded August Burns Red in 2003, right at the start of metalcore's biggest decade, and his blazing double bass patterns and intricate fills set the technical benchmark every metalcore drummer since has measured against..
+Matt Greiner (August Burns Red) earns rank #10 for: metalcore's technical gold standard, founded from scratch. Matt Greiner co-founded August Burns Red in 2003, right at the start of metalcore's biggest decade, and his blazing double bass patterns and intricate fills set the technical benchmark every metalcore drummer since has measured against..
 
-Full drummer profile: [Drummer #32 on MetalForge](https://metalforge.io/drummer/drummer-32)
+Full drummer profile: [Matt Greiner on MetalForge](https://metalforge.io/drummer/matt-greiner)
 
 ---
 
@@ -138,4 +138,4 @@ Full drummer profile: [Drummer #32 on MetalForge](https://metalforge.io/drummer/
 
 ---
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

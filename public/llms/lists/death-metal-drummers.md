@@ -1,6 +1,6 @@
 # Top 10 Death Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-06-19 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/death-metal-drummers)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/death-metal-drummers)
 
 ---
 
@@ -143,4 +143,4 @@ A: Begin by building solid double-bass endurance at moderate tempos (120–160 B
 
 ---
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers of the 2020s — Complete Ranked Guide
 
-> **Last updated:** 2026-07-06 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2020s-metal-drummers)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2020s-metal-drummers)
 
 ---
 
@@ -76,25 +76,25 @@ Art Cruz (Lamb of God) earns rank #6 for: carrying lamb of god's groove-extreme 
 
 Full drummer profile: [Art Cruz on MetalForge](https://metalforge.io/drummer/art-cruz)
 
-### 7. Drummer #45
+### 7. Dirk Verbeuren
 
-**Band:** Unknown
+**Band:** Megadeth
 **Highlight:** Megadeth's technical foundation into a new thrash era
 **Why ranked here:** Dirk Verbeuren anchored Megadeth's "The Sick, the Dying... and the Dead!" (2022), sustaining the Big Four thrash band's technically demanding drumming standard into its fifth decade of existence.
 
-Drummer #45 (Unknown) earns rank #7 for: megadeth's technical foundation into a new thrash era. Dirk Verbeuren anchored Megadeth's "The Sick, the Dying... and the Dead!" (2022), sustaining the Big Four thrash band's technically demanding drumming standard into its fifth decade of existence..
+Dirk Verbeuren (Megadeth) earns rank #7 for: megadeth's technical foundation into a new thrash era. Dirk Verbeuren anchored Megadeth's "The Sick, the Dying... and the Dead!" (2022), sustaining the Big Four thrash band's technically demanding drumming standard into its fifth decade of existence..
 
-Full drummer profile: [Drummer #45 on MetalForge](https://metalforge.io/drummer/drummer-45)
+Full drummer profile: [Dirk Verbeuren on MetalForge](https://metalforge.io/drummer/dirk-verbeuren)
 
-### 8. Drummer #37
+### 8. Jason Bittner
 
-**Band:** Unknown
+**Band:** Shadows Fall / Overkill / Category 7
 **Highlight:** A new thrash supergroup, decades into a Berklee-trained career
 **Why ranked here:** Jason Bittner joined newly-formed thrash band Category 7 in 2024 while continuing his Overkill tenure that began in 2017, adding a fresh creative outlet to a career already spanning Shadows Fall's 2000s commercial peak.
 
-Drummer #37 (Unknown) earns rank #8 for: a new thrash supergroup, decades into a berklee-trained career. Jason Bittner joined newly-formed thrash band Category 7 in 2024 while continuing his Overkill tenure that began in 2017, adding a fresh creative outlet to a career already spanning Shadows Fall's 2000s commercial peak..
+Jason Bittner (Shadows Fall / Overkill / Category 7) earns rank #8 for: a new thrash supergroup, decades into a berklee-trained career. Jason Bittner joined newly-formed thrash band Category 7 in 2024 while continuing his Overkill tenure that began in 2017, adding a fresh creative outlet to a career already spanning Shadows Fall's 2000s commercial peak..
 
-Full drummer profile: [Drummer #37 on MetalForge](https://metalforge.io/drummer/drummer-37)
+Full drummer profile: [Jason Bittner on MetalForge](https://metalforge.io/drummer/jason-bittner)
 
 ### 9. Drummer #61
 
@@ -103,8 +103,6 @@ Full drummer profile: [Drummer #37 on MetalForge](https://metalforge.io/drummer/
 **Why ranked here:** Isaac Lamb has continued fronting Kublai Khan TX's crushing beatdown hardcore/metalcore sound into the 2020s, sustaining the band he co-founded in 2009 well into its second decade of existence.
 
 Drummer #61 (Unknown) earns rank #9 for: beatdown hardcore's continuing breakdown-driven torchbearer. Isaac Lamb has continued fronting Kublai Khan TX's crushing beatdown hardcore/metalcore sound into the 2020s, sustaining the band he co-founded in 2009 well into its second decade of existence..
-
-Full drummer profile: [Drummer #61 on MetalForge](https://metalforge.io/drummer/drummer-61)
 
 ### 10. Navene Koperweis
 
@@ -138,4 +136,4 @@ Full drummer profile: [Navene Koperweis on MetalForge](https://metalforge.io/dru
 
 ---
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

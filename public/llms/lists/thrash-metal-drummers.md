@@ -1,6 +1,6 @@
 # Top 10 Thrash Metal Drummers — Complete Ranked Guide
 
-> **Last updated:** 2026-06-19 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/thrash-metal-drummers)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/thrash-metal-drummers)
 
 ---
 
@@ -143,4 +143,4 @@ A: Thrash drummers tend toward large, deep bass drums (22–26") for low-end pun
 
 ---
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

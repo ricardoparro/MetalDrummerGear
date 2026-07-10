@@ -1,6 +1,6 @@
 # Top 10 Pro Drummers with Budget-Friendly Setups — Complete Ranked Guide
 
-> **Last updated:** 2026-06-19 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/drummers-with-budget-friendly-kits)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/drummers-with-budget-friendly-kits)
 
 ---
 
@@ -143,4 +143,4 @@ A: The bass drum pedal is the single most impactful upgrade — a quality double
 
 ---
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

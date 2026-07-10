@@ -1,6 +1,6 @@
 # Top 10 Most Brutal Drum Solos in Metal History — Complete Ranked Guide
 
-> **Last updated:** 2026-06-19 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-brutal-drum-solos)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-brutal-drum-solos)
 
 ---
 
@@ -253,4 +253,4 @@ A: Metal drum solos range from 3–4 minute stand-alone pieces (Joey Jordison's 
 
 ---
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

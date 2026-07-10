@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Known for Live Improvisation — Complete Ranked Guide
 
-> **Last updated:** 2026-07-06 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/drummers-known-for-live-improvisation)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/drummers-known-for-live-improvisation)
 
 ---
 
@@ -80,35 +80,35 @@ Gavin Harrison (Porcupine Tree / King Crimson) earns rank #5 for: king crimson's
 
 Full drummer profile: [Gavin Harrison on MetalForge](https://metalforge.io/drummer/gavin-harrison)
 
-### 6. Drummer #33
+### 6. Blake Richardson
 
-**Band:** Unknown
+**Band:** Between the Buried and Me
 **Highlight:** Jazz-fusion technique inside constantly shifting compositions
 **Why ranked here:** Blake Richardson cites jazz-fusion legends Terry Bozzio and Dennis Chambers — both renowned for improvisational vocabulary — as direct influences, and his work with Between the Buried and Me channels that same instinct for spontaneous phrasing into odd-meter passages that rarely repeat the same way twice across a tour.
 
-Drummer #33 (Unknown) earns rank #6 for: jazz-fusion technique inside constantly shifting compositions. Blake Richardson cites jazz-fusion legends Terry Bozzio and Dennis Chambers — both renowned for improvisational vocabulary — as direct influences, and his work with Between the Buried and Me channels that same instinct for spontaneous phrasing into odd-meter passages that rarely repeat the same way twice across a tour..
+Blake Richardson (Between the Buried and Me) earns rank #6 for: jazz-fusion technique inside constantly shifting compositions. Blake Richardson cites jazz-fusion legends Terry Bozzio and Dennis Chambers — both renowned for improvisational vocabulary — as direct influences, and his work with Between the Buried and Me channels that same instinct for spontaneous phrasing into odd-meter passages that rarely repeat the same way twice across a tour..
 
-Full drummer profile: [Drummer #33 on MetalForge](https://metalforge.io/drummer/drummer-33)
+Full drummer profile: [Blake Richardson on MetalForge](https://metalforge.io/drummer/blake-richardson)
 
-### 7. Drummer #38
+### 7. Martin Lopez
 
-**Band:** Unknown
+**Band:** Soen / ex-Opeth
 **Highlight:** The widest dynamic range built for in-the-moment reaction
 **Why ranked here:** Martin Lopez's Opeth catalog demonstrates the widest dynamic range in progressive metal drumming, shifting from brushed jazz whispers to thunderous death metal within a single bar — a level of moment-to-moment dynamic control that gives him room to react and adjust live rather than simply execute a fixed pattern.
 
-Drummer #38 (Unknown) earns rank #7 for: the widest dynamic range built for in-the-moment reaction. Martin Lopez's Opeth catalog demonstrates the widest dynamic range in progressive metal drumming, shifting from brushed jazz whispers to thunderous death metal within a single bar — a level of moment-to-moment dynamic control that gives him room to react and adjust live rather than simply execute a fixed pattern..
+Martin Lopez (Soen / ex-Opeth) earns rank #7 for: the widest dynamic range built for in-the-moment reaction. Martin Lopez's Opeth catalog demonstrates the widest dynamic range in progressive metal drumming, shifting from brushed jazz whispers to thunderous death metal within a single bar — a level of moment-to-moment dynamic control that gives him room to react and adjust live rather than simply execute a fixed pattern..
 
-Full drummer profile: [Drummer #38 on MetalForge](https://metalforge.io/drummer/drummer-38)
+Full drummer profile: [Martin Lopez on MetalForge](https://metalforge.io/drummer/martin-lopez)
 
-### 8. Drummer #53
+### 8. Matt Garstka
 
-**Band:** Unknown
+**Band:** Animals as Leaders
 **Highlight:** Jazz fusion's virtuoso vocabulary inside instrumental metal
 **Why ranked here:** Matt Garstka's playing with Animals as Leaders blends jazz fusion technique and ghost-note-laced linear independence, a vocabulary built in a genre — jazz fusion — where spontaneous variation is a foundational skill rather than a rare departure from the norm.
 
-Drummer #53 (Unknown) earns rank #8 for: jazz fusion's virtuoso vocabulary inside instrumental metal. Matt Garstka's playing with Animals as Leaders blends jazz fusion technique and ghost-note-laced linear independence, a vocabulary built in a genre — jazz fusion — where spontaneous variation is a foundational skill rather than a rare departure from the norm..
+Matt Garstka (Animals as Leaders) earns rank #8 for: jazz fusion's virtuoso vocabulary inside instrumental metal. Matt Garstka's playing with Animals as Leaders blends jazz fusion technique and ghost-note-laced linear independence, a vocabulary built in a genre — jazz fusion — where spontaneous variation is a foundational skill rather than a rare departure from the norm..
 
-Full drummer profile: [Drummer #53 on MetalForge](https://metalforge.io/drummer/drummer-53)
+Full drummer profile: [Matt Garstka on MetalForge](https://metalforge.io/drummer/matt-garstka)
 
 ### 9. Brann Dailor
 
@@ -158,4 +158,4 @@ These ten drummers share a willingness to treat live performance as a genuinely 
 
 ---
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

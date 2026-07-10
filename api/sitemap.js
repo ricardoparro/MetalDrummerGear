@@ -63,7 +63,7 @@ import { REFERENCE_PAGE_ORDER } from '../packages/frontend/data/drumstickReferen
 // Issue #4139 (phase 4/4 of epic #4135): /drumsticks/brands + per-brand pages.
 import { DRUMSTICK_BRANDS } from '../packages/frontend/data/drumstickBrands.js';
 
-// Issue #623: Content Scale Sprint - All 62 drummers now in sitemap
+// Issue #4201: Content Scale Sprint - All 65 drummers now in sitemap
 const drummers = [
   { id: 1, name: 'Lars Ulrich' }, { id: 2, name: 'Joey Jordison' }, { id: 3, name: 'Gene Hoglan' },
   { id: 4, name: 'Dave Lombardo' }, { id: 5, name: 'Tomas Haake' }, { id: 6, name: 'George Kollias' },
@@ -76,7 +76,8 @@ const drummers = [
   { id: 25, name: 'Alex Bent' }, { id: 26, name: 'Shannon Larkin' }, { id: 27, name: 'Raymond Herrera' },
   { id: 28, name: 'Morgan Ågren' }, { id: 29, name: 'Igor Cavalera' }, { id: 30, name: 'Bill Ward' },
   { id: 31, name: 'Nick Augusto' }, { id: 32, name: 'Matt Greiner' }, { id: 33, name: 'Blake Richardson' },
-  { id: 34, name: 'Ben Koller' }, { id: 35, name: 'Flo Mounier' }, { id: 37, name: 'Jason Bittner' },
+  { id: 34, name: 'Ben Koller' }, { id: 35, name: 'Flo Mounier' }, { id: 36, name: 'Martin Axenrot' },
+  { id: 37, name: 'Jason Bittner' },
   { id: 38, name: 'Martin Lopez' }, { id: 39, name: 'Travis Orbin' }, { id: 40, name: 'Chris Turner' },
   { id: 41, name: 'Nicko McBrain' }, { id: 42, name: 'Scott Travis' }, { id: 43, name: 'Mikkey Dee' },
   { id: 44, name: 'Derek Roddy' }, { id: 45, name: 'Dirk Verbeuren' }, { id: 46, name: 'Frost' },
@@ -85,7 +86,8 @@ const drummers = [
   { id: 53, name: 'Matt Garstka' }, { id: 54, name: 'Daniel Erlandsson' }, { id: 55, name: 'Jaska Raatikainen' },
   { id: 56, name: 'Hannes Grossmann' }, { id: 57, name: 'Daray' }, { id: 58, name: 'Jocke Wallgren' },
   { id: 59, name: 'Tim Yeung' }, { id: 60, name: 'Kevin Talley' }, { id: 61, name: 'Isaac Lamb' },
-  { id: 62, name: 'Ryan Van Poederooyen' },
+  { id: 62, name: 'Ryan Van Poederooyen' }, { id: 63, name: 'Paul Bostaph' },
+  { id: 64, name: 'Sean Reinert' }, { id: 65, name: 'Nick Menza' },
 ];
 
 const gearItems = [
@@ -187,7 +189,7 @@ const gearComparisons = [
 ];
 
 // Issue #558, #598, #650: Drummer vs Drummer comparison pages for SEO
-// Issue #650: Generate ALL drummer comparison pairs dynamically (62 drummers = 1891 pairs)
+// Issue #650: Generate ALL drummer comparison pairs dynamically (65 drummers = 2080 pairs)
 function generateAllDrummerComparisons(drummerList) {
   const comparisons = [];
   for (let i = 0; i < drummerList.length; i++) {

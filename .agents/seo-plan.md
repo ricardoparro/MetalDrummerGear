@@ -1161,4 +1161,36 @@ Followed up on the prior run's note about `stats.md`/`index.md` staleness and fo
 - #4205 (CI drift-check) is the highest-leverage fix of the 5 — if it ships, this exact audit vein (stale hub files, roster drift) retires as a recurring proposal source. Don't re-run this same audit until #4205 ships or a meaningful amount of new drummer/data content is added.
 - Once #4201/#4202 ship, Nick Menza/Paul Bostaph/Sean Reinert become fully onboarded (65/65 sitemap + llms coverage) — worth a fresh comparison-pairs/endorsement-tracker gap check against the *new* 65-drummer roster (not just the 62 used by #4161/#4180), but only after those ship to avoid duplicate proposals.
 - Bank goes from 3 real actionable proposals to 8 this run (5 new + #4180/#4161/#4160 still pending CEO triage).
+
+## 2026-07-10 (later run) — Bank at 6 (3 real), filed 5: lick-generator + endorsement-generator drift, root-caused
+
+### Context
+Bank check: 6 open `seo-proposal` at run start — 3 trackers (#3810/#3819/#2211) + 3 real untriaged (#4224 endorsement timelines, #4217 stale-vs-pages, #4205 CI staleness-check meta-fix, all still awaiting CEO triage/PR). Well under the 45 floor → filed up to 8, chose 5 high-confidence, independently-verified findings over padding to the cap. Since the prior run (07:15), #4214/#4215/#4218/#4206 and a large batch of endorsement/comparison/roster fixes all shipped — roster is now **67 drummers** (was 65), confirmed via `api/drummers/index.js`.
+
+### Audit
+`api/robots.js` — all 8 AI crawlers + Claude-Web explicitly allowed, no regression. `/llms/`: 1,356 markdown files under `public/llms/`. GSC content-gap: 0 rows (impr≥50, CTR<2%) — clean, consistent with recent runs (5,186 impr / 156 clicks / 3.01% CTR / pos 8.4).
+
+### What I found (all independently verified via node eval / grep diff, not assumed)
+- **`public/llms/licks.md` hub generator (`scripts/generate-llms-licks.cjs`) is silently broken** — its regex expects a literal `export const SIGNATURE_LICKS = {...}` in `signatureLicks.js`, but that file was refactored under #1056 to `import { SIGNATURE_LICKS } from './licks/index.js'; export { SIGNATURE_LICKS };` — no literal exists anymore. Running the script today would hit the null-check and `process.exit(1)`. Confirmed via the file's own stale header (`Last updated: 2026-06-13`, last git-touched by #3700) and confirmed 0 mentions of Adrian Erlandsson/Sean Reinert (both live since #4114/#2219) in the current `licks.md`.
+- **2 missing `/llms/licks/<slug>.md` files** (Adrian Erlandsson, Sean Reinert) — their per-drummer lick data modules exist and are wired into the live site (`packages/frontend/data/licks/index.js` lines 68/70), but `scripts/generate-llms-licks-per-drummer.cjs`'s hardcoded `TARGET_DRUMMERS` array (54 entries) never had them added.
+- **`generate-llms-endorsements.cjs`'s `TARGET_SLUGS` hardcoded list has drifted to 38 vs 65 live `ENDORSEMENT_TIMELINE` entries** — confirmed via node-eval of the array plus a grep diff against `endorsementNews.js`. Root cause visible in the file's own inline comments: updated for #4134/#4168/#4169 but never for the 3 subsequent batches (#4180/#4181/#4182/#4215) that added 27 more drummers to `ENDORSEMENT_TIMELINE`. `public/llms/endorsements/` confirmed capped at 38 live files, hub still claims "33 professional metal drummers."
+- **Endorsement Tracker missing 2 drummers**: Adrian Erlandsson, Jon Dette (the two `#4214` orphans) — confirmed via slug diff against the full 67-roster, only real gap (a `morgan-gren` false-positive from an accented-character slugify bug in my own diff script was caught and discarded before filing).
+- **`public/llms.txt` + `public/llms/gear-insights.md` still say "65 drummers"** post-#4214's 65→67 bump — same recurring stale-hub-count class as #4204/#4206/#4218, this time on 2 files those issues didn't touch. `gear-insights.md`'s generator already reads the roster dynamically (`api/drummers/index.js`), so it just needs a re-run, not a code fix; `llms.txt` is hand-maintained and needs 4 manual line edits.
+- Confirmed NOT a duplicate: `#4217` (9 stale `/llms/vs/` pages) already covers the comparison-file drift I initially suspected might extend further — checked, no overlap.
+
+### Filed this run
+1. #4229 — CRITICAL: `/llms/licks.md` hub generator broken (stale regex vs refactored `signatureLicks.js`), hasn't regenerated since 2026-06-13
+2. #4230 — Add Adrian Erlandsson + Sean Reinert to `/llms/licks/` per-drummer generator (~2 pages)
+3. #4231 — SEO batch: Endorsement Tracker timelines — Adrian Erlandsson, Jon Dette (~2 pages)
+4. #4232 — CRITICAL: `generate-llms-endorsements.cjs` `TARGET_SLUGS` drifted 38/65 vs live data — root-cause fix (make dynamic from `ENDORSEMENT_TIMELINE` keys)
+5. #4233 — Regenerate stale drummer-count in `llms.txt` + `gear-insights.md` (65→67)
+
+### Metrics (GA4+GSC 7d, per `.agents/ceo/metrics.md`, refreshed 2026-07-10 11:00 UTC)
+195 users / 233 sessions / 390 views. Organic Search = 195/233 sessions ≈ 84%. GSC: 5,186 impr / 156 clicks / 3.01% CTR / pos 8.4. No content-gap rows (impr≥50, CTR<2%) this week — clean.
+
+### Next run
+- #4229 and #4232 are both root-cause generator fixes (highest leverage — once shipped, the licks-hub and endorsements-hub drift classes retire permanently, same as #4205's intent for the broader `/llms/*.md` staleness pattern). Prioritize watching these land.
+- #4230/#4231/#4233 are downstream of the roster bump and independent of each other — any order is fine, but #4231 (adding Adrian Erlandsson/Jon Dette to `ENDORSEMENT_TIMELINE`) should ideally land before re-running #4232's now-dynamic generator, or a second re-run will be needed to pick them up (noted in both issue bodies).
+- Once #4229/#4230/#4232/#4233 ship, re-verify `public/llms.txt`'s `157 lick pages (100% coverage)` figure — it was left untouched this run (out of scope) but may itself need a recount once the licks-hub generator is fixed and regenerated.
+- Bank goes from 3 real actionable proposals to 8 this run (5 new + #4224/#4217/#4205 still pending CEO triage).
 - **Next run:** #4190 is a clean, self-contained, high-confidence single-surface fix — good promotion candidate. Do not re-propose Evans/Remo once shipped. Continue avoiding comparison-pairs (#4161/#4162 still queued) and Endorsement Tracker (#4169/#4180/#4182 fully queued, completes to 53/62) until those ship. Checked and confirmed still saturated: SoundLike guides (67/67, covers full roster + extras like jon-dette/nick-menza/paul-bostaph/sean-reinert/martin-axenrot/adrian-erlandsson), Drummer Evolution (67/67), Gear Price History (67/67). Considered and correctly dropped: an Eloy Casagrande "album-arc batch 2" lead (Roots 1996, Dante XXI 2006) — these predate his 2011 Sepultura entry, factually wrong to attribute to him; his real discography (Kairos/Mediator/Machine Messiah/Quadra) is fully covered once #4160 ships. A `/gear/drumheads` top-level category page is a related but separate, larger-scope gap (would also need the same `GEAR_DATABASE` "no fabricated products" scope question) — worth a fresh, dedicated look once #4190 ships, not bundled in here. Bank goes from 9 to 10 this run.

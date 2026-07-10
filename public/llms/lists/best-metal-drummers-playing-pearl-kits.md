@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Playing Pearl Kits — Complete Ranked Guide
 
-> **Last updated:** 2026-07-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-pearl-kits)
 
 ---
 
@@ -139,4 +139,4 @@ Full drummer profile: [Jaska Raatikainen on MetalForge](https://metalforge.io/dr
 
 ---
 
-*Last updated: 2026-07-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

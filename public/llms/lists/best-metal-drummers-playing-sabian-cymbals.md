@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers Playing Sabian Cymbals — Complete Ranked Guide
 
-> **Last updated:** 2026-07-06 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-sabian-cymbals)
 
 ---
 
@@ -86,15 +86,15 @@ Mike Mangini (Dream Theater) earns rank #7 for: sabian hhx & aax — dream theat
 
 Full drummer profile: [Mike Mangini on MetalForge](https://metalforge.io/drummer/mike-mangini)
 
-### 8. Drummer #51
+### 8. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Sabian AAX — Cannibal Corpse's founding rhythm
 **Why ranked here:** Paul Mazurkiewicz has played a Sabian AAX Series setup — 14" Stage hi-hats, 18" and 19" X-Plosion crashes, a 21" Raw Bell Dry Ride, and an 18" AAXtreme China — since co-founding Cannibal Corpse in 1988, a Sabian relationship that has lasted as long as his 38-year, unbroken tenure behind the band's kit. Mazurkiewicz earns rank #8 for a Sabian setup that has anchored death metal's longest-running founding drummer.
 
-Drummer #51 (Unknown) earns rank #8 for: sabian aax — cannibal corpse's founding rhythm. Paul Mazurkiewicz has played a Sabian AAX Series setup — 14" Stage hi-hats, 18" and 19" X-Plosion crashes, a 21" Raw Bell Dry Ride, and an 18" AAXtreme China — since co-founding Cannibal Corpse in 1988, a Sabian relationship that has lasted as long as his 38-year, unbroken tenure behind the band's kit. Mazurkiewicz earns rank #8 for a Sabian setup that has anchored death metal's longest-running founding drummer..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #8 for: sabian aax — cannibal corpse's founding rhythm. Paul Mazurkiewicz has played a Sabian AAX Series setup — 14" Stage hi-hats, 18" and 19" X-Plosion crashes, a 21" Raw Bell Dry Ride, and an 18" AAXtreme China — since co-founding Cannibal Corpse in 1988, a Sabian relationship that has lasted as long as his 38-year, unbroken tenure behind the band's kit. Mazurkiewicz earns rank #8 for a Sabian setup that has anchored death metal's longest-running founding drummer..
 
-Full drummer profile: [Drummer #51 on MetalForge](https://metalforge.io/drummer/drummer-51)
+Full drummer profile: [Paul Mazurkiewicz on MetalForge](https://metalforge.io/drummer/paul-mazurkiewicz)
 
 ### 9. Ray Luzier
 
@@ -138,4 +138,4 @@ Full drummer profile: [Raymond Herrera on MetalForge](https://metalforge.io/drum
 
 ---
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

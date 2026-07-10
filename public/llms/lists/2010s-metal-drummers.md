@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers of the 2010s — Complete Ranked Guide
 
-> **Last updated:** 2026-07-06 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2010s-metal-drummers)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/2010s-metal-drummers)
 
 ---
 
@@ -14,7 +14,7 @@ The best metal drummers of the 2010s, definitively ranked. Mike Mangini, Matt Ha
 
 ## Rankings
 
-Ranked by documented performance records, genre-defining influence, and technical contribution. Top entries: Mike Mangini, Matt Halpern, George Kollias, Drummer #53, Drummer #33, and more.
+Ranked by documented performance records, genre-defining influence, and technical contribution. Top entries: Mike Mangini, Matt Halpern, George Kollias, Matt Garstka, Blake Richardson, and more.
 
 ### 1. Mike Mangini
 
@@ -46,25 +46,25 @@ George Kollias (Nile) earns rank #3 for: extreme speed records sustained across 
 
 Full drummer profile: [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)
 
-### 4. Drummer #53
+### 4. Matt Garstka
 
-**Band:** Unknown
+**Band:** Animals as Leaders
 **Highlight:** Animals as Leaders' virtuoso instrumental shred architect
 **Why ranked here:** Matt Garstka joined instrumental progressive metal band Animals as Leaders in 2012, and his playing across "The Joy of Motion" (2014) and "The Madness of Many" (2016) fused jazz fusion technique, ghost-note-laced linear independence, and djent's polyrhythmic complexity into some of the decade's most purely virtuosic drumming.
 
-Drummer #53 (Unknown) earns rank #4 for: animals as leaders' virtuoso instrumental shred architect. Matt Garstka joined instrumental progressive metal band Animals as Leaders in 2012, and his playing across "The Joy of Motion" (2014) and "The Madness of Many" (2016) fused jazz fusion technique, ghost-note-laced linear independence, and djent's polyrhythmic complexity into some of the decade's most purely virtuosic drumming..
+Matt Garstka (Animals as Leaders) earns rank #4 for: animals as leaders' virtuoso instrumental shred architect. Matt Garstka joined instrumental progressive metal band Animals as Leaders in 2012, and his playing across "The Joy of Motion" (2014) and "The Madness of Many" (2016) fused jazz fusion technique, ghost-note-laced linear independence, and djent's polyrhythmic complexity into some of the decade's most purely virtuosic drumming..
 
-Full drummer profile: [Drummer #53 on MetalForge](https://metalforge.io/drummer/drummer-53)
+Full drummer profile: [Matt Garstka on MetalForge](https://metalforge.io/drummer/matt-garstka)
 
-### 5. Drummer #33
+### 5. Blake Richardson
 
-**Band:** Unknown
+**Band:** Between the Buried and Me
 **Highlight:** Progressive metalcore's technical ceiling, raised again
 **Why ranked here:** Blake Richardson pushed Between the Buried and Me's progressive ambition to new heights across "The Parallax II: Future Sequence" (2012), "Coma Ecliptic" (2015), and "Automata" (2018), fusing technical death metal complexity with jazz-influenced fills and constantly shifting odd-time signatures.
 
-Drummer #33 (Unknown) earns rank #5 for: progressive metalcore's technical ceiling, raised again. Blake Richardson pushed Between the Buried and Me's progressive ambition to new heights across "The Parallax II: Future Sequence" (2012), "Coma Ecliptic" (2015), and "Automata" (2018), fusing technical death metal complexity with jazz-influenced fills and constantly shifting odd-time signatures..
+Blake Richardson (Between the Buried and Me) earns rank #5 for: progressive metalcore's technical ceiling, raised again. Blake Richardson pushed Between the Buried and Me's progressive ambition to new heights across "The Parallax II: Future Sequence" (2012), "Coma Ecliptic" (2015), and "Automata" (2018), fusing technical death metal complexity with jazz-influenced fills and constantly shifting odd-time signatures..
 
-Full drummer profile: [Drummer #33 on MetalForge](https://metalforge.io/drummer/drummer-33)
+Full drummer profile: [Blake Richardson on MetalForge](https://metalforge.io/drummer/blake-richardson)
 
 ### 6. Drummer #62
 
@@ -74,17 +74,15 @@ Full drummer profile: [Drummer #33 on MetalForge](https://metalforge.io/drummer/
 
 Drummer #62 (Unknown) earns rank #6 for: opeth's dynamic-precision legacy carried through a genre pivot. Martin Axenrot sustained Opeth's dynamic, atmosphere-driven progressive death metal through the band's full pivot away from death growls, powering "Heritage" (2011) and "Pale Communion" (2014) with the same wide-dynamic-range playing the band's more retro-progressive direction demanded..
 
-Full drummer profile: [Drummer #62 on MetalForge](https://metalforge.io/drummer/drummer-62)
+### 7. Frost
 
-### 7. Drummer #46
-
-**Band:** Unknown
+**Band:** Satyricon / 1349
 **Highlight:** Black 'n' roll's groove-forward evolution continues
 **Why ranked here:** Frost's drumming for Satyricon carried the band's "black 'n' roll" groove-forward sensibility through its self-titled 2013 album and "Deep calleth upon Deep" (2017), proving black metal's rhythmic vocabulary could keep evolving without sacrificing extremity.
 
-Drummer #46 (Unknown) earns rank #7 for: black 'n' roll's groove-forward evolution continues. Frost's drumming for Satyricon carried the band's "black 'n' roll" groove-forward sensibility through its self-titled 2013 album and "Deep calleth upon Deep" (2017), proving black metal's rhythmic vocabulary could keep evolving without sacrificing extremity..
+Frost (Satyricon / 1349) earns rank #7 for: black 'n' roll's groove-forward evolution continues. Frost's drumming for Satyricon carried the band's "black 'n' roll" groove-forward sensibility through its self-titled 2013 album and "Deep calleth upon Deep" (2017), proving black metal's rhythmic vocabulary could keep evolving without sacrificing extremity..
 
-Full drummer profile: [Drummer #46 on MetalForge](https://metalforge.io/drummer/drummer-46)
+Full drummer profile: [Frost on MetalForge](https://metalforge.io/drummer/frost)
 
 ### 8. Eloy Casagrande
 
@@ -96,25 +94,25 @@ Eloy Casagrande (Sepultura / Slipknot) earns rank #8 for: sepultura's successful
 
 Full drummer profile: [Eloy Casagrande on MetalForge](https://metalforge.io/drummer/eloy-casagrande)
 
-### 9. Drummer #45
+### 9. Dirk Verbeuren
 
-**Band:** Unknown
+**Band:** Megadeth
 **Highlight:** From Soilwork's melodic death metal to Megadeth's thrash throne
 **Why ranked here:** Dirk Verbeuren spent the first half of the decade anchoring Soilwork's melodic death metal on "The Living Infinite" (2013) before joining Big Four thrash legends Megadeth in 2016, a genre-spanning transition capped by the technically demanding "Dystopia" (2016) that closed out his decade.
 
-Drummer #45 (Unknown) earns rank #9 for: from soilwork's melodic death metal to megadeth's thrash throne. Dirk Verbeuren spent the first half of the decade anchoring Soilwork's melodic death metal on "The Living Infinite" (2013) before joining Big Four thrash legends Megadeth in 2016, a genre-spanning transition capped by the technically demanding "Dystopia" (2016) that closed out his decade..
+Dirk Verbeuren (Megadeth) earns rank #9 for: from soilwork's melodic death metal to megadeth's thrash throne. Dirk Verbeuren spent the first half of the decade anchoring Soilwork's melodic death metal on "The Living Infinite" (2013) before joining Big Four thrash legends Megadeth in 2016, a genre-spanning transition capped by the technically demanding "Dystopia" (2016) that closed out his decade..
 
-Full drummer profile: [Drummer #45 on MetalForge](https://metalforge.io/drummer/drummer-45)
+Full drummer profile: [Dirk Verbeuren on MetalForge](https://metalforge.io/drummer/dirk-verbeuren)
 
-### 10. Drummer #54
+### 10. Daniel Erlandsson
 
-**Band:** Unknown
+**Band:** Arch Enemy
 **Highlight:** Melodic death metal's enduring technical foundation
 **Why ranked here:** Daniel Erlandsson's Arch Enemy work across "War Eternal" (2014) and "Will to Power" (2017) sustained melodic death metal's harmonized twin-guitar songwriting with technically precise, musically disciplined drumming through two decades' worth of lineup changes around him.
 
-Drummer #54 (Unknown) earns rank #10 for: melodic death metal's enduring technical foundation. Daniel Erlandsson's Arch Enemy work across "War Eternal" (2014) and "Will to Power" (2017) sustained melodic death metal's harmonized twin-guitar songwriting with technically precise, musically disciplined drumming through two decades' worth of lineup changes around him..
+Daniel Erlandsson (Arch Enemy) earns rank #10 for: melodic death metal's enduring technical foundation. Daniel Erlandsson's Arch Enemy work across "War Eternal" (2014) and "Will to Power" (2017) sustained melodic death metal's harmonized twin-guitar songwriting with technically precise, musically disciplined drumming through two decades' worth of lineup changes around him..
 
-Full drummer profile: [Drummer #54 on MetalForge](https://metalforge.io/drummer/drummer-54)
+Full drummer profile: [Daniel Erlandsson on MetalForge](https://metalforge.io/drummer/daniel-erlandsson)
 
 ---
 
@@ -138,4 +136,4 @@ Full drummer profile: [Drummer #54 on MetalForge](https://metalforge.io/drummer/
 
 ---
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

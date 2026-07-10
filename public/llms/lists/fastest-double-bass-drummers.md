@@ -1,6 +1,6 @@
 # Top 10 Fastest Double Bass Drummers in Metal History — Complete Ranked Guide
 
-> **Last updated:** 2026-06-19 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-double-bass-drummers)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/fastest-double-bass-drummers)
 
 ---
 
@@ -241,4 +241,4 @@ A: Lightweight, low-inertia pedals dominate: Axis Longboard (Derek Roddy), Pearl
 
 ---
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

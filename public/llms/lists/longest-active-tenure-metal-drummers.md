@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers with the Longest Active Tenure — Complete Ranked Guide
 
-> **Last updated:** 2026-07-06 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/longest-active-tenure-metal-drummers)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/longest-active-tenure-metal-drummers)
 
 ---
 
@@ -28,7 +28,7 @@ The metal drummers with the longest continuous tenure in a single band, ranked. 
 
 ## Rankings
 
-Ranked by documented performance records, genre-defining influence, and technical contribution. Top entries: Lars Ulrich, Nicko McBrain, Charlie Benante, Drummer #51, Hellhammer, and more.
+Ranked by documented performance records, genre-defining influence, and technical contribution. Top entries: Lars Ulrich, Nicko McBrain, Charlie Benante, Paul Mazurkiewicz, Hellhammer, and more.
 
 ### 1. Lars Ulrich
 
@@ -60,15 +60,15 @@ Charlie Benante (Anthrax / S.O.D.) earns rank #3 for: every anthrax studio album
 
 Full drummer profile: [Charlie Benante on MetalForge](https://metalforge.io/drummer/charlie-benante)
 
-### 4. Drummer #51
+### 4. Paul Mazurkiewicz
 
-**Band:** Unknown
+**Band:** Cannibal Corpse
 **Highlight:** Cannibal Corpse's original drummer, 38 years running
 **Why ranked here:** Paul Mazurkiewicz co-founded Cannibal Corpse in Buffalo, New York in 1988 and has performed on every one of the band's albums since their 1990 debut, a 38-year continuous run that makes him one of death metal's most consistent and dedicated founding members.
 
-Drummer #51 (Unknown) earns rank #4 for: cannibal corpse's original drummer, 38 years running. Paul Mazurkiewicz co-founded Cannibal Corpse in Buffalo, New York in 1988 and has performed on every one of the band's albums since their 1990 debut, a 38-year continuous run that makes him one of death metal's most consistent and dedicated founding members..
+Paul Mazurkiewicz (Cannibal Corpse) earns rank #4 for: cannibal corpse's original drummer, 38 years running. Paul Mazurkiewicz co-founded Cannibal Corpse in Buffalo, New York in 1988 and has performed on every one of the band's albums since their 1990 debut, a 38-year continuous run that makes him one of death metal's most consistent and dedicated founding members..
 
-Full drummer profile: [Drummer #51 on MetalForge](https://metalforge.io/drummer/drummer-51)
+Full drummer profile: [Paul Mazurkiewicz on MetalForge](https://metalforge.io/drummer/paul-mazurkiewicz)
 
 ### 5. Hellhammer
 
@@ -80,15 +80,15 @@ Hellhammer (Mayhem) earns rank #5 for: a constant presence through mayhem's most
 
 Full drummer profile: [Hellhammer on MetalForge](https://metalforge.io/drummer/hellhammer)
 
-### 6. Drummer #48
+### 6. Abe Cunningham
 
-**Band:** Unknown
+**Band:** Deftones
 **Highlight:** Deftones' rhythmic backbone since the band's formation
 **Why ranked here:** Abe Cunningham is a founding member of Deftones, with the band since its 1988 formation, a 38-year unbroken tenure spanning the band's evolution from alternative metal upstarts to one of heavy music's most consistently acclaimed acts across "White Pony," "Diamond Eyes," and beyond.
 
-Drummer #48 (Unknown) earns rank #6 for: deftones' rhythmic backbone since the band's formation. Abe Cunningham is a founding member of Deftones, with the band since its 1988 formation, a 38-year unbroken tenure spanning the band's evolution from alternative metal upstarts to one of heavy music's most consistently acclaimed acts across "White Pony," "Diamond Eyes," and beyond..
+Abe Cunningham (Deftones) earns rank #6 for: deftones' rhythmic backbone since the band's formation. Abe Cunningham is a founding member of Deftones, with the band since its 1988 formation, a 38-year unbroken tenure spanning the band's evolution from alternative metal upstarts to one of heavy music's most consistently acclaimed acts across "White Pony," "Diamond Eyes," and beyond..
 
-Full drummer profile: [Drummer #48 on MetalForge](https://metalforge.io/drummer/drummer-48)
+Full drummer profile: [Abe Cunningham on MetalForge](https://metalforge.io/drummer/abe-cunningham)
 
 ### 7. Tomas Haake
 
@@ -158,4 +158,4 @@ What separates this list from a trophy case is duration itself — the ability t
 
 ---
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

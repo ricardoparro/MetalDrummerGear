@@ -1,6 +1,6 @@
 # Top 10 Most Expensive Metal Drum Setups — Complete Ranked Guide
 
-> **Last updated:** 2026-06-19 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-expensive-drum-setups)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/most-expensive-drum-setups)
 
 ---
 
@@ -133,4 +133,4 @@ A: At that price point, you're paying for custom shell specifications, exotic wo
 
 ---
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

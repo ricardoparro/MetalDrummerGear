@@ -69,12 +69,42 @@ const DRUMMER_MAP = {
   44: { name: 'Derek Roddy',         band: 'Hate Eternal / Nile',                    slug: 'derek-roddy' },
   47: { name: 'Gavin Harrison',      band: 'Porcupine Tree / King Crimson',          slug: 'gavin-harrison' },
   52: { name: 'Mike Mangini',        band: 'Dream Theater',                          slug: 'mike-mangini' },
+  // Issue #4207: ids verified against api/drummers/index.js as live profiles that
+  // are used consistently (same drummer) across every TOP_10_LISTS entry that
+  // references them. Ids NOT added here (e.g. 40, 61, 62, 63+) either have no live
+  // profile or are used inconsistently for different drummers across lists, so
+  // adding them would mis-attribute a link rather than just leave it missing.
+  31: { name: 'Nick Augusto',        band: 'ex-Trivium',                             slug: 'nick-augusto' },
+  32: { name: 'Matt Greiner',        band: 'August Burns Red',                       slug: 'matt-greiner' },
+  33: { name: 'Blake Richardson',    band: 'Between the Buried and Me',              slug: 'blake-richardson' },
+  34: { name: 'Ben Koller',          band: 'Converge / Mutoid Man / Killer Be Killed', slug: 'ben-koller' },
+  36: { name: 'Ryan Van Poederooyen', band: 'Devin Townsend Project',                slug: 'ryan-van-poederooyen' },
+  37: { name: 'Jason Bittner',       band: 'Shadows Fall / Overkill / Category 7',   slug: 'jason-bittner' },
+  38: { name: 'Martin Lopez',        band: 'Soen / ex-Opeth',                        slug: 'martin-lopez' },
+  39: { name: 'Travis Orbin',        band: 'Darkest Hour / ex-Periphery',            slug: 'travis-orbin' },
+  42: { name: 'Scott Travis',        band: 'Judas Priest',                           slug: 'scott-travis' },
+  45: { name: 'Dirk Verbeuren',      band: 'Megadeth',                               slug: 'dirk-verbeuren' },
+  46: { name: 'Frost',               band: 'Satyricon / 1349',                       slug: 'frost' },
+  48: { name: 'Abe Cunningham',      band: 'Deftones',                               slug: 'abe-cunningham' },
+  49: { name: 'Richard Christy',     band: 'Death / Iced Earth',                     slug: 'richard-christy' },
+  50: { name: 'Aquiles Priester',    band: 'Angra / W.A.S.P.',                       slug: 'aquiles-priester' },
+  53: { name: 'Matt Garstka',        band: 'Animals as Leaders',                     slug: 'matt-garstka' },
+  57: { name: 'Daray',               band: 'Dimmu Borgir / Vader',                   slug: 'daray' },
+  58: { name: 'Jocke Wallgren',      band: 'Amon Amarth',                            slug: 'jocke-wallgren' },
+  59: { name: 'Tim Yeung',           band: 'Morbid Angel / Hate Eternal / Vital Remains', slug: 'tim-yeung' },
 };
 
 const today = new Date().toISOString().split('T')[0];
 
+// Issue #4207: unmapped ids must never render a link — DRUMMER_MAP has no
+// synthetic fallback slug to point to, so callers check hasProfile(id) before
+// emitting the "Full profile" line rather than guessing a drummer-${id} URL.
 function getDrummer(id) {
-  return DRUMMER_MAP[id] || { name: `Drummer #${id}`, band: 'Unknown', slug: `drummer-${id}` };
+  return DRUMMER_MAP[id] || { name: `Drummer #${id}`, band: 'Unknown', slug: null };
+}
+
+function hasProfile(id) {
+  return Boolean(DRUMMER_MAP[id]);
 }
 
 function renderEntry(id, ranking) {
@@ -113,8 +143,10 @@ function renderEntry(id, ranking) {
     lines.push(`${d.name} (${d.band}) earns rank #${rank} for: ${highlight.toLowerCase()}. ${reason}.`);
   }
 
-  lines.push('');
-  lines.push(`Full profile: https://metalforge.io/drummer/${d.slug}`);
+  if (hasProfile(id)) {
+    lines.push('');
+    lines.push(`Full profile: https://metalforge.io/drummer/${d.slug}`);
+  }
   lines.push('');
 
   return lines.join('\n');

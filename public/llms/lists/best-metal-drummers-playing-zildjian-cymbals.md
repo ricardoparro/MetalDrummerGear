@@ -1,6 +1,6 @@
 # Top 7 Metal Drummers Playing Zildjian Cymbals — Complete Ranked Guide
 
-> **Last updated:** 2026-07-06 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-zildjian-cymbals)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-zildjian-cymbals)
 
 ---
 
@@ -76,15 +76,15 @@ John Otto (Limp Bizkit) earns rank #6 for: zildjian k custom series across limp 
 
 Full drummer profile: [John Otto on MetalForge](https://metalforge.io/drummer/john-otto)
 
-### 7. Drummer #55
+### 7. Jaska Raatikainen
 
-**Band:** Unknown
+**Band:** Children of Bodom
 **Highlight:** Zildjian A Custom — unchanged across a ten-album career
 **Why ranked here:** Jaska Raatikainen adopted a Zildjian A Custom cymbal setup for Children of Bodom's "Follow the Reaper" (2000), widely considered the band's defining album, and barely changed it for the rest of the band's 26-year run — adding only a Zildjian K Custom ride for extra atmosphere during "Are You Dead Yet?" (2005) and "Blooddrunk" (2008). That steadiness carried through to "Hexed" (2019), the band's final album before their 2019 dissolution. Raatikainen earns rank #7 for one of the longest unbroken Zildjian setups in metal, trusted essentially unchanged for two decades.
 
-Drummer #55 (Unknown) earns rank #7 for: zildjian a custom — unchanged across a ten-album career. Jaska Raatikainen adopted a Zildjian A Custom cymbal setup for Children of Bodom's "Follow the Reaper" (2000), widely considered the band's defining album, and barely changed it for the rest of the band's 26-year run — adding only a Zildjian K Custom ride for extra atmosphere during "Are You Dead Yet?" (2005) and "Blooddrunk" (2008). That steadiness carried through to "Hexed" (2019), the band's final album before their 2019 dissolution. Raatikainen earns rank #7 for one of the longest unbroken Zildjian setups in metal, trusted essentially unchanged for two decades..
+Jaska Raatikainen (Children of Bodom) earns rank #7 for: zildjian a custom — unchanged across a ten-album career. Jaska Raatikainen adopted a Zildjian A Custom cymbal setup for Children of Bodom's "Follow the Reaper" (2000), widely considered the band's defining album, and barely changed it for the rest of the band's 26-year run — adding only a Zildjian K Custom ride for extra atmosphere during "Are You Dead Yet?" (2005) and "Blooddrunk" (2008). That steadiness carried through to "Hexed" (2019), the band's final album before their 2019 dissolution. Raatikainen earns rank #7 for one of the longest unbroken Zildjian setups in metal, trusted essentially unchanged for two decades..
 
-Full drummer profile: [Drummer #55 on MetalForge](https://metalforge.io/drummer/drummer-55)
+Full drummer profile: [Jaska Raatikainen on MetalForge](https://metalforge.io/drummer/jaska-raatikainen)
 
 ---
 
@@ -108,4 +108,4 @@ Full drummer profile: [Drummer #55 on MetalForge](https://metalforge.io/drummer/
 
 ---
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

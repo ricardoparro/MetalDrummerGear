@@ -1,6 +1,6 @@
 # Top 7 Metal Drummers Playing DW Kits — Complete Ranked Guide
 
-> **Last updated:** 2026-07-07 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-dw-kits)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/best-metal-drummers-playing-dw-kits)
 
 ---
 
@@ -64,8 +64,6 @@ Full drummer profile: [Bill Ward on MetalForge](https://metalforge.io/drummer/bi
 
 Drummer #62 (Unknown) earns rank #5 for: dw collector's and performance maple — august burns red's 2010-2022 era. Matt Greiner played a DW Collector's Maple kit from 2010 and a DW Performance Maple kit through 2022 across August Burns Red's touring and recording work, before moving to his current Pearl Reference Pure setup with his own Pearl signature snare. Greiner earns rank #5 for a well-documented, decade-plus DW chapter in one of metalcore's most technical bands..
 
-Full drummer profile: [Drummer #62 on MetalForge](https://metalforge.io/drummer/drummer-62)
-
 ### 6. Hannes Grossmann
 
 **Band:** Obscura / Necrophagist
@@ -108,4 +106,4 @@ Full drummer profile: [Kevin Talley on MetalForge](https://metalforge.io/drummer
 
 ---
 
-*Last updated: 2026-07-07 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

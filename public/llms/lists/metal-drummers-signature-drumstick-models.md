@@ -1,6 +1,6 @@
 # Top 10 Metal Drummers' Signature Drumstick Models — Complete Ranked Guide
 
-> **Last updated:** 2026-07-06 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-drumstick-models)
+> **Last updated:** 2026-07-10 · **Source:** [MetalForge.io](https://metalforge.io) · [View full list →](https://metalforge.io/lists/metal-drummers-signature-drumstick-models)
 
 ---
 
@@ -138,4 +138,4 @@ Full drummer profile: [Jay Weinberg on MetalForge](https://metalforge.io/drummer
 
 ---
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*

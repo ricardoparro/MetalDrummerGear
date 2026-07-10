@@ -800,6 +800,104 @@ export const drummerBirthdays = [
     deathDate: null,
     image: '/images/drummers/jay-weinberg.webp',
     isLiving: true
+  },
+  // Lamb of God
+  {
+    slug: 'art-cruz',
+    name: 'Art Cruz',
+    band: 'Lamb of God',
+    birthDate: '1988-05-27',
+    birthMonth: 5,
+    birthDay: 27,
+    birthYear: 1988,
+    birthPlace: 'Downey, California, USA',
+    deathDate: null,
+    image: '/images/drummers/art-cruz.webp',
+    isLiving: true
+  },
+  // Avenged Sevenfold
+  {
+    slug: 'arin-ilejay',
+    name: 'Arin Ilejay',
+    band: 'Avenged Sevenfold',
+    birthDate: '1988-10-17',
+    birthMonth: 10,
+    birthDay: 17,
+    birthYear: 1988,
+    birthPlace: null,
+    deathDate: null,
+    image: '/images/drummers/arin-ilejay.webp',
+    isLiving: true
+  },
+  // Entheos / Animals as Leaders
+  {
+    slug: 'navene-koperweis',
+    name: 'Navene Koperweis',
+    band: 'Entheos / Animals as Leaders',
+    birthDate: '1985-05-31',
+    birthMonth: 5,
+    birthDay: 31,
+    birthYear: 1985,
+    birthPlace: 'San Jose, California, USA',
+    deathDate: null,
+    image: '/images/drummers/navene-koperweis.webp',
+    isLiving: true
+  },
+  // Trivium / Arkaik / Dragonlord
+  {
+    slug: 'alex-bent',
+    name: 'Alex Bent',
+    band: 'Trivium / Arkaik / Dragonlord',
+    birthDate: '1993-01-31',
+    birthMonth: 1,
+    birthDay: 31,
+    birthYear: 1993,
+    birthPlace: 'Oakland, California, USA',
+    deathDate: null,
+    image: '/images/drummers/alex-bent.webp',
+    isLiving: true
+  },
+  // Opeth
+  {
+    slug: 'martin-axenrot',
+    name: 'Martin Axenrot',
+    band: 'Opeth',
+    birthDate: '1979-03-17',
+    birthMonth: 3,
+    birthDay: 17,
+    birthYear: 1979,
+    birthPlace: 'Stockholm, Sweden',
+    deathDate: null,
+    image: '/images/drummers/martin-axenrot.webp',
+    isLiving: true
+  },
+  // Death / Cynic
+  {
+    slug: 'sean-reinert',
+    name: 'Sean Reinert',
+    band: 'Death / Cynic',
+    birthDate: '1971-05-27',
+    birthMonth: 5,
+    birthDay: 27,
+    birthYear: 1971,
+    birthPlace: null,
+    deathDate: '2020-01-24',
+    image: '/images/drummers/sean-reinert.webp',
+    isLiving: false
+  },
+  // Megadeth
+  {
+    slug: 'nick-menza',
+    name: 'Nick Menza',
+    band: 'Megadeth',
+    birthDate: '1964-07-23',
+    birthMonth: 7,
+    birthDay: 23,
+    birthYear: 1964,
+    birthPlace: null,
+    deathDate: '2016-05-21',
+    image: '/images/drummers/nick-menza.webp',
+    isLiving: false
   }
 ];
 

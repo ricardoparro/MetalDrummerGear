@@ -170,10 +170,10 @@ Source: https://metalforge.io/quotes
 
 ## Related Resources
 
-- [Drummer Profiles](https://metalforge.io/llms/drummers/) — Gear specs for all 61 drummers
+- [Drummer Profiles](https://metalforge.io/llms/drummers/) — Gear specs for all 67 drummers
 - [Quick Facts](https://metalforge.io/llms/facts.md) — Speed records, career milestones, and nicknames
 - [Drummer Style Guides](https://metalforge.io/llms/guides.md) — How-to-sound-like guides for metal legends
-- [Signature Licks](https://metalforge.io/llms/licks.md) — Signature patterns for 55 drummers
+- [Signature Licks](https://metalforge.io/llms/licks.md) — Signature patterns for 67 drummers
 - [Full Index](https://metalforge.io/llms/index.md) — Complete LLM content index
 
 ---

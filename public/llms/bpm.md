@@ -96,7 +96,7 @@ Mid-tempo range featuring rhythmic groove, syncopated patterns, and polyrhythmic
 | Halo | Machine Head | The Blackening | 2007 | 125 | groove-metal | Dave McClain |
 | Carrion | Parkway Drive | Deep Blue | 2010 | 125 | metalcore | Ben Gordon |
 | The Saw Is the Law | Whitechapel | A New Era of Corruption | 2010 | 125 | deathcore | Kevin Lane |
-| Symphony of Destruction | Megadeth | Countdown to Extinction | 1992 | 126 | thrash-metal | [Nick Menza](https://metalforge.io/drummer/dirk-verbeuren) |
+| Symphony of Destruction | Megadeth | Countdown to Extinction | 1992 | 126 | thrash-metal | [Nick Menza](https://metalforge.io/drummer/nick-menza) |
 | The Pot | Tool | 10,000 Days | 2006 | 127 | progressive-metal | [Danny Carey](https://metalforge.io/drummer/danny-carey) |
 | Chop Suey! | System of a Down | Toxicity | 2001 | 127 | nu-metal | John Dolmayan |
 | Breaking the Law | Judas Priest | British Steel | 1980 | 128 | heavy-metal | Dave Holland |
@@ -151,7 +151,7 @@ The classic metal tempo range. Features relentless rhythm guitar, double bass ru
 | The Trooper | Iron Maiden | Piece of Mind | 1983 | 160 | heavy-metal | [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) |
 | Behemoth — Conquer All | Behemoth | Demigod | 2004 | 160 | blackened-death-metal | [Inferno](https://metalforge.io/drummer/inferno) |
 | Black Sabbath — Paranoid | Black Sabbath | Paranoid | 1970 | 164 | heavy-metal | [Bill Ward](https://metalforge.io/drummer/bill-ward) |
-| Hangar 18 | Megadeth | Rust in Peace | 1990 | 165 | thrash-metal | [Nick Menza](https://metalforge.io/drummer/dirk-verbeuren) |
+| Hangar 18 | Megadeth | Rust in Peace | 1990 | 165 | thrash-metal | [Nick Menza](https://metalforge.io/drummer/nick-menza) |
 | People = Shit | Slipknot | Iowa | 2001 | 165 | nu-metal | [Joey Jordison](https://metalforge.io/drummer/joey-jordison) |
 | Machine Head — Aesthetics of Hate | Machine Head | The Blackening | 2007 | 165 | thrash-metal | Dave McClain |
 | Mourning Palace | Dimmu Borgir | Enthrone Darkness Triumphant | 1997 | 165 | symphonic-black-metal | Tjodalv |
@@ -170,10 +170,10 @@ Extreme tempo range. Blast beats, double bass gallops, and technically demanding
 |------|------|-------|------|-----|-------|---------|
 | The Dance of Eternity | Dream Theater | Metropolis Pt. 2: Scenes from a Memory | 1999 | 170 | progressive-metal | [Mike Portnoy](https://metalforge.io/drummer/mike-portnoy) |
 | Painkiller | Judas Priest | Painkiller | 1990 | 171 | heavy-metal | [Scott Travis](https://metalforge.io/drummer/scott-travis) |
-| Holy Wars...The Punishment Due | Megadeth | Rust in Peace | 1990 | 180 | thrash-metal | [Nick Menza](https://metalforge.io/drummer/dirk-verbeuren) |
+| Holy Wars...The Punishment Due | Megadeth | Rust in Peace | 1990 | 180 | thrash-metal | [Nick Menza](https://metalforge.io/drummer/nick-menza) |
 | Aces High | Iron Maiden | Powerslave | 1984 | 180 | heavy-metal | [Nicko McBrain](https://metalforge.io/drummer/nicko-mcbrain) |
 | Avenged Sevenfold — Beast and the Harlot | Avenged Sevenfold | City of Evil | 2005 | 180 | heavy-metal | The Rev |
-| Tornado of Souls | Megadeth | Rust in Peace | 1990 | 178 | thrash-metal | [Nick Menza](https://metalforge.io/drummer/dirk-verbeuren) |
+| Tornado of Souls | Megadeth | Rust in Peace | 1990 | 178 | thrash-metal | [Nick Menza](https://metalforge.io/drummer/nick-menza) |
 | Ora Pro Nobis Lucifer | Behemoth | The Satanist | 2014 | 175 | blackened-death-metal | [Inferno](https://metalforge.io/drummer/inferno) |
 | Caught in a Mosh | Anthrax | Among the Living | 1987 | 175 | thrash-metal | [Charlie Benante](https://metalforge.io/drummer/charlie-benante) |
 | A Blaze in the Northern Sky | Darkthrone | A Blaze in the Northern Sky | 1992 | 175 | black-metal | Fenriz |

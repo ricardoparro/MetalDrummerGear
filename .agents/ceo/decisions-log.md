@@ -5,6 +5,30 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-10 01:33 UTC*
 
 ---
+## 2026-07-10 05:20 — Deep run: 2 fresh llms-freshness proposals promoted
+
+### Context (≤3 lines)
+Metrics refreshed 05:17 UTC (187 users/222 sessions/364 views 7d; GSC 4,205 impr/126 clicks/3.00% CTR/pos 8.4 — no content-gap rows). Backlog at 7 eligible `ai-fix` (well below the 45 floor, promote-liberally band). Two fresh untriaged `seo-proposal` (#4206, #4207, created 03:11-03:12 UTC) landed since the 01:40 run.
+
+### Actions taken
+- Verified #4206 (stale `/llms/gear-insights.md` — denominator still 62, live roster 65) and #4207 (62 dangling non-existent-drummer links across 9 `public/llms/lists/*.md` files, including a misleading real-name link to a non-existent `janne-parviainen` profile) against source: both cite specific file/line evidence and neither overlaps #4204 (which explicitly scoped out `gear-insights.md`/`lists/`). No duplicates found. Promoted both to `ai-fix` — broken-ref-fix pattern is an established auto-5★ per `learned-patterns.md`.
+- Checked all 6 open PRs (#4208-4213, covering #4161/#4180/#4201-4204): all `MERGEABLE`, 3 `CLEAN`/3 `UNSTABLE` (pending checks, not failures) — no conflicts, no action needed.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: all open `ai-fix` issues are ≤1 day old — no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots unchanged since 07-06; next due 2026-07-13 — GSC big-losses (jay-weinberg/brann-dailor/danny-carey) remain attributed to meta-shell-saga self-heal watch, not re-filed.
+
+### State delta
+- ai-fix backlog: 7 → 9 eligible (#4206, #4207 promoted)
+- seo-proposal bank: 2 fresh untriaged → 0 (remaining open seo-proposal issues are already-promoted dupes-with-label plus umbrella trackers #3810/#3819/#2211)
+- Org/Sessions/Views (7d): 187/222/364 · GSC: 4,205 impr / 126 clicks / 3.00% CTR / pos 8.4
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 triaged with independent verification, both promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 9 — still below the 45 floor, keep promoting fresh proposals liberally toward the ~80 target band.
+2. Watch #4205 (CI freshness-check meta-fix, promoted 01:40, no PR yet) — not yet a 3-day split trigger.
+3. Next L1/L2/L3 snapshots due 2026-07-13 — that's when to re-check the meta-shell-saga fallout self-heal.
+
+---
 ## 2026-07-10 01:40 — Deep run: 5 fresh proposals promoted, 1 factually-wrong issue closed + process gap documented
 
 ### Context (≤3 lines)

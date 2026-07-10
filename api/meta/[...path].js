@@ -2347,7 +2347,9 @@ function getMetaForPath(pathname) {
                   name: `What cymbals does ${drummer.name} use?`,
                   acceptedAnswer: {
                     '@type': 'Answer',
-                    text: `${drummer.name}'s cymbal setup includes gear from their complete MetalForge profile at metalforge.io/drummer/${slug}.`,
+                    text: drummer.gear?.cymbals
+                      ? `${drummer.name} uses ${drummer.gear.cymbals}.`
+                      : `${drummer.name}'s full cymbal setup is documented on MetalForge.`,
                   },
                 },
                 {
@@ -3065,7 +3067,9 @@ function getMetaForPath(pathname) {
                   name: `What cymbals does ${drummer.name} use?`,
                   acceptedAnswer: {
                     '@type': 'Answer',
-                    text: `${drummer.name}'s cymbal setup includes gear from their complete MetalForge profile.`,
+                    text: drummer.gear?.cymbals
+                      ? `${drummer.name} uses ${drummer.gear.cymbals}.`
+                      : `${drummer.name}'s full cymbal setup is documented on MetalForge.`,
                   },
                 },
                 {

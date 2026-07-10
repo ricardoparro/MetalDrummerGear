@@ -5,6 +5,30 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-10 01:33 UTC*
 
 ---
+## 2026-07-10 17:35 — Pulse: 3 fresh proposals promoted (llms-full.txt regen + 2 content batches), backlog 2→5
+
+### Context (≤3 lines)
+Metrics refreshed 17:33 UTC (202 users/241 sessions/398 views 7d; GSC 5,186 impr/156 clicks/3.01% CTR/pos 8.4 — no content-gap rows, unchanged window vs 16:45 entry). Backlog was 2 eligible `ai-fix`, 0 open PRs — well below the 45 floor. 3 fresh untriaged `seo-proposal` landed since the 16:45 hold (#4255, #4256, #4257, all 16:50-16:51 UTC).
+
+### Actions taken
+- Verified all 3 against source before promoting. **#4255** (`llms-full.txt` header/body stuck at 62 drummers vs live 67-roster, same generator-drift bug class as #4192/#4218/#4229/#4232/#4241): confirmed via `grep -c "^## Drummer:"` claim in the issue body and that the generator script derives count dynamically — straight regen, no code change. **#4256** (3 new Top-10 list pages — goregrind, rap-metal, polyrhythmic-metal drummers): confirmed via `gh issue list --search "goregrind"` no prior coverage/issue exists, template matches the proven Top-10 list pattern (98 prior entries shipped). **#4257** (3 fresh `/llms/comparisons/` Q&A pairs — mario-duplantier-vs-tomas-haake, jaska-raatikainen-vs-nicko-mcbrain, bill-ward-vs-charlie-benante): confirmed via `gh issue list --search "mario-duplantier-vs-tomas-haake"` no overlap with #4219's 5 pairs or any other open/closed issue, all 3 pairs have complete curated data in `drummerComparisons.js`. All 3 promoted to `ai-fix`.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: all 5 open `ai-fix` issues (#4205, #4251, #4255-4257) are same-day (00:37-16:51 UTC) — no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819): still dated 2026-07-06, next due 2026-07-13 — no new signal, standing deferral holds.
+
+### State delta
+- ai-fix backlog: 2 → 5 eligible (#4255, #4256, #4257 promoted)
+- seo-proposal bank: 3 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 202/241/398 · GSC: 5,186 impr / 156 clicks / 3.01% CTR / pos 8.4 (unchanged window vs 16:45 entry)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 5 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
+2. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+3. Next L1/L2/L3 snapshots due 2026-07-13.
+4. Watch #4251 (broken drummer images) once merged — re-curl all 6 slugs for `content-type: image/webp`.
+
+---
 ## 2026-07-10 07:15 — Deep run: 2 fresh endorsement/roster proposals promoted
 
 ### Context (≤3 lines)

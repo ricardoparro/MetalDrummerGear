@@ -120,6 +120,18 @@ Full drummer profile: [Chris Adler on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: Does any metal drummer have a true signature bass drum pedal?**
+A: George Kollias is the clearest example in MetalForge's database: he co-designed the Pearl Demon XR double pedal directly around his own heel-toe technique, engineering its footboard and linear action specifically to sustain blast beats past 240 BPM for Nile. A true co-designed signature pedal is much rarer in metal than a signature snare or signature stick, since it requires a manufacturer to re-engineer a mechanically complex product around one player's specific requirements rather than just licensing a name.
+
+**Q: Why don't more metal drummers have signature pedals?**
+A: A bass drum pedal is mechanically far more complex than a snare shell or a drumstick, involving springs, chains or direct-drive belts, cams, and footboards that all interact — making a genuine co-designed signature partnership a much bigger engineering commitment for a manufacturer than simply licensing an artist's name onto an existing catalog snare or stick. That's why most of the pedal stories on this list are documented, named artist choices of existing catalog pedals rather than bespoke co-designed products like George Kollias's Pearl Demon XR.
+
+**Q: Which metal drummers refuse to use a double bass pedal?**
+A: Nicko McBrain has used only a single bass drum and single pedal throughout his entire 40-plus year Iron Maiden career, achieving the band's galloping speed through foot technique alone. Bill Ward built Black Sabbath's entire foundational sound the same way, relying on a single Ludwig Speed King pedal without ever adopting a double kick. Both are proof that extreme speed in metal doesn't strictly require a second kick drum.
+
+**Q: What is the difference between Derek Roddy's and Tomas Haake's unconventional pedal setups?**
+A: Derek Roddy pairs standard Axis Longboard pedals with his own invented swivel technique, using an existing catalog pedal in a self-developed way to push blast beat speed past 260 BPM. Tomas Haake takes a different unconventional approach entirely, running two independent single Tama Speed Cobra pedals rather than a linked double pedal, giving him fully separate control over each foot for Meshuggah's polyrhythmic material. Neither setup is a co-designed signature product — both are standard pedals used in genuinely unusual configurations.
+
 
 ---
 

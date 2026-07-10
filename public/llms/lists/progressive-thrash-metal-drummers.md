@@ -120,6 +120,18 @@ Full drummer profile: [Dave Lombardo on MetalForge](https://metalforge.io/drumme
 
 ## Frequently Asked Questions
 
+**Q: Who is the best progressive thrash metal drummer?**
+A: Vektor's Blake Anderson, Warbringer's Carlos Cruz, and Coroner's Marquis Marky defined progressive thrash's modern and classic vocabulary but do not currently have dedicated profiles in MetalForge's database. Gene Hoglan is the closest working analogue, his drumming on Death's "Human" and "Individual Thought Patterns" helping pivot death metal into progressive thrash-death territory that remains hugely influential. Richard Christy of Death/Control Denied and Dirk Verbeuren of Megadeth follow closely for their own compositionally ambitious thrash-adjacent catalogs.
+
+**Q: What is progressive thrash metal?**
+A: Progressive thrash metal fuses thrash metal's speed and aggression with progressive metal's odd-time signatures, compositional ambition, and structural complexity, tracing back to Watchtower and Coroner's mid-1980s fusion of thrash velocity with jazz-informed complexity. Death's "Human" (1991) pivoted death metal into progressive thrash-death territory, and a modern revival led by Vektor and Warbringer has carried the style's forward-thinking songwriting into the 2010s and 2020s.
+
+**Q: What makes progressive thrash metal drumming unique?**
+A: Progressive thrash drumming demands everything standard thrash requires — fast double bass, aggressive snare work, whiplash tempo changes — plus the odd-meter fluency, polyrhythmic layering, and compositional patience needed to serve extended, non-repetitive song structures. Where standard thrash drumming powers three-minute anthems built on repeated riffs, progressive thrash drumming has to track constantly shifting meters and arrangements that unfold more like progressive metal compositions than straightforward thrash songwriting.
+
+**Q: What bands define progressive thrash metal?**
+A: Watchtower is widely credited as progressive thrash's founding band, its mid-1980s fusion of thrash velocity with jazz-informed odd-time signatures establishing the genre's core vocabulary alongside Swiss technical thrash pioneers Coroner. Death's later catalog pivoted death metal into progressive thrash-death territory through the 1990s, Believer pushed progressive thrash into explicitly experimental, classically-influenced songwriting, and Vektor and Warbringer have led a 2010s-2020s revival that carries progressive thrash's forward-thinking ambition into modern extreme metal.
+
 
 ---
 

@@ -120,6 +120,15 @@ Full drummer profile: [Mike Portnoy on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: Who was the best metal drummer of the 1980s?**
+A: Lars Ulrich (Metallica) is the most impactful 80s metal drummer by influence and commercial reach, co-creating the thrash template across four genre-defining albums. Dave Lombardo (Slayer) is the consensus choice among musicians for technical drumming excellence — Reign in Blood's double bass ferocity remains the decade's most studied drumming performance. Nicko McBrain (Iron Maiden) earns the argument for sustained excellence across the most beloved NWOBHM catalogue of the era.
+
+**Q: What made 80s metal drumming different from earlier rock drumming?**
+A: 80s metal drumming accelerated and intensified every rock drumming parameter. Tempos jumped from 120–140 BPM rock norms to 160–220+ BPM thrash standards. Double bass pedals became near-mandatory for the first time. Snare tuning tightened for the dry, punchy sound the decade demanded. Production values shifted toward gated reverb and aggressive drum sounds. Most importantly, 80s metal made the drummer a co-lead instrument — the kit driving songs as aggressively as the guitars rather than supporting them.
+
+**Q: What albums defined 80s metal drumming?**
+A: The most influential 80s metal drumming albums include: Metallica's Master of Puppets (1986) for the thrash drumming gold standard; Slayer's Reign in Blood (1986) for double bass brutality; Iron Maiden's Powerslave (1984) for NWOBHM precision; Dark Angel's Darkness Descends (1986) for technical thrash; Anthrax's Among the Living (1987) for East Coast aggression; Morbid Angel's Altars of Madness (1989) for death metal drumming's debut; and Black Sabbath's Heaven and Hell (1980) for the doom-metal foundation.
+
 
 ---
 

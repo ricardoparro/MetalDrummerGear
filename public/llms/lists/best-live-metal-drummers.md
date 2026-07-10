@@ -140,6 +140,18 @@ The ten drummers on this list share a quality that studio recordings alone can't
 
 ## Frequently Asked Questions
 
+**Q: Who is the best live metal drummer?**
+A: Danny Carey of Tool is the most commonly cited answer for combining elaborate live stagecraft with technical execution, commanding an enormous percussion rig while reproducing Tool's Fibonacci-sequenced polyrhythms exactly. Mike Portnoy earns the argument for live endurance and generosity toward audiences, having anchored three-hour-plus Dream Theater sets built around fan-voted setlists. Joey Jordison of Slipknot is the consensus pick for live theatricality, executing extreme metal technicality while elevated on a hydraulic riser in Slipknot's iconic mask.
+
+**Q: What drummer does Tool use?**
+A: Tool's drummer is Danny Carey, who has held the position since the band's founding in 1990. His live setup is one of metal's most elaborate, incorporating octobans, gongs, and electronic triggers alongside a standard kit, all deployed in service of the complex polyrhythms and odd time signatures that define Tool's progressive metal sound.
+
+**Q: What makes a drummer great live versus in the studio?**
+A: Studio drumming can rely on overdubs, editing, and unlimited takes to achieve precision; live drumming has none of those safety nets. Great live metal drummers are judged on stamina across long sets, consistency in reproducing technically demanding studio parts without a click track, showmanship that reads to an entire arena, and the ability to improvise or extend material in the moment — criteria distinct from, though related to, pure recorded technical skill.
+
+**Q: Which metal drummers are known for the most physically demanding live shows?**
+A: Nicko McBrain (Iron Maiden) and Mikkey Dee (Motörhead/Scorpions) are frequently cited for sustaining physically demanding, production-heavy world tours across four-plus decades without a drop in performance quality. Dave Lombardo (Slayer) built a reputation for raw physical intensity that fed directly off some of metal's most notoriously chaotic live crowds, while Joey Jordison (Slipknot) added the additional physical challenge of full technical drumming while elevated and masked.
+
 
 ---
 

@@ -116,6 +116,15 @@ Full drummer profile: [Matt Garstka on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: Which metal drummers play Meinl cymbals?**
+A: Brann Dailor (Mastodon) mixes dark and Brilliant-finish Byzance cymbals, Chris Adler (Lamb of God) and Matt Halpern (Periphery) both run fully dark Byzance setups, and Matt Greiner (August Burns Red) plays the most extensive five-piece Byzance rig in MetalForge's data. Derek Roddy (Hate Eternal/Nile), Hannes Grossmann (Obscura), Martin Axenrot (Opeth), Navene Koperweis (Entheos), Chris Turner (Oceans Ate Alaska), and Matt Garstka (Animals as Leaders) round out MetalForge's most extensively documented Meinl artists.
+
+**Q: What makes Meinl Byzance cymbals different from Zildjian or Sabian?**
+A: Meinl's Byzance Series is hand-hammered using a traditional B20 bronze process similar to its competitors, but Meinl leans harder into the darker end of the tonal spectrum by default — most of the drummers on this list run a "Dark" or "Traditional" finish rather than the brighter A Custom or AAX lines that dominate MetalForge's Zildjian and Sabian rankings. That darker default voice is why Byzance shows up so often among progressive, djent, and technical death metal drummers who want a complex wash rather than a bright, cutting attack.
+
+**Q: Why does Derek Roddy mix two different Meinl cymbal lines?**
+A: Derek Roddy pairs Meinl's nuanced Byzance line (hi-hats and china) with the louder, more metal-specific Mb20 line (crashes and ride) to get both articulation and raw cutting power in the same setup — a combination purpose-built for the blast-beat velocity his death metal work with Hate Eternal and Nile requires. It's the only mixed-line Meinl setup MetalForge has documented, where every other drummer on this list commits to Byzance throughout.
+
 
 ---
 

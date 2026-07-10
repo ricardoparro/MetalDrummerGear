@@ -120,6 +120,15 @@ Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: Who is the best progressive death metal drummer?**
+A: Gene Hoglan is the most widely cited best progressive death metal drummer, having defined the sub-genre's technical ceiling on Death's "Individual Thought Patterns" and "Symbolic" — albums that combined extreme speed with compositional sophistication unique in 1990s metal. Martin Lopez of Opeth is the alternative answer for those who prioritize dynamic range and jazz-influenced finesse within extreme metal contexts. Tomas Haake of Meshuggah is the choice for the most innovative contribution — his polymeter concept fundamentally changed how prog-death rhythmic relationships work.
+
+**Q: What bands play progressive death metal?**
+A: The core progressive death metal bands include Death (whose final three albums define the sub-genre's template), Opeth (who brought jazz dynamics and acoustic passages to death metal), Gojira (whose groove-death hybrid expanded the genre's sonic range), Meshuggah (whose polymetric approach invented djent as a prog-death offshoot), and Cynic (who integrated jazz fusion and clean vocals into extreme metal). Cryptopsy, Nile, and Between the Buried and Me also straddle the progressive and death metal boundary with complex arrangements and extreme technical demands.
+
+**Q: How does progressive death metal drumming differ from regular death metal drumming?**
+A: Progressive death metal drumming requires everything death metal demands — blast beats at 180–280 BPM, extreme double bass precision, and physical endurance — plus the additional requirement of navigating complex time signature changes, odd meters, and extended compositional forms. Where standard death metal drumming prioritizes maximum brutality within established patterns, prog-death drumming treats the kit as a compositional voice, with fills and pattern changes serving the music's narrative arc rather than simply demonstrating speed. Jazz vocabulary, dynamic contrast, and musical sensitivity are as important as technical extremity in the best prog-death drumming.
+
 
 ---
 

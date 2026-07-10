@@ -120,6 +120,18 @@ Full drummer profile: [Jaska Raatikainen on MetalForge](https://metalforge.io/dr
 
 ## Frequently Asked Questions
 
+**Q: Who was the best death metal drummer of the 1990s?**
+A: Pete Sandoval (Morbid Angel) defined death metal's peak speed and sustained brutality across the entire decade with "Altars of Madness," "Blessed Are the Sick," "Covenant," and "Domination." Paul Mazurkiewicz (Cannibal Corpse) has the most complete 90s discography of any drummer on this list, appearing on every Cannibal Corpse album from their 1990 debut through the decade's end, while Gene Hoglan's work on Death's "Human" and "Individual Thought Patterns" is widely considered the decade's most musically influential death metal drumming.
+
+**Q: How did 90s death metal drumming differ from 80s death metal drumming?**
+A: The 80s established death metal's foundational blast-beat vocabulary through pioneers building on thrash metal's speed. The 90s pushed that foundation in multiple directions at once: Pete Sandoval and Paul Mazurkiewicz sustained and refined pure extremity and speed, Gene Hoglan and Richard Christy pushed technical musicality forward with Death, Flo Mounier and Derek Roddy developed new technical and polyrhythmic vocabulary, and Daniel Erlandsson and Jaska Raatikainen helped launch an entirely new melodic death metal subgenre in Gothenburg and Finland respectively.
+
+**Q: What were the most important 90s death metal albums for drumming?**
+A: Key 90s death metal drumming albums include Morbid Angel's "Covenant" (1993) and "Domination" (1995) for peak extremity; Cannibal Corpse's "Tomb of the Mutilated" (1992) and "The Bleeding" (1994) for brutal consistency; Death's "Human" (1991), "Individual Thought Patterns" (1993), and "The Sound of Perseverance" (1998) for technical musicality; Cryptopsy's "None So Vile" (1996) for technical death metal's speed ceiling; Fear Factory's "Demanufacture" (1995) for industrial death metal; and Children of Bodom's "Something Wild" (1997) for melodic death metal's neoclassical wing.
+
+**Q: Which 90s death metal drummers went on to define technical death metal in the 2000s?**
+A: Derek Roddy carried the technical vocabulary he built during his 90s Malevolent Creation tenure into Hate Eternal and Nile in the following decade, while Gene Hoglan's 90s work with Death directly influenced the technical death metal drummers, including George Kollias, who followed him at Nile. Both drummers are proof that the 90s functioned as a technical death metal training ground for careers that extended well into the 2000s and beyond.
+
 
 ---
 

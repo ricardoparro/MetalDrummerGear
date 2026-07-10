@@ -120,6 +120,18 @@ Full drummer profile: [Art Cruz on MetalForge](https://metalforge.io/drummer/art
 
 ## Frequently Asked Questions
 
+**Q: Who are the best crust metal drummers?**
+A: Tragedy's and His Hero Is Gone's drumming lineage, along with Amebix's and Discharge's founding rhythm sections, built crust metal's foundational D-beat template but do not currently have dedicated profiles in MetalForge's database. Ben Koller of Converge is the closest working analogue, his career built entirely at hardcore punk and metal's collision point. Dave Lombardo and Charlie Benante follow closely for their own deep connections to punk-metal crossover, from Lombardo's Fantômas and Dead Cross session work to Benante's foundational Stormtroopers of Death recordings.
+
+**Q: What is crust metal (crust punk)?**
+A: Crust metal, or crust punk, fuses hardcore punk's raw D-beat aggression with metal's tonnage, distortion, and extremity. It grew out of the UK anarcho-punk scene of the early 1980s — Discharge, Amebix, and Antisect — before Sweden's Wolfpack and Skitsystem lineage and America's Tragedy and His Hero Is Gone crystallized crust's modern template of D-beat drumming, crusty distorted production, and metal-derived breakdowns layered over hardcore's politically-charged, anarcho-punk directness.
+
+**Q: What makes crust metal drumming different from standard hardcore punk drumming?**
+A: Crust metal drumming starts from hardcore punk's D-beat foundation — a driving, syncopated pattern named after Discharge — but adds metal-derived elements standard hardcore drumming doesn't use: death-metal and grindcore-influenced blast beats, downtuned sludge-adjacent breakdowns, and the physical stamina those extreme-metal techniques demand. Where straight hardcore punk drumming stays locked to the D-beat pulse throughout a song, crust metal drumming moves between that pulse and full blast-beat extremity, giving the genre its distinctly metallic weight.
+
+**Q: What bands define crust metal?**
+A: Discharge is widely credited as the band whose D-beat drumming pattern gave crust its rhythmic foundation, with Amebix and Antisect building the UK anarcho-punk scene's crusty, metal-tinged sound around it in the early 1980s. Sweden's Wolfpack and Skitsystem carried the style through the 1990s, while America's Tragedy and His Hero Is Gone defined crust's modern metal-facing template in the late 1990s and early 2000s. Nasum and Extreme Noise Terror represent the genre's closely related crust-grind hybrid wing.
+
 
 ---
 

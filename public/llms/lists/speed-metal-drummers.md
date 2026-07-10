@@ -120,6 +120,18 @@ Full drummer profile: [Igor Cavalera on MetalForge](https://metalforge.io/drumme
 
 ## Frequently Asked Questions
 
+**Q: Who are the best speed metal drummers?**
+A: Lars Ulrich and Dave Lombardo are speed metal's most foundational figures, their early work with Metallica and Slayer respectively helping define the genre's up-tempo template before both bands evolved into thrash metal proper. Scott Travis is the answer for speed metal's most iconic single recording — Judas Priest's "Painkiller" — while Gene Hoglan's tenure with Dark Angel, billed as "The Fastest Band Alive," represents the genre's most extreme tempo pursuit. Motörhead's Mikkey Dee and Iron Maiden's Nicko McBrain remain among the genre's most direct historical touchstones outside this database.
+
+**Q: What is speed metal?**
+A: Speed metal is an up-tempo heavy metal subgenre that emerged in the early-to-mid 1980s as a bridge between the New Wave of British Heavy Metal and thrash metal, prioritizing raw tempo, aggressive riffing, and technical precision over thrash's later embrace of groove, breakdowns, and mosh-oriented rhythms. Bands like early Metallica, early Slayer, and Motörhead helped define the style before thrash metal absorbed and expanded on its velocity-first approach in the mid-1980s.
+
+**Q: How is speed metal different from thrash metal?**
+A: Speed metal and thrash metal share the same up-tempo, double-bass-driven DNA — the terms are often used interchangeably for early-1980s bands. The distinction that emerged over time is that thrash metal added more complex song structures, breakdown sections, and mosh-pit-oriented groove, while speed metal stayed closer to straightforward, headbanging-focused velocity. Many bands, including early Metallica and Slayer, are retroactively described as speed metal for their earliest releases before critics began applying the "thrash" label to their more structurally ambitious later work.
+
+**Q: What gear do speed metal drummers use?**
+A: Speed metal's velocity-first demands favor large, punchy bass drums and stiff, fast-responding double pedals. Dave Lombardo's ddrum kit and Sabian cymbals gave Slayer's early speed metal ferocity its raw, cutting attack. Scott Travis's DW kit with Paiste cymbals powers Judas Priest's "Painkiller"-era aggression. Gene Hoglan's Tama kit and Zildjian cymbals deliver the surgical precision behind his "Atomic Clock" reputation. Across the genre, bright, cutting cymbals and dependable, fast double pedals remain the shared priority.
+
 
 ---
 

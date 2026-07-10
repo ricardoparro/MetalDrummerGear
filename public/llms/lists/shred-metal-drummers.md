@@ -120,6 +120,18 @@ Full drummer profile: [Blake Richardson on MetalForge](https://metalforge.io/dru
 
 ## Frequently Asked Questions
 
+**Q: Who are the most technical shred drummers in metal?**
+A: Travis Orbin is the most widely cited modern answer — his self-taught, meticulously precise technical playthroughs and his work on Periphery's genre-defining 2010 debut set a new standard for polyrhythmic, electronically-augmented shred drumming. Matt Garstka of Animals as Leaders earns the argument for pure instrumental virtuosity, fusing jazz fusion technique with djent complexity across an entirely instrumental catalog. Scott Travis carries the most direct lineage to guitar shred culture, having played in Racer X alongside shred guitar pioneer Paul Gilbert before joining Judas Priest.
+
+**Q: What is "shred" drumming, and how is it different from just playing fast?**
+A: Shred drumming borrows its name and ethos from guitar shred culture — the 1980s instrumental virtuoso scene built around bands like Racer X and Cacophony, where technical display was the point, not just a byproduct of speed. Shred drumming applies that same philosophy: flawless execution of extremely demanding patterns, often incorporating polyrhythms, odd time signatures, and linear independence between limbs, performed with a precision that showcases technique as its own musical statement. Raw speed alone (as ranked on MetalForge's fastest metal drummers list) is one component; shred drumming additionally demands compositional complexity and clean, controlled execution under that speed.
+
+**Q: What bands define the shred metal drumming scene?**
+A: The shred metal drumming scene traces its roots to 1980s instrumental guitar-hero bands like Racer X (whose original drummer, Scott Travis, later joined Judas Priest) and the broader Mike Varney/Shrapnel Records roster. It expanded into modern instrumental progressive metal through Animals as Leaders (Matt Garstka), and into the technical death metal underground through bands like Necrophagist and Obscura (Hannes Grossmann). Periphery, powered early on by Travis Orbin, brought shred-level technical drumming into the mainstream modern metal conversation alongside djent.
+
+**Q: What gear do shred metal drummers use?**
+A: Shred metal drummers favor gear engineered for minimal-inertia speed and precise articulation at extreme tempos. George Kollias co-designed the Pearl Demon XR double pedal specifically for his heel-toe technique. Matt Garstka uses a Tama Speed Cobra 910 double pedal to drive the intricate, ghost-note-laced double bass patterns central to his linear independence. Derek Roddy relies on Axis Longboard pedals paired with his swivel technique to maximize speed with minimal fatigue. Across the genre, lightweight double pedals and responsive, articulate cymbals dominate — gear chosen to get out of the way of extreme technical execution.
+
 
 ---
 

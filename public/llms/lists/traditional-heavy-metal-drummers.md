@@ -120,6 +120,21 @@ Full drummer profile: [Chris Adler on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: Who are the best traditional heavy metal drummers?**
+A: None of traditional heavy metal's most iconic drummers — Nicko McBrain (Iron Maiden), Bill Ward (Black Sabbath), Phil Rudd (AC/DC), Ian Paice (Deep Purple), Cozy Powell (Rainbow/Whitesnake), Tommy Aldridge (Ozzy Osbourne/Whitesnake), Mikkey Dee (Motörhead), Dave Holland (Judas Priest), or Clive Burr (Iron Maiden) — currently has a dedicated drummer profile in MetalForge's database. Scott Travis, who joined Judas Priest for 1990's "Painkiller" and remains the band's drummer today, is the one direct traditional heavy metal lineage drummer MetalForge currently profiles. Lars Ulrich and Dave Lombardo follow closely as the genre's most devoted NWOBHM disciples, carrying its foundational DNA into thrash metal's most influential bands.
+
+**Q: What is traditional heavy metal?**
+A: Traditional heavy metal is the genre's founding template, built in the late 1960s and 1970s by bands like Black Sabbath, Deep Purple, and Judas Priest, then codified by the New Wave of British Heavy Metal (NWOBHM) — Iron Maiden, Saxon, Motörhead — in the late 1970s and early 1980s. It favors mid-tempo, riff-driven power, galloping rhythms, and anthemic songwriting over the extreme speed, technicality, or brutality that later metal subgenres pursued, prioritizing groove and heaviness as ends in themselves rather than stepping stones to more extreme sounds.
+
+**Q: What makes traditional heavy metal drumming unique?**
+A: Traditional heavy metal drumming emphasizes feel and power over technical extremity. Bill Ward's jazz-influenced swing on Black Sabbath's earliest albums, Nicko McBrain's galloping single-bass-drum precision with Iron Maiden, and Ian Paice's blues-rock-informed groove with Deep Purple all prioritize serving the riff and song over raw speed. Where thrash and death metal drumming pushed tempo and technicality to new extremes, traditional heavy metal drumming stayed rooted in rock's backbeat-driven foundation, adding power and aggression without abandoning groove.
+
+**Q: What bands define traditional heavy metal?**
+A: Black Sabbath is universally credited as heavy metal's founding band, with Bill Ward's drumming helping invent the genre's doom-laden template in 1970. Deep Purple, Rainbow, and Judas Priest built out the genre's harder-rocking, more anthemic wing through the 1970s. The New Wave of British Heavy Metal — led by Iron Maiden, Motörhead, and Saxon — codified the genre's galloping, riff-driven sound in the late 1970s and early 1980s, directly inspiring the thrash metal movement that followed.
+
+**Q: What gear do traditional heavy metal drummers use?**
+A: MetalForge's traditional heavy metal analogues favor kits built for power and durability over speed. Scott Travis's DW Collector's Series kit and Paiste RUDE and 2002 Series cymbals deliver the driving power behind Judas Priest's "Painkiller"-era sound. Lars Ulrich's Tama Star Classic kit and Vinnie Paul's ddrum Signature Series setup both favor large, punchy shells built for arena-scale heaviness — the same durable, high-output philosophy traditional heavy metal's founding drummers established decades earlier.
+
 
 ---
 

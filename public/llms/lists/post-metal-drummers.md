@@ -118,6 +118,18 @@ Full drummer profile: [Matt Garstka on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: Who is the most important post-metal drummer?**
+A: MetalForge's current drummer database centers on progressive and atmospheric metal drummers whose dynamic, crescendo-building approach parallels post-metal's core songwriting instinct — Brann Dailor of Mastodon and Martin Lopez of Opeth chief among them. The genre's foundational specialists — Neurosis's Jason Roeder, Isis's Aaron Turner and Jeff Caxide, Cult of Luna's Thomas Hedlund, and Russian Circles's Dave Turncrantz — are the scene's most direct touchstones and widely credited with establishing post-metal's patient, atmosphere-first drumming template in the 1990s and 2000s.
+
+**Q: What bands define post-metal?**
+A: Post-metal's foundational bands include Neurosis (whose 1990s albums established the genre's crescendo-building, sludge-weight template), Isis (whose "Oceanic" and "Panopticon" refined post-metal's dynamic architecture), Cult of Luna (Swedish atmospheric sludge), Russian Circles (instrumental post-rock/metal hybrid), and Godspeed You! Black Emperor-influenced instrumental acts. The genre absorbs sludge metal's weight, post-rock's dynamic build-and-release structure, and ambient music's textural patience into extended, often vocal-light compositions.
+
+**Q: What is post-metal drumming?**
+A: Post-metal drumming prioritizes dynamic architecture over constant intensity — long, patient build-ups from quiet, textural passages into crushing sludge-weight climaxes, often across compositions stretching past ten minutes. Where extreme metal drumming sustains blast beat aggression throughout, post-metal drumming is defined by restraint: tribal or minimalist patterns during quiet sections, and controlled, weighty crescendos that make the eventual heaviness feel earned rather than constant. Jazz and progressive rock influences on timing and dynamics are common throughout the genre.
+
+**Q: What gear do post-metal drummers use?**
+A: Post-metal drummers need gear that performs across an unusually wide dynamic range — from near-silent, textural passages to crushing sludge-metal weight. Brann Dailor's DW kit and Sabian cymbals support Mastodon's jazz-informed dynamic shifts. Danny Carey's Sonor kit and Paiste cymbals handle Tool's long-form atmospheric builds. Martin Axenrot's Sonor SQ2 kit with Meinl Byzance cymbals gives Opeth the tonal range to move between whisper-quiet acoustic sections and full extremity. Across the genre, larger, deep-shelled toms and cymbals with long, resonant decay help sustain atmosphere during the quiet passages that make post-metal's climaxes land.
+
 
 ---
 

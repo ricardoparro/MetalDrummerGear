@@ -120,6 +120,18 @@ Full drummer profile: [Jaska Raatikainen on MetalForge](https://metalforge.io/dr
 
 ## Frequently Asked Questions
 
+**Q: Which metal drummers have formal classical or conservatory training?**
+A: Hannes Grossmann is the clearest example, holding a dual identity as a technical death metal drummer and classically-trained composer and producer whose academic background directly shapes his work with Obscura and Alkaloid. Mike Mangini, Matt Halpern, and Jason Bittner all bring Berklee College of Music training into their metal careers — Mangini even taught there before joining Dream Theater.
+
+**Q: Does classical training actually help with metal drumming?**
+A: Formal training builds a structured understanding of rhythm, subdivision, and theory that translates directly into metal's more technical subgenres. Matt Halpern's Berklee education is audible in Periphery's architecturally complex polyrhythmic arrangements, and Blake Richardson channels jazz-conservatory technique — citing Terry Bozzio and Dennis Chambers as influences — into Between the Buried and Me's progressive death metal fusion. The discipline shows up as structural control rather than raw speed alone.
+
+**Q: Do you need classical training to be a great metal drummer?**
+A: No — many of metal's greatest drummers are entirely self-taught. But the drummers on this list demonstrate that formal training, where it exists, tends to show up as a specific kind of disciplined, architecturally structured playing rather than pure instinctive power. Tomas Haake's metronomic precision with Meshuggah is often compared to conservatory-level percussion discipline even without a documented formal credit, showing that the same rigor can emerge through intensive self-study.
+
+**Q: What is Berklee College of Music's connection to metal drumming?**
+A: Berklee College of Music, a leading American music school, has produced or employed several notable metal drummers: Mike Mangini taught there before joining Dream Theater, Matt Halpern graduated before co-founding Periphery, and Jason Bittner is an alumnus who later joined Shadows Fall and Overkill. Its emphasis on technical musicianship and music theory has made it a recurring credential among metal's most academically-trained technical players.
+
 
 ---
 

@@ -120,6 +120,18 @@ Full drummer profile: [Eloy Casagrande on MetalForge](https://metalforge.io/drum
 
 ## Frequently Asked Questions
 
+**Q: Who are the best stoner metal drummers?**
+A: Kyuss's Brant Bjork, Sleep's Chris Hakius and Jason Roeder, and Electric Wizard's revolving lineup of drummers built stoner metal's foundational hypnotic, blues-rock-descended sound but do not currently have dedicated profiles in MetalForge's database. Danny Carey of Tool is the closest working analogue currently profiled, his psychedelic, trance-building polyrhythms echoing the genre's meditative repetition. Vinnie Paul of Pantera and Ray Luzier follow closely for their own blues-rock-descended groove lineages.
+
+**Q: What is stoner metal?**
+A: Stoner metal fuses Black Sabbath's down-tuned, riff-driven heaviness with 1970s blues-rock swing and psychedelic repetition, built to feel hypnotic and trance-inducing rather than aggressive. Kyuss pioneered the genre's Palm Desert "generator party" sound in the late 1980s and early 1990s, Sleep's mammoth "Dopesmoker" (2003) pushed the genre's riff-repetition philosophy to its extreme, and Electric Wizard's crushing, drug-soaked fuzz defined its heaviest, most drone-adjacent wing.
+
+**Q: What makes stoner metal drumming unique?**
+A: Stoner metal drumming favors a loose, behind-the-beat swing borrowed from 1970s hard rock over rigid, mechanical precision, locking into a riff and repeating it until the pattern becomes meditative rather than monotonous. Where doom metal drumming crawls at a funereal pace, stoner metal drumming keeps a warmer, more danceable groove — closer to blues-rock's swing than doom's tonnage-first deceleration.
+
+**Q: What bands define stoner metal?**
+A: Kyuss is universally credited as stoner metal's founding band, its Palm Desert scene establishing the genre's fuzzed-out, groove-driven template in the late 1980s. Sleep pushed the genre's riff-repetition philosophy to album-length extremes on "Dopesmoker" (2003), while Electric Wizard built its heaviest, most drone-adjacent wing in the UK. Windhand and High on Fire carried the genre's hypnotic, riff-driven sound into the 2000s and 2010s.
+
 
 ---
 

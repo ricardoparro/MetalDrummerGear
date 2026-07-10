@@ -120,6 +120,15 @@ Full drummer profile: [Vinnie Paul on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: Which metal drummers play Tama drum kits?**
+A: Lars Ulrich (Metallica) has run Tama Starclassic kits since the mid-1980s, Dave Lombardo (Slayer) plays a Tama Starclassic Walnut/Birch kit, and Mike Portnoy (Dream Theater) returned to Tama Starclassic Maple/Birch after a 16-year run on DW. Charlie Benante (Anthrax), Mario Duplantier (Gojira), Eloy Casagrande (Slipknot), Gene Hoglan (a formative Tama chapter with Dark Angel and Death before Pearl), Hannes Grossmann (Obscura), Jay Weinberg (former Slipknot), and Vinnie Paul (Pantera) round out MetalForge's most extensively documented Tama artists.
+
+**Q: What is the Tama Starclassic Series?**
+A: Starclassic is Tama's flagship professional drum line, produced in finishes like Maple, Bubinga, and Walnut/Birch that change the kit's tonal character. Lars Ulrich and Charlie Benante run Maple shells for a balanced, articulate attack, while Mario Duplantier and Eloy Casagrande run Bubinga for a darker, more focused low end suited to Gojira's and Slipknot's down-tuned material.
+
+**Q: Do any drummers on this list play both Tama and DW?**
+A: Yes. Mike Portnoy played a Tama Artstar II early in Dream Theater's career, spent 1994-2010 on a DW Collector's Maple kit, then returned to Tama Starclassic Maple/Birch — the exact reverse of Hannes Grossmann's path from a DW Collector's Series kit on Obscura's "Cosmogenesis" (2009) to his current Tama Starclassic Maple setup.
+
 
 ---
 

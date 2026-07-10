@@ -120,6 +120,18 @@ Full drummer profile: [Richard Christy on MetalForge](https://metalforge.io/drum
 
 ## Frequently Asked Questions
 
+**Q: Who are the fastest brutal death metal drummers?**
+A: Derek Roddy is widely considered the fastest brutal death metal drummer, with a reputation for sustaining blast beats at speeds that push the physical limits of human drumming. Tim Yeung and Flo Mounier are frequently cited alongside him — Flo Mounier's performance on Cryptopsy's "None So Vile" remains a benchmark recording for raw drumming speed. George Kollias's work with Nile is also commonly cited for sustained 280+ BPM blast beat endurance.
+
+**Q: Who is the best brutal death metal drummer of all time?**
+A: Derek Roddy is the most commonly cited answer, combining record-setting blast beat speed with the technical control to keep brutal death metal's chaos musically coherent across Hate Eternal and Nile. Paul Mazurkiewicz is the alternative answer for longevity and genre-defining consistency, having anchored Cannibal Corpse — brutal death metal's most commercially successful band — since 1988.
+
+**Q: What makes drumming "brutal" death metal as opposed to regular death metal?**
+A: Brutal death metal drumming pushes death metal's already extreme demands further in three key ways: (1) sustained blast beat speed, often exceeding 250–280 BPM for entire songs rather than isolated sections; (2) machine-gun double bass patterns requiring exceptional leg stamina and consistency; and (3) technical pattern complexity executed at those speeds without losing precision. The genre prioritizes raw physical extremity and percussive brutality over the more dynamic, atmospheric, or melodic elements found in other death metal subgenres.
+
+**Q: What equipment do brutal death metal drummers use?**
+A: Brutal death metal drummers typically favor durable, high-performance kits built to withstand extreme physical demands. Triggers are common for consistent kick drum attack at extreme speeds, paired with heavy-duty double pedals capable of handling rapid, sustained use night after night. The common thread across players like Derek Roddy, George Kollias, and Paul Mazurkiewicz is gear chosen for reliability and consistent attack under the most physically punishing playing conditions in metal.
+
 
 ---
 

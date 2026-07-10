@@ -120,6 +120,18 @@ Full drummer profile: [Danny Carey on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: Who are the best sludge metal drummers?**
+A: Eyehategod's drummers, Crowbar's Tommy Buckley, and Neurosis's Jason Roeder built sludge metal's foundational New Orleans and Bay Area sound but do not currently have dedicated profiles in MetalForge's database. Brann Dailor of Mastodon is the genre's most direct working analogue currently profiled — Mastodon's "Remission" and "Leviathan" carried New Orleans sludge's crushing weight into progressive metal territory. Igor Cavalera of Sepultura and Shannon Larkin of Godsmack follow closely for their own tonnage-first rhythmic philosophies.
+
+**Q: What is sludge metal?**
+A: Sludge metal fuses doom metal's down-tuned, riff-locked weight with hardcore punk's raw aggression, growing out of the 1980s New Orleans scene — Eyehategod's feedback-drenched chaos, Crowbar's simplified, tonnage-first riffing, and Buzzoven's grinding despair defined the genre's founding sound. Neurosis brought a more atmospheric, crescendo-building dimension in the late 1980s and 1990s, and Mastodon and Baroness carried sludge into progressive, technically ambitious territory in the 2000s.
+
+**Q: What makes sludge metal drumming unique?**
+A: Sludge metal drumming combines doom metal's riff-locked, tempo-crawling weight with hardcore punk's raw, unpolished aggression — slow, crushing passages are punctuated by sudden bursts of hardcore-derived speed. Where doom metal drumming stays disciplined and deliberate throughout, sludge metal drumming carries a grimier, more chaotic edge, reflecting the genre's punk lineage alongside its Sabbath-descended heaviness.
+
+**Q: What bands define sludge metal?**
+A: Eyehategod is widely credited as sludge metal's most influential band, its feedback-soaked, chaotic New Orleans sound defining the genre's rawest wing starting in the late 1980s. Crowbar simplified sludge into tonnage-first, riff-driven heaviness, while Neurosis brought an atmospheric, post-metal-adjacent dimension to the genre. Mastodon's "Remission" and "Leviathan" carried sludge into progressive metal territory, and Baroness pushed the genre toward melodic, prog-rock-infused songwriting.
+
 
 ---
 

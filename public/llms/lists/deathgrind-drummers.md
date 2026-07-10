@@ -114,6 +114,18 @@ Full drummer profile: [Bill Ward on MetalForge](https://metalforge.io/drummer/bi
 
 ## Frequently Asked Questions
 
+**Q: Who invented deathgrind drumming?**
+A: Pete Sandoval of Terrorizer is the most credible inventor of deathgrind drumming — his performance on "World Downfall" (1989) synthesized death metal's chromatic brutality with grindcore's extreme velocity in a form recognizably distinct from either parent genre. Recorded in the same period as Morbid Angel's foundational death metal work, "World Downfall" demonstrated that death metal's precision and grindcore's savagery could combine into something more extreme than either. Danny Herrera's Napalm Death tenure from 1991 sustained the grindcore-to-deathgrind evolution over three decades; Kevin Talley's Dying Fetus work defined the modern technical standard that contemporary deathgrind measures against.
+
+**Q: What is deathgrind drumming?**
+A: Deathgrind drumming combines death metal's technical precision, chromatic heaviness, and compositional development with grindcore's extreme velocity, brevity, and raw political aggression. The synthesis produces drumming that is faster than most death metal — grindcore-tempo blast beats at 200-300 BPM — and more technically developed than most grindcore, with death metal's double bass complexity and compositional variation. Key characteristics include sustained blast beats at extreme tempos, death metal-style rhythmic variation following riffs rather than straight grindcore patterns, and enough compositional development for songs extending beyond grindcore's 30-second brevity into 3-5 minute deathgrind compositions. The genre absorbs brutal death metal, goregrind, and mathgrind variants.
+
+**Q: What bands play deathgrind?**
+A: The foundational deathgrind bands include Terrorizer (whose "World Downfall" is the genre's founding document), Napalm Death (post-1991 material), Brutal Truth, Dying Fetus, Pig Destroyer, Exhumed, Cattle Decapitation, Lock Up, Discordance Axis, and Misery Index. Early Carcass ("Reek of Putrefaction," "Symphonies of Sickness") influenced the genre's gore-death direction. The distinction between brutal death metal and deathgrind is one of emphasis: brutal death metal prioritizes riff complexity and production weight; deathgrind emphasizes velocity, brevity, and raw delivery. Wormrot, Maruta, and Nails represent contemporary deathgrind's active global development.
+
+**Q: What gear do deathgrind drummers use?**
+A: Deathgrind drumming's gear requirements prioritize extreme speed and endurance. Pete Sandoval used Pearl and DW kits through his Terrorizer and Morbid Angel recordings. Kevin Talley uses Pearl Masters Premium Legend with Pearl Eliminator double pedals for the responsiveness deathgrind's extreme tempos demand. Flo Mounier uses Pearl Demon Drive pedals without electronic triggers, maintaining acoustic sound at brutal speeds as a point of principle. Iron Cobra, Axis, Pearl Demon, and DW 9000 double pedals dominate the genre. Smaller 12" and 13" toms with tight dampening optimize for speed and note definition at extreme tempos. Electronic triggers are controversial — most serious deathgrind practitioners prefer acoustic sound as a statement of authenticity.
+
 
 ---
 

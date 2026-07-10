@@ -120,6 +120,15 @@ Full drummer profile: [Derek Roddy on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: Who is the fastest extreme metal drummer?**
+A: George Kollias of Nile holds the most documented extreme metal speed record, with verified blast beats at 280+ BPM and a comprehensive instructional series "Intense Metal Drumming" that breaks down his technique. Flo Mounier of Cryptopsy pioneered the gravity blast technique on "None So Vile" and is widely considered the gold standard for sustained brutal death metal speed. Derek Roddy documents 260+ BPM swivel technique speed and is famous for recording complete extreme albums in single takes without punch-ins.
+
+**Q: What is the difference between extreme metal and death metal drumming?**
+A: Death metal drumming is a specific subgenre of extreme metal focused on double bass gallops, blast beats, and rhythmic patterns that evolved directly from thrash metal's acceleration. Extreme metal is a broader category that encompasses death metal, black metal, brutal death metal, technical death metal, grindcore, and their various hybrids. All death metal drumming is extreme metal drumming, but extreme metal drumming also includes black metal's atmospheric rawness (Hellhammer, Frost), grindcore's grindcore-speed brevity (Kevin Talley), and technical death metal's surgical precision (Hannes Grossmann) — each with distinct rhythmic approaches beyond death metal's template.
+
+**Q: What blast beat technique do extreme metal drummers use?**
+A: Extreme metal drummers use several distinct blast beat techniques: (1) the traditional blast — alternating single strokes between snare and bass drum at high speed; (2) the gravity blast (or push-pull blast) — pioneered by Flo Mounier, using wrist rotation to generate sustained speed without the same physical expenditure as single strokes; (3) the hammer blast — snare and bass drum struck simultaneously, generating a wall-of-sound effect; (4) the bomb blast — bass drum on every note while the snare plays every other note. George Kollias uses a hybrid approach combining wrist and finger technique to maintain 280+ BPM speeds over full album recording sessions.
+
 
 ---
 

@@ -120,6 +120,18 @@ Full drummer profile: [Brann Dailor on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: Who are the best folk metal drummers?**
+A: Jocke Wallgren of Amon Amarth is the most direct folk metal drummer currently in MetalForge's database, his Norse-mythology-themed drumming since 2016 anchoring the genre's biggest and most commercially successful band. Nightwish's Kai Hahto and several of folk metal's most dedicated European specialists — Korpiklaani, Eluveitie, Ensiferum's rotating lineups — don't yet have dedicated MetalForge profiles. Eloy Casagrande and Igor Cavalera of Sepultura follow closely for their own tribal-folk fusion outside the genre's Nordic epicenter.
+
+**Q: What is folk metal?**
+A: Folk metal fuses extreme and melodic metal's aggression with traditional folk instrumentation — fiddles, flutes, hurdy-gurdies, accordions, choir vocals — and melodies drawn from national and regional folk traditions. The genre grew out of the same early-1990s Scandinavian black and melodic death metal scene that produced Viking and pagan metal, with Skyclad widely credited as folk metal's British originator and Finland's Amorphis and Korpiklaani, Switzerland's Eluveitie, and Amon Amarth expanding the genre's regional and instrumental range through the 1990s and 2000s.
+
+**Q: What makes folk metal drumming unique?**
+A: Folk metal drumming serves melody and storytelling as much as aggression, building mid-tempo, anthemic grooves designed to accompany traditional folk instrumentation — fiddles, flutes, hurdy-gurdies — rather than overwhelm it. Where standard extreme metal drumming sustains blast beat intensity as an end in itself, folk metal drumming deploys extremity for scale and atmosphere behind folk-melodic hooks and mythological or historical storytelling, prioritizing groove and communal, singalong energy over relentless speed.
+
+**Q: What bands define folk metal?**
+A: Skyclad is widely credited as folk metal's British originator, fusing thrash metal with fiddle-driven folk melody starting in 1990. Finland's Amorphis and Korpiklaani, Switzerland's Eluveitie, and Sweden's Amon Amarth expanded the genre's regional range through the 1990s and 2000s, each drawing on distinct national folk traditions — Karelian, Finnish drinking songs, Celtic, and Norse respectively. Ensiferum and Turisas rounded out the genre's Finnish and Scandinavian core, while Nightwish's symphonic bombast pushed folk metal's melodic ambition toward orchestral scale.
+
 
 ---
 

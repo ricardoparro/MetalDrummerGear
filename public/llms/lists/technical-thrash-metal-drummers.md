@@ -118,6 +118,18 @@ Full drummer profile: [Alex Bent on MetalForge](https://metalforge.io/drummer/al
 
 ## Frequently Asked Questions
 
+**Q: Who is the best technical thrash metal drummer?**
+A: Dave Lombardo's Latin-Cuban-informed precision on Slayer's "Reign in Blood" is the most commonly cited technical thrash benchmark, combining raw velocity with rhythmic sophistication no contemporary matched. Gene Hoglan is the answer for pure technical ceiling — his "Atomic Clock" nickname reflects the metronomic precision he brought to Dark Angel's "Darkness Descends" at speeds that redefined the genre in 1986. Megadeth's Nick Menza, absent from MetalForge's current database, remains the genre's most-cited technical thrash reference point on the strength of "Rust in Peace" alone — any honest ranking of technical thrash drummers has to acknowledge his "Holy Wars...The Punishment Due" and "Tornado of Souls" performances.
+
+**Q: What makes thrash metal drumming "technical"?**
+A: Technical thrash drumming layers odd-time signatures, polyrhythmic fills, and compositional complexity on top of standard thrash's 160-220+ BPM double bass and aggressive snare work. Where straight-ahead thrash drumming prioritizes raw speed and headbanging groove, technical thrash demands the drummer track intricate riff changes, execute precise fills within tight tempo constraints, and sustain metronomic accuracy through arrangements that shift meter and tempo mid-song — the difference between "fast" and "fast and mathematically exact."
+
+**Q: What bands define technical thrash metal?**
+A: Megadeth's "Rust in Peace" and "Countdown to Extinction" eras (with drummer Nick Menza) are the genre's most commonly cited technical thrash benchmark. Dark Angel earned the nickname "The Fastest Band Alive" chasing technical thrash's tempo ceiling in the mid-1980s. Death's later technical death metal work, Forbidden, Vio-lence, Coroner, and Toxik all contributed to technical thrash's vocabulary, while Testament and Slayer's post-Lombardo lineups carried the style's technical demands into the 1990s and beyond.
+
+**Q: What gear do technical thrash metal drummers use?**
+A: Technical thrash's demanding fill work and sustained double-bass precision favor kits and pedals built for fast, consistent response. Dave Lombardo's Pearl Masters Maple kit and Pearl Demon Drive double pedal deliver the quick rebound his Latin-influenced fills require. Gene Hoglan's Tama Starclassic kit and Tama Speed Cobra double pedal provide the metronomic reliability behind his "Atomic Clock" reputation. Charlie Benante's Tama Starclassic kit with Roland electronics and Paul Bostaph's ddrum Paladin kit round out the genre's preference for bright, cutting cymbals (Zildjian A Custom, Paiste RUDE) that stay articulate through technical thrash's dense, fast arrangements.
+
 
 ---
 

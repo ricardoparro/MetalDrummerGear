@@ -116,6 +116,18 @@ Full drummer profile: [Danny Carey on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: Who is the best djent drummer?**
+A: Tomas Haake of Meshuggah is the definitive djent drummer — his metronomic, polymetric drumming since the late 1980s built the rhythmic template the entire genre grew from. Matt Halpern of Periphery is the answer for djent's commercial breakthrough, bringing polyrhythmic complexity and electronic production sensibility to djent's most successful band. Matt Garstka of Animals as Leaders earns the argument for pure technical ceiling, pushing djent's rhythmic vocabulary into jazz-fusion territory.
+
+**Q: What is djent drumming?**
+A: Djent drumming is built around tight, syncopated interplay with palm-muted, polymetric guitar riffs — the drummer locks into interlocking, often odd-grouped rhythmic cells (like 5s and 7s layered over a steady pulse) rather than playing straightforward backbeats. Where most metal drumming drives the song's energy independently, djent drumming is inseparable from the guitar riff it accompanies, requiring the drummer to internalize complex polymeters while still keeping the groove danceable and heavy.
+
+**Q: What bands play djent metal?**
+A: Meshuggah is universally credited as djent's originating band, with guitarist Fredrik Thordendal's palm-muted "chug" tone giving the genre its onomatopoeic name. Periphery popularized djent commercially in the late 2000s, followed by Animals as Leaders, Tesseract, Monuments, and Vildhjarta. The genre has since blended heavily with metalcore, with bands like August Burns Red, Erra, and modern-era Trivium incorporating djent's polyrhythmic vocabulary into breakdown-driven songwriting.
+
+**Q: What gear do djent drummers use?**
+A: Djent drummers favor kits and cymbals that deliver clear articulation at complex, syncopated tempos. Matt Halpern's Mapex Saturn V kit with Meinl Byzance Series cymbals gives Periphery's polyrhythmic arrangements a controlled, dry attack. Tomas Haake's Sonor kit and Meinl cymbals provide the metronomic clarity Meshuggah's polymeters demand. Across the genre, dry, quick-decaying cymbals and precisely tuned toms help complex rhythmic cells stay legible even at high information density.
+
 
 ---
 

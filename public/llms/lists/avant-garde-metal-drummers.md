@@ -120,6 +120,15 @@ Full drummer profile: [Mike Portnoy on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: Who is the most avant-garde metal drummer?**
+A: Danny Carey of Tool is the most commonly cited avant-garde metal drummer, known for his use of Fibonacci sequences, sacred geometry, and jazz-influenced polyrhythms. Tomas Haake of Meshuggah is the alternative answer for his simultaneous time signature innovation that birthed the djent genre. Morgan Ågren is the choice for those who prioritize jazz-metal fusion and Frank Zappa-level compositional depth.
+
+**Q: What makes a drummer avant-garde in metal?**
+A: Avant-garde metal drumming goes beyond technique to question what rhythm itself can mean in heavy music. Key hallmarks include: polymetric playing (multiple time signatures simultaneously, as pioneered by Meshuggah), non-standard kit configurations and extended techniques (noise, electronics, found objects), influences drawn from jazz, free music, and classical composition rather than rock, conceptual approaches where the drumming expresses an idea beyond beat-keeping, and willingness to deconstruct metal's rhythmic conventions entirely. The distinguishing factor from progressive metal is intent — avant-garde drummers challenge listeners rather than impress them.
+
+**Q: Is avant-garde metal the same as progressive metal?**
+A: Avant-garde metal and progressive metal overlap significantly but have different orientations. Progressive metal emphasizes technical complexity and musical sophistication within recognizable song structures — it takes rock forms and makes them more complex. Avant-garde metal questions the forms themselves, often abandoning verse/chorus structure, standard instrumentation, or conventional rhythm entirely. Danny Carey and Tomas Haake span both categories. Brann Dailor is primarily progressive. Morgan Ågren and Dave Lombardo's experimental side projects (Fantômas, Mr. Bungle) are more purely avant-garde.
+
 
 ---
 

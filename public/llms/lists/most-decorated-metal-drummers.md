@@ -120,6 +120,15 @@ Full drummer profile: [Inferno on MetalForge](https://metalforge.io/drummer/infe
 
 ## Frequently Asked Questions
 
+**Q: Which metal drummer has won the most Grammys?**
+A: Lars Ulrich (Metallica) has won the most Grammy Awards of any metal drummer, with nine wins accumulated across Metallica's career. The band's Grammy wins include multiple Best Metal Performance awards across different decades, starting with "One" in 1990. Danny Carey (Tool) and Dave Lombardo (Slayer) are also Grammy winners for Best Metal Performance, for "Fear Inoculum" (2021) and "Eyes of the Insane" (2007) respectively.
+
+**Q: Have metal drummers been recognised by the Rock and Roll Hall of Fame?**
+A: Yes. Lars Ulrich was inducted into the Rock and Roll Hall of Fame in 2009 as a founding member of Metallica — the first metal drummer to receive the honor as part of a Rock Hall induction. The Hall has subsequently inducted other metal and hard rock drummers including members of bands like Deep Purple and Yes. The Rock Hall's historically limited recognition of metal means most of the genre's greatest drummers have not been inducted despite their cultural impact.
+
+**Q: What is the most prestigious award in metal drumming beyond the Grammys?**
+A: The Modern Drummer Readers Poll is considered the most prestigious peer-based recognition in drumming across all genres. Mike Portnoy's 30+ consecutive wins in the Rock/Pop category is the record for sustained excellence in any single drumming category. In the UK, the Kerrang! Awards and Classic Rock Awards are the most respected metal-specific industry recognition. The Metal Hall of Fame, established in 2017, provides genre-specific institutional honors for career achievement. In extreme metal circles, being cited as an influence by the next generation's greatest drummers often carries more weight than any formal award.
+
 
 ---
 

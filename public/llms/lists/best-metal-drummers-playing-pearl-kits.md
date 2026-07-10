@@ -120,6 +120,15 @@ Full drummer profile: [Jaska Raatikainen on MetalForge](https://metalforge.io/dr
 
 ## Frequently Asked Questions
 
+**Q: Which metal drummers play Pearl drum kits?**
+A: Joey Jordison (Slipknot) ran a signature Pearl Reference Series kit, and Gene Hoglan has played Pearl Reference Pure across Death, Testament, Dark Angel, and Dethklok for decades. Ray Luzier (Korn), Mike Mangini (Dream Theater), Pete Sandoval (Morbid Angel), George Kollias (Nile), Paul Mazurkiewicz (Cannibal Corpse), Daniel Erlandsson (Arch Enemy), Hellhammer (Mayhem), and Jaska Raatikainen (Children of Bodom) round out MetalForge's most extensively documented Pearl artists.
+
+**Q: What is Pearl Reference Pure?**
+A: Reference Pure is Pearl's flagship all-maple professional shell line, prized for a focused, articulate low end. Gene Hoglan, Ray Luzier, Paul Mazurkiewicz, and Daniel Erlandsson all run Reference Pure kits, while George Kollias and Mike Mangini use Pearl's Masterworks custom-order line for more elaborate, individually specified configurations.
+
+**Q: Did any of these drummers play a different brand before switching to Pearl?**
+A: Yes. Gene Hoglan started on a Tama Superstar Classic kit during his Dark Angel and Death years before becoming a long-time Pearl Reference Pure endorser, and has also used DW kits at points across his four-decade career — though Pearl Reference Pure has been his primary setup for many years.
+
 
 ---
 

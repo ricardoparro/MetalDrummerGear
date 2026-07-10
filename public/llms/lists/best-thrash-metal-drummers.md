@@ -142,6 +142,18 @@ The ten drummers on this list span thrash metal's entire history from its Big Fo
 
 ## Frequently Asked Questions
 
+**Q: Who is the most technically skilled thrash metal drummer?**
+A: Gene Hoglan is the consensus answer for the most technically skilled thrash metal drummer, earning the "Atomic Clock" nickname for his metronomic precision at speeds that Dark Angel's "Darkness Descends" made the genre's new ceiling in 1986. Dave Lombardo is the alternative answer for those who define technical skill as the combination of speed, groove, and musical intelligence — his Latin-infused double bass precision on "Reign in Blood" is studied by drumming programs globally as the most musicianly example of thrash metal's technical vocabulary. Charlie Benante represents the argument for compositional contribution beyond rhythmic execution — his arrangement work with Anthrax goes well beyond the drummer's conventional role.
+
+**Q: Which band has the best thrash metal drummer?**
+A: Slayer's Dave Lombardo is most commonly cited as thrash metal's greatest drummer, making Slayer the choice for the band with the best thrash metal drummer. The "Reign in Blood" album is the canonical answer — no single thrash metal drum performance has been more studied, more influential, or more praised across four decades of metal journalism and drummer discourse. Metallica's Lars Ulrich is the answer for commercial impact — no thrash drummer brought the genre to more global listeners. Anthrax's Charlie Benante is the choice for drumming that most completely serves its band's compositional identity. Megadeth's Nick Menza earns the argument for technical thrash in a more musical context — "Rust in Peace" is Megadeth's masterpiece, and Menza's drumming is integral to its status.
+
+**Q: What happened to Nick Menza and why isn't he at the top of this list?**
+A: Nick Menza (born July 23, 1964 — died May 21, 2016) was Megadeth's drummer from 1989 to 1998 and briefly in 2004, performing on the landmark albums "Rust in Peace" (1990), "Countdown to Extinction" (1992), "Youthanasia" (1994), and "Cryptic Writings" (1997). His drumming on "Rust in Peace" — particularly "Holy Wars...The Punishment Due," "Tornado of Souls," and "Hangar 18" — is studied by thrash drummers as among the greatest performances in the genre's history. He died of a heart attack while performing on stage at The Baked Potato club in Studio City, California. His absence from the top of this list reflects a data constraint in our ranking system, not an assessment of his quality — any honest ranking of the five greatest thrash metal drummers must include Nick Menza, and his contribution to Megadeth's classic era is irreplaceable.
+
+**Q: What gear do thrash metal drummers use?**
+A: Classic-era thrash metal drummers gravitated toward Tama and Pearl kits for their punchy attack and durability under aggressive playing. Dave Lombardo used Tama Artstar II kits during the "Reign in Blood" era, later moving to Pearl. Lars Ulrich also used Tama during Metallica's classic period. Nick Menza recorded "Rust in Peace" on a Tama Swingstar — a mid-range kit whose poplar shells delivered the tight, dry sound that defined Megadeth's production. For cymbals, thrash metal favors attack-heavy options: Paiste RUDE series (Lombardo's choice for its aggressive tone), Zildjian A Custom (Ulrich's long-term endorsement), and Sabian AAX for modern thrash applications. Double bass pedals are essential — Tama Iron Cobra and Pearl Eliminator series are the most common choices for their power-to-weight ratio at thrash tempos.
+
 
 ---
 

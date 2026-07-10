@@ -120,6 +120,18 @@ Full drummer profile: [Paul Mazurkiewicz on MetalForge](https://metalforge.io/dr
 
 ## Frequently Asked Questions
 
+**Q: Does any metal drummer have a true signature drumhead model?**
+A: Not in the fully co-designed sense that George Kollias's Pearl Demon XR pedal or Lars Ulrich's Ahead Signature Aluminum sticks represent. Drumhead manufacturing tolerances make a bespoke artist model rarer than a signature snare, stick, or pedal, so this list instead ranks the most specific, named, and well-documented drumhead relationships in MetalForge's database — from Mario Duplantier's Remo Emperor/Powerstroke 3 combination to Raymond Herrera's use of the specialist Attack Drumheads brand.
+
+**Q: Which metal drummers use the most named drumhead models on a single kit?**
+A: Blake Richardson runs three separate Evans models across one kit — Hybrid on his snare, EMAD on his kicks, and EC2 SST on his toms — the most granular per-drum drumhead configuration documented in MetalForge's data. Mario Duplantier is close behind with a two-model Remo setup, Emperor on toms and Powerstroke 3 on his dual bass drums.
+
+**Q: What is the difference between Evans and Remo drumheads in metal?**
+A: Both brands make double-ply and coated heads favored for metal's durability and dampening needs, but MetalForge's data shows some specific model differences: Remo Emperor (used by Nicko McBrain and, on toms, Mario Duplantier) is a classic double-ply model prized for fuller tone and durability, while Evans EMAD and Black Chrome (Jay Weinberg) build muffling or a darker finish directly into the head. Gavin Harrison's single-ply Remo Ambassador is the one head on this list built for open resonance over raw durability.
+
+**Q: Why do extreme metal drummers care about drumhead durability?**
+A: At blast-beat and 200+ BPM tempos, a head that loses tension or wears unevenly mid-set can change a kit's sound night to night. George Kollias's and Paul Mazurkiewicz's Evans relationships are both documented at the brand level specifically because consistent head tension under extreme, sustained speed matters more to their sound than any single named model — durability itself is the specification.
+
 
 ---
 

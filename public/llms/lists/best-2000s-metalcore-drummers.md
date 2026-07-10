@@ -118,6 +118,18 @@ Full drummer profile: [Brann Dailor on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: Who is the best 2000s metalcore drummer?**
+A: Matt Greiner of August Burns Red is the most commonly cited answer — he co-founded the band in 2003 and his technical double bass work set the decade's benchmark for what metalcore drumming could be. Ben Koller of Converge is the alternative answer for the genre's more hardcore-rooted wing, with "Jane Doe" (2001) still cited as a landmark of the era. Jason Bittner is the answer for commercial impact, having earned a Grammy nomination with Shadows Fall's "The War Within" (2004) during metalcore's mainstream breakthrough.
+
+**Q: What made 2000s metalcore different from metalcore today?**
+A: 2000s metalcore emerged directly from the fusion of hardcore punk aggression with New Wave of American Heavy Metal and melodic death metal influences, built around Warped Tour and mainstream rock radio crossover. It leaned heavily on the half-time breakdown, machine-gun double bass, and a specific technical-but-accessible songwriting style exemplified by August Burns Red and Killswitch Engage. Modern metalcore, by comparison, has absorbed far more djent, electronic, and even pop influences — bands like Spiritbox and Bad Omens sound meaningfully different from the genre's 2000s commercial peak.
+
+**Q: Which bands defined 2000s metalcore?**
+A: August Burns Red, Converge, Shadows Fall, Between the Buried and Me, Killswitch Engage, Trivium, and Darkest Hour are among the most frequently cited bands that defined metalcore's 2000s wave, alongside crossover-adjacent acts like Lamb of God and Fear Factory whose 2000s output shaped the surrounding scene. Periphery and Kublai Khan TX, both founded in 2009, mark the transition point between the decade's established metalcore sound and what came after.
+
+**Q: How did 2000s metalcore influence the genre's next decade?**
+A: Several drummers who built their reputations in the 2000s carried metalcore's technical, double-bass-driven vocabulary directly into the 2010s — Nick Augusto joined Trivium in 2010 after working as the band's drum technician during the decade's final years, and Matt Halpern co-founded Periphery in 2009, fusing 2000s metalcore technicality with djent's polymetric influence to help define the genre's next chapter.
+
 
 ---
 

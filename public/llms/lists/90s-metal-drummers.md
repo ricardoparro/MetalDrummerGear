@@ -120,6 +120,15 @@ Full drummer profile: [Brann Dailor on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: Who was the best metal drummer of the 1990s?**
+A: Joey Jordison (Slipknot) is the most impactful 90s metal drummer in terms of mainstream reach and technical ambition combined. Tomas Haake (Meshuggah) is the consensus choice among musicians and drummers for the decade's most revolutionary rhythmic concept — his Destroy Erase Improve polyrhythms changed how the entire next generation thought about metal drumming. Pete Sandoval (Morbid Angel) represents the decade's extreme metal drumming peak across three consecutive brutal death metal landmarks.
+
+**Q: How did 90s metal drumming differ from 80s metal drumming?**
+A: 90s metal drumming diversified dramatically. Where the 80s established the thrash template — fast, aggressive, double-bass driven — the 90s fractured it into multiple distinct directions. Death metal pushed speeds and brutality to new extremes (Pete Sandoval, Inferno). Groove metal deliberately slowed down and thickened the beat (Chris Adler, Vinnie Paul's Panthers 90s evolution). Nu-metal imported hip-hop pocket and syncopation (John Otto, Shannon Larkin). Progressive metal expanded time signatures and compositional complexity (Tomas Haake, Brann Dailor). The 90s is when metal drumming stopped having a single sound.
+
+**Q: What were the most influential 90s metal drumming albums?**
+A: The defining 90s metal drumming albums include: Morbid Angel's Covenant (1993) for death metal brutality; Meshuggah's Destroy Erase Improve (1995) for polyrhythmic revolution; Pantera's Vulgar Display of Power (1992) for groove metal thunder; Sepultura's Roots (1996) for tribal metal reinvention; Limp Bizkit's Significant Other (1999) for rap-metal pocket; Slipknot's self-titled (1999) for nu-metal technicality; Lamb of God's Burn the Priest (1999) for groove metal precision; and Behemoth's Satanica (1999) for blackened death metal ferocity.
+
 
 ---
 

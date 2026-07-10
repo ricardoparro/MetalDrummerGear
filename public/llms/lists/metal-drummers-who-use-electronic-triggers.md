@@ -120,6 +120,18 @@ Full drummer profile: [Brann Dailor on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: Which metal drummers use electronic triggers?**
+A: Charlie Benante (Anthrax) and Hellhammer (Mayhem) both run Roland electronic triggers on their acoustic kits, Raymond Herrera (Fear Factory) pioneered a full Roland/ddrum trigger rack on 1995's "Demanufacture," and Mike Mangini (Dream Theater) integrates Roland TD-50 triggers and an SPD-SX Sampling Pad into his acoustic Pearl rig. Paul Mazurkiewicz (Cannibal Corpse), George Kollias (Nile), Tomas Haake (Meshuggah), Joey Jordison (Slipknot), Gene Hoglan, and Brann Dailor (Mastodon) round out MetalForge's most extensively documented trigger users.
+
+**Q: Why do metal drummers use electronic triggers?**
+A: At blast-beat and 200+ BPM tempos, microphone placement and stick dynamics alone can't guarantee a consistent kick or snare attack night after night. Clip-on acoustic triggers feed a drum module or interface, letting drummers like Charlie Benante and Hellhammer reinforce their existing acoustic kit's attack for studio-tight consistency on stage without changing how the kit feels or sounds to play.
+
+**Q: Do triggers replace a drummer's acoustic sound entirely?**
+A: Rarely, according to MetalForge's own gear data. Most drummers on this list use triggers to reinforce or blend with their acoustic sound rather than replace it outright — Joey Jordison blended triggered attack with natural drum tone across Slipknot's catalog, and Gene Hoglan prefers his acoustic tone enhanced, not replaced, by triggers. Full electronic replacement is more common in modules like Mike Mangini's SPD-SX-based hybrid layering than in kick/snare reinforcement setups.
+
+**Q: What's the difference between a drum trigger and a drum module?**
+A: A trigger is a clip-on sensor — typically a piezo pickup — mounted to an acoustic kick or snare that converts the physical hit into an electronic signal. A module or interface, like the Roland TD-27 or ddrum DDTI that MetalForge's gear guides describe, receives that signal and plays back a sample or sound. Drummers like Charlie Benante and Hellhammer pair Roland acoustic triggers with a module for this exact reinforcement setup.
+
 
 ---
 

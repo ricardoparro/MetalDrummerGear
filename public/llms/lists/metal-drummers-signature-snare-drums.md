@@ -120,6 +120,15 @@ Full drummer profile: [Chris Adler on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: What makes a snare drum a true "signature" model?**
+A: A true signature snare is a bespoke model a manufacturer designs and builds around one drummer's specific tonal and mechanical requirements, then markets under that drummer's name — a step beyond a standard artist endorsement, which just puts a player's name on an existing catalog drum. It typically documents years of collaboration between drummer and manufacturer, refining shell material, depth, and hardware to solve a specific problem the existing catalog couldn't. Lars Ulrich's Tama LU1465 and Joey Jordison's Pearl 13x6.5" are two of metal's most recognized examples.
+
+**Q: Which metal drummer has the most famous signature snare?**
+A: Lars Ulrich's Tama LU1465 is the longest-running and most commercially recognized signature snare in metal, refined across three decades of Metallica's stadium touring. Joey Jordison's Pearl 13x6.5" signature is the most visually and tonally distinctive, its unusually shallow shell creating a cutting crack inseparable from Slipknot's "Iowa"-era sound. Danny Carey's Sonor 14x8" Bronze signature stands out for its unusual shell material — bronze rather than the more common steel, brass, or maple.
+
+**Q: Why do some signature snares have unusual dimensions?**
+A: A signature snare's dimensions are chosen to solve a specific problem the standard catalog doesn't address. Joey Jordison's 13x6.5" shell is unusually shallow and narrow for a faster, cutting crack; Vinnie Paul's and Danny Carey's 14x8" models go the opposite direction, using extra depth for low-end authority and resonance; Chris Adler's 14x5.5" walnut/maple hybrid combines two shell materials in one drum specifically to balance attack and warmth. Each dimension and material choice documents exactly what that drummer's music demanded that off-the-shelf options couldn't provide.
+
 
 ---
 

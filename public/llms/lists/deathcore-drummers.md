@@ -118,6 +118,18 @@ Full drummer profile: [Blake Richardson on MetalForge](https://metalforge.io/dru
 
 ## Frequently Asked Questions
 
+**Q: Who is the best deathcore drummer?**
+A: Isaac Lamb of Kublai Khan TX is among the most respected drummers working in deathcore's beatdown hardcore-adjacent lane, having built the band's entire percussive identity as its only drummer since 2009. Ben Koller of Converge is frequently cited by deathcore musicians as a foundational influence on the genre's hardcore-derived speed and dynamics. Genre-defining deathcore specialists outside MetalForge's current drummer database — including Whitechapel's Ben Savage, Suicide Silence's Alex Lopez, and Thy Art Is Murder's Lee Davidson — are widely regarded within the scene as the genre's most direct technical touchstones.
+
+**Q: What bands define deathcore?**
+A: Deathcore's foundational and modern bands include Whitechapel, Suicide Silence, Thy Art Is Murder, Fit for an Autopsy, Carnifex, Job for a Cowboy, and Chelsea Grin. The genre emerged in the mid-2000s American hardcore and metalcore scene as bands began incorporating death metal's blast beats, pig-squeal vocals, and technical guitar work into breakdown-driven song structures. Beatdown hardcore acts like Kublai Khan TX share deathcore's emphasis on crushing, groove-heavy breakdowns even without death metal's full technical vocabulary.
+
+**Q: What is deathcore drumming?**
+A: Deathcore drumming combines death metal's blast beats, rapid double bass, and technical precision with metalcore and hardcore's half-time, chugging breakdown grooves. A single song typically alternates between extreme-speed blast beat verses — drawing on technical death metal's vocabulary — and slower, syncopated breakdown sections built for moshing, requiring drummers to shift fluidly between blast beat endurance and groove-locked, pocket-driven timing within the same track.
+
+**Q: What gear do deathcore drummers use?**
+A: Deathcore drumming's gear demands mirror technical death metal's need for speed alongside metalcore's need for punchy, groove-driven low end. Flo Mounier and Derek Roddy, both major influences on the genre's blast beat vocabulary, favor lightweight double pedals (Pearl Demon Drive, Axis Longboard) for rapid-fire response. Deathcore bands typically pair that speed-oriented pedal setup with larger, deep-shelled bass drums and heavily muffled heads for the punchy low-end thump breakdown sections require — a hybrid rig built to serve both halves of the genre's split identity.
+
 
 ---
 

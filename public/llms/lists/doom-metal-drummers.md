@@ -120,6 +120,18 @@ Full drummer profile: [Danny Carey on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: Who are the best doom metal drummers?**
+A: Bill Ward, whose swinging, jazz-schooled drumming on Black Sabbath's self-titled 1970 debut and "Master of Reality" invented doom metal's tempo-and-tonnage template, does not currently have a dedicated drummer profile in MetalForge's database — nor does stoner doom pioneer Brant Bjork of Kyuss. Brann Dailor of Mastodon is the closest working analogue currently profiled, his progressive sludge-doom pedigree on "Leviathan" sharing Sabbath's commitment to crushing, riff-locked weight. Mario Duplantier of Gojira and Igor Cavalera of Sepultura follow closely for their own tonnage-first rhythmic philosophies.
+
+**Q: What is doom metal?**
+A: Doom metal is heavy metal's slowest, heaviest subgenre, invented by Black Sabbath in 1970 through down-tuned riffs, minor-key melancholy, and tempos built for weight rather than speed. Candlemass, Trouble, and Saint Vitus carried the template through the 1980s traditional doom revival, while Kyuss, Sleep, and Electric Wizard built the fuzzed-out, tempo-crawling stoner and drone doom wings in the 1990s. The genre prioritizes atmosphere, repetition, and tonnage over the extreme speed and technicality most later metal subgenres pursued.
+
+**Q: What makes doom metal drumming unique?**
+A: Doom metal drumming inverts extreme metal's usual priorities — instead of blast beats and rapid double bass, doom drummers lock into riffs at half or a quarter the tempo, letting each strike ring out with maximum weight before the next. Bill Ward's jazz-influenced swing on early Black Sabbath records established the template: serve the riff's tonnage rather than demonstrate speed, and use deliberate pacing to build tension and atmosphere rather than momentum.
+
+**Q: What bands define doom metal?**
+A: Black Sabbath is universally credited as doom metal's founding band, with Bill Ward's drumming helping invent the genre's slow, riff-driven heaviness in 1970. Candlemass ("Epicus Doomicus Metallicus," 1986) and Saint Vitus defined the 1980s traditional doom revival, while Trouble bridged doom and NWOBHM. Kyuss and Sleep built stoner doom's fuzzed-out, tempo-crawling 1990s wing, and Electric Wizard pushed the genre toward its heaviest, most drone-adjacent extreme. My Dying Bride and Paradise Lost built the closely related death-doom hybrid.
+
 
 ---
 

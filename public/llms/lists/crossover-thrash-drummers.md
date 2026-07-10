@@ -120,6 +120,15 @@ Full drummer profile: [Shannon Larkin on MetalForge](https://metalforge.io/drumm
 
 ## Frequently Asked Questions
 
+**Q: Who invented crossover thrash drumming?**
+A: No single drummer invented crossover thrash — it emerged simultaneously from multiple scenes in the early 1980s when hardcore punk and thrash metal began sharing bills and influencing each other. Stormtroopers of Death's Charlie Benante, whose "Speak English or Die" (1985) is the most commonly cited crossover thrash landmark, is the drummer most associated with crystallising the genre's drumming template. D.R.I.'s Felix Griffin and Dave Lombardo's Slayer work contributed from the thrash side. The genre was a genuine collision, not a single invention.
+
+**Q: What makes crossover thrash drumming different from straight thrash metal?**
+A: Crossover thrash drumming combines thrash metal's double bass velocity and snare aggression with hardcore punk's stripped-down directness, short song structures, and attitude-first approach. Where thrash metal drumming often builds toward technical complexity and long-form composition, crossover thrash prioritizes maximum energy delivery in minimum time — 90-second songs, pit-moving grooves, blast-adjacent beats without thrash's compositional elaboration. The beats are simpler, faster in song structure, and more directly physical than thrash, while being heavier and faster than straight hardcore.
+
+**Q: What crossover thrash bands defined the genre?**
+A: The core crossover thrash bands include Stormtroopers of Death (S.O.D.), D.R.I. (Dirty Rotten Imbeciles), Nuclear Assault, Suicidal Tendencies, Corrosion of Conformity (early period), Municipal Waste, and Excel. Anthrax's connection through Charlie Benante's S.O.D. work places them in the genre's lineage even though Anthrax proper is primarily thrash metal. The genre was geographically widespread with scenes in Los Angeles, New York, San Francisco, and Texas contributing to its crossover development.
+
 
 ---
 

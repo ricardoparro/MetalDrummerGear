@@ -120,6 +120,18 @@ Full drummer profile: [Jay Weinberg on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: What makes a drumstick a true "signature" model rather than just an endorsement?**
+A: A true signature drumstick is a model a manufacturer builds and markets around one drummer's specific weight, taper, tip shape, and material requirements, distinct from simply putting a player's name on an existing catalog stick. Lars Ulrich's Ahead Signature Aluminum stick and Dave Lombardo's Promark 2Bx are two of metal's clearest examples — both solve a documented technical problem (durability under touring abuse, and speed with control at extreme tempos) rather than just carrying a name.
+
+**Q: Which metal drummer has the most detailed signature drumstick story?**
+A: Dave Lombardo's Promark Dave Lombardo Signature 2Bx has the most thoroughly documented design brief in MetalForge's database: a heavier 2B weight with an extra-long taper and heavier oval tip, built specifically so the tip wouldn't wear out faster during sustained sixteenth-note passages above 200 BPM. Lombardo has spoken directly about the design goal — speed and control at the same time — in interviews about the model.
+
+**Q: Why do some metal drummers switch signature stick manufacturers mid-career?**
+A: Chris Adler is the clearest example, moving from a Vic Firth Chris Adler Signature model to a Promark TX5AXW Chris Adler Signature stick as part of a broader gear evolution that also included switching from Mapex to DW drums. Joey Jordison similarly moved from an Ahead aluminum-core signature stick early in his Slipknot career to a wood-bodied Promark TX515W signature model later on. These switches typically track a drummer's changing tonal or durability needs rather than dissatisfaction with the original partner.
+
+**Q: Are signature drumsticks only available from major brands like Vic Firth and Promark?**
+A: No — Tomas Haake's signature stick comes from Wincent, a Swedish boutique percussion brand rather than one of the industry's dominant manufacturers, custom-built around the specific demands of playing Meshuggah's polymetric material. It's the clearest example on this list of a metal drummer choosing a specialist manufacturer over a mass-market brand for a signature partnership.
+
 
 ---
 

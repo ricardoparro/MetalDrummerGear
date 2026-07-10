@@ -118,6 +118,18 @@ Full drummer profile: [Brann Dailor on MetalForge](https://metalforge.io/drummer
 
 ## Frequently Asked Questions
 
+**Q: Who is the best melodic black metal drummer?**
+A: Emperor's Trym Torson and Immortal collaborator Horgh defined melodic black metal's harmonically ambitious drumming template but do not currently have dedicated profiles in MetalForge's database. Daray of Dimmu Borgir is the closest working analogue, his blast-beat precision locking in with full-orchestra symphonic arrangements across the genre's most commercially successful catalog. Frost of Satyricon and Jaska Raatikainen of Children of Bodom follow closely for Norwegian and Finnish melodic black metal's own technical standards.
+
+**Q: What makes melodic black metal drumming unique?**
+A: Melodic black metal drumming still relies on blast beats and tremolo-adjacent patterns like standard black metal, but the drummer must also carve space for keyboard orchestration, harmonized twin-guitar leads, and symphonic arrangements without sacrificing the genre's underlying extremity. Where standard black metal drumming maximizes raw aggression, melodic black metal drumming has to serve genuine harmonic material — locking precisely with melodic instrumentation rather than existing purely as a wall of blast-beat noise.
+
+**Q: What is melodic black metal?**
+A: Melodic black metal is a black metal subgenre that emerged in the early-to-mid 1990s when bands like Emperor, Dimmu Borgir, and Dissection layered harmonized guitar leads, symphonic keyboards, and genuine melodicism over black metal's raw aggression. It is distinct from atmospheric black metal, which prioritizes texture and ambience over melody, and from blackened death or blackened thrash, which fuse black metal with other genres' rhythmic vocabulary rather than emphasizing harmonic songwriting.
+
+**Q: What bands define melodic black metal?**
+A: Emperor and Dissection are widely credited as melodic black metal's founding bands, their early-1990s harmonized-riff songwriting establishing the genre's core vocabulary. Dimmu Borgir pushed the style toward full symphonic orchestration and global commercial success, Watain and Abbath's solo and Immortal-era work carried Norwegian melodic black metal's legacy into the 2000s and 2010s, and Primordial and Wolves in the Throne Room extended melodic black metal's harmonic ambition into Irish and American extreme metal traditions.
+
 
 ---
 

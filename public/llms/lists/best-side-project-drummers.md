@@ -120,6 +120,18 @@ Full drummer profile: [Raymond Herrera on MetalForge](https://metalforge.io/drum
 
 ## Frequently Asked Questions
 
+**Q: Which metal drummer has the most side projects?**
+A: Mike Portnoy is the most commonly cited answer, actively co-founding and maintaining Liquid Tension Experiment, The Winery Dogs, Transatlantic, and Sons of Apollo alongside his main Dream Theater work — a spread of simultaneously active bands unmatched in metal. Gene Hoglan is the alternative answer for sheer volume of band memberships across his career, having played in more than 20 bands including Dark Angel, Death, Testament, Dethklok, Strapping Young Lad, and Fear Factory.
+
+**Q: What is the difference between a side project and a session credit?**
+A: A side project is a band or creative venture the drummer helped found, co-writes for, or maintains an ongoing creative stake in — think Mike Portnoy's Liquid Tension Experiment or Danny Carey's Volto!. A session credit, by contrast, is typically a one-off or short-term hired role recording or touring for someone else's band without a lasting creative partnership. Many drummers do both: Navene Koperweis runs his own side projects (Entheos, Fleshwrought) while also taking session dates for Job for a Cowboy and Machine Head.
+
+**Q: Do side projects ever become more important than a drummer's main band?**
+A: It happens. Igor Cavalera's Mixhell electronic project became a genuinely separate creative identity from his Sepultura and Cavalera Conspiracy metal work, and Charlie Benante's 2022 Pantera reunion stint put him behind the kit for one of metal's most legendary bands decades after Anthrax became his flagship. In both cases, what started as a side commitment grew into a career pillar in its own right.
+
+**Q: Why do metal drummers take on so many simultaneous projects?**
+A: Side projects let drummers explore sounds, genres, or creative relationships that don't fit their main band's identity or release schedule. Danny Carey's Volto! and Legend of the Seagullmen give him creative outlets during Tool's notoriously long gaps between albums, while Morgan Ågren's parallel work in the Mats/Morgan Band, Kaipa, and with Fredrik Thordendal lets him pursue jazz fusion, prog rock, and metal simultaneously rather than choosing just one.
+
 
 ---
 

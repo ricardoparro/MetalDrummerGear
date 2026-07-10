@@ -120,6 +120,18 @@ Full drummer profile: [Arin Ilejay on MetalForge](https://metalforge.io/drummer/
 
 ## Frequently Asked Questions
 
+**Q: Who is the best horror metal drummer?**
+A: Ghost's Salt drummers, Rob Zombie's touring lineup, and Alice Cooper's Glen Sobel and Neal Smith defined modern horror metal's theatrical drumming but do not currently have dedicated profiles in MetalForge's database. Joey Jordison of Slipknot is the closest working analogue, his masked, maggot-themed blast-beat aggression building modern horror metal's most recognizable visual-and-rhythmic identity from 1995 onward. Bill Ward of Black Sabbath and Richard Christy of Iced Earth follow closely for founding and concept-album horror drumming, respectively.
+
+**Q: What is horror metal?**
+A: Horror metal is a theatrical strain of metal built around horror-movie imagery, occult and shock-rock stagecraft, and dread-driven songwriting, tracing back to Black Sabbath's 1970 debut — named after a Boris Karloff horror film — through Alice Cooper and W.A.S.P.'s shock rock theatrics in the 1970s and '80s. Slipknot brought masked horror imagery into nu-metal in 1999, Iced Earth built entire concept albums around Dracula and zombie apocalypse lore, and modern acts like Ghost, Rob Zombie, and Lordi carry horror metal's theatrical tradition into contemporary heavy music.
+
+**Q: What makes horror metal drumming unique?**
+A: Horror metal drumming has to serve theatrical spectacle as much as songcraft — supporting elaborate stage shows, tempo-shifting concept-album narratives, and horror-movie-referencing arrangements that demand a sense of dramatic timing and dynamic build standard metal drumming rarely calls for. Where most extreme metal drumming prioritizes raw speed or technical complexity, horror metal drumming prioritizes serving the theatrical arc of a horror narrative, whether that means a masked band's blast-beat aggression or a concept album's cinematic tension.
+
+**Q: What bands define horror metal?**
+A: Black Sabbath is horror metal's foundational influence, its 1970 self-titled debut naming the band after a horror film and establishing occult, dread-driven riffing as a metal foundation. Alice Cooper and W.A.S.P. codified shock rock's theatrical horror stagecraft through the 1970s and '80s, Slipknot brought masked horror imagery into nu-metal in 1999, Iced Earth built horror-concept albums around Dracula and zombie apocalypse narratives, and modern acts Ghost, Rob Zombie, Lordi, and Motionless in White carry horror metal's theatrical tradition forward today.
+
 
 ---
 

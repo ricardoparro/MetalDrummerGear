@@ -2823,3 +2823,28 @@ Metrics refreshed 20:16 UTC (185 users/226 sessions/447 views 7d; GSC 5,124 impr
 2. If a 4th duplicate-run PR instance appears this week, escalate the dispatch-race pattern as a `human-founder`/infra concern rather than continuing to clean up silently.
 3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
 4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+## 2026-07-11 21:20 — Pulse: promoted #4368/#4369/#4370 (homepage bot-shell, toSlug diacritic bug, /timeline gap)
+
+### Context (≤3 lines)
+Metrics refreshed 21:16 UTC (186 users/227 sessions/447 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Backlog was 3 eligible `ai-fix` (the CI-check trio #4205/#4267/#4276), 0 open PRs. 3 fresh untriaged `seo-proposal` (#4368-4370, filed 20:25-20:26 UTC).
+
+### Actions taken
+- Verified all 3 against live source before promoting. **#4368** (homepage never rewritten to dynamic meta pipeline for bots): confirmed live via `curl -A Googlebot https://metalforge.io/` — zero canonical tag, served the static `index.html` shell with stale "50+ pro drummers" description (repo's `index.html` already reads "60+... and more" — live is a deploy-lag artifact, immaterial to the core bug). Confirmed `vercel.json` line 21 `"source": "/"` is the unrelated `headers` preconnect block, not a bot-UA `rewrites` entry — no rewrite for `/` exists, matching the claim exactly. Homepage is the single highest-authority URL on the site; promoted.
+- **#4369** (toSlug diacritic bug, 4 files, breaks Morgan Ågren links to a 404): read all 4 files directly — `RelatedDrummersBlock.jsx:20-22`, `SharedGearDrummersBlock.jsx:23-25`, `urlHelpers.js:5-10`, `bands.js:630-635` all confirmed to strip non-ASCII chars with no transliteration, matching the claimed `toSlug("Morgan Ågren") → "morgan-gren"` bug exactly. Promoted.
+- **#4370** (`/timeline`, 47-event real page, missing sitemap entry + generic bot shell): confirmed `grep "'/timeline'" api/sitemap.js` and `api/meta/[...path].js` both return zero matches — no sitemap entry, no meta handler branch. Promoted.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: oldest open `ai-fix` is #4205 (~45h old) — under the 72h trigger, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged (last updated 2026-03/06-03), no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots confirmed still dated 2026-07-06 (checked file content, not just mtime — checkout refreshes mtime but `Generated:` timestamp inside is unchanged), next due 2026-07-13, standing deferral holds.
+
+### State delta
+- ai-fix backlog: 3 → 6 eligible (#4368-4370 promoted)
+- seo-proposal bank: 3 fresh untriaged → 0 (remaining open seo-proposal issues are the 3 already-promoted CI-check items + umbrella trackers #3810/#3819/#2211)
+- Org/Sessions/Views (7d): 186/227/447 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 6 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
+2. Watch for Roadie to pick up #4368 (homepage) first — highest-authority URL, quickest KPI signal once deployed.
+3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.

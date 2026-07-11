@@ -114,12 +114,21 @@ function BestForMetalLink({ theme, onNavigate }) {
 // part of the frame, so a centered crop cuts the head off (verified visually
 // against every hub image). Value = distance from the top of the source image
 // to anchor the crop at; anything not listed keeps the centered default.
+// Tuned by rendering every hub photo at card size across 7 focus values
+// (0–65%) and picking the frame that shows the full face; photos not listed
+// are kit/stage shots or already framed correctly by the centered default.
 const FACE_FOCUS = {
   'danny-carey': '8%',
   'dirk-verbeuren': '8%',
+  'george-kollias': '10%',
   'nicko-mcbrain': '12%',
   'gene-hoglan': '12%',
+  'mikkey-dee': '15%',
+  'derek-roddy': '15%',
+  'charlie-benante': '20%',
+  'adrian-erlandsson': '20%',
   'joey-jordison': '22%',
+  'inferno': '25%',
   'dave-lombardo': '28%',
   'lars-ulrich': '30%',
 };

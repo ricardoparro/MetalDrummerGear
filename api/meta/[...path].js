@@ -49,6 +49,9 @@ import { getGearPriceHistory, formatHistoryPrice } from '../../packages/frontend
 // Ported from the dead api/meta/index.js (never wired into any rewrite/handler path).
 import { genres as GENRES, getAllGenreSlugs } from '../../packages/frontend/data/genres.js';
 import { drummerBirthdays } from '../../packages/frontend/data/birthdays.js';
+// Issue #4370: /timeline was falling through to the generic homepage shell
+// under bot UA — SSR title/description for the 47-event evolution timeline.
+import { EVOLUTION_TIMELINE } from '../../packages/frontend/data/evolutionTimeline.js';
 // Issue #4268: /guides/beginner-metal-drummer-setup + /guides/budget-metal-drum-setup-{500,1000,2000}
 // were rendering title/description-only stubs (or falling through to the generic
 // /guides/<slug> fallback) with zero HowTo/FAQPage JSON-LD in bot-facing SSR.
@@ -412,6 +415,17 @@ function getMetaForPath(pathname) {
           },
         ],
       }),
+    };
+  }
+
+  // Metal drumming evolution timeline
+  if (path === '/timeline') {
+    return {
+      title: `Metal Drumming Evolution Timeline (1970-2024) | ${SITE_NAME}`,
+      description: `Explore ${EVOLUTION_TIMELINE.length} key moments in metal drumming history — landmark album releases, drummer debuts, gear innovations, and technique milestones from 1970 to today, filterable by decade and subgenre.`,
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/timeline`,
     };
   }
 

@@ -486,6 +486,9 @@ export function buildSitemapXml() {
     { loc: '/birthdays', priority: '0.9', changefreq: 'weekly' },
     // Issue #723: Metal Drummer Evolution Timeline (1970-2024)
     { loc: '/history', priority: '0.9', changefreq: 'monthly' },
+    // Issue #4370: /timeline is the same Evolution Timeline page as /history
+    // above, but was missing its own sitemap entry.
+    { loc: '/timeline', priority: '0.85', changefreq: 'monthly' },
     { loc: '/techniques', priority: '0.9', changefreq: 'weekly' },
     // Issue #1042: top-level signature licks index hub
     { loc: '/licks', priority: '0.9', changefreq: 'weekly' },

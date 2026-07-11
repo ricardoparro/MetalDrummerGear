@@ -62,6 +62,9 @@ import { DRUMMER_STICKS } from '../packages/frontend/data/drumsticks.js';
 import { REFERENCE_PAGE_ORDER } from '../packages/frontend/data/drumstickReferencePages.js';
 // Issue #4139 (phase 4/4 of epic #4135): /drumsticks/brands + per-brand pages.
 import { DRUMSTICK_BRANDS } from '../packages/frontend/data/drumstickBrands.js';
+// Issue #4274: Endorsement Tracker pages — source slugs directly from
+// ENDORSEMENT_TIMELINE so the sitemap can never drift out of sync again.
+import { ENDORSEMENT_TIMELINE } from '../packages/frontend/data/endorsementNews.js';
 
 // Issue #4201: Content Scale Sprint - All 65 drummers now in sitemap
 const drummers = [
@@ -284,23 +287,10 @@ const drummerLicksHubs = Object.values(SIGNATURE_LICKS).reduce((hubs, lick) => {
   return hubs;
 }, []);
 
-// Issue #802: Endorsement Tracker pages
-// Track brand deals and endorsement history for drummers
-const endorsementDrummers = [
-  'lars-ulrich', 'joey-jordison', 'tomas-haake', 'dave-lombardo',
-  'george-kollias', 'eloy-casagrande', 'jay-weinberg', 'mike-portnoy',
-  'danny-carey', 'mario-duplantier', 'brann-dailor', 'chris-adler',
-  'matt-halpern', 'inferno', 'charlie-benante',
-  'jaska-raatikainen', 'bill-ward', 'john-otto', 'ben-koller',
-  'matt-greiner', 'mikkey-dee', 'gavin-harrison', 'hellhammer',
-  'flo-mounier',
-  // Issue #4134: dirk-verbeuren, frost, abe-cunningham, travis-orbin
-  'dirk-verbeuren', 'frost', 'abe-cunningham', 'travis-orbin',
-  // Issue #4168: aquiles-priester, arin-ilejay, blake-richardson, chris-turner, daniel-erlandsson
-  'aquiles-priester', 'arin-ilejay', 'blake-richardson', 'chris-turner', 'daniel-erlandsson',
-  // Issue #4169: derek-roddy, hannes-grossmann, isaac-lamb, jason-bittner, jocke-wallgren
-  'derek-roddy', 'hannes-grossmann', 'isaac-lamb', 'jason-bittner', 'jocke-wallgren',
-];
+// Issue #802 / #4274: Endorsement Tracker pages — derive directly from
+// ENDORSEMENT_TIMELINE so this list can never drift out of sync again (same
+// pattern as gearPriceHistoryDrummers below).
+const endorsementDrummers = Object.keys(ENDORSEMENT_TIMELINE);
 
 // Issue #813 / #3661: Gear Price History Tracker pages — inflation-adjusted
 // setup costs over time, sourced directly from the canonical data module so

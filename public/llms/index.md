@@ -29,7 +29,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Techniques Overview | https://metalforge.io/llms/techniques.md | All drum techniques overview with links to per-technique deep dives (Markdown) |
 | Signature Licks | https://metalforge.io/llms/licks.md | Signature lick breakdowns overview for 67 drummers (Markdown) |
 | Drummer Comparisons | https://metalforge.io/llms/comparisons.md | Side-by-side drummer gear & style comparisons — all pairs (Markdown) |
-| Per-Pair Comparisons | https://metalforge.io/llms/vs/ | Individual per-pair comparison pages with exact gear data (24 files) |
+| Per-Pair Comparisons | https://metalforge.io/llms/vs/ | Individual per-pair comparison pages with exact gear data (226 files) |
 | Top-10 Lists | https://metalforge.io/llms/lists.md | Ranked top-10 drummer lists by speed, genre, gear value, and technique (Markdown) |
 | Per-List Deep Dives | https://metalforge.io/llms/lists/ | Individual per-list ranked guides with full rationale, FAQ, and internal links (8 files) |
 | Quick Facts | https://metalforge.io/llms/facts.md | Speed records, gear stats, career milestones, nicknames & technical definitions (Markdown) |
@@ -288,34 +288,236 @@ Per-pair deep-dive files (400–600 words each) with exact gear data for both dr
 AI retrieval on queries like "Joey Jordison vs Lars Ulrich gear", "what drums does Hellhammer use vs Inferno?",
 or "Compare Danny Carey's kit to Tomas Haake's."
 
-Hub: [/llms/comparisons.md](https://metalforge.io/llms/comparisons.md) — aggregate overview of all 24 pairs.
+Hub: [/llms/comparisons.md](https://metalforge.io/llms/comparisons.md) — aggregate overview of all 226 pairs.
 
 | Comparison | File |
 |------------|------|
 | Lars Ulrich vs Dave Lombardo | [lars-ulrich-vs-dave-lombardo.md](https://metalforge.io/llms/vs/lars-ulrich-vs-dave-lombardo.md) |
-| Lars Ulrich vs Joey Jordison | [lars-ulrich-vs-joey-jordison.md](https://metalforge.io/llms/vs/lars-ulrich-vs-joey-jordison.md) |
-| Joey Jordison vs Jay Weinberg | [joey-jordison-vs-jay-weinberg.md](https://metalforge.io/llms/vs/joey-jordison-vs-jay-weinberg.md) |
-| Joey Jordison vs Dave Lombardo | [joey-jordison-vs-dave-lombardo.md](https://metalforge.io/llms/vs/joey-jordison-vs-dave-lombardo.md) |
-| Joey Jordison vs Mike Portnoy | [joey-jordison-vs-mike-portnoy.md](https://metalforge.io/llms/vs/joey-jordison-vs-mike-portnoy.md) |
-| Joey Jordison vs John Otto | [joey-jordison-vs-john-otto.md](https://metalforge.io/llms/vs/joey-jordison-vs-john-otto.md) |
 | Mario Duplantier vs Tomas Haake | [mario-duplantier-vs-tomas-haake.md](https://metalforge.io/llms/vs/mario-duplantier-vs-tomas-haake.md) |
-| Danny Carey vs Mario Duplantier | [danny-carey-vs-mario-duplantier.md](https://metalforge.io/llms/vs/danny-carey-vs-mario-duplantier.md) |
-| Danny Carey vs Brann Dailor | [danny-carey-vs-brann-dailor.md](https://metalforge.io/llms/vs/danny-carey-vs-brann-dailor.md) |
-| Mike Portnoy vs Danny Carey | [mike-portnoy-vs-danny-carey.md](https://metalforge.io/llms/vs/mike-portnoy-vs-danny-carey.md) |
-| Brann Dailor vs Mario Duplantier | [brann-dailor-vs-mario-duplantier.md](https://metalforge.io/llms/vs/brann-dailor-vs-mario-duplantier.md) |
-| Tomas Haake vs Matt Halpern | [tomas-haake-vs-matt-halpern.md](https://metalforge.io/llms/vs/tomas-haake-vs-matt-halpern.md) |
-| Matt Halpern vs Alex Bent | [matt-halpern-vs-alex-bent.md](https://metalforge.io/llms/vs/matt-halpern-vs-alex-bent.md) |
 | George Kollias vs Pete Sandoval | [george-kollias-vs-pete-sandoval.md](https://metalforge.io/llms/vs/george-kollias-vs-pete-sandoval.md) |
+| Joey Jordison vs John Otto | [joey-jordison-vs-john-otto.md](https://metalforge.io/llms/vs/joey-jordison-vs-john-otto.md) |
+| Mike Portnoy vs Danny Carey | [mike-portnoy-vs-danny-carey.md](https://metalforge.io/llms/vs/mike-portnoy-vs-danny-carey.md) |
 | Gene Hoglan vs Charlie Benante | [gene-hoglan-vs-charlie-benante.md](https://metalforge.io/llms/vs/gene-hoglan-vs-charlie-benante.md) |
-| Gene Hoglan vs George Kollias | [gene-hoglan-vs-george-kollias.md](https://metalforge.io/llms/vs/gene-hoglan-vs-george-kollias.md) |
-| Dave Lombardo vs Gene Hoglan | [dave-lombardo-vs-gene-hoglan.md](https://metalforge.io/llms/vs/dave-lombardo-vs-gene-hoglan.md) |
+| Matt Halpern vs Alex Bent | [matt-halpern-vs-alex-bent.md](https://metalforge.io/llms/vs/matt-halpern-vs-alex-bent.md) |
 | Hellhammer vs Inferno | [hellhammer-vs-inferno.md](https://metalforge.io/llms/vs/hellhammer-vs-inferno.md) |
-| Chris Adler vs Joey Jordison | [chris-adler-vs-joey-jordison.md](https://metalforge.io/llms/vs/chris-adler-vs-joey-jordison.md) |
-| Nicko McBrain vs Lars Ulrich | [nicko-mcbrain-vs-lars-ulrich.md](https://metalforge.io/llms/vs/nicko-mcbrain-vs-lars-ulrich.md) |
-| Scott Travis vs Nicko McBrain | [scott-travis-vs-nicko-mcbrain.md](https://metalforge.io/llms/vs/scott-travis-vs-nicko-mcbrain.md) |
+| Brann Dailor vs Mario Duplantier | [brann-dailor-vs-mario-duplantier.md](https://metalforge.io/llms/vs/brann-dailor-vs-mario-duplantier.md) |
+| Brann Dailor vs Blake Richardson | [brann-dailor-vs-blake-richardson.md](https://metalforge.io/llms/vs/brann-dailor-vs-blake-richardson.md) |
+| Igor Cavalera vs Vinnie Paul | [igor-cavalera-vs-vinnie-paul.md](https://metalforge.io/llms/vs/igor-cavalera-vs-vinnie-paul.md) |
 | Igor Cavalera vs Eloy Casagrande | [igor-cavalera-vs-eloy-casagrande.md](https://metalforge.io/llms/vs/igor-cavalera-vs-eloy-casagrande.md) |
 | Vinnie Paul vs Art Cruz | [vinnie-paul-vs-art-cruz.md](https://metalforge.io/llms/vs/vinnie-paul-vs-art-cruz.md) |
 | Ray Luzier vs Abe Cunningham | [ray-luzier-vs-abe-cunningham.md](https://metalforge.io/llms/vs/ray-luzier-vs-abe-cunningham.md) |
+| Lars Ulrich vs Joey Jordison | [lars-ulrich-vs-joey-jordison.md](https://metalforge.io/llms/vs/lars-ulrich-vs-joey-jordison.md) |
+| Danny Carey vs Mario Duplantier | [danny-carey-vs-mario-duplantier.md](https://metalforge.io/llms/vs/danny-carey-vs-mario-duplantier.md) |
+| Gene Hoglan vs Tomas Haake | [gene-hoglan-vs-tomas-haake.md](https://metalforge.io/llms/vs/gene-hoglan-vs-tomas-haake.md) |
+| Gene Hoglan vs George Kollias | [gene-hoglan-vs-george-kollias.md](https://metalforge.io/llms/vs/gene-hoglan-vs-george-kollias.md) |
+| Joey Jordison vs Jay Weinberg | [joey-jordison-vs-jay-weinberg.md](https://metalforge.io/llms/vs/joey-jordison-vs-jay-weinberg.md) |
+| Dave Lombardo vs Gene Hoglan | [dave-lombardo-vs-gene-hoglan.md](https://metalforge.io/llms/vs/dave-lombardo-vs-gene-hoglan.md) |
+| Tomas Haake vs Matt Halpern | [tomas-haake-vs-matt-halpern.md](https://metalforge.io/llms/vs/tomas-haake-vs-matt-halpern.md) |
+| Chris Adler vs Joey Jordison | [chris-adler-vs-joey-jordison.md](https://metalforge.io/llms/vs/chris-adler-vs-joey-jordison.md) |
+| Nicko McBrain vs Lars Ulrich | [nicko-mcbrain-vs-lars-ulrich.md](https://metalforge.io/llms/vs/nicko-mcbrain-vs-lars-ulrich.md) |
+| Scott Travis vs Nicko McBrain | [scott-travis-vs-nicko-mcbrain.md](https://metalforge.io/llms/vs/scott-travis-vs-nicko-mcbrain.md) |
+| Joey Jordison vs Dave Lombardo | [joey-jordison-vs-dave-lombardo.md](https://metalforge.io/llms/vs/joey-jordison-vs-dave-lombardo.md) |
+| Danny Carey vs Brann Dailor | [danny-carey-vs-brann-dailor.md](https://metalforge.io/llms/vs/danny-carey-vs-brann-dailor.md) |
+| Nicko McBrain vs Mikkey Dee | [nicko-mcbrain-vs-mikkey-dee.md](https://metalforge.io/llms/vs/nicko-mcbrain-vs-mikkey-dee.md) |
+| John Otto vs Ray Luzier | [john-otto-vs-ray-luzier.md](https://metalforge.io/llms/vs/john-otto-vs-ray-luzier.md) |
+| Dirk Verbeuren vs Chris Adler | [dirk-verbeuren-vs-chris-adler.md](https://metalforge.io/llms/vs/dirk-verbeuren-vs-chris-adler.md) |
+| Mike Portnoy vs Gavin Harrison | [mike-portnoy-vs-gavin-harrison.md](https://metalforge.io/llms/vs/mike-portnoy-vs-gavin-harrison.md) |
+| Paul Mazurkiewicz vs Pete Sandoval | [paul-mazurkiewicz-vs-pete-sandoval.md](https://metalforge.io/llms/vs/paul-mazurkiewicz-vs-pete-sandoval.md) |
+| Brann Dailor vs Tomas Haake | [brann-dailor-vs-tomas-haake.md](https://metalforge.io/llms/vs/brann-dailor-vs-tomas-haake.md) |
+| Nick Menza vs Dirk Verbeuren | [nick-menza-vs-dirk-verbeuren.md](https://metalforge.io/llms/vs/nick-menza-vs-dirk-verbeuren.md) |
+| Joey Jordison vs Mike Portnoy | [joey-jordison-vs-mike-portnoy.md](https://metalforge.io/llms/vs/joey-jordison-vs-mike-portnoy.md) |
+| Brann Dailor vs Mike Portnoy | [brann-dailor-vs-mike-portnoy.md](https://metalforge.io/llms/vs/brann-dailor-vs-mike-portnoy.md) |
+| Danny Carey vs Gavin Harrison | [danny-carey-vs-gavin-harrison.md](https://metalforge.io/llms/vs/danny-carey-vs-gavin-harrison.md) |
+| Brann Dailor vs Gavin Harrison | [brann-dailor-vs-gavin-harrison.md](https://metalforge.io/llms/vs/brann-dailor-vs-gavin-harrison.md) |
+| Mario Duplantier vs George Kollias | [mario-duplantier-vs-george-kollias.md](https://metalforge.io/llms/vs/mario-duplantier-vs-george-kollias.md) |
+| Matt Greiner vs Matt Halpern | [matt-greiner-vs-matt-halpern.md](https://metalforge.io/llms/vs/matt-greiner-vs-matt-halpern.md) |
+| Mike Portnoy vs Mike Mangini | [mike-portnoy-vs-mike-mangini.md](https://metalforge.io/llms/vs/mike-portnoy-vs-mike-mangini.md) |
+| Dave Lombardo vs Pete Sandoval | [dave-lombardo-vs-pete-sandoval.md](https://metalforge.io/llms/vs/dave-lombardo-vs-pete-sandoval.md) |
+| Danny Carey vs Tomas Haake | [danny-carey-vs-tomas-haake.md](https://metalforge.io/llms/vs/danny-carey-vs-tomas-haake.md) |
+| Vinnie Paul vs Lars Ulrich | [vinnie-paul-vs-lars-ulrich.md](https://metalforge.io/llms/vs/vinnie-paul-vs-lars-ulrich.md) |
+| George Kollias vs Tomas Haake | [george-kollias-vs-tomas-haake.md](https://metalforge.io/llms/vs/george-kollias-vs-tomas-haake.md) |
+| Gavin Harrison vs Danny Carey | [gavin-harrison-vs-danny-carey.md](https://metalforge.io/llms/vs/gavin-harrison-vs-danny-carey.md) |
+| Inferno vs Flo Mounier | [inferno-vs-flo-mounier.md](https://metalforge.io/llms/vs/inferno-vs-flo-mounier.md) |
+| Gene Hoglan vs Dave Lombardo | [gene-hoglan-vs-dave-lombardo.md](https://metalforge.io/llms/vs/gene-hoglan-vs-dave-lombardo.md) |
+| Martin Lopez vs Gavin Harrison | [martin-lopez-vs-gavin-harrison.md](https://metalforge.io/llms/vs/martin-lopez-vs-gavin-harrison.md) |
+| Eloy Casagrande vs Jay Weinberg | [eloy-casagrande-vs-jay-weinberg.md](https://metalforge.io/llms/vs/eloy-casagrande-vs-jay-weinberg.md) |
+| Mario Duplantier vs Matt Halpern | [mario-duplantier-vs-matt-halpern.md](https://metalforge.io/llms/vs/mario-duplantier-vs-matt-halpern.md) |
+| Mike Mangini vs Matt Garstka | [mike-mangini-vs-matt-garstka.md](https://metalforge.io/llms/vs/mike-mangini-vs-matt-garstka.md) |
+| Gene Hoglan vs Eloy Casagrande | [gene-hoglan-vs-eloy-casagrande.md](https://metalforge.io/llms/vs/gene-hoglan-vs-eloy-casagrande.md) |
+| Flo Mounier vs Pete Sandoval | [flo-mounier-vs-pete-sandoval.md](https://metalforge.io/llms/vs/flo-mounier-vs-pete-sandoval.md) |
+| Flo Mounier vs Tomas Haake | [flo-mounier-vs-tomas-haake.md](https://metalforge.io/llms/vs/flo-mounier-vs-tomas-haake.md) |
+| Brann Dailor vs Eloy Casagrande | [brann-dailor-vs-eloy-casagrande.md](https://metalforge.io/llms/vs/brann-dailor-vs-eloy-casagrande.md) |
+| Jay Weinberg vs Mike Mangini | [jay-weinberg-vs-mike-mangini.md](https://metalforge.io/llms/vs/jay-weinberg-vs-mike-mangini.md) |
+| Igor Cavalera vs Jaska Raatikainen | [igor-cavalera-vs-jaska-raatikainen.md](https://metalforge.io/llms/vs/igor-cavalera-vs-jaska-raatikainen.md) |
+| Frost vs Hellhammer | [frost-vs-hellhammer.md](https://metalforge.io/llms/vs/frost-vs-hellhammer.md) |
+| Tomas Haake vs Blake Richardson | [tomas-haake-vs-blake-richardson.md](https://metalforge.io/llms/vs/tomas-haake-vs-blake-richardson.md) |
+| Shannon Larkin vs Jay Weinberg | [shannon-larkin-vs-jay-weinberg.md](https://metalforge.io/llms/vs/shannon-larkin-vs-jay-weinberg.md) |
+| Flo Mounier vs George Kollias | [flo-mounier-vs-george-kollias.md](https://metalforge.io/llms/vs/flo-mounier-vs-george-kollias.md) |
+| Eloy Casagrande vs Igor Cavalera | [eloy-casagrande-vs-igor-cavalera.md](https://metalforge.io/llms/vs/eloy-casagrande-vs-igor-cavalera.md) |
+| Chris Adler vs Ray Luzier | [chris-adler-vs-ray-luzier.md](https://metalforge.io/llms/vs/chris-adler-vs-ray-luzier.md) |
+| Gene Hoglan vs Paul Mazurkiewicz | [gene-hoglan-vs-paul-mazurkiewicz.md](https://metalforge.io/llms/vs/gene-hoglan-vs-paul-mazurkiewicz.md) |
+| Sean Reinert vs Martin Lopez | [sean-reinert-vs-martin-lopez.md](https://metalforge.io/llms/vs/sean-reinert-vs-martin-lopez.md) |
+| John Otto vs Shannon Larkin | [john-otto-vs-shannon-larkin.md](https://metalforge.io/llms/vs/john-otto-vs-shannon-larkin.md) |
+| Abe Cunningham vs Dirk Verbeuren | [abe-cunningham-vs-dirk-verbeuren.md](https://metalforge.io/llms/vs/abe-cunningham-vs-dirk-verbeuren.md) |
+| Gavin Harrison vs Mike Mangini | [gavin-harrison-vs-mike-mangini.md](https://metalforge.io/llms/vs/gavin-harrison-vs-mike-mangini.md) |
+| Paul Bostaph vs Jon Dette | [paul-bostaph-vs-jon-dette.md](https://metalforge.io/llms/vs/paul-bostaph-vs-jon-dette.md) |
+| Daniel Erlandsson vs Adrian Erlandsson | [daniel-erlandsson-vs-adrian-erlandsson.md](https://metalforge.io/llms/vs/daniel-erlandsson-vs-adrian-erlandsson.md) |
+| Charlie Benante vs Scott Travis | [charlie-benante-vs-scott-travis.md](https://metalforge.io/llms/vs/charlie-benante-vs-scott-travis.md) |
+| Paul Mazurkiewicz vs Tim Yeung | [paul-mazurkiewicz-vs-tim-yeung.md](https://metalforge.io/llms/vs/paul-mazurkiewicz-vs-tim-yeung.md) |
+| Martin Axenrot vs Martin Lopez | [martin-axenrot-vs-martin-lopez.md](https://metalforge.io/llms/vs/martin-axenrot-vs-martin-lopez.md) |
+| Dirk Verbeuren vs Paul Bostaph | [dirk-verbeuren-vs-paul-bostaph.md](https://metalforge.io/llms/vs/dirk-verbeuren-vs-paul-bostaph.md) |
+| Raymond Herrera vs Matt Garstka | [raymond-herrera-vs-matt-garstka.md](https://metalforge.io/llms/vs/raymond-herrera-vs-matt-garstka.md) |
+| Derek Roddy vs Travis Orbin | [derek-roddy-vs-travis-orbin.md](https://metalforge.io/llms/vs/derek-roddy-vs-travis-orbin.md) |
+| Aquiles Priester vs Blake Richardson | [aquiles-priester-vs-blake-richardson.md](https://metalforge.io/llms/vs/aquiles-priester-vs-blake-richardson.md) |
+| Art Cruz vs Jay Weinberg | [art-cruz-vs-jay-weinberg.md](https://metalforge.io/llms/vs/art-cruz-vs-jay-weinberg.md) |
+| Ray Luzier vs Scott Travis | [ray-luzier-vs-scott-travis.md](https://metalforge.io/llms/vs/ray-luzier-vs-scott-travis.md) |
+| Jaska Raatikainen vs Nicko McBrain | [jaska-raatikainen-vs-nicko-mcbrain.md](https://metalforge.io/llms/vs/jaska-raatikainen-vs-nicko-mcbrain.md) |
+| Abe Cunningham vs John Otto | [abe-cunningham-vs-john-otto.md](https://metalforge.io/llms/vs/abe-cunningham-vs-john-otto.md) |
+| Bill Ward vs Charlie Benante | [bill-ward-vs-charlie-benante.md](https://metalforge.io/llms/vs/bill-ward-vs-charlie-benante.md) |
+| Blake Richardson vs Matt Garstka | [blake-richardson-vs-matt-garstka.md](https://metalforge.io/llms/vs/blake-richardson-vs-matt-garstka.md) |
+| Lars Ulrich vs Bill Ward | [lars-ulrich-vs-bill-ward.md](https://metalforge.io/llms/vs/lars-ulrich-vs-bill-ward.md) |
+| Nicko McBrain vs Vinnie Paul | [nicko-mcbrain-vs-vinnie-paul.md](https://metalforge.io/llms/vs/nicko-mcbrain-vs-vinnie-paul.md) |
+| Jay Weinberg vs Alex Bent | [jay-weinberg-vs-alex-bent.md](https://metalforge.io/llms/vs/jay-weinberg-vs-alex-bent.md) |
+| Matt Greiner vs Matt Garstka | [matt-greiner-vs-matt-garstka.md](https://metalforge.io/llms/vs/matt-greiner-vs-matt-garstka.md) |
+| Flo Mounier vs Jaska Raatikainen | [flo-mounier-vs-jaska-raatikainen.md](https://metalforge.io/llms/vs/flo-mounier-vs-jaska-raatikainen.md) |
+| Ben Koller vs Blake Richardson | [ben-koller-vs-blake-richardson.md](https://metalforge.io/llms/vs/ben-koller-vs-blake-richardson.md) |
+| Mikkey Dee vs Vinnie Paul | [mikkey-dee-vs-vinnie-paul.md](https://metalforge.io/llms/vs/mikkey-dee-vs-vinnie-paul.md) |
+| Derek Roddy vs Tim Yeung | [derek-roddy-vs-tim-yeung.md](https://metalforge.io/llms/vs/derek-roddy-vs-tim-yeung.md) |
+| Alex Bent vs Jason Bittner | [alex-bent-vs-jason-bittner.md](https://metalforge.io/llms/vs/alex-bent-vs-jason-bittner.md) |
+| Abe Cunningham vs Jay Weinberg | [abe-cunningham-vs-jay-weinberg.md](https://metalforge.io/llms/vs/abe-cunningham-vs-jay-weinberg.md) |
+| Blake Richardson vs Travis Orbin | [blake-richardson-vs-travis-orbin.md](https://metalforge.io/llms/vs/blake-richardson-vs-travis-orbin.md) |
+| Dave Lombardo vs Chris Adler | [dave-lombardo-vs-chris-adler.md](https://metalforge.io/llms/vs/dave-lombardo-vs-chris-adler.md) |
+| Sean Reinert vs Hannes Grossmann | [sean-reinert-vs-hannes-grossmann.md](https://metalforge.io/llms/vs/sean-reinert-vs-hannes-grossmann.md) |
+| Nicko McBrain vs Bill Ward | [nicko-mcbrain-vs-bill-ward.md](https://metalforge.io/llms/vs/nicko-mcbrain-vs-bill-ward.md) |
+| Paul Bostaph vs Dave Lombardo | [paul-bostaph-vs-dave-lombardo.md](https://metalforge.io/llms/vs/paul-bostaph-vs-dave-lombardo.md) |
+| Jocke Wallgren vs Charlie Benante | [jocke-wallgren-vs-charlie-benante.md](https://metalforge.io/llms/vs/jocke-wallgren-vs-charlie-benante.md) |
+| Ray Luzier vs Art Cruz | [ray-luzier-vs-art-cruz.md](https://metalforge.io/llms/vs/ray-luzier-vs-art-cruz.md) |
+| George Kollias vs Paul Mazurkiewicz | [george-kollias-vs-paul-mazurkiewicz.md](https://metalforge.io/llms/vs/george-kollias-vs-paul-mazurkiewicz.md) |
+| Shannon Larkin vs Abe Cunningham | [shannon-larkin-vs-abe-cunningham.md](https://metalforge.io/llms/vs/shannon-larkin-vs-abe-cunningham.md) |
+| Nick Menza vs Charlie Benante | [nick-menza-vs-charlie-benante.md](https://metalforge.io/llms/vs/nick-menza-vs-charlie-benante.md) |
+| Lars Ulrich vs Charlie Benante | [lars-ulrich-vs-charlie-benante.md](https://metalforge.io/llms/vs/lars-ulrich-vs-charlie-benante.md) |
+| Brann Dailor vs Sean Reinert | [brann-dailor-vs-sean-reinert.md](https://metalforge.io/llms/vs/brann-dailor-vs-sean-reinert.md) |
+| Paul Mazurkiewicz vs George Kollias | [paul-mazurkiewicz-vs-george-kollias.md](https://metalforge.io/llms/vs/paul-mazurkiewicz-vs-george-kollias.md) |
+| Abe Cunningham vs Shannon Larkin | [abe-cunningham-vs-shannon-larkin.md](https://metalforge.io/llms/vs/abe-cunningham-vs-shannon-larkin.md) |
+| Chris Adler vs Art Cruz | [chris-adler-vs-art-cruz.md](https://metalforge.io/llms/vs/chris-adler-vs-art-cruz.md) |
+| Gene Hoglan vs Pete Sandoval | [gene-hoglan-vs-pete-sandoval.md](https://metalforge.io/llms/vs/gene-hoglan-vs-pete-sandoval.md) |
+| Alex Bent vs Matt Garstka | [alex-bent-vs-matt-garstka.md](https://metalforge.io/llms/vs/alex-bent-vs-matt-garstka.md) |
+| Richard Christy vs Derek Roddy | [richard-christy-vs-derek-roddy.md](https://metalforge.io/llms/vs/richard-christy-vs-derek-roddy.md) |
+| Kevin Talley vs George Kollias | [kevin-talley-vs-george-kollias.md](https://metalforge.io/llms/vs/kevin-talley-vs-george-kollias.md) |
+| Ryan Van Poederooyen vs Mike Portnoy | [ryan-van-poederooyen-vs-mike-portnoy.md](https://metalforge.io/llms/vs/ryan-van-poederooyen-vs-mike-portnoy.md) |
+| Frost vs Inferno | [frost-vs-inferno.md](https://metalforge.io/llms/vs/frost-vs-inferno.md) |
+| Frost vs Jaska Raatikainen | [frost-vs-jaska-raatikainen.md](https://metalforge.io/llms/vs/frost-vs-jaska-raatikainen.md) |
+| Frost vs Daray | [frost-vs-daray.md](https://metalforge.io/llms/vs/frost-vs-daray.md) |
+| Ben Koller vs Flo Mounier | [ben-koller-vs-flo-mounier.md](https://metalforge.io/llms/vs/ben-koller-vs-flo-mounier.md) |
+| Ben Koller vs Inferno | [ben-koller-vs-inferno.md](https://metalforge.io/llms/vs/ben-koller-vs-inferno.md) |
+| Bill Ward vs Eloy Casagrande | [bill-ward-vs-eloy-casagrande.md](https://metalforge.io/llms/vs/bill-ward-vs-eloy-casagrande.md) |
+| Arin Ilejay vs Jay Weinberg | [arin-ilejay-vs-jay-weinberg.md](https://metalforge.io/llms/vs/arin-ilejay-vs-jay-weinberg.md) |
+| Nick Augusto vs Blake Richardson | [nick-augusto-vs-blake-richardson.md](https://metalforge.io/llms/vs/nick-augusto-vs-blake-richardson.md) |
+| Morgan Ågren vs Mike Mangini | [morgan-agren-vs-mike-mangini.md](https://metalforge.io/llms/vs/morgan-agren-vs-mike-mangini.md) |
+| Navene Koperweis vs Ben Koller | [navene-koperweis-vs-ben-koller.md](https://metalforge.io/llms/vs/navene-koperweis-vs-ben-koller.md) |
+| Chris Turner vs Jaska Raatikainen | [chris-turner-vs-jaska-raatikainen.md](https://metalforge.io/llms/vs/chris-turner-vs-jaska-raatikainen.md) |
+| Isaac Lamb vs John Otto | [isaac-lamb-vs-john-otto.md](https://metalforge.io/llms/vs/isaac-lamb-vs-john-otto.md) |
+| Kevin Talley vs Daray | [kevin-talley-vs-daray.md](https://metalforge.io/llms/vs/kevin-talley-vs-daray.md) |
+| Isaac Lamb vs Ryan Van Poederooyen | [isaac-lamb-vs-ryan-van-poederooyen.md](https://metalforge.io/llms/vs/isaac-lamb-vs-ryan-van-poederooyen.md) |
+| Jocke Wallgren vs Daray | [jocke-wallgren-vs-daray.md](https://metalforge.io/llms/vs/jocke-wallgren-vs-daray.md) |
+| Igor Cavalera vs Dave Lombardo | [igor-cavalera-vs-dave-lombardo.md](https://metalforge.io/llms/vs/igor-cavalera-vs-dave-lombardo.md) |
+| Danny Carey vs George Kollias | [danny-carey-vs-george-kollias.md](https://metalforge.io/llms/vs/danny-carey-vs-george-kollias.md) |
+| Sean Reinert vs Flo Mounier | [sean-reinert-vs-flo-mounier.md](https://metalforge.io/llms/vs/sean-reinert-vs-flo-mounier.md) |
+| Hellhammer vs Gene Hoglan | [hellhammer-vs-gene-hoglan.md](https://metalforge.io/llms/vs/hellhammer-vs-gene-hoglan.md) |
+| Hellhammer vs George Kollias | [hellhammer-vs-george-kollias.md](https://metalforge.io/llms/vs/hellhammer-vs-george-kollias.md) |
+| Hellhammer vs Dave Lombardo | [hellhammer-vs-dave-lombardo.md](https://metalforge.io/llms/vs/hellhammer-vs-dave-lombardo.md) |
+| Hannes Grossmann vs Tim Yeung | [hannes-grossmann-vs-tim-yeung.md](https://metalforge.io/llms/vs/hannes-grossmann-vs-tim-yeung.md) |
+| Aquiles Priester vs Morgan Ågren | [aquiles-priester-vs-morgan-agren.md](https://metalforge.io/llms/vs/aquiles-priester-vs-morgan-agren.md) |
+| Raymond Herrera vs Chris Turner | [raymond-herrera-vs-chris-turner.md](https://metalforge.io/llms/vs/raymond-herrera-vs-chris-turner.md) |
+| Bill Ward vs Mario Duplantier | [bill-ward-vs-mario-duplantier.md](https://metalforge.io/llms/vs/bill-ward-vs-mario-duplantier.md) |
+| Eloy Casagrande vs John Otto | [eloy-casagrande-vs-john-otto.md](https://metalforge.io/llms/vs/eloy-casagrande-vs-john-otto.md) |
+| Matt Greiner vs Eloy Casagrande | [matt-greiner-vs-eloy-casagrande.md](https://metalforge.io/llms/vs/matt-greiner-vs-eloy-casagrande.md) |
+| Jaska Raatikainen vs Mario Duplantier | [jaska-raatikainen-vs-mario-duplantier.md](https://metalforge.io/llms/vs/jaska-raatikainen-vs-mario-duplantier.md) |
+| Shannon Larkin vs Mario Duplantier | [shannon-larkin-vs-mario-duplantier.md](https://metalforge.io/llms/vs/shannon-larkin-vs-mario-duplantier.md) |
+| Jaska Raatikainen vs Hannes Grossmann | [jaska-raatikainen-vs-hannes-grossmann.md](https://metalforge.io/llms/vs/jaska-raatikainen-vs-hannes-grossmann.md) |
+| Matt Greiner vs George Kollias | [matt-greiner-vs-george-kollias.md](https://metalforge.io/llms/vs/matt-greiner-vs-george-kollias.md) |
+| Shannon Larkin vs Vinnie Paul | [shannon-larkin-vs-vinnie-paul.md](https://metalforge.io/llms/vs/shannon-larkin-vs-vinnie-paul.md) |
+| Eloy Casagrande vs Dirk Verbeuren | [eloy-casagrande-vs-dirk-verbeuren.md](https://metalforge.io/llms/vs/eloy-casagrande-vs-dirk-verbeuren.md) |
+| Mario Duplantier vs Flo Mounier | [mario-duplantier-vs-flo-mounier.md](https://metalforge.io/llms/vs/mario-duplantier-vs-flo-mounier.md) |
+| Matt Greiner vs Chris Adler | [matt-greiner-vs-chris-adler.md](https://metalforge.io/llms/vs/matt-greiner-vs-chris-adler.md) |
+| Adrian Erlandsson vs Martin Axenrot | [adrian-erlandsson-vs-martin-axenrot.md](https://metalforge.io/llms/vs/adrian-erlandsson-vs-martin-axenrot.md) |
+| Jason Bittner vs Navene Koperweis | [jason-bittner-vs-navene-koperweis.md](https://metalforge.io/llms/vs/jason-bittner-vs-navene-koperweis.md) |
+| Chris Turner vs Isaac Lamb | [chris-turner-vs-isaac-lamb.md](https://metalforge.io/llms/vs/chris-turner-vs-isaac-lamb.md) |
+| John Otto vs Arin Ilejay | [john-otto-vs-arin-ilejay.md](https://metalforge.io/llms/vs/john-otto-vs-arin-ilejay.md) |
+| Ben Koller vs Richard Christy | [ben-koller-vs-richard-christy.md](https://metalforge.io/llms/vs/ben-koller-vs-richard-christy.md) |
+| Shannon Larkin vs Dirk Verbeuren | [shannon-larkin-vs-dirk-verbeuren.md](https://metalforge.io/llms/vs/shannon-larkin-vs-dirk-verbeuren.md) |
+| Nick Augusto vs Jason Bittner | [nick-augusto-vs-jason-bittner.md](https://metalforge.io/llms/vs/nick-augusto-vs-jason-bittner.md) |
+| Nick Augusto vs Matt Greiner | [nick-augusto-vs-matt-greiner.md](https://metalforge.io/llms/vs/nick-augusto-vs-matt-greiner.md) |
+| Daniel Erlandsson vs Jaska Raatikainen | [daniel-erlandsson-vs-jaska-raatikainen.md](https://metalforge.io/llms/vs/daniel-erlandsson-vs-jaska-raatikainen.md) |
+| Daniel Erlandsson vs Dirk Verbeuren | [daniel-erlandsson-vs-dirk-verbeuren.md](https://metalforge.io/llms/vs/daniel-erlandsson-vs-dirk-verbeuren.md) |
+| Martin Axenrot vs Lars Ulrich | [martin-axenrot-vs-lars-ulrich.md](https://metalforge.io/llms/vs/martin-axenrot-vs-lars-ulrich.md) |
+| Mikkey Dee vs Lars Ulrich | [mikkey-dee-vs-lars-ulrich.md](https://metalforge.io/llms/vs/mikkey-dee-vs-lars-ulrich.md) |
+| Mikkey Dee vs Scott Travis | [mikkey-dee-vs-scott-travis.md](https://metalforge.io/llms/vs/mikkey-dee-vs-scott-travis.md) |
+| Mikkey Dee vs Charlie Benante | [mikkey-dee-vs-charlie-benante.md](https://metalforge.io/llms/vs/mikkey-dee-vs-charlie-benante.md) |
+| Mikkey Dee vs Shannon Larkin | [mikkey-dee-vs-shannon-larkin.md](https://metalforge.io/llms/vs/mikkey-dee-vs-shannon-larkin.md) |
+| Shannon Larkin vs Bill Ward | [shannon-larkin-vs-bill-ward.md](https://metalforge.io/llms/vs/shannon-larkin-vs-bill-ward.md) |
+| Eloy Casagrande vs Jaska Raatikainen | [eloy-casagrande-vs-jaska-raatikainen.md](https://metalforge.io/llms/vs/eloy-casagrande-vs-jaska-raatikainen.md) |
+| John Otto vs Mario Duplantier | [john-otto-vs-mario-duplantier.md](https://metalforge.io/llms/vs/john-otto-vs-mario-duplantier.md) |
+| Matt Greiner vs Ben Koller | [matt-greiner-vs-ben-koller.md](https://metalforge.io/llms/vs/matt-greiner-vs-ben-koller.md) |
+| Ben Koller vs Dirk Verbeuren | [ben-koller-vs-dirk-verbeuren.md](https://metalforge.io/llms/vs/ben-koller-vs-dirk-verbeuren.md) |
+| Jaska Raatikainen vs Bill Ward | [jaska-raatikainen-vs-bill-ward.md](https://metalforge.io/llms/vs/jaska-raatikainen-vs-bill-ward.md) |
+| John Otto vs Ben Koller | [john-otto-vs-ben-koller.md](https://metalforge.io/llms/vs/john-otto-vs-ben-koller.md) |
+| Eloy Casagrande vs Shannon Larkin | [eloy-casagrande-vs-shannon-larkin.md](https://metalforge.io/llms/vs/eloy-casagrande-vs-shannon-larkin.md) |
+| Matt Greiner vs Mario Duplantier | [matt-greiner-vs-mario-duplantier.md](https://metalforge.io/llms/vs/matt-greiner-vs-mario-duplantier.md) |
+| Shannon Larkin vs Jaska Raatikainen | [shannon-larkin-vs-jaska-raatikainen.md](https://metalforge.io/llms/vs/shannon-larkin-vs-jaska-raatikainen.md) |
+| Bill Ward vs John Otto | [bill-ward-vs-john-otto.md](https://metalforge.io/llms/vs/bill-ward-vs-john-otto.md) |
+| Ben Koller vs Jaska Raatikainen | [ben-koller-vs-jaska-raatikainen.md](https://metalforge.io/llms/vs/ben-koller-vs-jaska-raatikainen.md) |
+| Jaska Raatikainen vs Matt Greiner | [jaska-raatikainen-vs-matt-greiner.md](https://metalforge.io/llms/vs/jaska-raatikainen-vs-matt-greiner.md) |
+| Lars Ulrich vs Mike Portnoy | [lars-ulrich-vs-mike-portnoy.md](https://metalforge.io/llms/vs/lars-ulrich-vs-mike-portnoy.md) |
+| Dave Lombardo vs Nicko McBrain | [dave-lombardo-vs-nicko-mcbrain.md](https://metalforge.io/llms/vs/dave-lombardo-vs-nicko-mcbrain.md) |
+| Danny Carey vs Gene Hoglan | [danny-carey-vs-gene-hoglan.md](https://metalforge.io/llms/vs/danny-carey-vs-gene-hoglan.md) |
+| Tomas Haake vs Mike Portnoy | [tomas-haake-vs-mike-portnoy.md](https://metalforge.io/llms/vs/tomas-haake-vs-mike-portnoy.md) |
+| Chris Adler vs Travis Orbin | [chris-adler-vs-travis-orbin.md](https://metalforge.io/llms/vs/chris-adler-vs-travis-orbin.md) |
+| Blake Richardson vs Mike Mangini | [blake-richardson-vs-mike-mangini.md](https://metalforge.io/llms/vs/blake-richardson-vs-mike-mangini.md) |
+| Chris Adler vs Matt Halpern | [chris-adler-vs-matt-halpern.md](https://metalforge.io/llms/vs/chris-adler-vs-matt-halpern.md) |
+| Travis Orbin vs Mike Mangini | [travis-orbin-vs-mike-mangini.md](https://metalforge.io/llms/vs/travis-orbin-vs-mike-mangini.md) |
+| Matt Halpern vs Mike Mangini | [matt-halpern-vs-mike-mangini.md](https://metalforge.io/llms/vs/matt-halpern-vs-mike-mangini.md) |
+| Eloy Casagrande vs Mario Duplantier | [eloy-casagrande-vs-mario-duplantier.md](https://metalforge.io/llms/vs/eloy-casagrande-vs-mario-duplantier.md) |
+| Gavin Harrison vs Matt Greiner | [gavin-harrison-vs-matt-greiner.md](https://metalforge.io/llms/vs/gavin-harrison-vs-matt-greiner.md) |
+| Bill Ward vs Brann Dailor | [bill-ward-vs-brann-dailor.md](https://metalforge.io/llms/vs/bill-ward-vs-brann-dailor.md) |
+| Gavin Harrison vs Eloy Casagrande | [gavin-harrison-vs-eloy-casagrande.md](https://metalforge.io/llms/vs/gavin-harrison-vs-eloy-casagrande.md) |
+| Hellhammer vs Bill Ward | [hellhammer-vs-bill-ward.md](https://metalforge.io/llms/vs/hellhammer-vs-bill-ward.md) |
+| Hellhammer vs Jaska Raatikainen | [hellhammer-vs-jaska-raatikainen.md](https://metalforge.io/llms/vs/hellhammer-vs-jaska-raatikainen.md) |
+| Hellhammer vs Mikkey Dee | [hellhammer-vs-mikkey-dee.md](https://metalforge.io/llms/vs/hellhammer-vs-mikkey-dee.md) |
+| Flo Mounier vs Bill Ward | [flo-mounier-vs-bill-ward.md](https://metalforge.io/llms/vs/flo-mounier-vs-bill-ward.md) |
+| Flo Mounier vs Matt Greiner | [flo-mounier-vs-matt-greiner.md](https://metalforge.io/llms/vs/flo-mounier-vs-matt-greiner.md) |
+| Jon Dette vs Dave Lombardo | [jon-dette-vs-dave-lombardo.md](https://metalforge.io/llms/vs/jon-dette-vs-dave-lombardo.md) |
+| Jon Dette vs Gene Hoglan | [jon-dette-vs-gene-hoglan.md](https://metalforge.io/llms/vs/jon-dette-vs-gene-hoglan.md) |
+| Adrian Erlandsson vs Sean Reinert | [adrian-erlandsson-vs-sean-reinert.md](https://metalforge.io/llms/vs/adrian-erlandsson-vs-sean-reinert.md) |
+| Aquiles Priester vs Navene Koperweis | [aquiles-priester-vs-navene-koperweis.md](https://metalforge.io/llms/vs/aquiles-priester-vs-navene-koperweis.md) |
+| Arin Ilejay vs Matt Garstka | [arin-ilejay-vs-matt-garstka.md](https://metalforge.io/llms/vs/arin-ilejay-vs-matt-garstka.md) |
+| Navene Koperweis vs Matt Garstka | [navene-koperweis-vs-matt-garstka.md](https://metalforge.io/llms/vs/navene-koperweis-vs-matt-garstka.md) |
+| Nick Menza vs Vinnie Paul | [nick-menza-vs-vinnie-paul.md](https://metalforge.io/llms/vs/nick-menza-vs-vinnie-paul.md) |
+| Raymond Herrera vs John Otto | [raymond-herrera-vs-john-otto.md](https://metalforge.io/llms/vs/raymond-herrera-vs-john-otto.md) |
+| Jocke Wallgren vs Daniel Erlandsson | [jocke-wallgren-vs-daniel-erlandsson.md](https://metalforge.io/llms/vs/jocke-wallgren-vs-daniel-erlandsson.md) |
+| Richard Christy vs George Kollias | [richard-christy-vs-george-kollias.md](https://metalforge.io/llms/vs/richard-christy-vs-george-kollias.md) |
+| Bill Ward vs Ben Koller | [bill-ward-vs-ben-koller.md](https://metalforge.io/llms/vs/bill-ward-vs-ben-koller.md) |
+| Matt Greiner vs Brann Dailor | [matt-greiner-vs-brann-dailor.md](https://metalforge.io/llms/vs/matt-greiner-vs-brann-dailor.md) |
+| Mario Duplantier vs Hellhammer | [mario-duplantier-vs-hellhammer.md](https://metalforge.io/llms/vs/mario-duplantier-vs-hellhammer.md) |
+| Jaska Raatikainen vs Brann Dailor | [jaska-raatikainen-vs-brann-dailor.md](https://metalforge.io/llms/vs/jaska-raatikainen-vs-brann-dailor.md) |
+| Ben Koller vs Brann Dailor | [ben-koller-vs-brann-dailor.md](https://metalforge.io/llms/vs/ben-koller-vs-brann-dailor.md) |
+| Ben Koller vs Gavin Harrison | [ben-koller-vs-gavin-harrison.md](https://metalforge.io/llms/vs/ben-koller-vs-gavin-harrison.md) |
+| Ben Koller vs Hellhammer | [ben-koller-vs-hellhammer.md](https://metalforge.io/llms/vs/ben-koller-vs-hellhammer.md) |
+| Brann Dailor vs Hellhammer | [brann-dailor-vs-hellhammer.md](https://metalforge.io/llms/vs/brann-dailor-vs-hellhammer.md) |
+| Brann Dailor vs John Otto | [brann-dailor-vs-john-otto.md](https://metalforge.io/llms/vs/brann-dailor-vs-john-otto.md) |
+| Gavin Harrison vs Hellhammer | [gavin-harrison-vs-hellhammer.md](https://metalforge.io/llms/vs/gavin-harrison-vs-hellhammer.md) |
+| Gavin Harrison vs John Otto | [gavin-harrison-vs-john-otto.md](https://metalforge.io/llms/vs/gavin-harrison-vs-john-otto.md) |
+| Hellhammer vs John Otto | [hellhammer-vs-john-otto.md](https://metalforge.io/llms/vs/hellhammer-vs-john-otto.md) |
+| Mario Duplantier vs Gavin Harrison | [mario-duplantier-vs-gavin-harrison.md](https://metalforge.io/llms/vs/mario-duplantier-vs-gavin-harrison.md) |
+| Jaska Raatikainen vs Gavin Harrison | [jaska-raatikainen-vs-gavin-harrison.md](https://metalforge.io/llms/vs/jaska-raatikainen-vs-gavin-harrison.md) |
+| Jaska Raatikainen vs John Otto | [jaska-raatikainen-vs-john-otto.md](https://metalforge.io/llms/vs/jaska-raatikainen-vs-john-otto.md) |
+| Eloy Casagrande vs Ben Koller | [eloy-casagrande-vs-ben-koller.md](https://metalforge.io/llms/vs/eloy-casagrande-vs-ben-koller.md) |
+| Eloy Casagrande vs Hellhammer | [eloy-casagrande-vs-hellhammer.md](https://metalforge.io/llms/vs/eloy-casagrande-vs-hellhammer.md) |
+| Bill Ward vs Matt Greiner | [bill-ward-vs-matt-greiner.md](https://metalforge.io/llms/vs/bill-ward-vs-matt-greiner.md) |
+| Bill Ward vs Gavin Harrison | [bill-ward-vs-gavin-harrison.md](https://metalforge.io/llms/vs/bill-ward-vs-gavin-harrison.md) |
+| Matt Greiner vs Hellhammer | [matt-greiner-vs-hellhammer.md](https://metalforge.io/llms/vs/matt-greiner-vs-hellhammer.md) |
+| Matt Greiner vs John Otto | [matt-greiner-vs-john-otto.md](https://metalforge.io/llms/vs/matt-greiner-vs-john-otto.md) |
+| Mario Duplantier vs Ben Koller | [mario-duplantier-vs-ben-koller.md](https://metalforge.io/llms/vs/mario-duplantier-vs-ben-koller.md) |
 
 ---
 

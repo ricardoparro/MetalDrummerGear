@@ -330,7 +330,7 @@ const battleSlugs = CURATED_MATCHUPS.map(m => {
 // Issue #4327: no drummer record carries a `gear.pedals` field — pedal gear
 // only ever exists as free text inside `gear.hardware` — so `pedals` needs the
 // same keyword extraction the renderer now uses, not a raw field lookup.
-const GEAR_CATEGORIES = ['cymbals', 'drums', 'pedals', 'hardware', 'snare', 'sticks'];
+const GEAR_CATEGORIES = ['cymbals', 'drums', 'pedals', 'hardware', 'snare', 'sticks', 'heads'];
 const PEDAL_KEYWORDS = ['pedal', 'cobra', 'demon', 'eliminator', 'speed'];
 function extractPedals(hardwareString) {
   if (!hardwareString) return null;

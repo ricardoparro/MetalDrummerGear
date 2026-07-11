@@ -2611,6 +2611,21 @@ function getMetaForPath(pathname) {
         href: `/lists/${list.slug}`,
         label: list.title,
       })),
+      // Issue #4359: CollectionPage schema — /lists had zero JSON-LD despite
+      // being sitemap priority 0.9 and linked from nav.
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Top 10 Metal Drummer Lists',
+        description: 'Ranked lists of the best metal drummers by speed, technique, and genre.',
+        url: `${BASE_URL}/lists`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+        hasPart: Object.values(TOP_10_LISTS).map(list => ({
+          '@type': 'ItemList',
+          name: list.title,
+          url: `${BASE_URL}/lists/${list.slug}`,
+        })),
+      }),
     };
   }
 

@@ -116,6 +116,7 @@ function BestForMetalLink({ theme, onNavigate }) {
 // to anchor the crop at; anything not listed keeps the centered default.
 const FACE_FOCUS = {
   'danny-carey': '8%',
+  'dirk-verbeuren': '8%',
   'nicko-mcbrain': '12%',
   'gene-hoglan': '12%',
   'joey-jordison': '22%',

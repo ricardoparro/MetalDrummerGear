@@ -50,6 +50,43 @@ import { drummerBirthdays } from '../../packages/frontend/data/birthdays.js';
 // were rendering title/description-only stubs (or falling through to the generic
 // /guides/<slug> fallback) with zero HowTo/FAQPage JSON-LD in bot-facing SSR.
 import BEGINNER_GUIDES, { generateBeginnerGuideSchema, generateBeginnerFaqSchema } from '../../packages/frontend/data/beginnerGuides.js';
+// Issue #4282: SSR meta + JSON-LD for the /drumsticks* route family (epic #4135,
+// phases #4136-#4139) — previously fell through to the generic homepage shell
+// under bot UA despite being fully built out and sitemap-listed.
+import { DRUMSTICKS } from '../../packages/frontend/data/drumsticks.js';
+import {
+  PILLAR_PAGE,
+  getReferencePage,
+  isValidReferenceSlug,
+  generateCanonicalUrl as generateDrumstickCanonicalUrl,
+  generateFaqSchema as generateDrumstickFaqSchema,
+  generateArticleSchema as generateDrumstickArticleSchema,
+} from '../../packages/frontend/data/drumstickReferencePages.js';
+import {
+  DRUMSTICK_BRANDS,
+  getBrand,
+  getConfirmedSticksForBrand,
+  generateBrandCanonicalUrl,
+  generateBrandsHubCanonicalUrl,
+  generateBrandTitle,
+  generateBrandDescription,
+  generateBrandSchema,
+  generateBrandsHubSchema,
+} from '../../packages/frontend/data/drumstickBrands.js';
+import {
+  getSignatureStickPageData,
+  generateSignatureStickTitle,
+  generateSignatureStickDescription,
+  generateSignatureStickSchema,
+} from '../../packages/frontend/data/signatureStickPages.js';
+import {
+  BEST_FOR_METAL_PAGE,
+  generateBestForMetalCanonicalUrl,
+  generateBestForMetalFaqSchema,
+  generateBestForMetalArticleSchema,
+  generateBestForMetalItemListSchema,
+  generateBestForMetalBreadcrumbSchema,
+} from '../../packages/frontend/data/drumstickBestForMetal.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -3317,6 +3354,160 @@ function getMetaForPath(pathname) {
         { name: 'Home', url: BASE_URL },
         { name: 'BPM Calculator', url: `${BASE_URL}/bpm` },
       ],
+    };
+  }
+
+  // Issue #4282: /drumsticks pillar hub — ItemList (one entry per confirmed
+  // signature/endorsed stick) + Article + FAQPage + BreadcrumbList.
+  if (path === '/drumsticks') {
+    const url = generateDrumstickCanonicalUrl();
+    const itemListSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: 'Metal drummer signature and endorsed drumsticks',
+      numberOfItems: DRUMSTICKS.length,
+      itemListElement: DRUMSTICKS.map((stick, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        item: {
+          '@type': 'Product',
+          name: `${stick.brand} ${stick.model}`,
+          brand: { '@type': 'Brand', name: stick.brand },
+          category: 'Drumsticks',
+          material: stick.material,
+          url: `${BASE_URL}/drumsticks/signature/${stick.drummerSlug}`,
+        },
+      })),
+    };
+    return {
+      title: PILLAR_PAGE.title,
+      description: truncate(PILLAR_PAGE.description, 160),
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url,
+      articleSchema: JSON.stringify([
+        generateDrumstickArticleSchema(PILLAR_PAGE, url),
+        itemListSchema,
+        generateDrumstickFaqSchema(PILLAR_PAGE.faq),
+        {
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+            { '@type': 'ListItem', position: 2, name: 'Drumsticks', item: url },
+          ],
+        },
+      ].filter(Boolean)),
+    };
+  }
+
+  // Issue #4282: /drumsticks/brands hub — ItemList (one entry per brand) + BreadcrumbList.
+  if (path === '/drumsticks/brands') {
+    const url = generateBrandsHubCanonicalUrl();
+    return {
+      title: `Drumstick Brands: Positioning & Which Metal Drummers Use Them | ${SITE_NAME}`,
+      description: `Compare ${DRUMSTICK_BRANDS.length} drumstick brands — company background, notable product lines, and confirmed metal drummer endorsements.`,
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url,
+      articleSchema: JSON.stringify(generateBrandsHubSchema()),
+    };
+  }
+
+  // Issue #4282: /drumsticks/brands/<brand> — Brand + ItemList (confirmed sticks) + BreadcrumbList.
+  const drumstickBrandMatch = path.match(/^\/drumsticks\/brands\/([a-z0-9-]+)$/);
+  if (drumstickBrandMatch) {
+    const brand = getBrand(drumstickBrandMatch[1]);
+    if (brand) {
+      const confirmedSticks = getConfirmedSticksForBrand(brand);
+      return {
+        title: generateBrandTitle(brand),
+        description: truncate(generateBrandDescription(brand, confirmedSticks), 160),
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: generateBrandCanonicalUrl(brand.slug),
+        articleSchema: JSON.stringify(generateBrandSchema(brand, confirmedSticks)),
+      };
+    }
+  }
+
+  // Issue #4282: /drumsticks/best-for-metal buying guide — Article + ItemList
+  // (confirmed sticks) + FAQPage + BreadcrumbList.
+  if (path === '/drumsticks/best-for-metal') {
+    const url = generateBestForMetalCanonicalUrl();
+    return {
+      title: BEST_FOR_METAL_PAGE.title,
+      description: truncate(BEST_FOR_METAL_PAGE.description, 160),
+      image: DEFAULT_IMAGE,
+      type: 'article',
+      url,
+      articleSchema: JSON.stringify([
+        generateBestForMetalArticleSchema(),
+        generateBestForMetalItemListSchema(DRUMSTICKS),
+        generateBestForMetalFaqSchema(),
+        generateBestForMetalBreadcrumbSchema(),
+      ].filter(Boolean)),
+    };
+  }
+
+  // Issue #4282: /drumsticks/signature/<drummer> — Product (signature stick) +
+  // BreadcrumbList linking back to /drumsticks and to /drummer/<slug>.
+  const signatureStickMatch = path.match(/^\/drumsticks\/signature\/([a-z0-9-]+)$/);
+  if (signatureStickMatch) {
+    const slug = signatureStickMatch[1];
+    const drummer = getDrummerBySlug(slug);
+    const data = drummer ? getSignatureStickPageData(slug, drummer.name) : null;
+    if (data) {
+      const [productSchema] = generateSignatureStickSchema(data) || [];
+      return {
+        title: generateSignatureStickTitle(data),
+        description: truncate(generateSignatureStickDescription(data), 160),
+        image: DEFAULT_IMAGE,
+        type: 'article',
+        url: data.canonicalUrl,
+        articleSchema: JSON.stringify([
+          productSchema,
+          {
+            '@context': 'https://schema.org',
+            '@type': 'BreadcrumbList',
+            itemListElement: [
+              { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+              { '@type': 'ListItem', position: 2, name: 'Drumsticks', item: `${BASE_URL}/drumsticks` },
+              { '@type': 'ListItem', position: 3, name: drummer.name, item: `${BASE_URL}/drummer/${slug}` },
+              { '@type': 'ListItem', position: 4, name: `${drummer.name}'s Sticks`, item: data.canonicalUrl },
+            ],
+          },
+        ].filter(Boolean)),
+      };
+    }
+  }
+
+  // Issue #4282: /drumsticks/{sizes,materials,tips} reference pages — Article +
+  // FAQPage + BreadcrumbList.
+  const drumstickReferenceMatch = path.match(/^\/drumsticks\/([a-z]+)$/);
+  if (drumstickReferenceMatch && isValidReferenceSlug(drumstickReferenceMatch[1])) {
+    const slug = drumstickReferenceMatch[1];
+    const page = getReferencePage(slug);
+    const url = generateDrumstickCanonicalUrl(slug);
+    return {
+      title: page.title,
+      description: truncate(page.description, 160),
+      image: DEFAULT_IMAGE,
+      type: 'article',
+      url,
+      articleSchema: JSON.stringify([
+        generateDrumstickArticleSchema(page, url),
+        generateDrumstickFaqSchema(page.faq),
+        {
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+            { '@type': 'ListItem', position: 2, name: 'Drumsticks', item: `${BASE_URL}/drumsticks` },
+            { '@type': 'ListItem', position: 3, name: page.h1, item: url },
+          ],
+        },
+      ].filter(Boolean)),
     };
   }
 

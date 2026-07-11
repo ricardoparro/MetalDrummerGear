@@ -2800,3 +2800,26 @@ Metrics refreshed 19:24 UTC (185 users/226 sessions/446 views 7d; GSC 5,124 impr
 2. Re-verify `/drummers` bot shell after tomorrow's ~07:00 UTC deploy — should show 67 `<li>` links once #4356 goes live; if still zero, that's a real regression worth an issue.
 3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
 4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+## 2026-07-11 20:18 — Pulse: closed duplicate PR #4367 (3rd occurrence of duplicate-run pattern this week)
+
+### Context (≤3 lines)
+Metrics refreshed 20:16 UTC (185 users/226 sessions/447 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Backlog was 3 eligible `ai-fix`, 1 open PR (#4367, CONFLICTING). 0 fresh untriaged `seo-proposal`.
+
+### Actions taken
+- Investigated PR #4367 (CONFLICTING, ~47 min old) instead of leaving it to self-heal: `gh issue view 4361` showed the source issue already **CLOSED** at 19:47:31 UTC via PR #4366 (merged same second), which implements the identical fix (exclude 7 zero-drummer `/gear/<brand>/<series>/drummers-using` sitemap entries). #4367 started 16 seconds before #4366 merged and is now redundant + conflicting against main. Closed #4367 with a comment linking #4366. This is the **3rd instance** of the duplicate-run PR pattern this week (after #4304/#4323/#4320 and #4309/#4325) — worth flagging to Ricardo/Roadie maintainers as a systemic dispatch-race issue if a 4th instance appears (two Roadie runs picking up the same issue before the first one's merge is visible to the second).
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: oldest open `ai-fix` is #4205 (~44h old) — under the 72h trigger, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
+
+### State delta
+- Open PRs: 1 (CONFLICTING) → 0
+- ai-fix backlog: 3 (unchanged, no new promotions this run)
+- Org/Sessions/Views (7d): 185/226/447 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: none fresh to triage. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 3 with 0 open PRs — watch for Roadie to pick up the 3 remaining CI-check issues (#4205/#4267/#4276) and for the SEO Agent's next proposal batch.
+2. If a 4th duplicate-run PR instance appears this week, escalate the dispatch-race pattern as a `human-founder`/infra concern rather than continuing to clean up silently.
+3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.

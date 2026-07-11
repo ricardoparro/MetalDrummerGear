@@ -724,6 +724,8 @@ export function buildSitemapXml() {
       // Issue #1702: Batch 3 — remaining 8 drummers added after 100% lick milestone.
       'jocke-wallgren', 'john-otto', 'jon-dette', 'kevin-talley',
       'morgan-agren', 'nick-augusto', 'ryan-van-poederooyen', 'tim-yeung',
+      // Issue #4275: closes final 4-drummer gap — 100% lick sitemap coverage.
+      'adrian-erlandsson', 'martin-axenrot', 'nick-menza', 'sean-reinert',
     ].map(slug => ({ loc: `/llms/licks/${slug}.md`, priority: '0.5', changefreq: 'monthly' }))),
     // Issue #1271: per-series LLM Markdown files for AI citation.
     // Slugs derived from GEAR_INDEX (same slugifyGearSeries logic used for HTML pages)

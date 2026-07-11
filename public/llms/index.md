@@ -1,6 +1,6 @@
 # MetalForge - LLM Content Index
 
-> Last updated: 2026-07-10
+> Last updated: 2026-07-11
 > Source: https://metalforge.io
 
 ## About MetalForge
@@ -60,12 +60,12 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Per-Drummer Lick Files | https://metalforge.io/llms/licks/ | Individual lick breakdown LLM files for all 67 drummers (67 files) |
 | Per-Technique Files | https://metalforge.io/llms/technique/ | Deep-dive technique files: blast-beat, double-bass, gravity-blast, etc. (10 files) |
 | Gear Series Files | https://metalforge.io/llms/gear-series/ | Per-gear-model LLM files covering specs and user profiles (36 files) |
-| Per-Drummer Endorsements | https://metalforge.io/llms/endorsements/ | Individual brand endorsement histories per drummer (15 files) |
+| Per-Drummer Endorsements | https://metalforge.io/llms/endorsements/ | Individual brand endorsement histories per drummer (67 files) |
 | Genre Guides | https://metalforge.io/llms/genres/ | Per-genre LLM guides covering featured drummers, techniques, gear, and FAQ — thrash, death, black, progressive, nu-metal, groove, metalcore, hardcore (8 files) |
 
 ---
 
-## Drummer Profiles (63 total)
+## Drummer Profiles (67 total)
 
 | Drummer | Band | Genre | Profile | Markdown API |
 |---------|------|-------|---------|--------------|
@@ -130,10 +130,16 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Tim Yeung | Morbid Angel / Hate Eternal / Vital Remains | Death Metal / Technical Death Metal | [Profile](https://metalforge.io/drummer/tim-yeung) | [Markdown](https://metalforge.io/api/drummer/tim-yeung/markdown) |
 | Kevin Talley | Dying Fetus / Misery Index / Six Feet Under | Brutal Death Metal / Grindcore | [Profile](https://metalforge.io/drummer/kevin-talley) | [Markdown](https://metalforge.io/api/drummer/kevin-talley/markdown) |
 | Isaac Lamb | Kublai Khan TX | Metalcore / Beatdown Hardcore | [Profile](https://metalforge.io/drummer/isaac-lamb) | [Markdown](https://metalforge.io/api/drummer/isaac-lamb/markdown) |
+| Martin Axenrot | Opeth | Progressive Metal / Progressive Death Metal | [Profile](https://metalforge.io/drummer/martin-axenrot) | [Markdown](https://metalforge.io/api/drummer/martin-axenrot/markdown) |
+| Paul Bostaph | Slayer | Thrash Metal | [Profile](https://metalforge.io/drummer/paul-bostaph) | [Markdown](https://metalforge.io/api/drummer/paul-bostaph/markdown) |
+| Sean Reinert | Death / Cynic | Progressive Death Metal / Technical Death Metal | [Profile](https://metalforge.io/drummer/sean-reinert) | [Markdown](https://metalforge.io/api/drummer/sean-reinert/markdown) |
+| Nick Menza | Megadeth | Thrash Metal | [Profile](https://metalforge.io/drummer/nick-menza) | [Markdown](https://metalforge.io/api/drummer/nick-menza/markdown) |
+| Adrian Erlandsson | At the Gates | Melodic Death Metal | [Profile](https://metalforge.io/drummer/adrian-erlandsson) | [Markdown](https://metalforge.io/api/drummer/adrian-erlandsson/markdown) |
+| Jon Dette | Slayer | Thrash Metal | [Profile](https://metalforge.io/drummer/jon-dette) | [Markdown](https://metalforge.io/api/drummer/jon-dette/markdown) |
 
 ---
 
-## Per-Drummer LLM Files (63 total)
+## Per-Drummer LLM Files (67 total)
 
 Static LLM-optimised files for every drummer — gear specs, primary brands, technique notes, and profile links.
 Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or "which cymbals does Joey Jordison use?".
@@ -201,6 +207,12 @@ Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or 
 | Tomas Haake | [tomas-haake.md](https://metalforge.io/llms/drummers/tomas-haake.md) |
 | Travis Orbin | [travis-orbin.md](https://metalforge.io/llms/drummers/travis-orbin.md) |
 | Vinnie Paul | [vinnie-paul.md](https://metalforge.io/llms/drummers/vinnie-paul.md) |
+| Martin Axenrot | [martin-axenrot.md](https://metalforge.io/llms/drummers/martin-axenrot.md) |
+| Paul Bostaph | [paul-bostaph.md](https://metalforge.io/llms/drummers/paul-bostaph.md) |
+| Sean Reinert | [sean-reinert.md](https://metalforge.io/llms/drummers/sean-reinert.md) |
+| Nick Menza | [nick-menza.md](https://metalforge.io/llms/drummers/nick-menza.md) |
+| Adrian Erlandsson | [adrian-erlandsson.md](https://metalforge.io/llms/drummers/adrian-erlandsson.md) |
+| Jon Dette | [jon-dette.md](https://metalforge.io/llms/drummers/jon-dette.md) |
 
 ---
 
@@ -405,7 +417,7 @@ like "which metal drummers use the Pearl Reference Pure?" or "who plays Tama Sta
 
 ---
 
-## Licks per Drummer (63 total)
+## Licks per Drummer (67 total)
 
 Per-drummer signature lick files (800–10,000+ chars each) optimised for AI retrieval on queries
 like "how to play like [drummer]?" or "[drummer] signature drum patterns".
@@ -467,6 +479,18 @@ like "how to play like [drummer]?" or "[drummer] signature drum patterns".
 | Shannon Larkin | Godsmack | [shannon-larkin.md](https://metalforge.io/llms/licks/shannon-larkin.md) |
 | Travis Orbin | Darkest Hour / ex-Periphery | [travis-orbin.md](https://metalforge.io/llms/licks/travis-orbin.md) |
 | Vinnie Paul | Pantera | [vinnie-paul.md](https://metalforge.io/llms/licks/vinnie-paul.md) |
+| John Otto | Limp Bizkit | [john-otto.md](https://metalforge.io/llms/licks/john-otto.md) |
+| Morgan Ågren | Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects | [morgan-agren.md](https://metalforge.io/llms/licks/morgan-agren.md) |
+| Nick Augusto | ex-Trivium | [nick-augusto.md](https://metalforge.io/llms/licks/nick-augusto.md) |
+| Ryan Van Poederooyen | Devin Townsend Project | [ryan-van-poederooyen.md](https://metalforge.io/llms/licks/ryan-van-poederooyen.md) |
+| Jocke Wallgren | Amon Amarth | [jocke-wallgren.md](https://metalforge.io/llms/licks/jocke-wallgren.md) |
+| Tim Yeung | Morbid Angel / Hate Eternal / Vital Remains | [tim-yeung.md](https://metalforge.io/llms/licks/tim-yeung.md) |
+| Kevin Talley | Dying Fetus / Misery Index / Six Feet Under | [kevin-talley.md](https://metalforge.io/llms/licks/kevin-talley.md) |
+| Martin Axenrot | Opeth | [martin-axenrot.md](https://metalforge.io/llms/licks/martin-axenrot.md) |
+| Sean Reinert | Death / Cynic | [sean-reinert.md](https://metalforge.io/llms/licks/sean-reinert.md) |
+| Nick Menza | Megadeth | [nick-menza.md](https://metalforge.io/llms/licks/nick-menza.md) |
+| Adrian Erlandsson | At the Gates | [adrian-erlandsson.md](https://metalforge.io/llms/licks/adrian-erlandsson.md) |
+| Jon Dette | Slayer | [jon-dette.md](https://metalforge.io/llms/licks/jon-dette.md) |
 
 ---
 
@@ -514,12 +538,12 @@ Per-brand deep-dive files optimised for AI retrieval on queries like "which meta
 
 ---
 
-## Endorsements (per-drummer, 15 total)
+## Endorsements (per-drummer, 67 total)
 
 Per-drummer endorsement files listing official brand contracts and gear sponsorships. Optimised for AI
 retrieval on queries like "who does Lars Ulrich endorse?" or "what brands sponsor Joey Jordison?".
 
-Hub: [/llms/endorsements.md](https://metalforge.io/llms/endorsements.md) — aggregate overview for all 15 drummers.
+Hub: [/llms/endorsements.md](https://metalforge.io/llms/endorsements.md) — aggregate overview for all 67 drummers.
 
 | Drummer | File |
 |---------|------|
@@ -538,6 +562,58 @@ Hub: [/llms/endorsements.md](https://metalforge.io/llms/endorsements.md) — agg
 | Matt Halpern | [matt-halpern.md](https://metalforge.io/llms/endorsements/matt-halpern.md) |
 | Inferno | [inferno.md](https://metalforge.io/llms/endorsements/inferno.md) |
 | Charlie Benante | [charlie-benante.md](https://metalforge.io/llms/endorsements/charlie-benante.md) |
+| Gene Hoglan | [gene-hoglan.md](https://metalforge.io/llms/endorsements/gene-hoglan.md) |
+| Ray Luzier | [ray-luzier.md](https://metalforge.io/llms/endorsements/ray-luzier.md) |
+| John Otto | [john-otto.md](https://metalforge.io/llms/endorsements/john-otto.md) |
+| Vinnie Paul | [vinnie-paul.md](https://metalforge.io/llms/endorsements/vinnie-paul.md) |
+| Hellhammer | [hellhammer.md](https://metalforge.io/llms/endorsements/hellhammer.md) |
+| Pete Sandoval | [pete-sandoval.md](https://metalforge.io/llms/endorsements/pete-sandoval.md) |
+| Art Cruz | [art-cruz.md](https://metalforge.io/llms/endorsements/art-cruz.md) |
+| Arin Ilejay | [arin-ilejay.md](https://metalforge.io/llms/endorsements/arin-ilejay.md) |
+| Navene Koperweis | [navene-koperweis.md](https://metalforge.io/llms/endorsements/navene-koperweis.md) |
+| Alex Bent | [alex-bent.md](https://metalforge.io/llms/endorsements/alex-bent.md) |
+| Shannon Larkin | [shannon-larkin.md](https://metalforge.io/llms/endorsements/shannon-larkin.md) |
+| Raymond Herrera | [raymond-herrera.md](https://metalforge.io/llms/endorsements/raymond-herrera.md) |
+| Morgan Ågren | [morgan-agren.md](https://metalforge.io/llms/endorsements/morgan-agren.md) |
+| Igor Cavalera | [igor-cavalera.md](https://metalforge.io/llms/endorsements/igor-cavalera.md) |
+| Bill Ward | [bill-ward.md](https://metalforge.io/llms/endorsements/bill-ward.md) |
+| Nick Augusto | [nick-augusto.md](https://metalforge.io/llms/endorsements/nick-augusto.md) |
+| Chris Turner | [chris-turner.md](https://metalforge.io/llms/endorsements/chris-turner.md) |
+| Matt Greiner | [matt-greiner.md](https://metalforge.io/llms/endorsements/matt-greiner.md) |
+| Blake Richardson | [blake-richardson.md](https://metalforge.io/llms/endorsements/blake-richardson.md) |
+| Ben Koller | [ben-koller.md](https://metalforge.io/llms/endorsements/ben-koller.md) |
+| Flo Mounier | [flo-mounier.md](https://metalforge.io/llms/endorsements/flo-mounier.md) |
+| Jason Bittner | [jason-bittner.md](https://metalforge.io/llms/endorsements/jason-bittner.md) |
+| Martin Lopez | [martin-lopez.md](https://metalforge.io/llms/endorsements/martin-lopez.md) |
+| Travis Orbin | [travis-orbin.md](https://metalforge.io/llms/endorsements/travis-orbin.md) |
+| Ryan Van Poederooyen | [ryan-van-poederooyen.md](https://metalforge.io/llms/endorsements/ryan-van-poederooyen.md) |
+| Nicko McBrain | [nicko-mcbrain.md](https://metalforge.io/llms/endorsements/nicko-mcbrain.md) |
+| Scott Travis | [scott-travis.md](https://metalforge.io/llms/endorsements/scott-travis.md) |
+| Mikkey Dee | [mikkey-dee.md](https://metalforge.io/llms/endorsements/mikkey-dee.md) |
+| Derek Roddy | [derek-roddy.md](https://metalforge.io/llms/endorsements/derek-roddy.md) |
+| Dirk Verbeuren | [dirk-verbeuren.md](https://metalforge.io/llms/endorsements/dirk-verbeuren.md) |
+| Frost | [frost.md](https://metalforge.io/llms/endorsements/frost.md) |
+| Gavin Harrison | [gavin-harrison.md](https://metalforge.io/llms/endorsements/gavin-harrison.md) |
+| Abe Cunningham | [abe-cunningham.md](https://metalforge.io/llms/endorsements/abe-cunningham.md) |
+| Richard Christy | [richard-christy.md](https://metalforge.io/llms/endorsements/richard-christy.md) |
+| Aquiles Priester | [aquiles-priester.md](https://metalforge.io/llms/endorsements/aquiles-priester.md) |
+| Paul Mazurkiewicz | [paul-mazurkiewicz.md](https://metalforge.io/llms/endorsements/paul-mazurkiewicz.md) |
+| Mike Mangini | [mike-mangini.md](https://metalforge.io/llms/endorsements/mike-mangini.md) |
+| Matt Garstka | [matt-garstka.md](https://metalforge.io/llms/endorsements/matt-garstka.md) |
+| Daniel Erlandsson | [daniel-erlandsson.md](https://metalforge.io/llms/endorsements/daniel-erlandsson.md) |
+| Jaska Raatikainen | [jaska-raatikainen.md](https://metalforge.io/llms/endorsements/jaska-raatikainen.md) |
+| Hannes Grossmann | [hannes-grossmann.md](https://metalforge.io/llms/endorsements/hannes-grossmann.md) |
+| Daray | [daray.md](https://metalforge.io/llms/endorsements/daray.md) |
+| Jocke Wallgren | [jocke-wallgren.md](https://metalforge.io/llms/endorsements/jocke-wallgren.md) |
+| Tim Yeung | [tim-yeung.md](https://metalforge.io/llms/endorsements/tim-yeung.md) |
+| Kevin Talley | [kevin-talley.md](https://metalforge.io/llms/endorsements/kevin-talley.md) |
+| Isaac Lamb | [isaac-lamb.md](https://metalforge.io/llms/endorsements/isaac-lamb.md) |
+| Martin Axenrot | [martin-axenrot.md](https://metalforge.io/llms/endorsements/martin-axenrot.md) |
+| Paul Bostaph | [paul-bostaph.md](https://metalforge.io/llms/endorsements/paul-bostaph.md) |
+| Sean Reinert | [sean-reinert.md](https://metalforge.io/llms/endorsements/sean-reinert.md) |
+| Nick Menza | [nick-menza.md](https://metalforge.io/llms/endorsements/nick-menza.md) |
+| Adrian Erlandsson | [adrian-erlandsson.md](https://metalforge.io/llms/endorsements/adrian-erlandsson.md) |
+| Jon Dette | [jon-dette.md](https://metalforge.io/llms/endorsements/jon-dette.md) |
 
 ---
 

@@ -95,6 +95,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Chris Turner's snare: Tama S.L.P. 14x5.5" G-Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Chris Turner's cymbals: Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | Byzance | Dual Hi-Hats |
+| crash | 18" | Byzance | Extra Dry Medium Crash |
+| crash | 20" | Byzance | Extra Dry Medium Crash |
+| ride | 22" | Byzance | Dual Ride |
+| china | 18" | Byzance | Extra Dry China |
+
+Full breakdown: [Chris Turner's cymbal setup](https://metalforge.io/cymbals/setups/chris-turner).
+
 ---
 
 **Full interactive profile:** [Chris Turner on MetalForge](https://metalforge.io/drummer/chris-turner)

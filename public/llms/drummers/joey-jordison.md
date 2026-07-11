@@ -127,6 +127,23 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Joey Jordison plays a signature snare: the Pearl Joey Jordison Signature (13x6.5"). Full specs: [Joey Jordison's signature snare](https://metalforge.io/snares/signature/joey-jordison).
 
+## Cymbal Setup
+
+Joey Jordison's cymbals: Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE & 2002 | Wild Hi-Hats |
+| crash | 16" | RUDE & 2002 | Power Crash |
+| crash | 17" | RUDE & 2002 | Power Crash |
+| crash | 18" | RUDE & 2002 | Power Crash |
+| crash | 19" | RUDE & 2002 | Power Crash |
+| china | 20" | RUDE & 2002 | Wild China |
+| china | 22" | RUDE & 2002 | Wild China |
+| ride | 22" | RUDE & 2002 | Power Ride |
+
+Full breakdown: [Joey Jordison's cymbal setup](https://metalforge.io/cymbals/setups/joey-jordison).
+
 ---
 
 **Full interactive profile:** [Joey Jordison on MetalForge](https://metalforge.io/drummer/joey-jordison)

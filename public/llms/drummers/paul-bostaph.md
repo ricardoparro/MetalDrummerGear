@@ -84,6 +84,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Paul Bostaph's snare: Pearl Masters Steel 14x6.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Paul Bostaph's cymbals: Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | AAX | Stage Hi-Hats |
+| crash | 17" | AAX | X-Plosion Crash |
+| crash | 19" | AAX | X-Plosion Crash |
+| ride | 21" | AAX | Stage Ride |
+| china | 18" | AAX | AAXtreme China |
+
+Full breakdown: [Paul Bostaph's cymbal setup](https://metalforge.io/cymbals/setups/paul-bostaph).
+
 ---
 
 **Full interactive profile:** [Paul Bostaph on MetalForge](https://metalforge.io/drummer/paul-bostaph)

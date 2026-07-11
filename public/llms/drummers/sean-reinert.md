@@ -89,6 +89,21 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Sean Reinert's snare: Tama Artstar II Birch 14x5.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Sean Reinert's cymbals: Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A | Quick Beat Hi-Hats |
+| crash | 16" | A | Crash |
+| crash | 18" | A | Crash |
+| ride | 20" | K Custom | Dry Ride |
+| china | 16" | A/K | China |
+| splash | 10" | A | Splash |
+
+Full breakdown: [Sean Reinert's cymbal setup](https://metalforge.io/cymbals/setups/sean-reinert).
+
 ---
 
 **Full interactive profile:** [Sean Reinert on MetalForge](https://metalforge.io/drummer/sean-reinert)

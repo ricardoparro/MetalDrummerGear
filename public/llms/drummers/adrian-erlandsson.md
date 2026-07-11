@@ -91,6 +91,18 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Adrian Erlandsson's snare: Tama Starclassic Bubinga 14x6.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Adrian Erlandsson's cymbals: Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | HHX | Xcelerator Hi-Hats |
+| crash | 20" | AAX | Iso Crash |
+| china | 19" | AAX | Paragon China |
+
+Full breakdown: [Adrian Erlandsson's cymbal setup](https://metalforge.io/cymbals/setups/adrian-erlandsson).
+
 ---
 
 **Full interactive profile:** [Adrian Erlandsson on MetalForge](https://metalforge.io/drummer/adrian-erlandsson)

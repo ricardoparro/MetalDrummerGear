@@ -131,6 +131,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Dave Lombardo's snare: Tama S.L.P. 14x6.5" G-Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Dave Lombardo's cymbals: Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | RUDE & 2002 | Sound Edge Hi-Hats |
+| crash | 18" | RUDE & 2002 | Crash |
+| crash | 19" | RUDE & 2002 | Crash |
+| ride | 22" | RUDE & 2002 | Reign Power Ride |
+| china | 18" | RUDE & 2002 | China |
+
+Full breakdown: [Dave Lombardo's cymbal setup](https://metalforge.io/cymbals/setups/dave-lombardo).
+
 ---
 
 **Full interactive profile:** [Dave Lombardo on MetalForge](https://metalforge.io/drummer/dave-lombardo)

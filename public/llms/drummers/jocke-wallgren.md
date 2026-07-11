@@ -91,6 +91,19 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Jocke Wallgren's snare: Pearl Reference 14x6.5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Jocke Wallgren's cymbals: Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 18" | A Custom | Crash |
+| crash | 19" | A Custom | Crash |
+| ride | 21" | K Custom | Ride |
+
+Full breakdown: [Jocke Wallgren's cymbal setup](https://metalforge.io/cymbals/setups/jocke-wallgren).
+
 ---
 
 **Full interactive profile:** [Jocke Wallgren on MetalForge](https://metalforge.io/drummer/jocke-wallgren)

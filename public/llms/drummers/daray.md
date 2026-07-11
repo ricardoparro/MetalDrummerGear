@@ -91,6 +91,19 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Daray's snare: Pearl Reference 14x5.5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Daray's cymbals: Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE | Hi-Hats |
+| crash | 17" | RUDE | Crash |
+| crash | 18" | RUDE | Crash |
+| ride | 22" | RUDE | Power Ride |
+
+Full breakdown: [Daray's cymbal setup](https://metalforge.io/cymbals/setups/daray).
+
 ---
 
 **Full interactive profile:** [Daray on MetalForge](https://metalforge.io/drummer/daray)

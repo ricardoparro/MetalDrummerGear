@@ -101,6 +101,22 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Blake Richardson's snare: Tama STARPHONIC 14x6" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Blake Richardson's cymbals: Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | HHX | Evolution Hi-Hats |
+| crash | 18" | HHX | Evolution Crash |
+| china | 17" | AAX | Holy China |
+| china | 21" | AAX | Holy China |
+| ride | 21" | HH | Raw Bell Dry Ride |
+| splash | 10" | HH | Duo Splash |
+| other | 9" | Radia | Cup Chime |
+
+Full breakdown: [Blake Richardson's cymbal setup](https://metalforge.io/cymbals/setups/blake-richardson).
+
 ---
 
 **Full interactive profile:** [Blake Richardson on MetalForge](https://metalforge.io/drummer/blake-richardson)

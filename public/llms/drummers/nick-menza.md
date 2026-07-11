@@ -90,6 +90,19 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Nick Menza's snare: Tama Steel Snare 14x5.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Nick Menza's cymbals: Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A | Hi-Hats |
+| crash | 16" | A | Crash |
+| crash | 18" | A | Crash |
+| ride | 20" | A | Ride |
+
+Full breakdown: [Nick Menza's cymbal setup](https://metalforge.io/cymbals/setups/nick-menza).
+
 ---
 
 **Full interactive profile:** [Nick Menza on MetalForge](https://metalforge.io/drummer/nick-menza)

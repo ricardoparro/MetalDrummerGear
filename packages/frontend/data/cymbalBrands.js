@@ -152,7 +152,7 @@ export function generateBrandSchema(brand, confirmedSetups) {
           name: `${brand.name} cymbal setup`,
           brand: { '@type': 'Brand', name: brand.name },
           category: 'Cymbals',
-          url: `${BASE_URL}/drummer/${setup.drummerSlug}`,
+          url: `${BASE_URL}/cymbals/setups/${setup.drummerSlug}`,
         },
       })),
     });

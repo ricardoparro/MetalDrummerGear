@@ -100,6 +100,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Mikkey Dee plays a signature snare: the Yamaha Mikkey Dee Signature (14x8"). Full specs: [Mikkey Dee's signature snare](https://metalforge.io/snares/signature/mikkey-dee).
 
+## Cymbal Setup
+
+Mikkey Dee's cymbals: Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 18" | A Custom | Crash |
+| crash | 19" | A Custom | Crash |
+| ride | 22" | K Custom | Ride |
+| china | 20" | A Custom & K | Oriental China |
+
+Full breakdown: [Mikkey Dee's cymbal setup](https://metalforge.io/cymbals/setups/mikkey-dee).
+
 ---
 
 **Full interactive profile:** [Mikkey Dee on MetalForge](https://metalforge.io/drummer/mikkey-dee)

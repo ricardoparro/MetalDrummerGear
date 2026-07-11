@@ -89,6 +89,19 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Daniel Erlandsson plays a signature snare: the Pearl Daniel Erlandsson Signature (14x5.5"). Full specs: [Daniel Erlandsson's signature snare](https://metalforge.io/snares/signature/daniel-erlandsson).
 
+## Cymbal Setup
+
+Daniel Erlandsson's cymbals: Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE | Hi-Hats |
+| crash | 18" | RUDE | Crash |
+| crash | 19" | RUDE | Crash |
+| ride | 22" | RUDE | Power Ride |
+
+Full breakdown: [Daniel Erlandsson's cymbal setup](https://metalforge.io/cymbals/setups/daniel-erlandsson).
+
 ---
 
 **Full interactive profile:** [Daniel Erlandsson on MetalForge](https://metalforge.io/drummer/daniel-erlandsson)

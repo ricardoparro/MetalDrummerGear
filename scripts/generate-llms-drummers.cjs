@@ -94,6 +94,24 @@ try {
   console.warn('Could not load snares, continuing without them:', e.message);
 }
 
+// --- Load verified cymbal setups (index by drummerSlug) ---------------------------
+// Issue #4306 (phase 3/4 of epic #4303): cross-links the /cymbals/setups/<drummer>
+// pages into each drummer's markdown, same regex+eval extraction pattern used above.
+const cymbalSetupsPath = path.join(__dirname, '../packages/frontend/data/cymbalSetups.js');
+let cymbalSetupsByDrummerSlug = {};
+try {
+  const cymbalSetupsContent = fs.readFileSync(cymbalSetupsPath, 'utf-8');
+  const cymbalSetupsMatch = cymbalSetupsContent.match(/export const CYMBAL_SETUPS = (\[[\s\S]*?\n\]);/);
+  if (cymbalSetupsMatch) {
+    const cymbalSetups = eval(cymbalSetupsMatch[1]);
+    for (const setup of cymbalSetups) {
+      cymbalSetupsByDrummerSlug[setup.drummerSlug] = setup;
+    }
+  }
+} catch (e) {
+  console.warn('Could not load cymbal setups, continuing without them:', e.message);
+}
+
 const today = new Date().toISOString().split('T')[0];
 const BASE = 'https://metalforge.io';
 
@@ -262,6 +280,24 @@ function buildMarkdown(drummer) {
     } else {
       md += `${drummer.name}'s snare: ${snareRecord.summary}. See the [snares guide](${BASE}/snares) for shell, size, and tuning background.\n\n`;
     }
+  }
+
+  // --- Cymbal Setup cross-reference (Issue #4306, phase 3/4 of epic #4303) ------
+  // Omit the section entirely when there's no verified cymbal setup — never
+  // fabricate a setup-page link for an unverified drummer.
+  const cymbalSetup = cymbalSetupsByDrummerSlug[slug];
+  if (cymbalSetup) {
+    md += `## Cymbal Setup\n\n`;
+    md += `${drummer.name}'s cymbals: ${cymbalSetup.summary}.\n\n`;
+    if (cymbalSetup.pieces.length > 0) {
+      md += `| Piece | Size | Series | Model |\n`;
+      md += `|---|---|---|---|\n`;
+      for (const piece of cymbalSetup.pieces) {
+        md += `| ${piece.type} | ${piece.sizeIn}" | ${piece.series || '—'} | ${piece.model} |\n`;
+      }
+      md += `\n`;
+    }
+    md += `Full breakdown: [${drummer.name}'s cymbal setup](${BASE}/cymbals/setups/${slug}).\n\n`;
   }
 
   // --- Footer / cross-links ----------------------------------------------------

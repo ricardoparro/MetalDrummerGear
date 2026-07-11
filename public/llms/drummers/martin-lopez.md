@@ -101,6 +101,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Martin Lopez's snare: Noble & Cooley Solid Shell 14x6" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Martin Lopez's cymbals: Zildjian K Dark Series (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Dark | Thin Hi-Hats |
+| crash | 18" | K Dark | Medium Thin Crash |
+| crash | 20" | K Dark | Medium Thin Crash |
+| ride | 22" | K Dark | Light Ride |
+| china | 18" | K | China |
+
+Full breakdown: [Martin Lopez's cymbal setup](https://metalforge.io/cymbals/setups/martin-lopez).
+
 ---
 
 **Full interactive profile:** [Martin Lopez on MetalForge](https://metalforge.io/drummer/martin-lopez)

@@ -91,6 +91,21 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Navene Koperweis's snare: DW Performance 14x6.5" Steel. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Navene Koperweis's cymbals: Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | Byzance | Dual Hi-Hats |
+| crash | 18" | Byzance | Extra Dry Medium Crash |
+| crash | 19" | Byzance | Extra Dry Medium Crash |
+| ride | 21" | Byzance | Transition Ride |
+| china | 18" | Byzance | Extra Dry China |
+| splash | 10" | Byzance | Splash |
+
+Full breakdown: [Navene Koperweis's cymbal setup](https://metalforge.io/cymbals/setups/navene-koperweis).
+
 ---
 
 **Full interactive profile:** [Navene Koperweis on MetalForge](https://metalforge.io/drummer/navene-koperweis)

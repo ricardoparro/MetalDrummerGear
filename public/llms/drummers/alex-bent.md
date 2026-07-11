@@ -83,6 +83,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Alex Bent's snare: Pearl Reference 14x5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Alex Bent's cymbals: Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Custom Hybrid | Hi-Hats |
+| crash | 18" | K Custom Hybrid | Crash |
+| crash | 19" | K Custom Hybrid | Crash |
+| ride | 21" | K Custom Hybrid | Ride |
+| china | 18" | A Custom | China |
+
+Full breakdown: [Alex Bent's cymbal setup](https://metalforge.io/cymbals/setups/alex-bent).
+
 ---
 
 **Full interactive profile:** [Alex Bent on MetalForge](https://metalforge.io/drummer/alex-bent)

@@ -72,6 +72,10 @@ import { REFERENCE_PAGE_ORDER as SNARE_REFERENCE_PAGE_ORDER } from '../packages/
 import { SIGNATURE_SNARES } from '../packages/frontend/data/snares.js';
 // Issue #4307 (phase 4/4 of epic #4303): /cymbals/brands + per-brand pages.
 import { CYMBAL_BRANDS } from '../packages/frontend/data/cymbalBrands.js';
+// Issue #4306 (phase 3/4 of epic #4303): /cymbals/setups/<drummer> pages —
+// source slugs from the verified drummer→cymbal setup mapping so the sitemap
+// only ever lists drummers with a confirmed setup (no thin pages).
+import { DRUMMER_CYMBALS } from '../packages/frontend/data/cymbalSetups.js';
 // Issue #4274: Endorsement Tracker pages — source slugs directly from
 // ENDORSEMENT_TIMELINE so the sitemap can never drift out of sync again.
 import { ENDORSEMENT_TIMELINE } from '../packages/frontend/data/endorsementNews.js';
@@ -627,6 +631,9 @@ export function buildSitemapXml() {
     { loc: '/cymbals/brands', priority: '0.85', changefreq: 'monthly' },
     ...CYMBAL_BRANDS.map(brand => ({ loc: `/cymbals/brands/${brand.slug}`, priority: '0.8', changefreq: 'monthly' })),
     { loc: '/cymbals/best-for-metal', priority: '0.9', changefreq: 'monthly' },
+    // Issue #4306: /cymbals/setups/<drummer> pages (only drummers with a
+    // confirmed cymbal setup in DRUMMER_CYMBALS).
+    ...Object.keys(DRUMMER_CYMBALS).map(slug => ({ loc: `/cymbals/setups/${slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #4310: /snares pillar page + shells/sizes/tuning-for-metal reference pages.
     { loc: '/snares', priority: '0.9', changefreq: 'weekly' },
     ...SNARE_REFERENCE_PAGE_ORDER.map(slug => ({ loc: `/snares/${slug}`, priority: '0.85', changefreq: 'monthly' })),

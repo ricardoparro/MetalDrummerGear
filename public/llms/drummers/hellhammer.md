@@ -89,6 +89,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Hellhammer's snare: Sonor SQ2 14x5.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Hellhammer's cymbals: Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE | Hi-Hats |
+| crash | 18" | RUDE | Crash |
+| crash | 19" | RUDE | Crash |
+| ride | 20" | RUDE | Ride |
+| china | 18" | RUDE | China |
+
+Full breakdown: [Hellhammer's cymbal setup](https://metalforge.io/cymbals/setups/hellhammer).
+
 ---
 
 **Full interactive profile:** [Hellhammer on MetalForge](https://metalforge.io/drummer/hellhammer)

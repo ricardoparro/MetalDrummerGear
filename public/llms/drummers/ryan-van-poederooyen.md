@@ -101,6 +101,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Ryan Van Poederooyen's snare: Pearl Reference 14x6.5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Ryan Van Poederooyen's cymbals: Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | HHX | Evolution Hi-Hats |
+| crash | 18" | HHX | Evolution Crash |
+| crash | 20" | HHX | Evolution Crash |
+| ride | 21" | HHX | Raw Bell Dry Ride |
+| china | 19" | HHX & AAX | AAXtreme China |
+
+Full breakdown: [Ryan Van Poederooyen's cymbal setup](https://metalforge.io/cymbals/setups/ryan-van-poederooyen).
+
 ---
 
 **Full interactive profile:** [Ryan Van Poederooyen on MetalForge](https://metalforge.io/drummer/ryan-van-poederooyen)

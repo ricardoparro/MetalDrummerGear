@@ -85,6 +85,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Paul Mazurkiewicz's snare: Pearl Masters 14x6.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Paul Mazurkiewicz's cymbals: Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | AAX | Stage Hi-Hats |
+| crash | 18" | AAX | X-Plosion Crash |
+| crash | 19" | AAX | X-Plosion Crash |
+| ride | 21" | AAX | Raw Bell Dry Ride |
+| china | 18" | AAX | AAXtreme China |
+
+Full breakdown: [Paul Mazurkiewicz's cymbal setup](https://metalforge.io/cymbals/setups/paul-mazurkiewicz).
+
 ---
 
 **Full interactive profile:** [Paul Mazurkiewicz on MetalForge](https://metalforge.io/drummer/paul-mazurkiewicz)

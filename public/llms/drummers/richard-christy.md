@@ -102,6 +102,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Richard Christy's snare: Tama Starclassic 14x6.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Richard Christy's cymbals: Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | AAX | Stage Hi-Hats |
+| crash | 18" | AAX | X-Plosion Crash |
+| crash | 19" | AAX | X-Plosion Crash |
+| ride | 21" | HHX | Raw Bell Dry Ride |
+| china | 18" | AAX | Chinese |
+
+Full breakdown: [Richard Christy's cymbal setup](https://metalforge.io/cymbals/setups/richard-christy).
+
 ---
 
 **Full interactive profile:** [Richard Christy on MetalForge](https://metalforge.io/drummer/richard-christy)

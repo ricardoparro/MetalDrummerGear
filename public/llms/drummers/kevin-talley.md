@@ -90,6 +90,19 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Kevin Talley's snare: Pearl Masters 14x5.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Kevin Talley's cymbals: Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | AAX | Stage Hi-Hats |
+| crash | 17" | AAX | X-Plosion Crash |
+| crash | 18" | AAX | X-Plosion Crash |
+| ride | 20" | AAX | Stage Ride |
+
+Full breakdown: [Kevin Talley's cymbal setup](https://metalforge.io/cymbals/setups/kevin-talley).
+
 ---
 
 **Full interactive profile:** [Kevin Talley on MetalForge](https://metalforge.io/drummer/kevin-talley)

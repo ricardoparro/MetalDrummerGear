@@ -100,6 +100,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Jason Bittner's snare: Mapex Black Panther 14x6.5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Jason Bittner's cymbals: Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K | Hi-Hats |
+| crash | 18" | A Custom | Crash |
+| crash | 19" | A Custom | Crash |
+| ride | 21" | K Custom | Ride |
+| china | 18" | K | China |
+
+Full breakdown: [Jason Bittner's cymbal setup](https://metalforge.io/cymbals/setups/jason-bittner).
+
 ---
 
 **Full interactive profile:** [Jason Bittner on MetalForge](https://metalforge.io/drummer/jason-bittner)

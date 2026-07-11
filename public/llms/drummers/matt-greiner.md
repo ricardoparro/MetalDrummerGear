@@ -101,6 +101,22 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Matt Greiner's snare: Greiner & Kilmer Custom 14x6.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Matt Greiner's cymbals: Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | Byzance | Dual Hi-Hats |
+| crash | 18" | Byzance | Dual Crash |
+| crash | 19" | Byzance | Dual Crash |
+| ride | 21" | Byzance | Transition Ride |
+| china | 18" | Byzance | Extra Dry China |
+| splash | 10" | Byzance | Splash |
+| splash | 12" | Byzance | Splash |
+
+Full breakdown: [Matt Greiner's cymbal setup](https://metalforge.io/cymbals/setups/matt-greiner).
+
 ---
 
 **Full interactive profile:** [Matt Greiner on MetalForge](https://metalforge.io/drummer/matt-greiner)

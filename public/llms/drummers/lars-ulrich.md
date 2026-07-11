@@ -141,6 +141,21 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Lars Ulrich plays a signature snare: the Tama LU1465 Lars Ulrich Signature (14x6.5"). Full specs: [Lars Ulrich's signature snare](https://metalforge.io/snares/signature/lars-ulrich).
 
+## Cymbal Setup
+
+Lars Ulrich's cymbals: Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Dyno Beat Hi-Hats |
+| crash | 16" | A Custom | Rock Crash |
+| crash | 17" | A Custom | Rock Crash |
+| crash | 18" | A Custom | Rock Crash |
+| china | 20" | Z Custom | China |
+| ride | 22" | A Custom | Ride |
+
+Full breakdown: [Lars Ulrich's cymbal setup](https://metalforge.io/cymbals/setups/lars-ulrich).
+
 ---
 
 **Full interactive profile:** [Lars Ulrich on MetalForge](https://metalforge.io/drummer/lars-ulrich)

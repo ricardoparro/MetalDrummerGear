@@ -102,6 +102,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Derek Roddy's snare: Tama SLP Black Brass 14x6.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Derek Roddy's cymbals: Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | Byzance | Heavy Hi-Hats |
+| crash | 18" | Mb20 | Heavy Crash |
+| crash | 19" | Mb20 | Heavy Crash |
+| ride | 21" | Mb20 | Heavy Ride |
+| china | 18" | Byzance | China |
+
+Full breakdown: [Derek Roddy's cymbal setup](https://metalforge.io/cymbals/setups/derek-roddy).
+
 ---
 
 **Full interactive profile:** [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)

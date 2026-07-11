@@ -119,6 +119,22 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Tomas Haake plays a signature snare: the Sonor Tomas Haake Signature & Artist Series Bronze (14x6.5", Bronze shell). Full specs: [Tomas Haake's signature snare](https://metalforge.io/snares/signature/tomas-haake).
 
+## Cymbal Setup
+
+Tomas Haake's cymbals: Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | HHX | Compression Hi-Hats |
+| hi-hat | 15" | HHX & AAX | Artisan Hi-Hats |
+| crash | 19" | HHX | Stage Crash |
+| crash | 20" | HHX | Stage Crash |
+| crash | 21" | HHX | Stage Crash |
+| ride | 22" | HHX & AAX | Legacy Ride |
+| china | 19" | HHX & AAX | AAXtreme China |
+
+Full breakdown: [Tomas Haake's cymbal setup](https://metalforge.io/cymbals/setups/tomas-haake).
+
 ---
 
 **Full interactive profile:** [Tomas Haake on MetalForge](https://metalforge.io/drummer/tomas-haake)

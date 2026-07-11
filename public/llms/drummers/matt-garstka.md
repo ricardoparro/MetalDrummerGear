@@ -85,6 +85,19 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Matt Garstka's snare: Tama S.L.P. 14x6" G-Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Matt Garstka's cymbals: Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | Byzance | Dual Hi-Hats |
+| crash | 18" | Byzance | Extra Dry Medium Crash |
+| crash | 20" | Byzance | Extra Dry Medium Crash |
+| ride | 22" | Byzance | Dual Ride |
+
+Full breakdown: [Matt Garstka's cymbal setup](https://metalforge.io/cymbals/setups/matt-garstka).
+
 ---
 
 **Full interactive profile:** [Matt Garstka on MetalForge](https://metalforge.io/drummer/matt-garstka)

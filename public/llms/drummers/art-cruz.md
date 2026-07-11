@@ -84,6 +84,24 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Art Cruz's snare: Ludwig 14x6.5" Black Beauty. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Art Cruz's cymbals: Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom Mastersound | Hi-Hats |
+| other | 18" | A Custom | EFX |
+| crash | 18" | A Custom | Medium Crash |
+| crash | 19" | A Custom | Projection Crash |
+| crash | 20" | A Custom | Crash |
+| ride | 21" | A | Mega Bell Ride |
+| china | 19" | A | Ultra Hammered China |
+| china | 17" | K | China w/ EFX Holes |
+| splash | 9" | — | FX Trash Splash |
+
+Full breakdown: [Art Cruz's cymbal setup](https://metalforge.io/cymbals/setups/art-cruz).
+
 ---
 
 **Full interactive profile:** [Art Cruz on MetalForge](https://metalforge.io/drummer/art-cruz)

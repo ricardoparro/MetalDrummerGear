@@ -101,6 +101,24 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Eloy Casagrande's snare: Tama Bell Brass 14x5.5" (BB146). See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Eloy Casagrande's cymbals: Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | Masters Dark | Hi-Hats |
+| ride | 20" | Masters Dark | Ride |
+| crash | 20" | — | 602 Crash |
+| crash | 20" | — | 602 Crash |
+| splash | 10" | Rude | Splash |
+| crash | 20" | Masters Dark | Crash |
+| ride | 20" | 2002 | Heavy Ride |
+| china | 20" | 2002 | Novo China |
+| other | 10" | 2002 | Mega Bell |
+
+Full breakdown: [Eloy Casagrande's cymbal setup](https://metalforge.io/cymbals/setups/eloy-casagrande).
+
 ---
 
 **Full interactive profile:** [Eloy Casagrande on MetalForge](https://metalforge.io/drummer/eloy-casagrande)

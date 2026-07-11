@@ -131,6 +131,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Gene Hoglan's snare: Pearl Reference 14x6.5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Gene Hoglan's cymbals: Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | AAX | Hi-Hats |
+| crash | 18" | AAX | Crash |
+| crash | 20" | AAX | Crash |
+| ride | 22" | AAX | Ride |
+| china | 20" | AAX | China |
+
+Full breakdown: [Gene Hoglan's cymbal setup](https://metalforge.io/cymbals/setups/gene-hoglan).
+
 ---
 
 **Full interactive profile:** [Gene Hoglan on MetalForge](https://metalforge.io/drummer/gene-hoglan)

@@ -99,6 +99,21 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Frost's snare: Sonor SQ2 14x6" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Frost's cymbals: Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 16" | A Custom | Crash |
+| crash | 17" | A Custom | Crash |
+| crash | 18" | A Custom | Crash |
+| ride | 22" | K Custom Dark | Ride |
+| china | 18" | K | China |
+
+Full breakdown: [Frost's cymbal setup](https://metalforge.io/cymbals/setups/frost).
+
 ---
 
 **Full interactive profile:** [Frost on MetalForge](https://metalforge.io/drummer/frost)

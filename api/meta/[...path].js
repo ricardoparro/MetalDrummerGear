@@ -19,6 +19,9 @@ import { getTechniqueBySlug, getAllTechniques } from '../../packages/frontend/da
 import SIGNATURE_LICKS from '../../packages/frontend/data/licks/index.js';
 // Issue #1210: top-10 list page SSR meta for /lists/<slug>.
 import { TOP_10_LISTS } from '../../packages/frontend/data/top10Lists.js';
+// Issue #4355: /vs hub bot-shell links — same curated comparison set the
+// frontend /vs hub page itself renders (getAllDrummerComparisons()).
+import { drummerComparisons as DRUMMER_COMPARISONS } from '../../packages/frontend/data/drummerComparisons.js';
 // Issue #1379: /gear/<brand>/<series>/drummers-using SSR meta (~40 pages).
 // Issue #3714: GEAR_INDEX_BRAND_LEVEL adds brand-only "drummers using" pages
 // (Evans, Remo drumheads) at the reserved series slug (see BRAND_LEVEL_SERIES_SLUG).
@@ -500,6 +503,12 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/drummers`,
+      // Issue #4355: crawlable links to every drummer profile — the bot-facing
+      // shell previously had zero outbound links from this hub.
+      ssrLinks: drummers.map(d => ({
+        href: `/drummer/${_normalizeDrummerSlug(d.name)}`,
+        label: `${d.name} — ${d.band}`,
+      })),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@graph': [
@@ -612,6 +621,10 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/compare-preview.png`,
       type: 'website',
       url: `${BASE_URL}/vs`,
+      ssrLinks: Object.values(DRUMMER_COMPARISONS).map(c => ({
+        href: `/vs/${c.slug}`,
+        label: c.title,
+      })),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -686,6 +699,11 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/techniques-preview.png`,
       type: 'website',
       url: `${BASE_URL}/guides`,
+      ssrLinks: [
+        ...Object.values(BEGINNER_GUIDES).map(g => ({ href: `/guides/${g.slug}`, label: g.title })),
+        ...Object.values(SOUND_LIKE_GUIDES).map(g => ({ href: `/guides/${g.slug}`, label: g.title || g.name })),
+        ...Object.values(GENRE_GEAR_GUIDES).map(g => ({ href: `/guides/${g.slug}`, label: g.title })),
+      ],
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -905,6 +923,10 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/techniques-preview.png`,
       type: 'website',
       url: `${BASE_URL}/techniques`,
+      ssrLinks: getAllTechniques().map(t => ({
+        href: `/technique/${t.slug}`,
+        label: t.title,
+      })),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -1670,6 +1692,10 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/articles`,
+      ssrLinks: Object.values(ALBUM_ARTICLES).map(a => ({
+        href: `/articles/${a.slug}`,
+        label: a.title,
+      })),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -1758,6 +1784,10 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/bands`,
+      ssrLinks: Object.values(BAND_DATA).map(b => ({
+        href: `/bands/${b.slug}`,
+        label: b.name,
+      })),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -1875,6 +1905,10 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/genres`,
+      ssrLinks: getAllGenreSlugs().map(slug => ({
+        href: `/genre/${slug}`,
+        label: GENRES[slug].name,
+      })),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@graph': [
@@ -2550,6 +2584,10 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/lists`,
+      ssrLinks: Object.values(TOP_10_LISTS).map(list => ({
+        href: `/lists/${list.slug}`,
+        label: list.title,
+      })),
     };
   }
 
@@ -2916,6 +2954,10 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/battles`,
+      ssrLinks: Object.entries(BATTLE_BY_SLUG).map(([slug, b]) => ({
+        href: `/battles/${slug}`,
+        label: `${b.d1.name} vs ${b.d2.name}`,
+      })),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@graph': [

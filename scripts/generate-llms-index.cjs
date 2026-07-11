@@ -42,6 +42,22 @@ try {
   console.warn('Could not parse ALBUM_ARTICLES, continuing without Articles section:', e.message);
 }
 
+// Load drummer comparison slugs for the /llms/vs/ per-pair summary (#4298)
+const comparisonsPath = path.join(__dirname, '../packages/frontend/data/drummerComparisons.js');
+let comparisonCount = 0;
+try {
+  const comparisonsContent = fs.readFileSync(comparisonsPath, 'utf-8');
+  const objMatch = comparisonsContent.match(/export const drummerComparisons = (\{[\s\S]*?\n\});/);
+  if (objMatch) {
+    const comparisons = eval(`(function() { return ${objMatch[1]}; })()`);
+    comparisonCount = Object.keys(comparisons).length;
+  } else {
+    console.warn('Could not extract drummerComparisons — Comparisons section will show 0 pairs.');
+  }
+} catch (e) {
+  console.warn('Could not parse drummerComparisons, continuing without an accurate count:', e.message);
+}
+
 const today = new Date().toISOString().split('T')[0];
 
 function generateSlug(name) {
@@ -106,6 +122,25 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
   for (const a of articleList) {
     output += `| ${a.title || a.slug} | ${a.drummer || '—'} | [Markdown](https://metalforge.io/llms/articles/${a.slug}.md) |\n`;
   }
+}
+
+// Drum Kit Comparisons (per-pair) — summary derived from drummerComparisons.js, not hand-listed (#4298)
+if (comparisonCount > 0) {
+  output += `
+---
+
+## Drum Kit Comparisons (per-pair)
+
+Per-pair deep-dive files (400–600 words each) with exact gear data for both drummers. Optimised for
+AI retrieval on queries like "Joey Jordison vs Lars Ulrich gear", "what drums does Hellhammer use vs Inferno?",
+or "Compare Danny Carey's kit to Tomas Haake's."
+
+Hub: [/llms/comparisons.md](https://metalforge.io/llms/comparisons.md) — aggregate overview of all ${comparisonCount} pairs.
+
+${comparisonCount} individual per-pair comparison files live under [/llms/vs/](https://metalforge.io/llms/vs/), one per drummer
+pairing, e.g. [lars-ulrich-vs-dave-lombardo.md](https://metalforge.io/llms/vs/lars-ulrich-vs-dave-lombardo.md).
+Each file name follows the \`<drummer-a>-vs-<drummer-b>.md\` pattern for the two drummers being compared.
+`;
 }
 
 output += `

@@ -2776,3 +2776,27 @@ Metrics refreshed 17:20 UTC (184 users/224 sessions/445 views 7d; GSC 5,124 impr
 - Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
 - Actions: none — evening review: ~34 PRs merged today (drumsticks module buildout #4277-4302, cymbals/snares hub epics #4322-4350, /llms/ freshness batch, meta-shell ssrLinks fix #4356, extendedBios 15-duplicate-key dedup #4358); no fresh seo-proposal or founder idea since the 17:25 entry
 - Next check: 2026-07-12 07:00 UTC deep run — pull fresh GA4/GSC, refill backlog toward the ~80 target if proposals land overnight, next L1/L2/L3 snapshot due 2026-07-13
+
+## 2026-07-11 19:30 — Pulse: promoted 4 fresh schema/ssrLinks proposals; live-verified L1/L3 stale items are already resolved (not new work)
+
+### Context (≤3 lines)
+Metrics refreshed 19:24 UTC (185 users/226 sessions/446 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Backlog was 3 eligible `ai-fix`, 0 open PRs (Roadie idle). 4 fresh untriaged `seo-proposal` (#4359-4362, 18:25-18:27 UTC).
+
+### Actions taken
+- Verified all 4 against source before promoting. **#4359** (`/lists` hub missing `CollectionPage` schema): confirmed via direct read of `api/meta/[...path].js:2580-2592` — no `articleSchema` key, sibling hubs have one. **#4360** (`/kit-builder` missing `WebApplication` schema, sibling `/kit-quiz` has it): confirmed both handlers at lines 1206-1233, `/kit-quiz` has the schema block, `/kit-builder` doesn't. **#4361** (7 `/gear/<brand>/<series>/drummers-using` pages sitemapped with empty `[]` drummer arrays): reran a `node -e` eval of `DRUMMERS_BY_KIT`, confirmed exactly the 7 claimed empty keys (tama/star-classic-bubinga, tama/star-classic-walnut-birch, pearl/masters-custom-maple, pearl/reference-masters-maple, sonor/sq2-heavy-maple, mapex/orion, pdp/concept-maple). **#4362** (`/technique/:slug` ×29 + `/genre/:slug` ×9 detail pages missing `ssrLinks`, same class as #4355 but one level down from hubs): spot-checked the cited line ranges, both handlers have `articleSchema`/`breadcrumbSchema` but no `ssrLinks` key. All 4 atomic, root-cause-verified, high-confidence. Promoted all 4 to `ai-fix`.
+- **Live-verified 3 items from the stale 2026-07-06 L1/L3 snapshots instead of re-filing against them** (backlog was starved enough to be worth mining, but wanted to confirm they're not already fixed first): (1) the 5 L3 `error-404` article URLs (abr-phantom-anthem, cowboys-from-hell, dance-of-death, spiritual-healing, the-satanist drum-setup) all curl `200` live now — stale, no action. (2) the 57 L3 `duplicate-without-canonical → jay-weinberg` rows — curled 3 sample URLs (`/bpm`, a guide, an article) with Googlebot UA, each self-canonicalizes correctly with its own title — stale, no action (both classes were symptoms of the meta-shell saga, resolved 2026-07-09 per pending-issues.md). (3) The `/drummers` `crawled-not-indexed` flag — curled it fresh and found **zero** `<li>` links despite #4356 (the #4355 ssrLinks fix) merging at 16:11 UTC today; root-caused via `gh run list --workflow=deploy-prod.yml` — last successful deploy was 07:10 UTC, **before** #4356 merged, so this is deploy-cadence lag (once/day batching), not a regression. No new issue — will self-heal on tomorrow's ~07:00 UTC deploy; re-verify then.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: oldest open `ai-fix` is #4205 (~43h old) — under the 72h trigger, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds (now with live spot-check confirming the deferral isn't just laziness — the actionable rows checked really are stale/self-healing).
+
+### State delta
+- ai-fix backlog: 3 → 7 eligible (#4359-4362 promoted)
+- seo-proposal bank: 4 fresh untriaged → 0 (remaining open seo-proposal issues are the 3 already-promoted CI-check items + umbrella trackers #3810/#3819/#2211)
+- Org/Sessions/Views (7d): 185/226/446 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 7 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
+2. Re-verify `/drummers` bot shell after tomorrow's ~07:00 UTC deploy — should show 67 `<li>` links once #4356 goes live; if still zero, that's a real regression worth an issue.
+3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.

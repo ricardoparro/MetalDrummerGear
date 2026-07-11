@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-11 18:16 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-11 19:24 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 184 |
-| Sessions | 224 |
-| Page views | 445 |
-| Engagement rate | 67.86% |
-| Avg session (s) | 214 |
+| Active users | 185 |
+| Sessions | 226 |
+| Page views | 446 |
+| Engagement rate | 67.26% |
+| Avg session (s) | 212 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -21,7 +21,7 @@
 | /drummers | 27 | 5 |
 | /drummer/jaska-raatikainen | 18 | 4 |
 | /drummer/matt-greiner | 13 | 10 |
-| /drummer/bill-ward | 9 | 7 |
+| /drummer/bill-ward | 9 | 8 |
 | /drummer/mario-duplantier | 9 | 7 |
 | /drumsticks | 9 | 1 |
 | /gear/sticks | 9 | 1 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 180 | 153 |
+| Organic Search | 181 | 153 |
 | Direct | 39 | 28 |
-| Unassigned | 9 | 7 |
+| Unassigned | 10 | 8 |
 | Cross-network | 3 | 3 |
 
 ## Search Console — Search performance

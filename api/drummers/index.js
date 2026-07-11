@@ -332,7 +332,7 @@ const drummers = [
       snare: 'Pearl Reference 14x6.5" Brass',
       cymbals: 'Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)',
       hardware: 'Pearl Demon Drive Double Pedal, Pearl D-2000 Throne',
-      sticks: 'Promark 5B',
+      sticks: 'Promark Classic Forward 2B',
       heads: 'Evans',
       verified: true,
       sources: ['https://pearldrum.com/en/artist/gene-hoglan', 'https://www.drumeo.com/beat/gene-hoglans-drum-kit/']
@@ -1508,7 +1508,7 @@ const drummers = [
       snare: 'ddrum Dios 14x6.5" Maple',
       cymbals: 'Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese)',
       hardware: 'ddrum Mercury Double Pedal, ddrum Throne',
-      sticks: 'Ahead Lars Ulrich Signature'
+      sticks: 'Pro-Mark (historical endorsement — current sticks unverified)'
     },
     photos: [
       '/images/drummers/pete-sandoval.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/1/1b/Pete_Sandoval.jpg
@@ -2513,7 +2513,7 @@ const drummers = [
       snare: 'Yamaha Mikkey Dee Signature 14x8"',
       cymbals: 'Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)',
       hardware: 'Yamaha FP9 Double Pedal, Yamaha Hardware',
-      sticks: 'Vic Firth Mikkey Dee Signature',
+      sticks: 'Wincent Mikkey Dee Signature (W-MDS)',
       heads: 'Remo',
       verified: true,
       sources: ['https://europe.yamaha.com/en/artists/drums/mikkey-dee/', 'https://zildjian.com/artists']
@@ -2562,7 +2562,7 @@ const drummers = [
       snare: 'Tama SLP Black Brass 14x6.5"',
       cymbals: 'Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China)',
       hardware: 'Tama Speed Cobra 910 Double Pedal',
-      sticks: 'Vic Firth Derek Roddy Signature',
+      sticks: 'Vater Player\'s Design Derek Roddy Model (VHDRW)',
       heads: 'Evans',
       verified: true,
       sources: ['https://www.tama.com/usa/artists/', 'https://meinlcymbals.com/en/artists']
@@ -2610,7 +2610,7 @@ const drummers = [
       snare: 'Tama S.L.P. Big Black Steel 14x6.5"',
       cymbals: 'Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)',
       hardware: 'Tama Speed Cobra 910 Double Pedal, Tama Iron Cobra Hi-Hat Stand',
-      sticks: 'Promark Shira Kashi Oak 5B',
+      sticks: 'Tama O-DVM2 Dirk Verbeuren Signature',
       heads: 'Evans',
       verified: true,
       sources: ['https://www.tama.com/usa/artists/', 'https://zildjian.com/artists']
@@ -2849,7 +2849,7 @@ const drummers = [
       snare: 'Pearl Reference 14x6.5" Brass',
       cymbals: 'Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese)',
       hardware: 'Pearl Demon Drive Double Pedal, Pearl Icon Rack System',
-      sticks: 'Vic Firth Aquiles Priester Signature',
+      sticks: 'Promark TX419W Aquiles Priester Autograph',
       heads: 'Evans',
       verified: true,
       sources: ['https://pearldrum.com/en/artists/', 'https://sabian.com/artists']
@@ -2935,7 +2935,7 @@ const drummers = [
       snare: 'Pearl Reference 14x5" & 14x6.5" Brass',
       cymbals: 'Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)',
       hardware: 'Pearl Demon Drive Double Pedal, Roland SPD-SX Sampling Pad',
-      sticks: 'Vic Firth Mike Mangini Signature',
+      sticks: 'Vater Mike Mangini Wicked Piston (VHMMWP)',
       heads: 'Evans',
       verified: true,
       sources: ['https://en.wikipedia.org/wiki/Mike_Mangini', 'https://sabian.com/artist/mike-mangini/']
@@ -3498,7 +3498,7 @@ const drummers = [
       snare: 'Tama Starclassic Bubinga 14x6.5"',
       cymbals: 'Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)',
       hardware: 'Monolit Czarcie Kopyto Double Pedal',
-      sticks: 'Vic Firth Rock Nylon Tip (At the Gates Signature)',
+      sticks: 'Vic Firth American Classic Rock Nylon Tip (ROCKN)',
       heads: 'Evans EMAD Onyx / EC Reverse Dot',
       verified: true,
       sources: ['https://en.wikipedia.org/wiki/Adrian_Erlandsson']

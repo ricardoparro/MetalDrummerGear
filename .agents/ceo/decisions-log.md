@@ -2746,3 +2746,26 @@ Metrics refreshed 13:29 UTC (182 users/222 sessions/439 views 7d; GSC 5,124 impr
 - Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
 - Actions: none — founder-ideas inbox empty, no fresh seo-proposal since 14:26. Noted (not an action): #4355 (ssrLinks gap on 9 hub pages) was self-filed ai-fix by SEO Agent at 14:33 and merged by Roadie at 16:11 without CEO promotion — pipeline healthy.
 - Next check: 19:00 UTC evening review — per anti-noise rule, if still unchanged this is the 2nd consecutive Quick entry; a 3rd identical run should skip logging.
+
+## 2026-07-11 17:25 — Pulse: promoted #4357 (extendedBios.js 15 duplicate keys, 5 with real content loss)
+
+### Context (≤3 lines)
+Metrics refreshed 17:20 UTC (184 users/224 sessions/445 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Backlog was 3 eligible `ai-fix`, 0 open PRs (Roadie idle). One fresh untriaged `seo-proposal` (#4357, filed 16:28 UTC).
+
+### Actions taken
+- Verified #4357 independently before promoting: `grep -oE "'[a-z0-9-]+':" packages/frontend/data/extendedBios.js | sort | uniq -c | awk '$1>1'` confirms all 15 duplicate keys claimed (10 cosmetic-only, 5 — brann-dailor/chris-adler/matt-halpern/inferno/hellhammer — with genuinely conflicting bio content where JS object-literal semantics silently discard the first block). Brann Dailor is an active top-10 GSC/GA4 entity and this data feeds the `/llms/` generator surface (primary LLM-citation content), so the fix directly serves the L2 KPI. Atomic, root-cause, high-confidence. Promoted to `ai-fix`.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: oldest open `ai-fix` is #4205 (~41h old) — under the 72h trigger, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
+
+### State delta
+- ai-fix backlog: 3 → 4 eligible (#4357 promoted)
+- seo-proposal bank: 1 fresh untriaged → 0 (remaining open seo-proposal issues are the 3 already-promoted CI-check items + umbrella trackers #3810/#3819/#2211)
+- Org/Sessions/Views (7d): 184/224/445 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 triaged with independent source verification, promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 4 with 0 open PRs — still a supply problem more than a promotion-discipline one; keep promoting fresh proposals the moment they land.
+2. Watch whether Roadie picks up #4357 alongside the 3 CI-check issues now that the queue has depth again.
+3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.

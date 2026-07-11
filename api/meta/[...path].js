@@ -904,6 +904,17 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // News hub (Issue #4372: general /news aggregator, distinct from /gear-news and /endorsement-news)
+  if (path === '/news') {
+    return {
+      title: `Metal Drummer & Gear News — Latest Updates | ${SITE_NAME}`,
+      description: 'The latest metal drummer news: gear changes, endorsement deals, band lineup updates, and equipment releases, updated continuously.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/news`,
+    };
+  }
+
   // Cards gallery
   if (path === '/cards') {
     return {

@@ -491,6 +491,8 @@ export function buildSitemapXml() {
     { loc: '/licks', priority: '0.9', changefreq: 'weekly' },
     // Issue #660: Gear News page with RSS
     { loc: '/gear-news', priority: '0.9', changefreq: 'daily' },
+    // Issue #4372: general /news aggregator hub (distinct from /gear-news, /endorsement-news)
+    { loc: '/news', priority: '0.85', changefreq: 'daily' },
     // Issue #689: Drummer Battle voting feature
     { loc: '/battles', priority: '0.9', changefreq: 'weekly' },
     // Issue #1822: Drummer spotlight features hub

@@ -310,8 +310,8 @@ export const DRUMSTICKS = [
   {
     id: 'tama-odvm',
     brand: 'Tama',
-    model: 'O-DVM',
-    size: 'Dirk Verbeuren Signature',
+    model: 'O-DVM2',
+    size: 'Dirk Verbeuren Signature (216B basis)',
     diameterIn: 0.63,
     lengthIn: 16,
     material: 'Japanese Oak',
@@ -322,6 +322,7 @@ export const DRUMSTICKS = [
     priceBand: 'budget',
     retailerUrls: {},
     source: 'tama.com',
+    notes: 'O-DVM2 is the current revision of the original O-DVM (Meinl Shop / Tama EU listing).',
   },
   {
     id: 'vic-firth-american-classic-2b-inferno',
@@ -372,6 +373,44 @@ export const DRUMSTICKS = [
     priceBand: 'budget',
     retailerUrls: {},
     source: 'vicfirth.com',
+  },
+  // Adversarially verified against Sweetwater PMTX515W product page: 515 design
+  // based on the 747 but slightly shorter; .551" x 16", hickory, round wood tip.
+  {
+    id: 'promark-tx515w',
+    brand: 'ProMark',
+    model: 'TX515W',
+    size: 'Signature 515 (5A-class)',
+    diameterIn: 0.551,
+    lengthIn: 16,
+    material: 'Hickory',
+    tip: 'Round (wood)',
+    taper: 'Long',
+    endorsementType: 'signature-model',
+    drummerSlug: 'joey-jordison',
+    priceBand: 'budget',
+    retailerUrls: {},
+    source: 'sweetwater.com',
+    notes: 'Limited availability since 2021 — verify stock before wiring affiliate links.',
+  },
+  // Adversarially verified: ProMark Brasil (official) + TX419W Autograph
+  // listings. Classic 419, 2B-class. The drummer roster previously credited a
+  // Vic Firth signature — adjudicated to ProMark TX419W as the current model.
+  {
+    id: 'promark-tx419w',
+    brand: 'ProMark',
+    model: 'TX419W',
+    size: 'Autograph 419 (2B-class)',
+    diameterIn: 0.63,
+    lengthIn: 16.1,
+    material: 'American Hickory',
+    tip: 'Wood',
+    taper: 'Medium',
+    endorsementType: 'signature-model',
+    drummerSlug: 'aquiles-priester',
+    priceBand: 'budget',
+    retailerUrls: {},
+    source: 'daddario.com',
   },
 ];
 

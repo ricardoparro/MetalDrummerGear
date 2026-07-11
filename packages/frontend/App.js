@@ -13655,6 +13655,26 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
           </Text>
         )}
 
+        {/* Cross-link: the homepage-linked sticks gear category ↔ the /drumsticks
+            hub (epic #4135), so the two stick surfaces feed each other. */}
+        {category === 'sticks' && (
+          <TouchableOpacity
+            onPress={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/drumsticks');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border, marginBottom: 16 }]}
+            accessibilityRole="link"
+            accessibilityLabel="Open the drumstick guide — sizes, materials, and signature sticks"
+          >
+            <Text style={[styles.backButtonText, { color: theme.primary }]}>
+              📚 Drumstick Guide: sizes, materials & every verified signature stick →
+            </Text>
+          </TouchableOpacity>
+        )}
+
         {/* Brand filters */}
         {brands.length > 0 && (
           <View style={styles.mb6}>

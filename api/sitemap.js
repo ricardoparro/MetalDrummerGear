@@ -346,9 +346,9 @@ for (const d of DRUMMER_GEAR_DATA) {
 // Static files live in public/llms/*.md and public/llms/drummers/<slug>.md.
 // Listing them in the sitemap makes them crawlable, not just discoverable
 // via prose links in llms.txt. Per-drummer slugs mirror the committed files
-// in public/llms/drummers/ (61 profiles).
+// in public/llms/drummers/ (67 profiles).
 const llmsDrummerSlugs = [
-  'abe-cunningham', 'alex-bent', 'aquiles-priester', 'arin-ilejay',
+  'abe-cunningham', 'adrian-erlandsson', 'alex-bent', 'aquiles-priester', 'arin-ilejay',
   'art-cruz', 'ben-koller', 'bill-ward', 'blake-richardson',
   'brann-dailor', 'charlie-benante', 'chris-adler', 'chris-turner',
   'daniel-erlandsson', 'danny-carey', 'daray', 'dave-lombardo',
@@ -356,13 +356,13 @@ const llmsDrummerSlugs = [
   'frost', 'gavin-harrison', 'gene-hoglan', 'george-kollias',
   'hannes-grossmann', 'hellhammer', 'igor-cavalera', 'inferno',
   'isaac-lamb', 'jaska-raatikainen', 'jason-bittner', 'jay-weinberg',
-  'jocke-wallgren', 'joey-jordison', 'john-otto', 'kevin-talley',
-  'lars-ulrich', 'mario-duplantier', 'martin-lopez', 'matt-garstka',
+  'jocke-wallgren', 'joey-jordison', 'john-otto', 'jon-dette', 'kevin-talley',
+  'lars-ulrich', 'mario-duplantier', 'martin-axenrot', 'martin-lopez', 'matt-garstka',
   'matt-greiner', 'matt-halpern', 'mike-mangini', 'mike-portnoy',
   'mikkey-dee', 'morgan-agren', 'navene-koperweis', 'nick-augusto',
-  'nicko-mcbrain', 'paul-mazurkiewicz', 'pete-sandoval', 'ray-luzier',
+  'nick-menza', 'nicko-mcbrain', 'paul-bostaph', 'paul-mazurkiewicz', 'pete-sandoval', 'ray-luzier',
   'raymond-herrera', 'richard-christy', 'ryan-van-poederooyen', 'scott-travis',
-  'shannon-larkin', 'tim-yeung', 'tomas-haake', 'travis-orbin',
+  'sean-reinert', 'shannon-larkin', 'tim-yeung', 'tomas-haake', 'travis-orbin',
   'vinnie-paul',
 ];
 

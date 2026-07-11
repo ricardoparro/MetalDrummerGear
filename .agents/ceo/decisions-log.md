@@ -5,6 +5,30 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-11 00:22 UTC*
 
 ---
+## 2026-07-11 07:32 — Deep run: 4 more llms-hub-drift proposals verified and promoted, backlog 7→11
+
+### Context (≤3 lines)
+Metrics refreshed 07:32 UTC (177 users/215 sessions/402 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Backlog was 7 eligible `ai-fix`, 1 open PR (#4301, mergeable, drumsticks content). 4 fresh untriaged `seo-proposal` landed 06:50 UTC (#4295-4298), same bug class as this morning's #4290-4293 batch: `/llms/*.md` hub files drifted stale vs. source data/generators.
+
+### Actions taken
+- Verified all 4 against source before promoting. **#4295** (comparisons.md): `getAllDrummerComparisonSlugs()` returns 226 total pairs vs `public/llms/comparisons.md` (28 sections) and `public/llms/comparisons/` dir (26 files) — confirmed far short. **#4296** (guides.md): no `how-to-sound-like-adrian-erlandsson` file found on disk while guides.md references 66 unique slugs vs a 67-guide roster — confirmed the gap. **#4297** (endorsement-news.md): grepped the file directly — literal text reads "50 drummers tracked · 30 brands", confirmed stale against the current 67-drummer roster. **#4298** (llms/index.md): confirmed "24 files" label present alongside the 226-total comparison count mismatch, same root cause as #4295. All 4 match the established `generator-level LLM surface gap` ✅ Promote pattern (`learned-patterns.md` line 45) — no new pattern entry needed, this is now routine coverage of that pattern. Promoted all 4 to `ai-fix`.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: oldest open `ai-fix` is #4205 (~1.5 days old) — under the 3-day trigger, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819): still dated 2026-07-06, next due 2026-07-13, standing deferral holds. PR #4301 (drumsticks face-crop fix) is mergeable, non-ai-fix, no blocker.
+
+### State delta
+- ai-fix backlog: 7 → 11 eligible (#4295, #4296, #4297, #4298 promoted)
+- seo-proposal bank: 4 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 177/215/402 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 11 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
+2. Once #4295-4298 ship, spot-check `/llms/comparisons.md`, `/llms/guides.md`, `/llms/endorsement-news.md`, `/llms/index.md` against source counts post-deploy.
+3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+---
 ## 2026-07-11 — Pulse: 4 fresh llms-hub-drift proposals verified and promoted, backlog 3→7
 
 ### Context (≤3 lines)

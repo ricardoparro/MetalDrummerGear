@@ -122,6 +122,26 @@ function SignatureSnareCard({ drummer, snare, theme }) {
   return card;
 }
 
+function BestForMetalLink({ theme, onNavigate }) {
+  const card = (
+    <View style={[styles.ctaCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>
+      <Text style={[styles.ctaCardText, { color: theme.text }]}>🤘 Full best-for-metal buying guide →</Text>
+    </View>
+  );
+  if (Platform.OS === 'web') {
+    return (
+      <a
+        href="/snares/best-for-metal"
+        onClick={(e) => { if (onNavigate) { e.preventDefault(); onNavigate(); } }}
+        style={{ textDecoration: 'none', display: 'block', width: '100%' }}
+      >
+        {card}
+      </a>
+    );
+  }
+  return card;
+}
+
 function BrandRow({ brand, theme }) {
   const slug = toSlug(brand.name);
   const row = (
@@ -140,7 +160,7 @@ function BrandRow({ brand, theme }) {
   return row;
 }
 
-export function SnaresHubPage({ theme: themeProp, drummers = [], onNavigateReference }) {
+export function SnaresHubPage({ theme: themeProp, drummers = [], onNavigateReference, onNavigateBestForMetal }) {
   const theme = themeProp || themes.dark;
 
   useEffect(() => {
@@ -196,6 +216,7 @@ export function SnaresHubPage({ theme: themeProp, drummers = [], onNavigateRefer
 
       <Text style={[styles.h2, { color: theme.text }]}>Best snares for metal</Text>
       <Text style={[styles.body, { color: theme.secondaryText || theme.text }]}>{PILLAR_PAGE.bestForMetal}</Text>
+      <BestForMetalLink theme={theme} onNavigate={onNavigateBestForMetal} />
 
       {signatureSnares.length > 0 && (
         <>
@@ -235,6 +256,8 @@ const styles = StyleSheet.create({
   refCard: { borderWidth: 1, borderRadius: 10, padding: 14, height: '100%' },
   refCardTitle: { fontSize: 16, fontWeight: '700', marginBottom: 6 },
   refCardDesc: { fontSize: 13, lineHeight: 18 },
+  ctaCard: { borderWidth: 1, borderRadius: 10, padding: 14, marginTop: 4, marginBottom: 8 },
+  ctaCardText: { fontSize: 15, fontWeight: '700' },
   brandRow: { marginBottom: 10 },
   brandName: { fontSize: 16, fontWeight: '700' },
   brandNote: { fontSize: 14, lineHeight: 20 },

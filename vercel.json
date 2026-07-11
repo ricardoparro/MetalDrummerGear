@@ -428,6 +428,7 @@
   "redirects": [
     { "source": "/gear/sticks", "destination": "/drumsticks", "permanent": true },
     { "source": "/gear/cymbals", "destination": "/cymbals", "permanent": true },
+    { "source": "/gear/snares", "destination": "/snares", "permanent": true },
     { "source": "/drummer/1",  "destination": "/drummer/lars-ulrich",           "permanent": true },
     { "source": "/drummer/2",  "destination": "/drummer/joey-jordison",          "permanent": true },
     { "source": "/drummer/3",  "destination": "/drummer/gene-hoglan",            "permanent": true },

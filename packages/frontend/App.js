@@ -372,12 +372,12 @@ function getCymbalReferenceSlugFromURL() {
 }
 
 // Snares Hub (Issue #4310, epic #4308 phase 2/4) - SEO pillar + reference pages at /snares/*
-// Unlike /drumsticks, the pre-existing /gear/snares category page is NOT aliased
-// here — it stays a separate route until epic #4308 phase 4 consolidates it.
+// Issue #4312 (phase 4/4): /gear/snares now 301s to /snares (vercel.json) and
+// is aliased here too, same as /gear/sticks -> /drumsticks and /gear/cymbals -> /cymbals.
 const SNARE_REFERENCE_SLUGS = ['shells', 'sizes', 'tuning-for-metal'];
 const LazySnaresHubPage = lazy(() => import('./components/SnaresHubPage').then(m => ({ default: m.SnaresHubPage })));
 const LazySnareReferencePage = lazy(() => import('./components/SnareReferencePage').then(m => ({ default: m.SnareReferencePage })));
-function isSnaresHubPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/snares'; }
+function isSnaresHubPage() { if (typeof window === 'undefined') return false; const p = window.location.pathname.replace(/\/+$/, ''); return p === '/snares' || p === '/gear/snares'; }
 function isSnareReferencePage() {
   if (typeof window === 'undefined') return false;
   const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/snares\/([^/]+)$/)?.[1];
@@ -388,6 +388,10 @@ function getSnareReferenceSlugFromURL() {
   const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/snares\/([^/]+)$/)?.[1];
   return SNARE_REFERENCE_SLUGS.includes(slug) ? slug : null;
 }
+
+// Best Snares for Metal guide (Issue #4312, epic #4308 phase 4/4) - /snares/best-for-metal
+const LazySnareBestForMetalPage = lazy(() => import('./components/SnareBestForMetalPage').then(m => ({ default: m.SnareBestForMetalPage })));
+function isSnareBestForMetalPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/snares/best-for-metal'; }
 
 // Cymbal Brand Pages (Issue #4307, epic #4303 phase 4/4) - /cymbals/brands
 // + /cymbals/brands/<brand>. Only rendered for brands defined in
@@ -2112,12 +2116,16 @@ function BrowseByGearCategory({ theme }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
 
+  // Sticks, cymbals, and snares are specialized theme areas: their entrances
+  // are the /drumsticks, /cymbals, and /snares hubs, not the generic
+  // /gear/<slug> page.
+  const gearCategoryHref = (slug) => (
+    slug === 'sticks' ? '/drumsticks' : slug === 'cymbals' ? '/cymbals' : slug === 'snares' ? '/snares' : `/gear/${slug}`
+  );
+
   const navigateToCategory = (slug) => {
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
-      // Sticks and cymbals are specialized theme areas: their entrances are
-      // the /drumsticks and /cymbals hubs, not the generic /gear/<slug> page.
-      const target = slug === 'sticks' ? '/drumsticks' : slug === 'cymbals' ? '/cymbals' : `/gear/${slug}`;
-      window.history.pushState({}, '', target);
+      window.history.pushState({}, '', gearCategoryHref(slug));
       window.dispatchEvent(new PopStateEvent('popstate'));
     }
   };
@@ -2127,7 +2135,7 @@ function BrowseByGearCategory({ theme }) {
       return (
         <a
           key={category.slug}
-          href={category.slug === 'sticks' ? '/drumsticks' : category.slug === 'cymbals' ? '/cymbals' : `/gear/${category.slug}`}
+          href={gearCategoryHref(category.slug)}
           onClick={(e) => { e.preventDefault(); navigateToCategory(category.slug); }}
           style={{
             textDecoration: 'none',
@@ -13808,31 +13816,6 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
           </Text>
         )}
 
-        {/* Cross-link: the homepage-linked /gear/snares category page → the new
-            /snares hub (epic #4308). /gear/snares stays the homepage tile's
-            target until phase 4's door consolidation flips it to /snares — this
-            banner is the interim path that guarantees the hub is reachable from
-            the homepage in the meantime. Same pattern as the sticks (#4279) and
-            cymbals (#4307) door consolidations. */}
-        {category === 'snares' && (
-          <TouchableOpacity
-            onPress={() => {
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', '/snares');
-                window.dispatchEvent(new PopStateEvent('popstate'));
-              }
-            }}
-            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border, marginBottom: 16 }]}
-            accessibilityRole="link"
-            accessibilityLabel="Open the snare guide — shells, sizes, and every verified signature snare"
-          >
-            <Text style={[styles.backButtonText, { color: theme.primary }]}>
-              🪘 Snare Guide: shells, sizes & every verified signature snare →
-            </Text>
-          </TouchableOpacity>
-        )}
-
-
         {/* Brand filters */}
         {brands.length > 0 && (
           <View style={styles.mb6}>
@@ -19605,7 +19588,8 @@ function getGearSlugFromURL() {
 // Valid gear categories
 // 'sticks' intentionally absent: /gear/sticks 301s to the specialized /drumsticks hub
 // 'cymbals' intentionally absent: /gear/cymbals 301s to the specialized /cymbals hub (Issue #4307)
-const GEAR_CATEGORIES = ['snares', 'drums', 'pedals', 'hardware'];
+// 'snares' intentionally absent: /gear/snares 301s to the specialized /snares hub (Issue #4312)
+const GEAR_CATEGORIES = ['drums', 'pedals', 'hardware'];
 
 // Check if we're on the gear index page (/gear)
 function isGearIndexPage() {
@@ -29391,6 +29375,12 @@ setShowList(false);
                 window.history.pushState({}, '', `/snares/${slug}`);
               }
             }}
+            onNavigateBestForMetal={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/snares/best-for-metal');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
           />
         </Suspense>
       );
@@ -29414,6 +29404,29 @@ setShowList(false);
               setSnarePageSlug(slug);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/snares/${slug}`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Best Snares for Metal guide (Issue #4312, epic #4308 phase 4/4) - /snares/best-for-metal
+    if (isSnareBestForMetalPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazySnareBestForMetalPage
+            theme={theme}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/snares');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToSignature={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/snares/signature/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}
           />

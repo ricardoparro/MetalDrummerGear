@@ -14,7 +14,7 @@ import { ALBUM_ARTICLES } from '../../packages/frontend/data/albumArticles.js';
 // Issue #1172: band-specific SSR meta for /bands/<slug> and /bands index pages.
 import { bands as BAND_DATA } from '../../packages/frontend/data/bands.js';
 // Issue #1202: individual technique page SSR meta for /technique/<slug> and /technique/<slug>/drummers.
-import { getTechniqueBySlug, getAllTechniques } from '../../packages/frontend/data/techniques.js';
+import { getTechniqueBySlug, getAllTechniques, getRelatedTechniques } from '../../packages/frontend/data/techniques.js';
 // Issue #1209: lick page SSR meta for /licks, /drummers/<slug>/licks, /drummers/<slug>/licks/<slug>.
 import SIGNATURE_LICKS from '../../packages/frontend/data/licks/index.js';
 // Issue #1210: top-10 list page SSR meta for /lists/<slug>.
@@ -998,6 +998,13 @@ function getMetaForPath(pathname) {
           { name: 'Techniques', url: `${BASE_URL}/techniques` },
           { name: technique.title, url: `${BASE_URL}/technique/${slug}` },
         ],
+        ssrLinks: [
+          { href: '/techniques', label: 'All Techniques' },
+          ...getRelatedTechniques(slug).slice(0, 3).map(t => ({
+            href: `/technique/${t.slug}`,
+            label: t.title,
+          })),
+        ],
       };
     }
   }
@@ -1970,6 +1977,13 @@ function getMetaForPath(pathname) {
           { name: 'Home', url: BASE_URL },
           { name: 'Genres', url: `${BASE_URL}/genres` },
           { name: genreName, url: `${BASE_URL}/genre/${genreSlug}` },
+        ],
+        ssrLinks: [
+          { href: '/genres', label: 'All Genres' },
+          ...getAllGenreSlugs().filter(s => s !== genreSlug).slice(0, 3).map(s => ({
+            href: `/genre/${s}`,
+            label: GENRES[s].name,
+          })),
         ],
       };
     }

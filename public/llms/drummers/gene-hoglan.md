@@ -69,6 +69,19 @@ See the [Gene Hoglan vs Tomas Haake](/vs/gene-hoglan-vs-tomas-haake) comparison 
 - Skeksis (Strapping Young Lad) - Official Playthrough (2015)
 - True American Hate - Drum Cam (Tuska 2013) (2013)
 
+## Snare
+
+**What snare does Gene Hoglan use?** Gene Hoglan plays a Pearl Reference 14x6.5" Brass.
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Reference Brass |
+| Size | 14x6.5" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Gene Hoglan use?**

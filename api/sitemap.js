@@ -64,6 +64,10 @@ import { REFERENCE_PAGE_ORDER } from '../packages/frontend/data/drumstickReferen
 import { DRUMSTICK_BRANDS } from '../packages/frontend/data/drumstickBrands.js';
 // Issue #4305 (phase 2/4 of epic #4303): /cymbals hub + reference pages.
 import { REFERENCE_PAGE_ORDER as CYMBAL_REFERENCE_PAGE_ORDER } from '../packages/frontend/data/cymbalReferencePages.js';
+// Issue #4311 (phase 3 of epic #4308): /snares/signature/<drummer> pages —
+// source slugs from the verified SIGNATURE_SNARES subset so the sitemap only
+// ever lists drummers with a confirmed signature snare (no thin pages).
+import { SIGNATURE_SNARES } from '../packages/frontend/data/snares.js';
 // Issue #4274: Endorsement Tracker pages — source slugs directly from
 // ENDORSEMENT_TIMELINE so the sitemap can never drift out of sync again.
 import { ENDORSEMENT_TIMELINE } from '../packages/frontend/data/endorsementNews.js';
@@ -604,6 +608,9 @@ export function buildSitemapXml() {
     // Issue #4305: /cymbals pillar page + types/alloys/sizes-weights reference pages.
     { loc: '/cymbals', priority: '0.9', changefreq: 'weekly' },
     ...CYMBAL_REFERENCE_PAGE_ORDER.map(slug => ({ loc: `/cymbals/${slug}`, priority: '0.85', changefreq: 'monthly' })),
+    // Issue #4311: /snares/signature/<drummer> pages (only drummers with a
+    // verified signature snare in SIGNATURE_SNARES).
+    ...SIGNATURE_SNARES.map(s => ({ loc: `/snares/signature/${s.drummerSlug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).
     { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },

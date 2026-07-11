@@ -59,6 +59,19 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
 - Paramount - Drum Playthrough (2020)
 - Composure - Drum Playthrough (2019)
 
+## Snare
+
+**What snare does Matt Greiner use?** Matt Greiner plays a Greiner & Kilmer Custom 14x6.5" Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Greiner & Kilmer |
+| Model | Custom Maple |
+| Size | 14x6.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drums does Matt Greiner play?**

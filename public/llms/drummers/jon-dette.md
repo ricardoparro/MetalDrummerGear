@@ -54,6 +54,17 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
 
 - Slayer - Killing Fields (Drum Playthrough by Former Slayer Drummer Jon Dette) (2022)
 
+## Snare
+
+**What snare does Jon Dette use?** Jon Dette plays a 14x6.5" Metal or Maple Snare.
+
+| Field | Value |
+|---|---|
+| Model | Metal or Maple Snare |
+| Size | 14x6.5" |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Jon Dette play?**

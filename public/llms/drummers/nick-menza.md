@@ -51,6 +51,19 @@ Menza's playing was distinguished by surgical double-bass precision at 180-200 B
 
 - Nick Menza Drum Cam - Megadeth - The Conjuring (Live at NEC Centre, Birmingham UK, 1990) (1990)
 
+## Snare
+
+**What snare does Nick Menza use?** Nick Menza plays a Tama Steel Snare 14x5.5".
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | Steel Snare |
+| Size | 14x5.5" |
+| Shell | Steel |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What albums did Nick Menza play drums on with Megadeth?**

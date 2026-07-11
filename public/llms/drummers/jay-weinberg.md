@@ -62,6 +62,19 @@ Zildjian cymbals complete the Jay Weinberg drum kit: 14" A New Beat Hi-Hats for 
 - Duality - Live Drum Cam (Wacken 2022, Official) (2022)
 - Sulfur - Live Drum Cam (Wacken 2022, Official) (2022)
 
+## Snare
+
+**What snare does Jay Weinberg use?** Jay Weinberg plays a SJC Jay Weinberg "The Crucible" 14x6.5" 48-ply Brass.
+
+| Field | Value |
+|---|---|
+| Brand | SJC |
+| Model | Jay Weinberg "The Crucible" 48-ply Brass |
+| Size | 14x6.5" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Jay Weinberg play?**

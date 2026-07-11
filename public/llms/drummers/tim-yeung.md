@@ -62,6 +62,19 @@ Sabian AAX and HHX Series cymbals define the Tim Yeung drum kit's tonal characte
 - Vengeance is Mine - Drum Cam (2013)
 - The Lion's Den - Drum Cam (2013)
 
+## Snare
+
+**What snare does Tim Yeung use?** Tim Yeung plays a Tama S.L.P. Big Black Steel 14x6.5".
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | S.L.P. Big Black Steel |
+| Size | 14x6.5" |
+| Shell | Steel |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Tim Yeung play?**

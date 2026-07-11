@@ -61,6 +61,18 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
 
 - Arch Enemy - Nemesis (Drum Cam) (2017)
 
+## Snare
+
+**What snare does Daniel Erlandsson use?** Daniel Erlandsson plays a Pearl Daniel Erlandsson Signature 14x5.5".
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Daniel Erlandsson Signature |
+| Size | 14x5.5" |
+
+Full specs: [Daniel Erlandsson's Signature Snare](https://metalforge.io/snares/signature/daniel-erlandsson)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Daniel Erlandsson play?**

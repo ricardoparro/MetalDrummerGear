@@ -59,6 +59,19 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
 - Higher - Dallas Drum Cam (2016)
 - Failure - Drum Breakdown (2020)
 
+## Snare
+
+**What snare does Ryan Van Poederooyen use?** Ryan Van Poederooyen plays a Pearl Reference 14x6.5" Brass.
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Reference Brass |
+| Size | 14x6.5" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Ryan Van Poederooyen play?**

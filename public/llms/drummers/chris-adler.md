@@ -61,6 +61,19 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
 - Lamb of God - Redneck (Live Drum Cam) (2016)
 - Lamb of God - Blood of the Scribe (Modern Drummer) (2005)
 
+## Snare
+
+**What snare does Chris Adler use?** Chris Adler plays a Mapex Chris Adler Signature 14x5.5" Walnut/Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Mapex |
+| Model | Chris Adler Signature Walnut/Maple |
+| Size | 14x5.5" |
+| Shell | Maple/Walnut |
+
+Full specs: [Chris Adler's Signature Snare](https://metalforge.io/snares/signature/chris-adler)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Chris Adler play?**

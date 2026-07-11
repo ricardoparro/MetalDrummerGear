@@ -61,6 +61,19 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
 - Means To An End - Official Drum Cam (2019)
 - Roots Bloody Roots - Rock in Rio (Official) (2022)
 
+## Snare
+
+**What snare does Eloy Casagrande use?** Eloy Casagrande plays a Tama Bell Brass 14x5.5" (BB146).
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | Bell Brass (BB146) |
+| Size | 14x5.5" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Eloy Casagrande use?**

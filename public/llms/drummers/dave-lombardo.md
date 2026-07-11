@@ -65,6 +65,19 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
 - Angel of Death - Drum Cam (2010)
 - Full Show Drum Cam (St Louis 2003) (2003)
 
+## Snare
+
+**What snare does Dave Lombardo use?** Dave Lombardo plays a Tama S.L.P. 14x6.5" G-Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | S.L.P. G-Maple |
+| Size | 14x6.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Dave Lombardo use?**

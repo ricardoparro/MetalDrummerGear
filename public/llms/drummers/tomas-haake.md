@@ -61,6 +61,19 @@ See the [Tomas Haake vs Gene Hoglan](/vs/gene-hoglan-vs-tomas-haake) comparison 
 - Clockworks - Official Drum Playthrough (2016)
 - Drumming Footage - New England Metal Fest (Official) (2008)
 
+## Snare
+
+**What snare does Tomas Haake use?** Tomas Haake plays a Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze.
+
+| Field | Value |
+|---|---|
+| Brand | Sonor |
+| Model | Tomas Haake Signature & Artist Series Bronze |
+| Size | 14x6.5" |
+| Shell | Bronze |
+
+Full specs: [Tomas Haake's Signature Snare](https://metalforge.io/snares/signature/tomas-haake)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Tomas Haake use?**

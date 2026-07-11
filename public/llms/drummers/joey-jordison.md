@@ -61,6 +61,18 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
 - People=Shit - Drum Cam (London 2002) (2002)
 - Drum Cam 4K Compilation (2000)
 
+## Snare
+
+**What snare does Joey Jordison use?** Joey Jordison plays a Pearl Joey Jordison Signature 13x6.5".
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Joey Jordison Signature |
+| Size | 13x6.5" |
+
+Full specs: [Joey Jordison's Signature Snare](https://metalforge.io/snares/signature/joey-jordison)
+
 ## Frequently Asked Questions
 
 **Q: What drums did Joey Jordison play?**

@@ -63,6 +63,19 @@ Lopez's tenure with Opeth spanned some of the band's most critically acclaimed a
 - Deliverance Outro - Drum Performance (2015)
 - Ghost of Perdition - Drum Performance (2018)
 
+## Snare
+
+**What snare does Martin Lopez use?** Martin Lopez plays a Noble & Cooley Solid Shell 14x6" Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Noble & Cooley |
+| Model | Solid Shell Maple |
+| Size | 14x6" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Martin Lopez play?**

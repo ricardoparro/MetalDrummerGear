@@ -62,6 +62,19 @@ See the [Mike Mangini vs Gavin Harrison](/vs/gavin-harrison-vs-mike-mangini) com
 - The Alien - Drum Cam (Live) (2022)
 - Drum Solo - Luna Park (Live) (2021)
 
+## Snare
+
+**What snare does Mike Mangini use?** Mike Mangini plays a Pearl Reference 14x5" & 14x6.5" Brass.
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Reference |
+| Size | 14x5" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Mike Mangini play?**

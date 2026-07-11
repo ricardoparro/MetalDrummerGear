@@ -61,6 +61,18 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
 - US Tour 2013 DrumCam (Official) (2013)
 - Black Seeds Of Vengeance - Pearl Drum Cam (2012)
 
+## Snare
+
+**What snare does George Kollias use?** George Kollias plays a Pearl George Kollias Signature 14x6.5".
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | George Kollias Signature |
+| Size | 14x6.5" |
+
+Full specs: [George Kollias's Signature Snare](https://metalforge.io/snares/signature/george-kollias)
+
 ## Frequently Asked Questions
 
 **Q: What drums does George Kollias play?**

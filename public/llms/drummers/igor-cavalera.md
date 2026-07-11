@@ -61,6 +61,19 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
 - Territory - Live USA (2025) (2025)
 - Roots of Rhythm - Live (2024)
 
+## Snare
+
+**What snare does Igor Cavalera use?** Igor Cavalera plays a Tama S.L.P. 14x6.5" G-Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | S.L.P. G-Maple |
+| Size | 14x6.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Igor Cavalera play?**

@@ -60,6 +60,19 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
 - Zyglrox - Periphery Playalong (2017)
 - Totla Mad - Periphery Playalong (2017)
 
+## Snare
+
+**What snare does Travis Orbin use?** Travis Orbin plays a SJC Custom 14x6.5" Maple.
+
+| Field | Value |
+|---|---|
+| Brand | SJC |
+| Model | Custom Maple |
+| Size | 14x6.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Travis Orbin play?**

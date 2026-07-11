@@ -63,6 +63,18 @@ See the [Gavin Harrison vs Mike Mangini](/vs/gavin-harrison-vs-mike-mangini) com
 - White Mist - The Pineapple Thief (2021)
 - Fill Decrypted - Breakdown (2023)
 
+## Snare
+
+**What snare does Gavin Harrison use?** Gavin Harrison plays a Sonor Gavin Harrison Signature 12x5" & 14x5.25".
+
+| Field | Value |
+|---|---|
+| Brand | Sonor |
+| Model | Gavin Harrison Signature |
+| Size | 12x5" |
+
+Full specs: [Gavin Harrison's Signature Snare](https://metalforge.io/snares/signature/gavin-harrison)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Gavin Harrison play?**

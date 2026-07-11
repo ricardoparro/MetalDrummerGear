@@ -62,6 +62,19 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
 - When Legends Rise - Drum Cam (2019)
 - Drum Battle - Sully vs Shannon (2010)
 
+## Snare
+
+**What snare does Shannon Larkin use?** Shannon Larkin plays a ddrum Dios 14x6.5" Maple.
+
+| Field | Value |
+|---|---|
+| Brand | ddrum |
+| Model | Dios Maple |
+| Size | 14x6.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Shannon Larkin use?**

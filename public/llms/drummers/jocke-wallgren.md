@@ -59,6 +59,19 @@ Zildjian A Custom and K Custom Series cymbals define the Jocke Wallgren drum kit
 - Twilight of the Thunder God - Drum Performance (2017)
 - First Kill - Live Drum Cam (2018)
 
+## Snare
+
+**What snare does Jocke Wallgren use?** Jocke Wallgren plays a Pearl Reference 14x6.5" Brass.
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Reference Brass |
+| Size | 14x6.5" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Jocke Wallgren play?**

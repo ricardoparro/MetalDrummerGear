@@ -58,6 +58,18 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
 - 10 Times Bill Ward Was the Best Drummer on Earth (2021)
 - The Genius of Bill Ward (2020)
 
+## Snare
+
+**What snare does Bill Ward use?** Bill Ward plays a Ludwig Supraphonic 14x6.5" LM402.
+
+| Field | Value |
+|---|---|
+| Brand | Ludwig |
+| Model | Supraphonic LM402 |
+| Size | 14x6.5" |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Bill Ward play?**

@@ -59,6 +59,19 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
 
 - Dimmu Borgir - Progenies of the Great Apocalypse (Drum Cam) (2018)
 
+## Snare
+
+**What snare does Daray use?** Daray plays a Pearl Reference 14x5.5" Brass.
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Reference Brass |
+| Size | 14x5.5" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Daray play?**

@@ -59,6 +59,17 @@ Otto studied jazz drumming at the Douglas Anderson School of the Arts and played
 - Drum Solo (Classic) (2006)
 - Interview and Rollin' LIVE Drum Cam (2024)
 
+## Snare
+
+**What snare does John Otto use?** John Otto plays a OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply.
+
+| Field | Value |
+|---|---|
+| Brand | OCDP |
+| Size | 14x6.5" |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does John Otto play?**

@@ -63,6 +63,19 @@ Beyond his drumming career, Koperweis is a prolific producer and electronic arti
 - Navene Koperweis - ENTHEOS - The Sinking Sun (Drum Playthrough) (2023)
 - Entheos - Life In Slow Motion | Navene Koperweis Drum Playthrough (2024)
 
+## Snare
+
+**What snare does Navene Koperweis use?** Navene Koperweis plays a DW Performance 14x6.5" Steel.
+
+| Field | Value |
+|---|---|
+| Brand | DW |
+| Model | Performance Steel |
+| Size | 14x6.5" |
+| Shell | Steel |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Navene Koperweis play?**

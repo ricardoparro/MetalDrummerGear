@@ -63,6 +63,19 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
 - Aquiles Priester & Thomas Lang Workshop (2025)
 - I Wanna Be Somebody - Drum Playthrough (2024)
 
+## Snare
+
+**What snare does Aquiles Priester use?** Aquiles Priester plays a Pearl Reference 14x6.5" Brass.
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Reference Brass |
+| Size | 14x6.5" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Aquiles Priester play?**

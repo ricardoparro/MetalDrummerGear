@@ -56,6 +56,18 @@ Before Lamb of God, Cruz built his reputation through extensive work with Winds 
 - Lamb of God - Nevermore (Art Cruz Drum Cam) (2022)
 - Lamb of God - Memento Mori (Art Cruz Drum Playthrough) (2020)
 
+## Snare
+
+**What snare does Art Cruz use?** Art Cruz plays a Ludwig 14x6.5" Black Beauty.
+
+| Field | Value |
+|---|---|
+| Brand | Ludwig |
+| Model | Black Beauty |
+| Size | 14x6.5" |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Art Cruz play?**

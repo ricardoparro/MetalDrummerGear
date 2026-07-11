@@ -61,6 +61,18 @@ See the [Nicko McBrain vs Scott Travis](/vs/scott-travis-vs-nicko-mcbrain) compa
 - Aces High - Drum Cam (Rock in Rio 2019) (2019)
 - Nicko McBrain Drum Solo - Flight of Icarus (Live) (2008)
 
+## Snare
+
+**What snare does Nicko McBrain use?** Nicko McBrain plays a Sonor Nicko McBrain Signature 14x6.5".
+
+| Field | Value |
+|---|---|
+| Brand | Sonor |
+| Model | Nicko McBrain Signature |
+| Size | 14x6.5" |
+
+Full specs: [Nicko McBrain's Signature Snare](https://metalforge.io/snares/signature/nicko-mcbrain)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Nicko McBrain play?**

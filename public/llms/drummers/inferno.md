@@ -60,6 +60,19 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
 - Behemoth - Ora Pro Nobis Lucifer (Brutal Assault 2018) (2018)
 - Behemoth - Slaves Shall Serve (Drum Cam) (2019)
 
+## Snare
+
+**What snare does Inferno use?** Inferno plays a Pearl Reference 14x5" Steel.
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Reference Steel |
+| Size | 14x5" |
+| Shell | Steel |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Inferno play?**

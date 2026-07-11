@@ -59,6 +59,19 @@ Zildjian cymbals define the Abe Cunningham drum kit's sonic character: 14" K Cus
 - Back to School - Reading Festival (BBC) (2011)
 - Sound Legacy Interview & Performance (2019)
 
+## Snare
+
+**What snare does Abe Cunningham use?** Abe Cunningham plays a SJC Custom 14x6.5" Brass.
+
+| Field | Value |
+|---|---|
+| Brand | SJC |
+| Model | Custom Brass |
+| Size | 14x6.5" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Abe Cunningham play?**

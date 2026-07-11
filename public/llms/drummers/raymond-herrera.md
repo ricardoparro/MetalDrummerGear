@@ -56,6 +56,19 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
 - Transgression - Foot Cam (2006)
 - G4 TV Drum Off (2007)
 
+## Snare
+
+**What snare does Raymond Herrera use?** Raymond Herrera plays a Tama 14x6.5" Brass.
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | Brass |
+| Size | 14x6.5" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Raymond Herrera play?**

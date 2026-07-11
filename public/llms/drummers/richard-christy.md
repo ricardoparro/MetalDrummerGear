@@ -64,6 +64,19 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
 - Scavenger of Human Sorrow Drum Intro (2020)
 - Sound of Perseverance - Drum Cover (2023)
 
+## Snare
+
+**What snare does Richard Christy use?** Richard Christy plays a Tama Starclassic 14x6.5" Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | Starclassic Maple |
+| Size | 14x6.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Richard Christy play?**

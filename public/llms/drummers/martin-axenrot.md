@@ -52,6 +52,19 @@ Martin Axenrot (born March 17, 1979, in Stockholm, Sweden) is a Swedish drummer 
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Remo
 
+## Snare
+
+**What snare does Martin Axenrot use?** Martin Axenrot plays a Sonor SQ2 14x5.75" Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Sonor |
+| Model | SQ2 Maple |
+| Size | 14x5.75" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Martin Axenrot play?**

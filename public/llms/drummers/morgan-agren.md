@@ -57,6 +57,19 @@ Morgan Ågren (born November 4, 1967, in Umeå, Sweden) is a Swedish drummer and
 - Drum Improv Session (2011)
 - Weird Drum Ideas - Interview (2020)
 
+## Snare
+
+**What snare does Morgan Ågren use?** Morgan Ågren plays a Sonor Designer 14x5.5" Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Sonor |
+| Model | Designer Maple |
+| Size | 14x5.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Morgan Ågren play?**

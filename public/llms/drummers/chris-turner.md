@@ -59,6 +59,19 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
 - Endless Hollow - Drum Playthrough (2023)
 - Escapist - Drum Playthrough (2021)
 
+## Snare
+
+**What snare does Chris Turner use?** Chris Turner plays a Tama S.L.P. 14x5.5" G-Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | S.L.P. G-Maple |
+| Size | 14x5.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drums does Chris Turner play?**

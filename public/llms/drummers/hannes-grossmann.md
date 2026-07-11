@@ -62,6 +62,19 @@ Grossmann first gained international recognition as the drummer for Necrophagist
 - Practice Makes Progress - Breakdown (2022)
 - Alter Magnitudes - Drum Playthrough (2021)
 
+## Snare
+
+**What snare does Hannes Grossmann use?** Hannes Grossmann plays a DW Collectors 14x5.5" Maple.
+
+| Field | Value |
+|---|---|
+| Brand | DW |
+| Model | Collectors Maple |
+| Size | 14x5.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Hannes Grossmann play?**

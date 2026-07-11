@@ -53,6 +53,19 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
 
 - Sean Reinert's Drum Cam: Last Live with Cynic Playing "Veil of Maya" (2015)
 
+## Snare
+
+**What snare does Sean Reinert use?** Sean Reinert plays a Tama Artstar II Birch 14x5.5".
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | Artstar II Birch |
+| Size | 14x5.5" |
+| Shell | Birch |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What albums did Sean Reinert play drums on?**

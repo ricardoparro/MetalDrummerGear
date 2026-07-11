@@ -61,6 +61,19 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
 - The Conjuring - Drum Playthrough (2020)
 - Tornado of Souls - Live Drum Cam (2023)
 
+## Snare
+
+**What snare does Dirk Verbeuren use?** Dirk Verbeuren plays a Tama S.L.P. Big Black Steel 14x6.5".
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | S.L.P. Big Black Steel |
+| Size | 14x6.5" |
+| Shell | Steel |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Dirk Verbeuren play?**

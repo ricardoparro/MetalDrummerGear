@@ -75,6 +75,18 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
 - For Whom The Bell Tolls - Lars Angle (Cunning Stunts) (1997)
 - Enter Sandman - S&M Lars Cam (1999)
 
+## Snare
+
+**What snare does Lars Ulrich use?** Lars Ulrich plays a Tama LU1465 Lars Ulrich Signature 14x6.5".
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | LU1465 Lars Ulrich Signature |
+| Size | 14x6.5" |
+
+Full specs: [Lars Ulrich's Signature Snare](https://metalforge.io/snares/signature/lars-ulrich)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Lars Ulrich use?**

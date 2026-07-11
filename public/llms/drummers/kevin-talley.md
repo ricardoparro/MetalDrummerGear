@@ -62,6 +62,19 @@ Sabian AAX Series cymbals round out the Kevin Talley drum kit: 14" Stage Hi-Hats
 - Subjected to a Beating - Insane Drum Break (2019)
 - Dying Fetus - Live Poland (Drum Cam) (2023)
 
+## Snare
+
+**What snare does Kevin Talley use?** Kevin Talley plays a Pearl Masters 14x5.5" Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Masters Maple |
+| Size | 14x5.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Kevin Talley play?**

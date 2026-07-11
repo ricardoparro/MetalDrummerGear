@@ -55,6 +55,19 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
 
 - At The Gates - Blinded By Fear [Official Video] (1995)
 
+## Snare
+
+**What snare does Adrian Erlandsson use?** Adrian Erlandsson plays a Tama Starclassic Bubinga 14x6.5".
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | Starclassic Bubinga |
+| Size | 14x6.5" |
+| Shell | Bubinga |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What bands has Adrian Erlandsson played drums for?**

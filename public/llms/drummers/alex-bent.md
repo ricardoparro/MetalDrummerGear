@@ -55,6 +55,19 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
 - Trivium - Betrayer (Alex Bent Drum Playthrough) (2017)
 - Trivium - The Sin and the Sentence (Drum Cut) (2017)
 
+## Snare
+
+**What snare does Alex Bent use?** Alex Bent plays a Pearl Reference 14x5" Brass.
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Reference Brass |
+| Size | 14x5" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Alex Bent play?**

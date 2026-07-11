@@ -57,6 +57,19 @@ Meinl Byzance Series cymbals complete the Matt Garstka drum kit: 15" Dual Hi-Hat
 
 - Animals as Leaders - Physical Education (Drum Playthrough) (2014)
 
+## Snare
+
+**What snare does Matt Garstka use?** Matt Garstka plays a Tama S.L.P. 14x6" G-Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | S.L.P. G-Maple |
+| Size | 14x6" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Matt Garstka play?**

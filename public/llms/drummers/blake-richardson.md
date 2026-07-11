@@ -59,6 +59,19 @@ Sabian cymbals round out the Blake Richardson drum kit: 14" HHX Evolution Hi-Hat
 - BTBAM Grooves & Fills Breakdown (2020)
 - Recording Obfuscation (2018)
 
+## Snare
+
+**What snare does Blake Richardson use?** Blake Richardson plays a Tama STARPHONIC 14x6" Brass.
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | STARPHONIC Brass |
+| Size | 14x6" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What band is Blake Richardson in?**

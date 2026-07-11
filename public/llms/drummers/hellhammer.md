@@ -61,6 +61,19 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
 - Mayhem - Chainsaw Gutsfuck (Drum Cam) (2019)
 - Hellhammer Sound Check 2024 (2024)
 
+## Snare
+
+**What snare does Hellhammer use?** Hellhammer plays a Sonor SQ2 14x5.5" Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Sonor |
+| Model | SQ2 Maple |
+| Size | 14x5.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Hellhammer play?**

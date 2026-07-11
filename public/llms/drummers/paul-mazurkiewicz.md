@@ -57,6 +57,19 @@ The Sabian AAX cymbal spread rounds out the Paul Mazurkiewicz drum set: 14" AAX 
 
 - Cannibal Corpse - Hammer Smashed Face (Drum Cam) (2018)
 
+## Snare
+
+**What snare does Paul Mazurkiewicz use?** Paul Mazurkiewicz plays a Pearl Masters 14x6.5" Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Masters Maple |
+| Size | 14x6.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Paul Mazurkiewicz play?**

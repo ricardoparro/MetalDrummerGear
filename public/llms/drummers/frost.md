@@ -61,6 +61,19 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
 - Forhekset - Live Poland (Drum Cam) (2025)
 - The Pentagram Burns - Live Drum Cam (2025)
 
+## Snare
+
+**What snare does Frost use?** Frost plays a Sonor SQ2 14x6" Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Sonor |
+| Model | SQ2 Maple |
+| Size | 14x6" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Frost play?**

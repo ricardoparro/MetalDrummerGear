@@ -62,6 +62,19 @@ Zildjian K & A Custom Series cymbals complete the Jason Bittner drum kit: 14" K 
 - Last Man Standing - Drum Cam (Budapest) (2019)
 - Overkill Live Performance (2020)
 
+## Snare
+
+**What snare does Jason Bittner use?** Jason Bittner plays a Mapex Black Panther 14x6.5" Brass.
+
+| Field | Value |
+|---|---|
+| Brand | Mapex |
+| Model | Black Panther Brass |
+| Size | 14x6.5" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Jason Bittner play?**

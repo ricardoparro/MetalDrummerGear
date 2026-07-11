@@ -61,6 +61,18 @@ See the [Scott Travis vs Nicko McBrain](/vs/scott-travis-vs-nicko-mcbrain) compa
 - Judas Priest - Firepower Tour (Drum Cam) (2018)
 - Judas Priest - Breaking the Law (Live) (2015)
 
+## Snare
+
+**What snare does Scott Travis use?** Scott Travis plays a ddrum Scott Travis Signature 14x6.5".
+
+| Field | Value |
+|---|---|
+| Brand | ddrum |
+| Model | Scott Travis Signature |
+| Size | 14x6.5" |
+
+Full specs: [Scott Travis's Signature Snare](https://metalforge.io/snares/signature/scott-travis)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Scott Travis play?**

@@ -62,6 +62,19 @@ Zildjian K Dark Series cymbals define the Ben Koller drum sound: 14" K Dark Thin
 - Full Set Live Drum Cam (2016) (2016)
 - Vengeance (No Heroes) - Live (2023)
 
+## Snare
+
+**What snare does Ben Koller use?** Ben Koller plays a Tama S.L.P. 14x6" Brass.
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | S.L.P. Brass |
+| Size | 14x6" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What band is Ben Koller most known for?**

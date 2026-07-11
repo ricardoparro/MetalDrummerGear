@@ -75,6 +75,22 @@ try {
   console.warn('Could not load signature licks, continuing without them:', e.message);
 }
 
+// --- Load verified snares (index by drummerSlug) ----------------------------------
+// Issue #4311 (phase 3 of epic #4308): source the per-drummer /llms/ "Snare" section
+// from the same SNARES data module the /snares/signature/<drummer> pages read from,
+// so the two surfaces can never drift apart.
+let snaresByDrummerSlug = {};
+try {
+  const snaresPath = path.join(__dirname, '../packages/frontend/data/snares.js');
+  const snaresContent = fs.readFileSync(snaresPath, 'utf-8');
+  const transformed = snaresContent
+    .replace(/^export const /gm, 'const ')
+    .replace(/^export function /gm, 'function ');
+  snaresByDrummerSlug = eval(`(function() { ${transformed}; return DRUMMER_SNARE; })()`);
+} catch (e) {
+  console.warn('Could not load snares, continuing without them:', e.message);
+}
+
 const today = new Date().toISOString().split('T')[0];
 const BASE = 'https://metalforge.io';
 
@@ -171,6 +187,26 @@ function buildMarkdown(drummer) {
     if (g.pedals) md += `- **Pedals:** ${g.pedals}\n`;
     if (g.electronics) md += `- **Electronics:** ${g.electronics}\n`;
     md += `\n`;
+  }
+
+  // --- Snare cross-reference (Issue #4311) --------------------------------------
+  // Omit the section entirely when this drummer has no verified entry in
+  // DRUMMER_SNARE — never a thin/fabricated section.
+  const snare = snaresByDrummerSlug[slug];
+  if (snare) {
+    md += `## Snare\n\n`;
+    md += `**What snare does ${drummer.name} use?** ${drummer.name} plays a ${snare.summary}.\n\n`;
+    md += `| Field | Value |\n|---|---|\n`;
+    if (snare.brand) md += `| Brand | ${snare.brand} |\n`;
+    if (snare.model) md += `| Model | ${snare.model} |\n`;
+    md += `| Size | ${snare.sizeIn}x${snare.depthIn}" |\n`;
+    if (snare.shellMaterial) md += `| Shell | ${snare.shellMaterial} |\n`;
+    md += `\n`;
+    if (snare.isSignature) {
+      md += `Full specs: [${drummer.name}'s Signature Snare](${BASE}/snares/signature/${slug})\n\n`;
+    } else {
+      md += `More on choosing a metal snare: [Snares Guide](${BASE}/snares)\n\n`;
+    }
   }
 
   // --- Notable songs / performances (videos) -----------------------------------

@@ -64,6 +64,19 @@ Roddy is considered one of the pioneers of modern extreme metal drumming, having
 - NAMM Drum Solo (2015)
 - Black Seeds of Vengeance - Drum Fill (2019)
 
+## Snare
+
+**What snare does Derek Roddy use?** Derek Roddy plays a Tama SLP Black Brass 14x6.5".
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | SLP Black Brass |
+| Size | 14x6.5" |
+| Shell | Brass |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Derek Roddy play?**

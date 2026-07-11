@@ -59,6 +59,19 @@ Zildjian cymbals form a sprawling array across the Mario Duplantier drum kit: 14
 - Gojira - Stranded (Live Drum Cam) (2017)
 - Gojira - Flying Whales (Live Drum Cam) (2019)
 
+## Snare
+
+**What snare does Mario Duplantier use?** Mario Duplantier plays a Tama S.L.P. 14x6.5" G-Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Tama |
+| Model | S.L.P. G-Maple |
+| Size | 14x6.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drums does Mario Duplantier play?**

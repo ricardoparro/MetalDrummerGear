@@ -62,6 +62,18 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
 - Scorpions - Rock You Like a Hurricane (Official) (2010)
 - Mikkey Dee - Drum Interview & Demo (2016)
 
+## Snare
+
+**What snare does Mikkey Dee use?** Mikkey Dee plays a Yamaha Mikkey Dee Signature 14x8".
+
+| Field | Value |
+|---|---|
+| Brand | Yamaha |
+| Model | Mikkey Dee Signature |
+| Size | 14x8" |
+
+Full specs: [Mikkey Dee's Signature Snare](https://metalforge.io/snares/signature/mikkey-dee)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Mikkey Dee play?**

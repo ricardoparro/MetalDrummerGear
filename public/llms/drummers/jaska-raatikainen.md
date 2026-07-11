@@ -59,6 +59,19 @@ The Jaska Raatikainen drum set centers on a Pearl Masters 14Ã—5.5" Maple snare â
 - Everytime I Die - Drum Cam (Munich) (2017)
 - Lake Bodom - Tuska Festival Drum Cam (2014)
 
+## Snare
+
+**What snare does Jaska Raatikainen use?** Jaska Raatikainen plays a Pearl Masters 14x5.5" Maple.
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Masters Maple |
+| Size | 14x5.5" |
+| Shell | Maple |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Jaska Raatikainen play?**

@@ -56,6 +56,19 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
 - Slayer - Disciple (Drum Cam, Paso Robles) (2017)
 - Slayer - Dittohead (Drum Cam, Final World Tour) (2018)
 
+## Snare
+
+**What snare does Paul Bostaph use?** Paul Bostaph plays a Pearl Masters Steel 14x6.5".
+
+| Field | Value |
+|---|---|
+| Brand | Pearl |
+| Model | Masters Steel |
+| Size | 14x6.5" |
+| Shell | Steel |
+
+More on choosing a metal snare: [Snares Guide](https://metalforge.io/snares)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Paul Bostaph play?**

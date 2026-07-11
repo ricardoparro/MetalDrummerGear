@@ -18,6 +18,7 @@ import {
   generateCanonicalUrl,
 } from '../data/cymbalReferencePages';
 import { CYMBAL_SETUPS } from '../data/cymbalSetups';
+import { getBrand } from '../data/cymbalBrands';
 
 function injectSchema(id, schema) {
   if (Platform.OS !== 'web' || typeof document === 'undefined' || !schema) return;
@@ -121,17 +122,63 @@ function CymbalSetupCard({ drummer, setup, theme }) {
   return card;
 }
 
-function BrandRow({ brand, theme }) {
-  const slug = toSlug(brand.name);
-  const row = (
-    <View style={styles.brandRow}>
-      <Text style={[styles.brandName, { color: theme.primary || theme.text }]}>{brand.name}</Text>
-      <Text style={[styles.brandNote, { color: theme.secondaryText || theme.text }]}>{brand.note}</Text>
+function BrandsHubLink({ theme, onNavigate }) {
+  const card = (
+    <View style={[styles.ctaCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>
+      <Text style={[styles.ctaCardText, { color: theme.text }]}>🔔 See all cymbal brands →</Text>
     </View>
   );
   if (Platform.OS === 'web') {
     return (
-      <a href={`/brands/${slug}`} style={{ textDecoration: 'none', display: 'block', width: '100%' }}>
+      <a
+        href="/cymbals/brands"
+        onClick={(e) => { if (onNavigate) { e.preventDefault(); onNavigate(); } }}
+        style={{ textDecoration: 'none', display: 'block', width: '100%' }}
+      >
+        {card}
+      </a>
+    );
+  }
+  return card;
+}
+
+function BestForMetalLink({ theme, onNavigate }) {
+  const card = (
+    <View style={[styles.ctaCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>
+      <Text style={[styles.ctaCardText, { color: theme.text }]}>🤘 Full best-for-metal buying guide →</Text>
+    </View>
+  );
+  if (Platform.OS === 'web') {
+    return (
+      <a
+        href="/cymbals/best-for-metal"
+        onClick={(e) => { if (onNavigate) { e.preventDefault(); onNavigate(); } }}
+        style={{ textDecoration: 'none', display: 'block', width: '100%' }}
+      >
+        {card}
+      </a>
+    );
+  }
+  return card;
+}
+
+function BrandRow({ brand, theme, onNavigateBrand }) {
+  const matchedBrand = getBrand(toSlug(brand.name));
+  const row = (
+    <View style={styles.brandRow}>
+      <Text style={[styles.brandName, { color: matchedBrand ? (theme.primary || theme.text) : theme.text }]}>{brand.name}</Text>
+      <Text style={[styles.brandNote, { color: theme.secondaryText || theme.text }]}>{brand.note}</Text>
+    </View>
+  );
+  if (!matchedBrand) return row;
+  const url = `/cymbals/brands/${matchedBrand.slug}`;
+  if (Platform.OS === 'web') {
+    return (
+      <a
+        href={url}
+        onClick={(e) => { if (onNavigateBrand) { e.preventDefault(); onNavigateBrand(matchedBrand.slug); } }}
+        style={{ textDecoration: 'none', display: 'block', width: '100%' }}
+      >
         {row}
       </a>
     );
@@ -139,7 +186,7 @@ function BrandRow({ brand, theme }) {
   return row;
 }
 
-export function CymbalsHubPage({ theme: themeProp, drummers = [], onNavigateReference }) {
+export function CymbalsHubPage({ theme: themeProp, drummers = [], onNavigateReference, onNavigateBrandsHub, onNavigateBrand, onNavigateBestForMetal }) {
   const theme = themeProp || themes.dark;
 
   useEffect(() => {
@@ -190,11 +237,13 @@ export function CymbalsHubPage({ theme: themeProp, drummers = [], onNavigateRefe
 
       <Text style={[styles.h2, { color: theme.text }]}>Major cymbal brands</Text>
       {PILLAR_PAGE.brands.map((brand) => (
-        <BrandRow key={brand.name} brand={brand} theme={theme} />
+        <BrandRow key={brand.name} brand={brand} theme={theme} onNavigateBrand={onNavigateBrand} />
       ))}
+      <BrandsHubLink theme={theme} onNavigate={onNavigateBrandsHub} />
 
       <Text style={[styles.h2, { color: theme.text }]}>Best cymbals for metal</Text>
       <Text style={[styles.body, { color: theme.secondaryText || theme.text }]}>{PILLAR_PAGE.bestForMetal}</Text>
+      <BestForMetalLink theme={theme} onNavigate={onNavigateBestForMetal} />
 
       {drummerSetups.length > 0 && (
         <>
@@ -234,6 +283,8 @@ const styles = StyleSheet.create({
   refCard: { borderWidth: 1, borderRadius: 10, padding: 14, height: '100%' },
   refCardTitle: { fontSize: 16, fontWeight: '700', marginBottom: 6 },
   refCardDesc: { fontSize: 13, lineHeight: 18 },
+  ctaCard: { borderWidth: 1, borderRadius: 10, padding: 14, marginTop: 4, marginBottom: 8 },
+  ctaCardText: { fontSize: 15, fontWeight: '700' },
   brandRow: { marginBottom: 10 },
   brandName: { fontSize: 16, fontWeight: '700' },
   brandNote: { fontSize: 14, lineHeight: 20 },

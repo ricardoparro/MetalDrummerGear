@@ -1,0 +1,71 @@
+# Metal Drummer Cymbal Setups — Complete List
+
+This page indexes every verified cymbal setup catalogued in MetalForge's cymbals database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
+
+> Last Updated: 2026-07-11 · Source: https://metalforge.io
+
+For types, alloys, and sizing/weight reference pages see [https://metalforge.io/cymbals](https://metalforge.io/cymbals). For brand positioning and metal-relevant series see [https://metalforge.io/cymbals/brands](https://metalforge.io/cymbals/brands). For a buying guide by budget tier see [https://metalforge.io/cymbals/best-for-metal](https://metalforge.io/cymbals/best-for-metal).
+
+## All 56 Cymbal Setup Records
+
+- Lars Ulrich — [Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride)](https://metalforge.io/drummer/lars-ulrich)
+- Joey Jordison — [Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride)](https://metalforge.io/drummer/joey-jordison)
+- Gene Hoglan — [Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)](https://metalforge.io/drummer/gene-hoglan)
+- Dave Lombardo — [Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)](https://metalforge.io/drummer/dave-lombardo)
+- Tomas Haake — [Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China)](https://metalforge.io/drummer/tomas-haake)
+- George Kollias — [Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China)](https://metalforge.io/drummer/george-kollias)
+- Eloy Casagrande — [Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong)](https://metalforge.io/drummer/eloy-casagrande)
+- John Otto — [Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom)](https://metalforge.io/drummer/john-otto)
+- Jay Weinberg — [Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell)](https://metalforge.io/drummer/jay-weinberg)
+- Mario Duplantier — [Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas)](https://metalforge.io/drummer/mario-duplantier)
+- Chris Adler — [Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)](https://metalforge.io/drummer/chris-adler)
+- Inferno — [Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China)](https://metalforge.io/drummer/inferno)
+- Hellhammer — [Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China)](https://metalforge.io/drummer/hellhammer)
+- Art Cruz — [Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell)](https://metalforge.io/drummer/art-cruz)
+- Navene Koperweis — [Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash)](https://metalforge.io/drummer/navene-koperweis)
+- Alex Bent — [Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China)](https://metalforge.io/drummer/alex-bent)
+- Shannon Larkin — [Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese)](https://metalforge.io/drummer/shannon-larkin)
+- Raymond Herrera — [Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China)](https://metalforge.io/drummer/raymond-herrera)
+- morgan-agren — [Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China)](https://metalforge.io/drummer/morgan-agren)
+- Igor Cavalera — [Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)](https://metalforge.io/drummer/igor-cavalera)
+- Bill Ward — [Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China)](https://metalforge.io/drummer/bill-ward)
+- Chris Turner — [Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China)](https://metalforge.io/drummer/chris-turner)
+- Matt Greiner — [Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)](https://metalforge.io/drummer/matt-greiner)
+- Blake Richardson — [Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime)](https://metalforge.io/drummer/blake-richardson)
+- Ben Koller — [Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China)](https://metalforge.io/drummer/ben-koller)
+- Flo Mounier — [Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China)](https://metalforge.io/drummer/flo-mounier)
+- Jason Bittner — [Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China)](https://metalforge.io/drummer/jason-bittner)
+- Martin Lopez — [Zildjian K Dark Series (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China)](https://metalforge.io/drummer/martin-lopez)
+- Travis Orbin — [Zildjian K Custom Series (14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride, 18" K Custom China)](https://metalforge.io/drummer/travis-orbin)
+- Ryan Van Poederooyen — [Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China)](https://metalforge.io/drummer/ryan-van-poederooyen)
+- Nicko McBrain — [Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China)](https://metalforge.io/drummer/nicko-mcbrain)
+- Scott Travis — [Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China)](https://metalforge.io/drummer/scott-travis)
+- Mikkey Dee — [Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)](https://metalforge.io/drummer/mikkey-dee)
+- Derek Roddy — [Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China)](https://metalforge.io/drummer/derek-roddy)
+- Dirk Verbeuren — [Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China)](https://metalforge.io/drummer/dirk-verbeuren)
+- Frost — [Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China)](https://metalforge.io/drummer/frost)
+- Gavin Harrison — [Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China)](https://metalforge.io/drummer/gavin-harrison)
+- Abe Cunningham — [Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China)](https://metalforge.io/drummer/abe-cunningham)
+- Richard Christy — [Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese)](https://metalforge.io/drummer/richard-christy)
+- Aquiles Priester — [Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese)](https://metalforge.io/drummer/aquiles-priester)
+- Paul Mazurkiewicz — [Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China)](https://metalforge.io/drummer/paul-mazurkiewicz)
+- Mike Mangini — [Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)](https://metalforge.io/drummer/mike-mangini)
+- Matt Garstka — [Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride)](https://metalforge.io/drummer/matt-garstka)
+- Daniel Erlandsson — [Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride)](https://metalforge.io/drummer/daniel-erlandsson)
+- Jaska Raatikainen — [Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride)](https://metalforge.io/drummer/jaska-raatikainen)
+- Hannes Grossmann — [Meinl Byzance Series (14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride)](https://metalforge.io/drummer/hannes-grossmann)
+- Daray — [Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride)](https://metalforge.io/drummer/daray)
+- Jocke Wallgren — [Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride)](https://metalforge.io/drummer/jocke-wallgren)
+- Tim Yeung — [Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride)](https://metalforge.io/drummer/tim-yeung)
+- Kevin Talley — [Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride)](https://metalforge.io/drummer/kevin-talley)
+- Martin Axenrot — [Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China)](https://metalforge.io/drummer/martin-axenrot)
+- Paul Bostaph — [Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China)](https://metalforge.io/drummer/paul-bostaph)
+- Sean Reinert — [Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash)](https://metalforge.io/drummer/sean-reinert)
+- Nick Menza — [Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride)](https://metalforge.io/drummer/nick-menza)
+- Adrian Erlandsson — [Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)](https://metalforge.io/drummer/adrian-erlandsson)
+- Jon Dette — [Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China)](https://metalforge.io/drummer/jon-dette)
+
+---
+
+**More LLM resources:** 
+[Endorsements Hub](https://metalforge.io/llms/endorsements.md) · [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Master FAQ](https://metalforge.io/llms/faq.md) · [Site index](https://metalforge.io/llms.txt)

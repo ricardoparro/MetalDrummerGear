@@ -171,6 +171,12 @@ import { getBrandForStick } from './data/drumstickBrands';
 // /snares/signature/<drummer> pages (Issue #4311, phase 3/4). Tiny static
 // module, safe to import eagerly.
 import { DRUMMER_SNARE, getSnareForDrummer } from './data/snares';
+// Cymbal setups data module (Issue #4303 phase 1) — verified drummer→cymbal
+// mapping used by the drummer-page "Cymbals" block.
+import { getSetupForDrummer } from './data/cymbalSetups';
+// Cymbal brand pages (Issue #4307, epic #4303 phase 4/4) — used to link the
+// drummer-page "Cymbals" block to the matching /cymbals/brands/<brand> page.
+import { getBrandForCymbalSetup } from './data/cymbalBrands';
 
 // ==========================================
 // LAZY-LOADED DATA MODULES - Performance Optimization (#708)
@@ -348,12 +354,12 @@ const LazyBestForMetalPage = lazy(() => import('./components/BestForMetalPage').
 function isBestForMetalPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/drumsticks/best-for-metal'; }
 
 // Cymbals Hub (Issue #4305, epic #4303 phase 2/4) - SEO pillar + reference pages at /cymbals/*
-// Unlike /drumsticks, the pre-existing /gear/cymbals category page is NOT aliased
-// here — it stays a separate route until epic #4303 phase 4 consolidates it.
+// Issue #4307 (phase 4/4): /gear/cymbals now 301s to /cymbals (vercel.json) and
+// is aliased here too, same as /gear/sticks -> /drumsticks.
 const CYMBAL_REFERENCE_SLUGS = ['types', 'alloys', 'sizes-weights'];
 const LazyCymbalsHubPage = lazy(() => import('./components/CymbalsHubPage').then(m => ({ default: m.CymbalsHubPage })));
 const LazyCymbalReferencePage = lazy(() => import('./components/CymbalReferencePage').then(m => ({ default: m.CymbalReferencePage })));
-function isCymbalsHubPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/cymbals'; }
+function isCymbalsHubPage() { if (typeof window === 'undefined') return false; const p = window.location.pathname.replace(/\/+$/, ''); return p === '/cymbals' || p === '/gear/cymbals'; }
 function isCymbalReferencePage() {
   if (typeof window === 'undefined') return false;
   const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/cymbals\/([^/]+)$/)?.[1];
@@ -382,6 +388,26 @@ function getSnareReferenceSlugFromURL() {
   const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/snares\/([^/]+)$/)?.[1];
   return SNARE_REFERENCE_SLUGS.includes(slug) ? slug : null;
 }
+
+// Cymbal Brand Pages (Issue #4307, epic #4303 phase 4/4) - /cymbals/brands
+// + /cymbals/brands/<brand>. Only rendered for brands defined in
+// data/cymbalBrands.js — an unknown slug falls through to the normal 404.
+const LazyCymbalBrandsHubPage = lazy(() => import('./components/CymbalBrandsHubPage').then(m => ({ default: m.CymbalBrandsHubPage })));
+const LazyCymbalBrandPage = lazy(() => import('./components/CymbalBrandPage').then(m => ({ default: m.CymbalBrandPage })));
+function isCymbalBrandsHubPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/cymbals/brands'; }
+const CYMBAL_BRAND_RE = /^\/cymbals\/brands\/([a-z0-9-]+)\/?$/i;
+function getCymbalBrandSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(CYMBAL_BRAND_RE);
+  return match ? match[1].toLowerCase() : null;
+}
+function isCymbalBrandPage() {
+  return !!getCymbalBrandSlugFromURL();
+}
+
+// Best Cymbals for Metal guide (Issue #4307, epic #4303 phase 4/4) - /cymbals/best-for-metal
+const LazyCymbalBestForMetalPage = lazy(() => import('./components/CymbalBestForMetalPage').then(m => ({ default: m.CymbalBestForMetalPage })));
+function isCymbalBestForMetalPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/cymbals/best-for-metal'; }
 
 // Beginner Gear Guide Component (Issue #702)
 // Lazy loaded for performance optimization (#708) - 63KB component + 45KB data
@@ -2088,8 +2114,9 @@ function BrowseByGearCategory({ theme }) {
 
   const navigateToCategory = (slug) => {
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
-      // Sticks is a specialized theme area: its entrance is the /drumsticks hub.
-      const target = slug === 'sticks' ? '/drumsticks' : `/gear/${slug}`;
+      // Sticks and cymbals are specialized theme areas: their entrances are
+      // the /drumsticks and /cymbals hubs, not the generic /gear/<slug> page.
+      const target = slug === 'sticks' ? '/drumsticks' : slug === 'cymbals' ? '/cymbals' : `/gear/${slug}`;
       window.history.pushState({}, '', target);
       window.dispatchEvent(new PopStateEvent('popstate'));
     }
@@ -2100,7 +2127,7 @@ function BrowseByGearCategory({ theme }) {
       return (
         <a
           key={category.slug}
-          href={category.slug === 'sticks' ? '/drumsticks' : `/gear/${category.slug}`}
+          href={category.slug === 'sticks' ? '/drumsticks' : category.slug === 'cymbals' ? '/cymbals' : `/gear/${category.slug}`}
           onClick={(e) => { e.preventDefault(); navigateToCategory(category.slug); }}
           style={{
             textDecoration: 'none',
@@ -7436,6 +7463,34 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
               <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>
                 {mappedSnare.isSignature ? 'See full signature snare specs →' : 'More on snare shells, sizes & tuning →'}
               </Text>
+            </TouchableOpacity>
+          </View>
+        );
+      })()}
+
+      {/* Cymbal brand link block (Issue #4307, epic #4303 phase 4/4) — only
+          renders when this drummer has a verified cymbal setup in
+          data/cymbalSetups.js, so unmapped drummers get no empty block. Links
+          to the matching /cymbals/brands/<brand> page — same pattern as the
+          Sticks block above. */}
+      {(() => {
+        const cymbalSetup = getSetupForDrummer(drummerSlug);
+        if (!cymbalSetup) return null;
+        const mappedCymbalBrand = getBrandForCymbalSetup(cymbalSetup);
+        if (!mappedCymbalBrand) return null;
+        return (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <TouchableOpacity
+              onPress={() => {
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/cymbals/brands/${mappedCymbalBrand.slug}`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              accessibilityRole="link"
+              accessibilityLabel={`More about ${mappedCymbalBrand.name} cymbals`}
+            >
+              <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>More {mappedCymbalBrand.name} cymbals →</Text>
             </TouchableOpacity>
           </View>
         );
@@ -13753,35 +13808,12 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
           </Text>
         )}
 
-        {/* Cross-link: the homepage-linked /gear/cymbals category page → the new
-            /cymbals hub (epic #4303). /gear/cymbals stays the homepage tile's
-            target until phase 4's door consolidation flips it to /cymbals — this
-            banner is the interim path that guarantees the hub is reachable from
-            the homepage in the meantime. Same pattern as the sticks banner (#4279). */}
-        {category === 'cymbals' && (
-          <TouchableOpacity
-            onPress={() => {
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', '/cymbals');
-                window.dispatchEvent(new PopStateEvent('popstate'));
-              }
-            }}
-            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border, marginBottom: 16 }]}
-            accessibilityRole="link"
-            accessibilityLabel="Open the cymbal guide — types, alloys, and every verified drummer setup"
-          >
-            <Text style={[styles.backButtonText, { color: theme.primary }]}>
-              🔔 Cymbal Guide: types, alloys & every verified drummer setup →
-            </Text>
-          </TouchableOpacity>
-        )}
-
         {/* Cross-link: the homepage-linked /gear/snares category page → the new
             /snares hub (epic #4308). /gear/snares stays the homepage tile's
             target until phase 4's door consolidation flips it to /snares — this
             banner is the interim path that guarantees the hub is reachable from
             the homepage in the meantime. Same pattern as the sticks (#4279) and
-            cymbals (#4305) banners. */}
+            cymbals (#4307) door consolidations. */}
         {category === 'snares' && (
           <TouchableOpacity
             onPress={() => {
@@ -13799,6 +13831,7 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
             </Text>
           </TouchableOpacity>
         )}
+
 
         {/* Brand filters */}
         {brands.length > 0 && (
@@ -19571,7 +19604,8 @@ function getGearSlugFromURL() {
 
 // Valid gear categories
 // 'sticks' intentionally absent: /gear/sticks 301s to the specialized /drumsticks hub
-const GEAR_CATEGORIES = ['cymbals', 'snares', 'drums', 'pedals', 'hardware'];
+// 'cymbals' intentionally absent: /gear/cymbals 301s to the specialized /cymbals hub (Issue #4307)
+const GEAR_CATEGORIES = ['snares', 'drums', 'pedals', 'hardware'];
 
 // Check if we're on the gear index page (/gear)
 function isGearIndexPage() {
@@ -29197,6 +29231,120 @@ setShowList(false);
               setCymbalPageSlug(slug);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/cymbals/${slug}`);
+              }
+            }}
+            onNavigateBrandsHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/cymbals/brands');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrand={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/cymbals/brands/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBestForMetal={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/cymbals/best-for-metal');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Cymbal Brands Hub (Issue #4307, epic #4303 phase 4/4) - /cymbals/brands
+    if (isCymbalBrandsHubPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyCymbalBrandsHubPage
+            theme={theme}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/cymbals');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrand={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/cymbals/brands/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Cymbal Brand Page (Issue #4307, epic #4303 phase 4/4) - /cymbals/brands/<brand>
+    if (isCymbalBrandPage()) {
+      const cymbalBrandSlug = getCymbalBrandSlugFromURL();
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyCymbalBrandPage
+            theme={theme}
+            brandSlug={cymbalBrandSlug}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/cymbals');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrandsHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/cymbals/brands');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              const drummer = drummers.find(d => toSlug(d.name) === slug);
+              if (drummer) {
+                handleSelectDrummer(drummer);
+              }
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBestForMetal={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/cymbals/best-for-metal');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Best Cymbals for Metal guide (Issue #4307, epic #4303 phase 4/4) - /cymbals/best-for-metal
+    if (isCymbalBestForMetalPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyCymbalBestForMetalPage
+            theme={theme}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/cymbals');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              const drummer = drummers.find(d => toSlug(d.name) === slug);
+              if (drummer) {
+                handleSelectDrummer(drummer);
+              }
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrandsHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/cymbals/brands');
+                window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}
           />

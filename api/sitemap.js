@@ -62,6 +62,8 @@ import { DRUMMER_STICKS } from '../packages/frontend/data/drumsticks.js';
 import { REFERENCE_PAGE_ORDER } from '../packages/frontend/data/drumstickReferencePages.js';
 // Issue #4139 (phase 4/4 of epic #4135): /drumsticks/brands + per-brand pages.
 import { DRUMSTICK_BRANDS } from '../packages/frontend/data/drumstickBrands.js';
+// Issue #4305 (phase 2/4 of epic #4303): /cymbals hub + reference pages.
+import { REFERENCE_PAGE_ORDER as CYMBAL_REFERENCE_PAGE_ORDER } from '../packages/frontend/data/cymbalReferencePages.js';
 // Issue #4274: Endorsement Tracker pages — source slugs directly from
 // ENDORSEMENT_TIMELINE so the sitemap can never drift out of sync again.
 import { ENDORSEMENT_TIMELINE } from '../packages/frontend/data/endorsementNews.js';
@@ -599,6 +601,9 @@ export function buildSitemapXml() {
     { loc: '/drumsticks/brands', priority: '0.85', changefreq: 'monthly' },
     ...DRUMSTICK_BRANDS.map(brand => ({ loc: `/drumsticks/brands/${brand.slug}`, priority: '0.8', changefreq: 'monthly' })),
     { loc: '/drumsticks/best-for-metal', priority: '0.9', changefreq: 'monthly' },
+    // Issue #4305: /cymbals pillar page + types/alloys/sizes-weights reference pages.
+    { loc: '/cymbals', priority: '0.9', changefreq: 'weekly' },
+    ...CYMBAL_REFERENCE_PAGE_ORDER.map(slug => ({ loc: `/cymbals/${slug}`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).
     { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },

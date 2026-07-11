@@ -1,6 +1,6 @@
 # MetalForge Drummer Style Guides
 
-> Last updated: 2026-07-04 · Source: https://metalforge.io
+> Last updated: 2026-07-11 · Source: https://metalforge.io
 
 MetalForge publishes two categories of drummer guides: **how-to-sound-like** style breakdowns for metal legends, and **beginner gear guides** for drummers building their first kit. All guides cover drumming technique, exact gear setups, tuning, and practice methods.
 
@@ -8,7 +8,7 @@ MetalForge publishes two categories of drummer guides: **how-to-sound-like** sty
 
 ## How to Sound Like: Index
 
-66 in-depth guides — each covers style, technique, gear, tuning, and recommended songs to study.
+67 in-depth guides — each covers style, technique, gear, tuning, and recommended songs to study.
 
 - [Joey Jordison — Slipknot](https://metalforge.io/guides/how-to-sound-like-joey-jordison) · Nu-Metal / Alternative Metal
 - [Danny Carey — Tool](https://metalforge.io/guides/how-to-sound-like-danny-carey) · Progressive Metal / Art Metal
@@ -66,6 +66,7 @@ MetalForge publishes two categories of drummer guides: **how-to-sound-like** sty
 - [Nick Augusto — Trivium](https://metalforge.io/guides/how-to-sound-like-nick-augusto) · Thrash Metal / Metalcore
 - [Jon Dette — Slayer / Testament](https://metalforge.io/guides/how-to-sound-like-jon-dette) · Thrash Metal
 - [Raymond Herrera — Fear Factory](https://metalforge.io/guides/how-to-sound-like-raymond-herrera) · Industrial Metal / Groove Metal
+- [Adrian Erlandsson — At the Gates / Paradise Lost](https://metalforge.io/guides/how-to-sound-like-adrian-erlandsson) · Melodic Death Metal
 - [Navene Koperweis — Entheos](https://metalforge.io/guides/how-to-sound-like-navene-koperweis) · Progressive Metal / Djent / Technical Death Metal
 - [Daray — Dimmu Borgir](https://metalforge.io/guides/how-to-sound-like-daray) · Symphonic Black Metal
 - [Jason Bittner — Shadows Fall / Overkill](https://metalforge.io/guides/how-to-sound-like-jason-bittner) · NWOAHM / Thrash Metal
@@ -1900,7 +1901,7 @@ Otto's playing is built on pocket, not speed. His hands stay locked into a deep,
 **Genre:** Thrash Metal / Melodic Death Metal  
 **Guide URL:** [https://metalforge.io/guides/how-to-sound-like-dirk-verbeuren](https://metalforge.io/guides/how-to-sound-like-dirk-verbeuren)
 
-Master Dirk Verbeuren's versatile blast-and-groove hybrid style. Learn the Megadeth drummer's melodic death metal precision, thrash power, Tama Starclassic kit, and Zildjian A/K Custom cymbal setup behind Dystopia and The Sick, the Dying... and the Dead!
+Master Dirk Verbeuren's versatile blast-and-groove hybrid style. Learn the Megadeth drummer's melodic death metal precision, thrash power, Tama Starclassic kit, and Zildjian A/K Custom cymbal setup behind his studio debut, The Sick, the Dying... and the Dead!
 
 ### Style Overview
 
@@ -1916,7 +1917,7 @@ Verbeuren's signature is versatility — the same technical precision that power
 
 ### Key Songs to Study
 
-- *The Threat Is Real* (Dystopia (Megadeth), 2016) — Grammy-winning performance blending thrash aggression with technical precision
+- *We'll Be Back* (The Sick, the Dying... and the Dead! (Megadeth), 2022) — Grammy-nominated studio debut performance blending thrash aggression with technical precision
 - *Fake News* (The Sick, the Dying... and the Dead! (Megadeth), 2022) — Modern thrash gallop groove locked tightly with the riff
 - *Killing Is My Business... and Business Is Good... The Final Kill* (Killing Is My Business... (Remaster, Megadeth), 2018) — Verbeuren's re-recorded parts on the classic-era remaster
 - *Stabbing the Drama* (Stabbing the Drama (Soilwork), 2005) — Technical melodic death metal blast work from his Soilwork era
@@ -2102,6 +2103,42 @@ Herrera's technique is built on the idea that the electronics serve the performa
 - Snare: Pearl Pearl Custom 14" x 6.5"
 - Cymbals: Zildjian Zildjian Z Custom Series
 - Pedals: Pearl Pearl Eliminator Double Pedal
+
+---
+
+## How to Sound Like Adrian Erlandsson (At the Gates / Paradise Lost)
+
+**Genre:** Melodic Death Metal  
+**Guide URL:** [https://metalforge.io/guides/how-to-sound-like-adrian-erlandsson](https://metalforge.io/guides/how-to-sound-like-adrian-erlandsson)
+
+Master Adrian Erlandsson's D-beat-driven Gothenburg drumming. Learn the technique behind At the Gates' Slaughter of the Soul, his Tama Starclassic Bubinga kit, and the Sabian AAX/HHX cymbal setup he carries across At the Gates, The Haunted, and Paradise Lost.
+
+### Style Overview
+
+Erlandsson plays matched grip with an economical, punk-informed stroke built around the D-beat — a rock-steady rhythmic foundation borrowed from hardcore and crust punk, adapted to extreme metal tempo and intensity. Where more technical death metal drummers pursue maximum complexity, Erlandsson's identity is built on rhythmic discipline: the D-beat and blast-beat vocabulary he deploys is always in service of the song's melodic momentum, not a display of independent technique.
+
+**Grip:** Matched Grip — Erlandsson uses a controlled matched grip built for consistency across long blast-beat passages, prioritizing an even, driving pulse over flash. The grip stays relatively compact, letting him sustain high-tempo D-beat and blast patterns for a full song without the stroke breaking down.
+
+### Signature Patterns
+
+- **The Gothenburg D-Beat** (160-175 BPM, Intermediate): Erlandsson's core pattern: a driving D-beat foundation (snare on 2 and 4, kick on the downbeats, hi-hat pushing 8th notes) underneath tremolo-picked guitar melody, most clearly heard on the title track 'Slaughter of the Soul.' The pattern proves effective melodic death metal drumming doesn't require maximum velocity — it requires the right groove.
+- **Full-Intensity Blast Entrance** (190-200 BPM, Advanced): Erlandsson's opening blast beat on 'Blinded by Fear' is one of melodic death metal's most iconic entrances — immediate full-velocity blast with no build-up, alternating single strokes on snare against a driving kick pattern, accented by China cymbal hits at riff transitions.
+- **China Cymbal Accent Punctuation** (Variable, Intermediate): Throughout Slaughter of the Soul, an 18" China cymbal marks riff and section transitions with an aggressive, trashy accent — a rhythmic signature that gives the Gothenburg sound its distinctive punctuation between the D-beat verses and blast-beat choruses.
+- **Double-Kick Physical Foundation** (160-200 BPM, Advanced): Erlandsson's Slaughter of the Soul-era setup used two separate bass drums rather than a double pedal on one kick, giving tracks like 'Blinded by Fear' and 'Suicide Nation' their full physical low-end impact and independent-foot control.
+
+### Key Songs to Study
+
+- *Blinded by Fear* (Slaughter of the Soul, 1995) — One of melodic death metal's most iconic blast-beat entrances — full intensity from the first bar
+- *Slaughter of the Soul* (Slaughter of the Soul, 1995) — The title track's mid-paced D-beat groove is the template the entire Gothenburg subgenre built on
+- *Cold* (Slaughter of the Soul, 1995) — Demonstrates Erlandsson's dynamic range — slower, spacious drumming that still serves the melody
+- *The Flames of the End* (Slaughter of the Soul, 1995) — Album closer showing the endurance required to sustain blast-beat intensity across a full record
+
+### Gear Setup
+
+- Drums: Tama Tama Starclassic Bubinga (Bubinga shells)
+- Snare: Tama Starclassic Bubinga 14" x 6.5"
+- Cymbals: Sabian Sabian AAX / HHX Series
+- Pedals: Monolit Monolit Czarcie Kopyto Double Pedal
 
 ---
 

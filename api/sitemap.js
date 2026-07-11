@@ -516,6 +516,8 @@ export function buildSitemapXml() {
     // Issue #1579: BPM Tap Calculator + Metal Songs BPM Database
     { loc: '/bpm', priority: '0.95', changefreq: 'weekly' },
     { loc: '/bpm-tap', priority: '0.9', changefreq: 'monthly' },
+    // Issue #4371: Gear Finder tool
+    { loc: '/gear-finder', priority: '0.85', changefreq: 'weekly' },
     // Issue #729: Tools Hub landing page
     { loc: '/tools', priority: '0.95', changefreq: 'weekly' },
     // Issue #704: Tools pages (viral tools)

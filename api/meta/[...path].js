@@ -415,6 +415,16 @@ function getMetaForPath(pathname) {
     };
   }
 
+  if (path === '/gear-finder') {
+    return {
+      title: `Gear Finder — Search Metal Drummer Equipment by Brand | ${SITE_NAME}`,
+      description: 'Search and filter metal drummer gear by brand, drummer, or equipment type. Find exactly what kit, cymbals, or hardware your favorite pro uses.',
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/gear-finder`,
+    };
+  }
+
   // Stats hub
   if (path === '/stats') {
     return {

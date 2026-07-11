@@ -5,6 +5,30 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-11 00:22 UTC*
 
 ---
+## 2026-07-11 — Pulse: 4 fresh llms-hub-drift proposals verified and promoted, backlog 3→7
+
+### Context (≤3 lines)
+Metrics refreshed 05:51 UTC (177 users/213 sessions/386 views 7d; GSC 4,188 impr/127 clicks/3.03% CTR/pos 8.6 — no content-gap rows). Backlog was 3 eligible `ai-fix` (#4205, #4267, #4276 — all pre-existing CI-check proposals), 0 open PRs. 4 fresh untriaged `seo-proposal` (#4290-4293, 05:10-05:11 UTC), all the same bug class: `/llms/*.md` aggregation hubs drifted stale vs. their per-entity source files.
+
+### Actions taken
+- Verified all 4 directly against source before promoting (not just trusting the issue body). **#4290** (gear-history hub): `grep -c "^## " public/llms/gear-history.md` = 7 vs `ls public/llms/gear-history/*.md` = 66 files, no generator script exists yet. **#4291** (techniques hub): hub has 13 sections vs 29 technique keys/29 per-slug files — generator exists, just needs re-run. **#4292** (lists hub): 95 sections in hub vs 98 files on disk (the 3 from #4256's goregrind/rap-metal/polyrhythmic batch never got folded in). **#4293** (gear-news hub): header says "21 total events" vs 22 `date:` entries in the data module. All 4 confirmed true, atomic, low-risk (regen-or-write-one-generator + commit), and match the already-established "generator-level LLM surface gap" promote pattern (`learned-patterns.md` line 46). Promoted all 4 to `ai-fix`.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: oldest open `ai-fix` is #4205 (~1 day old) — under the 3-day trigger, no split needed; all 7 open ai-fix issues are single-deliverable regens/CI-checks anyway. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819): still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
+
+### State delta
+- ai-fix backlog: 3 → 7 eligible (#4290, #4291, #4292, #4293 promoted)
+- seo-proposal bank: 4 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 177/213/386 · GSC unchanged: 4,188 impr / 127 clicks / 3.03% CTR / pos 8.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 7 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
+2. Watch #4290-4293 ship, then spot-check the regenerated hub files against `curl https://metalforge.io/llms/<hub>.md` post-deploy.
+3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+---
 ## 2026-07-11 13:00 (state-confirm — anti-noise hold)
 - Backlog: 6 ai-fix (#4205, #4267, #4273, #4274, #4275, #4276 — all promoted at 09:10, unchanged) · 1 PR open (#4280, CLEAN, drumsticks content — non-ai-fix) · proposals untriaged: 0 (bank empty except umbrella trackers #3810/#3819/#2211)
 - Org / Sessions / Views (7d): 177/213/357 · GSC: 4,188 impr / 127 clicks / 3.03% CTR / pos 8.6 — no content-gap rows

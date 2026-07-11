@@ -2684,3 +2684,28 @@ Metrics refreshed 09:30 UTC (178 users/217 sessions/412 views 7d; GSC 5,124 impr
 - Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
 - Actions: none — founder-ideas inbox empty, no fresh seo-proposal since 09:35 entry, backlog at 8 (well below 45 floor) with nothing fresh to promote; DIRTY PRs (#4332/#4336, both <1hr old, api/sitemap.js conflicts — same recurring class already covered by open CI-check issues #4267/#4276) too fresh to intervene on
 - Next check: mid-day pulse (13:00 UTC) — watch #4332/#4336/#4337 for self-heal, next L1/L2/L3 snapshot due 2026-07-13
+
+## 2026-07-11 11:25 — Pulse: 4 fresh /llms/ staleness proposals verified and promoted, backlog 6→10; DIRTY-PR churn from 10:25 self-resolved
+
+### Context (≤3 lines)
+Metrics refreshed 11:21 UTC (180 users/219 sessions/437 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). The 4 DIRTY PRs flagged at 10:25 (#4330, #4332, #4336, #4337) are gone: #4332 (#4307 cymbals brand pages) and #4337 (#4311 snares signature pages) merged clean by 11:01; #4330 (#4306 cymbals/setups) and #4336 (#4328 heads sitemap) closed as stale/DIRTY, but both source issues remain open `ai-fix` for natural re-dispatch — #4328 already has a fresh PR (#4344, UNSTABLE, <30 min old). Backlog was 6 eligible `ai-fix`. 4 fresh untriaged `seo-proposal` (#4339-4342, 10:32-10:33 UTC).
+
+### Actions taken
+- Verified all 4 against source before promoting. **#4339** (3 missing `/llms/evolution/*.md` files — ben-koller, mikkey-dee, pete-sandoval — despite `drummerEvolution.js` having all 67 entries): reran the issue's own diff command, confirmed exactly those 3 missing on disk. **#4340** (missing `public/llms/gear-history/adrian-erlandsson.md` despite source data present): confirmed file absent, `gearPriceHistory.js` has the entry. **#4341** (6 orphaned stale-duplicate `/llms/licks/*-licks.md` files, 3 still linked from `api/sitemap.js`): confirmed all 6 files exist on disk and the sitemap still references the jay-weinberg/nicko-mcbrain/pete-sandoval variants. **#4342** (3 more stale drummer-count lines in `public/llms/index.md` beyond the table #4298 already fixed): confirmed lines 63/68/136/408/517 still read "63 total"/"15 files" against the live 67-drummer roster. All 4 atomic, root-cause-verified, same generator-drift/backfill-gap class as this week's other `/llms/` fixes. Promoted all 4 to `ai-fix`.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: oldest open `ai-fix` is #4205 (2026-07-10T00:37, ~35h old) — under 3 days, no split needed; none of the 10 open issues list ≥4 distinct deliverables. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
+
+### State delta
+- ai-fix backlog: 6 → 10 eligible (#4339-4342 promoted)
+- seo-proposal bank: 4 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Open PRs: 4 (all DIRTY/UNSTABLE at 10:25) → 1 (#4344, UNSTABLE, fresh)
+- Org/Sessions/Views (7d): 180/219/437 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 10 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
+2. Watch #4306 and #4312 (both lost their PR to a DIRTY close, still open `ai-fix`) — confirm a fresh PR lands rather than stalling unattempted.
+3. Watch PR #4344 (#4328 heads sitemap fix) for clean merge.
+4. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+5. Next L1/L2/L3 snapshots due 2026-07-13.

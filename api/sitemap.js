@@ -320,7 +320,7 @@ const battleSlugs = CURATED_MATCHUPS.map(m => {
 // full roster — while guaranteeing every declared URL resolves to a substantive
 // page (no thin/404 pages). This also drops the old hardcoded `pedals` URLs:
 // no drummer carries a `gear.pedals` field, so those 404'd under the renderer.
-const GEAR_CATEGORIES = ['cymbals', 'drums', 'pedals', 'hardware', 'snare', 'sticks'];
+const GEAR_CATEGORIES = ['cymbals', 'drums', 'hardware', 'snare', 'sticks', 'heads'];
 // Same presence check the renderer uses to decide a category section exists.
 function drummerHasCategoryGear(drummer, category) {
   return Boolean(drummer.gear && drummer.gear[category]);

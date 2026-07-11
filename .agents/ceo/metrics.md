@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-11 05:51 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-11 06:43 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -9,10 +9,10 @@
 | Metric | Last 7d |
 | --- | --- |
 | Active users | 177 |
-| Sessions | 213 |
+| Sessions | 215 |
 | Page views | 386 |
-| Engagement rate | 62.44% |
-| Avg session (s) | 184 |
+| Engagement rate | 61.86% |
+| Avg session (s) | 187 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -31,32 +31,32 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 167 | 141 |
-| Direct | 35 | 27 |
+| Organic Search | 168 | 141 |
+| Direct | 36 | 27 |
 | Unassigned | 23 | 21 |
 | Cross-network | 6 | 6 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 4,188 |
-| Clicks | 127 |
-| CTR | 3.03% |
+| Impressions | 5,124 |
+| Clicks | 154 |
+| CTR | 3.01% |
 | Avg position | 8.6 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| matt greiner drum setup | 17 | 3 | 17.65% | 6.3 |
+| matt greiner drum setup | 19 | 3 | 15.79% | 6.4 |
 | best death metal drummers of all time | 2 | 2 | 100.00% | 4.5 |
-| matt greiner cymbal setup | 4 | 2 | 50.00% | 9.3 |
-| best death metal drummers | 5 | 1 | 20.00% | 6.8 |
-| bill ward drum kit | 22 | 1 | 4.55% | 8.6 |
+| bill ward drum kit | 44 | 2 | 4.55% | 8.0 |
+| matt garstka drum kit | 8 | 2 | 25.00% | 7.1 |
+| matt greiner cymbal setup | 5 | 2 | 40.00% | 9.0 |
+| best death metal drummers | 6 | 1 | 16.67% | 5.8 |
+| bill ward drum setup | 13 | 1 | 7.69% | 6.7 |
 | brann dailor drum set | 1 | 1 | 100.00% | 5.0 |
-| eloy casagrande kit | 7 | 1 | 14.29% | 8.1 |
-| gavin harrison drum kit | 2 | 1 | 50.00% | 8.0 |
-| limp bizkit drum kit | 1 | 1 | 100.00% | 9.0 |
-| mario duplantier cymbals | 12 | 1 | 8.33% | 7.6 |
+| drum heads for metal | 2 | 1 | 50.00% | 10.0 |
+| eloy casagrande bill ward | 9 | 1 | 11.11% | 8.7 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 _no significant gaps detected — all queries with traction have decent CTR_

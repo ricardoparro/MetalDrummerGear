@@ -55,6 +55,14 @@
 - [Best Drumsticks for Metal](https://metalforge.io/drumsticks/best-for-metal): Why metal favours heavier 5B/2B, front-weighted, durable sticks, with confirmed signature-stick recommendations
 - [Signature Stick Pages](https://metalforge.io/drumsticks/signature/): Per-drummer "what drumsticks does X use" pages for every drummer with a verified stick mapping
 
+## Snares
+
+- [Snares Guide](https://metalforge.io/snares): Shell materials, sizes, and tuning for metal explained, plus every verified signature snare
+- [Snare Shells](https://metalforge.io/snares/shells): Steel vs brass vs maple (and every other shell material) explained
+- [Snare Sizes](https://metalforge.io/snares/sizes): 13 vs 14, workhorse depths, and piccolo snares explained
+- [Tuning a Snare for Metal](https://metalforge.io/snares/tuning-for-metal): High-tension tuning, snare wires, and head choice for a cutting metal snare sound
+- [Best Snares for Metal](https://metalforge.io/snares/best-for-metal): Why metal favours high-tension steel/brass shells, the wood-shell exceptions (e.g. Chris Adler's Walnut/Maple), with confirmed signature-snare recommendations
+
 ## Brands
 
 - [Tama Drums — Endorsers](/llms/brands/tama.md): 17 metal drummer endorsers, Starclassic Maple/Bubinga, Iron Cobra pedals

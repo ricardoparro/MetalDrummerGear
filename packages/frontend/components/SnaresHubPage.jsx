@@ -140,7 +140,7 @@ function BrandRow({ brand, theme }) {
   return row;
 }
 
-export function SnaresHubPage({ theme: themeProp, drummers = [], onNavigateReference }) {
+export function SnaresHubPage({ theme: themeProp, drummers = [], onNavigateReference, onNavigateBestForMetal }) {
   const theme = themeProp || themes.dark;
 
   useEffect(() => {
@@ -196,6 +196,26 @@ export function SnaresHubPage({ theme: themeProp, drummers = [], onNavigateRefer
 
       <Text style={[styles.h2, { color: theme.text }]}>Best snares for metal</Text>
       <Text style={[styles.body, { color: theme.secondaryText || theme.text }]}>{PILLAR_PAGE.bestForMetal}</Text>
+      {Platform.OS === 'web' ? (
+        <a
+          href="/snares/best-for-metal"
+          onClick={(e) => {
+            if (onNavigateBestForMetal) {
+              e.preventDefault();
+              onNavigateBestForMetal();
+            }
+          }}
+          style={{ textDecoration: 'none', display: 'block', width: '100%' }}
+        >
+          <View style={[styles.bestForMetalCta, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>
+            <Text style={[styles.bestForMetalCtaText, { color: theme.primary || theme.text }]}>Full buying guide: Best Snares for Metal →</Text>
+          </View>
+        </a>
+      ) : (
+        <View style={[styles.bestForMetalCta, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>
+          <Text style={[styles.bestForMetalCtaText, { color: theme.primary || theme.text }]}>Full buying guide: Best Snares for Metal →</Text>
+        </View>
+      )}
 
       {signatureSnares.length > 0 && (
         <>
@@ -235,6 +255,8 @@ const styles = StyleSheet.create({
   refCard: { borderWidth: 1, borderRadius: 10, padding: 14, height: '100%' },
   refCardTitle: { fontSize: 16, fontWeight: '700', marginBottom: 6 },
   refCardDesc: { fontSize: 13, lineHeight: 18 },
+  bestForMetalCta: { borderWidth: 1, borderRadius: 10, padding: 14, marginTop: 12 },
+  bestForMetalCtaText: { fontSize: 15, fontWeight: '700' },
   brandRow: { marginBottom: 10 },
   brandName: { fontSize: 16, fontWeight: '700' },
   brandNote: { fontSize: 14, lineHeight: 20 },

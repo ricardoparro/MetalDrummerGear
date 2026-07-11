@@ -139,10 +139,10 @@ const bandPages = Object.keys(BAND_DATA);
 // Issue #339: Gear category pages for SEO
 const gearCategories = [
   { slug: 'cymbals', name: 'Metal Cymbals' },
-  { slug: 'snares', name: 'Metal Snare Drums' },
   { slug: 'drums', name: 'Metal Drum Kits' },
   { slug: 'pedals', name: 'Metal Bass Drum Pedals' },
   // 'sticks' removed: /gear/sticks 301s to /drumsticks (already in this sitemap)
+  // 'snares' removed: /gear/snares 301s to /snares (already in this sitemap)
   { slug: 'hardware', name: 'Metal Drum Hardware' },
 ];
 
@@ -619,6 +619,8 @@ export function buildSitemapXml() {
     // Issue #4310: /snares pillar page + shells/sizes/tuning-for-metal reference pages.
     { loc: '/snares', priority: '0.9', changefreq: 'weekly' },
     ...SNARE_REFERENCE_PAGE_ORDER.map(slug => ({ loc: `/snares/${slug}`, priority: '0.85', changefreq: 'monthly' })),
+    // Issue #4312 (phase 4/4 of epic #4308): /snares/best-for-metal buying guide.
+    { loc: '/snares/best-for-metal', priority: '0.9', changefreq: 'monthly' },
     // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).
     { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },

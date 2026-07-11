@@ -17516,6 +17516,21 @@ Full list page: https://metalforge.io/lists/best-90s-death-metal-drummers
 
 ================================================================================
 
+## Snares Hub, Reference Guides & Best-for-Metal Guide
+
+Hub page: https://metalforge.io/snares
+Reference guides: https://metalforge.io/snares/shells, https://metalforge.io/snares/sizes, https://metalforge.io/snares/tuning-for-metal
+Best-for-metal buying guide: https://metalforge.io/snares/best-for-metal
+
+The snare drum defines most of a metal drummer's sound. The pillar page at /snares covers shell material (metal vs wood), size/depth trade-offs, and tuning, then links to the verified signature snares of the metal roster. The reference guides go deeper on each variable: /snares/shells (steel, brass, bronze, aluminium vs maple, birch, walnut — plus cast vs rolled construction), /snares/sizes (13" vs 14", the 6.5" workhorse depth, and piccolo snares), and /snares/tuning-for-metal (high-tension tuning, snare wire tension, head choice, and the "typewriter" metal snare sound).
+
+### Best Snares for Metal
+
+The buying guide at /snares/best-for-metal explains why metal drumming favours high-tension steel and brass shells for cut and projection, documents the verified wood-shell exceptions (Dave Lombardo, Mario Duplantier, Hellhammer, and Frost all play maple shells; Chris Adler's signature Mapex snare blends walnut and maple specifically for added low-end weight), and lists every confirmed signature snare from the verified drummer-to-snare database — Lars Ulrich (Tama LU1465), Joey Jordison (Pearl), Tomas Haake (Sonor), George Kollias (Pearl), Chris Adler (Mapex Walnut/Maple), Nicko McBrain (Sonor), Scott Travis (ddrum), Mikkey Dee (Yamaha), Gavin Harrison (Sonor), and Daniel Erlandsson (Pearl) — each linking to the drummer's profile for full specs and source.
+
+
+================================================================================
+
 # About MetalForge
 
 MetalForge is a comprehensive database of professional metal drummers and their 

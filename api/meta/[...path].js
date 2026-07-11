@@ -2670,9 +2670,10 @@ function getMetaForPath(pathname) {
   };
 
   const gearCategoryMatch = path.match(/^\/gear\/([a-z-]+)$/);
-  // 'sticks' excluded: /gear/sticks 301s to /drumsticks at the edge (vercel.json),
-  // so no crawler-facing page may claim that URL.
-  if (gearCategoryMatch && !gearCategoryMatch[1].startsWith('item') && gearCategoryMatch[1] !== 'sticks') {
+  // 'sticks' and 'snares' excluded: /gear/sticks and /gear/snares 301 to their
+  // specialized hubs at the edge (vercel.json), so no crawler-facing page may
+  // claim those URLs.
+  if (gearCategoryMatch && !gearCategoryMatch[1].startsWith('item') && gearCategoryMatch[1] !== 'sticks' && gearCategoryMatch[1] !== 'snares') {
     const catSlug = gearCategoryMatch[1];
     const catMeta = GEAR_CATEGORY_META[catSlug];
     if (catMeta) {

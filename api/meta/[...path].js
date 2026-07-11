@@ -87,6 +87,37 @@ import {
   generateBestForMetalItemListSchema,
   generateBestForMetalBreadcrumbSchema,
 } from '../../packages/frontend/data/drumstickBestForMetal.js';
+// Issue #4307: SSR meta + JSON-LD for the /cymbals* route family (epic #4303,
+// phases #4305-#4307) — the hub had zero bot-facing SSR meta despite being
+// fully built out and sitemap-listed since phase 2.
+import { CYMBAL_SETUPS } from '../../packages/frontend/data/cymbalSetups.js';
+import {
+  PILLAR_PAGE as CYMBAL_PILLAR_PAGE,
+  getReferencePage as getCymbalReferencePage,
+  isValidReferenceSlug as isValidCymbalReferenceSlug,
+  generateCanonicalUrl as generateCymbalCanonicalUrl,
+  generateFaqSchema as generateCymbalFaqSchema,
+  generateArticleSchema as generateCymbalArticleSchema,
+} from '../../packages/frontend/data/cymbalReferencePages.js';
+import {
+  CYMBAL_BRANDS,
+  getBrand as getCymbalBrand,
+  getConfirmedSetupsForBrand,
+  generateBrandCanonicalUrl as generateCymbalBrandCanonicalUrl,
+  generateBrandsHubCanonicalUrl as generateCymbalBrandsHubCanonicalUrl,
+  generateBrandTitle as generateCymbalBrandTitle,
+  generateBrandDescription as generateCymbalBrandDescription,
+  generateBrandSchema as generateCymbalBrandSchema,
+  generateBrandsHubSchema as generateCymbalBrandsHubSchema,
+} from '../../packages/frontend/data/cymbalBrands.js';
+import {
+  BEST_FOR_METAL_PAGE as CYMBAL_BEST_FOR_METAL_PAGE,
+  generateBestForMetalCanonicalUrl as generateCymbalBestForMetalCanonicalUrl,
+  generateBestForMetalFaqSchema as generateCymbalBestForMetalFaqSchema,
+  generateBestForMetalArticleSchema as generateCymbalBestForMetalArticleSchema,
+  generateBestForMetalItemListSchema as generateCymbalBestForMetalItemListSchema,
+  generateBestForMetalBreadcrumbSchema as generateCymbalBestForMetalBreadcrumbSchema,
+} from '../../packages/frontend/data/cymbalBestForMetal.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -2670,9 +2701,10 @@ function getMetaForPath(pathname) {
   };
 
   const gearCategoryMatch = path.match(/^\/gear\/([a-z-]+)$/);
-  // 'sticks' excluded: /gear/sticks 301s to /drumsticks at the edge (vercel.json),
-  // so no crawler-facing page may claim that URL.
-  if (gearCategoryMatch && !gearCategoryMatch[1].startsWith('item') && gearCategoryMatch[1] !== 'sticks') {
+  // 'sticks' and 'cymbals' excluded: /gear/sticks and /gear/cymbals 301 to
+  // /drumsticks and /cymbals respectively at the edge (vercel.json), so no
+  // crawler-facing page may claim either URL.
+  if (gearCategoryMatch && !gearCategoryMatch[1].startsWith('item') && gearCategoryMatch[1] !== 'sticks' && gearCategoryMatch[1] !== 'cymbals') {
     const catSlug = gearCategoryMatch[1];
     const catMeta = GEAR_CATEGORY_META[catSlug];
     if (catMeta) {
@@ -3506,6 +3538,127 @@ function getMetaForPath(pathname) {
           itemListElement: [
             { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
             { '@type': 'ListItem', position: 2, name: 'Drumsticks', item: `${BASE_URL}/drumsticks` },
+            { '@type': 'ListItem', position: 3, name: page.h1, item: url },
+          ],
+        },
+      ].filter(Boolean)),
+    };
+  }
+
+  // Issue #4307: /cymbals pillar hub — ItemList (one entry per verified
+  // drummer cymbal setup) + Article + FAQPage + BreadcrumbList.
+  if (path === '/cymbals') {
+    const url = generateCymbalCanonicalUrl();
+    const itemListSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: 'Metal drummer cymbal setups',
+      numberOfItems: CYMBAL_SETUPS.length,
+      itemListElement: CYMBAL_SETUPS.map((setup, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        item: {
+          '@type': 'Product',
+          name: `${setup.brands.join(' & ')} cymbal setup`,
+          brand: { '@type': 'Brand', name: setup.brands[0] },
+          category: 'Cymbals',
+          url: `${BASE_URL}/drummer/${setup.drummerSlug}`,
+        },
+      })),
+    };
+    return {
+      title: CYMBAL_PILLAR_PAGE.title,
+      description: truncate(CYMBAL_PILLAR_PAGE.description, 160),
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url,
+      articleSchema: JSON.stringify([
+        generateCymbalArticleSchema(CYMBAL_PILLAR_PAGE, url),
+        itemListSchema,
+        generateCymbalFaqSchema(CYMBAL_PILLAR_PAGE.faq),
+        {
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+            { '@type': 'ListItem', position: 2, name: 'Cymbals', item: url },
+          ],
+        },
+      ].filter(Boolean)),
+    };
+  }
+
+  // Issue #4307: /cymbals/brands hub — ItemList (one entry per brand) + BreadcrumbList.
+  if (path === '/cymbals/brands') {
+    const url = generateCymbalBrandsHubCanonicalUrl();
+    return {
+      title: `Cymbal Brands: Positioning & Which Metal Drummers Use Them | ${SITE_NAME}`,
+      description: `Compare ${CYMBAL_BRANDS.length} cymbal brands — company background, metal-relevant series, and confirmed metal drummer endorsements.`,
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url,
+      articleSchema: JSON.stringify(generateCymbalBrandsHubSchema()),
+    };
+  }
+
+  // Issue #4307: /cymbals/brands/<brand> — Brand + ItemList (confirmed setups) + BreadcrumbList.
+  const cymbalBrandMatch = path.match(/^\/cymbals\/brands\/([a-z0-9-]+)$/);
+  if (cymbalBrandMatch) {
+    const brand = getCymbalBrand(cymbalBrandMatch[1]);
+    if (brand) {
+      const confirmedSetups = getConfirmedSetupsForBrand(brand);
+      return {
+        title: generateCymbalBrandTitle(brand),
+        description: truncate(generateCymbalBrandDescription(brand, confirmedSetups), 160),
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: generateCymbalBrandCanonicalUrl(brand.slug),
+        articleSchema: JSON.stringify(generateCymbalBrandSchema(brand, confirmedSetups)),
+      };
+    }
+  }
+
+  // Issue #4307: /cymbals/best-for-metal buying guide — Article + ItemList
+  // (confirmed setups) + FAQPage + BreadcrumbList.
+  if (path === '/cymbals/best-for-metal') {
+    const url = generateCymbalBestForMetalCanonicalUrl();
+    return {
+      title: CYMBAL_BEST_FOR_METAL_PAGE.title,
+      description: truncate(CYMBAL_BEST_FOR_METAL_PAGE.description, 160),
+      image: DEFAULT_IMAGE,
+      type: 'article',
+      url,
+      articleSchema: JSON.stringify([
+        generateCymbalBestForMetalArticleSchema(),
+        generateCymbalBestForMetalItemListSchema(CYMBAL_SETUPS),
+        generateCymbalBestForMetalFaqSchema(),
+        generateCymbalBestForMetalBreadcrumbSchema(),
+      ].filter(Boolean)),
+    };
+  }
+
+  // Issue #4307: /cymbals/{types,alloys,sizes-weights} reference pages —
+  // Article + FAQPage + BreadcrumbList.
+  const cymbalReferenceMatch = path.match(/^\/cymbals\/([a-z-]+)$/);
+  if (cymbalReferenceMatch && isValidCymbalReferenceSlug(cymbalReferenceMatch[1])) {
+    const slug = cymbalReferenceMatch[1];
+    const page = getCymbalReferencePage(slug);
+    const url = generateCymbalCanonicalUrl(slug);
+    return {
+      title: page.title,
+      description: truncate(page.description, 160),
+      image: DEFAULT_IMAGE,
+      type: 'article',
+      url,
+      articleSchema: JSON.stringify([
+        generateCymbalArticleSchema(page, url),
+        generateCymbalFaqSchema(page.faq),
+        {
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+            { '@type': 'ListItem', position: 2, name: 'Cymbals', item: `${BASE_URL}/cymbals` },
             { '@type': 'ListItem', position: 3, name: page.h1, item: url },
           ],
         },

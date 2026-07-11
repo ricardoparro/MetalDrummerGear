@@ -109,8 +109,23 @@ function BestForMetalLink({ theme, onNavigate }) {
   return card;
 }
 
+// Vertical focus of the 120px cover crop, per photo. The default centered crop
+// works for most photos, but in these portrait shots the face sits in the upper
+// part of the frame, so a centered crop cuts the head off (verified visually
+// against every hub image). Value = distance from the top of the source image
+// to anchor the crop at; anything not listed keeps the centered default.
+const FACE_FOCUS = {
+  'danny-carey': '8%',
+  'nicko-mcbrain': '12%',
+  'gene-hoglan': '12%',
+  'joey-jordison': '22%',
+  'dave-lombardo': '28%',
+  'lars-ulrich': '30%',
+};
+
 function DrummerStickCard({ drummer, stick, theme }) {
-  const url = `/drummer/${toSlug(drummer.name)}`;
+  const slug = toSlug(drummer.name);
+  const url = `/drummer/${slug}`;
   const anchorText = `${drummer.name}'s ${stick.brand} ${stick.model}`;
   const card = (
     <View style={[styles.drummerCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>
@@ -118,6 +133,7 @@ function DrummerStickCard({ drummer, stick, theme }) {
         source={drummer.image ? { uri: drummer.image } : undefined}
         style={styles.drummerImage}
         contentFit="cover"
+        contentPosition={{ left: '50%', top: FACE_FOCUS[slug] || '50%' }}
         cachePolicy="memory-disk"
         accessibilityLabel={`Photo of ${drummer.name}`}
       />

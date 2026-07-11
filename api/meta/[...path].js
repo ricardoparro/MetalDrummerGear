@@ -3245,6 +3245,19 @@ function getMetaForPath(pathname) {
       const brandName = toName(brandSlug);
       const seriesName = toName(seriesSlug);
       const kitDrummers = DRUMMERS_BY_KIT[kitKey];
+      // Issue #4361: no confirmed drummers for this kit variant yet — serving the
+      // ItemList/FAQ below would emit numberOfItems: 0 and a "data is being
+      // compiled" placeholder. noindex until real endorsement data exists.
+      if (kitDrummers.length === 0) {
+        return {
+          title: `${brandName} ${seriesName} | ${SITE_NAME}`,
+          description: `${brandName} ${seriesName} drum kit specs and info on MetalForge.`,
+          image: DEFAULT_IMAGE,
+          type: 'website',
+          url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+          noindex: true,
+        };
+      }
       const firstDrummer = kitDrummers[0]?.name || 'professional metal drummers';
       const firstBand = kitDrummers[0]?.band;
       const descDrummer = firstBand ? `${firstDrummer} (${firstBand})` : firstDrummer;
@@ -4011,7 +4024,8 @@ function generateMetaHtml(meta, originalUrl) {
   <title>${meta.title}</title>
   <meta name="title" content="${meta.title}">
   <meta name="description" content="${meta.description}">
-  
+  ${meta.noindex ? '<meta name="robots" content="noindex, nofollow">' : ''}
+
   <!-- Open Graph / Facebook -->
   <meta property="og:type" content="${meta.type}">
   <meta property="og:url" content="${meta.url}">

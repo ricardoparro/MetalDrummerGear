@@ -63,6 +63,20 @@ See the [Gavin Harrison vs Mike Mangini](/vs/gavin-harrison-vs-mike-mangini) com
 - White Mist - The Pineapple Thief (2021)
 - Fill Decrypted - Breakdown (2023)
 
+## Cymbal Setup
+
+**What cymbals does Gavin Harrison use?** Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Custom Special Dry | Hi-Hats |
+| crash | 16" | K Custom Special Dry | Crash |
+| crash | 18" | K Custom Special Dry | Crash |
+| ride | 21" | K Custom Special Dry | Special Dry Ride |
+| china | 18" | K Custom Special Dry | Trash China |
+
+Full breakdown: [Gavin Harrison's Cymbal Setup](https://metalforge.io/cymbals/setups/gavin-harrison)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Gavin Harrison play?**

@@ -60,6 +60,20 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
 - Zyglrox - Periphery Playalong (2017)
 - Totla Mad - Periphery Playalong (2017)
 
+## Cymbal Setup
+
+**What cymbals does Travis Orbin use?** Travis Orbin uses Zildjian K Custom Series (14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride, 18" K Custom China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Custom Dark | Hi-Hats |
+| crash | 18" | K Custom Dark | Crash |
+| crash | 19" | K Custom Dark | Crash |
+| ride | 21" | K Custom | Ride |
+| china | 18" | K Custom | China |
+
+Full breakdown: [Travis Orbin's Cymbal Setup](https://metalforge.io/cymbals/setups/travis-orbin)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Travis Orbin play?**

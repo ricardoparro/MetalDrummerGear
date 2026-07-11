@@ -63,6 +63,20 @@ Lopez's tenure with Opeth spanned some of the band's most critically acclaimed a
 - Deliverance Outro - Drum Performance (2015)
 - Ghost of Perdition - Drum Performance (2018)
 
+## Cymbal Setup
+
+**What cymbals does Martin Lopez use?** Martin Lopez uses Zildjian K Dark Series (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Dark | Thin Hi-Hats |
+| crash | 18" | K Dark | Medium Thin Crash |
+| crash | 20" | K Dark | Medium Thin Crash |
+| ride | 22" | K Dark | Light Ride |
+| china | 18" | K | China |
+
+Full breakdown: [Martin Lopez's Cymbal Setup](https://metalforge.io/cymbals/setups/martin-lopez)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Martin Lopez play?**

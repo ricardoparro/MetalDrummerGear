@@ -59,6 +59,20 @@ His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenc
 - Slit Your Guts - Brutal Assault (Drum Cam) (2017)
 - Phobophile - Rehearsal (2020)
 
+## Cymbal Setup
+
+**What cymbals does Flo Mounier use?** Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | HHX | Stage Hi-Hats |
+| crash | 17" | AAX | X-Plosion Crash |
+| crash | 18" | AAX | X-Plosion Crash |
+| ride | 21" | HHX | Raw Bell Dry Ride |
+| china | 18" | AAX & HHX | AAXtreme China |
+
+Full breakdown: [Flo Mounier's Cymbal Setup](https://metalforge.io/cymbals/setups/flo-mounier)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Flo Mounier play?**

@@ -63,6 +63,21 @@ Beyond his drumming career, Koperweis is a prolific producer and electronic arti
 - Navene Koperweis - ENTHEOS - The Sinking Sun (Drum Playthrough) (2023)
 - Entheos - Life In Slow Motion | Navene Koperweis Drum Playthrough (2024)
 
+## Cymbal Setup
+
+**What cymbals does Navene Koperweis use?** Navene Koperweis uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | Byzance | Dual Hi-Hats |
+| crash | 18" | Byzance | Extra Dry Medium Crash |
+| crash | 19" | Byzance | Extra Dry Medium Crash |
+| ride | 21" | Byzance | Transition Ride |
+| china | 18" | Byzance | Extra Dry China |
+| splash | 10" | Byzance | Splash |
+
+Full breakdown: [Navene Koperweis's Cymbal Setup](https://metalforge.io/cymbals/setups/navene-koperweis)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Navene Koperweis play?**

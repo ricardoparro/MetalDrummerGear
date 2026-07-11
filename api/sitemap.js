@@ -65,6 +65,10 @@ import { DRUMSTICK_BRANDS } from '../packages/frontend/data/drumstickBrands.js';
 // Issue #4274: Endorsement Tracker pages — source slugs directly from
 // ENDORSEMENT_TIMELINE so the sitemap can never drift out of sync again.
 import { ENDORSEMENT_TIMELINE } from '../packages/frontend/data/endorsementNews.js';
+// Issue #4306 (phase 3 of epic #4303): /cymbals/setups/<drummer> pages —
+// source slugs from the verified CYMBAL_SETUPS module so the sitemap only
+// ever lists drummers with a verified cymbal setup (no thin pages).
+import { DRUMMER_CYMBALS } from '../packages/frontend/data/cymbalSetups.js';
 
 // Issue #4201: Content Scale Sprint - All 65 drummers now in sitemap
 const drummers = [
@@ -599,6 +603,9 @@ export function buildSitemapXml() {
     { loc: '/drumsticks/brands', priority: '0.85', changefreq: 'monthly' },
     ...DRUMSTICK_BRANDS.map(brand => ({ loc: `/drumsticks/brands/${brand.slug}`, priority: '0.8', changefreq: 'monthly' })),
     { loc: '/drumsticks/best-for-metal', priority: '0.9', changefreq: 'monthly' },
+    // Issue #4306: /cymbals/setups/<drummer> pages (only drummers with a
+    // verified cymbal setup in DRUMMER_CYMBALS).
+    ...Object.keys(DRUMMER_CYMBALS).map(slug => ({ loc: `/cymbals/setups/${slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).
     { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },

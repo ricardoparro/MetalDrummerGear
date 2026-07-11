@@ -52,6 +52,21 @@ Martin Axenrot (born March 17, 1979, in Stockholm, Sweden) is a Swedish drummer 
 - **Sticks:** Vic Firth American Classic 5B
 - **Heads:** Remo
 
+## Cymbal Setup
+
+**What cymbals does Martin Axenrot use?** Martin Axenrot uses Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | Byzance | Traditional Medium Hi-Hats |
+| crash | 16" | Byzance | Crash |
+| crash | 18" | Byzance | Crash |
+| crash | 19" | Byzance | Crash |
+| ride | 22" | Byzance | Traditional Ride |
+| china | 18" | Byzance | China |
+
+Full breakdown: [Martin Axenrot's Cymbal Setup](https://metalforge.io/cymbals/setups/martin-axenrot)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Martin Axenrot play?**

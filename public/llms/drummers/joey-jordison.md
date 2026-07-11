@@ -61,6 +61,23 @@ His blistering speed, technical precision, and theatrical stage presence—inclu
 - People=Shit - Drum Cam (London 2002) (2002)
 - Drum Cam 4K Compilation (2000)
 
+## Cymbal Setup
+
+**What cymbals does Joey Jordison use?** Joey Jordison uses Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16", 17", 18", 19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE & 2002 | Wild Hi-Hats |
+| crash | 16" | RUDE & 2002 | Power Crash |
+| crash | 17" | RUDE & 2002 | Power Crash |
+| crash | 18" | RUDE & 2002 | Power Crash |
+| crash | 19" | RUDE & 2002 | Power Crash |
+| china | 20" | RUDE & 2002 | Wild China |
+| china | 22" | RUDE & 2002 | Wild China |
+| ride | 22" | RUDE & 2002 | Power Ride |
+
+Full breakdown: [Joey Jordison's Cymbal Setup](https://metalforge.io/cymbals/setups/joey-jordison)
+
 ## Frequently Asked Questions
 
 **Q: What drums did Joey Jordison play?**

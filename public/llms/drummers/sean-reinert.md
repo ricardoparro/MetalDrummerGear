@@ -53,6 +53,21 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
 
 - Sean Reinert's Drum Cam: Last Live with Cynic Playing "Veil of Maya" (2015)
 
+## Cymbal Setup
+
+**What cymbals does Sean Reinert use?** Sean Reinert uses Zildjian A/K Series (14" A Quick Beat Hi-Hats, 16" & 18" A Crashes, 20" K Custom Dry Ride, 16" China, 10" A Splash).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A | Quick Beat Hi-Hats |
+| crash | 16" | A | Crash |
+| crash | 18" | A | Crash |
+| ride | 20" | K Custom | Dry Ride |
+| china | 16" | A/K | China |
+| splash | 10" | A | Splash |
+
+Full breakdown: [Sean Reinert's Cymbal Setup](https://metalforge.io/cymbals/setups/sean-reinert)
+
 ## Frequently Asked Questions
 
 **Q: What albums did Sean Reinert play drums on?**

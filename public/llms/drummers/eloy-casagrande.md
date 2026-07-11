@@ -61,6 +61,24 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
 - Means To An End - Official Drum Cam (2019)
 - Roots Bloody Roots - Rock in Rio (Official) (2022)
 
+## Cymbal Setup
+
+**What cymbals does Eloy Casagrande use?** Eloy Casagrande uses Paiste (15" Masters Dark Hi-Hats, 20" Masters Dark Ride, 20" & 20" 602 Crashes, 10" Rude Splash, 20" Masters Dark Crash, 20" 2002 Heavy Ride, 20" 2002 Novo China, 10" 2002 Mega Bell, Symphonic Gong).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | Masters Dark | Hi-Hats |
+| ride | 20" | Masters Dark | Ride |
+| crash | 20" | — | 602 Crash |
+| crash | 20" | — | 602 Crash |
+| splash | 10" | Rude | Splash |
+| crash | 20" | Masters Dark | Crash |
+| ride | 20" | 2002 | Heavy Ride |
+| china | 20" | 2002 | Novo China |
+| other | 10" | 2002 | Mega Bell |
+
+Full breakdown: [Eloy Casagrande's Cymbal Setup](https://metalforge.io/cymbals/setups/eloy-casagrande)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Eloy Casagrande use?**

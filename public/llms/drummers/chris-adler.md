@@ -61,6 +61,20 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
 - Lamb of God - Redneck (Live Drum Cam) (2016)
 - Lamb of God - Blood of the Scribe (Modern Drummer) (2005)
 
+## Cymbal Setup
+
+**What cymbals does Chris Adler use?** Chris Adler uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | Byzance | Dark Hi-Hats |
+| crash | 18" | Byzance | Dark Crash |
+| crash | 19" | Byzance | Dark Crash |
+| ride | 21" | Byzance | Transition Ride |
+| china | 18" | Byzance | Extra Dry China |
+
+Full breakdown: [Chris Adler's Cymbal Setup](https://metalforge.io/cymbals/setups/chris-adler)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Chris Adler play?**

@@ -62,6 +62,19 @@ Sabian AAX and HHX Series cymbals define the Tim Yeung drum kit's tonal characte
 - Vengeance is Mine - Drum Cam (2013)
 - The Lion's Den - Drum Cam (2013)
 
+## Cymbal Setup
+
+**What cymbals does Tim Yeung use?** Tim Yeung uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | AAX | Stage Hi-Hats |
+| crash | 18" | AAX | X-Plosion Crash |
+| crash | 19" | AAX | X-Plosion Crash |
+| ride | 21" | HHX | Raw Bell Dry Ride |
+
+Full breakdown: [Tim Yeung's Cymbal Setup](https://metalforge.io/cymbals/setups/tim-yeung)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Tim Yeung play?**

@@ -55,6 +55,18 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
 
 - At The Gates - Blinded By Fear [Official Video] (1995)
 
+## Cymbal Setup
+
+**What cymbals does Adrian Erlandsson use?** Adrian Erlandsson uses Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | HHX | Xcelerator Hi-Hats |
+| crash | 20" | AAX | Iso Crash |
+| china | 19" | AAX | Paragon China |
+
+Full breakdown: [Adrian Erlandsson's Cymbal Setup](https://metalforge.io/cymbals/setups/adrian-erlandsson)
+
 ## Frequently Asked Questions
 
 **Q: What bands has Adrian Erlandsson played drums for?**

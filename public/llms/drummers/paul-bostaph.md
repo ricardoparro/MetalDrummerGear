@@ -56,6 +56,20 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
 - Slayer - Disciple (Drum Cam, Paso Robles) (2017)
 - Slayer - Dittohead (Drum Cam, Final World Tour) (2018)
 
+## Cymbal Setup
+
+**What cymbals does Paul Bostaph use?** Paul Bostaph uses Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | AAX | Stage Hi-Hats |
+| crash | 17" | AAX | X-Plosion Crash |
+| crash | 19" | AAX | X-Plosion Crash |
+| ride | 21" | AAX | Stage Ride |
+| china | 18" | AAX | AAXtreme China |
+
+Full breakdown: [Paul Bostaph's Cymbal Setup](https://metalforge.io/cymbals/setups/paul-bostaph)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Paul Bostaph play?**

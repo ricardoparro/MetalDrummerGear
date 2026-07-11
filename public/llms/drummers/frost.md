@@ -61,6 +61,21 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
 - Forhekset - Live Poland (Drum Cam) (2025)
 - The Pentagram Burns - Live Drum Cam (2025)
 
+## Cymbal Setup
+
+**What cymbals does Frost use?** Frost uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 16" | A Custom | Crash |
+| crash | 17" | A Custom | Crash |
+| crash | 18" | A Custom | Crash |
+| ride | 22" | K Custom Dark | Ride |
+| china | 18" | K | China |
+
+Full breakdown: [Frost's Cymbal Setup](https://metalforge.io/cymbals/setups/frost)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Frost play?**

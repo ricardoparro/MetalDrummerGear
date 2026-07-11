@@ -56,6 +56,20 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
 - Transgression - Foot Cam (2006)
 - G4 TV Drum Off (2007)
 
+## Cymbal Setup
+
+**What cymbals does Raymond Herrera use?** Raymond Herrera uses Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 18" | A Custom | Crash |
+| crash | 19" | A Custom | Crash |
+| ride | 21" | Z Custom | Mega Bell Ride |
+| china | 18" | A Custom | China |
+
+Full breakdown: [Raymond Herrera's Cymbal Setup](https://metalforge.io/cymbals/setups/raymond-herrera)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Raymond Herrera play?**

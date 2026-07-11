@@ -58,6 +58,20 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
 - 10 Times Bill Ward Was the Best Drummer on Earth (2021)
 - The Genius of Bill Ward (2020)
 
+## Cymbal Setup
+
+**What cymbals does Bill Ward use?** Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | Giant Beat | Hi-Hats |
+| crash | 18" | 2002 | Crash |
+| crash | 20" | 2002 | Crash |
+| ride | 24" | 2002 | Ride |
+| china | 18" | 2002 | China |
+
+Full breakdown: [Bill Ward's Cymbal Setup](https://metalforge.io/cymbals/setups/bill-ward)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Bill Ward play?**

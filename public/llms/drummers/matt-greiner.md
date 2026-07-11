@@ -59,6 +59,22 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
 - Paramount - Drum Playthrough (2020)
 - Composure - Drum Playthrough (2019)
 
+## Cymbal Setup
+
+**What cymbals does Matt Greiner use?** Matt Greiner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | Byzance | Dual Hi-Hats |
+| crash | 18" | Byzance | Dual Crash |
+| crash | 19" | Byzance | Dual Crash |
+| ride | 21" | Byzance | Transition Ride |
+| china | 18" | Byzance | Extra Dry China |
+| splash | 10" | Byzance | Splash |
+| splash | 12" | Byzance | Splash |
+
+Full breakdown: [Matt Greiner's Cymbal Setup](https://metalforge.io/cymbals/setups/matt-greiner)
+
 ## Frequently Asked Questions
 
 **Q: What drums does Matt Greiner play?**

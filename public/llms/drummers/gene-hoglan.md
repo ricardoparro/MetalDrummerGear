@@ -69,6 +69,20 @@ See the [Gene Hoglan vs Tomas Haake](/vs/gene-hoglan-vs-tomas-haake) comparison 
 - Skeksis (Strapping Young Lad) - Official Playthrough (2015)
 - True American Hate - Drum Cam (Tuska 2013) (2013)
 
+## Cymbal Setup
+
+**What cymbals does Gene Hoglan use?** Gene Hoglan uses Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | AAX | Hi-Hats |
+| crash | 18" | AAX | Crash |
+| crash | 20" | AAX | Crash |
+| ride | 22" | AAX | Ride |
+| china | 20" | AAX | China |
+
+Full breakdown: [Gene Hoglan's Cymbal Setup](https://metalforge.io/cymbals/setups/gene-hoglan)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Gene Hoglan use?**

@@ -62,6 +62,19 @@ Sabian AAX Series cymbals round out the Kevin Talley drum kit: 14" Stage Hi-Hats
 - Subjected to a Beating - Insane Drum Break (2019)
 - Dying Fetus - Live Poland (Drum Cam) (2023)
 
+## Cymbal Setup
+
+**What cymbals does Kevin Talley use?** Kevin Talley uses Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | AAX | Stage Hi-Hats |
+| crash | 17" | AAX | X-Plosion Crash |
+| crash | 18" | AAX | X-Plosion Crash |
+| ride | 20" | AAX | Stage Ride |
+
+Full breakdown: [Kevin Talley's Cymbal Setup](https://metalforge.io/cymbals/setups/kevin-talley)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Kevin Talley play?**

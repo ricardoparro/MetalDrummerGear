@@ -59,6 +59,20 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
 - Endless Hollow - Drum Playthrough (2023)
 - Escapist - Drum Playthrough (2021)
 
+## Cymbal Setup
+
+**What cymbals does Chris Turner use?** Chris Turner uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride, 18" Extra Dry China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | Byzance | Dual Hi-Hats |
+| crash | 18" | Byzance | Extra Dry Medium Crash |
+| crash | 20" | Byzance | Extra Dry Medium Crash |
+| ride | 22" | Byzance | Dual Ride |
+| china | 18" | Byzance | Extra Dry China |
+
+Full breakdown: [Chris Turner's Cymbal Setup](https://metalforge.io/cymbals/setups/chris-turner)
+
 ## Frequently Asked Questions
 
 **Q: What drums does Chris Turner play?**

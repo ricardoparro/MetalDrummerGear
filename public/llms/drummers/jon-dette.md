@@ -54,6 +54,20 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
 
 - Slayer - Killing Fields (Drum Playthrough by Former Slayer Drummer Jon Dette) (2022)
 
+## Cymbal Setup
+
+**What cymbals does Jon Dette use?** Jon Dette uses Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | — | Hi-Hats |
+| crash | 16" | — | Crash |
+| crash | 18" | — | Crash |
+| ride | 20" | — | Ride |
+| china | 18" | — | China |
+
+Full breakdown: [Jon Dette's Cymbal Setup](https://metalforge.io/cymbals/setups/jon-dette)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Jon Dette play?**

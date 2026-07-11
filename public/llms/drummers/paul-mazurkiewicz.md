@@ -57,6 +57,20 @@ The Sabian AAX cymbal spread rounds out the Paul Mazurkiewicz drum set: 14" AAX 
 
 - Cannibal Corpse - Hammer Smashed Face (Drum Cam) (2018)
 
+## Cymbal Setup
+
+**What cymbals does Paul Mazurkiewicz use?** Paul Mazurkiewicz uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | AAX | Stage Hi-Hats |
+| crash | 18" | AAX | X-Plosion Crash |
+| crash | 19" | AAX | X-Plosion Crash |
+| ride | 21" | AAX | Raw Bell Dry Ride |
+| china | 18" | AAX | AAXtreme China |
+
+Full breakdown: [Paul Mazurkiewicz's Cymbal Setup](https://metalforge.io/cymbals/setups/paul-mazurkiewicz)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Paul Mazurkiewicz play?**

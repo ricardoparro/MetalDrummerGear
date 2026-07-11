@@ -64,6 +64,20 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
 - Scavenger of Human Sorrow Drum Intro (2020)
 - Sound of Perseverance - Drum Cover (2023)
 
+## Cymbal Setup
+
+**What cymbals does Richard Christy use?** Richard Christy uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | AAX | Stage Hi-Hats |
+| crash | 18" | AAX | X-Plosion Crash |
+| crash | 19" | AAX | X-Plosion Crash |
+| ride | 21" | HHX | Raw Bell Dry Ride |
+| china | 18" | AAX | Chinese |
+
+Full breakdown: [Richard Christy's Cymbal Setup](https://metalforge.io/cymbals/setups/richard-christy)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Richard Christy play?**

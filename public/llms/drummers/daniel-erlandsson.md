@@ -61,6 +61,19 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
 
 - Arch Enemy - Nemesis (Drum Cam) (2017)
 
+## Cymbal Setup
+
+**What cymbals does Daniel Erlandsson use?** Daniel Erlandsson uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE | Hi-Hats |
+| crash | 18" | RUDE | Crash |
+| crash | 19" | RUDE | Crash |
+| ride | 22" | RUDE | Power Ride |
+
+Full breakdown: [Daniel Erlandsson's Cymbal Setup](https://metalforge.io/cymbals/setups/daniel-erlandsson)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Daniel Erlandsson play?**

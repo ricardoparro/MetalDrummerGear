@@ -61,6 +61,20 @@ See the [Nicko McBrain vs Scott Travis](/vs/scott-travis-vs-nicko-mcbrain) compa
 - Aces High - Drum Cam (Rock in Rio 2019) (2019)
 - Nicko McBrain Drum Solo - Flight of Icarus (Live) (2008)
 
+## Cymbal Setup
+
+**What cymbals does Nicko McBrain use?** Nicko McBrain uses Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | 2002 & Signature | Sound Edge Hi-Hats |
+| crash | 16" | 2002 & Signature | Power Crash |
+| crash | 18" | 2002 & Signature | Power Crash |
+| ride | 22" | 2002 & Signature | Power Ride |
+| china | 20" | 2002 & Signature | China |
+
+Full breakdown: [Nicko McBrain's Cymbal Setup](https://metalforge.io/cymbals/setups/nicko-mcbrain)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Nicko McBrain play?**

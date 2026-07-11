@@ -62,6 +62,21 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
 - When Legends Rise - Drum Cam (2019)
 - Drum Battle - Sully vs Shannon (2010)
 
+## Cymbal Setup
+
+**What cymbals does Shannon Larkin use?** Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | AAX | Stage Hi-Hats |
+| crash | 18" | AAX | X-Plosion Crash |
+| crash | 19" | AAX | X-Plosion Crash |
+| ride | 21" | HHX | Raw Bell Dry Ride |
+| splash | 10" | AAX | Splash |
+| china | 18" | AAX | Chinese |
+
+Full breakdown: [Shannon Larkin's Cymbal Setup](https://metalforge.io/cymbals/setups/shannon-larkin)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Shannon Larkin use?**

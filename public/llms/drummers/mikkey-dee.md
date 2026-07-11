@@ -62,6 +62,20 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
 - Scorpions - Rock You Like a Hurricane (Official) (2010)
 - Mikkey Dee - Drum Interview & Demo (2016)
 
+## Cymbal Setup
+
+**What cymbals does Mikkey Dee use?** Mikkey Dee uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 18" | A Custom | Crash |
+| crash | 19" | A Custom | Crash |
+| ride | 22" | K Custom | Ride |
+| china | 20" | A Custom & K | Oriental China |
+
+Full breakdown: [Mikkey Dee's Cymbal Setup](https://metalforge.io/cymbals/setups/mikkey-dee)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Mikkey Dee play?**

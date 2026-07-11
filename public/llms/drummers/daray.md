@@ -59,6 +59,19 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
 
 - Dimmu Borgir - Progenies of the Great Apocalypse (Drum Cam) (2018)
 
+## Cymbal Setup
+
+**What cymbals does Daray use?** Daray uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE | Hi-Hats |
+| crash | 17" | RUDE | Crash |
+| crash | 18" | RUDE | Crash |
+| ride | 22" | RUDE | Power Ride |
+
+Full breakdown: [Daray's Cymbal Setup](https://metalforge.io/cymbals/setups/daray)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Daray play?**

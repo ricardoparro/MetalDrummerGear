@@ -60,6 +60,21 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
 - Behemoth - Ora Pro Nobis Lucifer (Brutal Assault 2018) (2018)
 - Behemoth - Slaves Shall Serve (Drum Cam) (2019)
 
+## Cymbal Setup
+
+**What cymbals does Inferno use?** Inferno uses Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE | Hi-Hats |
+| china | 14" | RUDE | Blast China |
+| crash | 18" | RUDE | Crash |
+| crash | 19" | RUDE | Crash |
+| ride | 24" | RUDE | Mega Power Ride |
+| china | 18" | RUDE | China |
+
+Full breakdown: [Inferno's Cymbal Setup](https://metalforge.io/cymbals/setups/inferno)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Inferno play?**

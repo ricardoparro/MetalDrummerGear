@@ -61,6 +61,20 @@ See the [Scott Travis vs Nicko McBrain](/vs/scott-travis-vs-nicko-mcbrain) compa
 - Judas Priest - Firepower Tour (Drum Cam) (2018)
 - Judas Priest - Breaking the Law (Live) (2015)
 
+## Cymbal Setup
+
+**What cymbals does Scott Travis use?** Scott Travis uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE | Hi-Hats |
+| crash | 18" | RUDE | Crash |
+| crash | 19" | RUDE | Crash |
+| ride | 22" | RUDE | Power Ride |
+| china | 18" | RUDE | China |
+
+Full breakdown: [Scott Travis's Cymbal Setup](https://metalforge.io/cymbals/setups/scott-travis)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Scott Travis play?**

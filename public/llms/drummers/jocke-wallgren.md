@@ -59,6 +59,19 @@ Zildjian A Custom and K Custom Series cymbals define the Jocke Wallgren drum kit
 - Twilight of the Thunder God - Drum Performance (2017)
 - First Kill - Live Drum Cam (2018)
 
+## Cymbal Setup
+
+**What cymbals does Jocke Wallgren use?** Jocke Wallgren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 18" | A Custom | Crash |
+| crash | 19" | A Custom | Crash |
+| ride | 21" | K Custom | Ride |
+
+Full breakdown: [Jocke Wallgren's Cymbal Setup](https://metalforge.io/cymbals/setups/jocke-wallgren)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Jocke Wallgren play?**

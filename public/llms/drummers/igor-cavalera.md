@@ -61,6 +61,20 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
 - Territory - Live USA (2025) (2025)
 - Roots of Rhythm - Live (2024)
 
+## Cymbal Setup
+
+**What cymbals does Igor Cavalera use?** Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE | Hi-Hats |
+| crash | 18" | RUDE | Crash |
+| crash | 19" | RUDE | Crash |
+| ride | 22" | RUDE | Power Ride |
+| china | 18" | 2002 | China |
+
+Full breakdown: [Igor Cavalera's Cymbal Setup](https://metalforge.io/cymbals/setups/igor-cavalera)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Igor Cavalera play?**

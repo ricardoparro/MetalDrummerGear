@@ -59,6 +59,20 @@ Otto studied jazz drumming at the Douglas Anderson School of the Arts and played
 - Drum Solo (Classic) (2006)
 - Interview and Rollin' LIVE Drum Cam (2024)
 
+## Cymbal Setup
+
+**What cymbals does John Otto use?** John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 13" | A Custom Mastersound | Hi-Hats |
+| crash | 16" | A Custom | Projection Crash |
+| crash | 17" | A Custom | Projection Crash |
+| other | 20" | A Custom | EFX |
+| crash | 20" | — | FX Oriental Crash of Doom |
+
+Full breakdown: [John Otto's Cymbal Setup](https://metalforge.io/cymbals/setups/john-otto)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does John Otto play?**

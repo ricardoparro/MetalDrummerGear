@@ -59,6 +59,20 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
 - Higher - Dallas Drum Cam (2016)
 - Failure - Drum Breakdown (2020)
 
+## Cymbal Setup
+
+**What cymbals does Ryan Van Poederooyen use?** Ryan Van Poederooyen uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | HHX | Evolution Hi-Hats |
+| crash | 18" | HHX | Evolution Crash |
+| crash | 20" | HHX | Evolution Crash |
+| ride | 21" | HHX | Raw Bell Dry Ride |
+| china | 19" | HHX & AAX | AAXtreme China |
+
+Full breakdown: [Ryan Van Poederooyen's Cymbal Setup](https://metalforge.io/cymbals/setups/ryan-van-poederooyen)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Ryan Van Poederooyen play?**

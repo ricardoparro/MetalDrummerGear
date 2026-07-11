@@ -61,6 +61,22 @@ See the [Tomas Haake vs Gene Hoglan](/vs/gene-hoglan-vs-tomas-haake) comparison 
 - Clockworks - Official Drum Playthrough (2016)
 - Drumming Footage - New England Metal Fest (Official) (2008)
 
+## Cymbal Setup
+
+**What cymbals does Tomas Haake use?** Tomas Haake uses Sabian HHX & AAX Series (14" HHX Compression Hi-Hats, 15" Artisan Hi-Hats, 19" & 20" & 21" HHX Stage Crashes, 22" Legacy Ride, 19" AAXtreme China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | HHX | Compression Hi-Hats |
+| hi-hat | 15" | HHX & AAX | Artisan Hi-Hats |
+| crash | 19" | HHX | Stage Crash |
+| crash | 20" | HHX | Stage Crash |
+| crash | 21" | HHX | Stage Crash |
+| ride | 22" | HHX & AAX | Legacy Ride |
+| china | 19" | HHX & AAX | AAXtreme China |
+
+Full breakdown: [Tomas Haake's Cymbal Setup](https://metalforge.io/cymbals/setups/tomas-haake)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Tomas Haake use?**

@@ -59,6 +59,20 @@ Zildjian cymbals define the Abe Cunningham drum kit's sonic character: 14" K Cus
 - Back to School - Reading Festival (BBC) (2011)
 - Sound Legacy Interview & Performance (2019)
 
+## Cymbal Setup
+
+**What cymbals does Abe Cunningham use?** Abe Cunningham uses Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Custom | Hi-Hats |
+| crash | 18" | K Custom | Crash |
+| crash | 20" | K Custom | Crash |
+| ride | 22" | K Custom | Ride |
+| china | 19" | A Custom | China |
+
+Full breakdown: [Abe Cunningham's Cymbal Setup](https://metalforge.io/cymbals/setups/abe-cunningham)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Abe Cunningham play?**

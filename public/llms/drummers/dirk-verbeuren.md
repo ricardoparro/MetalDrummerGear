@@ -61,6 +61,21 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
 - The Conjuring - Drum Playthrough (2020)
 - Tornado of Souls - Live Drum Cam (2023)
 
+## Cymbal Setup
+
+**What cymbals does Dirk Verbeuren use?** Dirk Verbeuren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 17" | A Custom | Crash |
+| crash | 18" | A Custom | Crash |
+| crash | 19" | A Custom | Crash |
+| ride | 21" | K Custom Hybrid | Ride |
+| china | 18" | K | China |
+
+Full breakdown: [Dirk Verbeuren's Cymbal Setup](https://metalforge.io/cymbals/setups/dirk-verbeuren)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Dirk Verbeuren play?**

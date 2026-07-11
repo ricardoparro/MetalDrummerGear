@@ -59,6 +59,23 @@ Zildjian cymbals form a sprawling array across the Mario Duplantier drum kit: 14
 - Gojira - Stranded (Live Drum Cam) (2017)
 - Gojira - Flying Whales (Live Drum Cam) (2019)
 
+## Cymbal Setup
+
+**What cymbals does Mario Duplantier use?** Mario Duplantier uses Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Sweet | Hi-Hats |
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 18" | K Custom Hybrid | Crash |
+| crash | 19" | A Custom | Crash |
+| crash | 20" | K Sweet | Crash |
+| ride | 21" | Z Custom | Mega Bell Ride |
+| china | 18" | — | China |
+| china | 20" | — | China |
+
+Full breakdown: [Mario Duplantier's Cymbal Setup](https://metalforge.io/cymbals/setups/mario-duplantier)
+
 ## Frequently Asked Questions
 
 **Q: What drums does Mario Duplantier play?**

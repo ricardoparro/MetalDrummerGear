@@ -62,6 +62,20 @@ Zildjian K & A Custom Series cymbals complete the Jason Bittner drum kit: 14" K 
 - Last Man Standing - Drum Cam (Budapest) (2019)
 - Overkill Live Performance (2020)
 
+## Cymbal Setup
+
+**What cymbals does Jason Bittner use?** Jason Bittner uses Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K | Hi-Hats |
+| crash | 18" | A Custom | Crash |
+| crash | 19" | A Custom | Crash |
+| ride | 21" | K Custom | Ride |
+| china | 18" | K | China |
+
+Full breakdown: [Jason Bittner's Cymbal Setup](https://metalforge.io/cymbals/setups/jason-bittner)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Jason Bittner play?**

@@ -59,6 +59,19 @@ The Jaska Raatikainen drum set centers on a Pearl Masters 14Ã—5.5" Maple snare â
 - Everytime I Die - Drum Cam (Munich) (2017)
 - Lake Bodom - Tuska Festival Drum Cam (2014)
 
+## Cymbal Setup
+
+**What cymbals does Jaska Raatikainen use?** Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 17" | A Custom | Crash |
+| crash | 18" | A Custom | Crash |
+| ride | 20" | K Custom | Ride |
+
+Full breakdown: [Jaska Raatikainen's Cymbal Setup](https://metalforge.io/cymbals/setups/jaska-raatikainen)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Jaska Raatikainen play?**

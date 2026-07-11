@@ -57,6 +57,19 @@ Meinl Byzance Series cymbals complete the Matt Garstka drum kit: 15" Dual Hi-Hat
 
 - Animals as Leaders - Physical Education (Drum Playthrough) (2014)
 
+## Cymbal Setup
+
+**What cymbals does Matt Garstka use?** Matt Garstka uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | Byzance | Dual Hi-Hats |
+| crash | 18" | Byzance | Extra Dry Medium Crash |
+| crash | 20" | Byzance | Extra Dry Medium Crash |
+| ride | 22" | Byzance | Dual Ride |
+
+Full breakdown: [Matt Garstka's Cymbal Setup](https://metalforge.io/cymbals/setups/matt-garstka)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Matt Garstka play?**

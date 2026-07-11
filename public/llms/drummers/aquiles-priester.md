@@ -63,6 +63,20 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
 - Aquiles Priester & Thomas Lang Workshop (2025)
 - I Wanna Be Somebody - Drum Playthrough (2024)
 
+## Cymbal Setup
+
+**What cymbals does Aquiles Priester use?** Aquiles Priester uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | HHX | Evolution Hi-Hats |
+| crash | 18" | HHX | X-Plosion Crash |
+| crash | 19" | HHX | X-Plosion Crash |
+| ride | 21" | HHX | Groove Ride |
+| china | 18" | AAX | Chinese |
+
+Full breakdown: [Aquiles Priester's Cymbal Setup](https://metalforge.io/cymbals/setups/aquiles-priester)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Aquiles Priester play?**

@@ -61,6 +61,20 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
 - Mayhem - Chainsaw Gutsfuck (Drum Cam) (2019)
 - Hellhammer Sound Check 2024 (2024)
 
+## Cymbal Setup
+
+**What cymbals does Hellhammer use?** Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE | Hi-Hats |
+| crash | 18" | RUDE | Crash |
+| crash | 19" | RUDE | Crash |
+| ride | 20" | RUDE | Ride |
+| china | 18" | RUDE | China |
+
+Full breakdown: [Hellhammer's Cymbal Setup](https://metalforge.io/cymbals/setups/hellhammer)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Hellhammer play?**

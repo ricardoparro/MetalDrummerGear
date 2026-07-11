@@ -64,6 +64,20 @@ Roddy is considered one of the pioneers of modern extreme metal drumming, having
 - NAMM Drum Solo (2015)
 - Black Seeds of Vengeance - Drum Fill (2019)
 
+## Cymbal Setup
+
+**What cymbals does Derek Roddy use?** Derek Roddy uses Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | Byzance | Heavy Hi-Hats |
+| crash | 18" | Mb20 | Heavy Crash |
+| crash | 19" | Mb20 | Heavy Crash |
+| ride | 21" | Mb20 | Heavy Ride |
+| china | 18" | Byzance | China |
+
+Full breakdown: [Derek Roddy's Cymbal Setup](https://metalforge.io/cymbals/setups/derek-roddy)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Derek Roddy play?**

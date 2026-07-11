@@ -62,6 +62,20 @@ Zildjian K Dark Series cymbals define the Ben Koller drum sound: 14" K Dark Thin
 - Full Set Live Drum Cam (2016) (2016)
 - Vengeance (No Heroes) - Live (2023)
 
+## Cymbal Setup
+
+**What cymbals does Ben Koller use?** Ben Koller uses Zildjian (14" K Dark Thin Hi-Hats, 18" & 19" K Dark Medium Thin Crashes, 21" K Custom Ride, 18" K China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Dark | Thin Hi-Hats |
+| crash | 18" | K Dark | Medium Thin Crash |
+| crash | 19" | K Dark | Medium Thin Crash |
+| ride | 21" | K Custom | Ride |
+| china | 18" | K | China |
+
+Full breakdown: [Ben Koller's Cymbal Setup](https://metalforge.io/cymbals/setups/ben-koller)
+
 ## Frequently Asked Questions
 
 **Q: What band is Ben Koller most known for?**

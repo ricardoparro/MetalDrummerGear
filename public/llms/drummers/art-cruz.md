@@ -56,6 +56,24 @@ Before Lamb of God, Cruz built his reputation through extensive work with Winds 
 - Lamb of God - Nevermore (Art Cruz Drum Cam) (2022)
 - Lamb of God - Memento Mori (Art Cruz Drum Playthrough) (2020)
 
+## Cymbal Setup
+
+**What cymbals does Art Cruz use?** Art Cruz uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom Mastersound | Hi-Hats |
+| other | 18" | A Custom | EFX |
+| crash | 18" | A Custom | Medium Crash |
+| crash | 19" | A Custom | Projection Crash |
+| crash | 20" | A Custom | Crash |
+| ride | 21" | A | Mega Bell Ride |
+| china | 19" | A | Ultra Hammered China |
+| china | 17" | K | China w/ EFX Holes |
+| splash | 9" | — | FX Trash Splash |
+
+Full breakdown: [Art Cruz's Cymbal Setup](https://metalforge.io/cymbals/setups/art-cruz)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Art Cruz play?**

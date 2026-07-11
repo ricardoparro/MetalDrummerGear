@@ -59,6 +59,22 @@ Sabian cymbals round out the Blake Richardson drum kit: 14" HHX Evolution Hi-Hat
 - BTBAM Grooves & Fills Breakdown (2020)
 - Recording Obfuscation (2018)
 
+## Cymbal Setup
+
+**What cymbals does Blake Richardson use?** Blake Richardson uses Sabian (14" HHX Evolution Hi-Hats, 18" HHX Evolution Crash, 17" & 21" AAX Holy Chinas, 21" HH Raw Bell Dry Ride, 10" HH Duo Splash, 9" Radia Cup Chime).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | HHX | Evolution Hi-Hats |
+| crash | 18" | HHX | Evolution Crash |
+| china | 17" | AAX | Holy China |
+| china | 21" | AAX | Holy China |
+| ride | 21" | HH | Raw Bell Dry Ride |
+| splash | 10" | HH | Duo Splash |
+| other | 9" | Radia | Cup Chime |
+
+Full breakdown: [Blake Richardson's Cymbal Setup](https://metalforge.io/cymbals/setups/blake-richardson)
+
 ## Frequently Asked Questions
 
 **Q: What band is Blake Richardson in?**

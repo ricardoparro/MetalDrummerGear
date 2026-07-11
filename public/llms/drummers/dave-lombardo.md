@@ -65,6 +65,20 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
 - Angel of Death - Drum Cam (2010)
 - Full Show Drum Cam (St Louis 2003) (2003)
 
+## Cymbal Setup
+
+**What cymbals does Dave Lombardo use?** Dave Lombardo uses Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | RUDE & 2002 | Sound Edge Hi-Hats |
+| crash | 18" | RUDE & 2002 | Crash |
+| crash | 19" | RUDE & 2002 | Crash |
+| ride | 22" | RUDE & 2002 | Reign Power Ride |
+| china | 18" | RUDE & 2002 | China |
+
+Full breakdown: [Dave Lombardo's Cymbal Setup](https://metalforge.io/cymbals/setups/dave-lombardo)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Dave Lombardo use?**

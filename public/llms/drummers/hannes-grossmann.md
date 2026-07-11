@@ -62,6 +62,19 @@ Grossmann first gained international recognition as the drummer for Necrophagist
 - Practice Makes Progress - Breakdown (2022)
 - Alter Magnitudes - Drum Playthrough (2021)
 
+## Cymbal Setup
+
+**What cymbals does Hannes Grossmann use?** Hannes Grossmann uses Meinl Byzance Series (14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | Byzance Traditional | Hi-Hats |
+| crash | 18" | Byzance Brilliant | Crash |
+| crash | 19" | Byzance Brilliant | Crash |
+| ride | 21" | Byzance Traditional | Ride |
+
+Full breakdown: [Hannes Grossmann's Cymbal Setup](https://metalforge.io/cymbals/setups/hannes-grossmann)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Hannes Grossmann play?**

@@ -62,6 +62,20 @@ See the [Mike Mangini vs Gavin Harrison](/vs/gavin-harrison-vs-mike-mangini) com
 - The Alien - Drum Cam (Live) (2022)
 - Drum Solo - Luna Park (Live) (2021)
 
+## Cymbal Setup
+
+**What cymbals does Mike Mangini use?** Mike Mangini uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | HHX | Evolution Hi-Hats |
+| crash | 17" | HHX | Evolution Crash |
+| crash | 18" | HHX | Evolution Crash |
+| crash | 19" | HHX | Evolution Crash |
+| ride | 21" | HHX | Raw Bell Dry Ride |
+
+Full breakdown: [Mike Mangini's Cymbal Setup](https://metalforge.io/cymbals/setups/mike-mangini)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Mike Mangini play?**

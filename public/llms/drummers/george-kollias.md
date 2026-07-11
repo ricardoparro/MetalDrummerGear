@@ -61,6 +61,20 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
 - US Tour 2013 DrumCam (Official) (2013)
 - Black Seeds Of Vengeance - Pearl Drum Cam (2012)
 
+## Cymbal Setup
+
+**What cymbals does George Kollias use?** George Kollias uses Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Mastersound | Hi-Hats |
+| crash | 17" | K Custom Dark | Crash |
+| crash | 18" | K Custom Dark | Crash |
+| ride | 21" | A Custom | Mega Bell Ride |
+| china | 18" | — | China |
+
+Full breakdown: [George Kollias's Cymbal Setup](https://metalforge.io/cymbals/setups/george-kollias)
+
 ## Frequently Asked Questions
 
 **Q: What drums does George Kollias play?**

@@ -57,6 +57,20 @@ Morgan Ågren (born November 4, 1967, in Umeå, Sweden) is a Swedish drummer and
 - Drum Improv Session (2011)
 - Weird Drum Ideas - Interview (2020)
 
+## Cymbal Setup
+
+**What cymbals does Morgan Ågren use?** Morgan Ågren uses Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | Signature | Heavy Hi-Hats |
+| crash | 18" | Signature | Fast Crash |
+| crash | 20" | Signature | Fast Crash |
+| ride | 22" | Signature | Dry Heavy Ride |
+| china | 18" | 2002 | China |
+
+Full breakdown: [Morgan Ågren's Cymbal Setup](https://metalforge.io/cymbals/setups/morgan-agren)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Morgan Ågren play?**

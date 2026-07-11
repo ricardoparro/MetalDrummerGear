@@ -51,6 +51,19 @@ Menza's playing was distinguished by surgical double-bass precision at 180-200 B
 
 - Nick Menza Drum Cam - Megadeth - The Conjuring (Live at NEC Centre, Birmingham UK, 1990) (1990)
 
+## Cymbal Setup
+
+**What cymbals does Nick Menza use?** Nick Menza uses Zildjian A Series (14" A Hi-Hats, 16" & 18" A Crash, 20" A Ride).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A | Hi-Hats |
+| crash | 16" | A | Crash |
+| crash | 18" | A | Crash |
+| ride | 20" | A | Ride |
+
+Full breakdown: [Nick Menza's Cymbal Setup](https://metalforge.io/cymbals/setups/nick-menza)
+
 ## Frequently Asked Questions
 
 **Q: What albums did Nick Menza play drums on with Megadeth?**

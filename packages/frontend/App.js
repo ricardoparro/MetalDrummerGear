@@ -166,6 +166,11 @@ import { DRUMMER_STICKS, getSticksForDrummer } from './data/drumsticks';
 // Drumstick brand pages (Issue #4139, epic #4135 phase 4/4) — used to link the
 // drummer-page "Sticks" block to the matching /drumsticks/brands/<brand> page.
 import { getBrandForStick } from './data/drumstickBrands';
+// Cymbal setups data module (Issue #4303 phase 1, #4304) — verified drummer→
+// cymbal-setup mapping used by the drummer-page Cymbals GearSection link and
+// the /cymbals/setups/<drummer> pages (Issue #4306, phase 3). Tiny static
+// module, safe to import eagerly.
+import { DRUMMER_CYMBALS, getSetupForDrummer } from './data/cymbalSetups';
 
 // ==========================================
 // LAZY-LOADED DATA MODULES - Performance Optimization (#708)
@@ -789,6 +794,24 @@ function isSignatureStickPage() {
 function getSignatureStickSlugFromURL() {
   if (typeof window === 'undefined') return null;
   const match = window.location.pathname.match(SIGNATURE_STICK_RE);
+  return match ? match[1].toLowerCase() : null;
+}
+
+// Cymbal Setup Pages (Issue #4306, phase 3 of epic #4303) - /cymbals/setups/<drummer>
+// Targets "what cymbals does <drummer> use". Only rendered for drummers with a verified
+// setup in data/cymbalSetups.js (DRUMMER_CYMBALS) — an unmapped slug falls through to the
+// normal 404 instead of a thin/empty page.
+const LazyCymbalSetupPage = lazy(() => import('./components/CymbalSetupPage').then(m => ({ default: m.CymbalSetupPage })));
+const CYMBAL_SETUP_RE = /^\/cymbals\/setups\/([a-z0-9-]+)\/?$/i;
+function isCymbalSetupPage() {
+  if (typeof window === 'undefined') return false;
+  const match = window.location.pathname.match(CYMBAL_SETUP_RE);
+  if (!match) return false;
+  return Object.prototype.hasOwnProperty.call(DRUMMER_CYMBALS, match[1].toLowerCase());
+}
+function getCymbalSetupSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(CYMBAL_SETUP_RE);
   return match ? match[1].toLowerCase() : null;
 }
 
@@ -5814,6 +5837,21 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
     }
   };
 
+  // Issue #4306 (phase 3 of epic #4303): cross-link the Cymbals GearSection to its
+  // /cymbals/setups/<drummer> page, gated on a verified entry in data/cymbalSetups.js
+  // (same "confirmed mapping only" pattern as the Sticks block from #4157).
+  const cymbalSetup = gearType === 'cymbals' && drummerSlug ? getSetupForDrummer(drummerSlug) : null;
+  const handleCymbalSetupPress = () => {
+    if (!cymbalSetup || !drummerSlug) return;
+    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+      window.history.pushState({}, '', `/cymbals/setups/${drummerSlug}`);
+      window.dispatchEvent(new PopStateEvent('popstate'));
+      window.scrollTo(0, 0);
+    } else {
+      Linking.openURL(`https://metalforge.io/cymbals/setups/${drummerSlug}`);
+    }
+  };
+
   // Use gold accent for cymbal-related gear titles
   const isCymbalRelated = gearType === 'cymbals' || title.toLowerCase().includes('cymbal');
   const titleColor = isCymbalRelated ? theme.accent : theme.text;
@@ -5832,6 +5870,17 @@ function GearSection({ title, content, theme, gearType, drummerName, drummerSlug
         >
           <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>
             {seriesLink.drummerCount} pros use this — see all →
+          </Text>
+        </TouchableOpacity>
+      )}
+      {cymbalSetup && (
+        <TouchableOpacity
+          onPress={handleCymbalSetupPress}
+          accessibilityRole="link"
+          accessibilityLabel={`${drummerName}'s full cymbal setup — piece-by-piece breakdown`}
+        >
+          <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>
+            See full cymbal breakdown →
           </Text>
         </TouchableOpacity>
       )}
@@ -28214,6 +28263,47 @@ setShowList(false);
             onNavigateToBrand={(slug) => {
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/drumsticks/brands/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+
+    // Cymbal Setup Page (Issue #4306, phase 3 of epic #4303) - /cymbals/setups/<drummer>
+    if (isCymbalSetupPage()) {
+      const cymbalDrummerSlug = getCymbalSetupSlugFromURL();
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyCymbalSetupPage
+            theme={theme}
+            drummerSlug={cymbalDrummerSlug}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${cymbalDrummerSlug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              const drummer = drummers.find(d => toSlug(d.name) === slug);
+              if (drummer) {
+                handleSelectDrummer(drummer);
+              }
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}`);
+              }
+            }}
+            onNavigateToHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/cymbals');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToBrand={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/brands/${slug}`);
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}

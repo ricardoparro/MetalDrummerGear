@@ -75,6 +75,22 @@ try {
   console.warn('Could not load signature licks, continuing without them:', e.message);
 }
 
+// --- Load verified cymbal setups (index by drummerSlug) --------------------------
+// Issue #4306 (phase 3 of epic #4303): source the per-drummer /llms/ "Cymbal Setup"
+// section from the same CYMBAL_SETUPS data module the /cymbals/setups/<drummer>
+// pages read from, so the two surfaces can never drift apart.
+let cymbalSetupsByDrummerSlug = {};
+try {
+  const cymbalSetupsPath = path.join(__dirname, '../packages/frontend/data/cymbalSetups.js');
+  const cymbalSetupsContent = fs.readFileSync(cymbalSetupsPath, 'utf-8');
+  const transformed = cymbalSetupsContent
+    .replace(/^export const /gm, 'const ')
+    .replace(/^export function /gm, 'function ');
+  cymbalSetupsByDrummerSlug = eval(`(function() { ${transformed}; return DRUMMER_CYMBALS; })()`);
+} catch (e) {
+  console.warn('Could not load cymbal setups, continuing without them:', e.message);
+}
+
 const today = new Date().toISOString().split('T')[0];
 const BASE = 'https://metalforge.io';
 
@@ -171,6 +187,23 @@ function buildMarkdown(drummer) {
     if (g.pedals) md += `- **Pedals:** ${g.pedals}\n`;
     if (g.electronics) md += `- **Electronics:** ${g.electronics}\n`;
     md += `\n`;
+  }
+
+  // --- Cymbal Setup cross-reference (Issue #4306) -------------------------------
+  // Omit the section entirely when this drummer has no verified entry in
+  // CYMBAL_SETUPS — never a thin/fabricated section.
+  const cymbalSetup = cymbalSetupsByDrummerSlug[slug];
+  if (cymbalSetup) {
+    md += `## Cymbal Setup\n\n`;
+    md += `**What cymbals does ${drummer.name} use?** ${drummer.name} uses ${cymbalSetup.summary}.\n\n`;
+    if (cymbalSetup.pieces && cymbalSetup.pieces.length > 0) {
+      md += `| Type | Size | Series | Model |\n|---|---|---|---|\n`;
+      for (const piece of cymbalSetup.pieces) {
+        md += `| ${piece.type} | ${piece.sizeIn}" | ${piece.series || '—'} | ${piece.model} |\n`;
+      }
+      md += `\n`;
+    }
+    md += `Full breakdown: [${drummer.name}'s Cymbal Setup](${BASE}/cymbals/setups/${slug})\n\n`;
   }
 
   // --- Notable songs / performances (videos) -----------------------------------

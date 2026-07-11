@@ -62,6 +62,21 @@ Zildjian cymbals complete the Jay Weinberg drum kit: 14" A New Beat Hi-Hats for 
 - Duality - Live Drum Cam (Wacken 2022, Official) (2022)
 - Sulfur - Live Drum Cam (Wacken 2022, Official) (2022)
 
+## Cymbal Setup
+
+**What cymbals does Jay Weinberg use?** Jay Weinberg uses Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A New Beat | Hi-Hats |
+| crash | 18" | A Custom | Crash |
+| crash | 19" | A Custom | Crash |
+| ride | 21" | K Custom | Ride |
+| china | 19" | K | China |
+| other | 7" | — | FX Break Bell |
+
+Full breakdown: [Jay Weinberg's Cymbal Setup](https://metalforge.io/cymbals/setups/jay-weinberg)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Jay Weinberg play?**

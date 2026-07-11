@@ -55,6 +55,20 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
 - Trivium - Betrayer (Alex Bent Drum Playthrough) (2017)
 - Trivium - The Sin and the Sentence (Drum Cut) (2017)
 
+## Cymbal Setup
+
+**What cymbals does Alex Bent use?** Alex Bent uses Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Custom Hybrid | Hi-Hats |
+| crash | 18" | K Custom Hybrid | Crash |
+| crash | 19" | K Custom Hybrid | Crash |
+| ride | 21" | K Custom Hybrid | Ride |
+| china | 18" | A Custom | China |
+
+Full breakdown: [Alex Bent's Cymbal Setup](https://metalforge.io/cymbals/setups/alex-bent)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Alex Bent play?**

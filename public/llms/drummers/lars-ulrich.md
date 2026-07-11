@@ -75,6 +75,21 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
 - For Whom The Bell Tolls - Lars Angle (Cunning Stunts) (1997)
 - Enter Sandman - S&M Lars Cam (1999)
 
+## Cymbal Setup
+
+**What cymbals does Lars Ulrich use?** Lars Ulrich uses Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16", 17" & 18" Rock Crashes, 20" Z Custom China, 22" Ride).
+
+| Type | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Dyno Beat Hi-Hats |
+| crash | 16" | A Custom | Rock Crash |
+| crash | 17" | A Custom | Rock Crash |
+| crash | 18" | A Custom | Rock Crash |
+| china | 20" | Z Custom | China |
+| ride | 22" | A Custom | Ride |
+
+Full breakdown: [Lars Ulrich's Cymbal Setup](https://metalforge.io/cymbals/setups/lars-ulrich)
+
 ## Frequently Asked Questions
 
 **Q: What drum kit does Lars Ulrich use?**

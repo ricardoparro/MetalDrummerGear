@@ -4,7 +4,7 @@
 > Optimised for AI crawlers answering "Tama vs Pearl metal", "best cymbals for metal",
 > and brand matchup queries.
 >
-> Last updated: 2026-06-19 · 7 curated gear comparisons
+> Last updated: 2026-07-11 · 12 curated gear comparisons
 
 ---
 
@@ -19,6 +19,11 @@
 | Tama SLP vs Pearl Sensitone Snares | Snare Drums | [tama-slp-vs-pearl-sensitone.md](https://metalforge.io/llms/gear-comparison/tama-slp-vs-pearl-sensitone.md) |
 | Zildjian vs Sabian Cymbals | Cymbals | [zildjian-vs-sabian.md](https://metalforge.io/llms/gear-comparison/zildjian-vs-sabian.md) |
 | Sonor vs DW Drums | Drums | [sonor-vs-dw.md](https://metalforge.io/llms/gear-comparison/sonor-vs-dw.md) |
+| DW vs Tama Drums | Drums | [dw-vs-tama.md](https://metalforge.io/llms/gear-comparison/dw-vs-tama.md) |
+| Mapex vs Pearl Drums | Drums | [mapex-vs-pearl.md](https://metalforge.io/llms/gear-comparison/mapex-vs-pearl.md) |
+| Sabian vs Meinl Cymbals | Cymbals | [sabian-vs-meinl.md](https://metalforge.io/llms/gear-comparison/sabian-vs-meinl.md) |
+| Ludwig vs Tama Drums | Drums | [ludwig-vs-tama.md](https://metalforge.io/llms/gear-comparison/ludwig-vs-tama.md) |
+| Ludwig vs DW Drums | Drums | [ludwig-vs-dw.md](https://metalforge.io/llms/gear-comparison/ludwig-vs-dw.md) |
 
 ---
 
@@ -131,5 +136,83 @@ Compare Sonor SQ2 and DW Collector's drums for metal. German engineering vs Amer
 **Verdict:** Sonor SQ2 is the progressive metal standard. DW Collector's excels in modern metal with studio versatility.
 
 [Full comparison → /compare/sonor-vs-dw](https://metalforge.io/compare/sonor-vs-dw) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/sonor-vs-dw.md)
+
+---
+
+## DW vs Tama Drums
+
+**Category:** Drums · **URL:** https://metalforge.io/compare/dw-vs-tama
+
+Compare DW Collector's Series and Tama Starclassic drums for metal. See specs, pricing, pro endorsements, and which premium kit suits your playing style.
+
+**DW endorsed by:** Navene Koperweis, Hannes Grossmann
+**Tama endorsed by:** Lars Ulrich, Charlie Benante, Mario Duplantier, Dirk Verbeuren
+
+**For metal:** Tama is the proven choice across thrash, groove, and progressive metal, backed by decades of endorsements from genre-defining drummers. DW appeals to modern and progressive death metal drummers who want a warmer low end with studio-grade consistency.
+**Verdict:** For metal drummers who want a battle-tested rig at a lower entry cost, Tama Starclassic remains the industry standard. For those chasing a warmer, more customizable premium kit and willing to pay for it, DW Collector's Series justifies its higher pri…
+
+[Full comparison → /compare/dw-vs-tama](https://metalforge.io/compare/dw-vs-tama) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/dw-vs-tama.md)
+
+---
+
+## Mapex vs Pearl Drums
+
+**Category:** Drums · **URL:** https://metalforge.io/compare/mapex-vs-pearl
+
+Compare Mapex Saturn V and Pearl Masters Maple Complete drums for metal. See specs, pricing, pro endorsements, and which mid-tier kit suits your playing style.
+
+**Mapex endorsed by:** Chris Adler, Jason Bittner
+**Pearl endorsed by:** Gene Hoglan, Flo Mounier, Mike Mangini
+
+**For metal:** Mapex suits groove and thrash drummers who want punch on a budget. Pearl remains the death metal and technical metal standard, especially for blast-beat-heavy playing where its shell consistency has been proven across countless recordings.
+**Verdict:** Mapex Saturn V is the value pick for metal drummers who want pro-level tone without the Pearl price tag. Pearl Masters Maple Complete is the proven choice for death metal and technical extremity, trusted by generations of blast-beat specialists who n…
+
+[Full comparison → /compare/mapex-vs-pearl](https://metalforge.io/compare/mapex-vs-pearl) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/mapex-vs-pearl.md)
+
+---
+
+## Sabian vs Meinl Cymbals
+
+**Category:** Cymbals · **URL:** https://metalforge.io/compare/sabian-vs-meinl
+
+Sabian HHX/AAX vs Meinl Byzance for metal drumming. Compare bright vs dark tones, pricing, and which cymbals top progressive and groove metal drummers prefer.
+
+**Sabian endorsed by:** Tomas Haake, Mike Portnoy, Vinnie Paul
+**Meinl endorsed by:** Brann Dailor, Matt Halpern, Derek Roddy
+
+**For metal:** Sabian dominates djent and groove metal thanks to signature innovations like Compression Hi-Hats. Meinl Byzance is the go-to for progressive and modern metal drummers chasing dark, complex tone that still translates cleanly in the studio.
+**Verdict:** Sabian HHX/AAX is the versatile, value-driven choice for groove and djent drummers who need a full range of tones across one series. Meinl Byzance is worth the premium for progressive metal players who prioritize dark, studio-ready complexity over ra…
+
+[Full comparison → /compare/sabian-vs-meinl](https://metalforge.io/compare/sabian-vs-meinl) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/sabian-vs-meinl.md)
+
+---
+
+## Ludwig vs Tama Drums
+
+**Category:** Drums · **URL:** https://metalforge.io/compare/ludwig-vs-tama
+
+Compare Ludwig Classic Maple and Tama Starclassic drums for metal. Vintage American craftsmanship vs modern metal-tuned attack, pricing, specs, and pro endorsements.
+
+**Tama endorsed by:** Lars Ulrich, Charlie Benante, Mario Duplantier, Gene Hoglan
+
+**For metal:** Tama is the battle-tested, proven choice across thrash, groove, and progressive metal, backed by decades of genre-defining endorsements. Ludwig has no MetalForge roster drummer currently confirmed on a full kit - its metal-adjacent reputation rests on historical figures like Black Sabbath's Bill Ward rather than active touring endorsers, so it's best framed as a vintage-tone specialist pick rather than an extreme-metal workhorse.
+**Verdict:** For metal drummers who want a battle-tested rig with deep genre pedigree, Tama Starclassic Maple remains the safer, more metal-proven choice. Ludwig Classic Maple is worth considering for drummers chasing classic-rock-rooted warmth and historic Ameri…
+
+[Full comparison → /compare/ludwig-vs-tama](https://metalforge.io/compare/ludwig-vs-tama) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/ludwig-vs-tama.md)
+
+---
+
+## Ludwig vs DW Drums
+
+**Category:** Drums · **URL:** https://metalforge.io/compare/ludwig-vs-dw
+
+Compare Ludwig Classic Maple and DW Collector's Series drums for metal. Vintage American heritage vs modern premium engineering, pricing, specs, and pro endorsements.
+
+**DW endorsed by:** Brann Dailor, Derek Roddy, Scott Travis, Hannes Grossmann
+
+**For metal:** DW is the proven, current choice for modern and progressive death metal drummers chasing studio-grade consistency and a warm, customizable low end. Ludwig has no MetalForge roster drummer currently confirmed on a full kit - its metal pedigree is historical (Black Sabbath's Bill Ward helped define the genre on a Ludwig kit) rather than reflected in today's touring rosters, so it fills the gap opposite DW as a vintage-leaning alternative rather than a head-to-head modern metal rival.
+**Verdict:** DW Collector's Series is the proven, modern-metal-ready choice for drummers who want studio-grade shell matching and are willing to pay a premium for it. Ludwig Classic Maple is the value and heritage pick for drummers who want classic American tone …
+
+[Full comparison → /compare/ludwig-vs-dw](https://metalforge.io/compare/ludwig-vs-dw) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/ludwig-vs-dw.md)
 
 ---

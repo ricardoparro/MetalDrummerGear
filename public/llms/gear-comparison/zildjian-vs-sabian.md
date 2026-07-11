@@ -1,7 +1,7 @@
 # Zildjian vs Sabian Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Zildjian and Sabian cymbals used by pro metal drummers.
-> Last updated: 2026-06-19
+> Last updated: 2026-07-11
 
 The ultimate Zildjian vs Sabian comparison for metal drummers. A/K series vs AAX/HHX, sound profiles, durability, pricing, and which cymbals top metal drummers actually use.
 

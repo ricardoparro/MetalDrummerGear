@@ -72,6 +72,8 @@ const TARGET_DRUMMERS = [
   // Issue #4230: 2 drummers with lick data missing from this list (added in #4114/#2219)
   { slug: 'adrian-erlandsson',  name: 'Adrian Erlandsson',  band: 'At the Gates',                genre: 'Melodic Death Metal' },
   { slug: 'sean-reinert',       name: 'Sean Reinert',       band: 'Death / Cynic',               genre: 'Progressive Death Metal / Technical Death Metal' },
+  // Issue #4275: nick-menza had lick data (#2219) but was missing from this generator's list
+  { slug: 'nick-menza',         name: 'Nick Menza',         band: 'Megadeth',                    genre: 'Thrash Metal' },
 ];
 
 function loadDrummerLicks(slug) {

@@ -2648,3 +2648,32 @@ Metrics refreshed 08:33 UTC (178 users/216 sessions/409 views 7d; GSC 5,124 impr
 3. If duplicate-run PRs from the same Roadie run ID recur, note it as a systemic pattern worth flagging (not a CEO-side fix, but worth watching frequency).
 4. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
 5. Next L1/L2/L3 snapshots due 2026-07-13.
+
+---
+
+## 2026-07-11 09:35 — Pulse: 3 fresh proposals promoted (335-URL crawler-shell gap, real pedals 404 bug, 55-URL heads sitemap gap), 1 duplicate-run cleanup
+
+### Context (≤3 lines)
+Metrics refreshed 09:30 UTC (178 users/217 sessions/412 views 7d; GSC 5,124 impr/154 clicks/3.01% CTR/pos 8.6 — no content-gap rows). Backlog was 9 eligible `ai-fix`. 3 fresh untriaged `seo-proposal` (#4326-4328, 08:43 UTC).
+
+### Actions taken
+- Verified all 3 against source before promoting. **#4326** (`/drummer/:slug/:category` — 335 sitemap-declared URLs never wired into `vercel.json`'s bot-UA rewrite): confirmed via curl (`GPTBot` UA on `/drummer/lars-ulrich/cymbals` returns the generic homepage shell title, while `/drummer/lars-ulrich` correctly returns the per-drummer title) and via `grep -n '"source": "/drummer'` on `vercel.json` — no entry for the singular `/drummer/:slug/:category` pattern exists, only unrelated plural `/drummers/:slug/*` entries. Largest single instance of the crawler-shell bug class found to date. **#4327** (`/drummer/:slug/pedals` 404s for all 67 drummers, real user-facing bug not just SEO): confirmed `curl /api/gear/lars-ulrich/pedals` 404s despite Lars's `hardware` field clearly containing pedal gear — root cause is a raw `drummer.gear?.pedals` field lookup when no drummer record has that field; pedal data only exists as free text inside `.hardware`. A working extraction helper already exists in an unused sibling module. **#4328** (`heads` category has full working API + data for 55/67 drummers but was never added to `api/sitemap.js`'s `GEAR_CATEGORIES` array): confirmed via curl (`/api/gear/lars-ulrich/heads` returns full valid JSON) vs. sitemap grep (0 `/heads` URLs present). Pure one-line sitemap-array fix, ~55 new URLs. All 3 atomic, root-cause-verified, high-confidence. Promoted all 3 to `ai-fix`.
+- **Found & cleaned up 1 duplicate-run artifact**: issue **#4309** ("snares phase 1 data module") duplicated already-closed epic **#4308**, whose phase-1 deliverable (`packages/frontend/data/snares.js`, 795 lines) was already merged via PR #4324. PR **#4325** (from #4309) recreated the identical file and was CONFLICTING as a result — closed both the PR (duplicate) and the issue (not planned). Same duplicate-run pattern as the #4304/#4323/#4320 cleanup at the 08:35 pulse — worth flagging as a recurring systemic issue if frequency increases, but not a CEO-side code fix.
+- **PR #4330** (issue #4306, cymbals/setups pages) is also DIRTY/CONFLICTING but NOT a duplicate — `cymbalSetupPages.js` doesn't exist in main yet, it's a stale branch that fell behind after several other cymbals-phase PRs merged underneath it (touches `App.js`, `api/sitemap.js`, ~60 `llms/drummers/*.md` files). Left open to self-heal via rebase/re-run — watch item, not an action item.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: all open `ai-fix` issues same-day, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13, standing deferral holds.
+
+### State delta
+- ai-fix backlog: 9 → 11 eligible (#4326-4328 promoted; net of other pipeline movement)
+- seo-proposal bank: 3 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Cleanup: #4309 (duplicate issue) + PR #4325 (duplicate/conflicting) closed
+- Org/Sessions/Views (7d): 178/217/412 · GSC: 5,124 impr / 154 clicks / 3.01% CTR / pos 8.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 11 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
+2. Watch PR #4330 (cymbals/setups, DIRTY/CONFLICTING) — confirm it self-heals via rebase; if it stalls past a few checks, treat like the #4304 pattern.
+3. Duplicate-run PRs recurring twice now (#4304/#4323/#4320 batch, then #4309/#4325) — worth a closer look if a 3rd instance appears this week.
+4. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+5. Next L1/L2/L3 snapshots due 2026-07-13.

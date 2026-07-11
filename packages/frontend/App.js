@@ -342,6 +342,24 @@ function isDrumstickBrandPage() {
 const LazyBestForMetalPage = lazy(() => import('./components/BestForMetalPage').then(m => ({ default: m.BestForMetalPage })));
 function isBestForMetalPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/drumsticks/best-for-metal'; }
 
+// Cymbals Hub (Issue #4305, epic #4303 phase 2/4) - SEO pillar + reference pages at /cymbals/*
+// Unlike /drumsticks, the pre-existing /gear/cymbals category page is NOT aliased
+// here — it stays a separate route until epic #4303 phase 4 consolidates it.
+const CYMBAL_REFERENCE_SLUGS = ['types', 'alloys', 'sizes-weights'];
+const LazyCymbalsHubPage = lazy(() => import('./components/CymbalsHubPage').then(m => ({ default: m.CymbalsHubPage })));
+const LazyCymbalReferencePage = lazy(() => import('./components/CymbalReferencePage').then(m => ({ default: m.CymbalReferencePage })));
+function isCymbalsHubPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/cymbals'; }
+function isCymbalReferencePage() {
+  if (typeof window === 'undefined') return false;
+  const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/cymbals\/([^/]+)$/)?.[1];
+  return CYMBAL_REFERENCE_SLUGS.includes(slug);
+}
+function getCymbalReferenceSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/cymbals\/([^/]+)$/)?.[1];
+  return CYMBAL_REFERENCE_SLUGS.includes(slug) ? slug : null;
+}
+
 // Beginner Gear Guide Component (Issue #702)
 // Lazy loaded for performance optimization (#708) - 63KB component + 45KB data
 const LazyBeginnerGearGuidePage = lazy(() => import('./components/BeginnerGearGuide'));
@@ -13657,6 +13675,29 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
           </Text>
         )}
 
+        {/* Cross-link: the homepage-linked /gear/cymbals category page → the new
+            /cymbals hub (epic #4303). /gear/cymbals stays the homepage tile's
+            target until phase 4's door consolidation flips it to /cymbals — this
+            banner is the interim path that guarantees the hub is reachable from
+            the homepage in the meantime. Same pattern as the sticks banner (#4279). */}
+        {category === 'cymbals' && (
+          <TouchableOpacity
+            onPress={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/cymbals');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border, marginBottom: 16 }]}
+            accessibilityRole="link"
+            accessibilityLabel="Open the cymbal guide — types, alloys, and every verified drummer setup"
+          >
+            <Text style={[styles.backButtonText, { color: theme.primary }]}>
+              🔔 Cymbal Guide: types, alloys & every verified drummer setup →
+            </Text>
+          </TouchableOpacity>
+        )}
+
         {/* Brand filters */}
         {brands.length > 0 && (
           <View style={styles.mb6}>
@@ -23714,6 +23755,11 @@ function AppContent() {
   const [showDrumstickPage, setShowDrumstickPage] = useState(() => isDrumstickReferencePage());
   const [drumstickPageSlug, setDrumstickPageSlug] = useState(() => getDrumstickReferenceSlugFromURL());
 
+  // Cymbals Hub state (Issue #4305, epic #4303 phase 2) - /cymbals + /cymbals/:page
+  const [showCymbalsHub, setShowCymbalsHub] = useState(() => isCymbalsHubPage());
+  const [showCymbalPage, setShowCymbalPage] = useState(() => isCymbalReferencePage());
+  const [cymbalPageSlug, setCymbalPageSlug] = useState(() => getCymbalReferenceSlugFromURL());
+
   // Beginner Gear Guide Page state (Issue #702 / generalized to multi-slug #832)
   const [showBeginnerGuide, setShowBeginnerGuide] = useState(() => isBeginnerGuidePage());
   const [beginnerGuideSlug, setBeginnerGuideSlug] = useState(() => getBeginnerGuideSlugFromURL());
@@ -25140,6 +25186,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25181,6 +25230,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25233,6 +25285,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25280,6 +25335,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25326,6 +25384,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25375,6 +25436,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25430,6 +25494,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25482,6 +25549,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25625,6 +25695,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25685,6 +25758,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25748,6 +25824,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25807,6 +25886,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25869,6 +25951,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25921,6 +26006,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -26002,6 +26090,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowArticle(false);
         setArticleSlug(null);
         setShowList(false);
@@ -26037,6 +26128,9 @@ function AppContent() {
         setShowDrumsticksHub(true);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuidesHub(false);
         setShowGuide(false);
         setGuideSlug(null);
@@ -26055,6 +26149,51 @@ function AppContent() {
         setShowDrumstickPage(true);
         setDrumstickPageSlug(getDrumstickReferenceSlugFromURL());
         setShowDrumsticksHub(false);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isCymbalsHubPage()) {
+        // Cymbals pillar page (Issue #4305) - /cymbals
+        setShowCymbalsHub(true);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isCymbalReferencePage()) {
+        // Cymbals reference pages (Issue #4305) - /cymbals/types|alloys|sizes-weights
+        setShowCymbalPage(true);
+        setCymbalPageSlug(getCymbalReferenceSlugFromURL());
+        setShowCymbalsHub(false);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
         setShowGuidesHub(false);
         setShowGuide(false);
         setGuideSlug(null);
@@ -26116,6 +26255,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setSelectedDrummer(null);
@@ -26194,6 +26336,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
@@ -26202,6 +26347,9 @@ function AppContent() {
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowGearCards(false);
         setShowCompare(false);
         setShowQuiz(false);
@@ -28768,6 +28916,50 @@ setShowList(false);
               setDrumstickPageSlug(slug);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/drumsticks/${slug}`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Cymbals pillar page (Issue #4305, epic #4303 phase 2) - /cymbals
+    if (showCymbalsHub) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyCymbalsHubPage
+            theme={theme}
+            drummers={drummers}
+            onNavigateReference={(slug) => {
+              setShowCymbalsHub(false);
+              setShowCymbalPage(true);
+              setCymbalPageSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/cymbals/${slug}`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Cymbals reference pages (Issue #4305) - /cymbals/types|alloys|sizes-weights
+    if (showCymbalPage && cymbalPageSlug) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyCymbalReferencePage
+            theme={theme}
+            slug={cymbalPageSlug}
+            onBack={() => {
+              setShowCymbalPage(false);
+              setCymbalPageSlug(null);
+              setShowCymbalsHub(true);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/cymbals');
+              }
+            }}
+            onNavigateReference={(slug) => {
+              setCymbalPageSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/cymbals/${slug}`);
               }
             }}
           />

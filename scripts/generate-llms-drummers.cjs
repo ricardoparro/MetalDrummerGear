@@ -75,6 +75,25 @@ try {
   console.warn('Could not load signature licks, continuing without them:', e.message);
 }
 
+// --- Load verified snares (index by drummerSlug) ----------------------------------
+// Issue #4311 (phase 3/4 of epic #4308): cross-links the /snares/signature/<drummer>
+// pages (isSignature: true) or the /snares hub (verified, non-signature) into each
+// drummer's markdown, same regex+eval extraction pattern used above.
+const snaresPath = path.join(__dirname, '../packages/frontend/data/snares.js');
+let snaresByDrummerSlug = {};
+try {
+  const snaresContent = fs.readFileSync(snaresPath, 'utf-8');
+  const snaresMatch = snaresContent.match(/export const SNARES = (\[[\s\S]*?\n\]);/);
+  if (snaresMatch) {
+    const snares = eval(snaresMatch[1]);
+    for (const snare of snares) {
+      snaresByDrummerSlug[snare.drummerSlug] = snare;
+    }
+  }
+} catch (e) {
+  console.warn('Could not load snares, continuing without them:', e.message);
+}
+
 const today = new Date().toISOString().split('T')[0];
 const BASE = 'https://metalforge.io';
 
@@ -228,6 +247,21 @@ function buildMarkdown(drummer) {
       md += `- [${lick.name}](${BASE}/drummers/${slug}/licks/${lick.slug})\n`;
     }
     md += `\nEach lick page includes a video demonstration, HowTo breakdown, and gear notes.\n\n`;
+  }
+
+  // --- Snare cross-reference (Issue #4311, phase 3/4 of epic #4308) -------------
+  // Omit the section entirely when there's no verified snare record — never
+  // fabricate a signature-page link for an unverified drummer.
+  const snareRecord = snaresByDrummerSlug[slug];
+  if (snareRecord) {
+    md += `## Snare\n\n`;
+    if (snareRecord.isSignature) {
+      md += `${drummer.name} plays a signature snare: the ${snareRecord.brand} ${snareRecord.model} ` +
+        `(${snareRecord.sizeIn}x${snareRecord.depthIn}"${snareRecord.shellMaterial ? `, ${snareRecord.shellMaterial} shell` : ''}). ` +
+        `Full specs: [${drummer.name}'s signature snare](${BASE}/snares/signature/${slug}).\n\n`;
+    } else {
+      md += `${drummer.name}'s snare: ${snareRecord.summary}. See the [snares guide](${BASE}/snares) for shell, size, and tuning background.\n\n`;
+    }
   }
 
   // --- Footer / cross-links ----------------------------------------------------

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/chris-adler"
 source: "https://metalforge.io"
-last_updated: "2026-06-29"
+last_updated: "2026-07-11"
 ---
 
 # Chris Adler — Drum Kit & Gear Setup
@@ -85,10 +85,14 @@ MetalForge has 3 signature lick tutorial(s) for Chris Adler:
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
+## Snare
+
+Chris Adler plays a signature snare: the Mapex Chris Adler Signature Walnut/Maple (14x5.5", Maple/Walnut shell). Full specs: [Chris Adler's signature snare](https://metalforge.io/snares/signature/chris-adler).
+
 ---
 
 **Full interactive profile:** [Chris Adler on MetalForge](https://metalforge.io/drummer/chris-adler)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*

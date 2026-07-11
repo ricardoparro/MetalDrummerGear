@@ -6,7 +6,7 @@ country: "Canada"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/flo-mounier"
 source: "https://metalforge.io"
-last_updated: "2026-06-28"
+last_updated: "2026-07-11"
 ---
 
 # Flo Mounier — Drum Kit & Gear Setup
@@ -93,10 +93,14 @@ MetalForge has 3 signature lick tutorial(s) for Flo Mounier:
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
+## Snare
+
+Flo Mounier's snare: Pearl Masters 14x5.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+
 ---
 
 **Full interactive profile:** [Flo Mounier on MetalForge](https://metalforge.io/drummer/flo-mounier)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*

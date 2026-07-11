@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/inferno"
 source: "https://metalforge.io"
-last_updated: "2026-06-29"
+last_updated: "2026-07-11"
 ---
 
 # Inferno — Drum Kit & Gear Setup
@@ -91,10 +91,14 @@ MetalForge has 3 signature lick tutorial(s) for Inferno:
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
+## Snare
+
+Inferno's snare: Pearl Reference 14x5" Steel. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+
 ---
 
 **Full interactive profile:** [Inferno on MetalForge](https://metalforge.io/drummer/inferno)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-25 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*

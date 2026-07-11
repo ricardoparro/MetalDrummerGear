@@ -6,7 +6,7 @@ country: "Cuba/USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dave-lombardo"
 source: "https://metalforge.io"
-last_updated: "2026-06-27"
+last_updated: "2026-07-11"
 ---
 
 # Dave Lombardo — Drum Kit & Gear Setup
@@ -127,10 +127,14 @@ MetalForge has 3 signature lick tutorial(s) for Dave Lombardo:
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
+## Snare
+
+Dave Lombardo's snare: Tama S.L.P. 14x6.5" G-Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+
 ---
 
 **Full interactive profile:** [Dave Lombardo on MetalForge](https://metalforge.io/drummer/dave-lombardo)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*

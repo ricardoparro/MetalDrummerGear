@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/nicko-mcbrain"
 source: "https://metalforge.io"
-last_updated: "2026-06-29"
+last_updated: "2026-07-11"
 ---
 
 # Nicko McBrain — Drum Kit & Gear Setup
@@ -95,10 +95,14 @@ MetalForge has 3 signature lick tutorial(s) for Nicko McBrain:
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
+## Snare
+
+Nicko McBrain plays a signature snare: the Sonor Nicko McBrain Signature (14x6.5"). Full specs: [Nicko McBrain's signature snare](https://metalforge.io/snares/signature/nicko-mcbrain).
+
 ---
 
 **Full interactive profile:** [Nicko McBrain on MetalForge](https://metalforge.io/drummer/nicko-mcbrain)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*

@@ -360,6 +360,24 @@ function getCymbalReferenceSlugFromURL() {
   return CYMBAL_REFERENCE_SLUGS.includes(slug) ? slug : null;
 }
 
+// Snares Hub (Issue #4310, epic #4308 phase 2/4) - SEO pillar + reference pages at /snares/*
+// Unlike /drumsticks, the pre-existing /gear/snares category page is NOT aliased
+// here — it stays a separate route until epic #4308 phase 4 consolidates it.
+const SNARE_REFERENCE_SLUGS = ['shells', 'sizes', 'tuning-for-metal'];
+const LazySnaresHubPage = lazy(() => import('./components/SnaresHubPage').then(m => ({ default: m.SnaresHubPage })));
+const LazySnareReferencePage = lazy(() => import('./components/SnareReferencePage').then(m => ({ default: m.SnareReferencePage })));
+function isSnaresHubPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/snares'; }
+function isSnareReferencePage() {
+  if (typeof window === 'undefined') return false;
+  const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/snares\/([^/]+)$/)?.[1];
+  return SNARE_REFERENCE_SLUGS.includes(slug);
+}
+function getSnareReferenceSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/snares\/([^/]+)$/)?.[1];
+  return SNARE_REFERENCE_SLUGS.includes(slug) ? slug : null;
+}
+
 // Beginner Gear Guide Component (Issue #702)
 // Lazy loaded for performance optimization (#708) - 63KB component + 45KB data
 const LazyBeginnerGearGuidePage = lazy(() => import('./components/BeginnerGearGuide'));
@@ -13698,6 +13716,30 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
           </TouchableOpacity>
         )}
 
+        {/* Cross-link: the homepage-linked /gear/snares category page → the new
+            /snares hub (epic #4308). /gear/snares stays the homepage tile's
+            target until phase 4's door consolidation flips it to /snares — this
+            banner is the interim path that guarantees the hub is reachable from
+            the homepage in the meantime. Same pattern as the sticks (#4279) and
+            cymbals (#4305) banners. */}
+        {category === 'snares' && (
+          <TouchableOpacity
+            onPress={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/snares');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border, marginBottom: 16 }]}
+            accessibilityRole="link"
+            accessibilityLabel="Open the snare guide — shells, sizes, and every verified signature snare"
+          >
+            <Text style={[styles.backButtonText, { color: theme.primary }]}>
+              🪘 Snare Guide: shells, sizes & every verified signature snare →
+            </Text>
+          </TouchableOpacity>
+        )}
+
         {/* Brand filters */}
         {brands.length > 0 && (
           <View style={styles.mb6}>
@@ -23760,6 +23802,11 @@ function AppContent() {
   const [showCymbalPage, setShowCymbalPage] = useState(() => isCymbalReferencePage());
   const [cymbalPageSlug, setCymbalPageSlug] = useState(() => getCymbalReferenceSlugFromURL());
 
+  // Snares Hub state (Issue #4310, epic #4308 phase 2) - /snares + /snares/:page
+  const [showSnaresHub, setShowSnaresHub] = useState(() => isSnaresHubPage());
+  const [showSnarePage, setShowSnarePage] = useState(() => isSnareReferencePage());
+  const [snarePageSlug, setSnarePageSlug] = useState(() => getSnareReferenceSlugFromURL());
+
   // Beginner Gear Guide Page state (Issue #702 / generalized to multi-slug #832)
   const [showBeginnerGuide, setShowBeginnerGuide] = useState(() => isBeginnerGuidePage());
   const [beginnerGuideSlug, setBeginnerGuideSlug] = useState(() => getBeginnerGuideSlugFromURL());
@@ -25189,6 +25236,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25233,6 +25283,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25288,6 +25341,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25338,6 +25394,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25387,6 +25446,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25439,6 +25501,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25497,6 +25562,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25552,6 +25620,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25698,6 +25769,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25761,6 +25835,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25827,6 +25904,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25889,6 +25969,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25954,6 +26037,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -26009,6 +26095,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -26093,6 +26182,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowArticle(false);
         setArticleSlug(null);
         setShowList(false);
@@ -26131,6 +26223,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuidesHub(false);
         setShowGuide(false);
         setGuideSlug(null);
@@ -26152,6 +26247,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuidesHub(false);
         setShowGuide(false);
         setGuideSlug(null);
@@ -26170,6 +26268,9 @@ function AppContent() {
         setShowCymbalsHub(true);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
@@ -26191,6 +26292,57 @@ function AppContent() {
         setShowCymbalPage(true);
         setCymbalPageSlug(getCymbalReferenceSlugFromURL());
         setShowCymbalsHub(false);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isSnaresHubPage()) {
+        // Snares pillar page (Issue #4310) - /snares
+        setShowSnaresHub(true);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isSnareReferencePage()) {
+        // Snares reference pages (Issue #4310) - /snares/shells|sizes|tuning-for-metal
+        setShowSnarePage(true);
+        setSnarePageSlug(getSnareReferenceSlugFromURL());
+        setShowSnaresHub(false);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
@@ -26258,6 +26410,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setSelectedDrummer(null);
@@ -26339,6 +26494,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
@@ -26350,6 +26508,9 @@ function AppContent() {
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowGearCards(false);
         setShowCompare(false);
         setShowQuiz(false);
@@ -28960,6 +29121,50 @@ setShowList(false);
               setCymbalPageSlug(slug);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/cymbals/${slug}`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Snares pillar page (Issue #4310, epic #4308 phase 2) - /snares
+    if (showSnaresHub) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazySnaresHubPage
+            theme={theme}
+            drummers={drummers}
+            onNavigateReference={(slug) => {
+              setShowSnaresHub(false);
+              setShowSnarePage(true);
+              setSnarePageSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/snares/${slug}`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Snares reference pages (Issue #4310) - /snares/shells|sizes|tuning-for-metal
+    if (showSnarePage && snarePageSlug) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazySnareReferencePage
+            theme={theme}
+            slug={snarePageSlug}
+            onBack={() => {
+              setShowSnarePage(false);
+              setSnarePageSlug(null);
+              setShowSnaresHub(true);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/snares');
+              }
+            }}
+            onNavigateReference={(slug) => {
+              setSnarePageSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/snares/${slug}`);
               }
             }}
           />

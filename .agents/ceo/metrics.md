@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-11 07:32 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-11 08:33 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 177 |
-| Sessions | 215 |
-| Page views | 402 |
-| Engagement rate | 62.33% |
-| Avg session (s) | 204 |
+| Active users | 178 |
+| Sessions | 216 |
+| Page views | 409 |
+| Engagement rate | 69.44% |
+| Avg session (s) | 200 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -23,18 +23,17 @@
 | /drummer/matt-greiner | 13 | 10 |
 | /drummer/bill-ward | 9 | 7 |
 | /drummer/mario-duplantier | 9 | 7 |
+| /gear/sticks | 9 | 1 |
+| /articles/fastest-double-bass-drummers | 8 | 8 |
 | /drummer/john-otto | 8 | 8 |
-| /gear/sticks | 8 | 1 |
-| /articles/fastest-double-bass-drummers | 7 | 8 |
 | /articles/none-so-vile-drum-setup | 7 | 5 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Organic Search | 168 | 141 |
-| Direct | 36 | 27 |
-| Unassigned | 24 | 21 |
-| Cross-network | 6 | 6 |
+| Organic Search | 175 | 149 |
+| Direct | 38 | 28 |
+| Unassigned | 4 | 3 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

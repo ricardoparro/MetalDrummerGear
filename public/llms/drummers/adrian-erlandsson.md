@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/adrian-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-07-10"
+last_updated: "2026-07-11"
 ---
 
 # Adrian Erlandsson — Drum Kit & Gear Setup
@@ -87,10 +87,14 @@ MetalForge has 3 signature lick tutorial(s) for Adrian Erlandsson:
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
+## Snare
+
+Adrian Erlandsson's snare: Tama Starclassic Bubinga 14x6.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+
 ---
 
 **Full interactive profile:** [Adrian Erlandsson on MetalForge](https://metalforge.io/drummer/adrian-erlandsson)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-10 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*

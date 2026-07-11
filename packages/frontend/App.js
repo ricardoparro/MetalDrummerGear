@@ -166,6 +166,11 @@ import { DRUMMER_STICKS, getSticksForDrummer } from './data/drumsticks';
 // Drumstick brand pages (Issue #4139, epic #4135 phase 4/4) — used to link the
 // drummer-page "Sticks" block to the matching /drumsticks/brands/<brand> page.
 import { getBrandForStick } from './data/drumstickBrands';
+// Snares data module (Issue #4308 phase 1) — verified drummer→snare mapping
+// used by the drummer-page "Snare" cross-link block and the
+// /snares/signature/<drummer> pages (Issue #4311, phase 3/4). Tiny static
+// module, safe to import eagerly.
+import { DRUMMER_SNARE, getSnareForDrummer } from './data/snares';
 
 // ==========================================
 // LAZY-LOADED DATA MODULES - Performance Optimization (#708)
@@ -825,6 +830,24 @@ function isSignatureStickPage() {
 function getSignatureStickSlugFromURL() {
   if (typeof window === 'undefined') return null;
   const match = window.location.pathname.match(SIGNATURE_STICK_RE);
+  return match ? match[1].toLowerCase() : null;
+}
+
+// Signature Snare Pages (Issue #4311, phase 3/4 of epic #4308) - /snares/signature/<drummer>
+// Targets "what snare does <drummer> use". Only rendered for drummers with a confirmed
+// isSignature: true record in data/snares.js (DRUMMER_SNARE) — a non-signature or
+// unmapped slug falls through to the normal 404 instead of a thin/empty page.
+const LazySignatureSnarePage = lazy(() => import('./components/SignatureSnarePage').then(m => ({ default: m.SignatureSnarePage })));
+const SIGNATURE_SNARE_RE = /^\/snares\/signature\/([a-z0-9-]+)\/?$/i;
+function isSignatureSnarePage() {
+  if (typeof window === 'undefined') return false;
+  const match = window.location.pathname.match(SIGNATURE_SNARE_RE);
+  if (!match) return false;
+  return DRUMMER_SNARE[match[1].toLowerCase()]?.isSignature === true;
+}
+function getSignatureSnareSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(SIGNATURE_SNARE_RE);
   return match ? match[1].toLowerCase() : null;
 }
 
@@ -7377,6 +7400,43 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
                 <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>More {mappedBrand.name} sticks →</Text>
               </TouchableOpacity>
             )}
+          </View>
+        );
+      })()}
+
+      {/* Signature Snare block (Issue #4311, phase 3/4 of epic #4308) — only renders
+          when this drummer has a verified snare record in data/snares.js. Drummers
+          with a confirmed isSignature model link to their /snares/signature/<drummer>
+          page; drummers with a verified but non-signature snare link to the /snares
+          hub instead (mirrors the Sticks-block pattern from #4157/#4138). */}
+      {(() => {
+        const mappedSnare = getSnareForDrummer(drummerSlug);
+        if (!mappedSnare) return null;
+        return (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.bioText, { color: theme.text }]}>
+              <Text style={{ fontWeight: '700' }}>Snare: </Text>
+              {mappedSnare.summary}
+            </Text>
+            <TouchableOpacity
+              onPress={() => {
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  const url = mappedSnare.isSignature ? `/snares/signature/${drummerSlug}` : '/snares';
+                  window.history.pushState({}, '', url);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              accessibilityRole="link"
+              accessibilityLabel={
+                mappedSnare.isSignature
+                  ? `${drummer.name}'s signature snare specs — ${mappedSnare.brand} ${mappedSnare.model}`
+                  : 'Snares guide — shells, sizes, and tuning for metal'
+              }
+            >
+              <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>
+                {mappedSnare.isSignature ? 'See full signature snare specs →' : 'More on snare shells, sizes & tuning →'}
+              </Text>
+            </TouchableOpacity>
           </View>
         );
       })()}
@@ -28523,6 +28583,47 @@ setShowList(false);
             onNavigateToBrand={(slug) => {
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/drumsticks/brands/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+
+    // Signature Snare Page (Issue #4311, phase 3/4 of epic #4308) - /snares/signature/<drummer>
+    if (isSignatureSnarePage()) {
+      const snareDrummerSlug = getSignatureSnareSlugFromURL();
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazySignatureSnarePage
+            theme={theme}
+            drummerSlug={snareDrummerSlug}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${snareDrummerSlug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              const drummer = drummers.find(d => toSlug(d.name) === slug);
+              if (drummer) {
+                handleSelectDrummer(drummer);
+              }
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}`);
+              }
+            }}
+            onNavigateToHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/snares');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToReference={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/snares/${slug}`);
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}

@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Noble"
 profile_url: "https://metalforge.io/drummer/martin-lopez"
 source: "https://metalforge.io"
-last_updated: "2026-07-04"
+last_updated: "2026-07-11"
 ---
 
 # Martin Lopez — Drum Kit & Gear Setup
@@ -97,10 +97,14 @@ MetalForge has 3 signature lick tutorial(s) for Martin Lopez:
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
+## Snare
+
+Martin Lopez's snare: Noble & Cooley Solid Shell 14x6" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
+
 ---
 
 **Full interactive profile:** [Martin Lopez on MetalForge](https://metalforge.io/drummer/martin-lopez)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-04 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*

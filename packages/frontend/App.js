@@ -310,7 +310,7 @@ function getGuideSlugFromURL() { return _soundLikeGuidesModule?.getGuideSlugFrom
 const DRUMSTICK_REFERENCE_SLUGS = ['sizes', 'materials', 'tips'];
 const LazyDrumsticksHubPage = lazy(() => import('./components/DrumsticksHubPage').then(m => ({ default: m.DrumsticksHubPage })));
 const LazyDrumstickReferencePage = lazy(() => import('./components/DrumstickReferencePage').then(m => ({ default: m.DrumstickReferencePage })));
-function isDrumsticksHubPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/drumsticks'; }
+function isDrumsticksHubPage() { if (typeof window === 'undefined') return false; const p = window.location.pathname.replace(/\/+$/, ''); return p === '/drumsticks' || p === '/gear/sticks'; }
 function isDrumstickReferencePage() {
   if (typeof window === 'undefined') return false;
   const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/drumsticks\/([^/]+)$/)?.[1];
@@ -2029,7 +2029,9 @@ function BrowseByGearCategory({ theme }) {
 
   const navigateToCategory = (slug) => {
     if (Platform.OS === 'web' && typeof window !== 'undefined') {
-      window.history.pushState({}, '', `/gear/${slug}`);
+      // Sticks is a specialized theme area: its entrance is the /drumsticks hub.
+      const target = slug === 'sticks' ? '/drumsticks' : `/gear/${slug}`;
+      window.history.pushState({}, '', target);
       window.dispatchEvent(new PopStateEvent('popstate'));
     }
   };
@@ -2039,7 +2041,7 @@ function BrowseByGearCategory({ theme }) {
       return (
         <a
           key={category.slug}
-          href={`/gear/${category.slug}`}
+          href={category.slug === 'sticks' ? '/drumsticks' : `/gear/${category.slug}`}
           onClick={(e) => { e.preventDefault(); navigateToCategory(category.slug); }}
           style={{
             textDecoration: 'none',
@@ -13655,26 +13657,6 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
           </Text>
         )}
 
-        {/* Cross-link: the homepage-linked sticks gear category ↔ the /drumsticks
-            hub (epic #4135), so the two stick surfaces feed each other. */}
-        {category === 'sticks' && (
-          <TouchableOpacity
-            onPress={() => {
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', '/drumsticks');
-                window.dispatchEvent(new PopStateEvent('popstate'));
-              }
-            }}
-            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border, marginBottom: 16 }]}
-            accessibilityRole="link"
-            accessibilityLabel="Open the drumstick guide — sizes, materials, and signature sticks"
-          >
-            <Text style={[styles.backButtonText, { color: theme.primary }]}>
-              📚 Drumstick Guide: sizes, materials & every verified signature stick →
-            </Text>
-          </TouchableOpacity>
-        )}
-
         {/* Brand filters */}
         {brands.length > 0 && (
           <View style={styles.mb6}>
@@ -19445,7 +19427,8 @@ function getGearSlugFromURL() {
 // ==========================================
 
 // Valid gear categories
-const GEAR_CATEGORIES = ['cymbals', 'snares', 'drums', 'pedals', 'sticks', 'hardware'];
+// 'sticks' intentionally absent: /gear/sticks 301s to the specialized /drumsticks hub
+const GEAR_CATEGORIES = ['cymbals', 'snares', 'drums', 'pedals', 'hardware'];
 
 // Check if we're on the gear index page (/gear)
 function isGearIndexPage() {

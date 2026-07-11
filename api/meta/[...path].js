@@ -2670,7 +2670,9 @@ function getMetaForPath(pathname) {
   };
 
   const gearCategoryMatch = path.match(/^\/gear\/([a-z-]+)$/);
-  if (gearCategoryMatch && !gearCategoryMatch[1].startsWith('item')) {
+  // 'sticks' excluded: /gear/sticks 301s to /drumsticks at the edge (vercel.json),
+  // so no crawler-facing page may claim that URL.
+  if (gearCategoryMatch && !gearCategoryMatch[1].startsWith('item') && gearCategoryMatch[1] !== 'sticks') {
     const catSlug = gearCategoryMatch[1];
     const catMeta = GEAR_CATEGORY_META[catSlug];
     if (catMeta) {

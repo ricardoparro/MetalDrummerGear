@@ -138,7 +138,7 @@ const gearCategories = [
   { slug: 'snares', name: 'Metal Snare Drums' },
   { slug: 'drums', name: 'Metal Drum Kits' },
   { slug: 'pedals', name: 'Metal Bass Drum Pedals' },
-  { slug: 'sticks', name: 'Metal Drumsticks' },
+  // 'sticks' removed: /gear/sticks 301s to /drumsticks (already in this sitemap)
   { slug: 'hardware', name: 'Metal Drum Hardware' },
 ];
 

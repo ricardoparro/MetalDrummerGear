@@ -1229,6 +1229,15 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/kit-builder-preview.png`,
       type: 'website',
       url: `${BASE_URL}/kit-builder`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebApplication',
+        name: 'Virtual Drum Kit Builder',
+        applicationCategory: 'GameApplication',
+        url: `${BASE_URL}/kit-builder`,
+        operatingSystem: 'Any',
+        description: 'Build your dream metal drum kit piece by piece. Mix and match shells, cymbals, and hardware from legendary drummers.',
+      }),
     };
   }
 

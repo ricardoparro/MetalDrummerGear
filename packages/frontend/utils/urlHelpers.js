@@ -3,10 +3,11 @@ import { Platform } from 'react-native';
 
 // Convert name to URL-friendly slug
 export function toSlug(name) {
-  return name
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/(^-|-$)/g, '');
+  return name.toLowerCase()
+    .replace(/[åä]/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u')
+    .replace(/é|è|ê|ë/g, 'e').replace(/í|ì|î|ï/g, 'i').replace(/ó|ò|ô/g, 'o')
+    .replace(/ú|ù|û/g, 'u').replace(/ñ/g, 'n').replace(/ß/g, 'ss')
+    .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
 // Helper to get quiz match slug from URL (supports /quiz?match=slug)

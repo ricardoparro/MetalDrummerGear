@@ -18,7 +18,11 @@ import { extractBrand } from '../data/gearCategoryPages';
 // Slugify a drummer name into the /drummer/<slug> path segment.
 // Mirrors toSlug() in App.js so links resolve to canonical profile URLs.
 function toSlug(name) {
-  return (name || '').toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
+  return (name || '').toLowerCase()
+    .replace(/[åä]/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u')
+    .replace(/é|è|ê|ë/g, 'e').replace(/í|ì|î|ï/g, 'i').replace(/ó|ò|ô/g, 'o')
+    .replace(/ú|ù|û/g, 'u').replace(/ñ/g, 'n').replace(/ß/g, 'ss')
+    .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
 // Normalise a drummer's genre(s) into an array (records use either `genres[]`

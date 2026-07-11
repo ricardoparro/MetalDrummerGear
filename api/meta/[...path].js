@@ -118,6 +118,32 @@ import {
   generateBestForMetalItemListSchema as generateCymbalBestForMetalItemListSchema,
   generateBestForMetalBreadcrumbSchema as generateCymbalBestForMetalBreadcrumbSchema,
 } from '../../packages/frontend/data/cymbalBestForMetal.js';
+// Issue #4312: SSR meta + JSON-LD for the /snares* route family (epic #4308,
+// phases #4310-#4312) — the hub had zero bot-facing SSR meta despite being
+// fully built out and sitemap-listed since phase 2.
+import { SNARES, SIGNATURE_SNARES } from '../../packages/frontend/data/snares.js';
+import {
+  PILLAR_PAGE as SNARE_PILLAR_PAGE,
+  getReferencePage as getSnareReferencePage,
+  isValidReferenceSlug as isValidSnareReferenceSlug,
+  generateCanonicalUrl as generateSnareCanonicalUrl,
+  generateFaqSchema as generateSnareFaqSchema,
+  generateArticleSchema as generateSnareArticleSchema,
+} from '../../packages/frontend/data/snareReferencePages.js';
+import {
+  getSignatureSnarePageData,
+  generateSignatureSnareTitle,
+  generateSignatureSnareDescription,
+  generateSignatureSnareSchema,
+} from '../../packages/frontend/data/signatureSnarePages.js';
+import {
+  BEST_FOR_METAL_PAGE as SNARE_BEST_FOR_METAL_PAGE,
+  generateBestForMetalCanonicalUrl as generateSnareBestForMetalCanonicalUrl,
+  generateBestForMetalFaqSchema as generateSnareBestForMetalFaqSchema,
+  generateBestForMetalArticleSchema as generateSnareBestForMetalArticleSchema,
+  generateBestForMetalItemListSchema as generateSnareBestForMetalItemListSchema,
+  generateBestForMetalBreadcrumbSchema as generateSnareBestForMetalBreadcrumbSchema,
+} from '../../packages/frontend/data/snareBestForMetal.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -2701,10 +2727,11 @@ function getMetaForPath(pathname) {
   };
 
   const gearCategoryMatch = path.match(/^\/gear\/([a-z-]+)$/);
-  // 'sticks' and 'cymbals' excluded: /gear/sticks and /gear/cymbals 301 to
-  // /drumsticks and /cymbals respectively at the edge (vercel.json), so no
-  // crawler-facing page may claim either URL.
-  if (gearCategoryMatch && !gearCategoryMatch[1].startsWith('item') && gearCategoryMatch[1] !== 'sticks' && gearCategoryMatch[1] !== 'cymbals') {
+  // 'sticks', 'cymbals', and 'snares' excluded: /gear/sticks, /gear/cymbals,
+  // and /gear/snares 301 to /drumsticks, /cymbals, and /snares respectively
+  // at the edge (vercel.json), so no crawler-facing page may claim any of
+  // those URLs.
+  if (gearCategoryMatch && !gearCategoryMatch[1].startsWith('item') && gearCategoryMatch[1] !== 'sticks' && gearCategoryMatch[1] !== 'cymbals' && gearCategoryMatch[1] !== 'snares') {
     const catSlug = gearCategoryMatch[1];
     const catMeta = GEAR_CATEGORY_META[catSlug];
     if (catMeta) {
@@ -3659,6 +3686,116 @@ function getMetaForPath(pathname) {
           itemListElement: [
             { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
             { '@type': 'ListItem', position: 2, name: 'Cymbals', item: `${BASE_URL}/cymbals` },
+            { '@type': 'ListItem', position: 3, name: page.h1, item: url },
+          ],
+        },
+      ].filter(Boolean)),
+    };
+  }
+
+  // Issue #4312: /snares pillar hub — ItemList (one entry per verified
+  // drummer snare) + Article + FAQPage + BreadcrumbList.
+  if (path === '/snares') {
+    const url = generateSnareCanonicalUrl();
+    const itemListSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: 'Metal drummer snare drums',
+      numberOfItems: SNARES.length,
+      itemListElement: SNARES.map((snare, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        item: {
+          '@type': 'Product',
+          name: `${snare.brand ? `${snare.brand} ` : ''}${snare.model || snare.summary}`,
+          ...(snare.brand ? { brand: { '@type': 'Brand', name: snare.brand } } : {}),
+          category: 'Snare Drums',
+          url: `${BASE_URL}/drummer/${snare.drummerSlug}`,
+        },
+      })),
+    };
+    return {
+      title: SNARE_PILLAR_PAGE.title,
+      description: truncate(SNARE_PILLAR_PAGE.description, 160),
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url,
+      articleSchema: JSON.stringify([
+        generateSnareArticleSchema(SNARE_PILLAR_PAGE, url),
+        itemListSchema,
+        generateSnareFaqSchema(SNARE_PILLAR_PAGE.faq),
+        {
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+            { '@type': 'ListItem', position: 2, name: 'Snares', item: url },
+          ],
+        },
+      ].filter(Boolean)),
+    };
+  }
+
+  // Issue #4312: /snares/best-for-metal buying guide — Article + ItemList
+  // (verified signature snares) + FAQPage + BreadcrumbList.
+  if (path === '/snares/best-for-metal') {
+    const url = generateSnareBestForMetalCanonicalUrl();
+    return {
+      title: SNARE_BEST_FOR_METAL_PAGE.title,
+      description: truncate(SNARE_BEST_FOR_METAL_PAGE.description, 160),
+      image: DEFAULT_IMAGE,
+      type: 'article',
+      url,
+      articleSchema: JSON.stringify([
+        generateSnareBestForMetalArticleSchema(),
+        generateSnareBestForMetalItemListSchema(SIGNATURE_SNARES),
+        generateSnareBestForMetalFaqSchema(),
+        generateSnareBestForMetalBreadcrumbSchema(),
+      ].filter(Boolean)),
+    };
+  }
+
+  // Issue #4312: /snares/signature/<drummer> — Product (signature snare) +
+  // BreadcrumbList + FAQPage linking back to /snares and to /drummer/<slug>.
+  const signatureSnareMatch = path.match(/^\/snares\/signature\/([a-z0-9-]+)$/);
+  if (signatureSnareMatch) {
+    const slug = signatureSnareMatch[1];
+    const drummer = getDrummerBySlug(slug);
+    const data = drummer ? getSignatureSnarePageData(slug, drummer.name) : null;
+    if (data) {
+      return {
+        title: generateSignatureSnareTitle(data),
+        description: truncate(generateSignatureSnareDescription(data), 160),
+        image: DEFAULT_IMAGE,
+        type: 'article',
+        url: data.canonicalUrl,
+        articleSchema: JSON.stringify((generateSignatureSnareSchema(data) || []).filter(Boolean)),
+      };
+    }
+  }
+
+  // Issue #4312: /snares/{shells,sizes,tuning-for-metal} reference pages —
+  // Article + FAQPage + BreadcrumbList.
+  const snareReferenceMatch = path.match(/^\/snares\/([a-z-]+)$/);
+  if (snareReferenceMatch && isValidSnareReferenceSlug(snareReferenceMatch[1])) {
+    const slug = snareReferenceMatch[1];
+    const page = getSnareReferencePage(slug);
+    const url = generateSnareCanonicalUrl(slug);
+    return {
+      title: page.title,
+      description: truncate(page.description, 160),
+      image: DEFAULT_IMAGE,
+      type: 'article',
+      url,
+      articleSchema: JSON.stringify([
+        generateSnareArticleSchema(page, url),
+        generateSnareFaqSchema(page.faq),
+        {
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+            { '@type': 'ListItem', position: 2, name: 'Snares', item: `${BASE_URL}/snares` },
             { '@type': 'ListItem', position: 3, name: page.h1, item: url },
           ],
         },

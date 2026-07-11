@@ -62,6 +62,13 @@
 - [Cymbal Brands](https://metalforge.io/cymbals/brands): Positioning and metal-relevant series for Zildjian, Paiste, Sabian, and Meinl, plus confirmed drummer usage
 - [Best Cymbals for Metal](https://metalforge.io/cymbals/best-for-metal): Why metal favours brighter/cutting or heavier setups, with recommended series by budget tier
 
+## Snares
+
+- [Snares Guide](https://metalforge.io/snares): Shell materials, sizes, and tuning for metal explained, plus which mapped drummers play what
+- [Snares Index](/llms/snares.md): All 56 verified drummer snares, linked to their profiles
+- [Signature Snare Pages](https://metalforge.io/snares/signature/): Per-drummer "what snare does X use" pages for every drummer with a verified signature snare
+- [Best Snares for Metal](https://metalforge.io/snares/best-for-metal): Why metal favours high-tension metal shells (with wood-shell exceptions), with recommendations anchored on the verified signature snares
+
 ## Brands
 
 - [Tama Drums — Endorsers](/llms/brands/tama.md): 17 metal drummer endorsers, Starclassic Maple/Bubinga, Iron Cobra pedals

@@ -1,0 +1,116 @@
+#!/usr/bin/env node
+/**
+ * Generate public/llms/snares.md — hub/index page for every verified
+ * drummer snare in the SNARES module.
+ * Issue #4312 (epic #4308 phase 4/4): mirrors scripts/generate-llms-cymbals.cjs
+ * (#4307) for the snares data source — the /snares hub family had zero
+ * canonical /llms/ coverage despite being fully built out and sitemap-listed.
+ *
+ * Reads SNARES from packages/frontend/data/snares.js (same regex+eval
+ * extraction pattern as sibling generate-llms-*.cjs scripts, so no ESM
+ * import is needed) and drummer names from api/drummers/index.js
+ * (drummerSlug values in snares.js are toSlug(drummer.name), matching
+ * packages/frontend/utils/urlHelpers.js#toSlug).
+ *
+ * Count and date are derived from the live data at generation time — never
+ * hardcoded — so this hub can't drift stale as more snares are added.
+ */
+
+'use strict';
+const fs = require('fs');
+const path = require('path');
+
+const BASE = 'https://metalforge.io';
+const today = new Date().toISOString().split('T')[0];
+
+// --- Load SNARES from ESM source ---
+const dataPath = path.join(__dirname, '../packages/frontend/data/snares.js');
+const dataContent = fs.readFileSync(dataPath, 'utf-8');
+
+const arrayMatch = dataContent.match(/export const SNARES = (\[[\s\S]*?\n\]);/);
+if (!arrayMatch) {
+  console.error('Could not extract SNARES from snares.js');
+  process.exit(1);
+}
+
+let SNARES;
+try {
+  // eslint-disable-next-line no-eval
+  SNARES = eval(arrayMatch[1]);
+} catch (e) {
+  console.error('Error parsing SNARES:', e);
+  process.exit(1);
+}
+
+// --- Load drummer names from the same source api/drummers/index.js already
+// uses (see scripts/generate-llms-cymbals.cjs), so slug -> name never
+// drifts out of sync with the canonical drummer roster.
+const drummersPath = path.join(__dirname, '../api/drummers/index.js');
+const drummersContent = fs.readFileSync(drummersPath, 'utf-8');
+const drummersMatch = drummersContent.match(/const drummers = (\[[\s\S]*?\]);[\s\S]*?export default function handler/);
+if (!drummersMatch) {
+  console.error('Could not extract drummers array from api/drummers/index.js');
+  process.exit(1);
+}
+
+let drummers;
+try {
+  // eslint-disable-next-line no-eval
+  drummers = eval(drummersMatch[1]);
+} catch (e) {
+  console.error('Error parsing drummers:', e);
+  process.exit(1);
+}
+
+function toSlug(name) {
+  return name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+}
+
+const NAME_BY_SLUG = {};
+for (const d of drummers) {
+  NAME_BY_SLUG[toSlug(d.name)] = d.name;
+}
+
+function drummerNameFor(snare) {
+  if (!snare.drummerSlug) return null;
+  return NAME_BY_SLUG[snare.drummerSlug] || snare.drummerSlug;
+}
+
+// --- Build hub markdown ---
+const count = SNARES.length;
+const lines = [];
+lines.push('# Metal Drummer Snares — Complete List');
+lines.push('');
+lines.push(`This page indexes every verified snare catalogued in MetalForge's snares database — ${count} entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.`);
+lines.push('');
+lines.push(`> Last Updated: ${today} · Source: ${BASE}`);
+lines.push('');
+lines.push(`For shell material, size, and tuning reference pages see [${BASE}/snares](${BASE}/snares). For a buying guide anchored on the verified signature snares see [${BASE}/snares/best-for-metal](${BASE}/snares/best-for-metal).`);
+lines.push('');
+lines.push(`## All ${count} Snare Records`);
+lines.push('');
+for (const snare of SNARES) {
+  const name = drummerNameFor(snare);
+  const link = snare.drummerSlug ? `${BASE}/drummer/${snare.drummerSlug}` : null;
+  const who = name ? `${name} — ` : '';
+  if (link) {
+    lines.push(`- ${who}[${snare.summary}](${link})`);
+  } else {
+    lines.push(`- ${who}${snare.summary}`);
+  }
+}
+lines.push('');
+lines.push('---');
+lines.push('');
+lines.push('**More LLM resources:** ');
+lines.push(`[Endorsements Hub](${BASE}/llms/endorsements.md) · [Gear by Brand](${BASE}/llms/gear-by-brand.md) · [Master FAQ](${BASE}/llms/faq.md) · [Site index](${BASE}/llms.txt)`);
+lines.push('');
+
+const md = lines.join('\n');
+
+const outDir = path.join(__dirname, '../public/llms');
+fs.mkdirSync(outDir, { recursive: true });
+const outPath = path.join(outDir, 'snares.md');
+fs.writeFileSync(outPath, md);
+
+console.log(`✅ Generated public/llms/snares.md — ${count} snare records linked`);

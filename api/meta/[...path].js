@@ -154,6 +154,13 @@ const TWITTER_HANDLE = '@MetalDrumGear';
 const DEFAULT_IMAGE = `${BASE_URL}/og-image.png`;
 const DEFAULT_DESCRIPTION = 'Explore the drum kits, cymbals, and gear used by legendary metal drummers. Discover what Lars Ulrich, Joey Jordison, Dave Lombardo and 60+ pro drummers play.';
 
+// Issue #4373: fallback dates for TOP_10_LISTS entries that predate the
+// per-entry datePublished/dateModified fields (only the 12 isArticle:true
+// entries have them). Sourced from top10Lists.js's own git history so the
+// Article schema never emits an empty datePublished/dateModified.
+const TOP10_LISTS_LAUNCH_DATE = '2026-02-05';
+const TOP10_LISTS_LAST_REVIEWED = '2026-07-10';
+
 // Issue #1396: slug → display-name map built from the drummers roster.
 // Bands store drummer references as slugs in drummerHistory; this lets us
 // hydrate MusicGroup member data without a separate lookup array.
@@ -1648,15 +1655,36 @@ function getMetaForPath(pathname) {
       const rankedDrummers = (top10Article.drummerIds || [])
         .map(id => drummers.find(d => d.id === id))
         .filter(Boolean);
+      const top10ArticleDatePublished = top10Article.datePublished || TOP10_LISTS_LAUNCH_DATE;
+      const top10ArticleDateModified = top10Article.dateModified || top10ArticleDatePublished;
       return {
         title: `${top10Article.title} | ${SITE_NAME}`,
         description: top10Article.seoDescription || top10Article.description,
         image: top10Article.ogImage || DEFAULT_IMAGE,
         type: 'article',
         url: `${BASE_URL}/articles/${articleSlug}`,
+        // Issue #4373: OG article: tags — generateMetaHtml only reads these off
+        // meta.articleSchema when it's the object shape; this branch pre-serializes
+        // articleSchema as a string (@graph), so surface the dates separately.
+        ogArticleDates: {
+          datePublished: top10ArticleDatePublished,
+          dateModified: top10ArticleDateModified,
+          articleSection: 'Drummer Gear',
+        },
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@graph': [
+            {
+              '@type': 'Article',
+              headline: top10Article.title,
+              description: top10Article.seoDescription || top10Article.description,
+              image: top10Article.ogImage || DEFAULT_IMAGE,
+              datePublished: top10ArticleDatePublished,
+              dateModified: top10ArticleDateModified,
+              author: { '@type': 'Organization', name: top10Article.author || 'MetalForge', url: BASE_URL },
+              publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+              mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE_URL}/articles/${articleSlug}` },
+            },
             {
               '@type': 'ItemList',
               name: top10Article.title,
@@ -2557,15 +2585,36 @@ function getMetaForPath(pathname) {
     const [, listSlug] = listMatch;
     const list = TOP_10_LISTS[listSlug];
     if (list) {
+      const listDatePublished = list.datePublished || TOP10_LISTS_LAUNCH_DATE;
+      const listDateModified = list.dateModified || list.datePublished || TOP10_LISTS_LAST_REVIEWED;
       return {
         title: `${list.title} | ${SITE_NAME}`,
         description: list.seoDescription || list.description,
         image: DEFAULT_IMAGE,
         type: 'article',
         url: `${BASE_URL}/lists/${listSlug}`,
+        // Issue #4373: OG article: tags — generateMetaHtml only reads these off
+        // meta.articleSchema when it's the object shape; this branch pre-serializes
+        // articleSchema as a string (@graph), so surface the dates separately.
+        ogArticleDates: {
+          datePublished: listDatePublished,
+          dateModified: listDateModified,
+          articleSection: 'Drummer Gear',
+        },
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@graph': [
+            {
+              '@type': 'Article',
+              headline: list.title,
+              description: list.seoDescription || list.description,
+              image: list.ogImage || DEFAULT_IMAGE,
+              datePublished: listDatePublished,
+              dateModified: listDateModified,
+              author: { '@type': 'Organization', name: list.author || 'MetalForge', url: BASE_URL },
+              publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+              mainEntityOfPage: { '@type': 'WebPage', '@id': `${BASE_URL}/lists/${listSlug}` },
+            },
             {
               '@type': 'ItemList',
               name: list.title,
@@ -4095,14 +4144,20 @@ function generateMetaHtml(meta, originalUrl) {
   <meta property="og:image:width" content="1200">
   <meta property="og:image:height" content="630">
   <meta property="og:image:alt" content="${meta.title}">
-  ${meta.type === 'article' ? `
+  ${meta.type === 'article' ? (() => {
+    // Issue #4373: branches that pre-serialize articleSchema as a JSON-LD
+    // string (e.g. /articles/:slug isArticle, /lists/:slug) can't expose
+    // dates via meta.articleSchema.*, so they set meta.ogArticleDates instead.
+    const ogDates = (typeof meta.articleSchema === 'object' && meta.articleSchema) || meta.ogArticleDates || {};
+    return `
   <!-- Article-specific Open Graph -->
   <meta property="article:author" content="MetalForge">
   <meta property="article:publisher" content="${BASE_URL}">
-  ${meta.articleSchema?.datePublished ? `<meta property="article:published_time" content="${meta.articleSchema.datePublished}">` : ''}
-  ${meta.articleSchema?.dateModified ? `<meta property="article:modified_time" content="${meta.articleSchema.dateModified}">` : ''}
-  ${meta.articleSchema?.articleSection ? `<meta property="article:section" content="${meta.articleSchema.articleSection}">` : ''}
-  ` : ''}
+  ${ogDates.datePublished ? `<meta property="article:published_time" content="${ogDates.datePublished}">` : ''}
+  ${ogDates.dateModified ? `<meta property="article:modified_time" content="${ogDates.dateModified}">` : ''}
+  ${ogDates.articleSection ? `<meta property="article:section" content="${ogDates.articleSection}">` : ''}
+  `;
+  })() : ''}
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
   <meta name="twitter:site" content="${TWITTER_HANDLE}">

@@ -5,6 +5,30 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-11 00:22 UTC*
 
 ---
+## 2026-07-11 09:10 — Pulse: 4 fresh sitemap-drift proposals promoted, backlog 2→6
+
+### Context (≤3 lines)
+Metrics dated 01:32 UTC (177 users/212 sessions/356 views 7d; GSC 4,188 impr/127 clicks/3.03% CTR/pos 8.6 — no content-gap rows). Backlog was 2 eligible `ai-fix`, 1 open PR (#4277, mergeable). 4 fresh untriaged `seo-proposal` landed at 00:29-00:30 UTC (#4273-4276), all same bug class: hand-maintained drummer-slug arrays in `api/sitemap.js` drifting from the 67-drummer roster.
+
+### Actions taken
+- Independently re-verified all 4 against source before promoting (not just trusting the issue body): **#4273** — grepped `llmsDrummerSlugs` (api/sitemap.js:350-367), confirmed 61 entries vs 67 files on disk in `public/llms/drummers/`, missing exactly the 6 claimed (martin-axenrot, paul-bostaph, sean-reinert, nick-menza, adrian-erlandsson, jon-dette). **#4274** — confirmed `ENDORSEMENT_TIMELINE` has 67 keys vs `endorsementDrummers` array (api/sitemap.js:289-303) with only 38, root-cause fix (derive via `Object.keys`) is sound. **#4275** — confirmed lick sitemap array (api/sitemap.js:~717-734) has 63 vs 67, missing exactly the 4 claimed; confirmed on disk that adrian-erlandsson.md/martin-axenrot.md/sean-reinert.md exist but nick-menza.md is genuinely absent (only nick-menza-licks.md exists, a different file). **#4276** — meta CI-check issue following the same pattern as #4205/#4267, no overlap in scope (this one targets sitemap.js slug-array drift specifically). All 4 promoted to `ai-fix`.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per metrics.md. Atomic-split sweep: all 6 open `ai-fix` issues (#4205, #4267, #4273-4276) are ≤1 day old — no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06, next due 2026-07-13 — standing deferral holds. PR #4277 (drumsticks) is mergeable, no blocker.
+
+### State delta
+- ai-fix backlog: 2 → 6 eligible (#4273, #4274, #4275, #4276 promoted)
+- seo-proposal bank: 4 fresh untriaged → 0 (remaining open seo-proposal issues are umbrella trackers #3810/#3819/#2211 only)
+- Org/Sessions/Views (7d): 177/212/356 · GSC: 4,188 impr / 127 clicks / 3.03% CTR / pos 8.6
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 6 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
+2. Once #4273/#4274/#4275 ship, spot-check sitemap.xml counts (llms/drummers 67, endorsements 67×2, llms/licks 67) and confirm #4275's nick-menza.md gets generated (not just the sitemap entry added).
+3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+---
 ## 2026-07-11 07:05 (state-confirm — anti-noise hold)
 - Backlog: 2 ai-fix (#4205, #4267) · 0 PRs open · proposals untriaged: 0 (bank empty except umbrella trackers #3810/#3819/#2211)
 - Org / Sessions / Views (7d): 177/212/356 · GSC: 4,188 impr / 127 clicks / 3.03% CTR / pos 8.6 — no content-gap rows

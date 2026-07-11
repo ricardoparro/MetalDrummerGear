@@ -3245,6 +3245,19 @@ function getMetaForPath(pathname) {
       const brandName = toName(brandSlug);
       const seriesName = toName(seriesSlug);
       const kitDrummers = DRUMMERS_BY_KIT[kitKey];
+      if (kitDrummers.length === 0) {
+        // Issue #4361: no verified drummer data exists for this kit yet — avoid
+        // serving a purchase-intent title backed by an empty (numberOfItems: 0)
+        // ItemList. noindex until DRUMMERS_BY_KIT[kitKey] gets real entries.
+        return {
+          title: `${brandName} ${seriesName} | ${SITE_NAME}`,
+          description: `${brandName} ${seriesName} drum kit details on ${SITE_NAME}.`,
+          image: DEFAULT_IMAGE,
+          type: 'website',
+          url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+          noindex: true,
+        };
+      }
       const firstDrummer = kitDrummers[0]?.name || 'professional metal drummers';
       const firstBand = kitDrummers[0]?.band;
       const descDrummer = firstBand ? `${firstDrummer} (${firstBand})` : firstDrummer;
@@ -4001,6 +4014,7 @@ function generateMetaHtml(meta, originalUrl) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  ${meta.noindex ? '<meta name="robots" content="noindex, nofollow">' : ''}
 
   <!-- Google AdSense (publisher ca-pub-5315819228790971). Emitted in the
        crawler-facing SSR head too, so AdSense's verification/crawler sees the

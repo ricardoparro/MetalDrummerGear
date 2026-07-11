@@ -611,7 +611,10 @@ export function buildSitemapXml() {
     // Issue #871/#997: gear/series "drummers-using" SEO pages (≥2 drummers each)
     ...getGearSeriesUrls().map(loc => ({ loc, priority: '0.8', changefreq: 'monthly' })),
     // Issue #2403: kit-level "drummers-using" pages (12 purchase-intent scaffold slugs).
-    ...Object.keys(DRUMMERS_BY_KIT).map(key => ({ loc: `/gear/${key}/drummers-using`, priority: '0.85', changefreq: 'monthly' })),
+    // Issue #4361: exclude kits with no verified drummer data yet (empty array) —
+    // sitemapping them serves a thin/empty ItemList page. Re-enters the sitemap
+    // automatically once DRUMMERS_BY_KIT[key] gets real entries.
+    ...Object.keys(DRUMMERS_BY_KIT).filter(key => DRUMMERS_BY_KIT[key].length > 0).map(key => ({ loc: `/gear/${key}/drummers-using`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #4137: /drumsticks pillar page + sizes/materials/tips reference pages.
     { loc: '/drumsticks', priority: '0.9', changefreq: 'weekly' },
     ...REFERENCE_PAGE_ORDER.map(slug => ({ loc: `/drumsticks/${slug}`, priority: '0.85', changefreq: 'monthly' })),

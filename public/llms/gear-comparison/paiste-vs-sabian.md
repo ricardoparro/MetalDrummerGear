@@ -1,7 +1,7 @@
 # Paiste vs Sabian Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Paiste and Sabian cymbals used by pro metal drummers.
-> Last updated: 2026-06-19
+> Last updated: 2026-07-11
 
 Compare Paiste RUDE and Sabian HHX cymbals for metal. Swiss precision vs Canadian craftsmanship. See which cymbals cut through heavy guitars.
 

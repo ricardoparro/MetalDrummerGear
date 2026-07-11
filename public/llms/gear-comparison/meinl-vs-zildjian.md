@@ -1,7 +1,7 @@
 # Meinl vs Zildjian Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Meinl and Zildjian cymbals used by pro metal drummers.
-> Last updated: 2026-06-19
+> Last updated: 2026-07-11
 
 Meinl Byzance vs Zildjian A Custom for metal drumming. Compare dark vs bright tones, pricing, and which cymbals pro metal drummers prefer.
 

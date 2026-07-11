@@ -101,6 +101,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Gavin Harrison plays a signature snare: the Sonor Gavin Harrison Signature (12x5"). Full specs: [Gavin Harrison's signature snare](https://metalforge.io/snares/signature/gavin-harrison).
 
+## Cymbal Setup
+
+Gavin Harrison's cymbals: Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Custom Special Dry | Hi-Hats |
+| crash | 16" | K Custom Special Dry | Crash |
+| crash | 18" | K Custom Special Dry | Crash |
+| ride | 21" | K Custom Special Dry | Special Dry Ride |
+| china | 18" | K Custom Special Dry | Trash China |
+
+Full breakdown: [Gavin Harrison's cymbal setup](https://metalforge.io/cymbals/setups/gavin-harrison).
+
 ---
 
 **Full interactive profile:** [Gavin Harrison on MetalForge](https://metalforge.io/drummer/gavin-harrison)

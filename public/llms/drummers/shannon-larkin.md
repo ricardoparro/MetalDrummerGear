@@ -94,6 +94,21 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Shannon Larkin's snare: ddrum Dios 14x6.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Shannon Larkin's cymbals: Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | AAX | Stage Hi-Hats |
+| crash | 18" | AAX | X-Plosion Crash |
+| crash | 19" | AAX | X-Plosion Crash |
+| ride | 21" | HHX | Raw Bell Dry Ride |
+| splash | 10" | AAX | Splash |
+| china | 18" | AAX | Chinese |
+
+Full breakdown: [Shannon Larkin's cymbal setup](https://metalforge.io/cymbals/setups/shannon-larkin).
+
 ---
 
 **Full interactive profile:** [Shannon Larkin on MetalForge](https://metalforge.io/drummer/shannon-larkin)

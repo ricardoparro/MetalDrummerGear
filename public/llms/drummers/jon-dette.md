@@ -82,6 +82,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Jon Dette's snare: 14x6.5" Metal or Maple Snare. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Jon Dette's cymbals: Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | — | Hi-Hats |
+| crash | 16" | — | Crash |
+| crash | 18" | — | Crash |
+| ride | 20" | — | Ride |
+| china | 18" | — | China |
+
+Full breakdown: [Jon Dette's cymbal setup](https://metalforge.io/cymbals/setups/jon-dette).
+
 ---
 
 **Full interactive profile:** [Jon Dette on MetalForge](https://metalforge.io/drummer/jon-dette)

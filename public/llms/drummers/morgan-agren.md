@@ -85,6 +85,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Morgan Ågren's snare: Sonor Designer 14x5.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Morgan Ågren's cymbals: Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | Signature | Heavy Hi-Hats |
+| crash | 18" | Signature | Fast Crash |
+| crash | 20" | Signature | Fast Crash |
+| ride | 22" | Signature | Dry Heavy Ride |
+| china | 18" | 2002 | China |
+
+Full breakdown: [Morgan Ågren's cymbal setup](https://metalforge.io/cymbals/setups/morgan-agren).
+
 ---
 
 **Full interactive profile:** [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-agren)

@@ -97,6 +97,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Abe Cunningham's snare: SJC Custom 14x6.5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Abe Cunningham's cymbals: Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Custom | Hi-Hats |
+| crash | 18" | K Custom | Crash |
+| crash | 20" | K Custom | Crash |
+| ride | 22" | K Custom | Ride |
+| china | 19" | A Custom | China |
+
+Full breakdown: [Abe Cunningham's cymbal setup](https://metalforge.io/cymbals/setups/abe-cunningham).
+
 ---
 
 **Full interactive profile:** [Abe Cunningham on MetalForge](https://metalforge.io/drummer/abe-cunningham)

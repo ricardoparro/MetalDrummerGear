@@ -97,6 +97,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Flo Mounier's snare: Pearl Masters 14x5.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Flo Mounier's cymbals: Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | HHX | Stage Hi-Hats |
+| crash | 17" | AAX | X-Plosion Crash |
+| crash | 18" | AAX | X-Plosion Crash |
+| ride | 21" | HHX | Raw Bell Dry Ride |
+| china | 18" | AAX & HHX | AAXtreme China |
+
+Full breakdown: [Flo Mounier's cymbal setup](https://metalforge.io/cymbals/setups/flo-mounier).
+
 ---
 
 **Full interactive profile:** [Flo Mounier on MetalForge](https://metalforge.io/drummer/flo-mounier)

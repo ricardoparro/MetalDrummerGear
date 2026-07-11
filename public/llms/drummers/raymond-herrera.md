@@ -84,6 +84,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Raymond Herrera's snare: Tama 14x6.5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Raymond Herrera's cymbals: Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 18" | A Custom | Crash |
+| crash | 19" | A Custom | Crash |
+| ride | 21" | Z Custom | Mega Bell Ride |
+| china | 18" | A Custom | China |
+
+Full breakdown: [Raymond Herrera's cymbal setup](https://metalforge.io/cymbals/setups/raymond-herrera).
+
 ---
 
 **Full interactive profile:** [Raymond Herrera on MetalForge](https://metalforge.io/drummer/raymond-herrera)

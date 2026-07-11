@@ -89,6 +89,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Chris Adler plays a signature snare: the Mapex Chris Adler Signature Walnut/Maple (14x5.5", Maple/Walnut shell). Full specs: [Chris Adler's signature snare](https://metalforge.io/snares/signature/chris-adler).
 
+## Cymbal Setup
+
+Chris Adler's cymbals: Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | Byzance | Dark Hi-Hats |
+| crash | 18" | Byzance | Dark Crash |
+| crash | 19" | Byzance | Dark Crash |
+| ride | 21" | Byzance | Transition Ride |
+| china | 18" | Byzance | Extra Dry China |
+
+Full breakdown: [Chris Adler's cymbal setup](https://metalforge.io/cymbals/setups/chris-adler).
+
 ---
 
 **Full interactive profile:** [Chris Adler on MetalForge](https://metalforge.io/drummer/chris-adler)

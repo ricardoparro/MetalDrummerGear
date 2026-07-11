@@ -89,6 +89,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Igor Cavalera's snare: Tama S.L.P. 14x6.5" G-Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Igor Cavalera's cymbals: Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE | Hi-Hats |
+| crash | 18" | RUDE | Crash |
+| crash | 19" | RUDE | Crash |
+| ride | 22" | RUDE | Power Ride |
+| china | 18" | 2002 | China |
+
+Full breakdown: [Igor Cavalera's cymbal setup](https://metalforge.io/cymbals/setups/igor-cavalera).
+
 ---
 
 **Full interactive profile:** [Igor Cavalera on MetalForge](https://metalforge.io/drummer/igor-cavalera)

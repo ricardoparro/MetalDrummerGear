@@ -142,6 +142,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Bill Ward's snare: Ludwig Supraphonic 14x6.5" LM402. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Bill Ward's cymbals: Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 15" | Giant Beat | Hi-Hats |
+| crash | 18" | 2002 | Crash |
+| crash | 20" | 2002 | Crash |
+| ride | 24" | 2002 | Ride |
+| china | 18" | 2002 | China |
+
+Full breakdown: [Bill Ward's cymbal setup](https://metalforge.io/cymbals/setups/bill-ward).
+
 ---
 
 **Full interactive profile:** [Bill Ward on MetalForge](https://metalforge.io/drummer/bill-ward)

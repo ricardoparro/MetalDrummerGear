@@ -99,6 +99,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Scott Travis plays a signature snare: the ddrum Scott Travis Signature (14x6.5"). Full specs: [Scott Travis's signature snare](https://metalforge.io/snares/signature/scott-travis).
 
+## Cymbal Setup
+
+Scott Travis's cymbals: Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE | Hi-Hats |
+| crash | 18" | RUDE | Crash |
+| crash | 19" | RUDE | Crash |
+| ride | 22" | RUDE | Power Ride |
+| china | 18" | RUDE | China |
+
+Full breakdown: [Scott Travis's cymbal setup](https://metalforge.io/cymbals/setups/scott-travis).
+
 ---
 
 **Full interactive profile:** [Scott Travis on MetalForge](https://metalforge.io/drummer/scott-travis)

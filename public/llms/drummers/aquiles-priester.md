@@ -101,6 +101,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Aquiles Priester's snare: Pearl Reference 14x6.5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Aquiles Priester's cymbals: Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | HHX | Evolution Hi-Hats |
+| crash | 18" | HHX | X-Plosion Crash |
+| crash | 19" | HHX | X-Plosion Crash |
+| ride | 21" | HHX | Groove Ride |
+| china | 18" | AAX | Chinese |
+
+Full breakdown: [Aquiles Priester's cymbal setup](https://metalforge.io/cymbals/setups/aquiles-priester).
+
 ---
 
 **Full interactive profile:** [Aquiles Priester on MetalForge](https://metalforge.io/drummer/aquiles-priester)

@@ -88,6 +88,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Travis Orbin's snare: SJC Custom 14x6.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Travis Orbin's cymbals: Zildjian K Custom Series (14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride, 18" K Custom China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Custom Dark | Hi-Hats |
+| crash | 18" | K Custom Dark | Crash |
+| crash | 19" | K Custom Dark | Crash |
+| ride | 21" | K Custom | Ride |
+| china | 18" | K Custom | China |
+
+Full breakdown: [Travis Orbin's cymbal setup](https://metalforge.io/cymbals/setups/travis-orbin).
+
 ---
 
 **Full interactive profile:** [Travis Orbin on MetalForge](https://metalforge.io/drummer/travis-orbin)

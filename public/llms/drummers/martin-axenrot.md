@@ -96,6 +96,21 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Martin Axenrot's snare: Sonor SQ2 14x5.75" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Martin Axenrot's cymbals: Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16" & 18" & 19" Crashes, 22" Traditional Ride, 18" China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | Byzance | Traditional Medium Hi-Hats |
+| crash | 16" | Byzance | Crash |
+| crash | 18" | Byzance | Crash |
+| crash | 19" | Byzance | Crash |
+| ride | 22" | Byzance | Traditional Ride |
+| china | 18" | Byzance | China |
+
+Full breakdown: [Martin Axenrot's cymbal setup](https://metalforge.io/cymbals/setups/martin-axenrot).
+
 ---
 
 **Full interactive profile:** [Martin Axenrot on MetalForge](https://metalforge.io/drummer/martin-axenrot)

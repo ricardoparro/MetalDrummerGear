@@ -109,6 +109,23 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Mario Duplantier's snare: Tama S.L.P. 14x6.5" G-Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Mario Duplantier's cymbals: Zildjian (14" K Sweet Hi-Hats, 14" A Custom Hi-Hats, 18" K Custom Hybrid Crash, 19" A Custom Crash, 20" K Sweet Crash, 21" Z Custom Mega Bell Ride, 18" & 20" Chinas).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Sweet | Hi-Hats |
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 18" | K Custom Hybrid | Crash |
+| crash | 19" | A Custom | Crash |
+| crash | 20" | K Sweet | Crash |
+| ride | 21" | Z Custom | Mega Bell Ride |
+| china | 18" | — | China |
+| china | 20" | — | China |
+
+Full breakdown: [Mario Duplantier's cymbal setup](https://metalforge.io/cymbals/setups/mario-duplantier).
+
 ---
 
 **Full interactive profile:** [Mario Duplantier on MetalForge](https://metalforge.io/drummer/mario-duplantier)

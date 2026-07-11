@@ -90,6 +90,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Mike Mangini's snare: Pearl Reference 14x5" & 14x6.5" Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Mike Mangini's cymbals: Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | HHX | Evolution Hi-Hats |
+| crash | 17" | HHX | Evolution Crash |
+| crash | 18" | HHX | Evolution Crash |
+| crash | 19" | HHX | Evolution Crash |
+| ride | 21" | HHX | Raw Bell Dry Ride |
+
+Full breakdown: [Mike Mangini's cymbal setup](https://metalforge.io/cymbals/setups/mike-mangini).
+
 ---
 
 **Full interactive profile:** [Mike Mangini on MetalForge](https://metalforge.io/drummer/mike-mangini)

@@ -87,6 +87,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 John Otto's snare: OCDP 14x6.5" 40-ply Vented, OCDP 10x6" 20-ply. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+John Otto's cymbals: Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 13" | A Custom Mastersound | Hi-Hats |
+| crash | 16" | A Custom | Projection Crash |
+| crash | 17" | A Custom | Projection Crash |
+| other | 20" | A Custom | EFX |
+| crash | 20" | — | FX Oriental Crash of Doom |
+
+Full breakdown: [John Otto's cymbal setup](https://metalforge.io/cymbals/setups/john-otto).
+
 ---
 
 **Full interactive profile:** [John Otto on MetalForge](https://metalforge.io/drummer/john-otto)

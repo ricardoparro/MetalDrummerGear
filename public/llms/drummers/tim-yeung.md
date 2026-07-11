@@ -90,6 +90,19 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Tim Yeung's snare: Tama S.L.P. Big Black Steel 14x6.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Tim Yeung's cymbals: Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | AAX | Stage Hi-Hats |
+| crash | 18" | AAX | X-Plosion Crash |
+| crash | 19" | AAX | X-Plosion Crash |
+| ride | 21" | HHX | Raw Bell Dry Ride |
+
+Full breakdown: [Tim Yeung's cymbal setup](https://metalforge.io/cymbals/setups/tim-yeung).
+
 ---
 
 **Full interactive profile:** [Tim Yeung on MetalForge](https://metalforge.io/drummer/tim-yeung)

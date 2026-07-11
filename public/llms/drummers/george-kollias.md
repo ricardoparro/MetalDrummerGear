@@ -97,6 +97,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 George Kollias plays a signature snare: the Pearl George Kollias Signature (14x6.5"). Full specs: [George Kollias's signature snare](https://metalforge.io/snares/signature/george-kollias).
 
+## Cymbal Setup
+
+George Kollias's cymbals: Zildjian (14" K Mastersound Hi-Hats, 17" & 18" K Custom Dark Crashes, 21" A Custom Mega Bell Ride, 18" China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | K Mastersound | Hi-Hats |
+| crash | 17" | K Custom Dark | Crash |
+| crash | 18" | K Custom Dark | Crash |
+| ride | 21" | A Custom | Mega Bell Ride |
+| china | 18" | — | China |
+
+Full breakdown: [George Kollias's cymbal setup](https://metalforge.io/cymbals/setups/george-kollias).
+
 ---
 
 **Full interactive profile:** [George Kollias on MetalForge](https://metalforge.io/drummer/george-kollias)

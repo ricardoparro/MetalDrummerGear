@@ -172,8 +172,9 @@ import { getBrandForStick } from './data/drumstickBrands';
 // module, safe to import eagerly.
 import { DRUMMER_SNARE, getSnareForDrummer } from './data/snares';
 // Cymbal setups data module (Issue #4303 phase 1) — verified drummer→cymbal
-// mapping used by the drummer-page "Cymbals" block.
-import { getSetupForDrummer } from './data/cymbalSetups';
+// mapping used by the drummer-page "Cymbals" block and the
+// /cymbals/setups/<drummer> pages (Issue #4306, phase 3/4).
+import { DRUMMER_CYMBALS, getSetupForDrummer } from './data/cymbalSetups';
 // Cymbal brand pages (Issue #4307, epic #4303 phase 4/4) — used to link the
 // drummer-page "Cymbals" block to the matching /cymbals/brands/<brand> page.
 import { getBrandForCymbalSetup } from './data/cymbalBrands';
@@ -878,6 +879,24 @@ function isSignatureSnarePage() {
 function getSignatureSnareSlugFromURL() {
   if (typeof window === 'undefined') return null;
   const match = window.location.pathname.match(SIGNATURE_SNARE_RE);
+  return match ? match[1].toLowerCase() : null;
+}
+
+// Cymbal Setup Pages (Issue #4306, phase 3/4 of epic #4303) - /cymbals/setups/<drummer>
+// Targets "what cymbals does <drummer> use". Only rendered for drummers with a
+// confirmed setup in data/cymbalSetups.js (DRUMMER_CYMBALS) — an unmapped slug
+// falls through to the normal 404 instead of a thin/empty page.
+const LazyCymbalSetupPage = lazy(() => import('./components/CymbalSetupPage').then(m => ({ default: m.CymbalSetupPage })));
+const CYMBAL_SETUP_RE = /^\/cymbals\/setups\/([a-z0-9-]+)\/?$/i;
+function isCymbalSetupPage() {
+  if (typeof window === 'undefined') return false;
+  const match = window.location.pathname.match(CYMBAL_SETUP_RE);
+  if (!match) return false;
+  return Object.prototype.hasOwnProperty.call(DRUMMER_CYMBALS, match[1].toLowerCase());
+}
+function getCymbalSetupSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(CYMBAL_SETUP_RE);
   return match ? match[1].toLowerCase() : null;
 }
 
@@ -7476,30 +7495,48 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
         );
       })()}
 
-      {/* Cymbal brand link block (Issue #4307, epic #4303 phase 4/4) — only
-          renders when this drummer has a verified cymbal setup in
-          data/cymbalSetups.js, so unmapped drummers get no empty block. Links
-          to the matching /cymbals/brands/<brand> page — same pattern as the
-          Sticks block above. */}
+      {/* Cymbal setup + brand link block (Issue #4307/#4306, epic #4303 phases
+          3-4/4) — only renders when this drummer has a verified cymbal setup
+          in data/cymbalSetups.js, so unmapped drummers get no empty block.
+          Links to the /cymbals/setups/<drummer> page for the full per-piece
+          breakdown and to the matching /cymbals/brands/<brand> page — same
+          two-link pattern as the Sticks block above. */}
       {(() => {
         const cymbalSetup = getSetupForDrummer(drummerSlug);
         if (!cymbalSetup) return null;
         const mappedCymbalBrand = getBrandForCymbalSetup(cymbalSetup);
-        if (!mappedCymbalBrand) return null;
         return (
           <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.bioText, { color: theme.text }]}>
+              <Text style={{ fontWeight: '700' }}>Cymbals: </Text>
+              {cymbalSetup.summary}
+            </Text>
             <TouchableOpacity
               onPress={() => {
                 if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                  window.history.pushState({}, '', `/cymbals/brands/${mappedCymbalBrand.slug}`);
+                  window.history.pushState({}, '', `/cymbals/setups/${drummerSlug}`);
                   window.dispatchEvent(new PopStateEvent('popstate'));
                 }
               }}
               accessibilityRole="link"
-              accessibilityLabel={`More about ${mappedCymbalBrand.name} cymbals`}
+              accessibilityLabel={`${drummer.name}'s full cymbal breakdown`}
             >
-              <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>More {mappedCymbalBrand.name} cymbals →</Text>
+              <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>See full cymbal breakdown →</Text>
             </TouchableOpacity>
+            {mappedCymbalBrand && (
+              <TouchableOpacity
+                onPress={() => {
+                  if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                    window.history.pushState({}, '', `/cymbals/brands/${mappedCymbalBrand.slug}`);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                }}
+                accessibilityRole="link"
+                accessibilityLabel={`More about ${mappedCymbalBrand.name} cymbals`}
+              >
+                <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>More {mappedCymbalBrand.name} cymbals →</Text>
+              </TouchableOpacity>
+            )}
           </View>
         );
       })()}
@@ -28642,6 +28679,47 @@ setShowList(false);
             onNavigateToReference={(slug) => {
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/snares/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+
+    // Cymbal Setup Page (Issue #4306, phase 3/4 of epic #4303) - /cymbals/setups/<drummer>
+    if (isCymbalSetupPage()) {
+      const cymbalSetupDrummerSlug = getCymbalSetupSlugFromURL();
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyCymbalSetupPage
+            theme={theme}
+            drummerSlug={cymbalSetupDrummerSlug}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${cymbalSetupDrummerSlug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              const drummer = drummers.find(d => toSlug(d.name) === slug);
+              if (drummer) {
+                handleSelectDrummer(drummer);
+              }
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}`);
+              }
+            }}
+            onNavigateToHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/cymbals');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToBrand={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/cymbals/brands/${slug}`);
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}

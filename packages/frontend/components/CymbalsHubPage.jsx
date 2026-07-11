@@ -91,7 +91,7 @@ const FACE_FOCUS = {
 
 function CymbalSetupCard({ drummer, setup, theme }) {
   const slug = toSlug(drummer.name);
-  const url = `/drummer/${slug}`;
+  const url = `/cymbals/setups/${slug}`;
   const anchorText = `${drummer.name}'s ${setup.brands.join(' & ')} cymbal setup`;
   const card = (
     <View style={[styles.drummerCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>

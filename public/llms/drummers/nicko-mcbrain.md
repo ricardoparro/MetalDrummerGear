@@ -99,6 +99,20 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Nicko McBrain plays a signature snare: the Sonor Nicko McBrain Signature (14x6.5"). Full specs: [Nicko McBrain's signature snare](https://metalforge.io/snares/signature/nicko-mcbrain).
 
+## Cymbal Setup
+
+Nicko McBrain's cymbals: Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | 2002 & Signature | Sound Edge Hi-Hats |
+| crash | 16" | 2002 & Signature | Power Crash |
+| crash | 18" | 2002 & Signature | Power Crash |
+| ride | 22" | 2002 & Signature | Power Ride |
+| china | 20" | 2002 & Signature | China |
+
+Full breakdown: [Nicko McBrain's cymbal setup](https://metalforge.io/cymbals/setups/nicko-mcbrain).
+
 ---
 
 **Full interactive profile:** [Nicko McBrain on MetalForge](https://metalforge.io/drummer/nicko-mcbrain)

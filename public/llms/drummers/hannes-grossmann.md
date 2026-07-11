@@ -90,6 +90,19 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Hannes Grossmann's snare: DW Collectors 14x5.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Hannes Grossmann's cymbals: Meinl Byzance Series (14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | Byzance Traditional | Hi-Hats |
+| crash | 18" | Byzance Brilliant | Crash |
+| crash | 19" | Byzance Brilliant | Crash |
+| ride | 21" | Byzance Traditional | Ride |
+
+Full breakdown: [Hannes Grossmann's cymbal setup](https://metalforge.io/cymbals/setups/hannes-grossmann).
+
 ---
 
 **Full interactive profile:** [Hannes Grossmann on MetalForge](https://metalforge.io/drummer/hannes-grossmann)

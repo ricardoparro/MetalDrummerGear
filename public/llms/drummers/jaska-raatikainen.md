@@ -87,6 +87,19 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Jaska Raatikainen's snare: Pearl Masters 14x5.5" Maple. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Jaska Raatikainen's cymbals: Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 17" | A Custom | Crash |
+| crash | 18" | A Custom | Crash |
+| ride | 20" | K Custom | Ride |
+
+Full breakdown: [Jaska Raatikainen's cymbal setup](https://metalforge.io/cymbals/setups/jaska-raatikainen).
+
 ---
 
 **Full interactive profile:** [Jaska Raatikainen on MetalForge](https://metalforge.io/drummer/jaska-raatikainen)

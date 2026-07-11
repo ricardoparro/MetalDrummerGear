@@ -90,6 +90,21 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Jay Weinberg's snare: SJC Jay Weinberg "The Crucible" 14x6.5" 48-ply Brass. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Jay Weinberg's cymbals: Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A New Beat | Hi-Hats |
+| crash | 18" | A Custom | Crash |
+| crash | 19" | A Custom | Crash |
+| ride | 21" | K Custom | Ride |
+| china | 19" | K | China |
+| other | 7" | — | FX Break Bell |
+
+Full breakdown: [Jay Weinberg's cymbal setup](https://metalforge.io/cymbals/setups/jay-weinberg).
+
 ---
 
 **Full interactive profile:** [Jay Weinberg on MetalForge](https://metalforge.io/drummer/jay-weinberg)

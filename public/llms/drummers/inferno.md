@@ -95,6 +95,21 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Inferno's snare: Pearl Reference 14x5" Steel. See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Inferno's cymbals: Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | RUDE | Hi-Hats |
+| china | 14" | RUDE | Blast China |
+| crash | 18" | RUDE | Crash |
+| crash | 19" | RUDE | Crash |
+| ride | 24" | RUDE | Mega Power Ride |
+| china | 18" | RUDE | China |
+
+Full breakdown: [Inferno's cymbal setup](https://metalforge.io/cymbals/setups/inferno).
+
 ---
 
 **Full interactive profile:** [Inferno on MetalForge](https://metalforge.io/drummer/inferno)

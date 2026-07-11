@@ -99,6 +99,21 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 Dirk Verbeuren's snare: Tama S.L.P. Big Black Steel 14x6.5". See the [snares guide](https://metalforge.io/snares) for shell, size, and tuning background.
 
+## Cymbal Setup
+
+Dirk Verbeuren's cymbals: Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17", 18", 19" A Custom Crashes, 21" K Custom Hybrid Ride, 18" K China).
+
+| Piece | Size | Series | Model |
+|---|---|---|---|
+| hi-hat | 14" | A Custom | Hi-Hats |
+| crash | 17" | A Custom | Crash |
+| crash | 18" | A Custom | Crash |
+| crash | 19" | A Custom | Crash |
+| ride | 21" | K Custom Hybrid | Ride |
+| china | 18" | K | China |
+
+Full breakdown: [Dirk Verbeuren's cymbal setup](https://metalforge.io/cymbals/setups/dirk-verbeuren).
+
 ---
 
 **Full interactive profile:** [Dirk Verbeuren on MetalForge](https://metalforge.io/drummer/dirk-verbeuren)

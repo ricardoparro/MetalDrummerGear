@@ -52,6 +52,24 @@ function generateSlug(name) {
   return name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
+// Pedal gear only ever exists embedded as free text inside `gear.hardware` —
+// no drummer record carries a `gear.pedals` field — so extract it instead of
+// reading a field that never exists.
+const PEDAL_KEYWORDS = ['pedal', 'cobra', 'demon', 'eliminator', 'speed'];
+
+function extractPedals(hardwareString) {
+  if (!hardwareString) return null;
+  const items = hardwareString.split(/[,;]/).map(i => i.trim());
+  const pedals = items.filter(item => PEDAL_KEYWORDS.some(kw => item.toLowerCase().includes(kw)));
+  return pedals.length > 0 ? pedals.join(', ') : null;
+}
+
+// Single source of truth for "what gear string represents this category" —
+// used by the 404 gate, related-drummer matching, and the otherCategories list.
+function getCategoryGear(drummer, category) {
+  return category === 'pedals' ? extractPedals(drummer.gear?.hardware) : drummer.gear?.[category];
+}
+
 // Extract brand from gear string
 function extractBrand(gearString) {
   if (!gearString) return null;
@@ -135,15 +153,15 @@ function generateFAQ(drummer, category, gearData) {
 
 // Generate related drummers who use similar gear
 function getRelatedDrummers(allDrummers, currentDrummer, category, limit = 5) {
-  const currentGear = currentDrummer.gear?.[category]?.toLowerCase() || '';
+  const currentGear = getCategoryGear(currentDrummer, category)?.toLowerCase() || '';
   const currentBrand = extractBrand(currentGear);
-  
+
   if (!currentBrand) return [];
-  
+
   return allDrummers
     .filter(d => d.id !== currentDrummer.id)
     .filter(d => {
-      const gear = d.gear?.[category]?.toLowerCase() || '';
+      const gear = getCategoryGear(d, category)?.toLowerCase() || '';
       return gear.includes(currentBrand.toLowerCase());
     })
     .slice(0, limit)
@@ -152,8 +170,8 @@ function getRelatedDrummers(allDrummers, currentDrummer, category, limit = 5) {
       name: d.name,
       slug: generateSlug(d.name),
       band: d.band,
-      gear: d.gear?.[category],
-      brand: extractBrand(d.gear?.[category]),
+      gear: getCategoryGear(d, category),
+      brand: extractBrand(getCategoryGear(d, category)),
     }));
 }
 
@@ -188,8 +206,8 @@ export default function handler(req, res) {
   }
 
   // Get gear data for this category
-  const gearData = drummer.gear?.[category];
-  
+  const gearData = getCategoryGear(drummer, category);
+
   if (!gearData) {
     return res.status(404).json({ 
       error: 'No gear data available for this category',
@@ -258,7 +276,7 @@ export default function handler(req, res) {
     relatedLinks: {
       fullProfile: `/drummer/${drummerSlug}`,
       otherCategories: VALID_CATEGORIES
-        .filter(c => c !== category && drummer.gear?.[c])
+        .filter(c => c !== category && getCategoryGear(drummer, c))
         .map(c => ({
           category: c,
           title: CATEGORY_META[c].title,

@@ -320,11 +320,21 @@ const battleSlugs = CURATED_MATCHUPS.map(m => {
 // that exact gate here and emit a URL for EVERY drummer × category that has real
 // gear data, extending coverage from 16 hardcoded "priority" drummers to the
 // full roster — while guaranteeing every declared URL resolves to a substantive
-// page (no thin/404 pages). This also drops the old hardcoded `pedals` URLs:
-// no drummer carries a `gear.pedals` field, so those 404'd under the renderer.
+// page (no thin/404 pages).
+// Issue #4327: no drummer record carries a `gear.pedals` field — pedal gear
+// only ever exists as free text inside `gear.hardware` — so `pedals` needs the
+// same keyword extraction the renderer now uses, not a raw field lookup.
 const GEAR_CATEGORIES = ['cymbals', 'drums', 'pedals', 'hardware', 'snare', 'sticks'];
+const PEDAL_KEYWORDS = ['pedal', 'cobra', 'demon', 'eliminator', 'speed'];
+function extractPedals(hardwareString) {
+  if (!hardwareString) return null;
+  const items = hardwareString.split(/[,;]/).map(i => i.trim());
+  const pedals = items.filter(item => PEDAL_KEYWORDS.some(kw => item.toLowerCase().includes(kw)));
+  return pedals.length > 0 ? pedals.join(', ') : null;
+}
 // Same presence check the renderer uses to decide a category section exists.
 function drummerHasCategoryGear(drummer, category) {
+  if (category === 'pedals') return Boolean(extractPedals(drummer.gear?.hardware));
   return Boolean(drummer.gear && drummer.gear[category]);
 }
 const drummerGearCategoryPages = [];

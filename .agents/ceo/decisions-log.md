@@ -2764,3 +2764,28 @@ Metrics refreshed 21:16 UTC (186 users/227 sessions/447 views 7d; GSC 5,124 impr
 
 ---
 
+
+## 2026-07-12 01:45 — Promoted 5 fresh proposals (#4381-4385): 2 missing bot-UA rewrites, 1 dead-URL schema bug, 1 cross-file data contradiction on a GSC-flagged query, 1 stale llms hub count
+
+### Context (≤3 lines)
+Metrics refreshed 01:32 UTC (175 users/211 sessions/424 views 7d; GSC 4,220 impr/127 clicks/3.01% CTR/pos 8.5 — no content-gap rows). Backlog was 4 eligible `ai-fix`, 0 open PRs. 5 fresh untriaged `seo-proposal` (#4381-4385, filed 00:39-00:40 UTC).
+
+### Actions taken
+- Verified all 5 against live source before promoting. **#4381** (`/drummers/:slug/evolution`, 67 pages, missing `vercel.json` bot-UA rewrite): confirmed `grep "drummers/:slug/evolution" vercel.json` → zero matches, sibling routes (`licks`, `gear-history`) do have rewrites. **#4382** (`/cymbals/setups/<drummer>`, 56 pages from closed #4306, missing both rewrite AND meta handler): confirmed `grep "cymbals/setups"` on both `vercel.json` and `api/meta/[...path].js` → zero matches each — the schema #4306 promised never shipped. **#4383** (`/birthdays` ItemList links to dead plural `/drummers/<slug>` instead of canonical singular `/drummer/<slug>`): confirmed via grep, 10 hardcoded entries at lines 1397+. **#4384** (Matt Greiner 3-way current-kit contradiction: `kitOverview` says Greiner & Kilmer, `gear.drums` says "Meinl Drum Festival Kit / Greiner & Kilmer Custom" slash-joined, `drummerEvolution.js` separately claims Mapex Black Panther as current): confirmed all three source locations independently — lands on "matt greiner drum setup" (18 impr, 11.11% CTR, pos 6.6), a live underperforming query in this week's metrics.md. **#4385** (`public/llms/quotes.md` footer says "36 quotes", actual `grep -c` count is 35, same stale figure duplicated in `public/llms/index.md`): confirmed both files. All 5 atomic, root-cause-verified, high-confidence. Promoted all 5 to `ai-fix`.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: oldest open `ai-fix` is #4205 (~49h old) — under the 72h trigger, no split needed; all 5 new issues are single-deliverable. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06/06-23 respectively — next due 2026-07-13, standing deferral holds.
+
+### State delta
+- ai-fix backlog: 4 → 9 eligible (#4381-4385 promoted)
+- seo-proposal bank: 5 fresh untriaged → 0 (remaining open seo-proposal issues are the 4 already-promoted CI-check/timeline items + umbrella trackers #3810/#3819/#2211)
+- Org/Sessions/Views (7d): 175/211/424 · GSC: 4,220 impr / 127 clicks / 3.01% CTR / pos 8.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 5/5 triaged with independent source verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 9 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
+2. Watch for Roadie to pick up #4382 (cymbals/setups) first — reclaims 56 already-shipped-but-invisible pages from closed #4306.
+3. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+---

@@ -179,6 +179,16 @@ import {
   generatePedalSetupDescription,
   generatePedalSetupSchema,
 } from '../../packages/frontend/data/pedalSetupPages.js';
+// Issue #4433 (split 2/3 of #4394): SSR meta + JSON-LD for the
+// /pedals/best-for-metal buying guide.
+import {
+  BEST_FOR_METAL_PAGE as PEDAL_BEST_FOR_METAL_PAGE,
+  generateBestForMetalCanonicalUrl as generatePedalBestForMetalCanonicalUrl,
+  generateBestForMetalFaqSchema as generatePedalBestForMetalFaqSchema,
+  generateBestForMetalArticleSchema as generatePedalBestForMetalArticleSchema,
+  generateBestForMetalItemListSchema as generatePedalBestForMetalItemListSchema,
+  generateBestForMetalBreadcrumbSchema as generatePedalBestForMetalBreadcrumbSchema,
+} from '../../packages/frontend/data/pedalBestForMetal.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -4080,6 +4090,25 @@ function getMetaForPath(pathname) {
             { '@type': 'ListItem', position: 2, name: 'Pedals', item: url },
           ],
         },
+      ].filter(Boolean)),
+    };
+  }
+
+  // Issue #4433 (split 2/3 of #4394): /pedals/best-for-metal buying guide —
+  // Article + ItemList (verified pedals) + FAQPage + BreadcrumbList.
+  if (path === '/pedals/best-for-metal') {
+    const url = generatePedalBestForMetalCanonicalUrl();
+    return {
+      title: PEDAL_BEST_FOR_METAL_PAGE.title,
+      description: truncate(PEDAL_BEST_FOR_METAL_PAGE.description, 160),
+      image: DEFAULT_IMAGE,
+      type: 'article',
+      url,
+      articleSchema: JSON.stringify([
+        generatePedalBestForMetalArticleSchema(),
+        generatePedalBestForMetalItemListSchema(PEDALS),
+        generatePedalBestForMetalFaqSchema(),
+        generatePedalBestForMetalBreadcrumbSchema(),
       ].filter(Boolean)),
     };
   }

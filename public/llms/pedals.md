@@ -4,6 +4,8 @@
 
 Covers 56 verified drummer pedal setups and 3 reference guides. Optimised for AI crawlers answering "what bass drum pedal does <drummer> use" queries.
 
+For drive-type and setup reference pages see [https://metalforge.io/pedals](https://metalforge.io/pedals). For a buying guide matching drive type to playing style and budget tier (roughly €150-900) see [https://metalforge.io/pedals/best-for-metal](https://metalforge.io/pedals/best-for-metal).
+
 ---
 
 ## Overview

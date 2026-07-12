@@ -40,9 +40,14 @@ const adsenseScript = `
 
 // LCP Optimization (#752): Dynamic preload for weekly spotlight image
 // Minified script to reduce parsing time
+// Issue #4408: pick the exact responsive variant the DrummerSpotlight <img
+// srcset> will resolve to (CSS width * devicePixelRatio, snapped to the
+// nearest of 100/200/400w) instead of a DPR-unaware media query — otherwise
+// this preload fetches a different file than the image renders, downloading
+// the spotlight photo twice on any screen with devicePixelRatio > 1.
 const spotlightPreload = `
     <!-- LCP: Spotlight Image Preload (#752) -->
-    <script>(function(){var r=['tomas-haake','danny-carey','dave-lombardo','lars-ulrich','mario-duplantier','gene-hoglan','joey-jordison','george-kollias','brann-dailor','chris-adler'],w=Math.floor((Date.now()-1704067200000)/604800000),d=r[w%10],h=document.head,c=function(u,m){var l=document.createElement('link');l.rel='preload';l.href=u;l.as='image';l.type='image/webp';l.fetchPriority='high';l.media=m;h.appendChild(l)};c('/images/drummers/'+d+'-100w.webp','(max-width:479px)');c('/images/drummers/'+d+'-200w.webp','(min-width:480px)');})();</script>`;
+    <script>(function(){var r=['tomas-haake','danny-carey','dave-lombardo','lars-ulrich','mario-duplantier','gene-hoglan','joey-jordison','george-kollias','brann-dailor','chris-adler'],w=Math.floor((Date.now()-1704067200000)/604800000),d=r[w%10];var cw=window.matchMedia('(max-width:479px)').matches?100:140;var tw=cw*(window.devicePixelRatio||1);var sfx=tw<=100?'-100w':tw<=200?'-200w':tw<=400?'-400w':'';var l=document.createElement('link');l.rel='preload';l.href='/images/drummers/'+d+sfx+'.webp';l.as='image';l.type='image/webp';l.fetchPriority='high';document.head.appendChild(l);})();</script>`;
 
 // Critical CSS for fast FCP (Issues #535, #752)
 const criticalCSS = `

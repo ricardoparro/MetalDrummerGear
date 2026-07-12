@@ -45,9 +45,18 @@ const adsenseScript = `
 // nearest of 100/200/400w) instead of a DPR-unaware media query — otherwise
 // this preload fetches a different file than the image renders, downloading
 // the spotlight photo twice on any screen with devicePixelRatio > 1.
+// Issue #4470: the `href` snap-to-width above only matches what a plain
+// `src` render would fetch. DrummerSpotlight actually renders via
+// `ImageWithFallback`, which emits `<img srcset sizes>` (see
+// generateLocalDrummerSrcSet()/getSizesAttribute('spotlight') in
+// imageUtils.js) — per the preload-matching spec, a bare `href` preload
+// does not dedupe against an `<img srcset>` consumer even when it happens
+// to compute the same URL. Mirroring the same srcset/sizes list here via
+// imageSrcset/imageSizes makes the browser resolve both to the identical
+// candidate, so the preload and the render share one fetch.
 const spotlightPreload = `
-    <!-- LCP: Spotlight Image Preload (#752) -->
-    <script>(function(){var r=['tomas-haake','danny-carey','dave-lombardo','lars-ulrich','mario-duplantier','gene-hoglan','joey-jordison','george-kollias','brann-dailor','chris-adler'],w=Math.floor((Date.now()-1704067200000)/604800000),d=r[w%10];var cw=window.matchMedia('(max-width:479px)').matches?100:140;var tw=cw*(window.devicePixelRatio||1);var sfx=tw<=100?'-100w':tw<=200?'-200w':tw<=400?'-400w':'';var l=document.createElement('link');l.rel='preload';l.href='/images/drummers/'+d+sfx+'.webp';l.as='image';l.type='image/webp';l.fetchPriority='high';document.head.appendChild(l);})();</script>`;
+    <!-- LCP: Spotlight Image Preload (#752, #4470) -->
+    <script>(function(){var r=['tomas-haake','danny-carey','dave-lombardo','lars-ulrich','mario-duplantier','gene-hoglan','joey-jordison','george-kollias','brann-dailor','chris-adler'],w=Math.floor((Date.now()-1704067200000)/604800000),d=r[w%10];var cw=window.matchMedia('(max-width:479px)').matches?100:140;var tw=cw*(window.devicePixelRatio||1);var sfx=tw<=100?'-100w':tw<=200?'-200w':tw<=400?'-400w':'';var base='/images/drummers/'+d;var l=document.createElement('link');l.rel='preload';l.href=base+sfx+'.webp';l.imageSrcset=base+'-100w.webp 100w, '+base+'-200w.webp 200w, '+base+'-400w.webp 400w, '+base+'.webp 800w';l.imageSizes='(max-width: 479px) 100px, 140px';l.as='image';l.type='image/webp';l.fetchPriority='high';document.head.appendChild(l);})();</script>`;
 
 // Critical CSS for fast FCP (Issues #535, #752)
 const criticalCSS = `

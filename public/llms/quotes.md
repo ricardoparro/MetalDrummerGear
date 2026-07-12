@@ -178,4 +178,4 @@ Source: https://metalforge.io/quotes
 
 ---
 
-*Source: https://metalforge.io/quotes — 36 quotes from 12 metal drummers*
+*Source: https://metalforge.io/quotes — 35 quotes from 12 metal drummers*

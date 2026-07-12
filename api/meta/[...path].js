@@ -156,6 +156,20 @@ import {
   generateBestForMetalItemListSchema as generateSnareBestForMetalItemListSchema,
   generateBestForMetalBreadcrumbSchema as generateSnareBestForMetalBreadcrumbSchema,
 } from '../../packages/frontend/data/snareBestForMetal.js';
+// Issue #4483: SSR meta + JSON-LD for /snares/brands (hub) + /snares/brands/<brand>
+// (Tama, Pearl, Ludwig, Sonor, Mapex, DW) — brings /snares to parity with the
+// drumsticks/cymbals/pedals brand-detail surfaces.
+import {
+  getBrand as getSnareBrand,
+  getSnaresForBrand,
+  generateBrandCanonicalUrl as generateSnareBrandCanonicalUrl,
+  generateBrandsHubCanonicalUrl as generateSnareBrandsHubCanonicalUrl,
+  generateBrandTitle as generateSnareBrandTitle,
+  generateBrandDescription as generateSnareBrandDescription,
+  generateBrandSchema as generateSnareBrandSchema,
+  generateBrandsHubSchema as generateSnareBrandsHubSchema,
+  SNARE_BRANDS,
+} from '../../packages/frontend/data/snareBrands.js';
 // Issue #4370: /timeline (Metal Drumming Evolution Timeline) SSR meta — was
 // falling through to the generic homepage shell under bot UA and missing
 // from the sitemap despite being a real, filterable 47-event history page.
@@ -4157,6 +4171,41 @@ function getMetaForPath(pathname) {
         generateSnareBestForMetalBreadcrumbSchema(),
       ].filter(Boolean)),
     };
+  }
+
+  // Issue #4483: /snares/brands hub — ItemList (one entry per brand) + BreadcrumbList.
+  if (path === '/snares/brands') {
+    const url = generateSnareBrandsHubCanonicalUrl();
+    return {
+      title: `Snare Brands: Positioning & Which Metal Drummers Use Them | ${SITE_NAME}`,
+      description: `Compare ${SNARE_BRANDS.length} snare brands — company background, metal-relevant models, and confirmed metal drummer endorsements.`,
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url,
+      articleSchema: JSON.stringify(generateSnareBrandsHubSchema()),
+    };
+  }
+
+  // Issue #4483: /snares/brands/<brand> — Brand + ItemList (confirmed snares) + BreadcrumbList.
+  const snareBrandMatch = path.match(/^\/snares\/brands\/([a-z0-9-]+)$/);
+  if (snareBrandMatch) {
+    const brand = getSnareBrand(snareBrandMatch[1]);
+    if (brand) {
+      const confirmedSnares = getSnaresForBrand(brand);
+      return {
+        title: generateSnareBrandTitle(brand),
+        description: truncate(generateSnareBrandDescription(brand, confirmedSnares), 160),
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: generateSnareBrandCanonicalUrl(brand.slug),
+        ssrLinks: [
+          { href: '/snares/brands', label: 'Snare Brands' },
+          ..._brandConfirmedDrummerLinks(confirmedSnares, '/drummer'),
+          { href: '/snares/best-for-metal', label: 'Best Snares for Metal' },
+        ],
+        articleSchema: JSON.stringify(generateSnareBrandSchema(brand, confirmedSnares)),
+      };
+    }
   }
 
   // Issue #4312: /snares/signature/<drummer> — Product (signature snare) +

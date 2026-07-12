@@ -3739,6 +3739,63 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           </div>
         )}
 
+        {/* Gear Cluster Links — Issue #4424: arbitrary-URL cross-links (signature sticks,
+            signature snare, cymbal setups, vs. comparisons) that relatedAlbums/relatedDrummers
+            can't address since those only resolve /articles/ slugs and drummer ids. */}
+        {Array.isArray(list.gearLinks) && list.gearLinks.length > 0 && Platform.OS === 'web' && (
+          <div style={{ margin: '0 20px 20px' }}>
+            <div style={{ fontSize: 18, fontWeight: '700', color: theme.text, marginBottom: 12 }}>Explore the Gear Cluster</div>
+            <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: 8 }}>
+              {list.gearLinks.map((link) => (
+                <li key={link.url}>
+                  <a
+                    href={link.url}
+                    style={{ display: 'block', padding: '12px 16px', backgroundColor: theme.card, border: `1px solid ${theme.border}`, borderRadius: 8, color: theme.primary, textDecoration: 'none', fontSize: 15, fontWeight: '600' }}
+                  >
+                    {link.emoji || '🔗'} {link.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {/* Sources — Issue #4424: external citations for time-sensitive/tribute content */}
+        {Array.isArray(list.sources) && list.sources.length > 0 && Platform.OS === 'web' && (
+          <div style={{ margin: '0 20px 20px' }}>
+            <div style={{ fontSize: 14, fontWeight: '700', color: theme.secondaryText, marginBottom: 8 }}>Sources</div>
+            <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: 6 }}>
+              {list.sources.map((source) => (
+                <li key={source.url}>
+                  <a
+                    href={source.url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: theme.secondaryText, fontSize: 13, fontStyle: 'italic' }}
+                  >
+                    {source.label}
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        {/* FAQ Section — Issue #4424: album articles authored a faq[] array for years but it
+            only ever powered FAQPage schema (see the schema-injection effect above); nothing
+            rendered it on the page itself. Renders it visibly for every article that has one. */}
+        {Array.isArray(list.faq) && list.faq.length > 0 && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>❓ Frequently Asked Questions</Text>
+            {list.faq.map((item, idx) => (
+              <View key={idx} style={{ marginBottom: idx < list.faq.length - 1 ? 16 : 0 }}>
+                <Text style={[styles.gearTitle, { color: theme.text }]}>{item.question}</Text>
+                <Text style={[styles.bioText, { color: theme.secondaryText, marginTop: 4 }]}>{item.answer}</Text>
+              </View>
+            ))}
+          </View>
+        )}
+
         {/* Conclusion Section */}
         {list.conclusion && (
           <View style={[styles.articleConclusionSection, { backgroundColor: theme.card, borderColor: theme.primary }]}>

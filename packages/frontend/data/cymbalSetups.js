@@ -65,6 +65,7 @@ export const CYMBAL_SETUPS = [
     ],
     source: 'roster gear.cymbals (verified: true; sources on the drummer record)',
     retailerUrls: {},
+    legacyArticleSlug: 'joey-jordison-legacy',
   },
   {
     drummerSlug: 'gene-hoglan',

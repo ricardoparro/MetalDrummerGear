@@ -576,4 +576,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
+  <!-- Issue #4424: Joey Jordison 5-year death-anniversary legacy tribute (indexed ahead of the July 26, 2026 spike) -->
+  <url>
+    <loc>https://metalforge.io/articles/joey-jordison-legacy</loc>
+    <lastmod>2026-07-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
 </urlset>

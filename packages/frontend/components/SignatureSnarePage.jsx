@@ -151,6 +151,17 @@ export function SignatureSnarePage({
         </Pressable>
       )}
 
+      {snare.legacyArticleSlug && Platform.OS === 'web' && (
+        <Pressable
+          onPress={() => { window.location.href = `/articles/${snare.legacyArticleSlug}`; }}
+          style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.card, borderColor: theme.border }]}
+          accessibilityRole="link"
+          accessibilityLabel={`Read ${drummerName}'s legacy tribute article`}
+        >
+          <Text style={[styles.drummerName, { color: theme.text }]}>🕯️ 5 Years of Legacy →</Text>
+        </Pressable>
+      )}
+
       <View style={styles.otherPages}>
         <Text style={[styles.sectionTitle, { color: theme.text }]}>More snare guides</Text>
         {REFERENCE_PAGE_ORDER.map((slug) => (

@@ -70,6 +70,7 @@ export const SNARES = [
     isSignature: true,
     source: 'roster gear.snare (verified: true; sources on the drummer record)',
     retailerUrls: {},
+    legacyArticleSlug: 'joey-jordison-legacy',
   },
   {
     drummerSlug: 'gene-hoglan',

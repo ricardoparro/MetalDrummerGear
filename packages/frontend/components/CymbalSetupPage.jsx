@@ -168,6 +168,17 @@ export function CymbalSetupPage({
         </Pressable>
       )}
 
+      {setup.legacyArticleSlug && Platform.OS === 'web' && (
+        <Pressable
+          onPress={() => { window.location.href = `/articles/${setup.legacyArticleSlug}`; }}
+          style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.card, borderColor: theme.border }]}
+          accessibilityRole="link"
+          accessibilityLabel={`Read ${drummerName}'s legacy tribute article`}
+        >
+          <Text style={[styles.drummerName, { color: theme.text }]}>🕯️ 5 Years of Legacy →</Text>
+        </Pressable>
+      )}
+
       {onBack && (
         <Pressable onPress={onBack} style={[styles.backButton, { backgroundColor: theme.primary }]} accessibilityRole="link">
           <Text style={styles.backButtonText}>← Back to {drummerName}</Text>

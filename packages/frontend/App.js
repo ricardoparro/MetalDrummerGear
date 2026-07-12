@@ -14703,6 +14703,78 @@ function BrandLandingPage({ brandSlug, drummers, onBack, onSelectDrummer, onNavi
           ))}
         </View>
 
+        {/* History Section (Issue #4386 phase 1) - founding story, key
+            milestones, and entry into metal drumming, sourced from the
+            brand's own about/history page or an equally documented source. */}
+        {brand.history && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>{brand.name} History</Text>
+            <Text style={[styles.genreParagraph, { color: theme.secondaryText }]}>
+              {brand.history.founded}
+            </Text>
+            {brand.history.milestones && brand.history.milestones.length > 0 && (
+              <View style={[styles.gappedLayout1, { marginTop: 8 }]}>
+                {brand.history.milestones.map((milestone, index) => (
+                  <View key={index} style={{ flexDirection: 'row', alignItems: 'flex-start' }}>
+                    <Text style={[styles.textSm, { color: brand.color, fontWeight: '700', width: 64 }]}>
+                      {milestone.year}
+                    </Text>
+                    <Text style={[styles.textSm, { color: theme.secondaryText, flex: 1 }]}>
+                      {milestone.event}
+                    </Text>
+                  </View>
+                ))}
+              </View>
+            )}
+            {brand.history.metalEntry && (
+              <Text style={[styles.genreParagraph, { color: theme.secondaryText, marginTop: 8 }]}>
+                <Text style={{ fontWeight: '700', color: theme.text }}>Entry into metal: </Text>
+                {brand.history.metalEntry}
+              </Text>
+            )}
+            {brand.history.source && (
+              <Text style={[styles.textSm, { color: theme.secondaryText, marginTop: 8, fontStyle: 'italic' }]}>
+                Source: {brand.history.source.label}
+              </Text>
+            )}
+          </View>
+        )}
+
+        {/* Theme Hub Cross-links (Issue #4386 phase 1) - only rendered when
+            this brand also has a page in a theme-area brand module
+            (data/cymbalBrands.js, data/drumstickBrands.js), so brands without
+            a theme hub page get no dead link. */}
+        {brand.themeLinks && brand.themeLinks.length > 0 && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>Explore {brand.name} in Our Theme Hubs</Text>
+            <View style={[styles.flexRowWrap, styles.gap2]}>
+              {brand.themeLinks.map((link) => (
+                <TouchableOpacity
+                  key={link.path}
+                  style={[styles.pioneerTag, {
+                    backgroundColor: brand.color + '20',
+                    borderColor: brand.color,
+                    borderWidth: 1,
+                    paddingHorizontal: 12,
+                    paddingVertical: 8,
+                    borderRadius: 8,
+                  }]}
+                  onPress={() => {
+                    if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                      window.history.pushState({}, '', link.path);
+                      window.dispatchEvent(new PopStateEvent('popstate'));
+                    }
+                  }}
+                  accessibilityRole="link"
+                  accessibilityLabel={link.label}
+                >
+                  <Text style={{ color: brand.color, fontWeight: '600' }}>{link.label} →</Text>
+                </TouchableOpacity>
+              ))}
+            </View>
+          </View>
+        )}
+
         {/* Popular Models Section */}
         {brand.popularModels && brand.popularModels.length > 0 && (
           <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>

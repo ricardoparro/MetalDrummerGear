@@ -31,6 +31,19 @@ export const brands = {
 
 **Notable Metal Artists:**
 From Lars Ulrich's iconic thrash sound to George Kollias' blistering death metal, Tama drums have defined the sound of metal for decades.`,
+    history: {
+      founded: "The Tama brand launched in 1974 as the drum line of Hoshino Gakki, a Japanese musical instrument company founded in Nagoya in 1908.",
+      milestones: [
+        { year: "1908", event: "Hoshino Gakki is founded in Nagoya, Japan." },
+        { year: "1974", event: "The Tama name launches, bringing Hoshino Gakki's drum-making under one brand." },
+        { year: "1993", event: "The Iron Cobra bass drum pedal launches and becomes a metal-industry standard." },
+      ],
+      metalEntry: "Lars Ulrich (Metallica) has been an official Tama artist since the mid-1980s, building his kits around Tama shells and the Iron Cobra pedal.",
+      source: { label: "Tama / Hoshino Gakki company history", url: "https://www.tama.com" },
+    },
+    themeLinks: [
+      { path: "/drumsticks/brands/tama", label: "Tama on /drumsticks" },
+    ],
     metaTitle: "Tama Metal Drummers - Who Plays Tama Drums | MetalForge",
     metaDescription:
       "Discover which legendary metal drummers play Tama drums. From Lars Ulrich to George Kollias, explore their Tama setups and signature gear.",
@@ -81,6 +94,16 @@ Pearl's metal legacy includes some of the genre's most iconic drummers. Joey Jor
 - **Reference Pure** – Pure maple shells for ultimate resonance
 - **Masterworks** – Custom shop craftsmanship
 - **Session Studio Select** – Professional features at accessible prices`,
+    history: {
+      founded: "Pearl was founded in Tokyo, Japan in 1946 by Katsumi Yanagisawa, initially making music stands before moving into drum manufacturing.",
+      milestones: [
+        { year: "1946", event: "Katsumi Yanagisawa founds the company in Tokyo, Japan." },
+        { year: "1950", event: "Pearl shifts from music stands into drum manufacturing." },
+        { year: "1966", event: "The President Series becomes Pearl's first professional-grade drum kit." },
+      ],
+      metalEntry: "Vinnie Paul (Pantera) endorsed Pearl from 1996 onward, with Pearl producing his signature snare drums.",
+      source: { label: "Pearl Drums company history (Wikipedia)", url: "https://en.wikipedia.org/wiki/Pearl_Drums" },
+    },
     metaTitle: "Pearl Metal Drummers - Who Plays Pearl Drums | MetalForge",
     metaDescription:
       "Explore which metal drummers play Pearl drums. From Joey Jordison to Vinnie Paul, discover their Pearl setups and signature gear.",
@@ -129,6 +152,15 @@ DW's "Drum Workshop" origins show in their attention to detail. Each drum is bui
 
 **Metal Applications:**
 While DW is often associated with studio drummers, many metal artists choose DW for their exceptional tuning range and ability to cut through dense mixes. The attack and projection of DW drums make them ideal for both studio recording and live performance.`,
+    history: {
+      founded: "DW was founded in 1972 in Santa Monica, California by Don Lombardi, originally as a drum-lesson studio before it grew into a manufacturer.",
+      milestones: [
+        { year: "1972", event: "Don Lombardi opens a drum-lesson studio in Santa Monica, California, the seed of what becomes Drum Workshop." },
+        { year: "1979", event: "The DW 5000 bass drum pedal launches and becomes an industry benchmark for hardware." },
+        { year: "1999", event: "DW founds its Pacific Drums and Percussion (PDP) sub-brand." },
+      ],
+      source: { label: "DW – The DW Story", url: "https://dwdrums.com/the-dw-story/" },
+    },
     metaTitle: "DW Metal Drummers - Who Plays DW Drums | MetalForge",
     metaDescription:
       "Discover which metal drummers play DW drums. Explore the premium Collector's Series setups and custom configurations used by metal professionals.",
@@ -177,6 +209,16 @@ Ludwig drums were there at the birth of rock music - Ringo Starr's Ludwig kit on
 
 **Metal Applications:**
 While Ludwig is often associated with classic rock, many metal drummers rely on Ludwig snares for their cutting attack and projection. The Black Beauty remains a studio favorite for metal recordings, prized for its ability to cut through dense mixes.`,
+    history: {
+      founded: "Ludwig was founded in Chicago in 1909 by brothers William F. Ludwig and Theobald Ludwig.",
+      milestones: [
+        { year: "1909", event: "William F. and Theobald Ludwig found the company in Chicago and introduce the first practical bass drum pedal." },
+        { year: "1920s", event: "The Black Beauty brass snare drum is introduced and becomes one of the most recorded snares in history." },
+        { year: "1964", event: "Ringo Starr's Ludwig kit appears on The Ed Sullivan Show, sparking the \"Ludwig boom\" in rock drumming." },
+      ],
+      metalEntry: "John Bonham (Led Zeppelin) was a longtime Ludwig endorser whose powerful, heavy style helped shape the drumming that became heavy metal.",
+      source: { label: "Ludwig Drums – About", url: "https://ludwig-drums.com/en-us/ludwig/about" },
+    },
     metaTitle: "Ludwig Metal Drummers - Who Plays Ludwig Drums | MetalForge",
     metaDescription:
       "Discover which metal drummers play Ludwig drums. Explore the legendary Black Beauty snare and classic Ludwig kits used by metal drummers.",
@@ -226,6 +268,21 @@ Lars Ulrich's Zildjian A Custom setup defined the thrash metal cymbal sound. The
 
 **Quality & Innovation:**
 Zildjian's centuries of experience show in their consistency and quality. Each cymbal is hand-crafted and tested, ensuring the perfect balance of tone, sustain, and durability that metal drumming demands.`,
+    history: {
+      founded: "Zildjian traces its roots to 1623 Constantinople, where Avedis Zildjian discovered a secret cymbal alloy and was granted the name \"Zildjian\" — Armenian-Turkish for \"cymbal maker\" — by the Ottoman Sultan.",
+      milestones: [
+        { year: "1618", event: "Avedis Zildjian discovers the copper-tin-silver alloy that lets cymbals be hammered without cracking or shattering." },
+        { year: "1623", event: "Granted the Zildjian name and permission to found the company in Constantinople." },
+        { year: "1929", event: "The family reestablishes cymbal manufacturing in Quincy, Massachusetts, carrying the alloy secret to the USA." },
+        { year: "1981", event: "A family split sends Robert Zildjian to found rival cymbal maker Sabian in Canada." },
+      ],
+      metalEntry: "Lars Ulrich (Metallica) has played an all-Zildjian setup for decades, built around K Constantinople and K Custom cymbals.",
+      source: { label: "Zildjian – About Us", url: "https://zildjian.com/pages/about-us" },
+    },
+    themeLinks: [
+      { path: "/cymbals/brands/zildjian", label: "Zildjian on /cymbals" },
+      { path: "/drumsticks/brands/zildjian", label: "Zildjian on /drumsticks" },
+    ],
     metaTitle: "Zildjian Metal Drummers - Who Plays Zildjian Cymbals | MetalForge",
     metaDescription:
       "Discover which metal drummers play Zildjian cymbals. From Lars Ulrich's A Customs to the K Custom series, explore metal cymbal setups.",
@@ -274,6 +331,20 @@ In 1980, Paiste created the RUDE series specifically for heavy metal drummers wh
 
 **Notable Artists:**
 Joey Jordison's Paiste RUDE/2002 hybrid setup defined Slipknot's chaotic sound. Nicko McBrain of Iron Maiden has been a Paiste artist for decades, showcasing the versatility of Paiste cymbals in metal.`,
+    history: {
+      founded: "Paiste was founded in 1906 in St. Petersburg, Russia, by Michail Toomas Paiste, later relocating through Estonia before establishing its current base in Switzerland.",
+      milestones: [
+        { year: "1906", event: "Michail Toomas Paiste founds the company in St. Petersburg, Russia." },
+        { year: "1917", event: "The factory reestablishes in Tallinn, Estonia after the Russian Revolution." },
+        { year: "1957", event: "Paiste reestablishes its base in Switzerland, where it remains headquartered today." },
+        { year: "1980", event: "The RUDE series launches, built specifically for the volume and abuse of heavy metal drumming." },
+      ],
+      metalEntry: "Dave Lombardo (Slayer) used a Paiste RUDE Power Ride on Reign in Blood, and Nicko McBrain (Iron Maiden) has played Paiste throughout his career, including a signature Powerslave Reflector Bell Ride.",
+      source: { label: "Paiste – Company History", url: "https://www.paiste.com/pages/history" },
+    },
+    themeLinks: [
+      { path: "/cymbals/brands/paiste", label: "Paiste on /cymbals" },
+    ],
     metaTitle: "Paiste Metal Drummers - Who Plays Paiste Cymbals | MetalForge",
     metaDescription:
       "Discover which metal drummers play Paiste cymbals. From the legendary RUDE series to the 2002 line, explore metal cymbal setups.",
@@ -322,6 +393,20 @@ Meinl cymbals are known for their dark, complex overtones - particularly in the 
 
 **Innovation:**
 Meinl constantly pushes cymbal design forward with unique models like the Dual Crash, Ghost Ride, and their extensive effects cymbal line. This innovation appeals to drummers looking for distinctive sounds.`,
+    history: {
+      founded: "Meinl was founded in 1951 in Gutenstetten, Germany, by Roland Meinl.",
+      milestones: [
+        { year: "1951", event: "Roland Meinl founds the company in Gutenstetten, Germany." },
+        { year: "1952", event: "Meinl begins cymbal production." },
+        { year: "2001", event: "The hand-hammered Byzance series launches, becoming a favorite among progressive and technical metal drummers." },
+      ],
+      metalEntry: "Meinl's Mb20 \"Pure Metal\" ride was co-designed with Chris Adler (Lamb of God) specifically for loud, heavy music.",
+      source: { label: "Meinl Percussion company history (Wikipedia)", url: "https://en.wikipedia.org/wiki/Meinl_Percussion" },
+    },
+    themeLinks: [
+      { path: "/cymbals/brands/meinl", label: "Meinl on /cymbals" },
+      { path: "/drumsticks/brands/meinl", label: "Meinl on /drumsticks" },
+    ],
     metaTitle: "Meinl Metal Drummers - Who Plays Meinl Cymbals | MetalForge",
     metaDescription:
       "Discover which metal drummers play Meinl cymbals. From the Byzance series to Classics Custom, explore dark, complex cymbal setups.",
@@ -370,6 +455,20 @@ Sabian cymbals are known for their consistency and versatility. The AAX series d
 
 **Value Proposition:**
 Sabian offers excellent value at various price points, making professional-quality cymbals accessible to more drummers. Their manufacturing consistency ensures reliable sound across their product range.`,
+    history: {
+      founded: "Sabian was founded in 1981 in Meductic, New Brunswick, Canada, by Robert Zildjian after a family split divided the Avedis Zildjian Company.",
+      milestones: [
+        { year: "1979", event: "The Zildjian family cymbal business splits between branches of the family." },
+        { year: "1981", event: "Robert Zildjian founds Sabian in Meductic, New Brunswick, Canada." },
+        { year: "1982", event: "Sabian's first full production year; the AA and HH series launch." },
+        { year: "2001", event: "The HHX series launches." },
+      ],
+      metalEntry: "Ray Luzier (Korn) and Tomas Haake (Meshuggah) are official Sabian artists, both known for AAX and HHX cymbal setups.",
+      source: { label: "Sabian – Our Story", url: "https://sabian.com/our-story/" },
+    },
+    themeLinks: [
+      { path: "/cymbals/brands/sabian", label: "Sabian on /cymbals" },
+    ],
     metaTitle: "Sabian Metal Drummers - Who Plays Sabian Cymbals | MetalForge",
     metaDescription:
       "Discover which metal drummers play Sabian cymbals. From the AAX to HHX series, explore bright and dark cymbal setups for metal.",
@@ -419,6 +518,16 @@ Metal drummers need heads that can survive aggressive playing while staying cont
 
 **Durability & Consistency:**
 Evans heads are known for holding their tuning and tone through extended tours and heavy hitting, which is why they're found on stages and in studios across every metal subgenre.`,
+    history: {
+      founded: "Evans was founded in 1957 in the USA by Chick (Robert) Evans, who invented the first synthetic (Mylar) drumhead in 1956.",
+      milestones: [
+        { year: "1956", event: "Chick Evans invents the first synthetic drumhead, replacing calfskin." },
+        { year: "1957", event: "The company is founded to manufacture and sell the new synthetic heads." },
+        { year: "1995", event: "Evans is acquired by J. D'Addario & Co., which still owns the brand today." },
+      ],
+      metalEntry: "Evans' official artist roster includes Gene Hoglan (Death, Testament, Dethklok) and Chris Adler (Lamb of God).",
+      source: { label: "NAMM Oral History – Robert (Bob) Beals on Evans Products", url: "https://www.namm.org/library/oral-history/robert-beals" },
+    },
     metaTitle: "Evans Metal Drummers - Who Uses Evans Drumheads | MetalForge",
     metaDescription:
       "Discover which metal drummers use Evans drumheads. From the EMAD2 bass head to the Hydraulic series, explore Evans setups used in metal.",
@@ -467,6 +576,16 @@ Remo's Powerstroke 3 is one of the most widely used bass drumheads in metal, pri
 
 **Durability & Consistency:**
 Remo's manufacturing consistency and broad lineup mean drummers can dial in exactly the amount of attack, sustain, and durability their playing demands, from thrash to death metal to progressive styles.`,
+    history: {
+      founded: "Remo was founded on June 1, 1957 in North Hollywood, California, by Remo Belli, alongside partners Roy Harte and chemist Sam Muchnick.",
+      milestones: [
+        { year: "1957", event: "Remo Belli founds the company; the WeatherKing synthetic drumhead debuts at NAMM." },
+        { year: "1960", event: "Belli and Muchnick are awarded a US patent for the synthetic drumhead." },
+        { year: "1993", event: "The Powerstroke 3 bass drumhead is introduced and becomes a widely used metal bass drum batter head." },
+      ],
+      metalEntry: "Lars Ulrich (Metallica) uses a Remo Powerstroke 3 Clear bass drumhead, per Remo's official artist profile.",
+      source: { label: "Remo – Company History", url: "https://remo.com/company/history" },
+    },
     metaTitle: "Remo Metal Drummers - Who Uses Remo Drumheads | MetalForge",
     metaDescription:
       "Discover which metal drummers use Remo drumheads. From the Powerstroke 3 bass head to Emperor and Ambassador series, explore Remo setups used in metal.",

@@ -2937,3 +2937,27 @@ Metrics refreshed 09:33 UTC (248 users/285 sessions/508 views 7d; GSC 5,154 impr
 - Blockers unchanged: #4424 (Joey Jordison, ~5h old, Jul 26 deadline, not yet at 13:00 UTC escalation checkpoint) · #4440 (infra, 0 comments) · #875/#529/#526/#525 · no re-spam
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, no GSC content-gap, no atomic-split trigger; Roadie shipped 6 issues since the 09:33 pulse, backlog 13→10, still well under the 45 floor)
 - Next check: 13:00 UTC mid-day pulse — escalate #4424 if still unpicked; L1/L2/L3 snapshots due 2026-07-13
+
+## 2026-07-12 11:24 — Pulse: caught a stale proposal (7/8 already fixed), promoted 2 confirmed, filed narrow replacement
+
+### Context (≤3 lines)
+Metrics 11:24 UTC (256 users/293 sessions/520 views 7d; GSC 5,154 impr/140 clicks/2.72% CTR/pos 8.5 — no content-gap rows). Backlog was 6 eligible `ai-fix`, 1 open PR (#4456, DIRTY but 5min old). 3 fresh untriaged proposals (#4452/#4453/#4454).
+
+### Actions taken
+- **#4452** (BRAND_META missing 8 brand slugs) — verified against live `api/meta/[...path].js:2018-2036` and found 7 of the 8 claimed-missing keys (sonor, vic-firth, pro-mark, vater, ahead, wincent, axis) were already added by #4439/PR #4447, merged this morning before this proposal's evidence was gathered. Only `mapex` is still genuinely missing. Closed #4452 as stale, filed narrow replacement **#4457** for just the `mapex` gap.
+- **#4453** (sitemap.js `gearBrands` array stale, 10 vs 18 brands + 2 dead llms/brands/*.md links) — confirmed live: `api/sitemap.js:183-196` still hardcodes only 10 brands, `public/llms/brands/` has 16 files with no `evans.md`/`remo.md`. Promoted.
+- **#4454** (`/llms/index.md` missing all `/pedals` hub references) — confirmed live: `grep -in pedal public/llms/index.md` shows zero hub-file references despite 13+ live pedals files on disk. Promoted.
+- Founder ideas: inbox empty. GSC content-gap: none. Atomic-split: oldest open ai-fix #4205 ~58h old, still under 72h trigger. #4424 (Joey Jordison, Jul 26 deadline) still 0 comments/no PR, ~6h old — not yet at 13:00 UTC escalation checkpoint. #4440 (infra, duplicate-PR race pattern) still 0 comments, no new instance this run. L1/L2/L3 snapshots still dated 2026-07-06, due 2026-07-13.
+
+### State delta
+- ai-fix backlog: 6 → 9 eligible (#4453, #4454, #4457 added; #4452 closed not-promoted)
+- Org/Sessions/Views (7d): 256/293/520 · GSC unchanged: 5,154 impr / 140 clicks / 2.72% CTR / pos 8.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged — 1 caught stale (partial dup of already-merged #4439) and correctly replaced with a narrower accurate issue rather than blindly promoted, 2 confirmed and promoted. ✅ GSC-gap: none. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. **Watch #4424 (Joey Jordison legacy article)** — escalate at the 13:00 UTC mid-day pulse if still unpicked.
+2. Watch #4456 (DIRTY, pedals brand pages split 1/3) — re-check if still DIRTY by mid-day pulse.
+3. Backlog at 9 — still well below the 45 floor; keep promoting liberally.
+4. Next L1/L2/L3 snapshots due 2026-07-13 — first fresh run since the meta-shell saga closed.

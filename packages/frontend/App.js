@@ -1064,6 +1064,8 @@ function getDrummersByBrandData(slug, drummers) { return _brandsModule?.getDrumm
 function getDrummerBrandGearData(drummer, slug) { return _brandsModule?.getDrummerBrandGear(drummer, slug) || []; }
 function getDrumBrandsData() { return _brandsModule?.getDrumBrands() || []; }
 function getCymbalBrandsData() { return _brandsModule?.getCymbalBrands() || []; }
+const BRAND_TYPE_LABELS = { drums: 'Drum', cymbals: 'Cymbal', drumheads: 'Drumhead', sticks: 'Stick', pedals: 'Pedal' };
+function getBrandTypeLabel(type) { return BRAND_TYPE_LABELS[type] || 'Gear'; }
 
 // Gear comparison data (Issue #345)
 // Lazy loaded for TBT optimization (#537)
@@ -14826,7 +14828,7 @@ function BrandLandingPage({ brandSlug, drummers, onBack, onSelectDrummer, onNavi
                 {brand.name}
               </Text>
               <Text style={[styles.genreTagline, { color: theme.accent }]}>
-                {brandDrummers.length} drummer{brandDrummers.length !== 1 ? 's' : ''} • {brand.type === 'drums' ? 'Drum Brand' : 'Cymbal Brand'} • Est. {brand.foundedYear}
+                {brandDrummers.length} drummer{brandDrummers.length !== 1 ? 's' : ''} • {getBrandTypeLabel(brand.type)} Brand • Est. {brand.foundedYear}
               </Text>
             </View>
           </View>
@@ -15032,10 +15034,10 @@ function BrandLandingPage({ brandSlug, drummers, onBack, onSelectDrummer, onNavi
 
         {/* Related Brands - Browse Other Brands */}
         <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
-          <Text style={[styles.sectionTitle, { color: theme.text }]}>Explore Other {brand.type === 'drums' ? 'Drum' : 'Cymbal'} Brands</Text>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>Explore Other {getBrandTypeLabel(brand.type)} Brands</Text>
           <View style={[styles.flexRowWrap, styles.gap2]}>
-            {(brand.type === 'drums' ? getDrumBrandsData() : getCymbalBrandsData())
-              .filter(b => b.slug !== brandSlug)
+            {getAllBrandsData()
+              .filter(b => b.type === brand.type && b.slug !== brandSlug)
               .map((otherBrand) => (
                 <TouchableOpacity
                   key={otherBrand.slug}

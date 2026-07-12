@@ -358,6 +358,75 @@ Chris Adler's decade-plus run with Lamb of God on a Mapex Black Panther Design L
     ],
   },
 
+  sonor: {
+    slug: "sonor",
+    name: "Sonor",
+    type: "drums",
+    icon: "🥁",
+    color: "#6366f1",
+    foundedYear: "1875",
+    country: "Germany",
+    description:
+      "Sonor is a German drum manufacturer founded in 1875, one of the oldest percussion companies in the world. Home to signature snares for Tomas Haake and Nicko McBrain.",
+    longDescription: `Sonor has been building drums in Germany since 1875, making it one of the oldest percussion manufacturers still operating today. Best known for its modular SQ2 custom-drum system and premium beech-shell construction, Sonor has built a loyal following among metal drummers who want a distinct, cutting tone alongside the more common Japanese and American options.
+
+**Why Metal Drummers Choose Sonor:**
+- **SQ2 Drum System** – Fully modular, customizable shells built to order
+- **Signature Snares** – Purpose-built models for artists like Tomas Haake and Nicko McBrain
+- **German Engineering** – Precision manufacturing with a 150-year pedigree
+- **Distinct Tone** – Beech and maple shell options offer a different sonic signature than the Japanese/American norm
+
+**Metal Applications:**
+Sonor's snares in particular have found a home in extreme and progressive metal, prized for their focused attack and durability under blast-beat abuse. Tomas Haake's bronze-shell signature snare and Nicko McBrain's namesake model are both built to survive relentless touring.`,
+    history: {
+      foundedYear: 1875,
+      foundedPlace: "Weißenfels an der Saale, Germany",
+      founder: "Johannes Link",
+      story: [
+        "Sonor's story begins in 1875, when 28-year-old wood turner and tanner Johannes Link opened a small workshop in Weißenfels an der Saale, Germany, producing military-style marching drums and drumheads.",
+        "The business grew quickly: by the turn of the century Link employed a staff of 53, and in 1907 the company registered the SONOR trademark with the Imperial Patent Office in Munich. Link's son Otto joined the family firm in 1906, and by 1925 Sonor had grown to 145 employees, among the largest drum makers of its kind.",
+        "In the early 20th century Sonor pioneered the modern screw-thread drum-construction system and the metal-shell snare drum, innovations that shaped drum hardware design well beyond its own catalog.",
+        "World War II forced the Link family to flee Weißenfels when it fell under Soviet-controlled East Germany, leaving behind their original factory and machinery. In 1946, Otto Link and his son Horst rebuilt the company in Bad Berleburg, West Germany, where Sonor remains headquartered today.",
+        "Rebuilt Sonor built its reputation over the following decades on premium beech-shell construction and the modular SQ2 custom-drum system, and its snare drums in particular became a favorite of touring metal drummers who wanted a distinct, cutting shell tone alongside the more common Tama and Pearl options.",
+      ],
+      milestones: [
+        { year: 1875, event: "Johannes Link opens a workshop producing marching drums and drumheads in Weißenfels an der Saale, Germany." },
+        { year: 1907, event: "The SONOR trademark is registered at the Imperial Patent Office in Munich." },
+        { year: 1925, event: "Sonor grows to 145 employees, becoming one of the largest drum manufacturers of its kind." },
+        { year: 1946, event: "Otto Link and his son Horst rebuild the company in Bad Berleburg, West Germany, after fleeing Soviet-controlled East Germany." },
+      ],
+      metalEra: "Sonor's snares have become a fixture on extreme and progressive metal rosters through signature models: Tomas Haake (Meshuggah) plays a Sonor signature bronze-shell snare, and Nicko McBrain (Iron Maiden) has his own namesake Sonor signature snare. Other metal drummers on the verified roster, including Jan Axel \"Hellhammer\" Blomberg (Mayhem) and Frost (Satyricon), have used Sonor's modular SQ2 maple snares for their focused, cutting attack.",
+      sources: ["https://en.wikipedia.org/wiki/Sonor"],
+    },
+    themeLinks: [
+      { path: "/snares/signature/tomas-haake", label: "See Tomas Haake's Sonor Signature Snare" },
+      { path: "/snares/signature/nicko-mcbrain", label: "See Nicko McBrain's Sonor Signature Snare" },
+    ],
+    metaTitle: "Sonor Metal Drummers - Who Plays Sonor Drums | MetalForge",
+    metaDescription:
+      "Discover which metal drummers play Sonor drums and snares. From Tomas Haake's signature snare to the modular SQ2 system, explore Sonor setups used in metal.",
+    keywords: ["sonor drums", "sonor metal drummers", "sonor sq2", "tomas haake snare", "nicko mcbrain snare"],
+    popularModels: [
+      { name: "SQ2 Drum System", description: "Fully modular, made-to-order shells with a wide range of finish and hardware options", affiliate: "sonor-sq2" },
+      { name: "Tomas Haake Signature Snare", description: "Bronze-shell signature snare built for Meshuggah's Tomas Haake", affiliate: "sonor-tomas-haake-signature" },
+      { name: "Nicko McBrain Signature Snare", description: "14x6.5\" namesake signature snare for Iron Maiden's Nicko McBrain", affiliate: "sonor-nicko-mcbrain-signature" },
+    ],
+    faq: [
+      {
+        question: "What Sonor drums do metal drummers use?",
+        answer: "Metal drummers on Sonor typically use the modular SQ2 system for their kits, alongside signature snares like Tomas Haake's bronze-shell model and Nicko McBrain's namesake snare."
+      },
+      {
+        question: "Is Sonor good for metal?",
+        answer: "Yes. Sonor's beech and maple shells offer a distinct, cutting tone that stands apart from the more common Japanese and American drum brands, and its snares are built to survive the abuse of blast-beat drumming."
+      },
+      {
+        question: "What snare does Tomas Haake play?",
+        answer: "Tomas Haake of Meshuggah plays a Sonor signature bronze-shell snare drum, built to his own specifications."
+      }
+    ],
+  },
+
   // ==================== CYMBAL BRANDS ====================
   zildjian: {
     slug: "zildjian",
@@ -763,6 +832,409 @@ Remo's manufacturing consistency and broad lineup mean drummers can dial in exac
       }
     ],
   },
+  // ==================== DRUMSTICK BRANDS ====================
+  "vic-firth": {
+    slug: "vic-firth",
+    name: "Vic Firth",
+    type: "sticks",
+    icon: "🥢",
+    color: "#d946ef",
+    foundedYear: "1963",
+    country: "USA",
+    description:
+      "Vic Firth is the industry's most prestigious drumstick and mallet maker, founded in 1963 by Boston Symphony timpanist Vic Firth. The American Classic 5A/5B sizing is the reference every other brand is measured against.",
+    longDescription: `Vic Firth has set the standard for drumsticks and mallets since 1963, when Boston Symphony Orchestra timpanist Vic Firth began hand-crafting his own sticks to fit his exacting orchestral standards. Now part of the Zildjian family of brands, Vic Firth remains the reference point the rest of the industry measures its stick sizing against.
+
+**Why Metal Drummers Choose Vic Firth:**
+- **American Classic Series** – The industry-standard 5A/5B/2B sizing other brands are measured against
+- **American Classic Metal** – A long, thick variant built for extra reach and power
+- **Signature Series** – Artist-specific models built to the exact specs of metal's biggest names
+- **Extreme (X5A/X5B)** – Stretched-length versions for more leverage without a full weight-class jump
+
+**Metal Applications:**
+Vic Firth's signature roster includes some of metal's most recognizable drummers, and its American Classic line remains the most widely used stick across every metal subgenre — from George Kollias' blast-beat speed to Nicko McBrain's five-decade Iron Maiden career.`,
+    history: {
+      foundedYear: 1963,
+      foundedPlace: "Massachusetts, USA",
+      founder: "Everett \"Vic\" Firth",
+      story: [
+        "Vic Firth (born Everett Joseph Firth) joined the Boston Symphony Orchestra as a percussionist in 1952 at just 20 years old, hired by legendary conductor Charles Munch, and was promoted to principal timpanist in 1956 — a position he held for 46 years until his retirement in 2002.",
+        "Dissatisfied with the drumstick options available to orchestral players, Firth began hand-crafting his own drumsticks and mallets to fit his exacting standards, and in 1963 turned that side project into a company bearing his name, based in Massachusetts.",
+        "Vic Firth built its reputation on the American Classic line, whose 5A/5B/2B sizing became the de facto industry reference point that other manufacturers' stick sizing is still measured against today.",
+        "In December 2010, Vic Firth Company merged with the centuries-old Avedis Zildjian Company, joining Zildjian's family of percussion brands while continuing to operate under its own name.",
+        "Firth continued performing with the Boston Symphony and running the company simultaneously for decades, teaching at the New England Conservatory and Boston University, until his death in 2015.",
+      ],
+      milestones: [
+        { year: 1952, event: "Vic Firth joins the Boston Symphony Orchestra as a percussionist." },
+        { year: 1956, event: "Firth is promoted to principal timpanist of the Boston Symphony Orchestra, a post he holds for 46 years." },
+        { year: 1963, event: "Firth founds the Vic Firth Company in Massachusetts to manufacture his own drumstick and mallet designs." },
+        { year: 2010, event: "Vic Firth Company merges with the Avedis Zildjian Company." },
+      ],
+      metalEra: "Vic Firth's American Classic 5A/5B is among the most widely used stick models across every metal subgenre, and the brand's signature roster includes some of metal's biggest names: George Kollias (Nile) plays the SGK signature, Nicko McBrain (Iron Maiden) the SNM, and Vinnie Paul (Pantera) had his own SVP model. The American Classic Metal and Extreme (X5A/X5B) lines extend that lineup with purpose-built heavier, longer variants for hard-hitting players.",
+      sources: ["https://vicfirth.com", "https://en.wikipedia.org/wiki/Vic_Firth"],
+    },
+    themeLinks: [
+      { path: "/drumsticks/brands/vic-firth", label: "Explore Vic Firth in the Drumstick Guide" },
+    ],
+    metaTitle: "Vic Firth Metal Drummers - Who Plays Vic Firth Sticks | MetalForge",
+    metaDescription:
+      "Discover which metal drummers play Vic Firth drumsticks. From George Kollias' SGK to Nicko McBrain's SNM signature, explore Vic Firth setups used in metal.",
+    keywords: ["vic firth drumsticks", "vic firth metal drummers", "vic firth american classic", "george kollias sticks", "nicko mcbrain sticks"],
+    popularModels: [
+      { name: "American Classic 5A/5B", description: "The industry-reference stick sizing every other brand is measured against", affiliate: "vic-firth-american-classic" },
+      { name: "American Classic Metal", description: "A long, thick American Classic variant built for extra reach and power", affiliate: "vic-firth-american-classic-metal" },
+      { name: "SGK Signature", description: "George Kollias' signature model, built for extreme-speed blast-beat drumming", affiliate: "vic-firth-sgk" },
+    ],
+    faq: [
+      {
+        question: "What Vic Firth sticks do metal drummers use?",
+        answer: "Metal drummers commonly use the American Classic 5A or 5B, or one of Vic Firth's signature models — George Kollias plays the SGK, Nicko McBrain the SNM, and Vinnie Paul used the SVP."
+      },
+      {
+        question: "Is Vic Firth good for metal?",
+        answer: "Yes. Vic Firth is the industry's reference stick maker, and lines like American Classic Metal and the Extreme (X5A/X5B) series are built specifically for the extra reach and power metal drumming demands."
+      },
+      {
+        question: "Who owns Vic Firth?",
+        answer: "Vic Firth Company merged with the Avedis Zildjian Company in December 2010 and continues to operate under its own name as part of Zildjian's family of percussion brands."
+      }
+    ],
+  },
+
+  "pro-mark": {
+    slug: "pro-mark",
+    name: "Pro-Mark",
+    type: "sticks",
+    icon: "🥢",
+    color: "#84cc16",
+    foundedYear: "1957",
+    country: "USA",
+    description:
+      "Pro-Mark is a Houston, Texas drumstick maker founded in 1957 by Herb Brochstein, the first US stick brand to bring Japanese Shira Kashi white oak to market. Now part of D'Addario.",
+    longDescription: `Pro-Mark has been manufacturing drumsticks out of Houston, Texas since 1957, when founder Herb Brochstein turned a chance discovery of Japanese-made sticks into an import business. Now part of D'Addario, Pro-Mark remains one of the largest stick catalogs in the industry, with products exported to some 110 countries.
+
+**Why Metal Drummers Choose Pro-Mark:**
+- **Broad Catalog** – One of the largest drumstick lineups in the industry
+- **Shira Kashi Oak** – The first US brand to bring this dense Japanese white oak to market
+- **Model 2B** – An extra-heavy, extra-wide stick built for the hardest hitters
+- **Signature Series** – Artist models spanning rock, metal, and beyond
+
+**Metal Applications:**
+Pro-Mark's wide range of weights and materials, including its extra-heavy 2B model, has made it a reliable choice for hard-hitting metal drummers who need durability without sacrificing feel.`,
+    history: {
+      foundedYear: 1957,
+      foundedPlace: "Houston, Texas, USA",
+      founder: "Herb Brochstein",
+      story: [
+        "Pro-Mark traces back to a chance encounter in 1950s Houston: drummer and shop owner Herb Brochstein was sold six pairs of Japanese-made drumsticks by a passing salesman, and found them better made than the domestic sticks he'd been selling.",
+        "Brochstein tracked down the Japanese factory through contact Tatsuo Kosaka, and in 1957 founded Pro-Mark — its name derived from \"The Mark of a Professional\" — to import and sell the sticks in the United States.",
+        "Pro-Mark became the first stick maker to bring Japanese Shira Kashi white oak to the US market, an alternative to hickory that built a distinct niche in the company's catalog.",
+        "The company remained a family business for over five decades, passing from Herb Brochstein to his son Maury Brochstein, until D'Addario & Company purchased Pro-Mark in 2011.",
+        "Now operating as part of D'Addario's stable of percussion brands alongside Evans drumheads, Pro-Mark's factory and offices remain in Houston, with products exported to roughly 110 countries and a roster of endorsers spanning rock, metal, jazz, and marching percussion.",
+      ],
+      milestones: [
+        { year: 1957, event: "Herb Brochstein founds Pro-Mark in Houston, Texas, to import Japanese-made drumsticks." },
+        { year: 2011, event: "D'Addario & Company purchases Pro-Mark from the Brochstein family." },
+        { year: 2013, event: "Founder Herb Brochstein passes away at age 85, having led Pro-Mark for over five decades." },
+      ],
+      metalEra: "Pro-Mark's broad, durable catalog — including its extra-heavy, extra-wide Model 2B — has made it a common choice for hard-hitting rock and metal drummers. Since the 2011 D'Addario acquisition, Pro-Mark has kept a broad artist roster across rock and metal alongside its jazz and marching lineup, distributed through D'Addario's retail network.",
+      sources: ["https://www.daddario.com/pages/promark-find-your-drumstick", "https://en.wikipedia.org/wiki/Pro-Mark"],
+    },
+    themeLinks: [
+      { path: "/drumsticks/brands/pro-mark", label: "Explore Pro-Mark in the Drumstick Guide" },
+    ],
+    metaTitle: "Pro-Mark Metal Drummers - Who Plays Pro-Mark Sticks | MetalForge",
+    metaDescription:
+      "Discover which metal drummers play Pro-Mark drumsticks. From the Shira Kashi oak lineup to the extra-heavy Model 2B, explore Pro-Mark setups used in metal.",
+    keywords: ["pro-mark drumsticks", "promark metal drummers", "pro-mark shira kashi", "pro-mark 2b", "herb brochstein"],
+    popularModels: [
+      { name: "Model 2B", description: "Extra-heavy weight and extra-wide diameter, built for the hardest of hitters", affiliate: "pro-mark-2b" },
+      { name: "Shira Kashi White Oak Series", description: "Dense Japanese white oak sticks, an alternative to hickory for extra durability", affiliate: "pro-mark-shira-kashi" },
+      { name: "Signature Series", description: "Artist-specific models spanning rock, metal, and marching percussion", affiliate: "pro-mark-signature" },
+    ],
+    faq: [
+      {
+        question: "What Pro-Mark sticks do metal drummers use?",
+        answer: "Hard-hitting metal drummers commonly reach for the Pro-Mark Model 2B, an extra-heavy, extra-wide stick, or the brand's Shira Kashi white oak sticks for added durability."
+      },
+      {
+        question: "Is Pro-Mark good for metal?",
+        answer: "Yes. Pro-Mark's broad catalog spans a wide range of weights and materials, and its Shira Kashi white oak sticks and extra-heavy 2B model give hard-hitting metal drummers durable options."
+      },
+      {
+        question: "Who owns Pro-Mark now?",
+        answer: "D'Addario & Company purchased Pro-Mark from the Brochstein family in 2011. The company's factory and offices remain in Houston, Texas, where Herb Brochstein founded it in 1957."
+      }
+    ],
+  },
+
+  vater: {
+    slug: "vater",
+    name: "Vater",
+    type: "sticks",
+    icon: "🥢",
+    color: "#78716c",
+    foundedYear: "1991",
+    country: "USA",
+    description:
+      "Vater is a family-owned Massachusetts stick maker with roots in a 1950s Boston drum shop, launched as its own brand in 1991. Known for 100%-USA-manufactured consistency and metal endorsers like Jay Weinberg and Mike Mangini.",
+    longDescription: `Vater Percussion traces its roots to a 1950s Boston drum shop, though the branded company didn't launch until 1991. Built by the Vater family on 100%-USA manufacturing and batch-to-batch consistency, Vater has become a favorite of hard-hitting rock and metal drummers.
+
+**Why Metal Drummers Choose Vater:**
+- **USA Manufacturing** – 100% made in Holbrook, Massachusetts, with tight consistency
+- **Power Series** – Extra-thick, extra-durable models for hard-hitting players
+- **Signature Models** – Built to the exact specs of metal drummers like Jay Weinberg and Mike Mangini
+- **Family-Owned** – Independent, not part of a larger drum/cymbal conglomerate
+
+**Metal Applications:**
+Vater's consistency pitch — every pair playing identically — has built a following among metal drummers who don't want their feel changing from pack to pack, with signature models for Jay Weinberg (Slipknot), Mike Mangini (ex-Dream Theater), and Derek Roddy (Hate Eternal, Nile) among its endorsers.`,
+    history: {
+      foundedYear: 1991,
+      foundedPlace: "Holbrook, Massachusetts, USA",
+      founder: "Alan Vater and Ron Vater",
+      story: [
+        "Vater's roots reach back to the 1950s: Boston drummer Jack Adams ran Jack's Drum Shop, and in 1956 stick-turner Fred Maichle began hand-crafting drumsticks for the shop, occasionally supplying custom sticks to touring musicians like Philly Joe Jones, Louie Bellson, and Buddy Rich.",
+        "Adams's son-in-law Clarence \"Clarry\" Vater established the C. Vater Music Center in Norwood, Massachusetts, and Clarence's sons Alan and Ron Vater grew up working the shop alongside their father and grandfather.",
+        "Alan and Ron Vater began manufacturing drumsticks under contract for larger brands — first Vic Firth, then from 1986 Zildjian's own stick line — giving the family hands-on manufacturing experience well before launching a brand of its own.",
+        "The Vaters opened a dedicated factory in Holbrook, Massachusetts on October 22, 1988, and when the contract-manufacturing relationships with Zildjian and Vic Firth wound down soon after, they launched their own branded company, Vater Percussion, in 1991.",
+        "Vater grew into one of the top five American drumstick manufacturers by the mid-1990s, building its reputation on 100%-US-manufactured, batch-to-batch consistency — a pitch that has made it a favorite of hard-hitting rock and metal drummers.",
+      ],
+      milestones: [
+        { year: 1956, event: "Fred Maichle begins hand-turning drumsticks for Jack Adams's Jack's Drum Shop in the Boston area." },
+        { year: 1986, event: "Alan and Ron Vater begin manufacturing Zildjian's drumstick line under contract." },
+        { year: 1988, event: "The Vater family opens a dedicated factory in Holbrook, Massachusetts." },
+        { year: 1991, event: "Alan and Ron Vater launch Vater Percussion as its own branded company." },
+      ],
+      metalEra: "Vater's consistency-first manufacturing has built a metal following anchored by signature models: Jay Weinberg (Slipknot) plays the 908, Mike Mangini (ex-Dream Theater) the Wicked Piston (VHMMWP), and Derek Roddy (Hate Eternal, Nile) the Player's Design VHDRW. Brann Dailor (Mastodon) is a confirmed endorser of Vater's stock 5B Wood Tip.",
+      sources: ["https://www.namm.org/library/oral-history/alan-vater", "https://en.wikipedia.org/wiki/Vater_Percussion"],
+    },
+    themeLinks: [
+      { path: "/drumsticks/brands/vater", label: "Explore Vater in the Drumstick Guide" },
+    ],
+    metaTitle: "Vater Metal Drummers - Who Plays Vater Sticks | MetalForge",
+    metaDescription:
+      "Discover which metal drummers play Vater drumsticks. From Jay Weinberg's 908 to Mike Mangini's Wicked Piston, explore Vater setups used in metal.",
+    keywords: ["vater drumsticks", "vater metal drummers", "vater 908", "jay weinberg sticks", "mike mangini sticks"],
+    popularModels: [
+      { name: "908", description: "Jay Weinberg's signature model, blending 5A and 5B proportions", affiliate: "vater-908" },
+      { name: "Wicked Piston (VHMMWP)", description: "Mike Mangini's signature model, built for long reach and control", affiliate: "vater-wicked-piston" },
+      { name: "Power Series", description: "Extra-thick, extra-durable models aimed at hard-hitting players", affiliate: "vater-power" },
+    ],
+    faq: [
+      {
+        question: "What Vater sticks do metal drummers use?",
+        answer: "Vater's metal endorsers include Jay Weinberg (Slipknot) on the 908, Mike Mangini (ex-Dream Theater) on the Wicked Piston, and Derek Roddy (Hate Eternal, Nile) on the Player's Design VHDRW."
+      },
+      {
+        question: "Is Vater good for metal?",
+        answer: "Yes. Vater's 100%-USA manufacturing is built around tight batch-to-batch consistency, and its Power series offers extra-thick, extra-durable sticks for hard-hitting metal drummers."
+      },
+      {
+        question: "Where are Vater drumsticks made?",
+        answer: "Vater drumsticks are manufactured entirely in the USA, out of the company's factory in Holbrook, Massachusetts, which the Vater family opened in 1988."
+      }
+    ],
+  },
+
+  ahead: {
+    slug: "ahead",
+    name: "Ahead",
+    type: "sticks",
+    icon: "🥢",
+    color: "#9333ea",
+    foundedYear: "1992",
+    country: "USA",
+    description:
+      "Ahead pioneered the aluminum-core drumstick with a replaceable outer sleeve in 1992. Distributed by Big Bang Distribution out of California, Ahead is Lars Ulrich's current stick brand.",
+    longDescription: `Ahead has manufactured aluminum-core drumsticks since 1992, when a design from Easton Sports engineer Rick Grossman became the "Advanced High Efficiency Alloy Drumstick" — AHEAD for short. Distributed by Big Bang Distribution out of Northridge, California, Ahead's durability pitch has made it a touring-metal staple.
+
+**Why Metal Drummers Choose Ahead:**
+- **Aluminum Core** – A core that essentially can't break the way wood can
+- **Replaceable Sleeve** – When the outer sleeve wears out, replace the sleeve, not the whole stick
+- **Speed Metal Model** – Originally Joey Jordison's signature stick, kept in the catalog after his departure
+- **Signature Series** – Includes Lars Ulrich's current signature model
+
+**Metal Applications:**
+Ahead's multiple-times-longer-than-wood lifespan pitch has built a strong following among touring hard-rock and metal drummers who go through sticks fast, including Lars Ulrich (Metallica), whose current signature model is built on the Ahead aluminum platform.`,
+    history: {
+      foundedYear: 1992,
+      foundedPlace: "Northridge, California, USA",
+      founder: "Rick Grossman (design) and Bob Kasha (Big Bang Distribution)",
+      story: [
+        "In 1992, Rick Grossman of Easton Sports — already known for aerospace-grade aluminum baseball bats and hockey sticks — approached longtime multi-store drum retailer Bob Kasha with a design for a synthetic aluminum-core drumstick.",
+        "Kasha became a consultant to Easton on the project, and together they refined the design into the Advanced High Efficiency Alloy Drumstick, or AHEAD for short: an aluminum-core stick with a replaceable outer polyurethane sleeve, so a worn stick could be resleeved instead of thrown away entirely.",
+        "Kasha founded Big Bang Distribution in 1992 to bring the new sticks to market, sold his own retail stores in 1994 to focus on distribution, and in 1997 purchased the Ahead drumstick line outright from Easton Sports.",
+        "Based in Northridge, California, Big Bang Distribution has run Ahead ever since, building out the aluminum-stick concept into thrones, practice pads, and other percussion accessories alongside the original sticks.",
+        "Ahead's durability pitch built a strong following among touring rock and metal drummers who go through sticks fast, including a run as Joey Jordison's signature stick (originally the JJ1 model, later renamed Speed Metal after his departure) and, more recently, Lars Ulrich's own signature model.",
+      ],
+      milestones: [
+        { year: 1992, event: "Rick Grossman (Easton Sports) designs the first AHEAD aluminum-core drumstick; Bob Kasha founds Big Bang Distribution to bring it to market." },
+        { year: 1997, event: "Bob Kasha purchases the Ahead drumstick line outright from Easton Sports." },
+      ],
+      metalEra: "Ahead's near-unbreakable aluminum-core design built a following among touring metal drummers, most visibly through Joey Jordison's JJ1 signature stick (kept in the catalog as \"Speed Metal\" after his departure from the endorsement) and Lars Ulrich's (Metallica) current signature model, the Ahead LT.",
+      sources: ["https://bigbangdist.com/brands/ahead/"],
+    },
+    themeLinks: [
+      { path: "/drumsticks/brands/ahead", label: "Explore Ahead in the Drumstick Guide" },
+    ],
+    metaTitle: "Ahead Metal Drummers - Who Plays Ahead Sticks | MetalForge",
+    metaDescription:
+      "Discover which metal drummers play Ahead drumsticks. From Lars Ulrich's signature model to the Speed Metal line, explore Ahead's aluminum-core sticks used in metal.",
+    keywords: ["ahead drumsticks", "ahead metal drummers", "ahead speed metal", "lars ulrich sticks", "aluminum drumsticks"],
+    popularModels: [
+      { name: "Lars Ulrich Signature (LT)", description: "Lars Ulrich's current signature model, aluminum core with a teardrop nylon tip", affiliate: "ahead-lars-ulrich" },
+      { name: "Speed Metal (JJ1 / MT)", description: "Originally Joey Jordison's signature model, kept in the catalog after his endorsement ended", affiliate: "ahead-speed-metal" },
+      { name: "2B", description: "Extra-heavy weight and extra-wide diameter aluminum-core stick", affiliate: "ahead-2b" },
+    ],
+    faq: [
+      {
+        question: "What Ahead sticks does Lars Ulrich use?",
+        answer: "Lars Ulrich plays his own Ahead signature model (LT), an aluminum-core stick with a replaceable polyurethane/nylon sleeve and a teardrop nylon tip."
+      },
+      {
+        question: "Are Ahead drumsticks good for metal?",
+        answer: "Yes. Ahead's aluminum core essentially can't break the way wood can, and the replaceable outer sleeve means a worn stick can be resleeved rather than replaced entirely — a durability pitch that's built a strong following among touring metal drummers."
+      },
+      {
+        question: "How do Ahead drumsticks work?",
+        answer: "Ahead sticks use an aluminum core wrapped in a replaceable polyurethane sleeve. When the sleeve wears down from heavy playing, you swap the sleeve instead of buying a whole new stick, since the aluminum core is built to last far longer than wood."
+      }
+    ],
+  },
+
+  wincent: {
+    slug: "wincent",
+    name: "Wincent",
+    type: "sticks",
+    icon: "🥢",
+    color: "#be185d",
+    foundedYear: "1992",
+    country: "Sweden",
+    description:
+      "Wincent is a Swedish drumstick maker founded in 1992 by Dan Nylén, known for proprietary centerless-grinding precision and weight-matched pairs. Home to signature sticks for Tomas Haake and Mikkey Dee.",
+    longDescription: `Wincent has built drumsticks in Sweden since 1992, when founder Dan Nylén started making stick blanks in his parents' garage in the far north of the country. Now based in Gränna, Wincent remains independent and family-run, built on a precision-craftsmanship pitch rather than a mass-market one.
+
+**Why Metal Drummers Choose Wincent:**
+- **Centerless Grinding** – Proprietary manufacturing technique unique to Wincent
+- **Weight-Matched Pairs** – Sticks sorted so a pair plays within a few grams of each other
+- **Rock/Metal Series** – A dedicated heavier line, including the flagship METAL model
+- **Signature Models** – Built to the exact specs of Tomas Haake and Mikkey Dee
+
+**Metal Applications:**
+Wincent's precision-first approach found a following among hard-hitting metal drummers, most visibly through signature partnerships with Tomas Haake (Meshuggah) and Mikkey Dee (Motörhead, Scorpions), whose namesake sticks are built for extended reach and power.`,
+    history: {
+      foundedYear: 1992,
+      foundedPlace: "Robertsfors, Sweden (now headquartered in Gränna)",
+      founder: "Dan Nylén",
+      story: [
+        "Wincent was founded in 1992 by Dan Nylén, who began making drumstick blanks in his parents' garage in Robertsfors, a small village in the far north of Sweden.",
+        "Nylén eventually relocated the operation south to Gränna, on the shore of Lake Vättern, where Wincent remains headquartered today as an independent, family-run Swedish company.",
+        "The company reached its first full commercial product launch in 1995, built around Wincent's proprietary centerless-grinding manufacturing process — a technique unique to the brand.",
+        "Wincent built its reputation on weight-matching finished sticks so that a pair plays within a few grams of each other, a precision-craftsmanship pitch that set it apart from larger, higher-volume stick makers.",
+        "That consistency-first approach found a following among hard-hitting metal drummers, and Wincent built out a dedicated Rock/Metal series, including its heaviest METAL model, alongside signature partnerships with Tomas Haake (Meshuggah) and Mikkey Dee (Motörhead, Scorpions).",
+      ],
+      milestones: [
+        { year: 1992, event: "Dan Nylén founds Wincent, initially making drumstick rods in his parents' garage in Robertsfors, Sweden." },
+        { year: 1995, event: "Wincent reaches its first full commercial product launch." },
+      ],
+      metalEra: "Wincent's precision-manufacturing pitch built a metal following through signature partnerships: Tomas Haake (Meshuggah) plays the WTHS, a long, extended-shoulder model, and Mikkey Dee (Motörhead, Scorpions) plays the W-MDS, a 2B-style cut built for durability in one of the loudest bands on earth.",
+      sources: ["https://www.wincentdrumsticks.com/about", "https://www.wincentdrumsticks.com/drumsticks/rock-metal-series/"],
+    },
+    themeLinks: [
+      { path: "/drumsticks/brands/wincent", label: "Explore Wincent in the Drumstick Guide" },
+    ],
+    metaTitle: "Wincent Metal Drummers - Who Plays Wincent Sticks | MetalForge",
+    metaDescription:
+      "Discover which metal drummers play Wincent drumsticks. From Tomas Haake's WTHS to Mikkey Dee's W-MDS, explore Wincent setups used in metal.",
+    keywords: ["wincent drumsticks", "wincent metal drummers", "wincent rock metal series", "tomas haake sticks", "mikkey dee sticks"],
+    popularModels: [
+      { name: "WTHS (Tomas Haake Signature)", description: "Long, extended-shoulder signature model for Meshuggah's Tomas Haake", affiliate: "wincent-wths" },
+      { name: "Mikkey Dee Signature (W-MDS)", description: "2B-style cut signature model for Mikkey Dee (Motörhead, Scorpions)", affiliate: "wincent-wmds" },
+      { name: "Rock/Metal Series (METAL)", description: "Wincent's longest-reach, hardest-hitting stick model", affiliate: "wincent-metal" },
+    ],
+    faq: [
+      {
+        question: "What Wincent sticks do metal drummers use?",
+        answer: "Wincent's confirmed metal endorsers include Tomas Haake (Meshuggah), who plays the WTHS, and Mikkey Dee (Motörhead, Scorpions), who plays the W-MDS signature model."
+      },
+      {
+        question: "Is Wincent good for metal?",
+        answer: "Yes. Wincent's centerless-grinding process and weight-matching mean every pair plays consistently, and its dedicated Rock/Metal series (including the METAL model) is built specifically for high-power playing."
+      },
+      {
+        question: "Where is Wincent based?",
+        answer: "Wincent is an independent, family-run Swedish company founded in 1992 by Dan Nylén, now headquartered in Gränna, Sweden."
+      }
+    ],
+  },
+
+  // ==================== PEDAL BRANDS ====================
+  axis: {
+    slug: "axis",
+    name: "Axis",
+    type: "pedals",
+    icon: "⚙️",
+    color: "#475569",
+    foundedYear: "1990",
+    country: "USA",
+    description:
+      "Axis is a California direct-drive pedal maker founded in 1990 by drummer and machinist Darrell Johnston. The rigid, zero-lag feel of Axis pedals has made the brand an extreme-metal icon.",
+    longDescription: `Axis Percussion has built direct-drive bass drum pedals since 1990, when drummer and machinist Darrell Johnston set out to eliminate the flex and lag inherent in chain-drive designs. Now operating as AXiS Pedal & Drum Co., the brand's rigid, zero-lag feel has made it a defining choice in extreme metal.
+
+**Why Metal Drummers Choose Axis:**
+- **Direct Drive** – A rigid rod connecting footboard directly to beater, with no chain or belt
+- **Adjustable Cam** – Lets players precisely dial in the pedal's feel and response
+- **Longboard Models** – Extended footboard options for players who need more leverage
+- **Speed & Consistency** – Zero-lag feel built for the fastest, most demanding blast-beat drumming
+
+**Metal Applications:**
+Axis's direct-drive design has made it a favorite among extreme metal drummers chasing maximum blast-beat speed, including Jan Axel "Hellhammer" Blomberg of black metal pioneers Mayhem, who builds his kit around Axis's zero-lag feel.`,
+    history: {
+      foundedYear: 1990,
+      foundedPlace: "Southern California, USA",
+      founder: "Darrell Johnston",
+      story: [
+        "Axis Percussion was founded in 1990 by drummer and machinist Darrell Johnston, who set out to build a bass drum pedal free of the flex and lag inherent in traditional chain-drive designs.",
+        "After early prototypes, Johnston landed on a direct-drive mechanism — a rigid rod connecting footboard directly to beater, with no chain or belt — paired with a cam design that let players precisely dial in the pedal's feel and response.",
+        "The AXiS pedal debuted publicly at the 1991 NAMM show and drew coverage in Modern Drummer magazine, quickly building a reputation among drummers for its speed, consistency, and durability under heavy use.",
+        "Now operating as AXiS Pedal & Drum Co., the company has grown from its Southern California roots into a Northern California/San Francisco Bay Area headquarters with additional manufacturing in Wisconsin, while keeping direct-drive design as its core identity.",
+        "That zero-lag, rigid-rod feel made Axis a favorite of extreme metal drummers chasing maximum blast-beat speed, with players across death, black, and progressive metal building their double-pedal setups around Axis's Longboard and standard models.",
+      ],
+      milestones: [
+        { year: 1990, event: "Darrell Johnston founds Axis Percussion in Southern California, developing the first direct-drive bass drum pedal prototypes." },
+        { year: 1991, event: "The AXiS direct-drive pedal debuts publicly at the NAMM trade show." },
+      ],
+      metalEra: "Axis's rigid, zero-lag direct-drive feel has made it an extreme-metal staple: Jan Axel \"Hellhammer\" Blomberg (Mayhem) plays an Axis double pedal, Alex Bent (Trivium) uses the Axis A Longboard double pedal, and Martin Lopez (ex-Opeth, Soen) has built his setup around an Axis Percussion double pedal.",
+      sources: ["https://axispdc.com/pages/about-axis"],
+    },
+    themeLinks: [
+      { path: "/pedals/drive-types", label: "Explore Direct-Drive Pedals in the Pedal Guide" },
+    ],
+    metaTitle: "Axis Metal Drummers - Who Plays Axis Pedals | MetalForge",
+    metaDescription:
+      "Discover which metal drummers play Axis bass drum pedals. From Hellhammer's blast-beat speed to the Longboard double pedal, explore Axis setups used in metal.",
+    keywords: ["axis pedals", "axis metal drummers", "axis direct drive", "axis longboard", "hellhammer pedals"],
+    popularModels: [
+      { name: "AXiS Longboard", description: "Extended footboard direct-drive double pedal for extra leverage", affiliate: "axis-longboard" },
+      { name: "AXiS A", description: "Axis's flagship direct-drive double pedal with an adjustable cam", affiliate: "axis-a" },
+      { name: "AXiS Percussion Double Pedal", description: "Direct-drive double pedal built for zero-lag speed and consistency", affiliate: "axis-percussion" },
+    ],
+    faq: [
+      {
+        question: "What Axis pedal do metal drummers use?",
+        answer: "Jan Axel \"Hellhammer\" Blomberg (Mayhem) plays an Axis double pedal, Alex Bent (Trivium) uses the Axis A Longboard, and Martin Lopez (ex-Opeth, Soen) has built his kit around an Axis Percussion double pedal."
+      },
+      {
+        question: "Why do extreme metal drummers use Axis pedals?",
+        answer: "Axis pedals use a direct-drive mechanism — a rigid rod with no chain or belt — for the fastest, most consistent response of any drive type, with minimal unaccounted-for flex. That zero-lag feel suits the speed extreme metal and blast-beat drumming demand."
+      },
+      {
+        question: "What is direct drive on a bass drum pedal?",
+        answer: "Direct drive connects the footboard straight to the beater shaft with a rigid rod instead of a chain or belt, eliminating slack for the most immediate, consistent power transfer. Axis pioneered the design in 1990."
+      }
+    ],
+  },
+
 };
 
 // Helper functions for brand data access

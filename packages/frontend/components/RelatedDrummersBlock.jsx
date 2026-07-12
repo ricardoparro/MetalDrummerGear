@@ -14,6 +14,7 @@ import React, { useMemo } from 'react';
 import { View, Text, StyleSheet, Platform, TouchableOpacity } from 'react-native';
 import { Image } from 'expo-image';
 import { extractBrand } from '../data/gearCategoryPages';
+import { isLocalDrummerImage, getLocalDrummerImageUrl } from '../imageUtils';
 
 // Slugify a drummer name into the /drummer/<slug> path segment.
 // Mirrors toSlug() in App.js so links resolve to canonical profile URLs.
@@ -87,11 +88,22 @@ function RelatedDrummerCard({ item, theme }) {
   const url = `/drummer/${toSlug(related.name)}`;
   // Descriptive anchor text — not the bare name — to carry SEO weight.
   const anchorText = `${related.name}'s ${related.band} setup`;
+  // Issue #4481: this card renders at ~150-250px wide, but was requesting the
+  // full, unsized original drummer photo (often 800px+) instead of a
+  // pre-generated responsive size. That's wasted bandwidth on its own, and
+  // when this same drummer is also shown elsewhere on the page (e.g. the
+  // preload in App.js's preloadThumbnails, or another related-drummers rail),
+  // both call sites requested the exact same bare URL — a genuine duplicate
+  // fetch. Route through the same local-responsive-size helper ImageWithFallback
+  // uses so this always resolves to a "-200w.webp"-style variant instead.
+  const relatedImageUri = related.image && isLocalDrummerImage(related.image)
+    ? getLocalDrummerImageUrl(related.image, 200)
+    : related.image;
 
   const card = (
     <View style={[styles.card, { backgroundColor: theme.background, borderColor: theme.border }]}>
       <Image
-        source={related.image ? { uri: related.image } : undefined}
+        source={relatedImageUri ? { uri: relatedImageUri } : undefined}
         style={styles.image}
         contentFit="cover"
         cachePolicy="memory-disk"

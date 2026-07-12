@@ -3,7 +3,7 @@ import './fixCssStyles';
 // BUILD_TIMESTAMP: 2026-03-22T10:15:00Z - TBT Optimization (Issues #666, #667, #668, #669, #753)
 
 // Critical CSS injection - must be early for LCP optimization
-import { initCriticalCss, preloadLcpImage } from './utils/performance/criticalCss';
+import { initCriticalCss } from './utils/performance/criticalCss';
 import { yieldToMain, processInChunks, scheduleTask, TaskPriority, runIdleTasks, runProgressiveIdleTasks } from './utils/performance/taskScheduler';
 import { scheduleIdlePreload } from './utils/performance/lazyRoutes';
 // LCP Optimization (Issue #752) - Mobile LCP improvements
@@ -1382,6 +1382,34 @@ function trackEvent(name, params) {
   window.gtag('event', name, params);
 }
 
+// Defers loading a heavy data chunk until its placeholder scrolls near the
+// viewport, instead of on mount — keeps route chunks the homepage never
+// renders (e.g. albumArticles, top10Lists) out of the initial page load.
+function useLazyVisible(rootMargin = '200px') {
+  const ref = useRef(null);
+  const [isVisible, setIsVisible] = useState(false);
+  useEffect(() => {
+    if (Platform.OS !== 'web' || typeof window === 'undefined' || typeof IntersectionObserver === 'undefined') {
+      setIsVisible(true);
+      return;
+    }
+    const el = ref.current;
+    if (!el) return;
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setIsVisible(true);
+          observer.disconnect();
+        }
+      },
+      { rootMargin }
+    );
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, []);
+  return [ref, isVisible];
+}
+
 // Fires a section_impression event once per session when the element scrolls into view.
 function useSectionImpression(sectionName) {
   const ref = useRef(null);
@@ -2569,19 +2597,22 @@ function TopListsSection({ theme, onNavigateToList }) {
   const [lists, setLists] = useState([]);
   const [isLoaded, setIsLoaded] = useState(false);
   const sectionRef = useSectionImpression('top_lists');
+  const [lazyRef, isVisible] = useLazyVisible();
 
-  // Load top 10 lists data lazily
+  // Load top 10 lists data lazily, only once the section nears the viewport
+  // (perf: #4408 - homepage must not download the 831KB top10Lists chunk upfront)
   useEffect(() => {
+    if (!isVisible) return;
     loadTop10Lists().then(module => {
       _top10ListsModule = module;
       setLists(module.getAllTop10Lists());
       setIsLoaded(true);
     });
-  }, []);
+  }, [isVisible]);
 
-  // Don't render until data is loaded
+  // Don't render until data is loaded; keep a placeholder for IntersectionObserver
   if (!isLoaded || lists.length === 0) {
-    return null;
+    return <View ref={lazyRef} />;
   }
 
   return (
@@ -2633,9 +2664,12 @@ function AlbumArticlesSection({ theme }) {
   const [albumArticles, setAlbumArticles] = useState([]);
   const [isLoaded, setIsLoaded] = useState(false);
   const sectionRef = useSectionImpression('album_articles');
-  
-  // Load album articles lazily - performance optimization (#708)
+  const [lazyRef, isVisible] = useLazyVisible();
+
+  // Load album articles lazily, only once the section nears the viewport
+  // (perf: #4408 - homepage must not download the 2.5MB albumArticles chunk upfront)
   useEffect(() => {
+    if (!isVisible) return;
     if (isAlbumArticlesLoaded()) {
       setAlbumArticles(getAllAlbumArticles());
       setIsLoaded(true);
@@ -2645,9 +2679,9 @@ function AlbumArticlesSection({ theme }) {
         setIsLoaded(true);
       });
     }
-  }, []);
+  }, [isVisible]);
 
-  if (!isLoaded || albumArticles.length === 0) return null;
+  if (!isLoaded || albumArticles.length === 0) return <View ref={lazyRef} />;
 
   return (
     <View ref={sectionRef} style={[styles.topListsSection, { backgroundColor: 'transparent', marginTop: 8 }]}>
@@ -24428,7 +24462,10 @@ function AppContent() {
         () => preloadGearComparisons(), // 34KB - Gear comparisons
         // Low priority: Less frequently accessed
         () => preloadTechniques(),      // 43KB - Technique pages
-        () => preloadTop10Lists(),      // 40KB - Top 10 lists
+        // Note: preloadTop10Lists (831KB, perf: #4408) removed from initial idle
+        // preload - the homepage must not download it until TopListsSection
+        // actually scrolls into view. It still loads on-demand via
+        // TopListsSection/TopListPage when needed.
         () => preloadExtendedBios(),    // 559KB - Extended bios (HEAVY - load late)
         () => preloadDrummerComparisons(), // 40KB - Drummer comparisons (Issue #558)
         // Lowest priority: Content pages loaded only when needed - Issue #708
@@ -24460,22 +24497,14 @@ function AppContent() {
     }
   }, []);
   
-  // LCP Optimization (Issue #667): Preload spotlight image and above-fold content
-  // The spotlight drummer image is typically the LCP element on mobile
-  useEffect(() => {
-    if (Platform.OS !== 'web' || typeof document === 'undefined') return;
-    
-    // Preload spotlight/LCP image with highest priority
-    if (apiSpotlight?.image) {
-      // Use the criticalCss utility for proper LCP preloading
-      const spotlightImageUrl = getOptimizedImageUrl(apiSpotlight.image, { 
-        width: IMAGE_WIDTHS.spotlight,
-        format: 'webp'
-      });
-      preloadLcpImage(spotlightImageUrl);
-    }
-  }, [apiSpotlight]);
-  
+  // Note (perf: #4408): the spotlight/LCP image is already preloaded by the
+  // build-time <link rel=preload> injected into index.html (scripts/inject-ga.cjs),
+  // which matches the exact -100w/-200w responsive variant the DrummerSpotlight
+  // <img> srcset requests. A client-side preloadLcpImage() used to run here too,
+  // but it called getOptimizedImageUrl() without a valid IMAGE_WIDTHS entry, so it
+  // preloaded the unsized original image - a second, wasted request for the same
+  // drummer photo that never matched what actually got rendered.
+
   // Preload above-fold drummer images for faster LCP (Issue #442, #667)
   // This preloads the first 6 drummer card images after data loads
   useEffect(() => {

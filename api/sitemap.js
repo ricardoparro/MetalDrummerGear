@@ -87,6 +87,10 @@ import { ENDORSEMENT_TIMELINE } from '../packages/frontend/data/endorsementNews.
 import { DRUMMER_PEDALS } from '../packages/frontend/data/pedals.js';
 // Issue #4432 (split 1/3 of #4394): /pedals/brands/<brand> pages.
 import { PEDAL_BRANDS } from '../packages/frontend/data/pedalBrands.js';
+// Issue #4453: /brands/<slug> + /llms/brands/<slug>.md pages — source slugs
+// from the canonical brands data module so the sitemap stays in sync as
+// brands are added (was hardcoded to 10 of 18 live brands).
+import { getAllBrands } from '../packages/frontend/data/brands.js';
 
 // Issue #4201: Content Scale Sprint - All 65 drummers now in sitemap
 const drummers = [
@@ -182,21 +186,10 @@ const techniques = [
 ];
 
 // Issue #656: Gear brand landing pages for SEO
-const gearBrands = [
-  // Drum Brands
-  { slug: 'tama', name: 'Tama', type: 'drums' },
-  { slug: 'pearl', name: 'Pearl', type: 'drums' },
-  { slug: 'dw', name: 'DW (Drum Workshop)', type: 'drums' },
-  { slug: 'ludwig', name: 'Ludwig', type: 'drums' },
-  // Cymbal Brands
-  { slug: 'zildjian', name: 'Zildjian', type: 'cymbals' },
-  { slug: 'paiste', name: 'Paiste', type: 'cymbals' },
-  { slug: 'meinl', name: 'Meinl', type: 'cymbals' },
-  { slug: 'sabian', name: 'Sabian', type: 'cymbals' },
-  // Drumhead Brands
-  { slug: 'evans', name: 'Evans', type: 'drumheads' },
-  { slug: 'remo', name: 'Remo', type: 'drumheads' },
-];
+// Issue #4453: sourced from getAllBrands() instead of a hand-maintained list
+// so this can never drift out of sync with packages/frontend/data/brands.js
+// again (was stuck at 10 of 18 live brands).
+const gearBrands = getAllBrands().map(b => ({ slug: b.slug, name: b.name, type: b.type }));
 
 // Issue #345: Gear comparison pages for SEO
 const gearComparisons = [

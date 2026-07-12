@@ -1954,6 +1954,13 @@ function getMetaForPath(pathname) {
     sabian: { name: 'Sabian', type: 'cymbals' },
     evans: { name: 'Evans', type: 'drumheads' },
     remo: { name: 'Remo', type: 'drumheads' },
+    sonor: { name: 'Sonor', type: 'drums' },
+    'vic-firth': { name: 'Vic Firth', type: 'drumsticks' },
+    'pro-mark': { name: 'Pro-Mark', type: 'drumsticks' },
+    vater: { name: 'Vater', type: 'drumsticks' },
+    ahead: { name: 'Ahead', type: 'drumsticks' },
+    wincent: { name: 'Wincent', type: 'drumsticks' },
+    axis: { name: 'Axis', type: 'pedals' },
   };
   const brandPageMatch = path.match(/^\/brands\/([a-z0-9-]+)$/);
   if (brandPageMatch) {

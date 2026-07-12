@@ -155,7 +155,10 @@ import {
   extractBrand as extractGearBrand,
 } from './data/gearCategoryPages';
 // Issue #1794: Genre gear guide pages — /guides/best-[gear]-for-[genre]
-import { GENRE_GEAR_GUIDES } from './data/genreGearGuides';
+// Issue #4409 (epic #4407 phase 2): only the slug/genre/title summary is
+// needed eagerly (route detection + GenreLandingPage cross-links); the full
+// ~7MB guide content is lazy-loaded by BeginnerGearGuide.js on the guide page.
+import { GENRE_GEAR_GUIDES_SUMMARY } from './data/genreGearGuides-summary';
 // Brand landing pages (Issue #656) - used to deep-link homepage gear callouts
 // to a real brand hub when the brand is recognized (Issue #1241)
 import { hasBrand } from './data/brands';
@@ -462,7 +465,7 @@ function isBeginnerGuidePage() {
   // Issue #1794: also detect genre gear guide pages at /guides/best-[gear]-for-[genre]
   if (typeof window !== 'undefined' && window.location.pathname.startsWith('/guides/')) {
     const slug = window.location.pathname.replace(/\/+$/, '').slice('/guides/'.length);
-    if (GENRE_GEAR_GUIDES[slug]) return true;
+    if (GENRE_GEAR_GUIDES_SUMMARY[slug]) return true;
   }
   return false;
 }
@@ -470,7 +473,7 @@ function getBeginnerGuideSlugFromURL() {
   // Issue #1794: return genre guide slug before deferring to module
   if (typeof window !== 'undefined' && window.location.pathname.startsWith('/guides/')) {
     const slug = window.location.pathname.replace(/\/+$/, '').slice('/guides/'.length);
-    if (GENRE_GEAR_GUIDES[slug]) return slug;
+    if (GENRE_GEAR_GUIDES_SUMMARY[slug]) return slug;
   }
   return _beginnerGuideModule?.getBeginnerGuideSlugFromURL?.() ?? 'beginner-metal-drummer-setup';
 }
@@ -14113,7 +14116,7 @@ function GenreLandingPage({ genreSlug, drummers, onBack, onSelectDrummer, onNavi
   // the shorter page slug (e.g. "death"), so match either form.
   const genreGearGuides = useMemo(() => {
     const candidateKeys = new Set([genreSlug, `${genreSlug}-metal`]);
-    return Object.values(GENRE_GEAR_GUIDES).filter(g => candidateKeys.has(g.genre));
+    return Object.values(GENRE_GEAR_GUIDES_SUMMARY).filter(g => candidateKeys.has(g.genre));
   }, [genreSlug]);
 
   // Update SEO meta tags for genre page with complete OG tags (Issue #672)

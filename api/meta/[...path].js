@@ -197,12 +197,15 @@ import {
 // Issue #4432 (split 1/3 of #4394): SSR meta + JSON-LD for
 // /pedals/brands/<brand> (Tama, Pearl, DW, Axis, Trick).
 import {
+  PEDAL_BRANDS,
   getBrand as getPedalBrand,
   getPedalsForBrand,
   generateBrandCanonicalUrl as generatePedalBrandCanonicalUrl,
+  generateBrandsHubCanonicalUrl as generatePedalBrandsHubCanonicalUrl,
   generateBrandTitle as generatePedalBrandTitle,
   generateBrandDescription as generatePedalBrandDescription,
   generateBrandSchema as generatePedalBrandSchema,
+  generateBrandsHubSchema as generatePedalBrandsHubSchema,
 } from '../../packages/frontend/data/pedalBrands.js';
 
 const BASE_URL = 'https://metalforge.io';
@@ -4263,6 +4266,19 @@ function getMetaForPath(pathname) {
         generatePedalBestForMetalFaqSchema(),
         generatePedalBestForMetalBreadcrumbSchema(),
       ].filter(Boolean)),
+    };
+  }
+
+  // Issue #4482: /pedals/brands hub — ItemList (all brands) + BreadcrumbList.
+  if (path === '/pedals/brands') {
+    const url = generatePedalBrandsHubCanonicalUrl();
+    return {
+      title: `Bass Drum Pedal Brands: Positioning & Which Metal Drummers Use Them | ${SITE_NAME}`,
+      description: `Compare ${PEDAL_BRANDS.length} bass drum pedal brands — company background, notable models, and confirmed metal drummer endorsements.`,
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url,
+      articleSchema: JSON.stringify(generatePedalBrandsHubSchema()),
     };
   }
 

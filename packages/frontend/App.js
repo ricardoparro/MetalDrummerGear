@@ -441,11 +441,12 @@ function isCymbalBrandPage() {
   return !!getCymbalBrandSlugFromURL();
 }
 
-// Pedal Brand Pages (Issue #4432, split 1/3 of #4394) - /pedals/brands/<brand>.
-// Only rendered for brands defined in data/pedalBrands.js — an unknown slug
-// falls through to the normal 404. No hub route (only 5 fixed brands; the
-// /pedals pillar page's "Major pedal brands" section links each one).
+// Pedal Brand Pages (Issue #4432, split 1/3 of #4394; hub added #4482) -
+// /pedals/brands + /pedals/brands/<brand>. Only rendered for brands defined
+// in data/pedalBrands.js — an unknown slug falls through to the normal 404.
+const LazyPedalBrandsHubPage = lazy(() => import('./components/PedalBrandsHubPage').then(m => ({ default: m.PedalBrandsHubPage })));
 const LazyPedalBrandPage = lazy(() => import('./components/PedalBrandPage').then(m => ({ default: m.PedalBrandPage })));
+function isPedalBrandsHubPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/pedals/brands'; }
 const PEDAL_BRAND_RE = /^\/pedals\/brands\/([a-z0-9-]+)\/?$/i;
 function getPedalBrandSlugFromURL() {
   if (typeof window === 'undefined') return null;
@@ -30068,6 +30069,28 @@ setShowList(false);
             onNavigateBestForMetal={() => {
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', '/cymbals/best-for-metal');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Pedal Brands Hub (Issue #4482) - /pedals/brands
+    if (isPedalBrandsHubPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyPedalBrandsHubPage
+            theme={theme}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrand={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/pedals/brands/${slug}`);
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}

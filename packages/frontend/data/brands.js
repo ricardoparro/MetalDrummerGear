@@ -1273,6 +1273,65 @@ export function getCymbalBrands() {
 }
 
 /**
+ * Get all drumstick brands
+ * @returns {Array} Array of drumstick brand objects
+ */
+export function getStickBrands() {
+  return Object.values(brands).filter(brand => brand.type === 'sticks');
+}
+
+/**
+ * Get all pedal brands
+ * @returns {Array} Array of pedal brand objects
+ */
+export function getPedalBrands() {
+  return Object.values(brands).filter(brand => brand.type === 'pedals');
+}
+
+// Era markers for the brand history timeline (Issue #4390, epic #4386 phase 3/3)
+const BRAND_ERAS = [
+  { label: '1600s', maxYear: 1699 },
+  { label: '1800s', maxYear: 1899 },
+  { label: 'Early 1900s', maxYear: 1944 },
+  { label: 'Post-War', maxYear: 1979 },
+  { label: 'Modern', maxYear: Infinity },
+];
+
+/**
+ * Get the era label for a founding year (1600s, 1800s, Early 1900s, Post-War, Modern)
+ * @param {number} year - The founding year
+ * @returns {string} The era label
+ */
+export function getBrandEra(year) {
+  const era = BRAND_ERAS.find(e => year <= e.maxYear);
+  return era ? era.label : 'Modern';
+}
+
+/**
+ * Get every brand with a structured founding history, ordered oldest -> youngest.
+ * Only includes brands with a numeric history.foundedYear (phases 1-2 verified data) -
+ * drumhead brands (Evans, Remo) still use the older unstructured history schema and
+ * are excluded until they're migrated.
+ * @returns {Array} Array of { slug, name, type, icon, color, foundedYear, foundedPlace, origin, era }
+ */
+export function getBrandsTimeline() {
+  return Object.values(brands)
+    .filter(brand => typeof brand.history?.foundedYear === 'number')
+    .map(brand => ({
+      slug: brand.slug,
+      name: brand.name,
+      type: brand.type,
+      icon: brand.icon,
+      color: brand.color,
+      foundedYear: brand.history.foundedYear,
+      foundedPlace: brand.history.foundedPlace,
+      origin: brand.history.story?.[0] || brand.description,
+      era: getBrandEra(brand.history.foundedYear),
+    }))
+    .sort((a, b) => a.foundedYear - b.foundedYear);
+}
+
+/**
  * Check if a brand exists
  * @param {string} slug - The brand slug to check
  * @returns {boolean} True if the brand exists
@@ -1347,11 +1406,13 @@ export function getDrummerBrandGear(drummer, brandSlug) {
 
 /**
  * Get brand by gear category
- * @param {string} category - 'drums' or 'cymbals'
+ * @param {string} category - 'drums', 'cymbals', 'sticks', or 'pedals'
  * @returns {Array} Array of brand objects
  */
 export function getBrandsByCategory(category) {
   if (category === 'drums') return getDrumBrands();
   if (category === 'cymbals') return getCymbalBrands();
+  if (category === 'sticks') return getStickBrands();
+  if (category === 'pedals') return getPedalBrands();
   return getAllBrands();
 }

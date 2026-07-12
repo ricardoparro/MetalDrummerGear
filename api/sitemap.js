@@ -571,7 +571,8 @@ export function buildSitemapXml() {
     // Issue #870, #994: Technique → drummers SEO pages (/technique/<slug>/drummers)
     // Same priority/changefreq pattern as drummer pages.
     ...getAllTechniqueSlugs().map(slug => ({ loc: `/technique/${slug}/drummers`, priority: '0.8', changefreq: 'monthly' })),
-    // Issue #656: Gear brand landing pages
+    // Issue #656: Gear brand landing pages. Issue #4390 (epic #4386 phase 3/3)
+    // upgraded /brands itself into a "1623 -> today" timeline + category hub.
     { loc: '/brands', priority: '0.9', changefreq: 'weekly' },
     ...gearBrands.map(b => ({ loc: `/brands/${b.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #345: Gear comparison pages

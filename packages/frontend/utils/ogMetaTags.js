@@ -192,10 +192,10 @@ export function updateGenreMeta(genre, isList = false) {
 export function updateBrandMeta(brand, isList = false) {
   if (isList) {
     updateOgMeta({
-      title: 'Metal Drum & Cymbal Brands - Tama, Pearl, Zildjian & More | MetalForge',
-      description: 'Explore top drum and cymbal brands used by metal drummers. Discover which legendary drummers play Tama, Pearl, DW, Zildjian, Paiste, Meinl, and Sabian.',
+      title: 'Drum & Cymbal Brand History: 1623 to Today | MetalForge',
+      description: 'The oldest cymbal company in music gear is a 1623 Constantinople foundry. Explore drum and cymbal brand history in a timeline from 1623 to today, plus brands grouped by category.',
       url: '/brands',
-      keywords: 'drum brands, cymbal brands, Tama drums, Pearl drums, Zildjian cymbals, Paiste cymbals, metal drummer equipment',
+      keywords: 'drum brand history, oldest cymbal company, when was zildjian founded, drum brands, cymbal brands, Tama drums, Pearl drums, Zildjian cymbals, Paiste cymbals, metal drummer equipment',
     });
     return;
   }

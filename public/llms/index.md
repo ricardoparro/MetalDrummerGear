@@ -522,6 +522,8 @@ Hub: [/llms/guides.md](https://metalforge.io/llms/guides.md) — overview of all
 
 ## Brands (per-brand, 16 brands)
 
+- [Brand History Timeline](https://metalforge.io/brands): All drum, cymbal, stick, and pedal brands ordered oldest to youngest by founding year (1623 to today), with era markers and a grouped-by-category browse view
+
 Per-brand deep-dive files optimised for AI retrieval on queries like "which metal drummers endorse DW?" or
 "what Pearl kits do death metal drummers use?".
 

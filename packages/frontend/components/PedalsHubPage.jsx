@@ -20,6 +20,7 @@ import {
 } from '../data/pedalReferencePages';
 import { PEDALS } from '../data/pedals';
 import { FACE_FOCUS } from '../data/drummerPhotoFocus';
+import { isValidPedalBrandSlug } from '../data/pedalBrands';
 
 function injectSchema(id, schema) {
   if (Platform.OS !== 'web' || typeof document === 'undefined' || !schema) return;
@@ -103,17 +104,38 @@ function SignaturePedalCard({ drummer, pedal, theme }) {
   return card;
 }
 
-function BrandRow({ brand, theme }) {
+function BrandRow({ brand, theme, onNavigateBrand }) {
+  const slug = toSlug(brand.name);
   const row = (
     <View style={styles.brandRow}>
       <Text style={[styles.brandName, { color: theme.primary || theme.text }]}>{brand.name}</Text>
       <Text style={[styles.brandNote, { color: theme.secondaryText || theme.text }]}>{brand.note}</Text>
     </View>
   );
+
+  if (isValidPedalBrandSlug(slug)) {
+    const url = `/pedals/brands/${slug}`;
+    if (Platform.OS === 'web') {
+      return (
+        <a
+          href={url}
+          onClick={(e) => {
+            if (onNavigateBrand) {
+              e.preventDefault();
+              onNavigateBrand(slug);
+            }
+          }}
+          style={{ textDecoration: 'none', display: 'block', width: '100%' }}
+        >
+          {row}
+        </a>
+      );
+    }
+  }
   return row;
 }
 
-export function PedalsHubPage({ theme: themeProp, drummers = [], onNavigateReference }) {
+export function PedalsHubPage({ theme: themeProp, drummers = [], onNavigateReference, onNavigateBrand }) {
   const theme = themeProp || themes.dark;
 
   useEffect(() => {
@@ -164,7 +186,7 @@ export function PedalsHubPage({ theme: themeProp, drummers = [], onNavigateRefer
 
       <Text style={[styles.h2, { color: theme.text }]}>Major pedal brands</Text>
       {PILLAR_PAGE.brands.map((brand) => (
-        <BrandRow key={brand.name} brand={brand} theme={theme} />
+        <BrandRow key={brand.name} brand={brand} theme={theme} onNavigateBrand={onNavigateBrand} />
       ))}
 
       <Text style={[styles.h2, { color: theme.text }]}>Best pedals for metal</Text>

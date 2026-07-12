@@ -85,6 +85,8 @@ import { ENDORSEMENT_TIMELINE } from '../packages/frontend/data/endorsementNews.
 // source slugs from the verified drummer→pedal mapping so the sitemap only
 // ever lists drummers with a confirmed pedal (no thin pages).
 import { DRUMMER_PEDALS } from '../packages/frontend/data/pedals.js';
+// Issue #4432 (split 1/3 of #4394, epic #4387 phase 4/4): /pedals/brands/<brand> pages.
+import { PEDAL_BRANDS } from '../packages/frontend/data/pedalBrands.js';
 
 // Issue #4201: Content Scale Sprint - All 65 drummers now in sitemap
 const drummers = [
@@ -662,6 +664,8 @@ export function buildSitemapXml() {
     // Issue #4392: /pedals pillar page + drive-types/single-vs-double/setup-tuning reference pages.
     { loc: '/pedals', priority: '0.9', changefreq: 'weekly' },
     ...PEDAL_REFERENCE_PAGE_ORDER.map(slug => ({ loc: `/pedals/${slug}`, priority: '0.85', changefreq: 'monthly' })),
+    // Issue #4432 (split 1/3 of #4394): /pedals/brands/<brand> pages.
+    ...PEDAL_BRANDS.map(brand => ({ loc: `/pedals/brands/${brand.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).
     { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },
@@ -714,6 +718,8 @@ export function buildSitemapXml() {
     { loc: '/llms/endorsement-news.md', priority: '0.6', changefreq: 'weekly' },
     // Issue #1416: endorsement hub LLM citation surface — cross-brand index of 15 drummers.
     { loc: '/llms/endorsements.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #4432 (split 1/3 of #4394): per-pedal-brand LLM markdown — one file per /pedals/brands/<brand> page.
+    ...PEDAL_BRANDS.map(brand => ({ loc: `/llms/pedals/brands/${brand.slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Issue #1435: per-drummer endorsement detail pages — one file per endorsement-tracked drummer.
     ...endorsementDrummers.map(slug => ({ loc: `/llms/endorsements/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Issue #1781: per-brand LLM markdown — sitemap entries for 8 files shipped in #1415

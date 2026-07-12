@@ -53,6 +53,7 @@ From Lars Ulrich's iconic thrash sound to George Kollias' blistering death metal
     },
     themeLinks: [
       { path: "/drumsticks/brands/tama", label: "Explore Tama in the Drumstick Guide" },
+      { path: "/pedals/brands/tama", label: "Explore Tama in the Pedal Guide" },
     ],
     metaTitle: "Tama Metal Drummers - Who Plays Tama Drums | MetalForge",
     metaDescription:
@@ -124,6 +125,9 @@ Pearl's metal legacy includes some of the genre's most iconic drummers. Joey Jor
       metalEra: "Vinnie Paul's Pearl kit — and Pearl's production of his signature snare — helped define the sound of groove metal through Pantera's catalog. Joey Jordison's rotating drum riser packed with Pearl Reference drums became one of the most recognizable images in Slipknot's live show, cementing Pearl's place as a metal-standard drum brand.",
       sources: ["https://en.wikipedia.org/wiki/Pearl_Drums"],
     },
+    themeLinks: [
+      { path: "/pedals/brands/pearl", label: "Explore Pearl in the Pedal Guide" },
+    ],
     metaTitle: "Pearl Metal Drummers - Who Plays Pearl Drums | MetalForge",
     metaDescription:
       "Explore which metal drummers play Pearl drums. From Joey Jordison to Vinnie Paul, discover their Pearl setups and signature gear.",
@@ -193,6 +197,9 @@ While DW is often associated with studio drummers, many metal artists choose DW 
       metalEra: "While DW is often associated with studio and session drummers, its Collector's Series shells and 9000 Series hardware give metal drummers the tuning range and heavy-duty durability needed for aggressive touring and recording, and the DW pedal lineage remains a common choice among metal drummers who want fast, adjustable, road-tested hardware.",
       sources: ["https://dwdrums.com/the-dw-story/"],
     },
+    themeLinks: [
+      { path: "/pedals/brands/dw", label: "Explore DW in the Pedal Guide" },
+    ],
     metaTitle: "DW Metal Drummers - Who Plays DW Drums | MetalForge",
     metaDescription:
       "Discover which metal drummers play DW drums. Explore the premium Collector's Series setups and custom configurations used by metal professionals.",
@@ -1209,6 +1216,7 @@ Axis's direct-drive design has made it a favorite among extreme metal drummers c
     },
     themeLinks: [
       { path: "/pedals/drive-types", label: "Explore Direct-Drive Pedals in the Pedal Guide" },
+      { path: "/pedals/brands/axis", label: "Explore Axis in the Pedal Guide" },
     ],
     metaTitle: "Axis Metal Drummers - Who Plays Axis Pedals | MetalForge",
     metaDescription:

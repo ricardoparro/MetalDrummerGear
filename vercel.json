@@ -606,6 +606,7 @@
     { "source": "/snares/best-for-metal", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=snares/best-for-metal" },
     { "source": "/snares/signature/:slug", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=snares/signature/:slug" },
     { "source": "/snares/:ref", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=snares/:ref" },
+    { "source": "/pedals/brands/:slug", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=pedals/brands/:slug" },
     { "source": "/((?!api/).*)", "destination": "/index.html" }
   ]
 }

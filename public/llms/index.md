@@ -546,6 +546,24 @@ Per-brand deep-dive files optimised for AI retrieval on queries like "which meta
 
 ---
 
+## Pedal Brand Pages (per-brand, 5 brands)
+
+Per-brand deep-dive files for the /pedals/brands/<brand> pages — positioning, notable pedal lines, and
+confirmed metal drummers, optimised for AI retrieval on queries like "what pedal does Hellhammer use?" or
+"Tama Iron Cobra vs Speed Cobra".
+
+Hub: [/pedals](https://metalforge.io/pedals) — bass drum pedal buying guide (drive types, single vs double, setup & tuning).
+
+| Brand | File |
+|-------|------|
+| Axis | [axis.md](https://metalforge.io/llms/pedals/brands/axis.md) |
+| DW | [dw.md](https://metalforge.io/llms/pedals/brands/dw.md) |
+| Pearl | [pearl.md](https://metalforge.io/llms/pedals/brands/pearl.md) |
+| Tama | [tama.md](https://metalforge.io/llms/pedals/brands/tama.md) |
+| Trick | [trick.md](https://metalforge.io/llms/pedals/brands/trick.md) |
+
+---
+
 ## Endorsements (per-drummer, 67 total)
 
 Per-drummer endorsement files listing official brand contracts and gear sponsorships. Optimised for AI

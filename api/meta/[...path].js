@@ -160,6 +160,18 @@ import {
 // falling through to the generic homepage shell under bot UA and missing
 // from the sitemap despite being a real, filterable 47-event history page.
 import { EVOLUTION_TIMELINE } from '../../packages/frontend/data/evolutionTimeline.js';
+// Issue #4432 (split 1/3 of #4394, epic #4387 phase 4/4): SSR meta + JSON-LD
+// for /pedals/brands/<brand> — the vercel.json bot-UA rewrite only covers
+// this one route in the /pedals* family (the hub/reference/setup pages are a
+// pre-existing gap out of scope for this issue).
+import {
+  getPedalBrand,
+  getConfirmedPedalsForBrand,
+  generateBrandCanonicalUrl as generatePedalBrandCanonicalUrl,
+  generateBrandTitle as generatePedalBrandTitle,
+  generateBrandDescription as generatePedalBrandDescription,
+  generateBrandSchema as generatePedalBrandSchema,
+} from '../../packages/frontend/data/pedalBrands.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -4020,6 +4032,24 @@ function getMetaForPath(pathname) {
         },
       ].filter(Boolean)),
     };
+  }
+
+  // Issue #4432 (split 1/3 of #4394): /pedals/brands/<brand> — Brand +
+  // ItemList (confirmed pedals) + BreadcrumbList.
+  const pedalBrandMatch = path.match(/^\/pedals\/brands\/([a-z0-9-]+)$/);
+  if (pedalBrandMatch) {
+    const brand = getPedalBrand(pedalBrandMatch[1]);
+    if (brand) {
+      const confirmedPedals = getConfirmedPedalsForBrand(brand);
+      return {
+        title: generatePedalBrandTitle(brand),
+        description: truncate(generatePedalBrandDescription(brand, confirmedPedals), 160),
+        image: DEFAULT_IMAGE,
+        type: 'article',
+        url: generatePedalBrandCanonicalUrl(brand.slug),
+        articleSchema: JSON.stringify(generatePedalBrandSchema(brand, confirmedPedals)),
+      };
+    }
   }
 
   // Default fallback

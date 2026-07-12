@@ -174,6 +174,9 @@ import { getBrandForStick } from './data/drumstickBrands';
 // /snares/signature/<drummer> pages (Issue #4311, phase 3/4). Tiny static
 // module, safe to import eagerly.
 import { DRUMMER_SNARE, getSnareForDrummer } from './data/snares';
+// Snare brand pages (Issue #4490, epic #4308) — used to link the
+// drummer-page "Snare" block to the matching /snares/brands/<brand> page.
+import { getBrandForSnare } from './data/snareBrands';
 // Cymbal setups data module (Issue #4303 phase 1) — verified drummer→cymbal
 // mapping used by the drummer-page "Cymbals" block and the
 // /cymbals/setups/<drummer> pages (Issue #4306, phase 3/4).
@@ -7677,6 +7680,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       {(() => {
         const mappedSnare = getSnareForDrummer(drummerSlug);
         if (!mappedSnare) return null;
+        const mappedSnareBrand = getBrandForSnare(mappedSnare);
         return (
           <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.bioText, { color: theme.text }]}>
@@ -7702,6 +7706,20 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
                 {mappedSnare.isSignature ? 'See full signature snare specs →' : 'More on snare shells, sizes & tuning →'}
               </Text>
             </TouchableOpacity>
+            {mappedSnareBrand && (
+              <TouchableOpacity
+                onPress={() => {
+                  if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                    window.history.pushState({}, '', `/snares/brands/${mappedSnareBrand.slug}`);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                }}
+                accessibilityRole="link"
+                accessibilityLabel={`More about ${mappedSnareBrand.name} snares`}
+              >
+                <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>More {mappedSnareBrand.name} snares →</Text>
+              </TouchableOpacity>
+            )}
           </View>
         );
       })()}

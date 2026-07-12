@@ -63,17 +63,17 @@ export default function handler(req, res) {
     spotlight: currentSpotlight.spotlight
   } : null;
   
-  // Add LCP image preload hint using local responsive images
-  if (spotlightData?.image?.startsWith('/images/')) {
-    const basePath = spotlightData.image.replace(/\.webp$/, '');
-    const linkHeader = res.getHeader('Link') || '';
-    // Preload mobile (100w) and desktop (200w) responsive images
-    res.setHeader('Link', [
-      linkHeader,
-      `<${basePath}-100w.webp>; rel=preload; as=image; type=image/webp; media="(max-width: 479px)"`,
-      `<${basePath}-200w.webp>; rel=preload; as=image; type=image/webp; media="(min-width: 480px)"`
-    ].filter(Boolean).join(', '));
-  }
+  // Issue #4481: previously added a second Link-header preload hint for the
+  // spotlight image here (bare href + `media` query, guessing 100w/200w).
+  // The inline script in web/index.html (inject-ga.cjs) already preloads the
+  // exact same image synchronously, from the first byte of HTML — long before
+  // this fetch() response can arrive — and since #4470 it mirrors the real
+  // <img>'s imageSrcset/imageSizes so the browser's responsive-image
+  // selection dedupes it against DrummerSpotlight's render. This header
+  // preload used a bare href with no imagesrcset/imagesizes, so per the same
+  // preload-matching rules it could NOT dedupe against that srcset-based
+  // <img> — it just raced the real render and caused an extra fetch on top
+  // of the (already-correct) inline preload.
 
   // Get news preview (Phase 3 - #511)
   const newsCache = getNewsCache();

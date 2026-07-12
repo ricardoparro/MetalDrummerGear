@@ -2464,14 +2464,24 @@ function TrendingThisWeek({ theme, drummers, onSelectDrummer, excludeDrummerId }
 // SEO freshness signals + return visit engagement
 // ==========================================
 
-function RecentlyUpdatedGear({ theme, drummers, onSelectDrummer }) {
+function RecentlyUpdatedGear({ theme, drummers, onSelectDrummer, excludeDrummerIds }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const sectionRef = useSectionImpression('recently_updated');
 
-  // Get recent gear updates from gearNews data
-  const recentUpdates = useMemo(() => getRecentGearUpdates(5), []);
-  
+  // Get recent gear updates from gearNews data. Excludes drummers already
+  // shown in the Spotlight/Trending sections above (Issue #4481) — gearNews'
+  // curated drummerIds overlap heavily with TRENDING_DRUMMERS and the
+  // spotlight rotation pool, so without this filter the same drummer's
+  // thumbnail renders (and fetches) again here on top of Trending/Spotlight.
+  const recentUpdates = useMemo(() => {
+    const updates = getRecentGearUpdates(10);
+    return (excludeDrummerIds && excludeDrummerIds.size > 0
+      ? updates.filter(u => !excludeDrummerIds.has(u.drummerId))
+      : updates
+    ).slice(0, 5);
+  }, [excludeDrummerIds]);
+
   // Don't render if no recent updates
   if (!recentUpdates || recentUpdates.length === 0) {
     return null;
@@ -19751,6 +19761,17 @@ function DrummerList({
 
   // Footer with discovery sections + "View All Drummers" + timestamp (Issue #497, #449, #1237)
   // Secondary widgets demoted below the drummer grid per wireframe (Issue #1237).
+  //
+  // Issue #4481: TRENDING_DRUMMERS and gearNews' curated drummerIds overlap
+  // heavily (both favor the same handful of headliner drummers), and neither
+  // list is deduped against the other — so the same drummer's thumbnail could
+  // render, and fetch, in both Trending and Recently Updated on the same page
+  // load. Compute the Trending set once here and pass it down so Recently
+  // Updated can skip anyone already shown above it.
+  const trendingExcludeIds = new Set(
+    [spotlight?.id, ...getTrendingDrummers(drummers).map(d => d.id)].filter(id => id != null)
+  );
+
   const ListFooter = () => (
     <View>
       {/* View All Drummers button - navigates to /drummers page (Issue #497) */}
@@ -19787,6 +19808,7 @@ function DrummerList({
         theme={theme}
         drummers={drummers}
         onSelectDrummer={onSelectDrummer}
+        excludeDrummerIds={trendingExcludeIds}
       />
 
       {/* Drummer Spotlight Section */}
@@ -24933,10 +24955,22 @@ function AppContent() {
       const aboveFoldDrummers = drummers.slice(0, 6);
       aboveFoldDrummers.forEach((drummer, index) => {
         if (drummer.thumbnailUrl || drummer.image) {
+          // Issue #4481: DrummerCard renders each card via ImageWithFallback
+          // at width=60/imageContext="thumbnail", which for local drummer
+          // images resolves to the "-100w.webp" variant (getLocalDrummerImageUrl).
+          // `drummer.thumbnailUrl` (from optimizeDrummerImages()) and the
+          // getOptimizedImageUrl() fallback both short-circuit local `/images/`
+          // paths to the plain, unsized original — a different URL than the
+          // card actually requests, so this preloaded a large full-size photo
+          // nobody renders AND left the real -100w.webp thumbnail to be
+          // fetched fresh (a wasted download, not a speedup).
+          const href = isLocalDrummerImage(drummer.image)
+            ? getLocalDrummerImageUrl(drummer.image, IMAGE_WIDTHS.thumbnail)
+            : (drummer.thumbnailUrl || getOptimizedImageUrl(drummer.image, { width: IMAGE_WIDTHS.thumbnail }));
           const link = document.createElement('link');
           link.rel = 'preload';
           link.as = 'image';
-          link.href = drummer.thumbnailUrl || getOptimizedImageUrl(drummer.image, { width: IMAGE_WIDTHS.thumbnail });
+          link.href = href;
           // Only high priority for first 2
           if (index < 2) {
             link.fetchPriority = 'high';

@@ -2796,3 +2796,28 @@ Metrics refreshed 01:32 UTC (175 users/211 sessions/424 views 7d; GSC 4,220 impr
 - Blockers unchanged: #875 #529 #526 #525 (human-founder) · no re-spam · L1/L2/L3 snapshots still dated 07-06, next due 2026-07-13
 - Actions: none — founder-ideas inbox empty, no fresh seo-proposal landed yet (SEO Agent's 03:01 run still in_progress), oldest ai-fix #4205 ~50h old (under 72h split trigger)
 - Next check: watch for SEO Agent's 03:01 run to land proposals; backlog at 9 is below the 45 floor, promote liberally once fresh proposals arrive
+
+## 2026-07-12 07:05 — Deep run: promoted 7 fresh proposals, closed 2 duplicate-run PRs
+
+### Context (≤3 lines)
+Metrics refreshed 05:03 UTC (178 users/215 sessions/431 views 7d; GSC 4,220 impr/127 clicks/3.01% CTR/pos 8.5 — no content-gap rows). Backlog was 6 eligible `ai-fix`, 5 open PRs. 12 fresh untriaged `seo-proposal` (#4389-4399 minus already-labelled, #4409-4410).
+
+### Actions taken
+- Verified 7 of 12 proposals against live source, all confirmed and promoted: **#4392/#4393** (pedals hub phase 2/3 — unblocked since phase 1 `#4391` merged via #4414; confirmed `packages/frontend/data/pedals.js` exists on main). **#4395** (`/drumsticks`, `/cymbals`, `/snares` verticals, ~70+ pages, zero bot-UA rewrites in `vercel.json` — confirmed via grep, only unrelated 301s/redirects match). **#4396** (`/drummers/:slug/endorsements`, 67 pages, same gap — confirmed zero rewrite matches, handler + sitemap entries both exist, `ENDORSEMENT_TIMELINE` = 67 keys). **#4397** (dead bare-plural `/drummers/${slug}` links in `GearPriceHistoryPage.js:542,901` — confirmed both call sites, sibling calls at :912/:930 correctly use suffixed routes). **#4398** (`public/llms/index.md` brand table says "8 brands", missing Sabian row — confirmed `ls public/llms/brands/` = 9 files, table header + rows = 8). **#4399** (`/compare` + `/tools/compare` hubs missing `breadcrumbSchema` — read `api/meta/[...path].js:1113-1254` directly, confirmed both hub handlers lack the key while their child detail handlers at :1137-1229 have it).
+- Left **#4389/#4390** (brands phases 2/3) and **#4409/#4410** (perf phases 2/3) parked as `seo-proposal` — each depends on a phase-1 issue (#4388, #4408) that's still open/unmerged; promoting out of order just lets Roadie pick up work whose prerequisite isn't there yet.
+- **Closed 2 duplicate PRs**: #4415 and #4406 both created new `packages/frontend/data/pedals.js` from the same Roadie run (#29177680634) that also produced #4413 — but #4391 (the actual target issue for that file) had *already* merged via #4414 25 seconds before #4415 opened. #4406 additionally mis-targeted the parent EPIC #4387 (which shouldn't be closed by one phase's PR). Both closed with comments linking to #4414; this is now recurring same-run duplicate-PR behavior (3rd+ instance this week per prior entries) — worth escalating to `human-founder`/infra if a clear 4th distinct instance appears again this week.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: oldest open `ai-fix` is #4205 (~53h old) — under 72h trigger, no split needed. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13 (tomorrow), standing deferral holds one more run.
+
+### State delta
+- ai-fix backlog: 6 → 13 eligible (#4392/#4393/#4395-4399 promoted)
+- Open PRs: 5 → 3 (#4415, #4406 closed as duplicates; #4417/#4416/#4413 remain, #4413 is CONFLICTING but only ~1h old, not yet stuck)
+- Org/Sessions/Views (7d): 178/215/431 · GSC: 4,220 impr / 127 clicks / 3.01% CTR / pos 8.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/12 triaged with independent source verification and promoted, 4 correctly held on unmerged-dependency grounds, 1 (#4394) also dependency-gated. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 13 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
+2. Promote #4389/#4390 once #4388 merges; #4394 once #4392/#4393 merge; #4409/#4410 once #4408 merges.
+3. Watch #4413 (CONFLICTING, brands phase 1) — rebase or re-dispatch if still stuck by mid-day pulse.
+4. Next L1/L2/L3 snapshots due 2026-07-13 — first run in a while with fresh data; expect meta-shell-saga fallout (duplicates/404s/big-losses) to show improvement per the standing watch item.

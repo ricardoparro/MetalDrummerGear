@@ -160,6 +160,25 @@ import {
 // falling through to the generic homepage shell under bot UA and missing
 // from the sitemap despite being a real, filterable 47-event history page.
 import { EVOLUTION_TIMELINE } from '../../packages/frontend/data/evolutionTimeline.js';
+// Issue #4430: SSR meta + JSON-LD for the /pedals* route family (epic #4387,
+// phases #4391-#4393) — 60 sitemap-listed pages (hub, 3 reference pages, 56
+// per-drummer setups) had zero bot-facing SSR meta despite being fully built
+// out, same bug class as #4370/#4381/#4395.
+import { PEDALS } from '../../packages/frontend/data/pedals.js';
+import {
+  PILLAR_PAGE as PEDAL_PILLAR_PAGE,
+  getReferencePage as getPedalReferencePage,
+  isValidReferenceSlug as isValidPedalReferenceSlug,
+  generateCanonicalUrl as generatePedalCanonicalUrl,
+  generateFaqSchema as generatePedalFaqSchema,
+  generateArticleSchema as generatePedalArticleSchema,
+} from '../../packages/frontend/data/pedalReferencePages.js';
+import {
+  getPedalSetupPageData,
+  generatePedalSetupTitle,
+  generatePedalSetupDescription,
+  generatePedalSetupSchema,
+} from '../../packages/frontend/data/pedalSetupPages.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -4015,6 +4034,99 @@ function getMetaForPath(pathname) {
           itemListElement: [
             { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
             { '@type': 'ListItem', position: 2, name: 'Snares', item: `${BASE_URL}/snares` },
+            { '@type': 'ListItem', position: 3, name: page.h1, item: url },
+          ],
+        },
+      ].filter(Boolean)),
+    };
+  }
+
+  // Issue #4430: /pedals pillar hub — Article + ItemList (one entry per
+  // verified drummer pedal) + FAQPage + BreadcrumbList.
+  if (path === '/pedals') {
+    const url = generatePedalCanonicalUrl();
+    const itemListSchema = {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: 'Metal drummer bass drum pedals',
+      numberOfItems: PEDALS.length,
+      itemListElement: PEDALS.map((pedal, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        item: {
+          '@type': 'Product',
+          name: `${pedal.brand ? `${pedal.brand} ` : ''}${pedal.model || pedal.summary}`,
+          ...(pedal.brand ? { brand: { '@type': 'Brand', name: pedal.brand } } : {}),
+          category: 'Bass Drum Pedals',
+          url: `${BASE_URL}/drummer/${pedal.drummerSlug}`,
+        },
+      })),
+    };
+    return {
+      title: PEDAL_PILLAR_PAGE.title,
+      description: truncate(PEDAL_PILLAR_PAGE.description, 160),
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url,
+      articleSchema: JSON.stringify([
+        generatePedalArticleSchema(PEDAL_PILLAR_PAGE, url),
+        itemListSchema,
+        generatePedalFaqSchema(PEDAL_PILLAR_PAGE.faq),
+        {
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+            { '@type': 'ListItem', position: 2, name: 'Pedals', item: url },
+          ],
+        },
+      ].filter(Boolean)),
+    };
+  }
+
+  // Issue #4430: /pedals/setups/<drummer> — per-drummer "what pedals does X
+  // use" pages (#4393). getPedalSetupPageData returns null for drummers
+  // without a verified pedal, which falls through to the generic fallback
+  // below rather than fabricating one.
+  const pedalSetupMatch = path.match(/^\/pedals\/setups\/([a-z0-9-]+)\/?$/);
+  if (pedalSetupMatch) {
+    const slug = pedalSetupMatch[1];
+    const drummer = getDrummerBySlug(slug);
+    const data = drummer ? getPedalSetupPageData(slug, drummer.name) : null;
+    if (data) {
+      return {
+        title: generatePedalSetupTitle(data),
+        description: truncate(generatePedalSetupDescription(data), 160),
+        image: DEFAULT_IMAGE,
+        type: 'article',
+        url: data.canonicalUrl,
+        articleSchema: JSON.stringify((generatePedalSetupSchema(data) || []).filter(Boolean)),
+      };
+    }
+  }
+
+  // Issue #4430: /pedals/{drive-types,single-vs-double,setup-tuning}
+  // reference pages — Article + FAQPage + BreadcrumbList.
+  const pedalReferenceMatch = path.match(/^\/pedals\/([a-z-]+)$/);
+  if (pedalReferenceMatch && isValidPedalReferenceSlug(pedalReferenceMatch[1])) {
+    const slug = pedalReferenceMatch[1];
+    const page = getPedalReferencePage(slug);
+    const url = generatePedalCanonicalUrl(slug);
+    return {
+      title: page.title,
+      description: truncate(page.description, 160),
+      image: DEFAULT_IMAGE,
+      type: 'article',
+      url,
+      articleSchema: JSON.stringify([
+        generatePedalArticleSchema(page, url),
+        generatePedalFaqSchema(page.faq),
+        {
+          '@context': 'https://schema.org',
+          '@type': 'BreadcrumbList',
+          itemListElement: [
+            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+            { '@type': 'ListItem', position: 2, name: 'Pedals', item: `${BASE_URL}/pedals` },
             { '@type': 'ListItem', position: 3, name: page.h1, item: url },
           ],
         },

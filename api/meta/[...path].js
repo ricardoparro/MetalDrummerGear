@@ -147,6 +147,10 @@ import {
   generateBestForMetalItemListSchema as generateSnareBestForMetalItemListSchema,
   generateBestForMetalBreadcrumbSchema as generateSnareBestForMetalBreadcrumbSchema,
 } from '../../packages/frontend/data/snareBestForMetal.js';
+// Issue #4370: /timeline (Metal Drumming Evolution Timeline) SSR meta — was
+// falling through to the generic homepage shell under bot UA and missing
+// from the sitemap despite being a real, filterable 47-event history page.
+import { EVOLUTION_TIMELINE } from '../../packages/frontend/data/evolutionTimeline.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -419,6 +423,20 @@ function getMetaForPath(pathname) {
           },
         ],
       }),
+    };
+  }
+
+  // Metal drumming evolution timeline
+  if (path === '/timeline') {
+    const eventCount = EVOLUTION_TIMELINE.length;
+    const firstYear = Math.min(...EVOLUTION_TIMELINE.map(event => event.year));
+    const lastYear = Math.max(...EVOLUTION_TIMELINE.map(event => event.year));
+    return {
+      title: `Metal Drumming Evolution Timeline (${firstYear}-${lastYear}) | ${SITE_NAME}`,
+      description: `Explore ${eventCount} key moments in metal drumming history — landmark album releases, drummer debuts, gear innovations, and technique milestones from ${firstYear} to today, filterable by decade and subgenre.`,
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/timeline`,
     };
   }
 

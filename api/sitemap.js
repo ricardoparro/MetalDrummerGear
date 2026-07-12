@@ -518,6 +518,8 @@ export function buildSitemapXml() {
     { loc: '/bpm-tap', priority: '0.9', changefreq: 'monthly' },
     // Issue #4371: Gear Finder tool
     { loc: '/gear-finder', priority: '0.85', changefreq: 'weekly' },
+    // Issue #4370: Metal Drumming Evolution Timeline (47 events, 1970-2024)
+    { loc: '/timeline', priority: '0.85', changefreq: 'monthly' },
     // Issue #729: Tools Hub landing page
     { loc: '/tools', priority: '0.95', changefreq: 'weekly' },
     // Issue #704: Tools pages (viral tools)

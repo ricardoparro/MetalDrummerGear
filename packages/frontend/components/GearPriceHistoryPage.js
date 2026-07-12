@@ -539,7 +539,7 @@ export function GearPriceHistoryPage({ drummerSlug, theme, onNavigate, drummers 
   // Handle navigation
   const handleBack = useCallback(() => {
     if (onNavigate) {
-      onNavigate(`/drummers/${drummerSlug}`);
+      onNavigate(`/drummer/${drummerSlug}`);
     } else if (typeof window !== 'undefined') {
       window.history.back();
     }
@@ -898,7 +898,7 @@ export function GearPriceHistoryPage({ drummerSlug, theme, onNavigate, drummers 
         
         <TouchableOpacity
           style={[styles.relatedLink, { backgroundColor: theme.cardBg, borderColor: theme.border }]}
-          onPress={() => onNavigate?.(`/drummers/${priceData.slug}`)}
+          onPress={() => onNavigate?.(`/drummer/${priceData.slug}`)}
           accessibilityRole="link"
         >
           <Text style={[styles.relatedLinkText, { color: theme.text }]}>

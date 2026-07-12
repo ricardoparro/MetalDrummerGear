@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-12 12:16 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-12 13:29 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,32 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 268 |
-| Sessions | 305 |
-| Page views | 533 |
-| Engagement rate | 47.87% |
-| Avg session (s) | 120 |
+| Active users | 282 |
+| Sessions | 319 |
+| Page views | 545 |
+| Engagement rate | 45.77% |
+| Avg session (s) | 115 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 74 | 34 |
+| / | 77 | 37 |
 | /drummers | 29 | 5 |
-| /drumsticks | 21 | 13 |
+| /drumsticks | 23 | 15 |
 | /drummer/jaska-raatikainen | 15 | 4 |
-| /cymbals | 12 | 13 |
+| /cymbals | 14 | 15 |
+| /drummer/lars-ulrich | 12 | 14 |
 | /drummer/matt-greiner | 12 | 9 |
+| /lists/fastest-metal-drummers | 11 | 11 |
 | /articles/fastest-double-bass-drummers | 10 | 8 |
 | /drummer/bill-ward | 10 | 8 |
-| /drummer/lars-ulrich | 10 | 12 |
-| /lists/fastest-metal-drummers | 10 | 10 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 179 | 156 |
-| Direct | 119 | 105 |
-| Unassigned | 79 | 78 |
+| Direct | 131 | 117 |
+| Unassigned | 90 | 89 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

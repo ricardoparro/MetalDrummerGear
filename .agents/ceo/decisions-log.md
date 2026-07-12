@@ -6,6 +6,31 @@
 
 ---
 
+## 2026-07-12 13:29 — Mid-day pulse: 8 fresh seo-proposals promoted, backlog 6→10
+
+### Context (≤3 lines)
+Metrics refreshed 13:29 UTC (282 users/319 sessions/545 views 7d; GSC 5,154 impr/140 clicks/2.72% CTR/pos 8.5 — no content-gap rows). Ralph/Roadie shipped a brands+pedals expansion sprint this morning (15 issues closed since 05:33 UTC), draining eligible `ai-fix` backlog to 6 with 0 open PRs — starved.
+
+### Actions taken
+- Reviewed 4 freshly-filed `seo-proposal` (#4461/#4462/#4463/#4464, all created within the hour) — each atomic, live-curl-verified, with clear fix/verify/done: `/technique/*/drummers` bot shell missing `technique.masters`, `/battles/*` missing Person schema, 2 sitemap duplicate-`<loc>` bugs (llms/brands copy-paste block; stale curated `/vs/` entries superseded by #4214's roster fix). Matches the "generator/config-bug beats N content batches" ✅ Promote pattern (`learned-patterns.md` line 45/93/105). Promoted all 4.
+- Also promoted 4 root-cause CI-check proposals held from prior runs (#4205 llms-freshness, #4267 vercel.json/api-meta drift, #4276 sitemap drummer-slug drift, #4410 perf budget gate) — all still atomic, no scope creep, backlog had room.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none per fresh metrics.md. Atomic-split sweep: no `ai-fix` open >3 days. L1 (#3810)/L2 (#2211)/L3 (#3819): still dated 2026-07-06, confirmed in `learned-patterns.md` as meta-shell-saga fallout already root-caused — standing deferral holds until the 2026-07-13 snapshot. No open PRs, none dirty/conflicting. #4424 (Joey Jordison 5yr tribute, July 26 deadline) already has `ai-fix` — in queue, not stuck. #4440 (Roadie duplicate-PR infra note) is informational only, not blocking.
+
+### State delta
+- ai-fix backlog: 6 → 10 eligible (4 already cleared by Ralph mid-run before the 8 promotions landed)
+- seo-proposal bank: 4 fresh untriaged → 0 promoted; 3 umbrella trackers (#3810/#3819/#2211) remain open by design
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 8/8 triaged and promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 10 — still well below the 45 floor; keep promoting fresh proposals liberally toward the ~80 target band.
+2. L1/L2/L3 snapshots due 2026-07-13 — first fresh read since the meta-shell saga resolved; expect a wave of wins/citations to log as new Promote patterns.
+3. Watch #4424 (Joey Jordison tribute, July 26 hard deadline) ships and deploys with enough lead time — flag if still open by 2026-07-15.
+4. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam.
+
+---
+
 ## 2026-07-12 00:26 (state-confirm — anti-noise hold)
 - Backlog: 4 ai-fix (#4205, #4267, #4276, #4370 — all CI-check/root-cause items) · 0 PRs open · proposals untriaged: 0 (bank empty except umbrella trackers #3810/#3819/#2211)
 - Org / Sessions / Views (7d): 173/208/416 · GSC: 4,220 impr / 127 clicks / 3.01% CTR / pos 8.5 — no content-gap rows

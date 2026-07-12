@@ -81,29 +81,58 @@ function buildMarkdown(article) {
   }
 
   // --- Gear Breakdown (bullets + supporting prose) -----------------------------
-  md += `## Gear Breakdown\n\n`;
   const k = article.drumKit || {};
   const s = article.snare || {};
   const c = article.cymbals || {};
   const h = article.hardware || {};
 
   const drumsLine = [k.brand, k.model].filter(Boolean).join(' ');
-  if (drumsLine) md += `- **Drums:** ${drumsLine}${k.finish ? ` (${k.finish} finish)` : ''}\n`;
   const snareLine = [s.brand, s.model].filter(Boolean).join(' ');
-  if (snareLine) md += `- **Snare:** ${snareLine}${s.size ? `, ${s.size}` : ''}\n`;
   const cymbalsLine = [c.brand, c.series].filter(Boolean).join(' — ') || listModels(c.setup);
-  if (cymbalsLine) md += `- **Cymbals:** ${cymbalsLine}\n`;
   const hardwareLine = listModels(h.items);
-  if (hardwareLine) md += `- **Hardware / Pedals:** ${hardwareLine}\n`;
   const heads = s.heads || h.heads;
-  if (heads) md += `- **Heads:** ${heads}\n`;
-  if (s.tuningSetting) md += `- **Snare tuning:** ${s.tuningSetting}\n`;
-  md += `\n`;
+
+  // Album/kit-shaped articles carry drumKit/snare/cymbals/hardware; narrative
+  // articles (e.g. tribute pieces) may have none of these — skip the heading
+  // entirely rather than emit an empty "## Gear Breakdown".
+  if (drumsLine || snareLine || cymbalsLine || hardwareLine || heads) {
+    md += `## Gear Breakdown\n\n`;
+    if (drumsLine) md += `- **Drums:** ${drumsLine}${k.finish ? ` (${k.finish} finish)` : ''}\n`;
+    if (snareLine) md += `- **Snare:** ${snareLine}${s.size ? `, ${s.size}` : ''}\n`;
+    if (cymbalsLine) md += `- **Cymbals:** ${cymbalsLine}\n`;
+    if (hardwareLine) md += `- **Hardware / Pedals:** ${hardwareLine}\n`;
+    if (heads) md += `- **Heads:** ${heads}\n`;
+    if (s.tuningSetting) md += `- **Snare tuning:** ${s.tuningSetting}\n`;
+    md += `\n`;
+  }
 
   // Supporting prose adds depth and guarantees the word-count gate.
   if (k.description) md += `### ${k.title || 'Drum Kit'}\n\n${k.description}\n\n`;
   if (s.description) md += `### ${s.title || 'Snare'}\n\n${s.description}\n\n`;
   if (c.description) md += `### ${c.title || 'Cymbals'}\n\n${c.description}\n\n`;
+
+  // --- Generic Prose Sections + Gear Legacy links (narrative articles, e.g.
+  // tribute/anniversary pieces — Issue #4424) ------------------------------------
+  if (Array.isArray(article.sections)) {
+    for (const section of article.sections) {
+      if (!section) continue;
+      md += `## ${section.title}\n\n${section.content || ''}\n\n`;
+      if (Array.isArray(section.keyPoints) && section.keyPoints.length) {
+        for (const point of section.keyPoints) md += `- ${point}\n`;
+        md += `\n`;
+      }
+    }
+  }
+  if (article.gearLegacy) {
+    md += `## ${article.gearLegacy.title || 'The Gear Legacy'}\n\n`;
+    if (article.gearLegacy.content) md += `${article.gearLegacy.content}\n\n`;
+    if (Array.isArray(article.gearLegacy.links)) {
+      for (const link of article.gearLegacy.links) {
+        md += `- [${link.label}](${BASE}${link.href})${link.note ? ` — ${link.note}` : ''}\n`;
+      }
+      md += `\n`;
+    }
+  }
 
   // --- Key Facts ----------------------------------------------------------------
   const facts = [];

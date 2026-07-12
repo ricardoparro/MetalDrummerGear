@@ -52,6 +52,7 @@ export function CymbalSetupPage({
   onNavigateToDrummer,
   onNavigateToHub,
   onNavigateToBrand,
+  onNavigateToArticle,
 }) {
   const themeContext = useContext(ThemeContext);
   const theme = themeProp || themeContext;
@@ -165,6 +166,17 @@ export function CymbalSetupPage({
           accessibilityLabel="Back to the cymbals guide"
         >
           <Text style={[styles.drummerName, { color: theme.text }]}>🔔 More on Cymbal Types, Alloys & Sizes →</Text>
+        </Pressable>
+      )}
+
+      {setup.relatedArticle && onNavigateToArticle && (
+        <Pressable
+          onPress={() => onNavigateToArticle(setup.relatedArticle.slug)}
+          style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.card, borderColor: theme.border }]}
+          accessibilityRole="link"
+          accessibilityLabel={setup.relatedArticle.label}
+        >
+          <Text style={[styles.drummerName, { color: theme.text }]}>🕯️ {setup.relatedArticle.label} →</Text>
         </Pressable>
       )}
 

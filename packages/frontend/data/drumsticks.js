@@ -392,6 +392,7 @@ export const DRUMSTICKS = [
     retailerUrls: {},
     source: 'sweetwater.com',
     notes: 'Limited availability since 2021 — verify stock before wiring affiliate links.',
+    relatedArticle: { slug: 'joey-jordison-legacy', label: '5 Years of Legacy' },
   },
   // Adversarially verified: ProMark Brasil (official) + TX419W Autograph
   // listings. Classic 419, 2B-class. The drummer roster previously credited a

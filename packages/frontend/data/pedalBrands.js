@@ -206,6 +206,10 @@ export function generateBrandCanonicalUrl(slug) {
   return `${BASE_URL}${BRANDS_BASE_PATH}/${slug}`;
 }
 
+export function generateBrandsHubCanonicalUrl() {
+  return `${BASE_URL}${BRANDS_BASE_PATH}`;
+}
+
 export function generateBrandTitle(brand) {
   return `${brand.name} Pedals: Metal-Relevant Models & Which Drummers Use Them | MetalForge`;
 }
@@ -257,6 +261,35 @@ export function generateBrandSchema(brand, pedals) {
   return schemas;
 }
 
+// ItemList (all brands) + BreadcrumbList JSON-LD for the /pedals/brands hub
+// page. Returns a plain array safe to JSON.stringify.
+export function generateBrandsHubSchema() {
+  return [
+    {
+      '@context': 'https://schema.org',
+      '@type': 'ItemList',
+      name: 'Pedal brands',
+      itemListElement: PEDAL_BRANDS.map((brand, i) => ({
+        '@type': 'ListItem',
+        position: i + 1,
+        item: {
+          '@type': 'Brand',
+          name: brand.name,
+          url: generateBrandCanonicalUrl(brand.slug),
+        },
+      })),
+    },
+    {
+      '@context': 'https://schema.org',
+      '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Pedals', item: `${BASE_URL}/pedals` },
+        { '@type': 'ListItem', position: 2, name: 'Brands', item: `${BASE_URL}${BRANDS_BASE_PATH}` },
+      ],
+    },
+  ];
+}
+
 export default {
   PEDAL_BRANDS,
   BRANDS_BASE_PATH,
@@ -265,7 +298,9 @@ export default {
   getBrandForPedal,
   getPedalsForBrand,
   generateBrandCanonicalUrl,
+  generateBrandsHubCanonicalUrl,
   generateBrandTitle,
   generateBrandDescription,
   generateBrandSchema,
+  generateBrandsHubSchema,
 };

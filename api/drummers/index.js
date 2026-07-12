@@ -2025,8 +2025,8 @@ const drummers = [
     genre: 'Metalcore / Christian Metal',
     country: 'USA',
     image: '/images/drummers/matt-greiner.webp',
-    bio: 'Matthew Wilson Greiner (born October 28, 1985) is an American drummer and founding member of the metalcore band August Burns Red, formed in 2003 in Manheim, Pennsylvania. Known for his highly technical drumming style, Greiner combines blazing double bass patterns with intricate fills and creative use of dynamics. His work on albums like "Messengers," "Constellations," and "Phantom Anthem" has earned him widespread acclaim in the metal community. In 2012, he co-founded the drum company Greiner & Kilmer with fellow drummer Kaleb Kilmer. A Grammy-nominated artist (Best Metal Performance for "Identity"), Greiner is considered one of the most influential metalcore drummers of his generation. Beyond drumming, he is also an accomplished pianist and an outspoken Christian.',
-    kitOverview: 'Matt Greiner plays a Greiner & Kilmer Custom drum kit — the drum set he co-designed with fellow drummer Kaleb Kilmer after co-founding their drum company in 2012, engineered to the specifications August Burns Red\'s technically demanding metalcore shows require. As a Grammy-nominated recording artist and one of metalcore\'s most studied drummers, Greiner has assembled one of the genre\'s most recognizable drum sets, balancing blazing double bass speed with nuanced dynamics and an elaborate fill vocabulary.\n\nThe cornerstone of the Matt Greiner drum kit is his Greiner & Kilmer Custom 14×6.5" Maple snare drum, delivering warm yet cutting crack that anchors August Burns Red\'s arrangements on albums including Messengers, Constellations, and Phantom Anthem. The Matt Greiner drum set features Meinl Byzance Series cymbals: 15" Dual Hi-Hats for controlled articulation; 18" and 19" Dual Crashes for explosive dynamic accents; a 21" Transition Ride for rhythmic clarity; an 18" Extra Dry China for aggressive punctuation; and 10" and 12" Splashes for quick accents. A DW 9000 Series double pedal drives the blazing double bass lines beneath August Burns Red\'s dense rhythmic layers. Vic Firth American Classic 5A sticks and Evans drumheads complete the rig.',
+    bio: 'Matthew Wilson Greiner (born October 28, 1985) is an American drummer and founding member of the metalcore band August Burns Red, formed in 2003 in Manheim, Pennsylvania. Known for his highly technical drumming style, Greiner combines blazing double bass patterns with intricate fills and creative use of dynamics. His work on albums like "Messengers," "Constellations," and "Phantom Anthem" has earned him widespread acclaim in the metal community. A Grammy-nominated artist (Best Metal Performance for "Identity"), Greiner is considered one of the most influential metalcore drummers of his generation. Beyond drumming, he is also an accomplished pianist and an outspoken Christian.',
+    kitOverview: 'Matt Greiner plays a Mapex Black Panther Design Lab drum kit — a maple/walnut hybrid shell he switched to in 2016, engineered to the specifications August Burns Red\'s technically demanding metalcore shows require. As a Grammy-nominated recording artist and one of metalcore\'s most studied drummers, Greiner has assembled one of the genre\'s most recognizable drum sets, balancing blazing double bass speed with nuanced dynamics and an elaborate fill vocabulary.\n\nThe cornerstone of the Matt Greiner drum kit is his Mapex Black Panther 14×5.5" Maple snare drum, delivering a warm crack that anchors August Burns Red\'s arrangements on albums including Ember, Tides, and Death Below. The Matt Greiner drum set features Paiste Formula 602 cymbals: 14" Hi-Hats for controlled articulation; 16", 17", and 18" Crashes for dynamic accents; a 22" Ride for rhythmic clarity; an 18" China for aggressive punctuation; and a 10" Splash for quick accents. A DW 9000 Series double pedal drives the blazing double bass lines beneath August Burns Red\'s dense rhythmic layers. Vic Firth Matt Greiner Signature sticks and Evans G2/EMAD2 heads complete the rig.',
     sameAs: [
       'https://en.wikipedia.org/wiki/Matt_Greiner',
       'https://www.instagram.com/mattgreinerabr/',
@@ -2034,22 +2034,22 @@ const drummers = [
       'https://www.allmusic.com/artist/matt-greiner-mn0001869167'
     ],
     gear: {
-      drums: 'Meinl Drum Festival Kit / Greiner & Kilmer Custom',
-      snare: 'Greiner & Kilmer Custom 14x6.5" Maple',
-      cymbals: 'Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)',
+      drums: 'Mapex Black Panther Design Lab',
+      snare: 'Mapex Black Panther 14x5.5" Maple',
+      cymbals: 'Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash)',
       hardware: 'DW 9000 Series Double Pedal, DW 9100 Throne',
-      sticks: 'Vic Firth American Classic 5A',
-      heads: 'Evans',
+      sticks: 'Vic Firth Matt Greiner Signature',
+      heads: 'Evans G2 / EMAD2',
       verified: true,
-      verifiedAt: '2026-02-03',
-      sources: ['https://meinlcymbals.com/en/artists', 'https://en.wikipedia.org/wiki/Matt_Greiner']
+      verifiedAt: '2026-07-12',
+      sources: ['https://mapexdrums.com', 'https://www.paiste.com', 'https://en.wikipedia.org/wiki/Matt_Greiner']
     },
     photos: [
       '/images/drummers/matt-greiner.webp' // Original: https://upload.wikimedia.org/wikipedia/commons/f/f8/August_Burns_Red_%E2%80%93_Elbriot_2014_04.jpg
     ],
     endorsements: [
-      { name: 'Greiner & Kilmer Drums', url: 'https://www.greinerkilmer.com' },
-      { name: 'Meinl Cymbals', url: 'https://meinlcymbals.com' },
+      { name: 'Mapex Drums', url: 'https://mapexdrums.com' },
+      { name: 'Paiste Cymbals', url: 'https://www.paiste.com' },
       { name: 'Vic Firth Sticks', url: 'https://vicfirth.zildjian.com' },
       { name: 'Evans Drumheads', url: 'https://www.daddario.com/evans' },
       { name: 'DW Hardware', url: 'https://www.dwdrums.com' }

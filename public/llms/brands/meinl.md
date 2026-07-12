@@ -2,6 +2,29 @@
 
 Meinl is a German cymbal brand founded in 1951, one of the top three cymbal manufacturers in the world. In metal, Meinl is best known for the Byzance series — hand-hammered Turkish bronze with dark, dry sound profiles — and the Byzance Extra Dry line favored by modern progressive and technical metal drummers seeking minimal sustain and fast decay.
 
+## History
+
+**Founded:** 1951 in Gutenstetten, Germany · **Founder:** Roland Meinl
+
+Meinl was founded in 1951 by Roland Meinl as a one-man operation, working out of the basement of his own home in Germany. The earliest Meinl cymbals were made by cutting circles from sheet metal, then hammering, lathing, and drilling each one by hand. As demand grew, the company hired its first employee in 1964 and, through the 1960s and 1970s, diversified well beyond cymbals — taking on German distribution of Ibanez guitars and TAMA drums, and founding Meinl Percussion in 1978.
+
+Roland's son Reinhold Meinl joined the business in 1972 and led a period of expansion, while the company progressively industrialized cymbal manufacturing without abandoning hand-finishing, introducing professional lines like the King-Beat Series (1976) and Profile Series (1984). In the 2000s, Meinl consolidated operations at a new, purpose-built cymbal factory in Gutenstetten, completed in 2007 — the same year founder Roland Meinl passed away.
+
+Now run by a third generation of the family, Meinl has grown from a single basement workshop into one of the world's major cymbal manufacturers, alongside Zildjian, Sabian, and Paiste.
+
+**Timeline:**
+- 1951 — Roland Meinl founds the company as a one-man operation in his basement in Germany.
+- 1964 — Meinl hires its first employee.
+- 1972 — Reinhold Meinl joins the company and leads a major expansion and restructuring.
+- 1974 — Meinl becomes the German distributor for TAMA drums.
+- 1978 — Meinl Percussion is founded, with production based in Thailand.
+- 1984 — Meinl launches the Profile Series, marking its shift to professional-grade cymbals.
+- 2007 — Meinl completes its new headquarters and production facility in Gutenstetten, Germany; founder Roland Meinl dies.
+
+**Meinl in metal:** Meinl built its modern reputation in rock and metal largely through its Byzance and Classics Custom lines, which introduced darker, trashier, more aggressive tonal profiles than the traditionally bright, jazz-oriented cymbal sound. Matt Garstka of Animals as Leaders and Chris Adler of Lamb of God have both been part of Meinl's cymbal artist roster.
+
+Source: [meinl.de — About Meinl / History](https://meinl.de/en/about-meinl/history)
+
 ## Metal Drummers Who Use Meinl
 
 - Brann Dailor (Mastodon) — Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China)

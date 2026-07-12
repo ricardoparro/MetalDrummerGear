@@ -16,6 +16,9 @@ import {
   generateBrandDescription,
   generateBrandSchema,
 } from '../data/cymbalBrands';
+// Full brand-history cross-link (Issue #4388) — only rendered when this brand
+// also has a full profile (founding story, timeline) on /brands/<slug>.
+import { hasBrand } from '../data/brands';
 
 function injectSchema(id, schema) {
   if (Platform.OS !== 'web' || typeof document === 'undefined' || !schema) return;
@@ -82,6 +85,7 @@ export function CymbalBrandPage({
   onNavigateBrandsHub,
   onNavigateToDrummer,
   onNavigateBestForMetal,
+  onNavigateFullHistory,
 }) {
   const theme = themeProp || themes.dark;
   const brand = getBrand(brandSlug);
@@ -180,6 +184,14 @@ export function CymbalBrandPage({
       <Text style={[styles.sourceNote, { color: theme.secondaryText || theme.text }]}>
         Source: {brand.source.label}.
       </Text>
+
+      {hasBrand(brand.slug) && (
+        <CrawlableLink href={`/brands/${brand.slug}`} onPress={onNavigateFullHistory} style={{ marginTop: 12 }}>
+          <View style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>
+            <Text style={[styles.linkCardText, { color: theme.text }]}>📜 Full brand history →</Text>
+          </View>
+        </CrawlableLink>
+      )}
 
       <CrawlableLink href="/cymbals/brands" onPress={onNavigateBrandsHub} style={{ marginTop: 12 }}>
         <View style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>

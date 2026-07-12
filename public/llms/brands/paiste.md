@@ -2,6 +2,29 @@
 
 Paiste is a Swiss cymbal manufacturer with roots dating to 1906, one of the three dominant cymbal brands in professional metal. Known for their RUDE and 2002 series — aggressive, loud, and nearly indestructible — Paiste cymbals have been a defining element of thrash metal and extreme metal since the 1980s. Dave Lombardo's Slayer rig and Joey Jordison's Slipknot setup both relied heavily on Paiste RUDE and 2002 models.
 
+## History
+
+**Founded:** 1906 in St. Petersburg, Russia · **Founder:** Michail Toomas Paiste
+
+Paiste's roots lie in music retail rather than cymbal-making. In 1901, Michail Toomas Paiste — a composer and musician — opened a publishing house and music store in St. Petersburg, Russia, with a small instrument-repair workshop attached. Responding to customer requests, that workshop produced the first Paiste cymbals and gongs in 1906. The Russian Revolution forced the operation to close, and the family reopened the business in Tallinn, Estonia in 1917.
+
+Geopolitical upheaval kept the family moving through the 20th century: the Soviet annexation of Estonia in 1940 pushed operations into Poland, and by 1945 the business had relocated again to Germany. Stability finally came in Switzerland, where the company opened a permanent headquarters and production facility in 1957 — the hub that gave rise to the Formula 602 series in the late 1950s and the iconic 2002 series in the late 1960s.
+
+Paiste continued expanding through the late 20th century, opening Paiste America in California in 1981, and diversifying its lines to cover everything from orchestral and jazz cymbals to some of the loudest, most aggressive designs on the market — a direct response to the rise of hard rock and heavy metal.
+
+**Timeline:**
+- 1901 — Michail Toomas Paiste opens a music publishing business and store in St. Petersburg, Russia.
+- 1906 — The first Paiste cymbals and gongs are produced in the St. Petersburg workshop.
+- 1917 — The Russian Revolution forces closure of the St. Petersburg operation; the family reopens the business in Tallinn, Estonia.
+- 1945 — Operations relocate to Germany in the aftermath of World War II, after an earlier wartime move to Poland.
+- 1957 — Paiste establishes a permanent headquarters and production facility in Switzerland.
+- 1980 — The RUDE series is developed specifically for heavy metal, with Slayer drummer Dave Lombardo involved in its development.
+- 1981 — Paiste America is established in California to serve the U.S. market.
+
+**Paiste in metal:** Paiste has one of the most explicit metal pedigrees of any cymbal brand: the RUDE series, introduced in 1980 as part of the 2002 family, was developed specifically in response to the rise of punk and heavy metal, with Slayer's Dave Lombardo directly involved in shaping its raw, high-volume sound. RUDE's unrefined, cutting tone was embraced early by hard rock and metal drummers, including Alex Van Halen and Anthrax's Charlie Benante.
+
+Source: [paiste.com — Background & History](https://www.paiste.com/en/about/background/history)
+
 ## Metal Drummers Who Use Paiste
 
 - Joey Jordison (Slipknot) — Paiste RUDE & 2002 Series (14" Wild Hi-Hats, 16"/17"/18"/19" Power Crashes, 20" & 22" Wild Chinas, 22" Power Ride)

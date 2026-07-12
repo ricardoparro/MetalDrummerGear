@@ -2,6 +2,29 @@
 
 Zildjian is a Turkish-American cymbal manufacturer founded in 1623 in Constantinople, making it the oldest continuously operating musical instrument company in the world. In metal, Zildjian dominates through the A Custom, K, and K Custom series — bright, cutting cymbals that project over high-gain guitar stacks. Zildjian is the most-endorsed cymbal brand among MetalForge's 63-drummer roster, with 20 roster endorsers.
 
+## History
+
+**Founded:** 1623 in Constantinople (Istanbul), Ottoman Empire · **Founder:** Avedis Zildjian
+
+The Zildjian story begins with Avedis, an Armenian metalsmith in the court of the Ottoman Sultan who, while experimenting with metal alloys, discovered a tin-copper-silver alloy that could be hammered into sheets producing clear, durable musical tones. In 1623 the Sultan granted him permission to found an independent cymbal-making business in Constantinople, bestowing the name "Zildjian" — Armenian for "cymbal maker." That formula has been passed down through direct descendants for roughly 400 years, making Zildjian one of the oldest continuously operating family businesses in the world.
+
+For nearly three centuries the family made cymbals in the Ottoman Empire. In 1909, family heir Avedis Zildjian III emigrated to Boston, and the Avedis Zildjian Company was formally established in Quincy, Massachusetts in 1929, transplanting a 300-year-old craft into the American musical instrument industry. Demand surged through the mid-20th century — first through swing-era drummers like Gene Krupa, then after Ringo Starr's Zildjian cymbals appeared worldwide on The Beatles' 1964 Ed Sullivan Show performance.
+
+Family tensions in the late 1970s led Robert Zildjian to leave and found rival company Sabian in 1981, splitting the centuries-old lineage in two. Armand Zildjian led the company until his death in 2002, after which his daughters Craigie and Debbie Zildjian — 14th-generation heirs — took over leadership.
+
+**Timeline:**
+- 1623 — The Ottoman Sultan grants Avedis Zildjian permission to found an independent cymbal-making business in Constantinople, bestowing the name "Zildjian."
+- 1909 — Avedis Zildjian III emigrates to Boston as leadership of the family cymbal business shifts.
+- 1929 — The Avedis Zildjian Company is formally established in Quincy, Massachusetts.
+- 1964 — Ringo Starr's use of Zildjian cymbals on The Beatles' Ed Sullivan Show appearance drives a major surge in demand.
+- 1968 — Zildjian opens a second manufacturing facility (Azco) near Meductic, New Brunswick, Canada.
+- 1981 — Robert Zildjian departs after a family dispute and founds rival company Sabian at the former Azco plant.
+- 2002 — Armand Zildjian dies; daughters Craigie and Debbie Zildjian (14th generation) inherit the company, with Craigie becoming its first female CEO.
+
+**Zildjian in metal:** Zildjian's association with hard rock and metal grew out of its A Custom and, later, Z Custom lines — cymbals voiced brighter and louder than traditional models to cut through high-gain, high-volume music. Lars Ulrich's A Custom setup helped define the thrash-metal cymbal sound of the 1980s, and the Z Custom series was developed specifically to answer metal drummers' demand for explosive, cutting projection at extreme volume.
+
+Source: [zildjian.com/pages/about-us](https://zildjian.com/pages/about-us)
+
 ## Metal Drummers Who Use Zildjian
 
 - Lars Ulrich (Metallica) — Zildjian A Custom Series (14" Dyno Beat Hi-Hats, 16"/17"/18" Rock Crashes, 20" Z Custom China, 22" Ride)

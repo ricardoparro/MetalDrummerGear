@@ -2,6 +2,29 @@
 
 DW (Drum Workshop) is an American drum manufacturer founded in 1972 in Oxnard, California. Renowned for handcrafted shells and the industry-standard 9000 series double pedal, DW is the premium choice for drummers who prioritize American-made craftsmanship. The DW 9000 double pedal is one of the most widely used pedals in metal across all subgenres.
 
+## History
+
+**Founded:** 1972 in Santa Monica, California, USA · **Founder:** Don Lombardi
+
+Drum Workshop began as a drum-lesson studio rather than a manufacturer. In 1972, Don Lombardi opened a small teaching space in Santa Monica, California, offering private lessons and workshops under the name "Drum Workshop." A student, John Good, began trading ideas with Lombardi about improving existing drum hardware, and their first product — a height-adjustable throne — sold well enough that Good left his day job to build hardware full-time.
+
+DW's reputation for engineering was cemented in the pedal market: in 1977 the company acquired the tooling behind Camco's well-regarded 5000 pedal and reintroduced an improved version, the DW 5000, in 1979. DW did not sell complete drum kits until much later — after more than fifteen years as a hardware-only company, DW produced its first drum catalog and debuted full kits at the 1989 NAMM show, taking orders for 60 kits on the first day alone. A dedicated Custom Shop opened in Oxnard, California, in 1998.
+
+In the 2010s, DW grew into a broader percussion group, acquiring Latin Percussion, Toca Percussion, and Gibraltar Hardware, and the historic Slingerland Drum Company in 2019. In late 2022, Roland Corporation acquired DW.
+
+**Timeline:**
+- 1972 — Don Lombardi founds Drum Workshop as a drum-teaching studio in Santa Monica, California.
+- 1977 — DW acquires the pedal tooling behind the Camco 5000 from Camco Drum Co.
+- 1979 — DW releases the DW 5000 bass drum pedal, an improved version of the Camco 5000.
+- 1989 — DW produces its first drum catalog and debuts complete drum kits at NAMM, taking 60 orders on day one.
+- 1998 — DW opens its California Custom Shop in Oxnard with new shell-pressing technology.
+- 2019 — DW purchases the historic Slingerland Drum Company.
+- 2022 — Roland Corporation acquires DW.
+
+**DW in metal:** DW built its identity on precision hardware and hand-built, timbre-matched shells rather than a dedicated "metal" product line, but that engineering focus made its pedals and hardware a favored choice for drummers who need gear to survive aggressive, high-speed playing. DW's artist roster includes hard rock and metal-adjacent players such as Deen Castronovo and W.A.S.P.'s Aquiles Priester.
+
+Source: [dwdrums.com — The DW Story](https://www.dwdrums.com/the-dw-story/)
+
 ## Metal Drummers Who Use DW (Drum Kits)
 
 - George Kollias (Nile) — DW Collectors Series; co-uses Pearl Masterworks for live performances

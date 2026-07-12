@@ -2,6 +2,29 @@
 
 Pearl is a Japanese drum manufacturer founded in 1946, one of the most widely endorsed brands in professional metal drumming. Known for their Reference and Masters series kits and Demon Drive hardware, Pearl is trusted by death metal, thrash, and modern metal drummers worldwide.
 
+## History
+
+**Founded:** 1946 in Sumida, Tokyo, Japan · **Founder:** Katsumi Yanagisawa
+
+Pearl was founded on April 2, 1946, by Katsumi Yanagisawa, who started the business in a small backyard workshop in the Sumida ward of Tokyo with just two employees, initially making music stands. In 1950, Yanagisawa formally shifted the company's focus to drum manufacturing, renaming it Pearl Industry, Ltd.; by 1953 it had grown again into the Pearl Musical Instrument Company, with a catalog spanning drum kits, marching drums, timpani, and percussion.
+
+In 1957, Yanagisawa's son Mitsuo joined the business and opened an export division, setting Pearl on course to become an international brand. A new 15,000-square-foot factory opened in Chiba in 1961, and in 1966 Pearl introduced the President Series, its first kit built specifically as a professional, Pearl-branded product. By the early 1970s, Pearl kits were reaching the U.S. market through Gibson's parent company Norlin.
+
+From that foundation, Pearl grew into one of the largest drum manufacturers in the world, investing heavily in shell-construction research and building a global artist roster spanning jazz, pop, hard rock, and metal.
+
+**Timeline:**
+- 1946 — Katsumi Yanagisawa founds Pearl in a small backyard workshop in Sumida, Tokyo, initially making music stands.
+- 1950 — The company shifts focus to drum manufacturing and is renamed Pearl Industry, Ltd.
+- 1953 — Renamed Pearl Musical Instrument Company; product line expands to full drum kits, timpani, and percussion.
+- 1957 — Mitsuo Yanagisawa joins the company and establishes an export division.
+- 1961 — Pearl builds a 15,000-square-foot factory in Chiba, Japan.
+- 1966 — Pearl introduces the President Series, its first professional kit under its own name.
+- 1993 — Pearl launches the Masters Series, a flagship professional drum line.
+
+**Pearl in metal:** Pearl's decades of shell-construction research and professional-grade manufacturing made it a mainstay on hard rock and metal stages. Joey Jordison of Slipknot and Joe Rickard of In Flames have both been part of Pearl's endorsed-artist roster, and the brand's Reference and Masters series are commonly cited by touring metal drummers who need kits that hold up to high-volume, high-impact playing.
+
+Source: [pearldrum.com — About Pearl](https://pearldrum.com/en/about-pearl)
+
 ## Metal Drummers Who Use Pearl
 
 - Joey Jordison (Slipknot) — Pearl Reference Series; Pearl Demon Drive Double Pedal; Pearl DR-501C Icon Rack

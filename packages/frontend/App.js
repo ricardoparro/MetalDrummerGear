@@ -165,7 +165,9 @@ import { hasBrand } from './data/brands';
 import { DRUMMER_STICKS, getSticksForDrummer } from './data/drumsticks';
 // Drumstick brand pages (Issue #4139, epic #4135 phase 4/4) — used to link the
 // drummer-page "Sticks" block to the matching /drumsticks/brands/<brand> page.
-import { getBrandForStick } from './data/drumstickBrands';
+// isValidBrandSlug also powers the /brands/<slug> "Explore in the Drumstick
+// Guide" cross-link (Issue #4388).
+import { getBrandForStick, isValidBrandSlug as isValidDrumstickBrandSlug } from './data/drumstickBrands';
 // Snares data module (Issue #4308 phase 1) — verified drummer→snare mapping
 // used by the drummer-page "Snare" cross-link block and the
 // /snares/signature/<drummer> pages (Issue #4311, phase 3/4). Tiny static
@@ -177,7 +179,9 @@ import { DRUMMER_SNARE, getSnareForDrummer } from './data/snares';
 import { DRUMMER_CYMBALS, getSetupForDrummer } from './data/cymbalSetups';
 // Cymbal brand pages (Issue #4307, epic #4303 phase 4/4) — used to link the
 // drummer-page "Cymbals" block to the matching /cymbals/brands/<brand> page.
-import { getBrandForCymbalSetup } from './data/cymbalBrands';
+// isValidBrandSlug also powers the /brands/<slug> "Explore in the Cymbal
+// Guide" cross-link (Issue #4388).
+import { getBrandForCymbalSetup, isValidBrandSlug as isValidCymbalBrandSlug } from './data/cymbalBrands';
 
 // ==========================================
 // LAZY-LOADED DATA MODULES - Performance Optimization (#708)
@@ -14703,6 +14707,112 @@ function BrandLandingPage({ brandSlug, drummers, onBack, onSelectDrummer, onNavi
           ))}
         </View>
 
+        {/* History Section (Issue #4388) — founding story, milestones timeline,
+            metal-era note, and cross-links to the matching theme-area brand
+            page (/cymbals/brands/<slug> or /drumsticks/brands/<slug>). */}
+        {brand.history && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>History</Text>
+            <Text style={[styles.textSm, { color: theme.secondaryText, marginBottom: 12 }]}>
+              Founded {brand.history.foundedYear}
+              {brand.history.foundedPlace ? ` in ${brand.history.foundedPlace}` : ''}
+              {brand.history.founder ? ` by ${brand.history.founder}` : ''}
+            </Text>
+
+            {brand.history.story.map((paragraph, index) => (
+              <Text key={index} style={[styles.genreParagraph, { color: theme.secondaryText }]}>
+                {paragraph}
+              </Text>
+            ))}
+
+            {brand.history.milestones && brand.history.milestones.length > 0 && (
+              <View style={{ marginTop: 16 }}>
+                <Text style={[styles.drummerName, { color: theme.text, fontSize: 16, marginBottom: 8 }]}>
+                  Timeline
+                </Text>
+                <View style={styles.gappedLayout1}>
+                  {brand.history.milestones.map((milestone, index) => (
+                    <View key={index} style={{ flexDirection: 'row', alignItems: 'flex-start' }}>
+                      <View
+                        style={{
+                          backgroundColor: brand.color,
+                          borderRadius: 6,
+                          paddingHorizontal: 8,
+                          paddingVertical: 3,
+                          marginRight: 10,
+                          minWidth: 56,
+                          alignItems: 'center',
+                        }}
+                      >
+                        <Text style={{ color: '#fff', fontWeight: '700', fontSize: 12 }}>
+                          {milestone.year}
+                        </Text>
+                      </View>
+                      <Text style={[styles.textSm, { color: theme.secondaryText, flex: 1 }]}>
+                        {milestone.event}
+                      </Text>
+                    </View>
+                  ))}
+                </View>
+              </View>
+            )}
+
+            {brand.history.metalEra && (
+              <View style={{ marginTop: 16 }}>
+                <Text style={[styles.drummerName, { color: theme.text, fontSize: 16, marginBottom: 8 }]}>
+                  {brand.name} in Metal
+                </Text>
+                <Text style={[styles.genreParagraph, { color: theme.secondaryText }]}>
+                  {brand.history.metalEra}
+                </Text>
+              </View>
+            )}
+
+            {(isValidCymbalBrandSlug(brandSlug) || isValidDrumstickBrandSlug(brandSlug)) && (
+              <View style={{ marginTop: 16, gap: 8 }}>
+                {isValidCymbalBrandSlug(brandSlug) && (
+                  <TouchableOpacity
+                    onPress={() => {
+                      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                        window.history.pushState({}, '', `/cymbals/brands/${brandSlug}`);
+                        window.dispatchEvent(new PopStateEvent('popstate'));
+                      }
+                    }}
+                    accessibilityRole="link"
+                    accessibilityLabel={`Explore ${brand.name} in the Cymbal Guide`}
+                  >
+                    <Text style={[styles.gearSeriesLink, { color: theme.primary || theme.accent }]}>
+                      Explore {brand.name} in the Cymbal Guide →
+                    </Text>
+                  </TouchableOpacity>
+                )}
+                {isValidDrumstickBrandSlug(brandSlug) && (
+                  <TouchableOpacity
+                    onPress={() => {
+                      if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                        window.history.pushState({}, '', `/drumsticks/brands/${brandSlug}`);
+                        window.dispatchEvent(new PopStateEvent('popstate'));
+                      }
+                    }}
+                    accessibilityRole="link"
+                    accessibilityLabel={`Explore ${brand.name} in the Drumstick Guide`}
+                  >
+                    <Text style={[styles.gearSeriesLink, { color: theme.primary || theme.accent }]}>
+                      Explore {brand.name} in the Drumstick Guide →
+                    </Text>
+                  </TouchableOpacity>
+                )}
+              </View>
+            )}
+
+            {brand.history.sources && brand.history.sources.length > 0 && (
+              <Text style={[styles.textXs, { color: theme.secondaryText, marginTop: 12, opacity: 0.7 }]}>
+                Source{brand.history.sources.length > 1 ? 's' : ''}: {brand.history.sources.join(', ')}
+              </Text>
+            )}
+          </View>
+        )}
+
         {/* Popular Models Section */}
         {brand.popularModels && brand.popularModels.length > 0 && (
           <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
@@ -28784,6 +28894,12 @@ setShowList(false);
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}
+            onNavigateFullHistory={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/brands/${brandSlug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
           />
         </Suspense>
       );
@@ -29373,6 +29489,12 @@ setShowList(false);
             onNavigateBestForMetal={() => {
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', '/cymbals/best-for-metal');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateFullHistory={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/brands/${cymbalBrandSlug}`);
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}

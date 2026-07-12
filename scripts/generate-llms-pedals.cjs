@@ -69,6 +69,28 @@ const REFERENCE_PAGES = {
   'setup-tuning': SETUP_TUNING_PAGE,
 };
 
+// Issue #4432 (split 1/3 of #4394): /pedals/brands/<brand> pages (Tama, Pearl,
+// DW, Axis, Trick). PEDAL_BRANDS is a plain data array (no live functions
+// evaluated here) — the confirmed-pedal filter is reimplemented inline below
+// using the already-loaded PEDALS, mirroring getPedalsForBrand() in
+// data/pedalBrands.js, so the /llms/ file can never show an endorsement the
+// live page doesn't also show.
+const { PEDAL_BRANDS } = loadModuleConsts(
+  path.join(__dirname, '../packages/frontend/data/pedalBrands.js'),
+  ['PEDAL_BRANDS']
+);
+
+// Cross-link to the /brands/<slug> museum page (#4386/#4388) where one exists
+// — same "only link what's real" discipline as the live PedalBrandPage.jsx.
+const { brands: FULL_BRANDS } = loadModuleConsts(
+  path.join(__dirname, '../packages/frontend/data/brands.js'),
+  ['brands']
+);
+
+function pedalsForBrand(brand) {
+  return PEDALS.filter((p) => p.brand && brand.dataBrandNames.includes(p.brand));
+}
+
 const drummersPath = path.join(__dirname, '../api/drummers/index.js');
 const drummersContent = fs.readFileSync(drummersPath, 'utf-8');
 const drummersMatch = drummersContent.match(/const drummers = (\[[\s\S]*?\]);[\s\S]*?export default function handler/);
@@ -291,6 +313,79 @@ function buildReferenceMarkdown(page) {
 }
 
 // ---------------------------------------------------------------------------
+// Brand files — public/llms/pedals/brands/<slug>.md (Issue #4432, split 1/3
+// of #4394)
+// ---------------------------------------------------------------------------
+
+function buildBrandMarkdown(brand) {
+  const url = `${BASE}/pedals/brands/${brand.slug}`;
+  const confirmedPedals = pedalsForBrand(brand)
+    .map((pedal) => {
+      const drummer = drummerBySlug[pedal.drummerSlug];
+      return drummer ? { pedal, slug: pedal.drummerSlug, name: drummer.name, band: drummer.band } : null;
+    })
+    .filter(Boolean)
+    .sort((a, b) => a.name.localeCompare(b.name));
+
+  const parts = [];
+  parts.push(`# ${brand.name} Bass Drum Pedals for Metal`);
+  parts.push('');
+  parts.push(`> ${brand.positioning}`);
+  parts.push('');
+  parts.push('---');
+  parts.push('');
+
+  if (brand.founded || brand.parent) {
+    parts.push('## Company Background');
+    parts.push('');
+    if (brand.founded) parts.push(`- **Founded:** ${brand.founded}`);
+    if (brand.parent) parts.push(`- ${brand.parent}`);
+    parts.push('');
+  }
+
+  parts.push('## Metal-Relevant Models');
+  parts.push('');
+  for (const line of brand.notableLines) {
+    parts.push(`- **${line.name}:** ${line.description}`);
+  }
+  parts.push('');
+
+  parts.push(`## Confirmed Metal Drummers (${confirmedPedals.length})`);
+  parts.push('');
+  if (confirmedPedals.length > 0) {
+    parts.push('| Drummer | Band | Pedal | Setup Page |');
+    parts.push('|---------|------|-------|------------|');
+    for (const { pedal, slug, name, band } of confirmedPedals) {
+      const descriptor = pedalDescriptor(pedal) || pedal.summary;
+      parts.push(`| [${name}](${BASE}/pedals/setups/${slug}) | ${band} | ${descriptor} | [Markdown](${BASE}/llms/pedals/setups/${slug}.md) |`);
+    }
+  } else {
+    parts.push(`We haven't verified a ${brand.name} pedal played by one of our mapped metal drummers yet.`);
+  }
+  parts.push('');
+
+  parts.push(`Source: [${brand.source.label}](${brand.source.url}).`);
+  parts.push('');
+
+  parts.push('## More Resources');
+  parts.push('');
+  const fullBrandPage = FULL_BRANDS[brand.slug];
+  if (fullBrandPage) {
+    parts.push(`- [Full ${brand.name} brand history](${BASE}/brands/${brand.slug})`);
+  }
+  parts.push(`- [Live page](${url})`);
+  parts.push(`- [Pedals Guide](${BASE}/llms/pedals.md)`);
+  parts.push(`- [Best Pedals for Metal](${BASE}/pedals/best-for-metal)`);
+  parts.push(`- [All LLM Resources](${BASE}/llms/index.md)`);
+  parts.push('');
+  parts.push('---');
+  parts.push('');
+  parts.push(`*Last updated: ${today} · Source: [MetalForge.io](${BASE})*`);
+
+  return parts.join('\n');
+}
+
+// ---------------------------------------------------------------------------
 // Hub file — public/llms/pedals.md
 // ---------------------------------------------------------------------------
 
@@ -331,7 +426,9 @@ function buildHubMarkdown() {
   parts.push('## Pedal Brands on the Roster');
   parts.push('');
   for (const brand of PILLAR_PAGE.brands) {
-    parts.push(`- **${brand.name}:** ${brand.note}`);
+    const brandPage = PEDAL_BRANDS.find((b) => b.name === brand.name);
+    const link = brandPage ? ` [Full brand page](${BASE}/llms/pedals/brands/${brandPage.slug}.md).` : '';
+    parts.push(`- **${brand.name}:** ${brand.note}${link}`);
   }
   parts.push('');
 
@@ -375,7 +472,9 @@ function buildHubMarkdown() {
 
 const outRoot = path.join(__dirname, '../public/llms');
 const setupsDir = path.join(outRoot, 'pedals/setups');
+const brandsDir = path.join(outRoot, 'pedals/brands');
 fs.mkdirSync(setupsDir, { recursive: true });
+fs.mkdirSync(brandsDir, { recursive: true });
 
 fs.writeFileSync(path.join(outRoot, 'pedals.md'), buildHubMarkdown());
 
@@ -394,8 +493,16 @@ for (const entry of pedalDrummers) {
   written++;
 }
 
+for (const brand of PEDAL_BRANDS) {
+  const md = buildBrandMarkdown(brand);
+  fs.writeFileSync(path.join(brandsDir, `${brand.slug}.md`), md);
+  const wordCount = md.split(/\s+/).filter(Boolean).length;
+  if (wordCount < 100) shortFiles.push(`brands/${brand.slug} (${wordCount} words)`);
+  written++;
+}
+
 const totalFiles = 1 + REFERENCE_PAGE_ORDER.length + written;
-console.log(`Wrote public/llms/pedals.md, ${REFERENCE_PAGE_ORDER.length} reference pages, ${written} per-drummer setup files (${totalFiles} total).`);
+console.log(`Wrote public/llms/pedals.md, ${REFERENCE_PAGE_ORDER.length} reference pages, ${PEDAL_BRANDS.length} brand pages, ${written - PEDAL_BRANDS.length} per-drummer setup files (${totalFiles} total).`);
 if (shortFiles.length) {
   console.error(`WARNING: ${shortFiles.length} setup file(s) under 100 words: ${shortFiles.join(', ')}`);
   process.exit(1);

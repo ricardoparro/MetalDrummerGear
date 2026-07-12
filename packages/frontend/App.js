@@ -185,6 +185,9 @@ import { getBrandForCymbalSetup } from './data/cymbalBrands';
 // mapping used by the drummer-page "Hardware" block and the
 // /pedals/setups/<drummer> pages (Issue #4393, phase 3/4).
 import { DRUMMER_PEDALS, getPedalForDrummer } from './data/pedals';
+// Pedal brand pages (Issue #4432, split 1/3 of #4394) — used to link the
+// drummer-page "Pedal" block to the matching /pedals/brands/<brand> page.
+import { getBrandForPedal } from './data/pedalBrands';
 
 // ==========================================
 // LAZY-LOADED DATA MODULES - Performance Optimization (#708)
@@ -436,6 +439,21 @@ function getCymbalBrandSlugFromURL() {
 }
 function isCymbalBrandPage() {
   return !!getCymbalBrandSlugFromURL();
+}
+
+// Pedal Brand Pages (Issue #4432, split 1/3 of #4394) - /pedals/brands/<brand>.
+// Only rendered for brands defined in data/pedalBrands.js — an unknown slug
+// falls through to the normal 404. No hub route (only 5 fixed brands; the
+// /pedals pillar page's "Major pedal brands" section links each one).
+const LazyPedalBrandPage = lazy(() => import('./components/PedalBrandPage').then(m => ({ default: m.PedalBrandPage })));
+const PEDAL_BRAND_RE = /^\/pedals\/brands\/([a-z0-9-]+)\/?$/i;
+function getPedalBrandSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(PEDAL_BRAND_RE);
+  return match ? match[1].toLowerCase() : null;
+}
+function isPedalBrandPage() {
+  return !!getPedalBrandSlugFromURL();
 }
 
 // Best Cymbals for Metal guide (Issue #4307, epic #4303 phase 4/4) - /cymbals/best-for-metal
@@ -7645,6 +7663,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
       {(() => {
         const mappedPedal = getPedalForDrummer(drummerSlug);
         if (!mappedPedal) return null;
+        const mappedPedalBrand = getBrandForPedal(mappedPedal);
         return (
           <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.bioText, { color: theme.text }]}>
@@ -7663,6 +7682,20 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
             >
               <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>See full pedal breakdown →</Text>
             </TouchableOpacity>
+            {mappedPedalBrand && (
+              <TouchableOpacity
+                onPress={() => {
+                  if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                    window.history.pushState({}, '', `/pedals/brands/${mappedPedalBrand.slug}`);
+                    window.dispatchEvent(new PopStateEvent('popstate'));
+                  }
+                }}
+                accessibilityRole="link"
+                accessibilityLabel={`More about ${mappedPedalBrand.name} pedals`}
+              >
+                <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>More {mappedPedalBrand.name} pedals →</Text>
+              </TouchableOpacity>
+            )}
           </View>
         );
       })()}
@@ -29958,6 +29991,37 @@ setShowList(false);
         </Suspense>
       );
     }
+    // Pedal Brand Page (Issue #4432, split 1/3 of #4394) - /pedals/brands/<brand>
+    if (isPedalBrandPage()) {
+      const pedalBrandSlug = getPedalBrandSlugFromURL();
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyPedalBrandPage
+            theme={theme}
+            brandSlug={pedalBrandSlug}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToPedalSetup={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/pedals/setups/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBestForMetal={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals/best-for-metal');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
     // Best Cymbals for Metal guide (Issue #4307, epic #4303 phase 4/4) - /cymbals/best-for-metal
     if (isCymbalBestForMetalPage()) {
       return (
@@ -30084,6 +30148,12 @@ setShowList(false);
             onNavigateBestForMetal={() => {
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', '/pedals/best-for-metal');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrand={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/pedals/brands/${slug}`);
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}

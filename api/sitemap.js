@@ -85,6 +85,8 @@ import { ENDORSEMENT_TIMELINE } from '../packages/frontend/data/endorsementNews.
 // source slugs from the verified drummer→pedal mapping so the sitemap only
 // ever lists drummers with a confirmed pedal (no thin pages).
 import { DRUMMER_PEDALS } from '../packages/frontend/data/pedals.js';
+// Issue #4432 (split 1/3 of #4394): /pedals/brands/<brand> pages.
+import { PEDAL_BRANDS } from '../packages/frontend/data/pedalBrands.js';
 
 // Issue #4201: Content Scale Sprint - All 65 drummers now in sitemap
 const drummers = [
@@ -666,6 +668,9 @@ export function buildSitemapXml() {
     ...PEDAL_REFERENCE_PAGE_ORDER.map(slug => ({ loc: `/pedals/${slug}`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #4433 (split 2/3 of #4394): /pedals/best-for-metal buying guide.
     { loc: '/pedals/best-for-metal', priority: '0.9', changefreq: 'monthly' },
+    // Issue #4432 (split 1/3 of #4394): /pedals/brands/<brand> pages (Tama,
+    // Pearl, DW, Axis, Trick). No hub route — only the 5 fixed brand pages.
+    ...PEDAL_BRANDS.map(brand => ({ loc: `/pedals/brands/${brand.slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).
     { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },

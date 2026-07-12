@@ -2847,3 +2847,32 @@ Metrics refreshed 06:51 UTC (220 users/257 sessions/468 views 7d; GSC 5,154 impr
 2. Backlog at 8 — still well below the 45 floor; keep promoting liberally.
 3. Re-check #4392/#4393 (pedals hub, PR #4426 CONFLICTING) and #4408 (perf phase 1, PR #4429) — promote #4394/#4390/#4409/#4410 once their prerequisites actually merge.
 4. Next L1/L2/L3 snapshots due 2026-07-13.
+
+---
+
+## 2026-07-12 07:43 — Deep run: promoted 4, split #4394 into 3 atomic issues, all pedals-phase prerequisites now merged
+
+### Context (≤3 lines)
+Metrics refreshed 07:43 UTC (226 users/263 sessions/471 views 7d; GSC 5,154 impr/140 clicks/2.72% CTR/pos 8.5 — no content-gap rows). Backlog was 6 eligible `ai-fix`, 1 open PR (#4426 CONFLICTING, pedals hub — but its target issues #4392/#4393 had already merged via #4423/#4425). 6 fresh untriaged `seo-proposal` (#4430, #4431, #4409, #4410, #4394, #4390).
+
+### Actions taken
+- Confirmed prior-run dependency blockers actually cleared since the 07:05/06:55 entries: **#4408** (perf phase 1) merged via PR #4429 (07:27:53Z), **#4392/#4393** (pedals hub phases 2/3) merged via PR #4423/#4425 (05:34/06:30Z). This unblocks the whole pedals + perf chain.
+- Verified and promoted **#4430** (`/pedals` surface, 60 pages, zero `vercel.json`/`api/meta` wiring — confirmed via live curl + grep, same bug class as #4370/#4381/#4395). **#4431** (`/llms/pedals*.md` — 0 of 60 files exist despite #4393 scoping them; confirmed via `find`, distinct fix location from #4430 so kept separate). **#4409** (perf phase 2, bundle diet — now unblocked since #4408 merged).
+- **#4394** (pedals phase 4: brand pages + buying guide + SEO wiring + gated door-consolidation) hit the atomic-split trigger (4 distinct deliverable bullets). Split into **#4432** (brand pages), **#4433** (best-for-metal guide), **#4434** (door consolidation, gated on 4432/4433 shipping + content parity). Closed #4394 `not planned` linking the splits.
+- Held **#4410** (perf phase 3) — depends on #4409 *shipping*, not just being promoted; #4409 just went in this run. Held **#4390** (brands phase 3) — depends on #4389 (brands phase 2) shipping; #4389 still open/unmerged.
+- No duplicate-issue risk: searched `pedals` + `ai-fix` before filing splits, only #4389 (unrelated brands) matched.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: oldest open `ai-fix` #4205 ~55h old, under 72h trigger (only #4394 hit the bullet-count trigger). Human-founder blockers (#4424 Joey Jordison deadline, #875, #529, #526, #525) unchanged, no re-spam. L1/L2/L3 snapshots still dated 2026-07-06 — next due 2026-07-13 (tomorrow), standing deferral holds one more run.
+
+### State delta
+- ai-fix backlog: 6 → 12 eligible (#4430, #4431, #4409, #4432, #4433, #4434 added; #4394 removed/replaced)
+- seo-proposal bank: 6 untriaged → 2 held (#4390, #4410, both genuinely dependency-gated)
+- Org/Sessions/Views (7d): 226/263/471 · GSC: 5,154 impr / 140 clicks / 2.72% CTR / pos 8.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 6/6 triaged (4 promoted, 2 correctly held on unmerged-dependency grounds). ✅ GSC-gap: none this week. ✅ Atomic split: #4394 split into 3 (#4432-4434). ✅ Decisions logged.
+
+### Next Run
+1. **Watch #4424 (Joey Jordison legacy article)** — hard July 26 index deadline, escalate if still unpicked by mid-day pulse.
+2. Backlog at 12 — still well below the 45 floor; keep promoting liberally toward the ~80 target band.
+3. Promote #4390 once #4389 merges; #4410 once #4409 merges.
+4. Next L1/L2/L3 snapshots due 2026-07-13 — first fresh run since the meta-shell saga closed; expect duplicate/404/big-loss fallout to show improvement.

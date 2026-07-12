@@ -3251,6 +3251,12 @@ function getMetaForPath(pathname) {
           { name: 'Battles', url: `${BASE_URL}/battles` },
           { name: `${d1.name} vs ${d2.name}`, url: `${BASE_URL}/battles/${battleSlug}` },
         ],
+        // Issue #4462: Person entities for both compared drummers so AI
+        // crawlers can resolve "X vs Y drummer" comparison queries.
+        personSchema: [
+          { name: d1.name, url: `${BASE_URL}/drummer/${_battleDrummerSlug(d1.name)}`, band: d1.band },
+          { name: d2.name, url: `${BASE_URL}/drummer/${_battleDrummerSlug(d2.name)}`, band: d2.band },
+        ],
       };
     }
   }
@@ -4378,11 +4384,34 @@ ${JSON.stringify(schema, null, 2)}
   </script>`;
 }
 
+// Generate Person JSON-LD for pages comparing/listing multiple drummers
+// (Issue #4462: /battles/<slug> head-to-head pages)
+function generatePersonSchema(meta) {
+  if (!meta.personSchema || !meta.personSchema.length) return '';
+
+  const schema = {
+    '@context': 'https://schema.org',
+    '@graph': meta.personSchema.map(p => ({
+      '@type': 'Person',
+      name: p.name,
+      url: p.url,
+      memberOf: { '@type': 'MusicGroup', name: p.band },
+    })),
+  };
+
+  return `
+  <!-- Person Structured Data (Issue #4462) -->
+  <script type="application/ld+json">
+${JSON.stringify(schema, null, 2)}
+  </script>`;
+}
+
 // Generate HTML with meta tags
 function generateMetaHtml(meta, originalUrl) {
   const articleSchemaScript = generateArticleSchema(meta);
   const breadcrumbSchemaScript = generateBreadcrumbSchema(meta);
   const faqSchemaScript = generateFaqSchema(meta);
+  const personSchemaScript = generatePersonSchema(meta);
   const speakableSchemaScript = generateSpeakableSchema(meta);
   
   return `<!DOCTYPE html>
@@ -4446,6 +4475,7 @@ function generateMetaHtml(meta, originalUrl) {
   ${articleSchemaScript}
   ${breadcrumbSchemaScript}
   ${faqSchemaScript}
+  ${personSchemaScript}
   ${speakableSchemaScript}
   <!-- Redirect browsers to actual SPA -->
   <noscript>

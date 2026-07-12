@@ -234,6 +234,7 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Iowa Drum Setup: Joey Jordison's Gear Breakdown | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/iowa-drum-setup.md) |
 | What's In Joey Jordison's Legendary Kit: Complete Gear Breakdown | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/whats-in-joey-jordisons-kit.md) |
 | Joey Jordison Signature Gear: What's Available Today & How to Get His Sound | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/joey-jordison-signature-gear-guide.md) |
+| Joey Jordison's Legacy: 5 Years On — The Kit, The Sticks, The Sound | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/joey-jordison-legacy.md) |
 | What's In Danny Carey's Mind-Bending Kit: Complete Gear Breakdown | Danny Carey | [Markdown](https://metalforge.io/llms/articles/whats-in-danny-careys-kit.md) |
 | What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/whats-in-tomas-haakes-kit.md) |
 | obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/obzen-drum-setup.md) |

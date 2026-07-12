@@ -47,6 +47,7 @@ export function SignatureStickPage({
   onNavigateToDrummer,
   onNavigateToHub,
   onNavigateToBrand,
+  onNavigateToArticle,
 }) {
   const themeContext = useContext(ThemeContext);
   const theme = themeProp || themeContext;
@@ -157,6 +158,17 @@ export function SignatureStickPage({
           accessibilityLabel="Back to the drumsticks guide"
         >
           <Text style={[styles.drummerName, { color: theme.text }]}>📏 More on Drumstick Sizes, Materials & Tips →</Text>
+        </Pressable>
+      )}
+
+      {stick.relatedArticle && onNavigateToArticle && (
+        <Pressable
+          onPress={() => onNavigateToArticle(stick.relatedArticle.slug)}
+          style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.card, borderColor: theme.border }]}
+          accessibilityRole="link"
+          accessibilityLabel={stick.relatedArticle.label}
+        >
+          <Text style={[styles.drummerName, { color: theme.text }]}>🕯️ {stick.relatedArticle.label} →</Text>
         </Pressable>
       )}
 

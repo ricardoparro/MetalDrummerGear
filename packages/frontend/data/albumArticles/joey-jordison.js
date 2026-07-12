@@ -2444,6 +2444,110 @@ export const articles = {
       "title": "Joey's Legacy: Gear That Outlives the Drummer",
       "content": "Joey Jordison's gear tells a story about how he thought about drumming: every piece was chosen for a specific purpose, built to endure extreme playing, and designed to serve the music rather than impress observers. The Pearl JJ1365 wasn't just a snare — it was an engineering solution to the problem of cutting through Slipknot's nine-instrument wall of sound. The Paiste RUDE cymbals weren't just cymbals — they were chosen because they were physically capable of withstanding his playing night after night.\n\nThe good news for drummers and collectors in 2026 is that most of Joey's sound is still accessible. The JJ1365 snare and Promark TX515W sticks are in production. The Paiste RUDE lineup hasn't changed. The Pearl Reference and Masters series maintain the shell character of his Iowa-era Masterworks setup.\n\nWhat's harder to find is the Iowa-era Masterworks kit in its original purple/black fade configuration — but these kits surface on Reverb and through vintage dealers for collectors willing to be patient. And for players who just want the sound rather than the artifact, a budget build using the three signature items (snare, sticks, one RUDE China) plus a mid-tier Pearl kit delivers the essential Joey Jordison character at a fraction of the full replica cost.\n\n**Quick Reference:**\n- **JJ1365 Signature Snare**: Buy new from any Pearl dealer — $250–350\n- **TX515W Signature Sticks**: Any music retailer — $13/pair\n- **Paiste RUDE**: Authorized Paiste dealers or Guitar Center — $150–380 per cymbal\n- **Iowa-era Pearl Masterworks**: Reverb.com, patience required — $2,000–6,000\n- **Full Replica Build**: $2,000–2,500 budget / $6,000–10,000 authentic\n\nFor the complete story of Joey's gear across all eras, start with the [Joey Jordison drummer profile](/drummer/joey-jordison), then read the [Iowa drum setup breakdown](/articles/iowa-drum-setup) and the [What's In Joey Jordison's Kit article](/articles/whats-in-joey-jordisons-kit).\n\nRest in power, #1. 🥁"
     }
+  },
+  "joey-jordison-legacy": {
+    "slug": "joey-jordison-legacy",
+    "drummer": "Joey Jordison",
+    "drummerId": 2,
+    "relatedDrummerSlug": "joey-jordison",
+    "artist": "Slipknot",
+    "genre": "Nu Metal / Death Metal",
+    "isAlbumArticle": true,
+    "articleSection": "Tribute",
+    "datePublished": "2026-07-12",
+    "dateModified": "2026-07-12",
+    "author": "MetalForge Editorial",
+    "title": "Joey Jordison's Legacy: 5 Years On — The Kit, The Sticks, The Sound",
+    "description": "Five years after Joey Jordison's death, his gear — the Pearl signature snare, the Promark TX515W sticks, the Paiste RUDE cymbal wall — still defines what extreme metal drumming sounds like. A tribute built on his verified rig, licks, and the drummers carrying his sound forward.",
+    "seoKeywords": [
+      "joey jordison legacy",
+      "joey jordison death anniversary",
+      "joey jordison tribute",
+      "how did joey jordison die",
+      "joey jordison illness",
+      "joey jordison gear",
+      "joey jordison 5 years"
+    ],
+    "ogImage": "/images/drummers/joey-jordison.webp",
+    "intro": {
+      "title": "Five Years Without Joey Jordison",
+      "content": "July 26, 2026 marks five years since Joey Jordison died at age 46. He co-founded Slipknot in 1995 and spent eighteen years as the band's drummer, leaving in December 2013 during the sessions that became .5: The Gray Chapter. In the years since, his influence has only calcified — the blast-beat control, the theatrical intensity, the gear choices built to survive being played upside down on a rotating riser all still shape how extreme metal drummers approach the kit.\n\n2026 has put his name back in front of a new audience. Slipknot's current album cycle and world tour have folded tributes to their founding drummer into the run, and in separate 2026 interviews with Louder, guitarist Chris Fehn and percussionist/turntablist Sid Wilson both spoke about what Jordison's playing and presence still mean to the band. This piece isn't about the tabloid version of his story — it's about the gear, because that's the part of his legacy you can still go buy, play, and hear for yourself.",
+      "keyPoints": [
+        "Died July 26, 2021, at age 46",
+        "Founding Slipknot drummer, 1995–2013",
+        "Also played in Murderdolls, Scar the Martyr, Sinsaenum, and Vimic",
+        "Voted greatest drummer of the previous 25 years by Rhythm magazine readers (2010)",
+        "Slipknot's 2026 album and world tour include tributes to him"
+      ]
+    },
+    "sections": [
+      {
+        "emoji": "🥁",
+        "title": "The Sound That Changed Metal",
+        "content": "Jordison joined Slipknot as the band's first member in 1995 and drummed on every studio album from the 1999 self-titled debut through All Hope Is Gone (2008), building a style that fused death-metal blast beats with nu-metal groove and a level of showmanship — most visibly his inverted, rotating drum platform — that no other extreme metal drummer of his generation matched. In 2010, Rhythm magazine's readers voted him the greatest drummer of the previous 25 years, a poll result that reflected just how far his playing had reached beyond Slipknot's own fanbase.\n\nHe left Slipknot in December 2013, during the writing sessions for what became .5: The Gray Chapter (2014) — the band's first album without him. Away from Slipknot, Jordison kept working: he sang and played guitar in the horror-punk band Murderdolls, drummed in the short-lived supergroup Scar the Martyr, joined the death-metal collective Sinsaenum, and recorded with the alternative-metal band Vimic. In 2016, he disclosed that he had been diagnosed with acute transverse myelitis, an inflammatory spinal-cord condition — context that reframed just how much of his later career had been a fight to keep playing at all.",
+        "keyPoints": [
+          ".5: The Gray Chapter (2014) was Slipknot's first album made after his December 2013 departure",
+          "Rhythm magazine readers named him greatest drummer of the previous 25 years in 2010",
+          "Post-Slipknot work spanned Murderdolls, Scar the Martyr, Sinsaenum, and Vimic",
+          "Disclosed his acute transverse myelitis diagnosis in 2016"
+        ]
+      },
+      {
+        "emoji": "🔥",
+        "title": "His Influence Today",
+        "content": "The clearest line of succession runs straight through Slipknot's own drum chair: Jay Weinberg spent nine years (2014–2023) as the band's drummer after Jordison's departure, and the two are directly compared in our Joey Jordison vs Jay Weinberg breakdown — Weinberg built his own identity on the foundation Jordison poured. The influence reaches well outside Slipknot's lineage too: Sepultura's Eloy Casagrande has cited Jordison's extreme-metal intensity as one of his primary influences alongside Igor Cavalera and Dave Lombardo.\n\nThat lineage is exactly what's driving the 2026 search spike around his name — Slipknot's new album and world tour have built tributes to their founding drummer into the campaign, and bandmates Chris Fehn and Sid Wilson have each used 2026 press interviews with Louder to talk about what he still means to the band five years on."
+      }
+    ],
+    "gearLegacy": {
+      "title": "The Gear Legacy",
+      "content": "This is the part of Joey Jordison's story that's still hands-on: nearly every piece of his verified rig remains in production or documented in detail on MetalForge, so you can study — or buy — the exact sound he built.",
+      "links": [
+        { "href": "/drummer/joey-jordison", "label": "His Complete Kit & Gear Setup", "note": "Full drummer profile: drums, snare, cymbals, hardware, and career timeline" },
+        { "href": "/drumsticks/signature/joey-jordison", "label": "Signature Sticks — Promark TX515W", "note": "Limited availability since 2021 — verify stock before buying" },
+        { "href": "/cymbals/setups/joey-jordison", "label": "Cymbal Setup — Paiste RUDE & 2002 Series", "note": "Full per-piece breakdown of the Wild Hi-Hats, Power Crashes, and Wild Chinas" },
+        { "href": "/snares/signature/joey-jordison", "label": "Signature Snare — Pearl 13\" × 6.5\"", "note": "The snare built to cut through Slipknot's nine-piece wall of sound" },
+        { "href": "/vs/joey-jordison-vs-jay-weinberg", "label": "Joey Jordison vs Jay Weinberg", "note": "The Slipknot succession, gear and technique compared" }
+      ]
+    },
+    "relatedLicks": [
+      {
+        "drummerSlug": "joey-jordison",
+        "lickSlug": "joey-jordison-heretic-anthem-intro",
+        "label": "Watch Joey Jordison's 'The Heretic Anthem' intro breakdown"
+      },
+      {
+        "drummerSlug": "joey-jordison",
+        "lickSlug": "joey-jordison-iowa-double-bass",
+        "label": "Watch Joey Jordison's Iowa title-track double-bass breakdown"
+      }
+    ],
+    "faq": [
+      {
+        "question": "When did Joey Jordison die?",
+        "answer": "Joey Jordison died on July 26, 2021, at age 46."
+      },
+      {
+        "question": "What was Joey Jordison's illness?",
+        "answer": "In 2016, Jordison disclosed that he had been diagnosed with acute transverse myelitis, an inflammatory condition affecting the spinal cord that had impaired his ability to play."
+      },
+      {
+        "question": "What drums and sticks did Joey Jordison use?",
+        "answer": "Jordison built his sound around a Pearl kit, his own Pearl Joey Jordison Signature snare (13\" × 6.5\"), Paiste RUDE and 2002 series cymbals, and Promark TX515W signature sticks. Full breakdowns of each piece are linked in the gear legacy section above."
+      }
+    ],
+    "relatedAlbums": [
+      "iowa-drum-setup",
+      "whats-in-joey-jordisons-kit",
+      "joey-jordison-drum-setup"
+    ],
+    "relatedDrummers": [
+      20,
+      7
+    ],
+    "conclusion": {
+      "title": "Rest in Power, #1",
+      "content": "Five years on, Joey Jordison's legacy isn't an abstraction — it's a signature snare still shipping from Pearl, a pack of Promark TX515W sticks still on music-store shelves, a wall of Paiste RUDE cymbals still cutting through mixes the way he needed them to. Slipknot's 2026 tributes will bring a new wave of listeners to his playing; the gear linked above is how they can actually study it. Rest in power, #1."
+    }
   }
 };
 export default articles;

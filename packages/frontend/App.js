@@ -2952,7 +2952,7 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           "@id": `https://metalforge.io/${urlBase}/${list.slug}`
         },
         "keywords": list.seoKeywords?.join(', ') || '',
-        "articleSection": list.isAlbumArticle ? "Album Gear Breakdown" : "Top 10 Lists",
+        "articleSection": list.articleSection || (list.isAlbumArticle ? "Album Gear Breakdown" : "Top 10 Lists"),
         "inLanguage": "en-US",
         ...(list.relatedDrummerSlug ? {
           "about": {
@@ -3420,6 +3420,59 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           </View>
         )}
 
+        {/* Generic Prose Sections — flexible narrative content blocks for articles that
+            aren't album gear breakdowns (e.g. tribute/anniversary pieces). Issue #4424. */}
+        {Array.isArray(list.sections) && list.sections.map((section, idx) => (
+          <View key={idx} style={[styles.articleIntroSection, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.articleIntroTitle, { color: theme.text }]}>
+              {section.emoji ? `${section.emoji} ` : ''}{section.title}
+            </Text>
+            <Text style={[styles.articleIntroContent, { color: theme.secondaryText }]}>{section.content}</Text>
+            {Array.isArray(section.keyPoints) && (
+              <View style={styles.articleKeyPoints}>
+                {section.keyPoints.map((point, pointIdx) => (
+                  <View key={pointIdx} style={styles.articleKeyPointItem}>
+                    <Text style={[styles.articleKeyPointBullet, { color: theme.primary }]}>✓</Text>
+                    <Text style={[styles.articleKeyPointText, { color: theme.secondaryText }]}>{point}</Text>
+                  </View>
+                ))}
+              </View>
+            )}
+          </View>
+        ))}
+
+        {/* Gear Legacy Section — reciprocal links into the verified gear cluster
+            (signature sticks, cymbal setup, signature snare, comparisons). Issue #4424. */}
+        {list.gearLegacy && Platform.OS === 'web' && (
+          <div style={{ margin: '0 20px 20px' }}>
+            <div style={{ fontSize: 18, fontWeight: '700', color: theme.text, marginBottom: 12 }}>
+              🥁 {list.gearLegacy.title}
+            </div>
+            {list.gearLegacy.content && (
+              <div style={{ fontSize: 15, lineHeight: 1.5, color: theme.secondaryText, marginBottom: 12 }}>
+                {list.gearLegacy.content}
+              </div>
+            )}
+            {Array.isArray(list.gearLegacy.links) && (
+              <ul style={{ listStyle: 'none', padding: 0, margin: 0, display: 'flex', flexDirection: 'column', gap: 8 }}>
+                {list.gearLegacy.links.map((link) => (
+                  <li key={link.href}>
+                    <a
+                      href={link.href}
+                      style={{ display: 'block', padding: '12px 16px', backgroundColor: theme.card, border: `1px solid ${theme.border}`, borderRadius: 8, color: theme.primary, textDecoration: 'none', fontSize: 15, fontWeight: '600' }}
+                    >
+                      {link.label} →
+                    </a>
+                    {link.note && (
+                      <div style={{ fontSize: 13, color: theme.secondaryText, marginTop: 4, paddingLeft: 4 }}>{link.note}</div>
+                    )}
+                  </li>
+                ))}
+              </ul>
+            )}
+          </div>
+        )}
+
         {/* Drum Kit Section */}
         {list.drumKit && (
           <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
@@ -3737,6 +3790,20 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
               ))}
             </ul>
           </div>
+        )}
+
+        {/* FAQ Section — visible content matching the FAQPage schema injected above
+            (Issue #4424; also benefits any existing article/list carrying `faq` data). */}
+        {Array.isArray(list.faq) && list.faq.length > 0 && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>❓ Frequently Asked Questions</Text>
+            {list.faq.map((item, idx) => (
+              <View key={idx} style={{ marginBottom: idx < list.faq.length - 1 ? 16 : 0 }}>
+                <Text style={[styles.gearTitle, { color: theme.text }]}>{item.question}</Text>
+                <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 4 }]}>{item.answer}</Text>
+              </View>
+            ))}
+          </View>
         )}
 
         {/* Conclusion Section */}
@@ -29211,6 +29278,12 @@ setShowList(false);
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}
+            onNavigateToArticle={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/articles/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
           />
         </Suspense>
       );
@@ -29290,6 +29363,12 @@ setShowList(false);
             onNavigateToBrand={(slug) => {
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/cymbals/brands/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToArticle={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/articles/${slug}`);
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}

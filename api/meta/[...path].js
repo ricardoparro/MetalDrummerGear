@@ -2912,10 +2912,6 @@ function getMetaForPath(pathname) {
       name: 'Metal Drum Kits',
       description: 'Full drum kits used by legendary metal drummers. Tama, Pearl, DW, Ludwig — filter by brand, genre, and price.',
     },
-    pedals: {
-      name: 'Metal Bass Drum Pedals',
-      description: 'Double bass pedals and single pedals used by metal drummers. Speed plate comparisons, signature models, and pro setups.',
-    },
     sticks: {
       name: 'Metal Drumsticks',
       description: 'Drumsticks used by pro metal drummers. Signature models, wood tips, nylon tips — filter by brand and drummer.',
@@ -2927,11 +2923,11 @@ function getMetaForPath(pathname) {
   };
 
   const gearCategoryMatch = path.match(/^\/gear\/([a-z-]+)$/);
-  // 'sticks', 'cymbals', and 'snares' excluded: /gear/sticks, /gear/cymbals,
-  // and /gear/snares 301 to /drumsticks, /cymbals, and /snares respectively
-  // at the edge (vercel.json), so no crawler-facing page may claim any of
-  // those URLs.
-  if (gearCategoryMatch && !gearCategoryMatch[1].startsWith('item') && gearCategoryMatch[1] !== 'sticks' && gearCategoryMatch[1] !== 'cymbals' && gearCategoryMatch[1] !== 'snares') {
+  // 'sticks', 'cymbals', 'snares', and 'pedals' excluded: /gear/sticks,
+  // /gear/cymbals, /gear/snares, and /gear/pedals 301 to /drumsticks,
+  // /cymbals, /snares, and /pedals respectively at the edge (vercel.json),
+  // so no crawler-facing page may claim any of those URLs (Issue #4434).
+  if (gearCategoryMatch && !gearCategoryMatch[1].startsWith('item') && gearCategoryMatch[1] !== 'sticks' && gearCategoryMatch[1] !== 'cymbals' && gearCategoryMatch[1] !== 'snares' && gearCategoryMatch[1] !== 'pedals') {
     const catSlug = gearCategoryMatch[1];
     const catMeta = GEAR_CATEGORY_META[catSlug];
     if (catMeta) {
@@ -2979,20 +2975,6 @@ function getMetaForPath(pathname) {
           {
             question: 'What should I look for in a metal drum kit?',
             answer: 'Prioritise shell depth (deeper toms = more punch), a rigid hardware system, and a heavy-duty bass drum pedal mount. Birch or maple shells are common choices; avoid entry-level poplar kits for live metal performance.',
-          },
-        ],
-        pedals: [
-          {
-            question: 'What are the best bass drum pedals for metal?',
-            answer: `Top metal double pedals include the DW 9002, Tama Iron Cobra, Pearl Eliminator, and Mapex Falcon. Speed plate linkage and spring tension matter most for blast beats. Full comparison at ${catUrl}.`,
-          },
-          {
-            question: 'Which metal drummers use DW or Tama pedals?',
-            answer: "Dave Lombardo (Slayer) is known for DW 9002 double pedals. George Kollias (Nile) has used Pearl Eliminators. Many drummers choose based on footboard feel and spring response rather than brand loyalty.",
-          },
-          {
-            question: 'What should I look for in a metal bass drum pedal?',
-            answer: 'For metal and extreme speeds, look for a direct-drive or longboard cam pedal, adjustable spring tension, and a chain or direct-drive linkage. Heel-up playing favours a longer footboard; heel-toe technique suits compact boards.',
           },
         ],
         sticks: [

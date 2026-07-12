@@ -2876,3 +2876,32 @@ Metrics refreshed 07:43 UTC (226 users/263 sessions/471 views 7d; GSC 5,154 impr
 2. Backlog at 12 — still well below the 45 floor; keep promoting liberally toward the ~80 target band.
 3. Promote #4390 once #4389 merges; #4410 once #4409 merges.
 4. Next L1/L2/L3 snapshots due 2026-07-13 — first fresh run since the meta-shell saga closed; expect duplicate/404/big-loss fallout to show improvement.
+
+---
+
+## 2026-07-12 08:50 — Pulse: closed 2 duplicate-race PRs, salvaged a real gap from one into #4439, filed infra escalation #4440, promoted #4390
+
+### Context (≤3 lines)
+Metrics refreshed 08:43 UTC (236 users/273 sessions/500 views 7d; GSC 5,154 impr/140 clicks/2.72% CTR/pos 8.5 — no content-gap rows). Backlog was 11 eligible `ai-fix`, 4 open PRs (2 UNSTABLE, 2 DIRTY). #4389 (brands phase 2) had merged at 08:26:20Z via PR #4435, and #4408 (perf phase 1) had merged at 07:27:54Z via PR #4429.
+
+### Actions taken
+- **Diagnosed both DIRTY PRs as the same-run dispatch race** flagged as a watch item in the 07:05 entry: PR #4426 (`fix: #4392`) opened 05:37:00Z, 3 min after #4392 already merged via #4423 (05:34:26Z) — diff size (1035 vs 1006 additions) and files matched almost exactly, no unique content, closed as duplicate. PR #4436 (`fix: #4389`) opened 08:29:36Z, 3 min after #4389 already merged via #4435 (08:26:20Z) — mostly duplicate, but its diff on `api/meta/[...path].js` contained a real fix #4435 never shipped: the 7 new brand slugs (sonor, vic-firth, pro-mark, vater, ahead, wincent, axis) have a live `vercel.json:567` bot-UA rewrite but no entry in the meta handler's brand map, so `curl -A Googlebot https://metalforge.io/brands/sonor` returns the generic site title instead of a per-brand one (verified live, same failure signature as #4381/#4382/#4395/#4396/#4430). Closed #4436, filed **#4439** to carry that specific fix forward against fresh main.
+- **Filed #4440** (human-founder, infra) — this is the 3rd distinct instance this week of the same pattern (concurrent Roadie runs racing the same issue, late PR lands DIRTY against already-merged main): the #4415/#4406 batch (07:05 entry), #4426, #4436. Documented root-cause hypothesis (no re-check of issue state before a dispatched run opens its PR) and a suggested fix, scoped as infra/dispatcher config outside this agent's write access.
+- Promoted **#4390** (brands phase 3, timeline hub) — #4389 merged, dependency cleared.
+- Founder ideas: inbox empty. GSC content-gap: none. Atomic-split sweep: oldest open `ai-fix` #4205 ~56h old, under 72h trigger. #4424 (Joey Jordison, filed 05:33 UTC) still has 0 comments/no PR — ~3h old, not yet at the "mid-day pulse" (13:00 UTC) escalation checkpoint, watching. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1/L2/L3 snapshots still dated 2026-07-06 — next due 2026-07-13.
+
+### State delta
+- ai-fix backlog: 11 → 13 eligible (#4390, #4439 added)
+- Open PRs: 4 → 2 (#4426, #4436 closed as duplicates; #4437 UNSTABLE, #4438 UNSTABLE remain)
+- New issues: #4439 (brand meta-handler gap, ai-fix), #4440 (infra escalation, human-founder)
+- Org/Sessions/Views (7d): 236/273/500 · GSC: 5,154 impr / 140 clicks / 2.72% CTR / pos 8.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: none fresh (only dependency-gated #4410 remains, still correctly held — #4409 open not merged). ✅ GSC-gap: none this week. ✅ Atomic split: none needed (no issue crossed the 72h/4-bullet trigger). ✅ Decisions logged.
+
+### Next Run
+1. **Watch #4424 (Joey Jordison legacy article)** — hard July 26 deadline, escalate to human-founder if still unpicked by the 13:00 UTC mid-day pulse.
+2. Watch #4440 (infra escalation) — no action expected from Ricardo immediately, but stop silently closing duplicates without counting if a 4th+ instance appears; consider re-escalating with urgency if the pattern continues past this week.
+3. Backlog at 13 — still well below the 45 floor; keep promoting liberally toward the ~80 target band.
+4. Promote #4410 (perf phase 3) once #4409 actually merges (PR #4437 currently UNSTABLE, not yet merged).
+5. Next L1/L2/L3 snapshots due 2026-07-13 (tomorrow) — first fresh run since the meta-shell saga closed.

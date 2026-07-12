@@ -121,6 +121,15 @@ import {
   generateBestForMetalItemListSchema as generateCymbalBestForMetalItemListSchema,
   generateBestForMetalBreadcrumbSchema as generateCymbalBestForMetalBreadcrumbSchema,
 } from '../../packages/frontend/data/cymbalBestForMetal.js';
+// Issue #4382: SSR meta + JSON-LD for /cymbals/setups/<drummer> (#4306) — the
+// 56 sitemapped pages had a client-side component and schema helpers but no
+// bot-UA rewrite or meta handler branch, so crawlers saw the generic homepage.
+import {
+  getCymbalSetupPageData,
+  generateCymbalSetupTitle,
+  generateCymbalSetupDescription,
+  generateCymbalSetupSchema,
+} from '../../packages/frontend/data/cymbalSetupPages.js';
 // Issue #4312: SSR meta + JSON-LD for the /snares* route family (epic #4308,
 // phases #4310-#4312) — the hub had zero bot-facing SSR meta despite being
 // fully built out and sitemap-listed since phase 2.
@@ -3825,6 +3834,27 @@ function getMetaForPath(pathname) {
         generateCymbalBestForMetalBreadcrumbSchema(),
       ].filter(Boolean)),
     };
+  }
+
+  // Issue #4382: /cymbals/setups/<drummer> — per-drummer "what cymbals does
+  // X use" pages (#4306). getCymbalSetupPageData returns null for drummers
+  // without a verified setup (the ~11 excluded in cymbalSetups.js), which
+  // falls through to the generic fallback below rather than fabricating one.
+  const cymbalSetupMatch = path.match(/^\/cymbals\/setups\/([a-z0-9-]+)\/?$/);
+  if (cymbalSetupMatch) {
+    const slug = cymbalSetupMatch[1];
+    const drummer = getDrummerBySlug(slug);
+    const data = drummer ? getCymbalSetupPageData(slug, drummer.name) : null;
+    if (data) {
+      return {
+        title: generateCymbalSetupTitle(data),
+        description: truncate(generateCymbalSetupDescription(data), 160),
+        image: DEFAULT_IMAGE,
+        type: 'article',
+        url: data.canonicalUrl,
+        articleSchema: JSON.stringify(generateCymbalSetupSchema(data).filter(Boolean)),
+      };
+    }
   }
 
   // Issue #4307: /cymbals/{types,alloys,sizes-weights} reference pages —

@@ -530,6 +530,8 @@ export function buildSitemapXml() {
     { loc: '/tools', priority: '0.95', changefreq: 'weekly' },
     // Issue #704: Tools pages (viral tools)
     ...toolPages.map(t => ({ loc: `/tools/${t.slug}`, priority: '0.95', changefreq: 'weekly' })),
+    // Issue #4443: Dream Setup Builder (flagship isNew:true tool)
+    { loc: '/tools/setup-builder', priority: '0.85', changefreq: 'monthly' },
     // Issue #721, #732: Gear Comparison Tool + Top 20 SEO comparisons
     { loc: '/tools/compare', priority: '0.95', changefreq: 'weekly' },
     ...top20GearComparisons.map(c => ({ 

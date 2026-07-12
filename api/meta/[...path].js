@@ -1365,6 +1365,24 @@ function getMetaForPath(pathname) {
     };
   }
 
+  // Dream Setup Builder - Issue #4443
+  if (path === '/tools/setup-builder') {
+    return {
+      title: `Dream Setup Builder — Guided Metal Drum Gear Wizard | ${SITE_NAME}`,
+      description: 'Answer a few questions about your budget, genre, and skill level to get a personalized metal drum kit recommendation, matched against real pro drummer setups.',
+      type: 'website',
+      url: `${BASE_URL}/tools/setup-builder`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'WebApplication',
+        name: 'Dream Setup Builder',
+        applicationCategory: 'UtilitiesApplication',
+        url: `${BASE_URL}/tools/setup-builder`,
+        operatingSystem: 'Any',
+      }),
+    };
+  }
+
   // Tier List - Issue #1350
   if (path === '/tools/tier-list') {
     return {

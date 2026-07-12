@@ -1409,6 +1409,36 @@ function useSectionImpression(sectionName) {
   return ref;
 }
 
+// Issue #4407: defers a code-split chunk's dynamic import() until its section
+// is about to scroll into view, instead of firing unconditionally on mount.
+// Without this, below-the-fold homepage widgets (Top 10 Lists, Album
+// Articles) downloaded their data chunks on every homepage load regardless
+// of whether the visitor ever scrolled to them.
+function useLazyChunkOnVisible(rootMargin = '200px') {
+  const ref = useRef(null);
+  const [isVisible, setIsVisible] = useState(false);
+  useEffect(() => {
+    if (Platform.OS !== 'web' || typeof window === 'undefined' || typeof IntersectionObserver === 'undefined') {
+      setIsVisible(true);
+      return;
+    }
+    const el = ref.current;
+    if (!el) return;
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setIsVisible(true);
+          observer.disconnect();
+        }
+      },
+      { rootMargin }
+    );
+    observer.observe(el);
+    return () => observer.disconnect();
+  }, []);
+  return [ref, isVisible];
+}
+
 // Fires scroll_depth events at 25/50/75/100% thresholds, once per session.
 function useScrollDepth() {
   useEffect(() => {
@@ -2569,23 +2599,31 @@ function TopListsSection({ theme, onNavigateToList }) {
   const [lists, setLists] = useState([]);
   const [isLoaded, setIsLoaded] = useState(false);
   const sectionRef = useSectionImpression('top_lists');
+  const [visibilityRef, isVisible] = useLazyChunkOnVisible();
+  const setRefs = useCallback((el) => {
+    visibilityRef.current = el;
+    sectionRef.current = el;
+  }, [visibilityRef, sectionRef]);
 
-  // Load top 10 lists data lazily
+  // Load top 10 lists data lazily, only once the section nears the viewport
+  // (Issue #4407 - was downloading unconditionally on every homepage load)
   useEffect(() => {
+    if (!isVisible) return;
     loadTop10Lists().then(module => {
       _top10ListsModule = module;
       setLists(module.getAllTop10Lists());
       setIsLoaded(true);
     });
-  }, []);
+  }, [isVisible]);
 
-  // Don't render until data is loaded
+  // Don't render until data is loaded, but keep a placeholder mounted so the
+  // visibility observer above has an element to watch.
   if (!isLoaded || lists.length === 0) {
-    return null;
+    return <View ref={setRefs} />;
   }
 
   return (
-    <View ref={sectionRef} style={[styles.topListsSection, { backgroundColor: 'transparent' }]}>
+    <View ref={setRefs} style={[styles.topListsSection, { backgroundColor: 'transparent' }]}>
       <View style={styles.topListsHeader}>
         <Text style={[styles.topListsTitle, { color: theme.text }]}>🏆 Top 10 Lists</Text>
         <Text style={[styles.topListsSubtitle, { color: theme.secondaryText }]}>
@@ -2633,9 +2671,18 @@ function AlbumArticlesSection({ theme }) {
   const [albumArticles, setAlbumArticles] = useState([]);
   const [isLoaded, setIsLoaded] = useState(false);
   const sectionRef = useSectionImpression('album_articles');
-  
-  // Load album articles lazily - performance optimization (#708)
+  const [visibilityRef, isVisible] = useLazyChunkOnVisible();
+  const setRefs = useCallback((el) => {
+    visibilityRef.current = el;
+    sectionRef.current = el;
+  }, [visibilityRef, sectionRef]);
+
+  // Load album articles lazily - performance optimization (#708), only once
+  // the section nears the viewport (Issue #4407 - this 2.5MB+ chunk was
+  // downloading unconditionally on every homepage load, even for visitors
+  // who never scrolled this far).
   useEffect(() => {
+    if (!isVisible) return;
     if (isAlbumArticlesLoaded()) {
       setAlbumArticles(getAllAlbumArticles());
       setIsLoaded(true);
@@ -2645,12 +2692,12 @@ function AlbumArticlesSection({ theme }) {
         setIsLoaded(true);
       });
     }
-  }, []);
+  }, [isVisible]);
 
-  if (!isLoaded || albumArticles.length === 0) return null;
+  if (!isLoaded || albumArticles.length === 0) return <View ref={setRefs} />;
 
   return (
-    <View ref={sectionRef} style={[styles.topListsSection, { backgroundColor: 'transparent', marginTop: 8 }]}>
+    <View ref={setRefs} style={[styles.topListsSection, { backgroundColor: 'transparent', marginTop: 8 }]}>
       <View style={styles.topListsHeader}>
         <Text style={[styles.topListsTitle, { color: theme.text }]}>💿 Iconic Album Gear Breakdowns</Text>
         <Text style={[styles.topListsSubtitle, { color: theme.secondaryText }]}>
@@ -24428,7 +24475,6 @@ function AppContent() {
         () => preloadGearComparisons(), // 34KB - Gear comparisons
         // Low priority: Less frequently accessed
         () => preloadTechniques(),      // 43KB - Technique pages
-        () => preloadTop10Lists(),      // 40KB - Top 10 lists
         () => preloadExtendedBios(),    // 559KB - Extended bios (HEAVY - load late)
         () => preloadDrummerComparisons(), // 40KB - Drummer comparisons (Issue #558)
         // Lowest priority: Content pages loaded only when needed - Issue #708
@@ -24438,8 +24484,10 @@ function AppContent() {
         () => preloadBeginnerGuide(),   // 63KB - Beginner guide
         () => preloadNameGenerator(),   // 27KB - Name generator tool
         () => preloadGearSearch(),      // 62KB - Gear search engine (Issue #719)
-        // Note: preloadAlbumArticles (614KB) removed from initial preload - too heavy
-        // It will be loaded on-demand when user navigates to album article pages
+        // Note: preloadAlbumArticles (614KB) and preloadTop10Lists removed from
+        // initial preload (Issue #4407) - both chunks load on-demand instead,
+        // gated by IntersectionObserver in TopListsSection/AlbumArticlesSection
+        // so the homepage no longer downloads them unconditionally.
       ];
       
       // Issue #753: Use progressive preloading with 150ms delays between tasks
@@ -24464,12 +24512,19 @@ function AppContent() {
   // The spotlight drummer image is typically the LCP element on mobile
   useEffect(() => {
     if (Platform.OS !== 'web' || typeof document === 'undefined') return;
-    
-    // Preload spotlight/LCP image with highest priority
-    if (apiSpotlight?.image) {
+
+    // Preload spotlight/LCP image with highest priority.
+    // Issue #4407: local drummer images are already preloaded synchronously
+    // by the inline script in web/index.html (which picks the exact -100w/
+    // -200w variant matching the viewport). Re-preloading here used
+    // IMAGE_WIDTHS.spotlight (undefined) and getOptimizedImageUrl's local-path
+    // short-circuit, so it just re-requested the plain, unsized original —
+    // a wasted duplicate download of the same drummer's image. Only remote
+    // spotlight images (not yet migrated to local assets) need this preload.
+    if (apiSpotlight?.image && !isLocalDrummerImage(apiSpotlight.image)) {
       // Use the criticalCss utility for proper LCP preloading
-      const spotlightImageUrl = getOptimizedImageUrl(apiSpotlight.image, { 
-        width: IMAGE_WIDTHS.spotlight,
+      const spotlightImageUrl = getOptimizedImageUrl(apiSpotlight.image, {
+        width: IMAGE_WIDTHS.medium,
         format: 'webp'
       });
       preloadLcpImage(spotlightImageUrl);

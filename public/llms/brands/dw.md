@@ -52,10 +52,33 @@ A: The DW Collectors Series is DW's hand-built custom drum line, available in ex
 Q: Are DW drums used in death metal?
 A: Yes. George Kollias (Nile) and Hannes Grossmann (Obscura) are among the technical death metal drummers who use DW Collectors Series kits. DW's 9000 pedal series is equally prevalent across death metal, thrash, and progressive metal touring rigs.
 
+## History
+
+Founded **1972** in Santa Monica, California, USA, by Don Lombardi.
+
+Drum Workshop began in 1972, not as a manufacturer but as a drum-lesson studio: 26-year-old Don Lombardi opened a small teaching space called "Drum Workshop" in Santa Monica, California, offering private lessons and monthly workshops.
+
+John Good, one of Lombardi's students, became his business partner, and the two began developing drum hardware out of necessity. In 1977, they purchased the machinery, dies, and molds of the defunct Camco Drum Co., giving DW its first manufacturing capability.
+
+In 1979, DW released the DW 5000 bass drum pedal, an improved version of the old Camco 5000 design, which quickly became an industry-standard piece of hardware still referenced by pedal makers today.
+
+DW didn't produce its own acoustic drum kits until 1989, when it debuted a full drum line at the NAMM trade show. From there the company built out its Collector's Series and California custom shop, expanding its Oxnard facility in 1998.
+
+**Milestones:**
+- **1972** — Don Lombardi opens the Drum Workshop teaching studio in Santa Monica, California.
+- **1977** — DW purchases the machinery, dies, and molds of Camco Drum Co., gaining its first manufacturing capability.
+- **1979** — The DW 5000 bass drum pedal launches and becomes an industry benchmark for hardware.
+- **1989** — DW debuts its first full acoustic drum line at the NAMM trade show.
+- **1998** — DW expands its Oxnard, California facility, establishing the California Custom Shop.
+
+**Metal era:** While DW is often associated with studio and session drummers, its Collector's Series shells and 9000 Series hardware give metal drummers the tuning range and heavy-duty durability needed for aggressive touring and recording, and the DW pedal lineage remains a common choice among metal drummers who want fast, adjustable, road-tested hardware.
+
+**Source:** [dwdrums.com/the-dw-story](https://dwdrums.com/the-dw-story/)
+
 ---
 
 **Brand page:** [/brands/dw](https://metalforge.io/brands/dw)
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

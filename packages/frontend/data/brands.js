@@ -32,17 +32,27 @@ export const brands = {
 **Notable Metal Artists:**
 From Lars Ulrich's iconic thrash sound to George Kollias' blistering death metal, Tama drums have defined the sound of metal for decades.`,
     history: {
-      founded: "The Tama brand launched in 1974 as the drum line of Hoshino Gakki, a Japanese musical instrument company founded in Nagoya in 1908.",
-      milestones: [
-        { year: "1908", event: "Hoshino Gakki is founded in Nagoya, Japan." },
-        { year: "1974", event: "The Tama name launches, bringing Hoshino Gakki's drum-making under one brand." },
-        { year: "1993", event: "The Iron Cobra bass drum pedal launches and becomes a metal-industry standard." },
+      foundedYear: 1974,
+      foundedPlace: "Nagoya, Japan (Hoshino Gakki)",
+      founder: "Hoshino Gakki",
+      story: [
+        "Tama's history begins with Hoshino Gakki, a Japanese musical instrument company founded in Nagoya in 1908 that started out selling books before moving into instrument sales and, eventually, manufacturing.",
+        "Hoshino Gakki built its early reputation making guitars — the company would later launch the Ibanez brand — before turning its attention to drums. In 1974, Hoshino Gakki launched the Tama name specifically for its drum line, giving that side of the business its own dedicated identity.",
+        "Tama grew quickly through the 1970s and 80s by pairing Japanese manufacturing precision with steady hardware innovation, developing mounting systems that set it apart from rival Japanese and American drum makers.",
+        "That innovation reached a milestone in 1993 with the launch of the Iron Cobra bass drum pedal, which became one of the most widely used double pedals in professional drumming and remains a metal-industry standard today.",
+        "Tama has continued to expand its Starclassic shell lineup and hardware systems since, building a reputation as a first-call brand for touring metal drummers who need both reliability and a powerful, focused low end.",
       ],
-      metalEntry: "Lars Ulrich (Metallica) has been an official Tama artist since the mid-1980s, building his kits around Tama shells and the Iron Cobra pedal.",
-      source: { label: "Tama / Hoshino Gakki company history", url: "https://www.tama.com" },
+      milestones: [
+        { year: 1908, event: "Hoshino Gakki is founded in Nagoya, Japan." },
+        { year: 1974, event: "Hoshino Gakki launches the Tama name as a dedicated drum brand." },
+        { year: "mid-1980s", event: "Lars Ulrich (Metallica) becomes an official Tama artist, building his kits around Tama shells and, later, the Iron Cobra pedal." },
+        { year: 1993, event: "The Iron Cobra bass drum pedal launches and becomes a metal-industry standard." },
+      ],
+      metalEra: "Lars Ulrich has been an official Tama artist since the mid-1980s, building his Metallica kits around Tama shells and the Iron Cobra pedal — one of the most visible metal endorsements in drum-brand history. George Kollias (Nile) and other extreme metal drummers have since relied on Tama's Starclassic shells and Iron Cobra pedals for the speed and durability blast-beat drumming demands.",
+      sources: ["https://www.tama.com"],
     },
     themeLinks: [
-      { path: "/drumsticks/brands/tama", label: "Tama on /drumsticks" },
+      { path: "/drumsticks/brands/tama", label: "Explore Tama in the Drumstick Guide" },
     ],
     metaTitle: "Tama Metal Drummers - Who Plays Tama Drums | MetalForge",
     metaDescription:
@@ -95,14 +105,24 @@ Pearl's metal legacy includes some of the genre's most iconic drummers. Joey Jor
 - **Masterworks** – Custom shop craftsmanship
 - **Session Studio Select** – Professional features at accessible prices`,
     history: {
-      founded: "Pearl was founded in Tokyo, Japan in 1946 by Katsumi Yanagisawa, initially making music stands before moving into drum manufacturing.",
-      milestones: [
-        { year: "1946", event: "Katsumi Yanagisawa founds the company in Tokyo, Japan." },
-        { year: "1950", event: "Pearl shifts from music stands into drum manufacturing." },
-        { year: "1966", event: "The President Series becomes Pearl's first professional-grade drum kit." },
+      foundedYear: 1946,
+      foundedPlace: "Tokyo, Japan",
+      founder: "Katsumi Yanagisawa",
+      story: [
+        "Pearl began in 1946 in Tokyo, founded by Katsumi Yanagisawa in the aftermath of World War II. The company's earliest products were music stands, not drums.",
+        "Around 1950, Pearl shifted its manufacturing focus toward drums, entering a Japanese percussion market that would come to be dominated by a handful of large, vertically integrated manufacturers.",
+        "The President Series, introduced in 1966, was Pearl's first dedicated professional-grade drum kit and marked the company's transition from a general instrument-hardware manufacturer into a serious contender in the international drum market.",
+        "Pearl's manufacturing scale — among the largest of any drum company in the world — let it invest heavily in hardware R&D, producing innovations like the Eliminator and later Demon Drive pedal systems built for speed and durability under heavy touring use.",
+        "That scale and engineering focus made Pearl a natural fit for hard-hitting rock and metal drummers, and by the mid-1990s the company was signing metal artists to showcase its Masters and Reference series shells.",
       ],
-      metalEntry: "Vinnie Paul (Pantera) endorsed Pearl from 1996 onward, with Pearl producing his signature snare drums.",
-      source: { label: "Pearl Drums company history (Wikipedia)", url: "https://en.wikipedia.org/wiki/Pearl_Drums" },
+      milestones: [
+        { year: 1946, event: "Katsumi Yanagisawa founds the company in Tokyo, Japan, initially manufacturing music stands." },
+        { year: 1950, event: "Pearl shifts its manufacturing focus into drums." },
+        { year: 1966, event: "The President Series becomes Pearl's first professional-grade drum kit." },
+        { year: 1996, event: "Vinnie Paul (Pantera) begins his long-running Pearl endorsement, with Pearl producing his signature snare drums." },
+      ],
+      metalEra: "Vinnie Paul's Pearl kit — and Pearl's production of his signature snare — helped define the sound of groove metal through Pantera's catalog. Joey Jordison's rotating drum riser packed with Pearl Reference drums became one of the most recognizable images in Slipknot's live show, cementing Pearl's place as a metal-standard drum brand.",
+      sources: ["https://en.wikipedia.org/wiki/Pearl_Drums"],
     },
     metaTitle: "Pearl Metal Drummers - Who Plays Pearl Drums | MetalForge",
     metaDescription:
@@ -153,13 +173,25 @@ DW's "Drum Workshop" origins show in their attention to detail. Each drum is bui
 **Metal Applications:**
 While DW is often associated with studio drummers, many metal artists choose DW for their exceptional tuning range and ability to cut through dense mixes. The attack and projection of DW drums make them ideal for both studio recording and live performance.`,
     history: {
-      founded: "DW was founded in 1972 in Santa Monica, California by Don Lombardi, originally as a drum-lesson studio before it grew into a manufacturer.",
-      milestones: [
-        { year: "1972", event: "Don Lombardi opens a drum-lesson studio in Santa Monica, California, the seed of what becomes Drum Workshop." },
-        { year: "1979", event: "The DW 5000 bass drum pedal launches and becomes an industry benchmark for hardware." },
-        { year: "1999", event: "DW founds its Pacific Drums and Percussion (PDP) sub-brand." },
+      foundedYear: 1972,
+      foundedPlace: "Santa Monica, California, USA",
+      founder: "Don Lombardi",
+      story: [
+        "Drum Workshop began in 1972, not as a manufacturer but as a drum-lesson studio: 26-year-old Don Lombardi opened a small teaching space called \"Drum Workshop\" in Santa Monica, California, offering private lessons and monthly workshops.",
+        "John Good, one of Lombardi's students, became his business partner, and the two began developing drum hardware out of necessity. In 1977, they purchased the machinery, dies, and molds of the defunct Camco Drum Co., giving DW its first manufacturing capability.",
+        "In 1979, DW released the DW 5000 bass drum pedal, an improved version of the old Camco 5000 design, which quickly became an industry-standard piece of hardware still referenced by pedal makers today.",
+        "DW didn't produce its own acoustic drum kits until 1989, when it debuted a full drum line at the NAMM trade show and took orders for 60 kits on the first day alone. From there the company built out its Collector's Series and California custom shop, expanding its Oxnard facility in 1998.",
+        "What began as a lesson studio grew into one of the most respected premium drum manufacturers in the world, prized for meticulous, small-batch craftsmanship rather than mass production.",
       ],
-      source: { label: "DW – The DW Story", url: "https://dwdrums.com/the-dw-story/" },
+      milestones: [
+        { year: 1972, event: "Don Lombardi opens the Drum Workshop teaching studio in Santa Monica, California." },
+        { year: 1977, event: "DW purchases the machinery, dies, and molds of Camco Drum Co., gaining its first manufacturing capability." },
+        { year: 1979, event: "The DW 5000 bass drum pedal launches and becomes an industry benchmark for hardware." },
+        { year: 1989, event: "DW debuts its first full acoustic drum line at the NAMM trade show." },
+        { year: 1998, event: "DW expands its Oxnard, California facility, establishing the California Custom Shop." },
+      ],
+      metalEra: "While DW is often associated with studio and session drummers, its Collector's Series shells and 9000 Series hardware give metal drummers the tuning range and heavy-duty durability needed for aggressive touring and recording, and the DW pedal lineage remains a common choice among metal drummers who want fast, adjustable, road-tested hardware.",
+      sources: ["https://dwdrums.com/the-dw-story/"],
     },
     metaTitle: "DW Metal Drummers - Who Plays DW Drums | MetalForge",
     metaDescription:
@@ -210,14 +242,25 @@ Ludwig drums were there at the birth of rock music - Ringo Starr's Ludwig kit on
 **Metal Applications:**
 While Ludwig is often associated with classic rock, many metal drummers rely on Ludwig snares for their cutting attack and projection. The Black Beauty remains a studio favorite for metal recordings, prized for its ability to cut through dense mixes.`,
     history: {
-      founded: "Ludwig was founded in Chicago in 1909 by brothers William F. Ludwig and Theobald Ludwig.",
-      milestones: [
-        { year: "1909", event: "William F. and Theobald Ludwig found the company in Chicago and introduce the first practical bass drum pedal." },
-        { year: "1920s", event: "The Black Beauty brass snare drum is introduced and becomes one of the most recorded snares in history." },
-        { year: "1964", event: "Ringo Starr's Ludwig kit appears on The Ed Sullivan Show, sparking the \"Ludwig boom\" in rock drumming." },
+      foundedYear: 1909,
+      foundedPlace: "Chicago, Illinois, USA",
+      founder: "William F. Ludwig and Theobald Ludwig",
+      story: [
+        "Ludwig & Ludwig was founded in Chicago in 1909 by brothers William F. Ludwig Sr. and Theobald Ludwig. Their first product was a practical bass drum pedal, letting a single drummer control the bass drum by foot instead of relying on a second player — a foundational innovation for the modern drum kit.",
+        "The company grew quickly into one of America's dominant drum manufacturers, and in the 1920s introduced the Black Beauty, a brass-shell snare drum that remains one of the most recorded snares in music history.",
+        "William F. Ludwig Jr. joined the family business in 1938 and would go on to shape the company through its most consequential decades, keeping the Ludwig name at the center of American drumming.",
+        "The brand's defining moment arrived on February 9, 1964, when Ringo Starr appeared with his Ludwig kit on The Ed Sullivan Show during the Beatles' American television debut, watched by an estimated 73 million viewers. Demand for Ludwig drums outstripped supply for years afterward in what became known as the \"Ludwig boom.\"",
+        "Ludwig relocated its manufacturing from Chicago to Monroe, North Carolina in 1984, and the company continues to build on its rock and metal legacy today, with drummers still turning to the Black Beauty and Supraphonic for their cutting attack on modern heavy recordings.",
       ],
-      metalEntry: "John Bonham (Led Zeppelin) was a longtime Ludwig endorser whose powerful, heavy style helped shape the drumming that became heavy metal.",
-      source: { label: "Ludwig Drums – About", url: "https://ludwig-drums.com/en-us/ludwig/about" },
+      milestones: [
+        { year: 1909, event: "William F. and Theobald Ludwig found the company in Chicago and introduce the first practical bass drum pedal." },
+        { year: "1920s", event: "The Black Beauty brass snare drum is introduced and becomes one of the most recorded snares in history." },
+        { year: 1938, event: "William F. Ludwig Jr. joins the family company." },
+        { year: 1964, event: "Ringo Starr's Ludwig kit appears on The Ed Sullivan Show, sparking the \"Ludwig boom\" in rock drumming." },
+        { year: 1984, event: "Ludwig relocates its manufacturing from Chicago to Monroe, North Carolina." },
+      ],
+      metalEra: "Ludwig's association with rock's loudest early drumming carried directly into heavy metal: John Bonham's powerful, bombastic style on a Ludwig kit throughout Led Zeppelin's catalog helped define the drumming vocabulary metal would inherit, and Bill Ward played Ludwig on Black Sabbath's earliest, genre-defining records. Decades later, the Black Beauty and Supraphonic snares remain studio staples for metal drummers seeking a cutting, present attack.",
+      sources: ["https://ludwig-drums.com/en-us/ludwig/about"],
     },
     metaTitle: "Ludwig Metal Drummers - Who Plays Ludwig Drums | MetalForge",
     metaDescription:
@@ -240,6 +283,77 @@ While Ludwig is often associated with classic rock, many metal drummers rely on 
       {
         question: "Ludwig vs modern drum brands for metal?",
         answer: "Ludwig offers a more vintage, warm sound compared to modern brands like Tama or Pearl. For classic metal and studio work, Ludwig excels. For extreme metal requiring maximum attack, modern brands may be preferred."
+      }
+    ],
+  },
+
+  mapex: {
+    slug: "mapex",
+    name: "Mapex",
+    type: "drums",
+    icon: "🥁",
+    color: "#14b8a6",
+    foundedYear: "1989",
+    country: "Taiwan",
+    description:
+      "Mapex is a Taiwanese drum manufacturer, part of the KHS group, known for the Saturn and Black Panther series. A go-to brand for modern groove and thrash metal drummers seeking powerful, customizable shells.",
+    longDescription: `Mapex was launched in 1989 by KHS Co., Ltd. as a dedicated drum brand, quickly building a reputation for well-engineered, competitively priced kits before pushing into the professional market with the Saturn and Black Panther series.
+
+**Why Metal Drummers Choose Mapex:**
+- **Black Panther Design Lab** – Custom-configured shells built to a player's specific touring and studio needs
+- **Saturn Series** – Maple/walnut hybrid shells with a warm, punchy tone and enhanced sustain
+- **Falcon Double Pedal** – Strap-drive mechanism built for speed and a lighter feel
+- **Armory Series** – Birch/maple hybrid shells at a mid-tier price point
+
+**Metal Credibility:**
+Chris Adler's decade-plus run with Lamb of God on a Mapex Black Panther Design Lab kit gave the brand serious credibility in American groove metal and modern thrash, and drummers like Jason Bittner (Overkill, Shadows Fall) have continued that association on Mapex's Saturn line.
+
+**Signature Lines:**
+- **Saturn V** – Jason Bittner's touring choice with Overkill
+- **Black Panther Snare Series** – Wide range of shell materials including brass, steel, and wood`,
+    history: {
+      foundedYear: 1989,
+      foundedPlace: "Taiwan",
+      founder: "KHS Co., Ltd.",
+      story: [
+        "Mapex was launched in 1989 by KHS Co., Ltd., a Taiwanese musical instrument manufacturer, as a dedicated drum brand — shifting the company's focus away from manufacturing drums for other labels and toward building its own identity.",
+        "The brand expanded quickly in its first few years, signing early artist endorsers like Ralph Peterson and Billy Cobham and introducing the high-end Orion series in the early 1990s to establish itself in the professional market.",
+        "In 1996, Mapex established a US operation in Tennessee, giving the brand a direct foothold in the American market, and followed it a year later with the Black Panther snare series — a line built around unconventional shell materials that would become a signature Mapex identity.",
+        "Mapex expanded production into China in 2000 alongside a run of new pedal designs, and continued to push shell engineering forward through the 2010s with innovations like the Saturn IV's SONIClear bearing edge.",
+        "Now marketed under the tagline \"Music And Percussion Excellence,\" Mapex has grown from a manufacturing arm of KHS into a brand with its own dedicated professional artist roster spanning rock, groove, and thrash metal.",
+      ],
+      milestones: [
+        { year: 1989, event: "KHS Co., Ltd. launches Mapex as a dedicated drum brand." },
+        { year: 1992, event: "Mapex introduces the high-end Orion series, establishing the brand in the professional drum market." },
+        { year: 1996, event: "Mapex USA is established in Tennessee." },
+        { year: 1997, event: "The Black Panther snare series debuts." },
+        { year: 2000, event: "Mapex expands production into China." },
+        { year: 2013, event: "The Saturn IV series introduces Mapex's SONIClear bearing edge shell technology." },
+      ],
+      metalEra: "Chris Adler's endorsement of Mapex throughout Lamb of God's commercial peak — playing a Black Panther Design Lab kit and his own signature snare — gave the brand serious credibility in American groove metal and modern thrash. Jason Bittner (Overkill, Shadows Fall) has extended that association on Mapex's Saturn line, helping establish Mapex as a serious choice for touring metal drummers.",
+      sources: ["https://mapexdrums.com/history"],
+    },
+    metaTitle: "Mapex Metal Drummers - Who Plays Mapex Drums | MetalForge",
+    metaDescription:
+      "Discover which metal drummers play Mapex drums. From Chris Adler's Black Panther Design Lab to Jason Bittner's Saturn V, explore Mapex setups used in metal.",
+    keywords: ["mapex drums", "mapex metal drummers", "mapex saturn", "mapex black panther", "chris adler drums"],
+    popularModels: [
+      { name: "Saturn V", description: "Maple/walnut hybrid shells with a warm, punchy tone and enhanced sustain", affiliate: "mapex-saturn-v" },
+      { name: "Black Panther Design Lab", description: "Custom-configured shells built to a player's specific touring and studio needs", affiliate: "mapex-black-panther-design-lab" },
+      { name: "Falcon Double Pedal", description: "Strap-drive double pedal built for speed and a lighter feel", affiliate: "mapex-falcon-pedal" },
+    ],
+    faq: [
+      {
+        question: "What drums does Chris Adler play?",
+        answer: "Chris Adler plays a Mapex Black Panther Design Lab kit with a Mapex Chris Adler Signature 14x5.5\" Walnut/Maple snare and a Mapex Falcon Double Pedal."
+      },
+      {
+        question: "Is Mapex good for metal?",
+        answer: "Yes. Mapex's Black Panther and Saturn series give metal drummers powerful, customizable shells, and the Falcon Double Pedal is a common choice for speed and durability on tour. Chris Adler's decade-plus Lamb of God run built the brand's metal credibility."
+      },
+      {
+        question: "What is the Mapex Falcon pedal?",
+        answer: "The Mapex Falcon is the brand's flagship double bass pedal, using a strap-drive mechanism for a lighter, more responsive feel. It was Chris Adler's primary pedal choice throughout his career with Lamb of God."
       }
     ],
   },
@@ -269,19 +383,30 @@ Lars Ulrich's Zildjian A Custom setup defined the thrash metal cymbal sound. The
 **Quality & Innovation:**
 Zildjian's centuries of experience show in their consistency and quality. Each cymbal is hand-crafted and tested, ensuring the perfect balance of tone, sustain, and durability that metal drumming demands.`,
     history: {
-      founded: "Zildjian traces its roots to 1623 Constantinople, where Avedis Zildjian discovered a secret cymbal alloy and was granted the name \"Zildjian\" — Armenian-Turkish for \"cymbal maker\" — by the Ottoman Sultan.",
-      milestones: [
-        { year: "1618", event: "Avedis Zildjian discovers the copper-tin-silver alloy that lets cymbals be hammered without cracking or shattering." },
-        { year: "1623", event: "Granted the Zildjian name and permission to found the company in Constantinople." },
-        { year: "1929", event: "The family reestablishes cymbal manufacturing in Quincy, Massachusetts, carrying the alloy secret to the USA." },
-        { year: "1981", event: "A family split sends Robert Zildjian to found rival cymbal maker Sabian in Canada." },
+      foundedYear: 1623,
+      foundedPlace: "Constantinople (Istanbul), Ottoman Empire",
+      founder: "Avedis Zildjian I",
+      story: [
+        "In 1618, an Armenian alchemist named Avedis living in Constantinople discovered a secret alloy of copper, tin, and a trace of silver that could be hammered into a cymbal that rang true instead of shattering. The Ottoman Sultan's own Janissary military bands adopted the instruments, and in 1623 the Sultan granted Avedis both the right to open an independent foundry and the surname \"Zildjian\" — Armenian for \"cymbal maker.\"",
+        "For the next three centuries, the alloy formula and hammering technique passed from father to son inside the Zildjian family, guarded so closely that it was reportedly never written down. The foundry remained in Constantinople through the fall of the Ottoman Empire and the upheaval of World War I.",
+        "In 1929, with the family's American branch already established, Avedis Zildjian III incorporated the Avedis Zildjian Company in Quincy, Massachusetts, carrying the 300-year-old alloy secret across the Atlantic just as the jazz era was taking off in the United States.",
+        "In 1977, Zildjian brought the historic K Istanbul cymbal-making tradition — originated generations earlier by a separate branch of the family — under its own roof, uniting the bright A-style and dark K-style cymbal sounds under one company for the first time.",
+        "A bitter family split in the late 1970s cost Zildjian half its own bloodline: in 1981 Robert Zildjian left to found rival cymbal maker Sabian in Canada. Armand Zildjian kept the Zildjian name and the Massachusetts factory, and the company remains family-run into its 15th generation, marking its 400th anniversary in 2023.",
       ],
-      metalEntry: "Lars Ulrich (Metallica) has played an all-Zildjian setup for decades, built around K Constantinople and K Custom cymbals.",
-      source: { label: "Zildjian – About Us", url: "https://zildjian.com/pages/about-us" },
+      milestones: [
+        { year: 1618, event: "Avedis Zildjian discovers the copper-tin-silver alloy that lets cast cymbals be hammered without cracking or shattering." },
+        { year: 1623, event: "The Ottoman Sultan grants Avedis the Zildjian name and permission to found an independent cymbal foundry in Constantinople." },
+        { year: 1929, event: "Avedis Zildjian III incorporates the Avedis Zildjian Company in Quincy, Massachusetts, moving cymbal production to the USA." },
+        { year: 1977, event: "Zildjian acquires the rights to the historic K Istanbul line, uniting the bright A-style and dark K-style cymbal traditions under one company." },
+        { year: 1981, event: "A family split sends Robert Zildjian to found rival cymbal maker Sabian in Meductic, New Brunswick, Canada." },
+        { year: 2023, event: "Zildjian marks its 400th anniversary, still family-owned into its 15th generation." },
+      ],
+      metalEra: "Lars Ulrich has played an all-Zildjian setup throughout Metallica's career, and his bright, cutting A Custom cymbals became a reference point for thrash metal's cymbal sound in the 1980s. The darker K and K Custom lines later found favor with progressive and technical metal drummers such as George Kollias and Mario Duplantier, who mix K-series crashes and rides with A Custom hi-hats to balance cut with complexity.",
+      sources: ["https://zildjian.com/pages/brand"],
     },
     themeLinks: [
-      { path: "/cymbals/brands/zildjian", label: "Zildjian on /cymbals" },
-      { path: "/drumsticks/brands/zildjian", label: "Zildjian on /drumsticks" },
+      { path: "/cymbals/brands/zildjian", label: "Explore Zildjian in the Cymbal Guide" },
+      { path: "/drumsticks/brands/zildjian", label: "Explore Zildjian in the Drumstick Guide" },
     ],
     metaTitle: "Zildjian Metal Drummers - Who Plays Zildjian Cymbals | MetalForge",
     metaDescription:
@@ -332,18 +457,27 @@ In 1980, Paiste created the RUDE series specifically for heavy metal drummers wh
 **Notable Artists:**
 Joey Jordison's Paiste RUDE/2002 hybrid setup defined Slipknot's chaotic sound. Nicko McBrain of Iron Maiden has been a Paiste artist for decades, showcasing the versatility of Paiste cymbals in metal.`,
     history: {
-      founded: "Paiste was founded in 1906 in St. Petersburg, Russia, by Michail Toomas Paiste, later relocating through Estonia before establishing its current base in Switzerland.",
-      milestones: [
-        { year: "1906", event: "Michail Toomas Paiste founds the company in St. Petersburg, Russia." },
-        { year: "1917", event: "The factory reestablishes in Tallinn, Estonia after the Russian Revolution." },
-        { year: "1957", event: "Paiste reestablishes its base in Switzerland, where it remains headquartered today." },
-        { year: "1980", event: "The RUDE series launches, built specifically for the volume and abuse of heavy metal drumming." },
+      foundedYear: 1906,
+      foundedPlace: "St. Petersburg, Russia",
+      founder: "Michail Toomas Paiste",
+      story: [
+        "Paiste's roots trace to St. Petersburg, Russia, where Michail Toomas Paiste ran a music venue and instrument workshop at the turn of the 20th century; the cymbal- and instrument-making business was formally established in 1906.",
+        "The 1917 Russian Revolution forced the family to abandon St. Petersburg, and Paiste relocated its operations to Tallinn, Estonia, continuing to make cymbals and gongs through the interwar decades.",
+        "World War II and the subsequent Soviet occupation of Estonia forced the family to start over again. By the late 1950s, Paiste had reestablished its cymbal-making operation in Switzerland, the country that remains its home base today.",
+        "Freed from the instability of its early decades, Paiste built its reputation on consistent, bright-sounding cast cymbals aimed at the volume and durability rock and, later, metal players demanded — a deliberate contrast to darker, more orchestral cymbal traditions.",
+        "That philosophy reached its purest expression in 1980 with the RUDE series: heavy, deliberately unfinished cymbals built specifically to survive and cut through the loudest playing of the era, cementing Paiste's identity as a metal-first cymbal maker for the decades that followed.",
       ],
-      metalEntry: "Dave Lombardo (Slayer) used a Paiste RUDE Power Ride on Reign in Blood, and Nicko McBrain (Iron Maiden) has played Paiste throughout his career, including a signature Powerslave Reflector Bell Ride.",
-      source: { label: "Paiste – Company History", url: "https://www.paiste.com/pages/history" },
+      milestones: [
+        { year: 1906, event: "Michail Toomas Paiste formally establishes the cymbal and instrument business in St. Petersburg, Russia." },
+        { year: 1917, event: "The family relocates operations to Tallinn, Estonia, after the Russian Revolution." },
+        { year: 1957, event: "Paiste reestablishes its base in Switzerland, where it remains headquartered today." },
+        { year: 1980, event: "The RUDE series launches, built specifically for the volume and abuse of heavy metal drumming." },
+      ],
+      metalEra: "Paiste's RUDE and 2002 series became defining metal cymbal sounds of the 1980s and 90s: Dave Lombardo used a Paiste RUDE Power Ride on Slayer's Reign in Blood, and Nicko McBrain has played Paiste throughout his career with Iron Maiden, including a signature Powerslave Reflector Bell Ride. Joey Jordison later paired RUDE and 2002 cymbals for Slipknot's chaotic live sound.",
+      sources: ["https://www.paiste.com/pages/history"],
     },
     themeLinks: [
-      { path: "/cymbals/brands/paiste", label: "Paiste on /cymbals" },
+      { path: "/cymbals/brands/paiste", label: "Explore Paiste in the Cymbal Guide" },
     ],
     metaTitle: "Paiste Metal Drummers - Who Plays Paiste Cymbals | MetalForge",
     metaDescription:
@@ -394,18 +528,27 @@ Meinl cymbals are known for their dark, complex overtones - particularly in the 
 **Innovation:**
 Meinl constantly pushes cymbal design forward with unique models like the Dual Crash, Ghost Ride, and their extensive effects cymbal line. This innovation appeals to drummers looking for distinctive sounds.`,
     history: {
-      founded: "Meinl was founded in 1951 in Gutenstetten, Germany, by Roland Meinl.",
-      milestones: [
-        { year: "1951", event: "Roland Meinl founds the company in Gutenstetten, Germany." },
-        { year: "1952", event: "Meinl begins cymbal production." },
-        { year: "2001", event: "The hand-hammered Byzance series launches, becoming a favorite among progressive and technical metal drummers." },
+      foundedYear: 1951,
+      foundedPlace: "Gutenstetten, Germany",
+      founder: "Roland Meinl",
+      story: [
+        "Meinl was founded in 1951 in Gutenstetten, a small village in Bavaria, Germany, by Roland Meinl. The company began as a small workshop producing musical instrument parts before moving into percussion manufacturing.",
+        "Cymbal production began shortly after, in the early 1950s, and over the following decades Meinl built out a broad percussion catalog — congas, cajons, and effects percussion — growing into one of Europe's largest percussion manufacturers while remaining headquartered in the same rural region where it started, and family-owned to this day.",
+        "The turning point for Meinl's standing among metal and progressive drummers came in 2001 with the launch of the Byzance series: hand-hammered in Turkey using traditional B20 bronze techniques, Byzance gave Meinl a dark, complex cymbal voice that could compete directly with the established K-style cymbals from Zildjian and Sabian.",
+        "Meinl has continued to develop metal-specific lines since, including the Mb20 series aimed squarely at high-volume, heavy playing, extending the dark-toned identity Byzance established across different price points and playing styles.",
       ],
-      metalEntry: "Meinl's Mb20 \"Pure Metal\" ride was co-designed with Chris Adler (Lamb of God) specifically for loud, heavy music.",
-      source: { label: "Meinl Percussion company history (Wikipedia)", url: "https://en.wikipedia.org/wiki/Meinl_Percussion" },
+      milestones: [
+        { year: 1951, event: "Roland Meinl founds the company in Gutenstetten, Germany." },
+        { year: "early 1950s", event: "Meinl begins cymbal production." },
+        { year: "1980s", event: "Meinl expands into a full percussion catalog, including congas and cajons, growing into one of Europe's largest percussion manufacturers." },
+        { year: 2001, event: "The hand-hammered Byzance series launches, becoming a favorite among progressive and technical metal drummers." },
+      ],
+      metalEra: "Meinl's Byzance series became a favorite of progressive and technical metal drummers seeking dark, complex overtones rather than the brighter cut of traditional metal cymbals — players like Matt Garstka (Animals as Leaders) use Byzance extensively. Meinl's Mb20 \"Pure Metal\" ride, co-designed with Chris Adler (Lamb of God), extended that identity to drummers who need volume and cut for heavier, more aggressive styles.",
+      sources: ["https://meinlcymbals.com/en/Wiki"],
     },
     themeLinks: [
-      { path: "/cymbals/brands/meinl", label: "Meinl on /cymbals" },
-      { path: "/drumsticks/brands/meinl", label: "Meinl on /drumsticks" },
+      { path: "/cymbals/brands/meinl", label: "Explore Meinl in the Cymbal Guide" },
+      { path: "/drumsticks/brands/meinl", label: "Explore Meinl in the Drumstick Guide" },
     ],
     metaTitle: "Meinl Metal Drummers - Who Plays Meinl Cymbals | MetalForge",
     metaDescription:
@@ -456,18 +599,28 @@ Sabian cymbals are known for their consistency and versatility. The AAX series d
 **Value Proposition:**
 Sabian offers excellent value at various price points, making professional-quality cymbals accessible to more drummers. Their manufacturing consistency ensures reliable sound across their product range.`,
     history: {
-      founded: "Sabian was founded in 1981 in Meductic, New Brunswick, Canada, by Robert Zildjian after a family split divided the Avedis Zildjian Company.",
-      milestones: [
-        { year: "1979", event: "The Zildjian family cymbal business splits between branches of the family." },
-        { year: "1981", event: "Robert Zildjian founds Sabian in Meductic, New Brunswick, Canada." },
-        { year: "1982", event: "Sabian's first full production year; the AA and HH series launch." },
-        { year: "2001", event: "The HHX series launches." },
+      foundedYear: 1981,
+      foundedPlace: "Meductic, New Brunswick, Canada",
+      founder: "Robert Zildjian",
+      story: [
+        "Sabian exists because of a rift inside the centuries-old Zildjian cymbal dynasty. By the late 1970s, brothers Robert and Armand Zildjian could not agree on the direction of the family's Avedis Zildjian Company, and in 1979 the business split between the two branches of the family.",
+        "In 1981, Robert Zildjian took his share of the family's cymbal-making expertise across the border and founded a new company in Meductic, a small town in rural New Brunswick, Canada.",
+        "Rather than position the new company as a discount alternative to Zildjian, Sabian invested in its own foundry and alloy research from the outset. Its first full year of production in 1982 turned out roughly 45,000 cymbals, including the debut of the AA and HH series that would become the foundation of its catalog.",
+        "Over the following decades Sabian built out AAX — a bright, fast-responding line — and HHX, a hand-hammered, darker counterpart introduced in 2001, giving the company two flagship series that speak directly to metal drummers who need either cutting projection or complex, dark overtones.",
+        "Sabian has since grown into one of the world's largest cymbal manufacturers, expanding into hand percussion through its 2010 acquisition of Gon Bops while remaining headquartered at its original Meductic site.",
       ],
-      metalEntry: "Ray Luzier (Korn) and Tomas Haake (Meshuggah) are official Sabian artists, both known for AAX and HHX cymbal setups.",
-      source: { label: "Sabian – Our Story", url: "https://sabian.com/our-story/" },
+      milestones: [
+        { year: 1979, event: "The Zildjian family cymbal business splits between Robert and Armand Zildjian's branches of the family." },
+        { year: 1981, event: "Robert Zildjian founds Sabian in Meductic, New Brunswick, Canada." },
+        { year: 1982, event: "Sabian's first full production year turns out roughly 45,000 cymbals, including the debut AA and HH series." },
+        { year: 2001, event: "The HHX series launches, giving Sabian a hand-hammered, darker flagship line alongside AAX." },
+        { year: 2010, event: "Sabian acquires hand-percussion maker Gon Bops." },
+      ],
+      metalEra: "Sabian's AAX and HHX series became mainstays of modern metal within a generation of the company's founding. Ray Luzier (Korn) and Tomas Haake (Meshuggah) are official Sabian artists, both known for AAX and HHX cymbal setups — the bright cut of AAX and the darker complexity of HHX cover everything from thrash to progressive metal.",
+      sources: ["https://sabian.com/our-story/"],
     },
     themeLinks: [
-      { path: "/cymbals/brands/sabian", label: "Sabian on /cymbals" },
+      { path: "/cymbals/brands/sabian", label: "Explore Sabian in the Cymbal Guide" },
     ],
     metaTitle: "Sabian Metal Drummers - Who Plays Sabian Cymbals | MetalForge",
     metaDescription:

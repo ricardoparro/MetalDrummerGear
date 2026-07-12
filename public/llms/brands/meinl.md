@@ -40,10 +40,30 @@ A: Meinl Byzance cymbals are hand-hammered in Turkey from traditional bell bronz
 Q: Do any progressive metal drummers use Meinl?
 A: Yes. Matt Halpern (Periphery), Matt Garstka (Animals as Leaders), and Navene Koperweis (Entheos) all use Meinl Byzance cymbals. The dark, dry character of Byzance cymbals suits djent and progressive metal contexts where clarity of rhythmic phrasing matters more than sustain.
 
+## History
+
+Founded **1951** in Gutenstetten, Germany, by Roland Meinl.
+
+Meinl was founded in 1951 in Gutenstetten, a small village in Bavaria, Germany, by Roland Meinl. The company began as a small workshop producing musical instrument parts before moving into percussion manufacturing.
+
+Cymbal production began shortly after, in the early 1950s, and over the following decades Meinl built out a broad percussion catalog — congas, cajons, and effects percussion — growing into one of Europe's largest percussion manufacturers while remaining family-owned to this day.
+
+The turning point for Meinl's standing among metal and progressive drummers came in 2001 with the launch of the Byzance series: hand-hammered in Turkey using traditional B20 bronze techniques, Byzance gave Meinl a dark, complex cymbal voice that could compete directly with the established K-style cymbals from Zildjian and Sabian.
+
+**Milestones:**
+- **1951** — Roland Meinl founds the company in Gutenstetten, Germany.
+- **early 1950s** — Meinl begins cymbal production.
+- **1980s** — Meinl expands into a full percussion catalog, including congas and cajons, growing into one of Europe's largest percussion manufacturers.
+- **2001** — The hand-hammered Byzance series launches, becoming a favorite among progressive and technical metal drummers.
+
+**Metal era:** Meinl's Byzance series became a favorite of progressive and technical metal drummers seeking dark, complex overtones — players like Matt Garstka (Animals as Leaders) use Byzance extensively. Meinl's Mb20 "Pure Metal" ride, co-designed with Chris Adler (Lamb of God), extended that identity to drummers who need volume and cut for heavier, more aggressive styles.
+
+**Source:** [meinlcymbals.com/en/Wiki](https://meinlcymbals.com/en/Wiki)
+
 ---
 
 **Brand page:** [/brands/meinl](https://metalforge.io/brands/meinl)
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

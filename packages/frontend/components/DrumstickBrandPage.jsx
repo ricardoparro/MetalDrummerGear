@@ -16,6 +16,7 @@ import {
   generateBrandDescription,
   generateBrandSchema,
 } from '../data/drumstickBrands';
+import { hasBrand as hasFullBrandPage } from '../data/brands';
 
 function injectSchema(id, schema) {
   if (Platform.OS !== 'web' || typeof document === 'undefined' || !schema) return;
@@ -180,6 +181,23 @@ export function DrumstickBrandPage({
       <Text style={[styles.sourceNote, { color: theme.secondaryText || theme.text }]}>
         Source: {brand.source.label}.
       </Text>
+
+      {hasFullBrandPage(brand.slug) && (
+        <CrawlableLink
+          href={`/brands/${brand.slug}`}
+          onPress={() => {
+            if (Platform.OS === 'web' && typeof window !== 'undefined') {
+              window.history.pushState({}, '', `/brands/${brand.slug}`);
+              window.dispatchEvent(new PopStateEvent('popstate'));
+            }
+          }}
+          style={{ marginTop: 12 }}
+        >
+          <View style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>
+            <Text style={[styles.linkCardText, { color: theme.text }]}>📜 Full Brand History →</Text>
+          </View>
+        </CrawlableLink>
+      )}
 
       <CrawlableLink href="/drumsticks/brands" onPress={onNavigateBrandsHub} style={{ marginTop: 12 }}>
         <View style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>

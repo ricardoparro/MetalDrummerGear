@@ -50,10 +50,32 @@ A: Gene Hoglan plays a Pearl Reference Pure drum kit with a Pearl Reference 14x6
 Q: What snare drum does Joey Jordison use?
 A: Joey Jordison used the Pearl Joey Jordison Signature 13x6.5" snare, an unusually small-diameter snare that contributed to his distinctively cracking, high-pitched backbeat.
 
+## History
+
+Founded **1946** in Tokyo, Japan, by Katsumi Yanagisawa.
+
+Pearl began in 1946 in Tokyo, founded by Katsumi Yanagisawa in the aftermath of World War II. The company's earliest products were music stands, not drums.
+
+Around 1950, Pearl shifted its manufacturing focus toward drums, entering a Japanese percussion market that would come to be dominated by a handful of large, vertically integrated manufacturers.
+
+The President Series, introduced in 1966, was Pearl's first dedicated professional-grade drum kit and marked the company's transition into a serious contender in the international drum market.
+
+Pearl's manufacturing scale — among the largest of any drum company in the world — let it invest heavily in hardware R&D, producing innovations like the Eliminator and later Demon Drive pedal systems built for speed and durability under heavy touring use.
+
+**Milestones:**
+- **1946** — Katsumi Yanagisawa founds the company in Tokyo, Japan, initially manufacturing music stands.
+- **1950** — Pearl shifts its manufacturing focus into drums.
+- **1966** — The President Series becomes Pearl's first professional-grade drum kit.
+- **1996** — Vinnie Paul (Pantera) begins his long-running Pearl endorsement, with Pearl producing his signature snare drums.
+
+**Metal era:** Vinnie Paul's Pearl kit — and Pearl's production of his signature snare — helped define the sound of groove metal through Pantera's catalog. Joey Jordison's rotating drum riser packed with Pearl Reference drums became one of the most recognizable images in Slipknot's live show.
+
+**Source:** [Pearl Drums (Wikipedia)](https://en.wikipedia.org/wiki/Pearl_Drums)
+
 ---
 
 **Brand page:** [/brands/pearl](https://metalforge.io/brands/pearl)
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

@@ -2028,6 +2028,7 @@ function getMetaForPath(pathname) {
     evans: { name: 'Evans', type: 'drumheads' },
     remo: { name: 'Remo', type: 'drumheads' },
     sonor: { name: 'Sonor', type: 'drums' },
+    mapex: { name: 'Mapex', type: 'drums' },
     'vic-firth': { name: 'Vic Firth', type: 'drumsticks' },
     'pro-mark': { name: 'Pro-Mark', type: 'drumsticks' },
     vater: { name: 'Vater', type: 'drumsticks' },

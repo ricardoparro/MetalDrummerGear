@@ -1125,6 +1125,10 @@ function getMetaForPath(pathname) {
         url: `${BASE_URL}/tools/compare`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Compare Tool', url: `${BASE_URL}/tools/compare` },
+      ],
       faqSchema: [
         { question: 'How can I compare two metal drummers gear?', answer: 'Use MetalForge Compare Tool at /tools/compare — select any two of 60+ metal drummers to see their kits, cymbals, pedals, and hardware side-by-side with full spec breakdowns.' },
         { question: 'Who has a bigger drum kit, Lars Ulrich or Joey Jordison?', answer: 'Compare Lars Ulrich vs Joey Jordison on MetalForge. Both use large format kits with double bass; see the complete side-by-side on /tools/compare/lars-ulrich-vs-joey-jordison.' },
@@ -1245,6 +1249,10 @@ function getMetaForPath(pathname) {
         url: `${BASE_URL}/compare`,
         publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
       }),
+      breadcrumbSchema: [
+        { name: 'Home', url: BASE_URL },
+        { name: 'Compare', url: `${BASE_URL}/compare` },
+      ],
       faqSchema: [
         { question: 'How can I compare two metal drummers gear?', answer: 'Use MetalForge Compare at /compare — select any two of 60+ metal drummers to see their kits, cymbals, pedals, and hardware side-by-side with full spec breakdowns.' },
         { question: 'Who has a bigger drum kit, Lars Ulrich or Joey Jordison?', answer: 'Compare Lars Ulrich vs Joey Jordison on MetalForge. Both use large format kits with double bass; see the complete side-by-side on /compare.' },

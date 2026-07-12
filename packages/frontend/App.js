@@ -2309,15 +2309,19 @@ function BrowseByGearCategory({ theme }) {
 // TRENDING THIS WEEK SECTION - Top drummers by page views (Issue #671)
 // ==========================================
 
-function TrendingThisWeek({ theme, drummers, onSelectDrummer }) {
+function TrendingThisWeek({ theme, drummers, onSelectDrummer, excludeDrummerId }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
   const sectionRef = useSectionImpression('trending');
 
-  // Get trending drummers with full data
+  // Get trending drummers with full data. Excludes the drummer already shown
+  // in the Spotlight section above (Issue #4470) — TRENDING_DRUMMERS' ids
+  // overlap with the spotlight rotation candidates, so without this filter
+  // the same drummer's thumbnail renders (and fetches) twice on any week the
+  // rotation lands on one of the trending five.
   const trendingDrummers = useMemo(() =>
-    getTrendingDrummers(drummers),
-    [drummers]
+    getTrendingDrummers(drummers).filter(d => d.id !== excludeDrummerId),
+    [drummers, excludeDrummerId]
   );
 
   // Don't render if no trending data or drummers not loaded
@@ -19768,6 +19772,7 @@ function DrummerList({
         theme={theme}
         drummers={drummers}
         onSelectDrummer={onSelectDrummer}
+        excludeDrummerId={spotlight?.id}
       />
 
       {/* Most Popular Gear Section (Issue #640) */}

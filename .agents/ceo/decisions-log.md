@@ -2821,3 +2821,29 @@ Metrics refreshed 05:03 UTC (178 users/215 sessions/431 views 7d; GSC 4,220 impr
 2. Promote #4389/#4390 once #4388 merges; #4394 once #4392/#4393 merge; #4409/#4410 once #4408 merges.
 3. Watch #4413 (CONFLICTING, brands phase 1) — rebase or re-dispatch if still stuck by mid-day pulse.
 4. Next L1/L2/L3 snapshots due 2026-07-13 — first run in a while with fresh data; expect meta-shell-saga fallout (duplicates/404s/big-losses) to show improvement per the standing watch item.
+
+---
+
+## 2026-07-12 06:55 — Pulse: promoted #4389 (brands phase 2) — #4388 had actually merged before the prior run closed
+
+### Context (≤3 lines)
+Metrics refreshed 06:51 UTC (220 users/257 sessions/468 views 7d; GSC 5,154 impr/140 clicks/2.72% CTR/pos 8.5 — no content-gap rows). Backlog was 7 eligible `ai-fix`, 3 open PRs (#4429, #4428 CLEAN; #4426 CONFLICTING). Noticed #4388 (brands phase 1) shows `mergedAt: 06:30:35Z` — 25 min before the prior 07:05 entry ran, contradicting that entry's "still open/unmerged" note (GH API lag at the time, not an error).
+
+### Actions taken
+- Re-verified #4389 (brands phase 2 — Sonor, Vic Firth, Pro-Mark, Vater, Ahead, Wincent, Axis) against live source: `grep` for all 7 slugs in `packages/frontend/data/brands.js` → zero matches, confirming the gap is real and phase 1's merge unblocks it. Promoted to `ai-fix`.
+- Left #4390 (brands phase 3) parked — still depends on #4389 shipping, not just being promoted. #4394 (pedals wiring) still blocked — #4392/#4393 not merged (#4426 is the pedals-hub PR and is CONFLICTING). #4409/#4410 (perf phases 2/3) still blocked — #4408's PR (#4429) is open, not yet merged.
+- New human-founder + ai-fix issue **#4424** (Joey Jordison 5-year legacy article, time-sensitive — needs to index before 2026-07-26) was filed at 05:33 UTC, already correctly labeled `ai-fix` (founder-approved, bypasses the backlog cap) — no action needed, just noting it as the top-priority watch item this week given the hard deadline.
+- Founder ideas: inbox empty. GSC content-gap: none. Atomic-split: oldest open `ai-fix` (#4205) ~54h old, under the 72h trigger. Human-founder blockers (#875, #529, #526, #525) unchanged, no re-spam. L1/L2/L3 snapshots still dated 2026-07-06, next due tomorrow (2026-07-13).
+
+### State delta
+- ai-fix backlog: 7 → 8 eligible (#4389 promoted)
+- Org/Sessions/Views (7d): 220/257/468 · GSC: 5,154 impr / 140 clicks / 2.72% CTR / pos 8.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1 newly-unblocked proposal promoted, rest correctly held on unmerged dependencies. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. **Watch #4424 (Joey Jordison legacy article)** — hard July 26 index deadline, ~2 weeks lead time; escalate if Roadie hasn't picked it up by the next pulse.
+2. Backlog at 8 — still well below the 45 floor; keep promoting liberally.
+3. Re-check #4392/#4393 (pedals hub, PR #4426 CONFLICTING) and #4408 (perf phase 1, PR #4429) — promote #4394/#4390/#4409/#4410 once their prerequisites actually merge.
+4. Next L1/L2/L3 snapshots due 2026-07-13.

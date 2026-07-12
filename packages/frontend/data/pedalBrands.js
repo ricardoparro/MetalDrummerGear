@@ -1,6 +1,10 @@
-// Pedal Brand Pages data module — Issue #4432 (split 1/3 of #4394)
-// Provides positioning + notable-line content for /pedals/brands/<brand>
-// (Tama, Pearl, DW, Axis, Trick).
+// Pedal Brand Pages data module — Issue #4432 (split 1/3 of #4394), extended
+// in #4471 to cover all 11 verified pedal brands in data/pedals.js (Tama,
+// Pearl, DW, Axis, Trick, Sonor, Mapex, Yamaha, Ludwig, Gibraltar, Czarcie
+// Kopyto). Czarcie Kopyto and Monolit are treated as one brand page: Czarcie
+// Kopyto (czarciekopyto.com) is the Polish manufacturer, and "Monolit" is one
+// of its pedal models (per Reverb listings and its own product pages) —
+// not a separate company — so both names are matched via dataBrandNames.
 //
 // Confirmed-drummer links are computed live from data/pedals.js (PEDALS) by
 // matching each brand's `dataBrandNames` against each pedal record's `brand`
@@ -92,6 +96,84 @@ export const PEDAL_BRANDS = [
       { name: 'Bigfoot', description: "Trick's direct-drive single-pedal model, built with the same CNC-machined precision as the Pro1-V." },
     ],
     source: { label: 'MetalForge — Pedals Guide (verified roster data)', url: `${BASE_URL}/pedals` },
+  },
+  {
+    slug: 'sonor',
+    name: 'Sonor',
+    dataBrandNames: ['Sonor'],
+    founded: '1875, Weissenfels an der Saale, Germany',
+    parent: 'Independent; headquartered in Bad Berleburg, Germany',
+    positioning:
+      "Sonor is one of the oldest percussion manufacturers in the world, and on the verified metal roster its pedals follow the same distinct-from-Japan-and-America identity as its shells: the Perfect Balance is used by extreme and progressive-metal drummers including Gavin Harrison and Frost (Satyricon), while the Giant Step shows up on Morgan Agren's setup.",
+    notableLines: [
+      { name: 'Perfect Balance', description: "Sonor's current flagship double pedal, used on the verified roster by Gavin Harrison and Frost (Satyricon)." },
+      { name: 'Giant Step', description: "Sonor's longboard-footboard double pedal, verified on the roster through Morgan Agren." },
+    ],
+    source: { label: 'Sonor — Wikipedia (company history)', url: 'https://en.wikipedia.org/wiki/Sonor' },
+  },
+  {
+    slug: 'mapex',
+    name: 'Mapex',
+    dataBrandNames: ['Mapex'],
+    founded: '1989, Taiwan',
+    parent: 'KHS Musical Instruments',
+    positioning:
+      "Mapex is a Taiwanese drum manufacturer launched in 1989 by KHS as a dedicated drum brand, and its Falcon double pedal — a strap-drive design built for a lighter, more responsive feel — is verified on the roster through Chris Adler's decade-plus Lamb of God run and Jason Bittner (Overkill, Shadows Fall).",
+    notableLines: [
+      { name: 'Falcon', description: "Mapex's flagship strap-drive double pedal, verified on the roster through Chris Adler (Lamb of God) and Jason Bittner (Overkill, Shadows Fall)." },
+    ],
+    source: { label: 'Mapex — History', url: 'https://www.mapexdrums.com/history' },
+  },
+  {
+    slug: 'yamaha',
+    name: 'Yamaha',
+    dataBrandNames: ['Yamaha'],
+    founded: '1967 (Yamaha Drums division), Hamamatsu, Japan',
+    parent: 'Yamaha Corporation',
+    positioning:
+      "Yamaha entered the drum-hardware market in 1967, a division of the century-old Yamaha Corporation, and its FP9 double pedal is verified on the roster through Mikkey Dee's decades-long run with Motörhead and King Diamond.",
+    notableLines: [
+      { name: 'FP9', description: "Yamaha's double bass drum pedal, verified on the roster through Mikkey Dee (Motörhead, King Diamond)." },
+    ],
+    source: { label: 'Yamaha Drums — Wikipedia', url: 'https://en.wikipedia.org/wiki/Yamaha_Drums' },
+  },
+  {
+    slug: 'ludwig',
+    name: 'Ludwig',
+    dataBrandNames: ['Ludwig'],
+    founded: '1909, Chicago, Illinois, USA',
+    parent: 'Conn-Selmer',
+    positioning:
+      "Ludwig is the oldest American drum company, founded in 1909 on a first product that was itself a practical bass drum pedal. Its modern Atlas Pro double pedal is verified on the roster through Bill Ward's Black Sabbath-era setup.",
+    notableLines: [
+      { name: 'Atlas Pro', description: "Ludwig's current double bass drum pedal, verified on the roster through Bill Ward (Black Sabbath)." },
+    ],
+    source: { label: 'Ludwig Drums — About', url: 'https://www.ludwig-drums.com/en-us/ludwig/about' },
+  },
+  {
+    slug: 'gibraltar',
+    name: 'Gibraltar',
+    dataBrandNames: ['Gibraltar'],
+    founded: '1993',
+    parent: 'Drum Workshop, Inc. (acquired 2014)',
+    positioning:
+      "Gibraltar is a drum-hardware specialist now owned by DW, and its G Class pedal is verified on the roster through John Otto (Limp Bizkit).",
+    notableLines: [
+      { name: 'G Class', description: "Gibraltar's bass drum pedal line, verified on the roster through John Otto (Limp Bizkit)." },
+    ],
+    source: { label: 'Gibraltar Hardware — Wikipedia', url: 'https://en.wikipedia.org/wiki/Gibraltar_Hardware' },
+  },
+  {
+    slug: 'czarcie-kopyto',
+    name: 'Czarcie Kopyto',
+    dataBrandNames: ['Czarcie Kopyto', 'Monolit'],
+    parent: 'Independent; hand-built in Poland',
+    positioning:
+      "Czarcie Kopyto (\"Devil's Hoof\") is a Polish boutique pedal maker whose CNC-machined, hand-assembled pedals — nicknamed the \"Polish Tank\" for their durability — are verified on the roster through Inferno (Behemoth) and, under the Monolit model name, Adrian Erlandsson (At the Gates, The Haunted).",
+    notableLines: [
+      { name: 'Monolit', description: "A hand-built, CNC-machined double pedal with an independently sprung slave pedal — the model verified on the roster through Adrian Erlandsson (At the Gates, The Haunted)." },
+    ],
+    source: { label: 'Czarcie Kopyto — official site', url: 'https://www.czarciekopyto.com/en/' },
   },
 ];
 

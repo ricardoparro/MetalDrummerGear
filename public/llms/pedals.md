@@ -38,7 +38,7 @@ The pedal itself only sets the ceiling; spring tension, beater material, and foo
 - **Pearl:** Demon Drive and Demon XR (direct drive) and Eliminator (chain) are the extreme-metal and technical-metal standard, from Hellhammer to George Kollias. [Full brand page](https://metalforge.io/llms/pedals/brands/pearl.md).
 - **DW:** 5000 and 9000 Series chain-drive pedals appear throughout the roster, prized for precision and touring reliability. [Full brand page](https://metalforge.io/llms/pedals/brands/dw.md).
 - **Axis:** The direct-drive specialist brand — no chain or belt at all — used by drummers who prioritize instant, zero-slack response above everything else. [Full brand page](https://metalforge.io/llms/pedals/brands/axis.md).
-- **Mapex:** The Falcon double pedal shows up across several roster drummers, including Chris Adler.
+- **Mapex:** The Falcon double pedal shows up across several roster drummers, including Chris Adler. [Full brand page](https://metalforge.io/llms/pedals/brands/mapex.md).
 - **Trick:** Boutique, CNC-machined direct-drive pedals (Pro1-V, Bigfoot) used by technically elite players who have outgrown production hardware. [Full brand page](https://metalforge.io/llms/pedals/brands/trick.md).
 
 ## Best for Metal

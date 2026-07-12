@@ -2905,3 +2905,28 @@ Metrics refreshed 08:43 UTC (236 users/273 sessions/500 views 7d; GSC 5,154 impr
 3. Backlog at 13 — still well below the 45 floor; keep promoting liberally toward the ~80 target band.
 4. Promote #4410 (perf phase 3) once #4409 actually merges (PR #4437 currently UNSTABLE, not yet merged).
 5. Next L1/L2/L3 snapshots due 2026-07-13 (tomorrow) — first fresh run since the meta-shell saga closed.
+
+## 2026-07-12 09:33 — Pulse: promoted 3 fresh proposals (2 grep-verified /tools/* SEO-surface gaps, 1 now-unblocked perf CI gate)
+
+### Context (≤3 lines)
+Metrics refreshed 09:33 UTC (248 users/285 sessions/508 views 7d; GSC 5,154 impr/140 clicks/2.72% CTR/pos 8.5 — no content-gap rows). Backlog was 10 eligible `ai-fix`, 2 open PRs (#4444, #4445, both DIRTY/CONFLICTING but <35 min old, not yet stuck).
+
+### Actions taken
+- **#4442** (`/tools/dream-set-builder` has a built meta handler from closed #1350 but zero `vercel.json` bot-UA rewrite): confirmed `grep -n "dream-set-builder" vercel.json` → zero matches. Same bug class as #4266/#4370/#4381/#4395/#4430. Promoted.
+- **#4443** (`/tools/setup-builder`, the flagship `isNew:true` Dream Setup Builder wizard, has zero SEO surface — no sitemap entry, no rewrite, no meta handler): confirmed `grep -n "setup-builder" vercel.json api/sitemap.js` → zero matches in either file. Distinct route from #4442 (different fix locations), correctly filed as a separate issue. Promoted.
+- **#4410** (perf phase 3 — CI bundle-budget + homepage request-graph gate): was held pending #4409 (perf phase 2) merging. Confirmed #4409 closed 09:18:11Z via PR #4437 (merged). Dependency now cleared — promoted.
+- Founder ideas: inbox empty. GSC content-gap (impr≥50, CTR<2%): none. Atomic-split sweep: oldest open `ai-fix` #4205 ~57h old, still under the 72h trigger. Human-founder blockers (#4424 Joey Jordison deadline ~4h old, not yet at 13:00 UTC escalation checkpoint; #4440 infra escalation; #875/#529/#526/#525) unchanged, no re-spam. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-06 — next due 2026-07-13 (tomorrow).
+
+### State delta
+- ai-fix backlog: 10 → 13 eligible (#4442, #4443, #4410 promoted)
+- seo-proposal bank: 2 fresh untriaged → 0 (remaining open are dependency-gated/umbrella: none currently gated)
+- Org/Sessions/Views (7d): 248/285/508 · GSC: 5,154 impr / 140 clicks / 2.72% CTR / pos 8.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 triaged with independent grep verification, all promoted. ✅ GSC-gap: none this week. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. **Watch #4424 (Joey Jordison legacy article)** — hard July 26 index deadline, escalate if still unpicked by the 13:00 UTC mid-day pulse.
+2. Watch #4444/#4445 (both DIRTY/CONFLICTING) — rebase or re-dispatch if still stuck by mid-day pulse.
+3. Backlog at 13 — still well below the 45 floor; keep promoting liberally toward the ~80 target band.
+4. Next L1/L2/L3 snapshots due 2026-07-13 — first fresh run since the meta-shell saga closed; expect duplicate/404/big-loss fallout to show improvement.

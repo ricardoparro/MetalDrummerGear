@@ -672,6 +672,9 @@ export function buildSitemapXml() {
     { loc: '/llms/gear-guide.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1185: brand-first LLM citation surface for "which drummers use X brand" queries.
     { loc: '/llms/gear-by-brand.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #4390 (epic #4386 phase 3): brand history timeline LLM surface for the
+    // /brands hub's "1623 -> today" upgrade.
+    { loc: '/llms/brands-timeline.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1045: signature-lick database as ingestible markdown for AI crawlers.
     { loc: '/llms/licks.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1126: drumming-techniques reference as ingestible markdown.

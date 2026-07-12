@@ -26,6 +26,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Endorsement News | https://metalforge.io/llms/endorsement-news.md | Brand endorsement changes for 33 tracked metal drummers — current deals, switches, signature gear (Markdown) |
 | Drummer Endorsements | https://metalforge.io/llms/endorsements.md | Official gear endorsements for 33 metal drummers with brand and contract details (Markdown) |
 | Gear by Brand | https://metalforge.io/llms/gear-by-brand.md | Brand→drummer mapping for all gear categories (Markdown) |
+| Brands Timeline | https://metalforge.io/llms/brands-timeline.md | Every drum, cymbal, stick, pedal, and drumhead brand ordered by founding year, 1623 to today, with era markers and an oldest-cymbal-company FAQ (Markdown) |
 | Techniques Overview | https://metalforge.io/llms/techniques.md | All drum techniques overview with links to per-technique deep dives (Markdown) |
 | Signature Licks | https://metalforge.io/llms/licks.md | Signature lick breakdowns overview for 67 drummers (Markdown) |
 | Drummer Comparisons | https://metalforge.io/llms/comparisons.md | Side-by-side drummer gear & style comparisons — all pairs (Markdown) |
@@ -523,7 +524,8 @@ Hub: [/llms/guides.md](https://metalforge.io/llms/guides.md) — overview of all
 ## Brands (per-brand, 16 brands)
 
 Per-brand deep-dive files optimised for AI retrieval on queries like "which metal drummers endorse DW?" or
-"what Pearl kits do death metal drummers use?".
+"what Pearl kits do death metal drummers use?". For the full 18-brand history ordered by founding year (1623 to
+today), see the [Brands Timeline](https://metalforge.io/llms/brands-timeline.md).
 
 | Brand | File |
 |-------|------|

@@ -160,6 +160,9 @@ import {
 // falling through to the generic homepage shell under bot UA and missing
 // from the sitemap despite being a real, filterable 47-event history page.
 import { EVOLUTION_TIMELINE } from '../../packages/frontend/data/evolutionTimeline.js';
+// Issue #4390 (epic #4386 phase 3): /brands hub Article + ItemList SSR JSON-LD
+// for the "1623 -> today" brand-history timeline upgrade.
+import { getBrandsTimeline } from '../../packages/frontend/data/brands.js';
 // Issue #4430: SSR meta + JSON-LD for the /pedals* route family (epic #4387,
 // phases #4391-#4393) — 60 sitemap-listed pages (hub, 3 reference pages, 56
 // per-drummer setups) had zero bot-facing SSR meta despite being fully built
@@ -1956,13 +1959,45 @@ function getMetaForPath(pathname) {
   }
 
   // Issue #1408: /brands hub
+  // Issue #4390 (epic #4386 phase 3): upgraded to the "1623 -> today" brand
+  // history timeline, with Article + ItemList JSON-LD ordered by founding year.
   if (path === '/brands') {
+    const brandTimeline = getBrandsTimeline();
+    const oldestBrand = brandTimeline[0];
     return {
-      title: `Metal Drum & Cymbal Brands Used by Pro Drummers | ${SITE_NAME}`,
-      description: 'Browse drum and cymbal brands used by 60+ metal legends. Tama, Pearl, DW, Zildjian, Paiste, Meinl, Sabian — see which pros endorse each brand.',
+      title: `Drum, Cymbal & Stick Brands: History from 1623 to Today | ${SITE_NAME}`,
+      description: `From ${oldestBrand?.name} (founded ${oldestBrand?.foundedYear}) to today's touring rigs — every drum, cymbal, stick, and pedal brand metal drummers use, ordered by founding year. See which pros endorse each brand.`,
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/brands`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@graph': [
+          {
+            '@type': 'Article',
+            headline: 'Drum, Cymbal & Stick Brand History: From 1623 to Today',
+            description: `A brand-by-brand timeline of drum, cymbal, stick, pedal, and drumhead makers used by metal drummers, from ${oldestBrand?.name} (founded ${oldestBrand?.foundedYear}) to today's touring gear.`,
+            url: `${BASE_URL}/brands`,
+            publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+          },
+          {
+            '@type': 'ItemList',
+            name: 'Metal Gear Brands Timeline',
+            description: 'Drum, cymbal, stick, pedal, and drumhead brands ordered by founding year, oldest to youngest.',
+            numberOfItems: brandTimeline.length,
+            itemListElement: brandTimeline.map((brand, index) => ({
+              '@type': 'ListItem',
+              position: index + 1,
+              item: {
+                '@type': 'Organization',
+                name: brand.name,
+                foundingDate: String(brand.foundedYear),
+                url: `${BASE_URL}/brands/${brand.slug}`,
+              },
+            })),
+          },
+        ],
+      }),
       breadcrumbSchema: [
         { name: 'Home', url: BASE_URL },
         { name: 'Gear Brands', url: `${BASE_URL}/brands` },

@@ -1355,3 +1355,81 @@ export function getBrandsByCategory(category) {
   if (category === 'cymbals') return getCymbalBrands();
   return getAllBrands();
 }
+
+// ==================== BRANDS TIMELINE (Issue #4390, epic #4386 phase 3) ====================
+// "1623 -> today" museum-entrance view of /brands: every brand ordered by
+// founding year with an era marker, built exclusively from the `history`
+// fields added in phases 1-2. No new facts are introduced here.
+
+/**
+ * Bucket a founding year into the era markers used on the /brands timeline.
+ * @param {number} year - Founding year
+ * @returns {string} Era label
+ */
+function getBrandEra(year) {
+  if (year < 1700) return '1600s';
+  if (year < 1900) return '1800s';
+  if (year < 1946) return 'early 1900s';
+  if (year < 1970) return 'post-war';
+  return 'modern';
+}
+
+/**
+ * Pull a one-line origin story out of a brand's `history` field.
+ * @param {Object} brand - Brand object
+ * @returns {string} One-line origin story
+ */
+function getBrandOneLiner(brand) {
+  if (brand.history?.story?.length) return brand.history.story[0];
+  if (brand.history?.founded) return brand.history.founded;
+  return brand.description;
+}
+
+/**
+ * Get every brand ordered oldest -> youngest with founding year, one-line
+ * origin story, and era marker - the data backing the /brands timeline view.
+ * @returns {Array} Brands sorted by founding year ascending
+ */
+export function getBrandsTimeline() {
+  return getAllBrands()
+    .map((brand) => {
+      const foundedYear = parseInt(brand.history?.foundedYear || brand.foundedYear, 10);
+      return {
+        slug: brand.slug,
+        name: brand.name,
+        type: brand.type,
+        icon: brand.icon,
+        color: brand.color,
+        foundedYear,
+        foundedPlace: brand.history?.foundedPlace || brand.country,
+        oneLiner: getBrandOneLiner(brand),
+        era: getBrandEra(foundedYear),
+      };
+    })
+    .sort((a, b) => a.foundedYear - b.foundedYear);
+}
+
+const BRAND_CATEGORY_ORDER = ['drums', 'cymbals', 'sticks', 'pedals', 'drumheads'];
+const BRAND_CATEGORY_LABELS = {
+  drums: '🥁 Drum Brands',
+  cymbals: '🎼 Cymbal Brands',
+  sticks: '🥢 Stick Brands',
+  pedals: '🦶 Pedal Brands',
+  drumheads: '⭕ Drumhead Brands',
+};
+
+/**
+ * Group every brand by gear category (drums / cymbals / sticks / pedals /
+ * drumheads) for the grouped-by-category view of the /brands hub.
+ * @returns {Array} Non-empty category groups in a fixed display order
+ */
+export function getBrandCategoryGroups() {
+  const all = getAllBrands();
+  return BRAND_CATEGORY_ORDER
+    .map((type) => ({
+      type,
+      label: BRAND_CATEGORY_LABELS[type],
+      brands: all.filter((brand) => brand.type === type),
+    }))
+    .filter((group) => group.brands.length > 0);
+}

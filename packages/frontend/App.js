@@ -1066,8 +1066,8 @@ function hasBrandData(slug) { return _brandsModule?.hasBrand(slug) || false; }
 function getAllBrandSlugsData() { return _brandsModule?.getAllBrandSlugs() || []; }
 function getDrummersByBrandData(slug, drummers) { return _brandsModule?.getDrummersByBrand(slug, drummers) || []; }
 function getDrummerBrandGearData(drummer, slug) { return _brandsModule?.getDrummerBrandGear(drummer, slug) || []; }
-function getDrumBrandsData() { return _brandsModule?.getDrumBrands() || []; }
-function getCymbalBrandsData() { return _brandsModule?.getCymbalBrands() || []; }
+function getBrandsTimelineData() { return _brandsModule?.getBrandsTimeline() || []; }
+function getBrandCategoryGroupsData() { return _brandsModule?.getBrandCategoryGroups() || []; }
 const BRAND_TYPE_LABELS = { drums: 'Drum', cymbals: 'Cymbal', drumheads: 'Drumhead', sticks: 'Stick', pedals: 'Pedal' };
 function getBrandTypeLabel(type) { return BRAND_TYPE_LABELS[type] || 'Gear'; }
 
@@ -15045,21 +15045,112 @@ function BrandLandingPage({ brandSlug, drummers, onBack, onSelectDrummer, onNavi
 }
 
 // Brands List Page - Browse all brands
+const BRAND_ERA_DISPLAY = {
+  '1600s': '1600s',
+  '1800s': '1800s',
+  'early 1900s': 'Early 1900s',
+  'post-war': 'Post-War Era',
+  'modern': 'Modern Era',
+};
+
 function BrandsListPage({ onBack, onSelectBrand, theme }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
-  const drumBrands = getDrumBrandsData();
-  const cymbalBrands = getCymbalBrandsData();
+  const timeline = getBrandsTimelineData();
+  const categoryGroups = getBrandCategoryGroupsData();
+  const oldestBrand = timeline[0];
 
-  // Update SEO with complete OG tags (Issue #672)
+  // Group the already-oldest->youngest timeline into consecutive era blocks
+  // (1600s / 1800s / early 1900s / post-war / modern) for the museum-walk view.
+  const eraGroups = useMemo(() => {
+    const groups = [];
+    timeline.forEach((brand) => {
+      const last = groups[groups.length - 1];
+      if (last && last.era === brand.era) {
+        last.brands.push(brand);
+      } else {
+        groups.push({ era: brand.era, brands: [brand] });
+      }
+    });
+    return groups;
+  }, [timeline]);
+
+  // Update SEO with complete OG tags (Issue #672) + Article/ItemList
+  // structured data for the "1623 -> today" timeline view (Issue #4390).
   useEffect(() => {
     updateBrandMeta(null, true); // true = isList
-  }, []);
+
+    if (Platform.OS === 'web' && typeof document !== 'undefined' && timeline.length > 0) {
+      const brandsSchema = {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "headline": "Drum, Cymbal & Stick Brand History: From 1623 to Today",
+            "description": `A brand-by-brand timeline of drum, cymbal, stick, pedal, and drumhead makers used by metal drummers, from ${oldestBrand.name} (founded ${oldestBrand.foundedYear}) to today's touring gear.`,
+            "url": "https://metalforge.io/brands",
+            "author": { "@type": "Organization", "name": "MetalForge" },
+          },
+          {
+            "@type": "ItemList",
+            "name": "Metal Gear Brands Timeline",
+            "description": "Drum, cymbal, stick, pedal, and drumhead brands ordered by founding year, oldest to youngest.",
+            "numberOfItems": timeline.length,
+            "itemListElement": timeline.map((brand, index) => ({
+              "@type": "ListItem",
+              "position": index + 1,
+              "item": {
+                "@type": "Organization",
+                "name": brand.name,
+                "foundingDate": String(brand.foundedYear),
+                "url": `https://metalforge.io/brands/${brand.slug}`,
+              },
+            })),
+          },
+        ],
+      };
+
+      let ldScript = document.querySelector('script[data-schema="brands-list"]');
+      if (!ldScript) {
+        ldScript = document.createElement('script');
+        ldScript.type = 'application/ld+json';
+        ldScript.setAttribute('data-schema', 'brands-list');
+        document.head.appendChild(ldScript);
+      }
+      ldScript.textContent = JSON.stringify(brandsSchema);
+
+      const breadcrumbSchema = {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://metalforge.io" },
+          { "@type": "ListItem", "position": 2, "name": "Brands", "item": "https://metalforge.io/brands" },
+        ],
+      };
+      let breadcrumbScript = document.querySelector('script[data-schema="brands-list-breadcrumb"]');
+      if (!breadcrumbScript) {
+        breadcrumbScript = document.createElement('script');
+        breadcrumbScript.type = 'application/ld+json';
+        breadcrumbScript.setAttribute('data-schema', 'brands-list-breadcrumb');
+        document.head.appendChild(breadcrumbScript);
+      }
+      breadcrumbScript.textContent = JSON.stringify(breadcrumbSchema);
+    }
+
+    return () => {
+      if (Platform.OS === 'web' && typeof document !== 'undefined') {
+        const ldScript = document.querySelector('script[data-schema="brands-list"]');
+        if (ldScript) ldScript.remove();
+        const breadcrumbScript = document.querySelector('script[data-schema="brands-list-breadcrumb"]');
+        if (breadcrumbScript) breadcrumbScript.remove();
+      }
+    };
+  }, [timeline, oldestBrand]);
 
   const renderBrandCard = (brand) => (
     <TouchableOpacity
       key={brand.slug}
-      style={[styles.genreCard, { 
+      style={[styles.genreCard, {
         backgroundColor: theme.card,
         borderColor: brand.color,
         borderWidth: 2,
@@ -15089,6 +15180,59 @@ function BrandsListPage({ onBack, onSelectBrand, theme }) {
           Explore →
         </Text>
       </View>
+      {brand.themeLinks && brand.themeLinks.length > 0 && (
+        <View style={[styles.flexRowWrap, styles.gap2, { marginTop: 10 }]}>
+          {brand.themeLinks.map((link) => (
+            <TouchableOpacity
+              key={link.path}
+              style={{
+                backgroundColor: brand.color + '20',
+                borderColor: brand.color,
+                borderWidth: 1,
+                paddingHorizontal: 10,
+                paddingVertical: 6,
+                borderRadius: 8,
+              }}
+              onPress={(e) => {
+                e.stopPropagation?.();
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.history.pushState({}, '', link.path);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              accessibilityRole="link"
+              accessibilityLabel={link.label}
+            >
+              <Text style={{ color: brand.color, fontWeight: '600', fontSize: 12 }}>{link.label} →</Text>
+            </TouchableOpacity>
+          ))}
+        </View>
+      )}
+    </TouchableOpacity>
+  );
+
+  const renderTimelineRow = (brand) => (
+    <TouchableOpacity
+      key={brand.slug}
+      style={{ flexDirection: 'row', alignItems: 'flex-start', paddingVertical: 10 }}
+      onPress={() => onSelectBrand(brand.slug)}
+      accessibilityRole="link"
+      accessibilityLabel={`${brand.name}, founded ${brand.foundedYear}`}
+    >
+      <Text style={{ color: brand.color, fontWeight: '700', width: 64, fontSize: 15 }}>
+        {brand.foundedYear}
+      </Text>
+      <View style={styles.flex1}>
+        <Text style={{ color: theme.text, fontWeight: '700', fontSize: 15 }}>
+          {brand.icon} {brand.name}
+          {brand.foundedPlace ? (
+            <Text style={{ color: theme.secondaryText, fontWeight: '400' }}> · {brand.foundedPlace}</Text>
+          ) : null}
+        </Text>
+        <Text style={[styles.textSm, { color: theme.secondaryText, marginTop: 2 }]} numberOfLines={3}>
+          {brand.oneLiner}
+        </Text>
+      </View>
     </TouchableOpacity>
   );
 
@@ -15104,33 +15248,79 @@ function BrandsListPage({ onBack, onSelectBrand, theme }) {
           <Text style={[styles.backButtonText, { color: theme.text }]}>← Back</Text>
         </TouchableOpacity>
 
-        <Text style={[styles.bandPageTitle, { color: theme.text }]}>Drum & Cymbal Brands</Text>
+        <Text style={[styles.bandPageTitle, { color: theme.text }]} accessibilityRole="header">
+          Drum, Cymbal & Stick Brands: 1623 → Today
+        </Text>
         <Text style={[styles.bandPageSubtitle, { color: theme.secondaryText, marginBottom: 24 }]}>
-          Discover which brands legendary metal drummers trust for their setups.
+          From a 1623 Ottoman cymbal foundry to the touring rigs of today's metal legends — every gear
+          brand's founding story, ordered oldest to youngest, then grouped by category.
         </Text>
 
-        {/* Drum Brands Section */}
-        <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 16 }]}>🥁 Drum Brands</Text>
-        <View style={{ 
-          flexDirection: 'row', 
-          flexWrap: 'wrap', 
-          gap: 16,
-          justifyContent: isMobile ? 'center' : 'flex-start',
-          marginBottom: 32,
-        }}>
-          {drumBrands.map(renderBrandCard)}
+        {/* "Oldest cymbal company" callout - Issue #4390 */}
+        {oldestBrand && (
+          <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header" aria-level={2}>
+              The Oldest Cymbal Company in Metal Gear
+            </Text>
+            <Text style={[styles.genreParagraph, { color: theme.secondaryText }]}>
+              When was {oldestBrand.name} founded? {oldestBrand.foundedYear} — in {oldestBrand.foundedPlace}, making
+              {' '}{oldestBrand.name} the oldest cymbal company still supplying metal drummers today, more than three
+              centuries before Lars Ulrich's Zildjian setup became a thrash-metal reference sound. {oldestBrand.oneLiner}
+            </Text>
+          </View>
+        )}
+
+        {/* Timeline view - Issue #4390 */}
+        <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header" aria-level={2}>
+            Brand Timeline: From 1623 to Today
+          </Text>
+          <Text style={[styles.genreParagraph, { color: theme.secondaryText, marginBottom: 8 }]}>
+            Every drum, cymbal, stick, pedal, and drumhead brand on MetalForge, ordered by founding year —
+            the museum walk from a 17th-century Ottoman workshop to modern touring gear.
+          </Text>
+          {eraGroups.map((group) => (
+            <View key={group.era} style={{ marginTop: 12 }}>
+              <Text style={{ color: theme.accent, fontWeight: '700', fontSize: 13, letterSpacing: 1, textTransform: 'uppercase' }}>
+                {BRAND_ERA_DISPLAY[group.era] || group.era}
+              </Text>
+              {group.brands.map(renderTimelineRow)}
+            </View>
+          ))}
         </View>
 
-        {/* Cymbal Brands Section */}
-        <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 16 }]}>🎼 Cymbal Brands</Text>
-        <View style={{ 
-          flexDirection: 'row', 
-          flexWrap: 'wrap', 
-          gap: 16,
-          justifyContent: isMobile ? 'center' : 'flex-start',
-        }}>
-          {cymbalBrands.map(renderBrandCard)}
+        {/* "Drum brand history" framing - Issue #4390 */}
+        <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
+          <Text style={[styles.sectionTitle, { color: theme.text }]} accessibilityRole="header" aria-level={2}>
+            Drum Brand History: From Marching Bands to Blast Beats
+          </Text>
+          <Text style={[styles.genreParagraph, { color: theme.secondaryText }]}>
+            Drum brands anchor every metal kit. Sonor started as an 1875 German workshop building marching
+            drums; Ludwig's 1909 bass drum pedal let one drummer replace two; Pearl and Tama grew out of
+            post-war and 1970s Japanese manufacturing; DW and Mapex became the modern touring standard.
+            Browse each drum brand's full founding story on its own page, or jump straight to a category below.
+          </Text>
         </View>
+
+        {/* Grouped-by-category view - Issue #4390 */}
+        <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 16 }]} accessibilityRole="header" aria-level={2}>
+          Browse Brands by Category
+        </Text>
+        {categoryGroups.map((group) => (
+          <View key={group.type} style={{ marginBottom: 32 }}>
+            <Text style={[styles.sectionTitle, { color: theme.text, marginBottom: 16 }]} accessibilityRole="header" aria-level={3}>
+              {group.label}
+            </Text>
+            <View style={{
+              flexDirection: 'row',
+              flexWrap: 'wrap',
+              gap: 16,
+              justifyContent: isMobile ? 'center' : 'flex-start',
+            }}>
+              {group.brands.map(renderBrandCard)}
+            </View>
+          </View>
+        ))}
       </View>
     </ScrollView>
   );

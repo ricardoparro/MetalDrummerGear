@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-12 14:29 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-12 15:21 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,23 +8,23 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 283 |
-| Sessions | 320 |
-| Page views | 548 |
-| Engagement rate | 45.63% |
-| Avg session (s) | 116 |
+| Active users | 294 |
+| Sessions | 331 |
+| Page views | 555 |
+| Engagement rate | 44.11% |
+| Avg session (s) | 112 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 77 | 37 |
+| / | 79 | 41 |
 | /drummers | 29 | 5 |
-| /drumsticks | 23 | 15 |
-| /cymbals | 15 | 15 |
+| /drumsticks | 24 | 17 |
+| /cymbals | 16 | 16 |
 | /drummer/jaska-raatikainen | 15 | 4 |
-| /drummer/lars-ulrich | 12 | 14 |
+| /drummer/lars-ulrich | 13 | 16 |
 | /drummer/matt-greiner | 12 | 9 |
-| /lists/fastest-metal-drummers | 11 | 11 |
+| /lists/fastest-metal-drummers | 12 | 12 |
 | /articles/fastest-double-bass-drummers | 10 | 8 |
 | /drummer/bill-ward | 10 | 8 |
 
@@ -32,8 +32,8 @@
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Organic Search | 181 | 158 |
-| Direct | 132 | 118 |
-| Unassigned | 91 | 90 |
+| Direct | 138 | 124 |
+| Unassigned | 98 | 97 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

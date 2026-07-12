@@ -2993,3 +2993,28 @@ Metrics 11:24 UTC (256 users/293 sessions/520 views 7d; GSC 5,154 impr/140 click
 - Blockers unchanged: #4424 (Joey Jordison, ~6.7h old, Jul 26 deadline, not yet at 13:00 UTC escalation checkpoint) · #4440 (infra, no new instance) · #875/#529/#526/#525 · no re-spam
 - Actions: re-confirmed #4410/#4276/#4267/#4205 already carry `ai-fix` from earlier runs today (label-add was a no-op); reviewed #4411 (L4 perf verifier, founder-approved) against the atomic-split trigger — held as one issue, deliverables are tightly coupled (script + its own workflow + trivial doc/config touches), same shape as existing L1-L3 loops
 - Next check: 13:00 UTC mid-day pulse — escalate #4424 if still unpicked; L1/L2/L3 snapshots due 2026-07-13
+
+## 2026-07-12 15:22 — Pulse: diagnosed why #4424 (Joey Jordison deadline) sat 10h untouched, unblocked it; promoted 1 fresh proposal
+
+### Context (≤3 lines)
+Metrics refreshed 15:21 UTC (294 users/331 sessions/555 views 7d; GSC 5,154 impr/140 clicks/2.72% CTR/pos 8.5 — no content-gap rows). Backlog was 6 eligible `ai-fix`, 0 open PRs. #4424 (Joey Jordison, filed 05:33 UTC, July 26 index deadline) was flagged in the 12:16 entry to escalate at the 13:00 mid-day pulse if still unpicked — now 10h old, past that checkpoint, still 0 comments/no PR.
+
+### Actions taken
+- **Diagnosed #4424's stall**: checked every open+closed `ai-fix` issue in repo history — #4424 was the *only* one ever carrying both `ai-fix` and `human-founder` labels simultaneously. Every other issue Roadie has picked up/closed had a single clean label, and the queue turned over every 20-40 min all morning while #4424 sat idle 10h. Hypothesis: dispatcher excludes `human-founder`-labeled issues from pickup (correct for issues genuinely waiting on Ricardo) even when `ai-fix` is also present — but #4424 was already founder-approved in its body, the label was just a leftover from filing. Removed `human-founder` from #4424, left an explanatory comment, and logged this as a second data point on #4440 (the existing infra-escalation issue for Roadie dispatch bugs) rather than filing a 4th new issue this run.
+- **Promoted #4469** (`/lists/<slug>` ItemList schema empty on all 98 pages — `numberOfItems` hardcoded to 10, `itemListElement` always `[]`; root cause confirmed live via curl + exact line numbers in `api/meta/[...path].js:2758-2765`, same bug class already fixed on the sibling `/articles/:slug` path under #3973 but never ported to `/lists/:slug`). High-confidence, well-scoped, backlog only 6 — promote liberally per the <45 floor rule.
+- Confirmed L1/L2/L3 snapshot files touched at 15:20 UTC but content unchanged (still dated 2026-07-06 internally) — next real refresh due 2026-07-13, no action yet.
+- Founder ideas: inbox empty. GSC content-gap: none. Atomic-split: oldest open `ai-fix` #4205 ~62.7h old, still under the 72h trigger; no `ceo-aggressive` issues open.
+
+### State delta
+- ai-fix backlog: 6 → 7 eligible (#4469 promoted)
+- #4424 unblocked: `human-founder` label removed, now a clean single-label `ai-fix` issue
+- Org/Sessions/Views (7d): 294/331/555 · GSC: 5,154 impr / 140 clicks / 2.72% CTR / pos 8.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted (3 others in the label list are the standing L1/L2/L3 umbrella trackers, correctly never promoted). ✅ GSC-gap: none. ✅ Atomic split: none triggered. ✅ Decisions logged.
+
+### Next Run
+1. **Watch #4424** — confirm it gets picked up now that the blocking label is gone; escalate harder (e.g. direct ping) if still 0 comments by the next pulse.
+2. Watch #4440 for Ricardo's response — the dispatcher-exclusion hypothesis is now backed by two independent instances (duplicate-PR race + human-founder-label stall).
+3. Backlog at 7 — still well below the 45 floor; keep promoting liberally toward the ~80 target band.
+4. Next L1/L2/L3 snapshots due 2026-07-13 — first fresh run since the meta-shell saga closed.

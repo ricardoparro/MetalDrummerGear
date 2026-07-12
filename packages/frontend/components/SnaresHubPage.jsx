@@ -19,6 +19,7 @@ import {
   generateCanonicalUrl,
 } from '../data/snareReferencePages';
 import { SIGNATURE_SNARES } from '../data/snares';
+import { getBrand } from '../data/snareBrands';
 
 function injectSchema(id, schema) {
   if (Platform.OS !== 'web' || typeof document === 'undefined' || !schema) return;
@@ -142,17 +143,23 @@ function BestForMetalLink({ theme, onNavigate }) {
   return card;
 }
 
-function BrandRow({ brand, theme }) {
-  const slug = toSlug(brand.name);
+function BrandRow({ brand, theme, onNavigateBrand }) {
+  const matchedBrand = getBrand(toSlug(brand.name));
   const row = (
     <View style={styles.brandRow}>
-      <Text style={[styles.brandName, { color: theme.primary || theme.text }]}>{brand.name}</Text>
+      <Text style={[styles.brandName, { color: matchedBrand ? (theme.primary || theme.text) : theme.text }]}>{brand.name}</Text>
       <Text style={[styles.brandNote, { color: theme.secondaryText || theme.text }]}>{brand.note}</Text>
     </View>
   );
+  if (!matchedBrand) return row;
+  const url = `/snares/brands/${matchedBrand.slug}`;
   if (Platform.OS === 'web') {
     return (
-      <a href={`/brands/${slug}`} style={{ textDecoration: 'none', display: 'block', width: '100%' }}>
+      <a
+        href={url}
+        onClick={(e) => { if (onNavigateBrand) { e.preventDefault(); onNavigateBrand(matchedBrand.slug); } }}
+        style={{ textDecoration: 'none', display: 'block', width: '100%' }}
+      >
         {row}
       </a>
     );
@@ -160,7 +167,7 @@ function BrandRow({ brand, theme }) {
   return row;
 }
 
-export function SnaresHubPage({ theme: themeProp, drummers = [], onNavigateReference, onNavigateBestForMetal }) {
+export function SnaresHubPage({ theme: themeProp, drummers = [], onNavigateReference, onNavigateBrand, onNavigateBestForMetal }) {
   const theme = themeProp || themes.dark;
 
   useEffect(() => {
@@ -211,7 +218,7 @@ export function SnaresHubPage({ theme: themeProp, drummers = [], onNavigateRefer
 
       <Text style={[styles.h2, { color: theme.text }]}>Major snare brands</Text>
       {PILLAR_PAGE.brands.map((brand) => (
-        <BrandRow key={brand.name} brand={brand} theme={theme} />
+        <BrandRow key={brand.name} brand={brand} theme={theme} onNavigateBrand={onNavigateBrand} />
       ))}
 
       <Text style={[styles.h2, { color: theme.text }]}>Best snares for metal</Text>

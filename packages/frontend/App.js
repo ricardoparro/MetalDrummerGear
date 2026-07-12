@@ -30252,6 +30252,12 @@ setShowList(false);
                 window.history.pushState({}, '', `/snares/${slug}`);
               }
             }}
+            onNavigateBrand={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/snares/brands/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
             onNavigateBestForMetal={() => {
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', '/snares/best-for-metal');

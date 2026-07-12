@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/alex-bent"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Alex Bent — Drum Kit & Gear Setup
@@ -97,10 +97,16 @@ Alex Bent's cymbals: Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom H
 
 Full breakdown: [Alex Bent's cymbal setup](https://metalforge.io/cymbals/setups/alex-bent).
 
+## Pedal
+
+Alex Bent plays an Axis A Longboard double pedal (direct-drive).
+
+Full breakdown: [Alex Bent's pedal setup](https://metalforge.io/pedals/setups/alex-bent).
+
 ---
 
 **Full interactive profile:** [Alex Bent on MetalForge](https://metalforge.io/drummer/alex-bent)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

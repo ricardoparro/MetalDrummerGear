@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/derek-roddy"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Derek Roddy — Drum Kit & Gear Setup
@@ -116,10 +116,16 @@ Derek Roddy's cymbals: Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 1
 
 Full breakdown: [Derek Roddy's cymbal setup](https://metalforge.io/cymbals/setups/derek-roddy).
 
+## Pedal
+
+Derek Roddy plays a Tama Speed Cobra 910 double pedal (chain-drive).
+
+Full breakdown: [Derek Roddy's pedal setup](https://metalforge.io/pedals/setups/derek-roddy).
+
 ---
 
 **Full interactive profile:** [Derek Roddy on MetalForge](https://metalforge.io/drummer/derek-roddy)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

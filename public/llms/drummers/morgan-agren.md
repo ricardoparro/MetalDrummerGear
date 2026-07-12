@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/morgan-agren"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Morgan Ågren — Drum Kit & Gear Setup
@@ -99,10 +99,16 @@ Morgan Ågren's cymbals: Paiste Signature & 2002 Series (14" Signature Heavy Hi-
 
 Full breakdown: [Morgan Ågren's cymbal setup](https://metalforge.io/cymbals/setups/morgan-agren).
 
+## Pedal
+
+Morgan Ågren plays a Sonor Giant Step double pedal.
+
+Full breakdown: [Morgan Ågren's pedal setup](https://metalforge.io/pedals/setups/morgan-agren).
+
 ---
 
 **Full interactive profile:** [Morgan Ågren on MetalForge](https://metalforge.io/drummer/morgan-agren)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

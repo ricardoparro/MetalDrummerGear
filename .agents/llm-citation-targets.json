@@ -162,6 +162,12 @@
       "intent": "comparative",
       "target_entity": "lists:thrash-metal-drummers",
       "priority": "medium"
+    },
+    {
+      "q": "what pedals does george kollias use",
+      "intent": "long-tail-informational",
+      "target_entity": "drummer:george-kollias",
+      "priority": "high"
     }
   ]
 }

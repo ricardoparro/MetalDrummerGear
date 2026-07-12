@@ -6,7 +6,7 @@ country: "Cuba/USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dave-lombardo"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Dave Lombardo — Drum Kit & Gear Setup
@@ -145,10 +145,16 @@ Dave Lombardo's cymbals: Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" 
 
 Full breakdown: [Dave Lombardo's cymbal setup](https://metalforge.io/cymbals/setups/dave-lombardo).
 
+## Pedal
+
+Dave Lombardo plays a Tama Iron Cobra 900 double pedal (chain-drive).
+
+Full breakdown: [Dave Lombardo's pedal setup](https://metalforge.io/pedals/setups/dave-lombardo).
+
 ---
 
 **Full interactive profile:** [Dave Lombardo on MetalForge](https://metalforge.io/drummer/dave-lombardo)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

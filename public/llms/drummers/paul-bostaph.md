@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/paul-bostaph"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Paul Bostaph — Drum Kit & Gear Setup
@@ -98,10 +98,16 @@ Paul Bostaph's cymbals: Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX 
 
 Full breakdown: [Paul Bostaph's cymbal setup](https://metalforge.io/cymbals/setups/paul-bostaph).
 
+## Pedal
+
+Paul Bostaph plays a Pearl Eliminator double pedal.
+
+Full breakdown: [Paul Bostaph's pedal setup](https://metalforge.io/pedals/setups/paul-bostaph).
+
 ---
 
 **Full interactive profile:** [Paul Bostaph on MetalForge](https://metalforge.io/drummer/paul-bostaph)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

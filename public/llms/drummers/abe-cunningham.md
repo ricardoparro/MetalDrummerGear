@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/abe-cunningham"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Abe Cunningham — Drum Kit & Gear Setup
@@ -111,10 +111,16 @@ Abe Cunningham's cymbals: Zildjian K Custom & A Custom Series (14" K Custom Hi-H
 
 Full breakdown: [Abe Cunningham's cymbal setup](https://metalforge.io/cymbals/setups/abe-cunningham).
 
+## Pedal
+
+Abe Cunningham plays a DW 9000 Series double pedal (chain-drive).
+
+Full breakdown: [Abe Cunningham's pedal setup](https://metalforge.io/pedals/setups/abe-cunningham).
+
 ---
 
 **Full interactive profile:** [Abe Cunningham on MetalForge](https://metalforge.io/drummer/abe-cunningham)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

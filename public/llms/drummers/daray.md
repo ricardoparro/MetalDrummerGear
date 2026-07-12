@@ -6,7 +6,7 @@ country: "Poland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daray"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Daray — Drum Kit & Gear Setup
@@ -104,10 +104,16 @@ Daray's cymbals: Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Cra
 
 Full breakdown: [Daray's cymbal setup](https://metalforge.io/cymbals/setups/daray).
 
+## Pedal
+
+Daray plays a Pearl Demon XR double pedal.
+
+Full breakdown: [Daray's pedal setup](https://metalforge.io/pedals/setups/daray).
+
 ---
 
 **Full interactive profile:** [Daray on MetalForge](https://metalforge.io/drummer/daray)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

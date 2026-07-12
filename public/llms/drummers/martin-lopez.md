@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Noble"
 profile_url: "https://metalforge.io/drummer/martin-lopez"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Martin Lopez — Drum Kit & Gear Setup
@@ -115,10 +115,16 @@ Martin Lopez's cymbals: Zildjian K Dark Series (14" K Dark Thin Hi-Hats, 18" & 2
 
 Full breakdown: [Martin Lopez's cymbal setup](https://metalforge.io/cymbals/setups/martin-lopez).
 
+## Pedal
+
+Martin Lopez plays an Axis Percussion double pedal (direct-drive).
+
+Full breakdown: [Martin Lopez's pedal setup](https://metalforge.io/pedals/setups/martin-lopez).
+
 ---
 
 **Full interactive profile:** [Martin Lopez on MetalForge](https://metalforge.io/drummer/martin-lopez)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

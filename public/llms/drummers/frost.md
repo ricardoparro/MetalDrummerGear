@@ -6,7 +6,7 @@ country: "Norway"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/frost"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Frost — Drum Kit & Gear Setup
@@ -114,10 +114,16 @@ Frost's cymbals: Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 1
 
 Full breakdown: [Frost's cymbal setup](https://metalforge.io/cymbals/setups/frost).
 
+## Pedal
+
+Frost plays a Sonor Perfect Balance pedal.
+
+Full breakdown: [Frost's pedal setup](https://metalforge.io/pedals/setups/frost).
+
 ---
 
 **Full interactive profile:** [Frost on MetalForge](https://metalforge.io/drummer/frost)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

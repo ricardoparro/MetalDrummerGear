@@ -178,6 +178,10 @@ import { DRUMMER_CYMBALS, getSetupForDrummer } from './data/cymbalSetups';
 // Cymbal brand pages (Issue #4307, epic #4303 phase 4/4) — used to link the
 // drummer-page "Cymbals" block to the matching /cymbals/brands/<brand> page.
 import { getBrandForCymbalSetup } from './data/cymbalBrands';
+// Pedals data module (Issue #4391, epic #4387 phase 1) — verified drummer→pedal
+// mapping used by the drummer-page "Hardware" block and the
+// /pedals/setups/<drummer> pages (Issue #4393, phase 3/4).
+import { DRUMMER_PEDALS, getPedalForDrummer } from './data/pedals';
 
 // ==========================================
 // LAZY-LOADED DATA MODULES - Performance Optimization (#708)
@@ -897,6 +901,24 @@ function isCymbalSetupPage() {
 function getCymbalSetupSlugFromURL() {
   if (typeof window === 'undefined') return null;
   const match = window.location.pathname.match(CYMBAL_SETUP_RE);
+  return match ? match[1].toLowerCase() : null;
+}
+
+// Pedal Setup Pages (Issue #4393, phase 3/4 of epic #4387) - /pedals/setups/<drummer>
+// Targets "what pedals does <drummer> use". Only rendered for drummers with a
+// confirmed pedal in data/pedals.js (DRUMMER_PEDALS) — an unmapped slug falls
+// through to the normal 404 instead of a thin/empty page.
+const LazyPedalSetupPage = lazy(() => import('./components/PedalSetupPage').then(m => ({ default: m.PedalSetupPage })));
+const PEDAL_SETUP_RE = /^\/pedals\/setups\/([a-z0-9-]+)\/?$/i;
+function isPedalSetupPage() {
+  if (typeof window === 'undefined') return false;
+  const match = window.location.pathname.match(PEDAL_SETUP_RE);
+  if (!match) return false;
+  return Object.prototype.hasOwnProperty.call(DRUMMER_PEDALS, match[1].toLowerCase());
+}
+function getPedalSetupSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(PEDAL_SETUP_RE);
   return match ? match[1].toLowerCase() : null;
 }
 
@@ -7537,6 +7559,37 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
                 <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>More {mappedCymbalBrand.name} cymbals →</Text>
               </TouchableOpacity>
             )}
+          </View>
+        );
+      })()}
+
+      {/* Pedal setup link block (Issue #4393, phase 3/4 of epic #4387) — only
+          renders when this drummer has a verified pedal in data/pedals.js, so
+          unmapped drummers get no empty block. Links the Hardware gear line
+          into the /pedals/setups/<drummer> page for the full pedal
+          breakdown — same single-link pattern as the Sticks/Snare/Cymbals
+          blocks above. */}
+      {(() => {
+        const mappedPedal = getPedalForDrummer(drummerSlug);
+        if (!mappedPedal) return null;
+        return (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border }]}>
+            <Text style={[styles.bioText, { color: theme.text }]}>
+              <Text style={{ fontWeight: '700' }}>Pedal: </Text>
+              {mappedPedal.summary}
+            </Text>
+            <TouchableOpacity
+              onPress={() => {
+                if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                  window.history.pushState({}, '', `/pedals/setups/${drummerSlug}`);
+                  window.dispatchEvent(new PopStateEvent('popstate'));
+                }
+              }}
+              accessibilityRole="link"
+              accessibilityLabel={`${drummer.name}'s full pedal breakdown`}
+            >
+              <Text style={[styles.gearSeriesLink, { color: theme.primary }]}>See full pedal breakdown →</Text>
+            </TouchableOpacity>
           </View>
         );
       })()}
@@ -28792,6 +28845,41 @@ setShowList(false);
             onNavigateToBrand={(slug) => {
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/cymbals/brands/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+
+    // Pedal Setup Page (Issue #4393, phase 3/4 of epic #4387) - /pedals/setups/<drummer>
+    if (isPedalSetupPage()) {
+      const pedalSetupDrummerSlug = getPedalSetupSlugFromURL();
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyPedalSetupPage
+            theme={theme}
+            drummerSlug={pedalSetupDrummerSlug}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${pedalSetupDrummerSlug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              const drummer = drummers.find(d => toSlug(d.name) === slug);
+              if (drummer) {
+                handleSelectDrummer(drummer);
+              }
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}`);
+              }
+            }}
+            onNavigateToHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals');
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}

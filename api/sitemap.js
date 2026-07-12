@@ -585,17 +585,15 @@ export function buildSitemapXml() {
     ...([
       'sean-reinert-vs-martin-lopez',
       'sean-reinert-vs-hannes-grossmann',
-      'brann-dailor-vs-sean-reinert',
       'lars-ulrich-vs-charlie-benante',
       // Issue #3611: 3 new curated pairs closing the zero-pairing roster gap.
       'richard-christy-vs-derek-roddy',
       'kevin-talley-vs-george-kollias',
       'ryan-van-poederooyen-vs-mike-portnoy',
-      // Issue #4122: 3 new curated pairs closing thin-coverage gaps (Jon Dette,
-      // Adrian Erlandsson) — neither drummer is in the `drummers` list above.
+      // Issue #4122: curated pairs closing thin-coverage gaps for Jon Dette,
+      // who isn't in the `drummers` list above.
       'jon-dette-vs-dave-lombardo',
       'jon-dette-vs-gene-hoglan',
-      'adrian-erlandsson-vs-sean-reinert',
       // Issue #4128: navene-koperweis-vs-matt-garstka's curated slug keeps the
       // founder-then-successor narrative order; the alphabetized generator above
       // would instead produce matt-garstka-vs-navene-koperweis.

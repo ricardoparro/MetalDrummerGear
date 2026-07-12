@@ -19,6 +19,7 @@ import {
 } from '../data/cymbalReferencePages';
 import { CYMBAL_SETUPS } from '../data/cymbalSetups';
 import { getBrand } from '../data/cymbalBrands';
+import { FACE_FOCUS } from '../data/drummerPhotoFocus';
 
 function injectSchema(id, schema) {
   if (Platform.OS !== 'web' || typeof document === 'undefined' || !schema) return;
@@ -68,26 +69,6 @@ function ReferenceCard({ slug, theme, onNavigate }) {
   }
   return card;
 }
-
-// Vertical focus of the 120px cover crop, per photo — reused verbatim from
-// DrumsticksHubPage.jsx (#4302) since it's the same drummer roster photos and
-// the same centered-crop-cuts-off-the-face pitfall. Anything not listed keeps
-// the centered default.
-const FACE_FOCUS = {
-  'danny-carey': '8%',
-  'dirk-verbeuren': '8%',
-  'george-kollias': '10%',
-  'nicko-mcbrain': '12%',
-  'gene-hoglan': '12%',
-  'mikkey-dee': '15%',
-  'derek-roddy': '15%',
-  'charlie-benante': '20%',
-  'adrian-erlandsson': '20%',
-  'joey-jordison': '22%',
-  'inferno': '25%',
-  'dave-lombardo': '28%',
-  'lars-ulrich': '30%',
-};
 
 function CymbalSetupCard({ drummer, setup, theme }) {
   const slug = toSlug(drummer.name);

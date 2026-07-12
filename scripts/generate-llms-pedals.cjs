@@ -47,10 +47,32 @@ function loadModuleConsts(filePath, constNames) {
   }
 }
 
-const { PEDALS } = loadModuleConsts(
+const { PEDALS, getPedalsByBrand } = loadModuleConsts(
   path.join(__dirname, '../packages/frontend/data/pedals.js'),
-  ['PEDALS']
+  ['PEDALS', 'getPedalsByBrand']
 );
+
+const { hasBrand } = loadModuleConsts(
+  path.join(__dirname, '../packages/frontend/data/brands.js'),
+  ['hasBrand']
+);
+
+// pedalBrands.js imports live functions from pedals.js/brands.js rather than
+// plain consts, so loadModuleConsts (which just strips import lines) can't
+// load it directly — wrap it and inject those two functions instead.
+function loadPedalBrands() {
+  const filePath = path.join(__dirname, '../packages/frontend/data/pedalBrands.js');
+  const body = fs.readFileSync(filePath, 'utf-8')
+    .replace(/^import[^\n]*\n/gm, '')
+    .replace(/export default[\s\S]*$/, '')
+    .replace(/export function/g, 'function')
+    .replace(/export const/g, 'const');
+  const wrapped = `(function(getPedalsByBrand, hasFullBrandPage){\n${body}\nreturn { PEDAL_BRANDS, getConfirmedPedalsForBrand, hasBrandMuseumPage, generateBrandCanonicalUrl };\n})`;
+  // eslint-disable-next-line no-eval
+  return eval(wrapped)(getPedalsByBrand, hasBrand);
+}
+
+const { PEDAL_BRANDS, getConfirmedPedalsForBrand, hasBrandMuseumPage, generateBrandCanonicalUrl } = loadPedalBrands();
 
 const {
   PILLAR_PAGE,
@@ -291,6 +313,77 @@ function buildReferenceMarkdown(page) {
 }
 
 // ---------------------------------------------------------------------------
+// Brand page files — public/llms/pedals/brands/<brand>.md
+// Issue #4432 (split 1/3 of #4394): mirrors buildSetupMarkdown/buildReferenceMarkdown
+// above — confirmed drummers are read live from PEDAL_BRANDS/PEDALS via
+// getConfirmedPedalsForBrand, never hardcoded.
+// ---------------------------------------------------------------------------
+
+function buildBrandMarkdown(brand) {
+  const url = generateBrandCanonicalUrl(brand.slug);
+  const confirmed = getConfirmedPedalsForBrand(brand)
+    .map((pedal) => {
+      const drummer = drummerBySlug[pedal.drummerSlug];
+      return drummer ? { pedal, name: drummer.name, band: drummer.band } : null;
+    })
+    .filter(Boolean);
+
+  const parts = [];
+  parts.push(`# ${brand.name} Bass Drum Pedals: Metal-Relevant Lines & Which Drummers Use Them`);
+  parts.push('');
+  if (brand.founded) parts.push(`**Founded:** ${brand.founded}`);
+  if (brand.parent) parts.push(`**${brand.parent}**`);
+  if (brand.founded || brand.parent) parts.push('');
+  parts.push('---');
+  parts.push('');
+  parts.push('## Overview');
+  parts.push('');
+  parts.push(brand.positioning);
+  parts.push('');
+
+  parts.push('## Metal-Relevant Lines');
+  parts.push('');
+  parts.push('| Line | Description |');
+  parts.push('|------|-------------|');
+  for (const line of brand.notableLines) {
+    parts.push(`| ${line.name} | ${line.description} |`);
+  }
+  parts.push('');
+
+  parts.push(`## Confirmed Metal Drummers (${confirmed.length})`);
+  parts.push('');
+  if (confirmed.length > 0) {
+    parts.push('| Drummer | Band | Pedal | Setup Page |');
+    parts.push('|---------|------|-------|------------|');
+    for (const { pedal, name, band } of confirmed) {
+      parts.push(`| [${name}](${BASE}/pedals/setups/${pedal.drummerSlug}) | ${band} | ${pedal.summary} | [Markdown](${BASE}/llms/pedals/setups/${pedal.drummerSlug}.md) |`);
+    }
+  } else {
+    parts.push(`We haven't verified a ${brand.name} pedal setup played by one of our mapped metal drummers yet.`);
+  }
+  parts.push('');
+
+  parts.push('## Source');
+  parts.push('');
+  parts.push(`[${brand.source.label}](${brand.source.url})`);
+  parts.push('');
+
+  parts.push('---');
+  parts.push('');
+  parts.push(`- [Live page](${url})`);
+  if (hasBrandMuseumPage(brand.slug)) {
+    parts.push(`- [Full brand history](${BASE}/brands/${brand.slug})`);
+  }
+  parts.push(`- [All Pedal Brands](${BASE}/pedals/brands)`);
+  parts.push(`- [Pedals Guide](${BASE}/llms/pedals.md)`);
+  parts.push(`- [All LLM Resources](${BASE}/llms/index.md)`);
+  parts.push('');
+  parts.push(`*Last updated: ${today} · Source: [MetalForge.io](${BASE})*`);
+
+  return parts.join('\n');
+}
+
+// ---------------------------------------------------------------------------
 // Hub file — public/llms/pedals.md
 // ---------------------------------------------------------------------------
 
@@ -331,7 +424,9 @@ function buildHubMarkdown() {
   parts.push('## Pedal Brands on the Roster');
   parts.push('');
   for (const brand of PILLAR_PAGE.brands) {
-    parts.push(`- **${brand.name}:** ${brand.note}`);
+    const pedalBrand = PEDAL_BRANDS.find((b) => b.name === brand.name);
+    const link = pedalBrand ? ` [Brand page](${BASE}/llms/pedals/brands/${pedalBrand.slug}.md)` : '';
+    parts.push(`- **${brand.name}:** ${brand.note}${link}`);
   }
   parts.push('');
 
@@ -375,7 +470,9 @@ function buildHubMarkdown() {
 
 const outRoot = path.join(__dirname, '../public/llms');
 const setupsDir = path.join(outRoot, 'pedals/setups');
+const brandsDir = path.join(outRoot, 'pedals/brands');
 fs.mkdirSync(setupsDir, { recursive: true });
+fs.mkdirSync(brandsDir, { recursive: true });
 
 fs.writeFileSync(path.join(outRoot, 'pedals.md'), buildHubMarkdown());
 
@@ -394,8 +491,17 @@ for (const entry of pedalDrummers) {
   written++;
 }
 
-const totalFiles = 1 + REFERENCE_PAGE_ORDER.length + written;
-console.log(`Wrote public/llms/pedals.md, ${REFERENCE_PAGE_ORDER.length} reference pages, ${written} per-drummer setup files (${totalFiles} total).`);
+let brandsWritten = 0;
+for (const brand of PEDAL_BRANDS) {
+  const md = buildBrandMarkdown(brand);
+  fs.writeFileSync(path.join(brandsDir, `${brand.slug}.md`), md);
+  const wordCount = md.split(/\s+/).filter(Boolean).length;
+  if (wordCount < 100) shortFiles.push(`brands/${brand.slug} (${wordCount} words)`);
+  brandsWritten++;
+}
+
+const totalFiles = 1 + REFERENCE_PAGE_ORDER.length + written + brandsWritten;
+console.log(`Wrote public/llms/pedals.md, ${REFERENCE_PAGE_ORDER.length} reference pages, ${written} per-drummer setup files, ${brandsWritten} brand pages (${totalFiles} total).`);
 if (shortFiles.length) {
   console.error(`WARNING: ${shortFiles.length} setup file(s) under 100 words: ${shortFiles.join(', ')}`);
   process.exit(1);

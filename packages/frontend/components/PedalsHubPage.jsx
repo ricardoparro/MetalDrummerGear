@@ -19,6 +19,7 @@ import {
   generateCanonicalUrl,
 } from '../data/pedalReferencePages';
 import { PEDALS } from '../data/pedals';
+import { getBrand as getPedalBrand } from '../data/pedalBrands';
 import { FACE_FOCUS } from '../data/drummerPhotoFocus';
 
 function injectSchema(id, schema) {
@@ -123,17 +124,51 @@ function BestForMetalLink({ theme, onNavigate }) {
   return card;
 }
 
-function BrandRow({ brand, theme }) {
+function BrandsHubLink({ theme, onNavigate }) {
+  const card = (
+    <View style={[styles.ctaCard, { backgroundColor: theme.cardBg || theme.background, borderColor: theme.border }]}>
+      <Text style={[styles.ctaCardText, { color: theme.text }]}>🦶 See all pedal brands →</Text>
+    </View>
+  );
+  if (Platform.OS === 'web') {
+    return (
+      <a
+        href="/pedals/brands"
+        onClick={(e) => { if (onNavigate) { e.preventDefault(); onNavigate(); } }}
+        style={{ textDecoration: 'none', display: 'block', width: '100%' }}
+      >
+        {card}
+      </a>
+    );
+  }
+  return card;
+}
+
+function BrandRow({ brand, theme, onNavigateBrand }) {
+  const matchedBrand = getPedalBrand(toSlug(brand.name));
   const row = (
     <View style={styles.brandRow}>
-      <Text style={[styles.brandName, { color: theme.primary || theme.text }]}>{brand.name}</Text>
+      <Text style={[styles.brandName, { color: matchedBrand ? (theme.primary || theme.text) : theme.text }]}>{brand.name}</Text>
       <Text style={[styles.brandNote, { color: theme.secondaryText || theme.text }]}>{brand.note}</Text>
     </View>
   );
+  if (!matchedBrand) return row;
+  const url = `/pedals/brands/${matchedBrand.slug}`;
+  if (Platform.OS === 'web') {
+    return (
+      <a
+        href={url}
+        onClick={(e) => { if (onNavigateBrand) { e.preventDefault(); onNavigateBrand(matchedBrand.slug); } }}
+        style={{ textDecoration: 'none', display: 'block', width: '100%' }}
+      >
+        {row}
+      </a>
+    );
+  }
   return row;
 }
 
-export function PedalsHubPage({ theme: themeProp, drummers = [], onNavigateReference, onNavigateBestForMetal }) {
+export function PedalsHubPage({ theme: themeProp, drummers = [], onNavigateReference, onNavigateBrandsHub, onNavigateBrand, onNavigateBestForMetal }) {
   const theme = themeProp || themes.dark;
 
   useEffect(() => {
@@ -184,8 +219,9 @@ export function PedalsHubPage({ theme: themeProp, drummers = [], onNavigateRefer
 
       <Text style={[styles.h2, { color: theme.text }]}>Major pedal brands</Text>
       {PILLAR_PAGE.brands.map((brand) => (
-        <BrandRow key={brand.name} brand={brand} theme={theme} />
+        <BrandRow key={brand.name} brand={brand} theme={theme} onNavigateBrand={onNavigateBrand} />
       ))}
+      <BrandsHubLink theme={theme} onNavigate={onNavigateBrandsHub} />
 
       <Text style={[styles.h2, { color: theme.text }]}>Best pedals for metal</Text>
       <Text style={[styles.body, { color: theme.secondaryText || theme.text }]}>{PILLAR_PAGE.bestForMetal}</Text>

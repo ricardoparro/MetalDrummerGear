@@ -34,12 +34,12 @@ The pedal itself only sets the ceiling; spring tension, beater material, and foo
 
 ## Pedal Brands on the Roster
 
-- **Tama:** The single most common pedal brand across the verified metal roster — Iron Cobra (chain) and Speed Cobra (chain, longboard) cover most of the double-pedal roster.
-- **Pearl:** Demon Drive and Demon XR (direct drive) and Eliminator (chain) are the extreme-metal and technical-metal standard, from Hellhammer to George Kollias.
-- **DW:** 5000 and 9000 Series chain-drive pedals appear throughout the roster, prized for precision and touring reliability.
-- **Axis:** The direct-drive specialist brand — no chain or belt at all — used by drummers who prioritize instant, zero-slack response above everything else.
+- **Tama:** The single most common pedal brand across the verified metal roster — Iron Cobra (chain) and Speed Cobra (chain, longboard) cover most of the double-pedal roster. [Brand page](https://metalforge.io/llms/pedals/brands/tama.md)
+- **Pearl:** Demon Drive and Demon XR (direct drive) and Eliminator (chain) are the extreme-metal and technical-metal standard, from Hellhammer to George Kollias. [Brand page](https://metalforge.io/llms/pedals/brands/pearl.md)
+- **DW:** 5000 and 9000 Series chain-drive pedals appear throughout the roster, prized for precision and touring reliability. [Brand page](https://metalforge.io/llms/pedals/brands/dw.md)
+- **Axis:** The direct-drive specialist brand — no chain or belt at all — used by drummers who prioritize instant, zero-slack response above everything else. [Brand page](https://metalforge.io/llms/pedals/brands/axis.md)
 - **Mapex:** The Falcon double pedal shows up across several roster drummers, including Chris Adler.
-- **Trick:** Boutique, CNC-machined direct-drive pedals (Pro1-V, Bigfoot) used by technically elite players who have outgrown production hardware.
+- **Trick:** Boutique, CNC-machined direct-drive pedals (Pro1-V, Bigfoot) used by technically elite players who have outgrown production hardware. [Brand page](https://metalforge.io/llms/pedals/brands/trick.md)
 
 ## Best for Metal
 

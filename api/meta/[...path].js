@@ -192,6 +192,19 @@ import {
   generateBestForMetalItemListSchema as generatePedalBestForMetalItemListSchema,
   generateBestForMetalBreadcrumbSchema as generatePedalBestForMetalBreadcrumbSchema,
 } from '../../packages/frontend/data/pedalBestForMetal.js';
+// Issue #4432 (split 1/3 of #4394): SSR meta + JSON-LD for the
+// /pedals/brands hub + /pedals/brands/<brand> pages.
+import {
+  PEDAL_BRANDS,
+  getBrand as getPedalBrand,
+  getConfirmedPedalsForBrand,
+  generateBrandCanonicalUrl as generatePedalBrandCanonicalUrl,
+  generateBrandsHubCanonicalUrl as generatePedalBrandsHubCanonicalUrl,
+  generateBrandTitle as generatePedalBrandTitle,
+  generateBrandDescription as generatePedalBrandDescription,
+  generateBrandSchema as generatePedalBrandSchema,
+  generateBrandsHubSchema as generatePedalBrandsHubSchema,
+} from '../../packages/frontend/data/pedalBrands.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -4134,6 +4147,38 @@ function getMetaForPath(pathname) {
         },
       ].filter(Boolean)),
     };
+  }
+
+  // Issue #4432 (split 1/3 of #4394): /pedals/brands hub — ItemList (one
+  // entry per brand) + BreadcrumbList.
+  if (path === '/pedals/brands') {
+    const url = generatePedalBrandsHubCanonicalUrl();
+    return {
+      title: `Pedal Brands: Tama, Pearl, DW, Axis & Trick | ${SITE_NAME}`,
+      description: `Compare ${PEDAL_BRANDS.length} bass drum pedal brands — positioning, metal-relevant lines, and confirmed metal drummer endorsements.`,
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url,
+      articleSchema: JSON.stringify(generatePedalBrandsHubSchema()),
+    };
+  }
+
+  // Issue #4432 (split 1/3 of #4394): /pedals/brands/<brand> — Brand +
+  // ItemList (confirmed pedals) + BreadcrumbList.
+  const pedalBrandMatch = path.match(/^\/pedals\/brands\/([a-z0-9-]+)$/);
+  if (pedalBrandMatch) {
+    const brand = getPedalBrand(pedalBrandMatch[1]);
+    if (brand) {
+      const confirmedPedals = getConfirmedPedalsForBrand(brand);
+      return {
+        title: generatePedalBrandTitle(brand),
+        description: truncate(generatePedalBrandDescription(brand, confirmedPedals), 160),
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: generatePedalBrandCanonicalUrl(brand.slug),
+        articleSchema: JSON.stringify(generatePedalBrandSchema(brand, confirmedPedals)),
+      };
+    }
   }
 
   // Issue #4433 (split 2/3 of #4394): /pedals/best-for-metal buying guide —

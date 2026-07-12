@@ -422,6 +422,22 @@ function getPedalReferenceSlugFromURL() {
 const LazyPedalBestForMetalPage = lazy(() => import('./components/PedalBestForMetalPage').then(m => ({ default: m.PedalBestForMetalPage })));
 function isPedalBestForMetalPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/pedals/best-for-metal'; }
 
+// Pedal Brand Pages (Issue #4432, split 1/3 of #4394) - /pedals/brands
+// + /pedals/brands/<brand>. Only rendered for brands defined in
+// data/pedalBrands.js — an unknown slug falls through to the normal 404.
+const LazyPedalBrandsHubPage = lazy(() => import('./components/PedalBrandsHubPage').then(m => ({ default: m.PedalBrandsHubPage })));
+const LazyPedalBrandPage = lazy(() => import('./components/PedalBrandPage').then(m => ({ default: m.PedalBrandPage })));
+function isPedalBrandsHubPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/pedals/brands'; }
+const PEDAL_BRAND_RE = /^\/pedals\/brands\/([a-z0-9-]+)\/?$/i;
+function getPedalBrandSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(PEDAL_BRAND_RE);
+  return match ? match[1].toLowerCase() : null;
+}
+function isPedalBrandPage() {
+  return !!getPedalBrandSlugFromURL();
+}
+
 // Cymbal Brand Pages (Issue #4307, epic #4303 phase 4/4) - /cymbals/brands
 // + /cymbals/brands/<brand>. Only rendered for brands defined in
 // data/cymbalBrands.js — an unknown slug falls through to the normal 404.
@@ -30081,6 +30097,18 @@ setShowList(false);
                 window.history.pushState({}, '', `/pedals/${slug}`);
               }
             }}
+            onNavigateBrandsHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals/brands');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrand={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/pedals/brands/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
             onNavigateBestForMetal={() => {
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', '/pedals/best-for-metal');
@@ -30132,6 +30160,69 @@ setShowList(false);
             onNavigateToSetup={(slug) => {
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/pedals/setups/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Pedal Brands Hub (Issue #4432, split 1/3 of #4394) - /pedals/brands
+    if (isPedalBrandsHubPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyPedalBrandsHubPage
+            theme={theme}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrand={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/pedals/brands/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Pedal Brand Page (Issue #4432, split 1/3 of #4394) - /pedals/brands/<brand>
+    if (isPedalBrandPage()) {
+      const pedalBrandSlug = getPedalBrandSlugFromURL();
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyPedalBrandPage
+            theme={theme}
+            brandSlug={pedalBrandSlug}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrandsHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals/brands');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              const drummer = drummers.find(d => toSlug(d.name) === slug);
+              if (drummer) {
+                handleSelectDrummer(drummer);
+              }
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBestForMetal={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals/best-for-metal');
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}

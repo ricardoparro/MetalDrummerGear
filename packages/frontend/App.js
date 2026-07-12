@@ -404,6 +404,22 @@ function getSnareReferenceSlugFromURL() {
 const LazySnareBestForMetalPage = lazy(() => import('./components/SnareBestForMetalPage').then(m => ({ default: m.SnareBestForMetalPage })));
 function isSnareBestForMetalPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/snares/best-for-metal'; }
 
+// Snare Brand Pages (Issue #4483) - /snares/brands + /snares/brands/<brand>.
+// Only rendered for brands defined in data/snareBrands.js — an unknown slug
+// falls through to the normal 404. Mirrors the cymbals brand-hub pattern.
+const LazySnareBrandsHubPage = lazy(() => import('./components/SnareBrandsHubPage').then(m => ({ default: m.SnareBrandsHubPage })));
+const LazySnareBrandPage = lazy(() => import('./components/SnareBrandPage').then(m => ({ default: m.SnareBrandPage })));
+function isSnareBrandsHubPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/snares/brands'; }
+const SNARE_BRAND_RE = /^\/snares\/brands\/([a-z0-9-]+)\/?$/i;
+function getSnareBrandSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const match = window.location.pathname.match(SNARE_BRAND_RE);
+  return match ? match[1].toLowerCase() : null;
+}
+function isSnareBrandPage() {
+  return !!getSnareBrandSlugFromURL();
+}
+
 // Pedals Hub (Issue #4392, epic #4387 phase 2/4) - SEO pillar + reference pages at /pedals/*
 // /gear/pedals 301s to /pedals (Issue #4434, door consolidation split 3/3 of #4394).
 const PEDAL_REFERENCE_SLUGS = ['drive-types', 'single-vs-double', 'setup-tuning'];
@@ -30309,6 +30325,69 @@ setShowList(false);
             onNavigateToSignature={(slug) => {
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/snares/signature/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Snare Brands Hub (Issue #4483) - /snares/brands
+    if (isSnareBrandsHubPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazySnareBrandsHubPage
+            theme={theme}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/snares');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrand={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/snares/brands/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Snare Brand Page (Issue #4483) - /snares/brands/<brand>
+    if (isSnareBrandPage()) {
+      const snareBrandSlug = getSnareBrandSlugFromURL();
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazySnareBrandPage
+            theme={theme}
+            brandSlug={snareBrandSlug}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/snares');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBrandsHub={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/snares/brands');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToDrummer={(slug) => {
+              const drummer = drummers.find(d => toSlug(d.name) === slug);
+              if (drummer) {
+                handleSelectDrummer(drummer);
+              }
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/drummer/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateBestForMetal={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/snares/best-for-metal');
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}

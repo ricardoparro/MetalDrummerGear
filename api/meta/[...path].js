@@ -1112,19 +1112,47 @@ function getMetaForPath(pathname) {
     const technique = getTechniqueBySlug(slug);
     if (technique) {
       const techniqueDesc = technique.description || `${technique.title} is a metal drumming technique used by many legendary metal drummers.`;
+      // Issue #4461: surface technique.masters to bot crawlers — the bot-facing
+      // shell previously served zero drummer names for this route.
+      const masters = technique.masters || [];
+      const itemListSchema = {
+        '@type': 'ItemList',
+        name: `Drummers known for the ${technique.title} technique`,
+        numberOfItems: masters.length,
+        itemListElement: masters.map((m, i) => ({
+          '@type': 'ListItem',
+          position: i + 1,
+          item: {
+            '@type': 'Person',
+            name: m.name,
+            url: m.slug ? `${BASE_URL}/drummer/${m.slug}` : undefined,
+            ...(m.band ? { memberOf: { '@type': 'MusicGroup', name: m.band } } : {}),
+          },
+        })),
+      };
+      const drummerNameList = masters.map(m => m.band ? `${m.name} (${m.band})` : m.name).join(', ');
       return {
         title: `Best ${technique.title} Drummers — Who Plays It | ${SITE_NAME}`,
         description: truncate(`Discover which pro metal drummers use ${technique.title.toLowerCase()}. Gear setups, videos, and tutorials for ${technique.title.toLowerCase()} players.`, 160),
         image: `${BASE_URL}/images/og/techniques-preview.png`,
         type: 'website',
         url: `${BASE_URL}/technique/${slug}/drummers`,
+        ssrDrummerLinks: masters.slice(0, 10).map(m => ({
+          href: m.slug ? `/drummer/${m.slug}` : null,
+          label: m.band ? `${m.name} (${m.band})` : m.name,
+        })).filter(l => l.href),
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
-          '@type': 'CollectionPage',
-          name: `${technique.title} Drummers`,
-          description: `Pro metal drummers who use ${technique.title.toLowerCase()}`,
-          url: `${BASE_URL}/technique/${slug}/drummers`,
-          publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+          '@graph': [
+            {
+              '@type': 'CollectionPage',
+              name: `${technique.title} Drummers`,
+              description: `Pro metal drummers who use ${technique.title.toLowerCase()}`,
+              url: `${BASE_URL}/technique/${slug}/drummers`,
+              publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+            },
+            itemListSchema,
+          ],
         }),
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
@@ -1140,7 +1168,9 @@ function getMetaForPath(pathname) {
           },
           {
             question: `Which metal drummers are best known for ${technique.title}?`,
-            answer: `See the complete list of metal drummers known for ${technique.title} on MetalForge, including gear setups and performance videos.`,
+            answer: masters.length > 0
+              ? `${drummerNameList} are known for ${technique.title}.`
+              : `See the complete list of metal drummers known for ${technique.title} on MetalForge.`,
           },
           {
             question: `What gear do you need for ${technique.title}?`,

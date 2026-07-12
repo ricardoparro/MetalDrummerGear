@@ -66,6 +66,8 @@ import { DRUMSTICK_BRANDS } from '../packages/frontend/data/drumstickBrands.js';
 import { REFERENCE_PAGE_ORDER as CYMBAL_REFERENCE_PAGE_ORDER } from '../packages/frontend/data/cymbalReferencePages.js';
 // Issue #4310 (phase 2/4 of epic #4308): /snares hub + reference pages.
 import { REFERENCE_PAGE_ORDER as SNARE_REFERENCE_PAGE_ORDER } from '../packages/frontend/data/snareReferencePages.js';
+// Issue #4392 (phase 2/4 of epic #4387): /pedals hub + reference pages.
+import { REFERENCE_PAGE_ORDER as PEDAL_REFERENCE_PAGE_ORDER } from '../packages/frontend/data/pedalReferencePages.js';
 // Issue #4311 (phase 3/4 of epic #4308): /snares/signature/<drummer> pages —
 // source slugs from the verified isSignature: true snare records so the
 // sitemap only ever lists drummers with a confirmed signature snare (no thin pages).
@@ -650,6 +652,9 @@ export function buildSitemapXml() {
     ...SIGNATURE_SNARES.map(snare => ({ loc: `/snares/signature/${snare.drummerSlug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #4312: /snares/best-for-metal buying guide.
     { loc: '/snares/best-for-metal', priority: '0.9', changefreq: 'monthly' },
+    // Issue #4392: /pedals pillar page + drive-types/single-vs-double/setup-tuning reference pages.
+    { loc: '/pedals', priority: '0.9', changefreq: 'weekly' },
+    ...PEDAL_REFERENCE_PAGE_ORDER.map(slug => ({ loc: `/pedals/${slug}`, priority: '0.85', changefreq: 'monthly' })),
     // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).
     { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },

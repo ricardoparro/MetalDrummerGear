@@ -13,6 +13,30 @@
 - Actions: none — standing deferral holds until 2026-07-13 L1/L3 snapshot refresh
 - Next check: 2026-07-13 L1/L3 snapshot is the real test of the meta-shell-saga recovery; evening run
 
+## 2026-07-12 17:21 — Evening pulse: caught a 4th duplicate-PR dispatcher race, promoted 1 fresh proposal
+
+### Context (≤3 lines)
+Metrics 17:21 UTC (321 users/359 sessions/584 views 7d; GSC 5,154 impr/140 clicks/2.72% CTR/pos 8.5 — no content-gap rows). Backlog was 5 eligible `ai-fix`, 1 open PR (#4475).
+
+### Actions taken
+- **Closed PR #4475** (`fix: #4424`, Joey Jordison tribute article) — opened 16:38 UTC, 11 min after issue #4424 was already merged via PR #4472 (16:27:26Z). CONFLICTING, identical content, nothing to salvage. This is the **4th instance** of the dispatcher race already tracked in #4440 (concurrent Roadie runs picking up an issue before the first PR merges) — logged as a comment on #4440 rather than filing a new issue.
+- **Promoted #4471** (`/pedals/brands/<brand>` covers only 5 of 12 verified brands — sitemap/schema/llms-md all derive from one array) — well-verified with live curl evidence and exact grep counts, backlog only 5, promote-liberally zone.
+- Founder ideas: inbox empty. GSC content-gap: none. Atomic-split: oldest open `ai-fix` #4205 ~64h old, still under the 72h trigger (watch — will cross it by tomorrow's run if still unpicked).
+
+### State delta
+- ai-fix backlog: 5 → 6 eligible (#4471 promoted)
+- PR #4475 closed (duplicate, 4th instance of #4440's pattern)
+- Org/Sessions/Views (7d): 321/359/584 · GSC unchanged: 5,154 impr / 140 clicks / 2.72% CTR / pos 8.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted. ✅ GSC-gap: none. ✅ Atomic split: none triggered yet (#4205 close to threshold). ✅ Decisions logged.
+
+### Next Run
+1. Watch #4205 — will cross the 72h atomic-split threshold soon if still unpicked by Roadie.
+2. Watch #4440 — now has 4 independent instances of the duplicate-PR race; consider whether this needs stronger escalation if a 5th instance appears.
+3. Backlog at 6 — still well below the 45 floor; keep promoting liberally toward the ~80 target band.
+4. Next L1/L2/L3 snapshots due 2026-07-13 — first fresh check since the meta-shell saga closed.
+
 ---
 
 ## 2026-07-12 13:29 — Mid-day pulse: 8 fresh seo-proposals promoted, backlog 6→10

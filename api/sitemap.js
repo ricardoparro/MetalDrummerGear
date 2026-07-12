@@ -155,10 +155,10 @@ const bandPages = Object.keys(BAND_DATA);
 // Issue #339: Gear category pages for SEO
 const gearCategories = [
   { slug: 'drums', name: 'Metal Drum Kits' },
-  { slug: 'pedals', name: 'Metal Bass Drum Pedals' },
   // 'sticks' removed: /gear/sticks 301s to /drumsticks (already in this sitemap)
   // 'cymbals' removed: /gear/cymbals 301s to /cymbals (already in this sitemap)
   // 'snares' removed: /gear/snares 301s to /snares (already in this sitemap)
+  // 'pedals' removed: /gear/pedals 301s to /pedals (already in this sitemap) — Issue #4434
   { slug: 'hardware', name: 'Metal Drum Hardware' },
 ];
 

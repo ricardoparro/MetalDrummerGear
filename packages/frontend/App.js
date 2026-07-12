@@ -402,10 +402,7 @@ const LazySnareBestForMetalPage = lazy(() => import('./components/SnareBestForMe
 function isSnareBestForMetalPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/snares/best-for-metal'; }
 
 // Pedals Hub (Issue #4392, epic #4387 phase 2/4) - SEO pillar + reference pages at /pedals/*
-// Unlike /snares (post door-consolidation), the pre-existing /gear/pedals category
-// page is NOT aliased here — it stays a separate route until a later phase of
-// epic #4387 consolidates it. This phase only adds an interim banner (see
-// GearCategoryPage below) linking /gear/pedals -> /pedals.
+// /gear/pedals 301s to /pedals (Issue #4434, door consolidation split 3/3 of #4394).
 const PEDAL_REFERENCE_SLUGS = ['drive-types', 'single-vs-double', 'setup-tuning'];
 const LazyPedalsHubPage = lazy(() => import('./components/PedalsHubPage').then(m => ({ default: m.PedalsHubPage })));
 const LazyPedalReferencePage = lazy(() => import('./components/PedalReferencePage').then(m => ({ default: m.PedalReferencePage })));
@@ -2216,11 +2213,11 @@ function BrowseByGearCategory({ theme }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
 
-  // Sticks, cymbals, and snares are specialized theme areas: their entrances
-  // are the /drumsticks, /cymbals, and /snares hubs, not the generic
-  // /gear/<slug> page.
+  // Sticks, cymbals, snares, and pedals are specialized theme areas: their
+  // entrances are the /drumsticks, /cymbals, /snares, and /pedals hubs, not
+  // the generic /gear/<slug> page (Issue #4434 door consolidation).
   const gearCategoryHref = (slug) => (
-    slug === 'sticks' ? '/drumsticks' : slug === 'cymbals' ? '/cymbals' : slug === 'snares' ? '/snares' : `/gear/${slug}`
+    slug === 'sticks' ? '/drumsticks' : slug === 'cymbals' ? '/cymbals' : slug === 'snares' ? '/snares' : slug === 'pedals' ? '/pedals' : `/gear/${slug}`
   );
 
   const navigateToCategory = (slug) => {
@@ -13982,30 +13979,6 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
           </Text>
         )}
 
-        {/* Cross-link: the homepage-linked /gear/pedals category page → the new
-            /pedals hub (epic #4387). /gear/pedals stays the homepage tile's
-            target until a later phase's door consolidation flips it to /pedals —
-            this banner is the interim path that guarantees the hub is reachable
-            from the homepage in the meantime. Same pattern as the sticks (#4279),
-            cymbals (#4305), and snares (#4310) banners. */}
-        {category === 'pedals' && (
-          <TouchableOpacity
-            onPress={() => {
-              if (Platform.OS === 'web' && typeof window !== 'undefined') {
-                window.history.pushState({}, '', '/pedals');
-                window.dispatchEvent(new PopStateEvent('popstate'));
-              }
-            }}
-            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border, marginBottom: 16 }]}
-            accessibilityRole="link"
-            accessibilityLabel="Open the bass pedal guide — drive types, setups, and every verified drummer pedal"
-          >
-            <Text style={[styles.backButtonText, { color: theme.primary }]}>
-              ⚙️ Bass Pedal Guide: drive types, setups & every verified drummer pedal →
-            </Text>
-          </TouchableOpacity>
-        )}
-
         {/* Brand filters */}
         {brands.length > 0 && (
           <View style={styles.mb6}>
@@ -19860,7 +19833,8 @@ function getGearSlugFromURL() {
 // 'sticks' intentionally absent: /gear/sticks 301s to the specialized /drumsticks hub
 // 'cymbals' intentionally absent: /gear/cymbals 301s to the specialized /cymbals hub (Issue #4307)
 // 'snares' intentionally absent: /gear/snares 301s to the specialized /snares hub (Issue #4312)
-const GEAR_CATEGORIES = ['drums', 'pedals', 'hardware'];
+// 'pedals' intentionally absent: /gear/pedals 301s to the specialized /pedals hub (Issue #4434)
+const GEAR_CATEGORIES = ['drums', 'hardware'];
 
 // Check if we're on the gear index page (/gear)
 function isGearIndexPage() {

@@ -162,7 +162,9 @@ import {
 import { EVOLUTION_TIMELINE } from '../../packages/frontend/data/evolutionTimeline.js';
 // Issue #4390 (epic #4386 phase 3): /brands hub Article + ItemList SSR JSON-LD
 // for the "1623 -> today" brand-history timeline upgrade.
-import { getBrandsTimeline } from '../../packages/frontend/data/brands.js';
+// Issue #4477: getDrummersByBrand powers /brands/<slug> ssrLinks — the same
+// function the live BrandLandingPage component uses to compute brandDrummers.
+import { getBrandsTimeline, getDrummersByBrand } from '../../packages/frontend/data/brands.js';
 // Issue #4430: SSR meta + JSON-LD for the /pedals* route family (epic #4387,
 // phases #4391-#4393) — 60 sitemap-listed pages (hub, 3 reference pages, 56
 // per-drummer setups) had zero bot-facing SSR meta despite being fully built
@@ -377,6 +379,27 @@ function _normalizeDrummerSlug(name) {
 function getDrummerBySlug(slug) {
   const normalizedSlug = slug.toLowerCase().replace(/[^a-z0-9-]/g, '');
   return drummers.find(d => _normalizeDrummerSlug(d.name) === normalizedSlug);
+}
+
+// Issue #4477: builds crawlable ssrLinks entries for a brand-detail page's
+// confirmed drummers from a gear-record array (DRUMSTICKS/CYMBAL_SETUPS/PEDALS
+// entries, each carrying a `drummerSlug`), deduped (a brand can have more than
+// one gear record for the same drummer) and linked to that drummer's
+// gear-specific page — matching the target already used by this same brand's
+// generateBrandSchema() ItemList JSON-LD, never a fabricated URL.
+function _brandConfirmedDrummerLinks(entries, pathPrefix, max = 4) {
+  const seen = new Set();
+  const links = [];
+  for (const entry of entries) {
+    const slug = entry.drummerSlug;
+    if (!slug || seen.has(slug)) continue;
+    const drummer = getDrummerBySlug(slug);
+    if (!drummer) continue;
+    seen.add(slug);
+    links.push({ href: `${pathPrefix}/${slug}`, label: `${drummer.name} — ${drummer.band}` });
+    if (links.length >= max) break;
+  }
+  return links;
 }
 
 // Helper: Get primary brands from gear
@@ -2066,17 +2089,39 @@ function getMetaForPath(pathname) {
     wincent: { name: 'Wincent', type: 'drumsticks' },
     axis: { name: 'Axis', type: 'pedals' },
   };
+  // Issue #4477: parent-category buying guide to link from a /brands/<slug>
+  // page — only set for the gear types that actually have a best-for-metal
+  // guide (drums/drumheads have no such page, so those brand.type values are
+  // intentionally absent rather than pointed at a non-existent URL).
+  const BRAND_TYPE_BEST_FOR_METAL = {
+    drumsticks: { href: '/drumsticks/best-for-metal', label: 'Best Drumsticks for Metal' },
+    cymbals: { href: '/cymbals/best-for-metal', label: 'Best Cymbals for Metal' },
+    pedals: { href: '/pedals/best-for-metal', label: 'Best Bass Drum Pedals for Metal' },
+  };
   const brandPageMatch = path.match(/^\/brands\/([a-z0-9-]+)$/);
   if (brandPageMatch) {
     const brandSlug = brandPageMatch[1];
     const brand = BRAND_META[brandSlug];
     if (brand) {
+      // Issue #4477: same getDrummersByBrand() call the live BrandLandingPage
+      // component uses to render its own "Metal Drummers Using <brand>"
+      // section — no new data, no fabricated matches.
+      const brandDrummers = getDrummersByBrand(brandSlug, drummers).slice(0, 4);
+      const bestForMetal = BRAND_TYPE_BEST_FOR_METAL[brand.type];
       return {
         title: `${brand.name} Drums — Metal Drummers Who Use ${brand.name} | ${SITE_NAME}`,
         description: `Which metal drummers use ${brand.name} ${brand.type}? See every pro in MetalForge's database who endorses or plays ${brand.name} gear — kit specs and prices.`,
         image: DEFAULT_IMAGE,
         type: 'website',
         url: `${BASE_URL}/brands/${brandSlug}`,
+        ssrLinks: [
+          { href: '/brands', label: 'Gear Brands' },
+          ...brandDrummers.map(d => ({
+            href: `/drummer/${_normalizeDrummerSlug(d.name)}`,
+            label: `${d.name} — ${d.band}`,
+          })),
+          ...(bestForMetal ? [bestForMetal] : []),
+        ],
         articleSchema: JSON.stringify({
           '@context': 'https://schema.org',
           '@graph': [
@@ -3808,6 +3853,13 @@ function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: generateBrandCanonicalUrl(brand.slug),
+        // Issue #4477: same drummer set + /drumsticks/signature/<slug> target
+        // as this page's own generateBrandSchema() ItemList JSON-LD above.
+        ssrLinks: [
+          { href: '/drumsticks/brands', label: 'Drumstick Brands' },
+          ..._brandConfirmedDrummerLinks(confirmedSticks, '/drumsticks/signature'),
+          { href: '/drumsticks/best-for-metal', label: 'Best Drumsticks for Metal' },
+        ],
         articleSchema: JSON.stringify(generateBrandSchema(brand, confirmedSticks)),
       };
     }
@@ -3961,6 +4013,13 @@ function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: generateCymbalBrandCanonicalUrl(brand.slug),
+        // Issue #4477: same drummer set + /cymbals/setups/<slug> target as
+        // this page's own generateCymbalBrandSchema() ItemList JSON-LD above.
+        ssrLinks: [
+          { href: '/cymbals/brands', label: 'Cymbal Brands' },
+          ..._brandConfirmedDrummerLinks(confirmedSetups, '/cymbals/setups'),
+          { href: '/cymbals/best-for-metal', label: 'Best Cymbals for Metal' },
+        ],
         articleSchema: JSON.stringify(generateCymbalBrandSchema(brand, confirmedSetups)),
       };
     }
@@ -4220,6 +4279,13 @@ function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: generatePedalBrandCanonicalUrl(brand.slug),
+        // Issue #4477: same drummer set + /pedals/setups/<slug> target as
+        // this page's own generatePedalBrandSchema() ItemList JSON-LD above.
+        ssrLinks: [
+          { href: '/pedals/brands', label: 'Pedal Brands' },
+          ..._brandConfirmedDrummerLinks(confirmedPedals, '/pedals/setups'),
+          { href: '/pedals/best-for-metal', label: 'Best Bass Drum Pedals for Metal' },
+        ],
         articleSchema: JSON.stringify(generatePedalBrandSchema(brand, confirmedPedals)),
       };
     }

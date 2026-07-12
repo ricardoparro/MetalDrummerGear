@@ -589,6 +589,7 @@
     { "source": "/endorsement-news", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=endorsement-news" },
     { "source": "/birthdays", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=birthdays" },
     { "source": "/news", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=news" },
+    { "source": "/cymbals/setups/:slug", "has": [{ "type": "header", "key": "user-agent", "value": ".*(Googlebot|Bingbot|GPTBot|ChatGPT-User|ClaudeBot|Claude-Web|anthropic-ai|PerplexityBot|Applebot-Extended|cohere-ai|Google-Extended).*" }], "destination": "/api/meta/[...path]?path=cymbals/setups/:slug" },
     { "source": "/((?!api/).*)", "destination": "/index.html" }
   ]
 }

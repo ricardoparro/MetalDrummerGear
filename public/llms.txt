@@ -1,7 +1,7 @@
 # MetalForge — llms.txt
 # https://llmstxt.org/
-# Last updated: 2026-07-11
-# Content: 67 drummers, 157 lick pages (100% coverage), 66 articles, 10 techniques, 19 bands, 226 comparisons
+# Last updated: 2026-07-12
+# Content: 67 drummers, 157 lick pages (100% coverage), 66 articles, 10 techniques, 19 bands, 226 comparisons, 56 pedal setups
 
 > MetalForge is the definitive database of professional metal drummers and their gear. 67 drummers, complete gear specs, 157 signature drum lick breakdowns, performance videos, and career histories.
 
@@ -68,6 +68,13 @@
 - [Snares Index](/llms/snares.md): All 56 verified drummer snares, linked to their profiles
 - [Signature Snare Pages](https://metalforge.io/snares/signature/): Per-drummer "what snare does X use" pages for every drummer with a verified signature snare
 - [Best Snares for Metal](https://metalforge.io/snares/best-for-metal): Why metal favours high-tension metal shells (with wood-shell exceptions), with recommendations anchored on the verified signature snares
+
+## Pedals
+
+- [Pedals Guide](https://metalforge.io/pedals): Chain vs belt vs direct drive, single vs double pedals, and setup/tuning explained, plus which mapped drummers play what
+- [Pedals Hub](/llms/pedals.md): All 56 verified drummer pedal setups plus links to all 3 reference guides, linked to their profiles
+- [Pedal Reference Guides](/llms/pedals/): Drive types, single-vs-double, and setup & tuning — one markdown file per guide
+- [Per-Drummer Pedal Setups](/llms/pedals/setups/): 56 per-drummer "what pedals does X use" markdown pages, one per drummer with a verified pedal
 
 ## Brands
 

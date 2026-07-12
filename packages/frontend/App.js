@@ -394,6 +394,26 @@ function getSnareReferenceSlugFromURL() {
 const LazySnareBestForMetalPage = lazy(() => import('./components/SnareBestForMetalPage').then(m => ({ default: m.SnareBestForMetalPage })));
 function isSnareBestForMetalPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/snares/best-for-metal'; }
 
+// Pedals Hub (Issue #4392, epic #4387 phase 2/4) - SEO pillar + reference pages at /pedals/*
+// Unlike /snares (post door-consolidation), the pre-existing /gear/pedals category
+// page is NOT aliased here — it stays a separate route until a later phase of
+// epic #4387 consolidates it. This phase only adds an interim banner (see
+// GearCategoryPage below) linking /gear/pedals -> /pedals.
+const PEDAL_REFERENCE_SLUGS = ['drive-types', 'single-vs-double', 'setup-tuning'];
+const LazyPedalsHubPage = lazy(() => import('./components/PedalsHubPage').then(m => ({ default: m.PedalsHubPage })));
+const LazyPedalReferencePage = lazy(() => import('./components/PedalReferencePage').then(m => ({ default: m.PedalReferencePage })));
+function isPedalsHubPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/pedals'; }
+function isPedalReferencePage() {
+  if (typeof window === 'undefined') return false;
+  const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/pedals\/([^/]+)$/)?.[1];
+  return PEDAL_REFERENCE_SLUGS.includes(slug);
+}
+function getPedalReferenceSlugFromURL() {
+  if (typeof window === 'undefined') return null;
+  const slug = window.location.pathname.replace(/\/+$/, '').match(/^\/pedals\/([^/]+)$/)?.[1];
+  return PEDAL_REFERENCE_SLUGS.includes(slug) ? slug : null;
+}
+
 // Cymbal Brand Pages (Issue #4307, epic #4303 phase 4/4) - /cymbals/brands
 // + /cymbals/brands/<brand>. Only rendered for brands defined in
 // data/cymbalBrands.js — an unknown slug falls through to the normal 404.
@@ -13900,6 +13920,30 @@ function GearCategoryPage({ category, categoryData, loading, theme, onBack, onSe
           </Text>
         )}
 
+        {/* Cross-link: the homepage-linked /gear/pedals category page → the new
+            /pedals hub (epic #4387). /gear/pedals stays the homepage tile's
+            target until a later phase's door consolidation flips it to /pedals —
+            this banner is the interim path that guarantees the hub is reachable
+            from the homepage in the meantime. Same pattern as the sticks (#4279),
+            cymbals (#4305), and snares (#4310) banners. */}
+        {category === 'pedals' && (
+          <TouchableOpacity
+            onPress={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            style={[styles.backButton, { backgroundColor: theme.card, borderColor: theme.border, marginBottom: 16 }]}
+            accessibilityRole="link"
+            accessibilityLabel="Open the bass pedal guide — drive types, setups, and every verified drummer pedal"
+          >
+            <Text style={[styles.backButtonText, { color: theme.primary }]}>
+              ⚙️ Bass Pedal Guide: drive types, setups & every verified drummer pedal →
+            </Text>
+          </TouchableOpacity>
+        )}
+
         {/* Brand filters */}
         {brands.length > 0 && (
           <View style={styles.mb6}>
@@ -24041,6 +24085,11 @@ function AppContent() {
   const [showSnarePage, setShowSnarePage] = useState(() => isSnareReferencePage());
   const [snarePageSlug, setSnarePageSlug] = useState(() => getSnareReferenceSlugFromURL());
 
+  // Pedals Hub state (Issue #4392, epic #4387 phase 2) - /pedals + /pedals/:page
+  const [showPedalsHub, setShowPedalsHub] = useState(() => isPedalsHubPage());
+  const [showPedalPage, setShowPedalPage] = useState(() => isPedalReferencePage());
+  const [pedalPageSlug, setPedalPageSlug] = useState(() => getPedalReferenceSlugFromURL());
+
   // Beginner Gear Guide Page state (Issue #702 / generalized to multi-slug #832)
   const [showBeginnerGuide, setShowBeginnerGuide] = useState(() => isBeginnerGuidePage());
   const [beginnerGuideSlug, setBeginnerGuideSlug] = useState(() => getBeginnerGuideSlugFromURL());
@@ -25481,6 +25530,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25528,6 +25580,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25586,6 +25641,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25639,6 +25697,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25691,6 +25752,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25746,6 +25810,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25807,6 +25874,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -25865,6 +25935,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -26014,6 +26087,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -26080,6 +26156,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -26149,6 +26228,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -26214,6 +26296,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -26282,6 +26367,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -26340,6 +26428,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setShowArticle(false);
@@ -26427,6 +26518,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowArticle(false);
         setArticleSlug(null);
         setShowList(false);
@@ -26468,6 +26562,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuidesHub(false);
         setShowGuide(false);
         setGuideSlug(null);
@@ -26492,6 +26589,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuidesHub(false);
         setShowGuide(false);
         setGuideSlug(null);
@@ -26513,6 +26613,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
@@ -26537,6 +26640,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowDrumsticksHub(false);
         setShowDrumstickPage(false);
         setDrumstickPageSlug(null);
@@ -26558,6 +26664,9 @@ function AppContent() {
         setShowSnaresHub(true);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
@@ -26582,6 +26691,63 @@ function AppContent() {
         setShowSnarePage(true);
         setSnarePageSlug(getSnareReferenceSlugFromURL());
         setShowSnaresHub(false);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isPedalsHubPage()) {
+        // Pedals pillar page (Issue #4392) - /pedals
+        setShowPedalsHub(true);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
+        setShowCymbalsHub(false);
+        setShowCymbalPage(false);
+        setCymbalPageSlug(null);
+        setShowDrumsticksHub(false);
+        setShowDrumstickPage(false);
+        setDrumstickPageSlug(null);
+        setShowGuidesHub(false);
+        setShowGuide(false);
+        setGuideSlug(null);
+        setShowArticle(false);
+        setArticleSlug(null);
+        setShowList(false);
+        setListSlug(null);
+        setShowNewsPage(false);
+        setShowGearNewsPage(false);
+        setShowGearStats(false);
+        setSelectedDrummer(null);
+        setSelectedDrummerId(null);
+        setSelectedGear(null);
+      } else if (isPedalReferencePage()) {
+        // Pedals reference pages (Issue #4392) - /pedals/drive-types|single-vs-double|setup-tuning
+        setShowPedalPage(true);
+        setPedalPageSlug(getPedalReferenceSlugFromURL());
+        setShowPedalsHub(false);
+        setShowSnaresHub(false);
+        setShowSnarePage(false);
+        setSnarePageSlug(null);
         setShowCymbalsHub(false);
         setShowCymbalPage(false);
         setCymbalPageSlug(null);
@@ -26655,6 +26821,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGuide(false);
         setGuideSlug(null);
         setSelectedDrummer(null);
@@ -26739,6 +26908,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setSelectedDrummer(null);
         setSelectedDrummerId(null);
         setSelectedGear(null);
@@ -26753,6 +26925,9 @@ function AppContent() {
         setShowSnaresHub(false);
         setShowSnarePage(false);
         setSnarePageSlug(null);
+        setShowPedalsHub(false);
+        setShowPedalPage(false);
+        setPedalPageSlug(null);
         setShowGearCards(false);
         setShowCompare(false);
         setShowQuiz(false);
@@ -29609,6 +29784,50 @@ setShowList(false);
               setSnarePageSlug(slug);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/snares/${slug}`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Pedals pillar page (Issue #4392, epic #4387 phase 2) - /pedals
+    if (showPedalsHub) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyPedalsHubPage
+            theme={theme}
+            drummers={drummers}
+            onNavigateReference={(slug) => {
+              setShowPedalsHub(false);
+              setShowPedalPage(true);
+              setPedalPageSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/pedals/${slug}`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Pedals reference pages (Issue #4392) - /pedals/drive-types|single-vs-double|setup-tuning
+    if (showPedalPage && pedalPageSlug) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyPedalReferencePage
+            theme={theme}
+            slug={pedalPageSlug}
+            onBack={() => {
+              setShowPedalPage(false);
+              setPedalPageSlug(null);
+              setShowPedalsHub(true);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals');
+              }
+            }}
+            onNavigateReference={(slug) => {
+              setPedalPageSlug(slug);
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/pedals/${slug}`);
               }
             }}
           />

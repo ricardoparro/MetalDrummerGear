@@ -56,6 +56,7 @@ export const FACE_FOCUS = {
   'abe-cunningham': '25%',
   'dave-lombardo': '28%',
   'lars-ulrich': '30%',
+  'aquiles-priester': '30%',
   'art-cruz': '30%',
   'kevin-talley': '30%',
   'martin-axenrot': '30%',

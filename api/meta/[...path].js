@@ -2750,6 +2750,11 @@ function getMetaForPath(pathname) {
     const [, listSlug] = listMatch;
     const list = TOP_10_LISTS[listSlug];
     if (list) {
+      // Issue #4469: list entries have no flat `items` array (same defect as #3973's
+      // /articles/:slug top10Article branch) — resolve drummerIds against the roster instead.
+      const rankedDrummers = (list.drummerIds || [])
+        .map(id => drummers.find(d => d.id === id))
+        .filter(Boolean);
       const listDatePublished = list.datePublished || TOP10_LISTS_LAUNCH_DATE;
       const listDateModified = list.dateModified || list.datePublished || TOP10_LISTS_LAST_REVIEWED;
       return {
@@ -2785,13 +2790,13 @@ function getMetaForPath(pathname) {
               name: list.title,
               description: list.seoDescription || list.description,
               url: `${BASE_URL}/lists/${listSlug}`,
-              numberOfItems: list.items?.length || 10,
+              numberOfItems: rankedDrummers.length,
               publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
-              itemListElement: (list.items || []).slice(0, 10).map((item, i) => ({
+              itemListElement: rankedDrummers.slice(0, 10).map((d, i) => ({
                 '@type': 'ListItem',
                 position: i + 1,
-                name: item.name || item,
-                url: item.url || `${BASE_URL}/drummer/${item.slug || ''}`,
+                name: d.name,
+                url: `${BASE_URL}/drummer/${d.name.toLowerCase().replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '')}`,
               })),
             },
             {
@@ -2802,7 +2807,7 @@ function getMetaForPath(pathname) {
                   name: `Who tops the ${list.title}?`,
                   acceptedAnswer: {
                     '@type': 'Answer',
-                    text: `The #1 ranked entry in ${list.title} on MetalForge is ${list.items?.[0]?.name || 'featured on the MetalForge ranked list'}. See the full ranked list at metalforge.io/lists/${listSlug}.`,
+                    text: `The #1 ranked entry in ${list.title} on MetalForge is ${rankedDrummers[0]?.name || 'featured on the MetalForge ranked list'}. See the full ranked list at metalforge.io/lists/${listSlug}.`,
                   },
                 },
                 {
@@ -2818,7 +2823,7 @@ function getMetaForPath(pathname) {
                   name: `How many drummers are on the ${list.title}?`,
                   acceptedAnswer: {
                     '@type': 'Answer',
-                    text: `The ${list.title} features ${list.items?.length || 10} professional metal drummers ranked by MetalForge.`,
+                    text: `The ${list.title} features ${rankedDrummers.length} professional metal drummers ranked by MetalForge.`,
                   },
                 },
               ],

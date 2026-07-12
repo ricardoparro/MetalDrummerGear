@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/gavin-harrison"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Gavin Harrison — Drum Kit & Gear Setup
@@ -115,10 +115,16 @@ Gavin Harrison's cymbals: Zildjian K Custom Special Dry Series (14" Hi-Hats, 16"
 
 Full breakdown: [Gavin Harrison's cymbal setup](https://metalforge.io/cymbals/setups/gavin-harrison).
 
+## Pedal
+
+Gavin Harrison plays a Sonor Perfect Balance pedal.
+
+Full breakdown: [Gavin Harrison's pedal setup](https://metalforge.io/pedals/setups/gavin-harrison).
+
 ---
 
 **Full interactive profile:** [Gavin Harrison on MetalForge](https://metalforge.io/drummer/gavin-harrison)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

@@ -112,6 +112,24 @@ try {
   console.warn('Could not load cymbal setups, continuing without them:', e.message);
 }
 
+// --- Load verified pedals (index by drummerSlug) -----------------------------------
+// Issue #4393 (phase 3/4 of epic #4387): cross-links the /pedals/setups/<drummer>
+// pages into each drummer's markdown, same regex+eval extraction pattern used above.
+const pedalsPath = path.join(__dirname, '../packages/frontend/data/pedals.js');
+let pedalsByDrummerSlug = {};
+try {
+  const pedalsContent = fs.readFileSync(pedalsPath, 'utf-8');
+  const pedalsMatch = pedalsContent.match(/export const PEDALS = (\[[\s\S]*?\n\]);/);
+  if (pedalsMatch) {
+    const pedals = eval(pedalsMatch[1]);
+    for (const pedal of pedals) {
+      pedalsByDrummerSlug[pedal.drummerSlug] = pedal;
+    }
+  }
+} catch (e) {
+  console.warn('Could not load pedals, continuing without them:', e.message);
+}
+
 const today = new Date().toISOString().split('T')[0];
 const BASE = 'https://metalforge.io';
 
@@ -134,6 +152,7 @@ const KNOWN_HEADERS = new Set([
   'Signature Licks on MetalForge',
   'Snare',
   'Cymbal Setup',
+  'Pedal',
 ]);
 const FOOTER_MARKER = /\n---\n\n\*\*Full interactive profile:\*\*[\s\S]*$/;
 
@@ -436,6 +455,31 @@ function buildMarkdown(drummer) {
     }
     cymbal += `Full breakdown: [${drummer.name}'s cymbal setup](${BASE}/cymbals/setups/${slug}).\n`;
     sections.push({ header: 'Cymbal Setup', body: cymbal });
+  }
+
+  // --- Pedal cross-reference (Issue #4393, phase 3/4 of epic #4387) ------------
+  // Omit the section entirely when there's no verified pedal record — never
+  // fabricate a setup-page link for an unverified drummer. Descriptor/phrase
+  // logic mirrors data/pedalSetupPages.js's generatePedalSetupDirectAnswer().
+  const pedalRecord = pedalsByDrummerSlug[slug];
+  if (pedalRecord) {
+    const descriptor = pedalRecord.brand && pedalRecord.model
+      ? `${pedalRecord.brand} ${pedalRecord.model}`
+      : pedalRecord.brand;
+    let pedal;
+    if (descriptor) {
+      const configPhrase = pedalRecord.configuration === 'double' ? 'double pedal'
+        : pedalRecord.configuration === 'single'
+          ? (/\(x2\)/i.test(pedalRecord.summary) ? 'single pedals (x2)' : 'single pedal')
+          : 'pedal';
+      const driveSuffix = pedalRecord.driveType ? ` (${pedalRecord.driveType}-drive)` : '';
+      const article = configPhrase.endsWith('(x2)') ? '' : (/^[aeiou]/i.test(descriptor) ? 'an ' : 'a ');
+      pedal = `${drummer.name} plays ${article}${descriptor} ${configPhrase}${driveSuffix}.\n`;
+    } else {
+      pedal = `${drummer.name} plays a ${pedalRecord.summary}.\n`;
+    }
+    pedal += `\nFull breakdown: [${drummer.name}'s pedal setup](${BASE}/pedals/setups/${slug}).\n`;
+    sections.push({ header: 'Pedal', body: pedal });
   }
 
   // --- Preserve hand-added sections (Kit Overview, per-album Q&A, ...) not

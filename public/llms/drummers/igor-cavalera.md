@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/igor-cavalera"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Igor Cavalera — Drum Kit & Gear Setup
@@ -103,10 +103,16 @@ Igor Cavalera's cymbals: Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" 
 
 Full breakdown: [Igor Cavalera's cymbal setup](https://metalforge.io/cymbals/setups/igor-cavalera).
 
+## Pedal
+
+Igor Cavalera plays a Tama Iron Cobra double pedal.
+
+Full breakdown: [Igor Cavalera's pedal setup](https://metalforge.io/pedals/setups/igor-cavalera).
+
 ---
 
 **Full interactive profile:** [Igor Cavalera on MetalForge](https://metalforge.io/drummer/igor-cavalera)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

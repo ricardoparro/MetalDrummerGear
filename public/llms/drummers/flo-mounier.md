@@ -6,7 +6,7 @@ country: "Canada"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/flo-mounier"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Flo Mounier — Drum Kit & Gear Setup
@@ -111,10 +111,16 @@ Flo Mounier's cymbals: Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18"
 
 Full breakdown: [Flo Mounier's cymbal setup](https://metalforge.io/cymbals/setups/flo-mounier).
 
+## Pedal
+
+Flo Mounier plays a Pearl Demon Drive double pedal (direct-drive).
+
+Full breakdown: [Flo Mounier's pedal setup](https://metalforge.io/pedals/setups/flo-mounier).
+
 ---
 
 **Full interactive profile:** [Flo Mounier on MetalForge](https://metalforge.io/drummer/flo-mounier)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

@@ -81,6 +81,10 @@ import { DRUMMER_CYMBALS } from '../packages/frontend/data/cymbalSetups.js';
 // Issue #4274: Endorsement Tracker pages — source slugs directly from
 // ENDORSEMENT_TIMELINE so the sitemap can never drift out of sync again.
 import { ENDORSEMENT_TIMELINE } from '../packages/frontend/data/endorsementNews.js';
+// Issue #4393 (phase 3/4 of epic #4387): /pedals/setups/<drummer> pages —
+// source slugs from the verified drummer→pedal mapping so the sitemap only
+// ever lists drummers with a confirmed pedal (no thin pages).
+import { DRUMMER_PEDALS } from '../packages/frontend/data/pedals.js';
 
 // Issue #4201: Content Scale Sprint - All 65 drummers now in sitemap
 const drummers = [
@@ -644,6 +648,9 @@ export function buildSitemapXml() {
     // Issue #4306: /cymbals/setups/<drummer> pages (only drummers with a
     // confirmed cymbal setup in DRUMMER_CYMBALS).
     ...Object.keys(DRUMMER_CYMBALS).map(slug => ({ loc: `/cymbals/setups/${slug}`, priority: '0.8', changefreq: 'monthly' })),
+    // Issue #4393: /pedals/setups/<drummer> pages (only drummers with a
+    // confirmed pedal in DRUMMER_PEDALS).
+    ...Object.keys(DRUMMER_PEDALS).map(slug => ({ loc: `/pedals/setups/${slug}`, priority: '0.8', changefreq: 'monthly' })),
     // Issue #4310: /snares pillar page + shells/sizes/tuning-for-metal reference pages.
     { loc: '/snares', priority: '0.9', changefreq: 'weekly' },
     ...SNARE_REFERENCE_PAGE_ORDER.map(slug => ({ loc: `/snares/${slug}`, priority: '0.85', changefreq: 'monthly' })),

@@ -6,7 +6,7 @@ country: "Germany"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/hannes-grossmann"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Hannes Grossmann — Drum Kit & Gear Setup
@@ -103,10 +103,16 @@ Hannes Grossmann's cymbals: Meinl Byzance Series (14" Byzance Traditional Hi-Hat
 
 Full breakdown: [Hannes Grossmann's cymbal setup](https://metalforge.io/cymbals/setups/hannes-grossmann).
 
+## Pedal
+
+Hannes Grossmann plays a DW 9000 Series double pedal (chain-drive).
+
+Full breakdown: [Hannes Grossmann's pedal setup](https://metalforge.io/pedals/setups/hannes-grossmann).
+
 ---
 
 **Full interactive profile:** [Hannes Grossmann on MetalForge](https://metalforge.io/drummer/hannes-grossmann)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

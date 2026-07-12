@@ -6,7 +6,7 @@ country: "Finland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jaska-raatikainen"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Jaska Raatikainen — Drum Kit & Gear Setup
@@ -100,10 +100,16 @@ Jaska Raatikainen's cymbals: Zildjian A Custom & K Custom Series (14" A Custom H
 
 Full breakdown: [Jaska Raatikainen's cymbal setup](https://metalforge.io/cymbals/setups/jaska-raatikainen).
 
+## Pedal
+
+Jaska Raatikainen plays a Pearl Eliminator double pedal.
+
+Full breakdown: [Jaska Raatikainen's pedal setup](https://metalforge.io/pedals/setups/jaska-raatikainen).
+
 ---
 
 **Full interactive profile:** [Jaska Raatikainen on MetalForge](https://metalforge.io/drummer/jaska-raatikainen)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

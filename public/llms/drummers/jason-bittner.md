@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/jason-bittner"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Jason Bittner — Drum Kit & Gear Setup
@@ -114,10 +114,16 @@ Jason Bittner's cymbals: Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" 
 
 Full breakdown: [Jason Bittner's cymbal setup](https://metalforge.io/cymbals/setups/jason-bittner).
 
+## Pedal
+
+Jason Bittner plays a Mapex Falcon double pedal.
+
+Full breakdown: [Jason Bittner's pedal setup](https://metalforge.io/pedals/setups/jason-bittner).
+
 ---
 
 **Full interactive profile:** [Jason Bittner on MetalForge](https://metalforge.io/drummer/jason-bittner)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/jay-weinberg"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Jay Weinberg — Drum Kit & Gear Setup
@@ -105,10 +105,16 @@ Jay Weinberg's cymbals: Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Cra
 
 Full breakdown: [Jay Weinberg's cymbal setup](https://metalforge.io/cymbals/setups/jay-weinberg).
 
+## Pedal
+
+Jay Weinberg plays a DW 9000 Series double pedal (chain-drive).
+
+Full breakdown: [Jay Weinberg's pedal setup](https://metalforge.io/pedals/setups/jay-weinberg).
+
 ---
 
 **Full interactive profile:** [Jay Weinberg on MetalForge](https://metalforge.io/drummer/jay-weinberg)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

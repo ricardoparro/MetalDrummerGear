@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/raymond-herrera"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Raymond Herrera — Drum Kit & Gear Setup
@@ -98,10 +98,16 @@ Raymond Herrera's cymbals: Zildjian A Custom & Z Custom Series (14" A Custom Hi-
 
 Full breakdown: [Raymond Herrera's cymbal setup](https://metalforge.io/cymbals/setups/raymond-herrera).
 
+## Pedal
+
+Raymond Herrera plays a DW 5000 Series double pedal (chain-drive).
+
+Full breakdown: [Raymond Herrera's pedal setup](https://metalforge.io/pedals/setups/raymond-herrera).
+
 ---
 
 **Full interactive profile:** [Raymond Herrera on MetalForge](https://metalforge.io/drummer/raymond-herrera)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

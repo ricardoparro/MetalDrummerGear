@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/mike-mangini"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Mike Mangini — Drum Kit & Gear Setup
@@ -104,10 +104,16 @@ Mike Mangini's cymbals: Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17",
 
 Full breakdown: [Mike Mangini's cymbal setup](https://metalforge.io/cymbals/setups/mike-mangini).
 
+## Pedal
+
+Mike Mangini plays a Pearl Demon Drive double pedal (direct-drive).
+
+Full breakdown: [Mike Mangini's pedal setup](https://metalforge.io/pedals/setups/mike-mangini).
+
 ---
 
 **Full interactive profile:** [Mike Mangini on MetalForge](https://metalforge.io/drummer/mike-mangini)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

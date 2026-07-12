@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/shannon-larkin"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Shannon Larkin — Drum Kit & Gear Setup
@@ -109,10 +109,16 @@ Shannon Larkin's cymbals: Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 
 
 Full breakdown: [Shannon Larkin's cymbal setup](https://metalforge.io/cymbals/setups/shannon-larkin).
 
+## Pedal
+
+Shannon Larkin plays a DW 9000 Series double pedal (chain-drive).
+
+Full breakdown: [Shannon Larkin's pedal setup](https://metalforge.io/pedals/setups/shannon-larkin).
+
 ---
 
 **Full interactive profile:** [Shannon Larkin on MetalForge](https://metalforge.io/drummer/shannon-larkin)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

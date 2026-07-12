@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/gene-hoglan"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # Gene Hoglan — Drum Kit & Gear Setup
@@ -145,10 +145,16 @@ Gene Hoglan's cymbals: Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ri
 
 Full breakdown: [Gene Hoglan's cymbal setup](https://metalforge.io/cymbals/setups/gene-hoglan).
 
+## Pedal
+
+Gene Hoglan plays a Pearl Demon Drive double pedal (direct-drive).
+
+Full breakdown: [Gene Hoglan's pedal setup](https://metalforge.io/pedals/setups/gene-hoglan).
+
 ---
 
 **Full interactive profile:** [Gene Hoglan on MetalForge](https://metalforge.io/drummer/gene-hoglan)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

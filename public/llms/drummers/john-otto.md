@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Orange"
 profile_url: "https://metalforge.io/drummer/john-otto"
 source: "https://metalforge.io"
-last_updated: "2026-07-11"
+last_updated: "2026-07-12"
 ---
 
 # John Otto — Drum Kit & Gear Setup
@@ -101,10 +101,16 @@ John Otto's cymbals: Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Cus
 
 Full breakdown: [John Otto's cymbal setup](https://metalforge.io/cymbals/setups/john-otto).
 
+## Pedal
+
+John Otto plays a Gibraltar G Class pedal.
+
+Full breakdown: [John Otto's pedal setup](https://metalforge.io/pedals/setups/john-otto).
+
 ---
 
 **Full interactive profile:** [John Otto on MetalForge](https://metalforge.io/drummer/john-otto)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-11 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

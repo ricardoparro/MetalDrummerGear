@@ -1,6 +1,6 @@
 # Tama Drums — Metal Drummer Endorsers
 
-Tama is a Japanese drum manufacturer founded in 1965, widely regarded as the industry standard for metal drumming. Known for their Starclassic series shells and Iron Cobra hardware, Tama kits offer exceptional projection, durability, and punch required for high-volume metal performance.
+Tama is a Japanese drum manufacturer launched in 1974 as the drum brand of Hoshino Gakki (founded 1908), widely regarded as the industry standard for metal drumming. Known for their Starclassic series shells and Iron Cobra hardware, Tama kits offer exceptional projection, durability, and punch required for high-volume metal performance.
 
 ## Metal Drummers Who Use Tama
 
@@ -49,10 +49,30 @@ A: The Tama Starclassic Maple is the dominant thrash metal choice, used by Lars 
 Q: Does Tama make a snare drum for metal?
 A: Yes. The Tama S.L.P. G-Maple (used by Dave Lombardo and Mario Duplantier), Tama Bell Brass (used by Eloy Casagrande), and the Lars Ulrich Signature LU1465 are all Tama snares built for high-volume metal environments.
 
+## History
+
+Founded **1974** in Nagoya, Japan (Hoshino Gakki).
+
+Tama's history begins with Hoshino Gakki, a Japanese musical instrument company founded in Nagoya in 1908 that started out selling books before moving into instrument sales and, eventually, manufacturing.
+
+Hoshino Gakki built its early reputation making guitars — the company would later launch the Ibanez brand — before turning its attention to drums. In 1974, Hoshino Gakki launched the Tama name specifically for its drum line, giving that side of the business its own dedicated identity.
+
+That innovation reached a milestone in 1993 with the launch of the Iron Cobra bass drum pedal, which became one of the most widely used double pedals in professional drumming and remains a metal-industry standard today.
+
+**Milestones:**
+- **1908** — Hoshino Gakki is founded in Nagoya, Japan.
+- **1974** — Hoshino Gakki launches the Tama name as a dedicated drum brand.
+- **mid-1980s** — Lars Ulrich (Metallica) becomes an official Tama artist, building his kits around Tama shells and, later, the Iron Cobra pedal.
+- **1993** — The Iron Cobra bass drum pedal launches and becomes a metal-industry standard.
+
+**Metal era:** Lars Ulrich has been an official Tama artist since the mid-1980s, building his Metallica kits around Tama shells and the Iron Cobra pedal — one of the most visible metal endorsements in drum-brand history. George Kollias (Nile) and other extreme metal drummers have since relied on Tama's Starclassic shells and Iron Cobra pedals.
+
+**Source:** [tama.com](https://www.tama.com)
+
 ---
 
 **Brand page:** [/brands/tama](https://metalforge.io/brands/tama)
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

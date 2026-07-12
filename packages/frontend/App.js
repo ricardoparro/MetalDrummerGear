@@ -14800,14 +14800,23 @@ function BrandLandingPage({ brandSlug, drummers, onBack, onSelectDrummer, onNavi
         {brand.history && (
           <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
             <Text style={[styles.sectionTitle, { color: theme.text }]}>{brand.name} History</Text>
-            <Text style={[styles.genreParagraph, { color: theme.secondaryText }]}>
-              {brand.history.founded}
-            </Text>
+            {(brand.history.foundedYear || brand.history.foundedPlace || brand.history.founder) && (
+              <Text style={[styles.textSm, { color: theme.secondaryText, marginBottom: 8, fontWeight: '600' }]}>
+                Founded {brand.history.foundedYear}
+                {brand.history.foundedPlace ? ` in ${brand.history.foundedPlace}` : ''}
+                {brand.history.founder ? ` by ${brand.history.founder}` : ''}
+              </Text>
+            )}
+            {brand.history.story && brand.history.story.map((paragraph, index) => (
+              <Text key={index} style={[styles.genreParagraph, { color: theme.secondaryText }]}>
+                {paragraph}
+              </Text>
+            ))}
             {brand.history.milestones && brand.history.milestones.length > 0 && (
               <View style={[styles.gappedLayout1, { marginTop: 8 }]}>
                 {brand.history.milestones.map((milestone, index) => (
                   <View key={index} style={{ flexDirection: 'row', alignItems: 'flex-start' }}>
-                    <Text style={[styles.textSm, { color: brand.color, fontWeight: '700', width: 64 }]}>
+                    <Text style={[styles.textSm, { color: brand.color, fontWeight: '700', width: 72 }]}>
                       {milestone.year}
                     </Text>
                     <Text style={[styles.textSm, { color: theme.secondaryText, flex: 1 }]}>
@@ -14817,15 +14826,15 @@ function BrandLandingPage({ brandSlug, drummers, onBack, onSelectDrummer, onNavi
                 ))}
               </View>
             )}
-            {brand.history.metalEntry && (
+            {brand.history.metalEra && (
               <Text style={[styles.genreParagraph, { color: theme.secondaryText, marginTop: 8 }]}>
                 <Text style={{ fontWeight: '700', color: theme.text }}>Entry into metal: </Text>
-                {brand.history.metalEntry}
+                {brand.history.metalEra}
               </Text>
             )}
-            {brand.history.source && (
+            {brand.history.sources && brand.history.sources.length > 0 && (
               <Text style={[styles.textSm, { color: theme.secondaryText, marginTop: 8, fontStyle: 'italic' }]}>
-                Source: {brand.history.source.label}
+                Source{brand.history.sources.length > 1 ? 's' : ''}: {brand.history.sources.join(', ')}
               </Text>
             )}
           </View>

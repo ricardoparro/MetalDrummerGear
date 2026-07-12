@@ -51,10 +51,34 @@ A: For thrash metal, the Zildjian A Custom series is the dominant choice — bri
 Q: How many metal drummers use Zildjian?
 A: Zildjian is the most-endorsed cymbal brand on MetalForge's roster with 20 out of 63 catalogued drummers using Zildjian cymbals as their primary choice, spanning thrash, death, progressive, groove, and extreme metal subgenres.
 
+## History
+
+Founded **1623** in Constantinople (Istanbul), Ottoman Empire, by Avedis Zildjian I.
+
+In 1618, an Armenian alchemist named Avedis living in Constantinople discovered a secret alloy of copper, tin, and a trace of silver that could be hammered into a cymbal that rang true instead of shattering. The Ottoman Sultan's own Janissary military bands adopted the instruments, and in 1623 the Sultan granted Avedis both the right to open an independent foundry and the surname "Zildjian" — Armenian for "cymbal maker."
+
+For the next three centuries, the alloy formula and hammering technique passed from father to son inside the Zildjian family, guarded so closely that it was reportedly never written down. The foundry remained in Constantinople through the fall of the Ottoman Empire and the upheaval of World War I.
+
+In 1929, with the family's American branch already established, Avedis Zildjian III incorporated the Avedis Zildjian Company in Quincy, Massachusetts, carrying the 300-year-old alloy secret across the Atlantic just as the jazz era was taking off in the United States.
+
+In 1977, Zildjian brought the historic K Istanbul cymbal-making tradition — originated generations earlier by a separate branch of the family — under its own roof, uniting the bright A-style and dark K-style cymbal sounds under one company for the first time. A bitter family split in the late 1970s cost Zildjian half its own bloodline: in 1981 Robert Zildjian left to found rival cymbal maker Sabian in Canada, while Armand Zildjian kept the Zildjian name and the Massachusetts factory.
+
+**Milestones:**
+- **1618** — Avedis Zildjian discovers the copper-tin-silver alloy that lets cast cymbals be hammered without cracking or shattering.
+- **1623** — The Ottoman Sultan grants Avedis the Zildjian name and permission to found an independent cymbal foundry in Constantinople.
+- **1929** — Avedis Zildjian III incorporates the Avedis Zildjian Company in Quincy, Massachusetts, moving cymbal production to the USA.
+- **1977** — Zildjian acquires the rights to the historic K Istanbul line, uniting the bright A-style and dark K-style cymbal traditions under one company.
+- **1981** — A family split sends Robert Zildjian to found rival cymbal maker Sabian in Meductic, New Brunswick, Canada.
+- **2023** — Zildjian marks its 400th anniversary, still family-owned into its 15th generation.
+
+**Metal era:** Lars Ulrich has played an all-Zildjian setup throughout Metallica's career, and his bright, cutting A Custom cymbals became a reference point for thrash metal's cymbal sound in the 1980s. The darker K and K Custom lines later found favor with progressive and technical metal drummers such as George Kollias and Mario Duplantier.
+
+**Source:** [zildjian.com/pages/brand](https://zildjian.com/pages/brand)
+
 ---
 
 **Brand page:** [/brands/zildjian](https://metalforge.io/brands/zildjian)
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

@@ -32,10 +32,34 @@ A: The Mapex Falcon is Mapex's premium double bass pedal, using a strap-drive me
 Q: Did Lamb of God use Mapex drums?
 A: Yes. Chris Adler, Lamb of God's original drummer (1994–2019), was a long-time Mapex endorser and used the Black Panther Design Lab for the band's commercial peak albums including Ashes of the Wake and Sacrament.
 
+## History
+
+Founded **1989** in Taiwan by KHS Co., Ltd.
+
+Mapex was launched in 1989 by KHS Co., Ltd., a Taiwanese musical instrument manufacturer, as a dedicated drum brand — shifting the company's focus away from manufacturing drums for other labels and toward building its own identity.
+
+The brand expanded quickly in its first few years, signing early artist endorsers like Ralph Peterson and Billy Cobham and introducing the high-end Orion series in the early 1990s to establish itself in the professional market.
+
+In 1996, Mapex established a US operation in Tennessee, giving the brand a direct foothold in the American market, and followed it a year later with the Black Panther snare series — a line built around unconventional shell materials that would become a signature Mapex identity.
+
+Mapex expanded production into China in 2000 alongside a run of new pedal designs, and continued to push shell engineering forward through the 2010s with innovations like the Saturn IV's SONIClear bearing edge.
+
+**Milestones:**
+- **1989** — KHS Co., Ltd. launches Mapex as a dedicated drum brand.
+- **1992** — Mapex introduces the high-end Orion series, establishing the brand in the professional drum market.
+- **1996** — Mapex USA is established in Tennessee.
+- **1997** — The Black Panther snare series debuts.
+- **2000** — Mapex expands production into China.
+- **2013** — The Saturn IV series introduces Mapex's SONIClear bearing edge shell technology.
+
+**Metal era:** Chris Adler's endorsement of Mapex throughout Lamb of God's commercial peak — playing a Black Panther Design Lab kit and his own signature snare — gave the brand serious credibility in American groove metal and modern thrash. Jason Bittner (Overkill, Shadows Fall) has extended that association on Mapex's Saturn line.
+
+**Source:** [mapexdrums.com/history](https://mapexdrums.com/history)
+
 ---
 
 **Brand page:** [/brands/mapex](https://metalforge.io/brands/mapex)
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

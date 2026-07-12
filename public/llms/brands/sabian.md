@@ -35,10 +35,33 @@ A: Sabian HH cymbals are fully hand-hammered with a traditional, dark, and contr
 Q: Does Sabian make hi-hats for metal drumming?
 A: Yes. The Sabian HHX Evolution Hi-Hats (used by Alex Bent) and AAX Stage Hi-Hats are popular choices in metal. Both offer a crisp, tight chick and fast response suited to double-bass-heavy playing and technical patterns.
 
+## History
+
+Founded **1981** in Meductic, New Brunswick, Canada, by Robert Zildjian.
+
+Sabian exists because of a rift inside the centuries-old Zildjian cymbal dynasty. By the late 1970s, brothers Robert and Armand Zildjian could not agree on the direction of the family's Avedis Zildjian Company, and in 1979 the business split between the two branches of the family.
+
+In 1981, Robert Zildjian took his share of the family's cymbal-making expertise across the border and founded a new company in Meductic, a small town in rural New Brunswick, Canada.
+
+Rather than position the new company as a discount alternative to Zildjian, Sabian invested in its own foundry and alloy research from the outset. Its first full year of production in 1982 turned out roughly 45,000 cymbals, including the debut of the AA and HH series that would become the foundation of its catalog.
+
+Over the following decades Sabian built out AAX — a bright, fast-responding line — and HHX, a hand-hammered, darker counterpart introduced in 2001, giving the company two flagship series that speak directly to metal drummers who need either cutting projection or complex, dark overtones.
+
+**Milestones:**
+- **1979** — The Zildjian family cymbal business splits between Robert and Armand Zildjian's branches of the family.
+- **1981** — Robert Zildjian founds Sabian in Meductic, New Brunswick, Canada.
+- **1982** — Sabian's first full production year turns out roughly 45,000 cymbals, including the debut AA and HH series.
+- **2001** — The HHX series launches, giving Sabian a hand-hammered, darker flagship line alongside AAX.
+- **2010** — Sabian acquires hand-percussion maker Gon Bops.
+
+**Metal era:** Sabian's AAX and HHX series became mainstays of modern metal within a generation of the company's founding. Ray Luzier (Korn) and Tomas Haake (Meshuggah) are official Sabian artists, both known for AAX and HHX cymbal setups.
+
+**Source:** [sabian.com/our-story](https://sabian.com/our-story/)
+
 ---
 
 **Brand page:** [/brands/sabian](https://metalforge.io/brands/sabian)
 
 **More LLM resources:** [Gear by Brand](https://metalforge.io/llms/gear-by-brand.md) · [Gear Guide](https://metalforge.io/llms/gear-guide.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-20 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*

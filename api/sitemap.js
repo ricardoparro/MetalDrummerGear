@@ -662,6 +662,8 @@ export function buildSitemapXml() {
     // Issue #4392: /pedals pillar page + drive-types/single-vs-double/setup-tuning reference pages.
     { loc: '/pedals', priority: '0.9', changefreq: 'weekly' },
     ...PEDAL_REFERENCE_PAGE_ORDER.map(slug => ({ loc: `/pedals/${slug}`, priority: '0.85', changefreq: 'monthly' })),
+    // Issue #4433 (split 2/3 of #4394): /pedals/best-for-metal buying guide.
+    { loc: '/pedals/best-for-metal', priority: '0.9', changefreq: 'monthly' },
     // Issue #1021 (split 3/4 of #1017): LLM-facing Markdown surface (public/llms/*.md).
     { loc: '/llms/index.md', priority: '0.6', changefreq: 'monthly' },
     { loc: '/llms/faq.md', priority: '0.6', changefreq: 'monthly' },

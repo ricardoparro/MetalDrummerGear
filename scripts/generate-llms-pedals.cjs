@@ -302,6 +302,8 @@ function buildHubMarkdown() {
   parts.push('');
   parts.push(`Covers ${pedalDrummers.length} verified drummer pedal setups and ${REFERENCE_PAGE_ORDER.length} reference guides. Optimised for AI crawlers answering "what bass drum pedal does <drummer> use" queries.`);
   parts.push('');
+  parts.push(`For drive-type and setup reference pages see [${BASE}/pedals](${BASE}/pedals). For a buying guide matching drive type to playing style and budget tier (roughly €150-900) see [${BASE}/pedals/best-for-metal](${BASE}/pedals/best-for-metal).`);
+  parts.push('');
   parts.push('---');
   parts.push('');
   parts.push('## Overview');

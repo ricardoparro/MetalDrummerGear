@@ -46,6 +46,7 @@ export function PedalSetupPage({
   onBack,
   onNavigateToDrummer,
   onNavigateToHub,
+  onNavigateToBestForMetal,
 }) {
   const themeContext = useContext(ThemeContext);
   const theme = themeProp || themeContext;
@@ -147,6 +148,17 @@ export function PedalSetupPage({
           accessibilityLabel="Back to the pedals guide"
         >
           <Text style={[styles.drummerName, { color: theme.text }]}>⚙️ More on Pedal Drive Types, Doubles & Setup →</Text>
+        </Pressable>
+      )}
+
+      {onNavigateToBestForMetal && (
+        <Pressable
+          onPress={onNavigateToBestForMetal}
+          style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.card, borderColor: theme.border }]}
+          accessibilityRole="link"
+          accessibilityLabel="Best bass drum pedals for metal buying guide"
+        >
+          <Text style={[styles.drummerName, { color: theme.text }]}>🤘 Best Pedals for Metal: Drive Type & Budget Guide →</Text>
         </Pressable>
       )}
 

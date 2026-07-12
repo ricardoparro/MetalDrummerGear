@@ -421,6 +421,10 @@ function getPedalReferenceSlugFromURL() {
   return PEDAL_REFERENCE_SLUGS.includes(slug) ? slug : null;
 }
 
+// Best Pedals for Metal guide (Issue #4433, split 2/3 of #4394) - /pedals/best-for-metal
+const LazyPedalBestForMetalPage = lazy(() => import('./components/PedalBestForMetalPage').then(m => ({ default: m.PedalBestForMetalPage })));
+function isPedalBestForMetalPage() { return typeof window !== 'undefined' && window.location.pathname.replace(/\/+$/, '') === '/pedals/best-for-metal'; }
+
 // Cymbal Brand Pages (Issue #4307, epic #4303 phase 4/4) - /cymbals/brands
 // + /cymbals/brands/<brand>. Only rendered for brands defined in
 // data/cymbalBrands.js — an unknown slug falls through to the normal 404.
@@ -29127,6 +29131,12 @@ setShowList(false);
                 window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}
+            onNavigateToBestForMetal={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals/best-for-metal');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
           />
         </Suspense>
       );
@@ -29907,6 +29917,12 @@ setShowList(false);
                 window.history.pushState({}, '', `/pedals/${slug}`);
               }
             }}
+            onNavigateBestForMetal={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals/best-for-metal');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
           />
         </Suspense>
       );
@@ -29930,6 +29946,29 @@ setShowList(false);
               setPedalPageSlug(slug);
               if (Platform.OS === 'web' && typeof window !== 'undefined') {
                 window.history.pushState({}, '', `/pedals/${slug}`);
+              }
+            }}
+          />
+        </Suspense>
+      );
+    }
+    // Best Pedals for Metal guide (Issue #4433, split 2/3 of #4394) - /pedals/best-for-metal
+    if (isPedalBestForMetalPage()) {
+      return (
+        <Suspense fallback={<PageLoadingSkeleton theme={theme} />}>
+          <LazyPedalBestForMetalPage
+            theme={theme}
+            drummers={drummers}
+            onBack={() => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', '/pedals');
+                window.dispatchEvent(new PopStateEvent('popstate'));
+              }
+            }}
+            onNavigateToSetup={(slug) => {
+              if (Platform.OS === 'web' && typeof window !== 'undefined') {
+                window.history.pushState({}, '', `/pedals/setups/${slug}`);
+                window.dispatchEvent(new PopStateEvent('popstate'));
               }
             }}
           />

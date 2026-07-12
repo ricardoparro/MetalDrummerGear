@@ -194,6 +194,14 @@ const gearBrands = [
   // Drumhead Brands
   { slug: 'evans', name: 'Evans', type: 'drumheads' },
   { slug: 'remo', name: 'Remo', type: 'drumheads' },
+  // Issue #4389: SEO brands phase 2
+  { slug: 'sonor', name: 'Sonor', type: 'drums' },
+  { slug: 'vic-firth', name: 'Vic Firth', type: 'sticks' },
+  { slug: 'pro-mark', name: 'Pro-Mark', type: 'sticks' },
+  { slug: 'vater', name: 'Vater', type: 'sticks' },
+  { slug: 'ahead', name: 'Ahead', type: 'sticks' },
+  { slug: 'wincent', name: 'Wincent', type: 'sticks' },
+  { slug: 'axis', name: 'Axis Percussion', type: 'pedals' },
 ];
 
 // Issue #345: Gear comparison pages for SEO

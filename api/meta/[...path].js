@@ -1935,6 +1935,14 @@ function getMetaForPath(pathname) {
     sabian: { name: 'Sabian', type: 'cymbals' },
     evans: { name: 'Evans', type: 'drumheads' },
     remo: { name: 'Remo', type: 'drumheads' },
+    // Issue #4389: SEO brands phase 2
+    sonor: { name: 'Sonor', type: 'drums' },
+    'vic-firth': { name: 'Vic Firth', type: 'sticks' },
+    'pro-mark': { name: 'Pro-Mark', type: 'sticks' },
+    vater: { name: 'Vater', type: 'sticks' },
+    ahead: { name: 'Ahead', type: 'sticks' },
+    wincent: { name: 'Wincent', type: 'sticks' },
+    axis: { name: 'Axis Percussion', type: 'pedals' },
   };
   const brandPageMatch = path.match(/^\/brands\/([a-z0-9-]+)$/);
   if (brandPageMatch) {

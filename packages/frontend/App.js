@@ -1064,6 +1064,24 @@ function getDrummersByBrandData(slug, drummers) { return _brandsModule?.getDrumm
 function getDrummerBrandGearData(drummer, slug) { return _brandsModule?.getDrummerBrandGear(drummer, slug) || []; }
 function getDrumBrandsData() { return _brandsModule?.getDrumBrands() || []; }
 function getCymbalBrandsData() { return _brandsModule?.getCymbalBrands() || []; }
+function getStickBrandsData() { return _brandsModule?.getStickBrands() || []; }
+function getPedalBrandsData() { return _brandsModule?.getPedalBrands() || []; }
+function getDrumheadBrandsData() { return _brandsModule?.getDrumheadBrands() || []; }
+
+// Issue #4389 (epic #4386 phase 2): brand.type now spans drums/cymbals/sticks/
+// pedals/drumheads — this maps each type to its display label and its
+// sibling-brands getter for the "Explore Other X Brands" section and the
+// header subtitle.
+const BRAND_TYPE_CONFIG = {
+  drums: { label: 'Drum', getBrands: getDrumBrandsData },
+  cymbals: { label: 'Cymbal', getBrands: getCymbalBrandsData },
+  sticks: { label: 'Stick', getBrands: getStickBrandsData },
+  pedals: { label: 'Pedal', getBrands: getPedalBrandsData },
+  drumheads: { label: 'Drumhead', getBrands: getDrumheadBrandsData },
+};
+function getBrandTypeConfig(type) {
+  return BRAND_TYPE_CONFIG[type] || BRAND_TYPE_CONFIG.drums;
+}
 
 // Gear comparison data (Issue #345)
 // Lazy loaded for TBT optimization (#537)
@@ -14826,7 +14844,7 @@ function BrandLandingPage({ brandSlug, drummers, onBack, onSelectDrummer, onNavi
                 {brand.name}
               </Text>
               <Text style={[styles.genreTagline, { color: theme.accent }]}>
-                {brandDrummers.length} drummer{brandDrummers.length !== 1 ? 's' : ''} • {brand.type === 'drums' ? 'Drum Brand' : 'Cymbal Brand'} • Est. {brand.foundedYear}
+                {brandDrummers.length} drummer{brandDrummers.length !== 1 ? 's' : ''} • {getBrandTypeConfig(brand.type).label} Brand • Est. {brand.foundedYear}
               </Text>
             </View>
           </View>
@@ -15032,9 +15050,9 @@ function BrandLandingPage({ brandSlug, drummers, onBack, onSelectDrummer, onNavi
 
         {/* Related Brands - Browse Other Brands */}
         <View style={[styles.genreSection, { backgroundColor: theme.card, borderColor: theme.border }]}>
-          <Text style={[styles.sectionTitle, { color: theme.text }]}>Explore Other {brand.type === 'drums' ? 'Drum' : 'Cymbal'} Brands</Text>
+          <Text style={[styles.sectionTitle, { color: theme.text }]}>Explore Other {getBrandTypeConfig(brand.type).label} Brands</Text>
           <View style={[styles.flexRowWrap, styles.gap2]}>
-            {(brand.type === 'drums' ? getDrumBrandsData() : getCymbalBrandsData())
+            {getBrandTypeConfig(brand.type).getBrands()
               .filter(b => b.slug !== brandSlug)
               .map((otherBrand) => (
                 <TouchableOpacity

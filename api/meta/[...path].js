@@ -192,6 +192,16 @@ import {
   generateBestForMetalItemListSchema as generatePedalBestForMetalItemListSchema,
   generateBestForMetalBreadcrumbSchema as generatePedalBestForMetalBreadcrumbSchema,
 } from '../../packages/frontend/data/pedalBestForMetal.js';
+// Issue #4432 (split 1/3 of #4394): SSR meta + JSON-LD for
+// /pedals/brands/<brand> (Tama, Pearl, DW, Axis, Trick).
+import {
+  getBrand as getPedalBrand,
+  getPedalsForBrand,
+  generateBrandCanonicalUrl as generatePedalBrandCanonicalUrl,
+  generateBrandTitle as generatePedalBrandTitle,
+  generateBrandDescription as generatePedalBrandDescription,
+  generateBrandSchema as generatePedalBrandSchema,
+} from '../../packages/frontend/data/pedalBrands.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -4153,6 +4163,24 @@ function getMetaForPath(pathname) {
         generatePedalBestForMetalBreadcrumbSchema(),
       ].filter(Boolean)),
     };
+  }
+
+  // Issue #4432 (split 1/3 of #4394): /pedals/brands/<brand> — Brand +
+  // ItemList (confirmed pedals) + BreadcrumbList.
+  const pedalBrandMatch = path.match(/^\/pedals\/brands\/([a-z0-9-]+)$/);
+  if (pedalBrandMatch) {
+    const brand = getPedalBrand(pedalBrandMatch[1]);
+    if (brand) {
+      const confirmedPedals = getPedalsForBrand(brand);
+      return {
+        title: generatePedalBrandTitle(brand),
+        description: truncate(generatePedalBrandDescription(brand, confirmedPedals), 160),
+        image: DEFAULT_IMAGE,
+        type: 'website',
+        url: generatePedalBrandCanonicalUrl(brand.slug),
+        articleSchema: JSON.stringify(generatePedalBrandSchema(brand, confirmedPedals)),
+      };
+    }
   }
 
   // Issue #4430: /pedals/setups/<drummer> — per-drummer "what pedals does X

@@ -20,6 +20,7 @@ import {
 } from '../data/pedalReferencePages';
 import { PEDALS } from '../data/pedals';
 import { FACE_FOCUS } from '../data/drummerPhotoFocus';
+import { PEDAL_BRANDS } from '../data/pedalBrands';
 
 function injectSchema(id, schema) {
   if (Platform.OS !== 'web' || typeof document === 'undefined' || !schema) return;
@@ -123,17 +124,38 @@ function BestForMetalLink({ theme, onNavigate }) {
   return card;
 }
 
-function BrandRow({ brand, theme }) {
+function BrandRow({ brand, theme, onNavigateBrand }) {
+  const brandPage = PEDAL_BRANDS.find((b) => b.name === brand.name);
   const row = (
     <View style={styles.brandRow}>
       <Text style={[styles.brandName, { color: theme.primary || theme.text }]}>{brand.name}</Text>
       <Text style={[styles.brandNote, { color: theme.secondaryText || theme.text }]}>{brand.note}</Text>
+      {brandPage && (
+        <Text style={[styles.brandLink, { color: theme.primary || theme.text }]}>More {brand.name} pedals →</Text>
+      )}
     </View>
   );
+
+  if (brandPage && Platform.OS === 'web') {
+    return (
+      <a
+        href={`/pedals/brands/${brandPage.slug}`}
+        onClick={(e) => {
+          if (onNavigateBrand) {
+            e.preventDefault();
+            onNavigateBrand(brandPage.slug);
+          }
+        }}
+        style={{ textDecoration: 'none', display: 'block', width: '100%' }}
+      >
+        {row}
+      </a>
+    );
+  }
   return row;
 }
 
-export function PedalsHubPage({ theme: themeProp, drummers = [], onNavigateReference, onNavigateBestForMetal }) {
+export function PedalsHubPage({ theme: themeProp, drummers = [], onNavigateReference, onNavigateBestForMetal, onNavigateBrand }) {
   const theme = themeProp || themes.dark;
 
   useEffect(() => {
@@ -184,7 +206,7 @@ export function PedalsHubPage({ theme: themeProp, drummers = [], onNavigateRefer
 
       <Text style={[styles.h2, { color: theme.text }]}>Major pedal brands</Text>
       {PILLAR_PAGE.brands.map((brand) => (
-        <BrandRow key={brand.name} brand={brand} theme={theme} />
+        <BrandRow key={brand.name} brand={brand} theme={theme} onNavigateBrand={onNavigateBrand} />
       ))}
 
       <Text style={[styles.h2, { color: theme.text }]}>Best pedals for metal</Text>
@@ -232,6 +254,7 @@ const styles = StyleSheet.create({
   brandRow: { marginBottom: 10 },
   brandName: { fontSize: 16, fontWeight: '700' },
   brandNote: { fontSize: 14, lineHeight: 20 },
+  brandLink: { fontSize: 13, fontWeight: '600', marginTop: 2 },
   ctaCard: { borderWidth: 1, borderRadius: 10, padding: 14, marginTop: 4, marginBottom: 8 },
   ctaCardText: { fontSize: 15, fontWeight: '700' },
   drummerGrid: { flexDirection: 'row', flexWrap: 'wrap', justifyContent: 'space-between' },

@@ -201,7 +201,7 @@ export const techniques = {
     ],
     masters: [
       { name: 'Johnny Rabb', slug: null, band: 'Collective Soul', note: 'Inventor of the modern technique' },
-      { name: 'Derek Roddy', slug: null, band: 'Hate Eternal', note: 'Death metal gravity blast pioneer' },
+      { name: 'Derek Roddy', slug: 'derek-roddy', band: 'Hate Eternal', note: 'Death metal gravity blast pioneer' },
       { name: 'George Kollias', slug: 'george-kollias', band: 'Nile', note: 'Combines gravity blasts with traditional techniques' },
       { name: 'Inferno', slug: 'inferno', band: 'Behemoth', note: 'Uses gravity blasts in black/death metal context' },
     ],
@@ -312,7 +312,7 @@ export const techniques = {
       { name: 'Danny Carey', slug: 'danny-carey', band: 'Tool', note: 'Makes odd times feel completely natural' },
       { name: 'Mike Portnoy', slug: 'mike-portnoy', band: 'Dream Theater', note: 'Technical mastery of complex meters' },
       { name: 'Brann Dailor', slug: 'brann-dailor', band: 'Mastodon', note: 'Progressive odd-time fills' },
-      { name: 'Matt Garstka', slug: null, band: 'Animals as Leaders', note: 'Modern prog-metal odd time innovator' },
+      { name: 'Matt Garstka', slug: 'matt-garstka', band: 'Animals as Leaders', note: 'Modern prog-metal odd time innovator' },
       { name: 'Tomas Haake', slug: 'tomas-haake', band: 'Meshuggah', note: 'Odd groupings over 4/4 foundation' },
       { name: 'Chris Adler', slug: 'chris-adler', band: 'Lamb of God', note: 'Groove metal in complex meters' },
     ],
@@ -524,7 +524,7 @@ export const techniques = {
       { name: 'Displaced Linear', description: 'Linear patterns starting on different beats' },
     ],
     masters: [
-      { name: 'Matt Garstka', slug: null, band: 'Animals as Leaders', note: 'Modern linear drumming master' },
+      { name: 'Matt Garstka', slug: 'matt-garstka', band: 'Animals as Leaders', note: 'Modern linear drumming master' },
       { name: 'Brann Dailor', slug: 'brann-dailor', band: 'Mastodon', note: 'Linear fills and progressive patterns' },
       { name: 'Matt Halpern', slug: 'matt-halpern', band: 'Periphery', note: 'Djent-style linear grooves' },
       { name: 'Mario Duplantier', slug: 'mario-duplantier', band: 'Gojira', note: 'Linear elements in groove metal context' },

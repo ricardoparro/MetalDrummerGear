@@ -3,7 +3,7 @@
 > Educational reference for metal drumming techniques: how to play them, their history,
 > the drummers who define them, and recommended gear.
 >
-> Last updated: 2026-07-11 · 29 techniques
+> Last updated: 2026-07-13 · 29 techniques
 
 ---
 ## Blast Beat
@@ -349,7 +349,7 @@ The five stroke roll is one of the original rudiments codified in the 26 America
 
 - Mike Mangini (Dream Theater) — Uses five-stroke-roll figures as compact punctuation inside rapid, technically dense fills — /drummer/mike-mangini
 - Gavin Harrison (Porcupine Tree / King Crimson) — Applies measured-roll discipline to phrasing that resolves against displaced, polymetric grooves — /drummer/gavin-harrison
-- Thomas Lang (Various) — Treats the five stroke roll as a foundational block for extended, high-speed roll combinations — /drummer/null
+- Thomas Lang (Various) — Treats the five stroke roll as a foundational block for extended, high-speed roll combinations
 
 ### Recommended Gear
 
@@ -558,8 +558,8 @@ The gravity blast technique was popularized in the extreme metal scene during th
 
 ### Masters
 
-- Johnny Rabb (Collective Soul) — Inventor of the modern technique — /drummer/null
-- Derek Roddy (Hate Eternal) — Death metal gravity blast pioneer — /drummer/null
+- Johnny Rabb (Collective Soul) — Inventor of the modern technique
+- Derek Roddy (Hate Eternal) — Death metal gravity blast pioneer — /drummer/derek-roddy
 - George Kollias (Nile) — Combines gravity blasts with traditional techniques — /drummer/george-kollias
 - Inferno (Behemoth) — Uses gravity blasts in black/death metal context — /drummer/inferno
 
@@ -734,7 +734,7 @@ Linear drumming became prominent through funk and fusion drummers like Gary Chaf
 
 ### Masters
 
-- Matt Garstka (Animals as Leaders) — Modern linear drumming master — /drummer/null
+- Matt Garstka (Animals as Leaders) — Modern linear drumming master — /drummer/matt-garstka
 - Brann Dailor (Mastodon) — Linear fills and progressive patterns — /drummer/brann-dailor
 - Matt Halpern (Periphery) — Djent-style linear grooves — /drummer/matt-halpern
 - Mario Duplantier (Gojira) — Linear elements in groove metal context — /drummer/mario-duplantier
@@ -873,7 +873,7 @@ Odd meters entered rock through progressive bands like King Crimson, Yes, and Ru
 - Danny Carey (Tool) — Makes odd times feel completely natural — /drummer/danny-carey
 - Mike Portnoy (Dream Theater) — Technical mastery of complex meters — /drummer/mike-portnoy
 - Brann Dailor (Mastodon) — Progressive odd-time fills — /drummer/brann-dailor
-- Matt Garstka (Animals as Leaders) — Modern prog-metal odd time innovator — /drummer/null
+- Matt Garstka (Animals as Leaders) — Modern prog-metal odd time innovator — /drummer/matt-garstka
 - Tomas Haake (Meshuggah) — Odd groupings over 4/4 foundation — /drummer/tomas-haake
 - Chris Adler (Lamb of God) — Groove metal in complex meters — /drummer/chris-adler
 
@@ -916,10 +916,10 @@ The one-handed roll evolved from traditional rudimental techniques like the push
 
 ### Masters
 
-- Johnny Rabb (Various) — Modern pioneer of the technique — /drummer/null
+- Johnny Rabb (Various) — Modern pioneer of the technique
 - George Kollias (Nile) — Applies one-handed rolls in extreme metal — /drummer/george-kollias
-- Jojo Mayer (Nerve) — Technical master of hand techniques — /drummer/null
-- Thomas Lang (Various) — Technical virtuoso — /drummer/null
+- Jojo Mayer (Nerve) — Technical master of hand techniques
+- Thomas Lang (Various) — Technical virtuoso
 
 ### Recommended Gear
 
@@ -1137,7 +1137,7 @@ The seven stroke roll is one of the 26 American Standard Rudiments codified by t
 ### Masters
 
 - Mike Mangini (Dream Theater) — Extends double-stroke and five-stroke vocabulary into seven-stroke figures to bridge larger rhythmic gaps — /drummer/mike-mangini
-- Thomas Lang (Various) — Builds the seven stroke roll into extended, high-speed roll combinations as a longer counterpart to the five stroke roll — /drummer/null
+- Thomas Lang (Various) — Builds the seven stroke roll into extended, high-speed roll combinations as a longer counterpart to the five stroke roll
 - Gavin Harrison (Porcupine Tree / King Crimson) — Draws on seven-stroke measured-roll phrasing inside displaced and polymetric grooves — /drummer/gavin-harrison
 
 ### Recommended Gear

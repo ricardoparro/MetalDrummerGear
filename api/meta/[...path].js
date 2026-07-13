@@ -2130,7 +2130,8 @@ function getMetaForPath(pathname) {
       // Issue #4477: same getDrummersByBrand() call the live BrandLandingPage
       // component uses to render its own "Metal Drummers Using <brand>"
       // section — no new data, no fabricated matches.
-      const brandDrummers = getDrummersByBrand(brandSlug, drummers).slice(0, 4);
+      const allBrandDrummers = getDrummersByBrand(brandSlug, drummers);
+      const brandDrummers = allBrandDrummers.slice(0, 4);
       const bestForMetal = BRAND_TYPE_BEST_FOR_METAL[brand.type];
       return {
         title: `${brand.name} Drums — Metal Drummers Who Use ${brand.name} | ${SITE_NAME}`,
@@ -2156,6 +2157,19 @@ function getMetaForPath(pathname) {
               url: `${BASE_URL}/brands/${brandSlug}`,
               publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
             },
+            ...(allBrandDrummers.length > 0 ? [{
+              '@type': 'ItemList',
+              name: `Metal drummers using ${brand.name}`,
+              itemListElement: allBrandDrummers.map((d, i) => ({
+                '@type': 'ListItem',
+                position: i + 1,
+                item: {
+                  '@type': 'Person',
+                  name: d.name,
+                  url: `${BASE_URL}/drummer/${_normalizeDrummerSlug(d.name)}`,
+                },
+              })),
+            }] : []),
             {
               '@type': 'FAQPage',
               mainEntity: [

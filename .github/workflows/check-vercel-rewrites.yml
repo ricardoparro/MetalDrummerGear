@@ -1,0 +1,36 @@
+name: Check Vercel Bot Rewrites
+
+# Pre-merge gate against #4266-class drift: fails the build if a static
+# `path === '/...'` handler in api/meta/[...path].js has no matching bot-UA
+# rewrite in vercel.json. See scripts/check-vercel-rewrites.cjs for details.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, 'claude/**', 'roadie/**', 'ralph/**']
+    paths:
+      - '.github/workflows/check-vercel-rewrites.yml'
+      - 'scripts/check-vercel-rewrites.cjs'
+      - 'api/meta/[...path].js'
+      - 'vercel.json'
+  pull_request:
+    paths:
+      - '.github/workflows/check-vercel-rewrites.yml'
+      - 'scripts/check-vercel-rewrites.cjs'
+      - 'api/meta/[...path].js'
+      - 'vercel.json'
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    name: Check vercel.json bot-UA rewrites vs api/meta handlers
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Check for missing bot-UA rewrites
+        run: node scripts/check-vercel-rewrites.cjs

@@ -4,7 +4,13 @@ This page indexes every verified cymbal setup catalogued in MetalForge's cymbals
 
 > Last Updated: 2026-07-13 · Source: https://metalforge.io
 
-For types, alloys, and sizing/weight reference pages see [https://metalforge.io/cymbals](https://metalforge.io/cymbals). For brand positioning and metal-relevant series see [https://metalforge.io/cymbals/brands](https://metalforge.io/cymbals/brands). For a buying guide by budget tier see [https://metalforge.io/cymbals/best-for-metal](https://metalforge.io/cymbals/best-for-metal).
+For types, alloys, and sizing/weight reference pages see the Reference Guides section below. For brand positioning and metal-relevant series see [https://metalforge.io/cymbals/brands](https://metalforge.io/cymbals/brands). For a buying guide by budget tier see [https://metalforge.io/cymbals/best-for-metal](https://metalforge.io/cymbals/best-for-metal).
+
+## Reference Guides
+
+- [5 Types of Cymbals (And How Metal Drummers Use Them)](https://metalforge.io/llms/cymbals/types.md) — The 5 types of cymbals — hi-hat, crash, ride, china, and splash (plus cymbal stacks) — with typical sizes and how each is actually used in metal drumming.
+- [B20 vs B8 (And What a Cymbal Is Actually Made Of)](https://metalforge.io/llms/cymbals/alloys.md) — B20 vs B8 bronze cymbal alloys compared, plus brass and the B12 middle ground, and how cast vs sheet manufacturing shapes tone and durability under heavy playing.
+- [Cymbal Sizes & Weights: What Actually Changes the Sound](https://metalforge.io/llms/cymbals/sizes-weights.md) — How cymbal diameter and weight change pitch, attack, wash, and durability — and what sizes and weights hold up best for heavy-hitting metal drumming.
 
 ## All 56 Cymbal Setup Records
 

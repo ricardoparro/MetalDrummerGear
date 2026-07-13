@@ -58,6 +58,25 @@ try {
   console.warn('Could not parse drummerComparisons, continuing without an accurate count:', e.message);
 }
 
+// Load how-to-sound-like guide count for the guides table rows + "Style Guides"
+// section header in the committed index.md (#4519). Those three mentions are
+// hand-maintained (this generator doesn't yet own that section of the output),
+// so the count below is the source of truth to keep them in sync with — it
+// isn't interpolated into `output` here, the same way #4298's comparisonCount
+// backs hand-verified text until the surrounding section is fully generator-owned.
+//
+// Counted from the live public/llms/guides/how-to-sound-like-*.md files rather
+// than packages/frontend/data/soundLikeGuides.js: that data source currently has
+// entries with no corresponding generated file yet, so it overcounts vs. what's
+// actually citable at /llms/guides/.
+const guidesDir = path.join(__dirname, '../public/llms/guides');
+let guideCount = 0;
+try {
+  guideCount = fs.readdirSync(guidesDir).filter((f) => f.startsWith('how-to-sound-like-') && f.endsWith('.md')).length;
+} catch (e) {
+  console.warn('Could not read public/llms/guides/, continuing without an accurate guide count:', e.message);
+}
+
 const today = new Date().toISOString().split('T')[0];
 
 function generateSlug(name) {
@@ -213,4 +232,4 @@ For data corrections or additions, please visit the website.
 // Write the output
 const outputPath = path.join(__dirname, '../public/llms/index.md');
 fs.writeFileSync(outputPath, output);
-console.log(`✅ Generated llms/index.md with ${drummers.length} drummers`);
+console.log(`✅ Generated llms/index.md with ${drummers.length} drummers (${guideCount} how-to-sound-like guides)`);

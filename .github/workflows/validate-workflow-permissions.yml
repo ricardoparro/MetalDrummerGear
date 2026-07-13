@@ -1,0 +1,31 @@
+name: Validate Workflow Permissions
+
+# Pre-merge gate: reject any `.github/workflows/*.yml` whose `permissions:`
+# block uses a key that isn't a real GITHUB_TOKEN scope. Catches the
+# `workflows: write` class of bug (#4515, #4560) that GitHub's own YAML
+# parser rejects at run-start, failing the whole workflow with zero jobs
+# executed and no useful log. See scripts/validate-workflow-permissions.cjs.
+
+on:
+  push:
+    branches: [main, 'claude/**', 'roadie/**', 'ralph/**']
+    paths:
+      - '.github/workflows/**'
+  pull_request:
+    paths:
+      - '.github/workflows/**'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    name: Validate permissions keys
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Check workflow permissions blocks
+        run: node scripts/validate-workflow-permissions.cjs

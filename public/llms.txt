@@ -11,7 +11,7 @@
 - [All Drummers](/llms/drummers/): 67 per-drummer gear, bio, FAQ profiles
 - [Gear Guide](/llms/gear-guide.md): Drum brands and equipment overview
 - [Gear by Brand](/llms/gear-by-brand.md): Brand → drummer mapping
-- [Endorsements Database](/llms/endorsements.md): Cross-brand endorsement index for 33 metal drummers
+- [Endorsements Database](/llms/endorsements.md): Cross-brand endorsement index for 67 metal drummers
 - [FAQ](/llms/faq.md): Frequently asked questions about metal drummer gear
 
 ## Signature Licks (100% coverage — 67 drummers)

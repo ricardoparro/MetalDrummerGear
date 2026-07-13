@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/nick-menza"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-13"
 ---
 
 # Nick Menza — Drum Kit & Gear Setup
@@ -33,6 +33,8 @@ Nick Menza (July 23, 1964 – May 21, 2016) was an American drummer best known a
 Nick Menza (July 23, 1964 – May 21, 2016) was an American drummer best known as Megadeth's drummer from 1989 to 1998, the period that produced the band's most celebrated albums: Rust in Peace (1990), Countdown to Extinction (1992), Youthanasia (1994), and Cryptic Writings (1997). He joined Megadeth initially as a drum technician before stepping into the drum seat, and quickly became a defining voice of Big Four thrash metal.
 
 Menza's playing was distinguished by surgical double-bass precision at 180-200 BPM — clean, articulate kick patterns rather than a blur of raw speed — paired with a sharp, rimshot-heavy snare crack that cut through Megadeth's dense guitar arrangements. He was fired from Megadeth in 1998 following a knee injury, briefly rejoined in 2004, and later drummed for the jazz-metal fusion group OHM. Menza died on May 21, 2016, collapsing on stage at age 51 during an OHM performance in Woodland Hills, California.
+
+**July 23, 2026** marks what would have been Nick Menza's 62nd birthday. Fans continue to celebrate the anniversary by revisiting the Megadeth run he anchored from 1989 to 1998 — Rust in Peace through Cryptic Writings — a stretch of records that still defines his legacy in Big Four thrash metal.
 
 ## Band History
 
@@ -72,6 +74,10 @@ A: Nick Menza collapsed on stage and passed away on May 21, 2016, at age 51, dur
 **Q: When did Nick Menza join Megadeth?**
 
 A: Nick Menza joined Megadeth in 1989, initially working as a drum technician before becoming the band's full-time drummer.
+
+**Q: When was Nick Menza born?**
+
+A: Nick Menza was born on July 23, 1964, and would have turned 62 on July 23, 2026.
 
 ## Signature Licks on MetalForge
 
@@ -115,4 +121,4 @@ Full breakdown: [Nick Menza's pedal setup](https://metalforge.io/pedals/setups/n
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*

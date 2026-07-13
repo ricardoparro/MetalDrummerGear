@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/igor-cavalera"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-13"
 ---
 
 # Igor Cavalera — Drum Kit & Gear Setup
@@ -40,6 +40,8 @@ Igor Cavalera (born September 4, 1970), also known as Iggor Cavalera, is a Brazi
 Igor Cavalera (born September 4, 1970, in Belo Horizonte, Brazil) is a Brazilian drummer, DJ, and producer who co-founded the legendary thrash metal band Sepultura in 1984 alongside his brother Max Cavalera. One of the most influential drummers in metal history, Igor pioneered the fusion of Brazilian tribal percussion with extreme metal.
 
 His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped define the sound of groove metal and nu-metal. After leaving Sepultura in 2006, Igor reunited with Max in Cavalera Conspiracy and expanded into electronic music with Mixhell. His influence can be heard in countless bands that followed.
+
+**September 4, 2026** marks Igor Cavalera's 56th birthday. Fans continue to celebrate the anniversary by revisiting his tribal-metal legacy across Sepultura's "Arise," "Chaos A.D.," and "Roots," a body of work that remains foundational to groove metal.
 
 ## Band History
 
@@ -115,4 +117,4 @@ Full breakdown: [Igor Cavalera's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*

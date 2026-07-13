@@ -7656,7 +7656,7 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
     keywords: ['thrash metal', 'megadeth', 'big four', 'rust in peace', 'tama swingstar', 'pearl drums', 'nick menza drum kit'],
     relatedDrummers: ['dirk-verbeuren', 'charlie-benante', 'gene-hoglan'],
     summary: 'Nick Menza (1964-2016), Megadeth\'s drummer from 1989-1998, powered Rust in Peace and Countdown to Extinction with surgical double-bass precision.',
-    lastUpdated: '2026-07-08',
+    lastUpdated: '2026-07-13',
     imageAlt: 'Nick Menza performing live with Megadeth during the Rust in Peace era',
     schemaType: 'Person',
     sections: {
@@ -7664,7 +7664,9 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
         title: 'Overview',
         content: `Nick Menza (July 23, 1964 – May 21, 2016) was an American drummer best known as Megadeth's drummer from 1989 to 1998, the period that produced the band's most celebrated albums: Rust in Peace (1990), Countdown to Extinction (1992), Youthanasia (1994), and Cryptic Writings (1997). He joined Megadeth initially as a drum technician before stepping into the drum seat, and quickly became a defining voice of Big Four thrash metal.
 
-Menza's playing was distinguished by surgical double-bass precision at 180-200 BPM — clean, articulate kick patterns rather than a blur of raw speed — paired with a sharp, rimshot-heavy snare crack that cut through Megadeth's dense guitar arrangements. He was fired from Megadeth in 1998 following a knee injury, briefly rejoined in 2004, and later drummed for the jazz-metal fusion group OHM. Menza died on May 21, 2016, collapsing on stage at age 51 during an OHM performance in Woodland Hills, California.`
+Menza's playing was distinguished by surgical double-bass precision at 180-200 BPM — clean, articulate kick patterns rather than a blur of raw speed — paired with a sharp, rimshot-heavy snare crack that cut through Megadeth's dense guitar arrangements. He was fired from Megadeth in 1998 following a knee injury, briefly rejoined in 2004, and later drummed for the jazz-metal fusion group OHM. Menza died on May 21, 2016, collapsing on stage at age 51 during an OHM performance in Woodland Hills, California.
+
+**July 23, 2026** marks what would have been Nick Menza's 62nd birthday. Fans continue to celebrate the anniversary by revisiting the Megadeth run he anchored from 1989 to 1998 — Rust in Peace through Cryptic Writings — a stretch of records that still defines his legacy in Big Four thrash metal.`
       },
       careerHighlights: {
         title: 'Career Highlights',
@@ -7734,7 +7736,8 @@ Menza's playing was distinguished by surgical double-bass precision at 180-200 B
           'Fired from Megadeth in 1998 following a knee injury',
           'Briefly rejoined Megadeth in 2004 before departing again',
           'Later drummed for OHM, a jazz-metal fusion group',
-          'Collapsed and died on stage during an OHM performance in Woodland Hills, California, on May 21, 2016, at age 51'
+          'Collapsed and died on stage during an OHM performance in Woodland Hills, California, on May 21, 2016, at age 51',
+          'Born July 23, 1964 — July 23, 2026 marks what would have been his 62nd birthday'
         ]
       },
       faq: {
@@ -7744,7 +7747,8 @@ Menza's playing was distinguished by surgical double-bass precision at 180-200 B
           { q: 'What drum kit did Nick Menza use on Rust in Peace?', a: 'Nick Menza played a Tama Swingstar 5-piece kit with poplar shells, Zildjian A Series cymbals, and a DW 5000 double pedal on Rust in Peace.' },
           { q: 'Why did Nick Menza leave Megadeth?', a: 'Nick Menza was fired from Megadeth in 1998 following a knee injury; he briefly rejoined the band in 2004 before departing again.' },
           { q: 'How did Nick Menza die?', a: 'Nick Menza collapsed on stage and passed away on May 21, 2016, at age 51, during a performance with the jazz-metal fusion group OHM.' },
-          { q: 'When did Nick Menza join Megadeth?', a: 'Nick Menza joined Megadeth in 1989, initially working as a drum technician before becoming the band\'s full-time drummer.' }
+          { q: 'When did Nick Menza join Megadeth?', a: 'Nick Menza joined Megadeth in 1989, initially working as a drum technician before becoming the band\'s full-time drummer.' },
+          { q: 'When was Nick Menza born?', a: 'Nick Menza was born on July 23, 1964, and would have turned 62 on July 23, 2026.' }
         ]
       },
       sources: {

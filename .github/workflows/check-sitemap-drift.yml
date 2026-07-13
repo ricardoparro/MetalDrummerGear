@@ -1,0 +1,39 @@
+name: Check Sitemap Drift
+
+# Pre-merge gate (#4276): catch hardcoded drummer-slug arrays in api/sitemap.js
+# that have silently drifted out of sync with the canonical roster. This exact
+# bug class recurred 3+ times in a single audit pass (#4273, #4274, #4275).
+# See scripts/check-sitemap-drift.mjs for how the check works.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, 'claude/**', 'roadie/**', 'ralph/**']
+    paths:
+      - '.github/workflows/check-sitemap-drift.yml'
+      - 'scripts/check-sitemap-drift.mjs'
+      - 'api/sitemap.js'
+      - 'api/drummers/**'
+      - 'packages/frontend/data/**'
+  pull_request:
+    paths:
+      - '.github/workflows/check-sitemap-drift.yml'
+      - 'scripts/check-sitemap-drift.mjs'
+      - 'api/sitemap.js'
+      - 'api/drummers/**'
+      - 'packages/frontend/data/**'
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    name: Check sitemap.js for stale drummer-slug arrays
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Check for hardcoded drummer-slug array drift
+        run: node scripts/check-sitemap-drift.mjs

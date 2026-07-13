@@ -58,6 +58,15 @@ try {
   console.warn('Could not parse drummerComparisons, continuing without an accurate count:', e.message);
 }
 
+// Count live how-to-sound-like guide files for the /llms/guides/ per-drummer surface (#4519)
+const guidesDir = path.join(__dirname, '../public/llms/guides');
+let guideCount = 0;
+try {
+  guideCount = fs.readdirSync(guidesDir).filter((f) => /^how-to-sound-like-.*\.md$/.test(f)).length;
+} catch (e) {
+  console.warn('Could not count how-to-sound-like guide files, continuing without an accurate count:', e.message);
+}
+
 const today = new Date().toISOString().split('T')[0];
 
 function generateSlug(name) {
@@ -91,6 +100,8 @@ This index provides machine-readable links to all content optimized for LLM cons
 | API - Drummers | https://metalforge.io/api/drummers | JSON API endpoint |
 | API - Quotes | https://metalforge.io/api/quotes | Drummer quotes JSON |
 | Bands | https://metalforge.io/llms/bands.md | Band & drummer-history reference (Markdown) |
+| Drummer Style Guides | https://metalforge.io/llms/guides.md | How-to-sound-like style guides for ${guideCount} metal legends + beginner gear guides (Markdown) |
+| Per-Guide Deep Dives | https://metalforge.io/llms/guides/ | Individual how-to-sound-like files — full gear, tuning, technique, and FAQ per drummer (${guideCount} files) |
 
 ---
 
@@ -213,4 +224,4 @@ For data corrections or additions, please visit the website.
 // Write the output
 const outputPath = path.join(__dirname, '../public/llms/index.md');
 fs.writeFileSync(outputPath, output);
-console.log(`✅ Generated llms/index.md with ${drummers.length} drummers`);
+console.log(`✅ Generated llms/index.md with ${drummers.length} drummers, ${guideCount} sound-like guides`);

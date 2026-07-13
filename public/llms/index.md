@@ -31,6 +31,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Signature Licks | https://metalforge.io/llms/licks.md | Signature lick breakdowns overview for 67 drummers (Markdown) |
 | Drummer Comparisons | https://metalforge.io/llms/comparisons.md | Side-by-side drummer gear & style comparisons — all pairs (Markdown) |
 | Per-Pair Comparisons | https://metalforge.io/llms/vs/ | Individual per-pair comparison pages with exact gear data (226 files) |
+| Comparison Q&A Pages | https://metalforge.io/llms/comparisons/ | Structured Q&A-format drummer comparison pages (26 files) |
 | Top-10 Lists | https://metalforge.io/llms/lists.md | Ranked top-10 drummer lists by speed, genre, gear value, and technique (Markdown) |
 | Per-List Deep Dives | https://metalforge.io/llms/lists/ | Individual per-list ranked guides with full rationale, FAQ, and internal links (8 files) |
 | Quick Facts | https://metalforge.io/llms/facts.md | Speed records, gear stats, career milestones, nicknames & technical definitions (Markdown) |

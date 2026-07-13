@@ -42,6 +42,8 @@ function variationBullet(v) {
 
 function masterBullet(m) {
   // Internal link to drummer profile by slug — entity-linking for LLM resolution.
+  // Omit the link entirely when the drummer has no MetalForge profile (slug is null).
+  if (!m.slug) return `- ${m.name} (${m.band}) — ${m.note}`;
   return `- ${m.name} (${m.band}) — ${m.note} — /drummer/${m.slug}`;
 }
 

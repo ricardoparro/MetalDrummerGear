@@ -3,7 +3,7 @@
 > Side-by-side gear, technique, and influence comparisons between legendary metal drummers.
 > Optimised for AI crawlers answering "X vs Y drummer" and "who has heavier gear" queries.
 >
-> Last updated: 2026-07-11 · 226 curated comparisons
+> Last updated: 2026-07-13 · 226 curated comparisons
 
 ---
 ## Abe Cunningham vs Dirk Verbeuren
@@ -4743,3 +4743,36 @@ Pantera's Vinnie Paul vs Metallica's Lars Ulrich. Big 4 era rivalry — groove m
 
 [vinnie-paul profile](https://metalforge.io/drummer/vinnie-paul)
 [lars-ulrich profile](https://metalforge.io/drummer/lars-ulrich)
+
+---
+
+## Structured Q&A Format Pages
+
+For a Q&A-style breakdown of select comparisons, see:
+
+- [Art Cruz vs Jay Weinberg — Q&A Comparison](https://metalforge.io/llms/comparisons/art-cruz-vs-jay-weinberg.md)
+- [Bill Ward vs Charlie Benante — Q&A Comparison](https://metalforge.io/llms/comparisons/bill-ward-vs-charlie-benante.md)
+- [Bill Ward vs Mario Duplantier — Q&A Comparison](https://metalforge.io/llms/comparisons/bill-ward-vs-mario-duplantier.md)
+- [Bill Ward vs Matt Greiner — Q&A Comparison](https://metalforge.io/llms/comparisons/bill-ward-vs-matt-greiner.md)
+- [Dave Lombardo vs Chris Adler — Q&A Comparison](https://metalforge.io/llms/comparisons/dave-lombardo-vs-chris-adler.md)
+- [Dirk Verbeuren vs Paul Bostaph — Q&A Comparison](https://metalforge.io/llms/comparisons/dirk-verbeuren-vs-paul-bostaph.md)
+- [Flo Mounier vs George Kollias — Q&A Comparison](https://metalforge.io/llms/comparisons/flo-mounier-vs-george-kollias.md)
+- [Frost vs Daray — Q&A Comparison](https://metalforge.io/llms/comparisons/frost-vs-daray.md)
+- [Frost vs Hellhammer — Q&A Comparison](https://metalforge.io/llms/comparisons/frost-vs-hellhammer.md)
+- [Frost vs Inferno — Q&A Comparison](https://metalforge.io/llms/comparisons/frost-vs-inferno.md)
+- [Frost vs Jaska Raatikainen — Q&A Comparison](https://metalforge.io/llms/comparisons/frost-vs-jaska-raatikainen.md)
+- [Gavin Harrison vs Mike Mangini — Q&A Comparison](https://metalforge.io/llms/comparisons/gavin-harrison-vs-mike-mangini.md)
+- [Gene Hoglan vs Tomas Haake — Q&A Comparison](https://metalforge.io/llms/comparisons/gene-hoglan-vs-tomas-haake.md)
+- [Jaska Raatikainen vs Mario Duplantier — Q&A Comparison](https://metalforge.io/llms/comparisons/jaska-raatikainen-vs-mario-duplantier.md)
+- [Jaska Raatikainen vs Matt Greiner — Q&A Comparison](https://metalforge.io/llms/comparisons/jaska-raatikainen-vs-matt-greiner.md)
+- [Jaska Raatikainen vs Nicko McBrain — Q&A Comparison](https://metalforge.io/llms/comparisons/jaska-raatikainen-vs-nicko-mcbrain.md)
+- [Joey Jordison vs Jay Weinberg — Q&A Comparison](https://metalforge.io/llms/comparisons/joey-jordison-vs-jay-weinberg.md)
+- [Mario Duplantier vs Hellhammer — Q&A Comparison](https://metalforge.io/llms/comparisons/mario-duplantier-vs-hellhammer.md)
+- [Mario Duplantier vs Tomas Haake — Q&A Comparison](https://metalforge.io/llms/comparisons/mario-duplantier-vs-tomas-haake.md)
+- [Martin Axenrot vs Martin Lopez — Q&A Comparison](https://metalforge.io/llms/comparisons/martin-axenrot-vs-martin-lopez.md)
+- [Matt Greiner vs Matt Halpern — Q&A Comparison](https://metalforge.io/llms/comparisons/matt-greiner-vs-matt-halpern.md)
+- [Ray Luzier vs Scott Travis — Q&A Comparison](https://metalforge.io/llms/comparisons/ray-luzier-vs-scott-travis.md)
+- [Scott Travis vs Nicko McBrain — Q&A Comparison](https://metalforge.io/llms/comparisons/scott-travis-vs-nicko-mcbrain.md)
+- [Sean Reinert vs Hannes Grossmann — Q&A Comparison](https://metalforge.io/llms/comparisons/sean-reinert-vs-hannes-grossmann.md)
+- [Shannon Larkin vs Jay Weinberg — Q&A Comparison](https://metalforge.io/llms/comparisons/shannon-larkin-vs-jay-weinberg.md)
+- [Tomas Haake vs Blake Richardson — Q&A Comparison](https://metalforge.io/llms/comparisons/tomas-haake-vs-blake-richardson.md)

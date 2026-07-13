@@ -95,6 +95,17 @@ function renderComparison(c) {
 const comparisonList = Object.values(drummerComparisons);
 comparisonList.sort((a, b) => (a.title || '').localeCompare(b.title || ''));
 
+// Auto-discover hand-authored Q&A-format comparison pages so the hub stays in
+// sync as new batches are added (issues #4219, #4257, #3632, #3186, #2897, #3939).
+const qnaDir = path.join(__dirname, '../public/llms/comparisons');
+const qnaFiles = fs.readdirSync(qnaDir).filter((f) => f.endsWith('.md')).sort();
+const qnaEntries = qnaFiles.map((file) => {
+  const slug = file.replace(/\.md$/, '');
+  const firstLine = fs.readFileSync(path.join(qnaDir, file), 'utf-8').split('\n')[0];
+  const title = firstLine.replace(/^#\s*/, '').replace(/\s*\|\s*MetalForge\s*$/, '').trim();
+  return { slug, title };
+});
+
 const header = [
   '# Metal Drummer Comparisons — MetalForge',
   '',
@@ -109,7 +120,18 @@ const header = [
 
 const body = comparisonList.map(renderComparison).join('\n---\n\n');
 
-const out = header + body;
+const qnaSection = [
+  '---',
+  '',
+  '## Structured Q&A Format Pages',
+  '',
+  'For a Q&A-style breakdown of select comparisons, see:',
+  '',
+  ...qnaEntries.map((e) => `- [${e.title}](https://metalforge.io/llms/comparisons/${e.slug}.md)`),
+  '',
+].join('\n');
+
+const out = header + body + '\n' + qnaSection;
 const outPath = path.join(__dirname, '../public/llms/comparisons.md');
 fs.mkdirSync(path.dirname(outPath), { recursive: true });
 fs.writeFileSync(outPath, out);

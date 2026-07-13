@@ -1,0 +1,37 @@
+name: Check Sitemap Drift
+
+# Pre-merge gate against #4273/#4274/#4275-class drift: a hand-maintained
+# array of drummer slugs in api/sitemap.js is supposed to mirror the full
+# drummer roster (or another canonical data source) but silently falls out
+# of sync whenever the roster grows or new per-drummer content ships
+# elsewhere without a matching sitemap edit. See scripts/check-sitemap-drift.cjs
+# for the rationale and detection logic.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, 'claude/**', 'roadie/**', 'ralph/**']
+    paths:
+      - '.github/workflows/check-sitemap-drift.yml'
+      - 'scripts/check-sitemap-drift.cjs'
+      - 'api/sitemap.js'
+  pull_request:
+    paths:
+      - '.github/workflows/check-sitemap-drift.yml'
+      - 'scripts/check-sitemap-drift.cjs'
+      - 'api/sitemap.js'
+
+permissions:
+  contents: read
+
+jobs:
+  check-sitemap-drift:
+    runs-on: ubuntu-latest
+    name: Check drummer-slug array drift in api/sitemap.js
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Check for stale hardcoded drummer-slug arrays
+        run: node scripts/check-sitemap-drift.cjs

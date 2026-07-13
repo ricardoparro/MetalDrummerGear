@@ -1,6 +1,6 @@
 # Best Drumsticks for Metal — MetalForge
 
-**Guide URL:** https://metalforge.io/guides/best-drum-sticks-for-metal
+**Guide URL:** https://metalforge.io/guides/best-drumsticks-for-metal
 
 ## Who This Guide Is For
 

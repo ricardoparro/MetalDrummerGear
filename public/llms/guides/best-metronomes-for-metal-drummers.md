@@ -88,4 +88,4 @@ A tactile metronome like the Soundbrenner Pulse conveys tempo through vibration 
 
 - [Best In-Ear Monitors for Metal Drummers](https://metalforge.io/guides/best-in-ear-monitors-for-metal-drummers)
 - [Best Drum Modules for Metal](https://metalforge.io/guides/best-drum-modules-for-metal)
-- [Best Drum Sticks for Metal](https://metalforge.io/guides/best-drum-sticks-for-metal)
+- [Best Drumsticks for Metal](https://metalforge.io/guides/best-drumsticks-for-metal)

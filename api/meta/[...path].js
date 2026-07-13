@@ -3003,7 +3003,7 @@ function getMetaForPath(pathname) {
     },
   };
 
-  const gearItemMatch = path.match(/^\/gear\/([a-z0-9-]+)$/);
+  const gearItemMatch = path.match(/^\/gear\/item\/([a-z0-9-]+)$/);
   if (gearItemMatch) {
     const slug = gearItemMatch[1];
     const item = GEAR_ITEM_META[slug];
@@ -3024,19 +3024,31 @@ function getMetaForPath(pathname) {
       return {
         title: `${item.name} — Used by Pro Metal Drummers | ${SITE_NAME}`,
         description: item.description,
-        image: DEFAULT_IMAGE,
+        image: (gearEntry && gearEntry.image) || DEFAULT_IMAGE,
         type: 'website',
-        url: `${BASE_URL}/gear/${slug}`,
+        url: `${BASE_URL}/gear/item/${slug}`,
         ssrDrummerLinks: ssrDrummerLinks && ssrDrummerLinks.length > 0 ? ssrDrummerLinks : null,
-        articleSchema: JSON.stringify({
-          '@context': 'https://schema.org',
-          '@type': 'BreadcrumbList',
-          itemListElement: [
-            { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
-            { '@type': 'ListItem', position: 2, name: 'Gear', item: `${BASE_URL}/gear` },
-            { '@type': 'ListItem', position: 3, name: item.name, item: `${BASE_URL}/gear/${slug}` },
-          ],
-        }),
+        articleSchema: JSON.stringify([
+          {
+            '@context': 'https://schema.org',
+            '@type': 'Product',
+            name: item.name,
+            description: item.description,
+            category: item.category,
+            image: (gearEntry && gearEntry.image) || DEFAULT_IMAGE,
+            brand: { '@type': 'Brand', name: (gearEntry && gearEntry.brand) || item.name.split(' ')[0] },
+            url: `${BASE_URL}/gear/item/${slug}`,
+          },
+          {
+            '@context': 'https://schema.org',
+            '@type': 'BreadcrumbList',
+            itemListElement: [
+              { '@type': 'ListItem', position: 1, name: 'Home', item: BASE_URL },
+              { '@type': 'ListItem', position: 2, name: 'Gear', item: `${BASE_URL}/gear` },
+              { '@type': 'ListItem', position: 3, name: item.name, item: `${BASE_URL}/gear/item/${slug}` },
+            ],
+          },
+        ]),
       };
     }
   }

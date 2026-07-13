@@ -209,6 +209,7 @@ implement_issue() {
   if git diff --name-only origin/main..HEAD 2>/dev/null | grep -q '^\.github/workflows/'; then
     local author
     author=$(gh issue view "$n" --repo "$REPO" --json author --jq '.author.login // ""' 2>/dev/null)
+    author="${author#app/}"
     case "$author" in
       ricardoparro|github-actions*) ;;
       *)

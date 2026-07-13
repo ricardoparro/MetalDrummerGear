@@ -56,11 +56,12 @@ make them compete for the Claude subscription rate limit).
 
 ---
 
-## B. Verifier loops — L1 / L2 / L3 (measure impact, weekly)
+## B. Verifier loops — L1 / L2 / L3 / L4 (measure impact, weekly / biweekly)
 
-These three are the only loops that put an **external, objective verifier** in
-the seat instead of the agent grading itself. Each runs Monday morning, diffs
-against the prior week, and files a single auto-maintained umbrella issue the CEO
+These four are the only loops that put an **external, objective verifier** in
+the seat instead of the agent grading itself. L1–L3 run Monday morning and
+diff against the prior week; L4 runs on the 1st/15th and diffs against the
+prior fortnight. Each files a single auto-maintained umbrella issue the CEO
 Agent reads on its next run.
 
 | Loop | Workflow | Cadence (UTC) | Verifies | Deep dive |
@@ -68,13 +69,13 @@ Agent reads on its next run.
 | **L1 — GSC Watch** | `check-gsc-watched-queries.yml` | Mon `0 8` | Google **organic** position/CTR for every query GSC surfaced in 7 days, diffed vs last week. KPI: indexed pages × organic CTR. | [`gsc-watch-loop.md`](gsc-watch-loop.md) |
 | **L2 — LLM Citation Check** | `check-llm-citations.yml` | Mon `30 7` | Whether `metalforge.io` is **cited by an LLM** (Perplexity) for target queries — body + cited URLs, classified us / competitor / other. KPI: AI citations/week. Needs `PERPLEXITY_API_KEY`. | [`llm-citation-check.md`](llm-citation-check.md) |
 | **L3 — Indexation Health** | `check-indexation.yml` | Mon `0 9` | How many sitemap URLs Google **actually indexes** (GSC URL Inspection API), splitting "crawled–not-indexed" (content-quality signal) from "discovered–not-indexed" (internal-linking signal); flags WoW regressions. | [`indexation-loop.md`](indexation-loop.md) |
+| **L4 — Performance** | `check-performance.yml` | 1st/15th `0 6` | Lighthouse (mobile, simulated throttling) against the **LIVE** site — homepage, a drummer profile, both gear hubs, an album article, a top-10 list. Flags a regression when any URL's score drops >5pts, TBT worsens >20%, or transfer grows >15% vs the previous fortnight. Detects what the CI perf gate (`perf-budget.yml`, prevention on the *build*) can't: CDN/Vercel drift, AdSense/GTM changes, and slow accumulation on *production*. | — |
 
-> **On the "L" numbering:** `L1`/`L2`/`L3` denote *exactly these three verifier
-> loops* — organic, AI-citation, and index coverage. They are **not** a ladder
-> for the whole system; there is no `L4`+ in the codebase. The production and
-> monitoring loops below are named by role, not numbered. (If we ever want a
-> single numbered taxonomy for everything, that's a deliberate future decision —
-> don't infer one from the L1–L3 names.)
+> **On the "L" numbering:** `L1`–`L4` denote *exactly these four verifier
+> loops* — organic, AI-citation, index coverage, and live-site performance.
+> They are **not** a ladder for the whole system; adding another (`L5`+) is
+> still a deliberate future decision, not something to infer from this list.
+> The production and monitoring loops below are named by role, not numbered.
 
 ---
 

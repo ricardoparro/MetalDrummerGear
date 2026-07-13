@@ -1,0 +1,179 @@
+name: Check performance (L4)
+
+# L4 — Performance verifier. Runs Lighthouse (mobile emulation, simulated
+# throttling, performance category) against a fixed list of LIVE production
+# URLs, biweekly. This is the detection counterpart to the CI perf-budget gate
+# (`perf-budget.yml`, #4410), which only tests the build on PRs (prevention).
+# Outputs:
+#   - .agents/seo/perf-snapshot.md (every measured URL, current metrics)
+#   - Umbrella issue `performance-watch` (only when a URL regressed)
+#   - .agents/seo/perf-history/YYYY-MM-DD.json (next run's baseline)
+#
+# No external API key required. Optional TELEGRAM_BOT_TOKEN/TELEGRAM_CHAT_ID
+# for a one-line ping on regression.
+#
+# Specs: .agents/scripts/check-performance.cjs + docs/loops.md
+
+on:
+  workflow_dispatch: {}
+  schedule:
+    # Day 1 and 15 of each month ≈ biweekly, 06:00 UTC.
+    - cron: '0 6 1,15 * *'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: check-performance
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Configure git author
+        run: |
+          git config user.name "Ricardo Parro"
+          git config user.email "ricardo.parro@gmail.com"
+
+      - name: Install Chrome
+        id: setup-chrome
+        run: |
+          npx --yes @puppeteer/browsers install chrome@stable --path "$RUNNER_TEMP/chrome" > /tmp/chrome-install.log
+          cat /tmp/chrome-install.log
+          CHROME_PATH=$(tail -n1 /tmp/chrome-install.log | awk '{print $NF}')
+          echo "chrome-path=$CHROME_PATH" >> "$GITHUB_OUTPUT"
+
+      - name: Sanity — delta-engine self-test
+        run: node .agents/scripts/check-performance.cjs --self-test
+
+      - name: Run Lighthouse crawler
+        env:
+          CHROME_PATH: ${{ steps.setup-chrome.outputs.chrome-path }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          node .agents/scripts/check-performance.cjs \
+            --history-dir .agents/seo/perf-history \
+            --out perf.json
+
+      - name: Render issue body + snapshot
+        run: |
+          node .agents/scripts/render-performance-issue.cjs \
+            --report perf.json \
+            --issue issue-body.md \
+            --snapshot .agents/seo/perf-snapshot.md
+
+      - name: Ensure umbrella label exists
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          gh label create performance-watch \
+            --repo "${{ github.repository }}" \
+            --color 0E8A16 \
+            --description "Auto-managed by check-performance.yml — single umbrella issue per repo" \
+            2>/dev/null || true
+
+      - name: Summarize
+        id: summary
+        run: |
+          ACTIONABLE=$(cat /tmp/performance-actionable-count.txt 2>/dev/null || echo 0)
+          echo "actionable=${ACTIONABLE}" >> "$GITHUB_OUTPUT"
+          node -e '
+            const r = require("./perf.json");
+            const fs = require("fs");
+            fs.appendFileSync(process.env.GITHUB_OUTPUT,
+              `measured=${r.results.length}\nurls_total=${r.urls.length}\n`);
+          '
+
+      - name: Find existing umbrella issue
+        id: existing
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          n=$(gh issue list \
+                --repo "${{ github.repository }}" \
+                --state open \
+                --label performance-watch \
+                --json number,title \
+                --jq '[.[] | select(.title | startswith("Performance watch"))][0].number // ""')
+          echo "number=$n" >> "$GITHUB_OUTPUT"
+
+      - name: Open / update / close umbrella issue
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          ACTIONABLE: ${{ steps.summary.outputs.actionable }}
+          MEASURED: ${{ steps.summary.outputs.measured }}
+          URLS_TOTAL: ${{ steps.summary.outputs.urls_total }}
+          EXISTING: ${{ steps.existing.outputs.number }}
+        run: |
+          set -euo pipefail
+          if [ "$ACTIONABLE" = "0" ]; then
+            if [ -n "$EXISTING" ]; then
+              echo "No regressions — closing issue #$EXISTING."
+              gh issue close "$EXISTING" \
+                --repo "${{ github.repository }}" \
+                --comment "🤖 L4 performance check on $(date -u +%Y-%m-%d): 0 URLs regressed (${MEASURED}/${URLS_TOTAL} measured). Closing."
+            else
+              echo "All clear, no existing issue."
+            fi
+          else
+            TITLE="Performance watch — ${ACTIONABLE} regressed, ${MEASURED}/${URLS_TOTAL} measured"
+            if [ -n "$EXISTING" ]; then
+              echo "Updating #$EXISTING."
+              gh issue edit "$EXISTING" \
+                --repo "${{ github.repository }}" \
+                --title "$TITLE" \
+                --body-file issue-body.md
+              gh issue comment "$EXISTING" \
+                --repo "${{ github.repository }}" \
+                --body "🤖 L4 performance check refreshed $(date -u +%Y-%m-%dT%H:%MZ): ${ACTIONABLE} regressed, ${MEASURED}/${URLS_TOTAL} measured."
+            else
+              echo "Opening new umbrella issue."
+              gh issue create \
+                --repo "${{ github.repository }}" \
+                --title "$TITLE" \
+                --body-file issue-body.md \
+                --label performance-watch \
+                --label seo
+            fi
+          fi
+
+      - name: Commit snapshot + history
+        run: |
+          git add .agents/seo/perf-snapshot.md .agents/seo/perf-history/
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git commit -m "seo: refresh L4 performance snapshot [skip ci]"
+          for attempt in 1 2 3 4; do
+            if git push origin HEAD:${{ github.ref_name }}; then
+              echo "Pushed on attempt $attempt"; break
+            fi
+            echo "Push attempt $attempt failed; sleeping $((attempt * 2))s"
+            sleep $((attempt * 2))
+            git pull --rebase origin ${{ github.ref_name }} || true
+          done
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: performance-${{ github.run_id }}
+          path: |
+            perf.json
+            issue-body.md
+            .agents/seo/perf-snapshot.md
+          retention-days: 90
+          if-no-files-found: ignore

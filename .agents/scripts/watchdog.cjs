@@ -67,6 +67,8 @@ const CRITICAL_WORKFLOWS = [
   { file: 'check-llm-citations.yml', name: 'LLM Citations (L2)', intervalH: 168 },
   { file: 'check-indexation.yml', name: 'Indexation (L3)', intervalH: 168 },
   { file: 'check-structured-data.yml', name: 'Structured Data', intervalH: 168 },
+  // Performance (L4) runs biweekly (day 1 & 15); stale check trips only past 2x+buffer.
+  { file: 'check-performance.yml', name: 'Performance (L4)', intervalH: 336 },
   // Event Scanner runs monthly (day 5); stale check trips only past 2x+buffer.
   { file: 'scan-events.yml', name: 'Event Scanner', intervalH: 720 },
 ];

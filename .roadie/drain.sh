@@ -140,10 +140,15 @@ next_issue() {
     (( ${#claimable[@]} > ROADIE_WORKER_OFFSET + 1 )) && break
   done
   (( ${#claimable[@]} == 0 )) && return 1
-  # This worker takes the issue at its offset; if fewer remain than the offset
-  # (tail of the queue), fall back to the oldest claimable so no worker idles.
+  # This worker takes the issue at its offset. If fewer claimable issues remain
+  # than the offset (tail of the queue), IDLE instead of falling back to the
+  # oldest: that fallback made every worker converge on the same last issue and
+  # ship duplicate PRs that BOTH merged (#4531 + #4532 for #4522 — created 21s
+  # apart, inside the pre-PR dup-guard race window). For identical diffs that's
+  # cosmetic; for content issues it double-lands two different implementations.
+  # A lower-offset worker always covers the tail, so nothing is left behind.
   local idx=$ROADIE_WORKER_OFFSET
-  (( idx >= ${#claimable[@]} )) && idx=0
+  (( idx >= ${#claimable[@]} )) && return 1
   echo "${claimable[$idx]}"; return 0
 }
 

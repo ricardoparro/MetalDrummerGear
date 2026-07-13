@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-13 09:13 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-13 11:01 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,11 +8,11 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 390 |
-| Sessions | 419 |
-| Page views | 626 |
-| Engagement rate | 37.23% |
-| Avg session (s) | 69 |
+| Active users | 391 |
+| Sessions | 421 |
+| Page views | 627 |
+| Engagement rate | 37.05% |
+| Avg session (s) | 68 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
@@ -32,34 +32,36 @@
 | Channel | Sessions | Users |
 | --- | --- | --- |
 | Direct | 243 | 235 |
-| Organic Search | 165 | 145 |
-| Unassigned | 68 | 68 |
+| Organic Search | 167 | 146 |
+| Unassigned | 69 | 68 |
 | Cross-network | 1 | 1 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 4,418 |
-| Clicks | 119 |
-| CTR | 2.69% |
-| Avg position | 8.5 |
+| Impressions | 5,378 |
+| Clicks | 142 |
+| CTR | 2.64% |
+| Avg position | 8.8 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
-| matt garstka drum kit | 9 | 2 | 22.22% | 6.7 |
+| matt garstka drum kit | 13 | 2 | 15.38% | 6.8 |
 | matt greiner drum setup | 15 | 2 | 13.33% | 6.0 |
 | top 10 best metal drummers of all time | 3 | 2 | 66.67% | 4.3 |
-| best death metal drummers | 6 | 1 | 16.67% | 6.8 |
+| best death metal drummers | 7 | 1 | 14.29% | 7.4 |
 | best death metal drummers of all time | 2 | 1 | 50.00% | 6.0 |
-| best metal drummers | 7 | 1 | 14.29% | 13.1 |
-| bill ward drum kit | 42 | 1 | 2.38% | 7.8 |
+| best metal drummers | 10 | 1 | 10.00% | 14.5 |
+| bill ward drum kit | 45 | 1 | 2.22% | 7.8 |
 | bill ward drum setup | 14 | 1 | 7.14% | 7.7 |
 | drum heads for metal | 2 | 1 | 50.00% | 10.0 |
 | eloy casagrande bill ward | 8 | 1 | 12.50% | 8.6 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
-_no significant gaps detected — all queries with traction have decent CTR_
+| Query | Impr | CTR | Pos | Action |
+| --- | --- | --- | --- | --- |
+| mike portnoy drum set | 60 | 1.67% | 11.4 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

@@ -297,6 +297,13 @@ const DRUMMER_META_OVERRIDES = {
     description:
       "See exactly what drums, cymbals, and hardware Shannon Larkin (Godsmack) plays — ddrum Dios Series drum set, Sabian AAX/HHX cymbals, DW 9000 double pedal.",
   },
+  // Issue #4549: "mike portnoy drum set" cluster surged to pos 11.4 / 48 impr /
+  // 1.67% CTR — title/description only said "Drum Kit", never "drum set".
+  'mike-portnoy': {
+    title: `Mike Portnoy Drum Set & Kit Gear | ${SITE_NAME}`,
+    description:
+      "What drum set does Mike Portnoy play? The Dream Theater drummer's Tama Starclassic kit, Melody Master snare, and Sabian HHX cymbal breakdown.",
+  },
 };
 
 // Article data for schema.org Article structured data (Issue #777)

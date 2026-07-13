@@ -5188,6 +5188,12 @@ const DRUMMER_PAGE_META_OVERRIDES = {
     title: 'Brann Dailor Drum Kit & Drum Set — Mastodon Drummer | MetalForge',
     description: "See exactly what drums, cymbals, and hardware Brann Dailor (Mastodon) uses — DW Collector's Series Maple drum kit, Sabian AAX cymbals, and Vater Brann Dailor Signature sticks.",
   },
+  // Issue #4549: "mike portnoy drum set" cluster surged to pos 11-15, 1.67% CTR —
+  // title/description only covered "drum kit" phrasing, missing the "drum set" query.
+  'mike-portnoy': {
+    title: 'Mike Portnoy Drum Set & Kit Gear | MetalForge',
+    description: "What drum set does Mike Portnoy play? Dream Theater co-founder's drum kit: Tama Starclassic Maple/Birch, Tama Melody Master signature snare, Sabian HHX cymbals — complete gear breakdown.",
+  },
 };
 
 function updateDocumentMeta(drummer, drummers = [], filters = {}) {

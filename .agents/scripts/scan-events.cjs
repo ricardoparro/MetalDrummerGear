@@ -149,11 +149,14 @@ function l1Standing(ev, gscDir) {
 
 /** Compose the ai-fix issue for one upcoming event. */
 function buildIssue(ev, occ, l1) {
-  const isRefresh = !!ev.pageUrl;
+  // Birthdays are refresh-only BY DESIGN (standalone "happy birthday" pages are
+  // thin content): with no explicit pageUrl they refresh the drummer page.
+  const refreshTarget = ev.pageUrl || (ev.kind === 'birth' ? `/drummer/${ev.subjectSlug}` : null);
+  const isRefresh = !!refreshTarget;
   const strong = l1 && l1.impressions >= 50 && l1.avgPosition !== null && l1.avgPosition <= 15;
   const dateStr = ev.date.slice(5); // MM-DD
   const title = isRefresh
-    ? `event: refresh ${ev.pageUrl} — ${ev.subject} ${ev.kind === 'death-anniversary' ? `${occ.anniversary} anos` : `${occ.anniversary}º aniversário`} (${occ.occurrenceYear}-${dateStr})`
+    ? `event: refresh ${refreshTarget} — ${ev.subject} ${ev.kind === 'death-anniversary' ? `${occ.anniversary} anos` : `${occ.anniversary}º aniversário`} (${occ.occurrenceYear}-${dateStr})`
     : `event: page for ${ev.subject} — ${occ.anniversary}º aniversário de ${ev.kind === 'album-release' ? 'lançamento' : ev.kind} (${occ.occurrenceYear}-${dateStr})`;
   const lines = [];
   lines.push(MARKER(ev.id, occ.occurrenceYear));
@@ -179,7 +182,7 @@ function buildIssue(ev, occ, l1) {
   }
   if (isRefresh) {
     lines.push('## Task: REFRESH (never a new page)');
-    lines.push(`Update **${ev.pageUrl}** under the additive-only protocol:`);
+    lines.push(`Update **${refreshTarget}** under the additive-only protocol:`);
     lines.push('1. URL immutable. 2. Add a new dated section for this year\'s context; update year counts.');
     lines.push('3. **Remove nothing** — the diff must retain ≥95% of the existing characters.');
     lines.push('4. Title: only the year/number may change.');
@@ -223,6 +226,12 @@ function selfTest() {
   eq(iss.body.includes(MARKER('x', 2026)), true, 'dedup marker embedded');
   eq(iss.body.includes('STRONG'), true, 'strong-rankings guard triggers at 191 impr/pos 7.4');
   eq(iss.body.includes('REFRESH'), true, 'pageUrl ⇒ refresh mode');
+  const bday = buildIssue(
+    { id: 'y', subject: 'Nick Menza', subjectSlug: 'nick-menza', kind: 'birth', date: '1964-07-23', queryTokens: ['menza'] },
+    { daysUntil: 10, anniversary: 62, occurrenceYear: 2026 }, null
+  );
+  eq(bday.body.includes('REFRESH'), true, 'birthday ⇒ refresh-only (never a new page)');
+  eq(bday.body.includes('/drummer/nick-menza'), true, 'birthday refresh targets the drummer page');
   console.log(fails === 0 ? 'ALL PASS' : `${fails} FAILED`);
   process.exit(fails === 0 ? 0 : 1);
 }
@@ -268,7 +277,7 @@ async function main() {
   console.log(`[scan-events] done — ${filed} issue(s) ${dryRun ? '(dry-run)' : 'filed'}`);
 }
 
-module.exports = { nextOccurrence, significance, l1Standing, MARKER };
+module.exports = { nextOccurrence, significance, l1Standing, buildIssue, MARKER };
 
 if (require.main === module) {
   if (process.argv.includes('--self-test')) selfTest();

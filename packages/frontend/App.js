@@ -3674,6 +3674,77 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           </View>
         )}
 
+        {/* Signature Items Section — in-production vs discontinued status with
+            current pricing/availability. Written for shopping-guide articles
+            (articleType: 'gear-guide') but previously never rendered, so the
+            page's most differentiated content (real prices, stock status) was
+            invisible to readers and crawlers alike. Issue #4559. */}
+        {list.signatureItems && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>🛒 {list.signatureItems.title}</Text>
+            {(list.signatureItems.items || []).map((item, idx) => (
+              <View key={idx} style={{ marginBottom: 16 }}>
+                <View style={styles.flexRowBetween}>
+                  <Text style={[styles.gearTitle, { color: theme.text }]}>{item.item}</Text>
+                  {item.status && (
+                    <View style={[styles.genreTag, { backgroundColor: theme.primary + '20' }]}>
+                      <Text style={[styles.genreTagText, { color: theme.primary }]}>{item.status}</Text>
+                    </View>
+                  )}
+                </View>
+                {item.description && (
+                  <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 4 }]}>
+                    {item.description}
+                  </Text>
+                )}
+                {(item.priceRange || item.availability) && (
+                  <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 4 }]}>
+                    {item.priceRange && <Text style={{ fontWeight: '600', color: theme.primary }}>{item.priceRange}</Text>}
+                    {item.priceRange && item.availability && '  •  '}
+                    {item.availability}
+                  </Text>
+                )}
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* Where to Buy Section — retailer/marketplace channels for gear-guide
+            articles. Issue #4559. */}
+        {list.whereToBuy && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>📍 {list.whereToBuy.title}</Text>
+            {(list.whereToBuy.channels || []).map((channel, idx) => (
+              <View key={idx} style={{ marginBottom: 16 }}>
+                <Text style={[styles.gearTitle, { color: theme.text }]}>{channel.channel}</Text>
+                <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 4 }]}>
+                  {channel.description}
+                </Text>
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* Modern Alternatives Section — closest current equivalents for
+            discontinued signature items. Issue #4559. */}
+        {list.alternatives && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>🔁 {list.alternatives.title}</Text>
+            {(list.alternatives.items || []).map((alt, idx) => (
+              <View key={idx} style={[styles.specRow, { borderBottomColor: theme.border }]}>
+                <View style={{ flex: 1 }}>
+                  <Text style={[styles.specLabel, { color: theme.text, textAlign: 'left' }]}>{alt.original}</Text>
+                  <Text style={[styles.specValue, { color: theme.primary, textAlign: 'left', marginTop: 4 }]}>→ {alt.alternative}</Text>
+                  <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 4 }]}>{alt.reason}</Text>
+                  {alt.priceRange && (
+                    <Text style={[styles.gearContent, { color: theme.primary, marginTop: 4, fontWeight: '600' }]}>{alt.priceRange}</Text>
+                  )}
+                </View>
+              </View>
+            ))}
+          </View>
+        )}
+
         {/* Recording Techniques Section */}
         {list.recordingTechniques && (
           <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>

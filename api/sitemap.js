@@ -684,6 +684,44 @@ export function buildSitemapXml() {
     { loc: '/llms/birthdays.md', priority: '0.5', changefreq: 'monthly' },
     // Issue #1190: drummer comparison pages as ingestible markdown.
     { loc: '/llms/comparisons.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #4552: per-pair Q&A comparison Markdown files (public/llms/comparisons/<slug>.md).
+    // Distinct from the gear-stat /llms/vs/<slug>.md files below — this is a curated
+    // subset of drummerComparisons rendered in "Q: ... A: ..." format for direct LLM
+    // citation. Hardcoded to match the 26 files actually committed under
+    // public/llms/comparisons/ (no discriminating field exists in drummerComparisons
+    // to derive this subset programmatically).
+    ...([
+      'art-cruz-vs-jay-weinberg',
+      'bill-ward-vs-charlie-benante',
+      'bill-ward-vs-mario-duplantier',
+      'bill-ward-vs-matt-greiner',
+      'dave-lombardo-vs-chris-adler',
+      'dirk-verbeuren-vs-paul-bostaph',
+      'flo-mounier-vs-george-kollias',
+      'frost-vs-daray',
+      'frost-vs-hellhammer',
+      'frost-vs-inferno',
+      'frost-vs-jaska-raatikainen',
+      'gavin-harrison-vs-mike-mangini',
+      'gene-hoglan-vs-tomas-haake',
+      'jaska-raatikainen-vs-mario-duplantier',
+      'jaska-raatikainen-vs-matt-greiner',
+      'jaska-raatikainen-vs-nicko-mcbrain',
+      'joey-jordison-vs-jay-weinberg',
+      'mario-duplantier-vs-hellhammer',
+      'mario-duplantier-vs-tomas-haake',
+      'martin-axenrot-vs-martin-lopez',
+      'matt-greiner-vs-matt-halpern',
+      'ray-luzier-vs-scott-travis',
+      'scott-travis-vs-nicko-mcbrain',
+      'sean-reinert-vs-hannes-grossmann',
+      'shannon-larkin-vs-jay-weinberg',
+      'tomas-haake-vs-blake-richardson',
+    ].map(slug => ({
+      loc: `/llms/comparisons/${slug}.md`,
+      priority: '0.5',
+      changefreq: 'monthly',
+    }))),
     // Issue #1222: top-10 ranked lists as ingestible markdown for AI citation.
     { loc: '/llms/lists.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1223: quick facts page as ingestible markdown for AI citation.

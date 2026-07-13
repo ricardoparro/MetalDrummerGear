@@ -1962,12 +1962,15 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
     metaTitle: 'Igor Cavalera Drum Kit & Gear Setup — Sepultura Drummer | MetalForge',
     metaDescription: 'Complete biography of Igor Cavalera, legendary Sepultura co-founder who pioneered tribal metal drumming. Explore his revolutionary style, Brazilian percussion fusion, and lasting influence.',
     ogImage: '/images/drummers/igor-cavalera.webp',
+    lastUpdated: '2026-07-13',
     sections: {
       overview: {
         title: 'Overview',
         content: `Igor Cavalera (born September 4, 1970, in Belo Horizonte, Brazil) is a Brazilian drummer, DJ, and producer who co-founded the legendary thrash metal band Sepultura in 1984 alongside his brother Max Cavalera. One of the most influential drummers in metal history, Igor pioneered the fusion of Brazilian tribal percussion with extreme metal.
 
-His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped define the sound of groove metal and nu-metal. After leaving Sepultura in 2006, Igor reunited with Max in Cavalera Conspiracy and expanded into electronic music with Mixhell. His influence can be heard in countless bands that followed.`
+His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped define the sound of groove metal and nu-metal. After leaving Sepultura in 2006, Igor reunited with Max in Cavalera Conspiracy and expanded into electronic music with Mixhell. His influence can be heard in countless bands that followed.
+
+**September 4, 2026** marks Igor Cavalera's 56th birthday. Fans continue to celebrate the anniversary by revisiting his tribal-metal legacy across Sepultura's "Arise," "Chaos A.D.," and "Roots," a body of work that remains foundational to groove metal.`
       },
       careerHighlights: {
         title: 'Career Highlights',
@@ -2051,7 +2054,8 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
           'Has expanded into electronic music as DJ and producer with Mixhell',
           'His wife Laima Leyton is his partner in Mixhell',
           'Toured with Soulwax as their drummer for electronic/rock performances',
-          'Considered one of the most innovative drummers in metal history'
+          'Considered one of the most innovative drummers in metal history',
+          'Born September 4, 1970 — September 4, 2026 marks his 56th birthday'
         ]
       },
       sources: {

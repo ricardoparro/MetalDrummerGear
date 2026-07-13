@@ -682,7 +682,7 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
     keywords: ['nile', 'death metal', 'greek drummer', 'pearl drums', 'blast beats', 'extreme drumming', 'drum educator'],
     relatedDrummers: ['gene-hoglan', 'flo-mounier', 'joey-jordison', 'dave-lombardo'],
     summary: 'George Kollias, Nile drummer since 2004, extreme metal educator known for speed, endurance & Pearl signature gear.',
-    lastUpdated: '2026-02-15',
+    lastUpdated: '2026-07-13',
     imageAlt: 'George Kollias performing extreme blast beats with Nile on his Pearl drum kit',
     schemaType: 'Person',
     sections: {
@@ -690,7 +690,9 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
         title: 'Overview',
         content: `George Kollias (born August 30, 1977, in Korinth, Greece) is a Greek drummer best known as the drummer for American technical death metal band Nile since 2004. He is widely regarded as one of the most technically proficient drummers in extreme metal, known for his incredible speed, stamina, and precision.
 
-Beyond his work with Nile, Kollias is an accomplished drum educator, having released instructional DVDs and teaching at clinics worldwide. His signature products with Pearl Drums and Vic Firth reflect his status as an influential figure in modern extreme metal drumming.`
+Beyond his work with Nile, Kollias is an accomplished drum educator, having released instructional DVDs and teaching at clinics worldwide. His signature products with Pearl Drums and Vic Firth reflect his status as an influential figure in modern extreme metal drumming.
+
+**August 30, 2026** marks George Kollias's 49th birthday. Fans continue to mark the anniversary by revisiting his blast-beat clinics and his run of albums with Nile — a body of work that remains a benchmark for technical death metal drumming.`
       },
       careerHighlights: {
         title: 'Career Highlights',
@@ -771,7 +773,8 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
           'Has maintained peak performance for nearly 20 years with Nile',
           'His gravity blast technique is studied by drummers worldwide',
           'Speaks multiple languages (Greek, English) for international teaching',
-          'Maintains strict practice and physical fitness regimens'
+          'Maintains strict practice and physical fitness regimens',
+          'Born August 30, 1977 — August 30, 2026 marks his 49th birthday'
         ]
       },
       faq: {
@@ -781,7 +784,8 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
           { q: 'How fast can George Kollias play blast beats?', a: 'George can sustain blast beats at 240+ BPM with clarity and precision.' },
           { q: 'Where is George Kollias from?', a: 'George Kollias was born on August 30, 1977, in Korinth, Greece.' },
           { q: 'When did George Kollias join Nile?', a: 'George joined Nile in 2004, replacing Tony Laureano.' },
-          { q: 'Does George Kollias teach drumming?', a: 'Yes, George is an accomplished drum educator with instructional DVDs and worldwide clinics.' }
+          { q: 'Does George Kollias teach drumming?', a: 'Yes, George is an accomplished drum educator with instructional DVDs and worldwide clinics.' },
+          { q: 'When was George Kollias born?', a: 'George Kollias was born on August 30, 1977, and turns 49 on August 30, 2026.' }
         ]
       },
       sources: {

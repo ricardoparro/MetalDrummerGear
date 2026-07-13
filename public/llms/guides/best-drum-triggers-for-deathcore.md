@@ -88,4 +88,4 @@ Because deathcore alternates extreme-speed blast sections with heavy breakdowns 
 
 - [Best Drum Triggers for Metal](https://metalforge.io/guides/best-drum-triggers-for-metal)
 - [Best Bass Drums for Deathcore](https://metalforge.io/guides/best-bass-drums-for-deathcore)
-- [Best Pedals for Deathcore](https://metalforge.io/guides/best-pedals-for-deathcore)
+- [Best Pedals for Deathcore](https://metalforge.io/guides/best-drum-pedals-for-deathcore)

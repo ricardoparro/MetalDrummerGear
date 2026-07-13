@@ -286,7 +286,7 @@ For a complete era-by-era component breakdown, see the [Joey Jordison drum setup
     keywords: ['death metal', 'testament', 'death', 'dethklok', 'atomic clock', 'pearl drums', 'technical drumming'],
     relatedDrummers: ['dave-lombardo', 'joey-jordison', 'george-kollias', 'flo-mounier'],
     summary: 'Gene Hoglan, "The Atomic Clock," legendary death metal drummer known for precision with Death, Testament & Dethklok.',
-    lastUpdated: '2026-02-15',
+    lastUpdated: '2026-07-13',
     imageAlt: 'Gene Hoglan playing drums live with Testament on stage',
     schemaType: 'Person',
     sections: {
@@ -294,7 +294,9 @@ For a complete era-by-era component breakdown, see the [Joey Jordison drum setup
         title: 'Overview',
         content: `Gene Hoglan (born August 31, 1967, in Dallas, Texas) is an American drummer renowned for his work in extreme metal. Nicknamed "The Atomic Clock" for his metronomic precision and "The Human Drum Machine" for his tireless endurance, Hoglan is widely considered one of the most influential and technically proficient drummers in heavy metal history.
 
-Over a career spanning four decades, Hoglan has performed with over 20 major bands including Dark Angel, Death, Testament, Strapping Young Lad, Fear Factory, and the animated band Dethklok. His combination of speed, power, and musicality has set the standard for technical death metal drumming.`
+Over a career spanning four decades, Hoglan has performed with over 20 major bands including Dark Angel, Death, Testament, Strapping Young Lad, Fear Factory, and the animated band Dethklok. His combination of speed, power, and musicality has set the standard for technical death metal drumming.
+
+**August 31, 2026** marks Gene Hoglan's 59th birthday. Fans continue to mark the anniversary by revisiting his work across Dark Angel, Death, Testament, and Dethklok — a body of work that remains a benchmark for technical death metal drumming.`
       },
       careerHighlights: {
         title: 'Career Highlights',
@@ -377,7 +379,8 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
           'Despite his size (over 6 feet tall, heavy build), plays with remarkable finesse',
           'Chuck Schuldiner specifically requested Hoglan for Death\'s most technical albums',
           'His work on "Symbolic" is considered some of the finest drumming in death metal history',
-          'Continues to tour extensively well into his 50s'
+          'Continues to tour extensively well into his 50s',
+          'Born August 31, 1967 — August 31, 2026 marks his 59th birthday'
         ]
       },
       faq: {
@@ -386,7 +389,8 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
           { q: 'Why is Gene Hoglan called "The Atomic Clock"?', a: 'Gene earned this nickname for his metronomic timing precision and inhuman accuracy.' },
           { q: 'What bands has Gene Hoglan played in?', a: 'Gene has played with Death, Testament, Dark Angel, Strapping Young Lad, Dethklok, and Fear Factory.' },
           { q: 'What drums does Gene Hoglan play?', a: 'Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX cymbals.' },
-          { q: 'Was Gene Hoglan in Death?', a: "Yes, Gene drummed on Death's albums \"Individual Thought Patterns\" (1993) and \"Symbolic\" (1995)." }
+          { q: 'Was Gene Hoglan in Death?', a: "Yes, Gene drummed on Death's albums \"Individual Thought Patterns\" (1993) and \"Symbolic\" (1995)." },
+          { q: 'When was Gene Hoglan born?', a: 'Gene Hoglan was born on August 31, 1967, and turns 59 on August 31, 2026.' }
         ]
       },
       sources: {

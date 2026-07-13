@@ -213,9 +213,22 @@ function evalWorkflowFailure(wf, run) {
 /**
  * #3 — Stale scheduled workflow. Alert if the most recent run is older than
  * 2× the expected interval (+ buffer). Lenient by design.
+ *
+ * `workflowCreatedAt`, when known, covers the brand-new-workflow case: a
+ * monthly/biweekly loop just added to CRITICAL_WORKFLOWS has genuinely never
+ * run yet and won't hit its first cron tick for weeks. Without this grace
+ * period, "no runs on record" pages every watchdog cycle from the moment the
+ * workflow file lands until that first tick — a false positive, not a broken
+ * loop. Same 2×interval+buffer leniency as the regular stale check applies,
+ * anchored to the workflow's creation time instead of its last run.
  */
-function evalWorkflowStale(wf, run, now = new Date()) {
+function evalWorkflowStale(wf, run, now = new Date(), workflowCreatedAt = null) {
   if (!run || !run.created_at) {
+    if (workflowCreatedAt) {
+      const ageSinceCreationH = (now.getTime() - new Date(workflowCreatedAt).getTime()) / 3600000;
+      const thresholdH = wf.intervalH * 2 + STALE_BUFFER_H;
+      if (ageSinceCreationH <= thresholdH) return [];
+    }
     return [`${wf.name} (${wf.file}) has no runs on record`];
   }
   const ageH = (now.getTime() - new Date(run.created_at).getTime()) / 3600000;
@@ -261,7 +274,7 @@ function evalSnapshotFreshness(snapshots, now = new Date()) {
  * returns alerts. This is what the fixtures in --self-test exercise.
  *
  * state = {
- *   workflows: [{ wf, run }],
+ *   workflows: [{ wf, run, createdAt }],
  *   roadie: { prsOpened, prsMerged, openAiFix },
  *   snapshots: [{ path, lastCommitIso }],
  *   now: Date,
@@ -270,9 +283,9 @@ function evalSnapshotFreshness(snapshots, now = new Date()) {
 function evaluateAll(state) {
   const now = state.now || new Date();
   const alerts = [];
-  for (const { wf, run } of state.workflows || []) {
+  for (const { wf, run, createdAt } of state.workflows || []) {
     alerts.push(...evalWorkflowFailure(wf, run));
-    alerts.push(...evalWorkflowStale(wf, run, now));
+    alerts.push(...evalWorkflowStale(wf, run, now, createdAt));
   }
   if (state.roadie) {
     alerts.push(...evalRoadieDrought(state.roadie.prsOpened, state.roadie.prsMerged, state.roadie.openAiFix));
@@ -352,6 +365,20 @@ async function latestRun(wf) {
       return null;
     }
     throw e;
+  }
+}
+
+// Only called when latestRun() found nothing, to grace-period a brand-new
+// workflow (see evalWorkflowStale). Same graceful-degrade-on-error shape as
+// latestRun() — a lookup hiccup here should fall back to the old strict
+// behavior, not crash the watchdog.
+async function workflowCreatedAt(wf) {
+  try {
+    const data = await ghRequest('GET', `/repos/${REPO}/actions/workflows/${wf.file}`);
+    return (data && data.created_at) || null;
+  } catch (e) {
+    process.stderr.write(`  ${wf.file}: couldn't fetch workflow metadata (${e.message}), skipping grace period.\n`);
+    return null;
   }
 }
 
@@ -531,6 +558,18 @@ function selfTest() {
   };
   check('stale workflow → 1 alert', evalWorkflowStale(wf, staleRun, now).length, 1);
 
+  // Fixture C2: a brand-new workflow with zero runs is exempt from "no runs
+  // on record" while still inside its own 2×interval+buffer grace window
+  // since creation (the check-performance.yml/scan-events.yml case: added
+  // today, next cron tick weeks away).
+  check('brand-new workflow inside grace window → 0 alerts',
+    evalWorkflowStale(wf, null, now, new Date(now.getTime() - 1 * 3600000).toISOString()).length, 0);
+
+  // Fixture C3: same zero-run workflow, but past its own grace window since
+  // creation → still alerts (cron may genuinely be broken).
+  check('workflow with no runs past grace window → 1 alert',
+    evalWorkflowStale(wf, null, now, new Date(now.getTime() - 100 * 3600000).toISOString()).length, 1);
+
   // Fixture D: 0-PR + backlog>0 → the drought alert (the exact stall we hit).
   check('0 PRs + backlog 12 → drought alert', evalRoadieDrought(0, 0, 12).length, 1);
   check('0 PRs + empty backlog → no alert', evalRoadieDrought(0, 0, 0).length, 0);
@@ -583,7 +622,8 @@ async function run({ dryRun }) {
   const workflows = [];
   for (const wf of CRITICAL_WORKFLOWS) {
     const runObj = await latestRun(wf);
-    workflows.push({ wf, run: runObj });
+    const createdAt = runObj ? null : await workflowCreatedAt(wf);
+    workflows.push({ wf, run: runObj, createdAt });
   }
   const roadie = await collectRoadie();
   process.stderr.write(`  Roadie 24h: ${roadie.prsOpened} roadie/* PRs opened · ${roadie.prsMerged} merged · ${roadie.openAiFix} ai-fix open\n`);

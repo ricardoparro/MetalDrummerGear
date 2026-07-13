@@ -24,6 +24,10 @@
 - [Techniques Overview](/llms/techniques.md): Metal drumming techniques explained
 - [Per-Technique Guides](/llms/technique/): Blast beat, double bass, gravity blast, polyrhythms + 6 more
 
+## Genres
+
+- [Genre Guides](/llms/genres/): Per-genre drumming guides covering featured drummers, techniques, gear, and FAQ — thrash, death, black, progressive, nu-metal, groove, metalcore, hardcore, technical-death (9 files)
+
 ## Bands & Comparisons
 
 - [Metal Bands](/llms/bands.md): 19 curated bands with drummer lineups and gear

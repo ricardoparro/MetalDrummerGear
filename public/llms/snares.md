@@ -2,7 +2,7 @@
 
 This page indexes every verified snare catalogued in MetalForge's snares database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-07-11 · Source: https://metalforge.io
+> Last Updated: 2026-07-13 · Source: https://metalforge.io
 
 For shell material, size, and tuning reference pages see [https://metalforge.io/snares](https://metalforge.io/snares). For a buying guide anchored on the verified signature snares see [https://metalforge.io/snares/best-for-metal](https://metalforge.io/snares/best-for-metal).
 
@@ -64,6 +64,21 @@ For shell material, size, and tuning reference pages see [https://metalforge.io/
 - Nick Menza — [Tama Steel Snare 14x5.5"](https://metalforge.io/drummer/nick-menza)
 - Adrian Erlandsson — [Tama Starclassic Bubinga 14x6.5"](https://metalforge.io/drummer/adrian-erlandsson)
 - Jon Dette — [14x6.5" Metal or Maple Snare](https://metalforge.io/drummer/jon-dette)
+
+## Signature Snare Markdown Files (10)
+
+Per-drummer "what snare does X use" markdown files for the 10 drummers with a confirmed signature snare model — full specs, direct answer, and FAQ.
+
+- Lars Ulrich — [Tama LU1465 Lars Ulrich Signature 14x6.5"](https://metalforge.io/llms/snares/signature/lars-ulrich.md)
+- Joey Jordison — [Pearl Joey Jordison Signature 13x6.5"](https://metalforge.io/llms/snares/signature/joey-jordison.md)
+- Tomas Haake — [Sonor Tomas Haake Signature 14x6.5" & Artist Series Bronze](https://metalforge.io/llms/snares/signature/tomas-haake.md)
+- George Kollias — [Pearl George Kollias Signature 14x6.5"](https://metalforge.io/llms/snares/signature/george-kollias.md)
+- Chris Adler — [Mapex Chris Adler Signature 14x5.5" Walnut/Maple](https://metalforge.io/llms/snares/signature/chris-adler.md)
+- Nicko McBrain — [Sonor Nicko McBrain Signature 14x6.5"](https://metalforge.io/llms/snares/signature/nicko-mcbrain.md)
+- Scott Travis — [ddrum Scott Travis Signature 14x6.5"](https://metalforge.io/llms/snares/signature/scott-travis.md)
+- Mikkey Dee — [Yamaha Mikkey Dee Signature 14x8"](https://metalforge.io/llms/snares/signature/mikkey-dee.md)
+- Gavin Harrison — [Sonor Gavin Harrison Signature 12x5" & 14x5.25"](https://metalforge.io/llms/snares/signature/gavin-harrison.md)
+- Daniel Erlandsson — [Pearl Daniel Erlandsson Signature 14x5.5"](https://metalforge.io/llms/snares/signature/daniel-erlandsson.md)
 
 ---
 

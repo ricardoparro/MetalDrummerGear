@@ -68,6 +68,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Pedal Reference Guides | https://metalforge.io/llms/pedals/ | Drive-types, single-vs-double, and setup-tuning reference guides for bass drum pedals (3 files) |
 | Per-Brand Pedal Guides | https://metalforge.io/llms/pedals/brands/ | Pedal-specific brand guides for Tama, Pearl, DW, Axis, and Trick (5 files) |
 | Per-Drummer Pedal Setups | https://metalforge.io/llms/pedals/setups/ | Individual verified bass drum pedal setup pages for 56 metal drummers (56 files) |
+| Per-Drummer Signature Snares | https://metalforge.io/llms/snares/signature/ | Individual "what snare does X use" markdown pages for the 10 drummers with a verified signature snare (10 files) |
 
 ---
 

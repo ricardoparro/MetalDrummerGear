@@ -201,6 +201,25 @@ implement_issue() {
     DONE_NOOP+=("$n"); CONSEC_FAIL=$((CONSEC_FAIL+1)); return
   fi
 
+  # Workflow-edit guard: the checkout token may be ROADIE_PAT (workflow scope),
+  # so pushes CAN change .github/workflows/**. The repo is PUBLIC and Roadie
+  # drains any open issue — without this gate, a stranger's issue could steer
+  # Roadie into editing CI to exfiltrate secrets. Only ship workflow-touching
+  # diffs when the issue was filed by the founder or our own agents.
+  if git diff --name-only origin/main..HEAD 2>/dev/null | grep -q '^\.github/workflows/'; then
+    local author
+    author=$(gh issue view "$n" --repo "$REPO" --json author --jq '.author.login // ""' 2>/dev/null)
+    case "$author" in
+      ricardoparro|github-actions*) ;;
+      *)
+        log "#$n edits .github/workflows/** but author '$author' is not trusted — handing to human"
+        gh issue comment "$n" --repo "$REPO" --body "🤖 Roadie stopped: this change edits GitHub Actions workflows, which is only allowed for issues filed by the founder or internal agents. A human must review it." >/dev/null 2>&1 || true
+        gh issue edit "$n" --repo "$REPO" --remove-label in-progress --add-label needs-human >/dev/null 2>&1 || true
+        DONE_HUMAN+=("$n"); return
+        ;;
+    esac
+  fi
+
   # Parallel-fleet dup guard: another worker may have opened a PR for this issue
   # between our claim and now. If so, discard our work rather than open a 2nd PR.
   if open_pr_for "$n"; then

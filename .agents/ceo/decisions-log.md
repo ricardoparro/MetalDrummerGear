@@ -3055,3 +3055,34 @@ Metrics refreshed 19:29 UTC (402 users/435 sessions/647 views 7d; GSC 5,378 impr
 2. Backlog at 1 — far below the 45 floor; keep promoting liberally as fresh proposals land overnight.
 3. Watch for next L1/L2/L3 snapshot refresh (next Monday cadence) — nothing fresh to triage until then.
 4. #4440 (infra dispatcher-exclusion) and human-founder blockers (#875/#529/#526/#525) unchanged — no re-spam.
+
+---
+
+## 2026-07-13 21:19 — Evening pulse: 7 fresh proposals grep-verified and promoted (schema-completeness + LLM-mirror gaps)
+
+### Context (≤3 lines)
+Metrics 21:18 UTC (403 users/436 sessions/647 views 7d; GSC 5,378 impr/142 clicks/2.64% CTR/pos 8.8 — same content-gap row `mike portnoy drum set`, already closed via #4551). Backlog was 0 eligible `ai-fix`, 0 open PRs (#4571 merged since the 20:25 hold). 7 fresh untriaged `seo-proposal` (#4573-4579), all filed 20:31-20:33 UTC.
+
+### Actions taken
+- Reviewed all 7 against live code before promoting (backlog at 0, well below the 45 floor — promote liberally per policy):
+  - **#4573** (`/gear/item/<slug>`, 10 pages, zero SSR schema) — confirmed this is not a duplicate of closed #1381: #1381 fixed the URL shape `/gear/<slug>` (2 segments) in June, but the live route since moved to `/gear/item/<slug>` (3 segments, `App.js:20249`), orphaning that fix. Legit drift, not a re-file.
+  - **#4574** (HowTo schema missing on 278 `/guides/<slug>` genre-gear-guide pages) — confirmed via `api/meta/[...path].js:910-953`: only `Article`+`FAQPage` emitted, while sibling `SOUND_LIKE_GUIDES`/`BEGINNER_GUIDES` branches already call `HowTo` generators. Largest single schema-completeness gap by page count.
+  - **#4575** (`/gear/<brand>/<series>/drummers-using` fallback, ~38 pages, no Product/ItemList/FAQPage) — confirmed sibling branches in the same file already have richer schema; this is the generic fallback that never got upgraded.
+  - **#4576** (`/brands/<slug>`, 18 pages, missing ItemList of using-drummers) — confirmed the 4 category-specific brand-page families (cymbals/drumsticks/snares/pedals) all call `generateBrandSchema()` with ItemList; only the generic hub-of-hubs lacks it.
+  - **#4577/#4578** (`/drumsticks/signature/`, 30 pages / `/snares/signature/`, 10 pages — zero `/llms/*.md` mirrors) — confirmed no `signature/` subdirectory exists under either `public/llms/drumsticks/` or `public/llms/snares/`, no generator script. Same proven pattern as pedals/setups and cymbals/setups (#4518).
+  - **#4579** (9 reference pages across drumsticks/cymbals/snares — zero `/llms/*.md` mirrors) — confirmed only the pedals reference pages are wired into `api/sitemap.js`'s `/llms/` block; the 3 sibling categories' `REFERENCE_PAGE_ORDER` data modules were never mapped.
+- All 7 promoted (`ai-fix` added). No duplicates found via `gh issue list --search` across 7 keyword queries.
+- Founder ideas: inbox empty (confirmed via `.agents/ceo/founder-ideas.md`). GSC content-gap: same row as this morning, already closed by #4551. L1/L3 snapshots unchanged since this morning's 09:12/10:25 UTC generation (next refresh 2026-07-20) — no new data to act on. Atomic-split: no `ai-fix` issue open >3 days (backlog was 0 at run start, all 7 just promoted are 0 days old). Human-founder blockers (#875/#529/#526/#525) unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 7 eligible (#4573-4579 promoted)
+- Org/Sessions/Views (7d): 403/436/647 · GSC: 5,378 impr / 142 clicks / 2.64% CTR / pos 8.8 — flat since 12:52
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 7/7 fresh triaged and promoted, each independently grep-verified against live code (not just trusted). ✅ GSC-gap: none new (existing row already closed). ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 7 — still far below the 45 floor; keep promoting liberally as fresh proposals land overnight.
+2. Watch the schema-completeness batch (#4573-4576) and LLM-mirror batch (#4577-4579) ship; these close out the last known drift gaps in both bug classes across the 4-category gear surface.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — nothing fresh to triage until then.
+4. #4440 (infra dispatcher-exclusion) and human-founder blockers (#875/#529/#526/#525) unchanged — no re-spam.

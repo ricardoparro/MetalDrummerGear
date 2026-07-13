@@ -2,9 +2,15 @@
 
 This page indexes every verified signature or artist-endorsed drumstick model catalogued in MetalForge's drumsticks database — 30 entries, each sourced from a brand or retailer page and cross-referenced to the drummer who plays it.
 
-> Last Updated: 2026-07-11 · Source: https://metalforge.io
+> Last Updated: 2026-07-13 · Source: https://metalforge.io
 
-For sizing, material, and tip-shape reference pages see [/llms/guides.md](https://metalforge.io/llms/guides.md). For the ranked top-10 view see [/llms/lists/metal-drummers-signature-drumstick-models.md](https://metalforge.io/llms/lists/metal-drummers-signature-drumstick-models.md).
+For sizing, material, and tip-shape reference pages see the Reference Guides section below. For the ranked top-10 view see [/llms/lists/metal-drummers-signature-drumstick-models.md](https://metalforge.io/llms/lists/metal-drummers-signature-drumstick-models.md).
+
+## Reference Guides
+
+- [What Do Drumstick Sizes Mean?](https://metalforge.io/llms/drumsticks/sizes.md) — How drumstick sizing works — what the number and letter mean, 5A vs 5B compared, and a typical spec table (7A/5A/3A/5B/2B) anchored to Vic Firth's published specs.
+- [What Are Drumsticks Made Of?](https://metalforge.io/llms/drumsticks/materials.md) — Drumstick materials compared — hickory, maple, oak, and synthetic/specialty options like aluminium-core and carbon-fibre sticks — with a weight/durability/feel trade-off table.
+- [Wood vs Nylon Tips (And Tip Shapes Explained)](https://metalforge.io/llms/drumsticks/tips.md) — Wood vs nylon drumstick tips compared for cymbal sound and durability, plus how round, barrel, acorn/teardrop, and oval tip shapes each change your articulation.
 
 ## All 30 Drumstick Records
 

@@ -2,9 +2,15 @@
 
 This page indexes every verified snare catalogued in MetalForge's snares database — 56 entries, each parsed from the drummer's roster gear record and cross-referenced to their profile.
 
-> Last Updated: 2026-07-11 · Source: https://metalforge.io
+> Last Updated: 2026-07-13 · Source: https://metalforge.io
 
-For shell material, size, and tuning reference pages see [https://metalforge.io/snares](https://metalforge.io/snares). For a buying guide anchored on the verified signature snares see [https://metalforge.io/snares/best-for-metal](https://metalforge.io/snares/best-for-metal).
+For shell material, size, and tuning reference pages see the Reference Guides section below. For a buying guide anchored on the verified signature snares see [https://metalforge.io/snares/best-for-metal](https://metalforge.io/snares/best-for-metal).
+
+## Reference Guides
+
+- [Snare Shells: Steel vs Maple (And Everything In Between)](https://metalforge.io/llms/snares/shells.md) — Steel, brass, bronze, and aluminium metal snare shells vs maple, birch, and walnut wood shells — how each affects crack, cut, and projection, plus cast vs rolled construction.
+- [Snare Drum Sizes: 13 vs 14, and What Depth Actually Changes](https://metalforge.io/llms/snares/sizes.md) — 14x6.5" as the metal workhorse size, 13" (Joey Jordison's signature) and piccolo depths, and how diameter and depth trade off crack against body.
+- [How to Tune a Snare Drum for Metal](https://metalforge.io/llms/snares/tuning-for-metal.md) — High-tension tuning, snare wire tension, and head choice for a tight, cutting metal snare sound — including the dry, clicky "typewriter" tone common in modern metal.
 
 ## All 56 Snare Records
 

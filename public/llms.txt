@@ -73,6 +73,7 @@
 - [Snares Index](/llms/snares.md): All 56 verified drummer snares, linked to their profiles
 - [Snare Brands](https://metalforge.io/snares/brands): Positioning and metal-relevant models for Tama, Pearl, Ludwig, Sonor, Mapex, and DW, plus confirmed drummer usage
 - [Signature Snare Pages](https://metalforge.io/snares/signature/): Per-drummer "what snare does X use" pages for every drummer with a verified signature snare
+- [Per-Drummer Signature Snares](/llms/snares/signature/): 10 per-drummer "what snare does X use" markdown pages, one per drummer with a confirmed signature snare model
 - [Best Snares for Metal](https://metalforge.io/snares/best-for-metal): Why metal favours high-tension metal shells (with wood-shell exceptions), with recommendations anchored on the verified signature snares
 
 ## Pedals

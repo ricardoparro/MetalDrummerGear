@@ -184,6 +184,7 @@ function drummerNameFor(snare) {
 
 // --- Build hub markdown ---
 const count = SNARES.length;
+const SIGNATURE_SNARES = SNARES.filter((snare) => snare.isSignature);
 const lines = [];
 lines.push('# Metal Drummer Snares — Complete List');
 lines.push('');
@@ -211,6 +212,15 @@ for (const snare of SNARES) {
   } else {
     lines.push(`- ${who}${snare.summary}`);
   }
+}
+lines.push('');
+lines.push(`## Signature Snares (${SIGNATURE_SNARES.length})`);
+lines.push('');
+lines.push(`Per-drummer "what snare does X use" markdown pages for every drummer with a confirmed signature snare model:`);
+lines.push('');
+for (const snare of SIGNATURE_SNARES) {
+  const name = drummerNameFor(snare);
+  lines.push(`- ${name ? `${name} — ` : ''}[${snare.summary}](${BASE}/llms/snares/signature/${snare.drummerSlug}.md)`);
 }
 lines.push('');
 lines.push('---');

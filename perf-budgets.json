@@ -1,0 +1,36 @@
+{
+  "_comment": "Perf gate budgets (#4410, phase 3 of epic #4407). Raising these is an explicit, reviewable act — bump the numbers in a PR with a stated reason.",
+  "bundle": {
+    "_comment": "index-*.js + __common-*.js raw byte size, measured right after `bash scripts/build.sh`. Baseline is the post-phase-2 (#4409) actual.",
+    "baselineBytes": {
+      "index": 1801874,
+      "common": 2872258,
+      "total": 4674132
+    },
+    "budgetBytes": 5141545,
+    "warnBytes": 4907839
+  },
+  "homepageRequestGraph": {
+    "_comment": "Chunks the homepage (`/`) is allowed to request, verified against the current build. Two groups: (1) the core entry chunks, and (2) chunks the app deliberately warms via the post-interactive progressive idle-preload queue (App.js `preloadTasks`, issues #537/#708/#719/#753) or homepage widgets (Lick of the Day, Endorsement News). Adding a new chunk here must be an explicit, reviewed decision. Chunks conspicuously ABSENT here on purpose: albumArticles and top10Lists — the two multi-MB chunks issue #4407 removed from eager/preload homepage loading; if either reappears in this list, that's the regression this gate exists to catch.",
+    "allowedChunks": [
+      "index",
+      "__common",
+      "__expo-metro-runtime",
+      "web-vitals",
+      "bands",
+      "genres",
+      "birthdays",
+      "gearComparisons",
+      "extendedBios",
+      "drummerComparisons",
+      "battles",
+      "SoundLikeGuides",
+      "BeginnerGearGuide",
+      "MetalDrummerNameGenerator",
+      "GearSearch",
+      "EndorsementTracker",
+      "SignatureLicks"
+    ],
+    "maxRequestsPerImage": 1
+  }
+}

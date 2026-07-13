@@ -1,0 +1,71 @@
+name: Perf budget gate
+
+# Phase 3 of epic #4407 (#4410): locks in the JS-diet win from #4407-#4409 so
+# bundle weight and the homepage's network request graph can't silently
+# regress again. Runs the real production build, then:
+#   1. Fails if index-*.js + __common-*.js raw size exceeds the budget in
+#      perf-budgets.json (warns within 5% of it).
+#   2. Fails if the homepage (`/`) requests a route chunk outside the
+#      reviewed allow-list in perf-budgets.json, or requests any image more
+#      than once.
+# See scripts/check-perf-budgets.mjs for the harness (static server over
+# dist/ + a real /api/init handler shim + headless chromium).
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, 'claude/**', 'roadie/**', 'ralph/**']
+    paths:
+      - '.github/workflows/perf-budget.yml'
+      - 'scripts/check-perf-budgets.mjs'
+      - 'scripts/build.sh'
+      - 'perf-budgets.json'
+      - 'api/**'
+      - 'packages/frontend/**'
+      - 'package.json'
+      - 'package-lock.json'
+  pull_request:
+    paths:
+      - '.github/workflows/perf-budget.yml'
+      - 'scripts/check-perf-budgets.mjs'
+      - 'scripts/build.sh'
+      - 'perf-budgets.json'
+      - 'api/**'
+      - 'packages/frontend/**'
+      - 'package.json'
+      - 'package-lock.json'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: perf-budget-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  perf-budget:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        # Playwright's browser binaries are installed explicitly in the next
+        # step, on demand — skip its own postinstall download attempt here.
+        env:
+          PLAYWRIGHT_SKIP_BROWSER_DOWNLOAD: '1'
+        run: npm ci --no-audit --no-fund
+
+      - name: Install Playwright Chromium
+        run: npx playwright install --with-deps chromium
+
+      - name: Build production bundle
+        run: bash scripts/build.sh
+
+      - name: Check perf budgets
+        run: node scripts/check-perf-budgets.mjs

@@ -2927,3 +2927,30 @@ Metrics refreshed 23:16 UTC (343 users/382 sessions/606 views 7d; GSC 5,154 impr
 - Blockers unchanged: #4498 (workflows:write, filed 01:37 UTC, 0 comments) · #4440 (infra) · #875/#529/#526/#525 · no re-spam
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, no GSC content-gap; L1/L2/L3 snapshots still dated 2026-07-06, next scheduled run 08:00 UTC today)
 - Next check: 07:00 UTC deep run — re-check L1/L2/L3 freshness and #4506 (no PR yet, ~1h old, not yet concerning)
+
+---
+
+## 2026-07-13 07:04 — Deep run: #4498 resolved by Ricardo, caught a follow-on dispatcher bug before it could re-stall anything, promoted 2 fresh proposals
+
+### Context (≤3 lines)
+Metrics refreshed 07:02 UTC (388 users/418 sessions/610 views 7d; GSC 4,418 impr/119 clicks/2.69% CTR/pos 8.5 — no content-gap rows). Backlog was 5 eligible `ai-fix`, 0 open PRs — but all 5 were the CI-workflow-editing issues stuck on #4498, flagged in the 03:13 hold.
+
+### Actions taken
+- **Confirmed #4498 (workflows:write gap) resolved.** Ricardo tried `workflows: write` directly first (broke Roadie/Night Fleet, PR #4515 reverted it), then landed the real fix: `ROADIE_PAT` as checkout token + a trusted-author gate in `.roadie/drain.sh` restricting `.github/workflows/**` pushes to founder- or agent-filed issues (PR #4516, merged 06:03 UTC). He commented "unblocked" on #4205/#4267/#4276/#4410/#4411.
+- **Caught a live bug in the new gate before it could bite**: `.roadie/drain.sh`'s `case "$author" in ricardoparro|github-actions*)` doesn't match what `gh issue view --json author` actually returns for bot-filed issues today — `app/github-actions`, not `github-actions[bot]`. Verified live against #4205/#4267/#4276 (all bot-filed). Unfixed, the next Roadie pass (due ~9 min out) would've silently re-labeled all 3 `needs-human`, undoing Ricardo's fix. Filed **#4517** (ai-fix, not gated itself) with exact repro + 1-line fix.
+- Did **not** split #4205/#4267/#4276 despite crossing the 72h atomic-split trigger — root cause is a permission/dispatcher bug, not size/ambiguity; splitting wouldn't help and is now moot with #4498+#4517 fixing the actual blocker.
+- Promoted 2 fresh `seo-proposal`s, both grep-verified against live code, neither workflow-touching: **#4513** (4 birthday-refresh commits left `/llms/drummers/*.md` stale for george-kollias/igor-cavalera/gene-hoglan/nick-menza — confirmed via `git log` timestamps + grep for the new birthday text), **#4514** (4 dead `/guides/<stray-slug>` soft-404s from #4148's key rename still linked from 4 llms markdown files — confirmed via curl 200s + grep).
+- Founder ideas: inbox empty. GSC content-gap: none. L1/L2/L3 snapshots still dated 2026-07-06 (7 days stale) — the generating workflows haven't fired for today yet; no fresh data to act on this run.
+
+### State delta
+- ai-fix backlog: 5 → 8 eligible (#4513, #4514, #4517 added; #4205/#4267/#4276/#4410/#4411 now actually unblocked, pending #4517)
+- pending-issues.md: #4498 saga marked resolved, #4517 logged as the watch item
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted. ✅ GSC-gap: none. ✅ Atomic split: evaluated #4205/#4267/#4276 (>72h), correctly held — not a size/ambiguity case. ✅ Decisions logged.
+
+### Next Run
+1. **Watch #4517** — confirm it merges and #4205/#4267/#4276 get a real PR attempt (not another `needs-human`) on the next Roadie pass.
+2. Backlog at 8 — still well below the 45 floor; keep promoting liberally.
+3. L1/L2/L3 snapshots still stale (2026-07-06) — check again at the 13:00 UTC pulse; act on fresh data once available.
+4. #4440 (infra dispatcher-exclusion) unchanged — no new instance this run.

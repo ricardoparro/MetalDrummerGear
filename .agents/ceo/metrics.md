@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-13 05:08 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-13 07:02 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,19 +8,19 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 379 |
-| Sessions | 408 |
-| Page views | 594 |
-| Engagement rate | 28.92% |
-| Avg session (s) | 71 |
+| Active users | 388 |
+| Sessions | 418 |
+| Page views | 610 |
+| Engagement rate | 28.47% |
+| Avg session (s) | 70 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 91 | 64 |
-| /drumsticks | 38 | 33 |
-| /drummer/lars-ulrich | 31 | 33 |
-| /cymbals | 29 | 31 |
+| / | 98 | 68 |
+| /drumsticks | 39 | 34 |
+| /drummer/lars-ulrich | 32 | 34 |
+| /cymbals | 30 | 32 |
 | /drummers | 23 | 3 |
 | /lists/fastest-metal-drummers | 21 | 22 |
 | /drummer/matt-greiner | 13 | 9 |
@@ -31,9 +31,9 @@
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 225 | 217 |
-| Unassigned | 196 | 194 |
-| Organic Search | 160 | 141 |
+| Direct | 234 | 225 |
+| Unassigned | 205 | 202 |
+| Organic Search | 161 | 142 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

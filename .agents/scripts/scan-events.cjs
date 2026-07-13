@@ -268,5 +268,9 @@ async function main() {
   console.log(`[scan-events] done — ${filed} issue(s) ${dryRun ? '(dry-run)' : 'filed'}`);
 }
 
-if (process.argv.includes('--self-test')) selfTest();
-else main().catch((e) => { console.error(`FATAL: ${e.stack || e.message}`); process.exit(1); });
+module.exports = { nextOccurrence, significance, l1Standing, MARKER };
+
+if (require.main === module) {
+  if (process.argv.includes('--self-test')) selfTest();
+  else main().catch((e) => { console.error(`FATAL: ${e.stack || e.message}`); process.exit(1); });
+}

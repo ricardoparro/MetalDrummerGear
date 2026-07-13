@@ -95,6 +95,7 @@ async function collectGitHubData() {
   const openSeoProposal = await ghPaginated(`/repos/${repo}/issues?state=open&labels=seo-proposal`);
   const openHumanFounder = await ghPaginated(`/repos/${repo}/issues?state=open&labels=human-founder`);
   const openBrokenVideo = await ghPaginated(`/repos/${repo}/issues?state=open&labels=broken-video`);
+  const openEventContent = await ghPaginated(`/repos/${repo}/issues?state=open&labels=event-content`);
 
   const closedRecently = await ghPaginated(`/repos/${repo}/issues?state=closed&since=${sinceIso}`);
   const closedIssues = closedRecently.filter(i => !i.pull_request && withinWindow(i.closed_at));
@@ -110,7 +111,7 @@ async function collectGitHubData() {
   const runsInWindow = (workflowRuns?.workflow_runs || []).filter(r => withinWindow(r.created_at));
 
   return {
-    openAiFix, openSeoProposal, openHumanFounder, openBrokenVideo,
+    openAiFix, openSeoProposal, openHumanFounder, openBrokenVideo, openEventContent,
     closedIssues, openPRs, recentlyClosedPRs, commits, runsInWindow,
   };
 }
@@ -219,6 +220,30 @@ function dlt(cur, prev, digits = 0) {
   return ` (${d > 0 ? '+' : '−'}${Math.abs(d).toFixed(digits)})`;
 }
 const pctStr = (x) => `${(x * 100).toFixed(1)}%`;
+
+// ---------------------------------------------------------------------------
+// Event pipeline — upcoming entries from the verified events calendar, with
+// filed-issue status (Event Scanner, scan-events.cjs). Deterministic reuse of
+// the scanner's own date/significance logic so digest and scanner never drift.
+// ---------------------------------------------------------------------------
+const EVENTS_CAL = path.join(REPO_ROOT, '.agents/events-calendar.json');
+function upcomingEvents(gh, horizonDays = 67) {
+  let scanner, cal;
+  try {
+    scanner = require('./scan-events.cjs');
+    cal = JSON.parse(fs.readFileSync(EVENTS_CAL, 'utf8'));
+  } catch { return []; }
+  const out = [];
+  for (const ev of cal.events || []) {
+    const occ = scanner.nextOccurrence(ev, now);
+    if (!occ || occ.daysUntil > horizonDays) continue;
+    if (scanner.significance(ev, occ.anniversary) === null) continue;
+    const marker = scanner.MARKER(ev.id, occ.occurrenceYear);
+    const issue = (gh.openEventContent || []).find((i) => (i.body || '').includes(marker));
+    out.push({ subject: ev.subject, kind: ev.kind, anniversary: occ.anniversary, daysUntil: occ.daysUntil, issue: issue ? issue.number : null });
+  }
+  return out.sort((a, b) => a.daysUntil - b.daysUntil);
+}
 
 function extractDecisionsSince() {
   if (!fs.existsSync(DECISIONS_LOG)) return [];
@@ -343,6 +368,20 @@ function buildMarkdown(gh, metrics, decisions) {
   }
   lines.push('');
 
+  // Event pipeline — content ahead of predictable demand spikes.
+  const events = upcomingEvents(gh);
+  if (events.length) {
+    lines.push(`## 📅 Event pipeline (next 67 days)`);
+    lines.push('');
+    lines.push('| Event | In | Page work |');
+    lines.push('| --- | --- | --- |');
+    for (const e of events) {
+      const kind = e.kind === 'death-anniversary' ? 'anos' : 'º aniversário';
+      lines.push(`| ${e.subject} — ${e.anniversary}${kind === 'anos' ? ' anos' : kind} | ${e.daysUntil}d | ${e.issue ? `#${e.issue} filed` : '_awaiting scanner run_'} |`);
+    }
+    lines.push('');
+  }
+
   const byWorkflow = classifyAgentRuns(gh.runsInWindow);
   if (Object.keys(byWorkflow).length > 0) {
     lines.push(`## 🤖 Agent / workflow runs (last ${WINDOW_HOURS}h)`);
@@ -420,6 +459,15 @@ function buildTelegramText(gh, metrics, fullUrl) {
   if (rev.available) {
     lines.push(`<b>💰 Rev (est, not real)</b>`);
     lines.push(`• ~€${rev.adMo.toFixed(0)}/mo ads @ €${rev.rpm}/1k · ${rev.pctToTarget.toFixed(1)}% to €${rev.target} (${rev.multiple.toFixed(0)}× pv)`);
+    lines.push('');
+  }
+
+  const events = upcomingEvents(gh);
+  if (events.length) {
+    lines.push(`<b>📅 Eventos</b>`);
+    for (const e of events.slice(0, 3)) {
+      lines.push(`• ${esc(e.subject)} — ${e.anniversary} anos em ${e.daysUntil}d ${e.issue ? `(#${e.issue})` : '(por criar)'}`);
+    }
     lines.push('');
   }
 

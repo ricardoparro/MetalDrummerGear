@@ -1,0 +1,44 @@
+# What Cymbals Does Chris Adler Use? Full Setup
+
+**Band:** Lamb of God | **Brand(s):** Meinl
+
+---
+
+## Direct Answer
+
+Chris Adler plays Meinl cymbals: 14" Byzance Dark Hi-Hats, 18" Byzance Dark Crash, 19" Byzance Dark Crash, 21" Byzance Transition Ride, 18" Byzance Extra Dry China.
+
+## Cymbal Breakdown
+
+| Piece | Size | Series | Model |
+|-------|------|--------|-------|
+| Hi-hat | 14" | Byzance | Dark Hi-Hats |
+| Crash | 18" | Byzance | Dark Crash |
+| Crash | 19" | Byzance | Dark Crash |
+| Ride | 21" | Byzance | Transition Ride |
+| China | 18" | Byzance | Extra Dry China |
+
+Verified roster hardware entry: "Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China)." Source: roster gear.cymbals (verified: true; sources on the drummer record).
+
+## Setup Context
+
+- **Hi-hat:** Two cymbals on a stand, played by foot and/or stick — the main timekeeper for tight, fast 16th-note patterns and blast beats.
+- **Crash:** A short, explosive accent on strong beats and fills; metal kits often stack several sizes (e.g. 16"/17"/18") for different accent pitches.
+- **Ride:** The largest, heaviest cymbal in most setups — carries sustained 16th-note "blast-beat" ride patterns and cuts through a dense mix, with the bell used for sharper accents.
+- **China:** An upturned-edge cymbal with a trashy, explosive, dirty accent — a staple for breakdown and chorus hits in metal; sometimes mounted upside down for an even darker tone.
+
+## FAQ
+
+**Q: What cymbals does Chris Adler use?**
+A: Chris Adler plays Meinl cymbals: 14" Byzance Dark Hi-Hats, 18" Byzance Dark Crash, 19" Byzance Dark Crash, 21" Byzance Transition Ride, 18" Byzance Extra Dry China.
+
+## More Resources
+
+- [Full cymbal setup page](https://metalforge.io/cymbals/setups/chris-adler)
+- [Chris Adler's Drummer Profile](https://metalforge.io/drummer/chris-adler)
+- [Cymbals Guide](https://metalforge.io/llms/cymbals.md)
+- [All LLM Resources](https://metalforge.io/llms/index.md)
+
+---
+
+*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*

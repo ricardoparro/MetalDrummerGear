@@ -3767,30 +3767,28 @@ function getMetaForPath(pathname) {
   }
 
   // Issue #1379: /gear/<brand>/<series>/drummers-using (~40 pages)
+  // Issue #4575: added ItemList/Product/FAQPage — this generic fallback previously
+  // emitted only CollectionPage + inline BreadcrumbList, unlike its sibling branches.
   const gearSeriesDrummersMatch = path.match(/^\/gear\/([a-z0-9-]+)\/([a-z0-9-]+)\/drummers-using$/);
   if (gearSeriesDrummersMatch) {
     const [, brandSlug, seriesSlug] = gearSeriesDrummersMatch;
     const slugify = (str) => String(str).toLowerCase().replace(/['"]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
     let brandName = brandSlug;
     let seriesName = seriesSlug;
+    let seriesDrummers = null;
     outer: for (const [brand, seriesObj] of Object.entries(GEAR_INDEX)) {
       if (slugify(brand) !== brandSlug) continue;
-      for (const series of Object.keys(seriesObj)) {
+      for (const [series, drummerList] of Object.entries(seriesObj)) {
         if (slugify(series) === seriesSlug) {
           brandName = brand;
           seriesName = series;
+          seriesDrummers = drummerList;
           break outer;
         }
       }
     }
-    return {
-      title: `${brandName} ${seriesName} — Metal Drummers Who Use This Gear | ${SITE_NAME}`,
-      description: `Discover which professional metal drummers use ${brandName} ${seriesName}. Full list of artists, complete gear setups, and equipment endorsements.`,
-      image: DEFAULT_IMAGE,
-      type: 'website',
-      url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
-      articleSchema: JSON.stringify({
-        '@context': 'https://schema.org',
+    const graph = [
+      {
         '@type': 'CollectionPage',
         name: `Metal Drummers Who Use ${brandName} ${seriesName}`,
         description: `Professional metal drummers who use ${brandName} ${seriesName}`,
@@ -3804,6 +3802,60 @@ function getMetaForPath(pathname) {
             { '@type': 'ListItem', position: 4, name: `${brandName} ${seriesName} Drummers`, item: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using` },
           ],
         },
+      },
+    ];
+    if (Array.isArray(seriesDrummers) && seriesDrummers.length > 0) {
+      const nameList = seriesDrummers.length > 1
+        ? seriesDrummers.slice(0, 8).map(d => d.name).join(', ')
+        : seriesDrummers[0].name;
+      graph.push(
+        {
+          '@type': 'Product',
+          name: `${brandName} ${seriesName}`,
+          brand: { '@type': 'Brand', name: brandName },
+          category: 'Drums & Percussion',
+          description: `${brandName} ${seriesName} — used by ${seriesDrummers.length} professional metal drummers.`,
+          url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+        },
+        {
+          '@type': 'ItemList',
+          name: `Metal Drummers Who Use ${brandName} ${seriesName}`,
+          description: `Professional metal drummers who play ${brandName} ${seriesName}.`,
+          url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+          numberOfItems: seriesDrummers.length,
+          itemListElement: seriesDrummers.map((d, i) => ({
+            '@type': 'ListItem',
+            position: i + 1,
+            name: d.name,
+            url: `${BASE_URL}/drummer/${d.slug}`,
+          })),
+        },
+        {
+          '@type': 'FAQPage',
+          mainEntity: [
+            {
+              '@type': 'Question',
+              name: `Which metal drummers use ${brandName} ${seriesName}?`,
+              acceptedAnswer: { '@type': 'Answer', text: `${seriesDrummers.length} metal drummers in the MetalForge database play ${brandName} ${seriesName}, including ${nameList}.` },
+            },
+            {
+              '@type': 'Question',
+              name: `Is ${brandName} ${seriesName} good for metal drumming?`,
+              acceptedAnswer: { '@type': 'Answer', text: `Yes — ${brandName} ${seriesName} is a proven choice in the metal scene, used by ${seriesDrummers.length} of the drummers we track.` },
+            },
+          ],
+        },
+      );
+    }
+    return {
+      title: `${brandName} ${seriesName} — Metal Drummers Who Use This Gear | ${SITE_NAME}`,
+      description: `Discover which professional metal drummers use ${brandName} ${seriesName}. Full list of artists, complete gear setups, and equipment endorsements.`,
+      image: DEFAULT_IMAGE,
+      type: 'website',
+      url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@graph': graph,
       }),
     };
   }

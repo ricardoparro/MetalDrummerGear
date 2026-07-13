@@ -12,6 +12,12 @@
 
 ---
 
+## 🚨 NEW (2026-07-13 07:00 UTC deep run): Roadie's GITHUB_TOKEN lacks `workflows: write` — every CI-workflow-touching ai-fix issue is permanently stuck
+
+Distinct from the already-known `actions: write` gap below (that one blocks *triggering* workflow runs; this one blocks *creating/editing* `.github/workflows/*.yml` files). Confirmed both `roadie.yml` and `roadie-night-fleet.yml` declare `permissions: {contents: write, issues: write, pull-requests: write}` with no `workflows` scope — GitHub hard-rejects any push touching `.github/workflows/` without it, even to a feature branch. This exactly explains why #4205 (~73h), #4267 (~53h), #4276 (~49h), #4410/#4411 (~22h) — the entire stale tail of the backlog, all requiring a new/edited CI workflow — never got a single PR, while every ordinary content/code issue ships same-day. Filed **#4498** (`human-founder`) with the 2-line fix (add `workflows: write` to both workflows' permission blocks) — no agent token, including the CEO's own, can push this fix itself (same restriction). **Watch:** once Ricardo merges the permission fix, confirm #4205/#4267/#4276/#4410/#4411 get picked up within the normal same-day cadence; if they still stall, the root cause is something else.
+
+---
+
 ## ✅ RESOLVED (2026-07-09 11:05 UTC): meta-shell saga chapter 8 (#4101/#4111) — 22-independent-rewrites revert (PR #4110) fixed it; platform theory was wrong
 
 The 07:09 UTC deploy (first to postdate PR #4110's merge) shipped the revert of the consolidated-regex-to-22-independent-rewrites structural fix. Fresh bot-UA + cache-busting-nonce curls across `/drummer/lars-ulrich`, `/articles/hellhammer-drum-setup`, `/genre/thrash` all returned distinct etags, `x-vercel-cache: MISS`, real per-page titles + JSON-LD, `x-meta-handler: hit-v1` — no longer byte-identical to the homepage shell. Closed **#4111** (human-founder) as moot — Ricardo did not need to touch the Vercel Dashboard after all. Full write-up in `.agents/seo/learned-patterns.md`. Saga closed after 8 chapters over ~5 weeks (#1141 → #4101/#4111). **Standing rule: never re-consolidate the per-route-family `vercel.json` rewrites back into one regex.**

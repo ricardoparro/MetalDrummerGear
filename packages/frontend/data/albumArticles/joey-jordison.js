@@ -2548,6 +2548,128 @@ export const articles = {
       "title": "Rest in Power, #1",
       "content": "Five years on, Joey Jordison's legacy isn't an abstraction — it's a signature snare still shipping from Pearl, a pack of Promark TX515W sticks still on music-store shelves, a wall of Paiste RUDE cymbals still cutting through mixes the way he needed them to. Slipknot's 2026 tributes will bring a new wave of listeners to his playing; the gear linked above is how they can actually study it. Rest in power, #1."
     }
+  },
+  "iowa-anniversary": {
+    "slug": "iowa-anniversary",
+    "drummer": "Joey Jordison",
+    "drummerId": 2,
+    "relatedDrummerSlug": "joey-jordison",
+    "artist": "Slipknot",
+    "albumTitle": "Iowa",
+    "year": 2001,
+    "label": "Roadrunner Records",
+    "genre": "Nu Metal / Death Metal",
+    "isAlbumArticle": true,
+    "articleSection": "Anniversary",
+    "datePublished": "2026-07-13",
+    "dateModified": "2026-07-13",
+    "author": "MetalForge Editorial",
+    "title": "Iowa at 25: The Album That Redefined Extreme Drumming",
+    "description": "Slipknot's Iowa turns 25 on August 28, 2026. A look back at Joey Jordison's drumming on the record — the verified Pearl and Paiste rig, the tracks that still test drummers, and where to find the gear today.",
+    "seoKeywords": [
+      "iowa 25th anniversary",
+      "slipknot iowa anniversary",
+      "iowa album anniversary",
+      "joey jordison iowa",
+      "iowa drum setup",
+      "slipknot iowa 2001",
+      "iowa album drums"
+    ],
+    "ogImage": "/images/drummers/joey-jordison.webp",
+    "intro": {
+      "title": "Iowa Turns 25",
+      "content": "Slipknot released Iowa on August 28, 2001, through Roadrunner Records. The album debuted at #1 on the UK Albums Chart and #3 on the US Billboard 200 — chart positions that made it, and remain among the reasons it's widely cited as one of the heaviest albums ever to top a national albums chart. Twenty-five years later, on August 28, 2026, that record still gets pointed to as a ceiling for how extreme a mainstream metal album can sound.\n\nAt the center of it was Joey Jordison. His drumming across Iowa's 67-minute runtime — blast beats sustained well past 200 BPM, six-tom fills that never lost the plot, a snare tuned to cut through nine instruments at once — is the reason the album still gets studied rather than just remembered. This piece marks the anniversary through that lens: the verified gear Jordison used to make Iowa, and where a drummer can still find it 25 years later.",
+      "keyPoints": [
+        "Released August 28, 2001 on Roadrunner Records",
+        "Debuted #1 on the UK Albums Chart and #3 on the US Billboard 200",
+        "Widely cited among the heaviest albums to ever top a national chart",
+        "Joey Jordison's drumming remains the album's technical benchmark",
+        "25th anniversary lands August 28, 2026"
+      ]
+    },
+    "sections": [
+      {
+        "emoji": "🥁",
+        "title": "The Sound That Set the Bar",
+        "content": "Iowa's drumming was built for extremity from the ground up. Jordison recorded the album on a Pearl Masterworks kit in the now-iconic purple/black fade, running six toms (8\" through 18\") that let his fills move across the whole kit rather than just hammering forward. The signature Pearl 13\" x 6.5\" steel snare gave every stroke a tight, high-pitched crack built specifically to cut through Slipknot's nine-piece wall of guitars, samples, and percussion. Paiste's RUDE and 2002 series cymbals — raw, unlathed, built to survive being hit as hard as Jordison hit them — supplied the crashes and Chinas that punctuate tracks like \"Disasterpiece\" and \"People = Shit.\"\n\nNone of that would matter without the playing behind it. Tracks like \"Metabolic\" and \"Disasterpiece\" sustain blast beats well past 200 BPM for minutes at a time, and \"The Heretic Anthem\" proves the same drummer could groove as hard as he could blast. A quarter century on, that combination of raw speed and musical sense is still the reason Iowa gets assigned as homework for extreme metal drummers.",
+        "keyPoints": [
+          "Pearl Masterworks kit in the purple/black fade, six toms from 8\" to 18\"",
+          "Pearl 13\" x 6.5\" signature snare tuned high and tight for definition",
+          "Paiste RUDE & 2002 series cymbals for crashes, hi-hats, and Chinas",
+          "\"Disasterpiece\" and \"Metabolic\" sustain 200+ BPM blast beats"
+        ]
+      },
+      {
+        "emoji": "🔥",
+        "title": "A Quarter Century of Influence",
+        "content": "Iowa's drum chair has a direct line of succession: Jay Weinberg held it for nine years (2014–2023) after Jordison's 2013 departure, building his own identity on the foundation Jordison poured on records like this one — the two are compared directly in our Joey Jordison vs Jay Weinberg breakdown. The influence runs well past Slipknot's own lineup, too — Sepultura's Eloy Casagrande has cited Jordison's extreme-metal intensity as one of his defining influences.\n\nTwenty-five years after release, Iowa still functions as a reference point rather than a museum piece — the gear is still in production, the tracks are still played live, and the drumming is still the standard extreme metal drummers get measured against."
+      }
+    ],
+    "gearLegacy": {
+      "title": "The Gear Behind Iowa",
+      "content": "Every major piece of Jordison's Iowa rig is documented in detail on MetalForge, and most of it — the signature snare, the signature sticks, the Paiste RUDE lineup — is still in production 25 years later.",
+      "links": [
+        { "href": "/drummer/joey-jordison", "label": "His Complete Kit & Gear Setup", "note": "Full drummer profile: drums, snare, cymbals, hardware, and career timeline" },
+        { "href": "/articles/iowa-drum-setup", "label": "Iowa Drum Setup — Full Breakdown", "note": "Track-by-track gear notes, recording techniques, and the Pearl Masterworks build" },
+        { "href": "/drumsticks/signature/joey-jordison", "label": "Signature Sticks — Promark TX515W", "note": "Limited availability since 2021 — verify stock before buying" },
+        { "href": "/cymbals/setups/joey-jordison", "label": "Cymbal Setup — Paiste RUDE & 2002 Series", "note": "Full per-piece breakdown of the Wild Hi-Hats, Power Crashes, and Wild Chinas" },
+        { "href": "/snares/signature/joey-jordison", "label": "Signature Snare — Pearl 13\" × 6.5\"", "note": "The snare built to cut through Slipknot's nine-piece wall of sound" },
+        { "href": "/articles/joey-jordison-legacy", "label": "Joey Jordison's Legacy: 5 Years On", "note": "The full tribute — kit, sticks, sound, and the drummers carrying it forward" }
+      ]
+    },
+    "relatedLicks": [
+      {
+        "drummerSlug": "joey-jordison",
+        "lickSlug": "joey-jordison-iowa-double-bass",
+        "label": "Watch Joey Jordison's Iowa title-track double-bass breakdown"
+      },
+      {
+        "drummerSlug": "joey-jordison",
+        "lickSlug": "joey-jordison-disasterpiece-chaos",
+        "label": "Watch Joey Jordison's 'Disasterpiece' chaos breakdown"
+      },
+      {
+        "drummerSlug": "joey-jordison",
+        "lickSlug": "joey-jordison-people-snare-pattern",
+        "label": "Watch Joey Jordison's 'People = Shit' snare pattern breakdown"
+      }
+    ],
+    "faq": [
+      {
+        "question": "When was Slipknot's Iowa released?",
+        "answer": "Iowa was released on August 28, 2001, through Roadrunner Records — making August 28, 2026 the album's 25th anniversary."
+      },
+      {
+        "question": "How did Iowa chart?",
+        "answer": "Iowa debuted at #1 on the UK Albums Chart and #3 on the US Billboard 200, and is widely cited as one of the heaviest albums to ever top a national albums chart."
+      },
+      {
+        "question": "Who played drums on Slipknot's Iowa?",
+        "answer": "Joey Jordison played drums on Iowa. His performance across the album — sustained blast beats, six-tom fills, and a signature snare tuned to cut through Slipknot's dense mix — remains one of the most demanding drum performances in mainstream metal."
+      },
+      {
+        "question": "What drum gear did Joey Jordison use on Iowa?",
+        "answer": "Jordison recorded Iowa on a Pearl Masterworks kit (purple/black fade finish) with a Pearl 13\" x 6.5\" signature snare and Paiste RUDE and 2002 series cymbals. The full track-by-track breakdown, including hardware and recording technique, is in our Iowa drum setup article."
+      },
+      {
+        "question": "Is Joey Jordison's Iowa-era gear still available?",
+        "answer": "Yes. The Pearl Joey Jordison Signature snare and Promark TX515W signature sticks remain in production, and the Paiste RUDE cymbal lineup he used is unchanged. The original purple/black fade Pearl Masterworks kit itself is a vintage/collector item found through Reverb and dealers specializing in used drum gear."
+      }
+    ],
+    "relatedAlbums": [
+      "iowa-drum-setup",
+      "whats-in-joey-jordisons-kit",
+      "joey-jordison-drum-setup",
+      "joey-jordison-legacy"
+    ],
+    "relatedDrummers": [
+      10,
+      7
+    ],
+    "conclusion": {
+      "title": "25 Years Later, Still the Standard",
+      "content": "Iowa's 25th anniversary isn't just a nostalgia trigger — it's a reminder that the album's drumming still holds up as a technical and musical benchmark. The gear that made it possible is still largely on the market: a Pearl signature snare still shipping today, Promark TX515W sticks still on store shelves, a wall of Paiste RUDE cymbals unchanged since 2001. For drummers discovering Iowa for the first time in 2026, or returning to it a quarter century on, the links above are where the study starts."
+    }
   }
 };
 export default articles;

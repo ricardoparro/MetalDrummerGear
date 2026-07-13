@@ -169,16 +169,17 @@ export function CymbalSetupPage({
         </Pressable>
       )}
 
-      {setup.relatedArticle && onNavigateToArticle && (
+      {onNavigateToArticle && (setup.relatedArticles || (setup.relatedArticle ? [setup.relatedArticle] : [])).map((relatedArticle) => (
         <Pressable
-          onPress={() => onNavigateToArticle(setup.relatedArticle.slug)}
+          key={relatedArticle.slug}
+          onPress={() => onNavigateToArticle(relatedArticle.slug)}
           style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.card, borderColor: theme.border }]}
           accessibilityRole="link"
-          accessibilityLabel={setup.relatedArticle.label}
+          accessibilityLabel={relatedArticle.label}
         >
-          <Text style={[styles.drummerName, { color: theme.text }]}>🕯️ {setup.relatedArticle.label} →</Text>
+          <Text style={[styles.drummerName, { color: theme.text }]}>🕯️ {relatedArticle.label} →</Text>
         </Pressable>
-      )}
+      ))}
 
       {onBack && (
         <Pressable onPress={onBack} style={[styles.backButton, { backgroundColor: theme.primary }]} accessibilityRole="link">

@@ -161,16 +161,17 @@ export function SignatureStickPage({
         </Pressable>
       )}
 
-      {stick.relatedArticle && onNavigateToArticle && (
+      {onNavigateToArticle && (stick.relatedArticles || (stick.relatedArticle ? [stick.relatedArticle] : [])).map((relatedArticle) => (
         <Pressable
-          onPress={() => onNavigateToArticle(stick.relatedArticle.slug)}
+          key={relatedArticle.slug}
+          onPress={() => onNavigateToArticle(relatedArticle.slug)}
           style={[styles.linkCard, { backgroundColor: theme.cardBg || theme.card, borderColor: theme.border }]}
           accessibilityRole="link"
-          accessibilityLabel={stick.relatedArticle.label}
+          accessibilityLabel={relatedArticle.label}
         >
-          <Text style={[styles.drummerName, { color: theme.text }]}>🕯️ {stick.relatedArticle.label} →</Text>
+          <Text style={[styles.drummerName, { color: theme.text }]}>🕯️ {relatedArticle.label} →</Text>
         </Pressable>
-      )}
+      ))}
 
       {onBack && (
         <Pressable onPress={onBack} style={[styles.backButton, { backgroundColor: theme.primary }]} accessibilityRole="link">

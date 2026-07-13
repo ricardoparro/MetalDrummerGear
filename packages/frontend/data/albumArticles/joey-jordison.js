@@ -2147,7 +2147,7 @@ export const articles = {
     "country": "USA",
     "isAlbumArticle": true,
     "datePublished": "2026-06-20",
-    "dateModified": "2026-06-20",
+    "dateModified": "2026-07-13",
     "author": "MetalForge Editorial",
     "title": "Joey Jordison Signature Gear: What's Available Today & How to Get His Sound",
     "description": "The complete buyer's guide to Joey Jordison signature gear. Which items are still in production, what to look for on the used market, and how to build his Slipknot Iowa setup today.",

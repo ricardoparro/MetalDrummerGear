@@ -333,6 +333,7 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
       genreGuide.whatToLookFor && { id: 'features', label: '⚙️ Features', icon: '⚙️' },
       picks.length > 0 && { id: 'picks', label: '🏆 Pro Picks', icon: '🏆' },
       budgetPicks.length > 0 && { id: 'budget', label: '💰 Budget', icon: '💰' },
+      genreGuide.comparison && { id: 'comparison', label: '⚖️ Compare', icon: '⚖️' },
       genreGuide.faq && { id: 'faq', label: '❓ FAQ', icon: '❓' },
     ].filter(Boolean);
     const resolvedGenreSection = genreSections.some(s => s.id === genreActiveSection)
@@ -468,6 +469,16 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
           </View>
         )}
 
+        {/* Comparison — genre-specific reasoning (e.g. twin-kick vs single-pedal
+            hardware) that previously lived in the data but was never rendered,
+            leaving the page thinner and more template-like than its content. */}
+        {resolvedGenreSection === 'comparison' && genreGuide.comparison && (
+          <View style={[styles.section, { backgroundColor: theme.card }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>{genreGuide.comparison.title}</Text>
+            <Text style={[styles.sectionContent, { color: theme.secondaryText }]}>{genreGuide.comparison.content}</Text>
+          </View>
+        )}
+
         {/* FAQ */}
         {resolvedGenreSection === 'faq' && genreGuide.faq && (
           <View style={[styles.section, { backgroundColor: theme.card }]}>
@@ -486,6 +497,19 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
                   <Text style={[styles.faqAnswer, { color: theme.secondaryText }]}>{item.answer}</Text>
                 )}
               </TouchableOpacity>
+            ))}
+          </View>
+        )}
+
+        {/* Final Verdict — per-pick reasoning, also previously unrendered data */}
+        {genreGuide.verdict?.picks?.length > 0 && (
+          <View style={[styles.section, { backgroundColor: theme.card }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>{genreGuide.verdict.title}</Text>
+            {genreGuide.verdict.picks.map((pick, i) => (
+              <View key={i} style={[styles.keyPointsBox, { backgroundColor: theme.background, borderColor: theme.primary, marginBottom: 12 }]}>
+                <Text style={[styles.keyPointsTitle, { color: theme.text }]}>{pick.category}: {pick.pedal}</Text>
+                <Text style={[styles.keyPoint, { color: theme.secondaryText }]}>{pick.reason}</Text>
+              </View>
             ))}
           </View>
         )}

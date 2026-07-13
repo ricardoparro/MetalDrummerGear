@@ -116,5 +116,5 @@ Evans G1 Clear or Remo Ambassador Clear — both single-ply and unmuffled, maxim
 
 - [Best Drum Kits for Doom Metal](https://metalforge.io/guides/best-drum-kits-for-doom-metal)
 - [Best Cymbals for Doom Metal](https://metalforge.io/guides/best-cymbals-for-doom-metal)
-- [Best Snares for Doom Metal](https://metalforge.io/guides/best-snares-for-doom-metal)
+- [Best Snare Drums for Doom Metal](https://metalforge.io/guides/best-snare-drums-for-doom-metal)
 - [Best Drum Heads for Metal](https://metalforge.io/guides/best-drum-heads-for-metal)

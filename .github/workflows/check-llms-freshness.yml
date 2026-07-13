@@ -1,0 +1,45 @@
+name: Check llms freshness
+
+# Issue #4205: the /public/llms/*.md hub files are generated from source data
+# (api/drummers/index.js, packages/frontend/data/**) by scripts/generate-llms-*.cjs,
+# but nothing ran those generators automatically — committed output could drift
+# from source data with no signal until a human/agent noticed by manual diff.
+# This job regenerates everything and fails loudly if the result doesn't match
+# what's committed. Detection only — it never commits or pushes.
+#
+# scripts/check-llms-freshness.cjs ignores the "Last updated: YYYY-MM-DD"
+# stamp every generator writes (that line changes on every run regardless of
+# real content drift) so this only fails on genuine drift.
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily at 07:30 UTC, right after verify-youtube.yml (07:00 UTC).
+    - cron: '30 7 * * *'
+  pull_request:
+    paths:
+      - '.github/workflows/check-llms-freshness.yml'
+      - 'api/drummers/index.js'
+      - 'packages/frontend/data/**'
+      - 'scripts/generate-llms-*.cjs'
+      - 'scripts/check-llms-freshness.cjs'
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    name: Regenerate public/llms and diff against committed output
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Regenerate public/llms
+        run: npm run generate:llms
+
+      - name: Fail if generated output drifted from committed output
+        run: node scripts/check-llms-freshness.cjs

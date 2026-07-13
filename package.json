@@ -12,7 +12,8 @@
     "backend": "npm run start --workspace=packages/backend",
     "dev": "concurrently \"npm run backend\" \"npm run frontend\"",
     "build": "npm run build --workspace=packages/frontend",
-    "test": "npm run test --workspaces --if-present"
+    "test": "npm run test --workspaces --if-present",
+    "generate:llms": "for f in scripts/generate-llms-*.cjs; do node \"$f\" || exit 1; done"
   },
   "dependencies": {
     "@vercel/edge": "^1.3.1",

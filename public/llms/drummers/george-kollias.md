@@ -6,7 +6,7 @@ country: "Greece"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/george-kollias"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-13"
 ---
 
 # George Kollias — Drum Kit & Gear Setup
@@ -40,6 +40,8 @@ George Kollias, born in 1977, is a Greek drummer known for his extreme speed and
 George Kollias (born August 30, 1977, in Korinth, Greece) is a Greek drummer best known as the drummer for American technical death metal band Nile since 2004. He is widely regarded as one of the most technically proficient drummers in extreme metal, known for his incredible speed, stamina, and precision.
 
 Beyond his work with Nile, Kollias is an accomplished drum educator, having released instructional DVDs and teaching at clinics worldwide. His signature products with Pearl Drums and Vic Firth reflect his status as an influential figure in modern extreme metal drumming.
+
+**August 30, 2026** marks George Kollias's 49th birthday. Fans continue to mark the anniversary by revisiting his blast-beat clinics and his run of albums with Nile — a body of work that remains a benchmark for technical death metal drumming.
 
 ## Band History
 
@@ -83,6 +85,10 @@ A: George joined Nile in 2004, replacing Tony Laureano.
 
 A: Yes, George is an accomplished drum educator with instructional DVDs and worldwide clinics.
 
+**Q: When was George Kollias born?**
+
+A: George Kollias was born on August 30, 1977, and turns 49 on August 30, 2026.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for George Kollias:
@@ -123,4 +129,4 @@ Full breakdown: [George Kollias's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*

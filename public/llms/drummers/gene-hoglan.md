@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/gene-hoglan"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-13"
 ---
 
 # Gene Hoglan — Drum Kit & Gear Setup
@@ -42,6 +42,8 @@ Gene Hoglan, nicknamed "The Atomic Clock" for his precise timing, is one of the 
 Gene Hoglan (born August 31, 1967, in Dallas, Texas) is an American drummer renowned for his work in extreme metal. Nicknamed "The Atomic Clock" for his metronomic precision and "The Human Drum Machine" for his tireless endurance, Hoglan is widely considered one of the most influential and technically proficient drummers in heavy metal history.
 
 Over a career spanning four decades, Hoglan has performed with over 20 major bands including Dark Angel, Death, Testament, Strapping Young Lad, Fear Factory, and the animated band Dethklok. His combination of speed, power, and musicality has set the standard for technical death metal drumming.
+
+**August 31, 2026** marks Gene Hoglan's 59th birthday. Fans continue to mark the anniversary by revisiting his work across Dark Angel, Death, Testament, and Dethklok — a body of work that remains a benchmark for technical death metal drumming.
 
 ## Band History
 
@@ -103,6 +105,10 @@ A: Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX cymbals.
 
 A: Yes, Gene drummed on Death's albums "Individual Thought Patterns" (1993) and "Symbolic" (1995).
 
+**Q: When was Gene Hoglan born?**
+
+A: Gene Hoglan was born on August 31, 1967, and turns 59 on August 31, 2026.
+
 ## Quotes
 
 > "I was always the guy who wanted to be the best. Not the fastest, but the most musical, the most precise."
@@ -157,4 +163,4 @@ Full breakdown: [Gene Hoglan's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*

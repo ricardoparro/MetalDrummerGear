@@ -933,10 +933,10 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
       { slug: 'winery-dogs', period: '2012-present', role: 'Drummer' },
       { slug: 'sons-of-apollo', period: '2017-present', role: 'Drummer' }
     ],
-    metaTitle: 'Mike Portnoy Drum Kit & Gear Setup — Dream Theater Drummer | MetalForge',
-    metaDescription: 'Complete biography of Mike Portnoy, Dream Theater co-founder and progressive metal drumming legend. Explore his 30+ year career, awards, gear, and influence on modern drumming.',
+    metaTitle: 'Mike Portnoy Drum Set & Kit Gear — Dream Theater Drummer | MetalForge',
+    metaDescription: 'Mike Portnoy drum set and drum kit breakdown: Tama Starclassic Maple/Birch shells, cymbals, and hardware behind the Dream Theater co-founder\'s 30+ year progressive metal career. Complete gear guide and biography.',
     ogImage: '/images/drummers/mike-portnoy.webp',
-    keywords: ['dream theater', 'progressive metal', 'tama drums', 'berklee', 'modern drummer hall of fame', 'winery dogs'],
+    keywords: ['dream theater', 'progressive metal', 'tama drums', 'berklee', 'modern drummer hall of fame', 'winery dogs', 'drum set', 'drum kit'],
     relatedDrummers: ['danny-carey', 'tomas-haake', 'mario-duplantier', 'martin-lopez'],
     summary: 'Mike Portnoy, Dream Theater co-founder, prog metal icon with 30+ Modern Drummer awards, returned to DT in 2023.',
     lastUpdated: '2026-02-15',

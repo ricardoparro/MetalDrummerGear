@@ -1,4 +1,5 @@
 name: Health Check
+# CI write-access marker: this line was added by Roadie via ROADIE_PAT (2026-07-13). Safe to remove.
 
 # Runs on a fixed 3-hour cadence (not per-deployment). Triggering on
 # `deployment_status` fired this once per Vercel deploy — 55+ times/day with the

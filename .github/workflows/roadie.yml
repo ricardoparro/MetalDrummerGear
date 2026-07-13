@@ -54,7 +54,12 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
+          # ROADIE_PAT (PAT with repo + workflow scopes) lets Roadie push changes
+          # to .github/workflows/** — the built-in GITHUB_TOKEN can NEVER do that,
+          # no matter what `permissions:` says. Falls back to GITHUB_TOKEN when the
+          # secret isn't set (everything works except workflow-file edits).
+          # drain.sh gates workflow-touching diffs on a trusted issue author.
+          token: ${{ secrets.ROADIE_PAT || secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-node@v4
         with:

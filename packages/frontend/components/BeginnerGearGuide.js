@@ -4,7 +4,7 @@
  * URL: /guides/beginner-metal-drummer-setup
  */
 
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { 
   View, 
   Text, 
@@ -118,6 +118,8 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
   const [notFound, setNotFound] = useState(false);
   const [activeSection, setActiveSection] = useState('intro');
   const [expandedFaq, setExpandedFaq] = useState({});
+  const genreScrollRef = useRef(null);
+  const genreSectionOffsets = useRef({});
 
   useEffect(() => {
     const loadedGuide = getBeginnerGuideBySlug(activeSlug);
@@ -339,8 +341,22 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
       ? genreActiveSection
       : (genreSections[0]?.id || 'intro');
 
+    // Issue #4559: sections used to be conditionally *unmounted* per active tab
+    // (`resolvedGenreSection === 'x' && ...`), so Googlebot's rendered DOM only
+    // ever contained the default 'intro' tab + the always-visible conclusion —
+    // the genre-specific reasoning in whatToLookFor/proRecommendations/faq was
+    // invisible to the crawler. All sections now render stacked; the nav bar
+    // just scrolls to and highlights the corresponding section.
+    const scrollToGenreSection = (id) => {
+      setGenreActiveSection(id);
+      const y = genreSectionOffsets.current[id];
+      if (y != null && genreScrollRef.current) {
+        genreScrollRef.current.scrollTo({ y: Math.max(y - 12, 0), animated: true });
+      }
+    };
+
     return (
-      <ScrollView style={[styles.container, { backgroundColor: theme.background }]} contentContainerStyle={styles.contentContainer}>
+      <ScrollView ref={genreScrollRef} style={[styles.container, { backgroundColor: theme.background }]} contentContainerStyle={styles.contentContainer}>
         <View style={styles.header}>
           <TouchableOpacity onPress={onBack} style={[styles.backButton, { borderColor: theme.border }]}>
             <Text style={[styles.backButtonText, { color: theme.text }]}>← Back to Guides</Text>
@@ -366,13 +382,13 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
           </View>
         </View>
 
-        {/* Section Nav */}
+        {/* Section Nav — scrolls to the section below; all sections are always rendered */}
         <ScrollView horizontal showsHorizontalScrollIndicator={false} style={styles.sectionNav} contentContainerStyle={styles.sectionNavContent}>
           {genreSections.map(section => (
             <TouchableOpacity
               key={section.id}
               style={[styles.sectionNavButton, resolvedGenreSection === section.id && { backgroundColor: theme.primary }, { borderColor: theme.primary }]}
-              onPress={() => setGenreActiveSection(section.id)}
+              onPress={() => scrollToGenreSection(section.id)}
             >
               <Text style={[styles.sectionNavText, { color: resolvedGenreSection === section.id ? '#fff' : theme.primary }]}>
                 {isMobile ? section.icon : section.label}
@@ -382,8 +398,11 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
         </ScrollView>
 
         {/* Intro */}
-        {resolvedGenreSection === 'intro' && genreGuide.intro && (
-          <View style={[styles.section, { backgroundColor: theme.card }]}>
+        {genreGuide.intro && (
+          <View
+            style={[styles.section, { backgroundColor: theme.card }]}
+            onLayout={(e) => { genreSectionOffsets.current.intro = e.nativeEvent.layout.y; }}
+          >
             <Text style={[styles.sectionTitle, { color: theme.text }]}>{genreGuide.intro.title}</Text>
             <Text style={[styles.sectionContent, { color: theme.secondaryText }]}>{genreGuide.intro.content}</Text>
             {genreGuide.intro.keyPoints?.length > 0 && (
@@ -398,8 +417,11 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
         )}
 
         {/* What to Look For */}
-        {resolvedGenreSection === 'features' && genreGuide.whatToLookFor && (
-          <View style={[styles.section, { backgroundColor: theme.card }]}>
+        {genreGuide.whatToLookFor && (
+          <View
+            style={[styles.section, { backgroundColor: theme.card }]}
+            onLayout={(e) => { genreSectionOffsets.current.features = e.nativeEvent.layout.y; }}
+          >
             <Text style={[styles.sectionTitle, { color: theme.text }]}>{genreGuide.whatToLookFor.title}</Text>
             {(genreGuide.whatToLookFor.features || []).map((feature, i) => (
               <View key={i} style={[styles.keyPointsBox, { backgroundColor: theme.background, borderColor: theme.primary, marginBottom: 12 }]}>
@@ -414,8 +436,11 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
         )}
 
         {/* Pro Picks */}
-        {resolvedGenreSection === 'picks' && picks.length > 0 && (
-          <View style={[styles.section, { backgroundColor: theme.card }]}>
+        {picks.length > 0 && (
+          <View
+            style={[styles.section, { backgroundColor: theme.card }]}
+            onLayout={(e) => { genreSectionOffsets.current.picks = e.nativeEvent.layout.y; }}
+          >
             <Text style={[styles.sectionTitle, { color: theme.text }]}>{genreGuide.proRecommendations?.title || 'Top Picks'}</Text>
             {picks.map((pick, i) => (
               <View key={i} style={[styles.kitCard, { backgroundColor: theme.background, borderColor: theme.border, marginBottom: 16 }]}>
@@ -449,8 +474,11 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
         )}
 
         {/* Budget Options */}
-        {resolvedGenreSection === 'budget' && budgetPicks.length > 0 && (
-          <View style={[styles.section, { backgroundColor: theme.card }]}>
+        {budgetPicks.length > 0 && (
+          <View
+            style={[styles.section, { backgroundColor: theme.card }]}
+            onLayout={(e) => { genreSectionOffsets.current.budget = e.nativeEvent.layout.y; }}
+          >
             <Text style={[styles.sectionTitle, { color: theme.text }]}>{genreGuide.budgetOptions?.title || 'Budget Picks'}</Text>
             {genreGuide.budgetOptions?.description && (
               <Text style={[styles.sectionContent, { color: theme.secondaryText, marginBottom: 16 }]}>{genreGuide.budgetOptions.description}</Text>
@@ -468,24 +496,24 @@ export function BeginnerGearGuidePage({ theme, onBack, onSelectDrummer, slug }) 
           </View>
         )}
 
-        {/* FAQ */}
-        {resolvedGenreSection === 'faq' && genreGuide.faq && (
-          <View style={[styles.section, { backgroundColor: theme.card }]}>
+        {/* FAQ — answers always rendered (not gated behind expand-on-click) so
+            the Q&A content is present in the crawled DOM, not just on tap. */}
+        {genreGuide.faq && (
+          <View
+            style={[styles.section, { backgroundColor: theme.card }]}
+            onLayout={(e) => { genreSectionOffsets.current.faq = e.nativeEvent.layout.y; }}
+          >
             <Text style={[styles.sectionTitle, { color: theme.text }]}>Frequently Asked Questions</Text>
             {genreGuide.faq.map((item, index) => (
-              <TouchableOpacity
+              <View
                 key={index}
                 style={[styles.faqItem, { backgroundColor: theme.background, borderColor: theme.border }]}
-                onPress={() => setExpandedFaq(prev => ({ ...prev, [index]: !prev[index] }))}
               >
                 <View style={styles.faqQuestion}>
                   <Text style={[styles.faqQuestionText, { color: theme.text }]}>{item.question}</Text>
-                  <Text style={[styles.faqToggle, { color: theme.primary }]}>{expandedFaq[index] ? '−' : '+'}</Text>
                 </View>
-                {expandedFaq[index] && (
-                  <Text style={[styles.faqAnswer, { color: theme.secondaryText }]}>{item.answer}</Text>
-                )}
-              </TouchableOpacity>
+                <Text style={[styles.faqAnswer, { color: theme.secondaryText }]}>{item.answer}</Text>
+              </View>
             ))}
           </View>
         )}

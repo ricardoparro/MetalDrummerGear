@@ -3754,6 +3754,118 @@ function TopListPage({ theme, onBack, drummers, onSelectDrummer, listSlug }) {
           </View>
         )}
 
+        {/* Signature Items Section (Issue #4559: this buyer's-guide pricing/availability
+            data existed in the data file but was never rendered, leaving gear-guide
+            articles with no content distinct from the drummer profile / kit-breakdown
+            articles they link to) */}
+        {Array.isArray(list.signatureItems?.items) && list.signatureItems.items.length > 0 && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>🛒 {list.signatureItems.title}</Text>
+            {list.signatureItems.items.map((item, idx) => (
+              <View
+                key={idx}
+                style={{ marginBottom: 16, paddingBottom: 16, borderBottomWidth: idx < list.signatureItems.items.length - 1 ? 1 : 0, borderBottomColor: theme.border }}
+              >
+                <View style={styles.flexRowBetween}>
+                  <Text style={[styles.gearTitle, { color: theme.text }]}>{item.item}</Text>
+                  {item.status && (
+                    <View style={[styles.genreTag, { backgroundColor: theme.border }]}>
+                      <Text style={[styles.genreTagText, { color: theme.secondaryText }]}>{item.status}</Text>
+                    </View>
+                  )}
+                </View>
+                <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 8 }]}>{item.description}</Text>
+                {item.priceRange && (
+                  <Text style={[styles.gearContent, { color: theme.primary, marginTop: 8, fontWeight: '600' }]}>
+                    💰 {item.priceRange}
+                  </Text>
+                )}
+                {item.availability && (
+                  <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 4, fontStyle: 'italic' }]}>
+                    📍 {item.availability}
+                  </Text>
+                )}
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* Replica Builder Section */}
+        {list.replicaBuilder && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>🧰 {list.replicaBuilder.title}</Text>
+            {list.replicaBuilder.intro && (
+              <Text style={[styles.bioText, { color: theme.secondaryText }]}>{list.replicaBuilder.intro}</Text>
+            )}
+            {Array.isArray(list.replicaBuilder.budget?.items) && (
+              <View style={{ marginTop: 16 }}>
+                {list.replicaBuilder.budget.items.map((budgetItem, idx) => (
+                  <View key={idx} style={[styles.specRow, { borderBottomColor: theme.border }]}>
+                    <Text style={[styles.specLabel, { color: theme.text }]}>{budgetItem.component}</Text>
+                    <View style={{ flex: 2 }}>
+                      <Text style={[styles.specValue, { color: theme.secondaryText, textAlign: 'left' }]}>
+                        {budgetItem.recommendation}
+                      </Text>
+                      <Text style={[styles.specValue, { color: theme.primary, textAlign: 'left', fontWeight: '600' }]}>
+                        {budgetItem.price}
+                      </Text>
+                    </View>
+                  </View>
+                ))}
+                {list.replicaBuilder.budget?.total && (
+                  <Text style={[styles.gearContent, { color: theme.primary, marginTop: 12, fontWeight: '600' }]}>
+                    Total Budget: {list.replicaBuilder.budget.total}
+                  </Text>
+                )}
+              </View>
+            )}
+            {list.replicaBuilder.pro && (
+              <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 16, fontStyle: 'italic' }]}>
+                {list.replicaBuilder.pro}
+              </Text>
+            )}
+          </View>
+        )}
+
+        {/* Where to Buy Section */}
+        {Array.isArray(list.whereToBuy?.channels) && list.whereToBuy.channels.length > 0 && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>🏬 {list.whereToBuy.title}</Text>
+            {list.whereToBuy.channels.map((channel, idx) => (
+              <View key={idx} style={{ marginBottom: 16 }}>
+                <Text style={[styles.gearTitle, { color: theme.text }]}>{channel.channel}</Text>
+                <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 4 }]}>{channel.description}</Text>
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* Modern Alternatives Section */}
+        {Array.isArray(list.alternatives?.items) && list.alternatives.items.length > 0 && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>🔁 {list.alternatives.title}</Text>
+            {list.alternatives.items.map((alt, idx) => (
+              <View key={idx} style={{ marginBottom: 16 }}>
+                <Text style={[styles.gearTitle, { color: theme.text }]}>{alt.original} → {alt.alternative}</Text>
+                <Text style={[styles.gearContent, { color: theme.secondaryText, marginTop: 4 }]}>{alt.reason}</Text>
+                {alt.priceRange && (
+                  <Text style={[styles.gearContent, { color: theme.primary, marginTop: 4, fontWeight: '600' }]}>
+                    💰 {alt.priceRange}
+                  </Text>
+                )}
+              </View>
+            ))}
+          </View>
+        )}
+
+        {/* Collector's Corner Section */}
+        {list.collectorsCorner && (
+          <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>
+            <Text style={[styles.sectionTitle, { color: theme.text }]}>🕵️ {list.collectorsCorner.title}</Text>
+            <Text style={[styles.bioText, { color: theme.secondaryText }]}>{list.collectorsCorner.content}</Text>
+          </View>
+        )}
+
         {/* Videos Section */}
         {list.videos && list.videos.length > 0 && (
           <View style={[styles.section, { backgroundColor: theme.card, borderColor: theme.border, marginHorizontal: 20 }]}>

@@ -45,6 +45,41 @@ For sizing, material, and tip-shape reference pages see the Reference Guides sec
 - Jason Bittner — [ProMark Jason Bittner Signature 5BX (TX5BXN) (American Hickory, 5BX (between 5B and 2B))](https://metalforge.io/drumsticks/signature/jason-bittner)
 - Adrian Erlandsson — [Vic Firth American Classic Rock Nylon Tip (ROCKN) (Hickory, Rock (larger than 5B))](https://metalforge.io/drumsticks/signature/adrian-erlandsson)
 
+## Per-Drummer Signature Stick Markdown Files (30)
+
+Each drummer below also has a dedicated markdown citation file with full specs, an FAQ, and cross-links — the ingestible counterpart to the live [/drumsticks/signature/](https://metalforge.io/drumsticks/signature/) pages.
+
+- [George Kollias's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/george-kollias.md) — Vic Firth SGK
+- [Charlie Benante's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/charlie-benante.md) — Vic Firth SBEN
+- [Dave Lombardo's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/dave-lombardo.md) — ProMark TX2BXN
+- [Danny Carey's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/danny-carey.md) — Vic Firth SDC
+- [Lars Ulrich's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/lars-ulrich.md) — Ahead Lars Ulrich Signature (LT)
+- [Matt Greiner's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/matt-greiner.md) — Vic Firth SGRE
+- [Nicko McBrain's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/nicko-mcbrain.md) — Vic Firth SNM
+- [Vinnie Paul's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/vinnie-paul.md) — Vic Firth SVP
+- [Mario Duplantier's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/mario-duplantier.md) — Tama HMD
+- [Eloy Casagrande's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/eloy-casagrande.md) — ProMark TXECW
+- [Mike Portnoy's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/mike-portnoy.md) — ProMark TXMP420XW-AG
+- [Chris Adler's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/chris-adler.md) — ProMark TX5AXW
+- [Gene Hoglan's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/gene-hoglan.md) — ProMark Classic Forward 2B (TX2B family)
+- [Tomas Haake's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/tomas-haake.md) — Wincent WTHS
+- [Brann Dailor's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/brann-dailor.md) — Vater 5B Wood Tip
+- [Jay Weinberg's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/jay-weinberg.md) — Vater 908
+- [Matt Halpern's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/matt-halpern.md) — ProMark TXMHW
+- [Dirk Verbeuren's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/dirk-verbeuren.md) — Tama O-DVM2
+- [Inferno's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/inferno.md) — Vic Firth American Classic 2B
+- [Alex Bent's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/alex-bent.md) — Vic Firth American Classic 5B
+- [Matt Garstka's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/matt-garstka.md) — Vic Firth SGAR
+- [Joey Jordison's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/joey-jordison.md) — ProMark TX515W
+- [Aquiles Priester's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/aquiles-priester.md) — ProMark TX419W
+- [Ray Luzier's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/ray-luzier.md) — Vic Firth SRL
+- [Mikkey Dee's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/mikkey-dee.md) — Wincent Mikkey Dee Signature (W-MDS)
+- [Gavin Harrison's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/gavin-harrison.md) — Vic Firth SHAR2
+- [Mike Mangini's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/mike-mangini.md) — Vater Mike Mangini's Wicked Piston (VHMMWP)
+- [Derek Roddy's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/derek-roddy.md) — Vater Player's Design Derek Roddy Model (VHDRW)
+- [Jason Bittner's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/jason-bittner.md) — ProMark Jason Bittner Signature 5BX (TX5BXN)
+- [Adrian Erlandsson's Signature Sticks](https://metalforge.io/llms/drumsticks/signature/adrian-erlandsson.md) — Vic Firth American Classic Rock Nylon Tip (ROCKN)
+
 ---
 
 **More LLM resources:** 

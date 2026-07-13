@@ -58,6 +58,7 @@
 - [Drumstick Brands](https://metalforge.io/drumsticks/brands): Positioning, notable metal-relevant lines, and confirmed drummer usage for 10 major drumstick brands (Vic Firth, Vater, Pro-Mark, Ahead, Zildjian, Los Cabos, Regal Tip, Meinl, Wincent, Tama)
 - [Best Drumsticks for Metal](https://metalforge.io/drumsticks/best-for-metal): Why metal favours heavier 5B/2B, front-weighted, durable sticks, with confirmed signature-stick recommendations
 - [Signature Stick Pages](https://metalforge.io/drumsticks/signature/): Per-drummer "what drumsticks does X use" pages for every drummer with a verified stick mapping
+- [Per-Drummer Signature Stick Markdown Files](/llms/drumsticks/signature/): 30 per-drummer "what drumsticks does X use" markdown pages, one per drummer with a verified signature/endorsed stick
 
 ## Cymbals
 

@@ -364,24 +364,10 @@ for (const d of DRUMMER_GEAR_DATA) {
 // Listing them in the sitemap makes them crawlable, not just discoverable
 // via prose links in llms.txt. Per-drummer slugs mirror the committed files
 // in public/llms/drummers/ (67 profiles).
-const llmsDrummerSlugs = [
-  'abe-cunningham', 'adrian-erlandsson', 'alex-bent', 'aquiles-priester', 'arin-ilejay',
-  'art-cruz', 'ben-koller', 'bill-ward', 'blake-richardson',
-  'brann-dailor', 'charlie-benante', 'chris-adler', 'chris-turner',
-  'daniel-erlandsson', 'danny-carey', 'daray', 'dave-lombardo',
-  'derek-roddy', 'dirk-verbeuren', 'eloy-casagrande', 'flo-mounier',
-  'frost', 'gavin-harrison', 'gene-hoglan', 'george-kollias',
-  'hannes-grossmann', 'hellhammer', 'igor-cavalera', 'inferno',
-  'isaac-lamb', 'jaska-raatikainen', 'jason-bittner', 'jay-weinberg',
-  'jocke-wallgren', 'joey-jordison', 'john-otto', 'jon-dette', 'kevin-talley',
-  'lars-ulrich', 'mario-duplantier', 'martin-axenrot', 'martin-lopez', 'matt-garstka',
-  'matt-greiner', 'matt-halpern', 'mike-mangini', 'mike-portnoy',
-  'mikkey-dee', 'morgan-agren', 'navene-koperweis', 'nick-augusto',
-  'nick-menza', 'nicko-mcbrain', 'paul-bostaph', 'paul-mazurkiewicz', 'pete-sandoval', 'ray-luzier',
-  'raymond-herrera', 'richard-christy', 'ryan-van-poederooyen', 'scott-travis',
-  'sean-reinert', 'shannon-larkin', 'tim-yeung', 'tomas-haake', 'travis-orbin',
-  'vinnie-paul',
-];
+// Issue #4276: derive directly from the `drummers` roster via generateSlug
+// instead of a second hand-maintained duplicate list, so this can never
+// drift out of sync again (#4273 fixed a 61-vs-67 drift here).
+const llmsDrummerSlugs = drummers.map(d => generateSlug(d.name));
 
 const BASE_URL = 'https://metalforge.io';
 
@@ -803,28 +789,14 @@ export function buildSitemapXml() {
     // Issue #1201: per-technique deep-dive Markdown files for AI citation.
     // One file per technique slug mirrors the per-drummer pattern above.
     ...getAllTechniqueSlugs().map(slug => ({ loc: `/llms/technique/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
-    // Issue #1218 / #1244: per-drummer lick Markdown files for AI citation (all 51 drummers).
-    // Issue #1219: added frost + daray (black metal batch).
-    ...([
-      'joey-jordison', 'lars-ulrich', 'dave-lombardo', 'george-kollias', 'tomas-haake',
-      'matt-greiner', 'gene-hoglan', 'pete-sandoval', 'derek-roddy', 'brann-dailor',
-      'mike-portnoy', 'matt-garstka', 'inferno', 'hellhammer', 'bill-ward',
-      'charlie-benante', 'mario-duplantier', 'chris-adler', 'ben-koller', 'flo-mounier',
-      'abe-cunningham', 'alex-bent', 'aquiles-priester', 'arin-ilejay', 'art-cruz',
-      'blake-richardson', 'daniel-erlandsson', 'danny-carey', 'dirk-verbeuren', 'eloy-casagrande',
-      'gavin-harrison', 'hannes-grossmann', 'igor-cavalera', 'jaska-raatikainen', 'jason-bittner',
-      'jay-weinberg', 'martin-lopez', 'matt-halpern', 'mike-mangini', 'mikkey-dee',
-      'navene-koperweis', 'nicko-mcbrain', 'paul-bostaph', 'paul-mazurkiewicz', 'ray-luzier',
-      'raymond-herrera', 'richard-christy', 'scott-travis', 'shannon-larkin', 'travis-orbin',
-      'vinnie-paul', 'frost', 'daray',
-      // Issue #1248: Chris Turner + Isaac Lamb (100% lick coverage).
-      'chris-turner', 'isaac-lamb',
-      // Issue #1702: Batch 3 — remaining 8 drummers added after 100% lick milestone.
-      'jocke-wallgren', 'john-otto', 'jon-dette', 'kevin-talley',
-      'morgan-agren', 'nick-augusto', 'ryan-van-poederooyen', 'tim-yeung',
-      // Issue #4275: closes final 4-drummer gap — 100% lick sitemap coverage.
-      'adrian-erlandsson', 'martin-axenrot', 'nick-menza', 'sean-reinert',
-    ].map(slug => ({ loc: `/llms/licks/${slug}.md`, priority: '0.5', changefreq: 'monthly' }))),
+    // Issue #1218 / #1244 / #1219 / #1248 / #1702 / #4275: per-drummer lick
+    // Markdown files for AI citation, one per drummer with signature-lick
+    // coverage.
+    // Issue #4276: derive from drummerLicksHubs (already sourced from
+    // SIGNATURE_LICKS above) instead of a second hand-maintained duplicate
+    // list, so this can never drift out of sync again (#4275 fixed a
+    // 63-vs-67 drift here).
+    ...drummerLicksHubs.map(h => ({ loc: `/llms/licks/${h.drummerSlug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Issue #1271: per-series LLM Markdown files for AI citation.
     // Slugs derived from GEAR_INDEX (same slugifyGearSeries logic used for HTML pages)
     // so /llms/gear-series/<brand>-<series>.md URLs stay 1:1 with committed files.

@@ -1,0 +1,41 @@
+name: Check Sitemap Drummer-Slug Drift
+
+# Pre-merge gate against #4273/#4274/#4275-class drift: fails the build if a
+# hand-maintained drummer-slug array in api/sitemap.js no longer matches its
+# canonical source (the 67-drummer roster, or a data module like
+# ENDORSEMENT_TIMELINE). See scripts/check-sitemap-drift.cjs for details.
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main, 'claude/**', 'roadie/**', 'ralph/**']
+    paths:
+      - '.github/workflows/check-sitemap-drift.yml'
+      - 'scripts/check-sitemap-drift.cjs'
+      - 'api/sitemap.js'
+      - 'packages/frontend/data/endorsementNews.js'
+      - 'packages/frontend/data/signatureLicks.js'
+      - 'packages/frontend/data/licks/**'
+  pull_request:
+    paths:
+      - '.github/workflows/check-sitemap-drift.yml'
+      - 'scripts/check-sitemap-drift.cjs'
+      - 'api/sitemap.js'
+      - 'packages/frontend/data/endorsementNews.js'
+      - 'packages/frontend/data/signatureLicks.js'
+      - 'packages/frontend/data/licks/**'
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    name: Check drummer-slug arrays in api/sitemap.js vs canonical sources
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Check for stale hardcoded drummer-slug arrays
+        run: node scripts/check-sitemap-drift.cjs

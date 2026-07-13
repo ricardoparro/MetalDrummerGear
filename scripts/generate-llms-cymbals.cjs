@@ -91,10 +91,11 @@ lines.push(`## All ${count} Cymbal Setup Records`);
 lines.push('');
 for (const setup of CYMBAL_SETUPS) {
   const name = drummerNameFor(setup);
-  const link = setup.drummerSlug ? `${BASE}/drummer/${setup.drummerSlug}` : null;
+  const mdLink = setup.drummerSlug ? `${BASE}/llms/cymbals/setups/${setup.drummerSlug}.md` : null;
+  const profileLink = setup.drummerSlug ? `${BASE}/drummer/${setup.drummerSlug}` : null;
   const who = name ? `${name} — ` : '';
-  if (link) {
-    lines.push(`- ${who}[${setup.summary}](${link})`);
+  if (mdLink) {
+    lines.push(`- ${who}[${setup.summary}](${mdLink}) ([profile](${profileLink}))`);
   } else {
     lines.push(`- ${who}${setup.summary}`);
   }

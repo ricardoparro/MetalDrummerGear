@@ -8,7 +8,9 @@
       "subject": "Joey Jordison",
       "subjectSlug": "joey-jordison",
       "tier": "top",
-      "queryTokens": ["jordison"],
+      "queryTokens": [
+        "jordison"
+      ],
       "pageUrl": "/articles/joey-jordison-legacy",
       "factAnchors": [
         "Died July 26, 2021, aged 46",
@@ -17,7 +19,9 @@
         "Disclosed acute transverse myelitis in 2016",
         "Voted greatest drummer of the previous 25 years by Rhythm magazine readers (2010)"
       ],
-      "sources": ["https://en.wikipedia.org/wiki/Joey_Jordison"]
+      "sources": [
+        "https://en.wikipedia.org/wiki/Joey_Jordison"
+      ]
     },
     {
       "id": "vinnie-paul-death",
@@ -26,13 +30,17 @@
       "subject": "Vinnie Paul",
       "subjectSlug": "vinnie-paul",
       "tier": "top",
-      "queryTokens": ["vinnie paul"],
+      "queryTokens": [
+        "vinnie paul"
+      ],
       "factAnchors": [
         "Died June 22, 2018, aged 54",
         "Co-founder and drummer of Pantera; later Damageplan and Hellyeah",
         "Brother of Dimebag Darrell (killed December 8, 2004)"
       ],
-      "sources": ["https://en.wikipedia.org/wiki/Vinnie_Paul"]
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vinnie_Paul"
+      ]
     },
     {
       "id": "iowa-release",
@@ -40,12 +48,18 @@
       "date": "2001-08-28",
       "subject": "Slipknot — Iowa",
       "subjectSlug": "iowa",
-      "queryTokens": ["iowa drum", "iowa album", "jordison iowa"],
+      "queryTokens": [
+        "iowa drum",
+        "iowa album",
+        "jordison iowa"
+      ],
       "factAnchors": [
         "Iowa released August 28, 2001 (Roadrunner Records)",
         "Joey Jordison on drums; widely cited among the heaviest #1-charting albums (UK #1, US #3)"
       ],
-      "sources": ["https://en.wikipedia.org/wiki/Iowa_(album)"]
+      "sources": [
+        "https://en.wikipedia.org/wiki/Iowa_(album)"
+      ]
     },
     {
       "id": "reign-in-blood-release",
@@ -53,12 +67,17 @@
       "date": "1986-10-07",
       "subject": "Slayer — Reign in Blood",
       "subjectSlug": "reign-in-blood",
-      "queryTokens": ["reign in blood", "lombardo reign"],
+      "queryTokens": [
+        "reign in blood",
+        "lombardo reign"
+      ],
       "factAnchors": [
-        "Reign in Blood released October 7, 1986 (Def Jam)",
+        "Reign in Blood released October 1986 (Def Jam) — THE EXACT DAY IS DISPUTED: Slayer's own 30th-anniversary post, Metal Archives and Discogs say October 7; Wikipedia and Last.fm list October 20 (CBS distribution refusal muddied the original release). Any page MUST state this ambiguity rather than assert one day as fact.",
         "Dave Lombardo on drums; Angel of Death opens the album; produced by Rick Rubin"
       ],
-      "sources": ["https://en.wikipedia.org/wiki/Reign_in_Blood"]
+      "sources": [
+        "https://en.wikipedia.org/wiki/Reign_in_Blood"
+      ]
     },
     {
       "id": "slipknot-debut-release",
@@ -66,12 +85,18 @@
       "date": "1999-06-29",
       "subject": "Slipknot — Slipknot (debut)",
       "subjectSlug": "slipknot-debut",
-      "queryTokens": ["slipknot debut", "slipknot 1999", "jordison slipknot"],
+      "queryTokens": [
+        "slipknot debut",
+        "slipknot 1999",
+        "jordison slipknot"
+      ],
       "factAnchors": [
         "Self-titled debut released June 29, 1999 (Roadrunner Records)",
         "Joey Jordison on drums"
       ],
-      "sources": ["https://en.wikipedia.org/wiki/Slipknot_(album)"]
+      "sources": [
+        "https://en.wikipedia.org/wiki/Slipknot_(album)"
+      ]
     },
     {
       "id": "master-of-puppets-release",
@@ -79,12 +104,455 @@
       "date": "1986-03-03",
       "subject": "Metallica — Master of Puppets",
       "subjectSlug": "master-of-puppets",
-      "queryTokens": ["master of puppets", "ulrich master of puppets"],
+      "queryTokens": [
+        "master of puppets",
+        "ulrich master of puppets"
+      ],
       "factAnchors": [
         "Master of Puppets released March 3, 1986 (Elektra)",
         "Lars Ulrich on drums; last album with Cliff Burton (died September 27, 1986)"
       ],
-      "sources": ["https://en.wikipedia.org/wiki/Master_of_Puppets"]
+      "sources": [
+        "https://en.wikipedia.org/wiki/Master_of_Puppets"
+      ]
+    },
+    {
+      "id": "joey-jordison-birth",
+      "kind": "birth",
+      "date": "1975-04-26",
+      "subject": "Joey Jordison",
+      "subjectSlug": "joey-jordison",
+      "tier": "top",
+      "queryTokens": [
+        "jordison"
+      ],
+      "factAnchors": [
+        "Born 1975-04-26 — Nathan Jonas 'Joey' Jordison, founding Slipknot drummer (#1)"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Joey_Jordison"
+      ]
+    },
+    {
+      "id": "vinnie-paul-birth",
+      "kind": "birth",
+      "date": "1964-03-11",
+      "subject": "Vinnie Paul",
+      "subjectSlug": "vinnie-paul",
+      "tier": "top",
+      "queryTokens": [
+        "vinnie paul"
+      ],
+      "factAnchors": [
+        "Born 1964-03-11 — Vincent Paul Abbott, born in Abilene, Texas; Pantera co-founder/drummer"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vinnie_Paul"
+      ]
+    },
+    {
+      "id": "nick-menza-birth",
+      "kind": "birth",
+      "date": "1964-07-23",
+      "subject": "Nick Menza",
+      "subjectSlug": "nick-menza",
+      "tier": "top",
+      "queryTokens": [
+        "menza"
+      ],
+      "factAnchors": [
+        "Born 1964-07-23 — Megadeth drummer 1989-1998 (Rust in Peace through Cryptic Writings)"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nick_Menza"
+      ]
+    },
+    {
+      "id": "nick-menza-death",
+      "kind": "death-anniversary",
+      "date": "2016-05-21",
+      "subject": "Nick Menza",
+      "subjectSlug": "nick-menza",
+      "tier": "top",
+      "queryTokens": [
+        "menza"
+      ],
+      "factAnchors": [
+        "Died 2016-05-21 — Collapsed on stage performing with OHM at The Baked Potato, Los Angeles area, and died that night aged 51 (suspected heart failure)"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nick_Menza"
+      ]
+    },
+    {
+      "id": "sean-reinert-birth",
+      "kind": "birth",
+      "date": "1971-05-27",
+      "subject": "Sean Reinert",
+      "subjectSlug": "sean-reinert",
+      "tier": "top",
+      "queryTokens": [
+        "reinert"
+      ],
+      "factAnchors": [
+        "Born 1971-05-27 — Sean Landon Reinert, Cynic co-founder and drummer on Death's Human (1991)"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Sean_Reinert"
+      ]
+    },
+    {
+      "id": "sean-reinert-death",
+      "kind": "death-anniversary",
+      "date": "2020-01-24",
+      "subject": "Sean Reinert",
+      "subjectSlug": "sean-reinert",
+      "tier": "top",
+      "queryTokens": [
+        "reinert"
+      ],
+      "factAnchors": [
+        "Died 2020-01-24 — Found unresponsive at his San Bernardino County home on Friday, Jan 24, 2020, and pronounced dead, aged 48"
+      ],
+      "sources": [
+        "https://variety.com/2020/music/news/sean-reinert-dead-death-cynic-drummer-1203480299/"
+      ]
+    },
+    {
+      "id": "lars-ulrich-birth",
+      "kind": "birth",
+      "date": "1963-12-26",
+      "subject": "Lars Ulrich",
+      "subjectSlug": "lars-ulrich",
+      "tier": "top",
+      "queryTokens": [
+        "ulrich"
+      ],
+      "factAnchors": [
+        "Born 1963-12-26 — Born Gentofte, Denmark"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lars_Ulrich"
+      ]
+    },
+    {
+      "id": "dave-lombardo-birth",
+      "kind": "birth",
+      "date": "1965-02-16",
+      "subject": "Dave Lombardo",
+      "subjectSlug": "dave-lombardo",
+      "tier": "top",
+      "queryTokens": [
+        "lombardo"
+      ],
+      "factAnchors": [
+        "Born 1965-02-16 — Born Havana, Cuba"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Dave_Lombardo"
+      ]
+    },
+    {
+      "id": "danny-carey-birth",
+      "kind": "birth",
+      "date": "1961-05-10",
+      "subject": "Danny Carey",
+      "subjectSlug": "danny-carey",
+      "tier": "top",
+      "queryTokens": [
+        "carey"
+      ],
+      "factAnchors": [
+        "Born 1961-05-10 — Daniel Edwin Carey, born Lawrence, Kansas"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Danny_Carey"
+      ]
+    },
+    {
+      "id": "mike-portnoy-birth",
+      "kind": "birth",
+      "date": "1967-04-20",
+      "subject": "Mike Portnoy",
+      "subjectSlug": "mike-portnoy",
+      "tier": "top",
+      "queryTokens": [
+        "portnoy"
+      ],
+      "factAnchors": [
+        "Born 1967-04-20 — Born Long Beach, New York"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mike_Portnoy"
+      ]
+    },
+    {
+      "id": "tomas-haake-birth",
+      "kind": "birth",
+      "date": "1971-07-13",
+      "subject": "Tomas Haake",
+      "subjectSlug": "tomas-haake",
+      "tier": "top",
+      "queryTokens": [
+        "haake"
+      ],
+      "factAnchors": [
+        "Born 1971-07-13 — Tomas Nils Haake, born 13 July 1971 in Sweden; drummer/lyricist of Meshuggah"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Tomas_Haake"
+      ]
+    },
+    {
+      "id": "gene-hoglan-birth",
+      "kind": "birth",
+      "date": "1967-08-31",
+      "subject": "Gene Hoglan",
+      "subjectSlug": "gene-hoglan",
+      "tier": "top",
+      "queryTokens": [
+        "hoglan"
+      ],
+      "factAnchors": [
+        "Born 1967-08-31 — Eugene Victor Hoglan II, born August 31, 1967; drummer for Dark Angel, Death, Testament, Strapping Young Lad, Dethklok"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gene_Hoglan"
+      ]
+    },
+    {
+      "id": "nicko-mcbrain-birth",
+      "kind": "birth",
+      "date": "1952-06-05",
+      "subject": "Nicko McBrain",
+      "subjectSlug": "nicko-mcbrain",
+      "tier": "top",
+      "queryTokens": [
+        "mcbrain"
+      ],
+      "factAnchors": [
+        "Born 1952-06-05 — Michael Henry 'Nicko' McBrain, born 5 June 1952 in Hackney, London; Iron Maiden drummer since 1982"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Nicko_McBrain"
+      ]
+    },
+    {
+      "id": "bill-ward-birth",
+      "kind": "birth",
+      "date": "1948-05-05",
+      "subject": "Bill Ward",
+      "subjectSlug": "bill-ward",
+      "tier": "top",
+      "queryTokens": [
+        "bill ward"
+      ],
+      "factAnchors": [
+        "Born 1948-05-05 — William Thomas Ward, born 5 May 1948 in Aston, Birmingham; original Black Sabbath drummer"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Bill_Ward_(musician)"
+      ]
+    },
+    {
+      "id": "charlie-benante-birth",
+      "kind": "birth",
+      "date": "1962-11-27",
+      "subject": "Charlie Benante",
+      "subjectSlug": "charlie-benante",
+      "tier": "top",
+      "queryTokens": [
+        "benante"
+      ],
+      "factAnchors": [
+        "Born 1962-11-27 — Anthrax drummer (also touring with reunited Pantera)"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Charlie_Benante"
+      ]
+    },
+    {
+      "id": "igor-cavalera-birth",
+      "kind": "birth",
+      "date": "1970-09-04",
+      "subject": "Igor Cavalera",
+      "subjectSlug": "igor-cavalera",
+      "tier": "top",
+      "queryTokens": [
+        "cavalera"
+      ],
+      "factAnchors": [
+        "Born 1970-09-04 — Co-founder and former drummer of Sepultura; now in Cavalera Conspiracy"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Igor_Cavalera"
+      ]
+    },
+    {
+      "id": "mikkey-dee-birth",
+      "kind": "birth",
+      "date": "1963-10-31",
+      "subject": "Mikkey Dee",
+      "subjectSlug": "mikkey-dee",
+      "tier": "top",
+      "queryTokens": [
+        "mikkey dee"
+      ],
+      "factAnchors": [
+        "Born 1963-10-31 — Born Micael Kiriakos Delaoglou, Gothenburg, Sweden"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mikkey_Dee"
+      ]
+    },
+    {
+      "id": "brann-dailor-birth",
+      "kind": "birth",
+      "date": "1975-03-19",
+      "subject": "Brann Dailor",
+      "subjectSlug": "brann-dailor",
+      "tier": "top",
+      "queryTokens": [
+        "dailor"
+      ],
+      "factAnchors": [
+        "Born 1975-03-19 — Mastodon drummer/vocalist, born Rochester, NY"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Brann_Dailor"
+      ]
+    },
+    {
+      "id": "george-kollias-birth",
+      "kind": "birth",
+      "date": "1977-08-30",
+      "subject": "George Kollias",
+      "subjectSlug": "george-kollias",
+      "tier": "top",
+      "queryTokens": [
+        "kollias"
+      ],
+      "factAnchors": [
+        "Born 1977-08-30 — Born in Corinth, Greece"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/George_Kollias_(drummer)"
+      ]
+    },
+    {
+      "id": "mario-duplantier-birth",
+      "kind": "birth",
+      "date": "1981-06-19",
+      "subject": "Mario Duplantier",
+      "subjectSlug": "mario-duplantier",
+      "tier": "top",
+      "queryTokens": [
+        "duplantier"
+      ],
+      "factAnchors": [
+        "Born 1981-06-19 — Born in Bayonne, France"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Mario_Duplantier"
+      ]
+    },
+    {
+      "id": "chris-adler-birth",
+      "kind": "birth",
+      "date": "1972-11-23",
+      "subject": "Chris Adler",
+      "subjectSlug": "chris-adler",
+      "tier": "top",
+      "queryTokens": [
+        "adler"
+      ],
+      "factAnchors": [
+        "Born 1972-11-23 — Date confirmed by Wikipedia and official site (chrisadler"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Chris_Adler"
+      ]
+    },
+    {
+      "id": "gavin-harrison-birth",
+      "kind": "birth",
+      "date": "1963-05-28",
+      "subject": "Gavin Harrison",
+      "subjectSlug": "gavin-harrison",
+      "tier": "top",
+      "queryTokens": [
+        "harrison"
+      ],
+      "factAnchors": [
+        "Born 1963-05-28 — Date consistent across Wikipedia and DGM Live (official King Crimson label) biography"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Gavin_Harrison"
+      ]
+    },
+    {
+      "id": "vulgar-display-of-power-release",
+      "kind": "album-release",
+      "date": "1992-02-25",
+      "subject": "Pantera - Vulgar Display of Power",
+      "subjectSlug": "vulgar-display-of-power",
+      "queryTokens": [
+        "vulgar display of power"
+      ],
+      "factAnchors": [
+        "Vulgar Display of Power released 1992-02-25 — Released by Atco Records; also documented on the official pantera"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Vulgar_Display_of_Power"
+      ]
+    },
+    {
+      "id": "symbolic-release",
+      "kind": "album-release",
+      "date": "1995-03-21",
+      "subject": "Death - Symbolic",
+      "subjectSlug": "symbolic",
+      "queryTokens": [
+        "symbolic"
+      ],
+      "factAnchors": [
+        "Symbolic released 1995-03-21 — Released by Roadrunner Records; date also confirmed by Death's official social media anniversary post"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Symbolic_(Death_album)"
+      ]
+    },
+    {
+      "id": "obzen-release",
+      "kind": "album-release",
+      "date": "2008-03-07",
+      "subject": "Meshuggah - ObZen",
+      "subjectSlug": "obzen",
+      "queryTokens": [
+        "obzen"
+      ],
+      "factAnchors": [
+        "ObZen released 2008-03-07 — Original (European) release on Nuclear Blast, 7 March 2008; North American release followed on 11 March 2008"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/ObZen"
+      ]
+    },
+    {
+      "id": "lateralus-release",
+      "kind": "album-release",
+      "date": "2001-05-15",
+      "subject": "Tool - Lateralus",
+      "subjectSlug": "lateralus",
+      "queryTokens": [
+        "lateralus"
+      ],
+      "factAnchors": [
+        "Lateralus released 2001-05-15 — Released by Volcano Entertainment; debuted at No"
+      ],
+      "sources": [
+        "https://en.wikipedia.org/wiki/Lateralus"
+      ]
     }
   ]
 }

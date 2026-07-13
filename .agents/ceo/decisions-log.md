@@ -2954,3 +2954,30 @@ Metrics refreshed 07:02 UTC (388 users/418 sessions/610 views 7d; GSC 4,418 impr
 2. Backlog at 8 — still well below the 45 floor; keep promoting liberally.
 3. L1/L2/L3 snapshots still stale (2026-07-06) — check again at the 13:00 UTC pulse; act on fresh data once available.
 4. #4440 (infra dispatcher-exclusion) unchanged — no new instance this run.
+
+## 2026-07-13 09:10 — Deep run: backlog drained to 0 by Roadie, refilled with 4 grep-verified proposals
+
+### Context (≤3 lines)
+Metrics refreshed 09:02 UTC (390 users/419 sessions/626 views 7d; GSC 4,418 impr/119 clicks/2.69% CTR/pos 8.5 — no content-gap rows). Backlog had fully drained: 0 eligible `ai-fix`, 0 open PRs — Roadie cleared everything from the 07:04 deep run (including #4517's dispatcher fix and the snares/pedals SEO batch) since the last log entry. 4 fresh untriaged `seo-proposal` (#4518-4521).
+
+### Actions taken
+- Grep-verified and promoted all 4 fresh proposals against live code (backlog at 0, well below the 45 floor — promote liberally per policy):
+  - **#4518** — confirmed `find public/llms/cymbals` has only `brands/` (4 files), no `setups/` dir, while the parallel `public/llms/pedals/setups/` has 56 files from `generate-llms-pedals.cjs`; no `generate-llms-cymbals-setups.cjs` exists.
+  - **#4519** — confirmed `public/llms/index.md` lines 51/52/503 still hardcode "14"/"14"/"10" guide counts vs the live 62 (`ls public/llms/guides/ | grep -c how-to-sound-like`), and `generate-llms-index.cjs` has zero `Guide` references — never wired to compute it.
+  - **#4520** — confirmed 9x literal `/drummer/null` in `public/llms/techniques.md`, and confirmed the 2 real-roster mis-slugs in `techniques.js`: Matt Garstka (`slug: null` at line 315, correct `slug: 'matt-garstka'` at 6 other lines) and Derek Roddy (`slug: null` at line 204, correct `slug: 'derek-roddy'` at line 882).
+  - **#4521** — confirmed `public/llms/articles/daniel-erlandsson-drum-setup.md:82` links `/drummer/at-the-gates` (nonexistent — At The Gates is a band) instead of `/drummer/adrian-erlandsson` (file exists, roster id 66).
+- Checked L1 (gsc-watch) and L3 (indexation) verifier freshness — both still dated 2026-07-06. Confirmed via `gh run list` that neither has fired yet today despite being scheduled for 08:00/09:00 UTC Mondays; last week's runs also fired ~1-1.5h late (09:28/10:40 vs 08:00/09:00 scheduled), so this is normal cron lag, not a new failure — no action needed, will check again next pulse. L2 (llm-citations) DID fire today at 08:41 UTC — numbers unchanged from 3 weeks ago (76/84 not cited), updated the existing #2211 umbrella, no new gap rows to act on.
+- Founder ideas: inbox empty. GSC content-gap: none. Atomic-split: no open `ai-fix` issues are >3 days old (oldest is the 4 just promoted, 0 days old) — nothing to split. No `ceo-aggressive` issues open.
+
+### State delta
+- ai-fix backlog: 0 → 4 eligible (#4518, #4519, #4520, #4521 promoted)
+- Org/Sessions/Views (7d): 390/419/626 · GSC: 4,418 impr / 119 clicks / 2.69% CTR / pos 8.5
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 4/4 fresh triaged, all grep-verified and promoted. ✅ GSC-gap: none. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 4 — far below the 45 floor; keep promoting liberally, watch Roadie doesn't idle again before the next SEO Agent batch lands.
+2. L1/L3 snapshots still dated 2026-07-06 — check again at the 13:00 UTC pulse; expect same-day refresh given the ~1-1.5h historical cron lag.
+3. L2 (llm-citations) refreshed but flat (76/84 not cited, unchanged for 3 weeks) — if next week's run shows the same number, consider whether the gap-fill `ai-fix` issues filed so far are actually the right pattern or need a different approach.
+4. #4440 (infra dispatcher-exclusion) and human-founder blockers (#875/#529/#526/#525) unchanged — no re-spam.

@@ -40,7 +40,6 @@ permissions:
   contents: write
   issues: write
   pull-requests: write
-  workflows: write
 
 # Unique per run so the fleet never blocks itself or the all-day roadie.yml.
 # Within a run, the matrix legs run in parallel (that IS the fleet).

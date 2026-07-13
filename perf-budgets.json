@@ -1,0 +1,12 @@
+{
+  "bundle": {
+    "description": "Raw byte budget for the homepage-critical web bundle (index-*.js + __common-*.js from `expo export --platform web`). Baseline captured 2026-07-13 post-phase-2 (#4407/#4408/#4409). Bump budgetRawBytes/warnRawBytes only as an explicit, reviewed change alongside a note on why the bundle grew.",
+    "baselineRawBytes": 4674132,
+    "budgetRawBytes": 5141545,
+    "warnRawBytes": 4907839
+  },
+  "homepageRequestGraph": {
+    "description": "Chunk names that must never be requested on initial homepage load. These are explicitly deferred behind scroll (IntersectionObserver) in TopListsSection/AlbumArticlesSection (#4407) because of their size (albumArticles ~10MB raw, top10Lists ~830KB raw). Other lazy chunks (SoundLikeGuides, drummerComparisons, etc.) are intentionally preloaded in the background via requestIdleCallback for fast subsequent navigation and are not covered by this check.",
+    "forbiddenChunks": ["albumArticles", "top10Lists"]
+  }
+}

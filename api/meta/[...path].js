@@ -40,7 +40,8 @@ import { SIGNATURE_GEAR } from '../../packages/frontend/data/signatureGear.js';
 // Issue #1522: Quotation + ItemList JSON-LD for /quotes page.
 import { getAllQuotes } from '../quotes-data.js';
 // Issue #1794: genre gear guide pages — /guides/best-[gear]-for-[genre]
-import { GENRE_GEAR_GUIDES } from '../../packages/frontend/data/genreGearGuides.js';
+// Issue #4574: HowTo JSON-LD alongside Article + FAQPage for genre-gear-guide pages.
+import { GENRE_GEAR_GUIDES, generateGenreGuideHowToSchema } from '../../packages/frontend/data/genreGearGuides.js';
 // Issue #2403: kit-level /gear/:brand/:series/drummers-using pages.
 import { DRUMMERS_BY_KIT } from '../../packages/frontend/data/drummersByKit.js';
 // Issue #3219: FAQPage schema for /drummers/:slug/gear-history pages.
@@ -914,6 +915,7 @@ function getMetaForPath(pathname) {
     // Issue #1794: genre gear guide pages — emit keyword-matched title + Article + FAQPage JSON-LD
     const genreGuide = GENRE_GEAR_GUIDES[slug];
     if (genreGuide) {
+      const genreGuideHowTo = generateGenreGuideHowToSchema(genreGuide);
       return {
         title: genreGuide.metaTitle,
         description: genreGuide.description,
@@ -933,6 +935,7 @@ function getMetaForPath(pathname) {
               publisher: { '@type': 'Organization', name: SITE_NAME, url: BASE_URL },
               keywords: (genreGuide.seoKeywords || []).join(', '),
             },
+            ...(genreGuideHowTo ? [genreGuideHowTo] : []),
             ...(genreGuide.faq ? [{
               '@type': 'FAQPage',
               mainEntity: genreGuide.faq.map(q => ({

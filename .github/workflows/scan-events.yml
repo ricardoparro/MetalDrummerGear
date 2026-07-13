@@ -1,0 +1,57 @@
+name: Event Scanner
+
+# Monthly content-ahead-of-demand loop (founder-directed): scans the verified
+# metal events calendar 7–67 days ahead (drummer death/birth anniversaries,
+# iconic album release anniversaries, brand foundings) and files ai-fix issues
+# so the pages are written, merged and INDEXED before each search spike —
+# generalizing the Joey Jordison 5-years play (#4424).
+#
+# The scanner is deterministic (date arithmetic over .agents/events-calendar.json,
+# no LLM); it reads the newest L1 gsc-history snapshot to calibrate refresh
+# aggressiveness (strong current rankings ⇒ ultra-conservative additive-only
+# refresh) and dedups per event+year via an issue-body marker.
+#
+# Monthly on day 5 (off-hour minute per fleet etiquette) + manual dispatch.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Print what would be filed without creating issues'
+        type: boolean
+        default: false
+  schedule:
+    - cron: '23 6 5 * *'
+
+permissions:
+  contents: read
+  issues: write
+
+concurrency:
+  group: event-scanner
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Scan upcoming events and file content issues
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          node .agents/scripts/scan-events.cjs --self-test
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            node .agents/scripts/scan-events.cjs --dry-run
+          else
+            node .agents/scripts/scan-events.cjs
+          fi

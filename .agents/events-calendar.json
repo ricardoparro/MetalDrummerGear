@@ -1,0 +1,90 @@
+{
+  "README": "Verified metal events calendar — read by .agents/scripts/scan-events.cjs (monthly Event Scanner). RULES: only add events whose exact date is verified against the cited source (the adversarial dates-research batch or a primary/universally documented source). Dates are YYYY-MM-DD; if the day is not reliably documented use YYYY-MM and the scanner will skip it rather than guess. kind ∈ death-anniversary | birth | album-release | brand-founded. queryTokens drive the L1 (GSC) standing check; pageUrl (when set) switches the scanner to refresh-only mode for that page. tier: 'top' gates birthday events.",
+  "events": [
+    {
+      "id": "joey-jordison-death",
+      "kind": "death-anniversary",
+      "date": "2021-07-26",
+      "subject": "Joey Jordison",
+      "subjectSlug": "joey-jordison",
+      "tier": "top",
+      "queryTokens": ["jordison"],
+      "pageUrl": "/articles/joey-jordison-legacy",
+      "factAnchors": [
+        "Died July 26, 2021, aged 46",
+        "Founding Slipknot drummer, 1995–2013",
+        "Also Murderdolls, Scar the Martyr, Sinsaenum, Vimic",
+        "Disclosed acute transverse myelitis in 2016",
+        "Voted greatest drummer of the previous 25 years by Rhythm magazine readers (2010)"
+      ],
+      "sources": ["https://en.wikipedia.org/wiki/Joey_Jordison"]
+    },
+    {
+      "id": "vinnie-paul-death",
+      "kind": "death-anniversary",
+      "date": "2018-06-22",
+      "subject": "Vinnie Paul",
+      "subjectSlug": "vinnie-paul",
+      "tier": "top",
+      "queryTokens": ["vinnie paul"],
+      "factAnchors": [
+        "Died June 22, 2018, aged 54",
+        "Co-founder and drummer of Pantera; later Damageplan and Hellyeah",
+        "Brother of Dimebag Darrell (killed December 8, 2004)"
+      ],
+      "sources": ["https://en.wikipedia.org/wiki/Vinnie_Paul"]
+    },
+    {
+      "id": "iowa-release",
+      "kind": "album-release",
+      "date": "2001-08-28",
+      "subject": "Slipknot — Iowa",
+      "subjectSlug": "iowa",
+      "queryTokens": ["iowa drum", "iowa album", "jordison iowa"],
+      "factAnchors": [
+        "Iowa released August 28, 2001 (Roadrunner Records)",
+        "Joey Jordison on drums; widely cited among the heaviest #1-charting albums (UK #1, US #3)"
+      ],
+      "sources": ["https://en.wikipedia.org/wiki/Iowa_(album)"]
+    },
+    {
+      "id": "reign-in-blood-release",
+      "kind": "album-release",
+      "date": "1986-10-07",
+      "subject": "Slayer — Reign in Blood",
+      "subjectSlug": "reign-in-blood",
+      "queryTokens": ["reign in blood", "lombardo reign"],
+      "factAnchors": [
+        "Reign in Blood released October 7, 1986 (Def Jam)",
+        "Dave Lombardo on drums; Angel of Death opens the album; produced by Rick Rubin"
+      ],
+      "sources": ["https://en.wikipedia.org/wiki/Reign_in_Blood"]
+    },
+    {
+      "id": "slipknot-debut-release",
+      "kind": "album-release",
+      "date": "1999-06-29",
+      "subject": "Slipknot — Slipknot (debut)",
+      "subjectSlug": "slipknot-debut",
+      "queryTokens": ["slipknot debut", "slipknot 1999", "jordison slipknot"],
+      "factAnchors": [
+        "Self-titled debut released June 29, 1999 (Roadrunner Records)",
+        "Joey Jordison on drums"
+      ],
+      "sources": ["https://en.wikipedia.org/wiki/Slipknot_(album)"]
+    },
+    {
+      "id": "master-of-puppets-release",
+      "kind": "album-release",
+      "date": "1986-03-03",
+      "subject": "Metallica — Master of Puppets",
+      "subjectSlug": "master-of-puppets",
+      "queryTokens": ["master of puppets", "ulrich master of puppets"],
+      "factAnchors": [
+        "Master of Puppets released March 3, 1986 (Elektra)",
+        "Lars Ulrich on drums; last album with Cliff Burton (died September 27, 1986)"
+      ],
+      "sources": ["https://en.wikipedia.org/wiki/Master_of_Puppets"]
+    }
+  ]
+}

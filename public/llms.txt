@@ -1,7 +1,7 @@
 # MetalForge — llms.txt
 # https://llmstxt.org/
 # Last updated: 2026-07-12
-# Content: 67 drummers, 157 lick pages (100% coverage), 66 articles, 10 techniques, 19 bands, 226 comparisons, 56 pedal setups
+# Content: 67 drummers, 157 lick pages (100% coverage), 66 articles, 10 techniques, 19 bands, 226 comparisons, 56 pedal setups, 30 signature drumsticks
 
 > MetalForge is the definitive database of professional metal drummers and their gear. 67 drummers, complete gear specs, 157 signature drum lick breakdowns, performance videos, and career histories.
 
@@ -58,6 +58,8 @@
 - [Drumstick Brands](https://metalforge.io/drumsticks/brands): Positioning, notable metal-relevant lines, and confirmed drummer usage for 10 major drumstick brands (Vic Firth, Vater, Pro-Mark, Ahead, Zildjian, Los Cabos, Regal Tip, Meinl, Wincent, Tama)
 - [Best Drumsticks for Metal](https://metalforge.io/drumsticks/best-for-metal): Why metal favours heavier 5B/2B, front-weighted, durable sticks, with confirmed signature-stick recommendations
 - [Signature Stick Pages](https://metalforge.io/drumsticks/signature/): Per-drummer "what drumsticks does X use" pages for every drummer with a verified stick mapping
+- [Drumsticks Hub](/llms/drumsticks.md): All 30 verified signature/endorsed drumstick models, linked to their profiles
+- [Per-Drummer Signature Drumsticks](/llms/drumsticks/signature/): 30 per-drummer "what drumsticks does X use" markdown pages, one per drummer with a verified stick mapping
 
 ## Cymbals
 

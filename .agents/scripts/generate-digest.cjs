@@ -33,6 +33,7 @@ const DIGEST_FILE = path.join(REPO_ROOT, 'DIGEST.md');
 const HISTORY_DIR = path.join(REPO_ROOT, '.agents/digest/history');
 const GSC_HIST_DIR = path.join(REPO_ROOT, '.agents/seo/gsc-history');       // L1 verifier snapshots
 const IDX_HIST_DIR = path.join(REPO_ROOT, '.agents/seo/indexation-history'); // L3 verifier snapshots
+const PERF_HIST_DIR = path.join(REPO_ROOT, '.agents/seo/perf-history');     // L4 verifier snapshots
 
 const WINDOW_HOURS = 12;
 const WINDOW_MS = WINDOW_HOURS * 3600 * 1000;
@@ -167,11 +168,12 @@ function estimateRevenue(metrics) {
 }
 
 // ---------------------------------------------------------------------------
-// Improvement loops (L1/L2/L3 verifiers) — surface whether the loops are moving
-// real KPIs, week-over-week, so "is it working?" is answerable at a glance.
+// Improvement loops (L1/L2/L3/L4 verifiers) — surface whether the loops are
+// moving real KPIs, over time, so "is it working?" is answerable at a glance.
 //   L1 organic  ← .agents/seo/gsc-history/<date>.json      (committed weekly)
 //   L2 AI cites ← the `llm-citations` umbrella issue body   (already fetched)
 //   L3 index    ← .agents/seo/indexation-history/<date>.json (committed weekly)
+//   L4 perf     ← .agents/seo/perf-history/<date>.json      (committed biweekly)
 // ---------------------------------------------------------------------------
 function twoNewestSnapshots(dir) {
   try {
@@ -193,6 +195,13 @@ function summariseIdx(snap) {
   const c = (k) => vals.filter(v => v.class === k).length;
   return { inspected: vals.length, sitemap: snap.sitemapUrlCount, indexed: c('indexed'), crawledNot: c('crawled-not-indexed'), discoveredNot: c('discovered-not-indexed'), unknown: c('unknown') };
 }
+function summarisePerf(snap) {
+  if (!snap || !snap.byUrl) return null;
+  // Homepage key must match HOMEPAGE_URL in check-performance.cjs.
+  const home = snap.byUrl['https://metalforge.io/'];
+  if (!home) return null;
+  return { urls: Object.keys(snap.byUrl).length, homepageScore: home.performanceScore, homepageTbt: home.tbt };
+}
 function l2FromIssues(gh) {
   const u = (gh.openSeoProposal || []).find(i => (i.labels || []).some(l => (l.name || l) === 'llm-citations'));
   if (!u || !u.body) return null;
@@ -204,12 +213,15 @@ function l2FromIssues(gh) {
 function improvementLoops(gh) {
   const g = twoNewestSnapshots(GSC_HIST_DIR).map(summariseGsc);
   const i = twoNewestSnapshots(IDX_HIST_DIR).map(summariseIdx);
+  const f = twoNewestSnapshots(PERF_HIST_DIR).map(summarisePerf);
   return {
     l1: g.length ? g[g.length - 1] : null,
     l1prev: g.length > 1 ? g[0] : null,
     l3: i.length ? i[i.length - 1] : null,
     l3prev: i.length > 1 ? i[0] : null,
     l2: l2FromIssues(gh),
+    l4: f.length ? f[f.length - 1] : null,
+    l4prev: f.length > 1 ? f[0] : null,
   };
 }
 // "(+3)" / "(−2)" / "(±0)" — raw delta; caller notes direction meaning.
@@ -346,10 +358,10 @@ function buildMarkdown(gh, metrics, decisions) {
   const loops = improvementLoops(gh);
   lines.push(`## 🔬 Improvement loops — are the KPIs moving?`);
   lines.push('');
-  if (!loops.l1 && !loops.l2 && !loops.l3) {
-    lines.push('_No verifier snapshots yet (L1/L2/L3 run weekly)._');
+  if (!loops.l1 && !loops.l2 && !loops.l3 && !loops.l4) {
+    lines.push('_No verifier snapshots yet (L1/L2/L3 run weekly, L4 runs biweekly)._');
   } else {
-    lines.push('| Loop | Now | Week-over-week |');
+    lines.push('| Loop | Now | Trend |');
     lines.push('| --- | --- | --- |');
     if (loops.l1) {
       const p = loops.l1prev;
@@ -363,8 +375,12 @@ function buildMarkdown(gh, metrics, decisions) {
       const pct = loops.l3.inspected ? Math.round((loops.l3.indexed / loops.l3.inspected) * 100) : '?';
       lines.push(`| **L3 indexation** (${loops.l3.inspected} sampled of ${loops.l3.sitemap}) | ${loops.l3.indexed} indexed (${pct}%) · ${loops.l3.crawledNot} crawled-not-idx · ${loops.l3.discoveredNot} discovered-not-idx | indexed${dlt(loops.l3.indexed, p && p.indexed)} |`);
     }
+    if (loops.l4) {
+      const p = loops.l4prev;
+      lines.push(`| **L4 performance** (${loops.l4.urls} URLs, live site) | homepage ${loops.l4.homepageScore ?? '?'} perf · TBT ${loops.l4.homepageTbt != null ? Math.round(loops.l4.homepageTbt) : '?'}ms | score${dlt(loops.l4.homepageScore, p && p.homepageScore)} · TBT${dlt(loops.l4.homepageTbt, p && p.homepageTbt)}ms _(both ↓ = better)_ |`);
+    }
     lines.push('');
-    lines.push('> _L1/L3 are week-over-week from the committed verifier snapshots; L2 is the weekly citation umbrella. Rising clicks / falling avg position / more indexed = the loops are working._');
+    lines.push('> _L1/L3 are week-over-week and L4 is fortnight-over-fortnight, all from committed verifier snapshots; L2 is the weekly citation umbrella. Rising clicks / falling avg position / more indexed / higher perf score = the loops are working._');
   }
   lines.push('');
 
@@ -472,11 +488,12 @@ function buildTelegramText(gh, metrics, fullUrl) {
   }
 
   const loops = improvementLoops(gh);
-  if (loops.l1 || loops.l2 || loops.l3) {
+  if (loops.l1 || loops.l2 || loops.l3 || loops.l4) {
     lines.push(`<b>🔬 Loops (KPI trend)</b>`);
     if (loops.l1) lines.push(`• L1: ${loops.l1.clicks} clk${dlt(loops.l1.clicks, loops.l1prev && loops.l1prev.clicks)} · pos ${loops.l1.avgPos.toFixed(1)}${dlt(loops.l1.avgPos, loops.l1prev && loops.l1prev.avgPos, 1)}`);
     if (loops.l2) lines.push(`• L2: ${loops.l2.cited}/${loops.l2.total} cite us`);
     if (loops.l3) lines.push(`• L3: ${loops.l3.indexed}/${loops.l3.inspected} indexed${dlt(loops.l3.indexed, loops.l3prev && loops.l3prev.indexed)}`);
+    if (loops.l4) lines.push(`• L4: perf ${loops.l4.homepageScore ?? '?'}${dlt(loops.l4.homepageScore, loops.l4prev && loops.l4prev.homepageScore)} · TBT ${loops.l4.homepageTbt != null ? Math.round(loops.l4.homepageTbt) : '?'}ms`);
     lines.push('');
   }
 

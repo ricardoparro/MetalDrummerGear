@@ -1,0 +1,104 @@
+name: Check performance (L4)
+
+# L4 — Performance verifier. Runs Lighthouse (mobile emulation, simulated
+# throttling, performance category) against a fixed list of LIVE metalforge.io
+# URLs every two weeks, diffs vs the previous snapshot, and maintains a single
+# umbrella issue (`performance-watch`) on regression — same mold as L1 (GSC),
+# L2 (LLM citations), L3 (indexation).
+#
+# Why L4 != the CI perf gate (perf-budget.yml, #4410): that gate tests the
+# BUILD on every PR (prevention). This loop measures PRODUCTION every two
+# weeks (detection) — CDN/Vercel changes, AdSense/GTM drift, and small
+# regressions that pass the PR gate individually but accumulate over months.
+#
+# Outputs:
+#   - .agents/seo/perf-history/YYYY-MM-DD.json (next run's baseline, committed)
+#   - Umbrella issue `performance-watch` (only when a URL regressed)
+#   - Optional Telegram one-liner on regression
+#
+# Secrets reused: GITHUB_TOKEN, TELEGRAM_BOT_TOKEN, TELEGRAM_CHAT_ID.
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Day 1 and 15 of the month, 06:00 UTC — biweekly.
+    - cron: '0 6 1,15 * *'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: check-performance
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Configure git author
+        run: |
+          git config user.name "Ricardo Parro"
+          git config user.email "ricardo.parro@gmail.com"
+
+      - name: Install Chrome for Lighthouse
+        id: chrome
+        run: |
+          set -euo pipefail
+          OUT=$(npx --yes @puppeteer/browsers install chrome@stable --path "$RUNNER_TEMP/chrome")
+          echo "$OUT"
+          CHROME_BIN=$(echo "$OUT" | awk '{print $2}')
+          echo "path=$CHROME_BIN" >> "$GITHUB_OUTPUT"
+
+      # Gate: the pure delta/regression logic must pass before we trust a run.
+      - name: Self-test (pure fixtures, no network)
+        run: node .agents/scripts/check-performance.cjs --self-test
+
+      - name: Run performance check
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          REPO: ${{ github.repository }}
+          CHROME_PATH: ${{ steps.chrome.outputs.path }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          node .agents/scripts/check-performance.cjs \
+            --history-dir .agents/seo/perf-history \
+            --out performance.json
+
+      - name: Commit snapshot + history
+        run: |
+          git add .agents/seo/perf-history/
+          if git diff --cached --quiet; then
+            echo "Nothing to commit."
+            exit 0
+          fi
+          git commit -m "seo: refresh performance snapshot [skip ci]"
+          for attempt in 1 2 3 4; do
+            if git push origin HEAD:${{ github.ref_name }}; then
+              echo "Pushed on attempt $attempt"; break
+            fi
+            echo "Push attempt $attempt failed; sleeping $((attempt * 2))s"
+            sleep $((attempt * 2))
+            git pull --rebase origin ${{ github.ref_name }} || true
+          done
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: performance-${{ github.run_id }}
+          path: |
+            performance.json
+            .agents/seo/perf-history/
+          retention-days: 90
+          if-no-files-found: ignore

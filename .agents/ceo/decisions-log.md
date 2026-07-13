@@ -2981,3 +2981,31 @@ Metrics refreshed 09:02 UTC (390 users/419 sessions/626 views 7d; GSC 4,418 impr
 2. L1/L3 snapshots still dated 2026-07-06 — check again at the 13:00 UTC pulse; expect same-day refresh given the ~1-1.5h historical cron lag.
 3. L2 (llm-citations) refreshed but flat (76/84 not cited, unchanged for 3 weeks) — if next week's run shows the same number, consider whether the gap-fill `ai-fix` issues filed so far are actually the right pattern or need a different approach.
 4. #4440 (infra dispatcher-exclusion) and human-founder blockers (#875/#529/#526/#525) unchanged — no re-spam.
+
+---
+
+## 2026-07-13 12:52 — Mid-day pulse: first fresh L1+L3 snapshots in 7 days triaged, #4550 confirmed already resolved, 3 issues added
+
+### Context (≤3 lines)
+Metrics refreshed 12:47 UTC (393 users/425 sessions/629 views 7d; GSC 5,378 impr/142 clicks/2.64% CTR/pos 8.8 — 1 content-gap row: `mike portnoy drum set`). Backlog was 0 eligible `ai-fix`, 0 open PRs — fully drained since the 09:10 run. L1 (`gsc-watch-snapshot.md`, gen 09:12 UTC) and L3 (`indexation-snapshot.md`, gen 10:25 UTC) both refreshed for the first time since 2026-07-06.
+
+### Actions taken
+- **#4550 (Joey Jordison L1 regression) confirmed already closed correctly** — PR #4558 merged 12:23 UTC, investigation ruled out cannibalization (new articles not yet indexed by Google), no code fix needed, logged to `learned-patterns.md`. No further action.
+- **Promoted #4551** (Mike Portnoy title/meta missing "drum set" phrasing — matches this run's own GSC content-gap row, grep-verified 0 occurrences of "drum set" in bot-facing HTML, exact template match to 4 prior fixed drummers) and **#4552** (26 `/llms/comparisons/*.md` files live but absent from `sitemap.xml`, grep-verified against `api/sitemap.js`) — both fresh, high-confidence, backlog at 0.
+- **Filed #4559** (L3 ai-fix): 2 URLs `crawled-not-indexed` (Google explicitly rejected quality, not just undiscovered) — `best-drum-hardware-for-power-metal` and `joey-jordison-signature-gear-guide`. Verified both live/1000+ words; root cause likely template-similarity to sibling pages, not thinness.
+- **Held 4 other L1/L3 findings as watch-only, not ai-fix** (judgment calls, logged to `learned-patterns.md` with reasoning): Shannon Larkin drum-kit big-loss (no correlated recent merge — would dead-end like #4550 did), `fiafap` big-loss (garbled query, no target page, likely bot-noise), Eloy Casagrande CTR-gap re-flag (already fixed once via #3282, current 0% is within noise at 26 impr), 26-URL duplicate-canonical cluster + the 1 error-404 (both verified live-fixed already, snapshot data is stale/pre-recrawl).
+- Founder ideas: inbox empty. GSC content-gap row (`mike portnoy drum set`, 60 impr, 1.67% CTR) — covered by #4551, no separate issue needed. Atomic-split: no `ai-fix` issue open >3 days (backlog was 0 at run start). L2 (llm-citations) unchanged since this morning's 08:41 UTC run, no new action.
+
+### State delta
+- ai-fix backlog: 0 → 4 eligible (#4551, #4552 promoted; #4559 filed new)
+- `learned-patterns.md`: +2 entries (win/loss batch triage reasoning, stale-snapshot-data pattern for duplicate/404 clusters)
+- Org/Sessions/Views (7d): 393/425/629 · GSC: 5,378 impr / 142 clicks / 2.64% CTR / pos 8.8
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted. ✅ GSC-gap: 1 row, covered by #4551. ✅ Atomic split: none needed. ✅ L1/L3 close-the-loop: all rows triaged (1 already-resolved, 1 filed, 4 held with reasoning) — stayed within the 3-issue cap (only 1 new L1/L3 issue filed). ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 4 — still far below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch 2026-07-20 L1 snapshot for: Shannon Larkin recovery/repeat, `mike portnoy drum kit` (this week's big-win) holding, and confirm the duplicate-canonical/404 clusters clear now that live pages are already correct.
+3. Watch #4559 for the crawled-not-indexed → indexed transition next L3 run.
+4. #4440 (infra dispatcher-exclusion) and human-founder blockers (#875/#529/#526/#525) unchanged — no re-spam.

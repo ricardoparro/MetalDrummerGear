@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-13 22:18 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-14 00:22 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,60 +8,60 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 403 |
-| Sessions | 436 |
-| Page views | 647 |
-| Engagement rate | 35.78% |
-| Avg session (s) | 70 |
+| Active users | 389 |
+| Sessions | 412 |
+| Page views | 614 |
+| Engagement rate | 33.25% |
+| Avg session (s) | 66 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 106 | 70 |
+| / | 105 | 69 |
 | /drumsticks | 40 | 34 |
 | /drummer/lars-ulrich | 34 | 34 |
 | /cymbals | 31 | 33 |
 | /drummers | 23 | 3 |
 | /lists/fastest-metal-drummers | 21 | 22 |
-| /drummer/matt-greiner | 14 | 11 |
-| /articles/master-of-puppets-drum-setup | 13 | 13 |
-| /drummer/jaska-raatikainen | 11 | 3 |
+| /drummer/matt-greiner | 13 | 10 |
+| /articles/master-of-puppets-drum-setup | 12 | 12 |
 | /gear/sticks | 8 | 1 |
+| /lists/best-metal-drummers-of-all-time | 8 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 250 | 241 |
-| Organic Search | 171 | 150 |
-| Unassigned | 84 | 81 |
+| Direct | 247 | 239 |
+| Organic Search | 149 | 137 |
+| Unassigned | 85 | 82 |
 | Cross-network | 5 | 5 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |
 | --- | --- |
-| Impressions | 5,378 |
-| Clicks | 142 |
-| CTR | 2.64% |
+| Impressions | 4,650 |
+| Clicks | 118 |
+| CTR | 2.54% |
 | Avg position | 8.8 |
 
 ### Top queries
 | Query | Impr | Clicks | CTR | Pos |
 | --- | --- | --- | --- | --- |
 | matt garstka drum kit | 13 | 2 | 15.38% | 6.8 |
-| matt greiner drum setup | 15 | 2 | 13.33% | 6.0 |
-| top 10 best metal drummers of all time | 3 | 2 | 66.67% | 4.3 |
-| best death metal drummers | 7 | 1 | 14.29% | 7.4 |
+| top 10 best metal drummers of all time | 2 | 2 | 100.00% | 3.5 |
+| best death metal drummers | 6 | 1 | 16.67% | 7.0 |
 | best death metal drummers of all time | 2 | 1 | 50.00% | 6.0 |
 | best metal drummers | 10 | 1 | 10.00% | 14.5 |
-| bill ward drum kit | 45 | 1 | 2.22% | 7.8 |
-| bill ward drum setup | 14 | 1 | 7.14% | 7.7 |
+| bill ward drum kit | 40 | 1 | 2.50% | 7.8 |
+| bill ward drum setup | 13 | 1 | 7.69% | 7.9 |
 | drum heads for metal | 2 | 1 | 50.00% | 10.0 |
-| eloy casagrande bill ward | 8 | 1 | 12.50% | 8.6 |
+| eloy casagrande bill ward | 6 | 1 | 16.67% | 8.3 |
+| eloy casagrande kit | 3 | 1 | 33.33% | 5.7 |
 
 ### 🎯 Content-gap queries (impr ≥50, CTR <2%) — CEO MUST address
 | Query | Impr | CTR | Pos | Action |
 | --- | --- | --- | --- | --- |
-| mike portnoy drum set | 60 | 1.67% | 11.4 | open issue to answer better |
+| mike portnoy drum set | 59 | 1.69% | 11.4 | open issue to answer better |
 
 ---
 *Re-run manually: `node .agents/scripts/fetch-metrics.cjs`*

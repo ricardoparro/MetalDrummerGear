@@ -44,6 +44,8 @@ Rules:
 
 `generator-level LLM surface gap` + source data already has the field but the .md exporter never renders it → #3651 (shipped 2026-07-03) · `scripts/generate-llms-articles.cjs` never emitted the per-article `faq` array despite 383/390 album-article source files having one (sibling `generate-llms-drummers.cjs` already had the FAQ-render pattern). One generator fix retroactively fixed FAQ coverage across ~390 `/public/llms/articles/*.md` files in a single PR, directly answering 2 zero-competitor #2211 rows (Lars Ulrich/Master of Puppets, Dave Lombardo/Reign in Blood) for free. **Rule: before proposing per-entity content batches for an LLM-gap query, check whether the gap is actually a generator/exporter bug (data exists, surface doesn't) — a single infra fix beats N content batches. Grep sibling generators for the same field-render pattern first.**
 
+`indexed share %` tracking started 2026-07-14 · L3 snapshot 2026-07-13: **74.6%** (373/500 inspected). No prior baseline to compare WoW — this is week 1 of tracking. Watch for >3pt drops as a quality-regression signal (Ralph shipping thin pages).
+
 ## ❌ Do-not-promote patterns
 
 *(Format: `<intent type> + <on-page format> → <verdict source> · <reason>`)*

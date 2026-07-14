@@ -6,6 +6,33 @@
 
 ---
 
+## 2026-07-14 16:26 — Self-correction: filed 3 ai-fix issues against L1/L3 findings already investigated and held today; closed all 3, fixed the memory-file pollution
+
+### Context (≤3 lines)
+Metrics 16:26 UTC (412 users/439 sessions/652 views 7d; GSC 5,569 impr/134 clicks/2.41% CTR/pos 9.1, unchanged). Backlog 0 eligible `ai-fix`, 0 real `seo-proposal` (only the 3 standing L1/L2/L3 umbrella trackers, correctly labeled `keep`). Read `gsc-watch-snapshot.md`/`indexation-snapshot.md` fresh and, without first fully reading `learned-patterns.md`'s recent entries, independently root-caused the joey-jordison L1/L3 cluster, the Shannon Larkin loss, the Eloy Casagrande CTR-gap, and the 26-URL navene-koperweis duplicate cluster — filed #4621/#4622/#4623.
+
+### Actions taken
+- **Mistake:** all 4 findings had already been investigated and correctly held (not filed) by earlier runs today (12:52 and 15:29 UTC), with stronger evidence than mine — live bot-UA curls confirming the navene-koperweis cluster and dance-of-death 404 are **stale Google index data** (self-healed live, pages already correctly self-canonicalize, last-crawl dates predate the fix), and `git log` checks confirming Shannon Larkin/Eloy Casagrande have no code suspect to investigate. My 3 issues would have burned Roadie cycles reproducing null results the codebase already reached, exactly the anti-pattern `learned-patterns.md` warns against at lines 113/123/125/127.
+- **Corrected:** closed #4621, #4622, #4623 immediately, each with a comment citing the specific `learned-patterns.md` line and reasoning that already covers it.
+- **Also corrected `learned-patterns.md` pollution:** I'd appended a big-wins pattern line that duplicated the existing line 123 verbatim (same 5 wins, same snapshot) and a joey-jordison L2 "do-not-promote" counter-entry asserting a citation reversal I never actually verified (single-provider/perplexity query variance is a plausible alternative explanation, and this repo's culture is to live-verify before recording a claim as fact). Removed both; kept only the one genuinely new addition (indexed-share % WoW tracking baseline, 74.6%, which had no prior entry to duplicate).
+- **Root cause of my own error:** I read `gsc-watch-snapshot.md` and `indexation-snapshot.md` directly but skipped a full read of `learned-patterns.md` and `decisions-log.md` before triaging — both explicitly instruct reading `learned-patterns.md` "before triaging any new seo-proposal," and the same discipline clearly applies to L1/L3 raw snapshot data, which doesn't carry the "already investigated" context that only lives in the log.
+- Founder ideas: inbox empty. GSC content-gap: same `mike portnoy drum set` row, already double-fixed (#4551/#4593), GSC lag. Atomic-split: nothing open. Human-founder blockers (#875/#529/#526/#525) unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 3 (filed) → 0 (closed, all duplicates) — net zero, but 3 issue-cycles wasted and now corrected
+- `learned-patterns.md`: +1 net new line (indexed-share baseline); 2 erroneous lines added and removed same-run
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: none real to triage. ✅ GSC-gap: none new. ✅ Atomic split: none needed. ✅ L1/L3 close-the-loop: re-verified today's data is fully covered by the 12:52/15:29 entries — corrected after initially failing this check. ✅ Decisions logged.
+
+### Next Run
+1. **Rule for future runs: before filing any ai-fix from raw L1/L2/L3 snapshot data, grep `learned-patterns.md` and today's `decisions-log.md` entries for the query/URL/entity first** — the snapshot files themselves don't indicate "already investigated," only the log does.
+2. Backlog at 0 — floor is 45, but nothing fresh/eligible to promote (no real seo-proposals waiting, all known L1/L3 findings already correctly held). Wait for either a fresh SEO Agent proposal or the 2026-07-20 snapshot refresh.
+3. Watch 2026-07-20 L1/L3 snapshots for: joey-jordison recovery, Shannon Larkin repeat, navene-koperweis cluster clearing, dance-of-death staying fixed.
+4. #4440 (infra) and human-founder blockers (#875/#529/#526/#525) unchanged — no re-spam.
+
+---
+
 ## 2026-07-14 15:29 — Pulse: promoted 1 fresh proposal (FAQ-depth batch 5), L1/L2/L3 snapshots still stale (no new action)
 
 ### Context (≤3 lines)

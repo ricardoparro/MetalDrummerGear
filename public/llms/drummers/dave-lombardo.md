@@ -6,7 +6,7 @@ country: "Cuba/USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dave-lombardo"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Dave Lombardo — Drum Kit & Gear Setup
@@ -67,22 +67,6 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Dave Lombardo use?**
-
-A: Dave Lombardo uses a Tama Starclassic Maple drum kit with his Tama S.L.P. G-Maple snare (14x6.5"), Paiste RUDE and 2002 Series cymbals (15" Sound Edge Hi-Hats, 18" and 19" Crashes, 22" Reign Power Ride, 18" China), and a Tama Iron Cobra 900 double pedal. His Promark Dave Lombardo Signature 2Bx sticks complete the rig.
-
-**Q: What drum set does Dave Lombardo use?**
-
-A: Dave Lombardo's drum set is a Tama Starclassic Maple configured for the powerful, direct approach required in thrash metal. His drum set includes a 22" bass drum, multiple rack toms, and Tama hardware — a Tama configuration he has favored since returning to Slayer in the early 2000s and carried through his work with Dead Cross and Mr. Bungle.
-
-**Q: What cymbals does Dave Lombardo use?**
-
-A: Dave Lombardo uses Paiste RUDE and 2002 Series cymbals: 15" Sound Edge Hi-Hats, 18" and 19" Crashes, a 22" Reign Power Ride, and an 18" China. Paiste RUDE cymbals are extremely durable and loud — ideal for the aggressive dynamics of Slayer's thrash metal performances at extreme concert volumes.
-
-**Q: What bass drum pedal does Dave Lombardo use?**
-
-A: Dave Lombardo uses a Tama Iron Cobra 900 double bass drum pedal. His explosive double kick technique — developed for Slayer's extreme thrash tempos on Reign in Blood (1986) — is considered one of the most influential in heavy metal drumming history, inspiring generations of metal drummers worldwide.
-
 **Q: What drums does Dave Lombardo play?**
 
 A: Dave Lombardo plays Tama Starclassic drums with Paiste RUDE and 2002 cymbals.
@@ -103,6 +87,22 @@ A: Dave is most famous for drumming on Slayer's "Reign in Blood" (1986), a thras
 
 A: Yes, Dave co-founded Slayer in 1981 with Kerry King, Jeff Hanneman, and Tom Araya.
 
+**Q: What drum kit did Dave Lombardo use?**
+
+A: Dave Lombardo's drum kit is a Tama Starclassic Walnut/Birch configuration featuring larger-than-standard 22"-24" bass drums, a Tama S.L.P. 14"x6.5" G-Maple snare drum, and a Tama Iron Cobra 900 double pedal that powers his pioneering double bass drumming.
+
+**Q: What drum set did Dave Lombardo use?**
+
+A: Dave Lombardo's drum set has run on Tama drums for most of his career, evolving from an early Tama Imperialstar through Artstar to his current Tama Starclassic Walnut/Birch kit. The drum set is completed by Paiste RUDE and 2002 series cymbals, including the signature "Reign" Power Ride named after Slayer's "Reign in Blood."
+
+**Q: What cymbals does Dave Lombardo use?**
+
+A: Dave Lombardo uses Paiste RUDE and 2002 series cymbals, including 15" Sound Edge hi-hats, multiple crashes, and the Paiste "Reign" Power Ride he co-developed and named after Slayer's "Reign in Blood" album.
+
+**Q: What snare drum does Dave Lombardo use?**
+
+A: Dave Lombardo plays a Tama S.L.P. 14"x6.5" G-Maple snare drum, chosen for the cutting attack it delivers behind his rapid double bass patterns.
+
 ## Quotes
 
 > "Speed is nothing without control. You have to be able to play fast and tight at the same time."
@@ -119,11 +119,16 @@ A: Yes, Dave co-founded Slayer in 1981 with Kerry King, Jeff Hanneman, and Tom A
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Dave Lombardo:
+MetalForge has 8 signature lick tutorial(s) for Dave Lombardo:
 
+- [Reign in Blood Double-Bass Pump](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-slayer-reign-in-blood-double-bass)
+- [Show No Mercy Speed Tom Cascade](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-show-no-mercy-tom-run)
 - [Angel of Death Opening](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-angel-of-death-chaos)
 - [Raining Blood Double Bass](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-raining-blood-double-bass)
 - [Seasons in the Abyss Groove](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-seasons-thrash)
+- [Raining Blood Intro Blast](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-raining-blood-lick)
+- [Angel of Death Double-Bass Tornado](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-angel-of-death-lick)
+- [South of Heaven Half-Time Groove](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-south-of-heaven-lick)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
@@ -157,4 +162,4 @@ Full breakdown: [Dave Lombardo's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

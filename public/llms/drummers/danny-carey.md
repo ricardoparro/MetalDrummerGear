@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/danny-carey"
 source: "https://metalforge.io"
-last_updated: "2026-06-26"
+last_updated: "2026-07-14"
 ---
 
 # Danny Carey — Drum Kit & Gear Setup
@@ -65,33 +65,9 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Danny Carey use?**
-
-A: Danny Carey uses a Sonor SQ2 Heavy Beech drum kit with a Sonor signature bronze snare (14x8"), Paiste Signature Series cymbals (15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" Chinas), Octobans, LP Bongo Drums, and Mandala Drum electronic pads.
-
-**Q: What drum set does Danny Carey use?**
-
-A: Danny Carey's drum set is a Sonor SQ2 Heavy Beech kit configured with multiple rack toms and floor toms, a Sonor signature bronze snare (14x8"), Octobans, LP Bongo Drums, and Mandala Drum electronic pads. This expanded drum set has been the foundation of Tool's sound since the Undertow era, growing more complex with each album cycle through Fear Inoculum (2019).
-
-**Q: What cymbals does Danny Carey use?**
-
-A: Danny Carey uses Paiste Signature Series cymbals: 15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" China cymbals, and Paiste Rude crashes for explosive accents.
-
-**Q: What drums did Danny Carey use on Lateralus?**
-
-A: On Lateralus (2001), Danny Carey used a Sonor SQ2 drum kit with a bronze signature snare (14x8"), Paiste Signature Series cymbals (Sound Edge Hi-Hats, Power Crashes, Dry Heavy Ride), Vic Firth Danny Carey Signature sticks, and early Mandala Drum electronic pad integration. The setup supported the album's Fibonacci-sequence polyrhythms and odd time signatures, including the 9/8+8/8+7/8 pattern of the title track.
-
-**Q: What drums did Danny Carey use on Fear Inoculum?**
-
-A: For Fear Inoculum (2019), Danny Carey used a Sonor SQ2 Heavy Beech kit in an expanded configuration with 15" Sound Edge Hi-Hats, 18" & 19" Power Crashes, 22" Dry Heavy Ride, 20" & 22" China cymbals, Paiste Rude crashes, and an expanded Mandala Drum electronic pad rig that powers the album's cinematic, ambient passages.
-
-**Q: Does Danny Carey use octobans?**
-
-A: Yes, Danny Carey incorporates Octobans — eight small single-headed cylindrical drums tuned chromatically — into his kit for melodic accent hits and pitched fills. He also uses LP Bongo Drums as part of his extended percussion setup, reflecting his interest in world-music textures and sacred-geometry rhythmic structures.
-
 **Q: What drums does Danny Carey play?**
 
-A: Danny Carey plays Sonor SQ2 Heavy Beech drums with Paiste Signature Series cymbals, Mandala electronic pads, Octobans, and LP Bongo Drums.
+A: Danny plays Sonor SQ2 Heavy Beech drums with Paiste cymbals and Mandala electronic pads.
 
 **Q: Has Danny Carey won a Grammy?**
 
@@ -108,6 +84,22 @@ A: Mandala drums are electronic pads Danny uses for triggering samples and melod
 **Q: Is Danny Carey in the Modern Drummer Hall of Fame?**
 
 A: Yes, Danny was inducted into the Modern Drummer Hall of Fame in 2016.
+
+**Q: What drum kit did Danny Carey use?**
+
+A: Danny Carey's drum kit is a massive Sonor SQ2 Heavy Beech configuration with an extensive array of toms, built around his signature Sonor Danny Carey 14"x8" bronze snare drum. Mandala electronic pads and a Sonor Giant Step Twin Effect double pedal round out the setup for Tool's polyrhythmic arrangements.
+
+**Q: What drum set did Danny Carey use?**
+
+A: Danny Carey's drum set has been Sonor SQ2 Heavy Beech shells for decades. The drum set is centered on his signature bronze snare drum and Paiste Signature cymbals, with Mandala electronic pads layered in for the melodic textures heard on Tool albums like "Lateralus" and "Fear Inoculum."
+
+**Q: What cymbals does Danny Carey use?**
+
+A: Danny Carey uses Paiste Signature series cymbals, including Sound Edge hi-hats, Power crash cymbals, a Dry Heavy Ride, and china cymbals, chosen for their dark, complex overtones that suit Tool's dense arrangements.
+
+**Q: What snare drum does Danny Carey use?**
+
+A: Danny Carey plays his signature Sonor Danny Carey snare drum, a 14"x8" bronze-shell snare built for the deep, powerful tone that anchors Tool's polyrhythmic grooves.
 
 ## Quotes
 
@@ -129,11 +121,14 @@ A: Yes, Danny was inducted into the Modern Drummer Hall of Fame in 2016.
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Danny Carey:
+MetalForge has 6 signature lick tutorial(s) for Danny Carey:
 
 - [Pneuma Main Groove](https://metalforge.io/drummers/danny-carey/licks/danny-carey-pneuma-groove)
 - [Schism Intro Pattern](https://metalforge.io/drummers/danny-carey/licks/danny-carey-schism-intro)
 - [Forty Six & 2 Outro Solo](https://metalforge.io/drummers/danny-carey/licks/danny-carey-forty-six-and-2-outro)
+- [Schism Odd Meter Groove](https://metalforge.io/drummers/danny-carey/licks/danny-carey-schism-odd-meter-groove)
+- [Lateralus Fibonacci Polyrhythm](https://metalforge.io/drummers/danny-carey/licks/danny-carey-lateralus-polyrhythm)
+- [Forty Six & 2 Steady Groove](https://metalforge.io/drummers/danny-carey/licks/danny-carey-forty-six-and-2-steady-groove)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
@@ -143,4 +138,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-26 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

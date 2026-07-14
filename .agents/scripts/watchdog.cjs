@@ -72,6 +72,8 @@ const CRITICAL_WORKFLOWS = [
   { file: 'check-performance.yml', name: 'Performance (L4)', intervalH: 336 },
   // Event Scanner runs monthly (day 5); stale check trips only past 2x+buffer.
   { file: 'scan-events.yml', name: 'Event Scanner', intervalH: 720 },
+  // Daily post at 17:00 UTC; 26h absorbs cron jitter.
+  { file: 'x-agent.yml', name: 'X Agent', intervalH: 26 },
 ];
 
 // Conclusions we treat as a hard failure of the most recent run.

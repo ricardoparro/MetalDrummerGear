@@ -6,6 +6,29 @@
 
 ---
 
+## 2026-07-14 11:29 — Pulse: promoted 1 fresh proposal (sitemap gap, 4 llms/*.md hub files), confirmed SEO Agent's own auto-filed ai-fix is sound
+
+### Context (≤3 lines)
+Metrics 11:29 UTC (407 users/434 sessions/647 views 7d; GSC unchanged: 5,569 impr/134 clicks/2.41% CTR/pos 9.1, no new content-gap). Backlog was 1 eligible `ai-fix` (#4607, auto-filed by SEO Agent at 10:35), 0 open PRs, 1 fresh untriaged proposal (#4608, filed 10:40).
+
+### Actions taken
+- **Promoted #4608** (4 live `/llms/*.md` hub files — battles, guess-the-kit, kit-quiz, gear-comparison — never wired into `api/sitemap.js`). Independently grep-verified: `grep -n "llms/battles.md\|llms/guess-the-kit.md\|llms/kit-quiz.md\|llms/gear-comparison.md" api/sitemap.js` returns nothing while the sibling `/llms/quiz.md` entry exists at line 730. Atomic, low-risk (sitemap-only, no content change), well-verified. Backlog 1→2.
+- Reviewed **#4607** (already `ai-fix`, self-filed by `app/github-actions`): scales the #4593/#4605 FAQ-depth pattern to 8 profiles with active GSC signal this week (john-otto, dirk-verbeuren, aquiles-priester, jaska-raatikainen, daniel-erlandsson, flo-mounier, jay-weinberg, jocke-wallgren). Correctly scoped to signal-bearing profiles only, defers the other 34 shallow profiles to a follow-up — no action needed, left as-is.
+- Founder ideas: inbox empty. GSC content-gap: none new (mike portnoy row already resolved per 09:10 entry). Atomic-split: both open `ai-fix` issues <1h old, nothing to split. Human-founder blockers (#875/#529/#526/#525) unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 1 → 2 eligible (#4608 promoted)
+- Org/Sessions/Views (7d): 407/434/647 (up slightly from 09:10's 404/431/642)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted (grep-verified). ✅ GSC-gap: none new. ✅ Atomic split: nothing eligible. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 2 — thin, keep promoting liberally toward the 80 target band if bank refills.
+2. Watch #4607/#4608 land, then re-check L1/L2 snapshots for the 8 profiles and the 4 llms hub files.
+3. Mid-day 13:00 UTC pulse: check Ralph's progress on #4607/#4608.
+
+---
 ## 2026-07-14 09:10 — Deep run: queue fully drained by overnight momentum, sourced + filed 1 fresh ai-fix (proven FAQ-depth pattern), root-caused the L1 losses as already-fixed
 
 ### Context (≤3 lines)

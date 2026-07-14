@@ -60,17 +60,37 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Bill Ward play?**
+**Q: What drum kit does Bill Ward use?**
 
-A: Bill Ward plays a Ludwig Classic Maple.
+A: Bill Ward played Ludwig drum kits throughout Black Sabbath's classic era — a Ludwig Super Classic setup on landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975), paired with Paiste 2002 and Giant Beat cymbals. His Ludwig Supraphonic 14"x6.5" LM402 snare delivered the sharp crack anchoring "Iron Man," "War Pigs," and "Symptom of the Universe."
 
-**Q: What cymbals does Bill Ward use?**
+**Q: What drum set does Bill Ward use?**
 
-A: Bill Ward uses Paiste 2002 & Giant Beat Series (15" Giant Beat Hi-Hats, 18" & 20" 2002 Crashes, 24" 2002 Ride, 18" 2002 China).
+A: Bill Ward's drum set typically centered on a 22" bass drum and 13" and 16" toms in Ludwig Classic Maple shells, driven by a Ludwig Atlas Pro double pedal and Ludwig throne, with Paiste's 24" 2002 Ride — one of the largest ride cymbals in classic rock — anchoring the kit.
+
+**Q: What cymbals does Bill Ward play?**
+
+A: Bill Ward plays Paiste 2002 and Giant Beat Series cymbals: 15" Giant Beat Hi-Hats, 18" and 20" 2002 Crashes, a 24" 2002 Ride, and an 18" 2002 China.
+
+**Q: What snare does Bill Ward use?**
+
+A: Bill Ward's snare is a Ludwig Supraphonic 14"x6.5" LM402, the same model behind the crack heard on Sabbath staples like "War Pigs" and "Iron Man."
+
+**Q: What sticks does Bill Ward use?**
+
+A: Bill Ward uses Vic Firth American Classic 2B drumsticks.
+
+**Q: What bass drum pedal does Bill Ward use?**
+
+A: Bill Ward uses a Ludwig Atlas Pro double pedal mounted with Ludwig hardware, including a Ludwig throne.
+
+**Q: What drumheads does Bill Ward use?**
+
+A: Bill Ward uses Remo drumheads.
 
 **Q: What band is Bill Ward in?**
 
-A: Bill Ward drums for Black Sabbath, a heavy metal / hard rock / blues rock band.
+A: Bill Ward is a co-founder and drummer of Black Sabbath, playing with the band from 1968-1983 and again from 1997-2006.
 
 ## Black Sabbath (1970) — Debut Album
 

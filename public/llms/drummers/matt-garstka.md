@@ -59,17 +59,37 @@ Meinl Byzance Series cymbals complete the Matt Garstka drum kit: 15" Dual Hi-Hat
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Matt Garstka play?**
+**Q: What drum kit does Matt Garstka use?**
 
-A: Matt Garstka plays a Tama Starclassic Walnut/Birch.
+A: Matt Garstka's drum kit is a Tama Starclassic Walnut/Birch build, the hybrid shell pack he has played as Animals as Leaders' drummer since 2012, chosen for the balance of warm low end and crisp attack his polyrhythmic, jazz-fusion-infused metal requires. It's anchored by his Tama S.L.P. 14"x6" G-Maple signature snare, which cuts through dense odd-meter passages on The Joy of Motion (2014) and The Madness of Many (2016).
 
-**Q: What cymbals does Matt Garstka use?**
+**Q: What drum set does Matt Garstka use?**
 
-A: Matt Garstka uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Dual Ride).
+A: Matt Garstka's drum set centers on the same Tama Starclassic Walnut/Birch shells and Tama S.L.P. G-Maple signature snare, driven by a Tama Speed Cobra 910 double pedal for the intricate, ghost-note-laced double bass patterns central to his linear independence. Meinl Byzance cymbals and Vic Firth signature sticks round out the setup.
+
+**Q: What cymbals does Matt Garstka play?**
+
+A: Matt Garstka plays Meinl Byzance Series cymbals: 15" Dual Hi-Hats for nuanced, washy articulation, 18" and 20" Extra Dry Medium Crashes for quick-decaying accents, and a 22" Dual Ride for complex rhythmic definition.
+
+**Q: What snare does Matt Garstka use?**
+
+A: Matt Garstka's snare is his Tama S.L.P. 14"x6" G-Maple signature model, delivering the articulate crack that anchors his ghost-note-heavy patterns on Animals as Leaders records.
+
+**Q: What sticks does Matt Garstka use?**
+
+A: Matt Garstka uses Vic Firth Matt Garstka Signature drumsticks, his own signature model developed with Vic Firth.
+
+**Q: What bass drum pedal does Matt Garstka use?**
+
+A: Matt Garstka drives his double bass patterns with a Tama Speed Cobra 910 double pedal.
+
+**Q: What drumheads does Matt Garstka use?**
+
+A: Matt Garstka uses Evans drumheads across his Tama Starclassic kit.
 
 **Q: What band is Matt Garstka in?**
 
-A: Matt Garstka drums for Animals as Leaders, a progressive metal / djent band.
+A: Matt Garstka has been the drummer for instrumental progressive metal band Animals as Leaders since 2012, appearing on The Joy of Motion (2014), The Madness of Many (2016), and Parrhesia (2022).
 
 ## Signature Licks on MetalForge
 

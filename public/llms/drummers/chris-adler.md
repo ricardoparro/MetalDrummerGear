@@ -63,17 +63,37 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Chris Adler play?**
+**Q: What drum kit does Chris Adler use?**
 
-A: Chris Adler plays a Mapex Black Panther Design Lab.
+A: Chris Adler plays a Mapex Black Panther Design Lab drum kit — the precision-engineered configuration that powered Lamb of God's rise to one of the most successful American metal bands of the 21st century. Its dry, focused tone anchors his groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath.
 
-**Q: What cymbals does Chris Adler use?**
+**Q: What drum set does Chris Adler use?**
 
-A: Chris Adler uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Dark Crashes, 21" Transition Ride, 18" Extra Dry China).
+A: Chris Adler's drum set is built around his Mapex Chris Adler Signature 14"x5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls — driven by a Mapex Falcon double pedal and Mapex T865 throne.
+
+**Q: What cymbals does Chris Adler play?**
+
+A: Chris Adler plays Meinl Byzance Series cymbals: 14" Dark Hi-Hats, 18" and 19" Dark Crashes, a 21" Transition Ride, and an 18" Extra Dry China.
+
+**Q: What snare does Chris Adler use?**
+
+A: Chris Adler's snare is his Mapex Chris Adler Signature 14"x5.5" Walnut/Maple, a shallow shell built for the precise crack essential to Lamb of God's syncopated riff-locking grooves.
+
+**Q: What sticks does Chris Adler use?**
+
+A: Chris Adler uses Promark TX5AXW Chris Adler Signature drumsticks.
+
+**Q: What bass drum pedal does Chris Adler use?**
+
+A: Chris Adler uses a Mapex Falcon double pedal.
+
+**Q: What drumheads does Chris Adler use?**
+
+A: Chris Adler uses Evans drumheads.
 
 **Q: What band is Chris Adler in?**
 
-A: Chris Adler drums for Lamb of God, a groove metal band.
+A: Chris Adler was co-founder and drummer of Lamb of God from 1994-2019, briefly played with Megadeth (2015-2016), and now drums for Firstborne, formed in 2020.
 
 ## Signature Licks on MetalForge
 

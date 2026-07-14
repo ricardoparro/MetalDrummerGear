@@ -66,17 +66,37 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Richard Christy play?**
+**Q: What drum kit does Richard Christy use?**
 
-A: Richard Christy plays a Tama Starclassic Maple.
+A: Richard Christy plays a Tama Starclassic Maple drum kit — the all-maple shell pack he used to record Death's technical, genre-defining swan song The Sound of Perseverance alongside Chuck Schuldiner. His Tama Starclassic 14"x6.5" Maple snare stays warm under Death's intricate arrangements while still delivering the crack needed for rapid-fire blast beats.
 
-**Q: What cymbals does Richard Christy use?**
+**Q: What drum set does Richard Christy use?**
 
-A: Richard Christy uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAX Chinese).
+A: Richard Christy's drum set pairs Tama Starclassic Maple shells and his Maple snare with a Tama Iron Cobra 900 double pedal, giving him the speed and precision behind the double-bass patterns he carried from Death into Iced Earth and Charred Walls of the Damned.
+
+**Q: What cymbals does Richard Christy play?**
+
+A: Richard Christy plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, and an 18" AAX Chinese.
+
+**Q: What snare does Richard Christy use?**
+
+A: Richard Christy's snare is a Tama Starclassic 14"x6.5" Maple, warm enough to sit underneath Death's progressive arrangements while cutting through for blast beats.
+
+**Q: What sticks does Richard Christy use?**
+
+A: Richard Christy uses Vic Firth American Classic 5A drumsticks, a comparatively lightweight, classic-diameter stick that favors finesse and articulation.
+
+**Q: What bass drum pedal does Richard Christy use?**
+
+A: Richard Christy uses a Tama Iron Cobra 900 double pedal.
+
+**Q: What drumheads does Richard Christy use?**
+
+A: Richard Christy uses Evans drumheads.
 
 **Q: What band is Richard Christy in?**
 
-A: Richard Christy drums for Death / Iced Earth, a death metal / thrash metal band.
+A: Richard Christy recorded with Death from 1996-1999, played with Iced Earth from 2003-2004, and has drummed for his own band, Charred Walls of the Damned, since 2009.
 
 ## Quotes
 

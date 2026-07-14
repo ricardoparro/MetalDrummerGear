@@ -2228,6 +2228,19 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
           'His drumming on "Iron Man" and "War Pigs" defined heavy metal drumming'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Bill Ward use?', a: 'Bill Ward played Ludwig drum kits throughout Black Sabbath\'s classic era — a Ludwig Super Classic setup on landmark albums like Paranoid (1970), Vol. 4 (1972), and Sabotage (1975), paired with Paiste 2002 and Giant Beat cymbals. His Ludwig Supraphonic 14"x6.5" LM402 snare delivered the sharp crack anchoring "Iron Man," "War Pigs," and "Symptom of the Universe."' },
+          { q: 'What drum set does Bill Ward use?', a: 'Bill Ward\'s drum set typically centered on a 22" bass drum and 13" and 16" toms in Ludwig Classic Maple shells, driven by a Ludwig Atlas Pro double pedal and Ludwig throne, with Paiste\'s 24" 2002 Ride — one of the largest ride cymbals in classic rock — anchoring the kit.' },
+          { q: 'What cymbals does Bill Ward play?', a: 'Bill Ward plays Paiste 2002 and Giant Beat Series cymbals: 15" Giant Beat Hi-Hats, 18" and 20" 2002 Crashes, a 24" 2002 Ride, and an 18" 2002 China.' },
+          { q: 'What snare does Bill Ward use?', a: 'Bill Ward\'s snare is a Ludwig Supraphonic 14"x6.5" LM402, the same model behind the crack heard on Sabbath staples like "War Pigs" and "Iron Man."' },
+          { q: 'What sticks does Bill Ward use?', a: 'Bill Ward uses Vic Firth American Classic 2B drumsticks.' },
+          { q: 'What bass drum pedal does Bill Ward use?', a: 'Bill Ward uses a Ludwig Atlas Pro double pedal mounted with Ludwig hardware, including a Ludwig throne.' },
+          { q: 'What drumheads does Bill Ward use?', a: 'Bill Ward uses Remo drumheads.' },
+          { q: 'What band is Bill Ward in?', a: 'Bill Ward is a co-founder and drummer of Black Sabbath, playing with the band from 1968-1983 and again from 1997-2006.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -2591,6 +2604,19 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
           'Emphasizes the importance of dynamics in heavy music',
           'Despite technical abilities, prioritizes serving the music over showmanship',
           'Has stated jazz drummers like Tony Williams influenced him more than metal drummers'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Matt Garstka use?', a: 'Matt Garstka\'s drum kit is a Tama Starclassic Walnut/Birch build, the hybrid shell pack he has played as Animals as Leaders\' drummer since 2012, chosen for the balance of warm low end and crisp attack his polyrhythmic, jazz-fusion-infused metal requires. It\'s anchored by his Tama S.L.P. 14"x6" G-Maple signature snare, which cuts through dense odd-meter passages on The Joy of Motion (2014) and The Madness of Many (2016).' },
+          { q: 'What drum set does Matt Garstka use?', a: 'Matt Garstka\'s drum set centers on the same Tama Starclassic Walnut/Birch shells and Tama S.L.P. G-Maple signature snare, driven by a Tama Speed Cobra 910 double pedal for the intricate, ghost-note-laced double bass patterns central to his linear independence. Meinl Byzance cymbals and Vic Firth signature sticks round out the setup.' },
+          { q: 'What cymbals does Matt Garstka play?', a: 'Matt Garstka plays Meinl Byzance Series cymbals: 15" Dual Hi-Hats for nuanced, washy articulation, 18" and 20" Extra Dry Medium Crashes for quick-decaying accents, and a 22" Dual Ride for complex rhythmic definition.' },
+          { q: 'What snare does Matt Garstka use?', a: 'Matt Garstka\'s snare is his Tama S.L.P. 14"x6" G-Maple signature model, delivering the articulate crack that anchors his ghost-note-heavy patterns on Animals as Leaders records.' },
+          { q: 'What sticks does Matt Garstka use?', a: 'Matt Garstka uses Vic Firth Matt Garstka Signature drumsticks, his own signature model developed with Vic Firth.' },
+          { q: 'What bass drum pedal does Matt Garstka use?', a: 'Matt Garstka drives his double bass patterns with a Tama Speed Cobra 910 double pedal.' },
+          { q: 'What drumheads does Matt Garstka use?', a: 'Matt Garstka uses Evans drumheads across his Tama Starclassic kit.' },
+          { q: 'What band is Matt Garstka in?', a: 'Matt Garstka has been the drummer for instrumental progressive metal band Animals as Leaders since 2012, appearing on The Joy of Motion (2014), The Madness of Many (2016), and Parrhesia (2022).' }
         ]
       },
       sources: {
@@ -3926,6 +3952,19 @@ Roddy is considered one of the pioneers of modern extreme metal drumming, having
           'Continues to influence extreme drummers through online presence'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Derek Roddy use?', a: 'Derek Roddy plays a Tama Starclassic Bubinga drum kit — a dense, bass-heavy shell pack built to handle the blistering blast beats and one-footed bass drum technique that made him one of the most respected extreme metal drummers of his generation. His Tama SLP Black Brass 14"x6.5" snare delivers a sharp crack engineered to stay audible through the technical density of his work with Hate Eternal and Nile.' },
+          { q: 'What drum set does Derek Roddy use?', a: 'Derek Roddy\'s drum set pairs Tama Starclassic Bubinga shells and his Black Brass snare with a Tama Speed Cobra 910 double pedal, giving him the speed and stability behind his signature one-footed blast technique.' },
+          { q: 'What cymbals does Derek Roddy play?', a: 'Derek Roddy plays Meinl\'s Byzance and Mb20 Heavy Series cymbals: 14" Byzance Heavy Hi-Hats, 18" and 19" Mb20 Heavy Crashes, a 21" Mb20 Heavy Ride, and an 18" Byzance China.' },
+          { q: 'What snare does Derek Roddy use?', a: 'Derek Roddy\'s snare is a Tama SLP Black Brass 14"x6.5", tuned for a sharp, cutting crack that stays audible through his technical death metal work.' },
+          { q: 'What sticks does Derek Roddy use?', a: 'Derek Roddy uses Vater Player\'s Design Derek Roddy Model (VHDRW) drumsticks, his own signature stick.' },
+          { q: 'What bass drum pedal does Derek Roddy use?', a: 'Derek Roddy drives his one-footed blast technique with a Tama Speed Cobra 910 double pedal.' },
+          { q: 'What drumheads does Derek Roddy use?', a: 'Derek Roddy uses Evans drumheads.' },
+          { q: 'What band is Derek Roddy in?', a: 'Derek Roddy has drummed for Hate Eternal (2000-2002, 2004-2005), Nile (2000-2002), and Malevolent Creation (1996-1999).' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -4424,6 +4463,19 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
           'Has been described as "the heartbeat" of Deftones\' sound'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Abe Cunningham use?', a: 'Abe Cunningham plays an SJC Custom drum kit with Zildjian K Custom and A Custom cymbals — the bespoke setup that has anchored Deftones\' atmospheric alt-metal sound across White Pony, Diamond Eyes, and Koi No Yokan. The centerpiece is an SJC Custom 14"x6.5" Brass snare, chosen for the warm, cutting crack that projects through Deftones\' layered guitar textures.' },
+          { q: 'What drum set does Abe Cunningham use?', a: 'Abe Cunningham\'s drum set pairs SJC Custom shells and his 14"x6.5" Brass snare with a DW 9000 Series double pedal and DW hardware, giving him the dynamic range to shift between crushing heaviness and delicate atmosphere within the same song.' },
+          { q: 'What cymbals does Abe Cunningham play?', a: 'Abe Cunningham plays Zildjian cymbals: 14" K Custom Hi-Hats, 18" and 20" K Custom Crashes, a 22" K Custom Ride, and a 19" A Custom China.' },
+          { q: 'What snare does Abe Cunningham use?', a: 'Abe Cunningham\'s snare is an SJC Custom 14"x6.5" Brass shell, giving him a warm, cutting crack that sits well within Deftones\' dense guitar mix.' },
+          { q: 'What sticks does Abe Cunningham use?', a: 'Abe Cunningham uses Vic Firth American Classic 2B drumsticks.' },
+          { q: 'What bass drum pedal does Abe Cunningham use?', a: 'Abe Cunningham uses a DW 9000 Series double pedal mounted on DW hardware.' },
+          { q: 'What drumheads does Abe Cunningham use?', a: 'Abe Cunningham uses Remo drumheads.' },
+          { q: 'What band is Abe Cunningham in?', a: 'Abe Cunningham is a founding member and drummer of Deftones, with the band since its 1988 formation.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -4534,6 +4586,19 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
           'Still occasionally performs with Death To All tribute concerts',
           'Known for his encyclopedic knowledge of metal and horror films',
           'His work with Control Denied demonstrated versatility beyond pure death metal'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Richard Christy use?', a: 'Richard Christy plays a Tama Starclassic Maple drum kit — the all-maple shell pack he used to record Death\'s technical, genre-defining swan song The Sound of Perseverance alongside Chuck Schuldiner. His Tama Starclassic 14"x6.5" Maple snare stays warm under Death\'s intricate arrangements while still delivering the crack needed for rapid-fire blast beats.' },
+          { q: 'What drum set does Richard Christy use?', a: 'Richard Christy\'s drum set pairs Tama Starclassic Maple shells and his Maple snare with a Tama Iron Cobra 900 double pedal, giving him the speed and precision behind the double-bass patterns he carried from Death into Iced Earth and Charred Walls of the Damned.' },
+          { q: 'What cymbals does Richard Christy play?', a: 'Richard Christy plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, and an 18" AAX Chinese.' },
+          { q: 'What snare does Richard Christy use?', a: 'Richard Christy\'s snare is a Tama Starclassic 14"x6.5" Maple, warm enough to sit underneath Death\'s progressive arrangements while cutting through for blast beats.' },
+          { q: 'What sticks does Richard Christy use?', a: 'Richard Christy uses Vic Firth American Classic 5A drumsticks, a comparatively lightweight, classic-diameter stick that favors finesse and articulation.' },
+          { q: 'What bass drum pedal does Richard Christy use?', a: 'Richard Christy uses a Tama Iron Cobra 900 double pedal.' },
+          { q: 'What drumheads does Richard Christy use?', a: 'Richard Christy uses Evans drumheads.' },
+          { q: 'What band is Richard Christy in?', a: 'Richard Christy recorded with Death from 1996-1999, played with Iced Earth from 2003-2004, and has drummed for his own band, Charred Walls of the Damned, since 2009.' }
         ]
       },
       sources: {
@@ -5165,6 +5230,19 @@ After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and fol
           'Buried beside his mother and brother Dimebag in Arlington, Texas'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit did Vinnie Paul use?', a: 'Vinnie Paul played a ddrum Vinnie Paul Signature Series drum kit — a custom-configured setup built to his specifications as Pantera\'s co-founder and groove metal architect. His ddrum Vinnie Paul Signature 14"x8" snare was engineered for maximum projection and crack, cutting through Pantera\'s wall of distorted guitars on Cowboys from Hell, Vulgar Display of Power, and Far Beyond Driven.' },
+          { q: 'What drum set did Vinnie Paul use?', a: 'Vinnie Paul\'s drum set paired his ddrum Signature Series shells and 14"x8" snare with a ddrum double pedal, powering the thunderous double kick that anchored Pantera\'s signature heavy grooves.' },
+          { q: 'What cymbals did Vinnie Paul play?', a: 'Vinnie Paul played Sabian AA and AAX Series cymbals: 14" Hi-Hats, 18" and 19" Crashes, a 21" Ride, and an 18" China.' },
+          { q: 'What snare did Vinnie Paul use?', a: 'Vinnie Paul\'s snare was a ddrum Vinnie Paul Signature 14"x8", a deep model engineered for maximum projection and crack.' },
+          { q: 'What sticks did Vinnie Paul use?', a: 'Vinnie Paul used Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What bass drum pedal did Vinnie Paul use?', a: 'Vinnie Paul used a ddrum double pedal mounted with a ddrum throne.' },
+          { q: 'What drumheads did Vinnie Paul use?', a: 'Vinnie Paul used Evans drumheads.' },
+          { q: 'What band was Vinnie Paul in?', a: 'Vinnie Paul co-founded and drummed for Pantera (1981-2003), then Damageplan (2003-2004), and later Hellyeah (2006-2018).' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -5412,6 +5490,19 @@ Dailor's drumming is characterized by constant motion—intricate fills that wea
           'Has cited jazz drummers as major influences despite playing extreme metal'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Brann Dailor use?', a: 'Brann Dailor plays a Tama Starclassic Performer B/B drum kit — a birch/bubinga shell configuration prized for its warm, focused attack that complements Mastodon\'s dense, riff-driven arrangements. The centerpiece is his Tama S.L.P. G-Maple 14"x6.5" snare, delivering cutting crack and warm maple tone across Leviathan, Blood Mountain, and Crack the Skye.' },
+          { q: 'What drum set does Brann Dailor use?', a: 'Brann Dailor\'s drum set pairs Tama Starclassic Performer B/B shells and his G-Maple snare with a Tama Speed Cobra double pedal, Tama Iron Cobra Lever Glide hi-hat stand, and Tama 1st Chair Ergo-Rider throne, driving the fluid double bass patterns beneath Mastodon\'s polyrhythmic guitar layers.' },
+          { q: 'What cymbals does Brann Dailor play?', a: 'Brann Dailor plays Meinl Byzance Series cymbals: 14" Dark Hi-Hats, 18" and 19" Brilliant Heavy Hammered Crashes, a 21" Ghost Ride, and an 18" Extra Dry China.' },
+          { q: 'What snare does Brann Dailor use?', a: 'Brann Dailor\'s snare is a Tama S.L.P. 14"x6.5" G-Maple, delivering the cutting crack and warm maple tone heard across Mastodon\'s defining albums.' },
+          { q: 'What sticks does Brann Dailor use?', a: 'Brann Dailor uses Vater 5B drumsticks.' },
+          { q: 'What bass drum pedal does Brann Dailor use?', a: 'Brann Dailor uses a Tama Speed Cobra double pedal.' },
+          { q: 'What drumheads does Brann Dailor use?', a: 'Brann Dailor uses Evans drumheads.' },
+          { q: 'What band is Brann Dailor in?', a: 'Brann Dailor is the drummer and co-vocalist for progressive sludge metal band Mastodon, with the group since 2000; he also plays in the synth project Arcadea since 2017.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -5529,6 +5620,19 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
           'Left Lamb of God in 2019 after 25 years to pursue other interests'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Chris Adler use?', a: 'Chris Adler plays a Mapex Black Panther Design Lab drum kit — the precision-engineered configuration that powered Lamb of God\'s rise to one of the most successful American metal bands of the 21st century. Its dry, focused tone anchors his groove-driven patterns on Ashes of the Wake, Sacrament, and Wrath.' },
+          { q: 'What drum set does Chris Adler use?', a: 'Chris Adler\'s drum set is built around his Mapex Chris Adler Signature 14"x5.5" Walnut/Maple snare — a shallow, articulate shell that punches through dense guitar walls — driven by a Mapex Falcon double pedal and Mapex T865 throne.' },
+          { q: 'What cymbals does Chris Adler play?', a: 'Chris Adler plays Meinl Byzance Series cymbals: 14" Dark Hi-Hats, 18" and 19" Dark Crashes, a 21" Transition Ride, and an 18" Extra Dry China.' },
+          { q: 'What snare does Chris Adler use?', a: 'Chris Adler\'s snare is his Mapex Chris Adler Signature 14"x5.5" Walnut/Maple, a shallow shell built for the precise crack essential to Lamb of God\'s syncopated riff-locking grooves.' },
+          { q: 'What sticks does Chris Adler use?', a: 'Chris Adler uses Promark TX5AXW Chris Adler Signature drumsticks.' },
+          { q: 'What bass drum pedal does Chris Adler use?', a: 'Chris Adler uses a Mapex Falcon double pedal.' },
+          { q: 'What drumheads does Chris Adler use?', a: 'Chris Adler uses Evans drumheads.' },
+          { q: 'What band is Chris Adler in?', a: 'Chris Adler was co-founder and drummer of Lamb of God from 1994-2019, briefly played with Megadeth (2015-2016), and now drums for Firstborne, formed in 2020.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -5639,6 +5743,19 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
           'Uses a hybrid acoustic/electronic setup for studio and live work',
           'Has stated that groove is more important than speed or complexity',
           'Continues to evolve his approach with each Periphery album'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Matt Halpern use?', a: 'Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery\'s complex polyrhythmic arrangements. His Pearl Reference 14"x6.5" Brass snare delivers cutting, focused crack that sits precisely within Periphery\'s dense, downtuned guitar layers on albums like Periphery II, Juggernaut, and Hail Stan.' },
+          { q: 'What drum set does Matt Halpern use?', a: 'Matt Halpern\'s drum set pairs Pearl Reference Series shells and his Brass snare with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent\'s syncopated rhythms.' },
+          { q: 'What cymbals does Matt Halpern play?', a: 'Matt Halpern plays Meinl Byzance Series cymbals: 15" Dark Hi-Hats, 18" and 20" Extra Dry Medium Crashes, a 22" Transition Ride, and an 18" Extra Dry China.' },
+          { q: 'What snare does Matt Halpern use?', a: 'Matt Halpern\'s snare is a Pearl Reference 14"x6.5" Brass, giving him cutting, focused crack that sits within Periphery\'s dense, downtuned guitar mix.' },
+          { q: 'What sticks does Matt Halpern use?', a: 'Matt Halpern uses Promark Matt Halpern Signature drumsticks.' },
+          { q: 'What bass drum pedal does Matt Halpern use?', a: 'Matt Halpern uses a Pearl Demon Drive double pedal.' },
+          { q: 'What drumheads does Matt Halpern use?', a: 'Matt Halpern uses Evans drumheads.' },
+          { q: 'What band is Matt Halpern in?', a: 'Matt Halpern has been the drummer for progressive metal band Periphery since its formation in 2009.' }
         ]
       },
       sources: {
@@ -7334,6 +7451,19 @@ Before Lamb of God, Cruz built his reputation through extensive work with Winds 
           'Left Winds of Plague in 2021 to focus exclusively on Lamb of God',
           'Brings his own energy to Lamb of God while respecting the established sound',
           'Has proven himself as a worthy successor to Chris Adler\'s legacy'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Art Cruz use?', a: 'Art Cruz plays a Ludwig drum kit — the setup he brought to Lamb of God after joining in 2019, following stints with Winds of Plague and Prong. It centers on his Ludwig 14"x6.5" Black Beauty snare, delivering the sharp, cutting crack heard throughout Lamb of God\'s self-titled 2020 album and 2022\'s Omens.' },
+          { q: 'What drum set does Art Cruz use?', a: 'Art Cruz\'s drum set pairs Ludwig shells and his Black Beauty snare with a Trick Pro 1-V double pedal mounted on Gibraltar hardware and a Ludwig Atlas throne, giving him the precise double bass response his aggressive groove metal style demands.' },
+          { q: 'What cymbals does Art Cruz play?', a: 'Art Cruz plays an extensive Zildjian setup: 14" A Custom Mastersound Hi-Hats, an 18" A Custom EFX and 17" K China with EFX holes for trashy texture, 18" A Custom Medium, 19" A Custom Projection, and 20" A Custom Crashes, a 21" A Zildjian Mega Bell Ride, a 19" A Ultra Hammered China, plus 9" FX Trash Splashes and an FX Blast Bell for extra color.' },
+          { q: 'What snare does Art Cruz use?', a: 'Art Cruz\'s snare is a Ludwig 14"x6.5" Black Beauty, giving him the sharp crack heard on Lamb of God\'s most recent releases.' },
+          { q: 'What sticks does Art Cruz use?', a: 'Art Cruz uses Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What bass drum pedal does Art Cruz use?', a: 'Art Cruz drives his double bass patterns with a Trick Pro 1-V double pedal mounted on Gibraltar hardware.' },
+          { q: 'What drumheads does Art Cruz use?', a: 'Art Cruz uses Evans drumheads.' },
+          { q: 'What band is Art Cruz in?', a: 'Art Cruz has been the drummer for Lamb of God since 2019, replacing Chris Adler; he previously played with Prong (2012-2019) and Winds of Plague (2010-2012).' }
         ]
       },
       sources: {

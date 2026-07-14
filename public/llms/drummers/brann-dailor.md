@@ -62,17 +62,37 @@ Dailor's drumming is characterized by constant motion—intricate fills that wea
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Brann Dailor play?**
+**Q: What drum kit does Brann Dailor use?**
 
-A: Brann Dailor plays a Tama Starclassic Performer B/B.
+A: Brann Dailor plays a Tama Starclassic Performer B/B drum kit — a birch/bubinga shell configuration prized for its warm, focused attack that complements Mastodon's dense, riff-driven arrangements. The centerpiece is his Tama S.L.P. G-Maple 14"x6.5" snare, delivering cutting crack and warm maple tone across Leviathan, Blood Mountain, and Crack the Skye.
 
-**Q: What cymbals does Brann Dailor use?**
+**Q: What drum set does Brann Dailor use?**
 
-A: Brann Dailor uses Meinl Byzance Series (14" Dark Hi-Hats, 18" & 19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China).
+A: Brann Dailor's drum set pairs Tama Starclassic Performer B/B shells and his G-Maple snare with a Tama Speed Cobra double pedal, Tama Iron Cobra Lever Glide hi-hat stand, and Tama 1st Chair Ergo-Rider throne, driving the fluid double bass patterns beneath Mastodon's polyrhythmic guitar layers.
+
+**Q: What cymbals does Brann Dailor play?**
+
+A: Brann Dailor plays Meinl Byzance Series cymbals: 14" Dark Hi-Hats, 18" and 19" Brilliant Heavy Hammered Crashes, a 21" Ghost Ride, and an 18" Extra Dry China.
+
+**Q: What snare does Brann Dailor use?**
+
+A: Brann Dailor's snare is a Tama S.L.P. 14"x6.5" G-Maple, delivering the cutting crack and warm maple tone heard across Mastodon's defining albums.
+
+**Q: What sticks does Brann Dailor use?**
+
+A: Brann Dailor uses Vater 5B drumsticks.
+
+**Q: What bass drum pedal does Brann Dailor use?**
+
+A: Brann Dailor uses a Tama Speed Cobra double pedal.
+
+**Q: What drumheads does Brann Dailor use?**
+
+A: Brann Dailor uses Evans drumheads.
 
 **Q: What band is Brann Dailor in?**
 
-A: Brann Dailor drums for Mastodon, a progressive/sludge metal band.
+A: Brann Dailor is the drummer and co-vocalist for progressive sludge metal band Mastodon, with the group since 2000; he also plays in the synth project Arcadea since 2017.
 
 ## Signature Licks on MetalForge
 

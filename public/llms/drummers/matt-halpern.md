@@ -60,17 +60,37 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Matt Halpern play?**
+**Q: What drum kit does Matt Halpern use?**
 
-A: Matt Halpern plays a Pearl Reference Series.
+A: Matt Halpern plays a Pearl Reference Series drum kit — a versatile, open-sounding setup chosen for its dynamic range across Periphery's complex polyrhythmic arrangements. His Pearl Reference 14"x6.5" Brass snare delivers cutting, focused crack that sits precisely within Periphery's dense, downtuned guitar layers on albums like Periphery II, Juggernaut, and Hail Stan.
 
-**Q: What cymbals does Matt Halpern use?**
+**Q: What drum set does Matt Halpern use?**
 
-A: Matt Halpern uses Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China).
+A: Matt Halpern's drum set pairs Pearl Reference Series shells and his Brass snare with a Pearl Demon Drive double pedal and Pearl D-2000 throne, driving the precise double bass lines beneath djent's syncopated rhythms.
+
+**Q: What cymbals does Matt Halpern play?**
+
+A: Matt Halpern plays Meinl Byzance Series cymbals: 15" Dark Hi-Hats, 18" and 20" Extra Dry Medium Crashes, a 22" Transition Ride, and an 18" Extra Dry China.
+
+**Q: What snare does Matt Halpern use?**
+
+A: Matt Halpern's snare is a Pearl Reference 14"x6.5" Brass, giving him cutting, focused crack that sits within Periphery's dense, downtuned guitar mix.
+
+**Q: What sticks does Matt Halpern use?**
+
+A: Matt Halpern uses Promark Matt Halpern Signature drumsticks.
+
+**Q: What bass drum pedal does Matt Halpern use?**
+
+A: Matt Halpern uses a Pearl Demon Drive double pedal.
+
+**Q: What drumheads does Matt Halpern use?**
+
+A: Matt Halpern uses Evans drumheads.
 
 **Q: What band is Matt Halpern in?**
 
-A: Matt Halpern drums for Periphery, a progressive/djent band.
+A: Matt Halpern has been the drummer for progressive metal band Periphery since its formation in 2009.
 
 ## Signature Licks on MetalForge
 

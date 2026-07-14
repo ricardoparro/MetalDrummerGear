@@ -61,17 +61,37 @@ Zildjian cymbals define the Abe Cunningham drum kit's sonic character: 14" K Cus
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Abe Cunningham play?**
+**Q: What drum kit does Abe Cunningham use?**
 
-A: Abe Cunningham plays a SJC Custom Drums.
+A: Abe Cunningham plays an SJC Custom drum kit with Zildjian K Custom and A Custom cymbals — the bespoke setup that has anchored Deftones' atmospheric alt-metal sound across White Pony, Diamond Eyes, and Koi No Yokan. The centerpiece is an SJC Custom 14"x6.5" Brass snare, chosen for the warm, cutting crack that projects through Deftones' layered guitar textures.
 
-**Q: What cymbals does Abe Cunningham use?**
+**Q: What drum set does Abe Cunningham use?**
 
-A: Abe Cunningham uses Zildjian K Custom & A Custom Series (14" K Custom Hi-Hats, 18" & 20" K Custom Crashes, 22" K Custom Ride, 19" A Custom China).
+A: Abe Cunningham's drum set pairs SJC Custom shells and his 14"x6.5" Brass snare with a DW 9000 Series double pedal and DW hardware, giving him the dynamic range to shift between crushing heaviness and delicate atmosphere within the same song.
+
+**Q: What cymbals does Abe Cunningham play?**
+
+A: Abe Cunningham plays Zildjian cymbals: 14" K Custom Hi-Hats, 18" and 20" K Custom Crashes, a 22" K Custom Ride, and a 19" A Custom China.
+
+**Q: What snare does Abe Cunningham use?**
+
+A: Abe Cunningham's snare is an SJC Custom 14"x6.5" Brass shell, giving him a warm, cutting crack that sits well within Deftones' dense guitar mix.
+
+**Q: What sticks does Abe Cunningham use?**
+
+A: Abe Cunningham uses Vic Firth American Classic 2B drumsticks.
+
+**Q: What bass drum pedal does Abe Cunningham use?**
+
+A: Abe Cunningham uses a DW 9000 Series double pedal mounted on DW hardware.
+
+**Q: What drumheads does Abe Cunningham use?**
+
+A: Abe Cunningham uses Remo drumheads.
 
 **Q: What band is Abe Cunningham in?**
 
-A: Abe Cunningham drums for Deftones, a alternative metal / nu metal band.
+A: Abe Cunningham is a founding member and drummer of Deftones, with the band since its 1988 formation.
 
 ## Quotes
 

@@ -5445,7 +5445,7 @@ function updateDocumentMeta(drummer, drummers = [], filters = {}) {
         "@type": "ImageObject",
         "url": `https://metalforge.io${drummer.image}`,
         "contentUrl": `https://metalforge.io${drummer.image}`,
-        "caption": `${drummer.name} — drum kit and gear setup`,
+        "caption": getExtendedBio(drummerSlug)?.imageAlt || `${drummer.name} — drum kit and gear setup`,
         "name": `${drummer.name}'s drum kit`
       },
       "jobTitle": "Professional Drummer",
@@ -7446,7 +7446,7 @@ function DrummerDetail({ drummer, theme, onBack, onSelectGear, onCompareYourKit,
           <ImageWithFallback
             source={{ uri: drummer.image }}
             style={styles.detailImage}
-            accessibilityLabel={`Photo of ${drummer.name}`}
+            accessibilityLabel={getExtendedBio(drummerSlug)?.imageAlt || `Photo of ${drummer.name}`}
             priority={true}
             width={120}
             height={120}

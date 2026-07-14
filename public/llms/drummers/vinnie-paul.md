@@ -63,17 +63,37 @@ After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and fol
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Vinnie Paul play?**
+**Q: What drum kit did Vinnie Paul use?**
 
-A: Vinnie Paul plays a ddrum Vinnie Paul Signature Series.
+A: Vinnie Paul played a ddrum Vinnie Paul Signature Series drum kit — a custom-configured setup built to his specifications as Pantera's co-founder and groove metal architect. His ddrum Vinnie Paul Signature 14"x8" snare was engineered for maximum projection and crack, cutting through Pantera's wall of distorted guitars on Cowboys from Hell, Vulgar Display of Power, and Far Beyond Driven.
 
-**Q: What cymbals does Vinnie Paul use?**
+**Q: What drum set did Vinnie Paul use?**
 
-A: Vinnie Paul uses Sabian AA & AAX Series (14" Hi-Hats, 18" & 19" Crashes, 21" Ride, 18" China).
+A: Vinnie Paul's drum set paired his ddrum Signature Series shells and 14"x8" snare with a ddrum double pedal, powering the thunderous double kick that anchored Pantera's signature heavy grooves.
 
-**Q: What band is Vinnie Paul in?**
+**Q: What cymbals did Vinnie Paul play?**
 
-A: Vinnie Paul drums for Pantera / Damageplan / Hellyeah, a groove metal / heavy metal band.
+A: Vinnie Paul played Sabian AA and AAX Series cymbals: 14" Hi-Hats, 18" and 19" Crashes, a 21" Ride, and an 18" China.
+
+**Q: What snare did Vinnie Paul use?**
+
+A: Vinnie Paul's snare was a ddrum Vinnie Paul Signature 14"x8", a deep model engineered for maximum projection and crack.
+
+**Q: What sticks did Vinnie Paul use?**
+
+A: Vinnie Paul used Vic Firth American Classic 5B drumsticks.
+
+**Q: What bass drum pedal did Vinnie Paul use?**
+
+A: Vinnie Paul used a ddrum double pedal mounted with a ddrum throne.
+
+**Q: What drumheads did Vinnie Paul use?**
+
+A: Vinnie Paul used Evans drumheads.
+
+**Q: What band was Vinnie Paul in?**
+
+A: Vinnie Paul co-founded and drummed for Pantera (1981-2003), then Damageplan (2003-2004), and later Hellyeah (2006-2018).
 
 ## Signature Licks on MetalForge
 

@@ -66,17 +66,37 @@ Roddy is considered one of the pioneers of modern extreme metal drumming, having
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Derek Roddy play?**
+**Q: What drum kit does Derek Roddy use?**
 
-A: Derek Roddy plays a Tama Starclassic Bubinga.
+A: Derek Roddy plays a Tama Starclassic Bubinga drum kit — a dense, bass-heavy shell pack built to handle the blistering blast beats and one-footed bass drum technique that made him one of the most respected extreme metal drummers of his generation. His Tama SLP Black Brass 14"x6.5" snare delivers a sharp crack engineered to stay audible through the technical density of his work with Hate Eternal and Nile.
 
-**Q: What cymbals does Derek Roddy use?**
+**Q: What drum set does Derek Roddy use?**
 
-A: Derek Roddy uses Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China).
+A: Derek Roddy's drum set pairs Tama Starclassic Bubinga shells and his Black Brass snare with a Tama Speed Cobra 910 double pedal, giving him the speed and stability behind his signature one-footed blast technique.
+
+**Q: What cymbals does Derek Roddy play?**
+
+A: Derek Roddy plays Meinl's Byzance and Mb20 Heavy Series cymbals: 14" Byzance Heavy Hi-Hats, 18" and 19" Mb20 Heavy Crashes, a 21" Mb20 Heavy Ride, and an 18" Byzance China.
+
+**Q: What snare does Derek Roddy use?**
+
+A: Derek Roddy's snare is a Tama SLP Black Brass 14"x6.5", tuned for a sharp, cutting crack that stays audible through his technical death metal work.
+
+**Q: What sticks does Derek Roddy use?**
+
+A: Derek Roddy uses Vater Player's Design Derek Roddy Model (VHDRW) drumsticks, his own signature stick.
+
+**Q: What bass drum pedal does Derek Roddy use?**
+
+A: Derek Roddy drives his one-footed blast technique with a Tama Speed Cobra 910 double pedal.
+
+**Q: What drumheads does Derek Roddy use?**
+
+A: Derek Roddy uses Evans drumheads.
 
 **Q: What band is Derek Roddy in?**
 
-A: Derek Roddy drums for Hate Eternal / Nile, a death metal / technical death metal band.
+A: Derek Roddy has drummed for Hate Eternal (2000-2002, 2004-2005), Nile (2000-2002), and Malevolent Creation (1996-1999).
 
 ## Quotes
 

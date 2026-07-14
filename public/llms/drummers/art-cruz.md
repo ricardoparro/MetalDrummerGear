@@ -58,17 +58,37 @@ Before Lamb of God, Cruz built his reputation through extensive work with Winds 
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Art Cruz play?**
+**Q: What drum kit does Art Cruz use?**
 
-A: Art Cruz plays a Ludwig Drums.
+A: Art Cruz plays a Ludwig drum kit — the setup he brought to Lamb of God after joining in 2019, following stints with Winds of Plague and Prong. It centers on his Ludwig 14"x6.5" Black Beauty snare, delivering the sharp, cutting crack heard throughout Lamb of God's self-titled 2020 album and 2022's Omens.
 
-**Q: What cymbals does Art Cruz use?**
+**Q: What drum set does Art Cruz use?**
 
-A: Art Cruz uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" A Custom EFX, 18" A Custom Medium Crash, 19" A Custom Projection Crash, 20" A Custom Crash, 21" A Zildjian Mega Bell Ride, 19" A Ultra Hammered Chinas, 17" K China w/ EFX Holes, 9" FX Trash Splashes, FX Blast Bell).
+A: Art Cruz's drum set pairs Ludwig shells and his Black Beauty snare with a Trick Pro 1-V double pedal mounted on Gibraltar hardware and a Ludwig Atlas throne, giving him the precise double bass response his aggressive groove metal style demands.
+
+**Q: What cymbals does Art Cruz play?**
+
+A: Art Cruz plays an extensive Zildjian setup: 14" A Custom Mastersound Hi-Hats, an 18" A Custom EFX and 17" K China with EFX holes for trashy texture, 18" A Custom Medium, 19" A Custom Projection, and 20" A Custom Crashes, a 21" A Zildjian Mega Bell Ride, a 19" A Ultra Hammered China, plus 9" FX Trash Splashes and an FX Blast Bell for extra color.
+
+**Q: What snare does Art Cruz use?**
+
+A: Art Cruz's snare is a Ludwig 14"x6.5" Black Beauty, giving him the sharp crack heard on Lamb of God's most recent releases.
+
+**Q: What sticks does Art Cruz use?**
+
+A: Art Cruz uses Vic Firth American Classic 5B drumsticks.
+
+**Q: What bass drum pedal does Art Cruz use?**
+
+A: Art Cruz drives his double bass patterns with a Trick Pro 1-V double pedal mounted on Gibraltar hardware.
+
+**Q: What drumheads does Art Cruz use?**
+
+A: Art Cruz uses Evans drumheads.
 
 **Q: What band is Art Cruz in?**
 
-A: Art Cruz drums for Lamb of God, a groove metal / thrash metal band.
+A: Art Cruz has been the drummer for Lamb of God since 2019, replacing Chris Adler; he previously played with Prong (2012-2019) and Winds of Plague (2010-2012).
 
 ## Signature Licks on MetalForge
 

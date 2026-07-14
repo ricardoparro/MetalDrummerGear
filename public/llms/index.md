@@ -65,8 +65,11 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Per-Drummer Endorsements | https://metalforge.io/llms/endorsements/ | Individual brand endorsement histories per drummer (67 files) |
 | Genre Guides | https://metalforge.io/llms/genres/ | Per-genre LLM guides covering featured drummers, techniques, gear, and FAQ — thrash, death, black, progressive, nu-metal, groove, metalcore, hardcore, technical-death (9 files) |
 | Drumsticks Guide | https://metalforge.io/llms/drumsticks.md | Drumstick hub — indexes all 30 verified signature/endorsed drumstick models (brand, wood, tip shape), plus links to sizing/tip-shape reference pages and the ranked top-10 signature sticks list (Markdown) |
+| Drumstick Reference Guides | https://metalforge.io/llms/drumsticks/ | Sizing, materials, and tip-shape reference guides for drumsticks (3 files) |
 | Cymbals Guide | https://metalforge.io/llms/cymbals.md | Cymbal hub — indexes all 56 verified drummer cymbal setups (brand, series, sizes), plus links to alloy/sizing reference, brand positioning, and a best-for-metal buying guide (Markdown) |
+| Cymbal Reference Guides | https://metalforge.io/llms/cymbals/ | Alloy, type, and size/weight reference guides for cymbals (3 files) |
 | Snares Guide | https://metalforge.io/llms/snares.md | Snare hub — indexes all 56 verified drummer snares (shell material, size), plus links to shell/size/tuning reference and a best-for-metal buying guide (Markdown) |
+| Snare Reference Guides | https://metalforge.io/llms/snares/ | Shell, size, and tuning reference guides for metal snares (3 files) |
 | Per-Drummer Signature Snares | https://metalforge.io/llms/snares/signature/ | Individual verified "what snare does X use" pages for 10 drummers with a confirmed signature snare model (10 files) |
 | Pedals Guide | https://metalforge.io/llms/pedals.md | Bass drum pedal hub — drive types, single vs double, setup & tuning, and a best-for-metal buying guide, plus links to all 56 verified drummer pedal setups (Markdown) |
 | Pedal Reference Guides | https://metalforge.io/llms/pedals/ | Drive-types, single-vs-double, and setup-tuning reference guides for bass drum pedals (3 files) |

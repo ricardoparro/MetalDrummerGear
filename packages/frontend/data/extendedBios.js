@@ -118,7 +118,11 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
           { q: 'When did Lars Ulrich co-found Metallica?', a: 'Lars Ulrich co-founded Metallica in 1981 in Los Angeles with James Hetfield.' },
           { q: 'Is Lars Ulrich in the Rock and Roll Hall of Fame?', a: 'Yes, Lars was inducted in 2009 with Metallica, becoming the first Danish-born musician in the Hall.' },
           { q: 'What is Lars Ulrich known for?', a: 'Lars is known for co-founding Metallica, pioneering thrash metal drumming, and his aggressive style with distinctive fills.' },
-          { q: 'Where is Lars Ulrich from?', a: 'Lars Ulrich was born in Gentofte, Denmark on December 26, 1963.' }
+          { q: 'Where is Lars Ulrich from?', a: 'Lars Ulrich was born in Gentofte, Denmark on December 26, 1963.' },
+          { q: 'What drum kit did Lars Ulrich use?', a: "Lars Ulrich's drum kit is a Tama Starclassic Maple kit in a custom black finish, built around his signature Tama LU1465 snare — a 14\"x6.5\" steel shell designed to cut through Metallica's wall of guitar sound. The kit also carries Zildjian A Custom cymbals, including 14\" Dyno Beat hi-hats, several crashes, and a 22\" ride, powered by a Tama Iron Cobra 900 Power Glide double pedal. Ulrich started on Camco drums in Metallica's earliest years before switching to Tama in the mid-1980s." },
+          { q: 'What drum set did Lars Ulrich use?', a: "Lars Ulrich's drum set is built on Tama Starclassic Maple shells finished in custom black, anchored by his signature Tama LU1465 14\"x6.5\" steel snare drum. Zildjian A Custom cymbals — 14\" Dyno Beat hi-hats, multiple crashes, and a 22\" ride — round out the set, along with a Tama Iron Cobra 900 Power Glide double pedal and Ahead aluminum alloy signature drumsticks. Ulrich has used Tama exclusively since moving on from Camco drums in the mid-1980s." },
+          { q: 'What cymbals does Lars Ulrich use?', a: 'Lars Ulrich uses Zildjian A Custom series cymbals, including 14" Dyno Beat hi-hats, several A Custom crash cymbals, and a 22" A Custom ride. The bright, cutting tone of the A Custom line helps his cymbals project through Metallica\'s heavily distorted guitar mix.' },
+          { q: 'What snare drum does Lars Ulrich use?', a: 'Lars Ulrich\'s primary snare is the Tama LU1465, his signature 14"x6.5" steel-shell snare drum built for maximum cut and volume on stage. It has been his main snare since he moved from Camco drums to Tama in the mid-1980s.' }
         ]
       },
       sources: {
@@ -390,7 +394,11 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
           { q: 'What bands has Gene Hoglan played in?', a: 'Gene has played with Death, Testament, Dark Angel, Strapping Young Lad, Dethklok, and Fear Factory.' },
           { q: 'What drums does Gene Hoglan play?', a: 'Gene Hoglan plays Pearl Reference Pure drums with Sabian AAX cymbals.' },
           { q: 'Was Gene Hoglan in Death?', a: "Yes, Gene drummed on Death's albums \"Individual Thought Patterns\" (1993) and \"Symbolic\" (1995)." },
-          { q: 'When was Gene Hoglan born?', a: 'Gene Hoglan was born on August 31, 1967, and turns 59 on August 31, 2026.' }
+          { q: 'When was Gene Hoglan born?', a: 'Gene Hoglan was born on August 31, 1967, and turns 59 on August 31, 2026.' },
+          { q: 'What drum kit does Gene Hoglan use?', a: 'Gene Hoglan\'s drum kit is a Pearl Reference Pure kit in various finishes, centered on his Pearl Reference 14"x6.5" brass snare drum for extra cut and projection. The kit is fitted with Sabian AAX cymbals — 15" hi-hats, crashes up to 20", and a 22" ride — and powered by a Pearl Demon Drive double pedal. Hoglan favors a relatively compact drum kit for accessibility across the many bands he plays in.' },
+          { q: 'What drum set does Gene Hoglan use?', a: 'Gene Hoglan\'s drum set is Pearl Reference Pure, built around a Pearl Reference 14"x6.5" brass snare drum, Sabian AAX cymbals (15" hi-hats, crashes to 20", and a 22" ride), and a Pearl Demon Drive double pedal. He plays Evans Genera HD or EMAD heads and Promark 5B sticks, keeping the drum set consistent across Death, Testament, and Dethklok.' },
+          { q: 'What cymbals does Gene Hoglan use?', a: 'Gene Hoglan uses Sabian AAX series cymbals, including 15" AAX hi-hats, AAX crashes up to 20", and a 22" AAX ride. He favors the brightness and cut of the AAX line to project clearly in dense, extreme metal arrangements.' },
+          { q: 'What snare drum does Gene Hoglan use?', a: 'Gene Hoglan plays a Pearl Reference 14"x6.5" brass snare drum, chosen for the extra cut and projection a brass shell provides over his Pearl Reference Pure kit.' }
         ]
       },
       sources: {
@@ -524,7 +532,11 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
           { q: 'Is Dave Lombardo still in Slayer?', a: 'No, Dave left Slayer in 2013 but tours with the reunited Pantera as of 2022.' },
           { q: 'Where is Dave Lombardo from?', a: 'Dave was born in Havana, Cuba on February 16, 1965, and emigrated to the US as a child.' },
           { q: 'What album is Dave Lombardo most famous for?', a: "Dave is most famous for drumming on Slayer's \"Reign in Blood\" (1986), a thrash metal landmark." },
-          { q: 'Did Dave Lombardo found Slayer?', a: 'Yes, Dave co-founded Slayer in 1981 with Kerry King, Jeff Hanneman, and Tom Araya.' }
+          { q: 'Did Dave Lombardo found Slayer?', a: 'Yes, Dave co-founded Slayer in 1981 with Kerry King, Jeff Hanneman, and Tom Araya.' },
+          { q: 'What drum kit did Dave Lombardo use?', a: 'Dave Lombardo\'s drum kit is built on Tama Starclassic Walnut/Birch shells, anchored by a Tama S.L.P. 14"x6.5" G-Maple snare drum. The kit carries Paiste RUDE and 2002 series cymbals, including 15" Sound Edge hi-hats and the signature Paiste Reign Power Ride, powered by a Tama Iron Cobra 900 double pedal. He started on a Tama Imperialstar kit, evolving through Artstar to Starclassic over his career.' },
+          { q: 'What drum set did Dave Lombardo use?', a: 'Dave Lombardo\'s drum set is Tama Starclassic Walnut/Birch shells, built around a Tama S.L.P. 14"x6.5" G-Maple snare drum. Paiste RUDE and 2002 series cymbals — 15" Sound Edge hi-hats, crashes, and the Paiste Reign Power Ride he co-designed — complete the drum set, powered by a Tama Iron Cobra 900 double pedal. Lombardo prefers larger bass drums, typically 22"-24", within this configuration.' },
+          { q: 'What cymbals does Dave Lombardo use?', a: 'Dave Lombardo uses Paiste RUDE and 2002 series cymbals, including 15" Sound Edge hi-hats, RUDE crashes, and the Paiste Reign Power Ride — a signature ride cymbal he co-designed with Paiste and named after Slayer\'s "Reign in Blood" album.' },
+          { q: 'What snare drum does Dave Lombardo use?', a: 'Dave Lombardo plays a Tama S.L.P. 14"x6.5" G-Maple snare drum, paired with Promark Dave Lombardo Signature 2Bx sticks designed for the power and speed his double bass style demands.' }
         ]
       },
       sources: {
@@ -1041,7 +1053,11 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
           { q: 'Is Mike Portnoy back in Dream Theater?', a: 'Yes, Mike rejoined Dream Theater in 2023 for their reunion tour and new music.' },
           { q: 'Why did Mike Portnoy leave Dream Theater?', a: 'Mike left Dream Theater in 2010 after creative differences and a desire to explore other projects.' },
           { q: 'How many awards has Mike Portnoy won?', a: 'Mike has won over 30 awards from Modern Drummer magazine and was inducted into their Hall of Fame in 2007.' },
-          { q: 'Where did Mike Portnoy go to school?', a: 'Mike attended Berklee College of Music where Dream Theater was formed.' }
+          { q: 'Where did Mike Portnoy go to school?', a: 'Mike attended Berklee College of Music where Dream Theater was formed.' },
+          { q: 'What drum kit did Mike Portnoy use?', a: 'Mike Portnoy\'s drum kit is Tama Starclassic Maple/Birch, featuring his signature Tama Mike Portnoy Melody Master snare (14"x5.5") alongside a large array of rack and floor toms, octobans, and electronic pads. Sabian HHX cymbals — Evolution hi-hats, crashes, a Raw Bell Dry Ride, and an O-Zone — round out the kit, powered by a Tama Iron Cobra Power Glide double pedal.' },
+          { q: 'What drum set did Mike Portnoy use?', a: 'Mike Portnoy\'s drum set is a large Tama Starclassic Maple/Birch configuration built around his signature Tama Mike Portnoy Melody Master 14"x5.5" snare drum. The drum set includes Sabian HHX Evolution hi-hats, HHX crashes, a Raw Bell Dry Ride, an O-Zone effects cymbal, and Roland TD-series electronic pads for hybrid acoustic/electronic sounds.' },
+          { q: 'What cymbals does Mike Portnoy use?', a: 'Mike Portnoy uses Sabian HHX series cymbals, including HHX Evolution hi-hats, multiple HHX crashes, a Raw Bell Dry Ride, and an HHX O-Zone effects cymbal, along with extensive china cymbals for his progressive metal fills.' },
+          { q: 'What snare drum does Mike Portnoy use?', a: 'Mike Portnoy plays his signature Tama Mike Portnoy Melody Master snare drum, a 14"x5.5" shell designed for his Dream Theater and side-project work, played with Promark Mike Portnoy Signature TX420N sticks.' }
         ]
       },
       sources: {
@@ -1170,7 +1186,11 @@ Standing at 6'5" (196 cm), Carey is an imposing presence behind his massive Sono
           { q: 'Has Danny Carey won a Grammy?', a: 'Yes, Danny has won multiple Grammys with Tool for Best Metal Performance.' },
           { q: 'How tall is Danny Carey?', a: 'Danny Carey stands 6\'5" (196 cm), making him one of the tallest drummers in rock.' },
           { q: 'What are Mandala drums?', a: 'Mandala drums are electronic pads Danny uses for triggering samples and melodic elements.' },
-          { q: 'Is Danny Carey in the Modern Drummer Hall of Fame?', a: 'Yes, Danny was inducted into the Modern Drummer Hall of Fame in 2016.' }
+          { q: 'Is Danny Carey in the Modern Drummer Hall of Fame?', a: 'Yes, Danny was inducted into the Modern Drummer Hall of Fame in 2016.' },
+          { q: 'What drum kit did Danny Carey use?', a: 'Danny Carey\'s drum kit is a massive Sonor SQ2 Heavy Beech configuration with multiple toms, built around his signature Sonor Danny Carey 14"x8" bronze snare drum. The kit is fitted with Paiste Signature cymbals — Sound Edge hi-hats, Power crashes, a Dry Heavy Ride, and chinas — plus Mandala electronic pads and a Sonor Giant Step Twin Effect double pedal.' },
+          { q: 'What drum set does Danny Carey use?', a: 'Danny Carey\'s drum set is Sonor SQ2 Heavy Beech, anchored by his signature Sonor Danny Carey 14"x8" bronze snare drum. Paiste Signature series cymbals — Sound Edge hi-hats, Power crashes, a Dry Heavy Ride, and chinas — complete the drum set, along with Mandala Drum electronic pads for melodic textures and a Sonor Giant Step Twin Effect double pedal.' },
+          { q: 'What cymbals does Danny Carey use?', a: 'Danny Carey uses Paiste Signature series cymbals, including Sound Edge hi-hats, Power crash cymbals, a Dry Heavy Ride, and several china cymbals, chosen for their range of tones across Tool\'s complex polyrhythmic arrangements.' },
+          { q: 'What snare drum does Danny Carey use?', a: 'Danny Carey plays his signature Sonor Danny Carey snare drum, a 14"x8" bronze shell built to project through Tool\'s dense, polyrhythmic mix, and hits it with Vic Firth Danny Carey Signature sticks.' }
         ]
       },
       sources: {

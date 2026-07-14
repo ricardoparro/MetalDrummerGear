@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/mike-portnoy"
 source: "https://metalforge.io"
-last_updated: "2026-06-27"
+last_updated: "2026-07-14"
 ---
 
 # Mike Portnoy — Drum Kit & Gear Setup
@@ -67,22 +67,6 @@ Portnoy's technical proficiency, creative compositions, and theatrical live perf
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Mike Portnoy use?**
-
-A: Mike Portnoy uses a Tama Starclassic Maple/Birch drum kit with his signature Tama Melody Master snare (14x5.5"), Sabian HHX Evolution cymbals (14" Evolution Hi-Hats, 18" and 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" and 12" Evolution Splashes, 19" O-Zone Crash), and a Tama Iron Cobra Power Glide double pedal. His kit also features a Tama 1st Chair Ergo-Rider throne for extended performances.
-
-**Q: What drum set does Mike Portnoy use?**
-
-A: Mike Portnoy's drum set is a Tama Starclassic Maple/Birch with multiple rack toms and floor toms configured for progressive metal. His drum set includes Promark Mike Portnoy Signature TX420N drumsticks and is set up for theatrical stage presence — a configuration he has used across Dream Theater, The Winery Dogs, Sons of Apollo, and Liquid Tension Experiment.
-
-**Q: What cymbals does Mike Portnoy use?**
-
-A: Mike Portnoy uses Sabian HHX Evolution Series cymbals: 14" Evolution Hi-Hats, 18" and 19" Evolution Crashes, a 21" Raw Bell Dry Ride, 10" and 12" Evolution Splashes, and a 19" O-Zone Crash. The HHX Evolution series delivers a bright, cutting tone that projects clearly in progressive metal's dense, layered arrangements.
-
-**Q: What bass drum pedal does Mike Portnoy use?**
-
-A: Mike Portnoy uses a Tama Iron Cobra Power Glide double bass drum pedal. The Power Glide model gives him the fluid, controlled double bass action needed for Dream Theater's complex rhythmic passages, including the demanding double kick sections in tracks like "Panic Attack" and "The Dance of Eternity."
-
 **Q: What drums does Mike Portnoy play?**
 
 A: Mike Portnoy plays Tama Starclassic drums with Sabian HHX cymbals.
@@ -102,6 +86,22 @@ A: Mike has won over 30 awards from Modern Drummer magazine and was inducted int
 **Q: Where did Mike Portnoy go to school?**
 
 A: Mike attended Berklee College of Music where Dream Theater was formed.
+
+**Q: What drum kit did Mike Portnoy use?**
+
+A: Mike Portnoy's drum kit is Tama Starclassic Maple/Birch, featuring his signature Tama Mike Portnoy Melody Master snare (14"x5.5") alongside a large array of rack and floor toms, octobans, and electronic pads. Sabian HHX cymbals — Evolution hi-hats, crashes, a Raw Bell Dry Ride, and an O-Zone — round out the kit, powered by a Tama Iron Cobra Power Glide double pedal.
+
+**Q: What drum set did Mike Portnoy use?**
+
+A: Mike Portnoy's drum set is a large Tama Starclassic Maple/Birch configuration built around his signature Tama Mike Portnoy Melody Master 14"x5.5" snare drum. The drum set includes Sabian HHX Evolution hi-hats, HHX crashes, a Raw Bell Dry Ride, an O-Zone effects cymbal, and Roland TD-series electronic pads for hybrid acoustic/electronic sounds.
+
+**Q: What cymbals does Mike Portnoy use?**
+
+A: Mike Portnoy uses Sabian HHX series cymbals, including HHX Evolution hi-hats, multiple HHX crashes, a Raw Bell Dry Ride, and an HHX O-Zone effects cymbal, along with extensive china cymbals for his progressive metal fills.
+
+**Q: What snare drum does Mike Portnoy use?**
+
+A: Mike Portnoy plays his signature Tama Mike Portnoy Melody Master snare drum, a 14"x5.5" shell designed for his Dream Theater and side-project work, played with Promark Mike Portnoy Signature TX420N sticks.
 
 ## Quotes
 
@@ -133,4 +133,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

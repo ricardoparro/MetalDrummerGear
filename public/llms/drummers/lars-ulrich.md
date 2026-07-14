@@ -6,7 +6,7 @@ country: "Denmark"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/lars-ulrich"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Lars Ulrich — Drum Kit & Gear Setup
@@ -77,22 +77,6 @@ Ulrich was the first Danish-born musician inducted into the Rock and Roll Hall o
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Lars Ulrich use?**
-
-A: Lars Ulrich uses a Tama Starclassic Maple drum kit with his signature LU1465 snare drum (14x6.5" steel), Zildjian A Custom cymbals (14" Dyno Beat Hi-Hats, 16"/17"/18" Rock Crashes, 20" Z Custom China, 22" Ride), and a Tama Iron Cobra 900 Power Glide double pedal. He has used Tama drums since the mid-1980s and Zildjian A Custom cymbals since the Load sessions in 1996.
-
-**Q: What drum set does Lars Ulrich use?**
-
-A: Lars Ulrich's drum set is a Tama Starclassic Maple configured with 10", 12", 13", and 16" toms and a 22" bass drum, anchored by his LU1465 signature snare (14x6.5" steel shell). His drum set also features Ahead Lars Ulrich Signature aluminum drumsticks and Remo drumheads — the same setup used on Metallica's Death Magnetic, Hardwired…to Self-Destruct, and 72 Seasons albums.
-
-**Q: What cymbals does Lars Ulrich use?**
-
-A: Lars Ulrich uses Zildjian A Custom Series cymbals: 14" Dyno Beat Hi-Hats, 16", 17", and 18" Rock Crashes, a 20" Z Custom China, and a 22" Ride. He switched to A Custom cymbals from standard Zildjian A during Metallica's Load sessions in 1996, and they have remained his primary cymbal choice ever since.
-
-**Q: What bass drum pedal does Lars Ulrich use?**
-
-A: Lars Ulrich uses a Tama Iron Cobra 900 Power Glide double bass drum pedal. The Power Glide cam system gives a smoother, more fluid double kick action, supporting the double bass patterns Lars plays on tracks like "Battery" and "Master of Puppets."
-
 **Q: What drums does Lars Ulrich play?**
 
 A: Lars Ulrich plays Tama Starclassic drums with his signature LU1465 snare drum.
@@ -112,6 +96,22 @@ A: Lars is known for co-founding Metallica, pioneering thrash metal drumming, an
 **Q: Where is Lars Ulrich from?**
 
 A: Lars Ulrich was born in Gentofte, Denmark on December 26, 1963.
+
+**Q: What drum kit did Lars Ulrich use?**
+
+A: Lars Ulrich's drum kit is a Tama Starclassic Maple kit in a custom black finish, built around his signature Tama LU1465 snare — a 14"x6.5" steel shell designed to cut through Metallica's wall of guitar sound. The kit also carries Zildjian A Custom cymbals, including 14" Dyno Beat hi-hats, several crashes, and a 22" ride, powered by a Tama Iron Cobra 900 Power Glide double pedal. Ulrich started on Camco drums in Metallica's earliest years before switching to Tama in the mid-1980s.
+
+**Q: What drum set did Lars Ulrich use?**
+
+A: Lars Ulrich's drum set is built on Tama Starclassic Maple shells finished in custom black, anchored by his signature Tama LU1465 14"x6.5" steel snare drum. Zildjian A Custom cymbals — 14" Dyno Beat hi-hats, multiple crashes, and a 22" ride — round out the set, along with a Tama Iron Cobra 900 Power Glide double pedal and Ahead aluminum alloy signature drumsticks. Ulrich has used Tama exclusively since moving on from Camco drums in the mid-1980s.
+
+**Q: What cymbals does Lars Ulrich use?**
+
+A: Lars Ulrich uses Zildjian A Custom series cymbals, including 14" Dyno Beat hi-hats, several A Custom crash cymbals, and a 22" A Custom ride. The bright, cutting tone of the A Custom line helps his cymbals project through Metallica's heavily distorted guitar mix.
+
+**Q: What snare drum does Lars Ulrich use?**
+
+A: Lars Ulrich's primary snare is the Tama LU1465, his signature 14"x6.5" steel-shell snare drum built for maximum cut and volume on stage. It has been his main snare since he moved from Camco drums to Tama in the mid-1980s.
 
 ## Quotes
 
@@ -168,4 +168,4 @@ Full breakdown: [Lars Ulrich's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

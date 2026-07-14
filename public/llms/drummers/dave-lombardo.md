@@ -6,7 +6,7 @@ country: "Cuba/USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dave-lombardo"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Dave Lombardo — Drum Kit & Gear Setup
@@ -67,22 +67,6 @@ His work on landmark albums such as "Reign in Blood," "South of Heaven," and "Se
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Dave Lombardo use?**
-
-A: Dave Lombardo uses a Tama Starclassic Maple drum kit with his Tama S.L.P. G-Maple snare (14x6.5"), Paiste RUDE and 2002 Series cymbals (15" Sound Edge Hi-Hats, 18" and 19" Crashes, 22" Reign Power Ride, 18" China), and a Tama Iron Cobra 900 double pedal. His Promark Dave Lombardo Signature 2Bx sticks complete the rig.
-
-**Q: What drum set does Dave Lombardo use?**
-
-A: Dave Lombardo's drum set is a Tama Starclassic Maple configured for the powerful, direct approach required in thrash metal. His drum set includes a 22" bass drum, multiple rack toms, and Tama hardware — a Tama configuration he has favored since returning to Slayer in the early 2000s and carried through his work with Dead Cross and Mr. Bungle.
-
-**Q: What cymbals does Dave Lombardo use?**
-
-A: Dave Lombardo uses Paiste RUDE and 2002 Series cymbals: 15" Sound Edge Hi-Hats, 18" and 19" Crashes, a 22" Reign Power Ride, and an 18" China. Paiste RUDE cymbals are extremely durable and loud — ideal for the aggressive dynamics of Slayer's thrash metal performances at extreme concert volumes.
-
-**Q: What bass drum pedal does Dave Lombardo use?**
-
-A: Dave Lombardo uses a Tama Iron Cobra 900 double bass drum pedal. His explosive double kick technique — developed for Slayer's extreme thrash tempos on Reign in Blood (1986) — is considered one of the most influential in heavy metal drumming history, inspiring generations of metal drummers worldwide.
-
 **Q: What drums does Dave Lombardo play?**
 
 A: Dave Lombardo plays Tama Starclassic drums with Paiste RUDE and 2002 cymbals.
@@ -102,6 +86,22 @@ A: Dave is most famous for drumming on Slayer's "Reign in Blood" (1986), a thras
 **Q: Did Dave Lombardo found Slayer?**
 
 A: Yes, Dave co-founded Slayer in 1981 with Kerry King, Jeff Hanneman, and Tom Araya.
+
+**Q: What drum kit did Dave Lombardo use?**
+
+A: Dave Lombardo's drum kit is built on Tama Starclassic Walnut/Birch shells, anchored by a Tama S.L.P. 14"x6.5" G-Maple snare drum. The kit carries Paiste RUDE and 2002 series cymbals, including 15" Sound Edge hi-hats and the signature Paiste Reign Power Ride, powered by a Tama Iron Cobra 900 double pedal. He started on a Tama Imperialstar kit, evolving through Artstar to Starclassic over his career.
+
+**Q: What drum set did Dave Lombardo use?**
+
+A: Dave Lombardo's drum set is Tama Starclassic Walnut/Birch shells, built around a Tama S.L.P. 14"x6.5" G-Maple snare drum. Paiste RUDE and 2002 series cymbals — 15" Sound Edge hi-hats, crashes, and the Paiste Reign Power Ride he co-designed — complete the drum set, powered by a Tama Iron Cobra 900 double pedal. Lombardo prefers larger bass drums, typically 22"-24", within this configuration.
+
+**Q: What cymbals does Dave Lombardo use?**
+
+A: Dave Lombardo uses Paiste RUDE and 2002 series cymbals, including 15" Sound Edge hi-hats, RUDE crashes, and the Paiste Reign Power Ride — a signature ride cymbal he co-designed with Paiste and named after Slayer's "Reign in Blood" album.
+
+**Q: What snare drum does Dave Lombardo use?**
+
+A: Dave Lombardo plays a Tama S.L.P. 14"x6.5" G-Maple snare drum, paired with Promark Dave Lombardo Signature 2Bx sticks designed for the power and speed his double bass style demands.
 
 ## Quotes
 
@@ -157,4 +157,4 @@ Full breakdown: [Dave Lombardo's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

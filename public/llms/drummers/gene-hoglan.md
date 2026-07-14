@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/gene-hoglan"
 source: "https://metalforge.io"
-last_updated: "2026-07-13"
+last_updated: "2026-07-14"
 ---
 
 # Gene Hoglan — Drum Kit & Gear Setup
@@ -73,22 +73,6 @@ See the [Gene Hoglan vs Tomas Haake](/vs/gene-hoglan-vs-tomas-haake) comparison 
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Gene Hoglan use?**
-
-A: Gene Hoglan uses a Pearl Reference Pure drum kit with a Pearl Reference Brass snare (14x6.5"), Sabian AAX Series cymbals (15" Hi-Hats, 18" and 20" Crashes, 22" Ride, 20" China), Pearl Demon Drive double pedals, and Evans drumheads. He uses Promark 5B drumsticks, a standard model rather than a signature stick.
-
-**Q: What drum set does Gene Hoglan use?**
-
-A: Gene Hoglan's drum set is a Pearl Reference Pure configured with multiple toms suited to both death metal blasting and technical death metal precision. His consistent Pearl/Sabian drum set across Death, Testament, Dark Angel, and Dethklok reflects his preference for reliable, high-performance gear that performs equally well at extreme studio and live tempos.
-
-**Q: What cymbals does Gene Hoglan use?**
-
-A: Gene Hoglan uses Sabian AAX Series cymbals: 15" AAX Hi-Hats, 18" and 20" AAX Crashes, a 22" AAX Ride, and a 20" AAX China. The AAX series delivers a bright, cutting tone with quick decay — allowing Hoglan's complex accent patterns to remain clearly defined at extreme metal tempos.
-
-**Q: What bass drum pedal does Gene Hoglan use?**
-
-A: Gene Hoglan uses Pearl Demon Drive double bass drum pedals. The Demon Drive features a direct-drive mechanism for faster response and consistent feel — critical for Hoglan's metronomic precision at extreme tempos on Death's Individual Thought Patterns and Symbolic albums.
-
 **Q: Why is Gene Hoglan called "The Atomic Clock"?**
 
 A: Gene earned this nickname for his metronomic timing precision and inhuman accuracy.
@@ -108,6 +92,22 @@ A: Yes, Gene drummed on Death's albums "Individual Thought Patterns" (1993) and 
 **Q: When was Gene Hoglan born?**
 
 A: Gene Hoglan was born on August 31, 1967, and turns 59 on August 31, 2026.
+
+**Q: What drum kit does Gene Hoglan use?**
+
+A: Gene Hoglan's drum kit is a Pearl Reference Pure kit in various finishes, centered on his Pearl Reference 14"x6.5" brass snare drum for extra cut and projection. The kit is fitted with Sabian AAX cymbals — 15" hi-hats, crashes up to 20", and a 22" ride — and powered by a Pearl Demon Drive double pedal. Hoglan favors a relatively compact drum kit for accessibility across the many bands he plays in.
+
+**Q: What drum set does Gene Hoglan use?**
+
+A: Gene Hoglan's drum set is Pearl Reference Pure, built around a Pearl Reference 14"x6.5" brass snare drum, Sabian AAX cymbals (15" hi-hats, crashes to 20", and a 22" ride), and a Pearl Demon Drive double pedal. He plays Evans Genera HD or EMAD heads and Promark 5B sticks, keeping the drum set consistent across Death, Testament, and Dethklok.
+
+**Q: What cymbals does Gene Hoglan use?**
+
+A: Gene Hoglan uses Sabian AAX series cymbals, including 15" AAX hi-hats, AAX crashes up to 20", and a 22" AAX ride. He favors the brightness and cut of the AAX line to project clearly in dense, extreme metal arrangements.
+
+**Q: What snare drum does Gene Hoglan use?**
+
+A: Gene Hoglan plays a Pearl Reference 14"x6.5" brass snare drum, chosen for the extra cut and projection a brass shell provides over his Pearl Reference Pure kit.
 
 ## Quotes
 
@@ -163,4 +163,4 @@ Full breakdown: [Gene Hoglan's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

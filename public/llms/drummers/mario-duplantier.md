@@ -6,7 +6,7 @@ country: "France"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/mario-duplantier"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Mario Duplantier — Drum Kit & Gear Setup
@@ -97,10 +97,13 @@ A: "Flying Whales" features some of Mario's most recognized and celebrated drum 
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Mario Duplantier:
+MetalForge has 6 signature lick tutorial(s) for Mario Duplantier:
 
 - [Gojira Polyrhythmic Groove](https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-polyrhythmic-groove)
 - [Gojira Blast Variation](https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-blast-variation)
+- [Silvera Tribal Polyrhythm](https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-silvera-tribal-groove)
+- [Stranded Intro Blast Pattern](https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-stranded-intro-fill)
+- [Flying Whales Main Groove](https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-flying-whales-groove)
 - [Backbone Main Groove](https://metalforge.io/drummers/mario-duplantier/licks/mario-duplantier-backbone-groove)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
@@ -138,4 +141,4 @@ Full breakdown: [Mario Duplantier's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

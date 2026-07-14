@@ -129,11 +129,13 @@ A: Lars Ulrich's primary snare is the Tama LU1465, his signature 14"x6.5" steel-
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Lars Ulrich:
+MetalForge has 5 signature lick tutorial(s) for Lars Ulrich:
 
 - [One Intro Pattern](https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-one-intro)
 - [Enter Sandman Main Groove](https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-enter-sandman-groove)
 - [Master of Puppets Gallop](https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-master-of-puppets-gallop)
+- [One Building Thrash Section](https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-one-building-thrash)
+- [Blackened Open Hi-Hat Groove](https://metalforge.io/drummers/lars-ulrich/licks/lars-ulrich-blackened-open-hihat)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 

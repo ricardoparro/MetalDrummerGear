@@ -6,7 +6,7 @@ country: "Germany"
 primary_brand: "DW"
 profile_url: "https://metalforge.io/drummer/hannes-grossmann"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Hannes Grossmann — Drum Kit & Gear Setup
@@ -115,4 +115,4 @@ Full breakdown: [Hannes Grossmann's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

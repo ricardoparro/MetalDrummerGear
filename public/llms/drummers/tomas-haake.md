@@ -119,8 +119,10 @@ A: Tomas Haake plays a Sonor Tomas Haake Signature 14"x6.5" snare drum, along wi
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Tomas Haake:
+MetalForge has 5 signature lick tutorial(s) for Tomas Haake:
 
+- [obZen Polyrhythm Ostinato](https://metalforge.io/drummers/tomas-haake/licks/tomas-haake-obzen-polyrhythm-groove)
+- [Koloss I Am Colossus Groove](https://metalforge.io/drummers/tomas-haake/licks/tomas-haake-koloss-groove-ostinato)
 - [Bleed Double Bass Groove](https://metalforge.io/drummers/tomas-haake/licks/tomas-haake-bleed-groove)
 - [Clockworks Polymetric Groove](https://metalforge.io/drummers/tomas-haake/licks/tomas-haake-clockworks-groove)
 - [New Millennium Cyanide Christ Groove](https://metalforge.io/drummers/tomas-haake/licks/tomas-haake-new-millennium-cyanide-christ-groove)

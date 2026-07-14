@@ -6,7 +6,7 @@ country: "Norway"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/frost"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Frost — Drum Kit & Gear Setup
@@ -63,17 +63,37 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
 
 ## Frequently Asked Questions
 
+**Q: What bands does Frost play drums for?**
+
+A: Frost (Kjetil-Vidar Haraldstad) has been the drummer for Satyricon since 1993, and also drums for 1349 since 2001.
+
+**Q: What drums does Frost play?**
+
+A: Frost plays a Sonor SQ2 Series drum kit.
+
 **Q: What drum kit does Frost play?**
 
-A: Frost plays a Sonor SQ2 Series.
+A: Frost's drum kit is a Sonor SQ2 Series shell pack, built around a Sonor SQ2 14"x6" maple snare drum, with Remo drumheads.
+
+**Q: What drum set does Frost play?**
+
+A: Frost's drum set pairs Sonor SQ2 shells and his 14"x6" maple snare with Zildjian A Custom and K Series cymbals and a Sonor Perfect Balance pedal built for his hyperspeed blast beats.
 
 **Q: What cymbals does Frost use?**
 
-A: Frost uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 16", 17", 18" A Custom Crashes, 22" K Custom Dark Ride, 18" K China).
+A: Frost uses Zildjian A Custom and K Series cymbals, including 14" A Custom Hi-Hats, 16", 17", and 18" A Custom Crashes, a 22" K Custom Dark Ride, and an 18" K China.
 
-**Q: What band is Frost in?**
+**Q: What snare drum does Frost use?**
 
-A: Frost drums for Satyricon / 1349, a black metal band.
+A: Frost's primary snare is the Sonor SQ2, a 14"x6" maple shell.
+
+**Q: What pedals does Frost use?**
+
+A: Frost drives his hyperspeed double bass patterns with a Sonor Perfect Balance pedal on Sonor hardware.
+
+**Q: What drumsticks does Frost use?**
+
+A: Frost plays Vic Firth American Classic Extreme 5B drumsticks.
 
 ## Quotes
 
@@ -126,4 +146,4 @@ Full breakdown: [Frost's pedal setup](https://metalforge.io/pedals/setups/frost)
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

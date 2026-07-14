@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Noble"
 profile_url: "https://metalforge.io/drummer/martin-lopez"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Martin Lopez — Drum Kit & Gear Setup
@@ -65,17 +65,37 @@ Lopez's tenure with Opeth spanned some of the band's most critically acclaimed a
 
 ## Frequently Asked Questions
 
+**Q: What band does Martin Lopez play drums for?**
+
+A: Martin Lopez is a founding member and drummer of Soen since 2010. He previously drummed for Opeth from 1997-2006.
+
+**Q: What drums does Martin Lopez play?**
+
+A: Martin Lopez plays a Noble & Cooley Walnut drum kit.
+
 **Q: What drum kit does Martin Lopez play?**
 
-A: Martin Lopez plays a Noble & Cooley Walnut.
+A: Martin Lopez's drum kit is a Noble & Cooley Walnut shell pack, built around a Noble & Cooley Solid Shell 14"x6" maple snare drum, with Remo drumheads.
+
+**Q: What drum set does Martin Lopez play?**
+
+A: Martin Lopez's drum set pairs Noble & Cooley Walnut shells and his 14"x6" maple snare with Zildjian K Dark Series cymbals and an Axis Percussion double pedal.
 
 **Q: What cymbals does Martin Lopez use?**
 
-A: Martin Lopez uses Zildjian K Dark Series (14" K Dark Thin Hi-Hats, 18" & 20" K Dark Medium Thin Crashes, 22" K Dark Light Ride, 18" K China).
+A: Martin Lopez uses Zildjian K Dark Series cymbals, including 14" K Dark Thin Hi-Hats, 18" and 20" K Dark Medium Thin Crashes, a 22" K Dark Light Ride, and an 18" K China.
 
-**Q: What band is Martin Lopez in?**
+**Q: What snare drum does Martin Lopez use?**
 
-A: Martin Lopez drums for Soen / ex-Opeth, a progressive metal / progressive death metal band.
+A: Martin Lopez's primary snare is the Noble & Cooley Solid Shell, a 14"x6" maple drum.
+
+**Q: What pedals does Martin Lopez use?**
+
+A: Martin Lopez plays an Axis Percussion double pedal, seated on a DW 9100 throne.
+
+**Q: What drumsticks does Martin Lopez use?**
+
+A: Martin Lopez plays Vic Firth American Classic 5A drumsticks.
 
 ## Quotes
 
@@ -89,11 +109,14 @@ A: Martin Lopez drums for Soen / ex-Opeth, a progressive metal / progressive dea
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Martin Lopez:
+MetalForge has 6 signature lick tutorial(s) for Martin Lopez:
 
 - [Bleak Ghost Note Groove](https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-bleak-ghost-notes)
 - [The Drapery Falls Dynamic Architecture](https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-drapery-falls-dynamics)
 - [Antagonist Progressive Groove](https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-antagonist-soen-groove)
+- [Demon of the Fall Acoustic-to-Electric Opening](https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-demon-of-the-fall-opening)
+- [Blackwater Park Jazz Shuffle Groove](https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-blackwater-park-shuffle)
+- [Deliverance Blast-Beat Section](https://metalforge.io/drummers/martin-lopez/licks/martin-lopez-deliverance-blast)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
@@ -127,4 +150,4 @@ Full breakdown: [Martin Lopez's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

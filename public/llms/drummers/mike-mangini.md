@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/mike-mangini"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Mike Mangini — Drum Kit & Gear Setup
@@ -25,7 +25,7 @@ Mike Mangini's drum kit and gear setup. Mike Mangini is a professional metal dru
 | Primary brand | Pearl |
 | Drum kit | Pearl Reference Series |
 | Signature snare | Pearl Reference 14x5" & 14x6.5" Brass |
-| Sticks | Vic Firth Mike Mangini Signature |
+| Sticks | Vater Mike Mangini Wicked Piston (VHMMWP) |
 
 ## Kit Overview
 
@@ -51,7 +51,7 @@ Before Dream Theater, Mangini built an impressive resume with Steve Vai, Extreme
 - **Snare:** Pearl Reference 14x5" & 14x6.5" Brass
 - **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride)
 - **Hardware:** Pearl Demon Drive Double Pedal, Roland SPD-SX Sampling Pad
-- **Sticks:** Vic Firth Mike Mangini Signature
+- **Sticks:** Vater Mike Mangini Wicked Piston (VHMMWP)
 - **Heads:** Evans
 
 See the [Mike Mangini vs Gavin Harrison](/vs/gavin-harrison-vs-mike-mangini) comparison for a full breakdown of Dream Theater's technical science vs Porcupine Tree/King Crimson's polyrhythmic feel.
@@ -64,25 +64,48 @@ See the [Mike Mangini vs Gavin Harrison](/vs/gavin-harrison-vs-mike-mangini) com
 
 ## Frequently Asked Questions
 
+**Q: What band does Mike Mangini play drums for?**
+
+A: Mike Mangini has been the drummer for Dream Theater since 2010, and also drums for Extreme.
+
+**Q: What drums does Mike Mangini play?**
+
+A: Mike Mangini plays a Pearl Reference Series drum kit.
+
 **Q: What drum kit does Mike Mangini play?**
 
-A: Mike Mangini plays a Pearl Reference Series.
+A: Mike Mangini's drum kit is a Pearl Reference Series shell pack built around two signature-spec Pearl Reference brass snares (14"x5" and 14"x6.5"), with Evans drumheads.
+
+**Q: What drum set does Mike Mangini play?**
+
+A: Mike Mangini's drum set pairs Pearl Reference Series shells and his two Pearl Reference brass snares with Sabian HHX and AAX Series cymbals, plus a Roland SPD-SX sampling pad for electronic textures.
 
 **Q: What cymbals does Mike Mangini use?**
 
-A: Mike Mangini uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 17", 18", 19" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride).
+A: Mike Mangini uses Sabian HHX and AAX Series cymbals, including 14" HHX Evolution Hi-Hats, 17", 18", and 19" HHX Evolution Crashes, and a 21" HHX Raw Bell Dry Ride.
 
-**Q: What band is Mike Mangini in?**
+**Q: What snare drum does Mike Mangini use?**
 
-A: Mike Mangini drums for Dream Theater, a progressive metal band.
+A: Mike Mangini plays two Pearl Reference brass snares — a 14"x5" and a 14"x6.5" — switching between them for different sonic needs.
+
+**Q: What pedals does Mike Mangini use?**
+
+A: Mike Mangini drives his technical double bass patterns with a Pearl Demon Drive double pedal.
+
+**Q: What drumsticks does Mike Mangini use?**
+
+A: Mike Mangini plays his own signature Vater Mike Mangini Wicked Piston (VHMMWP) drumsticks.
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Mike Mangini:
+MetalForge has 6 signature lick tutorial(s) for Mike Mangini:
 
 - [On the Backs of Angels Speed & Independence](https://metalforge.io/drummers/mike-mangini/licks/mike-mangini-on-the-backs-of-angels)
 - [The Looking Glass Linear Fills & Coordination](https://metalforge.io/drummers/mike-mangini/licks/mike-mangini-the-looking-glass)
 - [Breaking All Illusions Odd-Time Mastery](https://metalforge.io/drummers/mike-mangini/licks/mike-mangini-breaking-all-illusions)
+- [Constant Motion 7/8 Paradiddle Engine](https://metalforge.io/drummers/mike-mangini/licks/mangini-systematic-chaos-paradiddle-lick)
+- [Bridges in the Sky 5-over-4 Polyrhythm](https://metalforge.io/drummers/mike-mangini/licks/mangini-dramatic-turn-polyrhythm)
+- [Paralyzed 32nd-Note Fill Cascade](https://metalforge.io/drummers/mike-mangini/licks/mangini-distance-over-time-fill)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
@@ -116,4 +139,4 @@ Full breakdown: [Mike Mangini's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

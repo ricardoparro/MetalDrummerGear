@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/nicko-mcbrain"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Nicko McBrain — Drum Kit & Gear Setup
@@ -63,17 +63,37 @@ See the [Nicko McBrain vs Scott Travis](/vs/scott-travis-vs-nicko-mcbrain) compa
 
 ## Frequently Asked Questions
 
+**Q: What band does Nicko McBrain play drums for?**
+
+A: Nicko McBrain has been the drummer for Iron Maiden since 1982, making him one of the longest-serving drummers in a major metal band at over 40 years.
+
+**Q: What drums does Nicko McBrain play?**
+
+A: Nicko McBrain plays a Sonor SQ2 Series drum kit.
+
 **Q: What drum kit does Nicko McBrain play?**
 
-A: Nicko McBrain plays a Sonor SQ2 Series.
+A: Nicko McBrain's drum kit is a Sonor SQ2 Series shell pack, anchored by his Sonor Nicko McBrain Signature 14"x6.5" snare and Remo Emperor drumheads for maximum resonance.
+
+**Q: What drum set does Nicko McBrain play?**
+
+A: Nicko McBrain's drum set pairs Sonor SQ2 shells and his signature 14"x6.5" snare with Paiste 2002 and Signature Series cymbals, driven by a single bass drum pedal in keeping with his famous single-foot technique.
 
 **Q: What cymbals does Nicko McBrain use?**
 
-A: Nicko McBrain uses Paiste 2002 & Signature Series (14" Sound Edge Hi-Hats, 16" & 18" Power Crashes, 22" Power Ride, 20" China).
+A: Nicko McBrain uses Paiste 2002 and Signature Series cymbals, including 14" Sound Edge Hi-Hats, 16" and 18" Power Crashes, a 22" Power Ride, and a 20" China.
 
-**Q: What band is Nicko McBrain in?**
+**Q: What snare drum does Nicko McBrain use?**
 
-A: Nicko McBrain drums for Iron Maiden, a heavy metal / nwobhm band.
+A: Nicko McBrain's primary snare is his own Sonor Nicko McBrain Signature, a 14"x6.5" shell.
+
+**Q: Does Nicko McBrain use a double bass pedal?**
+
+A: No — Nicko McBrain famously plays a single bass drum pedal rather than double bass or a second kick, relying on his signature single-foot "gallop" technique heard on songs like "The Trooper."
+
+**Q: What drumsticks does Nicko McBrain use?**
+
+A: Nicko McBrain plays his own signature Vic Firth Nicko McBrain drumsticks.
 
 ## Quotes
 
@@ -125,4 +145,4 @@ Full breakdown: [Nicko McBrain's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

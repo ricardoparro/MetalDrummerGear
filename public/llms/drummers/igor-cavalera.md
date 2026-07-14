@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/igor-cavalera"
 source: "https://metalforge.io"
-last_updated: "2026-07-13"
+last_updated: "2026-07-14"
 ---
 
 # Igor Cavalera — Drum Kit & Gear Setup
@@ -65,25 +65,48 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
 
 ## Frequently Asked Questions
 
+**Q: What band does Igor Cavalera play drums for?**
+
+A: Igor Cavalera co-founded Sepultura in 1984 and drummed for the band until 2006. He now drums for Cavalera Conspiracy, which he co-founded with his brother Max in 2007.
+
+**Q: What drums does Igor Cavalera play?**
+
+A: Igor Cavalera plays a Tama Starclassic Maple drum kit.
+
 **Q: What drum kit does Igor Cavalera play?**
 
-A: Igor Cavalera plays a Tama Starclassic Maple.
+A: Igor Cavalera's drum kit is a Tama Starclassic Maple shell pack, built around a Tama S.L.P. 14"x6.5" G-Maple snare drum, with Evans drumheads.
+
+**Q: What drum set does Igor Cavalera play?**
+
+A: Igor Cavalera's drum set pairs Tama Starclassic Maple shells and his S.L.P. 14"x6.5" G-Maple snare with Paiste RUDE and 2002 Series cymbals and a Tama Iron Cobra double pedal.
 
 **Q: What cymbals does Igor Cavalera use?**
 
-A: Igor Cavalera uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China).
+A: Igor Cavalera uses Paiste RUDE and 2002 Series cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China.
 
-**Q: What band is Igor Cavalera in?**
+**Q: What snare drum does Igor Cavalera use?**
 
-A: Igor Cavalera drums for Sepultura / Cavalera Conspiracy / Soulwax, a thrash metal / groove metal / death metal band.
+A: Igor Cavalera's primary snare is the Tama S.L.P. 14"x6.5" G-Maple.
+
+**Q: What pedals does Igor Cavalera use?**
+
+A: Igor Cavalera drives his tribal-influenced double bass patterns with a Tama Iron Cobra double pedal.
+
+**Q: What drumsticks does Igor Cavalera use?**
+
+A: Igor Cavalera plays Vic Firth American Classic 5B drumsticks.
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Igor Cavalera:
+MetalForge has 6 signature lick tutorial(s) for Igor Cavalera:
 
 - [Roots Bloody Roots Tribal Groove](https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-roots-bloody-roots-tribal-groove)
 - [Refuse/Resist Double-Bass Drive](https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-refuse-resist-double-bass)
 - [Beneath the Remains Thrash-Blast Section](https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-beneath-the-remains-blast)
+- [Beneath the Remains Stampede Double Bass](https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-beneath-the-remains-double-bass)
+- [Chaos A.D. Tribal Syncopated Groove](https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-chaos-ad-groove)
+- [Schizophrenia Raw Blast Groove](https://metalforge.io/drummers/igor-cavalera/licks/igor-cavalera-schizophrenia-blast-groove)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
@@ -117,4 +140,4 @@ Full breakdown: [Igor Cavalera's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

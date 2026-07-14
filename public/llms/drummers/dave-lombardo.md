@@ -119,11 +119,16 @@ A: Dave Lombardo plays a Tama S.L.P. 14"x6.5" G-Maple snare drum, paired with Pr
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Dave Lombardo:
+MetalForge has 8 signature lick tutorial(s) for Dave Lombardo:
 
+- [Reign in Blood Double-Bass Pump](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-slayer-reign-in-blood-double-bass)
+- [Show No Mercy Speed Tom Cascade](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-show-no-mercy-tom-run)
 - [Angel of Death Opening](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-angel-of-death-chaos)
 - [Raining Blood Double Bass](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-raining-blood-double-bass)
 - [Seasons in the Abyss Groove](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-seasons-thrash)
+- [Raining Blood Intro Blast](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-raining-blood-lick)
+- [Angel of Death Double-Bass Tornado](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-angel-of-death-lick)
+- [South of Heaven Half-Time Groove](https://metalforge.io/drummers/dave-lombardo/licks/dave-lombardo-south-of-heaven-lick)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 

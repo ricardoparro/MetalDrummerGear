@@ -119,11 +119,14 @@ A: Mike Portnoy plays his signature Tama Mike Portnoy Melody Master snare drum, 
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Mike Portnoy:
+MetalForge has 6 signature lick tutorial(s) for Mike Portnoy:
 
 - [The Dance of Eternity](https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-dance-of-eternity)
 - [Pull Me Under Groove & Fills](https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-pull-me-under-groove)
 - [Panic Attack Double Bass Assault](https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-panic-attack-double-bass)
+- [Pull Me Under Intro Fill](https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-pull-me-under-fill)
+- [In the Presence of Enemies Blast & Polyrhythm](https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-in-the-presence-of-enemies-blast)
+- [The Dance of Eternity — Navigating 108 Meter Changes](https://metalforge.io/drummers/mike-portnoy/licks/mike-portnoy-the-dance-of-eternity-meter-change)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 

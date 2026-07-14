@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Yamaha"
 profile_url: "https://metalforge.io/drummer/mikkey-dee"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Mikkey Dee — Drum Kit & Gear Setup
@@ -25,7 +25,7 @@ Mikkey Dee's drum kit and gear setup. Mikkey Dee is a professional metal drummer
 | Primary brand | Yamaha |
 | Drum kit | Yamaha Recording Custom |
 | Signature snare | Yamaha Mikkey Dee Signature 14x8" |
-| Sticks | Vic Firth Mikkey Dee Signature |
+| Sticks | Wincent Mikkey Dee Signature (W-MDS) |
 
 ## Kit Overview
 
@@ -53,7 +53,7 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
 - **Snare:** Yamaha Mikkey Dee Signature 14x8"
 - **Cymbals:** Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China)
 - **Hardware:** Yamaha FP9 Double Pedal, Yamaha Hardware
-- **Sticks:** Vic Firth Mikkey Dee Signature
+- **Sticks:** Wincent Mikkey Dee Signature (W-MDS)
 - **Heads:** Remo
 
 ## Notable Performances
@@ -64,17 +64,37 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
 
 ## Frequently Asked Questions
 
+**Q: What band does Mikkey Dee play drums for?**
+
+A: Mikkey Dee has been the drummer for Scorpions since 2016. He previously drummed for Motörhead from 1992 until Lemmy Kilmister's death in 2015, and for King Diamond from 1985-1989.
+
+**Q: What drums does Mikkey Dee play?**
+
+A: Mikkey Dee plays a Yamaha Recording Custom drum kit.
+
 **Q: What drum kit does Mikkey Dee play?**
 
-A: Mikkey Dee plays a Yamaha Recording Custom.
+A: Mikkey Dee's drum kit is a Yamaha Recording Custom shell pack, built around his Yamaha Mikkey Dee Signature 14"x8" snare drum for extra depth and power.
+
+**Q: What drum set does Mikkey Dee play?**
+
+A: Mikkey Dee's drum set pairs Yamaha Recording Custom shells and his signature 14"x8" snare with Zildjian A Custom and K Series cymbals and a Yamaha FP9 double pedal.
 
 **Q: What cymbals does Mikkey Dee use?**
 
-A: Mikkey Dee uses Zildjian A Custom & K Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 22" K Custom Ride, 20" Oriental China).
+A: Mikkey Dee uses Zildjian A Custom and K Series cymbals, including 14" A Custom Hi-Hats, 18" and 19" A Custom Crashes, a 22" K Custom Ride, and a 20" Oriental China.
 
-**Q: What band is Mikkey Dee in?**
+**Q: What snare drum does Mikkey Dee use?**
 
-A: Mikkey Dee drums for Scorpions / Motörhead, a heavy metal / hard rock band.
+A: Mikkey Dee's primary snare is his own Yamaha Mikkey Dee Signature, a 14"x8" shell.
+
+**Q: What pedals does Mikkey Dee use?**
+
+A: Mikkey Dee drives his double bass technique with a Yamaha FP9 double pedal on Yamaha hardware.
+
+**Q: What drumsticks does Mikkey Dee use?**
+
+A: Mikkey Dee plays his own signature Wincent Mikkey Dee Signature (W-MDS) drumsticks, paired with Remo drumheads.
 
 ## Quotes
 
@@ -88,11 +108,14 @@ A: Mikkey Dee drums for Scorpions / Motörhead, a heavy metal / hard rock band.
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Mikkey Dee:
+MetalForge has 6 signature lick tutorial(s) for Mikkey Dee:
 
 - [Ace of Spades Driving Power](https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-ace-of-spades)
 - [Overkill Double-Bass Freight Train](https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-overkill)
 - [Killed by Death Groove & Stamina](https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-killed-by-death)
+- [Bastards Motorik Drive](https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-bastards-motorik)
+- [Bomber Triplet Gallop](https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-bomber-gallop)
+- [Overkill 8th-Note Double Bass](https://metalforge.io/drummers/mikkey-dee/licks/mikkey-dee-overkill-double-bass)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
@@ -126,4 +149,4 @@ Full breakdown: [Mikkey Dee's pedal setup](https://metalforge.io/pedals/setups/m
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

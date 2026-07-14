@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/alex-bent"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Alex Bent — Drum Kit & Gear Setup
@@ -71,11 +71,14 @@ A: Alex Bent drums for ex-Trivium / Arkaik / Dragonlord, a heavy metal / thrash 
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Alex Bent:
+MetalForge has 6 signature lick tutorial(s) for Alex Bent:
 
 - [The Sin and the Sentence Blast+Groove Hybrid](https://metalforge.io/drummers/alex-bent/licks/alex-bent-sin-and-sentence-groove)
 - [Betrayer Modern Thrash Fill Sequence](https://metalforge.io/drummers/alex-bent/licks/alex-bent-betrayer-groove)
 - [Beyond Oblivion Melodic Metal Groove](https://metalforge.io/drummers/alex-bent/licks/alex-bent-beyond-oblivion-groove)
+- [Beyond Oblivion — Melodic Metal Drum Setup](https://metalforge.io/drummers/alex-bent/licks/alex-bent-beyond-oblivion-drum-setup)
+- [Seat of the Soul — Polyrhythmic Groove Setup](https://metalforge.io/drummers/alex-bent/licks/alex-bent-seat-of-the-soul-drum-setup)
+- [A Crisis of Revelation — Vic Firth Drum Setup](https://metalforge.io/drummers/alex-bent/licks/alex-bent-a-crisis-of-revelation-drum-setup)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
@@ -109,4 +112,4 @@ Full breakdown: [Alex Bent's pedal setup](https://metalforge.io/pedals/setups/al
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

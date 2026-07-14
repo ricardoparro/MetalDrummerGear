@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/gavin-harrison"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Gavin Harrison — Drum Kit & Gear Setup
@@ -65,17 +65,37 @@ See the [Gavin Harrison vs Mike Mangini](/vs/gavin-harrison-vs-mike-mangini) com
 
 ## Frequently Asked Questions
 
+**Q: What bands does Gavin Harrison play drums for?**
+
+A: Gavin Harrison drums for Porcupine Tree, King Crimson (since 2008), and The Pineapple Thief (since 2016).
+
+**Q: What drums does Gavin Harrison play?**
+
+A: Gavin Harrison plays a Sonor SQ2 Series drum kit.
+
 **Q: What drum kit does Gavin Harrison play?**
 
-A: Gavin Harrison plays a Sonor SQ2 Series.
+A: Gavin Harrison's drum kit is a Sonor SQ2 Series shell pack, built around his own Sonor Gavin Harrison Signature snares (12"x5" and 14"x5.25"), with Remo Ambassador drumheads.
+
+**Q: What drum set does Gavin Harrison play?**
+
+A: Gavin Harrison's drum set pairs Sonor SQ2 shells and his signature 12"x5" and 14"x5.25" snares with Zildjian K Custom Special Dry Series cymbals and a Sonor Perfect Balance pedal.
 
 **Q: What cymbals does Gavin Harrison use?**
 
-A: Gavin Harrison uses Zildjian K Custom Special Dry Series (14" Hi-Hats, 16" & 18" Crashes, 21" Special Dry Ride, 18" Trash China).
+A: Gavin Harrison uses Zildjian K Custom Special Dry Series cymbals, including 14" Hi-Hats, 16" and 18" Crashes, a 21" Special Dry Ride, and an 18" Trash China.
 
-**Q: What band is Gavin Harrison in?**
+**Q: What snare drum does Gavin Harrison use?**
 
-A: Gavin Harrison drums for Porcupine Tree / King Crimson, a progressive metal / progressive rock band.
+A: Gavin Harrison plays two signature Sonor snares — a 12"x5" and a 14"x5.25" — switching between them for different textures.
+
+**Q: What pedals does Gavin Harrison use?**
+
+A: Gavin Harrison plays a Sonor Perfect Balance pedal on Sonor 600 Series hardware.
+
+**Q: What drumsticks does Gavin Harrison use?**
+
+A: Gavin Harrison plays his own signature Vic Firth Gavin Harrison Signature drumsticks.
 
 ## Quotes
 
@@ -127,4 +147,4 @@ Full breakdown: [Gavin Harrison's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

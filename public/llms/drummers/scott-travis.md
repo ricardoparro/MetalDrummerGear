@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/scott-travis"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Scott Travis — Drum Kit & Gear Setup
@@ -63,17 +63,37 @@ See the [Scott Travis vs Nicko McBrain](/vs/scott-travis-vs-nicko-mcbrain) compa
 
 ## Frequently Asked Questions
 
+**Q: What band does Scott Travis play drums for?**
+
+A: Scott Travis is the drummer for Judas Priest, a position he has held since 1989 — making him the only American member in the band's history.
+
+**Q: What drums does Scott Travis play?**
+
+A: Scott Travis plays a ddrum Dominion Series drum kit.
+
 **Q: What drum kit does Scott Travis play?**
 
-A: Scott Travis plays a ddrum Dominion Series.
+A: Scott Travis's drum kit is built around a ddrum Dominion Series shell pack, anchored by his ddrum Scott Travis Signature 14"x6.5" snare drum — a purpose-built shell designed for maximum cut through Judas Priest's dual-guitar attack.
+
+**Q: What drum set does Scott Travis play?**
+
+A: Scott Travis's drum set is a ddrum Dominion Series kit fitted with his signature 14"x6.5" ddrum snare, Paiste RUDE and 2002 Series cymbals, and a DW 9000 Series double pedal mounted on a Gibraltar rack system.
 
 **Q: What cymbals does Scott Travis use?**
 
-A: Scott Travis uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" RUDE China).
+A: Scott Travis uses Paiste RUDE and 2002 Series cymbals, including 14" RUDE hi-hats, 18" and 19" RUDE crashes, a 22" RUDE Power Ride, and an 18" RUDE China.
 
-**Q: What band is Scott Travis in?**
+**Q: What snare drum does Scott Travis use?**
 
-A: Scott Travis drums for Judas Priest, a heavy metal / thrash metal band.
+A: Scott Travis's primary snare is the ddrum Scott Travis Signature, a 14"x6.5" shell built to his own specifications.
+
+**Q: What pedals does Scott Travis use?**
+
+A: Scott Travis drives his double bass technique with a DW 9000 Series double pedal, mounted in a Gibraltar rack system for consistent positioning on world arena tours.
+
+**Q: What drumsticks does Scott Travis use?**
+
+A: Scott Travis plays Vic Firth American Classic 5B drumsticks, paired with Remo drumheads.
 
 ## Quotes
 
@@ -125,4 +145,4 @@ Full breakdown: [Scott Travis's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/ray-luzier"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-07-14"
 ---
 
 # Ray Luzier — Drum Kit & Gear Setup
@@ -63,17 +63,37 @@ Sabian AAX Series cymbals complete the Ray Luzier drum kit: 14" Stage Hi-Hats fo
 
 ## Frequently Asked Questions
 
+**Q: What band does Ray Luzier play drums for?**
+
+A: Ray Luzier has been the drummer for Korn since 2007, and also plays in the hard rock trio KXM.
+
+**Q: What drums does Ray Luzier play?**
+
+A: Ray Luzier plays a Pearl Reference Series drum kit.
+
 **Q: What drum kit does Ray Luzier play?**
 
-A: Ray Luzier plays a Pearl Reference Series.
+A: Ray Luzier's drum kit is a Pearl Reference Series shell pack built around a Pearl Reference 14"x6.5" brass snare, giving him the cut and volume needed for Korn's heavy, low-tuned sound.
+
+**Q: What drum set does Ray Luzier play?**
+
+A: Ray Luzier's drum set pairs Pearl Reference Series shells and his 14"x6.5" brass Reference snare with Sabian AAX Series cymbals and a DW 9002 double pedal for Korn's touring and studio work.
 
 **Q: What cymbals does Ray Luzier use?**
 
-A: Ray Luzier uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China).
+A: Ray Luzier uses Sabian AAX Series cymbals, including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.
 
-**Q: What band is Ray Luzier in?**
+**Q: What snare drum does Ray Luzier use?**
 
-A: Ray Luzier drums for Korn, a nu metal band.
+A: Ray Luzier's primary snare is the Pearl Reference 14"x6.5" Brass, chosen for its projection and attack.
+
+**Q: What pedals does Ray Luzier use?**
+
+A: Ray Luzier drives his double bass playing with a DW 9002 double pedal, seated on a Pearl D-2000 Roadster throne.
+
+**Q: What drumsticks does Ray Luzier use?**
+
+A: Ray Luzier plays his own Vic Firth Ray Luzier Signature drumsticks.
 
 ## Signature Licks on MetalForge
 
@@ -91,4 +111,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

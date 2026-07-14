@@ -3,10 +3,10 @@ name: "Matt Greiner"
 band: "August Burns Red"
 genre: "Metalcore / Christian Metal"
 country: "USA"
-primary_brand: "Meinl"
+primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/matt-greiner"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Matt Greiner — Drum Kit & Gear Setup
@@ -21,10 +21,10 @@ Matt Greiner's drum kit and gear setup. Matt Greiner is a professional metal dru
 | Band | August Burns Red |
 | Genre | Metalcore / Christian Metal |
 | Country | USA |
-| Primary brand | Meinl |
-| Drum kit | Meinl Drum Festival Kit / Greiner & Kilmer Custom |
-| Signature snare | Greiner & Kilmer Custom 14x6.5" Maple |
-| Sticks | Vic Firth American Classic 5A |
+| Primary brand | Mapex |
+| Drum kit | Mapex Black Panther Design Lab |
+| Signature snare | Mapex Black Panther 14x5.5" Maple |
+| Sticks | Vic Firth Matt Greiner Signature |
 
 ## Kit Overview
 
@@ -34,7 +34,7 @@ The cornerstone of the Matt Greiner drum kit is his Greiner & Kilmer Custom 14×
 
 ## Biography
 
-Matthew Wilson Greiner (born October 28, 1985) is an American drummer and founding member of the metalcore band August Burns Red, formed in 2003 in Manheim, Pennsylvania. Known for his highly technical drumming style, Greiner combines blazing double bass patterns with intricate fills and creative use of dynamics. His work on albums like "Messengers," "Constellations," and "Phantom Anthem" has earned him widespread acclaim in the metal community. In 2012, he co-founded the drum company Greiner & Kilmer with fellow drummer Kaleb Kilmer. A Grammy-nominated artist (Best Metal Performance for "Identity"), Greiner is considered one of the most influential metalcore drummers of his generation. Beyond drumming, he is also an accomplished pianist and an outspoken Christian.
+Matthew Wilson Greiner (born October 28, 1985) is an American drummer and founding member of the metalcore band August Burns Red, formed in 2003 in Manheim, Pennsylvania. Known for his highly technical drumming style, Greiner combines blazing double bass patterns with intricate fills and creative use of dynamics. His work on albums like "Messengers," "Constellations," and "Phantom Anthem" has earned him widespread acclaim in the metal community. A Grammy-nominated artist (Best Metal Performance for "Identity"), Greiner is considered one of the most influential metalcore drummers of his generation. Beyond drumming, he is also an accomplished pianist and an outspoken Christian.
 
 Matt Greiner (born May 2, 1985, in Lancaster, Pennsylvania) is an American drummer and founding member of metalcore band August Burns Red. Since the band's formation in 2003, Greiner has established himself as one of the most innovative and influential drummers in the metalcore genre, known for his complex patterns, powerful playing, and creative use of dynamics.
 
@@ -46,12 +46,12 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
 
 ## Gear
 
-- **Drums:** Meinl Drum Festival Kit / Greiner & Kilmer Custom
-- **Snare:** Greiner & Kilmer Custom 14x6.5" Maple
-- **Cymbals:** Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Dual Crashes, 21" Transition Ride, 18" Extra Dry China, 10" & 12" Splashes)
+- **Drums:** Mapex Black Panther Design Lab
+- **Snare:** Mapex Black Panther 14x5.5" Maple
+- **Cymbals:** Paiste Formula 602 (14" Hi-Hats, 16"/17"/18" Crashes, 22" Ride, 18" China, 10" Splash)
 - **Hardware:** DW 9000 Series Double Pedal, DW 9100 Throne
-- **Sticks:** Vic Firth American Classic 5A
-- **Heads:** Evans
+- **Sticks:** Vic Firth Matt Greiner Signature
+- **Heads:** Evans G2 / EMAD2
 
 ## Notable Performances
 
@@ -89,11 +89,17 @@ A: Matt Greiner co-founded August Burns Red in 2003 and has been their drummer f
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Matt Greiner:
+MetalForge has 9 signature lick tutorial(s) for Matt Greiner:
 
 - [Composure Syncopated Groove](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-composure-syncopation)
 - [Meridian Double-Bass Groove](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-meridian-double-bass)
 - [Sonic Salvation Metalcore Groove](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-sonic-salvation-groove)
+- [Messengers Blast-to-Groove Transition](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-messengers-blast-groove)
+- [Constellations Polyrhythmic Pattern](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-constellations-polyrhythm)
+- [Leveler Double-Bass Run](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-leveler-double-bass)
+- [Constellations Blast Groove](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-constellations-blast-groove)
+- [Leveler 5-Over-4 Polyrhythm](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-leveler-polyrhythm)
+- [Messengers Debut Intro Groove](https://metalforge.io/drummers/matt-greiner/licks/matt-greiner-messengers-intro-groove)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
@@ -129,4 +135,4 @@ Full breakdown: [Matt Greiner's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

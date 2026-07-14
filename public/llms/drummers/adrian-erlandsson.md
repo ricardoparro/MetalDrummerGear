@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/adrian-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Adrian Erlandsson — Drum Kit & Gear Setup
@@ -25,7 +25,7 @@ Adrian Erlandsson's drum kit and gear setup. Adrian Erlandsson is a professional
 | Primary brand | Tama |
 | Drum kit | Tama Starclassic Bubinga |
 | Signature snare | Tama Starclassic Bubinga 14x6.5" |
-| Sticks | Vic Firth Rock Nylon Tip (At the Gates Signature) |
+| Sticks | Vic Firth American Classic Rock Nylon Tip (ROCKN) |
 
 ## Biography
 
@@ -48,7 +48,7 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
 - **Snare:** Tama Starclassic Bubinga 14x6.5"
 - **Cymbals:** Sabian AAX/HHX Series (15" HHX Xcelerator Hi-Hats, 20" AAX Iso Crash, 19" AAX Paragon China)
 - **Hardware:** Monolit Czarcie Kopyto Double Pedal
-- **Sticks:** Vic Firth Rock Nylon Tip (At the Gates Signature)
+- **Sticks:** Vic Firth American Classic Rock Nylon Tip (ROCKN)
 - **Heads:** Evans EMAD Onyx / EC Reverse Dot
 
 ## Notable Performances
@@ -115,4 +115,4 @@ Full breakdown: [Adrian Erlandsson's pedal setup](https://metalforge.io/pedals/s
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

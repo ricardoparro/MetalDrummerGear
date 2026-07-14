@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/charlie-benante"
 source: "https://metalforge.io"
-last_updated: "2026-06-19"
+last_updated: "2026-07-14"
 ---
 
 # Charlie Benante — Drum Kit & Gear Setup
@@ -63,25 +63,48 @@ Paiste RUDE and 2002 Series cymbals complete the Charlie Benante drum kit: 14" H
 
 ## Frequently Asked Questions
 
+**Q: What band does Charlie Benante play drums for?**
+
+A: Charlie Benante has been the drummer for Anthrax since 1983, and has toured with the Pantera reunion since 2022 in honor of his late friend Vinnie Paul.
+
+**Q: What drums does Charlie Benante play?**
+
+A: Charlie Benante plays a Tama Starclassic drum kit.
+
 **Q: What drum kit does Charlie Benante play?**
 
-A: Charlie Benante plays a Tama Starclassic.
+A: Charlie Benante's drum kit is a Tama Starclassic shell pack, anchored by his Tama Charlie Benante Signature 14"x6.5" snare drum.
+
+**Q: What drum set does Charlie Benante play?**
+
+A: Charlie Benante's drum set pairs Tama Starclassic shells and his signature 14"x6.5" snare with Paiste RUDE and 2002 Series cymbals, a Tama Speed Cobra double pedal, and Roland electronics.
 
 **Q: What cymbals does Charlie Benante use?**
 
-A: Charlie Benante uses Paiste RUDE & 2002 Series (14" Hi-Hats, 18" & 19" Crashes, 20" Power Ride, 18" China).
+A: Charlie Benante uses Paiste RUDE and 2002 Series cymbals, including 14" Hi-Hats, 18" and 19" Crashes, a 20" Power Ride, and an 18" China.
 
-**Q: What band is Charlie Benante in?**
+**Q: What snare drum does Charlie Benante use?**
 
-A: Charlie Benante drums for Anthrax / S.O.D. / Pantera, a thrash metal band.
+A: Charlie Benante's primary snare is his own Tama Charlie Benante Signature, a 14"x6.5" shell.
+
+**Q: What pedals does Charlie Benante use?**
+
+A: Charlie Benante drives his thrash-defining double bass technique with a Tama Speed Cobra double pedal.
+
+**Q: What drumsticks does Charlie Benante use?**
+
+A: Charlie Benante plays his own signature Vic Firth Charlie Benante Signature drumsticks.
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Charlie Benante:
+MetalForge has 6 signature lick tutorial(s) for Charlie Benante:
 
 - [Caught in a Mosh Syncopated Groove](https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-caught-in-a-mosh-groove)
 - [Madhouse Thrash Groove](https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-madhouse-thrash-groove)
 - [Indians War Dance Breakdown](https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-indians-war-dance)
+- [Among the Living Thrash Groove](https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-among-the-living-thrash-groove)
+- [Persistence of Time Blast Beat](https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-persistence-of-time-blast)
+- [State of Euphoria Mid-Tempo Groove](https://metalforge.io/drummers/charlie-benante/licks/charlie-benante-euphoria-groove)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
@@ -91,4 +114,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-19 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

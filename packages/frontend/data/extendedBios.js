@@ -2096,6 +2096,19 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
           'Born September 4, 1970 — September 4, 2026 marks his 56th birthday'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What band does Igor Cavalera play drums for?', a: 'Igor Cavalera co-founded Sepultura in 1984 and drummed for the band until 2006. He now drums for Cavalera Conspiracy, which he co-founded with his brother Max in 2007.' },
+          { q: 'What drums does Igor Cavalera play?', a: 'Igor Cavalera plays a Tama Starclassic Maple drum kit.' },
+          { q: 'What drum kit does Igor Cavalera play?', a: 'Igor Cavalera\'s drum kit is a Tama Starclassic Maple shell pack, built around a Tama S.L.P. 14"x6.5" G-Maple snare drum, with Evans drumheads.' },
+          { q: 'What drum set does Igor Cavalera play?', a: 'Igor Cavalera\'s drum set pairs Tama Starclassic Maple shells and his S.L.P. 14"x6.5" G-Maple snare with Paiste RUDE and 2002 Series cymbals and a Tama Iron Cobra double pedal.' },
+          { q: 'What cymbals does Igor Cavalera use?', a: 'Igor Cavalera uses Paiste RUDE and 2002 Series cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China.' },
+          { q: 'What snare drum does Igor Cavalera use?', a: 'Igor Cavalera\'s primary snare is the Tama S.L.P. 14"x6.5" G-Maple.' },
+          { q: 'What pedals does Igor Cavalera use?', a: 'Igor Cavalera drives his tribal-influenced double bass patterns with a Tama Iron Cobra double pedal.' },
+          { q: 'What drumsticks does Igor Cavalera use?', a: 'Igor Cavalera plays Vic Firth American Classic 5B drumsticks.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -2453,6 +2466,19 @@ Before Dream Theater, Mangini built an impressive resume with Steve Vai, Extreme
           'Despite his technical reputation, emphasizes musicality over showmanship',
           'Uses different grip techniques depending on the musical passage requirements',
           'Has stated that his goal is to make complex time signatures feel natural and groovy'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What band does Mike Mangini play drums for?', a: 'Mike Mangini has been the drummer for Dream Theater since 2010, and also drums for Extreme.' },
+          { q: 'What drums does Mike Mangini play?', a: 'Mike Mangini plays a Pearl Reference Series drum kit.' },
+          { q: 'What drum kit does Mike Mangini play?', a: 'Mike Mangini\'s drum kit is a Pearl Reference Series shell pack built around two signature-spec Pearl Reference brass snares (14"x5" and 14"x6.5"), with Evans drumheads.' },
+          { q: 'What drum set does Mike Mangini play?', a: 'Mike Mangini\'s drum set pairs Pearl Reference Series shells and his two Pearl Reference brass snares with Sabian HHX and AAX Series cymbals, plus a Roland SPD-SX sampling pad for electronic textures.' },
+          { q: 'What cymbals does Mike Mangini use?', a: 'Mike Mangini uses Sabian HHX and AAX Series cymbals, including 14" HHX Evolution Hi-Hats, 17", 18", and 19" HHX Evolution Crashes, and a 21" HHX Raw Bell Dry Ride.' },
+          { q: 'What snare drum does Mike Mangini use?', a: 'Mike Mangini plays two Pearl Reference brass snares — a 14"x5" and a 14"x6.5" — switching between them for different sonic needs.' },
+          { q: 'What pedals does Mike Mangini use?', a: 'Mike Mangini drives his technical double bass patterns with a Pearl Demon Drive double pedal.' },
+          { q: 'What drumsticks does Mike Mangini use?', a: 'Mike Mangini plays his own signature Vater Mike Mangini Wicked Piston (VHMMWP) drumsticks.' }
         ]
       },
       sources: {
@@ -3522,6 +3548,19 @@ McBrain is renowned for his powerful single bass drum technique, incredible stam
           'One of the longest-serving drummers in a major metal band (40+ years)'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What band does Nicko McBrain play drums for?', a: 'Nicko McBrain has been the drummer for Iron Maiden since 1982, making him one of the longest-serving drummers in a major metal band at over 40 years.' },
+          { q: 'What drums does Nicko McBrain play?', a: 'Nicko McBrain plays a Sonor SQ2 Series drum kit.' },
+          { q: 'What drum kit does Nicko McBrain play?', a: 'Nicko McBrain\'s drum kit is a Sonor SQ2 Series shell pack, anchored by his Sonor Nicko McBrain Signature 14"x6.5" snare and Remo Emperor drumheads for maximum resonance.' },
+          { q: 'What drum set does Nicko McBrain play?', a: 'Nicko McBrain\'s drum set pairs Sonor SQ2 shells and his signature 14"x6.5" snare with Paiste 2002 and Signature Series cymbals, driven by a single bass drum pedal in keeping with his famous single-foot technique.' },
+          { q: 'What cymbals does Nicko McBrain use?', a: 'Nicko McBrain uses Paiste 2002 and Signature Series cymbals, including 14" Sound Edge Hi-Hats, 16" and 18" Power Crashes, a 22" Power Ride, and a 20" China.' },
+          { q: 'What snare drum does Nicko McBrain use?', a: 'Nicko McBrain\'s primary snare is his own Sonor Nicko McBrain Signature, a 14"x6.5" shell.' },
+          { q: 'Does Nicko McBrain use a double bass pedal?', a: 'No — Nicko McBrain famously plays a single bass drum pedal rather than double bass or a second kick, relying on his signature single-foot "gallop" technique heard on songs like "The Trooper."' },
+          { q: 'What drumsticks does Nicko McBrain use?', a: 'Nicko McBrain plays his own signature Vic Firth Nicko McBrain drumsticks.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -3633,6 +3672,19 @@ Before joining Judas Priest, Travis was a founding member of neo-classical metal
           'His joining Judas Priest marked a heavier direction for the band',
           'Has been with Judas Priest longer than any previous drummer (35+ years)',
           'The opening drum fill on "Painkiller" is one of metal\'s most iconic moments'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What band does Scott Travis play drums for?', a: 'Scott Travis is the drummer for Judas Priest, a position he has held since 1989 — making him the only American member in the band\'s history.' },
+          { q: 'What drums does Scott Travis play?', a: 'Scott Travis plays a ddrum Dominion Series drum kit.' },
+          { q: 'What drum kit does Scott Travis play?', a: 'Scott Travis\'s drum kit is built around a ddrum Dominion Series shell pack, anchored by his ddrum Scott Travis Signature 14"x6.5" snare drum — a purpose-built shell designed for maximum cut through Judas Priest\'s dual-guitar attack.' },
+          { q: 'What drum set does Scott Travis play?', a: 'Scott Travis\'s drum set is a ddrum Dominion Series kit fitted with his signature 14"x6.5" ddrum snare, Paiste RUDE and 2002 Series cymbals, and a DW 9000 Series double pedal mounted on a Gibraltar rack system.' },
+          { q: 'What cymbals does Scott Travis use?', a: 'Scott Travis uses Paiste RUDE and 2002 Series cymbals, including 14" RUDE hi-hats, 18" and 19" RUDE crashes, a 22" RUDE Power Ride, and an 18" RUDE China.' },
+          { q: 'What snare drum does Scott Travis use?', a: 'Scott Travis\'s primary snare is the ddrum Scott Travis Signature, a 14"x6.5" shell built to his own specifications.' },
+          { q: 'What pedals does Scott Travis use?', a: 'Scott Travis drives his double bass technique with a DW 9000 Series double pedal, mounted in a Gibraltar rack system for consistent positioning on world arena tours.' },
+          { q: 'What drumsticks does Scott Travis use?', a: 'Scott Travis plays Vic Firth American Classic 5B drumsticks, paired with Remo drumheads.' }
         ]
       },
       sources: {
@@ -3747,6 +3799,19 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
           'His real surname "Delaoglou" is of Greek origin',
           'King Diamond\'s "Abigail" is considered one of the best metal drum performances of the 1980s',
           'Has stated Lemmy was like a brother to him'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What band does Mikkey Dee play drums for?', a: 'Mikkey Dee has been the drummer for Scorpions since 2016. He previously drummed for Motörhead from 1992 until Lemmy Kilmister\'s death in 2015, and for King Diamond from 1985-1989.' },
+          { q: 'What drums does Mikkey Dee play?', a: 'Mikkey Dee plays a Yamaha Recording Custom drum kit.' },
+          { q: 'What drum kit does Mikkey Dee play?', a: 'Mikkey Dee\'s drum kit is a Yamaha Recording Custom shell pack, built around his Yamaha Mikkey Dee Signature 14"x8" snare drum for extra depth and power.' },
+          { q: 'What drum set does Mikkey Dee play?', a: 'Mikkey Dee\'s drum set pairs Yamaha Recording Custom shells and his signature 14"x8" snare with Zildjian A Custom and K Series cymbals and a Yamaha FP9 double pedal.' },
+          { q: 'What cymbals does Mikkey Dee use?', a: 'Mikkey Dee uses Zildjian A Custom and K Series cymbals, including 14" A Custom Hi-Hats, 18" and 19" A Custom Crashes, a 22" K Custom Ride, and a 20" Oriental China.' },
+          { q: 'What snare drum does Mikkey Dee use?', a: 'Mikkey Dee\'s primary snare is his own Yamaha Mikkey Dee Signature, a 14"x8" shell.' },
+          { q: 'What pedals does Mikkey Dee use?', a: 'Mikkey Dee drives his double bass technique with a Yamaha FP9 double pedal on Yamaha hardware.' },
+          { q: 'What drumsticks does Mikkey Dee use?', a: 'Mikkey Dee plays his own signature Wincent Mikkey Dee Signature (W-MDS) drumsticks, paired with Remo drumheads.' }
         ]
       },
       sources: {
@@ -4102,6 +4167,19 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
           'Often cited as one of the top 10 extreme metal drummers in polls'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What bands does Frost play drums for?', a: 'Frost (Kjetil-Vidar Haraldstad) has been the drummer for Satyricon since 1993, and also drums for 1349 since 2001.' },
+          { q: 'What drums does Frost play?', a: 'Frost plays a Sonor SQ2 Series drum kit.' },
+          { q: 'What drum kit does Frost play?', a: 'Frost\'s drum kit is a Sonor SQ2 Series shell pack, built around a Sonor SQ2 14"x6" maple snare drum, with Remo drumheads.' },
+          { q: 'What drum set does Frost play?', a: 'Frost\'s drum set pairs Sonor SQ2 shells and his 14"x6" maple snare with Zildjian A Custom and K Series cymbals and a Sonor Perfect Balance pedal built for his hyperspeed blast beats.' },
+          { q: 'What cymbals does Frost use?', a: 'Frost uses Zildjian A Custom and K Series cymbals, including 14" A Custom Hi-Hats, 16", 17", and 18" A Custom Crashes, a 22" K Custom Dark Ride, and an 18" K China.' },
+          { q: 'What snare drum does Frost use?', a: 'Frost\'s primary snare is the Sonor SQ2, a 14"x6" maple shell.' },
+          { q: 'What pedals does Frost use?', a: 'Frost drives his hyperspeed double bass patterns with a Sonor Perfect Balance pedal on Sonor hardware.' },
+          { q: 'What drumsticks does Frost use?', a: 'Frost plays Vic Firth American Classic Extreme 5B drumsticks.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -4217,6 +4295,19 @@ Harrison's playing is characterized by intricate polyrhythmic patterns, masterfu
           'Practices with a metronome extensively to maintain timing precision',
           'His work on "Fear of a Blank Planet" is considered a progressive drumming benchmark',
           'Collaborated with 05Ric—a trio of three drummers creating interlocking patterns'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What bands does Gavin Harrison play drums for?', a: 'Gavin Harrison drums for Porcupine Tree, King Crimson (since 2008), and The Pineapple Thief (since 2016).' },
+          { q: 'What drums does Gavin Harrison play?', a: 'Gavin Harrison plays a Sonor SQ2 Series drum kit.' },
+          { q: 'What drum kit does Gavin Harrison play?', a: 'Gavin Harrison\'s drum kit is a Sonor SQ2 Series shell pack, built around his own Sonor Gavin Harrison Signature snares (12"x5" and 14"x5.25"), with Remo Ambassador drumheads.' },
+          { q: 'What drum set does Gavin Harrison play?', a: 'Gavin Harrison\'s drum set pairs Sonor SQ2 shells and his signature 12"x5" and 14"x5.25" snares with Zildjian K Custom Special Dry Series cymbals and a Sonor Perfect Balance pedal.' },
+          { q: 'What cymbals does Gavin Harrison use?', a: 'Gavin Harrison uses Zildjian K Custom Special Dry Series cymbals, including 14" Hi-Hats, 16" and 18" Crashes, a 21" Special Dry Ride, and an 18" Trash China.' },
+          { q: 'What snare drum does Gavin Harrison use?', a: 'Gavin Harrison plays two signature Sonor snares — a 12"x5" and a 14"x5.25" — switching between them for different textures.' },
+          { q: 'What pedals does Gavin Harrison use?', a: 'Gavin Harrison plays a Sonor Perfect Balance pedal on Sonor 600 Series hardware.' },
+          { q: 'What drumsticks does Gavin Harrison use?', a: 'Gavin Harrison plays his own signature Vic Firth Gavin Harrison Signature drumsticks.' }
         ]
       },
       sources: {
@@ -4689,6 +4780,19 @@ Before joining Korn, Luzier built an impressive resume playing with David Lee Ro
           'Recorded drums for Japanese pop group KAT-TUN\'s #1 single',
           'Has two sons, born in 2011 and 2015',
           'Known for his warm personality and accessibility at drum clinics'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What band does Ray Luzier play drums for?', a: 'Ray Luzier has been the drummer for Korn since 2007, and also plays in the hard rock trio KXM.' },
+          { q: 'What drums does Ray Luzier play?', a: 'Ray Luzier plays a Pearl Reference Series drum kit.' },
+          { q: 'What drum kit does Ray Luzier play?', a: 'Ray Luzier\'s drum kit is a Pearl Reference Series shell pack built around a Pearl Reference 14"x6.5" brass snare, giving him the cut and volume needed for Korn\'s heavy, low-tuned sound.' },
+          { q: 'What drum set does Ray Luzier play?', a: 'Ray Luzier\'s drum set pairs Pearl Reference Series shells and his 14"x6.5" brass Reference snare with Sabian AAX Series cymbals and a DW 9002 double pedal for Korn\'s touring and studio work.' },
+          { q: 'What cymbals does Ray Luzier use?', a: 'Ray Luzier uses Sabian AAX Series cymbals, including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.' },
+          { q: 'What snare drum does Ray Luzier use?', a: 'Ray Luzier\'s primary snare is the Pearl Reference 14"x6.5" Brass, chosen for its projection and attack.' },
+          { q: 'What pedals does Ray Luzier use?', a: 'Ray Luzier drives his double bass playing with a DW 9002 double pedal, seated on a Pearl D-2000 Roadster throne.' },
+          { q: 'What drumsticks does Ray Luzier use?', a: 'Ray Luzier plays his own Vic Firth Ray Luzier Signature drumsticks.' }
         ]
       },
       sources: {
@@ -5174,6 +5278,19 @@ Beyond his drumming, Benante is Anthrax's main composer and a talented graphic a
           'Released solo album "Silver Linings" during COVID lockdowns',
           'Born and raised in The Bronx, New York',
           'Married Carla Harvey (formerly of Butcher Babies) in 2025'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What band does Charlie Benante play drums for?', a: 'Charlie Benante has been the drummer for Anthrax since 1983, and has toured with the Pantera reunion since 2022 in honor of his late friend Vinnie Paul.' },
+          { q: 'What drums does Charlie Benante play?', a: 'Charlie Benante plays a Tama Starclassic drum kit.' },
+          { q: 'What drum kit does Charlie Benante play?', a: 'Charlie Benante\'s drum kit is a Tama Starclassic shell pack, anchored by his Tama Charlie Benante Signature 14"x6.5" snare drum.' },
+          { q: 'What drum set does Charlie Benante play?', a: 'Charlie Benante\'s drum set pairs Tama Starclassic shells and his signature 14"x6.5" snare with Paiste RUDE and 2002 Series cymbals, a Tama Speed Cobra double pedal, and Roland electronics.' },
+          { q: 'What cymbals does Charlie Benante use?', a: 'Charlie Benante uses Paiste RUDE and 2002 Series cymbals, including 14" Hi-Hats, 18" and 19" Crashes, a 20" Power Ride, and an 18" China.' },
+          { q: 'What snare drum does Charlie Benante use?', a: 'Charlie Benante\'s primary snare is his own Tama Charlie Benante Signature, a 14"x6.5" shell.' },
+          { q: 'What pedals does Charlie Benante use?', a: 'Charlie Benante drives his thrash-defining double bass technique with a Tama Speed Cobra double pedal.' },
+          { q: 'What drumsticks does Charlie Benante use?', a: 'Charlie Benante plays his own signature Vic Firth Charlie Benante Signature drumsticks.' }
         ]
       },
       sources: {
@@ -5755,6 +5872,19 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
           'One of the few first-generation black metal musicians still actively performing'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What band does Hellhammer play drums for?', a: 'Hellhammer (Jan Axel Blomberg) has been the drummer for Mayhem since 1988, and also drums for Arcturus and does session work for Shining.' },
+          { q: 'What drums does Hellhammer play?', a: 'Hellhammer plays a Sonor SQ2 Heavy Beech drum kit.' },
+          { q: 'What drum kit does Hellhammer play?', a: 'Hellhammer\'s drum kit is a Sonor SQ2 Heavy Beech shell pack, built around a Sonor SQ2 14"x5.5" maple snare drum.' },
+          { q: 'What drum set does Hellhammer play?', a: 'Hellhammer\'s drum set pairs Sonor SQ2 Heavy Beech shells and his 14"x5.5" maple snare with Paiste RUDE cymbals and an Axis double pedal, plus Roland electronics for triggered sounds.' },
+          { q: 'What cymbals does Hellhammer use?', a: 'Hellhammer uses Paiste RUDE cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 20" RUDE Ride, and an 18" RUDE China.' },
+          { q: 'What snare drum does Hellhammer use?', a: 'Hellhammer\'s primary snare is the Sonor SQ2, a 14"x5.5" maple shell.' },
+          { q: 'What pedals does Hellhammer use?', a: 'Hellhammer drives his extreme-tempo double bass playing with an Axis double pedal, seated on a Sonor drummer\'s throne.' },
+          { q: 'What drumsticks does Hellhammer use?', a: 'Hellhammer plays Vic Firth American Classic 5B drumsticks.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -6110,6 +6240,19 @@ Lopez's tenure with Opeth spanned some of the band's most critically acclaimed a
           'The transition between heavy and acoustic sections became an Opeth trademark during his tenure',
           'Has been open about mental health struggles, helping reduce stigma in metal community',
           'Soen\'s sound deliberately avoids pure metal, showcasing his versatility'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What band does Martin Lopez play drums for?', a: 'Martin Lopez is a founding member and drummer of Soen since 2010. He previously drummed for Opeth from 1997-2006.' },
+          { q: 'What drums does Martin Lopez play?', a: 'Martin Lopez plays a Noble & Cooley Walnut drum kit.' },
+          { q: 'What drum kit does Martin Lopez play?', a: 'Martin Lopez\'s drum kit is a Noble & Cooley Walnut shell pack, built around a Noble & Cooley Solid Shell 14"x6" maple snare drum, with Remo drumheads.' },
+          { q: 'What drum set does Martin Lopez play?', a: 'Martin Lopez\'s drum set pairs Noble & Cooley Walnut shells and his 14"x6" maple snare with Zildjian K Dark Series cymbals and an Axis Percussion double pedal.' },
+          { q: 'What cymbals does Martin Lopez use?', a: 'Martin Lopez uses Zildjian K Dark Series cymbals, including 14" K Dark Thin Hi-Hats, 18" and 20" K Dark Medium Thin Crashes, a 22" K Dark Light Ride, and an 18" K China.' },
+          { q: 'What snare drum does Martin Lopez use?', a: 'Martin Lopez\'s primary snare is the Noble & Cooley Solid Shell, a 14"x6" maple drum.' },
+          { q: 'What pedals does Martin Lopez use?', a: 'Martin Lopez plays an Axis Percussion double pedal, seated on a DW 9100 throne.' },
+          { q: 'What drumsticks does Martin Lopez use?', a: 'Martin Lopez plays Vic Firth American Classic 5A drumsticks.' }
         ]
       },
       sources: {
@@ -7066,6 +7209,19 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
           'Reunited with David Vincent in 2022 for I Am Morbid',
           'His drumming on "Altars of Madness" influenced virtually every death metal drummer that followed',
           'Jesse Pintado, Terrorizer co-founder, later joined Napalm Death'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What band does Pete Sandoval play drums for?', a: 'Pete Sandoval drummed for Morbid Angel from 1988-2013 and co-founded Terrorizer. He reunited with former Morbid Angel vocalist David Vincent in 2022 to drum for I Am Morbid.' },
+          { q: 'What drums does Pete Sandoval play?', a: 'Pete Sandoval plays a ddrum Dios Series drum kit.' },
+          { q: 'What drum kit does Pete Sandoval play?', a: 'Pete Sandoval\'s drum kit is a ddrum Dios Series shell pack, built around a ddrum Dios 14"x6.5" maple snare drum.' },
+          { q: 'What drum set does Pete Sandoval play?', a: 'Pete Sandoval\'s drum set pairs ddrum Dios Series shells and his 14"x6.5" maple snare with Sabian AAX Series cymbals and a ddrum Mercury double pedal.' },
+          { q: 'What cymbals does Pete Sandoval use?', a: 'Pete Sandoval uses Sabian AAX Series cymbals, including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 20" Stage Ride, and an 18" Chinese.' },
+          { q: 'What snare drum does Pete Sandoval use?', a: 'Pete Sandoval\'s primary snare is the ddrum Dios, a 14"x6.5" maple shell.' },
+          { q: 'What pedals does Pete Sandoval use?', a: 'Pete Sandoval drives his pioneering blast beat technique with a ddrum Mercury double pedal, seated on a ddrum throne.' },
+          { q: 'What is Pete Sandoval known for?', a: 'Pete Sandoval is widely regarded as one of the most influential figures in extreme metal, pioneering blast beat and double bass techniques whose speed and endurance set new standards for death metal drumming.' }
         ]
       },
       sources: {

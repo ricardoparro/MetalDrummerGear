@@ -62,17 +62,37 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Travis Orbin play?**
+**Q: What drum kit does Travis Orbin use?**
 
-A: Travis Orbin plays a SJC Custom Drums.
+A: Travis Orbin's drum kit is built around SJC Custom Drums, the setup behind his genre-defining work on Periphery's self-titled debut (2010) and the complex, trigger-augmented polyrhythmic playing he's since carried into Darkest Hour and his solo session work.
 
-**Q: What cymbals does Travis Orbin use?**
+**Q: What drum set does Travis Orbin use?**
 
-A: Travis Orbin uses Zildjian K Custom Series (14" K Custom Dark Hi-Hats, 18" & 19" K Custom Dark Crashes, 21" K Custom Ride, 18" K Custom China).
+A: Travis Orbin's drum set centers on an SJC Custom 14"x6.5" Maple snare, delivering the crisp, controlled crack his precise, linear patterns require, driven by a DW 9000 Series double pedal with a Roland SPD-SX sampling pad integrated for electronic triggers.
+
+**Q: What cymbals does Travis Orbin play?**
+
+A: Travis Orbin plays Zildjian K Custom Series cymbals: 14" K Custom Dark Hi-Hats, 18" and 19" K Custom Dark Crashes, a 21" K Custom Ride, and an 18" K Custom China.
+
+**Q: What snare does Travis Orbin use?**
+
+A: Travis Orbin's snare is an SJC Custom 14"x6.5" Maple, delivering the crisp, controlled crack heard on Periphery's self-titled debut (2010).
+
+**Q: What sticks does Travis Orbin use?**
+
+A: Travis Orbin uses Vic Firth American Classic 5B drumsticks.
+
+**Q: What bass drum pedal does Travis Orbin use?**
+
+A: Travis Orbin drives his fast, articulate double bass work with a DW 9000 Series double pedal.
+
+**Q: What drumheads does Travis Orbin use?**
+
+A: Travis Orbin uses Evans drumheads across his SJC Custom kit.
 
 **Q: What band is Travis Orbin in?**
 
-A: Travis Orbin drums for Darkest Hour / ex-Periphery, a thrash metal / progressive metal / djent band.
+A: Travis Orbin was the founding studio drummer for Periphery (2009-2012) and has drummed for Darkest Hour (2013-2015) and Sky Harbor (since 2012).
 
 ## Signature Licks on MetalForge
 

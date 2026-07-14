@@ -56,17 +56,37 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Jon Dette play?**
+**Q: What drum kit does Jon Dette use?**
 
-A: Jon Dette plays a Ludwig Classic Maple.
+A: Jon Dette's Slayer-era drum kit was a Ludwig Classic Maple shell pack — a gear choice that set him apart from every other Slayer drummer, since Dave Lombardo played Tama and Paul Bostaph moved through DW and other setups. It centered on twin 22" Ludwig Classic Maple bass drums to execute the sustained double-kick patterns Slayer's catalog demands.
 
-**Q: What cymbals does Jon Dette use?**
+**Q: What drum set does Jon Dette use?**
 
-A: Jon Dette uses Sabian AAX / Zildjian A Series (14" Hi-Hats, 16" & 18" Crash, 20" Ride, 18" China).
+A: Jon Dette's drum set pairs his Ludwig Classic Maple shells with a 14"x6.5" metal or maple snare tuned medium-bright, driven by a DW 9000 or Tama Iron Cobra double pedal, carried across his tenures with Slayer and Testament.
+
+**Q: What cymbals does Jon Dette play?**
+
+A: Jon Dette plays Sabian AAX and Zildjian A Series cymbals: 14" Hi-Hats, 16" and 18" Crashes, a 20" Ride, and an 18" China for the aggressive punctuation Slayer's most intense passages require.
+
+**Q: What snare does Jon Dette use?**
+
+A: Jon Dette's snare is a 14"x6.5" metal or maple model tuned medium-bright for the cut and authority thrash metal's dense guitar mix requires.
+
+**Q: What sticks does Jon Dette use?**
+
+A: Jon Dette uses Promark or Vater 5B drumsticks, a heavier model favored for authority and durability.
+
+**Q: What bass drum pedal does Jon Dette use?**
+
+A: Jon Dette drives his sustained double-kick work with a DW 9000 or Tama Iron Cobra double pedal.
+
+**Q: What drumheads does Jon Dette use?**
+
+A: Jon Dette uses Remo Powerstroke 3 heads on his kick, Emperor Coated on his toms, and Coated Ambassador on his snare.
 
 **Q: What band is Jon Dette in?**
 
-A: Jon Dette drums for Slayer, a thrash metal band.
+A: Jon Dette was Slayer's touring drummer in 1996-1997, then drummed for Testament across two stints (1997-1999, 2001-2012), recording The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012). He also filled in for Charlie Benante on a 2010 Anthrax tour.
 
 ## Signature Licks on MetalForge
 

@@ -61,17 +61,37 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Ryan Van Poederooyen play?**
+**Q: What drum kit does Ryan Van Poederooyen use?**
 
-A: Ryan Van Poederooyen plays a Pearl Reference Series.
+A: Ryan Van Poederooyen's rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend's primary drummer across two decades of genre-hopping albums, from ambient soundscapes to full-throttle metal assaults.
 
-**Q: What cymbals does Ryan Van Poederooyen use?**
+**Q: What drum set does Ryan Van Poederooyen use?**
 
-A: Ryan Van Poederooyen uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 20" HHX Evolution Crashes, 21" HHX Raw Bell Dry Ride, 19" AAXtreme China).
+A: Ryan Van Poederooyen's drum set is built around a Pearl Reference 14"x6.5" Brass snare, delivering the cutting attack needed to punch through Townsend's dense, layered guitar walls on records like Accelerated Evolution, Synchestra, and Transcendence.
+
+**Q: What cymbals does Ryan Van Poederooyen play?**
+
+A: Ryan Van Poederooyen plays Sabian HHX and AAX Series cymbals: 14" HHX Evolution Hi-Hats, 18" and 20" HHX Evolution Crashes, a 21" HHX Raw Bell Dry Ride, and a 19" AAXtreme China.
+
+**Q: What snare does Ryan Van Poederooyen use?**
+
+A: Ryan Van Poederooyen's snare is a Pearl Reference 14"x6.5" Brass, delivering the cutting attack needed to punch through Devin Townsend's dense guitar walls.
+
+**Q: What sticks does Ryan Van Poederooyen use?**
+
+A: Ryan Van Poederooyen uses Vic Firth American Classic 5B drumsticks.
+
+**Q: What bass drum pedal does Ryan Van Poederooyen use?**
+
+A: Ryan Van Poederooyen drives Townsend's crushing riffs with a Pearl Demon Drive double pedal, seated on a Pearl D-3000 throne.
+
+**Q: What drumheads does Ryan Van Poederooyen use?**
+
+A: Ryan Van Poederooyen uses Evans drumheads across his Pearl Reference kit.
 
 **Q: What band is Ryan Van Poederooyen in?**
 
-A: Ryan Van Poederooyen drums for Devin Townsend Project, a progressive metal / extreme metal band.
+A: Ryan Van Poederooyen has been Devin Townsend's primary drummer since 1999, including the Devin Townsend Project era from 2009 to 2018.
 
 ## Gear Evolution Timeline
 

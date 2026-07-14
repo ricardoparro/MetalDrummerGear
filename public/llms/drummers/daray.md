@@ -61,17 +61,37 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Daray play?**
+**Q: What drum kit does Daray use?**
 
-A: Daray plays a Pearl Masterworks Stadium Exotic.
+A: Daray's kit is anchored by a Pearl Masterworks Stadium Exotic shell pack, built for the volume and low-end depth needed to carry Dimmu Borgir's grandiose symphonic arrangements and Vader's blast-driven death metal assault. It centers on a Pearl Reference 14"x5.5" Brass snare.
 
-**Q: What cymbals does Daray use?**
+**Q: What drum set does Daray use?**
 
-A: Daray uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 17" & 18" RUDE Crashes, 22" RUDE Power Ride).
+A: Daray's drum set pairs his Pearl Masterworks shells and brass snare with a Pearl Demon XR double pedal, giving him the speed and control behind his rapid-fire double bass work with both Dimmu Borgir and Vader.
+
+**Q: What cymbals does Daray play?**
+
+A: Daray plays Paiste RUDE and 2002 Series cymbals: 14" RUDE Hi-Hats, 17" and 18" RUDE Crashes, and a 22" RUDE Power Ride cutting through extreme-tempo passages.
+
+**Q: What snare does Daray use?**
+
+A: Daray's snare is a Pearl Reference 14"x5.5" Brass, supplying a sharp, cutting crack that stays audible against dense orchestral layers and extreme blast-beat tempos alike.
+
+**Q: What sticks does Daray use?**
+
+A: Daray uses Vic Firth American Classic Extreme 5B drumsticks, a heavier stick variant built for extreme metal's demands.
+
+**Q: What bass drum pedal does Daray use?**
+
+A: Daray drives his rapid-fire double bass work with a Pearl Demon XR double pedal.
+
+**Q: What drumheads does Daray use?**
+
+A: Daray uses Evans drumheads across his Pearl Masterworks kit.
 
 **Q: What band is Daray in?**
 
-A: Daray drums for Dimmu Borgir / Vader, a black metal / death metal band.
+A: Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2006-2016) and Vesania (since 2003).
 
 ## Gear Evolution Timeline
 

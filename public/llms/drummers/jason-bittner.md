@@ -64,17 +64,37 @@ Zildjian K & A Custom Series cymbals complete the Jason Bittner drum kit: 14" K 
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Jason Bittner play?**
+**Q: What drum kit does Jason Bittner use?**
 
-A: Jason Bittner plays a Mapex Saturn V.
+A: Jason Bittner's drum kit is a Mapex Saturn V build — the all-maple shell pack he has used since joining Overkill in 2017, after building his reputation on the same platform across more than a decade with Shadows Fall, including the band's Grammy-nominated The War Within (2004).
 
-**Q: What cymbals does Jason Bittner use?**
+**Q: What drum set does Jason Bittner use?**
 
-A: Jason Bittner uses Zildjian K & A Custom Series (14" K Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 18" K China).
+A: Jason Bittner's drum set centers on his Mapex Black Panther 14"x6.5" Brass snare, delivering the steel-edged crack that cuts through both Shadows Fall's metalcore arrangements and Overkill's dense thrash riffing, driven by a Mapex Falcon double pedal.
+
+**Q: What cymbals does Jason Bittner play?**
+
+A: Jason Bittner plays Zildjian K and A Custom Series cymbals: 14" K Hi-Hats, 18" and 19" A Custom Crashes, a 21" K Custom Ride, and an 18" K China.
+
+**Q: What snare does Jason Bittner use?**
+
+A: Jason Bittner's snare is a Mapex Black Panther 14"x6.5" Brass, delivering the steel-edged crack heard on The War Within (2004) and The Art of Balance (2002).
+
+**Q: What sticks does Jason Bittner use?**
+
+A: Jason Bittner plays his own signature Promark Jason Bittner Signature 5BX drumsticks.
+
+**Q: What bass drum pedal does Jason Bittner use?**
+
+A: Jason Bittner drives his sustained double-kick passages with a Mapex Falcon double pedal, seated on a Mapex T865 throne.
+
+**Q: What drumheads does Jason Bittner use?**
+
+A: Jason Bittner uses Evans drumheads across his Mapex Saturn V kit.
 
 **Q: What band is Jason Bittner in?**
 
-A: Jason Bittner drums for Shadows Fall / Overkill / Category 7, a thrash metal / heavy metal band.
+A: Jason Bittner has drummed for Overkill since 2017, and previously drummed for Shadows Fall (1999-2015) and Flotsam and Jetsam (2013-2017).
 
 ## Quotes
 

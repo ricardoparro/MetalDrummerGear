@@ -58,17 +58,37 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Raymond Herrera play?**
+**Q: What drum kit does Raymond Herrera use?**
 
-A: Raymond Herrera plays a Tama Starclassic.
+A: Raymond Herrera plays a Tama Starclassic drum kit — the mechanically precise setup behind his innovative "stop-go" double bass technique that defined Fear Factory's industrial metal sound across Soul of a New Machine (1992), Demanufacture (1995), and Obsolete (1998).
 
-**Q: What cymbals does Raymond Herrera use?**
+**Q: What drum set does Raymond Herrera use?**
 
-A: Raymond Herrera uses Zildjian A Custom & Z Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" Z Custom Mega Bell Ride, 18" A Custom China).
+A: Raymond Herrera's drum set centers on a Tama 14"x6.5" Brass snare delivering a sharp, industrial crack, paired with a DW 5000 Series double pedal mounted on a Tama Power Tower Custom rack — the configuration he carried into his later work with Brujeria and Arkaea.
+
+**Q: What cymbals does Raymond Herrera play?**
+
+A: Raymond Herrera plays Zildjian A Custom and Z Custom Series cymbals: 14" A Custom Hi-Hats, 18" and 19" A Custom Crashes, a 21" Z Custom Mega Bell Ride, and an 18" A Custom China.
+
+**Q: What snare does Raymond Herrera use?**
+
+A: Raymond Herrera's snare is a Tama 14"x6.5" Brass model, delivering the sharp, industrial crack that cuts through Fear Factory's mechanized riffing.
+
+**Q: What sticks does Raymond Herrera use?**
+
+A: Raymond Herrera uses Pro-Mark 5A Oak Nylon Tip drumsticks.
+
+**Q: What bass drum pedal does Raymond Herrera use?**
+
+A: Raymond Herrera drives his precise, stop-go double bass patterns with a DW 5000 Series double pedal.
+
+**Q: What drumheads does Raymond Herrera use?**
+
+A: Raymond Herrera uses Attack Drumheads across his Tama Starclassic kit.
 
 **Q: What band is Raymond Herrera in?**
 
-A: Raymond Herrera drums for Fear Factory / Arkaea / Brujeria, a industrial metal / death metal band.
+A: Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2009. He also drums for Brujeria and formed Arkaea after Fear Factory's split.
 
 ## Signature Licks on MetalForge
 

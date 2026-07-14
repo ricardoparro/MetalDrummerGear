@@ -58,17 +58,37 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Paul Bostaph play?**
+**Q: What drum kit does Paul Bostaph use?**
 
-A: Paul Bostaph plays a Pearl Masters Maple Complete (MCX).
+A: Paul Bostaph's drum kit during Slayer's final chapter was a Pearl Masters Maple Complete (MCX) shell pack, the all-maple, double-bass configuration producer Terry Date brought in for 2015's Repentless, Slayer's twelfth and final studio album and the first without guitarist Jeff Hanneman. It's anchored by a 14"x6.5" Pearl Masters steel snare tuned for a sharp, cutting crack.
 
-**Q: What cymbals does Paul Bostaph use?**
+**Q: What drum set does Paul Bostaph use?**
 
-A: Paul Bostaph uses Sabian AAX Series (14" AAX Stage Hi-Hats, 17" & 19" AAX X-Plosion Crashes, 21" AAX Stage Ride, 18" AAXtreme China).
+A: Paul Bostaph's drum set pairs his Pearl Masters Maple Complete shells and steel snare with a Pearl Eliminator double pedal, built for the machine-like consistency he brought to Slayer's catalog across two separate tenures (1992-2001, 2013-2019), and Sabian AAX Series cymbals.
+
+**Q: What cymbals does Paul Bostaph play?**
+
+A: Paul Bostaph plays Sabian AAX Series cymbals: 14" AAX Stage Hi-Hats, 17" and 19" AAX X-Plosion Crashes, a 21" AAX Stage Ride, and an 18" AAXtreme China — the setup he carried through Slayer's Final World Tour, including the band's last-ever show at the Forum in Los Angeles on November 30, 2019.
+
+**Q: What snare does Paul Bostaph use?**
+
+A: Paul Bostaph's snare is a 14"x6.5" Pearl Masters steel model, tuned for a sharp, cutting crack that projects through Kerry King and Gary Holt's dense guitar work on Repentless (2015).
+
+**Q: What sticks does Paul Bostaph use?**
+
+A: Paul Bostaph uses Vater Power 5B drumsticks.
+
+**Q: What bass drum pedal does Paul Bostaph use?**
+
+A: Paul Bostaph drives his double bass patterns with a Pearl Eliminator double pedal.
+
+**Q: What drumheads does Paul Bostaph use?**
+
+A: Paul Bostaph uses Remo Powerstroke 3, Emperor Coated, and Ambassador drumheads.
 
 **Q: What band is Paul Bostaph in?**
 
-A: Paul Bostaph drums for Slayer, a thrash metal band.
+A: Paul Bostaph is Slayer's longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1999-2001, 2024-present), Exodus (2005-2007), and Forbidden (1987-1989).
 
 ## Signature Licks on MetalForge
 

@@ -57,17 +57,37 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Alex Bent play?**
+**Q: What drum kit does Alex Bent use?**
 
-A: Alex Bent plays a Pearl Reference Pure Series.
+A: Alex Bent plays a Pearl Reference Pure Series drum kit — a setup built for the technical precision and cross-genre versatility he brought to Trivium from 2017 to 2025, after cutting his teeth in technical death metal outfits Arkaik and Brain Drill. It powered three Trivium albums: "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021).
 
-**Q: What cymbals does Alex Bent use?**
+**Q: What drum set does Alex Bent use?**
 
-A: Alex Bent uses Zildjian (14" K Custom Hybrid Hi-Hats, 18" & 19" K Custom Hybrid Crashes, 21" K Custom Hybrid Ride, 18" A Custom China).
+A: Alex Bent's drum set is built around a Pearl Reference 14"x5" Brass snare delivering a bright, cutting attack, driven by Axis A Longboard double pedals for his rapid double bass work.
+
+**Q: What cymbals does Alex Bent play?**
+
+A: Alex Bent plays Zildjian K Custom Hybrid cymbals: 14" K Custom Hybrid Hi-Hats, 18" and 19" K Custom Hybrid Crashes, a 21" K Custom Hybrid Ride, and an 18" A Custom China.
+
+**Q: What snare does Alex Bent use?**
+
+A: Alex Bent's snare is a Pearl Reference 14"x5" Brass, delivering the bright, cutting attack that drives Trivium's thrash-meets-technical-death-metal sound.
+
+**Q: What sticks does Alex Bent use?**
+
+A: Alex Bent uses Vic Firth American Classic 5B drumsticks.
+
+**Q: What bass drum pedal does Alex Bent use?**
+
+A: Alex Bent drives his rapid double bass work with Axis A Longboard double pedals, mounted on a Pearl D-3000 throne.
+
+**Q: What drumheads does Alex Bent use?**
+
+A: Alex Bent uses Remo drumheads across his Pearl Reference Pure kit.
 
 **Q: What band is Alex Bent in?**
 
-A: Alex Bent drums for ex-Trivium / Arkaik / Dragonlord, a heavy metal / thrash metal / technical death metal band.
+A: Alex Bent drummed for Trivium from 2017 to 2025, and also drums for Eric Peterson's Dragonlord (since 2015) and Arkaik (since 2011).
 
 ## Signature Licks on MetalForge
 

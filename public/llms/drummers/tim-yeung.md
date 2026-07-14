@@ -64,17 +64,37 @@ Sabian AAX and HHX Series cymbals define the Tim Yeung drum kit's tonal characte
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Tim Yeung play?**
+**Q: What drum kit does Tim Yeung use?**
 
-A: Tim Yeung plays a Tama Starclassic Bubinga.
+A: Tim Yeung plays a Tama Starclassic Bubinga drum kit — a dense, bass-heavy shell pack chosen for the low-end weight and fast attack his blast-beat-driven playing demands across three decades of extreme metal. It centers on a Tama S.L.P. Big Black Steel 14"x6.5" snare.
 
-**Q: What cymbals does Tim Yeung use?**
+**Q: What drum set does Tim Yeung use?**
 
-A: Tim Yeung uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride).
+A: Tim Yeung's drum set pairs his Tama Starclassic Bubinga shells and steel snare with a Tama Speed Cobra 910 double pedal, powering the relentless double-bass runs that made him one of death metal's most in-demand session drummers.
+
+**Q: What cymbals does Tim Yeung play?**
+
+A: Tim Yeung plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, and a 21" HHX Raw Bell Dry Ride.
+
+**Q: What snare does Tim Yeung use?**
+
+A: Tim Yeung's snare is a Tama S.L.P. Big Black Steel 14"x6.5", delivering a sharp, aggressive crack that cuts through the dense, downtuned arrangements of Hate Eternal, Divine Heresy, and Vital Remains.
+
+**Q: What sticks does Tim Yeung use?**
+
+A: Tim Yeung uses Vic Firth American Classic 5A drumsticks.
+
+**Q: What bass drum pedal does Tim Yeung use?**
+
+A: Tim Yeung anchors his legendary speed and stamina with a Tama Speed Cobra 910 double pedal.
+
+**Q: What drumheads does Tim Yeung use?**
+
+A: Tim Yeung uses Evans drumheads across his Tama Starclassic Bubinga kit.
 
 **Q: What band is Tim Yeung in?**
 
-A: Tim Yeung drums for Morbid Angel / Hate Eternal / Vital Remains, a death metal / technical death metal band.
+A: Tim Yeung has drummed for Morbid Angel, Vital Remains, Hate Eternal, and Divine Heresy, and filled in for George Kollias on Nile's 2012 European dates.
 
 ## Signature Licks on MetalForge
 

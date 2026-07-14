@@ -59,17 +59,37 @@ The Sabian AAX cymbal spread rounds out the Paul Mazurkiewicz drum set: 14" AAX 
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Paul Mazurkiewicz play?**
+**Q: What drum kit does Paul Mazurkiewicz use?**
 
-A: Paul Mazurkiewicz plays a Pearl Masters Maple Complete.
+A: Paul Mazurkiewicz plays a Pearl Masters Maple Complete drum kit — the blast-beat-optimized setup that has powered Cannibal Corpse's relentless death metal assault for over three decades. It's anchored by a Pearl Masters 14"x6.5" Maple snare tuned bright and tight to cut through down-tuned guitars.
 
-**Q: What cymbals does Paul Mazurkiewicz use?**
+**Q: What drum set does Paul Mazurkiewicz use?**
 
-A: Paul Mazurkiewicz uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Raw Bell Dry Ride, 18" AAXtreme China).
+A: Paul Mazurkiewicz's drum set pairs his Pearl Masters Maple Complete shells and maple snare with a Pearl Demon Drive double pedal, the same configuration carried across Cannibal Corpse's entire discography from Tomb of the Mutilated through Violence Unimagined.
+
+**Q: What cymbals does Paul Mazurkiewicz play?**
+
+A: Paul Mazurkiewicz plays Sabian AAX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" AAX Raw Bell Dry Ride, and an 18" AAXtreme China.
+
+**Q: What snare does Paul Mazurkiewicz use?**
+
+A: Paul Mazurkiewicz's snare is a Pearl Masters 14"x6.5" Maple, tuned bright and tight to cut through Cannibal Corpse's down-tuned guitars.
+
+**Q: What sticks does Paul Mazurkiewicz use?**
+
+A: Paul Mazurkiewicz uses Vic Firth American Classic 5B drumsticks.
+
+**Q: What bass drum pedal does Paul Mazurkiewicz use?**
+
+A: Paul Mazurkiewicz drives his locomotive double bass technique with a Pearl Demon Drive double pedal.
+
+**Q: What drumheads does Paul Mazurkiewicz use?**
+
+A: Paul Mazurkiewicz uses Evans drumheads across his Pearl Masters kit.
 
 **Q: What band is Paul Mazurkiewicz in?**
 
-A: Paul Mazurkiewicz drums for Cannibal Corpse, a death metal band.
+A: Paul Mazurkiewicz co-founded and has drummed for death metal band Cannibal Corpse since 1988, appearing on every album since their 1990 debut Eaten Back to Life.
 
 ## Signature Licks on MetalForge
 

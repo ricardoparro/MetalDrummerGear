@@ -74,6 +74,13 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Per-Drummer Pedal Setups | https://metalforge.io/llms/pedals/setups/ | Individual verified bass drum pedal setup pages for 56 metal drummers (56 files) |
 | Signature Drumsticks | https://metalforge.io/llms/drumsticks/signature/ | Individual verified signature/endorsed drumstick pages for 30 metal drummers — specs, source, and FAQ (30 files) |
 | Featured Gear Items | https://metalforge.io/llms/gear/item/ | Individual product reference pages for 10 featured gear items — specs and drummer cross-links (10 files) |
+| Per-Band LLM Files | https://metalforge.io/llms/bands/ | Individual band/drummer-history reference pages for 19 bands (19 files) |
+| Per-Brand Cymbal Guides | https://metalforge.io/llms/cymbals/brands/ | Cymbal-specific brand guides (4 files) |
+| Per-Drummer Cymbal Setups | https://metalforge.io/llms/cymbals/setups/ | Individual verified cymbal setup pages for 56 metal drummers (56 files) |
+| Per-Brand Drumstick Guides | https://metalforge.io/llms/drumsticks/brands/ | Drumstick-specific brand guides (10 files) |
+| Per-Drummer Gear Evolution | https://metalforge.io/llms/evolution/ | Individual gear-evolution timelines for 67 metal drummers (67 files) |
+| Per-Drummer Gear History | https://metalforge.io/llms/gear-history/ | Individual era-by-era gear history pages for 67 metal drummers (67 files) |
+| Per-Brand Snare Guides | https://metalforge.io/llms/snares/brands/ | Snare-specific brand guides (6 files) |
 
 ---
 

@@ -35,6 +35,8 @@ import { SOUND_LIKE_GUIDES, generateGuideSchema } from '../../packages/frontend/
 import { DRUMMER_EVOLUTION } from '../../packages/frontend/data/drummerEvolution.js';
 // Issue #1473: /battles/<slug> individual pages — FAQPage + BreadcrumbList JSON-LD.
 import { CURATED_MATCHUPS } from '../../packages/frontend/data/battles.js';
+// Issue #4614: hand-authored metaTitle/metaDescription for /drummer/<slug> profiles.
+import { getExtendedBio } from '../../packages/frontend/data/extendedBios.js';
 // Issue #1474: /drummers/<slug>/signature/<gearSlug> pages — Product + BreadcrumbList JSON-LD.
 import { SIGNATURE_GEAR } from '../../packages/frontend/data/signatureGear.js';
 // Issue #1522: Quotation + ItemList JSON-LD for /quotes page.
@@ -2777,6 +2779,9 @@ function getMetaForPath(pathname) {
       // Issue #1140: prefer a query-matched override (e.g. Joey Jordison) when one
       // exists; otherwise use the generic per-drummer template.
       const override = DRUMMER_META_OVERRIDES[slug];
+      // Issue #4614: hand-authored extendedBios metaTitle/metaDescription sit between
+      // the query-tuned override and the generic template.
+      const extBio = getExtendedBio(slug);
       // Issue #1163: question-led, query-matched description ("What drum kit does
       // X play?") — promotes Joey's hand-override pattern to the default template.
       const bandText = drummer.band ? `${drummer.band} ` : '';
@@ -2787,9 +2792,9 @@ function getMetaForPath(pathname) {
         .slice(0, 3);
 
       return {
-        title: override?.title || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
+        title: override?.title || extBio?.metaTitle || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
         description: truncate(
-          override?.description ||
+          override?.description || extBio?.metaDescription ||
             `What drum kit does ${drummer.name} play? The ${bandText}drummer's ${brandsText} setup — full gear breakdown with videos, specs, and prices.`,
           160
         ),
@@ -3558,15 +3563,18 @@ function getMetaForPath(pathname) {
       const brands = getPrimaryBrands(drummer.gear);
       const brandsText = brands.length > 0 ? brands.join(', ') : 'pro gear';
       const override = DRUMMER_META_OVERRIDES[slug];
+      // Issue #4614: hand-authored extendedBios metaTitle/metaDescription sit between
+      // the query-tuned override and the generic template.
+      const extBio = getExtendedBio(slug);
       const bandText = drummer.band ? `${drummer.band} ` : '';
       const allArticles = Object.values(ALBUM_ARTICLES);
       const relatedArticles = allArticles
         .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === slug)
         .slice(0, 3);
       return {
-        title: override?.title || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
+        title: override?.title || extBio?.metaTitle || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
         description: truncate(
-          override?.description ||
+          override?.description || extBio?.metaDescription ||
             `What drum kit does ${drummer.name} play? The ${bandText}drummer's ${brandsText} setup — full gear breakdown with videos, specs, and prices.`,
           160
         ),

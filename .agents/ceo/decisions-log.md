@@ -6,6 +6,35 @@
 
 ---
 
+## 2026-07-14 21:26 — Evening pulse: 5 fresh proposals promoted, backlog refilled 0→5
+
+### Context (≤3 lines)
+Metrics 21:19 UTC (415 users/442 sessions/654 views 7d; GSC 5,569 impr/134 clicks/2.41% CTR/pos 9.1 — flat since 09:34, `mike portnoy drum set` content-gap row already double-addressed via #4551/#4593, GSC lag, no re-file). Backlog was 0 eligible `ai-fix`, 0 open PRs. 5 fresh untriaged `seo-proposal` (#4630-4634), filed 20:31-20:32 UTC.
+
+### Actions taken
+- **Promoted #4630** (llms/index.md Articles table: 70 of 423 live article files listed) — grep-verified `find public/llms/articles -name "*.md" | wc -l` → 423 vs. table's 70 rows. Same generator-drift bug class as #4543/#4571/#4580/#4597/#4599/#4608/#4625/#4628 (all shipped).
+- **Promoted #4631** (3 stale llms/index.md sections bundled: Brands 16/18, Gear Comparisons 7/26, Pedal Brand Guides 5/11) — grep-verified all three file counts against disk; same bug class, correctly bundled as one atomic fix since all three edits are isolated to one file.
+- **Promoted #4632** (extendedBios.js `imageAlt` field unused — 20 profiles) — confirmed via `grep -n "imageAlt" packages/frontend/App.js` → zero matches despite two live consuming surfaces (hero accessibilityLabel, Person JSON-LD caption) already existing. Genuine wiring gap, not a no-op field.
+- **Promoted #4633** (llms.txt content-stats line stale: 66/423 articles, 10/29 techniques) — distinct file from #4630 (llms.txt vs llms/index.md, no shared generator, confirmed non-overlapping in issue body itself).
+- **Promoted #4634** (49 genre-gear-guide `/llms/guides/best-*.md` files missing from sitemap.js) — confirmed zero sitemap matches for 2 sample files; sibling `soundLikeGuides` subset correctly wired, this subset was simply never added.
+- Searched `gh issue list --search` on 5 distinct keyword queries — no duplicates, open or closed.
+- Founder ideas: inbox empty. GSC content-gap: same row, already closed. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-13, next refresh 2026-07-20 — nothing fresh to triage. Atomic-split: no `ai-fix` issue open >3 days (backlog was 0 at run start). Human-founder blockers (#875/#529/#526/#525) unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 5 eligible (#4630-4634 promoted)
+- Org/Sessions/Views (7d): 415/442/654 · GSC unchanged (5,569 impr / 134 clicks / 2.41% CTR / pos 9.1)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 5/5 fresh triaged and promoted, each independently grep-verified. ✅ GSC-gap: none new. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 5 — still far below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4630/#4631/#4633 close out the llms discovery-doc drift bug class across index.md and llms.txt; #4632 restores unused image-SEO copy; #4634 restores sitemap discovery for 49 guide pages.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — nothing fresh until then.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
 ## 2026-07-14 16:26 — Self-correction: filed 3 ai-fix issues against L1/L3 findings already investigated and held today; closed all 3, fixed the memory-file pollution
 
 ### Context (≤3 lines)

@@ -2688,6 +2688,19 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
           'Despite decades of extreme metal, has maintained his hearing through careful protection'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Daniel Erlandsson use?', a: 'Daniel Erlandsson\'s drum kit is a Pearl Reference Pure kit, a versatile hybrid shell pack chosen for the tight low end and articulate attack his melodic death metal drumming demands with Arch Enemy. It centers on his Pearl Daniel Erlandsson Signature 14"x5.5" snare and is topped with Paiste RUDE and 2002 Series cymbals, driven by a Pearl Demon Drive double pedal.' },
+          { q: 'What drum set does Daniel Erlandsson use?', a: 'Daniel Erlandsson\'s drum set is a Pearl Reference Pure configuration built around his signature Pearl Daniel Erlandsson 14"x5.5" thin-shell snare for a fast, cracking response. The drum set carries Paiste RUDE and 2002 Series cymbals, a Pearl Demon Drive double pedal, and Vic Firth American Classic 5B sticks.' },
+          { q: 'What cymbals does Daniel Erlandsson use?', a: 'Daniel Erlandsson uses Paiste RUDE and 2002 Series cymbals: 14" RUDE Hi-Hats for aggressive, cutting chick sounds, 18" and 19" RUDE Crashes for explosive accents, and a 22" RUDE Power Ride built to punch through Arch Enemy\'s dense, dual-guitar attack.' },
+          { q: 'What snare drum does Daniel Erlandsson play?', a: 'Daniel Erlandsson plays his signature Pearl Daniel Erlandsson 14"x5.5" snare, a thinner-shell signature model delivering a fast, cracking response suited to his blend of Scandinavian death metal intensity and technical precision.' },
+          { q: 'What bass drum pedals does Daniel Erlandsson use?', a: 'Daniel Erlandsson uses a Pearl Demon Drive double bass drum pedal, driving his rapid, precise double-bass patterns across decades of Arch Enemy recordings and tours.' },
+          { q: 'What band is Daniel Erlandsson in?', a: 'Daniel Erlandsson is a founding member and drummer of melodic death metal band Arch Enemy, formed in 1995, and also plays with Brujeria.' },
+          { q: 'What drumsticks does Daniel Erlandsson use?', a: 'Daniel Erlandsson uses Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What drumheads does Daniel Erlandsson use?', a: 'Daniel Erlandsson uses Evans drumheads across his Pearl Reference Pure kit.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -2805,6 +2818,19 @@ Children of Bodom became one of Finland's most successful metal exports, selling
           'Following Alexi Laiho\'s death in 2020, the remaining members have honored his legacy',
           'Contributed to Warmen, the keyboard-focused project of CoB keyboardist Janne Wirman',
           'The band influenced countless melodic death metal and power metal acts'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Jaska Raatikainen use?', a: 'Jaska Raatikainen\'s drum kit is a Pearl Masters Premium Maple kit, the large-format, double-bass configuration he developed across Children of Bodom\'s catalog. It centers on a warm, articulate Pearl Masters 14"x5.5" maple snare and is topped with Zildjian A Custom and K Custom cymbals, driven by a Pearl Eliminator double pedal.' },
+          { q: 'What drum set did Jaska Raatikainen use?', a: 'Jaska Raatikainen\'s drum set was a Pearl Masters Premium Maple configuration built around a Pearl Masters 14"x5.5" maple snare, projecting clearly beneath Alexi Laiho\'s dense guitar and keyboard arrangements. The drum set carried Zildjian A Custom and K Custom cymbals and a Pearl Eliminator double pedal.' },
+          { q: 'What cymbals does Jaska Raatikainen use?', a: 'Jaska Raatikainen uses Zildjian A Custom and K Custom Series cymbals: 14" A Custom Hi-Hats for a bright, cutting chick, 17" and 18" A Custom Crashes for fast-attack accents, and a 20" K Custom Ride for dark, controlled rhythmic work.' },
+          { q: 'What snare drum does Jaska Raatikainen play?', a: 'Jaska Raatikainen plays a Pearl Masters 14"x5.5" maple snare, a warm, articulate shell chosen to cut through Children of Bodom\'s dense neoclassical melodic death metal arrangements.' },
+          { q: 'What bass drum pedals does Jaska Raatikainen use?', a: 'Jaska Raatikainen uses a Pearl Eliminator double bass drum pedal, its direct-drive mechanism essential for the rapid double bass volleys Children of Bodom made a genre cornerstone.' },
+          { q: 'What band is Jaska Raatikainen in?', a: 'Jaska Raatikainen was the drummer and co-founder of Finnish melodic death metal band Children of Bodom from 1993 until the band\'s dissolution in 2019.' },
+          { q: 'What drumsticks does Jaska Raatikainen use?', a: 'Jaska Raatikainen uses Vic Firth American Classic 5A drumsticks.' },
+          { q: 'What drumheads does Jaska Raatikainen use?', a: 'Jaska Raatikainen uses Remo drumheads across his Pearl Masters Premium Maple kit.' }
         ]
       },
       sources: {
@@ -3134,6 +3160,19 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
           'Performed at some of the world\'s largest metal festivals with Amon Amarth',
           'The Great Heathen Army tour featured some of the band\'s most elaborate staging',
           'His steady, powerful style perfectly suits Amon Amarth\'s anthemic songwriting'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Jocke Wallgren use?', a: 'Jocke Wallgren\'s drum kit is a Pearl Reference Pure kit, the versatile, hybrid-shell configuration that has powered Amon Amarth\'s Viking metal assault since he joined the band in 2016. It centers on a Pearl Reference 14"x6.5" brass snare and is topped with Zildjian A Custom and K Custom cymbals, driven by a Pearl Demon Drive double pedal.' },
+          { q: 'What drum set does Jocke Wallgren use?', a: 'Jocke Wallgren\'s drum set is a Pearl Reference Pure configuration built around a bright, cutting Pearl Reference 14"x6.5" brass snare. The drum set carries Zildjian A Custom and K Custom Series cymbals, a Pearl Demon Drive double pedal, and Vic Firth American Classic 5B sticks.' },
+          { q: 'What cymbals does Jocke Wallgren use?', a: 'Jocke Wallgren uses Zildjian A Custom and K Custom Series cymbals: 14" A Custom Hi-Hats for tight, driving patterns, 18" and 19" A Custom Crashes for explosive accents, and a 21" K Custom Ride for dark, controlled rhythmic definition.' },
+          { q: 'What snare drum does Jocke Wallgren play?', a: 'Jocke Wallgren plays a Pearl Reference 14"x6.5" brass snare, delivering the bright, cutting crack that projects through Amon Amarth\'s dense dual-guitar arrangements and gang-vocal choruses on arena and festival stages.' },
+          { q: 'What bass drum pedals does Jocke Wallgren use?', a: 'Jocke Wallgren uses a Pearl Demon Drive double bass drum pedal, giving him the speed and stability needed for Amon Amarth\'s driving, groove-oriented tempos.' },
+          { q: 'What band is Jocke Wallgren in?', a: 'Jocke Wallgren has been the drummer for melodic death metal band Amon Amarth since 2016, replacing Fredrik Andersson.' },
+          { q: 'What drumsticks does Jocke Wallgren use?', a: 'Jocke Wallgren uses Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What drumheads does Jocke Wallgren use?', a: 'Jocke Wallgren uses Evans drumheads across his Pearl Reference Pure kit.' }
         ]
       },
       sources: {
@@ -3935,6 +3974,19 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
           'One of the few European drummers in a Big Four band\'s history'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Dirk Verbeuren use?', a: 'Dirk Verbeuren\'s drum kit is a Tama Starclassic Walnut/Birch hybrid shell kit, chosen for the tight low end and articulate attack needed to anchor Megadeth\'s thrash riffing. It centers on a Tama S.L.P. Big Black Steel 14"x6.5" snare and is topped with Zildjian A Custom and K Custom cymbals, driven by Tama Speed Cobra 910 double pedals.' },
+          { q: 'What drum set does Dirk Verbeuren use?', a: 'Dirk Verbeuren\'s drum set is a Tama Starclassic Walnut/Birch configuration built around his dark, aggressive-sounding Tama S.L.P. Big Black Steel 14"x6.5" snare. The drum set carries Zildjian A Custom and K Custom cymbals, Tama Speed Cobra 910 double pedals, and his signature Tama O-DVM2 sticks.' },
+          { q: 'What cymbals does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses Zildjian A Custom and K Custom Series cymbals: 14" A Custom Hi-Hats, 17", 18", and 19" A Custom Crashes stacked for layered accents, a 21" K Custom Hybrid Ride, and an 18" K China for punctuation.' },
+          { q: 'What snare drum does Dirk Verbeuren play?', a: 'Dirk Verbeuren plays a Tama S.L.P. Big Black Steel 14"x6.5" snare, a dark, aggressive-sounding steel shell that gives tracks like "Tornado of Souls" and "The Conjuring" their sharp, cutting backbeat live.' },
+          { q: 'What bass drum pedals does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses Tama Speed Cobra 910 double pedals, delivering the fast, even double-bass runs heard throughout his Soilwork catalog and Megadeth\'s The Sick, the Dying... and the Dead! era.' },
+          { q: 'What band is Dirk Verbeuren in?', a: 'Dirk Verbeuren has been Megadeth\'s drummer since 2016, and previously drummed for Swedish melodic death metal band Soilwork from 2004 to 2016.' },
+          { q: 'What drumsticks does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses his signature Tama O-DVM2 Dirk Verbeuren drumsticks.' },
+          { q: 'What drumheads does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses Evans drumheads across his Tama Starclassic Walnut/Birch kit.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -4508,6 +4560,19 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
           'Maintains an extensive practice regimen to keep up with demanding schedules'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Aquiles Priester use?', a: 'Aquiles Priester\'s drum kit is a Pearl Reference Series kit, a dense, multi-ply shell pack chosen for powerful low end and quick rebound. It centers on a Pearl Reference 14"x6.5" brass snare and is topped with Sabian HHX and AAX cymbals, driven by a Pearl Demon Drive double pedal mounted on Pearl\'s Icon Rack System.' },
+          { q: 'What drum set does Aquiles Priester use?', a: 'Aquiles Priester\'s drum set is a Pearl Reference Series configuration built around a bright, cutting Pearl Reference 14"x6.5" brass snare. The drum set carries Sabian HHX and AAX Series cymbals, a Pearl Demon Drive double pedal, and his signature Promark TX419W sticks.' },
+          { q: 'What cymbals does Aquiles Priester use?', a: 'Aquiles Priester uses Sabian HHX and AAX Series cymbals: 14" HHX Evolution Hi-Hats, 18" and 19" HHX X-Plosion Crashes, a 21" HHX Groove Ride, and an 18" AAX Chinese cymbal.' },
+          { q: 'What snare drum does Aquiles Priester play?', a: 'Aquiles Priester plays a Pearl Reference 14"x6.5" brass snare, prized for a bright, cutting crack that keeps his rapid single- and double-stroke fills audible through dense progressive power metal arrangements.' },
+          { q: 'What bass drum pedals does Aquiles Priester use?', a: 'Aquiles Priester uses a Pearl Demon Drive double bass drum pedal, mounted on Pearl\'s Icon Rack System, delivering the sustained, high-speed double-bass patterns his playing is known for.' },
+          { q: 'What band is Aquiles Priester in?', a: 'Aquiles Priester is best known for his work with Angra (2000-2012, 2023-present) and W.A.S.P. (2014-2021), along with his own project Hangar.' },
+          { q: 'What drumsticks does Aquiles Priester use?', a: 'Aquiles Priester uses his signature Promark TX419W Aquiles Priester Autograph drumsticks.' },
+          { q: 'What drumheads does Aquiles Priester use?', a: 'Aquiles Priester uses Evans drumheads across his Pearl Reference Series kit.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -4736,6 +4801,19 @@ Otto studied jazz drumming at the Douglas Anderson School of the Arts and played
           'Previously lived in Marina del Rey and Santa Clarita, California'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does John Otto use?', a: 'John Otto\'s drum kit is an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit — the transparent acrylic shells that defined his visual and sonic identity throughout Limp Bizkit\'s nu-metal peak. It centers on two signature OCDP snares (a 14"x6.5" 40-ply vented shell and a 10"x6" 20-ply piccolo), driven by Gibraltar G Class bass drum pedals and topped with Zildjian A Custom cymbals.' },
+          { q: 'What drum set does John Otto use?', a: 'John Otto\'s drum set is an OCDP Custom Type 5 Acrylic configuration built around a 14"x6.5" 40-ply vented snare for primary work and a 10"x6" 20-ply piccolo snare for accents. The drum set carries Zildjian cymbals, a single Gibraltar G Class bass drum pedal, and Remo Emperor Coated heads throughout.' },
+          { q: 'What cymbals does John Otto use?', a: 'John Otto uses Zildjian cymbals: 13" A Custom Mastersound Hi-Hats for tight groove patterns, 16" and 17" A Custom Projection Crashes for accent work, a 20" A Custom EFX for trashy edge, and a 20" FX Oriental Crash of Doom for explosive decay.' },
+          { q: 'What snare drum does John Otto play?', a: 'John Otto\'s primary snare is an OCDP 14"x6.5" 40-ply vented shell, paired with a smaller OCDP 10"x6" 20-ply piccolo snare he brings in for accent work.' },
+          { q: 'What bass drum pedals does John Otto use?', a: 'John Otto uses Gibraltar G Class bass drum pedals in a single-pedal configuration, mounted on Gibraltar custom hardware racks, underpinning the straight-ahead funk and rock grooves on tracks like "Rollin\'" and "Break Stuff."' },
+          { q: 'What band is John Otto in?', a: 'John Otto is the drummer and a founding member of Limp Bizkit, which he co-founded with Fred Durst and Sam Rivers in Jacksonville, Florida in 1994.' },
+          { q: 'What drumsticks does John Otto use?', a: 'John Otto uses Zildjian Artist Series drumsticks.' },
+          { q: 'What drumheads does John Otto use?', a: 'John Otto uses Remo Emperor Coated drumheads across his OCDP acrylic kit.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -4849,6 +4927,19 @@ Weinberg's career spans diverse genres: from substituting for his father with Br
           'Comparisons to Dave Grohl for his energetic, hair-flying style',
           'Left Against Me! via Twitter without notifying bandmates first',
           'Described being "blindsided" and "heartbroken" over Slipknot firing in 2023'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Jay Weinberg use?', a: 'Jay Weinberg\'s drum kit is an SJC Custom Drums build (OBEY x ST Collaboration Kit), the boutique shell pack he developed across nine years with Slipknot and carried into his role with Suicidal Tendencies. It centers on his signature SJC "The Crucible" 14"x6.5" 48-ply brass snare and is topped with Zildjian cymbals, driven by a DW 9000 Series double pedal.' },
+          { q: 'What drum set does Jay Weinberg use?', a: 'Jay Weinberg\'s drum set is an SJC Custom Drums configuration built around his explosive signature SJC "The Crucible" 14"x6.5" 48-ply brass snare. The drum set carries Zildjian cymbals, a DW 9000 Series double bass pedal, DW 9100 throne, and his signature Vater 908 sticks.' },
+          { q: 'What cymbals does Jay Weinberg use?', a: 'Jay Weinberg uses Zildjian cymbals: 14" A New Beat Hi-Hats for sharp, articulate groove patterns, 18" and 19" A Custom Crashes for explosive accents, a 21" K Custom Ride, a 19" K China for aggressive punctuation, and a 7" FX Break Bell for textural effects.' },
+          { q: 'What snare drum does Jay Weinberg play?', a: 'Jay Weinberg plays his signature SJC "The Crucible" 14"x6.5" 48-ply brass snare, delivering the explosive crack that powered Slipknot\'s arena productions on .5: The Gray Chapter, We Are Not Your Kind, and The End, So Far.' },
+          { q: 'What bass drum pedals does Jay Weinberg use?', a: 'Jay Weinberg uses a DW 9000 Series double bass drum pedal, paired with a DW 9100 throne to anchor his powerful, aggressive playing.' },
+          { q: 'What band is Jay Weinberg in?', a: 'Jay Weinberg has drummed for Suicidal Tendencies since 2023, and previously played drums for Slipknot from 2014 to 2023 after replacing Joey Jordison.' },
+          { q: 'What drumsticks does Jay Weinberg use?', a: 'Jay Weinberg uses his signature Vater Jay Weinberg 908 Signature drumsticks.' },
+          { q: 'What drumheads does Jay Weinberg use?', a: 'Jay Weinberg uses Evans Black Chrome drumheads across his SJC Custom Drums kit.' }
         ]
       },
       sources: {
@@ -5774,6 +5865,19 @@ His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenc
           'Known for his humble, educational approach despite legendary status',
           'Cryptopsy\'s 2023 comeback was celebrated as a return to form',
           'His one-footed blast beat technique has been studied and imitated worldwide'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Flo Mounier use?', a: 'Flo Mounier\'s drum kit is a Pearl Masters Maple Complete kit, the maple-shell configuration he has maintained through Cryptopsy\'s most demanding technical death metal recordings. It centers on a Pearl Masters 14"x5.5" maple snare and is topped with Sabian AAX and HHX Series cymbals, driven by a Pearl Demon Drive double pedal.' },
+          { q: 'What drum set does Flo Mounier use?', a: 'Flo Mounier\'s drum set is a Pearl Masters Maple Complete configuration built around a sharp, penetrating Pearl Masters 14"x5.5" maple snare. The drum set carries Sabian AAX and HHX Series cymbals, a Pearl Demon Drive double pedal engineered for fast rebound, and Vic Firth American Classic 5A sticks.' },
+          { q: 'What cymbals does Flo Mounier use?', a: 'Flo Mounier uses Sabian AAX and HHX Series cymbals: 14" HHX Stage Hi-Hats for rapid hi-hat patterns, 17" and 18" AAX X-Plosion Crashes for fast-response accent work, a 21" HHX Raw Bell Dry Ride for dark articulation, and an 18" AAXtreme China for brutal punctuation.' },
+          { q: 'What snare drum does Flo Mounier play?', a: 'Flo Mounier plays a Pearl Masters 14"x5.5" maple snare, tuned for the sharp, penetrating crack that cuts through Cryptopsy\'s dense arrangements on albums like None So Vile and Whisper Supremacy.' },
+          { q: 'What bass drum pedals does Flo Mounier use?', a: 'Flo Mounier uses a Pearl Demon Drive double bass drum pedal, a direct-drive mechanism engineered for the fast rebound his legendary gravity blast technique demands.' },
+          { q: 'What band is Flo Mounier in?', a: 'Flo Mounier is the only constant member of technical death metal pioneers Cryptopsy, which he joined in 1992.' },
+          { q: 'What drumsticks does Flo Mounier use?', a: 'Flo Mounier uses Vic Firth American Classic 5A drumsticks.' },
+          { q: 'What drumheads does Flo Mounier use?', a: 'Flo Mounier uses Evans drumheads across his Pearl Masters Maple Complete kit.' }
         ]
       },
       sources: {

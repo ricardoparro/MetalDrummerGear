@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Orange"
 profile_url: "https://metalforge.io/drummer/john-otto"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # John Otto — Drum Kit & Gear Setup
@@ -61,17 +61,37 @@ Otto studied jazz drumming at the Douglas Anderson School of the Arts and played
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does John Otto play?**
+**Q: What drum kit does John Otto use?**
 
-A: John Otto plays a Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic.
+A: John Otto's drum kit is an Orange County Drum & Percussion (OCDP) Custom Type 5 Acrylic kit — the transparent acrylic shells that defined his visual and sonic identity throughout Limp Bizkit's nu-metal peak. It centers on two signature OCDP snares (a 14"x6.5" 40-ply vented shell and a 10"x6" 20-ply piccolo), driven by Gibraltar G Class bass drum pedals and topped with Zildjian A Custom cymbals.
+
+**Q: What drum set does John Otto use?**
+
+A: John Otto's drum set is an OCDP Custom Type 5 Acrylic configuration built around a 14"x6.5" 40-ply vented snare for primary work and a 10"x6" 20-ply piccolo snare for accents. The drum set carries Zildjian cymbals, a single Gibraltar G Class bass drum pedal, and Remo Emperor Coated heads throughout.
 
 **Q: What cymbals does John Otto use?**
 
-A: John Otto uses Zildjian (13" A Custom Mastersound Hi-Hats, 16" & 17" A Custom Projection Crashes, 20" A Custom EFX, 20" FX Oriental Crash of Doom).
+A: John Otto uses Zildjian cymbals: 13" A Custom Mastersound Hi-Hats for tight groove patterns, 16" and 17" A Custom Projection Crashes for accent work, a 20" A Custom EFX for trashy edge, and a 20" FX Oriental Crash of Doom for explosive decay.
+
+**Q: What snare drum does John Otto play?**
+
+A: John Otto's primary snare is an OCDP 14"x6.5" 40-ply vented shell, paired with a smaller OCDP 10"x6" 20-ply piccolo snare he brings in for accent work.
+
+**Q: What bass drum pedals does John Otto use?**
+
+A: John Otto uses Gibraltar G Class bass drum pedals in a single-pedal configuration, mounted on Gibraltar custom hardware racks, underpinning the straight-ahead funk and rock grooves on tracks like "Rollin'" and "Break Stuff."
 
 **Q: What band is John Otto in?**
 
-A: John Otto drums for Limp Bizkit, a nu metal / rap metal band.
+A: John Otto is the drummer and a founding member of Limp Bizkit, which he co-founded with Fred Durst and Sam Rivers in Jacksonville, Florida in 1994.
+
+**Q: What drumsticks does John Otto use?**
+
+A: John Otto uses Zildjian Artist Series drumsticks.
+
+**Q: What drumheads does John Otto use?**
+
+A: John Otto uses Remo Emperor Coated drumheads across his OCDP acrylic kit.
 
 ## Signature Licks on MetalForge
 
@@ -113,4 +133,4 @@ Full breakdown: [John Otto's pedal setup](https://metalforge.io/pedals/setups/jo
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

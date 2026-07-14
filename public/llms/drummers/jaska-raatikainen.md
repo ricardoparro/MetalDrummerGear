@@ -6,7 +6,7 @@ country: "Finland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jaska-raatikainen"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Jaska Raatikainen — Drum Kit & Gear Setup
@@ -61,24 +61,47 @@ The Jaska Raatikainen drum set centers on a Pearl Masters 14×5.5" Maple snare �
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Jaska Raatikainen play?**
+**Q: What drum kit does Jaska Raatikainen use?**
 
-A: Jaska Raatikainen plays a Pearl Masters Premium Maple.
+A: Jaska Raatikainen's drum kit is a Pearl Masters Premium Maple kit, the large-format, double-bass configuration he developed across Children of Bodom's catalog. It centers on a warm, articulate Pearl Masters 14"x5.5" maple snare and is topped with Zildjian A Custom and K Custom cymbals, driven by a Pearl Eliminator double pedal.
+
+**Q: What drum set did Jaska Raatikainen use?**
+
+A: Jaska Raatikainen's drum set was a Pearl Masters Premium Maple configuration built around a Pearl Masters 14"x5.5" maple snare, projecting clearly beneath Alexi Laiho's dense guitar and keyboard arrangements. The drum set carried Zildjian A Custom and K Custom cymbals and a Pearl Eliminator double pedal.
 
 **Q: What cymbals does Jaska Raatikainen use?**
 
-A: Jaska Raatikainen uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 17" & 18" A Custom Crashes, 20" K Custom Ride).
+A: Jaska Raatikainen uses Zildjian A Custom and K Custom Series cymbals: 14" A Custom Hi-Hats for a bright, cutting chick, 17" and 18" A Custom Crashes for fast-attack accents, and a 20" K Custom Ride for dark, controlled rhythmic work.
+
+**Q: What snare drum does Jaska Raatikainen play?**
+
+A: Jaska Raatikainen plays a Pearl Masters 14"x5.5" maple snare, a warm, articulate shell chosen to cut through Children of Bodom's dense neoclassical melodic death metal arrangements.
+
+**Q: What bass drum pedals does Jaska Raatikainen use?**
+
+A: Jaska Raatikainen uses a Pearl Eliminator double bass drum pedal, its direct-drive mechanism essential for the rapid double bass volleys Children of Bodom made a genre cornerstone.
 
 **Q: What band is Jaska Raatikainen in?**
 
-A: Jaska Raatikainen drums for Children of Bodom, a melodic death metal / power metal band.
+A: Jaska Raatikainen was the drummer and co-founder of Finnish melodic death metal band Children of Bodom from 1993 until the band's dissolution in 2019.
+
+**Q: What drumsticks does Jaska Raatikainen use?**
+
+A: Jaska Raatikainen uses Vic Firth American Classic 5A drumsticks.
+
+**Q: What drumheads does Jaska Raatikainen use?**
+
+A: Jaska Raatikainen uses Remo drumheads across his Pearl Masters Premium Maple kit.
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Jaska Raatikainen:
+MetalForge has 6 signature lick tutorial(s) for Jaska Raatikainen:
 
 - [Sixpounder Double Bass Drive](https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-sixpounder-double-bass)
 - [Lake Bodom Driving Fills](https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-lake-bodom-fills)
+- [Hate Crew Deathroll Signature Fill — Needled 24/7](https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-hate-crew-fill)
+- [Follow the Reaper Main Groove](https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-follow-the-reaper-groove)
+- [Hatebreeder Double-Bass Run — Warheart](https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-hatebreeder-double-bass)
 - [Hate Crew Deathroll Double-Bass Assault](https://metalforge.io/drummers/jaska-raatikainen/licks/jaska-raatikainen-hate-crew-deathroll-blast)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
@@ -112,4 +135,4 @@ Full breakdown: [Jaska Raatikainen's pedal setup](https://metalforge.io/pedals/s
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

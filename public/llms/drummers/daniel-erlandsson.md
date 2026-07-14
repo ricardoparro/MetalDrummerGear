@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daniel-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Daniel Erlandsson — Drum Kit & Gear Setup
@@ -63,17 +63,37 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Daniel Erlandsson play?**
+**Q: What drum kit does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson plays a Pearl Reference Pure.
+A: Daniel Erlandsson's drum kit is a Pearl Reference Pure kit, a versatile hybrid shell pack chosen for the tight low end and articulate attack his melodic death metal drumming demands with Arch Enemy. It centers on his Pearl Daniel Erlandsson Signature 14"x5.5" snare and is topped with Paiste RUDE and 2002 Series cymbals, driven by a Pearl Demon Drive double pedal.
+
+**Q: What drum set does Daniel Erlandsson use?**
+
+A: Daniel Erlandsson's drum set is a Pearl Reference Pure configuration built around his signature Pearl Daniel Erlandsson 14"x5.5" thin-shell snare for a fast, cracking response. The drum set carries Paiste RUDE and 2002 Series cymbals, a Pearl Demon Drive double pedal, and Vic Firth American Classic 5B sticks.
 
 **Q: What cymbals does Daniel Erlandsson use?**
 
-A: Daniel Erlandsson uses Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride).
+A: Daniel Erlandsson uses Paiste RUDE and 2002 Series cymbals: 14" RUDE Hi-Hats for aggressive, cutting chick sounds, 18" and 19" RUDE Crashes for explosive accents, and a 22" RUDE Power Ride built to punch through Arch Enemy's dense, dual-guitar attack.
+
+**Q: What snare drum does Daniel Erlandsson play?**
+
+A: Daniel Erlandsson plays his signature Pearl Daniel Erlandsson 14"x5.5" snare, a thinner-shell signature model delivering a fast, cracking response suited to his blend of Scandinavian death metal intensity and technical precision.
+
+**Q: What bass drum pedals does Daniel Erlandsson use?**
+
+A: Daniel Erlandsson uses a Pearl Demon Drive double bass drum pedal, driving his rapid, precise double-bass patterns across decades of Arch Enemy recordings and tours.
 
 **Q: What band is Daniel Erlandsson in?**
 
-A: Daniel Erlandsson drums for Arch Enemy, a melodic death metal band.
+A: Daniel Erlandsson is a founding member and drummer of melodic death metal band Arch Enemy, formed in 1995, and also plays with Brujeria.
+
+**Q: What drumsticks does Daniel Erlandsson use?**
+
+A: Daniel Erlandsson uses Vic Firth American Classic 5B drumsticks.
+
+**Q: What drumheads does Daniel Erlandsson use?**
+
+A: Daniel Erlandsson uses Evans drumheads across his Pearl Reference Pure kit.
 
 ## Signature Licks on MetalForge
 
@@ -114,4 +134,4 @@ Full breakdown: [Daniel Erlandsson's pedal setup](https://metalforge.io/pedals/s
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

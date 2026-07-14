@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/aquiles-priester"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Aquiles Priester — Drum Kit & Gear Setup
@@ -25,7 +25,7 @@ Aquiles Priester's drum kit and gear setup. Aquiles Priester is a professional m
 | Primary brand | Pearl |
 | Drum kit | Pearl Reference Series |
 | Signature snare | Pearl Reference 14x6.5" Brass |
-| Sticks | Vic Firth Aquiles Priester Signature |
+| Sticks | Promark TX419W Aquiles Priester Autograph |
 
 ## Kit Overview
 
@@ -54,7 +54,7 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
 - **Snare:** Pearl Reference 14x6.5" Brass
 - **Cymbals:** Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese)
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl Icon Rack System
-- **Sticks:** Vic Firth Aquiles Priester Signature
+- **Sticks:** Promark TX419W Aquiles Priester Autograph
 - **Heads:** Evans
 
 ## Notable Performances
@@ -65,17 +65,37 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Aquiles Priester play?**
+**Q: What drum kit does Aquiles Priester use?**
 
-A: Aquiles Priester plays a Pearl Reference Series.
+A: Aquiles Priester's drum kit is a Pearl Reference Series kit, a dense, multi-ply shell pack chosen for powerful low end and quick rebound. It centers on a Pearl Reference 14"x6.5" brass snare and is topped with Sabian HHX and AAX cymbals, driven by a Pearl Demon Drive double pedal mounted on Pearl's Icon Rack System.
+
+**Q: What drum set does Aquiles Priester use?**
+
+A: Aquiles Priester's drum set is a Pearl Reference Series configuration built around a bright, cutting Pearl Reference 14"x6.5" brass snare. The drum set carries Sabian HHX and AAX Series cymbals, a Pearl Demon Drive double pedal, and his signature Promark TX419W sticks.
 
 **Q: What cymbals does Aquiles Priester use?**
 
-A: Aquiles Priester uses Sabian HHX & AAX Series (14" HHX Evolution Hi-Hats, 18" & 19" HHX X-Plosion Crashes, 21" HHX Groove Ride, 18" AAX Chinese).
+A: Aquiles Priester uses Sabian HHX and AAX Series cymbals: 14" HHX Evolution Hi-Hats, 18" and 19" HHX X-Plosion Crashes, a 21" HHX Groove Ride, and an 18" AAX Chinese cymbal.
+
+**Q: What snare drum does Aquiles Priester play?**
+
+A: Aquiles Priester plays a Pearl Reference 14"x6.5" brass snare, prized for a bright, cutting crack that keeps his rapid single- and double-stroke fills audible through dense progressive power metal arrangements.
+
+**Q: What bass drum pedals does Aquiles Priester use?**
+
+A: Aquiles Priester uses a Pearl Demon Drive double bass drum pedal, mounted on Pearl's Icon Rack System, delivering the sustained, high-speed double-bass patterns his playing is known for.
 
 **Q: What band is Aquiles Priester in?**
 
-A: Aquiles Priester drums for Angra / W.A.S.P., a power metal / heavy metal band.
+A: Aquiles Priester is best known for his work with Angra (2000-2012, 2023-present) and W.A.S.P. (2014-2021), along with his own project Hangar.
+
+**Q: What drumsticks does Aquiles Priester use?**
+
+A: Aquiles Priester uses his signature Promark TX419W Aquiles Priester Autograph drumsticks.
+
+**Q: What drumheads does Aquiles Priester use?**
+
+A: Aquiles Priester uses Evans drumheads across his Pearl Reference Series kit.
 
 ## Quotes
 
@@ -127,4 +147,4 @@ Full breakdown: [Aquiles Priester's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

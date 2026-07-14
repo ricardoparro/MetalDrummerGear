@@ -6,7 +6,7 @@ country: "Canada"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/flo-mounier"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Flo Mounier — Drum Kit & Gear Setup
@@ -61,17 +61,37 @@ His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenc
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Flo Mounier play?**
+**Q: What drum kit does Flo Mounier use?**
 
-A: Flo Mounier plays a Pearl Masters Maple Complete.
+A: Flo Mounier's drum kit is a Pearl Masters Maple Complete kit, the maple-shell configuration he has maintained through Cryptopsy's most demanding technical death metal recordings. It centers on a Pearl Masters 14"x5.5" maple snare and is topped with Sabian AAX and HHX Series cymbals, driven by a Pearl Demon Drive double pedal.
+
+**Q: What drum set does Flo Mounier use?**
+
+A: Flo Mounier's drum set is a Pearl Masters Maple Complete configuration built around a sharp, penetrating Pearl Masters 14"x5.5" maple snare. The drum set carries Sabian AAX and HHX Series cymbals, a Pearl Demon Drive double pedal engineered for fast rebound, and Vic Firth American Classic 5A sticks.
 
 **Q: What cymbals does Flo Mounier use?**
 
-A: Flo Mounier uses Sabian AAX & HHX Series (14" HHX Stage Hi-Hats, 17" & 18" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 18" AAXtreme China).
+A: Flo Mounier uses Sabian AAX and HHX Series cymbals: 14" HHX Stage Hi-Hats for rapid hi-hat patterns, 17" and 18" AAX X-Plosion Crashes for fast-response accent work, a 21" HHX Raw Bell Dry Ride for dark articulation, and an 18" AAXtreme China for brutal punctuation.
+
+**Q: What snare drum does Flo Mounier play?**
+
+A: Flo Mounier plays a Pearl Masters 14"x5.5" maple snare, tuned for the sharp, penetrating crack that cuts through Cryptopsy's dense arrangements on albums like None So Vile and Whisper Supremacy.
+
+**Q: What bass drum pedals does Flo Mounier use?**
+
+A: Flo Mounier uses a Pearl Demon Drive double bass drum pedal, a direct-drive mechanism engineered for the fast rebound his legendary gravity blast technique demands.
 
 **Q: What band is Flo Mounier in?**
 
-A: Flo Mounier drums for Cryptopsy, a technical death metal / brutal death metal band.
+A: Flo Mounier is the only constant member of technical death metal pioneers Cryptopsy, which he joined in 1992.
+
+**Q: What drumsticks does Flo Mounier use?**
+
+A: Flo Mounier uses Vic Firth American Classic 5A drumsticks.
+
+**Q: What drumheads does Flo Mounier use?**
+
+A: Flo Mounier uses Evans drumheads across his Pearl Masters Maple Complete kit.
 
 ## Quotes
 
@@ -85,10 +105,13 @@ A: Flo Mounier drums for Cryptopsy, a technical death metal / brutal death metal
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Flo Mounier:
+MetalForge has 6 signature lick tutorial(s) for Flo Mounier:
 
 - [Sire of Sin Blast & Gravity Assault](https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-sire-of-sin-blast)
 - [Phobophile Gravity Blast Masterclass](https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-phobophile-gravity-blast)
+- [None So Vile Gravity Blast — Crown of Horns](https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-none-so-vile-gravity-blast)
+- [Blasphemy Made Flesh Double Kick — Open Face Surgery](https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-blasphemy-made-flesh-double-kick)
+- [Whisper Supremacy Extreme Tom Fill — Emaciate](https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-whisper-supremacy-tom-fill)
 - [Slit Your Guts Blast & Double-Bass Barrage](https://metalforge.io/drummers/flo-mounier/licks/flo-mounier-slit-your-guts-blast)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
@@ -123,4 +146,4 @@ Full breakdown: [Flo Mounier's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

@@ -2860,6 +2860,9 @@ function getMetaForPath(pathname) {
               '@type': 'Person',
               name: drummer.name,
               jobTitle: 'Drummer',
+              description: extBio?.sections?.overview?.content
+                ? truncate(extBio.sections.overview.content.replace(/\n+/g, ' '), 500)
+                : undefined,
               url: `${BASE_URL}/drummer/${slug}`,
               image: `${BASE_URL}/api/card/${slug}?format=twitter`,
               ...(drummer.band ? {
@@ -2873,6 +2876,19 @@ function getMetaForPath(pathname) {
               ],
               knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
             },
+            // Issue #4635: surface extendedBios career highlights + style/influences
+            // prose — authored content that was never wired into bot-facing JSON-LD.
+            ...(extBio ? [{
+              '@type': 'Article',
+              headline: `${drummer.name} — Career & Drumming Style`,
+              about: { '@type': 'Person', name: drummer.name },
+              articleBody: [
+                extBio.sections.careerHighlights?.items?.length
+                  ? extBio.sections.careerHighlights.items.map(i => `${i.year}: ${i.event}`).join(' ')
+                  : null,
+                extBio.sections.styleAndInfluences?.content?.replace(/\n+/g, ' '),
+              ].filter(Boolean).join(' '),
+            }] : []),
             {
               '@type': 'FAQPage',
               mainEntity: faqMainEntity,
@@ -3652,6 +3668,9 @@ function getMetaForPath(pathname) {
               '@type': 'Person',
               name: drummer.name,
               jobTitle: 'Drummer',
+              description: extBio?.sections?.overview?.content
+                ? truncate(extBio.sections.overview.content.replace(/\n+/g, ' '), 500)
+                : undefined,
               url: `${BASE_URL}/drummer/${slug}`,
               image: `${BASE_URL}/api/card/${slug}?format=twitter`,
               ...(drummer.band ? { memberOf: { '@type': 'MusicGroup', name: drummer.band } } : {}),
@@ -3660,6 +3679,19 @@ function getMetaForPath(pathname) {
               ],
               knowsAbout: ['Drumming', 'Metal Music', 'Percussion'],
             },
+            // Issue #4635: surface extendedBios career highlights + style/influences
+            // prose — authored content that was never wired into bot-facing JSON-LD.
+            ...(extBio ? [{
+              '@type': 'Article',
+              headline: `${drummer.name} — Career & Drumming Style`,
+              about: { '@type': 'Person', name: drummer.name },
+              articleBody: [
+                extBio.sections.careerHighlights?.items?.length
+                  ? extBio.sections.careerHighlights.items.map(i => `${i.year}: ${i.event}`).join(' ')
+                  : null,
+                extBio.sections.styleAndInfluences?.content?.replace(/\n+/g, ' '),
+              ].filter(Boolean).join(' '),
+            }] : []),
             {
               '@type': 'FAQPage',
               mainEntity: faqMainEntity,

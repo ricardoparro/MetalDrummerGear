@@ -1,7 +1,7 @@
 # MetalForge — llms.txt
 # https://llmstxt.org/
 # Last updated: 2026-07-12
-# Content: 67 drummers, 157 lick pages (100% coverage), 66 articles, 10 techniques, 19 bands, 226 comparisons, 56 pedal setups
+# Content: 67 drummers, 157 lick pages (100% coverage), 423 articles, 29 techniques, 19 bands, 226 comparisons, 56 pedal setups
 
 > MetalForge is the definitive database of professional metal drummers and their gear. 67 drummers, complete gear specs, 157 signature drum lick breakdowns, performance videos, and career histories.
 
@@ -22,7 +22,7 @@
 ## Techniques
 
 - [Techniques Overview](/llms/techniques.md): Metal drumming techniques explained
-- [Per-Technique Guides](/llms/technique/): Blast beat, double bass, gravity blast, polyrhythms + 6 more
+- [Per-Technique Guides](/llms/technique/): 29 techniques covering blast beat, double bass, gravity blast, polyrhythms, and 25 more including rudiments, paradiddles, and stroke rolls
 
 ## Genres
 

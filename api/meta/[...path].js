@@ -536,6 +536,14 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/timeline`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: `Metal Drumming Evolution Timeline (${firstYear}-${lastYear})`,
+        description: `Explore ${eventCount} key moments in metal drumming history — landmark album releases, drummer debuts, gear innovations, and technique milestones.`,
+        url: `${BASE_URL}/timeline`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
     };
   }
 
@@ -546,6 +554,14 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/gear-finder`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Gear Finder — Search Metal Drummer Equipment by Brand',
+        description: 'Search and filter metal drummer gear by brand, drummer, or equipment type to find exactly what kit, cymbals, or hardware your favorite pro uses.',
+        url: `${BASE_URL}/gear-finder`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
     };
   }
 
@@ -970,6 +986,15 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/beginner-guide-preview.png`,
       type: 'article',
       url: `${BASE_URL}/beginner-guide`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'Article',
+        headline: "Metal Drumming Beginner's Guide",
+        description: 'Start your metal drumming journey with essential gear recommendations, technique basics, and tips from legendary drummers.',
+        url: `${BASE_URL}/beginner-guide`,
+        image: `${BASE_URL}/images/og/beginner-guide-preview.png`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
     };
   }
 
@@ -1048,6 +1073,14 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/news`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Drummer & Gear News',
+        description: 'The latest metal drummer news: gear changes, endorsement deals, band lineup updates, and equipment releases, updated continuously.',
+        url: `${BASE_URL}/news`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
     };
   }
 
@@ -1059,6 +1092,14 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/cards-preview.png`,
       type: 'website',
       url: `${BASE_URL}/cards`,
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Drummer Gear Cards Gallery',
+        description: 'Beautiful shareable gear cards for every drummer, downloadable and ready to share on Instagram, Twitter, and more.',
+        url: `${BASE_URL}/cards`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
     };
   }
 

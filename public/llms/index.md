@@ -59,8 +59,8 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Genre Gear Guide — Best Drum Heads for Metal | https://metalforge.io/llms/guides/best-drum-heads-for-metal.md | Evans vs Remo vs Aquarian drum head recommendations with pro drummer citations, specs, and FAQ for metal drumming (Markdown) |
 | Genre Gear Guide — Best Cymbals for Metal | https://metalforge.io/llms/guides/best-cymbals-for-metal.md | Zildjian vs Paiste vs Meinl cymbal line comparisons, pro endorser data, and FAQ for metal drumming (Markdown) |
 | Per-Drummer LLM Files | https://metalforge.io/llms/drummers/ | Static LLM-optimised gear files for all 67 drummers — brands, specs, and profile links (67 files) |
-| Per-Brand LLM Files | https://metalforge.io/llms/brands/ | Per-brand gear guides for 16 major drum, cymbal, stick, and pedal brands (16 files) |
-| Brand Comparisons | https://metalforge.io/llms/gear-comparison/ | Side-by-side brand spec comparisons for 7 matchups (7 files) |
+| Per-Brand LLM Files | https://metalforge.io/llms/brands/ | Per-brand gear guides for 18 major drum, cymbal, stick, and pedal brands (18 files) |
+| Brand Comparisons | https://metalforge.io/llms/gear-comparison/ | Side-by-side brand spec comparisons for 7 matchups plus 19 "drummers using this brand/kit" breakdowns (26 files) |
 | Per-Drummer Lick Files | https://metalforge.io/llms/licks/ | Individual lick breakdown LLM files for all 67 drummers (67 files) |
 | Per-Technique Files | https://metalforge.io/llms/technique/ | Deep-dive technique files: blast-beat, double-bass, gravity-blast, etc. (29 files) |
 | Gear Series Files | https://metalforge.io/llms/gear-series/ | Per-gear-model LLM files covering specs and user profiles (36 files) |
@@ -75,7 +75,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Per-Drummer Signature Snares | https://metalforge.io/llms/snares/signature/ | Individual verified "what snare does X use" pages for 10 drummers with a confirmed signature snare model (10 files) |
 | Pedals Guide | https://metalforge.io/llms/pedals.md | Bass drum pedal hub — drive types, single vs double, setup & tuning, and a best-for-metal buying guide, plus links to all 56 verified drummer pedal setups (Markdown) |
 | Pedal Reference Guides | https://metalforge.io/llms/pedals/ | Drive-types, single-vs-double, and setup-tuning reference guides for bass drum pedals (3 files) |
-| Per-Brand Pedal Guides | https://metalforge.io/llms/pedals/brands/ | Pedal-specific brand guides for Tama, Pearl, DW, Axis, and Trick (5 files) |
+| Per-Brand Pedal Guides | https://metalforge.io/llms/pedals/brands/ | Pedal-specific brand guides for 11 brands (Tama, Pearl, DW, Axis, Trick, Czarcie Kopyto, Gibraltar, Ludwig, Mapex, Sonor, Yamaha) (11 files) |
 | Per-Drummer Pedal Setups | https://metalforge.io/llms/pedals/setups/ | Individual verified bass drum pedal setup pages for 56 metal drummers (56 files) |
 | Signature Drumsticks | https://metalforge.io/llms/drumsticks/signature/ | Individual verified signature/endorsed drumstick pages for 30 metal drummers — specs, source, and FAQ (30 files) |
 | Featured Gear Items | https://metalforge.io/llms/gear/item/ | Individual product reference pages for 10 featured gear items — specs and drummer cross-links (10 files) |
@@ -654,7 +654,7 @@ Hub: [/llms/guides.md](https://metalforge.io/llms/guides.md) — overview of all
 
 ---
 
-## Brands (per-brand, 16 brands)
+## Brands (per-brand, 18 brands)
 
 Per-brand deep-dive files optimised for AI retrieval on queries like "which metal drummers endorse DW?" or
 "what Pearl kits do death metal drummers use?". For the full 18-brand history ordered by founding year (1623 to
@@ -665,12 +665,14 @@ today), see the [Brands Timeline](https://metalforge.io/llms/brands-timeline.md)
 | Ahead | [ahead.md](https://metalforge.io/llms/brands/ahead.md) |
 | Axis | [axis.md](https://metalforge.io/llms/brands/axis.md) |
 | DW (Drum Workshop) | [dw.md](https://metalforge.io/llms/brands/dw.md) |
+| Evans | [evans.md](https://metalforge.io/llms/brands/evans.md) |
 | Ludwig | [ludwig.md](https://metalforge.io/llms/brands/ludwig.md) |
 | Mapex | [mapex.md](https://metalforge.io/llms/brands/mapex.md) |
 | Meinl | [meinl.md](https://metalforge.io/llms/brands/meinl.md) |
 | Paiste | [paiste.md](https://metalforge.io/llms/brands/paiste.md) |
 | Pearl | [pearl.md](https://metalforge.io/llms/brands/pearl.md) |
 | Pro-Mark | [pro-mark.md](https://metalforge.io/llms/brands/pro-mark.md) |
+| Remo | [remo.md](https://metalforge.io/llms/brands/remo.md) |
 | Sabian | [sabian.md](https://metalforge.io/llms/brands/sabian.md) |
 | Sonor | [sonor.md](https://metalforge.io/llms/brands/sonor.md) |
 | Tama | [tama.md](https://metalforge.io/llms/brands/tama.md) |

@@ -6,6 +6,31 @@
 
 ---
 
+## 2026-07-14 15:29 — Pulse: promoted 1 fresh proposal (FAQ-depth batch 5), L1/L2/L3 snapshots still stale (no new action)
+
+### Context (≤3 lines)
+Metrics 15:29 UTC (412 users/439 sessions/652 views 7d; GSC 5,569 impr/134 clicks/2.41% CTR/pos 9.1 — same `mike portnoy drum set` content-gap row, already double-addressed via #4551/#4593, GSC lag). Backlog was 0 eligible `ai-fix`, 0 open PRs (fully drained since #4618 merged 14:06 UTC). 1 fresh untriaged proposal (#4619, filed 14:39 UTC).
+
+### Actions taken
+- **Promoted #4619** (extend `extendedBios.js` FAQ depth to 10 more profiles: matt-garstka, bill-ward + 8 others — 5th tranche of the proven #4593→#4605→#4607→#4612 chain, all shipped). Independently re-verified before promoting: `node -e` confirmed 27/67 profiles still lack `sections.faq.items` and the 10 named targets are among them; grepped `api/drummers/index.js` and confirmed real gear data exists for the 2 GSC-signal priority profiles (matt-garstka L2966, bill-ward L1900) backing the cited specs. Backlog 0→1.
+- L1 (`gsc-watch-snapshot.md`), L2 (`llm-citations` #2211), L3 (`indexation-snapshot.md`) — all still dated 2026-07-13 (09:12/08:41/10:25 UTC), identical to the data already fully triaged in the 07-13 12:52 UTC run (Shannon Larkin loss, `fiafap` noise, Eloy Casagrande CTR-gap, 26-URL navene-koperweis duplicate cluster, dance-of-death 404 — all held with reasoning in `learned-patterns.md`; joey-jordison-signature-gear-guide crawled-not-indexed already filed as #4559, shipped). Next refresh due 2026-07-20 — no re-triage, no re-file.
+- Founder ideas: inbox empty. GSC content-gap: same row as all prior runs today, already closed by #4551+#4593. Atomic-split: backlog was 0 at run start, nothing stuck. Human-founder blockers (#875/#529/#526/#525) unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 1 (#4619 promoted)
+- Org/Sessions/Views (7d): 412/439/652 · GSC: 5,569 impr / 134 clicks / 2.41% CTR / pos 9.1 — flat since this morning
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted, grep-verified. ✅ GSC-gap: none new (existing row already covered). ✅ Atomic split: none needed. ✅ L1/L2/L3 close-the-loop: confirmed stale/already-triaged, correctly held. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 1 — far below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4619 dispatch and ship; it's the 5th tranche — 17 profiles will remain without FAQ depth after this batch.
+3. Watch for the 2026-07-20 L1/L2/L3 refresh — nothing fresh to triage until then.
+4. #4440 (infra) and human-founder blockers (#875/#529/#526/#525) unchanged — no re-spam.
+
+---
+
 ## 2026-07-14 11:29 — Pulse: promoted 1 fresh proposal (sitemap gap, 4 llms/*.md hub files), confirmed SEO Agent's own auto-filed ai-fix is sound
 
 ### Context (≤3 lines)

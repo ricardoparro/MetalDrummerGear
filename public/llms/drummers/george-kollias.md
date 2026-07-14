@@ -6,7 +6,7 @@ country: "Greece"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/george-kollias"
 source: "https://metalforge.io"
-last_updated: "2026-07-13"
+last_updated: "2026-07-14"
 ---
 
 # George Kollias — Drum Kit & Gear Setup
@@ -89,6 +89,26 @@ A: Yes, George is an accomplished drum educator with instructional DVDs and worl
 
 A: George Kollias was born on August 30, 1977, and turns 49 on August 30, 2026.
 
+**Q: What drum kit does George Kollias use?**
+
+A: George Kollias plays a Pearl Masterworks Stadium Exotic drum kit finished in Piano Black with Gold Hardware, built around his signature Pearl George Kollias 14"x6.5" snare drum. The drum kit is powered by the Pearl Demon XR double pedal — a pedal George co-designed specifically for extreme-speed blast beats — and topped with Zildjian cymbals and a Pearl D-3000 throne.
+
+**Q: What drum set does George Kollias use?**
+
+A: George Kollias's drum set is a Pearl Masterworks Stadium Exotic configuration in Piano Black with Gold Hardware, centered on his Pearl George Kollias Signature 14"x6.5" snare. He drives the drum set with the Pearl Demon XR double pedal he co-designed, plays Vic Firth George Kollias Signature SGK sticks, and heads it with Evans drumheads.
+
+**Q: What cymbals does George Kollias use?**
+
+A: George Kollias uses Zildjian cymbals, including 14" K Mastersound Hi-Hats, K Custom Dark Crashes, and an A Custom Mega Bell Ride. The K Mastersound hats and Custom Dark crashes are chosen for quick response and cutting articulation at extreme blast-beat tempos.
+
+**Q: What pedals does George Kollias use?**
+
+A: George Kollias uses the Pearl Demon XR double bass drum pedal, which he co-designed with Pearl specifically for extreme-speed applications. Its linear action and lightweight beater design give Kollias the responsiveness needed to sustain blast beats well above 240 BPM.
+
+**Q: How fast does George Kollias play?**
+
+A: George Kollias can sustain blast beats at 240+ BPM with clarity and precision, one of the fastest sustained tempos in extreme metal drumming. His endurance and gravity blast technique allow him to maintain that speed through extended passages without losing articulation.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for George Kollias:
@@ -129,4 +149,4 @@ Full breakdown: [George Kollias's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

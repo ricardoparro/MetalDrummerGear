@@ -665,7 +665,12 @@ Haake's approach to drumming involves complex polyrhythmic patterns that create 
           { q: 'Why does Tomas Haake use two single pedals?', a: 'Tomas uses two separate single pedals for greater independence between his feet for polyrhythms.' },
           { q: 'How long did it take to learn "Bleed"?', a: 'Tomas spent six months practicing daily to consistently play the "Bleed" kick pattern live.' },
           { q: 'What is djent drumming?', a: 'Djent drumming features polyrhythmic patterns over a 4/4 foundation, pioneered by Tomas with Meshuggah.' },
-          { q: 'Is Tomas Haake in Meshuggah?', a: "Yes, Tomas has been Meshuggah's drummer and lyricist since 1990." }
+          { q: 'Is Tomas Haake in Meshuggah?', a: "Yes, Tomas has been Meshuggah's drummer and lyricist since 1990." },
+          { q: 'What drum kit does Tomas Haake use?', a: 'Tomas Haake\'s drum kit is a Sonor SQ2 Heavy Beech kit (24"x18" bass drum with toms up to 18"), built around his signature Sonor Tomas Haake 14"x6.5" snare. Instead of a double pedal, the drum kit uses two separate Tama Speed Cobra single pedals for independent foot control, topped with Sabian HHX and AAX cymbals including his signature Compression Hi-Hats.' },
+          { q: 'What drum set does Tomas Haake use?', a: 'Tomas Haake\'s drum set is a Sonor SQ2 Heavy Beech configuration centered on his Sonor Tomas Haake Signature 14"x6.5" snare and an Artist Series Bronze snare. The drum set is driven by two independent Tama Speed Cobra single pedals rather than a double pedal, seated on a Porter & Davies BC2 throne that vibrates in sync with the kick for tactile monitoring.' },
+          { q: 'What cymbals does Tomas Haake use?', a: 'Tomas Haake uses Sabian HHX and AAX series cymbals, including his signature Sabian Compression Hi-Hats, chosen for their quick, tight response in Meshuggah\'s polyrhythmic passages.' },
+          { q: 'What pedals does Tomas Haake use?', a: 'Tomas Haake uses two separate Tama Speed Cobra single bass drum pedals instead of a traditional double pedal, giving him full independence between his feet to play different rhythmic patterns simultaneously.' },
+          { q: 'What snare drum does Tomas Haake use?', a: 'Tomas Haake plays a Sonor Tomas Haake Signature 14"x6.5" snare drum, along with a Sonor Artist Series Bronze snare for added tonal variety.' }
         ]
       },
       sources: {
@@ -797,7 +802,12 @@ Beyond his work with Nile, Kollias is an accomplished drum educator, having rele
           { q: 'Where is George Kollias from?', a: 'George Kollias was born on August 30, 1977, in Korinth, Greece.' },
           { q: 'When did George Kollias join Nile?', a: 'George joined Nile in 2004, replacing Tony Laureano.' },
           { q: 'Does George Kollias teach drumming?', a: 'Yes, George is an accomplished drum educator with instructional DVDs and worldwide clinics.' },
-          { q: 'When was George Kollias born?', a: 'George Kollias was born on August 30, 1977, and turns 49 on August 30, 2026.' }
+          { q: 'When was George Kollias born?', a: 'George Kollias was born on August 30, 1977, and turns 49 on August 30, 2026.' },
+          { q: 'What drum kit does George Kollias use?', a: 'George Kollias plays a Pearl Masterworks Stadium Exotic drum kit finished in Piano Black with Gold Hardware, built around his signature Pearl George Kollias 14"x6.5" snare drum. The drum kit is powered by the Pearl Demon XR double pedal — a pedal George co-designed specifically for extreme-speed blast beats — and topped with Zildjian cymbals and a Pearl D-3000 throne.' },
+          { q: 'What drum set does George Kollias use?', a: 'George Kollias\'s drum set is a Pearl Masterworks Stadium Exotic configuration in Piano Black with Gold Hardware, centered on his Pearl George Kollias Signature 14"x6.5" snare. He drives the drum set with the Pearl Demon XR double pedal he co-designed, plays Vic Firth George Kollias Signature SGK sticks, and heads it with Evans drumheads.' },
+          { q: 'What cymbals does George Kollias use?', a: 'George Kollias uses Zildjian cymbals, including 14" K Mastersound Hi-Hats, K Custom Dark Crashes, and an A Custom Mega Bell Ride. The K Mastersound hats and Custom Dark crashes are chosen for quick response and cutting articulation at extreme blast-beat tempos.' },
+          { q: 'What pedals does George Kollias use?', a: 'George Kollias uses the Pearl Demon XR double bass drum pedal, which he co-designed with Pearl specifically for extreme-speed applications. Its linear action and lightweight beater design give Kollias the responsiveness needed to sustain blast beats well above 240 BPM.' },
+          { q: 'How fast does George Kollias play?', a: 'George Kollias can sustain blast beats at 240+ BPM with clarity and precision, one of the fastest sustained tempos in extreme metal drumming. His endurance and gravity blast technique allow him to maintain that speed through extended passages without losing articulation.' }
         ]
       },
       sources: {

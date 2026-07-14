@@ -5,6 +5,36 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-14 04:06 UTC*
 
 ---
+
+## 2026-07-14 09:10 — Deep run: queue fully drained by overnight momentum, sourced + filed 1 fresh ai-fix (proven FAQ-depth pattern), root-caused the L1 losses as already-fixed
+
+### Context (≤3 lines)
+Metrics 08:42 UTC (404 users/431 sessions/642 views 7d; GSC 5,569 impr/134 clicks/2.41% CTR/pos 9.1 — 1 content-gap row: `mike portnoy drum set`, already fixed by #4551/PR #4561, watch next snapshot). Backlog was **0 eligible `ai-fix`, 0 open PRs** — Ralph shipped ~15 issues overnight (04:00-07:55 UTC) and fully drained the queue. `seo-proposal` bank also dry (only the 3 standing L1/L2/L3 umbrella trackers remain).
+
+### Actions taken
+- With both the `ai-fix` backlog and proposal bank empty, sourced fresh work myself per the "generate your own ideas" mandate. Cross-checked L2 (#2211, generated 07-13T08:41) against live production: **george-kollias** and **tomas-haake** are `_no competitor in citations_` rows (pure first-mover opportunity, not a competitive fight) and both live-curl to only 3 FAQPage Q&A pairs — the exact shallow shape #4593 (closed today, PR #4595) just fixed for 5 other profiles by expanding to ≥9 gear-specific pairs. Filed **#4605** (ai-fix), replicating the proven template plus George Kollias's pedals/speed-specific query intents.
+- Root-caused the L1 big-losses on `joey jordison drum set/kit` (pos 6.7→9.9, 7.2→13.6) instead of filing a duplicate: L3 shows `/articles/joey-jordison-signature-gear-guide` was `crawled-not-indexed`, already fixed via **#4559** (closed 2026-07-13T14:07) — Google just hasn't re-crawled yet (L3's `last crawl` for that URL still reads 2026-07-06). No new issue; watch next snapshot.
+- Checked the 26-URL `duplicate→navene-koperweis` L3 cluster: all last-crawl dates 2026-07-02–07-04, predating the meta-shell-saga route fixes (2026-07-06/07) — same documented stale-crawl self-heal pattern, not a fresh bug. No issue filed.
+- Checked `eloy casagrande drum kit` CTR-gap-opportunity row (pos 9.2, 26 impr, 0% CTR): live title/meta already carry the "drum kit"/"Tama Starclassic" targeting from the earlier #3282 fix that previously converted clicks — this reads as rank volatility on 26 impressions, not a fresh actionable bug. Skipped.
+- Verified comparative-list (`fastest metal drummer` etc.) and technique how-to (`blast beat`, `double bass`) L2 gap rows already carry full ItemList/FAQPage/HowTo schema live — the gap there is competitive authority (drumeo/drummagazine/loudwire), not a fixable format bug. No issue filed; per learned-patterns this pattern is already correctly promoted, just needs time.
+- Founder ideas: inbox empty. Atomic-split: 0 open `ai-fix` issues, nothing to split. Human-founder blockers (#875/#529/#526/#525) unchanged, no re-spam.
+- Appended 2 entries to `learned-patterns.md`: the FAQ-depth-gap replication rule (check every roster entity's FAQ count after any batch fix, not just the sampled ones) and the L1-loss-vs-L3-in-flight-fix cross-check rule.
+
+### State delta
+- ai-fix backlog: 0 → 1 eligible (#4605 filed)
+- Org/Sessions/Views (7d): 404/431/642 (up from 07-13's 348/377/563 — steady growth)
+- GSC: 5,569 impr/134 clicks/2.41% CTR/pos 9.1 (impressions up from 4,418; CTR and position roughly flat)
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 0 fresh (bank dry — sourced own work). ✅ GSC-gap: 1 row, already fixed by #4551, watching re-crawl. ✅ Atomic split: nothing open to split. ✅ Decisions logged. ✅ L1/L2/L3 read every row before acting — 1 issue filed (well under the ≤3 cap), 3 candidate patterns investigated and correctly held as no-action.
+
+### Next Run
+1. Backlog at 1 (just #4605) — thin. If still near-empty next run, source more L2 zero-competitor rows from the "and 16 more" hidden tail of #2211's JSON artifact (not yet inspected this run).
+2. Watch next L1/L3 snapshot (due next Monday cycle) for `joey jordison drum set/kit` recovering once Google re-crawls the #4559 fix, and for the 26-URL duplicate cluster clearing.
+3. Watch #4605 land, then re-check the L2 snapshot after it for george-kollias/tomas-haake flipping to cited.
+4. Mike Portnoy content-gap (#4551) fix is shipped — confirm it drops off the content-gap table next metrics refresh.
+
+---
 ## 2026-07-13 05:20 (state-confirm — anti-noise hold)
 - Backlog: 5 ai-fix (all 5 = stuck CI-workflow issues blocked on #4498, no other ai-fix exists) · 0 PRs open · proposals untriaged: 0
 - Org/Sessions/Views (7d): 379/408/594 · GSC 4,418 impr/119 clicks/2.69% CTR/pos 8.5 (no content-gap)

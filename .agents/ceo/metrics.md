@@ -1,6 +1,6 @@
 # MetalForge Metrics
 
-*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-14 06:41 UTC*
+*Auto-refreshed by `.agents/scripts/fetch-metrics.cjs` — last run 2026-07-14 08:42 UTC*
 *Lookback: last 7 days*
 
 ---
@@ -8,33 +8,32 @@
 ## GA4 — Audience
 | Metric | Last 7d |
 | --- | --- |
-| Active users | 400 |
-| Sessions | 427 |
-| Page views | 627 |
-| Engagement rate | 32.08% |
-| Avg session (s) | 66 |
+| Active users | 404 |
+| Sessions | 431 |
+| Page views | 642 |
+| Engagement rate | 36.19% |
+| Avg session (s) | 64 |
 
 ### Top pages (by page views, last 7d)
 | Page | Views | Users |
 | --- | --- | --- |
-| / | 108 | 72 |
-| /drumsticks | 40 | 34 |
-| /drummer/lars-ulrich | 36 | 36 |
-| /cymbals | 31 | 33 |
+| / | 111 | 74 |
+| /drumsticks | 42 | 34 |
+| /drummer/lars-ulrich | 36 | 37 |
+| /cymbals | 33 | 33 |
 | /drummers | 23 | 3 |
-| /lists/fastest-metal-drummers | 21 | 22 |
-| /articles/master-of-puppets-drum-setup | 14 | 15 |
-| /drummer/matt-greiner | 13 | 10 |
+| /lists/fastest-metal-drummers | 22 | 22 |
+| /articles/master-of-puppets-drum-setup | 15 | 16 |
+| /drummer/matt-greiner | 14 | 10 |
 | /gear/sticks | 8 | 1 |
 | /lists/best-metal-drummers-of-all-time | 8 | 8 |
 
 ### Traffic sources
 | Channel | Sessions | Users |
 | --- | --- | --- |
-| Direct | 253 | 245 |
-| Organic Search | 157 | 141 |
-| Unassigned | 94 | 90 |
-| Cross-network | 5 | 5 |
+| Direct | 262 | 254 |
+| Organic Search | 166 | 148 |
+| Unassigned | 13 | 12 |
 
 ## Search Console — Search performance
 | Metric | Last 7d |

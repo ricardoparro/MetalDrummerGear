@@ -8,6 +8,10 @@
  */
 
 import { drummers } from '../drummers/index.js';
+// Issue #4611: bot-facing FAQPage JSON-LD for /drummer/:slug must reflect the
+// real per-drummer FAQ depth authored in extendedBios.js, not a hardcoded
+// 3-question template — otherwise L2 FAQ-depth fixes never reach the crawl.
+import { getExtendedBio } from '../../packages/frontend/data/extendedBios.js';
 // Issue #1064: source unique meta + Article schema for the full album/kit article
 // corpus from the same data the sitemap uses (api/sitemap.js:8).
 import { ALBUM_ARTICLES } from '../../packages/frontend/data/albumArticles.js';
@@ -2785,6 +2789,48 @@ function getMetaForPath(pathname) {
       const relatedArticles = allArticles
         .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === slug)
         .slice(0, 3);
+      // Issue #4611: prefer the full FAQ authored in extendedBios.js (often 8+
+      // questions) over the generic 3-question template.
+      const extBio = getExtendedBio(slug);
+      const extFaqItems = extBio?.sections?.faq?.items;
+      const faqMainEntity = extFaqItems?.length
+        ? extFaqItems.map(item => ({
+            '@type': 'Question',
+            name: item.q,
+            acceptedAnswer: { '@type': 'Answer', text: item.a },
+          }))
+        : [
+            {
+              '@type': 'Question',
+              name: `What drum kit does ${drummer.name} play?`,
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: brands.length > 0
+                  ? `${drummer.name} plays a ${brands.join(' and ')} drum kit. See the full gear setup on MetalForge.`
+                  : `${drummer.name}'s full drum kit and gear setup is documented on MetalForge.`,
+              },
+            },
+            {
+              '@type': 'Question',
+              name: `What cymbals does ${drummer.name} use?`,
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: drummer.gear?.cymbals
+                  ? `${drummer.name} uses ${drummer.gear.cymbals}.`
+                  : `${drummer.name}'s full cymbal setup is documented on MetalForge.`,
+              },
+            },
+            {
+              '@type': 'Question',
+              name: `What band is ${drummer.name} in?`,
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: drummer.band
+                  ? `${drummer.name} is the drummer of ${drummer.band}.`
+                  : `${drummer.name} has performed with multiple bands. See their full career history on MetalForge.`,
+              },
+            },
+          ];
 
       return {
         title: override?.title || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
@@ -2827,38 +2873,7 @@ function getMetaForPath(pathname) {
             },
             {
               '@type': 'FAQPage',
-              mainEntity: [
-                {
-                  '@type': 'Question',
-                  name: `What drum kit does ${drummer.name} play?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: brands.length > 0
-                      ? `${drummer.name} plays a ${brands.join(' and ')} drum kit. See the full gear setup on MetalForge.`
-                      : `${drummer.name}'s full drum kit and gear setup is documented on MetalForge.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `What cymbals does ${drummer.name} use?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: drummer.gear?.cymbals
-                      ? `${drummer.name} uses ${drummer.gear.cymbals}.`
-                      : `${drummer.name}'s full cymbal setup is documented on MetalForge.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `What band is ${drummer.name} in?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: drummer.band
-                      ? `${drummer.name} is the drummer of ${drummer.band}.`
-                      : `${drummer.name} has performed with multiple bands. See their full career history on MetalForge.`,
-                  },
-                },
-              ],
+              mainEntity: faqMainEntity,
             },
           ],
         }),
@@ -3563,6 +3578,49 @@ function getMetaForPath(pathname) {
       const relatedArticles = allArticles
         .filter(a => a.drummerId === drummer.id || (a.relatedDrummers || []).includes(drummer.id) || a.relatedDrummerSlug === slug)
         .slice(0, 3);
+      // Issue #4611: prefer the full FAQ authored in extendedBios.js (often 8+
+      // questions) over the generic 3-question template — this is the block
+      // Googlebot/GSC/Perplexity actually crawl for /drummer/:slug.
+      const extBio = getExtendedBio(slug);
+      const extFaqItems = extBio?.sections?.faq?.items;
+      const faqMainEntity = extFaqItems?.length
+        ? extFaqItems.map(item => ({
+            '@type': 'Question',
+            name: item.q,
+            acceptedAnswer: { '@type': 'Answer', text: item.a },
+          }))
+        : [
+            {
+              '@type': 'Question',
+              name: `What drum kit does ${drummer.name} play?`,
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: brands.length > 0
+                  ? `${drummer.name} plays a ${brands.join(' and ')} drum kit. See the full gear setup on MetalForge.`
+                  : `${drummer.name} plays a professional drum kit. See the full gear setup on MetalForge.`,
+              },
+            },
+            {
+              '@type': 'Question',
+              name: `What cymbals does ${drummer.name} use?`,
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: drummer.gear?.cymbals
+                  ? `${drummer.name} uses ${drummer.gear.cymbals}.`
+                  : `${drummer.name}'s full cymbal setup is documented on MetalForge.`,
+              },
+            },
+            {
+              '@type': 'Question',
+              name: `What band is ${drummer.name} in?`,
+              acceptedAnswer: {
+                '@type': 'Answer',
+                text: drummer.band
+                  ? `${drummer.name} is the drummer of ${drummer.band}.`
+                  : `${drummer.name} has performed with multiple bands. See their full career history.`,
+              },
+            },
+          ];
       return {
         title: override?.title || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
         description: truncate(
@@ -3600,38 +3658,7 @@ function getMetaForPath(pathname) {
             },
             {
               '@type': 'FAQPage',
-              mainEntity: [
-                {
-                  '@type': 'Question',
-                  name: `What drum kit does ${drummer.name} play?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: brands.length > 0
-                      ? `${drummer.name} plays a ${brands.join(' and ')} drum kit. See the full gear setup on MetalForge.`
-                      : `${drummer.name} plays a professional drum kit. See the full gear setup on MetalForge.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `What cymbals does ${drummer.name} use?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: drummer.gear?.cymbals
-                      ? `${drummer.name} uses ${drummer.gear.cymbals}.`
-                      : `${drummer.name}'s full cymbal setup is documented on MetalForge.`,
-                  },
-                },
-                {
-                  '@type': 'Question',
-                  name: `What band is ${drummer.name} in?`,
-                  acceptedAnswer: {
-                    '@type': 'Answer',
-                    text: drummer.band
-                      ? `${drummer.name} is the drummer of ${drummer.band}.`
-                      : `${drummer.name} has performed with multiple bands. See their full career history.`,
-                  },
-                },
-              ],
+              mainEntity: faqMainEntity,
             },
           ],
         }),

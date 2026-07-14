@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/travis-orbin"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Travis Orbin — Drum Kit & Gear Setup
@@ -76,10 +76,13 @@ A: Travis Orbin drums for Darkest Hour / ex-Periphery, a thrash metal / progress
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Travis Orbin:
+MetalForge has 6 signature lick tutorial(s) for Travis Orbin:
 
 - [Zyglrox Polyrhythm Engine](https://metalforge.io/drummers/travis-orbin/licks/travis-orbin-zyglrox-polyrhythm)
 - [Insomnia Odd-Time Djent Groove](https://metalforge.io/drummers/travis-orbin/licks/travis-orbin-insomnia-odd-time)
+- [Racecar Metric Modulation Engine](https://metalforge.io/drummers/travis-orbin/licks/orbin-periphery-polyrhythm-groove)
+- [Follow the Signs Controlled Blast Beat](https://metalforge.io/drummers/travis-orbin/licks/orbin-born-of-osiris-blast-beat)
+- [Singles and Doubles Hybrid Rudiment](https://metalforge.io/drummers/travis-orbin/licks/orbin-singles-doubles-hybrid)
 - [The Walk Fill Cascade](https://metalforge.io/drummers/travis-orbin/licks/travis-orbin-the-walk-fills)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
@@ -114,4 +117,4 @@ Full breakdown: [Travis Orbin's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

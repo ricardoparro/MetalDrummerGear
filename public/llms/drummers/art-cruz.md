@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/art-cruz"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Art Cruz — Drum Kit & Gear Setup
@@ -72,11 +72,14 @@ A: Art Cruz drums for Lamb of God, a groove metal / thrash metal band.
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Art Cruz:
+MetalForge has 6 signature lick tutorial(s) for Art Cruz:
 
 - [Memento Mori Polyrhythmic Groove](https://metalforge.io/drummers/art-cruz/licks/art-cruz-memento-mori-groove)
 - [New Colossal Hate Snare-Bass Interplay](https://metalforge.io/drummers/art-cruz/licks/art-cruz-new-colossal-hate-snare-bass)
 - [Gomorrah Blast-to-Groove Transition](https://metalforge.io/drummers/art-cruz/licks/art-cruz-gomorrah-blast-groove)
+- [Ghost Walking — Live Groove Setup](https://metalforge.io/drummers/art-cruz/licks/art-cruz-ghost-walking-drum-setup)
+- [Laid to Rest — Art Cruz Live Interpretation](https://metalforge.io/drummers/art-cruz/licks/art-cruz-laid-to-rest-drum-setup)
+- [New Colossal Hate — Studio Debut Setup](https://metalforge.io/drummers/art-cruz/licks/art-cruz-new-colossal-hate-drum-setup)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
@@ -114,4 +117,4 @@ Full breakdown: [Art Cruz's pedal setup](https://metalforge.io/pedals/setups/art
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

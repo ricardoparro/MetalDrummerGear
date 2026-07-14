@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/chris-adler"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Chris Adler — Drum Kit & Gear Setup
@@ -37,7 +37,7 @@ The cornerstone of the Chris Adler drum set is his Mapex Chris Adler Signature 1
 
 Chris Adler, born in 1972 in Richmond, Virginia, is best known as the co-founder and former drummer of Lamb of God. His precision double bass drumming and innovative groove patterns helped define the New Wave of American Heavy Metal. Adler's work on albums like "Ashes of the Wake" and "Sacrament" showcased his ability to combine technical proficiency with raw power. He briefly played with Megadeth on their 2016 album "Dystopia." His drumming style emphasizes groove, power, and precision, influencing a generation of metal drummers.
 
-Chris Adler (born November 23, 1972, in Arlington, Virginia) is an American drummer best known as the co-founder and longtime drummer of Lamb of God, one of the most successful American metal bands of the 21st century. His innovative approach to groove metal drumming, combining technical precision with crushing heaviness, has made him one of the most influential drummers in modern metal.
+Chris Adler (born November 23, 1972, in Washington, D.C.) is an American drummer best known as the co-founder and longtime drummer of Lamb of God, one of the most successful American metal bands of the 21st century. His innovative approach to groove metal drumming, combining technical precision with crushing heaviness, has made him one of the most influential drummers in modern metal.
 
 Adler's drumming is characterized by powerful groove-based patterns, creative use of dynamics, and signature techniques like his "pivot" hi-hat foot work. In 2015, he briefly joined Megadeth to record "Dystopia," which won a Grammy for Best Metal Performance. He departed Lamb of God in 2019, and has since focused on new projects and drum education.
 
@@ -77,11 +77,14 @@ A: Chris Adler drums for Lamb of God, a groove metal band.
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Chris Adler:
+MetalForge has 6 signature lick tutorial(s) for Chris Adler:
 
 - [Laid to Rest Ride-Bell Groove](https://metalforge.io/drummers/chris-adler/licks/chris-adler-laid-to-rest-groove)
 - [Walk with Me in Hell Half-Time Groove](https://metalforge.io/drummers/chris-adler/licks/chris-adler-walk-with-me-in-hell-groove)
 - [512 Groove & Fills](https://metalforge.io/drummers/chris-adler/licks/chris-adler-512-groove)
+- [Walk with Me in Hell — Drum Setup & Pattern](https://metalforge.io/drummers/chris-adler/licks/chris-adler-walk-drum-setup)
+- [Redneck — Grammy Groove Setup](https://metalforge.io/drummers/chris-adler/licks/chris-adler-redneck-drum-setup)
+- [The Contractor — Polyrhythmic Setup](https://metalforge.io/drummers/chris-adler/licks/chris-adler-contractor-drum-setup)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
@@ -115,4 +118,4 @@ Full breakdown: [Chris Adler's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

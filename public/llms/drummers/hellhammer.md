@@ -6,7 +6,7 @@ country: "Norway"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/hellhammer"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Hellhammer — Drum Kit & Gear Setup
@@ -63,17 +63,37 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
 
 ## Frequently Asked Questions
 
+**Q: What band does Hellhammer play drums for?**
+
+A: Hellhammer (Jan Axel Blomberg) has been the drummer for Mayhem since 1988, and also drums for Arcturus and does session work for Shining.
+
+**Q: What drums does Hellhammer play?**
+
+A: Hellhammer plays a Sonor SQ2 Heavy Beech drum kit.
+
 **Q: What drum kit does Hellhammer play?**
 
-A: Hellhammer plays a Sonor SQ2 Heavy Beech.
+A: Hellhammer's drum kit is a Sonor SQ2 Heavy Beech shell pack, built around a Sonor SQ2 14"x5.5" maple snare drum.
+
+**Q: What drum set does Hellhammer play?**
+
+A: Hellhammer's drum set pairs Sonor SQ2 Heavy Beech shells and his 14"x5.5" maple snare with Paiste RUDE cymbals and an Axis double pedal, plus Roland electronics for triggered sounds.
 
 **Q: What cymbals does Hellhammer use?**
 
-A: Hellhammer uses Paiste (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 20" RUDE Ride, 18" RUDE China).
+A: Hellhammer uses Paiste RUDE cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 20" RUDE Ride, and an 18" RUDE China.
 
-**Q: What band is Hellhammer in?**
+**Q: What snare drum does Hellhammer use?**
 
-A: Hellhammer drums for Mayhem, a black metal band.
+A: Hellhammer's primary snare is the Sonor SQ2, a 14"x5.5" maple shell.
+
+**Q: What pedals does Hellhammer use?**
+
+A: Hellhammer drives his extreme-tempo double bass playing with an Axis double pedal, seated on a Sonor drummer's throne.
+
+**Q: What drumsticks does Hellhammer use?**
+
+A: Hellhammer plays Vic Firth American Classic 5B drumsticks.
 
 ## Signature Licks on MetalForge
 
@@ -115,4 +135,4 @@ Full breakdown: [Hellhammer's pedal setup](https://metalforge.io/pedals/setups/h
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

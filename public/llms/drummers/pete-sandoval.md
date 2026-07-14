@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/pete-sandoval"
 source: "https://metalforge.io"
-last_updated: "2026-07-03"
+last_updated: "2026-07-14"
 ---
 
 # Pete Sandoval — Drum Kit & Gear Setup
@@ -25,7 +25,7 @@ Pete Sandoval's drum kit and gear setup. Pete Sandoval is a professional metal d
 | Primary brand | ddrum |
 | Drum kit | ddrum Dios Series |
 | Signature snare | ddrum Dios 14x6.5" Maple |
-| Sticks | Ahead Lars Ulrich Signature |
+| Sticks | Pro-Mark (historical endorsement — current sticks unverified) |
 
 ## Kit Overview
 
@@ -54,7 +54,7 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
 - **Snare:** ddrum Dios 14x6.5" Maple
 - **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese)
 - **Hardware:** ddrum Mercury Double Pedal, ddrum Throne
-- **Sticks:** Ahead Lars Ulrich Signature
+- **Sticks:** Pro-Mark (historical endorsement — current sticks unverified)
 
 ## Notable Performances
 
@@ -64,17 +64,37 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
 
 ## Frequently Asked Questions
 
+**Q: What band does Pete Sandoval play drums for?**
+
+A: Pete Sandoval drummed for Morbid Angel from 1988-2013 and co-founded Terrorizer. He reunited with former Morbid Angel vocalist David Vincent in 2022 to drum for I Am Morbid.
+
+**Q: What drums does Pete Sandoval play?**
+
+A: Pete Sandoval plays a ddrum Dios Series drum kit.
+
 **Q: What drum kit does Pete Sandoval play?**
 
-A: Pete Sandoval plays a ddrum Dios Series.
+A: Pete Sandoval's drum kit is a ddrum Dios Series shell pack, built around a ddrum Dios 14"x6.5" maple snare drum.
+
+**Q: What drum set does Pete Sandoval play?**
+
+A: Pete Sandoval's drum set pairs ddrum Dios Series shells and his 14"x6.5" maple snare with Sabian AAX Series cymbals and a ddrum Mercury double pedal.
 
 **Q: What cymbals does Pete Sandoval use?**
 
-A: Pete Sandoval uses Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese).
+A: Pete Sandoval uses Sabian AAX Series cymbals, including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 20" Stage Ride, and an 18" Chinese.
 
-**Q: What band is Pete Sandoval in?**
+**Q: What snare drum does Pete Sandoval use?**
 
-A: Pete Sandoval drums for Morbid Angel, a death metal band.
+A: Pete Sandoval's primary snare is the ddrum Dios, a 14"x6.5" maple shell.
+
+**Q: What pedals does Pete Sandoval use?**
+
+A: Pete Sandoval drives his pioneering blast beat technique with a ddrum Mercury double pedal, seated on a ddrum throne.
+
+**Q: What is Pete Sandoval known for?**
+
+A: Pete Sandoval is widely regarded as one of the most influential figures in extreme metal, pioneering blast beat and double bass techniques whose speed and endurance set new standards for death metal drumming.
 
 ## Signature Licks on MetalForge
 
@@ -92,4 +112,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-03 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

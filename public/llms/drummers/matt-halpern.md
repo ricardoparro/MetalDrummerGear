@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/matt-halpern"
 source: "https://metalforge.io"
-last_updated: "2026-06-28"
+last_updated: "2026-07-14"
 ---
 
 # Matt Halpern — Drum Kit & Gear Setup
@@ -36,7 +36,7 @@ The centerpiece of the Matt Halpern drum kit is his Pearl Reference 14×6.5" Bra
 
 Matt Halpern, born in 1984, is the drummer for progressive metal band Periphery and one of the most influential figures in the djent movement. His drumming combines polyrhythmic complexity with electronic elements and modern production techniques. Halpern's ability to navigate complex time signatures while maintaining groove has made him a role model for a new generation of progressive metal drummers. He is also an accomplished drum educator, sharing his knowledge through clinics and online platforms.
 
-Matt Halpern (born January 7, 1984, in Hartford, Connecticut) is an American drummer best known as the drummer for progressive metal band Periphery. As one of the architects of the "djent" movement, Halpern has become one of the most influential drummers in modern metal, known for his precise, groove-focused playing and dynamic approach.
+Matt Halpern (born June 21, 1983, in Baltimore, Maryland) is an American drummer best known as the drummer for progressive metal band Periphery. As one of the architects of the "djent" movement, Halpern has become one of the most influential drummers in modern metal, known for his precise, groove-focused playing and dynamic approach.
 
 A graduate of Berklee College of Music, Halpern brings academic rigor to his drumming while maintaining an organic, musical feel. Beyond Periphery, he is an accomplished educator, running popular drumming clinics and online lessons through platforms like Drumeo. His combination of technical excellence, groove sensibility, and educational outreach has made him a hero to a new generation of metal drummers.
 
@@ -60,17 +60,13 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Matt Halpern use?**
+**Q: What drum kit does Matt Halpern play?**
 
-A: Matt Halpern uses a Pearl Reference Series drum kit with a Pearl Reference 14×6.5" Brass snare drum, Meinl Byzance Series cymbals (15" Dark Hi-Hats, 18" and 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China), and a Pearl Demon Drive double pedal. He has used Pearl and Meinl Byzance throughout Periphery's catalog.
-
-**Q: What drum set does Matt Halpern use?**
-
-A: Matt Halpern's drum set is a Pearl Reference Series with Meinl Byzance cymbals and Promark Matt Halpern Signature sticks. His drum set is configured for the polyrhythmic precision and dynamic control required on Periphery albums like Periphery II, Juggernaut, and Hail Stan.
+A: Matt Halpern plays a Pearl Reference Series.
 
 **Q: What cymbals does Matt Halpern use?**
 
-A: Matt Halpern uses Meinl Byzance Series cymbals: 15" Dark Hi-Hats, 18" and 20" Extra Dry Medium Crashes, a 22" Transition Ride, and an 18" Extra Dry China.
+A: Matt Halpern uses Meinl Byzance Series (15" Dark Hi-Hats, 18" & 20" Extra Dry Medium Crashes, 22" Transition Ride, 18" Extra Dry China).
 
 **Q: What band is Matt Halpern in?**
 
@@ -78,11 +74,14 @@ A: Matt Halpern drums for Periphery, a progressive/djent band.
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Matt Halpern:
+MetalForge has 6 signature lick tutorial(s) for Matt Halpern:
 
 - [Icarus Lives! Djent Groove](https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-icarus-lives-groove)
 - [Marigold Melodic Groove](https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-marigold-groove)
 - [The Bad Thing Double-Bass Assault](https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-the-bad-thing-groove)
+- [Scarlet Syncopated Djent Groove](https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-scarlet-groove)
+- [Ragnarok Hybrid Blast Groove](https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-ragnarok-blast)
+- [Masamune Ghost-Note Density Pattern](https://metalforge.io/drummers/matt-halpern/licks/matt-halpern-masamune-ghost-notes)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
@@ -92,4 +91,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-06-28 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

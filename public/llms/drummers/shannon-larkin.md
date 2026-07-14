@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/shannon-larkin"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Shannon Larkin — Drum Kit & Gear Setup
@@ -64,28 +64,26 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Shannon Larkin use?**
+**Q: What drum kit does Shannon Larkin play?**
 
-A: Shannon Larkin uses a ddrum Dios Series drum kit with a ddrum Dios 14×6.5" Maple snare drum, Sabian AAX and HHX Series cymbals (14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese), and a DW 9000 Series double pedal. He used this setup across Godsmack's multi-platinum catalog including Faceless, IV, and When Legends Rise.
-
-**Q: What drum set does Shannon Larkin use?**
-
-A: Shannon Larkin's drum set is a ddrum Dios Series with Sabian AAX/HHX cymbals and Vic Firth American Classic 5B sticks. His drum set is configured for the powerful groove-centric hard rock approach that defined Godsmack's sound across more than two decades of touring and recording.
+A: Shannon Larkin plays a ddrum Dios Series.
 
 **Q: What cymbals does Shannon Larkin use?**
 
-A: Shannon Larkin uses Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal.
+A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese).
 
 **Q: What band is Shannon Larkin in?**
 
-A: Shannon Larkin is known for drumming with Godsmack (2002–2024), Ugly Kid Joe, and Amen.
+A: Shannon Larkin drums for Godsmack / Ugly Kid Joe / Amen, a hard rock / heavy metal / nu metal band.
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Shannon Larkin:
+MetalForge has 5 signature lick tutorial(s) for Shannon Larkin:
 
 - [I Stand Alone Power Groove](https://metalforge.io/drummers/shannon-larkin/licks/shannon-larkin-i-stand-alone-groove)
 - [Keep Away Groove Lock & Fill Cascade](https://metalforge.io/drummers/shannon-larkin/licks/shannon-larkin-keep-away-groove)
+- [Voodoo Thunderous Fill](https://metalforge.io/drummers/shannon-larkin/licks/shannon-larkin-voodoo-fill)
+- [1000hp Double-Bass Gallop](https://metalforge.io/drummers/shannon-larkin/licks/shannon-larkin-1000hp-double-bass)
 - [Awake Tribal Tom Pattern](https://metalforge.io/drummers/shannon-larkin/licks/shannon-larkin-awake-tribal-groove)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
@@ -121,4 +119,4 @@ Full breakdown: [Shannon Larkin's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

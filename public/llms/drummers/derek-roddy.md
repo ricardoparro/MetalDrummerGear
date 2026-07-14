@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/derek-roddy"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Derek Roddy — Drum Kit & Gear Setup
@@ -25,7 +25,7 @@ Derek Roddy's drum kit and gear setup. Derek Roddy is a professional metal drumm
 | Primary brand | Tama |
 | Drum kit | Tama Starclassic Bubinga |
 | Signature snare | Tama SLP Black Brass 14x6.5" |
-| Sticks | Vic Firth Derek Roddy Signature |
+| Sticks | Vater Player's Design Derek Roddy Model (VHDRW) |
 
 ## Kit Overview
 
@@ -55,7 +55,7 @@ Roddy is considered one of the pioneers of modern extreme metal drumming, having
 - **Snare:** Tama SLP Black Brass 14x6.5"
 - **Cymbals:** Meinl Byzance & Mb20 Series (14" Byzance Heavy Hi-Hats, 18" & 19" Mb20 Heavy Crashes, 21" Mb20 Heavy Ride, 18" Byzance China)
 - **Hardware:** Tama Speed Cobra 910 Double Pedal
-- **Sticks:** Vic Firth Derek Roddy Signature
+- **Sticks:** Vater Player's Design Derek Roddy Model (VHDRW)
 - **Heads:** Evans
 
 ## Notable Performances
@@ -90,11 +90,14 @@ A: Derek Roddy drums for Hate Eternal / Nile, a death metal / technical death me
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Derek Roddy:
+MetalForge has 6 signature lick tutorial(s) for Derek Roddy:
 
 - [King of All Kings Single-Stroke Blast](https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-king-of-all-kings-blast)
 - [I, Monarch Double-Bass Control](https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-i-monarch-double-bass)
 - [Sons of Darkness Speed & Endurance Study](https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-sons-of-darkness-speed)
+- [Gravity Blast Technique](https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-blast-beat-gravity)
+- [Evilution Polyrhythmic Fill](https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-evilution-polyrhythm)
+- [Hate Eternal Descending Tom Fill](https://metalforge.io/drummers/derek-roddy/licks/derek-roddy-technical-fill)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
@@ -128,4 +131,4 @@ Full breakdown: [Derek Roddy's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

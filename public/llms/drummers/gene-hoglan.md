@@ -25,7 +25,7 @@ Gene Hoglan's drum kit and gear setup. Gene Hoglan is a professional metal drumm
 | Primary brand | Pearl |
 | Drum kit | Pearl Reference Pure |
 | Signature snare | Pearl Reference 14x6.5" Brass |
-| Sticks | Promark 5B |
+| Sticks | Promark Classic Forward 2B |
 
 ## Kit Overview
 
@@ -60,7 +60,7 @@ Over a career spanning four decades, Hoglan has performed with over 20 major ban
 - **Snare:** Pearl Reference 14x6.5" Brass
 - **Cymbals:** Sabian AAX Series (15" Hi-Hats, 18" & 20" Crashes, 22" Ride, 20" China)
 - **Hardware:** Pearl Demon Drive Double Pedal, Pearl D-2000 Throne
-- **Sticks:** Promark 5B
+- **Sticks:** Promark Classic Forward 2B
 - **Heads:** Evans
 
 See the [Gene Hoglan vs Tomas Haake](/vs/gene-hoglan-vs-tomas-haake) comparison for a full breakdown of how Hoglan's death/thrash precision stacks up against Meshuggah's djent architect.
@@ -125,11 +125,16 @@ A: Gene Hoglan plays a Pearl Reference 14"x6.5" brass snare drum, chosen for the
 
 ## Signature Licks on MetalForge
 
-MetalForge has 3 signature lick tutorial(s) for Gene Hoglan:
+MetalForge has 8 signature lick tutorial(s) for Gene Hoglan:
 
 - [The Philosopher Groove](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-the-philosopher-groove)
 - [Crystal Mountain Groove](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-crystal-mountain-groove)
+- [Dark Angel 220 BPM Blast Beat](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-dark-angel-220bpm-blast-beat)
+- [Symbolic Groove-to-Blast Switch](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-death-symbolic-groove-blast-combo)
 - [Zero Tolerance Groove](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-zero-tolerance-groove)
+- [Darkness Descends Hyper-Blast](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-darkness-descends-lick)
+- [Pull the Plug Death Metal Groove](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-pull-the-plug-lick)
+- [Zero the Hero Clock Polyrhythm](https://metalforge.io/drummers/gene-hoglan/licks/gene-hoglan-zero-the-hero-lick)
 
 Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 

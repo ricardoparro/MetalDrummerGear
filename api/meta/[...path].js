@@ -39,8 +39,6 @@ import { SOUND_LIKE_GUIDES, generateGuideSchema } from '../../packages/frontend/
 import { DRUMMER_EVOLUTION } from '../../packages/frontend/data/drummerEvolution.js';
 // Issue #1473: /battles/<slug> individual pages — FAQPage + BreadcrumbList JSON-LD.
 import { CURATED_MATCHUPS } from '../../packages/frontend/data/battles.js';
-// Issue #4614: hand-authored metaTitle/metaDescription for /drummer/<slug> profiles.
-import { getExtendedBio } from '../../packages/frontend/data/extendedBios.js';
 // Issue #1474: /drummers/<slug>/signature/<gearSlug> pages — Product + BreadcrumbList JSON-LD.
 import { SIGNATURE_GEAR } from '../../packages/frontend/data/signatureGear.js';
 // Issue #1522: Quotation + ItemList JSON-LD for /quotes page.
@@ -2796,7 +2794,6 @@ function getMetaForPath(pathname) {
         .slice(0, 3);
       // Issue #4611: prefer the full FAQ authored in extendedBios.js (often 8+
       // questions) over the generic 3-question template.
-      const extBio = getExtendedBio(slug);
       const extFaqItems = extBio?.sections?.faq?.items;
       const faqMainEntity = extFaqItems?.length
         ? extFaqItems.map(item => ({
@@ -3589,7 +3586,6 @@ function getMetaForPath(pathname) {
       // Issue #4611: prefer the full FAQ authored in extendedBios.js (often 8+
       // questions) over the generic 3-question template — this is the block
       // Googlebot/GSC/Perplexity actually crawl for /drummer/:slug.
-      const extBio = getExtendedBio(slug);
       const extFaqItems = extBio?.sections?.faq?.items;
       const faqMainEntity = extFaqItems?.length
         ? extFaqItems.map(item => ({

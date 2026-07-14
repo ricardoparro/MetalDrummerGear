@@ -1,6 +1,6 @@
 # MetalForge - LLM Content Index
 
-> Last updated: 2026-07-12
+> Last updated: 2026-07-14
 > Source: https://metalforge.io
 
 ## About MetalForge
@@ -73,6 +73,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Per-Brand Pedal Guides | https://metalforge.io/llms/pedals/brands/ | Pedal-specific brand guides for Tama, Pearl, DW, Axis, and Trick (5 files) |
 | Per-Drummer Pedal Setups | https://metalforge.io/llms/pedals/setups/ | Individual verified bass drum pedal setup pages for 56 metal drummers (56 files) |
 | Signature Drumsticks | https://metalforge.io/llms/drumsticks/signature/ | Individual verified signature/endorsed drumstick pages for 30 metal drummers — specs, source, and FAQ (30 files) |
+| Featured Gear Items | https://metalforge.io/llms/gear/item/ | Individual product reference pages for 10 featured gear items — specs and drummer cross-links (10 files) |
 
 ---
 

@@ -50,6 +50,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Tools — Kit Builder | https://metalforge.io/llms/tools/kit-builder.md | Brand-first drum kit configurator (Markdown) |
 | Tools — Gear Comparison | https://metalforge.io/llms/tools/gear-comparison.md | Side-by-side drummer gear comparison (Markdown) |
 | Tools — Tier List | https://metalforge.io/llms/tools/tier-list.md | Interactive metal drummer tier-list ranker (Markdown) |
+| Tools — Name Generator | https://metalforge.io/llms/tools/name-generator.md | Generate unique metal drummer stage names/aliases (Markdown) |
 | Drummer Style Guides | https://metalforge.io/llms/guides.md | How-to-sound-like style guides for 62 metal legends + beginner gear guides (Markdown) |
 | Per-Guide Deep Dives | https://metalforge.io/llms/guides/ | Individual how-to-sound-like files — full gear, tuning, technique, and FAQ per drummer (62 files) |
 | BPM Database | https://metalforge.io/llms/bpm.md | 150 metal songs with verified tempos organised by category — doom/groove/thrash/death/blast — with drummer links and BPM FAQ (Markdown) |
@@ -61,7 +62,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Per-Brand LLM Files | https://metalforge.io/llms/brands/ | Per-brand gear guides for 16 major drum, cymbal, stick, and pedal brands (16 files) |
 | Brand Comparisons | https://metalforge.io/llms/gear-comparison/ | Side-by-side brand spec comparisons for 7 matchups (7 files) |
 | Per-Drummer Lick Files | https://metalforge.io/llms/licks/ | Individual lick breakdown LLM files for all 67 drummers (67 files) |
-| Per-Technique Files | https://metalforge.io/llms/technique/ | Deep-dive technique files: blast-beat, double-bass, gravity-blast, etc. (10 files) |
+| Per-Technique Files | https://metalforge.io/llms/technique/ | Deep-dive technique files: blast-beat, double-bass, gravity-blast, etc. (29 files) |
 | Gear Series Files | https://metalforge.io/llms/gear-series/ | Per-gear-model LLM files covering specs and user profiles (36 files) |
 | Per-Drummer Endorsements | https://metalforge.io/llms/endorsements/ | Individual brand endorsement histories per drummer (67 files) |
 | Genre Guides | https://metalforge.io/llms/genres/ | Per-genre LLM guides covering featured drummers, techniques, gear, and FAQ — thrash, death, black, progressive, nu-metal, groove, metalcore, hardcore, technical-death (9 files) |
@@ -480,6 +481,25 @@ like "what is a blast beat?" or "how to play double bass drums?".
 | Groove Metal Drumming | [groove-drumming.md](https://metalforge.io/llms/technique/groove-drumming.md) |
 | Linear Drumming | [linear-drumming.md](https://metalforge.io/llms/technique/linear-drumming.md) |
 | Metal Drum Fills | [fill-techniques.md](https://metalforge.io/llms/technique/fill-techniques.md) |
+| Gallop Rhythm | [gallop.md](https://metalforge.io/llms/technique/gallop.md) |
+| Ghost Notes | [ghost-notes.md](https://metalforge.io/llms/technique/ghost-notes.md) |
+| Rudiments & Stick Control | [rudiments.md](https://metalforge.io/llms/technique/rudiments.md) |
+| Hand-Foot Independence | [hand-foot-independence.md](https://metalforge.io/llms/technique/hand-foot-independence.md) |
+| D-Beat | [d-beat.md](https://metalforge.io/llms/technique/d-beat.md) |
+| Moeller Technique | [moeller-technique.md](https://metalforge.io/llms/technique/moeller-technique.md) |
+| Heel-Toe Technique | [heel-toe-technique.md](https://metalforge.io/llms/technique/heel-toe-technique.md) |
+| Buzz Roll | [buzz-roll.md](https://metalforge.io/llms/technique/buzz-roll.md) |
+| Flams | [flams.md](https://metalforge.io/llms/technique/flams.md) |
+| Single Stroke Roll | [single-stroke-roll.md](https://metalforge.io/llms/technique/single-stroke-roll.md) |
+| Paradiddle | [paradiddle.md](https://metalforge.io/llms/technique/paradiddle.md) |
+| Paradiddle-Diddle | [paradiddle-diddle.md](https://metalforge.io/llms/technique/paradiddle-diddle.md) |
+| Double Stroke Roll | [double-stroke-roll.md](https://metalforge.io/llms/technique/double-stroke-roll.md) |
+| Five Stroke Roll | [five-stroke-roll.md](https://metalforge.io/llms/technique/five-stroke-roll.md) |
+| Seven Stroke Roll | [seven-stroke-roll.md](https://metalforge.io/llms/technique/seven-stroke-roll.md) |
+| Drag (Ruff) | [drag.md](https://metalforge.io/llms/technique/drag.md) |
+| Flam Tap | [flam-tap.md](https://metalforge.io/llms/technique/flam-tap.md) |
+| Double Paradiddle | [double-paradiddle.md](https://metalforge.io/llms/technique/double-paradiddle.md) |
+| Six Stroke Roll | [six-stroke-roll.md](https://metalforge.io/llms/technique/six-stroke-roll.md) |
 
 See the [All Techniques index](https://metalforge.io/llms/techniques.md) for a combined overview.
 
@@ -740,7 +760,7 @@ Hub: [/llms/endorsements.md](https://metalforge.io/llms/endorsements.md) — agg
 
 ---
 
-## Interactive Tools (5 tools)
+## Interactive Tools (6 tools)
 
 Free web tools for exploring, comparing, and building metal drum gear setups from verified pro drummer data.
 
@@ -751,6 +771,7 @@ Free web tools for exploring, comparing, and building metal drum gear setups fro
 | Kit Builder | [kit-builder.md](https://metalforge.io/llms/tools/kit-builder.md) | Brand-first step-by-step kit configurator |
 | Gear Comparison | [gear-comparison.md](https://metalforge.io/llms/tools/gear-comparison.md) | Side-by-side comparison of up to four drummers' full setups |
 | Tier List | [tier-list.md](https://metalforge.io/llms/tools/tier-list.md) | Drag-and-drop drummer tier ranking by speed, influence, or technique |
+| Name Generator | [name-generator.md](https://metalforge.io/llms/tools/name-generator.md) | Generate unique metal drummer stage names/aliases |
 
 ---
 

@@ -33,7 +33,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Per-Pair Comparisons | https://metalforge.io/llms/vs/ | Individual per-pair comparison pages with exact gear data (226 files) |
 | Comparison Q&A Pages | https://metalforge.io/llms/comparisons/ | Structured Q&A-format drummer comparison pages (26 files) |
 | Top-10 Lists | https://metalforge.io/llms/lists.md | Ranked top-10 drummer lists by speed, genre, gear value, and technique (Markdown) |
-| Per-List Deep Dives | https://metalforge.io/llms/lists/ | Individual per-list ranked guides with full rationale, FAQ, and internal links (8 files) |
+| Per-List Deep Dives | https://metalforge.io/llms/lists/ | Individual per-list ranked guides with full rationale, FAQ, and internal links (98 files) |
 | Quick Facts | https://metalforge.io/llms/facts.md | Speed records, gear stats, career milestones, nicknames & technical definitions (Markdown) |
 | Gear Statistics | https://metalforge.io/llms/stats.md | Brand-popularity data for 67 drummers — drums, cymbals, hardware, sticks with % breakdowns (Markdown) |
 | Gear Brand Insights | https://metalforge.io/llms/gear-insights.md | Named drummer citations with internal links for every brand — drum kit, cymbal, pedal, and stick usage percentages (Markdown) |
@@ -358,7 +358,7 @@ Hub: [/llms/battles.md](https://metalforge.io/llms/battles.md) — overview of a
 Per-list ranked guides (700–2,300 words each) optimised for AI retrieval on high-intent ranking queries
 like "who is the fastest metal drummer?" or "best death metal drummers of all time?".
 
-Hub: [/llms/lists.md](https://metalforge.io/llms/lists.md) — aggregate overview of all 8 ranked lists.
+Hub: [/llms/lists.md](https://metalforge.io/llms/lists.md) — aggregate overview of all 98 ranked lists.
 
 | List | Keyphrase | File |
 |------|-----------|------|
@@ -370,6 +370,96 @@ Hub: [/llms/lists.md](https://metalforge.io/llms/lists.md) — aggregate overvie
 | Top 10 Most Expensive Metal Drum Setups | most expensive drum kits | [most-expensive-drum-setups.md](https://metalforge.io/llms/lists/most-expensive-drum-setups.md) |
 | Top 10 Fastest Double Bass Drummers in Metal History | fastest double bass drummers | [fastest-double-bass-drummers.md](https://metalforge.io/llms/lists/fastest-double-bass-drummers.md) |
 | Top 10 Most Brutal Drum Solos in Metal History | most brutal metal drum solos | [most-brutal-drum-solos.md](https://metalforge.io/llms/lists/most-brutal-drum-solos.md) |
+| Top 10 Avant-Garde Metal Drummers | best avant-garde metal drummers | [avant-garde-metal-drummers.md](https://metalforge.io/llms/lists/avant-garde-metal-drummers.md) |
+| Top 10 Metalcore Drummers | best metalcore drummers | [metalcore-drummers.md](https://metalforge.io/llms/lists/metalcore-drummers.md) |
+| Top 10 NWOAHM Drummers | best nwoahm drummers | [nwoahm-drummers.md](https://metalforge.io/llms/lists/nwoahm-drummers.md) |
+| Top 10 Brutal Death Metal Drummers | best brutal death metal drummers | [brutal-death-metal-drummers.md](https://metalforge.io/llms/lists/brutal-death-metal-drummers.md) |
+| Top 10 Black Metal Drummers | best black metal drummers | [black-metal-drummers.md](https://metalforge.io/llms/lists/black-metal-drummers.md) |
+| Top 10 Progressive Metal Drummers | best progressive metal drummers | [progressive-metal-drummers.md](https://metalforge.io/llms/lists/progressive-metal-drummers.md) |
+| Top 10 Extreme Metal Drummers | best extreme metal drummers | [extreme-metal-drummers.md](https://metalforge.io/llms/lists/extreme-metal-drummers.md) |
+| Top 10 Nu-Metal Drummers | best nu-metal drummers | [nu-metal-drummers.md](https://metalforge.io/llms/lists/nu-metal-drummers.md) |
+| Top 10 Best Metal Drummers of All Time | best metal drummers of all time | [best-metal-drummers-of-all-time.md](https://metalforge.io/llms/lists/best-metal-drummers-of-all-time.md) |
+| Top 10 Metal Drummers of the 1980s | best metal drummers of the 1980s | [80s-metal-drummers.md](https://metalforge.io/llms/lists/80s-metal-drummers.md) |
+| Top 10 Metal Drummers of the 1990s | best metal drummers of the 1990s | [90s-metal-drummers.md](https://metalforge.io/llms/lists/90s-metal-drummers.md) |
+| Top 10 Most Decorated Metal Drummers | most decorated metal drummers | [most-decorated-metal-drummers.md](https://metalforge.io/llms/lists/most-decorated-metal-drummers.md) |
+| Top 10 Most Underrated Metal Drummers | most underrated metal drummers | [most-underrated-metal-drummers.md](https://metalforge.io/llms/lists/most-underrated-metal-drummers.md) |
+| 10 Best Death Metal Drummers of All Time | best death metal drummers of all time | [best-death-metal-drummers.md](https://metalforge.io/llms/lists/best-death-metal-drummers.md) |
+| 10 Best Thrash Metal Drummers Ranked | best thrash metal drummers ranked | [best-thrash-metal-drummers.md](https://metalforge.io/llms/lists/best-thrash-metal-drummers.md) |
+| Top 10 Progressive Death Metal Drummers | best progressive death metal drummers | [progressive-death-metal-drummers.md](https://metalforge.io/llms/lists/progressive-death-metal-drummers.md) |
+| Top 10 Symphonic Metal Drummers | best symphonic metal drummers | [symphonic-metal-drummers.md](https://metalforge.io/llms/lists/symphonic-metal-drummers.md) |
+| Top 10 Blackened Death Metal Drummers | best blackened death metal drummers | [blackened-death-metal-drummers.md](https://metalforge.io/llms/lists/blackened-death-metal-drummers.md) |
+| Top 10 Crossover Thrash Drummers | best crossover thrash drummers | [crossover-thrash-drummers.md](https://metalforge.io/llms/lists/crossover-thrash-drummers.md) |
+| Top 10 Technical Death Metal Drummers | best technical death metal drummers | [technical-death-metal-drummers.md](https://metalforge.io/llms/lists/technical-death-metal-drummers.md) |
+| Top 10 Atmospheric Black Metal Drummers | best atmospheric black metal drummers | [atmospheric-black-metal-drummers.md](https://metalforge.io/llms/lists/atmospheric-black-metal-drummers.md) |
+| 10 Most Innovative Metal Drummers of All Time | most innovative metal drummers of all time | [most-innovative-metal-drummers.md](https://metalforge.io/llms/lists/most-innovative-metal-drummers.md) |
+| Top 10 Funeral Doom Metal Drummers | best funeral doom metal drummers | [funeral-doom-metal-drummers.md](https://metalforge.io/llms/lists/funeral-doom-metal-drummers.md) |
+| Top 10 Post-Black Metal Drummers | best post-black metal drummers | [post-black-metal-drummers.md](https://metalforge.io/llms/lists/post-black-metal-drummers.md) |
+| Top 10 Deathgrind Drummers | best deathgrind drummers | [deathgrind-drummers.md](https://metalforge.io/llms/lists/deathgrind-drummers.md) |
+| 10 Best Alternative Metal Drummers of All Time | best alternative metal drummers of all time | [best-alternative-metal-drummers.md](https://metalforge.io/llms/lists/best-alternative-metal-drummers.md) |
+| 10 Best Post-Hardcore Metal Drummers of All Time | best post-hardcore metal drummers of all time | [best-post-hardcore-metal-drummers.md](https://metalforge.io/llms/lists/best-post-hardcore-metal-drummers.md) |
+| 10 Best Classic Heavy Metal Drummers of All Time | best classic heavy metal drummers of all time | [best-classic-heavy-metal-drummers.md](https://metalforge.io/llms/lists/best-classic-heavy-metal-drummers.md) |
+| Top 10 Neo-Classical Metal Drummers | best neo-classical metal drummers | [neo-classical-metal-drummers.md](https://metalforge.io/llms/lists/neo-classical-metal-drummers.md) |
+| Top 10 Shred Metal Drummers | best shred metal drummers | [shred-metal-drummers.md](https://metalforge.io/llms/lists/shred-metal-drummers.md) |
+| Top 10 Melodic Death Metal Drummers | best melodic death metal drummers | [melodic-death-metal-drummers.md](https://metalforge.io/llms/lists/melodic-death-metal-drummers.md) |
+| Top 10 Deathcore Drummers | best deathcore drummers | [deathcore-drummers.md](https://metalforge.io/llms/lists/deathcore-drummers.md) |
+| Top 10 Post-Metal Drummers | best post-metal drummers | [post-metal-drummers.md](https://metalforge.io/llms/lists/post-metal-drummers.md) |
+| Top 10 Grindcore Metal Drummers | best grindcore metal drummers | [grindcore-metal-drummers.md](https://metalforge.io/llms/lists/grindcore-metal-drummers.md) |
+| Top 10 Viking Metal Drummers | best viking metal drummers | [viking-metal-drummers.md](https://metalforge.io/llms/lists/viking-metal-drummers.md) |
+| Top 10 Gothic Metal Drummers | best gothic metal drummers | [gothic-metal-drummers.md](https://metalforge.io/llms/lists/gothic-metal-drummers.md) |
+| Top 10 Djent Metal Drummers | best djent metal drummers | [djent-metal-drummers.md](https://metalforge.io/llms/lists/djent-metal-drummers.md) |
+| Top 10 War Metal Drummers | best war metal drummers | [war-metal-drummers.md](https://metalforge.io/llms/lists/war-metal-drummers.md) |
+| Top 10 Speed Metal Drummers | best speed metal drummers | [speed-metal-drummers.md](https://metalforge.io/llms/lists/speed-metal-drummers.md) |
+| Top 10 Technical Thrash Metal Drummers | best technical thrash metal drummers | [technical-thrash-metal-drummers.md](https://metalforge.io/llms/lists/technical-thrash-metal-drummers.md) |
+| Top 10 Pagan Metal Drummers | best pagan metal drummers | [pagan-metal-drummers.md](https://metalforge.io/llms/lists/pagan-metal-drummers.md) |
+| Top 10 Ambient Metal Drummers | best ambient metal drummers | [ambient-metal-drummers.md](https://metalforge.io/llms/lists/ambient-metal-drummers.md) |
+| Top 10 Traditional Heavy Metal Drummers | best traditional heavy metal drummers | [traditional-heavy-metal-drummers.md](https://metalforge.io/llms/lists/traditional-heavy-metal-drummers.md) |
+| Top 10 Doom Metal Drummers | best doom metal drummers | [doom-metal-drummers.md](https://metalforge.io/llms/lists/doom-metal-drummers.md) |
+| Top 10 Groove Metal Drummers | best groove metal drummers | [groove-metal-drummers.md](https://metalforge.io/llms/lists/groove-metal-drummers.md) |
+| Top 10 Folk Metal Drummers | best folk metal drummers | [folk-metal-drummers.md](https://metalforge.io/llms/lists/folk-metal-drummers.md) |
+| 10 Best Live Metal Drummers of All Time | best live metal drummers of all time | [best-live-metal-drummers.md](https://metalforge.io/llms/lists/best-live-metal-drummers.md) |
+| Top 10 Stoner Metal Drummers | best stoner metal drummers | [stoner-metal-drummers.md](https://metalforge.io/llms/lists/stoner-metal-drummers.md) |
+| Top 10 Sludge Metal Drummers | best sludge metal drummers | [sludge-metal-drummers.md](https://metalforge.io/llms/lists/sludge-metal-drummers.md) |
+| Top 10 Math Metal Drummers | best math metal drummers | [math-metal-drummers.md](https://metalforge.io/llms/lists/math-metal-drummers.md) |
+| Top 10 Death-Doom Metal Drummers | best death-doom metal drummers | [death-doom-metal-drummers.md](https://metalforge.io/llms/lists/death-doom-metal-drummers.md) |
+| Top 10 Industrial Metal Drummers | best industrial metal drummers | [industrial-metal-drummers.md](https://metalforge.io/llms/lists/industrial-metal-drummers.md) |
+| Top 10 Blackened Thrash Metal Drummers | best blackened thrash metal drummers | [blackened-thrash-metal-drummers.md](https://metalforge.io/llms/lists/blackened-thrash-metal-drummers.md) |
+| Top 10 Power Metal Drummers | best power metal drummers | [power-metal-drummers.md](https://metalforge.io/llms/lists/power-metal-drummers.md) |
+| Top 10 Glam Metal Drummers | best glam metal drummers | [glam-metal-drummers.md](https://metalforge.io/llms/lists/glam-metal-drummers.md) |
+| Top 10 Slam Death Metal Drummers | best slam death metal drummers | [slam-death-metal-drummers.md](https://metalforge.io/llms/lists/slam-death-metal-drummers.md) |
+| Top 10 Jazz Fusion Metal Drummers | best jazz fusion metal drummers | [jazz-fusion-metal-drummers.md](https://metalforge.io/llms/lists/jazz-fusion-metal-drummers.md) |
+| Top 10 Horror Metal Drummers | best horror metal drummers | [horror-metal-drummers.md](https://metalforge.io/llms/lists/horror-metal-drummers.md) |
+| Top 10 Melodic Black Metal Drummers | best melodic black metal drummers | [melodic-black-metal-drummers.md](https://metalforge.io/llms/lists/melodic-black-metal-drummers.md) |
+| Top 10 Progressive Thrash Metal Drummers | best progressive thrash metal drummers | [progressive-thrash-metal-drummers.md](https://metalforge.io/llms/lists/progressive-thrash-metal-drummers.md) |
+| Top 10 Blackgaze Drummers | best blackgaze drummers | [blackgaze-drummers.md](https://metalforge.io/llms/lists/blackgaze-drummers.md) |
+| Top 10 Crust Metal Drummers | best crust metal drummers | [crust-metal-drummers.md](https://metalforge.io/llms/lists/crust-metal-drummers.md) |
+| Top 10 Left-Handed & Open-Handed Metal Drummers | best left-handed & open-handed metal drummers | [best-left-handed-metal-drummers.md](https://metalforge.io/llms/lists/best-left-handed-metal-drummers.md) |
+| Top 10 Metal Drummers' Signature Snare Drums | best metal drummers' signature snare drums | [metal-drummers-signature-snare-drums.md](https://metalforge.io/llms/lists/metal-drummers-signature-snare-drums.md) |
+| Top 10 Metal Drummers Who Also Produce & Engineer | best metal drummers who also produce & engineer | [metal-drummers-who-produce-engineer.md](https://metalforge.io/llms/lists/metal-drummers-who-produce-engineer.md) |
+| Top 10 Best Session Metal Drummers | best session metal drummers | [best-session-metal-drummers.md](https://metalforge.io/llms/lists/best-session-metal-drummers.md) |
+| Top 10 Best 2000s Metalcore Drummers | best 2000s metalcore drummers | [best-2000s-metalcore-drummers.md](https://metalforge.io/llms/lists/best-2000s-metalcore-drummers.md) |
+| Top 10 Metal Drummers with the Best Side Projects | best metal drummers with the best side projects | [best-side-project-drummers.md](https://metalforge.io/llms/lists/best-side-project-drummers.md) |
+| Top 10 Metal Drummers with Classical & Formal Music Training | best metal drummers with classical & formal music training | [best-metal-drummers-with-classical-training.md](https://metalforge.io/llms/lists/best-metal-drummers-with-classical-training.md) |
+| Top 10 Extreme Metal Drummers with the Best Groove | best extreme metal drummers with the best groove | [best-extreme-metal-drummers-with-groove.md](https://metalforge.io/llms/lists/best-extreme-metal-drummers-with-groove.md) |
+| Top 10 Metal Drummers of the 2000s | best metal drummers of the 2000s | [2000s-metal-drummers.md](https://metalforge.io/llms/lists/2000s-metal-drummers.md) |
+| Top 10 Metal Drummers of the 2010s | best metal drummers of the 2010s | [2010s-metal-drummers.md](https://metalforge.io/llms/lists/2010s-metal-drummers.md) |
+| Top 10 Metal Drummers of the 2020s | best metal drummers of the 2020s | [2020s-metal-drummers.md](https://metalforge.io/llms/lists/2020s-metal-drummers.md) |
+| Top 10 Metal Drummers Known for Live Improvisation | best metal drummers known for live improvisation | [drummers-known-for-live-improvisation.md](https://metalforge.io/llms/lists/drummers-known-for-live-improvisation.md) |
+| Top 10 Metal Drummers with the Longest Active Tenure | best metal drummers with the longest active tenure | [longest-active-tenure-metal-drummers.md](https://metalforge.io/llms/lists/longest-active-tenure-metal-drummers.md) |
+| Top 7 Metal Drummers Playing Zildjian Cymbals | best metal drummers playing zildjian cymbals | [best-metal-drummers-playing-zildjian-cymbals.md](https://metalforge.io/llms/lists/best-metal-drummers-playing-zildjian-cymbals.md) |
+| Top 10 Metal Drummers Playing Sabian Cymbals | best metal drummers playing sabian cymbals | [best-metal-drummers-playing-sabian-cymbals.md](https://metalforge.io/llms/lists/best-metal-drummers-playing-sabian-cymbals.md) |
+| Top 10 Metal Drummers' Signature Drumstick Models | best metal drummers' signature drumstick models | [metal-drummers-signature-drumstick-models.md](https://metalforge.io/llms/lists/metal-drummers-signature-drumstick-models.md) |
+| Top 10 Metal Drummers' Signature & Standout Pedal Lines | best metal drummers' signature & standout pedal lines | [metal-drummers-signature-pedal-lines.md](https://metalforge.io/llms/lists/metal-drummers-signature-pedal-lines.md) |
+| Top 10 Metal Drummers Playing Tama Kits | best metal drummers playing tama kits | [best-metal-drummers-playing-tama-kits.md](https://metalforge.io/llms/lists/best-metal-drummers-playing-tama-kits.md) |
+| Top 10 Metal Drummers Playing Pearl Kits | best metal drummers playing pearl kits | [best-metal-drummers-playing-pearl-kits.md](https://metalforge.io/llms/lists/best-metal-drummers-playing-pearl-kits.md) |
+| Top 7 Metal Drummers Playing DW Kits | best metal drummers playing dw kits | [best-metal-drummers-playing-dw-kits.md](https://metalforge.io/llms/lists/best-metal-drummers-playing-dw-kits.md) |
+| Top 10 Metal Drummers Who Use Electronic Triggers | best metal drummers who use electronic triggers | [metal-drummers-who-use-electronic-triggers.md](https://metalforge.io/llms/lists/metal-drummers-who-use-electronic-triggers.md) |
+| Top 10 Metal Drummers Playing Meinl Cymbals | best metal drummers playing meinl cymbals | [best-metal-drummers-playing-meinl-cymbals.md](https://metalforge.io/llms/lists/best-metal-drummers-playing-meinl-cymbals.md) |
+| Top 10 Metal Drummers' Signature & Notable Drumhead Models | best metal drummers' signature & notable drumhead models | [metal-drummers-signature-drumhead-models.md](https://metalforge.io/llms/lists/metal-drummers-signature-drumhead-models.md) |
+| Top 10 Fastest Blast Beat Drummers | fastest blast beat drummers | [fastest-blast-beat-drummers.md](https://metalforge.io/llms/lists/fastest-blast-beat-drummers.md) |
+| Top 10 Best 90s Death Metal Drummers | best 90s death metal drummers | [best-90s-death-metal-drummers.md](https://metalforge.io/llms/lists/best-90s-death-metal-drummers.md) |
+| Top 10 Goregrind Drummers | best goregrind drummers | [goregrind-drummers.md](https://metalforge.io/llms/lists/goregrind-drummers.md) |
+| Top 10 Rap-Metal Drummers | best rap-metal drummers | [rap-metal-drummers.md](https://metalforge.io/llms/lists/rap-metal-drummers.md) |
+| Top 10 Polyrhythmic Metal Drummers | best polyrhythmic metal drummers | [polyrhythmic-metal-drummers.md](https://metalforge.io/llms/lists/polyrhythmic-metal-drummers.md) |
 
 ---
 

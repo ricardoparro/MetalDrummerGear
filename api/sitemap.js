@@ -728,6 +728,14 @@ export function buildSitemapXml() {
     { loc: '/llms/facts.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1246: quiz LLM citation surface — #3 organic page, zero prior AI discoverability.
     { loc: '/llms/quiz.md', priority: '0.6', changefreq: 'monthly' },
+    // Issue #4608: 4 live /llms/*.md hub files never wired into the sitemap
+    // (battles/guess-the-kit/kit-quiz shipped via #1433 without sitemap wiring;
+    // gear-comparison.md hub shipped by scripts/generate-llms-gear-comparisons.cjs,
+    // distinct from the already-sitemapped /llms/tools/gear-comparison.md tool page).
+    { loc: '/llms/battles.md', priority: '0.6', changefreq: 'monthly' },
+    { loc: '/llms/guess-the-kit.md', priority: '0.6', changefreq: 'monthly' },
+    { loc: '/llms/kit-quiz.md', priority: '0.6', changefreq: 'monthly' },
+    { loc: '/llms/gear-comparison.md', priority: '0.6', changefreq: 'monthly' },
     // Issue #1560: quotes LLM citation surface — 36 attributed quotes from 12 metal drummers.
     { loc: '/llms/quotes.md', priority: '0.5', changefreq: 'monthly' },
     // Issue #1330: gear stats LLM citation surface — brand-popularity data for AI queries.

@@ -1,0 +1,51 @@
+name: X Agent
+
+# One automated post per day to @MetalDrumGear via the official X API v2.
+# Replaces the retired browser-automation social agent (see .agents/social/
+# PROMPT.md for tone/content rules, which still apply). Content is composed
+# deterministically (zero LLM tokens) by .agents/scripts/post-to-x.cjs:
+# events-calendar anniversaries first, verified gear-spotlight fallback.
+#
+# Until the X_API_* secrets exist the run is a green no-op that prints a
+# NOT CONFIGURED notice — safe to merge before the developer app is created.
+# Free-tier X API write cap is 500/month; one post/day uses ~6% of it.
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Compose and print the post without publishing'
+        type: boolean
+        default: false
+  schedule:
+    # 17:00 UTC = 18:00 Lisbon (summer) — evening engagement window, and well
+    # clear of the Roadie night fleet (starts 19:00 UTC).
+    - cron: '0 17 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: x-agent
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      # No npm install: the script uses only Node built-ins + repo data files.
+      - name: Compose and post
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
+        run: |
+          node .agents/scripts/post-to-x.cjs ${{ inputs.dry_run == true && '--dry-run' || '' }}

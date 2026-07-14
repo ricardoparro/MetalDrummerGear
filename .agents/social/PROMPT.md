@@ -1,5 +1,12 @@
 # Social Media Agent — MetalForge
 
+> **STATUS (2026-07-13): REACTIVATED as an automated loop.** Daily posting now
+> runs via `x-agent.yml` + `.agents/scripts/post-to-x.cjs` — official X API,
+> deterministic content from the verified events calendar and gear data, zero
+> LLM tokens. The browser-automation approach described below (OpenClaw /
+> AppleScript on Ricardo's Mac) is **retired**; this file is kept for the tone,
+> content and account-screening rules, which still bind all X output.
+
 ## Mission
 Grow MetalForge's social presence to **5,000 followers** and drive traffic to the site.
 

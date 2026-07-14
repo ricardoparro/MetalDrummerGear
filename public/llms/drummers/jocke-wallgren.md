@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jocke-wallgren"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Jocke Wallgren — Drum Kit & Gear Setup
@@ -61,17 +61,37 @@ Zildjian A Custom and K Custom Series cymbals define the Jocke Wallgren drum kit
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Jocke Wallgren play?**
+**Q: What drum kit does Jocke Wallgren use?**
 
-A: Jocke Wallgren plays a Pearl Reference Pure.
+A: Jocke Wallgren's drum kit is a Pearl Reference Pure kit, the versatile, hybrid-shell configuration that has powered Amon Amarth's Viking metal assault since he joined the band in 2016. It centers on a Pearl Reference 14"x6.5" brass snare and is topped with Zildjian A Custom and K Custom cymbals, driven by a Pearl Demon Drive double pedal.
+
+**Q: What drum set does Jocke Wallgren use?**
+
+A: Jocke Wallgren's drum set is a Pearl Reference Pure configuration built around a bright, cutting Pearl Reference 14"x6.5" brass snare. The drum set carries Zildjian A Custom and K Custom Series cymbals, a Pearl Demon Drive double pedal, and Vic Firth American Classic 5B sticks.
 
 **Q: What cymbals does Jocke Wallgren use?**
 
-A: Jocke Wallgren uses Zildjian A Custom & K Custom Series (14" A Custom Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride).
+A: Jocke Wallgren uses Zildjian A Custom and K Custom Series cymbals: 14" A Custom Hi-Hats for tight, driving patterns, 18" and 19" A Custom Crashes for explosive accents, and a 21" K Custom Ride for dark, controlled rhythmic definition.
+
+**Q: What snare drum does Jocke Wallgren play?**
+
+A: Jocke Wallgren plays a Pearl Reference 14"x6.5" brass snare, delivering the bright, cutting crack that projects through Amon Amarth's dense dual-guitar arrangements and gang-vocal choruses on arena and festival stages.
+
+**Q: What bass drum pedals does Jocke Wallgren use?**
+
+A: Jocke Wallgren uses a Pearl Demon Drive double bass drum pedal, giving him the speed and stability needed for Amon Amarth's driving, groove-oriented tempos.
 
 **Q: What band is Jocke Wallgren in?**
 
-A: Jocke Wallgren drums for Amon Amarth, a melodic death metal / viking metal band.
+A: Jocke Wallgren has been the drummer for melodic death metal band Amon Amarth since 2016, replacing Fredrik Andersson.
+
+**Q: What drumsticks does Jocke Wallgren use?**
+
+A: Jocke Wallgren uses Vic Firth American Classic 5B drumsticks.
+
+**Q: What drumheads does Jocke Wallgren use?**
+
+A: Jocke Wallgren uses Evans drumheads across his Pearl Reference Pure kit.
 
 ## Gear Evolution Timeline
 
@@ -116,4 +136,4 @@ Full breakdown: [Jocke Wallgren's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

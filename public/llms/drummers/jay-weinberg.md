@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/jay-weinberg"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Jay Weinberg — Drum Kit & Gear Setup
@@ -64,17 +64,37 @@ Zildjian cymbals complete the Jay Weinberg drum kit: 14" A New Beat Hi-Hats for 
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Jay Weinberg play?**
+**Q: What drum kit does Jay Weinberg use?**
 
-A: Jay Weinberg plays a SJC Custom Drums (OBEY x ST Collaboration Kit).
+A: Jay Weinberg's drum kit is an SJC Custom Drums build (OBEY x ST Collaboration Kit), the boutique shell pack he developed across nine years with Slipknot and carried into his role with Suicidal Tendencies. It centers on his signature SJC "The Crucible" 14"x6.5" 48-ply brass snare and is topped with Zildjian cymbals, driven by a DW 9000 Series double pedal.
+
+**Q: What drum set does Jay Weinberg use?**
+
+A: Jay Weinberg's drum set is an SJC Custom Drums configuration built around his explosive signature SJC "The Crucible" 14"x6.5" 48-ply brass snare. The drum set carries Zildjian cymbals, a DW 9000 Series double bass pedal, DW 9100 throne, and his signature Vater 908 sticks.
 
 **Q: What cymbals does Jay Weinberg use?**
 
-A: Jay Weinberg uses Zildjian (14" A New Beat Hi-Hats, 18" & 19" A Custom Crashes, 21" K Custom Ride, 19" K China, 7" FX Break Bell).
+A: Jay Weinberg uses Zildjian cymbals: 14" A New Beat Hi-Hats for sharp, articulate groove patterns, 18" and 19" A Custom Crashes for explosive accents, a 21" K Custom Ride, a 19" K China for aggressive punctuation, and a 7" FX Break Bell for textural effects.
+
+**Q: What snare drum does Jay Weinberg play?**
+
+A: Jay Weinberg plays his signature SJC "The Crucible" 14"x6.5" 48-ply brass snare, delivering the explosive crack that powered Slipknot's arena productions on .5: The Gray Chapter, We Are Not Your Kind, and The End, So Far.
+
+**Q: What bass drum pedals does Jay Weinberg use?**
+
+A: Jay Weinberg uses a DW 9000 Series double bass drum pedal, paired with a DW 9100 throne to anchor his powerful, aggressive playing.
 
 **Q: What band is Jay Weinberg in?**
 
-A: Jay Weinberg drums for Suicidal Tendencies, a hardcore / thrash crossover band.
+A: Jay Weinberg has drummed for Suicidal Tendencies since 2023, and previously played drums for Slipknot from 2014 to 2023 after replacing Joey Jordison.
+
+**Q: What drumsticks does Jay Weinberg use?**
+
+A: Jay Weinberg uses his signature Vater Jay Weinberg 908 Signature drumsticks.
+
+**Q: What drumheads does Jay Weinberg use?**
+
+A: Jay Weinberg uses Evans Black Chrome drumheads across his SJC Custom Drums kit.
 
 ## Signature Licks on MetalForge
 
@@ -117,4 +137,4 @@ Full breakdown: [Jay Weinberg's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

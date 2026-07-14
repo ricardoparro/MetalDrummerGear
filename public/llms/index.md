@@ -44,6 +44,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Drummer Battles | https://metalforge.io/llms/battles.md | Community head-to-head vote battles between legendary metal drummers, organised by category (Markdown) |
 | Per-Matchup Battles | https://metalforge.io/llms/battles/ | Individual per-matchup battle pages with full gear data for both drummers (8 files) |
 | Guess The Kit — Photo Quiz | https://metalforge.io/llms/guess-the-kit.md | Identify metal drummers from photos of their kits using brand and cymbal visual cues (Markdown) |
+| Gear Comparisons — Brand Matchups | https://metalforge.io/llms/gear-comparison.md | Curated index of 12 drum/cymbal brand comparisons (Tama vs Pearl, etc.) for AI citation (Markdown) |
 | Tools — Gear Search | https://metalforge.io/llms/tools/gear-search.md | Find which drummers use a specific brand or model (Markdown) |
 | Tools — Dream Set Builder | https://metalforge.io/llms/tools/dream-set-builder.md | Build a custom kit from pro drummer gear (Markdown) |
 | Tools — Kit Builder | https://metalforge.io/llms/tools/kit-builder.md | Brand-first drum kit configurator (Markdown) |

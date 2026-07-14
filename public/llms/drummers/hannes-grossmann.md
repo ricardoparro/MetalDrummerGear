@@ -64,17 +64,37 @@ Grossmann first gained international recognition as the drummer for Necrophagist
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Hannes Grossmann play?**
+**Q: What drum kit does Hannes Grossmann use?**
 
-A: Hannes Grossmann plays a DW Collectors Series.
+A: Hannes Grossmann plays a DW Collectors Series drum kit — the precision American-made setup behind the hyper-technical, classically-informed drumming that has made him one of death metal's most respected players. It's built around a DW Collectors 14"x5.5" Maple snare.
 
-**Q: What cymbals does Hannes Grossmann use?**
+**Q: What drum set does Hannes Grossmann use?**
 
-A: Hannes Grossmann uses Meinl Byzance Series (14" Byzance Traditional Hi-Hats, 18" & 19" Byzance Brilliant Crashes, 21" Byzance Traditional Ride).
+A: Hannes Grossmann's drum set pairs his DW Collectors shells and maple snare with a DW 9000 Series double pedal, driving the demanding blast-beat and odd-subdivision bass drum patterns his compositions require across Necrophagist, Obscura, and Alkaloid.
+
+**Q: What cymbals does Hannes Grossmann play?**
+
+A: Hannes Grossmann plays Meinl Byzance Series cymbals: 14" Byzance Traditional Hi-Hats, 18" and 19" Byzance Brilliant Crashes, and a 21" Byzance Traditional Ride.
+
+**Q: What snare does Hannes Grossmann use?**
+
+A: Hannes Grossmann's snare is a DW Collectors 14"x5.5" Maple, delivering a crisp, controlled crack suited to the intricate ghost notes and odd-meter phrasing running through his playing.
+
+**Q: What sticks does Hannes Grossmann use?**
+
+A: Hannes Grossmann uses Vic Firth American Classic 5B drumsticks.
+
+**Q: What bass drum pedal does Hannes Grossmann use?**
+
+A: Hannes Grossmann drives his blast-beat and odd-subdivision bass drum patterns with a DW 9000 Series double pedal.
+
+**Q: What drumheads does Hannes Grossmann use?**
+
+A: Hannes Grossmann uses Evans drumheads across his DW Collectors kit.
 
 **Q: What band is Hannes Grossmann in?**
 
-A: Hannes Grossmann drums for Obscura / ex-Necrophagist / Alkaloid, a technical death metal band.
+A: Hannes Grossmann drums for Obscura (2007-2014, 2020-present) and Alkaloid (2014-present), and previously drummed for Necrophagist and Blotted Science.
 
 ## Signature Licks on MetalForge
 

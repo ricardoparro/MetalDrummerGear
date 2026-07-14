@@ -62,17 +62,37 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Inferno play?**
+**Q: What drum kit does Inferno use?**
 
-A: Inferno plays a Pearl Masterworks.
+A: Inferno plays a Pearl Masterworks drum kit — the premium custom shell series anchoring Behemoth's apocalyptic live productions since he joined the band in 1997. It's built around a Pearl Reference 14"x5" Steel snare tuned for maximum cutting crack.
 
-**Q: What cymbals does Inferno use?**
+**Q: What drum set does Inferno use?**
 
-A: Inferno uses Paiste RUDE Series (14" Hi-Hats, 14" Blast China, 18" & 19" Crashes, 24" Mega Power Ride, 18" China).
+A: Inferno's drum set pairs his Pearl Masterworks shells and steel snare with a Czarcie Kopyto (Devil's Hoof) double pedal — a Polish-engineered direct-drive mechanism — giving him the speed and precision his relentless blast passages demand.
+
+**Q: What cymbals does Inferno play?**
+
+A: Inferno plays Paiste RUDE Series cymbals: 14" Hi-Hats, a 14" Blast China, 18" and 19" Crashes, a 24" Mega Power Ride, and an 18" China.
+
+**Q: What snare does Inferno use?**
+
+A: Inferno's snare is a Pearl Reference 14"x5" Steel, tuned for maximum cutting crack to penetrate Behemoth's dense wall of down-tuned guitars during blast beats exceeding 200 BPM.
+
+**Q: What sticks does Inferno use?**
+
+A: Inferno uses Vic Firth 5B drumsticks.
+
+**Q: What bass drum pedal does Inferno use?**
+
+A: Inferno drives his double kick with a Czarcie Kopyto (Devil's Hoof) double pedal, seated on a Pearl D-2000 throne.
+
+**Q: What drumheads does Inferno use?**
+
+A: Inferno uses Remo drumheads across his Pearl Masterworks kit.
 
 **Q: What band is Inferno in?**
 
-A: Inferno drums for Behemoth, a black/death metal band.
+A: Inferno has been the drummer for Polish extreme metal band Behemoth since 1997, and also drums for Azarath.
 
 ## Album Drum Setup Breakdowns
 

@@ -59,17 +59,37 @@ Morgan Ågren (born November 4, 1967, in Umeå, Sweden) is a Swedish drummer and
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Morgan Ågren play?**
+**Q: What drum kit does Morgan Ågren use?**
 
-A: Morgan Ågren plays a Sonor SQ2 Designer Series.
+A: Morgan Ågren plays a Sonor SQ2 Designer Series drum kit — a custom-configured setup reflecting the exacting standards behind his decades of polyrhythmic playing across the Mats/Morgan Band, Kaipa, and Devin Townsend Project. It's built around a Sonor Designer 14"x5.5" Maple snare.
 
-**Q: What cymbals does Morgan Ågren use?**
+**Q: What drum set does Morgan Ågren use?**
 
-A: Morgan Ågren uses Paiste Signature & 2002 Series (14" Signature Heavy Hi-Hats, 18" & 20" Signature Fast Crashes, 22" Signature Dry Heavy Ride, 18" 2002 China).
+A: Morgan Ågren's drum set pairs his Sonor SQ2 shells and maple snare with a Sonor Giant Step double pedal, the configuration he has used since co-founding the Mats/Morgan Band with Mats Öberg in 1981.
+
+**Q: What cymbals does Morgan Ågren play?**
+
+A: Morgan Ågren plays Paiste Signature and 2002 Series cymbals: 14" Signature Heavy Hi-Hats for tight control on his rapid polyrhythmic patterns, 18" and 20" Signature Fast Crashes, a 22" Signature Dry Heavy Ride, and an 18" 2002 China.
+
+**Q: What snare does Morgan Ågren use?**
+
+A: Morgan Ågren's snare is a Sonor Designer 14"x5.5" Maple, delivering a warm, articulate crack suited to both his jazz-fusion sensibility and his work with Devin Townsend Project.
+
+**Q: What sticks does Morgan Ågren use?**
+
+A: Morgan Ågren uses Vic Firth American Classic 5A drumsticks.
+
+**Q: What bass drum pedal does Morgan Ågren use?**
+
+A: Morgan Ågren plays a Sonor Giant Step double pedal, seated on a Sonor throne.
+
+**Q: What drumheads does Morgan Ågren use?**
+
+A: Morgan Ågren uses Remo drumheads across his Sonor SQ2 kit.
 
 **Q: What band is Morgan Ågren in?**
 
-A: Morgan Ågren drums for Mats/Morgan Band / Kaipa / Fredrik Thordendal's Special Defects, a progressive rock / progressive metal / jazz fusion band.
+A: Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 and has drummed for Devin Townsend Project (2012-2016), Kaipa (2002-2005), and toured with Frank Zappa's band in 1988.
 
 ## Signature Licks on MetalForge
 

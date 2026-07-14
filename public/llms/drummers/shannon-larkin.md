@@ -64,17 +64,37 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Shannon Larkin play?**
+**Q: What drum kit does Shannon Larkin use?**
 
-A: Shannon Larkin plays a ddrum Dios Series.
+A: Shannon Larkin plays a ddrum Dios Series drum kit — a setup built for the raw power and groove-centric approach he brought to Godsmack across two decades of multi-platinum hard rock. It's anchored by a ddrum Dios 14"x6.5" Maple snare delivering a warm yet cutting crack.
 
-**Q: What cymbals does Shannon Larkin use?**
+**Q: What drum set does Shannon Larkin use?**
 
-A: Shannon Larkin uses Sabian AAX & HHX Series (14" AAX Stage Hi-Hats, 18" & 19" AAX X-Plosion Crashes, 21" HHX Raw Bell Dry Ride, 10" AAX Splash, 18" AAX Chinese).
+A: Shannon Larkin's drum set pairs his ddrum Dios Series shells and maple snare with Sabian AAX and HHX Series cymbals and a DW 9000 Series double pedal, the configuration anchoring Godsmack albums like Faceless, IV, and When Legends Rise.
+
+**Q: What cymbals does Shannon Larkin play?**
+
+A: Shannon Larkin plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal.
+
+**Q: What snare does Shannon Larkin use?**
+
+A: Shannon Larkin's snare is a ddrum Dios 14"x6.5" Maple, delivering the warm yet cutting crack that anchors Godsmack's groove-driven rhythms.
+
+**Q: What sticks does Shannon Larkin use?**
+
+A: Shannon Larkin uses Vic Firth American Classic 5B drumsticks.
+
+**Q: What bass drum pedal does Shannon Larkin use?**
+
+A: Shannon Larkin drives his powerful double kick foundation with a DW 9000 Series double pedal.
+
+**Q: What drumheads does Shannon Larkin use?**
+
+A: Shannon Larkin uses Evans drumheads across his ddrum Dios kit.
 
 **Q: What band is Shannon Larkin in?**
 
-A: Shannon Larkin drums for Godsmack / Ugly Kid Joe / Amen, a hard rock / heavy metal / nu metal band.
+A: Shannon Larkin was the drummer for Godsmack from 2002 to 2024, making him the band's longest-serving drummer. He previously played with Ugly Kid Joe (1991-1997), Wrathchild America (1989-1991), and Another Animal (2007-2008).
 
 ## Signature Licks on MetalForge
 

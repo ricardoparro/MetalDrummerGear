@@ -64,17 +64,37 @@ Sabian AAX Series cymbals round out the Kevin Talley drum kit: 14" Stage Hi-Hats
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Kevin Talley play?**
+**Q: What drum kit does Kevin Talley use?**
 
-A: Kevin Talley plays a Pearl Masters Premium Legend.
+A: Kevin Talley plays a Pearl Masters Premium Legend drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Suffocation, Chimaira, and Six Feet Under has demanded for over two decades. It centers on a Pearl Masters 14"x5.5" Maple snare.
 
-**Q: What cymbals does Kevin Talley use?**
+**Q: What drum set does Kevin Talley use?**
 
-A: Kevin Talley uses Sabian AAX Series (14" Stage Hi-Hats, 17" & 18" X-Plosion Crashes, 20" Stage Ride).
+A: Kevin Talley's drum set pairs his Pearl Masters shells and maple snare with a Pearl Eliminator double pedal, powering the relentless blast beats and gravity-blast technique that helped define brutal death metal across his work with Dying Fetus and Misery Index.
+
+**Q: What cymbals does Kevin Talley play?**
+
+A: Kevin Talley plays Sabian AAX Series cymbals: 14" Stage Hi-Hats, 17" and 18" X-Plosion Crashes, and a 20" Stage Ride.
+
+**Q: What snare does Kevin Talley use?**
+
+A: Kevin Talley's snare is a Pearl Masters 14"x5.5" Maple, delivering a bright, cracking response that cuts through brutal death metal's dense, downtuned guitar work at his signature blistering tempos.
+
+**Q: What sticks does Kevin Talley use?**
+
+A: Kevin Talley uses Vic Firth American Classic 5B drumsticks.
+
+**Q: What bass drum pedal does Kevin Talley use?**
+
+A: Kevin Talley drives his renowned speed and endurance with a Pearl Eliminator double pedal.
+
+**Q: What drumheads does Kevin Talley use?**
+
+A: Kevin Talley uses Remo drumheads across his Pearl Masters kit.
 
 **Q: What band is Kevin Talley in?**
 
-A: Kevin Talley drums for Dying Fetus / Misery Index / Six Feet Under, a brutal death metal / grindcore band.
+A: Kevin Talley has drummed for Dying Fetus (1996-2001, 2007-2008), Misery Index (2001-2003), Suffocation (2005-2007), Chimaira (2009-2011), and Six Feet Under (2011-2017).
 
 ## Signature Licks on MetalForge
 

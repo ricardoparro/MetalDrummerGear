@@ -65,17 +65,37 @@ Beyond his drumming career, Koperweis is a prolific producer and electronic arti
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Navene Koperweis play?**
+**Q: What drum kit does Navene Koperweis use?**
 
-A: Navene Koperweis plays a DW Drums Performance Series.
+A: Navene Koperweis plays a DW Drums Performance Series kit — a workhorse acoustic setup that anchors his playing across Entheos, Animals as Leaders, and his session work. It's built around a DW Performance 14"x6.5" steel snare.
 
-**Q: What cymbals does Navene Koperweis use?**
+**Q: What drum set does Navene Koperweis use?**
 
-A: Navene Koperweis uses Meinl Byzance Series (15" Dual Hi-Hats, 18" & 19" Extra Dry Medium Crashes, 21" Transition Ride, 18" Extra Dry China, 10" Splash).
+A: Navene Koperweis's drum set pairs his DW Performance shells and steel snare with a DW 9000 Series double pedal, driving the extreme single-stroke and blast-beat passages central to his playing.
+
+**Q: What cymbals does Navene Koperweis play?**
+
+A: Navene Koperweis plays Meinl Byzance Series cymbals: 15" Dual Hi-Hats, 18" and 19" Extra Dry Medium Crashes, a 21" Transition Ride, an 18" Extra Dry China, and a 10" splash.
+
+**Q: What snare does Navene Koperweis use?**
+
+A: Navene Koperweis's snare is a DW Performance 14"x6.5" Steel, chosen for the sharp, cutting crack needed to hold its own against djent-tuned guitars and his own layered electronic production.
+
+**Q: What sticks does Navene Koperweis use?**
+
+A: Navene Koperweis uses Vic Firth American Classic 5B drumsticks.
+
+**Q: What bass drum pedal does Navene Koperweis use?**
+
+A: Navene Koperweis drives his extreme single-stroke and blast-beat passages with a DW 9000 Series double pedal.
+
+**Q: What drumheads does Navene Koperweis use?**
+
+A: Navene Koperweis uses Evans drumheads across his DW Performance kit.
 
 **Q: What band is Navene Koperweis in?**
 
-A: Navene Koperweis drums for Entheos / ex-Animals as Leaders, a progressive metal / djent / technical death metal band.
+A: Navene Koperweis founded Entheos in 2015 and previously drummed for Animals as Leaders (2010-2012) and Animosity (2003-2008). He has also served as a session drummer for Machine Head since 2021.
 
 ## Signature Licks on MetalForge
 

@@ -1431,6 +1431,19 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
           'Has been called one of the most underrated drummers in thrash metal'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Paul Bostaph use?', a: 'Paul Bostaph\'s drum kit during Slayer\'s final chapter was a Pearl Masters Maple Complete (MCX) shell pack, the all-maple, double-bass configuration producer Terry Date brought in for 2015\'s Repentless, Slayer\'s twelfth and final studio album and the first without guitarist Jeff Hanneman. It\'s anchored by a 14"x6.5" Pearl Masters steel snare tuned for a sharp, cutting crack.' },
+          { q: 'What drum set does Paul Bostaph use?', a: 'Paul Bostaph\'s drum set pairs his Pearl Masters Maple Complete shells and steel snare with a Pearl Eliminator double pedal, built for the machine-like consistency he brought to Slayer\'s catalog across two separate tenures (1992-2001, 2013-2019), and Sabian AAX Series cymbals.' },
+          { q: 'What cymbals does Paul Bostaph play?', a: 'Paul Bostaph plays Sabian AAX Series cymbals: 14" AAX Stage Hi-Hats, 17" and 19" AAX X-Plosion Crashes, a 21" AAX Stage Ride, and an 18" AAXtreme China — the setup he carried through Slayer\'s Final World Tour, including the band\'s last-ever show at the Forum in Los Angeles on November 30, 2019.' },
+          { q: 'What snare does Paul Bostaph use?', a: 'Paul Bostaph\'s snare is a 14"x6.5" Pearl Masters steel model, tuned for a sharp, cutting crack that projects through Kerry King and Gary Holt\'s dense guitar work on Repentless (2015).' },
+          { q: 'What sticks does Paul Bostaph use?', a: 'Paul Bostaph uses Vater Power 5B drumsticks.' },
+          { q: 'What bass drum pedal does Paul Bostaph use?', a: 'Paul Bostaph drives his double bass patterns with a Pearl Eliminator double pedal.' },
+          { q: 'What drumheads does Paul Bostaph use?', a: 'Paul Bostaph uses Remo Powerstroke 3, Emperor Coated, and Ambassador drumheads.' },
+          { q: 'What band is Paul Bostaph in?', a: 'Paul Bostaph is Slayer\'s longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1999-2001, 2024-present), Exodus (2005-2007), and Forbidden (1987-1989).' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -1519,6 +1532,19 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
           'One of few drummers to have played with three of the Big Four (Slayer, Anthrax)',
           'The Gathering is considered one of Testament\'s best albums',
           'Praised for professionalism and quick learning ability'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Jon Dette use?', a: 'Jon Dette\'s Slayer-era drum kit was a Ludwig Classic Maple shell pack — a gear choice that set him apart from every other Slayer drummer, since Dave Lombardo played Tama and Paul Bostaph moved through DW and other setups. It centered on twin 22" Ludwig Classic Maple bass drums to execute the sustained double-kick patterns Slayer\'s catalog demands.' },
+          { q: 'What drum set does Jon Dette use?', a: 'Jon Dette\'s drum set pairs his Ludwig Classic Maple shells with a 14"x6.5" metal or maple snare tuned medium-bright, driven by a DW 9000 or Tama Iron Cobra double pedal, carried across his tenures with Slayer and Testament.' },
+          { q: 'What cymbals does Jon Dette play?', a: 'Jon Dette plays Sabian AAX and Zildjian A Series cymbals: 14" Hi-Hats, 16" and 18" Crashes, a 20" Ride, and an 18" China for the aggressive punctuation Slayer\'s most intense passages require.' },
+          { q: 'What snare does Jon Dette use?', a: 'Jon Dette\'s snare is a 14"x6.5" metal or maple model tuned medium-bright for the cut and authority thrash metal\'s dense guitar mix requires.' },
+          { q: 'What sticks does Jon Dette use?', a: 'Jon Dette uses Promark or Vater 5B drumsticks, a heavier model favored for authority and durability.' },
+          { q: 'What bass drum pedal does Jon Dette use?', a: 'Jon Dette drives his sustained double-kick work with a DW 9000 or Tama Iron Cobra double pedal.' },
+          { q: 'What drumheads does Jon Dette use?', a: 'Jon Dette uses Remo Powerstroke 3 heads on his kick, Emperor Coated on his toms, and Coated Ambassador on his snare.' },
+          { q: 'What band is Jon Dette in?', a: 'Jon Dette was Slayer\'s touring drummer in 1996-1997, then drummed for Testament across two stints (1997-1999, 2001-2012), recording The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012). He also filled in for Charlie Benante on a 2010 Anthrax tour.' }
         ]
       }
     }
@@ -1748,6 +1774,19 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
           'Has remained remarkably consistent throughout his 30+ year career'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Shannon Larkin use?', a: 'Shannon Larkin plays a ddrum Dios Series drum kit — a setup built for the raw power and groove-centric approach he brought to Godsmack across two decades of multi-platinum hard rock. It\'s anchored by a ddrum Dios 14"x6.5" Maple snare delivering a warm yet cutting crack.' },
+          { q: 'What drum set does Shannon Larkin use?', a: 'Shannon Larkin\'s drum set pairs his ddrum Dios Series shells and maple snare with Sabian AAX and HHX Series cymbals and a DW 9000 Series double pedal, the configuration anchoring Godsmack albums like Faceless, IV, and When Legends Rise.' },
+          { q: 'What cymbals does Shannon Larkin play?', a: 'Shannon Larkin plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal.' },
+          { q: 'What snare does Shannon Larkin use?', a: 'Shannon Larkin\'s snare is a ddrum Dios 14"x6.5" Maple, delivering the warm yet cutting crack that anchors Godsmack\'s groove-driven rhythms.' },
+          { q: 'What sticks does Shannon Larkin use?', a: 'Shannon Larkin uses Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What bass drum pedal does Shannon Larkin use?', a: 'Shannon Larkin drives his powerful double kick foundation with a DW 9000 Series double pedal.' },
+          { q: 'What drumheads does Shannon Larkin use?', a: 'Shannon Larkin uses Evans drumheads across his ddrum Dios kit.' },
+          { q: 'What band is Shannon Larkin in?', a: 'Shannon Larkin was the drummer for Godsmack from 2002 to 2024, making him the band\'s longest-serving drummer. He previously played with Ugly Kid Joe (1991-1997), Wrathchild America (1989-1991), and Another Animal (2007-2008).' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -1862,6 +1901,19 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
           'Despite departure, his influence is heard in countless modern metal bands'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Raymond Herrera use?', a: 'Raymond Herrera plays a Tama Starclassic drum kit — the mechanically precise setup behind his innovative "stop-go" double bass technique that defined Fear Factory\'s industrial metal sound across Soul of a New Machine (1992), Demanufacture (1995), and Obsolete (1998).' },
+          { q: 'What drum set does Raymond Herrera use?', a: 'Raymond Herrera\'s drum set centers on a Tama 14"x6.5" Brass snare delivering a sharp, industrial crack, paired with a DW 5000 Series double pedal mounted on a Tama Power Tower Custom rack — the configuration he carried into his later work with Brujeria and Arkaea.' },
+          { q: 'What cymbals does Raymond Herrera play?', a: 'Raymond Herrera plays Zildjian A Custom and Z Custom Series cymbals: 14" A Custom Hi-Hats, 18" and 19" A Custom Crashes, a 21" Z Custom Mega Bell Ride, and an 18" A Custom China.' },
+          { q: 'What snare does Raymond Herrera use?', a: 'Raymond Herrera\'s snare is a Tama 14"x6.5" Brass model, delivering the sharp, industrial crack that cuts through Fear Factory\'s mechanized riffing.' },
+          { q: 'What sticks does Raymond Herrera use?', a: 'Raymond Herrera uses Pro-Mark 5A Oak Nylon Tip drumsticks.' },
+          { q: 'What bass drum pedal does Raymond Herrera use?', a: 'Raymond Herrera drives his precise, stop-go double bass patterns with a DW 5000 Series double pedal.' },
+          { q: 'What drumheads does Raymond Herrera use?', a: 'Raymond Herrera uses Attack Drumheads across his Tama Starclassic kit.' },
+          { q: 'What band is Raymond Herrera in?', a: 'Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2009. He also drums for Brujeria and formed Arkaea after Fear Factory\'s split.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -1972,6 +2024,19 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
           'Known for maintaining a humble personality despite virtuosic abilities',
           'Has released multiple solo albums showcasing compositional skills',
           'Continues to push boundaries well into his 50s'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Morgan Ågren use?', a: 'Morgan Ågren plays a Sonor SQ2 Designer Series drum kit — a custom-configured setup reflecting the exacting standards behind his decades of polyrhythmic playing across the Mats/Morgan Band, Kaipa, and Devin Townsend Project. It\'s built around a Sonor Designer 14"x5.5" Maple snare.' },
+          { q: 'What drum set does Morgan Ågren use?', a: 'Morgan Ågren\'s drum set pairs his Sonor SQ2 shells and maple snare with a Sonor Giant Step double pedal, the configuration he has used since co-founding the Mats/Morgan Band with Mats Öberg in 1981.' },
+          { q: 'What cymbals does Morgan Ågren play?', a: 'Morgan Ågren plays Paiste Signature and 2002 Series cymbals: 14" Signature Heavy Hi-Hats for tight control on his rapid polyrhythmic patterns, 18" and 20" Signature Fast Crashes, a 22" Signature Dry Heavy Ride, and an 18" 2002 China.' },
+          { q: 'What snare does Morgan Ågren use?', a: 'Morgan Ågren\'s snare is a Sonor Designer 14"x5.5" Maple, delivering a warm, articulate crack suited to both his jazz-fusion sensibility and his work with Devin Townsend Project.' },
+          { q: 'What sticks does Morgan Ågren use?', a: 'Morgan Ågren uses Vic Firth American Classic 5A drumsticks.' },
+          { q: 'What bass drum pedal does Morgan Ågren use?', a: 'Morgan Ågren plays a Sonor Giant Step double pedal, seated on a Sonor throne.' },
+          { q: 'What drumheads does Morgan Ågren use?', a: 'Morgan Ågren uses Remo drumheads across his Sonor SQ2 kit.' },
+          { q: 'What band is Morgan Ågren in?', a: 'Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 and has drummed for Devin Townsend Project (2012-2016), Kaipa (2002-2005), and toured with Frank Zappa\'s band in 1988.' }
         ]
       },
       sources: {
@@ -2356,6 +2421,19 @@ His drumming style combines relentless blast beats, complex double bass patterns
           'The band\'s longevity is remarkable in extreme metal—same core lineup for nearly 30 years',
           '"Hammer Smashed Face" has become a meme and cultural touchstone beyond metal',
           'Maintains a rigorous physical fitness routine to sustain demanding performance schedule'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz plays a Pearl Masters Maple Complete drum kit — the blast-beat-optimized setup that has powered Cannibal Corpse\'s relentless death metal assault for over three decades. It\'s anchored by a Pearl Masters 14"x6.5" Maple snare tuned bright and tight to cut through down-tuned guitars.' },
+          { q: 'What drum set does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz\'s drum set pairs his Pearl Masters Maple Complete shells and maple snare with a Pearl Demon Drive double pedal, the same configuration carried across Cannibal Corpse\'s entire discography from Tomb of the Mutilated through Violence Unimagined.' },
+          { q: 'What cymbals does Paul Mazurkiewicz play?', a: 'Paul Mazurkiewicz plays Sabian AAX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" AAX Raw Bell Dry Ride, and an 18" AAXtreme China.' },
+          { q: 'What snare does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz\'s snare is a Pearl Masters 14"x6.5" Maple, tuned bright and tight to cut through Cannibal Corpse\'s down-tuned guitars.' },
+          { q: 'What sticks does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz uses Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What bass drum pedal does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz drives his locomotive double bass technique with a Pearl Demon Drive double pedal.' },
+          { q: 'What drumheads does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz uses Evans drumheads across his Pearl Masters kit.' },
+          { q: 'What band is Paul Mazurkiewicz in?', a: 'Paul Mazurkiewicz co-founded and has drummed for death metal band Cannibal Corpse since 1988, appearing on every album since their 1990 debut Eaten Back to Life.' }
         ]
       },
       sources: {
@@ -3000,6 +3078,19 @@ Grossmann first gained international recognition as the drummer for Necrophagist
           'Returned to Obscura in 2020 after a 6-year hiatus from the band'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Hannes Grossmann use?', a: 'Hannes Grossmann plays a DW Collectors Series drum kit — the precision American-made setup behind the hyper-technical, classically-informed drumming that has made him one of death metal\'s most respected players. It\'s built around a DW Collectors 14"x5.5" Maple snare.' },
+          { q: 'What drum set does Hannes Grossmann use?', a: 'Hannes Grossmann\'s drum set pairs his DW Collectors shells and maple snare with a DW 9000 Series double pedal, driving the demanding blast-beat and odd-subdivision bass drum patterns his compositions require across Necrophagist, Obscura, and Alkaloid.' },
+          { q: 'What cymbals does Hannes Grossmann play?', a: 'Hannes Grossmann plays Meinl Byzance Series cymbals: 14" Byzance Traditional Hi-Hats, 18" and 19" Byzance Brilliant Crashes, and a 21" Byzance Traditional Ride.' },
+          { q: 'What snare does Hannes Grossmann use?', a: 'Hannes Grossmann\'s snare is a DW Collectors 14"x5.5" Maple, delivering a crisp, controlled crack suited to the intricate ghost notes and odd-meter phrasing running through his playing.' },
+          { q: 'What sticks does Hannes Grossmann use?', a: 'Hannes Grossmann uses Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What bass drum pedal does Hannes Grossmann use?', a: 'Hannes Grossmann drives his blast-beat and odd-subdivision bass drum patterns with a DW 9000 Series double pedal.' },
+          { q: 'What drumheads does Hannes Grossmann use?', a: 'Hannes Grossmann uses Evans drumheads across his DW Collectors kit.' },
+          { q: 'What band is Hannes Grossmann in?', a: 'Hannes Grossmann drums for Obscura (2007-2014, 2020-present) and Alkaloid (2014-present), and previously drummed for Necrophagist and Blotted Science.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -3108,6 +3199,19 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
           'His work with Vader showcased pure death metal speed and precision',
           'Dimmu Borgir\'s elaborate live shows require meticulous timing for pyrotechnics',
           'Has appeared in multiple Dimmu Borgir music videos with full corpse paint'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Daray use?', a: 'Daray\'s kit is anchored by a Pearl Masterworks Stadium Exotic shell pack, built for the volume and low-end depth needed to carry Dimmu Borgir\'s grandiose symphonic arrangements and Vader\'s blast-driven death metal assault. It centers on a Pearl Reference 14"x5.5" Brass snare.' },
+          { q: 'What drum set does Daray use?', a: 'Daray\'s drum set pairs his Pearl Masterworks shells and brass snare with a Pearl Demon XR double pedal, giving him the speed and control behind his rapid-fire double bass work with both Dimmu Borgir and Vader.' },
+          { q: 'What cymbals does Daray play?', a: 'Daray plays Paiste RUDE and 2002 Series cymbals: 14" RUDE Hi-Hats, 17" and 18" RUDE Crashes, and a 22" RUDE Power Ride cutting through extreme-tempo passages.' },
+          { q: 'What snare does Daray use?', a: 'Daray\'s snare is a Pearl Reference 14"x5.5" Brass, supplying a sharp, cutting crack that stays audible against dense orchestral layers and extreme blast-beat tempos alike.' },
+          { q: 'What sticks does Daray use?', a: 'Daray uses Vic Firth American Classic Extreme 5B drumsticks, a heavier stick variant built for extreme metal\'s demands.' },
+          { q: 'What bass drum pedal does Daray use?', a: 'Daray drives his rapid-fire double bass work with a Pearl Demon XR double pedal.' },
+          { q: 'What drumheads does Daray use?', a: 'Daray uses Evans drumheads across his Pearl Masterworks kit.' },
+          { q: 'What band is Daray in?', a: 'Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2006-2016) and Vesania (since 2003).' }
         ]
       },
       sources: {
@@ -3341,6 +3445,19 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
           'His endurance allows for consistent performance throughout grueling tour schedules'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Tim Yeung use?', a: 'Tim Yeung plays a Tama Starclassic Bubinga drum kit — a dense, bass-heavy shell pack chosen for the low-end weight and fast attack his blast-beat-driven playing demands across three decades of extreme metal. It centers on a Tama S.L.P. Big Black Steel 14"x6.5" snare.' },
+          { q: 'What drum set does Tim Yeung use?', a: 'Tim Yeung\'s drum set pairs his Tama Starclassic Bubinga shells and steel snare with a Tama Speed Cobra 910 double pedal, powering the relentless double-bass runs that made him one of death metal\'s most in-demand session drummers.' },
+          { q: 'What cymbals does Tim Yeung play?', a: 'Tim Yeung plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, and a 21" HHX Raw Bell Dry Ride.' },
+          { q: 'What snare does Tim Yeung use?', a: 'Tim Yeung\'s snare is a Tama S.L.P. Big Black Steel 14"x6.5", delivering a sharp, aggressive crack that cuts through the dense, downtuned arrangements of Hate Eternal, Divine Heresy, and Vital Remains.' },
+          { q: 'What sticks does Tim Yeung use?', a: 'Tim Yeung uses Vic Firth American Classic 5A drumsticks.' },
+          { q: 'What bass drum pedal does Tim Yeung use?', a: 'Tim Yeung anchors his legendary speed and stamina with a Tama Speed Cobra 910 double pedal.' },
+          { q: 'What drumheads does Tim Yeung use?', a: 'Tim Yeung uses Evans drumheads across his Tama Starclassic Bubinga kit.' },
+          { q: 'What band is Tim Yeung in?', a: 'Tim Yeung has drummed for Morbid Angel, Vital Remains, Hate Eternal, and Divine Heresy, and filled in for George Kollias on Nile\'s 2012 European dates.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -3454,6 +3571,19 @@ Talley's drumming combines the technical demands of brutal death metal with the 
           'Known for his relentless touring schedule across multiple bands',
           'Misery Index combined Dying Fetus brutality with grindcore intensity',
           'Six Feet Under tenure lasted 6 years, his longest single band stint'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Kevin Talley use?', a: 'Kevin Talley plays a Pearl Masters Premium Legend drum kit — a durable, all-maple shell pack chosen for the low-end punch and touring reliability his relentless schedule across Dying Fetus, Misery Index, Suffocation, Chimaira, and Six Feet Under has demanded for over two decades. It centers on a Pearl Masters 14"x5.5" Maple snare.' },
+          { q: 'What drum set does Kevin Talley use?', a: 'Kevin Talley\'s drum set pairs his Pearl Masters shells and maple snare with a Pearl Eliminator double pedal, powering the relentless blast beats and gravity-blast technique that helped define brutal death metal across his work with Dying Fetus and Misery Index.' },
+          { q: 'What cymbals does Kevin Talley play?', a: 'Kevin Talley plays Sabian AAX Series cymbals: 14" Stage Hi-Hats, 17" and 18" X-Plosion Crashes, and a 20" Stage Ride.' },
+          { q: 'What snare does Kevin Talley use?', a: 'Kevin Talley\'s snare is a Pearl Masters 14"x5.5" Maple, delivering a bright, cracking response that cuts through brutal death metal\'s dense, downtuned guitar work at his signature blistering tempos.' },
+          { q: 'What sticks does Kevin Talley use?', a: 'Kevin Talley uses Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What bass drum pedal does Kevin Talley use?', a: 'Kevin Talley drives his renowned speed and endurance with a Pearl Eliminator double pedal.' },
+          { q: 'What drumheads does Kevin Talley use?', a: 'Kevin Talley uses Remo drumheads across his Pearl Masters kit.' },
+          { q: 'What band is Kevin Talley in?', a: 'Kevin Talley has drummed for Dying Fetus (1996-2001, 2007-2008), Misery Index (2001-2003), Suffocation (2005-2007), Chimaira (2009-2011), and Six Feet Under (2011-2017).' }
         ]
       },
       sources: {
@@ -5872,6 +6002,19 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
           'Considered one of the most reliable drummers in extreme metal touring'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Inferno use?', a: 'Inferno plays a Pearl Masterworks drum kit — the premium custom shell series anchoring Behemoth\'s apocalyptic live productions since he joined the band in 1997. It\'s built around a Pearl Reference 14"x5" Steel snare tuned for maximum cutting crack.' },
+          { q: 'What drum set does Inferno use?', a: 'Inferno\'s drum set pairs his Pearl Masterworks shells and steel snare with a Czarcie Kopyto (Devil\'s Hoof) double pedal — a Polish-engineered direct-drive mechanism — giving him the speed and precision his relentless blast passages demand.' },
+          { q: 'What cymbals does Inferno play?', a: 'Inferno plays Paiste RUDE Series cymbals: 14" Hi-Hats, a 14" Blast China, 18" and 19" Crashes, a 24" Mega Power Ride, and an 18" China.' },
+          { q: 'What snare does Inferno use?', a: 'Inferno\'s snare is a Pearl Reference 14"x5" Steel, tuned for maximum cutting crack to penetrate Behemoth\'s dense wall of down-tuned guitars during blast beats exceeding 200 BPM.' },
+          { q: 'What sticks does Inferno use?', a: 'Inferno uses Vic Firth 5B drumsticks.' },
+          { q: 'What bass drum pedal does Inferno use?', a: 'Inferno drives his double kick with a Czarcie Kopyto (Devil\'s Hoof) double pedal, seated on a Pearl D-2000 throne.' },
+          { q: 'What drumheads does Inferno use?', a: 'Inferno uses Remo drumheads across his Pearl Masterworks kit.' },
+          { q: 'What band is Inferno in?', a: 'Inferno has been the drummer for Polish extreme metal band Behemoth since 1997, and also drums for Azarath.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -6240,6 +6383,19 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
           'His powerful style has adapted well to Overkill\'s classic thrash sound'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Jason Bittner use?', a: 'Jason Bittner\'s drum kit is a Mapex Saturn V build — the all-maple shell pack he has used since joining Overkill in 2017, after building his reputation on the same platform across more than a decade with Shadows Fall, including the band\'s Grammy-nominated The War Within (2004).' },
+          { q: 'What drum set does Jason Bittner use?', a: 'Jason Bittner\'s drum set centers on his Mapex Black Panther 14"x6.5" Brass snare, delivering the steel-edged crack that cuts through both Shadows Fall\'s metalcore arrangements and Overkill\'s dense thrash riffing, driven by a Mapex Falcon double pedal.' },
+          { q: 'What cymbals does Jason Bittner play?', a: 'Jason Bittner plays Zildjian K and A Custom Series cymbals: 14" K Hi-Hats, 18" and 19" A Custom Crashes, a 21" K Custom Ride, and an 18" K China.' },
+          { q: 'What snare does Jason Bittner use?', a: 'Jason Bittner\'s snare is a Mapex Black Panther 14"x6.5" Brass, delivering the steel-edged crack heard on The War Within (2004) and The Art of Balance (2002).' },
+          { q: 'What sticks does Jason Bittner use?', a: 'Jason Bittner plays his own signature Promark Jason Bittner Signature 5BX drumsticks.' },
+          { q: 'What bass drum pedal does Jason Bittner use?', a: 'Jason Bittner drives his sustained double-kick passages with a Mapex Falcon double pedal, seated on a Mapex T865 throne.' },
+          { q: 'What drumheads does Jason Bittner use?', a: 'Jason Bittner uses Evans drumheads across his Mapex Saturn V kit.' },
+          { q: 'What band is Jason Bittner in?', a: 'Jason Bittner has drummed for Overkill since 2017, and previously drummed for Shadows Fall (1999-2015) and Flotsam and Jetsam (2013-2017).' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -6482,6 +6638,19 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
           'Based in Baltimore, maintains active presence in local music scene'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Travis Orbin use?', a: 'Travis Orbin\'s drum kit is built around SJC Custom Drums, the setup behind his genre-defining work on Periphery\'s self-titled debut (2010) and the complex, trigger-augmented polyrhythmic playing he\'s since carried into Darkest Hour and his solo session work.' },
+          { q: 'What drum set does Travis Orbin use?', a: 'Travis Orbin\'s drum set centers on an SJC Custom 14"x6.5" Maple snare, delivering the crisp, controlled crack his precise, linear patterns require, driven by a DW 9000 Series double pedal with a Roland SPD-SX sampling pad integrated for electronic triggers.' },
+          { q: 'What cymbals does Travis Orbin play?', a: 'Travis Orbin plays Zildjian K Custom Series cymbals: 14" K Custom Dark Hi-Hats, 18" and 19" K Custom Dark Crashes, a 21" K Custom Ride, and an 18" K Custom China.' },
+          { q: 'What snare does Travis Orbin use?', a: 'Travis Orbin\'s snare is an SJC Custom 14"x6.5" Maple, delivering the crisp, controlled crack heard on Periphery\'s self-titled debut (2010).' },
+          { q: 'What sticks does Travis Orbin use?', a: 'Travis Orbin uses Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What bass drum pedal does Travis Orbin use?', a: 'Travis Orbin drives his fast, articulate double bass work with a DW 9000 Series double pedal.' },
+          { q: 'What drumheads does Travis Orbin use?', a: 'Travis Orbin uses Evans drumheads across his SJC Custom kit.' },
+          { q: 'What band is Travis Orbin in?', a: 'Travis Orbin was the founding studio drummer for Periphery (2009-2012) and has drummed for Darkest Hour (2013-2015) and Sky Harbor (since 2012).' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -6594,6 +6763,19 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
           'Canadian musician based in Vancouver area',
           'Relatively media-shy compared to Townsend, letting drumming speak for itself',
           'The "Retinal Circus" live performance showcased his versatility across Townsend\'s catalog'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen\'s rig centers on a Pearl Reference Series shell pack, the workhorse setup behind his role as Devin Townsend\'s primary drummer across two decades of genre-hopping albums, from ambient soundscapes to full-throttle metal assaults.' },
+          { q: 'What drum set does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen\'s drum set is built around a Pearl Reference 14"x6.5" Brass snare, delivering the cutting attack needed to punch through Townsend\'s dense, layered guitar walls on records like Accelerated Evolution, Synchestra, and Transcendence.' },
+          { q: 'What cymbals does Ryan Van Poederooyen play?', a: 'Ryan Van Poederooyen plays Sabian HHX and AAX Series cymbals: 14" HHX Evolution Hi-Hats, 18" and 20" HHX Evolution Crashes, a 21" HHX Raw Bell Dry Ride, and a 19" AAXtreme China.' },
+          { q: 'What snare does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen\'s snare is a Pearl Reference 14"x6.5" Brass, delivering the cutting attack needed to punch through Devin Townsend\'s dense guitar walls.' },
+          { q: 'What sticks does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen uses Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What bass drum pedal does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen drives Townsend\'s crushing riffs with a Pearl Demon Drive double pedal, seated on a Pearl D-3000 throne.' },
+          { q: 'What drumheads does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen uses Evans drumheads across his Pearl Reference kit.' },
+          { q: 'What band is Ryan Van Poederooyen in?', a: 'Ryan Van Poederooyen has been Devin Townsend\'s primary drummer since 1999, including the Devin Townsend Project era from 2009 to 2018.' }
         ]
       },
       sources: {
@@ -7572,6 +7754,19 @@ Ilejay's time with Avenged Sevenfold coincided with their transition to a more c
           'His Confide background gave him post-hardcore technical chops before joining A7X'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Arin Ilejay use?', a: 'Arin Ilejay played a Mapex Saturn Series drum kit — the setup behind Avenged Sevenfold\'s "Hail to the King" (2013), the album that introduced his straightforward, classic-metal-influenced attack following Jimmy "The Rev" Sullivan\'s death. It centered on a Mapex Black Panther 14"x6.5" snare.' },
+          { q: 'What drum set does Arin Ilejay use?', a: 'Arin Ilejay\'s drum set paired his Mapex Black Panther snare with a Mapex Falcon double pedal and Mapex T865 throne, anchoring the deliberately retro heavy metal grooves of "Hail to the King."' },
+          { q: 'What cymbals does Arin Ilejay play?', a: 'Arin Ilejay played Zildjian A Custom cymbals: 14" A Custom Mastersound Hi-Hats, 18" and 19" A Custom Crashes, a 21" A Sweet Ride, and an 18" A Custom China.' },
+          { q: 'What snare does Arin Ilejay use?', a: 'Arin Ilejay\'s snare was a Mapex Black Panther 14"x6.5", delivering the sharp, cutting backbeat that anchored "Hail to the King"\'s retro heavy metal grooves.' },
+          { q: 'What sticks does Arin Ilejay use?', a: 'Arin Ilejay used Vic Firth American Classic 5A drumsticks.' },
+          { q: 'What bass drum pedal does Arin Ilejay use?', a: 'Arin Ilejay drove his double bass patterns with a Mapex Falcon double pedal.' },
+          { q: 'What drumheads does Arin Ilejay use?', a: 'Arin Ilejay used Evans drumheads across his Mapex Saturn Series kit.' },
+          { q: 'What band is Arin Ilejay in?', a: 'Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, recording "Hail to the King" (2013), and previously drummed for post-hardcore band Confide (2006-2011).' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -7694,6 +7889,19 @@ Beyond his drumming career, Koperweis is a prolific producer and electronic arti
           'His influences span from metal to electronic dance music (Skrillex, Deadmau5)'
         ]
       },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Navene Koperweis use?', a: 'Navene Koperweis plays a DW Drums Performance Series kit — a workhorse acoustic setup that anchors his playing across Entheos, Animals as Leaders, and his session work. It\'s built around a DW Performance 14"x6.5" steel snare.' },
+          { q: 'What drum set does Navene Koperweis use?', a: 'Navene Koperweis\'s drum set pairs his DW Performance shells and steel snare with a DW 9000 Series double pedal, driving the extreme single-stroke and blast-beat passages central to his playing.' },
+          { q: 'What cymbals does Navene Koperweis play?', a: 'Navene Koperweis plays Meinl Byzance Series cymbals: 15" Dual Hi-Hats, 18" and 19" Extra Dry Medium Crashes, a 21" Transition Ride, an 18" Extra Dry China, and a 10" splash.' },
+          { q: 'What snare does Navene Koperweis use?', a: 'Navene Koperweis\'s snare is a DW Performance 14"x6.5" Steel, chosen for the sharp, cutting crack needed to hold its own against djent-tuned guitars and his own layered electronic production.' },
+          { q: 'What sticks does Navene Koperweis use?', a: 'Navene Koperweis uses Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What bass drum pedal does Navene Koperweis use?', a: 'Navene Koperweis drives his extreme single-stroke and blast-beat passages with a DW 9000 Series double pedal.' },
+          { q: 'What drumheads does Navene Koperweis use?', a: 'Navene Koperweis uses Evans drumheads across his DW Performance kit.' },
+          { q: 'What band is Navene Koperweis in?', a: 'Navene Koperweis founded Entheos in 2015 and previously drummed for Animals as Leaders (2010-2012) and Animosity (2003-2008). He has also served as a session drummer for Machine Head since 2021.' }
+        ]
+      },
       sources: {
         title: 'Sources',
         items: [
@@ -7810,6 +8018,19 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
           'His technical death metal background elevated Trivium\'s rhythmic complexity',
           'Performed first show with Trivium in February 2017 on European tour',
           'Left Trivium in October 2025 after 9 years with the band'
+        ]
+      },
+      faq: {
+        title: 'Frequently Asked Questions',
+        items: [
+          { q: 'What drum kit does Alex Bent use?', a: 'Alex Bent plays a Pearl Reference Pure Series drum kit — a setup built for the technical precision and cross-genre versatility he brought to Trivium from 2017 to 2025, after cutting his teeth in technical death metal outfits Arkaik and Brain Drill. It powered three Trivium albums: "The Sin and the Sentence" (2017), "What the Dead Men Say" (2020), and "In the Court of the Dragon" (2021).' },
+          { q: 'What drum set does Alex Bent use?', a: 'Alex Bent\'s drum set is built around a Pearl Reference 14"x5" Brass snare delivering a bright, cutting attack, driven by Axis A Longboard double pedals for his rapid double bass work.' },
+          { q: 'What cymbals does Alex Bent play?', a: 'Alex Bent plays Zildjian K Custom Hybrid cymbals: 14" K Custom Hybrid Hi-Hats, 18" and 19" K Custom Hybrid Crashes, a 21" K Custom Hybrid Ride, and an 18" A Custom China.' },
+          { q: 'What snare does Alex Bent use?', a: 'Alex Bent\'s snare is a Pearl Reference 14"x5" Brass, delivering the bright, cutting attack that drives Trivium\'s thrash-meets-technical-death-metal sound.' },
+          { q: 'What sticks does Alex Bent use?', a: 'Alex Bent uses Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What bass drum pedal does Alex Bent use?', a: 'Alex Bent drives his rapid double bass work with Axis A Longboard double pedals, mounted on a Pearl D-3000 throne.' },
+          { q: 'What drumheads does Alex Bent use?', a: 'Alex Bent uses Remo drumheads across his Pearl Reference Pure kit.' },
+          { q: 'What band is Alex Bent in?', a: 'Alex Bent drummed for Trivium from 2017 to 2025, and also drums for Eric Peterson\'s Dragonlord (since 2015) and Arkaik (since 2011).' }
         ]
       },
       sources: {

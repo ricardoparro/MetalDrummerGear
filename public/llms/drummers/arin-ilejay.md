@@ -63,17 +63,37 @@ Ilejay's time with Avenged Sevenfold coincided with their transition to a more c
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Arin Ilejay play?**
+**Q: What drum kit does Arin Ilejay use?**
 
-A: Arin Ilejay plays a Mapex Saturn Series.
+A: Arin Ilejay played a Mapex Saturn Series drum kit — the setup behind Avenged Sevenfold's "Hail to the King" (2013), the album that introduced his straightforward, classic-metal-influenced attack following Jimmy "The Rev" Sullivan's death. It centered on a Mapex Black Panther 14"x6.5" snare.
 
-**Q: What cymbals does Arin Ilejay use?**
+**Q: What drum set does Arin Ilejay use?**
 
-A: Arin Ilejay uses Zildjian (14" A Custom Mastersound Hi-Hats, 18" & 19" A Custom Crashes, 21" A Sweet Ride, 18" A Custom China).
+A: Arin Ilejay's drum set paired his Mapex Black Panther snare with a Mapex Falcon double pedal and Mapex T865 throne, anchoring the deliberately retro heavy metal grooves of "Hail to the King."
+
+**Q: What cymbals does Arin Ilejay play?**
+
+A: Arin Ilejay played Zildjian A Custom cymbals: 14" A Custom Mastersound Hi-Hats, 18" and 19" A Custom Crashes, a 21" A Sweet Ride, and an 18" A Custom China.
+
+**Q: What snare does Arin Ilejay use?**
+
+A: Arin Ilejay's snare was a Mapex Black Panther 14"x6.5", delivering the sharp, cutting backbeat that anchored "Hail to the King"'s retro heavy metal grooves.
+
+**Q: What sticks does Arin Ilejay use?**
+
+A: Arin Ilejay used Vic Firth American Classic 5A drumsticks.
+
+**Q: What bass drum pedal does Arin Ilejay use?**
+
+A: Arin Ilejay drove his double bass patterns with a Mapex Falcon double pedal.
+
+**Q: What drumheads does Arin Ilejay use?**
+
+A: Arin Ilejay used Evans drumheads across his Mapex Saturn Series kit.
 
 **Q: What band is Arin Ilejay in?**
 
-A: Arin Ilejay drums for ex-Avenged Sevenfold, a heavy metal / hard rock band.
+A: Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, recording "Hail to the King" (2013), and previously drummed for post-hardcore band Confide (2006-2011).
 
 ## Gear Evolution Timeline
 

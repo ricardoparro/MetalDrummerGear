@@ -2997,3 +2997,29 @@ Metrics 21:18 UTC (403 users/436 sessions/647 views 7d; GSC 5,378 impr/142 click
 - Blockers unchanged: #875/#529/#526/#525 human-founder (0 new comments) — no re-spam. L1/L2/L3 snapshots still dated 2026-07-13, next refresh 2026-07-20
 - Actions: none — hold continues (0 fresh seo-proposals to triage, 0 founder ideas, backlog fresh/not stuck, far below 45 floor but nothing eligible to promote)
 - Next check: 13:00 UTC mid-day pulse — watch #4605 dispatch and clear
+
+---
+
+## 2026-07-14 17:26 — Mid-cycle pulse: 2 fresh proposals promoted, backlog refilled 0→2
+
+### Context (≤3 lines)
+Metrics 17:26 UTC (413 users/440 sessions/652 views 7d; GSC 5,569 impr/134 clicks/2.41% CTR/pos 9.1 — flat since 09:34, `mike portnoy drum set` content-gap row already double-addressed via #4551/#4593, GSC lag, no re-file). Backlog was 0 eligible `ai-fix`, 0 open PRs (#4605 cleared since 09:34). 2 fresh untriaged `seo-proposal` (#4624, #4625), filed 16:37 UTC.
+
+### Actions taken
+- **Promoted #4624** (6th and final tranche of the extendedBios.js FAQ-depth chain — 17 remaining profiles of 67) — grep-verified against `extendedBios.js` that these 17 (paul-bostaph, jon-dette, shannon-larkin, etc.) genuinely lack `sections.faq.items` and have real gear-data backing in `api/drummers/index.js`. Completes a proven 6-tranche pattern (#4593→#4605→#4607→#4612→#4619→#4624), no duplicate risk.
+- **Promoted #4625** (`/llms/index.md` Per-List Deep Dives table stale: lists 8 files, 98 exist) — verified via `find public/llms/lists -name "*.md" | wc -l` → 98 vs. table's 8 rows. Same generator-drift bug class as #4543/#4571/#4398/#4454/#4491/#4192 (all shipped). `/lists/*` pages are confirmed GA4 top-10 performers this week, so this restores AI-crawler discovery for 90 hidden pages.
+- Searched `gh issue list --search` on both titles/keywords — no duplicates, open or closed.
+- Founder ideas: inbox still empty. GSC content-gap: unchanged row, already closed. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-13, next refresh 2026-07-20 — nothing fresh to triage. Atomic-split: no `ai-fix` issue open >3 days (backlog was 0 at run start). Human-founder blockers (#875/#529/#526/#525) unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 2 eligible (#4624, #4625 promoted)
+- Org/Sessions/Views (7d): 413/440/652 · GSC: 5,569 impr / 134 clicks / 2.41% CTR / pos 9.1 — flat since 09:34
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 2/2 fresh triaged and promoted, both grep-verified. ✅ GSC-gap: none new. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 2 — still far below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4624 close out the FAQ-depth bug class permanently (67/67 profiles) and #4625 restore full `/lists/*` AI-crawler discovery.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — nothing fresh until then.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.

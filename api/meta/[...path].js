@@ -50,6 +50,7 @@ import { getGearPriceHistory, formatHistoryPrice } from '../../packages/frontend
 // Ported from the dead api/meta/index.js (never wired into any rewrite/handler path).
 import { genres as GENRES, getAllGenreSlugs } from '../../packages/frontend/data/genres.js';
 import { drummerBirthdays } from '../../packages/frontend/data/birthdays.js';
+import { getExtendedBio } from '../../packages/frontend/data/extendedBios.js';
 // Issue #4268: /guides/beginner-metal-drummer-setup + /guides/budget-metal-drum-setup-{500,1000,2000}
 // were rendering title/description-only stubs (or falling through to the generic
 // /guides/<slug> fallback) with zero HowTo/FAQPage JSON-LD in bot-facing SSR.
@@ -2777,6 +2778,9 @@ function getMetaForPath(pathname) {
       // Issue #1140: prefer a query-matched override (e.g. Joey Jordison) when one
       // exists; otherwise use the generic per-drummer template.
       const override = DRUMMER_META_OVERRIDES[slug];
+      // Issue #4614: fall back to the hand-authored extendedBios metaTitle/
+      // metaDescription (unused source-of-truth copy) before the generic template.
+      const extBio = getExtendedBio(slug);
       // Issue #1163: question-led, query-matched description ("What drum kit does
       // X play?") — promotes Joey's hand-override pattern to the default template.
       const bandText = drummer.band ? `${drummer.band} ` : '';
@@ -2787,9 +2791,9 @@ function getMetaForPath(pathname) {
         .slice(0, 3);
 
       return {
-        title: override?.title || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
+        title: override?.title || extBio?.metaTitle || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
         description: truncate(
-          override?.description ||
+          override?.description || extBio?.metaDescription ||
             `What drum kit does ${drummer.name} play? The ${bandText}drummer's ${brandsText} setup — full gear breakdown with videos, specs, and prices.`,
           160
         ),

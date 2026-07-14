@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/tomas-haake"
 source: "https://metalforge.io"
-last_updated: "2026-07-12"
+last_updated: "2026-07-14"
 ---
 
 # Tomas Haake — Drum Kit & Gear Setup
@@ -63,14 +63,6 @@ See the [Tomas Haake vs Gene Hoglan](/vs/gene-hoglan-vs-tomas-haake) comparison 
 
 ## Frequently Asked Questions
 
-**Q: What drum kit does Tomas Haake use?**
-
-A: Tomas Haake uses a Sonor SQ2 Heavy Beech drum kit configured with a 24x18" bass drum, multiple toms (10", 12", 13", 16", 18"), dual Sonor Tomas Haake Signature snares (14x6.5"), Sabian HHX and AAX Series cymbals, and two independent Tama Speed Cobra single pedals.
-
-**Q: What drum set does Tomas Haake use?**
-
-A: Tomas Haake's drum set is a Sonor SQ2 Heavy Beech configured for Meshuggah's extreme polyrhythmic compositions. His drum set uses dual signature snares, Sabian HHX/AAX cymbals, and two single bass drum pedals — an unconventional setup that gives him greater independence between his feet for the complex kick patterns Meshuggah demands.
-
 **Q: What drums does Tomas Haake play?**
 
 A: Tomas plays Sonor SQ2 Heavy Beech drums with Sabian cymbals and two single bass pedals.
@@ -90,6 +82,26 @@ A: Djent drumming features polyrhythmic patterns over a 4/4 foundation, pioneere
 **Q: Is Tomas Haake in Meshuggah?**
 
 A: Yes, Tomas has been Meshuggah's drummer and lyricist since 1990.
+
+**Q: What drum kit does Tomas Haake use?**
+
+A: Tomas Haake's drum kit is a Sonor SQ2 Heavy Beech kit (24"x18" bass drum with toms up to 18"), built around his signature Sonor Tomas Haake 14"x6.5" snare. Instead of a double pedal, the drum kit uses two separate Tama Speed Cobra single pedals for independent foot control, topped with Sabian HHX and AAX cymbals including his signature Compression Hi-Hats.
+
+**Q: What drum set does Tomas Haake use?**
+
+A: Tomas Haake's drum set is a Sonor SQ2 Heavy Beech configuration centered on his Sonor Tomas Haake Signature 14"x6.5" snare and an Artist Series Bronze snare. The drum set is driven by two independent Tama Speed Cobra single pedals rather than a double pedal, seated on a Porter & Davies BC2 throne that vibrates in sync with the kick for tactile monitoring.
+
+**Q: What cymbals does Tomas Haake use?**
+
+A: Tomas Haake uses Sabian HHX and AAX series cymbals, including his signature Sabian Compression Hi-Hats, chosen for their quick, tight response in Meshuggah's polyrhythmic passages.
+
+**Q: What pedals does Tomas Haake use?**
+
+A: Tomas Haake uses two separate Tama Speed Cobra single bass drum pedals instead of a traditional double pedal, giving him full independence between his feet to play different rhythmic patterns simultaneously.
+
+**Q: What snare drum does Tomas Haake use?**
+
+A: Tomas Haake plays a Sonor Tomas Haake Signature 14"x6.5" snare drum, along with a Sonor Artist Series Bronze snare for added tonal variety.
 
 ## Quotes
 
@@ -147,4 +159,4 @@ Full breakdown: [Tomas Haake's pedal setup](https://metalforge.io/pedals/setups/
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-12 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*

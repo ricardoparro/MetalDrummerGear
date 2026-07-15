@@ -10,6 +10,14 @@
  * Data sources:
  *   packages/frontend/data/soundLikeGuides.js  — SOUND_LIKE_GUIDES export
  *   packages/frontend/data/beginnerGuides.js   — BEGINNER_GUIDES export
+ *   packages/frontend/data/genreGearGuides.js  — GENRE_GEAR_GUIDES export
+ *
+ * Issue #4700: GENRE_GEAR_GUIDES powers 278 public/llms/guides/best-*.md mirror
+ * files (written by generate-llms-genre-gear-guides.cjs) that this hub had zero
+ * awareness of, leaving 114 of them with no inbound link from anywhere under
+ * public/llms/. This adds a "Genre Gear Guides" index section, grouped by
+ * genre, linking every one of the 278 mirrors — same fix pattern as #4676
+ * (drummers-using-* series files indexed into gear-comparison.md).
  */
 
 const fs = require('fs');
@@ -81,9 +89,38 @@ try {
   };
 }
 
+// ── Extract GENRE_GEAR_GUIDES ────────────────────────────────────────────────
+const genreGearPath = path.join(__dirname, '../packages/frontend/data/genreGearGuides.js');
+const genreGearContent = fs.readFileSync(genreGearPath, 'utf-8');
+
+const genreGearMatch = genreGearContent.match(/export const GENRE_GEAR_GUIDES\s*=\s*(\{[\s\S]*\n\});/);
+if (!genreGearMatch) {
+  console.error('Could not extract GENRE_GEAR_GUIDES from genreGearGuides.js');
+  process.exit(1);
+}
+
+let GENRE_GEAR_GUIDES;
+try {
+  GENRE_GEAR_GUIDES = eval('(' + genreGearMatch[1] + ')');
+} catch (e) {
+  console.error('Error parsing GENRE_GEAR_GUIDES:', e);
+  process.exit(1);
+}
+
 // ── Helpers ──────────────────────────────────────────────────────────────────
 function guideUrl(slug) {
   return `${BASE}/guides/${slug}`;
+}
+
+function guideMirrorUrl(slug) {
+  return `${BASE}/llms/guides/${slug}.md`;
+}
+
+function humanizeGenre(genre) {
+  return genre
+    .split('-')
+    .map((w) => (w.length ? w[0].toUpperCase() + w.slice(1) : w))
+    .join(' ');
 }
 
 function renderSoundLikeGuide(g) {
@@ -173,6 +210,16 @@ function renderBeginnerGuide(g) {
 // ── Build document ────────────────────────────────────────────────────────────
 const soundLikeList = Object.values(SOUND_LIKE_GUIDES).sort((a, b) => (a.priority || 99) - (b.priority || 99));
 const beginnerList = Object.values(BEGINNER_GUIDES).sort((a, b) => (a.priority || 99) - (b.priority || 99));
+const genreGearList = Object.values(GENRE_GEAR_GUIDES).sort((a, b) => a.slug.localeCompare(b.slug));
+
+// Group genre gear guides by genre for a readable index
+const genreGearByGenre = new Map();
+for (const g of genreGearList) {
+  const key = g.genre || 'other';
+  if (!genreGearByGenre.has(key)) genreGearByGenre.set(key, []);
+  genreGearByGenre.get(key).push(g);
+}
+const sortedGenres = [...genreGearByGenre.keys()].sort();
 
 const lines = [];
 
@@ -226,6 +273,23 @@ for (const g of beginnerList) {
 
 lines.push('---');
 lines.push('');
+
+// ── Part 4: Genre gear guides ─────────────────────────────────────────────────
+lines.push(`## Genre Gear Guides`);
+lines.push('');
+lines.push(`${genreGearList.length} "best gear for genre" guides — each covers pro recommendations, budget options, and a head-to-head comparison for a specific gear type within a metal subgenre. Full breakdowns are published as standalone LLM markdown mirrors, linked below.`);
+lines.push('');
+for (const genre of sortedGenres) {
+  const entries = genreGearByGenre.get(genre).slice().sort((a, b) => a.title.localeCompare(b.title));
+  lines.push(`### ${humanizeGenre(genre)}`);
+  lines.push('');
+  for (const g of entries) {
+    lines.push(`- [${g.title}](${guideMirrorUrl(g.slug)}) · [page](${guideUrl(g.slug)})`);
+  }
+  lines.push('');
+}
+lines.push('---');
+lines.push('');
 lines.push(`**More LLM resources:** [Site index](${BASE}/llms.txt) · [Full database](${BASE}/llms-full.txt) · [Techniques reference](${BASE}/llms/techniques.md) · [Gear guide](${BASE}/llms/gear-guide.md) · [Drummer index](${BASE}/llms/index.md)`);
 
 // ── Write file ────────────────────────────────────────────────────────────────
@@ -235,4 +299,4 @@ fs.mkdirSync(path.dirname(outPath), { recursive: true });
 fs.writeFileSync(outPath, out);
 
 const wordCount = out.split(/\s+/).filter(Boolean).length;
-console.log(`Wrote ${outPath} (${soundLikeList.length} sound-like guides, ${beginnerList.length} beginner guides, ${wordCount} words)`);
+console.log(`Wrote ${outPath} (${soundLikeList.length} sound-like guides, ${beginnerList.length} beginner guides, ${genreGearList.length} genre gear guides, ${wordCount} words)`);

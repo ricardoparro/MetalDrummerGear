@@ -431,6 +431,18 @@ function _brandConfirmedDrummerLinks(entries, pathPrefix, max = 4) {
   return links;
 }
 
+// Issue #4650: dedupes an ssrLinks array by href — the same drummer can appear
+// more than once in a gear list (e.g. multiple confirmed snares), and we only
+// want one crawlable link per target URL.
+function _dedupeLinksByHref(links) {
+  const seen = new Set();
+  return links.filter(l => {
+    if (seen.has(l.href)) return false;
+    seen.add(l.href);
+    return true;
+  });
+}
+
 // Helper: Get primary brands from gear
 function getPrimaryBrands(gear) {
   if (!gear) return [];
@@ -4021,6 +4033,12 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url,
+      // Issue #4650: crawlable links to every signature stick page — the
+      // bot-facing shell previously had zero outbound links from this hub.
+      ssrLinks: _dedupeLinksByHref(DRUMSTICKS.map(stick => ({
+        href: `/drumsticks/signature/${stick.drummerSlug}`,
+        label: `${stick.brand} ${stick.model} — ${stick.drummerSlug}`,
+      }))),
       articleSchema: JSON.stringify([
         generateDrumstickArticleSchema(PILLAR_PAGE, url),
         itemListSchema,
@@ -4181,6 +4199,12 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url,
+      // Issue #4650: crawlable links to every drummer's cymbal setup — the
+      // bot-facing shell previously had zero outbound links from this hub.
+      ssrLinks: _dedupeLinksByHref(CYMBAL_SETUPS.map(setup => ({
+        href: `/drummer/${setup.drummerSlug}`,
+        label: `${setup.brands.join(' & ')} cymbal setup — ${setup.drummerSlug}`,
+      }))),
       articleSchema: JSON.stringify([
         generateCymbalArticleSchema(CYMBAL_PILLAR_PAGE, url),
         itemListSchema,
@@ -4330,6 +4354,12 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url,
+      // Issue #4650: crawlable links to every drummer's snare setup — the
+      // bot-facing shell previously had zero outbound links from this hub.
+      ssrLinks: _dedupeLinksByHref(SNARES.map(snare => ({
+        href: `/drummer/${snare.drummerSlug}`,
+        label: `${snare.brand ? `${snare.brand} ` : ''}${snare.model || snare.summary} — ${snare.drummerSlug}`,
+      }))),
       articleSchema: JSON.stringify([
         generateSnareArticleSchema(SNARE_PILLAR_PAGE, url),
         itemListSchema,
@@ -4475,6 +4505,12 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url,
+      // Issue #4650: crawlable links to every drummer's pedal setup — the
+      // bot-facing shell previously had zero outbound links from this hub.
+      ssrLinks: _dedupeLinksByHref(PEDALS.map(pedal => ({
+        href: `/drummer/${pedal.drummerSlug}`,
+        label: `${pedal.brand ? `${pedal.brand} ` : ''}${pedal.model || pedal.summary} — ${pedal.drummerSlug}`,
+      }))),
       articleSchema: JSON.stringify([
         generatePedalArticleSchema(PEDAL_PILLAR_PAGE, url),
         itemListSchema,

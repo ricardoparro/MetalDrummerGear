@@ -13,9 +13,6 @@ The metal breakdown beat is deceptively simple in concept and surprisingly nuanc
 
 This guide teaches you the breakdown beat from the ground up: the half-time feel, the kick patterns, the dynamic buildup, and the specific approaches of Pantera, Lamb of God, and Slayer.
 
-## Gear Breakdown
-
-
 ## Key Facts
 
 - The half-time feel places the snare on beat 3 rather than beats 2 and 4, creating a sense of double-speed slowdown
@@ -42,4 +39,4 @@ A: Three things make breakdown beats heavy: (1) Dynamic contrast — come from a
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

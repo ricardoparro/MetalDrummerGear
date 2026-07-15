@@ -3,7 +3,7 @@
 > Released the morning of September 11, 2001, Slayer's God Hates Us All marked the band's last album before Dave Lombardo's return on Christ Illusion. Complete gear breakdown of the Tama Starclassic Maple kit, Iron Cobra pedals, and the Matt Hyde production at The Warehouse Studio, Vancouver.
 
 **Type:** Album Drum Setup
-**Drummer(s):** Paul Bostaph
+**Drummer(s):** [Paul Bostaph](/llms/drummers/paul-bostaph.md)
 **Band / Album:** Slayer — *God Hates Us All* (2001)
 **Genre:** Thrash Metal
 
@@ -95,4 +95,4 @@ A: God Hates Us All debuted and peaked at #28 on the Billboard 200 — Slayer's 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

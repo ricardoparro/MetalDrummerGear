@@ -75,4 +75,4 @@ A: Yes. The Pearl Joey Jordison Signature snare and Promark TX515W signature sti
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-13 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

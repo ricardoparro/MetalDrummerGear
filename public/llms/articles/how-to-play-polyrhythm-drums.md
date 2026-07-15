@@ -13,9 +13,6 @@ Brann Dailor of Mastodon is one of the most melodic polyrhythmic drummers in met
 
 This tutorial builds the polyrhythmic vocabulary step by step: understanding what polyrhythm is, learning to feel 3 against 4, applying odd meters in metal contexts, and studying specific patterns from Brann Dailor, Danny Carey, and Tomas Haake.
 
-## Gear Breakdown
-
-
 ## Key Facts
 
 - Polyrhythm places two or more contrasting rhythm patterns simultaneously — the most common in metal is 3 against 4
@@ -42,4 +39,4 @@ A: "Schism" by Tool is the classic entry point for odd time signatures in metal 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

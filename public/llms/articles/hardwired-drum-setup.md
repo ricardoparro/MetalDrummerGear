@@ -110,4 +110,4 @@ A: Hardwired sits in a clear lineage with Death Magnetic but represents an evolu
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

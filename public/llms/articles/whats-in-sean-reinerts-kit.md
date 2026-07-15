@@ -3,7 +3,7 @@
 > Remembering Sean Reinert (1971-2020), the visionary drummer who brought jazz vocabulary to extreme metal. Explore his legendary setups from Death's 'Human' to Cynic's 'Focus' — the gear behind the genre's most innovative drummer.
 
 **Type:** Kit Breakdown
-**Drummer(s):** Sean Reinert
+**Drummer(s):** [Sean Reinert](/llms/drummers/sean-reinert.md)
 **Band / Album:** Cynic / Death
 **Genre:** Progressive Death Metal / Jazz Fusion Metal
 
@@ -118,4 +118,4 @@ A: Because Sean Reinert used different brands at different points in his career,
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

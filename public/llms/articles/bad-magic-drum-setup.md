@@ -83,8 +83,12 @@ A: "Thunder & Lightning," from *Bad Magic*, is closely associated with a Grammy 
 
 A: Across 23 years, Dee moved from Tama Artstar II/Swingstar drums and Paiste Giant Beat/2002 cymbals on [*Bastards*](/articles/bastards-drum-setup) to a Pearl Reference Series kit with Zildjian A Custom/K Custom Dark cymbals by *Bad Magic*. The fundamentals stayed constant — a 22" bass drum, a 14" x 6.5" steel snare, and a bright-cymbal-plus-China setup — but the hardware became more refined and arena-ready as Motörhead's stages grew larger. See the [full evolution breakdown](/articles/whats-in-mikkey-dees-kit) for the complete gear timeline.
 
+**Q: What is the complete Mikkey Dee / Motörhead album arc, from debut to Bad Magic?**
+
+A: Mikkey Dee's Motörhead studio discography runs, in order: [*Bastards*](/articles/bastards-drum-setup) (1993) → [*Sacrifice*](/articles/sacrifice-drum-setup) (1995) → [*Overnight Sensation*](/articles/overnight-sensation-drum-setup) (1996) → [*Inferno*](/articles/inferno-drum-setup) (2004) → [*Kiss of Death*](/articles/kiss-of-death-drum-setup) (2006) → [*Motörizer*](/articles/motorizer-drum-setup) (2008) → [*The Wörld Is Yours*](/articles/the-world-is-yours-drum-setup) (2010) → [*Aftershock*](/articles/aftershock-drum-setup) (2013) → *Bad Magic* (2015). *Bad Magic* closes the arc: the Tama/Paiste setup that opened it on *Bastards* gave way to the Pearl Reference/Zildjian configuration finalized on *Aftershock*, which then carried unchanged into this final record. See the [Mikkey Dee drummer profile](/drummer/mikkey-dee) for the complete career picture, including his later Scorpions years.
+
 **Source:** https://metalforge.io/articles/bad-magic-drum-setup
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

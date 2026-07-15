@@ -3,7 +3,7 @@
 > Paul Bostaph's drum setup on Slayer's Repentless (2015) — the band's twelfth and final studio album, closing his return-era arc after God Hates Us All (2001). Pearl Masters Maple Complete drums, Sabian AAX cymbals, and the Terry Date production at Henson Recording Studios, Los Angeles.
 
 **Type:** Album Drum Setup
-**Drummer(s):** Paul Bostaph
+**Drummer(s):** [Paul Bostaph](/llms/drummers/paul-bostaph.md)
 **Band / Album:** Slayer — *Repentless* (2015)
 **Genre:** Thrash Metal
 
@@ -87,4 +87,4 @@ A: Repentless debuted at #4 on the Billboard 200 — the highest chart position 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

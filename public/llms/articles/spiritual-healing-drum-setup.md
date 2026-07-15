@@ -3,7 +3,7 @@
 > Complete breakdown of Sean Reinert's drum gear on Death's Spiritual Healing (1990). The Pearl Export kit, Zildjian A cymbals, and Pearl P-100P twin pedals behind the album that bridged Chuck Schuldiner's thrash-death roots with the progressive landmark Human.
 
 **Type:** Album Drum Setup
-**Drummer(s):** Sean Reinert
+**Drummer(s):** [Sean Reinert](/llms/drummers/sean-reinert.md)
 **Band / Album:** Death — *Spiritual Healing* (1990)
 **Genre:** Death Metal
 
@@ -94,4 +94,4 @@ A: Before his DW endorsement, Sean Reinert used Pearl equipment. On Spiritual He
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

@@ -15,9 +15,6 @@ This guide covers exactly what's still available from Joey's rig, what has been 
 
 For a deep dive into Joey's gear by era, see the [full Joey Jordison kit breakdown](/articles/whats-in-joey-jordisons-kit). For the specific gear used on the Iowa album, read the [Iowa drum setup article](/articles/iowa-drum-setup). And for Joey's complete biography and career timeline, visit the [Joey Jordison drummer profile](/drummer/joey-jordison).
 
-## Gear Breakdown
-
-
 ## Key Facts
 
 - Pearl Joey Jordison Signature Snare (JJ1365) still in production
@@ -53,4 +50,4 @@ A: Joey Jordison's Iowa-era Pearl Masterworks Custom kits (2000–2004 vintage) 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

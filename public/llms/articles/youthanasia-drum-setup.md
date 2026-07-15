@@ -3,7 +3,7 @@
 > Inside Nick Menza's drum kit on Megadeth's 1994 Youthanasia: the Tama Artstar II configuration, Bell Brass snare, Paiste 2002 cymbal arsenal, and the Phase Four Studios sessions that produced the band's most refined recording.
 
 **Type:** Album Drum Setup
-**Drummer(s):** Nick Menza
+**Drummer(s):** [Nick Menza](/llms/drummers/nick-menza.md)
 **Band / Album:** Megadeth — *Youthanasia* (1994)
 **Genre:** Thrash Metal
 
@@ -110,4 +110,4 @@ A: The 1994 sessions caught Menza in a transition between the Tama Camco pedals 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

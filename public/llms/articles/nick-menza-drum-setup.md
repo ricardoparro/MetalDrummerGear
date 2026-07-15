@@ -3,7 +3,7 @@
 > Complete breakdown of Nick Menza's drum kit and gear with Megadeth. Pearl Masters kit, Zildjian cymbals, Tama Iron Cobra pedals — the full gear guide for thrash metal's most musical drummer across Rust in Peace, Countdown to Extinction, and Youthanasia.
 
 **Type:** Kit Breakdown
-**Drummer(s):** Nick Menza
+**Drummer(s):** [Nick Menza](/llms/drummers/nick-menza.md)
 **Band / Album:** Megadeth
 **Genre:** Thrash Metal
 
@@ -103,4 +103,4 @@ A: Nick Menza's jazz education — he was the son of jazz saxophonist Don Menza 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

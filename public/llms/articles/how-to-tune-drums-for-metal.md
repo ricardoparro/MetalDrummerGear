@@ -13,9 +13,6 @@ Joey Jordison's Slipknot snare has one of the most recognizable sounds in nu-met
 
 These three drummers prove that metal drum tuning is not one-size-fits-all. It depends on the specific subgenre, the guitar tone, the recording or PA environment, and the player's aesthetic. This guide walks you through the tuning principles that apply across all metal contexts, then explains how to adapt them for your style.
 
-## Gear Breakdown
-
-
 ## Key Facts
 
 - Snare tuning for metal: medium-high tension gives the crack and sustain cut needed to slice through guitars
@@ -42,4 +39,4 @@ A: For bass drum: Evans EMAD, Remo Powerstroke 3, or Aquarian Super-Kick are the
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

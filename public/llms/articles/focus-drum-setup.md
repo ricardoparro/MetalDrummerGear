@@ -3,7 +3,7 @@
 > Discover the drum kit and gear Sean Reinert used to record Cynic's landmark Focus album — the progressive death metal record that merged jazz fusion with extreme metal.
 
 **Type:** Album Drum Setup
-**Drummer(s):** Sean Reinert
+**Drummer(s):** [Sean Reinert](/llms/drummers/sean-reinert.md)
 **Band / Album:** Cynic — *Focus* (1993)
 **Genre:** Progressive Death Metal / Jazz Fusion
 
@@ -91,4 +91,4 @@ A: Cynic's Focus (1993) was recorded at Morrisound Recording in Tampa, Florida, 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

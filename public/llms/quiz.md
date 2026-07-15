@@ -5,13 +5,13 @@
 
 ## Overview
 
-The MetalForge Metal Drummer Quiz matches your drumming preferences and style traits against profiles of 60+ legendary metal drummers. Takes 2–3 minutes; returns a matched drummer, their gear setup, and a link to their full profile. If you have ever wondered "Which metal drummer am I most like?" or "What is the MetalForge quiz?", this is the tool — answer eight to ten questions about tempo, genre, and technique, and the quiz maps your answers to a drummer in MetalForge's database.
+The MetalForge Metal Drummer Quiz matches your drumming preferences and style traits against profiles of 67 legendary metal drummers. Takes 2–3 minutes; returns a matched drummer, their gear setup, and a link to their full profile. If you have ever wondered "Which metal drummer am I most like?" or "What is the MetalForge quiz?", this is the tool — answer eight to ten questions about tempo, genre, and technique, and the quiz maps your answers to a drummer in MetalForge's database.
 
 ## How It Works
 
 1. Answer 8–10 questions about tempo preference, genre taste, and playing style
 2. Answers map to drummer traits: speed, precision, groove, creativity, power
-3. Trait profile matched against MetalForge's 60+ drummer database
+3. Trait profile matched against MetalForge's 67 drummer database
 4. Result: your matched drummer + signature kit + career highlights + profile link
 
 ## Sample Questions
@@ -23,7 +23,7 @@ The MetalForge Metal Drummer Quiz matches your drumming preferences and style tr
 - Approach to fills: sparse and purposeful, or dense and acrobatic?
 - Role models: traditional heavy-metal icons or modern technical pioneers?
 
-## Possible Results (sample — 60+ total)
+## Possible Results (sample — 67 total)
 
 - **Joey Jordison (Slipknot)** — high-speed, double-bass-heavy, theatrical; one of nu-metal's most recognisable kits
 - **Lars Ulrich (Metallica)** — groove-first, thrash roots, power over pure speed; songwriting-driven drumming
@@ -53,10 +53,10 @@ The final match is the drummer whose trait vector has the smallest Euclidean dis
 ## FAQ
 
 **Q: What is the MetalForge Metal Drummer Quiz?**
-A: It is a free, interactive personality quiz on MetalForge that identifies which legendary metal drummer best matches your playing style and preferences, drawing from a database of 60+ professional drummers.
+A: It is a free, interactive personality quiz on MetalForge that identifies which legendary metal drummer best matches your playing style and preferences, drawing from a database of 67 professional drummers.
 
 **Q: How many drummers can I match with?**
-A: Any of MetalForge's 60+ featured metal drummers — from thrash legends like Lars Ulrich and Dave Lombardo to technical death metal specialists like George Kollias.
+A: Any of MetalForge's 67 featured metal drummers — from thrash legends like Lars Ulrich and Dave Lombardo to technical death metal specialists like George Kollias.
 
 **Q: Is the quiz free?**
 A: Yes — fully free, no account required. Take it directly at https://metalforge.io/quiz without signing up.
@@ -75,7 +75,7 @@ A: Your matched drummer's name, band, signature gear setup (kit, snare, cymbals)
 
 ## Related Resources
 
-- [Full Drummer Database](https://metalforge.io/drummers) — browse all 60+ metal drummer profiles
+- [Full Drummer Database](https://metalforge.io/drummers) — browse all 67 metal drummer profiles
 - [Metal Drummer Gear Guide](https://metalforge.io/llms/gear-guide.md) — complete guide to metal drumming equipment
 - [Metal Drummer FAQ](https://metalforge.io/llms/faq.md) — common questions about metal drummers and their gear
 - [Kit Quiz — find your perfect drum kit](https://metalforge.io/kit-quiz) — companion quiz focused on gear selection

@@ -4,7 +4,7 @@
 > Optimised for AI crawlers answering "Tama vs Pearl metal", "best cymbals for metal",
 > and brand matchup queries.
 >
-> Last updated: 2026-07-11 · 12 curated gear comparisons
+> Last updated: 2026-07-15 · 26 gear comparisons and series guides (12 curated comparisons + 14 kit series guides)
 
 ---
 
@@ -24,6 +24,27 @@
 | Sabian vs Meinl Cymbals | Cymbals | [sabian-vs-meinl.md](https://metalforge.io/llms/gear-comparison/sabian-vs-meinl.md) |
 | Ludwig vs Tama Drums | Drums | [ludwig-vs-tama.md](https://metalforge.io/llms/gear-comparison/ludwig-vs-tama.md) |
 | Ludwig vs DW Drums | Drums | [ludwig-vs-dw.md](https://metalforge.io/llms/gear-comparison/ludwig-vs-dw.md) |
+
+## Kit Comparisons by Series
+
+Which metal drummers use a specific drum kit, snare, or drumhead series — one guide per series.
+
+| Series Guide | File |
+|--------------|------|
+| DW Collector's Maple Drummers | [drummers-using-dw-collectors-maple.md](https://metalforge.io/llms/gear-comparison/drummers-using-dw-collectors-maple.md) |
+| DW Performance Maple Drummers | [drummers-using-dw-performance-maple.md](https://metalforge.io/llms/gear-comparison/drummers-using-dw-performance-maple.md) |
+| Evans Drumheads | [drummers-using-evans.md](https://metalforge.io/llms/gear-comparison/drummers-using-evans.md) |
+| Gretsch USA Custom Drummers | [drummers-using-gretsch-usa-custom.md](https://metalforge.io/llms/gear-comparison/drummers-using-gretsch-usa-custom.md) |
+| Ludwig Classic Maple Drummers | [drummers-using-ludwig-classic-maple.md](https://metalforge.io/llms/gear-comparison/drummers-using-ludwig-classic-maple.md) |
+| Mapex Armory Drummers | [drummers-using-mapex-armory.md](https://metalforge.io/llms/gear-comparison/drummers-using-mapex-armory.md) |
+| Pearl Masters Maple Drummers | [drummers-using-pearl-masters-maple.md](https://metalforge.io/llms/gear-comparison/drummers-using-pearl-masters-maple.md) |
+| Pearl Reference Pure Drummers | [drummers-using-pearl-reference-pure.md](https://metalforge.io/llms/gear-comparison/drummers-using-pearl-reference-pure.md) |
+| Remo Drumheads | [drummers-using-remo.md](https://metalforge.io/llms/gear-comparison/drummers-using-remo.md) |
+| Sonor SQ2 Drummers | [drummers-using-sonor-sq2.md](https://metalforge.io/llms/gear-comparison/drummers-using-sonor-sq2.md) |
+| Sonor Vintage Drummers | [drummers-using-sonor-vintage.md](https://metalforge.io/llms/gear-comparison/drummers-using-sonor-vintage.md) |
+| Tama Star Classic Maple Drummers | [drummers-using-tama-star-classic-maple.md](https://metalforge.io/llms/gear-comparison/drummers-using-tama-star-classic-maple.md) |
+| Tama Superstar Classic Drummers | [drummers-using-tama-superstar-classic.md](https://metalforge.io/llms/gear-comparison/drummers-using-tama-superstar-classic.md) |
+| Yamaha Recording Custom Drummers | [drummers-using-yamaha-recording-custom.md](https://metalforge.io/llms/gear-comparison/drummers-using-yamaha-recording-custom.md) |
 
 ---
 
@@ -214,5 +235,139 @@ Compare Ludwig Classic Maple and DW Collector's Series drums for metal. Vintage 
 **Verdict:** DW Collector's Series is the proven, modern-metal-ready choice for drummers who want studio-grade shell matching and are willing to pay a premium for it. Ludwig Classic Maple is the value and heritage pick for drummers who want classic American tone …
 
 [Full comparison → /compare/ludwig-vs-dw](https://metalforge.io/compare/ludwig-vs-dw) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/ludwig-vs-dw.md)
+
+---
+
+## DW Collector's Maple Drummers
+
+**Category:** Kit Series Guide · **URL:** https://metalforge.io/gear/dw/collectors-maple/drummers-using
+
+MetalForge's guide to professional metal drummers who play the DW Collector's Maple drum kit.
+
+[Full guide → /gear/dw/collectors-maple/drummers-using](https://metalforge.io/gear/dw/collectors-maple/drummers-using) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-dw-collectors-maple.md)
+
+---
+
+## DW Performance Maple Drummers
+
+
+MetalForge's guide to pro metal drummers who play the DW Performance Maple drum kit.
+
+[LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-dw-performance-maple.md)
+
+---
+
+## Evans Drumheads
+
+**Category:** Kit Series Guide · **URL:** https://metalforge.io/gear/evans/all-drumheads/drummers-using
+
+MetalForge's guide to the professional metal drummers who play Evans drumheads.
+
+[Full guide → /gear/evans/all-drumheads/drummers-using](https://metalforge.io/gear/evans/all-drumheads/drummers-using) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-evans.md)
+
+---
+
+## Gretsch USA Custom Drummers
+
+**Category:** Kit Series Guide · **URL:** https://metalforge.io/gear/gretsch
+
+MetalForge's guide to professional metal drummers who play the Gretsch USA Custom drum kit.
+
+[Full guide → /gear/gretsch](https://metalforge.io/gear/gretsch) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-gretsch-usa-custom.md)
+
+---
+
+## Ludwig Classic Maple Drummers
+
+
+MetalForge's guide to pro metal drummers who play the Ludwig Classic Maple drum kit.
+
+[LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-ludwig-classic-maple.md)
+
+---
+
+## Mapex Armory Drummers
+
+**Category:** Kit Series Guide · **URL:** https://metalforge.io/gear/mapex
+
+MetalForge's guide to professional metal drummers who play the Mapex Armory drum kit.
+
+[Full guide → /gear/mapex](https://metalforge.io/gear/mapex) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-mapex-armory.md)
+
+---
+
+## Pearl Masters Maple Drummers
+
+
+MetalForge's guide to pro metal drummers who play the Pearl Masters Maple drum kit.
+
+[LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-pearl-masters-maple.md)
+
+---
+
+## Pearl Reference Pure Drummers
+
+**Category:** Kit Series Guide · **URL:** https://metalforge.io/gear/pearl/reference-pure/drummers-using
+
+MetalForge's guide to professional metal drummers who play the Pearl Reference Pure drum kit.
+
+[Full guide → /gear/pearl/reference-pure/drummers-using](https://metalforge.io/gear/pearl/reference-pure/drummers-using) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-pearl-reference-pure.md)
+
+---
+
+## Remo Drumheads
+
+**Category:** Kit Series Guide · **URL:** https://metalforge.io/gear/remo/all-drumheads/drummers-using
+
+MetalForge's guide to the professional metal drummers who play Remo drumheads.
+
+[Full guide → /gear/remo/all-drumheads/drummers-using](https://metalforge.io/gear/remo/all-drumheads/drummers-using) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-remo.md)
+
+---
+
+## Sonor SQ2 Drummers
+
+**Category:** Kit Series Guide · **URL:** https://metalforge.io/gear/sonor
+
+MetalForge's guide to professional metal drummers who play the Sonor SQ2 drum kit.
+
+[Full guide → /gear/sonor](https://metalforge.io/gear/sonor) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-sonor-sq2.md)
+
+---
+
+## Sonor Vintage Drummers
+
+
+MetalForge's guide to pro metal drummers who play the Sonor Vintage drum kit.
+
+[LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-sonor-vintage.md)
+
+---
+
+## Tama Star Classic Maple Drummers
+
+**Category:** Kit Series Guide · **URL:** https://metalforge.io/gear/tama/star-classic-maple/drummers-using
+
+MetalForge's guide to professional metal drummers who play the Tama Star Classic Maple drum kit.
+
+[Full guide → /gear/tama/star-classic-maple/drummers-using](https://metalforge.io/gear/tama/star-classic-maple/drummers-using) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-tama-star-classic-maple.md)
+
+---
+
+## Tama Superstar Classic Drummers
+
+
+MetalForge's guide to pro metal drummers who play the Tama Superstar Classic drum kit.
+
+[LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-tama-superstar-classic.md)
+
+---
+
+## Yamaha Recording Custom Drummers
+
+
+MetalForge's guide to pro metal drummers who play the Yamaha Recording Custom drum kit.
+
+[LLM Markdown](https://metalforge.io/llms/gear-comparison/drummers-using-yamaha-recording-custom.md)
 
 ---

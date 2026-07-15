@@ -272,6 +272,27 @@ function formatUsedByShort(usedBy) {
   return usedBy.map(u => (typeof u === 'string' ? u : (u.name || ''))).filter(Boolean).join(', ');
 }
 
+// Also index the `drummers-using-*.md` files that live in the same output
+// directory (written by a separate process) so the hub reflects every file
+// actually present on disk, not just the 12 curated comparisons.
+const seriesFiles = fs.readdirSync(outDir)
+  .filter(f => f.startsWith('drummers-using-') && f.endsWith('.md'))
+  .sort();
+
+const seriesEntries = seriesFiles.map(filename => {
+  const raw = fs.readFileSync(path.join(outDir, filename), 'utf-8');
+  const h1Match = raw.match(/^#\s+(.+)$/m);
+  const title = h1Match ? h1Match[1].replace(/\s*—\s*Which Metal Drummers Use.*$/i, '').trim() : filename;
+  const descMatch = raw.match(/^>\s*(?!Last updated:)(.+)$/m);
+  const description = descMatch ? descMatch[1].trim() : '';
+  const urlMatch = raw.match(/\((https:\/\/metalforge\.io\/gear\/[^)]+)\)/);
+  const pageUrl = urlMatch ? urlMatch[1] : '';
+  const slug = filename.replace(/\.md$/, '');
+  return { title, description, pageUrl, slug };
+});
+
+const totalFiles = comparisons.length + seriesEntries.length;
+
 const hubLines = [
   '# Metal Gear Brand Comparisons — MetalForge',
   '',
@@ -279,7 +300,7 @@ const hubLines = [
   '> Optimised for AI crawlers answering "Tama vs Pearl metal", "best cymbals for metal",',
   '> and brand matchup queries.',
   '>',
-  `> Last updated: ${today} · ${comparisons.length} curated gear comparisons`,
+  `> Last updated: ${today} · ${totalFiles} gear comparisons and series guides (${comparisons.length} curated comparisons + ${seriesEntries.length} kit series guides)`,
   '',
   '---',
   '',
@@ -292,6 +313,18 @@ const hubLines = [
 for (const c of comparisons) {
   const catLabel = getCategoryLabel(c);
   hubLines.push(`| ${c.title} | ${catLabel} | [${c.slug}.md](https://metalforge.io/llms/gear-comparison/${c.slug}.md) |`);
+}
+
+hubLines.push('');
+hubLines.push('## Kit Comparisons by Series');
+hubLines.push('');
+hubLines.push('Which metal drummers use a specific drum kit, snare, or drumhead series — one guide per series.');
+hubLines.push('');
+hubLines.push('| Series Guide | File |');
+hubLines.push('|--------------|------|');
+
+for (const s of seriesEntries) {
+  hubLines.push(`| ${s.title} | [${s.slug}.md](https://metalforge.io/llms/gear-comparison/${s.slug}.md) |`);
 }
 
 hubLines.push('');
@@ -332,8 +365,26 @@ for (const c of comparisons) {
   hubLines.push('');
 }
 
+for (const s of seriesEntries) {
+  hubLines.push(`## ${s.title}`);
+  hubLines.push('');
+  if (s.pageUrl) hubLines.push(`**Category:** Kit Series Guide · **URL:** ${s.pageUrl}`);
+  hubLines.push('');
+  if (s.description) {
+    hubLines.push(s.description);
+    hubLines.push('');
+  }
+  const linkParts = [];
+  if (s.pageUrl) linkParts.push(`[Full guide → ${s.pageUrl.replace('https://metalforge.io', '')}](${s.pageUrl})`);
+  linkParts.push(`[LLM Markdown](https://metalforge.io/llms/gear-comparison/${s.slug}.md)`);
+  hubLines.push(linkParts.join(' · '));
+  hubLines.push('');
+  hubLines.push('---');
+  hubLines.push('');
+}
+
 const hubPath = path.join(__dirname, '../public/llms/gear-comparison.md');
 const hubContent = hubLines.join('\n');
 fs.writeFileSync(hubPath, hubContent);
-console.log(`Wrote ${hubPath} (${comparisons.length} comparisons, ${hubContent.length} chars)`);
-console.log(`Total: ${fileCount} per-comparison files + 1 hub = ${fileCount + 1} LLM files`);
+console.log(`Wrote ${hubPath} (${comparisons.length} curated comparisons + ${seriesEntries.length} series guides indexed, ${hubContent.length} chars)`);
+console.log(`Total: ${fileCount} per-comparison files + ${seriesEntries.length} series files (pre-existing) + 1 hub = ${fileCount + seriesEntries.length + 1} LLM files`);

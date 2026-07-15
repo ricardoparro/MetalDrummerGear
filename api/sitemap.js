@@ -880,6 +880,24 @@ export function buildSitemapXml() {
     // Issue #2311: lick-guide LLM articles (not album articles — no /articles/ frontend page).
     { loc: '/llms/articles/matt-greiner-licks.md', priority: '0.5', changefreq: 'monthly' },
     { loc: '/llms/articles/joey-jordison-licks.md', priority: '0.5', changefreq: 'monthly' },
+    // Issue #4649: Gear Evolution Timeline / Signature Gear Guide LLM articles —
+    // distinct content shape from ALBUM_ARTICLES, so hardcoded here like the lick articles above.
+    { loc: '/llms/articles/ben-koller-evolution.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/catch-33-drum-setup.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/charlie-benante-licks.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/dave-lombardo-signature-gear-guide.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/gavin-harrison-porcupine-tree-drum-setup.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/hunter-drum-setup.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/igor-cavalera-licks.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/mario-duplantier-gear-evolution.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/mikkey-dee-evolution.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/nick-augusto-drum-setup.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/paul-mazurkiewicz-gear-evolution.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/periphery-self-titled-drum-setup.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/pete-sandoval-evolution.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/tomas-haake-signature-gear-guide.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/vinnie-paul-gear-evolution.md', priority: '0.5', changefreq: 'monthly' },
+    { loc: '/llms/articles/vol3-subliminal-verses-drum-setup.md', priority: '0.5', changefreq: 'monthly' },
     // Issue #1201: per-technique deep-dive Markdown files for AI citation.
     // One file per technique slug mirrors the per-drummer pattern above.
     ...getAllTechniqueSlugs().map(slug => ({ loc: `/llms/technique/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),

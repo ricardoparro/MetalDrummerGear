@@ -1703,3 +1703,37 @@ Searched `gh issue list --state all --search` for each candidate before filing (
 - Once tomorrow's 06:00+ UTC deploy fires, re-check `/drummer/matt-greiner` FAQ count (4→9), `/drummer/lars-ulrich` speakable string, and Quick Facts `<table>` presence (#4664/#4665/#4687, all merged but pre-deploy).
 - The ssrLinks bug class is now down to only the low-value `/tools`/`/beginner-guide`/`/news` stragglers — future runs should expect this vein close to fully mined after #4689/#4690 ship; lean on GSC-signal content and the newly-discovered "live SSR copy" stale-count angle (#4691) as a fresh vein to re-check periodically.
 - Bank now at 10 (7 fresh + 3 umbrella) — healthy, well under the 45 floor, no need to hold back next run if fresh candidates surface.
+
+## 2026-07-15 (2-hourly run, ~22:xx) — Bank at 6, filed 5 fresh proposals (bank 6→10)
+
+**Bank check:** `gh issue list --state open --label seo-proposal` = 6 open at run start (3 fresh from the ~20:28 run + 3 standing umbrella trackers #2211/#3810/#3819). Well under the 45 floor, cleared to file up to 8.
+
+**Audit:** `robots.txt` (`api/robots.js`) — 13 `User-agent:` blocks, all 8 required AI crawlers explicitly allowed, no crawl-delay on AI bots. ✅ healthy. `/llms/drummers/` = 67/67 files on disk, matches roster. Deploy check: last batched prod deploy was 2026-07-15T06:43:07Z; everything merged today (#4687 Quick Facts table, #4692 stale-count fix, etc.) confirmed still absent from live bot-UA responses (`curl -A ClaudeBot .../drummer/lars-ulrich | grep -c "<table"` → 0; `curl .../llms/quiz.md` still shows "60+"). This is expected deploy-lag per `deploy-prod.yml` (batched, next fires ~06:00 UTC tomorrow), not a regression — noting explicitly since it looked alarming at first (even a direct `curl .../api/meta/drummer/lars-ulrich` hit, bypassing the vercel.json rewrite layer, still showed 0 tables with `x-vercel-cache: MISS`/`age: 0`, ruling out CDN caching as the cause).
+
+**Key finding — new vein, not previously filed:** while spot-checking schema coverage across non-drummer page types (`/bands/<slug>`, `/vs/<slug>`, `/lists/<slug>`, gear hubs, technique pages), `/bands/megadeth` returned the **generic homepage fallback** (title "MetalForge — Metal Drummer Gear Database", 0 JSON-LD) despite Megadeth being a well-known band with existing roster-drummer content (Dirk Verbeuren, Nick Menza both have `megadeth` in their `extendedBios.js` `bands` array). Other band pages (metallica, slipknot, tool, meshuggah) render correctly. Root-caused via a live audit script: `packages/frontend/data/bands.js` defines only 19 bands, but those 19 bands' own `relatedBands` arrays reference **34 unique slugs that don't exist** in the same file (40 broken reference instances total) — every one of those links is bot-visible and resolves to the dead generic fallback. Split the fix into two atomic issues per the established decomposition pattern:
+- **#4704** (batch) — add the 16 of 34 missing bands that ARE grounded in existing `extendedBios.js` drummer `bands` entries (megadeth, testament, lamb-of-god, opeth, periphery, morbid-angel, animals-as-leaders, mastodon, cavalera-conspiracy, cynic, damageplan, hellyeah, murderdolls, sons-of-apollo, vader, volto) — real content already exists to source `drummerHistory` from, not fabricated.
+- **#4705** — remove the other 18 ungrounded slugs (no roster-drummer connection at all — `a-perfect-circle`, `stone-sour`, `liquid-tension-experiment`, etc.) from the affected bands' `relatedBands` arrays rather than padding with unverifiable content.
+
+This is a fresh vein (searched `gh issue list --state all --search "megadeth OR relatedBands OR band data"` first — only found unrelated closed album-article issues for Megadeth/Opeth/Lamb of God drummers, confirming those bands have deep existing content but never got a hub page).
+
+**FAQ-depth vein continued (proven pattern, #4593/#4605/#4607 shipped; #4701/#4702/#4703 filed ~20:28 today, still untriaged):** re-ran the roster-wide count script from `learned-patterns.md` — of the 53 profiles at exactly 8 FAQ items, #4701/#4702/#4703 cover 27 (7 shallowest + 20 of the eight-item group), leaving 31 uncovered. Filed 3 more batches to close out the entire vein this run: **#4706** (10), **#4707** (11), **#4708** (10) — full slug lists + line numbers verified live against `extendedBios.js`. Once #4701-4703 + #4706-4708 all ship, all 67 roster profiles will cross the ≥9-item Perplexity-citation threshold, fully closing this vein.
+
+**Metrics** (`.agents/ceo/metrics.md`, refreshed 2026-07-15 22:20 UTC): 427 users/452 sessions/614 views 7d (organic search = 161/452 ≈ 35.6% of sessions — same compression-not-decline pattern as recent entries, Direct still largest single channel). GSC: 5,729 impr/128 clicks/2.23% CTR/pos 9.3 — flat, unchanged from the 18:23 snapshot. Content-gap queries (`joey jordison drum set` 52 impr/1.92% CTR, `mike portnoy drum set` 51 impr/1.96% CTR) unchanged — already double-addressed per standing conclusion since 07-13, not re-filed.
+
+### Proposals filed this run
+1. #4704 — SEO batch: Add 16 missing /bands/<slug> pages grounded in existing drummer content (~16 pages, fixes ~22 broken relatedBands links)
+2. #4705 — SEO: 18 relatedBands references point to non-existent band slugs with zero roster grounding (~19 dead internal links)
+3. #4706 — SEO batch: extend extendedBios.js FAQ depth — next 10 of 31 remaining 8-item profiles (batch 4)
+4. #4707 — SEO batch: extend extendedBios.js FAQ depth — next 11 of 31 remaining 8-item profiles (batch 5)
+5. #4708 — SEO batch: extend extendedBios.js FAQ depth — final 10 of 31 remaining 8-item profiles (batch 6, closes the vein)
+
+### Open proposals waiting on CEO triage
+- #4704, #4705, #4706, #4707, #4708 (filed this run, 0d old)
+- #4698, #4699, #4700 (filed ~20:28 same day, untriaged)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals, left as-is per established convention
+
+### Next run
+- Watch #4704/#4705 through CEO triage — #4704 is the highest-value new-vein item (16 real pages + fixes 22 dead bot-facing links); verify `bands` object grows from 19→35 and `/bands/megadeth` stops falling back to the generic homepage shell.
+- Once #4701-4703 + #4706-4708 all ship and the next batched deploy fires, re-run the full roster FAQ count — should be 0/67 profiles below 9 items, closing the FAQ-depth vein for good. Worth a dedicated verification pass next run rather than assuming.
+- Tomorrow's ~06:00 UTC batched deploy will finally surface today's large backlog of merged-but-not-live fixes (#4687 Quick Facts, #4665 Speakable, #4691/#4692 stale counts, #4688 etc.) — re-check bot-UA responses after that fires rather than before.
+- Bank now at 10 (7 fresh + 3 umbrella) — healthy, well under the 45 floor, no need to hold back next run.

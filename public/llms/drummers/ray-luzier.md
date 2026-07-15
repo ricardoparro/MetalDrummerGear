@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/ray-luzier"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Ray Luzier — Drum Kit & Gear Setup
@@ -95,6 +95,10 @@ A: Ray Luzier drives his double bass playing with a DW 9002 double pedal, seated
 
 A: Ray Luzier plays his own Vic Firth Ray Luzier Signature drumsticks.
 
+**Q: What drumheads does Ray Luzier use?**
+
+A: Ray Luzier uses Evans drumheads across his Pearl Reference Series drum kit and drum set.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Ray Luzier:
@@ -111,4 +115,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

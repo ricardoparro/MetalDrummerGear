@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/charlie-benante"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Charlie Benante — Drum Kit & Gear Setup
@@ -95,6 +95,10 @@ A: Charlie Benante drives his thrash-defining double bass technique with a Tama 
 
 A: Charlie Benante plays his own signature Vic Firth Charlie Benante Signature drumsticks.
 
+**Q: What drumheads does Charlie Benante use?**
+
+A: Charlie Benante uses Evans drumheads across his Tama Starclassic drum kit and drum set.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Charlie Benante:
@@ -114,4 +118,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

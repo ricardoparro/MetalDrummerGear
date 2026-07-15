@@ -32,6 +32,9 @@ import { drummerComparisons as DRUMMER_COMPARISONS } from '../../packages/fronte
 import { GEAR_INDEX, GEAR_INDEX_BRAND_LEVEL } from '../../packages/frontend/data/gearIndex.js';
 // Issue #1387: gear item drummer links — authoritative drummerIds live in the gear API.
 import { gearItems } from '../gear/[slug].js';
+// Issue #4689: /gear-by-budget ssrLinks — cross-references gearItems' priceUsd
+// against the same tier bounds the live BudgetTiersScreen filters by.
+import { BUDGET_TIERS } from '../../packages/frontend/data/budgetTiers.js';
 // Issue #1451: HowTo JSON-LD + Article schema for /guides/how-to-sound-like-<slug> pages.
 // Issue #2202: FAQPage JSON-LD alongside HowTo for AI Overview + voice search eligibility.
 import { SOUND_LIKE_GUIDES, generateGuideSchema } from '../../packages/frontend/data/soundLikeGuides.js';
@@ -455,6 +458,22 @@ function _dedupeSsrLinksByHref(links) {
   });
 }
 
+// Issue #4689: /stats and /stats/gear-insights ssrLinks — both hubs' own
+// faqSchema names the same 8 brands (Tama, Zildjian, Meinl, Sabian, Paiste,
+// DW, Pearl, Ludwig), so link 2-3 representative drummers per named brand via
+// getDrummersByBrand, the same helper the live /brands/<slug> page uses.
+const STATS_HUB_BRANDS = ['tama', 'zildjian', 'meinl', 'sabian', 'paiste', 'dw', 'pearl', 'ludwig'];
+function _statsHubBrandLinks() {
+  return _dedupeSsrLinksByHref(
+    STATS_HUB_BRANDS.flatMap(brandSlug =>
+      getDrummersByBrand(brandSlug, drummers).slice(0, 3).map(d => ({
+        href: `/drummer/${_normalizeDrummerSlug(d.name)}`,
+        label: `${d.name} — ${d.band}`,
+      }))
+    )
+  );
+}
+
 // Issue #4669: /cards ssrLinks — the 21-entry drummer roster the live
 // GearCardsGallery component renders (packages/frontend/components/
 // GearCardsGallery.js), duplicated here rather than imported since api/
@@ -549,6 +568,15 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/quiz-preview.png`,
       type: 'website',
       url: `${BASE_URL}/quiz`,
+      // Issue #4689: crawlable links to a sample of drummer profiles the quiz
+      // can match a visitor to — this hub previously had zero outbound links
+      // from the bot-facing shell.
+      ssrLinks: _dedupeSsrLinksByHref(
+        drummers.slice(0, 15).map(d => ({
+          href: `/drummer/${_normalizeDrummerSlug(d.name)}`,
+          label: d.name,
+        }))
+      ),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@graph': [
@@ -684,6 +712,7 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/stats-preview.png`,
       type: 'website',
       url: `${BASE_URL}/stats`,
+      ssrLinks: _statsHubBrandLinks(),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'Dataset',
@@ -724,6 +753,7 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/stats-preview.png`,
       type: 'website',
       url: `${BASE_URL}/stats/gear-insights`,
+      ssrLinks: _statsHubBrandLinks(),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'Dataset',
@@ -1140,12 +1170,25 @@ function getMetaForPath(pathname) {
 
   // Issue #1823: Gear by budget hub — budget-tiered shopping experience
   if (path === '/gear-by-budget') {
+    // Issue #4689: crawlable links to 2-3 representative gear items per
+    // budget tier — cross-references gearItems' priceUsd against
+    // BUDGET_TIERS' min/max bounds, the same tiers the live budget hub
+    // filters by.
+    const gearByBudgetSsrLinks = _dedupeSsrLinksByHref(
+      Object.values(BUDGET_TIERS).flatMap(tier =>
+        gearItems
+          .filter(g => g.priceUsd >= tier.minPrice && g.priceUsd < tier.maxPrice)
+          .slice(0, 3)
+          .map(g => ({ href: `/gear/${g.slug}`, label: g.name }))
+      )
+    );
     return {
       title: `Metal Drum Kit by Budget — Best Setups Under $500, $1000, $2000 | ${SITE_NAME}`,
       description: 'Find the perfect metal drum kit for your budget. Browse professional-grade setups under $500, $1000, and $2000 — curated from gear used by 60+ pro metal drummers.',
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/gear-by-budget`,
+      ssrLinks: gearByBudgetSsrLinks,
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -3487,12 +3530,28 @@ function getMetaForPath(pathname) {
 
   // Issue #1299: /history page
   if (path === '/history') {
+    // Issue #4689: crawlable links to the drummers and bands EVOLUTION_TIMELINE
+    // events reference — same cross-reference pattern already used for the
+    // /timeline hub's ssrLinks (drummerSlug -> /drummer/<slug>, band name
+    // matched against BAND_DATA -> /bands/<slug>).
+    const historyBandsByName = new Map(Object.values(BAND_DATA).map(b => [b.name, b]));
+    const historySsrLinks = _dedupeSsrLinksByHref([
+      ...EVOLUTION_TIMELINE.filter(e => e.drummerSlug).map(e => ({
+        href: `/drummer/${e.drummerSlug}`,
+        label: e.title || `${e.year} milestone`,
+      })),
+      ...EVOLUTION_TIMELINE.filter(e => e.band && historyBandsByName.has(e.band)).map(e => ({
+        href: `/bands/${historyBandsByName.get(e.band).slug}`,
+        label: historyBandsByName.get(e.band).name,
+      })),
+    ]);
     return {
       title: `Metal Drum Kit History & Evolution Timeline | ${SITE_NAME}`,
       description: 'The complete history of metal drumming — from Black Sabbath in 1968 to modern extreme metal. How drum kits, techniques, and gear evolved across 50+ years.',
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/history`,
+      ssrLinks: historySsrLinks,
       articleSchema: JSON.stringify([
         {
           '@context': 'https://schema.org',
@@ -3727,12 +3786,26 @@ function getMetaForPath(pathname) {
 
   // Issue #1407: /facts hub page
   if (path === '/facts') {
+    // Issue #4689: crawlable links to the drummers this page's own facts/
+    // trivia are about. George Kollias, Bill Ward, Dave Lombardo, and Joey
+    // Jordison are all in the drummer database; Neil Peart (Rush) isn't a
+    // MetalForge profile, so Pete Sandoval (the "fastest blast beats" record
+    // holder cited in /history's FAQ) and Mike Portnoy (known for elaborate,
+    // high-value kits) round the link set out with real, resolvable facts
+    // instead of a dead /drummer/neil-peart href.
+    const factsSsrLinks = _dedupeSsrLinksByHref(
+      ['George Kollias', 'Bill Ward', 'Dave Lombardo', 'Joey Jordison', 'Pete Sandoval', 'Mike Portnoy']
+        .map(name => getDrummerBySlug(_normalizeDrummerSlug(name)))
+        .filter(Boolean)
+        .map(d => ({ href: `/drummer/${_normalizeDrummerSlug(d.name)}`, label: d.name }))
+    );
     return {
       title: `Metal Drummer Quick Facts — Records, Stats & Trivia | ${SITE_NAME}`,
       description: 'Quick facts, records, and trivia about metal drummers. Fastest blast beats, most expensive kits, career milestones, and gear stats from 60+ pros.',
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/facts`,
+      ssrLinks: factsSsrLinks,
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',

@@ -930,7 +930,12 @@ Starting drums at age 7 and joining Sepultura at just 19, Casagrande represented
           { q: 'What drums does Eloy Casagrande play?', a: 'Eloy plays Tama Starclassic Bubinga drums with Paiste cymbals.' },
           { q: 'Was Eloy Casagrande in Sepultura?', a: "Yes, Eloy was Sepultura's drummer from 2011 to 2024." },
           { q: 'Where is Eloy Casagrande from?', a: 'Eloy was born on August 25, 1991, in São Paulo, Brazil.' },
-          { q: 'What awards has Eloy Casagrande won?', a: "Eloy was named #1 metal drummer in the Modern Drummer 2024 Readers' Poll." }
+          { q: 'What awards has Eloy Casagrande won?', a: "Eloy was named #1 metal drummer in the Modern Drummer 2024 Readers' Poll." },
+          { q: 'What drum set does Eloy Casagrande use?', a: 'Eloy Casagrande plays a Tama Starclassic Bubinga drum set with dual bass drums (22"x16" and 24"x14"). The drum set is built around a Tama Bell Brass 14"x5.5" (BB146) snare, Paiste cymbals including 15" Masters Dark Hi-Hats and 602/2002 series crashes, and a Tama Iron Cobra double pedal for his explosive Sepultura and Slipknot double-bass work.' },
+          { q: 'What drum kit does Eloy Casagrande use?', a: 'Eloy Casagrande\'s drum kit is a Tama Starclassic Bubinga configuration with dual bass drums (22"x16" and 24"x14") rather than a single kick with double pedal. His drum kit is anchored by a Tama Bell Brass 14"x5.5" snare and Yamaha DTX electronic pads for Slipknot\'s hybrid sound.' },
+          { q: 'What cymbals does Eloy Casagrande use?', a: 'Eloy Casagrande uses Paiste cymbals: 15" Masters Dark Hi-Hats, Paiste 602 and 2002 series crashes, and a Paiste Masters Dark Ride, chosen for their dark, nuanced tone that cuts through dense metal arrangements.' },
+          { q: 'What snare drum does Eloy Casagrande use?', a: 'Eloy Casagrande plays a Tama Bell Brass 14"x5.5" snare (BB146), prized for its bright, cutting attack that slices through Sepultura and Slipknot\'s dense guitar arrangements.' },
+          { q: 'What pedals does Eloy Casagrande use?', a: 'Eloy Casagrande uses a Tama Iron Cobra double pedal to power the explosive double-bass patterns central to his Sepultura and Slipknot performances.' }
         ]
       },
       sources: {
@@ -1325,7 +1330,12 @@ Mario's drumming combines crushing power with technical precision, featuring com
           { q: "Does Mario Duplantier create Gojira's artwork?", a: 'Yes, Mario creates all album artwork, merchandise designs, and stage visuals for Gojira.' },
           { q: 'Are the Duplantier brothers related?', a: 'Yes, Mario and Joe Duplantier are brothers who co-founded Gojira in 1996.' },
           { q: 'Where is Mario Duplantier from?', a: 'Mario was born in Ondres, France and grew up in the Basque region.' },
-          { q: 'What song is Mario Duplantier most famous for?', a: '"Flying Whales" features some of Mario\'s most recognized and celebrated drum work.' }
+          { q: 'What song is Mario Duplantier most famous for?', a: '"Flying Whales" features some of Mario\'s most recognized and celebrated drum work.' },
+          { q: 'What drum set does Mario Duplantier use?', a: 'Mario Duplantier plays a Tama Starclassic Bubinga drum set with dual 22"x18" bass drums. The drum set is centered on a Tama S.L.P. 14"x6.5" G-Maple snare, Zildjian cymbals, and a Tama Iron Cobra 900 Power Glide double pedal built to drive Gojira\'s crushing, syncopated double-bass patterns.' },
+          { q: 'What drum kit does Mario Duplantier use?', a: 'Mario Duplantier\'s drum kit is a Tama Starclassic Bubinga configuration with dual 22"x18" bass drums, chosen for visual impact and tonal weight rather than a single kick with double pedal. His drum kit runs Zildjian K Sweet hi-hats and K Custom/A Custom crashes alongside a 21" Z Custom Mega Bell Ride.' },
+          { q: 'What cymbals does Mario Duplantier use?', a: 'Mario Duplantier uses Zildjian cymbals: 14" K Sweet Hi-Hats, a mix of K Custom and A Custom crashes, and a 21" Z Custom Mega Bell Ride, giving Gojira\'s dense arrangements a mix of dark wash and cutting attack.' },
+          { q: 'What snare drum does Mario Duplantier use?', a: 'Mario Duplantier plays a Tama S.L.P. 14"x6.5" G-Maple snare, valued for its warm, resonant crack that projects clearly through Gojira\'s layered guitar work.' },
+          { q: 'What pedals does Mario Duplantier use?', a: 'Mario Duplantier uses a Tama Iron Cobra 900 Power Glide double pedal, paired with a Tama 1st Chair Ergo-Rider throne, to drive Gojira\'s powerful, syncopated double-bass patterns.' }
         ]
       },
       sources: {
@@ -1653,7 +1663,11 @@ Beyond Opeth, Axenrot has been a core member of death metal supergroup Bloodbath
           { q: 'Who is the current Opeth drummer?', a: 'Martin Axenrot is Opeth\'s drummer since 2006, when he replaced Martin Lopez mid-tour on the Ghost Reveries cycle.' },
           { q: 'What cymbals does Martin Axenrot use?', a: 'Martin Axenrot uses Meinl Byzance Series cymbals, including 14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, a 22" Traditional Ride, and an 18" China.' },
           { q: 'What bands has Martin Axenrot played in?', a: 'Martin Axenrot drums for Opeth (since 2006) and death metal supergroup Bloodbath (since 2008), and previously played in Witchery (1997-2010) and Nifelheim.' },
-          { q: 'When did Martin Axenrot join Opeth?', a: 'Martin Axenrot joined Opeth in 2006, replacing Martin Lopez, and made his studio debut with the band on Watershed (2008).' }
+          { q: 'When did Martin Axenrot join Opeth?', a: 'Martin Axenrot joined Opeth in 2006, replacing Martin Lopez, and made his studio debut with the band on Watershed (2008).' },
+          { q: 'What drum set does Martin Axenrot use?', a: 'Martin Axenrot plays a Sonor SQ2 Series drum set built around twin 22"x18" bass drums, the twin-kick configuration he has used throughout his Opeth tenure since 2006. The drum set pairs a Sonor SQ2 14"x5.75" Maple snare with Meinl Byzance Series cymbals and a Tama Iron Cobra double pedal.' },
+          { q: 'What snare drum does Martin Axenrot use?', a: 'Martin Axenrot plays a Sonor SQ2 14"x5.75" Maple snare, part of the German custom-build SQ2 platform he has used since joining Opeth in 2006.' },
+          { q: 'What pedals does Martin Axenrot use?', a: 'Martin Axenrot uses a Tama Iron Cobra double pedal alongside his Sonor SQ2 hardware, giving him the firepower for Opeth\'s extended double-bass passages.' },
+          { q: 'What sticks does Martin Axenrot use?', a: 'Martin Axenrot plays Vic Firth American Classic 5B sticks, paired with Remo drumheads across his Sonor SQ2 kit.' }
         ]
       },
       sources: {
@@ -8180,7 +8194,12 @@ Kublai Khan TX draws influence from early 1990s metallic hardcore bands like Int
           { q: 'Why is Kublai Khan called Kublai Khan TX?', a: 'The band added "TX" to their name following a legal dispute with a Minnesota thrash metal band also called Kublai Khan.' },
           { q: 'What genre is Kublai Khan TX?', a: 'Kublai Khan TX plays beatdown hardcore and metalcore, influenced by 90s metallic hardcore bands like Hatebreed, Earth Crisis, and Integrity.' },
           { q: 'How long has Isaac Lamb been in Kublai Khan TX?', a: 'Isaac Lamb has been Kublai Khan TX\'s drummer since the band formed in 2009—he is a founding member and the only drummer in their history.' },
-          { q: 'What is Kublai Khan TX\'s most popular song?', a: 'Songs like "The Hammer," "Belligerent," "Swan Song," and "Theory of Mind" are among their most popular tracks.' }
+          { q: 'What is Kublai Khan TX\'s most popular song?', a: 'Songs like "The Hammer," "Belligerent," "Swan Song," and "Theory of Mind" are among their most popular tracks.' },
+          { q: 'What drum set does Isaac Lamb use?', a: 'Isaac Lamb plays an SJC Custom Drums set, hand-built in Marlborough, Massachusetts, with American maple shells selected for articulate attack and breakdown body. His drum set runs a single 22" bass drum with a DW 9000 double pedal, two rack toms, and two floor toms, all fitted with Evans Hydraulic heads for a dead, focused attack.' },
+          { q: 'What drum kit does Isaac Lamb use?', a: "Isaac Lamb's drum kit is a boutique SJC Custom Drums build with maple shells, a single 22\" bass drum, and a DW 9000 double pedal. The drum kit is completed with a Meinl Classics Custom Dark cymbal setup and Evans Hydraulic drumheads for the dead, punchy attack beatdown hardcore requires." },
+          { q: 'What cymbals does Isaac Lamb use?', a: 'Isaac Lamb plays a complete Meinl Classics Custom Dark Series cymbal setup: 14" Hi-Hats, 18" and 20" Crashes, a 21" Ride, and an 18" China, chosen for their darker, controlled tone that sits naturally within Kublai Khan TX\'s dense guitar frequencies.' },
+          { q: 'What snare drum does Isaac Lamb use?', a: 'Isaac Lamb plays an SJC Custom 14"x6.5" maple snare, a half-inch deeper than the standard 5.5" model for extra body and projection on Kublai Khan TX\'s breakdown-heavy material.' },
+          { q: 'What pedals does Isaac Lamb use?', a: 'Isaac Lamb uses a DW 9000 Series double pedal, a chain-drive design with a floating rotor and adjustable cam that he tunes for groove patterns, blast beats, and weighted breakdown strokes alike.' }
         ]
       },
       sources: {
@@ -8300,7 +8319,11 @@ Reinert brought a jazz-trained musical vocabulary into death metal at a moment w
           { q: 'What drum kit did Sean Reinert use on Human?', a: 'Sean Reinert played a DW Collector\'s Series maple shell kit with a 14"x5.5" maple snare, Zildjian A Series cymbals, and a DW 5000 double pedal on Death\'s Human.' },
           { q: 'Did Sean Reinert play jazz before death metal?', a: 'Yes. Reinert had classical and jazz training that directly shaped his ghost notes, dynamic control, and polyrhythmic phrasing, which he brought into Death and Cynic.' },
           { q: 'When did Sean Reinert co-found Cynic?', a: 'Sean Reinert co-founded Cynic in 1987 with guitarist/vocalist Paul Masvidal in Miami, Florida, before joining Death in 1990.' },
-          { q: 'When did Sean Reinert die?', a: 'Sean Reinert passed away on January 24, 2020, one day after his 49th birthday.' }
+          { q: 'When did Sean Reinert die?', a: 'Sean Reinert passed away on January 24, 2020, one day after his 49th birthday.' },
+          { q: 'What drum set did Sean Reinert use?', a: 'Sean Reinert played a DW Collector\'s Series maple drum set throughout his tenure in Death and on Cynic\'s Focus. The drum set featured a 22" kick with 10"/12"/13"/14"/16" toms, a 14"x5.5" maple snare with die-cast hoops, and a DW 5000 single-chain double pedal.' },
+          { q: 'What cymbals did Sean Reinert use?', a: "Sean Reinert used Zildjian A Series cymbals on Death's Human, switching to the darker, more complex Zildjian K Series for Cynic's Focus and Zildjian K Custom cymbals on Cynic's 2008 reunion album, Traced in Air." },
+          { q: 'What snare drum did Sean Reinert use?', a: 'Sean Reinert played a DW Collector\'s 14"x5.5" maple snare with die-cast hoops during his Death and Cynic Focus-era recordings, tuning it higher and more open on Focus to suit its jazz-fusion textures.' },
+          { q: 'What bass drum pedal did Sean Reinert use?', a: "Sean Reinert used a DW 5000 single-chain double pedal during his Human and Focus-era recordings with Death and Cynic, favoring its direct, fluid response for his fusion-informed double-bass technique." }
         ]
       },
       sources: {
@@ -8422,7 +8445,11 @@ Menza's playing was distinguished by surgical double-bass precision at 180-200 B
           { q: 'Why did Nick Menza leave Megadeth?', a: 'Nick Menza was fired from Megadeth in 1998 following a knee injury; he briefly rejoined the band in 2004 before departing again.' },
           { q: 'How did Nick Menza die?', a: 'Nick Menza collapsed on stage and passed away on May 21, 2016, at age 51, during a performance with the jazz-metal fusion group OHM.' },
           { q: 'When did Nick Menza join Megadeth?', a: 'Nick Menza joined Megadeth in 1989, initially working as a drum technician before becoming the band\'s full-time drummer.' },
-          { q: 'When was Nick Menza born?', a: 'Nick Menza was born on July 23, 1964, and would have turned 62 on July 23, 2026.' }
+          { q: 'When was Nick Menza born?', a: 'Nick Menza was born on July 23, 1964, and would have turned 62 on July 23, 2026.' },
+          { q: 'What drum set did Nick Menza use on Rust in Peace?', a: 'Nick Menza played a Tama Swingstar 5-piece drum set with poplar shells (22"x16" kick, 12"x10"/13"x11" racks, 16"x16" floor) on Rust in Peace, paired with a Tama Steel 14"x5.5" snare and a DW 5000 double pedal.' },
+          { q: 'What cymbals did Nick Menza use?', a: 'Nick Menza used Zildjian A Series cymbals on Rust in Peace: 14" hi-hats, 16"/18" crashes, and a 20" ride, delivering the tight, dry cymbal sound that became a benchmark for thrash metal production.' },
+          { q: 'What snare drum did Nick Menza use?', a: 'Nick Menza played a Tama Steel 14"x5.5", 8-lug snare on Rust in Peace, tuned tight for the sharp, rimshot-heavy crack that defined his sound.' },
+          { q: 'What pedals did Nick Menza use?', a: 'Nick Menza used a DW 5000 double pedal on Rust in Peace, giving him the surgical double-bass precision that powered tracks like "Holy Wars" and "Hangar 18."' }
         ]
       },
       sources: {
@@ -8544,7 +8571,11 @@ Erlandsson is the brother of Arch Enemy's Daniel Erlandsson; both are prominent 
           { q: 'Is Adrian Erlandsson related to Daniel Erlandsson?', a: 'Yes. Adrian Erlandsson (At the Gates, The Haunted, Paradise Lost) and Daniel Erlandsson (Arch Enemy) are brothers, both Swedish drummers from the Gothenburg extreme metal scene.' },
           { q: 'What drum kit does Adrian Erlandsson use now?', a: 'Adrian Erlandsson currently plays a Tama Starclassic Bubinga kit with Sabian AAX/HHX cymbals, a Monolit Czarcie Kopyto double pedal, Evans drumheads, and his own Vic Firth Rock Nylon Tip At the Gates signature sticks.' },
           { q: 'Did Adrian Erlandsson play in Cradle of Filth?', a: 'Yes — Adrian Erlandsson was Cradle of Filth\'s drummer from 1999 to 2006, recording Midian (2000), Damnation and a Day (2003), Nymphetamine (2004), and Thornography (2006).' },
-          { q: 'What drum kit did Adrian Erlandsson use on Slaughter of the Soul?', a: 'Adrian Erlandsson used a budget Pearl Export kit for At the Gates\' Slaughter of the Soul (1995), a deliberate departure from prestige gear that matched the album\'s Studio Fredman house-kit circumstances.' }
+          { q: 'What drum kit did Adrian Erlandsson use on Slaughter of the Soul?', a: 'Adrian Erlandsson used a budget Pearl Export kit for At the Gates\' Slaughter of the Soul (1995), a deliberate departure from prestige gear that matched the album\'s Studio Fredman house-kit circumstances.' },
+          { q: 'What drum set does Adrian Erlandsson use?', a: 'Adrian Erlandsson currently plays a Tama Starclassic Bubinga drum set with double 22" bass drums and a four-tom configuration. The drum set is built around a Tama Starclassic Bubinga 14"x6.5" snare, Sabian AAX/HHX cymbals, and a Monolit Czarcie Kopyto double pedal.' },
+          { q: 'What cymbals does Adrian Erlandsson use?', a: 'Adrian Erlandsson uses Sabian AAX/HHX Series cymbals: 15" HHX Xcelerator hi-hats, a 20" AAX Iso crash, and a 19" Paragon China.' },
+          { q: 'What snare drum does Adrian Erlandsson use?', a: 'Adrian Erlandsson plays a Tama Starclassic Bubinga 14"x6.5" snare as part of his current Paradise Lost-era setup, a change from the budget Pearl Export kit he used on At the Gates\' Slaughter of the Soul.' },
+          { q: 'What pedals does Adrian Erlandsson use?', a: 'Adrian Erlandsson uses a Monolit Czarcie Kopyto double pedal, a boutique Polish pedal he adopted during his Paradise Lost years (2009-2016).' }
         ]
       },
       sources: {

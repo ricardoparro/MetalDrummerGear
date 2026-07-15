@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/mike-mangini"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Mike Mangini — Drum Kit & Gear Setup
@@ -84,6 +84,10 @@ A: Mike Mangini's drum set pairs Pearl Reference Series shells and his two Pearl
 
 A: Mike Mangini uses Sabian HHX and AAX Series cymbals, including 14" HHX Evolution Hi-Hats, 17", 18", and 19" HHX Evolution Crashes, and a 21" HHX Raw Bell Dry Ride.
 
+**Q: What hi-hats does Mike Mangini use?**
+
+A: Mike Mangini plays 14" Sabian HHX Evolution Hi-Hats, providing the crisp, articulate chick sound needed to cut through Dream Theater's dense, technical arrangements.
+
 **Q: What snare drum does Mike Mangini use?**
 
 A: Mike Mangini plays two Pearl Reference brass snares — a 14"x5" and a 14"x6.5" — switching between them for different sonic needs.
@@ -139,4 +143,4 @@ Full breakdown: [Mike Mangini's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

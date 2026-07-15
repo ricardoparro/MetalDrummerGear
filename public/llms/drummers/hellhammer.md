@@ -6,7 +6,7 @@ country: "Norway"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/hellhammer"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Hellhammer — Drum Kit & Gear Setup
@@ -83,6 +83,10 @@ A: Hellhammer's drum set pairs Sonor SQ2 Heavy Beech shells and his 14"x5.5" map
 
 A: Hellhammer uses Paiste RUDE cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 20" RUDE Ride, and an 18" RUDE China.
 
+**Q: What hi-hats does Hellhammer use?**
+
+A: Hellhammer plays 14" Paiste RUDE Hi-Hats, chosen for the harsh, cutting articulation that powers Mayhem's extreme-tempo black metal rhythms.
+
 **Q: What snare drum does Hellhammer use?**
 
 A: Hellhammer's primary snare is the Sonor SQ2, a 14"x5.5" maple shell.
@@ -135,4 +139,4 @@ Full breakdown: [Hellhammer's pedal setup](https://metalforge.io/pedals/setups/h
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

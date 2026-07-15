@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/shannon-larkin"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Shannon Larkin — Drum Kit & Gear Setup
@@ -76,6 +76,10 @@ A: Shannon Larkin's drum set pairs his ddrum Dios Series shells and maple snare 
 
 A: Shannon Larkin plays Sabian AAX and HHX Series cymbals: 14" AAX Stage Hi-Hats, 18" and 19" AAX X-Plosion Crashes, a 21" HHX Raw Bell Dry Ride, a 10" AAX Splash, and an 18" AAX Chinese cymbal.
 
+**Q: What hi-hats does Shannon Larkin use?**
+
+A: Shannon Larkin plays 14" Sabian AAX Stage Hi-Hats, chosen for a bright, cutting chick sound that drives Godsmack's groove-oriented hard rock arrangements.
+
 **Q: What snare does Shannon Larkin use?**
 
 A: Shannon Larkin's snare is a ddrum Dios 14"x6.5" Maple, delivering the warm yet cutting crack that anchors Godsmack's groove-driven rhythms.
@@ -139,4 +143,4 @@ Full breakdown: [Shannon Larkin's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

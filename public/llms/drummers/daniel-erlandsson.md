@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daniel-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Daniel Erlandsson — Drum Kit & Gear Setup
@@ -75,6 +75,10 @@ A: Daniel Erlandsson's drum set is a Pearl Reference Pure configuration built ar
 
 A: Daniel Erlandsson uses Paiste RUDE and 2002 Series cymbals: 14" RUDE Hi-Hats for aggressive, cutting chick sounds, 18" and 19" RUDE Crashes for explosive accents, and a 22" RUDE Power Ride built to punch through Arch Enemy's dense, dual-guitar attack.
 
+**Q: What hi-hats does Daniel Erlandsson use?**
+
+A: Daniel Erlandsson plays 14" Paiste RUDE Hi-Hats, delivering the aggressive, cutting chick sound that drives Arch Enemy's melodic death metal rhythms.
+
 **Q: What snare drum does Daniel Erlandsson play?**
 
 A: Daniel Erlandsson plays his signature Pearl Daniel Erlandsson 14"x5.5" snare, a thinner-shell signature model delivering a fast, cracking response suited to his blend of Scandinavian death metal intensity and technical precision.
@@ -134,4 +138,4 @@ Full breakdown: [Daniel Erlandsson's pedal setup](https://metalforge.io/pedals/s
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

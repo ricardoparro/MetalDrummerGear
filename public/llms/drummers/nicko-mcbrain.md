@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/nicko-mcbrain"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Nicko McBrain — Drum Kit & Gear Setup
@@ -83,6 +83,10 @@ A: Nicko McBrain's drum set pairs Sonor SQ2 shells and his signature 14"x6.5" sn
 
 A: Nicko McBrain uses Paiste 2002 and Signature Series cymbals, including 14" Sound Edge Hi-Hats, 16" and 18" Power Crashes, a 22" Power Ride, and a 20" China.
 
+**Q: What hi-hats does Nicko McBrain use?**
+
+A: Nicko McBrain plays 14" Paiste Sound Edge Hi-Hats, a serrated-edge design that gives his galloping rhythms a sharper, more cutting chick sound.
+
 **Q: What snare drum does Nicko McBrain use?**
 
 A: Nicko McBrain's primary snare is his own Sonor Nicko McBrain Signature, a 14"x6.5" shell.
@@ -145,4 +149,4 @@ Full breakdown: [Nicko McBrain's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

@@ -246,7 +246,7 @@ Each of the 67 drummers has a dedicated endorsement page with current endorsemen
 A: Lars Ulrich endorses Tama drums (Starclassic Maple), Zildjian cymbals (A Custom Series), Tama Iron Cobra 900 Power Glide double pedal, and Ahead Lars Ulrich Signature drumsticks.
 
 **Q: Who are Meinl's top metal drummer endorsers?**
-A: Among the 15 endorsement-tracked drummers on MetalForge, Meinl's endorsers are Brann Dailor (Mastodon), Chris Adler (Lamb of God), and Matt Halpern (Periphery) — all using the Byzance series.
+A: Among the 67 endorsement-tracked drummers on MetalForge, Meinl's endorsers are Brann Dailor (Mastodon), Chris Adler (Lamb of God), and Matt Halpern (Periphery) — all using the Byzance series.
 
 **Q: Which metal drummers use Pearl drums?**
 A: Joey Jordison (Pearl Reference Series), George Kollias (Pearl Masterworks Stadium Exotic), Matt Halpern (Pearl Reference Series), and Inferno (Pearl Masterworks) all endorse Pearl drum kits.
@@ -258,7 +258,7 @@ A: Tomas Haake of Meshuggah endorses Sabian cymbals (HHX & AAX Series), not Mein
 A: Six of the 15 tracked drummers endorse Paiste: Joey Jordison, Dave Lombardo, Eloy Casagrande, Danny Carey, Inferno, and Charlie Benante.
 
 **Q: Who uses DW pedals?**
-A: Jay Weinberg endorses DW 9000 Series double pedals. Danny Carey uses Sonor pedals. The majority of these 15 drummers use Tama or Pearl pedal systems.
+A: Jay Weinberg endorses DW 9000 Series double pedals. Danny Carey uses Sonor pedals. The majority of these 67 drummers use Tama or Pearl pedal systems.
 
 **Q: What makes Tama the dominant drum brand in metal?**
 A: Seven of the 15 MetalForge endorsement-tracked drummers use Tama kits (Lars Ulrich, Dave Lombardo, Eloy Casagrande, Mike Portnoy, Mario Duplantier, Brann Dailor, Charlie Benante), making Tama the most represented drum brand in this index. Tama's Starclassic series and Iron Cobra pedal system are the most-used products.

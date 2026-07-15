@@ -2924,6 +2924,11 @@ function getMetaForPath(pathname) {
           { name: 'Drummers', url: `${BASE_URL}/drummers` },
           { name: drummer.name, url: `${BASE_URL}/${slug}` },
         ],
+        // Issue #4665: voice-search/AI-overview eligibility for drummer profiles.
+        // h1 (title), h2 (subheading) and p (description) are the only elements
+        // this route's generic SSR template actually renders.
+        speakableSchema: true,
+        speakableCssSelector: ['h1', 'h2', 'p'],
       };
     }
   }
@@ -4774,10 +4779,15 @@ ${JSON.stringify(schema, null, 2)}
 function generateSpeakableSchema(meta) {
   if (!meta.speakableSchema) return '';
 
+  // Issue #4665: routes can override cssSelector via meta.speakableCssSelector
+  // when the default ['h1', '.article-lead', '.key-fact'] doesn't match what
+  // this file's generic SSR body template actually renders (e.g. drummer
+  // profiles, which only ever emit bare h1/h2/p — no .article-lead/.key-fact
+  // classes or client-only #drummer-* ids exist server-side).
   const schema = {
     '@context': 'https://schema.org',
     '@type': 'SpeakableSpecification',
-    cssSelector: ['h1', '.article-lead', '.key-fact'],
+    cssSelector: meta.speakableCssSelector || ['h1', '.article-lead', '.key-fact'],
   };
 
   return `

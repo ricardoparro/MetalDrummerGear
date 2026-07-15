@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/aquiles-priester"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Aquiles Priester — Drum Kit & Gear Setup
@@ -76,6 +76,10 @@ A: Aquiles Priester's drum set is a Pearl Reference Series configuration built a
 **Q: What cymbals does Aquiles Priester use?**
 
 A: Aquiles Priester uses Sabian HHX and AAX Series cymbals: 14" HHX Evolution Hi-Hats, 18" and 19" HHX X-Plosion Crashes, a 21" HHX Groove Ride, and an 18" AAX Chinese cymbal.
+
+**Q: What hi-hats does Aquiles Priester use?**
+
+A: Aquiles Priester plays 14" Sabian HHX Evolution Hi-Hats, delivering the bright, articulate chick sound that keeps pace with his rapid single- and double-stroke fills.
 
 **Q: What snare drum does Aquiles Priester play?**
 
@@ -147,4 +151,4 @@ Full breakdown: [Aquiles Priester's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

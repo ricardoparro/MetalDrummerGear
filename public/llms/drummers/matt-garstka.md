@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/matt-garstka"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Matt Garstka — Drum Kit & Gear Setup
@@ -71,6 +71,10 @@ A: Matt Garstka's drum set centers on the same Tama Starclassic Walnut/Birch she
 
 A: Matt Garstka plays Meinl Byzance Series cymbals: 15" Dual Hi-Hats for nuanced, washy articulation, 18" and 20" Extra Dry Medium Crashes for quick-decaying accents, and a 22" Dual Ride for complex rhythmic definition.
 
+**Q: What hi-hats does Matt Garstka use?**
+
+A: Matt Garstka plays 15" Meinl Byzance Dual Hi-Hats, chosen for the nuanced, washy articulation that suits his ghost-note-heavy, jazz-fusion-infused playing.
+
 **Q: What snare does Matt Garstka use?**
 
 A: Matt Garstka's snare is his Tama S.L.P. 14"x6" G-Maple signature model, delivering the articulate crack that anchors his ghost-note-heavy patterns on Animals as Leaders records.
@@ -132,4 +136,4 @@ Full breakdown: [Matt Garstka's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

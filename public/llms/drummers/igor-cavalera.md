@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/igor-cavalera"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Igor Cavalera — Drum Kit & Gear Setup
@@ -85,6 +85,10 @@ A: Igor Cavalera's drum set pairs Tama Starclassic Maple shells and his S.L.P. 1
 
 A: Igor Cavalera uses Paiste RUDE and 2002 Series cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China.
 
+**Q: What hi-hats does Igor Cavalera use?**
+
+A: Igor Cavalera plays 14" Paiste RUDE Hi-Hats, delivering the harsh, cutting articulation that drives Sepultura's tribal groove metal rhythms.
+
 **Q: What snare drum does Igor Cavalera use?**
 
 A: Igor Cavalera's primary snare is the Tama S.L.P. 14"x6.5" G-Maple.
@@ -140,4 +144,4 @@ Full breakdown: [Igor Cavalera's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

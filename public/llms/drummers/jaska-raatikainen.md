@@ -6,7 +6,7 @@ country: "Finland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jaska-raatikainen"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Jaska Raatikainen — Drum Kit & Gear Setup
@@ -73,6 +73,10 @@ A: Jaska Raatikainen's drum set was a Pearl Masters Premium Maple configuration 
 
 A: Jaska Raatikainen uses Zildjian A Custom and K Custom Series cymbals: 14" A Custom Hi-Hats for a bright, cutting chick, 17" and 18" A Custom Crashes for fast-attack accents, and a 20" K Custom Ride for dark, controlled rhythmic work.
 
+**Q: What hi-hats did Jaska Raatikainen use?**
+
+A: Jaska Raatikainen played 14" Zildjian A Custom Hi-Hats, delivering the bright, cutting chick sound that anchored Children of Bodom's neoclassical melodic death metal rhythms.
+
 **Q: What snare drum does Jaska Raatikainen play?**
 
 A: Jaska Raatikainen plays a Pearl Masters 14"x5.5" maple snare, a warm, articulate shell chosen to cut through Children of Bodom's dense neoclassical melodic death metal arrangements.
@@ -135,4 +139,4 @@ Full breakdown: [Jaska Raatikainen's pedal setup](https://metalforge.io/pedals/s
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

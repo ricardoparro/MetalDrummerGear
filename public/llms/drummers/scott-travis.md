@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/scott-travis"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Scott Travis — Drum Kit & Gear Setup
@@ -83,6 +83,10 @@ A: Scott Travis's drum set is a ddrum Dominion Series kit fitted with his signat
 
 A: Scott Travis uses Paiste RUDE and 2002 Series cymbals, including 14" RUDE hi-hats, 18" and 19" RUDE crashes, a 22" RUDE Power Ride, and an 18" RUDE China.
 
+**Q: What hi-hats does Scott Travis use?**
+
+A: Scott Travis plays 14" Paiste RUDE hi-hats, delivering the aggressive, cutting chick sound needed to punch through Judas Priest's dual-guitar attack.
+
 **Q: What snare drum does Scott Travis use?**
 
 A: Scott Travis's primary snare is the ddrum Scott Travis Signature, a 14"x6.5" shell built to his own specifications.
@@ -145,4 +149,4 @@ Full breakdown: [Scott Travis's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

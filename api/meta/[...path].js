@@ -2963,6 +2963,11 @@ function getMetaForPath(pathname) {
             },
           ],
         }),
+        // Issue #4699: bot-facing SSR shell had zero internal links.
+        ssrLinks: _dedupeSsrLinksByHref([
+          { href: `/drummers/${drummerSlug}`, label: `${drummer.name} Profile` },
+          { href: `/drummers/${drummerSlug}/evolution`, label: `${drummer.name} Gear Evolution` },
+        ]),
       };
     }
   }
@@ -3547,6 +3552,17 @@ function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummer/${drummerSlug}` },
           { name: categoryLabel, url: `${BASE_URL}/drummer/${drummerSlug}/${category}` },
         ],
+        // Issue #4699: bot-facing SSR shell had zero internal links — nav dead
+        // end for crawlers that don't execute JS. Evolution link only added
+        // when DRUMMER_EVOLUTION has data for this drummer, since not every
+        // drummer has an evolution page.
+        ssrLinks: _dedupeSsrLinksByHref([
+          { href: `/drummer/${drummerSlug}`, label: `${drummer.name} Profile` },
+          { href: `/gear/${category}`, label: `All ${categoryLabel}` },
+          ...(DRUMMER_EVOLUTION[drummerSlug]
+            ? [{ href: `/drummers/${drummerSlug}/evolution`, label: `${drummer.name} Gear Evolution` }]
+            : []),
+        ]),
       };
     }
   }

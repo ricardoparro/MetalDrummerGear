@@ -1590,3 +1590,39 @@ All 4 checked against `gh issue list --state all --search` — zero overlap with
 - Once #4664 ships, re-run the roster-wide FAQ depth check (`Object.values(bios).filter(v => (v?.sections?.faq?.items?.length||0) < 7).length` should read 0) to confirm the pattern is fully closed — no more FAQ-depth tranches should be needed after this.
 - Once #4665 ships, spot-check 2-3 more drummer slugs beyond matt-greiner for the SpeakableSpecification block, and consider a follow-up extending the same flag to technique/gear/list pages if this pattern proves valuable (not proposed this run — kept atomic).
 - The `/llms/*.md` hub-drift vein is now largely mined out (only the one small index.md fix found this sweep) — future runs should widen scope to structural checks (dynamic-vs-static generation audits like the #870/#871/#872 check done this run) rather than re-sweeping the same hub files repeatedly.
+
+
+---
+## 2026-07-15 (2-hourly run, ~12:xx) — Bank at 3 (all umbrella trackers), filed 1 fresh batch (ssrLinks on 4 previously-uncovered hub pages)
+
+**Bank check:** `gh issue list --state open --label seo-proposal` = 3 open at run start, all standing umbrella trackers (#2211/#3810/#3819) — zero real untriaged proposals. Well under the 45 floor, cleared to file up to 8. Filed 1 well-verified batch — a targeted gap-hunt found exactly one high-confidence, non-duplicate candidate after ruling out several others; declined to pad with weaker findings.
+
+**Confirmed shipped since last entry:** #4663/#4664/#4665 (Week 27 batch) all merged to main (`197cdb64`, `3ba641be`, `1f8a737c`), but merged *after* today's 06:43:07Z deploy — live-curl confirms Matt Greiner still shows 4 FAQ Questions (not yet 9) and no `speakable` string on `/drummer/lars-ulrich` — expected deploy-lag, not a regression, not re-flagged. Also confirmed already-live from earlier batches: Lars Ulrich `Person.description` present (#4635), 9 FAQ Questions (prior tranches).
+
+**Audit:**
+- `robots.txt` — 13 `User-agent:` blocks, all 8 required AI crawlers + Claude-Web explicitly allowed, no crawl-delay on AI bots. ✅ healthy.
+- Sitemap = 6,475 `<loc>` entries (up from 6,193 last week — confirms #4648/#4649/#4650/#4656/#4657/#4658 landed and deployed).
+- `llms.txt` = 100 lines, `llms-full.txt` = 19,066 lines, `/llms/drummers/` = 67/67 files. All current.
+- GSC content-gap queries (`joey jordison drum set` 52 impr/1.92% CTR, `mike portnoy drum set` 51 impr/1.96% CTR) — both live-verified via Googlebot-UA curl to already have correct, targeted SSR titles (`Joey Jordison Drum Set, Kit & Instruments | MetalForge`, `Mike Portnoy Drum Set & Kit — Dream Theater Gear | MetalForge`). Confirms the standing finding from every run since 07-13: already fixed (#4551/#4593), pending Google re-crawl. Not re-filed.
+
+**Key finding (#4669):** delegated an Explore gap-hunt with a large exclusion list covering the full mined history (robots.txt, llms.txt/llms-full.txt freshness, all llms/index.md discovery rows, llms/articles sitemap↔disk drift, how-to-sound-like guides, gear/item mirrors, Quick Facts/#870-874, FAQ depth, FAQPage/Person/Speakable schema wiring, imageAlt, metaTitle/metaDescription, ssrLinks on 20+ already-fixed hub/detail pages, vercel.json meta-shell saga, cymbals-signature false positive, HTML→llms-mirror reciprocal-linking). It surfaced 4 hub pages with zero `ssrLinks` in their bot-facing SSR shell: `/timeline`, `/cards`, `/bpm`+`/bpm-tap`, `/gear-finder`. Independently re-verified before filing:
+- Live bot-UA curl on all 4 confirmed zero `ssrLinks`/`<nav` occurrences.
+- Confirmed no overlap with prior ssrLinks batches by reading their issue bodies: #4355 covered `/drummers`/`/vs`/`/guides`/`/techniques`/`/articles`/`/bands`/`/genres`/`/lists`/`/battles`; #4362 covered technique/genre detail pages; #4477 covered the 4 brand-detail families; #4650/#4656 covered drumsticks/cymbals/snares/pedals pillar hubs + gear-news/endorsement-news. None touch these 4 routes.
+- Confirmed each has a real, already-available data source to build links from (not fabrication risk): `EVOLUTION_TIMELINE` (47 events, 29 with `drummerSlug`), the 21-entry drummer array in `GearCardsGallery.js`, `metalSongs` in `metalSongsBpm.js` (each song has a `drummer` slug field), and `DRUMMER_GEAR`/`BRAND_SEO_DATA` in `gearSearchData.js`.
+- Filed **#4669** with exact line numbers, before/after code per handler (reusing the existing `_dedupeSsrLinksByHref()` helper at line 442, same pattern as #4656's `/gear-news` fix) and a bot-UA curl verify plan per page.
+
+**Other angles checked, ruled out (no padding):** `/beginner-guide` and `/news` also lack `ssrLinks`, but their backing data (`BEGINNER_GUIDES` cross-links other guide slugs, not drummer/brand entities directly; `/news` is a general aggregator with no single clean data array in its handler) was less clean-cut than the 4 filed — left out to avoid fabrication risk rather than force a bigger batch. `/tools` also lacks `ssrLinks` but already exposes its 6 sub-tool links via `hasPart` in its JSON-LD; the incremental value of duplicating those same 6 internal links into a nav block is much smaller than the 4 filed — not filed this run, worth a cheap follow-up if the bank runs dry. No new data files added in the last 4 days (checked `git log --since="4 days ago" --diff-filter=A -- packages/frontend/data/`) — the 8 touched are all older pedal/snare batches, already fully wired.
+
+**Metrics (`.agents/ceo/metrics.md`, refreshed 2026-07-15 12:27 UTC):** 408 users/433 sessions/594 views 7d (organic search = 153/433 ≈ 35.3% of sessions — Direct 275/Unassigned 14, same compression-not-decline pattern as recent entries). GSC: 5,729 impr/128 clicks/2.23% CTR/pos 9.3. Content-gap queries: `joey jordison drum set` (52 impr, 1.92% CTR), `mike portnoy drum set` (51 impr, 1.96% CTR) — both already addressed per audit above, pending re-crawl, not re-filed.
+
+### Proposals filed this run
+1. #4669 — SEO batch: Add ssrLinks to /timeline, /cards, /bpm, /gear-finder hub pages (~4 pages, ~80+ links)
+
+### Open proposals waiting on CEO triage
+- #4669 (filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals, left as-is per established convention
+
+### Next run
+- Watch #4669 through CEO triage and Ralph implementation. Once shipped, bot-UA curl `<li><a` counts on all 4 pages per the issue's Verify section.
+- Once tomorrow's 06:00 UTC deploy fires, re-check `/drummer/matt-greiner` FAQ Question count (should flip 4→9, confirming #4664 live) and `/drummer/lars-ulrich` for the `speakable` string (confirming #4665 live) — don't re-flag either as broken before then.
+- If the bank runs dry again before fresh proposals land, consider the cheap `/tools` ssrLinks follow-up (6 sub-tool links, lower priority than #4669's 4 pages) as a quick top-up.

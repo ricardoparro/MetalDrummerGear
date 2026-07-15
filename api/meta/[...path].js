@@ -2801,6 +2801,10 @@ function getMetaForPath(pathname) {
             },
           ],
         }),
+        ssrLinks: [
+          { href: `/drummers/${slug}`, label: `${drummer.name} Profile` },
+          { href: `/drummers/${slug}/endorsements`, label: `${drummer.name} Endorsements` },
+        ],
       };
     }
   }

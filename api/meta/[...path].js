@@ -54,6 +54,11 @@ import { getGearPriceHistory, formatHistoryPrice } from '../../packages/frontend
 // Ported from the dead api/meta/index.js (never wired into any rewrite/handler path).
 import { genres as GENRES, getAllGenreSlugs } from '../../packages/frontend/data/genres.js';
 import { drummerBirthdays } from '../../packages/frontend/data/birthdays.js';
+// Issue #4656: /gear-news and /endorsement-news hub ssrLinks — same data the
+// live news pages themselves render, previously never wired into the
+// bot-facing SSR shell (CollectionPage schema with zero outbound links).
+import { GEAR_NEWS } from '../../packages/frontend/data/gearNews.js';
+import { ENDORSEMENT_NEWS } from '../../packages/frontend/data/endorsementNews.js';
 // Issue #4268: /guides/beginner-metal-drummer-setup + /guides/budget-metal-drum-setup-{500,1000,2000}
 // were rendering title/description-only stubs (or falling through to the generic
 // /guides/<slug> fallback) with zero HowTo/FAQPage JSON-LD in bot-facing SSR.
@@ -1065,6 +1070,13 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/news-preview.png`,
       type: 'website',
       url: `${BASE_URL}/gear-news`,
+      // Issue #4656: crawlable links to every drummer/brand referenced by a
+      // gear news entry — this hub previously had zero outbound links from
+      // the bot-facing shell.
+      ssrLinks: _dedupeSsrLinksByHref([
+        ...GEAR_NEWS.filter(n => n.drummerSlug).map(n => ({ href: `/drummer/${n.drummerSlug}`, label: n.title })),
+        ...GEAR_NEWS.filter(n => n.brandSlug).map(n => ({ href: `/brands/${n.brandSlug}`, label: n.title })),
+      ]),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -3488,6 +3500,15 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/spotlights`,
+      // Issue #4656: crawlable links to every drummer with a spotlight
+      // feature — this hub previously had zero outbound links from the
+      // bot-facing shell.
+      ssrLinks: _dedupeSsrLinksByHref(
+        drummers.filter(d => d.spotlight).map(d => ({
+          href: `/drummer/${_normalizeDrummerSlug(d.name)}`,
+          label: d.name,
+        }))
+      ),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -3549,6 +3570,15 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/endorsement-news`,
+      // Issue #4656: crawlable links to every drummer referenced by an
+      // endorsement news entry — this hub previously had zero outbound
+      // links from the bot-facing shell.
+      ssrLinks: _dedupeSsrLinksByHref(
+        ENDORSEMENT_NEWS.filter(n => n.drummerSlug).map(n => ({
+          href: `/drummer/${n.drummerSlug}`,
+          label: n.title,
+        }))
+      ),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',

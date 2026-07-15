@@ -1030,6 +1030,7 @@ function getMetaForPath(pathname) {
         description: `Replicate ${drummer.name}'s ${drummer.band} drum sound. Gear list, settings, and technique tips to get that signature tone.`,
         type: 'article',
         url: guideUrl,
+        image: guide?.ogImage ? `${BASE_URL}${guide.ogImage}` : DEFAULT_IMAGE,
         articleSchema: howToSchema ? JSON.stringify(howToSchema) : null,
         // Issue #2202: FAQPage schema alongside HowTo for AI Overview + voice search unlock.
         faqSchema: guide?.faq?.length ? guide.faq : null,
@@ -1663,6 +1664,7 @@ function getMetaForPath(pathname) {
     return {
       title: `Metal Drummer Gear Search — Find Drums & Cymbals by Spec | ${SITE_NAME}`,
       description: 'Search and filter drum gear used by 67 metal legends. Find kits, cymbals, pedals, and sticks by brand, price, or drummer.',
+      image: `${BASE_URL}/images/og/default.png`,
       type: 'website',
       url: `${BASE_URL}/tools/gear-search`,
       articleSchema: JSON.stringify({
@@ -1681,6 +1683,7 @@ function getMetaForPath(pathname) {
     return {
       title: `Dream Metal Drum Kit Builder — Mix Gear from the Legends | ${SITE_NAME}`,
       description: 'Build your ultimate metal drum kit by combining gear from your favourite drummers. Mix Lars Ulrich shells with George Kollias cymbals.',
+      image: `${BASE_URL}/images/og/default.png`,
       type: 'website',
       url: `${BASE_URL}/tools/dream-set-builder`,
       articleSchema: JSON.stringify({
@@ -1698,6 +1701,7 @@ function getMetaForPath(pathname) {
     return {
       title: `Dream Setup Builder — Guided Metal Drum Gear Wizard | ${SITE_NAME}`,
       description: 'Answer a few questions about your budget, genre, and skill level to get a personalized metal drum kit recommendation, matched against real pro drummer setups.',
+      image: `${BASE_URL}/images/og/default.png`,
       type: 'website',
       url: `${BASE_URL}/tools/setup-builder`,
       articleSchema: JSON.stringify({
@@ -1716,6 +1720,7 @@ function getMetaForPath(pathname) {
     return {
       title: `Metal Drummer Tier List — Rank the Greatest of All Time | ${SITE_NAME}`,
       description: 'Create your own metal drummer tier list. Rank legends like Joey Jordison, Dave Lombardo, and George Kollias from S to D tier.',
+      image: `${BASE_URL}/images/og/default.png`,
       type: 'website',
       url: `${BASE_URL}/tools/tier-list`,
       articleSchema: JSON.stringify({
@@ -1735,6 +1740,7 @@ function getMetaForPath(pathname) {
     return {
       title: `Metal Drummer Name Generator — Create Your Drummer Alias | ${SITE_NAME}`,
       description: 'Generate an epic metal drummer name in seconds. Perfect for band projects, gaming aliases, or just for fun.',
+      image: `${BASE_URL}/images/og/default.png`,
       type: 'website',
       url: `${BASE_URL}/tools/name-generator`,
       articleSchema: JSON.stringify({
@@ -2849,6 +2855,7 @@ function getMetaForPath(pathname) {
       return {
         title: `${drummer.name} Drum Kit Evolution — Complete Gear History | ${SITE_NAME}`,
         description: `How ${drummer.name}'s drum setup evolved from ${evolution.eras?.[0]?.year || evolution.eras?.[0]?.startYear || 'early career'} to today. Every kit change across ${drummer.band}'s discography.`,
+        image: drummer.image || `${BASE_URL}/images/og/default.png`,
         type: 'article',
         url: `${BASE_URL}/drummers/${slug}/evolution`,
         articleSchema: JSON.stringify({
@@ -2933,6 +2940,7 @@ function getMetaForPath(pathname) {
       return {
         title: `${gear.fullName} — ${drummer.name}'s Signature ${gear.gearType} | ${SITE_NAME}`,
         description: `${gear.hero.tagline}. Full specs, story, and pricing for ${drummer.name}'s ${gear.name} (${gear.model}).`,
+        image: gear.seo?.ogImage || gear.hero?.heroImage || drummer.image || `${BASE_URL}/images/og/default.png`,
         type: 'website',
         url: `${BASE_URL}/drummers/${drummerSlug}/signature/${gearSlug}`,
         articleSchema: JSON.stringify({
@@ -3523,6 +3531,7 @@ function getMetaForPath(pathname) {
       return {
         title: `${drummer.name} ${categoryLabel} — Drum Gear & Setup | ${SITE_NAME}`,
         description: `See what ${categoryLabel.toLowerCase()} ${drummer.name} uses. Complete ${drummer.band} drummer gear list with specs and prices.`,
+        image: drummer.image || `${BASE_URL}/images/og/default.png`,
         type: 'website',
         url: `${BASE_URL}/drummer/${drummerSlug}/${category}`,
         articleSchema: JSON.stringify({

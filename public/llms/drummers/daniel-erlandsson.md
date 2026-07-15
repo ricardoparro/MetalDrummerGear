@@ -6,7 +6,7 @@ country: "Sweden"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/daniel-erlandsson"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Daniel Erlandsson — Drum Kit & Gear Setup
@@ -95,6 +95,10 @@ A: Daniel Erlandsson uses Vic Firth American Classic 5B drumsticks.
 
 A: Daniel Erlandsson uses Evans drumheads across his Pearl Reference Pure kit.
 
+**Q: What hi-hats does Daniel Erlandsson use?**
+
+A: Daniel Erlandsson uses 14" Paiste RUDE Hi-Hats for aggressive, cutting chick sounds, mounted on his Pearl Reference Pure drum kit and drum set.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Daniel Erlandsson:
@@ -134,4 +138,4 @@ Full breakdown: [Daniel Erlandsson's pedal setup](https://metalforge.io/pedals/s
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

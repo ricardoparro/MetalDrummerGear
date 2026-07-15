@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/nicko-mcbrain"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Nicko McBrain — Drum Kit & Gear Setup
@@ -95,6 +95,10 @@ A: No — Nicko McBrain famously plays a single bass drum pedal rather than doub
 
 A: Nicko McBrain plays his own signature Vic Firth Nicko McBrain drumsticks.
 
+**Q: What drumheads does Nicko McBrain use?**
+
+A: Nicko McBrain uses Remo Emperor drumheads across his Sonor SQ2 Series drum kit and drum set.
+
 ## Quotes
 
 > "I've never needed a double bass pedal. One foot is enough if you practice hard."
@@ -145,4 +149,4 @@ Full breakdown: [Nicko McBrain's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

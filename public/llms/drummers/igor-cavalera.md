@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/igor-cavalera"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Igor Cavalera — Drum Kit & Gear Setup
@@ -97,6 +97,10 @@ A: Igor Cavalera drives his tribal-influenced double bass patterns with a Tama I
 
 A: Igor Cavalera plays Vic Firth American Classic 5B drumsticks.
 
+**Q: What percussion does Igor Cavalera use?**
+
+A: Beyond his Tama Starclassic Maple drum kit and drum set, Igor Cavalera incorporates traditional Brazilian percussion — atabaques, surdo, and timbales — for the tribal rhythms he pioneered on Sepultura's Roots (1996).
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Igor Cavalera:
@@ -140,4 +144,4 @@ Full breakdown: [Igor Cavalera's pedal setup](https://metalforge.io/pedals/setup
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1798,7 +1798,8 @@ Known for his powerful, groove-oriented drumming style and dynamic stage presenc
           { q: 'What sticks does Shannon Larkin use?', a: 'Shannon Larkin uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal does Shannon Larkin use?', a: 'Shannon Larkin drives his powerful double kick foundation with a DW 9000 Series double pedal.' },
           { q: 'What drumheads does Shannon Larkin use?', a: 'Shannon Larkin uses Evans drumheads across his ddrum Dios kit.' },
-          { q: 'What band is Shannon Larkin in?', a: 'Shannon Larkin was the drummer for Godsmack from 2002 to 2024, making him the band\'s longest-serving drummer. He previously played with Ugly Kid Joe (1991-1997), Wrathchild America (1989-1991), and Another Animal (2007-2008).' }
+          { q: 'What band is Shannon Larkin in?', a: 'Shannon Larkin was the drummer for Godsmack from 2002 to 2024, making him the band\'s longest-serving drummer. He previously played with Ugly Kid Joe (1991-1997), Wrathchild America (1989-1991), and Another Animal (2007-2008).' },
+          { q: 'What throne does Shannon Larkin use?', a: 'Shannon Larkin sits on a Pork Pie Big Boy throne behind his ddrum Dios Series drum kit, the same drum set he has used since joining Godsmack in 2002.' }
         ]
       },
       sources: {
@@ -2185,7 +2186,8 @@ His innovative drumming on albums like "Arise," "Chaos A.D.," and "Roots" helped
           { q: 'What cymbals does Igor Cavalera use?', a: 'Igor Cavalera uses Paiste RUDE and 2002 Series cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 22" RUDE Power Ride, and an 18" 2002 China.' },
           { q: 'What snare drum does Igor Cavalera use?', a: 'Igor Cavalera\'s primary snare is the Tama S.L.P. 14"x6.5" G-Maple.' },
           { q: 'What pedals does Igor Cavalera use?', a: 'Igor Cavalera drives his tribal-influenced double bass patterns with a Tama Iron Cobra double pedal.' },
-          { q: 'What drumsticks does Igor Cavalera use?', a: 'Igor Cavalera plays Vic Firth American Classic 5B drumsticks.' }
+          { q: 'What drumsticks does Igor Cavalera use?', a: 'Igor Cavalera plays Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What percussion does Igor Cavalera use?', a: 'Beyond his Tama Starclassic Maple drum kit and drum set, Igor Cavalera incorporates traditional Brazilian percussion — atabaques, surdo, and timbales — for the tribal rhythms he pioneered on Sepultura\'s Roots (1996).' }
         ]
       },
       sources: {
@@ -2584,7 +2586,8 @@ Before Dream Theater, Mangini built an impressive resume with Steve Vai, Extreme
           { q: 'What cymbals does Mike Mangini use?', a: 'Mike Mangini uses Sabian HHX and AAX Series cymbals, including 14" HHX Evolution Hi-Hats, 17", 18", and 19" HHX Evolution Crashes, and a 21" HHX Raw Bell Dry Ride.' },
           { q: 'What snare drum does Mike Mangini use?', a: 'Mike Mangini plays two Pearl Reference brass snares — a 14"x5" and a 14"x6.5" — switching between them for different sonic needs.' },
           { q: 'What pedals does Mike Mangini use?', a: 'Mike Mangini drives his technical double bass patterns with a Pearl Demon Drive double pedal.' },
-          { q: 'What drumsticks does Mike Mangini use?', a: 'Mike Mangini plays his own signature Vater Mike Mangini Wicked Piston (VHMMWP) drumsticks.' }
+          { q: 'What drumsticks does Mike Mangini use?', a: 'Mike Mangini plays his own signature Vater Mike Mangini Wicked Piston (VHMMWP) drumsticks.' },
+          { q: 'What electronics does Mike Mangini use?', a: 'Mike Mangini integrates a Roland TD-50 module for triggers and samples into his Pearl Reference Series drum kit, giving his drum set the electronic textures heard on recent Dream Theater albums.' }
         ]
       },
       sources: {
@@ -2709,7 +2712,8 @@ Garstka joined Animals as Leaders after the departure of original drummer Navene
           { q: 'What sticks does Matt Garstka use?', a: 'Matt Garstka uses Vic Firth Matt Garstka Signature drumsticks, his own signature model developed with Vic Firth.' },
           { q: 'What bass drum pedal does Matt Garstka use?', a: 'Matt Garstka drives his double bass patterns with a Tama Speed Cobra 910 double pedal.' },
           { q: 'What drumheads does Matt Garstka use?', a: 'Matt Garstka uses Evans drumheads across his Tama Starclassic kit.' },
-          { q: 'What band is Matt Garstka in?', a: 'Matt Garstka has been the drummer for instrumental progressive metal band Animals as Leaders since 2012, appearing on The Joy of Motion (2014), The Madness of Many (2016), and Parrhesia (2022).' }
+          { q: 'What band is Matt Garstka in?', a: 'Matt Garstka has been the drummer for instrumental progressive metal band Animals as Leaders since 2012, appearing on The Joy of Motion (2014), The Madness of Many (2016), and Parrhesia (2022).' },
+          { q: 'What hi-hats does Matt Garstka use?', a: 'Matt Garstka uses 15" Meinl Byzance Dual Hi-Hats for nuanced, washy articulation, mounted on his Tama Starclassic Walnut/Birch drum kit and drum set.' }
         ]
       },
       sources: {
@@ -2843,7 +2847,8 @@ Before Arch Enemy, Erlandsson played with Eucharist, one of the pioneers of the 
           { q: 'What bass drum pedals does Daniel Erlandsson use?', a: 'Daniel Erlandsson uses a Pearl Demon Drive double bass drum pedal, driving his rapid, precise double-bass patterns across decades of Arch Enemy recordings and tours.' },
           { q: 'What band is Daniel Erlandsson in?', a: 'Daniel Erlandsson is a founding member and drummer of melodic death metal band Arch Enemy, formed in 1995, and also plays with Brujeria.' },
           { q: 'What drumsticks does Daniel Erlandsson use?', a: 'Daniel Erlandsson uses Vic Firth American Classic 5B drumsticks.' },
-          { q: 'What drumheads does Daniel Erlandsson use?', a: 'Daniel Erlandsson uses Evans drumheads across his Pearl Reference Pure kit.' }
+          { q: 'What drumheads does Daniel Erlandsson use?', a: 'Daniel Erlandsson uses Evans drumheads across his Pearl Reference Pure kit.' },
+          { q: 'What hi-hats does Daniel Erlandsson use?', a: 'Daniel Erlandsson uses 14" Paiste RUDE Hi-Hats for aggressive, cutting chick sounds, mounted on his Pearl Reference Pure drum kit and drum set.' }
         ]
       },
       sources: {
@@ -2975,7 +2980,8 @@ Children of Bodom became one of Finland's most successful metal exports, selling
           { q: 'What bass drum pedals does Jaska Raatikainen use?', a: 'Jaska Raatikainen uses a Pearl Eliminator double bass drum pedal, its direct-drive mechanism essential for the rapid double bass volleys Children of Bodom made a genre cornerstone.' },
           { q: 'What band is Jaska Raatikainen in?', a: 'Jaska Raatikainen was the drummer and co-founder of Finnish melodic death metal band Children of Bodom from 1993 until the band\'s dissolution in 2019.' },
           { q: 'What drumsticks does Jaska Raatikainen use?', a: 'Jaska Raatikainen uses Vic Firth American Classic 5A drumsticks.' },
-          { q: 'What drumheads does Jaska Raatikainen use?', a: 'Jaska Raatikainen uses Remo drumheads across his Pearl Masters Premium Maple kit.' }
+          { q: 'What drumheads does Jaska Raatikainen use?', a: 'Jaska Raatikainen uses Remo drumheads across his Pearl Masters Premium Maple kit.' },
+          { q: 'What hi-hats does Jaska Raatikainen use?', a: 'Jaska Raatikainen uses 14" Zildjian A Custom Hi-Hats for a bright, cutting chick, mounted on his Pearl Masters Premium Maple drum kit and drum set.' }
         ]
       },
       sources: {
@@ -3729,7 +3735,8 @@ McBrain is renowned for his powerful single bass drum technique, incredible stam
           { q: 'What cymbals does Nicko McBrain use?', a: 'Nicko McBrain uses Paiste 2002 and Signature Series cymbals, including 14" Sound Edge Hi-Hats, 16" and 18" Power Crashes, a 22" Power Ride, and a 20" China.' },
           { q: 'What snare drum does Nicko McBrain use?', a: 'Nicko McBrain\'s primary snare is his own Sonor Nicko McBrain Signature, a 14"x6.5" shell.' },
           { q: 'Does Nicko McBrain use a double bass pedal?', a: 'No — Nicko McBrain famously plays a single bass drum pedal rather than double bass or a second kick, relying on his signature single-foot "gallop" technique heard on songs like "The Trooper."' },
-          { q: 'What drumsticks does Nicko McBrain use?', a: 'Nicko McBrain plays his own signature Vic Firth Nicko McBrain drumsticks.' }
+          { q: 'What drumsticks does Nicko McBrain use?', a: 'Nicko McBrain plays his own signature Vic Firth Nicko McBrain drumsticks.' },
+          { q: 'What drumheads does Nicko McBrain use?', a: 'Nicko McBrain uses Remo Emperor drumheads across his Sonor SQ2 Series drum kit and drum set.' }
         ]
       },
       sources: {
@@ -3855,7 +3862,8 @@ Before joining Judas Priest, Travis was a founding member of neo-classical metal
           { q: 'What cymbals does Scott Travis use?', a: 'Scott Travis uses Paiste RUDE and 2002 Series cymbals, including 14" RUDE hi-hats, 18" and 19" RUDE crashes, a 22" RUDE Power Ride, and an 18" RUDE China.' },
           { q: 'What snare drum does Scott Travis use?', a: 'Scott Travis\'s primary snare is the ddrum Scott Travis Signature, a 14"x6.5" shell built to his own specifications.' },
           { q: 'What pedals does Scott Travis use?', a: 'Scott Travis drives his double bass technique with a DW 9000 Series double pedal, mounted in a Gibraltar rack system for consistent positioning on world arena tours.' },
-          { q: 'What drumsticks does Scott Travis use?', a: 'Scott Travis plays Vic Firth American Classic 5B drumsticks, paired with Remo drumheads.' }
+          { q: 'What drumsticks does Scott Travis use?', a: 'Scott Travis plays Vic Firth American Classic 5B drumsticks, paired with Remo drumheads.' },
+          { q: 'What drumheads does Scott Travis use?', a: 'Scott Travis uses Remo drumheads across his ddrum Dominion Series drum kit and drum set.' }
         ]
       },
       sources: {
@@ -4873,7 +4881,8 @@ Priester is considered one of the greatest power metal drummers in the world. Hi
           { q: 'What bass drum pedals does Aquiles Priester use?', a: 'Aquiles Priester uses a Pearl Demon Drive double bass drum pedal, mounted on Pearl\'s Icon Rack System, delivering the sustained, high-speed double-bass patterns his playing is known for.' },
           { q: 'What band is Aquiles Priester in?', a: 'Aquiles Priester is best known for his work with Angra (2000-2012, 2023-present) and W.A.S.P. (2014-2021), along with his own project Hangar.' },
           { q: 'What drumsticks does Aquiles Priester use?', a: 'Aquiles Priester uses his signature Promark TX419W Aquiles Priester Autograph drumsticks.' },
-          { q: 'What drumheads does Aquiles Priester use?', a: 'Aquiles Priester uses Evans drumheads across his Pearl Reference Series kit.' }
+          { q: 'What drumheads does Aquiles Priester use?', a: 'Aquiles Priester uses Evans drumheads across his Pearl Reference Series kit.' },
+          { q: 'What hardware does Aquiles Priester use?', a: 'Aquiles Priester mounts his Pearl Demon Drive double pedal on Pearl\'s Icon Rack System, supporting his Pearl Reference Series drum kit and drum set on world tours.' }
         ]
       },
       sources: {
@@ -6166,7 +6175,8 @@ Hellhammer joined Mayhem in 1988, becoming their most enduring member and the rh
           { q: 'What cymbals does Hellhammer use?', a: 'Hellhammer uses Paiste RUDE cymbals, including 14" RUDE Hi-Hats, 18" and 19" RUDE Crashes, a 20" RUDE Ride, and an 18" RUDE China.' },
           { q: 'What snare drum does Hellhammer use?', a: 'Hellhammer\'s primary snare is the Sonor SQ2, a 14"x5.5" maple shell.' },
           { q: 'What pedals does Hellhammer use?', a: 'Hellhammer drives his extreme-tempo double bass playing with an Axis double pedal, seated on a Sonor drummer\'s throne.' },
-          { q: 'What drumsticks does Hellhammer use?', a: 'Hellhammer plays Vic Firth American Classic 5B drumsticks.' }
+          { q: 'What drumsticks does Hellhammer use?', a: 'Hellhammer plays Vic Firth American Classic 5B drumsticks.' },
+          { q: 'What drumheads does Hellhammer use?', a: 'Hellhammer uses Remo drumheads across his Sonor SQ2 Heavy Beech drum kit and drum set.' }
         ]
       },
       sources: {

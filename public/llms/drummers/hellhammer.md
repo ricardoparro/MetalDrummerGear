@@ -6,7 +6,7 @@ country: "Norway"
 primary_brand: "Sonor"
 profile_url: "https://metalforge.io/drummer/hellhammer"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Hellhammer — Drum Kit & Gear Setup
@@ -95,6 +95,10 @@ A: Hellhammer drives his extreme-tempo double bass playing with an Axis double p
 
 A: Hellhammer plays Vic Firth American Classic 5B drumsticks.
 
+**Q: What drumheads does Hellhammer use?**
+
+A: Hellhammer uses Remo drumheads across his Sonor SQ2 Heavy Beech drum kit and drum set.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Hellhammer:
@@ -135,4 +139,4 @@ Full breakdown: [Hellhammer's pedal setup](https://metalforge.io/pedals/setups/h
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

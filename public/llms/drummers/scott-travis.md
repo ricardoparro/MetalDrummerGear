@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/scott-travis"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Scott Travis — Drum Kit & Gear Setup
@@ -95,6 +95,10 @@ A: Scott Travis drives his double bass technique with a DW 9000 Series double pe
 
 A: Scott Travis plays Vic Firth American Classic 5B drumsticks, paired with Remo drumheads.
 
+**Q: What drumheads does Scott Travis use?**
+
+A: Scott Travis uses Remo drumheads across his ddrum Dominion Series drum kit and drum set.
+
 ## Quotes
 
 > "Painkiller was a turning point for the band and for me. We pushed each other to new limits."
@@ -145,4 +149,4 @@ Full breakdown: [Scott Travis's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

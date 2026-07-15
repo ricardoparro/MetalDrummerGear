@@ -6,7 +6,7 @@ country: "Brazil"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/aquiles-priester"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Aquiles Priester — Drum Kit & Gear Setup
@@ -97,6 +97,10 @@ A: Aquiles Priester uses his signature Promark TX419W Aquiles Priester Autograph
 
 A: Aquiles Priester uses Evans drumheads across his Pearl Reference Series kit.
 
+**Q: What hardware does Aquiles Priester use?**
+
+A: Aquiles Priester mounts his Pearl Demon Drive double pedal on Pearl's Icon Rack System, supporting his Pearl Reference Series drum kit and drum set on world tours.
+
 ## Quotes
 
 > "Power metal demands power drumming. Every stroke has to hit like thunder."
@@ -147,4 +151,4 @@ Full breakdown: [Aquiles Priester's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

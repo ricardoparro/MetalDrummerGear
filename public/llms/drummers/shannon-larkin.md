@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "ddrum"
 profile_url: "https://metalforge.io/drummer/shannon-larkin"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Shannon Larkin — Drum Kit & Gear Setup
@@ -96,6 +96,10 @@ A: Shannon Larkin uses Evans drumheads across his ddrum Dios kit.
 
 A: Shannon Larkin was the drummer for Godsmack from 2002 to 2024, making him the band's longest-serving drummer. He previously played with Ugly Kid Joe (1991-1997), Wrathchild America (1989-1991), and Another Animal (2007-2008).
 
+**Q: What throne does Shannon Larkin use?**
+
+A: Shannon Larkin sits on a Pork Pie Big Boy throne behind his ddrum Dios Series drum kit, the same drum set he has used since joining Godsmack in 2002.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 5 signature lick tutorial(s) for Shannon Larkin:
@@ -139,4 +143,4 @@ Full breakdown: [Shannon Larkin's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

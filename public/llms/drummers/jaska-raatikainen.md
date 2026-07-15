@@ -6,7 +6,7 @@ country: "Finland"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/jaska-raatikainen"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Jaska Raatikainen — Drum Kit & Gear Setup
@@ -93,6 +93,10 @@ A: Jaska Raatikainen uses Vic Firth American Classic 5A drumsticks.
 
 A: Jaska Raatikainen uses Remo drumheads across his Pearl Masters Premium Maple kit.
 
+**Q: What hi-hats does Jaska Raatikainen use?**
+
+A: Jaska Raatikainen uses 14" Zildjian A Custom Hi-Hats for a bright, cutting chick, mounted on his Pearl Masters Premium Maple drum kit and drum set.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Jaska Raatikainen:
@@ -135,4 +139,4 @@ Full breakdown: [Jaska Raatikainen's pedal setup](https://metalforge.io/pedals/s
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

@@ -39,7 +39,7 @@ This index provides machine-readable links to all content optimized for LLM cons
 | Gear Brand Insights | https://metalforge.io/llms/gear-insights.md | Named drummer citations with internal links for every brand — drum kit, cymbal, pedal, and stick usage percentages (Markdown) |
 | Gear History | https://metalforge.io/llms/gear-history.md | Era-by-era breakdown of how iconic drummers' gear evolved — endorsement changes and inflation-adjusted prices (Markdown) |
 | Drummer Birthdays | https://metalforge.io/llms/birthdays.md | Birth dates, birth places, and birthday FAQ for 57 metal drummers in calendar order (Markdown) |
-| Metal Drummer Quiz | https://metalforge.io/llms/quiz.md | Personality quiz matching your style to 60+ legendary drummers (Markdown) |
+| Metal Drummer Quiz | https://metalforge.io/llms/quiz.md | Personality quiz matching your style to 67 legendary drummers (Markdown) |
 | Kit Quiz — Which Drummer Are You? | https://metalforge.io/llms/kit-quiz.md | Answer questions about playing style and gear preferences to match to one of 67 metal drummers (Markdown) |
 | Drummer Battles | https://metalforge.io/llms/battles.md | Community head-to-head vote battles between legendary metal drummers, organised by category (Markdown) |
 | Per-Matchup Battles | https://metalforge.io/llms/battles/ | Individual per-matchup battle pages with full gear data for both drummers (8 files) |
@@ -1145,7 +1145,7 @@ Free web tools for exploring, comparing, and building metal drum gear setups fro
 
 | Tool | URL | Description |
 |------|-----|-------------|
-| Gear Search | [gear-search.md](https://metalforge.io/llms/tools/gear-search.md) | Search 60+ drummer setups by brand, cymbal model, or kit name |
+| Gear Search | [gear-search.md](https://metalforge.io/llms/tools/gear-search.md) | Search 67 drummer setups by brand, cymbal model, or kit name |
 | Dream Set Builder | [dream-set-builder.md](https://metalforge.io/llms/tools/dream-set-builder.md) | Mix components from different drummers to build a custom kit |
 | Kit Builder | [kit-builder.md](https://metalforge.io/llms/tools/kit-builder.md) | Brand-first step-by-step kit configurator |
 | Gear Comparison | [gear-comparison.md](https://metalforge.io/llms/tools/gear-comparison.md) | Side-by-side comparison of up to four drummers' full setups |

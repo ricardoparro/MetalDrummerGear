@@ -231,6 +231,13 @@ import {
   generateBrandSchema as generatePedalBrandSchema,
   generateBrandsHubSchema as generatePedalBrandsHubSchema,
 } from '../../packages/frontend/data/pedalBrands.js';
+// Issue #4669: /bpm + /bpm-tap ssrLinks — every metalSongs entry already
+// carries a `drummer` slug field, previously never wired into the bot-facing
+// SSR shell (0 outbound links from a 150+-song database).
+import { metalSongs } from '../../packages/frontend/data/metalSongsBpm.js';
+// Issue #4669: /gear-finder ssrLinks — same DRUMMER_GEAR/BRAND_SEO_DATA maps
+// the live GearFinder search page reads from.
+import { DRUMMER_GEAR, BRAND_SEO_DATA } from '../../packages/frontend/data/gearSearchData.js';
 
 const BASE_URL = 'https://metalforge.io';
 const SITE_NAME = 'MetalForge';
@@ -448,6 +455,46 @@ function _dedupeSsrLinksByHref(links) {
   });
 }
 
+// Issue #4669: /cards ssrLinks — the 21-entry drummer roster the live
+// GearCardsGallery component renders (packages/frontend/components/
+// GearCardsGallery.js), duplicated here rather than imported since api/
+// handlers never pull in react-native component files.
+const CARD_DRUMMERS = [
+  { slug: 'lars-ulrich', name: 'Lars Ulrich' },
+  { slug: 'joey-jordison', name: 'Joey Jordison' },
+  { slug: 'gene-hoglan', name: 'Gene Hoglan' },
+  { slug: 'dave-lombardo', name: 'Dave Lombardo' },
+  { slug: 'tomas-haake', name: 'Tomas Haake' },
+  { slug: 'danny-carey', name: 'Danny Carey' },
+  { slug: 'chris-adler', name: 'Chris Adler' },
+  { slug: 'george-kollias', name: 'George Kollias' },
+  { slug: 'mike-portnoy', name: 'Mike Portnoy' },
+  { slug: 'vinnie-paul', name: 'Vinnie Paul' },
+  { slug: 'charlie-benante', name: 'Charlie Benante' },
+  { slug: 'igor-cavalera', name: 'Igor Cavalera' },
+  { slug: 'nicko-mcbrain', name: 'Nicko McBrain' },
+  { slug: 'abe-cunningham', name: 'Abe Cunningham' },
+  { slug: 'brann-dailor', name: 'Brann Dailor' },
+  { slug: 'mario-duplantier', name: 'Mario Duplantier' },
+  { slug: 'eloy-casagrande', name: 'Eloy Casagrande' },
+  { slug: 'inferno', name: 'Inferno' },
+  { slug: 'flo-mounier', name: 'Flo Mounier' },
+  { slug: 'hellhammer', name: 'Hellhammer' },
+  { slug: 'pete-sandoval', name: 'Pete Sandoval' },
+];
+
+// Issue #4669: /gear-finder ssrLinks — real, live /brands/<slug> pages, and a
+// correction map for the two BRAND_SEO_DATA slugs (gearSearchData.js) that
+// don't match their live route slug (vicfirth/promark vs. the hyphenated
+// vic-firth/pro-mark used by the /brands/<slug> handler below). Mirrors the
+// BRAND_META whitelist further down this file, the source of truth for which
+// gear-brand slugs actually resolve to a live page.
+const LIVE_BRAND_SLUGS = new Set([
+  'tama', 'pearl', 'dw', 'ludwig', 'zildjian', 'paiste', 'meinl', 'sabian',
+  'evans', 'remo', 'sonor', 'mapex', 'vic-firth', 'pro-mark', 'vater', 'ahead', 'wincent', 'axis',
+]);
+const BRAND_SEO_SLUG_TO_LIVE_SLUG = { vicfirth: 'vic-firth', promark: 'pro-mark' };
+
 // Helper: Get primary brands from gear
 function getPrimaryBrands(gear) {
   if (!gear) return [];
@@ -551,12 +598,39 @@ function getMetaForPath(pathname) {
     const eventCount = EVOLUTION_TIMELINE.length;
     const firstYear = Math.min(...EVOLUTION_TIMELINE.map(event => event.year));
     const lastYear = Math.max(...EVOLUTION_TIMELINE.map(event => event.year));
+    // Issue #4669: crawlable links to every drummer, band, and genre a
+    // timeline event references. drummerSlug alone only yields 13 unique
+    // drummers across the 29 drummerSlug-tagged events (several drummers
+    // recur across multiple milestones), so band/genre links — sourced from
+    // the same EVOLUTION_TIMELINE records, matched against the live
+    // BAND_DATA / genres.js slugs — round the hub out with real crawl depth
+    // instead of re-emitting duplicate /drummer/<slug> hrefs.
+    const bandsByName = new Map(Object.values(BAND_DATA).map(b => [b.name, b]));
+    const TIMELINE_GENRE_SLUGS = {
+      thrash: 'thrash', death: 'death', black: 'black', progressive: 'progressive',
+      groove: 'groove', nu_metal: 'nu-metal', metalcore: 'metalcore',
+    };
+    const timelineSsrLinks = _dedupeSsrLinksByHref([
+      ...EVOLUTION_TIMELINE.filter(e => e.drummerSlug).map(e => ({
+        href: `/drummer/${e.drummerSlug}`,
+        label: e.title || `${e.year} milestone`,
+      })),
+      ...EVOLUTION_TIMELINE.filter(e => e.band && bandsByName.has(e.band)).map(e => ({
+        href: `/bands/${bandsByName.get(e.band).slug}`,
+        label: bandsByName.get(e.band).name,
+      })),
+      ...EVOLUTION_TIMELINE.filter(e => e.subgenre && TIMELINE_GENRE_SLUGS[e.subgenre]).map(e => ({
+        href: `/genre/${TIMELINE_GENRE_SLUGS[e.subgenre]}`,
+        label: GENRES[TIMELINE_GENRE_SLUGS[e.subgenre]].name,
+      })),
+    ]);
     return {
       title: `Metal Drumming Evolution Timeline (${firstYear}-${lastYear}) | ${SITE_NAME}`,
       description: `Explore ${eventCount} key moments in metal drumming history — landmark album releases, drummer debuts, gear innovations, and technique milestones from ${firstYear} to today, filterable by decade and subgenre.`,
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/timeline`,
+      ssrLinks: timelineSsrLinks,
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -569,12 +643,28 @@ function getMetaForPath(pathname) {
   }
 
   if (path === '/gear-finder') {
+    // Issue #4669: crawlable links to every drummer and brand the gear
+    // search index covers. BRAND_SEO_DATA uses a couple of slugs ('ddrum',
+    // 'sjc') with no live /brands/<slug> page, and two others ('vicfirth',
+    // 'promark') whose live route is hyphenated — LIVE_BRAND_SLUGS +
+    // BRAND_SEO_SLUG_TO_LIVE_SLUG keep every href resolvable.
+    const gearFinderSsrLinks = _dedupeSsrLinksByHref([
+      ...Object.keys(DRUMMER_GEAR).filter(slug => getDrummerBySlug(slug)).map(slug => ({
+        href: `/drummer/${slug}`,
+        label: `${getDrummerBySlug(slug).name} Gear`,
+      })),
+      ...Object.values(BRAND_SEO_DATA).map(b => {
+        const liveSlug = BRAND_SEO_SLUG_TO_LIVE_SLUG[b.slug] || b.slug;
+        return LIVE_BRAND_SLUGS.has(liveSlug) ? { href: `/brands/${liveSlug}`, label: `${b.name} Gear` } : null;
+      }).filter(Boolean),
+    ]);
     return {
       title: `Gear Finder — Search Metal Drummer Equipment by Brand | ${SITE_NAME}`,
       description: 'Search and filter metal drummer gear by brand, drummer, or equipment type. Find exactly what kit, cymbals, or hardware your favorite pro uses.',
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/gear-finder`,
+      ssrLinks: gearFinderSsrLinks,
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -1114,12 +1204,16 @@ function getMetaForPath(pathname) {
 
   // Cards gallery
   if (path === '/cards') {
+    // Issue #4669: crawlable links to the 21 drummers with a gear card.
     return {
       title: `Drummer Gear Cards Gallery | ${SITE_NAME}`,
       description: 'Beautiful shareable gear cards for every drummer. Download and share on Instagram, Twitter, and more!',
       image: `${BASE_URL}/images/og/cards-preview.png`,
       type: 'website',
       url: `${BASE_URL}/cards`,
+      ssrLinks: _dedupeSsrLinksByHref(
+        CARD_DRUMMERS.map(d => ({ href: `/drummer/${d.slug}`, label: `${d.name} Gear Card` }))
+      ),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'CollectionPage',
@@ -4016,12 +4110,23 @@ function getMetaForPath(pathname) {
 
   // Issue #1579: /bpm and /bpm-tap — BPM Tap Calculator + Metal Songs BPM Database
   if (path === '/bpm' || path === '/bpm-tap') {
+    // Issue #4669: crawlable links to every drummer behind a charted song.
+    // Not every metalSongs `drummer` slug has a live profile (session/touring
+    // fill-ins not yet added to the roster) — filter through getDrummerBySlug
+    // so no href points at a 404.
+    const bpmSsrLinks = _dedupeSsrLinksByHref(
+      metalSongs.filter(s => s.drummer && getDrummerBySlug(s.drummer)).map(s => ({
+        href: `/drummer/${s.drummer}`,
+        label: `${s.song} — ${s.band} (${s.bpm} BPM)`,
+      }))
+    );
     return {
       title: `Metal BPM Calculator — Tap & Find Tempo | Metal Songs Database | ${SITE_NAME}`,
       description: 'Tap to find the BPM of any metal song. Browse 150+ metal songs by tempo — from doom to grindcore. Used by metal drummers to find and match tempos.',
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/bpm`,
+      ssrLinks: bpmSsrLinks,
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@type': 'WebApplication',

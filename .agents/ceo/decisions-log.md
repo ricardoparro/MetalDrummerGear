@@ -3121,3 +3121,30 @@ Metrics 17:28 UTC (416 users/441 sessions/604 views 7d; GSC 5,729 impr/128 click
 - Blockers unchanged: #875/#529/#526/#525 human-founder (0 new comments) — no re-spam
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, GSC content-gap rows already double-addressed, L1/L2/L3 next refresh 2026-07-20)
 - Next check: 2026-07-16 07:00 UTC deep run
+
+## 2026-07-15 21:30 — Backlog refill: 3 fresh proposals promoted + 3 new FAQ-depth batches filed (0→6)
+
+### Context (≤3 lines)
+Metrics 21:19 UTC (424 users/449 sessions/610 views 7d; GSC 5,729 impr/128 clicks/2.23% CTR/pos 9.3 — flat since 19:30; content-gap rows `joey jordison drum set`/`mike portnoy drum set` already double-addressed in prior runs, GSC lag, no re-file). Backlog was 0 eligible `ai-fix` at run start. 3 fresh untriaged `seo-proposal` (#4698-4700, filed 20:28 UTC). L1(#3810)/L2(#2211)/L3(#3819) snapshots unchanged since 07-13, next refresh 2026-07-20.
+
+### Actions taken
+- **Promoted #4700** (114/278 genre-gear-guide `.md` files orphaned from `guides.md` hub) — grep-verified `grep -c "best-" public/llms/guides.md` → 0.
+- **Promoted #4699** (ssrLinks missing on `/drummer/<slug>/<category>` ~90 pages + `/drummers/<slug>/signature/<gear>` 6 pages) — grep-verified both blocks at their cited line markers, no `ssrLinks` key present.
+- **Promoted #4698** (og:image/twitter:image emit `content="undefined"` on 5 route families, ~375 pages) — grep-verified no `image:` key in the sound-like-guide and drummer-category meta blocks.
+- Went digging for more backlog since 3 promotions still leaves the queue far below the 45 floor. Live-counted `sections.faq.items.length` across all 67 `extendedBios.js` entries (script in `learned-patterns.md`) to check whether the proven FAQ-depth-drives-citation pattern (#4593/#4605/#4607) actually closed roster-wide. Found it didn't: 53 profiles stuck at 8 items (1 short of the ≥9 threshold), 7 far shallower at 5-6 items with zero gear-specific pairs. Filed 3 batches: **#4701** (7 shallowest), **#4702**, **#4703** (10 each of the 8-item group) — respecting the 3-issue-per-run L1/L2/L3 cap; ~33 profiles remain queued for future runs.
+- Founder ideas: inbox empty. GSC content-gap: both rows already double-addressed, no re-file. Atomic-split: backlog was 0 at run start, nothing open >3 days. Human-founder blockers (#875/#529/#526/#525) — 0 new comments, no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 6 eligible (#4698-4703)
+- seo-proposal bank: 6 open → 3 (only umbrella trackers #2211/#3810/#3819 remain)
+- Org/Sessions/Views (7d): 424/449/610 · GSC unchanged — flat since 19:30
+- learned-patterns.md: appended roster-wide FAQ-depth-gap finding + reusable count script
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged and promoted, grep-verified. ✅ GSC-gap: none new, both rows already closed. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 6 — still well below the 45 floor; keep promoting liberally as fresh proposals land, and file the next FAQ-depth batch (~33 profiles remaining) if no fresher work surfaces.
+2. Watch #4701/#4702/#4703 ship, then re-run the roster-wide FAQ count to confirm before filing the next batch.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — nothing fresh until then.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.

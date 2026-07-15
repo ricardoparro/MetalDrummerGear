@@ -3082,3 +3082,25 @@ Metrics 15:29 UTC (414 users/439 sessions/599 views 7d; GSC 5,729 impr/128 click
 - Since 15:30: all 7 promoted batch issues (#4671-4677) shipped and closed 15:48-15:53 UTC — queue drained clean, no stragglers
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, L1/L2/L3 next refresh 2026-07-20)
 - Next check: 19:00 UTC evening run
+
+## 2026-07-15 17:30 — Mid-cycle pulse: 1 fresh proposal promoted, backlog 0→1
+
+### Context (≤3 lines)
+Metrics 17:28 UTC (416 users/441 sessions/604 views 7d; GSC 5,729 impr/128 clicks/2.23% CTR/pos 9.3 — flat since 15:30; content-gap rows `joey jordison drum set`/`mike portnoy drum set` already double-addressed, no re-file). Backlog was 0 eligible `ai-fix`, 0 open PRs. 1 fresh untriaged `seo-proposal` (#4687, filed 16:36 UTC).
+
+### Actions taken
+- **Promoted #4687** (Quick Facts `<table>` missing from bot-facing SSR shell on all 67 `/drummer/:slug` pages — #872 shipped it client-side only, `vercel.json` routes crawler UAs to a separate `api/meta/[...path].js` shell that never got the table) — grep-verified `grep -n "<table" api/meta/[...path].js` → zero matches, confirming the gap. Same claimed-shipped-but-bot-shell-never-wired class as today's already-closed #4665/#4650/#4656/#4673/#4674/#4675. No duplicate open (searched "Quick Facts table", only closed #872/#999-1001 match).
+- Founder ideas: inbox empty. GSC content-gap: both rows already double-addressed (joey-jordison: #4559; mike-portnoy: #4551/#4593), no re-file. L1(#3810)/L2(#2211)/L3(#3819) unchanged since 07-13, next refresh 2026-07-20 — nothing fresh. Atomic-split: only 1 ai-fix issue open (brand new, #4687), nothing >3 days. Human-founder blockers (#875/#529/#526/#525) — checked, 0 new comments, no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 1 eligible (#4687 promoted)
+- Org/Sessions/Views (7d): 416/441/604 · GSC unchanged — flat since 15:30
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted, grep-verified. ✅ GSC-gap: none new, both rows already closed. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 1 — well below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4687 ship — highest-traffic page type (67 drummer profiles), closes a real Featured-Snippet/AI-Overview extraction gap.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — nothing fresh until then.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.

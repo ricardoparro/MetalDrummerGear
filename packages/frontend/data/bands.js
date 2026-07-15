@@ -42,7 +42,7 @@ export const bands = {
       { drummer: "jean-dolabella", period: "2006-2011", notes: "" },
       { drummer: "eloy-casagrande", period: "2011-2024", notes: "Final drummer, now in Slipknot" }
     ],
-    relatedBands: ["soulfly", "cavalera-conspiracy", "slipknot"],
+    relatedBands: ["cavalera-conspiracy", "slipknot"],
     sameAs: [
       "https://en.wikipedia.org/wiki/Sepultura",
       "https://www.discogs.com/artist/18291-Sepultura",
@@ -76,7 +76,7 @@ export const bands = {
       { name: "Paul D'Amour", role: "Bass", period: "1990-1995", notes: "Founding member, played on Undertow" }
     ],
     drummerHistory: [{ drummer: "danny-carey", period: "1990-present", notes: "Founding member, only drummer in band history" }],
-    relatedBands: ["a-perfect-circle", "puscifer", "volto", "legend-of-the-seagullmen"],
+    relatedBands: ["volto"],
     sameAs: [
       "https://en.wikipedia.org/wiki/Tool_(band)",
       "https://www.discogs.com/artist/24069-Tool",
@@ -162,7 +162,7 @@ export const bands = {
       { drummer: "jay-weinberg", period: "2014-2023", notes: "Son of Max Weinberg" },
       { drummer: "eloy-casagrande", period: "2023-present", notes: "Former Sepultura drummer" }
     ],
-    relatedBands: ["stone-sour", "murderdolls", "sepultura"],
+    relatedBands: ["murderdolls", "sepultura"],
     sameAs: [
       "https://en.wikipedia.org/wiki/Slipknot_(band)",
       "https://www.discogs.com/artist/163683-Slipknot",
@@ -205,7 +205,7 @@ export const bands = {
     summary: "Meshuggah, formed in 1987 in Sweden, pioneered djent and polyrhythmic metal.",
     keywords: ["meshuggah", "tomas haake", "djent", "polyrhythm", "progressive metal", "drummer gear"],
     drummerHistory: [{ drummer: "tomas-haake", period: "1990-present", notes: "Joined shortly after formation" }],
-    relatedBands: ["periphery", "animals-as-leaders", "tesseract"],
+    relatedBands: ["periphery", "animals-as-leaders"],
     sameAs: [
       "https://en.wikipedia.org/wiki/Meshuggah",
       "https://www.discogs.com/artist/73547-Meshuggah",
@@ -228,7 +228,7 @@ export const bands = {
       { drummer: "mike-portnoy", period: "1985-2010, 2023-present", notes: "Co-founder, returned in 2023" },
       { drummer: "mike-mangini", period: "2010-2023", notes: "Berklee professor" }
     ],
-    relatedBands: ["liquid-tension-experiment", "transatlantic", "sons-of-apollo"],
+    relatedBands: ["sons-of-apollo"],
     sameAs: [
       "https://en.wikipedia.org/wiki/Dream_Theater",
       "https://www.discogs.com/artist/140607-Dream-Theater",
@@ -339,7 +339,7 @@ export const bands = {
       { name: "Lowest Form of Animal", year: 2022, type: "EP", label: "Rise Records" },
       { name: "Exhibition of Prowess", year: 2024, type: "Album", label: "Rise Records" }
     ],
-    relatedBands: ["hatebreed", "terror", "knocked-loose", "malevolence"],
+    relatedBands: [],
     sameAs: [
       "https://en.wikipedia.org/wiki/Kublai_Khan_(band)",
       "https://www.discogs.com/artist/5066893-Kublai-Khan-5",
@@ -367,7 +367,7 @@ export const bands = {
     drummerHistory: [
       { drummer: "abe-cunningham", period: "1988-present", notes: "Founding member" }
     ],
-    relatedBands: ["korn", "team-sleep"],
+    relatedBands: ["korn"],
     sameAs: [
       "https://en.wikipedia.org/wiki/Deftones",
       "https://www.discogs.com/artist/3279-Deftones",
@@ -390,7 +390,7 @@ export const bands = {
       { drummer: "gene-hoglan", period: "1993-1995", notes: "Played on Individual Thought Patterns and Symbolic" },
       { drummer: "richard-christy", period: "1996-1999", notes: "Played on The Sound of Perseverance" }
     ],
-    relatedBands: ["obituary", "morbid-angel", "cynic"],
+    relatedBands: ["morbid-angel", "cynic"],
     sameAs: [
       "https://en.wikipedia.org/wiki/Death_(metal_band)",
       "https://www.discogs.com/artist/252889-Death",
@@ -412,7 +412,7 @@ export const bands = {
     drummerHistory: [
       { drummer: "john-otto", period: "1994-present", notes: "Founding member" }
     ],
-    relatedBands: ["korn", "slipknot", "linkin-park"],
+    relatedBands: ["korn", "slipknot"],
     sameAs: [
       "https://en.wikipedia.org/wiki/Limp_Bizkit",
       "https://www.discogs.com/artist/65858-Limp-Bizkit",
@@ -435,7 +435,7 @@ export const bands = {
       { drummer: "dave-lombardo", period: "2016-present", notes: "Former Slayer drummer" },
       { drummer: "jay-weinberg", period: "2023-present", notes: "Former Slipknot drummer, touring" }
     ],
-    relatedBands: ["slayer", "d.r.i.", "excel"],
+    relatedBands: ["slayer"],
     sameAs: [
       "https://en.wikipedia.org/wiki/Suicidal_Tendencies",
       "https://www.discogs.com/artist/23913-Suicidal-Tendencies",
@@ -479,7 +479,7 @@ export const bands = {
     drummerHistory: [
       { drummer: "paul-mazurkiewicz", period: "1988-present", notes: "Founding member" }
     ],
-    relatedBands: ["morbid-angel", "deicide", "obituary"],
+    relatedBands: ["morbid-angel"],
     sameAs: [
       "https://en.wikipedia.org/wiki/Cannibal_Corpse",
       "https://www.discogs.com/artist/288259-Cannibal-Corpse",

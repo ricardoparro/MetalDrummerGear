@@ -509,6 +509,318 @@ export const bands = {
       "https://www.wikidata.org/wiki/Q213498"
     ],
   },
+  // Issue #4704: Added 15 bands referenced by existing bands' relatedBands
+  // arrays but missing from this module, grounded in extendedBios.js roster
+  // drummer bands[] entries.
+  megadeth: {
+    slug: "megadeth",
+    name: "Megadeth",
+    formed: 1983,
+    origin: "Los Angeles, California, USA",
+    genres: ["thrash-metal"],
+    status: "active",
+    metaTitle: "Megadeth - Drummer History & Gear | MetalForge",
+    metaDescription: "Explore Megadeth's drumming legacy with Nick Menza and Dirk Verbeuren.",
+    summary: "Megadeth, formed in 1983 in Los Angeles by Dave Mustaine, is one of the 'Big Four' of thrash metal alongside Metallica, Slayer, and Anthrax.",
+    keywords: ["megadeth", "nick menza", "dirk verbeuren", "thrash metal", "big four", "drummer gear"],
+    drummerHistory: [
+      { drummer: "nick-menza", period: "1989-1998, 2004", notes: "Powered Rust in Peace and Countdown to Extinction" },
+      { drummer: "chris-adler", period: "2015-2016", notes: "Session/touring drummer" },
+      { drummer: "dirk-verbeuren", period: "2016-present", notes: "Former Soilwork drummer, current Megadeth drummer" }
+    ],
+    relatedBands: ["metallica", "slayer", "anthrax", "testament"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Megadeth",
+      "https://www.wikidata.org/wiki/Q83431"
+    ],
+  },
+  testament: {
+    slug: "testament",
+    name: "Testament",
+    formed: 1983,
+    origin: "Berkeley, California, USA",
+    genres: ["thrash-metal"],
+    status: "active",
+    metaTitle: "Testament - Drummer History & Gear | MetalForge",
+    metaDescription: "Complete history of Testament drummers including Paul Bostaph, Gene Hoglan, and Jon Dette.",
+    summary: "Testament, formed in 1983 in Berkeley, California, is one of the most enduring bands of the Bay Area thrash metal scene.",
+    keywords: ["testament", "paul bostaph", "gene hoglan", "jon dette", "bay area thrash", "thrash metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "jon-dette", period: "1997-1999, 2001-2012", notes: "" },
+      { drummer: "paul-bostaph", period: "1999-2001, 2024-present", notes: "Two separate stints, also known for Slayer" },
+      { drummer: "gene-hoglan", period: "2007-present", notes: "Nicknamed 'The Atomic Clock'" }
+    ],
+    relatedBands: ["slayer", "megadeth", "metallica", "anthrax"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Testament_(band)",
+      "https://www.wikidata.org/wiki/Q309312"
+    ],
+  },
+  "lamb-of-god": {
+    slug: "lamb-of-god",
+    name: "Lamb of God",
+    formed: 1994,
+    origin: "Richmond, Virginia, USA",
+    genres: ["groove-metal", "metalcore"],
+    status: "active",
+    metaTitle: "Lamb of God - Drummer History & Gear | MetalForge",
+    metaDescription: "Explore Lamb of God's drumming legacy with founding drummer Chris Adler and successor Art Cruz.",
+    summary: "Lamb of God, formed in 1994 in Richmond, Virginia, is one of the most influential groove metal bands of the 21st century.",
+    keywords: ["lamb of god", "chris adler", "art cruz", "groove metal", "metalcore", "drummer gear"],
+    drummerHistory: [
+      { drummer: "chris-adler", period: "1994-2019", notes: "Co-founder" },
+      { drummer: "art-cruz", period: "2019-present", notes: "Former Winds of Plague and Prong drummer" }
+    ],
+    relatedBands: ["gojira", "mastodon", "pantera"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Lamb_of_God_(band)",
+      "https://www.wikidata.org/wiki/Q207731"
+    ],
+  },
+  opeth: {
+    slug: "opeth",
+    name: "Opeth",
+    formed: 1990,
+    origin: "Stockholm, Sweden",
+    genres: ["progressive-death-metal", "progressive-rock"],
+    status: "active",
+    metaTitle: "Opeth - Drummer History & Gear | MetalForge",
+    metaDescription: "Complete history of Opeth drummers from Martin Lopez to Martin Axenrot.",
+    summary: "Opeth, formed in 1990 in Stockholm, Sweden, pioneered a fusion of death metal and progressive rock across a genre-defying discography.",
+    keywords: ["opeth", "martin lopez", "martin axenrot", "progressive death metal", "swedish metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "martin-lopez", period: "1997-2006", notes: "Played on classic albums including Blackwater Park" },
+      { drummer: "martin-axenrot", period: "2006-present", notes: "Succeeded Martin Lopez" }
+    ],
+    relatedBands: ["gojira", "meshuggah", "tool"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Opeth",
+      "https://www.wikidata.org/wiki/Q18557"
+    ],
+  },
+  periphery: {
+    slug: "periphery",
+    name: "Periphery",
+    formed: 2005,
+    origin: "Washington, D.C., USA",
+    genres: ["progressive-metal", "djent"],
+    status: "active",
+    metaTitle: "Periphery - Drummer History & Gear | MetalForge",
+    metaDescription: "Explore Periphery's drumming legacy from founding drummer Travis Orbin to Matt Halpern.",
+    summary: "Periphery, formed in 2005 in the Washington D.C. area, helped pioneer the djent movement within progressive metal.",
+    keywords: ["periphery", "travis orbin", "matt halpern", "djent", "progressive metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "travis-orbin", period: "2009-2012", notes: "Founding drummer, played on the self-titled debut" },
+      { drummer: "matt-halpern", period: "2009-present", notes: "Current drummer, Berklee-trained" }
+    ],
+    relatedBands: ["meshuggah", "animals-as-leaders", "tesseract"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Periphery_(band)",
+      "https://www.wikidata.org/wiki/Q2071101"
+    ],
+  },
+  "morbid-angel": {
+    slug: "morbid-angel",
+    name: "Morbid Angel",
+    formed: 1983,
+    origin: "Tampa, Florida, USA",
+    genres: ["death-metal"],
+    status: "active",
+    metaTitle: "Morbid Angel - Drummer History & Gear | MetalForge",
+    metaDescription: "Complete history of Morbid Angel drummers including Pete Sandoval and Tim Yeung.",
+    summary: "Morbid Angel, formed in 1983 in Tampa, Florida, is one of the founding bands of death metal.",
+    keywords: ["morbid angel", "pete sandoval", "tim yeung", "death metal", "florida death metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "pete-sandoval", period: "1988-2013", notes: "Pioneer of the gravity blast technique" },
+      { drummer: "tim-yeung", period: "2004-2015", notes: "Session/touring drummer alongside Sandoval" }
+    ],
+    relatedBands: ["death", "nile", "cannibal-corpse", "vader"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Morbid_Angel",
+      "https://www.wikidata.org/wiki/Q309001"
+    ],
+  },
+  "animals-as-leaders": {
+    slug: "animals-as-leaders",
+    name: "Animals as Leaders",
+    formed: 2007,
+    origin: "Washington, D.C., USA",
+    genres: ["progressive-metal", "djent"],
+    status: "active",
+    metaTitle: "Animals as Leaders - Drummer History & Gear | MetalForge",
+    metaDescription: "Explore Animals as Leaders' drumming legacy with Navene Koperweis and Matt Garstka.",
+    summary: "Animals as Leaders, formed in 2007 in Washington D.C. by guitarist Tosin Abasi, is a leading instrumental progressive metal act known for its complex, technical compositions.",
+    keywords: ["animals as leaders", "navene koperweis", "matt garstka", "djent", "progressive metal", "instrumental metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "navene-koperweis", period: "2010-2012", notes: "Early drummer" },
+      { drummer: "matt-garstka", period: "2012-present", notes: "Current drummer" }
+    ],
+    relatedBands: ["periphery", "meshuggah", "tesseract"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Animals_as_Leaders",
+      "https://www.wikidata.org/wiki/Q547666"
+    ],
+  },
+  mastodon: {
+    slug: "mastodon",
+    name: "Mastodon",
+    formed: 2000,
+    origin: "Atlanta, Georgia, USA",
+    genres: ["progressive-metal", "sludge-metal"],
+    status: "active",
+    metaTitle: "Mastodon - Brann Dailor Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Brann Dailor's dynamic drumming and vocals with Mastodon.",
+    summary: "Mastodon, formed in 2000 in Atlanta, Georgia, blends sludge metal heaviness with progressive rock complexity.",
+    keywords: ["mastodon", "brann dailor", "progressive metal", "sludge metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "brann-dailor", period: "2000-present", notes: "Co-founder, also handles co-lead vocals" }
+    ],
+    relatedBands: ["gojira", "lamb-of-god", "tool"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Mastodon_(band)",
+      "https://www.wikidata.org/wiki/Q548844"
+    ],
+  },
+  "cavalera-conspiracy": {
+    slug: "cavalera-conspiracy",
+    name: "Cavalera Conspiracy",
+    formed: 2007,
+    origin: "Phoenix, Arizona, USA",
+    genres: ["thrash-metal", "groove-metal"],
+    status: "active",
+    metaTitle: "Cavalera Conspiracy - Igor Cavalera Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Igor Cavalera's drumming with Cavalera Conspiracy, reuniting the Cavalera brothers after Sepultura.",
+    summary: "Cavalera Conspiracy, formed in 2007, reunited brothers Max and Igor Cavalera after their departures from Sepultura.",
+    keywords: ["cavalera conspiracy", "igor cavalera", "max cavalera", "thrash metal", "groove metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "igor-cavalera", period: "2007-present", notes: "Co-founder, former Sepultura drummer" }
+    ],
+    relatedBands: ["sepultura"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Cavalera_Conspiracy",
+      "https://www.wikidata.org/wiki/Q1051751"
+    ],
+  },
+  cynic: {
+    slug: "cynic",
+    name: "Cynic",
+    formed: 1987,
+    origin: "Miami, Florida, USA",
+    genres: ["technical-death-metal", "progressive-metal"],
+    status: "active",
+    metaTitle: "Cynic - Sean Reinert Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Sean Reinert's jazz-influenced technical drumming with Cynic.",
+    summary: "Cynic, formed in 1987 in Miami, Florida, fused technical death metal with jazz fusion, most notably on their 1993 landmark album Focus.",
+    keywords: ["cynic", "sean reinert", "technical death metal", "progressive metal", "jazz fusion metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "sean-reinert", period: "1987-1994, 2006-2017", notes: "Co-founder, also known for Death's Human" }
+    ],
+    relatedBands: ["death", "morbid-angel"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Cynic_(band)",
+      "https://www.wikidata.org/wiki/Q370835"
+    ],
+  },
+  damageplan: {
+    slug: "damageplan",
+    name: "Damageplan",
+    formed: 2003,
+    origin: "Dallas, Texas, USA",
+    genres: ["groove-metal"],
+    status: "disbanded",
+    metaTitle: "Damageplan - Vinnie Paul Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Vinnie Paul's drumming with Damageplan, formed with brother Dimebag Darrell after Pantera.",
+    summary: "Damageplan, formed in 2003 by brothers Vinnie Paul and Dimebag Darrell Abbott after Pantera's breakup, disbanded following Dimebag's murder onstage in 2004.",
+    keywords: ["damageplan", "vinnie paul", "dimebag darrell", "groove metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "vinnie-paul", period: "2003-2004", notes: "Co-founder with brother Dimebag Darrell" }
+    ],
+    relatedBands: ["pantera", "hellyeah"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Damageplan",
+      "https://www.wikidata.org/wiki/Q983933"
+    ],
+  },
+  hellyeah: {
+    slug: "hellyeah",
+    name: "Hellyeah",
+    formed: 2006,
+    origin: "Dallas, Texas, USA",
+    genres: ["groove-metal", "southern-metal"],
+    status: "hiatus",
+    metaTitle: "Hellyeah - Vinnie Paul Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Vinnie Paul's groove metal drumming with Hellyeah, his final full-time band.",
+    summary: "Hellyeah, formed in 2006, was a groove metal supergroup featuring Pantera's Vinnie Paul on drums until his death in 2018.",
+    keywords: ["hellyeah", "vinnie paul", "groove metal", "southern metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "vinnie-paul", period: "2006-2018", notes: "Founding member, final band before his death in 2018" }
+    ],
+    relatedBands: ["pantera", "damageplan"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Hellyeah",
+      "https://www.wikidata.org/wiki/Q281253"
+    ],
+  },
+  "sons-of-apollo": {
+    slug: "sons-of-apollo",
+    name: "Sons of Apollo",
+    formed: 2017,
+    origin: "United States",
+    genres: ["progressive-metal"],
+    status: "hiatus",
+    metaTitle: "Sons of Apollo - Mike Mangini Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Mike Mangini's drumming with progressive metal supergroup Sons of Apollo.",
+    summary: "Sons of Apollo, formed in 2017, is a progressive metal supergroup featuring Dream Theater drummer Mike Mangini alongside members of Journey, Mr. Big, and Guns N' Roses.",
+    keywords: ["sons of apollo", "mike mangini", "progressive metal", "supergroup", "drummer gear"],
+    drummerHistory: [
+      { drummer: "mike-mangini", period: "2017-present", notes: "Dream Theater drummer" }
+    ],
+    relatedBands: ["dream-theater"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Sons_of_Apollo",
+      "https://www.wikidata.org/wiki/Q35835169"
+    ],
+  },
+  vader: {
+    slug: "vader",
+    name: "Vader",
+    formed: 1983,
+    origin: "Olsztyn, Poland",
+    genres: ["death-metal", "thrash-metal"],
+    status: "active",
+    metaTitle: "Vader - Daray Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Daray's extreme drumming with Polish death metal band Vader.",
+    summary: "Vader, formed in 1983 in Olsztyn, Poland, is one of the longest-running and most influential death metal bands in Europe.",
+    keywords: ["vader", "daray", "death metal", "polish metal", "drummer gear"],
+    drummerHistory: [
+      { drummer: "daray", period: "2006-2016", notes: "Polish extreme metal drummer" }
+    ],
+    relatedBands: ["behemoth", "morbid-angel"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Vader_(band)",
+      "https://www.wikidata.org/wiki/Q622982"
+    ],
+  },
+  volto: {
+    slug: "volto",
+    name: "Volto!",
+    formed: 2000,
+    origin: "Los Angeles, California, USA",
+    genres: ["progressive-rock", "jazz-fusion"],
+    status: "active",
+    metaTitle: "Volto! - Danny Carey Drummer Profile & Gear | MetalForge",
+    metaDescription: "Explore Danny Carey's jazz-fusion drumming with instrumental progressive rock trio Volto!.",
+    summary: "Volto!, formed in Los Angeles in the early 2000s, is an instrumental progressive rock/jazz-fusion project featuring Tool drummer Danny Carey.",
+    keywords: ["volto", "danny carey", "progressive rock", "jazz fusion", "instrumental rock", "drummer gear"],
+    drummerHistory: [
+      { drummer: "danny-carey", period: "2000-present", notes: "Tool drummer's instrumental progressive rock side project" }
+    ],
+    relatedBands: ["tool"],
+    sameAs: [
+      "https://en.wikipedia.org/wiki/Volto!",
+      "https://www.wikidata.org/wiki/Q14915736"
+    ],
+  },
 };
 
 export function getBand(slug) { return bands[slug] || null; }

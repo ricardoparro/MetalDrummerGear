@@ -4126,7 +4126,8 @@ Roddy is considered one of the pioneers of modern extreme metal drumming, having
           { q: 'What sticks does Derek Roddy use?', a: 'Derek Roddy uses Vater Player\'s Design Derek Roddy Model (VHDRW) drumsticks, his own signature stick.' },
           { q: 'What bass drum pedal does Derek Roddy use?', a: 'Derek Roddy drives his one-footed blast technique with a Tama Speed Cobra 910 double pedal.' },
           { q: 'What drumheads does Derek Roddy use?', a: 'Derek Roddy uses Evans drumheads.' },
-          { q: 'What band is Derek Roddy in?', a: 'Derek Roddy has drummed for Hate Eternal (2000-2002, 2004-2005), Nile (2000-2002), and Malevolent Creation (1996-1999).' }
+          { q: 'What band is Derek Roddy in?', a: 'Derek Roddy has drummed for Hate Eternal (2000-2002, 2004-2005), Nile (2000-2002), and Malevolent Creation (1996-1999).' },
+          { q: 'What hi-hats does Derek Roddy use?', a: 'Derek Roddy plays 14" Meinl Byzance Heavy Hi-Hats, chosen for the cutting articulation needed to keep pace with his sustained one-footed blast beat technique.' }
         ]
       },
       sources: {
@@ -4381,7 +4382,8 @@ Frost is renowned for his blistering speed, metronomic precision, and seemingly 
           { q: 'What cymbals does Frost use?', a: 'Frost uses Zildjian A Custom and K Series cymbals, including 14" A Custom Hi-Hats, 16", 17", and 18" A Custom Crashes, a 22" K Custom Dark Ride, and an 18" K China.' },
           { q: 'What snare drum does Frost use?', a: 'Frost\'s primary snare is the Sonor SQ2, a 14"x6" maple shell.' },
           { q: 'What pedals does Frost use?', a: 'Frost drives his hyperspeed double bass patterns with a Sonor Perfect Balance pedal on Sonor hardware.' },
-          { q: 'What drumsticks does Frost use?', a: 'Frost plays Vic Firth American Classic Extreme 5B drumsticks.' }
+          { q: 'What drumsticks does Frost use?', a: 'Frost plays Vic Firth American Classic Extreme 5B drumsticks.' },
+          { q: 'What drumheads does Frost use?', a: 'Frost uses Remo drumheads across his Sonor SQ2 Series drum kit, giving him consistent response for the hyperspeed blast beats he plays with both Satyricon and 1349.' }
         ]
       },
       sources: {
@@ -4511,7 +4513,8 @@ Harrison's playing is characterized by intricate polyrhythmic patterns, masterfu
           { q: 'What cymbals does Gavin Harrison use?', a: 'Gavin Harrison uses Zildjian K Custom Special Dry Series cymbals, including 14" Hi-Hats, 16" and 18" Crashes, a 21" Special Dry Ride, and an 18" Trash China.' },
           { q: 'What snare drum does Gavin Harrison use?', a: 'Gavin Harrison plays two signature Sonor snares — a 12"x5" and a 14"x5.25" — switching between them for different textures.' },
           { q: 'What pedals does Gavin Harrison use?', a: 'Gavin Harrison plays a Sonor Perfect Balance pedal on Sonor 600 Series hardware.' },
-          { q: 'What drumsticks does Gavin Harrison use?', a: 'Gavin Harrison plays his own signature Vic Firth Gavin Harrison Signature drumsticks.' }
+          { q: 'What drumsticks does Gavin Harrison use?', a: 'Gavin Harrison plays his own signature Vic Firth Gavin Harrison Signature drumsticks.' },
+          { q: 'What drumheads does Gavin Harrison use?', a: 'Gavin Harrison uses Remo Ambassador drumheads across his Sonor SQ2 Series drum kit, giving him the sensitivity and articulation his ghost-note-heavy, polyrhythmic playing requires.' }
         ]
       },
       sources: {
@@ -4638,7 +4641,8 @@ Cunningham's playing is characterized by creative, unconventional patterns that 
           { q: 'What sticks does Abe Cunningham use?', a: 'Abe Cunningham uses Vic Firth American Classic 2B drumsticks.' },
           { q: 'What bass drum pedal does Abe Cunningham use?', a: 'Abe Cunningham uses a DW 9000 Series double pedal mounted on DW hardware.' },
           { q: 'What drumheads does Abe Cunningham use?', a: 'Abe Cunningham uses Remo drumheads.' },
-          { q: 'What band is Abe Cunningham in?', a: 'Abe Cunningham is a founding member and drummer of Deftones, with the band since its 1988 formation.' }
+          { q: 'What band is Abe Cunningham in?', a: 'Abe Cunningham is a founding member and drummer of Deftones, with the band since its 1988 formation.' },
+          { q: 'What hi-hats does Abe Cunningham use?', a: 'Abe Cunningham plays 14" Zildjian K Custom Hi-Hats, part of the K Custom cymbal setup that suits Deftones\' shifts between crushing heaviness and atmospheric restraint.' }
         ]
       },
       sources: {
@@ -4763,7 +4767,8 @@ Christy's drumming on Death's final two albums—"The Sound of Perseverance" and
           { q: 'What sticks does Richard Christy use?', a: 'Richard Christy uses Vic Firth American Classic 5A drumsticks, a comparatively lightweight, classic-diameter stick that favors finesse and articulation.' },
           { q: 'What bass drum pedal does Richard Christy use?', a: 'Richard Christy uses a Tama Iron Cobra 900 double pedal.' },
           { q: 'What drumheads does Richard Christy use?', a: 'Richard Christy uses Evans drumheads.' },
-          { q: 'What band is Richard Christy in?', a: 'Richard Christy recorded with Death from 1996-1999, played with Iced Earth from 2003-2004, and has drummed for his own band, Charred Walls of the Damned, since 2009.' }
+          { q: 'What band is Richard Christy in?', a: 'Richard Christy recorded with Death from 1996-1999, played with Iced Earth from 2003-2004, and has drummed for his own band, Charred Walls of the Damned, since 2009.' },
+          { q: 'What hi-hats does Richard Christy use?', a: 'Richard Christy plays 14" Sabian AAX Stage Hi-Hats, part of the AAX and HHX cymbal setup he used on Death\'s The Sound of Perseverance and with Iced Earth.' }
         ]
       },
       sources: {
@@ -5802,7 +5807,8 @@ Adler's drumming is characterized by powerful groove-based patterns, creative us
           { q: 'What sticks does Chris Adler use?', a: 'Chris Adler uses Promark TX5AXW Chris Adler Signature drumsticks.' },
           { q: 'What bass drum pedal does Chris Adler use?', a: 'Chris Adler uses a Mapex Falcon double pedal.' },
           { q: 'What drumheads does Chris Adler use?', a: 'Chris Adler uses Evans drumheads.' },
-          { q: 'What band is Chris Adler in?', a: 'Chris Adler was co-founder and drummer of Lamb of God from 1994-2019, briefly played with Megadeth (2015-2016), and now drums for Firstborne, formed in 2020.' }
+          { q: 'What band is Chris Adler in?', a: 'Chris Adler was co-founder and drummer of Lamb of God from 1994-2019, briefly played with Megadeth (2015-2016), and now drums for Firstborne, formed in 2020.' },
+          { q: 'What hi-hats does Chris Adler use?', a: 'Chris Adler plays 14" Meinl Byzance Dark Hi-Hats, part of the Byzance cymbal setup he used throughout Lamb of God\'s Ashes of the Wake, Sacrament, and Wrath era.' }
         ]
       },
       sources: {
@@ -6055,7 +6061,8 @@ Inferno's drumming combines blistering speed with surgical precision, delivering
           { q: 'What sticks does Inferno use?', a: 'Inferno uses Vic Firth 5B drumsticks.' },
           { q: 'What bass drum pedal does Inferno use?', a: 'Inferno drives his double kick with a Czarcie Kopyto (Devil\'s Hoof) double pedal, seated on a Pearl D-2000 throne.' },
           { q: 'What drumheads does Inferno use?', a: 'Inferno uses Remo drumheads across his Pearl Masterworks kit.' },
-          { q: 'What band is Inferno in?', a: 'Inferno has been the drummer for Polish extreme metal band Behemoth since 1997, and also drums for Azarath.' }
+          { q: 'What band is Inferno in?', a: 'Inferno has been the drummer for Polish extreme metal band Behemoth since 1997, and also drums for Azarath.' },
+          { q: 'What hi-hats does Inferno use?', a: 'Inferno plays 14" Paiste RUDE Hi-Hats, part of the durable RUDE cymbal setup engineered to withstand his relentless blast beats behind Behemoth.' }
         ]
       },
       sources: {
@@ -6311,7 +6318,8 @@ His lightning-fast blast beats, complex polyrhythmic patterns, and jazz-influenc
           { q: 'What bass drum pedals does Flo Mounier use?', a: 'Flo Mounier uses a Pearl Demon Drive double bass drum pedal, a direct-drive mechanism engineered for the fast rebound his legendary gravity blast technique demands.' },
           { q: 'What band is Flo Mounier in?', a: 'Flo Mounier is the only constant member of technical death metal pioneers Cryptopsy, which he joined in 1992.' },
           { q: 'What drumsticks does Flo Mounier use?', a: 'Flo Mounier uses Vic Firth American Classic 5A drumsticks.' },
-          { q: 'What drumheads does Flo Mounier use?', a: 'Flo Mounier uses Evans drumheads across his Pearl Masters Maple Complete kit.' }
+          { q: 'What drumheads does Flo Mounier use?', a: 'Flo Mounier uses Evans drumheads across his Pearl Masters Maple Complete kit.' },
+          { q: 'What hi-hats does Flo Mounier use?', a: 'Flo Mounier plays 14" Sabian HHX Stage Hi-Hats, chosen for the rapid response his gravity blast technique demands on tracks like Cryptopsy\'s "Phobophile."' }
         ]
       },
       sources: {
@@ -6437,7 +6445,8 @@ Bittner rose to prominence with Shadows Fall during the early 2000s metalcore ex
           { q: 'What sticks does Jason Bittner use?', a: 'Jason Bittner plays his own signature Promark Jason Bittner Signature 5BX drumsticks.' },
           { q: 'What bass drum pedal does Jason Bittner use?', a: 'Jason Bittner drives his sustained double-kick passages with a Mapex Falcon double pedal, seated on a Mapex T865 throne.' },
           { q: 'What drumheads does Jason Bittner use?', a: 'Jason Bittner uses Evans drumheads across his Mapex Saturn V kit.' },
-          { q: 'What band is Jason Bittner in?', a: 'Jason Bittner has drummed for Overkill since 2017, and previously drummed for Shadows Fall (1999-2015) and Flotsam and Jetsam (2013-2017).' }
+          { q: 'What band is Jason Bittner in?', a: 'Jason Bittner has drummed for Overkill since 2017, and previously drummed for Shadows Fall (1999-2015) and Flotsam and Jetsam (2013-2017).' },
+          { q: 'What hi-hats does Jason Bittner use?', a: 'Jason Bittner plays 14" Zildjian K Hi-Hats, part of the K and A Custom cymbal setup he has used across Shadows Fall\'s The War Within and his ongoing tenure with Overkill.' }
         ]
       },
       sources: {
@@ -6569,7 +6578,8 @@ Lopez's tenure with Opeth spanned some of the band's most critically acclaimed a
           { q: 'What cymbals does Martin Lopez use?', a: 'Martin Lopez uses Zildjian K Dark Series cymbals, including 14" K Dark Thin Hi-Hats, 18" and 20" K Dark Medium Thin Crashes, a 22" K Dark Light Ride, and an 18" K China.' },
           { q: 'What snare drum does Martin Lopez use?', a: 'Martin Lopez\'s primary snare is the Noble & Cooley Solid Shell, a 14"x6" maple drum.' },
           { q: 'What pedals does Martin Lopez use?', a: 'Martin Lopez plays an Axis Percussion double pedal, seated on a DW 9100 throne.' },
-          { q: 'What drumsticks does Martin Lopez use?', a: 'Martin Lopez plays Vic Firth American Classic 5A drumsticks.' }
+          { q: 'What drumsticks does Martin Lopez use?', a: 'Martin Lopez plays Vic Firth American Classic 5A drumsticks.' },
+          { q: 'What drumheads does Martin Lopez use?', a: 'Martin Lopez uses Remo drumheads across his Noble & Cooley Walnut drum kit, favoring the warm, musical tone that suits Soen\'s dynamic shifts between delicate and heavy passages.' }
         ]
       },
       sources: {
@@ -6692,7 +6702,8 @@ Orbin's technical prowess, creative use of polyrhythms, and ability to navigate 
           { q: 'What sticks does Travis Orbin use?', a: 'Travis Orbin uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal does Travis Orbin use?', a: 'Travis Orbin drives his fast, articulate double bass work with a DW 9000 Series double pedal.' },
           { q: 'What drumheads does Travis Orbin use?', a: 'Travis Orbin uses Evans drumheads across his SJC Custom kit.' },
-          { q: 'What band is Travis Orbin in?', a: 'Travis Orbin was the founding studio drummer for Periphery (2009-2012) and has drummed for Darkest Hour (2013-2015) and Sky Harbor (since 2012).' }
+          { q: 'What band is Travis Orbin in?', a: 'Travis Orbin was the founding studio drummer for Periphery (2009-2012) and has drummed for Darkest Hour (2013-2015) and Sky Harbor (since 2012).' },
+          { q: 'What hi-hats does Travis Orbin use?', a: 'Travis Orbin plays 14" Zildjian K Custom Dark Hi-Hats, part of the K Custom cymbal setup behind his genre-defining work on Periphery\'s self-titled debut (2010).' }
         ]
       },
       sources: {

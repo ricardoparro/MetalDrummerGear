@@ -240,7 +240,7 @@ Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or 
 
 ---
 
-## Articles (423 total)
+## Articles (447 total)
 
 Clean Markdown gear breakdowns for every album drum-setup and "what's in <drummer>'s kit" article, ingestible in one request.
 
@@ -669,6 +669,30 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Pete Sandoval Gear Evolution — Morbid Angel Drum Kit History | Pete Sandoval | [Markdown](https://metalforge.io/llms/articles/pete-sandoval-evolution.md) |
 | Catch 33 Drum Setup: When Tomas Haake Replaced Himself with a Computer | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/catch-33-drum-setup.md) |
 | Vinnie Paul Gear Evolution — Pantera Drum Kit History | Vinnie Paul | [Markdown](https://metalforge.io/llms/articles/vinnie-paul-gear-evolution.md) |
+| Absolute Drum Setup — Isaac Lamb's Defining Kublai Khan TX Statement | Isaac Lamb | [Markdown](https://metalforge.io/llms/articles/absolute-drum-setup.md) |
+| Aftershock Drum Setup: Mikkey Dee's Gear on Motörhead's Grammy-Nominated 2013 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/aftershock-drum-setup.md) |
+| At the Gates 'At War with Reality' Drum Setup — Adrian Erlandsson's 2014 Comeback Gear | Adrian Erlandsson | [Markdown](https://metalforge.io/llms/articles/at-war-with-reality-drum-setup.md) |
+| Bleed the Fifth Drum Setup — Tim Yeung's Extreme-Speed Debut | Tim Yeung | [Markdown](https://metalforge.io/llms/articles/bleed-the-fifth-drum-setup.md) |
+| Chimera Drum Setup: Hellhammer's 2004 Return-to-Form Mayhem Session | Hellhammer | [Markdown](https://metalforge.io/llms/articles/chimera-drum-setup.md) |
+| Daemon Drum Setup: Hellhammer's Most Recent Mayhem Statement | Hellhammer | [Markdown](https://metalforge.io/llms/articles/daemon-drum-setup.md) |
+| Daemonic Rites Drum Setup: Hellhammer's 2023 Live Album Gear | Hellhammer | [Markdown](https://metalforge.io/llms/articles/daemonic-rites-drum-setup.md) |
+| Destroy the Opposition Drum Setup — Kevin Talley's Brutal Death Metal Landmark | Kevin Talley | [Markdown](https://metalforge.io/llms/articles/destroy-the-opposition-drum-setup.md) |
+| Empath Drum Setup — Morgan Ågren's Metric Modulation Masterclass | Morgan Ågren | [Markdown](https://metalforge.io/llms/articles/empath-drum-setup.md) |
+| Esoteric Warfare Drum Setup: Hellhammer's First Mayhem Session Without Blasphemer | Hellhammer | [Markdown](https://metalforge.io/llms/articles/esoteric-warfare-drum-setup.md) |
+| Dirk Verbeuren's Drum Setup on Soilwork's 'Figure Number Five' (2003) | Dirk Verbeuren | [Markdown](https://metalforge.io/llms/articles/figure-number-five-drum-setup.md) |
+| Hammered Drum Setup: Mikkey Dee's Gear on Motörhead's 2002 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/hammered-drum-setup.md) |
+| Inferno Drum Setup: Mikkey Dee's Gear on Motörhead's 2004 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/inferno-drum-setup.md) |
+| Kiss of Death Drum Setup: Mikkey Dee's Gear on Motörhead's 2006 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/kiss-of-death-drum-setup.md) |
+| March ör Die Drum Setup: The Session Where Mikkey Dee First Played for Motörhead | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/march-or-die-drum-setup.md) |
+| Motörizer Drum Setup: Mikkey Dee's Gear on Motörhead's 2008 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/motorizer-drum-setup.md) |
+| Ordo Ad Chao Drum Setup: Hellhammer's Most Demanding Mayhem Session | Hellhammer | [Markdown](https://metalforge.io/llms/articles/ordo-ad-chao-drum-setup.md) |
+| Overnight Sensation Drum Setup: Mikkey Dee's Gear on Motörhead's 1996 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/overnight-sensation-drum-setup.md) |
+| Sacrifice Drum Setup: Mikkey Dee's Gear on Motörhead's 1995 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/sacrifice-drum-setup.md) |
+| Snake Bite Love Drum Setup: Mikkey Dee's Gear on Motörhead's 1998 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/snake-bite-love-drum-setup.md) |
+| The Wörld Is Yours Drum Setup: Mikkey Dee's Gear on Motörhead's 2010 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/the-world-is-yours-drum-setup.md) |
+| At the Gates 'To Drink from the Night Itself' Drum Setup — Adrian Erlandsson's 2018 Gear | Adrian Erlandsson | [Markdown](https://metalforge.io/llms/articles/to-drink-from-the-night-itself-drum-setup.md) |
+| We Are Motörhead Drum Setup: Mikkey Dee's Gear on Motörhead's 2000 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/we-are-motorhead-drum-setup.md) |
+| Gavin Harrison's Drum Setup on The Pineapple Thief's Your Wilderness (2016) | Gavin Harrison | [Markdown](https://metalforge.io/llms/articles/your-wilderness-drum-setup.md) |
 
 ---
 

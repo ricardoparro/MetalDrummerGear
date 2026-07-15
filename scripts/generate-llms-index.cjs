@@ -27,21 +27,6 @@ try {
   process.exit(1);
 }
 
-// Load articles (ALBUM_ARTICLES) for the /llms/articles/<slug>.md index section (#1058)
-const articlesPath = path.join(__dirname, '../packages/frontend/data/albumArticles.js');
-let articles = {};
-try {
-  const articlesContent = fs.readFileSync(articlesPath, 'utf-8');
-  const objMatch = articlesContent.match(/export const ALBUM_ARTICLES = (\{[\s\S]*?\});\s*(?:\/\/|export|$)/);
-  if (objMatch) {
-    articles = eval(`(function() { return ${objMatch[1]}; })()`);
-  } else {
-    console.warn('Could not extract ALBUM_ARTICLES — Articles section will be empty.');
-  }
-} catch (e) {
-  console.warn('Could not parse ALBUM_ARTICLES, continuing without Articles section:', e.message);
-}
-
 // Load drummer comparison slugs for the /llms/vs/ per-pair summary (#4298)
 const comparisonsPath = path.join(__dirname, '../packages/frontend/data/drummerComparisons.js');
 let comparisonCount = 0;
@@ -87,6 +72,41 @@ function generateSlug(name) {
     .replace(/\s+/g, '-').replace(/[^a-z0-9-]/g, '');
 }
 
+function titleCaseSlug(slug) {
+  return slug.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+}
+
+async function main() {
+
+// ALBUM_ARTICLES is composed from ESM per-drummer modules under albumArticles/ —
+// dynamic import() loads it directly instead of regexing the (now barrel) .js file
+// (mirrors scripts/generate-llms-articles.cjs).
+const { ALBUM_ARTICLES: articles } = await import('../packages/frontend/data/albumArticles/index.js');
+
+// Articles list starts from ALBUM_ARTICLES, then picks up any public/llms/articles/*.md
+// file with no ALBUM_ARTICLES entry — licks/gear-evolution/signature-gear-guide articles
+// that other generators write into the same shared directory (#4657). Title/drummer for
+// those are parsed from the file's own H1 and "Drummer(s):" line.
+const articleList = Object.values(articles).filter((a) => a && a.slug);
+const knownArticleSlugs = new Set(articleList.map((a) => a.slug));
+const articlesDir = path.join(__dirname, '../public/llms/articles');
+if (fs.existsSync(articlesDir)) {
+  const orphanFiles = fs.readdirSync(articlesDir)
+    .filter((f) => f.endsWith('.md') && !knownArticleSlugs.has(f.replace(/\.md$/, '')))
+    .sort();
+  for (const file of orphanFiles) {
+    const slug = file.replace(/\.md$/, '');
+    const content = fs.readFileSync(path.join(articlesDir, file), 'utf-8');
+    const titleMatch = content.match(/^#\s+(.+)$/m);
+    const drummerMatch = content.match(/\*\*Drummer\(s\):\*\*\s*(?:\[([^\]]+)\]|(.+))/);
+    articleList.push({
+      slug,
+      title: titleMatch ? titleMatch[1].trim() : titleCaseSlug(slug),
+      drummer: drummerMatch ? (drummerMatch[1] || drummerMatch[2]).trim() : '—',
+    });
+  }
+}
+
 let output = `# MetalForge - LLM Content Index
 
 > Last Updated: ${today}  
@@ -126,7 +146,6 @@ for (const d of drummers) {
 }
 
 // Articles — clean Markdown breakdowns of every album/kit article (#1058)
-const articleList = Object.values(articles).filter((a) => a && a.slug);
 if (articleList.length > 0) {
   output += `
 ---
@@ -232,4 +251,8 @@ For data corrections or additions, please visit the website.
 // Write the output
 const outputPath = path.join(__dirname, '../public/llms/index.md');
 fs.writeFileSync(outputPath, output);
-console.log(`✅ Generated llms/index.md with ${drummers.length} drummers (${guideCount} how-to-sound-like guides)`);
+console.log(`✅ Generated llms/index.md with ${drummers.length} drummers, ${articleList.length} articles (${guideCount} how-to-sound-like guides)`);
+
+}
+
+main();

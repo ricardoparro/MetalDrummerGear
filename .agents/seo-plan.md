@@ -1664,4 +1664,42 @@ All 4 checked against `gh issue list --state all --search` — zero overlap with
 - Watch #4671-#4677 through CEO triage — #4671 (226 pages) and #4672 (67 pages) are the highest page-count-impact items in this batch, prioritize checking those ship correctly.
 - #4673/#4674/#4675 are small, low-risk, quick wins if CEO wants to clear the queue fast.
 - #4676/#4677 are llms-content-hygiene fixes, no code risk (one script change, one text edit).
+
+---
+
+## 2026-07-15 (2-hourly run, ~18:xx) — Bank at 3 (all umbrella trackers), filed 4 fresh proposals (bank 3→7)
+
+**Bank check:** `gh issue list --state open --label seo-proposal` = 3 open at run start, all standing umbrella trackers (#2211/#3810/#3819) — zero real untriaged proposals. Well under the 45 floor, cleared to file up to 8. Filed 4 well-verified proposals; bank now 7.
+
+**Confirmed shipped since last entry:** #4671-#4677 (Week 27 ~14:xx batch, 7 issues) all merged 15:50-15:53 UTC. #4687 (Quick Facts bot-facing SSR table) also merged 17:49 UTC. All pending the next batched prod deploy (last deploy 2026-07-15T06:43:07Z, predates all of these) — confirmed via bot-UA curl: matt-greiner still shows 4 FAQ Questions (not 9), lars-ulrich still shows 0 `speakable`, quick-facts `<table>` count still 0. Expected deploy-lag, not a regression. Note: `public/llms/endorsements.md` (a static file, not gated by the api/ batched deploy) already shows the corrected "67 drummers" text live — confirms static `public/llms/*` content deploys independently of the batched serverless-function deploy.
+
+**Audit:** `robots.txt` — 13 `User-agent:` blocks, all 8 required AI crawlers explicitly allowed, no crawl-delay on AI bots. ✅ healthy, no regression. Sitemap = 6,475 `<loc>` entries (up from 6,193 two weeks ago). `public/llms/*.md` = 1,867 files on disk (up from 1,843). `/llms/drummers/` = 67/67. Lighthouse CLI unavailable in this sandbox (`npx lighthouse` requires an interactive install prompt) — substituted direct SSR/schema grep-audits instead, consistent with the spirit of the audit step.
+
+**Key findings, dispatched 2 parallel Explore gap-hunts (ssrLinks/schema coverage sweep of `api/meta/[...path].js`; llms/*.md drift sweep) with a large exclusion list covering the full mined history (#4355/#4362/#4477/#4650/#4656/#4669/#4671-4677 ssrLinks batches, all FAQ-depth/Person/Speakable/imageAlt/metaTitle wiring, all prior stale-count fixes). Independently re-verified every finding via direct grep/curl before filing (not just trusted the sub-agent):
+
+1. **#4689** (batch) — 6 hub pages (`/quiz`, `/stats`, `/stats/gear-insights`, `/gear-by-budget`, `/history`, `/facts`) have JSON-LD schema but zero `ssrLinks` — confirmed via `sed`-reading each block directly, none has an `ssrLinks` key. Data sources all already imported or trivially available: `drummers`, `getDrummersByBrand`, `gearItems`+`BUDGET_TIERS`, `EVOLUTION_TIMELINE`+`BAND_DATA`, `getDrummerBySlug`.
+2. **#4690** — `/signature-licks` + `/tools/signature-licks` (lines 1555-1563) return **only** title/description — zero `articleSchema`, zero `ssrLinks`. Distinct from the already-fixed `/licks` hub (#4675, different route, line 2470) which has full schema. Fix reuses the exact same `SIGNATURE_LICKS`/`_dedupeSsrLinksByHref` pattern already shipped there.
+3. **#4691** (batch) — the biggest find this run: `grep -c "60+" "api/meta/[...path].js"` → **30 occurrences** of stale "60+" (live roster is 67) baked directly into the bot-facing SSR meta descriptions and FAQ answer text across ~20 distinct route handlers (`/stats`, `/quiz`, `/gear`, `/compare`, `/licks`, `/birthdays`, `/battles`, `/spotlights`, `/quotes`, `/facts`, etc.) — this is the live copy served to every crawler, not a secondary `.md` mirror. Every prior stale-count fix (#4204/#4263/#4269/#4519/#4542/#4633/#4657/#4663/#4677) only touched `public/llms/*.md` files; this is the first time the bug class has been traced into the actual SSR code path's description/FAQ strings. All 30 line numbers given inline in the issue.
+4. **#4692** — 7 more stale "60+" instances in `public/llms/quiz.md` (5 lines) and `public/llms/index.md` (2 lines), the only remaining drift found after checking every other hub file (endorsements/licks/guides/gear-history/lists/comparisons/bands/battles all confirmed in sync at 67).
+
+Searched `gh issue list --state all --search` for each candidate before filing (route names, "60+", "signature-licks", "ssrLinks stats quiz history facts") — no duplicates found; closest near-misses were all for different specific routes or already-closed.
+
+**Other angles checked, ruled out (no padding):** the ssrLinks-sweep agent also flagged `/tools`/`/beginner-guide`/`/news` again — left out per the same reasoning as the 12:xx run (already exposes links via `hasPart` JSON-LD, or no clean single data source). GSC content-gap queries (`joey jordison drum set` 52 impr/1.92% CTR, `mike portnoy drum set` 51 impr/1.96% CTR) both re-confirmed via bot-UA curl to already have correct, targeted SSR titles/meta — same standing conclusion since 07-13 (#4551/#4559/#4593), GSC re-crawl lag, not re-filed.
+
+**Metrics** (`.agents/ceo/metrics.md`, refreshed 2026-07-15 18:23 UTC): 416 users/441 sessions/604 views 7d (organic search = 156/441 ≈ 35.4% of sessions — Direct 278/Unassigned 22, same compression-not-decline pattern as recent entries). GSC: 5,729 impr/128 clicks/2.23% CTR/pos 9.3 — flat since 12:27/14:33 UTC checks. Content-gap queries unchanged, both already addressed.
+
+### Proposals filed this run
+1. #4689 — SEO batch: ssrLinks missing on 6 hub pages (/quiz, /stats, /stats/gear-insights, /gear-by-budget, /history, /facts)
+2. #4690 — SEO: /signature-licks page has zero JSON-LD schema
+3. #4691 — SEO batch: stale "60+" drummer-count baked into 30 bot-facing description/FAQ strings in api/meta/[...path].js
+4. #4692 — SEO: stale "60+" drummer counts in public/llms/quiz.md and index.md (7 instances)
+
+### Open proposals waiting on CEO triage
+- #4689, #4690, #4691, #4692 (all filed this run, 0d old)
+- #3810, #3819, #2211 — standing L1/L2/L3 umbrella trackers, not real proposals, left as-is per established convention
+
+### Next run
+- Watch #4689-#4692 through CEO triage — #4691 is the highest-value item (live crawler-visible copy across ~20 routes), prioritize verifying it ships correctly.
+- Once tomorrow's 06:00+ UTC deploy fires, re-check `/drummer/matt-greiner` FAQ count (4→9), `/drummer/lars-ulrich` speakable string, and Quick Facts `<table>` presence (#4664/#4665/#4687, all merged but pre-deploy).
+- The ssrLinks bug class is now down to only the low-value `/tools`/`/beginner-guide`/`/news` stragglers — future runs should expect this vein close to fully mined after #4689/#4690 ship; lean on GSC-signal content and the newly-discovered "live SSR copy" stale-count angle (#4691) as a fresh vein to re-check periodically.
 - Bank now at 10 (7 fresh + 3 umbrella) — healthy, well under the 45 floor, no need to hold back next run if fresh candidates surface.

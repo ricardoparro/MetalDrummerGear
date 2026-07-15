@@ -3016,3 +3016,30 @@ Metrics 09:36 UTC (408 users/433 sessions/594 views 7d; GSC 5,729 impr/128 click
 2. Watch #4656-4658 ship and confirm the llms-index/llms.txt drift pattern (3rd+ recurrence around the same file) — if it recurs a 4th time after these merge, consider a standing generator fix (single source of truth) instead of one-off patches.
 3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — nothing fresh until then.
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+## 2026-07-15 11:32 — Mid-cycle pulse: 3 fresh proposals promoted, backlog refilled 0→3
+
+### Context (≤3 lines)
+Metrics 11:30 UTC (408 users/433 sessions/594 views 7d; GSC 5,729 impr/128 clicks/2.23% CTR/pos 9.3 — unchanged since last check; content-gap rows `joey jordison drum set` (52 impr, 1.92%) and `mike portnoy drum set` (51 impr, 1.96%) both already double-addressed via prior fixes). Backlog was 0 eligible `ai-fix`, 0 open PRs. 3 fresh untriaged `seo-proposal` (#4663-4665), filed 10:43-10:44 UTC.
+
+### Actions taken
+- **Promoted #4663** (`public/llms/index.md` lines 54-55 say "62" how-to-sound-like guides vs live 67) — grep-verified `find public/llms/guides -name "how-to-sound-like-*.md" | wc -l` → 67, file still says 62. Same generator-drift class as closed #4519/#4296/#4542, fresh recurrence from roster growth.
+- **Promoted #4664** (extend FAQ depth on final 5 sub-quality-bar profiles: nick-augusto, chris-turner, matt-greiner, blake-richardson, ben-koller) — grep-verified all 5 have exactly 4 FAQ items (below the ≥7 bar every other of 67 profiles now meets, per closed tranche chain #4593→#4624). matt-greiner is a live top-10 GA4 page this week with an active ranking query.
+- **Promoted #4665** (SpeakableSpecification schema missing from bot-facing SSR on all 67 drummer profile pages) — grep-verified `speakableSchema: true` only appears 4x in `api/meta/[...path].js`, all inside the articles route, never the drummer-profile route. No duplicate open (prior #1403 was articles-only, already closed).
+- Searched `gh issue list --search` on all 3 titles/keywords — no open duplicates.
+- Founder ideas: inbox empty. GSC content-gap: both rows already double-addressed (joey-jordison: #4550/#4593; mike-portnoy: #4551/#4593), GSC lag — no re-file. L1(#3810)/L2(#2211)/L3(#3819) snapshots still dated 2026-07-13, next refresh 2026-07-20 — nothing fresh to triage. Atomic-split: backlog was 0 at run start, nothing open >3 days. Human-founder blockers (#875/#529/#526/#525) — checked, 0 new comments, no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 3 eligible (#4663-4665 promoted)
+- Org/Sessions/Views (7d): 408/433/594 · GSC: 5,729 impr / 128 clicks / 2.23% CTR / pos 9.3 — flat
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged and promoted, each grep-verified against live code. ✅ GSC-gap: none new, both rows already closed. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 3 — still far below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4663-4665 ship; #4665 in particular closes a real voice-search/AI-Overview eligibility gap on the site's highest-traffic page type.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — nothing fresh until then.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.

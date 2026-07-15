@@ -1559,6 +1559,20 @@ function getMetaForPath(pathname) {
       image: `${BASE_URL}/images/og/signature-licks-preview.png`,
       type: 'website',
       url: `${BASE_URL}/signature-licks`,
+      ssrLinks: _dedupeSsrLinksByHref(
+        Object.values(SIGNATURE_LICKS).map(lick => ({
+          href: `/drummers/${lick.drummerSlug}/licks`,
+          label: `${lick.drummerName} Licks`,
+        }))
+      ),
+      articleSchema: JSON.stringify({
+        '@context': 'https://schema.org',
+        '@type': 'CollectionPage',
+        name: 'Metal Drummer Signature Licks',
+        description: 'Learn the signature drum patterns and fills that define metal\'s greatest drummers.',
+        url: `${BASE_URL}/signature-licks`,
+        publisher: { '@type': 'Organization', name: 'MetalForge', url: BASE_URL },
+      }),
     };
   }
 

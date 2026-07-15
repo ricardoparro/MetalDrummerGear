@@ -1441,7 +1441,8 @@ Before Slayer, Bostaph established his reputation in the Bay Area thrash scene w
           { q: 'What sticks does Paul Bostaph use?', a: 'Paul Bostaph uses Vater Power 5B drumsticks.' },
           { q: 'What bass drum pedal does Paul Bostaph use?', a: 'Paul Bostaph drives his double bass patterns with a Pearl Eliminator double pedal.' },
           { q: 'What drumheads does Paul Bostaph use?', a: 'Paul Bostaph uses Remo Powerstroke 3, Emperor Coated, and Ambassador drumheads.' },
-          { q: 'What band is Paul Bostaph in?', a: 'Paul Bostaph is Slayer\'s longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1999-2001, 2024-present), Exodus (2005-2007), and Forbidden (1987-1989).' }
+          { q: 'What band is Paul Bostaph in?', a: 'Paul Bostaph is Slayer\'s longest-serving drummer, playing with the band from 1992-2001 and 2013-2019. He has also drummed for Testament (1999-2001, 2024-present), Exodus (2005-2007), and Forbidden (1987-1989).' },
+          { q: 'How long did Paul Bostaph play with Slayer?', a: 'Paul Bostaph is Slayer\'s longest-serving drummer, spanning 12 total years across two separate tenures — 1992-2001 and 2013-2019 — and appearing on four studio albums, including Repentless (2015) and the band\'s final show at the Forum in Los Angeles on November 30, 2019.' }
         ]
       },
       sources: {
@@ -1544,7 +1545,8 @@ Dette served as Slayer's touring drummer during 1996-1997, filling in when Paul 
           { q: 'What sticks does Jon Dette use?', a: 'Jon Dette uses Promark or Vater 5B drumsticks, a heavier model favored for authority and durability.' },
           { q: 'What bass drum pedal does Jon Dette use?', a: 'Jon Dette drives his sustained double-kick work with a DW 9000 or Tama Iron Cobra double pedal.' },
           { q: 'What drumheads does Jon Dette use?', a: 'Jon Dette uses Remo Powerstroke 3 heads on his kick, Emperor Coated on his toms, and Coated Ambassador on his snare.' },
-          { q: 'What band is Jon Dette in?', a: 'Jon Dette was Slayer\'s touring drummer in 1996-1997, then drummed for Testament across two stints (1997-1999, 2001-2012), recording The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012). He also filled in for Charlie Benante on a 2010 Anthrax tour.' }
+          { q: 'What band is Jon Dette in?', a: 'Jon Dette was Slayer\'s touring drummer in 1996-1997, then drummed for Testament across two stints (1997-1999, 2001-2012), recording The Gathering (1999), The Formation of Damnation (2008), and Dark Roots of Earth (2012). He also filled in for Charlie Benante on a 2010 Anthrax tour.' },
+          { q: 'How did Jon Dette join Slayer?', a: 'Jon Dette joined Slayer in 1996 as touring drummer, filling in when Paul Bostaph was temporarily unavailable, and left in 1997 when Bostaph returned to the band. He went on to become a longer-term member of Testament.' }
         ]
       }
     }
@@ -1911,7 +1913,8 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
           { q: 'What sticks does Raymond Herrera use?', a: 'Raymond Herrera uses Pro-Mark 5A Oak Nylon Tip drumsticks.' },
           { q: 'What bass drum pedal does Raymond Herrera use?', a: 'Raymond Herrera drives his precise, stop-go double bass patterns with a DW 5000 Series double pedal.' },
           { q: 'What drumheads does Raymond Herrera use?', a: 'Raymond Herrera uses Attack Drumheads across his Tama Starclassic kit.' },
-          { q: 'What band is Raymond Herrera in?', a: 'Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2009. He also drums for Brujeria and formed Arkaea after Fear Factory\'s split.' }
+          { q: 'What band is Raymond Herrera in?', a: 'Raymond Herrera co-founded and drummed for Fear Factory from 1990 to 2009. He also drums for Brujeria and formed Arkaea after Fear Factory\'s split.' },
+          { q: 'Does Raymond Herrera use electronic drum triggers?', a: 'Raymond Herrera uses ddrum and Roland electronic triggers throughout his kit, a technical setup central to the mechanically precise, processed drum sound he pioneered on Fear Factory albums like Demanufacture (1995) and Obsolete (1998).' }
         ]
       },
       sources: {
@@ -2036,7 +2039,8 @@ His drumming on classic Fear Factory albums like "Demanufacture" (1995) and "Obs
           { q: 'What sticks does Morgan Ågren use?', a: 'Morgan Ågren uses Vic Firth American Classic 5A drumsticks.' },
           { q: 'What bass drum pedal does Morgan Ågren use?', a: 'Morgan Ågren plays a Sonor Giant Step double pedal, seated on a Sonor throne.' },
           { q: 'What drumheads does Morgan Ågren use?', a: 'Morgan Ågren uses Remo drumheads across his Sonor SQ2 kit.' },
-          { q: 'What band is Morgan Ågren in?', a: 'Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 and has drummed for Devin Townsend Project (2012-2016), Kaipa (2002-2005), and toured with Frank Zappa\'s band in 1988.' }
+          { q: 'What band is Morgan Ågren in?', a: 'Morgan Ågren co-founded the Mats/Morgan Band with keyboardist Mats Öberg in 1981 and has drummed for Devin Townsend Project (2012-2016), Kaipa (2002-2005), and toured with Frank Zappa\'s band in 1988.' },
+          { q: 'How did Morgan Ågren start working with Frank Zappa?', a: 'Morgan Ågren was personally selected by Frank Zappa to tour with his band in 1988, a milestone that introduced his virtuosic playing to a global audience alongside his ongoing work co-founding and drumming for the Mats/Morgan Band since 1981.' }
         ]
       },
       sources: {
@@ -2433,7 +2437,8 @@ His drumming style combines relentless blast beats, complex double bass patterns
           { q: 'What sticks does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz drives his locomotive double bass technique with a Pearl Demon Drive double pedal.' },
           { q: 'What drumheads does Paul Mazurkiewicz use?', a: 'Paul Mazurkiewicz uses Evans drumheads across his Pearl Masters kit.' },
-          { q: 'What band is Paul Mazurkiewicz in?', a: 'Paul Mazurkiewicz co-founded and has drummed for death metal band Cannibal Corpse since 1988, appearing on every album since their 1990 debut Eaten Back to Life.' }
+          { q: 'What band is Paul Mazurkiewicz in?', a: 'Paul Mazurkiewicz co-founded and has drummed for death metal band Cannibal Corpse since 1988, appearing on every album since their 1990 debut Eaten Back to Life.' },
+          { q: 'How many Cannibal Corpse albums has Paul Mazurkiewicz played on?', a: 'Paul Mazurkiewicz has appeared on every Cannibal Corpse album since the band\'s 1990 debut Eaten Back to Life — the only member besides bassist Alex Webster with that distinction — across more than a dozen studio releases including Tomb of the Mutilated (1992) and Violence Unimagined (2021).' }
         ]
       },
       sources: {
@@ -3088,7 +3093,8 @@ Grossmann first gained international recognition as the drummer for Necrophagist
           { q: 'What sticks does Hannes Grossmann use?', a: 'Hannes Grossmann uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal does Hannes Grossmann use?', a: 'Hannes Grossmann drives his blast-beat and odd-subdivision bass drum patterns with a DW 9000 Series double pedal.' },
           { q: 'What drumheads does Hannes Grossmann use?', a: 'Hannes Grossmann uses Evans drumheads across his DW Collectors kit.' },
-          { q: 'What band is Hannes Grossmann in?', a: 'Hannes Grossmann drums for Obscura (2007-2014, 2020-present) and Alkaloid (2014-present), and previously drummed for Necrophagist and Blotted Science.' }
+          { q: 'What band is Hannes Grossmann in?', a: 'Hannes Grossmann drums for Obscura (2007-2014, 2020-present) and Alkaloid (2014-present), and previously drummed for Necrophagist and Blotted Science.' },
+          { q: 'What is Hannes Grossmann\'s musical background?', a: 'Hannes Grossmann holds a degree in classical percussion and music theory, training that informs the jazz-influenced ghost notes and polyrhythmic precision he brings to technical death metal with Necrophagist, Obscura, and Alkaloid.' }
         ]
       },
       sources: {
@@ -3211,7 +3217,8 @@ Daray's drumming combines extreme speed and technical precision with theatrical 
           { q: 'What sticks does Daray use?', a: 'Daray uses Vic Firth American Classic Extreme 5B drumsticks, a heavier stick variant built for extreme metal\'s demands.' },
           { q: 'What bass drum pedal does Daray use?', a: 'Daray drives his rapid-fire double bass work with a Pearl Demon XR double pedal.' },
           { q: 'What drumheads does Daray use?', a: 'Daray uses Evans drumheads across his Pearl Masterworks kit.' },
-          { q: 'What band is Daray in?', a: 'Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2006-2016) and Vesania (since 2003).' }
+          { q: 'What band is Daray in?', a: 'Daray (Dariusz Brzozowski) has drummed for Dimmu Borgir since 2008 and previously drummed for Vader (2006-2016) and Vesania (since 2003).' },
+          { q: 'Does Daray use trigger-assisted drums?', a: 'Daray uses trigger-assisted drums live to maintain consistency at the extreme tempos Dimmu Borgir\'s symphonic productions demand, and relies on in-ear monitoring to stay synchronized with orchestral arrangements during performances.' }
         ]
       },
       sources: {
@@ -3328,7 +3335,8 @@ Before Amon Amarth, Wallgren was known for his work with Swedish bands including
           { q: 'What bass drum pedals does Jocke Wallgren use?', a: 'Jocke Wallgren uses a Pearl Demon Drive double bass drum pedal, giving him the speed and stability needed for Amon Amarth\'s driving, groove-oriented tempos.' },
           { q: 'What band is Jocke Wallgren in?', a: 'Jocke Wallgren has been the drummer for melodic death metal band Amon Amarth since 2016, replacing Fredrik Andersson.' },
           { q: 'What drumsticks does Jocke Wallgren use?', a: 'Jocke Wallgren uses Vic Firth American Classic 5B drumsticks.' },
-          { q: 'What drumheads does Jocke Wallgren use?', a: 'Jocke Wallgren uses Evans drumheads across his Pearl Reference Pure kit.' }
+          { q: 'What drumheads does Jocke Wallgren use?', a: 'Jocke Wallgren uses Evans drumheads across his Pearl Reference Pure kit.' },
+          { q: 'Who did Jocke Wallgren replace in Amon Amarth?', a: 'Jocke Wallgren joined Amon Amarth in 2016, replacing longtime drummer Fredrik Andersson, and made his studio debut on Jomsviking (2016) before recording Berserker (2019) and The Great Heathen Army (2022).' }
         ]
       },
       sources: {
@@ -3455,7 +3463,8 @@ Yeung's drumming combines machine-like consistency with the brutal intensity dem
           { q: 'What sticks does Tim Yeung use?', a: 'Tim Yeung uses Vic Firth American Classic 5A drumsticks.' },
           { q: 'What bass drum pedal does Tim Yeung use?', a: 'Tim Yeung anchors his legendary speed and stamina with a Tama Speed Cobra 910 double pedal.' },
           { q: 'What drumheads does Tim Yeung use?', a: 'Tim Yeung uses Evans drumheads across his Tama Starclassic Bubinga kit.' },
-          { q: 'What band is Tim Yeung in?', a: 'Tim Yeung has drummed for Morbid Angel, Vital Remains, Hate Eternal, and Divine Heresy, and filled in for George Kollias on Nile\'s 2012 European dates.' }
+          { q: 'What band is Tim Yeung in?', a: 'Tim Yeung has drummed for Morbid Angel, Vital Remains, Hate Eternal, and Divine Heresy, and filled in for George Kollias on Nile\'s 2012 European dates.' },
+          { q: 'Does Tim Yeung use trigger-assisted drums?', a: 'Tim Yeung uses trigger-assisted bass drums for clarity at the extreme tempos his death metal work demands, part of a setup philosophy that prioritizes durability and consistency across sustained blast-beat passages.' }
         ]
       },
       sources: {
@@ -3583,7 +3592,8 @@ Talley's drumming combines the technical demands of brutal death metal with the 
           { q: 'What sticks does Kevin Talley use?', a: 'Kevin Talley uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal does Kevin Talley use?', a: 'Kevin Talley drives his renowned speed and endurance with a Pearl Eliminator double pedal.' },
           { q: 'What drumheads does Kevin Talley use?', a: 'Kevin Talley uses Remo drumheads across his Pearl Masters kit.' },
-          { q: 'What band is Kevin Talley in?', a: 'Kevin Talley has drummed for Dying Fetus (1996-2001, 2007-2008), Misery Index (2001-2003), Suffocation (2005-2007), Chimaira (2009-2011), and Six Feet Under (2011-2017).' }
+          { q: 'What band is Kevin Talley in?', a: 'Kevin Talley has drummed for Dying Fetus (1996-2001, 2007-2008), Misery Index (2001-2003), Suffocation (2005-2007), Chimaira (2009-2011), and Six Feet Under (2011-2017).' },
+          { q: 'Does Kevin Talley use trigger-assisted drums?', a: 'Kevin Talley uses trigger-assisted bass drums for consistency, part of a durable, road-ready performance setup optimized for both speed and groove across his relentless touring schedule spanning Dying Fetus, Suffocation, Chimaira, and Six Feet Under.' }
         ]
       },
       sources: {

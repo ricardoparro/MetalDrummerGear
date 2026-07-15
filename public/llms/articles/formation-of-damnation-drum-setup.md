@@ -3,7 +3,7 @@
 > Paul Bostaph's drum setup on Testament's The Formation of Damnation (2008) — the comeback album that reunited Alex Skolnick and Greg Christian and won Metal Hammer's Golden Gods Best Album award. Pacific Drums LX maple kit, DW Edge snare, and Paiste cymbals behind a distinct chapter of Bostaph's career, separate from his Slayer gear.
 
 **Type:** Album Drum Setup
-**Drummer(s):** Paul Bostaph
+**Drummer(s):** [Paul Bostaph](/llms/drummers/paul-bostaph.md)
 **Band / Album:** Testament — *The Formation of Damnation* (2008)
 **Genre:** Thrash Metal
 
@@ -90,4 +90,4 @@ A: It was Testament's first studio album in nine years, since 1999's The Gatheri
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

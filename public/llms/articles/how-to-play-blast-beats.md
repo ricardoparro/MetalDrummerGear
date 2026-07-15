@@ -15,9 +15,6 @@ This tutorial covers the four essential blast beat variations: the standard sing
 
 Before you begin: set a metronome at 80 BPM and work slowly. Every blast beat legend — Kollias included — emphasizes that controlled, relaxed technique at slow tempos is the foundation for extreme speed. Tension is the enemy of speed.
 
-## Gear Breakdown
-
-
 ## Key Facts
 
 - George Kollias (Nile) sustains blast beats at 280+ BPM — start at 80 BPM and build gradually
@@ -44,4 +41,4 @@ A: A blast beat is a specific pattern combining snare, hi-hat, and kick drum in 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

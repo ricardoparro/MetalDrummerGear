@@ -3,7 +3,7 @@
 > Divine Intervention (1994) is Paul Bostaph's first album with Slayer, recorded after replacing Dave Lombardo. Complete gear breakdown of the Tama Artstar II kit, Paiste RUDE cymbals, and the Toby Wright/Rick Rubin production that gave Slayer its highest chart debut to that point.
 
 **Type:** Album Drum Setup
-**Drummer(s):** Paul Bostaph
+**Drummer(s):** [Paul Bostaph](/llms/drummers/paul-bostaph.md)
 **Band / Album:** Slayer — *Divine Intervention* (1994)
 **Genre:** Thrash Metal
 
@@ -87,4 +87,4 @@ A: Divine Intervention debuted at #8 on the Billboard 200 — Slayer's highest U
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

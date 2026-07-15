@@ -3,7 +3,7 @@
 > Complete breakdown of Sean Reinert's revolutionary drum performance on Death's Human. The gear, techniques, and jazz influences that changed death metal forever.
 
 **Type:** Album Drum Setup
-**Drummer(s):** Sean Reinert
+**Drummer(s):** [Sean Reinert](/llms/drummers/sean-reinert.md)
 **Band / Album:** Death — *Human* (1991)
 **Genre:** Progressive Death Metal
 
@@ -95,4 +95,4 @@ A: Sean Reinert's Tama Artstar II kit retailed for approximately $2,500 to $3,50
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

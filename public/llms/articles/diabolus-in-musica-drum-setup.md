@@ -3,7 +3,7 @@
 > Released in 1998, Slayer's Diabolus in Musica sparked controversy with its D-flat tuning and groove metal direction. Complete gear breakdown of Paul Bostaph's DW Collector's Series kit, Zildjian A Custom cymbals, and the Toby Wright production at The Hook, Richmond, CA.
 
 **Type:** Album Drum Setup
-**Drummer(s):** Paul Bostaph
+**Drummer(s):** [Paul Bostaph](/llms/drummers/paul-bostaph.md)
 **Band / Album:** Slayer — *Diabolus in Musica* (1998)
 **Genre:** Thrash Metal
 
@@ -95,4 +95,4 @@ A: Diabolus in Musica debuted and peaked at #31 on the Billboard 200 — Slayer'
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

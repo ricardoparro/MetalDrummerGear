@@ -3,7 +3,7 @@
 > Complete breakdown of Paul Bostaph's drum kit setup. Discover the gear Slayer's longest-serving drummer used from Divine Intervention to the Final World Tour, plus his current Testament setup.
 
 **Type:** Kit Breakdown
-**Drummer(s):** Paul Bostaph
+**Drummer(s):** [Paul Bostaph](/llms/drummers/paul-bostaph.md)
 **Genre:** Thrash Metal
 
 ## Overview
@@ -98,4 +98,4 @@ A: Paul Bostaph's DW Collector's Series Maple/Mahogany shell pack is estimated a
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

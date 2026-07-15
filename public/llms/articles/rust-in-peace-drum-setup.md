@@ -3,7 +3,7 @@
 > Complete breakdown of Nick Menza's drum gear on Megadeth's Rust in Peace. Discover the Tama kit, cymbals, and recording techniques behind one of thrash metal's greatest albums.
 
 **Type:** Album Drum Setup
-**Drummer(s):** Nick Menza
+**Drummer(s):** [Nick Menza](/llms/drummers/nick-menza.md)
 **Band / Album:** Megadeth — *Rust in Peace* (1990)
 **Genre:** Thrash Metal
 
@@ -91,4 +91,4 @@ A: At the time of recording in 1990, the Tama Artstar II kit was valued at appro
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

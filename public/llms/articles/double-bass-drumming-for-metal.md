@@ -15,9 +15,6 @@ This guide takes you from your first heel-toe exercises to double bass patterns 
 
 Whether you're setting up a double pedal for the first time or trying to break past a speed plateau, the approach is the same: start slow, eliminate tension, and let consistency do the work.
 
-## Gear Breakdown
-
-
 ## Key Facts
 
 - Joey Jordison (Slipknot) uses Pearl Eliminator double pedals tuned for maximum rebound and speed
@@ -44,4 +41,4 @@ A: Begin with the "alternating 8ths" exercise: right-left-right-left at 60 BPM, 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

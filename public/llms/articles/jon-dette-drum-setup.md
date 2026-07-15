@@ -3,7 +3,7 @@
 > Jon Dette used Ludwig drums during his Slayer tenure and with Testament. Explore the complete gear setup of this underrated thrash metal drummer.
 
 **Type:** Kit Breakdown
-**Drummer(s):** Jon Dette
+**Drummer(s):** [Jon Dette](/llms/drummers/jon-dette.md)
 **Band / Album:** Slayer
 **Genre:** Thrash Metal
 
@@ -93,4 +93,4 @@ A: Yes. In 2010, Jon Dette filled in for Charlie Benante on Anthrax tour dates. 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

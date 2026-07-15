@@ -3,7 +3,7 @@
 > Complete breakdown of Nick Menza's drum gear on Megadeth's Countdown to Extinction. Inside the Tama Artstar II kit, Paiste cymbals, and mid-tempo restraint behind 'Symphony of Destruction,' 'Sweating Bullets,' and 'Foreclosure of a Dream.'
 
 **Type:** Album Drum Setup
-**Drummer(s):** Nick Menza
+**Drummer(s):** [Nick Menza](/llms/drummers/nick-menza.md)
 **Band / Album:** Megadeth — *Countdown to Extinction* (1992)
 **Genre:** Thrash Metal
 
@@ -99,4 +99,4 @@ A: Nick Menza used a Tama Artstar Bell Brass snare at 14 inches by 6.5 inches de
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

@@ -3,7 +3,7 @@
 > Discover Adrian Erlandsson's drum setup on At the Gates' landmark 1995 melodic death metal album Slaughter of the Soul — kit, cymbals, Studio Fredman recording technique, and the Gothenburg D-beat approach that influenced a generation.
 
 **Type:** Album Drum Setup
-**Drummer(s):** Adrian Erlandsson
+**Drummer(s):** [Adrian Erlandsson](/llms/drummers/adrian-erlandsson.md)
 **Band / Album:** At the Gates — *Slaughter of the Soul* (1995)
 **Genre:** Melodic Death Metal
 
@@ -89,4 +89,4 @@ A: Slaughter of the Soul was recorded at Studio Fredman in Gothenburg, Sweden in
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

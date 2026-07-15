@@ -3,7 +3,7 @@
 > Complete breakdown of Nick Menza's drum gear on Megadeth's Cryptic Writings — his final album with the band. Inside the Tama Artstar kit, Sabian Signature cymbal switch, and the Nashville sessions behind 'Trust' and 'A Tout le Monde (Set Me Free).'
 
 **Type:** Album Drum Setup
-**Drummer(s):** Nick Menza
+**Drummer(s):** [Nick Menza](/llms/drummers/nick-menza.md)
 **Band / Album:** Megadeth — *Cryptic Writings* (1997)
 **Genre:** Thrash Metal
 
@@ -90,4 +90,4 @@ A: Dave Mustaine brought in Nashville-based producer Dann Huff because the band 
 
 **More LLM resources:** [Site index](/llms.txt) · [Full database](/llms-full.txt) · [Master FAQ](/llms/faq.md) · [Drummer index](/llms/index.md)
 
-*Last updated: 2026-07-06 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

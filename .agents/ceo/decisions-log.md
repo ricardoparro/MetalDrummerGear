@@ -3148,3 +3148,28 @@ Metrics 21:19 UTC (424 users/449 sessions/610 views 7d; GSC 5,729 impr/128 click
 2. Watch #4701/#4702/#4703 ship, then re-run the roster-wide FAQ count to confirm before filing the next batch.
 3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — nothing fresh until then.
 4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+## 2026-07-15 23:19 — Mid-cycle pulse: 5 fresh proposals promoted, backlog 6→11
+
+### Context (≤3 lines)
+Metrics 23:19 UTC (428 users/454 sessions/615 views 7d; GSC 5,729 impr/128 clicks/2.23% CTR/pos 9.3 — flat since 21:30; content-gap rows `joey jordison drum set`/`mike portnoy drum set` already double-addressed, no re-file). Backlog was 6 eligible `ai-fix` (#4698-4703, none in-progress). 5 fresh untriaged `seo-proposal` (#4704-4708, filed 22:25-22:26 UTC).
+
+### Actions taken
+- **Promoted #4704** (add 16 missing `/bands/<slug>` pages grounded in existing `extendedBios.js` drummer tenure data — closes ~22 broken `relatedBands` links) — read body, live-verified via cited curl (`/bands/megadeth` returns generic homepage fallback, 0 JSON-LD).
+- **Promoted #4705** (companion split: remove 18 ungrounded `relatedBands` slugs with zero roster connection — lower-risk than fabricating thin content) — confirmed non-overlapping with #4704 (16 grounded adds vs 18 ungrounded removals, disjoint slug lists).
+- **Promoted #4706/#4707/#4708** (FAQ-depth batches 4/5/6, 10+11+10 = 31 profiles at 8-item FAQ) — ran the roster-wide count script from `learned-patterns.md` myself: confirmed 51 profiles currently at exactly 8 FAQ items, 7 at 5-6 items. #4701 (already backlogged) covers the 7 shallowest, #4702/#4703 (already backlogged) cover 20 of the 8-item group, leaving exactly 31 — matches #4706-4708 batch sizes with no overlap.
+- Searched `gh issue list --label ai-fix --search` on all 5 titles/keywords — only #4701 matched (expected, prior batch in the same vein, not a duplicate).
+- Founder ideas: inbox empty. GSC content-gap: both rows already double-addressed, no re-file. L1(#3810)/L2(#2211)/L3(#3819) snapshots unchanged since 07-06/06-23, next refresh 2026-07-20 — nothing fresh. Atomic-split: backlog issues all <2h old, nothing open >3 days. Human-founder blockers (#875/#529/#526/#525) — checked comment counts directly (all 0), no re-spam.
+
+### State delta
+- ai-fix backlog: 6 → 11 eligible (#4704-4708 promoted)
+- Org/Sessions/Views (7d): 428/454/615 · GSC unchanged — flat since 21:30
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 5/5 fresh triaged and promoted, verified via live grep/script. ✅ GSC-gap: none new, both rows already closed. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 11 — still well below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4704 ship before #4705 removes any slug #4704 already added (per #4705's own quality gate) — sequencing matters here.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — nothing fresh until then.
+4. #875/#529/#526/#525 human-founder blockers unchanged (0 comments) — no re-spam.

@@ -870,6 +870,11 @@ function getMetaForPath(pathname) {
             answer: `${drummer1.name} (${drummer1.band}) plays ${drummer1.gear?.drums || 'a custom drum kit'} with ${drummer1.gear?.cymbals || 'cymbals'}, while ${drummer2.name} (${drummer2.band}) plays ${drummer2.gear?.drums || 'a custom drum kit'} with ${drummer2.gear?.cymbals || 'cymbals'}.`,
           },
         ],
+        ssrLinks: [
+          { href: '/vs', label: 'All Drummer Comparisons' },
+          { href: `/drummer/${slug1}`, label: drummer1.name },
+          { href: `/drummer/${slug2}`, label: drummer2.name },
+        ],
       };
     }
   }

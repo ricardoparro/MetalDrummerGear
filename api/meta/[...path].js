@@ -2955,6 +2955,10 @@ function getMetaForPath(pathname) {
             },
           ],
         }),
+        ssrLinks: _dedupeSsrLinksByHref([
+          { href: `/drummers/${drummerSlug}`, label: `${drummer.name} Profile` },
+          { href: `/drummers/${drummerSlug}/evolution`, label: `${drummer.name} Gear Evolution` },
+        ]),
       };
     }
   }
@@ -3538,6 +3542,11 @@ function getMetaForPath(pathname) {
           { name: drummer.name, url: `${BASE_URL}/drummer/${drummerSlug}` },
           { name: categoryLabel, url: `${BASE_URL}/drummer/${drummerSlug}/${category}` },
         ],
+        ssrLinks: _dedupeSsrLinksByHref([
+          { href: `/drummer/${drummerSlug}`, label: `${drummer.name} Profile` },
+          { href: `/gear/${category}`, label: `All ${categoryLabel}` },
+          { href: `/drummer/${drummerSlug}/evolution`, label: `${drummer.name} Gear Evolution` },
+        ]),
       };
     }
   }

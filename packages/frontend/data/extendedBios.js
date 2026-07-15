@@ -6819,7 +6819,8 @@ Van Poederooyen's versatile drumming has adapted to Townsend's constantly evolvi
           { q: 'What sticks does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen drives Townsend\'s crushing riffs with a Pearl Demon Drive double pedal, seated on a Pearl D-3000 throne.' },
           { q: 'What drumheads does Ryan Van Poederooyen use?', a: 'Ryan Van Poederooyen uses Evans drumheads across his Pearl Reference kit.' },
-          { q: 'What band is Ryan Van Poederooyen in?', a: 'Ryan Van Poederooyen has been Devin Townsend\'s primary drummer since 1999, including the Devin Townsend Project era from 2009 to 2018.' }
+          { q: 'What band is Ryan Van Poederooyen in?', a: 'Ryan Van Poederooyen has been Devin Townsend\'s primary drummer since 1999, including the Devin Townsend Project era from 2009 to 2018.' },
+          { q: 'How long has Ryan Van Poederooyen played with Devin Townsend?', a: 'Ryan Van Poederooyen has been Devin Townsend\'s primary drummer for more than 25 years, appearing on nearly every solo and band album since 1999 — including "Terria" (2001), "Deconstruction" (2011), and "Lightwork" (2022) — after taking over from Gene Hoglan, Townsend\'s previous drummer in Strapping Young Lad.' }
         ]
       },
       sources: {
@@ -6935,6 +6936,7 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
           { q: 'When was Nick Augusto in Trivium?', a: 'Nick Augusto was Trivium\'s drummer from 2010 to 2014, recording two albums with the band.' },
           { q: 'What albums did Nick Augusto record with Trivium?', a: 'Nick recorded "In Waves" (2011) and "Vengeance Falls" (2013) with Trivium.' },
           { q: 'What drum kit does Nick Augusto use?', a: 'Nick Augusto\'s drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls."' },
+          { q: 'What drum set does Nick Augusto use?', a: 'Nick Augusto\'s drum set pairs his Pearl Reference Pure shells and 14"x6.5" Brass snare with a Pearl Demon Drive double pedal and Pearl D-2000 throne, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls."' },
           { q: 'What snare does Nick Augusto use?', a: 'Augusto plays a Pearl Reference 14"x6.5" Brass snare, chosen for the sharp, cutting crack needed to punch through Trivium\'s dense thrash-metalcore guitar work.' },
           { q: 'What cymbals does Nick Augusto play?', a: 'Nick Augusto\'s cymbal setup is Sabian AAX Series: 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.' },
           { q: 'What bass drum pedal does Nick Augusto use?', a: 'Augusto drives his speed-focused double bass work with a Pearl Demon Drive Double Pedal, mounted alongside a Pearl D-2000 Throne.' },
@@ -7056,6 +7058,7 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
           { q: 'What band is Chris Turner in?', a: 'Chris Turner is the founding drummer of progressive metalcore band Oceans Ate Alaska since 2010.' },
           { q: 'Why is Chris Turner famous?', a: 'Chris Turner is known for his extreme technical precision, viral drumming videos, and innovative approach to progressive metalcore drumming.' },
           { q: 'What drum kit does Chris Turner use?', a: 'Chris Turner plays a Tama Starclassic Maple/Birch drum kit, the setup behind Oceans Ate Alaska\'s technical, polyrhythmic metalcore on albums like "Hikari" (2017).' },
+          { q: 'What drum set does Chris Turner use?', a: 'Chris Turner\'s drum set pairs his Tama Starclassic shells and S.L.P. 14"x5.5" G-Maple snare with a Tama Speed Cobra 910 double pedal mounted on a Tama 1st Chair Throne, giving him the rapid footwork response his polyrhythmic patterns demand.' },
           { q: 'What snare does Chris Turner use?', a: 'Turner\'s snare is a Tama S.L.P. 14"x5.5" G-Maple, chosen for a fast, articulate attack that keeps pace with his complex time signatures.' },
           { q: 'What cymbals does Chris Turner play?', a: 'Chris Turner plays Meinl Byzance Series cymbals: 15" Dual Hi-Hats, 18" and 20" Extra Dry Medium Crashes, a 22" Dual Ride, and an 18" Extra Dry China.' },
           { q: 'What bass drum pedal does Chris Turner use?', a: 'Turner drives his polyrhythmic footwork with a Tama Speed Cobra 910 Double Pedal, mounted on a Tama 1st Chair Throne.' },
@@ -7316,6 +7319,7 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
           { q: 'What is Blake Richardson\'s most famous album?', a: 'Between the Buried and Me\'s "Colors" (2007) is widely considered Blake Richardson\'s most iconic work and a landmark progressive metal album.' },
           { q: 'What style does Blake Richardson play?', a: 'Blake Richardson plays progressive metal, seamlessly blending death metal, jazz fusion, and experimental elements within BTBAM\'s genre-defying compositions.' },
           { q: 'What drum kit does Blake Richardson use?', a: 'Blake Richardson\'s drum kit is a Tama Starclassic Bubinga build in a custom finish, prized for the tight low end and explosive attack progressive metal\'s constantly shifting time signatures demand.' },
+          { q: 'What drum set does Blake Richardson use?', a: 'Blake Richardson\'s drum set pairs his Tama Starclassic Bubinga shells and STARPHONIC 14"x6" Brass snare with twin Tama Iron Cobra Power Glide single pedals rather than a linked double pedal, giving him independent control over BTBAM\'s constantly shifting time signatures.' },
           { q: 'What snare does Blake Richardson use?', a: 'Richardson\'s snare is a Tama STARPHONIC 14"x6" Brass, delivering the cutting crack that drives BTBAM\'s blast beats and odd-meter grooves on records like "Colors" and "The Parallax II: Future Sequence."' },
           { q: 'What cymbals does Blake Richardson use?', a: 'Blake Richardson plays Sabian cymbals: 14" HHX Evolution Hi-Hats, an 18" HHX Evolution Crash, 17" and 21" AAX Holy Chinas, a 21" HH Raw Bell Dry Ride, a 10" HH Duo Splash, and a 9" Radia Cup Chime.' },
           { q: 'What sticks does Blake Richardson use?', a: 'Blake Richardson plays Vic Firth American Classic 3A sticks, paired with Evans drumheads.' },
@@ -7451,6 +7455,7 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
           { q: 'What other bands is Ben Koller in?', a: 'Ben Koller also plays in Mutoid Man, All Pigs Must Die, and has recorded with Killer Be Killed.' },
           { q: 'When did Ben Koller join Converge?', a: 'Ben Koller joined Converge in 1999, replacing original drummer Damon Bellorado.' },
           { q: 'What drum kit does Ben Koller use?', a: 'Ben Koller plays a Tama Starclassic Maple drum kit, the streamlined, hard-hitting configuration that powers Converge\'s sonic brutality on records like "Jane Doe," "You Fail Me," and "The Dusk in Us."' },
+          { q: 'What drum set does Ben Koller use?', a: 'Ben Koller\'s drum set pairs his Tama Starclassic Maple shells and S.L.P. 14"x6" Brass snare with a Tama Iron Cobra 900 double pedal, the stripped-down, hard-hitting configuration that powers Converge\'s sonic brutality.' },
           { q: 'What snare does Ben Koller use?', a: 'Koller\'s snare is a Tama S.L.P. 14"x6" Brass, delivering the sharp, cutting crack that slices through Converge\'s dense guitar assault.' },
           { q: 'What cymbals does Ben Koller play?', a: 'Ben Koller plays Zildjian K Dark Series cymbals: 14" K Dark Thin Hi-Hats, 18" and 19" K Dark Medium Thin Crashes, a 21" K Custom Ride, and an 18" K China.' },
           { q: 'What sticks does Ben Koller use?', a: 'Ben Koller plays Vic Firth American Classic 5B sticks, paired with Remo drumheads.' },
@@ -7585,7 +7590,8 @@ According to AllMusic's Jason Birchmeier, Sandoval "challenges one's perception 
           { q: 'What cymbals does Pete Sandoval use?', a: 'Pete Sandoval uses Sabian AAX Series cymbals, including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 20" Stage Ride, and an 18" Chinese.' },
           { q: 'What snare drum does Pete Sandoval use?', a: 'Pete Sandoval\'s primary snare is the ddrum Dios, a 14"x6.5" maple shell.' },
           { q: 'What pedals does Pete Sandoval use?', a: 'Pete Sandoval drives his pioneering blast beat technique with a ddrum Mercury double pedal, seated on a ddrum throne.' },
-          { q: 'What is Pete Sandoval known for?', a: 'Pete Sandoval is widely regarded as one of the most influential figures in extreme metal, pioneering blast beat and double bass techniques whose speed and endurance set new standards for death metal drumming.' }
+          { q: 'What is Pete Sandoval known for?', a: 'Pete Sandoval is widely regarded as one of the most influential figures in extreme metal, pioneering blast beat and double bass techniques whose speed and endurance set new standards for death metal drumming.' },
+          { q: 'What is Pete Sandoval\'s gravity blast technique?', a: 'Pete Sandoval pioneered the gravity blast, a one-handed blast beat technique that uses the rebound of the stick off the drumhead to generate extreme speed, a signature approach that set the template for death metal drumming after his work on Morbid Angel\'s "Altars of Madness" (1989).' }
         ]
       },
       sources: {
@@ -7710,7 +7716,8 @@ Before Lamb of God, Cruz built his reputation through extensive work with Winds 
           { q: 'What sticks does Art Cruz use?', a: 'Art Cruz uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal does Art Cruz use?', a: 'Art Cruz drives his double bass patterns with a Trick Pro 1-V double pedal mounted on Gibraltar hardware.' },
           { q: 'What drumheads does Art Cruz use?', a: 'Art Cruz uses Evans drumheads.' },
-          { q: 'What band is Art Cruz in?', a: 'Art Cruz has been the drummer for Lamb of God since 2019, replacing Chris Adler; he previously played with Prong (2012-2019) and Winds of Plague (2010-2012).' }
+          { q: 'What band is Art Cruz in?', a: 'Art Cruz has been the drummer for Lamb of God since 2019, replacing Chris Adler; he previously played with Prong (2012-2019) and Winds of Plague (2010-2012).' },
+          { q: 'How did Art Cruz join Lamb of God?', a: 'Art Cruz filled in for Chris Adler on Lamb of God\'s 2018 North American tour supporting Slayer\'s farewell run, a stint that led the band to make him their official drummer in 2019 after he learned Adler\'s notoriously complex catalog.' }
         ]
       },
       sources: {
@@ -7829,7 +7836,8 @@ Ilejay's time with Avenged Sevenfold coincided with their transition to a more c
           { q: 'What sticks does Arin Ilejay use?', a: 'Arin Ilejay used Vic Firth American Classic 5A drumsticks.' },
           { q: 'What bass drum pedal does Arin Ilejay use?', a: 'Arin Ilejay drove his double bass patterns with a Mapex Falcon double pedal.' },
           { q: 'What drumheads does Arin Ilejay use?', a: 'Arin Ilejay used Evans drumheads across his Mapex Saturn Series kit.' },
-          { q: 'What band is Arin Ilejay in?', a: 'Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, recording "Hail to the King" (2013), and previously drummed for post-hardcore band Confide (2006-2011).' }
+          { q: 'What band is Arin Ilejay in?', a: 'Arin Ilejay drummed for Avenged Sevenfold from 2011 to 2015, recording "Hail to the King" (2013), and previously drummed for post-hardcore band Confide (2006-2011).' },
+          { q: 'Who did Arin Ilejay replace in Avenged Sevenfold?', a: 'Arin Ilejay joined Avenged Sevenfold in 2011, stepping in after Mike Portnoy (Dream Theater) filled in as a touring replacement for founding drummer Jimmy "The Rev" Sullivan, who died in 2009; Ilejay recorded "Hail to the King" (2013) before departing in 2015 and was replaced by Brooks Wackerman.' }
         ]
       },
       sources: {
@@ -7964,7 +7972,8 @@ Beyond his drumming career, Koperweis is a prolific producer and electronic arti
           { q: 'What sticks does Navene Koperweis use?', a: 'Navene Koperweis uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal does Navene Koperweis use?', a: 'Navene Koperweis drives his extreme single-stroke and blast-beat passages with a DW 9000 Series double pedal.' },
           { q: 'What drumheads does Navene Koperweis use?', a: 'Navene Koperweis uses Evans drumheads across his DW Performance kit.' },
-          { q: 'What band is Navene Koperweis in?', a: 'Navene Koperweis founded Entheos in 2015 and previously drummed for Animals as Leaders (2010-2012) and Animosity (2003-2008). He has also served as a session drummer for Machine Head since 2021.' }
+          { q: 'What band is Navene Koperweis in?', a: 'Navene Koperweis founded Entheos in 2015 and previously drummed for Animals as Leaders (2010-2012) and Animosity (2003-2008). He has also served as a session drummer for Machine Head since 2021.' },
+          { q: 'What other projects has Navene Koperweis worked on?', a: 'Beyond Entheos and Animals as Leaders, Navene Koperweis runs his own technical death metal project Fleshwrought, playing every instrument himself, produces electronic music under the name "Navene K," and has served as a session drummer for Machine Head since 2021.' }
         ]
       },
       sources: {
@@ -8095,7 +8104,8 @@ Bent's background in technical death metal—with bands like Brain Drill, Arkaik
           { q: 'What sticks does Alex Bent use?', a: 'Alex Bent uses Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal does Alex Bent use?', a: 'Alex Bent drives his rapid double bass work with Axis A Longboard double pedals, mounted on a Pearl D-3000 throne.' },
           { q: 'What drumheads does Alex Bent use?', a: 'Alex Bent uses Remo drumheads across his Pearl Reference Pure kit.' },
-          { q: 'What band is Alex Bent in?', a: 'Alex Bent drummed for Trivium from 2017 to 2025, and also drums for Eric Peterson\'s Dragonlord (since 2015) and Arkaik (since 2011).' }
+          { q: 'What band is Alex Bent in?', a: 'Alex Bent drummed for Trivium from 2017 to 2025, and also drums for Eric Peterson\'s Dragonlord (since 2015) and Arkaik (since 2011).' },
+          { q: 'Did Alex Bent ever fill in for another drummer?', a: 'Alex Bent filled in for Gene Hoglan, one of his key influences, on Testament tour dates in 2015 before joining Trivium in 2017 at producer Mark Lewis\'s recommendation, going on to record three albums with the band through his departure in October 2025.' }
         ]
       },
       sources: {

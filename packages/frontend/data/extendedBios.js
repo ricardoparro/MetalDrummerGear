@@ -2303,7 +2303,8 @@ Ward's drumming style combined jazz influences with proto-metal power, creating 
           { q: 'What sticks does Bill Ward use?', a: 'Bill Ward uses Vic Firth American Classic 2B drumsticks.' },
           { q: 'What bass drum pedal does Bill Ward use?', a: 'Bill Ward uses a Ludwig Atlas Pro double pedal mounted with Ludwig hardware, including a Ludwig throne.' },
           { q: 'What drumheads does Bill Ward use?', a: 'Bill Ward uses Remo drumheads.' },
-          { q: 'What band is Bill Ward in?', a: 'Bill Ward is a co-founder and drummer of Black Sabbath, playing with the band from 1968-1983 and again from 1997-2006.' }
+          { q: 'What band is Bill Ward in?', a: 'Bill Ward is a co-founder and drummer of Black Sabbath, playing with the band from 1968-1983 and again from 1997-2006.' },
+          { q: 'What hi-hats did Bill Ward play?', a: 'Bill Ward played 15" Paiste Giant Beat hi-hats, mounted alongside his Ludwig Supraphonic snare and 24" Paiste 2002 ride in his classic Black Sabbath drum kit.' }
         ]
       },
       sources: {
@@ -3967,7 +3968,8 @@ Dee's powerful, hard-hitting style perfectly complemented Lemmy's raw, loud appr
           { q: 'What cymbals does Mikkey Dee use?', a: 'Mikkey Dee uses Zildjian A Custom and K Series cymbals, including 14" A Custom Hi-Hats, 18" and 19" A Custom Crashes, a 22" K Custom Ride, and a 20" Oriental China.' },
           { q: 'What snare drum does Mikkey Dee use?', a: 'Mikkey Dee\'s primary snare is his own Yamaha Mikkey Dee Signature, a 14"x8" shell.' },
           { q: 'What pedals does Mikkey Dee use?', a: 'Mikkey Dee drives his double bass technique with a Yamaha FP9 double pedal on Yamaha hardware.' },
-          { q: 'What drumsticks does Mikkey Dee use?', a: 'Mikkey Dee plays his own signature Wincent Mikkey Dee Signature (W-MDS) drumsticks, paired with Remo drumheads.' }
+          { q: 'What drumsticks does Mikkey Dee use?', a: 'Mikkey Dee plays his own signature Wincent Mikkey Dee Signature (W-MDS) drumsticks, paired with Remo drumheads.' },
+          { q: 'What drumheads does Mikkey Dee use?', a: 'Mikkey Dee uses Remo drumheads across his Yamaha Recording Custom drum kit and drum set.' }
         ]
       },
       sources: {
@@ -4218,7 +4220,8 @@ Verbeuren's drumming combines the technical precision of melodic death metal wit
           { q: 'What bass drum pedals does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses Tama Speed Cobra 910 double pedals, delivering the fast, even double-bass runs heard throughout his Soilwork catalog and Megadeth\'s The Sick, the Dying... and the Dead! era.' },
           { q: 'What band is Dirk Verbeuren in?', a: 'Dirk Verbeuren has been Megadeth\'s drummer since 2016, and previously drummed for Swedish melodic death metal band Soilwork from 2004 to 2016.' },
           { q: 'What drumsticks does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses his signature Tama O-DVM2 Dirk Verbeuren drumsticks.' },
-          { q: 'What drumheads does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses Evans drumheads across his Tama Starclassic Walnut/Birch kit.' }
+          { q: 'What drumheads does Dirk Verbeuren use?', a: 'Dirk Verbeuren uses Evans drumheads across his Tama Starclassic Walnut/Birch kit.' },
+          { q: 'What size bass drum does Dirk Verbeuren use?', a: 'Dirk Verbeuren plays a 22"x18" bass drum as part of his Tama Starclassic drum kit and drum set, giving Megadeth\'s thrash riffing a tight, articulate low end.' }
         ]
       },
       sources: {
@@ -4987,7 +4990,8 @@ Before joining Korn, Luzier built an impressive resume playing with David Lee Ro
           { q: 'What cymbals does Ray Luzier use?', a: 'Ray Luzier uses Sabian AAX Series cymbals, including 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.' },
           { q: 'What snare drum does Ray Luzier use?', a: 'Ray Luzier\'s primary snare is the Pearl Reference 14"x6.5" Brass, chosen for its projection and attack.' },
           { q: 'What pedals does Ray Luzier use?', a: 'Ray Luzier drives his double bass playing with a DW 9002 double pedal, seated on a Pearl D-2000 Roadster throne.' },
-          { q: 'What drumsticks does Ray Luzier use?', a: 'Ray Luzier plays his own Vic Firth Ray Luzier Signature drumsticks.' }
+          { q: 'What drumsticks does Ray Luzier use?', a: 'Ray Luzier plays his own Vic Firth Ray Luzier Signature drumsticks.' },
+          { q: 'What drumheads does Ray Luzier use?', a: 'Ray Luzier uses Evans drumheads across his Pearl Reference Series drum kit and drum set.' }
         ]
       },
       sources: {
@@ -5110,7 +5114,8 @@ Otto studied jazz drumming at the Douglas Anderson School of the Arts and played
           { q: 'What bass drum pedals does John Otto use?', a: 'John Otto uses Gibraltar G Class bass drum pedals in a single-pedal configuration, mounted on Gibraltar custom hardware racks, underpinning the straight-ahead funk and rock grooves on tracks like "Rollin\'" and "Break Stuff."' },
           { q: 'What band is John Otto in?', a: 'John Otto is the drummer and a founding member of Limp Bizkit, which he co-founded with Fred Durst and Sam Rivers in Jacksonville, Florida in 1994.' },
           { q: 'What drumsticks does John Otto use?', a: 'John Otto uses Zildjian Artist Series drumsticks.' },
-          { q: 'What drumheads does John Otto use?', a: 'John Otto uses Remo Emperor Coated drumheads across his OCDP acrylic kit.' }
+          { q: 'What drumheads does John Otto use?', a: 'John Otto uses Remo Emperor Coated drumheads across his OCDP acrylic kit.' },
+          { q: 'What hardware does John Otto use?', a: 'John Otto uses Gibraltar hardware — including his custom racks and G Class bass drum pedal — to support his transparent OCDP acrylic drum kit and drum set on stage.' }
         ]
       },
       sources: {
@@ -5238,7 +5243,8 @@ Weinberg's career spans diverse genres: from substituting for his father with Br
           { q: 'What bass drum pedals does Jay Weinberg use?', a: 'Jay Weinberg uses a DW 9000 Series double bass drum pedal, paired with a DW 9100 throne to anchor his powerful, aggressive playing.' },
           { q: 'What band is Jay Weinberg in?', a: 'Jay Weinberg has drummed for Suicidal Tendencies since 2023, and previously played drums for Slipknot from 2014 to 2023 after replacing Joey Jordison.' },
           { q: 'What drumsticks does Jay Weinberg use?', a: 'Jay Weinberg uses his signature Vater Jay Weinberg 908 Signature drumsticks.' },
-          { q: 'What drumheads does Jay Weinberg use?', a: 'Jay Weinberg uses Evans Black Chrome drumheads across his SJC Custom Drums kit.' }
+          { q: 'What drumheads does Jay Weinberg use?', a: 'Jay Weinberg uses Evans Black Chrome drumheads across his SJC Custom Drums kit.' },
+          { q: 'What electronics does Jay Weinberg use?', a: 'Jay Weinberg integrates Roland electronic triggers and samples into his SJC Custom Drums drum kit, giving his drum set a hybrid acoustic/electronic sound built for Slipknot\'s live show.' }
         ]
       },
       sources: {
@@ -5370,7 +5376,8 @@ After Pantera's breakup, Vinnie Paul co-founded Damageplan with Darrell, and fol
           { q: 'What sticks did Vinnie Paul use?', a: 'Vinnie Paul used Vic Firth American Classic 5B drumsticks.' },
           { q: 'What bass drum pedal did Vinnie Paul use?', a: 'Vinnie Paul used a ddrum double pedal mounted with a ddrum throne.' },
           { q: 'What drumheads did Vinnie Paul use?', a: 'Vinnie Paul used Evans drumheads.' },
-          { q: 'What band was Vinnie Paul in?', a: 'Vinnie Paul co-founded and drummed for Pantera (1981-2003), then Damageplan (2003-2004), and later Hellyeah (2006-2018).' }
+          { q: 'What band was Vinnie Paul in?', a: 'Vinnie Paul co-founded and drummed for Pantera (1981-2003), then Damageplan (2003-2004), and later Hellyeah (2006-2018).' },
+          { q: 'What electronic triggers did Vinnie Paul use?', a: 'Vinnie Paul used ddrum and Roland triggers alongside his acoustic ddrum Vinnie Paul Signature drum kit, blending triggered samples with live drums for Pantera\'s massive live sound.' }
         ]
       },
       sources: {
@@ -5498,7 +5505,8 @@ Beyond his drumming, Benante is Anthrax's main composer and a talented graphic a
           { q: 'What cymbals does Charlie Benante use?', a: 'Charlie Benante uses Paiste RUDE and 2002 Series cymbals, including 14" Hi-Hats, 18" and 19" Crashes, a 20" Power Ride, and an 18" China.' },
           { q: 'What snare drum does Charlie Benante use?', a: 'Charlie Benante\'s primary snare is his own Tama Charlie Benante Signature, a 14"x6.5" shell.' },
           { q: 'What pedals does Charlie Benante use?', a: 'Charlie Benante drives his thrash-defining double bass technique with a Tama Speed Cobra double pedal.' },
-          { q: 'What drumsticks does Charlie Benante use?', a: 'Charlie Benante plays his own signature Vic Firth Charlie Benante Signature drumsticks.' }
+          { q: 'What drumsticks does Charlie Benante use?', a: 'Charlie Benante plays his own signature Vic Firth Charlie Benante Signature drumsticks.' },
+          { q: 'What drumheads does Charlie Benante use?', a: 'Charlie Benante uses Evans drumheads across his Tama Starclassic drum kit and drum set.' }
         ]
       },
       sources: {
@@ -5630,7 +5638,8 @@ Dailor's drumming is characterized by constant motion—intricate fills that wea
           { q: 'What sticks does Brann Dailor use?', a: 'Brann Dailor uses Vater 5B drumsticks.' },
           { q: 'What bass drum pedal does Brann Dailor use?', a: 'Brann Dailor uses a Tama Speed Cobra double pedal.' },
           { q: 'What drumheads does Brann Dailor use?', a: 'Brann Dailor uses Evans drumheads.' },
-          { q: 'What band is Brann Dailor in?', a: 'Brann Dailor is the drummer and co-vocalist for progressive sludge metal band Mastodon, with the group since 2000; he also plays in the synth project Arcadea since 2017.' }
+          { q: 'What band is Brann Dailor in?', a: 'Brann Dailor is the drummer and co-vocalist for progressive sludge metal band Mastodon, with the group since 2000; he also plays in the synth project Arcadea since 2017.' },
+          { q: 'What hardware does Brann Dailor use?', a: 'Brann Dailor\'s hardware includes a Tama Iron Cobra Lever Glide hi-hat stand and Tama 1st Chair Ergo-Rider throne, supporting the fluid movement across his Starclassic Performer B/B drum kit and drum set.' }
         ]
       },
       sources: {
@@ -5885,7 +5894,8 @@ A graduate of Berklee College of Music, Halpern brings academic rigor to his dru
           { q: 'What sticks does Matt Halpern use?', a: 'Matt Halpern uses Promark Matt Halpern Signature drumsticks.' },
           { q: 'What bass drum pedal does Matt Halpern use?', a: 'Matt Halpern uses a Pearl Demon Drive double pedal.' },
           { q: 'What drumheads does Matt Halpern use?', a: 'Matt Halpern uses Evans drumheads.' },
-          { q: 'What band is Matt Halpern in?', a: 'Matt Halpern has been the drummer for progressive metal band Periphery since its formation in 2009.' }
+          { q: 'What band is Matt Halpern in?', a: 'Matt Halpern has been the drummer for progressive metal band Periphery since its formation in 2009.' },
+          { q: 'What electronics does Matt Halpern use?', a: 'Matt Halpern integrates a Roland SPD-SX sample pad and additional triggers into his Pearl Reference Series drum kit, giving his drum set the modern, hybrid production sound heard on Periphery\'s recent albums.' }
         ]
       },
       sources: {

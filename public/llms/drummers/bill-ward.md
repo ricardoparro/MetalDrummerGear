@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Ludwig"
 profile_url: "https://metalforge.io/drummer/bill-ward"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Bill Ward — Drum Kit & Gear Setup
@@ -91,6 +91,10 @@ A: Bill Ward uses Remo drumheads.
 **Q: What band is Bill Ward in?**
 
 A: Bill Ward is a co-founder and drummer of Black Sabbath, playing with the band from 1968-1983 and again from 1997-2006.
+
+**Q: What hi-hats did Bill Ward play?**
+
+A: Bill Ward played 15" Paiste Giant Beat hi-hats, mounted alongside his Ludwig Supraphonic snare and 24" Paiste 2002 ride in his classic Black Sabbath drum kit.
 
 ## Black Sabbath (1970) — Debut Album
 
@@ -188,4 +192,4 @@ Full breakdown: [Bill Ward's pedal setup](https://metalforge.io/pedals/setups/bi
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

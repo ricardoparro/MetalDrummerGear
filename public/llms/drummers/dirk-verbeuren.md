@@ -6,7 +6,7 @@ country: "Belgium"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/dirk-verbeuren"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Dirk Verbeuren — Drum Kit & Gear Setup
@@ -95,6 +95,10 @@ A: Dirk Verbeuren uses his signature Tama O-DVM2 Dirk Verbeuren drumsticks.
 
 A: Dirk Verbeuren uses Evans drumheads across his Tama Starclassic Walnut/Birch kit.
 
+**Q: What size bass drum does Dirk Verbeuren use?**
+
+A: Dirk Verbeuren plays a 22"x18" bass drum as part of his Tama Starclassic drum kit and drum set, giving Megadeth's thrash riffing a tight, articulate low end.
+
 ## Quotes
 
 > "Joining Megadeth was a dream come true. These songs are part of metal history."
@@ -146,4 +150,4 @@ Full breakdown: [Dirk Verbeuren's pedal setup](https://metalforge.io/pedals/setu
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

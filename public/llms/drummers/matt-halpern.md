@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/matt-halpern"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Matt Halpern — Drum Kit & Gear Setup
@@ -92,6 +92,10 @@ A: Matt Halpern uses Evans drumheads.
 
 A: Matt Halpern has been the drummer for progressive metal band Periphery since its formation in 2009.
 
+**Q: What electronics does Matt Halpern use?**
+
+A: Matt Halpern integrates a Roland SPD-SX sample pad and additional triggers into his Pearl Reference Series drum kit, giving his drum set the modern, hybrid production sound heard on Periphery's recent albums.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Matt Halpern:
@@ -111,4 +115,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/brann-dailor"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Brann Dailor — Drum Kit & Gear Setup
@@ -94,6 +94,10 @@ A: Brann Dailor uses Evans drumheads.
 
 A: Brann Dailor is the drummer and co-vocalist for progressive sludge metal band Mastodon, with the group since 2000; he also plays in the synth project Arcadea since 2017.
 
+**Q: What hardware does Brann Dailor use?**
+
+A: Brann Dailor's hardware includes a Tama Iron Cobra Lever Glide hi-hat stand and Tama 1st Chair Ergo-Rider throne, supporting the fluid movement across his Starclassic Performer B/B drum kit and drum set.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Brann Dailor:
@@ -113,4 +117,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

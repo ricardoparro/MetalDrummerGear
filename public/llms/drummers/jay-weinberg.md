@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "SJC"
 profile_url: "https://metalforge.io/drummer/jay-weinberg"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Jay Weinberg — Drum Kit & Gear Setup
@@ -96,6 +96,10 @@ A: Jay Weinberg uses his signature Vater Jay Weinberg 908 Signature drumsticks.
 
 A: Jay Weinberg uses Evans Black Chrome drumheads across his SJC Custom Drums kit.
 
+**Q: What electronics does Jay Weinberg use?**
+
+A: Jay Weinberg integrates Roland electronic triggers and samples into his SJC Custom Drums drum kit, giving his drum set a hybrid acoustic/electronic sound built for Slipknot's live show.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Jay Weinberg:
@@ -137,4 +141,4 @@ Full breakdown: [Jay Weinberg's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

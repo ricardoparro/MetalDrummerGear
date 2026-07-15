@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Orange"
 profile_url: "https://metalforge.io/drummer/john-otto"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # John Otto — Drum Kit & Gear Setup
@@ -93,6 +93,10 @@ A: John Otto uses Zildjian Artist Series drumsticks.
 
 A: John Otto uses Remo Emperor Coated drumheads across his OCDP acrylic kit.
 
+**Q: What hardware does John Otto use?**
+
+A: John Otto uses Gibraltar hardware — including his custom racks and G Class bass drum pedal — to support his transparent OCDP acrylic drum kit and drum set on stage.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for John Otto:
@@ -133,4 +137,4 @@ Full breakdown: [John Otto's pedal setup](https://metalforge.io/pedals/setups/jo
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

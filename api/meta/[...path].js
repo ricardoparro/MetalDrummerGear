@@ -3888,6 +3888,10 @@ function getMetaForPath(pathname) {
         image: DEFAULT_IMAGE,
         type: 'website',
         url: `${BASE_URL}/gear/${brandSlug}/${seriesSlug}/drummers-using`,
+        ssrDrummerLinks: kitDrummers.slice(0, 10).map(d => ({
+          href: d.slug ? `/drummer/${d.slug}` : null,
+          label: d.band ? `${d.name} (${d.band})` : d.name,
+        })).filter(l => l.href),
         articleSchema: JSON.stringify([
           {
             '@context': 'https://schema.org',

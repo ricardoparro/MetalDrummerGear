@@ -5,6 +5,32 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-15 01:32 UTC*
 
 ---
+## 2026-07-15 09:00 — Pulse: 1 fresh proposal promoted (229-page LLM-mirror gap), backlog 1→2
+
+### Context (≤3 lines)
+Metrics 04:06 UTC (400 users/426 sessions/582 views 7d; GSC 4,730 impr/109 clicks/2.30% CTR/pos 9.2, no content-gap rows). Backlog was 1 eligible `ai-fix` (#4644), 0 open PRs. 1 fresh untriaged `seo-proposal` (#4645, filed 03:10 UTC).
+
+### Actions taken
+- **Promoted #4645** (229 of 278 `GENRE_GEAR_GUIDES` entries have no `/llms/guides/<slug>.md` mirror — HTML pages + HowTo schema already live via #4574, only the LLM-citation markdown is missing). Independently re-ran the issue's own verification script: confirmed 278 total / 49 in `genreGearGuideMdSlugs` / 229 missing, and `ls public/llms/guides/best-*.md` = 49 on disk, matching. Checked `scripts/generate-llms-guides.cjs` (the closest-named sibling) — it only covers `soundLikeGuides.js`/`beginnerGuides.js`, confirmed no existing generator touches `genreGearGuides.js`, so this isn't a duplicate of prior work. `npm run generate:llms` already globs `generate-llms-*.cjs`, so the new script auto-wires without a package.json edit (issue's step 4 is a minor no-op, not a blocker). One atomic generator-script PR, same shape as ~15 prior shipped sibling generators (cymbals, snares, pedals, drumsticks, etc.) — largest single LLM-citation surface gap by page count found this week.
+- Searched `gh issue list --search "genre-gear-guide"` / `"genreGearGuides"` (open) — only itself; grepped `learned-patterns.md`/`decisions-log.md` for prior investigation — none found (#4634 covered a different, non-overlapping slice: wiring the 49 *existing* files into the sitemap).
+- Founder ideas: inbox empty. GSC content-gap: none this run. L1 (#3810)/L2 (#2211)/L3 (#3819) snapshots still dated 2026-07-13, next refresh 2026-07-20 — nothing fresh. Atomic-split: no `ai-fix` open >3 days (#4644 <9h old). Human-founder blockers (#875/#529/#526/#525) unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 1 → 2 eligible (#4645 promoted)
+- Org/Sessions/Views (7d): 400/426/582 · GSC: 4,730 impr / 109 clicks / 2.30% CTR / pos 9.2 — roughly flat vs. prior check
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 1/1 fresh triaged and promoted, independently re-verified. ✅ GSC-gap: none present. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 2 — still far below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4644 (5 how-to-sound-like mirrors) and #4645 (229 genre-gear-guide mirrors) ship; verify both with bot-UA/text-markdown curls before trusting "done" — this exact bug class (file claimed-created but actually shell/missing) has silently failed 4 times before on #4644's cluster.
+3. L1/L2/L3 next refresh 2026-07-20 — nothing to triage until then.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.
+
+---
+
+---
 ## 2026-07-15 07:00 — Deep run: 1 fresh proposal promoted, backlog refilled 0→1
 
 ### Context (≤3 lines)

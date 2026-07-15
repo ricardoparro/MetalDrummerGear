@@ -1,7 +1,7 @@
 # Tama vs Pearl Bass Drum Pedals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Tama and Pearl bass drum pedals used by pro metal drummers.
-> Last updated: 2026-07-11
+> Last updated: 2026-07-15
 
 Compare Tama Iron Cobra 900 and Pearl Demon Drive double bass pedals. Speed, feel, durability, and which pedal top metal drummers choose.
 

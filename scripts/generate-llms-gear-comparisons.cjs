@@ -272,6 +272,49 @@ function formatUsedByShort(usedBy) {
   return usedBy.map(u => (typeof u === 'string' ? u : (u.name || ''))).filter(Boolean).join(', ');
 }
 
+// Issue #4676: generate-llms-gear-series.cjs's "drummers-using" data has, over
+// several prior fixes, landed markdown mirrors directly in this same
+// gear-comparison/ directory (a cross-generator directory collision) instead of
+// its own gear-series/ output dir. Rather than move those already-published
+// URLs, pick up whatever "drummers-using-*.md" files already exist on disk here
+// so the hub index stays aware of every file it actually contains.
+const comparisonSlugs = new Set(comparisons.map(c => `${c.slug}.md`));
+const seriesFiles = fs.readdirSync(outDir)
+  .filter(f => f.endsWith('.md') && f.startsWith('drummers-using-') && !comparisonSlugs.has(f))
+  .sort();
+
+const seriesEntries = seriesFiles.map(filename => {
+  const raw = fs.readFileSync(path.join(outDir, filename), 'utf-8');
+  const h1Match = raw.match(/^#\s+(.+)$/m);
+  const fullTitle = h1Match ? h1Match[1].trim() : filename.replace(/\.md$/, '');
+  const title = fullTitle.split(' — ')[0].trim();
+  // First plain-text paragraph: skip the H1, blockquote lines, blank lines,
+  // and the `---` divider that precedes the file's own body sections.
+  let description = '';
+  const bodyLines = raw.split('\n').slice(1);
+  for (const line of bodyLines) {
+    const trimmed = line.trim();
+    if (!trimmed || trimmed.startsWith('>') || trimmed.startsWith('#') || trimmed === '---') continue;
+    description = trimmed;
+    break;
+  }
+
+  // Prefer the file's own stated canonical URL over guessing one — GEAR_INDEX
+  // series slugs don't always match what's in the (older, hand-authored) filename.
+  const exactUrlMatch = raw.match(/\((https:\/\/metalforge\.io\/gear\/[a-z0-9/-]+\/drummers-using)\)/);
+  const brandPageMatch = raw.match(/\((\/gear\/[a-z0-9-]+)\)/);
+  const pageUrl = exactUrlMatch
+    ? exactUrlMatch[1]
+    : brandPageMatch
+      ? `https://metalforge.io${brandPageMatch[1]}`
+      : 'https://metalforge.io/gear';
+  const pageLabel = exactUrlMatch ? 'URL' : 'Brand Page';
+
+  return { filename, title, fullTitle, description, pageUrl, pageLabel };
+});
+
+const totalFiles = comparisons.length + seriesEntries.length;
+
 const hubLines = [
   '# Metal Gear Brand Comparisons — MetalForge',
   '',
@@ -279,7 +322,7 @@ const hubLines = [
   '> Optimised for AI crawlers answering "Tama vs Pearl metal", "best cymbals for metal",',
   '> and brand matchup queries.',
   '>',
-  `> Last updated: ${today} · ${comparisons.length} curated gear comparisons`,
+  `> Last updated: ${today} · ${comparisons.length} curated gear comparisons + ${seriesEntries.length} kit-series drummer guides (${totalFiles} files total)`,
   '',
   '---',
   '',
@@ -332,8 +375,39 @@ for (const c of comparisons) {
   hubLines.push('');
 }
 
+if (seriesEntries.length > 0) {
+  hubLines.push('## Kit Comparisons by Series');
+  hubLines.push('');
+  hubLines.push('"Which metal drummers use it?" guides for specific brand series and kits, generated');
+  hubLines.push('from the /gear/<brand>/<series>/drummers-using pages.');
+  hubLines.push('');
+  hubLines.push('| Series | File |');
+  hubLines.push('|--------|------|');
+  for (const s of seriesEntries) {
+    hubLines.push(`| [${s.title}](${s.pageUrl}) | [${s.filename}](https://metalforge.io/llms/gear-comparison/${s.filename}) |`);
+  }
+  hubLines.push('');
+  hubLines.push('---');
+  hubLines.push('');
+
+  for (const s of seriesEntries) {
+    hubLines.push(`## ${s.fullTitle}`);
+    hubLines.push('');
+    hubLines.push(`**${s.pageLabel}:** ${s.pageUrl}`);
+    hubLines.push('');
+    if (s.description) {
+      hubLines.push(s.description);
+      hubLines.push('');
+    }
+    hubLines.push(`[Full guide → ${s.pageUrl}](${s.pageUrl}) · [LLM Markdown](https://metalforge.io/llms/gear-comparison/${s.filename})`);
+    hubLines.push('');
+    hubLines.push('---');
+    hubLines.push('');
+  }
+}
+
 const hubPath = path.join(__dirname, '../public/llms/gear-comparison.md');
 const hubContent = hubLines.join('\n');
 fs.writeFileSync(hubPath, hubContent);
-console.log(`Wrote ${hubPath} (${comparisons.length} comparisons, ${hubContent.length} chars)`);
-console.log(`Total: ${fileCount} per-comparison files + 1 hub = ${fileCount + 1} LLM files`);
+console.log(`Wrote ${hubPath} (${comparisons.length} comparisons + ${seriesEntries.length} series guides, ${hubContent.length} chars)`);
+console.log(`Total: ${fileCount} per-comparison files + ${seriesEntries.length} pre-existing series files + 1 hub = ${fileCount + seriesEntries.length + 1} LLM files`);

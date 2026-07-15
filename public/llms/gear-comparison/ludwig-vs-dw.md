@@ -1,7 +1,7 @@
 # Ludwig vs DW Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Ludwig and DW drums used by pro metal drummers.
-> Last updated: 2026-07-11
+> Last updated: 2026-07-15
 
 Compare Ludwig Classic Maple and DW Collector's Series drums for metal. Vintage American heritage vs modern premium engineering, pricing, specs, and pro endorsements.
 

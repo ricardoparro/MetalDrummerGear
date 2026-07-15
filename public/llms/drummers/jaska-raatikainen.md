@@ -97,6 +97,10 @@ A: Jaska Raatikainen uses Vic Firth American Classic 5A drumsticks.
 
 A: Jaska Raatikainen uses Remo drumheads across his Pearl Masters Premium Maple kit.
 
+**Q: What hi-hats does Jaska Raatikainen use?**
+
+A: Jaska Raatikainen uses 14" Zildjian A Custom Hi-Hats for a bright, cutting chick, mounted on his Pearl Masters Premium Maple drum kit and drum set.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Jaska Raatikainen:

@@ -101,6 +101,10 @@ A: Igor Cavalera drives his tribal-influenced double bass patterns with a Tama I
 
 A: Igor Cavalera plays Vic Firth American Classic 5B drumsticks.
 
+**Q: What percussion does Igor Cavalera use?**
+
+A: Beyond his Tama Starclassic Maple drum kit and drum set, Igor Cavalera incorporates traditional Brazilian percussion — atabaques, surdo, and timbales — for the tribal rhythms he pioneered on Sepultura's Roots (1996).
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Igor Cavalera:

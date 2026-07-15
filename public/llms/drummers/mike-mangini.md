@@ -100,6 +100,10 @@ A: Mike Mangini drives his technical double bass patterns with a Pearl Demon Dri
 
 A: Mike Mangini plays his own signature Vater Mike Mangini Wicked Piston (VHMMWP) drumsticks.
 
+**Q: What electronics does Mike Mangini use?**
+
+A: Mike Mangini integrates a Roland TD-50 module for triggers and samples into his Pearl Reference Series drum kit, giving his drum set the electronic textures heard on recent Dream Theater albums.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 6 signature lick tutorial(s) for Mike Mangini:

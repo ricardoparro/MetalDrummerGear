@@ -99,6 +99,10 @@ A: Hellhammer drives his extreme-tempo double bass playing with an Axis double p
 
 A: Hellhammer plays Vic Firth American Classic 5B drumsticks.
 
+**Q: What drumheads does Hellhammer use?**
+
+A: Hellhammer uses Remo drumheads across his Sonor SQ2 Heavy Beech drum kit and drum set.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Hellhammer:

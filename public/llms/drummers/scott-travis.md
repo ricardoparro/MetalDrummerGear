@@ -99,6 +99,10 @@ A: Scott Travis drives his double bass technique with a DW 9000 Series double pe
 
 A: Scott Travis plays Vic Firth American Classic 5B drumsticks, paired with Remo drumheads.
 
+**Q: What drumheads does Scott Travis use?**
+
+A: Scott Travis uses Remo drumheads across his ddrum Dominion Series drum kit and drum set.
+
 ## Quotes
 
 > "Painkiller was a turning point for the band and for me. We pushed each other to new limits."

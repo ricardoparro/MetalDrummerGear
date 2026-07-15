@@ -99,6 +99,10 @@ A: Daniel Erlandsson uses Vic Firth American Classic 5B drumsticks.
 
 A: Daniel Erlandsson uses Evans drumheads across his Pearl Reference Pure kit.
 
+**Q: What hi-hats does Daniel Erlandsson use?**
+
+A: Daniel Erlandsson uses 14" Paiste RUDE Hi-Hats for aggressive, cutting chick sounds, mounted on his Pearl Reference Pure drum kit and drum set.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 3 signature lick tutorial(s) for Daniel Erlandsson:

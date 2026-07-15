@@ -99,6 +99,10 @@ A: No — Nicko McBrain famously plays a single bass drum pedal rather than doub
 
 A: Nicko McBrain plays his own signature Vic Firth Nicko McBrain drumsticks.
 
+**Q: What drumheads does Nicko McBrain use?**
+
+A: Nicko McBrain uses Remo Emperor drumheads across his Sonor SQ2 Series drum kit and drum set.
+
 ## Quotes
 
 > "I've never needed a double bass pedal. One foot is enough if you practice hard."

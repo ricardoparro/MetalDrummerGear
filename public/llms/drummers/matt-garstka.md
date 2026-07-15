@@ -95,6 +95,10 @@ A: Matt Garstka uses Evans drumheads across his Tama Starclassic kit.
 
 A: Matt Garstka has been the drummer for instrumental progressive metal band Animals as Leaders since 2012, appearing on The Joy of Motion (2014), The Madness of Many (2016), and Parrhesia (2022).
 
+**Q: What hi-hats does Matt Garstka use?**
+
+A: Matt Garstka uses 15" Meinl Byzance Dual Hi-Hats for nuanced, washy articulation, mounted on his Tama Starclassic Walnut/Birch drum kit and drum set.
+
 ## Signature Licks on MetalForge
 
 MetalForge has 5 signature lick tutorial(s) for Matt Garstka:

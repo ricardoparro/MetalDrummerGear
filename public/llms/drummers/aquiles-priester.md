@@ -101,6 +101,10 @@ A: Aquiles Priester uses his signature Promark TX419W Aquiles Priester Autograph
 
 A: Aquiles Priester uses Evans drumheads across his Pearl Reference Series kit.
 
+**Q: What hardware does Aquiles Priester use?**
+
+A: Aquiles Priester mounts his Pearl Demon Drive double pedal on Pearl's Icon Rack System, supporting his Pearl Reference Series drum kit and drum set on world tours.
+
 ## Quotes
 
 > "Power metal demands power drumming. Every stroke has to hit like thunder."

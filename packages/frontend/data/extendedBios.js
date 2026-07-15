@@ -6890,7 +6890,11 @@ During his four years with Trivium, Augusto recorded two studio albums—"In Wav
         items: [
           { q: 'When was Nick Augusto in Trivium?', a: 'Nick Augusto was Trivium\'s drummer from 2010 to 2014, recording two albums with the band.' },
           { q: 'What albums did Nick Augusto record with Trivium?', a: 'Nick recorded "In Waves" (2011) and "Vengeance Falls" (2013) with Trivium.' },
-          { q: 'What drums did Nick Augusto play?', a: 'Nick Augusto played Tama Starclassic drums with Meinl cymbals and Tama Iron Cobra pedals.' },
+          { q: 'What drum kit does Nick Augusto use?', a: 'Nick Augusto\'s drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls."' },
+          { q: 'What snare does Nick Augusto use?', a: 'Augusto plays a Pearl Reference 14"x6.5" Brass snare, chosen for the sharp, cutting crack needed to punch through Trivium\'s dense thrash-metalcore guitar work.' },
+          { q: 'What cymbals does Nick Augusto play?', a: 'Nick Augusto\'s cymbal setup is Sabian AAX Series: 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.' },
+          { q: 'What bass drum pedal does Nick Augusto use?', a: 'Augusto drives his speed-focused double bass work with a Pearl Demon Drive Double Pedal, mounted alongside a Pearl D-2000 Throne.' },
+          { q: 'What sticks does Nick Augusto use?', a: 'Nick Augusto plays Vic Firth American Classic 5B sticks, paired with Evans drumheads.' },
           { q: 'Why did Nick Augusto leave Trivium?', a: 'Nick parted ways with Trivium in 2014, citing creative differences. He was replaced by Mat Madiro.' }
         ]
       },
@@ -7005,9 +7009,13 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drums does Chris Turner play?', a: 'Chris Turner plays Tama Starclassic drums with Meinl cymbals and Tama Speed Cobra pedals.' },
           { q: 'What band is Chris Turner in?', a: 'Chris Turner is the founding drummer of progressive metalcore band Oceans Ate Alaska since 2010.' },
           { q: 'Why is Chris Turner famous?', a: 'Chris Turner is known for his extreme technical precision, viral drumming videos, and innovative approach to progressive metalcore drumming.' },
+          { q: 'What drum kit does Chris Turner use?', a: 'Chris Turner plays a Tama Starclassic Maple/Birch drum kit, the setup behind Oceans Ate Alaska\'s technical, polyrhythmic metalcore on albums like "Hikari" (2017).' },
+          { q: 'What snare does Chris Turner use?', a: 'Turner\'s snare is a Tama S.L.P. 14"x5.5" G-Maple, chosen for a fast, articulate attack that keeps pace with his complex time signatures.' },
+          { q: 'What cymbals does Chris Turner play?', a: 'Chris Turner plays Meinl Byzance Series cymbals: 15" Dual Hi-Hats, 18" and 20" Extra Dry Medium Crashes, a 22" Dual Ride, and an 18" Extra Dry China.' },
+          { q: 'What bass drum pedal does Chris Turner use?', a: 'Turner drives his polyrhythmic footwork with a Tama Speed Cobra 910 Double Pedal, mounted on a Tama 1st Chair Throne.' },
+          { q: 'What sticks does Chris Turner use?', a: 'Chris Turner plays Vic Firth American Classic 5A sticks, paired with Evans drumheads.' },
           { q: 'How fast can Chris Turner play?', a: 'Chris Turner is capable of playing extremely fast double bass patterns (200+ BPM) while maintaining clarity and groove.' }
         ]
       },
@@ -7130,8 +7138,13 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
       faq: {
         title: 'Frequently Asked Questions',
         items: [
-          { q: 'What drums does Matt Greiner play?', a: 'Matt Greiner plays Pearl Reference Pure drums with Meinl Byzance cymbals and his signature Pearl snare drum.' },
-          { q: 'Does Matt Greiner have a signature snare?', a: 'Yes, Matt has a Pearl Matt Greiner Signature 14"x6" steel snare designed for metalcore drumming.' },
+          { q: 'What drum kit does Matt Greiner use?', a: 'Matt Greiner plays a Mapex Black Panther Design Lab kit, a maple/walnut hybrid shell pack he switched to in 2016 for August Burns Red\'s technically demanding metalcore sets, heard on albums like "Ember," "Tides," and "Death Below."' },
+          { q: 'What drum set does Matt Greiner use?', a: 'Greiner\'s Mapex Black Panther Design Lab set is built around a Mapex Black Panther 14"x5.5" Maple snare and a DW 9000 Series double pedal for August Burns Red\'s blazing double bass patterns, mounted on a DW 9100 throne.' },
+          { q: 'What cymbals does Matt Greiner play?', a: 'Matt Greiner plays Paiste Formula 602 cymbals: 14" Hi-Hats, 16", 17", and 18" Crashes, a 22" Ride, an 18" China, and a 10" Splash.' },
+          { q: 'What snare does Matt Greiner use?', a: 'His main snare is a Mapex Black Panther 14"x5.5" Maple, delivering the warm crack that anchors August Burns Red\'s arrangements.' },
+          { q: 'What sticks does Matt Greiner use?', a: 'Matt Greiner plays his own Vic Firth Matt Greiner Signature drumsticks.' },
+          { q: 'What bass drum pedal does Matt Greiner use?', a: 'Greiner drives August Burns Red\'s double bass lines with a DW 9000 Series double pedal.' },
+          { q: 'What drumheads does Matt Greiner use?', a: 'Matt Greiner uses Evans G2 and EMAD2 drumheads.' },
           { q: 'Has August Burns Red won a Grammy?', a: 'August Burns Red has received multiple Grammy nominations but has not yet won. They were nominated for Best Metal Performance in 2016 and 2020.' },
           { q: 'How long has Matt Greiner been in August Burns Red?', a: 'Matt Greiner co-founded August Burns Red in 2003 and has been their drummer for over 20 years.' }
         ]
@@ -7257,8 +7270,12 @@ Richardson's work on landmark albums like "Colors," "The Great Misdirect," and "
         items: [
           { q: 'What band is Blake Richardson in?', a: 'Blake Richardson is the drummer for progressive metal band Between the Buried and Me since 2005.' },
           { q: 'What is Blake Richardson\'s most famous album?', a: 'Between the Buried and Me\'s "Colors" (2007) is widely considered Blake Richardson\'s most iconic work and a landmark progressive metal album.' },
-          { q: 'What cymbals does Blake Richardson use?', a: 'Blake Richardson uses Meinl Byzance cymbals, known for their complex tones suitable for progressive music.' },
-          { q: 'What style does Blake Richardson play?', a: 'Blake Richardson plays progressive metal, seamlessly blending death metal, jazz fusion, and experimental elements within BTBAM\'s genre-defying compositions.' }
+          { q: 'What style does Blake Richardson play?', a: 'Blake Richardson plays progressive metal, seamlessly blending death metal, jazz fusion, and experimental elements within BTBAM\'s genre-defying compositions.' },
+          { q: 'What drum kit does Blake Richardson use?', a: 'Blake Richardson\'s drum kit is a Tama Starclassic Bubinga build in a custom finish, prized for the tight low end and explosive attack progressive metal\'s constantly shifting time signatures demand.' },
+          { q: 'What snare does Blake Richardson use?', a: 'Richardson\'s snare is a Tama STARPHONIC 14"x6" Brass, delivering the cutting crack that drives BTBAM\'s blast beats and odd-meter grooves on records like "Colors" and "The Parallax II: Future Sequence."' },
+          { q: 'What cymbals does Blake Richardson use?', a: 'Blake Richardson plays Sabian cymbals: 14" HHX Evolution Hi-Hats, an 18" HHX Evolution Crash, 17" and 21" AAX Holy Chinas, a 21" HH Raw Bell Dry Ride, a 10" HH Duo Splash, and a 9" Radia Cup Chime.' },
+          { q: 'What sticks does Blake Richardson use?', a: 'Blake Richardson plays Vic Firth American Classic 3A sticks, paired with Evans drumheads.' },
+          { q: 'What bass drum pedal does Blake Richardson use?', a: 'Richardson powers his independent double-kick patterns with twin Tama Iron Cobra Power Glide single pedals rather than a linked double pedal.' }
         ]
       },
       sources: {
@@ -7388,8 +7405,12 @@ Beyond Converge, Koller maintains an impressive roster of projects including Mut
         items: [
           { q: 'What band is Ben Koller most known for?', a: 'Ben Koller is best known as the drummer for Converge since 1999, particularly for his work on the landmark "Jane Doe" album.' },
           { q: 'What other bands is Ben Koller in?', a: 'Ben Koller also plays in Mutoid Man, All Pigs Must Die, and has recorded with Killer Be Killed.' },
-          { q: 'What drums does Ben Koller play?', a: 'Ben Koller plays Tama Starclassic drums with Zildjian cymbals and Tama Iron Cobra pedals.' },
-          { q: 'When did Ben Koller join Converge?', a: 'Ben Koller joined Converge in 1999, replacing original drummer Damon Bellorado.' }
+          { q: 'When did Ben Koller join Converge?', a: 'Ben Koller joined Converge in 1999, replacing original drummer Damon Bellorado.' },
+          { q: 'What drum kit does Ben Koller use?', a: 'Ben Koller plays a Tama Starclassic Maple drum kit, the streamlined, hard-hitting configuration that powers Converge\'s sonic brutality on records like "Jane Doe," "You Fail Me," and "The Dusk in Us."' },
+          { q: 'What snare does Ben Koller use?', a: 'Koller\'s snare is a Tama S.L.P. 14"x6" Brass, delivering the sharp, cutting crack that slices through Converge\'s dense guitar assault.' },
+          { q: 'What cymbals does Ben Koller play?', a: 'Ben Koller plays Zildjian K Dark Series cymbals: 14" K Dark Thin Hi-Hats, 18" and 19" K Dark Medium Thin Crashes, a 21" K Custom Ride, and an 18" K China.' },
+          { q: 'What sticks does Ben Koller use?', a: 'Ben Koller plays Vic Firth American Classic 5B sticks, paired with Remo drumheads.' },
+          { q: 'What bass drum pedal does Ben Koller use?', a: 'Koller drives Converge\'s blistering tempos with a Tama Iron Cobra 900 double pedal.' }
         ]
       },
       sources: {

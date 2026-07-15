@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Pearl"
 profile_url: "https://metalforge.io/drummer/nick-augusto"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Nick Augusto — Drum Kit & Gear Setup
@@ -69,9 +69,25 @@ A: Nick Augusto was Trivium's drummer from 2010 to 2014, recording two albums wi
 
 A: Nick recorded "In Waves" (2011) and "Vengeance Falls" (2013) with Trivium.
 
-**Q: What drums did Nick Augusto play?**
+**Q: What drum kit does Nick Augusto use?**
 
-A: Nick Augusto played Tama Starclassic drums with Meinl cymbals and Tama Iron Cobra pedals.
+A: Nick Augusto's drum kit centers on a Pearl Reference Pure setup, the configuration he played throughout his Trivium tenure on "In Waves" and "Vengeance Falls."
+
+**Q: What snare does Nick Augusto use?**
+
+A: Augusto plays a Pearl Reference 14"x6.5" Brass snare, chosen for the sharp, cutting crack needed to punch through Trivium's dense thrash-metalcore guitar work.
+
+**Q: What cymbals does Nick Augusto play?**
+
+A: Nick Augusto's cymbal setup is Sabian AAX Series: 14" Stage Hi-Hats, 18" and 19" X-Plosion Crashes, a 21" Stage Ride, and an 18" AAXtreme China.
+
+**Q: What bass drum pedal does Nick Augusto use?**
+
+A: Augusto drives his speed-focused double bass work with a Pearl Demon Drive Double Pedal, mounted alongside a Pearl D-2000 Throne.
+
+**Q: What sticks does Nick Augusto use?**
+
+A: Nick Augusto plays Vic Firth American Classic 5B sticks, paired with Evans drumheads.
 
 **Q: Why did Nick Augusto leave Trivium?**
 
@@ -93,4 +109,4 @@ Each lick page includes a video demonstration, HowTo breakdown, and gear notes.
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

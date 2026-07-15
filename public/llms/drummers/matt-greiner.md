@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Mapex"
 profile_url: "https://metalforge.io/drummer/matt-greiner"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Matt Greiner — Drum Kit & Gear Setup
@@ -61,13 +61,33 @@ His work with August Burns Red has earned a Grammy nomination and widespread cri
 
 ## Frequently Asked Questions
 
-**Q: What drums does Matt Greiner play?**
+**Q: What drum kit does Matt Greiner use?**
 
-A: Matt Greiner plays Pearl Reference Pure drums with Meinl Byzance cymbals and his signature Pearl snare drum.
+A: Matt Greiner plays a Mapex Black Panther Design Lab kit, a maple/walnut hybrid shell pack he switched to in 2016 for August Burns Red's technically demanding metalcore sets, heard on albums like "Ember," "Tides," and "Death Below."
 
-**Q: Does Matt Greiner have a signature snare?**
+**Q: What drum set does Matt Greiner use?**
 
-A: Yes, Matt has a Pearl Matt Greiner Signature 14"x6" steel snare designed for metalcore drumming.
+A: Greiner's Mapex Black Panther Design Lab set is built around a Mapex Black Panther 14"x5.5" Maple snare and a DW 9000 Series double pedal for August Burns Red's blazing double bass patterns, mounted on a DW 9100 throne.
+
+**Q: What cymbals does Matt Greiner play?**
+
+A: Matt Greiner plays Paiste Formula 602 cymbals: 14" Hi-Hats, 16", 17", and 18" Crashes, a 22" Ride, an 18" China, and a 10" Splash.
+
+**Q: What snare does Matt Greiner use?**
+
+A: His main snare is a Mapex Black Panther 14"x5.5" Maple, delivering the warm crack that anchors August Burns Red's arrangements.
+
+**Q: What sticks does Matt Greiner use?**
+
+A: Matt Greiner plays his own Vic Firth Matt Greiner Signature drumsticks.
+
+**Q: What bass drum pedal does Matt Greiner use?**
+
+A: Greiner drives August Burns Red's double bass lines with a DW 9000 Series double pedal.
+
+**Q: What drumheads does Matt Greiner use?**
+
+A: Matt Greiner uses Evans G2 and EMAD2 drumheads.
 
 **Q: Has August Burns Red won a Grammy?**
 
@@ -135,4 +155,4 @@ Full breakdown: [Matt Greiner's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

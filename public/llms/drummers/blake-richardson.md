@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/blake-richardson"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Blake Richardson — Drum Kit & Gear Setup
@@ -69,13 +69,29 @@ A: Blake Richardson is the drummer for progressive metal band Between the Buried
 
 A: Between the Buried and Me's "Colors" (2007) is widely considered Blake Richardson's most iconic work and a landmark progressive metal album.
 
-**Q: What cymbals does Blake Richardson use?**
-
-A: Blake Richardson uses Meinl Byzance cymbals, known for their complex tones suitable for progressive music.
-
 **Q: What style does Blake Richardson play?**
 
 A: Blake Richardson plays progressive metal, seamlessly blending death metal, jazz fusion, and experimental elements within BTBAM's genre-defying compositions.
+
+**Q: What drum kit does Blake Richardson use?**
+
+A: Blake Richardson's drum kit is a Tama Starclassic Bubinga build in a custom finish, prized for the tight low end and explosive attack progressive metal's constantly shifting time signatures demand.
+
+**Q: What snare does Blake Richardson use?**
+
+A: Richardson's snare is a Tama STARPHONIC 14"x6" Brass, delivering the cutting crack that drives BTBAM's blast beats and odd-meter grooves on records like "Colors" and "The Parallax II: Future Sequence."
+
+**Q: What cymbals does Blake Richardson use?**
+
+A: Blake Richardson plays Sabian cymbals: 14" HHX Evolution Hi-Hats, an 18" HHX Evolution Crash, 17" and 21" AAX Holy Chinas, a 21" HH Raw Bell Dry Ride, a 10" HH Duo Splash, and a 9" Radia Cup Chime.
+
+**Q: What sticks does Blake Richardson use?**
+
+A: Blake Richardson plays Vic Firth American Classic 3A sticks, paired with Evans drumheads.
+
+**Q: What bass drum pedal does Blake Richardson use?**
+
+A: Richardson powers his independent double-kick patterns with twin Tama Iron Cobra Power Glide single pedals rather than a linked double pedal.
 
 ## Quotes
 
@@ -129,4 +145,4 @@ Full breakdown: [Blake Richardson's pedal setup](https://metalforge.io/pedals/se
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

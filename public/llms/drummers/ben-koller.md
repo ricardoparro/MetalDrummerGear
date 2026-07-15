@@ -6,7 +6,7 @@ country: "USA"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/ben-koller"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Ben Koller — Drum Kit & Gear Setup
@@ -72,13 +72,29 @@ A: Ben Koller is best known as the drummer for Converge since 1999, particularly
 
 A: Ben Koller also plays in Mutoid Man, All Pigs Must Die, and has recorded with Killer Be Killed.
 
-**Q: What drums does Ben Koller play?**
-
-A: Ben Koller plays Tama Starclassic drums with Zildjian cymbals and Tama Iron Cobra pedals.
-
 **Q: When did Ben Koller join Converge?**
 
 A: Ben Koller joined Converge in 1999, replacing original drummer Damon Bellorado.
+
+**Q: What drum kit does Ben Koller use?**
+
+A: Ben Koller plays a Tama Starclassic Maple drum kit, the streamlined, hard-hitting configuration that powers Converge's sonic brutality on records like "Jane Doe," "You Fail Me," and "The Dusk in Us."
+
+**Q: What snare does Ben Koller use?**
+
+A: Koller's snare is a Tama S.L.P. 14"x6" Brass, delivering the sharp, cutting crack that slices through Converge's dense guitar assault.
+
+**Q: What cymbals does Ben Koller play?**
+
+A: Ben Koller plays Zildjian K Dark Series cymbals: 14" K Dark Thin Hi-Hats, 18" and 19" K Dark Medium Thin Crashes, a 21" K Custom Ride, and an 18" K China.
+
+**Q: What sticks does Ben Koller use?**
+
+A: Ben Koller plays Vic Firth American Classic 5B sticks, paired with Remo drumheads.
+
+**Q: What bass drum pedal does Ben Koller use?**
+
+A: Koller drives Converge's blistering tempos with a Tama Iron Cobra 900 double pedal.
 
 ## Signature Licks on MetalForge
 
@@ -120,4 +136,4 @@ Full breakdown: [Ben Koller's pedal setup](https://metalforge.io/pedals/setups/b
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

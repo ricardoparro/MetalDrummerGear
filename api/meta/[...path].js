@@ -2474,6 +2474,12 @@ function getMetaForPath(pathname) {
       image: DEFAULT_IMAGE,
       type: 'website',
       url: `${BASE_URL}/licks`,
+      ssrLinks: _dedupeSsrLinksByHref(
+        Object.values(SIGNATURE_LICKS).map(lick => ({
+          href: `/drummers/${lick.drummerSlug}/licks`,
+          label: `${lick.drummerName} Licks`,
+        }))
+      ),
       articleSchema: JSON.stringify({
         '@context': 'https://schema.org',
         '@graph': [

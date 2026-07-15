@@ -3804,6 +3804,20 @@ function getMetaForPath(pathname) {
               },
             },
           ];
+      // Issue #4687: bot-facing Quick Facts table — mirrors the fields already
+      // surfaced in public/llms/drummers/<slug>.md, missing from this SSR shell.
+      const quickFacts = [
+        { label: 'Band', value: drummer.band },
+        drummer.bands?.length > 1
+          ? { label: 'All bands', value: drummer.bands.map(b => b.name).join(', ') }
+          : null,
+        { label: 'Genre', value: drummer.genre },
+        { label: 'Country', value: drummer.country },
+        { label: 'Primary brand', value: brands[0] },
+        { label: 'Drum kit', value: drummer.gear?.drums },
+        { label: 'Snare', value: drummer.gear?.snare },
+        { label: 'Sticks', value: drummer.gear?.sticks },
+      ].filter(f => f && f.value);
       return {
         title: override?.title || extBio?.metaTitle || `${drummer.name} Drum Kit & Gear Setup | ${SITE_NAME}`,
         description: truncate(
@@ -3819,6 +3833,8 @@ function getMetaForPath(pathname) {
           href: `/articles/${a.slug}`,
           label: a.title,
         })) : null,
+        quickFacts,
+        quickFactsName: drummer.name,
         breadcrumbSchema: [
           { name: 'Home', url: BASE_URL },
           { name: 'Drummers', url: `${BASE_URL}/drummers` },
@@ -5067,6 +5083,17 @@ function generateMetaHtml(meta, originalUrl) {
       allowfullscreen></iframe>` : ''}
     ${meta.subheading ? `<h2>${meta.subheading}</h2>` : ''}
     <p>${meta.description}</p>
+    ${meta.quickFacts && meta.quickFacts.length > 0 ? `
+    <section itemScope itemType="https://schema.org/Person">
+      <meta itemProp="name" content="${escapeHtml(meta.quickFactsName || '')}">
+      <meta itemProp="jobTitle" content="Professional Drummer">
+      <h2>Quick Facts: ${escapeHtml(meta.quickFactsName || '')}</h2>
+      <table>
+        <tbody>
+          ${meta.quickFacts.map(f => `<tr><th scope="row">${escapeHtml(f.label)}</th><td>${escapeHtml(f.value)}</td></tr>`).join('')}
+        </tbody>
+      </table>
+    </section>` : ''}
     ${meta.ssrLinks && meta.ssrLinks.length > 0 ? `
     <nav aria-label="Gear Deep Dives &amp; Articles">
       <h2>Gear Deep Dives &amp; Articles</h2>

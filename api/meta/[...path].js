@@ -3596,6 +3596,13 @@ function getMetaForPath(pathname) {
           { name: d1.name, url: `${BASE_URL}/drummer/${_battleDrummerSlug(d1.name)}`, band: d1.band },
           { name: d2.name, url: `${BASE_URL}/drummer/${_battleDrummerSlug(d2.name)}`, band: d2.band },
         ],
+        // Issue #4674: crawlable ssrLinks back to the battles hub and both
+        // compared drummers' pages — previously only present in JSON-LD.
+        ssrLinks: [
+          { href: '/battles', label: 'All Battles' },
+          { href: `/drummer/${_battleDrummerSlug(d1.name)}`, label: d1.name },
+          { href: `/drummer/${_battleDrummerSlug(d2.name)}`, label: d2.name },
+        ],
       };
     }
   }

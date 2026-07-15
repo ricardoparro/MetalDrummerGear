@@ -27,19 +27,17 @@ try {
   process.exit(1);
 }
 
-// Load articles (ALBUM_ARTICLES) for the /llms/articles/<slug>.md index section (#1058)
-const articlesPath = path.join(__dirname, '../packages/frontend/data/albumArticles.js');
+// Load articles (ALBUM_ARTICLES) for the /llms/articles/<slug>.md index section (#1058).
+// ALBUM_ARTICLES is composed from per-drummer ESM modules under
+// packages/frontend/data/albumArticles/ (see index.js) — require() it directly
+// rather than regex-scraping a literal object, since the barrel file
+// (albumArticles.js) only re-exports it and no longer contains that literal.
+const articlesIndexPath = path.join(__dirname, '../packages/frontend/data/albumArticles/index.js');
 let articles = {};
 try {
-  const articlesContent = fs.readFileSync(articlesPath, 'utf-8');
-  const objMatch = articlesContent.match(/export const ALBUM_ARTICLES = (\{[\s\S]*?\});\s*(?:\/\/|export|$)/);
-  if (objMatch) {
-    articles = eval(`(function() { return ${objMatch[1]}; })()`);
-  } else {
-    console.warn('Could not extract ALBUM_ARTICLES — Articles section will be empty.');
-  }
+  ({ ALBUM_ARTICLES: articles } = require(articlesIndexPath));
 } catch (e) {
-  console.warn('Could not parse ALBUM_ARTICLES, continuing without Articles section:', e.message);
+  console.warn('Could not load ALBUM_ARTICLES, continuing without Articles section:', e.message);
 }
 
 // Load drummer comparison slugs for the /llms/vs/ per-pair summary (#4298)
@@ -125,8 +123,36 @@ for (const d of drummers) {
   output += `| ${d.name} | ${d.band} | ${d.genre} | [Profile](https://metalforge.io/drummer/${slug}) | [Markdown](https://metalforge.io/api/drummer/${slug}/markdown) |\n`;
 }
 
-// Articles — clean Markdown breakdowns of every album/kit article (#1058)
+// Articles — clean Markdown breakdowns of every album/kit article (#1058).
+// ALBUM_ARTICLES only covers album drum-setup articles; other generators (licks,
+// gear-evolution, signature-gear-guide) write their own *.md files into the same
+// shared public/llms/articles/ directory with no ALBUM_ARTICLES entry at all, so
+// they'd otherwise be invisible to this table despite being live and crawlable
+// (they all have sitemap.js entries already). Merge those orphans in by slug (#4657).
 const articleList = Object.values(articles).filter((a) => a && a.slug);
+const knownSlugs = new Set(articleList.map((a) => a.slug));
+const articlesDir = path.join(__dirname, '../public/llms/articles');
+try {
+  const orphanFiles = fs.readdirSync(articlesDir)
+    .filter((f) => f.endsWith('.md'))
+    .map((f) => f.slice(0, -3))
+    .filter((slug) => !knownSlugs.has(slug))
+    .sort();
+  for (const slug of orphanFiles) {
+    const content = fs.readFileSync(path.join(articlesDir, `${slug}.md`), 'utf-8');
+    const titleMatch = content.match(/^#\s+(.+)$/m);
+    const title = titleMatch
+      ? titleMatch[1].trim()
+      : slug.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+    const drummerMatch = content.match(/\*\*Drummer\(s\):\*\*\s*(.+)$/m);
+    const drummer = drummerMatch
+      ? Array.from(drummerMatch[1].matchAll(/\[([^\]]+)\]/g)).map((m) => m[1]).join(', ') || '—'
+      : '—';
+    articleList.push({ slug, title, drummer });
+  }
+} catch (e) {
+  console.warn('Could not scan public/llms/articles/ for orphan article files:', e.message);
+}
 if (articleList.length > 0) {
   output += `
 ---

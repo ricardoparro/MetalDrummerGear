@@ -240,82 +240,15 @@ Optimised for AI retrieval on queries like "what kit does Lars Ulrich play?" or 
 
 ---
 
-## Articles (423 total)
+## Articles (447 total)
 
 Clean Markdown gear breakdowns for every album drum-setup and "what's in <drummer>'s kit" article, ingestible in one request.
 
 | Article | Drummer | Markdown |
 |---------|---------|----------|
 | Master of Puppets Drum Setup: Lars Ulrich's Gear Breakdown | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/master-of-puppets-drum-setup.md) |
-| Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/reign-in-blood-drum-setup.md) |
-| Vulgar Display of Power Drum Setup: Vinnie Paul's Gear Breakdown | Vinnie Paul | [Markdown](https://metalforge.io/llms/articles/vulgar-display-of-power-drum-setup.md) |
-| Number of the Beast Drum Setup: The Gear Behind Clive Burr's Performance (& Nicko's Legacy) | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/number-of-the-beast-drum-setup.md) |
-| Iowa Drum Setup: Joey Jordison's Gear Breakdown | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/iowa-drum-setup.md) |
-| What's In Joey Jordison's Legendary Kit: Complete Gear Breakdown | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/whats-in-joey-jordisons-kit.md) |
-| Joey Jordison Signature Gear: What's Available Today & How to Get His Sound | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/joey-jordison-signature-gear-guide.md) |
-| Joey Jordison's Legacy: 5 Years On — The Kit, The Sticks, The Sound | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/joey-jordison-legacy.md) |
-| What's In Danny Carey's Mind-Bending Kit: Complete Gear Breakdown | Danny Carey | [Markdown](https://metalforge.io/llms/articles/whats-in-danny-careys-kit.md) |
-| What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/whats-in-tomas-haakes-kit.md) |
-| obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/obzen-drum-setup.md) |
-| What's In Dave Lombardo's Kit in 2026: The Godfather of Double Bass | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/whats-in-dave-lombardos-kit.md) |
-| What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/whats-in-gene-hoglans-kit.md) |
-| What's In Eloy Casagrande's Kit in 2026: From Sepultura to Slipknot | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/whats-in-eloy-casagrandes-kit.md) |
-| Eloy Casagrande M72 Drum Setup: What He Played with Metallica on the World Tour (2023–2024) | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/eloy-casagrande-m72-drum-setup.md) |
-| Painkiller Drum Setup: Scott Travis's Speed Metal Revolution | Scott Travis | [Markdown](https://metalforge.io/llms/articles/painkiller-drum-setup.md) |
-| Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound | Danny Carey | [Markdown](https://metalforge.io/llms/articles/fear-inoculum-drum-setup.md) |
-| Lateralus Drum Setup: Danny Carey's Progressive Masterpiece | Danny Carey | [Markdown](https://metalforge.io/llms/articles/lateralus-drum-setup.md) |
-| What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/whats-in-mike-portnoys-kit.md) |
-| Images and Words Drum Setup: Mike Portnoy's Progressive Metal Breakthrough | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/images-and-words-drum-setup.md) |
-| Metropolis Pt. 2: Scenes from a Memory Drum Setup — Mike Portnoy's Magnum Opus | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/scenes-from-a-memory-drum-setup.md) |
-| What's In Mario Duplantier's Environmental Kit: Complete Gear Breakdown | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/whats-in-mario-duplantiers-kit.md) |
-| What's In Brann Dailor's Kit: Mastodon's Melodic Thunder Complete Breakdown | Brann Dailor | [Markdown](https://metalforge.io/llms/articles/whats-in-brann-dailors-kit.md) |
-| What's In Chris Adler's Lamb of God Arsenal: Complete Gear Breakdown | Chris Adler | [Markdown](https://metalforge.io/llms/articles/whats-in-chris-adlers-kit.md) |
-| What's In Charlie Benante's Anthrax Kit: The Big Four's Technical Pioneer | Charlie Benante | [Markdown](https://metalforge.io/llms/articles/whats-in-charlie-benantes-kit.md) |
 | What's In Lars Ulrich's Kit in 2026: The Most Famous Metal Drummer's Complete Setup | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/whats-in-lars-ulrichs-kit.md) |
-| From Mars to Sirius Drum Setup: Mario Duplantier's Breakthrough Gear | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/from-mars-to-sirius-drum-setup.md) |
-| Symbolic Drum Setup: Gene Hoglan's Masterpiece with Death | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/symbolic-drum-setup.md) |
-| What's In Bill Ward's Kit: The Godfather of Metal Drumming's Legendary Setup | Bill Ward | [Markdown](https://metalforge.io/llms/articles/whats-in-bill-wards-kit.md) |
-| Ashes of the Wake Drum Setup: Chris Adler's Groove Metal Masterpiece | Chris Adler | [Markdown](https://metalforge.io/llms/articles/ashes-of-the-wake-drum-setup.md) |
-| What's In Flo Mounier's Extreme Arsenal: Complete Gear Breakdown | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/whats-in-flo-mouniers-kit.md) |
-| What's In Pete Sandoval's Morbid Angel Arsenal | Pete Sandoval | [Markdown](https://metalforge.io/llms/articles/whats-in-pete-sandovals-kit.md) |
-| What's In George Kollias' Speed Arsenal | George Kollias | [Markdown](https://metalforge.io/llms/articles/whats-in-george-kollias-kit.md) |
-| Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis | Pete Sandoval | [Markdown](https://metalforge.io/llms/articles/altars-of-madness-drum-setup.md) |
-| What's In Paul Bostaph's Slayer Arsenal | Paul Bostaph | [Markdown](https://metalforge.io/llms/articles/whats-in-paul-bostaphs-kit.md) |
-| What's In Nicko McBrain's Iron Maiden Arsenal | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/whats-in-nicko-mcbrains-kit.md) |
-| What's In Vinnie Paul's Pantera Arsenal (Tribute) | Vinnie Paul | [Markdown](https://metalforge.io/llms/articles/whats-in-vinnie-pauls-kit.md) |
-| What's In Mike Mangini's Dream Theater Arsenal | Mike Mangini | [Markdown](https://metalforge.io/llms/articles/whats-in-mike-manginis-kit.md) |
-| Cowboys from Hell Drum Setup: Vinnie Paul's Breakthrough Gear | Vinnie Paul | [Markdown](https://metalforge.io/llms/articles/cowboys-from-hell-drum-setup.md) |
-| Roots Drum Setup: Igor Cavalera's Brazilian Tribal Metal Revolution | Igor Cavalera | [Markdown](https://metalforge.io/llms/articles/roots-drum-setup.md) |
-| The Way of All Flesh Drum Setup: Mario Duplantier's Death Metal Odyssey | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/the-way-of-all-flesh-drum-setup.md) |
-| None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/none-so-vile-drum-setup.md) |
-| What's In Igor Cavalera's Tribal Arsenal: Complete Gear Breakdown | Igor Cavalera | [Markdown](https://metalforge.io/llms/articles/whats-in-igor-cavaleras-kit.md) |
-| Beneath the Remains Drum Setup: Igor Cavalera's Brazilian Thrash Breakthrough | Igor Cavalera | [Markdown](https://metalforge.io/llms/articles/beneath-the-remains-drum-setup.md) |
-| Chaos A.D. Drum Setup: Igor Cavalera's Groove Metal Revolution | Igor Cavalera | [Markdown](https://metalforge.io/llms/articles/chaos-ad-drum-setup.md) |
-| What's In Matt Garstka's Kit: The Jazz-Fusion Meets Progressive Metal Arsenal | Matt Garstka | [Markdown](https://metalforge.io/llms/articles/whats-in-matt-garstkas-kit.md) |
-| What's In Derek Roddy's Kit: The Extreme Metal Educator's Speed Arsenal | Derek Roddy | [Markdown](https://metalforge.io/llms/articles/whats-in-derek-roddys-kit.md) |
-| What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown | Inferno | [Markdown](https://metalforge.io/llms/articles/whats-in-infernos-kit.md) |
-| The Satanist Drum Setup: Inferno's Studio Arsenal for Behemoth's AOTY 2014 | Inferno | [Markdown](https://metalforge.io/llms/articles/the-satanist-drum-setup.md) |
-| Human Drum Setup: Sean Reinert's Jazz-Death Masterpiece | Sean Reinert | [Markdown](https://metalforge.io/llms/articles/human-drum-setup.md) |
-| What's In Alex Bent's Trivium Arsenal: Complete Gear Breakdown | Alex Bent | [Markdown](https://metalforge.io/llms/articles/whats-in-alex-bents-kit.md) |
-| Blackwater Park Drum Setup: Martin Lopez's Opeth Masterpiece | Martin Lopez | [Markdown](https://metalforge.io/llms/articles/blackwater-park-drum-setup.md) |
-| What's In Dirk Verbeuren's Megadeth Arsenal: Complete Gear Breakdown | Dirk Verbeuren | [Markdown](https://metalforge.io/llms/articles/whats-in-dirk-verbeurens-kit.md) |
-| What's In Richard Christy's Death Metal Arsenal | Richard Christy | [Markdown](https://metalforge.io/llms/articles/whats-in-richard-christys-kit.md) |
-| What's In Scott Travis' Judas Priest Arsenal | Scott Travis | [Markdown](https://metalforge.io/llms/articles/whats-in-scott-travis-kit.md) |
-| The Sound of Perseverance Drum Setup: Richard Christy's Death Swan Song | Richard Christy | [Markdown](https://metalforge.io/llms/articles/sound-of-perseverance-drum-setup.md) |
-| Rust in Peace Drum Setup: Nick Menza's Gear Breakdown | Nick Menza | [Markdown](https://metalforge.io/llms/articles/rust-in-peace-drum-setup.md) |
 | ...And Justice for All Drum Setup: Lars Ulrich's Technical Peak | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/and-justice-for-all-drum-setup.md) |
-| What's In Art Cruz' Lamb of God Arsenal: Complete Gear Breakdown | Art Cruz | [Markdown](https://metalforge.io/llms/articles/whats-in-art-cruzs-kit.md) |
-| What's In Sean Reinert's Progressive Arsenal: A Tribute to Jazz-Death Metal's Pioneer | Sean Reinert | [Markdown](https://metalforge.io/llms/articles/whats-in-sean-reinerts-kit.md) |
-| What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/whats-in-mikkey-dees-kit.md) |
-| What's In Abe Cunningham's Deftones Arsenal: Complete Gear Breakdown | Abe Cunningham | [Markdown](https://metalforge.io/llms/articles/whats-in-abe-cunninghams-kit.md) |
-| What's In Gavin Harrison's Prog Metal Arsenal: Complete Gear Breakdown | Gavin Harrison | [Markdown](https://metalforge.io/llms/articles/whats-in-gavin-harrisons-kit.md) |
-| White Pony Drum Setup: Abe Cunningham's Atmospheric Masterpiece | Abe Cunningham | [Markdown](https://metalforge.io/llms/articles/white-pony-drum-setup.md) |
-| What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/whats-in-matt-halperns-kit.md) |
-| Matt Greiner — Signature Drum Licks & Technique Guide (6 lick pages: blast-to-groove, polyrhythm, double bass) | Matt Greiner | [Markdown](https://metalforge.io/llms/articles/matt-greiner-licks.md) |
-| Joey Jordison — Signature Drum Licks & Technique Guide (6 lick pages: Iowa double bass, snare displacement, blast beat) | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/joey-jordison-licks.md) |
-| Brotherhood of the Snake Drum Setup: Gene Hoglan Returns to Testament (2016) | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/brotherhood-of-the-snake-drum-setup.md) |
-| Promark Dave Lombardo Signature 2Bx: The Sticks Behind Thrash's Fastest Hands | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/dave-lombardo-signature-gear-guide.md) |
-| Sonor Tomas Haake Signature Snare: The Metallic Heartbeat of Djent | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/tomas-haake-signature-gear-guide.md) |
 | The Black Album Drum Setup: Lars Ulrich's 1991 Tama Artist Maple Kit | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/black-album-drum-setup.md) |
 | Metallica 'Load' Drum Setup: Lars Ulrich's 1996 Tama Star Classic Maple Kit | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/load-drum-setup.md) |
 | Metallica 'Reload' Drum Setup: Lars Ulrich's 1997 Tama Star Classic Maple Kit | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/reload-drum-setup.md) |
@@ -325,30 +258,38 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Kill 'Em All Drum Setup: Lars Ulrich's 1983 Kit That Launched Thrash Metal | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/kill-em-all-drum-setup.md) |
 | Ride the Lightning Drum Setup: Lars Ulrich's 1984 Tama Kit Breakdown | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/ride-the-lightning-drum-setup.md) |
 | Lars Ulrich's Drum Setup on Metallica's 72 Seasons (2023) | Lars Ulrich | [Markdown](https://metalforge.io/llms/articles/72-seasons-drum-setup.md) |
+| Reign in Blood Drum Setup: Dave Lombardo's Gear Breakdown | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/reign-in-blood-drum-setup.md) |
 | Dave Lombardo's Drum Setup on Slayer's Show No Mercy (1983) | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/show-no-mercy-drum-setup.md) |
 | Dave Lombardo's Drum Setup on Slayer's Hell Awaits (1985) | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/hell-awaits-drum-setup.md) |
 | Dave Lombardo's Drum Setup on Slayer's South of Heaven (1988) | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/south-of-heaven-drum-setup.md) |
 | Dave Lombardo's Drum Setup on Slayer's Seasons in the Abyss (1990) | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/seasons-in-the-abyss-drum-setup.md) |
 | Dave Lombardo's Drum Setup on Slayer's Christ Illusion (2006) | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/christ-illusion-drum-setup.md) |
 | Dave Lombardo's Drum Setup on Slayer's World Painted Blood (2009) | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/world-painted-blood-drum-setup.md) |
+| What's In Dave Lombardo's Kit in 2026: The Godfather of Double Bass | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/whats-in-dave-lombardos-kit.md) |
 | Dave Lombardo's Drum Setup on Testament's The Gathering (1999) | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/the-gathering-drum-setup.md) |
 | Divine Intervention Drum Setup: Paul Bostaph's Slayer Debut (1994) | Paul Bostaph | [Markdown](https://metalforge.io/llms/articles/divine-intervention-drum-setup.md) |
 | Diabolus in Musica Drum Setup: Slayer's 1998 Drop-Tuned Album Gear Breakdown | Paul Bostaph | [Markdown](https://metalforge.io/llms/articles/diabolus-in-musica-drum-setup.md) |
 | God Hates Us All Drum Setup: Slayer's 9/11 Album Gear Breakdown (2001) | Paul Bostaph | [Markdown](https://metalforge.io/llms/articles/god-hates-us-all-drum-setup.md) |
 | Slayer 'Repentless' Drum Setup (Paul Bostaph, 2015) | Paul Bostaph | [Markdown](https://metalforge.io/llms/articles/repentless-drum-setup.md) |
 | Testament 'The Formation of Damnation' Drum Setup (Paul Bostaph, 2008) | Paul Bostaph | [Markdown](https://metalforge.io/llms/articles/formation-of-damnation-drum-setup.md) |
+| What's In Paul Bostaph's Slayer Arsenal | Paul Bostaph | [Markdown](https://metalforge.io/llms/articles/whats-in-paul-bostaphs-kit.md) |
 | Animals as Leaders (2009) Drum Setup: Programmed by Tosin Abasi | Tosin Abasi (programmed) | [Markdown](https://metalforge.io/llms/articles/animals-as-leaders-drum-setup.md) |
+| Vulgar Display of Power Drum Setup: Vinnie Paul's Gear Breakdown | Vinnie Paul | [Markdown](https://metalforge.io/llms/articles/vulgar-display-of-power-drum-setup.md) |
+| What's In Vinnie Paul's Pantera Arsenal (Tribute) | Vinnie Paul | [Markdown](https://metalforge.io/llms/articles/whats-in-vinnie-pauls-kit.md) |
+| Cowboys from Hell Drum Setup: Vinnie Paul's Breakthrough Gear | Vinnie Paul | [Markdown](https://metalforge.io/llms/articles/cowboys-from-hell-drum-setup.md) |
 | Far Beyond Driven Drum Setup: Vinnie Paul's Heaviest Era Gear Breakdown | Vinnie Paul | [Markdown](https://metalforge.io/llms/articles/far-beyond-driven-drum-setup.md) |
 | Vinnie Paul's Drum Setup on Pantera's The Great Southern Trendkill (1996) | Vinnie Paul | [Markdown](https://metalforge.io/llms/articles/great-southern-trendkill-drum-setup.md) |
 | Vinnie Paul's Drum Setup on Pantera's Reinventing the Steel (2000) | Vinnie Paul | [Markdown](https://metalforge.io/llms/articles/reinventing-the-steel-drum-setup.md) |
 | I Am the Night Drum Setup: Vinnie Paul's Pre-Fame Gear (1985) | Vinnie Paul | [Markdown](https://metalforge.io/llms/articles/i-am-the-night-drum-setup.md) |
 | Power Metal Drum Setup: Vinnie Paul's Last Gear Before Cowboys from Hell (1988) | Vinnie Paul | [Markdown](https://metalforge.io/llms/articles/power-metal-drum-setup.md) |
+| Number of the Beast Drum Setup: The Gear Behind Clive Burr's Performance (& Nicko's Legacy) | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/number-of-the-beast-drum-setup.md) |
 | Powerslave Drum Setup: Nicko McBrain's Gear on Iron Maiden's 1984 Live-Era Masterpiece | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/powerslave-drum-setup.md) |
 | Somewhere in Time Drum Setup: Nicko McBrain's Electronics-Augmented Kit on Iron Maiden's 1986 Synth-Era Masterpiece | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/somewhere-in-time-drum-setup.md) |
 | Piece of Mind Drum Setup: Nicko McBrain's Debut Gear on Iron Maiden's 1983 Breakthrough | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/piece-of-mind-drum-setup.md) |
 | Seventh Son of a Seventh Son Drum Setup: Nicko McBrain's Most Dynamic Pre-90s Performance (1988) | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/seventh-son-drum-setup.md) |
 | No Prayer for the Dying Drum Setup: Nicko McBrain's Gear on Iron Maiden's Only UK #1 Single (1990) | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/no-prayer-for-the-dying-drum-setup.md) |
 | Fear of the Dark Drum Setup: Nicko McBrain's Gear on Iron Maiden's UK #1 Album (1992) | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/fear-of-the-dark-drum-setup.md) |
+| What's In Nicko McBrain's Iron Maiden Arsenal | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/whats-in-nicko-mcbrains-kit.md) |
 | Brave New World Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2000 Reunion Masterpiece | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/brave-new-world-drum-setup.md) |
 | The Final Frontier Drum Setup: Nicko McBrain's Gear on Iron Maiden's Grammy-Nominated 2010 Epic | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/final-frontier-drum-setup.md) |
 | The Book of Souls Drum Setup: Nicko McBrain's Gear on Iron Maiden's UK #1 Double Album | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/book-of-souls-drum-setup.md) |
@@ -357,32 +298,47 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Dance of Death Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2003 Gothic Epic | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/dance-of-death-drum-setup.md) |
 | A Matter of Life and Death Drum Setup: Nicko McBrain's Gear on Iron Maiden's 2006 Concept Album | Nicko McBrain | [Markdown](https://metalforge.io/llms/articles/a-matter-of-life-and-death-drum-setup.md) |
 | Slipknot Self-Titled Drum Setup: Joey Jordison's 1999 Debut Gear Breakdown | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/slipknot-self-titled-drum-setup.md) |
+| Iowa Drum Setup: Joey Jordison's Gear Breakdown | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/iowa-drum-setup.md) |
 | Vol. 3: The Subliminal Verses Drum Setup — Joey Jordison | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/vol-3-the-subliminal-verses-drum-setup.md) |
 | Joey Jordison's Drum Setup on Slipknot's All Hope Is Gone (2008) | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/all-hope-is-gone-drum-setup.md) |
+| What's In Joey Jordison's Legendary Kit: Complete Gear Breakdown | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/whats-in-joey-jordisons-kit.md) |
 | Joey Jordison Drum Setup: Slipknot Drummer Kit & Gear Breakdown | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/joey-jordison-drum-setup.md) |
+| Joey Jordison Signature Gear: What's Available Today & How to Get His Sound | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/joey-jordison-signature-gear-guide.md) |
+| Joey Jordison's Legacy: 5 Years On — The Kit, The Sticks, The Sound | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/joey-jordison-legacy.md) |
 | Iowa at 25: The Album That Redefined Extreme Drumming | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/iowa-anniversary.md) |
+| What's In Danny Carey's Mind-Bending Kit: Complete Gear Breakdown | Danny Carey | [Markdown](https://metalforge.io/llms/articles/whats-in-danny-careys-kit.md) |
+| Fear Inoculum Drum Setup: Danny Carey's Grammy-Winning Sound | Danny Carey | [Markdown](https://metalforge.io/llms/articles/fear-inoculum-drum-setup.md) |
+| Lateralus Drum Setup: Danny Carey's Progressive Masterpiece | Danny Carey | [Markdown](https://metalforge.io/llms/articles/lateralus-drum-setup.md) |
 | 10,000 Days Drum Setup: Danny Carey's Polyrhythmic Pinnacle (2006) | Danny Carey | [Markdown](https://metalforge.io/llms/articles/10000-days-drum-setup.md) |
 | Undertow Drum Setup: Danny Carey's 1993 Tool Debut Kit Breakdown | Danny Carey | [Markdown](https://metalforge.io/llms/articles/undertow-drum-setup.md) |
 | Ænima Drum Setup: Danny Carey's 1996 Pearl Masters Kit Breakdown | Danny Carey | [Markdown](https://metalforge.io/llms/articles/aenima-drum-setup.md) |
+| What's In Tomas Haake's Polyrhythmic Arsenal: Complete Gear Breakdown | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/whats-in-tomas-haakes-kit.md) |
 | Chaosphere Drum Setup: Tomas Haake's Polymetric Breakthrough (Meshuggah, 1998) | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/chaosphere-drum-setup.md) |
 | Nothing Drum Setup: Tomas Haake's Polyrhythmic Blueprint (Meshuggah, 2002) | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/nothing-drum-setup.md) |
+| obZen Drum Setup: Tomas Haake's Legendary "Bleed" Gear Breakdown | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/obzen-drum-setup.md) |
 | Koloss Drum Setup: Tomas Haake's Most Groove-Focused Meshuggah Performance (2012) | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/koloss-drum-setup.md) |
 | The Violent Sleep of Reason Drum Setup: Tomas Haake's Live-to-Tape Kit (2016) | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/violent-sleep-of-reason-drum-setup.md) |
 | Immutable Drum Setup: Tomas Haake's 2022 Tama Bubinga Kit Breakdown | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/immutable-drum-setup.md) |
 | Contradictions Collapse Drum Setup: Tomas Haake's Meshuggah Debut (1991) | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/contradictions-collapse-drum-setup.md) |
 | Destroy Erase Improve Drum Setup: Tomas Haake's Polyrhythmic Breakthrough (Meshuggah, 1995) | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/destroy-erase-improve-drum-setup.md) |
 | Catch Thirtythree Drum Setup: Tomas Haake's 47-Minute Concept Album (Meshuggah, 2005) | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/catch-thirtythree-drum-setup.md) |
+| What's In Gene Hoglan's Atomic Arsenal: Complete Gear Breakdown | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/whats-in-gene-hoglans-kit.md) |
+| Symbolic Drum Setup: Gene Hoglan's Death Masterpiece | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/symbolic-drum-setup.md) |
 | Darkness Descends Drum Setup: Gene Hoglan's Breakthrough (Dark Angel, 1986) | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/darkness-descends-drum-setup.md) |
 | Individual Thought Patterns Drum Setup: Gene Hoglan's First Death Album | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/individual-thought-patterns-drum-setup.md) |
+| Brotherhood of the Snake Drum Setup: Gene Hoglan Returns to Testament (2016) | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/brotherhood-of-the-snake-drum-setup.md) |
 | Gene Hoglan Drum Setup: The Atomic Clock Complete Gear Guide | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/gene-hoglan-drum-setup.md) |
 | City Drum Setup: Gene Hoglan's Industrial Precision with Strapping Young Lad | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/city-drum-setup.md) |
 | Alien Drum Setup: Gene Hoglan's Polyrhythmic Peak with Strapping Young Lad | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/alien-drum-setup.md) |
 | Testament "Titans of Creation" Drum Setup (Gene Hoglan, 2020) | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/titans-of-creation-drum-setup.md) |
 | Leave Scars Drum Setup: Gene Hoglan's Groove-Within-Speed Mastery (Dark Angel, 1989) | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/leave-scars-drum-setup.md) |
 | Time Does Not Heal Drum Setup: Gene Hoglan's Dark Angel Final Chapter (1991) | Gene Hoglan | [Markdown](https://metalforge.io/llms/articles/time-does-not-heal-drum-setup.md) |
+| What's In Eloy Casagrande's Kit in 2026: From Sepultura to Slipknot | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/whats-in-eloy-casagrandes-kit.md) |
+| Eloy Casagrande M72 Drum Setup: What He Played with Metallica on the World Tour (2023–2024) | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/eloy-casagrande-m72-drum-setup.md) |
 | Sepultura "Machine Messiah" Drum Setup: Eloy Casagrande's 2017 Debut with Sepultura | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/machine-messiah-drum-setup.md) |
 | Sepultura "Quadra" Drum Setup: Eloy Casagrande's 2020 Peak (Before Metallica) | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/quadra-drum-setup.md) |
 | Sepultura "The Mediator Between Head and Hands Must Be the Heart" Drum Setup: Eloy Casagrande's 2013 Debut | Eloy Casagrande | [Markdown](https://metalforge.io/llms/articles/the-mediator-between-head-and-hands-drum-setup.md) |
+| Painkiller Drum Setup: Scott Travis's Speed Metal Revolution | Scott Travis | [Markdown](https://metalforge.io/llms/articles/painkiller-drum-setup.md) |
 | Scott Travis's Drum Setup on Judas Priest's Jugulator (1997) | Scott Travis | [Markdown](https://metalforge.io/llms/articles/jugulator-drum-setup.md) |
 | Scott Travis's Drum Setup on Judas Priest's Demolition (2001) | Scott Travis | [Markdown](https://metalforge.io/llms/articles/demolition-drum-setup.md) |
 | Scott Travis's Drum Setup on Judas Priest's Firepower (2018) | Scott Travis | [Markdown](https://metalforge.io/llms/articles/firepower-drum-setup.md) |
@@ -390,7 +346,11 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Scott Travis's Drum Setup on Judas Priest's Nostradamus (2008) | Scott Travis | [Markdown](https://metalforge.io/llms/articles/nostradamus-drum-setup.md) |
 | Scott Travis's Drum Setup on Judas Priest's Redeemer of Souls (2014) | Scott Travis | [Markdown](https://metalforge.io/llms/articles/redeemer-of-souls-drum-setup.md) |
 | Judas Priest "Invincible Shield" Drum Setup (Scott Travis, 2024) | Scott Travis | [Markdown](https://metalforge.io/llms/articles/invincible-shield-drum-setup.md) |
+| What's In Scott Travis' Judas Priest Arsenal | Scott Travis | [Markdown](https://metalforge.io/llms/articles/whats-in-scott-travis-kit.md) |
+| What's In Mike Portnoy's Reunion Kit: Dream Theater 2025 Complete Breakdown | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/whats-in-mike-portnoys-kit.md) |
+| Images and Words Drum Setup: Mike Portnoy's Progressive Metal Breakthrough | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/images-and-words-drum-setup.md) |
 | Mike Portnoy's Drum Setup on Dream Theater's Awake (1994) | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/awake-drum-setup.md) |
+| Metropolis Pt. 2: Scenes from a Memory Drum Setup — Mike Portnoy's Magnum Opus | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/scenes-from-a-memory-drum-setup.md) |
 | Train of Thought Drum Setup — Mike Portnoy's Heaviest Dream Theater Kit (2003) | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/train-of-thought-drum-setup.md) |
 | Six Degrees of Inner Turbulence Drum Setup — Mike Portnoy's Double Album Masterwork (2002) | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/six-degrees-drum-setup.md) |
 | Octavarium Drum Setup — Mike Portnoy's 24-Minute Prog Landmark (Dream Theater, 2005) | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/octavarium-drum-setup.md) |
@@ -398,12 +358,16 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Black Clouds & Silver Linings Drum Setup — Mike Portnoy's Final Dream Theater Album (2009) | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/black-clouds-and-silver-linings-drum-setup.md) |
 | Falling into Infinity Drum Setup — Mike Portnoy's Tama Starclassic Maple Era (1997) | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/falling-into-infinity-drum-setup.md) |
 | Nightmare Drum Setup — Mike Portnoy's Tribute Performance for Avenged Sevenfold (2010) | Mike Portnoy | [Markdown](https://metalforge.io/llms/articles/nightmare-drum-setup.md) |
+| What's In Mario Duplantier's Environmental Kit: Complete Gear Breakdown | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/whats-in-mario-duplantiers-kit.md) |
 | Mario Duplantier's Drum Setup on Gojira's Terra Incognita (2001) | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/terra-incognita-drum-setup.md) |
+| From Mars to Sirius Drum Setup: Mario Duplantier's Breakthrough Gear | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/from-mars-to-sirius-drum-setup.md) |
+| The Way of All Flesh Drum Setup: Mario Duplantier's Death Metal Odyssey | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/the-way-of-all-flesh-drum-setup.md) |
 | Mario Duplantier's Drum Kit & Gear Setup — Gojira's Sound Explained | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/mario-duplantier-gear.md) |
 | L'Enfant Sauvage Drum Setup: Mario Duplantier's DW Era Breakthrough | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/lenfant-sauvage-drum-setup.md) |
 | Magma Drum Setup: Mario Duplantier's Pearl Reference Pure Breakthrough | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/magma-drum-setup.md) |
 | Mario Duplantier's Drum Setup on Gojira's The Link (2003) | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/the-link-drum-setup.md) |
 | Fortitude Drum Setup: Mario Duplantier's Custom Mapex Kit (Gojira, 2021) | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/fortitude-drum-setup.md) |
+| What's In Brann Dailor's Kit: Mastodon's Melodic Thunder Complete Breakdown | Brann Dailor | [Markdown](https://metalforge.io/llms/articles/whats-in-brann-dailors-kit.md) |
 | Brann Dailor Drum Setup — Mastodon Gear Guide | Brann Dailor | [Markdown](https://metalforge.io/llms/articles/brann-dailor-mastodon-drum-setup.md) |
 | Brann Dailor's Drum Setup on Mastodon's Leviathan (2004) | Brann Dailor | [Markdown](https://metalforge.io/llms/articles/leviathan-drum-setup.md) |
 | Crack the Skye Drum Setup: Brann Dailor's Gear on Mastodon's Masterpiece | Brann Dailor | [Markdown](https://metalforge.io/llms/articles/crack-the-skye-drum-setup.md) |
@@ -413,13 +377,16 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Blood Mountain Drum Setup: Brann Dailor's Gear on Mastodon's Breakthrough | Brann Dailor | [Markdown](https://metalforge.io/llms/articles/blood-mountain-drum-setup.md) |
 | Brann Dailor's Drum Setup on Mastodon's Remission (2002) | Brann Dailor | [Markdown](https://metalforge.io/llms/articles/remission-drum-setup.md) |
 | Hushed and Grim Drum Setup: Brann Dailor's Grammy-Nominated Kit on Mastodon's 2021 Double Album | Brann Dailor | [Markdown](https://metalforge.io/llms/articles/hushed-and-grim-drum-setup.md) |
+| What's In Chris Adler's Lamb of God Arsenal: Complete Gear Breakdown | Chris Adler | [Markdown](https://metalforge.io/llms/articles/whats-in-chris-adlers-kit.md) |
 | New American Gospel Drum Setup: Chris Adler's 2000 Debut Kit | Chris Adler | [Markdown](https://metalforge.io/llms/articles/new-american-gospel-drum-setup.md) |
 | As the Palaces Burn Drum Setup: Chris Adler's 2003 Breakout Kit | Chris Adler | [Markdown](https://metalforge.io/llms/articles/as-the-palaces-burn-drum-setup.md) |
+| Ashes of the Wake Drum Setup: Chris Adler's Groove Metal Masterpiece | Chris Adler | [Markdown](https://metalforge.io/llms/articles/ashes-of-the-wake-drum-setup.md) |
 | Lamb of God 'Sacrament' Drum Setup — Chris Adler's 2006 Grammy-Era Kit | Chris Adler | [Markdown](https://metalforge.io/llms/articles/sacrament-drum-setup.md) |
 | Lamb of God 'Wrath' Drum Setup — Chris Adler's Grammy-Nominated 2009 Kit | Chris Adler | [Markdown](https://metalforge.io/llms/articles/wrath-drum-setup.md) |
 | Lamb of God 'Resolution' Drum Setup — Chris Adler's Grammy-Nominated 2012 Kit | Chris Adler | [Markdown](https://metalforge.io/llms/articles/resolution-drum-setup.md) |
 | Lamb of God 'VII: Sturm und Drang' Drum Setup — Chris Adler's Grammy-Nominated Farewell Studio Album | Chris Adler | [Markdown](https://metalforge.io/llms/articles/vii-sturm-und-drang-drum-setup.md) |
 | Chris Adler's Drum Setup on Megadeth's 'Dystopia' (2016) | Chris Adler | [Markdown](https://metalforge.io/llms/articles/dystopia-drum-setup.md) |
+| What's In Charlie Benante's Anthrax Kit: The Big Four's Technical Pioneer | Charlie Benante | [Markdown](https://metalforge.io/llms/articles/whats-in-charlie-benantes-kit.md) |
 | Among the Living Drum Setup: Charlie Benante's Anthrax Gear Breakdown | Charlie Benante | [Markdown](https://metalforge.io/llms/articles/charlie-benante-among-the-living-drum-setup.md) |
 | Charlie Benante's Drum Setup on Anthrax's Sound of White Noise (1993) | Charlie Benante | [Markdown](https://metalforge.io/llms/articles/sound-of-white-noise-drum-setup.md) |
 | Spreading the Disease Drum Setup: Charlie Benante's Anthrax Debut Gear (1985) | Charlie Benante | [Markdown](https://metalforge.io/llms/articles/spreading-the-disease-drum-setup.md) |
@@ -436,34 +403,49 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Bill Ward's Drum Setup on Black Sabbath's Sabotage (1975) | Bill Ward | [Markdown](https://metalforge.io/llms/articles/sabotage-drum-setup.md) |
 | Bill Ward's Drum Setup on Black Sabbath's 'Technical Ecstasy' (1976) | Bill Ward | [Markdown](https://metalforge.io/llms/articles/technical-ecstasy-drum-setup.md) |
 | Bill Ward's Drum Setup on Black Sabbath's 'Never Say Die!' (1978) | Bill Ward | [Markdown](https://metalforge.io/llms/articles/never-say-die-drum-setup.md) |
+| What's In Bill Ward's Kit: The Godfather of Metal Drumming's Legendary Setup | Bill Ward | [Markdown](https://metalforge.io/llms/articles/whats-in-bill-wards-kit.md) |
 | Black Sabbath Debut Drum Setup: Bill Ward's Kit on the Album That Invented Metal (1970) | Bill Ward | [Markdown](https://metalforge.io/llms/articles/black-sabbath-drum-setup.md) |
 | Paranoid Drum Setup: Bill Ward's Gear on Black Sabbath's Defining Album | Bill Ward | [Markdown](https://metalforge.io/llms/articles/paranoid-drum-setup.md) |
+| What's In Flo Mounier's Extreme Arsenal: Complete Gear Breakdown | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/whats-in-flo-mouniers-kit.md) |
+| None So Vile Drum Setup: Flo Mounier's Technical Death Metal Landmark | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/none-so-vile-drum-setup.md) |
 | Whisper Supremacy Drum Setup: Flo Mounier's Pearl Masters BRX and Paiste Alpha Gear (1998) | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/whisper-supremacy-drum-setup.md) |
 | And Then You'll Beg Drum Setup: Flo Mounier's Most Complex Work | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/and-then-youll-beg-drum-setup.md) |
 | Once Was Not Drum Setup: Flo Mounier's Fastest Recorded Performance | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/once-was-not-drum-setup.md) |
 | The Unspoken King Drum Setup: Flo Mounier's 2008 Cryptopsy Gear | Flo Mounier | [Markdown](https://metalforge.io/llms/articles/unspoken-king-drum-setup.md) |
+| What's In Pete Sandoval's Morbid Angel Arsenal | Pete Sandoval | [Markdown](https://metalforge.io/llms/articles/whats-in-pete-sandovals-kit.md) |
+| Altars of Madness Drum Setup: Pete Sandoval's Death Metal Genesis | Pete Sandoval | [Markdown](https://metalforge.io/llms/articles/altars-of-madness-drum-setup.md) |
 | Blessed Are the Sick Drum Setup: Pete Sandoval's Egyptian Death Metal Evolution | Pete Sandoval | [Markdown](https://metalforge.io/llms/articles/blessed-are-the-sick-drum-setup.md) |
 | Covenant Drum Setup: Pete Sandoval's Blast-Beat Masterclass (Morbid Angel, 1993) | Pete Sandoval | [Markdown](https://metalforge.io/llms/articles/covenant-drum-setup.md) |
+| What's In George Kollias' Speed Arsenal | George Kollias | [Markdown](https://metalforge.io/llms/articles/whats-in-george-kollias-kit.md) |
 | George Kollias Drum Setup: Nile's Annihilation of the Wicked Gear Breakdown | George Kollias | [Markdown](https://metalforge.io/llms/articles/george-kollias-nile-annihilation-drum-setup.md) |
 | George Kollias Drum Setup: Nile's 'Those Whom the Gods Detest' (2009) Gear Breakdown | George Kollias | [Markdown](https://metalforge.io/llms/articles/those-whom-the-gods-detest-drum-setup.md) |
 | George Kollias Drum Setup: Nile's 'At the Gate of Sethu' (2012) Gear Breakdown | George Kollias | [Markdown](https://metalforge.io/llms/articles/at-the-gate-of-sethu-drum-setup.md) |
 | George Kollias Drum Setup: Nile's 'Ithyphallic' (2007) Gear Breakdown | George Kollias | [Markdown](https://metalforge.io/llms/articles/ithyphallic-drum-setup.md) |
 | George Kollias Drum Setup: Nile's 'Vile Nilotic Rites' (2019) Gear Breakdown | George Kollias | [Markdown](https://metalforge.io/llms/articles/vile-nilotic-rites-drum-setup.md) |
 | George Kollias Drum Setup: Nile's 'What Should Not Be Unearthed' (2015) Gear Breakdown | George Kollias | [Markdown](https://metalforge.io/llms/articles/what-should-not-be-unearthed-drum-setup.md) |
+| What's In Mike Mangini's Dream Theater Arsenal | Mike Mangini | [Markdown](https://metalforge.io/llms/articles/whats-in-mike-manginis-kit.md) |
 | Mike Mangini's Kit on 'Distance Over Time' (Dream Theater, 2019) | Mike Mangini | [Markdown](https://metalforge.io/llms/articles/distance-over-time-drum-setup.md) |
 | Mike Mangini's Kit on 'A View from the Top of the World' (Dream Theater, 2021) | Mike Mangini | [Markdown](https://metalforge.io/llms/articles/a-view-from-the-top-of-the-world-drum-setup.md) |
 | Mike Mangini's Kit on 'Dream Theater' (Dream Theater, 2013) | Mike Mangini | [Markdown](https://metalforge.io/llms/articles/dream-theater-self-titled-drum-setup.md) |
 | Mike Mangini's Kit on 'The Astonishing' (Dream Theater, 2016) | Mike Mangini | [Markdown](https://metalforge.io/llms/articles/the-astonishing-drum-setup.md) |
 | Mike Mangini's Kit on 'A Dramatic Turn of Events' (Dream Theater, 2011) | Mike Mangini | [Markdown](https://metalforge.io/llms/articles/a-dramatic-turn-of-events-drum-setup.md) |
+| Roots Drum Setup: Igor Cavalera's Brazilian Tribal Metal Revolution | Igor Cavalera | [Markdown](https://metalforge.io/llms/articles/roots-drum-setup.md) |
+| What's In Igor Cavalera's Tribal Arsenal: Complete Gear Breakdown | Igor Cavalera | [Markdown](https://metalforge.io/llms/articles/whats-in-igor-cavaleras-kit.md) |
 | Igor Cavalera's Drum Setup on Sepultura's Schizophrenia (1987) | Igor Cavalera | [Markdown](https://metalforge.io/llms/articles/schizophrenia-drum-setup.md) |
+| Beneath the Remains Drum Setup: Igor Cavalera's Brazilian Thrash Breakthrough | Igor Cavalera | [Markdown](https://metalforge.io/llms/articles/beneath-the-remains-drum-setup.md) |
 | Sepultura Arise Drum Setup: Igor Cavalera's 1991 Gear Breakdown | Igor Cavalera | [Markdown](https://metalforge.io/llms/articles/arise-drum-setup.md) |
+| Chaos A.D. Drum Setup: Igor Cavalera's Groove Metal Revolution | Igor Cavalera | [Markdown](https://metalforge.io/llms/articles/chaos-ad-drum-setup.md) |
 | Inflikted Drum Setup: Igor Cavalera's Return to Thrash Aggression (2008) | Igor Cavalera | [Markdown](https://metalforge.io/llms/articles/inflikted-drum-setup.md) |
 | Blunt Force Trauma Drum Setup: Igor Cavalera's Cavalera Conspiracy Second Strike (2011) | Igor Cavalera | [Markdown](https://metalforge.io/llms/articles/blunt-force-trauma-drum-setup.md) |
+| What's In Matt Garstka's Kit: The Jazz-Fusion Meets Progressive Metal Arsenal | Matt Garstka | [Markdown](https://metalforge.io/llms/articles/whats-in-matt-garstkas-kit.md) |
 | The Joy of Motion Drum Setup: Matt Garstka's Debut With Animals as Leaders | Matt Garstka | [Markdown](https://metalforge.io/llms/articles/the-joy-of-motion-drum-setup.md) |
 | The Madness of Many Drum Setup: Matt Garstka's Signature Gear Era Begins | Matt Garstka | [Markdown](https://metalforge.io/llms/articles/the-madness-of-many-drum-setup.md) |
 | Parrhesia Drum Setup: Matt Garstka's Matured Signature Rig | Matt Garstka | [Markdown](https://metalforge.io/llms/articles/parrhesia-drum-setup.md) |
+| What's In Derek Roddy's Kit: The Extreme Metal Educator's Speed Arsenal | Derek Roddy | [Markdown](https://metalforge.io/llms/articles/whats-in-derek-roddys-kit.md) |
 | King of All Kings Drum Setup: Derek Roddy's Blast Beat Masterclass (2002) | Derek Roddy | [Markdown](https://metalforge.io/llms/articles/king-of-all-kings-drum-setup.md) |
 | Derek Roddy Drum Setup — Hate Eternal & King of All Kings Gear Guide | Derek Roddy | [Markdown](https://metalforge.io/llms/articles/derek-roddy-hate-eternal-drum-setup.md) |
+| What's In Inferno's Behemoth Arsenal: Complete Gear Breakdown | Inferno | [Markdown](https://metalforge.io/llms/articles/whats-in-infernos-kit.md) |
+| The Satanist Drum Setup: Inferno's Studio Arsenal for Behemoth's AOTY 2014 | Inferno | [Markdown](https://metalforge.io/llms/articles/the-satanist-drum-setup.md) |
 | Inferno's Drum Setup on Behemoth's I Loved You at Your Darkest (2018) | Inferno | [Markdown](https://metalforge.io/llms/articles/i-loved-you-at-your-darkest-drum-setup.md) |
 | Satanica Drum Setup: Inferno's Tama Starclassic Kit — Behemoth's 1999 Blackened Death Metal Origin | Inferno | [Markdown](https://metalforge.io/llms/articles/satanica-drum-setup.md) |
 | Thelema.6 Drum Setup: Inferno's Pearl Masters Kit — Behemoth's 2002 Death Metal Pivot | Inferno | [Markdown](https://metalforge.io/llms/articles/thelema-6-drum-setup.md) |
@@ -473,13 +455,17 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | What Drums Did Inferno Use on The Apostasy? | Inferno | [Markdown](https://metalforge.io/llms/articles/the-apostasy-drum-setup.md) |
 | Opvs Contra Natvram Drum Setup: Inferno's Arsenal on Behemoth's 2022 Album | Inferno | [Markdown](https://metalforge.io/llms/articles/opvs-contra-natvram-drum-setup.md) |
 | Spiritual Healing Drum Setup: Sean Reinert's Debut with Death (1990) | Sean Reinert | [Markdown](https://metalforge.io/llms/articles/spiritual-healing-drum-setup.md) |
+| Human Drum Setup: Sean Reinert's Jazz-Death Masterpiece | Sean Reinert | [Markdown](https://metalforge.io/llms/articles/human-drum-setup.md) |
+| What's In Sean Reinert's Progressive Arsenal: A Tribute to Jazz-Death Metal's Pioneer | Sean Reinert | [Markdown](https://metalforge.io/llms/articles/whats-in-sean-reinerts-kit.md) |
 | Traced in Air Drum Setup: Sean Reinert's Cynic Reunion (2008) | Sean Reinert | [Markdown](https://metalforge.io/llms/articles/traced-in-air-drum-setup.md) |
 | Cynic Focus Drum Setup: Sean Reinert's 1993 Progressive Death Metal Gear | Sean Reinert | [Markdown](https://metalforge.io/llms/articles/focus-drum-setup.md) |
+| What's In Alex Bent's Trivium Arsenal: Complete Gear Breakdown | Alex Bent | [Markdown](https://metalforge.io/llms/articles/whats-in-alex-bents-kit.md) |
 | The Sin and the Sentence Drum Setup: Alex Bent's Trivium Debut (2017) | Alex Bent | [Markdown](https://metalforge.io/llms/articles/trivium-sin-and-the-sentence-drum-setup.md) |
 | What the Dead Men Say Drum Setup: Alex Bent's Pandemic-Era Trivium Album (2020) | Alex Bent | [Markdown](https://metalforge.io/llms/articles/trivium-what-the-dead-men-say-drum-setup.md) |
 | In the Court of the Dragon Drum Setup: Alex Bent's UK Top-5 Trivium Album (2021) | Alex Bent | [Markdown](https://metalforge.io/llms/articles/trivium-in-the-court-of-the-dragon-drum-setup.md) |
 | My Arms, Your Hearse Drum Setup: Martin Lopez's Opeth Debut (1998) | Martin Lopez | [Markdown](https://metalforge.io/llms/articles/my-arms-your-hearse-drum-setup.md) |
 | Still Life Drum Setup: Martin Lopez Establishes His Opeth Voice | Martin Lopez | [Markdown](https://metalforge.io/llms/articles/still-life-drum-setup.md) |
+| Blackwater Park Drum Setup: Martin Lopez's Opeth Masterpiece | Martin Lopez | [Markdown](https://metalforge.io/llms/articles/blackwater-park-drum-setup.md) |
 | Deliverance Drum Setup: Martin Lopez's Most Extreme Opeth Performance | Martin Lopez | [Markdown](https://metalforge.io/llms/articles/deliverance-drum-setup.md) |
 | Ghost Reveries Drum Setup: Martin Lopez's Farewell Opeth Album (2005) | Martin Lopez | [Markdown](https://metalforge.io/llms/articles/ghost-reveries-drum-setup.md) |
 | Martin Lopez Drum Setup — Opeth & Soen Gear Guide | Martin Lopez | [Markdown](https://metalforge.io/llms/articles/martin-lopez-drum-setup.md) |
@@ -489,17 +475,37 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Martin Axenrot's Drum Setup on Opeth's Pale Communion (2014) | Martin Axenrot | [Markdown](https://metalforge.io/llms/articles/pale-communion-drum-setup.md) |
 | Martin Axenrot's Drum Setup on Opeth's Sorceress (2016) | Martin Axenrot | [Markdown](https://metalforge.io/llms/articles/sorceress-drum-setup.md) |
 | Martin Axenrot's Drum Setup on Opeth's In Cauda Venenum (2019) | Martin Axenrot | [Markdown](https://metalforge.io/llms/articles/in-cauda-venenum-drum-setup.md) |
+| What's In Dirk Verbeuren's Megadeth Arsenal: Complete Gear Breakdown | Dirk Verbeuren | [Markdown](https://metalforge.io/llms/articles/whats-in-dirk-verbeurens-kit.md) |
 | Dirk Verbeuren's Drum Setup on Megadeth's 'The Sick, the Dying... and the Dead!' (2022) | Dirk Verbeuren | [Markdown](https://metalforge.io/llms/articles/the-sick-the-dying-and-the-dead-drum-setup.md) |
 | Dirk Verbeuren's Drum Setup on Soilwork's 'Stabbing the Drama' (2005) | Dirk Verbeuren | [Markdown](https://metalforge.io/llms/articles/stabbing-the-drama-drum-setup.md) |
 | Dirk Verbeuren's Drum Setup on Soilwork's 'Natural Born Chaos' (2002) | Dirk Verbeuren | [Markdown](https://metalforge.io/llms/articles/natural-born-chaos-drum-setup.md) |
+| Dirk Verbeuren's Drum Setup on Soilwork's 'Figure Number Five' (2003) | Dirk Verbeuren | [Markdown](https://metalforge.io/llms/articles/figure-number-five-drum-setup.md) |
+| What's In Richard Christy's Death Metal Arsenal | Richard Christy | [Markdown](https://metalforge.io/llms/articles/whats-in-richard-christys-kit.md) |
+| The Sound of Perseverance Drum Setup: Richard Christy's Death Swan Song | Richard Christy | [Markdown](https://metalforge.io/llms/articles/sound-of-perseverance-drum-setup.md) |
+| Rust in Peace Drum Setup: Nick Menza's Gear Breakdown | Nick Menza | [Markdown](https://metalforge.io/llms/articles/rust-in-peace-drum-setup.md) |
 | Nick Menza's Drum Setup on Megadeth's Countdown to Extinction (1992) | Nick Menza | [Markdown](https://metalforge.io/llms/articles/countdown-to-extinction-drum-setup.md) |
 | Nick Menza Drum Kit & Gear Setup — Megadeth Complete Guide | Nick Menza | [Markdown](https://metalforge.io/llms/articles/nick-menza-drum-setup.md) |
 | Nick Menza's Drum Setup on Megadeth's Cryptic Writings (1997) | Nick Menza | [Markdown](https://metalforge.io/llms/articles/cryptic-writings-drum-setup.md) |
 | Nick Menza's Drum Setup on Megadeth's Youthanasia (1994) | Nick Menza | [Markdown](https://metalforge.io/llms/articles/youthanasia-drum-setup.md) |
 | Lamb of God (2020) Drum Setup: Art Cruz's Recording Debut | Art Cruz | [Markdown](https://metalforge.io/llms/articles/lamb-of-god-self-titled-drum-setup.md) |
+| What's In Art Cruz' Lamb of God Arsenal: Complete Gear Breakdown | Art Cruz | [Markdown](https://metalforge.io/llms/articles/whats-in-art-cruzs-kit.md) |
 | Lamb of God "Omens" Drum Setup: Art Cruz's 2022 Album | Art Cruz | [Markdown](https://metalforge.io/llms/articles/omens-drum-setup.md) |
+| What's In Mikkey Dee's Motörhead/Scorpions Arsenal: 23 Years Behind Rock's Loudest Band | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/whats-in-mikkey-dees-kit.md) |
+| March ör Die Drum Setup: The Session Where Mikkey Dee First Played for Motörhead | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/march-or-die-drum-setup.md) |
 | Bastards Drum Setup: Mikkey Dee's Gear on Motörhead's 1993 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/bastards-drum-setup.md) |
+| Sacrifice Drum Setup: Mikkey Dee's Gear on Motörhead's 1995 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/sacrifice-drum-setup.md) |
+| Overnight Sensation Drum Setup: Mikkey Dee's Gear on Motörhead's 1996 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/overnight-sensation-drum-setup.md) |
+| Snake Bite Love Drum Setup: Mikkey Dee's Gear on Motörhead's 1998 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/snake-bite-love-drum-setup.md) |
+| We Are Motörhead Drum Setup: Mikkey Dee's Gear on Motörhead's 2000 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/we-are-motorhead-drum-setup.md) |
+| Hammered Drum Setup: Mikkey Dee's Gear on Motörhead's 2002 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/hammered-drum-setup.md) |
 | Bad Magic Drum Setup: Mikkey Dee's Gear on Motörhead's Final Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/bad-magic-drum-setup.md) |
+| Inferno Drum Setup: Mikkey Dee's Gear on Motörhead's 2004 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/inferno-drum-setup.md) |
+| Kiss of Death Drum Setup: Mikkey Dee's Gear on Motörhead's 2006 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/kiss-of-death-drum-setup.md) |
+| Motörizer Drum Setup: Mikkey Dee's Gear on Motörhead's 2008 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/motorizer-drum-setup.md) |
+| The Wörld Is Yours Drum Setup: Mikkey Dee's Gear on Motörhead's 2010 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/the-world-is-yours-drum-setup.md) |
+| Aftershock Drum Setup: Mikkey Dee's Gear on Motörhead's Grammy-Nominated 2013 Album | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/aftershock-drum-setup.md) |
+| What's In Abe Cunningham's Deftones Arsenal: Complete Gear Breakdown | Abe Cunningham | [Markdown](https://metalforge.io/llms/articles/whats-in-abe-cunninghams-kit.md) |
+| White Pony Drum Setup: Abe Cunningham's Atmospheric Masterpiece | Abe Cunningham | [Markdown](https://metalforge.io/llms/articles/white-pony-drum-setup.md) |
 | Diamond Eyes Drum Setup: Abe Cunningham's Cathartic Comeback | Abe Cunningham | [Markdown](https://metalforge.io/llms/articles/diamond-eyes-drum-setup.md) |
 | Koi No Yokan Drum Setup: Abe Cunningham's Dream-State Masterwork | Abe Cunningham | [Markdown](https://metalforge.io/llms/articles/koi-no-yokan-drum-setup.md) |
 | Around the Fur Drum Setup: Abe Cunningham's Breakthrough Record | Abe Cunningham | [Markdown](https://metalforge.io/llms/articles/around-the-fur-drum-setup.md) |
@@ -507,15 +513,18 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Deftones Self-Titled Drum Setup: Abe Cunningham's Grammy-Nominated Gear (2003) | Abe Cunningham | [Markdown](https://metalforge.io/llms/articles/deftones-self-titled-drum-setup.md) |
 | Ohms Drum Setup: Abe Cunningham's Gear on Deftones' Newest Album (2020) | Abe Cunningham | [Markdown](https://metalforge.io/llms/articles/ohms-drum-setup.md) |
 | Gore Drum Setup: Abe Cunningham's Gear on Deftones' Highest-Charting Album | Abe Cunningham | [Markdown](https://metalforge.io/llms/articles/gore-drum-setup.md) |
+| What's In Gavin Harrison's Prog Metal Arsenal: Complete Gear Breakdown | Gavin Harrison | [Markdown](https://metalforge.io/llms/articles/whats-in-gavin-harrisons-kit.md) |
 | Porcupine Tree Fear of a Blank Planet Drum Setup: Gavin Harrison's 2007 Gear | Gavin Harrison | [Markdown](https://metalforge.io/llms/articles/fear-of-a-blank-planet-drum-setup.md) |
 | Gavin Harrison's Drum Setup on Porcupine Tree's In Absentia (2002) | Gavin Harrison | [Markdown](https://metalforge.io/llms/articles/in-absentia-drum-setup.md) |
 | Gavin Harrison's Drum Setup on Porcupine Tree's Deadwing (2005) | Gavin Harrison | [Markdown](https://metalforge.io/llms/articles/deadwing-drum-setup.md) |
 | Gavin Harrison's Drum Setup on Porcupine Tree's The Incident (2009) | Gavin Harrison | [Markdown](https://metalforge.io/llms/articles/the-incident-drum-setup.md) |
 | Gavin Harrison's Drum Setup on Porcupine Tree's Closure/Continuation (2022) | Gavin Harrison | [Markdown](https://metalforge.io/llms/articles/closure-continuation-drum-setup.md) |
-| Matt Halpern's Drum Setup on Periphery II: This Time It's Personal (2012) | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/periphery-ii-drum-setup.md) |
+| Gavin Harrison's Drum Setup on The Pineapple Thief's Your Wilderness (2016) | Gavin Harrison | [Markdown](https://metalforge.io/llms/articles/your-wilderness-drum-setup.md) |
+| What's In Matt Halpern's Periphery Kit: Complete Gear Breakdown | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/whats-in-matt-halperns-kit.md) |
+| Periphery II Drum Setup — Travis Orbin's Final Album Gear (2012) | Travis Orbin | [Markdown](https://metalforge.io/llms/articles/periphery-ii-drum-setup.md) |
 | Matt Halpern's Drum Setup on Periphery III: Select Difficulty (2016) | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/periphery-iii-drum-setup.md) |
 | Matt Halpern's Drum Setup on Periphery IV: Hail Stan (2019) | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/periphery-iv-drum-setup.md) |
-| Periphery Drum Setup: Matt Halpern's Gear on the 2010 Debut | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/periphery-drum-setup.md) |
+| Periphery Drum Setup — Travis Orbin's Gear on the 2010 Debut Album | Travis Orbin | [Markdown](https://metalforge.io/llms/articles/periphery-drum-setup.md) |
 | Matt Halpern's Drum Setup on Periphery V: Aliens (2023) | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/periphery-v-aliens-drum-setup.md) |
 | Matt Greiner Complete Drum Setup — August Burns Red Gear Guide | Matt Greiner | [Markdown](https://metalforge.io/llms/articles/matt-greiner-complete-drum-setup.md) |
 | Matt Greiner's Drum Setup on August Burns Red's Constellations (2009) | Matt Greiner | [Markdown](https://metalforge.io/llms/articles/constellations-drum-setup.md) |
@@ -581,11 +590,11 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | The Gray Chapter — Slipknot Drum Setup (Jay Weinberg, 2014) | Jay Weinberg | [Markdown](https://metalforge.io/llms/articles/the-gray-chapter-drum-setup.md) |
 | We Are Not Your Kind — Slipknot Drum Setup (Jay Weinberg, 2019) | Jay Weinberg | [Markdown](https://metalforge.io/llms/articles/we-are-not-your-kind-drum-setup.md) |
 | The End, So Far — Slipknot Drum Setup (Jay Weinberg, 2022) | Jay Weinberg | [Markdown](https://metalforge.io/llms/articles/the-end-so-far-drum-setup.md) |
-| How to Play Blast Beats Like a Pro Metal Drummer | Various | [Markdown](https://metalforge.io/llms/articles/how-to-play-blast-beats.md) |
-| How to Play Double Bass Drums for Metal | Various | [Markdown](https://metalforge.io/llms/articles/double-bass-drumming-for-metal.md) |
-| How to Tune Your Drum Kit for Metal | Various | [Markdown](https://metalforge.io/llms/articles/how-to-tune-drums-for-metal.md) |
-| Polyrhythmic Drumming for Metal — Mastodon / Tool Techniques | Various | [Markdown](https://metalforge.io/llms/articles/how-to-play-polyrhythm-drums.md) |
-| How to Play Metal Breakdown Beats | Various | [Markdown](https://metalforge.io/llms/articles/breakdown-beat-guide.md) |
+| How to Play Blast Beats Like a Pro Metal Drummer | — | [Markdown](https://metalforge.io/llms/articles/how-to-play-blast-beats.md) |
+| How to Play Double Bass Drums for Metal | — | [Markdown](https://metalforge.io/llms/articles/double-bass-drumming-for-metal.md) |
+| How to Tune Your Drum Kit for Metal | — | [Markdown](https://metalforge.io/llms/articles/how-to-tune-drums-for-metal.md) |
+| Polyrhythmic Drumming for Metal — Mastodon / Tool Techniques | — | [Markdown](https://metalforge.io/llms/articles/how-to-play-polyrhythm-drums.md) |
+| How to Play Metal Breakdown Beats | — | [Markdown](https://metalforge.io/llms/articles/breakdown-beat-guide.md) |
 | Shannon Larkin Drum Setup — Godsmack's Complete Gear Guide | Shannon Larkin | [Markdown](https://metalforge.io/llms/articles/shannon-larkin-drum-setup.md) |
 | Faceless Drum Setup: Shannon Larkin's Gear on Godsmack's #1 Billboard Album (2003) | Shannon Larkin | [Markdown](https://metalforge.io/llms/articles/faceless-drum-setup.md) |
 | Godsmack IV Drum Setup: Shannon Larkin's Pearl Reference Gear on the #2 Billboard Album (2006) | Shannon Larkin | [Markdown](https://metalforge.io/llms/articles/godsmack-iv-drum-setup.md) |
@@ -596,6 +605,11 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Hellhammer Drum Kit & Gear Setup — Mayhem Black Metal Legend | Hellhammer | [Markdown](https://metalforge.io/llms/articles/hellhammer-drum-setup.md) |
 | De Mysteriis Dom Sathanas Drum Setup: Hellhammer's 1994 Black Metal Blueprint | Hellhammer | [Markdown](https://metalforge.io/llms/articles/de-mysteriis-dom-sathanas-drum-setup.md) |
 | Hellhammer's Drum Setup on Dimmu Borgir's In Sorte Diaboli (2007) | Hellhammer | [Markdown](https://metalforge.io/llms/articles/in-sorte-diaboli-drum-setup.md) |
+| Chimera Drum Setup: Hellhammer's 2004 Return-to-Form Mayhem Session | Hellhammer | [Markdown](https://metalforge.io/llms/articles/chimera-drum-setup.md) |
+| Ordo Ad Chao Drum Setup: Hellhammer's Most Demanding Mayhem Session | Hellhammer | [Markdown](https://metalforge.io/llms/articles/ordo-ad-chao-drum-setup.md) |
+| Esoteric Warfare Drum Setup: Hellhammer's First Mayhem Session Without Blasphemer | Hellhammer | [Markdown](https://metalforge.io/llms/articles/esoteric-warfare-drum-setup.md) |
+| Daemon Drum Setup: Hellhammer's Most Recent Mayhem Statement | Hellhammer | [Markdown](https://metalforge.io/llms/articles/daemon-drum-setup.md) |
+| Daemonic Rites Drum Setup: Hellhammer's 2023 Live Album Gear | Hellhammer | [Markdown](https://metalforge.io/llms/articles/daemonic-rites-drum-setup.md) |
 | Travis Orbin Drum Kit & Gear Setup — Periphery Djent Pioneer | Travis Orbin | [Markdown](https://metalforge.io/llms/articles/travis-orbin-drum-setup.md) |
 | Blake Richardson's Drum Setup on Between the Buried and Me's Alaska (2005) | Blake Richardson | [Markdown](https://metalforge.io/llms/articles/alaska-drum-setup.md) |
 | Blake Richardson's Drum Setup on The Parallax II: Future Sequence (2012) | Blake Richardson | [Markdown](https://metalforge.io/llms/articles/the-parallax-ii-future-sequence-drum-setup.md) |
@@ -609,6 +623,7 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Amon Amarth "Berserker" Drum Setup (Jocke Wallgren, 2019) | Jocke Wallgren | [Markdown](https://metalforge.io/llms/articles/berserker-drum-setup.md) |
 | Amon Amarth "The Great Heathen Army" Drum Setup (Jocke Wallgren, 2022) | Jocke Wallgren | [Markdown](https://metalforge.io/llms/articles/great-heathen-army-drum-setup.md) |
 | Tim Yeung Drum Kit & Gear Setup — Morbid Angel Death Metal | Tim Yeung | [Markdown](https://metalforge.io/llms/articles/tim-yeung-drum-setup.md) |
+| Bleed the Fifth Drum Setup — Tim Yeung's Extreme-Speed Debut | Tim Yeung | [Markdown](https://metalforge.io/llms/articles/bleed-the-fifth-drum-setup.md) |
 | Raymond Herrera's Drum Setup — Fear Factory's Industrial Metal Hybrid Kit | Raymond Herrera | [Markdown](https://metalforge.io/llms/articles/raymond-herrera-drum-setup.md) |
 | Demanufacture Drum Setup: Raymond Herrera's 1995 Fear Factory Kit Breakdown | Raymond Herrera | [Markdown](https://metalforge.io/llms/articles/demanufacture-drum-setup.md) |
 | Obsolete Drum Setup: Raymond Herrera's 1998 Fear Factory Kit Breakdown | Raymond Herrera | [Markdown](https://metalforge.io/llms/articles/obsolete-drum-setup.md) |
@@ -616,6 +631,7 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Chris Turner's Drum Kit & Gear Setup — Oceans Ate Alaska | Chris Turner | [Markdown](https://metalforge.io/llms/articles/chris-turner-drum-setup.md) |
 | Chris Turner's Drum Setup on Oceans Ate Alaska's 'Hikari' (2017) | Chris Turner | [Markdown](https://metalforge.io/llms/articles/chris-turner-hikari-2017.md) |
 | Isaac Lamb Drum Kit & Gear Setup — Kublai Khan TX Beatdown Breakdown | Isaac Lamb | [Markdown](https://metalforge.io/llms/articles/isaac-lamb-drum-setup.md) |
+| Absolute Drum Setup — Isaac Lamb's Defining Kublai Khan TX Statement | Isaac Lamb | [Markdown](https://metalforge.io/llms/articles/absolute-drum-setup.md) |
 | Daniel Erlandsson's Drum Setup — At The Gates & Arch Enemy Kit Guide | Daniel Erlandsson | [Markdown](https://metalforge.io/llms/articles/daniel-erlandsson-drum-setup.md) |
 | Daniel Erlandsson's Drum Setup on Arch Enemy's Wages of Sin (2002) | Daniel Erlandsson | [Markdown](https://metalforge.io/llms/articles/wages-of-sin-drum-setup.md) |
 | Arch Enemy Doomsday Machine Drum Setup: Daniel Erlandsson's 2005 Melodic Death Gear | Daniel Erlandsson | [Markdown](https://metalforge.io/llms/articles/doomsday-machine-drum-setup.md) |
@@ -639,7 +655,9 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Ryan Van Poederooyen Drum Setup — Devin Townsend Project's Rhythmic Powerhouse | Ryan Van Poederooyen | [Markdown](https://metalforge.io/llms/articles/ryan-van-poederooyen-drum-setup.md) |
 | Ryan Van Poederooyen's Drum Setup on Devin Townsend Project's 'Deconstruction' (2011) | Ryan Van Poederooyen | [Markdown](https://metalforge.io/llms/articles/ryan-van-poederooyen-deconstruction-2011.md) |
 | Kevin Talley Drum Setup — Dying Fetus' Blast Beat Machine | Kevin Talley | [Markdown](https://metalforge.io/llms/articles/kevin-talley-drum-setup.md) |
+| Destroy the Opposition Drum Setup — Kevin Talley's Brutal Death Metal Landmark | Kevin Talley | [Markdown](https://metalforge.io/llms/articles/destroy-the-opposition-drum-setup.md) |
 | Morgan Ågren Drum Setup — The Avant-Garde Architect Behind Zappa and Devin Townsend | Morgan Ågren | [Markdown](https://metalforge.io/llms/articles/morgan-agren-drum-setup.md) |
+| Empath Drum Setup — Morgan Ågren's Metric Modulation Masterclass | Morgan Ågren | [Markdown](https://metalforge.io/llms/articles/empath-drum-setup.md) |
 | John Otto's Drum Setup — Limp Bizkit's Complete Drum Kit Guide | John Otto | [Markdown](https://metalforge.io/llms/articles/john-otto-drum-setup.md) |
 | John Otto Drum Setup: Limp Bizkit's 'Significant Other' (1999) Gear Breakdown | John Otto | [Markdown](https://metalforge.io/llms/articles/significant-other-drum-setup.md) |
 | John Otto Drum Setup: Limp Bizkit's 'Chocolate Starfish' (2000) Gear Breakdown | John Otto | [Markdown](https://metalforge.io/llms/articles/chocolate-starfish-drum-setup.md) |
@@ -653,22 +671,29 @@ Clean Markdown gear breakdowns for every album drum-setup and "what's in <drumme
 | Arin Ilejay's Drum Setup — Avenged Sevenfold's Hail to the King Era | Arin Ilejay | [Markdown](https://metalforge.io/llms/articles/arin-ilejay-drum-setup.md) |
 | Arin Ilejay's Drum Setup on Avenged Sevenfold's Hail to the King (2013) | Arin Ilejay | [Markdown](https://metalforge.io/llms/articles/hail-to-the-king-drum-setup.md) |
 | At the Gates 'Slaughter of the Soul' Drum Setup — Adrian Erlandsson's 1995 Gear | Adrian Erlandsson | [Markdown](https://metalforge.io/llms/articles/slaughter-of-the-soul-drum-setup.md) |
+| At the Gates 'At War with Reality' Drum Setup — Adrian Erlandsson's 2014 Comeback Gear | Adrian Erlandsson | [Markdown](https://metalforge.io/llms/articles/at-war-with-reality-drum-setup.md) |
+| At the Gates 'To Drink from the Night Itself' Drum Setup — Adrian Erlandsson's 2018 Gear | Adrian Erlandsson | [Markdown](https://metalforge.io/llms/articles/to-drink-from-the-night-itself-drum-setup.md) |
 | What Drums Did The Rev Use on Avenged Sevenfold (2007)? | The Rev | [Markdown](https://metalforge.io/llms/articles/avenged-sevenfold-self-titled-drum-setup.md) |
 | City of Evil Drum Setup — The Rev's Pearl Masters MCX on A7X's Breakthrough Album (2005) | The Rev | [Markdown](https://metalforge.io/llms/articles/city-of-evil-drum-setup.md) |
 | Ben Koller Gear Evolution — Converge Drum Kit History | Ben Koller | [Markdown](https://metalforge.io/llms/articles/ben-koller-evolution.md) |
-| The Hunter Drum Setup: Brann Dailor's Kit on Mastodon's 2011 Album | Brann Dailor | [Markdown](https://metalforge.io/llms/articles/hunter-drum-setup.md) |
+| Catch 33 Drum Setup: When Tomas Haake Replaced Himself with a Computer | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/catch-33-drum-setup.md) |
 | Charlie Benante — Signature Drum Licks & Technique Guide | Charlie Benante | [Markdown](https://metalforge.io/llms/articles/charlie-benante-licks.md) |
+| Promark Dave Lombardo Signature 2Bx: The Sticks Behind Thrash's Fastest Hands | Dave Lombardo | [Markdown](https://metalforge.io/llms/articles/dave-lombardo-signature-gear-guide.md) |
 | Gavin Harrison Drum Setup — Porcupine Tree Fear of a Blank Planet Gear Guide | Gavin Harrison | [Markdown](https://metalforge.io/llms/articles/gavin-harrison-porcupine-tree-drum-setup.md) |
+| The Hunter Drum Setup: Brann Dailor's Kit on Mastodon's 2011 Album | Brann Dailor | [Markdown](https://metalforge.io/llms/articles/hunter-drum-setup.md) |
 | Igor Cavalera — Signature Drum Licks & Technique Guide | Igor Cavalera | [Markdown](https://metalforge.io/llms/articles/igor-cavalera-licks.md) |
-| Vol. 3: (The Subliminal Verses) Drum Setup — Joey Jordison's Gear Breakdown (2004) | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/vol3-subliminal-verses-drum-setup.md) |
+| Joey Jordison — Signature Drum Licks & Technique Guide | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/joey-jordison-licks.md) |
 | Mario Duplantier Gear Evolution — Gojira Drum Kit History | Mario Duplantier | [Markdown](https://metalforge.io/llms/articles/mario-duplantier-gear-evolution.md) |
-| Matt Halpern's Drum Setup on Periphery's Self-Titled Debut (2010) | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/periphery-self-titled-drum-setup.md) |
+| Matt Greiner — Signature Drum Licks & Technique Guide | Matt Greiner | [Markdown](https://metalforge.io/llms/articles/matt-greiner-licks.md) |
 | Mikkey Dee Gear Evolution — Motörhead & Scorpions Drum Kit History | Mikkey Dee | [Markdown](https://metalforge.io/llms/articles/mikkey-dee-evolution.md) |
 | Nick Augusto's Drum Setup — Trivium's In Waves & Vengeance Falls Era Kit Guide | Nick Augusto | [Markdown](https://metalforge.io/llms/articles/nick-augusto-drum-setup.md) |
 | Paul Mazurkiewicz Gear Evolution — Cannibal Corpse Drum Kit History | Paul Mazurkiewicz | [Markdown](https://metalforge.io/llms/articles/paul-mazurkiewicz-gear-evolution.md) |
+| Matt Halpern's Drum Setup on Periphery's Self-Titled Debut (2010) | Matt Halpern | [Markdown](https://metalforge.io/llms/articles/periphery-self-titled-drum-setup.md) |
 | Pete Sandoval Gear Evolution — Morbid Angel Drum Kit History | Pete Sandoval | [Markdown](https://metalforge.io/llms/articles/pete-sandoval-evolution.md) |
-| Catch 33 Drum Setup: When Tomas Haake Replaced Himself with a Computer | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/catch-33-drum-setup.md) |
+| Sonor Tomas Haake Signature Snare: The Metallic Heartbeat of Djent | Tomas Haake | [Markdown](https://metalforge.io/llms/articles/tomas-haake-signature-gear-guide.md) |
 | Vinnie Paul Gear Evolution — Pantera Drum Kit History | Vinnie Paul | [Markdown](https://metalforge.io/llms/articles/vinnie-paul-gear-evolution.md) |
+| Vol. 3: (The Subliminal Verses) Drum Setup — Joey Jordison's Gear Breakdown (2004) | Joey Jordison | [Markdown](https://metalforge.io/llms/articles/vol3-subliminal-verses-drum-setup.md) |
+
 
 ---
 

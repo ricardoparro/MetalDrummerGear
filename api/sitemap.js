@@ -236,63 +236,6 @@ const drummerComparisons = generateAllDrummerComparisons(drummers);
 // new guides ship (no hand-maintained duplicate list to drift).
 const soundLikeGuides = Object.values(SOUND_LIKE_GUIDES).map(g => ({ slug: g.slug, name: g.title || g.name }));
 
-// Issue #4634: genre-gear-guide LLM Markdown mirrors. GENRE_GEAR_GUIDES has 278
-// entries (all HTML /guides/best-* pages), but only a subset has a generated
-// public/llms/guides/<slug>.md mirror — the data module has no flag marking
-// which, so (matching the beginnerGuides precedent below) this is an explicit
-// list of the 49 slugs with a real .md file on disk.
-const genreGearGuideMdSlugs = [
-  'best-bass-drum-pedals-for-metal',
-  'best-bass-drums-for-extreme-metal',
-  'best-china-cymbals-for-black-metal',
-  'best-china-cymbals-for-death-metal',
-  'best-china-cymbals-for-groove-metal',
-  'best-china-cymbals-for-metal',
-  'best-china-cymbals-for-thrash-metal',
-  'best-crash-cymbals-for-metal',
-  'best-cymbals-for-black-metal',
-  'best-cymbals-for-death-metal',
-  'best-cymbals-for-metal',
-  'best-cymbals-for-progressive-metal',
-  'best-cymbals-for-thrash-metal',
-  'best-drum-hardware-for-metal',
-  'best-drum-heads-for-black-metal',
-  'best-drum-heads-for-djent',
-  'best-drum-heads-for-doom-metal',
-  'best-drum-heads-for-extreme-metal',
-  'best-drum-heads-for-metal',
-  'best-drum-kits-for-black-metal',
-  'best-drum-kits-for-death-metal',
-  'best-drum-kits-for-djent',
-  'best-drum-kits-for-groove-metal',
-  'best-drum-kits-for-metalcore',
-  'best-drum-kits-for-nu-metal',
-  'best-drum-kits-for-progressive-metal',
-  'best-drum-kits-for-thrash-metal',
-  'best-drum-modules-for-metal',
-  'best-drum-pedals-for-black-metal',
-  'best-drum-shields-for-metal',
-  'best-drum-thrones-for-metal',
-  'best-drum-triggers-for-black-metal',
-  'best-drum-triggers-for-death-metal',
-  'best-drum-triggers-for-deathcore',
-  'best-drum-triggers-for-metal',
-  'best-drumsticks-for-black-metal',
-  'best-drumsticks-for-death-metal',
-  'best-drumsticks-for-djent',
-  'best-drumsticks-for-metal',
-  'best-drumsticks-for-metalcore',
-  'best-electronic-drum-kits-for-metal',
-  'best-hi-hats-for-black-metal',
-  'best-hi-hats-for-metal',
-  'best-in-ear-monitors-for-metal-drummers',
-  'best-metronomes-for-metal-drummers',
-  'best-ride-cymbals-for-metal',
-  'best-snare-drums-for-black-metal',
-  'best-snare-drums-for-death-metal',
-  'best-snare-drums-for-metal',
-];
-
 // Issue #702: Beginner gear guides - SEO content hub
 const beginnerGuides = [
   { slug: 'beginner-metal-drummer-setup', name: 'The Ultimate Beginner Metal Drummer Gear Guide Under $1000' },
@@ -309,63 +252,14 @@ const toolPages = [
   { slug: 'metal-drummer-name-generator', name: 'Metal Drummer Name Generator' },
 ];
 
-// Issue #4634: genre-gear-guide llms mirrors (public/llms/guides/best-*.md).
-// GENRE_GEAR_GUIDES has 278 entries and every slug is "best-*" prefixed, so it
-// can't be filtered down to just the mirrored subset — only these 49 guides
-// (shipped across the #2952/#3254/#3713 "Genre Gear Guide batch" issues) have
-// an actual .md file generated. Validated against GENRE_GEAR_GUIDES so a typo
-// or a removed guide fails loudly (filtered out) instead of 404ing in the sitemap.
-const genreGearGuideMdSlugs = [
-  'best-bass-drum-pedals-for-metal',
-  'best-bass-drums-for-extreme-metal',
-  'best-china-cymbals-for-black-metal',
-  'best-china-cymbals-for-death-metal',
-  'best-china-cymbals-for-groove-metal',
-  'best-china-cymbals-for-metal',
-  'best-china-cymbals-for-thrash-metal',
-  'best-crash-cymbals-for-metal',
-  'best-cymbals-for-black-metal',
-  'best-cymbals-for-death-metal',
-  'best-cymbals-for-metal',
-  'best-cymbals-for-progressive-metal',
-  'best-cymbals-for-thrash-metal',
-  'best-drum-hardware-for-metal',
-  'best-drum-heads-for-black-metal',
-  'best-drum-heads-for-djent',
-  'best-drum-heads-for-doom-metal',
-  'best-drum-heads-for-extreme-metal',
-  'best-drum-heads-for-metal',
-  'best-drum-kits-for-black-metal',
-  'best-drum-kits-for-death-metal',
-  'best-drum-kits-for-djent',
-  'best-drum-kits-for-groove-metal',
-  'best-drum-kits-for-metalcore',
-  'best-drum-kits-for-nu-metal',
-  'best-drum-kits-for-progressive-metal',
-  'best-drum-kits-for-thrash-metal',
-  'best-drum-modules-for-metal',
-  'best-drum-pedals-for-black-metal',
-  'best-drum-shields-for-metal',
-  'best-drum-thrones-for-metal',
-  'best-drum-triggers-for-black-metal',
-  'best-drum-triggers-for-death-metal',
-  'best-drum-triggers-for-deathcore',
-  'best-drum-triggers-for-metal',
-  'best-drumsticks-for-black-metal',
-  'best-drumsticks-for-death-metal',
-  'best-drumsticks-for-djent',
-  'best-drumsticks-for-metal',
-  'best-drumsticks-for-metalcore',
-  'best-electronic-drum-kits-for-metal',
-  'best-hi-hats-for-black-metal',
-  'best-hi-hats-for-metal',
-  'best-in-ear-monitors-for-metal-drummers',
-  'best-metronomes-for-metal-drummers',
-  'best-ride-cymbals-for-metal',
-  'best-snare-drums-for-black-metal',
-  'best-snare-drums-for-death-metal',
-  'best-snare-drums-for-metal',
-].filter(slug => GENRE_GEAR_GUIDES[slug]);
+// Issue #4634 / #4645: genre-gear-guide llms mirrors (public/llms/guides/best-*.md).
+// GENRE_GEAR_GUIDES has 278 entries and every slug is "best-*" prefixed. #4634
+// wired in only the 49 slugs that had a hand-authored .md file at the time;
+// #4645 (scripts/generate-llms-genre-gear-guides.cjs) generated the remaining
+// 229 mechanically from the data module fields, so every slug now has a real
+// file on disk — source the full list directly instead of hand-maintaining a
+// duplicate array that drifts as new guides ship.
+const genreGearGuideMdSlugs = Object.keys(GENRE_GEAR_GUIDES);
 
 // Issue #732: Top 20 Gear Comparison Tool pairs for SEO
 // High-traffic matchups for auto-generation
@@ -970,16 +864,13 @@ export function buildSitemapXml() {
     { loc: '/llms/guides.md', priority: '0.4', changefreq: 'monthly' },
     // Issue #1450: per-guide deep-dive Markdown files for AI citation (10 sound-like guides).
     ...soundLikeGuides.map(g => ({ loc: `/llms/guides/${g.slug}.md`, priority: '0.5', changefreq: 'monthly' })),
-    // Issue #4634: genre-gear-guide LLM citation surfaces (49 best-* guides).
+    // Issue #4634 / #4645: genre-gear-guide LLM citation surfaces (all 278 best-* guides).
     ...genreGearGuideMdSlugs.map(slug => ({ loc: `/llms/guides/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Issue #1562: beginner/budget gear guide LLM citation surfaces.
     { loc: '/llms/guides/beginner-metal-drummer-setup.md', priority: '0.5', changefreq: 'monthly' },
     { loc: '/llms/guides/budget-metal-drum-setup-500.md', priority: '0.5', changefreq: 'monthly' },
     { loc: '/llms/guides/budget-metal-drum-setup-1000.md', priority: '0.5', changefreq: 'monthly' },
     { loc: '/llms/guides/budget-metal-drum-setup-2000.md', priority: '0.5', changefreq: 'monthly' },
-    // Issue #4634: genre-gear-guide llms mirrors (49 best-*.md files under
-    // public/llms/guides/) — previously unreachable via sitemap.xml.
-    ...genreGearGuideMdSlugs.map(slug => ({ loc: `/llms/guides/${slug}.md`, priority: '0.5', changefreq: 'monthly' })),
     // Per-drummer Markdown profiles — low priority, full crawl coverage.
     ...llmsDrummerSlugs.map(slug => ({ loc: `/llms/drummers/${slug}.md`, priority: '0.4', changefreq: 'monthly' })),
     // Issue #1058: per-article Markdown breakdowns (public/llms/articles/<slug>.md).

@@ -2989,3 +2989,30 @@ Metrics 17:26 UTC (413 users/440 sessions/652 views 7d; GSC 5,569 impr/134 click
 - Blockers unchanged: #875/#529/#526/#525 human-founder (0 new comments) — no re-spam
 - Actions: none — hold continues (0 fresh seo-proposals, 0 founder ideas, backlog empty but nothing eligible to promote — L1/L2/L3 next refresh 2026-07-20)
 - Next check: 2026-07-16 07:00 UTC deep run
+
+---
+
+## 2026-07-15 09:36 — Backlog refill: 3 fresh proposals promoted (0→3)
+
+### Context (≤3 lines)
+Metrics 09:36 UTC (408 users/433 sessions/594 views 7d; GSC 5,729 impr/128 clicks/2.23% CTR/pos 9.3 — unchanged since 19:00, content-gap rows `joey jordison drum set`/`mike portnoy drum set` still both already double-addressed, GSC lag, no re-file). Backlog was 0 eligible `ai-fix`, 0 open PRs. 3 fresh untriaged `seo-proposal` (#4656-4658), filed 08:56 UTC — all downstream of today's #4648/#4649/#4650 llms/sitemap batch.
+
+### Actions taken
+- **Promoted #4656** (`/spotlights`, `/endorsement-news`, `/gear-news` hubs emit CollectionPage schema but zero `ssrLinks`) — grep-verified all 3 routes exist in `api/meta/[...path].js` (lines 3484/3545/1061) with no `ssrLinks` field; same bug class #4650 just fixed for the 4 pillar hubs today (commit 66b9bdae). Legit follow-on, not a duplicate.
+- **Promoted #4657** (`llms/index.md` Articles table shows 423 of 447 live files) — confirmed via `find public/llms/articles -name "*.md" | wc -l` → 447 vs `grep -c "llms/articles/" public/llms/index.md` → 423. Prior fixes of same bug class (#4630, #4633) are both closed — this is fresh drift from today's #4648 regeneration (353→423→447), not a re-file.
+- **Promoted #4658** (`llms.txt` article counts stale: "423" and "66" vs 447 live) — confirmed both stale lines via grep. #4633 (prior fix of the same file) is closed; this is fresh drift from the same #4648 regeneration.
+- Searched `gh issue list --search` on all 3 titles/keywords — no open duplicates (#4630/#4633 closed).
+- Founder ideas: inbox empty. GSC content-gap: both rows already double-addressed (mike-portnoy: #4551/#4593; joey-jordison: #4559), GSC lag — no re-file. L1(#3810)/L2(#2211)/L3(#3819) snapshots still dated 2026-07-13, next refresh 2026-07-20 — nothing fresh to triage. Atomic-split: no `ai-fix` issue open >3 days (backlog was 0 at run start). Human-founder blockers (#875/#529/#526/#525) unchanged, no re-spam.
+
+### State delta
+- ai-fix backlog: 0 → 3 eligible (#4656-4658 promoted)
+- Org/Sessions/Views (7d): 408/433/594 · GSC: 5,729 impr / 128 clicks / 2.23% CTR / pos 9.3 — flat since 19:00
+
+### Quota check
+✅ Founder ideas: inbox empty. ✅ SEO proposals: 3/3 fresh triaged and promoted, each grep-verified against live code. ✅ GSC-gap: none new, both rows already closed. ✅ Atomic split: none needed. ✅ Decisions logged.
+
+### Next Run
+1. Backlog at 3 — still far below the 45 floor; keep promoting liberally as fresh proposals land.
+2. Watch #4656-4658 ship and confirm the llms-index/llms.txt drift pattern (3rd+ recurrence around the same file) — if it recurs a 4th time after these merge, consider a standing generator fix (single source of truth) instead of one-off patches.
+3. Watch for next L1/L2/L3 snapshot refresh (2026-07-20) — nothing fresh until then.
+4. #875/#529/#526/#525 human-founder blockers unchanged — no re-spam.

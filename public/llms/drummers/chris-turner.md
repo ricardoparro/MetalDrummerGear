@@ -6,7 +6,7 @@ country: "UK"
 primary_brand: "Tama"
 profile_url: "https://metalforge.io/drummer/chris-turner"
 source: "https://metalforge.io"
-last_updated: "2026-07-14"
+last_updated: "2026-07-15"
 ---
 
 # Chris Turner — Drum Kit & Gear Setup
@@ -61,10 +61,6 @@ Turner's drumming videos have gone viral on social media, showcasing his ability
 
 ## Frequently Asked Questions
 
-**Q: What drums does Chris Turner play?**
-
-A: Chris Turner plays Tama Starclassic drums with Meinl cymbals and Tama Speed Cobra pedals.
-
 **Q: What band is Chris Turner in?**
 
 A: Chris Turner is the founding drummer of progressive metalcore band Oceans Ate Alaska since 2010.
@@ -72,6 +68,26 @@ A: Chris Turner is the founding drummer of progressive metalcore band Oceans Ate
 **Q: Why is Chris Turner famous?**
 
 A: Chris Turner is known for his extreme technical precision, viral drumming videos, and innovative approach to progressive metalcore drumming.
+
+**Q: What drum kit does Chris Turner use?**
+
+A: Chris Turner plays a Tama Starclassic Maple/Birch drum kit, the setup behind Oceans Ate Alaska's technical, polyrhythmic metalcore on albums like "Hikari" (2017).
+
+**Q: What snare does Chris Turner use?**
+
+A: Turner's snare is a Tama S.L.P. 14"x5.5" G-Maple, chosen for a fast, articulate attack that keeps pace with his complex time signatures.
+
+**Q: What cymbals does Chris Turner play?**
+
+A: Chris Turner plays Meinl Byzance Series cymbals: 15" Dual Hi-Hats, 18" and 20" Extra Dry Medium Crashes, a 22" Dual Ride, and an 18" Extra Dry China.
+
+**Q: What bass drum pedal does Chris Turner use?**
+
+A: Turner drives his polyrhythmic footwork with a Tama Speed Cobra 910 Double Pedal, mounted on a Tama 1st Chair Throne.
+
+**Q: What sticks does Chris Turner use?**
+
+A: Chris Turner plays Vic Firth American Classic 5A sticks, paired with Evans drumheads.
 
 **Q: How fast can Chris Turner play?**
 
@@ -121,4 +137,4 @@ Full breakdown: [Chris Turner's pedal setup](https://metalforge.io/pedals/setups
 
 **More LLM resources:** [Site index](https://metalforge.io/llms.txt) · [Full database](https://metalforge.io/llms-full.txt) · [Drummer markdown index](https://metalforge.io/llms/index.md)
 
-*Last updated: 2026-07-14 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-15 · Source: [MetalForge.io](https://metalforge.io)*

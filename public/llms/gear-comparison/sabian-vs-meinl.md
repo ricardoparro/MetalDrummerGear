@@ -1,7 +1,7 @@
 # Sabian vs Meinl Cymbals for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Sabian and Meinl cymbals used by pro metal drummers.
-> Last updated: 2026-07-11
+> Last updated: 2026-07-15
 
 Sabian HHX/AAX vs Meinl Byzance for metal drumming. Compare bright vs dark tones, pricing, and which cymbals top progressive and groove metal drummers prefer.
 

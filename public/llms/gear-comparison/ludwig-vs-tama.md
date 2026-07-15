@@ -1,7 +1,7 @@
 # Ludwig vs Tama Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Ludwig and Tama drums used by pro metal drummers.
-> Last updated: 2026-07-11
+> Last updated: 2026-07-15
 
 Compare Ludwig Classic Maple and Tama Starclassic drums for metal. Vintage American craftsmanship vs modern metal-tuned attack, pricing, specs, and pro endorsements.
 

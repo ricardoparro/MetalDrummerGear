@@ -1,7 +1,7 @@
 # Tama vs Pearl Snare Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Tama and Pearl snare drums used by pro metal drummers.
-> Last updated: 2026-07-11
+> Last updated: 2026-07-15
 
 Compare Tama SLP and Pearl Sensitone snare drums for metal. Steel vs bronze, crack vs warmth. Find your perfect metal snare sound.
 

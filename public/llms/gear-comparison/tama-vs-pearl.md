@@ -1,7 +1,7 @@
 # Tama vs Pearl Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of Tama and Pearl drums used by pro metal drummers.
-> Last updated: 2026-07-11
+> Last updated: 2026-07-15
 
 Compare Tama and Pearl drums for metal drumming. See specs, pricing, pro endorsements, and which kit suits your playing style. Expert analysis from MetalForge.
 

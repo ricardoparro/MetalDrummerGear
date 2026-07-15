@@ -1,7 +1,7 @@
 # DW vs Tama Drums for Metal — Side-by-Side Gear Comparison
 
 > MetalForge's side-by-side comparison of DW and Tama drums used by pro metal drummers.
-> Last updated: 2026-07-11
+> Last updated: 2026-07-15
 
 Compare DW Collector's Series and Tama Starclassic drums for metal. See specs, pricing, pro endorsements, and which premium kit suits your playing style.
 

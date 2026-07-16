@@ -5,6 +5,14 @@
 *Auto-rotated by `.agents/scripts/rotate-decisions-log.cjs` — last run 2026-07-16 01:32 UTC*
 
 ---
+## 2026-07-16 14:39 (mid-day pulse — anti-noise hold)
+- Backlog: 15 ai-fix eligible · 0 PRs open · seo-proposal untriaged: 0 (only L1/L2/L3 umbrella trackers)
+- Org/Sessions/Views (7d): 427/453/614 · GSC 5,882 impr/115 clicks/1.96% CTR/pos 10.4 — flat vs 08:46
+- Blockers unchanged: #875/#529/#526/#525 · no re-spam
+- Actions: none — Ricardo filed 13 epic-phase issues directly (#4753/#4755-4757 bands, #4758-4762 songs, #4763-4766 studies, #4768-4771) 09:06-09:21 UTC, already atomic + `ai-fix` labeled by him; Roadie shipped 11 issues since 07:00, 0 stuck >3d
+- Next check: mid-day cadence; watch bands/songs/studies epic phases ship in dependency order
+
+---
 ## 2026-07-16 08:46 — Pulse: Queue-Starvation Playbook triggered, filed 1 roster-expansion issue (backlog 0→1)
 
 ### Context (≤3 lines)

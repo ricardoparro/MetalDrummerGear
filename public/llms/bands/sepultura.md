@@ -1,91 +1,96 @@
-# Sepultura — Drummer & Gear Profile | MetalForge
+# Sepultura — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Sepultura. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drummed for Sepultura', 'Sepultura drummer gear', 'Igor Cavalera drum kit'.
+> Per-band AI citation reference for Sepultura: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Sepultura', 'Greyson Nekrutman Sepultura', 'Sepultura band members'.
 
 ## Band Overview
 
-- **Drummers:** Igor Cavalera (1984–2006), Jean Dolabella (2006–2011), Eloy Casagrande (2011–2024)
+- **Drummer:** Greyson Nekrutman (2024)
 - **Genre:** Thrash Metal, Groove Metal, Death Metal
-- **Active:** 1984–2024
-- **Country:** Brazil (Belo Horizonte, Minas Gerais)
-- **Status:** Disbanded (completed farewell tour 2024)
+- **Status:** Disbanded
+- **Formed:** 1984
+- **Origin:** Belo Horizonte, Brazil
 
-## Drummer(s)
+## Summary
 
-**Igor Cavalera** — 1984–2006 (Co-founder)
-Igor Cavalera co-founded Sepultura in Belo Horizonte alongside his brother Max Cavalera (vocals/guitar). He was central to the band's rise from Brazilian thrash metal to international prominence. His tribal drumming influences — incorporated explicitly on *Chaos A.D.* (1993) and *Roots* (1996) — drew on indigenous Brazilian rhythms to create a fusion that was unprecedented in metal. He departed in 2006 after conflicts with management.
+Sepultura formed 1984, Brazilian thrash pioneers, disbanded 2024.
 
-[Igor Cavalera full profile →](https://metalforge.io/drummer/igor-cavalera) · [LLM markdown](https://metalforge.io/llms/drummers/igor-cavalera.md)
+## Drummer History
 
-**Jean Dolabella** — 2006–2011
-Brazilian drummer Jean Dolabella replaced Igor Cavalera and played on *A-Lex* (2009) and *Kairos* (2011).
+- **Igor Cavalera** — 1984-2006 (Co-founder with brother Max)
+- **Jean Dolabella** — 2006-2011 (Drummed A-Lex (2009) and Kairos (2011))
+- **Eloy Casagrande** — 2011-2024 (Joined November 2011, departed February 2024 to join Slipknot; drummed Mediator (2013), Machine Messiah (2017), Quadra (2020))
+- **Greyson Nekrutman** — 2024 (Joined on short notice after Casagrande's departure for the band's farewell-tour era)
 
-**Eloy Casagrande** — 2011–2024
-Eloy Casagrande was Sepultura's final drummer, joining at 17 years old and recording three studio albums before the band's 2024 farewell. Following Sepultura's disbandment, Casagrande joined Slipknot as their permanent drummer in 2023.
+[Greyson Nekrutman full profile →](https://metalforge.io/drummer/greyson-nekrutman) · [LLM markdown](https://metalforge.io/llms/drummers/greyson-nekrutman.md)
 
-[Eloy Casagrande full profile →](https://metalforge.io/drummer/eloy-casagrande) · [LLM markdown](https://metalforge.io/llms/drummers/eloy-casagrande.md)
+## Current Members
 
-## Kit Overview
+- **Paulo Jr.** — bass — 1984-2024 (Founding member (Paulo Xisto Pinto Jr.))
+- **Andreas Kisser** — guitar — 1987-2024 (Joined after Jairo Guedz's departure)
+- **Derrick Green** — vocals — 1997-2024 (Replaced Max Cavalera)
+- **Greyson Nekrutman** — drums — 2024-2024 (Ex-Suicidal Tendencies; joined on short notice after Eloy Casagrande's departure; drummed the band's farewell-era release)
 
-Igor Cavalera played **Tama Starclassic Maple** drums paired with **Paiste RUDE & 2002 Series** cymbals. His tribal-inflected drumming incorporated hand percussion elements alongside his standard kit.
+## Former Members
 
-- **Drums:** Tama Starclassic Maple
-- **Snare:** Tama S.L.P. 14×6.5" G-Maple
-- **Cymbals:** Paiste RUDE & 2002 Series (14" RUDE Hi-Hats, 18" & 19" RUDE Crashes, 22" RUDE Power Ride, 18" 2002 China)
-- **Pedals:** Tama Iron Cobra Double Pedal
-- **Throne:** Tama Throne
+- **Max Cavalera** — vocals, guitar — 1984-1997 (Co-founder; left acrimoniously; later formed Soulfly and Cavalera Conspiracy)
+- **Igor Cavalera** — drums — 1984-2006 (Co-founder with brother Max)
+- **Jean Dolabella** — drums — 2006-2011 (Replaced Igor Cavalera; drummed on A-Lex (2009) and Kairos (2011); departed around November 2011)
+- **Eloy Casagrande** — drums — 2011-2024 (Joined November 2011; departed abruptly in February 2024 to join Slipknot)
 
-Eloy Casagrande used **Tama Starclassic Bubinga** drums with **Paiste** cymbals.
+## Discography
 
-## Signature Sound
-
-Sepultura's drumming evolved dramatically across three decades. Igor Cavalera's early work on *Bestial Devastation* (1985) and *Morbid Visions* (1986) was raw Brazilian thrash. Albums like *Beneath the Remains* (1989) and *Arise* (1991) showed his increasing technical sophistication. The pivot on *Chaos A.D.* (1993) and *Roots* (1996) introduced tribal percussion, indigenous rhythms, and groove metal heaviness that influenced an entire generation of metal bands globally. Eloy Casagrande's youth and technical prowess on *The Mediator Between Head and Hands Must Be the Heart* (2013) and *Machine Messiah* (2017) demonstrated Sepultura's continued commitment to modern technical drumming in their final years.
-
-## Albums
-
-| Album | Year | Drummer |
-|---|---|---|
-| Bestial Devastation | 1985 | Igor Cavalera |
-| Morbid Visions | 1986 | Igor Cavalera |
-| Schizophrenia | 1987 | Igor Cavalera |
-| Beneath the Remains | 1989 | Igor Cavalera |
-| Arise | 1991 | Igor Cavalera |
-| Chaos A.D. | 1993 | Igor Cavalera |
-| Roots | 1996 | Igor Cavalera |
-| Against | 1998 | Igor Cavalera |
-| Nation | 2001 | Igor Cavalera |
-| Dante XXI | 2006 | Igor Cavalera |
-| A-Lex | 2009 | Jean Dolabella |
-| Kairos | 2011 | Jean Dolabella |
-| The Mediator Between Head and Hands Must Be the Heart | 2013 | Eloy Casagrande |
-| Machine Messiah | 2017 | Eloy Casagrande |
-| Quadra | 2020 | Eloy Casagrande |
-| Sepulquarta | 2021 | Eloy Casagrande |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| Morbid Visions | 1986 | Igor Cavalera | Debut full-length |
+| Schizophrenia | 1987 | Igor Cavalera |  |
+| Beneath the Remains | 1989 | Igor Cavalera |  |
+| Arise | 1991 | Igor Cavalera |  |
+| Chaos A.D. | 1993 | Igor Cavalera |  |
+| Roots | 1996 | Igor Cavalera | Last album with Max Cavalera |
+| Against | 1998 | Igor Cavalera | First album with Derrick Green |
+| Nation | 2001 | Igor Cavalera |  |
+| Roorback | 2003 | Igor Cavalera |  |
+| Dante XXI | 2006 | Igor Cavalera | Igor Cavalera's last album; he left later in 2006 |
+| A-Lex | 2009 | Jean Dolabella | Dolabella's first album; concept album based on A Clockwork Orange |
+| Kairos | 2011 | Jean Dolabella | Verified NOT Eloy Casagrande, despite the timeline overlap. Recorded Dec 2010-Mar 2011, released June 24, 2011, with Dolabella credited on drums/percussion. Dolabella left roughly five months after release; Casagrande joined afterward. |
+| The Mediator Between Head and Hands Must Be the Heart | 2013 | Eloy Casagrande | Casagrande's first studio album, joined Nov 2011 |
+| Machine Messiah | 2017 | Eloy Casagrande |  |
+| Quadra | 2020 | Eloy Casagrande |  |
 
 ## FAQ
 
-**Q: Who played drums in Sepultura?**
-A: Sepultura had three main drummers: Igor Cavalera (co-founder, 1984–2006), Jean Dolabella (2006–2011), and Eloy Casagrande (2011–2024). Casagrande joined Slipknot following Sepultura's 2024 disbandment.
-
-**Q: What drum kit did Igor Cavalera use?**
-A: Igor Cavalera played Tama Starclassic Maple drums with Tama Iron Cobra double pedal and Paiste RUDE & 2002 Series cymbals.
-
-**Q: Why did Igor Cavalera leave Sepultura?**
-A: Igor Cavalera left in December 2006 following management conflicts — his wife (who also managed the band) was dismissed, and he chose to depart with her.
+**Q: Who is the drummer for Sepultura?**
+A: Sepultura's final drummer was Greyson Nekrutman, who joined in February 2024 after Eloy Casagrande's abrupt departure to join Slipknot. Nekrutman drummed the band's farewell-era output before Sepultura's retirement from touring.
 
 **Q: Is Sepultura still active?**
-A: No. Sepultura completed a farewell world tour in 2024 and disbanded, ending a 40-year run as one of Brazil's most important metal bands.
+A: No, they completed a farewell tour in 2024.
 
-**Q: What is Sepultura's most influential album?**
-A: *Roots* (1996) is Sepultura's most globally influential album — combining Brazilian tribal percussion, indigenous rhythms, and groove metal to create a template for world-influenced metal that resonates to this day.
+**Q: Why did Igor Cavalera leave?**
+A: He left in 2006 due to conflicts with management.
+
+**Q: Did Eloy Casagrande drum on Kairos?**
+A: No, this is a common point of confusion. Kairos (2011) was recorded and released while Jean Dolabella was still Sepultura's drummer; Dolabella is credited with drums and percussion on the album, released June 24, 2011. Eloy Casagrande did not join Sepultura until November 2011, after Kairos was already out. Casagrande's first studio album with the band was The Mediator Between Head and Hands Must Be the Heart (2013).
+
+**Q: Has Sepultura broken up?**
+A: Not through a formal legal dissolution. The band announced a farewell tour, "Celebrating Life Through Death," in December 2023, framing it as the end of touring rather than an outright breakup.
+
+**Q: Who replaced Igor Cavalera as Sepultura's drummer?**
+A: Jean Dolabella replaced founding drummer Igor Cavalera in 2006. Dolabella recorded two studio albums (A-Lex, 2009, and Kairos, 2011) before departing in late 2011, when Eloy Casagrande took over.
+
+## Sources
+
+- https://en.wikipedia.org/wiki/Sepultura
+- https://en.wikipedia.org/wiki/Sepultura_discography
+- https://en.wikipedia.org/wiki/Kairos_(album)
+- https://en.wikipedia.org/wiki/Jean_Dolabella
 
 ---
 
 **Full band profile:** [Sepultura on MetalForge](https://metalforge.io/bands/sepultura)
 
-**Drummer LLM files:** [Igor Cavalera](https://metalforge.io/llms/drummers/igor-cavalera.md) · [Eloy Casagrande](https://metalforge.io/llms/drummers/eloy-casagrande.md)
+**Drummer LLM file:** [Greyson Nekrutman](https://metalforge.io/llms/drummers/greyson-nekrutman.md)
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-20 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

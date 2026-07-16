@@ -1,79 +1,82 @@
-# Slayer — Drummer & Gear Profile | MetalForge
+# Slayer — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Slayer. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Slayer', 'Dave Lombardo drum kit', 'Slayer drummer gear'.
+> Per-band AI citation reference for Slayer: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Slayer', 'Jon Dette Slayer', 'Slayer band members'.
 
 ## Band Overview
 
-- **Drummers:** Dave Lombardo (1981–1992, 2001–2013), Paul Bostaph (1992–2001, 2013–2019)
+- **Drummer:** Jon Dette (1996-1997)
 - **Genre:** Thrash Metal, Speed Metal
-- **Active:** 1981–2019
-- **Country:** United States (Huntington Park, California)
 - **Status:** Disbanded
+- **Formed:** 1981
+- **Origin:** Huntington Park, California, USA
 
-## Drummer(s)
+## Summary
 
-**Dave Lombardo** — 1981–1992, 2001–2013 (Co-founder)
-Dave Lombardo is widely regarded as one of the most influential drummers in extreme metal. His explosive double-bass work and hyper-precise blast beats on records like *Reign in Blood* (1986) set the standard for thrash and death metal drumming globally. He co-founded Slayer with guitarist Kerry King in 1981.
+Slayer, formed in 1981, defined extreme thrash metal with aggressive drumming.
 
-[Dave Lombardo full profile →](https://metalforge.io/drummer/dave-lombardo) · [LLM markdown](https://metalforge.io/llms/drummers/dave-lombardo.md)
+## Drummer History
 
-**Paul Bostaph** — 1992–2001, 2013–2019
-Paul Bostaph served two separate stints, recording albums including *Divine Intervention* (1994), *Undisputed Attitude* (1996), *Diabolus in Musica* (1998), *God Hates Us All* (2001), and the final Slayer album *Repentless* (2015).
+- **Dave Lombardo** — 1981-1986, 1987-1992, 2001-2013 (Co-founder, pioneered extreme thrash drumming)
+- **Paul Bostaph** — 1992-1996, 1997-2001, 2013-2019 (Three separate stints; played Slayer's final show, November 30, 2019)
+- **Jon Dette** — 1996-1997 (Ex-Testament; filled in between Bostaph's first and second stints. No verified fill-in drummer exists for the 1992 Lombardo-to-Bostaph transition or for the 2019 farewell-tour finale; Bostaph played through to the band's last show.)
 
-## Kit Overview
+[Jon Dette full profile →](https://metalforge.io/drummer/jon-dette) · [LLM markdown](https://metalforge.io/llms/drummers/jon-dette.md)
 
-Dave Lombardo's classic Slayer setup used **Tama Starclassic Maple** shells paired with **Paiste RUDE & 2002 Series** cymbals — a combination chosen for its aggressive cutting power in live and studio environments.
+## Former Members
 
-- **Drums:** Tama Starclassic Maple
-- **Snare:** Tama S.L.P. 14×6.5" G-Maple
-- **Cymbals:** Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)
-- **Pedals:** Tama Iron Cobra 900 Double Pedal
-- **Sticks:** Vic Firth
+- **Tom Araya** — bass, vocals — 1981-2019 (Founding member; band ended touring in 2019, sporadic reunion festival dates from 2024)
+- **Kerry King** — guitar — 1981-2019 (Founding member)
+- **Jeff Hanneman** — guitar — 1981-2013 (Founding member; died May 2, 2013)
+- **Gary Holt** — guitar — 2011, 2013-2019 (Ex-Exodus; filled in for ailing Jeff Hanneman starting 2011, became permanent member in 2013)
+- **Dave Lombardo** — drums — 1981-1986, 1987-1992, 2001-2013 (Co-founder; three separate stints; fired February 2013 amid a pay/contract dispute)
+- **Paul Bostaph** — drums — 1992-1996, 1997-2001, 2013-2019 (Replaced Lombardo in 1992; played the band's final show November 30, 2019 at The Forum, Los Angeles)
+- **Jon Dette** — drums — 1996-1997 (Ex-Testament; filled in between Bostaph's first and second stints)
 
-## Signature Sound
+## Discography
 
-Slayer's drumming is defined by Lombardo's ferocious double-bass patterns and rapid-fire blast beats. On *Reign in Blood* (1986) — produced in just 29 days — tracks like "Angel of Death" and "Raining Blood" feature drumming at speeds that were unprecedented for their time. Lombardo plays with maximum aggression while maintaining metronomic precision. The combination of his relentless kick drum patterns with Kerry King and Jeff Hanneman's tremolo-picked riffs created the template for extreme metal drumming. Paul Bostaph brought a technically proficient style during his tenures, demonstrated on *Divine Intervention*.
-
-## Albums
-
-| Album | Year | Drummer |
-|---|---|---|
-| Show No Mercy | 1983 | Dave Lombardo |
-| Hell Awaits | 1985 | Dave Lombardo |
-| Reign in Blood | 1986 | Dave Lombardo |
-| South of Heaven | 1988 | Dave Lombardo |
-| Seasons in the Abyss | 1990 | Dave Lombardo |
-| Divine Intervention | 1994 | Paul Bostaph |
-| Diabolus in Musica | 1998 | Paul Bostaph |
-| God Hates Us All | 2001 | Paul Bostaph |
-| Christ Illusion | 2006 | Dave Lombardo |
-| World Painted Blood | 2009 | Dave Lombardo |
-| Repentless | 2015 | Paul Bostaph |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| Show No Mercy | 1983 | Dave Lombardo | Debut album |
+| Hell Awaits | 1985 | Dave Lombardo |  |
+| Reign in Blood | 1986 | Dave Lombardo |  |
+| South of Heaven | 1988 | Dave Lombardo |  |
+| Seasons in the Abyss | 1990 | Dave Lombardo | Lombardo's last album of this stint; left 1992 |
+| Divine Intervention | 1994 | Paul Bostaph | Bostaph's first studio album |
+| Undisputed Attitude | 1996 | Paul Bostaph | Covers album |
+| Diabolus in Musica | 1998 | Paul Bostaph | Bostaph rejoined in 1997 and is the credited recording drummer |
+| God Hates Us All | 2001 | Paul Bostaph | Bostaph's last before his December 2001 departure |
+| Christ Illusion | 2006 | Dave Lombardo | Lombardo's return, post-2001 rejoining |
+| World Painted Blood | 2009 | Dave Lombardo |  |
+| Repentless | 2015 | Paul Bostaph | Bostaph's return stint; Lombardo was fired in Feb 2013 before this album |
 
 ## FAQ
 
-**Q: Who plays drums in Slayer?**
-A: Slayer's primary drummer is Dave Lombardo, who co-founded the band in 1981 and played on landmark albums like *Reign in Blood* (1986). Paul Bostaph replaced him twice (1992–2001 and 2013–2019) and recorded the final album *Repentless* (2015). Slayer disbanded in 2019.
+**Q: Who is the drummer for Slayer?**
+A: Slayer's last drummer before the band stopped touring was Paul Bostaph (2013-2019), who played the final show on November 30, 2019, at The Forum in Los Angeles. Founding drummer Dave Lombardo had departed in 2013.
 
-**Q: What drum kit does Dave Lombardo use?**
-A: Dave Lombardo plays Tama Starclassic Maple drums with Tama S.L.P. snare drum and Tama Iron Cobra double pedal.
+**Q: Did Jon Dette drum for Slayer during the 2019 farewell tour?**
+A: No. Jon Dette's Slayer tenure was 1996-1997, filling in between Paul Bostaph's first and second stints. Bostaph took over full-time from 2013 onward and remained through the entire farewell tour, including the final show in 2019.
 
-**Q: What cymbals does Dave Lombardo use?**
-A: Dave Lombardo uses Paiste RUDE and 2002 Series cymbals, known for their loud attack and cutting power.
+**Q: How many times did Dave Lombardo leave and rejoin Slayer?**
+A: Three stints: 1981-1986 (founding period), 1987-1992 (returned, then left in 1992), and 2001-2013 (rejoined for the band's 2000s-era albums, then was fired in February 2013 amid a pay/contract dispute).
 
-**Q: Is Slayer still active?**
-A: No. Slayer disbanded in 2019 after a farewell world tour. Their final studio album was *Repentless* (2015).
+**Q: Who replaced Dave Lombardo when he first left Slayer in 1992?**
+A: Paul Bostaph, formerly of Forbidden, replaced Lombardo directly in 1992, with no documented interim fill-in drummer. Bostaph debuted with Slayer at the 1992 Monsters of Rock festival at Castle Donington.
 
-**Q: What is Slayer's most famous drum part?**
-A: The opening of "Angel of Death" on *Reign in Blood* (1986) is considered one of the greatest drum performances in metal history — Lombardo's blend of blast beats and pounding double bass set the standard for extreme drumming.
+## Sources
+
+- https://en.wikipedia.org/wiki/Slayer
+- https://en.wikipedia.org/wiki/Slayer_discography
+- https://en.wikipedia.org/wiki/Paul_Bostaph
+- https://en.wikipedia.org/wiki/Dave_Lombardo
 
 ---
 
 **Full band profile:** [Slayer on MetalForge](https://metalforge.io/bands/slayer)
 
-**Drummer LLM files:** [Dave Lombardo](https://metalforge.io/llms/drummers/dave-lombardo.md)
+**Drummer LLM file:** [Jon Dette](https://metalforge.io/llms/drummers/jon-dette.md)
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-20 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

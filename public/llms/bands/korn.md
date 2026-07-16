@@ -1,74 +1,81 @@
-# Korn — Drummer & Gear Profile | MetalForge
+# Korn — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Korn. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Korn', 'Ray Luzier drum kit', 'Korn drummer gear setup'.
+> Per-band AI citation reference for Korn: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Korn', 'Ray Luzier Korn', 'Korn band members'.
 
 ## Band Overview
 
-- **Drummers:** David Silveria (1993–2006), Ray Luzier (2007–present)
+- **Drummer:** Ray Luzier (2009-present)
 - **Genre:** Nu Metal, Alternative Metal
-- **Active:** 1993–present
-- **Country:** United States (Bakersfield, California)
 - **Status:** Active
+- **Formed:** 1993
+- **Origin:** Bakersfield, California, USA
 
-## Drummer(s)
+## Summary
 
-**David Silveria** — 1993–2006 (Co-founder)
-David Silveria was Korn's founding drummer and co-founder, helping craft the nu-metal sound across the band's early albums. His groove-heavy, hip-hop-influenced approach anchored Jonathan Davis's vocal style and the downtuned seven-string guitars. He departed in 2006 citing personal reasons and health issues.
+Korn, formed in 1993 in Bakersfield, California, is credited with pioneering the nu-metal genre.
 
-**Ray Luzier** — 2007–present
-Ray Luzier joined Korn as a touring drummer in 2007 following stints as a session player for Army of Anyone and tours with David Lee Roth. He became an official member and has since become one of the most acclaimed active nu-metal drummers — known for his technical fluency, speed, and enthusiastic stage presence. Luzier is an active educator and has produced extensive instructional content.
+## Drummer History
+
+- **David Silveria** — 1993-2006 (Founding member; played on all studio albums from Korn (1994) through See You on the Other Side (2005))
+- **Terry Bozzio** — 2007 (Session drummer for portions of the 2007 self-titled/untitled album, alongside Brooks Wackerman)
+- **Brooks Wackerman** — 2007 (Session drummer for portions of the 2007 self-titled/untitled album, alongside Terry Bozzio)
+- **Joey Jordison** — 2007-2008 (Slipknot drummer, filled in for live shows before Ray Luzier's hiring)
+- **Ray Luzier** — 2009-present (Became full-time official member in 2009; first studio album Korn III: Remember Who You Are (2010))
 
 [Ray Luzier full profile →](https://metalforge.io/drummer/ray-luzier) · [LLM markdown](https://metalforge.io/llms/drummers/ray-luzier.md)
 
-## Kit Overview
+## Current Members
 
-Ray Luzier plays **Pearl Reference Series** drums paired with **Sabian AAX Series** cymbals. His setup is built for both power and versatility.
+- **Jonathan Davis** — vocals — 1993-present (Founding member)
+- **James "Munky" Shaffer** — guitar — 1993-present (Founding member)
+- **Brian "Head" Welch** — guitar — 1993-2005, 2013-present (Left for religious reasons in 2005, rejoined permanently in 2013)
+- **Ray Luzier** — drums — 2007-present (Became full-time member in 2009; recorded first album Korn III: Remember Who You Are (2010))
 
-- **Drums:** Pearl Reference Series
-- **Snare:** Pearl Reference 14×6.5" Brass
-- **Cymbals:** Sabian AAX Series (14" Stage Hi-Hats, 18" & 19" X-Plosion Crashes, 21" Stage Ride, 18" AAXtreme China)
-- **Pedals:** DW 9002 Double Pedal
-- **Throne:** Pearl D-2000 Roadster
+## Former Members
 
-## Signature Sound
+- **David Silveria** — drums — 1993-2006 (Founding member; last album was See You on the Other Side (2005); announced hiatus in December 2006)
+- **Reginald "Fieldy" Arvizu** — bass — 1993-2021 (Founding member; on indefinite hiatus since 2021, has said he does not anticipate returning)
 
-Korn's drumming blends hip-hop-influenced groove with heavy metal aggression — the combination that defined nu-metal in the late 1990s. Silveria's playing on *Korn* (1994) and *Life Is Peachy* (1996) used pocket-heavy grooves and unconventional song structures influenced by funk and hip-hop. Ray Luzier brought elevated technical proficiency to albums like *Korn III: Remember Who You Are* (2010), *The Paradigm Shift* (2013), and *The Nothing* (2019). His double-bass work is fast and controlled, and he incorporates more sophisticated hand technique than Silveria's more raw, instinctive style.
+## Discography
 
-## Albums
-
-| Album | Year | Drummer |
-|---|---|---|
-| Korn | 1994 | David Silveria |
-| Life Is Peachy | 1996 | David Silveria |
-| Follow the Leader | 1998 | David Silveria |
-| Issues | 1999 | David Silveria |
-| Untouchables | 2002 | David Silveria |
-| Take a Look in the Mirror | 2003 | David Silveria |
-| See You on the Other Side | 2005 | David Silveria |
-| Korn III: Remember Who You Are | 2010 | Ray Luzier |
-| The Path of Totality | 2011 | Ray Luzier |
-| The Paradigm Shift | 2013 | Ray Luzier |
-| Serenity of Suffering | 2016 | Ray Luzier |
-| The Nothing | 2019 | Ray Luzier |
-| Requiem | 2022 | Ray Luzier |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| Korn | 1994 | David Silveria | Self-titled debut album |
+| Life Is Peachy | 1996 | David Silveria |  |
+| Follow the Leader | 1998 | David Silveria | Debuted at #1 on the Billboard 200 |
+| Issues | 1999 | David Silveria | Debuted at #1 on the Billboard 200 |
+| Untouchables | 2002 | David Silveria |  |
+| Take a Look in the Mirror | 2003 | David Silveria |  |
+| See You on the Other Side | 2005 | David Silveria | Silveria's final studio album before his 2006 hiatus/departure |
+| Untitled album | 2007 | — | No single official drummer — recorded using session musicians Terry Bozzio and Brooks Wackerman after Silveria's departure; drummer field omitted due to shared/disputed credit |
+| Korn III: Remember Who You Are | 2010 | Ray Luzier | Ray Luzier's first studio album as official drummer |
+| The Path of Totality | 2011 | Ray Luzier | Dubstep-influenced album |
+| The Paradigm Shift | 2013 | Ray Luzier | First album with Brian "Head" Welch since his 2013 return |
+| The Serenity of Suffering | 2016 | Ray Luzier |  |
+| The Nothing | 2019 | Ray Luzier |  |
+| Requiem | 2022 | Ray Luzier |  |
 
 ## FAQ
 
-**Q: Who plays drums in Korn?**
-A: Ray Luzier has been Korn's drummer since 2007. Founding drummer David Silveria was with the band from 1993 to 2006.
+**Q: Who is the drummer for Korn?**
+A: Ray Luzier has been Korn's drummer since 2007, becoming a full-time official member in 2009. His first studio album with the band was Korn III: Remember Who You Are (2010).
 
-**Q: What drum kit does Ray Luzier use?**
-A: Ray Luzier plays Pearl Reference Series drums with a Pearl Reference 14×6.5" brass snare and DW 9002 double pedal.
+**Q: What happened to Korn's original drummer David Silveria?**
+A: Founding drummer David Silveria went on hiatus in December 2006 after touring for See You on the Other Side (2005), and left the band permanently. Korn's 2007 self-titled 'Untitled Album' was recorded using session drummers Terry Bozzio and Brooks Wackerman rather than a single official replacement.
 
-**Q: What cymbals does Ray Luzier use?**
-A: Ray Luzier uses Sabian AAX Series cymbals including AAX Stage Hi-Hats, X-Plosion Crashes, AAX Stage Ride, and AAXtreme China.
+**Q: Was there a drummer between David Silveria and Ray Luzier?**
+A: There was no single permanent replacement. Session players Terry Bozzio and Brooks Wackerman recorded the 2007 self-titled album, and Slipknot's Joey Jordison filled in on tour, before Ray Luzier was hired as the full-time drummer in 2007-2009.
 
-**Q: Did Korn invent nu-metal?**
-A: Korn are widely credited as one of the primary architects of nu-metal. Their 1994 self-titled debut, combining downtuned seven-string guitars, hip-hop rhythms, and emotional vocals, was a defining moment for the genre.
+**Q: Is bassist Fieldy still in Korn?**
+A: Reginald 'Fieldy' Arvizu has been on hiatus from Korn since 2021 and stated in May 2025 that he does not anticipate returning to the band.
 
-**Q: Why did David Silveria leave Korn?**
-A: David Silveria departed Korn in 2006, citing health issues and a desire to focus on personal matters. He has stated he is no longer interested in returning to the band.
+## Sources
+
+- https://en.wikipedia.org/wiki/Korn
+- https://en.wikipedia.org/wiki/Korn_discography
+- https://en.wikipedia.org/wiki/David_Silveria
+- https://en.wikipedia.org/wiki/Untitled_Korn_album
 
 ---
 
@@ -78,4 +85,4 @@ A: David Silveria departed Korn in 2006, citing health issues and a desire to fo
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-20 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

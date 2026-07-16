@@ -1,66 +1,74 @@
-# Cynic — Drummer & Gear Profile | MetalForge
+# Cynic — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Cynic. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Cynic', 'Sean Reinert drum kit', 'Cynic drummer gear'.
+> Per-band AI citation reference for Cynic: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Cynic', 'Michel Belanger Cynic', 'Cynic band members'.
 
 ## Band Overview
 
-- **Drummer:** Sean Reinert (1987–1994, 2006–2017, co-founder)
+- **Drummer:** Michel Belanger (2025-present)
 - **Genre:** Technical Death Metal, Progressive Metal
-- **Active:** 1987–present
-- **Country:** United States (Miami, Florida)
 - **Status:** Active
+- **Formed:** 1987
+- **Origin:** Miami, Florida, USA
 
-## Drummer(s)
+## Summary
 
-**Sean Reinert** — 1987–1994, 2006–2017 (Co-founder)
-Sean Reinert (1971–2020) co-founded Cynic in Miami in 1987 with guitarist/vocalist Paul Masvidal, and also drummed for Chuck Schuldiner's Death, recording the landmark 1991 album *Human* at age 20. His jazz-trained ghost notes, polymetric phrasing, and dynamic control — almost unheard of in death metal before *Human* — are widely credited as the birth of progressive death metal. He brought that same musical vocabulary to Cynic's 1993 masterpiece *Focus*, fusing technical death metal with jazz fusion. Reinert reunited with Cynic in 2006, releasing *Traced in Air* (2008), and passed away on January 24, 2020, one day after his 49th birthday.
+Cynic, formed in 1987 in Miami, Florida, fused technical death metal with jazz fusion, most notably on their 1993 landmark album Focus.
 
-[Sean Reinert full profile →](https://metalforge.io/drummer/sean-reinert) · [LLM markdown](https://metalforge.io/llms/drummers/sean-reinert.md)
+## Drummer History
 
-## Kit Overview
+- **Sean Reinert** — 1987-1994, 2006-2015 (Drummer and co-founder; died January 2020 at age 48)
+- **Matt Lynch** — 2015-2025 (Joined September 2015, recorded Ascension Codes; left May 2025 after 10 years)
+- **Michel Belanger** — 2025-present (Also drummer for Gorguts; joined May 2025)
 
-Sean Reinert played a **DW Collector's Series** maple shell kit throughout his tenure in Death and on Cynic's *Focus*, its warm, open tone giving his ghost-note-driven playing a resonance rarely heard in early-1990s death metal production.
+[Michel Belanger full profile →](https://metalforge.io/drummer/michel-belanger) · [LLM markdown](https://metalforge.io/llms/drummers/michel-belanger.md)
 
-- **Drums:** DW Collector's Series Maple (22" kick, 10"/12"/13"/14"/16" toms)
-- **Snare:** DW Collector's 14×5.5" Maple (die-cast hoops)
-- **Cymbals:** Zildjian K Series (upgraded to K Custom for Cynic's 2008 reunion album *Traced in Air*)
-- **Pedals:** DW 5000 Single-Chain Double Pedal
-- **Sticks:** Vic Firth American Classic 5A
+## Current Members
 
-## Signature Sound
+- **Paul Masvidal** — guitar, keyboards, vocals — 1987-present (Founding member)
+- **Mike Gilbert** — guitar — 2024-present
+- **Brandon Giffin** — bass — 2011-2014, 2022-present
+- **Michel Bélanger** — drums — 2025-present (Also drummer for Gorguts; joined May 2025 after Matt Lynch's departure, debuted at Maryland Deathfest)
 
-Sean Reinert's drumming fused jazz-informed technique with death metal power at a moment when the genre was defined almost entirely by blast-beat velocity. On Cynic's *Focus* (1993), he applied polymetric phrasing and a ghost-note vocabulary borrowed directly from jazz drumming, treating technicality as a tool to serve the compositions rather than a display of raw speed. That approach — first proven on Death's *Human* (1991) — made *Focus* a landmark jazz-fusion death metal album and established Reinert as one of the most influential drummers in extreme metal history.
+## Former Members
 
-## Albums
+- **Sean Reinert** — drums — 1987-1994, 2006-2015 (Co-founder; drummer on Focus, Traced in Air, and Kindly Bent to Free Us. Died unexpectedly in January 2020 at age 48.)
+- **Matt Lynch** — drums — 2015-2025 (Joined September 2015 after Reinert's exit; recorded Ascension Codes (2021); left the band in May 2025 after 10 years)
 
-| Album | Year | Drummer |
-|---|---|---|
-| Focus | 1993 | Sean Reinert |
-| Traced in Air | 2008 | Sean Reinert |
+## Discography
+
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| Focus | 1993 | Sean Reinert |  |
+| Traced in Air | 2008 | Sean Reinert |  |
+| Kindly Bent to Free Us | 2014 | Sean Reinert |  |
+| Ascension Codes | 2021 | Matt Lynch |  |
 
 ## FAQ
 
-**Q: Who plays drums in Cynic?**
-A: Sean Reinert co-founded Cynic in 1987 and drummed for the band across two stints (1987–1994, 2006–2017), including on the landmark album *Focus* (1993).
+**Q: Who is the drummer for Cynic?**
+A: Michel Bélanger, also known as the drummer for Gorguts, has drummed for Cynic since May 2025, when he replaced Matt Lynch.
 
-**Q: What drum kit did Sean Reinert use?**
-A: Sean Reinert played a DW Collector's Series maple shell kit with a 14×5.5" maple snare, Zildjian K Series cymbals, and a DW 5000 double pedal.
+**Q: Is Cynic still active after Sean Reinert's death?**
+A: Yes. Founding drummer Sean Reinert died unexpectedly in January 2020, but Cynic, led by co-founder Paul Masvidal, has remained active with successive drummers Matt Lynch (2015-2025) and now Michel Bélanger (2025-present).
 
-**Q: Did Sean Reinert play in Death?**
-A: Yes. Sean Reinert drummed for Chuck Schuldiner's Death from 1990–1992, recording the landmark 1991 album *Human* at age 20, before returning his focus to Cynic.
+**Q: Who drummed on Cynic's landmark album Focus?**
+A: Sean Reinert, who co-founded Cynic with Paul Masvidal in 1987, drummed on the band's influential 1993 debut Focus, widely credited as a foundational album of technical/progressive death metal.
 
-**Q: When did Sean Reinert die?**
-A: Sean Reinert passed away on January 24, 2020, one day after his 49th birthday.
+**Q: Who replaced Sean Reinert when he left Cynic?**
+A: Matt Lynch, formerly of Trioscapes, first filled in for Cynic in October 2015 and became the band's primary drummer, recording the 2021 album Ascension Codes before departing in May 2025.
 
-**Q: What made Sean Reinert's drumming style unique?**
-A: Sean Reinert brought jazz-trained ghost notes, dynamic control, and polymetric phrasing into death metal drumming — elements almost unheard of in the genre before his work on *Human* (1991) and Cynic's *Focus* (1993).
+## Sources
+
+- https://en.wikipedia.org/wiki/Cynic_(band)
+- https://en.wikipedia.org/wiki/List_of_Cynic_band_members
+- https://blabbermouth.net/news/cynic-parts-ways-with-drummer-matt-lynch-recruits-gorguts-michel-belanger
 
 ---
 
 **Full band profile:** [Cynic on MetalForge](https://metalforge.io/bands/cynic)
 
-**Drummer LLM file:** [Sean Reinert](https://metalforge.io/llms/drummers/sean-reinert.md)
+**Drummer LLM file:** [Michel Belanger](https://metalforge.io/llms/drummers/michel-belanger.md)
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 

@@ -1,84 +1,114 @@
-# Suicidal Tendencies — Drummer & Gear Profile | MetalForge
+# Suicidal Tendencies — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Suicidal Tendencies. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Suicidal Tendencies', 'Dave Lombardo Suicidal Tendencies', 'Suicidal Tendencies drummer gear'.
+> Per-band AI citation reference for Suicidal Tendencies: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Suicidal Tendencies', 'Xavier Ware Suicidal Tendencies', 'Suicidal Tendencies band members'.
 
 ## Band Overview
 
-- **Drummers:** Dave Lombardo (2016–present), Jay Weinberg (2023–present, touring)
-- **Genre:** Crossover Thrash, Hardcore Punk, Thrash Metal, Funk Metal
-- **Active:** 1980–present
-- **Country:** United States (Venice, California)
+- **Drummer:** Xavier Ware (2026-present)
+- **Genre:** Crossover Thrash, Hardcore Punk, Thrash Metal
 - **Status:** Active
+- **Formed:** 1980
+- **Origin:** Venice, California, USA
 
-## Drummer(s)
+## Summary
 
-Suicidal Tendencies has had numerous drummers throughout its long history, given the band's sporadic hiatuses and lineup changes. The most notable current and recent drummers are:
+Suicidal Tendencies, formed in 1980, pioneered the crossover thrash genre.
 
-**Dave Lombardo** — 2016–present
-Dave Lombardo, the legendary co-founding drummer of Slayer, joined Suicidal Tendencies in 2016. His extreme metal experience and precision bring a new level of power to Mike Muir's crossover thrash compositions. Lombardo's involvement has been a significant factor in the band's continued credibility within the metal community.
+## Drummer History
 
-[Dave Lombardo full profile →](https://metalforge.io/drummer/dave-lombardo) · [LLM markdown](https://metalforge.io/llms/drummers/dave-lombardo.md)
+- **Carlos Egert** — 1980-1981 (Founding drummer; left after the band's first demo)
+- **Sean Dunnigan** — 1981-1982 (Replaced Egert)
+- **Amery Smith** — 1982-1984 (Drummer on the self-titled 1983 debut album)
+- **Rj Herrera** — 1984-1991 (Drummer through the classic thrash-crossover era (Join the Army through Lights...Camera...Revolution!))
+- **Josh Freese** — 1991-1992 (Session drummer on The Art of Rebellion)
+- **Jimmy Degrasso** — 1992-1995 (Took over full-time after The Art of Rebellion tour)
+- **Brooks Wackerman** — 1996-2001 (Rejoined from Infectious Grooves during reformation)
+- **Ronald Bruner Jr** — 2001-2008 (Full-time initially, then shared duties with David Hidalgo Jr. from 2002)
+- **David Hidalgo Jr** — 2002-2008 (Shared drumming duties with Ronald Bruner Jr.)
+- **Eric Moore** — 2008-2016 (Full-time drummer from October 2008)
+- **Thomas Pridgen** — 2014 (Brief six-month tenure)
+- **Dave Lombardo** — 2016-2021 (Former Slayer drummer)
+- **Brandon Pertzborn** — 2021-2023 (Replaced Lombardo; later joined The Offspring)
+- **Greyson Nekrutman** — 2023-2024 (Replaced Pertzborn; later joined Sepultura)
+- **Jay Weinberg** — 2024-2026 (Former Slipknot drummer; departed January 2026)
+- **Xavier Ware** — 2026-present (Announced as new drummer January 2026)
 
-**Jay Weinberg** — 2023–present (touring)
-Jay Weinberg, following his departure from Slipknot in 2023, joined Suicidal Tendencies as a touring drummer. His technical proficiency and high-energy performing style make him a natural fit for the band's intense live shows.
+[Xavier Ware full profile →](https://metalforge.io/drummer/xavier-ware) · [LLM markdown](https://metalforge.io/llms/drummers/xavier-ware.md)
 
-[Jay Weinberg full profile →](https://metalforge.io/drummer/jay-weinberg) · [LLM markdown](https://metalforge.io/llms/drummers/jay-weinberg.md)
+## Current Members
 
-**Other notable drummers in ST history:** R.J. Herrera (original, 1980–1995), Brooks Wackerman (1995–2003), Eric Moore, and others.
+- **Mike Muir** — lead vocals — 1980-1995, 1996-present (Founding member)
+- **Dean Pleasants** — lead guitar, backing vocals — 1996-present
+- **Ben Weinman** — rhythm guitar, backing vocals — 2018-present (Former Dillinger Escape Plan guitarist)
+- **Tye Trujillo** — bass — 2021-present (Son of Metallica bassist Robert Trujillo)
+- **Xavier Ware** — drums — 2026-present (Announced January 2026 as replacement for Jay Weinberg)
 
-## Kit Overview
+## Former Members
 
-Dave Lombardo's current Suicidal Tendencies setup uses **Tama Starclassic Maple** shells with **Paiste RUDE & 2002 Series** cymbals — the same high-volume, aggressive setup he developed during his Slayer years.
+- **Robert Trujillo** — bass — 1989-1995 (Later joined Metallica)
+- **Rocky George** — lead guitar — 1983-1994
+- **Mike Clark** — rhythm guitar — 1983-1994
+- **Carlos Egert** — drums — 1980-1981 (Founding drummer; left after the band's first demo recording)
+- **Sean Dunnigan** — drums — 1981-1982 (Replaced Egert)
+- **Amery Smith** — drums — 1982-1984 (Drummer on the self-titled 1983 debut album)
+- **R.J. Herrera** — drums — 1984-1991 (Drummer through the band's classic thrash-crossover era; left in late 1991)
+- **Josh Freese** — drums (session) — 1991-1992 (Session drummer on The Art of Rebellion, filling in for the departed Herrera)
+- **Jimmy DeGrasso** — drums — 1992-1995 (Took over full-time after The Art of Rebellion tour began)
+- **Brooks Wackerman** — drums — 1996-2001 (Rejoined from Infectious Grooves during the band's late-90s reformation)
+- **Ronald Bruner Jr.** — drums — 2001-2008 (Full-time initially, then shared duties with David Hidalgo Jr. from 2002)
+- **David Hidalgo Jr.** — drums — 2002-2008 (Shared drumming duties with Ronald Bruner Jr.)
+- **Eric Moore** — drums — 2008-2016 (Became full-time drummer in October 2008)
+- **Thomas Pridgen** — drums — 2014 (Brief tenure before joining Chiodos)
+- **Dave Lombardo** — drums — 2016-2021 (Former Slayer drummer; drummer on World Gone Mad (2016) and Still Cyco Punk After All These Years (2018))
+- **Brandon Pertzborn** — drums — 2021-2023 (Replaced Lombardo; later joined The Offspring)
+- **Greyson Nekrutman** — drums — 2023-2024 (Replaced Pertzborn; later joined Sepultura)
+- **Jay Weinberg** — drums — 2024-2026 (Former Slipknot drummer; departed January 2026 citing the birth of his first child and other music projects)
 
-- **Drums:** Tama Starclassic Maple
-- **Snare:** Tama S.L.P. 14×6.5" G-Maple
-- **Cymbals:** Paiste RUDE & 2002 Series (15" Sound Edge Hi-Hats, 18" & 19" Crashes, 22" Reign Power Ride, 18" China)
-- **Pedals:** Tama Iron Cobra 900 Double Pedal
-- **Throne:** Tama 1st Chair
+## Discography
 
-## Signature Sound
-
-Suicidal Tendencies pioneered crossover thrash — a genre that fuses hardcore punk's energy and tempo with heavy metal's riff vocabulary. Mike Muir's songwriting draws on hardcore punk, thrash metal, and funk, demanding drummers who can shift seamlessly between styles. The original drummer R.J. Herrera defined the band's classic sound on the self-titled debut (1983) and *Join the Army* (1987). Dave Lombardo brings extreme metal velocity and precision. The influence of ST's rhythm section on bands like Pantera (who cite them as major influences), D.R.I., and the entire crossover thrash genre is enormous. Songs like "Institutionalized" and "War Inside My Head" are crossover classics.
-
-## Albums
-
-| Album | Year | Notable Drummer |
-|---|---|---|
-| Suicidal Tendencies | 1983 | R.J. Herrera |
-| Join the Army | 1987 | R.J. Herrera |
-| How Will I Laugh Tomorrow... | 1988 | R.J. Herrera |
-| Controlled by Hatred / Feel Like Shit...Déjà Vu | 1989 | R.J. Herrera |
-| Lights...Camera...Revolution! | 1990 | R.J. Herrera |
-| The Art of Rebellion | 1992 | R.J. Herrera |
-| Still Cyco After All These Years | 1993 | R.J. Herrera |
-| Suicidal for Life | 1994 | R.J. Herrera |
-| Six the Hard Way | 2010 | Eric Moore |
-| World Gone Mad | 2016 | Dave Lombardo |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| Suicidal Tendencies | 1983 | Amery Smith | Debut album |
+| Join the Army | 1987 | Rj Herrera |  |
+| How Will I Laugh Tomorrow When I Can't Even Smile Today | 1988 | Rj Herrera |  |
+| Controlled by Hatred/Feel Like Shit...Deja Vu | 1989 | Rj Herrera | Herrera was the band's drummer at the time of this release, though exact per-track session credits were not independently confirmed |
+| Lights...Camera...Revolution! | 1990 | Rj Herrera |  |
+| The Art of Rebellion | 1992 | Josh Freese | Recorded without an official drummer; session drummer Josh Freese filled in after R.J. Herrera's departure |
+| Suicidal for Life | 1994 | Jimmy Degrasso | Only Suicidal Tendencies album to feature Jimmy DeGrasso |
+| Freedumb | 1999 | Brooks Wackerman |  |
+| Free Your Soul and Save My Mind | 2000 | Brooks Wackerman |  |
+| No Mercy Fool!/The Suicidal Family | 2010 | Eric Moore |  |
+| 13 | 2013 | Eric Moore |  |
+| World Gone Mad | 2016 | Dave Lombardo |  |
 
 ## FAQ
 
-**Q: Who plays drums in Suicidal Tendencies?**
-A: Dave Lombardo (ex-Slayer) joined Suicidal Tendencies in 2016 and is the primary drummer. Jay Weinberg (ex-Slipknot) has also joined as a touring drummer since 2023.
+**Q: Who is the drummer for Suicidal Tendencies?**
+A: Xavier Ware became Suicidal Tendencies' drummer in January 2026, replacing Jay Weinberg. Ware also played drums on frontman Mike Muir's Cyco Miko solo album.
 
-**Q: What drum kit does Dave Lombardo use with Suicidal Tendencies?**
-A: Dave Lombardo plays Tama Starclassic Maple drums with Paiste RUDE and 2002 Series cymbals and Tama Iron Cobra 900 double pedal.
+**Q: Has Suicidal Tendencies had many drummers?**
+A: Yes — Suicidal Tendencies has had one of the most extensive drummer successions in metal/hardcore, with well over a dozen drummers since forming in 1980, including Amery Smith, R.J. Herrera, Jimmy DeGrasso, Brooks Wackerman, Eric Moore, Dave Lombardo, and Jay Weinberg.
 
-**Q: What cymbals does Dave Lombardo use?**
-A: Dave Lombardo uses Paiste RUDE and 2002 Series cymbals, including 15" Sound Edge Hi-Hats and 22" Reign Power Ride.
+**Q: Did Dave Lombardo and Jay Weinberg overlap as Suicidal Tendencies' drummer?**
+A: No, they did not overlap. Dave Lombardo (formerly of Slayer) drummed from 2016 to 2021. He was followed by Brandon Pertzborn (2021-2023) and Greyson Nekrutman (2023-2024) before Jay Weinberg (formerly of Slipknot) took over in 2024.
 
-**Q: Who was the original drummer of Suicidal Tendencies?**
-A: R.J. Herrera was the original drummer, playing on the self-titled debut (1983) and the band's classic early albums through *Suicidal for Life* (1994).
+**Q: Who drummed on Suicidal Tendencies' classic late-1980s albums?**
+A: R.J. Herrera drummed on Join the Army (1987), How Will I Laugh Tomorrow When I Can't Even Smile Today (1988), and Lights...Camera...Revolution! (1990), helping define the band's transition from hardcore punk to crossover thrash.
 
-**Q: What genre is Suicidal Tendencies?**
-A: Suicidal Tendencies plays crossover thrash — a hybrid of hardcore punk and thrash metal. They also incorporate funk metal, speed metal, and alternative metal across their discography.
+## Sources
+
+- https://en.wikipedia.org/wiki/List_of_Suicidal_Tendencies_band_members
+- https://en.wikipedia.org/wiki/Suicidal_Tendencies
+- https://en.wikipedia.org/wiki/The_Art_of_Rebellion
+- https://consequence.net/2026/01/suicidal-tendencies-new-drummer-xavier-ware/
 
 ---
 
 **Full band profile:** [Suicidal Tendencies on MetalForge](https://metalforge.io/bands/suicidal-tendencies)
 
-**Drummer LLM files:** [Dave Lombardo](https://metalforge.io/llms/drummers/dave-lombardo.md) · [Jay Weinberg](https://metalforge.io/llms/drummers/jay-weinberg.md)
+**Drummer LLM file:** [Xavier Ware](https://metalforge.io/llms/drummers/xavier-ware.md)
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-20 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

@@ -1,77 +1,86 @@
-# Morbid Angel — Drummer & Gear Profile | MetalForge
+# Morbid Angel — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Morbid Angel. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Morbid Angel', 'Pete Sandoval drum kit', 'Morbid Angel drummer gear'.
+> Per-band AI citation reference for Morbid Angel: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Morbid Angel', 'Charlie Koryn Morbid Angel', 'Morbid Angel band members'.
 
 ## Band Overview
 
-- **Drummers:** Pete Sandoval (1988–2013), Tim Yeung (2004–2015)
+- **Drummer:** Charlie Koryn (2023-present)
 - **Genre:** Death Metal
-- **Active:** 1983–present
-- **Country:** United States (Tampa, Florida)
 - **Status:** Active
+- **Formed:** 1983
+- **Origin:** Tampa, Florida, USA
 
-## Drummer(s)
+## Summary
 
-**Pete Sandoval** — 1988–2013
-Pete Sandoval, nicknamed "Commando" and "Pete the Feet," is widely regarded as one of the most influential figures in extreme metal. His pioneering blast-beat and gravity-blast techniques on *Altars of Madness* (1989) revolutionized death metal drumming and set new standards for speed and endurance that shaped every extreme metal drummer who followed. He also co-founded grindcore band Terrorizer.
+Morbid Angel, formed in 1983 in Tampa, Florida, is one of the founding bands of death metal.
 
-[Pete Sandoval full profile →](https://metalforge.io/drummer/pete-sandoval) · [LLM markdown](https://metalforge.io/llms/drummers/pete-sandoval.md)
+## Drummer History
 
-**Tim Yeung** — 2004–2015
-Tim Yeung joined Morbid Angel following Pete Sandoval's health issues, bringing his own extreme speed and machine-like consistency honed with Hate Eternal, Vital Remains, and Divine Heresy. He recorded *Illud Divinum Insanus* (2011) with the band.
+- **Mike Browning** — 1983-1986 (Co-founder; drums and vocals on demos and Abominations of Desolation (recorded 1986). Died July 13, 2026.)
+- **Wayne Hartsell** — 1986-1988 (Drummer on the Thy Kingdom Come demo (1987))
+- **Pete Sandoval** — 1988-2010 (Joined July 1988; recorded Altars of Madness through Heretic; also co-founder of Terrorizer)
+- **Tim Yeung** — 2010-2015 (Filled in after Sandoval's back surgery; recorded Illud Divinum Insanus; also played in Vital Remains and Hate Eternal)
+- **Scott Fuller** — 2017-2023 (Recorded Kingdoms Disdained)
+- **Charlie Koryn** — 2023-present (Joined for 2023 spring American tour)
 
-[Tim Yeung full profile →](https://metalforge.io/drummer/tim-yeung) · [LLM markdown](https://metalforge.io/llms/drummers/tim-yeung.md)
+[Charlie Koryn full profile →](https://metalforge.io/drummer/charlie-koryn) · [LLM markdown](https://metalforge.io/llms/drummers/charlie-koryn.md)
 
-## Kit Overview
+## Current Members
 
-Pete Sandoval's kit is a **ddrum Dios Series** shell pack built around a 14×6.5" maple snare, driven by a ddrum Mercury double pedal that powered his pioneering blast-beat technique.
+- **Trey Azagthoth** — guitars, keyboards — 1983-present (Founding member, sole constant member)
+- **Steve Tucker** — bass, vocals — 1996-2004, 2015-present
+- **Dan Vadim Von** — guitars — 2022-present
+- **Charlie Koryn** — drums — 2023-present (Joined for the band's 2023 spring American tour)
 
-- **Drums (Sandoval):** ddrum Dios Series
-- **Snare (Sandoval):** ddrum Dios 14×6.5" Maple
-- **Cymbals (Sandoval):** Sabian AAX Series (14" Stage Hi-Hats, 18"/19" X-Plosion Crashes, 20" Stage Ride, 18" Chinese)
-- **Pedals (Sandoval):** ddrum Mercury Double Pedal
-- **Drums (Yeung):** Tama Starclassic Bubinga
-- **Snare (Yeung):** Tama S.L.P. Big Black Steel 14×6.5"
-- **Cymbals (Yeung):** Sabian AAX and HHX Series
+## Former Members
 
-## Signature Sound
+- **Mike Browning** — drums, vocals — 1983-1986 (Co-founder; drummed on demos and Abominations of Desolation (recorded 1986, released 1991). Died July 13, 2026, at age 62.)
+- **Wayne Hartsell** — drums — 1986-1988 (Drummer on Thy Kingdom Come demo (1987))
+- **Pete Sandoval** — drums — 1988-2010 (Joined July 1988; recorded Altars of Madness through Heretic; sidelined by back surgery in 2010; also co-founder of Terrorizer)
+- **Tim Yeung** — drums — 2010-2015 (Stepped in after Sandoval's 2010 back surgery; recorded all drums on Illud Divinum Insanus (2011); also played in Vital Remains and Hate Eternal)
+- **Scott Fuller** — drums — 2017-2023 (Recorded Kingdoms Disdained (2017))
 
-Morbid Angel's drumming defined the sound of death metal's founding era. Pete Sandoval's work on *Altars of Madness* (1989) is a benchmark for the genre — sustained blast beats and driving double bass at speeds that seemed physically impossible before his emergence, developed specifically for Morbid Angel after he had never played double bass drums before joining. Tim Yeung's tenure carried that extreme-speed lineage forward through the band's more controversial, industrial-tinged *Illud Divinum Insanus* (2011) era.
+## Discography
 
-## Albums
-
-| Album | Year | Drummer |
-|---|---|---|
-| Altars of Madness | 1989 | Pete Sandoval |
-| Blessed Are the Sick | 1991 | Pete Sandoval |
-| Covenant | 1993 | Pete Sandoval |
-| Domination | 1995 | Pete Sandoval |
-| Gateways to Annihilation | 2000 | Pete Sandoval |
-| Illud Divinum Insanus | 2011 | Tim Yeung |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| Altars of Madness | 1989 | Pete Sandoval | Sandoval's first recording with the band, completed within months of joining in July 1988 |
+| Blessed Are the Sick | 1991 | Pete Sandoval |  |
+| Covenant | 1993 | Pete Sandoval |  |
+| Domination | 1995 | Pete Sandoval |  |
+| Formulas Fatal to the Flesh | 1998 | Pete Sandoval |  |
+| Gateways to Annihilation | 2000 | Pete Sandoval |  |
+| Heretic | 2003 | Pete Sandoval |  |
+| Illud Divinum Insanus | 2011 | Tim Yeung | Sandoval was recovering from back surgery; Yeung recorded all drums |
+| Kingdoms Disdained | 2017 | Scott Fuller | Return to traditional death metal sound |
 
 ## FAQ
 
-**Q: Who plays drums in Morbid Angel?**
-A: Pete Sandoval drummed for Morbid Angel from 1988 to 2013, the era covering nearly all the band's classic albums. Tim Yeung recorded 2011's *Illud Divinum Insanus* after joining in 2004 following Sandoval's health issues.
+**Q: Who is the drummer for Morbid Angel?**
+A: Charlie Koryn has drummed with Morbid Angel since joining for their 2023 spring American tour, following Scott Fuller's departure.
 
-**Q: What drum kit did Pete Sandoval use?**
-A: Pete Sandoval played a ddrum Dios Series kit with a 14×6.5" maple snare, Sabian AAX cymbals, and a ddrum Mercury double pedal.
+**Q: Who drummed on Morbid Angel's classic album Altars of Madness?**
+A: Pete Sandoval, who joined the band in July 1988, recorded Altars of Madness (1989) within a couple months of joining -- his first Morbid Angel recording, despite never having played double bass drums before.
 
-**Q: What is Pete Sandoval's gravity blast technique?**
-A: Pete Sandoval pioneered the gravity blast, a one-handed blast-beat technique using the rebound of the stick off the drumhead to generate extreme speed — a signature approach that set the template for death metal drumming after *Altars of Madness* (1989).
+**Q: Did Pete Sandoval play on Illud Divinum Insanus?**
+A: No. Sandoval was recovering from prolapsed disc surgery in 2010, so Tim Yeung (formerly of Hate Eternal) recorded all the drum tracks for Illud Divinum Insanus (2011), making it the first Morbid Angel album without Sandoval since he joined in 1988.
 
-**Q: What drum kit does Tim Yeung use?**
-A: Tim Yeung plays a Tama Starclassic Bubinga kit with a Tama S.L.P. Big Black Steel 14×6.5" snare and Sabian AAX/HHX cymbals.
+**Q: Who was Morbid Angel's original drummer?**
+A: Mike Browning, who co-founded the band with guitarist Trey Azagthoth in 1983, was the original drummer (and vocalist), playing from 1984 to 1986 and recording Abominations of Desolation before departing. Browning died on July 13, 2026, at age 62.
 
-**Q: Why did Tim Yeung join Morbid Angel?**
-A: Tim Yeung replaced Pete Sandoval in 2004 following Sandoval's back injury and subsequent surgery.
+## Sources
+
+- https://en.wikipedia.org/wiki/Morbid_Angel
+- https://en.wikipedia.org/wiki/List_of_Morbid_Angel_members
+- https://en.wikipedia.org/wiki/Illud_Divinum_Insanus
+- https://en.wikipedia.org/wiki/Mike_Browning
 
 ---
 
 **Full band profile:** [Morbid Angel on MetalForge](https://metalforge.io/bands/morbid-angel)
 
-**Drummer LLM files:** [Pete Sandoval](https://metalforge.io/llms/drummers/pete-sandoval.md) · [Tim Yeung](https://metalforge.io/llms/drummers/tim-yeung.md)
+**Drummer LLM file:** [Charlie Koryn](https://metalforge.io/llms/drummers/charlie-koryn.md)
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 

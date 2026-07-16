@@ -1,64 +1,72 @@
-# Mastodon — Drummer & Gear Profile | MetalForge
+# Mastodon — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Mastodon. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Mastodon', 'Brann Dailor drum kit', 'Mastodon drummer gear'.
+> Per-band AI citation reference for Mastodon: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Mastodon', 'Brann Dailor Mastodon', 'Mastodon band members'.
 
 ## Band Overview
 
-- **Drummer:** Brann Dailor (2000–present)
+- **Drummer:** Brann Dailor (2000-present)
 - **Genre:** Progressive Metal, Sludge Metal
-- **Active:** 2000–present
-- **Country:** United States (Atlanta, Georgia)
 - **Status:** Active
+- **Formed:** 2000
+- **Origin:** Atlanta, Georgia, USA
 
-## Drummer(s)
+## Summary
 
-**Brann Dailor** — 2000–present
-Brann Dailor co-founded Mastodon in 2000 with guitarist Bill Kelliher, his longtime collaborator from their earlier bands Lethargy and Today Is the Day. His "lead drums" philosophy treats the kit as a melodic instrument, weaving intricate, constantly evolving fills around the riffs rather than simply keeping time — a style that has influenced a generation of metal drummers. Dailor has also become one of Mastodon's primary vocalists, singing lead on several tracks, and the band won a Grammy for Best Metal Performance in 2017 for "Sultan's Curse."
+Mastodon, formed in 2000 in Atlanta, Georgia, blends sludge metal heaviness with progressive rock complexity.
+
+## Drummer History
+
+- **Brann Dailor** — 2000-present (Founding member, sole drummer throughout the band's history; also handles vocals)
 
 [Brann Dailor full profile →](https://metalforge.io/drummer/brann-dailor) · [LLM markdown](https://metalforge.io/llms/drummers/brann-dailor.md)
 
-## Kit Overview
+## Current Members
 
-Brann Dailor plays a **Tama Starclassic Performer B/B** (birch/bubinga) kit, prized for its warm, focused attack that complements Mastodon's dense, riff-driven arrangements.
+- **Brann Dailor** — drums, percussion, vocals — 2000-present (Founding member, also handles vocals)
+- **Bill Kelliher** — rhythm guitar, backing vocals — 2000-present (Founding member)
+- **Troy Sanders** — bass, lead and backing vocals — 2000-present (Founding member)
+- **Nick Johnston** — lead guitar, backing vocals — 2025-present (Joined the recording lineup following Brent Hinds' departure)
+- **João Nogueira** — keyboards, synthesizers — 2025-present
 
-- **Drums:** Tama Starclassic Performer B/B
-- **Snare:** Tama S.L.P. G-Maple 14×6.5"
-- **Cymbals:** Meinl Byzance Series (14" Dark Hi-Hats, 18"/19" Brilliant Heavy Hammered Crashes, 21" Ghost Ride, 18" Extra Dry China)
-- **Pedals:** Tama Speed Cobra Double Pedal
-- **Hardware:** Tama Iron Cobra Lever Glide Hi-Hat Stand, Tama 1st Chair Ergo-Rider Throne
+## Former Members
 
-## Signature Sound
+- **Brent Hinds** — lead guitar, vocals — 2000-2025 (Founding member; departed by mutual decision in March 2025; died in a motorcycle accident on August 20, 2025)
+- **Eric Saner** — lead vocals — 2000 (Very early, brief member)
 
-Mastodon's drumming defies conventional metal norms. Rather than locking into static patterns, Brann Dailor's style features constantly evolving fills and melodic tom work that flows through songs like a lead instrument, drawing on progressive rock influences like Neil Peart and Bill Bruford. His playing on the Moby-Dick-inspired concept album *Leviathan* (2004) and the widely acclaimed *Crack the Skye* (2009) showcases both technical complexity and genuine emotional weight, cementing Mastodon's reputation as one of modern metal's most inventive rhythm sections.
+## Discography
 
-## Albums
-
-| Album | Year | Drummer |
-|---|---|---|
-| Remission | 2002 | Brann Dailor |
-| Leviathan | 2004 | Brann Dailor |
-| Blood Mountain | 2006 | Brann Dailor |
-| Crack the Skye | 2009 | Brann Dailor |
-| Emperor of Sand | 2017 | Brann Dailor |
-| Hushed and Grim | 2021 | Brann Dailor |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| Remission | 2002 | Brann Dailor |  |
+| Leviathan | 2004 | Brann Dailor |  |
+| Blood Mountain | 2006 | Brann Dailor |  |
+| Crack the Skye | 2009 | Brann Dailor |  |
+| The Hunter | 2011 | Brann Dailor |  |
+| Once More 'Round the Sun | 2014 | Brann Dailor |  |
+| Emperor of Sand | 2017 | Brann Dailor |  |
+| Hushed and Grim | 2021 | Brann Dailor |  |
+| Marrow Deep | 2026 | Brann Dailor | First album following the departure and death of founding guitarist Brent Hinds; features new guitarist Nick Johnston |
 
 ## FAQ
 
-**Q: Who plays drums in Mastodon?**
-A: Brann Dailor has been Mastodon's drummer since co-founding the band in 2000, and he also serves as a co-lead vocalist.
+**Q: Who is the drummer for Mastodon?**
+A: Brann Dailor has been Mastodon's sole drummer since the band's formation in January 2000; he also contributes lead and backing vocals.
 
-**Q: What drum kit does Brann Dailor use?**
-A: Brann Dailor plays a Tama Starclassic Performer B/B kit with a Tama S.L.P. G-Maple 14×6.5" snare, Meinl Byzance cymbals, and a Tama Speed Cobra double pedal.
+**Q: Did Mastodon ever change drummers?**
+A: No. Unlike many of their peers, Mastodon has had the same drummer, Brann Dailor, for their entire history since forming in 2000.
 
-**Q: Does Brann Dailor sing in Mastodon?**
-A: Yes. Beyond drumming, Brann Dailor has become one of Mastodon's primary vocalists, singing lead on several tracks including "Oblivion" and "Show Yourself."
+**Q: What happened to founding guitarist Brent Hinds?**
+A: Brent Hinds departed Mastodon by mutual decision in March 2025. He died in a motorcycle accident in Atlanta on August 20, 2025, at age 51.
 
-**Q: What is Brann Dailor's "lead drums" approach?**
-A: Rather than keeping static time, Dailor treats the drum kit as a melodic instrument, with constantly evolving fills and rhythmic variations that flow around the guitar riffs.
+**Q: What genre is Mastodon known for?**
+A: Mastodon blends progressive metal, sludge metal, and heavy metal, evolving from the sludgier sound of early albums like Remission (2002) toward the more progressive, melodic style of later records like Crack the Skye (2009).
 
-**Q: Did Mastodon win a Grammy?**
-A: Yes. Mastodon won the Grammy for Best Metal Performance in 2017 for "Sultan's Curse," from *Emperor of Sand*.
+## Sources
+
+- https://en.wikipedia.org/wiki/Mastodon_(band)
+- https://en.wikipedia.org/wiki/Marrow_Deep
+- https://en.wikipedia.org/wiki/Brent_Hinds
 
 ---
 

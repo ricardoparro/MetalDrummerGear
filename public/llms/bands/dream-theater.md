@@ -1,89 +1,91 @@
-# Dream Theater — Drummer & Gear Profile | MetalForge
+# Dream Theater — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Dream Theater. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Dream Theater', 'Mike Portnoy drum kit', 'Dream Theater drummer gear'.
+> Per-band AI citation reference for Dream Theater: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Dream Theater', 'Mike Portnoy Dream Theater', 'Dream Theater band members'.
 
 ## Band Overview
 
-- **Drummers:** Mike Portnoy (1985–2010, 2023–present), Mike Mangini (2010–2023)
+- **Drummer:** Mike Portnoy (2023-present)
 - **Genre:** Progressive Metal, Progressive Rock
-- **Active:** 1985–present
-- **Country:** United States (Boston, Massachusetts)
 - **Status:** Active
+- **Formed:** 1985
+- **Origin:** Boston, Massachusetts, USA
 
-## Drummer(s)
+## Summary
 
-**Mike Portnoy** — 1985–2010, 2023–present (Co-founder)
-Mike Portnoy co-founded Dream Theater and is widely regarded as one of the greatest progressive metal drummers in history. He left the band in 2010 to pursue other projects (Winery Dogs, Sons of Apollo, Transatlantic) before returning in 2023. His enormous kit setups, sophisticated multi-time-signature compositions, and expressive playing define Dream Theater's classic sound. He has won the Modern Drummer Readers Poll award numerous times.
+Dream Theater, formed in 1985, defined progressive metal with virtuosic musicianship.
+
+## Drummer History
+
+- **Mike Portnoy** — 1985-2010 (Co-founder, played on all albums from When Dream and Day Unite (1989) through Black Clouds & Silver Linings (2009))
+- **Mike Mangini** — 2011-2023 (Selected via public 2010-2011 audition process; played on A Dramatic Turn of Events through A View from the Top of the World)
+- **Mike Portnoy** — 2023-present (Rejoined the band October 2023; returned to the studio for Parasomnia (2025))
 
 [Mike Portnoy full profile →](https://metalforge.io/drummer/mike-portnoy) · [LLM markdown](https://metalforge.io/llms/drummers/mike-portnoy.md)
 
-**Mike Mangini** — 2010–2023
-Mike Mangini, a Berklee College of Music professor and multiple-time Guinness World Record holder for drum speed, replaced Portnoy and recorded five albums with Dream Theater. His precise, technically flawless style brought a different character to the band. He recorded *A Dramatic Turn of Events* (2011), *Dream Theater* (2013), *The Astonishing* (2016), *Distance Over Time* (2019), and *A View from the Top of the World* (2021).
+## Current Members
 
-[Mike Mangini full profile →](https://metalforge.io/drummer/mike-mangini) · [LLM markdown](https://metalforge.io/llms/drummers/mike-mangini.md)
+- **James LaBrie** — vocals — 1991-present (Joined after debut album, replacing Charlie Dominici)
+- **John Petrucci** — guitar — 1985-present (Co-founder)
+- **John Myung** — bass — 1985-present (Co-founder)
+- **Jordan Rudess** — keyboards — 1999-present (Joined after Derek Sherinian's departure)
+- **Mike Portnoy** — drums — 1985-2010, 2023-present (Co-founder; departed 2010, rejoined October 2023)
 
-## Kit Overview
+## Former Members
 
-Mike Portnoy is famous for his massive multi-kit configurations. His current Tama setup uses **Tama Starclassic Maple/Birch** shells paired with **Sabian HHX Series** cymbals.
+- **Chris Collins** — vocals — 1985-1986 (Original vocalist in the band's Majesty/early Dream Theater era)
+- **Charlie Dominici** — vocals — 1987-1989 (Sang on debut album When Dream and Day Unite, then dismissed)
+- **Kevin Moore** — keyboards — 1985-1994 (Founding keyboardist, left after Awake (1994))
+- **Derek Sherinian** — keyboards — 1994-1999 (Replaced Moore, left before Metropolis Pt. 2)
+- **Mike Mangini** — drums — 2011-2023 (Selected via public audition process after Portnoy's 2010 exit; former Berklee College of Music faculty)
 
-- **Drums:** Tama Starclassic Maple/Birch
-- **Snare:** Tama Mike Portnoy Signature Melody Master 14×5.5"
-- **Cymbals:** Sabian HHX Series (14" Evolution Hi-Hats, 18" & 19" Evolution Crashes, 21" Raw Bell Dry Ride, 10" & 12" Evolution Splashes, 19" O-Zone Crash)
-- **Pedals:** Tama Iron Cobra Power Glide Double Pedal
-- **Throne:** Tama 1st Chair Ergo-Rider
+## Discography
 
-Mike Mangini used **Pearl Reference Series** drums with **Sabian HHX & AAX Series** cymbals.
-
-## Signature Sound
-
-Dream Theater's drumming is defined by technical virtuosity within complex progressive compositions. Portnoy co-wrote and arranged many of the band's most celebrated works, including the 23-minute "A Change of Seasons" and the *Metropolis Pt. 2: Scenes from a Memory* concept album. His ability to navigate shifting time signatures (7/8, 9/8, 5/4) while maintaining emotional expressiveness is his hallmark. Mangini brought a metronomically precise, mathematically exact approach — his odd-metre phrasing on *A Dramatic Turn of Events* showcases his Berklee-trained technical depth.
-
-## Albums
-
-| Album | Year | Drummer |
-|---|---|---|
-| When Dream and Day Unite | 1989 | Mike Portnoy |
-| Images and Words | 1992 | Mike Portnoy |
-| Awake | 1994 | Mike Portnoy |
-| A Change of Seasons (EP) | 1995 | Mike Portnoy |
-| Falling into Infinity | 1997 | Mike Portnoy |
-| Metropolis Pt. 2: Scenes from a Memory | 1999 | Mike Portnoy |
-| Six Degrees of Inner Turbulence | 2002 | Mike Portnoy |
-| Train of Thought | 2003 | Mike Portnoy |
-| Octavarium | 2005 | Mike Portnoy |
-| Systematic Chaos | 2007 | Mike Portnoy |
-| Black Clouds & Silver Linings | 2009 | Mike Portnoy |
-| A Dramatic Turn of Events | 2011 | Mike Mangini |
-| Dream Theater | 2013 | Mike Mangini |
-| The Astonishing | 2016 | Mike Mangini |
-| Distance Over Time | 2019 | Mike Mangini |
-| A View from the Top of the World | 2021 | Mike Mangini |
-| Parasomnia | 2025 | Mike Portnoy |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| When Dream and Day Unite | 1989 | Mike Portnoy | Debut album, with Charlie Dominici on vocals |
+| Images and Words | 1992 | Mike Portnoy | First album with James LaBrie |
+| Awake | 1994 | Mike Portnoy | Last album with Kevin Moore |
+| Falling into Infinity | 1997 | Mike Portnoy |  |
+| Metropolis Pt. 2: Scenes from a Memory | 1999 | Mike Portnoy | First album with Jordan Rudess |
+| Six Degrees of Inner Turbulence | 2002 | Mike Portnoy |  |
+| Train of Thought | 2003 | Mike Portnoy |  |
+| Octavarium | 2005 | Mike Portnoy |  |
+| Systematic Chaos | 2007 | Mike Portnoy |  |
+| Black Clouds & Silver Linings | 2009 | Mike Portnoy | Portnoy's final studio album before his 2010 departure |
+| A Dramatic Turn of Events | 2011 | Mike Mangini | Mangini's first album with the band |
+| Dream Theater | 2013 | Mike Mangini | Self-titled album |
+| The Astonishing | 2016 | Mike Mangini | Double-disc concept album |
+| Distance Over Time | 2019 | Mike Mangini |  |
+| A View from the Top of the World | 2021 | Mike Mangini | Mangini's final album before Portnoy's return |
+| Parasomnia | 2025 | Mike Portnoy | First album with Portnoy since his 2023 return |
 
 ## FAQ
 
-**Q: Who plays drums in Dream Theater?**
-A: Mike Portnoy is the current drummer (returned in 2023) and co-founder. Mike Mangini drummed from 2010 to 2023, recording five studio albums.
+**Q: Who is the drummer for Dream Theater?**
+A: Mike Portnoy is Dream Theater's drummer. He co-founded the band in 1985, played on every album through Black Clouds & Silver Linings (2009), left in 2010, and rejoined in October 2023, returning to the studio for Parasomnia (2025).
 
-**Q: What drum kit does Mike Portnoy use?**
-A: Mike Portnoy plays Tama Starclassic Maple/Birch drums with his signature Melody Master snare and Sabian HHX cymbals. He is famous for using multiple connected drum setups in live performances.
+**Q: Why did Mike Portnoy leave Dream Theater in 2010?**
+A: Portnoy announced his departure in September 2010 after 25 years in the band, citing a need for a break and creative differences; the remaining members opted to continue rather than go on hiatus.
 
-**Q: What cymbals does Dream Theater's drummer use?**
-A: Mike Portnoy uses Sabian HHX Series cymbals including HHX Evolution Hi-Hats and Raw Bell Dry Ride. Mike Mangini used Pearl drums with Sabian HHX and AAX cymbals.
+**Q: How did Dream Theater find Mike Mangini as Portnoy's replacement?**
+A: The band publicly auditioned seven drummers — including Mike Mangini, Derek Roddy, Thomas Lang, Virgil Donati, Marco Minnemann, Aquiles Priester, and Peter Wildoer — documenting the process on YouTube before selecting Mangini, a Berklee College of Music faculty member, in April 2011.
 
-**Q: Why did Mike Portnoy leave Dream Theater?**
-A: Mike Portnoy left Dream Theater in September 2010, citing creative burnout and a desire to pursue other projects. He returned to the band in 2023.
+**Q: What was Dream Theater's original name?**
+A: The band formed in 1985 at Berklee College of Music under the name Majesty, changing to Dream Theater in 1987 after a legal dispute over the name with another band.
 
-**Q: Who is Mike Mangini?**
-A: Mike Mangini is a Berklee College of Music professor and multiple Guinness World Record holder for drum speed. He replaced Mike Portnoy in 2010 and recorded five Dream Theater studio albums before being replaced by Portnoy's return in 2023.
+## Sources
+
+- https://en.wikipedia.org/wiki/Dream_Theater
+- https://en.wikipedia.org/wiki/Black_Clouds_%26_Silver_Linings
+- https://en.wikipedia.org/wiki/Mike_Portnoy
 
 ---
 
 **Full band profile:** [Dream Theater on MetalForge](https://metalforge.io/bands/dream-theater)
 
-**Drummer LLM files:** [Mike Portnoy](https://metalforge.io/llms/drummers/mike-portnoy.md) · [Mike Mangini](https://metalforge.io/llms/drummers/mike-mangini.md)
+**Drummer LLM file:** [Mike Portnoy](https://metalforge.io/llms/drummers/mike-portnoy.md)
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 
-*Last updated: 2026-06-20 · Source: [MetalForge.io](https://metalforge.io)*
+*Last updated: 2026-07-16 · Source: [MetalForge.io](https://metalforge.io)*

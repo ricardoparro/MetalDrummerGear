@@ -1,77 +1,91 @@
-# Opeth — Drummer & Gear Profile | MetalForge
+# Opeth — Drummer & Band Profile | MetalForge
 
-> Per-band AI citation reference for Opeth. Covers drummer history, kit setup, and gear details.
-> Optimised for AI queries: 'who drums for Opeth', 'Martin Axenrot drum kit', 'Opeth drummer gear'.
+> Per-band AI citation reference for Opeth: verified drummer history, lineup, discography, and FAQ.
+> Optimised for queries like 'who is the drummer for Opeth', 'Waltteri Vayrynen Opeth', 'Opeth band members'.
 
 ## Band Overview
 
-- **Drummers:** Martin Lopez (1997–2006), Martin Axenrot (2006–present)
+- **Drummer:** Waltteri Vayrynen (2022-present)
 - **Genre:** Progressive Death Metal, Progressive Rock
-- **Active:** 1990–present
-- **Country:** Sweden (Stockholm)
 - **Status:** Active
+- **Formed:** 1990
+- **Origin:** Stockholm, Sweden
 
-## Drummer(s)
+## Summary
 
-**Martin Lopez** — 1997–2006
-Martin Lopez, of Swedish-Uruguayan descent, drummed on Opeth's most critically acclaimed run: *Still Life* (1999), *Blackwater Park* (2001), *Deliverance* and *Damnation* (2002/2003), and *Ghost Reveries* (2005). His jazz-influenced dynamics and seamless transitions between extreme metal brutality and delicate acoustic passages helped define Opeth's signature sound. He left in 2006 due to health issues and later co-founded Soen.
+Opeth, formed in 1990 in Stockholm, Sweden, pioneered a fusion of death metal and progressive rock across a genre-defying discography.
 
-[Martin Lopez full profile →](https://metalforge.io/drummer/martin-lopez) · [LLM markdown](https://metalforge.io/llms/drummers/martin-lopez.md)
+## Drummer History
 
-**Martin Axenrot** — 2006–present
-Martin Axenrot replaced Martin Lopez mid-tour during the *Ghost Reveries* cycle, bringing an extreme metal pedigree from 13 years in Swedish death metal band Witchery. He made his Opeth studio debut on *Watershed* (2008) and has anchored every album since, including the band's dramatic 1970s-progressive-rock pivot on *Heritage* (2011). Axenrot also drums for death metal supergroup Bloodbath.
+- **Amirion Even** — 1990 (Founding drummer of the original 1990 lineup; no album recordings, left before the band's rebuild)
+- **Anders Nordin** — 1990-1997 (Drummer on Orchid and Morningrise; left in 1997 after De Farfalla's dismissal)
+- **Martin Lopez** — 1997-2006 (Also founding member of Soen; left due to stress-related illness)
+- **Martin Axenrot** — 2006-2021 (Also plays in Bloodbath; left November 2021 over vaccination conflict)
+- **Waltteri Vayrynen** — 2022-present (Formerly of Paradise Lost and Bodom After Midnight)
 
-[Martin Axenrot full profile →](https://metalforge.io/drummer/martin-axenrot) · [LLM markdown](https://metalforge.io/llms/drummers/martin-axenrot.md)
+[Waltteri Vayrynen full profile →](https://metalforge.io/drummer/waltteri-vayrynen) · [LLM markdown](https://metalforge.io/llms/drummers/waltteri-vayrynen.md)
 
-## Kit Overview
+## Current Members
 
-Martin Axenrot plays a **Sonor SQ2** kit with twin 22×18" bass drums — a departure from Martin Lopez's single-kick rig — paired with **Meinl Byzance** cymbals for the dark, complex tonal range Opeth's dynamic material requires.
+- **Mikael Åkerfeldt** — vocals, guitars — 1990-present (Founding member and primary songwriter)
+- **Martín Méndez** — bass — 1997-present (Joined alongside Martin Lopez in 1997)
+- **Fredrik Åkesson** — lead guitar — 2007-present (Also plays in Arch Enemy live)
+- **Joakim Svalberg** — keyboards, backing vocals — 2011-present
+- **Waltteri Väyrynen** — drums — 2022-present (Formerly of Paradise Lost and Bodom After Midnight)
 
-- **Drums (Axenrot):** Sonor SQ2 Series (twin 22×18" bass drums)
-- **Snare (Axenrot):** Sonor SQ2 14×5.75" Maple
-- **Cymbals (Axenrot):** Meinl Byzance Series (14" Traditional Medium Hi-Hats, 16"/18"/19" Crashes, 22" Ride, 18" China)
-- **Pedals (Axenrot):** Tama Iron Cobra Double Pedal
-- **Drums (Lopez):** Noble & Cooley Walnut
-- **Snare (Lopez):** Noble & Cooley Solid Shell 14×6" Maple
-- **Cymbals (Lopez):** Zildjian K Dark Series
+## Former Members
 
-## Signature Sound
+- **Amirion "Rille" Evén** — drums — 1990 (Founding drummer of the very first Opeth lineup; no album recordings)
+- **Anders Nordin** — drums — 1990-1997 (Drummer on Orchid (1995) and Morningrise (1996))
+- **Martin Lopez** — drums — 1997-2006 (Left due to stress-related illness; also founding member of Soen)
+- **Martin Axenrot** — drums — 2006-2021 (Left in November 2021 citing conflict of interest and refusal to be vaccinated against COVID-19; also plays in Bloodbath)
+- **Johan De Farfalla** — bass — 1991 (Left after the band's second show)
+- **Peter Lindgren** — guitars — 1990-2007 (Founding guitarist)
 
-Opeth's drumming has always served the band's genre-defying fusion of death metal and progressive rock. Martin Lopez's dynamic, jazz-informed playing on *Blackwater Park* (2001) helped define progressive death metal, moving fluidly between extreme intensity and whisper-quiet acoustic passages. Martin Axenrot's twin-bass-drum setup brought a heavier, more aggressive attack from 2006 onward, powering both Opeth's extreme material and its later progressive-rock-influenced direction on *Heritage* (2011) and beyond.
+## Discography
 
-## Albums
-
-| Album | Year | Drummer |
-|---|---|---|
-| Still Life | 1999 | Martin Lopez |
-| Blackwater Park | 2001 | Martin Lopez |
-| Ghost Reveries | 2005 | Martin Lopez |
-| Watershed | 2008 | Martin Axenrot |
-| Heritage | 2011 | Martin Axenrot |
-| In Cauda Venenum | 2019 | Martin Axenrot |
+| Album | Year | Drummer | Notes |
+|---|---|---|---|
+| Orchid | 1995 | Anders Nordin |  |
+| Morningrise | 1996 | Anders Nordin |  |
+| My Arms, Your Hearse | 1998 | Martin Lopez |  |
+| Still Life | 1999 | Martin Lopez |  |
+| Blackwater Park | 2001 | Martin Lopez |  |
+| Deliverance | 2002 | Martin Lopez |  |
+| Damnation | 2003 | Martin Lopez |  |
+| Ghost Reveries | 2005 | Martin Lopez | Lopez's last full studio album before leaving due to illness |
+| Watershed | 2008 | Martin Axenrot |  |
+| Heritage | 2011 | Martin Axenrot |  |
+| Pale Communion | 2014 | Martin Axenrot |  |
+| Sorceress | 2016 | Martin Axenrot |  |
+| In Cauda Venenum | 2019 | Martin Axenrot |  |
+| The Last Will and Testament | 2024 | Waltteri Vayrynen | First album with Väyrynen on drums |
 
 ## FAQ
 
-**Q: Who is the current Opeth drummer?**
-A: Martin Axenrot has been Opeth's drummer since 2006, when he replaced Martin Lopez mid-tour on the *Ghost Reveries* cycle.
+**Q: Who is the drummer for Opeth?**
+A: Waltteri Väyrynen has been Opeth's drummer since September 2022, when he was announced as the replacement for Martin Axenrot. Väyrynen previously drummed for Paradise Lost and Alexi Laiho's Bodom After Midnight.
 
-**Q: What drum kit does Martin Axenrot play?**
-A: Martin Axenrot plays a Sonor SQ2 Series kit with twin 22×18" bass drums, a 14×5.75" maple snare, and Meinl Byzance cymbals.
+**Q: Why did Martin Axenrot leave Opeth?**
+A: Axenrot departed in November 2021 after 15 years in the band. The band cited a conflict of interest and stated Axenrot had refused to get vaccinated against COVID-19, which prevented him from touring.
 
-**Q: What drum kit did Martin Lopez play with Opeth?**
-A: Martin Lopez played a Noble & Cooley Walnut kit with a 14×6" maple snare and Zildjian K Dark Series cymbals.
+**Q: Who drummed on Opeth's earliest albums, Orchid and Morningrise?**
+A: Anders Nordin drummed on Opeth's first two albums, Orchid (1995) and Morningrise (1996), before Martin Lopez joined in 1997.
 
 **Q: Why did Martin Lopez leave Opeth?**
-A: Martin Lopez left Opeth in 2006 due to severe panic disorder, which he has spoken about openly. He later co-founded Soen in 2010.
+A: Lopez stopped performing with Opeth in August 2005 after suffering stress-related illness and panic attacks; his departure was made official in 2006, with Martin Axenrot taking over.
 
-**Q: Does Martin Axenrot play in other bands?**
-A: Yes. Martin Axenrot has also been a core member of death metal supergroup Bloodbath since 2008, alongside members of Katatonia and Paradise Lost.
+## Sources
+
+- https://en.wikipedia.org/wiki/Opeth
+- https://en.wikipedia.org/wiki/List_of_Opeth_band_members
+- https://en.wikipedia.org/wiki/Opeth_discography
 
 ---
 
 **Full band profile:** [Opeth on MetalForge](https://metalforge.io/bands/opeth)
 
-**Drummer LLM files:** [Martin Lopez](https://metalforge.io/llms/drummers/martin-lopez.md) · [Martin Axenrot](https://metalforge.io/llms/drummers/martin-axenrot.md)
+**Drummer LLM file:** [Waltteri Vayrynen](https://metalforge.io/llms/drummers/waltteri-vayrynen.md)
 
 **More resources:** [All bands](https://metalforge.io/llms/bands.md) · [Site index](https://metalforge.io/llms.txt)
 

@@ -2367,11 +2367,50 @@ function getMetaForPath(pathname) {
     if (band) {
       const drummerMember = band.members?.find(m => /drum/i.test(m.role));
       const drummerName = drummerMember?.name;
+
+      // Issue #4755: drive the "who is the drummer" FAQ answer off the real
+      // drum-chair timeline (last drummerHistory entry) instead of a generic
+      // stand-in, respecting status: 'disbanded' with past tense + final drummer.
+      const drummerHistory = band.drummerHistory || [];
+      const lastHistoryEntry = drummerHistory.length > 0 ? drummerHistory[drummerHistory.length - 1] : null;
+      const toDisplayName = (slug) =>
+        drummerSlugToName[slug] || slug.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+      const tenurePhrase = (period) => {
+        if (!period) return '';
+        if (period.includes('present')) return `since ${period.split('-')[0]}`;
+        const [start, end] = period.split('-');
+        return !end || start === end ? `in ${start}` : `from ${start} to ${end}`;
+      };
+      const finalDrummerName = lastHistoryEntry ? toDisplayName(lastHistoryEntry.drummer) : drummerName;
+      const drummerFaq = lastHistoryEntry
+        ? {
+            question: `Who is the drummer for ${band.name}?`,
+            answer: band.status === 'disbanded'
+              ? `${finalDrummerName} was ${band.name}'s last drummer, playing ${tenurePhrase(lastHistoryEntry.period)} before the band disbanded.`
+              : `${finalDrummerName} has been ${band.name}'s drummer ${tenurePhrase(lastHistoryEntry.period)}.`,
+          }
+        : (drummerName
+            ? {
+                question: `Who is the drummer for ${band.name}?`,
+                answer: `The drummer for ${band.name} is ${drummerName}. Visit MetalForge for their complete gear breakdown.`,
+              }
+            : null);
+
+      // Flagship albums: debut + most recent verified-drummer discography entries
+      // (falls back to just the debut if there's only one, or none if discography is missing).
+      const discographyWithDrummer = (band.discography || []).filter(a => a.drummer && a.title);
+      const flagshipAlbums = discographyWithDrummer.length === 0
+        ? []
+        : discographyWithDrummer[0].title !== discographyWithDrummer[discographyWithDrummer.length - 1].title
+          ? [discographyWithDrummer[0], discographyWithDrummer[discographyWithDrummer.length - 1]]
+          : [discographyWithDrummer[0]];
+      const albumFaqItems = flagshipAlbums.map(album => ({
+        question: `Who played drums on ${band.name}'s ${album.title}?`,
+        answer: `${toDisplayName(album.drummer)} played drums on ${band.name}'s ${album.title}${album.year ? ` (${album.year})` : ''}.`,
+      }));
+
       const faqItems = [
-        ...(drummerName ? [{
-          question: `Who is the drummer for ${band.name}?`,
-          answer: `The drummer for ${band.name} is ${drummerName}. Visit MetalForge for their complete gear breakdown.`,
-        }] : []),
+        ...(drummerFaq ? [drummerFaq] : []),
         {
           question: `What drum kit does ${band.name}'s drummer use?`,
           answer: `See the complete drum gear setup for ${band.name}'s drummer at MetalForge, including kit, cymbals, pedals, and sticks.`,
@@ -2380,6 +2419,7 @@ function getMetaForPath(pathname) {
           question: `What genre is ${band.name}?`,
           answer: `${band.name} plays ${band.genres?.join(', ') || 'metal'}.`,
         },
+        ...albumFaqItems,
       ];
       const slug = bandMatch[1];
       return {
@@ -2417,6 +2457,14 @@ function getMetaForPath(pathname) {
           { name: 'Bands', url: `${BASE_URL}/bands` },
           { name: band.name, url: `${BASE_URL}/bands/${slug}` },
         ],
+        // Issue #4755: crawlable drum-chair timeline links for the bot-served SSR
+        // shell — only drummers who exist in the roster (drummerSlugToName) get a link.
+        ssrLinks: drummerHistory
+          .filter(h => drummerSlugToName[h.drummer])
+          .map(h => ({
+            href: `/drummer/${h.drummer}`,
+            label: `${drummerSlugToName[h.drummer]} (${h.period}) — ${band.name}`,
+          })),
         faqSchema: faqItems,
       };
     }

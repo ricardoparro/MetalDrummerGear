@@ -13522,7 +13522,7 @@ function DrummerBioPage({ theme, onBack, drummer, onSelectDrummer }) {
 /**
  * DrummerHistoryItem - Single drummer in the history timeline
  */
-function DrummerHistoryItem({ entry, drummer, onSelectDrummer, theme, isLast }) {
+function DrummerHistoryItem({ entry, drummer, albums, onSelectDrummer, theme, isLast }) {
   const { width } = useWindowDimensions();
   const isMobile = width < 768;
 
@@ -13564,6 +13564,13 @@ function DrummerHistoryItem({ entry, drummer, onSelectDrummer, theme, isLast }) 
             {entry.notes}
           </Text>
         )}
+        {albums && albums.length > 0 && (
+          <View style={styles.drummerHistoryAlbums}>
+            <Text style={[styles.drummerHistoryAlbumsText, { color: theme.secondaryText }]}>
+              Albums: {albums.map(a => `${a.title} (${a.year})`).join(', ')}
+            </Text>
+          </View>
+        )}
         {drummer && (
           <TouchableOpacity
             onPress={() => onSelectDrummer(drummer.id)}
@@ -13590,13 +13597,14 @@ function DrummerHistorySection({ band, drummers, onSelectDrummer, theme }) {
     return null;
   }
 
-  // Map drummer slugs to actual drummer data
+  // Map drummer slugs to actual drummer data, plus the albums that era recorded (Issue #4755)
   const resolvedHistory = band.drummerHistory.map(entry => {
-    const drummer = drummers.find(d => 
-      toSlug(d.name) === entry.drummer || 
+    const drummer = drummers.find(d =>
+      toSlug(d.name) === entry.drummer ||
       d.name.toLowerCase().replace(/\s+/g, '-') === entry.drummer
     );
-    return { entry, drummer };
+    const albums = (band.discography || []).filter(album => album.drummer === entry.drummer);
+    return { entry, drummer, albums };
   });
 
   return (
@@ -13617,11 +13625,12 @@ function DrummerHistorySection({ band, drummers, onSelectDrummer, theme }) {
         DRUMMER HISTORY
       </Text>
       <View style={styles.drummerHistoryList}>
-        {resolvedHistory.map(({ entry, drummer }, index) => (
+        {resolvedHistory.map(({ entry, drummer, albums }, index) => (
           <DrummerHistoryItem
             key={`${entry.drummer}-${entry.period}`}
             entry={entry}
             drummer={drummer}
+            albums={albums}
             onSelectDrummer={onSelectDrummer}
             theme={theme}
             isLast={index === resolvedHistory.length - 1}
@@ -31743,6 +31752,12 @@ const styles = StyleSheet.create({
     fontSize: fontSize.sm,
     fontStyle: 'italic',
     marginBottom: spacing[2],      // 8px
+  },
+  drummerHistoryAlbums: {
+    marginBottom: spacing[2],      // 8px
+  },
+  drummerHistoryAlbumsText: {
+    fontSize: fontSize.sm,
   },
   drummerHistoryLink: {
     marginTop: spacing[1],         // 4px
